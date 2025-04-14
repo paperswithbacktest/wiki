@@ -52,7 +52,7 @@ On the other hand, if a country has a trade deficit, it's buying more things fro
 
 ## What are the factors that influence a country's balance of trade?
 
-A country's balance of trade is influenced by many things. One big factor is how much people in the country want to buy things from other countries. If people want a lot of foreign goods, like cars or electronics, the country will import more, which can lead to a trade deficit. Another factor is how much other countries want to buy things made in the country. If the country makes things that other countries really want, like technology or food, it can have a trade surplus because it exports more.
+A country's balance of trade is influenced by many things. One big [factor](/wiki/factor-investing) is how much people in the country want to buy things from other countries. If people want a lot of foreign goods, like cars or electronics, the country will import more, which can lead to a trade deficit. Another factor is how much other countries want to buy things made in the country. If the country makes things that other countries really want, like technology or food, it can have a trade surplus because it exports more.
 
 Exchange rates also play a big role. If a country's money is worth a lot compared to other countries' money, its exports might be too expensive for other countries to buy. This can lead to a trade deficit. But if the country's money is worth less, its exports become cheaper, which can help the country sell more things and have a trade surplus. Government policies can also affect the balance of trade. For example, if a government puts taxes on imports, it can make foreign goods more expensive, which might make people buy more things made at home.
 
@@ -74,7 +74,7 @@ On the other hand, a country with a long-term trade surplus can have some good t
 
 The balance of trade is a part of the bigger picture called the balance of payments. The balance of payments is like a big report that shows all the money coming in and going out of a country. It includes money from selling things to other countries (exports) and money spent on buying things from other countries (imports), which is the balance of trade. But it also includes other things like money from tourists, money sent home by people working in other countries, and money from investments.
 
-If a country has a trade surplus, where it sells more than it buys, this can help the balance of payments look better because more money is coming into the country. But if it has a trade deficit, where it buys more than it sells, the balance of payments might look worse because more money is going out. The balance of payments helps countries see if they're spending more money than they're earning, which can be important for making decisions about the country's money and economy.
+If a country has a trade surplus, where it sells more than it buys, this can help the balance of payments look better because more money is coming into the country. But if it has a trade deficit, where it buys more than it sells, the balance of payments might look worse because more money is going out. The balance of payments helps countries see if they're spending more money than they're [earning](/wiki/earning-announcement), which can be important for making decisions about the country's money and economy.
 
 ## What strategies can countries use to improve their balance of trade?
 

@@ -66,7 +66,7 @@ Even though synthetic futures can give you more freedom than regular futures, yo
 
 You can use synthetic futures with other derivatives to make more complex trading plans. For example, you might use synthetic futures with options spreads to manage risk better. An options spread is when you buy and sell options at different strike prices or expiration dates. If you think the price of a stock will move a lot but you're not sure which way, you can use a synthetic futures contract to bet on the price moving, and then use an options spread to limit your risk if the price doesn't move as much as you thought. This way, you can still make money if the price moves a lot, but you won't lose as much if it stays the same.
 
-Another way to use synthetic futures with other derivatives is to combine them with swaps. A swap is an agreement to exchange cash flows based on different things, like interest rates or stock prices. If you want to bet on the price of a stock but also want to manage the risk from changes in interest rates, you can use a synthetic futures contract to follow the stock price and a swap to manage the interest rate risk. This can be a good way to make a plan that fits your needs better and helps you manage different kinds of risks at the same time.
+Another way to use synthetic futures with other derivatives is to combine them with swaps. A swap is an agreement to exchange cash flows based on different things, like interest rates or stock prices. If you want to bet on the price of a stock but also want to manage the risk from changes in interest rates, you can use a synthetic futures contract to follow the stock price and a swap to manage the [interest rate](/wiki/interest-rate-trading-strategies) risk. This can be a good way to make a plan that fits your needs better and helps you manage different kinds of risks at the same time.
 
 ## How can synthetic futures contracts be used to manage portfolio risk?
 
@@ -141,7 +141,7 @@ $$
 
 Where Risk per Trade is typically a percentage of the total portfolio and Trade Risk is the difference between the entry price and the stop-loss price.
 
-Traders face numerous challenges in the derivatives market, such as market volatility and counterparty risk. Market volatility refers to the rate at which the price of a derivative can increase or decrease for a given set of returns. High volatility can lead to significant price swings that can adversely affect trading positions, often necessitating the use of volatility measures, such as the standard deviation or the more complex Black-Scholes volatility model, to assess potential price movements.
+Traders face numerous challenges in the derivatives market, such as market [volatility](/wiki/volatility-trading-strategies) and counterparty risk. Market volatility refers to the rate at which the price of a derivative can increase or decrease for a given set of returns. High volatility can lead to significant price swings that can adversely affect trading positions, often necessitating the use of volatility measures, such as the standard deviation or the more complex Black-Scholes volatility model, to assess potential price movements.
 
 Counterparty risk is the possibility that the other party in a derivatives contract will default on their obligations. This risk can be managed by scrutinizing the creditworthiness of counterparties and utilizing centralized clearinghouses, which act as intermediaries to ensure the fulfillment of swap agreements.
 

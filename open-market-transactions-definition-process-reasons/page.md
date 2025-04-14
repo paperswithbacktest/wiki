@@ -34,7 +34,7 @@ As the brokers buy or sell the stock, other people on the stock market can see w
 
 ## Who are the typical participants in open-market transactions?
 
-The main participants in open-market transactions are the company itself and the brokers who work for them. When a company wants to buy or sell its own stock, it uses brokers to do this on the stock market. Brokers are like helpers who know how to trade on the stock market and follow its rules. They carry out the company's plan to buy or sell stock, and they do this in a way that everyone can see.
+The main participants in open-market transactions are the company itself and the brokers who work for them. When a company wants to buy or sell its own stock, it uses brokers to do this on the stock market. Brokers are like helpers who know how to trade on the stock market and follow its rules. They [carry](/wiki/carry-trading) out the company's plan to buy or sell stock, and they do this in a way that everyone can see.
 
 Other participants in open-market transactions are the regular investors and traders on the stock market. These are people or organizations that buy and sell stocks every day. They might not know that the company is buying or selling its own stock, but they can see the trades happening. Their actions, along with the company's, help decide the price of the stock. Everyone follows the same rules, so it's fair for all.
 

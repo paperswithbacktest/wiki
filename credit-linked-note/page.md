@@ -74,7 +74,7 @@ Now, CLNs are used all over the world and come in many different forms. They can
 
 One notable example of Credit-Linked Notes in action was during the financial crisis of 2008. Banks like Lehman Brothers used CLNs to manage their risk. They issued CLNs linked to the credit risk of mortgage-backed securities. When the housing market crashed, many of these securities defaulted, and the value of the CLNs dropped sharply. This showed how CLNs can be very risky if the companies they're linked to run into trouble. It also taught investors and banks to be more careful about what kinds of risks they're taking on with CLNs.
 
-Another example is how CLNs have been used in emerging markets. For instance, banks in countries like Brazil and Mexico have issued CLNs to manage their risk when lending to local businesses. These CLNs are often linked to the credit risk of the borrowing companies. If the companies do well, the CLNs pay out as expected. But if the companies struggle, the CLNs might not pay out fully. This helps banks in these countries lend more safely and supports economic growth. It also gives investors from around the world a chance to invest in these markets, spreading their risk and potentially earning higher returns.
+Another example is how CLNs have been used in emerging markets. For instance, banks in countries like Brazil and Mexico have issued CLNs to manage their risk when lending to local businesses. These CLNs are often linked to the credit risk of the borrowing companies. If the companies do well, the CLNs pay out as expected. But if the companies struggle, the CLNs might not pay out fully. This helps banks in these countries lend more safely and supports economic growth. It also gives investors from around the world a chance to invest in these markets, spreading their risk and potentially [earning](/wiki/earning-announcement) higher returns.
 
 ## What regulatory considerations should be taken into account when dealing with Credit-Linked Notes?
 
@@ -122,7 +122,7 @@ Credit-Linked Notes (CLNs) offer a unique proposition in the landscape of financ
 
 The integration of CLNs into algorithmic trading involves developing strategies that account for the distinct features of CLNs, such as their dependence on credit events and the creditworthiness of reference entities. Algorithms tailored for CLNs often incorporate credit risk modeling, which evaluates the probability of a credit event occurring and its potential impact on the CLN. 
 
-These algorithms might employ statistical analysis and machine learning models to estimate credit spreads and detect patterns in credit default swap (CDS) spreads, which are closely related to the pricing of CLNs. For example, a logistic regression model might be used to predict the likelihood of a default event based on historical data:
+These algorithms might employ statistical analysis and [machine learning](/wiki/machine-learning) models to estimate credit spreads and detect patterns in credit default swap (CDS) spreads, which are closely related to the pricing of CLNs. For example, a logistic regression model might be used to predict the likelihood of a default event based on historical data:
 
 $$
 \text{Probability}(\text{Default}) = \frac{1}{1 + e^{-(\beta_0 + \beta_1 x_1 + \beta_2 x_2 + \ldots + \beta_n x_n)}}

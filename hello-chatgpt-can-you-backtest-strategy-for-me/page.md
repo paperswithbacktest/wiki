@@ -28,7 +28,7 @@ After you have your data, you use a computer program or software to run the back
 
 ## What data is required to effectively backtest a trading strategy?
 
-To effectively backtest a trading strategy, you need historical price data for the stocks, commodities, or other assets you want to test. This data should include the open, high, low, and close prices for each trading day, as well as the trading volume. Some strategies might also need other information like dividends, stock splits, or interest rates. The more detailed and accurate the data, the better your backtest will be. You can get this data from financial databases or websites that offer historical market information.
+To effectively backtest a trading strategy, you need historical price data for the stocks, commodities, or other assets you want to test. This data should include the open, high, low, and close prices for each trading day, as well as the trading [volume](/wiki/volume-trading-strategy). Some strategies might also need other information like dividends, stock splits, or interest rates. The more detailed and accurate the data, the better your backtest will be. You can get this data from financial databases or websites that offer historical market information.
 
 Once you have the price data, you also need to consider the time frame for your backtest. Depending on your strategy, you might need data from several years to make sure it works in different market conditions. For example, a strategy that works well in a bull market might not work in a bear market. Make sure the data covers enough time to include different economic cycles. This way, you can see if your strategy is robust and can handle various market situations.
 
@@ -36,7 +36,7 @@ Once you have the price data, you also need to consider the time frame for your 
 
 Choosing the right time frame for backtesting is important because it helps you see how your trading strategy would work in different market situations. You want to pick a time frame that is long enough to include both good and bad market conditions. For example, if you only test your strategy over a short period when the market was going up, you might think it's great, but it could fail when the market goes down. So, a good rule is to use at least 3 to 5 years of data. This way, you can see how your strategy does in bull markets, bear markets, and everything in between.
 
-The time frame you choose also depends on the kind of trading you plan to do. If you are day trading, you might need data with 1-minute or 5-minute intervals to test your strategy accurately. But if you are a long-term investor, daily or weekly data might be enough. The key is to match the time frame of your backtest to the time frame of your trading strategy. This makes sure that the results you get from backtesting are useful for how you plan to trade in the future.
+The time frame you choose also depends on the kind of trading you plan to do. If you are [day trading](/wiki/day-trading-spy), you might need data with 1-minute or 5-minute intervals to test your strategy accurately. But if you are a long-term investor, daily or weekly data might be enough. The key is to match the time frame of your backtest to the time frame of your trading strategy. This makes sure that the results you get from backtesting are useful for how you plan to trade in the future.
 
 ## What are common pitfalls to avoid when backtesting with ChatGPT?
 

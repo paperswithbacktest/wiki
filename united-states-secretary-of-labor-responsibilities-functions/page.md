@@ -36,7 +36,7 @@ Once the laws are made, the Secretary of Labor makes sure they are followed. The
 
 The Secretary of Labor is in charge of the whole Department of Labor. This big department has many smaller parts that help with different things. Some of these parts focus on making sure workplaces are safe, like the Occupational Safety and Health Administration (OSHA). Others work on making sure workers get paid fairly, like the Wage and Hour Division. There are also parts that help people find jobs, like the Employment and Training Administration.
 
-Another important part of the Department of Labor is the Bureau of Labor Statistics. This group collects information about jobs and the economy. They tell us things like how many people are working and how much they are earning. The Secretary of Labor uses this information to make good decisions about labor policies. All these different parts work together to help workers and make sure they are treated fairly.
+Another important part of the Department of Labor is the Bureau of Labor Statistics. This group collects information about jobs and the economy. They tell us things like how many people are working and how much they are [earning](/wiki/earning-announcement). The Secretary of Labor uses this information to make good decisions about labor policies. All these different parts work together to help workers and make sure they are treated fairly.
 
 ## How does the Secretary of Labor work with other government officials?
 

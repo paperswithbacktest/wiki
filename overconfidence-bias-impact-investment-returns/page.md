@@ -42,7 +42,7 @@ Another reason for overconfidence is something called the illusion of control. W
 
 ## Can overconfidence bias lead to better investment returns under certain conditions?
 
-Sometimes, overconfidence bias can actually help with investment returns, but only if certain things are true. If someone is really good at picking stocks and knows a lot about the market, their overconfidence might make them act quickly and take advantage of good opportunities. They might feel so sure about a stock that they buy it right away, and if they're right, they can make more money than someone who is more careful and takes longer to decide.
+Sometimes, overconfidence bias can actually help with investment returns, but only if certain things are true. If someone is really good at [picking](/wiki/asset-class-picking) stocks and knows a lot about the market, their overconfidence might make them act quickly and take advantage of good opportunities. They might feel so sure about a stock that they buy it right away, and if they're right, they can make more money than someone who is more careful and takes longer to decide.
 
 But, this is risky and doesn't happen often. Most of the time, overconfidence leads to bad choices because people think they know more than they do. They might not do enough research or spread their money out in different investments, which is safer. So, while overconfidence can sometimes lead to better returns if everything goes perfectly, it usually causes more problems and losses than gains.
 

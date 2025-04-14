@@ -78,7 +78,7 @@ For Global Depositary Receipts (GDRs), a notable example is the GDR for Gazprom,
 
 Depositary Receipts help connect the global financial market by letting people invest in companies from other countries easily. When a bank issues Depositary Receipts, it makes it simpler for investors to buy shares in foreign companies without dealing with different stock exchanges or currencies. This can bring more money to companies from all over the world, helping them grow and expand. It also lets investors spread their money across different countries, which can lower their risk if one country's economy does badly.
 
-The use of Depositary Receipts can also make the global market more active and liquid. When more people can buy and sell shares in foreign companies, it can increase the trading volume on stock exchanges. This can lead to more stable prices and better chances for investors to make money. However, it's important to remember that Depositary Receipts can also bring more risk because they depend on foreign economies and rules, which can change and affect the value of the investment.
+The use of Depositary Receipts can also make the global market more active and liquid. When more people can buy and sell shares in foreign companies, it can increase the trading [volume](/wiki/volume-trading-strategy) on stock exchanges. This can lead to more stable prices and better chances for investors to make money. However, it's important to remember that Depositary Receipts can also bring more risk because they depend on foreign economies and rules, which can change and affect the value of the investment.
 
 ## What is Algo Trading: A Modern Trading Approach?
 
@@ -96,7 +96,7 @@ Data analytics play a pivotal role in algorithmic trading, allowing traders to e
 
 Algorithmic trading has broad implications across various financial instruments, ranging from equities and foreign exchange to commodities and derivatives. By automating trades, firms can lower manual intervention, minimize human error, and streamline their trading operations. Additionally, automated systems ensure consistent adherence to predefined trading criteria, leading to more disciplined trading and the removal of emotional bias from decision-making.
 
-The rise of algorithmic trading has reshaped market dynamics, contributing to increased liquidity as algorithms provide continuous bid-ask quotes and execute large volumes of orders without significantly impacting market prices. This enhanced liquidity not only benefits algorithmic traders but also improves the overall market environment by narrowing spreads and enhancing price discovery.
+The rise of algorithmic trading has reshaped market dynamics, contributing to increased [liquidity](/wiki/liquidity-risk-premium) as algorithms provide continuous bid-ask quotes and execute large volumes of orders without significantly impacting market prices. This enhanced liquidity not only benefits algorithmic traders but also improves the overall market environment by narrowing spreads and enhancing price discovery.
 
 Despite its advantages, algorithmic trading poses challenges, including increased market [volatility](/wiki/volatility-trading-strategies) and the necessity for robust risk management systems to prevent substantial losses due to erroneous algorithms or unforeseen market events. Consequently, continuous monitoring and refinement of algorithms are essential to adapt to evolving market conditions.
 

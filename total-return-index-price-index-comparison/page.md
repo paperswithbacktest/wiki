@@ -18,7 +18,7 @@ This kind of index is useful because it shows the real growth of an investment o
 
 A Price Index is a type of stock market index that only looks at the changes in the prices of stocks. It does not include any extra money, like dividends, that investors might get from owning the stocks. So, if you want to know how the prices of a group of stocks are going up or down, you can look at a Price Index.
 
-This kind of index is useful for understanding how the market is doing based just on stock prices. But, it doesn't give you the full picture of what investors are earning because it leaves out dividends. For example, if a company's stock price goes down a little but it pays out big dividends, the Price Index would show a loss, even though the total return for investors might still be good.
+This kind of index is useful for understanding how the market is doing based just on stock prices. But, it doesn't give you the full picture of what investors are [earning](/wiki/earning-announcement) because it leaves out dividends. For example, if a company's stock price goes down a little but it pays out big dividends, the Price Index would show a loss, even though the total return for investors might still be good.
 
 ## How do Total Return Index and Price Index differ?
 

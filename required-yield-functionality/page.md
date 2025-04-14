@@ -74,7 +74,7 @@ Real estate is another type of investment where required yield matters. Buying a
 
 Yes, required yield can help people compare different investment opportunities. It's like a tool that lets you see if an investment is good enough for you. If you know what return you want, you can look at different investments and see which ones meet or beat that number. For example, if you want a 5% return, you can check if a stock, a bond, or a piece of real estate can give you that much. If one investment offers 6% and another only 3%, the one with 6% looks more attractive because it meets your required yield better.
 
-This way, required yield helps you make smart choices. It's not just about picking the investment with the highest return; it's about finding the one that fits what you need and how much risk you're okay with. If an investment doesn't give you the return you want, you'll know to look elsewhere. By using required yield to compare options, you can build a plan that helps you reach your financial goals without taking too much risk.
+This way, required yield helps you make smart choices. It's not just about [picking](/wiki/asset-class-picking) the investment with the highest return; it's about finding the one that fits what you need and how much risk you're okay with. If an investment doesn't give you the return you want, you'll know to look elsewhere. By using required yield to compare options, you can build a plan that helps you reach your financial goals without taking too much risk.
 
 ## What advanced techniques can be used to optimize required yield in a portfolio?
 
@@ -140,7 +140,7 @@ Understanding these concepts enables investors to systematically evaluate their 
 
 ## References & Further Reading
 
-Explore the intersection of financial formulas, yield types, and algorithmic trading for deeper insights through reputable resources and further learning.
+Explore the intersection of financial formulas, yield types, and [algorithmic trading](/wiki/algorithmic-trading) for deeper insights through reputable resources and further learning.
 
 1. **Books and Texts**:
    - "Options, Futures, and Other Derivatives" by John C. Hull: This book provides an extensive overview of financial derivatives, their valuation, and trading strategies, suitable for understanding investment returns and risk management.

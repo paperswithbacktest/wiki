@@ -28,7 +28,7 @@ External influences on EBITDA are things outside the company that it can't contr
 
 ## What are some common external economic factors that impact EBITDA margins?
 
-Economic factors outside a company can really change its EBITDA margins. One big factor is how the overall economy is doing. When the economy is growing, people and businesses usually have more money to spend, which can boost a company's sales and profits. But if the economy is in a downturn, people might cut back on spending, which can hurt a company's sales and lower its EBITDA margins.
+Economic factors outside a company can really change its EBITDA margins. One big [factor](/wiki/factor-investing) is how the overall economy is doing. When the economy is growing, people and businesses usually have more money to spend, which can boost a company's sales and profits. But if the economy is in a downturn, people might cut back on spending, which can hurt a company's sales and lower its EBITDA margins.
 
 Another important factor is inflation. When prices go up because of inflation, a company might have to pay more for the things it needs to make its products or provide its services. If the company can't raise its prices to match the higher costs, its profits and EBITDA margins could go down. On the flip side, if inflation is low, a company might find it easier to keep its costs under control and keep its EBITDA margins healthy.
 

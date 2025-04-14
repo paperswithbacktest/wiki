@@ -82,7 +82,7 @@ Another strategy is to use Tax Anticipation Bills to take advantage of low inter
 
 ## What are the current market trends and investment opportunities?
 
-The demand for short-term municipal notes, particularly Tax Anticipation Notes (TANs), has surged in today's volatile markets. These financial instruments are increasingly seen as vital for ensuring liquidity amid fluctuating revenue streams. This growing interest from institutional investors can primarily be attributed to their inherent structure and benefits.
+The demand for short-term municipal notes, particularly Tax Anticipation Notes (TANs), has surged in today's volatile markets. These financial instruments are increasingly seen as vital for ensuring [liquidity](/wiki/liquidity-risk-premium) amid fluctuating revenue streams. This growing interest from institutional investors can primarily be attributed to their inherent structure and benefits.
 
 TANs are leveraged by institutional investors for stable, short-term investments due to their predictable yield and tax-exempt status. In an economic environment characterized by uncertainty, these notes provide a reliable vehicle for managing short-term cash flows. They offer an attractive blend of minimal risk and tax advantages that appeal to investors looking to preserve capital while enjoying favorable tax treatment.
 

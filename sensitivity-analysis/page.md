@@ -30,7 +30,7 @@ After you've tested all the variables, look at your results to see which ones ha
 
 ## Can you explain the difference between local and global sensitivity analysis?
 
-Local sensitivity analysis looks at how small changes in one input at a time affect the outcome of a model. Imagine you're adjusting the volume on your TV. You turn it up a little bit and see how much louder it gets. That's like local sensitivity analysis. It's good for understanding how sensitive your model is to small changes, but it only tells you about what happens near the starting point. If you want to know what happens when you turn the volume up a lot, or if you change other settings too, local sensitivity analysis won't help much.
+Local sensitivity analysis looks at how small changes in one input at a time affect the outcome of a model. Imagine you're adjusting the [volume](/wiki/volume-trading-strategy) on your TV. You turn it up a little bit and see how much louder it gets. That's like local sensitivity analysis. It's good for understanding how sensitive your model is to small changes, but it only tells you about what happens near the starting point. If you want to know what happens when you turn the volume up a lot, or if you change other settings too, local sensitivity analysis won't help much.
 
 Global sensitivity analysis, on the other hand, looks at how the whole range of changes in all inputs at once can affect the outcome. It's like testing your TV by changing the volume, the bass, and the treble all at the same time and seeing how it sounds. This type of analysis gives you a bigger picture of how your model behaves under all sorts of conditions. It's more complex and takes more work, but it's really useful if you want to understand how different parts of your model work together and how they might affect each other.
 
@@ -86,7 +86,7 @@ In environmental impact assessments, sensitivity analysis is used to see how cha
 
 ## What are the tools and techniques for sensitivity analysis?
 
-Various techniques are indispensable for conducting effective sensitivity analysis in algorithmic trading. Among the most prevalent are Monte Carlo simulations, parameter optimization, and [backtesting](/wiki/backtesting). Each technique serves a different purpose and offers unique insights into the behavior and resilience of trading strategies.
+Various techniques are indispensable for conducting effective sensitivity analysis in [algorithmic trading](/wiki/algorithmic-trading). Among the most prevalent are Monte Carlo simulations, parameter optimization, and [backtesting](/wiki/backtesting). Each technique serves a different purpose and offers unique insights into the behavior and resilience of trading strategies.
 
 ### Monte Carlo Simulations
 

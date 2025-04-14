@@ -90,11 +90,11 @@ SEC EDGAR Database: [https://www.sec.gov/edgar.shtml]
 This is the official database where the U.S. Securities and Exchange Commission (SEC) makes company filings available to the public. It is a critical resource for accessing Form 10-K filings, among other disclosures, to analyze company performance and make informed investment decisions.
 
 Advances in Financial Machine Learning by Marcos Lopez de Prado  
-This book offers a comprehensive overview of the intersection between machine learning and finance. It covers a wide range of topics relevant to algorithmic trading, including techniques for developing predictive models from financial data, with examples of applications and strategies.
+This book offers a comprehensive overview of the intersection between [machine learning](/wiki/machine-learning) and finance. It covers a wide range of topics relevant to [algorithmic trading](/wiki/algorithmic-trading), including techniques for developing predictive models from financial data, with examples of applications and strategies.
 
 Quantitative Trading: How to Build Your Own Algorithmic Trading Business by Ernest P. Chan  
 Ernest P. Chan provides insights into building a successful algorithmic trading enterprise. The book guides readers through the process of developing and implementing trading algorithms using quantitative techniques, including integration with various data inputs such as SEC filings.
 
 A Forecast Comparison of Volatility Models by Peter R. Hansen and Allan Lunde  
-This research paper compares various models for forecasting volatility, which is a crucial component in the development of trading strategies. Understanding volatility can enhance risk management and profitability in trading models, forming an integral part of the decision-making process in algorithmic trading.
+This research paper compares various models for forecasting [volatility](/wiki/volatility-trading-strategies), which is a crucial component in the development of trading strategies. Understanding volatility can enhance risk management and profitability in trading models, forming an integral part of the decision-making process in algorithmic trading.
 

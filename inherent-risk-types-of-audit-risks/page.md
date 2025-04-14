@@ -22,7 +22,7 @@ Control risk, on the other hand, is about how well the company's internal contro
 
 ## Can you provide examples of factors that increase inherent risk?
 
-Some things that can make inherent risk higher are when a company deals with a lot of cash. Cash is easy to steal or lose, so there's a bigger chance of mistakes or fraud. Another factor is if the company uses a lot of guesses or estimates in their financial statements. For example, if they have to guess how much their inventory is worth, there's a higher chance they might get it wrong.
+Some things that can make inherent risk higher are when a company deals with a lot of cash. Cash is easy to steal or lose, so there's a bigger chance of mistakes or fraud. Another [factor](/wiki/factor-investing) is if the company uses a lot of guesses or estimates in their financial statements. For example, if they have to guess how much their inventory is worth, there's a higher chance they might get it wrong.
 
 Also, if a company works in a fast-changing industry, like technology, it can make inherent risk go up. New products and services can be hard to value correctly, and the financial statements might not show the true situation. Lastly, if a company does business in countries with different rules and laws, it can make things more complicated. Different rules can make it harder to keep the financial statements accurate, which increases the inherent risk.
 
@@ -76,7 +76,7 @@ Auditors need to think about inherent risk to figure out how much they need to c
 
 ## What advanced techniques can be used to quantify inherent risk in complex auditing scenarios?
 
-In complex auditing scenarios, auditors can use advanced techniques like statistical models and data analytics to quantify inherent risk. These tools help auditors look at a lot of data from the company and find patterns or unusual things that might show where mistakes or fraud could happen. For example, auditors might use regression analysis to see how different parts of the business affect the financial statements. They can also use machine learning to predict where the highest risks are based on past data. By using these advanced techniques, auditors can get a better idea of how high the inherent risk is and where they need to focus their work.
+In complex auditing scenarios, auditors can use advanced techniques like statistical models and data analytics to quantify inherent risk. These tools help auditors look at a lot of data from the company and find patterns or unusual things that might show where mistakes or fraud could happen. For example, auditors might use regression analysis to see how different parts of the business affect the financial statements. They can also use [machine learning](/wiki/machine-learning) to predict where the highest risks are based on past data. By using these advanced techniques, auditors can get a better idea of how high the inherent risk is and where they need to focus their work.
 
 Another advanced technique auditors might use is Monte Carlo simulation. This method helps auditors understand how different things can change the financial statements and how likely those changes are to happen. By running many different scenarios, auditors can see how sensitive the financial statements are to different risks. This helps them figure out where the biggest risks are and how much they need to check those areas. Using these advanced techniques can make the audit more accurate and help auditors catch any big mistakes before they become a problem.
 

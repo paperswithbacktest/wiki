@@ -98,7 +98,7 @@ In summary, while the cap rate is a valuable tool for assessing real estate inve
 
 ## What is the Role of Cap Rate in Algo Trading Strategies?
 
-Cap rates, or capitalization rates, are crucial metrics for rapid assessment of property investment opportunities and can be seamlessly integrated into algorithmic trading models. The cap rate is expressed as:
+Cap rates, or capitalization rates, are crucial metrics for rapid assessment of property investment opportunities and can be seamlessly integrated into [algorithmic trading](/wiki/algorithmic-trading) models. The cap rate is expressed as:
 
 $$
 \text{Cap Rate} = \frac{\text{Net Operating Income (NOI)}}{\text{Market Value of the Property}}

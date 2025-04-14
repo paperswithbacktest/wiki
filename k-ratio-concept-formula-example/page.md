@@ -52,7 +52,7 @@ On the other hand, if the K-Ratio is low, it might mean the risk isn't worth it.
 
 ## What is considered a good K-Ratio value?
 
-A good K-Ratio value is usually one that is higher than 1. This means that for the risk you're taking with your investment, you're getting more reward than you would from a safe investment like a government bond. If your K-Ratio is above 1, it's a sign that the extra risk is worth it because you're earning more money. For example, if your investment gives you a 10% return and a government bond gives you 2%, and the risk (measured by standard deviation) is 5%, your K-Ratio would be (10% - 2%) / 5% = 1.6, which is considered good.
+A good K-Ratio value is usually one that is higher than 1. This means that for the risk you're taking with your investment, you're getting more reward than you would from a safe investment like a government bond. If your K-Ratio is above 1, it's a sign that the extra risk is worth it because you're [earning](/wiki/earning-announcement) more money. For example, if your investment gives you a 10% return and a government bond gives you 2%, and the risk (measured by standard deviation) is 5%, your K-Ratio would be (10% - 2%) / 5% = 1.6, which is considered good.
 
 However, what counts as a good K-Ratio can also depend on what you're comparing it to. If you're looking at a bunch of different investments, a higher K-Ratio compared to the others might mean that investment is the best choice. But even if a K-Ratio is above 1, it's still important to think about your own comfort with risk. Some people might be okay with a lower K-Ratio if they want to be safer with their money. So, while a K-Ratio above 1 is generally good, the best value for you depends on your own goals and how much risk you're willing to take.
 
@@ -112,9 +112,9 @@ $$
 K \text{-Ratio} = \frac{\text{slope of the regression line}}{\text{standard error of the regression}}
 $$
 
-Here, the slope of the regression line represents the average return rate, while the standard error indicates the volatility of these returns. This adaptation allows the K-Ratio to provide a balanced view of both return magnitude and stability.
+Here, the slope of the regression line represents the average return rate, while the standard error indicates the [volatility](/wiki/volatility-trading-strategies) of these returns. This adaptation allows the K-Ratio to provide a balanced view of both return magnitude and stability.
 
-The evolution of the K-Ratio over the years has solidified its role as a complementary tool in financial analysis. It addresses the gap left by other ratios which often focus solely on risk without adequately considering the regularity of returns. In algorithmic trading, where precision and steadiness of performance are paramount, the K-Ratio has proven to be particularly valuable. By offering insights into an investment’s return pattern, it aids investors and traders in making informed decisions that align with their risk tolerance and investment objectives.
+The evolution of the K-Ratio over the years has solidified its role as a complementary tool in financial analysis. It addresses the gap left by other ratios which often focus solely on risk without adequately considering the regularity of returns. In [algorithmic trading](/wiki/algorithmic-trading), where precision and steadiness of performance are paramount, the K-Ratio has proven to be particularly valuable. By offering insights into an investment’s return pattern, it aids investors and traders in making informed decisions that align with their risk tolerance and investment objectives.
 
 Overall, the K-Ratio's development reflects the ongoing need in financial markets for robust metrics that account for both performance consistency and magnitude. Its advancement underscores its enduring relevance and utility in contemporary financial analysis.
 

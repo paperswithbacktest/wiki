@@ -86,7 +86,7 @@ Another time barometer stocks helped was during the dot-com bubble in the late 1
 
 ## How can indicators be integrated in algo trading?
 
-Technical indicators are a cornerstone of algorithmic trading setups, offering quantitative metrics that guide decision-making. Indicators such as the Moving Average Convergence Divergence (MACD), Relative Strength Index (RSI), and moving averages are widely utilized due to their ability to analyze price trends and market momentum.
+Technical indicators are a cornerstone of [algorithmic trading](/wiki/algorithmic-trading) setups, offering quantitative metrics that guide decision-making. Indicators such as the Moving Average Convergence Divergence (MACD), Relative Strength Index (RSI), and moving averages are widely utilized due to their ability to analyze price trends and market [momentum](/wiki/momentum).
 
 1. **Technical Indicators in Algo Trading**: 
    - **MACD** is used to identify changes in the strength, direction, momentum, and duration of a trend in a stock's price. It is calculated using the formula:  
@@ -108,7 +108,7 @@ $$
    By continuously monitoring both technical and economic indicators, algorithms gain the capability to swiftly react to market fluctuations. Economic indicators, such as GDP growth rates and inflation figures, also play a significant role in these strategies. Algorithms can incorporate real-time data to adjust and execute trades that align closely with the existing market conditions.
 
 3. **Competitive Edge**:
-   The integration of these indicators in algorithmic trading provides a competitive advantage by ensuring that trading strategies remain adaptive to market volatility. This adaptability not only enhances the precision of trade execution but also aligns trades with prevailing economic trends, thereby maximizing potential gains. For instance, when an upward trend is detected through technical indicators, an algorithm can swiftly initiate buy orders, capitalizing on anticipated price increases.
+   The integration of these indicators in algorithmic trading provides a competitive advantage by ensuring that trading strategies remain adaptive to market [volatility](/wiki/volatility-trading-strategies). This adaptability not only enhances the precision of trade execution but also aligns trades with prevailing economic trends, thereby maximizing potential gains. For instance, when an upward trend is detected through technical indicators, an algorithm can swiftly initiate buy orders, capitalizing on anticipated price increases.
 
 4. **Python Code Implementation**:
    Below is a simple Python example demonstrating the calculation of a moving average using the `pandas` library:

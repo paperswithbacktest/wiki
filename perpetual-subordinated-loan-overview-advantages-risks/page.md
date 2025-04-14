@@ -46,7 +46,7 @@ Another risk is that the interest payments might stop. Even though the loan last
 
 ## How is the interest rate determined for perpetual subordinated loans?
 
-The interest rate for perpetual subordinated loans is set based on how risky the loan is. Since these loans are the last to get paid back if the issuer goes bankrupt, they are seen as riskier than other types of loans. Because of this, the interest rate is usually higher to make up for the extra risk. The rate is also influenced by the overall market conditions and the creditworthiness of the issuer. If the issuer is seen as more likely to have financial problems, the interest rate will be higher to attract investors.
+The [interest rate](/wiki/interest-rate-trading-strategies) for perpetual subordinated loans is set based on how risky the loan is. Since these loans are the last to get paid back if the issuer goes bankrupt, they are seen as riskier than other types of loans. Because of this, the interest rate is usually higher to make up for the extra risk. The rate is also influenced by the overall market conditions and the creditworthiness of the issuer. If the issuer is seen as more likely to have financial problems, the interest rate will be higher to attract investors.
 
 When setting the interest rate, the issuer and investors also look at what other similar loans are offering. If other perpetual subordinated loans are paying a certain rate, the new loan will need to be competitive to attract investors. This means the interest rate can change over time as market conditions and the issuer's financial health change. Overall, the interest rate is a balance between the risk the investors are taking and the need to make the loan attractive enough for people to invest in it.
 

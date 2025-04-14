@@ -18,7 +18,7 @@ Sustainable ETFs work by tracking an index of companies that meet certain ESG cr
 
 A major sustainable investing ETF selects its investments by looking at companies that do well in environmental, social, and governance (ESG) areas. They use special rules to decide which companies to include. These rules might focus on things like how much a company pollutes, how it treats its workers, and how honest its leaders are. The ETF managers look at lots of data and reports to make sure the companies meet these standards.
 
-Once the ETF managers have the data, they compare it to a special list, called an index, that only includes companies with good ESG scores. The ETF then tries to match this index by buying shares in the companies on the list. This way, the ETF can offer investors a way to put their money into companies that are trying to make the world a better place, while also aiming to make a profit.
+Once the [ETF](/wiki/etf-trading-strategies) managers have the data, they compare it to a special list, called an index, that only includes companies with good [ESG](/wiki/esg-investing) scores. The ETF then tries to match this index by buying shares in the companies on the list. This way, the ETF can offer investors a way to put their money into companies that are trying to make the world a better place, while also aiming to make a profit.
 
 ## What are the key performance indicators for a sustainable investing ETF?
 
@@ -52,7 +52,7 @@ In terms of returns, it's hard to say if sustainable ETFs will always do better 
 
 When you invest in a major sustainable investing ETF, you'll need to pay some fees. One of the main fees is the expense ratio. This is a yearly fee that the ETF charges, and it's usually a small percentage of the total amount you have invested. For example, if the expense ratio is 0.20%, you'll pay $20 a year for every $10,000 you have in the ETF. Sustainable ETFs often have expense ratios that are similar to traditional ETFs, but they can vary. It's a good idea to check the expense ratio before you invest, because lower fees mean more of your money stays in your pocket.
 
-There might also be other fees to think about. If you buy or sell shares of the ETF, you might have to pay a transaction fee, depending on where you're buying it from. Some brokers don't charge these fees, but others do. Also, if the ETF is actively managed, meaning someone is picking the companies to invest in, the fees might be higher than for a passively managed ETF, which just follows an index. So, it's important to look at all the fees before you decide to invest in a sustainable ETF.
+There might also be other fees to think about. If you buy or sell shares of the ETF, you might have to pay a transaction fee, depending on where you're buying it from. Some brokers don't charge these fees, but others do. Also, if the ETF is actively managed, meaning someone is [picking](/wiki/asset-class-picking) the companies to invest in, the fees might be higher than for a passively managed ETF, which just follows an index. So, it's important to look at all the fees before you decide to invest in a sustainable ETF.
 
 ## How has the major sustainable investing ETF performed historically?
 

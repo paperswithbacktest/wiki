@@ -70,7 +70,7 @@ On the other hand, if you lose money on stocks bought with margin, you might be 
 
 ## How do interest rates affect margin buying?
 
-Interest rates play a big role in margin buying. When you use margin, you're borrowing money from your broker to buy stocks. The interest rate is what you pay for borrowing that money. If interest rates go up, it costs you more to borrow, which can eat into your profits. For example, if you're making money from your stocks but the interest you're paying is high, you might not make as much as you hoped.
+Interest rates play a big role in margin buying. When you use margin, you're borrowing money from your broker to buy stocks. The [interest rate](/wiki/interest-rate-trading-strategies) is what you pay for borrowing that money. If interest rates go up, it costs you more to borrow, which can eat into your profits. For example, if you're making money from your stocks but the interest you're paying is high, you might not make as much as you hoped.
 
 On the other hand, if interest rates are low, borrowing money on margin becomes cheaper. This can make margin buying more attractive because you're paying less to use the broker's money. But remember, even if interest rates are low, margin buying is still risky. If the stock prices go down, you could lose more money than you started with, no matter how low the interest rate is. So, it's important to think about interest rates when deciding whether to use margin, but also to be careful and understand the risks.
 

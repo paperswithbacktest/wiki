@@ -70,7 +70,7 @@ In a TV show about a business, if a project is going really badly and no one is 
 
 ## How can 'In The Tank' be critically analyzed in academic research?
 
-In academic research, 'in the tank' can be studied to understand how language reflects and affects people's feelings and actions. Researchers might look at how the phrase is used in different places like sports, school, or work. They could study if saying someone is 'in the tank' makes them feel worse or if it helps others see that they need support. By looking at examples from books, movies, or real life, researchers can see how the phrase has changed over time and what it tells us about society's views on failure and trying again.
+In academic research, 'in the tank' can be studied to understand how language reflects and affects people's feelings and actions. Researchers might look at how the phrase is used in different places like sports, school, or work. They could study if saying someone is 'in the tank' makes them feel worse or if it helps others see that they need support. By looking at examples from [books](/wiki/algo-trading-books), movies, or real life, researchers can see how the phrase has changed over time and what it tells us about society's views on failure and trying again.
 
 Another way to analyze 'in the tank' in academic research is to look at its use in media and politics. Researchers might study how news stories or political speeches use the phrase to talk about failure or bad choices. They could see if using 'in the tank' changes how people think about a politician or a policy. By comparing how the phrase is used in different countries or cultures, researchers can learn more about how language shapes our understanding of success and failure.
 

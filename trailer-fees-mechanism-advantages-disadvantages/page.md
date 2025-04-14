@@ -82,7 +82,7 @@ Looking ahead, trailer fees might keep changing. More and more, people are talki
 
 ## What is the future of investment strategies?
 
-As technology continues to advance, the role of algorithmic trading (algo trading) in fund management is expected to become more pronounced, offering fresh strategies and insights for investors. Algo trading, characterized by its ability to execute trades at high speeds and volumes based on pre-set criteria, provides a competitive edge through precision and efficiency. This technology is particularly impactful in optimizing transaction costs, which in turn can enhance fund performance.
+As technology continues to advance, the role of [algorithmic trading](/wiki/algorithmic-trading) (algo trading) in fund management is expected to become more pronounced, offering fresh strategies and insights for investors. Algo trading, characterized by its ability to execute trades at high speeds and volumes based on pre-set criteria, provides a competitive edge through precision and efficiency. This technology is particularly impactful in optimizing transaction costs, which in turn can enhance fund performance.
 
 The increased integration of algo trading in investment strategies underlines the importance of understanding both the technology itself and related financial incentives, such as trailer fees. Trailer fees, as commissions paid to advisors, can introduce potential conflicts of interest. Therefore, investors must be vigilant in acknowledging these fees when evaluating fund options.
 

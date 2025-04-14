@@ -46,7 +46,7 @@ To fix this, you might need to adjust your portfolio to reduce returns concentra
 
 ## What are the potential benefits of high returns concentration?
 
-High returns concentration can lead to big wins. If you put a lot of your money into just a few investments and those investments do really well, you could make a lot more money than if your money was spread out. Imagine you bet all your money on one horse in a race, and that horse wins by a lot. You'd be really happy because you made a big profit from just that one horse. So, if you're good at picking the right investments, high returns concentration can help you earn more.
+High returns concentration can lead to big wins. If you put a lot of your money into just a few investments and those investments do really well, you could make a lot more money than if your money was spread out. Imagine you bet all your money on one horse in a race, and that horse wins by a lot. You'd be really happy because you made a big profit from just that one horse. So, if you're good at [picking](/wiki/asset-class-picking) the right investments, high returns concentration can help you earn more.
 
 But, there's a catch. If those few investments you bet on do badly, you could lose a lot more money than if your money was spread out. It's like if that horse you bet on falls and doesn't finish the race. You'd be really sad because you lost all your money on just that one horse. So, while high returns concentration can lead to big wins, it can also lead to big losses if you're not careful.
 
@@ -82,9 +82,9 @@ Another method is using principal component analysis (PCA). This technique helps
 
 ## How can we evaluate strategy performance?
 
-Assessing the performance of algorithmic trading strategies is crucial for understanding returns concentration. By using specific metrics, traders can quantify and evaluate the effectiveness and risks associated with their strategies. Key performance indicators include the Sharpe Ratio, Maximum Drawdown, Win Rate, Profit Factor, and Average Trade Value, each providing unique insights into strategy performance.
+Assessing the performance of [algorithmic trading](/wiki/algorithmic-trading) strategies is crucial for understanding returns concentration. By using specific metrics, traders can quantify and evaluate the effectiveness and risks associated with their strategies. Key performance indicators include the Sharpe Ratio, Maximum Drawdown, Win Rate, Profit Factor, and Average Trade Value, each providing unique insights into strategy performance.
 
-The **Sharpe Ratio** is essential for evaluating risk-adjusted returns. It measures the average return earned in excess of the risk-free rate per unit of volatility or total risk. The formula for the Sharpe Ratio is:
+The **Sharpe Ratio** is essential for evaluating risk-adjusted returns. It measures the average return earned in excess of the risk-free rate per unit of [volatility](/wiki/volatility-trading-strategies) or total risk. The formula for the Sharpe Ratio is:
 
 $$
 

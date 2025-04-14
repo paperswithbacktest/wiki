@@ -86,7 +86,7 @@ Another trend is the rise of specialized funding platforms and trading contests.
 
 ## How can you evaluate your trading strategy?
 
-Evaluating your trading strategy is a critical step in securing funding for algorithmic trading. A thorough assessment using key performance metrics can determine the robustness and potential of your trading strategy, making it more attractive to investors and funders.
+Evaluating your trading strategy is a critical step in securing funding for [algorithmic trading](/wiki/algorithmic-trading). A thorough assessment using key performance metrics can determine the robustness and potential of your trading strategy, making it more attractive to investors and funders.
 
 Understanding and optimizing several key performance metrics can offer valuable insights into the strengths and weaknesses of your trading strategy. These metrics are essential for convincing potential funders of the viability and profitability of your approach.
 

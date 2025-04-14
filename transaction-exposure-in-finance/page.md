@@ -40,7 +40,7 @@ One common way to manage transaction exposure is by using forward contracts. A f
 
 Another strategy is to use options. Options give a company the right, but not the obligation, to exchange currency at a certain rate. This can be useful if a company wants to protect itself from bad changes in the exchange rate but still wants to benefit if the rate moves in its favor. For instance, if the exchange rate gets better, the company can choose not to use the option and exchange at the better rate. Options can be a bit more expensive than forward contracts, but they offer more flexibility.
 
-Companies can also use natural hedging, which means they try to match their foreign currency revenues with their foreign currency costs. For example, if a U.S. company earns money in euros from sales in Europe, it can use those euros to pay for things it buys in Europe. This way, changes in the exchange rate won't affect the company as much because it's using the same currency for both earning and spending. Natural hedging can be a good way to manage transaction exposure without using financial tools.
+Companies can also use natural hedging, which means they try to match their foreign currency revenues with their foreign currency costs. For example, if a U.S. company earns money in euros from sales in Europe, it can use those euros to pay for things it buys in Europe. This way, changes in the exchange rate won't affect the company as much because it's using the same currency for both [earning](/wiki/earning-announcement) and spending. Natural hedging can be a good way to manage transaction exposure without using financial tools.
 
 ## How can forward contracts be used to hedge transaction exposure?
 

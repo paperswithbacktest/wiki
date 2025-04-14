@@ -46,7 +46,7 @@ Another key framework is the Corporate Governance Guideline, which helps banks s
 
 ## How does OSFI assess and manage risks in financial institutions?
 
-OSFI looks at risks in banks and other financial companies by checking how much money they have and how they use it. They want to make sure these companies have enough money to cover any problems that might come up. OSFI does this by looking at the company's books and making sure they follow the rules about how much money they need to keep. They also look at how the company is doing overall, to see if it is strong and healthy.
+OSFI looks at risks in banks and other financial companies by checking how much money they have and how they use it. They want to make sure these companies have enough money to cover any problems that might come up. OSFI does this by looking at the company's [books](/wiki/algo-trading-books) and making sure they follow the rules about how much money they need to keep. They also look at how the company is doing overall, to see if it is strong and healthy.
 
 If OSFI finds a risk, they talk to the company about it. They might tell the company to fix the problem or change how they do things. OSFI keeps watching the company to make sure it does what it needs to do. By doing this, OSFI helps make sure that the company stays safe and that it can handle any surprises that might happen. This helps keep the whole financial system in Canada strong and trustworthy.
 
@@ -64,7 +64,7 @@ On the world stage, OSFI works with other countries' financial watchdogs. They s
 
 ## What recent initiatives has OSFI undertaken to adapt to emerging financial trends and technologies?
 
-OSFI has been working hard to keep up with new financial trends and technologies. One big thing they have done is to look at how banks and other financial companies use new technology, like online banking and artificial intelligence. They want to make sure these new tools are safe and do not cause problems. OSFI has also been looking at how banks can use data to better understand and manage their risks. This helps banks be more ready for any surprises that might come up.
+OSFI has been working hard to keep up with new financial trends and technologies. One big thing they have done is to look at how banks and other financial companies use new technology, like online banking and [artificial intelligence](/wiki/ai-artificial-intelligence). They want to make sure these new tools are safe and do not cause problems. OSFI has also been looking at how banks can use data to better understand and manage their risks. This helps banks be more ready for any surprises that might come up.
 
 Another important thing OSFI has done is to update their rules to include new kinds of financial services, like cryptocurrencies and fintech companies. These are new ways for people to handle their money, and OSFI wants to make sure they are safe and follow the rules. They have been talking to these new companies to learn more about what they do and how they can fit into Canada's financial system. By doing these things, OSFI helps make sure that Canada's financial system stays strong and can handle new changes.
 

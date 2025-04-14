@@ -46,7 +46,7 @@ Another way technology helps is by using algorithms. These are like smart math f
 
 ## What role does market volatility play in inventory management for market makers?
 
-Market volatility, which means how much and how fast stock prices change, is very important for market makers when they manage their inventory. When the market is very volatile, the prices of stocks can go up and down a lot in a short time. This makes it harder for market makers to decide when to buy or sell. If they have too much of a stock and the price suddenly drops, they might lose money when they sell it. On the other hand, if they don't have enough of a stock and the price suddenly goes up, they might miss out on making more money.
+Market [volatility](/wiki/volatility-trading-strategies), which means how much and how fast stock prices change, is very important for market makers when they manage their inventory. When the market is very volatile, the prices of stocks can go up and down a lot in a short time. This makes it harder for market makers to decide when to buy or sell. If they have too much of a stock and the price suddenly drops, they might lose money when they sell it. On the other hand, if they don't have enough of a stock and the price suddenly goes up, they might miss out on making more money.
 
 To deal with market volatility, market makers need to be very careful and quick in managing their inventory. They use tools and strategies to watch the market closely and adjust their inventory as needed. For example, they might set tighter limits on how much of each stock they hold when the market is volatile. By doing this, they can try to keep their inventory balanced and reduce the risk of losing money. Good inventory management in a volatile market helps market makers keep making profits and helps keep the market stable.
 
@@ -58,9 +58,9 @@ To manage their inventory across different assets, market makers also watch the 
 
 ## What advanced techniques can market makers use to predict inventory needs?
 
-Market makers can use advanced techniques like machine learning to predict their inventory needs. Machine learning is a type of computer program that can learn from data and make smart guesses about the future. Market makers can use this to look at past data on stock prices and trading volumes to see patterns. By understanding these patterns, they can predict when they might need more or less of a stock. This helps them keep the right amount of inventory and avoid having too much or too little.
+Market makers can use advanced techniques like [machine learning](/wiki/machine-learning) to predict their inventory needs. Machine learning is a type of computer program that can learn from data and make smart guesses about the future. Market makers can use this to look at past data on stock prices and trading volumes to see patterns. By understanding these patterns, they can predict when they might need more or less of a stock. This helps them keep the right amount of inventory and avoid having too much or too little.
 
-Another advanced technique is using predictive analytics. This involves using math and statistics to forecast what might happen in the future. Market makers can use predictive analytics to look at things like news events, economic reports, and other market data to guess how stock prices might change. By doing this, they can adjust their inventory before these changes happen. This helps them stay ahead of the market and manage their inventory more effectively, which can lead to more profits and a more stable market.
+Another advanced technique is using predictive analytics. This involves using math and [statistics](/wiki/bayesian-statistics) to forecast what might happen in the future. Market makers can use predictive analytics to look at things like news events, economic reports, and other market data to guess how stock prices might change. By doing this, they can adjust their inventory before these changes happen. This helps them stay ahead of the market and manage their inventory more effectively, which can lead to more profits and a more stable market.
 
 ## How does regulatory compliance impact inventory management strategies for market makers?
 
@@ -82,7 +82,7 @@ Using machine learning also helps market makers adjust their inventory quickly. 
 
 ## What are Inventory Models for Optimal Management?
 
-Economic Order Quantity (EOQ) is a fundamental model adapted for the financial context to manage and minimize the costs associated with ordering and holding securities. Traditionally used in inventory management for physical goods, EOQ's principles are applied to algorithmic trading to determine the optimal quantity of securities to hold or order while balancing the associated costs of transactions and capital holding. The model helps in identifying the point where the total cost of ownership, represented by the sum of ordering and holding costs, reaches its minimum.
+Economic Order Quantity (EOQ) is a fundamental model adapted for the financial context to manage and minimize the costs associated with ordering and holding securities. Traditionally used in inventory management for physical goods, EOQ's principles are applied to [algorithmic trading](/wiki/algorithmic-trading) to determine the optimal quantity of securities to hold or order while balancing the associated costs of transactions and capital holding. The model helps in identifying the point where the total cost of ownership, represented by the sum of ordering and holding costs, reaches its minimum.
 
 In algorithmic trading, a variant of the EOQ formula can be adapted as follows:
 

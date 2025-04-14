@@ -22,7 +22,7 @@ This is important because it can affect the price of the stock. If there are a l
 
 ## How does a liquidity taking strategy differ from a liquidity providing strategy?
 
-A liquidity taking strategy involves a trader buying or selling an asset by using the orders that are already in the market. This means the trader is taking away the liquidity that other traders have put into the market. For example, if you want to buy a stock, you look at the orders other people have placed to sell that stock and you buy from them. This can be good if you want to get in and out of a trade quickly, but it can also move the price a lot if there aren't many orders to take.
+A [liquidity](/wiki/liquidity-risk-premium) taking strategy involves a trader buying or selling an asset by using the orders that are already in the market. This means the trader is taking away the liquidity that other traders have put into the market. For example, if you want to buy a stock, you look at the orders other people have placed to sell that stock and you buy from them. This can be good if you want to get in and out of a trade quickly, but it can also move the price a lot if there aren't many orders to take.
 
 On the other hand, a liquidity providing strategy is when a trader puts their own orders into the market for others to use. Instead of taking away liquidity, they are adding it. For instance, if you want to sell a stock, you place an order at a certain price and wait for someone else to buy from you. This can be good if you want to earn a little bit of money from the difference between the price you set and the price someone is willing to pay, but it might take longer to complete the trade.
 
@@ -58,7 +58,7 @@ Also, the type of market you're in matters. In a market that moves a lot, like d
 
 When you're using a liquidity taking strategy, it's important to keep an eye on the bid-ask spread. This is the difference between the highest price someone is willing to pay for a stock and the lowest price someone is willing to sell it for. A small bid-ask spread means the market is liquid, and it's easier for you to take liquidity without moving the price too much. But if the spread is big, it might be harder to take liquidity, and you might end up paying more or getting less than you wanted.
 
-You should also watch the trading volume. This tells you how many shares of a stock are being bought and sold. If the volume is high, there are lots of people trading, and you can take liquidity more easily. But if the volume is low, there might not be enough orders for you to take, and your trades could move the price a lot. So, keeping an eye on these two things can help you decide when it's a good time to use a liquidity taking strategy.
+You should also watch the trading [volume](/wiki/volume-trading-strategy). This tells you how many shares of a stock are being bought and sold. If the volume is high, there are lots of people trading, and you can take liquidity more easily. But if the volume is low, there might not be enough orders for you to take, and your trades could move the price a lot. So, keeping an eye on these two things can help you decide when it's a good time to use a liquidity taking strategy.
 
 ## How can technology and algorithms enhance liquidity taking strategies?
 
@@ -76,7 +76,7 @@ Also, there are rules about how you report your trades. When you take liquidity,
 
 Liquidity taking strategies can be different depending on what kind of asset you're trading. For stocks, these strategies often work well because there are usually lots of people buying and selling. You can use market orders or aggressive limit orders to quickly buy or sell stocks without moving the price too much. But if you're trading something less common, like a small company's stock, it might be harder to take liquidity because there aren't as many orders to use. You might have to be more careful and maybe break your big orders into smaller ones to avoid moving the price a lot.
 
-For other assets like forex or commodities, liquidity taking strategies can also be useful, but you need to think about how these markets work. In the forex market, where currencies are traded, there's usually a lot of liquidity because it's a big market with people trading all the time. You can take liquidity easily, but you still need to watch the bid-ask spread and trading volume to make sure you're not paying too much. In the commodities market, like trading oil or gold, liquidity can change a lot depending on what's happening in the world. You might need to adjust your strategy based on these changes to make sure you're taking liquidity at the right time and not moving the price too much.
+For other assets like [forex](/wiki/forex-system) or commodities, liquidity taking strategies can also be useful, but you need to think about how these markets work. In the forex market, where currencies are traded, there's usually a lot of liquidity because it's a big market with people trading all the time. You can take liquidity easily, but you still need to watch the bid-ask spread and trading volume to make sure you're not paying too much. In the commodities market, like trading oil or gold, liquidity can change a lot depending on what's happening in the world. You might need to adjust your strategy based on these changes to make sure you're taking liquidity at the right time and not moving the price too much.
 
 ## What advanced techniques can be used to optimize liquidity taking in highly competitive markets?
 
@@ -86,7 +86,7 @@ Another advanced technique is to use algorithms that can change how they trade b
 
 ## How can one handle commissions and manage risk limits effectively?
 
-High-frequency trading (HFT) strategies inherently operate with high volumes of trades, making them particularly sensitive to transaction costs, such as commissions and fees. Given the sheer scale of transactions, even seemingly minor costs can significantly impact the overall profitability of an HFT strategy. Thus, incorporating these costs into profit and loss (PnL) calculations is crucial for accurate profitability analysis.
+High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) strategies inherently operate with high volumes of trades, making them particularly sensitive to transaction costs, such as commissions and fees. Given the sheer scale of transactions, even seemingly minor costs can significantly impact the overall profitability of an HFT strategy. Thus, incorporating these costs into profit and loss (PnL) calculations is crucial for accurate profitability analysis.
 
 Calculating the net PnL for a trading strategy can be expressed as:
 
@@ -108,11 +108,11 @@ def calculate_net_pnl(gross_pnl, commission_rate, trade_volume):
     return net_pnl
 ```
 
-In addition to considering transaction costs, robust risk management is essential for the success and sustainability of HFT strategies. A vital component of risk management is setting position limits to limit market exposure. This practice helps mitigate potential losses due to adverse market movements. Position limits can be set based on a variety of factors, including market volatility, liquidity, and the overall risk appetite of the trading entity.
+In addition to considering transaction costs, robust risk management is essential for the success and sustainability of HFT strategies. A vital component of risk management is setting position limits to limit market exposure. This practice helps mitigate potential losses due to adverse market movements. Position limits can be set based on a variety of factors, including market [volatility](/wiki/volatility-trading-strategies), liquidity, and the overall risk appetite of the trading entity.
 
 For instance, a maximum position limit can be defined to cap the total value of assets held at any time. This not only reduces the risk of excessive market exposure but also ensures compliance with regulatory requirements, which often mandate such limits to manage systemic risk.
 
-In summary, addressing transaction costs and implementing effective risk management strategies are crucial elements in optimizing the profitability and sustainability of liquidity-taking strategies in algorithmic trading. By carefully accounting for these factors, traders can enhance their decision-making process and improve overall strategy performance.
+In summary, addressing transaction costs and implementing effective risk management strategies are crucial elements in optimizing the profitability and sustainability of liquidity-taking strategies in [algorithmic trading](/wiki/algorithmic-trading). By carefully accounting for these factors, traders can enhance their decision-making process and improve overall strategy performance.
 
 ## References & Further Reading
 

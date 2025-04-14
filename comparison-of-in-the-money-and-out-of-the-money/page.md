@@ -58,7 +58,7 @@ ITM options also lose value because of time decay, but not as quickly as OTM opt
 
 ## How does implied volatility influence the choice between ITM and OTM options?
 
-Implied volatility can help you decide whether to buy ITM or OTM options. Implied volatility is a guess about how much a stock's price might move in the future. If the implied volatility is high, it means people think the stock price might change a lot. In this case, OTM options might be a good choice because they are cheaper and could make you a bigger profit if the stock price moves a lot in the right direction. But, they are also riskier because there's no guarantee the stock will move the way you expect.
+Implied [volatility](/wiki/volatility-trading-strategies) can help you decide whether to buy ITM or OTM options. Implied volatility is a guess about how much a stock's price might move in the future. If the implied volatility is high, it means people think the stock price might change a lot. In this case, OTM options might be a good choice because they are cheaper and could make you a bigger profit if the stock price moves a lot in the right direction. But, they are also riskier because there's no guarantee the stock will move the way you expect.
 
 If the implied volatility is low, it means people think the stock price won't change much. In this case, ITM options might be a better choice because they already have value and are more likely to make you money even if the stock price doesn't move much. ITM options cost more, but they are less risky because they have some value right now. So, when you're thinking about buying options, looking at the implied volatility can help you decide if you want to take a bigger risk with OTM options or play it safer with ITM options.
 

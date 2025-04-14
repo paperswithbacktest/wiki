@@ -86,7 +86,7 @@ Also, different cultures have their own ways of seeing vintage items. In some pl
 
 ## What are the risks and rewards of collectible investing?
 
-Investing in collectibles, such as rare coins, vintage toys, and fine art, presents a unique set of risks and rewards. One of the primary risks is market volatility. Unlike traditional financial markets, where assets can be fairly liquid, the collectibles market can be unpredictable and driven by fluctuating interest. Investors may witness significant swings in value based on trends and public interest. For example, a surge in popularity for a particular vintage toy can result in sudden price hikes, which might not sustain long-term.
+Investing in collectibles, such as rare coins, vintage toys, and fine art, presents a unique set of risks and rewards. One of the primary risks is market [volatility](/wiki/volatility-trading-strategies). Unlike traditional financial markets, where assets can be fairly liquid, the collectibles market can be unpredictable and driven by fluctuating interest. Investors may witness significant swings in value based on trends and public interest. For example, a surge in popularity for a particular vintage toy can result in sudden price hikes, which might not sustain long-term.
 
 Counterfeiting poses another significant risk in collectible investing. As the value of collectible items increases, so does the incentive for counterfeiters to produce replicas. This can be mitigated through thorough research and the use of professional authentication services. Collectors are advised to seek items with verifiable provenance and certification from reputable sources to ensure their investments are genuine.
 
@@ -113,13 +113,13 @@ In conclusion, while investing in collectibles carries inherent risks such as ma
    Leslie Hindman's guide discusses the nuances of investing in art and antiques, including factors that drive market value. It's an essential read for anyone looking to understand the complexities of the collectibles market.
 
 3. **"Algorithmic and High-Frequency Trading" by Álvaro Cartea, Sebastian Jaimungal, and José Penalva**  
-   This publication provides an overview of algorithmic trading and high-frequency trading in the context of financial markets. It explores the potential application of these technologies in the collectibles market, including data analysis and prediction tools.
+   This publication provides an overview of [algorithmic trading](/wiki/algorithmic-trading) and high-frequency trading in the context of financial markets. It explores the potential application of these technologies in the collectibles market, including data analysis and prediction tools.
 
 4. **"Collectible Investments for the High Net Worth Investor" by Stephen Satchell and Alistair Milne**  
    Satchell and Milne's work explores the role of collectibles as part of a larger investment portfolio. The book addresses the balance between financial gain and passion-based collecting.
 
 5. **"Machine Learning for Asset Managers" by Marcos López de Prado**  
-   Although focused on traditional financial assets, this book offers valuable insights into machine learning techniques that could be adapted for predicting the value of collectibles.
+   Although focused on traditional financial assets, this book offers valuable insights into [machine learning](/wiki/machine-learning) techniques that could be adapted for predicting the value of collectibles.
 
 6. **"Art as an Investment? A Survey of Comparative Assets" by Michael Moses and Jiangping Mei**  
    This paper analyzes art as an investment category, comparing its performance to more traditional assets. It highlights the importance of diversification and potential returns in the art market.

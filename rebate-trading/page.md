@@ -18,7 +18,7 @@ The main goal of rebate trading is not to make money from the price changes of t
 
 Rebate trading is when someone buys and sells things like stocks and gets a little bit of money back each time they make a trade. This money back is called a rebate. The company or platform where the trading happens gives the rebate. People who do rebate trading try to make a lot of trades so they can get more rebates. The more trades they make, the more rebates they can earn.
 
-The main idea of rebate trading is not to make money from the stocks going up or down in price. Instead, it's about earning money from the rebates. But, trading can be risky. Sometimes, the costs of making all those trades can be more than the money you get back from the rebates. So, people need to be careful and think about the risks before they start rebate trading.
+The main idea of rebate trading is not to make money from the stocks going up or down in price. Instead, it's about [earning](/wiki/earning-announcement) money from the rebates. But, trading can be risky. Sometimes, the costs of making all those trades can be more than the money you get back from the rebates. So, people need to be careful and think about the risks before they start rebate trading.
 
 ## What are the benefits of rebate trading for beginners?
 
@@ -40,7 +40,7 @@ After setting up their account, they can start trading. The goal is to make a lo
 
 ## What are the different types of rebates in trading?
 
-In trading, there are different types of rebates that people can get. One type is called a volume rebate. This is when a trading platform gives more money back to someone who makes a lot of trades. The more trades they make, the bigger the rebate they get. Another type is a liquidity rebate. This happens when someone adds money to the market by placing orders that other people can buy or sell. The platform gives them a rebate for helping to keep the market active.
+In trading, there are different types of rebates that people can get. One type is called a [volume](/wiki/volume-trading-strategy) rebate. This is when a trading platform gives more money back to someone who makes a lot of trades. The more trades they make, the bigger the rebate they get. Another type is a [liquidity](/wiki/liquidity-risk-premium) rebate. This happens when someone adds money to the market by placing orders that other people can buy or sell. The platform gives them a rebate for helping to keep the market active.
 
 There are also tiered rebates, which means the amount of money someone gets back can change based on how much they trade or how much money they have in their account. For example, if someone trades a lot or has a big account, they might get a bigger rebate than someone who trades less or has a smaller account. Each type of rebate has its own rules, so it's important for people to understand them before they start trading.
 
@@ -54,7 +54,7 @@ This can also make people choose certain stocks or trading platforms. Some platf
 
 When choosing a rebate trading platform, it's important to look at how much rebate they offer for each trade. Different platforms give different amounts of money back, so someone should compare them to find the best deal. They should also check if the platform has volume rebates, liquidity rebates, or tiered rebates, because these can affect how much money they get back. It's also a good idea to see if the platform has any special rules or requirements for getting the rebates, so they know what they need to do to earn them.
 
-Another key factor is the trading fees. Even if a platform offers big rebates, if the fees for making trades are too high, someone might end up losing money. They need to make sure the rebates are more than the fees. It's also important to think about how easy the platform is to use and if it has good tools for trading. A platform that is hard to use or doesn't have the right tools can make trading more difficult, even if the rebates are good.
+Another key [factor](/wiki/factor-investing) is the trading fees. Even if a platform offers big rebates, if the fees for making trades are too high, someone might end up losing money. They need to make sure the rebates are more than the fees. It's also important to think about how easy the platform is to use and if it has good tools for trading. A platform that is hard to use or doesn't have the right tools can make trading more difficult, even if the rebates are good.
 
 ## How do regulations impact rebate trading?
 

@@ -18,7 +18,7 @@ HH Bonds were stopped being sold by the U.S. Treasury in August 2004. If you alr
 
 Series HH Bonds are different from other U.S. savings bonds in a few ways. First, HH Bonds pay interest every six months, while other bonds like Series EE and I Bonds add interest to the bond's value monthly. This means with HH Bonds, you get regular payments instead of having to wait until you cash in the bond to get your interest.
 
-Another big difference is that you couldn't buy HH Bonds with cash. You had to trade in other eligible bonds, like Series E or EE Bonds, to get them. This made HH Bonds a special choice for people who wanted to keep their money in government bonds but wanted to start earning interest right away. Also, HH Bonds stopped being sold in 2004, so they are not an option for new investors anymore.
+Another big difference is that you couldn't buy HH Bonds with cash. You had to trade in other eligible bonds, like Series E or EE Bonds, to get them. This made HH Bonds a special choice for people who wanted to keep their money in government bonds but wanted to start [earning](/wiki/earning-announcement) interest right away. Also, HH Bonds stopped being sold in 2004, so they are not an option for new investors anymore.
 
 ## Who is eligible to purchase Series HH Bonds?
 
@@ -28,7 +28,7 @@ Anyone with Series E or EE Bonds could trade them in to buy HH Bonds. But, there
 
 ## What is the interest rate for Series HH Bonds?
 
-The interest rate for Series HH Bonds was set when you got the bond and stayed the same until it matured. The rate could be different for each person because it depended on when you traded in your old bonds for the HH Bonds. The U.S. Treasury decided the rate, and it was usually between 1.5% and 4%.
+The [interest rate](/wiki/interest-rate-trading-strategies) for Series HH Bonds was set when you got the bond and stayed the same until it matured. The rate could be different for each person because it depended on when you traded in your old bonds for the HH Bonds. The U.S. Treasury decided the rate, and it was usually between 1.5% and 4%.
 
 HH Bonds paid interest every six months. This meant you got a check or direct deposit twice a year for as long as you held the bond. The bond lasted for 20 years, so you could get interest payments for that whole time if you kept the bond until it matured.
 

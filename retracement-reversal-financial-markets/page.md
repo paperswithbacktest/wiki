@@ -18,7 +18,7 @@ Traders often use retracements to find good times to buy or sell. They look at h
 
 A reversal in financial markets happens when the price of an asset changes direction and starts a new trend. If a stock has been going up for a long time, a reversal means it will start going down instead. This is different from a retracement, which is just a temporary move against the trend before it continues. A reversal signals a bigger change and could mean the start of a new long-term trend.
 
-Traders watch for reversals because they can be big opportunities to make money. They look for signs like a big change in price or volume, or certain patterns on charts. When they think a reversal is happening, they might decide to buy or sell their assets to take advantage of the new trend. Understanding reversals helps traders know when to get in or out of the market.
+Traders watch for reversals because they can be big opportunities to make money. They look for signs like a big change in price or [volume](/wiki/volume-trading-strategy), or certain patterns on charts. When they think a reversal is happening, they might decide to buy or sell their assets to take advantage of the new trend. Understanding reversals helps traders know when to get in or out of the market.
 
 ## How can you distinguish between a retracement and a reversal?
 

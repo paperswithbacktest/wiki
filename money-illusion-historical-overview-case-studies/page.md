@@ -112,7 +112,7 @@ $$
 
 By routinely applying this conversion, individuals and businesses can better understand the real implications of their financial situations, making more stable and informed decisions.
 
-For algorithmic trading strategies, which rely heavily on computational models to make investment decisions, it is critical to integrate considerations for psychological biases like money illusion. One approach is to incorporate inflation-adjusted data into trading algorithms, ensuring that the trading strategies consider not just raw, nominal data but also account for underlying economic realities.
+For [algorithmic trading](/wiki/algorithmic-trading) strategies, which rely heavily on computational models to make investment decisions, it is critical to integrate considerations for psychological biases like money illusion. One approach is to incorporate inflation-adjusted data into trading algorithms, ensuring that the trading strategies consider not just raw, nominal data but also account for underlying economic realities.
 
 Algorithmic trading systems can also benefit from sentiment analysis to gauge market perceptions closely. By analyzing news articles, social media feeds, and financial reports for language indicative of money illusion, trading algorithms can anticipate potential market misperceptions and adjust strategies accordingly. Here is a basic example of how sentiment analysis could be implemented in Python using libraries like `TextBlob`:
 

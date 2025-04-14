@@ -28,7 +28,7 @@ On the other hand, default risk is about the chance that the person or company w
 
 ## What factors contribute to credit spread risk?
 
-Credit spread risk can be affected by many things. One big factor is how the economy is doing. When the economy is strong, people feel more confident about companies paying back their debts, so the credit spread might get smaller. But if the economy is doing badly, people might worry more about companies defaulting, which can make the credit spread bigger. Another factor is how well a specific company or industry is doing. If a company is struggling or an industry is having problems, investors might see it as riskier, which can also widen the credit spread.
+Credit spread risk can be affected by many things. One big [factor](/wiki/factor-investing) is how the economy is doing. When the economy is strong, people feel more confident about companies paying back their debts, so the credit spread might get smaller. But if the economy is doing badly, people might worry more about companies defaulting, which can make the credit spread bigger. Another factor is how well a specific company or industry is doing. If a company is struggling or an industry is having problems, investors might see it as riskier, which can also widen the credit spread.
 
 Another thing that can affect credit spread risk is changes in interest rates. If interest rates go up, the cost of borrowing money goes up too, which can make it harder for companies to pay back their debts. This can lead to a wider credit spread. Also, news and events can play a role. For example, if there's a big scandal or a natural disaster that affects a company, investors might see it as more risky, which can change the credit spread. All these factors together can make credit spread risk go up or down.
 
@@ -60,7 +60,7 @@ On the other hand, if the credit spread gets smaller, it can be good for investo
 
 When someone or a company can't pay back the money they borrowed, it's called a default. This is a big problem for lenders because they might lose the money they lent out. If a lot of people or companies default at the same time, like during a bad economy, it can be really bad for the lender. They might have to write off the loans as losses, which means they won't get that money back. This can make it hard for the lender to keep doing business, and in the worst cases, it could even make them go out of business.
 
-To try and avoid these problems, lenders look at how likely someone is to pay back their debt before they lend money. They might check things like how much money the borrower makes, how much debt they already have, and if they have a good history of paying back loans. If a lender thinks someone is too risky, they might not lend them money or they might charge them a higher interest rate to make up for the risk. By being careful about who they lend to, lenders can try to lower their chances of losing money because of defaults.
+To try and avoid these problems, lenders look at how likely someone is to pay back their debt before they lend money. They might check things like how much money the borrower makes, how much debt they already have, and if they have a good history of paying back loans. If a lender thinks someone is too risky, they might not lend them money or they might charge them a higher [interest rate](/wiki/interest-rate-trading-strategies) to make up for the risk. By being careful about who they lend to, lenders can try to lower their chances of losing money because of defaults.
 
 ## How do financial institutions manage credit spread risk?
 
@@ -102,7 +102,7 @@ In practical terms, understanding credit spreads allows investors to make inform
 
 Further insights into credit spreads and their impact can be found in various financial literature and studies. Several key resources provide foundational and advanced knowledge for understanding these financial instruments.
 
-One valuable resource is "Financial Machine Learning" by Marcos López de Prado. This book explores the application of [machine learning](/wiki/machine-learning) techniques to financial data, making it a significant resource for those interested in algorithmic trading strategies related to credit spreads. It covers advanced data handling techniques and provides novel approaches to predictive modeling, which can be crucial for optimizing credit spread strategies.
+One valuable resource is "Financial Machine Learning" by Marcos López de Prado. This book explores the application of [machine learning](/wiki/machine-learning) techniques to financial data, making it a significant resource for those interested in [algorithmic trading](/wiki/algorithmic-trading) strategies related to credit spreads. It covers advanced data handling techniques and provides novel approaches to predictive modeling, which can be crucial for optimizing credit spread strategies.
 
 For a comprehensive understanding of fixed income markets and analysis, "Fixed Income Analysis" by Frank J. Fabozzi is highly recommended. This text investigates into the intricacies of bond markets, credit risk assessment, and the evaluation of credit spreads. It offers readers tools to understand and manage the risks associated with fixed-income securities, including the impact of interest rate movements and credit spread changes.
 

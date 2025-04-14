@@ -148,7 +148,7 @@ $$
 
    The resulting beta value characterizes how sensitive the stock is to movements in the overall market, providing insights into its systematic risk.
 
-Using this methodological approach ensures accuracy in beta calculation, an essential [factor](/wiki/factor-investing) for risk assessment and portfolio management in algorithmic trading.
+Using this methodological approach ensures accuracy in beta calculation, an essential [factor](/wiki/factor-investing) for risk assessment and portfolio management in [algorithmic trading](/wiki/algorithmic-trading).
 
 ## What are Practical Examples of Beta Calculation?
 

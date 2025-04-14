@@ -30,7 +30,7 @@ In simple terms, the RRR sets a bottom line for what an investor wants, while th
 
 ## What factors influence the Required Rate of Return?
 
-The Required Rate of Return (RRR) is influenced by several factors that help investors figure out what kind of return they need from an investment. One big factor is the risk-free rate, which is the return you'd get from a super safe investment like a government bond. Investors start with this rate and then add extra to account for the risk of the specific investment they're looking at. The more risky an investment seems, the higher the RRR will be because investors want more reward for taking on more risk.
+The Required Rate of Return (RRR) is influenced by several factors that help investors figure out what kind of return they need from an investment. One big [factor](/wiki/factor-investing) is the risk-free rate, which is the return you'd get from a super safe investment like a government bond. Investors start with this rate and then add extra to account for the risk of the specific investment they're looking at. The more risky an investment seems, the higher the RRR will be because investors want more reward for taking on more risk.
 
 Another important factor is the investor's own comfort with risk, often called their risk tolerance. If someone is very cautious and doesn't like taking chances, they'll probably have a higher RRR because they want to be sure they're getting enough return for any risk they take. On the other hand, if someone is okay with taking bigger risks, they might be fine with a lower RRR. Also, the overall economic situation can affect the RRR. During tough economic times, investors might demand a higher RRR to feel safe about their investments.
 
@@ -117,7 +117,7 @@ Each of these methods offers valuable insights into investment performance, aidi
 
 ## How do you calculate Return on Investment in Algo Trading?
 
-In algorithmic trading, assessing the return on investment (ROI) involves analyzing several key performance metrics that provide insights into the risk-adjusted returns and potential vulnerabilities of trading strategies. Among the most crucial metrics are the Sharpe Ratio, Maximum Drawdown, and Profit Factor.
+In [algorithmic trading](/wiki/algorithmic-trading), assessing the return on investment (ROI) involves analyzing several key performance metrics that provide insights into the risk-adjusted returns and potential vulnerabilities of trading strategies. Among the most crucial metrics are the Sharpe Ratio, Maximum Drawdown, and Profit Factor.
 
 The Sharpe Ratio is a widely utilized measure that helps determine how well the returns of an investment compensate for the inherent risks. It is calculated by subtracting the risk-free rate from the expected return of the investment, and then dividing the result by the standard deviation of the investment's excess return:
 
@@ -133,7 +133,7 @@ $$
 \text{Maximum Drawdown} = \frac{\text{Peak Value} - \text{Trough Value}}{\text{Peak Value}}
 $$
 
-Maximum Drawdown is crucial for understanding the potential severity of losses and provides an insight into the volatility and risk profile of an algorithmic trading strategy.
+Maximum Drawdown is crucial for understanding the potential severity of losses and provides an insight into the [volatility](/wiki/volatility-trading-strategies) and risk profile of an algorithmic trading strategy.
 
 Profit Factor is another critical metric which measures the ratio of gross profits to gross losses from trades, providing a straightforward way to evaluate the profitability of a trading strategy over time:
 

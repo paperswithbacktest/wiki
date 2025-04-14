@@ -25,13 +25,13 @@ Pre-training is like giving a model a broad education before it specializes in s
 
 Fine-tuning, on the other hand, is like the model going to a specialized school after its general education. It involves taking the pre-trained model and training it further on a smaller dataset that is specifically related to the task at hand. For instance, if the final goal is to identify different types of dogs, the model would be fine-tuned on images of various dog breeds. This process adjusts the model's knowledge to be more precise and relevant to the specific task, making it better at recognizing those dog breeds.
 
-Both pre-training and fine-tuning are important steps in training machine learning models, but they serve different purposes. Pre-training gives the model a broad foundation of knowledge, while fine-tuning refines that knowledge to make the model an expert in a specific area. By combining these two steps, models can achieve high performance even when the amount of task-specific data is limited.
+Both pre-training and fine-tuning are important steps in training [machine learning](/wiki/machine-learning) models, but they serve different purposes. Pre-training gives the model a broad foundation of knowledge, while fine-tuning refines that knowledge to make the model an expert in a specific area. By combining these two steps, models can achieve high performance even when the amount of task-specific data is limited.
 
 ## What are common datasets used for pre-training?
 
 Pre-training often uses big datasets that have lots of different kinds of information. One common dataset is ImageNet, which has millions of images sorted into thousands of categories. These images help models learn about general things like shapes, colors, and textures. Another popular dataset is Wikipedia, which has a huge amount of text. Models can learn about language, grammar, and how words relate to each other by training on this text.
 
-Other datasets used for pre-training include Common Crawl, which is a large collection of web pages, and BookCorpus, which has text from thousands of books. These datasets give models a wide range of information to learn from. For example, Common Crawl helps models understand the variety of content on the internet, while BookCorpus helps them learn from well-written text. By using these big and diverse datasets, models can get a good foundation of knowledge before they are fine-tuned for specific tasks.
+Other datasets used for pre-training include Common Crawl, which is a large collection of web pages, and BookCorpus, which has text from thousands of [books](/wiki/algo-trading-books). These datasets give models a wide range of information to learn from. For example, Common Crawl helps models understand the variety of content on the internet, while BookCorpus helps them learn from well-written text. By using these big and diverse datasets, models can get a good foundation of knowledge before they are fine-tuned for specific tasks.
 
 ## Can you explain the process of pre-training a model?
 
@@ -55,7 +55,7 @@ The process of transfer learning usually involves two main steps: pre-training a
 
 Some popular architectures for pre-training include models like BERT (Bidirectional Encoder Representations from Transformers) and ResNet (Residual Network). BERT is a type of model that's really good at understanding language. It's trained on huge amounts of text from the internet and books. This helps it learn how words relate to each other and understand the context of sentences. When you want to use BERT for a specific task, like answering questions or translating languages, you can start with its pre-trained knowledge and fine-tune it for your needs.
 
-Another popular architecture is ResNet, which is used a lot for image recognition tasks. ResNet is designed to learn from millions of pictures, like those in the ImageNet dataset. It's really good at picking out features in images, like edges and textures. After pre-training, you can use ResNet to help with tasks like identifying different objects in photos. Both BERT and ResNet show how powerful pre-training can be, making it easier to build models that work well even with limited task-specific data.
+Another popular architecture is ResNet, which is used a lot for image recognition tasks. ResNet is designed to learn from millions of pictures, like those in the ImageNet dataset. It's really good at [picking](/wiki/asset-class-picking) out features in images, like edges and textures. After pre-training, you can use ResNet to help with tasks like identifying different objects in photos. Both BERT and ResNet show how powerful pre-training can be, making it easier to build models that work well even with limited task-specific data.
 
 ## What challenges are associated with pre-training large models?
 

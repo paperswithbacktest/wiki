@@ -82,7 +82,7 @@ Another way to optimize decision trees for large datasets is by using sampling. 
 
 ## What are decision trees?
 
-Decision trees are a type of supervised learning algorithm commonly utilized in both classification and regression tasks in machine learning. These algorithms function by employing a tree-like model that resembles a flowchart structure, where each internal node denotes a "test" on an attribute, each branch represents the outcome of the test, and each leaf node holds a class label or value. The paths from root to leaf represent classification or regression rules.
+Decision trees are a type of supervised learning algorithm commonly utilized in both classification and regression tasks in [machine learning](/wiki/machine-learning). These algorithms function by employing a tree-like model that resembles a flowchart structure, where each internal node denotes a "test" on an attribute, each branch represents the outcome of the test, and each leaf node holds a class label or value. The paths from root to leaf represent classification or regression rules.
 
 The construction of a decision tree involves recursively splitting the dataset into smaller, homogenous subsets. This process utilizes algorithms like ID3 (Iterative Dichotomiser 3), C4.5, CART (Classification and Regression Trees), or CHAID (Chi-squared Automatic Interaction Detection), which select the best attribute to split the data based on criteria like information gain, Gini impurity, or variance reduction. For instance, Gini impurity is calculated as follows:
 
@@ -108,7 +108,7 @@ $$
 E = E_{train} + E_{test}
 $$
 
-Understanding these limitations is crucial for traders and analysts who employ decision trees in their algorithmic trading strategies. Addressing challenges like overfitting and adaptation to market changes ensures that the models remain reliable and beneficial tools within a trader's arsenal.
+Understanding these limitations is crucial for traders and analysts who employ decision trees in their [algorithmic trading](/wiki/algorithmic-trading) strategies. Addressing challenges like overfitting and adaptation to market changes ensures that the models remain reliable and beneficial tools within a trader's arsenal.
 
 ## References & Further Reading
 

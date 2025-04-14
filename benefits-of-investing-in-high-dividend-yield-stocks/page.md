@@ -34,7 +34,7 @@ Another benefit is that high-dividend yield stocks can make your overall investm
 
 ## How can high-dividend yield stocks contribute to a diversified investment portfolio?
 
-High-dividend yield stocks can be a big help in making your investment portfolio more diverse. When you have different kinds of investments, it's like not putting all your eggs in one basket. High-dividend yield stocks can give you regular money, which is different from other investments like bonds or growth stocks. This means you have money coming in from different places, which can make your overall investments safer and more balanced.
+High-dividend yield stocks can be a big help in making your investment portfolio more diverse. When you have different kinds of investments, it's like not putting all your eggs in one basket. High-dividend yield stocks can give you regular money, which is different from other investments like bonds or [growth stocks](/wiki/growth-stocks). This means you have money coming in from different places, which can make your overall investments safer and more balanced.
 
 Also, high-dividend yield stocks can help balance out the ups and downs of the stock market. If the market goes down, the money you get from dividends can help soften the blow. This makes your investments less risky. Plus, if you mix high-dividend yield stocks with other types of investments, you can have a portfolio that grows over time and gives you money to use now.
 
@@ -62,7 +62,7 @@ It's also important to think about your overall investment plan. High-dividend y
 
 High-dividend yield stocks can be a good way to get money during retirement. When you own these stocks, you get paid regularly, usually every three months. This is like getting a paycheck just for owning the stocks. This can help you pay for things you need without having to sell your investments. It's like having a steady income that can make your retirement more comfortable and secure.
 
-But, it's important to be careful when picking high-dividend yield stocks for retirement. A high yield might mean the company is having problems, and the stock price is going down. If the company keeps struggling, it might cut the dividend or stop paying it. This could hurt your retirement income. So, you should look for companies that have a good history of paying dividends and are financially strong. By choosing wisely, you can use high-dividend yield stocks to help you have a good income during retirement.
+But, it's important to be careful when [picking](/wiki/asset-class-picking) high-dividend yield stocks for retirement. A high yield might mean the company is having problems, and the stock price is going down. If the company keeps struggling, it might cut the dividend or stop paying it. This could hurt your retirement income. So, you should look for companies that have a good history of paying dividends and are financially strong. By choosing wisely, you can use high-dividend yield stocks to help you have a good income during retirement.
 
 ## How have high-dividend yield stocks performed historically compared to other investments?
 

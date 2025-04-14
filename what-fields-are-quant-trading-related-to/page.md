@@ -18,11 +18,11 @@ In quantitative trading, traders collect a lot of data about the market, like pr
 
 Quantitative trading and traditional trading are different in how they make decisions. In traditional trading, people use their experience and feelings to decide when to buy or sell. They might look at news, talk to other traders, or use their gut feeling. This means that traditional trading can be influenced a lot by emotions, which can sometimes lead to bad decisions.
 
-On the other hand, quantitative trading uses math and computers to make decisions. Traders collect a lot of data and use it to build models that predict what the market will do next. These models run on computers that can quickly look at a lot of information and make trades very fast. This way, quantitative trading tries to take emotions out of the equation and make decisions based on numbers and facts.
+On the other hand, [quantitative trading](/wiki/quantitative-trading) uses math and computers to make decisions. Traders collect a lot of data and use it to build models that predict what the market will do next. These models run on computers that can quickly look at a lot of information and make trades very fast. This way, quantitative trading tries to take emotions out of the equation and make decisions based on numbers and facts.
 
 ## What are the basic mathematical concepts used in quant trading?
 
-In quant trading, some basic math ideas are used to make trading decisions. One important concept is statistics, which helps traders understand and predict how markets might move. They use things like averages, standard deviations, and correlations to see patterns in the data. For example, if two stocks usually move together, traders might use this information to decide when to buy or sell.
+In quant trading, some basic math ideas are used to make trading decisions. One important concept is [statistics](/wiki/bayesian-statistics), which helps traders understand and predict how markets might move. They use things like averages, standard deviations, and correlations to see patterns in the data. For example, if two stocks usually move together, traders might use this information to decide when to buy or sell.
 
 Another key idea is probability, which helps traders figure out how likely certain events are to happen. They use this to make models that predict future market movements. For instance, they might calculate the chance that a stock price will go up or down based on past data. This helps them make smarter trading choices.
 
@@ -52,7 +52,7 @@ These models also help traders manage risk. By looking at how likely certain eve
 
 ## What role does machine learning play in quantitative trading?
 
-Machine learning is a big help in quantitative trading because it can find patterns in data that people might miss. Traders use machine learning to look at lots of information, like stock prices and news, to make better guesses about what the market will do next. For example, a machine learning model might learn that certain news stories often make stock prices go up or down. By using this information, traders can make smarter decisions about when to buy or sell.
+Machine learning is a big help in quantitative trading because it can find patterns in data that people might miss. Traders use [machine learning](/wiki/machine-learning) to look at lots of information, like stock prices and news, to make better guesses about what the market will do next. For example, a machine learning model might learn that certain news stories often make stock prices go up or down. By using this information, traders can make smarter decisions about when to buy or sell.
 
 Machine learning also helps traders by making their trading strategies better over time. As the model sees more data, it can learn from its mistakes and improve its predictions. This means that the trading strategies can get better without the trader having to change them manually. This is really useful because the market is always changing, and machine learning can help traders keep up with those changes and make more money.
 
@@ -60,7 +60,7 @@ Machine learning also helps traders by making their trading strategies better ov
 
 In quant trading, one common way to manage risk is by using stop-loss orders. A stop-loss order is like a safety net that tells the computer to sell a stock if its price drops too much. This helps traders limit how much money they can lose on a single trade. Another way is by diversifying, which means not putting all your money into one stock or one type of investment. By spreading the money around, traders can lower the risk of losing everything if one investment goes bad.
 
-Another important technique is called position sizing. This means deciding how much money to put into each trade based on how risky it is. If a trade seems very risky, a trader might put less money into it to avoid big losses. Traders also use something called value at risk (VaR), which helps them figure out the most they could lose in a bad day. By knowing this, they can make sure they're not taking on too much risk at once.
+Another important technique is called position sizing. This means deciding how much money to put into each trade based on how risky it is. If a trade seems very risky, a trader might put less money into it to avoid big losses. Traders also use something called [value at risk](/wiki/var-value-at-risk) (VaR), which helps them figure out the most they could lose in a bad day. By knowing this, they can make sure they're not taking on too much risk at once.
 
 ## How do regulatory environments affect quant trading practices?
 
@@ -82,9 +82,9 @@ After you've developed your strategy, you need to backtest it to see if it works
 
 ## What are the current trends and future directions in quantitative trading?
 
-One big trend in quant trading right now is the use of artificial intelligence (AI) and machine learning. Traders are using these technologies to look at huge amounts of data and find patterns that they couldn't see before. This helps them make better predictions about what the market will do next. For example, AI can look at news articles, social media posts, and even satellite images to understand what's happening in the world and how it might affect stock prices. As AI gets better, it's likely that more traders will use it to make their strategies smarter and more successful.
+One big trend in quant trading right now is the use of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and machine learning. Traders are using these technologies to look at huge amounts of data and find patterns that they couldn't see before. This helps them make better predictions about what the market will do next. For example, AI can look at news articles, social media posts, and even satellite images to understand what's happening in the world and how it might affect stock prices. As AI gets better, it's likely that more traders will use it to make their strategies smarter and more successful.
 
-Another trend is the growing use of alternative data. This means using information that's not usually part of traditional financial data, like credit card transactions, weather data, or even foot traffic in stores. Traders use this data to get a better picture of what's happening in the economy and make more informed trading decisions. In the future, we might see even more types of alternative data being used as technology makes it easier to collect and analyze this information. This could help traders find new ways to make money and stay ahead of the competition.
+Another trend is the growing use of [alternative data](/wiki/best-alternative-data). This means using information that's not usually part of traditional financial data, like credit card transactions, weather data, or even foot traffic in stores. Traders use this data to get a better picture of what's happening in the economy and make more informed trading decisions. In the future, we might see even more types of alternative data being used as technology makes it easier to collect and analyze this information. This could help traders find new ways to make money and stay ahead of the competition.
 
 ## References & Further Reading
 

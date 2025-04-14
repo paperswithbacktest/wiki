@@ -56,13 +56,13 @@ Another problem is that shadow markets can make prices go up. When people buy th
 
 People in shadow markets use special technology to keep their deals secret. One big tool they use is the dark web. The dark web is a hidden part of the internet that you can only get to with special software like Tor. This software helps hide where you are and what you are doing online. People use the dark web to buy and sell things without anyone knowing. They also use special websites on the dark web that are hard to find and can only be accessed with secret links.
 
-Another important tool is cryptocurrency, like Bitcoin. Cryptocurrency is digital money that you can use online without banks knowing. This makes it perfect for shadow markets because it's hard to trace. People can send and receive money without leaving a trail that the government can follow. They also use special apps and software to talk to each other in secret. These tools help them use codes and secret messages to keep their deals safe and hidden from the police.
+Another important tool is [cryptocurrency](/wiki/cryptocurrency), like Bitcoin. Cryptocurrency is digital money that you can use online without banks knowing. This makes it perfect for shadow markets because it's hard to trace. People can send and receive money without leaving a trail that the government can follow. They also use special apps and software to talk to each other in secret. These tools help them use codes and secret messages to keep their deals safe and hidden from the police.
 
 ## How do regulatory bodies attempt to monitor and control shadow markets?
 
 Regulatory bodies try hard to keep an eye on shadow markets. They use special technology to watch the internet and the dark web. They look for signs of illegal buying and selling. They also work with banks and financial companies to track money moving around, especially when it involves cryptocurrencies like Bitcoin. By watching these things, they hope to find and stop people who are using shadow markets.
 
-Another way regulatory bodies control shadow markets is by making laws and rules stricter. They work to close down websites on the dark web that are used for illegal deals. They also try to catch and punish people who use these markets. Sometimes, they use undercover agents to go into these markets and gather information. All these efforts are meant to make it harder for shadow markets to operate and to protect the economy and people from harm.
+Another way regulatory bodies control shadow markets is by making laws and rules stricter. They work to close down websites on the dark web that are used for illegal deals. They also try to catch and punish people who use these markets. Sometimes, they use undercover [agents](/wiki/agents) to go into these markets and gather information. All these efforts are meant to make it harder for shadow markets to operate and to protect the economy and people from harm.
 
 ## What are the ethical considerations associated with shadow markets?
 

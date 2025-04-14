@@ -30,7 +30,7 @@ This value is also important for how a business's financial statements are made.
 
 The key factors that contribute to a company's going-concern value are its ability to keep making money and its potential for growth. This includes having a strong customer base and a good reputation. When a company can keep its customers happy and attract new ones, it can earn more money over time. Also, if the company has a brand that people trust and like, this adds to its value because people are more likely to buy from a brand they know and trust.
 
-Another important factor is the company's ability to manage its money well. This means having enough cash to pay its bills and invest in new opportunities. Good financial management helps the company stay healthy and grow. The company's assets, like its buildings, equipment, and technology, also play a role. If these assets help the company work better and make more money, they add to its going-concern value. Overall, the going-concern value is about how well the company can keep running and growing in the future.
+Another important [factor](/wiki/factor-investing) is the company's ability to manage its money well. This means having enough cash to pay its bills and invest in new opportunities. Good financial management helps the company stay healthy and grow. The company's assets, like its buildings, equipment, and technology, also play a role. If these assets help the company work better and make more money, they add to its going-concern value. Overall, the going-concern value is about how well the company can keep running and growing in the future.
 
 ## How is going-concern value assessed or calculated?
 

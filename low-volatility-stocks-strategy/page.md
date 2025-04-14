@@ -18,7 +18,7 @@ These stocks are often found in big, stable companies that have been around for 
 
 Investors might be interested in a low volatility stocks strategy because it helps them avoid big ups and downs in their investments. When the stock market goes through rough times, low volatility stocks don't lose as much value as other stocks. This can give investors peace of mind, knowing their money is safer. It's like choosing a calm, steady ride instead of a roller coaster.
 
-Another reason is that low volatility stocks can still grow over time, just not as fast as high-risk stocks. This steady growth can be good for people who want their money to grow slowly but surely. It's especially useful for people who are getting close to retirement or who don't want to take big risks with their money. They can sleep better at night knowing their investments are not going to suddenly drop in value.
+Another reason is that low [volatility](/wiki/volatility-trading-strategies) stocks can still grow over time, just not as fast as high-risk stocks. This steady growth can be good for people who want their money to grow slowly but surely. It's especially useful for people who are getting close to retirement or who don't want to take big risks with their money. They can sleep better at night knowing their investments are not going to suddenly drop in value.
 
 ## How does a low volatility stock differ from a high volatility stock?
 
@@ -36,7 +36,7 @@ Another metric used is the stock's historical volatility. This looks at how much
 
 A low volatility stocks strategy is all about choosing stocks that don't move up and down a lot in price. This means the stocks are less risky because they don't lose much value when the market goes down. Investors who follow this strategy want to keep their money safe. They're okay with not making as much money as they might with riskier stocks, but they also don't want to lose a lot. It's like choosing a calm, steady ride instead of a roller coaster.
 
-People often use this strategy when they are close to retirement or if they don't like taking big risks with their money. They want their investments to grow slowly but surely, without big ups and downs. By picking stocks with low volatility, they can sleep better at night knowing their money is safer. It's a way to balance the need for some growth with the desire to avoid big losses.
+People often use this strategy when they are close to retirement or if they don't like taking big risks with their money. They want their investments to grow slowly but surely, without big ups and downs. By [picking](/wiki/asset-class-picking) stocks with low volatility, they can sleep better at night knowing their money is safer. It's a way to balance the need for some growth with the desire to avoid big losses.
 
 ## What are the historical performance trends of low volatility stocks?
 

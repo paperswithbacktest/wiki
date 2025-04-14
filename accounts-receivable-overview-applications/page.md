@@ -116,11 +116,11 @@ This formula highlights the importance of accurate estimates of doubtful account
 
 ## What are some case studies and real-world applications?
 
-Several companies have effectively integrated Accounts Receivable (AR) management with algorithmic trading, leading to enhanced financial operations and strategic advantages. This section highlights two case studies illustrating such integrations.
+Several companies have effectively integrated Accounts Receivable (AR) management with [algorithmic trading](/wiki/algorithmic-trading), leading to enhanced financial operations and strategic advantages. This section highlights two case studies illustrating such integrations.
 
 ### Case Study: A Tech Company Utilizing Machine Learning for AR Predictions
 
-One prominent example is a tech company that successfully employed machine learning to optimize its AR collections. The company developed an advanced predictive model utilizing regression analysis and clustering techniques to improve the accuracy of AR forecasts. By doing so, the company was able to identify patterns and predict potential payment defaults before they occurred.
+One prominent example is a tech company that successfully employed [machine learning](/wiki/machine-learning) to optimize its AR collections. The company developed an advanced predictive model utilizing regression analysis and clustering techniques to improve the accuracy of AR forecasts. By doing so, the company was able to identify patterns and predict potential payment defaults before they occurred.
 
 The machine learning model analyzed historical payment data, customer behavior, and market conditions to forecast future cash inflows accurately. This approach involved creating a model like:
 

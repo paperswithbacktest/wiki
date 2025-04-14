@@ -76,9 +76,9 @@ Stress testing also helps banks follow the rules set by regulators. These rules 
 
 ## What are the future trends in credit exposure management and analysis?
 
-In the future, credit exposure management and analysis will likely use more advanced technology like artificial intelligence (AI) and machine learning. These tools can look at huge amounts of data really fast and find patterns that humans might miss. This means banks can predict better who might not pay back their loans and manage their risk more accurately. AI can also help by giving real-time updates on credit exposure, so banks can make quick decisions and adjust their strategies as needed.
+In the future, credit exposure management and analysis will likely use more advanced technology like [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning). These tools can look at huge amounts of data really fast and find patterns that humans might miss. This means banks can predict better who might not pay back their loans and manage their risk more accurately. AI can also help by giving real-time updates on credit exposure, so banks can make quick decisions and adjust their strategies as needed.
 
-Another trend will be more focus on environmental, social, and governance (ESG) factors when managing credit exposure. Banks will look at how a company treats the environment, its workers, and how it's run before deciding to lend money. This is because these factors can affect a company's ability to pay back loans. By considering ESG, banks can manage their risk better and also help make the world a better place. As these trends grow, credit exposure management will become more detailed and responsible.
+Another trend will be more focus on environmental, social, and governance ([ESG](/wiki/esg-investing)) factors when managing credit exposure. Banks will look at how a company treats the environment, its workers, and how it's run before deciding to lend money. This is because these factors can affect a company's ability to pay back loans. By considering ESG, banks can manage their risk better and also help make the world a better place. As these trends grow, credit exposure management will become more detailed and responsible.
 
 ## What is Understanding Banking Credit Risk?
 

@@ -54,7 +54,7 @@ The Markowitz Efficient Set shows you a line on a graph where each point on the 
 
 ## How do investors use the Markowitz Efficient Set to optimize their portfolios?
 
-Investors use the Markowitz Efficient Set to find the best mix of investments for their money. They start by looking at different investments and figuring out how much risk and return each one might bring. Then, they use the efficient frontier, which is a line on a graph that shows the best combinations of investments. By picking a point on this line, investors can choose a portfolio that gives them the highest return for the amount of risk they're willing to take, or the lowest risk for the return they want. This helps them make smart choices about where to put their money.
+Investors use the Markowitz Efficient Set to find the best mix of investments for their money. They start by looking at different investments and figuring out how much risk and return each one might bring. Then, they use the efficient frontier, which is a line on a graph that shows the best combinations of investments. By [picking](/wiki/asset-class-picking) a point on this line, investors can choose a portfolio that gives them the highest return for the amount of risk they're willing to take, or the lowest risk for the return they want. This helps them make smart choices about where to put their money.
 
 For example, if an investor is okay with a certain level of risk, they can look at the efficient frontier to see which portfolio gives them the best return for that risk. If they want to lower their risk, they can move along the line to find a portfolio that still gives a good return but with less risk. By using the Markowitz Efficient Set, investors can balance their need for making money with their comfort level for taking risks, helping them build a portfolio that fits their goals.
 
@@ -76,7 +76,7 @@ One way to make the Markowitz model work better is by using something called "Bl
 
 Another way to improve the Markowitz model is by using "Monte Carlo simulations." These simulations use a computer to try out thousands of different ways your investments might go. By looking at all these different possibilities, you can see how your portfolio might do in lots of different situations. This can help you understand the risks better and pick a portfolio that's more likely to meet your goals.
 
-Lastly, you can use "factor models" to make the Markowitz model better. Factor models look at different things that can affect how your investments do, like how the whole market is doing or how certain industries are doing. By understanding these factors, you can make smarter guesses about how your investments might perform. This can help you build a portfolio that's more likely to give you the return you want for the risk you're willing to take.
+Lastly, you can use "[factor](/wiki/factor-investing) models" to make the Markowitz model better. Factor models look at different things that can affect how your investments do, like how the whole market is doing or how certain industries are doing. By understanding these factors, you can make smarter guesses about how your investments might perform. This can help you build a portfolio that's more likely to give you the return you want for the risk you're willing to take.
 
 ## How has the Markowitz Efficient Set evolved with modern portfolio theory and new financial instruments?
 

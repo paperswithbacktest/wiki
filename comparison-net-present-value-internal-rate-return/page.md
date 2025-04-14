@@ -84,7 +84,7 @@ No IRR happens when the cash flows don't change direction at all, like if you're
 
 Net Present Value (NPV) is a financial metric that quantifies the value of an investment by comparing the present value of expected cash inflows to the present value of cash outflows over a specific period. This calculation takes into account the time value of money, providing a clear picture of the investment's potential profitability.
 
-The time value of money is a fundamental principle in finance, reflecting the idea that a dollar today is worth more than a dollar received in the future due to its potential earning capacity. NPV incorporates this principle by applying discount rates to future cash flows, thereby adjusting them to their present values. The discount rate typically represents the investment's required rate of return or the cost of capital.
+The time value of money is a fundamental principle in finance, reflecting the idea that a dollar today is worth more than a dollar received in the future due to its potential [earning](/wiki/earning-announcement) capacity. NPV incorporates this principle by applying discount rates to future cash flows, thereby adjusting them to their present values. The discount rate typically represents the investment's required rate of return or the cost of capital.
 
 The mathematical formula for NPV is as follows:
 

@@ -113,7 +113,7 @@ $$
 \text{PED} = \frac{\%\text{ change in quantity demanded}}{\%\text{ change in price}}
 $$
 
-The algorithms use this information to ascertain whether demand is elastic or inelastic. If a product is found to be inelastic (|PED| < 1), the algorithm might raise prices to increase total revenue. Conversely, for elastic demand (|PED| > 1), reducing prices could be the right strategy to boost sales volume and revenue.
+The algorithms use this information to ascertain whether demand is elastic or inelastic. If a product is found to be inelastic (|PED| < 1), the algorithm might raise prices to increase total revenue. Conversely, for elastic demand (|PED| > 1), reducing prices could be the right strategy to boost sales [volume](/wiki/volume-trading-strategy) and revenue.
 
 Ongoing monitoring and adaptation are key advantages of this integrated approach. Algorithms can continually reassess market conditions and consumer behavior, making real-time adjustments to pricing strategies. This continuous loop of analysis and adaptation allows businesses to remain competitive and responsive to external market pressures.
 

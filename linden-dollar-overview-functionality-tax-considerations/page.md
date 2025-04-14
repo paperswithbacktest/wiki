@@ -109,7 +109,7 @@ $$
    - Nature of the transaction (e.g., purchase, sale, or exchange)
    - Counterparty details (if applicable)
 
-   This meticulous documentation helps ensure compliance and assists in the smooth preparation of tax submissions. It's particularly important for those using algorithmic trading strategies, where numerous transactions can make tracking challenging.
+   This meticulous documentation helps ensure compliance and assists in the smooth preparation of tax submissions. It's particularly important for those using [algorithmic trading](/wiki/algorithmic-trading) strategies, where numerous transactions can make tracking challenging.
 
 In conclusion, the taxation of Linden Dollar trading underlines the importance of understanding and adhering to applicable financial regulations. Effective tax planning and record-keeping are essential to navigate the complexities of virtual currency taxation accurately.
 

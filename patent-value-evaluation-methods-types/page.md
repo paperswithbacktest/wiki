@@ -32,7 +32,7 @@ However, this method has some problems. Just because a lot of money was spent on
 
 The income approach to patent valuation looks at how much money the patent could make in the future. It tries to guess how much income the patent will bring in over its life, usually 20 years. To do this, people look at things like how much the product could be sold for, how many people might buy it, and how long the product will be popular. They then use these guesses to figure out the total income the patent could make.
 
-Once they have an idea of the future income, they need to figure out what that income is worth today. This is called discounting. They use a discount rate, which is kind of like an interest rate, to turn future money into today's money. The reason for this is that money today is worth more than money in the future because you could invest it now and earn more. So, the income approach helps people see if the patent is worth the price by comparing the discounted future income to the cost of buying the patent.
+Once they have an idea of the future income, they need to figure out what that income is worth today. This is called discounting. They use a discount rate, which is kind of like an [interest rate](/wiki/interest-rate-trading-strategies), to turn future money into today's money. The reason for this is that money today is worth more than money in the future because you could invest it now and earn more. So, the income approach helps people see if the patent is worth the price by comparing the discounted future income to the cost of buying the patent.
 
 ## Can you explain the market approach to patent valuation?
 
@@ -50,7 +50,7 @@ However, the number of citations isn't the only thing to look at. Sometimes, a p
 
 Legal factors can really change how much a patent is worth. One big thing is how strong the patent is legally. If the patent is written well and covers a lot of different ways the invention could be used, it's more valuable. This is because it's harder for other people to find ways around the patent or to challenge it in court. If a patent is weak and easy to get around, it won't be worth as much because it won't stop others from making similar products.
 
-Another legal factor is whether the patent has been granted in important countries. If a patent is only granted in one country, it might not be as valuable as one that's granted in many big markets around the world. For example, if a patent is granted in the United States, Europe, and China, it can protect the invention in a lot of places where people might want to buy it. This makes the patent more valuable because the owner can make money from it in more places.
+Another legal [factor](/wiki/factor-investing) is whether the patent has been granted in important countries. If a patent is only granted in one country, it might not be as valuable as one that's granted in many big markets around the world. For example, if a patent is granted in the United States, Europe, and China, it can protect the invention in a lot of places where people might want to buy it. This makes the patent more valuable because the owner can make money from it in more places.
 
 ## What are the differences between quantitative and qualitative methods in patent valuation?
 
@@ -78,7 +78,7 @@ Also, laws about patents can be different in different countries. Some countries
 
 ## What are the current trends and future directions in patent valuation methodologies?
 
-Right now, people are using more data and computers to figure out how much a patent is worth. They're using big data and machine learning to look at lots of information about patents, like how often they're cited, what they're about, and what similar patents have sold for. This helps them make better guesses about a patent's value. Also, more people are thinking about how a patent fits into the whole business plan of a company, not just how much money it could make by itself. This means looking at how the patent can help the company grow or stay ahead of others in the market.
+Right now, people are using more data and computers to figure out how much a patent is worth. They're using big data and [machine learning](/wiki/machine-learning) to look at lots of information about patents, like how often they're cited, what they're about, and what similar patents have sold for. This helps them make better guesses about a patent's value. Also, more people are thinking about how a patent fits into the whole business plan of a company, not just how much money it could make by itself. This means looking at how the patent can help the company grow or stay ahead of others in the market.
 
 In the future, we might see even more use of technology in patent valuation. Artificial intelligence and machine learning could become even better at figuring out the value of patents by looking at more and more data. Also, as the world gets more connected, companies might think even more about international markets when valuing patents. They'll need to understand how laws and markets in different countries can change a patent's value. Overall, patent valuation will keep getting more detailed and accurate as technology and global business keep changing.
 

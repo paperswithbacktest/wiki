@@ -64,7 +64,7 @@ Another way to improve your LTC Ratio is to find other ways to lower the total c
 
 ## What impact does the LTC Ratio have on loan approval and interest rates?
 
-The LTC Ratio can affect whether a bank will approve your loan and what interest rate they will charge. If your LTC Ratio is high, it means the bank is lending you a big part of the money you need for your project. This can be risky for the bank because if your project doesn't go well, they might not get their money back. Because of this, banks might be less likely to approve a loan with a high LTC Ratio. They might also charge a higher interest rate to cover the extra risk they are taking on.
+The LTC Ratio can affect whether a bank will approve your loan and what [interest rate](/wiki/interest-rate-trading-strategies) they will charge. If your LTC Ratio is high, it means the bank is lending you a big part of the money you need for your project. This can be risky for the bank because if your project doesn't go well, they might not get their money back. Because of this, banks might be less likely to approve a loan with a high LTC Ratio. They might also charge a higher interest rate to cover the extra risk they are taking on.
 
 On the other hand, if your LTC Ratio is low, it means you are putting more of your own money into the project. This makes the project look less risky to the bank because you have more at stake. Banks are usually more likely to approve loans with a low LTC Ratio because they feel safer about getting their money back. They might also offer a lower interest rate because the risk is lower. So, having a good LTC Ratio can help you get your loan approved and save money on interest.
 
@@ -100,7 +100,7 @@ Such calculations are pivotal in decision-making processes, as they influence bo
 
 ## What are the challenges and considerations?
 
-Incorporating Loan-to-Cost (LTC) ratios into algorithmic trading systems presents several challenges that stakeholders must carefully navigate. One significant issue is data accuracy. Accurate and timely data are crucial for the effectiveness of algorithmic trading strategies. The LTC ratio, defined as the percentage of a project's cost financed by the loan:
+Incorporating Loan-to-Cost (LTC) ratios into [algorithmic trading](/wiki/algorithmic-trading) systems presents several challenges that stakeholders must carefully navigate. One significant issue is data accuracy. Accurate and timely data are crucial for the effectiveness of algorithmic trading strategies. The LTC ratio, defined as the percentage of a project's cost financed by the loan:
 
 $$
 \text{LTC} = \left( \frac{\text{Loan Amount}}{\text{Total Project Cost}} \right) \times 100

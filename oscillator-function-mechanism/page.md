@@ -58,7 +58,7 @@ To make sure an oscillator has good frequency stability, designers use things li
 
 ## How can the frequency of an oscillator be controlled or adjusted?
 
-The frequency of an oscillator can be controlled or adjusted by changing the parts that store and control the energy in the circuit. For example, in an LC oscillator, you can change the frequency by using different sizes of inductors or capacitors. A bigger capacitor or inductor will make the frequency lower, while a smaller one will make it higher. It's like changing the length of a pendulum to make it swing faster or slower. By picking the right parts, you can set the frequency to what you need.
+The frequency of an oscillator can be controlled or adjusted by changing the parts that store and control the energy in the circuit. For example, in an LC oscillator, you can change the frequency by using different sizes of inductors or capacitors. A bigger capacitor or inductor will make the frequency lower, while a smaller one will make it higher. It's like changing the length of a pendulum to make it swing faster or slower. By [picking](/wiki/asset-class-picking) the right parts, you can set the frequency to what you need.
 
 Another way to adjust the frequency is by using a variable component, like a variable capacitor or a potentiometer. These parts let you change the frequency while the oscillator is working. Turning a knob or moving a slider can make the frequency go up or down. This is useful in things like radios, where you need to tune to different stations. By adjusting these parts, you can find the right frequency for what you're doing.
 

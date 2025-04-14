@@ -64,7 +64,7 @@ Another key part of optimizing your strategy is to choose the right mix of inves
 
 ## What role does compound interest play in the accumulation period?
 
-Compound interest is like a magic helper during the accumulation period. It's what makes your money grow faster over time. When you earn interest on your savings or investments, that interest gets added to your total amount. Then, you start earning interest on the new, bigger total. This means you're not just earning interest on the money you put in, but also on the interest you've already earned. The longer you let this happen, the more your money can grow. That's why starting to save early is so important.
+Compound interest is like a magic helper during the accumulation period. It's what makes your money grow faster over time. When you earn interest on your savings or investments, that interest gets added to your total amount. Then, you start [earning](/wiki/earning-announcement) interest on the new, bigger total. This means you're not just earning interest on the money you put in, but also on the interest you've already earned. The longer you let this happen, the more your money can grow. That's why starting to save early is so important.
 
 For example, if you put $100 into a savings account that earns 5% interest every year, after one year, you'll have $105. In the second year, you'll earn 5% interest on $105, not just the original $100. So, you'll end up with $110.25. This keeps going, and over many years, the effect can be huge. Compound interest is a big reason why the accumulation period is so powerful. It helps turn small, regular savings into a lot more money over time.
 

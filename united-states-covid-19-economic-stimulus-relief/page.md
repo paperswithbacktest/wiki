@@ -84,7 +84,7 @@ Another thing people are thinking about is how to help businesses better. Some b
 
 ## What is the impact of stimulus efforts on algorithmic trading strategies?
 
-Economic stimulus measures implemented during the COVID-19 pandemic significantly impacted algorithmic trading strategies. These measures altered two essential market dynamics: liquidity and volatility, which are crucial components for formulating and executing algorithmic trading strategies.
+Economic stimulus measures implemented during the COVID-19 pandemic significantly impacted [algorithmic trading](/wiki/algorithmic-trading) strategies. These measures altered two essential market dynamics: [liquidity](/wiki/liquidity-risk-premium) and [volatility](/wiki/volatility-trading-strategies), which are crucial components for formulating and executing algorithmic trading strategies.
 
 The reduction of interest rates by the Federal Reserve and other global central banks was a pivotal stimulus action aimed at bolstering economic activity. Lower interest rates generally lead to decreased costs of borrowing, encouraging spending and investment. For markets, this influx of liquidity contributed to greater trading volumes and altered asset price movements. The increased liquidity in financial markets typically reduces bid-ask spreads, providing algorithmic traders with enhanced opportunities for executing high-frequency trading strategies. The relationship between interest rates and asset prices can often be modeled using the formula for discounted cash flow, which affects the valuation of equities and fixed-income securities:
 

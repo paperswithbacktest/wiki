@@ -52,7 +52,7 @@ GAAP and IFRS have different details, but they both want to make sure that finan
 
 ## How do impairments affect the carrying value?
 
-Impairments can change the carrying value of an asset. An impairment happens when something loses a lot of value suddenly, more than just the normal wear and tear. If a business thinks an asset is worth a lot less now than before, they need to lower its carrying value on their books. They do this by figuring out how much the asset is worth now and then taking away that amount from the carrying value.
+Impairments can change the carrying value of an asset. An impairment happens when something loses a lot of value suddenly, more than just the normal wear and tear. If a business thinks an asset is worth a lot less now than before, they need to lower its carrying value on their [books](/wiki/algo-trading-books). They do this by figuring out how much the asset is worth now and then taking away that amount from the carrying value.
 
 This change in carrying value because of an impairment shows up on the company's financial reports. It means the asset isn't worth as much as they thought, and it can affect how much money the company says it has. It's important for businesses to keep an eye on impairments so they can show the real value of their stuff and make smart decisions about what to do next.
 

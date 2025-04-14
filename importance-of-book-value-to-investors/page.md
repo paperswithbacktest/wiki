@@ -22,7 +22,7 @@ Another reason book value matters is that it can show how well a company is mana
 
 ## How does book value differ from market value?
 
-Book value and market value are two different ways to measure the worth of a company. Book value is like the price tag you'd see if you sold everything the company owns and paid off all its debts. It's based on the numbers in the company's accounting books, which show the value of things like buildings, machines, and money in the bank, minus what the company owes. This gives you a clear picture of what's left if the company were to close up shop and sell everything.
+Book value and market value are two different ways to measure the worth of a company. Book value is like the price tag you'd see if you sold everything the company owns and paid off all its debts. It's based on the numbers in the company's accounting [books](/wiki/algo-trading-books), which show the value of things like buildings, machines, and money in the bank, minus what the company owes. This gives you a clear picture of what's left if the company were to close up shop and sell everything.
 
 Market value, on the other hand, is what people are willing to pay for the company's stock at any given time. It's influenced by things like how well the company is doing, what investors think about its future, and even what's happening in the economy. Market value can go up and down a lot, depending on what people think the company is worth, even if the company's actual assets haven't changed. So while book value gives you a snapshot of the company's worth based on its assets, market value shows what the market believes the company is worth right now.
 

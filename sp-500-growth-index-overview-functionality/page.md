@@ -24,7 +24,7 @@ The main difference is that the S&P 500 includes all kinds of companies, both th
 
 The S&P 500 Growth Index picks companies based on three main things: how fast their sales are growing, how fast their earnings are growing, and how their stock price is moving. These are called growth factors. The index looks at all the companies in the S&P 500 and chooses the ones that score high on these growth factors. This means the companies in the Growth Index are expected to do better than average in the future.
 
-The index uses a special way to figure out which companies are growing the most. It gives each company a score based on their sales growth, earnings growth, and stock price momentum. Companies with the highest scores make it into the Growth Index. This helps investors find companies that are likely to keep growing and make more money over time.
+The index uses a special way to figure out which companies are growing the most. It gives each company a score based on their sales growth, earnings growth, and stock price [momentum](/wiki/momentum). Companies with the highest scores make it into the Growth Index. This helps investors find companies that are likely to keep growing and make more money over time.
 
 ## How is the performance of the S&P 500 Growth Index measured?
 
@@ -40,7 +40,7 @@ Looking at longer periods, like 10 years, the S&P 500 Growth Index has often don
 
 ## How can investors gain exposure to the S&P 500 Growth Index?
 
-Investors can gain exposure to the S&P 500 Growth Index by buying exchange-traded funds (ETFs) or mutual funds that track this index. These funds are designed to mimic the performance of the S&P 500 Growth Index, so when the index goes up, the value of the fund goes up too. You can buy these funds through a brokerage account, which is like an online bank account for buying and selling investments. Some popular ETFs that track the S&P 500 Growth Index include the iShares S&P 500 Growth ETF and the SPDR Portfolio S&P 500 Growth ETF.
+Investors can gain exposure to the S&P 500 Growth Index by buying exchange-traded funds (ETFs) or mutual funds that track this index. These funds are designed to mimic the performance of the S&P 500 Growth Index, so when the index goes up, the value of the fund goes up too. You can buy these funds through a brokerage account, which is like an online bank account for buying and selling investments. Some popular ETFs that track the S&P 500 Growth Index include the iShares S&P 500 Growth [ETF](/wiki/etf-trading-strategies) and the SPDR Portfolio S&P 500 Growth ETF.
 
 Another way to get exposure to the S&P 500 Growth Index is by investing directly in the individual stocks that make up the index. This means you would buy shares of the companies that are in the S&P 500 Growth Index. This can be more work because you have to pick and choose which companies to buy, but it can also give you more control over your investments. You would still need a brokerage account to buy these stocks, and you might want to do some research to figure out which companies in the index you think will do the best.
 
@@ -78,7 +78,7 @@ Other sectors in the S&P 500 Growth Index include consumer discretionary, which 
 
 Macroeconomic factors, like the overall health of the economy, interest rates, and inflation, can have a big impact on how the S&P 500 Growth Index does. When the economy is doing well, people and businesses have more money to spend, which can help the companies in the Growth Index grow even faster. This is because these companies often need money to invest in new projects or expand their business. Also, when interest rates are low, it's cheaper for these companies to borrow money, which can help them grow even more. But, if the economy is not doing well, or if interest rates go up, it can be harder for these companies to grow, and the value of the Growth Index might go down.
 
-Inflation is another big factor. When prices are going up a lot, it can make it harder for companies to keep growing because their costs go up too. This can hurt the companies in the Growth Index, especially if they can't raise their prices to match the higher costs. Also, if people think inflation will keep going up, they might want to put their money into things that will protect them from inflation, like bonds, instead of stocks. This can make the stock prices of the companies in the Growth Index go down. So, keeping an eye on these big economic factors can help investors understand why the S&P 500 Growth Index is doing well or not so well.
+Inflation is another big [factor](/wiki/factor-investing). When prices are going up a lot, it can make it harder for companies to keep growing because their costs go up too. This can hurt the companies in the Growth Index, especially if they can't raise their prices to match the higher costs. Also, if people think inflation will keep going up, they might want to put their money into things that will protect them from inflation, like bonds, instead of stocks. This can make the stock prices of the companies in the Growth Index go down. So, keeping an eye on these big economic factors can help investors understand why the S&P 500 Growth Index is doing well or not so well.
 
 ## References & Further Reading
 

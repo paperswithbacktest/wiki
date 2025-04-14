@@ -98,7 +98,7 @@ $$
 \text{Net Income} = \text{Total Revenue} - \text{Total Expenses}
 $$
 
-The cash flow statement tracks the inflow and outflow of cash, emphasizing the company's liquidity by detailing cash operations from operating, investing, and financing activities. It helps assess the company's ability to generate cash and fund its operations.
+The cash flow statement tracks the inflow and outflow of cash, emphasizing the company's [liquidity](/wiki/liquidity-risk-premium) by detailing cash operations from operating, investing, and financing activities. It helps assess the company's ability to generate cash and fund its operations.
 
 The statement of changes in equity outlines the movements in shareholders' equity over an accounting period. This includes net income, dividends paid, and any changes due to stock issuance or buybacks, providing a view of how shareholder investment has evolved.
 

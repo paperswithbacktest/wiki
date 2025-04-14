@@ -30,7 +30,7 @@ Another typical feature of QUIPS is that they have a longer time before they can
 
 Companies that need to raise money without adding too much debt to their balance sheet often issue QUIPS. These companies might be looking for a cheaper way to borrow money compared to taking out a traditional loan. By issuing QUIPS, they can pay dividends to investors instead of interest to a bank, which can be less expensive for them.
 
-QUIPS are popular with big companies that want to keep their financial statements looking good. Because QUIPS are issued through a trust or a special purpose vehicle, they don't show up as debt on the company's books. This makes the company appear more financially stable to investors and creditors.
+QUIPS are popular with big companies that want to keep their financial statements looking good. Because QUIPS are issued through a trust or a special purpose vehicle, they don't show up as debt on the company's [books](/wiki/algo-trading-books). This makes the company appear more financially stable to investors and creditors.
 
 ## What are the benefits of investing in QUIPS for individual investors?
 

@@ -30,7 +30,7 @@ Another assumption is that markets react quickly to new information. If somethin
 
 To test weak form efficiency, researchers look at past stock prices and trading volumes to see if they can predict future prices. They use statistical tests to check if there are any patterns or trends in the data that could help make money. If they find patterns, it might mean the market is not weak form efficient because you could use past data to predict future prices. But if they can't find any useful patterns, it supports the idea that the market is weak form efficient.
 
-One common way to test weak form efficiency is by using something called a "runs test." This test checks if the sequence of price changes is random or if there are patterns. If the price changes look random, it supports weak form efficiency. Another method is to use technical analysis tools like moving averages or momentum indicators to see if they can predict future prices. If these tools don't work better than just guessing, it suggests that the market is weak form efficient.
+One common way to test weak form efficiency is by using something called a "runs test." This test checks if the sequence of price changes is random or if there are patterns. If the price changes look random, it supports weak form efficiency. Another method is to use technical analysis tools like moving averages or [momentum](/wiki/momentum) indicators to see if they can predict future prices. If these tools don't work better than just guessing, it suggests that the market is weak form efficient.
 
 ## What are the common statistical tests used to assess weak form efficiency?
 
@@ -50,7 +50,7 @@ Strong form efficiency is the strongest level of efficiency. It says that all in
 
 In the United States, the stock market is often thought to be weak form efficient. Researchers have looked at the prices of stocks on the New York Stock Exchange and found that it's hard to predict future prices just by looking at past prices. They used tests like the runs test and autocorrelation test, and the results showed that the price changes seemed random. This means that if you try to make money by looking at past stock prices, you won't do better than the market average. Many investors believe this and choose to invest in a broad mix of stocks instead of trying to pick winners based on past data.
 
-Another example is the foreign exchange market, where currencies are traded. Studies have shown that it's tough to predict future currency prices just by looking at past exchange rates. People have used statistical tests like variance ratio tests and found that the market behaves in a way that supports weak form efficiency. This means that even if you look at past exchange rates, you won't be able to make more money than the market average. So, traders in the forex market often focus on other strategies, like looking at economic indicators or global events, rather than trying to use past prices to predict the future.
+Another example is the foreign exchange market, where currencies are traded. Studies have shown that it's tough to predict future currency prices just by looking at past exchange rates. People have used statistical tests like variance ratio tests and found that the market behaves in a way that supports weak form efficiency. This means that even if you look at past exchange rates, you won't be able to make more money than the market average. So, traders in the [forex](/wiki/forex-system) market often focus on other strategies, like looking at economic indicators or global events, rather than trying to use past prices to predict the future.
 
 ## How do technical analysis tools perform in markets that are weak form efficient?
 
@@ -84,7 +84,7 @@ However, even with these new tools, weak form efficiency still holds up pretty w
 
 ## What is Weak Form Market Efficiency?
 
-Weak form market efficiency is a concept within the Efficient Market Hypothesis (EMH) asserting that all historical trading information, including stock prices and volume, is fully integrated into current market prices. This notion holds that past price movements and historical data are inadequate for predicting future price movements, thereby challenging the effectiveness of technical analysis.
+Weak form market efficiency is a concept within the Efficient Market Hypothesis (EMH) asserting that all historical trading information, including stock prices and [volume](/wiki/volume-trading-strategy), is fully integrated into current market prices. This notion holds that past price movements and historical data are inadequate for predicting future price movements, thereby challenging the effectiveness of technical analysis.
 
 The roots of weak form efficiency are grounded in the broader context of the EMH, which was popularized by economist Eugene Fama in the 1960s. The hypothesis posits three levels of market efficiency: weak, semi-strong, and strong. Weak form efficiency is the most basic level, suggesting that because all historical data is already reflected in stock prices, attempting to analyze past price actions to forecast future movements yields no tangible benefit.
 

@@ -22,7 +22,7 @@ They introduced the CIR model to the world in 1985. It was a big deal because it
 
 ## What are the main assumptions of the CIR model?
 
-The CIR model makes a few key guesses about how interest rates work. First, it assumes that interest rates tend to move towards a long-term average rate over time. This means if the current interest rate is higher than the average, it will likely go down, and if it's lower, it will likely go up. This pull towards the average is like a rubber band effect, gently guiding the interest rate back to its normal level.
+The CIR model makes a few key guesses about how interest rates work. First, it assumes that interest rates tend to move towards a long-term average rate over time. This means if the current [interest rate](/wiki/interest-rate-trading-strategies) is higher than the average, it will likely go down, and if it's lower, it will likely go up. This pull towards the average is like a rubber band effect, gently guiding the interest rate back to its normal level.
 
 Another important guess is that interest rates can also change randomly. These random changes are what make the model more realistic because real interest rates don't follow a perfect pattern. The CIR model uses a special kind of math to describe these random changes, making sure they are not too big or too small. It's like adding a bit of unpredictability to the model to match what we see in real life.
 

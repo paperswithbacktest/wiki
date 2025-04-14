@@ -194,7 +194,7 @@ payback_month = np.where(cumulative_cash_flows >= initial_investment)[0][0] + 1
 print(f"Payback period is approximately {payback_month} months.")
 ```
 
-The example above illustrates how integrating payback period analysis can guide parameter optimization in trading strategies, highlighting the impact on capital recovery timelines and overall strategy efficiency. This case study underscores the practical utility of financial metrics in fine-tuning algorithmic trading decisions.
+The example above illustrates how integrating payback period analysis can guide parameter optimization in trading strategies, highlighting the impact on capital recovery timelines and overall strategy efficiency. This case study underscores the practical utility of financial metrics in fine-tuning [algorithmic trading](/wiki/algorithmic-trading) decisions.
 
 ## References & Further Reading
 

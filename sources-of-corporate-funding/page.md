@@ -101,7 +101,7 @@ Where:
 - $T$ is the corporate tax rate
 - $D$ is the total debt
 
-In the context of economic volatility, businesses must weigh the benefits of leveraging debt against the potential risks of added financial burdens and market unpredictability. The strategic use of debt capital necessitates prudent financial planning and risk assessment to ensure that it contributes positively to corporate value without jeopardizing financial stability.
+In the context of economic [volatility](/wiki/volatility-trading-strategies), businesses must weigh the benefits of leveraging debt against the potential risks of added financial burdens and market unpredictability. The strategic use of debt capital necessitates prudent financial planning and risk assessment to ensure that it contributes positively to corporate value without jeopardizing financial stability.
 
 ## References & Further Reading
 

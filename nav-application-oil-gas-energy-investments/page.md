@@ -28,7 +28,7 @@ For other types of energy investments, like renewable energy companies that own 
 
 ## What are the key factors that affect the NAV of energy investments?
 
-The NAV of energy investments is affected by many things. For oil and gas companies, the biggest factor is the price of oil and gas. If prices go up, the value of their reserves goes up too, which makes the NAV higher. But if prices drop, the NAV goes down. Another important thing is how much oil or gas is actually in the ground. Companies need to guess this, and if they get it wrong, it can change the NAV a lot. Also, the costs of getting the oil or gas out of the ground can change the NAV. If it costs more to get the oil out, the NAV goes down.
+The NAV of energy investments is affected by many things. For oil and gas companies, the biggest [factor](/wiki/factor-investing) is the price of oil and gas. If prices go up, the value of their reserves goes up too, which makes the NAV higher. But if prices drop, the NAV goes down. Another important thing is how much oil or gas is actually in the ground. Companies need to guess this, and if they get it wrong, it can change the NAV a lot. Also, the costs of getting the oil or gas out of the ground can change the NAV. If it costs more to get the oil out, the NAV goes down.
 
 For renewable energy companies, like those with wind or solar farms, the NAV can be affected by different things. The value of their assets, like wind turbines or solar panels, can change based on how much energy they make and what the energy is worth. If the price of electricity goes up, the NAV can go up too. Also, how long the equipment lasts and how much it costs to keep it running can affect the NAV. If the equipment lasts longer or costs less to maintain, the NAV can be higher. So, while the basic idea of NAV is the same, the things that affect it can be very different depending on the type of energy investment.
 
@@ -46,7 +46,7 @@ Another problem is that NAV doesn't tell you everything about a company. It only
 
 ## How does the volatility of oil and gas prices impact the NAV of related investments?
 
-The volatility of oil and gas prices has a big effect on the NAV of companies that own oil and gas reserves. When oil and gas prices go up, the value of the reserves also goes up, which makes the NAV higher. This means that if an investor looks at the NAV during a time when prices are high, the company might seem like a good investment. But if oil and gas prices drop, the value of the reserves goes down too, making the NAV lower. So, a company that looked like a good investment when prices were high might not look so good when prices fall.
+The [volatility](/wiki/volatility-trading-strategies) of oil and gas prices has a big effect on the NAV of companies that own oil and gas reserves. When oil and gas prices go up, the value of the reserves also goes up, which makes the NAV higher. This means that if an investor looks at the NAV during a time when prices are high, the company might seem like a good investment. But if oil and gas prices drop, the value of the reserves goes down too, making the NAV lower. So, a company that looked like a good investment when prices were high might not look so good when prices fall.
 
 Because oil and gas prices can change a lot, the NAV of these companies can be hard to trust as a steady measure of their value. Investors need to be careful because the NAV can go up and down quickly with the market. This means that looking at the NAV at just one point in time might not give a full picture of how the company is doing. It's important for investors to think about how prices might change in the future and not just rely on the NAV to make their decisions.
 
@@ -70,7 +70,7 @@ For renewable energy companies, new technology can also change their NAV. If the
 
 ## How do environmental, social, and governance (ESG) factors impact the NAV of energy investments?
 
-Environmental, social, and governance (ESG) factors can change the NAV of energy investments in big ways. If a company does well with ESG, like using clean energy or treating workers fairly, it might be worth more to investors who care about these things. This can make the NAV go up because people are willing to pay more for the company's stock. But if a company has problems with ESG, like causing a lot of pollution or not treating workers well, it might be worth less. This can make the NAV go down because investors might not want to buy the company's stock.
+Environmental, social, and governance ([ESG](/wiki/esg-investing)) factors can change the NAV of energy investments in big ways. If a company does well with ESG, like using clean energy or treating workers fairly, it might be worth more to investors who care about these things. This can make the NAV go up because people are willing to pay more for the company's stock. But if a company has problems with ESG, like causing a lot of pollution or not treating workers well, it might be worth less. This can make the NAV go down because investors might not want to buy the company's stock.
 
 Also, rules about ESG can change how much a company's assets are worth. If the government makes new rules to make energy companies be better with the environment, it might cost more money to follow these rules. This can lower the value of the company's assets and make the NAV go down. On the other hand, if a company does well with ESG and gets rewards like tax breaks, it can make their assets worth more and push the NAV up. So, ESG factors are important for figuring out the NAV of energy investments.
 
@@ -102,7 +102,7 @@ Consequently, NAV functions not just as a valuation tool but also as a strategic
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization." This work focuses on the optimization of hyperparameters within machine learning algorithms. It provides insights into techniques like grid search and random search, which are crucial for enhancing algorithmic performance in financial contexts.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization." This work focuses on the optimization of hyperparameters within [machine learning](/wiki/machine-learning) algorithms. It provides insights into techniques like grid search and random search, which are crucial for enhancing algorithmic performance in financial contexts.
 
 "Advances in Financial Machine Learning" by Marcos Lopez de Prado. This book explores the application of machine learning techniques to financial markets. It offers valuable frameworks and tools to develop predictive models, which can be instrumental for algorithmic trading strategies, particularly in volatile markets like oil and gas.
 

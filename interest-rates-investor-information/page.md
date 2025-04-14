@@ -78,7 +78,7 @@ Investors use interest rate swaps as part of their strategies to manage risk and
 
 Investors can use different ways to protect their money from changes in interest rates. One way is by using interest rate swaps. This means they can swap a loan with a changing interest rate for one with a steady rate, or the other way around. This helps them know exactly what they will pay or earn, no matter what happens with interest rates. Another way is by buying bonds that change with interest rates, called floating-rate bonds. These bonds adjust their interest payments when rates go up or down, so investors don't lose money if rates change.
 
-Another way to hedge against interest rate risk is by using something called bond laddering. This means buying bonds that come due at different times. If interest rates go up, the investor can use the money from the bonds that come due to buy new bonds with higher rates. This way, they can keep earning good interest even when rates change. By using these strategies, investors can make their portfolios safer and less affected by changes in interest rates.
+Another way to hedge against interest rate risk is by using something called bond laddering. This means buying bonds that come due at different times. If interest rates go up, the investor can use the money from the bonds that come due to buy new bonds with higher rates. This way, they can keep [earning](/wiki/earning-announcement) good interest even when rates change. By using these strategies, investors can make their portfolios safer and less affected by changes in interest rates.
 
 ## What is the role of interest rates in financial markets?
 

@@ -30,7 +30,7 @@ Investors can use the Sortino Ratio to compare different investments and see whi
 
 A higher Sortino Ratio means that an investment is doing a good job of giving you returns while keeping the risk of losing money low. It shows that the investment is handling the bad times well, which is important for people who don't want to lose a lot of money.
 
-When you see a high Sortino Ratio, it tells you that the investment is earning more money compared to the times it loses value. This helps investors feel more confident that their money is safe and that they're getting a good reward for the risk they're taking.
+When you see a high Sortino Ratio, it tells you that the investment is [earning](/wiki/earning-announcement) more money compared to the times it loses value. This helps investors feel more confident that their money is safe and that they're getting a good reward for the risk they're taking.
 
 ## How is the Sortino Ratio calculated?
 
@@ -66,7 +66,7 @@ For example, if an investor is managing a portfolio and wants to add a new inves
 
 One real-world example where the Sortino Ratio has been used effectively is in the management of retirement funds. A retirement fund manager might use the Sortino Ratio to choose investments that offer good returns while minimizing the risk of losing money during market downturns. This is especially important for retirees who rely on their investments for income and can't afford big losses. By focusing on the Sortino Ratio, the manager can build a portfolio that helps protect the retirees' savings and provides steady returns even in tough economic times.
 
-Another example is in hedge fund management. Hedge funds often aim to deliver high returns, but they also need to manage risk carefully. A hedge fund manager might use the Sortino Ratio to evaluate different trading strategies or investments. By choosing strategies with higher Sortino Ratios, the manager can increase the chances of achieving good returns without exposing the fund to too much downside risk. This helps the hedge fund attract investors who are looking for high rewards but are also concerned about protecting their capital during market volatility.
+Another example is in [hedge fund](/wiki/hedge-fund-trading-strategies) management. Hedge funds often aim to deliver high returns, but they also need to manage risk carefully. A hedge fund manager might use the Sortino Ratio to evaluate different trading strategies or investments. By choosing strategies with higher Sortino Ratios, the manager can increase the chances of achieving good returns without exposing the fund to too much downside risk. This helps the hedge fund attract investors who are looking for high rewards but are also concerned about protecting their capital during market volatility.
 
 ## How does the Sortino Ratio handle non-normal distribution of returns?
 

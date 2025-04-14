@@ -108,13 +108,13 @@ Stress testing and scenario analysis complement VaR and CVaR by evaluating the p
 
 The effectiveness of these techniques depends heavily on the availability and quality of data. Accurate risk calculations require high-quality, comprehensive data to ensure that the statistical models used are robust and reflective of real market conditions. Data limitations, such as outdated or incomplete data sets, can severely impact the accuracy of risk assessments.
 
-Moreover, risk calculation models face challenges in capturing complex market dynamics and correlations, especially during times of market turmoil. The assumptions underpinning these models, such as normal distribution of returns or constant volatility, often fail during abnormal market conditions, leading to underestimation of risks.
+Moreover, risk calculation models face challenges in capturing complex market dynamics and correlations, especially during times of market turmoil. The assumptions underpinning these models, such as normal distribution of returns or constant [volatility](/wiki/volatility-trading-strategies), often fail during abnormal market conditions, leading to underestimation of risks.
 
 In summary, quantitative risk calculation techniques like VaR, CVaR, stress testing, and scenario analysis are crucial for managing financial and downside risks. Their reliability depends on sound statistical methods and data integrity. However, practitioners must remain aware of and address the inherent limitations and challenges associated with these models to ensure robust risk management practices.
 
 ## How can we develop risk calculation algorithms for trading?
 
-The development of risk calculation algorithms tailored for trading requires a nuanced understanding of both financial and downside risk and the incorporation of these assessments into algorithmic trading systems. The initial stage involves defining the specific risks pertinent to the trading strategy, including market volatility, creditworthiness of counterparties, [liquidity](/wiki/liquidity-risk-premium) constraints, and potential losses beyond the average expected levels.
+The development of risk calculation algorithms tailored for trading requires a nuanced understanding of both financial and downside risk and the incorporation of these assessments into [algorithmic trading](/wiki/algorithmic-trading) systems. The initial stage involves defining the specific risks pertinent to the trading strategy, including market volatility, creditworthiness of counterparties, [liquidity](/wiki/liquidity-risk-premium) constraints, and potential losses beyond the average expected levels.
 
 An effective risk calculation algorithm must assess both standard financial risk metrics and downside risk measures. Downside risk, which focuses on potential losses rather than symmetrical risk, can be quantified using methods such as Value at Risk (VaR) and Conditional Value at Risk (CVaR). The formula for VaR helps determine the potential loss in the value of an asset or portfolio over a defined period for a given confidence interval. CVaR provides an expected loss exceeding the VaR threshold:
 

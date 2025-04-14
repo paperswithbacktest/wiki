@@ -32,7 +32,7 @@ Because of confirmation bias, traders might keep buying a stock even if there ar
 
 ## What is the overconfidence bias and how does it impact trading performance?
 
-Overconfidence bias is when traders think they know more than they really do. They might believe they can predict the market better than others and take bigger risks because of this. For example, a trader might think they have a special way of picking stocks that will always make them money. This can lead them to trade too often or put too much money into one stock, thinking they can't lose.
+Overconfidence bias is when traders think they know more than they really do. They might believe they can predict the market better than others and take bigger risks because of this. For example, a trader might think they have a special way of [picking](/wiki/asset-class-picking) stocks that will always make them money. This can lead them to trade too often or put too much money into one stock, thinking they can't lose.
 
 This bias can really hurt a trader's performance. Because they think they're better at trading than they are, they might not listen to advice or learn from their mistakes. They could end up losing a lot of money if the market doesn't go the way they expected. It's important for traders to stay humble and realize that the market can be unpredictable, no matter how much they think they know.
 
@@ -80,7 +80,7 @@ Another technique is to use behavioral finance models. These models help traders
 
 ## How can cognitive biases be integrated into algorithmic trading models to improve decision-making?
 
-Traders can make their algorithmic trading models better by thinking about cognitive biases. They can build the models to spot when a trader might be making choices because of biases like confirmation bias or overconfidence. For example, if the model sees that a trader is buying more stocks after a few good trades, it might warn them that they could be overconfident. By adding these checks, the model can help traders make decisions based on facts, not feelings.
+Traders can make their [algorithmic trading](/wiki/algorithmic-trading) models better by thinking about cognitive biases. They can build the models to spot when a trader might be making choices because of biases like confirmation bias or overconfidence. For example, if the model sees that a trader is buying more stocks after a few good trades, it might warn them that they could be overconfident. By adding these checks, the model can help traders make decisions based on facts, not feelings.
 
 Another way to use cognitive biases in algorithmic trading is to make the model learn from past trades. The model can look at old data to see if biases like loss aversion or the gambler's fallacy affected the trader's choices. If it finds patterns, it can suggest ways to avoid these biases in the future. This helps the model give better advice and can lead to smarter trading decisions that are less influenced by human errors.
 

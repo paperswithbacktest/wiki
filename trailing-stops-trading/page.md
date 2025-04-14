@@ -64,7 +64,7 @@ On the other hand, if the market is calm and not moving much, you might want to 
 
 ## Can trailing stops be used effectively in algorithmic trading strategies?
 
-Trailing stops can be used well in algorithmic trading strategies. In algo trading, computers follow rules to buy and sell stocks. You can set up a rule that uses a trailing stop to help protect your profits. When the stock price goes up, the trailing stop moves up too, but if the price goes down, the stop stays where it is. This way, the computer can sell the stock at the right time to keep more of your gains without you having to watch the market all the time.
+Trailing stops can be used well in [algorithmic trading](/wiki/algorithmic-trading) strategies. In algo trading, computers follow rules to buy and sell stocks. You can set up a rule that uses a trailing stop to help protect your profits. When the stock price goes up, the trailing stop moves up too, but if the price goes down, the stop stays where it is. This way, the computer can sell the stock at the right time to keep more of your gains without you having to watch the market all the time.
 
 However, using trailing stops in algo trading also has some risks. If the market is moving a lot but not going in one clear direction, the trailing stop might get triggered too soon. This can make the computer sell the stock during a small dip, and you might miss out on more gains if the price goes back up. So, it's important to think about how much the market is moving and adjust the trailing stop to fit those conditions. This way, you can use trailing stops to help your algo trading strategy work better.
 

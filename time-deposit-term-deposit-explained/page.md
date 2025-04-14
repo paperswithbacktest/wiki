@@ -48,7 +48,7 @@ Once you have filled out the form and given the bank the money, they will open t
 
 Time and term deposits are usually very safe because they are backed by banks, but there are still some risks. One big risk is that you might need your money before the term is over. If you take your money out early, you might have to pay a penalty or lose some of the interest you earned. This can be a problem if something unexpected happens and you need the money right away.
 
-Another risk is that interest rates might go up while your money is locked in the deposit. If this happens, you might miss out on better rates that you could get with a new deposit. Also, the interest you earn might not keep up with inflation. This means that the value of your money could go down over time, even though you are earning interest. So, it's important to think about these risks before you decide to put your money in a time or term deposit.
+Another risk is that interest rates might go up while your money is locked in the deposit. If this happens, you might miss out on better rates that you could get with a new deposit. Also, the interest you earn might not keep up with inflation. This means that the value of your money could go down over time, even though you are [earning](/wiki/earning-announcement) interest. So, it's important to think about these risks before you decide to put your money in a time or term deposit.
 
 ## Can funds be withdrawn from time and term deposits before maturity?
 

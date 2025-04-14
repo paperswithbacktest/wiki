@@ -24,7 +24,7 @@ Lastly, individual choices can cause a negative rate of return. If an investor d
 
 ## How does market volatility contribute to a negative rate of return?
 
-Market volatility means that the prices of investments go up and down a lot in a short time. This can make it hard for investors to know what will happen next. When the market is very volatile, the value of an investment can drop quickly. If an investor decides to sell their investment during one of these drops, they might end up with a negative rate of return because they sell at a lower price than what they paid.
+Market [volatility](/wiki/volatility-trading-strategies) means that the prices of investments go up and down a lot in a short time. This can make it hard for investors to know what will happen next. When the market is very volatile, the value of an investment can drop quickly. If an investor decides to sell their investment during one of these drops, they might end up with a negative rate of return because they sell at a lower price than what they paid.
 
 Volatility can also make investors feel nervous. When people see big changes in their investment values, they might panic and sell their investments to avoid losing more money. This selling can make the market go down even more, causing more people to sell and leading to a cycle of falling prices. If an investor sells during this time, they might lock in a loss, resulting in a negative rate of return. Understanding how volatility works can help investors stay calm and make better choices about when to buy or sell.
 
@@ -32,7 +32,7 @@ Volatility can also make investors feel nervous. When people see big changes in 
 
 Yes, inflation can lead to a negative rate of return. Inflation means that the prices of things go up over time. If the money you get from an investment doesn't grow as fast as inflation, the value of your money goes down. For example, if you have $100 and the inflation rate is 5%, you would need $105 to buy the same things a year later. If your investment only grows to $102, you've lost buying power even though your investment grew a little.
 
-This can happen with things like savings accounts or bonds that have low interest rates. If the interest rate on your savings account is lower than the inflation rate, the money you earn from interest won't be enough to keep up with rising prices. Over time, the real value of your money goes down, leading to a negative rate of return when you look at what your money can actually buy. It's important for investors to think about inflation when they choose where to put their money.
+This can happen with things like savings accounts or bonds that have low interest rates. If the [interest rate](/wiki/interest-rate-trading-strategies) on your savings account is lower than the inflation rate, the money you earn from interest won't be enough to keep up with rising prices. Over time, the real value of your money goes down, leading to a negative rate of return when you look at what your money can actually buy. It's important for investors to think about inflation when they choose where to put their money.
 
 ## What role do fees and expenses play in causing a negative rate of return?
 
@@ -99,7 +99,7 @@ Where:
 - $Z$ is the Z-score corresponding to the desired confidence level
 - $T$ is the time horizon
 
-Backtesting forms an integral part of the risk management process in algo trading. It involves applying trading strategies to historical data to assess how they would have performed in past market conditions. This process helps in validating the strategy's effectiveness and provides an opportunity for refinement before its application in live markets. Through backtesting, traders can simulate scenarios and stress-test their algorithms under various conditions, ensuring robustness and reliability.
+Backtesting forms an integral part of the risk management process in algo trading. It involves applying trading strategies to historical data to assess how they would have performed in past market conditions. This process helps in validating the strategy's effectiveness and provides an opportunity for refinement before its application in live markets. Through [backtesting](/wiki/backtesting), traders can simulate scenarios and stress-test their algorithms under various conditions, ensuring robustness and reliability.
 
 Real-time data analysis further strengthens the risk management capabilities of algo trading. Algorithms can process streaming market data to identify minute-by-minute changes and adjust trading strategies accordingly. This ensures that the trading approach remains aligned with current market dynamics, minimizing potential losses from sudden market movements.
 

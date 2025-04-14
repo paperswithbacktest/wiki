@@ -24,7 +24,7 @@ The value of the US dollar can also be influenced by the actions of the US gover
 
 Dollar depreciation happens when the value of the US dollar goes down compared to other currencies. One big reason for this is when the US has a big trade deficit. This means the US is buying more stuff from other countries than it's selling to them. When this happens, more dollars go out of the country than come in, which can make the dollar worth less.
 
-Another factor is inflation. If prices in the US are going up faster than in other countries, the dollar can lose value. People might not want to hold onto dollars if they think they'll be worth less in the future. Also, if the Federal Reserve lowers interest rates, it can make the dollar less attractive to investors because they can get better returns in other countries. All these things together can lead to dollar depreciation.
+Another [factor](/wiki/factor-investing) is inflation. If prices in the US are going up faster than in other countries, the dollar can lose value. People might not want to hold onto dollars if they think they'll be worth less in the future. Also, if the Federal Reserve lowers interest rates, it can make the dollar less attractive to investors because they can get better returns in other countries. All these things together can lead to dollar depreciation.
 
 ## How does inflation impact the value of the US dollar?
 
@@ -76,7 +76,7 @@ Another long-term trend is the changing role of the US dollar in the world. For 
 
 ## How do speculative activities in the forex market influence the US dollar's depreciation?
 
-Speculative activities in the forex market can really affect the value of the US dollar. Forex traders and investors often try to guess where the dollar is going next. If they think the dollar is going to get weaker, they might sell their dollars and buy other currencies. When lots of people do this, it can actually make the dollar weaker because there are more dollars out there than people want to hold onto. This is called a self-fulfilling prophecy, where the act of selling the dollar because people think it will go down helps make it go down.
+Speculative activities in the [forex](/wiki/forex-system) market can really affect the value of the US dollar. Forex traders and investors often try to guess where the dollar is going next. If they think the dollar is going to get weaker, they might sell their dollars and buy other currencies. When lots of people do this, it can actually make the dollar weaker because there are more dollars out there than people want to hold onto. This is called a self-fulfilling prophecy, where the act of selling the dollar because people think it will go down helps make it go down.
 
 On the other hand, if speculators think the dollar is going to get stronger, they might buy more dollars. This can make the dollar stronger because more people want to hold onto it. But, these guesses can be wrong sometimes. If everyone thinks the dollar will go up and it doesn't, those who bought dollars might sell them quickly, which can cause the dollar to drop suddenly. So, what speculators think and do can cause big changes in the dollar's value, even if their guesses are not always right.
 

@@ -90,7 +90,7 @@ Algorithmic trading, as applied to real estate, represents a significant shift i
 
 Algorithmic trading in real estate involves using complex algorithms to automate processes such as buying, selling, and forecasting property values. This automation increases the speed and [volume](/wiki/volume-trading-strategy) of transactions, providing real-time data analyses that can identify trends or shifts in the market faster than traditional methods. The consequences of this change are both profound and complex, introducing [volatility](/wiki/volatility-trading-strategies) that could produce rapid changes in property values or transactional volumes.
 
-Mathematically, the algorithms process large datasets to detect price shifts and emerging trends. This is accomplished through models such as linear regression or machine learning algorithms like decision trees and neural networks. For instance, consider a simple linear regression model:
+Mathematically, the algorithms process large datasets to detect price shifts and emerging trends. This is accomplished through models such as linear regression or [machine learning](/wiki/machine-learning) algorithms like decision trees and neural networks. For instance, consider a simple linear regression model:
 
 $$
 y = \beta_0 + \beta_1x + \epsilon
@@ -100,7 +100,7 @@ where $y$ represents the predicted property price, $x$ represents influential ma
 
 **Intersection of Technology and Law**
 
-The integration of algorithmic trading within real estate raises questions regarding existing legal frameworks. Traditional property laws did not foresee automated systems operating independently or semi-independently in markets. Therefore, a critical role for real estate attorneys is ensuring that algorithmic operations comply with these regulations. The automation of transactions requires careful oversight to mitigate risks related to fair trading practices, privacy, and data security.
+The integration of [algorithmic trading](/wiki/algorithmic-trading) within real estate raises questions regarding existing legal frameworks. Traditional property laws did not foresee automated systems operating independently or semi-independently in markets. Therefore, a critical role for real estate attorneys is ensuring that algorithmic operations comply with these regulations. The automation of transactions requires careful oversight to mitigate risks related to fair trading practices, privacy, and data security.
 
 Real estate attorneys need to be conversant with both legal and technological best practices. They serve as vital interpreters between algo trading developers and regulatory bodies, ensuring that algorithms do not sidestep existing laws and safeguarding clients from potential infractions. Additionally, attorneys may be required to evaluate the ethical implications of algorithmic decisions, particularly concerning bias or unfair market manipulation.
 

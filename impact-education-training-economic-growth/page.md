@@ -26,7 +26,7 @@ There are many kinds of education and training programs. Some people go to schoo
 
 Besides formal education, there are other types of training programs. For example, apprenticeships let people learn a trade while working. They get hands-on experience and often earn money while they learn. There are also online courses that people can take from home. These can be about almost any topic, from cooking to computer programming. Workshops and seminars are short programs that focus on specific skills or knowledge. They can be a good way to learn something new quickly.
 
-Some people also learn through informal education, like reading books or watching educational videos. This type of learning doesn't follow a set program but can still be very helpful. Community centers and libraries often offer free classes and activities for people to learn new things. No matter what type of education or training someone chooses, the goal is to help them gain knowledge and skills that can improve their life.
+Some people also learn through informal education, like reading [books](/wiki/algo-trading-books) or watching educational videos. This type of learning doesn't follow a set program but can still be very helpful. Community centers and libraries often offer free classes and activities for people to learn new things. No matter what type of education or training someone chooses, the goal is to help them gain knowledge and skills that can improve their life.
 
 ## Can you explain the concept of human capital and its relation to economic growth?
 
@@ -38,7 +38,7 @@ When a country has a lot of human capital, it can lead to more economic growth. 
 
 Educational attainment levels and income levels are closely linked. People who have more education usually earn more money. For example, someone with a college degree often makes more than someone who only finished high school. This is because jobs that need more education, like being a doctor or an engineer, usually pay more. Companies are willing to pay more for people who have the skills and knowledge to do these jobs well.
 
-But, it's not just about the degree. The type of education and the skills someone learns also matter. Vocational training and apprenticeships can lead to good-paying jobs in trades like plumbing or electrical work. Even within the same field, someone with more education or specialized skills might earn more. For example, a nurse with a master's degree might make more than a nurse with just a bachelor's degree. So, the more education and skills someone has, the better their chances of earning a higher income.
+But, it's not just about the degree. The type of education and the skills someone learns also matter. Vocational training and apprenticeships can lead to good-paying jobs in trades like plumbing or electrical work. Even within the same field, someone with more education or specialized skills might earn more. For example, a nurse with a master's degree might make more than a nurse with just a bachelor's degree. So, the more education and skills someone has, the better their chances of [earning](/wiki/earning-announcement) a higher income.
 
 ## What role does vocational training play in enhancing workforce skills?
 

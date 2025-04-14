@@ -135,5 +135,5 @@ These examples illustrate the complexity and strategic importance of dividend fr
    - **Python for Algorithmic Trading**: Online courses and tutorials such as "Python for Finance: Investment Fundamentals & Data Analytics" on platforms like Udemy.
    - **QuantConnect**: An open-source algorithmic trading platform providing data libraries and learning resources for trading strategies, including dividend capture.
 
-These resources will provide readers with comprehensive insights and tools to enhance their knowledge and strategies in dividend investing and algorithmic trading.
+These resources will provide readers with comprehensive insights and tools to enhance their knowledge and strategies in dividend investing and [algorithmic trading](/wiki/algorithmic-trading).
 

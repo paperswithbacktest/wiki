@@ -30,7 +30,7 @@ Other people, like business leaders and financial analysts, use this data too. T
 
 ## How are Flow of Funds Accounts data collected?
 
-Flow of Funds Accounts data is collected by government agencies, like the central bank or a national statistics office. They gather information from many different places, such as banks, businesses, and households. They ask these groups to report how much money they are saving, borrowing, and spending. This information comes from surveys, financial statements, and other official records.
+Flow of Funds Accounts data is collected by government agencies, like the central bank or a national [statistics](/wiki/bayesian-statistics) office. They gather information from many different places, such as banks, businesses, and households. They ask these groups to report how much money they are saving, borrowing, and spending. This information comes from surveys, financial statements, and other official records.
 
 Once all the data is collected, it is put together into a big picture of the economy. This involves a lot of careful checking and organizing to make sure the data is correct. The final Flow of Funds Accounts show how money moves between different parts of the economy, like from households to businesses or from businesses to the government. This helps everyone understand the financial health of the country.
 

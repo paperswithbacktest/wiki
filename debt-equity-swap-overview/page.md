@@ -82,7 +82,7 @@ The company also needs to consider how the market and economy are doing. If the 
 
 ## What is the process of understanding debt-equity swaps?
 
-A debt-equity swap is a financial mechanism that involves the conversion of a company's debt into equity, thereby altering its capital structure. This financial technique is designed to improve a company's financial position, particularly for those firms experiencing financial difficulties. By converting debt obligations into equity, companies can enhance their liquidity and improve leverage ratios, which are critical indicators of financial health.
+A debt-equity swap is a financial mechanism that involves the conversion of a company's debt into equity, thereby altering its capital structure. This financial technique is designed to improve a company's financial position, particularly for those firms experiencing financial difficulties. By converting debt obligations into equity, companies can enhance their [liquidity](/wiki/liquidity-risk-premium) and improve leverage ratios, which are critical indicators of financial health.
 
 ### Mechanism of Debt-Equity Swaps
 

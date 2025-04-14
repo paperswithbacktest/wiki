@@ -34,11 +34,11 @@ Lastly, there are more advanced algorithms like neural networks. They're like a 
 
 Binary classification is when you're sorting things into just two groups. Imagine you're sorting emails into spam or not spam. The computer looks at the emails and decides which pile they go into. It's like flipping a coin, where you only have two choices: heads or tails. In binary classification, the computer learns from examples to make a yes or no decision, like deciding if a picture shows a cat or not a cat.
 
-Multi-class classification is when you're sorting things into more than two groups. Think about sorting fruits into apples, bananas, and oranges. The computer has to look at the fruits and decide which of the three groups each one belongs to. It's like picking from multiple choices on a test, not just true or false. In multi-class classification, the computer learns from examples to make a choice among several options, like deciding if a picture shows an apple, a banana, or an orange.
+Multi-class classification is when you're sorting things into more than two groups. Think about sorting fruits into apples, bananas, and oranges. The computer has to look at the fruits and decide which of the three groups each one belongs to. It's like [picking](/wiki/asset-class-picking) from multiple choices on a test, not just true or false. In multi-class classification, the computer learns from examples to make a choice among several options, like deciding if a picture shows an apple, a banana, or an orange.
 
 ## What is the importance of choosing the right classification algorithm?
 
-Choosing the right classification algorithm is important because it can make a big difference in how well your computer sorts things into groups. If you pick the wrong algorithm, the computer might make a lot of mistakes. For example, if you're trying to tell if an email is spam or not, using a simple algorithm might not catch all the tricky spam emails. But if you use a more complex algorithm like a neural network, it might be better at spotting the spam but could take longer to learn and make decisions.
+Choosing the right classification algorithm is important because it can make a big difference in how well your computer sorts things into groups. If you pick the wrong algorithm, the computer might make a lot of mistakes. For example, if you're trying to tell if an email is spam or not, using a simple algorithm might not catch all the tricky spam emails. But if you use a more complex algorithm like a [neural network](/wiki/neural-network), it might be better at spotting the spam but could take longer to learn and make decisions.
 
 Also, different algorithms work better with different kinds of data. Some algorithms are good with small amounts of data, while others need a lot of data to learn well. For instance, if you're sorting fruits into apples, bananas, and oranges, a decision tree might be easy to use and understand. But if you're trying to recognize faces in pictures, a neural network might be better because it can learn the complex patterns in faces. So, picking the right algorithm helps make sure your computer can do the job well and quickly.
 
@@ -80,13 +80,13 @@ To deal with this, you need special tricks. One way is to make the dataset more 
 
 ## How can advanced techniques like deep learning be applied to classification problems?
 
-Deep learning is a powerful tool for solving classification problems, especially when the data is complex, like pictures or sounds. It uses something called neural networks, which are like a brain made of math. These networks can learn really tricky patterns by themselves, without you telling them exactly what to look for. For example, if you want to tell if a picture shows a cat or a dog, a deep learning model can look at thousands of pictures and figure out what makes cats different from dogs. It might notice that cats often have pointy ears and dogs have different kinds of noses, even if you never told it to look for those things.
+Deep learning is a powerful tool for solving classification problems, especially when the data is complex, like pictures or sounds. It uses something called neural networks, which are like a brain made of math. These networks can learn really tricky patterns by themselves, without you telling them exactly what to look for. For example, if you want to tell if a picture shows a cat or a dog, a [deep learning](/wiki/deep-learning) model can look at thousands of pictures and figure out what makes cats different from dogs. It might notice that cats often have pointy ears and dogs have different kinds of noses, even if you never told it to look for those things.
 
 To use deep learning for classification, you need a lot of data to train the model. The more examples it sees, the better it gets at sorting new things into the right groups. Once trained, the model can be very accurate, even with new data it hasn't seen before. But deep learning models can be hard to understand and might take a long time to train. Still, they're great for problems where other methods don't work well, like recognizing faces in a crowd or understanding what people are saying in a noisy room. By using deep learning, you can tackle really tough classification problems and get good results.
 
 ## What is Feature Engineering for Classification?
 
-Feature engineering in trading classification models entails the process of selecting and transforming input variables, or features, to enhance the performance of machine learning algorithms. Effective feature engineering is crucial as it directly influences the model's ability to predict potential trading outcomes accurately.
+Feature engineering in trading classification models entails the process of selecting and transforming input variables, or features, to enhance the performance of [machine learning](/wiki/machine-learning) algorithms. Effective feature engineering is crucial as it directly influences the model's ability to predict potential trading outcomes accurately.
 
 In the context of trading, features can encompass a variety of data types, including technical indicators such as moving averages, measures of market [volatility](/wiki/volatility-trading-strategies), and relevant macroeconomic indicators. These features serve as inputs to the classification models, enabling the prediction of outcomes such as asset price direction or optimal trading positions.
 
@@ -140,7 +140,7 @@ By effectively processing and transforming the data into informative features, t
 
 ## What are the performance metrics used in classification trading models?
 
-In the context of algorithmic trading, evaluating the performance of classification models requires a comprehensive understanding of various metrics beyond mere accuracy. While accuracy denotes the ratio of correct predictions to total predictions, it can be misleading in trading, especially with imbalanced datasets or scenarios where the cost of false predictions varies significantly.
+In the context of [algorithmic trading](/wiki/algorithmic-trading), evaluating the performance of classification models requires a comprehensive understanding of various metrics beyond mere accuracy. While accuracy denotes the ratio of correct predictions to total predictions, it can be misleading in trading, especially with imbalanced datasets or scenarios where the cost of false predictions varies significantly.
 
 **Precision and Recall**
 

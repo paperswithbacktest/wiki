@@ -22,7 +22,7 @@ These hacks can be really damaging. For example, in 2022, there were hacks that 
 
 ## What are the immediate financial impacts of hacks on cryptocurrency users?
 
-When a hack happens in the cryptocurrency world, the people who lose their money feel it right away. If someone's crypto is stolen, they lose the value of those coins or tokens instantly. This can be a lot of money, and it can be really upsetting. Sometimes, the platform that got hacked might try to help by giving back some of the lost money, but this doesn't always happen, and it can take a long time.
+When a hack happens in the [cryptocurrency](/wiki/cryptocurrency) world, the people who lose their money feel it right away. If someone's crypto is stolen, they lose the value of those coins or tokens instantly. This can be a lot of money, and it can be really upsetting. Sometimes, the platform that got hacked might try to help by giving back some of the lost money, but this doesn't always happen, and it can take a long time.
 
 The value of the cryptocurrency can also drop right after a big hack. When people hear about a hack, they might get scared and start selling their crypto, which makes the price go down. This can affect everyone who owns that cryptocurrency, even if they weren't directly hacked. So, a hack can have a big impact on the whole crypto market, not just the people who were directly affected.
 

@@ -28,7 +28,7 @@ Another thing that sets PotCoin apart is its community and purpose. The people w
 
 ## How can someone acquire PotCoin and where can it be used?
 
-Someone can get PotCoin by buying it on a cryptocurrency exchange that supports it, like Poloniex or Bittrex. They can use regular money like dollars or other cryptocurrencies like Bitcoin to buy PotCoin. Another way to get PotCoin is by mining it, which means using a computer to solve math problems and earn PotCoin as a reward. This can be a bit tricky and needs special computer equipment, but it's another way to get PotCoin without buying it.
+Someone can get PotCoin by buying it on a [cryptocurrency](/wiki/cryptocurrency) exchange that supports it, like Poloniex or Bittrex. They can use regular money like dollars or other cryptocurrencies like Bitcoin to buy PotCoin. Another way to get PotCoin is by mining it, which means using a computer to solve math problems and earn PotCoin as a reward. This can be a bit tricky and needs special computer equipment, but it's another way to get PotCoin without buying it.
 
 Once someone has PotCoin, they can use it to buy things from places that accept it. Some online stores that sell cannabis products and accessories take PotCoin as payment. There are also some dispensaries and other businesses in the marijuana industry that accept PotCoin. People can also trade PotCoin with each other, like if they want to buy something from someone who only wants PotCoin. It's like using special money just for the cannabis community.
 

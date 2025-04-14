@@ -36,7 +36,7 @@ For example, people who are getting close to retiring might like a Growth and In
 
 ## What types of assets are typically included in a Growth and Income Fund?
 
-A Growth and Income Fund usually includes a mix of stocks and bonds. The stocks in the fund are often from companies that are expected to grow over time. These are called growth stocks. The fund might also include stocks from companies that pay regular dividends, which are payments made to shareholders. These dividend-paying stocks help provide the income part of the fund.
+A Growth and Income Fund usually includes a mix of stocks and bonds. The stocks in the fund are often from companies that are expected to grow over time. These are called [growth stocks](/wiki/growth-stocks). The fund might also include stocks from companies that pay regular dividends, which are payments made to shareholders. These dividend-paying stocks help provide the income part of the fund.
 
 The fund also invests in bonds. Bonds are like loans that you give to a company or government, and they pay you back with interest over time. This interest is another way the fund can give you income. By mixing growth stocks, dividend-paying stocks, and bonds, the fund tries to grow your money while also giving you regular payments.
 

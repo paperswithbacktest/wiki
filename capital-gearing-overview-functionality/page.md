@@ -122,9 +122,9 @@ In sum, while financial leverage can enhance investment returns, it requires car
 
 ## References & Further Reading
 
-Bergstra, J., et al., Algorithms for Hyper-Parameter Optimization. This publication investigates into techniques for optimizing hyper-parameters in machine learning algorithms, which is crucial for enhancing the performance and efficiency of trading algorithms.
+Bergstra, J., et al., Algorithms for Hyper-Parameter Optimization. This publication investigates into techniques for optimizing hyper-parameters in [machine learning](/wiki/machine-learning) algorithms, which is crucial for enhancing the performance and efficiency of trading algorithms.
 
-Chan, E., *Algorithmic Trading: Winning Strategies and Their Rationale*. This reference provides a comprehensive overview of different algorithmic trading strategies, explaining the rationale behind them and how financial metrics such as gearing ratios and leverage can be employed to enhance these strategies.
+Chan, E., *Algorithmic Trading: Winning Strategies and Their Rationale*. This reference provides a comprehensive overview of different [algorithmic trading](/wiki/algorithmic-trading) strategies, explaining the rationale behind them and how financial metrics such as gearing ratios and leverage can be employed to enhance these strategies.
 
 Jansen, S., *Machine Learning for Algorithmic Trading*. This book offers insights into the integration of machine learning in algorithmic trading, focusing on data-driven approaches that incorporate financial metrics to optimize trading performance and manage risks effectively.
 

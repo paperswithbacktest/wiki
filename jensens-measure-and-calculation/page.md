@@ -48,7 +48,7 @@ Once you have these three pieces of information, you can use them to figure out 
 
 ## What does a positive Jensen's Measure indicate about a portfolio's performance?
 
-A positive Jensen's Measure, or Jensen's Alpha, means that a portfolio is doing better than what the market expected. It shows that the people managing the portfolio are making smart choices and picking investments that are doing well. This is a good sign because it means the portfolio is beating the market, not just following it.
+A positive Jensen's Measure, or Jensen's Alpha, means that a portfolio is doing better than what the market expected. It shows that the people managing the portfolio are making smart choices and [picking](/wiki/asset-class-picking) investments that are doing well. This is a good sign because it means the portfolio is beating the market, not just following it.
 
 When you see a positive Jensen's Alpha, it tells you that the extra returns are coming from the skill of the portfolio manager, not just from the general ups and downs of the market. Investors like to see a positive Alpha because it means their money is being managed well and they are getting more return than they would have just by investing in the market as a whole.
 

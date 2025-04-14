@@ -52,7 +52,7 @@ This cycle of taking risks and getting a dopamine rush can make risk lovers want
 
 ## How can risk lovers be identified in financial markets?
 
-Risk lovers in financial markets can be identified by the types of investments they choose. They often invest in things like new startups or cryptocurrencies, which are not sure bets but have the potential for big rewards. They are excited by the chance to make a lot of money quickly, even if it's risky. They might also use strategies like day trading, where they buy and sell stocks quickly to try to make profits from small price changes.
+Risk lovers in financial markets can be identified by the types of investments they choose. They often invest in things like new startups or cryptocurrencies, which are not sure bets but have the potential for big rewards. They are excited by the chance to make a lot of money quickly, even if it's risky. They might also use strategies like [day trading](/wiki/day-trading-spy), where they buy and sell stocks quickly to try to make profits from small price changes.
 
 These investors are okay with the ups and downs of the market. They don't get too worried if their investments go down in value because they believe they can make it back and more. They are always looking for the next big opportunity and are willing to take chances that others might avoid. This behavior shows that they enjoy the thrill of uncertainty and the potential for big gains, even if it means they might lose money sometimes.
 

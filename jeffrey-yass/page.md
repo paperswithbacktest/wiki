@@ -36,7 +36,7 @@ Jeffrey Yass is one of the founders of SIG and plays a big role in the company. 
 
 Jeffrey Yass and his team at Susquehanna International Group use a mix of smart thinking and careful planning to make money from trading. One of their main strategies is trading options. Options are like bets on how stocks will do in the future. Yass and his team look at a lot of information to guess if a stock will go up or down. They use math and computers to help them make these guesses. They try to buy options when they think they can sell them for more money later.
 
-Another strategy they use is called market making. This means they help make sure there are always people ready to buy and sell stocks and options. They do this by always offering to buy and sell at certain prices. This helps keep the market working smoothly. By being good at market making, they can make money from the small differences between buying and selling prices. Yass's team uses their understanding of the market and quick thinking to do well with this strategy.
+Another strategy they use is called [market making](/wiki/market-making). This means they help make sure there are always people ready to buy and sell stocks and options. They do this by always offering to buy and sell at certain prices. This helps keep the market working smoothly. By being good at market making, they can make money from the small differences between buying and selling prices. Yass's team uses their understanding of the market and quick thinking to do well with this strategy.
 
 ## How has Jeffrey Yass influenced the financial markets?
 
@@ -76,7 +76,7 @@ Yass also helped make the market work better by being a market maker. This means
 
 ## What are some lesser-known facts about Jeffrey Yass's trading techniques and personal life?
 
-Jeffrey Yass is known for using math and computers in a big way for trading. He likes to use something called quantitative analysis. This means he uses numbers and math to make guesses about how stocks will do. Yass also likes to use a technique called statistical arbitrage. This is when he looks for small differences in prices between different stocks and tries to make money from those differences. Not many people know that Yass also likes to trade in less common markets, like betting on sports or weather. He uses his skills to make smart bets in these areas too.
+Jeffrey Yass is known for using math and computers in a big way for trading. He likes to use something called quantitative analysis. This means he uses numbers and math to make guesses about how stocks will do. Yass also likes to use a technique called statistical [arbitrage](/wiki/arbitrage). This is when he looks for small differences in prices between different stocks and tries to make money from those differences. Not many people know that Yass also likes to trade in less common markets, like betting on sports or weather. He uses his skills to make smart bets in these areas too.
 
 In his personal life, Jeffrey Yass is a big fan of education and helping others learn. He gives a lot of money to start and support charter schools. These are schools that get public money but are run more like private schools. Yass believes that parents should be able to choose the best school for their kids. He also likes to play games like poker and backgammon. These games helped him learn how to take risks and make smart choices, which he uses in his trading. Yass keeps his personal life pretty private, but he is known for being a good friend and a hard worker.
 

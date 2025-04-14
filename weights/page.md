@@ -84,9 +84,9 @@ Innovations in weight training methods include things like blood flow restrictio
 
 ## What are the types of weighted strategies?
 
-Weighted strategies in algorithmic trading involve the application of different weights to trading algorithms to achieve various objectives. These strategies help in optimizing trade execution and ensuring that the trading algorithm is responsive to market conditions.
+Weighted strategies in [algorithmic trading](/wiki/algorithmic-trading) involve the application of different weights to trading algorithms to achieve various objectives. These strategies help in optimizing trade execution and ensuring that the trading algorithm is responsive to market conditions.
 
-Trend-following strategies leverage weights to give precedence to longer-term market signals compared to short-term market fluctuations. In these strategies, weights are used to ensure that significant trends are captured by the algorithm, minimizing the noise caused by short-term volatility. By assigning larger weights to longer-term indicators, traders can ensure that their algorithms focus on sustained movements in the market rather than reacting to minor price changes.
+Trend-following strategies leverage weights to give precedence to longer-term market signals compared to short-term market fluctuations. In these strategies, weights are used to ensure that significant trends are captured by the algorithm, minimizing the noise caused by short-term [volatility](/wiki/volatility-trading-strategies). By assigning larger weights to longer-term indicators, traders can ensure that their algorithms focus on sustained movements in the market rather than reacting to minor price changes.
 
 The Volume-Weighted Average Price (VWAP) strategy uses trading [volume](/wiki/volume-trading-strategy) to determine the importance of price data. VWAP is calculated by taking the average price a security has traded at throughout the day, weighted by volume. The formula for VWAP is:
 
@@ -98,7 +98,7 @@ This approach helps in executing trades at a price that reflects the true market
 
 Mean reversion strategies focus on identifying and capitalizing on pricing deviations from an asset’s average price. Weights in these strategies are applied to track how prices oscillate around their mean. The reversion to mean is based on the assumption that prices and returns eventually move back towards the mean or average level. By weighing the historical pricing data, algorithms can identify overbought or oversold conditions, thereby offering opportunities to enter trades expecting prices to revert to their mean.
 
-Each of these strategies requires precise configuration of weights to align with specific trading goals. A well-calibrated weighting system can significantly enhance the performance and accuracy of trading algorithms. To achieve this, traders often rely on historical data and backtesting to refine their weight assignments, ensuring that they meet the desired trading outcomes amidst varying market conditions.
+Each of these strategies requires precise configuration of weights to align with specific trading goals. A well-calibrated weighting system can significantly enhance the performance and accuracy of trading algorithms. To achieve this, traders often rely on historical data and [backtesting](/wiki/backtesting) to refine their weight assignments, ensuring that they meet the desired trading outcomes amidst varying market conditions.
 
 ## References & Further Reading
 

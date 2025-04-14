@@ -28,7 +28,7 @@ To convert your bond, you just need to tell the company you want to do it. They 
 
 ## What are the benefits of issuing convertible bonds for a private corporation?
 
-Private corporations issue convertible bonds because it helps them get money at a lower cost. When they issue these bonds, they can offer a lower interest rate than regular bonds. This is because people who buy the bonds might be okay with a smaller interest rate if they get the chance to turn their bond into stock later. If the company does well and the stock price goes up, the bondholder can convert the bond and make more money. So, the company saves money on interest, which is good for its finances.
+Private corporations issue convertible bonds because it helps them get money at a lower cost. When they issue these bonds, they can offer a lower [interest rate](/wiki/interest-rate-trading-strategies) than regular bonds. This is because people who buy the bonds might be okay with a smaller interest rate if they get the chance to turn their bond into stock later. If the company does well and the stock price goes up, the bondholder can convert the bond and make more money. So, the company saves money on interest, which is good for its finances.
 
 Another benefit is that convertible bonds can attract more investors. Some people might not want to buy the company's stock directly because it's too risky. But they might be happy to buy a convertible bond because it gives them a safer way to invest in the company. If the stock price goes up a lot, they can convert the bond into stock and make a profit. If the stock price doesn't go up much, they still get their money back with interest, like a regular bond. This flexibility makes the bonds more appealing to a wider range of people.
 

@@ -68,7 +68,7 @@ Another method to test for stationarity is to use the KPSS test, which is the op
 
 ## What are ARIMA models and how are they used in time series forecasting?
 
-ARIMA models, which stand for AutoRegressive Integrated Moving Average, are a popular way to forecast time series data. They work by using past values of the data to predict what will happen next. An ARIMA model has three parts: the AR part looks at how past values affect the current value, the I part deals with making the data stationary by differencing, and the MA part looks at the errors in past predictions to improve future ones. You choose the right ARIMA model by picking numbers for these three parts, like ARIMA(1,1,1), which means one autoregressive term, one differencing step, and one moving average term.
+ARIMA models, which stand for AutoRegressive Integrated Moving Average, are a popular way to forecast time series data. They work by using past values of the data to predict what will happen next. An ARIMA model has three parts: the AR part looks at how past values affect the current value, the I part deals with making the data stationary by differencing, and the MA part looks at the errors in past predictions to improve future ones. You choose the right ARIMA model by [picking](/wiki/asset-class-picking) numbers for these three parts, like ARIMA(1,1,1), which means one autoregressive term, one differencing step, and one moving average term.
 
 ARIMA models are useful because they can handle a lot of different patterns in time series data. For example, if you want to predict next month's sales, you can use an ARIMA model to look at past sales and make a good guess. First, you need to make sure your data is stationary, which might mean taking differences between values. Then, you fit the ARIMA model to your data and use it to make forecasts. ARIMA models are flexible and can be adjusted to fit different kinds of time series, making them a powerful tool for anyone trying to predict the future based on past data.
 
@@ -80,13 +80,13 @@ Another way machine learning helps is by adapting to new information quickly. If
 
 ## What advanced techniques exist for modeling complex time series data?
 
-One advanced technique for modeling complex time series data is using Long Short-Term Memory (LSTM) networks, a type of recurrent neural network. LSTMs are good at remembering patterns over long periods of time, which is helpful for time series data that has long-term trends and seasonality. For example, if you want to predict the price of a stock, an LSTM can look at past prices over many months or years and find patterns that other methods might miss. By learning from this data, LSTMs can make better guesses about what will happen next, even if the patterns are hard to see.
+One advanced technique for modeling complex time series data is using Long Short-Term Memory (LSTM) networks, a type of recurrent [neural network](/wiki/neural-network). LSTMs are good at remembering patterns over long periods of time, which is helpful for time series data that has long-term trends and seasonality. For example, if you want to predict the price of a stock, an LSTM can look at past prices over many months or years and find patterns that other methods might miss. By learning from this data, LSTMs can make better guesses about what will happen next, even if the patterns are hard to see.
 
 Another technique is using Prophet, a tool made by Facebook that is good at handling time series with multiple seasonal patterns and holidays. Prophet can deal with data that has daily, weekly, and yearly patterns all at once, which is common in things like sales or website traffic. It also lets you add in special events, like big sales days or holidays, to make the predictions more accurate. By using Prophet, you can model complex time series data in a way that takes into account all the different things that might affect it, making your forecasts more reliable and useful for planning.
 
 ## What are the techniques and models used in time series analysis?
 
-Time series analysis is fundamental in algorithmic trading, offering a variety of techniques and models to capture and predict market dynamics. Among the most traditional methods are the Autoregressive Integrated Moving Average (ARIMA) and Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models. ARIMA is particularly useful for modeling time series data by capturing linear trends and patterns through differencing to induce stationarity, then applying autoregressive and moving average components. In mathematical terms, an ARIMA model of order $(p, d, q)$ is given by the equation:
+Time series analysis is fundamental in [algorithmic trading](/wiki/algorithmic-trading), offering a variety of techniques and models to capture and predict market dynamics. Among the most traditional methods are the Autoregressive Integrated Moving Average (ARIMA) and Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models. ARIMA is particularly useful for modeling time series data by capturing linear trends and patterns through differencing to induce stationarity, then applying autoregressive and moving average components. In mathematical terms, an ARIMA model of order $(p, d, q)$ is given by the equation:
 
 $$
 
@@ -95,7 +95,7 @@ $$
 
 where $Y_t$ is the value at time $t$, $c$ is a constant, $\phi$ and $\theta$ are the parameters of the autoregressive and moving average parts respectively, and $\varepsilon_t$ is the error term.
 
-GARCH models, on the other hand, are indispensable in financial time series to model and forecast volatility. By accounting for time-varying volatility clustering, GARCH can provide estimates for periods of high volatility, essential for risk management in trading. The GARCH($p, q$) model is generally expressed by:
+GARCH models, on the other hand, are indispensable in financial time series to model and forecast [volatility](/wiki/volatility-trading-strategies). By accounting for time-varying volatility clustering, GARCH can provide estimates for periods of high volatility, essential for risk management in trading. The GARCH($p, q$) model is generally expressed by:
 
 $$
 

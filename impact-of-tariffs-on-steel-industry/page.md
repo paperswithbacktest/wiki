@@ -88,7 +88,7 @@ Recent tariff policies have had profound effects on the dynamics of the steel ma
 
 In recent years, the United States has implemented a series of tariffs aimed at protecting its domestic steel industry from foreign competition, particularly from China. The tariffs were introduced under Section 232 of the Trade Expansion Act of 1962, citing national security concerns as the basis for imposing a 25% tariff on imported steel in 2018. This move was aimed at revitalizing the domestic steel industry by reducing dependency on foreign imports. However, it led to significant tensions between the US and China, as China, a major steel producer and exporter, viewed these tariffs as protectionist measures.
 
-In retaliation, China imposed its own set of tariffs on American products, creating a trade conflict that impacted various sectors. The back-and-forth tariff impositions exacerbated trade tensions and led to market volatility. The tariffs not only affected bilateral trade but also had repercussions across global steel markets by distorting trade flows and causing shifts in traditional supply chains.
+In retaliation, China imposed its own set of tariffs on American products, creating a trade conflict that impacted various sectors. The back-and-forth tariff impositions exacerbated trade tensions and led to market [volatility](/wiki/volatility-trading-strategies). The tariffs not only affected bilateral trade but also had repercussions across global steel markets by distorting trade flows and causing shifts in traditional supply chains.
 
 ### Market Responses and Global Production Patterns
 

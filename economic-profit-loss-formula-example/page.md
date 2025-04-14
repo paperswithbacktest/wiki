@@ -122,7 +122,7 @@ In contrast, technical analysis focuses on historical price charts and trading v
 
 Algorithmic trading integrates these financial analyses to automate trading processes. Algorithms use financial ratios and indicators to identify trends and patterns, allowing for timely and precise execution of trades. These systems can analyze vast datasets at a speed unachievable by human traders, resulting in enhanced decision-making capabilities.
 
-Technical and fundamental analyses complement each other in financial decision-making. While [fundamental analysis](/wiki/fundamental-analysis) helps in understanding the intrinsic value of securities, technical analysis provides timing cues for the entry and exit of trades. The synergy between these analyses is crucial in crafting a holistic and effective trading strategy.
+Technical and fundamental analyses complement each other in financial decision-making. While [fundamental analysis](/wiki/fundamental-analysis) helps in understanding the intrinsic value of securities, technical analysis provides timing cues for the entry and [exit](/wiki/exit-strategy) of trades. The synergy between these analyses is crucial in crafting a holistic and effective trading strategy.
 
 In summary, financial analysis is indispensable in trading as it provides a structured approach to evaluate and capitalize on market opportunities. The integration of fundamental and technical analysis within algorithmic trading ensures informed decision-making, aiding in the pursuit of profitability and efficiency in the financial markets.
 

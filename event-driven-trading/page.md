@@ -18,7 +18,7 @@ This type of trading can be very profitable because it allows traders to react q
 
 Event-driven trading is different from traditional trading strategies because it focuses on specific events or news that can change the value of stocks or other assets. Traditional trading often uses long-term analysis, looking at trends and patterns over time to decide when to buy or sell. In contrast, event-driven traders watch for sudden changes, like a company's earnings report or a big news event, and they act quickly to take advantage of these changes.
 
-Traditional trading strategies might involve methods like technical analysis, where traders look at charts and historical price data to predict future movements, or fundamental analysis, where they study a company's financial health and industry conditions. Event-driven trading, on the other hand, is more about reacting to new information as it comes out. This means event-driven traders need to be fast and ready to make decisions based on the latest news, rather than waiting for long-term trends to play out.
+Traditional trading strategies might involve methods like technical analysis, where traders look at charts and historical price data to predict future movements, or [fundamental analysis](/wiki/fundamental-analysis), where they study a company's financial health and industry conditions. Event-driven trading, on the other hand, is more about reacting to new information as it comes out. This means event-driven traders need to be fast and ready to make decisions based on the latest news, rather than waiting for long-term trends to play out.
 
 ## What types of events can trigger event-driven trading?
 
@@ -66,7 +66,7 @@ The algorithms used in event-driven trading are set up to look for specific even
 
 One advanced technique in event-driven trading is using machine learning to predict how the market will react to different events. Traders can feed lots of past data into a computer and teach it to find patterns. For example, the computer can learn that when a certain type of news comes out, stock prices usually go up or down. Then, when a new event happens, the computer can quickly guess what might happen to the stock price and help the trader decide what to do. This makes event-driven trading smarter and faster because the computer can find things that a person might miss.
 
-Another advanced technique is using high-frequency trading (HFT) to take advantage of events. HFT uses very fast computers to buy and sell stocks in just a few seconds. When an important event happens, these computers can react almost instantly, buying or selling stocks before most other traders even know about the event. This can be really profitable, but it's also risky because the market can move very quickly and in unexpected ways. Traders using HFT need to have good risk management to stop trading if things start to go wrong.
+Another advanced technique is using high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) to take advantage of events. HFT uses very fast computers to buy and sell stocks in just a few seconds. When an important event happens, these computers can react almost instantly, buying or selling stocks before most other traders even know about the event. This can be really profitable, but it's also risky because the market can move very quickly and in unexpected ways. Traders using HFT need to have good risk management to stop trading if things start to go wrong.
 
 ## How does one evaluate the performance of an event-driven trading strategy?
 
@@ -76,7 +76,7 @@ Another important thing to check is how the strategy handled risk. Traders see i
 
 ## What future trends might impact the effectiveness of event-driven trading?
 
-One big future trend that might change event-driven trading is the use of artificial intelligence (AI) and machine learning. These technologies can get better at predicting how the market will react to news. They can look at lots of past data to find patterns and make smarter guesses about what will happen next. This could make event-driven trading more accurate and profitable. But it also means traders need to keep learning and using the newest technology to stay ahead.
+One big future trend that might change event-driven trading is the use of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and machine learning. These technologies can get better at predicting how the market will react to news. They can look at lots of past data to find patterns and make smarter guesses about what will happen next. This could make event-driven trading more accurate and profitable. But it also means traders need to keep learning and using the newest technology to stay ahead.
 
 Another trend is the increase in the speed of information. With the internet and social media, news spreads faster than ever. This means traders need to be even quicker to react to events. High-frequency trading, where computers trade stocks in milliseconds, might become more common in event-driven trading. This can help traders take advantage of events before others, but it also makes the market more competitive and risky. Traders will need good risk management to handle these fast changes.
 

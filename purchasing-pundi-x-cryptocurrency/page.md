@@ -18,7 +18,7 @@ You might want to consider purchasing Pundi X because it could help make cryptoc
 
 You can buy Pundi X cryptocurrency, also known as NPXS, on different websites that let you trade cryptocurrencies. Some popular places to buy NPXS are Binance, KuCoin, and Bittrex. These websites are called cryptocurrency exchanges. To buy NPXS, you first need to create an account on one of these exchanges, then you can trade other cryptocurrencies like Bitcoin or Ethereum for NPXS.
 
-Before you buy NPXS, it's a good idea to do some research. Make sure you understand how the cryptocurrency works and what it's used for. Also, be careful because the value of cryptocurrencies can go up and down a lot. Always use strong passwords and be careful about where you keep your cryptocurrencies to keep them safe.
+Before you buy NPXS, it's a good idea to do some research. Make sure you understand how the [cryptocurrency](/wiki/cryptocurrency) works and what it's used for. Also, be careful because the value of cryptocurrencies can go up and down a lot. Always use strong passwords and be careful about where you keep your cryptocurrencies to keep them safe.
 
 ## How do I set up a wallet to store Pundi X?
 
@@ -46,7 +46,7 @@ Another fee to consider is the network fee, also called the gas fee. This fee is
 
 ## How can I ensure the security of my Pundi X transactions?
 
-To keep your Pundi X transactions safe, start by using a strong password for your exchange and wallet accounts. A strong password is long and mixes letters, numbers, and special characters. Don't use the same password for different places. Also, turn on two-factor authentication (2FA) wherever you can. This means you need to enter a special code from your phone every time you log in or make a transaction. This makes it much harder for someone else to get into your account.
+To keep your Pundi X transactions safe, start by using a strong password for your exchange and wallet accounts. A strong password is long and mixes letters, numbers, and special characters. Don't use the same password for different places. Also, turn on two-[factor](/wiki/factor-investing) authentication (2FA) wherever you can. This means you need to enter a special code from your phone every time you log in or make a transaction. This makes it much harder for someone else to get into your account.
 
 Another important thing is to keep your recovery phrase safe. This is a list of words that can help you get your Pundi X back if you lose access to your wallet. Write it down and keep it in a safe place, like a locked drawer or a safe. Don't take a picture of it or share it with anyone. Also, be careful about where you click and what information you give out online. Scammers might try to trick you into giving them your Pundi X, so always double-check the websites and emails you get.
 

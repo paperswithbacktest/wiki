@@ -68,7 +68,7 @@ For example, if a company usually makes a profit of $1 million but has to pay $5
 
 When a company has an extraordinary item, it can affect how much tax they have to pay. If the extraordinary item is a big loss, like from a natural disaster, it can lower the company's taxable income. This means they might have to pay less tax that year. But if the extraordinary item is a big gain, like winning a lawsuit, it can increase their taxable income, and they might have to pay more tax.
 
-The tax rules can be different depending on the country and the type of extraordinary item. In some places, companies can carry forward losses from extraordinary items to future years to reduce their tax bill later. This helps them manage their taxes better over time. It's important for companies to understand these rules so they can plan their taxes correctly and make the most of any tax benefits they might get from extraordinary items.
+The tax rules can be different depending on the country and the type of extraordinary item. In some places, companies can [carry](/wiki/carry-trading) forward losses from extraordinary items to future years to reduce their tax bill later. This helps them manage their taxes better over time. It's important for companies to understand these rules so they can plan their taxes correctly and make the most of any tax benefits they might get from extraordinary items.
 
 ## How do companies disclose extraordinary items in their financial notes?
 
@@ -128,5 +128,5 @@ By adhering to rigorous standards and providing critical financial information, 
    - Coursera. "Financial Markets" by Robert Shiller, Yale University. This online course offers foundational insights into financial markets, with segments dedicated to financial statements and trading strategies.
    - Khan Academy. "Accounting and Financial Statements". This series of free online modules covers basic to advanced concepts in financial reporting, serving as a useful primer for those interested in the field.
 
-These resources provide a broad spectrum of information and analysis on financial reporting, extraordinary items, and their implications for algorithmic trading, equipping readers with diverse perspectives and tools for further exploration.
+These resources provide a broad spectrum of information and analysis on financial reporting, extraordinary items, and their implications for [algorithmic trading](/wiki/algorithmic-trading), equipping readers with diverse perspectives and tools for further exploration.
 

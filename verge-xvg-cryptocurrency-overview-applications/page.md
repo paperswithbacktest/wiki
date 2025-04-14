@@ -40,7 +40,7 @@ Another way Verge helps keep things private is by not showing the details of eac
 
 ## What are the different algorithms used by Verge for mining?
 
-Verge uses different ways to mine its cryptocurrency, called algorithms. One of these is called Scrypt. Scrypt is a type of algorithm that is used by other cryptocurrencies like Litecoin. It's designed to be easy to use on regular computers, so more people can join in and help secure the network. This makes it more fair for everyone, not just people with special, expensive equipment.
+Verge uses different ways to mine its [cryptocurrency](/wiki/cryptocurrency), called algorithms. One of these is called Scrypt. Scrypt is a type of algorithm that is used by other cryptocurrencies like Litecoin. It's designed to be easy to use on regular computers, so more people can join in and help secure the network. This makes it more fair for everyone, not just people with special, expensive equipment.
 
 Another algorithm Verge uses is called X17. X17 is a bit more complicated because it uses 17 different smaller algorithms all at once. This makes it harder for people to use special machines to mine Verge, which is good because it keeps the network safe and fair. X17 is meant to make sure that more people can mine Verge, not just those with the most powerful computers.
 
@@ -88,11 +88,11 @@ Lastly, getting more people to use Verge can be tough. For Verge to be successfu
 
 ## What is the impact of algo trading on Verge (XVG)?
 
-Algorithmic trading, often referred to as algo trading, involves the use of computer algorithms to automate trading decisions based on pre-set criteria. In the context of Verge (XVG), algo trading can significantly influence its price volatility. Automated systems can execute trades at a speed and frequency that is practically impossible for human traders, and this has profound implications for a cryptocurrency like Verge.
+Algorithmic trading, often referred to as algo trading, involves the use of computer algorithms to automate trading decisions based on pre-set criteria. In the context of Verge (XVG), algo trading can significantly influence its price [volatility](/wiki/volatility-trading-strategies). Automated systems can execute trades at a speed and frequency that is practically impossible for human traders, and this has profound implications for a cryptocurrency like Verge.
 
 ### Influence on Price Volatility
 
-Algorithmic trading can lead to both increased and decreased price volatility in Verge (XVG). On one hand, because algorithms can react instantly to market events, they can cause rapid price changes in response to news or market shifts. This reaction speed can amplify market movements, leading to higher volatility. On the other hand, algorithmic trading can also stabilize prices by improving market liquidity. By filling orders more efficiently and consistently, it can reduce the bid-ask spread, leading to more stable pricing.
+Algorithmic trading can lead to both increased and decreased price volatility in Verge (XVG). On one hand, because algorithms can react instantly to market events, they can cause rapid price changes in response to news or market shifts. This reaction speed can amplify market movements, leading to higher volatility. On the other hand, [algorithmic trading](/wiki/algorithmic-trading) can also stabilize prices by improving market [liquidity](/wiki/liquidity-risk-premium). By filling orders more efficiently and consistently, it can reduce the bid-ask spread, leading to more stable pricing.
 
 Mathematically, if we denote the price at time $t$ as $P_t$, the volatility $\sigma$ can be analyzed through the standard deviation of price changes over a specified time period:
 

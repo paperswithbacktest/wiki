@@ -80,7 +80,7 @@ Another problem is that many people use the same indicators, so when everyone se
 
 Backtesting technical indicators means checking how well they would have worked in the past. You can do this by using old price data to see if the indicator would have given good signals for buying or selling. For example, you might use a computer program to look at what would have happened if you followed the signals from a moving average or RSI over the last few years. This helps you see if the indicator really works or if it just gives false signals a lot.
 
-It's important to backtest carefully because you can trick yourself into thinking an indicator is better than it is. Make sure you use a big enough sample of data and try it out in different market conditions, like when the market is going up and when it's going down. Also, remember that just because an indicator worked in the past doesn't mean it will work in the future. Markets change, and what worked before might not work again. So, backtesting is a good tool, but it's not perfect.
+It's important to backtest carefully because you can trick yourself into thinking an indicator is better than it is. Make sure you use a big enough sample of data and try it out in different market conditions, like when the market is going up and when it's going down. Also, remember that just because an indicator worked in the past doesn't mean it will work in the future. Markets change, and what worked before might not work again. So, [backtesting](/wiki/backtesting) is a good tool, but it's not perfect.
 
 ## What are Technical Indicators and How Can They Be Understood?
 

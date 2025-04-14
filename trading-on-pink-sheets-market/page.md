@@ -56,11 +56,11 @@ One common strategy for trading on the Pink Sheets is to focus on finding underv
 
 Another strategy is to trade based on news and events. Companies on the Pink Sheets can be affected a lot by news, like new products, partnerships, or financial reports. If you keep up with the news and understand how it might affect the company, you can buy stocks when good news comes out and sell them when the price goes up. This can be risky because the news can be hard to predict, but if you're good at spotting trends, it can be a way to make money.
 
-Lastly, some people use a strategy called momentum trading. This means buying stocks that are already going up in price and hoping they will keep going up. You need to watch the stock prices closely and be ready to sell quickly if the price starts to drop. This can be exciting but also very risky because the prices on the Pink Sheets can change a lot in a short time. Always remember to be careful and do your homework before you start trading.
+Lastly, some people use a strategy called [momentum](/wiki/momentum) trading. This means buying stocks that are already going up in price and hoping they will keep going up. You need to watch the stock prices closely and be ready to sell quickly if the price starts to drop. This can be exciting but also very risky because the prices on the Pink Sheets can change a lot in a short time. Always remember to be careful and do your homework before you start trading.
 
 ## How do liquidity and volatility impact trading on the Pink Sheets?
 
-Liquidity and volatility are two big things that can affect trading on the Pink Sheets. Liquidity means how easy it is to buy or sell a stock. On the Pink Sheets, there are often fewer people wanting to buy or sell stocks compared to bigger stock exchanges. This means it can be hard to sell your stocks quickly if you need to. You might have to wait a long time or sell them for less money than you wanted. This can make trading on the Pink Sheets riskier because you might not be able to get your money out when you need it.
+Liquidity and [volatility](/wiki/volatility-trading-strategies) are two big things that can affect trading on the Pink Sheets. Liquidity means how easy it is to buy or sell a stock. On the Pink Sheets, there are often fewer people wanting to buy or sell stocks compared to bigger stock exchanges. This means it can be hard to sell your stocks quickly if you need to. You might have to wait a long time or sell them for less money than you wanted. This can make trading on the Pink Sheets riskier because you might not be able to get your money out when you need it.
 
 Volatility means how much the price of a stock can change in a short time. On the Pink Sheets, the prices can go up and down a lot because there are fewer people trading and less information about the companies. This can be good if you buy a stock and the price goes up quickly, but it can also be bad if the price drops suddenly. Because of this, trading on the Pink Sheets can be exciting but also very risky. You need to be ready for big changes and think carefully about when to buy and sell.
 
@@ -68,7 +68,7 @@ Volatility means how much the price of a stock can change in a short time. On th
 
 Market makers are important in the Pink Sheets market. They are like middlemen who help people buy and sell stocks. When you want to buy a stock, the market maker will sell it to you from their own supply. If you want to sell a stock, they will buy it from you and add it to their supply. This helps make sure there are always stocks available to trade, even if not many people are buying or selling.
 
-Because the Pink Sheets have less trading activity than bigger stock exchanges, market makers are really important. They help keep the market running smoothly by making sure there is always someone to trade with. Without them, it would be much harder to buy and sell stocks on the Pink Sheets. They also help set the prices for the stocks, which can change a lot because of the low liquidity and high volatility in this market.
+Because the Pink Sheets have less trading activity than bigger stock exchanges, market makers are really important. They help keep the market running smoothly by making sure there is always someone to trade with. Without them, it would be much harder to buy and sell stocks on the Pink Sheets. They also help set the prices for the stocks, which can change a lot because of the low [liquidity](/wiki/liquidity-risk-premium) and high volatility in this market.
 
 ## How can advanced traders use technical analysis on Pink Sheets stocks?
 
@@ -80,7 +80,7 @@ However, using technical analysis on Pink Sheets stocks can be tricky because th
 
 When you trade on the Pink Sheets, you need to think about taxes. If you make money from selling stocks, you have to pay capital gains tax. This tax depends on how long you held the stock before selling it. If you held it for less than a year, it's a short-term capital gain, and you pay your regular income tax rate on it. If you held it for more than a year, it's a long-term capital gain, and the tax rate is usually lower. So, knowing how long you've held your stocks can help you figure out how much tax you'll owe.
 
-Also, if you lose money on your Pink Sheets trades, you can use those losses to lower your taxes. This is called a capital loss, and you can use it to reduce your taxable income. You can even carry over losses to future years if they're more than your gains in the current year. But remember, the rules can be different depending on where you live, so it's a good idea to talk to a tax professional to make sure you're doing everything right.
+Also, if you lose money on your Pink Sheets trades, you can use those losses to lower your taxes. This is called a capital loss, and you can use it to reduce your taxable income. You can even [carry](/wiki/carry-trading) over losses to future years if they're more than your gains in the current year. But remember, the rules can be different depending on where you live, so it's a good idea to talk to a tax professional to make sure you're doing everything right.
 
 ## References & Further Reading
 

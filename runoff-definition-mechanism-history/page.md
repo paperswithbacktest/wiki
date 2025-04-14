@@ -28,13 +28,13 @@ The shape of the land also affects runoff. If the land is steep, water moves qui
 
 ## What is the difference between surface runoff and subsurface runoff?
 
-Surface runoff is the water that you can see flowing over the ground when it rains or when snow melts. This happens when the soil is too wet or too hard to soak up all the water. The water stays on top of the ground and moves downhill, picking up dirt and other things along the way. It can cause problems like erosion and pollution in rivers and lakes.
+Surface runoff is the water that you can see flowing over the ground when it rains or when snow melts. This happens when the soil is too wet or too hard to soak up all the water. The water stays on top of the ground and moves downhill, [picking](/wiki/asset-class-picking) up dirt and other things along the way. It can cause problems like erosion and pollution in rivers and lakes.
 
 Subsurface runoff, on the other hand, is the water that flows through the soil and underground. This happens when the soil can soak up some of the water, but it can't hold it all. The extra water moves through the ground until it reaches a place where it can come back up to the surface, like a stream or a spring. Subsurface runoff is harder to see because it's underground, but it still affects how much water ends up in rivers and lakes.
 
 ## How does runoff affect the environment?
 
-Runoff can harm the environment in many ways. When water flows over the ground, it can carry away soil, which causes erosion. This can change the shape of the land and make it hard for plants to grow. Runoff can also pick up harmful things like chemicals from farms or trash from cities. When this water reaches rivers, lakes, or oceans, it can pollute the water and hurt the animals and plants that live there.
+Runoff can harm the environment in many ways. When water flows over the ground, it can [carry](/wiki/carry-trading) away soil, which causes erosion. This can change the shape of the land and make it hard for plants to grow. Runoff can also pick up harmful things like chemicals from farms or trash from cities. When this water reaches rivers, lakes, or oceans, it can pollute the water and hurt the animals and plants that live there.
 
 Managing runoff is important to protect our environment. People build things like drainage systems and rain gardens to control where the water goes. These help to slow down the water and let more of it soak into the ground instead of running off. Planting trees and other plants can also help, because their roots hold the soil in place and soak up water. By doing these things, we can reduce the bad effects of runoff and keep our environment healthy.
 

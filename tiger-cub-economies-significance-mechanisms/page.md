@@ -42,7 +42,7 @@ Another difference is that the Asian Tigers had a head start. They started growi
 
 The key factors driving the growth of Tiger Cub Economies are their focus on making more things and selling more services. These countries, which include Indonesia, Malaysia, the Philippines, Thailand, and Vietnam, are working hard to build better roads, schools, and hospitals. This helps attract more foreign money and create more jobs for their people. They are also trying to make it easier for businesses to start and grow by reducing red tape and offering incentives. By doing these things, they hope to become strong and important in the world economy.
 
-Another important factor is the young population in these countries. Many people in the Tiger Cub Economies are young and ready to work. This means there is a big workforce that can help the economy grow. The governments in these countries are also working to improve education and skills training so that their people can get better jobs. If they keep working hard, these Tiger Cub Economies could catch up to the Asian Tigers and become very important in the world.
+Another important [factor](/wiki/factor-investing) is the young population in these countries. Many people in the Tiger Cub Economies are young and ready to work. This means there is a big workforce that can help the economy grow. The governments in these countries are also working to improve education and skills training so that their people can get better jobs. If they keep working hard, these Tiger Cub Economies could catch up to the Asian Tigers and become very important in the world.
 
 ## What role do government policies play in the development of Tiger Cub Economies?
 

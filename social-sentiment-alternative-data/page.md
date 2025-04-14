@@ -22,7 +22,7 @@ Once the data is collected, it needs to be analyzed to understand what people ar
 
 ## What are the main sources of social/sentiment alternative data?
 
-The main sources of social/sentiment alternative data are social media platforms like Twitter, Facebook, and Instagram. These sites have millions of users who share their thoughts and feelings every day. By looking at what people post, companies can learn a lot about what people like or don't like. For example, if many people are talking about a new movie and saying good things about it, that can tell a company that the movie is popular.
+The main sources of social/sentiment [alternative data](/wiki/best-alternative-data) are social media platforms like Twitter, Facebook, and Instagram. These sites have millions of users who share their thoughts and feelings every day. By looking at what people post, companies can learn a lot about what people like or don't like. For example, if many people are talking about a new movie and saying good things about it, that can tell a company that the movie is popular.
 
 Another big source is news websites and blogs. These places give information about current events and what people are thinking about them. Companies can see how people react to news stories and use that to understand public opinion. Forums and review sites are also important because they let people discuss things in detail and give their honest opinions about products or services. By collecting data from all these places, companies can get a full picture of what people are feeling and thinking.
 
@@ -64,7 +64,7 @@ To mitigate these biases, companies can try to collect data from a wider range o
 
 ## What advanced tools and technologies are used to process and interpret large volumes of social/sentiment data?
 
-Advanced tools like natural language processing (NLP) and machine learning are used to process and understand big amounts of social/sentiment data. NLP helps computers read and understand what people are saying online. It looks for words and phrases that show if a post is happy, sad, or neutral. Machine learning helps by finding patterns in the data. It can learn from past data to get better at understanding new posts and comments. These tools make it easier to handle lots of information quickly and accurately.
+Advanced tools like natural language processing (NLP) and [machine learning](/wiki/machine-learning) are used to process and understand big amounts of social/sentiment data. NLP helps computers read and understand what people are saying online. It looks for words and phrases that show if a post is happy, sad, or neutral. Machine learning helps by finding patterns in the data. It can learn from past data to get better at understanding new posts and comments. These tools make it easier to handle lots of information quickly and accurately.
 
 Another important technology is data scraping software. This software automatically collects data from social media, news sites, and other places on the internet. It searches for specific words or topics and pulls in all the related posts and comments. Once the data is collected, it's stored in big databases where it can be analyzed. These databases are designed to handle large amounts of information and make it easy to find and use the data. Together, these tools help companies and investors understand what people are thinking and feeling in real-time.
 
@@ -76,7 +76,7 @@ Because this data is available right away, it can cause fast changes in the mark
 
 ## What are the future trends and developments expected in the field of social/sentiment alternative data?
 
-In the future, we can expect social/sentiment alternative data to become even more important for businesses and investors. As more people use social media and share their thoughts online, there will be more data to look at. This means companies will need better tools to handle all this information. They will use more advanced technology like artificial intelligence (AI) to understand what people are saying faster and more accurately. AI can learn from the data and get better over time, making it easier to see trends and patterns that might be hard to find otherwise.
+In the future, we can expect social/sentiment alternative data to become even more important for businesses and investors. As more people use social media and share their thoughts online, there will be more data to look at. This means companies will need better tools to handle all this information. They will use more advanced technology like [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) to understand what people are saying faster and more accurately. AI can learn from the data and get better over time, making it easier to see trends and patterns that might be hard to find otherwise.
 
 Another trend we might see is more focus on making sure the data is fair and honest. Companies will work on ways to check if the data they are using is true and not just from bots or fake accounts. They will also try to make sure the data shows what everyone thinks, not just certain groups of people. This will help make better decisions based on what people really feel. As these tools and methods get better, social/sentiment data will become a bigger part of how companies and investors understand the world around them.
 

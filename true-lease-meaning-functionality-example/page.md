@@ -40,7 +40,7 @@ Another benefit is that the payments made during the lease can often be counted 
 
 ## What are the advantages of a true lease for the lessor?
 
-For the lessor, a true lease offers a steady stream of income from the lease payments. This can be a good way for them to make money without having to sell their equipment. They can lease out the same item to different lessees over time, which means they can keep earning money from it for a long time.
+For the lessor, a true lease offers a steady stream of income from the lease payments. This can be a good way for them to make money without having to sell their equipment. They can lease out the same item to different lessees over time, which means they can keep [earning](/wiki/earning-announcement) money from it for a long time.
 
 Another advantage for the lessor is that they keep ownership of the item. At the end of the lease, the item comes back to them, and they can decide what to do with it next. They might lease it out again, sell it, or use it themselves. This gives the lessor a lot of flexibility and control over their assets.
 

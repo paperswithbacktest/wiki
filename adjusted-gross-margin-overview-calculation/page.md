@@ -126,7 +126,7 @@ This result shows that once inventory carrying costs are deducted from the gross
 
 ### Application in Financial Analysis
 
-Adjusted gross margin is particularly helpful in industries where inventory management is critical, such as retail or manufacturing. It enables businesses to evaluate their cost structures more accurately and make informed decisions about pricing, procurement, and inventory management strategies. Furthermore, this metric can be integrated into algorithmic trading models, offering traders insights into a firm's operational efficiency and cost management practices, thereby influencing trading decisions and strategy formulation.
+Adjusted gross margin is particularly helpful in industries where inventory management is critical, such as retail or manufacturing. It enables businesses to evaluate their cost structures more accurately and make informed decisions about pricing, procurement, and inventory management strategies. Furthermore, this metric can be integrated into [algorithmic trading](/wiki/algorithmic-trading) models, offering traders insights into a firm's operational efficiency and cost management practices, thereby influencing trading decisions and strategy formulation.
 
 ## How can key performance metrics be utilized in algorithmic strategies?
 

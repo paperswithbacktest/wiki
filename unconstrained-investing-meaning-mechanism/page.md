@@ -54,7 +54,7 @@ Because there are no limits, an investor might decide to put money into a mix of
 
 ## How does unconstrained investing handle market volatility?
 
-Unconstrained investing can handle market volatility by giving investors the freedom to move their money around quickly. Because they aren't stuck with certain types of investments, they can switch to different assets that might do better when the market is going up and down a lot. This means they can try to avoid big losses by moving their money to safer places or to investments that might go up when others are going down.
+Unconstrained investing can handle market [volatility](/wiki/volatility-trading-strategies) by giving investors the freedom to move their money around quickly. Because they aren't stuck with certain types of investments, they can switch to different assets that might do better when the market is going up and down a lot. This means they can try to avoid big losses by moving their money to safer places or to investments that might go up when others are going down.
 
 However, this approach also means more risk. Without rules to follow, it can be harder to predict how the investments will do during volatile times. Investors need to be ready for big ups and downs and do a lot of research to make smart choices. If they understand the market well, they can use the freedom of unconstrained investing to find good opportunities even when things are uncertain.
 
@@ -66,7 +66,7 @@ This kind of investing can be good because it gives the investor the freedom to 
 
 ## Can you provide examples of successful unconstrained investment strategies?
 
-One example of a successful unconstrained investment strategy is the approach taken by the hedge fund manager, Michael Burry. Before the 2008 financial crisis, Burry saw that many people were getting loans they couldn't pay back. He decided to bet against the housing market by buying credit default swaps, which are like insurance policies on loans. This was an unconventional move because most investors were still buying into the housing market. When the crisis hit, Burry's bet paid off big time, and he made a lot of money for his investors.
+One example of a successful unconstrained investment strategy is the approach taken by the [hedge fund](/wiki/hedge-fund-trading-strategies) manager, Michael Burry. Before the 2008 financial crisis, Burry saw that many people were getting loans they couldn't pay back. He decided to bet against the housing market by buying credit default swaps, which are like insurance policies on loans. This was an unconventional move because most investors were still buying into the housing market. When the crisis hit, Burry's bet paid off big time, and he made a lot of money for his investors.
 
 Another example is the investment strategy of Ray Dalio's Bridgewater Associates. They use a strategy called "risk parity," which means they try to balance the risk across different types of investments. Instead of just focusing on stocks or bonds, they look at everything from commodities to currencies. This approach lets them find opportunities that others might miss. By being flexible and looking at the whole market, Bridgewater has been able to make good returns for their investors, even during tough times.
 

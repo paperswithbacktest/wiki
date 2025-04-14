@@ -80,7 +80,7 @@ One advanced strategy for investing in Z Tranches is to use them as part of a bi
 
 Another strategy is to use Z Tranches to manage taxes. Because the interest on Z Tranches is added to their value over time and not paid out until the end, investors can put off paying taxes on that interest. This can be helpful for people who think they'll be in a lower tax bracket later or want to keep more money now for other investments. But, this strategy needs careful planning because Z Tranches are riskier and need a long wait before they pay off.
 
-Lastly, some investors might use Z Tranches to take advantage of changes in interest rates. If interest rates go down, more people might pay off their mortgages early, which can be bad for Z Tranches. But if rates go up, fewer people will pay off early, and there's a better chance the Z Tranche will get paid. Smart investors might buy Z Tranches when they think rates will go up and hold onto them until rates are high enough to make the Z Tranche a good bet. This strategy needs a good understanding of the mortgage market and interest rate trends.
+Lastly, some investors might use Z Tranches to take advantage of changes in interest rates. If interest rates go down, more people might pay off their mortgages early, which can be bad for Z Tranches. But if rates go up, fewer people will pay off early, and there's a better chance the Z Tranche will get paid. Smart investors might buy Z Tranches when they think rates will go up and hold onto them until rates are high enough to make the Z Tranche a good bet. This strategy needs a good understanding of the mortgage market and [interest rate](/wiki/interest-rate-trading-strategies) trends.
 
 ## What are the benefits and risks of Z Tranche investments?
 
@@ -122,7 +122,7 @@ Investors contemplating Z tranche investments must weigh the associated benefits
 
 ## What are the synergies between Z Tranche and Algorithmic Trading?
 
-Combining the accrual nature of Z tranche investments with the analytical power of algorithmic trading can significantly enhance investment returns. By using automated systems, investors can precisely time their entry and [exit](/wiki/exit-strategy) points in Z tranche investments, optimizing profit potential. Algorithmic trading harnesses vast datasets to anticipate market trends and execute trades more efficiently than a human investor might.
+Combining the accrual nature of Z tranche investments with the analytical power of [algorithmic trading](/wiki/algorithmic-trading) can significantly enhance investment returns. By using automated systems, investors can precisely time their entry and [exit](/wiki/exit-strategy) points in Z tranche investments, optimizing profit potential. Algorithmic trading harnesses vast datasets to anticipate market trends and execute trades more efficiently than a human investor might.
 
 ### Timing and Execution
 

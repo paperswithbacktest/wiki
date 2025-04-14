@@ -18,7 +18,7 @@ To understand compound return better, think of it like a snowball rolling down a
 
 Compound return and simple return are two ways to measure how much your money grows over time, but they work differently. Simple return is easy to understand. It's when you earn interest only on the money you originally put in, not on any interest you've earned before. So, if you put $100 in a savings account that gives you 10% interest each year, with a simple return, you'll get $10 every year, no matter how long you keep the money in the account.
 
-Compound return, on the other hand, is like a snowball effect. You earn interest not just on your original money, but also on the interest that gets added to your account. Using the same example, if you start with $100 and get 10% interest each year, after the first year, you'll have $110. The next year, you'll earn 10% on $110, so you'll get $11 more, making your total $121. This keeps happening, and your money grows faster than with simple return because you're earning interest on a bigger and bigger amount every year.
+Compound return, on the other hand, is like a snowball effect. You earn interest not just on your original money, but also on the interest that gets added to your account. Using the same example, if you start with $100 and get 10% interest each year, after the first year, you'll have $110. The next year, you'll earn 10% on $110, so you'll get $11 more, making your total $121. This keeps happening, and your money grows faster than with simple return because you're [earning](/wiki/earning-announcement) interest on a bigger and bigger amount every year.
 
 ## Why is compound return important in investing?
 
@@ -28,7 +28,7 @@ This is why starting to invest early can be a big advantage. The longer your mon
 
 ## What is the formula for calculating compound return?
 
-The formula for calculating compound return is A = P(1 + r/n)^(nt). In this formula, A is the amount of money you end up with after compounding, P is the amount of money you start with, r is the yearly interest rate (as a decimal), n is the number of times the interest is compounded each year, and t is the number of years you keep the money invested.
+The formula for calculating compound return is A = P(1 + r/n)^(nt). In this formula, A is the amount of money you end up with after compounding, P is the amount of money you start with, r is the yearly [interest rate](/wiki/interest-rate-trading-strategies) (as a decimal), n is the number of times the interest is compounded each year, and t is the number of years you keep the money invested.
 
 To use this formula, let's say you start with $1000, the interest rate is 5% per year, and it's compounded monthly (which means 12 times a year). If you keep your money in for 10 years, you would plug in these numbers: P = 1000, r = 0.05, n = 12, and t = 10. The calculation would be A = 1000(1 + 0.05/12)^(12*10). This would give you the total amount after 10 years of compounding.
 

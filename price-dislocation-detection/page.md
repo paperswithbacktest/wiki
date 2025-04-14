@@ -54,7 +54,7 @@ Long-term price dislocations take more time to fix and can last for months or ev
 
 ## How do arbitrage opportunities relate to price dislocation?
 
-Arbitrage opportunities are closely linked to price dislocation. When a price dislocation happens, it means that the price of an asset is different from what it should be. This difference creates a chance for arbitrage. Arbitrage is when someone buys an asset where it's cheap and sells it where it's more expensive, making a profit from the price difference. For example, if a stock is priced lower on one exchange than another, an arbitrageur can buy it on the cheaper exchange and sell it on the more expensive one, making money from the price dislocation.
+Arbitrage opportunities are closely linked to price dislocation. When a price dislocation happens, it means that the price of an asset is different from what it should be. This difference creates a chance for [arbitrage](/wiki/arbitrage). Arbitrage is when someone buys an asset where it's cheap and sells it where it's more expensive, making a profit from the price difference. For example, if a stock is priced lower on one exchange than another, an arbitrageur can buy it on the cheaper exchange and sell it on the more expensive one, making money from the price dislocation.
 
 These opportunities can be short-lived because once people start doing arbitrage, the prices usually start to even out. But if the price dislocation is big enough, there can be a lot of money to be made before the prices go back to normal. Arbitrageurs need to be quick and smart to spot these chances and act on them before they disappear. So, price dislocations are important because they create the conditions for arbitrage, which can lead to profits for those who can find and use them.
 
@@ -66,7 +66,7 @@ Another method is using something called the Kalman filter. This tool is good at
 
 ## How does machine learning enhance the detection of price dislocations?
 
-Machine learning helps find price dislocations by looking at a lot of data very quickly. It can see patterns and changes in prices that are hard for people to spot. For example, machine learning can use past data to predict when a stock's price might be too high or too low. It does this by learning from lots of examples and figuring out what signs to look for. This way, it can help investors find good deals faster and with less work.
+Machine learning helps find price dislocations by looking at a lot of data very quickly. It can see patterns and changes in prices that are hard for people to spot. For example, [machine learning](/wiki/machine-learning) can use past data to predict when a stock's price might be too high or too low. It does this by learning from lots of examples and figuring out what signs to look for. This way, it can help investors find good deals faster and with less work.
 
 Also, machine learning can keep learning and getting better over time. As it sees more data, it can adjust its predictions to be more accurate. This is really helpful because markets change a lot, and what worked before might not work now. By using machine learning, investors can stay ahead of the game and spot price dislocations before others do. This can lead to better decisions and more profits.
 
@@ -80,7 +80,7 @@ Another risk is that you might be wrong about the true value of the stock. Just 
 
 Price dislocation detection can be a big part of a smart trading plan. First, you need to use tools like stock screeners and financial analysis platforms to find stocks that look too cheap or too expensive. When you see a price dislocation, you can decide to buy the stock if it's too cheap, hoping to sell it later when the price goes back to normal. Or, if the stock is too expensive, you might decide to sell it or even short sell it, betting that the price will go down. By adding price dislocation detection to your trading plan, you can find good deals that other people might miss.
 
-But, it's important to mix price dislocation detection with other ways of picking stocks. You should also look at a company's earnings, how it's growing, and what's happening in its industry. This helps make sure you're not just guessing about the stock's true value. Also, think about how long you can wait for the price to fix itself. If you need to sell quickly, price dislocations might not be the best choice. By using price dislocation detection along with other methods, you can make a strong trading plan that helps you make smart choices and manage risks better.
+But, it's important to mix price dislocation detection with other ways of [picking](/wiki/asset-class-picking) stocks. You should also look at a company's earnings, how it's growing, and what's happening in its industry. This helps make sure you're not just guessing about the stock's true value. Also, think about how long you can wait for the price to fix itself. If you need to sell quickly, price dislocations might not be the best choice. By using price dislocation detection along with other methods, you can make a strong trading plan that helps you make smart choices and manage risks better.
 
 ## What are the techniques for detecting price dislocation?
 

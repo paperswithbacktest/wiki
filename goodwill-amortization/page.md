@@ -48,7 +48,7 @@ The new rules in the U.S. and the rules used around the world, called IFRS, say 
 
 Goodwill amortization and impairment are two different ways companies handle the value of goodwill on their financial statements. Amortization means spreading out the cost of an intangible asset, like goodwill, over a period of time. It used to be common for companies to do this with goodwill, dividing the total cost by the number of years they expected to benefit from it. However, under current U.S. and international accounting rules, companies no longer have to amortize goodwill. Instead, they need to test it regularly to see if its value has changed.
 
-Impairment is what happens when the value of goodwill goes down. Companies have to check the value of their goodwill at least once a year, or more often if something happens that might make the goodwill worth less. If they find that the goodwill is now worth less than what's on their books, they have to show this loss on their financial statements. This is called recording an impairment loss. So, while amortization spreads out the cost over time, impairment deals with sudden or discovered drops in the value of goodwill.
+Impairment is what happens when the value of goodwill goes down. Companies have to check the value of their goodwill at least once a year, or more often if something happens that might make the goodwill worth less. If they find that the goodwill is now worth less than what's on their [books](/wiki/algo-trading-books), they have to show this loss on their financial statements. This is called recording an impairment loss. So, while amortization spreads out the cost over time, impairment deals with sudden or discovered drops in the value of goodwill.
 
 ## How does goodwill amortization affect a company's financial statements?
 
@@ -114,5 +114,5 @@ In this context, goodwill acts as a crucial indicator within financial analysis 
 
 6. **"The Impact of Amortization and Impairment of Goodwill on Financial Reporting: Evidence from European Firms" by Agustina Barriel and Rosario Acasuso**: This scholarly article investigates the effect of different accounting treatments of goodwill on financial reporting quality among European companies, providing empirical analysis and insights.
 
-These references collectively offer foundational guidance and advanced strategies necessary for professionals navigating the multifaceted interactions between goodwill accounting and algorithmic trading.
+These references collectively offer foundational guidance and advanced strategies necessary for professionals navigating the multifaceted interactions between goodwill accounting and [algorithmic trading](/wiki/algorithmic-trading).
 

@@ -42,7 +42,7 @@ To use the installment method, you need to figure out the gross profit percentag
 
 ## How do you record an installment sale in the accounting books?
 
-When you make an installment sale, you need to record it in your accounting books carefully. First, you write down the total sale price as a receivable on your balance sheet. This shows that the buyer owes you money. At the same time, you record the cost of the item you sold as a reduction in your inventory or asset account, because you no longer own it. The difference between the sale price and the cost is your profit, but you don't record all of that profit as income right away.
+When you make an installment sale, you need to record it in your accounting [books](/wiki/algo-trading-books) carefully. First, you write down the total sale price as a receivable on your balance sheet. This shows that the buyer owes you money. At the same time, you record the cost of the item you sold as a reduction in your inventory or asset account, because you no longer own it. The difference between the sale price and the cost is your profit, but you don't record all of that profit as income right away.
 
 Instead, you record the profit as you get payments from the buyer. Each time you receive a payment, you record that amount as cash coming in. Then, you figure out how much of that payment is profit by using the gross profit percentage. You record that part of the payment as income on your income statement, and the rest as a reduction in the receivable on your balance sheet. This way, you spread out the profit and the tax on it over time, as you actually get the money from the buyer.
 
@@ -100,7 +100,7 @@ In conclusion, installment sales serve as a strategic accounting method for reve
 
 ## What is the interconnection between installment sale accounting and algo trading?
 
-Installment sale accounting and algorithmic trading intersect in several key areas, particularly in the necessity for precise financial record-keeping and the evaluation of trading strategies' performance and profitability. Installment sale accounting principles, primarily concerned with the timing of revenue recognition and cash flow management, can offer valuable insights into the mechanics of algorithmic trading.
+Installment sale accounting and [algorithmic trading](/wiki/algorithmic-trading) intersect in several key areas, particularly in the necessity for precise financial record-keeping and the evaluation of trading strategies' performance and profitability. Installment sale accounting principles, primarily concerned with the timing of revenue recognition and cash flow management, can offer valuable insights into the mechanics of algorithmic trading.
 
 In the domain of algorithmic trading, accuracy in financial records is paramount. Trading algorithms rely on timely and precise data to execute trades with efficiency and minimal error. Poor record-keeping can lead to flawed algorithms due to the reliance on inaccurate historical data, resulting in suboptimal trading strategies.
 

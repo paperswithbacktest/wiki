@@ -18,7 +18,7 @@ For example, if a company's stock is trading at $100 per share and they do a 2-f
 
 Companies decide to perform a stock split mainly to make their stock more affordable to smaller investors. When a stock's price gets very high, it can seem too expensive for some people to buy, even if they believe in the company. By splitting the stock, the price per share goes down, making it easier for more people to buy it. This can increase the demand for the stock and make it more attractive to a wider audience.
 
-Another reason for a stock split is to increase the liquidity of the stock. Liquidity means how easily shares can be bought and sold without affecting the stock's price too much. When more people can afford to buy the stock, more shares are traded, which can make the market for the stock more active. This can be good for the company because it shows that there is strong interest in their stock. Overall, stock splits are a way for companies to keep their stock attractive and accessible to investors.
+Another reason for a stock split is to increase the [liquidity](/wiki/liquidity-risk-premium) of the stock. Liquidity means how easily shares can be bought and sold without affecting the stock's price too much. When more people can afford to buy the stock, more shares are traded, which can make the market for the stock more active. This can be good for the company because it shows that there is strong interest in their stock. Overall, stock splits are a way for companies to keep their stock attractive and accessible to investors.
 
 ## How does a stock split affect the price of a stock?
 
@@ -82,7 +82,7 @@ Sometimes, a stock split can affect how you handle your taxes later on. If the s
 
 ## What are Reverse Stock Splits?
 
-Reverse stock splits involve a reduction in the number of a company's outstanding shares while proportionally increasing the price per share. For instance, in a 1-for-10 reverse stock split, ten existing shares are consolidated into one, elevating the share price by a factor of ten. This corporate maneuver does not alter the company's overall market capitalization. The formula for the new share price following a reverse stock split can be represented as:
+Reverse stock splits involve a reduction in the number of a company's outstanding shares while proportionally increasing the price per share. For instance, in a 1-for-10 reverse stock split, ten existing shares are consolidated into one, elevating the share price by a [factor](/wiki/factor-investing) of ten. This corporate maneuver does not alter the company's overall market capitalization. The formula for the new share price following a reverse stock split can be represented as:
 
 $$
 \text{New Share Price} = \text{Old Share Price} \times \frac{\text{Old Number of Shares}}{\text{New Number of Shares}}

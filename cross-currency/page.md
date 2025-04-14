@@ -30,7 +30,7 @@ Another example is GBP/JPY, which is the British pound against the Japanese yen.
 
 Traders might be interested in cross currency trading because it lets them trade directly between two currencies without going through the U.S. dollar. This can save money because they don't have to pay for two separate trades. For example, if someone wants to change euros to Japanese yen, they can do it directly instead of changing euros to U.S. dollars first and then U.S. dollars to Japanese yen. This can also help reduce the risk of the U.S. dollar's value changing and affecting their trade.
 
-Cross currency trading can also be good for traders who want to take advantage of different interest rates between countries. For example, if the interest rates in Japan are low and the interest rates in the UK are high, traders might want to borrow Japanese yen and invest in British pounds. This is called a carry trade, and it can be easier to do with cross currency pairs. However, trading cross currencies can be harder because they often have less money moving in and out of them, which can make the price difference between buying and selling larger.
+Cross currency trading can also be good for traders who want to take advantage of different interest rates between countries. For example, if the interest rates in Japan are low and the interest rates in the UK are high, traders might want to borrow Japanese yen and invest in British pounds. This is called a [carry](/wiki/carry-trading) trade, and it can be easier to do with cross currency pairs. However, trading cross currencies can be harder because they often have less money moving in and out of them, which can make the price difference between buying and selling larger.
 
 ## How can one calculate the exchange rate for a cross currency pair?
 
@@ -60,7 +60,7 @@ Another strategy is to use technical analysis. This means looking at charts and 
 
 Interest rate differentials are really important in cross currency trading. They can affect how much money you can make from trading one currency for another. If one country has higher interest rates than another, traders might want to borrow money from the country with low rates and buy money from the country with high rates. This is called a carry trade. For example, if Japan has low interest rates and Australia has high rates, traders might borrow Japanese yen and buy Australian dollars. If the Australian dollar stays strong or gets stronger, traders can make money from the difference in interest rates.
 
-But, interest rate differentials can also make cross currency trading riskier. If the interest rates in one country change suddenly, it can change the value of the currency. For example, if Australia's interest rates go down, the Australian dollar might get weaker. This can make the carry trade less profitable or even cause traders to lose money. So, traders need to keep an eye on what's happening with interest rates in the countries they're trading. By understanding how interest rates can affect currency values, traders can make better decisions and manage their risks better.
+But, [interest rate](/wiki/interest-rate-trading-strategies) differentials can also make cross currency trading riskier. If the interest rates in one country change suddenly, it can change the value of the currency. For example, if Australia's interest rates go down, the Australian dollar might get weaker. This can make the carry trade less profitable or even cause traders to lose money. So, traders need to keep an eye on what's happening with interest rates in the countries they're trading. By understanding how interest rates can affect currency values, traders can make better decisions and manage their risks better.
 
 ## What role do carry trades play in cross currency markets?
 
@@ -84,7 +84,7 @@ Also, some countries have rules about how much information traders have to share
 
 Cross currency pairs enable traders to directly exchange currencies without involving the U.S. dollar, thereby simplifying and expediting transactions between non-USD currency pairs. Historically, such exchanges necessitated an initial conversion into the U.S. dollar, a process that was both time-consuming and potentially costly due to exchange rate fluctuations. However, cross currency pairs like EUR/GBP (Euro/British Pound) have streamlined this process, enabling more efficient and direct trade.
 
-The introduction of cross currency pairs has provided traders with increased opportunities for both trading and hedging. By allowing for the direct conversion between non-USD currencies, cross pairs help traders manage currency exposure and diversify their trading strategies. This flexibility can be particularly beneficial in times of U.S. dollar volatility, where reliance on USD transactions could introduce additional risk.
+The introduction of cross currency pairs has provided traders with increased opportunities for both trading and hedging. By allowing for the direct conversion between non-USD currencies, cross pairs help traders manage currency exposure and diversify their trading strategies. This flexibility can be particularly beneficial in times of U.S. dollar [volatility](/wiki/volatility-trading-strategies), where reliance on USD transactions could introduce additional risk.
 
 Computing cross rates is fundamental to understanding cross currency pairs. A cross rate represents the exchange rate between two currencies not directly quoted against one another, instead derived through their individual rates against a third currency, often the U.S. dollar. To compute a cross rate, traders generally use the following formula:
 
@@ -102,7 +102,7 @@ This computation illustrates that one Euro is equivalent to 0.923 British Pounds
 
 The significance of cross rates extends beyond mere currency conversion; they also serve as vital tools for identifying discrepancies in currency valuation across different markets. Traders often exploit these discrepancies to engage in [arbitrage](/wiki/arbitrage), a strategy where they simultaneously buy low in one market and sell high in another, thereby profiting from temporary imbalances.
 
-In conclusion, cross currency pairs have transformed forex trading by enhancing the efficiency of transactions between non-USD currencies and opening up new hedging and trading strategies. Understanding their computation and significance is a key skill for any forex trader seeking to maximize opportunities in the global currency market.
+In conclusion, cross currency pairs have transformed [forex](/wiki/forex-system) trading by enhancing the efficiency of transactions between non-USD currencies and opening up new hedging and trading strategies. Understanding their computation and significance is a key skill for any forex trader seeking to maximize opportunities in the global currency market.
 
 ## References & Further Reading
 

@@ -28,7 +28,7 @@ Understanding support levels can also help traders manage risk. If a trader buys
 
 ## Can support levels be used in any financial market?
 
-Yes, support levels can be used in any financial market, like stocks, forex, commodities, and cryptocurrencies. They work the same way in all these markets. When the price of something drops to a support level, it often bounces back up. This happens because many people think it's a good time to buy when the price is low, and their buying pushes the price up again.
+Yes, support levels can be used in any financial market, like stocks, [forex](/wiki/forex-system), commodities, and cryptocurrencies. They work the same way in all these markets. When the price of something drops to a support level, it often bounces back up. This happens because many people think it's a good time to buy when the price is low, and their buying pushes the price up again.
 
 Traders in different markets look at support levels to decide when to buy or sell. For example, if a stock price hits a support level, a trader might buy it, hoping the price will go up. In the forex market, if a currency pair reaches a support level, traders might buy that currency, expecting its value to rise. Support levels help traders in any market to make smarter decisions and manage their risks better.
 
@@ -64,7 +64,7 @@ These shared feelings and beliefs are what make support levels strong. If lots o
 
 ## How do volume and price action confirm a support level?
 
-Volume and price action can help show if a support level is strong. When the price of a stock or something else gets close to a support level, you can look at how many people are buying and selling. If a lot of people are buying at that price, it means the support level might be strong. High volume at a support level means more people think it's a good time to buy, which can stop the price from falling more and might even push it up.
+Volume and price action can help show if a support level is strong. When the price of a stock or something else gets close to a support level, you can look at how many people are buying and selling. If a lot of people are buying at that price, it means the support level might be strong. High [volume](/wiki/volume-trading-strategy) at a support level means more people think it's a good time to buy, which can stop the price from falling more and might even push it up.
 
 Price action also helps confirm a support level. When the price touches the support level and then goes up again, it shows that the support level is working. If this happens a few times, it makes the support level even stronger. Traders watch these patterns to decide if it's a good time to buy, hoping the price will go up from the support level. So, by looking at volume and how the price moves, traders can feel more sure about where the support levels are.
 

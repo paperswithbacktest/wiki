@@ -19,11 +19,11 @@ Eager Execution and Graph Execution are two different ways to run machine learni
 
 On the other hand, Graph Execution works differently. Instead of running operations right away, Graph Execution builds a complete graph of all the operations first. Then, it runs the entire graph at once. This can be faster and more efficient, especially for big models, because the system can optimize the whole process before running it. Imagine planning a whole recipe before cooking; you list all the steps and ingredients first, then do everything in one go.
 
-Both methods have their uses. Eager Execution is great for learning and debugging because you can see what's happening step by step. Graph Execution is better for performance, especially when you're ready to run your model on a large scale. In some machine learning frameworks like TensorFlow, you can switch between these modes to get the best of both worlds.
+Both methods have their uses. Eager Execution is great for learning and debugging because you can see what's happening step by step. Graph Execution is better for performance, especially when you're ready to run your model on a large scale. In some [machine learning](/wiki/machine-learning) frameworks like TensorFlow, you can switch between these modes to get the best of both worlds.
 
 ## What are the main advantages of using Eager Execution for beginners?
 
-Eager Execution is really helpful for beginners because it lets you see what's happening in your code right away. When you write a line of code, it runs immediately, and you can check the results instantly. This makes it easier to understand how things work. For example, if you're trying to learn how a neural network processes data, you can see the value of variables at each step. This immediate feedback helps you catch mistakes early and learn faster.
+Eager Execution is really helpful for beginners because it lets you see what's happening in your code right away. When you write a line of code, it runs immediately, and you can check the results instantly. This makes it easier to understand how things work. For example, if you're trying to learn how a [neural network](/wiki/neural-network) processes data, you can see the value of variables at each step. This immediate feedback helps you catch mistakes early and learn faster.
 
 Another big advantage is that Eager Execution feels more like writing regular code. You don't need to build a whole graph before running anything. It's like doing math on a piece of paper, where you can see each calculation as you go. This makes it less confusing for beginners who are just starting to learn about machine learning. With Eager Execution, you can focus on understanding the concepts without getting lost in the complexity of graph building.
 

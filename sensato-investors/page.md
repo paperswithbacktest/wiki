@@ -38,11 +38,11 @@ Sensato Investors typically invests in stocks of companies that are good for the
 
 They also invest in bonds, which are like loans to companies or governments. Sensato Investors picks bonds from organizations that are doing good things for the world, like building affordable housing or improving public health. This way, they can help their clients make money while also supporting projects that make a positive impact.
 
-Sometimes, Sensato Investors also puts money into special funds that focus on solving big problems like poverty or climate change. These funds might invest in projects that help people get clean water, better healthcare, or education. By investing in these funds, Sensato Investors aims to make a difference in the world while also earning a return for their clients.
+Sometimes, Sensato Investors also puts money into special funds that focus on solving big problems like poverty or climate change. These funds might invest in projects that help people get clean water, better healthcare, or education. By investing in these funds, Sensato Investors aims to make a difference in the world while also [earning](/wiki/earning-announcement) a return for their clients.
 
 ## What are the performance metrics of Sensato Investors' funds?
 
-Sensato Investors' funds have been doing well. They look at how much money their funds make and how much they help the environment and society. Over the last few years, their funds have grown by about 8-10% each year. This is a good return and shows that they are picking good investments.
+Sensato Investors' funds have been doing well. They look at how much money their funds make and how much they help the environment and society. Over the last few years, their funds have grown by about 8-10% each year. This is a good return and shows that they are [picking](/wiki/asset-class-picking) good investments.
 
 They also keep track of how much their investments help the world. For example, their funds have helped reduce carbon emissions by about 50,000 tons each year. They also support companies that create jobs and help communities. This shows that Sensato Investors is doing a good job at making money and making a positive impact.
 
@@ -66,7 +66,7 @@ After that, Sensato Investors looks at any risks that might affect the investmen
 
 ## How does Sensato Investors integrate ESG (Environmental, Social, and Governance) factors into its investment decisions?
 
-Sensato Investors uses ESG factors to pick its investments. ESG stands for Environmental, Social, and Governance. They look at how a company treats the environment, like if it uses less energy or makes less waste. They also check if the company is good to its workers and the community, like if it pays fair wages and helps local areas. Lastly, they see if the company is run well, with honest leaders and good rules. By looking at these things, Sensato Investors makes sure the companies they invest in are not only making money but also helping the world.
+Sensato Investors uses [ESG](/wiki/esg-investing) factors to pick its investments. ESG stands for Environmental, Social, and Governance. They look at how a company treats the environment, like if it uses less energy or makes less waste. They also check if the company is good to its workers and the community, like if it pays fair wages and helps local areas. Lastly, they see if the company is run well, with honest leaders and good rules. By looking at these things, Sensato Investors makes sure the companies they invest in are not only making money but also helping the world.
 
 When Sensato Investors is deciding where to put money, they always think about ESG. They talk to the company's leaders to learn about their plans for the environment and society. They also read reports and look at data to see if the company is really doing what it says. If a company is doing well in ESG, Sensato Investors is more likely to invest in it. This way, they can help their clients make money while also making the world a better place.
 

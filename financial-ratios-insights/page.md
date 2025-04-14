@@ -36,7 +36,7 @@ You calculate ROE by dividing the company's net income by its shareholders' equi
 
 The price-to-earnings (P/E) ratio tells investors how much they are paying for a company's earnings. It is calculated by dividing the current stock price by the company's earnings per share (EPS). For example, if a company's stock is trading at $50 and its EPS is $5, the P/E ratio would be 10. This means investors are willing to pay $10 for every $1 of the company's earnings. The P/E ratio helps investors see if a stock is a good value compared to other stocks or to the same company's past P/E ratios.
 
-Investors use the P/E ratio to help decide if a stock is overpriced or underpriced. A high P/E ratio might mean that investors expect the company to grow a lot in the future, so they are willing to pay more for its earnings. But it could also mean the stock is too expensive compared to what the company is actually earning. On the other hand, a low P/E ratio might show that a stock is undervalued, which could be a good buying opportunity. But it could also mean that the company is not expected to grow much. By comparing the P/E ratios of different companies in the same industry, investors can get a better idea of which stocks might be a good investment.
+Investors use the P/E ratio to help decide if a stock is overpriced or underpriced. A high P/E ratio might mean that investors expect the company to grow a lot in the future, so they are willing to pay more for its earnings. But it could also mean the stock is too expensive compared to what the company is actually [earning](/wiki/earning-announcement). On the other hand, a low P/E ratio might show that a stock is undervalued, which could be a good buying opportunity. But it could also mean that the company is not expected to grow much. By comparing the P/E ratios of different companies in the same industry, investors can get a better idea of which stocks might be a good investment.
 
 ## How does the gross profit margin reflect a company's financial performance?
 
@@ -120,7 +120,7 @@ In conclusion, advanced investment analysis techniques empower investors to deta
 
 ## How can we analyze the performance of algorithmic trading?
 
-Evaluating the success of algorithmic trading strategies involves the meticulous consideration of performance metrics, each playing a critical role in understanding the strategy's effectiveness and risk profile. The Sharpe Ratio is a widely-used measure, defined as the average return earned in excess of the risk-free rate per unit of volatility or total risk. It is mathematically expressed as:
+Evaluating the success of [algorithmic trading](/wiki/algorithmic-trading) strategies involves the meticulous consideration of performance metrics, each playing a critical role in understanding the strategy's effectiveness and risk profile. The Sharpe Ratio is a widely-used measure, defined as the average return earned in excess of the risk-free rate per unit of [volatility](/wiki/volatility-trading-strategies) or total risk. It is mathematically expressed as:
 
 $$
 \text{Sharpe Ratio} = \frac{E[R] - R_f}{\sigma_R}

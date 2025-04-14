@@ -26,7 +26,7 @@ John B. Taylor is best known for creating the Taylor Rule. This is a guideline t
 
 Another big contribution from Taylor is his work on how governments should handle money. He believes that having clear rules for how to manage the economy is better than making decisions without a plan. Taylor thinks that if governments follow set rules, it can help prevent big economic problems like high inflation or big recessions. His ideas have influenced many countries to think about making their economic policies more predictable and reliable.
 
-Taylor has also written many books and articles that share his ideas with other economists and the public. Some of his famous books include "Getting Off Track" and "First Principles." These books explain his views on how to manage the economy in a way that everyone can understand. His work has helped shape how people think about economic policy and how to keep the economy running smoothly.
+Taylor has also written many [books](/wiki/algo-trading-books) and articles that share his ideas with other economists and the public. Some of his famous books include "Getting Off Track" and "First Principles." These books explain his views on how to manage the economy in a way that everyone can understand. His work has helped shape how people think about economic policy and how to keep the economy running smoothly.
 
 ## What is the Taylor Rule and how does it work?
 
@@ -98,7 +98,7 @@ By following this policy rule, central banks aim to maintain economic equilibriu
 
 ## What are the components of the Taylor Rule?
 
-The Taylor Rule is a widely recognized formula in macroeconomics utilized by central banks to guide their interest rate decisions. This rule incorporates several critical components that together inform the appropriate setting for the nominal interest rate. The basic formulation of the Taylor Rule can be expressed as follows:
+The Taylor Rule is a widely recognized formula in macroeconomics utilized by central banks to guide their [interest rate](/wiki/interest-rate-trading-strategies) decisions. This rule incorporates several critical components that together inform the appropriate setting for the nominal interest rate. The basic formulation of the Taylor Rule can be expressed as follows:
 
 $$
 i_t = r^* + \pi_t + 0.5(\pi_t - \pi^*) + 0.5(y_t - y^*)

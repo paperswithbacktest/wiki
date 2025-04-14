@@ -18,13 +18,13 @@ The exchange offers a lot of different cryptocurrencies, which means users have 
 
 To sign up for a Bittrex account, go to their website and click on the "Sign Up" button. You'll need to enter your email address and create a strong password. Make sure your password is something only you know and is hard for others to guess. After you enter your email and password, you'll need to agree to Bittrex's terms of service. Once you do that, Bittrex will send you an email to confirm your email address. Click on the link in the email to finish the sign-up process.
 
-After you confirm your email, you'll need to complete some extra steps to make sure your account is secure. Bittrex will ask you to set up two-factor authentication (2FA), which adds another layer of security to your account. You can use an app like Google Authenticator or Authy for this. Once 2FA is set up, you'll need to verify your identity by uploading a photo of your ID and a selfie. This is to make sure you are who you say you are. After all these steps are done, your Bittrex account will be ready to use, and you can start trading cryptocurrencies.
+After you confirm your email, you'll need to complete some extra steps to make sure your account is secure. Bittrex will ask you to set up two-[factor](/wiki/factor-investing) authentication (2FA), which adds another layer of security to your account. You can use an app like Google Authenticator or Authy for this. Once 2FA is set up, you'll need to verify your identity by uploading a photo of your ID and a selfie. This is to make sure you are who you say you are. After all these steps are done, your Bittrex account will be ready to use, and you can start trading cryptocurrencies.
 
 ## What are the fees associated with using Bittrex?
 
 When you use Bittrex, you have to pay fees for trading and for taking money out of your account. The trading fee is different depending on if you are a maker or a taker. A maker adds a new order to the market, and they pay a fee of 0.35%. A taker takes an order that is already there, and they pay a fee of 0.35% too. But, if you trade a lot, you can get a discount on these fees. The more you trade, the less you pay.
 
-For taking money out of your account, the fees change depending on what kind of cryptocurrency you are taking out. Each type of cryptocurrency has its own fee. For example, taking out Bitcoin costs 0.0005 BTC, and taking out Ethereum costs 0.006 ETH. There are no fees for putting money into your account, which is good. It's important to check the fees for the specific cryptocurrency you are using because they can be different.
+For taking money out of your account, the fees change depending on what kind of [cryptocurrency](/wiki/cryptocurrency) you are taking out. Each type of cryptocurrency has its own fee. For example, taking out Bitcoin costs 0.0005 BTC, and taking out Ethereum costs 0.006 ETH. There are no fees for putting money into your account, which is good. It's important to check the fees for the specific cryptocurrency you are using because they can be different.
 
 ## How do I deposit and withdraw funds on Bittrex?
 
@@ -82,7 +82,7 @@ Another way to improve your trading is by using Bittrex's API. The API lets you 
 
 ## What are the fees and costs?
 
-Bittrex operates with a maker/taker fee model, which is prevalent among cryptocurrency exchanges. This structure ensures that both market makers (who provide liquidity) and market takers (who consume liquidity) are charged fees, albeit at different rates. For Bittrex, the standard fee starts at 0.35% for both makers and takers. However, traders benefit from discounted rates as their trading [volume](/wiki/volume-trading-strategy) increases over a 30-day period.
+Bittrex operates with a maker/taker fee model, which is prevalent among cryptocurrency exchanges. This structure ensures that both market makers (who provide [liquidity](/wiki/liquidity-risk-premium)) and market takers (who consume liquidity) are charged fees, albeit at different rates. For Bittrex, the standard fee starts at 0.35% for both makers and takers. However, traders benefit from discounted rates as their trading [volume](/wiki/volume-trading-strategy) increases over a 30-day period.
 
 This model not only incentivizes higher trading volumes but also provides traders with a clear and straightforward understanding of their transaction costs. By maintaining a transparent fee calculation method, Bittrex enables traders to more effectively manage their investment strategies and forecast expenses associated with frequent trading.
 

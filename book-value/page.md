@@ -42,7 +42,7 @@ A negative book value is a big warning sign for investors. It shows that the com
 
 ## How does depreciation affect the book value of assets?
 
-Depreciation is how businesses account for the wear and tear on their assets over time. When a company buys something like a machine or a building, it doesn't stay new forever. It gets old and less valuable. So, every year, the company lowers the value of these assets on their books. This lowering of value is called depreciation. When you depreciate an asset, you subtract the amount of depreciation from the asset's original cost. This makes the total value of the company's assets go down.
+Depreciation is how businesses account for the wear and tear on their assets over time. When a company buys something like a machine or a building, it doesn't stay new forever. It gets old and less valuable. So, every year, the company lowers the value of these assets on their [books](/wiki/algo-trading-books). This lowering of value is called depreciation. When you depreciate an asset, you subtract the amount of depreciation from the asset's original cost. This makes the total value of the company's assets go down.
 
 Because book value is calculated by taking the total value of all assets and subtracting the total value of all liabilities, depreciation directly affects the book value. As the value of the assets goes down due to depreciation, the book value of the company also goes down. This means that over time, if a company is depreciating its assets, the book value will be lower than it would have been without depreciation. This is important for investors to know because it can affect how they see the worth of the company.
 
@@ -112,7 +112,7 @@ In conclusion, book value serves as a valuable tool in financial analysis, provi
 
 ## What are the strategies for integrating book value in algorithmic trading?
 
-Integrating book value into algorithmic trading strategies involves leveraging this fundamental financial metric to enhance investment decision-making processes. Traders can exploit book value by constructing algorithmic rules designed to systematically identify undervalued assets. The integration of book value into trading algorithms allows investors to focus on intrinsic asset worth while employing automated systems for precise trade execution.
+Integrating book value into [algorithmic trading](/wiki/algorithmic-trading) strategies involves leveraging this fundamental financial metric to enhance investment decision-making processes. Traders can exploit book value by constructing algorithmic rules designed to systematically identify undervalued assets. The integration of book value into trading algorithms allows investors to focus on intrinsic asset worth while employing automated systems for precise trade execution.
 
 To incorporate book value into algorithmic trading, traders should establish rules that use book value as a criterion to screen potential investments. For instance, a trading algorithm could be programmed to select stocks with a market price lower than their book value, indicating potential undervaluation. This can be expressed mathematically as:
 

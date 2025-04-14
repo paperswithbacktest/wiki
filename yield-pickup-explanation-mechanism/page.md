@@ -22,7 +22,7 @@ Yield pickup is important because it helps investors make smarter choices. If th
 
 ## What are the basic components involved in yield pickup?
 
-Yield pickup is all about comparing two investments, usually bonds, to see which one gives you more money over time. The first basic component is the yield of the current investment. This is the interest rate or return you're getting from the bond you already own. The second component is the yield of the new investment. This is the interest rate or return you could get if you switch to a different bond.
+Yield pickup is all about comparing two investments, usually bonds, to see which one gives you more money over time. The first basic component is the yield of the current investment. This is the [interest rate](/wiki/interest-rate-trading-strategies) or return you're getting from the bond you already own. The second component is the yield of the new investment. This is the interest rate or return you could get if you switch to a different bond.
 
 The third component is the cost of switching. This can include any fees or transaction costs you might have to pay to move your money from one bond to another. To figure out the yield pickup, you subtract the yield of your current bond from the yield of the new bond. Then, you need to compare this difference to the cost of switching. If the yield pickup is more than the cost, it might be a good idea to switch because you'll end up with more money in the long run.
 

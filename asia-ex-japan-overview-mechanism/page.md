@@ -96,7 +96,7 @@ Investors focusing on the Asia Ex-Japan (AxJ) region often utilize key indices a
 
 The Morgan Stanley Asia Opportunity Fund exemplifies funds targeting high-performing companies within the AxJ region. This specific fund seeks to capitalize on the potential of select businesses in AxJ by employing active management strategies to identify and invest in companies exhibiting strong growth potential. The fund aims to deliver high returns by focusing on sectors that benefit from long-term economic expansion and technological innovation, characteristic of many AxJ nations.
 
-These indices and funds are designed to offer diversified exposure to AxJ growth markets, mitigating risks associated with single-entity investments. They often employ sophisticated investment strategies, balancing both equity and bond holdings. This dual approach allows investors to capture equity market gains while reducing volatility with stable bond investments.
+These indices and funds are designed to offer diversified exposure to AxJ growth markets, mitigating risks associated with single-entity investments. They often employ sophisticated investment strategies, balancing both equity and bond holdings. This dual approach allows investors to capture equity market gains while reducing [volatility](/wiki/volatility-trading-strategies) with stable bond investments.
 
 For instance, an investor might allocate assets using a strategy that can be modeled by the following formula:
 
@@ -106,7 +106,7 @@ $$
 
 where $w_e$ and $w_b$ are the weights of equity and bond investments in the portfolio, and $r_e$ and $r_b$ represent the returns from equities and bonds, respectively. Balancing these weights allows for adjusting the risk-return profile according to market conditions and investor risk tolerance.
 
-Tools like algorithmic trading further enhance the efficacy of these investment vehicles by enabling rapid execution and adjustment of investment strategies in response to market movements. The integration of sophisticated data analysis and execution technology ensures that investors can maintain optimal portfolio performance in the dynamic AxJ markets. Consequently, this combination of indices, funds, and advanced trading technologies offers a comprehensive framework for successfully investing in the AxJ region.
+Tools like [algorithmic trading](/wiki/algorithmic-trading) further enhance the efficacy of these investment vehicles by enabling rapid execution and adjustment of investment strategies in response to market movements. The integration of sophisticated data analysis and execution technology ensures that investors can maintain optimal portfolio performance in the dynamic AxJ markets. Consequently, this combination of indices, funds, and advanced trading technologies offers a comprehensive framework for successfully investing in the AxJ region.
 
 ## References & Further Reading
 

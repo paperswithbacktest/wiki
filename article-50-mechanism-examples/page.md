@@ -18,7 +18,7 @@ Once the negotiations are done, the European Parliament must agree to the deal. 
 
 Article 50 is part of the Treaty on European Union. This treaty is one of the main documents that set the rules for how the European Union works.
 
-The Treaty on European Union explains what countries need to do if they want to leave the EU. Article 50 specifically talks about the steps and rules for a country to exit the Union.
+The Treaty on European Union explains what countries need to do if they want to leave the EU. Article 50 specifically talks about the steps and rules for a country to [exit](/wiki/exit-strategy) the Union.
 
 ## What is the purpose of Article 50?
 
@@ -119,7 +119,7 @@ data['Position'] = data['Signal'].diff()
 print(data[['Date', 'Close', 'SMA_10', 'SMA_50', 'Position']])
 ```
 
-In times of high volatility, algorithms driven by such models can make split-second decisions, processing vast amounts of data to maintain market equilibrium and manage the ensuing risks. Thus, the continuous evolution and refinement of algorithmic trading stand as a testament to its crucial role in contemporary finance, particularly during periods marked by economic transition and market instability.
+In times of high [volatility](/wiki/volatility-trading-strategies), algorithms driven by such models can make split-second decisions, processing vast amounts of data to maintain market equilibrium and manage the ensuing risks. Thus, the continuous evolution and refinement of algorithmic trading stand as a testament to its crucial role in contemporary finance, particularly during periods marked by economic transition and market instability.
 
 ## References & Further Reading
 

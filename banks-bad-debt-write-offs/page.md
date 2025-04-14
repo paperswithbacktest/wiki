@@ -24,7 +24,7 @@ On the other hand, good debt is when you borrow money for something that can hel
 
 Banks write off bad debts because they don't think they will get the money back. When someone borrows money from a bank and can't pay it back, it becomes a bad debt. After trying to get the money for a long time, the bank might decide it's not worth trying anymore. Writing off the debt means the bank stops expecting to get that money. It's like saying, "We give up on this money."
 
-Even though the bank writes off the debt, it doesn't mean the person who borrowed the money doesn't have to pay anymore. The bank can still try to get the money in other ways, like selling the debt to someone else. But for the bank's records, the debt is gone. This helps the bank to show a more accurate picture of how much money they really have. It's important for banks to do this so they can keep their books clean and focus on other loans that might be paid back.
+Even though the bank writes off the debt, it doesn't mean the person who borrowed the money doesn't have to pay anymore. The bank can still try to get the money in other ways, like selling the debt to someone else. But for the bank's records, the debt is gone. This helps the bank to show a more accurate picture of how much money they really have. It's important for banks to do this so they can keep their [books](/wiki/algo-trading-books) clean and focus on other loans that might be paid back.
 
 ## How does a bank determine if a debt is bad?
 

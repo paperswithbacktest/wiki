@@ -44,7 +44,7 @@ Another risk is that you might get too excited about the rising price and forget
 
 ## Can pyramiding be applied to any type of investment, such as stocks, forex, or commodities?
 
-Pyramiding can be used with different types of investments, like stocks, forex, and commodities. The basic idea is the same no matter what you're investing in: you start with a small investment and add more as the price goes up. For stocks, you might buy more shares as the stock price rises. In forex trading, you could increase your position in a currency pair as its value goes up. And for commodities, like gold or oil, you might buy more as their prices increase.
+Pyramiding can be used with different types of investments, like stocks, [forex](/wiki/forex-system), and commodities. The basic idea is the same no matter what you're investing in: you start with a small investment and add more as the price goes up. For stocks, you might buy more shares as the stock price rises. In forex trading, you could increase your position in a currency pair as its value goes up. And for commodities, like gold or oil, you might buy more as their prices increase.
 
 However, each type of investment has its own risks and things to think about. Stocks can be affected by company news and market trends. Forex trading involves dealing with different currencies and can be influenced by global economic events. Commodities can be impacted by supply and demand changes. So, while pyramiding can work across these investments, you need to understand the specific risks and market conditions for each one. Always make sure you have a plan and know when to stop adding to your investment.
 
@@ -58,7 +58,7 @@ It's also important to have a clear plan before you start pyramiding. Decide ahe
 
 One common mistake investors make when pyramiding is getting too excited and adding too much money too quickly. They see the price going up and think it will keep going up forever, so they keep buying more without a plan. This can lead to big losses if the price suddenly drops. It's important to stick to a plan and only add more when the price hits the levels you decided on ahead of time.
 
-Another mistake is not knowing when to stop. Investors might keep adding to their investment even when the price starts to slow down or show signs of reversing. They get caught up in the excitement and forget to take profits or cut losses. Having clear exit points and sticking to them is crucial to avoid big losses. It's also important to pay attention to the overall market conditions and be ready to change your strategy if things start to look risky.
+Another mistake is not knowing when to stop. Investors might keep adding to their investment even when the price starts to slow down or show signs of reversing. They get caught up in the excitement and forget to take profits or cut losses. Having clear [exit](/wiki/exit-strategy) points and sticking to them is crucial to avoid big losses. It's also important to pay attention to the overall market conditions and be ready to change your strategy if things start to look risky.
 
 ## How can an investor use technical analysis to enhance their pyramiding strategy?
 

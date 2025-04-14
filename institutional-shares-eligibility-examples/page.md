@@ -36,7 +36,7 @@ Retail shares, on the other hand, are for regular people who want to invest in m
 
 Investing in institutional shares has some big advantages, especially for those who can meet the high minimum investment. One main benefit is lower fees. Because institutional shares are for big investors like banks and pension funds, the expense ratios, or the fees you pay, are much lower than for retail shares. This means more of the money you invest goes toward growing your investment, instead of paying for fees.
 
-Another benefit is better access to professional management. Institutional shares often come with top-notch investment managers who are experts at picking the best investments. This can lead to better performance over time. Plus, these shares might also give you access to special investment opportunities that are not available to regular investors. So, if you can invest a lot of money, institutional shares can offer a good way to grow your investments with less cost and more expert help.
+Another benefit is better access to professional management. Institutional shares often come with top-notch investment managers who are experts at [picking](/wiki/asset-class-picking) the best investments. This can lead to better performance over time. Plus, these shares might also give you access to special investment opportunities that are not available to regular investors. So, if you can invest a lot of money, institutional shares can offer a good way to grow your investments with less cost and more expert help.
 
 ## Can individual investors buy institutional shares?
 

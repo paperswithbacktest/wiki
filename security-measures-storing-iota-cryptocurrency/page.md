@@ -38,7 +38,7 @@ In summary, light wallets are easier and quicker to set up but less secure becau
 
 ## How can two-factor authentication enhance the security of IOTA storage?
 
-Two-factor authentication, or 2FA, adds an extra layer of security to your IOTA wallet. It means that to get into your wallet, you need two things: something you know, like your password, and something you have, like a code sent to your phone. This makes it much harder for someone to steal your IOTA because even if they guess or steal your password, they still can't get in without the second thing.
+Two-[factor](/wiki/factor-investing) authentication, or 2FA, adds an extra layer of security to your IOTA wallet. It means that to get into your wallet, you need two things: something you know, like your password, and something you have, like a code sent to your phone. This makes it much harder for someone to steal your IOTA because even if they guess or steal your password, they still can't get in without the second thing.
 
 Using 2FA can help keep your IOTA safe from hackers. If someone tries to break into your wallet from a different device, they won't be able to get past the second step of the authentication. This gives you time to notice something is wrong and take action, like changing your password or moving your IOTA to a new wallet. So, turning on 2FA is a smart way to protect your digital money.
 

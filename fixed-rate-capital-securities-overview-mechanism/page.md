@@ -30,7 +30,7 @@ Another important feature is that they usually last a long time, like 10 or 20 y
 
 Fixed-Rate Capital Securities are usually issued by big companies and banks. These companies are often well-known and financially stable, which makes the securities they issue seem safer. When these big companies need money to grow or do new projects, they might issue these securities to raise the funds they need. People who buy these securities are lending money to the company, and in return, they get a fixed amount of interest regularly.
 
-The interest rate on these securities stays the same no matter what happens in the economy. This makes them different from other securities where the interest might change. Because the companies issuing these securities are usually big and stable, they are seen as less risky. But because they are safer, they usually offer lower returns compared to riskier investments like stocks. So, they are good for people who want a steady income without taking big risks.
+The [interest rate](/wiki/interest-rate-trading-strategies) on these securities stays the same no matter what happens in the economy. This makes them different from other securities where the interest might change. Because the companies issuing these securities are usually big and stable, they are seen as less risky. But because they are safer, they usually offer lower returns compared to riskier investments like stocks. So, they are good for people who want a steady income without taking big risks.
 
 ## What are the benefits of investing in Fixed-Rate Capital Securities?
 

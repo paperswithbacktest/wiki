@@ -86,7 +86,7 @@ Algorithmic trading has significantly transformed commodities markets by employi
 
 Such algorithms are designed to process vast amounts of data in real-time, facilitating rapid decision-making and execution of trades without human intervention. This not only streamlines operations but also allows for the exploitation of [arbitrage](/wiki/arbitrage) opportunities that might be missed by human traders due to the sheer velocity at which markets operate.
 
-A cornerstone of algorithmic trading involves the integration of technical indicators like moving averages and the Relative Strength Index (RSI). Moving averages, such as the simple moving average (SMA), are employed to smooth out price data by creating a constantly updated average price. The formula for an N-period simple moving average is:
+A cornerstone of [algorithmic trading](/wiki/algorithmic-trading) involves the integration of technical indicators like moving averages and the Relative Strength Index (RSI). Moving averages, such as the simple moving average (SMA), are employed to smooth out price data by creating a constantly updated average price. The formula for an N-period simple moving average is:
 
 $$
 \text{SMA}_N = \frac{P_1 + P_2 + \ldots + P_N}{N}

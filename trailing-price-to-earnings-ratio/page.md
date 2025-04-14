@@ -144,7 +144,7 @@ potential_buys = df[df['Trailing P/E'] < df['Sector PE Avg']]
 print(potential_buys)
 ```
 
-Execution involves deciding on buy or sell actions based on the screened stocks. The timing and [volume](/wiki/volume-trading-strategy) of trades can be automated through algorithmic trading systems, enabling rapid response to market movements.
+Execution involves deciding on buy or sell actions based on the screened stocks. The timing and [volume](/wiki/volume-trading-strategy) of trades can be automated through [algorithmic trading](/wiki/algorithmic-trading) systems, enabling rapid response to market movements.
 
 Performance evaluation employs metrics such as return on investment (ROI), [volatility](/wiki/volatility-trading-strategies), and drawdowns to gauge the strategy's effectiveness. ROI measures the profitability of trades, while volatility assesses the price fluctuations. Drawdowns indicate the peak-to-trough declines in portfolio value, providing insights into risk exposure.
 

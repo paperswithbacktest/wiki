@@ -24,7 +24,7 @@ This difference in focus can lead to different investment outcomes. A traditiona
 
 One big benefit of investing in a Yield Tilt Index Fund is that it can give you more money from dividends. These funds pick stocks that pay higher dividends, so you get more income from your investment. This can be really helpful if you need regular money coming in, like if you're retired or saving for something specific.
 
-Another benefit is that these funds still give you a broad spread of investments, just like a regular index fund. This means you're not putting all your eggs in one basket. Even though the fund focuses on high-yield stocks, it's still based on a big index, so you get to own a piece of many different companies. This can help lower your risk compared to picking individual stocks.
+Another benefit is that these funds still give you a broad spread of investments, just like a regular index fund. This means you're not putting all your eggs in one basket. Even though the fund focuses on high-yield stocks, it's still based on a big index, so you get to own a piece of many different companies. This can help lower your risk compared to [picking](/wiki/asset-class-picking) individual stocks.
 
 Lastly, Yield Tilt Index Funds can be a good way to balance growth and income. While you get more dividends, you're also still invested in the market, which can grow over time. This mix can be a smart way to build wealth while also getting some regular income.
 
@@ -34,7 +34,7 @@ One risk of investing in a Yield Tilt Index Fund is that it might not grow as mu
 
 Another risk is that high-yield stocks can sometimes be riskier. Companies that pay big dividends might be doing it because they're not growing much or because they're in trouble. If those companies run into problems, their stock prices could drop a lot, which would hurt your fund's value. This means your investment could be more up and down than a regular index fund.
 
-Lastly, there's the risk of interest rate changes. When interest rates go up, high-yield stocks can become less attractive because people can get better returns from safer investments like bonds. If investors start moving their money out of high-yield stocks and into bonds, the value of your Yield Tilt Index Fund could go down.
+Lastly, there's the risk of [interest rate](/wiki/interest-rate-trading-strategies) changes. When interest rates go up, high-yield stocks can become less attractive because people can get better returns from safer investments like bonds. If investors start moving their money out of high-yield stocks and into bonds, the value of your Yield Tilt Index Fund could go down.
 
 ## How is the yield tilt implemented in these funds?
 

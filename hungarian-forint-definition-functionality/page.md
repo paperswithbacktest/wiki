@@ -52,7 +52,7 @@ Interest rates set by the Magyar Nemzeti Bank also play a big role. If the bank 
 
 ## How does the Hungarian National Bank manage the Forint's monetary policy?
 
-The Hungarian National Bank, which is also called the Magyar Nemzeti Bank, is in charge of managing the Forint's monetary policy. This means they control things like interest rates and the amount of money in the economy. One of the main tools they use is setting the interest rate. If they want to make the Forint stronger, they might raise the interest rate. This can attract people from other countries to invest their money in Hungary because they can earn more interest. On the other hand, if they want to make the Forint weaker, they might lower the interest rate, which can encourage people to spend more money within Hungary.
+The Hungarian National Bank, which is also called the Magyar Nemzeti Bank, is in charge of managing the Forint's monetary policy. This means they control things like interest rates and the amount of money in the economy. One of the main tools they use is setting the [interest rate](/wiki/interest-rate-trading-strategies). If they want to make the Forint stronger, they might raise the interest rate. This can attract people from other countries to invest their money in Hungary because they can earn more interest. On the other hand, if they want to make the Forint weaker, they might lower the interest rate, which can encourage people to spend more money within Hungary.
 
 The bank also uses other ways to keep the Forint stable. They might buy or sell Forints in the foreign exchange market to control its value. If the Forint is getting too weak, the bank can buy Forints to make it stronger. If the Forint is getting too strong, they can sell Forints to make it weaker. They also keep an eye on how much money is circulating in the economy. If there's too much money, it can lead to inflation, which makes prices go up. So, the bank might take steps to reduce the amount of money, like raising interest rates or using other financial tools, to keep prices stable and the economy healthy.
 
@@ -86,7 +86,7 @@ Algorithmic trading strategies tailored to the Hungarian Forint (HUF) harness a 
 
 ### Trend Following
 
-Trend following leverages the [momentum](/wiki/momentum) of price movements within the forex market, aiming to capitalize on long-term trends identified through statistical indicators such as moving averages. Moving averages smooth out price data to highlight the direction of a trend. In forex trading, this might involve calculating the moving average over a specific period, such as 50 or 200 days, to determine whether the HUF is exhibiting a bullish or bearish trend. The strategy is based on the assumption that asset prices follow a trajectory and that past performance can indicate future movement.
+Trend following leverages the [momentum](/wiki/momentum) of price movements within the [forex](/wiki/forex-system) market, aiming to capitalize on long-term trends identified through statistical indicators such as moving averages. Moving averages smooth out price data to highlight the direction of a trend. In forex trading, this might involve calculating the moving average over a specific period, such as 50 or 200 days, to determine whether the HUF is exhibiting a bullish or bearish trend. The strategy is based on the assumption that asset prices follow a trajectory and that past performance can indicate future movement.
 
 Mathematically, a simple moving average (SMA) is calculated as follows:
 
@@ -96,13 +96,13 @@ $$
 
 where $P$ represents the price at each day, and $n$ is the number of days.
 
-By employing technical indicators like the SMA, traders can optimize entry and exit points, minimizing losses incurred due to market volatility and enhancing profitability.
+By employing technical indicators like the SMA, traders can optimize entry and [exit](/wiki/exit-strategy) points, minimizing losses incurred due to market [volatility](/wiki/volatility-trading-strategies) and enhancing profitability.
 
 ### Arbitrage
 
 Arbitrage exploits price discrepancies across different markets or platforms to achieve risk-free profit. This strategy requires advanced algorithms capable of pinpointing fleeting price differentials before competitors or market adjustments nullify the opportunity. In the context of HUF trading, arbitrage might involve discrepancies between the HUF quoted on international forex exchanges and regional financial institutions or differences arising in cross-currency exchange pairs.
 
-Arbitrage opportunities generally disappear rapidly, highlighting the necessity for algorithmic systems that execute trades at high speeds and volumes. Despite the potential for profit, arbitrage strategies must consider transaction costs and the liquidity of HUF to remain viable and profitable.
+Arbitrage opportunities generally disappear rapidly, highlighting the necessity for algorithmic systems that execute trades at high speeds and volumes. Despite the potential for profit, arbitrage strategies must consider transaction costs and the [liquidity](/wiki/liquidity-risk-premium) of HUF to remain viable and profitable.
 
 ### Machine Learning
 

@@ -76,7 +76,7 @@ He also thinks that teaching financial mathematics will change. More students wi
 
 Olivier Guéant stays innovative and competitive by always learning new things. He reads a lot of research papers and talks to other experts in financial mathematics. This helps him understand new ideas and stay up-to-date. He also uses computers and technology in his work. By using these tools, he can solve problems faster and find new ways to help people make better trading decisions. This keeps him ahead of others in his field.
 
-He also shares his knowledge with others. Olivier writes books and papers that explain complex ideas in simple ways. This helps students and professionals learn about financial markets better. By teaching at universities and working with banks, he makes sure that his ideas are not just theories but can be used in real life. This approach helps him stay competitive because he is always helping others improve and grow.
+He also shares his knowledge with others. Olivier writes [books](/wiki/algo-trading-books) and papers that explain complex ideas in simple ways. This helps students and professionals learn about financial markets better. By teaching at universities and working with banks, he makes sure that his ideas are not just theories but can be used in real life. This approach helps him stay competitive because he is always helping others improve and grow.
 
 ## What advice does Olivier Guéant have for aspiring professionals in his industry?
 

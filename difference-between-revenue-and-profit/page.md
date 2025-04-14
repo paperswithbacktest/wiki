@@ -111,7 +111,7 @@ This simple code snippet illustrates how to compute profit by subtracting total 
 
 ## What is the Profit Factor in Algorithmic Trading?
 
-Profit Factor is a fundamental metric in algorithmic trading, utilized to evaluate the performance of trading strategies. It is defined as the ratio of gross profits to gross losses over a specific period. Mathematically, the Profit Factor (PF) can be expressed as:
+Profit Factor is a fundamental metric in [algorithmic trading](/wiki/algorithmic-trading), utilized to evaluate the performance of trading strategies. It is defined as the ratio of gross profits to gross losses over a specific period. Mathematically, the Profit Factor (PF) can be expressed as:
 
 $$
 \text{Profit Factor} = \frac{\text{Gross Profits}}{\text{Gross Losses}}

@@ -46,7 +46,7 @@ Another example is UBS, which also offers prime brokerage services. UBS helps bi
 
 ## What are the basic account requirements for opening a prime brokerage account?
 
-Opening a prime brokerage account is not like opening a regular bank account. You need to be a big investor, like a hedge fund, to even think about it. Prime brokers want to work with clients who have a lot of money to invest, usually millions of dollars. They also want to see that you have experience in investing and know what you're doing. This is because prime brokerage services are complex and meant for people who can handle big investments.
+Opening a prime brokerage account is not like opening a regular bank account. You need to be a big investor, like a [hedge fund](/wiki/hedge-fund-trading-strategies), to even think about it. Prime brokers want to work with clients who have a lot of money to invest, usually millions of dollars. They also want to see that you have experience in investing and know what you're doing. This is because prime brokerage services are complex and meant for people who can handle big investments.
 
 To open an account, you'll need to go through a detailed process. The prime broker will check your financial history and make sure you meet their standards. They might ask for documents like your business registration, financial statements, and proof of your investment experience. Once they're happy with everything, they'll set up your account. This account will give you access to services like borrowing money, borrowing stocks, and getting special research and advice to help you invest better.
 

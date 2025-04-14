@@ -66,7 +66,7 @@ Besides these fees, there might be other costs to think about. For example, if y
 
 The International Securities Exchange, or ISE, works hard to handle market ups and downs, which we call market volatility. They use special computer systems to watch the market all the time. If the market starts to move a lot, the ISE can step in to make sure everything stays fair. They might pause trading for a little while if things get too crazy, giving everyone a chance to catch their breath and make better decisions. This helps keep the market calm and stops big surprises that could hurt traders.
 
-The ISE also makes sure there are enough buyers and sellers, which we call liquidity. They do this by having a big group of market makers. Market makers are special traders who always stand ready to buy or sell options. This means that no matter what, you can always find someone to trade with on the ISE. Having lots of market makers helps keep the market moving smoothly, even when things get busy or prices change a lot. This way, traders can always get in and out of their trades without too much trouble.
+The ISE also makes sure there are enough buyers and sellers, which we call [liquidity](/wiki/liquidity-risk-premium). They do this by having a big group of market makers. Market makers are special traders who always stand ready to buy or sell options. This means that no matter what, you can always find someone to trade with on the ISE. Having lots of market makers helps keep the market moving smoothly, even when things get busy or prices change a lot. This way, traders can always get in and out of their trades without too much trouble.
 
 ## What role does the ISE play in the global financial market?
 

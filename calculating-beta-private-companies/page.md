@@ -130,7 +130,7 @@ In both methods, the ultimate objective remains consistent: providing a robust e
 
 ## How do you calculate Beta in Excel using a step-by-step guide?
 
-Calculating beta in Excel is an essential skill for financial analysts, allowing for the assessment of a security's volatility relative to the market. This process starts with setting up Excel to gather and organize historical price data effectively.
+Calculating beta in Excel is an essential skill for financial analysts, allowing for the assessment of a security's [volatility](/wiki/volatility-trading-strategies) relative to the market. This process starts with setting up Excel to gather and organize historical price data effectively.
 
 ### Step 1: Gathering and Organizing Historical Price Data
 
@@ -186,7 +186,7 @@ By following these steps and being mindful of common pitfalls, one can effective
 
 ## References & Further Reading
 
-A comprehensive understanding of beta calculation and its applications is essential for those interested in financial modeling, algorithmic trading, and risk management. Below is a list of resources and suggested readings that provide further insights into these topics:
+A comprehensive understanding of beta calculation and its applications is essential for those interested in financial modeling, [algorithmic trading](/wiki/algorithmic-trading), and risk management. Below is a list of resources and suggested readings that provide further insights into these topics:
 
 1. **Books:**
    - "Investments" by Zvi Bodie, Alex Kane, and Alan Marcus. This book provides a thorough introduction to the Capital Asset Pricing Model (CAPM) and the concept of beta in financial markets.

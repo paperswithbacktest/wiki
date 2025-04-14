@@ -24,7 +24,7 @@ Another important part of tail risk hedging is diversification. This means sprea
 
 The most common financial instruments for tail risk hedging are options and insurance products. Options, like put options, are agreements that give you the right to sell an asset at a set price within a certain time. If the market crashes and the price of your asset drops a lot, you can use the put option to sell it at the higher set price, which helps limit your losses. Another option is to buy insurance products, like catastrophe bonds or event-linked bonds, which pay out if a specific bad event happens, like a natural disaster or a big economic crisis. These products can help you get money back when you need it most.
 
-Another tool for tail risk hedging is using derivatives like futures and swaps. Futures contracts let you agree to buy or sell an asset at a future date for a set price. This can help protect against big price swings. Swaps, on the other hand, are agreements to exchange cash flows or other financial instruments. For example, you might use an interest rate swap to change a variable interest rate to a fixed one, which can help if interest rates suddenly go up a lot. These derivatives can be complex but are useful for managing the risk of extreme events.
+Another tool for tail risk hedging is using derivatives like futures and swaps. Futures contracts let you agree to buy or sell an asset at a future date for a set price. This can help protect against big price swings. Swaps, on the other hand, are agreements to exchange cash flows or other financial instruments. For example, you might use an [interest rate](/wiki/interest-rate-trading-strategies) swap to change a variable interest rate to a fixed one, which can help if interest rates suddenly go up a lot. These derivatives can be complex but are useful for managing the risk of extreme events.
 
 In addition to these instruments, some investors use structured products, which are investments made up of different financial instruments bundled together. These can be tailored to protect against specific risks. For example, a structured note might combine a bond with an option, giving you regular interest payments but also protection if the market falls. By using these various financial tools, investors can build a safety net around their portfolios, helping to manage the impact of tail risks.
 
@@ -86,7 +86,7 @@ Another way to evaluate these strategies is by looking at how they affect your o
 
 ## What are Various Tail Hedging Strategies?
 
-Tail hedging involves a range of strategies designed to protect investors from extreme market downturns. These strategies are particularly pertinent in algorithmic trading, where advanced techniques and quick decision-making are essential. Below is an examination of some of the common tail hedging strategies:
+Tail hedging involves a range of strategies designed to protect investors from extreme market downturns. These strategies are particularly pertinent in [algorithmic trading](/wiki/algorithmic-trading), where advanced techniques and quick decision-making are essential. Below is an examination of some of the common tail hedging strategies:
 
 ### Put Options
 
@@ -110,7 +110,7 @@ In algorithmic trading, diversification can be implemented using models that aut
 
 ### Holding Cash
 
-Maintaining a cash reserve provides liquidity and flexibility to respond to market stress. The opportunity cost of holding cash can be offset by the security it provides during extreme market movements. Holding cash allows traders to buy undervalued assets quickly when prices plummet, thereby positioning themselves effectively for a market recovery.
+Maintaining a cash reserve provides [liquidity](/wiki/liquidity-risk-premium) and flexibility to respond to market stress. The opportunity cost of holding cash can be offset by the security it provides during extreme market movements. Holding cash allows traders to buy undervalued assets quickly when prices plummet, thereby positioning themselves effectively for a market recovery.
 
 ### Tail Risk ETFs
 

@@ -30,7 +30,7 @@ These 30 companies are chosen because they are important and well-known. They ar
 
 To start investing in the DJIA, you first need to open a brokerage account. A brokerage account is like a special bank account where you can buy and sell stocks. You can find many online brokerages that let you do this easily. Once your account is set up, you'll need to add money to it. This money is what you'll use to buy stocks. After you have money in your account, you can start investing in the DJIA.
 
-One way to invest in the DJIA is by buying shares of a DJIA index fund or an exchange-traded fund (ETF) that tracks the DJIA. These funds hold all 30 companies in the DJIA, so when you buy shares of the fund, you're investing in all those companies at once. This can be a simple way to invest because you don't have to pick individual stocks. Another way is to buy shares of the individual companies in the DJIA. This can be more work because you need to decide which companies to buy and when, but it also lets you pick the ones you think will do the best. Either way, remember to do some research first and maybe talk to a financial advisor to make sure investing in the DJIA is right for you.
+One way to invest in the DJIA is by buying shares of a DJIA index fund or an exchange-traded fund ([ETF](/wiki/etf-trading-strategies)) that tracks the DJIA. These funds hold all 30 companies in the DJIA, so when you buy shares of the fund, you're investing in all those companies at once. This can be a simple way to invest because you don't have to pick individual stocks. Another way is to buy shares of the individual companies in the DJIA. This can be more work because you need to decide which companies to buy and when, but it also lets you pick the ones you think will do the best. Either way, remember to do some research first and maybe talk to a financial advisor to make sure investing in the DJIA is right for you.
 
 ## What are the benefits of investing in the DJIA for beginners?
 
@@ -78,7 +78,7 @@ Using options and futures can be a bit tricky, so it's important to understand h
 
 Experts can use several advanced tools and metrics to try to predict how the DJIA will move. One important tool is technical analysis, which looks at past price movements and trading volumes to find patterns. This can include using things like moving averages, which smooth out price data to see trends over time, and the Relative Strength Index (RSI), which shows if a stock is overbought or oversold. Another useful metric is the Bollinger Bands, which show how much the DJIA's price has been moving around its average. By looking at these patterns and indicators, experts can make guesses about where the DJIA might go next.
 
-Another set of tools experts use is fundamental analysis, which looks at the actual health and performance of the companies in the DJIA. This can include studying financial statements to see how much money the companies are making and what they're worth. Experts also look at economic indicators like GDP growth, unemployment rates, and inflation to understand the bigger picture. They might use models like the Capital Asset Pricing Model (CAPM) to see how the DJIA should perform based on its risk compared to the overall market. By combining these different tools and metrics, experts can make more informed predictions about the DJIA's future movements.
+Another set of tools experts use is [fundamental analysis](/wiki/fundamental-analysis), which looks at the actual health and performance of the companies in the DJIA. This can include studying financial statements to see how much money the companies are making and what they're worth. Experts also look at economic indicators like GDP growth, unemployment rates, and inflation to understand the bigger picture. They might use models like the Capital Asset Pricing Model (CAPM) to see how the DJIA should perform based on its risk compared to the overall market. By combining these different tools and metrics, experts can make more informed predictions about the DJIA's future movements.
 
 ## What is the Dow Jones Industrial Average (DJIA) and how does it work?
 
@@ -118,7 +118,7 @@ where $K$ is the strike price of the call, and $C$ is the premium received from 
 
 Algorithmic trading enhances these traditional strategies by incorporating data-driven decision-making processes. Algorithms can assess market conditions and adjust strategies in real-time, implementing techniques such as protective puts or call spreads. Call spreads, for example, involve buying and selling call options with different strike prices, allowing investors to speculate or hedge future price movements with controlled risk levels.
 
-Implementing an algorithmic trading system in Python to evaluate protective puts or call spreads could involve leveraging libraries such as NumPy or Pandas to process data efficiently. Below is a simple pseudocode to illustrate the basic setup for an algorithmic strategy:
+Implementing an [algorithmic trading](/wiki/algorithmic-trading) system in Python to evaluate protective puts or call spreads could involve leveraging libraries such as NumPy or Pandas to process data efficiently. Below is a simple pseudocode to illustrate the basic setup for an algorithmic strategy:
 
 ```python
 import numpy as np

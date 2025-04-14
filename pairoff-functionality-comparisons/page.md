@@ -82,7 +82,7 @@ At a local community college, Pairoff was used in a programming class. The teach
 
 ## What are Algorithmic Trading Strategies?
 
-Algorithmic trading utilizes advanced computer programs to make rapid trading decisions based on pre-established criteria. This approach fundamentally transforms trading by leveraging algorithms to initiate trades autonomously, thereby enhancing efficiency and reducing latency. A pivotal component of this is the pairoff strategy, which perfectly complements algorithmic trading by offsetting open short and long positions, facilitating streamlined operations without the requirement for physical delivery of securities.
+Algorithmic trading utilizes advanced computer programs to make rapid trading decisions based on pre-established criteria. This approach fundamentally transforms trading by leveraging algorithms to initiate trades autonomously, thereby enhancing efficiency and reducing latency. A pivotal component of this is the pairoff strategy, which perfectly complements [algorithmic trading](/wiki/algorithmic-trading) by offsetting open short and long positions, facilitating streamlined operations without the requirement for physical delivery of securities.
 
 Platforms deploying algorithmic trading capitalize on data-driven insights, employing sophisticated models to execute trades often devoid of human intervention. This eliminates emotional biases and allows for consistent strategy application. By incorporating pairoff strategies, these platforms can efficiently manage and mitigate risks associated with open positions, fostering operational efficiency.
 

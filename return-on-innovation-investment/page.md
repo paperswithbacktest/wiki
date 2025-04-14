@@ -54,7 +54,7 @@ One big difference between ROII and traditional ROI is how they deal with guessi
 
 To improve ROII, a company should focus on making sure their new ideas are what people want. They can do this by asking customers what they need and what they like. This helps the company create products that people will buy. Also, companies should try to make their new ideas cost less to make. They can do this by finding cheaper ways to do research and development, or by using technology to save money. If a company can make a good product that people want, and make it without spending too much money, their ROII will be better.
 
-Another way to improve ROII is to be quick about getting new products to the market. The faster a company can go from having an idea to selling the product, the more money they can make. This is because they can start earning money sooner and spend less on keeping the project going. Also, companies should keep checking how their new ideas are doing. If something isn't working, they should be ready to change it or stop it before they spend too much money. By being fast and flexible, a company can make their ROII better.
+Another way to improve ROII is to be quick about getting new products to the market. The faster a company can go from having an idea to selling the product, the more money they can make. This is because they can start [earning](/wiki/earning-announcement) money sooner and spend less on keeping the project going. Also, companies should keep checking how their new ideas are doing. If something isn't working, they should be ready to change it or stop it before they spend too much money. By being fast and flexible, a company can make their ROII better.
 
 ## How can companies foster a culture that supports innovation and ROII?
 

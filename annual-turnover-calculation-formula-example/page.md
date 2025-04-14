@@ -36,7 +36,7 @@ This number is important because it tells you how much business you did in a yea
 
 ## Can you provide a simple example of calculating annual turnover for a small business?
 
-Imagine you own a small bakery. Over the course of a year, you sell cakes, cookies, and bread. In January, you made $1,000 from selling cakes, $500 from cookies, and $300 from bread. In February, you made $900 from cakes, $600 from cookies, and $400 from bread. You keep track of your sales like this for every month of the year.
+Imagine you own a small bakery. Over the [course](/wiki/best-algorithmic-trading-courses) of a year, you sell cakes, cookies, and bread. In January, you made $1,000 from selling cakes, $500 from cookies, and $300 from bread. In February, you made $900 from cakes, $600 from cookies, and $400 from bread. You keep track of your sales like this for every month of the year.
 
 At the end of the year, you add up all the money you made from selling cakes, cookies, and bread. Let's say the total for the year is $50,000 from cakes, $25,000 from cookies, and $15,000 from bread. When you add these amounts together, your annual turnover for the bakery is $50,000 + $25,000 + $15,000 = $90,000. This number tells you how much money your bakery made from sales in one year.
 
@@ -172,7 +172,7 @@ Manufacturing industries, characterized by production processes and economies of
 The manufacturing sector's turnover is often measured against production capacity and market demand for manufactured goods. Efficient operations, lean manufacturing techniques, and technological advancements contribute to optimizing turnover.
 
 ### Comparative Insights
-Comparing turnover across sectors highlights how industry-specific elements shape financial performance. Technology companies may exhibit higher turnover through rapid product innovation and market penetration, while retail relies on volume and price competitiveness. Manufacturing emphasizes process efficiency and scale.
+Comparing turnover across sectors highlights how industry-specific elements shape financial performance. Technology companies may exhibit higher turnover through rapid product innovation and market penetration, while retail relies on [volume](/wiki/volume-trading-strategy) and price competitiveness. Manufacturing emphasizes process efficiency and scale.
 
 An effective comparison also considers turnover ratios, calculated as:
 

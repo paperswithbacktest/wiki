@@ -22,7 +22,7 @@ ROA is important because it shows how efficiently a bank is turning its assets i
 
 ## What is the significance of the Net Interest Margin (NIM) in evaluating a retail bank's performance?
 
-Net Interest Margin (NIM) is a key number that shows how well a retail bank is doing with its main business of lending and borrowing money. It tells us the difference between the interest income a bank earns from loans and the interest it pays out on deposits, divided by the bank's total earning assets. This percentage helps us see how much profit a bank is making from its core activities. A higher NIM means the bank is doing a good job at making more from loans than it's spending on deposits.
+Net Interest Margin (NIM) is a key number that shows how well a retail bank is doing with its main business of lending and borrowing money. It tells us the difference between the interest income a bank earns from loans and the interest it pays out on deposits, divided by the bank's total [earning](/wiki/earning-announcement) assets. This percentage helps us see how much profit a bank is making from its core activities. A higher NIM means the bank is doing a good job at making more from loans than it's spending on deposits.
 
 NIM is important because it gives a clear picture of a bank's efficiency and profitability. If a bank has a high NIM, it means it's good at managing the difference between what it charges for loans and what it pays for deposits. This can attract investors and show that the bank is strong and well-managed. On the other hand, a low NIM might mean the bank is struggling to make money from its main business, which could be a warning sign for investors and customers. By comparing NIMs, people can see how a bank is doing compared to others in the industry.
 
@@ -48,7 +48,7 @@ This ratio is important for understanding a bank's financial stability because i
 
 The Non-Performing Loan (NPL) Ratio is a key number that shows how much risk a retail bank is taking with the money it lends out. It's calculated by dividing the total amount of loans that are not being paid back on time by the total amount of loans the bank has given out. This gives us a percentage that tells us what part of the bank's loans are in trouble. A high NPL Ratio means more people are having trouble paying back their loans, which is bad news for the bank because it might not get all its money back.
 
-This ratio is important for understanding a bank's credit risk because it shows how well the bank is doing at picking good borrowers and managing its loans. If a bank has a high NPL Ratio, it means it's taking on more risk, and this can make investors and customers worried. They might think the bank is not careful enough with its lending, and it could lose a lot of money if too many loans go bad. By keeping an eye on the NPL Ratio, people can see how safe it is to put their money in the bank or borrow from it.
+This ratio is important for understanding a bank's credit risk because it shows how well the bank is doing at [picking](/wiki/asset-class-picking) good borrowers and managing its loans. If a bank has a high NPL Ratio, it means it's taking on more risk, and this can make investors and customers worried. They might think the bank is not careful enough with its lending, and it could lose a lot of money if too many loans go bad. By keeping an eye on the NPL Ratio, people can see how safe it is to put their money in the bank or borrow from it.
 
 ## How can the Tier 1 Capital Ratio be used to gauge a retail bank's core financial strength?
 

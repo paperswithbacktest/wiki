@@ -50,7 +50,7 @@ Balancing risk and return is key to keeping your portfolio on track. If you're s
 
 ## What are the common strategies used in portfolio management?
 
-One common strategy in portfolio management is called the growth strategy. This means picking investments that have the potential to grow a lot over time, like stocks in new companies or industries that are doing well. People who use this strategy are okay with taking more risk because they want bigger returns. They might focus on technology stocks or other fast-growing sectors. The idea is to find investments that can really take off and help the portfolio grow quickly.
+One common strategy in portfolio management is called the growth strategy. This means [picking](/wiki/asset-class-picking) investments that have the potential to grow a lot over time, like stocks in new companies or industries that are doing well. People who use this strategy are okay with taking more risk because they want bigger returns. They might focus on technology stocks or other fast-growing sectors. The idea is to find investments that can really take off and help the portfolio grow quickly.
 
 Another strategy is called the income strategy. This is for people who want to get regular payments from their investments, like dividends from stocks or interest from bonds. They might choose to invest in companies that pay out a lot of dividends or in bonds that give steady interest. This strategy is usually less risky than the growth strategy because it focuses on getting money back regularly instead of hoping for big gains. It's good for people who need a steady income from their investments.
 
@@ -60,7 +60,7 @@ A third strategy is called the value strategy. This involves looking for investm
 
 To assess the performance of a portfolio, you need to look at how it's doing over time compared to your goals. One way to do this is by checking the overall return, which is how much your investments have grown. You can compare this to a benchmark, like a stock market index, to see if your portfolio is doing better or worse than the market. If your portfolio is growing more than the benchmark, that's a good sign. But if it's not keeping up, you might need to change things around.
 
-Another important thing to look at is how much risk you're taking. You can measure this by looking at how much your portfolio goes up and down, which is called volatility. If your portfolio is very volatile, it means it's riskier, and you might want to adjust it to feel more comfortable. Also, think about how well your portfolio is helping you reach your goals. If you're saving for something specific, like retirement, make sure your investments are on track to get you there. By keeping an eye on these things, you can make sure your portfolio is working the way you want it to.
+Another important thing to look at is how much risk you're taking. You can measure this by looking at how much your portfolio goes up and down, which is called [volatility](/wiki/volatility-trading-strategies). If your portfolio is very volatile, it means it's riskier, and you might want to adjust it to feel more comfortable. Also, think about how well your portfolio is helping you reach your goals. If you're saving for something specific, like retirement, make sure your investments are on track to get you there. By keeping an eye on these things, you can make sure your portfolio is working the way you want it to.
 
 ## What tools and software are available for portfolio management?
 
@@ -82,7 +82,7 @@ One advanced technique used in portfolio management for optimizing returns is ca
 
 Another technique is using derivatives, like options and futures, to manage risk and boost returns. Derivatives are like bets on how investments will do in the future. A portfolio manager might use them to protect against losses or to make money if their predictions about the market are right. For example, they might buy an option that lets them sell a stock at a certain price, even if the market goes down. This can help limit losses and make the portfolio more stable, but it's complex and can be risky if not done carefully.
 
-A third technique is factor investing, which involves picking investments based on certain characteristics, or factors, that are known to affect returns. Common factors include things like the size of a company, how much it's growing, or how cheap its stock is compared to its earnings. By focusing on these factors, a portfolio manager can build a portfolio that's more likely to do well over time. This method needs a deep understanding of how different factors work and how they can be combined to create a strong portfolio.
+A third technique is [factor](/wiki/factor-investing) investing, which involves picking investments based on certain characteristics, or factors, that are known to affect returns. Common factors include things like the size of a company, how much it's growing, or how cheap its stock is compared to its earnings. By focusing on these factors, a portfolio manager can build a portfolio that's more likely to do well over time. This method needs a deep understanding of how different factors work and how they can be combined to create a strong portfolio.
 
 ## How do global economic factors affect portfolio management strategies?
 

@@ -38,7 +38,7 @@ One example of a Regenerative Finance project is the Regen Network. This project
 
 Another example is the Toucan Protocol. This project uses blockchain to make it easier for people to buy and sell carbon credits. Carbon credits are like special tickets that companies can buy to help make up for the pollution they create. By using blockchain, Toucan Protocol makes it easier for people to see where their money is going and know that it's being used to help the planet. This helps more people and companies want to do their part to fight climate change.
 
-A third example is the Celo platform. Celo is a type of cryptocurrency that focuses on helping people in poorer countries. It makes it easier for people to send and receive money without needing a bank account, which can be really helpful in places where banks are hard to find. Celo also supports projects that help the environment and communities, like building solar power stations or helping farmers grow food in a way that's good for the earth. By using Celo, people can help make the world a better place while also helping themselves and their families.
+A third example is the Celo platform. Celo is a type of [cryptocurrency](/wiki/cryptocurrency) that focuses on helping people in poorer countries. It makes it easier for people to send and receive money without needing a bank account, which can be really helpful in places where banks are hard to find. Celo also supports projects that help the environment and communities, like building solar power stations or helping farmers grow food in a way that's good for the earth. By using Celo, people can help make the world a better place while also helping themselves and their families.
 
 ## How does ReFi contribute to environmental sustainability?
 

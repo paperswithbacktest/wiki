@@ -142,7 +142,7 @@ Accurate calculation and reporting of current assets enable stakeholders to make
 
 ## What is the relationship between Risk Management and Financial Metrics?
 
-In asset management and algorithmic trading, risk management is critical, and financial metrics play a key role in evaluating and mitigating potential risks. Understanding liquidity ratios, such as the current ratio, quick ratio, and cash ratio, is essential for assessing a company's short-term financial health and its ability to meet current liabilities. These ratios are crucial indicators of a company's financial standing, enabling investors and managers to make informed decisions.
+In asset management and [algorithmic trading](/wiki/algorithmic-trading), risk management is critical, and financial metrics play a key role in evaluating and mitigating potential risks. Understanding liquidity ratios, such as the current ratio, quick ratio, and cash ratio, is essential for assessing a company's short-term financial health and its ability to meet current liabilities. These ratios are crucial indicators of a company's financial standing, enabling investors and managers to make informed decisions.
 
 ### Liquidity Ratios:
 

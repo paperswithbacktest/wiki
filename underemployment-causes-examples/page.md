@@ -112,7 +112,7 @@ $$
 
 When this value exceeds 0.5 percentage points, it signals a recession. Academic papers analyzing the effectiveness of the Sahm Rule in real-world economic predictions can provide detailed insights into its practical applications.
 
-Algorithmic trading strategies also warrant a thorough examination. Books such as *"Algorithmic Trading and DMA: An introduction to direct access trading strategies"* by Barry Johnson could be valuable. This resource covers the mathematical foundations of algorithmic trading, different strategies implemented, and the role of economic indicators in decision-making.
+Algorithmic trading strategies also warrant a thorough examination. Books such as *"Algorithmic Trading and DMA: An introduction to direct access trading strategies"* by Barry Johnson could be valuable. This resource covers the mathematical foundations of [algorithmic trading](/wiki/algorithmic-trading), different strategies implemented, and the role of economic indicators in decision-making.
 
 Courses related to economic indicators provide foundational knowledge necessary for understanding market movements. Online platforms like Coursera and edX offer courses that break down complex economic concepts and their implications for trading strategies.
 

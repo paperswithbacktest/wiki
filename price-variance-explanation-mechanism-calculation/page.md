@@ -84,7 +84,7 @@ Another way to use statistical tools is by doing something called regression ana
 
 ## What is Understanding Variance in Trading?
 
-Variance is a fundamental statistical measure used to quantify the degree of variation or dispersion within a dataset. In the context of trading, variance is crucial for evaluating the risk and volatility associated with an asset. It provides insight into how much the price of an asset fluctuates over a specified period, thereby influencing trading strategies and decisions.
+Variance is a fundamental statistical measure used to quantify the degree of variation or [dispersion](/wiki/dispersion-trading) within a dataset. In the context of trading, variance is crucial for evaluating the risk and volatility associated with an asset. It provides insight into how much the price of an asset fluctuates over a specified period, thereby influencing trading strategies and decisions.
 
 In mathematical terms, variance ($\sigma^2$) is calculated as the average of the squared differences from the mean. For a dataset consisting of n values, $X_1, X_2, ..., X_n$, with a mean $\mu$, the variance $\sigma^2$ is computed as:
 
@@ -116,7 +116,7 @@ $$
 
 where $N$ is the number of data points, $x_i$ represents each individual price, and $\mu$ is the mean price over the data set. This calculation helps in understanding the extent of deviations from the expected price.
 
-Algorithmic strategies can be fine-tuned by continuously monitoring price variance and adapting trading rules accordingly. Machine learning techniques, including regression models and neural networks, are often employed to predict price movements and adjust trading algorithms dynamically. For example, a machine learning model might be trained on historical price data to recognize patterns and anticipate future variances, allowing for timely strategy adjustments.
+Algorithmic strategies can be fine-tuned by continuously monitoring price variance and adapting trading rules accordingly. Machine learning techniques, including regression models and neural networks, are often employed to predict price movements and adjust trading algorithms dynamically. For example, a [machine learning](/wiki/machine-learning) model might be trained on historical price data to recognize patterns and anticipate future variances, allowing for timely strategy adjustments.
 
 Successful algo traders implement robust monitoring systems to track price variance. They utilize automated alerts to notify them of significant deviations, enabling swift responses. Moreover, advanced algorithms may incorporate real-time data processing to automatically recalibrate strategies when certain price variance thresholds are met. This capability is vital for maintaining competitiveness in fast-moving markets.
 

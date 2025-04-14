@@ -24,7 +24,7 @@ Once beginners pick an indicator, they should practice using it on a demo accoun
 
 The most common types of technical indicators used by traders include moving averages, the Relative Strength Index (RSI), and the Moving Average Convergence Divergence (MACD). Moving averages help traders see the general direction of a stock's price by smoothing out short-term price changes. There are simple moving averages, which calculate the average price over a certain number of days, and exponential moving averages, which give more weight to recent prices. The RSI is another popular indicator that measures the speed and change of price movements, helping traders determine if a stock is overbought or oversold. An RSI value above 70 usually means a stock is overbought and might drop soon, while a value below 30 suggests it's oversold and could rise.
 
-The MACD is a trend-following momentum indicator that shows the relationship between two moving averages of a stock's price. It consists of the MACD line, the signal line, and a histogram that shows the difference between the two lines. When the MACD line crosses above the signal line, it's a bullish signal suggesting that it might be a good time to buy. When it crosses below the signal line, it's a bearish signal, suggesting it might be a good time to sell. These three indicators are widely used because they provide clear signals about potential buying and selling opportunities, helping traders make more informed decisions.
+The MACD is a trend-following [momentum](/wiki/momentum) indicator that shows the relationship between two moving averages of a stock's price. It consists of the MACD line, the signal line, and a histogram that shows the difference between the two lines. When the MACD line crosses above the signal line, it's a bullish signal suggesting that it might be a good time to buy. When it crosses below the signal line, it's a bearish signal, suggesting it might be a good time to sell. These three indicators are widely used because they provide clear signals about potential buying and selling opportunities, helping traders make more informed decisions.
 
 ## Can you explain the difference between leading and lagging indicators?
 
@@ -54,7 +54,7 @@ The histogram part of the MACD shows the difference between the MACD line and th
 
 Bollinger Bands are a tool that traders use to see how much a stock's price is moving around. They are made up of three lines: the middle line is a moving average, usually set at 20 days, and the other two lines are set above and below the middle line. These outer lines are called the upper and lower Bollinger Bands, and they are usually set two standard deviations away from the middle line. When the price of a stock moves a lot, the bands get wider, and when the price doesn't move much, the bands get closer together.
 
-Traders use Bollinger Bands to understand if a stock's price is likely to keep moving in the same direction or if it might change soon. If the price touches the upper band, it might mean the stock is getting too expensive and could go down soon. If the price touches the lower band, it might mean the stock is getting too cheap and could go up soon. The width of the bands also tells traders about the market's volatility. When the bands are wide, it means the market is moving a lot, and when they are narrow, it means the market is calm. By watching how the price moves within the bands, traders can make better guesses about what might happen next.
+Traders use Bollinger Bands to understand if a stock's price is likely to keep moving in the same direction or if it might change soon. If the price touches the upper band, it might mean the stock is getting too expensive and could go down soon. If the price touches the lower band, it might mean the stock is getting too cheap and could go up soon. The width of the bands also tells traders about the market's [volatility](/wiki/volatility-trading-strategies). When the bands are wide, it means the market is moving a lot, and when they are narrow, it means the market is calm. By watching how the price moves within the bands, traders can make better guesses about what might happen next.
 
 ## How can traders combine multiple technical indicators to enhance their trading strategies?
 
@@ -101,7 +101,7 @@ Successful trading strategies align closely with the trader's risk appetite, mar
 
 ## What are the popular technical indicators used in algo trading?
 
-Technical indicators play a critical role in algorithmic trading strategies by providing quantitative tools for analyzing price movements and market trends. Among the most popular indicators are Moving Averages, Relative Strength Index (RSI), MACD, Bollinger Bands, and the Stochastic Oscillator. These indicators help traders automate the detection of trading signals by quantifying various aspects of market dynamics.
+Technical indicators play a critical role in [algorithmic trading](/wiki/algorithmic-trading) strategies by providing quantitative tools for analyzing price movements and market trends. Among the most popular indicators are Moving Averages, Relative Strength Index (RSI), MACD, Bollinger Bands, and the Stochastic Oscillator. These indicators help traders automate the detection of trading signals by quantifying various aspects of market dynamics.
 
 ### Moving Averages
 
@@ -129,7 +129,7 @@ The Moving Average Convergence Divergence (MACD) is another trend-following mome
 
 ### Bollinger Bands
 
-Bollinger Bands consist of a middle SMA and two standard deviation lines — one above and one below. These bands expand and contract in response to market volatility. They are used to identify potential breakout points when prices touch the bands, indicating overbought (upper band) or oversold (lower band) market conditions. The bands are defined as:
+Bollinger Bands consist of a middle SMA and two standard deviation lines — one above and one below. These bands expand and contract in response to market volatility. They are used to identify potential [breakout](/wiki/breakout-trading) points when prices touch the bands, indicating overbought (upper band) or oversold (lower band) market conditions. The bands are defined as:
 
 $$
 \text{Upper Band} = \text{SMA}(n) + m \times \text{SD}(n)

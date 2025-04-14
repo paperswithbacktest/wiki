@@ -18,7 +18,7 @@ It's important to manage uninvested cash because if you leave it sitting around,
 
 One basic type of investment account for uninvested cash is a savings account. This is a safe place to keep your money at a bank or credit union. Savings accounts usually give you a small amount of interest, which means your money can grow a little bit over time. They are good for money you might need soon because you can take it out easily.
 
-Another type is a certificate of deposit, or CD. With a CD, you put your money in for a certain time, like six months or a year. CDs often give you a higher interest rate than a regular savings account, but you can't take your money out until the time is up without paying a fee. This is good if you know you won't need the money for a while.
+Another type is a certificate of deposit, or CD. With a CD, you put your money in for a certain time, like six months or a year. CDs often give you a higher [interest rate](/wiki/interest-rate-trading-strategies) than a regular savings account, but you can't take your money out until the time is up without paying a fee. This is good if you know you won't need the money for a while.
 
 A third option is a money market account. This is like a mix between a savings account and a checking account. Money market accounts usually offer higher interest rates than regular savings accounts and let you write checks or use a debit card. They are good for money you might need soon but still want to earn a bit more interest on.
 
@@ -60,7 +60,7 @@ The good thing about mutual funds is that they can help you make your money grow
 
 ## How can exchange-traded funds (ETFs) be utilized for uninvested cash management?
 
-Exchange-traded funds, or ETFs, are another way to manage your uninvested cash. ETFs are like mutual funds because they hold a bunch of different investments, like stocks or bonds, all in one place. But, ETFs are different because you can buy and sell them on the stock market, just like you would with a single stock. This makes them easy to get into and out of, which can be good if you want to be able to use your money quickly. By putting your uninvested cash into an ETF, you can spread it out over many different investments, which can help it grow without you having to pick each one yourself.
+Exchange-traded funds, or ETFs, are another way to manage your uninvested cash. ETFs are like mutual funds because they hold a bunch of different investments, like stocks or bonds, all in one place. But, ETFs are different because you can buy and sell them on the stock market, just like you would with a single stock. This makes them easy to get into and out of, which can be good if you want to be able to use your money quickly. By putting your uninvested cash into an [ETF](/wiki/etf-trading-strategies), you can spread it out over many different investments, which can help it grow without you having to pick each one yourself.
 
 ETFs can be a smart choice because they often have lower fees than mutual funds. This means more of your money can stay in your pocket instead of going to pay for running the fund. But, just like with stocks and mutual funds, there is some risk. The value of an ETF can go up or down depending on how well the things it holds are doing. So, while ETFs can be a good way to manage your uninvested cash, it's important to think about how much risk you are okay with before you decide to invest in them.
 
@@ -72,7 +72,7 @@ Another strategy is to use a target-date fund. These funds are set up to change 
 
 ## How do robo-advisors manage uninvested cash and what are their advantages?
 
-Robo-advisors are a modern way to manage your uninvested cash. They use computer programs to make decisions about where to put your money. When you give your uninvested cash to a robo-advisor, it will look at things like how much risk you want to take and when you need the money. Then, it will put your money into different investments like stocks, bonds, or ETFs. The robo-advisor will keep an eye on your investments and make changes if it thinks it can do better. This means you don't have to worry about picking each investment yourself, which can be a big help if you're not sure where to start.
+Robo-advisors are a modern way to manage your uninvested cash. They use computer programs to make decisions about where to put your money. When you give your uninvested cash to a robo-advisor, it will look at things like how much risk you want to take and when you need the money. Then, it will put your money into different investments like stocks, bonds, or ETFs. The robo-advisor will keep an eye on your investments and make changes if it thinks it can do better. This means you don't have to worry about [picking](/wiki/asset-class-picking) each investment yourself, which can be a big help if you're not sure where to start.
 
 One big advantage of using a robo-advisor is that it's usually cheaper than hiring a person to manage your money. Robo-advisors often charge lower fees because they use computers instead of people to do the work. Another advantage is that they make investing easy. You just answer a few questions about your goals and how much risk you're okay with, and the robo-advisor does the rest. This can be a good way to manage your uninvested cash if you want to grow your money but don't want to spend a lot of time or money on it.
 

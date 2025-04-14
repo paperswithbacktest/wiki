@@ -46,7 +46,7 @@ As people get closer to retirement, the indexes start to include more companies 
 
 ## What are the benefits of investing in Zacks Lifecycle Indexes?
 
-Investing in Zacks Lifecycle Indexes can make planning for retirement easier. These indexes change the mix of investments like stocks and bonds based on how old you are and when you plan to retire. When you're young and far from retirement, the indexes have more stocks. Stocks can grow a lot, which helps you build your savings over time. You don't have to worry about picking the right stocks yourself because Zacks does the work for you.
+Investing in Zacks Lifecycle Indexes can make planning for retirement easier. These indexes change the mix of investments like stocks and bonds based on how old you are and when you plan to retire. When you're young and far from retirement, the indexes have more stocks. Stocks can grow a lot, which helps you build your savings over time. You don't have to worry about [picking](/wiki/asset-class-picking) the right stocks yourself because Zacks does the work for you.
 
 As you get closer to retirement, the indexes start to have more bonds. Bonds are safer than stocks but don't grow as much. This change helps protect the money you've saved so you can use it when you retire. By using Zacks Lifecycle Indexes, you don't have to keep changing your investments yourself. The indexes do it automatically, making it simpler to have a plan that fits your age and retirement goals.
 

@@ -18,7 +18,7 @@ The big difference between Bitcoin Gold and Bitcoin is how they are mined. Bitco
 
 Bitcoin Gold is given to people in a few ways. One way is through mining. When someone uses their computer to solve math problems for the Bitcoin Gold network, they get new Bitcoin Gold coins as a reward. This is how new coins are made and shared with people. Another way is through buying it. People can trade other cryptocurrencies or regular money for Bitcoin Gold on special websites called exchanges.
 
-After Bitcoin Gold was created, the people who already had Bitcoin got some Bitcoin Gold for free. This was done to make sure that the new cryptocurrency was spread out among many people right from the start. They looked at who had Bitcoin on a certain day and gave them the same amount in Bitcoin Gold. This is called a snapshot and airdrop. So, if you had Bitcoin before Bitcoin Gold was made, you got some Bitcoin Gold without doing anything extra.
+After Bitcoin Gold was created, the people who already had Bitcoin got some Bitcoin Gold for free. This was done to make sure that the new [cryptocurrency](/wiki/cryptocurrency) was spread out among many people right from the start. They looked at who had Bitcoin on a certain day and gave them the same amount in Bitcoin Gold. This is called a snapshot and airdrop. So, if you had Bitcoin before Bitcoin Gold was made, you got some Bitcoin Gold without doing anything extra.
 
 ## What is the total supply of Bitcoin Gold and how is it managed?
 

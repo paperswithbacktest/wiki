@@ -78,7 +78,7 @@ But digital certificates have also changed how we think about owning shares. The
 
 When dealing with share certificates across different countries, it's important to know about the laws in each place. Each country has its own rules about owning and transferring shares. For example, some countries might have special taxes or fees when you buy or sell shares. You also need to make sure the share certificates are legal in both the country where the company is based and the country where you live. If you don't follow these rules, you could face fines or other legal problems.
 
-Another thing to think about is how to transfer share certificates between countries. You might need to work with banks or special companies called transfer agents that know the rules in both countries. Sometimes, you'll need to fill out extra forms or get special approvals to move shares across borders. It's a good idea to talk to a lawyer who knows about international laws to make sure everything is done right. This can help you avoid any surprises and keep your investments safe.
+Another thing to think about is how to transfer share certificates between countries. You might need to work with banks or special companies called transfer [agents](/wiki/agents) that know the rules in both countries. Sometimes, you'll need to fill out extra forms or get special approvals to move shares across borders. It's a good idea to talk to a lawyer who knows about international laws to make sure everything is done right. This can help you avoid any surprises and keep your investments safe.
 
 ## References & Further Reading
 

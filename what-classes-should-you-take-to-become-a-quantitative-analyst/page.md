@@ -18,7 +18,7 @@ In simple terms, quants are like the brains behind many financial decisions. The
 
 ## What are the basic educational requirements to become a quantitative analyst?
 
-To become a quantitative analyst, you usually need a strong background in math, statistics, and computer science. Most quants have at least a bachelor's degree in one of these fields. Some common majors include mathematics, statistics, physics, engineering, or computer science. It's important to have a solid understanding of calculus, linear algebra, and probability theory because these are the building blocks of the models quants create.
+To become a quantitative analyst, you usually need a strong background in math, [statistics](/wiki/bayesian-statistics), and computer science. Most quants have at least a bachelor's degree in one of these fields. Some common majors include mathematics, statistics, physics, engineering, or computer science. It's important to have a solid understanding of calculus, linear algebra, and probability theory because these are the building blocks of the models quants create.
 
 Many employers prefer candidates with advanced degrees, like a master's or a Ph.D. A master's degree in financial engineering, quantitative finance, or a related field can be very helpful. These programs often teach you how to apply math and computer skills directly to financial problems. A Ph.D. can give you an even deeper understanding and may be required for more advanced or research-focused positions.
 
@@ -42,7 +42,7 @@ To become a good quantitative analyst, you need to learn how to program. You sho
 
 Besides learning to program, you should also take courses on data structures and algorithms. Data structures help you organize and store data in a way that's easy to use. Algorithms are like recipes that tell the computer how to solve problems. These courses will teach you how to make your programs run faster and use less memory. This is important because financial models often need to process a lot of data quickly.
 
-It's also a good idea to take a course on databases. Databases help you store and manage large amounts of data, which is something quants do a lot. Learning about databases will help you work with the big datasets that are common in finance. Overall, these computer science and programming courses will give you the skills you need to succeed as a quantitative analyst.
+It's also a good idea to take a [course](/wiki/best-algorithmic-trading-courses) on databases. Databases help you store and manage large amounts of data, which is something quants do a lot. Learning about databases will help you work with the big datasets that are common in finance. Overall, these computer science and programming courses will give you the skills you need to succeed as a quantitative analyst.
 
 ## How important is statistics in the field of quantitative analysis, and which courses should I focus on?
 
@@ -66,7 +66,7 @@ For financial markets, a good course to take is "Introduction to Financial Marke
 
 ## What role does machine learning play in quantitative analysis, and what courses should I take to learn it?
 
-Machine learning is becoming more and more important in quantitative analysis. It helps quants make better predictions by finding patterns in big sets of data. For example, machine learning can help predict stock prices or find the best way to invest money. It's like teaching a computer to learn from past data and make smart guesses about the future. This can make financial models more accurate and help quants make better decisions.
+Machine learning is becoming more and more important in quantitative analysis. It helps quants make better predictions by finding patterns in big sets of data. For example, [machine learning](/wiki/machine-learning) can help predict stock prices or find the best way to invest money. It's like teaching a computer to learn from past data and make smart guesses about the future. This can make financial models more accurate and help quants make better decisions.
 
 To learn machine learning, you should start with a course called "Introduction to Machine Learning." This will teach you the basics, like how to use algorithms to find patterns in data. After that, you can take "Machine Learning for Finance." This course will show you how to use machine learning in the world of finance. It's good to also learn about "Deep Learning," which is a type of machine learning that can handle even more complex problems. These courses will give you the skills you need to use machine learning in your work as a quantitative analyst.
 

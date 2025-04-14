@@ -30,7 +30,7 @@ Investors use book value to decide if a company is a good investment. If the boo
 
 A reduction in book value can happen for several reasons. One common reason is when a company has to write down the value of its assets. This can happen if the assets, like buildings or machinery, become less valuable over time or if they are damaged. Another reason is when a company takes on more debt. If a company borrows more money or its bills go up, the amount it owes increases, which can lower the book value.
 
-Another reason for a reduction in book value is when a company sells off some of its assets. If the company sells these assets for less than what they were worth on the books, the book value goes down. This can happen if the company needs quick cash or wants to get rid of assets that are not being used. Finally, losses from operations can also cause a drop in book value. If a company is not making enough money to cover its costs, it can end up with a lower book value because its net worth decreases.
+Another reason for a reduction in book value is when a company sells off some of its assets. If the company sells these assets for less than what they were worth on the [books](/wiki/algo-trading-books), the book value goes down. This can happen if the company needs quick cash or wants to get rid of assets that are not being used. Finally, losses from operations can also cause a drop in book value. If a company is not making enough money to cover its costs, it can end up with a lower book value because its net worth decreases.
 
 ## How is book value calculated?
 

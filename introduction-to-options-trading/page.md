@@ -50,7 +50,7 @@ There are also other things that can change the price of an option. Interest rat
 
 Option Greeks are special tools that help traders understand how the price of an option might change. They are called Greeks because they use Greek letters like Delta, Gamma, Theta, Vega, and Rho. Each Greek tells you something different about what can affect the option's price. Delta, for example, tells you how much the option's price will change if the price of the stock goes up or down by one dollar. Gamma tells you how Delta itself will change as the stock price changes. These Greeks help traders make better decisions by showing them the risks and possible rewards of their options.
 
-Theta is another important Greek that shows how the option's price changes as time goes by. Options lose value as they get closer to their expiration date, and Theta helps you understand how fast this happens. Vega tells you how the option's price will change with changes in the stock's volatility. If the stock price starts moving around a lot more, Vega can show you how that might affect your option. Lastly, Rho tells you how changes in interest rates might affect the option's price. By using all these Greeks together, traders can get a full picture of what might happen to their options and plan their trades more carefully.
+Theta is another important Greek that shows how the option's price changes as time goes by. Options lose value as they get closer to their expiration date, and Theta helps you understand how fast this happens. Vega tells you how the option's price will change with changes in the stock's [volatility](/wiki/volatility-trading-strategies). If the stock price starts moving around a lot more, Vega can show you how that might affect your option. Lastly, Rho tells you how changes in interest rates might affect the option's price. By using all these Greeks together, traders can get a full picture of what might happen to their options and plan their trades more carefully.
 
 ## What are the different options trading strategies for beginners?
 
@@ -84,7 +84,7 @@ Another big mistake is not managing risk properly. Options can be risky, and if 
 
 ## What are the key aspects of risk management in derivatives and algo trading?
 
-Risk management is an integral component of trading financial derivatives and executing algorithmic trading strategies. The inherent volatility and the leverage involved in derivatives trading amplify potential gains but also increase the risk of significant losses. Thus, effective risk management practices are essential for sustained success and financial stability.
+Risk management is an integral component of trading financial derivatives and executing [algorithmic trading](/wiki/algorithmic-trading) strategies. The inherent volatility and the leverage involved in derivatives trading amplify potential gains but also increase the risk of significant losses. Thus, effective risk management practices are essential for sustained success and financial stability.
 
 Position sizing and stop-loss orders are fundamental risk management techniques. Position sizing involves determining the appropriate amount of capital to invest in a particular trade. This decision is influenced by factors such as account size, risk tolerance, and the volatility of the asset being traded. A common formula used for position sizing is the Kelly Criterion, which calculates the optimal fraction of capital to bet on a single trade to maximize logarithmic wealth:
 
@@ -100,7 +100,7 @@ where:
 
 Stop-loss orders, on the other hand, are designed to limit potential losses by automatically closing a trade when the market price reaches a predetermined level. This ensures that traders can cap their potential losses irrespective of human emotions that might otherwise encourage them to hold onto losing positions.
 
-In algorithmic trading, technology plays a critical role in mitigating risks through automation and precision execution. Algorithms can be programmed to incorporate risk management rules such as maximum drawdowns, portfolio diversification, and volatility metrics. By using machine learning models, algorithms can also adapt to changing market conditions, thereby enhancing risk prediction capabilities.
+In algorithmic trading, technology plays a critical role in mitigating risks through automation and precision execution. Algorithms can be programmed to incorporate risk management rules such as maximum drawdowns, portfolio diversification, and volatility metrics. By using [machine learning](/wiki/machine-learning) models, algorithms can also adapt to changing market conditions, thereby enhancing risk prediction capabilities.
 
 However, despite technological advancements, algorithmic trading is not immune to risk management failures. Case studies in this area highlight lessons learned from significant events. For instance, the "Flash Crash" of May 6, 2010, when the Dow Jones Industrial Average plummeted nearly 1,000 points within minutes, underscored the vulnerabilities of algorithmic trading systems. It revealed how high-frequency trading algorithms, lacking proper risk controls, could exacerbate market volatility. Following investigations, recommendations included the implementation of circuit breakers—halts in trading triggered when a stock or index moves beyond set thresholds.
 

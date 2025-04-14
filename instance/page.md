@@ -21,7 +21,7 @@ When you want to train a machine learning model, you show it many instances from
 
 ## Can you explain the difference between an instance and a feature in machine learning?
 
-In machine learning, an instance is like one example or one data point from your dataset. Imagine you're trying to teach a computer to guess how much a house costs. Each house you show the computer is an instance. So, if you have data on 1000 houses, you have 1000 instances. Each instance is a complete set of information about one specific house.
+In [machine learning](/wiki/machine-learning), an instance is like one example or one data point from your dataset. Imagine you're trying to teach a computer to guess how much a house costs. Each house you show the computer is an instance. So, if you have data on 1000 houses, you have 1000 instances. Each instance is a complete set of information about one specific house.
 
 A feature, on the other hand, is one piece of information about an instance. Going back to the house example, features could be things like the size of the house, the number of bedrooms, or the location. If you have data on 1000 houses, and each house has information about its size, then you have 1000 values for the 'size' feature, one for each instance. Features help the computer understand what makes each instance unique and how to make predictions based on those characteristics.
 
@@ -39,7 +39,7 @@ For example, if you're trying to group customers based on how they shop, each cu
 
 ## What is the importance of instance selection in machine learning?
 
-Instance selection is really important in machine learning because it helps make sure the computer learns the right things. When you're teaching a computer, you want to show it examples that are good and useful. If you show it too many examples that are similar or not very helpful, the computer might get confused or take a long time to learn. By picking the right instances, you can help the computer learn faster and make better guesses when it sees new things.
+Instance selection is really important in machine learning because it helps make sure the computer learns the right things. When you're teaching a computer, you want to show it examples that are good and useful. If you show it too many examples that are similar or not very helpful, the computer might get confused or take a long time to learn. By [picking](/wiki/asset-class-picking) the right instances, you can help the computer learn faster and make better guesses when it sees new things.
 
 For example, if you're trying to teach a computer to tell the difference between cats and dogs, you want to show it pictures that clearly show what makes a cat a cat and a dog a dog. If you show it too many pictures of cats that look a lot like dogs, the computer might get mixed up. By choosing instances that are different and show clear examples of what you're trying to teach, you help the computer understand better and make more accurate predictions.
 

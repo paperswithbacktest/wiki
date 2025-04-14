@@ -18,7 +18,7 @@ In 2013, SAC Capital Advisors got into big trouble because some of its workers w
 
 SAC Capital Advisors was founded by Steven A. Cohen. He started the company in 1992. Steven A. Cohen is a well-known investor who wanted to create a successful investment firm.
 
-The company was based in Stamford, Connecticut. It grew to be a very big and successful hedge fund. Many people worked there, and it made a lot of money by trading stocks and other investments.
+The company was based in Stamford, Connecticut. It grew to be a very big and successful [hedge fund](/wiki/hedge-fund-trading-strategies). Many people worked there, and it made a lot of money by trading stocks and other investments.
 
 ## What type of investment firm is SAC Capital Advisors?
 

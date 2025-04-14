@@ -78,7 +78,7 @@ Another way Paloma Partners manages risk is by spreading out their investments. 
 
 ## What future trends might impact Paloma Partners' strategy?
 
-One future trend that could impact Paloma Partners' strategy is the growth of technology. More and more companies are using computers and artificial intelligence to make investment choices. This could mean that Paloma Partners will need to keep up with new technology to stay ahead. They might need to use even more advanced math and data analysis to pick the best investments. This could help them make better choices and keep their clients happy.
+One future trend that could impact Paloma Partners' strategy is the growth of technology. More and more companies are using computers and [artificial intelligence](/wiki/ai-artificial-intelligence) to make investment choices. This could mean that Paloma Partners will need to keep up with new technology to stay ahead. They might need to use even more advanced math and data analysis to pick the best investments. This could help them make better choices and keep their clients happy.
 
 Another trend that might affect Paloma Partners is changes in the economy. Things like interest rates, inflation, and big events like pandemics can change how the market works. Paloma Partners will need to watch these trends closely and adjust their investments to deal with them. For example, if interest rates go up, they might need to put more money into bonds. By staying on top of these economic changes, Paloma Partners can keep making smart choices and help their clients' money grow over time.
 

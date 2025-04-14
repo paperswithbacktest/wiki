@@ -28,7 +28,7 @@ Keeping public places clean also means fewer chances for diseases to spread. If 
 
 ## What are the basic tools needed for 'Poop and Scoop'?
 
-The basic tools for 'Poop and Scoop' are simple and easy to use. You need plastic bags or a scooper to pick up the poop. Plastic bags are easy to carry with you when you walk your dog. You can use any plastic bag, like a grocery bag, or special dog poop bags you can buy at a store. A scooper is a tool that helps you pick up the poop without touching it. It's good for bigger dogs or if you have a yard.
+The basic tools for 'Poop and Scoop' are simple and easy to use. You need plastic bags or a scooper to pick up the poop. Plastic bags are easy to [carry](/wiki/carry-trading) with you when you walk your dog. You can use any plastic bag, like a grocery bag, or special dog poop bags you can buy at a store. A scooper is a tool that helps you pick up the poop without touching it. It's good for bigger dogs or if you have a yard.
 
 Having these tools helps you keep public places clean. Always carry a few plastic bags with you when you walk your dog. If you use a scooper, make sure to have a bag to put the poop in after you scoop it. Then, throw the bag away in a trash can. This way, you help keep your community clean and healthy.
 
@@ -40,7 +40,7 @@ Next, find a trash can to throw the bag away. Don't leave the bag on the ground 
 
 ## What are some common mistakes to avoid when using the 'Poop and Scoop' method?
 
-One common mistake people make when using the 'Poop and Scoop' method is not picking up all the poop. Sometimes, they might leave a little bit behind because they think it's too small to matter. But even a little bit can still have germs that can make people sick. So, it's important to get every bit of the poop to keep the area clean.
+One common mistake people make when using the 'Poop and Scoop' method is not [picking](/wiki/asset-class-picking) up all the poop. Sometimes, they might leave a little bit behind because they think it's too small to matter. But even a little bit can still have germs that can make people sick. So, it's important to get every bit of the poop to keep the area clean.
 
 Another mistake is not tying the bag properly after scooping the poop. If the bag isn't tied well, the poop can fall out and make a mess. Always make sure the bag is tightly closed before you throw it away. Also, some people might leave the bag on the ground instead of putting it in a trash can. This doesn't help keep the area clean and can still cause problems. Always find a trash can to throw the bag away in.
 

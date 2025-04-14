@@ -22,7 +22,7 @@ To make the calculation fair, the DAX Index also considers the dividends that co
 
 ## What are the criteria for a company to be included in the DAX?
 
-To be included in the DAX Index, a company must meet certain criteria. The main one is that it must be among the 40 largest companies listed on the Frankfurt Stock Exchange. This is measured by the total value of all its shares, which is called market capitalization. Also, the company must have a lot of shares being bought and sold every day, which is known as high trading volume. This makes sure that the companies in the DAX are big and important in the German economy.
+To be included in the DAX Index, a company must meet certain criteria. The main one is that it must be among the 40 largest companies listed on the Frankfurt Stock Exchange. This is measured by the total value of all its shares, which is called market capitalization. Also, the company must have a lot of shares being bought and sold every day, which is known as high trading [volume](/wiki/volume-trading-strategy). This makes sure that the companies in the DAX are big and important in the German economy.
 
 Another important rule is that the company must be based in Germany. This means it has to be registered in Germany and do most of its business there. The company also has to follow all the rules set by the Frankfurt Stock Exchange and report its financial information regularly. This helps keep the DAX a reliable measure of the German stock market.
 
@@ -64,7 +64,7 @@ Changes in the companies can also shake things up a bit. When a company leaves t
 
 ## What are some strategies for investing in the DAX Index?
 
-One way to invest in the DAX Index is by buying an exchange-traded fund (ETF) that tracks the DAX. An ETF is like a basket of stocks that you can buy and sell easily. When you buy a DAX ETF, you're investing in all the companies in the DAX at once. This can be a good way to spread out your risk because if one company does badly, the others might do well and balance it out. It's also a simple way to invest because you don't have to pick individual stocks yourself.
+One way to invest in the DAX Index is by buying an exchange-traded fund ([ETF](/wiki/etf-trading-strategies)) that tracks the DAX. An ETF is like a basket of stocks that you can buy and sell easily. When you buy a DAX ETF, you're investing in all the companies in the DAX at once. This can be a good way to spread out your risk because if one company does badly, the others might do well and balance it out. It's also a simple way to invest because you don't have to pick individual stocks yourself.
 
 Another strategy is to buy stocks of the individual companies in the DAX. This can be more risky because if you pick a company that doesn't do well, your investment might go down a lot. But it can also be more rewarding if you pick a company that does really well. You'll need to do more research to figure out which companies are good investments. Some people like to look at things like how much profit a company makes, how fast it's growing, and what its future plans are.
 
@@ -102,7 +102,7 @@ In summary, an understanding of the DAX index extends beyond a mere list of comp
 
 ## What is Backtesting and Optimization in Algorithmic Trading?
 
-Backtesting in algorithmic trading involves analyzing historical market data to assess the performance of a trading strategy. This process is vital for understanding how a strategy might have performed in the past under various market conditions. By simulating trades on historical data, traders can gain insights into the potential profitability and risks of a strategy before deploying it in live markets. In this context, [backtesting](/wiki/backtesting) also provides a platform for learning and refining trading strategies without the financial risk of real-world losses.
+Backtesting in [algorithmic trading](/wiki/algorithmic-trading) involves analyzing historical market data to assess the performance of a trading strategy. This process is vital for understanding how a strategy might have performed in the past under various market conditions. By simulating trades on historical data, traders can gain insights into the potential profitability and risks of a strategy before deploying it in live markets. In this context, [backtesting](/wiki/backtesting) also provides a platform for learning and refining trading strategies without the financial risk of real-world losses.
 
 To conduct a thorough backtest, traders gather substantial historical datasets, ensuring the data reflects real market conditions and includes potential outliers and anomalies. The next step involves applying the trading strategy to this dataset and calculating relevant metrics. Two of the most common metrics used to evaluate strategy effectiveness are the total return and the Sharpe ratio. The total return measures the overall profitability, while the Sharpe ratio evaluates the risk-adjusted return:
 

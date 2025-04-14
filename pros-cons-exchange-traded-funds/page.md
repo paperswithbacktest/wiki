@@ -18,7 +18,7 @@ ETFs are popular because they offer a way to diversify your investments easily a
 
 ETFs and mutual funds are both ways to invest in a bunch of different things at once, but they work a bit differently. ETFs are traded on stock exchanges, just like stocks. This means you can buy and sell them anytime during the trading day at the current market price. Mutual funds, on the other hand, are bought and sold at the end of the trading day at a price that's calculated once, based on the total value of all the investments in the fund.
 
-Another big difference is how they're managed and what they cost. ETFs usually track an index, like the S&P 500, and they often have lower fees because they're not actively managed. Mutual funds can be actively managed, which means someone is picking and choosing what goes into the fund to try to beat the market. This active management can lead to higher fees for mutual funds. So, if you're looking for a cheaper, more hands-off way to invest, ETFs might be the way to go, but if you want someone to actively manage your investments, you might prefer a mutual fund.
+Another big difference is how they're managed and what they cost. ETFs usually track an index, like the S&P 500, and they often have lower fees because they're not actively managed. Mutual funds can be actively managed, which means someone is [picking](/wiki/asset-class-picking) and choosing what goes into the fund to try to beat the market. This active management can lead to higher fees for mutual funds. So, if you're looking for a cheaper, more hands-off way to invest, ETFs might be the way to go, but if you want someone to actively manage your investments, you might prefer a mutual fund.
 
 ## What are the main advantages of investing in ETFs for beginners?
 
@@ -28,7 +28,7 @@ Another big plus for beginners is that ETFs usually have lower fees than other t
 
 ## Can you explain the concept of liquidity in relation to ETFs?
 
-Liquidity is how easy it is to buy or sell something without affecting its price too much. For ETFs, liquidity is important because it means you can quickly turn your investment into cash if you need to. ETFs are usually very liquid because they trade on stock exchanges, just like stocks. This means you can buy or sell them anytime during the trading day at the current market price. The more people who want to buy and sell an ETF, the more liquid it is.
+Liquidity is how easy it is to buy or sell something without affecting its price too much. For ETFs, [liquidity](/wiki/liquidity-risk-premium) is important because it means you can quickly turn your investment into cash if you need to. ETFs are usually very liquid because they trade on stock exchanges, just like stocks. This means you can buy or sell them anytime during the trading day at the current market price. The more people who want to buy and sell an [ETF](/wiki/etf-trading-strategies), the more liquid it is.
 
 The liquidity of an ETF can also depend on the liquidity of the assets it holds. If an ETF tracks a very popular index like the S&P 500, it's likely to be more liquid because there are lots of buyers and sellers for those stocks. On the other hand, if an ETF holds less common or harder-to-sell assets, it might be less liquid. So, when you're choosing an ETF, it's a good idea to think about how easy it will be to buy and sell it when you need to.
 

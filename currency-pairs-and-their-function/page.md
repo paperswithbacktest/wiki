@@ -28,7 +28,7 @@ The quote currency is the second currency in the pair. It's the currency that is
 
 ## Why are currency pairs important in forex trading?
 
-Currency pairs are important in forex trading because they help traders know how much one country's money is worth compared to another country's money. When you trade in the forex market, you are always trading one currency for another. So, currency pairs show you the price at which you can buy or sell one currency using another. For example, if you want to trade US Dollars for Euros, the USD/EUR pair tells you how many Euros you get for each US Dollar.
+Currency pairs are important in [forex](/wiki/forex-system) trading because they help traders know how much one country's money is worth compared to another country's money. When you trade in the forex market, you are always trading one currency for another. So, currency pairs show you the price at which you can buy or sell one currency using another. For example, if you want to trade US Dollars for Euros, the USD/EUR pair tells you how many Euros you get for each US Dollar.
 
 Understanding currency pairs is key for making good trading decisions. Traders look at the price changes in currency pairs to decide when to buy or sell. If they think the price of a currency pair will go up, they might buy it, hoping to sell it later for more money. If they think the price will go down, they might sell it, hoping to buy it back later for less money. This way, currency pairs help traders make money by guessing how the value of different currencies will change.
 
@@ -50,7 +50,7 @@ Major currency pairs are the most traded ones in the forex market. They always i
 
 Minor currency pairs, also called cross currency pairs, don't include the US Dollar. They are made up of other big currencies like EUR/GBP, EUR/JPY, and GBP/JPY. These pairs are not traded as much as the major pairs, but they are still important. People trade them to take advantage of changes in the value of these currencies without involving the US Dollar directly.
 
-Exotic currency pairs include one major currency and one from a smaller or less developed economy, like USD/TRY (US Dollar vs. Turkish Lira) or EUR/SEK (Euro vs. Swedish Krona). These pairs are not traded as often because they can be riskier and have less liquidity. The exchange rates for exotic pairs can change a lot, which can make them more unpredictable but also more interesting for some traders looking for big opportunities.
+Exotic currency pairs include one major currency and one from a smaller or less developed economy, like USD/TRY (US Dollar vs. Turkish Lira) or EUR/SEK (Euro vs. Swedish Krona). These pairs are not traded as often because they can be riskier and have less [liquidity](/wiki/liquidity-risk-premium). The exchange rates for exotic pairs can change a lot, which can make them more unpredictable but also more interesting for some traders looking for big opportunities.
 
 ## How do geopolitical events influence currency pair values?
 

@@ -86,7 +86,7 @@ Another way accounting policies can affect comparability is how companies recogn
 
 ## What is the importance of accounts receivable in balance sheets?
 
-Accounts receivable (AR) are a critical component of balance sheets, offering insights into a company's future cash inflows and financial practices. They illustrate the amount of money owed to a company by its customers for goods or services delivered on credit. High levels of accounts receivable on a balance sheet often signal potential future cash inflows, as these receivables are expected to be converted into cash once collected. However, excessive AR must be consistently monitored to ensure they do not indicate potential liquidity issues due to delayed payments or poor credit management.
+Accounts receivable (AR) are a critical component of balance sheets, offering insights into a company's future cash inflows and financial practices. They illustrate the amount of money owed to a company by its customers for goods or services delivered on credit. High levels of accounts receivable on a balance sheet often signal potential future cash inflows, as these receivables are expected to be converted into cash once collected. However, excessive AR must be consistently monitored to ensure they do not indicate potential [liquidity](/wiki/liquidity-risk-premium) issues due to delayed payments or poor credit management.
 
 Investors should pay particular attention to the levels of AR relative to cash. A high AR with low cash reserves may suggest that a company is overly reliant on credit sales and may face cash flow problems if collection periods extend. By analyzing this ratio, potential and existing investors can discern a company's financial health and operational efficiency.
 

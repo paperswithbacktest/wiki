@@ -103,7 +103,7 @@ where $\sigma^2_p$ is the variance of the portfolio, $w_i$ and $w_j$ are the wei
 
 ## What is the financial risk in algo trading?
 
-Financial risk in algorithmic trading is primarily associated with potential losses resulting from excessive leverage or mismanagement of capital. Leverage is a financial strategy that involves borrowing funds to increase potential returns on investment. While it can magnify profits, it also significantly amplifies losses, posing a substantial risk to traders using algorithmic systems. High leverage means that a small adverse price move can lead to substantial losses, potentially making it difficult for traders to meet margin requirements, thus increasing the risk of insolvency.
+Financial risk in [algorithmic trading](/wiki/algorithmic-trading) is primarily associated with potential losses resulting from excessive leverage or mismanagement of capital. Leverage is a financial strategy that involves borrowing funds to increase potential returns on investment. While it can magnify profits, it also significantly amplifies losses, posing a substantial risk to traders using algorithmic systems. High leverage means that a small adverse price move can lead to substantial losses, potentially making it difficult for traders to meet margin requirements, thus increasing the risk of insolvency.
 
 To mitigate financial risk, traders should closely monitor their debt/equity ratios. The debt/equity ratio is a critical financial metric that compares a company's total liabilities to its shareholder equity. It provides insights into the financial leverage a firm is utilizing:
 
@@ -113,7 +113,7 @@ $$
 
 A high debt/equity ratio might indicate that a company is aggressively funding its growth with debt, which can lead to increased financial risk if not managed carefully. Maintaining a balanced approach to financing, integrating both debt and equity, is essential in managing financial risk and sustaining long-term profitability.
 
-Furthermore, regular evaluation of leverage policies and maintaining a prudent risk management strategy are essential. Periodic stress testing of trading algorithms can help assess the impact of market volatility under various scenarios. This proactive assessment allows traders to adjust their strategies before encountering adverse market conditions, thereby minimizing financial risk.
+Furthermore, regular evaluation of leverage policies and maintaining a prudent risk management strategy are essential. Periodic stress testing of trading algorithms can help assess the impact of market [volatility](/wiki/volatility-trading-strategies) under various scenarios. This proactive assessment allows traders to adjust their strategies before encountering adverse market conditions, thereby minimizing financial risk.
 
 In addition, employing algorithms that dynamically adjust leverage based on prevailing market conditions can be beneficial. For instance, using Python, traders can programmatically monitor and adjust leverage levels:
 

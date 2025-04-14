@@ -26,7 +26,7 @@ In short, if you want a quick snapshot of your yearly earnings from a bond, you 
 
 The formula for calculating current yield is very straightforward. You just take the annual interest payment that the bond gives you and divide it by the current market price of the bond. Then, you multiply the result by 100 to turn it into a percentage. So, if a bond pays $50 every year and its current price is $1,000, the current yield would be ($50 / $1,000) * 100 = 5%.
 
-This calculation helps you understand how much money you're earning from the bond each year compared to what you paid for it. It's a useful way to quickly see the return on your investment right now. But remember, current yield doesn't tell you about any changes in the bond's price over time or what you'll get when the bond matures.
+This calculation helps you understand how much money you're [earning](/wiki/earning-announcement) from the bond each year compared to what you paid for it. It's a useful way to quickly see the return on your investment right now. But remember, current yield doesn't tell you about any changes in the bond's price over time or what you'll get when the bond matures.
 
 ## What types of investments typically use current yield as a performance metric?
 
@@ -62,7 +62,7 @@ It's also important to use current yield along with other measures like yield to
 
 The current yield of a bond can change over time because of changes in the bond's market price. If the price of the bond goes up, the current yield goes down. This is because you're dividing the same yearly interest payment by a bigger number. On the other hand, if the bond's price goes down, the current yield goes up because you're dividing the same interest payment by a smaller number. So, the market price is a big reason why the current yield might change.
 
-Another reason the current yield can change is because of changes in interest rates. When interest rates go up, new bonds are issued with higher interest payments. This makes older bonds with lower interest payments less attractive, so their prices might go down. When the price of a bond goes down, the current yield goes up. The opposite happens when interest rates go down. New bonds have lower interest payments, making older bonds with higher interest payments more attractive, so their prices might go up and the current yield goes down. So, interest rates are another important factor that can affect the current yield of a bond.
+Another reason the current yield can change is because of changes in interest rates. When interest rates go up, new bonds are issued with higher interest payments. This makes older bonds with lower interest payments less attractive, so their prices might go down. When the price of a bond goes down, the current yield goes up. The opposite happens when interest rates go down. New bonds have lower interest payments, making older bonds with higher interest payments more attractive, so their prices might go up and the current yield goes down. So, interest rates are another important [factor](/wiki/factor-investing) that can affect the current yield of a bond.
 
 ## How do interest rate changes impact the current yield of fixed income securities?
 
@@ -170,5 +170,5 @@ Fabozzi, F. J., et al. *Bond Markets, Analysis, and Strategies* offers a compreh
 
 Brandt, M. W. *Portfolio Choice Problems* investigates into the complexities of portfolio management, offering a detailed examination of various investment return measures and strategies for optimizing portfolio performance. This book provides a solid foundation for investors seeking to understand risk-adjusted returns and the importance of strategic decision-making in aligning investment strategies with financial objectives.
 
-Kissell, R. *The Science of Algorithmic Trading and Portfolio Management* explores the technological advancements driving algorithmic trading, including the role of artificial intelligence and machine learning in enhancing trade execution and market efficiency. This text is crucial for comprehending how automated trading strategies can be integrated with yield calculations to improve investment performance and navigate the challenges of market volatility.
+Kissell, R. *The Science of Algorithmic Trading and Portfolio Management* explores the technological advancements driving [algorithmic trading](/wiki/algorithmic-trading), including the role of [artificial intelligence](/wiki/ai-artificial-intelligence) and [machine learning](/wiki/machine-learning) in enhancing trade execution and market efficiency. This text is crucial for comprehending how automated trading strategies can be integrated with yield calculations to improve investment performance and navigate the challenges of market [volatility](/wiki/volatility-trading-strategies).
 

@@ -24,7 +24,7 @@ It's helpful to use a charting tool or software that lets you zoom in on the cha
 
 Tweezer tops and bottoms are important patterns in trend trading because they can signal that the price of a stock or other asset might be about to change direction. A tweezer top happens at the end of an upward trend when two candlesticks have the same high price. This can mean that the price has reached a peak and might start going down. Traders watch for this pattern because it can be a good time to sell their assets before the price drops.
 
-On the other hand, a tweezer bottom appears at the end of a downward trend when two candlesticks have the same low price. This pattern suggests that the price might have hit its lowest point and could start going up. Traders look for tweezer bottoms as a sign to buy assets, hoping to profit from the expected rise in price. By recognizing these patterns, traders can make better decisions about when to enter or exit the market.
+On the other hand, a tweezer bottom appears at the end of a downward trend when two candlesticks have the same low price. This pattern suggests that the price might have hit its lowest point and could start going up. Traders look for tweezer bottoms as a sign to buy assets, hoping to profit from the expected rise in price. By recognizing these patterns, traders can make better decisions about when to enter or [exit](/wiki/exit-strategy) the market.
 
 ## Can you explain the difference between tweezer tops and tweezer bottoms?
 
@@ -48,7 +48,7 @@ On the other hand, if you see a tweezer bottom at the end of a downward trend, i
 
 Traders can make better decisions by using tweezer patterns along with other technical indicators. For example, if you see a tweezer top at the end of an upward trend, you can look at the Relative Strength Index (RSI) to see if it's overbought. If the RSI is above 70, it means the price might be too high and could go down soon. This can make you more sure that the tweezer top is a good sign to sell. Also, you can use moving averages to see if the price is moving away from them, which can support the idea that the trend might change.
 
-Another way to use tweezers with other indicators is to look at the volume. If you see a tweezer bottom at the end of a downward trend, check if the volume is going up. Higher volume can mean more people are buying, which can make you more sure that the price will go up. You can also use the Moving Average Convergence Divergence (MACD) to see if it's showing a bullish signal when you see a tweezer bottom. If the MACD line crosses above the signal line, it can support the idea that the price might start going up. By combining tweezers with other indicators, traders can feel more confident about when to buy or sell.
+Another way to use tweezers with other indicators is to look at the [volume](/wiki/volume-trading-strategy). If you see a tweezer bottom at the end of a downward trend, check if the volume is going up. Higher volume can mean more people are buying, which can make you more sure that the price will go up. You can also use the Moving Average Convergence Divergence (MACD) to see if it's showing a bullish signal when you see a tweezer bottom. If the MACD line crosses above the signal line, it can support the idea that the price might start going up. By combining tweezers with other indicators, traders can feel more confident about when to buy or sell.
 
 ## What are common mistakes traders make when using tweezers in trend trading?
 

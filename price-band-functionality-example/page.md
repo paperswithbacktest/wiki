@@ -60,7 +60,7 @@ In other markets, like those for goods and services, price bands might not be us
 
 ## How do price bands influence market volatility?
 
-Price bands help lower market volatility by setting limits on how much a stock's price can change in a day. When a stock's price gets close to the upper or lower band, it can't go any further without a pause in trading. This pause gives everyone a chance to calm down and think, which stops the market from getting too wild. By keeping prices from jumping around too much, price bands make the market feel safer and more stable for people who want to buy and sell stocks.
+Price bands help lower market [volatility](/wiki/volatility-trading-strategies) by setting limits on how much a stock's price can change in a day. When a stock's price gets close to the upper or lower band, it can't go any further without a pause in trading. This pause gives everyone a chance to calm down and think, which stops the market from getting too wild. By keeping prices from jumping around too much, price bands make the market feel safer and more stable for people who want to buy and sell stocks.
 
 Even though price bands help keep things calm, they can't stop all volatility. Sometimes, big news or events can still make prices move a lot within the bands. But overall, having these bands in place makes the market less scary for investors. They know there's a limit to how much prices can change in one day, which can make them feel more confident about trading.
 

@@ -50,7 +50,7 @@ There are many types of financial instruments that people use when they trade. O
 
 Another group of financial instruments used in trade includes derivatives. Derivatives are a bit more complicated because they get their value from something else, like a stock or a commodity. Options and futures are two types of derivatives. An option gives you the right to buy or sell something at a certain price in the future. A future is a promise to buy or sell something at a set price on a specific date. These instruments can be used to make money or to protect against risks. For example, a farmer might use futures to lock in a price for their crops, so they know how much money they'll make even if the market changes.
 
-There are also mutual funds and exchange-traded funds (ETFs). These are collections of different investments, like stocks and bonds, all put together in one package. When you buy a share of a mutual fund or an ETF, you're buying a little bit of all the things inside it. This can be a good way to spread out your risk because you're not putting all your money into just one thing. People use these funds to invest in a variety of things without having to buy each one separately.
+There are also mutual funds and exchange-traded funds (ETFs). These are collections of different investments, like stocks and bonds, all put together in one package. When you buy a share of a mutual fund or an [ETF](/wiki/etf-trading-strategies), you're buying a little bit of all the things inside it. This can be a good way to spread out your risk because you're not putting all your money into just one thing. People use these funds to invest in a variety of things without having to buy each one separately.
 
 ## How do regulatory frameworks affect trade in finance?
 

@@ -82,7 +82,7 @@ Another thing to consider is what the stock split might say about the company. C
 
 ## What is Understanding Stock Splits?
 
-Stock splits are a common corporate action where a company increases its number of outstanding shares by issuing additional shares to its existing shareholders. This process effectively reduces the price of each share without altering the market capitalization of the company. The fundamental objective of a stock split is to enhance the stock's liquidity and make it more accessible to a wider range of investors. A lower per-share price can attract more retail investors who might find the stock more affordable, potentially increasing the stock's trading volume.
+Stock splits are a common corporate action where a company increases its number of outstanding shares by issuing additional shares to its existing shareholders. This process effectively reduces the price of each share without altering the market capitalization of the company. The fundamental objective of a stock split is to enhance the stock's liquidity and make it more accessible to a wider range of investors. A lower per-share price can attract more retail investors who might find the stock more affordable, potentially increasing the stock's trading [volume](/wiki/volume-trading-strategy).
 
 There are different types of stock splits, each affecting the stock's price and the shareholder's equity differently:
 

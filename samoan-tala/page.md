@@ -58,7 +58,7 @@ Looking at specific years, you can see that the Tala has had small changes in it
 
 ## What are the main factors influencing the value of the Samoan Tala?
 
-The value of the Samoan Tala is influenced by several key factors. One big factor is the economy of Samoa itself. If Samoa's economy is doing well, with people working and businesses growing, the Tala can become stronger. Another factor is how much people want to buy and sell the Tala. If more people want to use or exchange the Tala, its value can go up. The Central Bank of Samoa also plays a big role. They look at all these things and try to keep the Tala's value steady so people can trust it.
+The value of the Samoan Tala is influenced by several key factors. One big [factor](/wiki/factor-investing) is the economy of Samoa itself. If Samoa's economy is doing well, with people working and businesses growing, the Tala can become stronger. Another factor is how much people want to buy and sell the Tala. If more people want to use or exchange the Tala, its value can go up. The Central Bank of Samoa also plays a big role. They look at all these things and try to keep the Tala's value steady so people can trust it.
 
 Another important factor is what's happening with money around the world. If big currencies like the US dollar or the Euro change a lot, it can affect the Tala too. Even though the Tala isn't traded a lot on big money markets, changes in these markets can still have an impact. The Central Bank of Samoa watches these global changes closely and makes decisions to keep the Tala stable. This way, people in Samoa can use the Tala every day without worrying too much about its value changing suddenly.
 

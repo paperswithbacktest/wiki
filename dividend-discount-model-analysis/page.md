@@ -60,7 +60,7 @@ Using the multi-period DDM means you have to make more guesses about the future,
 
 ## What role does the required rate of return play in the DDM?
 
-The required rate of return is a really important part of the Dividend Discount Model (DDM). It's like the interest rate you want to earn on your investment. When you use the DDM, you use this rate to figure out what future dividends are worth today. This is called discounting, and it makes future money worth less because you could be using that money to invest somewhere else right now.
+The required rate of return is a really important part of the Dividend Discount Model (DDM). It's like the [interest rate](/wiki/interest-rate-trading-strategies) you want to earn on your investment. When you use the DDM, you use this rate to figure out what future dividends are worth today. This is called discounting, and it makes future money worth less because you could be using that money to invest somewhere else right now.
 
 If you change the required rate of return, it can make a big difference in what the DDM says a stock is worth. If you want a higher return, you'll use a higher discount rate, which makes the future dividends worth less today. So, the stock's value goes down. If you're okay with a lower return, you'll use a lower discount rate, and the stock's value goes up. Picking the right required rate of return is hard because it depends on things like how risky the investment is and what other investments are offering, but it's really important for getting the DDM to work right.
 

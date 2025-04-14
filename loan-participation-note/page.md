@@ -30,7 +30,7 @@ Another benefit is that LPNs let you invest in big loans that you might not be a
 
 Investing in Loan Participation Notes comes with some risks. One big risk is that the borrower might not be able to pay back the loan. If the company that borrowed the money runs into financial trouble, they might miss payments or even default on the loan. This means investors who bought the LPNs could lose some or all of their money. It's important to check how likely the borrower is to pay back the loan before investing.
 
-Another risk is that LPNs can be hard to sell quickly. If you need your money back fast, you might not be able to find someone to buy your LPN right away. This is called low liquidity. Also, the value of LPNs can go up and down based on how well the borrower is doing and what's happening in the economy. If things change, you might end up selling your LPN for less than you paid for it.
+Another risk is that LPNs can be hard to sell quickly. If you need your money back fast, you might not be able to find someone to buy your LPN right away. This is called low [liquidity](/wiki/liquidity-risk-premium). Also, the value of LPNs can go up and down based on how well the borrower is doing and what's happening in the economy. If things change, you might end up selling your LPN for less than you paid for it.
 
 ## Who typically issues Loan Participation Notes?
 
@@ -52,7 +52,7 @@ LPNs let investors get a piece of a big loan without having to lend the whole am
 
 ## How are Loan Participation Notes structured?
 
-A Loan Participation Note (LPN) is structured when a bank gives a big loan to a borrower, like a company, and then sells pieces of that loan to investors. The bank splits the loan into smaller parts, and each part is sold as an LPN. This means that the investors who buy the LPNs get a share of the loan, and they receive payments based on the interest and principal that the borrower pays back to the bank. The structure of the LPN includes details like the interest rate, how often payments are made, and the total amount of the loan that the LPN represents.
+A Loan Participation Note (LPN) is structured when a bank gives a big loan to a borrower, like a company, and then sells pieces of that loan to investors. The bank splits the loan into smaller parts, and each part is sold as an LPN. This means that the investors who buy the LPNs get a share of the loan, and they receive payments based on the interest and principal that the borrower pays back to the bank. The structure of the LPN includes details like the [interest rate](/wiki/interest-rate-trading-strategies), how often payments are made, and the total amount of the loan that the LPN represents.
 
 The LPN also includes terms that explain what happens if the borrower can't pay back the loan. These terms are important because they tell investors what risks they're taking. For example, if the borrower defaults, the LPN might say how the losses will be shared among the investors. The structure of an LPN is designed to make it clear to investors what they're buying into, including the potential rewards and risks. This way, investors can make informed decisions about whether to buy the LPN.
 

@@ -24,7 +24,7 @@ Series EE bonds earn a fixed interest rate. This means the rate stays the same f
 
 A Series I Savings Bond is another type of savings bond from the U.S. government. Like Series EE bonds, they are safe because the government backs them. You can buy them online through TreasuryDirect. They are good for saving money over time, and you can give them as gifts too. The main difference is how they earn interest.
 
-Series I bonds have two parts to their interest rate: a fixed rate and an inflation rate. The fixed rate stays the same for the life of the bond, but the inflation rate changes every six months to keep up with the cost of living. This means your money can grow to keep up with inflation. You can keep these bonds for up to 30 years, but they start earning interest right away and you can cash them in after one year. They are a good choice if you want your savings to keep up with the rising costs of things.
+Series I bonds have two parts to their interest rate: a fixed rate and an inflation rate. The fixed rate stays the same for the life of the bond, but the inflation rate changes every six months to keep up with the cost of living. This means your money can grow to keep up with inflation. You can keep these bonds for up to 30 years, but they start [earning](/wiki/earning-announcement) interest right away and you can cash them in after one year. They are a good choice if you want your savings to keep up with the rising costs of things.
 
 ## How do the interest rates of Series EE and Series I bonds differ?
 

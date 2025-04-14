@@ -86,7 +86,7 @@ Preferred stock investment strategies offer investors a unique avenue for portfo
 
 ### Portfolio Diversification with Preferred Stocks
 
-Incorporating preferred stocks into an investment portfolio can provide steady income through dividends while mitigating overall volatility. As preferred stocks often offer fixed dividend payments, they serve as a stable income source even during market downturns, making them a valuable diversification tool. By blending preferred stocks with common equities and bonds, investors achieve a balanced portfolio designed to weather different market conditions.
+Incorporating preferred stocks into an investment portfolio can provide steady income through dividends while mitigating overall [volatility](/wiki/volatility-trading-strategies). As preferred stocks often offer fixed dividend payments, they serve as a stable income source even during market downturns, making them a valuable diversification tool. By blending preferred stocks with common equities and bonds, investors achieve a balanced portfolio designed to weather different market conditions.
 
 ### Evaluating Cumulative Preferred Stocks Using Financial Metrics
 

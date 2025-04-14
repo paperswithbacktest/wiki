@@ -36,7 +36,7 @@ On the other hand, if people are worried about the future, they might save more 
 
 ## What role does investment play in aggregate demand?
 
-Investment is the money businesses spend on things like new factories, machines, or technology. This part of aggregate demand is important because it helps businesses grow and make more stuff. When businesses invest, it can lead to more jobs because they need people to work in the new factories or use the new machines. More jobs mean more people earning money, and when people have money, they spend more, which boosts aggregate demand even more.
+Investment is the money businesses spend on things like new factories, machines, or technology. This part of aggregate demand is important because it helps businesses grow and make more stuff. When businesses invest, it can lead to more jobs because they need people to work in the new factories or use the new machines. More jobs mean more people [earning](/wiki/earning-announcement) money, and when people have money, they spend more, which boosts aggregate demand even more.
 
 If businesses are not investing much, it can slow down the economy. When businesses don't spend on new things, they might not grow as much, and they might not need to hire new workers. Fewer jobs mean people have less money to spend, which can lower aggregate demand. So, investment is a key part of keeping the economy moving and growing because it affects how much businesses produce and how many people they employ.
 

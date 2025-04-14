@@ -30,7 +30,7 @@ Another benefit is that it can help you make money in different market condition
 
 Using an Equity Long Short strategy can be riskier than just buying stocks. When you sell a stock short, you borrow it and sell it, hoping to buy it back later at a lower price. But if the stock price goes up instead, you lose money. And there's no limit to how much you can lose because stock prices can keep going up. So, if you're wrong about which stocks will go down, you could lose a lot more money than you would with a long-only approach.
 
-Another risk is that managing an Equity Long Short strategy can be more complicated. You need to be good at picking both winners and losers. If you make a mistake, it can hurt your returns more than if you just bought stocks. Plus, you might have to pay extra costs, like borrowing fees for the stocks you sell short. These costs can eat into your profits and make the strategy less attractive if you don't do it right.
+Another risk is that managing an Equity Long Short strategy can be more complicated. You need to be good at [picking](/wiki/asset-class-picking) both winners and losers. If you make a mistake, it can hurt your returns more than if you just bought stocks. Plus, you might have to pay extra costs, like borrowing fees for the stocks you sell short. These costs can eat into your profits and make the strategy less attractive if you don't do it right.
 
 ## How do Equity Long Short funds select stocks for their portfolio?
 
@@ -52,7 +52,7 @@ Using leverage can be risky. If the stocks you bought go up and the ones you sol
 
 ## What are the key performance metrics to evaluate an Equity Long Short fund?
 
-When you want to see how well an Equity Long Short fund is doing, you should look at a few important things. One is the fund's return, which tells you how much money the fund made or lost over a certain time. You can compare this to other funds or to the overall market to see if the fund is doing better or worse. Another thing to check is the fund's risk, often measured by something called volatility. This shows how much the fund's value goes up and down. A fund with less volatility is usually seen as less risky.
+When you want to see how well an Equity Long Short fund is doing, you should look at a few important things. One is the fund's return, which tells you how much money the fund made or lost over a certain time. You can compare this to other funds or to the overall market to see if the fund is doing better or worse. Another thing to check is the fund's risk, often measured by something called [volatility](/wiki/volatility-trading-strategies). This shows how much the fund's value goes up and down. A fund with less volatility is usually seen as less risky.
 
 Another important metric is the Sharpe Ratio, which looks at how much return you get for the risk you're taking. A higher Sharpe Ratio means the fund is doing a good job of making money without taking too much risk. You should also look at the fund's alpha, which shows if the fund is beating the market after adjusting for risk. A positive alpha means the fund is doing better than you would expect just from the market's performance. Lastly, don't forget about the fund's beta, which tells you how much the fund moves with the market. A lower beta means the fund is less affected by market swings, which can be good if you want to avoid big ups and downs.
 
@@ -82,7 +82,7 @@ Another technique is called risk management. This is all about being careful and
 
 ## How does the Long Short Equity Strategy work?
 
-The long short equity strategy operates by leveraging both long and short positions to achieve returns beyond the market average, essentially generating what is termed as "alpha." The core mechanism of this strategy lies in its distinctive approach to stock selection and portfolio construction.
+The [long short](/wiki/equity-long-short) equity strategy operates by leveraging both long and short positions to achieve returns beyond the market average, essentially generating what is termed as "alpha." The core mechanism of this strategy lies in its distinctive approach to stock selection and portfolio construction.
 
 The process begins with idea generation, where potential investment opportunities are identified through various research techniques, including [fundamental analysis](/wiki/fundamental-analysis), technical indicators, and quantitative models. In this stage, analysts and traders assess company fundamentals, industry trends, and market conditions to pinpoint stocks that are undervalued (for long positions) and overvalued (for short positions).
 
@@ -100,7 +100,7 @@ where:
 
 The selected stocks are then compiled into a portfolio, balancing long and short positions to manage risk and maximize returns. The portfolio construction focuses on diversification across sectors and regions to minimize unsystematic risk. Techniques such as mean-variance optimization might be employed to determine the optimal asset weights that minimize portfolio variance for a given expected return.
 
-The effectiveness of the long short equity strategy is significantly influenced by prevailing market conditions. In bullish markets, long positions tend to outperform, while in bearish markets, short positions are favored. Thus, the strategy's success largely depends on the trader's ability to accurately predict market trends and adjust the portfolio accordingly. Moreover, volatility and liquidity also play crucial roles; during periods of high volatility and low liquidity, execution risk increases, potentially affecting overall strategy performance. This calls for dynamic risk management practices and continuous re-evaluation of the strategy's components to ensure sustained alpha generation amidst changing market landscapes.
+The effectiveness of the long short equity strategy is significantly influenced by prevailing market conditions. In bullish markets, long positions tend to outperform, while in bearish markets, short positions are favored. Thus, the strategy's success largely depends on the trader's ability to accurately predict market trends and adjust the portfolio accordingly. Moreover, volatility and [liquidity](/wiki/liquidity-risk-premium) also play crucial roles; during periods of high volatility and low liquidity, execution risk increases, potentially affecting overall strategy performance. This calls for dynamic risk management practices and continuous re-evaluation of the strategy's components to ensure sustained alpha generation amidst changing market landscapes.
 
 ## How do Ranking Scheme, Capital Allocation, and Rebalancing Frequency impact investment strategies?
 
@@ -128,7 +128,7 @@ By meticulously ranking stocks, allocating capital judiciously, and optimizing r
 
 ## What are Transaction Costs and Slippages?
 
-Transaction costs and slippages are critical factors influencing the profitability of long-short equity strategies in algorithmic trading. They can significantly erode returns, especially when executing frequent trades. Understanding and managing these costs is essential for maximizing the efficiency and success of a strategy.
+Transaction costs and slippages are critical factors influencing the profitability of long-short equity strategies in [algorithmic trading](/wiki/algorithmic-trading). They can significantly erode returns, especially when executing frequent trades. Understanding and managing these costs is essential for maximizing the efficiency and success of a strategy.
 
 **Impact of Transaction Costs on Profitability**
 

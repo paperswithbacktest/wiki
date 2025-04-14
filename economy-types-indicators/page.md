@@ -56,7 +56,7 @@ Inflation is measured using something called the Consumer Price Index, or CPI. T
 
 Unemployment rates show how many people in a country don't have jobs and are looking for work. When the unemployment rate is high, it means a lot of people are out of work. This can be bad for the economy because people who don't have jobs don't have money to spend on things like food, clothes, and fun stuff. When people spend less, businesses make less money, and they might have to let more people go, which can make the unemployment rate go even higher.
 
-On the other hand, when the unemployment rate is low, it means more people have jobs and are earning money. This is good for the economy because people with jobs can buy more things. When people spend more, businesses make more money and might hire more people, which can help keep the unemployment rate low. Governments often try to keep unemployment rates low by creating jobs or helping businesses grow, because a low unemployment rate usually means a stronger economy.
+On the other hand, when the unemployment rate is low, it means more people have jobs and are [earning](/wiki/earning-announcement) money. This is good for the economy because people with jobs can buy more things. When people spend more, businesses make more money and might hire more people, which can help keep the unemployment rate low. Governments often try to keep unemployment rates low by creating jobs or helping businesses grow, because a low unemployment rate usually means a stronger economy.
 
 ## What role do interest rates play in economic health?
 

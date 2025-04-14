@@ -22,7 +22,7 @@ By doing K-fold cross-validation, you get a better idea of how your model will w
 
 ## What is the purpose of purged K-fold cross-validation?
 
-Purged K-fold cross-validation is a special way to test how well a machine learning model works, especially when dealing with time-based data. Imagine you're trying to predict stock prices. You wouldn't want to use future information to predict past prices, right? That's what purged K-fold cross-validation helps prevent. It makes sure that the data used to test the model doesn't include any information from the future, which could make the model look better than it really is.
+Purged K-fold cross-validation is a special way to test how well a [machine learning](/wiki/machine-learning) model works, especially when dealing with time-based data. Imagine you're trying to predict stock prices. You wouldn't want to use future information to predict past prices, right? That's what purged K-fold cross-validation helps prevent. It makes sure that the data used to test the model doesn't include any information from the future, which could make the model look better than it really is.
 
 In purged K-fold cross-validation, you split your data into K parts, just like in regular K-fold. But, when you train your model on K-1 parts, you remove, or "purge," any data from the test set that might have been influenced by the future data in the training set. This way, you get a more honest test of how your model will work with new, unseen data. It's like making sure your predictions are fair and not cheating by using information they shouldn't have.
 

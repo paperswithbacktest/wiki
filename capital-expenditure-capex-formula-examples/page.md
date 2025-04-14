@@ -113,7 +113,7 @@ IRR is the discount rate that makes the NPV of an investment zero. It helps asse
 
 Algorithmic trading introduces an advanced layer of sophistication to CapEx management. By leveraging complex algorithms, businesses can automate the analysis of large datasets and real-time market information. This capability allows firms to forecast market trends with greater accuracy and align CapEx plans more dynamically.
 
-Incorporating algorithmic trading into CapEx management involves using predictive algorithms to identify optimal investment opportunities and manage exposure to risks. Algorithms can process historical data and recognize patterns that inform future asset valuations and investment outcomes.
+Incorporating [algorithmic trading](/wiki/algorithmic-trading) into CapEx management involves using predictive algorithms to identify optimal investment opportunities and manage exposure to risks. Algorithms can process historical data and recognize patterns that inform future asset valuations and investment outcomes.
 
 Python, for instance, offers multiple libraries such as NumPy and Pandas, which are useful for financial modeling:
 

@@ -114,7 +114,7 @@ For investors, examining these distinctions is vital. It allows them to assess w
 
 ## How can we evaluate algorithmic trading strategies?
 
-Performance evaluation in algorithmic trading strategies is crucial for optimizing return on investment and managing risk. The following key metrics are frequently used to assess the efficacy of these strategies: Sharpe Ratio, Maximum Drawdown, Win Rate, and Profit Factor.
+Performance evaluation in [algorithmic trading](/wiki/algorithmic-trading) strategies is crucial for optimizing return on investment and managing risk. The following key metrics are frequently used to assess the efficacy of these strategies: Sharpe Ratio, Maximum Drawdown, Win Rate, and Profit Factor.
 
 **Sharpe Ratio**
 

@@ -82,7 +82,7 @@ Another advanced feature is the option to link your external accounts to the Van
 
 ## What are Vanguard Digital Advisor's Algo Trading Features?
 
-Vanguard Digital Advisor employs algorithmic trading to enhance the effectiveness and efficiency of investment decisions. By leveraging a range of sophisticated algorithms, Vanguard optimizes portfolio management and asset allocation, ensuring that clients' investments are aligned with their financial goals and risk tolerance.
+Vanguard Digital Advisor employs [algorithmic trading](/wiki/algorithmic-trading) to enhance the effectiveness and efficiency of investment decisions. By leveraging a range of sophisticated algorithms, Vanguard optimizes portfolio management and asset allocation, ensuring that clients' investments are aligned with their financial goals and risk tolerance.
 
 The foundation of Vanguard's algorithmic trading approach lies in its highly developed mathematical models. These algorithms analyze vast datasets to identify trends and insights that inform portfolio adjustments. For example, by employing mean-variance optimization, Vanguard can craft portfolios that aim to minimize risk for a given level of expected return $(E[R])$. Mathematically, this can be expressed through the optimization problem:
 

@@ -18,13 +18,13 @@ ETFs are popular because they offer a lot of benefits. They are usually cheaper 
 
 Dividends in the context of ETFs are payments that the ETF makes to its shareholders. When the investments inside the ETF, like stocks or bonds, earn money, some of that money can be given back to the people who own shares of the ETF. This is usually done in the form of cash, but sometimes it can be in the form of more shares of the ETF.
 
-Not all ETFs pay dividends. It depends on what the ETF is invested in. For example, if an ETF holds stocks that pay dividends, then the ETF will likely pay dividends to its shareholders. But if an ETF is focused on something else, like commodities or certain types of bonds that don't pay dividends, then it might not pay any dividends at all. When an ETF does pay dividends, it's a nice way for investors to earn some extra money on top of any gains they might make from the ETF's price going up.
+Not all ETFs pay dividends. It depends on what the [ETF](/wiki/etf-trading-strategies) is invested in. For example, if an ETF holds stocks that pay dividends, then the ETF will likely pay dividends to its shareholders. But if an ETF is focused on something else, like commodities or certain types of bonds that don't pay dividends, then it might not pay any dividends at all. When an ETF does pay dividends, it's a nice way for investors to earn some extra money on top of any gains they might make from the ETF's price going up.
 
 ## Why would someone choose to reinvest ETF dividends?
 
 Someone might choose to reinvest ETF dividends because it can help their investment grow over time. When you reinvest dividends, you use the money you get from the dividends to buy more shares of the ETF. This means you own more of the ETF without having to put in extra money from your pocket. Over time, as the ETF's value goes up, those extra shares can add up and make your investment worth more.
 
-Another reason to reinvest ETF dividends is that it can take advantage of something called compound growth. This means that not only do your original shares grow in value, but the new shares you buy with the dividends also start earning more dividends. It's like a snowball effect where your investment keeps getting bigger and bigger. This can be a powerful way to build wealth over the long term, especially if you keep reinvesting for many years.
+Another reason to reinvest ETF dividends is that it can take advantage of something called compound growth. This means that not only do your original shares grow in value, but the new shares you buy with the dividends also start [earning](/wiki/earning-announcement) more dividends. It's like a snowball effect where your investment keeps getting bigger and bigger. This can be a powerful way to build wealth over the long term, especially if you keep reinvesting for many years.
 
 ## How does dividend reinvestment work with ETFs?
 
@@ -112,7 +112,7 @@ Dividend reinvestment strategies can be tailored based on individual investor go
 
 The impact of dividend reinvestment on a portfolio's long-term performance is significant. Historically, stocks that pay dividends and allow for reinvestment have provided substantial returns, often outperforming non-dividend-paying peers. By consistently reinvesting dividends, investors can potentially see enhanced growth in their portfolios due to both the additional shares acquired and the effect of compounding.
 
-Furthermore, reinvested dividends can cushion against market volatility. During downturns, the acquisition of additional shares at lower prices through DRIPs can yield significant benefits in the recovery phase.
+Furthermore, reinvested dividends can cushion against market [volatility](/wiki/volatility-trading-strategies). During downturns, the acquisition of additional shares at lower prices through DRIPs can yield significant benefits in the recovery phase.
 
 To illustrate the power of reinvestment, consider a simplified Python example assuming an initial investment, a fixed annual dividend yield, and a set number of years for reinvestment:
 

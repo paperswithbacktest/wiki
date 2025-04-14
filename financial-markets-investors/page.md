@@ -42,7 +42,7 @@ Investors can engage with commodities in a few ways. One way is by buying the ac
 
 ## How do foreign exchange markets impact investment strategies?
 
-Foreign exchange markets, often called forex markets, are where people trade different countries' money. This impacts investment strategies because the value of one currency compared to another can change how much money an investor makes or loses. For example, if an investor from the U.S. buys stocks in Europe, they need to change their dollars into euros. If the euro gets stronger compared to the dollar, the investor's returns in dollars will be higher when they change the money back. But if the euro gets weaker, their returns will be lower.
+Foreign exchange markets, often called [forex](/wiki/forex-system) markets, are where people trade different countries' money. This impacts investment strategies because the value of one currency compared to another can change how much money an investor makes or loses. For example, if an investor from the U.S. buys stocks in Europe, they need to change their dollars into euros. If the euro gets stronger compared to the dollar, the investor's returns in dollars will be higher when they change the money back. But if the euro gets weaker, their returns will be lower.
 
 Because of this, investors need to think about currency changes when they make their plans. They might use special tools called currency hedges to protect themselves from big changes in currency values. Or they might choose to invest in countries where they think the currency will get stronger. By understanding how foreign exchange markets work, investors can make smarter choices and maybe earn more money.
 
@@ -58,7 +58,7 @@ Investors can analyze market trends and make informed decisions by looking at di
 
 Another important thing for investors is to understand what other people are thinking and doing. They can do this by looking at things like investor sentiment, which is how people feel about the market. If a lot of people are feeling good and buying stocks, it might be a good time to invest. But if people are feeling worried and selling, it might be a time to be careful. By putting all this information together, investors can make better guesses about where the market is going and decide when to buy or sell.
 
-It's also helpful for investors to keep learning and staying up to date. They can join investment clubs or online groups to talk with other investors and share ideas. Reading books and taking classes about investing can also help them understand the market better. By always trying to learn more, investors can make smarter choices and maybe earn more money over time.
+It's also helpful for investors to keep learning and staying up to date. They can join investment clubs or online groups to talk with other investors and share ideas. Reading [books](/wiki/algo-trading-books) and taking classes about investing can also help them understand the market better. By always trying to learn more, investors can make smarter choices and maybe earn more money over time.
 
 ## What are the risks associated with investing in financial markets and how can they be mitigated?
 
@@ -132,7 +132,7 @@ is widely used to evaluate whether a stock is over or undervalued relative to it
 
 Technical analysis, in contrast, relies on historical price and [volume](/wiki/volume-trading-strategy) data to predict future price movements. Tools like moving averages and relative strength index (RSI) are commonly employed to identify trends and entry or [exit](/wiki/exit-strategy) points.
 
-Alternative markets, such as real estate and commodities, offer diversification benefits. Real estate investments involve acquiring property interests and can provide income, tax advantages, and inflation hedging. Commodities like gold, oil, and agricultural products can serve as a hedge against market volatility and currency risk.
+Alternative markets, such as real estate and commodities, offer diversification benefits. Real estate investments involve acquiring property interests and can provide income, tax advantages, and inflation hedging. Commodities like gold, oil, and agricultural products can serve as a hedge against market [volatility](/wiki/volatility-trading-strategies) and currency risk.
 
 Emerging trends are reshaping investment landscapes, with [ESG](/wiki/esg-investing) (Environmental, Social, and Governance) investing gaining prominence. ESG investing evaluates companies based on their environmental practices, social impact, and governance policies. This approach not only aligns investments with ethical and sustainable principles but also responds to increasing evidence that well-governed, socially conscious companies can offer competitive returns. According to Morningstar's "Global Sustainable Fund Flows" report, the first quarter of 2021 saw a record $185.3 billion flow into ESG funds, indicating growing investor interest in sustainability [1].
 

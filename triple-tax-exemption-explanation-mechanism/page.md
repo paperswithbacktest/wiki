@@ -160,7 +160,7 @@ Recent tax proposals aimed at digital assets have introduced a complex landscape
 
 ### Opportunities and Challenges for Digital Asset Traders
 
-Digital asset traders face unique opportunities amid tax changes. On the one hand, advantageous tax proposals could spur increased interest and trading volumes in cryptocurrencies, leading to enhanced liquidity and potentially higher returns. On the other hand, the dynamic nature of tax regulation poses significant challenges. Traders must constantly update their algorithms to stay compliant and optimize for tax efficiency, maintaining a balance between maximizing returns and adhering to the evolving tax code.
+Digital asset traders face unique opportunities amid tax changes. On the one hand, advantageous tax proposals could spur increased interest and trading volumes in cryptocurrencies, leading to enhanced [liquidity](/wiki/liquidity-risk-premium) and potentially higher returns. On the other hand, the dynamic nature of tax regulation poses significant challenges. Traders must constantly update their algorithms to stay compliant and optimize for tax efficiency, maintaining a balance between maximizing returns and adhering to the evolving tax code.
 
 The dynamic interplay between algorithmic trading, tax exemptions, and digital assets offers a multitude of pathways to enhance trading efficiency while minimizing tax burdens. As tax policies continue to evolve, the integration of tax considerations into algorithmic trading remains a crucial area for innovation and optimization, promising pathways to potentially maximizing post-tax investment returns.
 

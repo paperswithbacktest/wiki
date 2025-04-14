@@ -18,7 +18,7 @@ TILA applies to many types of credit, including credit cards, mortgages, auto lo
 
 The Truth in Lending Act, or TILA, was enacted on May 29, 1968. This law was created to help people understand the costs of borrowing money. Before TILA, it was hard for people to know how much they would really have to pay back because lenders did not always explain things clearly.
 
-TILA makes it a rule for lenders to tell you important details about your loan or credit. This includes the interest rate, fees, and the total amount you will have to pay back. By doing this, TILA helps you make better choices about borrowing money and protects you from unfair practices.
+TILA makes it a rule for lenders to tell you important details about your loan or credit. This includes the [interest rate](/wiki/interest-rate-trading-strategies), fees, and the total amount you will have to pay back. By doing this, TILA helps you make better choices about borrowing money and protects you from unfair practices.
 
 ## What are the main goals of the Truth in Lending Act?
 

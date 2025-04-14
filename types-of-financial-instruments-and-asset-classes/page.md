@@ -48,7 +48,7 @@ Bonds also provide a steady income. The interest payments you get from bonds can
 
 ## What are derivatives and how are they used in financial markets?
 
-Derivatives are financial instruments that get their value from something else, like a stock, bond, commodity, or even an interest rate. They are called derivatives because their value is derived from the value of another asset. Common types of derivatives include options, futures, and swaps. An option gives you the right to buy or sell an asset at a certain price in the future. A future is a promise to buy or sell an asset at a set price on a specific date. Swaps are agreements to exchange cash flows or other financial instruments.
+Derivatives are financial instruments that get their value from something else, like a stock, bond, commodity, or even an [interest rate](/wiki/interest-rate-trading-strategies). They are called derivatives because their value is derived from the value of another asset. Common types of derivatives include options, futures, and swaps. An option gives you the right to buy or sell an asset at a certain price in the future. A future is a promise to buy or sell an asset at a set price on a specific date. Swaps are agreements to exchange cash flows or other financial instruments.
 
 In financial markets, derivatives are used for several reasons. One big reason is to manage risk. For example, a farmer might use a futures contract to lock in a price for their crops, protecting them from price changes. Investors and companies also use derivatives to hedge against changes in interest rates or currency values. Another use is for speculation. Traders might buy derivatives to bet on the future price of an asset, hoping to make money if their guess is right. While derivatives can be very useful, they can also be risky because their value can change a lot, and they can be hard to understand.
 
@@ -66,7 +66,7 @@ These investments can be good for people who want to try something different or 
 
 ## How do financial instruments like ETFs and mutual funds work?
 
-ETFs, or Exchange-Traded Funds, and mutual funds are both ways to invest in a bunch of different things at once. They are like baskets that hold a mix of stocks, bonds, or other investments. When you buy shares of an ETF or a mutual fund, you are buying a small piece of everything that's in the basket. This can be a good way to spread out your risk because if one thing in the basket goes down, the others might go up and balance it out. ETFs and mutual funds are managed by professionals who pick what goes in the basket, so you don't have to do all the work yourself.
+ETFs, or Exchange-Traded Funds, and mutual funds are both ways to invest in a bunch of different things at once. They are like baskets that hold a mix of stocks, bonds, or other investments. When you buy shares of an [ETF](/wiki/etf-trading-strategies) or a mutual fund, you are buying a small piece of everything that's in the basket. This can be a good way to spread out your risk because if one thing in the basket goes down, the others might go up and balance it out. ETFs and mutual funds are managed by professionals who pick what goes in the basket, so you don't have to do all the work yourself.
 
 The main difference between ETFs and mutual funds is how you buy and sell them. ETFs trade on the stock market, just like stocks. This means you can buy and sell them anytime during the day when the market is open. Mutual funds, on the other hand, are bought and sold at the end of the day, based on the value of everything in the basket at that time. ETFs often have lower fees than mutual funds, but both can be good choices depending on what you want to invest in and how you want to do it.
 
@@ -100,4 +100,4 @@ Speculation is when investors try to make money by guessing what will happen in 
 
 [8]: Luenberger, D. G. (1997). ["Investment Science"](https://www.amazon.com/Investment-Science-David-G-Luenberger/dp/0199740089). Oxford University Press. 
 
-These resources provide comprehensive insights into financial instruments, asset classes, investment strategies, algorithmic trading, and the application of advanced technologies in trading.
+These resources provide comprehensive insights into financial instruments, asset classes, investment strategies, [algorithmic trading](/wiki/algorithmic-trading), and the application of advanced technologies in trading.

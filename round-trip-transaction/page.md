@@ -99,7 +99,7 @@ By scrutinizing round-trip transactions, traders can refine their strategies to 
 
 Additionally, round-trip transactions serve as indicators of an algorithm's market activity and trading frequency. High-frequency trading algorithms, characterized by numerous rapid trades, require precise tracking of these transactions to ensure robust performance evaluation. Frequent trading demands an algorithm capable of managing a vast [volume](/wiki/volume-trading-strategy) of transactions efficiently while maintaining cost-effectiveness.
 
-In summary, round-trip transactions are essential in appraising the performance of trading algorithms, influencing both strategic refinement and execution. As such, they are integral to developing and assessing algorithmic trading strategies that aim to minimize costs, limit market impacts, and optimize latency.
+In summary, round-trip transactions are essential in appraising the performance of trading algorithms, influencing both strategic refinement and execution. As such, they are integral to developing and assessing [algorithmic trading](/wiki/algorithmic-trading) strategies that aim to minimize costs, limit market impacts, and optimize latency.
 
 ## References & Further Reading
 

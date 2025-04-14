@@ -46,7 +46,7 @@ Another risk is that interval funds often invest in things that are not easy to 
 
 ## How do interval funds handle liquidity and what are the implications for investors?
 
-Interval funds handle liquidity by allowing investors to buy shares at any time but only letting them sell shares back to the fund at certain intervals, like every three or six months. This setup helps the fund managers invest in things that are not easy to sell quickly, like real estate or private companies. Because they don't have to worry about people wanting their money back all the time, the fund can hold onto these investments longer.
+Interval funds handle [liquidity](/wiki/liquidity-risk-premium) by allowing investors to buy shares at any time but only letting them sell shares back to the fund at certain intervals, like every three or six months. This setup helps the fund managers invest in things that are not easy to sell quickly, like real estate or private companies. Because they don't have to worry about people wanting their money back all the time, the fund can hold onto these investments longer.
 
 For investors, this means you might not be able to get your money out when you want it. If you need your cash before the next interval, you'll have to wait. Also, if a lot of people want to sell their shares at the same time, the fund might not buy back all the shares everyone wants to sell. This can be a problem if you need your money right away. But, on the good side, this way of handling liquidity lets the fund invest in things that might grow more over time, which could mean better returns for you in the long run.
 

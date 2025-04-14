@@ -36,7 +36,7 @@ If the economic life changes, it can change the depreciation too. If a business 
 
 ## What factors influence the economic life of an asset?
 
-Several things can affect how long an asset will be useful for a business. One big factor is how much the asset gets used. If a machine is used a lot every day, it might wear out faster than if it's only used sometimes. Another thing that matters is how well the asset is taken care of. Regular maintenance can make an asset last longer. For example, if a company keeps up with oil changes and repairs on their vehicles, those vehicles might last longer than if they didn't.
+Several things can affect how long an asset will be useful for a business. One big [factor](/wiki/factor-investing) is how much the asset gets used. If a machine is used a lot every day, it might wear out faster than if it's only used sometimes. Another thing that matters is how well the asset is taken care of. Regular maintenance can make an asset last longer. For example, if a company keeps up with oil changes and repairs on their vehicles, those vehicles might last longer than if they didn't.
 
 Technology and changes in the industry can also change how long an asset is useful. If new technology comes out that makes an old machine less useful, the economic life of that machine might be shorter than expected. Also, the business's needs can change. If a company grows and needs bigger or different equipment, the old assets might not be useful anymore, even if they still work fine. This can make their economic life shorter.
 

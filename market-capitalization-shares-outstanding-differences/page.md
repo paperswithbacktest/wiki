@@ -120,9 +120,9 @@ Monitoring shares outstanding also helps investors predict potential stock value
 
 ## How do market capitalization and shares outstanding affect algorithmic trading?
 
-Algorithmic trading, a process that utilizes computer algorithms to manage trading activities, frequently takes market capitalization and shares outstanding into account when assessing liquidity and volatility. These factors are crucial for algorithmic traders to determine transaction strategies and potential profitability.
+Algorithmic trading, a process that utilizes computer algorithms to manage trading activities, frequently takes market capitalization and shares outstanding into account when assessing [liquidity](/wiki/liquidity-risk-premium) and volatility. These factors are crucial for algorithmic traders to determine transaction strategies and potential profitability.
 
-Market capitalization (market cap) plays a substantial role in algorithmic trading as it influences liquidity, which is a key determinant of trading ease and cost. Companies with a large market cap are generally characterized by high liquidity, facilitating smoother transactions with minimal price impact. The formula for market capitalization is:
+Market capitalization (market cap) plays a substantial role in [algorithmic trading](/wiki/algorithmic-trading) as it influences liquidity, which is a key determinant of trading ease and cost. Companies with a large market cap are generally characterized by high liquidity, facilitating smoother transactions with minimal price impact. The formula for market capitalization is:
 
 $$
 
@@ -131,7 +131,7 @@ $$
 
 A high market cap usually suggests that a stock can be bought or sold in large quantities without significant price fluctuations, thereby reducing volatility and transaction costs. This stability attracts algorithmic traders who rely on executing large volumes of trades efficiently.
 
-In contrast, shares outstanding, referring to all shares currently held by shareholders, also inform algorithmic trading decisions. A high number of shares outstanding typically implies increased liquidity, contributing to reduced volatility. This is particularly beneficial for algorithms that exploit small price movements for high-frequency trading (HFT), as they require stable markets to operate effectively.
+In contrast, shares outstanding, referring to all shares currently held by shareholders, also inform algorithmic trading decisions. A high number of shares outstanding typically implies increased liquidity, contributing to reduced volatility. This is particularly beneficial for algorithms that exploit small price movements for high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), as they require stable markets to operate effectively.
 
 On the other hand, small-cap stocks, representing firms with relatively low market capitalization, often exhibit higher volatility due to lower liquidity. This volatility can present both challenges and opportunities for algorithmic traders. While the risk of significant price swings can complicate trade execution, it can also provide unique opportunities to profit from rapid price changes, beneficial for trading strategies that thrive on volatility.
 

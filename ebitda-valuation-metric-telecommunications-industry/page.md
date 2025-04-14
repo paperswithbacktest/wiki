@@ -124,7 +124,7 @@ Koller, T., Goedhart, M., & Wessels, D. "Valuation: Measuring and Managing the V
 
 Damodaran, A. "Investment Valuation: Tools and Techniques for Determining the Value of Any Asset" offers insights into valuation methodologies, reinforcing the importance of EBITDA and other financial metrics in assessing asset worth and investment potential.
 
-Lopez de Prado, M. "Advances in Financial Machine Learning" explores the intersection of finance and technology, highlighting how machine learning techniques can be applied to financial metrics like EBITDA to enhance data-driven decision-making processes.
+Lopez de Prado, M. "Advances in Financial Machine Learning" explores the intersection of finance and technology, highlighting how [machine learning](/wiki/machine-learning) techniques can be applied to financial metrics like EBITDA to enhance data-driven decision-making processes.
 
 Chan, E. "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" provides a practical guide for implementing [quantitative trading](/wiki/quantitative-trading) strategies that integrate financial metrics such as EBITDA, utilizing programming tools and platforms for optimizing trading operations.
 

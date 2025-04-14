@@ -82,7 +82,7 @@ Another way technology helps is by making it easier to trade on special markets 
 
 ## What are Weather Derivatives and How Do They Work?
 
-Weather derivatives are specialized financial instruments designed to manage the financial risk associated with variable weather conditions. These contracts specify payouts based on predetermined weather parameters, offering a hedge against adverse weather rather than compensating for actual physical damages like traditional insurance. The primary purpose of weather derivatives is to provide businesses affected by weather volatility a means to stabilize their income streams despite fluctuating climatic conditions.
+Weather derivatives are specialized financial instruments designed to manage the financial risk associated with variable weather conditions. These contracts specify payouts based on predetermined weather parameters, offering a hedge against adverse weather rather than compensating for actual physical damages like traditional insurance. The primary purpose of weather derivatives is to provide businesses affected by weather [volatility](/wiki/volatility-trading-strategies) a means to stabilize their income streams despite fluctuating climatic conditions.
 
 The payout of a weather derivative is typically indexed against specific measures of weather conditions. For example, common indices include Heating Degree Days (HDD) and Cooling Degree Days (CDD). Heating Degree Days are calculated by taking the average daily temperature below a standard base temperature, often 65°F in the U.S., reflecting the demand for heating. Mathematically, HDD can be represented as:
 

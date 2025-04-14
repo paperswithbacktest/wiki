@@ -27,7 +27,7 @@ This kind of mistake can be annoying. You might have to wait while security chec
 
 ## What are the common causes of False Positives in machine learning models?
 
-False Positives in machine learning models can happen for a few reasons. One common cause is when the data used to train the model isn't good enough. If the data is too messy or doesn't have enough examples of what the model is supposed to find, the model might get confused. For example, if a model is trying to spot spam emails but it's trained on a small set of emails, it might think regular emails are spam because it hasn't seen enough examples of what regular emails look like.
+False Positives in [machine learning](/wiki/machine-learning) models can happen for a few reasons. One common cause is when the data used to train the model isn't good enough. If the data is too messy or doesn't have enough examples of what the model is supposed to find, the model might get confused. For example, if a model is trying to spot spam emails but it's trained on a small set of emails, it might think regular emails are spam because it hasn't seen enough examples of what regular emails look like.
 
 Another reason for False Positives is when the model is too simple or too complex. If a model is too simple, it might not be able to tell the difference between what it's supposed to find and what it's not. On the other hand, if a model is too complex, it might start to see patterns that aren't really there. This is called overfitting, and it can make the model think something is true when it's not. Balancing the complexity of the model is important to reduce False Positives.
 

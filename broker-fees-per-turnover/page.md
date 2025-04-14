@@ -36,7 +36,7 @@ These fees can affect how much money you make from trading. If you're turning ov
 
 Broker fees per turnover can vary a lot depending on what you're trading and which broker you use. For stock trading, many brokers charge between $0 and $10 per trade. Some brokers offer free trades to attract more customers, but they might make money in other ways, like charging for other services or getting payments from companies whose stocks you buy.
 
-For real estate, broker fees are usually a percentage of the home's price. This percentage is often between 5% and 6% of the total price. This fee is split between the buyer's and seller's agents, so each might get around 2.5% to 3% of the home's price. These fees can be a big part of the cost of buying or selling a home, so it's important to understand them before you start.
+For real estate, broker fees are usually a percentage of the home's price. This percentage is often between 5% and 6% of the total price. This fee is split between the buyer's and seller's [agents](/wiki/agents), so each might get around 2.5% to 3% of the home's price. These fees can be a big part of the cost of buying or selling a home, so it's important to understand them before you start.
 
 ## How do broker fees per turnover vary across different brokers?
 
@@ -82,7 +82,7 @@ But, the exact fees can vary a lot depending on the broker and the country you a
 
 ## What is the turnover in algo trading?
 
-Turnover in algorithmic trading represents the total [volume](/wiki/volume-trading-strategy) of trades executed by a trading system within a specific period. This metric is essential in understanding the scale and activity level of a trading strategy. High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) strategies typically exhibit high turnovers due to the significant number of trades executed within short time frames. These strategies leverage speed and automation to exploit small price movements, and as a result, they generate a large volume of transactions.
+Turnover in [algorithmic trading](/wiki/algorithmic-trading) represents the total [volume](/wiki/volume-trading-strategy) of trades executed by a trading system within a specific period. This metric is essential in understanding the scale and activity level of a trading strategy. High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) strategies typically exhibit high turnovers due to the significant number of trades executed within short time frames. These strategies leverage speed and automation to exploit small price movements, and as a result, they generate a large volume of transactions.
 
 Managing turnover is vital for controlling costs and enhancing profitability in algorithmic trading. High turnover can lead to increased transaction costs, including broker fees, which cumulatively can impact the net profits of a trading strategy. Effective management ensures that the costs associated with high turnover do not outweigh the potential trading gains.
 

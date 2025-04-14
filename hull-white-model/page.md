@@ -82,7 +82,7 @@ Another advanced technique is to use numerical methods like finite difference me
 
 ## What is the Hull-White Model and how can it be understood?
 
-The Hull-White model is an influential extension of the Vasicek and Cox-Ingersoll-Ross (CIR) models, focusing on incorporating mean-reversion characteristics in forecasting interest rates. By adopting a single-factor framework, it differentiates itself from multi-factor models by simplifying the process while maintaining essential features for accurate modeling. One of the primary assumptions of the Hull-White model is that the short-term interest rates follow a normal distribution, allowing for more straightforward computation and interpretation.
+The Hull-White model is an influential extension of the Vasicek and Cox-Ingersoll-Ross (CIR) models, focusing on incorporating mean-reversion characteristics in forecasting interest rates. By adopting a single-[factor](/wiki/factor-investing) framework, it differentiates itself from multi-factor models by simplifying the process while maintaining essential features for accurate modeling. One of the primary assumptions of the Hull-White model is that the short-term interest rates follow a normal distribution, allowing for more straightforward computation and interpretation.
 
 Mathematically, the Hull-White model is expressed through a stochastic differential equation (SDE) that outlines how the short rate evolves over time. The generic form of the model is:
 

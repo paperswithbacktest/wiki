@@ -36,7 +36,7 @@ Once you have these numbers, you can find out how much the asset depreciates eac
 
 Let's say you bought a delivery truck for your business. The truck cost $25,000, and you think it will be worth $5,000 after you use it for 5 years. To find out how much the truck loses value each year, you first subtract the $5,000 salvage value from the $25,000 cost. That gives you $20,000. Then, you divide $20,000 by the 5 years of useful life. This means the truck depreciates by $4,000 every year.
 
-So, each year for 5 years, you can write off $4,000 from the value of the truck on your financial statements. This helps you keep track of how much the truck is worth and how much it costs to use it over time. By the end of 5 years, the truck's value on your books will be down to the $5,000 salvage value you expected.
+So, each year for 5 years, you can write off $4,000 from the value of the truck on your financial statements. This helps you keep track of how much the truck is worth and how much it costs to use it over time. By the end of 5 years, the truck's value on your [books](/wiki/algo-trading-books) will be down to the $5,000 salvage value you expected.
 
 ## What are the advantages of using the straight-line method?
 

@@ -30,7 +30,7 @@ As you keep taking these samples, you build up a sequence of data. Each step in 
 
 Sequential bootstrapping works well with data that changes over time or depends on past events. This type of data often comes from things like stock prices, weather patterns, or patient health records. For example, if you're looking at stock prices, today's price might depend on what happened yesterday. By using sequential bootstrapping, you can see how these changes happen over time and make better guesses about what might happen next.
 
-Another type of data that is good for sequential bootstrapping is data where the order matters. This could be data from a series of experiments where each experiment builds on the last one, or data from a machine learning model that gets better as it sees more data. In these cases, sequential bootstrapping helps you understand how the order of the data affects your results. By taking samples one after the other, you can see how the sequence of data influences the outcomes you are studying.
+Another type of data that is good for sequential bootstrapping is data where the order matters. This could be data from a series of experiments where each experiment builds on the last one, or data from a [machine learning](/wiki/machine-learning) model that gets better as it sees more data. In these cases, sequential bootstrapping helps you understand how the order of the data affects your results. By taking samples one after the other, you can see how the sequence of data influences the outcomes you are studying.
 
 ## Can you explain the concept of resampling in the context of sequential bootstraps?
 

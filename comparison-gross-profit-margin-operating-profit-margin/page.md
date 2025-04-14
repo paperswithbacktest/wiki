@@ -54,7 +54,7 @@ Operating Profit Margin goes a step further by showing the money left from sales
 
 ## What factors can affect Gross Profit Margin?
 
-Gross Profit Margin can change because of many things. One big factor is the price of the things a business sells. If the cost of these things goes up, like if materials get more expensive, the Gross Profit Margin can go down. Another factor is how much a business charges for its products. If a business can charge more for its products without raising the cost to make them, the Gross Profit Margin can go up.
+Gross Profit Margin can change because of many things. One big [factor](/wiki/factor-investing) is the price of the things a business sells. If the cost of these things goes up, like if materials get more expensive, the Gross Profit Margin can go down. Another factor is how much a business charges for its products. If a business can charge more for its products without raising the cost to make them, the Gross Profit Margin can go up.
 
 Another thing that can affect Gross Profit Margin is how well a business manages its costs. This includes finding cheaper suppliers or making things more efficiently. If a business can lower the cost of the things it sells, it can keep more money from each sale. Also, if a business sells more of its products, it might be able to buy them at a lower price because it's buying in larger amounts, which can help improve the Gross Profit Margin.
 

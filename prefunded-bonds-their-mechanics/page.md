@@ -24,7 +24,7 @@ Because prefunded bonds are safer, they usually offer lower interest rates than 
 
 The main purpose of issuing prefunded bonds is to make the bonds safer for investors. When a company or government issues prefunded bonds, they put money into safe investments like government securities to make sure they can pay back the bond when it's due. This makes investors feel more secure because they know the money to pay them back is already set aside. It's like having a safety net that makes the bond less risky.
 
-Another reason to issue prefunded bonds is to make it easier to sell the bonds. Because they are safer, more people might want to buy them, even if the interest rate is lower. This can help the issuer raise money more easily. It's a way for the issuer to show that they are responsible and can be trusted to pay back their debts.
+Another reason to issue prefunded bonds is to make it easier to sell the bonds. Because they are safer, more people might want to buy them, even if the [interest rate](/wiki/interest-rate-trading-strategies) is lower. This can help the issuer raise money more easily. It's a way for the issuer to show that they are responsible and can be trusted to pay back their debts.
 
 ## Who typically issues prefunded bonds?
 

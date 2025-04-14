@@ -18,7 +18,7 @@ When you invest in an ETF, you're essentially buying a small piece of a larger p
 
 Investing in ETFs comes with some risks that you should know about. One big risk is that the value of the ETF can go up and down because it's tied to the performance of the assets it holds. If the stocks or bonds in the ETF do poorly, the value of your investment will drop too. This is called market risk. Another risk is that ETFs that focus on a specific industry or region can be more volatile. If something bad happens in that industry or region, like a financial crisis or a natural disaster, the ETF's value can fall a lot.
 
-There's also something called tracking error, which is when an ETF doesn't perfectly follow the index it's supposed to mimic. This can happen because of fees, how the ETF is managed, or other factors. This means the ETF might not perform exactly as you expect. Lastly, liquidity risk is another concern. If an ETF isn't very popular, it might be hard to buy or sell it quickly without affecting its price. This can be a problem if you need to get your money out fast.
+There's also something called tracking error, which is when an [ETF](/wiki/etf-trading-strategies) doesn't perfectly follow the index it's supposed to mimic. This can happen because of fees, how the ETF is managed, or other factors. This means the ETF might not perform exactly as you expect. Lastly, [liquidity](/wiki/liquidity-risk-premium) risk is another concern. If an ETF isn't very popular, it might be hard to buy or sell it quickly without affecting its price. This can be a problem if you need to get your money out fast.
 
 ## How does market risk affect ETFs?
 
@@ -36,7 +36,7 @@ On the other hand, if you want to buy an ETF that isn't very popular, you might 
 
 Tracking error is when an ETF doesn't follow its target index perfectly. It's like trying to copy someone's dance moves but not getting every step right. This can happen because of fees the ETF charges, how the ETF is managed, or other little things. When the ETF doesn't match the index exactly, it can perform a bit differently than you might expect. 
 
-This difference might not seem like a big deal, but it can add up over time. If an ETF is supposed to follow the S&P 500 but it's always a bit off, you might end up with returns that are a little higher or lower than the index. This can affect how much money you make or lose from your investment. So, when you're picking an ETF, it's good to look at its tracking error to see how closely it follows its index.
+This difference might not seem like a big deal, but it can add up over time. If an ETF is supposed to follow the S&P 500 but it's always a bit off, you might end up with returns that are a little higher or lower than the index. This can affect how much money you make or lose from your investment. So, when you're [picking](/wiki/asset-class-picking) an ETF, it's good to look at its tracking error to see how closely it follows its index.
 
 ## What are the tax implications of investing in ETFs?
 
@@ -54,13 +54,13 @@ On the other hand, synthetic ETFs use financial contracts like swaps to mimic th
 
 Leveraged and inverse ETFs are a bit trickier than regular ETFs. Leveraged ETFs aim to give you returns that are two or three times what the index they track does. This means if the index goes up, your ETF goes up a lot more, but if it goes down, your ETF goes down a lot more too. This can be really risky because the market can be unpredictable, and big losses can happen fast. Inverse ETFs, on the other hand, are designed to go up when the index they track goes down. They're like betting against the market. But just like with leveraged ETFs, if you guess wrong, you can lose a lot of money quickly.
 
-Another thing to watch out for with these ETFs is that they're meant for short-term trading, not long-term investing. If you hold them for a long time, the daily resetting of their leverage can lead to something called "volatility decay." This means even if the market stays the same over time, the value of your ETF can still go down. So, if you're thinking about investing in leveraged or inverse ETFs, make sure you understand these risks and are ready to keep a close eye on your investments.
+Another thing to watch out for with these ETFs is that they're meant for short-term trading, not long-term investing. If you hold them for a long time, the daily resetting of their leverage can lead to something called "[volatility](/wiki/volatility-trading-strategies) decay." This means even if the market stays the same over time, the value of your ETF can still go down. So, if you're thinking about investing in leveraged or inverse ETFs, make sure you understand these risks and are ready to keep a close eye on your investments.
 
 ## How do sector-specific and thematic ETFs carry unique risks?
 
 Sector-specific ETFs focus on a single industry, like technology or healthcare. This can be risky because if something bad happens to that industry, like new laws or a big company going bankrupt, the value of your ETF can drop a lot. For example, if you invest in a tech ETF and there's a big cyber attack that hurts tech companies, your investment could lose value quickly. These ETFs are not as spread out as ones that follow a broad index, so they can go up and down more.
 
-Thematic ETFs are similar but they focus on trends or themes, like clean energy or artificial intelligence. The risk here is that the theme might not catch on as expected or could fall out of favor. If people lose interest in the theme, like if they start to doubt the future of electric cars, the ETF's value can go down. Also, these themes can be hard to define clearly, so what's in the ETF might change a lot, making it harder to predict how it will do. Both sector-specific and thematic ETFs can be exciting, but they come with extra risks because they're not as diversified as broad market ETFs.
+Thematic ETFs are similar but they focus on trends or themes, like clean energy or [artificial intelligence](/wiki/ai-artificial-intelligence). The risk here is that the theme might not catch on as expected or could fall out of favor. If people lose interest in the theme, like if they start to doubt the future of electric cars, the ETF's value can go down. Also, these themes can be hard to define clearly, so what's in the ETF might change a lot, making it harder to predict how it will do. Both sector-specific and thematic ETFs can be exciting, but they come with extra risks because they're not as diversified as broad market ETFs.
 
 ## What role does the management fee play in the overall risk and return of an ETF?
 

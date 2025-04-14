@@ -42,7 +42,7 @@ This type of deed is useful for these sellers because it limits their responsibi
 
 A General Warranty Deed is often used by regular people, like families, when they are selling their homes or other properties. These sellers can promise that the title is clear and there are no problems with the ownership, not just during their time but all the way back to the beginning. This makes buyers feel safe because they know the seller will fix any issues with the title, even if those issues happened before the seller owned the property.
 
-Real estate agents and lawyers also often use General Warranty Deeds because they provide the most protection for buyers. It's a common choice when someone is buying a home because it gives them peace of mind. If there is ever a problem with the property's title, the buyer can go back to the seller and ask them to fix it, which makes the General Warranty Deed the strongest type of deed for buyers.
+Real estate [agents](/wiki/agents) and lawyers also often use General Warranty Deeds because they provide the most protection for buyers. It's a common choice when someone is buying a home because it gives them peace of mind. If there is ever a problem with the property's title, the buyer can go back to the seller and ask them to fix it, which makes the General Warranty Deed the strongest type of deed for buyers.
 
 ## What are the key covenants included in a General Warranty Deed?
 

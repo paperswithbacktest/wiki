@@ -44,7 +44,7 @@ These labs are important because they help solve big problems that affect everyo
 
 National laboratories work on many different kinds of research. They study things like energy, health, and safety. For example, they might try to find new ways to make energy from the sun or the wind. They also work on making nuclear energy safer and more useful. In health, they look for new ways to treat diseases like cancer or to make new medicines. They also study how to keep the country safe from dangers, like figuring out how to protect against cyber attacks or making better security systems.
 
-Another big area of research at national laboratories is materials science. This means they study how to make new materials that can be used in things like cars, buildings, or electronics. They might work on making stronger metals or new kinds of plastics. They also do a lot of work on technology, like making better computers or figuring out how to use artificial intelligence to solve problems. All of this research helps make new technology and improve life for everyone.
+Another big area of research at national laboratories is materials science. This means they study how to make new materials that can be used in things like cars, buildings, or electronics. They might work on making stronger metals or new kinds of plastics. They also do a lot of work on technology, like making better computers or figuring out how to use [artificial intelligence](/wiki/ai-artificial-intelligence) to solve problems. All of this research helps make new technology and improve life for everyone.
 
 National labs also work on big projects that involve many different kinds of science. For example, they might study how climate change affects the world and what we can do about it. They also look at how to clean up pollution and make the environment healthier. By doing all this research, national labs help solve important problems and make the country better and more advanced.
 
@@ -86,7 +86,7 @@ National labs have also made breakthroughs in health. For example, scientists at
 
 ## What are the key algorithmic trading strategies?
 
-Algorithmic trading encompasses a variety of strategies that rely on advanced mathematical models and computational techniques to execute trades with precision and efficiency. Among the most popular strategies in this domain are arbitrage, market making, and [statistical arbitrage](/wiki/statistical-arbitrage).
+Algorithmic trading encompasses a variety of strategies that rely on advanced mathematical models and computational techniques to execute trades with precision and efficiency. Among the most popular strategies in this domain are [arbitrage](/wiki/arbitrage), [market making](/wiki/market-making), and [statistical arbitrage](/wiki/statistical-arbitrage).
 
 **Arbitrage** involves exploiting price discrepancies of a financial instrument across different markets or forms. It aims to make a profit with minimal risk by simultaneously buying and selling an asset in different markets. For example, if a stock is priced lower on one exchange compared to another, an algorithmic trading system can buy the stock where it is cheaper and sell where it is more expensive. This process helps to equalize prices across markets and ensures liquidity, thus contributing to market efficiency.
 
@@ -104,10 +104,10 @@ $$
 If the signal exceeds a particular threshold, the stock is considered overbought or oversold.
 
 ### Delta-Neutral Strategies
-Delta-neutral strategies seek to hedge against directional risk by constructing a portfolio where the total delta — the sensitivity of the portfolio’s value to changes in the price of the underlying asset — is zero. This involves using options to offset the delta of the underlying security. By maintaining a delta-neutral position, traders can profit from other factors such as volatility or time decay while minimizing the effect of market movements. This requires continuous rebalancing of the portfolio as market conditions fluctuate.
+Delta-neutral strategies seek to hedge against directional risk by constructing a portfolio where the total delta — the sensitivity of the portfolio’s value to changes in the price of the underlying asset — is zero. This involves using options to offset the delta of the underlying security. By maintaining a delta-neutral position, traders can profit from other factors such as [volatility](/wiki/volatility-trading-strategies) or time decay while minimizing the effect of market movements. This requires continuous rebalancing of the portfolio as market conditions fluctuate.
 
 ### Impact on Market and Trader Behavior
-These algorithmic trading strategies significantly influence both markets and individuals. The continuous presence of algorithms trading large volumes can lead to enhanced liquidity and tighter spreads. However, the deployment of such strategies also introduces complexities, including increased market volatility and potential systemic risks like flash crashes. Traders employing these strategies can execute large volumes of trades at speeds unattainable by humans, compelling others in the market to adopt similar or complementary technologies. Consequently, markets have become faster and more interconnected, emphasizing the need for sophisticated risk management approaches to cope with these rapid dynamics.
+These [algorithmic trading](/wiki/algorithmic-trading) strategies significantly influence both markets and individuals. The continuous presence of algorithms trading large volumes can lead to enhanced [liquidity](/wiki/liquidity-risk-premium) and tighter spreads. However, the deployment of such strategies also introduces complexities, including increased market volatility and potential systemic risks like flash crashes. Traders employing these strategies can execute large volumes of trades at speeds unattainable by humans, compelling others in the market to adopt similar or complementary technologies. Consequently, markets have become faster and more interconnected, emphasizing the need for sophisticated risk management approaches to cope with these rapid dynamics.
 
 ## References & Further Reading
 

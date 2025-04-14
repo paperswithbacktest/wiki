@@ -60,7 +60,7 @@ On the other hand, when you own a property directly, you have more control. You 
 
 ## What factors should be considered when selecting a REIT to invest in?
 
-When picking a REIT to invest in, it's important to look at the type of properties it owns. Some REITs own apartments, others own shopping centers or office buildings. Each type can be affected differently by the economy. For example, if people are moving a lot, apartment REITs might do well. But if people are buying less stuff, shopping center REITs might struggle. Also, think about where the properties are located. Properties in growing cities might be a better investment than those in places where people are moving away.
+When [picking](/wiki/asset-class-picking) a REIT to invest in, it's important to look at the type of properties it owns. Some REITs own apartments, others own shopping centers or office buildings. Each type can be affected differently by the economy. For example, if people are moving a lot, apartment REITs might do well. But if people are buying less stuff, shopping center REITs might struggle. Also, think about where the properties are located. Properties in growing cities might be a better investment than those in places where people are moving away.
 
 Another thing to consider is how well the REIT is doing financially. Look at how much money it makes and how much it pays out in dividends. A good REIT should have a strong history of paying dividends and growing its business. Check the dividend yield, which is how much money you get back compared to the price of the share. But be careful, a very high yield might mean the REIT is risky. Also, look at the management team. Good managers can make a big difference in how well the REIT performs.
 

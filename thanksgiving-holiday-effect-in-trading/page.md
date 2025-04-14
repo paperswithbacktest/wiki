@@ -42,11 +42,11 @@ It's also important for traders to not bet everything on the Thanksgiving Holida
 
 The Thanksgiving Holiday Effect can be influenced by how people feel during the holiday season. Many people are in a good mood because they get to spend time with family and friends, and this positive feeling can make them more likely to invest in the stock market. When people are happy, they might think the future looks bright and decide to buy more stocks, which can push the market up.
 
-Another psychological factor is that fewer people are trading during the holiday. With many traders taking time off, the market can become less busy and less wild. This can make people feel more confident about investing because there's less chance of big, sudden changes in stock prices. So, the calm and happy atmosphere around Thanksgiving can lead to a more stable and sometimes rising market.
+Another psychological [factor](/wiki/factor-investing) is that fewer people are trading during the holiday. With many traders taking time off, the market can become less busy and less wild. This can make people feel more confident about investing because there's less chance of big, sudden changes in stock prices. So, the calm and happy atmosphere around Thanksgiving can lead to a more stable and sometimes rising market.
 
 ## How does trading volume change around Thanksgiving, and what does this indicate?
 
-Around Thanksgiving, the trading volume in the stock market usually goes down. This happens because many traders and investors take time off to be with their families and enjoy the holiday. When fewer people are trading, the number of stocks being bought and sold drops, which means the trading volume is lower than usual.
+Around Thanksgiving, the trading [volume](/wiki/volume-trading-strategy) in the stock market usually goes down. This happens because many traders and investors take time off to be with their families and enjoy the holiday. When fewer people are trading, the number of stocks being bought and sold drops, which means the trading volume is lower than usual.
 
 This lower trading volume can make the market feel calmer and less wild. With fewer people making trades, there's less chance for big, sudden changes in stock prices. This can make investors feel more confident and might even help push stock prices up a bit, which is part of what people call the Thanksgiving Holiday Effect.
 

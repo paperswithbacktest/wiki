@@ -18,7 +18,7 @@ Open banking works by using special technology called APIs, which stands for App
 
 Open banking offers several key benefits for consumers. One major advantage is that it gives people more control over their finances. With open banking, consumers can use different apps and services to see all their bank accounts in one place. This makes it easier to track spending, set budgets, and save money. For example, a budgeting app can show you how much you spend on groceries each month and help you plan better.
 
-Another benefit is that open banking can help consumers find better deals on financial products. By sharing their financial data with other companies, people can get personalized offers on things like loans, credit cards, and savings accounts. This means they might find a loan with a lower interest rate or a savings account that offers a higher return. Overall, open banking helps consumers make smarter financial decisions and potentially save money.
+Another benefit is that open banking can help consumers find better deals on financial products. By sharing their financial data with other companies, people can get personalized offers on things like loans, credit cards, and savings accounts. This means they might find a loan with a lower [interest rate](/wiki/interest-rate-trading-strategies) or a savings account that offers a higher return. Overall, open banking helps consumers make smarter financial decisions and potentially save money.
 
 ## How does open banking improve financial services for businesses?
 
@@ -56,7 +56,7 @@ Lastly, there's a risk that the apps and services you use might not be as good a
 
 Consumers can protect themselves from fraud in open banking by being careful about which apps they use and what information they share. Always check if the app is from a trusted company and read the terms and conditions carefully before giving permission. Make sure you understand what data the app will use and how it will be used. If something seems off or too good to be true, it's better to not use that app. Also, use strong, unique passwords for your bank accounts and any apps you use, and change them regularly to keep your information safe.
 
-Another way to stay safe is to keep an eye on your bank accounts and watch for any strange activity. If you see something you don't recognize, like a payment you didn't make, tell your bank right away. They can help you stop any fraud and get your money back. It's also a good idea to use two-factor authentication whenever you can. This adds an extra layer of security by making you enter a code sent to your phone or email before you can log in. By being careful and staying alert, you can enjoy the benefits of open banking without worrying too much about fraud.
+Another way to stay safe is to keep an eye on your bank accounts and watch for any strange activity. If you see something you don't recognize, like a payment you didn't make, tell your bank right away. They can help you stop any fraud and get your money back. It's also a good idea to use two-[factor](/wiki/factor-investing) authentication whenever you can. This adds an extra layer of security by making you enter a code sent to your phone or email before you can log in. By being careful and staying alert, you can enjoy the benefits of open banking without worrying too much about fraud.
 
 ## What regulatory frameworks govern open banking in different countries?
 

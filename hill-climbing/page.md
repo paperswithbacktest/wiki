@@ -29,7 +29,7 @@ The last type to mention is Random-Restart Hill Climbing. This method runs Simpl
 
 ## What are the advantages of using Hill Climbing in machine learning?
 
-Hill Climbing is a simple and easy-to-understand algorithm that works well for many machine learning problems. It starts at a random point and keeps moving to better neighbors until it can't find any more improvements. This makes it quick to set up and run, especially for problems where you can easily check the value of nearby solutions. Because it's simple, it doesn't need a lot of computer power or time to work, which can be a big advantage when you're working with limited resources.
+Hill Climbing is a simple and easy-to-understand algorithm that works well for many [machine learning](/wiki/machine-learning) problems. It starts at a random point and keeps moving to better neighbors until it can't find any more improvements. This makes it quick to set up and run, especially for problems where you can easily check the value of nearby solutions. Because it's simple, it doesn't need a lot of computer power or time to work, which can be a big advantage when you're working with limited resources.
 
 Another advantage of Hill Climbing is that it can be adapted to different types of problems. You can change how it picks the next point to move to, like choosing the best neighbor, a random better neighbor, or even restarting from new random points to try and find the best solution. This flexibility means you can use Hill Climbing for many different kinds of machine learning tasks, from simple optimization problems to more complex ones. Even though it might not always find the very best solution, it often finds a good enough solution quickly, which can be very useful in practice.
 

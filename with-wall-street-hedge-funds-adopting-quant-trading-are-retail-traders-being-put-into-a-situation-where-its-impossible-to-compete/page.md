@@ -48,9 +48,9 @@ However, quant trading can also make the market more risky. When many computers 
 
 ## What are the key differences between algorithmic trading and quant trading?
 
-Algorithmic trading and quant trading are similar because they both use computers to make trading decisions. Algorithmic trading is when you use a computer program, called an algorithm, to buy and sell things like stocks or currencies. The algorithm follows a set of rules that tell it when to trade. These rules can be simple, like buying a stock when its price goes up by a certain amount, or more complex. The main goal of algorithmic trading is to make trading faster and more efficient.
+Algorithmic trading and quant trading are similar because they both use computers to make trading decisions. Algorithmic trading is when you use a computer program, called an algorithm, to buy and sell things like stocks or currencies. The algorithm follows a set of rules that tell it when to trade. These rules can be simple, like buying a stock when its price goes up by a certain amount, or more complex. The main goal of [algorithmic trading](/wiki/algorithmic-trading) is to make trading faster and more efficient.
 
-Quant trading, on the other hand, is a type of algorithmic trading that uses math and data to make decisions. It's more about using numbers and patterns to figure out when to buy or sell. Quant traders often use a lot of data, like past prices and news, to find patterns that can help them make money. While algorithmic trading can be based on any set of rules, quant trading focuses on using math and statistics to make smarter trading choices. Both methods use computers, but quant trading goes deeper into the numbers.
+Quant trading, on the other hand, is a type of algorithmic trading that uses math and data to make decisions. It's more about using numbers and patterns to figure out when to buy or sell. Quant traders often use a lot of data, like past prices and news, to find patterns that can help them make money. While algorithmic trading can be based on any set of rules, quant trading focuses on using math and [statistics](/wiki/bayesian-statistics) to make smarter trading choices. Both methods use computers, but quant trading goes deeper into the numbers.
 
 ## How can retail traders use technology to level the playing field?
 

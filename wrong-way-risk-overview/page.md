@@ -64,7 +64,7 @@ Understanding correlation helps banks see how much wrong way risk they have. If 
 
 To measure wrong way risk in risk management models, people often use something called "stress testing." This means they imagine bad things happening, like the price of oil dropping a lot, and see how it affects the bank's loans. They look at how much money the bank might lose if the bad thing happens. By doing this, they can understand how big the wrong way risk is and plan for it. They also use numbers called "correlation coefficients" to see how closely linked the thing they bet on and the risk of losing money are. If the numbers show a strong link, it means there's more wrong way risk.
 
-Another way to measure wrong way risk is by using something called "value at risk" (VaR). This is a way to guess the most money a bank might lose over a certain time. When figuring out VaR, people think about how the thing they bet on, like the price of oil, might change and how it could affect the bank's loans. They use math to find out how much money the bank could lose if things go wrong. By doing this, banks can see how much wrong way risk they have and make plans to lower it.
+Another way to measure wrong way risk is by using something called "[value at risk](/wiki/var-value-at-risk)" (VaR). This is a way to guess the most money a bank might lose over a certain time. When figuring out VaR, people think about how the thing they bet on, like the price of oil, might change and how it could affect the bank's loans. They use math to find out how much money the bank could lose if things go wrong. By doing this, banks can see how much wrong way risk they have and make plans to lower it.
 
 ## What are the differences between wrong way risk in credit and market risk contexts?
 

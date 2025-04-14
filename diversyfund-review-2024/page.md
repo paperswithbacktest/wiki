@@ -70,7 +70,7 @@ They pick buildings in different cities and neighborhoods, hoping that as these 
 
 ## How does DiversyFund handle liquidity and what are the options for exiting an investment?
 
-When you invest with DiversyFund, your money is not as easy to get back as it would be with a bank account or a stock. This is because real estate investments take time to sell and turn into cash. DiversyFund does not let you take your money out whenever you want. Instead, they have set times when you can sell your investment, usually every few years. This is called a liquidity event, and it's when DiversyFund might sell some of their buildings and give the money back to investors.
+When you invest with DiversyFund, your money is not as easy to get back as it would be with a bank account or a stock. This is because real estate investments take time to sell and turn into cash. DiversyFund does not let you take your money out whenever you want. Instead, they have set times when you can sell your investment, usually every few years. This is called a [liquidity](/wiki/liquidity-risk-premium) event, and it's when DiversyFund might sell some of their buildings and give the money back to investors.
 
 If you need your money before a liquidity event, it can be hard. DiversyFund does not promise that you can get your money back quickly. But if you can wait, you might be able to sell your investment during one of these events. They try to plan these events so that investors can get their money back at good times. Just remember, real estate is not like a savings account, and you need to be ready to leave your money in for a while to see the best results.
 

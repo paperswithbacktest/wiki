@@ -58,7 +58,7 @@ To help with this, companies have to explain the accounting change clearly. They
 
 When a company changes its accounting methods, it can also change how they report their taxes. This is because the way a company records its financial information can affect how much tax they have to pay. For example, if a company changes how it counts its inventory, this can change the numbers they use to figure out their taxable income. The tax rules might be different from the accounting rules, so the company needs to make sure they follow both sets of rules correctly.
 
-To handle this, companies usually have to keep two sets of books: one for their financial statements and one for their tax returns. When they make an accounting change, they need to figure out how it affects their tax numbers. They might need to go back and change their past tax returns to match the new accounting method. This can be a lot of work, but it's important to make sure they are paying the right amount of taxes.
+To handle this, companies usually have to keep two sets of [books](/wiki/algo-trading-books): one for their financial statements and one for their tax returns. When they make an accounting change, they need to figure out how it affects their tax numbers. They might need to go back and change their past tax returns to match the new accounting method. This can be a lot of work, but it's important to make sure they are paying the right amount of taxes.
 
 ## What are the disclosure requirements for accounting changes under GAAP?
 

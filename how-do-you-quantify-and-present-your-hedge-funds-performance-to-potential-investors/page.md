@@ -20,7 +20,7 @@ Lastly, volatility is another key metric, often measured by the standard deviati
 
 To calculate the annualized return of a hedge fund, you need to know the total return over a period and the length of that period. If the fund's return is given for a period that is not a year, you can convert it to an annualized return. For example, if you know the return over three months, you can use a formula to figure out what the return would be if it continued at the same rate for a whole year. The basic formula is: (1 + total return)^(1/number of periods) - 1, where the number of periods is how many times that period fits into a year. For a three-month return, you would use 4 as the number of periods because there are four quarters in a year.
 
-Let's say a hedge fund made a 3% return over three months. To find the annualized return, you would calculate (1 + 0.03)^(1/0.25) - 1. This equals about 12.55%. This means if the fund kept earning at the same rate every three months, it would have a 12.55% return over a year. This helps investors compare the performance of different funds over different time periods on an equal basis.
+Let's say a hedge fund made a 3% return over three months. To find the annualized return, you would calculate (1 + 0.03)^(1/0.25) - 1. This equals about 12.55%. This means if the fund kept [earning](/wiki/earning-announcement) at the same rate every three months, it would have a 12.55% return over a year. This helps investors compare the performance of different funds over different time periods on an equal basis.
 
 ## What is the Sharpe Ratio and how is it used to evaluate hedge fund performance?
 
@@ -36,7 +36,7 @@ Using the Sortino Ratio can give you a better idea of a fund's performance becau
 
 ## What role does the alpha play in showcasing a hedge fund's performance?
 
-Alpha is a way to see how well a hedge fund is doing compared to what you would expect it to do. It shows if the fund is beating the market or not. If a fund has a positive alpha, it means it's doing better than you would expect just by following the market. For example, if the market goes up by 10% and the fund goes up by 12%, the extra 2% is the alpha. This is important because it tells investors if the fund managers are good at picking investments or if they're just riding the market's wave.
+Alpha is a way to see how well a hedge fund is doing compared to what you would expect it to do. It shows if the fund is beating the market or not. If a fund has a positive alpha, it means it's doing better than you would expect just by following the market. For example, if the market goes up by 10% and the fund goes up by 12%, the extra 2% is the alpha. This is important because it tells investors if the fund managers are good at [picking](/wiki/asset-class-picking) investments or if they're just riding the market's wave.
 
 Investors use alpha to decide if they should put their money in a hedge fund. A high alpha means the fund is doing something special to make more money than the market. This can make the fund more attractive because it shows the managers have skill. But if the alpha is zero or negative, it might mean the fund isn't doing anything special and is just following the market, or even doing worse. So, alpha helps investors see if a hedge fund is worth the fees they charge.
 
@@ -80,7 +80,7 @@ Another model is the GARCH (Generalized Autoregressive Conditional Heteroskedast
 
 When you talk about a hedge fund's performance to potential investors, it's not just about numbers. You also need to talk about qualitative factors, like the team behind the fund. This means telling investors about the experience and skills of the people managing the fund. For example, if the managers have a good track record or special knowledge about certain markets, that can make investors feel more confident. You can also mention the fund's strategy and how it's different from others. This helps investors see if the fund's way of making money fits with what they want.
 
-Another important qualitative factor is the fund's risk management practices. Investors want to know how the fund handles risks and what steps it takes to protect their money. You can explain the processes the fund uses to watch and control risks, like regular checks or using different types of investments to spread out risk. Also, talking about the fund's reputation and any awards or recognition it has received can make it more appealing. By including these qualitative factors in your presentation, you give investors a fuller picture of the fund, helping them decide if it's the right choice for them.
+Another important qualitative [factor](/wiki/factor-investing) is the fund's risk management practices. Investors want to know how the fund handles risks and what steps it takes to protect their money. You can explain the processes the fund uses to watch and control risks, like regular checks or using different types of investments to spread out risk. Also, talking about the fund's reputation and any awards or recognition it has received can make it more appealing. By including these qualitative factors in your presentation, you give investors a fuller picture of the fund, helping them decide if it's the right choice for them.
 
 ## What are the Basics of Hedge Fund Performance Metrics?
 

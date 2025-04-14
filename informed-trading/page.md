@@ -76,13 +76,13 @@ But, technology also helps catch informed trading. Regulatory bodies use compute
 
 ## What are the advanced statistical models used to analyze informed trading?
 
-Advanced statistical models help researchers and regulators spot informed trading by looking at market data. One common model is the "probability of informed trading" (PIN) model. It looks at how often trades happen and how many of them seem to be based on secret information. The model tries to guess if a trade was made because someone knew something others didn't. Another model is the "volume-synchronized probability of informed trading" (VPIN). This model looks at trading volume to see if there are signs of informed trading, especially in fast-moving markets.
+Advanced statistical models help researchers and regulators spot informed trading by looking at market data. One common model is the "probability of informed trading" (PIN) model. It looks at how often trades happen and how many of them seem to be based on secret information. The model tries to guess if a trade was made because someone knew something others didn't. Another model is the "[volume](/wiki/volume-trading-strategy)-synchronized probability of informed trading" (VPIN). This model looks at trading volume to see if there are signs of informed trading, especially in fast-moving markets.
 
 These models use math to find patterns in trading data that might show informed trading. They can help regulators decide if they need to look closer at certain trades or traders. But, these models are not perfect. They can sometimes make mistakes and think a trade was informed when it wasn't. Still, they are useful tools for keeping the market fair and making sure no one gets an unfair advantage from secret information.
 
 ## What are the types of algorithmic trading strategies?
 
-Algorithmic trading strategies encompass a diverse array of techniques, each designed to achieve specific trading objectives through the use of advanced algorithms. The following are some of the most prominent types of algorithmic trading strategies:
+Algorithmic trading strategies encompass a diverse array of techniques, each designed to achieve specific trading objectives through the use of advanced algorithms. The following are some of the most prominent types of [algorithmic trading](/wiki/algorithmic-trading) strategies:
 
 1. **Trend Following**: Trend following strategies aim to capitalize on the momentum of the market by identifying and following existing market trends, whether upward or downward. These strategies typically utilize technical indicators such as moving averages, the Moving Average Convergence Divergence (MACD), or the Relative Strength Index (RSI) to detect trends. The core idea is to enter a trade in the direction of the prevailing trend and exit when the trend reverses.
 

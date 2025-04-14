@@ -22,7 +22,7 @@ Understanding market microstructure also helps us see how information spreads an
 
 ## What are the main components of market microstructure?
 
-Market microstructure is made up of several key parts that help us understand how markets work. One important part is the order book, which is like a list that shows all the buy and sell orders people have placed. This helps set the price of a stock because it shows what people are willing to pay or sell for. Another part is the role of market makers, who are people or companies that help make sure there are always buyers and sellers in the market. They do this by being ready to buy or sell stocks themselves.
+Market microstructure is made up of several key parts that help us understand how markets work. One important part is the [order book](/wiki/order-book-trading-strategies), which is like a list that shows all the buy and sell orders people have placed. This helps set the price of a stock because it shows what people are willing to pay or sell for. Another part is the role of market makers, who are people or companies that help make sure there are always buyers and sellers in the market. They do this by being ready to buy or sell stocks themselves.
 
 Another key component is the trading mechanism, which is how trades actually happen. This can be through an auction where everyone shouts out their prices, or it can be electronic where computers match buyers and sellers. The speed of trading is also important, especially with high-frequency trading where computers make thousands of trades very quickly. Finally, the spread of information is a big part of market microstructure. This is about how quickly news and data move around the market, which can affect prices and trading decisions.
 
@@ -42,7 +42,7 @@ Market makers also help set prices. They look at all the buy and sell orders and
 
 ## How does liquidity impact market microstructure?
 
-Liquidity is really important in the market because it shows how easy it is to buy or sell something. When a market has good liquidity, there are lots of buyers and sellers, and you can trade quickly without the price changing too much. This makes the market work better because people can trade whenever they want without worrying too much about the price moving against them.
+Liquidity is really important in the market because it shows how easy it is to buy or sell something. When a market has good [liquidity](/wiki/liquidity-risk-premium), there are lots of buyers and sellers, and you can trade quickly without the price changing too much. This makes the market work better because people can trade whenever they want without worrying too much about the price moving against them.
 
 On the other hand, if the market has low liquidity, it can be hard to buy or sell. There might not be enough people to trade with, and when you do trade, the price might change a lot. This can make the market less stable and more risky. Understanding liquidity helps traders and investors know how easy it will be to make trades and how the price might move when they do.
 
@@ -62,7 +62,7 @@ Both dark pools and ECNs can affect how prices are set and how easy it is to tra
 
 ## What are the effects of high-frequency trading on market microstructure?
 
-High-frequency trading (HFT) is when computers make a lot of trades very quickly. This can change how the market works because it can make prices move faster. HFT traders use special computer programs to look at the market and find small chances to make money. They can trade in just a few seconds, which is much faster than people can. This can make the market more liquid because there are always people ready to buy and sell. But it can also make the market more unpredictable because prices can change very quickly.
+High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) is when computers make a lot of trades very quickly. This can change how the market works because it can make prices move faster. HFT traders use special computer programs to look at the market and find small chances to make money. They can trade in just a few seconds, which is much faster than people can. This can make the market more liquid because there are always people ready to buy and sell. But it can also make the market more unpredictable because prices can change very quickly.
 
 HFT can also affect how fair the market is. Because HFT traders can see and react to market changes so quickly, they might get better prices than other traders. This can make it harder for regular people to trade because they can't keep up with the speed of HFT. Also, HFT can sometimes cause big price swings, like what happened in the "Flash Crash" of 2010. Understanding how HFT works helps everyone in the market know what to expect and how to trade better.
 
@@ -88,7 +88,7 @@ These changes can also make traders change their strategies. If a new rule makes
 
 ## How does market volatility influence trading?
 
-Market volatility is a crucial consideration for traders, particularly those utilizing algorithmic strategies. Volatility refers to the degree of variation in the price of financial instruments over time, often measured by metrics such as standard deviation or variance. It can result from various factors, broadly categorized into fundamental and transitory volatility.
+Market [volatility](/wiki/volatility-trading-strategies) is a crucial consideration for traders, particularly those utilizing algorithmic strategies. Volatility refers to the degree of variation in the price of financial instruments over time, often measured by metrics such as standard deviation or variance. It can result from various factors, broadly categorized into fundamental and transitory volatility.
 
 **Sources of Market Volatility**
 
@@ -98,7 +98,7 @@ Market volatility is a crucial consideration for traders, particularly those uti
 
 **Volatility's Impact on Algorithmic Trading**
 
-Algorithmic trading relies extensively on quantitative models to predict price movements and execute trades. Volatility can influence algorithmic trading in several ways:
+Algorithmic trading relies extensively on quantitative models to predict price movements and execute trades. Volatility can influence [algorithmic trading](/wiki/algorithmic-trading) in several ways:
 
 - **Risk Management:** Volatility greatly affects the risk levels associated with trading strategies. Higher volatility can lead to increased potential profits but also higher risks of significant losses. Algorithmic traders use various risk management techniques, such as adjusting position sizes or applying stop-loss orders, to mitigate potential downsides.
 

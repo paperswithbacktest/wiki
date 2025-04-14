@@ -18,7 +18,7 @@ In the past, bearer bonds were popular because they were easy to transfer and co
 
 Bearer bonds and registered bonds are two types of bonds that work differently. A bearer bond is like cash. Whoever holds the physical paper certificate owns the bond. There's no name on it, so if you lose it, someone else can take it and claim the money. This makes bearer bonds riskier because they can be lost or stolen easily.
 
-On the other hand, a registered bond has the owner's name on it. It's recorded in the issuer's books, so only the person whose name is on the bond can get the money. If you lose a registered bond, you can still get your money back because the bond is linked to your name. This makes registered bonds safer and more common today.
+On the other hand, a registered bond has the owner's name on it. It's recorded in the issuer's [books](/wiki/algo-trading-books), so only the person whose name is on the bond can get the money. If you lose a registered bond, you can still get your money back because the bond is linked to your name. This makes registered bonds safer and more common today.
 
 Because bearer bonds can be used for illegal things like hiding money from the government, many countries don't use them anymore. Registered bonds are easier to track and more secure, which is why they are preferred by both issuers and investors.
 

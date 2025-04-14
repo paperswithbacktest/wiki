@@ -84,7 +84,7 @@ Another important thing in making high-end instruments is how they test and chan
 
 ## What are the key instruments in algo trading?
 
-In algorithmic trading, various financial instruments serve as the essential components of trading strategies. These instruments include stocks, options, futures, exchange-traded funds (ETFs), and currencies, each bringing unique characteristics and complexities to the trading environment.
+In [algorithmic trading](/wiki/algorithmic-trading), various financial instruments serve as the essential components of trading strategies. These instruments include stocks, options, futures, exchange-traded funds (ETFs), and currencies, each bringing unique characteristics and complexities to the trading environment.
 
 Stocks represent ownership shares in a corporation and are widely traded on stock exchanges. They are subject to market fluctuations based on various factors, including company performance, economic conditions, and investor sentiment. Algorithmic trading strategies involving stocks often capitalize on market inefficiencies and patterns through rapid execution of trades.
 
@@ -92,9 +92,9 @@ Options are financial derivatives that provide the right but not the obligation 
 
 Futures contracts are agreements to buy or sell an asset at a future date and price, commonly used for hedging and speculating on price movements. Futures are standardized contracts traded on exchanges, with underlying assets ranging from commodities to financial instruments. In algo trading, futures are often leveraged for their [liquidity](/wiki/liquidity-risk-premium) and transparency.
 
-Exchange-Traded Funds (ETFs) are investment funds that hold baskets of assets like stocks or bonds and trade on exchanges like individual stocks. They offer diversification and can be used in strategies similar to those for individual stocks or for more sophisticated arbitrage plays due to their structure and pricing dynamics.
+Exchange-Traded Funds (ETFs) are investment funds that hold baskets of assets like stocks or bonds and trade on exchanges like individual stocks. They offer diversification and can be used in strategies similar to those for individual stocks or for more sophisticated [arbitrage](/wiki/arbitrage) plays due to their structure and pricing dynamics.
 
-Currencies, or [forex](/wiki/forex-system) trading, involve buying and selling currency pairs in the foreign exchange market. This market operates 24/7 and is highly liquid, providing opportunities for algorithmic strategies focused on arbitrage, carry trades, and [momentum](/wiki/momentum).
+Currencies, or [forex](/wiki/forex-system) trading, involve buying and selling currency pairs in the foreign exchange market. This market operates 24/7 and is highly liquid, providing opportunities for algorithmic strategies focused on arbitrage, [carry](/wiki/carry-trading) trades, and [momentum](/wiki/momentum).
 
 Understanding the nature, pricing mechanisms, and market behavior of each instrument is critical for successful algorithmic trading. For instance, the Black-Scholes model might be used to price options, which involves calculations such as:
 

@@ -18,7 +18,7 @@ Understanding gross margin is important because it helps business owners see if 
 
 Contribution margin is a way to see how much money is left from sales after paying for the costs to make or buy the products you're selling. It's different from gross margin because it only looks at the variable costs, which are costs that change depending on how much you produce or sell. Things like materials and direct labor are variable costs. The contribution margin helps you understand how much each product contributes to covering the fixed costs, like rent and salaries, and then to profit.
 
-To calculate the contribution margin, you take the sales revenue and subtract the variable costs. What you get is the contribution margin in dollars. If you want to know the contribution margin ratio, you divide the contribution margin by the sales revenue and turn it into a percentage. This percentage tells you what part of each sales dollar is left to cover fixed costs and profit. Knowing the contribution margin is useful for deciding on pricing, choosing which products to focus on, and figuring out how changes in sales volume affect your profits.
+To calculate the contribution margin, you take the sales revenue and subtract the variable costs. What you get is the contribution margin in dollars. If you want to know the contribution margin ratio, you divide the contribution margin by the sales revenue and turn it into a percentage. This percentage tells you what part of each sales dollar is left to cover fixed costs and profit. Knowing the contribution margin is useful for deciding on pricing, choosing which products to focus on, and figuring out how changes in sales [volume](/wiki/volume-trading-strategy) affect your profits.
 
 ## How is Gross Margin calculated?
 

@@ -124,7 +124,7 @@ Proper working capital management minimizes the need for external financing, red
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization." Advances in Neural Information Processing Systems 24. This paper discusses innovative algorithms for hyper-parameter optimization, offering insights that are crucial for enhancing machine learning models used in algorithmic trading. It focuses on techniques that can improve the accuracy and efficiency of trading algorithms.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization." Advances in Neural Information Processing Systems 24. This paper discusses innovative algorithms for hyper-parameter optimization, offering insights that are crucial for enhancing [machine learning](/wiki/machine-learning) models used in [algorithmic trading](/wiki/algorithmic-trading). It focuses on techniques that can improve the accuracy and efficiency of trading algorithms.
 
 "Advances in Financial Machine Learning" by Marcos Lopez de Prado is a comprehensive resource that integrates machine learning methodologies with financial data analysis. The book covers various machine learning techniques and their applications in financial markets, including the development of predictive models and trade execution strategies.
 

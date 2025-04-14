@@ -78,7 +78,7 @@ Revdex helps investors see these changes and make smart choices. If the Revdex i
 
 ## What future developments or innovations are expected in Revdex for fixed income markets?
 
-In the future, Revdex might get better at showing more detailed information about revenue bonds. This could mean adding more data about different projects, like toll roads or hospitals, so investors can see how each type of project is doing. Revdex might also start using new technology, like artificial intelligence, to predict how revenue bonds will do in the future. This could help investors make even smarter choices about buying or selling these bonds.
+In the future, Revdex might get better at showing more detailed information about revenue bonds. This could mean adding more data about different projects, like toll roads or hospitals, so investors can see how each type of project is doing. Revdex might also start using new technology, like [artificial intelligence](/wiki/ai-artificial-intelligence), to predict how revenue bonds will do in the future. This could help investors make even smarter choices about buying or selling these bonds.
 
 Another thing that might happen is Revdex could become part of more trading platforms and systems. This would make it easier for more people to use Revdex when they're making decisions about their money. Also, Revdex might work with other indices to give a fuller picture of the whole bond market. By doing this, investors could see how revenue bonds fit into the bigger picture and make better plans for their investments.
 

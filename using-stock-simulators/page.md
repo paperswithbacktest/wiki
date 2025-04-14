@@ -64,7 +64,7 @@ In addition to stocks, bonds, and options, some advanced simulators also let you
 
 ## Can stock simulators be used for backtesting trading strategies?
 
-Yes, stock simulators can be used for backtesting trading strategies. Backtesting means you take a strategy you want to try and see how it would have worked in the past. You can do this in a simulator by using historical data, which is information about how stocks and other investments did in the past. This way, you can see if your strategy would have made money or lost money if you had used it before.
+Yes, stock simulators can be used for [backtesting](/wiki/backtesting) trading strategies. Backtesting means you take a strategy you want to try and see how it would have worked in the past. You can do this in a simulator by using historical data, which is information about how stocks and other investments did in the past. This way, you can see if your strategy would have made money or lost money if you had used it before.
 
 Using a simulator for backtesting is helpful because it lets you try out different ideas without risking any real money. You can change your strategy and see how it would have worked over different time periods. This can help you find out what works best and what doesn't, so you can be more confident when you start trading for real.
 

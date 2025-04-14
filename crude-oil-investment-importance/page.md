@@ -18,7 +18,7 @@ People find crude oil by drilling into the earth, often in places like the ocean
 
 Crude oil is very important in our daily lives because it is used to make many things we use every day. One of the main uses of crude oil is to make gasoline. Gasoline is what makes cars, trucks, and motorcycles run. Without gasoline, it would be hard for people to drive to work, school, or to visit friends and family. Also, crude oil is used to make diesel fuel, which powers big trucks and buses, and jet fuel, which makes airplanes fly.
 
-Besides transportation, crude oil is used to make many products we use at home. For example, it is used to make plastics, which are in things like toys, bottles, and food containers. Crude oil is also used to make things like medicines, cleaning products, and even the asphalt on roads. So, when you use a plastic bottle or drive on a road, you are using something that came from crude oil.
+Besides transportation, [crude oil](/wiki/crude-oil) is used to make many products we use at home. For example, it is used to make plastics, which are in things like toys, bottles, and food containers. Crude oil is also used to make things like medicines, cleaning products, and even the asphalt on roads. So, when you use a plastic bottle or drive on a road, you are using something that came from crude oil.
 
 In addition to these, crude oil helps keep our homes warm. It is used to make heating oil, which many people use to heat their houses during cold winters. So, crude oil is not just for cars and plastics; it plays a big role in keeping us comfortable and helping us with many daily tasks.
 

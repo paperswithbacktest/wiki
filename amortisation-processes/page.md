@@ -28,7 +28,7 @@ Let's break it down simply. If you borrow $10,000 at an annual interest rate of 
 
 ## What types of assets are typically amortized?
 
-Amortization is used for things that don't have a physical form, like ideas or rights. These are called intangible assets. Common examples include patents, which give you the right to make or sell a new invention, and copyrights, which protect things like books or music. Another example is a trademark, which is a symbol or name that helps people recognize a brand. When a company buys one of these, they spread out the cost over the time they expect to use it.
+Amortization is used for things that don't have a physical form, like ideas or rights. These are called intangible assets. Common examples include patents, which give you the right to make or sell a new invention, and copyrights, which protect things like [books](/wiki/algo-trading-books) or music. Another example is a trademark, which is a symbol or name that helps people recognize a brand. When a company buys one of these, they spread out the cost over the time they expect to use it.
 
 Another type of asset that is often amortized is a loan. When you take out a loan, like a mortgage for a house or a car loan, you don't pay it all back at once. Instead, you make payments over time until the loan is paid off. This process of paying off the loan in regular amounts is called amortization. It helps make big purchases more manageable by breaking down the total cost into smaller, regular payments.
 
@@ -48,7 +48,7 @@ People use an amortization schedule to understand how their loan works and to pl
 
 The interest rate is a big part of how amortization works. When you take out a loan, the interest rate is how much it costs you to borrow the money. If the interest rate is high, more of your monthly payment goes towards paying the interest instead of the actual amount you borrowed, which is called the principal. This means it takes longer to pay off the loan because less of your money is going towards the principal each month. On the other hand, if the interest rate is low, more of your payment goes towards the principal, so you can pay off the loan faster and pay less interest overall.
 
-Understanding how the interest rate affects your payments can help you make smart choices about loans. If you have a choice between loans with different interest rates, picking the one with the lower rate can save you a lot of money over time. Also, if you can, paying extra on your loan can help you pay it off faster, especially if the interest rate is high. This way, you can reduce the total amount of interest you end up paying.
+Understanding how the interest rate affects your payments can help you make smart choices about loans. If you have a choice between loans with different interest rates, [picking](/wiki/asset-class-picking) the one with the lower rate can save you a lot of money over time. Also, if you can, paying extra on your loan can help you pay it off faster, especially if the interest rate is high. This way, you can reduce the total amount of interest you end up paying.
 
 ## What are the tax implications of amortization for businesses?
 

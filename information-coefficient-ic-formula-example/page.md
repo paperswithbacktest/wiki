@@ -40,7 +40,7 @@ To calculate the IC, you first need to gather your predicted returns and the act
 
 ## What does a high IC value indicate?
 
-A high IC value means your guesses about how stocks will do are really good. It shows that your predictions match up well with what actually happens to the stocks. If your IC is close to 1, it's like getting a high score on a test, telling you that your way of picking stocks is working well.
+A high IC value means your guesses about how stocks will do are really good. It shows that your predictions match up well with what actually happens to the stocks. If your IC is close to 1, it's like getting a high score on a test, telling you that your way of [picking](/wiki/asset-class-picking) stocks is working well.
 
 This is super helpful for people who use computers and math to invest, because a high IC gives them confidence in their methods. It means they can trust their strategies more and make better choices about which stocks to buy or sell. A high IC is like a green light, telling investors they're on the right track.
 

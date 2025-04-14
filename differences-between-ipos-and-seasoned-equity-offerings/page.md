@@ -92,7 +92,7 @@ $$
 
 Despite potential dilution, dilutive SEOs are often vital for facilitating company growth and strengthening financial stability. They allow companies to finance significant projects, reduce debt, or seize market opportunities that require immediate capital deployment. Consequently, the long-term benefits achieved through these funds can potentially outweigh the short-term downsides of dilution.
 
-Non-dilutive offerings, however, maintain existing shareholders' value by not altering the number of shares outstanding. In these scenarios, existing shareholders sell portions of their holdings, thereby not increasing the total share count. This approach offers liquidity to the shareholders involved while mitigating dilution risks for others.
+Non-dilutive offerings, however, maintain existing shareholders' value by not altering the number of shares outstanding. In these scenarios, existing shareholders sell portions of their holdings, thereby not increasing the total share count. This approach offers [liquidity](/wiki/liquidity-risk-premium) to the shareholders involved while mitigating dilution risks for others.
 
 In conclusion, the decision between dilutive and non-dilutive SEOs reflects a company's financing strategy and its effect on shareholder value. Understanding these dynamics is crucial for both the companies seeking to raise funds and the investors aiming to safeguard their investments.
 

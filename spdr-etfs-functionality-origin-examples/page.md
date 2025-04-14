@@ -18,7 +18,7 @@ In addition to the S&P 500, there are many other SPDR ETFs that track different 
 
 SPDR ETFs work by pooling money from many investors to buy a basket of securities that track a specific index. For example, the SPDR S&P 500 ETF Trust buys stocks of the 500 companies in the S&P 500 index. The value of the ETF goes up or down based on how well those 500 companies are doing. When you buy shares of the ETF, you own a small piece of all those companies. This makes it easy for you to invest in a big part of the market without having to buy each stock individually.
 
-These ETFs are traded on stock exchanges, just like individual stocks. This means you can buy and sell them anytime during the trading day at the current market price. The price of an SPDR ETF can change throughout the day, but it usually stays close to the value of the underlying index it tracks. This is because the ETF's managers work to keep the ETF's holdings in line with the index, buying or selling securities as needed to match the index's performance.
+These ETFs are traded on stock exchanges, just like individual stocks. This means you can buy and sell them anytime during the trading day at the current market price. The price of an SPDR [ETF](/wiki/etf-trading-strategies) can change throughout the day, but it usually stays close to the value of the underlying index it tracks. This is because the ETF's managers work to keep the ETF's holdings in line with the index, buying or selling securities as needed to match the index's performance.
 
 ## Who created SPDR ETFs and when were they first introduced?
 

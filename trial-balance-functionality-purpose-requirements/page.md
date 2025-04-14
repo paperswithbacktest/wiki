@@ -112,7 +112,7 @@ Traders and financial analysts are increasingly recognizing the value of integra
 
 By incorporating trial balance data, which ensures that debits and credits are accurately balanced and recorded, traders can align their algorithms with financial integrity and stability metrics. Algorithms that account for these financial indicators are typically better equipped to evaluate potential risks and opportunities. For example, a consistent mismatch in trial balance figures might signal an underlying issue in financial reporting or operations, warning traders to exercise caution.
 
-Financial statements go a step further by offering detailed insights into a company's operational performance over a specific period. Traders can use key metrics such as the liquidity ratios, profitability ratios, and leverage ratios derivable from these statements to inform their algorithmic strategies. For instance, the current ratio, calculated as:
+Financial statements go a step further by offering detailed insights into a company's operational performance over a specific period. Traders can use key metrics such as the [liquidity](/wiki/liquidity-risk-premium) ratios, profitability ratios, and leverage ratios derivable from these statements to inform their algorithmic strategies. For instance, the current ratio, calculated as:
 
 $$
 \text{Current Ratio} = \frac{\text{Current Assets}}{\text{Current Liabilities}}
@@ -120,7 +120,7 @@ $$
 
 can help in assessing a company’s ability to cover short-term obligations, which is pivotal for evaluating short-term risk.
 
-Incorporating such analysis into algorithmic trading systems can enhance the robustness of predicting market trends. Python, as a preferred language for these implementations, offers libraries such as pandas for handling and analyzing financial data. A basic example code snippet might look as follows:
+Incorporating such analysis into [algorithmic trading](/wiki/algorithmic-trading) systems can enhance the robustness of predicting market trends. Python, as a preferred language for these implementations, offers libraries such as pandas for handling and analyzing financial data. A basic example code snippet might look as follows:
 
 ```python
 import pandas as pd

@@ -131,7 +131,7 @@ Another challenge is keeping the model up to date. In real-time systems, what's 
 
 ## How can Novelty Detection be integrated with other machine learning techniques?
 
-Novelty detection can be combined with other machine learning techniques to make a system that's even better at finding new things. One way to do this is by using novelty detection as a first step to find unusual data, and then using another model like a classifier to figure out what kind of novelty it is. For example, if a bank's system spots a new kind of transaction, it can then use a classifier to see if it's fraud or just a new type of normal transaction. This helps the system learn from new data and get better over time. You can use a code block to set this up like this:
+Novelty detection can be combined with other [machine learning](/wiki/machine-learning) techniques to make a system that's even better at finding new things. One way to do this is by using novelty detection as a first step to find unusual data, and then using another model like a classifier to figure out what kind of novelty it is. For example, if a bank's system spots a new kind of transaction, it can then use a classifier to see if it's fraud or just a new type of normal transaction. This helps the system learn from new data and get better over time. You can use a code block to set this up like this:
 
 ```python
 from sklearn.ensemble import IsolationForest
@@ -167,7 +167,7 @@ Another way to integrate novelty detection with other techniques is by using it 
 
 ## What are the latest research trends in Novelty Detection?
 
-Recent research in novelty detection has focused on making models better at finding new things in big data sets. One big trend is using deep learning, like neural networks, to spot novelties. These models can learn complex patterns in data, which helps them find new things more accurately. Researchers are also working on ways to make these models explain why something is a novelty, which is important for people to trust the system. For example, if a model says a bank transaction is new, it should be able to explain why it thinks that.
+Recent research in novelty detection has focused on making models better at finding new things in big data sets. One big trend is using [deep learning](/wiki/deep-learning), like neural networks, to spot novelties. These models can learn complex patterns in data, which helps them find new things more accurately. Researchers are also working on ways to make these models explain why something is a novelty, which is important for people to trust the system. For example, if a model says a bank transaction is new, it should be able to explain why it thinks that.
 
 Another trend is making novelty detection work well with streaming data, where new information keeps coming in all the time. This is important for things like monitoring machines or watching for fraud in real-time. Researchers are trying to make models that can learn from new data quickly without forgetting what they already know. This is called online learning, and it's a big challenge because the model needs to stay accurate as the world changes. For example, if a machine starts making a new noise, the system should spot it fast and keep learning what's normal.
 

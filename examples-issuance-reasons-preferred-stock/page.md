@@ -121,7 +121,7 @@ Each category of financial instruments has its respective advantages and roles w
    This book provides comprehensive insights into key corporate finance concepts, including the use of preferred stock as a capital-raising tool, essential for maintaining a balanced capital structure.
 
 2. **"Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan**  
-   Ernie Chan offers practical insights into algorithmic trading, exploring the technical and strategic aspects necessary for developing effective trading algorithms.
+   Ernie Chan offers practical insights into [algorithmic trading](/wiki/algorithmic-trading), exploring the technical and strategic aspects necessary for developing effective trading algorithms.
 
 3. **Academic Journal: "The Changing Landscape of Preferred Stock: Perception and Performance"**  
    This journal article examines the evolving role of preferred stock in corporate finance, analyzing market performance and investor perception. It highlights trends that influence issuance and investor demand.
@@ -136,7 +136,7 @@ Each category of financial instruments has its respective advantages and roles w
    This work introduces algorithmic trading and financial modeling using Python, providing practical code examples and strategies for implementing quantitative finance models.
 
 7. **Research Paper: "The Effect of Algorithmic Trading on Market Quality: Evidence from the NYSE"**  
-   This research paper studies the impact of algorithmic trading on market quality, providing empirical data and analysis on liquidity, price discovery, and volatility in markets where preferred stocks are actively traded.
+   This research paper studies the impact of algorithmic trading on market quality, providing empirical data and analysis on [liquidity](/wiki/liquidity-risk-premium), price discovery, and [volatility](/wiki/volatility-trading-strategies) in markets where preferred stocks are actively traded.
 
 8. **Blog: "The Evolution of Preferred Stock in Modern Corporate Finance" on Harvard Business Review**  
    This article explores the strategic use of preferred stock in contemporary corporate finance, discussing its benefits and challenges in aligning with corporate goals.

@@ -40,7 +40,7 @@ This limit also helps you stick to your trading plan. When you know how much you
 
 ## Can the maximum dollar position size be adjusted during backtesting, and if so, how?
 
-Yes, you can change the maximum dollar position size while you're backtesting your trading strategy. Backtesting is when you test your trading plan using past data to see how it would have worked. If you find that your strategy is losing too much money or not making enough, you can try different position sizes to see if it helps. You might start with a small position size, like 1% of your total money, and then try 2% or even 0.5% to see what works best.
+Yes, you can change the maximum dollar position size while you're [backtesting](/wiki/backtesting) your trading strategy. Backtesting is when you test your trading plan using past data to see how it would have worked. If you find that your strategy is losing too much money or not making enough, you can try different position sizes to see if it helps. You might start with a small position size, like 1% of your total money, and then try 2% or even 0.5% to see what works best.
 
 To adjust the position size during backtesting, you'll need to use the software or tool you're using for backtesting. Most trading platforms let you set and change the position size easily. You can run the backtest again with the new position size and compare the results. This way, you can find the best position size that keeps your risk low but still lets you make good profits.
 
@@ -52,7 +52,7 @@ Another mistake is not adjusting the position size at all during backtesting. Tr
 
 ## How does the choice of asset class influence the maximum dollar position size in backtesting?
 
-The type of asset you're trading, like stocks, forex, or cryptocurrencies, can change how you set your maximum dollar position size in backtesting. Different assets have different levels of risk and volatility. For example, stocks might be less risky than cryptocurrencies, so you might feel okay using a bigger position size for stocks. On the other hand, if you're trading something like forex or crypto, which can go up and down a lot, you might want to use a smaller position size to keep your risk lower.
+The type of asset you're trading, like stocks, [forex](/wiki/forex-system), or cryptocurrencies, can change how you set your maximum dollar position size in backtesting. Different assets have different levels of risk and volatility. For example, stocks might be less risky than cryptocurrencies, so you might feel okay using a bigger position size for stocks. On the other hand, if you're trading something like forex or crypto, which can go up and down a lot, you might want to use a smaller position size to keep your risk lower.
 
 When you backtest, you need to think about how the asset's price moves. If an asset is really volatile, like some cryptocurrencies, a small change in price could mean a big loss if your position size is too large. So, you might choose a smaller position size to make sure you don't lose too much money in your backtest. But if you're trading something more stable, like certain stocks or bonds, you might be able to use a bigger position size because the risk of big losses is lower. This helps you find a position size that works well with the specific asset you're trading.
 
@@ -84,7 +84,7 @@ These limits help stop traders from taking too much risk and losing a lot of mon
 
 ## How do you determine the maximum dollar position size in backtesting?
 
-Determining the maximum dollar position size during backtesting is pivotal for optimizing algorithmic trading strategies. The position size must align with the overall trading strategy's risk tolerance, understanding historical market conditions, and accounting for transaction costs.
+Determining the maximum dollar position size during backtesting is pivotal for optimizing [algorithmic trading](/wiki/algorithmic-trading) strategies. The position size must align with the overall trading strategy's risk tolerance, understanding historical market conditions, and accounting for transaction costs.
 
 One primary consideration for establishing the maximum position size is the strategy's capability to endure drawdowns while maintaining risk-adjusted returns. A drawdown is the decline from a peak to a trough during a specific period, which represents potential losses. The maximum position size should minimize the probability of significant capital erosion during such drawdowns.
 

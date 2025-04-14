@@ -28,7 +28,7 @@ A write-down also shows up on the income statement, which shows how much money t
 
 ## Can you explain the difference between a write-down and a write-off?
 
-A write-down and a write-off both deal with reducing the value of an asset, but they are a bit different. A write-down happens when a company lowers the value of an asset on its books because it's now worth less than what the company paid for it. For example, if a company bought a piece of equipment for $10,000 but now it's only worth $8,000, they would write down the value by $2,000. The asset still has some value, just less than before.
+A write-down and a write-off both deal with reducing the value of an asset, but they are a bit different. A write-down happens when a company lowers the value of an asset on its [books](/wiki/algo-trading-books) because it's now worth less than what the company paid for it. For example, if a company bought a piece of equipment for $10,000 but now it's only worth $8,000, they would write down the value by $2,000. The asset still has some value, just less than before.
 
 A write-off, on the other hand, is when a company decides an asset has no value left at all. They take the whole value of the asset off their books. For instance, if that same piece of equipment becomes totally unusable and can't be sold or used anymore, the company would write it off completely. This means the asset's value goes to zero on the balance sheet. Both write-downs and write-offs affect a company's financial statements, but a write-off is a more extreme action because it means the asset is worthless.
 

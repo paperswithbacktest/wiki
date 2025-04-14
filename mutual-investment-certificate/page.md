@@ -24,7 +24,7 @@ As the value of the investments goes up or down, so does the value of your Mutua
 
 One big benefit of investing in a Mutual Investment Certificate is that it lets you spread your money across many different investments. Instead of putting all your money into one stock or bond, you get a little piece of many things. This can make it safer because if one investment does badly, it won't hurt your whole investment as much. It's like not putting all your eggs in one basket.
 
-Another benefit is that you don't have to be an expert in picking investments. The fund manager does all the hard work of deciding what to buy and sell. This can save you a lot of time and stress. It's good for people who want to grow their money but don't know a lot about investing or don't have the time to manage their investments themselves.
+Another benefit is that you don't have to be an expert in [picking](/wiki/asset-class-picking) investments. The fund manager does all the hard work of deciding what to buy and sell. This can save you a lot of time and stress. It's good for people who want to grow their money but don't know a lot about investing or don't have the time to manage their investments themselves.
 
 Lastly, Mutual Investment Certificates can be a good way to start investing with less money. You can often buy into a fund with a smaller amount than you would need to buy individual stocks or bonds. This makes investing more accessible to more people, helping them to build their savings over time.
 

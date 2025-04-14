@@ -46,7 +46,7 @@ When the price of a stock or other thing traders are watching reaches one of the
 
 ## What are some common mistakes traders make when using Fibonacci retracements?
 
-One common mistake traders make when using Fibonacci retracements is picking the wrong high and low points to draw the levels. If traders choose the wrong points, the Fibonacci levels they draw on the chart will be in the wrong places. This can make traders think the price will stop at a certain level when it won't, leading them to buy or sell at the wrong times. To avoid this, traders should look for clear and significant price moves when choosing the high and low points.
+One common mistake traders make when using Fibonacci retracements is [picking](/wiki/asset-class-picking) the wrong high and low points to draw the levels. If traders choose the wrong points, the Fibonacci levels they draw on the chart will be in the wrong places. This can make traders think the price will stop at a certain level when it won't, leading them to buy or sell at the wrong times. To avoid this, traders should look for clear and significant price moves when choosing the high and low points.
 
 Another mistake is relying too much on Fibonacci retracements without using other tools. Fibonacci levels can help guess where the price might go, but they are not perfect. Traders should use other things like trend lines, moving averages, and other indicators along with Fibonacci retracements. This helps them make better decisions and not depend too much on just one tool. By using a mix of tools, traders can get a fuller picture of what the price might do next.
 

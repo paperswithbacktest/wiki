@@ -18,7 +18,7 @@ For investors, this can be a bit risky because they might lose the chance to ear
 
 A callable bond works like this: when you buy it, you lend money to the issuer, like a company or government, and they promise to pay you back with interest over time. But there's a twist - the issuer can decide to pay you back early, before the bond's maturity date. They might do this if interest rates drop, because then they can borrow money again at a lower rate. This is called "calling" the bond.
 
-For you, the investor, this means you might not get to earn all the interest you were hoping for if the bond gets called early. To make up for this risk, callable bonds usually offer a higher interest rate from the start. So, you have to weigh the chance of getting more interest against the possibility that the bond might be called back sooner than you expect. It's like a gamble - higher potential rewards, but also more uncertainty.
+For you, the investor, this means you might not get to earn all the interest you were hoping for if the bond gets called early. To make up for this risk, callable bonds usually offer a higher [interest rate](/wiki/interest-rate-trading-strategies) from the start. So, you have to weigh the chance of getting more interest against the possibility that the bond might be called back sooner than you expect. It's like a gamble - higher potential rewards, but also more uncertainty.
 
 ## What are the key features of a callable bond?
 

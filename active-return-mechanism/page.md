@@ -46,7 +46,7 @@ If the active manager picks investments that do better than the benchmark, the p
 
 ## What are the common strategies used to achieve a positive active return?
 
-One common strategy to achieve a positive active return is stock picking. This is when a fund manager looks at lots of different companies and tries to find the ones that will do better than the market. They might look at a company's financial health, how it's growing, and what's happening in the world that could affect it. If they pick stocks that do well, the portfolio's return can be higher than the benchmark's return, leading to a positive active return.
+One common strategy to achieve a positive active return is stock [picking](/wiki/asset-class-picking). This is when a fund manager looks at lots of different companies and tries to find the ones that will do better than the market. They might look at a company's financial health, how it's growing, and what's happening in the world that could affect it. If they pick stocks that do well, the portfolio's return can be higher than the benchmark's return, leading to a positive active return.
 
 Another strategy is sector rotation. This means moving money between different parts of the economy, like technology or healthcare, based on what's happening in the world. If a fund manager thinks one part of the economy will do better than others, they might put more money into that part. If they guess right, the portfolio can do better than the benchmark, giving a positive active return.
 
@@ -136,7 +136,7 @@ Financial analysts use these tools to perform comprehensive analyses that suppor
 
 ## How can we assess algorithmic trading performance?
 
-Assessing algorithmic trading performance involves a detailed examination of various key performance metrics and the processes that contribute to the evaluation of trading strategies. Among the most frequently used metrics are the Sharpe Ratio, maximum drawdown, win rate, and profit [factor](/wiki/factor-investing). Each of these metrics sheds light on different facets of algorithmic trading, providing a comprehensive view of an algorithm's effectiveness.
+Assessing [algorithmic trading](/wiki/algorithmic-trading) performance involves a detailed examination of various key performance metrics and the processes that contribute to the evaluation of trading strategies. Among the most frequently used metrics are the Sharpe Ratio, maximum drawdown, win rate, and profit [factor](/wiki/factor-investing). Each of these metrics sheds light on different facets of algorithmic trading, providing a comprehensive view of an algorithm's effectiveness.
 
 The Sharpe Ratio is a measure of risk-adjusted return. It is calculated as:
 

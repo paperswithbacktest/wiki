@@ -46,7 +46,7 @@ The balance sheet is like a snapshot of what a company owns and owes at a certai
 
 ## What happens to accumulated depreciation when an asset is sold or disposed of?
 
-When a company sells or gets rid of an asset, it needs to take the accumulated depreciation off its books. This is because the asset is no longer part of the company's property. The accumulated depreciation up to that point is used to figure out if the company made a profit or a loss on the sale. If the company sells the asset for more than its book value (which is the original cost minus the accumulated depreciation), it's a profit. If it sells for less, it's a loss.
+When a company sells or gets rid of an asset, it needs to take the accumulated depreciation off its [books](/wiki/algo-trading-books). This is because the asset is no longer part of the company's property. The accumulated depreciation up to that point is used to figure out if the company made a profit or a loss on the sale. If the company sells the asset for more than its book value (which is the original cost minus the accumulated depreciation), it's a profit. If it sells for less, it's a loss.
 
 To do this, the company removes the original cost of the asset from the balance sheet and also removes the accumulated depreciation. The difference between the sale price and the book value is recorded as a gain or loss on the income statement. This helps keep the company's financial records accurate and up to date, showing the real impact of selling or disposing of the asset.
 
@@ -167,5 +167,5 @@ Understanding the implications of different depreciation methods allows for stra
    - Articles from the "Journal of Finance" and the "Review of Financial Studies" often explore empirical studies and theoretical advances related to asset valuation and algorithmic trading.
    - "The Accounting Review" publishes relevant research findings that elucidate the nuances of accounting principles and their implications for financial decision-making and strategy formulation. 
 
-These resources provide a foundational understanding and more advanced knowledge for those interested in accounting, asset valuation, and the technical aspects of algorithmic trading.
+These resources provide a foundational understanding and more advanced knowledge for those interested in accounting, asset valuation, and the technical aspects of [algorithmic trading](/wiki/algorithmic-trading).
 

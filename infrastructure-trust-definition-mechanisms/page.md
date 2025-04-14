@@ -84,9 +84,9 @@ Because of these global trends, the people running the trust need to be smart ab
 
 ## What are the synergies between Infrastructure Trusts and Algo Trading?
 
-The interplay between infrastructure trusts and algorithmic trading signifies a significant advancement in the field of investment strategies. By leveraging algorithmic trading, infrastructure trusts can enhance their performance in several ways.
+The interplay between infrastructure trusts and [algorithmic trading](/wiki/algorithmic-trading) signifies a significant advancement in the field of investment strategies. By leveraging algorithmic trading, infrastructure trusts can enhance their performance in several ways.
 
-Firstly, algorithmic trading introduces efficiency in the trading of infrastructure trust units. Through predefined criteria and computational algorithms, trades can be executed at optimal times to maximize return on investment and mitigate risks associated with market volatility. For example, through the use of mean-variance optimization, algorithms can determine the best asset allocation within infrastructure trusts to maximize returns for a given level of risk. This mathematical approach can be expressed using the formula:
+Firstly, algorithmic trading introduces efficiency in the trading of infrastructure trust units. Through predefined criteria and computational algorithms, trades can be executed at optimal times to maximize return on investment and mitigate risks associated with market [volatility](/wiki/volatility-trading-strategies). For example, through the use of mean-variance optimization, algorithms can determine the best asset allocation within infrastructure trusts to maximize returns for a given level of risk. This mathematical approach can be expressed using the formula:
 
 $$
 \text{Maximize} \quad \mathbf{w}^T \mathbf{\mu} - \frac{\lambda}{2} \mathbf{w}^T \mathbf{\Sigma} \mathbf{w}
@@ -94,7 +94,7 @@ $$
 
 where $\mathbf{w}$ represents the weights of the assets within the portfolio, $\mathbf{\mu}$ is the expected returns vector, $\lambda$ is the risk aversion coefficient, and $\mathbf{\Sigma}$ is the covariance matrix of asset returns.
 
-Additionally, algorithmic trading allows for the effective management of liquidity in infrastructure trusts. Liquidity management is paramount in these trusts as they often involve investments in assets with long-term horizons and lower liquidity. By employing algorithms that predict liquidity needs and market conditions, infrastructure trusts can adaptively rebalance their portfolios, ensuring that liquidity requirements are met without compromising on long-term investment goals.
+Additionally, algorithmic trading allows for the effective management of [liquidity](/wiki/liquidity-risk-premium) in infrastructure trusts. Liquidity management is paramount in these trusts as they often involve investments in assets with long-term horizons and lower liquidity. By employing algorithms that predict liquidity needs and market conditions, infrastructure trusts can adaptively rebalance their portfolios, ensuring that liquidity requirements are met without compromising on long-term investment goals.
 
 Furthermore, algorithmic trading systems can integrate [machine learning](/wiki/machine-learning) models that forecast market trends and identify potential investment opportunities in real-time. These predictive models use large datasets to uncover patterns and insights that human analysts might overlook, providing a competitive edge to infrastructure trusts. For instance, a machine learning algorithm can be trained to analyze historical price data along with macroeconomic indicators to predict the future price movements of infrastructure assets.
 

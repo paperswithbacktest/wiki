@@ -123,7 +123,7 @@ Understanding these dynamics enables investors to develop informed strategies ta
 
 ## References & Further Reading
 
-Explore academic papers, books, and market reports to gain a comprehensive understanding of algorithmic trading and dividend strategies. For those interested in the technical and strategic underpinnings of algorithmic trading, "Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies" by Barry Johnson provides valuable insights into how algorithms can be designed and implemented effectively. Johnson's work is known for offering practical perspectives alongside theoretical approaches, making it a crucial resource for both novices and experienced traders.
+Explore academic papers, [books](/wiki/algo-trading-books), and market reports to gain a comprehensive understanding of [algorithmic trading](/wiki/algorithmic-trading) and dividend strategies. For those interested in the technical and strategic underpinnings of algorithmic trading, "Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies" by Barry Johnson provides valuable insights into how algorithms can be designed and implemented effectively. Johnson's work is known for offering practical perspectives alongside theoretical approaches, making it a crucial resource for both novices and experienced traders.
 
 Additionally, "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" by Ernest P. Chan is a recommended read. This book details the step-by-step process of creating and operating algorithmic trading systems with a focus on market microstructure, statistical [arbitrage](/wiki/arbitrage), and risk management.
 
@@ -133,7 +133,7 @@ In the academic sphere, papers such as "A Survey of the Algorithms Used in Algor
 
 Market reports from investment banks and consulting firms often provide insights into current trends affecting dividends and algorithmic trading. These reports can include in-depth analyses of market conditions, regulatory changes, and technological advancements that impact trading strategies.
 
-Online platforms like Coursera and edX offer courses on trading technologies and algorithmic finance, often taught by industry experts or university professors. These courses cover topics such as computational finance, machine learning for trading, and the use of Python for algorithm development.
+Online platforms like Coursera and edX offer courses on trading technologies and algorithmic finance, often taught by industry experts or university professors. These courses cover topics such as computational finance, [machine learning](/wiki/machine-learning) for trading, and the use of Python for algorithm development.
 
-Websites and forums dedicated to algorithmic trading, such as QuantConnect and Quantopian (though now integrated into Robinhood), offer tools for backtesting strategies and a wealth of user-generated content for learning and collaboration. These platforms enable aspiring traders to engage with broader trading communities, refine their strategies, and access backtesting environments.
+Websites and forums dedicated to algorithmic trading, such as QuantConnect and Quantopian (though now integrated into Robinhood), offer tools for [backtesting](/wiki/backtesting) strategies and a wealth of user-generated content for learning and collaboration. These platforms enable aspiring traders to engage with broader trading communities, refine their strategies, and access backtesting environments.
 

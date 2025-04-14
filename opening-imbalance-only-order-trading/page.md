@@ -24,7 +24,7 @@ Other types of orders, like market orders or limit orders, can be used at any ti
 
 Opening Imbalance-Only Orders are mainly used in stock markets that have an opening auction. This includes big stock exchanges like the New York Stock Exchange (NYSE) and the NASDAQ. These markets have a special time at the start of the day when they figure out the opening price by looking at all the buy and sell orders. If you want to trade based on this opening price, you can use an Opening Imbalance-Only Order.
 
-These orders are not common in markets that do not have an opening auction, like many forex markets or cryptocurrency exchanges. In those markets, trading happens all the time without a specific opening time, so there's no opening imbalance to consider. If you are trading in a market with an opening auction, an Opening Imbalance-Only Order can help you take advantage of the price movements at the start of the trading day.
+These orders are not common in markets that do not have an opening auction, like many [forex](/wiki/forex-system) markets or [cryptocurrency](/wiki/cryptocurrency) exchanges. In those markets, trading happens all the time without a specific opening time, so there's no opening imbalance to consider. If you are trading in a market with an opening auction, an Opening Imbalance-Only Order can help you take advantage of the price movements at the start of the trading day.
 
 ## What is the purpose of using an Opening Imbalance-Only Order?
 
@@ -93,7 +93,7 @@ $$
 
 where $P_i$ represents the price at each period.
 
-Order imbalance data further enriches trading strategies by providing insights into market depth and liquidity. Traders can analyze this data to gauge the magnitude and direction of imbalances, thus adjusting their positions accordingly. Incorporating these insights into algorithmic models can enhance predictive accuracy, allowing for more informed decision-making.
+Order imbalance data further enriches trading strategies by providing insights into market depth and [liquidity](/wiki/liquidity-risk-premium). Traders can analyze this data to gauge the magnitude and direction of imbalances, thus adjusting their positions accordingly. Incorporating these insights into algorithmic models can enhance predictive accuracy, allowing for more informed decision-making.
 
 Integrating quantitative models with real-time imbalance data allows traders to refine their strategies dynamically. For instance, using Python libraries such as Pandas and NumPy, traders can build predictive models to simulate various scenarios and identify optimal entry and [exit](/wiki/exit-strategy) points. Here's a simple Python script that demonstrates how to identify a potential trading signal using moving averages:
 

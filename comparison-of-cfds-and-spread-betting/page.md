@@ -66,9 +66,9 @@ Another important part of managing risk is to have a clear trading plan. This me
 
 One advanced strategy for CFD trading is called hedging. Hedging means opening a new trade that goes in the opposite direction of your current trade. This can help you reduce your risk. For example, if you have a CFD trade betting that the price of a stock will go up, you might open another trade betting that the same stock will go down. If the price goes down, the loss on your first trade might be offset by the gain on your second trade. Hedging can be a bit complicated, but it's a good way to protect your money when the market is unpredictable.
 
-Another strategy is called scalping. Scalping means making a lot of small trades to take advantage of tiny price changes. Traders who use this strategy often hold their trades for just a few seconds or minutes. The idea is to make a small profit on each trade, but because you're making so many trades, these small profits can add up to a big total. Scalping requires a lot of focus and quick decision-making, so it's not for everyone. But if you're good at it, it can be a very effective way to make money from CFD trading.
+Another strategy is called [scalping](/wiki/gamma-scalping). Scalping means making a lot of small trades to take advantage of tiny price changes. Traders who use this strategy often hold their trades for just a few seconds or minutes. The idea is to make a small profit on each trade, but because you're making so many trades, these small profits can add up to a big total. Scalping requires a lot of focus and quick decision-making, so it's not for everyone. But if you're good at it, it can be a very effective way to make money from CFD trading.
 
-A third strategy is called trend following. This means watching the market to see which way the price is moving and then trading in that direction. If the price is going up, you buy a CFD. If the price is going down, you sell a CFD. Trend following works best in markets that have a clear direction. To use this strategy, you need to be good at spotting trends and knowing when they might change. It can be a bit tricky, but if you get it right, you can make good profits from following the market's direction.
+A third strategy is called [trend following](/wiki/trend-following). This means watching the market to see which way the price is moving and then trading in that direction. If the price is going up, you buy a CFD. If the price is going down, you sell a CFD. Trend following works best in markets that have a clear direction. To use this strategy, you need to be good at spotting trends and knowing when they might change. It can be a bit tricky, but if you get it right, you can make good profits from following the market's direction.
 
 ## What advanced strategies can be applied to spread betting?
 
@@ -120,13 +120,13 @@ In essence, while both spread betting and CFDs offer dynamic ways to engage in t
 
 ## What are the risks and considerations?
 
-Spread betting, CFDs, and algorithmic trading, while offering potentially lucrative opportunities, also come with a set of inherent risks that traders must carefully consider. Leveraged trading, a common feature of both spread betting and CFDs, allows traders to control large positions with a relatively small amount of capital. This leverage can significantly amplify both gains and losses. For example, a relatively small adverse price movement in the market can disproportionately affect capital due to the magnified exposure offered by leverage. The formula for leverage is expressed as:
+Spread betting, CFDs, and [algorithmic trading](/wiki/algorithmic-trading), while offering potentially lucrative opportunities, also come with a set of inherent risks that traders must carefully consider. Leveraged trading, a common feature of both spread betting and CFDs, allows traders to control large positions with a relatively small amount of capital. This leverage can significantly amplify both gains and losses. For example, a relatively small adverse price movement in the market can disproportionately affect capital due to the magnified exposure offered by leverage. The formula for leverage is expressed as:
 
 $$
 \text{Leverage Ratio} = \frac{\text{Total Exposure}}{\text{Equity}}
 $$
 
-Market volatility represents another significant risk. Financial markets can experience rapid changes in price due to various factors such as economic data releases, geopolitical events, and sudden shifts in investor sentiment. Such volatility can lead to swift changes in the value of positions, making it critical for traders to implement effective risk management strategies.
+Market [volatility](/wiki/volatility-trading-strategies) represents another significant risk. Financial markets can experience rapid changes in price due to various factors such as economic data releases, geopolitical events, and sudden shifts in investor sentiment. Such volatility can lead to swift changes in the value of positions, making it critical for traders to implement effective risk management strategies.
 
 Algorithmic trading introduces additional layers of risk. Although it automates trading processes and can improve efficiency, the reliance on algorithms means there is potential for technical issues such as software bugs, algorithm malfunctions, and incorrect data inputs. These problems can lead to inadvertent trades and substantial financial losses. Continuous monitoring and robust testing are vital to ensure the integrity of the trading system.
 

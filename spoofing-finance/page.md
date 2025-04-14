@@ -18,7 +18,7 @@ This is illegal because it's like cheating. It makes the market unfair for every
 
 Spoofing is different from other market manipulations because it involves placing fake orders that the trader never plans to execute. The goal is to trick other traders into thinking there's more demand or supply than there really is. This can make the price move in a way that benefits the person doing the spoofing. For example, they might put in a big sell order to make the price drop, then quickly buy at the lower price and cancel the sell order.
 
-Other types of market manipulation might include spreading false information or rumors to influence stock prices, or "pump and dump" schemes where people hype up a stock to sell it at a higher price. Unlike spoofing, these methods don't involve placing orders that won't be filled. Instead, they rely on misleading information or coordinated buying and selling to move the market. Each type of manipulation has its own way of trying to unfairly influence the market, but spoofing is unique because it uses the order book itself as the tool for deception.
+Other types of market manipulation might include spreading false information or rumors to influence stock prices, or "pump and dump" schemes where people hype up a stock to sell it at a higher price. Unlike spoofing, these methods don't involve placing orders that won't be filled. Instead, they rely on misleading information or coordinated buying and selling to move the market. Each type of manipulation has its own way of trying to unfairly influence the market, but spoofing is unique because it uses the [order book](/wiki/order-book-trading-strategies) itself as the tool for deception.
 
 ## What are the common techniques used in spoofing?
 

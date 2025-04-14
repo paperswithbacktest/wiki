@@ -60,7 +60,7 @@ But, you might not want to exercise early just because there's intrinsic value. 
 
 ## How does the volatility of the underlying index influence the risk of early exercise?
 
-The volatility of the S&P 100, which is the index that OEX options are based on, can make early exercise riskier. Volatility means how much the index goes up and down. If the S&P 100 is very volatile, it might go up a lot after you exercise your option early, and you could miss out on making more money. On the other hand, if it goes down a lot, you might be glad you exercised early to lock in your profit. But because it's hard to predict which way the market will move, high volatility makes it riskier to exercise early.
+The [volatility](/wiki/volatility-trading-strategies) of the S&P 100, which is the index that OEX options are based on, can make early exercise riskier. Volatility means how much the index goes up and down. If the S&P 100 is very volatile, it might go up a lot after you exercise your option early, and you could miss out on making more money. On the other hand, if it goes down a lot, you might be glad you exercised early to lock in your profit. But because it's hard to predict which way the market will move, high volatility makes it riskier to exercise early.
 
 When the S&P 100 is less volatile, it doesn't move around as much, so the risk of missing out on big gains or losses is smaller. In this case, exercising early might seem less risky because you're not as worried about the index making a big jump. Still, you have to think about the time value of the option. Even if the index isn't moving much, selling the option instead of exercising it early might still be a better choice because you could get more money from its time value.
 
@@ -76,7 +76,7 @@ Using these strategies can help you manage the risks of early exercise better. T
 
 Market conditions can make a big difference when you're thinking about exercising your OEX options early. If the market is going up fast, you might want to wait instead of exercising early because the option could become more valuable. But if the market looks like it might go down soon, you might want to exercise early to lock in your profit before it's too late. Also, if the market is really unpredictable and moving a lot, it's riskier to exercise early because you could miss out on big changes in the S&P 100.
 
-Interest rates can also affect your decision. When interest rates are high, it can be more costly to hold onto your option until it expires because you could be earning more money from interest if you had the cash now. This might make you more likely to exercise early to get your money sooner. But if interest rates are low, it doesn't hurt as much to wait, so you might choose to hold onto your option and see if it goes up in value before deciding to exercise.
+Interest rates can also affect your decision. When interest rates are high, it can be more costly to hold onto your option until it expires because you could be [earning](/wiki/earning-announcement) more money from interest if you had the cash now. This might make you more likely to exercise early to get your money sooner. But if interest rates are low, it doesn't hurt as much to wait, so you might choose to hold onto your option and see if it goes up in value before deciding to exercise.
 
 ## What are the long-term effects on a trading portfolio from frequently early exercising OEX options?
 

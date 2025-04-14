@@ -102,7 +102,7 @@ Understanding the role and behavior of the LRATC curve is fundamental for firms 
 
 ## What is the practical application of LRATC as demonstrated in the case study?
 
-The application of Long-Run Average Total Cost (LRATC) is pivotal in understanding and optimizing trading strategies, particularly in algorithmic trading where cost efficiencies and strategic input adjustments directly influence profitability. This case study explores how LRATC principles were applied in a specific algorithmic trading strategy aimed at enhancing market positioning and liquidity provision.
+The application of Long-Run Average Total Cost (LRATC) is pivotal in understanding and optimizing trading strategies, particularly in [algorithmic trading](/wiki/algorithmic-trading) where cost efficiencies and strategic input adjustments directly influence profitability. This case study explores how LRATC principles were applied in a specific algorithmic trading strategy aimed at enhancing market positioning and [liquidity](/wiki/liquidity-risk-premium) provision.
 
 ### Case Overview
 
@@ -118,7 +118,7 @@ $$
 
 where "Total Cost" includes both fixed and variable costs over an extended period. In this context, the "quantity produced" correlates to the volume of trades executed by the algorithm.
 
-One major efficiency was gained by optimizing the algorithm's trade execution speed, thereby reducing slippage costs (the difference between the expected price of a trade and the actual price). Further, the firm strategically negotiated volume-based discounts with exchanges to lower transaction fees, directly decreasing the average total cost.
+One major efficiency was gained by optimizing the algorithm's trade execution speed, thereby reducing slippage costs (the difference between the expected price of a trade and the actual price). Further, the firm strategically negotiated [volume](/wiki/volume-trading-strategy)-based discounts with exchanges to lower transaction fees, directly decreasing the average total cost.
 
 ### Outcomes
 
@@ -138,7 +138,7 @@ Additionally, an integrated approach involving both technology and financial str
 
 ### Potential for Future Improvements
 
-Future improvements might focus on leveraging advanced data analytics and machine learning to predict and react to market changes even more rapidly. This could further enhance cost management by identifying optimal trade points earlier and reducing exposure to adverse price movements. There is also potential in automating the negotiation of fees with exchanges using AI-driven models, potentially reducing administrative overhead.
+Future improvements might focus on leveraging advanced data analytics and [machine learning](/wiki/machine-learning) to predict and react to market changes even more rapidly. This could further enhance cost management by identifying optimal trade points earlier and reducing exposure to adverse price movements. There is also potential in automating the negotiation of fees with exchanges using AI-driven models, potentially reducing administrative overhead.
 
 In conclusion, the practical application of LRATC in algorithmic trading not only provides a robust framework for cost management but also offers a strategic advantage in optimizing trading performance. This case underscores the value of integrating economic principles with technological solutions to achieve sustainable trading success.
 

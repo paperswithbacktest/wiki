@@ -86,7 +86,7 @@ Algorithmic trading strategies often seek to capitalize on perceived patterns in
 
 ### Identifying Hot Hand Streaks
 
-Traders utilize statistical models to identify and exploit performance streaks. These models rely on quantitative analysis techniques, such as moving averages, time-series analysis, and [machine learning](/wiki/machine-learning), to detect anomalies or streaks in the data. For instance, moving average convergence divergence (MACD) and relative strength index (RSI) are commonly used indicators that help assess momentum, potentially spotting a "Hot Hand."
+Traders utilize statistical models to identify and exploit performance streaks. These models rely on quantitative analysis techniques, such as moving averages, time-series analysis, and [machine learning](/wiki/machine-learning), to detect anomalies or streaks in the data. For instance, moving average convergence divergence (MACD) and relative strength index (RSI) are commonly used indicators that help assess [momentum](/wiki/momentum), potentially spotting a "Hot Hand."
 
 A simple moving average (SMA) can be used to smooth out price data and highlight trends. Consider a time series of stock prices $P = \{ p_1, p_2, ..., p_n \}$. A moving average $MA_t$ over a window of $k$ days is calculated as:
 
@@ -98,7 +98,7 @@ This formula helps traders identify the direction of the prevailing trend that c
 
 ### Leveraging Statistical Tools
 
-Advanced algorithmic trading strategies incorporate machine learning models, such as support vector machines (SVMs) or neural networks, to improve identification and prediction of "Hot Hand" streaks. These models are trained on historical data to recognize patterns that have historically preceded significant price movements.
+Advanced [algorithmic trading](/wiki/algorithmic-trading) strategies incorporate machine learning models, such as support vector machines (SVMs) or neural networks, to improve identification and prediction of "Hot Hand" streaks. These models are trained on historical data to recognize patterns that have historically preceded significant price movements.
 
 For instance, an SVM might be used to classify price movements as part of a streak, training on features such as recent returns, [volume](/wiki/volume-trading-strategy) changes, and economic indicators. Python's `scikit-learn` library provides robust tools for implementing such models:
 

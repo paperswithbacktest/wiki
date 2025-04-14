@@ -18,7 +18,7 @@ In a multi-agent trading system, the agents can be set up to do different jobs. 
 
 A multi-agent trading system is different from traditional trading systems because it uses many small programs, called agents, to make trading decisions. In a traditional system, usually one person or a small team makes all the decisions about buying and selling. But in a multi-agent system, each agent follows its own rules and works together with other agents to reach the goal of making money. This means the system can look at the market from many different angles at the same time, which can lead to better and faster decisions.
 
-Traditional trading systems often rely on human judgment and a set of fixed rules. They might use computer programs to help, but the final decisions are usually made by people. On the other hand, a multi-agent system can learn and change over time. The agents can adapt to new market conditions and learn from each other, making the system more flexible and able to handle complex situations better. This learning ability can help the system find new ways to make money that a traditional system might miss.
+Traditional trading systems often rely on human judgment and a set of fixed rules. They might use computer programs to help, but the final decisions are usually made by people. On the other hand, a multi-agent system can learn and change over time. The [agents](/wiki/agents) can adapt to new market conditions and learn from each other, making the system more flexible and able to handle complex situations better. This learning ability can help the system find new ways to make money that a traditional system might miss.
 
 ## What are the basic components of a multi-agent trading system?
 
@@ -48,7 +48,7 @@ Another way multi-agent systems improve decision-making is by learning over time
 
 ## What role does machine learning play in multi-agent trading systems?
 
-Machine learning is a big part of multi-agent trading systems. It helps the agents learn from past trades and market changes. Each agent can change its rules over time to make better decisions. This means the system can get smarter and find new ways to make money that it might not have seen before. By using machine learning, the agents can adapt to new situations and keep improving their trading strategies.
+Machine learning is a big part of multi-agent trading systems. It helps the agents learn from past trades and market changes. Each agent can change its rules over time to make better decisions. This means the system can get smarter and find new ways to make money that it might not have seen before. By using [machine learning](/wiki/machine-learning), the agents can adapt to new situations and keep improving their trading strategies.
 
 The agents in a multi-agent system also learn from each other. When one agent finds something useful, like a good time to buy or sell, it can share that information with the other agents. This teamwork helps the whole system make better choices. Machine learning makes this sharing and learning process even better, so the system can react faster and more accurately to changes in the market. This helps the multi-agent trading system stay ahead and make more profitable trades.
 

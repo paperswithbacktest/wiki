@@ -22,7 +22,7 @@ After all the marbles are sorted, the computer moves the centroids to the middle
 
 ## What are the main steps in the K-means algorithm?
 
-The K-means algorithm starts by picking a certain number of random points, called centroids, to be the centers of the groups you want to make. Let's say you want to sort marbles into three groups. The computer would pick three marbles at random and use them as the starting centroids. Then, it looks at every other marble and decides which centroid it's closest to. Each marble gets put into the group of its nearest centroid.
+The K-means algorithm starts by [picking](/wiki/asset-class-picking) a certain number of random points, called centroids, to be the centers of the groups you want to make. Let's say you want to sort marbles into three groups. The computer would pick three marbles at random and use them as the starting centroids. Then, it looks at every other marble and decides which centroid it's closest to. Each marble gets put into the group of its nearest centroid.
 
 After all the marbles are sorted, the computer moves the centroids to the middle of their new groups. It does this by finding the average position of all the marbles in each group. Then, it sorts the marbles again, putting each one in the group of the nearest centroid. The computer keeps doing this, moving marbles and centroids, until the groups stop changing much. This way, the marbles in each group end up being as similar to each other as possible.
 

@@ -24,7 +24,7 @@ On the other hand, distributing shares work differently. With these shares, the 
 
 The main way accumulating shares work is by taking the money the fund earns, like dividends or interest, and using it to buy more shares of the fund. Instead of giving you this money, the fund keeps it and uses it to grow your investment. This means that over time, you end up owning more shares without having to spend any extra money.
 
-This process helps your investment grow faster because of something called compounding. Compounding happens when the new shares you get from the reinvested money start earning their own dividends. These new dividends are then used to buy even more shares, and the cycle keeps going. This can lead to your investment growing bigger and bigger over time.
+This process helps your investment grow faster because of something called compounding. Compounding happens when the new shares you get from the reinvested money start [earning](/wiki/earning-announcement) their own dividends. These new dividends are then used to buy even more shares, and the cycle keeps going. This can lead to your investment growing bigger and bigger over time.
 
 ## Can you explain the process of reinvesting dividends in accumulating shares?
 

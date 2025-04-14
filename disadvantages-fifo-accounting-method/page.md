@@ -66,7 +66,7 @@ But, not all countries use the same rules. For example, the United States allows
 
 ## What are the potential misalignments between FIFO and actual physical flow of inventory?
 
-Sometimes, using FIFO might not match how the actual stuff in your store moves around. Imagine you have a shop where people always take the newest items from the front of the shelf. Even though you're using FIFO for your money records, the real stuff might not be sold in that order. This can cause a problem because what you see on your books might not be what's really happening in your store.
+Sometimes, using FIFO might not match how the actual stuff in your store moves around. Imagine you have a shop where people always take the newest items from the front of the shelf. Even though you're using FIFO for your money records, the real stuff might not be sold in that order. This can cause a problem because what you see on your [books](/wiki/algo-trading-books) might not be what's really happening in your store.
 
 This mismatch can make it hard to know how much of your stuff is really old and might need to be sold quickly or thrown away. If you're using FIFO but people are taking the newest items, you might think you're selling old stuff when you're not. This can lead to surprises when you find out some of your inventory is older than you thought, and you might have to deal with it quickly to avoid losing money.
 

@@ -82,7 +82,7 @@ You can also use programming to change how the bar looks. For instance, you can 
 
 ## What is the Importance of Using Bars in Trading Strategies?
 
-Bars in trading are indispensable tools for visually representing price movements, serving as key instruments in the identification of trends and patterns. This representation is often realized through charts that display a sequence of individual bars for defined time intervals, such as minutes, hours, or days. Each bar encapsulates essential market data, specifically the opening, high, low, and closing prices within the time frame, sometimes augmented with volume data.
+Bars in trading are indispensable tools for visually representing price movements, serving as key instruments in the identification of trends and patterns. This representation is often realized through charts that display a sequence of individual bars for defined time intervals, such as minutes, hours, or days. Each bar encapsulates essential market data, specifically the opening, high, low, and closing prices within the time frame, sometimes augmented with [volume](/wiki/volume-trading-strategy) data.
 
 The comprehensive visual nature of bars enables traders to discern market trends efficiently. For instance, a series of ascending bars typically indicates an upward trend, while descending bars suggest a downward trend. This visual pattern recognition is fundamental to various technical analyses, allowing traders to predict future price movements based on historical data.
 

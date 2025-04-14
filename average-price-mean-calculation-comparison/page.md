@@ -34,7 +34,7 @@ Next, you count how many numbers are in the set. In our example, there are three
 
 ## How do average price and mean relate to each other in statistics?
 
-The average price and the mean are the same thing in statistics. When you talk about the average price of a set of items, you are really talking about the mean price. To find the mean, you add up all the prices and then divide by the number of items. For example, if you have three items that cost $5, $10, and $15, you add these prices together to get $30. Then, you divide $30 by 3 (the number of items) to get a mean, or average, price of $10.
+The average price and the mean are the same thing in [statistics](/wiki/bayesian-statistics). When you talk about the average price of a set of items, you are really talking about the mean price. To find the mean, you add up all the prices and then divide by the number of items. For example, if you have three items that cost $5, $10, and $15, you add these prices together to get $30. Then, you divide $30 by 3 (the number of items) to get a mean, or average, price of $10.
 
 This idea is important because it helps us understand the typical cost of things. Knowing the average price can help you compare prices at different stores or decide if a price is a good deal. For instance, if you are looking at buying a new phone and see that the average price of similar phones is $300, you can decide if a phone priced at $400 is worth it or if you should look for a cheaper option. So, the average price and the mean are just different ways to say the same thing, and they are very useful in everyday life.
 
@@ -78,7 +78,7 @@ Another test you can use is the Mann-Whitney U test, which is good when your dat
 
 Regression analysis is a powerful tool that helps you understand how different factors affect the average price of something. Imagine you want to know what makes the price of a house go up or down. You can use regression analysis to look at things like the size of the house, how old it is, and where it is located. By putting all this information into a regression model, you can see which factors have the biggest impact on the price. For example, the model might show that bigger houses tend to cost more, but older houses might cost less. This helps you see the big picture of what drives the price.
 
-Using regression analysis, you can also predict future prices based on the factors you've studied. If you know that the size of a house is a big factor in its price, you can use the model to guess how much a new, bigger house might cost. This is really useful for people who need to make decisions about buying or selling things. By understanding the factors that influence the average price, you can make smarter choices and maybe even find a better deal. Regression analysis takes a lot of the guesswork out of understanding prices, making it easier to see what really matters.
+Using regression analysis, you can also predict future prices based on the factors you've studied. If you know that the size of a house is a big [factor](/wiki/factor-investing) in its price, you can use the model to guess how much a new, bigger house might cost. This is really useful for people who need to make decisions about buying or selling things. By understanding the factors that influence the average price, you can make smarter choices and maybe even find a better deal. Regression analysis takes a lot of the guesswork out of understanding prices, making it easier to see what really matters.
 
 ## What is the understanding of mean and average prices?
 

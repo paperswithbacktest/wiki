@@ -30,7 +30,7 @@ This process also helps people who look at the company's financials, like invest
 
 To calculate the amortization of an intangible asset, you need to know the total cost of the asset and how long you expect to use it. This period of time is called the useful life of the asset. For example, if you buy a patent for $10,000 and you think it will be useful for 10 years, you would divide the total cost by the number of years. So, $10,000 divided by 10 years equals $1,000 per year. This $1,000 is the amount you would record as an amortization expense each year.
 
-Every year, you would reduce the value of the patent on your balance sheet by $1,000. This means that after the first year, the patent would be worth $9,000 on your books, then $8,000 the next year, and so on until it reaches zero at the end of 10 years. This way, the cost of the patent is spread out evenly over its useful life, matching the expense with the revenue it helps to generate.
+Every year, you would reduce the value of the patent on your balance sheet by $1,000. This means that after the first year, the patent would be worth $9,000 on your [books](/wiki/algo-trading-books), then $8,000 the next year, and so on until it reaches zero at the end of 10 years. This way, the cost of the patent is spread out evenly over its useful life, matching the expense with the revenue it helps to generate.
 
 ## What are the common methods used for amortizing intangible assets?
 

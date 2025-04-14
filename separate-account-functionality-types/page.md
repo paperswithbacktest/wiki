@@ -44,7 +44,7 @@ Lastly, there are socially responsible separate accounts, which focus on investi
 
 A separate account is managed by a professional money manager, but the investor owns the actual investments. The money manager works with the investor to understand their goals and what they want to invest in. They then pick stocks, bonds, or other investments based on what the investor says. The investor can tell the manager to avoid certain types of investments or to focus on others, making the account very personal. The manager keeps an eye on the investments and makes changes when needed to keep the account on track with the investor's plan.
 
-The investor can see all the investments in their account at any time and can make changes if they want. They can add or take out money, or change the rules for the manager to follow. This means the investor has a lot of control over their money. The manager charges a fee for their work, which is usually a percentage of the money in the account. This fee pays for the manager's time and expertise in picking and watching over the investments.
+The investor can see all the investments in their account at any time and can make changes if they want. They can add or take out money, or change the rules for the manager to follow. This means the investor has a lot of control over their money. The manager charges a fee for their work, which is usually a percentage of the money in the account. This fee pays for the manager's time and expertise in [picking](/wiki/asset-class-picking) and watching over the investments.
 
 ## What are the costs associated with maintaining a separate account?
 
@@ -84,7 +84,7 @@ Another important thing is that the money manager needs to follow rules about ho
 
 ## What are the benefits and considerations of using separate accounts with algo trading?
 
-The combination of separate accounts and algorithmic trading offers investors an exceptional degree of customization and efficiency in portfolio management. Algorithmic trading, or algo trading, enhances the ability of investment managers to deploy sophisticated strategies tailored to the unique financial objectives of each client. By automating the trading process, algos can process vast amounts of market data in real-time, identify patterns, and execute trades with precision, thus optimizing investment outcomes.
+The combination of separate accounts and [algorithmic trading](/wiki/algorithmic-trading) offers investors an exceptional degree of customization and efficiency in portfolio management. Algorithmic trading, or algo trading, enhances the ability of investment managers to deploy sophisticated strategies tailored to the unique financial objectives of each client. By automating the trading process, algos can process vast amounts of market data in real-time, identify patterns, and execute trades with precision, thus optimizing investment outcomes.
 
 One of the main considerations when using separate accounts combined with algorithmic trading is the cost. Management fees for separate accounts typically range from 1% to 3% of assets under management (AUM). These fees can include the cost of sophisticated algorithmic systems and the expertise required to manage them. Investors need to weigh these costs against the potential benefits of customization, tax efficiency, and enhanced trading precision. Cost considerations can be modeled using the equation:
 

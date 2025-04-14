@@ -46,7 +46,7 @@ CAD goes a step further than FFO. It takes the FFO number and then subtracts the
 
 ## What are the common adjustments made to net income to arrive at CAD?
 
-To find Cash Available for Distribution (CAD), you start with the company's net income. But you need to make some changes to this number. First, you add back things like depreciation and amortization. These are costs that show up on the books but don't actually take money out of the company's pocket. This step gives you the Funds From Operations (FFO), which is a bit like net income but adjusted for real estate companies.
+To find Cash Available for Distribution (CAD), you start with the company's net income. But you need to make some changes to this number. First, you add back things like depreciation and amortization. These are costs that show up on the [books](/wiki/algo-trading-books) but don't actually take money out of the company's pocket. This step gives you the Funds From Operations (FFO), which is a bit like net income but adjusted for real estate companies.
 
 Then, to get to CAD, you take the FFO and subtract any money the company needs to spend on regular upkeep and repairs. This is important because these costs are necessary to keep the company's properties in good shape. By subtracting these costs, you can see the real amount of cash left over that the company can use to pay dividends to its investors.
 
@@ -54,7 +54,7 @@ Then, to get to CAD, you take the FFO and subtract any money the company needs t
 
 Cash Available for Distribution (CAD) helps investors figure out if a company can keep paying dividends over time. When you look at CAD, you see how much real cash a company has left after all its costs. If the CAD number is high and bigger than the dividends the company is paying, it's a good sign. It means the company can keep paying the same amount of dividends or even increase them in the future.
 
-But if the CAD is lower than the dividends being paid out, it's a warning sign. It might mean the company is using other money or borrowing to pay dividends, which can't last forever. By keeping an eye on CAD, investors can make smart choices about which companies to invest in, picking ones that are likely to keep their dividends steady and reliable.
+But if the CAD is lower than the dividends being paid out, it's a warning sign. It might mean the company is using other money or borrowing to pay dividends, which can't last forever. By keeping an eye on CAD, investors can make smart choices about which companies to invest in, [picking](/wiki/asset-class-picking) ones that are likely to keep their dividends steady and reliable.
 
 ## What are the limitations of using CAD as a financial metric?
 

@@ -76,13 +76,13 @@ To use double-barreled questions effectively in research, it's better to split t
 
 ## What advanced techniques can be used to analyze responses to double-barreled questions?
 
-When analyzing responses to double-barreled questions, one advanced technique is to use follow-up questions to clarify the answers. For example, if someone answers "yes" to "Do you like pizza and pasta?", you can ask separate questions like "Do you like pizza?" and "Do you like pasta?" to understand their feelings about each part. This helps to break down the double-barreled question into single-barreled ones, making the data more accurate. Another technique is to use statistical methods to analyze the data. Researchers can use techniques like factor analysis to see if the responses to the two parts of the question are related or if they should be treated as separate items. This can help to understand the underlying patterns in the data and improve the validity of the research.
+When analyzing responses to double-barreled questions, one advanced technique is to use follow-up questions to clarify the answers. For example, if someone answers "yes" to "Do you like pizza and pasta?", you can ask separate questions like "Do you like pizza?" and "Do you like pasta?" to understand their feelings about each part. This helps to break down the double-barreled question into single-barreled ones, making the data more accurate. Another technique is to use statistical methods to analyze the data. Researchers can use techniques like [factor](/wiki/factor-investing) analysis to see if the responses to the two parts of the question are related or if they should be treated as separate items. This can help to understand the underlying patterns in the data and improve the validity of the research.
 
 Another advanced technique is to use qualitative analysis to interpret the responses. Researchers can conduct in-depth interviews or focus groups to ask people to explain their answers to double-barreled questions. This can provide more context and help to understand why someone might answer a certain way. For example, if someone says they are happy with their job and salary, a follow-up interview might reveal that they are happy with their job but not their salary. By using these advanced techniques, researchers can get a clearer picture of what people really think and feel, even when using double-barreled questions.
 
 ## What is the synergy between surveys and algo trading?
 
-Data derived from well-constructed surveys possesses significant potential in shaping the strategies used in algorithmic trading. Surveys that are meticulously designed can capture crucial insights into market sentiments and trends. This data, when integrated into trading algorithms, enhances the ability of these algorithms to forecast market movements with greater precision.
+Data derived from well-constructed surveys possesses significant potential in shaping the strategies used in [algorithmic trading](/wiki/algorithmic-trading). Surveys that are meticulously designed can capture crucial insights into market sentiments and trends. This data, when integrated into trading algorithms, enhances the ability of these algorithms to forecast market movements with greater precision.
 
 In algorithmic trading, large datasets are analyzed to identify patterns or trends that might be missed by human traders. The integration of survey data into these datasets can provide additional layers of information. For instance, survey data might provide real-time sentiment analysis indicating the mood or intention of a market group that is not immediately reflected in market prices.
 
@@ -94,7 +94,7 @@ $$
 
 where $w_i$ is the weight assigned to each response, $s_i$ is the sentiment score of the response, and $n$ is the total number of responses. This score is then integrated into trading algorithms to adjust the strategy dynamically based on perceived market sentiment shifts.
 
-The synergy between survey data and algorithmic trading is further strengthened by the ability of trading algorithms to utilize machine learning models that have been trained on survey data. By including features derived from survey insights, machine learning models can optimize trading decisions. For example, a Random Forest model could be trained on historical price data combined with survey sentiment scores to predict future price movements.
+The synergy between survey data and algorithmic trading is further strengthened by the ability of trading algorithms to utilize [machine learning](/wiki/machine-learning) models that have been trained on survey data. By including features derived from survey insights, machine learning models can optimize trading decisions. For example, a Random Forest model could be trained on historical price data combined with survey sentiment scores to predict future price movements.
 
 ```python
 from sklearn.ensemble import RandomForestRegressor

@@ -92,9 +92,9 @@ $$
 \text{Total Cost} = (\text{Spread}_{\text{sell}} + \text{Spread}_{\text{buy}}) \times \text{Position Size}
 $$
 
-Minimizing these costs requires a careful evaluation of spreads and liquidity in the new contract, often necessitating trading during periods of heightened market participation.
+Minimizing these costs requires a careful evaluation of spreads and [liquidity](/wiki/liquidity-risk-premium) in the new contract, often necessitating trading during periods of heightened market participation.
 
-For risk management, seamless rollovers reduce the risk of slippage and unintentional over-exposure. Algorithmic strategies must therefore incorporate mechanisms to time rollovers precisely and execute them efficiently. This might involve pre-programmed triggers based on liquidity thresholds or volatility measures, as fluctuations tend to increase during contract switches. 
+For risk management, seamless rollovers reduce the risk of slippage and unintentional over-exposure. Algorithmic strategies must therefore incorporate mechanisms to time rollovers precisely and execute them efficiently. This might involve pre-programmed triggers based on liquidity thresholds or [volatility](/wiki/volatility-trading-strategies) measures, as fluctuations tend to increase during contract switches. 
 
 In conclusion, rollovers are integral to maintaining the continuity and robustness of [algorithmic trading](/wiki/algorithmic-trading) strategies. By optimizing both the timing and execution of this process, traders can minimize disruptions, controlling both risk and potential impacts on profitability.
 

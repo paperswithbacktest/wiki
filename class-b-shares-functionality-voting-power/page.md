@@ -84,7 +84,7 @@ In the future, Class B shares might become even more common, especially in new i
 
 Algorithmic trading capitalizes on the computational power to exploit price differences and [volatility](/wiki/volatility-trading-strategies) between various share classes, including Class A and Class B shares. This approach relies heavily on mathematical models and sophisticated software to execute trades at speeds beyond human capability, aiming to profit from market inefficiencies.
 
-Two notable strategies employed in algorithmic trading are pairs trading and statistical [arbitrage](/wiki/arbitrage). Pairs trading involves simultaneously buying and selling two correlated securities to profit from their relative price changes, which deviate from a historical equilibrium. For example, if the historical ratio between a company's Class A and Class B shares is disrupted, an algorithm can simultaneously short the overvalued share and buy the undervalued counterpart, anticipating a reversion to their historical price ratio. This is typically represented as:
+Two notable strategies employed in [algorithmic trading](/wiki/algorithmic-trading) are pairs trading and statistical [arbitrage](/wiki/arbitrage). Pairs trading involves simultaneously buying and selling two correlated securities to profit from their relative price changes, which deviate from a historical equilibrium. For example, if the historical ratio between a company's Class A and Class B shares is disrupted, an algorithm can simultaneously short the overvalued share and buy the undervalued counterpart, anticipating a reversion to their historical price ratio. This is typically represented as:
 
 $$
 \text{Position}_{\text{A}} = - \beta \cdot \text{Position}_{\text{B}}

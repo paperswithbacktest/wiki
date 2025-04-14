@@ -27,7 +27,7 @@ On the other hand, if you make the threshold higher, fewer things will be labele
 
 ## What is the default classification threshold for most machine learning algorithms?
 
-The default classification threshold for most machine learning algorithms is set at 0.5. This means that if a model predicts a probability of 0.5 or higher that an instance belongs to the positive class, it will classify that instance as positive. If the probability is less than 0.5, it will classify the instance as negative. This threshold is commonly used because it provides a balanced approach to classification, treating false positives and false negatives with equal importance.
+The default classification threshold for most [machine learning](/wiki/machine-learning) algorithms is set at 0.5. This means that if a model predicts a probability of 0.5 or higher that an instance belongs to the positive class, it will classify that instance as positive. If the probability is less than 0.5, it will classify the instance as negative. This threshold is commonly used because it provides a balanced approach to classification, treating false positives and false negatives with equal importance.
 
 However, the choice of 0.5 as a default threshold can be adjusted based on the specific needs of the problem at hand. For example, in medical diagnostics, you might want to lower the threshold to ensure that no cases are missed, even if it means more false positives. Conversely, in spam detection, you might raise the threshold to avoid labeling important emails as spam, even if it means missing some spam emails. Adjusting the threshold allows users to fine-tune the model's performance to better suit their particular application.
 

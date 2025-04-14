@@ -28,7 +28,7 @@ Also, when the promotional period ends, your CD might automatically switch to a 
 
 ## What are the benefits of choosing a CD with a promotional rate?
 
-Choosing a CD with a promotional rate can help you earn more money on your savings. The interest rate is higher than what you would get with a regular CD. This means you can make more money over the time you keep your money in the CD. If you have money you don't need right away, a promotional rate CD can be a good way to grow your savings a bit faster.
+Choosing a CD with a promotional rate can help you earn more money on your savings. The [interest rate](/wiki/interest-rate-trading-strategies) is higher than what you would get with a regular CD. This means you can make more money over the time you keep your money in the CD. If you have money you don't need right away, a promotional rate CD can be a good way to grow your savings a bit faster.
 
 But, you need to be careful. Promotional rates don't last forever. They are only good for a short time. After that, your CD might switch to a lower rate unless you do something about it. Also, you might need to put in more money to get the special rate. So, it's important to read all the rules and understand what you're getting into before you choose a CD with a promotional rate.
 

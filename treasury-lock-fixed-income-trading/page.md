@@ -34,7 +34,7 @@ Another risk is that a Treasury Lock might make you miss out on better opportuni
 
 ## How does a Treasury Lock differ from other interest rate hedging tools?
 
-A Treasury Lock is a specific tool used to lock in the yield of a Treasury security for a future date. It's different from other interest rate hedging tools because it focuses only on Treasury securities. For example, interest rate swaps can be used to exchange one type of interest rate for another, and they can involve different kinds of securities or loans. Treasury Locks, on the other hand, are simpler because they only deal with Treasuries and the yield you get from them.
+A Treasury Lock is a specific tool used to lock in the yield of a Treasury security for a future date. It's different from other [interest rate](/wiki/interest-rate-trading-strategies) hedging tools because it focuses only on Treasury securities. For example, interest rate swaps can be used to exchange one type of interest rate for another, and they can involve different kinds of securities or loans. Treasury Locks, on the other hand, are simpler because they only deal with Treasuries and the yield you get from them.
 
 Another difference is how Treasury Locks work compared to options like interest rate caps and floors. An interest rate cap sets a maximum rate you'll pay on a loan, and a floor sets a minimum rate you'll receive on an investment. These tools can be used with various types of loans or investments. But a Treasury Lock is more specific; it lets you lock in the yield of a Treasury security without affecting other parts of your portfolio. This makes it a good choice if you're only worried about the yield on Treasuries.
 

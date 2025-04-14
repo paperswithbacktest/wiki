@@ -22,7 +22,7 @@ Understanding foregone earnings can help you make smarter choices about your tim
 
 ## Can you provide examples of foregone earnings in everyday life?
 
-Imagine you have a part-time job that pays you $200 a week. You decide to quit that job to go back to school full-time. The $200 you're not earning each week while you're in school are your foregone earnings. You're giving up that money now because you hope that going to school will help you get a better job later. It's a trade-off: you're choosing education over immediate income.
+Imagine you have a part-time job that pays you $200 a week. You decide to quit that job to go back to school full-time. The $200 you're not [earning](/wiki/earning-announcement) each week while you're in school are your foregone earnings. You're giving up that money now because you hope that going to school will help you get a better job later. It's a trade-off: you're choosing education over immediate income.
 
 Another example is if you're thinking about starting your own business. You currently have a job that pays you $50,000 a year. If you quit your job to start your business, the $50,000 you're not earning is your foregone earnings. You're betting that your business will eventually make more money than your current job. But until then, you're giving up that steady income.
 

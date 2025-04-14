@@ -84,7 +84,7 @@ Another strategy is to implement a technique called Monte Carlo simulation. This
 
 Excessive complexity within trading models is a primary cause of overfitting, primarily arising when models comprise too many parameters. This complexity often results in a scenario where the model fits the training data exceptionally well, capturing even minor fluctuations that are merely noise rather than genuine market signals. However, such models typically exhibit poor performance when tested on out-of-sample data, which is a critical sign of overfitting.
 
-One of the most apparent indicators of overfitting in algorithmic trading is a significant discrepancy between the model's performance on training data versus testing or validation data. In practical terms, a model may display high accuracy and returns during historical [backtesting](/wiki/backtesting), showcasing a high Sharpe ratio. The Sharpe ratio, calculated as:
+One of the most apparent indicators of overfitting in [algorithmic trading](/wiki/algorithmic-trading) is a significant discrepancy between the model's performance on training data versus testing or validation data. In practical terms, a model may display high accuracy and returns during historical [backtesting](/wiki/backtesting), showcasing a high Sharpe ratio. The Sharpe ratio, calculated as:
 
 $$
 \text{Sharpe Ratio} = \frac{E[R-R_f]}{\sigma}

@@ -18,11 +18,11 @@ The Forex market is important for several reasons. First, it helps global trade 
 
 Economic indicators are like report cards for a country's economy. They tell us how well the economy is doing. Things like the unemployment rate, inflation, and how much stuff people are buying can change how much people think a country's money is worth. If an economic indicator shows the economy is doing well, people might want to buy more of that country's currency because they think it will be strong. On the other hand, if the indicators show the economy is struggling, people might sell the currency, thinking it will get weaker.
 
-For example, if a country's unemployment rate goes down, it means more people have jobs and are earning money. This can make people think the economy is getting better, so they might want to buy more of that country's currency. But if inflation goes up a lot, it means prices are rising quickly, which can make people worried about the economy. They might sell the currency, thinking it will lose value. So, economic indicators can really move the value of a currency up or down based on what they show about the economy.
+For example, if a country's unemployment rate goes down, it means more people have jobs and are [earning](/wiki/earning-announcement) money. This can make people think the economy is getting better, so they might want to buy more of that country's currency. But if inflation goes up a lot, it means prices are rising quickly, which can make people worried about the economy. They might sell the currency, thinking it will lose value. So, economic indicators can really move the value of a currency up or down based on what they show about the economy.
 
 ## What role do interest rates play in the Forex market?
 
-Interest rates are really important in the Forex market. They're like the price of borrowing money. When a country's central bank changes the interest rate, it can make people want to buy or sell that country's currency. If a country raises its interest rates, it means people can earn more money by keeping their savings in that country's currency. So, more people might want to buy that currency, which can make it stronger compared to other currencies.
+Interest rates are really important in the Forex market. They're like the price of borrowing money. When a country's central bank changes the [interest rate](/wiki/interest-rate-trading-strategies), it can make people want to buy or sell that country's currency. If a country raises its interest rates, it means people can earn more money by keeping their savings in that country's currency. So, more people might want to buy that currency, which can make it stronger compared to other currencies.
 
 On the flip side, if a country lowers its interest rates, it becomes less attractive to keep money in that currency because you earn less from it. This might make people sell the currency, which can make it weaker. So, interest rates can move a lot of money around in the Forex market, affecting how strong or weak a currency is compared to others.
 
@@ -82,7 +82,7 @@ Trends like globalization and technology also play a big role in long-term Forex
 
 ## What is the role of capital markets in Forex?
 
-Capital markets, comprising both stock and bond markets, play a critical role in influencing foreign exchange (forex) rates by providing insights into a country's economic health. Stock markets reflect investor sentiment and the relative performance of different sectors within an economy, while bond markets provide indicators of interest rates and fiscal expectations. These factors collectively influence currency valuation in several significant ways.
+Capital markets, comprising both stock and bond markets, play a critical role in influencing foreign exchange ([forex](/wiki/forex-system)) rates by providing insights into a country's economic health. Stock markets reflect investor sentiment and the relative performance of different sectors within an economy, while bond markets provide indicators of interest rates and fiscal expectations. These factors collectively influence currency valuation in several significant ways.
 
 ### Correlation Between Currency and Capital Market Sectors
 

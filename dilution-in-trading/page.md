@@ -120,7 +120,7 @@ Taking into account fully diluted shares allows investors to understand the pote
 
 ## What are some references and further readings?
 
-For further information, readers can explore articles and studies on stock dilution, earnings per share (EPS), and algorithmic trading strategies. These topics are integral for understanding how dilution impacts shareholder value and the methods traders use to adapt their strategies in response.
+For further information, readers can explore articles and studies on stock dilution, earnings per share (EPS), and [algorithmic trading](/wiki/algorithmic-trading) strategies. These topics are integral for understanding how dilution impacts shareholder value and the methods traders use to adapt their strategies in response.
 
 Investopedia offers extensive resources on the mechanics of stock dilution, explaining the various causes such as public offerings and convertible securities. Their articles can provide a foundational understanding of how these events influence the market and shareholder equity.
 

@@ -22,7 +22,7 @@ After finishing his Master's, James LeSage was still curious and wanted to dive 
 
 ## What are some key contributions of James LeSage to his field?
 
-James LeSage has made big contributions to the field of spatial econometrics. He has written many books and articles that help other economists understand how to use data from different places. One of his main contributions is developing new ways to look at data. These new ways help economists see patterns that they might not have noticed before. His work has made it easier for researchers to make better predictions and decisions by considering how things in one place can affect things in another place.
+James LeSage has made big contributions to the field of spatial econometrics. He has written many [books](/wiki/algo-trading-books) and articles that help other economists understand how to use data from different places. One of his main contributions is developing new ways to look at data. These new ways help economists see patterns that they might not have noticed before. His work has made it easier for researchers to make better predictions and decisions by considering how things in one place can affect things in another place.
 
 Another important contribution of James LeSage is his teaching. He has taught many students about spatial econometrics at Texas State University. His clear explanations and helpful resources have made it easier for students to learn this complex subject. Many of his students have gone on to use what they learned from him in their own research and work. This has helped spread the use of spatial econometrics in many different areas of economics.
 
@@ -48,7 +48,7 @@ In addition to books, James LeSage has written many articles. Some of his articl
 
 James LeSage often uses a method called spatial econometrics in his research. This method helps him look at how things in one place can affect things in other places. For example, he might study how the economy in one city can change the economy in another city nearby. He uses special math and computer programs to find patterns in data from different locations. This helps him make better predictions and understand how things are connected across space.
 
-Another important method James LeSage uses is Bayesian statistics. This is a way to update what we know based on new information. He uses this method to make more accurate models of how things work. For example, he might use Bayesian statistics to study how a new store opening in a town can change the local economy. By combining spatial econometrics and Bayesian statistics, James LeSage can create new ways to look at data and help other economists learn more about the world.
+Another important method James LeSage uses is Bayesian [statistics](/wiki/bayesian-statistics). This is a way to update what we know based on new information. He uses this method to make more accurate models of how things work. For example, he might use Bayesian statistics to study how a new store opening in a town can change the local economy. By combining spatial econometrics and Bayesian statistics, James LeSage can create new ways to look at data and help other economists learn more about the world.
 
 ## How has James LeSage's work impacted the field of econometrics?
 

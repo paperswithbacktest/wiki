@@ -112,7 +112,7 @@ In conclusion, understanding and optimizing the financial structure are crucial 
 
 ### The Intersection of Capital Structure and Algorithmic Trading
 
-Capital structure decisions significantly shape a company's approach to algorithmic trading. The capital structure, constituted by the proportion of debt, equity, and hybrid instruments, determines the financial leverage and risk profile a firm is willing or able to assume. For algorithmic trading firms, which rely on high-speed transactions and significant computational resources, accessing capital efficiently becomes paramount.
+Capital structure decisions significantly shape a company's approach to [algorithmic trading](/wiki/algorithmic-trading). The capital structure, constituted by the proportion of debt, equity, and hybrid instruments, determines the financial leverage and risk profile a firm is willing or able to assume. For algorithmic trading firms, which rely on high-speed transactions and significant computational resources, accessing capital efficiently becomes paramount.
 
 Algorithmic trading impacts the financial structure of trading firms by necessitating investment in technology and infrastructure, which can be capital-intensive. This focus on technology requires firms to optimize their capital structure to secure financing without excessively increasing their cost of capital. Companies often leverage debt to benefit from tax shields; however, excessive debt raises interest payment obligations and financial risk. Ideally, firms seek a balanced structure that minimizes the weighted average cost of capital (WACC):
 

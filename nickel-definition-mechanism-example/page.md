@@ -82,7 +82,7 @@ Another thing scientists are working on is finding new nickel alloys. They want 
 
 ## How can one develop algorithmic trading strategies for nickel?
 
-Developing effective trading algorithms for nickel necessitates a comprehensive understanding of market fundamentals alongside technical analysis. In the context of nickel, which is characterized by price volatility and sensitivity to global economic conditions, two prevalent trading strategies are mean reversion and [trend following](/wiki/trend-following). These strategies can be significantly enhanced when integrated with algorithmic models.
+Developing effective trading algorithms for nickel necessitates a comprehensive understanding of market fundamentals alongside technical analysis. In the context of nickel, which is characterized by price [volatility](/wiki/volatility-trading-strategies) and sensitivity to global economic conditions, two prevalent trading strategies are mean reversion and [trend following](/wiki/trend-following). These strategies can be significantly enhanced when integrated with algorithmic models.
 
 Mean reversion strategies in nickel trading capitalize on the concept that asset prices will revert to their historical average over time. When developing algorithmic models for such a strategy, it is crucial to consider the statistical properties of nickel's price movement. By constructing an algorithm, traders can efficiently identify periods where nickel prices deviate significantly from their mean. The algorithm can be expressed as follows:
 
@@ -96,9 +96,9 @@ $$
 
 where $P_t$ is the current price, $\mu$ is the historical average price, $\sigma$ is the standard deviation, and $\text{Threshold}$ is a predetermined value for detecting significant deviation.
 
-Trend following strategies, on the other hand, seek to exploit momentum in the market. These algorithms aim to identify and ride upward or downward trends in nickel prices. A simple moving average crossover is an example of a trend following algorithm that triggers buy or sell signals when short-term averages cross long-term averages, indicating potential shifts in price momentum.
+Trend following strategies, on the other hand, seek to exploit [momentum](/wiki/momentum) in the market. These algorithms aim to identify and ride upward or downward trends in nickel prices. A simple moving average crossover is an example of a trend following algorithm that triggers buy or sell signals when short-term averages cross long-term averages, indicating potential shifts in price momentum.
 
-Backtesting is an integral component of developing robust algorithmic trading strategies. It involves testing the algorithm using historical market data to evaluate its effectiveness and refine its decision-making process. A well-constructed [backtesting](/wiki/backtesting) framework considers transaction costs, slippage, and other market factors to provide realistic performance assessments. For example, using Python, traders can utilize libraries like pandas and numpy for data manipulation and backtesting their strategies:
+Backtesting is an integral component of developing robust [algorithmic trading](/wiki/algorithmic-trading) strategies. It involves testing the algorithm using historical market data to evaluate its effectiveness and refine its decision-making process. A well-constructed [backtesting](/wiki/backtesting) framework considers transaction costs, slippage, and other market factors to provide realistic performance assessments. For example, using Python, traders can utilize libraries like pandas and numpy for data manipulation and backtesting their strategies:
 
 ```python
 import pandas as pd

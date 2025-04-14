@@ -52,7 +52,7 @@ Understanding the implied rate can also help you plan better. For example, if yo
 
 ## What are the factors that influence the implied rate?
 
-The implied rate is influenced by several factors that people in the market pay attention to. One big factor is what people think will happen with inflation. If they think prices will go up a lot in the future, they'll expect higher interest rates, which means the implied rate will be higher. Another factor is what the government or central banks are doing with interest rates. If they say they're going to raise rates, the implied rate will go up because people will expect higher rates soon.
+The implied rate is influenced by several factors that people in the market pay attention to. One big [factor](/wiki/factor-investing) is what people think will happen with inflation. If they think prices will go up a lot in the future, they'll expect higher interest rates, which means the implied rate will be higher. Another factor is what the government or central banks are doing with interest rates. If they say they're going to raise rates, the implied rate will go up because people will expect higher rates soon.
 
 Also, the overall health of the economy plays a role. If the economy is doing well and growing, people might think that interest rates will go up to keep things from growing too fast, so the implied rate will be higher. On the other hand, if the economy is not doing so well, people might expect interest rates to stay low or even go down, making the implied rate lower. So, the implied rate is like a guess about the future, based on what's happening with inflation, what the central banks are saying, and how the economy is doing.
 

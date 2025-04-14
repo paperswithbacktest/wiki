@@ -64,7 +64,7 @@ The key part of a Hawkes process that helps with this is something called the in
 
 ## What advanced techniques can be used to improve the accuracy of Hawkes process models in order flow?
 
-To make Hawkes process models better at predicting order flow, one advanced technique is using machine learning. Machine learning can look at a lot of data and find patterns that might be hard for people to see. It can learn from past orders and use that to guess what might happen next. This can help make the model more accurate by adjusting how much one order affects future orders based on all the data it sees.
+To make Hawkes process models better at predicting order flow, one advanced technique is using [machine learning](/wiki/machine-learning). Machine learning can look at a lot of data and find patterns that might be hard for people to see. It can learn from past orders and use that to guess what might happen next. This can help make the model more accurate by adjusting how much one order affects future orders based on all the data it sees.
 
 Another technique is using something called a Markov Chain Monte Carlo (MCMC) method. This helps us figure out the best values for the model's parameters by trying out lots of different values and seeing which ones fit the data best. It's like trying different keys in a lock until you find the one that works. By using MCMC, we can make sure our model is as close to the real market behavior as possible, which helps us predict order flow better.
 

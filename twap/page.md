@@ -168,7 +168,7 @@ $$
 
 Here, $P_i$ represents the price at each interval and $N$ is the total number of intervals.
 
-The choice between VWAP and TWAP depends significantly on the trader's objectives and the market context. VWAP is ideal for large transactions where volume data is crucial for achieving a price closer to the market's average trading price throughout the day. This is particularly optimal in environments where the trade size is large relative to the market liquidity, ensuring the impact on the price is spread in line with market activity.
+The choice between VWAP and TWAP depends significantly on the trader's objectives and the market context. VWAP is ideal for large transactions where volume data is crucial for achieving a price closer to the market's average trading price throughout the day. This is particularly optimal in environments where the trade size is large relative to the market [liquidity](/wiki/liquidity-risk-premium), ensuring the impact on the price is spread in line with market activity.
 
 TWAP, by contrast, offers simplicity and is often more effective for smaller or more evenly distributed transactions over time. Its straightforward nature benefits high-frequency traders who prioritize time over volume. Additionally, TWAP is advantageous in markets where liquidity is stable throughout the trading session, allowing traders to avoid the complexities of volume analysis.
 

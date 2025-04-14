@@ -44,7 +44,7 @@ There are also extended trading hours at the CBOE. These hours let you trade cer
 
 The CBOE offers many popular indices and products that people like to trade. One of the most well-known is the CBOE Volatility Index, or VIX. The VIX is often called the "fear gauge" because it measures how much people expect the stock market to move around in the next 30 days. Another popular index is the S&P 500 Index, which tracks the performance of 500 large companies in the U.S. People can trade options on these indices to bet on how the market will do.
 
-Besides indices, the CBOE also offers options on exchange-traded funds (ETFs). ETFs are like baskets of stocks that you can trade like a single stock. Some popular ETFs that you can trade options on at the CBOE include the SPDR S&P 500 ETF (SPY) and the Invesco QQQ Trust (QQQ), which tracks the Nasdaq-100 Index. These products give traders and investors lots of ways to manage their risks and try to make money.
+Besides indices, the CBOE also offers options on exchange-traded funds (ETFs). ETFs are like baskets of stocks that you can trade like a single stock. Some popular ETFs that you can trade options on at the CBOE include the SPDR S&P 500 [ETF](/wiki/etf-trading-strategies) (SPY) and the Invesco QQQ Trust (QQQ), which tracks the Nasdaq-100 Index. These products give traders and investors lots of ways to manage their risks and try to make money.
 
 ## How does the CBOE ensure fair trading practices?
 
@@ -72,7 +72,7 @@ Another advanced strategy is called a "butterfly spread." This involves buying a
 
 ## How does the CBOE's volatility index (VIX) work?
 
-The CBOE's Volatility Index, or VIX, is a tool that shows how much people expect the stock market to move around over the next 30 days. It's often called the "fear gauge" because it goes up when people are worried about the market and expect big changes. The VIX is calculated using the prices of options on the S&P 500 index. These options show what traders think the market might do, and the VIX uses this information to give a number that shows the expected volatility.
+The CBOE's Volatility Index, or VIX, is a tool that shows how much people expect the stock market to move around over the next 30 days. It's often called the "fear gauge" because it goes up when people are worried about the market and expect big changes. The VIX is calculated using the prices of options on the S&P 500 index. These options show what traders think the market might do, and the VIX uses this information to give a number that shows the expected [volatility](/wiki/volatility-trading-strategies).
 
 When the VIX is high, it means people are expecting a lot of ups and downs in the market, which usually happens during times of uncertainty or bad news. On the other hand, a low VIX means people are expecting the market to stay pretty calm. Traders and investors use the VIX to help them make decisions about their investments. For example, they might buy options to protect their investments if they think the VIX is going to go up, or they might see a low VIX as a good time to take more risks.
 

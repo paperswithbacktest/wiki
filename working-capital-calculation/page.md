@@ -92,7 +92,7 @@ The way industries manage their working capital can also be different. In the ma
 
 Working capital is the lifeblood of any business, ensuring operations run smoothly on a daily basis. It is defined as the difference between a company’s current assets and current liabilities, and this measure of short-term financial health is crucial for a company's day-to-day functioning and its ability to meet expenses and obligations.
 
-Efficient working capital management ensures liquidity, which is the ability of a business to meet its short-term obligations without running into financial distress. This involves crafting strategies for managing inventory, accounts receivable, and accounts payable effectively.
+Efficient working capital management ensures [liquidity](/wiki/liquidity-risk-premium), which is the ability of a business to meet its short-term obligations without running into financial distress. This involves crafting strategies for managing inventory, accounts receivable, and accounts payable effectively.
 
 Inventory management involves maintaining an optimal stock level to prevent overstocking or stockouts. This can be achieved by adopting just-in-time (JIT) inventory systems, which reduce the holding costs and improve cash flow. For example, companies can employ forecasting techniques to predict demand and adjust their inventory levels accordingly.
 

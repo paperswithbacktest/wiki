@@ -54,7 +54,7 @@ Marx's theories also influenced how people think about capitalism, which is the 
 
 ## What were the key contributions of John Kenneth Galbraith to American economic discourse?
 
-John Kenneth Galbraith made important contributions to how people in America think and talk about the economy. He wrote many books that helped explain big economic ideas in a way that everyone could understand. One of his most famous books is called "The Affluent Society." In this book, Galbraith talked about how America was getting richer, but not everyone was sharing in that wealth. He said that while some people had a lot of money, public services like schools and roads were not getting enough. This idea made people think about how to make sure everyone benefits from a growing economy.
+John Kenneth Galbraith made important contributions to how people in America think and talk about the economy. He wrote many [books](/wiki/algo-trading-books) that helped explain big economic ideas in a way that everyone could understand. One of his most famous books is called "The Affluent Society." In this book, Galbraith talked about how America was getting richer, but not everyone was sharing in that wealth. He said that while some people had a lot of money, public services like schools and roads were not getting enough. This idea made people think about how to make sure everyone benefits from a growing economy.
 
 Galbraith also talked about how big companies, or corporations, have a lot of power in the economy. In his book "The New Industrial State," he explained that these big companies can influence what people buy and how the economy works. He thought that the government should do more to balance the power of these big companies. His ideas helped start conversations about how to make the economy fairer and how to make sure that big businesses don't have too much control. Even today, people still talk about Galbraith's ideas when they discuss how to improve the economy and make it work for everyone.
 
@@ -84,7 +84,7 @@ Another important debate is about inequality, which Thomas Piketty wrote a lot a
 
 ## Who were the 20th Century Innovators: John Maynard Keynes and Milton Friedman?
 
-John Maynard Keynes and Milton Friedman stand as towering figures in the landscape of 20th-century economic thought, presenting theories that have indelibly influenced economic policy and subsequently modern trading strategies, including algorithmic trading.
+John Maynard Keynes and Milton Friedman stand as towering figures in the landscape of 20th-century economic thought, presenting theories that have indelibly influenced economic policy and subsequently modern trading strategies, including [algorithmic trading](/wiki/algorithmic-trading).
 
 John Maynard Keynes fundamentally transformed economic theory with his advocacy for active government intervention, particularly during periods of economic downturns. Keynes posited that aggregate demand, composed of household, business, and government expenditures, was the primary driving force of economic performance. During recessions, he argued that insufficient aggregate demand could lead to prolonged periods of high unemployment, suggesting that governments should intervene through fiscal policy, such as altering tax and spending levels, to stabilize the economy. This approach laid the groundwork for macroeconomics and informed many post-World War II economic policies. The basic Keynesian model can be represented by the equation:
 

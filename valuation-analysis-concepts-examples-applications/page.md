@@ -128,7 +128,7 @@ In contemporary finance, a blend of these valuation techniques often yields the 
 
 ## References & Further Reading
 
-Comprehensive resources like 'Valuation: Measuring and Managing the Value of Companies' by McKinsey & Company assist investors and financial analysts in understanding the intricate elements of valuation. This book is a vital tool, providing frameworks and methodologies that are essential for evaluating company worth and making informed investment decisions. For those focused on algorithmic trading, 'Algorithmic Trading and DMA' by Barry Johnson provides detailed insights into creating and implementing sophisticated trading strategies using direct market access technologies.
+Comprehensive resources like 'Valuation: Measuring and Managing the Value of Companies' by McKinsey & Company assist investors and financial analysts in understanding the intricate elements of valuation. This book is a vital tool, providing frameworks and methodologies that are essential for evaluating company worth and making informed investment decisions. For those focused on [algorithmic trading](/wiki/algorithmic-trading), 'Algorithmic Trading and DMA' by Barry Johnson provides detailed insights into creating and implementing sophisticated trading strategies using direct market access technologies.
 
 Academic research plays a crucial role in advancing the understanding of financial markets. Articles by renowned economists like Eugene Fama, known for the Efficient Market Hypothesis, and Fischer Black and Myron Scholes, who developed the Black-Scholes model for option pricing, offer foundational knowledge critical for both valuation and trading. Exploring these works can provide a deeper comprehension of market dynamics and valuation techniques.
 

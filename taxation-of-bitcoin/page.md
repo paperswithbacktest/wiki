@@ -56,7 +56,7 @@ In other countries, the rules can be different. In Germany, if you get Bitcoin a
 
 When you mine Bitcoin, you have to pay taxes on the Bitcoin you earn. In the United States, the value of the Bitcoin you mine is treated as income. You have to report the value of the Bitcoin at the time you mine it on your taxes. For example, if you mined Bitcoin worth $500 in a year, you have to report that $500 as income and pay income tax on it. It's like getting paid for a job, but instead of dollars, you get Bitcoin.
 
-In other countries, the rules can be different. In Germany, if you mine Bitcoin and hold it for more than a year before selling or using it, you don't have to pay taxes on it. In Japan, mining Bitcoin is treated like earning money, and you have to report it as income. In the United Kingdom, mining Bitcoin is also seen as income, and you have to report the value of the Bitcoin you mined at the time you got it. It's important to know the tax rules in your country so you can report the Bitcoin you mine correctly on your taxes.
+In other countries, the rules can be different. In Germany, if you mine Bitcoin and hold it for more than a year before selling or using it, you don't have to pay taxes on it. In Japan, mining Bitcoin is treated like [earning](/wiki/earning-announcement) money, and you have to report it as income. In the United Kingdom, mining Bitcoin is also seen as income, and you have to report the value of the Bitcoin you mined at the time you got it. It's important to know the tax rules in your country so you can report the Bitcoin you mine correctly on your taxes.
 
 ## How do tax laws treat Bitcoin held as an investment versus Bitcoin used in business transactions?
 

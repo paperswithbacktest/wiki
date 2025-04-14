@@ -30,7 +30,7 @@ Applying for a grant can take time and work. You usually need to fill out forms 
 
 ## What types of government grants are available?
 
-There are many types of government grants, and they can be for different things. Some grants help students pay for school. These are called education grants, and they can help with things like tuition and books. Other grants are for starting or growing a business. These business grants can help with costs like buying equipment or renting a space. There are also grants for doing research. These research grants help scientists and researchers study important topics and find new information.
+There are many types of government grants, and they can be for different things. Some grants help students pay for school. These are called education grants, and they can help with things like tuition and [books](/wiki/algo-trading-books). Other grants are for starting or growing a business. These business grants can help with costs like buying equipment or renting a space. There are also grants for doing research. These research grants help scientists and researchers study important topics and find new information.
 
 Another type of grant is for community projects. These community grants help groups do things that make the neighborhood better, like building a park or helping people find jobs. There are also grants for the arts, which help artists and arts groups create and share their work. Some grants are for people who need help, like families who don't have a lot of money or people who need health care. These need-based grants help make sure everyone can get the help they need.
 

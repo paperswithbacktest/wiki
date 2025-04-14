@@ -127,13 +127,13 @@ where $E(R_p - R_f)$ is the expected return of the portfolio minus the risk-free
 
 Research into high short interest reveals conflicting perspectives, with some studies indicating that such stocks tend to underperform, while others suggest that they can offer opportunities given the right conditions. High short interest can signal the presence of significant pessimism, but not all short-interest-focused strategies will yield negative returns. Some traders view high short interest as a contrarian indicator, suggesting potential value in stocks oversold by the market.
 
-Experts in algorithmic trading often emphasize that aligning trading strategies with market data is critical. High short interest may conflict with common algorithmic trading goals, such as minimizing drawdowns and optimizing risk-adjusted returns. Consequently, traders might prefer to integrate short interest metrics into broader analytical frameworks to inform decision-making processes.
+Experts in [algorithmic trading](/wiki/algorithmic-trading) often emphasize that aligning trading strategies with market data is critical. High short interest may conflict with common algorithmic trading goals, such as minimizing drawdowns and optimizing risk-adjusted returns. Consequently, traders might prefer to integrate short interest metrics into broader analytical frameworks to inform decision-making processes.
 
 ### Aligning with Trading Goals
 
 Whether high short interest aligns or clashes with algorithmic trading strategies largely depends on the specific goals set by traders. For those targeting short-term profits, exploiting episodic events like short squeezes could be beneficial. However, for traders focused on stability and long-term capital growth, the inherent risks of high short interest may outweigh potential gains. 
 
-Tools like machine learning algorithms can be employed to identify patterns and predict movements related to short interest, thus offering a sophisticated means to navigate high-risk environments. Integrating predictive analytics into trading models can aid in transforming high short interest from an unpredictable challenge into a strategic asset.
+Tools like [machine learning](/wiki/machine-learning) algorithms can be employed to identify patterns and predict movements related to short interest, thus offering a sophisticated means to navigate high-risk environments. Integrating predictive analytics into trading models can aid in transforming high short interest from an unpredictable challenge into a strategic asset.
 
 Ultimately, while high short interest presents the dual possibilities of disadvantage through underperformance and opportunity through measured risk-taking, the decision for algorithmic traders lies in aligning these potentials with their overarching trading objectives.
 

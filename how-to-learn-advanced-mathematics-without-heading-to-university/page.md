@@ -42,7 +42,7 @@ Being part of a group also lets you learn from different people. Everyone has th
 
 When learning advanced math on your own, "Calculus" by Michael Spivak is a great book to start with. It's known for being clear and thorough, and it helps you understand the big ideas behind calculus. The book has lots of problems to solve, which is important for learning math. Another good book is "Linear Algebra Done Right" by Sheldon Axler. It's perfect if you want to learn linear algebra well. The book explains things in a way that's easy to understand and has many examples and exercises to practice.
 
-For more advanced topics, "Abstract Algebra" by David S. Dummit and Richard M. Foote is a top choice. It covers a lot of ground and is used by many universities. The book is detailed and has plenty of examples to help you learn. If you're interested in number theory, "A Course in Number Theory" by Henryk Iwaniec and Emmanuel Kowalski is excellent. It's a bit challenging but very rewarding. These books are all well-respected and can help you learn advanced math on your own if you're willing to put in the time and effort.
+For more advanced topics, "Abstract Algebra" by David S. Dummit and Richard M. Foote is a top choice. It covers a lot of ground and is used by many universities. The book is detailed and has plenty of examples to help you learn. If you're interested in number theory, "A Course in Number Theory" by Henryk Iwaniec and Emmanuel Kowalski is excellent. It's a bit challenging but very rewarding. These [books](/wiki/algo-trading-books) are all well-respected and can help you learn advanced math on your own if you're willing to put in the time and effort.
 
 ## How can one use software and tools to enhance their understanding of advanced math concepts?
 

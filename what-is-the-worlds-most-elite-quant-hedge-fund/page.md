@@ -18,7 +18,7 @@ These funds are popular because they can process a lot of information quickly an
 
 An elite hedge fund is known for its top performance and high returns. These funds often have a strong track record of making money for their investors. They are run by experienced managers who are experts in picking the right investments. These managers use smart strategies and have a deep understanding of the markets. Because of their success, elite hedge funds attract a lot of money from wealthy investors and institutions.
 
-Another thing that makes a hedge fund elite is its ability to manage risk well. These funds use advanced techniques to protect their investments from big losses. They might use different types of financial tools and strategies to spread out their risk. Elite hedge funds also have strong teams of analysts and researchers who help them make informed decisions. This combination of high returns and good risk management is what sets elite hedge funds apart from others.
+Another thing that makes a [hedge fund](/wiki/hedge-fund-trading-strategies) elite is its ability to manage risk well. These funds use advanced techniques to protect their investments from big losses. They might use different types of financial tools and strategies to spread out their risk. Elite hedge funds also have strong teams of analysts and researchers who help them make informed decisions. This combination of high returns and good risk management is what sets elite hedge funds apart from others.
 
 ## Which hedge fund is often considered the world's most elite quant fund?
 
@@ -42,7 +42,7 @@ Jim Simons is known for being really smart. He has a Ph.D. in mathematics from t
 
 Renaissance Technologies uses very smart math and computer models to decide what to buy and sell. They look at a lot of data, like prices and how often stocks are traded. They find patterns in this data that help them predict what will happen next in the market. This is different from most other funds because they don't just listen to news or what people say. Instead, they trust numbers and patterns to make their choices.
 
-One big part of their strategy is something called "statistical arbitrage." This means they buy and sell a lot of different things quickly to make small profits many times. They also use "machine learning," which is when computers learn from data and get better at making predictions over time. Renaissance Technologies keeps their exact methods a secret, but we know they use these smart ways to try to make money for their investors.
+One big part of their strategy is something called "statistical [arbitrage](/wiki/arbitrage)." This means they buy and sell a lot of different things quickly to make small profits many times. They also use "[machine learning](/wiki/machine-learning)," which is when computers learn from data and get better at making predictions over time. Renaissance Technologies keeps their exact methods a secret, but we know they use these smart ways to try to make money for their investors.
 
 ## How does the elite quant hedge fund use technology and data analysis?
 
@@ -60,7 +60,7 @@ The fund's performance is even more impressive because they manage to do this wh
 
 Renaissance Technologies uses smart ways to manage risk. They spread out their investments across many different things, like stocks, bonds, and other financial tools. This way, if one thing goes down, it doesn't hurt their whole fund. They also use math and computers to predict how risky something might be. By looking at a lot of data, they can see patterns that help them avoid big losses.
 
-Another way they manage risk is by trading a lot and making small profits many times. This is called statistical arbitrage. They buy and sell quickly to make small gains, which adds up over time. This helps them keep their risk low because they are not betting big on just one thing. Their computers are always learning and getting better at figuring out what is safe and what is not, which helps them keep their investments safe.
+Another way they manage risk is by trading a lot and making small profits many times. This is called [statistical arbitrage](/wiki/statistical-arbitrage). They buy and sell quickly to make small gains, which adds up over time. This helps them keep their risk low because they are not betting big on just one thing. Their computers are always learning and getting better at figuring out what is safe and what is not, which helps them keep their investments safe.
 
 ## What is the organizational structure and team composition of the elite quant hedge fund?
 

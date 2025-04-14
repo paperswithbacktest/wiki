@@ -24,7 +24,7 @@ Sovereign bonds are a popular way for governments to borrow because they can be 
 
 Investing in sovereign bonds has some risks. One main risk is that the government might not be able to pay back the money it borrowed. This can happen if the country's economy gets really bad or if the government spends too much money. If this happens, investors might lose some or all of their money. This risk is called default risk, and it's bigger for countries that are not very rich or stable.
 
-Another risk is that the value of the bond can go up and down. If interest rates go up after you buy a bond, the value of your bond might go down because new bonds will pay more interest. This is called interest rate risk. Also, changes in the economy or politics of the country can make the bond's value change. This is called market risk. Even though sovereign bonds are usually seen as safe, these risks can still affect how much money you make or lose.
+Another risk is that the value of the bond can go up and down. If interest rates go up after you buy a bond, the value of your bond might go down because new bonds will pay more interest. This is called [interest rate](/wiki/interest-rate-trading-strategies) risk. Also, changes in the economy or politics of the country can make the bond's value change. This is called market risk. Even though sovereign bonds are usually seen as safe, these risks can still affect how much money you make or lose.
 
 In some cases, inflation can also be a risk. If the prices of things go up a lot, the money you get back from the bond might not be worth as much as when you first invested. This is called inflation risk. So, even though sovereign bonds are often a safe choice, it's good to think about these risks before you decide to invest.
 

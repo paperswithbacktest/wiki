@@ -32,7 +32,7 @@ One common way to figure out position size is the fixed dollar risk method. With
 
 Another method is the percentage risk model. Here, you decide what percentage of your total trading account you're willing to risk on one trade. If your account is $10,000 and you're okay with risking 1%, that's $100. You then use the same stop loss idea as before. If your stop loss is $2 per share, you can buy 50 shares. This method helps you adjust your position size as your account grows or shrinks, keeping your risk level the same.
 
-A third way is the volatility-based method. This one looks at how much the price of what you're trading moves around, called volatility. You might use something like the Average True Range (ATR) to measure this. If the ATR is $1 and you're willing to risk $100, you can buy 100 shares ($100 divided by $1). This method helps you adjust your position size based on how wild the price movements are, which can be really helpful in different market conditions.
+A third way is the [volatility](/wiki/volatility-trading-strategies)-based method. This one looks at how much the price of what you're trading moves around, called volatility. You might use something like the Average True Range (ATR) to measure this. If the ATR is $1 and you're willing to risk $100, you can buy 100 shares ($100 divided by $1). This method helps you adjust your position size based on how wild the price movements are, which can be really helpful in different market conditions.
 
 ## What is the difference between fixed fractional and fixed ratio position sizing?
 
@@ -80,7 +80,7 @@ On the other hand, if traders use the wrong position size, it can make them feel
 
 Machine learning and algorithmic models can help traders make better choices about how much money to put into a trade. These models can look at a lot of data really fast, like how prices have moved in the past and what's happening in the market right now. They can find patterns that people might miss and use this information to suggest the best position size for each trade. This can help traders manage their risk better because the models can adjust the position size based on how wild the market is or how likely a trade is to make money.
 
-Using these models can also take some of the stress out of trading. When traders use machine learning to decide on their position size, they don't have to worry as much about making mistakes because the computer is doing a lot of the work. This can help them stay calm and follow their trading plan without letting their feelings get in the way. Over time, this can lead to better results because the models can keep learning and getting better at figuring out the best position size for each trade.
+Using these models can also take some of the stress out of trading. When traders use [machine learning](/wiki/machine-learning) to decide on their position size, they don't have to worry as much about making mistakes because the computer is doing a lot of the work. This can help them stay calm and follow their trading plan without letting their feelings get in the way. Over time, this can lead to better results because the models can keep learning and getting better at figuring out the best position size for each trade.
 
 ## What are popular position sizing strategies?
 

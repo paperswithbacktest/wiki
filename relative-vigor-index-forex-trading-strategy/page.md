@@ -22,7 +22,7 @@ To make the RVI smoother and easier to use, you apply a moving average to the re
 
 ## What does the RVI measure in the context of forex trading?
 
-In forex trading, the Relative Vigor Index (RVI) measures how strong a currency's price trend is. It looks at where the price closes compared to where it opened, and then compares that to the highest and lowest prices during the trading period. If the closing price is close to the high, it suggests that buyers are strong and pushing the price up. If the closing price is near the low, it means sellers are in control and pushing the price down. This helps traders see if a trend is likely to continue or if it might be losing strength.
+In [forex](/wiki/forex-system) trading, the Relative Vigor Index (RVI) measures how strong a currency's price trend is. It looks at where the price closes compared to where it opened, and then compares that to the highest and lowest prices during the trading period. If the closing price is close to the high, it suggests that buyers are strong and pushing the price up. If the closing price is near the low, it means sellers are in control and pushing the price down. This helps traders see if a trend is likely to continue or if it might be losing strength.
 
 The RVI uses a simple calculation to come up with a number that shows this strength. It then smooths out this number using a moving average, which makes it easier to spot trends over time. Traders often look at the RVI along with a signal line, which is just another moving average of the RVI. When the RVI goes above the signal line, it can be a sign to buy the currency because the trend might be getting stronger. If the RVI drops below the signal line, it might be a good time to sell because the trend could be weakening.
 

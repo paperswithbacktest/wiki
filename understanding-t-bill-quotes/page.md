@@ -76,7 +76,7 @@ Another thing that can affect T-Bill quotes is what the Federal Reserve is doing
 
 ## What advanced strategies can be used with T-Bill quotes for portfolio management?
 
-Investors can use T-Bill quotes to manage their portfolios by laddering their investments. This means buying T-Bills that mature at different times, like some in 4 weeks, some in 13 weeks, and some in 52 weeks. By doing this, you can have money coming back to you at different times, which helps you keep some cash available while still earning interest. When a T-Bill matures, you can use the money to buy a new T-Bill or invest it somewhere else, depending on what the current T-Bill quotes and market conditions are.
+Investors can use T-Bill quotes to manage their portfolios by laddering their investments. This means buying T-Bills that mature at different times, like some in 4 weeks, some in 13 weeks, and some in 52 weeks. By doing this, you can have money coming back to you at different times, which helps you keep some cash available while still [earning](/wiki/earning-announcement) interest. When a T-Bill matures, you can use the money to buy a new T-Bill or invest it somewhere else, depending on what the current T-Bill quotes and market conditions are.
 
 Another strategy is to use T-Bill quotes to manage risk. If you think the economy might get worse, you might want to buy more T-Bills because they are very safe. T-Bill quotes can help you see if the yield is good enough to make this a smart move. If the economy is doing well, you might want to invest less in T-Bills and more in riskier investments that could give you a higher return. By watching T-Bill quotes, you can decide when to move money into or out of T-Bills to balance the risk in your portfolio.
 

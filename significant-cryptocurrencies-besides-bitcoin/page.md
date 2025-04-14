@@ -18,7 +18,7 @@ People use cryptocurrencies for many reasons. Some people like them because they
 
 A cryptocurrency becomes significant mainly because of how many people use it and trust it. When a lot of people start using a cryptocurrency, it becomes more valuable. This is because more people want to buy it, and more places accept it as payment. For example, Bitcoin became significant because it was the first cryptocurrency and many people started using it. As more people used it, more businesses started accepting it, which made it even more popular.
 
-Another thing that makes a cryptocurrency significant is how it is used. Some cryptocurrencies, like Ethereum, are not just for buying things. They can also be used to create and run special programs called smart contracts. These programs can do things automatically, like paying someone when they finish a job. This makes the cryptocurrency more useful and attracts more people to use it. So, the more useful a cryptocurrency is, the more significant it becomes.
+Another thing that makes a [cryptocurrency](/wiki/cryptocurrency) significant is how it is used. Some cryptocurrencies, like Ethereum, are not just for buying things. They can also be used to create and run special programs called smart contracts. These programs can do things automatically, like paying someone when they finish a job. This makes the cryptocurrency more useful and attracts more people to use it. So, the more useful a cryptocurrency is, the more significant it becomes.
 
 ## What is Ethereum and how does it differ from Bitcoin?
 

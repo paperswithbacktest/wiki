@@ -84,7 +84,7 @@ Another advanced method is using brain imaging, like fMRI, to see what happens i
 
 ## What algorithms can be used to manage mismatches?
 
-Algorithmic trading has transformed the financial markets by automating trade decisions and executions. However, mismatches between expected and actual outcomes can arise due to various factors such as market volatility and technical issues. To address these mismatches, sophisticated algorithms have been developed to manage and mitigate risks effectively.
+Algorithmic trading has transformed the financial markets by automating trade decisions and executions. However, mismatches between expected and actual outcomes can arise due to various factors such as market [volatility](/wiki/volatility-trading-strategies) and technical issues. To address these mismatches, sophisticated algorithms have been developed to manage and mitigate risks effectively.
 
 **Risk Management Algorithms**
 

@@ -112,7 +112,7 @@ print("Excess Kurtosis:", kurt_value)
 
 ### Alternative Models and Techniques
 
-Once identified, high kurtosis can be addressed through models that accommodate the unique characteristics of financial data. One such model is the **Stochastic Volatility Model**. This model considers the variability of volatility over time, which is not captured in simpler models like the Black-Scholes. By incorporating changing volatility, stochastic models better account for the "fat tails" characteristic of high-kurtosis distributions.
+Once identified, high kurtosis can be addressed through models that accommodate the unique characteristics of financial data. One such model is the **Stochastic Volatility Model**. This model considers the variability of [volatility](/wiki/volatility-trading-strategies) over time, which is not captured in simpler models like the Black-Scholes. By incorporating changing volatility, stochastic models better account for the "fat tails" characteristic of high-kurtosis distributions.
 
 Another effective strategy is using **Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models**, which explicitly model volatility clustering commonly observed in financial markets.
 
@@ -126,7 +126,7 @@ Another effective strategy is using **Generalized Autoregressive Conditional Het
 
 4. **Stress Testing and Scenario Analysis**: Implement regular stress testing and scenario analyses to forecast potential outcomes under extreme conditions. This proactive approach ensures that any drawdowns are within acceptable limits even during market anomalies.
 
-By adopting these practices, algorithmic trading can be made more resilient to the risks posed by high kurtosis, leading to more stable financial returns and reduced vulnerability to market shocks.
+By adopting these practices, [algorithmic trading](/wiki/algorithmic-trading) can be made more resilient to the risks posed by high kurtosis, leading to more stable financial returns and reduced vulnerability to market shocks.
 
 ## References & Further Reading
 

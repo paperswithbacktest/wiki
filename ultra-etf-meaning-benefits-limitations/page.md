@@ -18,7 +18,7 @@ These funds can be very risky because they use a lot of borrowing to try to get 
 
 An Ultra ETF works by using special financial tools to try to make more money than the thing it's following, like a stock index or commodity. If the stock index goes up by 1%, the Ultra ETF might try to go up by 2% or even more. It does this by borrowing money to invest more than it has, which is called leverage. This can make the returns bigger, but it also makes the risks bigger.
 
-Because Ultra ETFs use a lot of borrowing, they can be very risky. If the market goes down, the losses can be much bigger than with a normal ETF. These funds are usually meant for people who want to trade for a short time, not for people who want to keep their money in the fund for a long time. It's important for anyone thinking about investing in an Ultra ETF to understand these risks and to be ready for big changes in the value of their investment.
+Because Ultra ETFs use a lot of borrowing, they can be very risky. If the market goes down, the losses can be much bigger than with a normal [ETF](/wiki/etf-trading-strategies). These funds are usually meant for people who want to trade for a short time, not for people who want to keep their money in the fund for a long time. It's important for anyone thinking about investing in an Ultra ETF to understand these risks and to be ready for big changes in the value of their investment.
 
 ## What are the common types of Ultra ETFs?
 
@@ -38,7 +38,7 @@ Another benefit of Ultra ETFs is that they can help you make money even when the
 
 Ultra ETFs can be very risky because they use a lot of borrowing to try to make bigger returns. This means that if the market goes down, the losses can be much bigger than with a normal ETF. For example, if you invest in a 3x leveraged ETF and the market goes down by 1%, your investment could go down by 3%. This can lead to big losses if the market keeps going down.
 
-Another risk is that Ultra ETFs are usually meant for short-term trading, not for keeping for a long time. If you keep your money in an Ultra ETF for a long time, the daily resetting of the leverage can make your investment lose value, even if the market stays the same or goes up a little. This is called volatility decay, and it can eat away at your investment over time.
+Another risk is that Ultra ETFs are usually meant for short-term trading, not for keeping for a long time. If you keep your money in an Ultra ETF for a long time, the daily resetting of the leverage can make your investment lose value, even if the market stays the same or goes up a little. This is called [volatility](/wiki/volatility-trading-strategies) decay, and it can eat away at your investment over time.
 
 Lastly, Ultra ETFs can be hard to understand and manage. They need a lot of attention and active trading to work well. If you don't know what you're doing, you could lose a lot of money. It's important to understand these risks and be ready for big changes in the value of your investment before you decide to invest in an Ultra ETF.
 

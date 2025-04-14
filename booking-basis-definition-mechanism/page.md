@@ -34,7 +34,7 @@ A few months later, the local price of corn goes up to $4.20 per bushel. The fut
 
 ## What are the key components involved in 'Booking the Basis'?
 
-The key components involved in Booking the Basis are the local cash price, the futures price, and the basis itself. The local cash price is what a farmer can get for their crop right in their area. The futures price is what's listed on a big market for future delivery of the crop. The basis is the difference between these two prices. When a farmer books the basis, they lock in this difference, which helps them plan better for the future.
+The key components involved in Booking the Basis are the local cash price, the futures price, and the basis itself. The local cash price is what a farmer can get for their crop right in their area. The futures price is what's listed on a big market for future delivery of the crop. The basis is the difference between these two prices. When a farmer [books](/wiki/algo-trading-books) the basis, they lock in this difference, which helps them plan better for the future.
 
 By understanding these components, a farmer can make smarter decisions about when to sell their crops. Booking the basis means the farmer doesn't have to worry as much about the futures price going down because they've already locked in the difference. This strategy gives them a chance to sell at a higher local price if it goes up, making their income more predictable and safer.
 

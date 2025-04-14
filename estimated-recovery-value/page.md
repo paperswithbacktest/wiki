@@ -28,7 +28,7 @@ Next, you need to consider any costs you might have to pay to get the asset read
 
 ## What factors influence the ERV of an asset?
 
-The ERV of an asset depends on a few key things. One is the original cost of the asset. If you know how much it cost when it was new, you can start to figure out its value now. Another big factor is the current condition of the asset. If it's really damaged, the ERV will be lower because it's worth less to buyers. Market demand is also important. If a lot of people want to buy the asset, even if it's damaged, the ERV could be higher.
+The ERV of an asset depends on a few key things. One is the original cost of the asset. If you know how much it cost when it was new, you can start to figure out its value now. Another big [factor](/wiki/factor-investing) is the current condition of the asset. If it's really damaged, the ERV will be lower because it's worth less to buyers. Market demand is also important. If a lot of people want to buy the asset, even if it's damaged, the ERV could be higher.
 
 You also need to think about any costs to get the asset ready to sell or use again. These might be repair costs or fees to take it apart and sell the pieces. Subtracting these costs from what you think you can sell the asset for gives you the ERV. It's a bit of a guess, but by looking at these things, you can get a good idea of what the asset might be worth after it's been damaged.
 
@@ -70,7 +70,7 @@ Having a good idea of the ERV also helps investors plan for the future. If they 
 
 ## What advanced methodologies can be used to improve ERV estimates?
 
-To get better ERV estimates, companies can use advanced methods like data analytics and machine learning. These tools can look at a lot of information at once, like past sales of similar damaged items, current market trends, and even how much it might cost to fix things. By using this data, they can come up with a more accurate guess about what a damaged asset might be worth. It's like having a super smart helper that can see patterns and make predictions based on a lot of different things.
+To get better ERV estimates, companies can use advanced methods like data analytics and [machine learning](/wiki/machine-learning). These tools can look at a lot of information at once, like past sales of similar damaged items, current market trends, and even how much it might cost to fix things. By using this data, they can come up with a more accurate guess about what a damaged asset might be worth. It's like having a super smart helper that can see patterns and make predictions based on a lot of different things.
 
 Another way to improve ERV estimates is by using expert opinions and specialized software. Sometimes, it helps to talk to people who know a lot about the type of asset you're dealing with. They can give you good advice on what the asset might be worth. Special software can also help by doing complex calculations and taking into account things like depreciation and market demand. By combining these methods, businesses can get a clearer picture of the ERV and make better decisions about what to do with their damaged assets.
 

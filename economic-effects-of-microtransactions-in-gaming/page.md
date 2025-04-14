@@ -42,7 +42,7 @@ However, game developers can control this by being careful about how they add it
 
 ## What impact do microtransactions have on player behavior and spending habits?
 
-Microtransactions can change how players act in games. When players see cool items or special boosts they can buy, they might feel tempted to spend money. This can make them play more often, trying to get the most out of what they bought. Some players might even start focusing more on earning or buying the best items instead of just enjoying the game. This can lead to a cycle where players spend more and more money, sometimes without realizing it.
+Microtransactions can change how players act in games. When players see cool items or special boosts they can buy, they might feel tempted to spend money. This can make them play more often, trying to get the most out of what they bought. Some players might even start focusing more on [earning](/wiki/earning-announcement) or buying the best items instead of just enjoying the game. This can lead to a cycle where players spend more and more money, sometimes without realizing it.
 
 This kind of spending can also affect how players think about money in real life. If they get used to buying things in games, they might start seeing real money as something to spend on virtual items. This can be a problem if they spend too much or if it makes them think less about saving money. Game developers need to be careful and make sure that microtransactions don't push players to spend more than they should, so the game stays fun and fair for everyone.
 

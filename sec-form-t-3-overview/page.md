@@ -52,7 +52,7 @@ Some other websites also offer access to SEC filings, but the SEC's EDGAR system
 
 ## What are common mistakes to avoid when filing SEC Form T-3?
 
-When filing SEC Form T-3, one common mistake to avoid is not providing all the required information about the trust indenture. This agreement is really important because it sets the rules for the bond issue and protects the bondholders. If you leave out details like the interest rate, payment dates, or what happens if the company can't pay, the SEC might not approve your filing. It's like trying to build a house without all the pieces—you need everything to make it work right.
+When filing SEC Form T-3, one common mistake to avoid is not providing all the required information about the trust indenture. This agreement is really important because it sets the rules for the bond issue and protects the bondholders. If you leave out details like the [interest rate](/wiki/interest-rate-trading-strategies), payment dates, or what happens if the company can't pay, the SEC might not approve your filing. It's like trying to build a house without all the pieces—you need everything to make it work right.
 
 Another mistake to watch out for is not being clear about the bondholders' rights. The form should explain what rights the people who buy the bonds have, like voting on changes or what happens if the company wants to do something different. If this part is confusing or missing, investors won't know what they're getting into, and the SEC might send the filing back. It's all about being open and honest so everyone understands the deal.
 

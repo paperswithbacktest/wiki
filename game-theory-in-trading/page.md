@@ -20,7 +20,7 @@ Game theory is all about understanding how people make choices when they're play
 
 Another important idea in game theory is the concept of Nash equilibrium. This is a situation where no trader can do better by changing their strategy if everyone else keeps their strategy the same. In trading, this might mean finding a point where everyone's buying and selling patterns balance out, and no one can gain an advantage by switching what they're doing. Understanding Nash equilibrium can help traders see when the market might be stable or when it might be about to change.
 
-Lastly, game theory also looks at zero-sum games, where one trader's gain is another's loss. In trading, this can be seen in situations where traders are competing directly against each other, like in a stock market where one person's profit from selling a stock is another's loss from buying it at a higher price. Recognizing these zero-sum situations can help traders decide when to enter or exit trades to maximize their gains.
+Lastly, game theory also looks at zero-sum games, where one trader's gain is another's loss. In trading, this can be seen in situations where traders are competing directly against each other, like in a stock market where one person's profit from selling a stock is another's loss from buying it at a higher price. Recognizing these zero-sum situations can help traders decide when to enter or [exit](/wiki/exit-strategy) trades to maximize their gains.
 
 ## What are some common game theory models used in trading?
 
@@ -74,7 +74,7 @@ Game theory models like the Prisoner's Dilemma, Stag Hunt, and Hawk-Dove Game ca
 
 ## What advanced game theory strategies can be applied to high-frequency trading?
 
-High-frequency trading (HFT) is like a super fast game where traders use computers to buy and sell stocks very quickly. Game theory can help these traders make better guesses about what other traders will do next. For example, in HFT, traders might use a model called the Prisoner's Dilemma to decide if they should work with other traders or try to beat them. If they think others will cooperate and not make big, sudden moves, they might do the same to keep the market stable. But if they think others will try to outsmart them, they might use their fast computers to buy or sell first and make a quick profit.
+High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) is like a super fast game where traders use computers to buy and sell stocks very quickly. Game theory can help these traders make better guesses about what other traders will do next. For example, in HFT, traders might use a model called the Prisoner's Dilemma to decide if they should work with other traders or try to beat them. If they think others will cooperate and not make big, sudden moves, they might do the same to keep the market stable. But if they think others will try to outsmart them, they might use their fast computers to buy or sell first and make a quick profit.
 
 Another useful model for HFT is the Hawk-Dove Game, which helps traders decide when to be aggressive or cautious. In HFT, traders can use their fast computers to be very aggressive and make lots of quick trades, hoping to beat others to the punch. But if too many traders are being aggressive, it can make the market risky and unstable. So, traders might use the Hawk-Dove Game to decide if they should be a 'hawk' and trade aggressively, or a 'dove' and trade more cautiously, based on what they think others will do. By understanding these game theory strategies, HFT traders can make smarter, faster decisions and maybe make more money.
 
@@ -86,7 +86,7 @@ Behavioral economics adds another layer by looking at how people's feelings and 
 
 ## How can we achieve integration with technology?
 
-The integration of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and machine learning with game theory is significantly transforming algorithmic trading by enabling the development of more sophisticated and adaptable algorithms. This synthesis allows for enhanced predictive capabilities where AI systems and machine learning models incorporate game-theoretical principles to more accurately forecast the actions of market competitors and predict market movements. 
+The integration of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning) with game theory is significantly transforming [algorithmic trading](/wiki/algorithmic-trading) by enabling the development of more sophisticated and adaptable algorithms. This synthesis allows for enhanced predictive capabilities where AI systems and machine learning models incorporate game-theoretical principles to more accurately forecast the actions of market competitors and predict market movements. 
 
 Machine learning algorithms, equipped with game-theoretic frameworks, can strategically assess and respond to the dynamic behaviors of various market players. These models employ [reinforcement learning](/wiki/reinforcement-learning) techniques where an algorithm learns optimal strategies through trial and error, continually adjusting based on received feedback. Such algorithms can be expressed through a utility function, $U(a)$, aiming to maximize the expected payoff, $E[P]$:
 

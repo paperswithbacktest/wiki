@@ -28,7 +28,7 @@ On the other hand, if the Active Share is low, it means the fund is very similar
 
 ## What does a high Active Share indicate?
 
-A high Active Share means that a fund's investments are very different from the benchmark index it is compared to. This shows that the fund manager is making big, different choices when picking stocks. They are not just following what's in the index, but are trying to find stocks that they think will do better than the market.
+A high Active Share means that a fund's investments are very different from the benchmark index it is compared to. This shows that the fund manager is making big, different choices when [picking](/wiki/asset-class-picking) stocks. They are not just following what's in the index, but are trying to find stocks that they think will do better than the market.
 
 When a fund has a high Active Share, it suggests that the manager believes they can beat the market by choosing different stocks. This can be good for investors who want to pay more for a chance at higher returns. But it also means the fund could do worse than the market if the manager's choices don't work out. So, a high Active Share shows a fund that's trying hard to be different, which can be both a risk and a chance for bigger rewards.
 
@@ -64,7 +64,7 @@ The idea of Active Share has also led to more research and discussions about how
 
 ## What are some real-world examples of funds with high and low Active Share?
 
-A real-world example of a fund with a high Active Share is the ARK Innovation ETF (ARKK). This fund, managed by Cathie Wood, focuses on companies that are leading in areas like artificial intelligence, robotics, and DNA sequencing. ARKK has an Active Share of around 80%, which means it's very different from its benchmark, the S&P 500. The fund's manager picks stocks that she believes will grow a lot, even if they're not in the S&P 500. This high Active Share shows that ARKK is trying to do something different and aims to beat the market by choosing unique stocks.
+A real-world example of a fund with a high Active Share is the ARK Innovation [ETF](/wiki/etf-trading-strategies) (ARKK). This fund, managed by Cathie Wood, focuses on companies that are leading in areas like [artificial intelligence](/wiki/ai-artificial-intelligence), robotics, and DNA sequencing. ARKK has an Active Share of around 80%, which means it's very different from its benchmark, the S&P 500. The fund's manager picks stocks that she believes will grow a lot, even if they're not in the S&P 500. This high Active Share shows that ARKK is trying to do something different and aims to beat the market by choosing unique stocks.
 
 On the other hand, a fund with a low Active Share is the Vanguard 500 Index Fund (VFIAX). This fund tries to match the performance of the S&P 500 by holding the same stocks in the same amounts as the index. VFIAX has an Active Share close to 0%, which means it's almost the same as the S&P 500. The fund's goal is not to beat the market but to follow it closely. A low Active Share like this shows that the fund is not trying to do anything different from the index, making it a good choice for investors who want a simple, low-cost way to invest in the market.
 

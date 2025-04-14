@@ -40,7 +40,7 @@ People use Namecoin domains for websites and emails that they want to keep more 
 
 ## How can someone register a .bit domain with Namecoin?
 
-To register a .bit domain with Namecoin, you first need to have some Namecoin. You can get Namecoin by buying it from a cryptocurrency exchange or by mining it. Once you have some Namecoin, you'll need a Namecoin wallet. This is a special app or software that helps you manage your Namecoin and interact with the blockchain. In the wallet, you'll find a section where you can register a new .bit domain. You type in the domain name you want, like "mywebsite.bit," and you send a special transaction to the Namecoin blockchain. This transaction tells the blockchain that you want to own that domain name.
+To register a .bit domain with Namecoin, you first need to have some Namecoin. You can get Namecoin by buying it from a [cryptocurrency](/wiki/cryptocurrency) exchange or by mining it. Once you have some Namecoin, you'll need a Namecoin wallet. This is a special app or software that helps you manage your Namecoin and interact with the blockchain. In the wallet, you'll find a section where you can register a new .bit domain. You type in the domain name you want, like "mywebsite.bit," and you send a special transaction to the Namecoin blockchain. This transaction tells the blockchain that you want to own that domain name.
 
 After you send the transaction, it gets added to the blockchain. This means that everyone who uses Namecoin can see that you own that .bit domain. It might take a little while for the transaction to be confirmed, but once it's done, you own the domain. Now, you can use your .bit domain for your website or email. To do this, you'll need to set up a server or use a service that supports .bit domains. This way, when someone types in your .bit domain, they can see your website or send you an email.
 
@@ -82,11 +82,11 @@ Another thing they're looking at is making Namecoin work better with other techn
 
 ## What are the algorithmic trading strategies for Namecoin?
 
-Algorithmic trading, which involves the use of computer algorithms to execute trades, presents unique challenges and opportunities when applied to Namecoin, one of the pioneering cryptocurrencies. Namecoin's lower market capitalization compared to more mainstream cryptocurrencies poses both a constraint and an opportunity for algorithmic traders. The specific challenges include navigating its relatively low liquidity and high volatility, which can lead to significant slippage—the difference between the expected price of a trade and the actual executed price.
+Algorithmic trading, which involves the use of computer algorithms to execute trades, presents unique challenges and opportunities when applied to Namecoin, one of the pioneering cryptocurrencies. Namecoin's lower market capitalization compared to more mainstream cryptocurrencies poses both a constraint and an opportunity for algorithmic traders. The specific challenges include navigating its relatively low [liquidity](/wiki/liquidity-risk-premium) and high [volatility](/wiki/volatility-trading-strategies), which can lead to significant slippage—the difference between the expected price of a trade and the actual executed price.
 
 ### Popular Algorithmic Trading Strategies for Namecoin
 
-In the context of Namecoin, commonly employed algorithmic trading strategies include:
+In the context of Namecoin, commonly employed [algorithmic trading](/wiki/algorithmic-trading) strategies include:
 
 1. **Market Making**: This strategy involves placing buy and sell orders to capture the spread between bid and ask prices. Due to Namecoin's volatility, traders must swiftly adapt their pricing models to minimize risk.
 

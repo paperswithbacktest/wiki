@@ -24,7 +24,7 @@ But it's not just about the growth. Some people believe in the benefits of marij
 
 When you put money into the stock market, there's always a chance you might lose some or all of it. The stock market can go up and down a lot, and nobody can really predict what will happen next. If a company doesn't do well, its stock price can drop, and you could lose money. This is called market risk. Also, sometimes the whole market can go down because of big events like a financial crisis or a global health problem, and this can affect all your investments.
 
-Another risk is that you might not know enough about the companies you're investing in. If you don't do your homework, you might pick stocks that seem good but actually aren't. This is called company risk. Also, some stocks are more risky than others. For example, smaller companies or new industries like marijuana can have bigger ups and downs. This is called volatility risk. So, it's important to understand these risks and think carefully before you invest.
+Another risk is that you might not know enough about the companies you're investing in. If you don't do your homework, you might pick stocks that seem good but actually aren't. This is called company risk. Also, some stocks are more risky than others. For example, smaller companies or new industries like marijuana can have bigger ups and downs. This is called [volatility](/wiki/volatility-trading-strategies) risk. So, it's important to understand these risks and think carefully before you invest.
 
 ## What specific risks are associated with investing in marijuana stocks?
 
@@ -78,7 +78,7 @@ You can also diversify by investing in other industries too, not just marijuana.
 
 To assess the risk of marijuana stocks, investors can use advanced analytical tools like quantitative analysis. This means using math and numbers to look at how the stock prices move and how they might move in the future. One tool is called a volatility index, which shows how much the stock price goes up and down. If the volatility index is high, it means the stock is riskier because it can change a lot. Another tool is regression analysis, which helps see how different things, like law changes or company news, affect the stock price. By using these tools, investors can get a better idea of how risky a marijuana stock might be.
 
-Another useful tool is fundamental analysis, which looks at the company's financial health. This includes checking things like the company's revenue, profit, debt, and cash flow. By using software that can quickly go through a lot of financial data, investors can see if a marijuana company is in good shape or if it might have problems. This can help them understand if the stock is a good investment or if it's too risky. These tools can give investors a clearer picture of the risks and help them make smarter choices about where to put their money.
+Another useful tool is [fundamental analysis](/wiki/fundamental-analysis), which looks at the company's financial health. This includes checking things like the company's revenue, profit, debt, and cash flow. By using software that can quickly go through a lot of financial data, investors can see if a marijuana company is in good shape or if it might have problems. This can help them understand if the stock is a good investment or if it's too risky. These tools can give investors a clearer picture of the risks and help them make smarter choices about where to put their money.
 
 ## References & Further Reading
 

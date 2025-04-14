@@ -86,7 +86,7 @@ Zlib is an older way to compress files and it doesn't have these new features. I
 
 Compression ratio, compression speed, and decompression speed are integral to evaluating data compression algorithms, particularly in trading environments where large datasets are prevalent. These metrics help determine how efficiently data can be reduced in size, how quickly this reduction can take place, and how effectively the original data can be restored.
 
-Zlib has historically been favored in industries requiring data compression due to its balanced performance. It achieves a satisfactory compression ratio, making it a reliable choice for storage and transfer of data across networks where bandwidth might be a constraint. However, with the increasing [volume](/wiki/volume-trading-strategy) of data generated in algorithmic trading, the need for higher speeds and efficiency has become paramount.
+Zlib has historically been favored in industries requiring data compression due to its balanced performance. It achieves a satisfactory compression ratio, making it a reliable choice for storage and transfer of data across networks where bandwidth might be a constraint. However, with the increasing [volume](/wiki/volume-trading-strategy) of data generated in [algorithmic trading](/wiki/algorithmic-trading), the need for higher speeds and efficiency has become paramount.
 
 Zstandard (zstd), a newer technology, showcases advancements over traditional methods like zlib. It is designed to provide faster compression and decompression without compromising on the compression ratio. This is particularly beneficial for large datasets encountered in algorithmic trading, where both rapid processing and data integrity are critical.
 

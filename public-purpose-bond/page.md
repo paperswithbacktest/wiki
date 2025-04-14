@@ -54,7 +54,7 @@ The rating is important because it helps people know how safe their money will b
 
 When a government wants to issue a public purpose bond, it starts by figuring out how much money it needs for a project like building a new school or fixing a road. The government then works with a team of people, like lawyers and bankers, to make sure everything is set up correctly. They write up a plan that explains what the money will be used for and how the government will pay it back. This plan is called a bond prospectus.
 
-Once the plan is ready, the government goes to the market to sell the bonds. They might work with a bank or a special company to help sell the bonds to people who want to invest. The government sets a price for the bonds and an interest rate, which is how much extra money the investors will get back over time. When people buy the bonds, they are lending money to the government. The government uses this money for the project and then pays back the investors with interest, usually over many years.
+Once the plan is ready, the government goes to the market to sell the bonds. They might work with a bank or a special company to help sell the bonds to people who want to invest. The government sets a price for the bonds and an [interest rate](/wiki/interest-rate-trading-strategies), which is how much extra money the investors will get back over time. When people buy the bonds, they are lending money to the government. The government uses this money for the project and then pays back the investors with interest, usually over many years.
 
 ## How do public purpose bonds impact the economy?
 

@@ -80,7 +80,7 @@ Another way to improve regulations is by making sure they are fair for all sizes
 
 Right now, one big trend in market regulation is using technology to make things better. Regulators are using computers and data to watch over the market more closely. This helps them spot problems faster and make sure companies are following the rules. Another trend is focusing more on protecting the environment. More and more, regulations are making sure that businesses don't harm the planet. This is important because people want to buy from companies that care about the environment.
 
-In the future, market regulation might become even more about using technology. Things like artificial intelligence could help regulators keep an eye on the market in new ways. This could make the market safer and more fair. Also, as the world gets more connected, international regulations might become more important. Countries might work together more to make rules that help global trade and protect people everywhere. This could make it easier for businesses to sell their products all over the world.
+In the future, market regulation might become even more about using technology. Things like [artificial intelligence](/wiki/ai-artificial-intelligence) could help regulators keep an eye on the market in new ways. This could make the market safer and more fair. Also, as the world gets more connected, international regulations might become more important. Countries might work together more to make rules that help global trade and protect people everywhere. This could make it easier for businesses to sell their products all over the world.
 
 ## References & Further Reading
 

@@ -94,7 +94,7 @@ $$
 
 Both warrants and options can be strategically employed in financial planning by investors aiming to manage risk or speculate on future price movements. They can serve as hedging tools to protect against price fluctuations and as speculative instruments for profit maximization based on market predictions.
 
-Moreover, the strategic use of warrants and options in portfolio management also involves considering factors such as the volatility of the underlying stock, market trends, and the investor's risk appetite. Due to their leverage effect, both instruments can magnify gains but also heighten risks. Effective use requires careful assessment of these factors alongside the investor’s financial objectives and market conditions.
+Moreover, the strategic use of warrants and options in portfolio management also involves considering factors such as the [volatility](/wiki/volatility-trading-strategies) of the underlying stock, market trends, and the investor's risk appetite. Due to their leverage effect, both instruments can magnify gains but also heighten risks. Effective use requires careful assessment of these factors alongside the investor’s financial objectives and market conditions.
 
 In summary, the fixed exercise prices and set expiration dates of stock warrants and options make them similar in basic structure and pricing mechanics. Understanding these elements is crucial for investors looking to integrate these financial instruments into their strategic planning efforts, enabling them to capitalize on market opportunities while managing potential risks.
 

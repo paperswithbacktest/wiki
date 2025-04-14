@@ -26,11 +26,11 @@ One basic risk that affects all stocks is market risk. This means that the whole
 
 Another basic risk is inflation risk. Inflation is when the prices of things go up over time. If inflation goes up a lot, the money you make from your stocks might not be worth as much as you thought. This can make it harder for your investments to grow in value in real terms.
 
-Lastly, there's liquidity risk. This means that sometimes it can be hard to sell your stocks quickly without losing money. If a lot of people want to sell their stocks at the same time, the price can drop fast. So, if you need your money back quickly, you might have to sell your stocks for less than you wanted.
+Lastly, there's [liquidity](/wiki/liquidity-risk-premium) risk. This means that sometimes it can be hard to sell your stocks quickly without losing money. If a lot of people want to sell their stocks at the same time, the price can drop fast. So, if you need your money back quickly, you might have to sell your stocks for less than you wanted.
 
 ## How does market volatility impact stock prices?
 
-Market volatility means that stock prices can go up and down a lot in a short time. It's like a roller coaster for the stock market. When the market is volatile, it can be scary because you never know if your stocks will be worth more or less the next day. This can make people nervous and they might decide to sell their stocks quickly, which can make the prices drop even more.
+Market [volatility](/wiki/volatility-trading-strategies) means that stock prices can go up and down a lot in a short time. It's like a roller coaster for the stock market. When the market is volatile, it can be scary because you never know if your stocks will be worth more or less the next day. This can make people nervous and they might decide to sell their stocks quickly, which can make the prices drop even more.
 
 But market volatility isn't always bad. Sometimes, if you're patient and don't panic, you can buy stocks when they're cheaper because of the ups and downs. If you believe in the company and hold onto the stock, it might go back up later. So, while volatility can make things feel risky, it can also give you chances to make money if you're willing to wait and stay calm.
 

@@ -18,7 +18,7 @@ TIPS pay interest every six months, but the interest rate is applied to the adju
 
 TIPS and regular Treasury securities are both issued by the U.S. government, but they work a bit differently. Regular Treasury securities, like Treasury bills, notes, and bonds, have a fixed interest rate. This means you know exactly how much interest you'll get every year. The value of these securities stays the same, so if there's inflation, the money you get back might not buy as much as it used to.
 
-On the other hand, TIPS adjust with inflation. The principal amount of a TIPS changes based on the Consumer Price Index (CPI). If prices go up, so does the principal of your TIPS, and you get more interest because the interest rate is applied to this new, higher principal. This helps protect your money from losing value due to inflation. But if prices go down, the principal can decrease too, though it won't drop below what you originally paid.
+On the other hand, TIPS adjust with inflation. The principal amount of a TIPS changes based on the Consumer Price Index (CPI). If prices go up, so does the principal of your TIPS, and you get more interest because the [interest rate](/wiki/interest-rate-trading-strategies) is applied to this new, higher principal. This helps protect your money from losing value due to inflation. But if prices go down, the principal can decrease too, though it won't drop below what you originally paid.
 
 ## What are the potential risks associated with investing in TIPS?
 
@@ -52,7 +52,7 @@ However, TIPS might not grow as much as other investments like stocks. They usua
 
 ## What are the liquidity concerns when investing in TIPS?
 
-When you invest in TIPS, you might worry about how easy it is to sell them if you need your money back quickly. This is called liquidity. TIPS can be less liquid than other investments like stocks or regular Treasury securities. This means that if you want to sell your TIPS before they mature, you might not find a buyer right away, or you might have to sell them for less than you hoped.
+When you invest in TIPS, you might worry about how easy it is to sell them if you need your money back quickly. This is called [liquidity](/wiki/liquidity-risk-premium). TIPS can be less liquid than other investments like stocks or regular Treasury securities. This means that if you want to sell your TIPS before they mature, you might not find a buyer right away, or you might have to sell them for less than you hoped.
 
 The liquidity of TIPS can change depending on what's happening in the market. If a lot of people want to buy TIPS, it's easier to sell them. But if fewer people are interested, it can be harder. This is something to think about if you might need to get your money out of TIPS quickly. Even though TIPS are backed by the U.S. government, which makes them safe, their liquidity can still be a concern.
 
@@ -134,7 +134,7 @@ These metrics are vital for algorithmic models to simulate the impact of varying
 
 ### Economic Factors Impacting TIPS
 
-Economic indicators such as interest rate changes, inflation trends, and GDP growth significantly influence TIPS performance. Algorithmic models incorporate these factors to predict future behavior and assess the potential volatility of TIPS. For instance, an unexpected rise in interest rates can diminish the present value of future cash flows from TIPS, affecting their appeal and leading to price adjustments in the market.
+Economic indicators such as interest rate changes, inflation trends, and GDP growth significantly influence TIPS performance. Algorithmic models incorporate these factors to predict future behavior and assess the potential [volatility](/wiki/volatility-trading-strategies) of TIPS. For instance, an unexpected rise in interest rates can diminish the present value of future cash flows from TIPS, affecting their appeal and leading to price adjustments in the market.
 
 Back-testing, a critical component of algorithmic modeling, evaluates the effectiveness of trading strategies on historical data. It helps refine these models by identifying patterns and correlations, ensuring they can accurately predict future outcomes. For TIPS, back-testing involves assessing how different economic conditions historically impacted TIPS returns, improving model predictions and strategy optimization.
 
@@ -172,7 +172,7 @@ These tools enable investors to back-test strategies and analyze the impact of v
 
 ## References & Further Reading
 
-To gain a deeper understanding of Treasury Inflation-Protected Securities (TIPS) and algorithmic trading, several key resources and academic papers are recommended. These references provide valuable insights into both the mechanics and investment strategies associated with TIPS, as well as the advanced techniques and implications of algorithmic trading.
+To gain a deeper understanding of Treasury Inflation-Protected Securities (TIPS) and [algorithmic trading](/wiki/algorithmic-trading), several key resources and academic papers are recommended. These references provide valuable insights into both the mechanics and investment strategies associated with TIPS, as well as the advanced techniques and implications of algorithmic trading.
 
 1. **Books on Inflation-Indexed Bonds**: A comprehensive guide to understanding TIPS can be found in "Inflation-Indexed Securities: Bonds, Swaps and Other Derivatives" by Mark Deacon et al. This book provides a thorough overview of inflation-protected securities and their role in the financial markets.
 

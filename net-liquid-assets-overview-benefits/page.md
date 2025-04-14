@@ -40,7 +40,7 @@ Having a good understanding of your net liquid assets also helps you make better
 
 ## What are some common examples of liquid assets?
 
-Liquid assets are things you own that you can quickly turn into cash. Some common examples are the money you have in your bank account, like in your checking or savings account. Another example is the cash you keep at home or carry with you. These are easy to use if you need money right away.
+Liquid assets are things you own that you can quickly turn into cash. Some common examples are the money you have in your bank account, like in your checking or savings account. Another example is the cash you keep at home or [carry](/wiki/carry-trading) with you. These are easy to use if you need money right away.
 
 Other examples of liquid assets include money market accounts, which are like savings accounts but might give you a bit more interest. Also, stocks and bonds that you can sell quickly are liquid assets. These are investments that you can turn into cash fast if you need to, without waiting a long time.
 
@@ -82,7 +82,7 @@ Another strategy is to spread their money around in different types of investmen
 
 ## What are net liquid assets?
 
-Net liquid assets are a vital financial metric that indicate a company's capacity to fulfill short-term obligations without resorting to external financing sources. Essentially, net liquid assets reflect the liquidity available to a business after accounting for its short-term liabilities. This measure is calculated by subtracting current liabilities from liquid assets. The formula for net liquid assets can be expressed as:
+Net liquid assets are a vital financial metric that indicate a company's capacity to fulfill short-term obligations without resorting to external financing sources. Essentially, net liquid assets reflect the [liquidity](/wiki/liquidity-risk-premium) available to a business after accounting for its short-term liabilities. This measure is calculated by subtracting current liabilities from liquid assets. The formula for net liquid assets can be expressed as:
 
 $$
 \text{Net Liquid Assets} = \text{Liquid Assets} - \text{Current Liabilities}

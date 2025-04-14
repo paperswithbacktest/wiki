@@ -18,7 +18,7 @@ When the business finally provides the service or product, the deferred credit t
 
 Deferred credit is money a business gets before it does the work. Imagine you pay for a gym membership for the whole year upfront. The gym gets your money right away, but they haven't earned it yet because you haven't used the gym for the whole year. So, the gym writes down that money as a deferred credit, which means they owe you gym access for the year.
 
-As you go to the gym each month, the gym slowly turns that deferred credit into income. They do this by taking a bit of the money each month as you use the gym. This way, the gym's financial records show they earned the money over time, not all at once when you paid. It helps keep their books honest and clear.
+As you go to the gym each month, the gym slowly turns that deferred credit into income. They do this by taking a bit of the money each month as you use the gym. This way, the gym's financial records show they earned the money over time, not all at once when you paid. It helps keep their [books](/wiki/algo-trading-books) honest and clear.
 
 ## What are the common types of deferred credit?
 

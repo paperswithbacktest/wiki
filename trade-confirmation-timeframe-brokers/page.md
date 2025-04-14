@@ -34,7 +34,7 @@ Delayed trade confirmations take a bit longer to reach you. Instead of getting t
 
 ## What factors influence the trade confirmation timeframe for brokers?
 
-Several things can affect how quickly a broker sends out trade confirmations. One big thing is the technology they use. If a broker has good technology, they can send out confirmations right away, making things fast and easy. But if their technology is old or slow, it might take longer to get the confirmations out. Another factor is the rules they have to follow. In some places, the law says brokers have to send out confirmations by the next business day, so that's the longest they can take.
+Several things can affect how quickly a broker sends out trade confirmations. One big thing is the technology they use. If a broker has good technology, they can send out confirmations right away, making things fast and easy. But if their technology is old or slow, it might take longer to get the confirmations out. Another [factor](/wiki/factor-investing) is the rules they have to follow. In some places, the law says brokers have to send out confirmations by the next business day, so that's the longest they can take.
 
 The size of the broker's business also matters. A big broker with lots of clients might need more time to send out all the confirmations, while a smaller broker might be able to do it faster. Also, how the broker organizes their work can make a difference. If they have a good system in place, they can send out confirmations quickly. But if things are messy or they don't have enough people working on it, it might take longer.
 

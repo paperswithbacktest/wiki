@@ -22,7 +22,7 @@ Getting dividends is like getting a little bonus for owning a piece of the compa
 
 ## How do ETFs generate dividends?
 
-ETFs generate dividends by holding stocks or other assets that pay dividends themselves. When the companies inside the ETF pay out dividends, the ETF collects all those payments. Then, the ETF usually passes those dividends along to its own shareholders. This means if you own shares of an ETF, you might get a dividend payment from it, depending on what the ETF owns and how it's managed.
+ETFs generate dividends by holding stocks or other assets that pay dividends themselves. When the companies inside the [ETF](/wiki/etf-trading-strategies) pay out dividends, the ETF collects all those payments. Then, the ETF usually passes those dividends along to its own shareholders. This means if you own shares of an ETF, you might get a dividend payment from it, depending on what the ETF owns and how it's managed.
 
 Not all ETFs pay dividends, though. Some ETFs focus on growth and might not include many dividend-paying stocks. Others might reinvest the dividends they receive to buy more assets instead of paying them out to shareholders. So, if you're looking for an ETF that pays dividends, you'll want to check what it holds and how it handles the dividends it receives from those holdings.
 
@@ -42,7 +42,7 @@ If you're thinking about investing in an ETF for the dividends, it's a good idea
 
 The dividend yield of an ETF is influenced by the dividends paid by the companies it holds. If an ETF owns stocks from companies that pay high dividends, the ETF's dividend yield will be higher. On the other hand, if the ETF holds stocks from companies that pay low or no dividends, the ETF's yield will be lower. The overall performance of the companies in the ETF also matters. If the companies are doing well and making more profits, they might pay higher dividends, which would increase the ETF's yield.
 
-Another factor is the ETF's expense ratio. This is the fee the ETF charges for managing the fund. A higher expense ratio can lower the dividend yield because it reduces the amount of money available to be paid out as dividends. Also, how the ETF is managed can affect its yield. Some ETFs might choose to reinvest dividends instead of paying them out, which would lower the yield. So, when you're looking at an ETF's dividend yield, it's important to consider all these things to understand what you might get from your investment.
+Another [factor](/wiki/factor-investing) is the ETF's expense ratio. This is the fee the ETF charges for managing the fund. A higher expense ratio can lower the dividend yield because it reduces the amount of money available to be paid out as dividends. Also, how the ETF is managed can affect its yield. Some ETFs might choose to reinvest dividends instead of paying them out, which would lower the yield. So, when you're looking at an ETF's dividend yield, it's important to consider all these things to understand what you might get from your investment.
 
 ## How are ETF dividends taxed?
 
@@ -64,7 +64,7 @@ Another way to use ETF dividends is to grow your investment over time. Instead o
 
 ## What are the implications of dividend reinvestment on compound growth?
 
-When you reinvest dividends, you're using the money you get from dividends to buy more shares of the ETF. This can make your investment grow faster because of something called compound growth. Compound growth means that the money you earn from your investment starts earning money too. So, if you reinvest your dividends, you're not just growing your investment with the money you put in at the start. You're also growing it with the dividends you earn along the way. Over time, this can make your investment much bigger than if you just took the dividends as cash.
+When you reinvest dividends, you're using the money you get from dividends to buy more shares of the ETF. This can make your investment grow faster because of something called compound growth. Compound growth means that the money you earn from your investment starts [earning](/wiki/earning-announcement) money too. So, if you reinvest your dividends, you're not just growing your investment with the money you put in at the start. You're also growing it with the dividends you earn along the way. Over time, this can make your investment much bigger than if you just took the dividends as cash.
 
 For example, let's say you own shares in an ETF and it pays you dividends every three months. If you choose to reinvest those dividends, you'll buy more shares each time. The more shares you have, the more dividends you'll get in the future. This cycle keeps going, and the effect gets stronger the longer you keep reinvesting. It's like a snowball rolling down a hill, getting bigger and bigger. This is why reinvesting dividends can be a powerful way to grow your investment over the long term.
 
@@ -76,7 +76,7 @@ The frequency of dividend distributions can also vary. Most ETFs pay out dividen
 
 ## What are the advanced strategies for optimizing ETF dividend income?
 
-One advanced strategy for optimizing ETF dividend income is to focus on ETFs that track high-dividend indexes. These ETFs invest in companies known for paying high dividends regularly. By choosing these ETFs, you can get more income from your investments. Another part of this strategy is to look at the ETF's expense ratio. A lower expense ratio means more of the dividends the ETF collects can be paid out to you. So, picking ETFs with low fees can help you keep more of the dividend income.
+One advanced strategy for optimizing ETF dividend income is to focus on ETFs that track high-dividend indexes. These ETFs invest in companies known for paying high dividends regularly. By choosing these ETFs, you can get more income from your investments. Another part of this strategy is to look at the ETF's expense ratio. A lower expense ratio means more of the dividends the ETF collects can be paid out to you. So, [picking](/wiki/asset-class-picking) ETFs with low fees can help you keep more of the dividend income.
 
 Another strategy is to use a dividend reinvestment plan (DRIP) to grow your investment over time. When you reinvest dividends, you buy more shares of the ETF without spending extra money. This can lead to compound growth, where your investment grows bigger and bigger because the dividends you earn start earning more dividends. Over many years, this can really add up and help your investment get much larger. It's like planting a seed and watching it grow into a big tree. By using these strategies, you can make the most out of your ETF dividend income.
 

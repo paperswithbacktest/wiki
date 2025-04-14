@@ -20,7 +20,7 @@ A Pure Yield Pickup Swap is different from other types of swaps because it focus
 
 Another type of swap is a rate anticipation swap, where an investor trades bonds because they think interest rates will change in the future. They might swap a short-term bond for a long-term bond if they think rates will go down, hoping to lock in a higher rate for a longer time. In contrast, a Pure Yield Pickup Swap doesn't care about future rate changes; it's all about getting a better rate right now, with everything else staying the same.
 
-So, while other swaps might involve changing the risk, the time until the bond matures, or betting on future interest rate movements, a Pure Yield Pickup Swap is simpler. It's just about finding a bond with a higher interest rate from the same issuer and with the same maturity date, to increase the income from your investment without adding any new risks.
+So, while other swaps might involve changing the risk, the time until the bond matures, or betting on future [interest rate](/wiki/interest-rate-trading-strategies) movements, a Pure Yield Pickup Swap is simpler. It's just about finding a bond with a higher interest rate from the same issuer and with the same maturity date, to increase the income from your investment without adding any new risks.
 
 ## What are the primary goals of engaging in a Pure Yield Pickup Swap?
 
@@ -74,7 +74,7 @@ Even though a Pure Yield Pickup Swap is meant to keep everything the same except
 
 Pure Yield Pickup Swaps can be a helpful tool in managing a bond portfolio. When you swap a bond with a lower interest rate for one with a higher interest rate, you can increase the income you get from your investments. This can be useful if you're looking to boost the overall return of your portfolio without taking on more risk. Since the swap involves bonds from the same company with the same maturity date, it keeps your risk level the same while giving you more money each year.
 
-However, it's important to consider the bigger picture when using Pure Yield Pickup Swaps in your portfolio. You need to keep an eye on interest rate movements and the company's credit rating. If interest rates go up after you do the swap, the value of your new bond might go down. Also, if the company's credit rating drops, it could make your investment riskier. By carefully managing these swaps, you can work towards earning more income while keeping your portfolio balanced and safe.
+However, it's important to consider the bigger picture when using Pure Yield Pickup Swaps in your portfolio. You need to keep an eye on interest rate movements and the company's credit rating. If interest rates go up after you do the swap, the value of your new bond might go down. Also, if the company's credit rating drops, it could make your investment riskier. By carefully managing these swaps, you can work towards [earning](/wiki/earning-announcement) more income while keeping your portfolio balanced and safe.
 
 ## What advanced strategies can be employed with Pure Yield Pickup Swaps to optimize returns?
 

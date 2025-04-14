@@ -36,7 +36,7 @@ Lastly, some people think international trade can make countries too dependent o
 
 ## How does international trade impact job creation and loss?
 
-International trade can create jobs in a country. When a country sells a lot of things to other countries, companies might need more people to make those things. This means more jobs for people in that country. For example, if a country is good at making cars and starts selling them to other countries, car factories might need to hire more workers. This can be good for the economy because more people are working and earning money.
+International trade can create jobs in a country. When a country sells a lot of things to other countries, companies might need more people to make those things. This means more jobs for people in that country. For example, if a country is good at making cars and starts selling them to other countries, car factories might need to hire more workers. This can be good for the economy because more people are working and [earning](/wiki/earning-announcement) money.
 
 But international trade can also lead to job loss. Sometimes companies move their factories to other countries where they can pay workers less. When this happens, people in the original country can lose their jobs. For example, if a shoe company moves its factory from one country to another where labor is cheaper, workers in the first country might find it hard to get new jobs. This can cause problems like poverty and make life harder for those people.
 

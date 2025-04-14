@@ -58,7 +58,7 @@ On the other hand, if the price of one product goes up and people buy less of an
 
 ## What factors can affect the cross price elasticity between two goods?
 
-Several things can change how much the demand for one thing goes up or down when the price of another thing changes. One big factor is how close the two things are as substitutes or complements. If two products are very similar, like Coke and Pepsi, even a small change in the price of one can make a big difference in how much people buy the other. On the other hand, if the products are not very similar, like apples and oranges, the change in demand might not be as big.
+Several things can change how much the demand for one thing goes up or down when the price of another thing changes. One big [factor](/wiki/factor-investing) is how close the two things are as substitutes or complements. If two products are very similar, like Coke and Pepsi, even a small change in the price of one can make a big difference in how much people buy the other. On the other hand, if the products are not very similar, like apples and oranges, the change in demand might not be as big.
 
 Another factor is how important the products are to people. If a product is something people really need or want, like gasoline for their cars, a change in the price of a complement, like car tires, can have a big effect. But if the product is something people can easily do without, like a luxury item, the effect might not be as strong. Also, the time people have to react to price changes matters. If prices change and people have a lot of time to adjust, the cross price elasticity might be higher because they can switch to substitutes or cut back on complements more easily.
 

@@ -42,7 +42,7 @@ For example, if inflation goes up by 2% in a year, the payments from these secur
 
 Investing in municipal inflation-linked securities comes with some risks. One big risk is that the city or town might have trouble paying back the money they borrowed. If the city runs into money problems, they might not be able to make the payments on time or at all. This is called default risk, and it can mean you lose some or all of your investment.
 
-Another risk is that the value of these securities can go up and down based on what's happening in the market. If people start thinking these securities are riskier or if interest rates go up, the price of the securities might drop. This is called interest rate risk, and it means you could lose money if you need to sell your securities before they mature.
+Another risk is that the value of these securities can go up and down based on what's happening in the market. If people start thinking these securities are riskier or if interest rates go up, the price of the securities might drop. This is called [interest rate](/wiki/interest-rate-trading-strategies) risk, and it means you could lose money if you need to sell your securities before they mature.
 
 Lastly, while these securities are designed to protect against inflation, there's still a chance that inflation could be higher than expected. If inflation goes up a lot more than the adjustments made to the securities, the payments might not keep up with the rising cost of living. This is called inflation risk, and it means your money might not grow as much as you need it to.
 
@@ -94,7 +94,7 @@ $$
 
 Despite their benefits, municipal inflation-linked securities come with certain trade-offs. They tend to offer lower initial coupon rates compared to their traditional counterparts. This is because the adjustment for inflation is considered part of the return on investment, reducing the upfront yield requirement. Investors need to weigh this potential reduction in immediate income against the long-term inflation protection these securities offer.
 
-Another consideration for investors is the trade-off in liquidity and yield. Market liquidity for inflation-linked securities can be lower than for regular municipal bonds due to fewer market participants and the complexity of pricing these adjustments. As a result, selling these securities quickly could prove more challenging, potentially impacting the realized yield.
+Another consideration for investors is the trade-off in [liquidity](/wiki/liquidity-risk-premium) and yield. Market liquidity for inflation-linked securities can be lower than for regular municipal bonds due to fewer market participants and the complexity of pricing these adjustments. As a result, selling these securities quickly could prove more challenging, potentially impacting the realized yield.
 
 In conclusion, while municipal inflation-linked securities may offer protection against inflation-driven purchasing power erosion, investors should carefully assess their portfolio goals and liquidity needs when considering these instruments. Balancing these securities' advantages with their inherent trade-offs is essential for optimizing fixed-income investment strategies.
 

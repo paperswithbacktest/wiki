@@ -64,7 +64,7 @@ Xetra also has rules to make sure high-frequency trading is fair. The system wat
 
 ## What are the liquidity and volume statistics for Xetra compared to other systems?
 
-Xetra is known for having good liquidity and high trading volumes. Liquidity means how easy it is to buy or sell something without affecting its price too much. On Xetra, there are usually a lot of buyers and sellers, which makes it easy to trade. The trading volume on Xetra is also very high, which means a lot of trades happen every day. This is important because it shows that Xetra is a busy and active market where people can trade easily.
+Xetra is known for having good [liquidity](/wiki/liquidity-risk-premium) and high trading volumes. Liquidity means how easy it is to buy or sell something without affecting its price too much. On Xetra, there are usually a lot of buyers and sellers, which makes it easy to trade. The trading [volume](/wiki/volume-trading-strategy) on Xetra is also very high, which means a lot of trades happen every day. This is important because it shows that Xetra is a busy and active market where people can trade easily.
 
 Compared to other systems like NASDAQ and NYSE, Xetra's liquidity and volume are strong, especially in Europe. NASDAQ and NYSE are bigger in terms of total market size because they are in the U.S., but Xetra is still very important for European markets. Xetra's high liquidity and volume make it a good choice for traders who want to buy and sell quickly and at good prices. While NASDAQ and NYSE might have more overall trading, Xetra's focus on European securities and its efficient system make it a key player in the global market.
 

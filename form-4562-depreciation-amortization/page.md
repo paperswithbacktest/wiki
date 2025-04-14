@@ -104,7 +104,7 @@ This formula helps businesses and individuals understand the financial commitmen
 
 ## How can tax strategies be integrated into algorithmic trading?
 
-Tax considerations play a crucial role in shaping effective trading strategies within algorithmic trading. Understanding and leveraging depreciation and amortization are key elements in optimizing tax implications, ultimately enhancing financial outcomes.
+Tax considerations play a crucial role in shaping effective trading strategies within [algorithmic trading](/wiki/algorithmic-trading). Understanding and leveraging depreciation and amortization are key elements in optimizing tax implications, ultimately enhancing financial outcomes.
 
 ### Tax Considerations in Trading Strategies
 

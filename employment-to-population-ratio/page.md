@@ -34,7 +34,7 @@ The unemployment rate, on the other hand, focuses only on people who are activel
 
 ## What factors can affect the Employment-to-Population Ratio?
 
-Several things can change the Employment-to-Population Ratio. One big factor is the overall health of the economy. When the economy is doing well, businesses often need more workers, which can make the ratio go up. But if the economy is struggling, companies might not hire as many people, and the ratio could go down. Another factor is changes in the population. If more people start working or move into the country and get jobs, the ratio can increase. On the other hand, if people retire or leave the workforce for other reasons, the ratio might decrease.
+Several things can change the Employment-to-Population Ratio. One big [factor](/wiki/factor-investing) is the overall health of the economy. When the economy is doing well, businesses often need more workers, which can make the ratio go up. But if the economy is struggling, companies might not hire as many people, and the ratio could go down. Another factor is changes in the population. If more people start working or move into the country and get jobs, the ratio can increase. On the other hand, if people retire or leave the workforce for other reasons, the ratio might decrease.
 
 Other things that can affect the Employment-to-Population Ratio include government policies and social trends. For example, if the government starts programs to help people find jobs, the ratio might go up. Also, if more people decide to go back to school or stay home to take care of family, the ratio could go down. These factors all play a part in how many people are working at any given time, and they can make the Employment-to-Population Ratio go up or down.
 

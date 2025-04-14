@@ -78,7 +78,7 @@ Understanding fat tails helps people in charge of risk to plan better. They migh
 
 ## How do machine learning techniques enhance the prediction of stock price distributions?
 
-Machine learning techniques help predict stock price distributions by learning from a lot of data. They can look at things like past stock prices, news, and even what people are saying on social media. By finding patterns in all this information, machine learning can guess where stock prices might go next better than simpler models. It's like having a smart friend who can see things you might miss and use that to make better guesses about the future.
+Machine learning techniques help predict stock price distributions by learning from a lot of data. They can look at things like past stock prices, news, and even what people are saying on social media. By finding patterns in all this information, [machine learning](/wiki/machine-learning) can guess where stock prices might go next better than simpler models. It's like having a smart friend who can see things you might miss and use that to make better guesses about the future.
 
 One big advantage of machine learning is that it can change its mind as it learns more. If something new happens, like a big company news or a change in the economy, the machine learning model can update its predictions. This makes it more accurate over time because it keeps learning and getting better. So, investors can use these models to make smarter choices about buying and selling stocks, knowing that the predictions are based on the latest and most complete information available.
 

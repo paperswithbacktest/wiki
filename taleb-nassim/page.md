@@ -18,7 +18,7 @@ In his books, Taleb talks about how we should be ready for surprises and not jus
 
 Nassim Taleb has written several important books that many people find interesting. One of his most famous books is "The Black Swan." In this book, Taleb talks about big events that are hard to predict, like a huge stock market crash. He says these events can change the world a lot, and we should be ready for them even if we can't see them coming. Another book he wrote is called "Antifragile." In this one, Taleb explains that some things get stronger when they face problems or changes. He says we should try to be like that, so we can handle surprises better.
 
-Another book by Taleb is "Fooled by Randomness." In this book, he talks about how people often think they understand why things happen, but really, a lot of what happens is just luck or chance. He says we need to be careful about thinking we know more than we do. Taleb also wrote "The Bed of Procrustes," which is a collection of short sayings and thoughts about life. It's different from his other books because it's more about quick ideas to think about. All these books help people understand the world better and think about how to deal with uncertainty and surprises.
+Another book by Taleb is "Fooled by Randomness." In this book, he talks about how people often think they understand why things happen, but really, a lot of what happens is just luck or chance. He says we need to be careful about thinking we know more than we do. Taleb also wrote "The Bed of Procrustes," which is a collection of short sayings and thoughts about life. It's different from his other [books](/wiki/algo-trading-books) because it's more about quick ideas to think about. All these books help people understand the world better and think about how to deal with uncertainty and surprises.
 
 ## What is the main theme of Nassim Taleb's work?
 
@@ -96,7 +96,7 @@ Automation plays a crucial role in enhancing the execution of Taleb’s strategy
 
 Exploratory data analysis (EDA) is indispensable for continually refining the selection of risky assets within an algorithmic framework. Through EDA, traders and data scientists can investigate datasets to unveil patterns, anomalies, and correlations. This process can be greatly facilitated using programming languages like Python. Libraries such as Pandas and Matplotlib can be utilized to visualize and analyze market data, thus improving the decision-making process regarding which high-risk assets to incorporate into a portfolio.
 
-The synthesis of Taleb’s ideas into algorithmic trading not only prepares traders for the unexpected but also provides a resilient framework that can potentially yield substantial rewards despite market volatility.
+The synthesis of Taleb’s ideas into algorithmic trading not only prepares traders for the unexpected but also provides a resilient framework that can potentially yield substantial rewards despite market [volatility](/wiki/volatility-trading-strategies).
 
 ## References & Further Reading
 

@@ -18,7 +18,7 @@ Think of implied volatility like a weather forecast for a stock's price. If the 
 
 Implied volatility and historical volatility are two different ways to measure how much a stock's price might move. Historical volatility looks at the past. It calculates how much a stock's price has moved up and down over a certain time, like the last month or year. This gives you an idea of how much the stock has changed in the past, but it doesn't tell you what might happen next.
 
-Implied volatility, on the other hand, is all about the future. It's what the market thinks might happen to a stock's price. When people buy and sell options, they're guessing how much the stock's price might change. This guess is what we call implied volatility. It's like a prediction, and it can change every day based on what people think might happen.
+Implied [volatility](/wiki/volatility-trading-strategies), on the other hand, is all about the future. It's what the market thinks might happen to a stock's price. When people buy and sell options, they're guessing how much the stock's price might change. This guess is what we call implied volatility. It's like a prediction, and it can change every day based on what people think might happen.
 
 So, historical volatility is like looking in the rearview mirror at what has already happened, while implied volatility is like looking through the windshield at what might happen next. Both are useful, but they give you different information to help make decisions about buying or selling stocks and options.
 
@@ -26,7 +26,7 @@ So, historical volatility is like looking in the rearview mirror at what has alr
 
 Implied volatility is really important for figuring out how much an option should cost. When you buy an option, you're betting on where the stock price might go. Implied volatility tells you how much the market thinks the stock price could move around. If people think the stock price might jump a lot, the implied volatility goes up, and the option becomes more expensive. If they think the stock price will stay pretty steady, the implied volatility goes down, and the option costs less.
 
-Think of implied volatility like a spice in a recipe for option pricing. It's one of the key ingredients, along with the stock's current price, the option's strike price, the time until the option expires, and the risk-free interest rate. Without knowing the implied volatility, it's hard to tell if an option is a good deal or not. Traders use special math formulas, like the Black-Scholes model, to mix all these ingredients together and come up with the right price for an option.
+Think of implied volatility like a spice in a recipe for option pricing. It's one of the key ingredients, along with the stock's current price, the option's strike price, the time until the option expires, and the risk-free [interest rate](/wiki/interest-rate-trading-strategies). Without knowing the implied volatility, it's hard to tell if an option is a good deal or not. Traders use special math formulas, like the Black-Scholes model, to mix all these ingredients together and come up with the right price for an option.
 
 ## How is implied volatility calculated?
 
@@ -78,7 +78,7 @@ But, after the news or event happens, implied volatility usually goes back down.
 
 ## What advanced strategies can be employed using implied volatility for options trading?
 
-One advanced strategy that uses implied volatility is called a volatility arbitrage. This is when traders try to make money from the difference between what the market thinks will happen (implied volatility) and what they think will happen. They might buy options if they think the stock price will move more than the market expects, or sell options if they think it will move less. This strategy can be tricky because it's hard to guess the future, but it can be profitable if you're good at it.
+One advanced strategy that uses implied volatility is called a volatility [arbitrage](/wiki/arbitrage). This is when traders try to make money from the difference between what the market thinks will happen (implied volatility) and what they think will happen. They might buy options if they think the stock price will move more than the market expects, or sell options if they think it will move less. This strategy can be tricky because it's hard to guess the future, but it can be profitable if you're good at it.
 
 Another strategy is called a straddle or strangle. These are ways to bet on big moves in the stock price without knowing which way it will go. In a straddle, you buy both a call and a put option at the same strike price. In a strangle, you buy a call and a put at different strike prices. Both strategies can make money if the stock price moves a lot, and implied volatility helps you decide if it's worth doing. If implied volatility is low, these strategies might be a good bet because the options are cheaper, but you need the stock to move a lot to make money.
 

@@ -86,7 +86,7 @@ On the other hand, when the market is moving a lot, synthetic options can be ver
 
 ## What are financial derivatives?
 
-Financial derivatives are sophisticated financial instruments whose value depends on the performance of an underlying asset, index, or interest rate. These contracts serve as essential tools in the financial markets for risk management, speculation, and arbitrage. The versatility and utility of derivatives stem from their ability to provide exposure to price movements of various assets without necessitating ownership of the asset itself. 
+Financial derivatives are sophisticated financial instruments whose value depends on the performance of an underlying asset, index, or [interest rate](/wiki/interest-rate-trading-strategies). These contracts serve as essential tools in the financial markets for risk management, speculation, and arbitrage. The versatility and utility of derivatives stem from their ability to provide exposure to price movements of various assets without necessitating ownership of the asset itself. 
 
 Among the most widely recognized types of financial derivatives are options, futures, forwards, and swaps. Each of these instruments has unique features and applications:
 

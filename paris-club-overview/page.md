@@ -58,7 +58,7 @@ Once the Paris Club agrees to help, they work on restructuring the debt. This me
 
 When the Paris Club helps a country with its debts, they usually agree on terms that make it easier for the country to pay back the money. These terms often include giving the country more time to pay back the loans. This means the country can spread out the payments over a longer period, so it's not as hard on their budget. Another common term is reducing the amount of money the country has to pay back. This can be done by forgiving part of the debt, so the country owes less money overall.
 
-Sometimes, the Paris Club also changes the interest rates on the loans. They might lower the interest rate to make the payments smaller. The Paris Club works with the country to make sure these terms are fair and help the country manage its debt better. The goal is to help the country focus on growing its economy instead of worrying about its debts. By doing this, the Paris Club helps countries in debt to have a better chance at improving their economic situation.
+Sometimes, the Paris Club also changes the interest rates on the loans. They might lower the [interest rate](/wiki/interest-rate-trading-strategies) to make the payments smaller. The Paris Club works with the country to make sure these terms are fair and help the country manage its debt better. The goal is to help the country focus on growing its economy instead of worrying about its debts. By doing this, the Paris Club helps countries in debt to have a better chance at improving their economic situation.
 
 ## How does the Paris Club coordinate with other international financial institutions?
 

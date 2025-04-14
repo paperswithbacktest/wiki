@@ -18,7 +18,7 @@ Think of it like this: Imagine you're at a store where only a few people want to
 
 Traditional liquidity comes from real people and businesses buying and selling things. It's like having a busy market where lots of people are trading, so it's easy to find someone to buy from or sell to. The more people there are, the easier it is to trade, and prices don't change too much because there's always someone ready to trade.
 
-Synthetic liquidity, on the other hand, uses computer programs and special financial tools to make it seem like there are more people trading than there actually are. It's like adding fake buyers and sellers to a quiet market to make it feel busier. This can help keep prices stable and make trading easier, especially when there aren't many real people trading.
+Synthetic [liquidity](/wiki/liquidity-risk-premium), on the other hand, uses computer programs and special financial tools to make it seem like there are more people trading than there actually are. It's like adding fake buyers and sellers to a quiet market to make it feel busier. This can help keep prices stable and make trading easier, especially when there aren't many real people trading.
 
 ## What are the main components of synthetic liquidity?
 
@@ -64,9 +64,9 @@ One key regulatory concern is that synthetic liquidity might hide real problems 
 
 ## Can you provide examples of markets where synthetic liquidity is commonly used?
 
-Synthetic liquidity is often used in the cryptocurrency market. Because cryptocurrencies can be very new and not many people might be trading them, it can be hard to buy and sell them without big price changes. Computer programs and special financial tools help make the market seem busier than it really is. This makes it easier for people to trade cryptocurrencies at more stable prices, even when there aren't many real buyers and sellers.
+Synthetic liquidity is often used in the [cryptocurrency](/wiki/cryptocurrency) market. Because cryptocurrencies can be very new and not many people might be trading them, it can be hard to buy and sell them without big price changes. Computer programs and special financial tools help make the market seem busier than it really is. This makes it easier for people to trade cryptocurrencies at more stable prices, even when there aren't many real buyers and sellers.
 
-Another place where synthetic liquidity is commonly used is in the foreign exchange (forex) market. The forex market is huge and trades happen all the time, but there can still be times when trading slows down. Synthetic liquidity helps keep the market running smoothly during these slow times by making it seem like more people are trading than there actually are. This helps keep prices stable and makes it easier for people to trade different currencies.
+Another place where synthetic liquidity is commonly used is in the foreign exchange ([forex](/wiki/forex-system)) market. The forex market is huge and trades happen all the time, but there can still be times when trading slows down. Synthetic liquidity helps keep the market running smoothly during these slow times by making it seem like more people are trading than there actually are. This helps keep prices stable and makes it easier for people to trade different currencies.
 
 ## What advanced strategies can traders employ using synthetic liquidity?
 

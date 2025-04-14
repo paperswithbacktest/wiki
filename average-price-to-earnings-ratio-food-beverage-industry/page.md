@@ -100,7 +100,7 @@ However, the P/E ratio should be interpreted with caution. It is essential to co
 
 ## What are the limitations and considerations?
 
-The Price-to-Earnings (P/E) ratio is a widely recognized tool for evaluating stock valuation, yet it has notable limitations when used in isolation. A primary concern is the potential for inaccuracies arising from the inherent volatility of earnings, particularly in sectors like food and beverage that may experience cyclical fluctuations. For instance, companies dealing in seasonal products might have earnings that vary significantly throughout the year, directly impacting their P/E ratios. Formulaically, the P/E ratio is calculated as follows:
+The Price-to-Earnings (P/E) ratio is a widely recognized tool for evaluating stock valuation, yet it has notable limitations when used in isolation. A primary concern is the potential for inaccuracies arising from the inherent [volatility](/wiki/volatility-trading-strategies) of earnings, particularly in sectors like food and beverage that may experience cyclical fluctuations. For instance, companies dealing in seasonal products might have earnings that vary significantly throughout the year, directly impacting their P/E ratios. Formulaically, the P/E ratio is calculated as follows:
 
 $$
 \text{P/E Ratio} = \frac{\text{Current Stock Price}}{\text{Earnings Per Share (EPS)}}

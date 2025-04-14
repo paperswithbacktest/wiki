@@ -34,7 +34,7 @@ As the days go by, you check your calendar and see the 'Schedule To' date coming
 
 ## What tools or software can be used to create a 'Schedule To'?
 
-There are many tools and software you can use to create a 'Schedule To' schedule. One simple option is a paper calendar or planner where you can write down your 'Schedule To' date. This is easy to use and you can carry it with you. Another option is using a digital calendar on your computer or phone, like Google Calendar or Apple Calendar. These let you set reminders and can send you notifications when your 'Schedule To' date is coming up.
+There are many tools and software you can use to create a 'Schedule To' schedule. One simple option is a paper calendar or planner where you can write down your 'Schedule To' date. This is easy to use and you can [carry](/wiki/carry-trading) it with you. Another option is using a digital calendar on your computer or phone, like Google Calendar or Apple Calendar. These let you set reminders and can send you notifications when your 'Schedule To' date is coming up.
 
 If you want more features, you can use task management apps like Todoist or Microsoft To Do. These apps let you set deadlines for tasks and can send you reminders. They also let you organize your tasks into different projects or categories, which can be helpful if you have a lot of things to keep track of. No matter which tool you choose, the important thing is to pick one that you will use regularly and that helps you remember your 'Schedule To' dates.
 
@@ -84,7 +84,7 @@ In a business example, a marketing team used 'Schedule To' to plan a big product
 
 ## What is Risk Management in Algo Trading?
 
-Effective risk management is a critical component of successful algorithmic trading strategies. Algorithmic trading, by design, executes trades with speed and precision, but it also introduces specific risks that need to be managed meticulously. Here, we explore key strategies and considerations for mitigating these risks.
+Effective risk management is a critical component of successful [algorithmic trading](/wiki/algorithmic-trading) strategies. Algorithmic trading, by design, executes trades with speed and precision, but it also introduces specific risks that need to be managed meticulously. Here, we explore key strategies and considerations for mitigating these risks.
 
 Traders often establish risk limits to control the exposure of their trading activities. Risk limits can be defined in terms of maximum drawdown, position size, or total capital allocation. For example, a common strategy is to restrict the drawdown to a predetermined percentage of the trading account, such as 2%. This can be implemented programmatically in Python as follows:
 

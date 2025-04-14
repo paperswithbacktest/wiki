@@ -30,7 +30,7 @@ A symmetrical triangle is when both the top and bottom lines are moving towards 
 
 An ascending triangle forms when the price of a stock keeps hitting the same high point but also keeps making higher lows. Imagine you're drawing a line across the top of these high points. That line is flat because the highs are all about the same. Now, draw another line along the bottom of the lows. This line is going up because the lows are getting higher and higher. These two lines make the shape of an ascending triangle.
 
-When you see an ascending triangle, it usually means the price is going to go up after the triangle finishes. The flat top line shows that people are trying to keep the price from going higher, but the rising bottom line shows that the price is still getting stronger. When the price finally breaks through the flat top line, it's like a signal that the price is ready to keep going up. Traders watch for this breakout because it can help them decide when to buy the stock.
+When you see an ascending triangle, it usually means the price is going to go up after the triangle finishes. The flat top line shows that people are trying to keep the price from going higher, but the rising bottom line shows that the price is still getting stronger. When the price finally breaks through the flat top line, it's like a signal that the price is ready to keep going up. Traders watch for this [breakout](/wiki/breakout-trading) because it can help them decide when to buy the stock.
 
 ## What characterizes a descending triangle?
 
@@ -52,7 +52,7 @@ The other important thing to look for is the breakout. This is when the price mo
 
 ## How can volume be used to confirm a triangle continuation pattern?
 
-Volume can help you know if a triangle pattern is going to keep going the way it was before. When the price is inside the triangle, the volume usually gets smaller. This means fewer people are buying and selling, and the price is taking a break. But when the price breaks out of the triangle, you want to see the volume get bigger. This shows that more people are interested in the stock again, and it's a good sign that the price will keep going in the same direction it was going before the triangle.
+Volume can help you know if a triangle pattern is going to keep going the way it was before. When the price is inside the triangle, the [volume](/wiki/volume-trading-strategy) usually gets smaller. This means fewer people are buying and selling, and the price is taking a break. But when the price breaks out of the triangle, you want to see the volume get bigger. This shows that more people are interested in the stock again, and it's a good sign that the price will keep going in the same direction it was going before the triangle.
 
 For example, if you see an ascending triangle and the price breaks out upwards, you want to see a lot more people buying the stock when it breaks out. If the volume is high when the price goes up, it's a good sign that the price will keep going up. The same thing works for a descending triangle. If the price breaks out downwards and the volume is high, it's a good sign that the price will keep going down. So, watching the volume can help you feel more sure about what the price will do next after a triangle pattern.
 

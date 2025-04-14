@@ -18,7 +18,7 @@ UTP helps increase the liquidity of a stock because it can be traded on multiple
 
 Unlisted Trading Privileges (UTP) and listed securities are different in how they are traded on stock exchanges. A listed security is a stock that is officially listed on a specific stock exchange, like the New York Stock Exchange or NASDAQ. This means the company has met the exchange's requirements and is primarily traded there. On the other hand, a stock with UTP can be traded on other exchanges even if it's not officially listed there. This means that a stock listed on one exchange can also be bought and sold on another exchange that has granted it UTP.
 
-The main difference is about where and how the stocks can be traded. With listed securities, trading happens mainly on the exchange where the stock is listed. But with UTP, the stock can be traded on multiple exchanges, which can make it easier for investors to buy and sell the stock. This can increase the stock's liquidity and give investors more choices on where to trade, possibly leading to better prices and more competition among exchanges.
+The main difference is about where and how the stocks can be traded. With listed securities, trading happens mainly on the exchange where the stock is listed. But with UTP, the stock can be traded on multiple exchanges, which can make it easier for investors to buy and sell the stock. This can increase the stock's [liquidity](/wiki/liquidity-risk-premium) and give investors more choices on where to trade, possibly leading to better prices and more competition among exchanges.
 
 ## What are the benefits of trading securities with UTP?
 
@@ -70,13 +70,13 @@ Having UTP can also make the stock's price more stable. When a stock is traded o
 
 ## How are transactions under UTP reported and what are the transparency requirements?
 
-Transactions under Unlisted Trading Privileges (UTP) are reported just like any other stock trade. When someone buys or sells a stock with UTP, the exchange where the trade happens sends the information to a place called the Consolidated Tape Association (CTA). The CTA then shares this information with everyone, so people can see what's happening with the stock's price and how many shares are being traded. This helps keep things open and fair for everyone in the market.
+Transactions under Unlisted Trading Privileges (UTP) are reported just like any other stock trade. When someone buys or sells a stock with UTP, the exchange where the trade happens sends the information to a place called the Consolidated Tape Association ([CTA](/wiki/cta-strategy)). The CTA then shares this information with everyone, so people can see what's happening with the stock's price and how many shares are being traded. This helps keep things open and fair for everyone in the market.
 
 There are rules to make sure that trading with UTP is transparent. The Securities and Exchange Commission (SEC) makes sure that all trades are reported quickly and correctly. This means that if a stock is traded on more than one exchange, everyone can see the same information about the trades. This helps investors trust the market and make good choices about buying and selling stocks.
 
 ## What are some advanced strategies for trading securities with Unlisted Trading Privileges?
 
-When trading securities with Unlisted Trading Privileges, one advanced strategy is to use arbitrage. This means you can buy a stock on one exchange where it's cheaper and sell it on another exchange where it's more expensive. Because the stock can be traded on multiple exchanges, you might find small differences in price. If you act quickly, you can make a profit from these price differences. This strategy needs you to watch the prices closely and be ready to trade fast.
+When trading securities with Unlisted Trading Privileges, one advanced strategy is to use [arbitrage](/wiki/arbitrage). This means you can buy a stock on one exchange where it's cheaper and sell it on another exchange where it's more expensive. Because the stock can be traded on multiple exchanges, you might find small differences in price. If you act quickly, you can make a profit from these price differences. This strategy needs you to watch the prices closely and be ready to trade fast.
 
 Another strategy is to use UTP to spread your trades across different exchanges. This can help you get the best price for your trades. If one exchange has a lot of people wanting to buy or sell the stock, it might affect the price. By trading on different exchanges, you can find the best deals and maybe even get a better price for your stock. This can also help you manage risk better because you're not relying on just one exchange.
 

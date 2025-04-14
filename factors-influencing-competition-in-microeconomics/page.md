@@ -114,7 +114,7 @@ Understanding supply and demand dynamics, along with elasticity, allows economis
 
 ## What is the impact of competition on algorithmic trading strategies?
 
-The level of competition within financial markets significantly shapes the design and effectiveness of algorithmic trading strategies. In highly competitive markets, firms often employ high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) algorithms to secure advantages in price efficiency and execution speed. HFT algorithms are designed to process and execute a large number of orders at extremely high speeds, often within milliseconds. This rapid execution is crucial in these environments, where even the smallest delay can lead to significant financial losses.
+The level of competition within financial markets significantly shapes the design and effectiveness of [algorithmic trading](/wiki/algorithmic-trading) strategies. In highly competitive markets, firms often employ high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) algorithms to secure advantages in price efficiency and execution speed. HFT algorithms are designed to process and execute a large number of orders at extremely high speeds, often within milliseconds. This rapid execution is crucial in these environments, where even the smallest delay can lead to significant financial losses.
 
 Mathematically, this can be understood through the concept of latency [arbitrage](/wiki/arbitrage). High-frequency traders capitalize on the small time difference between receiving market information and executing trades faster than other participants. The profit ΔP obtained through latency arbitrage can be represented as:
 

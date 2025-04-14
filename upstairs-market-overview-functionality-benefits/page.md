@@ -52,7 +52,7 @@ Dealers also play a key role. They can buy stocks from one big investor and then
 
 ## How does the Upstairs Market contribute to market liquidity?
 
-The Upstairs Market helps make the market more liquid by letting big investors trade large amounts of stocks without causing big price changes on the main market. When big investors want to buy or sell a lot of stocks, it can be hard to find someone on the main market who wants to trade that much at once. But in the Upstairs Market, brokers and dealers help them find other big investors who are ready to make the trade. This makes it easier for big trades to happen, which adds more liquidity to the market.
+The Upstairs Market helps make the market more liquid by letting big investors trade large amounts of stocks without causing big price changes on the main market. When big investors want to buy or sell a lot of stocks, it can be hard to find someone on the main market who wants to trade that much at once. But in the Upstairs Market, brokers and dealers help them find other big investors who are ready to make the trade. This makes it easier for big trades to happen, which adds more [liquidity](/wiki/liquidity-risk-premium) to the market.
 
 By keeping big trades quiet and smooth, the Upstairs Market also helps keep the main market stable. If big trades happened on the main market, they could make stock prices go up or down a lot, which could scare other investors away. But because the Upstairs Market lets big investors trade in private, it keeps the main market from getting too excited. This helps keep the market calm and makes it easier for everyone to buy and sell stocks, which is another way the Upstairs Market adds to market liquidity.
 

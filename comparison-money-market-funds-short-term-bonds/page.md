@@ -42,7 +42,7 @@ Because the investments are so short, money market funds can quickly change what
 
 Short-term bonds are a type of investment that lasts from one to three years. When you buy a short-term bond, you are lending money to a government or a company. They promise to pay you back the money you lent them, called the principal, when the bond reaches its maturity date. This short time frame makes short-term bonds safer than long-term bonds because there is less time for things like interest rate changes or economic problems to affect the bond's value.
 
-Because short-term bonds last for a shorter time, they are a good choice for people who want to earn some interest without taking on too much risk. These bonds pay interest to the people who buy them, usually every six months. This interest is how short-term bonds make money for investors. They offer a bit more return than a savings account or money market fund, making them a popular choice for people looking to keep their investment relatively safe while still earning some income.
+Because short-term bonds last for a shorter time, they are a good choice for people who want to earn some interest without taking on too much risk. These bonds pay interest to the people who buy them, usually every six months. This interest is how short-term bonds make money for investors. They offer a bit more return than a savings account or money market fund, making them a popular choice for people looking to keep their investment relatively safe while still [earning](/wiki/earning-announcement) some income.
 
 ## What are the risk levels associated with money market funds?
 
@@ -60,7 +60,7 @@ Even though short-term bonds are considered low-risk, they are not completely ri
 
 Money market funds are very easy to buy and sell. You can usually get your money out of a money market fund quickly, often within a day. This makes them a good choice for people who might need their money soon. The investments in money market funds are very short-term, usually lasting from a few days up to a year, so the fund can quickly change what it invests in to keep the value stable.
 
-Short-term bonds are not as easy to turn into cash as money market funds. When you buy a short-term bond, you have to wait until it matures, which can take one to three years, to get your full money back. If you need to sell the bond before it matures, you might not get back the full amount you paid, especially if interest rates have changed. This makes short-term bonds less liquid than money market funds, but they still offer more liquidity than long-term bonds.
+Short-term bonds are not as easy to turn into cash as money market funds. When you buy a short-term bond, you have to wait until it matures, which can take one to three years, to get your full money back. If you need to sell the bond before it matures, you might not get back the full amount you paid, especially if interest rates have changed. This makes short-term bonds less liquid than money market funds, but they still offer more [liquidity](/wiki/liquidity-risk-premium) than long-term bonds.
 
 ## What are the tax implications of investing in money market funds versus short-term bonds?
 

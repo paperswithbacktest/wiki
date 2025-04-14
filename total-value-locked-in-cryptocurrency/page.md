@@ -30,7 +30,7 @@ Sometimes, calculating TVL can be a bit tricky because different platforms might
 
 The main factors that affect TVL in a DeFi project are the platform's reputation and how much people trust it. When a platform is known for being safe and reliable, more people are likely to use it and lock their money into it. This trust can come from things like having a good security record, being around for a long time, or having a strong team behind it. Also, if a platform offers good rewards or interest rates for using it, more people might be attracted to it, which can increase the TVL.
 
-Another big factor is how easy and useful the platform is. If a DeFi project has a simple and friendly interface that makes it easy for people to do things like lend, borrow, or trade, more people will use it. Plus, if the platform has a lot of different services or features that people find helpful, it can attract more users and increase the TVL. The overall market conditions and trends in the crypto world can also play a role. If the market is doing well and people are excited about DeFi, more money might flow into these platforms, pushing up the TVL.
+Another big [factor](/wiki/factor-investing) is how easy and useful the platform is. If a DeFi project has a simple and friendly interface that makes it easy for people to do things like lend, borrow, or trade, more people will use it. Plus, if the platform has a lot of different services or features that people find helpful, it can attract more users and increase the TVL. The overall market conditions and trends in the crypto world can also play a role. If the market is doing well and people are excited about DeFi, more money might flow into these platforms, pushing up the TVL.
 
 ## Can TVL be used as a measure of a DeFi platform's success?
 
@@ -82,7 +82,7 @@ Another way future tech could affect TVL is by making DeFi platforms safer and e
 
 ## How do you calculate and interpret TVL?
 
-Total Value Locked (TVL) is a crucial metric in evaluating the landscape of decentralized finance (DeFi) projects. It signifies the total U.S. dollar value of digital assets staked or locked within a DeFi protocol. Calculating TVL involves aggregating the value of all assets, including cryptocurrencies like Bitcoin and Ethereum, and stablecoins such as USDC and DAI, that are deposited in a project for purposes like lending, liquidity provision, or governance participation.
+Total Value Locked (TVL) is a crucial metric in evaluating the landscape of decentralized finance (DeFi) projects. It signifies the total U.S. dollar value of digital assets staked or locked within a DeFi protocol. Calculating TVL involves aggregating the value of all assets, including cryptocurrencies like Bitcoin and Ethereum, and stablecoins such as USDC and DAI, that are deposited in a project for purposes like lending, [liquidity](/wiki/liquidity-risk-premium) provision, or governance participation.
 
 To compute TVL, one can use the formula:
 

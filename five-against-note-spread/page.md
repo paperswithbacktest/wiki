@@ -86,7 +86,7 @@ Algorithmic trading plays a pivotal role in the execution of Five Against Note (
 
 ### Prediction of Market Trends
 
-The prediction process involves using historical data to recognize patterns and forecast future price movements of both five-year and 10-year Treasury notes. Machine learning models like decision trees or neural networks can be employed to analyze a multitude of variables, such as past price data, interest rate announcements, and inflation reports. These models are trained to identify relationships between these variables and how they influence the price movements of Treasury notes.
+The prediction process involves using historical data to recognize patterns and forecast future price movements of both five-year and 10-year Treasury notes. Machine learning models like decision trees or neural networks can be employed to analyze a multitude of variables, such as past price data, [interest rate](/wiki/interest-rate-trading-strategies) announcements, and inflation reports. These models are trained to identify relationships between these variables and how they influence the price movements of Treasury notes.
 
 Consider a simple linear regression model to predict the price of a Treasury note:
 

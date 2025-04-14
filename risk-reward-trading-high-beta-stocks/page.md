@@ -36,7 +36,7 @@ Another way to spot high-beta stocks is by watching how a stock reacts to market
 
 Investing in high-beta stocks can lead to big rewards. When the market goes up, high-beta stocks often go up even more. This means if you choose the right high-beta stocks, you could make a lot of money in a short time. For example, if the market goes up by 10%, a high-beta stock with a beta of 1.5 might go up by 15%. This can be very exciting for investors who like to take risks and are looking for big gains.
 
-Another reward of high-beta stocks is the chance to beat the market. Because these stocks move more than the market, they can give you higher returns when things are going well. If you're good at picking stocks and timing the market, high-beta stocks can help you grow your money faster than if you just followed the market. This is why many aggressive investors are drawn to high-beta stocks—they're looking for that extra boost in their investments.
+Another reward of high-beta stocks is the chance to beat the market. Because these stocks move more than the market, they can give you higher returns when things are going well. If you're good at [picking](/wiki/asset-class-picking) stocks and timing the market, high-beta stocks can help you grow your money faster than if you just followed the market. This is why many aggressive investors are drawn to high-beta stocks—they're looking for that extra boost in their investments.
 
 ## What are the risks associated with trading high-beta stocks?
 

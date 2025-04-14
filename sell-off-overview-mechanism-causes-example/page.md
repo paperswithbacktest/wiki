@@ -86,13 +86,13 @@ These events can also affect specific sectors more than others. If there's a tra
 
 ## How can algo trading strategies be used to manage sell-offs?
 
-Algorithmic trading, a critical component in today's financial markets, offers several strategies to manage sell-offs effectively. These strategies are designed to navigate volatility and capitalize on both downward trends and sudden market declines.
+Algorithmic trading, a critical component in today's financial markets, offers several strategies to manage sell-offs effectively. These strategies are designed to navigate [volatility](/wiki/volatility-trading-strategies) and capitalize on both downward trends and sudden market declines.
 
 ### Algorithmic Trading Strategies During Market Declines
 
 #### Role of Market Makers and High-Frequency Trading
 
-Market makers play a crucial role in providing liquidity during sell-offs. These market participants use algorithmic strategies to offer continuous buy and sell quotes, cushioning the impact of sudden sell-offs and maintaining orderly markets. High-frequency trading (HFT), a subset of algorithmic trading, involves executing a large number of orders at extremely fast speeds. During market declines, HFT algorithms quickly react to price changes, often exacerbating price swings due to their sheer volume of trades and speed. However, these strategies can also fill the liquidity gap, stabilizing prices temporarily.
+Market makers play a crucial role in providing [liquidity](/wiki/liquidity-risk-premium) during sell-offs. These market participants use algorithmic strategies to offer continuous buy and sell quotes, cushioning the impact of sudden sell-offs and maintaining orderly markets. High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), a subset of [algorithmic trading](/wiki/algorithmic-trading), involves executing a large number of orders at extremely fast speeds. During market declines, HFT algorithms quickly react to price changes, often exacerbating price swings due to their sheer [volume](/wiki/volume-trading-strategy) of trades and speed. However, these strategies can also fill the liquidity gap, stabilizing prices temporarily.
 
 #### Hedging Strategies for Portfolio Protection
 

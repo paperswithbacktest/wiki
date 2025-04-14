@@ -18,7 +18,7 @@ Businesses and people use cash equivalents to keep their money safe while still 
 
 Cash equivalents are important for businesses because they help keep money safe and easy to use. Imagine a business needs to pay for something quickly, like a sudden repair or to buy more supplies. If all their money was tied up in long-term investments, they might not be able to get it out fast enough. But with cash equivalents, like money market funds or treasury bills, they can turn these into cash in just a few days. This means the business can keep running smoothly without worrying about money being stuck somewhere.
 
-Also, cash equivalents are a safe place to keep money that the business might need soon. They are less risky than other investments because they don't lose value easily. This is good for a business because it means they can keep their money secure while still earning a little bit of interest. It's like having a backup plan; the business knows it can get to its money quickly if something unexpected happens. This helps the business stay stable and ready for anything.
+Also, cash equivalents are a safe place to keep money that the business might need soon. They are less risky than other investments because they don't lose value easily. This is good for a business because it means they can keep their money secure while still [earning](/wiki/earning-announcement) a little bit of interest. It's like having a backup plan; the business knows it can get to its money quickly if something unexpected happens. This helps the business stay stable and ready for anything.
 
 ## What are the common types of cash equivalents?
 

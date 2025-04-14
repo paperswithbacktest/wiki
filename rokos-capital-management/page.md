@@ -22,7 +22,7 @@ Rokos Capital Management is based in London, England. They help people grow thei
 
 ## When was Rokos Capital Management established?
 
-Rokos Capital Management was established in 2015. It was started by Chris Rokos, who used to work at another big hedge fund called Brevan Howard before he decided to start his own company.
+Rokos Capital Management was established in 2015. It was started by Chris Rokos, who used to work at another big [hedge fund](/wiki/hedge-fund-trading-strategies) called Brevan Howard before he decided to start his own company.
 
 The company is based in London, England. They help people grow their money by trading in financial markets. They buy and sell things like stocks, bonds, and currencies to try to make a profit for their investors.
 

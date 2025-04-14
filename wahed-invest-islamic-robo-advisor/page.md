@@ -46,7 +46,7 @@ To keep everything in line with Shariah, Wahed Invest works with a group of Isla
 
 ## What are the fees associated with using Wahed Invest?
 
-Wahed Invest charges fees for managing your money and making sure your investments follow Islamic rules. They have a management fee, which is a small percentage of the money you invest. This fee helps them pay for things like picking the right investments for you and keeping everything in line with Shariah law. The exact percentage can change depending on how much money you have invested, but it's usually around 0.99% per year.
+Wahed Invest charges fees for managing your money and making sure your investments follow Islamic rules. They have a management fee, which is a small percentage of the money you invest. This fee helps them pay for things like [picking](/wiki/asset-class-picking) the right investments for you and keeping everything in line with Shariah law. The exact percentage can change depending on how much money you have invested, but it's usually around 0.99% per year.
 
 There might also be other small fees that come from buying and selling the investments in your portfolio. These are called transaction fees, and they're pretty normal when you're investing. Wahed Invest tries to keep these fees as low as possible so more of your money can grow over time. It's a good idea to check their website or ask them directly to understand all the fees you might have to pay.
 

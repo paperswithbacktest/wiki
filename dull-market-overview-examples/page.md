@@ -18,7 +18,7 @@ During a dull market, investors might feel bored because they can't make big pro
 
 You can spot a dull market by looking at how much the prices of stocks are moving. If the prices aren't going up or down a lot, and they stay pretty much the same for a while, that's a sign of a dull market. It's like watching a calm sea with no big waves.
 
-Another way to tell is by checking the trading volume. If not many people are buying or selling stocks, the market can feel quiet and dull. It's like being in a store where hardly anyone is shopping. When you see both small price changes and low trading activity, you know you're in a dull market.
+Another way to tell is by checking the trading [volume](/wiki/volume-trading-strategy). If not many people are buying or selling stocks, the market can feel quiet and dull. It's like being in a store where hardly anyone is shopping. When you see both small price changes and low trading activity, you know you're in a dull market.
 
 ## What are the common characteristics of a dull market?
 

@@ -18,7 +18,7 @@ This strategy is often used by hedge funds and other professional investors to r
 
 A dollar-neutral portfolio is different from other investment strategies because it focuses on balancing the amount of money spent on buying stocks with the amount of money made from selling stocks short. In simpler terms, if you buy $100 worth of stocks, you also sell $100 worth of other stocks. This balance is meant to protect the portfolio from big swings in the overall market. Unlike a traditional investment strategy where you might just buy stocks hoping they go up, a dollar-neutral approach doesn't care if the market goes up or down; it cares about how the stocks you picked perform compared to the ones you sold short.
 
-Other investment strategies might include things like growth investing, where you pick stocks that you think will grow faster than others, or value investing, where you look for stocks that seem to be priced lower than they should be. These strategies focus on the potential of individual stocks or the market as a whole. In contrast, a dollar-neutral portfolio is less about picking winners and more about making money from the difference between your long and short positions. This makes it a unique approach that can be useful for investors who want to minimize their exposure to market risk while still trying to make a profit.
+Other investment strategies might include things like growth investing, where you pick stocks that you think will grow faster than others, or value investing, where you look for stocks that seem to be priced lower than they should be. These strategies focus on the potential of individual stocks or the market as a whole. In contrast, a dollar-neutral portfolio is less about [picking](/wiki/asset-class-picking) winners and more about making money from the difference between your long and short positions. This makes it a unique approach that can be useful for investors who want to minimize their exposure to market risk while still trying to make a profit.
 
 ## What are the main benefits of using a dollar-neutral portfolio?
 
@@ -76,7 +76,7 @@ Another way to adjust your portfolio is by changing which stocks you have in it.
 
 One advanced strategy to enhance the performance of a dollar-neutral portfolio is to use pairs trading. This means you pick two stocks that usually move together but you think one will do better than the other for a while. You buy the one you think will do better and sell short the other one. This can help you make money from small differences in how these two stocks move, even if the market stays the same. It's a bit like betting that one stock will beat the other, no matter what the market does.
 
-Another strategy is to use statistical arbitrage. This sounds fancy, but it's about using math and computers to find small differences in stock prices that you can take advantage of. You might use a computer program to quickly buy and sell stocks based on these small differences. This can help you make a little bit of money many times, which can add up. It's a way to try to make money from tiny changes in the market that most people might not even notice.
+Another strategy is to use statistical [arbitrage](/wiki/arbitrage). This sounds fancy, but it's about using math and computers to find small differences in stock prices that you can take advantage of. You might use a computer program to quickly buy and sell stocks based on these small differences. This can help you make a little bit of money many times, which can add up. It's a way to try to make money from tiny changes in the market that most people might not even notice.
 
 ## How do regulatory considerations affect the management of dollar-neutral portfolios?
 
@@ -86,7 +86,7 @@ Another thing to consider is the reporting requirements. Depending on where you 
 
 ## How can one implement a Dollar-Neutral Strategy in Algo Trading?
 
-Implementing a dollar-neutral strategy in algorithmic trading involves the use of sophisticated algorithms to manage the dynamic nature of long and short positions, ensuring that the total market value of long positions equals that of short positions. This balance aims to neutralize the portfolio's exposure to broad market movements, thereby isolating alpha—the excess return relative to a benchmark.
+Implementing a dollar-neutral strategy in [algorithmic trading](/wiki/algorithmic-trading) involves the use of sophisticated algorithms to manage the dynamic nature of long and short positions, ensuring that the total market value of long positions equals that of short positions. This balance aims to neutralize the portfolio's exposure to broad market movements, thereby isolating alpha—the excess return relative to a benchmark.
 
 ### Balancing Long and Short Positions
 

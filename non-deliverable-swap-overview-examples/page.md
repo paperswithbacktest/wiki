@@ -22,7 +22,7 @@ In contrast, a Non-Deliverable Swap doesn't involve any physical exchange of ass
 
 ## What are the main components of a Non-Deliverable Swap?
 
-A Non-Deliverable Swap (NDS) has a few main parts that make it work. The first part is the notional amount, which is like a pretend amount of money that the swap is based on. It helps figure out how much money will be swapped between the two people involved. The second part is the reference rate, which is the rate used to calculate the cash flows. This could be a foreign exchange rate, an interest rate, or some other rate that both parties agree on.
+A Non-Deliverable Swap (NDS) has a few main parts that make it work. The first part is the notional amount, which is like a pretend amount of money that the swap is based on. It helps figure out how much money will be swapped between the two people involved. The second part is the reference rate, which is the rate used to calculate the cash flows. This could be a foreign exchange rate, an [interest rate](/wiki/interest-rate-trading-strategies), or some other rate that both parties agree on.
 
 The third part is the settlement date, which is when the two parties will actually exchange the money. Since an NDS doesn't involve swapping the actual assets, on the settlement date, they only pay the difference between the two cash flows. The last part is the terms of the swap, which include things like how long the swap will last, how often the payments will be made, and any other rules that both parties have to follow. These parts all work together to make the NDS a useful tool for managing financial risks.
 

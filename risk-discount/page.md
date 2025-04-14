@@ -44,7 +44,7 @@ On the other hand, a risk premium is the extra return you expect to get for taki
 
 The size of a risk discount depends on how risky the investment is. If an investment is really risky, like starting a new business in a field you don't know much about, the risk discount will be bigger. That's because there's a higher chance things could go wrong. On the other hand, if the investment is pretty safe, like buying government bonds, the risk discount will be smaller. The amount of risk is often figured out by looking at things like how stable the market is, how well the company is doing, and how likely it is that the project will succeed.
 
-Another factor that influences the size of a risk discount is how much the investor can handle risk. If someone is okay with taking big chances, they might not lower the value of the investment as much. But if someone is more careful and doesn't like risk, they'll use a bigger risk discount. Also, the time until you get your money back matters. The longer you have to wait, the more things could go wrong, so the risk discount might be bigger for long-term investments. By thinking about all these things, people can decide how much to lower the value of an investment because of risk.
+Another [factor](/wiki/factor-investing) that influences the size of a risk discount is how much the investor can handle risk. If someone is okay with taking big chances, they might not lower the value of the investment as much. But if someone is more careful and doesn't like risk, they'll use a bigger risk discount. Also, the time until you get your money back matters. The longer you have to wait, the more things could go wrong, so the risk discount might be bigger for long-term investments. By thinking about all these things, people can decide how much to lower the value of an investment because of risk.
 
 ## How does risk discount affect investment decisions?
 
@@ -129,11 +129,11 @@ where $X$ represents the portfolio returns and $\alpha$ is the confidence level.
 
 Machine learning and data analytics play an increasingly important role in enhancing risk management strategies. By leveraging large datasets and sophisticated algorithms, such as neural networks and decision trees, traders can identify patterns and predict future market movements with greater accuracy. Techniques like clustering and regression analysis help in developing models that can better capture the complexities of financial data.
 
-For example, [machine learning](/wiki/machine-learning) models can be trained to forecast market volatility, helping traders adjust their risk exposure dynamically. In addition, data analytics tools enable the processing of vast amounts of real-time data to optimize trading algorithms and quickly respond to market changes.
+For example, [machine learning](/wiki/machine-learning) models can be trained to forecast market [volatility](/wiki/volatility-trading-strategies), helping traders adjust their risk exposure dynamically. In addition, data analytics tools enable the processing of vast amounts of real-time data to optimize trading algorithms and quickly respond to market changes.
 
 ### Application in Algorithmic Trading Systems
 
-In algorithmic trading, these advanced risk management techniques are often integrated into automated systems to adjust trading strategies based on real-time risk assessments. For instance, algorithms can be programmed to trigger specific actions if stressed VaR exceeds predetermined limits, such as reducing positions or hedging against potential losses using derivatives.
+In [algorithmic trading](/wiki/algorithmic-trading), these advanced risk management techniques are often integrated into automated systems to adjust trading strategies based on real-time risk assessments. For instance, algorithms can be programmed to trigger specific actions if stressed VaR exceeds predetermined limits, such as reducing positions or hedging against potential losses using derivatives.
 
 Here is a simple example of calculating CVaR using Python to illustrate its application:
 

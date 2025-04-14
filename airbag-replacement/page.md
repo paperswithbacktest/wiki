@@ -84,7 +84,7 @@ Replacing airbags in the future might also become easier and faster because of n
 
 ## What are the similarities in risk management between automobiles and algorithmic trading?
 
-Both airbag systems in vehicles and algorithmic trading systems in financial markets function as vital protective measures aimed at minimizing risk. These systems are built on principles of reliability and regular maintenance to ensure optimal performance and safety.
+Both airbag systems in vehicles and [algorithmic trading](/wiki/algorithmic-trading) systems in financial markets function as vital protective measures aimed at minimizing risk. These systems are built on principles of reliability and regular maintenance to ensure optimal performance and safety.
 
 ### Reliability of Systems
 

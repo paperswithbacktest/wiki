@@ -101,7 +101,7 @@ Traders closely monitor these shifts, as changes in monetary policy directly imp
 
 Interest rates are one of the primary mechanisms through which the CPI exerts influence on the economy. High inflation, as indicated by rising CPI values, often results in higher interest rates. This relationship affects consumer behavior by altering borrowing costs and disposable income levels. For instance, higher interest rates increase loan repayment costs which can decrease consumer spending and borrowing.
 
-Traders anticipate these changes in consumer purchasing power and interest rates, adjusting their portfolios accordingly. For example, if CPI data indicates increasing inflation leading to potential interest rate hikes, traders may shift investments from interest-sensitive stocks to those less affected by rate changes.
+Traders anticipate these changes in consumer purchasing power and interest rates, adjusting their portfolios accordingly. For example, if CPI data indicates increasing inflation leading to potential [interest rate](/wiki/interest-rate-trading-strategies) hikes, traders may shift investments from interest-sensitive stocks to those less affected by rate changes.
 
 ### Additional Economic Indicators Influencing Trading Strategies
 

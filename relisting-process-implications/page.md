@@ -68,7 +68,7 @@ In some places, the rules about relisting can be different. For example, some ar
 
 Technology plays a big part in the relisting process. When a house is taken off the market and then put back on, the real estate agent uses special computer programs to do this. These programs, like the Multiple Listing Service (MLS), help the agent change the listing and put it back up so people can see it. Technology also helps with taking good pictures and videos of the house. These pictures and videos can make the house look really nice when it's relisted, which can help attract more buyers.
 
-Another way technology helps is by making it easy to tell people about the house being back on the market. Sellers and agents can use the internet and social media to let people know about the relisting. They can put the listing on real estate websites and share it on places like Facebook or Instagram. This can help more people find out about the house and come to see it. By using technology the right way, sellers can make the relisting process work better and hopefully sell their house faster.
+Another way technology helps is by making it easy to tell people about the house being back on the market. Sellers and [agents](/wiki/agents) can use the internet and social media to let people know about the relisting. They can put the listing on real estate websites and share it on places like Facebook or Instagram. This can help more people find out about the house and come to see it. By using technology the right way, sellers can make the relisting process work better and hopefully sell their house faster.
 
 ## How can data analytics improve decision-making during relisting?
 

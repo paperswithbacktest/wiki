@@ -78,7 +78,7 @@ Penetration pricing is when a business starts with a low price to get a lot of p
 
 To find the best choke prices in markets that are hard to understand, businesses can use special tools like regression analysis. This tool helps them see how prices affect how much people buy. They can put in data about past sales and prices, and the tool will show them patterns. This way, they can figure out the highest price people will pay before they stop buying. It's like using a smart math helper to find the sweet spot for pricing.
 
-Another useful tool is machine learning. This is like a computer that can learn from lots of information. Businesses can feed it data about what people buy, how much they spend, and even things like the time of year or special events. The machine learning tool can then predict what the choke price might be in different situations. It's like having a crystal ball that helps businesses set the right prices to keep selling without losing customers.
+Another useful tool is [machine learning](/wiki/machine-learning). This is like a computer that can learn from lots of information. Businesses can feed it data about what people buy, how much they spend, and even things like the time of year or special events. The machine learning tool can then predict what the choke price might be in different situations. It's like having a crystal ball that helps businesses set the right prices to keep selling without losing customers.
 
 ## What is the understanding of Economic Theory and Market Dynamics?
 

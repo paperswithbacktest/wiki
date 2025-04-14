@@ -24,7 +24,7 @@ The main benefit of this strategy is that it can provide you with extra income f
 
 Covered call ETFs can be a good choice for people who want to earn more income from their investments. These ETFs own stocks and then sell call options on those stocks. When they sell the options, they get money called the option premium. This extra money can give investors a higher income than if they just owned the stocks by themselves. This can be really helpful for people who want to get regular payments from their investments.
 
-However, there's a catch. If the stock prices go up a lot, the ETF might not make as much money as it could. That's because the ETF has to sell the stocks at the price set in the call option if the buyer decides to use it. So, while covered call ETFs can give you steady income, they might not do as well if the market does really well. This makes them a good choice for people who care more about getting regular income than making big gains from rising stock prices.
+However, there's a catch. If the stock prices go up a lot, the [ETF](/wiki/etf-trading-strategies) might not make as much money as it could. That's because the ETF has to sell the stocks at the price set in the call option if the buyer decides to use it. So, while covered call ETFs can give you steady income, they might not do as well if the market does really well. This makes them a good choice for people who care more about getting regular income than making big gains from rising stock prices.
 
 ## What are the risks associated with covered call ETFs?
 

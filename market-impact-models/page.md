@@ -64,7 +64,7 @@ Another problem is that these models can be hard to use right. They need a lot o
 
 ## How do advanced market impact models incorporate machine learning?
 
-Advanced market impact models use machine learning to get better at guessing how big trades will change a stock's price. Machine learning lets these models learn from a lot of old trade data. They can find patterns and connections that simple models might miss. For example, a machine learning model might see that the price moves differently on certain days or when the market is acting in a special way. By learning from all this data, the model can make smarter guesses about what will happen when a trader makes a big trade.
+Advanced market impact models use [machine learning](/wiki/machine-learning) to get better at guessing how big trades will change a stock's price. Machine learning lets these models learn from a lot of old trade data. They can find patterns and connections that simple models might miss. For example, a machine learning model might see that the price moves differently on certain days or when the market is acting in a special way. By learning from all this data, the model can make smarter guesses about what will happen when a trader makes a big trade.
 
 These models can also change and get better over time. As new trades happen and the market changes, the model keeps learning and updating itself. This means it can stay useful even when the market is different from before. Traders like using these advanced models because they can give more accurate predictions and help save more money on big trades. But, it's important to remember that even with machine learning, the models are not perfect and the market can still surprise them.
 

@@ -18,7 +18,7 @@ For example, if you're testing the strength of a material, a tiny sample might s
 
 The volume effect can change how strong or tough a material is. When a material is small, it might seem very strong because it has fewer weak spots or flaws. But when the same material is made bigger, it can have more flaws inside it. These flaws can make the material break more easily. So, if you're using a material in a big structure like a bridge or a building, you need to think about how its size might make it weaker than you expected.
 
-This effect is also important when you heat or cool a material. A small piece might handle temperature changes well, but a big piece might crack or expand differently. This happens because the heat can spread through the material in different ways depending on its size. Engineers need to know about the volume effect to make sure that materials will work safely and reliably in all kinds of situations, from tiny parts in electronics to huge parts in construction.
+This effect is also important when you heat or cool a material. A small piece might handle temperature changes well, but a big piece might crack or expand differently. This happens because the heat can spread through the material in different ways depending on its size. Engineers need to know about the [volume](/wiki/volume-trading-strategy) effect to make sure that materials will work safely and reliably in all kinds of situations, from tiny parts in electronics to huge parts in construction.
 
 ## Can you explain the basic principles behind the volume effect?
 

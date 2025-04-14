@@ -22,7 +22,7 @@ This adjustment is important because it helps investors and analysts compare the
 
 ## What is the difference between LIFO and FIFO?
 
-LIFO and FIFO are two different ways to keep track of inventory. LIFO stands for Last-In, First-Out. It means that the newest items you buy are the first ones you sell. Imagine you have a stack of books, and you always take the book from the top of the stack to sell. That's LIFO. When prices are going up, LIFO makes your cost of goods sold higher because you're selling the more expensive, newer items first. This can make your profit look smaller.
+LIFO and FIFO are two different ways to keep track of inventory. LIFO stands for Last-In, First-Out. It means that the newest items you buy are the first ones you sell. Imagine you have a stack of [books](/wiki/algo-trading-books), and you always take the book from the top of the stack to sell. That's LIFO. When prices are going up, LIFO makes your cost of goods sold higher because you're selling the more expensive, newer items first. This can make your profit look smaller.
 
 FIFO stands for First-In, First-Out. It's the opposite of LIFO. With FIFO, you sell the oldest items first. Using the book stack example again, you would take books from the bottom of the stack to sell. When prices are going up, FIFO makes your cost of goods sold lower because you're selling the cheaper, older items first. This can make your profit look bigger. Both methods are used to manage inventory, but they can show very different results on your financial statements.
 

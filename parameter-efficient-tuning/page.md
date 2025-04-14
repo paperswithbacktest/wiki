@@ -21,7 +21,7 @@ Another reason why Parameter-Efficient Tuning is valuable is that it helps prese
 
 ## How does Parameter-Efficient Tuning differ from traditional fine-tuning methods?
 
-Parameter-Efficient Tuning and traditional fine-tuning are two ways to make a machine learning model better at a new task. Traditional fine-tuning means you take a model that's already been trained on one thing and then train it again on a new thing. You change all the numbers inside the model to make it work better for the new task. This can take a lot of time and computer power because you're changing everything.
+Parameter-Efficient Tuning and traditional fine-tuning are two ways to make a [machine learning](/wiki/machine-learning) model better at a new task. Traditional fine-tuning means you take a model that's already been trained on one thing and then train it again on a new thing. You change all the numbers inside the model to make it work better for the new task. This can take a lot of time and computer power because you're changing everything.
 
 Parameter-Efficient Tuning is different because it only changes a small part of the model. Instead of adjusting all the numbers, you might add a small piece to the model and only train that piece. This is like adding a new tool to a toolbox without touching the old tools. It saves time and computer power because you're not changing the whole model. Techniques like adapters or prompt tuning are examples of this. Adapters are small parts you add to the model and train separately. Prompt tuning means you add special instructions to the input to help the model understand what to do. Both ways help the model learn new things without forgetting what it already knows.
 

@@ -30,7 +30,7 @@ Lastly, the need for financial services has grown as more people and businesses 
 
 ## What are the benefits of globalized financial services for consumers?
 
-Globalized financial services give consumers more choices and better deals. Because banks and financial companies can work in many countries, they have to compete with each other. This means they try to offer better services and lower prices to attract customers. For example, you might find a bank in another country that offers a better interest rate on your savings account. Or you might use an app to send money to family in another country for a lower fee than before.
+Globalized financial services give consumers more choices and better deals. Because banks and financial companies can work in many countries, they have to compete with each other. This means they try to offer better services and lower prices to attract customers. For example, you might find a bank in another country that offers a better [interest rate](/wiki/interest-rate-trading-strategies) on your savings account. Or you might use an app to send money to family in another country for a lower fee than before.
 
 Another benefit is that it's easier for consumers to do financial activities from anywhere. With the internet and technology, you can check your bank account, invest in stocks, or pay bills from your phone or computer, no matter where you are. This is very helpful if you travel a lot or live in different countries. It also means you can take advantage of financial opportunities around the world, like investing in a growing company in another country or getting a loan from a bank that offers better terms.
 

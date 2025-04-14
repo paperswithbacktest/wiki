@@ -18,13 +18,13 @@ Quants often create complex math models and computer programs. These tools help 
 
 A technical analyst is someone who looks at past prices and trading volumes of stocks, currencies, or other financial things to predict what might happen next. They use charts and other tools to spot patterns in how prices move over time. By studying these patterns, technical analysts try to guess if a stock's price will go up or down in the future.
 
-Technical analysis is different from fundamental analysis, which looks at a company's financial health, like its profits and debts. Technical analysts believe that all the important information about a company is already shown in its price and trading volume. They think that by understanding these price patterns, they can make better decisions about when to buy or sell investments. This approach is popular in trading and helps many investors make choices based on what the market is doing right now.
+Technical analysis is different from [fundamental analysis](/wiki/fundamental-analysis), which looks at a company's financial health, like its profits and debts. Technical analysts believe that all the important information about a company is already shown in its price and trading volume. They think that by understanding these price patterns, they can make better decisions about when to buy or sell investments. This approach is popular in trading and helps many investors make choices based on what the market is doing right now.
 
 ## What are the primary tools used by quants?
 
 Quants use a lot of math and computer tools to help them make smart decisions about money. They often use something called statistical models. These models help quants understand big sets of numbers and find patterns that can predict what might happen in the future. They also use computer programs to do calculations quickly and to test their ideas many times. These programs can run simulations, which are like practice runs, to see how their strategies might work in real life.
 
-Another important tool for quants is something called machine learning. This is a type of computer program that can learn from data and get better over time. Quants use machine learning to find hidden patterns in the data that they might not see otherwise. They also use something called optimization algorithms. These are special math tools that help find the best way to do things, like how to invest money to make the most profit with the least risk. By using all these tools together, quants can make very detailed and smart plans for investing money.
+Another important tool for quants is something called [machine learning](/wiki/machine-learning). This is a type of computer program that can learn from data and get better over time. Quants use machine learning to find hidden patterns in the data that they might not see otherwise. They also use something called optimization algorithms. These are special math tools that help find the best way to do things, like how to invest money to make the most profit with the least risk. By using all these tools together, quants can make very detailed and smart plans for investing money.
 
 ## What are the primary tools used by technical analysts?
 
@@ -46,7 +46,7 @@ To help them make these guesses, technical analysts use special tools called ind
 
 ## What kind of educational background is typically required for a quant?
 
-To become a quant, you usually need a strong education in math, computer science, or a related field. Most quants have at least a bachelor's degree, but many have advanced degrees like a master's or a PhD. They study things like calculus, statistics, and programming. These subjects help them understand how to work with numbers and create computer models that can predict what might happen in financial markets.
+To become a quant, you usually need a strong education in math, computer science, or a related field. Most quants have at least a bachelor's degree, but many have advanced degrees like a master's or a PhD. They study things like calculus, [statistics](/wiki/bayesian-statistics), and programming. These subjects help them understand how to work with numbers and create computer models that can predict what might happen in financial markets.
 
 Besides math and computer skills, quants also need to learn about finance. They often take classes in economics, financial theory, and how markets work. This helps them understand how to use their math and computer skills to make money in the real world. Some quants start in other jobs, like being a software engineer or a researcher, before they move into finance. But no matter how they start, a good education in math, computers, and finance is very important for a quant.
 

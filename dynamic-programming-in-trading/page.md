@@ -64,7 +64,7 @@ Another challenge is that the amount of data in trading can be huge. You have to
 
 ## How can dynamic programming be integrated with other algorithmic trading techniques?
 
-Dynamic programming can be combined with other trading techniques to make better decisions. For example, you can use dynamic programming to find the best times to buy and sell stocks, and then use machine learning to predict future price movements. Machine learning can look at lots of data and find patterns that might help you guess where prices are going. By using dynamic programming to quickly figure out the best strategy based on past data, and then using machine learning to adjust for future predictions, you can make smarter trading choices.
+Dynamic programming can be combined with other trading techniques to make better decisions. For example, you can use dynamic programming to find the best times to buy and sell stocks, and then use [machine learning](/wiki/machine-learning) to predict future price movements. Machine learning can look at lots of data and find patterns that might help you guess where prices are going. By using dynamic programming to quickly figure out the best strategy based on past data, and then using machine learning to adjust for future predictions, you can make smarter trading choices.
 
 Another way to mix dynamic programming with other techniques is to use it alongside technical analysis. Technical analysis looks at charts and patterns to predict what might happen next in the market. Dynamic programming can help you break down the problem of finding the best trading strategy into smaller parts, and then technical analysis can give you more information about when to make your moves. By combining these methods, you can use the strengths of both to create a more complete trading strategy that takes into account both past data and current market trends.
 
@@ -78,7 +78,7 @@ Another advanced technique is to combine dynamic programming with machine learni
 
 Imagine a trading firm that wanted to find the best time to buy and sell stocks to make the most profit. They had a lot of data on stock prices over time, but looking at all the possible buy and sell combinations was taking too long. So, they decided to use dynamic programming. They broke down the problem into smaller parts, figuring out the best profit for each day and saving those results. By the end of the month, they could quickly find the overall best strategy without having to redo calculations. This made their trading decisions faster and more accurate, leading to better profits.
 
-In another case, a hedge fund used dynamic programming to optimize their portfolio. They wanted to balance the best return with the least risk. Instead of trying to figure out the perfect mix of stocks all at once, they used dynamic programming to look at different levels of risk and find the best combination of stocks for each level. By saving the results for each smaller problem, they could then use them to quickly find the overall best portfolio. This approach helped them manage risk better and make more informed trading choices, which improved their overall performance in the market.
+In another case, a [hedge fund](/wiki/hedge-fund-trading-strategies) used dynamic programming to optimize their portfolio. They wanted to balance the best return with the least risk. Instead of trying to figure out the perfect mix of stocks all at once, they used dynamic programming to look at different levels of risk and find the best combination of stocks for each level. By saving the results for each smaller problem, they could then use them to quickly find the overall best portfolio. This approach helped them manage risk better and make more informed trading choices, which improved their overall performance in the market.
 
 ## What are some case studies and practical implementations?
 
@@ -97,7 +97,7 @@ QuantConnect provides a comprehensive platform for [backtesting](/wiki/backtesti
 
 The D. E. Shaw Group exemplifies the application of advanced quantitative models, including dynamic programming, for systematic investment strategies they employ in managing large-scale portfolios. By deploying these models, the firm can systematically evaluate a vast array of potential investments, weighing factors such as expected returns, [volatility](/wiki/volatility-trading-strategies), and correlations. Dynamic programming aids in continuously recalibrating portfolios, seeking to maximize risk-adjusted returns using historical and real-time data analytics. 
 
-These examples demonstrate the diverse and effective implementation of dynamic programming across different trading platforms and financial institutions. It highlights not only the versatility of dynamic programming in addressing various facets of algorithmic trading but also its critical role in improving decision-making processes for enhanced financial performance.
+These examples demonstrate the diverse and effective implementation of dynamic programming across different trading platforms and financial institutions. It highlights not only the versatility of dynamic programming in addressing various facets of [algorithmic trading](/wiki/algorithmic-trading) but also its critical role in improving decision-making processes for enhanced financial performance.
 
 ## References & Further Reading
 

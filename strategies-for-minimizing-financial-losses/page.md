@@ -84,7 +84,7 @@ To minimize the tax impact of financial losses, you need to keep good records of
 
 Financial forecasting is like looking into the future to guess what might happen with your money. It helps you see if you might lose money and what you can do to stop it. By using past information and looking at what's happening now, you can make a guess about what will happen next. For example, if you see that a certain type of investment is doing badly, you might decide to sell it before it loses more value. This way, you can make changes to your plan and protect your money from big losses.
 
-One way to use financial forecasting is by making a budget. You can look at your past spending and earning to guess what will happen in the next few months. If you see that you might not have enough money to cover your bills, you can start saving more now or find ways to spend less. Another way is by looking at market trends. If you see that the market might go down, you can move your money into safer investments. By using these guesses to plan ahead, you can be ready for problems and keep your money safe.
+One way to use financial forecasting is by making a budget. You can look at your past spending and [earning](/wiki/earning-announcement) to guess what will happen in the next few months. If you see that you might not have enough money to cover your bills, you can start saving more now or find ways to spend less. Another way is by looking at market trends. If you see that the market might go down, you can move your money into safer investments. By using these guesses to plan ahead, you can be ready for problems and keep your money safe.
 
 ## What is the Importance of Risk Management in Investing?
 

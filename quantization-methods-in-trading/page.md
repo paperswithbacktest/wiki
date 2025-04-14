@@ -48,7 +48,7 @@ By using time series quantization, traders can set up clear rules for when to bu
 
 ## What role does machine learning play in quantization methods?
 
-Machine learning helps make quantization methods better by finding the best way to group data into chunks. Imagine you're trying to sort a big pile of different colored marbles into groups. Machine learning can look at all the marbles and figure out the best way to sort them so that each group makes sense. In trading, machine learning can look at lots of price data and decide the best way to split it into steps or levels. This makes the trading rules clearer and more effective because the computer can find patterns that humans might miss.
+Machine learning helps make quantization methods better by finding the best way to group data into chunks. Imagine you're trying to sort a big pile of different colored marbles into groups. Machine learning can look at all the marbles and figure out the best way to sort them so that each group makes sense. In trading, [machine learning](/wiki/machine-learning) can look at lots of price data and decide the best way to split it into steps or levels. This makes the trading rules clearer and more effective because the computer can find patterns that humans might miss.
 
 By using machine learning, traders can also make their quantization methods adapt to changes in the market. If the market starts behaving differently, the machine learning model can learn from the new data and adjust the quantization steps. This means the trading strategy stays sharp and can react to new trends quickly. It's like having a smart helper that keeps updating the rules to make sure they work well, even when things change.
 
@@ -66,7 +66,7 @@ Another limitation is that quantization can make trading strategies too simple. 
 
 ## How do advanced quantization techniques like deep learning quantization enhance trading algorithms?
 
-Deep learning quantization helps make trading algorithms smarter and faster. It's like having a super smart friend who can look at a lot of data and find the best way to group it into steps. This friend can keep learning from new data and adjust the steps to make sure they work well, even when the market changes. By using deep learning, traders can create trading rules that are more accurate and can adapt to new trends quickly. This means the algorithms can make better decisions and react to the market faster than before.
+Deep learning quantization helps make trading algorithms smarter and faster. It's like having a super smart friend who can look at a lot of data and find the best way to group it into steps. This friend can keep learning from new data and adjust the steps to make sure they work well, even when the market changes. By using [deep learning](/wiki/deep-learning), traders can create trading rules that are more accurate and can adapt to new trends quickly. This means the algorithms can make better decisions and react to the market faster than before.
 
 But deep learning quantization also has its challenges. It can be hard to understand how the deep learning model makes its decisions because it's like a very complicated puzzle. Also, it needs a lot of data to work well, and sometimes that data can be hard to get. If the market changes a lot, the model might need to keep learning and updating, which can take time and resources. Still, when used right, deep learning quantization can really help traders make smarter and quicker choices in the fast-moving world of trading.
 

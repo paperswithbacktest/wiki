@@ -92,5 +92,5 @@ Another strategy is to use technology to make the filing process smoother and qu
 
 5. Lopez de Prado, M. "Advances in Financial Machine Learning." This book covers state-of-the-art techniques in machine learning as applied to financial market data, offering practitioners methodologies to refine algorithmic trading strategies. The book is invaluable for professionals seeking quantitative tools to enhance market analysis and trading. It is available through various academic and professional book retailers.
 
-These resources provide a foundational understanding and practical insights for stakeholders involved in proxy analysis, shareholder communication, and algorithmic trading.
+These resources provide a foundational understanding and practical insights for stakeholders involved in proxy analysis, shareholder communication, and [algorithmic trading](/wiki/algorithmic-trading).
 

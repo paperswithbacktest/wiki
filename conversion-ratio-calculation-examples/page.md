@@ -76,7 +76,7 @@ Another example is from a small bakery that wanted to sell more cakes. They saw 
 
 ## How can statistical methods enhance the accuracy of conversion ratio calculations?
 
-Statistical methods can make conversion ratio calculations more accurate by helping businesses understand the data better. For example, using a method called regression analysis, businesses can see how different things, like the time of year or the type of ad, affect the conversion ratio. This helps them know which factors are most important for turning ads into sales. By using statistics, businesses can make sure they are looking at all the right information and not just guessing.
+Statistical methods can make conversion ratio calculations more accurate by helping businesses understand the data better. For example, using a method called regression analysis, businesses can see how different things, like the time of year or the type of ad, affect the conversion ratio. This helps them know which factors are most important for turning ads into sales. By using [statistics](/wiki/bayesian-statistics), businesses can make sure they are looking at all the right information and not just guessing.
 
 Another way statistics can help is by using something called confidence intervals. This tells businesses how sure they can be about their conversion ratio numbers. If a business sees a conversion ratio of 5%, a confidence interval can show that the real number might be between 4% and 6%. This helps businesses know if a change in the conversion ratio is a real change or just a random difference. By using these statistical methods, businesses can make better decisions and be more confident in their marketing plans.
 

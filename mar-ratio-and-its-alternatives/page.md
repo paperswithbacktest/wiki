@@ -18,7 +18,7 @@ The MAR Ratio is important in investment analysis because it helps investors und
 
 The MAR Ratio is calculated by dividing the average annual compounded return of an investment by its maximum drawdown. The average annual compounded return, also known as the compound annual growth rate (CAGR), shows how much an investment has grown each year on average. The maximum drawdown is the biggest drop in the value of the investment from its highest point to its lowest point during a specific time period.
 
-To find the MAR Ratio, you first need to calculate the CAGR. This involves taking the ending value of the investment, dividing it by the starting value, raising it to the power of one divided by the number of years, and then subtracting one. Next, you find the maximum drawdown by looking at the largest percentage drop from peak to trough in the investment's value. Once you have both numbers, you divide the CAGR by the maximum drawdown to get the MAR Ratio. A higher MAR Ratio means the investment did well by earning good returns while keeping big losses small.
+To find the MAR Ratio, you first need to calculate the CAGR. This involves taking the ending value of the investment, dividing it by the starting value, raising it to the power of one divided by the number of years, and then subtracting one. Next, you find the maximum drawdown by looking at the largest percentage drop from peak to trough in the investment's value. Once you have both numbers, you divide the CAGR by the maximum drawdown to get the MAR Ratio. A higher MAR Ratio means the investment did well by [earning](/wiki/earning-announcement) good returns while keeping big losses small.
 
 ## What does a high MAR Ratio indicate about an investment?
 

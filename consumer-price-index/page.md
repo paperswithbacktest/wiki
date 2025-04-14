@@ -42,7 +42,7 @@ Having the CPI updated every month is really helpful. It lets us see how prices 
 
 The CPI basket includes a lot of different things that people buy every day. It has food and drinks like bread, milk, and coffee. It also has things for the house like furniture, appliances, and cleaning supplies. Clothes and shoes are in there too, along with things like jewelry and watches. The basket also includes things we need for getting around, like cars, gasoline, and public transportation. There are also services in the basket, like haircuts, going to the movies, and paying for cable TV.
 
-Healthcare is a big part of the CPI basket too. This includes the cost of going to the doctor, getting medicine, and staying in the hospital. Education and communication are also included, like the cost of going to school, buying books, and paying for phone and internet service. Finally, the basket has things like rent or the cost of owning a home, as well as things for fun like toys, sports equipment, and going on vacation. All these things together help us see how prices are changing for what people buy every day.
+Healthcare is a big part of the CPI basket too. This includes the cost of going to the doctor, getting medicine, and staying in the hospital. Education and communication are also included, like the cost of going to school, buying [books](/wiki/algo-trading-books), and paying for phone and internet service. Finally, the basket has things like rent or the cost of owning a home, as well as things for fun like toys, sports equipment, and going on vacation. All these things together help us see how prices are changing for what people buy every day.
 
 ## How does the CPI affect monetary policy?
 
@@ -92,7 +92,7 @@ $$
 
 where $P$ is the bond price, $C$ is the cash flow, $r$ is the discount rate (which includes inflation expectations), and $n$ is the number of periods.
 
-Central banks play a crucial role in managing inflation through monetary policy, often by adjusting interest rates. When inflation is high, central banks may increase interest rates to temper inflationary pressures. This move can lead to higher borrowing costs, which tends to reduce economic consumption and investment, potentially dampening economic growth. In terms of market volatility, changes in interest rates can create fluctuations as investors reassess their portfolio allocations in light of evolving risk-reward profiles. 
+Central banks play a crucial role in managing inflation through monetary policy, often by adjusting interest rates. When inflation is high, central banks may increase interest rates to temper inflationary pressures. This move can lead to higher borrowing costs, which tends to reduce economic consumption and investment, potentially dampening economic growth. In terms of market [volatility](/wiki/volatility-trading-strategies), changes in interest rates can create fluctuations as investors reassess their portfolio allocations in light of evolving risk-reward profiles. 
 
 Consider the Python function below, which calculates the expected real return of a bond accounting for inflation:
 

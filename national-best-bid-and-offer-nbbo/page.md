@@ -28,7 +28,7 @@ This calculation happens all the time, so the NBBO is always up to date. Compute
 
 ## What are the components of the NBBO?
 
-The NBBO has two main parts: the best bid and the best offer. The best bid is the highest price someone is willing to pay to buy a stock. This comes from looking at all the places where the stock is traded and finding the highest bid price among them. The best offer, on the other hand, is the lowest price someone is willing to sell the stock for. This is found by looking at all the places where the stock is traded and picking the lowest offer price.
+The NBBO has two main parts: the best bid and the best offer. The best bid is the highest price someone is willing to pay to buy a stock. This comes from looking at all the places where the stock is traded and finding the highest bid price among them. The best offer, on the other hand, is the lowest price someone is willing to sell the stock for. This is found by looking at all the places where the stock is traded and [picking](/wiki/asset-class-picking) the lowest offer price.
 
 These two parts together make up the NBBO. They help investors know the best prices available for buying and selling a stock at any time. The NBBO is always changing because the prices in the market are always changing. Computers check all the different places where the stock is traded and update the NBBO to make sure it shows the current best prices.
 
@@ -70,7 +70,7 @@ Another challenge is making sure that all the places where stocks are traded are
 
 ## How do high-frequency trading and NBBO interact?
 
-High-frequency trading (HFT) and the NBBO are closely connected. HFT is when computers trade stocks very quickly, often in just a few seconds. These computers use special programs to look at the NBBO and make trades based on the best prices they see. They try to buy stocks at the lowest offer price and sell them at the highest bid price to make a small profit. Because HFT happens so fast, it can change the NBBO a lot during the day. When HFT computers see a good price, they might buy or sell a lot of stocks, which can make the best bid and offer prices move up or down.
+High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) and the NBBO are closely connected. HFT is when computers trade stocks very quickly, often in just a few seconds. These computers use special programs to look at the NBBO and make trades based on the best prices they see. They try to buy stocks at the lowest offer price and sell them at the highest bid price to make a small profit. Because HFT happens so fast, it can change the NBBO a lot during the day. When HFT computers see a good price, they might buy or sell a lot of stocks, which can make the best bid and offer prices move up or down.
 
 This interaction can be good and bad for the market. On the good side, HFT can help keep the NBBO accurate because these computers are always looking at the best prices and making trades. This can make the market more efficient and help investors get better prices. But on the bad side, HFT can also make the NBBO change very quickly. If too many HFT computers are trading at the same time, it can cause the prices to move a lot, which might confuse other investors. So, while HFT can help keep the NBBO up to date, it can also make the market more unpredictable.
 
@@ -119,7 +119,7 @@ Understanding NBBO is therefore essential for developing effective algorithmic t
 
 ## What is the impact of NBBO on trading?
 
-NBBO significantly influences the trading environment in various ways. One of its primary impacts is on liquidity. Liquidity refers to the ease with which an asset can be bought or sold in the market without affecting its price. By ensuring that buy and sell orders are executed at the best available prices across all participating exchanges, NBBO enhances market liquidity. When traders have access to the most competitive bid and offer prices, it results in a higher [volume](/wiki/volume-trading-strategy) of transactions, as participants are more willing to engage in trades knowing they are receiving optimal pricing. 
+NBBO significantly influences the trading environment in various ways. One of its primary impacts is on [liquidity](/wiki/liquidity-risk-premium). Liquidity refers to the ease with which an asset can be bought or sold in the market without affecting its price. By ensuring that buy and sell orders are executed at the best available prices across all participating exchanges, NBBO enhances market liquidity. When traders have access to the most competitive bid and offer prices, it results in a higher [volume](/wiki/volume-trading-strategy) of transactions, as participants are more willing to engage in trades knowing they are receiving optimal pricing. 
 
 Moreover, NBBO plays a vital role in reducing bid-ask spreads, which measure the difference between the highest price a buyer is willing to pay (bid) and the lowest price a seller is willing to accept (ask). Narrower spreads are indicative of a more competitive market, which in turn contributes to increased market efficiency. In financial terms, the bid-ask spread $S$ for a given security can be represented as:
 
@@ -129,7 +129,7 @@ $$
 
 With NBBO ensuring the best bid and offer across exchanges, the spread $S$ is minimized, allowing traders to enter and [exit](/wiki/exit-strategy) positions with minimal cost, thereby enhancing market efficiency.
 
-The dynamic updating mechanism of NBBO also impacts market volatility. By continuously presenting the most competitive prices, NBBO provides real-time insights into market conditions. This means that any new information or changes in the market are quickly reflected in the bid and offer prices, allowing for rapid adjustments based on current data. Consequently, while NBBO helps stabilize the market by providing reliable price points, it can also increase short-term volatility as it reflects real-time shifts in supply and demand.
+The dynamic updating mechanism of NBBO also impacts market [volatility](/wiki/volatility-trading-strategies). By continuously presenting the most competitive prices, NBBO provides real-time insights into market conditions. This means that any new information or changes in the market are quickly reflected in the bid and offer prices, allowing for rapid adjustments based on current data. Consequently, while NBBO helps stabilize the market by providing reliable price points, it can also increase short-term volatility as it reflects real-time shifts in supply and demand.
 
 Market transparency is greatly enhanced by NBBO, as it acts as a centralized reference point for best available pricing. This transparency is particularly advantageous for retail traders, who may lack the sophisticated tools available to institutional investors. By having access to NBBO data, retail participants can make more informed decisions and execute trades with confidence that they are getting the best possible price at any given moment.
 

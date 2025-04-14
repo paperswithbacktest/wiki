@@ -74,7 +74,7 @@ For example, if you're solving a problem where you need to keep track of many di
 
 Multi-dimensional problems in dynamic programming are like solving puzzles that have more than one layer. Imagine you're trying to find the best way to pack a suitcase, but you need to consider not just the size of the items but also their weight and how much they cost. You need to keep track of different things at the same time, like the space used, the total weight, and the total cost. In dynamic programming, you can use a table with more than one dimension to keep track of all these different aspects. Each cell in the table represents a different combination of these factors, helping you find the best solution by considering all the dimensions together.
 
-For example, let's say you're solving the knapsack problem, where you want to fit items into a bag to get the most value without going over a weight limit. If you also need to consider the volume of the items, you can use a 3D table where one dimension is for the weight, another for the volume, and the third for the value. You fill this table by solving smaller subproblems, like what's the best value you can get for a certain weight and volume. By working through the table, you can find the best way to pack your bag considering all these different aspects at once. This approach helps you solve complex problems where you need to juggle multiple factors.
+For example, let's say you're solving the knapsack problem, where you want to fit items into a bag to get the most value without going over a weight limit. If you also need to consider the [volume](/wiki/volume-trading-strategy) of the items, you can use a 3D table where one dimension is for the weight, another for the volume, and the third for the value. You fill this table by solving smaller subproblems, like what's the best value you can get for a certain weight and volume. By working through the table, you can find the best way to pack your bag considering all these different aspects at once. This approach helps you solve complex problems where you need to juggle multiple factors.
 
 ## Can you discuss a real-world application of dynamic programming and its impact?
 
@@ -84,7 +84,7 @@ The impact of using dynamic programming in route optimization is huge. For compa
 
 ## How can Risk Management be approached using Dynamic Programming?
 
-Dynamic programming (DP) methodologies are pivotal in constructing effective risk management and hedging strategies within algorithmic trading. By leveraging the principles of DP, traders are able to deconstruct complex risk frameworks into manageable subproblems, thereby optimizing for the best risk-return profiles.
+Dynamic programming (DP) methodologies are pivotal in constructing effective risk management and hedging strategies within [algorithmic trading](/wiki/algorithmic-trading). By leveraging the principles of DP, traders are able to deconstruct complex risk frameworks into manageable subproblems, thereby optimizing for the best risk-return profiles.
 
 **Managing Derivative Portfolio Risks**
 

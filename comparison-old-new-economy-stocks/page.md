@@ -96,7 +96,7 @@ $$
 
 This metric helps investors compare the return of a stock relative to its price, providing insights into the stock's income-generating potential.
 
-Old economy stocks are integral to diversified investment portfolios seeking to achieve balance and mitigate overall risk. A portfolio diversified with old economy stocks benefits from the relatively lower volatility these stocks exhibit, offsetting the higher risk associated with more volatile stocks such as those found in new economy sectors. By maintaining a proportion of old economy stocks, investors can cushion their portfolios against market volatility while still participating in long-term growth opportunities.
+Old economy stocks are integral to diversified investment portfolios seeking to achieve balance and mitigate overall risk. A portfolio diversified with old economy stocks benefits from the relatively lower [volatility](/wiki/volatility-trading-strategies) these stocks exhibit, offsetting the higher risk associated with more volatile stocks such as those found in new economy sectors. By maintaining a proportion of old economy stocks, investors can cushion their portfolios against market volatility while still participating in long-term growth opportunities.
 
 In summary, old economy stocks continue to be a cornerstone for investors focused on stable income and risk management, underpinned by industries that remain critical to global economic infrastructure.
 

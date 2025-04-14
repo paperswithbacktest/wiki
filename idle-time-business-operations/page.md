@@ -32,7 +32,7 @@ Lastly, poor planning and communication can also lead to idle time. If the peopl
 
 Idle time hurts business productivity a lot. When workers or machines are not doing anything, it means they're not making things or helping customers. This makes the whole business slower and less efficient. If a company has a lot of idle time, it won't be able to make as many products or finish as many projects. This can make customers unhappy and can hurt the company's reputation.
 
-To make things worse, idle time can also cost a lot of money. When workers are idle, the company still has to pay them, but they're not earning any money back. Machines that are sitting idle also cost money to maintain, but they're not helping the business make anything. Over time, all this wasted time and money can add up and make it hard for the business to stay successful. That's why it's so important for businesses to keep idle time as low as possible.
+To make things worse, idle time can also cost a lot of money. When workers are idle, the company still has to pay them, but they're not [earning](/wiki/earning-announcement) any money back. Machines that are sitting idle also cost money to maintain, but they're not helping the business make anything. Over time, all this wasted time and money can add up and make it hard for the business to stay successful. That's why it's so important for businesses to keep idle time as low as possible.
 
 ## What are the financial implications of idle time?
 

@@ -24,7 +24,7 @@ Monetarists think that the government should control the money supply carefully.
 
 Milton Friedman played a big role in developing monetarism. He believed that the amount of money in an economy was very important for how well the economy did. Friedman thought that if there was too much money, prices would go up, which is called inflation. If there was too little money, the economy could slow down. He said that the government should control the amount of money carefully to keep the economy stable. His ideas were different from other economists who focused more on government spending or taxes.
 
-Friedman's work helped make monetarism popular. He wrote a lot of books and articles about it. One of his most famous books is called "A Monetary History of the United States, 1867-1960," which he wrote with Anna Schwartz. In this book, they showed how changes in the money supply affected the economy over many years. Friedman's ideas influenced many other economists and even some governments. Because of his work, many people started to think more about how the money supply affects the economy.
+Friedman's work helped make monetarism popular. He wrote a lot of [books](/wiki/algo-trading-books) and articles about it. One of his most famous books is called "A Monetary History of the United States, 1867-1960," which he wrote with Anna Schwartz. In this book, they showed how changes in the money supply affected the economy over many years. Friedman's ideas influenced many other economists and even some governments. Because of his work, many people started to think more about how the money supply affects the economy.
 
 ## What are the key principles of monetarism?
 
@@ -98,7 +98,7 @@ By focusing on the predictable effects of monetary policy, monetarism shifted th
 
 ## What is the influence of monetarism on algorithmic trading?
 
-Monetarism's fundamental premise—centered on the regulation of the money supply—bears a significant resemblance to the principles that underpin algorithmic trading. Both fields emphasize precision and rely on robust, data-driven models to predict and influence outcomes.
+Monetarism's fundamental premise—centered on the regulation of the money supply—bears a significant resemblance to the principles that underpin [algorithmic trading](/wiki/algorithmic-trading). Both fields emphasize precision and rely on robust, data-driven models to predict and influence outcomes.
 
 Algorithmic trading systems are designed to assimilate vast arrays of economic indicators, one of the most pivotal being money supply trends. A key concept within monetarism is the Quantity Theory of Money, which can be expressed as:
 

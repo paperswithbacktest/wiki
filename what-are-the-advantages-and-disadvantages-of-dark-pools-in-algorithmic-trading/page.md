@@ -22,7 +22,7 @@ The main reason dark pools are used is to keep the market stable. When big inves
 
 ## What is algorithmic trading and how does it relate to dark pools?
 
-Algorithmic trading is when computers use math formulas to decide when to buy or sell stocks. These formulas, or algorithms, can look at a lot of information very quickly and make trades based on that information. This can be faster and sometimes more accurate than a person making the same decisions. Many big investors use algorithmic trading because it can help them make money by finding the best times to trade.
+Algorithmic trading is when computers use math formulas to decide when to buy or sell stocks. These formulas, or algorithms, can look at a lot of information very quickly and make trades based on that information. This can be faster and sometimes more accurate than a person making the same decisions. Many big investors use [algorithmic trading](/wiki/algorithmic-trading) because it can help them make money by finding the best times to trade.
 
 Algorithmic trading and dark pools are connected because big investors often use algorithms to trade in dark pools. Since dark pools keep trades secret, they are a good place for algorithms to work without other people knowing what is happening. This can help big investors move large amounts of stocks without causing big price changes in the market. However, it can also make the market less fair because not everyone can use dark pools or see what is happening in them.
 

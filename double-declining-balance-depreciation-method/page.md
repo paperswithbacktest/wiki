@@ -46,7 +46,7 @@ You start by calculating depreciation without thinking about the salvage value. 
 
 ## Can you explain the concept of 'book value' in the context of the Double-Declining Balance Method?
 
-In the Double-Declining Balance Method, 'book value' is what the asset is worth on the company's books after you take away depreciation. At the start, the book value is the same as what you paid for the asset. But every year, you take away some of the value as depreciation, so the book value goes down. You figure out how much to take away by using the double-declining rate, which is double the rate you'd use in the straight-line method.
+In the Double-Declining Balance Method, 'book value' is what the asset is worth on the company's [books](/wiki/algo-trading-books) after you take away depreciation. At the start, the book value is the same as what you paid for the asset. But every year, you take away some of the value as depreciation, so the book value goes down. You figure out how much to take away by using the double-declining rate, which is double the rate you'd use in the straight-line method.
 
 You keep track of the book value each year because you use it to figure out the next year's depreciation. You take the double-declining rate and multiply it by the book value at the start of the year. This way, you take away more value in the early years and less in the later years. You keep doing this until the book value is the same as or less than the salvage value, which is what you think the asset will be worth at the end of its life.
 

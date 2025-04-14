@@ -82,7 +82,7 @@ Once the form is ready, it's helpful to have someone else review it to catch any
 
 ## References & Further Reading
 
-For detailed guidance on SEC Form T-1 and algorithmic trading regulations, consulting the SEC's official resources and publications is essential. The SEC provides extensive documentation and updates on their website, including guidelines, rule filings, and educational materials that are critical for understanding the nuances of financial regulation.
+For detailed guidance on SEC Form T-1 and [algorithmic trading](/wiki/algorithmic-trading) regulations, consulting the SEC's official resources and publications is essential. The SEC provides extensive documentation and updates on their website, including guidelines, rule filings, and educational materials that are critical for understanding the nuances of financial regulation.
 
 Keeping abreast of changes in financial regulatory environments can be aided by continuous learning from industry experts and legal advisors. Financial professionals often benefit from attending webinars, industry conferences, and workshops that focus on regulatory updates and advanced trading strategies. Additionally, subscribing to industry journals and regulatory bodies' newsletters can provide timely information and insights into the evolving landscape of financial regulation.
 

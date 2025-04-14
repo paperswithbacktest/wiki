@@ -60,7 +60,7 @@ Different target-date funds can be very different, even if they have the same ta
 
 Risk tolerance is important when you pick a target-date fund. It's about how much you can handle your money going up and down. Some people are okay with their savings changing a lot because they think it might grow more over time. Others get nervous if their money goes down, even if it's just for a little while. When you choose a target-date fund, you need to find one that matches how you feel about risk. If you don't like a lot of ups and downs, you might want a fund that's more careful with your money.
 
-Target-date funds can be different even if they have the same retirement year. Some might keep a lot of money in stocks even when you're close to retiring, which is more risky. Others might move to safer investments like bonds earlier, which is less risky. It's important to look at what's inside the fund and see if it fits with how much risk you can handle. By picking a fund that matches your risk tolerance, you can feel more comfortable with how your money is being managed as you get closer to using it.
+Target-date funds can be different even if they have the same retirement year. Some might keep a lot of money in stocks even when you're close to retiring, which is more risky. Others might move to safer investments like bonds earlier, which is less risky. It's important to look at what's inside the fund and see if it fits with how much risk you can handle. By [picking](/wiki/asset-class-picking) a fund that matches your risk tolerance, you can feel more comfortable with how your money is being managed as you get closer to using it.
 
 ## How do target-date funds manage risk as the target date approaches?
 

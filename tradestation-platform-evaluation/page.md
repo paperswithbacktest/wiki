@@ -30,7 +30,7 @@ Lastly, TradeStation provides a lot of educational resources. There are tutorial
 
 ## How does TradeStation's pricing model work and what are the associated costs?
 
-TradeStation has different pricing plans to fit different types of traders. For people who trade a lot, there's the TS GO plan. It's free to use, but you pay $0.60 for every stock or ETF trade you make. If you trade options, it's $0.60 plus $0.60 for each contract. For futures, it's $1.50 per contract. This plan is good if you make a lot of trades because the more you trade, the less you pay per trade.
+TradeStation has different pricing plans to fit different types of traders. For people who trade a lot, there's the TS GO plan. It's free to use, but you pay $0.60 for every stock or [ETF](/wiki/etf-trading-strategies) trade you make. If you trade options, it's $0.60 plus $0.60 for each contract. For futures, it's $1.50 per contract. This plan is good if you make a lot of trades because the more you trade, the less you pay per trade.
 
 For people who don't trade as often, there's the TS Select plan. This one costs $99 a month, but you get lower trading fees. Stocks and ETFs cost $0 per trade, and options are just $0.60 per contract. Futures are $0.85 per contract. This plan can save you money if you don't trade every day but still want to keep costs low. Both plans include access to TradeStation's powerful tools and features, so you can choose the one that fits your trading style best.
 
@@ -44,7 +44,7 @@ TradeStation also allows you to trade futures. Futures are agreements to buy or 
 
 TradeStation supports advanced trading strategies by letting you use its powerful tools to create and automate your trading rules. You can write your own trading strategies using TradeStation's EasyLanguage, which is a simple programming language designed for traders. This means you can set up specific conditions for when to buy or sell, and the platform will follow these rules automatically. This is really helpful if you have a clear trading plan but don't want to watch the markets all the time.
 
-Another way TradeStation supports advanced strategies is through its detailed charting and analysis tools. You can use these tools to look at market trends and patterns, helping you decide the best times to trade. TradeStation also offers backtesting, where you can test your strategies using past market data to see how they would have worked. This lets you fine-tune your strategies before using them with real money. With these features, TradeStation makes it easier for you to use advanced trading techniques and improve your trading results.
+Another way TradeStation supports advanced strategies is through its detailed charting and analysis tools. You can use these tools to look at market trends and patterns, helping you decide the best times to trade. TradeStation also offers [backtesting](/wiki/backtesting), where you can test your strategies using past market data to see how they would have worked. This lets you fine-tune your strategies before using them with real money. With these features, TradeStation makes it easier for you to use advanced trading techniques and improve your trading results.
 
 ## What are the mobile trading capabilities of TradeStation?
 

@@ -115,7 +115,7 @@ A balanced approach involves scrutinizing the company's strategic objectives alo
 
 ## How can Cash Per Share be integrated with Algorithmic Trading?
 
-Algo trading, or algorithmic trading, involves employing computer algorithms to automate and execute trades based on predetermined criteria. By incorporating financial metrics such as Cash Per Share (CPS) into these algorithmic parameters, decision-making can be significantly enhanced. This integration allows for more informed trading actions based on solid financial indicators, ultimately optimizing trade executions.
+Algo trading, or [algorithmic trading](/wiki/algorithmic-trading), involves employing computer algorithms to automate and execute trades based on predetermined criteria. By incorporating financial metrics such as Cash Per Share (CPS) into these algorithmic parameters, decision-making can be significantly enhanced. This integration allows for more informed trading actions based on solid financial indicators, ultimately optimizing trade executions.
 
 ### Integrating CPS into Algo Trading
 

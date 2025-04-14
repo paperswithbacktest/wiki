@@ -30,7 +30,7 @@ Some other types of property that qualify are improvements made to nonresidentia
 
 The Section 179 deduction lets businesses deduct the full cost of certain equipment they buy or lease in the same year they get it. This means if a business buys a new computer or a truck for work, they can subtract the cost of that item from their income for that year. This lowers the amount of taxes they have to pay. The equipment has to be used more than half the time for business to qualify. There's a limit to how much can be deducted each year, and this limit can change, so businesses need to check the current rules with the IRS.
 
-If a business sells the equipment later, they might have to pay back some of the deduction. This is called recapture. The business can only take the full deduction if they make enough money that year. If they don't, they can carry the deduction over to the next year. This deduction helps businesses by making it easier and cheaper to buy new equipment they need to grow and improve.
+If a business sells the equipment later, they might have to pay back some of the deduction. This is called recapture. The business can only take the full deduction if they make enough money that year. If they don't, they can [carry](/wiki/carry-trading) the deduction over to the next year. This deduction helps businesses by making it easier and cheaper to buy new equipment they need to grow and improve.
 
 ## What is the maximum deduction amount allowed under Section 179?
 

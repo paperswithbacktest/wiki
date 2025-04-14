@@ -28,7 +28,7 @@ This rule is handy because it gives you a quick answer without needing a calcula
 
 ## How do you calculate the Rule of 72?
 
-The Rule of 72 is a simple way to figure out how long it will take for your money to double. You just divide the number 72 by the interest rate you're getting. For example, if you're earning 8% interest on your savings, you divide 72 by 8. This tells you it will take about 9 years for your money to double.
+The Rule of 72 is a simple way to figure out how long it will take for your money to double. You just divide the number 72 by the interest rate you're getting. For example, if you're [earning](/wiki/earning-announcement) 8% interest on your savings, you divide 72 by 8. This tells you it will take about 9 years for your money to double.
 
 This rule is easy to use and doesn't need a calculator. It's great for making quick guesses without doing hard math. But remember, it's just an estimate and works best when the interest rate stays the same. If the rate changes a lot, the Rule of 72 might not be as accurate, but it's still helpful for a quick check.
 
@@ -132,7 +132,7 @@ In summary, the Rule of 72 serves as a highly efficient tool for estimating doub
 
 ## How can the Rule of 70 and Rule of 72 be incorporated into algorithmic trading?
 
-Algorithmic trading, a cornerstone of modern financial markets, involves using computer algorithms to execute trades at speeds and frequencies unachievable by human traders. This method leverages mathematical models and computational power to optimize trading strategies, minimize risks, and maximize returns. Central to these models are tools for efficient estimation, and the Rule of 70 and the Rule of 72 can be effectively incorporated into algorithmic trading systems for assessing investment growth and decision-making.
+Algorithmic trading, a cornerstone of modern financial markets, involves using computer algorithms to execute trades at speeds and frequencies unachievable by human traders. This method leverages mathematical models and computational power to optimize trading strategies, minimize risks, and maximize returns. Central to these models are tools for efficient estimation, and the Rule of 70 and the Rule of 72 can be effectively incorporated into [algorithmic trading](/wiki/algorithmic-trading) systems for assessing investment growth and decision-making.
 
 ### Incorporation into Algorithmic Models
 

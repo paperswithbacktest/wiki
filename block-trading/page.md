@@ -94,7 +94,7 @@ $$
 \text{VWAP} = \frac{\sum (\text{Price} \times \text{Volume})}{\sum \text{Volume}}
 $$
 
-This strategy is particularly useful when the goal is to minimize the market impact of a trade by spreading it over an extended time period, thereby ensuring that the trader achieves a price that reflects the liquidity of the market.
+This strategy is particularly useful when the goal is to minimize the market impact of a trade by spreading it over an extended time period, thereby ensuring that the trader achieves a price that reflects the [liquidity](/wiki/liquidity-risk-premium) of the market.
 
 On the other hand, the TWAP strategy focuses on the time aspect of execution. It evenly distributes the order over a specified time frame, which is ideal for less liquid markets or when the trader wishes to lessen the impact on the stock's price trend. Python’s simple implementation to simulate TWAP could look as follows:
 

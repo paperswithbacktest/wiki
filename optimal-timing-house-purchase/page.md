@@ -36,7 +36,7 @@ On the other hand, fall and winter can be quieter times for buying houses. Fewer
 
 When you're thinking about buying a house, it's a good idea to keep an eye on interest rates. The most important one to watch is the Federal Funds Rate, which is set by the Federal Reserve. This rate affects other interest rates, like the ones for mortgages. If the Federal Funds Rate goes up, mortgage rates usually go up too, which means your monthly payments will be higher. If it goes down, mortgage rates might go down, making your payments smaller.
 
-Another key indicator is the 10-Year Treasury Yield. This is the interest rate the government pays on its 10-year bonds, and it's a big deal because it influences long-term interest rates, including mortgage rates. When the 10-Year Treasury Yield goes up, mortgage rates often follow, making it more expensive to borrow money for a house. When it goes down, borrowing can become cheaper. Keeping an eye on these rates can help you decide if it's a good time to buy a house based on how much you'll have to pay each month.
+Another key indicator is the 10-Year Treasury Yield. This is the [interest rate](/wiki/interest-rate-trading-strategies) the government pays on its 10-year bonds, and it's a big deal because it influences long-term interest rates, including mortgage rates. When the 10-Year Treasury Yield goes up, mortgage rates often follow, making it more expensive to borrow money for a house. When it goes down, borrowing can become cheaper. Keeping an eye on these rates can help you decide if it's a good time to buy a house based on how much you'll have to pay each month.
 
 ## How does the real estate market cycle impact the optimal timing for purchasing a house?
 

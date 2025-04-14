@@ -84,7 +84,7 @@ Another example is the deleveraging that happened after the 2008 financial crisi
 
 ## What is the Intersection of Deleveraging and Algorithmic Trading?
 
-Algorithmic trading, which relies heavily on automated systems to execute trades, is inherently tied to risk parameters such as leverage ratios. Deleveraging, the process of reducing borrowed capital, can significantly impact these systems, especially when predefined risk thresholds are breached. This section explores the dynamic relationship between deleveraging and algorithmic trading strategies.
+Algorithmic trading, which relies heavily on automated systems to execute trades, is inherently tied to risk parameters such as leverage ratios. Deleveraging, the process of reducing borrowed capital, can significantly impact these systems, especially when predefined risk thresholds are breached. This section explores the dynamic relationship between deleveraging and [algorithmic trading](/wiki/algorithmic-trading) strategies.
 
 When market conditions become volatile, algorithmic trading systems often operate under strict risk parameters designed to minimize potential losses. These parameters include leveraging limits, stop-loss orders, and overall risk exposure. Should market conditions trigger these risk thresholds, algorithmic systems may initiate deleveraging to bring exposure back within acceptable limits. For instance, if a trading algorithm is programmed with a maximum leverage ratio of 5:1, a sudden market downturn reducing the value of held assets could surpass this ratio, leading the system to automatically reduce positions to comply with predefined guidelines.
 
@@ -94,11 +94,11 @@ $$
 \text{New Position Size} = \text{Current Position Size} \times \left(1 - \frac{\text{Excess Leverage}}{\text{Current Leverage}}\right)
 $$
 
-In practical terms, when an algorithm detects excessive leverage, it calculates the excess and proportionately adjusts the position size to restore balance. This automatic recalibration protects against over-exposure but also introduces liquidity risks, as massive concurrent sell-offs can dry up market liquidity, making it difficult to execute trades at desired prices.
+In practical terms, when an algorithm detects excessive leverage, it calculates the excess and proportionately adjusts the position size to restore balance. This automatic recalibration protects against over-exposure but also introduces [liquidity](/wiki/liquidity-risk-premium) risks, as massive concurrent sell-offs can dry up market liquidity, making it difficult to execute trades at desired prices.
 
 Another significant aspect of this interaction is the potential for cascading events. A notable example occurred during the 2008 financial crisis, where widespread deleveraging by financial institutions led to severe market disruptions. Algorithmic systems, designed to manage portfolios through real-time adjustments, were not immune to these systemic shocks, as the programmed actions based on historical data proved inadequate for the unprecedented conditions.
 
-Understanding the interplay between deleveraging and algorithmic trading requires recognizing the sensitivity of algorithms to market conditions and the potential for amplifying volatility. Algorithm designers and traders must carefully calibrate risk parameters to avoid unintended consequences of automated deleveraging, ensuring algorithms are not just reactive but anticipative of potential market shocks.
+Understanding the interplay between deleveraging and algorithmic trading requires recognizing the sensitivity of algorithms to market conditions and the potential for amplifying [volatility](/wiki/volatility-trading-strategies). Algorithm designers and traders must carefully calibrate risk parameters to avoid unintended consequences of automated deleveraging, ensuring algorithms are not just reactive but anticipative of potential market shocks.
 
 ## References & Further Reading
 

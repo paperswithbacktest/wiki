@@ -24,9 +24,9 @@ In simple terms, traditional ETFs are like following a recipe exactly as it's wr
 
 ## What are the common strategies used in Smart Beta ETFs?
 
-Smart Beta ETFs use different strategies to pick and weigh stocks in their portfolios. One common strategy is called "value," where the ETF looks for stocks that seem cheap compared to what they're really worth. Another strategy is "growth," where the ETF picks stocks of companies that are expected to grow a lot in the future. There's also "momentum," which means the ETF buys stocks that have been going up in price recently, hoping they'll keep going up.
+Smart Beta ETFs use different strategies to pick and weigh stocks in their portfolios. One common strategy is called "value," where the [ETF](/wiki/etf-trading-strategies) looks for stocks that seem cheap compared to what they're really worth. Another strategy is "growth," where the ETF picks stocks of companies that are expected to grow a lot in the future. There's also "[momentum](/wiki/momentum)," which means the ETF buys stocks that have been going up in price recently, hoping they'll keep going up.
 
-Another strategy is "low volatility," where the ETF picks stocks that don't move up and down as much as others, aiming for a smoother ride for investors. "Dividend" strategies focus on companies that pay out a lot of money to their shareholders, which can be good for people looking for regular income. "Quality" strategies look for companies that are financially strong and well-managed.
+Another strategy is "low [volatility](/wiki/volatility-trading-strategies)," where the ETF picks stocks that don't move up and down as much as others, aiming for a smoother ride for investors. "Dividend" strategies focus on companies that pay out a lot of money to their shareholders, which can be good for people looking for regular income. "Quality" strategies look for companies that are financially strong and well-managed.
 
 These strategies help Smart Beta ETFs try to do better than the overall market. By focusing on these specific factors, the ETFs aim to give investors a better chance at higher returns or less risk, depending on what they're looking for.
 
@@ -38,7 +38,7 @@ Another benefit is that Smart Beta ETFs can help you manage risk better. Some of
 
 ## What are the potential risks associated with Smart Beta ETFs?
 
-Smart Beta ETFs try to do better than the overall market, but they can be riskier than regular ETFs. Because they focus on certain types of stocks, like those that are expected to grow a lot or pay high dividends, they might not do as well if those kinds of stocks fall out of favor. For example, if everyone suddenly decides they don't want to buy growth stocks anymore, a Smart Beta ETF that focuses on growth could lose a lot of value.
+Smart Beta ETFs try to do better than the overall market, but they can be riskier than regular ETFs. Because they focus on certain types of stocks, like those that are expected to grow a lot or pay high dividends, they might not do as well if those kinds of stocks fall out of favor. For example, if everyone suddenly decides they don't want to buy [growth stocks](/wiki/growth-stocks) anymore, a Smart Beta ETF that focuses on growth could lose a lot of value.
 
 Another risk is that Smart Beta ETFs can be more complex. They use special rules to pick stocks, which can be hard to understand. If you don't fully get how the ETF works, you might be surprised by how it performs. Also, while Smart Beta ETFs are usually cheaper than having someone pick stocks for you, they can still cost more than the simplest index funds. So, you need to think about whether the possible extra returns are worth the extra cost and complexity.
 
@@ -50,7 +50,7 @@ For example, if you already have a lot of money in big, well-known companies, yo
 
 ## What are some examples of popular Smart Beta ETFs?
 
-Some popular Smart Beta ETFs include the iShares Edge MSCI USA Value Factor ETF (VLUE) and the Vanguard Dividend Appreciation ETF (VIG). The iShares Edge MSCI USA Value Factor ETF focuses on stocks that are considered good value, meaning they might be cheaper than they should be based on their earnings or other measures. This ETF tries to beat the market by picking these value stocks. On the other hand, the Vanguard Dividend Appreciation ETF looks for companies that have a history of increasing their dividends over time. This can be a good choice for people who want regular income from their investments.
+Some popular Smart Beta ETFs include the iShares Edge MSCI USA Value Factor ETF (VLUE) and the Vanguard Dividend Appreciation ETF (VIG). The iShares Edge MSCI USA Value Factor ETF focuses on stocks that are considered good value, meaning they might be cheaper than they should be based on their earnings or other measures. This ETF tries to beat the market by [picking](/wiki/asset-class-picking) these value stocks. On the other hand, the Vanguard Dividend Appreciation ETF looks for companies that have a history of increasing their dividends over time. This can be a good choice for people who want regular income from their investments.
 
 Another example is the Invesco S&P 500 Low Volatility ETF (SPLV), which picks stocks from the S&P 500 that don't move up and down as much as others. This can help make your investments smoother and less risky. The Schwab U.S. Large-Cap Growth ETF (SCHG) is another popular Smart Beta ETF that focuses on large companies expected to grow a lot. By investing in these ETFs, you can use different strategies to try to do better than the overall market while also spreading your money across different types of stocks.
 

@@ -18,7 +18,7 @@ ETFs are popular because they offer a lot of benefits. They usually have lower f
 
 The first ETF was created in Canada in 1990. It was called the Toronto Stock Exchange Index Participation Fund, often shortened to TIPs. This ETF was designed to track the performance of the Toronto Stock Exchange, making it easier for people to invest in the Canadian market as a whole.
 
-A few years later, in 1993, the first ETF in the United States was launched. It was called the SPDR S&P 500 ETF Trust, also known as SPY. This ETF tracks the S&P 500 index, which includes 500 of the largest companies in the U.S. The creation of SPY marked a big step in the growth of ETFs, making them more popular and accessible to investors around the world.
+A few years later, in 1993, the first [ETF](/wiki/etf-trading-strategies) in the United States was launched. It was called the SPDR S&P 500 ETF Trust, also known as SPY. This ETF tracks the S&P 500 index, which includes 500 of the largest companies in the U.S. The creation of SPY marked a big step in the growth of ETFs, making them more popular and accessible to investors around the world.
 
 ## What is the name of the first ETF?
 

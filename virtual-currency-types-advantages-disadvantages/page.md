@@ -28,7 +28,7 @@ Another big difference is how they work. Traditional currency transactions are u
 
 ## What are some examples of popular virtual currencies?
 
-Some popular virtual currencies are Bitcoin and Ethereum. Bitcoin is the first and most well-known cryptocurrency. People use it to buy things online, and its value can go up and down a lot. Ethereum is another big one. It's not just a currency; it also lets people create and run special programs called smart contracts. These are like digital agreements that automatically do what they're supposed to do.
+Some popular virtual currencies are Bitcoin and Ethereum. Bitcoin is the first and most well-known [cryptocurrency](/wiki/cryptocurrency). People use it to buy things online, and its value can go up and down a lot. Ethereum is another big one. It's not just a currency; it also lets people create and run special programs called smart contracts. These are like digital agreements that automatically do what they're supposed to do.
 
 Other popular virtual currencies include Litecoin and Ripple. Litecoin is similar to Bitcoin but works faster and is easier to use for small payments. Ripple is used by banks and financial companies to move money around the world quickly and cheaply. In video games, V-Bucks in Fortnite and Robux in Roblox are also popular. These are used to buy things in the games and can only be used there.
 

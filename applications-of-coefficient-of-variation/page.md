@@ -177,7 +177,7 @@ A COV of 0.5 for Stock B signifies a lower risk per unit of expected return comp
 
 These calculations illustrate how the COV can guide investment choices, helping investors compare the risk-reward trade-offs in different portfolios. By focusing on lower COV values, traders can identify securities that offer more favorable risk-adjusted returns, thereby optimizing their portfolios for more efficient risk management. 
 
-In practice, this type of analysis can be further refined by integrating COV into algorithmic trading systems, using programming languages like Python for calculations and backtesting. For example, a Python script to calculate the COV of stocks might look like this:
+In practice, this type of analysis can be further refined by integrating COV into [algorithmic trading](/wiki/algorithmic-trading) systems, using programming languages like Python for calculations and [backtesting](/wiki/backtesting). For example, a Python script to calculate the COV of stocks might look like this:
 
 ```python
 def calculate_cov(expected_return, standard_deviation):

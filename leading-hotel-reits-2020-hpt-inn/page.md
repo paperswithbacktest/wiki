@@ -72,7 +72,7 @@ Even though 2020 was a hard year, HPT is still in a good spot for the future. Th
 
 After 2020, INN plans to grow and make its hotels better. They want to keep buying more upscale and upper midscale hotels in places where people like to travel. INN will work closely with big hotel brands like Marriott and Hilton to make sure their hotels are run well and guests have a good time. They also want to make their hotels nicer by fixing them up and adding new things that guests will like.
 
-Even though 2020 was a hard year, INN thinks they can do well in the future. They will keep a close eye on what people want when they travel and try to meet those needs. By taking good care of their hotels and picking the right places to buy new ones, INN hopes to bring in more guests and make more money. It might take some time, but with smart planning and hard work, INN believes they can keep growing and improving.
+Even though 2020 was a hard year, INN thinks they can do well in the future. They will keep a close eye on what people want when they travel and try to meet those needs. By taking good care of their hotels and [picking](/wiki/asset-class-picking) the right places to buy new ones, INN hopes to bring in more guests and make more money. It might take some time, but with smart planning and hard work, INN believes they can keep growing and improving.
 
 ## What are the expert opinions on the investment potential of HPT and INN as of the end of 2020?
 

@@ -40,9 +40,9 @@ Long-term debt, on the other hand, lasts much longer, often many years or even d
 
 ## What are the risks associated with investing in short-term paper?
 
-Investing in short-term paper can be safe, but there are still some risks to think about. One risk is called credit risk. This means that the company or government that issued the paper might not be able to pay back the money when it's due. Even though short-term paper is usually seen as safe, there's always a chance that something could go wrong with the issuer's finances. Another risk is interest rate risk. If interest rates go up after you buy short-term paper, the value of your investment might go down because new short-term papers will offer higher interest rates.
+Investing in short-term paper can be safe, but there are still some risks to think about. One risk is called credit risk. This means that the company or government that issued the paper might not be able to pay back the money when it's due. Even though short-term paper is usually seen as safe, there's always a chance that something could go wrong with the issuer's finances. Another risk is [interest rate](/wiki/interest-rate-trading-strategies) risk. If interest rates go up after you buy short-term paper, the value of your investment might go down because new short-term papers will offer higher interest rates.
 
-Another thing to consider is liquidity risk. This means that it might be hard to sell your short-term paper before it matures if you need your money back quickly. Some types of short-term paper can be harder to sell than others, especially if the market is not doing well. While these risks are usually smaller than with long-term investments, it's still important to understand them before you invest in short-term paper.
+Another thing to consider is [liquidity](/wiki/liquidity-risk-premium) risk. This means that it might be hard to sell your short-term paper before it matures if you need your money back quickly. Some types of short-term paper can be harder to sell than others, especially if the market is not doing well. While these risks are usually smaller than with long-term investments, it's still important to understand them before you invest in short-term paper.
 
 ## How is short-term paper rated, and why is this important?
 
@@ -94,7 +94,7 @@ Commercial paper, another form of short-term paper, is issued by corporations to
 
 Certificates of deposit (CDs) are time deposits offered by banks, with maturity periods ranging from a few weeks to several months. Investors are attracted by the fixed interest rates offered, although withdrawals before maturity can incur penalties.
 
-The appeal of short-term paper instruments lies in their liquidity and perceived safety. Their short maturities facilitate quick conversion to cash without substantial loss of value, making them attractive for both institutional and individual investors seeking a secure interim investment. Moreover, short-term papers typically exhibit lower price volatility compared to long-term securities, thus assuring a more stable return.
+The appeal of short-term paper instruments lies in their liquidity and perceived safety. Their short maturities facilitate quick conversion to cash without substantial loss of value, making them attractive for both institutional and individual investors seeking a secure interim investment. Moreover, short-term papers typically exhibit lower price [volatility](/wiki/volatility-trading-strategies) compared to long-term securities, thus assuring a more stable return.
 
 The combination of these characteristics underscores the role of short-term paper as a prudent option for investors managing cash reserves or looking for a safe haven during periods of financial uncertainty. It allows investors to maintain liquidity while minimizing risk, contributing to its prevalence as a staple in diversified investment portfolios.
 
@@ -129,5 +129,5 @@ The combination of these characteristics underscores the role of short-term pape
    - Coursera and edX: These platforms offer courses related to financial markets, algorithmic trading, and quantitative finance by top universities and institutions.
    - Khan Academy (www.khanacademy.org): Free educational platform that includes an introduction to financial markets and instruments.
 
-These resources provide a broad foundation for understanding financial instruments, short-term paper, and algorithmic trading, offering opportunities for both introductory learning and advanced exploration.
+These resources provide a broad foundation for understanding financial instruments, short-term paper, and [algorithmic trading](/wiki/algorithmic-trading), offering opportunities for both introductory learning and advanced exploration.
 

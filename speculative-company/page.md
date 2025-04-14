@@ -54,7 +54,7 @@ Another way to spot a speculative company is by seeing how much their stock pric
 
 One successful example of a speculative company is Tesla. When Tesla started, it was a new company that didn't make much money. It was working on electric cars, which was a new idea at the time. A lot of people thought Tesla might fail because making cars is hard and expensive. But Tesla kept working on its ideas and now it's a big company that makes a lot of money. People who bought Tesla stock when it was new made a lot of money because the stock price went up a lot.
 
-Another example is Amazon. When Amazon started, it was just a website that sold books. It didn't make much money and a lot of people thought it might not succeed. But Amazon kept growing and adding new things to sell. Now it's a huge company that sells all kinds of things and even has its own delivery service. People who invested in Amazon when it was new made a lot of money because the stock price went up a lot over time.
+Another example is Amazon. When Amazon started, it was just a website that sold [books](/wiki/algo-trading-books). It didn't make much money and a lot of people thought it might not succeed. But Amazon kept growing and adding new things to sell. Now it's a huge company that sells all kinds of things and even has its own delivery service. People who invested in Amazon when it was new made a lot of money because the stock price went up a lot over time.
 
 These examples show that speculative companies can be very successful if they have good ideas and work hard. But it's important to remember that not all speculative companies will do well. Some will fail, and people who invest in them could lose money. That's why it's important to understand the risks before deciding to invest in a speculative company.
 
@@ -106,7 +106,7 @@ $$
 
 where $P(t)$ is the price at time $t$, $\bar{P}$ is the historical average price, $\theta$ is the speed of reversion, and $\epsilon$ is a random error term.
 
-Despite its advantages, algo trading is not without challenges. It requires robust technological infrastructure and precise algorithmic design to prevent issues like coding errors or technical glitches. Additionally, the increased use of algo trading has prompted discussions regarding its impact on market stability, particularly concerning the potential for increased volatility and the influence of high-frequency trading on market outcomes. 
+Despite its advantages, algo trading is not without challenges. It requires robust technological infrastructure and precise algorithmic design to prevent issues like coding errors or technical glitches. Additionally, the increased use of algo trading has prompted discussions regarding its impact on market stability, particularly concerning the potential for increased [volatility](/wiki/volatility-trading-strategies) and the influence of high-frequency trading on market outcomes. 
 
 Overall, the role of algorithmic trading in modern finance is transformative, offering new opportunities for efficiency and innovation. As technology continues to advance, the tools and strategies employed by algorithmic trading are likely to evolve further, reshaping the financial landscape and the way trading is conducted.
 

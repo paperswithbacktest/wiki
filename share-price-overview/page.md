@@ -74,7 +74,7 @@ Sometimes, technical analysts use other tools like trend lines and chart pattern
 
 ## What are the implications of share price volatility for investors?
 
-Share price volatility means that the price of a share can go up and down a lot in a short time. For investors, this can be both good and bad. If the price goes up a lot, they can make a lot of money quickly. But if the price goes down a lot, they can lose a lot of money too. This makes investing in volatile shares riskier than investing in shares that don't move around as much. Investors need to think about how much risk they are okay with before they buy shares that can be very volatile.
+Share price [volatility](/wiki/volatility-trading-strategies) means that the price of a share can go up and down a lot in a short time. For investors, this can be both good and bad. If the price goes up a lot, they can make a lot of money quickly. But if the price goes down a lot, they can lose a lot of money too. This makes investing in volatile shares riskier than investing in shares that don't move around as much. Investors need to think about how much risk they are okay with before they buy shares that can be very volatile.
 
 Volatility can also make it hard for investors to know when to buy or sell shares. If the price is moving up and down a lot, it can be hard to tell if the price is going to keep going up or if it's going to start going down. This can make investors feel unsure and worried. Some investors might try to use this volatility to make quick profits by buying and selling shares in a short time. But this can be risky and they might end up losing money if they guess wrong about which way the price will go.
 

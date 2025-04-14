@@ -22,7 +22,7 @@ These changes can affect a company's financial reports. If there are big actuari
 
 ## What causes actuarial gains and losses?
 
-Actuarial gains and losses happen when what actuaries predict doesn't match what actually happens. Actuaries are people who use math and statistics to guess things like how long people will live or how much money a pension plan will need. If their guesses are wrong, it can lead to either more money (a gain) or less money (a loss) than the plan expected.
+Actuarial gains and losses happen when what actuaries predict doesn't match what actually happens. Actuaries are people who use math and [statistics](/wiki/bayesian-statistics) to guess things like how long people will live or how much money a pension plan will need. If their guesses are wrong, it can lead to either more money (a gain) or less money (a loss) than the plan expected.
 
 One common reason for actuarial gains and losses is changes in how long people live. If people live longer than expected, the pension plan has to pay out money for more years, which can cause an actuarial loss. But if people don't live as long as expected, the plan might not have to pay out as much money, leading to an actuarial gain. Another reason can be changes in the economy, like interest rates going up or down. If interest rates change, it can affect how much money the pension plan's investments earn, which can also lead to gains or losses.
 

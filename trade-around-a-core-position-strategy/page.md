@@ -100,7 +100,7 @@ Where $P_{\text{core}}$ is the value allocated to the core position.
 
 ### Impact on Long-term Market Sentiment
 
-Core positions can significantly influence long-term market sentiment, acting as a stabilizing force within an investment portfolio. They reflect investor confidence in specific sectors or assets, often providing a buffer against market volatility. As investors hold onto these positions over extended periods, they can contribute to a perception of market stability, potentially attracting further investment and reducing volatility.
+Core positions can significantly influence long-term market sentiment, acting as a stabilizing force within an investment portfolio. They reflect investor confidence in specific sectors or assets, often providing a buffer against market [volatility](/wiki/volatility-trading-strategies). As investors hold onto these positions over extended periods, they can contribute to a perception of market stability, potentially attracting further investment and reducing volatility.
 
 ### Managing Core Positions with Short-term Trades
 

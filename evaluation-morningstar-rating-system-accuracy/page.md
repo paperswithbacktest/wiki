@@ -58,7 +58,7 @@ One big difference is that Morningstar's ratings are updated every month, which 
 
 ## What studies have been conducted on the accuracy of Morningstar ratings?
 
-Some studies have looked at how well Morningstar ratings can predict if a fund will do well in the future. One study by researchers at the University of Chicago found that funds with high Morningstar ratings, like four or five stars, did better than funds with lower ratings over the next year. But the difference was small, and the ratings didn't help much after that first year. This means that while the ratings can give a little bit of help in picking funds, they don't tell the whole story about what might happen in the future.
+Some studies have looked at how well Morningstar ratings can predict if a fund will do well in the future. One study by researchers at the University of Chicago found that funds with high Morningstar ratings, like four or five stars, did better than funds with lower ratings over the next year. But the difference was small, and the ratings didn't help much after that first year. This means that while the ratings can give a little bit of help in [picking](/wiki/asset-class-picking) funds, they don't tell the whole story about what might happen in the future.
 
 Another study by Morningstar itself looked at how their ratings worked over a longer time. They found that funds with higher ratings did tend to do better than funds with lower ratings over three, five, and ten years. But they also said that the ratings are just one tool and should be used with other information. Both studies show that Morningstar ratings can be useful, but they are not perfect and should not be the only thing people look at when choosing where to invest their money.
 

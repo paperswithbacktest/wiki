@@ -76,7 +76,7 @@ Another way the NMS rules affect brokers and investors is by making trading easi
 
 ## What future developments are anticipated for the National Market System?
 
-In the future, the National Market System (NMS) might change a lot because of new technology. One big change could be even more use of computers and artificial intelligence. These tools could help make trading even faster and help find the best prices for stocks even quicker. The NMS might also start using blockchain technology, which is a way to keep records that is very safe and hard to change. This could make the market even more fair and trustworthy.
+In the future, the National Market System (NMS) might change a lot because of new technology. One big change could be even more use of computers and [artificial intelligence](/wiki/ai-artificial-intelligence). These tools could help make trading even faster and help find the best prices for stocks even quicker. The NMS might also start using blockchain technology, which is a way to keep records that is very safe and hard to change. This could make the market even more fair and trustworthy.
 
 Another thing that might happen is that the NMS could start working with more types of investments, not just stocks. This could include things like cryptocurrencies and other new kinds of money. As the world changes, the NMS will need to keep up and make sure it can handle all these new ways of trading. The goal will always be to make the market fair and easy for everyone to use, no matter what new technologies come along.
 

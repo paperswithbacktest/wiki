@@ -18,7 +18,7 @@ In simple terms, imagine you want to buy a stock. With sub-millisecond trading, 
 
 Speed is important in trading because it can make a big difference in how much money you make or lose. In the world of trading, prices can change very quickly. If you can buy or sell something just a little bit faster than someone else, you might get a better price. This is especially true in high-frequency trading, where traders use computers to make many trades in a short amount of time. Being faster can mean getting the best deals before anyone else does.
 
-Another reason speed matters is that it helps traders take advantage of small price differences in different markets. For example, if the price of a stock is slightly different on two exchanges, a fast trader can buy it on the cheaper exchange and sell it on the more expensive one, making a quick profit. This is called arbitrage, and it relies on being able to act very quickly. Without speed, these small opportunities can disappear before a trader can do anything about them.
+Another reason speed matters is that it helps traders take advantage of small price differences in different markets. For example, if the price of a stock is slightly different on two exchanges, a fast trader can buy it on the cheaper exchange and sell it on the more expensive one, making a quick profit. This is called [arbitrage](/wiki/arbitrage), and it relies on being able to act very quickly. Without speed, these small opportunities can disappear before a trader can do anything about them.
 
 ## How does sub-millisecond trading differ from traditional trading?
 
@@ -42,7 +42,7 @@ Another benefit is that sub-millisecond trading can help traders do something ca
 
 Sub-millisecond trading can be risky because it relies a lot on technology. If something goes wrong with the computers or the networks, traders can lose money fast. For example, if there's a delay or a glitch, a trader might end up buying or selling at the wrong time. Also, these systems are complicated and can be hard to understand, so mistakes can happen even if everything is working right.
 
-Another risk is that sub-millisecond trading can make the market more unstable. When lots of traders are making super fast trades, small changes can turn into big swings in prices. This can lead to something called a "flash crash," where prices drop suddenly and then bounce back just as fast. This kind of volatility can scare other investors and make the market feel unpredictable.
+Another risk is that sub-millisecond trading can make the market more unstable. When lots of traders are making super fast trades, small changes can turn into big swings in prices. This can lead to something called a "flash crash," where prices drop suddenly and then bounce back just as fast. This kind of [volatility](/wiki/volatility-trading-strategies) can scare other investors and make the market feel unpredictable.
 
 ## How can a trader set up a system for sub-millisecond trading?
 
@@ -66,7 +66,7 @@ Another way market makers use sub-millisecond trading is by taking advantage of 
 
 Sub-millisecond trading can make the market more liquid. Liquidity means how easy it is to buy or sell something without the price changing a lot. When traders can buy and sell really fast, they can always be ready to trade. This means there are always people ready to buy or sell, which makes it easier for everyone else to trade too. If someone wants to sell a stock, they can find a buyer quickly, and if someone wants to buy, they can find a seller fast. This helps keep the market moving smoothly.
 
-However, sub-millisecond trading can also cause problems with liquidity. Sometimes, when lots of traders are making super fast trades, it can lead to big swings in prices. If the market gets too wild, some traders might get scared and stop trading. This can make it harder to find someone to buy or sell with, which can actually make the market less liquid. So, while fast trading can help keep the market liquid most of the time, it can also make things more unpredictable and sometimes less liquid when things get out of control.
+However, sub-millisecond trading can also cause problems with [liquidity](/wiki/liquidity-risk-premium). Sometimes, when lots of traders are making super fast trades, it can lead to big swings in prices. If the market gets too wild, some traders might get scared and stop trading. This can make it harder to find someone to buy or sell with, which can actually make the market less liquid. So, while fast trading can help keep the market liquid most of the time, it can also make things more unpredictable and sometimes less liquid when things get out of control.
 
 ## How can one measure the performance of sub-millisecond trading systems?
 
@@ -76,7 +76,7 @@ Another way to measure performance is by looking at how much money the system is
 
 ## What are the future trends and developments in sub-millisecond trading?
 
-In the future, sub-millisecond trading is likely to get even faster and more advanced. As technology keeps improving, the computers and networks used for trading will become even quicker. This means traders will be able to make decisions and act on them in even less time. New kinds of algorithms and artificial intelligence might also help traders find even smaller price differences and make more money from them. These advancements could make sub-millisecond trading more common and important in the world of finance.
+In the future, sub-millisecond trading is likely to get even faster and more advanced. As technology keeps improving, the computers and networks used for trading will become even quicker. This means traders will be able to make decisions and act on them in even less time. New kinds of algorithms and [artificial intelligence](/wiki/ai-artificial-intelligence) might also help traders find even smaller price differences and make more money from them. These advancements could make sub-millisecond trading more common and important in the world of finance.
 
 However, there might also be more rules and regulations to make sure this fast trading doesn't cause problems in the market. Regulators might come up with new ways to watch the market and stop any bad effects from super fast trading. They might also want to make sure everyone has a fair chance to trade, even if they don't have the fastest technology. Balancing these new technologies with the need to keep the market stable and fair will be a big challenge in the future of sub-millisecond trading.
 

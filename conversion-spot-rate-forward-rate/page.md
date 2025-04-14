@@ -18,7 +18,7 @@ The main difference between the two is the timing of the transaction. Spot rates
 
 ## How can the spot rate be used to determine the forward rate?
 
-The spot rate can help us figure out the forward rate by using something called the interest rate parity theory. This theory says that the difference between the forward rate and the spot rate is due to the interest rates of the two currencies involved. If you know the spot rate and the interest rates for both currencies, you can calculate what the forward rate should be. It's like predicting the future price based on what's happening now and what's expected to happen with interest rates.
+The spot rate can help us figure out the forward rate by using something called the [interest rate](/wiki/interest-rate-trading-strategies) parity theory. This theory says that the difference between the forward rate and the spot rate is due to the interest rates of the two currencies involved. If you know the spot rate and the interest rates for both currencies, you can calculate what the forward rate should be. It's like predicting the future price based on what's happening now and what's expected to happen with interest rates.
 
 For example, if the spot rate for US dollars to Euros is 1 USD = 0.85 EUR, and the interest rate for USD is 2% while the interest rate for EUR is 0.5%, you can use a formula to find out the forward rate. The formula takes into account how much more you would earn by investing in one currency over the other for a certain period. This way, even though the spot rate is immediate, it helps set the forward rate by considering future interest rate differences.
 

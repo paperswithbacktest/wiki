@@ -121,7 +121,7 @@ $$
 
 Therefore, a higher inventory turnover ratio corresponds to a lower DSI, indicating efficient inventory management. A careful analysis of both metrics provides insights into a company's inventory practices.
 
-In what ways can algorithmic trading benefit from DSI data?
+In what ways can [algorithmic trading](/wiki/algorithmic-trading) benefit from DSI data?
 
 Algorithmic trading can significantly benefit from incorporating DSI data in several ways:
 

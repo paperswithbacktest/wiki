@@ -84,7 +84,7 @@ On the other hand, if the long-term changes make an economy weaker, the country'
 
 Currency valuation is a critical aspect of the global financial landscape, essentially determining the value of one currency relative to another. This valuation is influenced by several key factors, including inflation, interest rates, and economic stability, each playing a vital role in shaping the dynamics of currency exchange rates.
 
-Inflation is a significant factor in currency valuation. It measures the rate at which the general level of prices for goods and services rises, eroding purchasing power. When inflation is high, a currency typically weakens because it can purchase fewer goods and services. For instance, if a country has an inflation rate higher than its trading partners, its currency might depreciate as foreign investors seek higher purchasing power elsewhere. The formula for calculating the inflation rate is:
+Inflation is a significant [factor](/wiki/factor-investing) in currency valuation. It measures the rate at which the general level of prices for goods and services rises, eroding purchasing power. When inflation is high, a currency typically weakens because it can purchase fewer goods and services. For instance, if a country has an inflation rate higher than its trading partners, its currency might depreciate as foreign investors seek higher purchasing power elsewhere. The formula for calculating the inflation rate is:
 
 $$
 \text{Inflation Rate} = \left( \frac{\text{CPI}_{\text{current year}} - \text{CPI}_{\text{previous year}}}{\text{CPI}_{\text{previous year}}} \right) \times 100

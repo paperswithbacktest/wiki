@@ -30,7 +30,7 @@ In 1991, India made big changes to its economy, and the rupee started to float f
 
 ## What are the denominations of Indian Rupee notes and coins?
 
-Indian Rupee notes come in different sizes. You can find notes of 10, 20, 50, 100, 200, 500, and 2000 Rupees. Each note has a different color and design so people can easily tell them apart. The smaller notes like 10 and 20 Rupees are used a lot for everyday buying. The bigger notes like 500 and 2000 Rupees are used less often, but they are handy for bigger purchases or when you need to carry less money.
+Indian Rupee notes come in different sizes. You can find notes of 10, 20, 50, 100, 200, 500, and 2000 Rupees. Each note has a different color and design so people can easily tell them apart. The smaller notes like 10 and 20 Rupees are used a lot for everyday buying. The bigger notes like 500 and 2000 Rupees are used less often, but they are handy for bigger purchases or when you need to [carry](/wiki/carry-trading) less money.
 
 Indian Rupee coins also come in different values. You can find coins of 1, 2, 5, and 10 Rupees. The 1 Rupee coin is the smallest and is used a lot for small purchases. The 2 and 5 Rupee coins are a bit bigger and are handy for things that cost a little more. The 10 Rupee coin is the biggest and is used less often than the smaller coins. All these coins help make it easy to pay for things without always needing to use notes.
 

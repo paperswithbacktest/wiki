@@ -84,7 +84,7 @@ To deal with this, they also use Gamma hedging. They keep an eye on how fast the
 
 ## How does Gamma Hedging work?
 
-Gamma hedging is a technique employed by options traders to manage the curvature, or convexity, of their portfolio's delta—the sensitivity of the option’s price to changes in the price of the underlying asset. The main objective is to maintain a delta-neutral position, mitigating the impact of large and abrupt price movements in the underlying asset. This strategy is vital in environments with high volatility and rapidly fluctuating market conditions.
+Gamma hedging is a technique employed by options traders to manage the curvature, or convexity, of their portfolio's delta—the sensitivity of the option’s price to changes in the price of the underlying asset. The main objective is to maintain a delta-neutral position, mitigating the impact of large and abrupt price movements in the underlying asset. This strategy is vital in environments with high [volatility](/wiki/volatility-trading-strategies) and rapidly fluctuating market conditions.
 
 To implement gamma hedging, traders frequently adjust their portfolios by adding or removing options, effectively balancing their gamma exposure. Gamma ($\Gamma$) itself is the second derivative of the option’s price with respect to the price of the underlying asset, mathematically represented as:
 
@@ -203,7 +203,7 @@ def trade_gamma(gamma_total, portfolio):
 
 Despite its robustness, delta-gamma hedging can present challenges. It requires continuous monitoring and adaptation, which can be resource-intensive. Furthermore, markets are dynamic, and models may not perfectly capture real-world complexities, leading to basis risk. Liquidity constraints can also hinder the timely execution of hedges, especially in volatile market conditions.
 
-Nonetheless, the integration of algorithmic trading technologies has mitigated some of these challenges, making delta-gamma hedging a vital tool for sophisticated traders. By balancing the intricacies of both delta and gamma, this combined strategy delivers a comprehensive framework to navigate the complexities of modern financial markets effectively.
+Nonetheless, the integration of [algorithmic trading](/wiki/algorithmic-trading) technologies has mitigated some of these challenges, making delta-gamma hedging a vital tool for sophisticated traders. By balancing the intricacies of both delta and gamma, this combined strategy delivers a comprehensive framework to navigate the complexities of modern financial markets effectively.
 
 ## References & Further Reading
 

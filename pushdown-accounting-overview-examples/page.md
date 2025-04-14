@@ -18,7 +18,7 @@ This method is useful because it makes the financial statements of the bought co
 
 Pushdown accounting is used to make the financial statements of a company that has been bought more accurate and relevant to its new owners. When a company is bought, the price paid might be different from what the company's books show. By using pushdown accounting, the new values of the company's assets and liabilities are adjusted to match the purchase price. This helps everyone see the company's worth from the buyer's perspective, which is important for making good decisions about the company's future.
 
-This method is helpful because it gives a clearer picture of the company's financial health after the purchase. It's like starting with a fresh set of books that reflect what the new owner paid. This can be important for planning, managing, and reporting the company's finances. However, not all places allow pushdown accounting, so it's important to check the rules where the company is based.
+This method is helpful because it gives a clearer picture of the company's financial health after the purchase. It's like starting with a fresh set of [books](/wiki/algo-trading-books) that reflect what the new owner paid. This can be important for planning, managing, and reporting the company's finances. However, not all places allow pushdown accounting, so it's important to check the rules where the company is based.
 
 ## How does pushdown accounting affect financial statements?
 

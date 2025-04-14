@@ -166,5 +166,5 @@ Moreover, managing activity cost drivers provides valuable information for price
 8. **Online Courses on Coursera and edX**  
    - Platforms like Coursera and edX offer numerous courses focusing on cost accounting, finance, and algorithmic trading. These courses can provide both foundational knowledge and advanced insights from industry experts and academia.
 
-These resources should provide a comprehensive starting point for readers interested in expanding their understanding of cost accounting and algorithmic trading, catering to both theoretical and practical applications.
+These resources should provide a comprehensive starting point for readers interested in expanding their understanding of cost accounting and [algorithmic trading](/wiki/algorithmic-trading), catering to both theoretical and practical applications.
 

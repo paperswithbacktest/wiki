@@ -40,7 +40,7 @@ Another difference is that a Wage Earner's Plan lasts for three to five years, a
 
 ## What steps are involved in filing for a Wage Earner's Plan?
 
-Filing for a Wage Earner's Plan starts with talking to a bankruptcy lawyer. The lawyer will help you fill out the right forms and gather all the information you need. You'll need to list all your debts, like credit cards, car loans, and mortgages, and show how much money you make and spend each month. You'll also need to take a credit counseling course before you can file. Once everything is ready, your lawyer will file the plan with the bankruptcy court.
+Filing for a Wage Earner's Plan starts with talking to a bankruptcy lawyer. The lawyer will help you fill out the right forms and gather all the information you need. You'll need to list all your debts, like credit cards, car loans, and mortgages, and show how much money you make and spend each month. You'll also need to take a credit counseling [course](/wiki/best-algorithmic-trading-courses) before you can file. Once everything is ready, your lawyer will file the plan with the bankruptcy court.
 
 After you file, a court-appointed trustee will look at your plan. The trustee will check if your budget and payment plan make sense. There will be a meeting where you, your lawyer, and your creditors can talk about the plan. If everyone agrees, the court will approve your plan, and you'll start making monthly payments to the trustee. The trustee will then use this money to pay your creditors. You'll need to stick to your budget and make all your payments on time for three to five years. If you do, any remaining debts that can be forgiven at the end of the plan will be, giving you a fresh start.
 

@@ -60,7 +60,7 @@ The WFE also runs a project called the WFE Green Equities Initiative. This proje
 
 ## How does the WFE contribute to the understanding of market trends and statistics?
 
-The World Federation of Exchanges (WFE) helps people understand market trends and statistics by collecting and sharing data from its members. They gather information about how much trading is happening, what kinds of things are being traded, and how the markets are doing. By putting all this information together, the WFE can see big patterns and trends that are happening around the world. They then share this information with their members and the public so everyone can see what is going on in the markets.
+The World Federation of Exchanges (WFE) helps people understand market trends and [statistics](/wiki/bayesian-statistics) by collecting and sharing data from its members. They gather information about how much trading is happening, what kinds of things are being traded, and how the markets are doing. By putting all this information together, the WFE can see big patterns and trends that are happening around the world. They then share this information with their members and the public so everyone can see what is going on in the markets.
 
 The WFE also works on making sure that the data they collect is easy to understand and use. They set rules for how exchanges should report their data, so it is all in the same format. This makes it easier for people to compare information from different exchanges and see what is happening in different parts of the world. By doing this, the WFE helps people make better decisions about investing and understand how the global financial markets are changing.
 
@@ -72,7 +72,7 @@ The WFE works with its members to study and test these new technologies. They ho
 
 ## How does the WFE address issues of sustainability and ESG (Environmental, Social, and Governance) in the financial markets?
 
-The World Federation of Exchanges (WFE) cares a lot about making the financial markets more sustainable and focused on Environmental, Social, and Governance (ESG) issues. They do this by encouraging their members to think about how their business affects the environment and society. The WFE has started projects like the Green Equities Initiative, which helps companies be more open about their efforts to help the environment. By doing this, the WFE wants to make it easier for people to invest in companies that are good for the planet.
+The World Federation of Exchanges (WFE) cares a lot about making the financial markets more sustainable and focused on Environmental, Social, and Governance ([ESG](/wiki/esg-investing)) issues. They do this by encouraging their members to think about how their business affects the environment and society. The WFE has started projects like the Green Equities Initiative, which helps companies be more open about their efforts to help the environment. By doing this, the WFE wants to make it easier for people to invest in companies that are good for the planet.
 
 The WFE also works on setting rules and standards for how exchanges should report on ESG issues. This helps make sure that everyone is using the same rules when they share information about how they are doing with sustainability. By having clear and consistent information, people can make better choices about where to invest their money. The WFE believes that by focusing on ESG, the financial markets can help make the world a better place.
 

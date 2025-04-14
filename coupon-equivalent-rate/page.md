@@ -66,7 +66,7 @@ The key difference between these two rates is how they handle the investment's p
 
 The Coupon Equivalent Rate (CER) is mainly used for short-term investments like Treasury bills, which don't pay interest in the usual way. These investments are bought at a lower price and then paid back at their full value when they mature. The CER helps figure out what the annual interest rate would be if the investment paid interest like a regular bond. This makes it easier to compare short-term investments to other options that pay interest every year.
 
-While the CER is great for comparing short-term investments, it's not usually used for investments that pay interest more often than once a year. If an investment pays interest every six months or every month, the CER might not give you the right picture of how much you're earning. For these kinds of investments, other measures like the Yield to Maturity (YTM) are better because they take into account the timing of the interest payments. So, while the CER is helpful, it's best used for investments that don't pay interest until they mature.
+While the CER is great for comparing short-term investments, it's not usually used for investments that pay interest more often than once a year. If an investment pays interest every six months or every month, the CER might not give you the right picture of how much you're [earning](/wiki/earning-announcement). For these kinds of investments, other measures like the Yield to Maturity (YTM) are better because they take into account the timing of the interest payments. So, while the CER is helpful, it's best used for investments that don't pay interest until they mature.
 
 ## How do changes in interest rates impact the Coupon Equivalent Rate?
 
@@ -195,5 +195,5 @@ Understanding these characteristics and metrics is crucial for evaluating bond i
 
 10. Fabozzi, Frank J., ed. "Fixed Income Analysis." CFA Institute Investment Series, John Wiley & Sons, 2015. This textbook provides in-depth coverage of fixed income markets, including quantitative tools used in the analysis and evaluation of bonds. 
 
-These references provide a deep insight into bond markets, algorithmic trading, and financial indicators, equipping readers with the knowledge to understand and evaluate various financial metrics and strategies effectively.
+These references provide a deep insight into bond markets, [algorithmic trading](/wiki/algorithmic-trading), and financial indicators, equipping readers with the knowledge to understand and evaluate various financial metrics and strategies effectively.
 

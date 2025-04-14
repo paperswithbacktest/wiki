@@ -92,7 +92,7 @@ Another advanced technique is using data analytics. This means looking at a lot 
 
 ## What are Risk Mitigation Techniques?
 
-In algorithmic trading, risk mitigation is critical to prevent substantial losses due to unforeseen market changes and [volatility](/wiki/volatility-trading-strategies). To achieve this, traders employ advanced techniques like hedging and quantitative risk analysis. 
+In [algorithmic trading](/wiki/algorithmic-trading), risk mitigation is critical to prevent substantial losses due to unforeseen market changes and [volatility](/wiki/volatility-trading-strategies). To achieve this, traders employ advanced techniques like hedging and quantitative risk analysis. 
 
 Hedging involves creating positions that offset potential losses in other investments. By trading instruments that have inverse relationships, traders can protect their portfolios from adverse price movements. For instance, if a trader holds a long position on a stock expecting it to rise, they can simultaneously take a short position on a similar security or an index to hedge against potential losses if the stock price falls. This approach minimizes the financial impact of unexpected downturns in the market.
 

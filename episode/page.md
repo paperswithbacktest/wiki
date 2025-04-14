@@ -19,7 +19,7 @@ Episode machine learning and traditional machine learning differ mainly in how t
 
 In contrast, episode machine learning breaks the data into small subsets called episodes. Each episode contains a support set and a query set. The model learns from the support set, which might only have a few examples, and then it's tested on the query set to see if it can apply what it learned. This method is especially useful for few-shot learning, where the goal is to learn new things quickly with very little data. So, if you're teaching the model to recognize cats and dogs, you might show it just a few pictures in each episode, and it would need to learn from these limited examples to perform well on new pictures.
 
-This difference in training approach makes episode machine learning more adaptable to new tasks with limited data. Traditional machine learning might struggle if you suddenly need to recognize a new type of animal with only a few pictures, but episode machine learning is designed to handle such scenarios better.
+This difference in training approach makes episode [machine learning](/wiki/machine-learning) more adaptable to new tasks with limited data. Traditional machine learning might struggle if you suddenly need to recognize a new type of animal with only a few pictures, but episode machine learning is designed to handle such scenarios better.
 
 ## What are the key components of an episode in machine learning?
 
@@ -29,7 +29,7 @@ The query set is like a test. After the model learns from the support set, it tr
 
 ## Can you explain the concept of an episode in the context of reinforcement learning?
 
-In reinforcement learning, an episode refers to a complete sequence of interactions between an agent and its environment, from the start to the end of a task. Think of it like playing a game from the beginning to the end. During an episode, the agent takes actions based on its current state, receives rewards or penalties, and moves to new states until it reaches the end of the task, which could be winning the game or running out of time.
+In [reinforcement learning](/wiki/reinforcement-learning), an episode refers to a complete sequence of interactions between an agent and its environment, from the start to the end of a task. Think of it like playing a game from the beginning to the end. During an episode, the agent takes actions based on its current state, receives rewards or penalties, and moves to new states until it reaches the end of the task, which could be winning the game or running out of time.
 
 These episodes help the agent learn how to behave better over time. By going through many episodes, the agent can try different strategies, see which ones work best, and improve its policy for making decisions. Each episode gives the agent new experiences to learn from, helping it to gradually get better at the task until it can perform well consistently.
 
@@ -49,7 +49,7 @@ In reinforcement learning, episodes represent complete sequences of interactions
 
 To evaluate the performance of episode-based machine learning models, common metrics include accuracy, precision, recall, and F1 score. Accuracy measures how often the model's predictions are correct. Precision looks at how many of the positive predictions the model made were actually correct, while recall checks how many of the actual positive cases the model was able to find. The F1 score is a way to combine precision and recall into one number, giving a balanced view of the model's performance. These metrics help understand how well the model is doing on the tasks it's trained for, especially in few-shot learning where the model needs to learn from just a few examples.
 
-In reinforcement learning, where episodes are used to train agents, different metrics are often used. One common metric is the cumulative reward, which is the total reward the agent gets over an episode. If the agent's goal is to reach the end of a maze, the cumulative reward might be higher if it finds the shortest path. Another important metric is the average reward per episode, which shows how well the agent is doing over many tries. These metrics help track the agent's learning progress and see if it's getting better at the task over time.
+In reinforcement learning, where episodes are used to train [agents](/wiki/agents), different metrics are often used. One common metric is the cumulative reward, which is the total reward the agent gets over an episode. If the agent's goal is to reach the end of a maze, the cumulative reward might be higher if it finds the shortest path. Another important metric is the average reward per episode, which shows how well the agent is doing over many tries. These metrics help track the agent's learning progress and see if it's getting better at the task over time.
 
 ## What are the challenges faced when implementing episode machine learning?
 
@@ -71,7 +71,7 @@ Another technique is using attention mechanisms. Attention helps the model focus
 
 ## How does the concept of episodes integrate with deep learning?
 
-In deep learning, episodes can be used to train models, especially in few-shot learning and reinforcement learning. In few-shot learning, episodes help the model learn new tasks quickly with just a few examples. Imagine you want to teach a deep learning model to recognize a new type of animal. You can show it a few pictures of that animal in an episode, and the model uses these pictures to learn. This approach is great for deep learning because it allows the model to use its deep neural networks to understand complex patterns from limited data.
+In [deep learning](/wiki/deep-learning), episodes can be used to train models, especially in few-shot learning and reinforcement learning. In few-shot learning, episodes help the model learn new tasks quickly with just a few examples. Imagine you want to teach a deep learning model to recognize a new type of animal. You can show it a few pictures of that animal in an episode, and the model uses these pictures to learn. This approach is great for deep learning because it allows the model to use its deep neural networks to understand complex patterns from limited data.
 
 In reinforcement learning, episodes are complete sequences of interactions between an agent and its environment. For example, if a robot is learning to navigate a maze, each time it goes from the start to the end of the maze is an episode. Deep learning models, like neural networks, can be used to process the information from these episodes and learn how to make better decisions over time. By going through many episodes, the deep learning model can improve its performance, getting better at the task with each try.
 

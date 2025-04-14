@@ -28,7 +28,7 @@ The Dow is different from the S&P 500 because it has fewer companies, but it's s
 
 ## How do S&P 500 ETFs and Dow Jones ETFs differ in their composition?
 
-S&P 500 ETFs are made up of stocks from 500 big companies in the United States. These companies are picked by Standard & Poor's based on how much they're worth and how much their stocks are traded. When you invest in an S&P 500 ETF, you're investing in a wide range of companies from different industries, like technology, healthcare, and finance. This helps spread out your risk because if one industry does badly, the others might do well and balance it out.
+S&P 500 ETFs are made up of stocks from 500 big companies in the United States. These companies are picked by Standard & Poor's based on how much they're worth and how much their stocks are traded. When you invest in an S&P 500 [ETF](/wiki/etf-trading-strategies), you're investing in a wide range of companies from different industries, like technology, healthcare, and finance. This helps spread out your risk because if one industry does badly, the others might do well and balance it out.
 
 Dow Jones ETFs, on the other hand, include stocks from just 30 big companies. These companies are chosen by Dow Jones & Company based on how important they are to the economy. The Dow focuses on a smaller number of companies, but they are very well-known and influential. When you invest in a Dow Jones ETF, you're betting on the performance of these specific 30 companies. This can be riskier because if a few of these companies do badly, it can have a bigger impact on your investment.
 
@@ -50,7 +50,7 @@ Dow Jones ETFs, on the other hand, often have slightly higher expense ratios. Th
 
 ## What are the liquidity differences between S&P 500 ETFs and Dow Jones ETFs?
 
-S&P 500 ETFs usually have more liquidity than Dow Jones ETFs. Liquidity means how easy it is to buy or sell an ETF without affecting its price too much. Because S&P 500 ETFs are very popular and a lot of people want to buy and sell them, they have a lot of trading happening all the time. This means you can usually buy or sell them quickly and at a fair price.
+S&P 500 ETFs usually have more [liquidity](/wiki/liquidity-risk-premium) than Dow Jones ETFs. Liquidity means how easy it is to buy or sell an ETF without affecting its price too much. Because S&P 500 ETFs are very popular and a lot of people want to buy and sell them, they have a lot of trading happening all the time. This means you can usually buy or sell them quickly and at a fair price.
 
 Dow Jones ETFs, on the other hand, might not be as liquid. They are based on a smaller number of companies, and fewer people might be interested in them. This can mean that there's less trading happening, so it might be harder to buy or sell them without moving the price a bit. If you're looking for an ETF that's easy to trade, an S&P 500 ETF is usually a better choice.
 

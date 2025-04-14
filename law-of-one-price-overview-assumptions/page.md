@@ -18,7 +18,7 @@ However, in the real world, things are not always this simple. There can be many
 
 The Law of One Price and arbitrage are closely connected. Arbitrage is when someone buys something in one place where it's cheaper and sells it in another place where it's more expensive. This is done to make a profit from the price difference. The Law of One Price says that if there are no barriers, the same thing should cost the same everywhere. If prices are different, arbitrage can happen, which helps to make the prices the same over time.
 
-For example, if a book costs $10 in the US but $15 in Canada, someone might buy the book in the US and sell it in Canada. By doing this, they make a $5 profit per book. As more people do this, the supply of books in Canada goes up, which can lower the price there. At the same time, the demand for books in the US goes up, which can raise the price there. Eventually, the prices in both places should get closer to each other, which is what the Law of One Price predicts.
+For example, if a book costs $10 in the US but $15 in Canada, someone might buy the book in the US and sell it in Canada. By doing this, they make a $5 profit per book. As more people do this, the supply of [books](/wiki/algo-trading-books) in Canada goes up, which can lower the price there. At the same time, the demand for books in the US goes up, which can raise the price there. Eventually, the prices in both places should get closer to each other, which is what the Law of One Price predicts.
 
 ## What are the basic assumptions of the Law of One Price?
 
@@ -30,13 +30,13 @@ Another important assumption is that there are no differences in the goods thems
 
 Imagine there are two stores, one in Town A and one in Town B. Both stores sell the same brand of chocolate bar. If there are no extra costs like shipping or taxes, the Law of One Price says that the chocolate bar should cost the same in both stores. For example, if the chocolate bar costs $1 in Town A, it should also cost $1 in Town B.
 
-But let's say the chocolate bar costs $1 in Town A and $1.50 in Town B. If people can easily move the chocolate bars between the towns without any extra costs, someone might buy the chocolate bars in Town A for $1 and sell them in Town B for $1.50. This is called arbitrage. As more people do this, the price in Town B might go down, and the price in Town A might go up, until both stores are selling the chocolate bar for the same price.
+But let's say the chocolate bar costs $1 in Town A and $1.50 in Town B. If people can easily move the chocolate bars between the towns without any extra costs, someone might buy the chocolate bars in Town A for $1 and sell them in Town B for $1.50. This is called [arbitrage](/wiki/arbitrage). As more people do this, the price in Town B might go down, and the price in Town A might go up, until both stores are selling the chocolate bar for the same price.
 
 ## What factors can cause deviations from the Law of One Price?
 
 Several things can make the price of the same thing different in different places, which goes against the Law of One Price. One big reason is the cost of moving goods from one place to another. If it costs a lot to ship something, the price in the place where it's shipped to will be higher than in the place where it's shipped from. Another reason is taxes. If one place has higher taxes on a product, the price there will be higher. Also, if information about prices is not easy to get, people might not know where to buy things cheaper, so prices stay different.
 
-Another factor is that the same product might not be exactly the same everywhere. For example, a brand of soda might taste a bit different in one country because of local ingredients or laws. This can make people willing to pay different prices for what they think is the same thing. Finally, the demand for a product can be different in different places. If more people want something in one place, the price there might be higher than in a place where fewer people want it. All these things can make prices different and cause the Law of One Price not to work perfectly.
+Another [factor](/wiki/factor-investing) is that the same product might not be exactly the same everywhere. For example, a brand of soda might taste a bit different in one country because of local ingredients or laws. This can make people willing to pay different prices for what they think is the same thing. Finally, the demand for a product can be different in different places. If more people want something in one place, the price there might be higher than in a place where fewer people want it. All these things can make prices different and cause the Law of One Price not to work perfectly.
 
 ## How does the Law of One Price apply to international trade?
 

@@ -21,7 +21,7 @@ These landmarks are often used in algorithms to align and normalize images. This
 
 ## What is the difference between global and local landmarks in machine learning?
 
-In machine learning, global landmarks are points or features that are important for the entire dataset. They help the computer understand the big picture or the overall structure of the data. For example, in a dataset of images of different animals, a global landmark might be the general shape of an animal's body. This helps the computer to recognize that all these images are of animals, even if they are different kinds.
+In [machine learning](/wiki/machine-learning), global landmarks are points or features that are important for the entire dataset. They help the computer understand the big picture or the overall structure of the data. For example, in a dataset of images of different animals, a global landmark might be the general shape of an animal's body. This helps the computer to recognize that all these images are of animals, even if they are different kinds.
 
 On the other hand, local landmarks are points or features that are important for smaller parts of the data. They help the computer focus on details within specific images or subsets of the data. Using the same example of animal images, a local landmark might be the shape of an animal's ear. This helps the computer tell the difference between a cat and a dog, even though both are animals.
 
@@ -98,7 +98,7 @@ In object tracking, landmarks are key features on the object that the computer f
 
 ## How do advancements in deep learning affect landmark detection techniques?
 
-Advancements in deep learning have greatly improved landmark detection techniques by making them more accurate and able to handle tougher situations. Deep learning models, like Convolutional Neural Networks (CNNs), can learn to find landmarks by looking at many examples. They get better at spotting the important points on faces or bodies, even if the images are not perfect. For example, these models can still find the eyes and nose on a face that is turned away or in bad lighting. This makes them really useful for real-world applications where things are not always ideal.
+Advancements in [deep learning](/wiki/deep-learning) have greatly improved landmark detection techniques by making them more accurate and able to handle tougher situations. Deep learning models, like Convolutional Neural Networks (CNNs), can learn to find landmarks by looking at many examples. They get better at spotting the important points on faces or bodies, even if the images are not perfect. For example, these models can still find the eyes and nose on a face that is turned away or in bad lighting. This makes them really useful for real-world applications where things are not always ideal.
 
 These improvements also make landmark detection faster and more reliable. Deep learning models can process images quickly because they use special layers that look at different parts of the image at the same time. This means they can find landmarks in real-time, which is important for things like tracking people in videos or helping with surgery. By using deep learning, landmark detection techniques have become a key part of many machine learning systems, making them more robust and able to work well in different situations.
 

@@ -100,7 +100,7 @@ The utility of the HHI lies not just in its simplicity, but also in its ability 
 
 ## What are the advantages and limitations of HHI in algorithmic trading?
 
-The Herfindahl-Hirschman Index (HHI) offers several advantages as a tool for evaluating market concentration within algorithmic trading. Its straightforward computation involves squaring and summing the market share percentages of each firm in a market, presenting a clear picture of market concentration without extensive data requirements. For example, the formula can be expressed as:
+The Herfindahl-Hirschman Index (HHI) offers several advantages as a tool for evaluating market concentration within [algorithmic trading](/wiki/algorithmic-trading). Its straightforward computation involves squaring and summing the market share percentages of each firm in a market, presenting a clear picture of market concentration without extensive data requirements. For example, the formula can be expressed as:
 
 $$
 \text{HHI} = \sum_{i=1}^{N} s_i^2
@@ -110,7 +110,7 @@ where $s_i$ is the market share of firm $i$, and $N$ is the total number of firm
 
 Despite these advantages, the HHI also presents limitations when applied in algorithmic trading. One significant shortcoming is its inability to capture geographic nuances, product differentiation, and other intricate market structures. For instance, two markets with identical HHI values can differ substantially in terms of regional dominance or product diversity, leading to distinct competitive pressures.
 
-Furthermore, given the fluid nature of financial markets, algorithmic traders must supplement the HHI with additional analytical tools to ensure comprehensive risk management. Techniques such as machine learning algorithms, sentiment analysis, or factor models can provide deeper insights into market conditions, enabling traders to better anticipate and adapt to market changes. For example, leveraging Python libraries like Scikit-learn or TensorFlow can augment HHI analysis with predictive modeling.
+Furthermore, given the fluid nature of financial markets, algorithmic traders must supplement the HHI with additional analytical tools to ensure comprehensive risk management. Techniques such as [machine learning](/wiki/machine-learning) algorithms, sentiment analysis, or [factor](/wiki/factor-investing) models can provide deeper insights into market conditions, enabling traders to better anticipate and adapt to market changes. For example, leveraging Python libraries like Scikit-learn or TensorFlow can augment HHI analysis with predictive modeling.
 
 Here is a simple Python snippet to calculate the HHI from a list of market shares:
 

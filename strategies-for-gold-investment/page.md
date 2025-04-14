@@ -24,7 +24,7 @@ For example, if you have $1,000 and inflation makes everything more expensive, t
 
 There are several ways to invest in gold, and each has its own benefits and risks. One way is to buy physical gold, like gold bars or coins. You can hold these in your hand and keep them safe at home or in a bank's safe deposit box. Physical gold is good because it's a real thing you own, but it can be hard to sell quickly and you need to think about how to keep it safe.
 
-Another way to invest in gold is through gold exchange-traded funds (ETFs). These are like stocks that you can buy and sell easily through a broker. Gold ETFs track the price of gold, so when gold goes up, the value of the ETF usually goes up too. This is a good option if you don't want to deal with storing physical gold, but you still want to benefit from changes in gold prices.
+Another way to invest in gold is through gold exchange-traded funds (ETFs). These are like stocks that you can buy and sell easily through a broker. Gold ETFs track the price of gold, so when gold goes up, the value of the [ETF](/wiki/etf-trading-strategies) usually goes up too. This is a good option if you don't want to deal with storing physical gold, but you still want to benefit from changes in gold prices.
 
 You can also invest in gold by buying stocks in gold mining companies. These companies find and sell gold, so their stock prices can go up when gold prices go up. This can be riskier than buying physical gold or ETFs because the success of the company depends on more than just the price of gold. It also depends on how well the company is run and how much gold they can find and sell.
 

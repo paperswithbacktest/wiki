@@ -90,7 +90,7 @@ Another way to use these top dividend stocks is to decide how much of your money
 
 ## What is the understanding of dividend stocks?
 
-Dividend stocks are equity securities from companies that allocate a portion of their profits as dividends to shareholders. These stocks attract investors who seek a reliable income stream along with the opportunity for capital appreciation. Dividend-paying stocks have traditionally exhibited resilience amidst market volatility, often serving as a stabilizing component in investment portfolios.
+Dividend stocks are equity securities from companies that allocate a portion of their profits as dividends to shareholders. These stocks attract investors who seek a reliable income stream along with the opportunity for capital appreciation. Dividend-paying stocks have traditionally exhibited resilience amidst market [volatility](/wiki/volatility-trading-strategies), often serving as a stabilizing component in investment portfolios.
 
 **Key Metrics for Dividend Stocks**
 

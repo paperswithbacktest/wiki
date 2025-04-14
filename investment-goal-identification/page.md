@@ -24,7 +24,7 @@ Having specific goals also helps you stay focused and motivated. It's easy to ge
 
 Personal circumstances play a big role in shaping your investment goals. Things like how old you are, how much money you make, and if you have a family can change what you want to do with your money. For example, if you're young and just starting your career, you might want to invest in a way that grows your money over many years for retirement. But if you're older and closer to retiring, you might want to keep your money safer so you can use it soon.
 
-Your life situation can also affect how much risk you're willing to take with your investments. If you have a steady job and no big expenses coming up, you might be okay with taking more risks to try and make more money. But if you're the only one earning money in your family or if you're worried about losing your job, you might want to be more careful and choose safer investments. Understanding your personal circumstances helps you set realistic goals that fit your life and make you feel more secure about your financial future.
+Your life situation can also affect how much risk you're willing to take with your investments. If you have a steady job and no big expenses coming up, you might be okay with taking more risks to try and make more money. But if you're the only one [earning](/wiki/earning-announcement) money in your family or if you're worried about losing your job, you might want to be more careful and choose safer investments. Understanding your personal circumstances helps you set realistic goals that fit your life and make you feel more secure about your financial future.
 
 ## What are common types of investment goals?
 
@@ -82,7 +82,7 @@ Sometimes, big events like a recession or a global crisis can shake up the marke
 
 One advanced strategy to optimize complex investment goals is to use asset allocation. This means spreading your money across different types of investments, like stocks, bonds, and real estate. By doing this, you can balance the risk and reward of your portfolio. If one type of investment goes down, others might go up, which can help protect your money. You can also change your asset allocation over time to match your goals. For example, if you're getting closer to needing the money, you might move more into safer investments like bonds. This way, you can keep growing your money while also making sure it's there when you need it.
 
-Another strategy is to use tax-efficient investing. This means picking investments that help you pay less in taxes. For example, you might put money into a retirement account like an IRA or a 401(k), which can grow without being taxed until you take the money out. Or you might invest in things like municipal bonds, which often don't get taxed. By being smart about taxes, you can keep more of your money working for you, which can help you reach your goals faster. It's like giving your investments a little boost by saving on taxes.
+Another strategy is to use tax-efficient investing. This means [picking](/wiki/asset-class-picking) investments that help you pay less in taxes. For example, you might put money into a retirement account like an IRA or a 401(k), which can grow without being taxed until you take the money out. Or you might invest in things like municipal bonds, which often don't get taxed. By being smart about taxes, you can keep more of your money working for you, which can help you reach your goals faster. It's like giving your investments a little boost by saving on taxes.
 
 ## What is the Role of Financial Planning?
 
@@ -133,5 +133,5 @@ In summary, financial planning is a dynamic process involving budgeting, saving,
    - *QuantConnect* is a community-driven platform for those interested in algorithmic trading [Link](https://www.quantconnect.com/)
    - *Stack Exchange (Quantitative Finance)* is a question-and-answer site for finance professionals and academics [Link](https://quant.stackexchange.com/)
 
-These resources are excellent starting points for expanding your knowledge and refining your approach to financial strategy, investment, and algorithmic trading.
+These resources are excellent starting points for expanding your knowledge and refining your approach to financial strategy, investment, and [algorithmic trading](/wiki/algorithmic-trading).
 

@@ -22,7 +22,7 @@ This imbalance can tell traders a lot about what might happen next with the pric
 
 ## How can order book imbalance be measured?
 
-Order book imbalance can be measured by looking at the difference between the number of buy orders and sell orders at different price levels. Traders usually look at the total volume of buy orders and compare it to the total volume of sell orders. If the total volume of buy orders is much higher than the total volume of sell orders, there's a buy-side imbalance. If the total volume of sell orders is much higher, there's a sell-side imbalance.
+Order book imbalance can be measured by looking at the difference between the number of buy orders and sell orders at different price levels. Traders usually look at the total [volume](/wiki/volume-trading-strategy) of buy orders and compare it to the total volume of sell orders. If the total volume of buy orders is much higher than the total volume of sell orders, there's a buy-side imbalance. If the total volume of sell orders is much higher, there's a sell-side imbalance.
 
 To make this measurement more precise, traders often use a ratio. They might divide the total volume of buy orders by the total volume of all orders (buy and sell combined) to get a buy imbalance ratio. If this ratio is high, it means there's a strong demand for the asset. They can do the same thing for sell orders to get a sell imbalance ratio. By watching these ratios over time, traders can see if the imbalance is getting stronger or weaker, which helps them predict price movements.
 
@@ -42,7 +42,7 @@ Both strategies rely on watching the order book closely and understanding how ot
 
 ## How does order book imbalance affect market liquidity?
 
-Order book imbalance can affect how easy it is to buy or sell an asset, which is called market liquidity. When there's a big imbalance, like a lot more buy orders than sell orders, it can make it harder for people to sell their asset at the price they want. This is because there aren't enough people wanting to buy at that price. On the other hand, if there are a lot more sell orders than buy orders, it can be hard for people to buy the asset at the price they want because there are too many people trying to sell.
+Order book imbalance can affect how easy it is to buy or sell an asset, which is called market [liquidity](/wiki/liquidity-risk-premium). When there's a big imbalance, like a lot more buy orders than sell orders, it can make it harder for people to sell their asset at the price they want. This is because there aren't enough people wanting to buy at that price. On the other hand, if there are a lot more sell orders than buy orders, it can be hard for people to buy the asset at the price they want because there are too many people trying to sell.
 
 This imbalance can make the market less liquid because it takes longer for trades to happen. When the order book is balanced, with about the same number of buy and sell orders, it's easier for people to buy and sell quickly. But when there's a big imbalance, it can slow things down and make the market feel "stuck." Traders need to watch these imbalances to understand how easy or hard it will be to trade their assets.
 
@@ -66,7 +66,7 @@ Also, these models can take into account other things that might affect the mark
 
 ## What role does machine learning play in optimizing order book imbalance strategies?
 
-Machine learning can make order book imbalance strategies better by learning from a lot of past data. It can find patterns in how the imbalance changes and how those changes affect the price. For example, a machine learning model might see that when there's a big buy-side imbalance for a few minutes, the price usually goes up soon after. By using this information, traders can make smarter choices about when to buy or sell, instead of just looking at what's happening right now.
+Machine learning can make order book imbalance strategies better by learning from a lot of past data. It can find patterns in how the imbalance changes and how those changes affect the price. For example, a [machine learning](/wiki/machine-learning) model might see that when there's a big buy-side imbalance for a few minutes, the price usually goes up soon after. By using this information, traders can make smarter choices about when to buy or sell, instead of just looking at what's happening right now.
 
 Also, machine learning can help by taking into account other things that might affect the market, like news or big events. It can mix this information with the order book data to give a fuller picture of what might happen to the price. This way, traders can see if the imbalance they're looking at is really important or if it's just a short-term thing that won't last. By using machine learning, traders can have a better chance of making money by understanding the market more deeply.
 
@@ -80,7 +80,7 @@ These traders also use special computer programs that can learn from past data t
 
 One example of using order book imbalance successfully is from a trading firm that used it to trade stocks. They noticed that when there were a lot more buy orders than sell orders for a stock, the price usually went up soon after. They used this information to make a computer program that would buy the stock quickly when it saw a big buy-side imbalance. Over time, this strategy helped them make small profits many times a day, adding up to a lot of money.
 
-Another case study is from a group of high-frequency traders who used order book imbalance to trade cryptocurrencies. They used special computer programs to look at the order book very fast and see if there were more buy orders or sell orders. When they saw a big sell-side imbalance, they would sell the cryptocurrency right away, hoping to buy it back later for a lower price. This quick trading helped them make money by taking advantage of the short-term price changes caused by the imbalance.
+Another case study is from a group of high-frequency traders who used order book imbalance to trade cryptocurrencies. They used special computer programs to look at the order book very fast and see if there were more buy orders or sell orders. When they saw a big sell-side imbalance, they would sell the [cryptocurrency](/wiki/cryptocurrency) right away, hoping to buy it back later for a lower price. This quick trading helped them make money by taking advantage of the short-term price changes caused by the imbalance.
 
 ## What is Understanding Order Book Imbalance?
 
@@ -179,7 +179,7 @@ Avoiding overfitting is a significant challenge during backtesting. Overfitting 
 
 Furthermore, it is crucial to ensure the trading model does not rely on future data. This is known as the look-ahead bias, and it can be avoided by structuring data pipelines to strictly use information available at each decision point in time. Testing the strategy under different market conditions and varying datasets can help validate the robustness and adaptability of the model.
 
-Overall, effective backtesting and careful evaluation of strategy performance are foundational to the development of reliable algorithmic trading systems. These processes enable traders and analysts to make informed decisions and refine strategies before deploying them in live trading environments.
+Overall, effective backtesting and careful evaluation of strategy performance are foundational to the development of reliable [algorithmic trading](/wiki/algorithmic-trading) systems. These processes enable traders and analysts to make informed decisions and refine strategies before deploying them in live trading environments.
 
 ## What are the challenges and limitations?
 

@@ -24,7 +24,7 @@ Another key characteristic of gold is that it is a physical asset. You can hold 
 
 Bitcoin is much more volatile than gold. This means that the price of Bitcoin can go up and down a lot in a short amount of time. For example, one day Bitcoin might be worth a lot of money, and the next day it might be worth much less. This can be exciting for some people who like to take risks, but it can also be scary because you might lose money quickly. On the other hand, gold is known for being more stable. Its price does not change as much as Bitcoin's, so it is seen as a safer investment.
 
-Gold's lower volatility makes it a good choice for people who want to keep their money safe over a long time. When the economy is doing badly, gold usually goes up a little bit, but it doesn't jump around like Bitcoin does. This is why many people think of gold as a safe place to put their money during uncertain times. Bitcoin, however, can be a good investment for people who are okay with taking bigger risks and are looking for the chance to make a lot of money quickly, even though they might also lose a lot.
+Gold's lower [volatility](/wiki/volatility-trading-strategies) makes it a good choice for people who want to keep their money safe over a long time. When the economy is doing badly, gold usually goes up a little bit, but it doesn't jump around like Bitcoin does. This is why many people think of gold as a safe place to put their money during uncertain times. Bitcoin, however, can be a good investment for people who are okay with taking bigger risks and are looking for the chance to make a lot of money quickly, even though they might also lose a lot.
 
 ## What are the primary uses of Bitcoin versus gold?
 

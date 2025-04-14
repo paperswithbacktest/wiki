@@ -126,7 +126,7 @@ $$
 
 5. **High-Frequency Trading (HFT)**: This involves executing a high volume of trades in fractions of a second to capitalize on minuscule price fluctuations. HFT strategies rely heavily on cutting-edge technology and minimal latency to ensure the fastest execution times. Techniques such as co-location with exchanges are often employed to gain speed advantages.
 
-Each algo trading strategy has specific market conditions where it is most effective. Trend-following strategies perform well in trending markets, mean reversion strategies suit range-bound markets, and [statistical arbitrage](/wiki/statistical-arbitrage) thrives when there are pricing discrepancies. Market-making is advantageous in liquid markets with tight spreads, while HFT is effective in highly volatile and liquid environments. Understanding and selecting the appropriate strategy is crucial for optimizing trading outcomes.
+Each algo trading strategy has specific market conditions where it is most effective. Trend-following strategies perform well in trending markets, mean reversion strategies suit range-bound markets, and [statistical [arbitrage](/wiki/arbitrage)](/wiki/statistical-arbitrage) thrives when there are pricing discrepancies. Market-making is advantageous in liquid markets with tight spreads, while [HFT](/wiki/high-frequency-trading-strategies) is effective in highly volatile and liquid environments. Understanding and selecting the appropriate strategy is crucial for optimizing trading outcomes.
 
 ## References & Further Reading
 

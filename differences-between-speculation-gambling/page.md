@@ -107,7 +107,7 @@ While gambling can lead to short-term financial gains and provides a recreationa
 
 ## What are the key differences between gambling, speculation, and algorithmic trading?
 
-Gambling, speculation, and algorithmic trading each represent distinctive approaches to risk-taking and financial decision-making, primarily differing in their reliance on chance, informed analysis, and technological enhancement, respectively.
+Gambling, speculation, and [algorithmic trading](/wiki/algorithmic-trading) each represent distinctive approaches to risk-taking and financial decision-making, primarily differing in their reliance on chance, informed analysis, and technological enhancement, respectively.
 
 Gambling is fundamentally based on chance with outcomes largely outside the control of the participant. It does not necessitate any market analysis or strategic decision-making. The core premise involves wagering money or value on outcomes that are uncertain. The expected value ($E$) in gambling is generally negative, given mathematically by the equation:
 

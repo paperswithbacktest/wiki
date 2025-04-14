@@ -48,7 +48,7 @@ The after-tax profit margin, on the other hand, is the profit a business keeps a
 
 Many things can change a company's after-tax profit margin. One big thing is how much the company pays in taxes. If tax rates go up, the after-tax profit margin can go down because the company keeps less money. Another thing is how well the company manages its costs. If a company can lower its costs, like making things cheaper or paying less for supplies, it can keep more money as profit after taxes. Also, if a company can sell more of its products or services, it might make more money and have a higher after-tax profit margin.
 
-Changes in the economy can also affect the after-tax profit margin. If there's a recession, people might buy less, which can lower a company's sales and profits. On the other hand, if the economy is doing well, people might buy more, helping the company's profits. Competition is another factor. If other companies start selling similar products for less, a company might have to lower its prices to keep customers, which can reduce its profit margin. All these things together can make the after-tax profit margin go up or down.
+Changes in the economy can also affect the after-tax profit margin. If there's a recession, people might buy less, which can lower a company's sales and profits. On the other hand, if the economy is doing well, people might buy more, helping the company's profits. Competition is another [factor](/wiki/factor-investing). If other companies start selling similar products for less, a company might have to lower its prices to keep customers, which can reduce its profit margin. All these things together can make the after-tax profit margin go up or down.
 
 ## How can a company improve its after-tax profit margin?
 

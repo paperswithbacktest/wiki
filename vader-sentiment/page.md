@@ -30,7 +30,7 @@ VADER works by looking at words and symbols in the text. It uses a special list 
 
 VADER is different from other sentiment analysis tools because it's really good at understanding short messages, like those on social media or in reviews. It uses a special list of words that it knows have certain feelings attached to them. This makes it easy for VADER to quickly analyze a lot of text and see what people are feeling about a topic. Other tools might not be as good at understanding short messages or might need a lot of training data to work well.
 
-Another way VADER is different is that it can understand not just the words, but also how they are used. For example, VADER knows that words like "love" or "hate" are strong, and it can tell if someone is being sarcastic or using all caps to show they are shouting. This makes VADER very useful for quickly analyzing a lot of text to see what people are feeling about a topic. Other tools might not be as good at picking up on these little details that can change the meaning of a message.
+Another way VADER is different is that it can understand not just the words, but also how they are used. For example, VADER knows that words like "love" or "hate" are strong, and it can tell if someone is being sarcastic or using all caps to show they are shouting. This makes VADER very useful for quickly analyzing a lot of text to see what people are feeling about a topic. Other tools might not be as good at [picking](/wiki/asset-class-picking) up on these little details that can change the meaning of a message.
 
 ## What types of text is VADER best suited for?
 
@@ -58,7 +58,7 @@ After setting up the analyzer, you can use it to analyze text. You just need to 
 
 ## What are the limitations of using VADER for sentiment analysis?
 
-VADER is really good at understanding short messages like those on social media or in reviews, but it has some limitations. One big limitation is that it might not work as well with longer texts, like books or long articles. VADER is designed to quickly analyze short pieces of text, so it might miss some of the deeper feelings or context in longer texts. Also, VADER uses a list of words that it knows have certain feelings attached to them, but this list might not include all the words people use, especially if they use a lot of slang or words from other languages.
+VADER is really good at understanding short messages like those on social media or in reviews, but it has some limitations. One big limitation is that it might not work as well with longer texts, like [books](/wiki/algo-trading-books) or long articles. VADER is designed to quickly analyze short pieces of text, so it might miss some of the deeper feelings or context in longer texts. Also, VADER uses a list of words that it knows have certain feelings attached to them, but this list might not include all the words people use, especially if they use a lot of slang or words from other languages.
 
 Another limitation is that VADER might not always understand the context or culture behind the words. For example, if someone uses a word that means something different in another culture, VADER might not pick up on that. It also might not be as good at understanding sarcasm or irony if it's not very clear in the text. VADER is good at picking up on some signs of sarcasm, like using all caps or certain words, but it's not perfect. So, while VADER is a great tool for quickly understanding the feelings in short messages, it's important to remember these limitations when using it.
 
@@ -70,7 +70,7 @@ However, VADER might not understand all slang or emojis, especially if they are 
 
 ## Can VADER be fine-tuned for domain-specific sentiment analysis?
 
-VADER can be fine-tuned for domain-specific sentiment analysis, but it's not as easy as with some other tools. VADER uses a fixed list of words and their sentiment scores, which means you can't directly change these scores or add new words to the list. However, you can still make VADER work better for your specific area by using it together with other methods. For example, you could use machine learning to train a model on your domain-specific data, and then combine the results with VADER's scores to get a more accurate sentiment analysis.
+VADER can be fine-tuned for domain-specific sentiment analysis, but it's not as easy as with some other tools. VADER uses a fixed list of words and their sentiment scores, which means you can't directly change these scores or add new words to the list. However, you can still make VADER work better for your specific area by using it together with other methods. For example, you could use [machine learning](/wiki/machine-learning) to train a model on your domain-specific data, and then combine the results with VADER's scores to get a more accurate sentiment analysis.
 
 One way to fine-tune VADER is by adjusting the thresholds for what counts as positive, negative, or neutral sentiment. You can look at how VADER performs on your specific texts and then change the thresholds to better match your needs. Another approach is to use VADER's scores as features in a larger model that you train on your domain-specific data. This way, you can still benefit from VADER's ability to understand short messages and emojis, while also improving its accuracy for your particular field.
 

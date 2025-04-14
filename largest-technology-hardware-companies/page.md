@@ -38,7 +38,7 @@ Samsung Electronics is next in line, but it's not as big as Apple. Samsung makes
 
 Apple started in 1976 when Steve Jobs, Steve Wozniak, and Ronald Wayne made their first computer in a garage. They called it the Apple I. It was simple, but it was the start of something big. A year later, they made the Apple II, which was more popular and helped the company grow. In the 1980s, Apple made the Macintosh, which was the first computer with a mouse and a graphical user interface. This made computers easier to use for everyone.
 
-In the 2000s, Apple changed the world with the iPod, a music player that let people carry thousands of songs in their pockets. Then, in 2007, they made the iPhone, which combined a phone, music player, and internet device into one. The iPhone was a huge success and made Apple one of the biggest companies in the world. They kept going with the iPad in 2010 and the Apple Watch in 2015. Today, Apple is known for making great products that work well together and are easy to use.
+In the 2000s, Apple changed the world with the iPod, a music player that let people [carry](/wiki/carry-trading) thousands of songs in their pockets. Then, in 2007, they made the iPhone, which combined a phone, music player, and internet device into one. The iPhone was a huge success and made Apple one of the biggest companies in the world. They kept going with the iPad in 2010 and the Apple Watch in 2015. Today, Apple is known for making great products that work well together and are easy to use.
 
 ## How have these companies evolved their product lines over the past decade?
 
@@ -88,7 +88,7 @@ They also have to compete with smaller tech startups. These startups are often w
 
 ## What hardware innovations are driving algorithmic trading?
 
-The hardware supporting algorithmic trading plays a pivotal role in ensuring transactions occur with maximum speed and precision. High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), a subtype of algorithmic trading, benefits significantly from advancements in hardware, as it requires executing thousands of trades within microseconds. The core components of this hardware are powerful processing units, efficient data centers, robust servers, and advanced networking systems.
+The hardware supporting [algorithmic trading](/wiki/algorithmic-trading) plays a pivotal role in ensuring transactions occur with maximum speed and precision. High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), a subtype of algorithmic trading, benefits significantly from advancements in hardware, as it requires executing thousands of trades within microseconds. The core components of this hardware are powerful processing units, efficient data centers, robust servers, and advanced networking systems.
 
 Advancements in computing power have directly impacted trading speed and efficiency. Modern processors are designed to handle extensive computational tasks quickly, effectively reducing latency—the time delay between data being sent and received. Graphics Processing Units (GPUs), such as those manufactured by NVIDIA, are increasingly employed for their parallel processing capabilities, enabling faster data analysis and execution of trades. Field-Programmable Gate Arrays (FPGAs) are also leveraged in trading systems due to their ability to process large data sets at high speeds with low latency. An example of the speed requirements is the equation used in time-sensitive [arbitrage](/wiki/arbitrage) strategies:
 

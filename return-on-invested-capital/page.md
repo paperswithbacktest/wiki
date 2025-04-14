@@ -142,7 +142,7 @@ $$
 \text{ROIC} = \frac{\text{NOPAT}}{\text{Invested Capital}}
 $$
 
-This formula is instrumental in the development of trading systems as it isolates the efficiency with which a company converts invested capital into profits, a key indicator of operational effectiveness. By assimilating ROIC into algorithmic trading frameworks, traders can perform comparative analyses among multiple companies, identifying those with superior capital efficiency and, consequently, higher potential returns.
+This formula is instrumental in the development of trading systems as it isolates the efficiency with which a company converts invested capital into profits, a key indicator of operational effectiveness. By assimilating ROIC into [algorithmic trading](/wiki/algorithmic-trading) frameworks, traders can perform comparative analyses among multiple companies, identifying those with superior capital efficiency and, consequently, higher potential returns.
 
 Python, a widely used language in algorithmic trading, can be utilized to calculate and implement ROIC into a trading strategy. For example:
 

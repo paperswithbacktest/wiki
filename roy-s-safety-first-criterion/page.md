@@ -34,7 +34,7 @@ The safety-first ratio is calculated by taking the expected return of the invest
 
 ## What is the formula for Roy's safety-first ratio?
 
-Roy's safety-first ratio is a way to figure out which investment is the safest. You start by picking a "disaster level," which is the biggest loss you're okay with. Then, you look at the expected return of the investment, which is how much money you think you'll make. You also need to know the standard deviation, which shows how much the actual return might differ from what you expect.
+Roy's safety-first ratio is a way to figure out which investment is the safest. You start by [picking](/wiki/asset-class-picking) a "disaster level," which is the biggest loss you're okay with. Then, you look at the expected return of the investment, which is how much money you think you'll make. You also need to know the standard deviation, which shows how much the actual return might differ from what you expect.
 
 To calculate the safety-first ratio, you take the expected return and subtract the disaster level. After that, you divide that number by the standard deviation. The formula is: (Expected Return - Disaster Level) / Standard Deviation. The investment with the highest safety-first ratio is the one that's least likely to fall below your disaster level, making it the safest choice.
 

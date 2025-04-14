@@ -21,7 +21,7 @@ Using proxy labels can be a good way to keep moving forward with our project whe
 
 ## How do proxy labels differ from true labels?
 
-Proxy labels and true labels are different because proxy labels are used when we can't get the real labels we need. True labels are the exact information we want to predict with our machine learning model. For example, if we want to predict if a person will like a movie, the true label would be their actual rating of the movie. But if we can't get those ratings, we might use how long they watched the movie as a proxy label instead.
+Proxy labels and true labels are different because proxy labels are used when we can't get the real labels we need. True labels are the exact information we want to predict with our [machine learning](/wiki/machine-learning) model. For example, if we want to predict if a person will like a movie, the true label would be their actual rating of the movie. But if we can't get those ratings, we might use how long they watched the movie as a proxy label instead.
 
 Proxy labels are helpful because they let us train our model even when we don't have the perfect data. But they also have some problems. Proxy labels might not be as accurate as true labels, and they might not capture all the information we need. This can make our model less effective. Still, using proxy labels can be better than not being able to train our model at all, especially when getting true labels is too hard or expensive.
 

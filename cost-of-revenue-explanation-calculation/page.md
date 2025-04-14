@@ -80,7 +80,7 @@ Understanding these seasonal changes is important for a company because it helps
 
 One advanced way to make the cost of revenue better is by using data analytics. This means looking at a lot of information about how much things cost and how much stuff the company makes. By using special computer programs, a company can find patterns and see where they might be spending too much money. For example, they might find out that one type of material they use is getting more expensive, so they can look for a cheaper one. Or they might see that some machines are not working as well as they should, so they can fix them or get new ones to save money.
 
-Another method is using something called machine learning. This is a kind of computer program that can learn from the data it sees and make smart guesses about what will happen next. For a company, this can mean predicting how much it will cost to make things in the future. If the computer program can guess that the cost of a certain material will go up, the company can buy more of it now when it's cheaper. Machine learning can also help find the best way to make things, like figuring out the best order to do things in the factory to save time and money. By using these advanced methods, a company can keep the cost of revenue low and make more profit.
+Another method is using something called [machine learning](/wiki/machine-learning). This is a kind of computer program that can learn from the data it sees and make smart guesses about what will happen next. For a company, this can mean predicting how much it will cost to make things in the future. If the computer program can guess that the cost of a certain material will go up, the company can buy more of it now when it's cheaper. Machine learning can also help find the best way to make things, like figuring out the best order to do things in the factory to save time and money. By using these advanced methods, a company can keep the cost of revenue low and make more profit.
 
 ## What is the Formula and Calculation of Cost of Revenue?
 
@@ -146,7 +146,7 @@ $$
 \text{Operating Income} = \$10,000,000 - \$7,000,000 = \$3,000,000
 $$
 
-Through this structured analysis, algorithmic trading firms can identify areas to reduce costs without compromising on performance or service quality. For example, negotiating better terms with data providers or optimizing algorithms to lower transaction costs. Thus, a thorough understanding of cost of revenue not only aids in maintaining financial health but also in strategic decision-making, contributing to enhanced competitive advantage in the crowded field of algorithmic trading.
+Through this structured analysis, [algorithmic trading](/wiki/algorithmic-trading) firms can identify areas to reduce costs without compromising on performance or service quality. For example, negotiating better terms with data providers or optimizing algorithms to lower transaction costs. Thus, a thorough understanding of cost of revenue not only aids in maintaining financial health but also in strategic decision-making, contributing to enhanced competitive advantage in the crowded field of algorithmic trading.
 
 ## References & Further Reading
 

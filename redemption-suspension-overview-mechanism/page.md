@@ -46,7 +46,7 @@ Another risk is that the suspension might not fix the problem. If the market sta
 
 ## How does redemption suspension impact the liquidity of a fund?
 
-When a fund suspends redemptions, it means the fund can't give money back to investors who want to take their money out. This can help the fund keep more money inside, which is good for its liquidity. Liquidity is about how easily the fund can turn its investments into cash. If the fund didn't suspend redemptions, it might have to sell its investments quickly, even if the prices are low. This could make the fund's liquidity worse because it would have less money and fewer good investments left.
+When a fund suspends redemptions, it means the fund can't give money back to investors who want to take their money out. This can help the fund keep more money inside, which is good for its [liquidity](/wiki/liquidity-risk-premium). Liquidity is about how easily the fund can turn its investments into cash. If the fund didn't suspend redemptions, it might have to sell its investments quickly, even if the prices are low. This could make the fund's liquidity worse because it would have less money and fewer good investments left.
 
 But, if the suspension lasts too long, it can also make things harder for the fund. Investors might get worried and want their money back even more when the suspension ends. This could lead to a big rush of people wanting to withdraw their money all at once. If that happens, the fund might still have to sell its investments quickly at bad prices, which would hurt its liquidity. So, while a suspension can help in the short term, it needs to be managed carefully to not cause bigger problems later.
 

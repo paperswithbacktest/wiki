@@ -140,7 +140,7 @@ In conclusion, financial analysis serves as a foundational element for decision-
 
 ## How can Balance Sheet Analysis be integrated into Algorithmic Trading?
 
-Integrating balance sheet analysis into algorithmic trading strategies involves leveraging financial data to refine and optimize trading algorithms. This process starts by understanding the core components of a balance sheet: assets, liabilities, and equity, which together form the fundamental accounting equation: 
+Integrating balance sheet analysis into [algorithmic trading](/wiki/algorithmic-trading) strategies involves leveraging financial data to refine and optimize trading algorithms. This process starts by understanding the core components of a balance sheet: assets, liabilities, and equity, which together form the fundamental accounting equation: 
 
 $$
 \text{Assets} = \text{Liabilities} + \text{Equity}

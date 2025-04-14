@@ -22,7 +22,7 @@ The system looks at different things like how much money a fund makes, how risky
 
 ## What are the different categories of Lipper Leader ratings?
 
-The Lipper Leader system has five main categories that help people understand how good a mutual fund or ETF is. These categories are total return, consistent return, preservation, expense, and tax efficiency. Each category looks at a different part of the fund's performance. For example, total return shows how much money the fund has made over time, while consistent return looks at how steady those returns have been.
+The Lipper Leader system has five main categories that help people understand how good a mutual fund or [ETF](/wiki/etf-trading-strategies) is. These categories are total return, consistent return, preservation, expense, and tax efficiency. Each category looks at a different part of the fund's performance. For example, total return shows how much money the fund has made over time, while consistent return looks at how steady those returns have been.
 
 Preservation is about how well the fund keeps your money safe, which is important if you don't want to lose money. Expense looks at how much it costs to invest in the fund, including fees and other charges. A lower expense score means the fund costs less to own. Finally, tax efficiency tells you how much of the fund's earnings you get to keep after taxes. A high score in this category means the fund is good at reducing the taxes you have to pay.
 
@@ -62,7 +62,7 @@ Because the ratings are updated monthly, investors can see how funds are doing o
 
 Lipper Leader ratings are helpful, but they have some limits. They look at how a fund did in the past, but that doesn't always tell you how it will do in the future. Things like the economy or new rules can change how a fund does, and the ratings might not catch these changes right away. Also, the ratings compare funds to others in the same group, but that group might not be a perfect match for what you want. So, a fund might look good in its group but not be the best for you.
 
-Another thing to think about is that Lipper Leader ratings focus on a few big things like how much money a fund makes, how steady those earnings are, how safe the fund is, how much it costs, and how much you keep after taxes. But there might be other things you care about that the ratings don't cover. For example, you might want to know about the fund manager's experience or the company's social responsibility. So, while Lipper Leader ratings are a good start, they shouldn't be the only thing you look at when picking a fund.
+Another thing to think about is that Lipper Leader ratings focus on a few big things like how much money a fund makes, how steady those earnings are, how safe the fund is, how much it costs, and how much you keep after taxes. But there might be other things you care about that the ratings don't cover. For example, you might want to know about the fund manager's experience or the company's social responsibility. So, while Lipper Leader ratings are a good start, they shouldn't be the only thing you look at when [picking](/wiki/asset-class-picking) a fund.
 
 ## How do Lipper Leader ratings compare to other fund rating systems?
 
@@ -88,7 +88,7 @@ Lipper Leader ratings provide investors with an in-depth analysis of mutual fund
 
 The ratings system grades mutual funds on a scale from 1 to 5, offering a straightforward approach for investors to compare and assess different funds. A fund that scores a 5 is perceived as the best within its category, indicating superior performance attributes when compared to its peers. This gradation simplifies the decision-making process for investors, particularly aiding them in distinguishing between top-performing funds and those that lag behind.
 
-Key metrics considered in the Lipper Leader ratings include total return, consistency, and risk-adjusted returns. Total return measures the overall profitability of the fund, accounting for interest, dividends, and changes in market value. Consistency refers to the fund's ability to generate steady returns over time, minimizing volatility and adjusting to market fluctuations effectively.
+Key metrics considered in the Lipper Leader ratings include total return, consistency, and risk-adjusted returns. Total return measures the overall profitability of the fund, accounting for interest, dividends, and changes in market value. Consistency refers to the fund's ability to generate steady returns over time, minimizing [volatility](/wiki/volatility-trading-strategies) and adjusting to market fluctuations effectively.
 
 Risk-adjusted returns are critical for understanding a fund's performance relative to its risk. The Sharpe Ratio is often utilized for this purpose, defined as:
 

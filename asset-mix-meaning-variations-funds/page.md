@@ -46,7 +46,7 @@ You also need to think about how much risk you can handle. If the thought of los
 
 ## What role does age play in choosing an asset mix?
 
-Age is really important when you're picking your asset mix. If you're young, like in your 20s or 30s, you might choose to put more money in stocks. Stocks can go up and down a lot, but because you're young, you have time to wait for them to go back up if they go down. You're saving for things far in the future, like buying a house or retiring, so you can take more risks to make your money grow a lot.
+Age is really important when you're [picking](/wiki/asset-class-picking) your asset mix. If you're young, like in your 20s or 30s, you might choose to put more money in stocks. Stocks can go up and down a lot, but because you're young, you have time to wait for them to go back up if they go down. You're saving for things far in the future, like buying a house or retiring, so you can take more risks to make your money grow a lot.
 
 As you get older, like in your 50s or 60s, you might start to move your money into safer things like bonds and cash. You're getting closer to when you'll need your money, and you don't want to lose it right before you need it. So, you might choose a mix that's more about keeping your money safe than growing it a lot. It's a good idea to change your asset mix as you get older to match your new goals and how much risk you can handle.
 

@@ -89,7 +89,7 @@ Also, regulators sometimes make changes to protect investors. These changes can 
    This widely respected textbook offers in-depth insights into financial derivatives, making it a crucial resource for understanding the complexities of Series L Securities.
 
 3. **"Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan**  
-   Ernie Chan provides practical guidance on implementing algorithmic trading strategies, which can be directly applied to managing Series L Securities. The book also discusses backtesting strategies using Python code, providing hands-on examples.
+   Ernie Chan provides practical guidance on implementing [algorithmic trading](/wiki/algorithmic-trading) strategies, which can be directly applied to managing Series L Securities. The book also discusses [backtesting](/wiki/backtesting) strategies using Python code, providing hands-on examples.
 
 4. **"High-Frequency Trading" by Irene Aldridge**  
    Aldridge’s book focuses on the algorithms used in high-frequency trading. It covers the intersection of technology and trading, making it essential reading for those interested in the technological aspects of trading Series L Securities.
@@ -98,7 +98,7 @@ Also, regulators sometimes make changes to protect investors. These changes can 
    This book investigates into the mathematical and theoretical foundations of investment, providing mathematical models and formulas that are useful for evaluating different types of securities, including Series L Securities.
 
 6. **Journal of Financial Economics**  
-   The Journal publishes peer-reviewed articles on various financial concepts, including the impact of algorithmic trading on market efficiency and liquidity. Relevant articles can expand understanding of Series L Securities' behavior in algorithm-driven markets.
+   The Journal publishes peer-reviewed articles on various financial concepts, including the impact of algorithmic trading on market efficiency and [liquidity](/wiki/liquidity-risk-premium). Relevant articles can expand understanding of Series L Securities' behavior in algorithm-driven markets.
 
 7. **"Python for Finance" by Yves Hilpisch**  
    This book explores how Python can be used for financial analytics and algorithmic trading. It includes comprehensive examples and code snippets, facilitating practical application in trading Series L Securities.

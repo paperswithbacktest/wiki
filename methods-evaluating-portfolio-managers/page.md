@@ -36,7 +36,7 @@ You can use the Sharpe Ratio to compare different portfolio managers. If one man
 
 Alpha is a number that tells you how much better or worse a portfolio manager is doing compared to what you would expect from the market. If a manager has a positive alpha, it means they are doing better than the market. A negative alpha means they are doing worse. This is important because it shows if the manager is adding value to your investments or if you could do just as well by investing in the market yourself.
 
-When you look at a portfolio manager's alpha, you can see if they are good at picking investments that beat the market. This helps you decide if you should keep your money with them or look for someone else. A high alpha is a sign that the manager is skilled at finding opportunities that others might miss, which can be a big plus for your portfolio.
+When you look at a portfolio manager's alpha, you can see if they are good at [picking](/wiki/asset-class-picking) investments that beat the market. This helps you decide if you should keep your money with them or look for someone else. A high alpha is a sign that the manager is skilled at finding opportunities that others might miss, which can be a big plus for your portfolio.
 
 ## How can the Sortino Ratio provide a better insight into risk-adjusted returns?
 
@@ -76,7 +76,7 @@ Another useful method is something called "bootstrap analysis." This method uses
 
 ## How do multi-factor models enhance the evaluation of portfolio managers' skill versus luck?
 
-Multi-factor models help you figure out if a portfolio manager's success is because of skill or just luck. These models look at different things that can affect how investments do, like how big a company is, how fast it's growing, or what's happening in the economy. By taking these factors into account, you can see if the manager is doing better than what these factors alone would predict. If they are, it's a sign that they have real skill and are not just getting lucky.
+Multi-[factor](/wiki/factor-investing) models help you figure out if a portfolio manager's success is because of skill or just luck. These models look at different things that can affect how investments do, like how big a company is, how fast it's growing, or what's happening in the economy. By taking these factors into account, you can see if the manager is doing better than what these factors alone would predict. If they are, it's a sign that they have real skill and are not just getting lucky.
 
 For example, if a manager's portfolio does well when the market is doing well, it might just be because they picked popular stocks. But if the multi-factor model shows that the manager's choices are beating what you would expect from just following the market trends, it means they are making smart choices. This helps you trust that the manager knows what they're doing and can keep making good decisions with your money, even when things change.
 

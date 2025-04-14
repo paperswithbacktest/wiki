@@ -18,7 +18,7 @@ To find the cost of equity, companies often use a model called the Capital Asset
 
 The cost of capital is the total cost of all the money a company uses to run and grow its business. This includes money from loans, bonds, and shareholders. It's like figuring out how much it costs to borrow money or use investors' money. Companies need to know this cost because it helps them decide if a new project or investment will make more money than it costs.
 
-To calculate the cost of capital, a company looks at the cost of each type of money it uses. For example, the interest rate on loans and bonds is part of the cost, and the return expected by shareholders, called the cost of equity, is another part. The company then mixes these costs together based on how much of each type of money it uses. This mix is called the weighted average cost of capital (WACC). If a project's return is higher than the WACC, the company might decide to go ahead with it.
+To calculate the cost of capital, a company looks at the cost of each type of money it uses. For example, the [interest rate](/wiki/interest-rate-trading-strategies) on loans and bonds is part of the cost, and the return expected by shareholders, called the cost of equity, is another part. The company then mixes these costs together based on how much of each type of money it uses. This mix is called the weighted average cost of capital (WACC). If a project's return is higher than the WACC, the company might decide to go ahead with it.
 
 ## How is the cost of equity calculated?
 
@@ -128,7 +128,7 @@ In summary, the cost of capital is integral to financial analysis, as it aids in
 
 ## How can the cost of capital be integrated with algorithmic trading strategies?
 
-Integrating the cost of capital into algorithmic trading strategies can significantly enhance investment control and profitability. This integration allows traders to evaluate the financial viability of trades by filtering opportunities based on expected returns that exceed their cost of capital, frequently calculated using the weighted average cost of capital (WACC).
+Integrating the cost of capital into [algorithmic trading](/wiki/algorithmic-trading) strategies can significantly enhance investment control and profitability. This integration allows traders to evaluate the financial viability of trades by filtering opportunities based on expected returns that exceed their cost of capital, frequently calculated using the weighted average cost of capital (WACC).
 
 One of the primary challenges in algorithmic trading is managing trading costs, bid-ask spreads, and the impact of trades on market prices. Algorithms, by design, execute trades at speeds and frequencies far beyond human capability. To maintain control over these trading costs, it is crucial to [factor](/wiki/factor-investing) in the WACC when executing trades, ensuring that the trades contribute positively to overall strategy performance rather than merely adding cost pressures.
 

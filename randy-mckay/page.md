@@ -28,7 +28,7 @@ He faced many challenges at the beginning. Trading was not easy, and Randy made 
 
 ## What are some of the key trading strategies Randy McKay is known for?
 
-Randy McKay is known for his straightforward and practical trading strategies. One of the key strategies he teaches is the importance of having a solid trading plan. He emphasizes that traders should always know their entry and exit points before they enter a trade. This helps them stay disciplined and avoid making emotional decisions. Randy also stresses the need to manage risk carefully. He teaches traders to use stop-loss orders to limit potential losses and to never risk more than they can afford to lose.
+Randy McKay is known for his straightforward and practical trading strategies. One of the key strategies he teaches is the importance of having a solid trading plan. He emphasizes that traders should always know their entry and [exit](/wiki/exit-strategy) points before they enter a trade. This helps them stay disciplined and avoid making emotional decisions. Randy also stresses the need to manage risk carefully. He teaches traders to use stop-loss orders to limit potential losses and to never risk more than they can afford to lose.
 
 Another strategy Randy is known for is his focus on technical analysis. He believes that understanding chart patterns and indicators can help traders make better decisions. Randy often talks about the importance of trend lines, support and resistance levels, and moving averages. He encourages traders to use these tools to identify potential trading opportunities. By combining technical analysis with a disciplined approach to risk management, Randy believes traders can increase their chances of success in the markets.
 
@@ -40,7 +40,7 @@ His plan worked. When the market started to recover, the value of the stocks he 
 
 ## What books or resources did Randy McKay use to enhance his trading skills?
 
-Randy McKay used many books and resources to get better at trading. He liked reading books about the stock market and how to trade well. Some of the books he read were "Reminiscences of a Stock Operator" by Edwin Lefèvre and "Technical Analysis of the Financial Markets" by John J. Murphy. These books taught him about the history of trading and how to use charts to make smart choices.
+Randy McKay used many [books](/wiki/algo-trading-books) and resources to get better at trading. He liked reading books about the stock market and how to trade well. Some of the books he read were "Reminiscences of a Stock Operator" by Edwin Lefèvre and "Technical Analysis of the Financial Markets" by John J. Murphy. These books taught him about the history of trading and how to use charts to make smart choices.
 
 He also used online resources to learn more. Randy spent a lot of time on trading websites and forums where he could talk to other traders. He watched videos and webinars to see how other people traded. These resources helped him learn new strategies and stay updated with what was happening in the markets. By using both books and online resources, Randy was able to keep improving his trading skills.
 

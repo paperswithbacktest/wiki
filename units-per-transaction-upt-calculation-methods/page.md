@@ -76,7 +76,7 @@ Another useful method is regression analysis. This helps stores see what things 
 
 ## How can machine learning be applied to predict and optimize UPT?
 
-Machine learning can help stores predict and optimize UPT by looking at a lot of data and finding patterns that people might not see. It can use past shopping data to guess how many items customers might buy in the future. For example, machine learning can look at things like what time of day people shop, what they buy, and even the weather to make these guesses. This helps stores know when to put out special deals or change how things are shown in the store to make people buy more items.
+Machine learning can help stores predict and optimize UPT by looking at a lot of data and finding patterns that people might not see. It can use past shopping data to guess how many items customers might buy in the future. For example, [machine learning](/wiki/machine-learning) can look at things like what time of day people shop, what they buy, and even the weather to make these guesses. This helps stores know when to put out special deals or change how things are shown in the store to make people buy more items.
 
 Machine learning can also help stores find the best ways to increase UPT. It can test different ideas, like offering different deals or changing the store layout, to see what works best. By doing this over and over, machine learning can learn what makes UPT go up and suggest those things to the store. This way, stores can make smart choices to get more items sold each time someone shops, which helps them make more money.
 

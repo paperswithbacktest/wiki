@@ -48,7 +48,7 @@ They also keep a close eye on how the investments are doing. If something change
 
 Stevens Capital Management has done a good job with their funds over the years. They have different funds that have grown well for their clients. For example, their main stock fund has done better than the average stock market over the last ten years. This means that people who put their money in this fund have seen their money grow more than if they had just followed the stock market.
 
-Their bond funds have also been doing well. These funds are usually safer and help people keep their money steady while still earning a little bit. Over the last five years, their bond funds have given good returns compared to other bond funds. Stevens Capital Management keeps a close eye on all their funds and makes changes when needed to keep them doing well for their clients.
+Their bond funds have also been doing well. These funds are usually safer and help people keep their money steady while still [earning](/wiki/earning-announcement) a little bit. Over the last five years, their bond funds have given good returns compared to other bond funds. Stevens Capital Management keeps a close eye on all their funds and makes changes when needed to keep them doing well for their clients.
 
 ## What are the fees associated with investing through Stevens Capital Management?
 
@@ -70,7 +70,7 @@ Another big advantage is their team of experts. Stevens Capital Management has p
 
 ## How does Stevens Capital Management integrate ESG (Environmental, Social, and Governance) factors into its investment process?
 
-Stevens Capital Management cares about the environment, how companies treat people, and how they are run. They call these things ESG factors, which stands for Environmental, Social, and Governance. When they pick investments for their clients, they look at how companies do with these factors. They believe that companies that do well in ESG are often better investments because they think about the future and treat people and the planet well. This helps their clients' money grow in a way that also helps the world.
+Stevens Capital Management cares about the environment, how companies treat people, and how they are run. They call these things [ESG](/wiki/esg-investing) factors, which stands for Environmental, Social, and Governance. When they pick investments for their clients, they look at how companies do with these factors. They believe that companies that do well in ESG are often better investments because they think about the future and treat people and the planet well. This helps their clients' money grow in a way that also helps the world.
 
 To make sure they include ESG in their choices, Stevens Capital Management uses special tools and research. They check how companies are doing with things like using clean energy, treating workers fairly, and having good leaders. They also talk to the companies they invest in to see how they can improve. By doing this, Stevens Capital Management helps their clients invest in companies that not only make money but also make the world a better place.
 

@@ -128,7 +128,7 @@ In summary, the velocity of money serves as a barometer for economic vitality, f
 
 ## What is the Case Study about Algorithm Trading with Velocity of Money?
 
-In this case study, we explore the application of money velocity as a trigger within algorithmic trading strategies. By integrating the velocity of money into trading algorithms, traders can potentially optimize trade execution and enhance decision-making. 
+In this case study, we explore the application of money velocity as a trigger within [algorithmic trading](/wiki/algorithmic-trading) strategies. By integrating the velocity of money into trading algorithms, traders can potentially optimize trade execution and enhance decision-making. 
 
 ### Selection of Financial Instruments
 

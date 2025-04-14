@@ -136,7 +136,7 @@ This FCCR of 2.0 indicates that Company A is capable of covering its fixed finan
 
 From the perspective of lenders, a high FCCR such as this one suggests financial stability, making Company A a more attractive candidate for favorable loan terms. Lenders often rely on FCCR as a measure of creditworthiness, and a higher ratio increases the likelihood of securing loans with lower interest rates and more favorable conditions.
 
-In algorithmic trading, the significance of FCCR is equally profound. A company with a robust FCCR, like 2.0, might trigger a buy order within trading algorithms. This dictates a lower credit risk and suggests that the company is less likely to default on its obligations, presenting a more secure investment opportunity during volatile market conditions.
+In [algorithmic trading](/wiki/algorithmic-trading), the significance of FCCR is equally profound. A company with a robust FCCR, like 2.0, might trigger a buy order within trading algorithms. This dictates a lower credit risk and suggests that the company is less likely to default on its obligations, presenting a more secure investment opportunity during volatile market conditions.
 
 Furthermore, investment firms often incorporate FCCR into broader financial analyses. By using FCCR alongside other [liquidity](/wiki/liquidity-risk-premium) ratios, firms can gain a comprehensive understanding of a company’s cash flow adequacy. This assists in making informed decisions about client investments, ensuring that cash flows are sufficient to meet ongoing operational needs and enhance shareholder value.
 

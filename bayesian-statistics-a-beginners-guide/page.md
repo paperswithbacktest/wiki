@@ -40,7 +40,7 @@ The posterior distribution is what you believe after you've looked at your data.
 
 ## How do you choose a prior distribution?
 
-Choosing a prior distribution is like picking your starting guess before you look at any new data. You can use what you already know or believe about something. For example, if you're guessing about the weather, you might start with what the weather has been like recently. Or, if you're trying to figure out if a medicine works, you might use what other studies have found. The important thing is to pick a prior that makes sense with what you know before you start.
+Choosing a prior distribution is like [picking](/wiki/asset-class-picking) your starting guess before you look at any new data. You can use what you already know or believe about something. For example, if you're guessing about the weather, you might start with what the weather has been like recently. Or, if you're trying to figure out if a medicine works, you might use what other studies have found. The important thing is to pick a prior that makes sense with what you know before you start.
 
 Sometimes, people use what's called an "uninformative prior." This is like saying you don't know much to start with, so you give all possibilities an equal chance. It's useful when you don't want your first guess to affect your final answer too much. Other times, you might use an "informative prior" if you have a strong belief or a lot of information already. The choice depends on how much you know and how much you want that knowledge to influence your final decision.
 

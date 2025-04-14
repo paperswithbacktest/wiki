@@ -18,7 +18,7 @@ Refinancing means getting a new loan to replace an old one, often to get a lower
 
 The Mortgage Bankers Association (MBA) publishes the MBA Refinance Index. They put it out every week. The MBA is a group that helps people who work with mortgages. They collect data from many lenders to make the index.
 
-The index tells us how many people are refinancing their home loans. Refinancing means getting a new loan to replace the old one. People do this to get a better interest rate or to change the terms of their loan. The MBA Refinance Index helps everyone understand what is happening in the housing market.
+The index tells us how many people are refinancing their home loans. Refinancing means getting a new loan to replace the old one. People do this to get a better [interest rate](/wiki/interest-rate-trading-strategies) or to change the terms of their loan. The MBA Refinance Index helps everyone understand what is happening in the housing market.
 
 ## How is the MBA Refinance Index calculated?
 

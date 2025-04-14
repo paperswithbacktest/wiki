@@ -24,7 +24,7 @@ However, a high GDP doesn't always mean everything is perfect. Sometimes, the we
 
 A high GDP comes from many things working well together. One big thing is having lots of people who can work and make things. If more people have jobs, they make more stuff, and that makes the GDP go up. Another important thing is having good technology and machines that help people work better and faster. When businesses use new inventions and smart ways of doing things, they can make more things without needing more people, and that helps the GDP grow.
 
-Another factor is how much people and the government spend. When people feel good about the future, they spend more money on things like cars, houses, and going out to eat. This spending helps businesses grow and make more stuff, which pushes the GDP up. The government can also help by spending money on things like roads, schools, and hospitals. This spending not only creates jobs but also makes it easier for businesses to work and for people to live better lives, which all adds to a higher GDP.
+Another [factor](/wiki/factor-investing) is how much people and the government spend. When people feel good about the future, they spend more money on things like cars, houses, and going out to eat. This spending helps businesses grow and make more stuff, which pushes the GDP up. The government can also help by spending money on things like roads, schools, and hospitals. This spending not only creates jobs but also makes it easier for businesses to work and for people to live better lives, which all adds to a higher GDP.
 
 Lastly, trading with other countries can boost GDP. When a country sells more stuff to other countries than it buys, it can make more money and grow its economy. Also, bringing in new ideas and technologies from other places can help businesses at home do better. All these things together help make a country's GDP high and show that its economy is doing well.
 
@@ -113,7 +113,7 @@ In conclusion, while GDP serves as a fundamental tool in gauging economic perfor
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization." This paper discusses methodologies for optimizing hyper-parameters in machine learning models, a fundamental process that can significantly enhance the performance of predictive algorithms, including those used in algorithmic trading. Understanding these optimization algorithms is crucial for developing robust trading systems.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization." This paper discusses methodologies for optimizing hyper-parameters in [machine learning](/wiki/machine-learning) models, a fundamental process that can significantly enhance the performance of predictive algorithms, including those used in [algorithmic trading](/wiki/algorithmic-trading). Understanding these optimization algorithms is crucial for developing robust trading systems.
 
 Lopez de Prado, M. (2018). "Advances in Financial Machine Learning." This book provides innovative approaches and techniques in the application of machine learning for finance. It covers topics such as feature importance, [backtesting](/wiki/backtesting), and overfitting, all of which are critical for traders leveraging economic indicators through algorithmic strategies. It serves as a comprehensive guide for applying machine learning to financial data analysis.
 

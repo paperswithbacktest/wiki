@@ -30,7 +30,7 @@ Another big benefit is that the put provision helps protect the bondholder from 
 
 A put provision and a call provision are two different features that can be included in bonds, and they work in opposite ways. A put provision is like a safety net for the person who buys the bond. It lets them sell the bond back to the company that issued it before the bond's official end date. This can be really helpful if the bondholder needs their money back sooner than expected or if the bond's value goes down.
 
-On the other hand, a call provision is a feature that benefits the company that issued the bond. It allows the issuer to buy back the bond from the bondholder before it matures. The company might want to do this if interest rates go down, so they can issue new bonds at a lower interest rate and save money. So, while a put provision gives more control to the bondholder, a call provision gives more control to the issuer.
+On the other hand, a call provision is a feature that benefits the company that issued the bond. It allows the issuer to buy back the bond from the bondholder before it matures. The company might want to do this if interest rates go down, so they can issue new bonds at a lower [interest rate](/wiki/interest-rate-trading-strategies) and save money. So, while a put provision gives more control to the bondholder, a call provision gives more control to the issuer.
 
 ## In what types of securities are put provisions commonly found?
 

@@ -22,7 +22,7 @@ On the other hand, quantitative factors are all about numbers and data. They inc
 
 ## Can you list some common qualitative factors used to assess a company's performance?
 
-When people want to know how good a company is, they often look at qualitative factors. These are things you can't measure with numbers. One big qualitative factor is the company's culture. A good culture means employees are happy and work well together. Another important factor is the company's reputation. If people think highly of the company, it can attract better customers and employees. Leadership also matters a lot. Good leaders can inspire employees and make smart decisions that help the company grow.
+When people want to know how good a company is, they often look at qualitative factors. These are things you can't measure with numbers. One big qualitative [factor](/wiki/factor-investing) is the company's culture. A good culture means employees are happy and work well together. Another important factor is the company's reputation. If people think highly of the company, it can attract better customers and employees. Leadership also matters a lot. Good leaders can inspire employees and make smart decisions that help the company grow.
 
 Customer satisfaction is another key qualitative factor. If customers are happy with the company's products or services, they are more likely to come back and tell others about it. The company's innovation is also important. If a company is always coming up with new ideas and products, it can stay ahead of its competitors. Finally, the company's social responsibility can affect its performance. If a company is seen as doing good things for the community or the environment, it can improve its image and attract more support.
 

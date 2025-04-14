@@ -46,7 +46,7 @@ Yunus's ideas have also inspired other people and organizations to start their o
 
 ## What are some of the key books written by Muhammad Yunus?
 
-Muhammad Yunus has written several important books that explain his ideas and work. One of his most famous books is "Banker to the Poor: Micro-Lending and the Battle Against World Poverty." In this book, Yunus tells the story of how he started the Grameen Bank and how microfinance can help poor people. He shares his experiences and the challenges he faced, making it easy for readers to understand why his work is so important.
+Muhammad Yunus has written several important [books](/wiki/algo-trading-books) that explain his ideas and work. One of his most famous books is "Banker to the Poor: Micro-Lending and the Battle Against World Poverty." In this book, Yunus tells the story of how he started the Grameen Bank and how microfinance can help poor people. He shares his experiences and the challenges he faced, making it easy for readers to understand why his work is so important.
 
 Another key book by Yunus is "Creating a World Without Poverty: Social Business and the Future of Capitalism." In this book, Yunus introduces the idea of social business, which is a type of business that aims to solve social problems rather than just making money. He explains how social businesses can work alongside traditional businesses to help more people and make the world a better place. Both books are important because they share Yunus's vision for a world where everyone can live without poverty.
 

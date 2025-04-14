@@ -18,7 +18,7 @@ This rating is useful for people who want to make sure their money is invested i
 
 The Morningstar Sustainability Rating is calculated by looking at how well companies handle environmental, social, and governance (ESG) issues. Morningstar uses data from companies and other sources to figure out the rating. They look at things like how much a company pollutes, how it treats its workers, and how it is run. Each company gets a score based on this information, and then Morningstar compares these scores to other companies in the same industry.
 
-After getting the scores for individual companies, Morningstar then calculates the rating for funds. A fund's rating is based on the ESG scores of all the companies it holds. The fund gets a score from 1 to 5 globes. A score of 5 globes means the fund is very sustainable, while a score of 1 globe means it is not very sustainable. This way, investors can see how sustainable their investments are and make choices that match their values.
+After getting the scores for individual companies, Morningstar then calculates the rating for funds. A fund's rating is based on the [ESG](/wiki/esg-investing) scores of all the companies it holds. The fund gets a score from 1 to 5 globes. A score of 5 globes means the fund is very sustainable, while a score of 1 globe means it is not very sustainable. This way, investors can see how sustainable their investments are and make choices that match their values.
 
 ## What are the key components of the Morningstar Sustainability Rating methodology?
 
@@ -82,7 +82,7 @@ To keep things clear, Morningstar tells people how they figure out the ratings. 
 
 ## What is the difference between the Morningstar Star Rating and the Sustainability Rating?
 
-Both the Morningstar Star Rating and the Sustainability Rating serve as crucial tools for evaluating investment funds, yet their focus diverges significantly. The Star Rating primarily assesses a fund's historical performance by analyzing risk-adjusted returns. This involves calculating the fund's return above a risk-free rate and adjusting for the volatility of those returns over a specific period. The formula for calculating a risk-adjusted return can be expressed as:
+Both the Morningstar Star Rating and the Sustainability Rating serve as crucial tools for evaluating investment funds, yet their focus diverges significantly. The Star Rating primarily assesses a fund's historical performance by analyzing risk-adjusted returns. This involves calculating the fund's return above a risk-free rate and adjusting for the [volatility](/wiki/volatility-trading-strategies) of those returns over a specific period. The formula for calculating a risk-adjusted return can be expressed as:
 
 $$
 

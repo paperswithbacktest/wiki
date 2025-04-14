@@ -72,7 +72,7 @@ On the other hand, GAAP has strict rules that everyone follows. This means that 
 
 Using OCBOA for financial reporting can make things easier when it comes to taxes. If a business uses the income tax basis of OCBOA, their financial statements will match their tax returns. This means they only need to do one set of numbers for both their financial reports and their taxes. This can save time and reduce the chance of making mistakes because everything is consistent.
 
-However, using OCBOA can also have some downsides for taxes. If a business uses a different method like the cash basis, their financial statements might not match their tax returns. This can make things more complicated because they'll need to keep two sets of books. Also, if a business wants to take advantage of certain tax benefits or deductions, they might need to use GAAP because it's more accepted by tax authorities. So, while OCBOA can simplify some parts of tax reporting, it might also create extra work in other areas.
+However, using OCBOA can also have some downsides for taxes. If a business uses a different method like the cash basis, their financial statements might not match their tax returns. This can make things more complicated because they'll need to keep two sets of [books](/wiki/algo-trading-books). Also, if a business wants to take advantage of certain tax benefits or deductions, they might need to use GAAP because it's more accepted by tax authorities. So, while OCBOA can simplify some parts of tax reporting, it might also create extra work in other areas.
 
 ## What future trends or regulatory changes might affect the use of OCBOA?
 

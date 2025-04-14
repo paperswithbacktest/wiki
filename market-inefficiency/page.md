@@ -32,7 +32,7 @@ Another cause of market inefficiencies is when there are not enough buyers or se
 
 Arbitrage is a way to make money from market inefficiencies. It happens when someone buys something in one place where it's cheaper and then sells it in another place where it's more expensive. For example, if a toy is cheaper in one store than another, someone could buy the toy from the cheaper store and sell it at the more expensive store, making a profit. This works because the price of the toy is different in the two places, which is a sign of market inefficiency.
 
-When people do arbitrage, they help make markets more efficient. By buying where prices are low and selling where prices are high, they help even out the prices. Over time, this can make the price of the toy the same in both stores. So, arbitrage is not just a way to make money; it also helps fix market inefficiencies by making prices more fair and accurate.
+When people do [arbitrage](/wiki/arbitrage), they help make markets more efficient. By buying where prices are low and selling where prices are high, they help even out the prices. Over time, this can make the price of the toy the same in both stores. So, arbitrage is not just a way to make money; it also helps fix market inefficiencies by making prices more fair and accurate.
 
 ## How do information asymmetries contribute to market inefficiencies?
 
@@ -86,7 +86,7 @@ Another recent model is the Noise Trader Model. This model focuses on how some p
 
 Market inefficiencies present both challenges and opportunities for algorithmic traders aiming to optimize strategies and portfolios. Despite the complexities associated with these inefficiencies, such as execution risks and rapidly adjusting markets, they offer a unique landscape for generating returns. By effectively understanding and exploiting these deviations from fair pricing, traders can enhance their potential for improved returns and secure a competitive advantage. 
 
-The strategic implementation of algorithms allows traders to exploit price anomalies, information inefficiencies, and market structure issues with precision and speed that surpass human capabilities. Advanced analytical techniques, such as machine learning and [artificial intelligence](/wiki/ai-artificial-intelligence), contribute significantly to identifying these inefficiencies. The equation for potential profit ($P$) derived from an inefficiency could be modeled as follows:
+The strategic implementation of algorithms allows traders to exploit price anomalies, information inefficiencies, and market structure issues with precision and speed that surpass human capabilities. Advanced analytical techniques, such as [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence), contribute significantly to identifying these inefficiencies. The equation for potential profit ($P$) derived from an inefficiency could be modeled as follows:
 
 $$
 

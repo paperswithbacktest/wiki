@@ -32,7 +32,7 @@ There's also a third type called private activity bonds. These are a bit more co
 
 Municipal bonds have a big tax advantage: the interest you earn from them is often not taxed by the federal government. This means you get to keep more of the money you earn. For example, if you earn $1,000 in interest from a municipal bond, you don't have to pay federal taxes on that $1,000. This can make a big difference, especially if you're in a high tax bracket.
 
-Sometimes, the interest is also not taxed by the state government, but only if you live in the state that issued the bond. So, if you buy a bond from your own state, you might not have to pay state taxes on the interest either. This double tax-free benefit can make municipal bonds a smart choice for people looking to save on taxes while still earning a steady income from their investments.
+Sometimes, the interest is also not taxed by the state government, but only if you live in the state that issued the bond. So, if you buy a bond from your own state, you might not have to pay state taxes on the interest either. This double tax-free benefit can make municipal bonds a smart choice for people looking to save on taxes while still [earning](/wiki/earning-announcement) a steady income from their investments.
 
 ## How do federal income tax exemptions apply to municipal bonds?
 
@@ -60,7 +60,7 @@ To avoid this, you can look for municipal bonds that are not subject to the AMT.
 
 ## What are the potential risks associated with investing in municipal bonds?
 
-Investing in municipal bonds can be a good choice, but there are some risks you should know about. One risk is that the government or agency that issued the bond might not be able to pay you back. This is called default risk. It doesn't happen often, but if it does, you might lose some or all of the money you invested. Another risk is interest rate risk. If interest rates go up after you buy a bond, the value of your bond might go down. This is because new bonds will be issued with higher interest rates, making your bond less attractive to other investors.
+Investing in municipal bonds can be a good choice, but there are some risks you should know about. One risk is that the government or agency that issued the bond might not be able to pay you back. This is called default risk. It doesn't happen often, but if it does, you might lose some or all of the money you invested. Another risk is [interest rate](/wiki/interest-rate-trading-strategies) risk. If interest rates go up after you buy a bond, the value of your bond might go down. This is because new bonds will be issued with higher interest rates, making your bond less attractive to other investors.
 
 There's also inflation risk to think about. Inflation means the value of money goes down over time. If inflation goes up a lot, the interest you earn from your bond might not be enough to keep up with the rising costs. This means your investment might not grow as much as you hoped. Lastly, there's the risk that comes from changes in tax laws. If the tax benefits of municipal bonds change, it could affect how much money you actually get to keep from your investment. Knowing these risks can help you make smarter choices when investing in municipal bonds.
 

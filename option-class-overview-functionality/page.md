@@ -82,7 +82,7 @@ You don't have to change your whole program at once to start using Option. You c
 
 ## What are the key aspects of risk management in algo and options trading?
 
-Risk management is a cornerstone of successful trading, especially in markets characterized by high volatility and leverage, such as options trading. Options trading, by its nature, involves derivatives that can create asymmetrical risk-reward profiles. This introduces both unique opportunities and significant risks, necessitating effective risk management strategies to safeguard capital and optimize potential returns.
+Risk management is a cornerstone of successful trading, especially in markets characterized by high [volatility](/wiki/volatility-trading-strategies) and leverage, such as options trading. Options trading, by its nature, involves derivatives that can create asymmetrical risk-reward profiles. This introduces both unique opportunities and significant risks, necessitating effective risk management strategies to safeguard capital and optimize potential returns.
 
 Stop-loss orders and position sizing are foundational tools for risk mitigation. Stop-loss orders allow traders to set predetermined [exit](/wiki/exit-strategy) points to limit potential losses on a position. Effective position sizing involves determining the optimal amount of capital to allocate to each trade, balancing the potential for gain against the risk of loss. This can be calculated using the formula:
 

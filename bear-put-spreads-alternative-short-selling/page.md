@@ -64,7 +64,7 @@ When it comes to ending the spread, you need to watch the stock price closely as
 
 ## What are some advanced strategies for optimizing Bear Put Spreads?
 
-One way to make a Bear Put Spread work better is by choosing the right strike prices and expiration dates. If you think the stock will go down a lot soon, you might want to pick a higher strike price for the put option you buy and a lower strike price for the one you sell. This can give you more room to make money if the stock drops a lot. Also, picking an expiration date that gives the stock enough time to move down but isn't too far away can help. If the stock doesn't move fast enough, you might lose money, so timing is important.
+One way to make a Bear Put Spread work better is by choosing the right strike prices and expiration dates. If you think the stock will go down a lot soon, you might want to pick a higher strike price for the put option you buy and a lower strike price for the one you sell. This can give you more room to make money if the stock drops a lot. Also, [picking](/wiki/asset-class-picking) an expiration date that gives the stock enough time to move down but isn't too far away can help. If the stock doesn't move fast enough, you might lose money, so timing is important.
 
 Another strategy is to adjust your Bear Put Spread as the stock price changes. If the stock starts going down like you thought, you might want to close the spread early to lock in your profit. But if the stock isn't moving much, you could roll the spread to a later expiration date or adjust the strike prices to give the stock more time or a better chance to move in your favor. Watching the stock closely and being ready to make changes can help you make the most of your Bear Put Spread.
 

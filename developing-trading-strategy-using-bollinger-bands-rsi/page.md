@@ -48,7 +48,7 @@ It's important to remember that these signs are just part of making a trading pl
 
 To backtest a trading strategy that uses Bollinger Bands and RSI, you need to look at past data to see how well your plan would have worked. You can use a computer program or a special tool to do this. First, you set up your strategy rules, like buying when the price touches the bottom Bollinger Band and the RSI is below 30, and selling when the price touches the top Bollinger Band and the RSI is above 70. Then, you run the program with old stock data to see if your strategy would have made money or lost money in the past.
 
-When you backtest, you should also think about things like how much money you would have made or lost, how often you would have bought and sold, and how long you would have held onto the stock. This helps you see if your strategy is good or if you need to change it. Remember, just because a strategy worked in the past doesn't mean it will work in the future, but backtesting can give you a good idea of how well your plan might work.
+When you backtest, you should also think about things like how much money you would have made or lost, how often you would have bought and sold, and how long you would have held onto the stock. This helps you see if your strategy is good or if you need to change it. Remember, just because a strategy worked in the past doesn't mean it will work in the future, but [backtesting](/wiki/backtesting) can give you a good idea of how well your plan might work.
 
 ## What are common pitfalls and mistakes to avoid when using Bollinger Bands and RSI in trading?
 
@@ -62,7 +62,7 @@ Lastly, it's easy to get too excited when you see a signal from Bollinger Bands 
 
 To make a Bollinger Bands and RSI strategy work well in different market conditions, you need to change the settings of these tools. In a market that moves a lot, you might want to use a shorter time period for Bollinger Bands, like 10 days instead of 20, and a shorter time period for RSI, like 7 days instead of 14. This helps you see quick changes in the price. In a market that doesn't move much, you might want to use a longer time period for Bollinger Bands, like 50 days, and a longer time period for RSI, like 21 days. This helps you see bigger trends and avoid getting tricked by small changes.
 
-Another way to optimize your strategy is to look at other signs along with Bollinger Bands and RSI. For example, in a market that's going up a lot, you might want to wait for more signs that the price will keep going up before you buy. You could look at things like the overall market trend or news about the company. In a market that's going down a lot, you might want to wait for more signs that the price will stop going down before you sell. Using other tools like moving averages or volume can help you make better decisions in different market conditions.
+Another way to optimize your strategy is to look at other signs along with Bollinger Bands and RSI. For example, in a market that's going up a lot, you might want to wait for more signs that the price will keep going up before you buy. You could look at things like the overall market trend or news about the company. In a market that's going down a lot, you might want to wait for more signs that the price will stop going down before you sell. Using other tools like moving averages or [volume](/wiki/volume-trading-strategy) can help you make better decisions in different market conditions.
 
 ## What advanced techniques can be applied to enhance a Bollinger Bands and RSI trading strategy?
 
@@ -84,7 +84,7 @@ Another example involved a stock called ABC Inc. The stock's price had been goin
 
 ## What is the process for decoding the Relative Strength Index (RSI)?
 
-The Relative Strength Index (RSI) is a widely-utilized momentum oscillator within the field of technical analysis, providing insights into the speed and magnitude of recent price changes. Developed by J. Welles Wilder Jr. in 1978, this indicator is instrumental for traders to ascertain potential entry and exit points in the market. The RSI operates within a numerical range of 0 to 100, offering a standardized method to judge the underlying strength or weakness of a financial instrument over a specific period, typically 14 days.
+The Relative Strength Index (RSI) is a widely-utilized [momentum](/wiki/momentum) oscillator within the field of technical analysis, providing insights into the speed and magnitude of recent price changes. Developed by J. Welles Wilder Jr. in 1978, this indicator is instrumental for traders to ascertain potential entry and [exit](/wiki/exit-strategy) points in the market. The RSI operates within a numerical range of 0 to 100, offering a standardized method to judge the underlying strength or weakness of a financial instrument over a specific period, typically 14 days.
 
 The core function of the RSI is to identify overbought or oversold conditions within the market. When the RSI value surpasses 70, it is indicative of overbought conditions, suggesting that the asset may be overvalued and a price correction could be imminent. Conversely, an RSI reading below 30 signals oversold conditions, implying that the asset may be undervalued and a price increase might be forthcoming.
 
@@ -97,7 +97,7 @@ $$
 
 Where $RS$ (Relative Strength) is the average of $n$ days' up closes divided by the average of $n$ days' down closes. It is important to ensure that the correct period is selected for calculation, as shorter periods increase sensitivity to price movements, while longer periods provide a smoother indicator.
 
-By effectively capturing market momentum, the RSI serves as a critical tool to forecast potential price reversals, allowing traders to optimize their trading strategies. This predictive capability makes the RSI indispensable for traders aiming to harness volatility and capitalize on market inefficiencies.
+By effectively capturing market momentum, the RSI serves as a critical tool to forecast potential price reversals, allowing traders to optimize their trading strategies. This predictive capability makes the RSI indispensable for traders aiming to harness [volatility](/wiki/volatility-trading-strategies) and capitalize on market inefficiencies.
 
 ## References & Further Reading
 

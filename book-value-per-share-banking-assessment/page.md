@@ -28,7 +28,7 @@ However, just looking at BVPS isn't enough. Banks have special rules for how the
 
 ## How does BVPS differ from market value per share?
 
-BVPS and market value per share are two different ways to figure out how much a company's stock is worth. BVPS is all about the company's books. It looks at what the company owns (its assets) and subtracts what it owes (its liabilities). Then, you divide that number by how many shares the company has. This tells you what each share would be worth if the company sold everything it owned and paid off all its debts. It's a way to see the "book" value of the company.
+BVPS and market value per share are two different ways to figure out how much a company's stock is worth. BVPS is all about the company's [books](/wiki/algo-trading-books). It looks at what the company owns (its assets) and subtracts what it owes (its liabilities). Then, you divide that number by how many shares the company has. This tells you what each share would be worth if the company sold everything it owned and paid off all its debts. It's a way to see the "book" value of the company.
 
 On the other hand, market value per share is about what people are willing to pay for the stock right now. It's the price you see on the stock market. This number can go up and down a lot because it depends on what investors think about the company's future. Sometimes, the market value can be higher than the BVPS if people think the company is going to do really well. Other times, it can be lower if people are worried about the company's future. So, while BVPS gives you a solid number based on the company's current financials, market value per share is more about what people think might happen next.
 
@@ -100,7 +100,7 @@ In summary, Book Value and BVPS serve as critical assessment tools for investors
 
 ## How can Book Value and BVPS be incorporated into Algorithmic Trading?
 
-Algorithmic trading, which predominantly uses technical indicators and statistical models, can benefit from integrating fundamental financial metrics such as Book Value (BV) and Book Value per Share (BVPS). By doing so, traders can obtain a comprehensive view of a stock's potential by combining the quantitative prowess of algorithmic strategies with qualitative insights derived from fundamental analysis. 
+Algorithmic trading, which predominantly uses technical indicators and statistical models, can benefit from integrating fundamental financial metrics such as Book Value (BV) and Book Value per Share (BVPS). By doing so, traders can obtain a comprehensive view of a stock's potential by combining the quantitative prowess of algorithmic strategies with qualitative insights derived from [fundamental analysis](/wiki/fundamental-analysis). 
 
 Incorporating BV and BVPS into [algorithmic trading](/wiki/algorithmic-trading) algorithms enhances the decision-making process. These metrics provide a foundational assessment of a company's intrinsic value, which can be pivotal when seeking to identify undervalued stocks in the market. This integration allows traders to embed evaluations of book value data into their trading algorithms, which can automatically assess whether a stock is trading at a discount or premium relative to its book value. The calculation of BVPS, defined as:
 

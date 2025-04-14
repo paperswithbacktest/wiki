@@ -56,7 +56,7 @@ The mean for grouped data is useful because it helps you understand the average 
 
 When you use the mean to find the average of a set of numbers, it can be affected by numbers that are very high or very low. These extreme numbers can pull the mean away from what most people might think of as the middle. For example, if you have the numbers 1, 2, 3, 4, and 100, the mean is 22, which doesn't really show what most of the numbers are like. This is called being sensitive to outliers. Because of this, the mean might not always give you the best picture of your data, especially if you have a few numbers that are very different from the rest.
 
-Another problem with the mean is that it can hide important details about your data. If you only look at the mean, you might miss other things that are important, like how spread out the numbers are or if there are different groups within your data. For example, if you're looking at the average income in a town, the mean might be high because of a few very rich people, but most people might actually be earning much less. This can lead to a bias where the mean makes it seem like everyone is doing better than they really are. So, it's good to use the mean along with other ways to look at your data, like the median or the mode, to get a fuller picture.
+Another problem with the mean is that it can hide important details about your data. If you only look at the mean, you might miss other things that are important, like how spread out the numbers are or if there are different groups within your data. For example, if you're looking at the average income in a town, the mean might be high because of a few very rich people, but most people might actually be [earning](/wiki/earning-announcement) much less. This can lead to a bias where the mean makes it seem like everyone is doing better than they really are. So, it's good to use the mean along with other ways to look at your data, like the median or the mode, to get a fuller picture.
 
 ## How do outliers affect the mean and what can be done to mitigate their impact?
 
@@ -84,7 +84,7 @@ Another measure of central tendency is the mode, which is the number that shows 
 
 ## What does understanding means in finance entail?
 
-A 'mean' is essentially the mathematical average of a set of numbers and serves as a central tendency indicator in statistics. In finance, understanding different types of means is crucial for analyzing data related to market trends, investment returns, and risk assessments. Specifically, in trading, various means help in assessing historical performance and making informed predictions about future price movements. 
+A 'mean' is essentially the mathematical average of a set of numbers and serves as a central tendency indicator in [statistics](/wiki/bayesian-statistics). In finance, understanding different types of means is crucial for analyzing data related to market trends, investment returns, and risk assessments. Specifically, in trading, various means help in assessing historical performance and making informed predictions about future price movements. 
 
 The arithmetic mean is the most straightforward type of mean, calculated by summing all numbers in a dataset and then dividing by the total count of these numbers. It provides a simple average and is widely used for its ease of calculation:
 

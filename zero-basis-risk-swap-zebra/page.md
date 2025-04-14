@@ -18,7 +18,7 @@ ZEBRAs are often used by companies and investors who want to manage their intere
 
 A ZEBRA, or Zero Basis Risk Swap, is different from traditional swaps because it takes away the risk that comes from the difference between the two interest rates being swapped. In a regular swap, if one rate goes up and the other goes down, one party might end up losing money. But with a ZEBRA, the swap is set up so that any changes in one rate are balanced out by changes in the other rate. This means that both parties can feel more secure, knowing that the value of their swap won't change unexpectedly.
 
-Traditional swaps are often used to change the type of interest rate a company or investor is exposed to, like switching from a floating rate to a fixed rate. While these swaps can help manage interest rate risk, they still leave room for basis risk, which is the risk that the difference between the two rates will change. A ZEBRA, on the other hand, is specifically designed to eliminate this basis risk, making it a more stable option for those who want to avoid the ups and downs of the market.
+Traditional swaps are often used to change the type of [interest rate](/wiki/interest-rate-trading-strategies) a company or investor is exposed to, like switching from a floating rate to a fixed rate. While these swaps can help manage interest rate risk, they still leave room for basis risk, which is the risk that the difference between the two rates will change. A ZEBRA, on the other hand, is specifically designed to eliminate this basis risk, making it a more stable option for those who want to avoid the ups and downs of the market.
 
 ## What are the primary benefits of using a ZEBRA?
 

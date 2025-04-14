@@ -46,9 +46,9 @@ On the other hand, if people think they won't use the extension feature much, th
 
 ## What factors influence the decision to extend an extendable bond?
 
-The main thing that influences the decision to extend an extendable bond is what's happening with interest rates. If interest rates are going up, it might be a good idea to extend the bond. This is because you can keep earning interest at the current rate, which might be better than what you could get if you took your money back and invested it somewhere else. On the other hand, if interest rates are going down, you might not want to extend the bond. You could take your money back and put it into a new investment that gives you a better return.
+The main thing that influences the decision to extend an extendable bond is what's happening with interest rates. If interest rates are going up, it might be a good idea to extend the bond. This is because you can keep [earning](/wiki/earning-announcement) interest at the current rate, which might be better than what you could get if you took your money back and invested it somewhere else. On the other hand, if interest rates are going down, you might not want to extend the bond. You could take your money back and put it into a new investment that gives you a better return.
 
-Another factor is how much you need the money. If you need the money soon, you probably won't extend the bond. But if you don't need the money right away, extending the bond might be a good choice. It's also important to think about the financial health of the company or government that issued the bond. If they are doing well, you might feel more comfortable extending the bond. But if they are having money problems, you might decide to take your money back to be safe.
+Another [factor](/wiki/factor-investing) is how much you need the money. If you need the money soon, you probably won't extend the bond. But if you don't need the money right away, extending the bond might be a good choice. It's also important to think about the financial health of the company or government that issued the bond. If they are doing well, you might feel more comfortable extending the bond. But if they are having money problems, you might decide to take your money back to be safe.
 
 ## Can you provide an example of how an extendable bond might be structured?
 

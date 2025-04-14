@@ -42,7 +42,7 @@ These levels can affect how people feel about a stock and what they decide to do
 
 ## How can traders use volume to understand market sentiment?
 
-Traders can use volume to understand market sentiment by looking at how many shares of a stock are being bought and sold. When the volume is high, it means a lot of people are trading the stock, which can show strong feelings about it. If the price is going up and the volume is high, it might mean that people are feeling really good about the stock and want to buy more. On the other hand, if the price is going down and the volume is high, it might mean that people are feeling worried and want to sell their shares.
+Traders can use [volume](/wiki/volume-trading-strategy) to understand market sentiment by looking at how many shares of a stock are being bought and sold. When the volume is high, it means a lot of people are trading the stock, which can show strong feelings about it. If the price is going up and the volume is high, it might mean that people are feeling really good about the stock and want to buy more. On the other hand, if the price is going down and the volume is high, it might mean that people are feeling worried and want to sell their shares.
 
 Volume can also help traders see if a price change is important or not. If the price goes up or down a little bit but the volume is low, it might not mean much because not many people are trading. But if the price changes a lot and the volume is high, it's a stronger sign that people's feelings about the stock are changing. By watching the volume, traders can get a better idea of how other people feel about the stock and make smarter choices about buying or selling.
 

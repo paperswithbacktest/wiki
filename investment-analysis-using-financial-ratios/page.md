@@ -28,7 +28,7 @@ The D/E ratio is important because it shows how much debt a company has compared
 
 ## How do liquidity ratios help in assessing a company's financial health?
 
-Liquidity ratios help investors see if a company can pay its short-term bills easily. These ratios measure how much cash or assets a company can quickly turn into cash to cover its debts. The most common liquidity ratios are the current ratio and the quick ratio. The current ratio compares a company's current assets to its current liabilities. A higher current ratio means the company has more assets to pay off its short-term debts, which is a good sign of financial health.
+Liquidity ratios help investors see if a company can pay its short-term bills easily. These ratios measure how much cash or assets a company can quickly turn into cash to cover its debts. The most common [liquidity](/wiki/liquidity-risk-premium) ratios are the current ratio and the quick ratio. The current ratio compares a company's current assets to its current liabilities. A higher current ratio means the company has more assets to pay off its short-term debts, which is a good sign of financial health.
 
 The quick ratio, also called the acid-test ratio, is a bit stricter. It looks at a company's most liquid assets, like cash and accounts receivable, and compares them to current liabilities. This ratio doesn't count inventory because it might take longer to sell. A higher quick ratio shows that a company can quickly pay its bills without selling inventory, which is important if the company faces sudden financial problems. By looking at these ratios, investors can tell if a company is in a good position to handle its short-term financial obligations, which is a key part of understanding its overall financial health.
 
@@ -254,7 +254,7 @@ A profit factor greater than one suggests a profitable trading strategy, whereas
 
 Volatility metrics are essential in assessing an algorithm's sensitivity to market fluctuations. High [volatility](/wiki/volatility-trading-strategies) might suggest larger swings in trade outcomes, impacting profitability and risk exposure. These indicators help investors adjust strategies to enhance performance and maintain stability across varying market conditions.
 
-Regular evaluation and adjustment of algorithms are imperative to conform to the ever-changing market dynamics. As markets evolve, algorithmic trading strategies must be recalibrated to maintain their relevance and effectiveness, thereby optimizing investment outcomes. Advanced [machine learning](/wiki/machine-learning) techniques could also be employed to predict and adapt to market changes, further optimizing algorithmic strategies. For example:
+Regular evaluation and adjustment of algorithms are imperative to conform to the ever-changing market dynamics. As markets evolve, [algorithmic trading](/wiki/algorithmic-trading) strategies must be recalibrated to maintain their relevance and effectiveness, thereby optimizing investment outcomes. Advanced [machine learning](/wiki/machine-learning) techniques could also be employed to predict and adapt to market changes, further optimizing algorithmic strategies. For example:
 
 ```python
 from sklearn.linear_model import LinearRegression

@@ -72,7 +72,7 @@ On the other hand, if interest rates go down, the cost of borrowing money goes d
 
 A company can manage its Degree of Financial Leverage by changing how much debt it uses. If a company wants to lower its DFL, it can pay off some of its loans or borrow less money. This makes the company's earnings more stable because it won't have to pay as much interest. But, it might also mean the company grows more slowly because it won't have as much money to invest in new projects. On the other hand, if a company wants to increase its DFL, it can borrow more money. This can help the company grow faster and make more money for its shareholders if everything goes well. But, it's also riskier because if the company's earnings go down, it still has to pay back the money it borrowed.
 
-Another way a company can manage its DFL is by changing how it makes money. If a company can make its earnings more stable, it can handle a higher DFL without as much risk. For example, a company might try to have more regular customers or sell products that people always need, like food or medicine. This can help the company's earnings stay steady even if the economy changes. Also, a company can use financial tools like interest rate swaps to manage the cost of its debt. If interest rates go up, these tools can help keep the company's interest payments from going up too much, which can help keep the DFL from getting too high.
+Another way a company can manage its DFL is by changing how it makes money. If a company can make its earnings more stable, it can handle a higher DFL without as much risk. For example, a company might try to have more regular customers or sell products that people always need, like food or medicine. This can help the company's earnings stay steady even if the economy changes. Also, a company can use financial tools like [interest rate](/wiki/interest-rate-trading-strategies) swaps to manage the cost of its debt. If interest rates go up, these tools can help keep the company's interest payments from going up too much, which can help keep the DFL from getting too high.
 
 ## How does the Degree of Financial Leverage vary across different industries?
 
@@ -90,7 +90,7 @@ $$
 DFL = \frac{\text{EBIT}}{\text{EBIT} - \text{Interest Expense}}
 $$
 
-This formula illustrates how fixed financial costs, namely interest expenses, amplify the effect of changes in EBIT on the company’s net income. The higher the DFL, the more sensitive EPS is to changes in EBIT, indicating a greater potential for volatility in earnings from the company’s financial structure.
+This formula illustrates how fixed financial costs, namely interest expenses, amplify the effect of changes in EBIT on the company’s net income. The higher the DFL, the more sensitive EPS is to changes in EBIT, indicating a greater potential for [volatility](/wiki/volatility-trading-strategies) in earnings from the company’s financial structure.
 
 The importance of DFL comes into focus when companies make strategic decisions related to capital structure and financing. For example, when a company is considering taking on additional debt to finance expansion, the DFL can provide insight into how this choice might impact shareholder earnings under different operating income scenarios. A high DFL could suggest increased financial risk, as even minor declines in EBIT could produce substantial reductions in EPS.
 

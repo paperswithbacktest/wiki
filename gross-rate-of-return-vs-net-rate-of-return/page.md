@@ -220,7 +220,7 @@ In conclusion, while gross rates of return can be useful for initial assessments
 
 ## What is the Performance Evaluation of Algorithmic Strategies?
 
-Algorithmic trading systems are increasingly vital in performance evaluation due to their ability to leverage gross rates of return for benchmarking. Gross rates of return provide an unadjusted view of profitability and serve as a preliminary measure of an algorithm's efficacy. By focusing on gross returns, algorithmic trading seeks to identify strategies that maximize investment growth prior to accounting for transaction costs, taxes, and other financial considerations.
+Algorithmic trading systems are increasingly vital in performance evaluation due to their ability to leverage gross rates of return for benchmarking. Gross rates of return provide an unadjusted view of profitability and serve as a preliminary measure of an algorithm's efficacy. By focusing on gross returns, [algorithmic trading](/wiki/algorithmic-trading) seeks to identify strategies that maximize investment growth prior to accounting for transaction costs, taxes, and other financial considerations.
 
 Two critical metrics that complement gross rates of return in evaluating algorithmic trading strategies are the Sharpe Ratio and Alpha. The Sharpe Ratio measures the risk-adjusted return of an investment, providing insight into how much excess return is received for the extra [volatility](/wiki/volatility-trading-strategies) endured by holding a riskier asset. It is calculated as:
 

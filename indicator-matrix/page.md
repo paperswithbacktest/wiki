@@ -18,7 +18,7 @@ Indicator matrices are useful because they make it easy to see patterns and do c
 
 An indicator matrix is different from other types of matrices because it only uses zeros and ones. Most other matrices can have any numbers in them, like whole numbers, fractions, or even negative numbers. The zeros and ones in an indicator matrix show if something is there or not. For example, if you're tracking which students are in a club, a one means the student is in the club, and a zero means they are not. This makes it easy to see patterns and group things together.
 
-Another difference is that indicator matrices are often used for specific purposes, like in data analysis or machine learning. They help to categorize and process information quickly. Other matrices, like square matrices or identity matrices, might be used for different things, like solving equations or transforming data. While an indicator matrix focuses on showing presence or absence, other matrices can do more complex calculations or represent different kinds of relationships between numbers.
+Another difference is that indicator matrices are often used for specific purposes, like in data analysis or [machine learning](/wiki/machine-learning). They help to categorize and process information quickly. Other matrices, like square matrices or identity matrices, might be used for different things, like solving equations or transforming data. While an indicator matrix focuses on showing presence or absence, other matrices can do more complex calculations or represent different kinds of relationships between numbers.
 
 ## What are the common uses of an indicator matrix in data analysis?
 
@@ -91,7 +91,7 @@ Another problem with indicator matrices is that they can make it hard to see som
 
 ## What are the components of an Indicator Matrix?
 
-An indicator matrix in algorithmic trading serves as a comprehensive toolkit designed to provide traders with detailed and actionable market insights. Key components of such a matrix include:
+An indicator matrix in [algorithmic trading](/wiki/algorithmic-trading) serves as a comprehensive toolkit designed to provide traders with detailed and actionable market insights. Key components of such a matrix include:
 
 1. **Money Flow**: This component is integral in tracing the liquidity movement within a trading environment, offering insights into the strength or weakness of market conditions. The Money Flow Index (MFI) is often used here, calculated as:
 $$

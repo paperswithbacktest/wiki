@@ -18,7 +18,7 @@ This type of data is useful because it can provide real-time insights and cover 
 
 Transportation alternative data is important because it helps us understand how people move around in ways that traditional data might miss. Traditional data like traffic counts or bus ridership numbers only tell part of the story. They don't always show if people are walking, biking, or using ridesharing apps. By using data from mobile apps, social media, and GPS devices, we can see a fuller picture of how people get from place to place.
 
-This kind of data is also useful because it gives us real-time information. For example, if a lot of people are using a fitness app to track their bike rides, city planners can see where bike lanes are needed most. This helps make better decisions about where to build new roads, bike paths, or sidewalks. In the end, transportation alternative data helps make cities and towns better places to live by understanding and meeting the needs of everyone who travels through them.
+This kind of data is also useful because it gives us real-time information. For example, if a lot of people are using a fitness app to track their bike rides, city planners can see where bike lanes are needed most. This helps make better decisions about where to build new roads, bike paths, or sidewalks. In the end, transportation [alternative data](/wiki/best-alternative-data) helps make cities and towns better places to live by understanding and meeting the needs of everyone who travels through them.
 
 ## What are the common sources of transportation alternative data?
 
@@ -36,7 +36,7 @@ Another way to collect this data is through public transit apps and smart cards.
 
 Analyzing transportation alternative data involves looking at the information collected from different sources like mobile apps, social media, and GPS devices. One basic method is to use mapping tools to see where people are going and how they are getting there. For example, by plotting the data on a map, you can see if a lot of people are biking along a certain route or if there are busy spots where traffic is heavy. This helps planners understand travel patterns and decide where to build new bike lanes or improve roads.
 
-Another method is to use statistics to find trends and patterns in the data. This can involve counting how many people are using different types of transportation, like walking, biking, or using ride-sharing services. By looking at these numbers over time, planners can see if more people are choosing to walk or bike instead of driving. This kind of analysis helps make decisions about where to put more resources, like building more sidewalks or adding bike racks.
+Another method is to use [statistics](/wiki/bayesian-statistics) to find trends and patterns in the data. This can involve counting how many people are using different types of transportation, like walking, biking, or using ride-sharing services. By looking at these numbers over time, planners can see if more people are choosing to walk or bike instead of driving. This kind of analysis helps make decisions about where to put more resources, like building more sidewalks or adding bike racks.
 
 Sometimes, researchers also use computer programs to analyze big sets of data. These programs can find connections between different pieces of information, like how weather affects how people travel. By understanding these connections, planners can make better plans for transportation that work well in different conditions. This helps make cities and towns better places to live by meeting the needs of everyone who travels through them.
 
@@ -60,7 +60,7 @@ In another example, the city of San Francisco used data from ride-sharing apps l
 
 ## What advanced technologies are used to enhance the collection and analysis of transportation alternative data?
 
-Advanced technologies like machine learning and artificial intelligence help make collecting and analyzing transportation alternative data easier and more accurate. Machine learning can look at big sets of data from mobile apps, social media, and GPS devices to find patterns and trends. For example, it can figure out if more people are biking on certain days or if traffic gets worse at certain times. This helps planners make better decisions about where to build new bike lanes or how to manage traffic.
+Advanced technologies like [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence) help make collecting and analyzing transportation alternative data easier and more accurate. Machine learning can look at big sets of data from mobile apps, social media, and GPS devices to find patterns and trends. For example, it can figure out if more people are biking on certain days or if traffic gets worse at certain times. This helps planners make better decisions about where to build new bike lanes or how to manage traffic.
 
 Another technology that helps is big data analytics. This technology can handle huge amounts of information from different sources all at once. It can put together data from fitness apps, ride-sharing services, and traffic cameras to give a full picture of how people move around. By using big data analytics, planners can see real-time changes in travel patterns and make quick decisions to improve transportation in cities.
 

@@ -46,7 +46,7 @@ Another change happened in 2016 when the U.S. Securities and Exchange Commission
 
 ## How does tick size influence market liquidity?
 
-Tick size can affect how easy it is to buy and sell stocks, which is called market liquidity. If the tick size is small, like one cent, it's easier for traders to find prices that work for them. This can make the market more active because more people are buying and selling. When more people trade, it's easier to find someone to buy from or sell to, which makes the market more liquid.
+Tick size can affect how easy it is to buy and sell stocks, which is called market [liquidity](/wiki/liquidity-risk-premium). If the tick size is small, like one cent, it's easier for traders to find prices that work for them. This can make the market more active because more people are buying and selling. When more people trade, it's easier to find someone to buy from or sell to, which makes the market more liquid.
 
 On the other hand, if the tick size is bigger, like five or ten cents, it can make trading slower and less active. With a bigger tick size, the difference between the price someone wants to buy at and the price someone wants to sell at can be bigger. This can make it harder for traders to find the right price, which can make the market less liquid. So, a smaller tick size usually makes the market more liquid, while a bigger tick size can make it less liquid.
 

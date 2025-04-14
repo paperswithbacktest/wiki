@@ -58,7 +58,7 @@ The main condition for getting a refund is that your franking credits must be mo
 
 ## What are the rules regarding the carry forward of franking credits?
 
-If a company has more franking credits than it can use in a year, it can carry them forward to use in future years. This means if a company doesn't pay out all its profits as dividends in one year, it can save the unused franking credits and attach them to dividends in later years. This helps the company make sure it uses all the tax credits it has earned from paying tax on its profits.
+If a company has more franking credits than it can use in a year, it can [carry](/wiki/carry-trading) them forward to use in future years. This means if a company doesn't pay out all its profits as dividends in one year, it can save the unused franking credits and attach them to dividends in later years. This helps the company make sure it uses all the tax credits it has earned from paying tax on its profits.
 
 For shareholders, if they have more franking credits than they need to reduce their tax bill in a year, they can also carry them forward. This is useful if they don't owe much tax one year but might owe more in future years. They can use the extra credits to lower their tax bill later on, making sure they don't lose out on the benefits of the credits they received.
 

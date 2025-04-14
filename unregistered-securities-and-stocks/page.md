@@ -40,7 +40,7 @@ Another reason is that unregistered securities can be sold to a specific group o
 
 Investing in unregistered securities can be riskier than investing in registered ones. One big risk is that you might not get as much information about the company. When a company registers its securities with the SEC, it has to share a lot of details about its business, money, and risks. With unregistered securities, you might not get all that info, which makes it harder to know if the company is a good investment. This can lead to surprises and losses if the company doesn't do well.
 
-Another risk is that unregistered securities are usually harder to sell. They're not traded on big stock markets like the New York Stock Exchange, so finding someone to buy them can be tough. If you need to get your money back quickly, you might have to sell at a lower price or not be able to sell at all. This lack of liquidity can be a big problem if you need cash fast.
+Another risk is that unregistered securities are usually harder to sell. They're not traded on big stock markets like the New York Stock Exchange, so finding someone to buy them can be tough. If you need to get your money back quickly, you might have to sell at a lower price or not be able to sell at all. This lack of [liquidity](/wiki/liquidity-risk-premium) can be a big problem if you need cash fast.
 
 Lastly, there's a higher chance of fraud with unregistered securities. Since they're not watched as closely by the SEC, some bad actors might try to trick investors with false promises or fake information. It's important to do a lot of research and be careful when thinking about investing in unregistered securities, because the risks can be much higher than with registered ones.
 

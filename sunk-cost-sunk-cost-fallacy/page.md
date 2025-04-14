@@ -54,7 +54,7 @@ Another way to avoid the sunk cost fallacy is to talk to someone else about your
 
 ## What psychological factors contribute to the sunk cost fallacy?
 
-One psychological factor that contributes to the sunk cost fallacy is loss aversion. People hate losing things more than they like gaining things. When you've spent money or time on something, you feel like you'll lose even more if you stop. It's hard to let go of what you've spent because it feels like a loss. This makes people keep going even when it's not a good idea.
+One psychological [factor](/wiki/factor-investing) that contributes to the sunk cost fallacy is loss aversion. People hate losing things more than they like gaining things. When you've spent money or time on something, you feel like you'll lose even more if you stop. It's hard to let go of what you've spent because it feels like a loss. This makes people keep going even when it's not a good idea.
 
 Another factor is the need for consistency. People like to think of themselves as being consistent and not giving up. If you've spent a lot of time or money on something, it can feel like you're giving up if you stop. This makes people keep going, even if it's not working out. They want to feel like they made the right choice in the first place, so they keep trying to make it work.
 

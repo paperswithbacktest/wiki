@@ -66,7 +66,7 @@ Using leverage in closed-end funds can affect the price of the shares on the sto
 
 ## What are some strategies for selecting a closed-end fund for investment?
 
-When picking a closed-end fund to invest in, it's important to look at the fund's investment goal and how well it has done in the past. You want to choose a fund that fits with what you want to achieve with your money. For example, if you want regular income, you might pick a fund that focuses on paying out high dividends. Also, looking at how the fund has done over time can give you an idea of how good the fund manager is at picking investments. But remember, past results don't guarantee future success, so it's also good to check if the fund's strategy makes sense for the future.
+When [picking](/wiki/asset-class-picking) a closed-end fund to invest in, it's important to look at the fund's investment goal and how well it has done in the past. You want to choose a fund that fits with what you want to achieve with your money. For example, if you want regular income, you might pick a fund that focuses on paying out high dividends. Also, looking at how the fund has done over time can give you an idea of how good the fund manager is at picking investments. But remember, past results don't guarantee future success, so it's also good to check if the fund's strategy makes sense for the future.
 
 Another thing to think about is the price you're paying for the shares compared to what the investments inside the fund are really worth. This is called the premium or discount. If you can buy the shares at a discount, it might be a good deal, but make sure the discount isn't because the fund is having problems. Also, check how much the fund uses borrowed money, or leverage, because this can make the fund riskier. A fund with a lot of leverage might offer higher returns, but it could also lose more money if things go wrong. So, balancing the potential rewards with the risks is key when choosing a closed-end fund.
 
@@ -100,7 +100,7 @@ Furthermore, mutual funds offer diversified portfolios, inherently reducing inve
 
 Investors in mutual funds benefit from economies of scale, as the pooled capital lowers transaction costs and provides access to a wider array of investment opportunities, including those that may require significant minimum investments. This access is instrumental for individual investors looking to participate in more sophisticated investment strategies or markets that would normally be out of reach.
 
-In summary, mutual funds offer a practical investment solution by pooling resources to create professionally managed, diversified portfolios. Their structure allows for continuous adaptation to market conditions via daily NAV calculations and open-end redemption mechanisms, providing a balance between liquidity, diversification, and professional expertise.
+In summary, mutual funds offer a practical investment solution by pooling resources to create professionally managed, diversified portfolios. Their structure allows for continuous adaptation to market conditions via daily NAV calculations and open-end redemption mechanisms, providing a balance between [liquidity](/wiki/liquidity-risk-premium), diversification, and professional expertise.
 
  to Algorithmic Trading
 

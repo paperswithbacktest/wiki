@@ -78,7 +78,7 @@ The tax benefits of a floor loan can help builders manage their money better, es
 
 To negotiate better terms on a floor loan, builders should start by showing that they have a strong plan for their project. They need to show the lender that they know what they're doing and that they can finish the floor on time. Having a good credit history and some money saved up can also help. Builders can talk to different lenders and compare their offers. If one lender sees that another is offering better terms, they might be willing to match or even beat that offer.
 
-It's also a good idea for builders to be ready to talk about the interest rate and the repayment schedule. They can ask for a lower interest rate by showing that they're a low risk to the lender. If the economy is doing well, this might be easier. Builders can also ask for a longer time to pay back the loan, but they need to make sure they can still finish the floor within that time. Being clear about what they need and why can help builders get the best terms possible on a floor loan.
+It's also a good idea for builders to be ready to talk about the [interest rate](/wiki/interest-rate-trading-strategies) and the repayment schedule. They can ask for a lower interest rate by showing that they're a low risk to the lender. If the economy is doing well, this might be easier. Builders can also ask for a longer time to pay back the loan, but they need to make sure they can still finish the floor within that time. Being clear about what they need and why can help builders get the best terms possible on a floor loan.
 
 ## What is Understanding Real Estate Finance?
 
@@ -102,7 +102,7 @@ Real estate finance is thus a dynamic and multifaceted field that demands a comp
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). Algorithms for Hyper-Parameter Optimization. This work provides a comprehensive discussion on hyper-parameter optimization, crucial for enhancing algorithmic trading models in financial markets. The optimization strategies are applicable to both machine learning models and real estate finance analytics.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). Algorithms for Hyper-Parameter Optimization. This work provides a comprehensive discussion on hyper-parameter optimization, crucial for enhancing [algorithmic trading](/wiki/algorithmic-trading) models in financial markets. The optimization strategies are applicable to both [machine learning](/wiki/machine-learning) models and real estate finance analytics.
 
 Advances in Financial Machine Learning by Marcos Lopez de Prado. This book offers insights into using machine learning to address complex challenges in financial markets, emphasizing the development of adaptive and robust algorithmic models. It presents techniques that can be applied to optimize real estate investment strategies through predictive analytics.
 

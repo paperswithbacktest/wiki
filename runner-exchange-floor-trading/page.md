@@ -36,7 +36,7 @@ It's also helpful if you know a bit about how trading works. This can make it ea
 
 Before electronic trading, runners were very important on the exchange floor. They ran around carrying paper orders and messages between traders. This was the main way to make sure trades happened quickly and correctly. Runners were busy all the time, making sure everyone got the information they needed to buy and sell stocks.
 
-With electronic trading, computers do a lot of the work that runners used to do. Orders can now be sent with a click of a button, so there are fewer paper orders to carry around. But runners are still useful. They help when there are computer problems or when traders need to talk to each other face-to-face. Even though their job has changed, runners still play an important role in keeping the trading floor running smoothly.
+With electronic trading, computers do a lot of the work that runners used to do. Orders can now be sent with a click of a button, so there are fewer paper orders to [carry](/wiki/carry-trading) around. But runners are still useful. They help when there are computer problems or when traders need to talk to each other face-to-face. Even though their job has changed, runners still play an important role in keeping the trading floor running smoothly.
 
 ## What is the daily routine of a runner during active trading hours?
 

@@ -82,7 +82,7 @@ Another technique is to use regression analysis to find out how different things
 
 ## How can cost allocation be connected with algo trading?
 
-For firms engaged in algorithmic trading, understanding the nuances of cost allocation and departmental overhead rates is crucial. Algorithmic trading (algo trading) is characterized by its high reliance on computational resources and data-driven decision-making processes, which necessitates precise financial management for optimal performance and profitability. 
+For firms engaged in [algorithmic trading](/wiki/algorithmic-trading), understanding the nuances of cost allocation and departmental overhead rates is crucial. Algorithmic trading (algo trading) is characterized by its high reliance on computational resources and data-driven decision-making processes, which necessitates precise financial management for optimal performance and profitability. 
 
 The resource-intensive nature of algo trading means that the accurate allocation of overhead costs, such as IT infrastructure, software platforms, and human resources, can significantly impact financial outcomes. This meticulous distribution is vital for identifying the true cost and profitability of different trading strategies. Therefore, a detailed matrix of cost allocation can assist in more efficient strategy formulation and execution.
 

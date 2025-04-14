@@ -100,7 +100,7 @@ Indirect costs, on the other hand, are not directly traceable to a single produc
 
 In addition to direct and indirect costs, cost accounting also distinguishes between fixed and variable costs. Fixed costs are expenses that remain constant regardless of the level of production or sales. These include items such as rent, salaries of permanent staff, and depreciation of equipment. Even if a business does not produce any units, fixed costs still need to be paid.
 
-Variable costs, conversely, fluctuate with changes in production volume. These costs increase as production ramps up and decrease when production slows. Common examples of variable costs include direct raw materials, commission on sales, and utility costs closely tied to manufacturing operations.
+Variable costs, conversely, fluctuate with changes in production [volume](/wiki/volume-trading-strategy). These costs increase as production ramps up and decrease when production slows. Common examples of variable costs include direct raw materials, commission on sales, and utility costs closely tied to manufacturing operations.
 
 The relationship between variable costs ($VC$), fixed costs ($FC$), and the total cost ($TC$) can be expressed using the equation:
 
@@ -116,7 +116,7 @@ Accurate categorization and management of these cost types enable businesses to 
 
 Review literature on cost accounting methodologies for a more in-depth understanding. Textbooks such as "Cost Accounting: A Managerial Emphasis" by Charles T. Horngren, Srikant M. Datar, and Madhav V. Rajan provide comprehensive insights into both traditional and contemporary cost accounting methods and their practical applications. Another valuable resource is "The Design of Cost Management Systems" by Robin Cooper and Robert S. Kaplan, which explores innovative approaches to cost management and efficiency improvements in various business contexts.
 
-For those interested in the evolving domain of algorithmic trading and its cost dynamics, it is essential to consider publications that address the intersection of finance, technology, and cost strategies. This area of study highlights the importance of rigorous cost analysis in maintaining competitiveness and profitability amidst dynamic markets. 
+For those interested in the evolving domain of [algorithmic trading](/wiki/algorithmic-trading) and its cost dynamics, it is essential to consider publications that address the intersection of finance, technology, and cost strategies. This area of study highlights the importance of rigorous cost analysis in maintaining competitiveness and profitability amidst dynamic markets. 
 
 Further reading on algorithmic trading could involve exploring research papers and [books](/wiki/algo-trading-books) that focus on the technical and economic aspects of high-frequency trading and transaction cost analysis. This includes understanding the algorithms' design, implementation costs, and the analysis of trading data to optimize performance within trading environments.
 

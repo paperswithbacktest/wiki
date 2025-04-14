@@ -54,7 +54,7 @@ Adding the value of minority interests to the TEV gives a more complete picture 
 
 One common way to estimate a company's equity value for TEV is by using the market approach. This means looking at the company's stock price and multiplying it by the total number of shares. This gives you the market capitalization, which is a big part of the TEV. The market approach is simple and reflects what investors are willing to pay for the company's stock at that moment.
 
-Another method is the income approach, which involves looking at the company's future profits. You might use a method called discounted cash flow (DCF) analysis. With DCF, you predict how much money the company will make in the future and then figure out what that money is worth today. This can be a bit trickier because it relies on guesses about the future, but it's useful for understanding the company's earning potential.
+Another method is the income approach, which involves looking at the company's future profits. You might use a method called discounted cash flow (DCF) analysis. With DCF, you predict how much money the company will make in the future and then figure out what that money is worth today. This can be a bit trickier because it relies on guesses about the future, but it's useful for understanding the company's [earning](/wiki/earning-announcement) potential.
 
 Lastly, there's the asset-based approach. This method involves adding up all the things the company owns (like buildings, equipment, and inventory) and then subtracting all its debts. This gives you the net asset value, which can be another way to estimate the equity value for TEV. Each of these methods can be useful, depending on the specific situation and the information available.
 

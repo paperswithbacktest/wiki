@@ -70,7 +70,7 @@ BOX also provides real-time market data and analytics tools. These tools help yo
 
 ## How does the Box Options Exchange handle market volatility and ensure liquidity?
 
-The Box Options Exchange handles market volatility by using a system called the BOX Market Maker. This system makes sure there are always people ready to buy or sell options, even when the market is moving a lot. When the market is volatile, prices can change quickly, and having market makers helps keep trading smooth. They provide what's called liquidity, which means it's easier for you to buy or sell options because there are always people on the other side of the trade.
+The Box Options Exchange handles market volatility by using a system called the BOX Market Maker. This system makes sure there are always people ready to buy or sell options, even when the market is moving a lot. When the market is volatile, prices can change quickly, and having market makers helps keep trading smooth. They provide what's called [liquidity](/wiki/liquidity-risk-premium), which means it's easier for you to buy or sell options because there are always people on the other side of the trade.
 
 BOX also uses technology to help manage volatility and ensure liquidity. They use a platform called SOLA, which can handle a lot of trades very quickly. This means that even when the market is moving fast, your trades can still happen without delays. SOLA helps keep the trading process efficient and reliable, which is important for traders who need to react quickly to market changes. By having these systems in place, BOX helps make sure that the market stays stable and that traders can always find someone to trade with.
 

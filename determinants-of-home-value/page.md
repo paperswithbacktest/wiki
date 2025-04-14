@@ -22,7 +22,7 @@ On the other hand, if a house is in a less popular area, maybe far from good job
 
 ## What role does the size of a home play in determining its value?
 
-The size of a home is a big factor in deciding its value. A bigger home usually costs more money because it has more space for people to live in. If you have a large family or like to have a lot of room, you might want a bigger house, and you'll have to pay more for it. Builders also use more materials and take more time to build a larger home, so the cost goes up.
+The size of a home is a big [factor](/wiki/factor-investing) in deciding its value. A bigger home usually costs more money because it has more space for people to live in. If you have a large family or like to have a lot of room, you might want a bigger house, and you'll have to pay more for it. Builders also use more materials and take more time to build a larger home, so the cost goes up.
 
 But it's not just about how big the home is overall. The size of different rooms can matter too. For example, a home with a big kitchen might be worth more because people like to cook and entertain. A large living room can also make a home more valuable because it's a nice place for families to spend time together. So, when people look at the value of a home, they think about both the total size and how the space is used inside.
 

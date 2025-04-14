@@ -28,7 +28,7 @@ Besides running these markets, TMX Group also provides other important services.
 
 ## How does TMX Group generate its revenue?
 
-TMX Group makes money by charging fees for the services it provides. When people and companies buy or sell stocks on the Toronto Stock Exchange or the TSX Venture Exchange, TMX Group takes a small fee for each trade. This is their main way of earning money. They also make money from listing fees, which are the fees companies pay to have their stocks listed on the exchange.
+TMX Group makes money by charging fees for the services it provides. When people and companies buy or sell stocks on the Toronto Stock Exchange or the TSX Venture Exchange, TMX Group takes a small fee for each trade. This is their main way of [earning](/wiki/earning-announcement) money. They also make money from listing fees, which are the fees companies pay to have their stocks listed on the exchange.
 
 Another way TMX Group earns money is by selling data and technology services. They provide important information about the markets that people use to make decisions about buying and selling stocks. Companies and traders pay for this data. TMX Group also sells technology that helps make trading easier and safer. This technology is used by other exchanges and financial companies around the world, and they pay TMX Group for using it.
 

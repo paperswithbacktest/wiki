@@ -46,7 +46,7 @@ Besides the transaction fee, there might be other costs. For example, if you are
 
 ## How does Xetra ensure fair and transparent trading?
 
-Xetra makes sure trading is fair and clear by using a system that shows everyone the same prices and trades. When you want to buy or sell something on Xetra, your order goes into a big list that everyone can see. This list, called the order book, shows all the orders people have made. By showing this list to everyone, Xetra makes sure that no one can hide what they are doing, and everyone can see the real prices.
+Xetra makes sure trading is fair and clear by using a system that shows everyone the same prices and trades. When you want to buy or sell something on Xetra, your order goes into a big list that everyone can see. This list, called the [order book](/wiki/order-book-trading-strategies), shows all the orders people have made. By showing this list to everyone, Xetra makes sure that no one can hide what they are doing, and everyone can see the real prices.
 
 Xetra also uses computers to match buyers and sellers quickly and fairly. The system follows strict rules to decide which orders get filled first. This means that everyone has an equal chance to trade, and no one can jump the line. By being open and using clear rules, Xetra helps people trust that their trades are fair and that they are getting the best prices available.
 

@@ -36,7 +36,7 @@ The other part of net cash is short-term debt. This is the money a company owes 
 
 Net cash and cash flow are two different things that help us understand a company's money situation. Net cash is what you get when you take all the money a company has, including cash in the bank and things that can be turned into cash quickly, and subtract the money it owes soon. If the number is positive, the company has more money than it owes, which is good. If it's negative, the company owes more than it has, which can be a problem.
 
-Cash flow, on the other hand, is about how money moves in and out of a company over time. It's like tracking the company's bank account to see if more money is coming in than going out. Positive cash flow means the company is earning more money than it's spending, which is good for growing the business. Negative cash flow means the company is spending more than it's earning, which can lead to problems if it goes on for too long. So, net cash tells you about a company's money at a specific moment, while cash flow shows you how money is moving over time.
+Cash flow, on the other hand, is about how money moves in and out of a company over time. It's like tracking the company's bank account to see if more money is coming in than going out. Positive cash flow means the company is [earning](/wiki/earning-announcement) more money than it's spending, which is good for growing the business. Negative cash flow means the company is spending more than it's earning, which can lead to problems if it goes on for too long. So, net cash tells you about a company's money at a specific moment, while cash flow shows you how money is moving over time.
 
 ## How does net cash impact a company's financial health?
 

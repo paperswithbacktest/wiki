@@ -48,7 +48,7 @@ Another good thing about this regulation is that it makes sure the companies kee
 
 Regulators face a big challenge in figuring out the right rate of return for companies. They have to balance what's fair for the company to earn and what's affordable for customers. If they set the rate too high, the company might charge too much, and people will have to pay more for services like electricity or water. But if they set it too low, the company might not make enough money to keep things running well, and the service could get worse. It's a tricky balance to find the right number that keeps everyone happy.
 
-Another challenge is keeping up with how much money the company is actually making. Companies might try to find ways to make more profit than they're allowed, like by saying they need more money for costs than they really do. Regulators have to keep a close eye on the company's books to make sure they're not cheating. This can be hard work and takes a lot of time and effort to do it right. If they miss something, the company could end up making too much money, and customers would have to pay more than they should.
+Another challenge is keeping up with how much money the company is actually making. Companies might try to find ways to make more profit than they're allowed, like by saying they need more money for costs than they really do. Regulators have to keep a close eye on the company's [books](/wiki/algo-trading-books) to make sure they're not cheating. This can be hard work and takes a lot of time and effort to do it right. If they miss something, the company could end up making too much money, and customers would have to pay more than they should.
 
 ## How does Rate of Return Regulation impact investment decisions in regulated industries?
 

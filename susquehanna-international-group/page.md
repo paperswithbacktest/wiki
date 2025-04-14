@@ -42,7 +42,7 @@ SIG's global reach helps them trade and invest in different financial markets. B
 
 Susquehanna International Group, or SIG, offers many types of financial services. They trade stocks, options, and other financial products. SIG uses computers and math to make smart choices about when to buy and sell these products. This helps them make money in the financial markets. They also help new businesses and technologies grow by investing in them. This means they give money to new companies to help them start and succeed.
 
-SIG also works in other areas of finance. They offer services like market making, which means they help make sure there are always buyers and sellers in the market. This helps keep the market running smoothly. SIG also does research to understand how the markets work and how to make better trading decisions. They use this research to help their clients and to improve their own trading strategies.
+SIG also works in other areas of finance. They offer services like [market making](/wiki/market-making), which means they help make sure there are always buyers and sellers in the market. This helps keep the market running smoothly. SIG also does research to understand how the markets work and how to make better trading decisions. They use this research to help their clients and to improve their own trading strategies.
 
 ## How does SIG's trading division function?
 
@@ -58,7 +58,7 @@ SIG also uses technology in its own business. They use computers and math to mak
 
 ## Can you explain SIG's approach to quantitative trading?
 
-SIG's approach to quantitative trading involves using math and computers to make trading decisions. They look at a lot of data to find patterns and trends in the financial markets. This helps them decide when to buy and sell stocks, options, and other financial products. SIG uses special computer programs, called algorithms, to do this work quickly and accurately. These programs help SIG's traders make smart choices based on the data they see.
+SIG's approach to [quantitative trading](/wiki/quantitative-trading) involves using math and computers to make trading decisions. They look at a lot of data to find patterns and trends in the financial markets. This helps them decide when to buy and sell stocks, options, and other financial products. SIG uses special computer programs, called algorithms, to do this work quickly and accurately. These programs help SIG's traders make smart choices based on the data they see.
 
 Quantitative trading at SIG is all about using technology to understand the markets better. They use math to create models that predict how the markets will move. These models help SIG make money by buying and selling at the right times. SIG's traders work with experts in math and technology to keep improving their methods. This way, they can stay ahead in the fast-changing world of finance.
 

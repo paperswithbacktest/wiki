@@ -58,7 +58,7 @@ Another common scenario is when traders want to earn extra money from a stock th
 
 ## How does market volatility affect a naked call strategy?
 
-Market volatility can make a naked call strategy more risky. When the market is volatile, stock prices can go up and down a lot. If you sell a naked call and the stock price goes up quickly because of high volatility, you could lose a lot of money. You would have to buy the stock at the higher price to give to the person who bought the option from you. This means your losses can be much bigger than the money you made from selling the option.
+Market [volatility](/wiki/volatility-trading-strategies) can make a naked call strategy more risky. When the market is volatile, stock prices can go up and down a lot. If you sell a naked call and the stock price goes up quickly because of high volatility, you could lose a lot of money. You would have to buy the stock at the higher price to give to the person who bought the option from you. This means your losses can be much bigger than the money you made from selling the option.
 
 On the other hand, if you're good at guessing where the stock price will go, you might still use a naked call strategy in a volatile market. You could make more money from selling the option because the price of the option might be higher due to the increased risk. But you need to be ready for the stock price to move a lot and have a plan for what to do if it goes up. So, while high volatility can make naked calls more profitable, it also makes them much riskier.
 
@@ -66,7 +66,7 @@ On the other hand, if you're good at guessing where the stock price will go, you
 
 When you make money or lose money from selling naked calls, you need to think about taxes. In the United States, if you make a profit from naked calls, it's usually considered a short-term capital gain. This means you have to pay your normal income tax rate on the money you made. If you held the option for less than a year before selling it, it's definitely a short-term gain. But if you held it for more than a year, it could be a long-term capital gain, which might have a lower tax rate.
 
-If you lose money on naked calls, you can use those losses to lower your taxes. You can use the losses to reduce other gains you made from investing. If your losses are more than your gains, you can use up to $3,000 of the extra losses to lower your regular income for the year. If you still have losses left after that, you can carry them over to the next year to use them then. It's a good idea to talk to a tax professional to make sure you're doing everything right with your taxes.
+If you lose money on naked calls, you can use those losses to lower your taxes. You can use the losses to reduce other gains you made from investing. If your losses are more than your gains, you can use up to $3,000 of the extra losses to lower your regular income for the year. If you still have losses left after that, you can [carry](/wiki/carry-trading) them over to the next year to use them then. It's a good idea to talk to a tax professional to make sure you're doing everything right with your taxes.
 
 ## How can technical analysis be used to enhance a naked call strategy?
 

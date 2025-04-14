@@ -24,7 +24,7 @@ In the workplace, the Dunning-Kruger Effect can cause big problems. An employee 
 
 ## What is the relevance of the Dunning-Kruger Effect in the field of finance?
 
-In the field of finance, the Dunning-Kruger Effect can be very important. It happens when people think they know a lot about money and investing, but they really don't know enough. For example, someone might think they are good at picking stocks because they made a few lucky guesses. They might then invest a lot of money based on their wrong ideas, which can lead to big losses. This is dangerous because finance involves real money and can affect someone's life a lot.
+In the field of finance, the Dunning-Kruger Effect can be very important. It happens when people think they know a lot about money and investing, but they really don't know enough. For example, someone might think they are good at [picking](/wiki/asset-class-picking) stocks because they made a few lucky guesses. They might then invest a lot of money based on their wrong ideas, which can lead to big losses. This is dangerous because finance involves real money and can affect someone's life a lot.
 
 The Dunning-Kruger Effect can also show up when people give financial advice. Someone might think they are good at giving tips on how to save money or invest, but their advice might be wrong. If others follow this bad advice, it can lead to financial problems for many people. It's important for people in finance to be aware of this effect so they can check their own knowledge and maybe get help from experts to avoid making big mistakes.
 
@@ -56,7 +56,7 @@ Another way to spot the Dunning-Kruger Effect is if a client gives financial adv
 
 To mitigate the impact of the Dunning-Kruger Effect in financial decisions, individuals should start by recognizing their own limitations. They can do this by being honest with themselves about what they really know about money and investing. It's important to ask for help from financial experts or advisors who can provide more knowledge and guidance. By seeking out professional advice, people can learn more about the risks and strategies involved in managing money, which helps them make better choices.
 
-Another strategy is to keep learning and stay curious. People should read books, take classes, or use online resources to improve their financial literacy. By continuously educating themselves, they can better understand the complexities of finance and avoid overconfidence. It's also helpful to listen to feedback from others and be open to changing their mind if they learn something new. This way, they can avoid the pitfalls of thinking they know more than they actually do and make more informed financial decisions.
+Another strategy is to keep learning and stay curious. People should read [books](/wiki/algo-trading-books), take classes, or use online resources to improve their financial literacy. By continuously educating themselves, they can better understand the complexities of finance and avoid overconfidence. It's also helpful to listen to feedback from others and be open to changing their mind if they learn something new. This way, they can avoid the pitfalls of thinking they know more than they actually do and make more informed financial decisions.
 
 ## How does the Dunning-Kruger Effect influence financial market behaviors and trends?
 
@@ -88,7 +88,7 @@ The Dunning-Kruger Effect, a cognitive bias where individuals with limited knowl
 
 Case studies abound with examples illustrating the troublesome impact of this effect. Consider a novice investor entering the stock market with minimal knowledge but excessive confidence. Such an investor may engage in high-risk trades, wrongly assuming that quick successes in a bull market demonstrate their trading prowess. When the market shifts, these investors often face substantial losses as their lack of understanding of market dynamics becomes apparent. This scenario is not uncommon during periods of economic growth, when bullish markets can give inexperienced traders the misguided belief that they have mastered the craft, only for the bubble to burst unexpectedly (e.g., the Dot-com bubble of the late 1990s).
 
-Risk-taking behaviors and trading performance are especially vulnerable to the Dunning-Kruger Effect. Overconfident traders often allocate excessive capital to speculative stocks or leverage without understanding the inherent risks. This can lead to increased portfolio volatility and potential drawdowns that far exceed their risk tolerance. The volatility ($\sigma^2$) of a portfolio is a critical metric, and overconfidence can lead to substantially misestimated volatility, wrongly influencing a trader's assessment of risk:
+Risk-taking behaviors and trading performance are especially vulnerable to the Dunning-Kruger Effect. Overconfident traders often allocate excessive capital to speculative stocks or leverage without understanding the inherent risks. This can lead to increased portfolio [volatility](/wiki/volatility-trading-strategies) and potential drawdowns that far exceed their risk tolerance. The volatility ($\sigma^2$) of a portfolio is a critical metric, and overconfidence can lead to substantially misestimated volatility, wrongly influencing a trader's assessment of risk:
 
 $$
 \sigma^2 = \sum_{i=1}^{n} \sum_{j=1}^{n} w_i w_j \sigma_{ij}

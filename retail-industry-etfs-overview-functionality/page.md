@@ -18,7 +18,7 @@ ETFs are popular because they offer a simple way to diversify your investments. 
 
 An ETF and a mutual fund are both ways to invest in a group of assets, but they work a bit differently. ETFs are traded on stock exchanges, just like individual stocks. This means you can buy and sell them throughout the trading day at whatever price they are currently at. On the other hand, mutual funds are bought and sold at the end of the trading day at a price that is calculated based on the value of all the assets in the fund.
 
-Another difference is how they are managed. ETFs usually try to match the performance of a specific index, like the S&P 500, which means they are often passively managed. This can lead to lower fees because there's less work involved in managing the fund. Mutual funds, however, can be either actively or passively managed. Actively managed mutual funds have managers who try to beat the market by picking and choosing investments, which can result in higher fees. So, ETFs might be cheaper and more flexible to trade, while mutual funds might offer more active management options.
+Another difference is how they are managed. ETFs usually try to match the performance of a specific index, like the S&P 500, which means they are often passively managed. This can lead to lower fees because there's less work involved in managing the fund. Mutual funds, however, can be either actively or passively managed. Actively managed mutual funds have managers who try to beat the market by [picking](/wiki/asset-class-picking) and choosing investments, which can result in higher fees. So, ETFs might be cheaper and more flexible to trade, while mutual funds might offer more active management options.
 
 ## What is the retail industry?
 
@@ -28,7 +28,7 @@ Retailers have to think about a lot of things to be successful. They need to pic
 
 ## Why might someone invest in a retail industry ETF?
 
-Someone might invest in a retail industry ETF because it's a simple way to put money into a lot of different retail companies at once. Instead of picking and choosing which retail stores or online shops to invest in, an ETF lets you buy a piece of many of them with just one purchase. This can be a good idea if you think the retail industry is going to do well in the future, maybe because more people are shopping online or because new stores are opening up.
+Someone might invest in a retail industry [ETF](/wiki/etf-trading-strategies) because it's a simple way to put money into a lot of different retail companies at once. Instead of picking and choosing which retail stores or online shops to invest in, an ETF lets you buy a piece of many of them with just one purchase. This can be a good idea if you think the retail industry is going to do well in the future, maybe because more people are shopping online or because new stores are opening up.
 
 Another reason to invest in a retail industry ETF is to spread out risk. If you put all your money into one retail company and it doesn't do well, you could lose a lot. But with an ETF, your money is spread across many different companies. If one store has a bad year, it might not hurt your investment as much because other stores in the ETF could be doing better. Plus, ETFs often have lower fees than other types of funds, so you get to keep more of your money.
 
@@ -48,7 +48,7 @@ To see how well the ETF is doing, people look at its price and how it changes ov
 
 The performance of retail industry ETFs is influenced by how well the retail companies in the ETF are doing. If people are buying more stuff from these stores, the companies make more money, and the ETF's value goes up. Things like the economy, how much people want to spend, and if there are new trends in shopping can all affect how well retail companies do. For example, if the economy is doing well and people have more money to spend, they might shop more, which is good for retail ETFs. On the other hand, if the economy is bad and people are saving their money instead of spending it, retail companies might not do as well, which can make the ETF's value go down.
 
-Another big factor is how the retail industry itself is changing. If more people start shopping online instead of going to stores, ETFs that focus on online retail might do better than those that focus on traditional stores. Competition is also important. If new stores open up and take business away from the companies in the ETF, it can hurt the ETF's performance. Lastly, the fees that come with owning the ETF can also affect its performance. If the fees are high, they can eat into the returns that investors get, making the ETF less attractive.
+Another big [factor](/wiki/factor-investing) is how the retail industry itself is changing. If more people start shopping online instead of going to stores, ETFs that focus on online retail might do better than those that focus on traditional stores. Competition is also important. If new stores open up and take business away from the companies in the ETF, it can hurt the ETF's performance. Lastly, the fees that come with owning the ETF can also affect its performance. If the fees are high, they can eat into the returns that investors get, making the ETF less attractive.
 
 ## What are the risks associated with investing in retail industry ETFs?
 

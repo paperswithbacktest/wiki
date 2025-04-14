@@ -46,7 +46,7 @@ On the other hand, a Treasury Receipt is not issued directly by the government. 
 
 ## What are the risks associated with investing in Treasury Receipts?
 
-Investing in Treasury Receipts is generally considered very safe because they are backed by the U.S. government. This means the risk of losing your money is very low. However, there are still some risks to think about. One risk is interest rate risk. If interest rates go up after you buy a Treasury Receipt, the value of the receipt might go down. This is because new Treasury securities might offer higher interest rates, making your receipt less attractive to other investors if you wanted to sell it before it matures.
+Investing in Treasury Receipts is generally considered very safe because they are backed by the U.S. government. This means the risk of losing your money is very low. However, there are still some risks to think about. One risk is [interest rate](/wiki/interest-rate-trading-strategies) risk. If interest rates go up after you buy a Treasury Receipt, the value of the receipt might go down. This is because new Treasury securities might offer higher interest rates, making your receipt less attractive to other investors if you wanted to sell it before it matures.
 
 Another risk is inflation risk. If inflation goes up, the money you get back from your Treasury Receipt might not be worth as much as when you bought it. This means your investment might not keep up with the rising costs of things. Also, since you don't get the actual Treasury security right away, you might miss out on other investment opportunities that could offer better returns. While these risks are not as big as with other investments, it's good to know about them before you decide to buy a Treasury Receipt.
 

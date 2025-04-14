@@ -84,7 +84,7 @@ In private equity, NIRR is also a great tool for measuring how well an investmen
 
 ## What is the Understanding of Net Internal Rate of Return?
 
-Net Internal Rate of Return (Net IRR) is a crucial financial performance measurement used to assess the yield of an investment after accounting for fees and carried interests. This metric offers a refined measure of the Internal Rate of Return (IRR), thereby providing a more accurate assessment of an investment's profitability. Expressed as a percentage, Net IRR represents the annualized return an investor can expect from an investment, reflecting its true earning potential once all associated costs are factored in.
+Net Internal Rate of Return (Net IRR) is a crucial financial performance measurement used to assess the yield of an investment after accounting for fees and carried interests. This metric offers a refined measure of the Internal Rate of Return (IRR), thereby providing a more accurate assessment of an investment's profitability. Expressed as a percentage, Net IRR represents the annualized return an investor can expect from an investment, reflecting its true [earning](/wiki/earning-announcement) potential once all associated costs are factored in.
 
 Net IRR is especially beneficial in capital budgeting and portfolio management. Through these contexts, it aids investors in determining the financial quality of their investments. Unlike the gross IRR, Net IRR accounts for management fees and carried interests, offering a more realistic picture of investment performance from the investor's standpoint.
 
@@ -138,7 +138,7 @@ Valuation: Measuring and Managing the Value of Companies by McKinsey & Company I
 
 Investment Valuation: Tools and Techniques for Determining the Value of Any Asset by Aswath Damodaran examines the methodologies for assessing the worth of various asset classes. This reference is instrumental in applying Net IRR calculations to real-world scenarios, allowing investors to gauge potential returns and align investment strategies with financial objectives.
 
-Algorithmic Trading & DMA: An introduction to direct access trading strategies by Barry Johnson provides insights into the application of algorithmic trading techniques within financial markets. It explores how traditional financial metrics, including IRR, can be embedded in algorithmic models to optimize trading strategies. The book effectively combines theory and practice, highlighting the technological advancements that enhance investment decision-making.
+Algorithmic Trading & DMA: An introduction to direct access trading strategies by Barry Johnson provides insights into the application of [algorithmic trading](/wiki/algorithmic-trading) techniques within financial markets. It explores how traditional financial metrics, including IRR, can be embedded in algorithmic models to optimize trading strategies. The book effectively combines theory and practice, highlighting the technological advancements that enhance investment decision-making.
 
 Python for Finance: Mastering Data-Driven Finance by Yves Hilpisch investigates into the integration of programming, particularly Python, in financial analysis and trading. This reference is valuable for those looking to implement algorithmic trading strategies while incorporating financial metrics like Net IRR to improve precision and decision-making. The book covers data processing, predictive analytics, and model calibration techniques essential for modern finance professionals.
 

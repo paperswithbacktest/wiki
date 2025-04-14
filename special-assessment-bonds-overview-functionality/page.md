@@ -52,7 +52,7 @@ Another risk is that the project might not be as successful as planned. If the n
 
 ## How is the interest rate on Special Assessment Bonds determined?
 
-The interest rate on Special Assessment Bonds is determined by a few things. One big thing is how risky the bond is. If it's risky, the interest rate will be higher. This is because investors want to be paid more for taking on more risk. Another thing that can affect the interest rate is how long the bond will last. Bonds that last longer usually have higher interest rates because there's more time for something to go wrong.
+The [interest rate](/wiki/interest-rate-trading-strategies) on Special Assessment Bonds is determined by a few things. One big thing is how risky the bond is. If it's risky, the interest rate will be higher. This is because investors want to be paid more for taking on more risk. Another thing that can affect the interest rate is how long the bond will last. Bonds that last longer usually have higher interest rates because there's more time for something to go wrong.
 
 The market also plays a role in setting the interest rate. If a lot of people want to buy Special Assessment Bonds, the interest rate might go down because the government doesn't have to offer as much to get people to buy them. But if not many people want to buy them, the interest rate might go up to make them more attractive to investors. So, the interest rate is a balance between how risky the bond is, how long it lasts, and what's happening in the market.
 

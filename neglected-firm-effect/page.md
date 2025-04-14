@@ -82,7 +82,7 @@ The application of the Neglected Firm Effect has also changed. Investors now use
 
 ## How can one balance risks and rewards?
 
-Investing in market anomalies and neglected firms is not without its risks, but it also offers the potential for considerable rewards. A central challenge for investors is managing the inherent volatility and information asymmetry associated with these markets. 
+Investing in market anomalies and neglected firms is not without its risks, but it also offers the potential for considerable rewards. A central challenge for investors is managing the inherent [volatility](/wiki/volatility-trading-strategies) and information asymmetry associated with these markets. 
 
 One fundamental aspect of navigating these risks involves understanding the time horizon of investments. Market anomalies and neglected firms can exhibit significant price fluctuations in the short term. Therefore, a long-term investment outlook can be beneficial, allowing the intrinsic value of under-researched firms to be realized over time. 
 
@@ -96,7 +96,7 @@ where $\sigma_p$ is the portfolio's standard deviation, $w_i$ and $w_j$ are the 
 
 Investors must also consider their risk tolerance and investment goals. For individuals with a higher risk appetite, an active strategy focusing on undervalued neglected firms may be attractive. Conversely, risk-averse investors might prefer a more balanced approach, incorporating a mix of stable assets alongside investments in market anomalies.
 
-A key strategy for managing information asymmetry involves rigorous research and fundamental analysis. By thoroughly evaluating a company's financial health, industry position, and growth prospects, investors can make informed decisions that minimize the risks of unforeseen information affecting stock prices.
+A key strategy for managing information asymmetry involves rigorous research and [fundamental analysis](/wiki/fundamental-analysis). By thoroughly evaluating a company's financial health, industry position, and growth prospects, investors can make informed decisions that minimize the risks of unforeseen information affecting stock prices.
 
 Lastly, continuous monitoring and portfolio rebalancing are crucial in maintaining alignment with one's investment strategy and risk tolerance. This process involves adjusting the allocation of assets in response to market changes and personal financial circumstances. Tools such as Python can be employed to automate parts of this process, aiding in the real-time analysis of market conditions and the recalibration of investment positions. For example:
 

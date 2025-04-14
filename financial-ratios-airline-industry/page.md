@@ -82,7 +82,7 @@ This kind of analysis can also help you understand an airline's strategy. If an 
 
 ## What are the key financial ratios in the airline industry?
 
-Financial ratios serve as essential tools for evaluating the financial health of airlines, providing insights into liquidity, profitability, and leverage. Each category offers unique perspectives that are vital for investors, management, and other stakeholders.
+Financial ratios serve as essential tools for evaluating the financial health of airlines, providing insights into [liquidity](/wiki/liquidity-risk-premium), profitability, and leverage. Each category offers unique perspectives that are vital for investors, management, and other stakeholders.
 
 ### Liquidity Ratios
 
@@ -100,7 +100,7 @@ $$
 
 $$
 
-These ratios are crucial for airlines due to the industry's inherent cash flow volatility and the cyclical nature of air travel demand.
+These ratios are crucial for airlines due to the industry's inherent cash flow [volatility](/wiki/volatility-trading-strategies) and the cyclical nature of air travel demand.
 
 ### Profitability Ratios
 

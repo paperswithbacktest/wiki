@@ -82,7 +82,7 @@ Another example is the European Currency Unit (ECU), which was used before the e
 
 ## What are Currency Baskets and How Do They Work?
 
-A currency basket is a financial instrument comprised of multiple currencies, each with a specific weight, utilized by countries and monetary authorities to stabilize the market value of their own currencies. By distributing exposure across different currencies, a currency basket serves to mitigate the impact of volatility and protect against exchange rate fluctuations. This diversification is crucial for maintaining economic stability and helps nations regulate their monetary policies.
+A currency basket is a financial instrument comprised of multiple currencies, each with a specific weight, utilized by countries and monetary authorities to stabilize the market value of their own currencies. By distributing exposure across different currencies, a currency basket serves to mitigate the impact of [volatility](/wiki/volatility-trading-strategies) and protect against exchange rate fluctuations. This diversification is crucial for maintaining economic stability and helps nations regulate their monetary policies.
 
 The primary function of a currency basket is to provide a benchmark or reference point to peg the value of a specific currency. In doing so, it acts as a safeguard against erratic changes in currency values, offering a stabilizing buffer that disperses risk across several currencies. This is particularly beneficial in environments susceptible to rapid exchange rate changes, allowing countries to maintain more consistent and reliable economic conditions.
 

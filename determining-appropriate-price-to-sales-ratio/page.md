@@ -24,7 +24,7 @@ This ratio tells you how much investors are willing to pay for each dollar of a 
 
 The P/S ratio is important for investors because it helps them see how much they are paying for a company's sales. It is a simple way to check if a company might be a good buy. If the P/S ratio is low, it might mean the company is undervalued, which could be a good time to buy its stock. If the ratio is high, it might mean the stock is overvalued, and investors might want to be careful.
 
-This ratio is especially useful for looking at companies that are not making profits yet. These companies might have big plans for the future, but they are not earning money right now. By using the P/S ratio, investors can still get an idea of how much the company is worth based on its sales, not just its profits. This can help investors make smarter choices about where to put their money.
+This ratio is especially useful for looking at companies that are not making profits yet. These companies might have big plans for the future, but they are not [earning](/wiki/earning-announcement) money right now. By using the P/S ratio, investors can still get an idea of how much the company is worth based on its sales, not just its profits. This can help investors make smarter choices about where to put their money.
 
 ## What is considered a good P/S ratio?
 

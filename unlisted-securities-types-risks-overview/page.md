@@ -36,7 +36,7 @@ Another benefit is that unlisted securities can give you more control over your 
 
 ## What are the main risks associated with unlisted securities?
 
-Investing in unlisted securities can be risky because they are not traded on public stock exchanges. This means they can be hard to sell quickly if you need your money back. It might take a long time to find someone who wants to buy your shares in a private company, and you might have to sell them for less than you paid. This lack of liquidity can be a big problem if you need cash fast.
+Investing in unlisted securities can be risky because they are not traded on public stock exchanges. This means they can be hard to sell quickly if you need your money back. It might take a long time to find someone who wants to buy your shares in a private company, and you might have to sell them for less than you paid. This lack of [liquidity](/wiki/liquidity-risk-premium) can be a big problem if you need cash fast.
 
 Another risk is that there is often less information available about unlisted securities. Public companies have to share a lot of details about their business and finances, but private companies don't have to do this. This makes it harder to know if the company is doing well or if it's a good investment. Without enough information, you might make a bad decision and lose money.
 
@@ -64,7 +64,7 @@ Another way to value unlisted securities is by thinking about what the company m
 
 When you invest in unlisted securities, you need to think about the rules that apply to these investments. Unlike public companies, private companies don't have to follow as many rules about sharing information with investors. This means you might not get as much information about the company's finances or how it's doing. But there are still some rules you need to know. For example, in the United States, the Securities and Exchange Commission (SEC) has rules about who can invest in private companies and how much they can invest. These rules are meant to protect investors by making sure they understand the risks.
 
-Also, if you're investing through a private fund like a hedge fund or private equity fund, there are more rules to consider. These funds have to follow certain regulations about who they can take money from and how they manage that money. For example, they might only be allowed to take money from people who are considered "accredited investors," which means they have a certain amount of money or income. It's important to understand these rules so you know if you're allowed to invest and what the risks are. Talking to a financial advisor or lawyer can help you figure out what rules apply to your investment.
+Also, if you're investing through a private fund like a [hedge fund](/wiki/hedge-fund-trading-strategies) or private equity fund, there are more rules to consider. These funds have to follow certain regulations about who they can take money from and how they manage that money. For example, they might only be allowed to take money from people who are considered "accredited investors," which means they have a certain amount of money or income. It's important to understand these rules so you know if you're allowed to invest and what the risks are. Talking to a financial advisor or lawyer can help you figure out what rules apply to your investment.
 
 ## How do unlisted securities impact portfolio diversification?
 

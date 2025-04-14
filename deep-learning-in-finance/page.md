@@ -18,7 +18,7 @@ In summary, deep learning is a more advanced form of machine learning that can h
 
 ## How can deep learning be applied to financial markets?
 
-Deep learning can be used in financial markets to help predict stock prices and market trends. By using large amounts of historical data, deep learning models can find patterns that are hard for humans to see. For example, a deep learning model might look at past stock prices, trading volumes, and even news articles to guess where a stock's price might go next. This can help traders and investors make better decisions about when to buy or sell stocks.
+Deep learning can be used in financial markets to help predict stock prices and market trends. By using large amounts of historical data, [deep learning](/wiki/deep-learning) models can find patterns that are hard for humans to see. For example, a deep learning model might look at past stock prices, trading volumes, and even news articles to guess where a stock's price might go next. This can help traders and investors make better decisions about when to buy or sell stocks.
 
 Another way deep learning is used in finance is for risk management. Banks and other financial institutions use deep learning to predict how likely it is that a borrower will not pay back a loan. By looking at a person's credit history, income, and other factors, these models can help decide if it's safe to lend money to someone. This can help reduce the risk of losing money and make the financial system more stable.
 
@@ -28,7 +28,7 @@ Overall, deep learning is a powerful tool in the financial world because it can 
 
 In finance, one common deep learning model is the Recurrent Neural Network (RNN). RNNs are good at understanding sequences of data, like stock prices over time. They can remember past information and use it to make predictions about future prices. This makes them useful for trading and investing because they can help predict how a stock might move based on its history. A special type of RNN called Long Short-Term Memory (LSTM) is often used because it's even better at remembering long-term patterns in data.
 
-Another popular model is the Convolutional Neural Network (CNN). While CNNs are most famous for image recognition, they can also be used in finance to analyze data from charts and graphs. They are good at picking out important features from complex data, which can help in tasks like predicting stock market trends or analyzing financial reports. By looking at patterns in stock charts, CNNs can help traders make better decisions about when to buy or sell.
+Another popular model is the Convolutional Neural Network (CNN). While CNNs are most famous for image recognition, they can also be used in finance to analyze data from charts and graphs. They are good at [picking](/wiki/asset-class-picking) out important features from complex data, which can help in tasks like predicting stock market trends or analyzing financial reports. By looking at patterns in stock charts, CNNs can help traders make better decisions about when to buy or sell.
 
 Lastly, there are also models like the Autoencoder, which are used for tasks like fraud detection. Autoencoders can learn to compress and then reconstruct data, which helps them find unusual patterns that might be signs of fraud. By comparing the original data to the reconstructed version, these models can spot transactions that don't fit the normal pattern, helping banks and other financial institutions keep their systems safe.
 
@@ -40,7 +40,7 @@ Another way deep learning helps is by finding patterns that are hard for people 
 
 ## What role does deep learning play in algorithmic trading?
 
-Deep learning plays a big role in algorithmic trading by helping to predict how stock prices will change. It uses special models like Recurrent Neural Networks (RNNs) to look at past stock prices and other data. These models can remember what happened before and use that to guess what might happen next. For example, if a stock's price went up after certain news came out last time, the model might predict it will go up again if similar news comes out now. This helps traders decide when to buy or sell stocks automatically, making trading faster and more efficient.
+Deep learning plays a big role in [algorithmic trading](/wiki/algorithmic-trading) by helping to predict how stock prices will change. It uses special models like Recurrent Neural Networks (RNNs) to look at past stock prices and other data. These models can remember what happened before and use that to guess what might happen next. For example, if a stock's price went up after certain news came out last time, the model might predict it will go up again if similar news comes out now. This helps traders decide when to buy or sell stocks automatically, making trading faster and more efficient.
 
 Deep learning also helps by finding patterns in data that are hard for people to see. It can look at not just stock prices, but also things like trading volumes, news articles, and even social media posts. By putting all this information together, deep learning models can find connections that might not be obvious. This can lead to better predictions about where a stock's price might go, helping traders make smarter choices. Overall, deep learning makes algorithmic trading more accurate and helps traders make more money.
 
@@ -78,7 +78,7 @@ Another way deep learning helps with customer service is by predicting what cust
 
 ## What advanced techniques in deep learning are being researched for future financial applications?
 
-One advanced technique being researched for future financial applications is called reinforcement learning. This is a type of deep learning where the model learns by trying different actions and seeing what works best. In finance, this could be used to make better trading strategies. The model would try different ways of buying and selling stocks and learn from the results. Over time, it would get better at making money. This could help traders make smarter decisions and make more profit.
+One advanced technique being researched for future financial applications is called [reinforcement learning](/wiki/reinforcement-learning). This is a type of deep learning where the model learns by trying different actions and seeing what works best. In finance, this could be used to make better trading strategies. The model would try different ways of buying and selling stocks and learn from the results. Over time, it would get better at making money. This could help traders make smarter decisions and make more profit.
 
 Another technique is called transfer learning. This is where a deep learning model learns from one task and then uses that knowledge to do another task better. In finance, a model could learn to predict stock prices in one market and then use that knowledge to predict prices in another market. This can save time and make predictions more accurate. It's like learning to ride a bike and then using that skill to learn how to ride a motorcycle. Transfer learning could help financial institutions make better decisions faster.
 

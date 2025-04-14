@@ -18,7 +18,7 @@ Another way forex brokers can earn revenue is through commissions. Some brokers 
 
 Forex brokers mainly make money from the spread. The spread is the difference between the price to buy a currency and the price to sell it. When a trader makes a trade, the broker takes a small part of that difference as their fee. This is how they earn money every time someone buys or sells a currency through them.
 
-Besides the spread, some brokers also charge a commission. This is like a direct fee for each trade a trader makes. It could be a fixed amount or a percentage of the trade. Brokers with very low or no spreads often use commissions to make money. Additionally, brokers can earn from swap fees, which are charges for holding a trade overnight. All these fees together make up the main ways forex brokers generate their revenue.
+Besides the spread, some brokers also charge a commission. This is like a direct fee for each trade a trader makes. It could be a fixed amount or a percentage of the trade. Brokers with very low or no spreads often use commissions to make money. Additionally, brokers can earn from swap fees, which are charges for holding a trade overnight. All these fees together make up the main ways [forex](/wiki/forex-system) brokers generate their revenue.
 
 ## What is the spread and how does it contribute to a broker's revenue?
 
@@ -34,7 +34,7 @@ Commissions are straightforward. When you make a trade, you pay the commission f
 
 ## What are swap fees and how do they affect a broker's earnings?
 
-Swap fees are charges that forex brokers apply when traders keep their trades open overnight. These fees come from the difference in interest rates between the two currencies in a pair. If you hold a trade overnight, you might have to pay a swap fee or, in some cases, you might even earn a small amount if the interest rate difference works in your favor. Swap fees are also known as rollover fees or overnight financing charges.
+Swap fees are charges that forex brokers apply when traders keep their trades open overnight. These fees come from the difference in interest rates between the two currencies in a pair. If you hold a trade overnight, you might have to pay a swap fee or, in some cases, you might even earn a small amount if the [interest rate](/wiki/interest-rate-trading-strategies) difference works in your favor. Swap fees are also known as rollover fees or overnight financing charges.
 
 These swap fees add to a broker's earnings because every time a trader holds a position overnight, the broker can collect these fees. Even though each fee might be small, with many traders and lots of trades, the total amount from swap fees can be a significant part of a broker's revenue. So, swap fees are another way, along with spreads and commissions, that brokers make money from forex trading.
 
@@ -50,7 +50,7 @@ A dealing desk (DD) model is where the broker acts as the market maker. This mea
 
 A no dealing desk (NDD) model is different. Here, the broker doesn't set the prices. Instead, they send the trader's orders straight to the market or to other big banks and financial institutions. Brokers using the NDD model make money in two main ways: through a small commission on each trade or through a very small spread. Because they're not taking the other side of the trades, they don't have the same risks as DD brokers, but they also don't have the chance to make extra money from the market moving in their favor.
 
-In simple terms, DD brokers make money from the spread and by betting against their clients, while NDD brokers make money from commissions and a tiny spread, without taking on the market risk. Both models have their own ways of earning revenue, and they fit different types of traders and trading strategies.
+In simple terms, DD brokers make money from the spread and by betting against their clients, while NDD brokers make money from commissions and a tiny spread, without taking on the market risk. Both models have their own ways of [earning](/wiki/earning-announcement) revenue, and they fit different types of traders and trading strategies.
 
 ## How do brokers use rebates and promotions as part of their revenue strategy?
 
@@ -62,7 +62,7 @@ But, these rebates and promotions are also part of the broker's bigger plan to m
 
 Volume-based pricing is when a forex broker changes the fees they charge depending on how much a trader trades. If a trader does a lot of trading, the broker might give them lower spreads or smaller commissions. This is good for the trader because it can save them money, but it's also good for the broker. By offering better prices to big traders, the broker can attract more of them and make more money overall, even if they charge less per trade.
 
-Even though the broker might make less money on each trade with volume-based pricing, they can still earn more in total. This is because big traders do a lot of trades, so even a small fee on each one adds up. Plus, by giving special deals to big traders, the broker can keep them happy and stop them from going to another broker. This way, volume-based pricing helps the broker make more money by getting and keeping traders who trade a lot.
+Even though the broker might make less money on each trade with [volume](/wiki/volume-trading-strategy)-based pricing, they can still earn more in total. This is because big traders do a lot of trades, so even a small fee on each one adds up. Plus, by giving special deals to big traders, the broker can keep them happy and stop them from going to another broker. This way, volume-based pricing helps the broker make more money by getting and keeping traders who trade a lot.
 
 ## How do regulatory environments influence the revenue models of forex brokers?
 

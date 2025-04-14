@@ -114,7 +114,7 @@ $$
 
 where $\Delta Y$ is the change in GDP, $\Delta U$ is the percentage change in unemployment, and $c$ is Okun's coefficient, typically ranging around 2-3.
 
-By integrating Okun’s Law into algorithmic trading strategies, traders can adjust their models to predict and respond to changes in macroeconomic indicators like unemployment rates. For example, when unemployment data forecast a potential GDP decline, algorithms could be programmed to anticipate market reactions, such as stock sell-offs, to capitalize on anticipated price movements.
+By integrating Okun’s Law into [algorithmic trading](/wiki/algorithmic-trading) strategies, traders can adjust their models to predict and respond to changes in macroeconomic indicators like unemployment rates. For example, when unemployment data forecast a potential GDP decline, algorithms could be programmed to anticipate market reactions, such as stock sell-offs, to capitalize on anticipated price movements.
 
 There are numerous case studies illustrating how economic shifts have led to pronounced algorithmic trading responses. For instance, during the 2008 financial crisis, a surge in unemployment led to heightened market [volatility](/wiki/volatility-trading-strategies), which many algorithmic traders exploited. Similarly, the rapid recovery post-COVID-19 pandemic saw economic growth indicators leading to increased bullish algorithmic trading activity.
 

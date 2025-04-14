@@ -34,7 +34,7 @@ Their influence might not be as big as that of institutional investors, who mana
 
 ## What role do retail investors play in market volatility?
 
-Retail investors can add to market volatility because they often make quick decisions based on news or trends they see online. When a lot of retail investors buy or sell stocks at the same time, it can cause big swings in stock prices. This is especially true when they get excited about a certain stock and start talking about it on social media. Their actions can lead to sudden jumps or drops in stock prices, which makes the market more unpredictable.
+Retail investors can add to market [volatility](/wiki/volatility-trading-strategies) because they often make quick decisions based on news or trends they see online. When a lot of retail investors buy or sell stocks at the same time, it can cause big swings in stock prices. This is especially true when they get excited about a certain stock and start talking about it on social media. Their actions can lead to sudden jumps or drops in stock prices, which makes the market more unpredictable.
 
 However, retail investors are not the only ones causing market volatility. Big investors like banks and mutual funds also play a big role. But because there are so many retail investors, and they can move quickly, their combined actions can sometimes create a lot of noise in the market. Even though each retail investor might not have a lot of money, together they can still make a big impact on how stable or volatile the market is.
 
@@ -54,7 +54,7 @@ Another example is the rise of meme stocks. These are stocks that get popular be
 
 Retail investors help make the market more liquid. Liquidity means how easy it is to buy or sell something without changing its price too much. When there are a lot of retail investors buying and selling stocks, there are more people in the market. This means there are always buyers and sellers, so it's easier to trade stocks quickly. More retail investors make the market more active, which is good for everyone because it helps keep prices stable and makes it easier to get in and out of investments.
 
-However, sometimes retail investors can also make the market less liquid. If a lot of them decide to buy or sell the same stock at the same time, it can cause big price swings. This can make other investors nervous and less likely to trade that stock. When people are scared to trade, it can make the market less liquid because there are fewer people willing to buy or sell. So, while retail investors usually help with liquidity, their actions can also sometimes make it harder to trade smoothly.
+However, sometimes retail investors can also make the market less liquid. If a lot of them decide to buy or sell the same stock at the same time, it can cause big price swings. This can make other investors nervous and less likely to trade that stock. When people are scared to trade, it can make the market less liquid because there are fewer people willing to buy or sell. So, while retail investors usually help with [liquidity](/wiki/liquidity-risk-premium), their actions can also sometimes make it harder to trade smoothly.
 
 ## What are the psychological factors driving retail investor behavior?
 
@@ -76,7 +76,7 @@ Another strategy is to use tools and information that are easy to find online. R
 
 ## How can the market impact of retail investors be measured and analyzed?
 
-The market impact of retail investors can be measured by looking at how much they trade and how their trades affect stock prices. Researchers and analysts often use data from trading platforms and stock exchanges to see how many retail investors are buying and selling certain stocks. They can also look at the volume of trades, which is how many shares are being traded, to see if there's a big increase when retail investors get involved. If a lot of retail investors start trading a stock and the price goes up or down a lot, it's a sign that they're having an impact.
+The market impact of retail investors can be measured by looking at how much they trade and how their trades affect stock prices. Researchers and analysts often use data from trading platforms and stock exchanges to see how many retail investors are buying and selling certain stocks. They can also look at the [volume](/wiki/volume-trading-strategy) of trades, which is how many shares are being traded, to see if there's a big increase when retail investors get involved. If a lot of retail investors start trading a stock and the price goes up or down a lot, it's a sign that they're having an impact.
 
 Another way to analyze the impact of retail investors is by looking at social media and online forums. By tracking what people are saying about certain stocks, analysts can see if there's a lot of buzz and excitement. If a stock gets a lot of attention online and then its price moves a lot, it's likely that retail investors are driving the change. This kind of analysis helps show how retail investors can work together and affect the market, even if they don't have as much money as big investors.
 

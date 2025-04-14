@@ -46,7 +46,7 @@ Also, new technology can make it cheaper to get resources out. If it costs less 
 
 Economic factors are really important when we try to figure out how much oil, gas, or other resources we can use. The price of the resource is a big deal. If the price is high, it can make sense to spend more money to get the resource out of the ground. This means that more of the resource becomes recoverable because it's worth the cost. But if the price is low, it might not be worth spending a lot of money to get it, so less of it is considered recoverable.
 
-Another economic factor is how much it costs to get the resource out. If new technology or methods make it cheaper to drill or mine, then more of the resource can be counted as recoverable. But if costs go up, like if there are new rules or taxes, it might make it too expensive to get the resource out, so the amount of recoverable reserves could go down. So, economic factors like price and cost can change how much of a resource we think we can use.
+Another economic [factor](/wiki/factor-investing) is how much it costs to get the resource out. If new technology or methods make it cheaper to drill or mine, then more of the resource can be counted as recoverable. But if costs go up, like if there are new rules or taxes, it might make it too expensive to get the resource out, so the amount of recoverable reserves could go down. So, economic factors like price and cost can change how much of a resource we think we can use.
 
 ## Can you explain the concept of 'proved' versus 'probable' recoverable reserves?
 
@@ -94,5 +94,5 @@ Yergin, D. (2011). *The Quest: Energy, Security, and the Remaking of the Modern 
 
 U.S. Energy Information Administration (EIA) Reports: The EIA provides detailed reports and analyses on energy market trends, including data on oil and gas production, consumption, pricing, and recoverable reserves. These reports are crucial for understanding the economic and technological factors influencing energy industries.
 
-The Markets in Financial Instruments Directive II (MiFID II): MiFID II is a legislative framework established by the European Union to regulate financial markets and improve their transparency. It sets out requirements for algorithmic trading practices, aiming to ensure market integrity and protect investors. This directive is particularly relevant for stakeholders engaging in the energy sector through algorithmic trading.
+The Markets in Financial Instruments Directive II (MiFID II): MiFID II is a legislative framework established by the European Union to regulate financial markets and improve their transparency. It sets out requirements for [algorithmic trading](/wiki/algorithmic-trading) practices, aiming to ensure market integrity and protect investors. This directive is particularly relevant for stakeholders engaging in the energy sector through algorithmic trading.
 

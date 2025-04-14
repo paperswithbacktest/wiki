@@ -54,7 +54,7 @@ In budgeting, relevant cost analysis also helps businesses plan better for the f
 
 ## What role does relevant cost play in cost-volume-profit analysis?
 
-Relevant cost plays a big role in cost-volume-profit (CVP) analysis because it helps businesses figure out how much they need to sell to make a profit. In CVP analysis, you look at how changes in costs and sales volume affect your profits. Relevant costs are the costs that change when you sell more or less of your product. For example, if you sell more, you might need more materials and labor, and these costs are relevant because they will change based on your sales.
+Relevant cost plays a big role in cost-[volume](/wiki/volume-trading-strategy)-profit (CVP) analysis because it helps businesses figure out how much they need to sell to make a profit. In CVP analysis, you look at how changes in costs and sales volume affect your profits. Relevant costs are the costs that change when you sell more or less of your product. For example, if you sell more, you might need more materials and labor, and these costs are relevant because they will change based on your sales.
 
 By focusing on relevant costs in CVP analysis, a business can see how much they need to sell to cover these costs and start making a profit. If a company is thinking about lowering the price of their product to sell more, they need to look at how the relevant costs, like materials and labor, will change. This helps them decide if lowering the price will actually lead to more profit or if it will just increase their costs without enough sales to cover it. So, relevant costs are key in CVP analysis because they help businesses make smart choices about pricing and sales to maximize their profits.
 

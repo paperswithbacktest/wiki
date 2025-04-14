@@ -121,7 +121,7 @@ Incorporating these financial ratios into evaluations facilitates strategic deci
 
 ## How can one craft trading strategies based on financial metrics?
 
-Traders utilize financial ratios to craft strategies that balance risk management with the objective of maximizing returns. These ratios provide critical insights into leverage decisions, asset allocation, and risk management, which are key components of algorithmic trading strategies.
+Traders utilize financial ratios to craft strategies that balance risk management with the objective of maximizing returns. These ratios provide critical insights into leverage decisions, asset allocation, and risk management, which are key components of [algorithmic trading](/wiki/algorithmic-trading) strategies.
 
 **Leverage Decisions**: Financial leverage ratios, such as the debt-to-equity ratio, guide traders in determining the borrowing limits relative to equity holdings. A well-informed leverage decision helps in amplifying potential returns without overexposing the portfolio to risk. For example, maintaining a lower debt-to-equity ratio can safeguard against volatility, whereas higher leverage might be justified under stable market conditions. The formula for debt-to-equity ratio is:
 

@@ -88,7 +88,7 @@ International Monetary Fund. "Currency Composition of Official Foreign Exchange 
 
 Bordo, M. D., & Eichengreen, B. "The Rise and Fall of a Barbarous Relic: The Role of Gold in the International Monetary System." This paper discusses the historical context of the gold standard and its influence on modern monetary policies, offering insights into the transition to fiat currencies such as the U.S. Dollar.
 
-Bank for International Settlements. "Triennial Central Bank Survey: Foreign Exchange Turnover in April 2019." This survey delivers key [statistics](/wiki/bayesian-statistics) on the forex market, including currency trading volumes, which highlight the dominance of the U.S. Dollar and the impact of algorithmic trading strategies on market liquidity.
+Bank for International Settlements. "Triennial Central Bank Survey: Foreign Exchange Turnover in April 2019." This survey delivers key [statistics](/wiki/bayesian-statistics) on the [forex](/wiki/forex-system) market, including currency trading volumes, which highlight the dominance of the U.S. Dollar and the impact of [algorithmic trading](/wiki/algorithmic-trading) strategies on market [liquidity](/wiki/liquidity-risk-premium).
 
 Murphy, C. "Algorithmic Trading in the Foreign Exchange Market." Journal of International Financial Markets, Institutions, and Money. Murphy's work examines the methodologies and implications of algorithmic trading in forex markets, with a focus on efficiency, risks, and the regulatory landscape that governs these activities.
 

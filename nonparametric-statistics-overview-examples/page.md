@@ -36,7 +36,7 @@ Another time to use nonparametric methods is when your data is not numerical, li
 
 ## What are the advantages of using nonparametric statistics?
 
-Nonparametric statistics are great because they don't assume your data follows a specific pattern, like the normal distribution. This makes them really useful when you're not sure about the shape of your data or if your data doesn't fit the usual patterns. If you use parametric methods when your data isn't normally distributed, you might get wrong results. But nonparametric methods don't have this problem, so they're safer to use when you're unsure about your data.
+Nonparametric [statistics](/wiki/bayesian-statistics) are great because they don't assume your data follows a specific pattern, like the normal distribution. This makes them really useful when you're not sure about the shape of your data or if your data doesn't fit the usual patterns. If you use parametric methods when your data isn't normally distributed, you might get wrong results. But nonparametric methods don't have this problem, so they're safer to use when you're unsure about your data.
 
 Another advantage is that nonparametric methods can handle smaller datasets. With small samples, it's hard to tell if the data follows a normal distribution. Nonparametric methods don't need a lot of data to work well, so they're a good choice when you don't have many observations. They're also useful for data that's not numerical, like rankings or categories. Parametric methods need numbers to work with means and standard deviations, but nonparametric methods can look at the order or ranks of the data instead. This makes them more flexible and able to handle a wider range of data types.
 
@@ -123,7 +123,7 @@ accuracy = knn.score(X_test, y_test)
 print(f'Model Accuracy: {accuracy:.2f}')
 ```
 
-Through this framework, k-NN models enhance the predictability and resilience of algorithmic trading by adaptively responding to diverse market conditions. Traders can fine-tune such models, increasing robustness against market volatility by not making rigid assumptions about the data distribution, ultimately resulting in more informed trading decisions.
+Through this framework, k-NN models enhance the predictability and resilience of [algorithmic trading](/wiki/algorithmic-trading) by adaptively responding to diverse market conditions. Traders can fine-tune such models, increasing robustness against market [volatility](/wiki/volatility-trading-strategies) by not making rigid assumptions about the data distribution, ultimately resulting in more informed trading decisions.
 
 ## References & Further Reading
 

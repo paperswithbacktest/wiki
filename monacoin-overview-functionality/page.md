@@ -24,7 +24,7 @@ The idea was to create a digital money that people in Japan could use easily. Si
 
 The main purpose of MonaCoin is to act as a digital money that people can use to buy things or trade with others. It was made to be easy to use, especially for people in Japan. MonaCoin works on a system called blockchain, which keeps all transactions safe and clear. People can use MonaCoin to pay for things online or to send money to friends and family.
 
-MonaCoin also aims to be a fun and popular cryptocurrency. It's named after the famous Mona Lisa painting, which makes it unique and interesting. People can earn new MonaCoins by mining, which means using their computers to solve puzzles. This helps keep the MonaCoin network running well. Overall, MonaCoin wants to be a useful and enjoyable digital money for everyone, especially in Japan.
+MonaCoin also aims to be a fun and popular [cryptocurrency](/wiki/cryptocurrency). It's named after the famous Mona Lisa painting, which makes it unique and interesting. People can earn new MonaCoins by mining, which means using their computers to solve puzzles. This helps keep the MonaCoin network running well. Overall, MonaCoin wants to be a useful and enjoyable digital money for everyone, especially in Japan.
 
 ## How does MonaCoin work as a cryptocurrency?
 
@@ -90,7 +90,7 @@ $$
 \text{Profitability} = (\text{Block Reward} \times \text{Market Price}) - (\text{Electricity Cost} + \text{Hardware Cost})
 $$
 
-As the block reward decreases, the dependency on market price increases to maintain mining incentives. Consequently, these halvings also affect market dynamics, possibly inducing price volatility as market participants adjust to the new supply constraints. Understanding these factors is crucial for anyone involved in trading or investing in MonaCoin, as both security threats and supply changes can significantly influence the network's stability and value.
+As the block reward decreases, the dependency on market price increases to maintain mining incentives. Consequently, these halvings also affect market dynamics, possibly inducing price [volatility](/wiki/volatility-trading-strategies) as market participants adjust to the new supply constraints. Understanding these factors is crucial for anyone involved in trading or investing in MonaCoin, as both security threats and supply changes can significantly influence the network's stability and value.
 
 ## References & Further Reading
 

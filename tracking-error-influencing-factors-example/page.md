@@ -36,7 +36,7 @@ For investors who want their investments to behave like the benchmark, a low tra
 
 Several things can affect tracking error. One big thing is how the portfolio manager chooses investments. If they pick investments that are very different from the benchmark, the tracking error will be high. For example, if the benchmark is full of big company stocks but the portfolio has a lot of small company stocks, the returns will be different. Also, how often the portfolio is changed can affect tracking error. If the portfolio is changed a lot, it might not match the benchmark as well.
 
-Another factor is the costs of managing the portfolio. Fees and other costs can make the portfolio's returns lower than the benchmark's returns, which increases the tracking error. Also, how the market is doing can affect tracking error. If the market is going up and down a lot, it can be harder for the portfolio to follow the benchmark closely. So, things like how investments are picked, how often the portfolio changes, costs, and market conditions all play a role in tracking error.
+Another [factor](/wiki/factor-investing) is the costs of managing the portfolio. Fees and other costs can make the portfolio's returns lower than the benchmark's returns, which increases the tracking error. Also, how the market is doing can affect tracking error. If the market is going up and down a lot, it can be harder for the portfolio to follow the benchmark closely. So, things like how investments are picked, how often the portfolio changes, costs, and market conditions all play a role in tracking error.
 
 ## How does portfolio rebalancing affect tracking error?
 
@@ -66,7 +66,7 @@ However, a high tracking error in a passive strategy might mean something is wro
 
 Tracking error is really important for people who invest in index funds. These funds are supposed to copy the performance of a specific index, like the S&P 500. If the tracking error is low, it means the index fund is doing a good job of matching the index. This is what investors want because they are trying to get the same returns as the index. A low tracking error shows that the fund is working the way it should, and investors can feel confident that their money is being managed well.
 
-On the other hand, a high tracking error can be a problem for index fund investors. It means the fund's returns are not following the index closely. This can happen because of costs like fees for buying and selling investments, or because the fund manager is picking different investments than what's in the index. If the tracking error is high, investors might not get the returns they expect, and they might need to look for a different fund that does a better job of matching the index. So, keeping an eye on tracking error helps investors make sure their index fund is doing what it's supposed to do.
+On the other hand, a high tracking error can be a problem for index fund investors. It means the fund's returns are not following the index closely. This can happen because of costs like fees for buying and selling investments, or because the fund manager is [picking](/wiki/asset-class-picking) different investments than what's in the index. If the tracking error is high, investors might not get the returns they expect, and they might need to look for a different fund that does a better job of matching the index. So, keeping an eye on tracking error helps investors make sure their index fund is doing what it's supposed to do.
 
 ## How does tracking error vary across different asset classes?
 
@@ -121,7 +121,7 @@ $$
 
 where $R_{p,i}$ represents the portfolio return for period $i$, $R_{b,i}$ represents the benchmark return for the same period, and $N$ is the number of periods.
 
-Ex-ante tracking error, by contrast, is a predictive measure that estimates the potential deviation of a portfolio's returns from its benchmark in the future. It employs statistical models and assumptions about market conditions, asset correlations, and volatility to forecast the possible tracking error. This forward-looking approach aids in risk management and strategic planning, allowing investors to anticipate and mitigate potential discrepancies before they occur.
+Ex-ante tracking error, by contrast, is a predictive measure that estimates the potential deviation of a portfolio's returns from its benchmark in the future. It employs statistical models and assumptions about market conditions, asset correlations, and [volatility](/wiki/volatility-trading-strategies) to forecast the possible tracking error. This forward-looking approach aids in risk management and strategic planning, allowing investors to anticipate and mitigate potential discrepancies before they occur.
 
 Calculating ex-ante tracking error often involves sophisticated risk models, incorporating variables such as expected returns, asset correlations, and volatility forecasts. Tools like Monte Carlo simulations or factor models are commonly used for these estimations.
 

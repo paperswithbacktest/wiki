@@ -54,7 +54,7 @@ When the prize fund rate goes up, it means more money goes into the prize fund, 
 
 Premium Bonds can be considered a safe investment because they are backed by the UK government through National Savings and Investments (NS&I). This means that your money is guaranteed to be safe, even if you don't win any prizes. You won't lose your initial investment, which makes Premium Bonds a secure choice for saving money.
 
-However, it's important to remember that Premium Bonds are different from traditional savings accounts. Instead of earning regular interest, you enter a monthly prize draw where you might win prizes. This means your returns are not guaranteed, and you might not win anything at all. So, while your money is safe, the growth of your savings depends on luck, and it might not be the best choice if you're looking for steady, predictable returns.
+However, it's important to remember that Premium Bonds are different from traditional savings accounts. Instead of [earning](/wiki/earning-announcement) regular interest, you enter a monthly prize draw where you might win prizes. This means your returns are not guaranteed, and you might not win anything at all. So, while your money is safe, the growth of your savings depends on luck, and it might not be the best choice if you're looking for steady, predictable returns.
 
 ## How do Premium Bonds compare to traditional savings accounts in terms of yield?
 
@@ -260,5 +260,5 @@ This Python function calculates the price of a bond given different market inter
 
 9. **Quantitative Trading: How to Build Your Own Algorithmic Trading Business** by Ernie Chan: This book offers practical advice on setting up algorithmic trading systems, which are increasingly impacting bond markets.
 
-For further exploration, readers are encouraged to engage with these materials to gain a deeper understanding of the intricate dynamics of the bond market, encompassing premium bonds, bond yields, and algorithmic trading.
+For further exploration, readers are encouraged to engage with these materials to gain a deeper understanding of the intricate dynamics of the bond market, encompassing premium bonds, bond yields, and [algorithmic trading](/wiki/algorithmic-trading).
 

@@ -40,7 +40,7 @@ While ROE and ROA can tell you how well a company is doing in terms of profits, 
 
 ## How does CROGI differ from Return on Invested Capital (ROIC)?
 
-CROGI and Return on Invested Capital (ROIC) are both ways to see how well a company uses its money, but they look at different things. CROGI focuses on the cash profits a company makes from its investments, like buildings and machines. It uses the cash flow statement to find out how much real money the company is earning, then compares this to the total value of all its investments. This gives investors a clear picture of how well the company is turning its investments into cash.
+CROGI and Return on Invested Capital (ROIC) are both ways to see how well a company uses its money, but they look at different things. CROGI focuses on the cash profits a company makes from its investments, like buildings and machines. It uses the cash flow statement to find out how much real money the company is [earning](/wiki/earning-announcement), then compares this to the total value of all its investments. This gives investors a clear picture of how well the company is turning its investments into cash.
 
 ROIC, on the other hand, looks at the profit a company makes compared to the total money it has used to run its business, including both equity and debt. It uses the net operating profit after taxes (NOPAT) and compares it to the total invested capital. ROIC gives a broader view of how efficiently a company is using all its money, not just the cash part. So while CROGI is all about the cash, ROIC looks at the bigger picture of profits and total investment.
 

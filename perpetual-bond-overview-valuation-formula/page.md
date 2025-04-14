@@ -44,7 +44,7 @@ One big risk with perpetual bonds is that they can lose value if interest rates 
 
 Another risk is that the issuer might stop paying interest. Even though the bond doesn't have an end date, the company or government that issued it could run into money problems and not be able to keep up with the interest payments. If that happens, you might not get the steady income you were counting on. This makes perpetual bonds a bit riskier than regular bonds, where you know you'll get your money back at the end.
 
-Lastly, because perpetual bonds don't have a maturity date, you might not get your original investment back unless the issuer decides to buy the bond back. This means you're relying on the interest payments to make your investment worthwhile. If the interest rate on the bond is low, it might not be enough to make up for the risk you're taking by investing in it.
+Lastly, because perpetual bonds don't have a maturity date, you might not get your original investment back unless the issuer decides to buy the bond back. This means you're relying on the interest payments to make your investment worthwhile. If the [interest rate](/wiki/interest-rate-trading-strategies) on the bond is low, it might not be enough to make up for the risk you're taking by investing in it.
 
 ## How is the interest rate determined for perpetual bonds?
 

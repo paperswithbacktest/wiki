@@ -72,7 +72,7 @@ If you want to make changes to your investments, it's simple too. You can adjust
 
 Interactive Advisors takes security very seriously to keep your data and investments safe. They use strong encryption to protect your information when you're using their website. This means that your personal details and financial data are kept private and secure. They also have firewalls to stop hackers from getting into their system. Plus, they follow strict rules to make sure they're always protecting your information the best way possible.
 
-They also have other ways to keep your account safe. For example, they use two-factor authentication. This means you need more than just a password to get into your account, making it much harder for someone else to access it. They watch your account all the time for anything strange, so if something doesn't look right, they can act quickly to keep your money safe. With these measures in place, you can feel confident that your investments and personal information are well-protected at Interactive Advisors.
+They also have other ways to keep your account safe. For example, they use two-[factor](/wiki/factor-investing) authentication. This means you need more than just a password to get into your account, making it much harder for someone else to access it. They watch your account all the time for anything strange, so if something doesn't look right, they can act quickly to keep your money safe. With these measures in place, you can feel confident that your investments and personal information are well-protected at Interactive Advisors.
 
 ## How does Interactive Advisors integrate with other financial planning tools and services?
 

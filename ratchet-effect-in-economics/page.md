@@ -18,7 +18,7 @@ This effect can also be seen in wages. When the economy is doing well, workers m
 
 The ratchet effect can make it hard for governments to change economic policies once they are set. For example, if a government increases spending during a bad time, like a recession, it might be hard to cut that spending later. People get used to the extra money and services, and they don't want to lose them. This can lead to bigger government budgets and more debt over time. Policymakers know this, so they might be careful about making big spending changes in the first place.
 
-The ratchet effect also affects wages and prices. When the economy is doing well, wages and prices might go up. But if the economy starts to struggle, it's hard to bring those wages and prices back down. Workers expect to keep earning the same amount, and businesses might not want to lower prices after they've raised them. This can make it tough for the economy to adjust to bad times. So, when making economic policies, leaders need to think about how hard it might be to change things later.
+The ratchet effect also affects wages and prices. When the economy is doing well, wages and prices might go up. But if the economy starts to struggle, it's hard to bring those wages and prices back down. Workers expect to keep [earning](/wiki/earning-announcement) the same amount, and businesses might not want to lower prices after they've raised them. This can make it tough for the economy to adjust to bad times. So, when making economic policies, leaders need to think about how hard it might be to change things later.
 
 ## Can you provide a simple example of the ratchet effect in action?
 

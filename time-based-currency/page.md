@@ -56,7 +56,7 @@ Another limitation is that time-based currencies might not work well for everyon
 
 To start a time-based currency system, you need to find people in your community who want to join. You can talk to friends, neighbors, or people at local meetings to see if they are interested. Once you have a group, you can set up rules for how the system will work. Decide how people will earn and spend time credits, and how you will keep track of them. You might use a simple notebook or an online app to record who has how many hours. It's important to make sure everyone understands and agrees to the rules so the system can work well.
 
-To join an existing time-based currency system, you need to find one in your area. You can search online or ask at local community centers or libraries if they know of any groups. Once you find a group, you can sign up to be a member. You'll need to learn their rules and how they keep track of time credits. After you join, you can start helping others and earning time credits. You can then use these credits to get help from other members when you need it.
+To join an existing time-based currency system, you need to find one in your area. You can search online or ask at local community centers or libraries if they know of any groups. Once you find a group, you can sign up to be a member. You'll need to learn their rules and how they keep track of time credits. After you join, you can start helping others and [earning](/wiki/earning-announcement) time credits. You can then use these credits to get help from other members when you need it.
 
 ## What role does technology play in modern time-based currency systems?
 

@@ -50,7 +50,7 @@ For example, a car company might find it cheaper to make its own engines instead
 
 ## How does the principal-agent problem affect the operations of a firm?
 
-The principal-agent problem happens when the people who own a business, called principals, hire other people, called agents, to run it for them. The problem is that the agents might not always do what's best for the business because they have their own goals. For example, a manager might want a bigger office or a higher salary, even if it's not good for the company. This can make it hard for the owners to make sure the business is run the way they want.
+The principal-agent problem happens when the people who own a business, called principals, hire other people, called [agents](/wiki/agents), to run it for them. The problem is that the agents might not always do what's best for the business because they have their own goals. For example, a manager might want a bigger office or a higher salary, even if it's not good for the company. This can make it hard for the owners to make sure the business is run the way they want.
 
 This problem can affect how a firm works in many ways. Owners might have to spend time and money watching what their managers do to make sure they're doing a good job. They might also need to set up rules or incentives to get the managers to do what's best for the business. For example, they might give bonuses if the company does well. All of these things can make running the business more complicated and expensive.
 

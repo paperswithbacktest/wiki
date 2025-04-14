@@ -18,7 +18,7 @@ In the case of bonds, when someone buys or sells a bond between interest payment
 
 Accrued interest is calculated by figuring out how much interest has built up over a certain time. You need to know the interest rate, the amount of money (called the principal), and the time period since the last interest payment. The basic formula is: Accrued Interest = Principal x Interest Rate x Time. For example, if you have a $1,000 bond with a 5% annual interest rate and it's been 90 days since the last payment, you would calculate the accrued interest as $1,000 x 0.05 x (90/365) = $12.33.
 
-When dealing with different time periods, it's important to make sure the time is in the same unit as the interest rate. If the interest rate is annual, you need to convert the time into years or a fraction of a year. For bonds, the time is usually counted from the last interest payment date to the date of the calculation. This way, you can accurately figure out how much interest has accrued and needs to be paid or received.
+When dealing with different time periods, it's important to make sure the time is in the same unit as the [interest rate](/wiki/interest-rate-trading-strategies). If the interest rate is annual, you need to convert the time into years or a fraction of a year. For bonds, the time is usually counted from the last interest payment date to the date of the calculation. This way, you can accurately figure out how much interest has accrued and needs to be paid or received.
 
 ## Why is accrued interest important in financial transactions?
 
@@ -48,7 +48,7 @@ For example, if you have a student loan with a 5% annual interest rate and you h
 
 Accrued interest can have tax implications depending on the type of investment or loan. For bonds, if you buy a bond between interest payment dates, you pay the seller the accrued interest. When you get your first interest payment, it includes the accrued interest you already paid for. You can usually deduct the accrued interest you paid from your taxes, but you have to report the full interest payment you receive as income. This way, you don't pay taxes on the same interest twice.
 
-For savings accounts and other interest-earning accounts, the interest you earn, including accrued interest, is usually taxable income. The bank reports the interest they pay you to the IRS, and you have to include it on your tax return. If you have a loan, the accrued interest you owe doesn't affect your taxes until you actually pay it. But if you can deduct the interest on your loan, like with some student loans or mortgages, you can claim the deduction when you pay the accrued interest.
+For savings accounts and other interest-[earning](/wiki/earning-announcement) accounts, the interest you earn, including accrued interest, is usually taxable income. The bank reports the interest they pay you to the IRS, and you have to include it on your tax return. If you have a loan, the accrued interest you owe doesn't affect your taxes until you actually pay it. But if you can deduct the interest on your loan, like with some student loans or mortgages, you can claim the deduction when you pay the accrued interest.
 
 ## How do financial institutions account for accrued interest in their records?
 

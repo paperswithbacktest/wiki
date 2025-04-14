@@ -70,7 +70,7 @@ However, expanding to new countries can also be tricky. It costs money to open n
 
 ## What are the emerging revenue opportunities for Nasdaq in the fintech sector?
 
-Nasdaq sees a lot of new ways to make money in the fintech sector. Fintech is all about using technology to make financial services better and easier. One big opportunity for Nasdaq is in blockchain and cryptocurrency. Blockchain is a special way to keep track of information that's very safe and hard to change. Nasdaq can use blockchain to offer new services like trading digital currencies or helping companies issue their own digital tokens. This could bring in new customers and more money for Nasdaq.
+Nasdaq sees a lot of new ways to make money in the fintech sector. Fintech is all about using technology to make financial services better and easier. One big opportunity for Nasdaq is in blockchain and [cryptocurrency](/wiki/cryptocurrency). Blockchain is a special way to keep track of information that's very safe and hard to change. Nasdaq can use blockchain to offer new services like trading digital currencies or helping companies issue their own digital tokens. This could bring in new customers and more money for Nasdaq.
 
 Another way Nasdaq can make money in fintech is by offering more technology solutions to banks and other financial firms. These solutions can help these businesses do things like manage their money better or make trading easier. Nasdaq can also help with things like cybersecurity, which is very important in the world of finance. By selling these technology services, Nasdaq can earn more money and help its customers at the same time. As fintech keeps growing, Nasdaq has a lot of chances to make more money and stay a big player in the financial world.
 

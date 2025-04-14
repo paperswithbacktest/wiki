@@ -22,7 +22,7 @@ The company also uses AI to keep learning and getting better. As the stock marke
 
 ## What are the main services offered by Ubiquant?
 
-Ubiquant offers investment advice using artificial intelligence. They look at a lot of data about the stock market and use smart computer programs to find the best stocks to buy or sell. This helps their clients make more money from their investments. Ubiquant's main service is giving this advice to big investors, helping them decide where to put their money.
+Ubiquant offers investment advice using [artificial intelligence](/wiki/ai-artificial-intelligence). They look at a lot of data about the stock market and use smart computer programs to find the best stocks to buy or sell. This helps their clients make more money from their investments. Ubiquant's main service is giving this advice to big investors, helping them decide where to put their money.
 
 Another service Ubiquant provides is ongoing support and updates. As the stock market changes, Ubiquant's AI keeps learning and getting better. They give their clients new advice based on the latest information. This means that clients always have the most up-to-date strategies for their investments.
 

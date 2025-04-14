@@ -48,7 +48,7 @@ On the other hand, a credit ticket is used when money is added to an account. If
 
 When a business uses debit tickets, it means they are taking money out of their accounts. This is important in accounting because it helps keep track of where the money is going. For example, if a business pays for supplies, they use a debit ticket to show that money was taken out to pay for those supplies. This helps the business know exactly how much they are spending and makes sure their records are correct. It's like writing down every time you spend money so you know where it all went.
 
-In accounting, using debit tickets also helps with keeping the books balanced. Every time money goes out, it needs to be recorded properly to make sure the business's financial statements are accurate. If there's ever a question about a transaction, the business can look at the debit ticket to see what happened. This way, they can fix any mistakes and make sure their financial reports are right. It's all about keeping clear and correct records of what's happening with the money.
+In accounting, using debit tickets also helps with keeping the [books](/wiki/algo-trading-books) balanced. Every time money goes out, it needs to be recorded properly to make sure the business's financial statements are accurate. If there's ever a question about a transaction, the business can look at the debit ticket to see what happened. This way, they can fix any mistakes and make sure their financial reports are right. It's all about keeping clear and correct records of what's happening with the money.
 
 ## In what scenarios might a debit ticket be used to correct an error?
 

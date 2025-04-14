@@ -18,7 +18,7 @@ This method is helpful because it can give a more reliable picture of how much a
 
 The Becker-Parkinson volatility algorithm was developed by Becker and Parkinson. They wanted to find a better way to measure how much a stock's price goes up and down. Instead of just looking at the difference between the highest and lowest prices each day, they came up with a special formula that uses this information in a smarter way.
 
-This algorithm helps people understand and predict how much a stock's price might change in the future. By focusing on the range of prices during the day, the Becker-Parkinson method gives a more accurate picture of stock volatility. This is really useful for investors and traders who need to make decisions based on how much a stock's price might move.
+This algorithm helps people understand and predict how much a stock's price might change in the future. By focusing on the range of prices during the day, the Becker-Parkinson method gives a more accurate picture of stock [volatility](/wiki/volatility-trading-strategies). This is really useful for investors and traders who need to make decisions based on how much a stock's price might move.
 
 ## What is the basic principle behind the Becker-Parkinson volatility algorithm?
 

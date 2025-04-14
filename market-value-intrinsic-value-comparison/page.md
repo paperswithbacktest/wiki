@@ -24,7 +24,7 @@ Calculating intrinsic value can be tricky because it involves making guesses abo
 
 Market value is figured out by looking at what people are willing to pay for something right now. It's like a big game where buyers and sellers come together and agree on a price. If a lot of people want to buy something, like a new toy everyone is talking about, the market value goes up because sellers can ask for more money. But if nobody wants to buy it, the market value goes down because sellers have to lower their prices to get anyone interested.
 
-For things like houses or stocks, people use special ways to guess the market value. For houses, real estate agents look at what similar houses nearby have sold for recently. This helps them figure out a good price for your house. For stocks, people look at things like how much money the company makes, what other similar companies are worth, and what's happening in the economy. All these things together help decide the market value of a stock.
+For things like houses or stocks, people use special ways to guess the market value. For houses, real estate [agents](/wiki/agents) look at what similar houses nearby have sold for recently. This helps them figure out a good price for your house. For stocks, people look at things like how much money the company makes, what other similar companies are worth, and what's happening in the economy. All these things together help decide the market value of a stock.
 
 ## How is intrinsic value calculated?
 

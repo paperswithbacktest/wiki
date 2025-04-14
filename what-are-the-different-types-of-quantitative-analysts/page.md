@@ -24,13 +24,13 @@ Another important part of a quant's job is to keep their models up to date. Mark
 
 Quantitative analysts, or quants, come in different types based on what they do. One type is the financial quant, who works on creating models to predict how markets will move. They use math and data to help banks and investment firms make smart choices about where to put their money. Another type is the risk quant, who focuses on figuring out how much risk there is in different investments. They help companies understand and manage the risks they take, making sure they don't lose too much money.
 
-There are also algorithmic trading quants, who build computer programs that can buy and sell stocks automatically. These programs follow rules set by the quants to make trades quickly and efficiently. Lastly, there are data quants, who work on collecting and cleaning up data so it can be used in models. They make sure the data is accurate and ready for other quants to use in their work. Each type of quant plays a key role in helping companies make better financial decisions.
+There are also [algorithmic trading](/wiki/algorithmic-trading) quants, who build computer programs that can buy and sell stocks automatically. These programs follow rules set by the quants to make trades quickly and efficiently. Lastly, there are data quants, who work on collecting and cleaning up data so it can be used in models. They make sure the data is accurate and ready for other quants to use in their work. Each type of quant plays a key role in helping companies make better financial decisions.
 
 ## What is a financial quantitative analyst and what do they do?
 
 A financial quantitative analyst, often called a financial quant, is someone who uses math and computer skills to help make decisions about money. They work in places like banks and investment firms. Their main job is to create models that can predict how the stock market or other financial markets will move. By looking at a lot of data, like stock prices and economic reports, they can find patterns and trends. This helps companies decide where to invest their money to make the most profit.
 
-Financial quants need to be good at math, statistics, and programming. They use these skills to build their models and make sure they are accurate. But they also need to understand how financial markets work. Their job is not just about numbers; it's about using those numbers to help companies make smart choices. By doing this, financial quants play a big role in helping their companies succeed in the world of finance.
+Financial quants need to be good at math, [statistics](/wiki/bayesian-statistics), and programming. They use these skills to build their models and make sure they are accurate. But they also need to understand how financial markets work. Their job is not just about numbers; it's about using those numbers to help companies make smart choices. By doing this, financial quants play a big role in helping their companies succeed in the world of finance.
 
 ## What is a risk quantitative analyst and what are their main tasks?
 
@@ -76,7 +76,7 @@ In other industries, like technology or healthcare, quants might work on differe
 
 ## What advanced techniques do expert quantitative analysts use in their work?
 
-Expert quantitative analysts use advanced techniques like machine learning and artificial intelligence to make their models better. Machine learning helps them find patterns in data that are hard to see with regular math. They use it to predict how markets will move or how much risk there is in an investment. Artificial intelligence can help them make decisions faster and more accurately. These tools let quants build models that can learn from new data and get better over time.
+Expert quantitative analysts use advanced techniques like [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence) to make their models better. Machine learning helps them find patterns in data that are hard to see with regular math. They use it to predict how markets will move or how much risk there is in an investment. Artificial intelligence can help them make decisions faster and more accurately. These tools let quants build models that can learn from new data and get better over time.
 
 Another technique they use is called Monte Carlo simulation. This is a way to predict what might happen in the future by running a lot of different scenarios. Quants use it to see how different things, like changes in interest rates or stock prices, could affect their investments. It helps them understand the risks better and make smarter choices. By using these advanced techniques, expert quants can give their companies a big advantage in the fast-changing world of finance.
 

@@ -24,7 +24,7 @@ The main difference is that with Dollar Bond Index-Linked Securities, your retur
 
 The underlying index for Dollar Bond Index-Linked Securities is usually a well-known bond index. This index tracks the performance of a group of bonds, which can be government bonds, corporate bonds, or a mix of both. The specific index used can vary depending on the security, but common ones include the Bloomberg Barclays U.S. Aggregate Bond Index or the S&P U.S. Aggregate Bond Index. These indexes give a broad view of how the bond market is doing as a whole.
 
-When you invest in these securities, your returns go up or down based on how the index does. If the bonds in the index do well and their prices go up, your investment will also go up. If the bond prices in the index go down, your investment will go down too. This way, you're not betting on just one bond doing well, but on the whole group of bonds in the index. It's like putting your money into a basket of bonds, which can be safer than picking just one.
+When you invest in these securities, your returns go up or down based on how the index does. If the bonds in the index do well and their prices go up, your investment will also go up. If the bond prices in the index go down, your investment will go down too. This way, you're not betting on just one bond doing well, but on the whole group of bonds in the index. It's like putting your money into a basket of bonds, which can be safer than [picking](/wiki/asset-class-picking) just one.
 
 ## How are returns calculated for Dollar Bond Index-Linked Securities?
 

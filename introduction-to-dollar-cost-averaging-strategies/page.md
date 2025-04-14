@@ -56,7 +56,7 @@ The key is to pick a schedule that you can stick to. If you find it hard to reme
 
 Dollar-cost averaging can work well for many types of investments, like stocks, mutual funds, and exchange-traded funds (ETFs). It's especially good for investments that go up and down a lot over time. By spreading out your money, you can buy more when prices are low and less when they're high. This helps you pay less on average for each share and can make your investment grow steadily over time. It's a good way to invest without worrying about the best time to buy.
 
-However, dollar-cost averaging might not be the best choice for every investment. For example, if you're investing in something that doesn't change in price much, like a savings account or a bond with a fixed interest rate, you won't see the same benefits. Also, if you believe a certain investment will go up a lot very soon, you might miss out on big gains by spreading out your money over time. So, while dollar-cost averaging can be a great strategy for many investments, it's important to think about what you're investing in and whether this method makes sense for that particular investment.
+However, dollar-cost averaging might not be the best choice for every investment. For example, if you're investing in something that doesn't change in price much, like a savings account or a bond with a fixed [interest rate](/wiki/interest-rate-trading-strategies), you won't see the same benefits. Also, if you believe a certain investment will go up a lot very soon, you might miss out on big gains by spreading out your money over time. So, while dollar-cost averaging can be a great strategy for many investments, it's important to think about what you're investing in and whether this method makes sense for that particular investment.
 
 ## How does dollar-cost averaging compare to lump-sum investing?
 
@@ -68,7 +68,7 @@ In the end, dollar-cost averaging helps you avoid the stress of trying to guess 
 
 ## What psychological benefits does dollar-cost averaging offer to investors?
 
-Dollar-cost averaging helps investors feel less worried about the ups and downs of the market. Instead of putting all their money in at once and hoping the market goes up right away, they can invest a little bit every month. This way, they don't have to stress about picking the perfect time to buy. If the market goes down, they know they'll buy more shares next time, which can make them feel better about their investment.
+Dollar-cost averaging helps investors feel less worried about the ups and downs of the market. Instead of putting all their money in at once and hoping the market goes up right away, they can invest a little bit every month. This way, they don't have to stress about [picking](/wiki/asset-class-picking) the perfect time to buy. If the market goes down, they know they'll buy more shares next time, which can make them feel better about their investment.
 
 It also helps investors stay disciplined and keep investing regularly. When you know you're putting money in every month, it's easier to stick to your plan. This can make you feel more in control and less likely to make quick decisions based on fear or excitement. Over time, this steady approach can help you build your investment without the stress of trying to time the market perfectly.
 

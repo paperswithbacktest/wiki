@@ -18,7 +18,7 @@ Sometimes, people use the term "dated date" to talk about old information or eve
 
 In financial transactions, the dated date is important because it tells everyone when the transaction happened. This is crucial for keeping track of money movements, like when you pay a bill or receive a payment. If there's a problem or a question about the money, the dated date helps everyone know exactly which transaction they are talking about. It's like a timestamp that makes sure everyone agrees on when things happened.
 
-Also, the dated date helps with organizing financial records. Banks and companies need to keep their books neat and accurate. By using the dated date, they can sort transactions in order and make sure they match up with other records, like bank statements or invoices. This makes it easier to check for mistakes or fraud, and it helps during tax time or audits when people need to look back at what happened with money in the past.
+Also, the dated date helps with organizing financial records. Banks and companies need to keep their [books](/wiki/algo-trading-books) neat and accurate. By using the dated date, they can sort transactions in order and make sure they match up with other records, like bank statements or invoices. This makes it easier to check for mistakes or fraud, and it helps during tax time or audits when people need to look back at what happened with money in the past.
 
 ## How is the dated date different from the issue date?
 
@@ -38,7 +38,7 @@ In businesses and banks, setting the dated date is a bit more organized. They us
 
 In the bond markets, the dated date is very important. It is the day when a bond starts to earn interest for the person who owns it. If you buy a bond, the dated date tells you from when you will start getting interest payments. This is useful because it helps everyone know exactly when the bond starts working for them. If you are selling or buying bonds, knowing the dated date helps you figure out how much interest you will get or have to pay.
 
-The dated date also helps keep things organized in the bond market. When people trade bonds, they need to know when each bond was issued and when it starts earning interest. This information is used to keep records straight and to make sure everyone agrees on the value of the bond. If there's ever a question about when a bond was issued or when it starts earning interest, the dated date is the answer. It's like a starting line for the bond's life, and it's important for keeping everything clear and fair in the bond market.
+The dated date also helps keep things organized in the bond market. When people trade bonds, they need to know when each bond was issued and when it starts [earning](/wiki/earning-announcement) interest. This information is used to keep records straight and to make sure everyone agrees on the value of the bond. If there's ever a question about when a bond was issued or when it starts earning interest, the dated date is the answer. It's like a starting line for the bond's life, and it's important for keeping everything clear and fair in the bond market.
 
 ## How does the dated date affect the interest calculation on bonds?
 

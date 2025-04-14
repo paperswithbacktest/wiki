@@ -62,7 +62,7 @@ Growth-oriented portfolios are good for people who are okay with taking more ris
 
 ## How can one tailor an investment portfolio to specific financial goals?
 
-Tailoring an investment portfolio to specific financial goals means picking the right mix of investments that will help you reach what you want. If your goal is to save for a big purchase like a house in a few years, you might want a more conservative portfolio with lots of bonds and cash. This keeps your money safe and ready to use when you need it. But if your goal is to save for retirement that's many years away, you might choose a growth-oriented portfolio with more stocks. This can help your money grow a lot over time, even if it's riskier.
+Tailoring an investment portfolio to specific financial goals means [picking](/wiki/asset-class-picking) the right mix of investments that will help you reach what you want. If your goal is to save for a big purchase like a house in a few years, you might want a more conservative portfolio with lots of bonds and cash. This keeps your money safe and ready to use when you need it. But if your goal is to save for retirement that's many years away, you might choose a growth-oriented portfolio with more stocks. This can help your money grow a lot over time, even if it's riskier.
 
 It's important to think about how much risk you're okay with and how long you have to reach your goal. If you don't like taking big risks, you might want more bonds and less stocks. If you're okay with risk and have a long time before you need the money, you might want more stocks. As time goes on, you might need to change your portfolio to keep it matching your goals. For example, as you get closer to retirement, you might want to switch from a growth-oriented portfolio to a more conservative one to keep your money safe.
 
@@ -80,9 +80,9 @@ One way to use tax considerations in your portfolio is by putting different inve
 
 ## What are the latest trends in portfolio management for expert investors?
 
-One of the latest trends in portfolio management for expert investors is the use of artificial intelligence (AI) and machine learning. These technologies help investors make better decisions by looking at a lot of data really fast. They can find patterns and predict what might happen in the market. This means investors can change their portfolios quickly to take advantage of new opportunities or avoid risks. It's like having a super smart helper that can see things you might miss.
+One of the latest trends in portfolio management for expert investors is the use of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning). These technologies help investors make better decisions by looking at a lot of data really fast. They can find patterns and predict what might happen in the market. This means investors can change their portfolios quickly to take advantage of new opportunities or avoid risks. It's like having a super smart helper that can see things you might miss.
 
-Another trend is focusing on environmental, social, and governance (ESG) factors. More and more expert investors are choosing investments that are good for the planet and society. They look at how companies treat the environment, their workers, and how they're run. This isn't just about being good; it can also be good for business. Companies that do well in these areas often do better in the long run. So, investors are building portfolios that not only aim to make money but also make a positive impact on the world.
+Another trend is focusing on environmental, social, and governance ([ESG](/wiki/esg-investing)) factors. More and more expert investors are choosing investments that are good for the planet and society. They look at how companies treat the environment, their workers, and how they're run. This isn't just about being good; it can also be good for business. Companies that do well in these areas often do better in the long run. So, investors are building portfolios that not only aim to make money but also make a positive impact on the world.
 
 ## References & Further Reading
 

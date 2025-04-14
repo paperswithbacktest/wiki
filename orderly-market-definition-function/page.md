@@ -76,7 +76,7 @@ But global events can also help make markets more orderly in some ways. When cou
 
 ## What advanced strategies can market participants use to maintain market orderliness during volatile times?
 
-During volatile times, market participants can use advanced strategies like algorithmic trading to help keep the market orderly. Algorithmic trading uses computer programs to buy and sell things very quickly. These programs can look at lots of data and make trades at the best times to keep prices from jumping around too much. For example, if the market starts to get too crazy, these programs can step in and make trades to balance things out. This helps stop big price swings and keeps the market calm.
+During volatile times, market participants can use advanced strategies like [algorithmic trading](/wiki/algorithmic-trading) to help keep the market orderly. Algorithmic trading uses computer programs to buy and sell things very quickly. These programs can look at lots of data and make trades at the best times to keep prices from jumping around too much. For example, if the market starts to get too crazy, these programs can step in and make trades to balance things out. This helps stop big price swings and keeps the market calm.
 
 Another strategy is using hedging to protect against big losses. Hedging is like buying insurance for your investments. If prices start to fall a lot, hedging can help you lose less money. This can make investors feel safer and less likely to panic and sell everything. When people are less scared, they are more likely to keep trading in a calm way, which helps keep the market orderly. By using these strategies, market participants can help make sure the market stays stable even when things get tough.
 

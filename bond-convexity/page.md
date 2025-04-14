@@ -22,7 +22,7 @@ Convexity also helps investors manage risk. When interest rates drop, bonds with
 
 ## How does convexity differ from duration in bond analysis?
 
-Duration and convexity both help investors understand how bond prices change when interest rates move, but they do it in different ways. Duration is like a straight-line guess of how much a bond's price will change for a small change in interest rates. It's a simple measure that tells you the bond's sensitivity to interest rate changes. For example, if a bond has a duration of 5 years, its price might go up or down about 5% for every 1% change in interest rates.
+Duration and convexity both help investors understand how bond prices change when interest rates move, but they do it in different ways. Duration is like a straight-line guess of how much a bond's price will change for a small change in interest rates. It's a simple measure that tells you the bond's sensitivity to [interest rate](/wiki/interest-rate-trading-strategies) changes. For example, if a bond has a duration of 5 years, its price might go up or down about 5% for every 1% change in interest rates.
 
 Convexity, on the other hand, adds more detail to this picture. It shows how the bond's duration changes as interest rates move. Think of it as a curve, not a straight line. Convexity helps investors see how bond prices might change more accurately, especially when interest rates move a lot. Bonds with higher convexity will see bigger price increases when interest rates fall and smaller price drops when interest rates rise. So, while duration gives a basic idea, convexity gives a fuller, more nuanced view of how bond prices might behave.
 
@@ -52,7 +52,7 @@ On the other hand, when interest rates go up, bonds with higher convexity won't 
 
 ## How can bond convexity be used to manage interest rate risk?
 
-Bond convexity helps investors manage interest rate risk by showing how much a bond's price will change when interest rates move. If an investor thinks interest rates will go down, they can choose bonds with high convexity. These bonds will see their prices go up more than bonds with low convexity when rates fall. This means the investor can make more money because the bond's price will rise a lot. So, by picking bonds with high convexity, investors can take advantage of falling interest rates and grow their money.
+Bond convexity helps investors manage interest rate risk by showing how much a bond's price will change when interest rates move. If an investor thinks interest rates will go down, they can choose bonds with high convexity. These bonds will see their prices go up more than bonds with low convexity when rates fall. This means the investor can make more money because the bond's price will rise a lot. So, by [picking](/wiki/asset-class-picking) bonds with high convexity, investors can take advantage of falling interest rates and grow their money.
 
 On the other hand, if an investor thinks interest rates will go up, they can also use convexity to protect their money. Bonds with high convexity won't lose as much value as those with low convexity when rates rise. This means the investor's money is safer because the bond's price won't drop as much. By understanding and using convexity, investors can make smarter choices about which bonds to buy, helping them manage the risk of changing interest rates and keep their investments safe.
 

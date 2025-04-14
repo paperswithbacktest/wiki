@@ -22,9 +22,9 @@ This is important because options are often used to bet on or protect against ch
 
 ## What factors influence Vega?
 
-Vega is influenced by several factors, mainly the time until the option expires and the current level of volatility in the market. The longer the time until the option expires, the higher the Vega will be. This is because there's more time for the price of the underlying asset to move around, which means more uncertainty and a bigger impact from changes in volatility. So, options that are far from their expiration date will have a higher Vega than options that are close to expiring.
+Vega is influenced by several factors, mainly the time until the option expires and the current level of [volatility](/wiki/volatility-trading-strategies) in the market. The longer the time until the option expires, the higher the Vega will be. This is because there's more time for the price of the underlying asset to move around, which means more uncertainty and a bigger impact from changes in volatility. So, options that are far from their expiration date will have a higher Vega than options that are close to expiring.
 
-Another factor that affects Vega is the current level of volatility in the market. If the market is already very volatile, the Vega of an option will be higher because even small changes in volatility can have a big impact on the option's price. On the other hand, if the market is calm and not moving much, the Vega will be lower because changes in volatility won't affect the option's price as much. Traders need to keep an eye on these factors to understand how sensitive their options are to changes in the market's volatility.
+Another [factor](/wiki/factor-investing) that affects Vega is the current level of volatility in the market. If the market is already very volatile, the Vega of an option will be higher because even small changes in volatility can have a big impact on the option's price. On the other hand, if the market is calm and not moving much, the Vega will be lower because changes in volatility won't affect the option's price as much. Traders need to keep an eye on these factors to understand how sensitive their options are to changes in the market's volatility.
 
 ## How can Vega be used to assess the risk of an options portfolio?
 

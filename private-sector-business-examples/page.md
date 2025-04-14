@@ -34,7 +34,7 @@ Another type of business in the private sector is the service industry. This inc
 
 Small businesses in the private sector are often owned by one person or a family. They are important because they provide goods and services to the local community. For example, a local bakery might sell bread and pastries to people in the neighborhood. Another example is a family-owned restaurant where people can enjoy meals together. These small businesses help make the community a better place to live by offering things that people need every day.
 
-There are also small shops that sell different products, like a local bookstore where people can buy books and gifts. A hair salon is another type of small business where people can get their hair cut or styled. These businesses are usually run by people who live in the area, so they know what the community needs. They help create jobs and keep money in the local economy, which is good for everyone.
+There are also small shops that sell different products, like a local bookstore where people can buy [books](/wiki/algo-trading-books) and gifts. A hair salon is another type of small business where people can get their hair cut or styled. These businesses are usually run by people who live in the area, so they know what the community needs. They help create jobs and keep money in the local economy, which is good for everyone.
 
 ## What are some examples of large corporations in the private sector?
 

@@ -36,7 +36,7 @@ This number is important because it shows how many people are staying unemployed
 
 ## What data sources are used to compile continuing claims statistics?
 
-Continuing claims statistics come from the weekly reports that people who are already getting unemployment benefits have to file. These people need to show they are still out of work, so they file a continued claim every week. The U.S. Department of Labor collects these claims from all the states. They add up all the claims to get the total number of continuing claims for that week.
+Continuing claims [statistics](/wiki/bayesian-statistics) come from the weekly reports that people who are already getting unemployment benefits have to file. These people need to show they are still out of work, so they file a continued claim every week. The U.S. Department of Labor collects these claims from all the states. They add up all the claims to get the total number of continuing claims for that week.
 
 This data is important because it shows how many people are staying unemployed over time. If the number of continuing claims goes up, it means more people are having a hard time finding new jobs. If it goes down, it means people are getting back to work more quickly. Economists and policymakers use this information to understand how well the job market is doing and to make decisions about economic policies.
 
@@ -104,7 +104,7 @@ In essence, unemployment claims not only provide snapshots of current labor mark
 
 ## How can unemployment data be integrated with algorithmic trading?
 
-Integrating unemployment data, particularly continuing claims, into algorithmic trading systems offers significant opportunities for enhancing market predictions and making informed financial decisions. Traders and financial models increasingly leverage unemployment trends to anticipate shifts in market dynamics. This integration aids in refining trading strategies, offering a more comprehensive understanding of market movements.
+Integrating unemployment data, particularly continuing claims, into [algorithmic trading](/wiki/algorithmic-trading) systems offers significant opportunities for enhancing market predictions and making informed financial decisions. Traders and financial models increasingly leverage unemployment trends to anticipate shifts in market dynamics. This integration aids in refining trading strategies, offering a more comprehensive understanding of market movements.
 
 ### Utilizing Unemployment Trends
 

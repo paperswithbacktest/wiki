@@ -104,7 +104,7 @@ In conclusion, net short positions serve as a strategic tool for investors aimin
 
 ## What are the key strategies for short selling in algo trading?
 
-Momentum and trend-following strategies play a pivotal role in short selling within algorithmic trading systems. Momentum strategies capitalize on the continuation of existing market trends. In the context of short selling, these strategies identify assets exhibiting downward [momentum](/wiki/momentum). They then initiate short positions with the expectation that the asset's price will continue to decline.
+Momentum and trend-following strategies play a pivotal role in short selling within [algorithmic trading](/wiki/algorithmic-trading) systems. Momentum strategies capitalize on the continuation of existing market trends. In the context of short selling, these strategies identify assets exhibiting downward [momentum](/wiki/momentum). They then initiate short positions with the expectation that the asset's price will continue to decline.
 
 Mathematically, momentum can be measured using indicators like the Rate of Change (RoC) or the Relative Strength Index (RSI). The RSI, for example, is calculated as follows:
 
@@ -116,7 +116,7 @@ where $RS$ (Relative Strength) is the average gain of up periods during a specif
 
 Trend-following strategies, on the other hand, rely on identifying the general price movement direction of an asset over time. Algorithmic systems often use moving averages to determine trends. A common method involves shorting an asset when its short-term moving average crosses below its long-term moving average, indicating a bearish trend.
 
-Pair trading and statistical arbitrage exploit market inefficiencies. Pair trading involves identifying two correlated assets, predicting deviations, and executing long and short positions to profit from eventual reversion to the mean. For example, if two stocks historically move together but temporarily deviate, a trader could short the overperforming stock and long the underperforming one.
+Pair trading and statistical [arbitrage](/wiki/arbitrage) exploit market inefficiencies. Pair trading involves identifying two correlated assets, predicting deviations, and executing long and short positions to profit from eventual reversion to the mean. For example, if two stocks historically move together but temporarily deviate, a trader could short the overperforming stock and long the underperforming one.
 
 Statistical arbitrage extends [pair trading](/wiki/pair-trading) by increasing the basket of assets analyzed, utilizing advanced statistical models to identify pricing discrepancies. This approach leverages econometric models like cointegration tests to detect and exploit temporary dislocations between related financial instruments.
 

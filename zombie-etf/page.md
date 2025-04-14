@@ -18,7 +18,7 @@ The reasons behind an ETF becoming a zombie can vary. Sometimes, it's because th
 
 A Zombie ETF and a regular ETF are both types of investment funds that you can buy and sell on the stock market. The main difference is that a regular ETF is popular and growing, with lots of investors putting money into it. It's active and doing well, kind of like a healthy person. On the other hand, a Zombie ETF is struggling. It doesn't attract many new investors and may have low amounts of money invested in it. It's like a person who is just getting by but not really living fully.
 
-Regular ETFs usually have lower fees because they manage more money, and they often perform well because they can invest in a variety of assets. Zombie ETFs, however, might have higher fees because they need to cover their costs with less money coming in. Also, because they are not as popular, they might not be able to invest in as many different things, which can make their performance worse. So, while a regular ETF is a strong and active part of the market, a Zombie ETF is just hanging on and not doing much.
+Regular ETFs usually have lower fees because they manage more money, and they often perform well because they can invest in a variety of assets. Zombie ETFs, however, might have higher fees because they need to cover their costs with less money coming in. Also, because they are not as popular, they might not be able to invest in as many different things, which can make their performance worse. So, while a regular [ETF](/wiki/etf-trading-strategies) is a strong and active part of the market, a Zombie ETF is just hanging on and not doing much.
 
 ## What are the common characteristics of a Zombie ETF?
 
@@ -88,7 +88,7 @@ Exchange-Traded Funds (ETFs) can sometimes drift into a state referred to as "zo
 
 One primary reason ETFs become zombies is poor market timing. ETFs launched during unfavorable market conditions or economic downturns often struggle to attract initial investments. This timing mismatch can significantly impair their growth potential. For example, an ETF focused on a specific sector that undergoes a downturn shortly after the fund's inception may not gain the traction needed for sustainability.
 
-Competition from larger, more established funds also plays a pivotal role. In a market where numerous ETFs vie for investor attention, funds with similar focuses might either siphon off potential investors or render a new ETF's unique selling proposition redundant. Larger funds often benefit from economies of scale, offering lower fees and greater liquidity, making them more attractive alternatives.
+Competition from larger, more established funds also plays a pivotal role. In a market where numerous ETFs vie for investor attention, funds with similar focuses might either siphon off potential investors or render a new ETF's unique selling proposition redundant. Larger funds often benefit from economies of scale, offering lower fees and greater [liquidity](/wiki/liquidity-risk-premium), making them more attractive alternatives.
 
 Another critical [factor](/wiki/factor-investing) in the development of Zombie ETFs is their lack of differentiation. With the rapid proliferation of ETFs, products that fail to stand out with distinct investment angles or innovative strategies are at a higher risk of fading into obscurity. Investors typically seek funds that promise something novel or superior to existing options.
 

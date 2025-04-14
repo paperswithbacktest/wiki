@@ -128,7 +128,7 @@ This simple example illustrates the core function of the Fokker-Planck equation 
 
 ## How can Fokker-Planck be applied in algorithmic trading?
 
-The Fokker-Planck equation is a pivotal tool in modeling the temporal evolution of probability distributions, and it can be effectively applied to model price changes in algorithmic trading. This differential equation describes how the probability density function (PDF) of a stochastic process evolves over time. In financial markets, prices often exhibit random movements which can be quantitatively captured through stochastic processes, making the Fokker-Planck equation particularly suitable for this domain.
+The Fokker-Planck equation is a pivotal tool in modeling the temporal evolution of probability distributions, and it can be effectively applied to model price changes in [algorithmic trading](/wiki/algorithmic-trading). This differential equation describes how the probability density function (PDF) of a stochastic process evolves over time. In financial markets, prices often exhibit random movements which can be quantitatively captured through stochastic processes, making the Fokker-Planck equation particularly suitable for this domain.
 
 The equation aids in understanding market [volatility](/wiki/volatility-trading-strategies) by formally modeling how probabilities associated with price levels evolve. Given a set of initial conditions, the equation can predict the likelihood of prices moving to particular levels over time, thus offering insights into market tendencies. In essence, it helps traders anticipate the potential range of price movements and the associated probabilities, providing a clearer picture of potential market volatility.
 

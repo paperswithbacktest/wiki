@@ -76,17 +76,17 @@ These forecasts are made by looking at things like how well the UK and U.S. econ
 
 ## What advanced trading strategies can be used to capitalize on fluctuations in the GBP/USD exchange rate?
 
-One advanced trading strategy that investors can use is called "carry trade." This means borrowing money in a country with low interest rates, like the U.S., and then using that money to buy a currency from a country with higher interest rates, like the UK. If the GBP/USD exchange rate stays the same or gets better, the investor can make money from the difference in interest rates. But, this strategy can be risky because if the pound gets weaker, the investor might lose money.
+One advanced trading strategy that investors can use is called "[carry](/wiki/carry-trading) trade." This means borrowing money in a country with low interest rates, like the U.S., and then using that money to buy a currency from a country with higher interest rates, like the UK. If the GBP/USD exchange rate stays the same or gets better, the investor can make money from the difference in interest rates. But, this strategy can be risky because if the pound gets weaker, the investor might lose money.
 
 Another strategy is called "range trading." This is when investors look at the GBP/USD exchange rate over time and see that it usually stays between two numbers, like 1.20 and 1.40. They can buy pounds when the rate is low, near 1.20, and then sell them when the rate goes up to 1.40. This way, they can make money from the small ups and downs of the exchange rate. But, if the rate suddenly moves a lot outside of this range, the investor could lose money.
 
-A third strategy is "trend following." This means watching the GBP/USD exchange rate to see if it's going up or down over time. If the rate is going up, investors might keep buying pounds, hoping it will keep going up. If the rate is going down, they might keep selling pounds, hoping to buy them back later for less. This strategy can be good if the trend keeps going, but it can be bad if the trend suddenly changes direction.
+A third strategy is "[trend following](/wiki/trend-following)." This means watching the GBP/USD exchange rate to see if it's going up or down over time. If the rate is going up, investors might keep buying pounds, hoping it will keep going up. If the rate is going down, they might keep selling pounds, hoping to buy them back later for less. This strategy can be good if the trend keeps going, but it can be bad if the trend suddenly changes direction.
 
 ## What factors influence the strength of the U.S. Dollar?
 
 The U.S. dollar (USD) remains a dominant force in global foreign exchange markets, owing to several pivotal factors.
 
-The role of the USD as the world's primary reserve currency provides it with inherent strength. Central banks and financial institutions worldwide hold significant portions of their foreign exchange reserves in USD, underscoring its global trust and stability. This demand for dollars supports its value and reduces exchange rate volatility against other currencies.
+The role of the USD as the world's primary reserve currency provides it with inherent strength. Central banks and financial institutions worldwide hold significant portions of their foreign exchange reserves in USD, underscoring its global trust and stability. This demand for dollars supports its value and reduces exchange rate [volatility](/wiki/volatility-trading-strategies) against other currencies.
 
 Economic indicators such as interest rates, inflation, and macroeconomic policies play critical roles in determining the valuation of the USD. The Federal Reserve, as the central bank of the United States, influences these factors through its monetary policy decisions. An example is the setting of interest rates: when the Federal Reserve raises interest rates, the USD often appreciates because higher rates provide greater returns on investments denominated in dollars, thus attracting foreign capital.
 

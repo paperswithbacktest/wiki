@@ -24,7 +24,7 @@ Other types of options have extra features that make them more complex. For exam
 
 A plain vanilla bond is the simplest type of bond you can buy. It's like a loan you give to a company or government. When you buy a plain vanilla bond, you are lending money to the issuer, and in return, they promise to pay you back the amount you lent, called the principal, at the end of the bond's term. They also pay you interest regularly, usually every six months or once a year, until the bond matures.
 
-The interest rate on a plain vanilla bond is fixed, which means it stays the same for the whole time you own the bond. This makes it easy to know how much money you will get and when. Because plain vanilla bonds are simple and predictable, they are popular with people who want a steady income without taking too much risk.
+The [interest rate](/wiki/interest-rate-trading-strategies) on a plain vanilla bond is fixed, which means it stays the same for the whole time you own the bond. This makes it easy to know how much money you will get and when. Because plain vanilla bonds are simple and predictable, they are popular with people who want a steady income without taking too much risk.
 
 ## What are the advantages of investing in plain vanilla financial instruments?
 

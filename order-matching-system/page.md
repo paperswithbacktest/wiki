@@ -22,7 +22,7 @@ The system follows some simple rules to decide which orders get matched first. U
 
 ## What are the key components of an order matching system?
 
-The main parts of an order matching system are the order book, the matching engine, and the trade execution system. The order book keeps track of all the buy and sell orders that people put in. It shows what everyone wants to buy or sell and at what price. The matching engine is like the brain of the system. It looks at all the orders in the order book and tries to find matches where the price that someone wants to buy at is the same or better than what someone else wants to sell at.
+The main parts of an order matching system are the [order book](/wiki/order-book-trading-strategies), the matching engine, and the trade execution system. The order book keeps track of all the buy and sell orders that people put in. It shows what everyone wants to buy or sell and at what price. The matching engine is like the brain of the system. It looks at all the orders in the order book and tries to find matches where the price that someone wants to buy at is the same or better than what someone else wants to sell at.
 
 Once the matching engine finds a match, it sends the information to the trade execution system. This part of the system makes sure the trade happens correctly. It checks that everything is right, like the price and the number of shares, and then it completes the trade. All these parts work together to make sure that buying and selling happens quickly and fairly.
 
@@ -70,7 +70,7 @@ Another way order matching systems work with other systems is by sharing informa
 
 ## What are the latest advancements in order matching system technology?
 
-The latest advancements in order matching system technology focus on making trading faster and more efficient. One big change is the use of high-speed algorithms and better computer hardware. These improvements help the system process a lot of orders very quickly, which is important in busy markets where every second counts. Another advancement is the use of machine learning. This helps the system learn from past trades and make better matches in the future, making the whole process smoother and more accurate.
+The latest advancements in order matching system technology focus on making trading faster and more efficient. One big change is the use of high-speed algorithms and better computer hardware. These improvements help the system process a lot of orders very quickly, which is important in busy markets where every second counts. Another advancement is the use of [machine learning](/wiki/machine-learning). This helps the system learn from past trades and make better matches in the future, making the whole process smoother and more accurate.
 
 Another important development is the integration of blockchain technology. Blockchain can make trading more secure and transparent by keeping a clear record of all trades that everyone can see. This helps build trust in the system. Also, cloud computing is becoming more common in order matching systems. It allows the system to handle more orders and grow easily as more people start trading. These new technologies are making order matching systems better at handling the fast and complex world of trading.
 

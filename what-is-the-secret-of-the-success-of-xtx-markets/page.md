@@ -22,9 +22,9 @@ Since it began, XTX Markets has grown a lot. They now work with many big banks a
 
 ## What are the main products and services offered by XTX Markets?
 
-XTX Markets mainly helps people buy and sell things like stocks, currencies, and other financial products. They do this using computers and special math formulas to make trades happen fast and smoothly. This is called algorithmic trading, and it helps their customers make good decisions quickly.
+XTX Markets mainly helps people buy and sell things like stocks, currencies, and other financial products. They do this using computers and special math formulas to make trades happen fast and smoothly. This is called [algorithmic trading](/wiki/algorithmic-trading), and it helps their customers make good decisions quickly.
 
-They also offer something called liquidity provision. This means they help make sure there are always people ready to buy or sell, which makes trading easier for everyone. XTX Markets works with big banks and other financial companies around the world to provide these services.
+They also offer something called [liquidity](/wiki/liquidity-risk-premium) provision. This means they help make sure there are always people ready to buy or sell, which makes trading easier for everyone. XTX Markets works with big banks and other financial companies around the world to provide these services.
 
 Their goal is to use technology to make trading simple and efficient. By using smart systems, they can look at a lot of information very quickly and decide the best time to buy or sell. This helps their customers save time and make more money.
 
@@ -86,7 +86,7 @@ Another important part of their plan is to keep opening offices in different cou
 
 XTX Markets places a significant emphasis on research and development (R&D), viewing it as integral to its core mission and competitive strength. This commitment is evident in the substantial investment the company makes in cutting-edge research projects and innovative technological advancements. By prioritizing R&D, XTX Markets not only fosters a culture of continuous innovation but also ensures its capacity to adapt swiftly to the ever-evolving landscape of global financial markets.
 
-One of the illustrative examples of XTX Markets' R&D prowess is the development of proprietary algorithms that power its electronic trading systems. These algorithms leverage the latest advancements in [machine learning](/wiki/machine-learning) and artificial intelligence, allowing the firm to process and analyze vast amounts of market data in real-time. This capability not only enhances trading execution but also improves risk management strategies, ensuring robust performance across varying market conditions.
+One of the illustrative examples of XTX Markets' R&D prowess is the development of proprietary algorithms that power its electronic trading systems. These algorithms leverage the latest advancements in [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence), allowing the firm to process and analyze vast amounts of market data in real-time. This capability not only enhances trading execution but also improves risk management strategies, ensuring robust performance across varying market conditions.
 
 XTX Markets also explores projects that push the boundaries of traditional trading paradigms. For example, its R&D efforts focus on integrating novel data sources into trading models. By utilizing unconventional data inputs, the firm can gain unique insights and enhance predictive accuracy, lending XTX Markets a distinctive edge over competitors reliant on conventional datasets.
 

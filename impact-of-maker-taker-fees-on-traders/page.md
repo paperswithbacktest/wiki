@@ -18,7 +18,7 @@ On the other hand, if you take an order that's already on the market, you're cal
 
 Maker-taker fees can make trading more expensive for beginners, especially if they don't understand how these fees work. When beginners trade, they often act as takers because they want to buy or sell right away. This means they have to pay higher fees. If a beginner doesn't know about these fees, they might be surprised by how much they end up paying for each trade.
 
-However, if beginners learn to place orders that add to the market's liquidity, they can become makers and pay lower fees or even get small rebates. This can save them money over time. But it requires patience because they have to wait for their orders to be filled. Understanding maker-taker fees can help beginners make smarter trading choices and manage their costs better.
+However, if beginners learn to place orders that add to the market's [liquidity](/wiki/liquidity-risk-premium), they can become makers and pay lower fees or even get small rebates. This can save them money over time. But it requires patience because they have to wait for their orders to be filled. Understanding maker-taker fees can help beginners make smarter trading choices and manage their costs better.
 
 ## What is the difference between a maker and a taker in trading?
 

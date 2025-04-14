@@ -30,7 +30,7 @@ Once you've given them all the details, the broker will look up the current mark
 
 A buy quote usually has the price you need to pay for something. This price is called the "ask price." It's how much the seller wants for the stock, currency, or whatever you want to buy. The buy quote also might include other costs like fees or taxes. These extra costs can make the total price higher than just the ask price.
 
-Sometimes, the buy quote also tells you how many shares or how much of the thing you can buy at that price. This is called the "volume" or "quantity." Knowing this helps you plan if you want to buy a lot or a little. Overall, a buy quote gives you all the info you need to decide if you want to buy something right away or wait for a better price.
+Sometimes, the buy quote also tells you how many shares or how much of the thing you can buy at that price. This is called the "[volume](/wiki/volume-trading-strategy)" or "quantity." Knowing this helps you plan if you want to buy a lot or a little. Overall, a buy quote gives you all the info you need to decide if you want to buy something right away or wait for a better price.
 
 ## How does a buy quote differ from a sell quote?
 

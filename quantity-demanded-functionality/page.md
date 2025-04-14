@@ -22,7 +22,7 @@ Demand, on the other hand, is the whole relationship between the price of a prod
 
 ## What factors influence quantity demanded?
 
-The main thing that changes how much people want to buy of something is the price. When the price goes down, more people usually want to buy it, so the quantity demanded goes up. If the price goes up, fewer people want to buy it, so the quantity demanded goes down. This is the most important factor because it directly affects how much people are willing to spend on the product.
+The main thing that changes how much people want to buy of something is the price. When the price goes down, more people usually want to buy it, so the quantity demanded goes up. If the price goes up, fewer people want to buy it, so the quantity demanded goes down. This is the most important [factor](/wiki/factor-investing) because it directly affects how much people are willing to spend on the product.
 
 Other things can also change how much people want to buy. For example, if people's income goes up, they might buy more of a product, especially if it's something they see as a luxury. Changes in tastes and preferences can also make a big difference. If a new study says that eating apples is really good for you, more people might want to buy apples, so the quantity demanded for apples would go up. Also, if there are other similar products out there, and one of them becomes cheaper or better, it might make people want to buy less of the original product.
 
@@ -82,7 +82,7 @@ Another model that economists use is the time series analysis. This model looks 
 
 ## How can demand curve insights be integrated into algorithmic trading?
 
-Integrating demand curve insights into algorithmic trading involves leveraging economic models to interpret market demand patterns, which subsequently inform trading strategies. By analyzing these patterns, algorithmic traders can forecast market trends and identify optimal entry and [exit](/wiki/exit-strategy) points, enhancing trading efficiency and profitability.
+Integrating demand curve insights into [algorithmic trading](/wiki/algorithmic-trading) involves leveraging economic models to interpret market demand patterns, which subsequently inform trading strategies. By analyzing these patterns, algorithmic traders can forecast market trends and identify optimal entry and [exit](/wiki/exit-strategy) points, enhancing trading efficiency and profitability.
 
 One critical aspect of this integration is the understanding of demand elasticity, which measures how sensitive the quantity demanded is to changes in price. Elasticity can be expressed mathematically as:
 
@@ -112,7 +112,7 @@ elasticity = demand_elasticity_change(original_quantity, new_quantity, original_
 print("Demand Elasticity:", elasticity)
 ```
 
-This [course](/wiki/best-algorithmic-trading-courses) of action not only allows for better anticipation of market shifts but also enhances the adaptability of trading strategies, ensuring they remain responsive to current economic developments. Furthermore, as machine learning and data analysis technologies advance, these integrations are expected to become more sophisticated, providing traders with increasingly accurate and actionable insights.
+This [course](/wiki/best-algorithmic-trading-courses) of action not only allows for better anticipation of market shifts but also enhances the adaptability of trading strategies, ensuring they remain responsive to current economic developments. Furthermore, as [machine learning](/wiki/machine-learning) and data analysis technologies advance, these integrations are expected to become more sophisticated, providing traders with increasingly accurate and actionable insights.
 
 By incorporating demand curve insights into trading algorithms, traders can achieve a more nuanced understanding of market dynamics, leading to improved strategy execution and better risk management. This alignment of economic theory with cutting-edge technology is essential for maintaining a competitive advantage in the modern financial markets.
 

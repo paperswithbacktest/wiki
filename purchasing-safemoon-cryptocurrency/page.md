@@ -22,7 +22,7 @@ Another way SafeMoon is different is that it has a "burn" system. This means tha
 
 ## What are the basic steps to purchase SafeMoon?
 
-To buy SafeMoon, you first need to get some other cryptocurrency that you can trade for SafeMoon. The most common one to use is Binance Coin (BNB). You can buy BNB on many different cryptocurrency exchanges, like Binance or Coinbase. Once you have BNB, you need to send it to a wallet that works with SafeMoon, like Trust Wallet or MetaMask.
+To buy SafeMoon, you first need to get some other [cryptocurrency](/wiki/cryptocurrency) that you can trade for SafeMoon. The most common one to use is Binance Coin (BNB). You can buy BNB on many different cryptocurrency exchanges, like Binance or Coinbase. Once you have BNB, you need to send it to a wallet that works with SafeMoon, like Trust Wallet or MetaMask.
 
 After you have BNB in your wallet, you can go to the SafeMoon website or use the SafeMoon app. There, you can connect your wallet and trade your BNB for SafeMoon. Just follow the instructions on the website or app to finish the trade. Remember, the price of SafeMoon can change a lot, so it's good to check the price before you buy.
 
@@ -48,7 +48,7 @@ It's also important to be careful about security. Always use strong passwords fo
 
 When you buy or trade SafeMoon, there are some fees you need to know about. Every time you buy SafeMoon, a small part of your transaction, about 10%, is taken as a fee. This fee is split into three parts: 5% goes to the people who are holding SafeMoon as a reward, another 5% is used to add more SafeMoon to a special pool that helps keep the price stable, and a very small part is taken out of circulation forever, which is called "burning."
 
-When you want to sell SafeMoon, the same kind of fee applies. Again, 10% of your transaction is taken, and it's split the same way: 5% goes to holders, 5% goes to the liquidity pool, and a tiny bit is burned. These fees can add up, so it's important to think about them when you're deciding to buy or sell SafeMoon. They are part of what makes SafeMoon different from other cryptocurrencies, but they also mean you need to be careful and plan your trades well.
+When you want to sell SafeMoon, the same kind of fee applies. Again, 10% of your transaction is taken, and it's split the same way: 5% goes to holders, 5% goes to the [liquidity](/wiki/liquidity-risk-premium) pool, and a tiny bit is burned. These fees can add up, so it's important to think about them when you're deciding to buy or sell SafeMoon. They are part of what makes SafeMoon different from other cryptocurrencies, but they also mean you need to be careful and plan your trades well.
 
 ## How does the SafeMoon tokenomics model work?
 
@@ -76,7 +76,7 @@ Another strategy is to use stop-loss orders. A stop-loss order is like a safety 
 
 ## How does SafeMoon's reflection protocol affect long-term holding?
 
-SafeMoon's reflection protocol is a system that gives you more SafeMoon just for holding onto what you already have. Every time someone buys or sells SafeMoon, a small part of that transaction, about 5%, is shared with everyone who is holding SafeMoon. This means the longer you keep your SafeMoon, the more extra SafeMoon you can get. It's like getting a little bonus just for not selling your coins. This can make it more attractive to hold SafeMoon for a long time because you're earning more without doing anything.
+SafeMoon's reflection protocol is a system that gives you more SafeMoon just for holding onto what you already have. Every time someone buys or sells SafeMoon, a small part of that transaction, about 5%, is shared with everyone who is holding SafeMoon. This means the longer you keep your SafeMoon, the more extra SafeMoon you can get. It's like getting a little bonus just for not selling your coins. This can make it more attractive to hold SafeMoon for a long time because you're [earning](/wiki/earning-announcement) more without doing anything.
 
 Because of the reflection protocol, people who hold SafeMoon for a long time might see their total amount of SafeMoon grow over time. This can be good for long-term investors because it means their investment could become worth more without them having to buy more SafeMoon. However, the value of SafeMoon can still go up and down a lot, so it's important to remember that even with the reflection protocol, there are no guarantees. But for those who believe in SafeMoon's future, the reflection system can be a nice extra reward for staying patient and holding onto their coins.
 

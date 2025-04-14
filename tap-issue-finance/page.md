@@ -58,7 +58,7 @@ Another thing to consider is how the tap issue might affect the information they
 
 ## How do tap issues impact the yield and pricing of the bonds?
 
-When a company does a tap issue, it can change the yield and pricing of the bonds. If the company sells more bonds at a lower price than before, the yield on the new bonds might go up. This is because the yield is like the interest rate you get on the bond, and if you pay less for the bond, the interest rate seems higher. But this can make the older bonds less valuable because new buyers are getting the same bonds for less money. So, the price of the existing bonds might go down to match the new, lower price.
+When a company does a tap issue, it can change the yield and pricing of the bonds. If the company sells more bonds at a lower price than before, the yield on the new bonds might go up. This is because the yield is like the [interest rate](/wiki/interest-rate-trading-strategies) you get on the bond, and if you pay less for the bond, the interest rate seems higher. But this can make the older bonds less valuable because new buyers are getting the same bonds for less money. So, the price of the existing bonds might go down to match the new, lower price.
 
 On the other hand, if the market is doing well and people still want to buy the bonds, the company might sell the new bonds at a similar price to before. In this case, the yield on the new bonds would stay about the same, and the price of the existing bonds might not change much. But if the company keeps selling more bonds, there might be more bonds out there than people want to buy. This can make the price of all the bonds go down a little because there are more of them to go around.
 

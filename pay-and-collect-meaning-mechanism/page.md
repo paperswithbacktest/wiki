@@ -36,7 +36,7 @@ Another advantage for businesses is that Pay and Collect can bring more people i
 
 ## Can you explain the different models of 'Pay and Collect' services?
 
-There are different models of Pay and Collect services that businesses use. One common model is called "In-Store Pickup." With this model, you buy things online and then go to a store to pick them up. The store might have a special area just for picking up online orders. This model is good because it can save the business money on shipping and bring more people into the store.
+There are different models of Pay and Collect services that businesses use. One common model is called "In-Store Pickup." With this model, you buy things online and then go to a store to pick them up. The store might have a special area just for [picking](/wiki/asset-class-picking) up online orders. This model is good because it can save the business money on shipping and bring more people into the store.
 
 Another model is called "Click and Collect." This is similar to In-Store Pickup, but it can also include picking up items from special lockers or pickup points that are not inside the store. For example, you might pick up your items from a locker at a train station or a special pickup point in a shopping center. This model can be more convenient for customers who don't live near a store.
 

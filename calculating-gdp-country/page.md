@@ -24,7 +24,7 @@ When we add up all these parts, we get the total GDP. For example, if people spe
 
 The income approach to calculating GDP adds up all the income earned in the economy. This includes wages that people earn from their jobs, like salaries for teachers and factory workers. It also includes profits that businesses make, like the money a store owner keeps after paying for all the costs. Another part is rent, which is what people pay to live in houses or use land. There's also interest, which is what banks earn from loans. All these types of income together show how much money is being made in the economy.
 
-When we add up all these different kinds of income, we get the total GDP using the income approach. This way of calculating GDP helps us see how money is being shared among people and businesses. It's like looking at the economy from the side of earning money instead of spending it. Both the expenditure and income approaches should give the same total GDP, showing that what is spent in the economy is equal to what is earned.
+When we add up all these different kinds of income, we get the total GDP using the income approach. This way of calculating GDP helps us see how money is being shared among people and businesses. It's like looking at the economy from the side of [earning](/wiki/earning-announcement) money instead of spending it. Both the expenditure and income approaches should give the same total GDP, showing that what is spent in the economy is equal to what is earned.
 
 ## Can you explain the difference between nominal GDP and real GDP?
 
@@ -52,7 +52,7 @@ This is important because if we just looked at nominal GDP, which uses current y
 
 ## What role do government statistics agencies play in calculating GDP?
 
-Government statistics agencies are really important for calculating GDP. They collect all sorts of information about what people buy, what businesses make, and what the government spends. They use this information to add up all the spending or all the income in the country, which gives us the GDP. These agencies make sure the numbers are right by checking and double-checking their work, so we can trust the GDP numbers.
+Government [statistics](/wiki/bayesian-statistics) agencies are really important for calculating GDP. They collect all sorts of information about what people buy, what businesses make, and what the government spends. They use this information to add up all the spending or all the income in the country, which gives us the GDP. These agencies make sure the numbers are right by checking and double-checking their work, so we can trust the GDP numbers.
 
 These agencies also help adjust GDP for things like inflation. They keep track of how prices change over time and use that information to calculate real GDP. This helps us see how the economy is really doing, without being fooled by higher prices. By doing all this work, government statistics agencies give us a clear picture of the economy, which helps everyone from the government to businesses and regular people make better decisions.
 

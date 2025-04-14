@@ -22,7 +22,7 @@ Also, a good transaction flow can help businesses save money. When things run sm
 
 ## What are the basic components of a transaction flow?
 
-The basic components of a transaction flow start with the customer choosing what they want to buy. This could be picking a product from a website or a store. After choosing, the customer needs to enter their payment details, like using a credit card or a digital wallet. This step is important because it's how the business gets paid for the product.
+The basic components of a transaction flow start with the customer choosing what they want to buy. This could be [picking](/wiki/asset-class-picking) a product from a website or a store. After choosing, the customer needs to enter their payment details, like using a credit card or a digital wallet. This step is important because it's how the business gets paid for the product.
 
 Once the payment is made, the next part of the transaction flow is processing the payment. This means the business checks if the payment is okay and then tells the customer that the order is confirmed. After that, the product needs to be sent to the customer. This could mean shipping it from a warehouse or handing it to the customer in a store. The last part is the customer getting the product and being happy with it. If everything goes well, the customer might come back to buy more things in the future.
 
@@ -60,7 +60,7 @@ Using real-time monitoring also helps businesses make the buying process better 
 
 ## What are the advanced technologies used in transaction flow optimization?
 
-Advanced technologies like artificial intelligence (AI) and machine learning help make the buying process better. AI can look at a lot of data quickly and find out where things might be going wrong. For example, it can see if a lot of people are leaving the website at the payment step and suggest ways to make that part easier. Machine learning can also learn from what customers do and make the buying process smoother over time. If it sees that people like using a certain payment method, it can make that option easier to find.
+Advanced technologies like [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning) help make the buying process better. AI can look at a lot of data quickly and find out where things might be going wrong. For example, it can see if a lot of people are leaving the website at the payment step and suggest ways to make that part easier. Machine learning can also learn from what customers do and make the buying process smoother over time. If it sees that people like using a certain payment method, it can make that option easier to find.
 
 Another technology that helps is blockchain. Blockchain makes transactions safer and faster because it keeps a record of everything that happens. This means businesses can see exactly where a payment is and make sure it gets to the right place quickly. Also, using the Internet of Things (IoT) can help with the buying process. IoT devices, like smart sensors in a warehouse, can track where products are and make sure they get sent out fast. All these technologies work together to make the buying process easier and faster for customers.
 

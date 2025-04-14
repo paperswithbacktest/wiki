@@ -26,7 +26,7 @@ Gear systems come in different types, each with its own use. Spur gears are the 
 
 Another type is worm gears, which have a screw-like shape and are used to get a lot of force with a small turn. They are used in things like conveyor systems and lifts. Rack and pinion gears turn a spinning motion into a straight-line motion. They are used in steering systems of cars and in some types of machinery. Planetary gears, also called epicyclic gears, have a central gear called the sun gear, surrounded by planet gears, and an outer ring gear. They are used in automatic transmissions in cars and in some types of power tools because they can give a lot of different gear ratios in a small space.
 
-Each type of gear system has its own special job. By choosing the right type of gear, engineers can make machines work better, be quieter, or use less space. Understanding the different types of gears helps in picking the best one for a specific job.
+Each type of gear system has its own special job. By choosing the right type of gear, engineers can make machines work better, be quieter, or use less space. Understanding the different types of gears helps in [picking](/wiki/asset-class-picking) the best one for a specific job.
 
 ## How does changing the gear ratio affect the performance of a vehicle?
 

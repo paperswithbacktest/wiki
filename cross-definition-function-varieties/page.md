@@ -130,7 +130,7 @@ Where:
 
 Furthermore, quantitative research and financial engineering are pivotal in the construction and testing of trading algorithms through [backtesting](/wiki/backtesting). This process involves applying historical market data to a trading strategy to evaluate its performance over time. By ensuring that the strategy works well in different market conditions, analysts can refine their models to better anticipate future market behavior.
 
-In summary, quantitative research and financial engineering serve as integral components in shaping sophisticated algorithmic trading strategies. They enable traders to employ rigorous mathematical analyses to inform strategic decisions, manage risks, and potentially achieve desirable financial outcomes in competitive markets.
+In summary, quantitative research and financial engineering serve as integral components in shaping sophisticated [algorithmic trading](/wiki/algorithmic-trading) strategies. They enable traders to employ rigorous mathematical analyses to inform strategic decisions, manage risks, and potentially achieve desirable financial outcomes in competitive markets.
 
 ## How can risk management be integrated into trading algorithms?
 

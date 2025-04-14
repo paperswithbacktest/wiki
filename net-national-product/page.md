@@ -40,7 +40,7 @@ This subtraction is crucial because it shows how much of the country's wealth is
 
 ## Can you explain the concept of Net National Product at market prices versus at factor cost?
 
-Net National Product (NNP) at market prices and NNP at factor cost are two ways to measure how much a country's wealth has grown, but they do it a bit differently. NNP at market prices is the total value of everything made by a country's people, minus the wear and tear on their tools and buildings. This total includes all the taxes that businesses pay when they sell their goods and services, but it doesn't take away the money they get back, like subsidies from the government.
+Net National Product (NNP) at market prices and NNP at [factor](/wiki/factor-investing) cost are two ways to measure how much a country's wealth has grown, but they do it a bit differently. NNP at market prices is the total value of everything made by a country's people, minus the wear and tear on their tools and buildings. This total includes all the taxes that businesses pay when they sell their goods and services, but it doesn't take away the money they get back, like subsidies from the government.
 
 On the other hand, NNP at factor cost looks at the same thing, but it takes away those taxes and adds back the subsidies. This gives a clearer picture of what the people who actually made the goods and services earned. So, NNP at factor cost is more about the income that goes to workers, owners, and others directly involved in production, without the extra costs or benefits from taxes and subsidies. Both measures are useful, but they show slightly different sides of the country's economic health.
 

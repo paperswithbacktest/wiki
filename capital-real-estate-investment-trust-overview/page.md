@@ -141,5 +141,5 @@ Both approaches complement each other, offering a holistic view of the REIT's pe
    - **Coursera and Udemy**: Offer courses on both real estate investments and algorithmic trading, combining theoretical and practical knowledge suitable for both novice and advanced investors.
    - "Real Estate Financial Modeling & Valuation" on platforms like *edX* provides key insights into financial metrics and modeling techniques for valuing REITs.
 
-These resources offer a breadth of knowledge for those interested in expanding their understanding of REIT investing and algorithmic trading, catering to a range of expertise levels from beginner to advanced.
+These resources offer a breadth of knowledge for those interested in expanding their understanding of REIT investing and [algorithmic trading](/wiki/algorithmic-trading), catering to a range of expertise levels from beginner to advanced.
 

@@ -42,7 +42,7 @@ Another risk is that futures are agreements to buy or sell at a future date. If 
 
 ## How can beginners start trading soft commodity futures?
 
-To start trading soft commodity futures, beginners should first learn about the basics of futures trading. They can find a lot of information online or in books about how futures work, what affects the prices of soft commodities, and how to read market data. It's important to understand the risks and have a plan for managing them. Beginners might want to start by opening a demo account with a futures broker. This lets them practice trading without using real money, which can help them learn without risking any losses.
+To start trading soft commodity futures, beginners should first learn about the basics of futures trading. They can find a lot of information online or in [books](/wiki/algo-trading-books) about how futures work, what affects the prices of soft commodities, and how to read market data. It's important to understand the risks and have a plan for managing them. Beginners might want to start by opening a demo account with a futures broker. This lets them practice trading without using real money, which can help them learn without risking any losses.
 
 Once they feel ready, beginners can choose a reputable futures broker and open a real trading account. They'll need to deposit money into the account to start trading. It's a good idea to start small and only trade with money they can afford to lose. Beginners should also keep learning and stay updated on market news and trends. Trading soft commodity futures can be complicated, but with time and practice, beginners can get better at it and maybe even make some money.
 

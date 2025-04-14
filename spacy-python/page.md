@@ -96,7 +96,7 @@ $$
 
 This basic scoring framework can be further adjusted to [factor](/wiki/factor-investing) in the relevance and authority of the source, offering a weighted sentiment score that potentially provides a more accurate predictor.
 
-Furthermore, integrating sentiment analysis with machine learning models enhances the predictive power of trading strategies. Machine learning models, such as decision trees or neural networks, can be trained to recognize patterns between sentiment scores and market behavior. These models refine and optimize sentiment-driven strategies by learning from historical data, thus increasing the accuracy of predictions. An example of integrating spaCy with machine learning in Python can be outlined with the following pseudocode:
+Furthermore, integrating sentiment analysis with [machine learning](/wiki/machine-learning) models enhances the predictive power of trading strategies. Machine learning models, such as decision trees or neural networks, can be trained to recognize patterns between sentiment scores and market behavior. These models refine and optimize sentiment-driven strategies by learning from historical data, thus increasing the accuracy of predictions. An example of integrating spaCy with machine learning in Python can be outlined with the following pseudocode:
 
 ```python
 import spacy
@@ -129,7 +129,7 @@ model.fit(X_train, y_train)
 predictions = model.predict(X_test)
 ```
 
-Combining spaCy's preprocessing capabilities with machine learning techniques provides an advanced framework for traders aiming to leverage sentiment analysis. This approach capitalizes on the vast available information, converting it into precise signals that inform trading decisions. As NLP technologies and financial modeling continue to evolve, their synergy will play an increasingly pivotal role in enhancing algorithmic trading strategies.
+Combining spaCy's preprocessing capabilities with machine learning techniques provides an advanced framework for traders aiming to leverage sentiment analysis. This approach capitalizes on the vast available information, converting it into precise signals that inform trading decisions. As NLP technologies and financial modeling continue to evolve, their synergy will play an increasingly pivotal role in enhancing [algorithmic trading](/wiki/algorithmic-trading) strategies.
 
 ## References & Further Reading
 

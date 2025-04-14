@@ -60,7 +60,7 @@ But, time decay can also be a bit tricky. If the stock price is close to the pri
 
 ## What is the impact of implied volatility on short put options?
 
-Implied volatility is like a guess about how much a stock's price might move up or down in the future. When you sell a put option, high implied volatility means the option is worth more because people think the stock price could change a lot. This is good for you because you get more money, called the premium, right away. But it's also riskier because if the stock price drops a lot, you might have to buy it at a higher price than it's worth, and the bigger premium won't be enough to cover your loss.
+Implied [volatility](/wiki/volatility-trading-strategies) is like a guess about how much a stock's price might move up or down in the future. When you sell a put option, high implied volatility means the option is worth more because people think the stock price could change a lot. This is good for you because you get more money, called the premium, right away. But it's also riskier because if the stock price drops a lot, you might have to buy it at a higher price than it's worth, and the bigger premium won't be enough to cover your loss.
 
 On the other hand, if implied volatility is low, the option is worth less because people think the stock price won't change much. This means you get less money for selling the put option, but it's also less risky. If the stock price stays above the price you set, you keep the smaller premium and don't have to buy the stock. So, implied volatility can affect both how much money you get and how much risk you take when you sell a put option.
 
@@ -122,7 +122,7 @@ Another case study illustrates the use of machine learning algorithms, such as d
 
 Best practices derived from these implementations include the importance of continuously retraining models with new data to ensure their accuracy and relevance in predicting market behaviors. Successful strategies also emphasize the integration of multiple data sources, including market sentiment analysis from news and social media, to enhance prediction accuracy.
 
-However, a key pitfall in employing algorithmic strategies lies in the overfitting of models to historical data, which can lead to poor performance in live trading conditions. To counter this, practitioners often implement cross-validation techniques and backtesting on out-of-sample data to evaluate the robustness of their models before executing trades.
+However, a key pitfall in employing algorithmic strategies lies in the overfitting of models to historical data, which can lead to poor performance in live trading conditions. To counter this, practitioners often implement cross-validation techniques and [backtesting](/wiki/backtesting) on out-of-sample data to evaluate the robustness of their models before executing trades.
 
 In summary, algorithmic strategies in short put trading exploit statistical and machine learning models to anticipate market trajectories and make data-driven trading decisions. By examining the successes and limitations of these strategies, traders can better adapt their approaches to harness the computational power of algorithms while managing the inherent risks of short put options.
 
@@ -132,10 +132,10 @@ In summary, algorithmic strategies in short put trading exploit statistical and 
    This comprehensive textbook is a staple for those looking to understand the fundamentals and complexities of derivatives, including options. It covers various strategies and detailed explanations on pricing, risk management, and implementation.  
 
 2. **Algorithmic and High-Frequency Trading** by Álvaro Cartea, Sebastian Jaimungal, and José Penalva  
-   This book provides an in-depth analysis of algorithmic trading, specifically high-frequency trading. It explores mathematical models, statistical tools, and practical insights necessary for implementing algorithmic strategies, including those pertinent to options trading.  
+   This book provides an in-depth analysis of [algorithmic trading](/wiki/algorithmic-trading), specifically high-frequency trading. It explores mathematical models, statistical tools, and practical insights necessary for implementing algorithmic strategies, including those pertinent to options trading.  
 
 3. **Option Volatility and Pricing** by Sheldon Natenberg  
-   Focusing on the pricing and volatility aspects of options, this book is essential for understanding theoretical concepts and practical trading strategies, including the use of options Greeks and volatility arbitrage.  
+   Focusing on the pricing and volatility aspects of options, this book is essential for understanding theoretical concepts and practical trading strategies, including the use of options Greeks and volatility [arbitrage](/wiki/arbitrage).  
 
 4. **Advances in Financial Machine Learning** by Marcos López de Prado  
    This book introduces machine learning tools and techniques that are changing the landscape of trading. It emphasizes the use of algorithms to enhance trading strategies, risk management, and overall financial decision-making processes.  

@@ -72,7 +72,7 @@ Changes in interest rates also affect the Z-spread. If interest rates go up, the
 
 To make Z-spread calculations more accurate, you can use something called the option-adjusted spread (OAS). This is helpful for bonds that have options, like the ability to be paid back early. The OAS takes into account how these options might affect the bond's value, which the Z-spread doesn't do. By using OAS, you get a better idea of the bond's risk and return, especially if there's a chance the bond could be called back before it matures.
 
-Another way to refine Z-spread calculations is by using a more detailed model of the yield curve, like the arbitrage-free Nelson-Siegel model. This model gives a better picture of how interest rates might change in the future, which can make your Z-spread calculations more accurate. By using a more advanced model, you can see how changes in the market might affect the bond's value and adjust your Z-spread accordingly.
+Another way to refine Z-spread calculations is by using a more detailed model of the yield curve, like the [arbitrage](/wiki/arbitrage)-free Nelson-Siegel model. This model gives a better picture of how interest rates might change in the future, which can make your Z-spread calculations more accurate. By using a more advanced model, you can see how changes in the market might affect the bond's value and adjust your Z-spread accordingly.
 
 ## How can the Z-spread be integrated into a broader investment strategy?
 

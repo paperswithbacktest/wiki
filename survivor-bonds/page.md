@@ -52,7 +52,7 @@ The performance of Survivor Bonds can be different for each person. If the perso
 
 ## How are the returns on Survivor Bonds calculated?
 
-The returns on Survivor Bonds are calculated based on the amount of money you put into the bond and the interest rate that the bond offers. When you buy a Survivor Bond, you choose how much money to invest. The company selling the bond will tell you the interest rate, which is like a reward for lending them your money. If the person you chose for the bond passes away, you get your original investment back, plus the interest that has built up over time.
+The returns on Survivor Bonds are calculated based on the amount of money you put into the bond and the [interest rate](/wiki/interest-rate-trading-strategies) that the bond offers. When you buy a Survivor Bond, you choose how much money to invest. The company selling the bond will tell you the interest rate, which is like a reward for lending them your money. If the person you chose for the bond passes away, you get your original investment back, plus the interest that has built up over time.
 
 For example, if you invest $10,000 in a Survivor Bond with an interest rate of 3% per year, and the person you chose dies after 5 years, you would get your $10,000 back plus $1,500 in interest. That's because 3% of $10,000 is $300, and over 5 years, that adds up to $1,500. The exact amount of interest you earn depends on how long it takes for the person to pass away and the interest rate of the bond.
 

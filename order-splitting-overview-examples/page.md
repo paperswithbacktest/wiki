@@ -78,7 +78,7 @@ However, order splitting also brought some challenges. At first, Fashion Forward
 
 ## What future trends might influence the practice of order splitting?
 
-In the future, more businesses might use smart technology to make order splitting easier and faster. They could use artificial intelligence to predict what items will be in stock and when. This would help them decide which parts of an order to send first and how to send them in the best way. Also, as more people shop online, businesses will need to find ways to make sure customers get their orders quickly and correctly. Order splitting could become more common as a way to keep customers happy by sending out items as soon as they are ready.
+In the future, more businesses might use smart technology to make order splitting easier and faster. They could use [artificial intelligence](/wiki/ai-artificial-intelligence) to predict what items will be in stock and when. This would help them decide which parts of an order to send first and how to send them in the best way. Also, as more people shop online, businesses will need to find ways to make sure customers get their orders quickly and correctly. Order splitting could become more common as a way to keep customers happy by sending out items as soon as they are ready.
 
 Another trend that might affect order splitting is the focus on being green and saving the environment. Businesses might try to combine shipments to reduce the number of deliveries, which can help lower their carbon footprint. But they still want to send out orders quickly. So, they might use technology to find the best balance between speed and being eco-friendly. As these trends grow, businesses will need to keep finding new ways to manage their inventory and communicate with customers to make order splitting work well.
 
@@ -116,7 +116,7 @@ $$
 
 This metric considers both price movements and opportunity costs and is vital in evaluating execution quality.
 
-In summary, choosing the appropriate order-splitting algorithm requires evaluating market conditions, trading objectives, and liquidity. Each algorithm offers unique benefits, from modest market presence to optimal execution cost management, contributing to efficient trading strategies.
+In summary, choosing the appropriate order-splitting algorithm requires evaluating market conditions, trading objectives, and [liquidity](/wiki/liquidity-risk-premium). Each algorithm offers unique benefits, from modest market presence to optimal execution cost management, contributing to efficient trading strategies.
 
 ## References & Further Reading
 

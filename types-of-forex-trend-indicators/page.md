@@ -125,7 +125,7 @@ In summary, these trend indicators provide traders with crucial insights into ma
 
 ## What are the Key Trend Indicators for Algorithmic Trading?
 
-Moving Averages, Moving Average Convergence Divergence (MACD), and Bollinger Bands are widely recognized trend indicators, integral to algorithmic trading in Forex markets. These technical tools provide clarity on market directions, facilitating informed trading decisions.
+Moving Averages, Moving Average Convergence Divergence (MACD), and Bollinger Bands are widely recognized trend indicators, integral to [algorithmic trading](/wiki/algorithmic-trading) in Forex markets. These technical tools provide clarity on market directions, facilitating informed trading decisions.
 
 **Moving Averages** are statistical measures used to identify the direction of a trend. They help smooth out price data by creating a constantly updated average price. Different types of moving averages, such as the Simple Moving Average (SMA) and the Exponential Moving Average (EMA), are commonly used. The SMA is calculated as the arithmetic mean of a given set of prices over a specific number of periods. The EMA gives more weight to recent prices, allowing it to respond more quickly to price changes.
 

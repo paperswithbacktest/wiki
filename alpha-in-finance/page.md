@@ -42,7 +42,7 @@ But alpha is just one part of the story. It doesn't tell you everything about ho
 
 ## What are common strategies to achieve alpha?
 
-One common way to achieve alpha is by picking stocks that are likely to do better than the market. This means looking for companies that are growing fast, have good management, or are undervalued by other investors. For example, if you think a tech company is going to grow a lot in the next few years, you might buy its stock. If you're right and the company does well, your portfolio could have a positive alpha because it's beating the market.
+One common way to achieve alpha is by [picking](/wiki/asset-class-picking) stocks that are likely to do better than the market. This means looking for companies that are growing fast, have good management, or are undervalued by other investors. For example, if you think a tech company is going to grow a lot in the next few years, you might buy its stock. If you're right and the company does well, your portfolio could have a positive alpha because it's beating the market.
 
 Another strategy is called market timing. This is when you try to buy and sell investments at the right times to make more money. For example, if you think the market is going to go up, you might buy more stocks. If you think it's going to go down, you might sell some of your stocks. If you're good at guessing when to buy and sell, you can get a positive alpha because you're making more money than the market.
 
@@ -80,11 +80,11 @@ Also, statistical methods can help us deal with things that might mess up our al
 
 ## What advanced techniques are used by quantitative analysts to generate alpha?
 
-Quantitative analysts, or "quants," use fancy math and computer programs to find ways to make money in the stock market. One way they do this is by using something called machine learning. This is when computers learn from a lot of data to find patterns that humans might miss. For example, a computer might look at a bunch of numbers about a company and figure out if it's going to do well or not. If the computer finds a good pattern, the quant can use it to pick stocks that might beat the market, which means they can get a positive alpha.
+Quantitative analysts, or "quants," use fancy math and computer programs to find ways to make money in the stock market. One way they do this is by using something called [machine learning](/wiki/machine-learning). This is when computers learn from a lot of data to find patterns that humans might miss. For example, a computer might look at a bunch of numbers about a company and figure out if it's going to do well or not. If the computer finds a good pattern, the quant can use it to pick stocks that might beat the market, which means they can get a positive alpha.
 
 Another way quants try to generate alpha is by using high-frequency trading. This means they use computers to buy and sell stocks very quickly, sometimes in just a few seconds. The idea is to make a lot of small profits by being faster than other traders. They might use special math formulas to decide when to buy and sell, and they can make money even if the market isn't moving much. By doing this, they hope to get a positive alpha because they're making more money than the market.
 
-Quants also use something called risk arbitrage. This is when they look for chances to make money from companies that are merging or being bought out. They might buy stock in one company and sell stock in another, hoping to make money from the difference in prices. If they do this well, they can get a positive alpha because they're making more money than what the market would give them. All these methods use math and computers to try to beat the market and get a positive alpha.
+Quants also use something called risk [arbitrage](/wiki/arbitrage). This is when they look for chances to make money from companies that are merging or being bought out. They might buy stock in one company and sell stock in another, hoping to make money from the difference in prices. If they do this well, they can get a positive alpha because they're making more money than what the market would give them. All these methods use math and computers to try to beat the market and get a positive alpha.
 
 ## What is Understanding Alpha in Finance?
 
@@ -110,7 +110,7 @@ Given its importance, alpha remains a focal point in portfolio management and is
 
 ## What is the investment performance with algo trading?
 
-Algorithmic trading has revolutionized the evaluation of investment performance, primarily in its quest to generate alpha. One of the key aspects of assessing the performance of algorithmic trading strategies is the use of various performance metrics. The Sharpe Ratio, for instance, is widely utilized to understand the risk-adjusted return of an investment strategy. It is calculated as:
+Algorithmic trading has revolutionized the evaluation of investment performance, primarily in its quest to generate alpha. One of the key aspects of assessing the performance of [algorithmic trading](/wiki/algorithmic-trading) strategies is the use of various performance metrics. The Sharpe Ratio, for instance, is widely utilized to understand the risk-adjusted return of an investment strategy. It is calculated as:
 
 $$
 \text{Sharpe Ratio} = \frac{E[R] - R_f}{\sigma_R}

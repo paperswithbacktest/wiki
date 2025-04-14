@@ -18,9 +18,9 @@ To do arbitrage, you need to act fast because price differences don't last long.
 
 There are several basic types of arbitrage, but let's focus on the main ones. The first type is called spatial arbitrage. This is when you buy something in one place where it's cheaper and sell it in another place where it's more expensive. For example, if apples cost less at a farm than at a city market, you could buy them at the farm and sell them in the city. This type of arbitrage takes advantage of different prices in different locations.
 
-Another type is called temporal arbitrage. This happens when you buy something now and sell it later when the price goes up. For instance, if you know that a new toy will be more expensive during the holiday season, you might buy it early and sell it later. This type of arbitrage relies on knowing when prices will change over time.
+Another type is called temporal [arbitrage](/wiki/arbitrage). This happens when you buy something now and sell it later when the price goes up. For instance, if you know that a new toy will be more expensive during the holiday season, you might buy it early and sell it later. This type of arbitrage relies on knowing when prices will change over time.
 
-The last type we'll talk about is statistical arbitrage. This is a bit more complicated and often used in financial markets. It involves using math and computers to find small price differences between related items, like stocks. Traders might buy one stock and sell another if they think the price difference will change soon. This type of arbitrage is about using data and patterns to make quick profits.
+The last type we'll talk about is [statistical arbitrage](/wiki/statistical-arbitrage). This is a bit more complicated and often used in financial markets. It involves using math and computers to find small price differences between related items, like stocks. Traders might buy one stock and sell another if they think the price difference will change soon. This type of arbitrage is about using data and patterns to make quick profits.
 
 ## How does arbitrage work in financial markets?
 
@@ -90,7 +90,7 @@ Algorithmic trading has revolutionized financial markets by automating the execu
 
 **Trend-Following Strategies:** 
 
-Trend-following strategies capitalize on the market's momentum by identifying and trading in the direction of established trends. These strategies operate under the assumption that current price trends will continue. Technical indicators such as moving averages and momentum oscillators are commonly used to identify these trends. For instance, a simple moving average (SMA) crossover strategy might buy an asset when a shorter-term SMA crosses above a longer-term SMA, and sell when the opposite occurs. This approach is rooted in the principle of cutting losses quickly and letting profits run, which can be effective during strong market trends.
+Trend-following strategies capitalize on the market's [momentum](/wiki/momentum) by identifying and trading in the direction of established trends. These strategies operate under the assumption that current price trends will continue. Technical indicators such as moving averages and momentum oscillators are commonly used to identify these trends. For instance, a simple moving average (SMA) crossover strategy might buy an asset when a shorter-term SMA crosses above a longer-term SMA, and sell when the opposite occurs. This approach is rooted in the principle of cutting losses quickly and letting profits run, which can be effective during strong market trends.
 
 **Mean Reversion Strategies:**
 
@@ -104,11 +104,11 @@ where $x_i$ is the price of the asset at time $i$ and $N$ is the number of obser
 
 **Market-Making Strategies:**
 
-Market-making strategies aim to profit by providing liquidity to the market. Market makers continuously quote bid and ask prices, hoping to capture the spread between them. This involves buying an asset at the lower bid price and selling it at the higher ask price. By doing so, market makers facilitate trading, reduce transaction costs for other participants, and earn profits from the bid-ask spread. These strategies require sophisticated algorithms to manage inventory risk and respond rapidly to market changes, ensuring efficient matching of buy and sell orders.
+Market-making strategies aim to profit by providing [liquidity](/wiki/liquidity-risk-premium) to the market. Market makers continuously quote bid and ask prices, hoping to capture the spread between them. This involves buying an asset at the lower bid price and selling it at the higher ask price. By doing so, market makers facilitate trading, reduce transaction costs for other participants, and earn profits from the bid-ask spread. These strategies require sophisticated algorithms to manage inventory risk and respond rapidly to market changes, ensuring efficient matching of buy and sell orders.
 
 **Statistical Arbitrage Strategies:**
 
-Statistical arbitrage strategies deploy complex mathematical models and algorithms to identify and exploit pricing inefficiencies between correlated financial instruments. By analyzing historical data and employing statistical methods such as co-integration and pairs trading, these strategies target small, temporary price discrepancies. For example, if two stocks that typically move together diverge, a strategy might involve shorting the overperforming stock while going long on the underperforming one, expecting convergence. These strategies involve balancing a portfolio to minimize risk, often using techniques such as principal component analysis (PCA) or machine learning models to forecast mean reversion or co-moving patterns.
+Statistical arbitrage strategies deploy complex mathematical models and algorithms to identify and exploit pricing inefficiencies between correlated financial instruments. By analyzing historical data and employing statistical methods such as co-integration and pairs trading, these strategies target small, temporary price discrepancies. For example, if two stocks that typically move together diverge, a strategy might involve shorting the overperforming stock while going long on the underperforming one, expecting convergence. These strategies involve balancing a portfolio to minimize risk, often using techniques such as principal component analysis (PCA) or [machine learning](/wiki/machine-learning) models to forecast mean reversion or co-moving patterns.
 
 Python code is frequently used to implement these strategies due to its simplicity and powerful data analysis libraries. For instance, a basic mean reversion strategy using Bollinger Bands in Python could be outlined as follows:
 

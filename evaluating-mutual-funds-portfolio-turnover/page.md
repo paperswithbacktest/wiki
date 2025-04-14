@@ -42,7 +42,7 @@ On the other hand, a low turnover rate means the manager is not trading very oft
 
 High portfolio turnover can lead to more taxes for investors. When a fund manager buys and sells a lot of investments, it can create capital gains. These are profits made from selling investments for more than what they cost. If these gains are short-term, meaning the investments were held for less than a year, they are taxed at a higher rate than long-term gains. So, if you own shares in a mutual fund with high turnover, you might have to pay more in taxes on these short-term gains.
 
-On the other hand, funds with low turnover hold onto their investments longer, which can lead to fewer taxable events. When investments are sold after being held for more than a year, the gains are considered long-term and are taxed at a lower rate. This can mean less tax for you to pay. So, when picking a mutual fund, thinking about the turnover rate can help you understand how it might affect your taxes.
+On the other hand, funds with low turnover hold onto their investments longer, which can lead to fewer taxable events. When investments are sold after being held for more than a year, the gains are considered long-term and are taxed at a lower rate. This can mean less tax for you to pay. So, when [picking](/wiki/asset-class-picking) a mutual fund, thinking about the turnover rate can help you understand how it might affect your taxes.
 
 ## How does portfolio turnover affect transaction costs and expenses?
 

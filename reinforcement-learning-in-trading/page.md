@@ -112,7 +112,7 @@ For traders, understanding and employing RL principles can be transformative. By
 
 ## What is Data Preprocessing and How Do You Prepare for Analysis?
 
-Raw financial data exhibits inherent complexity, necessitating comprehensive preprocessing to ensure usability and efficacy in algorithmic trading systems. Data preprocessing is essential for converting raw data into a structured format suitable for AI analysis, which involves several critical steps.
+Raw financial data exhibits inherent complexity, necessitating comprehensive preprocessing to ensure usability and efficacy in [algorithmic trading](/wiki/algorithmic-trading) systems. Data preprocessing is essential for converting raw data into a structured format suitable for AI analysis, which involves several critical steps.
 
 Firstly, data cleaning is paramount. This involves detecting and correcting errors or inconsistencies found in the datasets. Common tasks include removing duplicates, correcting inaccuracies, and validating ranges. For instance, erroneous stock prices that are unusually high or low need identification and rectification, either through correction or omission, ensuring analysis integrity.
 

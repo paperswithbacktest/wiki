@@ -34,7 +34,7 @@ Having a high vacancy rate can be a problem for property owners because it means
 
 ## What factors can influence vacancy rates?
 
-Many things can affect how many empty units there are in a rental property. One big factor is the location of the property. If it's in a popular area where lots of people want to live, the vacancy rate will be low because the units fill up quickly. But if the property is in a place that's not as popular, or if there are a lot of similar places to rent nearby, the vacancy rate might be higher because it's harder to find tenants.
+Many things can affect how many empty units there are in a rental property. One big [factor](/wiki/factor-investing) is the location of the property. If it's in a popular area where lots of people want to live, the vacancy rate will be low because the units fill up quickly. But if the property is in a place that's not as popular, or if there are a lot of similar places to rent nearby, the vacancy rate might be higher because it's harder to find tenants.
 
 Another thing that influences vacancy rates is the price of rent. If the rent is too high compared to what people can afford, more units will stay empty. Property owners might need to lower the rent or offer special deals to fill the units. Also, the condition of the property matters. If the units are old or need repairs, people might not want to rent them, which can lead to a higher vacancy rate.
 

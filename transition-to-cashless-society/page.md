@@ -18,7 +18,7 @@ In a cashless society, buying things can be easier and faster because you don't 
 
 One big benefit of a cashless society is that it makes buying things easier and faster. You don't need to carry cash around, which means you don't have to worry about having the right amount of money when you want to buy something. Instead, you can just use your card or phone to pay. This can save time and make shopping more convenient. Also, it's easier to keep track of your spending because all your transactions are recorded electronically.
 
-Another benefit is that a cashless society can be safer. When you don't carry cash, you're less likely to be robbed or lose money. It's also harder for criminals to use stolen money because electronic payments can be traced. This can help reduce crime and make people feel safer. Plus, without cash, there's less need for banks to handle and store physical money, which can save them money and make their operations more efficient.
+Another benefit is that a cashless society can be safer. When you don't [carry](/wiki/carry-trading) cash, you're less likely to be robbed or lose money. It's also harder for criminals to use stolen money because electronic payments can be traced. This can help reduce crime and make people feel safer. Plus, without cash, there's less need for banks to handle and store physical money, which can save them money and make their operations more efficient.
 
 ## What are the potential drawbacks of a cashless society?
 

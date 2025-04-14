@@ -72,9 +72,9 @@ Over time, looking back at the journal can show traders patterns in their emotio
 
 ## What are some examples of successful trading journals from expert traders?
 
-One example of a successful trading journal is from a trader named Mark Douglas. He is famous for writing books about trading psychology. In his journal, Mark writes down not just the numbers of his trades, but also how he feels during each trade. He notices that when he feels scared, he often makes bad decisions. By seeing this pattern in his journal, Mark learns to take a deep breath and think logically before making a trade. This helps him control his emotions and make better choices, leading to more successful trades.
+One example of a successful trading journal is from a trader named Mark Douglas. He is famous for writing [books](/wiki/algo-trading-books) about trading psychology. In his journal, Mark writes down not just the numbers of his trades, but also how he feels during each trade. He notices that when he feels scared, he often makes bad decisions. By seeing this pattern in his journal, Mark learns to take a deep breath and think logically before making a trade. This helps him control his emotions and make better choices, leading to more successful trades.
 
-Another example is from Linda Raschke, a well-known trader who runs a trading room. Linda uses her trading journal to track her performance over time. She writes down the details of every trade, including her entry and exit points, and the reasons for her decisions. Linda also looks at advanced metrics like her risk-reward ratio and win rate. By reviewing her journal regularly, she can see what strategies work best for her and adjust her approach accordingly. This helps her stay disciplined and improve her trading strategy, making her a more successful trader.
+Another example is from Linda Raschke, a well-known trader who runs a trading room. Linda uses her trading journal to track her performance over time. She writes down the details of every trade, including her entry and [exit](/wiki/exit-strategy) points, and the reasons for her decisions. Linda also looks at advanced metrics like her risk-reward ratio and win rate. By reviewing her journal regularly, she can see what strategies work best for her and adjust her approach accordingly. This helps her stay disciplined and improve her trading strategy, making her a more successful trader.
 
 ## How can a trading journal be integrated into a broader trading plan or system?
 
@@ -121,7 +121,7 @@ $$
    result = check_cease_trading(current_drawdown, stop_loss_limit)
    ```
 
-By maintaining a detailed and structured trading journal encompassing these elements, traders enhance their ability to analyze and refine strategies effectively. This documentation not only aids in performance evaluation but also contributes to strategic adjustments and risk management, fostering long-term success in algorithmic trading.
+By maintaining a detailed and structured trading journal encompassing these elements, traders enhance their ability to analyze and refine strategies effectively. This documentation not only aids in performance evaluation but also contributes to strategic adjustments and risk management, fostering long-term success in [algorithmic trading](/wiki/algorithmic-trading).
 
 ## References & Further Reading
 

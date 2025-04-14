@@ -64,7 +64,7 @@ Another example is the Martha Stewart case in 2001. Martha Stewart, a famous bus
 
 ## How can advanced technologies like AI and machine learning detect information leakage?
 
-Advanced technologies like AI and machine learning can help detect information leakage by looking at a lot of data really fast. They can find patterns that might show someone is using secret information to buy or sell stocks. For example, if a lot of people start buying a stock right before big news comes out, AI can spot this and tell the people in charge to look closer. This helps catch leaks early and stop them from causing more problems.
+Advanced technologies like AI and [machine learning](/wiki/machine-learning) can help detect information leakage by looking at a lot of data really fast. They can find patterns that might show someone is using secret information to buy or sell stocks. For example, if a lot of people start buying a stock right before big news comes out, AI can spot this and tell the people in charge to look closer. This helps catch leaks early and stop them from causing more problems.
 
 These technologies can also watch how people use company computers and systems. If someone is looking at secret information they shouldn't be, AI can notice this and send a warning. This way, companies can find out who might be leaking information and stop it before it spreads. By using AI and machine learning, companies and regulators can keep the market fair and make sure everyone plays by the same rules.
 
@@ -82,7 +82,7 @@ Another important thing traders and investors can do is to be careful about wher
 
 ## What are the technological advancements and what are the future prospects?
 
-Machine learning (ML) and [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) are increasingly integral in detecting information leakage risks in algorithmic trading. These advanced technologies analyze vast datasets to identify patterns and anomalies indicative of potential leaks. By leveraging machine learning algorithms, traders can develop predictive models that swiftly detect unusual market behaviors associated with information dissemination, thereby mitigating risk exposure.
+Machine learning (ML) and [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) are increasingly integral in detecting information leakage risks in [algorithmic trading](/wiki/algorithmic-trading). These advanced technologies analyze vast datasets to identify patterns and anomalies indicative of potential leaks. By leveraging machine learning algorithms, traders can develop predictive models that swiftly detect unusual market behaviors associated with information dissemination, thereby mitigating risk exposure.
 
 Artificial intelligence optimizes trading strategies through continuous learning. AI systems can adapt to ever-changing market conditions by processing real-time data faster than humanly possible. This adaptability enhances the robustness of algorithms against unpredictable market dynamics, ensuring strategic precision even when exposed to potential information leaks.
 
@@ -104,9 +104,9 @@ In conclusion, the strategic integration of machine learning and artificial inte
 
 Zhang, M. Y., & Cohen, K. (2020). 'Detecting information leakage in high-frequency trading systems.' This work explores methodologies for identifying and preventing information leakage risks in high-frequency trading environments. The authors employ statistical analysis and algorithmic models to assess the integrity of trading systems, offering insights into potential vulnerabilities that could be exploited by adversaries.
 
-Cartea, Á., Jaimungal, S., & Penalva, J. (2015). 'Algorithmic and High-Frequency Trading.' This book provides a comprehensive overview of the mechanics behind algorithmic and high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)). It covers a range of topics including market impact, order book dynamics, and the development of strategic models to minimize risks associated with trading, such as information leakage.
+Cartea, Á., Jaimungal, S., & Penalva, J. (2015). 'Algorithmic and High-Frequency Trading.' This book provides a comprehensive overview of the mechanics behind algorithmic and high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)). It covers a range of topics including market impact, [order book](/wiki/order-book-trading-strategies) dynamics, and the development of strategic models to minimize risks associated with trading, such as information leakage.
 
-Easley, D., López de Prado, M. M., & O'Hara, M. (2012). 'Flow Toxicity and Liquidity in a High-frequency World.' This paper examines the implications of flow toxicity on market liquidity within a high-frequency trading context. It introduces the concept of 'flow toxicity' as the potential loss due to the adverse selection of trades and its connection to information leakage.
+Easley, D., López de Prado, M. M., & O'Hara, M. (2012). 'Flow Toxicity and Liquidity in a High-frequency World.' This paper examines the implications of flow toxicity on market [liquidity](/wiki/liquidity-risk-premium) within a high-frequency trading context. It introduces the concept of 'flow toxicity' as the potential loss due to the adverse selection of trades and its connection to information leakage.
 
 Kearns, M., Nevmyvaka, Y., & Schapire, R. E. (2012). 'Machine Learning for Market Microstructure and High-Frequency Trading.' This publication addresses the application of machine learning techniques to trading problems, focusing on microstructure and HFT scenarios. It highlights the role of machine learning in enhancing trade decision-making processes and managing risks, including those posed by information leakage.
 

@@ -78,7 +78,7 @@ Even though robo-advisors can't think like humans, they use smart math to figure
 
 ## What future developments can we expect in robo-advisory services?
 
-In the future, robo-advisors are likely to get even better at what they do. They might use new technology like artificial intelligence (AI) to make smarter choices about your investments. This could mean they can look at more information and understand it better, so they can make your money grow in ways that fit your goals even more closely. They might also start working with other kinds of financial services, like banking or insurance, to give you a complete plan for your money all in one place.
+In the future, robo-advisors are likely to get even better at what they do. They might use new technology like [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) to make smarter choices about your investments. This could mean they can look at more information and understand it better, so they can make your money grow in ways that fit your goals even more closely. They might also start working with other kinds of financial services, like banking or insurance, to give you a complete plan for your money all in one place.
 
 Another thing we might see is robo-advisors becoming more personal. Right now, they follow set plans, but in the future, they might be able to understand more about your life and what you need. This could mean they can give you advice that feels more like what you'd get from a human advisor. They might also use new ways to talk to you, like through voice commands or chatbots, making it easier and more fun to manage your money.
 

@@ -18,7 +18,7 @@ ETFs can generate dividends in a few ways. If the ETF holds stocks that pay divi
 
 Dividends from ETFs are taxed based on how the ETF makes its money. If the ETF earns dividends from stocks it holds, those dividends are usually taxed as "qualified dividends" if they meet certain rules. Qualified dividends are taxed at a lower rate, like 0%, 15%, or 20%, depending on your income. But if the dividends don't meet those rules, they are taxed as "ordinary dividends" at your regular income tax rate, which can be higher.
 
-If the ETF earns money from bonds or other interest-bearing investments, the dividends it pays out are usually taxed as ordinary income. This means they are taxed at the same rate as your wages or other regular income. Sometimes, ETFs can also make money from selling investments at a profit, which is called capital gains. If the ETF distributes these gains to you, they are taxed as capital gains, either short-term or long-term, depending on how long the ETF held the investments.
+If the [ETF](/wiki/etf-trading-strategies) earns money from bonds or other interest-bearing investments, the dividends it pays out are usually taxed as ordinary income. This means they are taxed at the same rate as your wages or other regular income. Sometimes, ETFs can also make money from selling investments at a profit, which is called capital gains. If the ETF distributes these gains to you, they are taxed as capital gains, either short-term or long-term, depending on how long the ETF held the investments.
 
 It's important to know that tax rules can change, and your specific situation might affect how your dividends are taxed. Always check with a tax professional to make sure you're doing things right and taking advantage of any tax benefits you might be eligible for.
 
@@ -84,7 +84,7 @@ Another strategy is to focus on ETFs that pay qualified dividends. These dividen
 
 ## How can ETFs and algorithmic trading be incorporated into a tax-efficient strategy?
 
-To optimize ETF dividend investments, integrating tax-efficient strategies with algorithmic trading can substantially enhance returns. Key strategies include tax loss harvesting, strategic fund placement, and precise trade timing. Algorithmic trading systems can be leveraged to automate these strategies, improving consistency and efficiency.
+To optimize ETF dividend investments, integrating tax-efficient strategies with [algorithmic trading](/wiki/algorithmic-trading) can substantially enhance returns. Key strategies include tax loss harvesting, strategic fund placement, and precise trade timing. Algorithmic trading systems can be leveraged to automate these strategies, improving consistency and efficiency.
 
 ### Tax Loss Harvesting and Strategic Fund Placement
 
@@ -112,7 +112,7 @@ Strategic fund placement refers to the allocation of funds between taxable and t
 
 ### Timing of Trades and Algorithmic Automation
 
-Effective timing of trades can significantly impact tax outcomes, especially when considering dividend capture strategies. Algorithmic systems can model various scenarios to determine optimal entry and exit points. This not only aids in capturing dividends efficiently but also in managing short-term capital gains, which are typically taxed at higher rates than long-term gains.
+Effective timing of trades can significantly impact tax outcomes, especially when considering dividend capture strategies. Algorithmic systems can model various scenarios to determine optimal entry and [exit](/wiki/exit-strategy) points. This not only aids in capturing dividends efficiently but also in managing short-term capital gains, which are typically taxed at higher rates than long-term gains.
 
 Matrix-based calculations can be employed to simulate trade outcomes under various market conditions:
 

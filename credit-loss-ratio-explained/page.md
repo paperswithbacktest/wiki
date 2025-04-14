@@ -18,7 +18,7 @@ A high credit loss ratio means that a bank is losing a lot of money on loans, wh
 
 The credit loss ratio is important for financial institutions because it tells them how much money they are losing from loans that people don't pay back. By knowing this ratio, banks can see if they are lending money to the right people. If the ratio is high, it means the bank is losing a lot of money, and they might need to change who they lend to or how much they lend. This helps banks to stay healthy and avoid big financial problems.
 
-Keeping the credit loss ratio low is also important for a bank's reputation. If a bank has a low ratio, it shows that they are good at picking borrowers who can pay back their loans. This makes other people and businesses trust the bank more, and they might want to do more business with them. A low credit loss ratio can also help the bank get better deals when they borrow money from other places, because they are seen as a safer bet.
+Keeping the credit loss ratio low is also important for a bank's reputation. If a bank has a low ratio, it shows that they are good at [picking](/wiki/asset-class-picking) borrowers who can pay back their loans. This makes other people and businesses trust the bank more, and they might want to do more business with them. A low credit loss ratio can also help the bank get better deals when they borrow money from other places, because they are seen as a safer bet.
 
 ## How is the credit loss ratio calculated?
 
@@ -28,7 +28,7 @@ For example, if a bank lost $1 million from loans that were not paid back, and t
 
 ## What factors can affect the credit loss ratio?
 
-Several things can change the credit loss ratio for a bank. One big factor is the economy. If the economy is doing well, people are more likely to have jobs and pay back their loans, which can lower the credit loss ratio. But if the economy is bad, more people might lose their jobs and not be able to pay back their loans, making the credit loss ratio go up. Another factor is how careful the bank is when they decide who to give loans to. If a bank gives loans to people who are risky, the credit loss ratio might be higher because those people might not pay back their loans.
+Several things can change the credit loss ratio for a bank. One big [factor](/wiki/factor-investing) is the economy. If the economy is doing well, people are more likely to have jobs and pay back their loans, which can lower the credit loss ratio. But if the economy is bad, more people might lose their jobs and not be able to pay back their loans, making the credit loss ratio go up. Another factor is how careful the bank is when they decide who to give loans to. If a bank gives loans to people who are risky, the credit loss ratio might be higher because those people might not pay back their loans.
 
 The way a bank manages its loans also matters. If a bank is good at keeping track of loans and helping people who are having trouble paying back, they might be able to keep the credit loss ratio low. On the other hand, if a bank does not watch its loans closely, the credit loss ratio could go up. Finally, the type of loans a bank gives out can affect the ratio. Loans for buying houses might have a different credit loss ratio than loans for starting a business, because the risks are different.
 
@@ -72,7 +72,7 @@ The credit loss ratio also affects the balance sheet, which shows what the bank 
 
 Banks use advanced statistical models to predict credit loss ratios and help them make better decisions about lending money. One common model is called logistic regression. This model looks at things like a person's credit score, how much money they make, and their history of paying back loans to guess if they will pay back a new loan. By using this model, banks can see which loans are more likely to be paid back and which ones might turn into losses. This helps them keep their credit loss ratio low.
 
-Another model that banks use is called machine learning. Machine learning models can look at a lot of different information at the same time, like how the economy is doing, what kind of loan it is, and even things like where the borrower lives. These models learn from past data to find patterns that can predict if a loan will be paid back or not. By using machine learning, banks can make more accurate guesses about their credit loss ratios and manage their loans better.
+Another model that banks use is called [machine learning](/wiki/machine-learning). Machine learning models can look at a lot of different information at the same time, like how the economy is doing, what kind of loan it is, and even things like where the borrower lives. These models learn from past data to find patterns that can predict if a loan will be paid back or not. By using machine learning, banks can make more accurate guesses about their credit loss ratios and manage their loans better.
 
 ## How can credit loss ratios be used in stress testing and risk management?
 

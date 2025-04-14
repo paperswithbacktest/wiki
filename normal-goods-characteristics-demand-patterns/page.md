@@ -24,7 +24,7 @@ So, the main difference is that with normal goods, people buy more when they hav
 
 ## What are the key characteristics of normal goods?
 
-Normal goods are things that people buy more of when they have more money. When people get a raise or their income goes up, they can afford to buy more of these goods. For example, if someone starts earning more, they might buy more fresh fruits and vegetables because they can now afford them easily. These goods are called "normal" because this is how most people act when they have more money to spend.
+Normal goods are things that people buy more of when they have more money. When people get a raise or their income goes up, they can afford to buy more of these goods. For example, if someone starts [earning](/wiki/earning-announcement) more, they might buy more fresh fruits and vegetables because they can now afford them easily. These goods are called "normal" because this is how most people act when they have more money to spend.
 
 On the other hand, when people's income goes down, they usually buy less of these normal goods. This happens because they need to save money and might switch to cheaper options. For instance, if someone loses their job, they might buy fewer fresh fruits and vegetables and instead choose canned or frozen options that cost less. The key thing about normal goods is that the amount people buy changes in the same direction as their income.
 
@@ -120,7 +120,7 @@ Understanding the characteristics of normal goods is crucial for businesses and 
 
 ## References & Further Reading
 
-For those interested in deepening their understanding of demand theory, normal goods, and algorithmic trading, there is a wealth of literature and resources available:
+For those interested in deepening their understanding of demand theory, normal goods, and [algorithmic trading](/wiki/algorithmic-trading), there is a wealth of literature and resources available:
 
 1. **Academic Papers**:
    - **"The Theory of Demand: A Historical Perspective"** by A.S. Aiyar provides an in-depth exploration of the evolution of demand theory and its foundational principles.

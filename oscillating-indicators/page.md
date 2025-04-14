@@ -30,7 +30,7 @@ The Stochastic Oscillator also moves between 0 and 100 and helps traders see if 
 
 The Relative Strength Index (RSI) is a popular oscillating indicator used in trading to understand if a security's price is overbought or oversold. It works by measuring the speed and change of price movements. The RSI moves between 0 and 100. If the RSI goes above 70, it might mean the security is overbought, which could suggest that the price might drop soon. If the RSI goes below 30, it might mean the security is oversold, which could suggest that the price might rise soon.
 
-Traders use the RSI to spot potential buy or sell signals. For example, if the RSI moves from below 30 to above 30, it could be a sign to buy the security because it might be moving out of an oversold state. On the other hand, if the RSI moves from above 70 to below 70, it could be a sign to sell the security because it might be moving out of an overbought state. By watching these levels, traders can make more informed decisions about when to enter or exit trades.
+Traders use the RSI to spot potential buy or sell signals. For example, if the RSI moves from below 30 to above 30, it could be a sign to buy the security because it might be moving out of an oversold state. On the other hand, if the RSI moves from above 70 to below 70, it could be a sign to sell the security because it might be moving out of an overbought state. By watching these levels, traders can make more informed decisions about when to enter or [exit](/wiki/exit-strategy) trades.
 
 ## Can you explain the Moving Average Convergence Divergence (MACD) and its use as an oscillator?
 
@@ -171,7 +171,7 @@ $$
 
 In this formula, the "Highest High" and "Lowest Low" are determined over a specified period, commonly 14 days. The negative sign ensures that the indicator oscillates between 0 and -100, with readings closer to 0 indicating overbought conditions, and those nearer to -100 suggesting oversold market conditions.
 
-During backtesting, Williams %R exhibited low average maximum drawdowns, highlighting its potential in safeguarding traders against large losses. Its performance stability in various market conditions makes it especially appealing for traders focusing on short-term strategies. By consistently identifying reversal points, this indicator enhances decision-making processes, offering a tactical advantage in managing risks and enhancing profitability.
+During [backtesting](/wiki/backtesting), Williams %R exhibited low average maximum drawdowns, highlighting its potential in safeguarding traders against large losses. Its performance stability in various market conditions makes it especially appealing for traders focusing on short-term strategies. By consistently identifying reversal points, this indicator enhances decision-making processes, offering a tactical advantage in managing risks and enhancing profitability.
 
 For traders who prioritize minimizing drawdown and enhancing trading stability, Williams %R remains a robust tool. Below is a simple Python script to calculate Williams %R:
 

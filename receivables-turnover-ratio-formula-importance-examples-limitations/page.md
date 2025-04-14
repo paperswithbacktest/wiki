@@ -84,7 +84,7 @@ Another way to enhance the interpretation of the Receivables Turnover Ratio is b
 
 The accounts receivables turnover ratio is a financial metric that quantifies a company's effectiveness in managing and collecting its short-term credit accounts. This ratio is pivotal as it indicates how many times, on average, a company converts its receivables into cash over a specific time frame, predominantly a fiscal year. A higher accounts receivables turnover ratio is generally interpreted as a sign of efficient credit management and a robust collection process. It suggests that the company has effective policies for extending credit and is successful in receiving payments from customers promptly, thereby optimizing its working capital.
 
-Conversely, a lower turnover ratio may signify potential challenges, such as lenient credit policies, inefficiencies in the collection processes, or the possibility of customers defaulting on payments. These issues can lead to cash flow problems, affecting a company's liquidity and financial stability.
+Conversely, a lower turnover ratio may signify potential challenges, such as lenient credit policies, inefficiencies in the collection processes, or the possibility of customers defaulting on payments. These issues can lead to cash flow problems, affecting a company's [liquidity](/wiki/liquidity-risk-premium) and financial stability.
 
 To illustrate, if a company has net credit sales of $1,000,000 and an average accounts receivable of $100,000 for a financial year, the accounts receivables turnover ratio would be calculated as follows:
 

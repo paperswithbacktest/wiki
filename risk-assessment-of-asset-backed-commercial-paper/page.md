@@ -32,7 +32,7 @@ Overall, the key is that these assets should be reliable and have a good chance 
 
 The structure of an ABCP program can make it more or less risky. One important part of the structure is the type of assets that back the ABCP. If the assets are high quality and likely to be paid back, like good car loans or credit card debts, the risk is lower. But if the assets are not so good, like risky loans that might not be paid back, the risk goes up. Another part is how the program is set up to handle problems. If there are strong backup plans, like extra money set aside or other companies promising to help if things go wrong, the risk can be lower.
 
-Another way the structure affects risk is through how the program is managed. If the people running the program are good at picking the right assets and keeping an eye on them, the risk can be lower. But if they're not careful, the risk can go up. Also, the length of time the ABCP lasts can matter. Shorter times usually mean less risk because things can change a lot over a longer period. So, the structure of an ABCP program, from the assets it uses to how it's managed, plays a big role in how safe or risky it is for investors.
+Another way the structure affects risk is through how the program is managed. If the people running the program are good at [picking](/wiki/asset-class-picking) the right assets and keeping an eye on them, the risk can be lower. But if they're not careful, the risk can go up. Also, the length of time the ABCP lasts can matter. Shorter times usually mean less risk because things can change a lot over a longer period. So, the structure of an ABCP program, from the assets it uses to how it's managed, plays a big role in how safe or risky it is for investors.
 
 ## What are the key credit risks associated with ABCP?
 
@@ -44,7 +44,7 @@ Another credit risk is if the company that issues the ABCP has problems with its
 
 Liquidity risk can be a big problem for ABCP because it's all about how easy it is to turn the investment into cash. If investors want their money back quickly, but the ABCP can't be sold fast enough or at a good price, they might have to wait or lose money. This can happen if the market gets scared or if there are not enough buyers for the ABCP. When this happens, the company that issued the ABCP might have trouble finding the money to pay back the investors, making things even harder.
 
-This risk is especially important because ABCP is supposed to be a short-term investment. If investors can't get their money back when they need it, they might start to worry and sell off their ABCP, which can make the problem worse. Companies that issue ABCP often have backup plans, like lines of credit from banks, to help with liquidity. But if these plans aren't strong enough or if the banks themselves are having trouble, the liquidity risk can still cause big problems for ABCP.
+This risk is especially important because ABCP is supposed to be a short-term investment. If investors can't get their money back when they need it, they might start to worry and sell off their ABCP, which can make the problem worse. Companies that issue ABCP often have backup plans, like lines of credit from banks, to help with [liquidity](/wiki/liquidity-risk-premium). But if these plans aren't strong enough or if the banks themselves are having trouble, the liquidity risk can still cause big problems for ABCP.
 
 ## What role do credit enhancements play in mitigating ABCP risks?
 

@@ -23,7 +23,7 @@ In simple terms, confabulation is like telling a story with made-up details to s
 
 ## What are the common causes of confabulation in machine learning models?
 
-Confabulation in machine learning models often happens because these models are designed to predict the next piece of information, like a word or a sentence. They learn from huge amounts of data and try to guess what comes next based on patterns they've seen before. Sometimes, when the model isn't sure what the right answer is, it will make up something that sounds right based on those patterns. This can lead to the model giving wrong information that seems believable.
+Confabulation in [machine learning](/wiki/machine-learning) models often happens because these models are designed to predict the next piece of information, like a word or a sentence. They learn from huge amounts of data and try to guess what comes next based on patterns they've seen before. Sometimes, when the model isn't sure what the right answer is, it will make up something that sounds right based on those patterns. This can lead to the model giving wrong information that seems believable.
 
 Another reason for confabulation is that models are trained to keep the conversation going smoothly. They aim to be helpful and provide answers, even if they don't have the exact information needed. So, they might fill in gaps with made-up details to keep the flow of the conversation. This happens a lot in language models that are good at sounding fluent but might not always check if what they're saying is true.
 
@@ -41,7 +41,7 @@ Also, confabulation can make it harder for AI to learn and improve over time. If
 
 ## How can confabulation be detected in machine learning models?
 
-Detecting confabulation in machine learning models involves checking if the information the model gives is correct. One way to do this is by comparing what the model says to known facts or databases. For example, if the model talks about a historical event, you can check history books or online sources to see if what the model said is true. If the model often gives information that doesn't match these sources, it might be confabulating.
+Detecting confabulation in machine learning models involves checking if the information the model gives is correct. One way to do this is by comparing what the model says to known facts or databases. For example, if the model talks about a historical event, you can check history [books](/wiki/algo-trading-books) or online sources to see if what the model said is true. If the model often gives information that doesn't match these sources, it might be confabulating.
 
 Another way to detect confabulation is by using other AI models to check the first model's answers. These other models can be trained to spot when something sounds right but is actually wrong. By having these models work together, you can catch confabulations more easily. It's like having a friend who knows a lot and can tell you when something you say doesn't sound right. This method helps make sure the information from the main model is more trustworthy.
 

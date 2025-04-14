@@ -24,7 +24,7 @@ Beta is useful for investors because it helps them understand the risk of their 
 
 AQR Capital Management uses a smart strategy to lower the risk that comes from beta. Beta is how much a stock moves with the market. AQR looks at a lot of data and uses math to figure out which stocks might not move as much as the market. They pick these stocks for their clients' portfolios. This way, when the market goes up and down a lot, their clients' investments might not move as much, which can help protect their money.
 
-AQR also uses something called "factor investing." This means they look at different things that can affect how a stock does, like how big the company is or how much it grows. By balancing these factors, AQR tries to make sure their clients' investments are not too tied to the ups and downs of the market. This helps to keep the risk lower and can lead to steadier returns over time.
+AQR also uses something called "[factor](/wiki/factor-investing) investing." This means they look at different things that can affect how a stock does, like how big the company is or how much it grows. By balancing these factors, AQR tries to make sure their clients' investments are not too tied to the ups and downs of the market. This helps to keep the risk lower and can lead to steadier returns over time.
 
 ## What are the key components of AQR's investment approach?
 
@@ -46,7 +46,7 @@ On the other hand, idiosyncratic risk is the risk that comes from owning a speci
 
 ## What specific strategies does AQR employ to reduce exposure to market beta?
 
-AQR tries to lower the risk from the market going up and down by picking investments that don't move as much with the market. They use a lot of math and data to find these investments. For example, if they see that some stocks don't go up and down as much as the market, they might put more money into those stocks. This way, when the market has big swings, their clients' money might not move as much, which can help protect it.
+AQR tries to lower the risk from the market going up and down by [picking](/wiki/asset-class-picking) investments that don't move as much with the market. They use a lot of math and data to find these investments. For example, if they see that some stocks don't go up and down as much as the market, they might put more money into those stocks. This way, when the market has big swings, their clients' money might not move as much, which can help protect it.
 
 AQR also uses something called factor investing to reduce market beta risk. They look at different factors like how big a company is or how fast it's growing. By balancing these factors in their clients' portfolios, they try to make sure the money is spread out in a smart way. This can help lower the risk from the market and make the returns more steady over time. By focusing on these factors, AQR tries to pick investments that will not be as affected by the market's big ups and downs.
 

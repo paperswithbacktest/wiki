@@ -34,9 +34,9 @@ Another way to rebalance is not by time, but by how much your investments have c
 
 ## What factors influence the choice of rebalancing frequency?
 
-The choice of how often to rebalance your portfolio depends on a few things. One big factor is how much risk you're okay with. If you don't like taking big risks, you might want to check your investments more often to make sure they stay close to your plan. Another thing to think about is how much time you want to spend on your investments. If you don't want to think about them all the time, rebalancing once a year might be enough. But if you like to keep a close eye on things, you might do it every three or six months.
+The choice of how often to rebalance your portfolio depends on a few things. One big [factor](/wiki/factor-investing) is how much risk you're okay with. If you don't like taking big risks, you might want to check your investments more often to make sure they stay close to your plan. Another thing to think about is how much time you want to spend on your investments. If you don't want to think about them all the time, rebalancing once a year might be enough. But if you like to keep a close eye on things, you might do it every three or six months.
 
-Another important thing is how much your investments change. If the stock market goes up and down a lot, you might need to rebalance more often to keep your mix right. Also, think about any fees you might have to pay when you buy or sell investments. If the fees are high, you might not want to rebalance too often because it could cost you more money. In the end, picking the right rebalancing frequency is about finding a balance that works for you and your investment goals.
+Another important thing is how much your investments change. If the stock market goes up and down a lot, you might need to rebalance more often to keep your mix right. Also, think about any fees you might have to pay when you buy or sell investments. If the fees are high, you might not want to rebalance too often because it could cost you more money. In the end, [picking](/wiki/asset-class-picking) the right rebalancing frequency is about finding a balance that works for you and your investment goals.
 
 ## How does rebalancing frequency affect investment returns?
 
@@ -64,7 +64,7 @@ On the other hand, if you don't rebalance often enough, your portfolio might get
 
 ## What role does market volatility play in determining rebalancing frequency?
 
-Market volatility, or how much the market goes up and down, can change how often you need to rebalance your portfolio. If the market is very up and down, your investments might move away from your plan faster. For example, if you wanted 60% in stocks and they drop a lot, you might end up with less than 60% in stocks. In this case, you might need to rebalance more often to keep your investments in line with what you want.
+Market [volatility](/wiki/volatility-trading-strategies), or how much the market goes up and down, can change how often you need to rebalance your portfolio. If the market is very up and down, your investments might move away from your plan faster. For example, if you wanted 60% in stocks and they drop a lot, you might end up with less than 60% in stocks. In this case, you might need to rebalance more often to keep your investments in line with what you want.
 
 But if the market is pretty steady and doesn't change much, you might not need to check your portfolio as often. When things are calm, your investments will stay closer to your plan without much work. So, in a less volatile market, you can probably rebalance less often and still keep things on track.
 

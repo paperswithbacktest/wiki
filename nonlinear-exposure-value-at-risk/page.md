@@ -120,7 +120,7 @@ Value at Risk (VaR) can be calculated using several methods, each offering disti
 
 ### Historical Method
 
-The Historical Method is straightforward and non-parametric, relying on actual historical returns to estimate potential future risk. It examines the past performance of a portfolio over a specified time frame, arranging the historical returns in order to determine the potential loss at a given confidence level. For example, to calculate the VaR at a 95% confidence level, one would sort the historical returns and select the 5th percentile as the VaR estimate. This method assumes that historical trends and volatilities will continue into the future, potentially limiting its effectiveness in periods of structural market change or unexpected volatility.
+The Historical Method is straightforward and non-parametric, relying on actual historical returns to estimate potential future risk. It examines the past performance of a portfolio over a specified time frame, arranging the historical returns in order to determine the potential loss at a given confidence level. For example, to calculate the VaR at a 95% confidence level, one would sort the historical returns and select the 5th percentile as the VaR estimate. This method assumes that historical trends and volatilities will continue into the future, potentially limiting its effectiveness in periods of structural market change or unexpected [volatility](/wiki/volatility-trading-strategies).
 
 ### Variance-Covariance Method
 
@@ -188,7 +188,7 @@ print(f"VaR at 95% confidence level: {var}")
 print(f"CVaR at 95% confidence level: {cvar}")
 ```
 
-Beyond CVaR, backtesting is a robust technique used to verify the accuracy of VaR estimates by comparing predicted loss values against actual historical losses. By backtesting with a substantial dataset, financial practitioners can assess how well a VaR model performs in practice, identifying periods where the model may have underestimated risk. This process is essential for validating the assumptions underlying VaR models and for recalibrating them to improve reliability.
+Beyond CVaR, [backtesting](/wiki/backtesting) is a robust technique used to verify the accuracy of VaR estimates by comparing predicted loss values against actual historical losses. By backtesting with a substantial dataset, financial practitioners can assess how well a VaR model performs in practice, identifying periods where the model may have underestimated risk. This process is essential for validating the assumptions underlying VaR models and for recalibrating them to improve reliability.
 
 Advanced modeling techniques, including the incorporation of stress testing and scenario analysis, further amplify VaR assessments. While stress testing involves evaluating a portfolio against extreme yet plausible market conditions, scenario analysis examines the impact of hypothetical situations on financial metrics, providing insights into potential vulnerabilities.
 

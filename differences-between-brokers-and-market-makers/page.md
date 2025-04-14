@@ -42,7 +42,7 @@ Market makers make money from the difference between the bid and ask prices, whi
 
 ## Can you explain the concept of liquidity and how brokers and market makers impact it?
 
-Liquidity is how easy it is to buy or sell something in a market without the price changing a lot. If a market is liquid, you can quickly trade things like stocks or currencies without waiting for someone else to come along. This is important because it makes trading easier and less risky. Imagine you want to sell your bike quickly; if there are lots of people looking to buy bikes, it's easy to sell it at a good price. That's what liquidity means in markets.
+Liquidity is how easy it is to buy or sell something in a market without the price changing a lot. If a market is liquid, you can quickly trade things like stocks or currencies without waiting for someone else to come along. This is important because it makes trading easier and less risky. Imagine you want to sell your bike quickly; if there are lots of people looking to buy bikes, it's easy to sell it at a good price. That's what [liquidity](/wiki/liquidity-risk-premium) means in markets.
 
 Brokers help with liquidity by connecting buyers and sellers. They find people who want to buy and sell and help them make trades. This means more people are trading, which can make the market more liquid. For example, if you want to sell a stock, a broker can find someone who wants to buy it, making it easier for you to sell quickly.
 

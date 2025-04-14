@@ -86,7 +86,7 @@ Algorithmic trading is traditionally linked to financial markets, where it has t
 
 ### Processing Massive Datasets
 
-The core of algorithmic trading in real estate lies in its ability to process extensive datasets. Algorithms can evaluate various market indicators such as demographic data, housing trends, and economic forecasts to assess property values and identify investment opportunities. For instance, [machine learning](/wiki/machine-learning) models can leverage datasets to predict future property values by considering variables like neighborhood crime rates, school district performance, and public transportation accessibility. An example formula that might be used in predicting property values is:
+The core of [algorithmic trading](/wiki/algorithmic-trading) in real estate lies in its ability to process extensive datasets. Algorithms can evaluate various market indicators such as demographic data, housing trends, and economic forecasts to assess property values and identify investment opportunities. For instance, [machine learning](/wiki/machine-learning) models can leverage datasets to predict future property values by considering variables like neighborhood crime rates, school district performance, and public transportation accessibility. An example formula that might be used in predicting property values is:
 
 $$
 \text{Predicted Value} = \beta_0 + \beta_1(\text{Crime Rate}) + \beta_2(\text{School Rating}) + \beta_3(\text{Transportation Access}) + \epsilon

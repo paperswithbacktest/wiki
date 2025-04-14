@@ -24,7 +24,7 @@ Another useful ratio is the Return on Equity (ROE), which measures how well a co
 
 Fundamental analysis is a way to look at a company's basic information to decide if its stock is a good buy. It involves studying things like the company's earnings, how much it's growing, and its financial health. Investors use this information to figure out what the company is really worth, which is called its intrinsic value. If the stock's price is lower than its intrinsic value, it might be a good time to buy because the stock could be undervalued.
 
-To do fundamental analysis, investors look at financial statements like the income statement, balance sheet, and cash flow statement. They also check out the company's industry and the overall economy to see how these might affect the company's future. By comparing the company's financial ratios, like the P/E ratio or ROE, with those of other companies in the same industry, investors can see if the company is doing better or worse than its competitors. This helps them make smarter choices about whether to buy, hold, or sell the stock.
+To do [fundamental analysis](/wiki/fundamental-analysis), investors look at financial statements like the income statement, balance sheet, and cash flow statement. They also check out the company's industry and the overall economy to see how these might affect the company's future. By comparing the company's financial ratios, like the P/E ratio or ROE, with those of other companies in the same industry, investors can see if the company is doing better or worse than its competitors. This helps them make smarter choices about whether to buy, hold, or sell the stock.
 
 ## What role does technical analysis play in stock evaluation?
 
@@ -42,7 +42,7 @@ Both growth and value investing have their own risks and rewards. Growth stocks 
 
 ## How do dividend discount models work in stock valuation?
 
-Dividend discount models are a way to figure out what a stock is worth by looking at the money it pays out to shareholders, called dividends. The basic idea is that the value of a stock is the total of all the future dividends it will pay, but you have to figure out what those future dividends are worth today. This is done by using a discount rate, which is like an interest rate that shows how much you value money now compared to money in the future. If a company is expected to pay steady dividends, you can use a simple formula to add up all those future dividends, discounted back to today's value.
+Dividend discount models are a way to figure out what a stock is worth by looking at the money it pays out to shareholders, called dividends. The basic idea is that the value of a stock is the total of all the future dividends it will pay, but you have to figure out what those future dividends are worth today. This is done by using a discount rate, which is like an [interest rate](/wiki/interest-rate-trading-strategies) that shows how much you value money now compared to money in the future. If a company is expected to pay steady dividends, you can use a simple formula to add up all those future dividends, discounted back to today's value.
 
 There are different types of dividend discount models, but the most common one is the Gordon Growth Model. This model assumes that dividends will grow at a steady rate forever. You take the next year's expected dividend, divide it by the difference between the discount rate and the growth rate, and that gives you the stock's value. For example, if a company is expected to pay a $2 dividend next year, and you think dividends will grow by 3% each year with a discount rate of 8%, the stock's value would be $2 divided by (8% - 3%), which is $40. This model is simple but works best for companies with stable and predictable growth.
 
@@ -94,7 +94,7 @@ $$
 
 A lower P/E ratio might indicate that a stock is undervalued, while a higher ratio could suggest overvaluation, though this interpretation can vary across different industries.
 
-In contrast, technical analysis concentrates on the statistical analysis of market data, such as price and volume, to identify trends and patterns that can forecast future price movements. It is based on the premise that all market information is reflected in the stock price and that prices move in trends. Tools utilized in technical analysis include moving averages, relative strength index (RSI), and candlestick patterns.
+In contrast, technical analysis concentrates on the statistical analysis of market data, such as price and [volume](/wiki/volume-trading-strategy), to identify trends and patterns that can forecast future price movements. It is based on the premise that all market information is reflected in the stock price and that prices move in trends. Tools utilized in technical analysis include moving averages, relative strength index (RSI), and candlestick patterns.
 
 A fundamental difference between these two approaches is their time horizon: fundamental analysis tends to be long-term oriented, as it focuses on the company's financial health and growth potential over extended periods, while technical analysis often targets short-term market movements. 
 

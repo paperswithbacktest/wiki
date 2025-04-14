@@ -64,7 +64,7 @@ This comparison helps investors and business owners see which companies are doin
 
 ## What impact do accounting practices have on the ROA ratio?
 
-Accounting practices can change how the ROA ratio looks for a company. Different ways of keeping the books can make the net income or total assets look different. For example, if a company uses one way to figure out how much their machines are worth, and another company uses a different way, their ROAs might not be fair to compare. Also, if a company decides to count some costs as expenses right away instead of spreading them out over time, it can make their net income look different, which changes the ROA.
+Accounting practices can change how the ROA ratio looks for a company. Different ways of keeping the [books](/wiki/algo-trading-books) can make the net income or total assets look different. For example, if a company uses one way to figure out how much their machines are worth, and another company uses a different way, their ROAs might not be fair to compare. Also, if a company decides to count some costs as expenses right away instead of spreading them out over time, it can make their net income look different, which changes the ROA.
 
 It's important to know about these accounting differences when you're looking at ROA. If you don't, you might think one company is doing better than another when really, it's just because they use different accounting rules. To get a fair comparison, you need to make sure the companies are using the same accounting practices. This way, the ROA will give you a true picture of how well each company is using its assets to make money.
 

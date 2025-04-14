@@ -22,7 +22,7 @@ To get started, just join the r/Cryptocurrency subreddit and start posting and c
 
 ## Where can I purchase Moons tokens?
 
-You can buy Moons tokens on some cryptocurrency trading platforms. These are websites where people can trade different types of cryptocurrencies with each other. Some popular places to buy Moons include decentralized exchanges like Uniswap and SushiSwap, where you can swap other cryptocurrencies for Moons. You'll need to connect your digital wallet to these platforms and then you can trade your other cryptocurrencies for Moons.
+You can buy Moons tokens on some [cryptocurrency](/wiki/cryptocurrency) trading platforms. These are websites where people can trade different types of cryptocurrencies with each other. Some popular places to buy Moons include decentralized exchanges like Uniswap and SushiSwap, where you can swap other cryptocurrencies for Moons. You'll need to connect your digital wallet to these platforms and then you can trade your other cryptocurrencies for Moons.
 
 Before you buy Moons, make sure you understand how these trading platforms work. It's a good idea to do some research and learn about the fees and risks involved. Also, remember that the value of Moons can go up and down, so it's important to be careful and only spend money you can afford to lose. If you're new to buying cryptocurrencies, start with small amounts and learn as you go.
 

@@ -80,7 +80,7 @@ There have also been criticisms about how the TMF picks projects. Some people wo
 
 The Technology Modernization Fund is looking to grow and help even more government agencies in the future. They want to get more money from Congress so they can fund more projects. This would mean more old systems could be updated and more services could be made easier and safer for people to use. The TMF also wants to make sure they are helping all parts of the government, not just a few agencies. By doing this, they hope to make the whole government work better and faster.
 
-Another plan for the TMF is to make their process for picking projects even better. They want to be very clear about why they choose certain projects and make sure they are picking the ones that will help the most people. The TMF also wants to keep working closely with agencies to make sure projects finish on time and do what they promised. By doing all these things, the TMF hopes to keep making government technology better and more helpful for everyone.
+Another plan for the TMF is to make their process for [picking](/wiki/asset-class-picking) projects even better. They want to be very clear about why they choose certain projects and make sure they are picking the ones that will help the most people. The TMF also wants to keep working closely with agencies to make sure projects finish on time and do what they promised. By doing all these things, the TMF hopes to keep making government technology better and more helpful for everyone.
 
 ## References & Further Reading
 

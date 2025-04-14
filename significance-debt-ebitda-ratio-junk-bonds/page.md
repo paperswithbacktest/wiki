@@ -78,7 +78,7 @@ Because of this, investors need to think about the economy when they look at the
 
 Advanced statistical models that assess junk bond risk often use the Debt/EBITDA ratio as one of several key inputs. These models might include regression analysis, which helps predict how likely a company is to default on its debt. In these models, the Debt/EBITDA ratio is combined with other financial ratios and economic indicators to create a more complete picture of risk. For example, a model might use the Debt/EBITDA ratio along with the Interest Coverage Ratio and the company's cash flow to better understand how well a company can handle its debt.
 
-Another type of model that might use the Debt/EBITDA ratio is a machine learning model. These models can look at a lot of data, including the Debt/EBITDA ratio, to find patterns that help predict defaults. They might also consider things like industry trends and economic conditions. By using machine learning, these models can learn from past data and improve their predictions over time. This helps investors make smarter decisions about which junk bonds to buy, based on a detailed analysis of risk.
+Another type of model that might use the Debt/EBITDA ratio is a [machine learning](/wiki/machine-learning) model. These models can look at a lot of data, including the Debt/EBITDA ratio, to find patterns that help predict defaults. They might also consider things like industry trends and economic conditions. By using machine learning, these models can learn from past data and improve their predictions over time. This helps investors make smarter decisions about which junk bonds to buy, based on a detailed analysis of risk.
 
 ## What is the Debt/EBITDA Ratio and how can it be understood?
 

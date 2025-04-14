@@ -30,7 +30,7 @@ Knowing the Beta Factor can also help investors make their investment plans. If 
 
 The Beta Factor and Alpha are two different ways to measure how well an investment is doing, but they focus on different things. The Beta Factor shows how much an investment goes up and down compared to the whole market. If a stock has a Beta of 1, it moves just like the market. If it's more than 1, it moves more than the market, which means it's riskier. If it's less than 1, it moves less than the market, so it's safer. Beta helps investors see how much risk they're taking with their money.
 
-Alpha, on the other hand, is about how much an investment does better or worse than what you'd expect just from the market's movements. If a stock has a positive Alpha, it means it's doing better than the market, even after you account for how risky it is. If it has a negative Alpha, it's not doing as well as you'd expect. Alpha is important because it shows if a stock or a fund manager is really good at picking investments that beat the market, not just because they're taking more risks.
+Alpha, on the other hand, is about how much an investment does better or worse than what you'd expect just from the market's movements. If a stock has a positive Alpha, it means it's doing better than the market, even after you account for how risky it is. If it has a negative Alpha, it's not doing as well as you'd expect. Alpha is important because it shows if a stock or a fund manager is really good at [picking](/wiki/asset-class-picking) investments that beat the market, not just because they're taking more risks.
 
 So, while Beta tells you about the risk of an investment compared to the market, Alpha tells you about the performance of an investment beyond what you'd expect from its risk level. Both are useful for investors, but they give different kinds of information that can help in making smart investment choices.
 
@@ -102,7 +102,7 @@ This equation essentially normalizes the covariance by the market's overall vola
 
 ## How can one estimate and adjust beta?
 
-Estimating and adjusting beta is a crucial task for algorithmic trading strategies to remain effective and relevant in dynamic market conditions. Two prominent methods that are commonly used to predict future beta values are the Blume and Vasicek beta estimators.
+Estimating and adjusting beta is a crucial task for [algorithmic trading](/wiki/algorithmic-trading) strategies to remain effective and relevant in dynamic market conditions. Two prominent methods that are commonly used to predict future beta values are the Blume and Vasicek beta estimators.
 
 The Blume beta adjustment method offers a straightforward approach by recognizing the tendency of historical betas to regress toward the market average beta of one over time. This regression can be mathematically expressed as:
 

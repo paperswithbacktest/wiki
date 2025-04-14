@@ -18,7 +18,7 @@ These funds are called "Smart Beta" because they mix two ideas: passive investin
 
 Smart Beta ETFs are a type of exchange-traded fund that tries to do better than regular index funds. They don't just follow a big index like the S&P 500. Instead, they use special ways to pick stocks based on things like how big a company is, how fast it's growing, or how much it pays out in dividends. These special ways of choosing stocks are called "factors." By focusing on these factors, Smart Beta ETFs aim to give investors a better return than just following the market.
 
-These ETFs are called "Smart Beta" because they mix two ideas: passive investing, which is easy and low-cost like index funds, and active investing, which tries to pick winners. Smart Beta ETFs use factors to try to beat the market while still being easier to manage than picking individual stocks. But, like any investment, they can still go up and down, and they might not always do better than the market. So, it's important for investors to understand how these ETFs work before deciding to invest.
+These ETFs are called "Smart Beta" because they mix two ideas: passive investing, which is easy and low-cost like index funds, and active investing, which tries to pick winners. Smart Beta ETFs use factors to try to beat the market while still being easier to manage than [picking](/wiki/asset-class-picking) individual stocks. But, like any investment, they can still go up and down, and they might not always do better than the market. So, it's important for investors to understand how these ETFs work before deciding to invest.
 
 ## How do Smart Beta Mutual Funds differ from traditional mutual funds?
 
@@ -48,7 +48,7 @@ Another advantage is that Smart Beta Mutual Funds can help spread out your risk.
 
 Smart Beta ETFs are a good choice for investors because they try to do better than the market in a smart way. They use special rules called "factors" to pick stocks, like looking at how big a company is or how fast it's growing. This means they don't just follow the market but try to beat it. Smart Beta ETFs can give you a chance to get better returns without paying as much as you would for a fund where someone picks all the stocks by hand. They are often cheaper than actively managed funds because they don't need as much work to run.
 
-Another advantage is that Smart Beta ETFs can help spread out your risk. By focusing on different factors, these funds can own a mix of stocks that might do well in different situations. For example, if the market goes up because big companies are doing well, a Smart Beta ETF that focuses on company size might do better than the market. If the market goes up because fast-growing companies are doing well, a fund that focuses on growth might do better. This can help your investments do well in different kinds of markets. Plus, Smart Beta ETFs are easy to buy and sell anytime during the trading day, giving you more flexibility to react to changes in the market.
+Another advantage is that Smart Beta ETFs can help spread out your risk. By focusing on different factors, these funds can own a mix of stocks that might do well in different situations. For example, if the market goes up because big companies are doing well, a Smart Beta [ETF](/wiki/etf-trading-strategies) that focuses on company size might do better than the market. If the market goes up because fast-growing companies are doing well, a fund that focuses on growth might do better. This can help your investments do well in different kinds of markets. Plus, Smart Beta ETFs are easy to buy and sell anytime during the trading day, giving you more flexibility to react to changes in the market.
 
 ## How do the costs compare between Smart Beta Mutual Funds and Smart Beta ETFs?
 
@@ -64,7 +64,7 @@ On the other hand, Smart Beta ETFs usually have fewer tax issues. This is becaus
 
 ## How does the liquidity of Smart Beta Mutual Funds compare to that of Smart Beta ETFs?
 
-Smart Beta Mutual Funds and Smart Beta ETFs have different levels of liquidity. Liquidity means how easy it is to buy or sell your investment. With Smart Beta Mutual Funds, you can only buy or sell them at the end of the trading day. The price you get is based on the value of all the stocks in the fund at the close of the market. This means if you want to sell your mutual fund shares, you have to wait until the end of the day to see how much money you'll get.
+Smart Beta Mutual Funds and Smart Beta ETFs have different levels of [liquidity](/wiki/liquidity-risk-premium). Liquidity means how easy it is to buy or sell your investment. With Smart Beta Mutual Funds, you can only buy or sell them at the end of the trading day. The price you get is based on the value of all the stocks in the fund at the close of the market. This means if you want to sell your mutual fund shares, you have to wait until the end of the day to see how much money you'll get.
 
 On the other hand, Smart Beta ETFs are much more liquid. You can buy or sell them anytime during the trading day, just like you would with regular stocks. The price changes all day long based on what people are willing to pay. This gives you more flexibility to react to changes in the market quickly. If you need to sell your ETF shares in a hurry, you can do it right away, not just at the end of the day like with mutual funds.
 

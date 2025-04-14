@@ -74,7 +74,7 @@ Another improvement is in the equipment used for acidizing. New pumps and tools 
 
 ## What are some advanced acidizing techniques used in complex reservoirs?
 
-In complex reservoirs, where the rock and oil or gas are harder to work with, companies use advanced acidizing techniques to get better results. One technique is called "diverting agents." These are special materials that are pumped into the well along with the acid. They help the acid go into different parts of the rock, not just the easiest paths. This makes sure the acid can reach more of the rock and dissolve it, which helps the oil or gas flow better.
+In complex reservoirs, where the rock and oil or gas are harder to work with, companies use advanced acidizing techniques to get better results. One technique is called "diverting [agents](/wiki/agents)." These are special materials that are pumped into the well along with the acid. They help the acid go into different parts of the rock, not just the easiest paths. This makes sure the acid can reach more of the rock and dissolve it, which helps the oil or gas flow better.
 
 Another advanced technique is "self-diverting acid systems." These are special types of acid that change how they flow as they go into the rock. At first, the acid goes into the easiest paths, but then it changes and starts to go into harder-to-reach areas. This helps the acid work on more of the rock, making more space for the oil or gas to move through. Both of these techniques help companies get more oil or gas out of complex reservoirs by making sure the acid reaches and dissolves more of the rock.
 
@@ -82,7 +82,7 @@ Another advanced technique is "self-diverting acid systems." These are special t
 
 Environmental and regulatory considerations have a big impact on how acidizing is done. Companies have to follow strict rules to make sure the acid does not harm the environment. They need to be careful not to let the acid leak or spill, because it can get into the soil or water and cause damage. To meet these rules, companies use special equipment and safety plans to handle the acid safely. They also have to report what they are doing to the government and get permits before they can start an acidizing job. This helps make sure the environment is protected and the acidizing is done the right way.
 
-Regulations also affect how companies plan and carry out acidizing treatments. They have to do a lot of testing and planning to make sure the acidizing will work well and be safe. This includes studying the rock around the well and figuring out the best type of acid to use. The rules can also limit where and when acidizing can be done, to protect sensitive areas or times of the year. All these considerations make acidizing more complicated, but they help keep the environment safe and make sure the job is done right.
+Regulations also affect how companies plan and [carry](/wiki/carry-trading) out acidizing treatments. They have to do a lot of testing and planning to make sure the acidizing will work well and be safe. This includes studying the rock around the well and figuring out the best type of acid to use. The rules can also limit where and when acidizing can be done, to protect sensitive areas or times of the year. All these considerations make acidizing more complicated, but they help keep the environment safe and make sure the job is done right.
 
 ## What is Understanding Oil Well Stimulation?
 

@@ -54,7 +54,7 @@ In 2017, the JBA made a big change to how TIBOR is calculated. They started usin
 
 TIBOR rates are influenced by many things, but one of the biggest factors is the overall health of the economy. When the economy is doing well, banks might charge each other higher interest rates because they think they can lend money at a higher rate to others. On the other hand, if the economy is not doing so well, banks might charge each other lower interest rates because they are worried about getting their money back. The Bank of Japan, which is like the central bank, also plays a big role. If they decide to change their own interest rates, this can push TIBOR rates up or down.
 
-Another important factor is the supply and demand for money in the market. If there is a lot of money available and not many people wanting to borrow, TIBOR rates might go down. But if everyone wants to borrow money and there isn't enough to go around, TIBOR rates might go up. Global events can also affect TIBOR rates. For example, if something big happens in the world that makes people nervous, like a financial crisis, banks might start charging each other higher rates to be safe.
+Another important [factor](/wiki/factor-investing) is the supply and demand for money in the market. If there is a lot of money available and not many people wanting to borrow, TIBOR rates might go down. But if everyone wants to borrow money and there isn't enough to go around, TIBOR rates might go up. Global events can also affect TIBOR rates. For example, if something big happens in the world that makes people nervous, like a financial crisis, banks might start charging each other higher rates to be safe.
 
 ## How does TIBOR impact the Japanese financial market?
 

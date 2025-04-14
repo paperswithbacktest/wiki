@@ -83,7 +83,7 @@ Another advanced feature is using "pip install --no-deps package_name" to instal
 
 ## How to install Python Packages for Algo Trading?
 
-To install Python packages necessary for algorithmic trading, the `pkg install` command can be a valuable tool when setting up your system. This command is particularly useful for users operating in environments such as FreeBSD or systems that utilize FreeBSD's package management system. However, it's important to note that for most standard Python environments, especially those running on Windows, macOS, or Linux, the `pip` command is typically used instead of `pkg`.
+To install Python packages necessary for [algorithmic trading](/wiki/algorithmic-trading), the `pkg install` command can be a valuable tool when setting up your system. This command is particularly useful for users operating in environments such as FreeBSD or systems that utilize FreeBSD's package management system. However, it's important to note that for most standard Python environments, especially those running on Windows, macOS, or Linux, the `pip` command is typically used instead of `pkg`.
 
 Here's a basic outline of the installation process:
 

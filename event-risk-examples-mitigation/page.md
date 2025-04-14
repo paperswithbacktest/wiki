@@ -90,7 +90,7 @@ The next step is to make sure the company is protected from event risks. Buying 
 
 ## What are effective risk management strategies?
 
-Risk management is an essential component of a successful algorithmic trading strategy. It is crucial for traders to identify, assess, and prioritize risks and implement coordinated efforts to minimize, monitor, and control their impact. This process ensures that trading operations are not only secure but also optimized for performance.
+Risk management is an essential component of a successful [algorithmic trading](/wiki/algorithmic-trading) strategy. It is crucial for traders to identify, assess, and prioritize risks and implement coordinated efforts to minimize, monitor, and control their impact. This process ensures that trading operations are not only secure but also optimized for performance.
 
 One fundamental strategy is the use of stop-loss orders. A stop-loss order is an instruction to sell a security when it reaches a certain price. This approach helps limit potential losses on a trade, acting as an automatic trigger to [exit](/wiki/exit-strategy) a position if the market moves unfavorably. The formula for a stop-loss order can be described mathematically as:
 

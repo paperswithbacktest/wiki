@@ -24,7 +24,7 @@ Later, Réjean became a principal. He was known for leading his school well and
 
 Réjean Dupuis was born in Quebec, Canada. Quebec is a big province in Canada where many people speak French.
 
-He grew up there and later became a teacher. He helped many students learn and wrote books to help other teachers too.
+He grew up there and later became a teacher. He helped many students learn and wrote [books](/wiki/algo-trading-books) to help other teachers too.
 
 ## When was Réjean Dupuis born?
 

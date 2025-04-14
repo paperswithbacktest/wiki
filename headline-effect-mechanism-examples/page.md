@@ -123,7 +123,7 @@ predicted_change = model.predict(new_sentiment)
 print(predicted_change)
 ```
 
-This evolving field continues to seek advancements that can handle complex linguistic nuances and contextual variables, which are crucial for accurately assessing media influence. Currently, the emphasis is on refining these algorithms to differentiate between transient market noise and news with substantial financial impact, contributing to the construction of robust trading systems that promise more consistent investment returns. Such innovations aim to enhance the fidelity of media analysis, providing the financial industry with tools that not only anticipate media-induced volatility but also strategize robustly against it.
+This evolving field continues to seek advancements that can handle complex linguistic nuances and contextual variables, which are crucial for accurately assessing media influence. Currently, the emphasis is on refining these algorithms to differentiate between transient market noise and news with substantial financial impact, contributing to the construction of robust trading systems that promise more consistent investment returns. Such innovations aim to enhance the fidelity of media analysis, providing the financial industry with tools that not only anticipate media-induced [volatility](/wiki/volatility-trading-strategies) but also strategize robustly against it.
 
 ## References & Further Reading
 

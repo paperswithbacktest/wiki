@@ -28,7 +28,7 @@ Another key part of the Vanilla Strategy is to buy and hold your investment over
 
 ## Can you explain the Vanilla Strategy with a simple example?
 
-Imagine you have some money you want to save for the future. Instead of picking out different stocks to buy, you decide to use the Vanilla Strategy. You choose to invest in an S&P 500 index fund. This fund includes a little bit of stock from hundreds of big companies. By doing this, you're not betting on just one company doing well; you're betting on the whole market growing over time.
+Imagine you have some money you want to save for the future. Instead of [picking](/wiki/asset-class-picking) out different stocks to buy, you decide to use the Vanilla Strategy. You choose to invest in an S&P 500 index fund. This fund includes a little bit of stock from hundreds of big companies. By doing this, you're not betting on just one company doing well; you're betting on the whole market growing over time.
 
 Once you've bought into the S&P 500 fund, you don't need to do much. You just leave your money there and let it grow. You don't try to guess when the market will go up or down and then buy or sell based on those guesses. Over many years, as the economy grows, so should your investment. This is a simple way to save for things like retirement without having to watch the market all the time.
 

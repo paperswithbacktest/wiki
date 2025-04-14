@@ -134,7 +134,7 @@ $$
 
 The float is crucial for understanding market liquidity, which significantly impacts trading strategies, particularly in algorithmic trading. A larger float typically indicates higher liquidity, allowing for more seamless execution of trades without causing excessive price fluctuations. Conversely, a smaller float can lead to increased volatility, as even modest trading volumes might significantly impact stock prices.
 
-Algorithmic trading systems use float data for liquidity assessments by analyzing the volume of trades relative to the float. This helps in gauging the capacity to execute large orders without incurring substantial market impact costs. For instance, in Python:
+Algorithmic trading systems use float data for liquidity assessments by analyzing the [volume](/wiki/volume-trading-strategy) of trades relative to the float. This helps in gauging the capacity to execute large orders without incurring substantial market impact costs. For instance, in Python:
 
 ```python
 def liquidity_ratio(trading_volume, float_shares):
@@ -147,9 +147,9 @@ ratio = liquidity_ratio(trading_volume, float_shares)
 print("Liquidity Ratio:", ratio)
 ```
 
-A high liquidity ratio indicates active trading and suggests a suitable environment for high-frequency trading (HFT) strategies, which rely on executing thousands of orders in milliseconds to capitalize on small price movements. In high-frequency trading, float is integral, as these strategies require significant market liquidity to function effectively.
+A high liquidity ratio indicates active trading and suggests a suitable environment for high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) strategies, which rely on executing thousands of orders in milliseconds to capitalize on small price movements. In high-frequency trading, float is integral, as these strategies require significant market liquidity to function effectively.
 
-Float also plays a key role in momentum and other trading strategies. Smaller floats can lead to more pronounced price movements, making stocks of such companies appealing targets for momentum-based algorithms that seek to exploit sharp price shifts. Thus, understanding and analyzing float is essential for optimizing trading strategies across various contexts, ensuring algorithmic systems can make informed decisions based on real-time liquidity dynamics.
+Float also plays a key role in [momentum](/wiki/momentum) and other trading strategies. Smaller floats can lead to more pronounced price movements, making stocks of such companies appealing targets for momentum-based algorithms that seek to exploit sharp price shifts. Thus, understanding and analyzing float is essential for optimizing trading strategies across various contexts, ensuring algorithmic systems can make informed decisions based on real-time liquidity dynamics.
 
 ## References & Further Reading
 

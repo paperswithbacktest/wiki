@@ -122,7 +122,7 @@ In summary, market mechanisms and the concept of a choice market offer profound 
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization." This paper, presented at the Advances in Neural Information Processing Systems (NIPS), explores strategies for optimizing hyper-parameters in machine learning algorithms. The methods discussed can significantly enhance the performance of algorithmic trading systems by fine-tuning models for better predictive accuracy.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization." This paper, presented at the Advances in Neural Information Processing Systems (NIPS), explores strategies for optimizing hyper-parameters in [machine learning](/wiki/machine-learning) algorithms. The methods discussed can significantly enhance the performance of [algorithmic trading](/wiki/algorithmic-trading) systems by fine-tuning models for better predictive accuracy.
 
 "Advances in Financial Machine Learning" by Marcos Lopez de Prado offers a comprehensive guide on applying machine learning techniques to financial markets. The book emphasizes the importance of scientific rigor in developing trading models, including techniques like fractional differentiation and financial feature extraction, which aid in constructing more robust algorithmic trading strategies.
 

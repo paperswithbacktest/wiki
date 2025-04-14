@@ -48,7 +48,7 @@ But if the yield curve goes down, with long-term loans having lower interest rat
 
 ## What is the difference between a spot rate curve and a forward rate curve?
 
-A spot rate curve shows the interest rates you can get right now for loans or bonds that last different amounts of time. It's like a snapshot of what interest rates are today for short, medium, and long-term loans. If you want to know what interest rate you would get if you borrowed money for one year, two years, or ten years starting today, you would look at the spot rate curve. It helps people see how interest rates change over different time periods at the current moment.
+A spot rate curve shows the interest rates you can get right now for loans or bonds that last different amounts of time. It's like a snapshot of what interest rates are today for short, medium, and long-term loans. If you want to know what [interest rate](/wiki/interest-rate-trading-strategies) you would get if you borrowed money for one year, two years, or ten years starting today, you would look at the spot rate curve. It helps people see how interest rates change over different time periods at the current moment.
 
 A forward rate curve, on the other hand, shows what interest rates are expected to be in the future for loans or bonds that start at a later date. It's like a prediction of what interest rates will be if you wait to borrow or lend money. For example, if you want to know what interest rate you might get for a loan that starts in one year and lasts for another year, you would look at the forward rate curve. It helps people plan for the future by showing what interest rates might be at different times ahead.
 
@@ -103,7 +103,7 @@ In conclusion, the term structure of interest rates, as visualized through the y
 ## References & Further Reading
 
 Fabozzi, F. J. (2005). Fixed Income Analysis. John Wiley & Sons.  
-This comprehensive guide investigates into the complexities of fixed income markets, offering insights into pricing, risk management, and the various instruments involved. It is an essential resource for understanding the mechanics underlying the yield curve and its applications in algorithmic trading.
+This comprehensive guide investigates into the complexities of fixed income markets, offering insights into pricing, risk management, and the various instruments involved. It is an essential resource for understanding the mechanics underlying the yield curve and its applications in [algorithmic trading](/wiki/algorithmic-trading).
 
 Campbell, J. Y., Lo, A. W., & MacKinlay, A. C. (1996). The Econometrics of Financial Markets. Princeton University Press.  
 This book provides an in-depth examination of econometric models applied to financial data, including the analysis of yield curves. It equips readers with the statistical tools necessary to interpret market trends and optimize trading strategies based on quantitative insights.

@@ -95,7 +95,7 @@ where $\lambda$ is the average rate of event occurrence per unit time, $e$ is th
 
 In trading, Poisson jumps are integral in modeling and quantifying rare, yet impactful events, such as market crashes or sudden price surges. The occurrence of such jumps can significantly influence market dynamics and affect trading strategies. Additionally, Poisson processes are adept at modeling large order arrivals, which can cause abrupt shifts in market prices.
 
-The utility of the Poisson process in trading lies in its ability to quantify these rare events, enabling traders to incorporate the potential for such events into their risk assessments and trading models. By doing so, traders can better manage their portfolios and adjust their strategies to account for possible volatility.
+The utility of the Poisson process in trading lies in its ability to quantify these rare events, enabling traders to incorporate the potential for such events into their risk assessments and trading models. By doing so, traders can better manage their portfolios and adjust their strategies to account for possible [volatility](/wiki/volatility-trading-strategies).
 
 Moreover, financial markets often experience periods of calm interspersed with sudden, significant price changes. Poisson processes help in capturing these abrupt shifts, thereby providing a more nuanced understanding of market behavior. This understanding allows traders to develop strategies that are robust to the inherent uncertainties and volatilities in financial markets. Traditionally, these insights are incorporated into trading algorithms to optimize execution timing and improve trading performance.
 

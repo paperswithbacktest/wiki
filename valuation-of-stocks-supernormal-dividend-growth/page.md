@@ -36,7 +36,7 @@ Normal dividend growth, on the other hand, is when a company's dividends grow at
 
 When valuing stocks with supernormal dividend growth, the first thing to think about is how long the fast growth will last. This is important because supernormal growth usually doesn't go on forever. You need to guess when the company will slow down and start growing at a normal rate again. This can be tricky because it depends on things like how well the company keeps doing, what's happening in the market, and if there are any new competitors.
 
-Another key factor is what the dividends will be after the supernormal growth ends. Once the company's growth slows down, the dividends will probably grow at a more normal rate. You need to figure out what that normal rate will be and how it will affect the stock's value. This helps you understand if the stock is a good buy now, even though the big dividends won't last forever.
+Another key [factor](/wiki/factor-investing) is what the dividends will be after the supernormal growth ends. Once the company's growth slows down, the dividends will probably grow at a more normal rate. You need to figure out what that normal rate will be and how it will affect the stock's value. This helps you understand if the stock is a good buy now, even though the big dividends won't last forever.
 
 Lastly, you should also think about the risks. Stocks with supernormal dividend growth can be more risky because they depend a lot on the company keeping up its fast growth. If the company can't do that, the stock's value could drop a lot. So, it's important to look at the company's overall health, its plans for the future, and how it's doing compared to other companies in the same industry.
 

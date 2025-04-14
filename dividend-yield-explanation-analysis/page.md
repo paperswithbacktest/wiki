@@ -24,7 +24,7 @@ This percentage tells you how much income you can expect to earn from the divide
 
 Dividend yield is important for investors because it shows how much money they can earn from a stock just by holding it. If you own a stock that pays dividends, the dividend yield tells you what percentage of the stock's price you'll get back each year in dividends. This is really helpful for people who want to make money from their investments without selling their stocks. For example, if you're saving for retirement, a high dividend yield can give you a steady income to live on.
 
-But, it's not just about picking the stock with the highest dividend yield. Sometimes, a very high yield can be a warning sign. It might mean the company is having problems and the stock price has dropped a lot, making the yield look high. So, investors need to look at other things too, like how well the company is doing and if they can keep paying those dividends. It's all about finding a balance between getting a good income from dividends and making sure the company is strong and stable.
+But, it's not just about [picking](/wiki/asset-class-picking) the stock with the highest dividend yield. Sometimes, a very high yield can be a warning sign. It might mean the company is having problems and the stock price has dropped a lot, making the yield look high. So, investors need to look at other things too, like how well the company is doing and if they can keep paying those dividends. It's all about finding a balance between getting a good income from dividends and making sure the company is strong and stable.
 
 ## What is considered a good dividend yield?
 

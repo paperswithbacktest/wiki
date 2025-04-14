@@ -108,7 +108,7 @@ Earnings reports significantly influence investor sentiment and market movements
 
 ## How can earnings data be integrated into algorithmic trading strategies?
 
-Integrating earnings data into algorithmic trading strategies is crucial for optimizing trade outcomes and enhancing profitability. Earnings reports provide timely and accurate information that can be leveraged to create precise trading signals and adjust existing strategies. The importance of this data lies in its ability to reflect a company's financial health, influencing stock prices significantly. When processed efficiently, earnings data can offer predictive insights, enabling traders to capitalize on stock movements effectively.
+Integrating earnings data into [algorithmic trading](/wiki/algorithmic-trading) strategies is crucial for optimizing trade outcomes and enhancing profitability. Earnings reports provide timely and accurate information that can be leveraged to create precise trading signals and adjust existing strategies. The importance of this data lies in its ability to reflect a company's financial health, influencing stock prices significantly. When processed efficiently, earnings data can offer predictive insights, enabling traders to capitalize on stock movements effectively.
 
 Earnings data can trigger trading signals through predefined strategies. For instance, a strategy may involve setting buy signals if a company's reported earnings exceed analyst expectations by a certain percentage. Conversely, sell signals could be triggered if earnings fall below forecasts. The quantitative nature of such data lends itself well to algorithmic parsing, allowing traders to react within milliseconds of the data release.
 
@@ -120,7 +120,7 @@ $$
 
 This metric could serve as a condition in trade algorithms to execute buy/sell orders based on the calculated surprise value exceeding predefined thresholds.
 
-Machine learning (ML) and [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) play a pivotal role in the analysis and prediction of earnings outcomes. By using historical earnings data, machine learning models can be trained to predict future earnings with greater accuracy. These models can recognize patterns and trends that human traders might overlook. For example, a [neural network](/wiki/neural-network) could be employed to parse various [factor](/wiki/factor-investing)s including past earnings, market sentiment, and macroeconomic data, to predict future earnings surprises.
+Machine learning (ML) and [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) play a pivotal role in the analysis and prediction of earnings outcomes. By using historical earnings data, [machine learning](/wiki/machine-learning) models can be trained to predict future earnings with greater accuracy. These models can recognize patterns and trends that human traders might overlook. For example, a [neural network](/wiki/neural-network) could be employed to parse various [factor](/wiki/factor-investing)s including past earnings, market sentiment, and macroeconomic data, to predict future earnings surprises.
 
 Moreover, the application of natural language processing (NLP) can enhance the analysis by interpreting text from earnings reports or conference calls, extracting sentiment, and detecting subtle indicators of company performance.
 

@@ -128,7 +128,7 @@ This script calculates the BEY with given parameters for face value, purchase pr
 
 Investopedia: Bond Equivalent Yield - This resource provides a comprehensive overview of the Bond Equivalent Yield (BEY), detailing its significance, calculation methods, and applications. It is an essential reference for investors aiming to understand the intricacies of yield calculations and their impact on investment decisions.
 
-Algorithmic Trading Resources and Libraries - A collection of resources and libraries that offer insights into algorithmic trading strategies, tools, and programming frameworks. These materials are invaluable for those looking to enhance their knowledge of algorithm automation and implementation in financial markets.
+Algorithmic Trading Resources and Libraries - A collection of resources and libraries that offer insights into [algorithmic trading](/wiki/algorithmic-trading) strategies, tools, and programming frameworks. These materials are invaluable for those looking to enhance their knowledge of algorithm automation and implementation in financial markets.
 
 Wall Street Mojo: Bond Equivalent Yield Examples and Calculations - This reference offers practical examples and step-by-step calculations of BEY. It is particularly useful for those seeking to comprehend the application of BEY in real-world scenarios, providing clarity through detailed examples and case studies.
 

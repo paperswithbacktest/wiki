@@ -82,7 +82,7 @@ On the other hand, the Johansen test can check for cointegration among more than
 
 ## What is the Application of CADF in Algorithmic Trading?
 
-Algorithmic trading leverages the precision and speed of computers to execute trades based on quantitative models, and the Cointegrating Augmented Dickey-Fuller (CADF) Test significantly contributes to these strategies by facilitating [statistical arbitrage](/wiki/statistical-arbitrage). Statistical arbitrage exploits pricing inefficiencies between related assets, and pairs trading—where two cointegrated assets are traded against each other—is a classic example.
+Algorithmic trading leverages the precision and speed of computers to execute trades based on quantitative models, and the Cointegrating Augmented Dickey-Fuller (CADF) Test significantly contributes to these strategies by facilitating [statistical [arbitrage](/wiki/arbitrage)](/wiki/statistical-arbitrage). Statistical arbitrage exploits pricing inefficiencies between related assets, and pairs trading—where two cointegrated assets are traded against each other—is a classic example.
 
 The CADF Test equips traders with a methodical technique to identify pairs of assets that share a long-term equilibrium relationship despite individual non-stationary behavior. This cointegration indicates that while prices may fluctuate independently in the short term, they exhibit a mean-reverting behavior in the long run. Hence, the preference for cointegrated pairs lies in their predictable spread behavior, crucial for pairs trading strategies.
 
@@ -194,7 +194,7 @@ Where $\alpha$ and $\beta$ are regression coefficients and $\epsilon$ represents
 
 ### Comparison with Known Benchmarks
 
-In practice, the CADF Test on EWA and EWC results in the discovery of a hedge ratio ($\beta$), enabling traders to construct mean-reversion strategies. Algorithmic trading experts generally benchmark such strategies by assessing their cumulative returns against those of established statistical arbitrage methods. Typically, a successful CADF application results in a Sharpe ratio exceeding that of unhedged positions or other conventional metrics.
+In practice, the CADF Test on EWA and EWC results in the discovery of a hedge ratio ($\beta$), enabling traders to construct mean-reversion strategies. Algorithmic trading experts generally benchmark such strategies by assessing their cumulative returns against those of established [statistical arbitrage](/wiki/statistical-arbitrage) methods. Typically, a successful CADF application results in a Sharpe ratio exceeding that of unhedged positions or other conventional metrics.
 
 For our case, assuming stationary residuals, the hedge ratio derived coincides with that of strategies deployed by professional statistical arbitrage funds, indicating robust performance in terms of risk-adjusted returns. This alignment with established benchmarks validates the efficacy of CADF as part of a broader trading strategy.
 

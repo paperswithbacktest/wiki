@@ -34,7 +34,7 @@ The main difference between a general binary option and an asset-or-nothing call
 
 ## What are the key factors that influence the pricing of an asset-or-nothing call option?
 
-The price of an asset-or-nothing call option depends on a few important things. One big factor is how likely it is that the price of the asset will be above the strike price when the option ends. If people think the price will go up a lot, the option will be more expensive because there's a higher chance you'll get the asset. Another factor is how long the option lasts. The longer the option is valid, the more time there is for the price to go up, which can make the option more expensive.
+The price of an asset-or-nothing call option depends on a few important things. One big [factor](/wiki/factor-investing) is how likely it is that the price of the asset will be above the strike price when the option ends. If people think the price will go up a lot, the option will be more expensive because there's a higher chance you'll get the asset. Another factor is how long the option lasts. The longer the option is valid, the more time there is for the price to go up, which can make the option more expensive.
 
 Another key thing is how much the price of the asset can move around, which is called volatility. If the price moves a lot, the option can be pricier because there's a bigger chance the price will jump above the strike price. Also, the interest rates and any dividends the asset might pay can affect the price. If interest rates are high or the asset pays a lot in dividends, it can change how much people are willing to pay for the option.
 

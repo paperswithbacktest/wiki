@@ -30,7 +30,7 @@ Old mutual funds are interesting because they show how investing has changed ove
 
 One benefit of investing in older mutual funds is that they have a long history you can look at. This history can show you how the fund has done through good times and bad times in the market. By looking at this history, you can get a better idea of how the fund might do in the future. This can help you feel more sure about your investment choice.
 
-Another benefit is that older mutual funds often have a lot of experience managing money. The people who run these funds have been doing it for a long time, so they know a lot about investing. They might be better at picking good investments and making smart choices about where to put the fund's money. This experience can help the fund do well over time.
+Another benefit is that older mutual funds often have a lot of experience managing money. The people who run these funds have been doing it for a long time, so they know a lot about investing. They might be better at [picking](/wiki/asset-class-picking) good investments and making smart choices about where to put the fund's money. This experience can help the fund do well over time.
 
 Also, older mutual funds might have a strong reputation. People trust them because they've been around for a long time and have a good track record. This trust can make the fund more stable, and it might attract more investors. More investors can mean more money in the fund, which can help it grow even more.
 
@@ -108,7 +108,7 @@ Algorithmic trading has significantly altered the landscape of mutual fund manag
 
 The efficiency of [algorithmic trading](/wiki/algorithmic-trading) is achieved through high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), where vast volumes of trades are executed in fractions of a second. This approach allows mutual funds to capitalize on minute price discrepancies that might otherwise be unavailable through manual trading practices. The use of quantitative models ensures systematic, data-driven decisions, which reduces the risk of emotional or impulse-based trading.
 
-Algorithms used in mutual fund management typically focus on statistical [arbitrage](/wiki/arbitrage), where perceived inefficiencies in pricing are exploited, or [market making](/wiki/market-making), where the fund provides liquidity to the market by being ready to buy or sell certain securities at publicly quoted prices. Furthermore, [machine learning](/wiki/machine-learning) techniques are increasingly being integrated to improve predictive accuracy and adapt dynamically to changing market conditions.
+Algorithms used in mutual fund management typically focus on statistical [arbitrage](/wiki/arbitrage), where perceived inefficiencies in pricing are exploited, or [market making](/wiki/market-making), where the fund provides [liquidity](/wiki/liquidity-risk-premium) to the market by being ready to buy or sell certain securities at publicly quoted prices. Furthermore, [machine learning](/wiki/machine-learning) techniques are increasingly being integrated to improve predictive accuracy and adapt dynamically to changing market conditions.
 
 One commonly used algorithmic strategy is the mean reversion strategy, which is based on the assumption that the price of a security will revert to its historical mean. The algorithm will trigger a buy order when the price is significantly below its average and a sell order when it rises above. Mathematically, a simple example of this can be defined as:
 

@@ -68,7 +68,7 @@ A third type of advanced GAN is the CycleGAN. CycleGANs are good at changing the
 
 ## How do GANs contribute to the field of artificial intelligence?
 
-GANs, or Generative Adversarial Networks, help make artificial intelligence better by creating new things that look or sound real. They do this by using two parts: a generator that makes new things and a discriminator that checks if they are real or fake. This back-and-forth process helps the generator get better at making things that are hard to tell from real ones. This is useful for making pictures, music, and other things that can be used in many different ways. For example, GANs can help artists make new images or help fashion designers create new clothes. They can also improve old photos or change the style of music, making them very helpful in creative fields.
+GANs, or Generative Adversarial Networks, help make [artificial intelligence](/wiki/ai-artificial-intelligence) better by creating new things that look or sound real. They do this by using two parts: a generator that makes new things and a discriminator that checks if they are real or fake. This back-and-forth process helps the generator get better at making things that are hard to tell from real ones. This is useful for making pictures, music, and other things that can be used in many different ways. For example, GANs can help artists make new images or help fashion designers create new clothes. They can also improve old photos or change the style of music, making them very helpful in creative fields.
 
 GANs also help in other areas of artificial intelligence, like making data for training other AI models. Sometimes, it's hard to get enough real data to teach an AI model, but GANs can make more data that looks real. This can help the AI model learn better and work better. GANs can also help with tasks like making things look different, like turning a summer scene into a winter one, or changing the style of a picture. This shows how GANs can be used in many different ways to make artificial intelligence more powerful and useful.
 
@@ -86,7 +86,7 @@ Another thing that might happen is that people will find new uses for GANs. They
 
 ## What are Generative Adversarial Networks and how do they work?
 
-Generative Adversarial Networks (GANs) are a class of machine learning frameworks invented by Ian Goodfellow and his colleagues in 2014. These networks are composed of two competing neural networks, known as the generator and the discriminator. The generator's primary function is to create synthetic data that mirrors real data, while the discriminator's role is to evaluate the authenticity of the data presented to it. This adversarial setup resembles a two-player game, with the generator aiming to fool the discriminator by producing more realistic data over time.
+Generative Adversarial Networks (GANs) are a class of [machine learning](/wiki/machine-learning) frameworks invented by Ian Goodfellow and his colleagues in 2014. These networks are composed of two competing neural networks, known as the generator and the discriminator. The generator's primary function is to create synthetic data that mirrors real data, while the discriminator's role is to evaluate the authenticity of the data presented to it. This adversarial setup resembles a two-player game, with the generator aiming to fool the discriminator by producing more realistic data over time.
 
 ### Mechanics of GANs
 

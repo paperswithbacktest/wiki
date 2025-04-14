@@ -52,7 +52,7 @@ Using this formula, you can plug in the numbers for S, K, T, r, and σ to find o
 
 ## What Python libraries are commonly used for option pricing?
 
-When it comes to option pricing in Python, there are a few libraries that people often use. One of the most popular is NumPy, which is great for doing math and working with numbers. It helps with the calculations needed for models like Black-Scholes. Another useful library is SciPy, which has tools for statistics and optimization. It can help you find values from the standard normal distribution, which is important for the Black-Scholes formula.
+When it comes to option pricing in Python, there are a few libraries that people often use. One of the most popular is NumPy, which is great for doing math and working with numbers. It helps with the calculations needed for models like Black-Scholes. Another useful library is SciPy, which has tools for [statistics](/wiki/bayesian-statistics) and optimization. It can help you find values from the standard normal distribution, which is important for the Black-Scholes formula.
 
 There's also a library called QuantLib, which is made just for financial calculations. It has a lot of built-in functions for pricing different types of options, including European options. QuantLib is really helpful if you want to do more complex financial analysis. Lastly, some people use Pandas for handling data. It's good for organizing and analyzing information about stocks and options. These libraries together make it easier to price options and understand how they work.
 
@@ -253,11 +253,11 @@ plt.legend()
 plt.show()
 ```
 
-By integrating these computational approaches with Python, traders can derive efficient and accurate options prices, forming a solid foundation for algorithmic trading strategies.
+By integrating these computational approaches with Python, traders can derive efficient and accurate options prices, forming a solid foundation for [algorithmic trading](/wiki/algorithmic-trading) strategies.
 
 ## How can options pricing be integrated into algo trading strategies?
 
-Incorporating options pricing into algorithmic trading strategies enhances the ability to make accurate predictions and informed trading decisions. Accurate options pricing empowers traders to optimize their strategies by providing real-time insights into market conditions and potential price movements. This section explores how to effectively integrate options pricing into algorithmic trading strategies, highlighting strategic benefits, backtesting techniques, handling real-time data, and tools for deploying Python-based systems.
+Incorporating options pricing into algorithmic trading strategies enhances the ability to make accurate predictions and informed trading decisions. Accurate options pricing empowers traders to optimize their strategies by providing real-time insights into market conditions and potential price movements. This section explores how to effectively integrate options pricing into algorithmic trading strategies, highlighting strategic benefits, [backtesting](/wiki/backtesting) techniques, handling real-time data, and tools for deploying Python-based systems.
 
 ### Incorporating Options Pricing into Trading Strategies
 

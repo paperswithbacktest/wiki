@@ -72,7 +72,7 @@ Another pitfall is recording the whole prepaid expense as an expense right away 
 
 Software tools can help a lot when it comes to managing and recording prepaid expenses. They make it easier for a company to keep track of when it pays for things like insurance or rent in advance. The software can automatically set up the payment as an asset on the balance sheet right away. This means the company doesn't have to remember to do it themselves, which can help prevent mistakes.
 
-Over time, as the company uses what it paid for, the software can also move a little bit of the prepaid expense to the income statement each month. For example, if the company paid for a year of insurance, the software can automatically record one month's worth of the insurance cost as an expense each month. This makes the financial reports more accurate and helps the company keep its books in order without having to do everything by hand.
+Over time, as the company uses what it paid for, the software can also move a little bit of the prepaid expense to the income statement each month. For example, if the company paid for a year of insurance, the software can automatically record one month's worth of the insurance cost as an expense each month. This makes the financial reports more accurate and helps the company keep its [books](/wiki/algo-trading-books) in order without having to do everything by hand.
 
 ## What advanced strategies can be used for optimizing the management of prepaid expenses in large organizations?
 

@@ -98,5 +98,5 @@ On the other hand, paying a special dividend can also have good effects on a com
    - Stay updated with recent changes in taxation laws by following publications from tax consultancy firms like Deloitte or PwC, which provide frequent updates on tax reforms. Their websites offer a plethora of articles and whitepapers on evolving tax implications for dividend income. Access [Deloitte's publications](https://www2.deloitte.com/us/en/insights.html) and [PwC's insights](https://www.pwc.com/gx/en/insights.html).
    - For recent trends in algorithmic trading, the "Automated Trader" magazine publishes insights and forecasts regarding the future of trading technology. Their articles can be accessed at [automatedtrader.net](http://www.automatedtrader.net).
 
-Readers are encouraged to explore these resources to broaden their understanding of investment income, taxation intricacies, and the strategic implementation of algorithmic trading.
+Readers are encouraged to explore these resources to broaden their understanding of investment income, taxation intricacies, and the strategic implementation of [algorithmic trading](/wiki/algorithmic-trading).
 

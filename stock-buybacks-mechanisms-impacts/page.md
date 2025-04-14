@@ -26,7 +26,7 @@ Sometimes, companies also use buybacks to show they are confident about their fu
 
 When a company does a stock buyback, it can make the share price go up. This happens because the company is buying its own shares from the market, which means there are fewer shares left for people to buy. With fewer shares available, each share becomes more valuable because the company's earnings are now divided among fewer shares. It's like if you have a pizza and you take away some slices, the remaining slices are a bigger part of the pizza.
 
-Also, when a company buys back its shares, it can send a message to investors that the company thinks its stock is a good deal. This can make investors feel more confident about the company, which might make them want to buy more shares. If more people want to buy the stock, the price can go up because of higher demand. But, it's important to remember that many things can affect a stock's price, and a buyback is just one factor.
+Also, when a company buys back its shares, it can send a message to investors that the company thinks its stock is a good deal. This can make investors feel more confident about the company, which might make them want to buy more shares. If more people want to buy the stock, the price can go up because of higher demand. But, it's important to remember that many things can affect a stock's price, and a buyback is just one [factor](/wiki/factor-investing).
 
 ## What are the different methods companies use to execute stock buybacks?
 

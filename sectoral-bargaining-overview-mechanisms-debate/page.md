@@ -48,7 +48,7 @@ Another problem is that sectoral bargaining can make it more expensive for emplo
 
 Sectoral bargaining can help raise wage levels across an entire industry. When workers and employers in a sector come together to talk about pay, they often set a standard wage that everyone gets, no matter which company they work for. This can mean higher wages for everyone in the industry, especially for workers in smaller companies who might not have as much power to negotiate on their own. By setting a common wage, sectoral bargaining can lift the pay of many workers at once, making sure that people doing the same job earn the same amount.
 
-Sectoral bargaining can also help reduce income inequality. When everyone in an industry gets the same pay and benefits, it can close the gap between workers at different companies. This means that workers don't have to worry about earning less just because they work for a smaller or less profitable company. By setting industry-wide standards, sectoral bargaining can make things fairer for everyone, helping to even out the differences in income that can happen when companies negotiate wages on their own.
+Sectoral bargaining can also help reduce income inequality. When everyone in an industry gets the same pay and benefits, it can close the gap between workers at different companies. This means that workers don't have to worry about [earning](/wiki/earning-announcement) less just because they work for a smaller or less profitable company. By setting industry-wide standards, sectoral bargaining can make things fairer for everyone, helping to even out the differences in income that can happen when companies negotiate wages on their own.
 
 ## What role do unions play in sectoral bargaining?
 

@@ -126,7 +126,7 @@ To illustrate, consider a technology firm reporting a net income driven by signi
 
 ## What are the interconnections between Operating Cash Flow, Net Income, and Algo Trading?
 
-Investors use operating cash flow and net income data in algo trading strategies by integrating these financial metrics into quantitative models that drive trading decisions. Operating cash flow offers a snapshot of a company's liquidity by revealing cash generated from core operations. This metric complements net income, which shows profitability but doesn't account for cash movements. Quantitative analysis is central to developing algorithmic trading models, which employ statistical and mathematical tools to analyze financial data and execute trades based on pre-set conditions.
+Investors use operating cash flow and net income data in algo trading strategies by integrating these financial metrics into quantitative models that drive trading decisions. Operating cash flow offers a snapshot of a company's liquidity by revealing cash generated from core operations. This metric complements net income, which shows profitability but doesn't account for cash movements. Quantitative analysis is central to developing [algorithmic trading](/wiki/algorithmic-trading) models, which employ statistical and mathematical tools to analyze financial data and execute trades based on pre-set conditions.
 
 A typical algorithm might incorporate both operating cash flow and net income to assess a company's financial health. For instance, an algorithm could use a formula such as:
 

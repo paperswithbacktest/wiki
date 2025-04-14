@@ -188,7 +188,7 @@ Essentially, by integrating EV with these metrics, investors gain a multifaceted
 
 ## References & Further Reading
 
-For those seeking to expand their understanding of enterprise value (EV) and algorithmic trading, several academic and professional resources offer comprehensive insights and analyses. Below are recommended readings and resources that cover the various nuances and applications of these concepts in the financial sector:
+For those seeking to expand their understanding of enterprise value (EV) and [algorithmic trading](/wiki/algorithmic-trading), several academic and professional resources offer comprehensive insights and analyses. Below are recommended readings and resources that cover the various nuances and applications of these concepts in the financial sector:
 
 ### Books
 

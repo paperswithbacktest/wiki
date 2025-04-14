@@ -99,11 +99,11 @@ where:
 - $Q_i$ is the quantity of the trade,
 - $n$ is the total number of trades.
 
-Traders leveraging VWAP aim to execute their trades at prices as close to the VWAP as possible, balancing between participating in natural market liquidity and minimizing market impact. VWAP is particularly effective in stable market conditions where volume distribution is predictable.
+Traders leveraging VWAP aim to execute their trades at prices as close to the VWAP as possible, balancing between participating in natural market [liquidity](/wiki/liquidity-risk-premium) and minimizing market impact. VWAP is particularly effective in stable market conditions where volume distribution is predictable.
 
 ### Time-Weighted Average Price (TWAP)
 
-TWAP is another algorithmic trading strategy popular for its simplicity and utility in environments with less predictable volume patterns. It involves distributing orders evenly over the desired execution period, which helps in achieving an average price, mitigating the risks associated with concentrated trading.
+TWAP is another [algorithmic trading](/wiki/algorithmic-trading) strategy popular for its simplicity and utility in environments with less predictable volume patterns. It involves distributing orders evenly over the desired execution period, which helps in achieving an average price, mitigating the risks associated with concentrated trading.
 
 #### TWAP Implementation in Python:
 
@@ -133,7 +133,7 @@ The choice of VWAP, TWAP, or other custom algorithms largely depends on market c
 
 ### Strategic Considerations
 
-Employing algorithmic trading tools requires a thorough understanding of market conditions and the strategic goals of the trade. Traders must consider factors such as market volatility, volume patterns, and execution speed. Additionally, the continuous evolution of trading technology necessitates regular strategy reviews and updates to ensure alignment with the latest market dynamics and regulatory standards. 
+Employing algorithmic trading tools requires a thorough understanding of market conditions and the strategic goals of the trade. Traders must consider factors such as market [volatility](/wiki/volatility-trading-strategies), volume patterns, and execution speed. Additionally, the continuous evolution of trading technology necessitates regular strategy reviews and updates to ensure alignment with the latest market dynamics and regulatory standards. 
 
 In conclusion, understanding and implementing VWAP and TWAP strategies, along with other algorithmic tools, is essential for achieving optimal trade execution and minimizing market impact, thereby contributing to more efficient market participation.
 

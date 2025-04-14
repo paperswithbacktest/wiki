@@ -22,7 +22,7 @@ To use the DDM, you need to guess how much the company will pay in dividends eac
 
 ## What are the key assumptions of the Dividend Discount Model?
 
-The Dividend Discount Model assumes that dividends are the main reason people invest in stocks. It believes that the value of a stock today comes from adding up all the future dividends it will pay, but you have to adjust those future payments to what they're worth now. This adjustment is done using a discount rate, which is like an interest rate that shows how much you value money now compared to money you'll get later.
+The Dividend Discount Model assumes that dividends are the main reason people invest in stocks. It believes that the value of a stock today comes from adding up all the future dividends it will pay, but you have to adjust those future payments to what they're worth now. This adjustment is done using a discount rate, which is like an [interest rate](/wiki/interest-rate-trading-strategies) that shows how much you value money now compared to money you'll get later.
 
 Another important assumption is that the company will keep paying dividends forever. This means the model works best for companies that have a history of paying steady dividends and are expected to keep doing so. If a company doesn't pay dividends or if its dividends are unpredictable, the DDM might not be the best way to figure out its value.
 

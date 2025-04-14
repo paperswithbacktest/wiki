@@ -48,7 +48,7 @@ Some states, like Georgia and Wyoming, have a minimum wage that is lower than th
 
 People who want to increase the minimum wage say it helps workers earn enough money to live on. They argue that the cost of living goes up over time, and if the minimum wage stays the same, workers can't afford things like rent, food, and healthcare. By raising the minimum wage, workers would have more money to spend on their needs, which would make their lives better. This could also help reduce poverty because more people would be able to earn enough to support themselves and their families.
 
-Another argument is that increasing the minimum wage can be good for the economy. When workers earn more money, they can spend more on goods and services. This can help businesses grow because more people are buying things. It can also lead to less need for government help programs because workers are earning more on their own. Some studies show that raising the minimum wage doesn't always lead to fewer jobs, as businesses might find other ways to save money or increase prices a little bit to cover the higher wages.
+Another argument is that increasing the minimum wage can be good for the economy. When workers earn more money, they can spend more on goods and services. This can help businesses grow because more people are buying things. It can also lead to less need for government help programs because workers are [earning](/wiki/earning-announcement) more on their own. Some studies show that raising the minimum wage doesn't always lead to fewer jobs, as businesses might find other ways to save money or increase prices a little bit to cover the higher wages.
 
 ## What are the arguments against increasing the minimum wage?
 

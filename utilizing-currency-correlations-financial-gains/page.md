@@ -22,7 +22,7 @@ It's also helpful to use charting software, which is often available for free on
 
 ## What are the most common currency pairs and their typical correlations?
 
-The most common currency pairs in forex trading are called the "majors." These include pairs like EUR/USD, USD/JPY, GBP/USD, and USD/CHF. The EUR/USD and GBP/USD often move in the same direction because both the euro and the British pound can be seen as alternatives to the US dollar. On the other hand, the USD/JPY and USD/CHF typically have a negative correlation with EUR/USD and GBP/USD. This means when the US dollar goes up against the euro or the pound, it often goes down against the Japanese yen or the Swiss franc.
+The most common currency pairs in [forex](/wiki/forex-system) trading are called the "majors." These include pairs like EUR/USD, USD/JPY, GBP/USD, and USD/CHF. The EUR/USD and GBP/USD often move in the same direction because both the euro and the British pound can be seen as alternatives to the US dollar. On the other hand, the USD/JPY and USD/CHF typically have a negative correlation with EUR/USD and GBP/USD. This means when the US dollar goes up against the euro or the pound, it often goes down against the Japanese yen or the Swiss franc.
 
 Another important pair to watch is AUD/USD, which is the Australian dollar against the US dollar. The AUD/USD often moves in the opposite direction of USD/JPY. This is because the Australian economy is closely tied to commodity prices, which can affect its currency differently than the yen, which is influenced more by Japan's economic policies. Understanding these typical correlations can help traders make better decisions, but remember that correlations can change over time, so it's good to keep checking them.
 

@@ -44,7 +44,7 @@ There are also mega cap companies in other industries, like Johnson & Johnson in
 
 ## What are the key factors that contribute to a company reaching mega cap status?
 
-Reaching mega cap status means a company has grown very big and valuable. One key factor is innovation. Companies like Apple and Microsoft got to mega cap status by making new and useful products that people want to buy. They keep coming up with new ideas and improving their products, which helps them stay ahead of other companies. Another factor is strong leadership. Good leaders make smart decisions and guide the company to grow and make more money. They also know how to use the company's money wisely to invest in new projects and expand the business.
+Reaching mega cap status means a company has grown very big and valuable. One key [factor](/wiki/factor-investing) is innovation. Companies like Apple and Microsoft got to mega cap status by making new and useful products that people want to buy. They keep coming up with new ideas and improving their products, which helps them stay ahead of other companies. Another factor is strong leadership. Good leaders make smart decisions and guide the company to grow and make more money. They also know how to use the company's money wisely to invest in new projects and expand the business.
 
 Another important factor is having a big and loyal customer base. Mega cap companies like Amazon and Google have millions of people using their services every day. They keep their customers happy by offering good products and services at fair prices. This helps them make a lot of money and grow even bigger. Finally, being in the right industry at the right time can help a company reach mega cap status. For example, technology and healthcare are growing fast, so companies in these industries have a good chance to become very big and valuable.
 
@@ -108,7 +108,7 @@ Overall, understanding market capitalization enables investors and analysts to e
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). 'Algorithms for Hyper-Parameter Optimization.' Advances in Neural Information Processing Systems 24. This article provides a comprehensive examination of algorithms developed to optimize hyper-parameters in machine learning, which plays a pivotal role in refining algorithmic trading models.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). 'Algorithms for Hyper-Parameter Optimization.' Advances in Neural Information Processing Systems 24. This article provides a comprehensive examination of algorithms developed to optimize hyper-parameters in [machine learning](/wiki/machine-learning), which plays a pivotal role in refining [algorithmic trading](/wiki/algorithmic-trading) models.
 
 Lopez de Prado, M. (2018). 'Advances in Financial Machine Learning.' Lopez de Prado addresses the intersection of finance and machine learning, offering insights into how advanced algorithms can be leveraged to improve decision-making and market predictions, highlighting the relevance of these technologies in algorithmic trading.
 

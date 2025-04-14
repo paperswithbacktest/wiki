@@ -30,7 +30,7 @@ Then, there are the amounts of money for each account. One amount goes in the de
 
 ## Why is maintaining a journal important for investors?
 
-Keeping a journal is really helpful for investors because it lets them write down why they made certain investment choices. When you note down the reasons for buying or selling stocks, you can look back and see if those reasons were good or not. This helps investors learn from their past decisions and get better at picking investments. They can also see how things like market news or personal goals influenced their choices, which makes their future decisions smarter.
+Keeping a journal is really helpful for investors because it lets them write down why they made certain investment choices. When you note down the reasons for buying or selling stocks, you can look back and see if those reasons were good or not. This helps investors learn from their past decisions and get better at [picking](/wiki/asset-class-picking) investments. They can also see how things like market news or personal goals influenced their choices, which makes their future decisions smarter.
 
 Also, a journal helps investors keep track of how their investments are doing over time. By writing down the performance of their investments, they can spot patterns and figure out what works best for them. This can lead to making changes to their investment strategy to make more money or avoid losses. Overall, a journal is a tool that helps investors grow and improve by reflecting on their past actions and planning for the future.
 
@@ -108,7 +108,7 @@ In conclusion, an investing journal is an invaluable resource for investors seek
 
 ## How can a Trading Journal Enhance Trade Performance?
 
-A trading journal is an essential tool for traders who aim to enhance their performance by systematically documenting and analyzing their trades. Unlike an investing journal, which focuses on long-term investment decisions, a trading journal concentrates on short-term trading activities. This journal serves as a comprehensive record of each trade, capturing entry and exit points, the rationale behind the trading decisions, emotions experienced during the trade, and the outcome. The goal is to provide insights that can help refine strategies, manage risks, and learn from past errors.
+A trading journal is an essential tool for traders who aim to enhance their performance by systematically documenting and analyzing their trades. Unlike an investing journal, which focuses on long-term investment decisions, a trading journal concentrates on short-term trading activities. This journal serves as a comprehensive record of each trade, capturing entry and [exit](/wiki/exit-strategy) points, the rationale behind the trading decisions, emotions experienced during the trade, and the outcome. The goal is to provide insights that can help refine strategies, manage risks, and learn from past errors.
 
 **Risk Management and Strategy Tracking**
 

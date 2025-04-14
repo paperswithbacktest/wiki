@@ -74,7 +74,7 @@ Another misconception is that a wider confidence interval means your guess is wr
 
 ## How do you calculate confidence intervals for non-normal distributions?
 
-When data doesn't follow a normal distribution, calculating confidence intervals can be a bit trickier, but there are ways to do it. One common method is to use something called bootstrapping. This means you take your sample data and pretend like it's the whole group. You then make lots of new samples by randomly picking from your original data, with replacement. This means you can pick the same number more than once. For each new sample, you find the average or proportion you're interested in. Then, you use these averages or proportions to make a range that you think includes the true value. This range is your confidence interval.
+When data doesn't follow a normal distribution, calculating confidence intervals can be a bit trickier, but there are ways to do it. One common method is to use something called bootstrapping. This means you take your sample data and pretend like it's the whole group. You then make lots of new samples by randomly [picking](/wiki/asset-class-picking) from your original data, with replacement. This means you can pick the same number more than once. For each new sample, you find the average or proportion you're interested in. Then, you use these averages or proportions to make a range that you think includes the true value. This range is your confidence interval.
 
 Another way to handle non-normal data is to use a different kind of distribution that fits your data better. For example, if your data is really skewed, you might use something called the log-normal distribution. You can also use something called the non-parametric approach, which doesn't assume your data follows any specific distribution. In this method, you rank your data and use these ranks to find a confidence interval. These methods help you make a good guess about the true average or proportion, even when your data doesn't follow a normal bell-shaped curve.
 
@@ -86,7 +86,7 @@ Another technique is using simulation methods like the bootstrap or Monte Carlo 
 
 ## How do you calculate confidence intervals?
 
-The calculation of confidence intervals is a crucial aspect of statistical analysis in algorithmic trading. It relies on the standard deviation, sample mean, and the choice between the z or t-distribution, depending on the certainty of the population standard deviation. 
+The calculation of confidence intervals is a crucial aspect of statistical analysis in [algorithmic trading](/wiki/algorithmic-trading). It relies on the standard deviation, sample mean, and the choice between the z or t-distribution, depending on the certainty of the population standard deviation. 
 
 When the population standard deviation is known, a z-distribution is appropriate, leading to the calculation of a confidence interval using the formula:
 

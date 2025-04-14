@@ -18,7 +18,7 @@ This strategy works because it doesn't rely on the overall market going up or do
 
 Profitability is important in pairs trading because it's the main goal of the strategy. When you do pairs trading, you want to make money by buying one stock and selling another. If the prices of the two stocks come back together like you expect, you make a profit. This profit is what makes the effort and risk of trading worthwhile. Without profitability, there would be no point in doing pairs trading at all.
 
-Also, profitability helps you know if your pairs trading strategy is working. If you keep making profits, it means you're good at picking the right pairs of stocks and timing your trades well. If you're not making profits, it might mean you need to change your strategy or do more research. So, checking your profitability is a way to see if you're on the right track or if you need to make some changes.
+Also, profitability helps you know if your pairs trading strategy is working. If you keep making profits, it means you're good at [picking](/wiki/asset-class-picking) the right pairs of stocks and timing your trades well. If you're not making profits, it might mean you need to change your strategy or do more research. So, checking your profitability is a way to see if you're on the right track or if you need to make some changes.
 
 ## What are the basic steps to start pairs trading?
 
@@ -54,7 +54,7 @@ To lower these risks, you can do a few things. First, do a lot of research befor
 
 Advanced traders use statistical methods to make pairs trading better by looking at more than just the past prices of stocks. They use something called cointegration, which is a way to see if two stocks not only move together but also come back to a normal relationship over time. This is different from just looking at correlation, which only tells you if stocks move together at the same time. By using cointegration, traders can pick pairs that are more likely to come back together, making their trades more successful.
 
-Another way advanced traders use statistics is by using a method called the z-score. The z-score helps them see how far apart the prices of the two stocks are from their normal relationship. If the z-score is high, it means the prices are far apart, and it might be a good time to trade. Traders also use other statistical tools like mean reversion models to predict when the prices will come back together. By using these advanced methods, traders can make smarter decisions and hopefully make more money from pairs trading.
+Another way advanced traders use [statistics](/wiki/bayesian-statistics) is by using a method called the z-score. The z-score helps them see how far apart the prices of the two stocks are from their normal relationship. If the z-score is high, it means the prices are far apart, and it might be a good time to trade. Traders also use other statistical tools like mean reversion models to predict when the prices will come back together. By using these advanced methods, traders can make smarter decisions and hopefully make more money from pairs trading.
 
 ## What role does market neutrality play in pairs trading profitability?
 
@@ -86,7 +86,7 @@ Pairs trading is a straightforward trading strategy wherein an investor goes lon
 
 A key characteristic of pairs trading is its market-neutral stance. This means that the strategy is not significantly affected by broader market movements, making it particularly appealing in volatile market environments. Instead of relying on the direction of the overall market, pairs trading focuses on the relative performance between the two selected assets. 
 
-The efficiency of this strategy lies in its reliance on statistical arbitrage and mean reversion. Let’s consider two stocks, Stock A and Stock B, which generally move together due to their high correlation. If Stock A begins to outperform Stock B beyond historical norms, a pairs trader may interpret this as a temporary mispricing. The trade would involve shorting Stock A (betting that its price will decrease) and going long on Stock B (betting that its price will increase), anticipating a return to the historical price pattern. 
+The efficiency of this strategy lies in its reliance on statistical [arbitrage](/wiki/arbitrage) and mean reversion. Let’s consider two stocks, Stock A and Stock B, which generally move together due to their high correlation. If Stock A begins to outperform Stock B beyond historical norms, a pairs trader may interpret this as a temporary mispricing. The trade would involve shorting Stock A (betting that its price will decrease) and going long on Stock B (betting that its price will increase), anticipating a return to the historical price pattern. 
 
 Mathematically, the strategy often employs statistical models to quantify the relationship between the two assets, using indicators such as the spread (difference in their price) and standard deviations to identify trading opportunities. The Z-score, a statistical measure that describes a value's relation to the mean of a group of values, can be calculated to determine entry and [exit](/wiki/exit-strategy) points:
 
@@ -116,7 +116,7 @@ where $\alpha$ is a constant representing the confidence level for trade executi
 
 Moreover, the assumption that asset pairs will revert to a historical relationship is inherently risky. Historical data might not always be a reliable predictor of future behavior, especially in cases where fundamental economic changes affect the industry norms or where one of the companies in the pair undergoes significant strategic shifts.
 
-In conclusion, while algorithmic trading enhances the ability to manage and execute pairs trading strategies, traders must be vigilant. They need to continuously test and optimize their models, keeping abreast of any factors that might impact asset correlations, ensuring their strategy remains profitable in an environment prone to unexpected shifts.
+In conclusion, while [algorithmic trading](/wiki/algorithmic-trading) enhances the ability to manage and execute pairs trading strategies, traders must be vigilant. They need to continuously test and optimize their models, keeping abreast of any factors that might impact asset correlations, ensuring their strategy remains profitable in an environment prone to unexpected shifts.
 
 ## References & Further Reading
 

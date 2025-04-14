@@ -66,7 +66,7 @@ Another thing to think about is how much memory your exclusion method will use. 
 
 ## How can exclusion be used strategically in machine learning models?
 
-In machine learning, exclusion can be used to make models work better. When you train a model, you might find that some data is not helpful or even makes the model worse. By excluding this data, you can focus on the information that really matters. For example, if you're trying to predict house prices, you might exclude houses that are very old because they might not fit well with the rest of your data. This helps your model learn from the most relevant examples and make better predictions.
+In [machine learning](/wiki/machine-learning), exclusion can be used to make models work better. When you train a model, you might find that some data is not helpful or even makes the model worse. By excluding this data, you can focus on the information that really matters. For example, if you're trying to predict house prices, you might exclude houses that are very old because they might not fit well with the rest of your data. This helps your model learn from the most relevant examples and make better predictions.
 
 Exclusion can also help in making your model simpler and faster. Sometimes, a model can get too complicated if it tries to learn from all the data. By excluding less important features or data points, you can make the model easier to understand and quicker to run. For instance, if you're classifying images of animals, you might exclude images that are blurry or too dark because they might confuse the model. This way, your model can focus on clear, useful images and perform better overall.
 
@@ -130,11 +130,11 @@ Algorithmic traders often encounter significant challenges when deciding which i
 
 ### Identification of Relevant Data
 
-One of the primary challenges is identifying which data points are genuinely irrelevant or detrimental to the trading strategy. Market noise, often characterized by short-term volatility and non-representative market movements, can obscure long-term trends critical to decision-making processes. However, completely excluding data that appears volatile may risk omitting crucial signals that affect algorithm outcomes.
+One of the primary challenges is identifying which data points are genuinely irrelevant or detrimental to the trading strategy. Market noise, often characterized by short-term [volatility](/wiki/volatility-trading-strategies) and non-representative market movements, can obscure long-term trends critical to decision-making processes. However, completely excluding data that appears volatile may risk omitting crucial signals that affect algorithm outcomes.
 
 ### Risk of Over-Exclusion
 
-Over-exclusion can potentially lead to biased models that do not account for essential variables, subsequently compromising the algorithm's effectiveness. This occurs when algorithms are too selective, disregarding data that might seem anomalous but actually hold predictive power concerning market shifts. An algorithm's robustness can be tested using backtesting with historical data to evaluate the effects of different exclusion criteria.
+Over-exclusion can potentially lead to biased models that do not account for essential variables, subsequently compromising the algorithm's effectiveness. This occurs when algorithms are too selective, disregarding data that might seem anomalous but actually hold predictive power concerning market shifts. An algorithm's robustness can be tested using [backtesting](/wiki/backtesting) with historical data to evaluate the effects of different exclusion criteria.
 
 ### Solutions to Maintain Data Integrity
 
@@ -178,7 +178,7 @@ The above method ensures that the exclusion criteria evolve as new data flows in
 
 Continuous adaptation also involves proactively anticipating market events and incorporating potential impacts into exclusion strategies. Whether through adjusting trigger points or refining algorithms to recognize new patterns, traders must be vigilant to instrument changes and evolving market conditions.
 
-Through a deliberate approach to selecting exclusion criteria and leveraging advanced techniques for continuous adaptation, traders can mitigate the risks associated with improper item exclusion. This enhances the effectiveness and stability of algorithmic trading strategies, keeping them aligned with real-time market trends.
+Through a deliberate approach to selecting exclusion criteria and leveraging advanced techniques for continuous adaptation, traders can mitigate the risks associated with improper item exclusion. This enhances the effectiveness and stability of [algorithmic trading](/wiki/algorithmic-trading) strategies, keeping them aligned with real-time market trends.
 
 ## References & Further Reading
 

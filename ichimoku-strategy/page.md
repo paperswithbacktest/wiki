@@ -84,7 +84,7 @@ Another limitation is that the Ichimoku Strategy can give false signals sometime
 
 ## What is the Ichimoku Cloud Indicator?
 
-The Ichimoku Cloud, formally known as Ichimoku Kinko Hyo, is a comprehensive technical analysis indicator developed by Japanese journalist Goichi Hosoda. It offers traders a multidimensional view of the market by illustrating potential price movements using five key components: Tenkan-Sen, Kijun-Sen, Senkou Span A, Senkou Span B, and Chikou Span. These components work synergistically to form a "cloud" (Kumo), which provides insight into market trend direction, support and resistance levels, and momentum.
+The Ichimoku Cloud, formally known as Ichimoku Kinko Hyo, is a comprehensive technical analysis indicator developed by Japanese journalist Goichi Hosoda. It offers traders a multidimensional view of the market by illustrating potential price movements using five key components: Tenkan-Sen, Kijun-Sen, Senkou Span A, Senkou Span B, and Chikou Span. These components work synergistically to form a "cloud" (Kumo), which provides insight into market trend direction, support and resistance levels, and [momentum](/wiki/momentum).
 
 1. **Tenkan-Sen (Conversion Line):** This is calculated as the average of the highest high and the lowest low over the past 9 periods. It serves as a minor support and resistance level and can indicate short-term price momentum. The formula is given by:
 $$
@@ -118,7 +118,7 @@ By providing a holistic view of the market at a single glance, the Ichimoku Clou
 
 ## How can you implement the Ichimoku Cloud Strategy in Python?
 
-Implementing the Ichimoku Cloud strategy in Python involves utilizing various libraries that facilitate data handling, visualization, and backtesting. Python’s `pandas` library is essential for managing financial data, while `mplfinance` offers powerful charting capabilities to visualize technical indicators, including the Ichimoku Cloud.
+Implementing the Ichimoku Cloud strategy in Python involves utilizing various libraries that facilitate data handling, visualization, and [backtesting](/wiki/backtesting). Python’s `pandas` library is essential for managing financial data, while `mplfinance` offers powerful charting capabilities to visualize technical indicators, including the Ichimoku Cloud.
 
 ### 1. Downloading Financial Data
 
@@ -244,7 +244,7 @@ backtest = Backtest(data, IchimokuStrategy)
 results = backtest.run()
 ```
 
-By effectively using Python, traders can automate the complex calculations and enhance their decision-making process through data analysis and visualization, providing a robust framework for using the Ichimoku Cloud in algorithmic trading.
+By effectively using Python, traders can automate the complex calculations and enhance their decision-making process through data analysis and visualization, providing a robust framework for using the Ichimoku Cloud in [algorithmic trading](/wiki/algorithmic-trading).
 
 ## References & Further Reading
 

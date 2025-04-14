@@ -34,7 +34,7 @@ By using four different index funds, the portfolio covers a wide range of the st
 
 ## What are the benefits of using the Paul Merriman 4-Fund Portfolio for a beginner investor?
 
-The Paul Merriman 4-Fund Portfolio is great for beginner investors because it's easy to understand and set up. You only need to pick four low-cost index funds, which means you don't have to spend a lot of time picking individual stocks or worrying about high fees. This makes investing less scary and more manageable for someone just starting out. Plus, since the funds are spread across different parts of the market, it helps you not put all your eggs in one basket, which can make your investments safer.
+The Paul Merriman 4-Fund Portfolio is great for beginner investors because it's easy to understand and set up. You only need to pick four low-cost index funds, which means you don't have to spend a lot of time [picking](/wiki/asset-class-picking) individual stocks or worrying about high fees. This makes investing less scary and more manageable for someone just starting out. Plus, since the funds are spread across different parts of the market, it helps you not put all your eggs in one basket, which can make your investments safer.
 
 Another benefit is that this portfolio can help you grow your money over the long term. By investing in a mix of U.S. and international stocks, and both big and small companies, you have a good chance of seeing your money grow steadily. The focus on value stocks, which are companies that might be undervalued, can also lead to higher returns. So, even if you're new to investing, the Paul Merriman 4-Fund Portfolio gives you a solid plan to build your wealth without needing to be an expert.
 

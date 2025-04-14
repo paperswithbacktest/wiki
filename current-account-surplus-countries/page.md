@@ -22,7 +22,7 @@ If a country earns more from its exports and services than it spends on imports 
 
 ## Why is a current account surplus important for a country's economy?
 
-A current account surplus is important because it means a country is earning more from other countries than it is spending. This extra money can help make the country's economy stronger. It can be used to invest in things like new roads, schools, or businesses, which can create jobs and make life better for people. Also, a surplus can make other countries see the country as a good place to do business, which might bring in even more money.
+A current account surplus is important because it means a country is [earning](/wiki/earning-announcement) more from other countries than it is spending. This extra money can help make the country's economy stronger. It can be used to invest in things like new roads, schools, or businesses, which can create jobs and make life better for people. Also, a surplus can make other countries see the country as a good place to do business, which might bring in even more money.
 
 However, having a big surplus can also cause some problems. If a country keeps selling a lot more than it buys, other countries might feel left out. They might start putting up barriers to stop the country from selling so much to them. This can lead to less trade and might hurt the country's economy in the long run. So, while a surplus can be good, it's important for a country to keep a balance and not depend too much on it.
 

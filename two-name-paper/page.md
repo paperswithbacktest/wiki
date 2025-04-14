@@ -24,7 +24,7 @@ The Two Name Paper is not a long, complicated document. It is just a short idea 
 
 The Two Name Paper was created by Jim Kwik. It is a simple idea to help people remember names better. Jim Kwik shared this idea as part of his teachings on how to learn faster and remember more.
 
-The exact date when Jim Kwik first shared the Two Name Paper is not clear. It became popular through his books, talks, and online courses. Many people have found it helpful for remembering names at social events and in everyday life.
+The exact date when Jim Kwik first shared the Two Name Paper is not clear. It became popular through his [books](/wiki/algo-trading-books), talks, and online courses. Many people have found it helpful for remembering names at social events and in everyday life.
 
 ## What is the main topic or focus of the Two Name Paper?
 

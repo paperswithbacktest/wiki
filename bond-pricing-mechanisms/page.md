@@ -66,7 +66,7 @@ There's also the Zero-Coupon Bond Model, which is simpler because these bonds do
 
 ## How do market conditions and economic factors influence bond pricing?
 
-Market conditions and economic factors play a big role in deciding how much a bond is worth. When the economy is doing well, people might feel more confident and want to invest in riskier things like stocks, which can make bond prices go down because fewer people want to buy them. But if the economy is shaky, people might look for safer places to put their money, like bonds, which can push bond prices up. Interest rates are another big factor. If the central bank raises interest rates, new bonds will offer higher coupon rates, making older bonds with lower rates less attractive, so their prices might drop. If interest rates go down, the opposite happens, and older bonds with higher rates become more valuable, pushing their prices up.
+Market conditions and economic factors play a big role in deciding how much a bond is worth. When the economy is doing well, people might feel more confident and want to invest in riskier things like stocks, which can make bond prices go down because fewer people want to buy them. But if the economy is shaky, people might look for safer places to put their money, like bonds, which can push bond prices up. Interest rates are another big [factor](/wiki/factor-investing). If the central bank raises interest rates, new bonds will offer higher coupon rates, making older bonds with lower rates less attractive, so their prices might drop. If interest rates go down, the opposite happens, and older bonds with higher rates become more valuable, pushing their prices up.
 
 Inflation also affects bond prices. When inflation goes up, the money you get from bond coupons might not be worth as much, so bond prices can go down. But if inflation is low, the money you get from bonds keeps more of its value, which can make bond prices go up. Another thing to think about is the credit rating of the bond issuer. If the economy is doing badly, some companies or governments might have a harder time paying back their bonds, which can lower their credit ratings and make their bond prices drop. So, keeping an eye on these economic factors can help you understand why bond prices might change and make better choices about when to buy or sell bonds.
 
@@ -96,7 +96,7 @@ Investment bonds are debt securities issued by various entities, including gover
 
 ### Benefits of Investing in Bonds
 
-Bonds offer a predictable income stream through regular interest payments, which can be attractive to retirees or those seeking stable cash flow. They also serve as a risk management tool by diversifying a portfolio and reducing volatility, as bond prices often move inversely to stock prices.
+Bonds offer a predictable income stream through regular interest payments, which can be attractive to retirees or those seeking stable cash flow. They also serve as a risk management tool by diversifying a portfolio and reducing [volatility](/wiki/volatility-trading-strategies), as bond prices often move inversely to stock prices.
 
 ### Bond Pricing and Influencing Factors
 

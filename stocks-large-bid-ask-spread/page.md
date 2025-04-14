@@ -109,7 +109,7 @@ In summary, the bid-ask spread is a vital metric for assessing market [liquidity
    This text investigates into the strategies and mathematical models behind algorithmic and high-frequency trading. It emphasizes the role of these methods in interpreting and capitalizing on bid-ask spreads.
 
 3. **"Advances in Financial Machine Learning" by Marcos López de Prado**  
-   López de Prado's work focuses on the machine learning techniques used in quantitative finance, with particular attention to algorithmic trading strategies that can influence bid-ask spreads.
+   López de Prado's work focuses on the [machine learning](/wiki/machine-learning) techniques used in quantitative finance, with particular attention to [algorithmic trading](/wiki/algorithmic-trading) strategies that can influence bid-ask spreads.
 
 4. **"High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems" by Irene Aldridge**  
    This resource explores the design and implementation of high-frequency trading systems. It includes practical examples and case studies, illustrating how such systems analyze bid-ask spreads.

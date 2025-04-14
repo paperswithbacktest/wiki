@@ -44,13 +44,13 @@ However, the difference in tax efficiency isn't huge for most people. If you're 
 
 ETFs are usually more liquid than index funds. This means you can buy and sell ETFs more easily during the trading day. They trade on stock exchanges just like stocks, so you can buy or sell them whenever the market is open. This makes ETFs good for people who might want to quickly change their investments. On the other hand, index funds are a type of mutual fund, so you can only buy or sell them at the end of the trading day. This can be less convenient if you want to make a quick move.
 
-The difference in liquidity can matter a lot depending on what you're looking for. If you want to be able to trade your investments quickly and at any time, ETFs are better. But if you're planning to hold onto your investments for a long time and don't need to buy or sell quickly, the lower liquidity of index funds might not be a big deal. Both types can be good choices, but it depends on how you like to invest and what you need.
+The difference in [liquidity](/wiki/liquidity-risk-premium) can matter a lot depending on what you're looking for. If you want to be able to trade your investments quickly and at any time, ETFs are better. But if you're planning to hold onto your investments for a long time and don't need to buy or sell quickly, the lower liquidity of index funds might not be a big deal. Both types can be good choices, but it depends on how you like to invest and what you need.
 
 ## How do the minimum investment requirements differ between index funds and ETFs?
 
 Index funds often have a minimum investment amount that you need to start with. This can be anywhere from $1,000 to $3,000, but some funds might ask for even more. This means if you want to invest in an index fund, you might need to save up a bit before you can start. However, some brokers and platforms offer index funds with no minimum or a very low minimum, which makes it easier for people who don't have a lot of money to invest.
 
-ETFs, on the other hand, usually don't have a minimum investment requirement in the same way. Since you buy and sell them like stocks, you can start with just the cost of one share. This can be as low as $50 or $100, depending on the ETF. This makes ETFs more accessible if you're just starting out and don't have a lot of money to put in at once. Just remember, you might need to pay a small fee to buy or sell an ETF, depending on your broker.
+ETFs, on the other hand, usually don't have a minimum investment requirement in the same way. Since you buy and sell them like stocks, you can start with just the cost of one share. This can be as low as $50 or $100, depending on the [ETF](/wiki/etf-trading-strategies). This makes ETFs more accessible if you're just starting out and don't have a lot of money to put in at once. Just remember, you might need to pay a small fee to buy or sell an ETF, depending on your broker.
 
 ## Can you explain the tracking error in index funds and ETFs and how it impacts investors?
 
@@ -118,7 +118,7 @@ where $R_f$ is the return of the fund, $R_i$ is the return of the index, and $N$
 
 ### Aligning Risk Tolerance with Investment Strategy
 
-Investors must align their risk appetite with their chosen investment strategy. Those with a lower risk tolerance might prefer Index Funds or ETFs that offer diversified exposure to broad market indices, minimizing individual asset risks and benefiting from lower [volatility](/wiki/volatility-trading-strategies). On the other hand, investors with a higher risk tolerance and interest in active management may consider algorithmic trading, recognizing its potential for both substantial gains and losses.
+Investors must align their risk appetite with their chosen investment strategy. Those with a lower risk tolerance might prefer Index Funds or ETFs that offer diversified exposure to broad market indices, minimizing individual asset risks and benefiting from lower [volatility](/wiki/volatility-trading-strategies). On the other hand, investors with a higher risk tolerance and interest in active management may consider [algorithmic trading](/wiki/algorithmic-trading), recognizing its potential for both substantial gains and losses.
 
 Risk-adjusted measures, such as the Sharpe Ratio, can assist in evaluating the returns relative to the risk taken:
 

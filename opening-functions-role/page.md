@@ -84,13 +84,13 @@ Another way to use insights is by looking at what worked well and what didn't. I
 
 ## What is the purpose of functions in trading algorithms?
 
-Functions in trading algorithms serve several critical purposes, including optimizing execution, managing risk, and improving decision-making processes. These functions form the core components of algorithmic trading strategies, enabling traders to maximize profits while minimizing risks, ultimately crafting more robust trading approaches.
+Functions in trading algorithms serve several critical purposes, including optimizing execution, managing risk, and improving decision-making processes. These functions form the core components of [algorithmic trading](/wiki/algorithmic-trading) strategies, enabling traders to maximize profits while minimizing risks, ultimately crafting more robust trading approaches.
 
 Optimization of execution is a fundamental purpose of functions in trading algorithms. These functions are designed to execute trades at the most favorable prices while minimizing market impact. By utilizing advanced mathematical models and statistical methods, such functions can break down large orders into smaller trades to avoid disrupting market prices. The use of limit orders or market-making strategies are examples where execution functions are vital, as they require rapid decision-making processes to achieve the best execution conditions.
 
 Risk management functions are essential in safeguarding trading operations from unexpected market shifts. These functions constantly monitor positions and market conditions, employing a variety of risk assessment tools such as Value at Risk (VaR), stress testing, and scenario analysis. By integrating these functions within an algorithm, traders can set predefined risk parameters, automatically adjusting positions and even halting trading activities if risk levels exceed acceptable thresholds.
 
-Functions also significantly enhance decision-making processes by analyzing vast datasets to identify profitable trading opportunities. Objective functions, in particular, guide algorithms in choosing the best possible trades by quantifying performance and balancing multiple goals. These functions often involve complex mathematical models that evaluate potential trades against factors such as historic performance, volatility, and liquidity. For instance, an objective function might be represented mathematically as:
+Functions also significantly enhance decision-making processes by analyzing vast datasets to identify profitable trading opportunities. Objective functions, in particular, guide algorithms in choosing the best possible trades by quantifying performance and balancing multiple goals. These functions often involve complex mathematical models that evaluate potential trades against factors such as historic performance, [volatility](/wiki/volatility-trading-strategies), and [liquidity](/wiki/liquidity-risk-premium). For instance, an objective function might be represented mathematically as:
 
 $$
 \text{Maximize} \quad \sum_{i=1}^{n} \left( \text{Expected Return}_i - \lambda \times \text{Risk}_i \right)

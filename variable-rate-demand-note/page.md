@@ -22,7 +22,7 @@ What makes VRDNs special is that you can ask for your money back at any time. Th
 
 ## Who typically issues Variable Rate Demand Notes?
 
-Variable Rate Demand Notes, or VRDNs, are usually issued by public organizations like cities, states, or other government bodies. These groups use VRDNs to borrow money for big projects, like building schools or roads. Since VRDNs have a floating interest rate and can be sold back at any time, they are a good way for these organizations to get money without locking into a fixed rate for a long time.
+Variable Rate Demand Notes, or VRDNs, are usually issued by public organizations like cities, states, or other government bodies. These groups use VRDNs to borrow money for big projects, like building schools or roads. Since VRDNs have a floating [interest rate](/wiki/interest-rate-trading-strategies) and can be sold back at any time, they are a good way for these organizations to get money without locking into a fixed rate for a long time.
 
 Sometimes, big companies also issue VRDNs. They do this for the same reason as public organizations: to borrow money for their projects or operations. The flexibility of VRDNs helps these companies manage their finances better, especially when interest rates are changing a lot.
 
@@ -36,7 +36,7 @@ Another benefit is that you can get your money back whenever you want. With VRDN
 
 One risk of investing in Variable Rate Demand Notes, or VRDNs, is that the interest rate can go down. Since the interest rate changes often, if the general interest rates in the market go down, the interest you earn on your VRDN will go down too. This means you might not make as much money as you hoped. Also, even though VRDNs are usually seen as safe, there's still a small chance that the issuer, like a city or state, might not be able to pay you back. This is called credit risk.
 
-Another risk is that even though you can ask for your money back at any time, there's no guarantee that the issuer or the third party will have the money to give you right away. This is called liquidity risk. If a lot of people want their money back at the same time, it could be hard for the issuer to pay everyone. This is less common but something to think about. So, while VRDNs can be a good investment, it's important to understand these risks before you decide to invest.
+Another risk is that even though you can ask for your money back at any time, there's no guarantee that the issuer or the third party will have the money to give you right away. This is called [liquidity](/wiki/liquidity-risk-premium) risk. If a lot of people want their money back at the same time, it could be hard for the issuer to pay everyone. This is less common but something to think about. So, while VRDNs can be a good investment, it's important to understand these risks before you decide to invest.
 
 ## How is the interest rate determined on a Variable Rate Demand Note?
 

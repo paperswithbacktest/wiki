@@ -22,7 +22,7 @@ When the VIX is high, it means that investors think the market will be very unpr
 
 ## How does the VIX measure market volatility?
 
-The VIX measures market volatility by looking at options on the S&P 500 index. Options are like bets on where the stock market will go. The VIX uses the prices of these options to figure out how much the market might move in the next 30 days. If people think the market will move a lot, they will pay more for options, and this makes the VIX go up.
+The VIX measures market [volatility](/wiki/volatility-trading-strategies) by looking at options on the S&P 500 index. Options are like bets on where the stock market will go. The VIX uses the prices of these options to figure out how much the market might move in the next 30 days. If people think the market will move a lot, they will pay more for options, and this makes the VIX go up.
 
 When the VIX is high, it means people are expecting big changes in the market. This usually happens when people are worried about something like a financial crisis or a big world event. On the other hand, if the VIX is low, it means people think the market will stay pretty calm and not change much. So, the VIX is a way to see how much the market might shake up in the near future.
 

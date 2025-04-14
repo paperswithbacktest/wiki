@@ -18,7 +18,7 @@ Passive ETFs are popular because they usually have lower fees than active ETFs. 
 
 A passive ETF tries to copy the performance of a specific market index, like the S&P 500. It does this by holding the same stocks or bonds that are in the index, in the same amounts. This means it doesn't need a manager to pick and choose investments, which keeps costs low. Passive ETFs are popular because they are simple and usually have lower fees than other types of investments.
 
-An active ETF, on the other hand, has a manager who tries to beat the market by picking specific stocks or bonds. This manager makes decisions about what to buy and sell, hoping to do better than the overall market. Because of this, active ETFs often have higher fees, since you're paying for the manager's expertise and time. Active ETFs can be riskier but also have the potential for higher returns if the manager makes good choices.
+An active [ETF](/wiki/etf-trading-strategies), on the other hand, has a manager who tries to beat the market by [picking](/wiki/asset-class-picking) specific stocks or bonds. This manager makes decisions about what to buy and sell, hoping to do better than the overall market. Because of this, active ETFs often have higher fees, since you're paying for the manager's expertise and time. Active ETFs can be riskier but also have the potential for higher returns if the manager makes good choices.
 
 In summary, the main difference between passive and active ETFs is how they are managed. Passive ETFs follow an index and are more predictable and cost-effective, while active ETFs rely on a manager's decisions and can be more expensive but potentially more rewarding.
 

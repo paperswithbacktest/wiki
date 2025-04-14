@@ -86,7 +86,7 @@ Ethical considerations are also important because they help businesses build tru
 
 ## What are the considerations for choosing a subscription model?
 
-When selecting a subscription model for algorithmic trading platforms, it is crucial to consider several factors to ensure an optimal fit for your trading activities and financial goals. Here are key considerations to guide this decision:
+When selecting a subscription model for [algorithmic trading](/wiki/algorithmic-trading) platforms, it is crucial to consider several factors to ensure an optimal fit for your trading activities and financial goals. Here are key considerations to guide this decision:
 
 **Evaluate the Cost-Benefit Ratio**: Begin by assessing the pricing structure of the subscription relative to the features it offers. A thorough cost-benefit analysis involves comparing the monthly or annual subscription fees against the platform's capabilities, such as access to algorithmic strategies, data analytics tools, and customer support. Implementing basic financial metrics like the Return on Investment (ROI) can be beneficial. The formula for ROI is:
 

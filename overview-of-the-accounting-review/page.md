@@ -64,7 +64,7 @@ In recent years, The Accounting Review has shifted its focus to more advanced re
 
 ## What is the impact factor of The Accounting Review and how has it changed?
 
-The impact factor of The Accounting Review is a number that shows how important the journal is in the world of accounting research. It is calculated by looking at how often articles from the journal are cited by other researchers. In recent years, The Accounting Review has had an impact factor of around 3 to 4. This means that, on average, each article in the journal is cited 3 to 4 times by other researchers in the two years after it is published. This is a high impact factor, which shows that the journal is very important in the field of accounting.
+The impact [factor](/wiki/factor-investing) of The Accounting Review is a number that shows how important the journal is in the world of accounting research. It is calculated by looking at how often articles from the journal are cited by other researchers. In recent years, The Accounting Review has had an impact factor of around 3 to 4. This means that, on average, each article in the journal is cited 3 to 4 times by other researchers in the two years after it is published. This is a high impact factor, which shows that the journal is very important in the field of accounting.
 
 Over the years, the impact factor of The Accounting Review has changed. In the past, it was lower because accounting research was not as advanced and there were fewer researchers citing articles. But as more people started doing accounting research and the field grew, the impact factor went up. This shows that The Accounting Review has become more important and that its articles are more useful to other researchers. The journal's focus on new and important topics in accounting has helped it keep a high impact factor.
 
@@ -76,7 +76,7 @@ Compared to other journals, The Accounting Review has a high impact factor, whic
 
 ## What future trends might influence the content and direction of The Accounting Review?
 
-In the future, The Accounting Review might focus more on new technology in accounting. Things like artificial intelligence and big data are changing how accountants do their work. The journal could have more articles about how these technologies are used in accounting and how they affect financial reporting. This would help people understand how accounting is changing and how to use new tools to do their jobs better.
+In the future, The Accounting Review might focus more on new technology in accounting. Things like [artificial intelligence](/wiki/ai-artificial-intelligence) and big data are changing how accountants do their work. The journal could have more articles about how these technologies are used in accounting and how they affect financial reporting. This would help people understand how accounting is changing and how to use new tools to do their jobs better.
 
 Another trend that might influence The Accounting Review is a focus on global accounting rules. As more businesses work around the world, they need to follow different accounting rules in different countries. The journal might have more articles about how these rules are made and how they affect businesses everywhere. This would help people learn about international accounting and how to deal with different rules in their work.
 

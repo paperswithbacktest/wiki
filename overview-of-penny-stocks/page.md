@@ -52,7 +52,7 @@ Another thing to think about is the people running the company. If the leaders h
 
 ## What are common strategies for trading penny stocks?
 
-One common strategy for trading penny stocks is called "momentum trading." This means you look for stocks that are going up fast and try to buy them before they go up even more. You hope to sell them quickly for a profit. This can be exciting because the prices can change a lot in a short time, but it's also risky. You need to watch the market closely and be ready to sell if the stock starts to go down.
+One common strategy for trading penny stocks is called "[momentum](/wiki/momentum) trading." This means you look for stocks that are going up fast and try to buy them before they go up even more. You hope to sell them quickly for a profit. This can be exciting because the prices can change a lot in a short time, but it's also risky. You need to watch the market closely and be ready to sell if the stock starts to go down.
 
 Another strategy is "long-term investing." This means you find a penny stock from a company you think will do well in the future. You buy the stock and hold onto it for a long time, hoping the company will grow and the stock price will go up a lot. This can be less risky than momentum trading, but it takes patience. You need to do a lot of research to find a good company and be ready to wait for your investment to pay off.
 
@@ -80,7 +80,7 @@ Another example is Ford Motor Company. During the 2008 financial crisis, Ford's 
 
 One advanced way to look at penny stocks is by using technical analysis. This means you look at charts and patterns to see how the stock's price has moved in the past. You can use things like moving averages, which help you see if the stock is going up or down over time. Another tool is the Relative Strength Index (RSI), which tells you if a stock is overbought or oversold. This can help you decide when to buy or sell. Technical analysis can be tricky, but it can give you clues about what might happen to the stock's price next.
 
-Another technique is fundamental analysis. This means you look at the company's financials to see if it's doing well. You can check things like the company's earnings, how much debt it has, and if it's growing. You might also look at the industry the company is in and see if it's doing well or not. This can help you figure out if the company has a good chance of making money in the future. Fundamental analysis takes a lot of time and research, but it can help you find penny stocks that might be good investments.
+Another technique is [fundamental analysis](/wiki/fundamental-analysis). This means you look at the company's financials to see if it's doing well. You can check things like the company's earnings, how much debt it has, and if it's growing. You might also look at the industry the company is in and see if it's doing well or not. This can help you figure out if the company has a good chance of making money in the future. Fundamental analysis takes a lot of time and research, but it can help you find penny stocks that might be good investments.
 
 Some people also use a mix of both technical and fundamental analysis. They look at the charts to see if the stock's price is moving in a good way, and they also check the company's financials to make sure it's doing well. This can give you a fuller picture of the stock and help you make better decisions. But remember, even with these advanced techniques, penny stocks are still risky. Always do your homework and only invest money you can afford to lose.
 

@@ -92,5 +92,5 @@ Another strategy is to use targeted marketing. The selling group can create spec
 
 - **Bäumlrich, A. D.**: In "Innovations in Insurance, Risk- and Asset Management," Bäumlrich explores cutting-edge developments in managing financial and insurance risks. These innovations are relevant for both underwriting and selling groups seeking to navigate complex market dynamics through enhanced algorithmic trading and data-driven decision-making.
 
-These references are pivotal for anyone interested in the intersection of algorithmic trading, underwriting, and modern financial market structures. They provide foundational knowledge and advanced insights necessary to understand and leverage the evolving financial technologies.
+These references are pivotal for anyone interested in the intersection of [algorithmic trading](/wiki/algorithmic-trading), underwriting, and modern financial market structures. They provide foundational knowledge and advanced insights necessary to understand and leverage the evolving financial technologies.
 

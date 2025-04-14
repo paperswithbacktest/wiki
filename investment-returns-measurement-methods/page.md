@@ -28,9 +28,9 @@ Real returns, on the other hand, show how much your investment has grown after a
 
 ## Can you explain what compound returns are and how they are calculated?
 
-Compound returns are what you get when you earn returns on your returns. Imagine you invest some money and it grows by a certain percentage. The next time it grows, it's not just the original amount that's growing, but also the money you made the first time. This means your money can grow faster over time because you're earning on everything, not just what you started with.
+Compound returns are what you get when you earn returns on your returns. Imagine you invest some money and it grows by a certain percentage. The next time it grows, it's not just the original amount that's growing, but also the money you made the first time. This means your money can grow faster over time because you're [earning](/wiki/earning-announcement) on everything, not just what you started with.
 
-To calculate compound returns, you need to know how often the returns are added to your investment, like yearly, monthly, or daily. You use a formula that looks at your starting amount, the interest rate, and how often the interest is added. For example, if you start with $100 and it grows by 10% each year, after one year you'd have $110. The next year, you'd earn 10% on $110, not just the original $100. This keeps happening, making your money grow faster and faster as time goes on.
+To calculate compound returns, you need to know how often the returns are added to your investment, like yearly, monthly, or daily. You use a formula that looks at your starting amount, the [interest rate](/wiki/interest-rate-trading-strategies), and how often the interest is added. For example, if you start with $100 and it grows by 10% each year, after one year you'd have $110. The next year, you'd earn 10% on $110, not just the original $100. This keeps happening, making your money grow faster and faster as time goes on.
 
 ## What are the common benchmarks used to measure investment performance?
 
@@ -40,9 +40,9 @@ There are also benchmarks for different types of investments. For bonds, people 
 
 ## How do risk-adjusted returns work, and why are they important?
 
-Risk-adjusted returns are a way to see how well an investment is doing when you think about how risky it is. Not all investments are the same; some are safer but grow slower, while others can be riskier but might grow faster. To figure out risk-adjusted returns, you use special math formulas that look at both how much money you made and how much risk you took to make it. One common way to do this is with the Sharpe Ratio, which compares the extra return you got above a safe investment like a savings account, to the ups and downs (volatility) of your investment.
+Risk-adjusted returns are a way to see how well an investment is doing when you think about how risky it is. Not all investments are the same; some are safer but grow slower, while others can be riskier but might grow faster. To figure out risk-adjusted returns, you use special math formulas that look at both how much money you made and how much risk you took to make it. One common way to do this is with the Sharpe Ratio, which compares the extra return you got above a safe investment like a savings account, to the ups and downs ([volatility](/wiki/volatility-trading-strategies)) of your investment.
 
-Understanding risk-adjusted returns is important because it helps you make better choices about where to put your money. If two investments give you the same return, but one is much riskier, the risk-adjusted return will show you that the safer one might be a better pick. This way, you can find investments that give you good growth without taking too much risk. It's like picking the best path on a hike – you want to get to the top, but you also want to enjoy the journey without too many scary parts.
+Understanding risk-adjusted returns is important because it helps you make better choices about where to put your money. If two investments give you the same return, but one is much riskier, the risk-adjusted return will show you that the safer one might be a better pick. This way, you can find investments that give you good growth without taking too much risk. It's like [picking](/wiki/asset-class-picking) the best path on a hike – you want to get to the top, but you also want to enjoy the journey without too many scary parts.
 
 ## What is the Sharpe Ratio and how is it used to evaluate investment performance?
 

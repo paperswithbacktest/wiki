@@ -84,7 +84,7 @@ It's also helpful to look at how your scale orders did in different market condi
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). 'Algorithms for Hyper-Parameter Optimization.' This work discusses various methods used to optimize hyper-parameters, which is crucial for improving the performance of machine learning models, including those used in algorithmic trading. The authors focus on the efficient exploration of hyper-parameter spaces to enhance learning algorithms. This publication is essential for understanding the optimization processes that can significantly impact algorithmic trading efficacy.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). 'Algorithms for Hyper-Parameter Optimization.' This work discusses various methods used to optimize hyper-parameters, which is crucial for improving the performance of [machine learning](/wiki/machine-learning) models, including those used in [algorithmic trading](/wiki/algorithmic-trading). The authors focus on the efficient exploration of hyper-parameter spaces to enhance learning algorithms. This publication is essential for understanding the optimization processes that can significantly impact algorithmic trading efficacy.
 
 "Advances in Financial Machine Learning" by Marcos Lopez de Prado dives into cutting-edge techniques in financial machine learning, presenting innovative ways to apply machine learning in trading. Lopez de Prado introduces practical algorithms and methodologies, underscoring the importance of systematic approaches in algorithmic trading.
 

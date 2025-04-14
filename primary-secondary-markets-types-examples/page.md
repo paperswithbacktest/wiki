@@ -80,7 +80,7 @@ Investment banks also help with things like writing the documents that explain t
 
 Technological advancements have changed how secondary markets work. Computers and the internet have made trading faster and easier. Now, people can buy and sell stocks or bonds from their homes using online trading platforms. These platforms show real-time prices and let people trade whenever they want, even outside of regular trading hours. This has made the market more open to everyone, not just people who can go to a stock exchange in person. Also, technology helps keep trading fair with rules and checks that make sure no one cheats.
 
-Another big change is how technology helps with information. With the internet, people can quickly find out about companies and what's happening in the market. This helps them make better choices about buying and selling. Also, technology like algorithms and artificial intelligence helps big investors trade smarter and faster. These tools can look at lots of data to find the best times to buy or sell. Overall, technology has made secondary markets more efficient, fair, and easy to use for everyone.
+Another big change is how technology helps with information. With the internet, people can quickly find out about companies and what's happening in the market. This helps them make better choices about buying and selling. Also, technology like algorithms and [artificial intelligence](/wiki/ai-artificial-intelligence) helps big investors trade smarter and faster. These tools can look at lots of data to find the best times to buy or sell. Overall, technology has made secondary markets more efficient, fair, and easy to use for everyone.
 
 ## What are the benefits and potential pitfalls of algo trading?
 
@@ -102,7 +102,7 @@ where $R_{failure}$ is the reliability of the system and $E_{impact}$ is the exp
 
 Furthermore, algorithms can create a false sense of security, prompting traders to overlook [fundamental analysis](/wiki/fundamental-analysis) and market fundamentals. It's crucial for traders to recognize the importance of incorporating a diverse array of data inputs and strategies rather than relying solely on algorithmic outcomes.
 
-In summary, while algorithmic trading offers significant enhancements to speed and decision-making accuracy, it requires careful consideration of the potential risks involved. Ensuring robust system designs, comprehensive risk management frameworks, and avoiding over-reliance on historical data can help in leveraging the full advantages of algorithmic trading while minimizing its pitfalls.
+In summary, while [algorithmic trading](/wiki/algorithmic-trading) offers significant enhancements to speed and decision-making accuracy, it requires careful consideration of the potential risks involved. Ensuring robust system designs, comprehensive risk management frameworks, and avoiding over-reliance on historical data can help in leveraging the full advantages of algorithmic trading while minimizing its pitfalls.
 
 ## References & Further Reading
 

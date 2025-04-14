@@ -82,7 +82,7 @@ Another well-known case is the short selling of Enron stock before the company w
 
 Advanced analytics and data can help short sellers make better guesses about which stocks will go down in price. They can use big data to look at a lot of information about a company, like how much money it's making, what people are saying about it online, and even what's happening in the world that might affect it. By using computers to find patterns and trends in this data, short sellers can spot problems or overvalued stocks faster than just looking at the news or company reports. This can give them an edge in deciding which stocks to short sell.
 
-Also, short sellers can use machine learning to make their strategies better over time. Machine learning can learn from past short selling trades and figure out what worked and what didn't. This can help short sellers adjust their plans to be more successful in the future. By using all this data and technology, short sellers can make smarter choices and maybe make more money from their trades.
+Also, short sellers can use [machine learning](/wiki/machine-learning) to make their strategies better over time. Machine learning can learn from past short selling trades and figure out what worked and what didn't. This can help short sellers adjust their plans to be more successful in the future. By using all this data and technology, short sellers can make smarter choices and maybe make more money from their trades.
 
 ## References & Further Reading
 

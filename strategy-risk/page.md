@@ -46,7 +46,7 @@ A third tool is risk matrices. A risk matrix is a simple chart that shows how li
 
 Strategy risk and operational risk are two different kinds of risks that businesses face. Strategy risk is about the plans a company makes to reach its goals. It's the chance that these plans might not work out because of things like changes in the market, new competitors, or if the company doesn't understand what customers want. For example, if a company decides to sell a new product but people don't like it, that's a strategy risk. The focus is on whether the company's big plans and goals are the right ones for the future.
 
-Operational risk, on the other hand, is about the day-to-day running of the business. It's the risk that the company can't do what it planned because of problems inside the business, like not having enough workers, the right technology, or if something goes wrong in the supply chain. For example, if a factory breaks down and the company can't make its products, that's an operational risk. The focus here is on the company's ability to carry out its plans and keep things running smoothly every day.
+Operational risk, on the other hand, is about the day-to-day running of the business. It's the risk that the company can't do what it planned because of problems inside the business, like not having enough workers, the right technology, or if something goes wrong in the supply chain. For example, if a factory breaks down and the company can't make its products, that's an operational risk. The focus here is on the company's ability to [carry](/wiki/carry-trading) out its plans and keep things running smoothly every day.
 
 ## What are some real-world examples of strategy risk?
 
@@ -86,7 +86,7 @@ Leaders play a big role in making sure strategy risk management is part of the c
 
 ## What are the common sources of strategy risk?
 
-Common sources of strategy risk in algorithmic trading include overfitting, data snooping, and ignoring market changes. Each of these factors has the potential to undermine the effectiveness of trading algorithms and can result in substantial financial losses if not properly addressed.
+Common sources of strategy risk in [algorithmic trading](/wiki/algorithmic-trading) include overfitting, data snooping, and ignoring market changes. Each of these factors has the potential to undermine the effectiveness of trading algorithms and can result in substantial financial losses if not properly addressed.
 
 **Overfitting** occurs when a trading algorithm is excessively optimized to reflect historical data patterns, causing it to perform well within the boundaries of the tested data set but poorly in live markets. This happens because the algorithm captures noise rather than the underlying market structure. Overfitting can be identified by examining an algorithm's performance across different, independent data sets, a process known as cross-validation. Mathematically, overfitting is likened to fitting a complex model to a limited set of sample data, resulting in a high variance in predictions when applied outside these data.
 

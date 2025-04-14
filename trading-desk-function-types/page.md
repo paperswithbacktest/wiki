@@ -54,7 +54,7 @@ Another way trading desks manage risk is by working together as a team. Traders 
 
 A proprietary trading desk, or prop desk, uses the company's own money to make trades. The goal is to make big profits by taking bigger risks. Traders on a prop desk are not trading for clients; they are trying to make money just for their company. They use special tools and strategies to find good trading opportunities and make quick decisions. Prop desks can be very exciting because the traders are trying to make as much money as they can, but it also means they could lose a lot if things go wrong.
 
-A market-making desk, on the other hand, helps keep the market running smoothly by buying and selling securities like stocks and bonds. They provide liquidity, which means they make it easy for other people to buy and sell things. Market makers earn money by buying at a lower price and selling at a higher price, which is called the "bid-ask spread." They don't take as many big risks as prop desks because their job is to keep the market stable and help others trade. While both types of desks are important, they have different goals and ways of working.
+A market-making desk, on the other hand, helps keep the market running smoothly by buying and selling securities like stocks and bonds. They provide [liquidity](/wiki/liquidity-risk-premium), which means they make it easy for other people to buy and sell things. Market makers earn money by buying at a lower price and selling at a higher price, which is called the "bid-ask spread." They don't take as many big risks as prop desks because their job is to keep the market stable and help others trade. While both types of desks are important, they have different goals and ways of working.
 
 ## How do regulatory requirements impact trading desk operations?
 
@@ -76,7 +76,7 @@ Market-making desks are a special kind of trading desk that focuses on providing
 
 ## What are the latest trends affecting trading desks?
 
-One big trend affecting trading desks is the use of more technology. Computers and special software are becoming even more important. Traders use these tools to watch the market and make trades faster than ever. They also use something called "artificial intelligence" or AI to help them make better decisions. AI can look at a lot of information quickly and find patterns that humans might miss. This helps traders make smarter trades and manage risk better.
+One big trend affecting trading desks is the use of more technology. Computers and special software are becoming even more important. Traders use these tools to watch the market and make trades faster than ever. They also use something called "[artificial intelligence](/wiki/ai-artificial-intelligence)" or AI to help them make better decisions. AI can look at a lot of information quickly and find patterns that humans might miss. This helps traders make smarter trades and manage risk better.
 
 Another trend is that more trading is happening online. People can now trade from anywhere using their computers or phones. This means trading desks need to be ready to work with traders who are not in the same place. They use special systems to connect everyone and make sure trades happen smoothly. Also, rules from governments are changing to keep up with these new ways of trading. Trading desks have to follow these new rules to make sure they are doing things the right way.
 
@@ -84,7 +84,7 @@ Another trend is that more trading is happening online. People can now trade fro
 
 Algorithmic trading can make a trading desk work better by letting computers do some of the trading automatically. Traders set up rules for the computer to follow, and then the computer makes trades based on those rules. This is much faster than people trading by hand. The computer can watch the market all the time and make trades in just a few seconds. This helps the trading desk make more money because they can take advantage of small changes in the market quickly.
 
-Another way algorithmic trading helps is by making trades more accurate. Computers don't get tired or make mistakes like people can. They follow the rules exactly, so the trading desk can be sure that trades are done the right way every time. This also helps the trading desk manage risk better. The computer can look at a lot of information and figure out how much risk the trading desk is taking. By using algorithmic trading, the trading desk can work faster and more accurately, which can lead to more profits.
+Another way [algorithmic trading](/wiki/algorithmic-trading) helps is by making trades more accurate. Computers don't get tired or make mistakes like people can. They follow the rules exactly, so the trading desk can be sure that trades are done the right way every time. This also helps the trading desk manage risk better. The computer can look at a lot of information and figure out how much risk the trading desk is taking. By using algorithmic trading, the trading desk can work faster and more accurately, which can lead to more profits.
 
 ## References & Further Reading
 

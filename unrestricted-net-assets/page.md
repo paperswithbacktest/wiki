@@ -18,7 +18,7 @@ These assets are important because they give an organization the flexibility to 
 
 Unrestricted net assets and restricted net assets are two types of assets that organizations have. Unrestricted net assets are the money or resources that an organization can use for any purpose. This means they can spend it on whatever they need, like paying bills, starting new projects, or saving for the future. These assets give the organization a lot of freedom because there are no rules about how to use them.
 
-On the other hand, restricted net assets come with rules. These assets are given to the organization with specific instructions on how to use them. For example, a donor might give money to a school but say it can only be used to buy new books for the library. The organization has to follow these rules, or they might get in trouble. So, restricted net assets are important, but they limit what the organization can do with that money.
+On the other hand, restricted net assets come with rules. These assets are given to the organization with specific instructions on how to use them. For example, a donor might give money to a school but say it can only be used to buy new [books](/wiki/algo-trading-books) for the library. The organization has to follow these rules, or they might get in trouble. So, restricted net assets are important, but they limit what the organization can do with that money.
 
 ## Why are unrestricted net assets important for an organization?
 

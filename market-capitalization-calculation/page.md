@@ -54,7 +54,7 @@ There's also a category called micro-cap, which includes companies with market c
 
 ## How does market capitalization affect stock liquidity?
 
-Market capitalization can affect how easy or hard it is to buy or sell a company's stock, which is called liquidity. Stocks from companies with a big market cap, like large-cap companies, are usually more liquid. This means it's easier to buy or sell these stocks because there are a lot of people trading them. Think of it like a busy street market where there are always people buying and selling. Because so many people are interested in these stocks, you can usually find someone to trade with quickly.
+Market capitalization can affect how easy or hard it is to buy or sell a company's stock, which is called [liquidity](/wiki/liquidity-risk-premium). Stocks from companies with a big market cap, like large-cap companies, are usually more liquid. This means it's easier to buy or sell these stocks because there are a lot of people trading them. Think of it like a busy street market where there are always people buying and selling. Because so many people are interested in these stocks, you can usually find someone to trade with quickly.
 
 On the other hand, stocks from companies with smaller market caps, like small-cap or micro-cap companies, might be less liquid. It can be harder to find someone to buy or sell these stocks because fewer people are trading them. It's like a quiet country store where you might have to wait a while to find someone to trade with. This can make it harder to get in or out of these stocks quickly, which can be important if you need to sell your shares in a hurry.
 

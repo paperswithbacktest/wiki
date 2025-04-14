@@ -64,11 +64,11 @@ If the price moves against your bet and your losses get too big, you might get a
 
 ## What are some advanced strategies for using CFDs?
 
-One advanced strategy for using CFDs is called scalping. This means you try to make small profits from tiny changes in price, but you do it a lot of times. You might open and close a CFD in just a few minutes or even seconds. This can be good if you're good at watching the market closely and making quick decisions. But it's also risky because the small profits can turn into small losses if you're not careful, and those can add up.
+One advanced strategy for using CFDs is called [scalping](/wiki/gamma-scalping). This means you try to make small profits from tiny changes in price, but you do it a lot of times. You might open and close a CFD in just a few minutes or even seconds. This can be good if you're good at watching the market closely and making quick decisions. But it's also risky because the small profits can turn into small losses if you're not careful, and those can add up.
 
 Another strategy is called hedging. This is when you use CFDs to protect other investments you already have. For example, if you own a stock and you're worried its price might go down, you can use a CFD to bet against that stock. If the stock price does go down, the money you lose on the stock might be made up for by the money you make on the CFD. This way, you can lower your risk without selling what you own. Hedging can be a smart way to protect your money, but it can also be complicated and might not always work out the way you plan.
 
-A third strategy is called trend following. This means you try to find out which way the price of something is moving and then bet on it to keep moving that way. You might use charts and other tools to help you figure out the trend. If you think the price is going up, you go long with a CFD. If you think it's going down, you go short. Trend following can be good if you're patient and good at spotting trends, but it can also be risky if the trend changes suddenly.
+A third strategy is called [trend following](/wiki/trend-following). This means you try to find out which way the price of something is moving and then bet on it to keep moving that way. You might use charts and other tools to help you figure out the trend. If you think the price is going up, you go long with a CFD. If you think it's going down, you go short. Trend following can be good if you're patient and good at spotting trends, but it can also be risky if the trend changes suddenly.
 
 ## How do regulatory environments affect CFD trading?
 

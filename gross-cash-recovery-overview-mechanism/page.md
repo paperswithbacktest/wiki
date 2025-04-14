@@ -58,7 +58,7 @@ Another challenge is keeping the measurement separate from any costs. Gross Cash
 
 ## How can Gross Cash Recovery be optimized in a business operation?
 
-To optimize Gross Cash Recovery in a business operation, you need to focus on getting the most money back from your investments before thinking about any costs. One way to do this is by choosing the right investments. If you're in real estate, for example, you could look for properties that are likely to sell for a high price later. This means doing your research and understanding the market. By picking investments that have a good chance of bringing in a lot of money, you can increase your Gross Cash Recovery.
+To optimize Gross Cash Recovery in a business operation, you need to focus on getting the most money back from your investments before thinking about any costs. One way to do this is by choosing the right investments. If you're in real estate, for example, you could look for properties that are likely to sell for a high price later. This means doing your research and understanding the market. By [picking](/wiki/asset-class-picking) investments that have a good chance of bringing in a lot of money, you can increase your Gross Cash Recovery.
 
 Another way to optimize Gross Cash Recovery is by making sure you get the best price when you sell or collect on your investments. This might mean negotiating well when you're selling a property or being smart about how you manage loans if you're in finance. It's also important to keep track of all the money coming in carefully. By staying on top of your numbers and making sure you're getting the most out of each investment, you can improve your Gross Cash Recovery.
 

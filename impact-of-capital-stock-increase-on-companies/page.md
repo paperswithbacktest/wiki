@@ -76,7 +76,7 @@ But, increasing capital stock can also change the company's plans. If the compan
 
 One example is Tesla. A few years ago, Tesla decided to increase its capital stock by doing a stock split. This meant they made each share worth less but gave more shares to each shareholder. This made it easier for more people to buy Tesla's shares because they were cheaper. Tesla used the money from selling more shares to build new factories and make more cars. This helped Tesla grow bigger and become more successful.
 
-Another example is Amazon. Back in 1999, Amazon did a big stock offering to raise more money. They sold new shares to the public and got a lot of money from it. Amazon used this money to expand their business, like building more warehouses and starting new services. This helped Amazon grow from just selling books online to becoming a huge company that sells all sorts of things and offers many different services.
+Another example is Amazon. Back in 1999, Amazon did a big stock offering to raise more money. They sold new shares to the public and got a lot of money from it. Amazon used this money to expand their business, like building more warehouses and starting new services. This helped Amazon grow from just selling [books](/wiki/algo-trading-books) online to becoming a huge company that sells all sorts of things and offers many different services.
 
 ## How should a company evaluate the timing and amount of capital stock increase to maximize shareholder value?
 

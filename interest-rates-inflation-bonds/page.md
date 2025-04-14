@@ -50,7 +50,7 @@ There are different types of bonds, and each comes with its own risks. Governmen
 
 Corporate bonds are issued by companies and can be riskier than government bonds. The risk depends on how healthy the company is financially. If a company does well, its bonds are safer, but if the company runs into trouble, it might not be able to pay back the bond. Corporate bonds are split into two groups: investment-grade bonds, which are from financially stable companies, and high-yield or "junk" bonds, which are from companies that are riskier but offer higher interest rates to make up for it. 
 
-There are also other types of bonds like agency bonds, which are issued by government-sponsored enterprises, and international bonds, which can be issued by foreign governments or companies. These can have extra risks because of changes in currency values or political issues in other countries. All bonds carry some risk, so it's important to understand the risks before you decide to buy one.
+There are also other types of bonds like agency bonds, which are issued by government-sponsored enterprises, and international bonds, which can be issued by foreign governments or companies. These can have extra risks because of changes in currency values or political issues in other countries. All bonds [carry](/wiki/carry-trading) some risk, so it's important to understand the risks before you decide to buy one.
 
 ## How do central banks use interest rates to control inflation?
 
@@ -66,7 +66,7 @@ Sometimes, the yield curve can change shape and tell us something different abou
 
 ## How do inflation-indexed bonds work and why are they important?
 
-Inflation-indexed bonds are special types of bonds that protect you from inflation. When you buy one, the amount of money you get back at the end, called the principal, goes up if inflation goes up. This means that even if prices go up, the bond will still be worth the same amount in terms of what you can buy with it. The interest you earn on these bonds also goes up with inflation, so you keep earning the same amount in real terms. In the United States, these bonds are called Treasury Inflation-Protected Securities, or TIPS.
+Inflation-indexed bonds are special types of bonds that protect you from inflation. When you buy one, the amount of money you get back at the end, called the principal, goes up if inflation goes up. This means that even if prices go up, the bond will still be worth the same amount in terms of what you can buy with it. The interest you earn on these bonds also goes up with inflation, so you keep [earning](/wiki/earning-announcement) the same amount in real terms. In the United States, these bonds are called Treasury Inflation-Protected Securities, or TIPS.
 
 Inflation-indexed bonds are important because they help people and investors protect their money from losing value because of inflation. If you're worried about prices going up and making your savings worth less, these bonds can be a safe place to put your money. They make sure that the money you get back will still buy the same amount of things, even if inflation goes up. This can be really helpful for people who want to make sure their money keeps its value over time.
 

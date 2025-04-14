@@ -46,7 +46,7 @@ Once you have your cash flows listed, you can use the IRR function. In a new cel
 
 ## How do I interpret the results of an IRR calculation?
 
-When you calculate the Internal Rate of Return (IRR), the number you get tells you the average percentage you can expect to earn from your investment over time. If the IRR is higher than the cost of the money you borrowed to invest, it means your investment is doing better than just paying off your debt. For example, if you can borrow money at a 5% interest rate and your investment has an IRR of 7%, you're making more money than you're spending on interest, which is a good sign.
+When you calculate the Internal Rate of Return (IRR), the number you get tells you the average percentage you can expect to earn from your investment over time. If the IRR is higher than the cost of the money you borrowed to invest, it means your investment is doing better than just paying off your debt. For example, if you can borrow money at a 5% [interest rate](/wiki/interest-rate-trading-strategies) and your investment has an IRR of 7%, you're making more money than you're spending on interest, which is a good sign.
 
 You can also use the IRR to compare different investments. If one investment has an IRR of 8% and another has an IRR of 10%, and both are equally risky, you would probably choose the one with the 10% IRR because it promises a higher return on your money. But remember, IRR doesn't tell you everything. It doesn't consider the size of the investment or how long you'll be waiting to get your money back, so it's just one piece of the puzzle when deciding where to put your money.
 

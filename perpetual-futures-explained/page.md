@@ -22,7 +22,7 @@ Another difference is how their prices stay close to the actual market price. Fo
 
 ## What is the purpose of perpetual futures in trading?
 
-Perpetual futures are used in trading to let people bet on the price of something, like a cryptocurrency, without actually owning it. They are popular because they don't have an end date, so you can keep your trade open as long as you want. This is different from regular futures, where you have to close your trade or start a new one when it expires. This makes it easier for traders to stick with their plans without interruptions.
+Perpetual futures are used in trading to let people bet on the price of something, like a [cryptocurrency](/wiki/cryptocurrency), without actually owning it. They are popular because they don't have an end date, so you can keep your trade open as long as you want. This is different from regular futures, where you have to close your trade or start a new one when it expires. This makes it easier for traders to stick with their plans without interruptions.
 
 Another reason people use perpetual futures is to hedge their investments. If you own a cryptocurrency and you're worried its price might go down, you can use perpetual futures to bet against it. This way, if the price does drop, you can make money from the futures trade to help cover your losses on the actual cryptocurrency. The funding rates in perpetual futures help keep the price close to the real market price, making them a useful tool for both speculating and protecting your investments.
 
@@ -34,7 +34,7 @@ The amount of the funding rate is calculated based on the difference between the
 
 ## What are the risks associated with trading perpetual futures?
 
-Trading perpetual futures can be risky because the prices can change a lot in a short time. This is called volatility. If you're not careful, you could lose a lot of money quickly. Also, because perpetual futures use something called leverage, you can trade with more money than you actually have. This can make your wins bigger, but it also makes your losses bigger. If the market moves against you, you might have to pay back more than you expected.
+Trading perpetual futures can be risky because the prices can change a lot in a short time. This is called [volatility](/wiki/volatility-trading-strategies). If you're not careful, you could lose a lot of money quickly. Also, because perpetual futures use something called leverage, you can trade with more money than you actually have. This can make your wins bigger, but it also makes your losses bigger. If the market moves against you, you might have to pay back more than you expected.
 
 Another risk is something called liquidation. If the price moves too far against your trade, your position might be closed automatically to stop you from losing even more money. This can happen suddenly and without warning, which can be stressful. Also, the funding rates in perpetual futures can add up over time. If you're on the wrong side of the funding rate, you'll have to keep paying money to other traders, which can eat into your profits or increase your losses.
 
@@ -52,11 +52,11 @@ The key to hedging with perpetual futures is to take a position that's the oppos
 
 ## What are some common strategies for trading perpetual futures?
 
-One common strategy for trading perpetual futures is called trend following. This means traders watch the market to see if prices are going up or down over time. If they see a trend, they might buy (go long) if prices are going up or sell (go short) if prices are going down. They hope to make money by riding the trend until it changes. This strategy works well in markets that keep moving in one direction for a while, but it can be risky if the trend suddenly reverses.
+One common strategy for trading perpetual futures is called [trend following](/wiki/trend-following). This means traders watch the market to see if prices are going up or down over time. If they see a trend, they might buy (go long) if prices are going up or sell (go short) if prices are going down. They hope to make money by riding the trend until it changes. This strategy works well in markets that keep moving in one direction for a while, but it can be risky if the trend suddenly reverses.
 
-Another strategy is called scalping. Scalpers try to make small profits from quick price changes. They might buy and sell many times in a single day, taking advantage of tiny price movements. This can be a good way to make money if you're good at spotting these small changes and can act fast. But it's also hard work and can be stressful because you need to keep watching the market all the time.
+Another strategy is called [scalping](/wiki/gamma-scalping). Scalpers try to make small profits from quick price changes. They might buy and sell many times in a single day, taking advantage of tiny price movements. This can be a good way to make money if you're good at spotting these small changes and can act fast. But it's also hard work and can be stressful because you need to keep watching the market all the time.
 
-Some traders also use a strategy called arbitrage. This means they look for price differences between the perpetual futures market and the spot market. If they find a difference, they can buy in one market and sell in the other to make a profit. This strategy can be less risky than others because it's based on price differences that are likely to go away over time. But it requires a lot of attention to detail and quick action to take advantage of these opportunities.
+Some traders also use a strategy called [arbitrage](/wiki/arbitrage). This means they look for price differences between the perpetual futures market and the spot market. If they find a difference, they can buy in one market and sell in the other to make a profit. This strategy can be less risky than others because it's based on price differences that are likely to go away over time. But it requires a lot of attention to detail and quick action to take advantage of these opportunities.
 
 ## How do market makers influence perpetual futures markets?
 
@@ -80,7 +80,7 @@ Another important part of managing risk is keeping an eye on the funding rates. 
 
 When trading perpetual futures, one useful tool is the Moving Average Convergence Divergence (MACD). This tool helps you see if the price of a futures contract is going up or down over time. It does this by showing two lines on a chart. When the lines cross each other, it can be a sign that the price might change direction soon. Traders use this to decide when to buy or sell. The MACD also has a histogram that shows how strong the trend is, which can help you understand if the price is likely to keep moving in the same direction.
 
-Another helpful tool is the Relative Strength Index (RSI). The RSI tells you if a futures contract is being bought or sold too much. It gives you a number between 0 and 100. If the number is over 70, it means the contract might be overbought, and the price could go down soon. If it's under 30, it might be oversold, and the price could go up. Traders use the RSI to find good times to enter or exit trades. By watching the RSI, you can avoid buying when everyone else is buying and selling when everyone else is selling, which can help you make better trading decisions.
+Another helpful tool is the Relative Strength Index (RSI). The RSI tells you if a futures contract is being bought or sold too much. It gives you a number between 0 and 100. If the number is over 70, it means the contract might be overbought, and the price could go down soon. If it's under 30, it might be oversold, and the price could go up. Traders use the RSI to find good times to enter or [exit](/wiki/exit-strategy) trades. By watching the RSI, you can avoid buying when everyone else is buying and selling when everyone else is selling, which can help you make better trading decisions.
 
 ## References & Further Reading
 

@@ -30,13 +30,13 @@ In a thin market, prices can change a lot. Even a small trade can make the price
 
 Thin markets often have assets that are not very common or well-known. These can include things like rare collectibles, certain types of bonds, or stocks from small companies that not many people know about. Because these assets are not traded a lot, it can be hard to find someone who wants to buy or sell them. This makes the market for these assets thin.
 
-Another type of asset found in thin markets is those that are new or not yet popular. For example, a new type of cryptocurrency or a startup company's stock might not have many people trading it yet. Because these assets are new, fewer people know about them, so there are fewer trades. This can make the market for these assets thin until more people start trading them.
+Another type of asset found in thin markets is those that are new or not yet popular. For example, a new type of [cryptocurrency](/wiki/cryptocurrency) or a startup company's stock might not have many people trading it yet. Because these assets are new, fewer people know about them, so there are fewer trades. This can make the market for these assets thin until more people start trading them.
 
 ## How can a thin market impact trading and liquidity?
 
 A thin market can make trading harder because there are not many people buying and selling. When you want to trade something, you might have to wait a long time to find someone who wants to trade with you. This can be frustrating and can make you miss out on good trading chances. If you want to sell, you might have to lower your price a lot to find a buyer. If you want to buy, you might have to pay more than you expected. This can make trading risky because you might not get the price you want.
 
-Liquidity is also affected in a thin market. Liquidity means how easy it is to buy or sell something without changing the price too much. In a thin market, liquidity is low because there are not many trades happening. This means that even a small trade can change the price a lot. If you want to trade a lot of something, it can be hard to do without moving the price. This can make it harder to trade and can make prices go up and down a lot, which can be risky for traders.
+Liquidity is also affected in a thin market. Liquidity means how easy it is to buy or sell something without changing the price too much. In a thin market, [liquidity](/wiki/liquidity-risk-premium) is low because there are not many trades happening. This means that even a small trade can change the price a lot. If you want to trade a lot of something, it can be hard to do without moving the price. This can make it harder to trade and can make prices go up and down a lot, which can be risky for traders.
 
 ## What are the risks associated with investing in a thin market?
 
@@ -58,7 +58,7 @@ Another strategy is to use limit orders. In a thin market, prices can change a l
 
 ## How can one identify a thin market?
 
-One way to identify a thin market is by looking at how many people are buying and selling. In a thin market, there are not many trades happening. This means it can be hard to find someone to trade with. If you see that the trading volume is low, it might be a sign that the market is thin. Trading volume is the number of trades that happen in a certain time. When the volume is low, it means fewer people are interested in trading that asset.
+One way to identify a thin market is by looking at how many people are buying and selling. In a thin market, there are not many trades happening. This means it can be hard to find someone to trade with. If you see that the trading [volume](/wiki/volume-trading-strategy) is low, it might be a sign that the market is thin. Trading volume is the number of trades that happen in a certain time. When the volume is low, it means fewer people are interested in trading that asset.
 
 Another way to spot a thin market is by watching how much the price changes. In a thin market, prices can go up and down a lot because there are not many trades to balance out the price. If you see that the price is moving a lot with just a few trades, it could be a sign of a thin market. This kind of big price change can make it hard to predict what will happen next, which is common in thin markets.
 

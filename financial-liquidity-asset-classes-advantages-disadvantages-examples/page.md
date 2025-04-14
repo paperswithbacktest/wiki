@@ -28,7 +28,7 @@ Commodities like gold or oil can be liquid if there's a big market for them, but
 
 ## What are the advantages of high liquidity in assets?
 
-High liquidity in assets makes it easier to get cash when you need it. For example, if you own stocks that are easy to sell, you can quickly turn them into money if you have an emergency or a good investment opportunity. This is really helpful because it means you don't have to worry about waiting a long time to get your money. It's like having a safety net that lets you handle unexpected expenses or take advantage of new chances without stress.
+High [liquidity](/wiki/liquidity-risk-premium) in assets makes it easier to get cash when you need it. For example, if you own stocks that are easy to sell, you can quickly turn them into money if you have an emergency or a good investment opportunity. This is really helpful because it means you don't have to worry about waiting a long time to get your money. It's like having a safety net that lets you handle unexpected expenses or take advantage of new chances without stress.
 
 Another advantage of high liquidity is that it helps keep the value of your assets stable. When you can sell something quickly, you're less likely to have to sell it for a lot less than it's worth. This is important because it means your investments are safer and more predictable. For businesses, having liquid assets means they can pay their bills on time and keep running smoothly, which is crucial for their success.
 
@@ -86,7 +86,7 @@ Different parts of the world can affect each other's economies too. For example,
 
 Algorithmic trading significantly benefits from financial liquidity, as it facilitates rapid trade execution, which is crucial for strategies that depend on narrow price spreads and minimal market impact. In an environment where high liquidity is prevalent, algorithms can operate with greater efficiency, executing a high [volume](/wiki/volume-trading-strategy) of trades in milliseconds. This high-frequency trading capability allows traders to exploit minor price discrepancies, thereby optimizing profit margins.
 
-Analyzing liquidity trends is a vital aspect of algorithmic trading, as it informs decision-making processes, helping algorithms adapt to varying market conditions. By incorporating liquidity metrics into their models, algorithms can determine the most opportune times to enter or [exit](/wiki/exit-strategy) positions. For instance, during periods of high liquidity, the cost of executing trades tends to be lower due to tighter bid-ask spreads. Conversely, in low-liquidity conditions, wider spreads and slippage can increase transaction costs, necessitating more conservative strategies.
+Analyzing liquidity trends is a vital aspect of [algorithmic trading](/wiki/algorithmic-trading), as it informs decision-making processes, helping algorithms adapt to varying market conditions. By incorporating liquidity metrics into their models, algorithms can determine the most opportune times to enter or [exit](/wiki/exit-strategy) positions. For instance, during periods of high liquidity, the cost of executing trades tends to be lower due to tighter bid-ask spreads. Conversely, in low-liquidity conditions, wider spreads and slippage can increase transaction costs, necessitating more conservative strategies.
 
 To illustrate this, consider the liquidity-adjusted capital asset pricing model (LCAPM). The LCAPM incorporates a liquidity [factor](/wiki/factor-investing) into the traditional CAPM, allowing for a more nuanced risk and return assessment:
 

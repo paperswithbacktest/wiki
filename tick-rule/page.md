@@ -66,7 +66,7 @@ Another criticism is that the tick rule can be hard to use in today's fast marke
 
 ## How does the tick rule impact market volatility?
 
-The tick rule can affect how much the stock market goes up and down, which we call market volatility. When traders see a lot of upticks, they might think the stock's price will keep going up. This can make more people want to buy the stock, which can push the price up even more and make the market more volatile. On the other hand, if traders see a lot of downticks, they might think the price will keep going down. This can make more people want to sell the stock, which can push the price down and also make the market more volatile.
+The tick rule can affect how much the stock market goes up and down, which we call market [volatility](/wiki/volatility-trading-strategies). When traders see a lot of upticks, they might think the stock's price will keep going up. This can make more people want to buy the stock, which can push the price up even more and make the market more volatile. On the other hand, if traders see a lot of downticks, they might think the price will keep going down. This can make more people want to sell the stock, which can push the price down and also make the market more volatile.
 
 But the tick rule doesn't always make the market more volatile. Sometimes, it can help traders understand the market better and make smarter choices. If traders use the tick rule to see the overall direction of the market, they might be able to predict big changes in price and act in a way that makes the market less wild. So, while the tick rule can add to market volatility by making traders react quickly to small price changes, it can also help calm things down if traders use it to understand bigger trends.
 

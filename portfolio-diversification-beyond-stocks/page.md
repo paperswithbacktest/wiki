@@ -111,7 +111,7 @@ In summary, diversification is a fundamental strategy in investment management. 
 
 ## What are the best practices for implementation?
 
-Investors aiming to effectively implement diversification and algorithmic trading must consider several best practices to ensure their investment strategies are resilient and successful. A structured approach to risk management, regular portfolio monitoring, and rebalancing can create a robust framework that protects investments and aligns with financial goals.
+Investors aiming to effectively implement diversification and [algorithmic trading](/wiki/algorithmic-trading) must consider several best practices to ensure their investment strategies are resilient and successful. A structured approach to risk management, regular portfolio monitoring, and rebalancing can create a robust framework that protects investments and aligns with financial goals.
 
 ### Establishing a Strong Risk Management Framework
 

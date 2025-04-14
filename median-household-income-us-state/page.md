@@ -20,7 +20,7 @@ Understanding median household income is important because it shows us what the 
 
 This number is also useful for comparing different areas or groups of people. If one city has a higher median income than another, it might mean people there are doing better financially. Governments and businesses use this information to make decisions, like where to build new schools or stores, or where people might need help with money.
 
-Knowing the median income can also tell us about changes over time. If the median income goes up, it might mean that families are earning more and the economy is doing well. If it goes down, it could be a sign that people are struggling more. This helps everyone understand the health of the economy and plan for the future.
+Knowing the median income can also tell us about changes over time. If the median income goes up, it might mean that families are [earning](/wiki/earning-announcement) more and the economy is doing well. If it goes down, it could be a sign that people are struggling more. This helps everyone understand the health of the economy and plan for the future.
 
 ## How is median household income calculated?
 
@@ -56,7 +56,7 @@ On the other end, the state with the lowest median household income in 2022 was 
 
 Many things can affect why some states have higher median household incomes than others. One big reason is the kinds of jobs people have. In places like California and New York, there are a lot of high-paying jobs in tech, finance, and other industries. These jobs make the median income higher because more people earn a lot of money. Also, big cities in these states attract a lot of businesses and educated workers, which can push up incomes. On the other hand, states like Mississippi and West Virginia might have more jobs in farming or mining, which often don't pay as much. The cost of living can also play a part. In states where it's more expensive to live, people might need to earn more to keep up.
 
-Another factor is education. States with more people who have gone to college usually have higher median incomes because college graduates often earn more. For example, Massachusetts and Maryland have a lot of universities and a high number of college graduates, which helps boost their median incomes. Also, government policies can make a difference. Some states might offer tax breaks or other incentives that help businesses grow and create good jobs. Lastly, things like the history of the area, how easy it is to get around, and even the weather can affect where businesses choose to set up and where people decide to live, which in turn impacts median household income.
+Another [factor](/wiki/factor-investing) is education. States with more people who have gone to college usually have higher median incomes because college graduates often earn more. For example, Massachusetts and Maryland have a lot of universities and a high number of college graduates, which helps boost their median incomes. Also, government policies can make a difference. Some states might offer tax breaks or other incentives that help businesses grow and create good jobs. Lastly, things like the history of the area, how easy it is to get around, and even the weather can affect where businesses choose to set up and where people decide to live, which in turn impacts median household income.
 
 ## How does median household income correlate with other economic indicators like unemployment rate and cost of living?
 
@@ -80,7 +80,7 @@ Economic conditions are another big factor. When the economy is doing well, busi
 
 To forecast future trends in median household income by state, experts can use different kinds of predictive models. One common model is called regression analysis. This model looks at past data on things like employment rates, education levels, and cost of living to guess what might happen to median income in the future. Another model is time series analysis, which looks at how median income has changed over time and uses that pattern to predict future changes. Both of these models help us see what might happen to median income in different states by using numbers and patterns from the past.
 
-Another way to predict median household income is by using machine learning models. These models can look at a lot of different data at the same time, like state policies, economic conditions, and even things like population growth or migration patterns. By finding patterns in all this data, machine learning can make very detailed predictions about how median income might change in each state. These models are good at handling a lot of information and can be updated with new data to make their predictions even better over time.
+Another way to predict median household income is by using [machine learning](/wiki/machine-learning) models. These models can look at a lot of different data at the same time, like state policies, economic conditions, and even things like population growth or migration patterns. By finding patterns in all this data, machine learning can make very detailed predictions about how median income might change in each state. These models are good at handling a lot of information and can be updated with new data to make their predictions even better over time.
 
 ## What are the variations in income across U.S. states?
 

@@ -54,7 +54,7 @@ By putting your money into defensive sectors, you can protect your investments b
 
 ## What are the benefits and risks of inverse ETFs in a bear market?
 
-Inverse ETFs are a way to make money when the market goes down. They are designed to give you the opposite return of a certain index or sector. So, if the market drops by 1%, an inverse ETF might go up by 1%. This can be really helpful in a bear market because you can make money even when everything else is losing value. It's like betting against the market, and if you guess right, you can earn a profit while others are losing money.
+Inverse ETFs are a way to make money when the market goes down. They are designed to give you the opposite return of a certain index or sector. So, if the market drops by 1%, an inverse [ETF](/wiki/etf-trading-strategies) might go up by 1%. This can be really helpful in a bear market because you can make money even when everything else is losing value. It's like betting against the market, and if you guess right, you can earn a profit while others are losing money.
 
 But, inverse ETFs can also be risky. They use complicated financial tools to get their opposite returns, and this can make them more volatile. If the market doesn't go down like you expect, you could lose a lot of money quickly. Also, they are usually meant for short-term trading, not for holding onto for a long time. If you keep them too long, their value might not match the market's movements as well, and you could end up losing money even if the market does eventually go down. So, while they can be a good tool in a bear market, you need to be careful and know what you're doing.
 
@@ -86,7 +86,7 @@ To manage these feelings, it's important to stay calm and not make quick decisio
 
 ## What are the strategic steps for profiting in bear markets?
 
-To effectively generate profits in bear markets, traders must prioritize the backtesting of their strategies, ensuring proficiency in both bullish and bearish conditions. Backtesting serves as a critical step in validating an algorithm's performance by simulating trades against historical data. By doing so, traders can ascertain the viability of their approaches in varied market environments, thereby enhancing the reliability of their strategies. 
+To effectively generate profits in bear markets, traders must prioritize the [backtesting](/wiki/backtesting) of their strategies, ensuring proficiency in both bullish and bearish conditions. Backtesting serves as a critical step in validating an algorithm's performance by simulating trades against historical data. By doing so, traders can ascertain the viability of their approaches in varied market environments, thereby enhancing the reliability of their strategies. 
 
 Diversification emerges as a vital component in risk management. By trading both long and short positions, traders can achieve a balanced exposure to market movements, capitalizing on gains from falling prices while simultaneously being prepared for periods of upward [momentum](/wiki/momentum). This balance mitigates potential losses from an overexposed position and enhances the probability of profitable trades across diverse scenarios.
 

@@ -18,7 +18,7 @@ Bonds are a way for companies and governments to raise money. They can use the m
 
 The main risk when you invest in bonds is that the issuer might not be able to pay you back. This is called default risk. If a company or government runs into financial trouble, they might not have enough money to pay the interest or return your principal when the bond matures. This risk is higher with bonds from companies that are not doing well financially, compared to bonds from stable governments or big, successful companies.
 
-Another risk is interest rate risk. When interest rates go up, the value of your existing bonds goes down. This happens because new bonds issued at the higher interest rate become more attractive to investors. If you want to sell your bond before it matures, you might have to sell it for less than what you paid for it. On the flip side, if interest rates fall, the value of your bond can go up, but this doesn't affect the interest payments you receive, which stay the same until the bond matures.
+Another risk is [interest rate](/wiki/interest-rate-trading-strategies) risk. When interest rates go up, the value of your existing bonds goes down. This happens because new bonds issued at the higher interest rate become more attractive to investors. If you want to sell your bond before it matures, you might have to sell it for less than what you paid for it. On the flip side, if interest rates fall, the value of your bond can go up, but this doesn't affect the interest payments you receive, which stay the same until the bond matures.
 
 ## How does interest rate risk affect bond prices?
 
@@ -82,7 +82,7 @@ Another strategy is to use tools like interest rate swaps or currency hedging. T
 
 ## What are the risks associated with bond investments?
 
-Bonds have long been perceived as relatively secure investment vehicles, appealing to conservative investors seeking stable returns. Despite this reputation, bonds are not devoid of risks. Understanding these risks is crucial for investors aiming to safeguard their investments. The main risks associated with bond investments include interest rate risk, reinvestment risk, credit/default risk, and liquidity risk.
+Bonds have long been perceived as relatively secure investment vehicles, appealing to conservative investors seeking stable returns. Despite this reputation, bonds are not devoid of risks. Understanding these risks is crucial for investors aiming to safeguard their investments. The main risks associated with bond investments include interest rate risk, reinvestment risk, credit/default risk, and [liquidity](/wiki/liquidity-risk-premium) risk.
 
 **Interest Rate Risk** is a primary concern for bond investors. It stems from the inverse relationship between interest rates and bond prices: as interest rates rise, bond prices tend to fall, and vice-versa. This inverse relationship can be expressed mathematically as:
 

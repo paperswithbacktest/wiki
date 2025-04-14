@@ -46,7 +46,7 @@ Another example of high-risk stocks is those in industries that change a lot, li
 
 ## How can investors assess the risk level of different cryptocurrencies?
 
-Investors can assess the risk level of different cryptocurrencies by looking at how much the price goes up and down. This is called volatility. If a cryptocurrency's price changes a lot in a short time, it is more risky. For example, if Bitcoin goes up and down by 10% in a day, it is more volatile than a cryptocurrency that only changes by 1% in a day. Investors can look at the history of a cryptocurrency's price to see how much it has moved in the past. This can help them understand how risky it might be in the future.
+Investors can assess the risk level of different cryptocurrencies by looking at how much the price goes up and down. This is called [volatility](/wiki/volatility-trading-strategies). If a cryptocurrency's price changes a lot in a short time, it is more risky. For example, if Bitcoin goes up and down by 10% in a day, it is more volatile than a cryptocurrency that only changes by 1% in a day. Investors can look at the history of a cryptocurrency's price to see how much it has moved in the past. This can help them understand how risky it might be in the future.
 
 Another way to assess risk is by looking at the size and age of the cryptocurrency. Newer cryptocurrencies, or those with a smaller market, are often riskier than older, bigger ones. This is because they have less history and fewer people using them. For example, a new cryptocurrency with a small market might be more likely to fail than Bitcoin, which has been around for a long time and has a big market. Investors can also look at how much the cryptocurrency is used and how many people are interested in it. The more people use it and the more interest it has, the less risky it might be.
 
@@ -68,7 +68,7 @@ Developed market equities, on the other hand, come from countries with strong an
 
 Real estate investments can be risky because of many things that can change their value. One big thing is where the property is located. If it's in a place that people want to live or work, it might be worth more. But if the area gets worse or people move away, the value can go down. Another thing is how easy it is to rent out or sell the property. If there are a lot of empty buildings around, it might be hard to find someone to rent or buy your property, which makes it riskier. Also, the cost of fixing up the property can be high, and if you have to spend a lot of money on repairs, it can make your investment less profitable.
 
-Another factor that affects the risk of real estate is the economy. When the economy is doing well, more people can afford to buy or rent homes, which can make your property more valuable. But if the economy gets bad, people might not be able to pay their rent or mortgage, and this can hurt your investment. Interest rates also play a big role. If interest rates go up, it can be harder for people to borrow money to buy homes, which can lower the demand for real estate. On the other hand, if interest rates are low, more people might want to buy, which can help your investment. So, understanding these things can help you figure out how risky a real estate investment might be.
+Another [factor](/wiki/factor-investing) that affects the risk of real estate is the economy. When the economy is doing well, more people can afford to buy or rent homes, which can make your property more valuable. But if the economy gets bad, people might not be able to pay their rent or mortgage, and this can hurt your investment. Interest rates also play a big role. If interest rates go up, it can be harder for people to borrow money to buy homes, which can lower the demand for real estate. On the other hand, if interest rates are low, more people might want to buy, which can help your investment. So, understanding these things can help you figure out how risky a real estate investment might be.
 
 ## How can advanced statistical models help in predicting the performance of risk assets?
 
@@ -150,7 +150,7 @@ df.loc[df['SMA50'] > df['SMA200'], 'Signal'] = 1  # Buy signal
 df.loc[df['SMA50'] < df['SMA200'], 'Signal'] = -1  # Sell signal
 ```
 
-Algorithmic approaches harness quantitative models to capture price movements, often driven by advanced data analytics and machine learning techniques. These strategies must be thoroughly tested and refined to ensure robust performance across diverse market conditions. Overall, the integration of algorithmic trading in stock markets underscores the drive towards innovation, aiming to maximize profitability while navigating the inherent risks associated with stocks as risk assets.
+Algorithmic approaches harness quantitative models to capture price movements, often driven by advanced data analytics and [machine learning](/wiki/machine-learning) techniques. These strategies must be thoroughly tested and refined to ensure robust performance across diverse market conditions. Overall, the integration of [algorithmic trading](/wiki/algorithmic-trading) in stock markets underscores the drive towards innovation, aiming to maximize profitability while navigating the inherent risks associated with stocks as risk assets.
 
 ## References & Further Reading
 

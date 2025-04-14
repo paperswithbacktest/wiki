@@ -122,7 +122,7 @@ sharpe = sharpe_ratio(returns, risk_free_rate)
 print("Sharpe Ratio:", sharpe)
 ```
 
-By effectively evaluating these metrics, investors can ensure their trading algorithms are well-calibrated to achieve desired financial outcomes. Regular reviews and updates ensure that the strategy remains resilient, capitalizing on algorithmic trading's potential for superior market performance.
+By effectively evaluating these metrics, investors can ensure their trading algorithms are well-calibrated to achieve desired financial outcomes. Regular reviews and updates ensure that the strategy remains resilient, capitalizing on [algorithmic trading](/wiki/algorithmic-trading)'s potential for superior market performance.
 
 ## What are the key metrics in algorithmic trading assessment?
 

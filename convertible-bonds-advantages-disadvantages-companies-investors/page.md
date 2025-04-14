@@ -24,7 +24,7 @@ The main difference is this choice to convert into stock. Traditional bonds don'
 
 Convertible bonds are good for companies because they can raise money without immediately giving away ownership. When a company sells a convertible bond, it gets cash from investors. This money can be used to grow the business, like buying new equipment or expanding into new markets. The company doesn't have to give up any control right away because the bond starts off as a loan, not as stock.
 
-Another advantage is that convertible bonds usually have a lower interest rate than regular bonds. This means the company pays less money over time to borrow. Investors are okay with a lower interest rate because they have the chance to convert the bond into stock later. If the company does well and the stock price goes up, investors can make more money by converting. So, it's a win-win: the company saves on interest, and investors get a potential for bigger gains.
+Another advantage is that convertible bonds usually have a lower [interest rate](/wiki/interest-rate-trading-strategies) than regular bonds. This means the company pays less money over time to borrow. Investors are okay with a lower interest rate because they have the chance to convert the bond into stock later. If the company does well and the stock price goes up, investors can make more money by converting. So, it's a win-win: the company saves on interest, and investors get a potential for bigger gains.
 
 ## What are the potential disadvantages of issuing convertible bonds for companies?
 

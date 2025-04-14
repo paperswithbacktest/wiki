@@ -48,7 +48,7 @@ The company also looks at what customers said in surveys and on social media. Th
 
 Market reaction modeling often uses simple statistical methods to understand how people react to changes. One common method is regression analysis, which looks at how one thing, like price changes, affects another thing, like sales. This helps businesses see if raising or lowering prices will make people buy more or less of a product. Another method is time series analysis, which looks at how sales or customer behavior changes over time. This can show patterns, like if sales always go up in the summer or if people buy less when prices go up.
 
-More advanced models might use machine learning techniques, like decision trees or neural networks, to predict how people will react. These methods can handle a lot of data and find complex patterns that simpler methods might miss. For example, they can look at customer feedback, social media posts, and sales numbers all at once to make better predictions. By using these statistical methods, businesses can make smarter decisions and understand their customers better.
+More advanced models might use [machine learning](/wiki/machine-learning) techniques, like decision trees or neural networks, to predict how people will react. These methods can handle a lot of data and find complex patterns that simpler methods might miss. For example, they can look at customer feedback, social media posts, and sales numbers all at once to make better predictions. By using these statistical methods, businesses can make smarter decisions and understand their customers better.
 
 ## How can machine learning enhance market reaction models?
 
@@ -72,7 +72,7 @@ Another way to check the model is by using something called cross-validation. Th
 
 To make market reaction models better at predicting how people will react, you can use something called ensemble methods. These methods combine different models to make one big, strong model. It's like having a team of experts instead of just one person. By putting together the predictions from different models, you can get a more accurate guess about what will happen. This can help businesses make smarter choices because they have a better idea of how their customers will react to changes.
 
-Another way to improve these models is by using deep learning. Deep learning is a type of machine learning that can find very complex patterns in data. It's like a super-smart computer that can learn from a lot of information at once. Deep learning can look at things like sales numbers, customer feedback, and even what people are saying on social media. By using deep learning, the model can understand how different things affect each other and make better predictions. This helps businesses stay ahead and make decisions based on the latest information.
+Another way to improve these models is by using [deep learning](/wiki/deep-learning). Deep learning is a type of machine learning that can find very complex patterns in data. It's like a super-smart computer that can learn from a lot of information at once. Deep learning can look at things like sales numbers, customer feedback, and even what people are saying on social media. By using deep learning, the model can understand how different things affect each other and make better predictions. This helps businesses stay ahead and make decisions based on the latest information.
 
 ## How can market reaction modeling be integrated into broader economic forecasting models?
 
@@ -86,7 +86,7 @@ Algorithmic trading encompasses a variety of strategies aimed at predicting and 
 
 ### Trend Following Algorithms
 
-Trend following algorithms are designed to harness historical data and identify market patterns to make informed trading decisions. These algorithms assume that asset prices often move in persistent directions, either upwards or downwards, for extended periods. By analyzing past price movements and volume data, trend-following strategies predict future behaviors. A basic implementation can be expressed through moving averages, where a trade is executed when a short-term moving average crosses a long-term moving average. This crossing often signals the continuation or reversal of a trend.
+Trend following algorithms are designed to harness historical data and identify market patterns to make informed trading decisions. These algorithms assume that asset prices often move in persistent directions, either upwards or downwards, for extended periods. By analyzing past price movements and [volume](/wiki/volume-trading-strategy) data, trend-following strategies predict future behaviors. A basic implementation can be expressed through moving averages, where a trade is executed when a short-term moving average crosses a long-term moving average. This crossing often signals the continuation or reversal of a trend.
 
 ```python
 # Example of a simple moving average crossover strategy
@@ -123,7 +123,7 @@ Arbitrage seeks to exploit price differences of identical or similar financial i
 
 ### Market Making Algorithms
 
-Market making involves providing liquidity to markets by presenting simultaneous buy and sell orders. Market makers profit from the bid-ask spread, the difference between the purchase and sale prices. These algorithms continuously adjust orders in response to market movements, aiming to buy securities at a lower bid price and sell them at a higher ask price. Effective market making requires sophisticated risk management practices to mitigate the impact of adverse price movements.
+Market making involves providing [liquidity](/wiki/liquidity-risk-premium) to markets by presenting simultaneous buy and sell orders. Market makers profit from the bid-ask spread, the difference between the purchase and sale prices. These algorithms continuously adjust orders in response to market movements, aiming to buy securities at a lower bid price and sell them at a higher ask price. Effective market making requires sophisticated risk management practices to mitigate the impact of adverse price movements.
 
 In summary, each [algorithmic trading](/wiki/algorithmic-trading) strategy—trend following, mean reversion, arbitrage, and market making—leverages unique market behaviors to achieve profitability. Understanding and implementing these strategies requires a balance of economic insight, mathematical modeling, and technological capability.
 

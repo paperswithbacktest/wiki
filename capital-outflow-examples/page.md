@@ -92,7 +92,7 @@ Another model is the Capital Asset Pricing Model (CAPM). This model helps to fig
 
 Effective economic policies play a crucial role in stabilizing capital flows and ensuring economic resilience. These policies must strike a balance between applying restrictive measures and maintaining an environment conducive to investment. Key policy interventions include adjusting interest rates, implementing capital controls, and enhancing regulatory oversight, each of which significantly impacts capital flow dynamics and economic stability.
 
-Adjusting interest rates is a primary tool used by central banks to influence capital movements. By increasing interest rates, a country can attract foreign investment due to higher returns compared to other markets. Conversely, lowering interest rates can encourage domestic spending and investment by making borrowing cheaper. For instance, during periods of economic downturn, central banks might reduce interest rates to stimulate economic activity. The formula for the interest rate spread, which impacts capital flow, can be expressed as:
+Adjusting interest rates is a primary tool used by central banks to influence capital movements. By increasing interest rates, a country can attract foreign investment due to higher returns compared to other markets. Conversely, lowering interest rates can encourage domestic spending and investment by making borrowing cheaper. For instance, during periods of economic downturn, central banks might reduce interest rates to stimulate economic activity. The formula for the [interest rate](/wiki/interest-rate-trading-strategies) spread, which impacts capital flow, can be expressed as:
 
 $$
 \text{Interest Rate Spread} = \text{Domestic Interest Rate} - \text{Foreign Interest Rate}

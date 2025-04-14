@@ -42,7 +42,7 @@ AdaBoost, which stands for Adaptive Boosting, is a popular way to do boosting. I
 
 Gradient Boosting is another way to make predictions better by using many models, where each new model helps fix the mistakes of the last one. It works by starting with a simple model and then adding more models one by one. Each new model looks at the errors from the last model and tries to correct them. It does this by figuring out how to change the predictions to make them better, using something called gradients. Think of it like climbing a hill: if you want to get to the top, you look at the slope and take steps in the direction that goes up. Gradient Boosting does something similar, adjusting the predictions step by step to get closer to the right answer.
 
-What makes Gradient Boosting different from other boosting methods, like AdaBoost, is how it decides what to focus on next. While AdaBoost gives more attention to the data points that were wrong before, Gradient Boosting looks at the overall error and tries to reduce it. It uses math to find the best way to make the next model fix the mistakes, focusing on the direction that will improve the predictions the most. This makes Gradient Boosting really good at handling complex problems and can lead to very accurate predictions, which is why it's used a lot in machine learning.
+What makes Gradient Boosting different from other boosting methods, like AdaBoost, is how it decides what to focus on next. While AdaBoost gives more attention to the data points that were wrong before, Gradient Boosting looks at the overall error and tries to reduce it. It uses math to find the best way to make the next model fix the mistakes, focusing on the direction that will improve the predictions the most. This makes Gradient Boosting really good at handling complex problems and can lead to very accurate predictions, which is why it's used a lot in [machine learning](/wiki/machine-learning).
 
 ## What are some common ensemble techniques for classification problems?
 
@@ -84,7 +84,7 @@ Another way to optimize ensemble methods for large-scale datasets is by using te
 
 ## What are the advantages of ensemble methods in trading?
 
-Ensemble methods offer distinct advantages in algorithmic trading by enhancing predictive accuracy and reducing [volatility](/wiki/volatility-trading-strategies) within trading models. These techniques combine the strengths of multiple models, thereby providing a more reliable framework for making trading decisions.
+Ensemble methods offer distinct advantages in [algorithmic trading](/wiki/algorithmic-trading) by enhancing predictive accuracy and reducing [volatility](/wiki/volatility-trading-strategies) within trading models. These techniques combine the strengths of multiple models, thereby providing a more reliable framework for making trading decisions.
 
 One of the primary benefits of ensemble methods is their ability to capture complex patterns and relationships inherent in financial data. Financial markets are influenced by a myriad of factors, including economic indicators, geopolitical events, and investor sentiment, which can create non-linear and intricate patterns. Ensemble methods, by integrating various models, can discern these patterns more effectively than individual models. For instance, whereas a single decision tree might focus narrowly on specific attributes in the data, an ensemble of trees, such as a Random Forest, can capture a broader range of features and interactions, producing a more nuanced and comprehensive analysis.
 

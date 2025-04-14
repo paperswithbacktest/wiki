@@ -76,13 +76,13 @@ Another innovation is better customer support. Now, people can talk to experts w
 
 ## What are the future trends and potential developments for DRBs?
 
-In the future, Dollar Runs Bars (DRBs) might become even easier to use. People could see new apps and tools that help them buy and sell DRBs with just a few clicks on their phone. These tools might use smart technology, like artificial intelligence, to give better advice on when to invest. This could make more people want to try DRBs because they will feel safer and more in control of their money.
+In the future, Dollar Runs Bars (DRBs) might become even easier to use. People could see new apps and tools that help them buy and sell DRBs with just a few clicks on their phone. These tools might use smart technology, like [artificial intelligence](/wiki/ai-artificial-intelligence), to give better advice on when to invest. This could make more people want to try DRBs because they will feel safer and more in control of their money.
 
 Another trend could be that DRBs start to work with other types of investments, like stocks and bonds, in new ways. This could help people spread out their risks even more. Companies might also find new ways to explain DRBs better, so more people understand them. This could make DRBs more popular and help local economies grow by bringing in more investment money.
 
 ## What are the concept and benefits of Dollar Runs Bars?
 
-Dollar runs bars (DRBs) represent a novel method of aggregating market data based on the financial value exchanged rather than the passage of time or the number of trades. Unlike traditional time-based bars, which can suffer from inefficiency by capturing unnecessary data during inactive periods or missing crucial information during peak trading activity, DRBs focus on the volume of capital moving through the market. This ensures that the data captured is directly relevant to the trading interest and not merely reflective of an arbitrary timeline.
+Dollar runs bars (DRBs) represent a novel method of aggregating market data based on the financial value exchanged rather than the passage of time or the number of trades. Unlike traditional time-based bars, which can suffer from inefficiency by capturing unnecessary data during inactive periods or missing crucial information during peak trading activity, DRBs focus on the [volume](/wiki/volume-trading-strategy) of capital moving through the market. This ensures that the data captured is directly relevant to the trading interest and not merely reflective of an arbitrary timeline.
 
 The fundamental concept behind dollar runs bars is to use the monetary value as the primary determinant for forming a new bar. This approach means that a new DRB is created only once a predetermined amount of money has changed hands in the marketplace. Such a methodology aligns data sampling with genuine market interest and activity, providing traders with a more accurate representation of price action.
 

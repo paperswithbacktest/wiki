@@ -94,7 +94,7 @@ $$
 
 **Spread Trading and Pricing Inefficiencies**
 
-Spread trading capitalizes on pricing inefficiencies between similar financial instruments by taking offsetting positions. Commonly, this involves long and short positions in derivatives of the same type or in derivatives with embedded options. An example is a calendar spread, where a trader might simultaneously buy a long-dated option and sell a near-term option with the same strike price. The embedded options can add layers of complexity and potential profit by exploiting differences in implied volatility and time decay.
+Spread trading capitalizes on pricing inefficiencies between similar financial instruments by taking offsetting positions. Commonly, this involves long and short positions in derivatives of the same type or in derivatives with embedded options. An example is a calendar spread, where a trader might simultaneously buy a long-dated option and sell a near-term option with the same strike price. The embedded options can add layers of complexity and potential profit by exploiting differences in implied [volatility](/wiki/volatility-trading-strategies) and time decay.
 
 **Arbitrage Opportunities with Embedded Features**
 
@@ -137,7 +137,7 @@ This code exemplifies the ability to simulate a delta hedging strategy to potent
 
 **Multifaceted Approaches**
 
-Successful investment strategies often require a multifaceted approach. By mixing derivatives with embedded options and integrating algorithmic trading, investors can respond to diverse market conditions effectively. This blend not only offers potential profit maximization but also enhances flexibility in adjusting to volatile market dynamics. Such strategies must be rooted in comprehensive research, precise execution, and consistent oversight to exploit market conditions continually and efficiently.
+Successful investment strategies often require a multifaceted approach. By mixing derivatives with embedded options and integrating [algorithmic trading](/wiki/algorithmic-trading), investors can respond to diverse market conditions effectively. This blend not only offers potential profit maximization but also enhances flexibility in adjusting to volatile market dynamics. Such strategies must be rooted in comprehensive research, precise execution, and consistent oversight to exploit market conditions continually and efficiently.
 
 ## References & Further Reading
 

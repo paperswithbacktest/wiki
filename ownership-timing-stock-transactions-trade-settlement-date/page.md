@@ -76,7 +76,7 @@ Another change that's been talked about is moving to a T+1 settlement cycle, whi
 
 ## How do advanced trading strategies utilize the differences between trade date and settlement date?
 
-Advanced trading strategies often use the time between the trade date and the settlement date to their advantage. Traders might use this time to buy and sell stocks quickly, making money from small changes in stock prices. For example, they might buy a stock and then sell it before it settles, hoping to make a profit from the price difference. This is called "day trading" and it's a way to use the time between trade and settlement to make money fast.
+Advanced trading strategies often use the time between the trade date and the settlement date to their advantage. Traders might use this time to buy and sell stocks quickly, making money from small changes in stock prices. For example, they might buy a stock and then sell it before it settles, hoping to make a profit from the price difference. This is called "[day trading](/wiki/day-trading-spy)" and it's a way to use the time between trade and settlement to make money fast.
 
 Another way traders use this time is by using a strategy called "short selling." In short selling, a trader borrows a stock and sells it, hoping the price will go down before they have to buy it back and return it. If the price does go down, they can buy it back cheaper and make a profit. The time between the trade date and the settlement date gives them a window to do this. Both these strategies show how traders can use the settlement period to try to make money, but they also come with risks because the stock market can be unpredictable.
 

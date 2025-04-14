@@ -28,7 +28,7 @@ This puzzle matters because it affects how we understand and use the risk-free r
 
 ## How does the risk-free rate puzzle affect investment decisions?
 
-The risk-free rate puzzle can make it harder for people to decide where to put their money. If the risk-free rate is lower than expected, other investments might look more attractive even if they are riskier. People might think, "Hey, if the safe option isn't giving me much, why not try something that could give me more, even if it's not guaranteed?" This can lead to more money flowing into stocks, real estate, or other investments that carry more risk.
+The risk-free rate puzzle can make it harder for people to decide where to put their money. If the risk-free rate is lower than expected, other investments might look more attractive even if they are riskier. People might think, "Hey, if the safe option isn't giving me much, why not try something that could give me more, even if it's not guaranteed?" This can lead to more money flowing into stocks, real estate, or other investments that [carry](/wiki/carry-trading) more risk.
 
 On the flip side, if the risk-free rate is higher than expected, people might be more cautious. They might stick with the safe choice of government bonds because the return is good enough without taking on extra risk. This can slow down investment in riskier assets, which can affect the economy. So, understanding the risk-free rate puzzle helps investors make better choices by knowing what to expect from safe investments and how that impacts their overall investment strategy.
 

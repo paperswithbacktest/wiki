@@ -42,7 +42,7 @@ After the trade is executed, the next step is the settlement, which happens two 
 
 Regular-way trades help keep financial markets liquid by setting a standard time for when trades get settled. When everyone knows that trades will settle two business days after they're made, it makes it easier for people to buy and sell things quickly. This standard time helps create a smooth flow of buying and selling, which makes the market more active and easier to use. If people can count on trades settling on time, they're more likely to trade, which keeps the market moving and liquid.
 
-Also, regular-way trades reduce the risk of one person not doing what they promised. Because everyone knows the trade will settle in two days, it's less likely that someone will back out or not have the money or securities ready. This trust makes people more willing to trade, which adds to the market's liquidity. When people feel safe and sure about their trades, they trade more often, which keeps the market active and liquid.
+Also, regular-way trades reduce the risk of one person not doing what they promised. Because everyone knows the trade will settle in two days, it's less likely that someone will back out or not have the money or securities ready. This trust makes people more willing to trade, which adds to the market's [liquidity](/wiki/liquidity-risk-premium). When people feel safe and sure about their trades, they trade more often, which keeps the market active and liquid.
 
 ## What are the risks associated with regular-way trades?
 
@@ -70,7 +70,7 @@ Another way technology helps is by making the whole process safer. With technolo
 
 ## What are some common strategies used by traders in regular-way trading?
 
-Traders use different strategies when they do regular-way trades. One common strategy is called day trading. Day traders buy and sell stocks within the same day, hoping to make a profit from small changes in the stock's price. They use a lot of information and special tools to decide when to buy and sell. Another strategy is called swing trading. Swing traders hold onto stocks for a few days or weeks, trying to make money from bigger changes in the stock's price. They look at things like company news and market trends to make their decisions.
+Traders use different strategies when they do regular-way trades. One common strategy is called [day trading](/wiki/day-trading-spy). Day traders buy and sell stocks within the same day, hoping to make a profit from small changes in the stock's price. They use a lot of information and special tools to decide when to buy and sell. Another strategy is called swing trading. Swing traders hold onto stocks for a few days or weeks, trying to make money from bigger changes in the stock's price. They look at things like company news and market trends to make their decisions.
 
 Another strategy is called buy and hold. People who use this strategy buy stocks and keep them for a long time, like months or years. They believe that over time, the stock's price will go up, and they can make a good profit. This strategy is less about quick trades and more about believing in the long-term growth of a company. All these strategies can work well in regular-way trading because they take advantage of the standard two-day settlement period, which gives traders a bit of time to plan and make their moves.
 

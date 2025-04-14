@@ -21,7 +21,7 @@ To fix this problem, people use techniques like gradient clipping. This means se
 
 ## What are the common signs that a neural network is experiencing an Exploding Gradient Problem?
 
-When a neural network has an Exploding Gradient Problem, you'll see its performance get worse very quickly. The network might start off learning okay, but then suddenly, its predictions become way off. It's like the network is going crazy and can't figure out how to get better. You might see the loss, which is how bad the network's predictions are, jump up to a huge number or even become infinity. This is a clear sign that the gradients are too big and are messing up the training.
+When a [neural network](/wiki/neural-network) has an Exploding Gradient Problem, you'll see its performance get worse very quickly. The network might start off learning okay, but then suddenly, its predictions become way off. It's like the network is going crazy and can't figure out how to get better. You might see the loss, which is how bad the network's predictions are, jump up to a huge number or even become infinity. This is a clear sign that the gradients are too big and are messing up the training.
 
 Another sign is that the weights of the network change by huge amounts from one training step to the next. If you're watching the weights, you might see them swing wildly, which is not normal. This happens because the gradients are too big, causing the weights to be updated by too much. To fix this, you might need to use something like gradient clipping, where you set a limit on how big the gradients can get. This helps keep the training stable and lets the network learn properly.
 
@@ -53,7 +53,7 @@ You can also use tools and techniques to help detect this issue. For example, yo
 
 Gradient clipping is a technique used to stop gradients from getting too big during training. When gradients are too large, they can cause the weights in a neural network to change by huge amounts, which can make the network's predictions very bad. Gradient clipping works by setting a limit on how big the gradients can get. If a gradient is bigger than this limit, it gets cut down to the limit. This helps keep the training stable and lets the network learn properly.
 
-Imagine you're trying to adjust the volume on a radio, but each time you turn the dial, it moves too much, making the sound too loud or too quiet. Gradient clipping is like setting a maximum amount you can turn the dial, so you can make small, controlled adjustments. By using gradient clipping, you can prevent the gradients from exploding and help the neural network learn more effectively.
+Imagine you're trying to adjust the [volume](/wiki/volume-trading-strategy) on a radio, but each time you turn the dial, it moves too much, making the sound too loud or too quiet. Gradient clipping is like setting a maximum amount you can turn the dial, so you can make small, controlled adjustments. By using gradient clipping, you can prevent the gradients from exploding and help the neural network learn more effectively.
 
 ## How can adjusting the learning rate help in preventing exploding gradients?
 

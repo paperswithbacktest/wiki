@@ -40,7 +40,7 @@ On the other hand, if the capacity utilization rate is too low, it means the bus
 
 ## What are the factors that influence capacity utilization rate?
 
-Several factors can influence the capacity utilization rate of a business. One big factor is demand for the products or services the business offers. If more people want to buy what the business is selling, the business will use more of its machines, workers, and space to meet that demand. This can push the capacity utilization rate higher. On the other hand, if fewer people want to buy what the business is selling, the business might not need to use all its resources, which can lower the capacity utilization rate.
+Several factors can influence the capacity utilization rate of a business. One big [factor](/wiki/factor-investing) is demand for the products or services the business offers. If more people want to buy what the business is selling, the business will use more of its machines, workers, and space to meet that demand. This can push the capacity utilization rate higher. On the other hand, if fewer people want to buy what the business is selling, the business might not need to use all its resources, which can lower the capacity utilization rate.
 
 Another factor is how well the business manages its resources. If the business has good ways to plan and organize its work, it can use its machines, workers, and space more efficiently. This can help keep the capacity utilization rate high even if demand stays the same. But if the business has problems with planning or organizing, it might not use its resources as well, which can lower the capacity utilization rate.
 

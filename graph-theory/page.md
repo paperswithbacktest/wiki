@@ -84,7 +84,7 @@ Graph theory also helps with optimization, which means making things work as wel
 
 ## How is Graph Theory Applied in Algorithmic Trading?
 
-Graph theory enhances algorithmic trading by offering sophisticated tools to identify hidden patterns within complex financial datasets through network analysis. A pivotal contribution to this field comes from the use of visibility graphs, which are derived from time series data. By transforming sequential market data into visual network forms, visibility graphs provide an innovative method for pattern detection in market movements.
+Graph theory enhances [algorithmic trading](/wiki/algorithmic-trading) by offering sophisticated tools to identify hidden patterns within complex financial datasets through network analysis. A pivotal contribution to this field comes from the use of visibility graphs, which are derived from time series data. By transforming sequential market data into visual network forms, visibility graphs provide an innovative method for pattern detection in market movements.
 
 In more detail, a visibility graph is constructed by treating data points in a time series as nodes, while edges are established between nodes if a straight line can be drawn between data points without intersecting any intermediate data points. This methodology is valuable for depicting the inherent structures and correlations present in financial time series.
 

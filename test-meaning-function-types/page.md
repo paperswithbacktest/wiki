@@ -78,7 +78,7 @@ Automation also makes testing more reliable. When people do tests, they might ma
 
 ## What are the future trends in testing and evaluation?
 
-In the future, testing and evaluation will use more smart technology. Computers and artificial intelligence will help make tests better and faster. For example, AI can look at test results and find patterns that people might miss. This can help teachers know what students need to learn more about. Also, more tests will be done online, making it easier for people to take them from home or anywhere. This can make testing more fair because everyone can take the test in the same way, no matter where they live.
+In the future, testing and evaluation will use more smart technology. Computers and [artificial intelligence](/wiki/ai-artificial-intelligence) will help make tests better and faster. For example, AI can look at test results and find patterns that people might miss. This can help teachers know what students need to learn more about. Also, more tests will be done online, making it easier for people to take them from home or anywhere. This can make testing more fair because everyone can take the test in the same way, no matter where they live.
 
 Another trend will be personalized testing. This means tests will be made just for each person, based on what they need to learn or check. For example, if a student is good at math but needs help with reading, the test can focus more on reading. This can make learning better because the tests are more helpful for each person. Also, there will be more focus on testing skills that are important for the future, like problem-solving and working with others. By using these new ways of testing, we can help people learn and grow in the best way possible.
 
@@ -138,7 +138,7 @@ By employing these testing strategies, traders enhance the reliability and robus
 
 ## What is backtesting and what are its benefits?
 
-Backtesting is a fundamental component in the validation process of trading strategies within algorithmic trading. By utilizing historical market data, traders can systematically evaluate the past performance of their algorithms, thereby gaining insights into the potential future efficacy of these strategies.
+Backtesting is a fundamental component in the validation process of trading strategies within [algorithmic trading](/wiki/algorithmic-trading). By utilizing historical market data, traders can systematically evaluate the past performance of their algorithms, thereby gaining insights into the potential future efficacy of these strategies.
 
 One of the primary benefits of backtesting is its ability to aid in refining algorithms. This process involves identifying any inherent flaws in the strategy logic and uncovering potential trading opportunities before implementing the strategy in real-world scenarios. By analyzing how a strategy would have performed historically, traders can make necessary adjustments to enhance its effectiveness, thus reducing financial risk during live trading.
 

@@ -36,13 +36,13 @@ The value of fiat currency can change based on how much people trust the economy
 
 The supply of fiat currency is controlled by a country's central bank. The central bank can make more money or take some out of circulation. They do this to help keep the economy stable. For example, if they want to help the economy grow, they might print more money so people can borrow and spend more easily. But if there's too much money and prices start going up too fast, they might take some money out to cool things down.
 
-Central banks also use other tools to control the money supply. They can change the interest rates that banks charge each other for loans. If they lower the interest rate, it's easier for banks to borrow money, and they can lend more to people and businesses. If they raise the interest rate, borrowing becomes harder, and there's less money flowing around. By carefully managing these tools, central banks try to keep the economy balanced and the value of the currency stable.
+Central banks also use other tools to control the money supply. They can change the interest rates that banks charge each other for loans. If they lower the [interest rate](/wiki/interest-rate-trading-strategies), it's easier for banks to borrow money, and they can lend more to people and businesses. If they raise the interest rate, borrowing becomes harder, and there's less money flowing around. By carefully managing these tools, central banks try to keep the economy balanced and the value of the currency stable.
 
 ## What are the advantages of using fiat currency over commodity-based money?
 
 Using fiat currency has some big advantages over using commodity-based money, like gold or silver. One big advantage is that it's easier to control the supply of fiat money. If the economy needs more money to grow, the government can just print more. This helps keep the economy moving smoothly. With commodity money, you're stuck with how much gold or silver you can find, which can be hard to change quickly.
 
-Another advantage is that fiat money is easier to use every day. You can carry it around in your wallet or use it online. It's lighter and more convenient than carrying around heavy gold coins. Plus, you don't have to worry about finding and storing a physical commodity like gold, which can be tricky and expensive. This makes everyday buying and selling much simpler and faster with fiat money.
+Another advantage is that fiat money is easier to use every day. You can [carry](/wiki/carry-trading) it around in your wallet or use it online. It's lighter and more convenient than carrying around heavy gold coins. Plus, you don't have to worry about finding and storing a physical commodity like gold, which can be tricky and expensive. This makes everyday buying and selling much simpler and faster with fiat money.
 
 ## What are the potential disadvantages or risks associated with fiat currency?
 

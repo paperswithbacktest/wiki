@@ -18,7 +18,7 @@ Forex brokers are important because they make it easier for people to trade curr
 
 The main job of a forex broker is to help people trade different currencies. When someone wants to buy or sell a currency, they use the broker's platform to do it. The broker makes sure that the trade happens smoothly and safely. They also keep track of all the trades and make sure that everyone follows the rules.
 
-Forex brokers also provide tools and information that help traders make good choices. They give traders charts, news, and other data that can help them decide when to buy or sell a currency. This makes it easier for people to trade currencies from anywhere in the world, even if they don't know a lot about the forex market.
+Forex brokers also provide tools and information that help traders make good choices. They give traders charts, news, and other data that can help them decide when to buy or sell a currency. This makes it easier for people to trade currencies from anywhere in the world, even if they don't know a lot about the [forex](/wiki/forex-system) market.
 
 ## How does a forex broker facilitate trading?
 
@@ -30,7 +30,7 @@ Forex brokers also give traders tools and information to help them make good tra
 
 There are mainly three types of forex brokers: dealing desk, no dealing desk, and electronic communication network (ECN) brokers. Dealing desk brokers, also known as market makers, set their own prices and take the other side of the trade. This means they might profit from the spread between buying and selling prices. No dealing desk brokers, on the other hand, pass trades directly to the market without setting their own prices. They are further divided into straight through processing (STP) and electronic communication network (ECN) brokers.
 
-STP brokers send trades directly to their liquidity providers, which could be banks or other financial institutions. This means traders get prices from the market, not set by the broker. ECN brokers connect traders directly to other traders and liquidity providers through an electronic network. This usually results in better prices and faster trades, but it can be more complex and often requires a larger minimum deposit. Each type of broker has its own advantages and might be better suited for different kinds of traders, depending on their needs and trading style.
+STP brokers send trades directly to their [liquidity](/wiki/liquidity-risk-premium) providers, which could be banks or other financial institutions. This means traders get prices from the market, not set by the broker. ECN brokers connect traders directly to other traders and liquidity providers through an electronic network. This usually results in better prices and faster trades, but it can be more complex and often requires a larger minimum deposit. Each type of broker has its own advantages and might be better suited for different kinds of traders, depending on their needs and trading style.
 
 ## What regulations do forex brokers need to comply with?
 

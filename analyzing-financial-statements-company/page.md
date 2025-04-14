@@ -124,7 +124,7 @@ $$
 
 These indicators are inherently valuable in creating trading signals within algorithmic models. An algorithm may use the P/E ratio to filter potential investment opportunities or employ free cash flow metrics to assess financial sustainability.
 
-Effective algorithmic trading mandates not only precise data from financial statements but also their timely analysis. Developments in programming offer powerful tools such as Python libraries for data analysis, including Pandas and NumPy, which facilitate the integration of such metrics into complex trading algorithms. For instance, a simple framework for utilizing financial metrics in Python might involve:
+Effective [algorithmic trading](/wiki/algorithmic-trading) mandates not only precise data from financial statements but also their timely analysis. Developments in programming offer powerful tools such as Python libraries for data analysis, including Pandas and NumPy, which facilitate the integration of such metrics into complex trading algorithms. For instance, a simple framework for utilizing financial metrics in Python might involve:
 
 ```python
 import pandas as pd

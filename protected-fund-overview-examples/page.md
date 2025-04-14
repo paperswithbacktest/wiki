@@ -82,7 +82,7 @@ Another example is the Guaranteed Investment Funds (GIFs) you can find at insura
 
 To evaluate the performance of a protected fund, you need to look at a few things. First, check how much money the fund has made over time. This is called the return. Even though protected funds focus on keeping your money safe, they can still grow a bit. Look at the fund's returns over different periods, like one year, three years, or five years, to see how well it's doing. Also, compare the fund's returns to other similar funds to see if it's doing better or worse.
 
-Next, consider the risks the fund has taken to get those returns. Protected funds use special tools to limit losses, but they still have some risk. Look at how much the fund's value goes up and down, which is called volatility. A fund with less volatility is safer. Also, think about the fees you're paying. Higher fees can eat into your returns, so make sure the fund's performance is worth the cost. By looking at returns, risk, and fees, you can get a good idea of how well a protected fund is doing.
+Next, consider the risks the fund has taken to get those returns. Protected funds use special tools to limit losses, but they still have some risk. Look at how much the fund's value goes up and down, which is called [volatility](/wiki/volatility-trading-strategies). A fund with less volatility is safer. Also, think about the fees you're paying. Higher fees can eat into your returns, so make sure the fund's performance is worth the cost. By looking at returns, risk, and fees, you can get a good idea of how well a protected fund is doing.
 
 ## References & Further Reading
 

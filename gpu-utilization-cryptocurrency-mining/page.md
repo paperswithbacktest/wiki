@@ -30,7 +30,7 @@ CPUs, on the other hand, are good at doing one task at a time but not as good at
 
 The main things that affect how well a GPU works for mining are its hash rate and power use. The hash rate is how many guesses the GPU can make in a second. A higher hash rate means the GPU can try more codes and has a better chance of solving the puzzle first. But, a GPU that uses a lot of power might not be the best choice if the electricity cost is high. You need to find a good balance between how fast the GPU can mine and how much it costs to run it.
 
-Another important thing is the type of cryptocurrency you're mining. Different cryptocurrencies use different puzzle types, and some GPUs are better at solving certain kinds of puzzles. Also, the GPU's memory and how fast it can move data around inside itself can make a big difference. If the GPU has a lot of memory and can move data quickly, it can mine more efficiently. So, when picking a GPU for mining, you need to think about all these things to get the best performance.
+Another important thing is the type of cryptocurrency you're mining. Different cryptocurrencies use different puzzle types, and some GPUs are better at solving certain kinds of puzzles. Also, the GPU's memory and how fast it can move data around inside itself can make a big difference. If the GPU has a lot of memory and can move data quickly, it can mine more efficiently. So, when [picking](/wiki/asset-class-picking) a GPU for mining, you need to think about all these things to get the best performance.
 
 ## How do you measure GPU utilization in mining?
 

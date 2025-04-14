@@ -28,7 +28,7 @@ Crypto-collateralized stablecoins are backed by other cryptocurrencies instead o
 
 ## How do fiat-collateralized stablecoins work?
 
-Fiat-collateralized stablecoins are a type of cryptocurrency that is backed by real money, like the US dollar. When people make these stablecoins, they keep real money in a bank to match the amount of stablecoins they create. For example, if they create 100 stablecoins, they keep $100 in a bank. This way, they can promise that each stablecoin can be traded for a real US dollar. This makes people trust the stablecoin because they know it has real value backing it up.
+Fiat-collateralized stablecoins are a type of [cryptocurrency](/wiki/cryptocurrency) that is backed by real money, like the US dollar. When people make these stablecoins, they keep real money in a bank to match the amount of stablecoins they create. For example, if they create 100 stablecoins, they keep $100 in a bank. This way, they can promise that each stablecoin can be traded for a real US dollar. This makes people trust the stablecoin because they know it has real value backing it up.
 
 These stablecoins are useful for people who want to use cryptocurrency without worrying about big price changes. Because they are tied to real money, their value stays steady. This makes them good for buying things online, sending money to other countries, or keeping money safe in the world of cryptocurrencies. People can trade these stablecoins back and forth for real money easily, which makes them a handy tool for many different uses.
 

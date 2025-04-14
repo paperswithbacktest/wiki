@@ -38,7 +38,7 @@ In a rolling hedge, people often use futures contracts. These are agreements to 
 
 Another common tool is options. Options give you the right, but not the obligation, to buy or sell something at a set price. They can be a bit more flexible than futures because you don't have to go through with the deal if you don't want to. For example, if you're worried about currency rates changing, you might buy options that let you exchange money at a good rate for a short time. When that time is up, you can buy new options at the current rates. This lets you keep your hedge up to date without being stuck with one decision for too long.
 
-Sometimes, people also use forward contracts in a rolling hedge. These are similar to futures but are usually made directly between two parties instead of on an exchange. They can be useful for things like managing interest rate risk or currency risk. For instance, if you're a company that needs to borrow money in the future, you might set up a forward contract to lock in today's interest rate for a short time. When that time is over, you can set up a new contract at the new rate. This way, you can keep your costs under control and adjust your plan as the market changes.
+Sometimes, people also use forward contracts in a rolling hedge. These are similar to futures but are usually made directly between two parties instead of on an exchange. They can be useful for things like managing [interest rate](/wiki/interest-rate-trading-strategies) risk or currency risk. For instance, if you're a company that needs to borrow money in the future, you might set up a forward contract to lock in today's interest rate for a short time. When that time is over, you can set up a new contract at the new rate. This way, you can keep your costs under control and adjust your plan as the market changes.
 
 ## How do you determine the appropriate timing for contract rollover in a rolling hedge?
 
@@ -54,7 +54,7 @@ Another thing to consider is what you're trying to protect against. If you're wo
 
 ## How does market volatility affect the strategy of a rolling hedge?
 
-Market volatility, or how much prices go up and down, can really change how you use a rolling hedge. If the market is bouncing around a lot, you might want to use shorter contracts. This way, you can keep updating your hedge to fit the new prices. It's like always having a fresh plan that can handle the ups and downs. But, it also means more work because you'll need to keep buying new contracts more often.
+Market [volatility](/wiki/volatility-trading-strategies), or how much prices go up and down, can really change how you use a rolling hedge. If the market is bouncing around a lot, you might want to use shorter contracts. This way, you can keep updating your hedge to fit the new prices. It's like always having a fresh plan that can handle the ups and downs. But, it also means more work because you'll need to keep buying new contracts more often.
 
 On the other hand, if the market is pretty calm and prices aren't changing much, you might choose longer contracts. This can be easier because you won't need to update your hedge as often. But if the market suddenly starts to move a lot, a longer contract might not be as good. So, when the market is volatile, a rolling hedge lets you stay flexible and adjust your plan to whatever is happening right now.
 

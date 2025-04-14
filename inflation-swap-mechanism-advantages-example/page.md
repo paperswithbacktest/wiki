@@ -82,7 +82,7 @@ Now, let's say inflation does go up more than expected. The CPI rises by 3% in a
 
 ## What are Financial Derivatives and Inflation Swaps and how can they be understood?
 
-Financial derivatives are financial instruments that derive their value from an underlying asset, index, or interest rate. They are used to hedge, speculate, or gain access to additional assets or markets. A common example of a derivative is an option whose value is based on the price of a stock or commodity. Inflation swaps, a subset of financial derivatives, are specifically designed to manage inflation risk by allowing two parties to exchange cash flows based on inflation indices.
+Financial derivatives are financial instruments that derive their value from an underlying asset, index, or [interest rate](/wiki/interest-rate-trading-strategies). They are used to hedge, speculate, or gain access to additional assets or markets. A common example of a derivative is an option whose value is based on the price of a stock or commodity. Inflation swaps, a subset of financial derivatives, are specifically designed to manage inflation risk by allowing two parties to exchange cash flows based on inflation indices.
 
 In an inflation swap, one party agrees to pay a fixed interest rate, while the other party pays a floating rate that is linked to an inflation index such as the Consumer Price Index (CPI). The fixed payment provides certainty regarding future payments, while the floating payment compensates for the actual inflation rate. This swap mechanism enables the transfer of inflation risk between the parties involved.
 

@@ -54,7 +54,7 @@ Over the years, the Colón has seen times when it lost value quickly, and other 
 
 The value of the Costa Rican Colón is affected by many things in the economy. One big thing is how much other countries want to buy things from Costa Rica, like coffee and bananas. If they want to buy a lot, the Colón might become stronger because more people need it to buy those things. Another important thing is how much money Costa Rica borrows from other countries. If they borrow a lot, it can make the Colón weaker because people might worry about paying it back. Also, the interest rates set by the Central Bank of Costa Rica can change the Colón's value. If they make interest rates higher, it can make the Colón stronger because it makes saving money in Colónes more attractive.
 
-Another factor is how stable the government is. If people think the government is doing a good job, they might trust the Colón more, which can make it stronger. But if there are problems or people are worried about the future, the Colón might get weaker. Inflation also plays a big role. If prices in Costa Rica go up a lot, the Colón loses value because you need more of it to buy the same things. Finally, the exchange rate with other big currencies like the US dollar can change the Colón's value. If the dollar gets stronger, the Colón usually gets weaker, and if the dollar gets weaker, the Colón might get stronger.
+Another [factor](/wiki/factor-investing) is how stable the government is. If people think the government is doing a good job, they might trust the Colón more, which can make it stronger. But if there are problems or people are worried about the future, the Colón might get weaker. Inflation also plays a big role. If prices in Costa Rica go up a lot, the Colón loses value because you need more of it to buy the same things. Finally, the exchange rate with other big currencies like the US dollar can change the Colón's value. If the dollar gets stronger, the Colón usually gets weaker, and if the dollar gets weaker, the Colón might get stronger.
 
 ## How does the Costa Rican Colón compare to other currencies in Central America?
 
@@ -82,7 +82,7 @@ There are also challenges that could make things harder for the Colón. One big 
 
 ## How can CRC be integrated into algorithmic trading?
 
-Incorporating the Costa Rican Colón (CRC) into algorithmic trading strategies presents both challenges and opportunities. Algorithmic trading, which relies on computer programs to execute trades based on predefined criteria, offers significant advantages in terms of speed, accuracy, and the ability to process large data sets. However, the relatively smaller market size of the CRC compared to major currencies like the USD or EUR presents unique considerations.
+Incorporating the Costa Rican Colón (CRC) into [algorithmic trading](/wiki/algorithmic-trading) strategies presents both challenges and opportunities. Algorithmic trading, which relies on computer programs to execute trades based on predefined criteria, offers significant advantages in terms of speed, accuracy, and the ability to process large data sets. However, the relatively smaller market size of the CRC compared to major currencies like the USD or EUR presents unique considerations.
 
 ### Challenges and Opportunities
 
@@ -109,7 +109,7 @@ $$
 
 ### Impact on Liquidity and Volatility
 
-Algorithmic trading can potentially improve CRC's market liquidity by providing continuous buying and selling, thus narrowing spreads and decreasing execution costs for traders. This increased activity also has the potential to reduce volatility by stabilizing prices through constant market participation. However, reliance on algorithms during periods of market stress may amplify volatility, as was observed during the "flash crash" events in larger markets.
+Algorithmic trading can potentially improve CRC's market [liquidity](/wiki/liquidity-risk-premium) by providing continuous buying and selling, thus narrowing spreads and decreasing execution costs for traders. This increased activity also has the potential to reduce [volatility](/wiki/volatility-trading-strategies) by stabilizing prices through constant market participation. However, reliance on algorithms during periods of market stress may amplify volatility, as was observed during the "flash crash" events in larger markets.
 
 ### Enhancing Efficiency
 

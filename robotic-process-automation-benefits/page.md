@@ -68,7 +68,7 @@ However, setting up RPA to work with existing systems can take some time and eff
 
 ## What are the best practices for implementing RPA?
 
-When you start using RPA, it's important to pick the right tasks for the bots. Look for jobs that are boring and repetitive, like entering data or processing invoices. These tasks are perfect for RPA because the bots can do them quickly and without making mistakes. Also, make sure to choose tasks that don't need a lot of thinking or decision-making, since RPA bots can't do those things. By picking the right tasks, you can make sure that RPA helps your business the most.
+When you start using RPA, it's important to pick the right tasks for the bots. Look for jobs that are boring and repetitive, like entering data or processing invoices. These tasks are perfect for RPA because the bots can do them quickly and without making mistakes. Also, make sure to choose tasks that don't need a lot of thinking or decision-making, since RPA bots can't do those things. By [picking](/wiki/asset-class-picking) the right tasks, you can make sure that RPA helps your business the most.
 
 Once you've picked the tasks, you need to set up the RPA system carefully. This means making clear and detailed instructions for the bots to follow. It can take some time to get this right, but it's worth it because the bots need to know exactly what to do. It's also a good idea to start with a small project first, to see how RPA works in your business. If it goes well, you can use RPA for more tasks later. Remember to keep checking on the RPA system and update it if your other software changes, so the bots keep working well.
 
@@ -80,7 +80,7 @@ RPA also has something called "cognitive automation," which is a bit like giving
 
 ## How is RPA expected to evolve in the future?
 
-In the future, RPA is expected to become even smarter and more useful. One big change will be the use of artificial intelligence (AI) and machine learning. This means that RPA bots will be able to learn from what they do and get better over time. They will be able to handle more complicated tasks that need some thinking and decision-making, not just simple repetitive work. This will make RPA even more helpful for businesses because the bots will be able to do a wider range of jobs.
+In the future, RPA is expected to become even smarter and more useful. One big change will be the use of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning). This means that RPA bots will be able to learn from what they do and get better over time. They will be able to handle more complicated tasks that need some thinking and decision-making, not just simple repetitive work. This will make RPA even more helpful for businesses because the bots will be able to do a wider range of jobs.
 
 Another way RPA will evolve is by working better with other technologies. RPA will be more connected to things like cloud computing, which means businesses can use RPA from anywhere. RPA will also work more closely with other automation tools, making it easier to set up and manage. This will help businesses use RPA in more parts of their work, making everything run more smoothly and efficiently. As RPA gets smarter and more connected, it will become an even bigger part of how businesses work.
 

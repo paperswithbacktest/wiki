@@ -28,7 +28,7 @@ These funds work by pooling money from many investors and using it to buy pallad
 
 ## What are the different types of investment funds that offer palladium exposure?
 
-There are a few types of investment funds that can help you invest in palladium without buying the metal yourself. One type is called an Exchange-Traded Fund (ETF). These funds are like a basket of investments that you can buy and sell on the stock market, just like stocks. Some ETFs focus on commodities like palladium, so by buying shares in these ETFs, you can own a piece of the fund that owns palladium.
+There are a few types of investment funds that can help you invest in palladium without buying the metal yourself. One type is called an Exchange-Traded Fund ([ETF](/wiki/etf-trading-strategies)). These funds are like a basket of investments that you can buy and sell on the stock market, just like stocks. Some ETFs focus on commodities like palladium, so by buying shares in these ETFs, you can own a piece of the fund that owns palladium.
 
 Another type of fund is a mutual fund. These funds also pool money from many people to invest in different things, including palladium. Mutual funds are managed by professionals who decide where to put the money. You can buy shares in a mutual fund that includes palladium in its portfolio, which gives you exposure to the metal's price movements.
 

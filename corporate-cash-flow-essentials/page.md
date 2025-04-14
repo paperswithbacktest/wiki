@@ -104,13 +104,13 @@ The confluence of these analytical tools forms the backbone of effective financi
 
 ## References & Further Reading
 
-Advances in Financial Machine Learning by Marcos Lopez de Prado is a comprehensive resource for understanding the intersection of machine learning and finance. It covers advanced methodologies applicable to financial data analysis and addresses the unique challenges of applying machine learning to trading strategies.  
+Advances in Financial Machine Learning by Marcos Lopez de Prado is a comprehensive resource for understanding the intersection of [machine learning](/wiki/machine-learning) and finance. It covers advanced methodologies applicable to financial data analysis and addresses the unique challenges of applying machine learning to trading strategies.  
 
-Quantitative Trading: How to Build Your Own Algorithmic Trading Business by Ernest P. Chan provides an in-depth guide to constructing algorithmic trading systems. It explores practical aspects of building a trading business, including data management, backtesting strategies, and risk management principles.  
+Quantitative Trading: How to Build Your Own Algorithmic Trading Business by Ernest P. Chan provides an in-depth guide to constructing [algorithmic trading](/wiki/algorithmic-trading) systems. It explores practical aspects of building a trading business, including data management, [backtesting](/wiki/backtesting) strategies, and risk management principles.  
 
 Machine Learning for Algorithmic Trading by Stefan Jansen serves as an essential guide for developing machine learning-powered trading strategies. The book integrates financial theory with applied machine learning techniques, offering Python examples to demonstrate strategy development and implementation.  
 
-Algorithmic Trading: Winning Strategies and Their Rationale by Ernest P. Chan focuses on the development of robust trading strategies. It provides insights into the rationale behind successful algorithmic trading, discussing strategies like statistical arbitrage and market-making with a quantitative approach.  
+Algorithmic Trading: Winning Strategies and Their Rationale by Ernest P. Chan focuses on the development of robust trading strategies. It provides insights into the rationale behind successful algorithmic trading, discussing strategies like statistical [arbitrage](/wiki/arbitrage) and market-making with a quantitative approach.  
 
 For further research and insights, numerous scholarly articles and research papers explore the nuanced aspects of corporate finance, cash flow analysis, and algorithmic trading. These publications provide valuable information on the methodologies and practical applications in these interconnected domains.
 

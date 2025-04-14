@@ -155,7 +155,7 @@ $$
 
 ### Comprehensive Economic Insights
 
-The combined analysis of CPI, PPI, and unemployment rates provides a nuanced view of economic conditions. CPI and PPI together inform about current inflationary trends, while unemployment rates highlight labor market conditions. These indicators collectively aid in assessing the economic pulse and aiding policymakers, economists, and traders in developing informed perspectives and strategies. Understanding these indicators helps in anticipating central bank monetary policies, such as interest rate adjustments, which further influence economic activities and financial market responses.
+The combined analysis of CPI, PPI, and unemployment rates provides a nuanced view of economic conditions. CPI and PPI together inform about current inflationary trends, while unemployment rates highlight labor market conditions. These indicators collectively aid in assessing the economic pulse and aiding policymakers, economists, and traders in developing informed perspectives and strategies. Understanding these indicators helps in anticipating central bank monetary policies, such as [interest rate](/wiki/interest-rate-trading-strategies) adjustments, which further influence economic activities and financial market responses.
 
 ## References & Further Reading
 
@@ -177,5 +177,5 @@ The combined analysis of CPI, PPI, and unemployment rates provides a nuanced vie
 
 9. **"The Handbook of Economic Indicators for Policy Making" by United Nations** - This handbook provides guidelines on how economic indicators are used in policy-making. It is essential for understanding the relationship between various indicators and their impact on economic strategy development. 
 
-These resources offer foundational knowledge and advanced insights into economic indicators and algorithmic trading, essential for both novice and experienced practitioners in financial markets.
+These resources offer foundational knowledge and advanced insights into economic indicators and [algorithmic trading](/wiki/algorithmic-trading), essential for both novice and experienced practitioners in financial markets.
 

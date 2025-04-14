@@ -88,7 +88,7 @@ Another important finding is that social support plays a big role in adjustment.
 
 ## What are Adjustment Mechanisms?
 
-Various methods and tools are utilized in the adjustment of algorithmic trading strategies, with skewness and liquidity adjustments being particularly notable for their roles in optimizing algorithmic performance.
+Various methods and tools are utilized in the adjustment of [algorithmic trading](/wiki/algorithmic-trading) strategies, with skewness and [liquidity](/wiki/liquidity-risk-premium) adjustments being particularly notable for their roles in optimizing algorithmic performance.
 
 Skewness adjustment is a technique employed to address the asymmetry observed in the distributions of asset returns. In the financial context, skewness refers to the degree to which returns deviate from the normal distribution, indicating potential risks and opportunities beyond those predicted by standard models like the Gaussian distribution. Positive skewness suggests a distribution with potential for higher-than-average gains at the expense of occasional large losses, while negative skewness indicates the opposite. By accounting for skewness, traders can more accurately assess risk and reward profiles, enabling the refinement of trading strategies to better align with their risk appetites. Mathematically, skewness ($\gamma$) can be defined as:
 

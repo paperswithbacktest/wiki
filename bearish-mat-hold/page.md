@@ -127,7 +127,7 @@ $$
 \text{Stop-Loss Level} = \text{Entry Price} - (ATR \times \text{Multiplier})
 $$
 
-Proper backtesting remains a cornerstone for understanding the historical effectiveness of the Mat Hold pattern. Through backtesting, traders can simulate how the pattern would have performed across different market conditions. This process involves using past price data to test the pattern's success rate and profitability. By adjusting strategies based on backtest results, traders can improve their strategies' predictive power and adapt to changing market dynamics.
+Proper [backtesting](/wiki/backtesting) remains a cornerstone for understanding the historical effectiveness of the Mat Hold pattern. Through backtesting, traders can simulate how the pattern would have performed across different market conditions. This process involves using past price data to test the pattern's success rate and profitability. By adjusting strategies based on backtest results, traders can improve their strategies' predictive power and adapt to changing market dynamics.
 
 Incorporating all these practices ensures a disciplined approach, maximizing the Mat Hold pattern's potential while minimizing risks associated with overreliance and premature trading decisions.
 

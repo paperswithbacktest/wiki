@@ -46,7 +46,7 @@ Some CMAs might not have these fees if you keep a certain amount of money in the
 
 ## How is the interest calculated in a Cash Management Account?
 
-Interest in a Cash Management Account is calculated based on the money you keep in the account. The bank looks at how much money you have and uses a rate, called the interest rate, to figure out how much interest you earn. This rate can change, so it's good to check it now and then. The interest is usually added to your account every month, but some banks might do it differently.
+Interest in a Cash Management Account is calculated based on the money you keep in the account. The bank looks at how much money you have and uses a rate, called the [interest rate](/wiki/interest-rate-trading-strategies), to figure out how much interest you earn. This rate can change, so it's good to check it now and then. The interest is usually added to your account every month, but some banks might do it differently.
 
 The way interest is calculated can be a bit tricky. It's often based on the average daily balance in your account. This means the bank adds up the balance at the end of each day in the month and then divides it by the number of days in that month. The interest you earn is then based on this average. If you keep more money in your account, you can earn more interest. It's a good idea to ask your bank how they calculate interest so you understand it better.
 

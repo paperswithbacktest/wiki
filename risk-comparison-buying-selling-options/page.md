@@ -46,7 +46,7 @@ However, even though time decay helps you, there's still risk. If the price of t
 
 ## What role does volatility play in the risk of buying options?
 
-Volatility is how much the price of an asset goes up and down. When you buy options, high volatility can be good and bad. It's good because if the price moves a lot in the direction you want, your option can become more valuable quickly. This means you can make more money. But it's bad because if the price moves a lot in the wrong direction, your option can lose value fast. This means you can lose money quickly too. So, high volatility makes buying options riskier because the price can change a lot in a short time.
+Volatility is how much the price of an asset goes up and down. When you buy options, high [volatility](/wiki/volatility-trading-strategies) can be good and bad. It's good because if the price moves a lot in the direction you want, your option can become more valuable quickly. This means you can make more money. But it's bad because if the price moves a lot in the wrong direction, your option can lose value fast. This means you can lose money quickly too. So, high volatility makes buying options riskier because the price can change a lot in a short time.
 
 Low volatility means the price doesn't move much. When you buy options in a low volatility market, it's harder for your option to become more valuable. The price needs to move more than you expected to make money, and if it doesn't, your option might expire worthless. This makes buying options in a low volatility market riskier because you need a bigger price move to cover the cost of the option. So, whether volatility is high or low, it affects the risk of buying options in different ways.
 

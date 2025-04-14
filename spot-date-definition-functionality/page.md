@@ -58,7 +58,7 @@ If the spot date falls on a weekend or a holiday, it moves to the next business 
 
 ## What role does the spot date play in forex trading?
 
-In forex trading, the spot date is very important because it tells people when they will get the money they traded for. It is usually two business days after the trade. This gives banks enough time to move the money safely between accounts. If you trade on a Monday, you will get your money on Wednesday. This two-day rule helps keep forex trading smooth and predictable for everyone involved.
+In [forex](/wiki/forex-system) trading, the spot date is very important because it tells people when they will get the money they traded for. It is usually two business days after the trade. This gives banks enough time to move the money safely between accounts. If you trade on a Monday, you will get your money on Wednesday. This two-day rule helps keep forex trading smooth and predictable for everyone involved.
 
 If the spot date falls on a weekend or a holiday, it moves to the next business day. For example, if you trade on Wednesday and the spot date would normally be Friday, but Friday is a holiday, you will get your money on Monday instead. This makes sure that everyone gets their money on a day when banks are open and working. Knowing when the spot date is helps people plan their trades better and make sure they get their money on time.
 
@@ -90,7 +90,7 @@ $$
 R_t = f(S(t), \text{adjusted transaction dates})
 $$
 
-In addition to backtesting, implementing real-time monitoring and alert systems is pivotal for effectively managing transaction date-related risks. Real-time systems enable traders and financial institutions to react promptly to unexpected market shifts or discrepancies in transaction processing. For instance, a sudden change in market liquidity conditions or a delay in a settlement process can be immediately flagged by a robust alert mechanism, allowing traders to make necessary adjustments to their strategies. Real-time monitoring involves deploying tools and algorithms that continuously track transaction statuses, market conditions, and potential irregularities. Python code snippets demonstrating real-time monitoring might look like:
+In addition to backtesting, implementing real-time monitoring and alert systems is pivotal for effectively managing transaction date-related risks. Real-time systems enable traders and financial institutions to react promptly to unexpected market shifts or discrepancies in transaction processing. For instance, a sudden change in market [liquidity](/wiki/liquidity-risk-premium) conditions or a delay in a settlement process can be immediately flagged by a robust alert mechanism, allowing traders to make necessary adjustments to their strategies. Real-time monitoring involves deploying tools and algorithms that continuously track transaction statuses, market conditions, and potential irregularities. Python code snippets demonstrating real-time monitoring might look like:
 
 ```python
 import time

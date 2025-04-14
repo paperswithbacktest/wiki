@@ -48,9 +48,9 @@ Another way to spot diworsification is to see if the investments are all over th
 
 ## What are the psychological factors that lead to diworsification?
 
-One psychological factor that leads to diworsification is the fear of missing out, or FOMO. When investors see others making money from a new trend or hot stock, they might feel like they need to jump in too. This can make them add more and more investments to their portfolio, even if it doesn't make sense for their overall plan. They might think that having a lot of different investments will keep them safe, but it can actually make things more complicated and less effective.
+One psychological [factor](/wiki/factor-investing) that leads to diworsification is the fear of missing out, or FOMO. When investors see others making money from a new trend or hot stock, they might feel like they need to jump in too. This can make them add more and more investments to their portfolio, even if it doesn't make sense for their overall plan. They might think that having a lot of different investments will keep them safe, but it can actually make things more complicated and less effective.
 
-Another factor is overconfidence. Some investors might think they can handle a lot of different investments and make good decisions about all of them. They might believe they can beat the market by picking lots of different stocks or other assets. But this can lead to a cluttered portfolio where they can't focus on the best opportunities. Overconfidence can make them ignore the risks of having too many investments and lead to diworsification.
+Another factor is overconfidence. Some investors might think they can handle a lot of different investments and make good decisions about all of them. They might believe they can beat the market by [picking](/wiki/asset-class-picking) lots of different stocks or other assets. But this can lead to a cluttered portfolio where they can't focus on the best opportunities. Overconfidence can make them ignore the risks of having too many investments and lead to diworsification.
 
 ## What strategies can be employed to prevent diworsification?
 

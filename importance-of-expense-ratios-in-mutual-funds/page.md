@@ -18,7 +18,7 @@ Different mutual funds have different expense ratios. Some funds might have a lo
 
 Beginners should care about expense ratios because they affect how much money they can make from their investments. When you put money into a mutual fund, the fund company takes a small part of it every year to pay for running the fund. This is the expense ratio. If the expense ratio is high, it means the fund company is taking more money out of your investment, which leaves you with less money to grow over time.
 
-Even a small difference in the expense ratio can make a big difference in the long run. For example, if you invest in a fund with a low expense ratio, more of your money stays in the fund and can grow. But if you choose a fund with a high expense ratio, you'll end up with less money because the fund company is taking more out each year. So, it's important for beginners to look at the expense ratio when picking a mutual fund to help their money grow as much as possible.
+Even a small difference in the expense ratio can make a big difference in the long run. For example, if you invest in a fund with a low expense ratio, more of your money stays in the fund and can grow. But if you choose a fund with a high expense ratio, you'll end up with less money because the fund company is taking more out each year. So, it's important for beginners to look at the expense ratio when [picking](/wiki/asset-class-picking) a mutual fund to help their money grow as much as possible.
 
 ## How does the expense ratio affect the overall return of a mutual fund?
 

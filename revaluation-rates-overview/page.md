@@ -24,7 +24,7 @@ This is important for making good decisions. If a company knows the true value o
 
 Revaluation rates can change the numbers on a company's financial statements. When a company revalues its assets, like buildings or land, to a higher value, it shows this increase on its balance sheet. The balance sheet is like a snapshot of what the company owns and owes at a certain time. If the value of an asset goes up, the company's total assets go up too. This can make the company look more valuable and financially stronger.
 
-This change can also affect the income statement, which shows how much money the company made or lost over a period. When an asset's value increases, the company might record a gain from the revaluation. This gain can make the company's profit look bigger for that period. But, it's important to remember that this gain is not from selling the asset or earning money from it. It's just because the asset is now worth more on paper. So, while revaluation can make financial statements look better, it's not the same as actually making more money.
+This change can also affect the income statement, which shows how much money the company made or lost over a period. When an asset's value increases, the company might record a gain from the revaluation. This gain can make the company's profit look bigger for that period. But, it's important to remember that this gain is not from selling the asset or [earning](/wiki/earning-announcement) money from it. It's just because the asset is now worth more on paper. So, while revaluation can make financial statements look better, it's not the same as actually making more money.
 
 ## What is the difference between revaluation and depreciation?
 
@@ -34,7 +34,7 @@ Depreciation, on the other hand, is when a company makes the value of an asset l
 
 ## Can you explain the process of revaluing assets?
 
-When a company decides to revalue its assets, it starts by looking at the current value of the asset. This could be a building, land, or any other long-term asset. The company might hire an expert, like an appraiser, to figure out what the asset is worth now. The appraiser will look at things like what similar assets are selling for, how the area around the asset has changed, and other factors that could affect its value. Once the appraiser gives their report, the company compares this new value to what they have on their books.
+When a company decides to revalue its assets, it starts by looking at the current value of the asset. This could be a building, land, or any other long-term asset. The company might hire an expert, like an appraiser, to figure out what the asset is worth now. The appraiser will look at things like what similar assets are selling for, how the area around the asset has changed, and other factors that could affect its value. Once the appraiser gives their report, the company compares this new value to what they have on their [books](/wiki/algo-trading-books).
 
 If the new value is higher than what's on the books, the company will increase the value of the asset on its financial statements. This increase is called a revaluation surplus, and it goes into a special part of the company's equity called the revaluation reserve. This shows that the asset is now worth more, but it's not the same as making money from selling the asset. The company will keep track of this new value and might need to do another revaluation in the future if the asset's value changes again.
 
@@ -100,11 +100,11 @@ where $\text{MPI}_{\text{new}}$ reflects the adjusted price index following the 
 
 ## What are strategic approaches to leverage currency revaluation in algo trading?
 
-Developing diversified algorithmic strategies is essential for effectively navigating the impacts of currency revaluation in algorithmic trading. A multi-faceted approach allows traders to mitigate risks while capitalizing on opportunities that arise from currency value shifts.
+Developing diversified algorithmic strategies is essential for effectively navigating the impacts of currency revaluation in [algorithmic trading](/wiki/algorithmic-trading). A multi-faceted approach allows traders to mitigate risks while capitalizing on opportunities that arise from currency value shifts.
 
 A critical component of this approach is the incorporation of robust risk management tools. Implementing features such as stop-loss orders and position size limits can significantly reduce potential losses. Stop-loss orders allow traders to set predefined levels at which their positions will be automatically sold, limiting drawback exposure during unpredictable fluctuations. For instance, if a currency pair trades under a high-degree revaluation period, setting a stop-loss 2% below the entry point provides a safety net should the market move unfavorably.
 
-Position size limits are equally important, restricting the size of investments based on market volatility and available capital. To calculate an appropriate position size, traders can use the formula:
+Position size limits are equally important, restricting the size of investments based on market [volatility](/wiki/volatility-trading-strategies) and available capital. To calculate an appropriate position size, traders can use the formula:
 
 $$
 \text{Position Size} = \frac{\text{Risk Capital} \times \text{Risk %}}{\text{Stop Loss Distance}}

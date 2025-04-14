@@ -42,7 +42,7 @@ Another benefit is that Stable Value Funds give you steady returns. They might n
 
 ## What are the risks associated with Stable Value Funds?
 
-Stable Value Funds are usually safe, but they do have some risks. One risk is that the insurance contracts that protect your money might not always work as planned. If the insurance company has problems, it could affect the fund's ability to keep your investment stable. Also, if a lot of people want to take their money out of the fund at the same time, it might be hard for the fund to give everyone their money back right away. This is called liquidity risk.
+Stable Value Funds are usually safe, but they do have some risks. One risk is that the insurance contracts that protect your money might not always work as planned. If the insurance company has problems, it could affect the fund's ability to keep your investment stable. Also, if a lot of people want to take their money out of the fund at the same time, it might be hard for the fund to give everyone their money back right away. This is called [liquidity](/wiki/liquidity-risk-premium) risk.
 
 Another risk is that the returns from Stable Value Funds might not keep up with inflation. This means that over time, the buying power of your money could go down even if the fund's value stays the same. While these funds are good for keeping your money safe, they might not grow fast enough to outpace rising prices. So, it's important to think about these risks when deciding if a Stable Value Fund is right for you.
 

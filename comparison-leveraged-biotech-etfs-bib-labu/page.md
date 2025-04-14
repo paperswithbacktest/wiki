@@ -22,7 +22,7 @@ This sector is really important because it helps improve our health and can save
 
 ## What are BIB and LABU?
 
-BIB is a special kind of investment called a leveraged ETF that focuses on the biotech sector. It tries to give you twice the daily return of the Nasdaq Biotechnology Index. This means if the biotech index goes up by 1%, BIB aims to go up by 2%. But, it's risky because if the biotech index goes down, BIB could go down twice as much too.
+BIB is a special kind of investment called a leveraged [ETF](/wiki/etf-trading-strategies) that focuses on the biotech sector. It tries to give you twice the daily return of the Nasdaq Biotechnology Index. This means if the biotech index goes up by 1%, BIB aims to go up by 2%. But, it's risky because if the biotech index goes down, BIB could go down twice as much too.
 
 LABU is another leveraged ETF, but it focuses on the healthcare sector. It aims to give you three times the daily return of the S&P Biotech Select Industry Index. So, if the healthcare index goes up by 1%, LABU tries to go up by 3%. Just like BIB, it's very risky because if the healthcare index goes down, LABU could lose three times as much.
 
@@ -60,7 +60,7 @@ Both BIB and LABU are not meant for long-term saving because they are very volat
 
 Investing in BIB and LABU comes with a lot of risks because they use leverage. BIB tries to give you twice the daily return of the biotech sector, and LABU tries to give you three times the daily return of the healthcare sector. This means if the biotech or healthcare sector goes down, BIB and LABU can lose a lot more money than the sector itself. They are very sensitive to daily changes in the market, which makes them unpredictable. If you're not careful, you could lose a big part of your investment quickly.
 
-Another risk is that these ETFs are not good for long-term saving. They are meant for people who want to make quick profits and are okay with taking big risks. Over time, the daily ups and downs can add up and hurt your investment a lot. This is called volatility decay. Even if the biotech or healthcare sector stays the same or goes up a little over time, BIB and LABU might still lose money because of how they are set up. So, it's important to watch these investments closely and be ready to make quick decisions.
+Another risk is that these ETFs are not good for long-term saving. They are meant for people who want to make quick profits and are okay with taking big risks. Over time, the daily ups and downs can add up and hurt your investment a lot. This is called [volatility](/wiki/volatility-trading-strategies) decay. Even if the biotech or healthcare sector stays the same or goes up a little over time, BIB and LABU might still lose money because of how they are set up. So, it's important to watch these investments closely and be ready to make quick decisions.
 
 Lastly, because BIB and LABU are so risky, they are not for everyone. You need to understand them well and be ready to lose money. They can be good for experienced investors who know what they're doing, but for most people, they are too risky. Always think about how much you can afford to lose before you invest in something like BIB or LABU.
 
@@ -84,7 +84,7 @@ This daily rebalancing can make BIB and LABU very risky. Because they are adjust
 
 ## What advanced strategies can be used when trading BIB and LABU?
 
-When trading BIB and LABU, one advanced strategy is to use them for short-term trading. Because these ETFs are very sensitive to daily market changes, you can try to make quick profits by buying them when you think the biotech or healthcare sector will go up and selling them before the end of the day. This is called day trading. It's risky because if the market goes down, you could lose a lot of money fast. But if you're good at guessing market moves, you might make some money. It's important to watch the market closely and be ready to sell quickly if things don't go your way.
+When trading BIB and LABU, one advanced strategy is to use them for short-term trading. Because these ETFs are very sensitive to daily market changes, you can try to make quick profits by buying them when you think the biotech or healthcare sector will go up and selling them before the end of the day. This is called [day trading](/wiki/day-trading-spy). It's risky because if the market goes down, you could lose a lot of money fast. But if you're good at guessing market moves, you might make some money. It's important to watch the market closely and be ready to sell quickly if things don't go your way.
 
 Another strategy is to use BIB and LABU for hedging. This means you can use them to protect other investments you have. If you own stocks in the biotech or healthcare sector and you're worried they might go down, you can buy BIB or LABU to balance out any losses. For example, if you think the biotech sector might drop, you could buy BIB. If the sector does go down, your other biotech stocks might lose value, but BIB could go up because it's trying to give you twice the opposite return. This can help you lose less money overall. But remember, hedging with leveraged ETFs is tricky and can still be risky, so you need to understand it well before trying it.
 

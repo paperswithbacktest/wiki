@@ -18,7 +18,7 @@ In science, volume is often measured in units like liters or cubic meters. A lit
 
 Volume is different from length and mass because it measures how much space an object takes up, while length measures how long something is, and mass measures how heavy something is. Imagine a box: its length tells you how long it is from one end to the other, its mass tells you how heavy it is, but its volume tells you how much stuff you can fit inside it. You can think of volume as the size of the space an object occupies.
 
-Length is a one-dimensional measurement, meaning it only goes in one direction, like a straight line. Mass, on the other hand, is about the amount of matter in an object, and it's usually measured in grams or kilograms. Volume is a three-dimensional measurement because it considers length, width, and height all at once. So, while length and mass give you specific information about an object, volume gives you a sense of its overall size and capacity.
+Length is a one-dimensional measurement, meaning it only goes in one direction, like a straight line. Mass, on the other hand, is about the amount of matter in an object, and it's usually measured in grams or kilograms. Volume is a three-dimensional measurement because it considers length, width, and height all at once. So, while length and mass give you specific information about an object, [volume](/wiki/volume-trading-strategy) gives you a sense of its overall size and capacity.
 
 ## What are the basic units of volume in the metric system?
 
@@ -148,7 +148,7 @@ where $P_i$ is the price of the trade, and $Q_i$ is the number of shares traded 
 
 VWAP's application in algorithmic trading involves designing algorithms that execute portions of a large order over time to match or beat the VWAP, thus reducing market impact and achieving better average prices. These algorithms are typically programmed to react dynamically to real-time trading volume data, ensuring execution strategies remain adaptable to current market conditions.
 
-Another strategy, the Time Weighted Average Price (TWAP), spreads order execution evenly across a specified time period. Unlike VWAP, TWAP is ideal for executing trades in markets with low liquidity or during periods of minimal volume fluctuation. TWAP helps traders achieve an average price representative of the time period and is less sensitive to short-term market volatility than VWAP.
+Another strategy, the Time Weighted Average Price (TWAP), spreads order execution evenly across a specified time period. Unlike VWAP, TWAP is ideal for executing trades in markets with low [liquidity](/wiki/liquidity-risk-premium) or during periods of minimal volume fluctuation. TWAP helps traders achieve an average price representative of the time period and is less sensitive to short-term market [volatility](/wiki/volatility-trading-strategies) than VWAP.
 
 Implementation of these volume algorithms requires a robust technical infrastructure. Key components include access to high-frequency, real-time market data, and a trading platform equipped to handle the rapid execution and processing of transactions. Effective algo trading necessitates a seamless integration of software capable of processing complex algorithms, reliable data feeds, and execution platforms.
 

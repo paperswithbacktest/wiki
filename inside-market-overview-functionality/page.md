@@ -82,7 +82,7 @@ Another trend could be more rules to make sure the inside market stays fair and 
 
 ## What are examples of inside market in algorithmic trading?
 
-Algorithmic trading harnesses the power of computers and mathematical models to execute trades at lightning speed and precision. Within this framework, the concept of the inside market is pivotal, particularly in strategies such as arbitrage, market-making, and trend-following.
+Algorithmic trading harnesses the power of computers and mathematical models to execute trades at lightning speed and precision. Within this framework, the concept of the inside market is pivotal, particularly in strategies such as [arbitrage](/wiki/arbitrage), market-making, and trend-following.
 
 **Arbitrage Strategies**
 
@@ -94,17 +94,17 @@ $$
 
 **Market-Making**
 
-Market-making algorithms aim to provide liquidity by continuously quoting buy and sell prices. These algorithms rely on inside market data to adjust their bids and asks, ensuring they offer competitive pricing while balancing inventory risks. For instance, if an algorithm detects a narrow inside spread with high trading volumes, it may decide to increase its position size to capture the higher liquidity. By constantly updating quotes, these algorithms help stabilize the market and narrow spreads, contributing to overall market efficiency.
+Market-making algorithms aim to provide [liquidity](/wiki/liquidity-risk-premium) by continuously quoting buy and sell prices. These algorithms rely on inside market data to adjust their bids and asks, ensuring they offer competitive pricing while balancing inventory risks. For instance, if an algorithm detects a narrow inside spread with high trading volumes, it may decide to increase its position size to capture the higher liquidity. By constantly updating quotes, these algorithms help stabilize the market and narrow spreads, contributing to overall market efficiency.
 
 **Trend-Following Strategies**
 
-Trend-following strategies capitalize on the [momentum](/wiki/momentum) of asset price movements. By analyzing changes in the inside market, these algorithms sense shifts in market sentiment. As the bid-ask spread tightens or widens, a trend-following algorithm might interpret this as a signal to enter or exit a position. For example, if a narrowing spread is detected alongside increasing bid prices, the algorithm might interpret this as a bullish trend and initiate a buying position.
+Trend-following strategies capitalize on the [momentum](/wiki/momentum) of asset price movements. By analyzing changes in the inside market, these algorithms sense shifts in market sentiment. As the bid-ask spread tightens or widens, a trend-following algorithm might interpret this as a signal to enter or [exit](/wiki/exit-strategy) a position. For example, if a narrowing spread is detected alongside increasing bid prices, the algorithm might interpret this as a bullish trend and initiate a buying position.
 
 **High-Frequency Trading**
 
 High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) strategies are highly dependent on minute changes in inside market spreads. HFT algorithms execute numerous trades in fractions of a second to exploit fleeting opportunities. These algorithms leverage their speed to capture small gains repeatedly, driven by even the slightest variations in bid and ask prices. The success of HFT is predicated on latency—the time delay before the transfer of data begins following an instruction for its transfer—and the algorithm's ability to anticipate and jump ahead in the order queue.
 
-In conclusion, utilizing inside market dynamics within algorithmic trading allows for sophisticated strategies that exploit small, often transient, market inefficiencies. As technology continues to advance, the precision and speed of these algorithms will likely improve, further enhancing their capacity to capitalize on inside market conditions.
+In conclusion, utilizing inside market dynamics within [algorithmic trading](/wiki/algorithmic-trading) allows for sophisticated strategies that exploit small, often transient, market inefficiencies. As technology continues to advance, the precision and speed of these algorithms will likely improve, further enhancing their capacity to capitalize on inside market conditions.
 
 ## References & Further Reading
 

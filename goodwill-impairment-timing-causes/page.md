@@ -18,7 +18,7 @@ When a company thinks that the value of goodwill might be less, they do a test t
 
 It's important to assess goodwill impairment because it helps keep a company's financial statements honest and accurate. When a company buys another business, it might pay more than the actual value of what it's buying. This extra amount is called goodwill. But if the business they bought isn't doing as well as they hoped, the value of that goodwill might need to go down. By checking for impairment, the company makes sure that the numbers on their financial statements match the real value of what they own.
 
-If a company doesn't check for goodwill impairment, it could end up showing a higher value for its assets than they're really worth. This can mislead investors and other people who look at the company's financial health. By regularly testing for impairment, the company can adjust the value of goodwill on its books to be more accurate. This helps everyone understand the true financial situation of the company and makes it easier to make smart decisions about investing or managing the business.
+If a company doesn't check for goodwill impairment, it could end up showing a higher value for its assets than they're really worth. This can mislead investors and other people who look at the company's financial health. By regularly testing for impairment, the company can adjust the value of goodwill on its [books](/wiki/algo-trading-books) to be more accurate. This helps everyone understand the true financial situation of the company and makes it easier to make smart decisions about investing or managing the business.
 
 ## How often should companies test for goodwill impairment?
 

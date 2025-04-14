@@ -98,7 +98,7 @@ In conclusion, analyzing gross and net working capital is integral to evaluating
 
 ## What are the key metrics for algorithmic trading?
 
-When evaluating algorithmic trading strategies, several key metrics are used to assess their effectiveness and risk profile. The Sharpe Ratio is one of the most common measures. It evaluates the risk-adjusted return by comparing the excess return of the strategy with its [volatility](/wiki/volatility-trading-strategies). Mathematically, it is expressed as:
+When evaluating [algorithmic trading](/wiki/algorithmic-trading) strategies, several key metrics are used to assess their effectiveness and risk profile. The Sharpe Ratio is one of the most common measures. It evaluates the risk-adjusted return by comparing the excess return of the strategy with its [volatility](/wiki/volatility-trading-strategies). Mathematically, it is expressed as:
 
 $$
 \text{Sharpe Ratio} = \frac{E[R] - R_f}{\sigma}

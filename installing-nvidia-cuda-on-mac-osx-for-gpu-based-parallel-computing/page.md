@@ -75,7 +75,7 @@ To use CUDA with other programming languages or frameworks on your Mac, you can 
 
 ## How to get started with CUDA on Mac for Traders
 
-To harness the potential of CUDA on a Mac for algorithmic trading, traders must first establish a robust computing environment. This process begins with setting up the necessary software and tools—primarily the CUDA Toolkit, which facilitates communication between the operating system and NVIDIA GPUs. 
+To harness the potential of CUDA on a Mac for [algorithmic trading](/wiki/algorithmic-trading), traders must first establish a robust computing environment. This process begins with setting up the necessary software and tools—primarily the CUDA Toolkit, which facilitates communication between the operating system and NVIDIA GPUs. 
 
 **Installing the CUDA Toolkit**
 

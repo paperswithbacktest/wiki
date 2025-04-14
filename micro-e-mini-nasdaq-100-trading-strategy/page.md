@@ -40,7 +40,7 @@ Next, it's important to learn about the NASDAQ-100 index and how futures work. T
 
 ## What basic trading strategies can be used for Micro E-mini NASDAQ-100 futures?
 
-One simple strategy for trading Micro E-mini NASDAQ-100 futures is called trend following. This means you watch the NASDAQ-100 index to see if it's going up or down over time. If you see it's going up, you can buy a futures contract hoping it will keep going up and you can sell it later for a profit. If it's going down, you can sell a futures contract, betting that it will keep going down and you can buy it back later at a lower price. This strategy works well if you're patient and can wait for the right time to trade.
+One simple strategy for trading Micro E-mini NASDAQ-100 futures is called [trend following](/wiki/trend-following). This means you watch the NASDAQ-100 index to see if it's going up or down over time. If you see it's going up, you can buy a futures contract hoping it will keep going up and you can sell it later for a profit. If it's going down, you can sell a futures contract, betting that it will keep going down and you can buy it back later at a lower price. This strategy works well if you're patient and can wait for the right time to trade.
 
 Another strategy is called range trading. This is when you notice that the NASDAQ-100 index moves between certain high and low points without going too far in either direction. If you see the index near its low point, you might buy a futures contract, expecting it to go back up to the high point. If it's near the high point, you might sell a futures contract, expecting it to drop back to the low point. This strategy can work well if the market stays stable and doesn't move too much.
 
@@ -54,7 +54,7 @@ Market analysis also helps you figure out when to use a hedging strategy. If you
 
 ## What are some advanced trading strategies for experienced traders in Micro E-mini NASDAQ-100 futures?
 
-One advanced strategy for experienced traders is called scalping. This involves making lots of small trades throughout the day to take advantage of tiny price changes in the Micro E-mini NASDAQ-100 futures. Scalpers need to be quick and use charts and other tools to spot these small movements. They aim to make a little bit of money on each trade, but because they do it so often, these small gains can add up. This strategy works well in markets that move a lot during the day, but it can be stressful and requires a lot of focus.
+One advanced strategy for experienced traders is called [scalping](/wiki/gamma-scalping). This involves making lots of small trades throughout the day to take advantage of tiny price changes in the Micro E-mini NASDAQ-100 futures. Scalpers need to be quick and use charts and other tools to spot these small movements. They aim to make a little bit of money on each trade, but because they do it so often, these small gains can add up. This strategy works well in markets that move a lot during the day, but it can be stressful and requires a lot of focus.
 
 Another strategy is called spread trading. This involves buying and selling different futures contracts at the same time to take advantage of the price difference between them. For example, a trader might buy a Micro E-mini NASDAQ-100 futures contract and sell a regular E-mini NASDAQ-100 futures contract, betting that the difference in their prices will change in a way that makes money. This strategy can be less risky than trading just one futures contract because it's about the relationship between two contracts, but it still needs a good understanding of how futures markets work.
 
@@ -118,7 +118,7 @@ The proposed model operates on a mean-reversion strategy, capitalizing on price 
 
 #### Win-Rate and Profitability
 
-During backtesting, the algorithm achieved a win-rate of approximately 65%. This metric was calculated by dividing the number of profitable trades by the total number of trades executed. Our profitability analysis revealed an average return per trade of 1.8 ticks post-slippage and commission costs. The formula used to calculate the net profit is:
+During [backtesting](/wiki/backtesting), the algorithm achieved a win-rate of approximately 65%. This metric was calculated by dividing the number of profitable trades by the total number of trades executed. Our profitability analysis revealed an average return per trade of 1.8 ticks post-slippage and commission costs. The formula used to calculate the net profit is:
 
 $$
 \text{Net Profit} = (\text{Win-Rate} \times \text{Average Win}) - ((1 - \text{Win-Rate}) \times \text{Average Loss})

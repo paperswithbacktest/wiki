@@ -40,7 +40,7 @@ Another big advantage is that it helps you plan better. Knowing you can redeem y
 
 ## Can you explain the process of redemption in exchange-traded funds (ETFs)?
 
-In exchange-traded funds (ETFs), the process of redemption is a bit different from mutual funds. When you want to redeem your shares in an ETF, you usually don't go directly to the ETF company. Instead, you sell your shares on the stock market, just like you would with any other stock. The price you get depends on what other people are willing to pay for the ETF at that moment. This means the value of your investment can go up or down based on what's happening in the market.
+In exchange-traded funds (ETFs), the process of redemption is a bit different from mutual funds. When you want to redeem your shares in an [ETF](/wiki/etf-trading-strategies), you usually don't go directly to the ETF company. Instead, you sell your shares on the stock market, just like you would with any other stock. The price you get depends on what other people are willing to pay for the ETF at that moment. This means the value of your investment can go up or down based on what's happening in the market.
 
 The redemption process for ETFs is quick and easy because you're selling your shares on the stock market. Once you place your order to sell, it usually goes through within seconds, and you get your money soon after. This is different from mutual funds, where you have to wait a few days to get your money back. The flexibility and speed of redemption in ETFs make them a popular choice for people who want to be able to get their money out quickly if they need to.
 

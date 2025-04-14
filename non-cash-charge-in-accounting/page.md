@@ -54,7 +54,7 @@ However, non-cash charges can tell investors about future cash needs. For exampl
 
 ## What are the accounting standards governing the recognition of non-cash charges?
 
-The rules for recording non-cash charges come from big accounting rule books like the Generally Accepted Accounting Principles (GAAP) in the United States and the International Financial Reporting Standards (IFRS) used around the world. These rules make sure that companies record non-cash charges in a way that shows the true cost of using their assets over time. For example, GAAP and IFRS both have detailed ways to calculate depreciation, which is a common non-cash charge for things like buildings or machines.
+The rules for recording non-cash charges come from big accounting rule [books](/wiki/algo-trading-books) like the Generally Accepted Accounting Principles (GAAP) in the United States and the International Financial Reporting Standards (IFRS) used around the world. These rules make sure that companies record non-cash charges in a way that shows the true cost of using their assets over time. For example, GAAP and IFRS both have detailed ways to calculate depreciation, which is a common non-cash charge for things like buildings or machines.
 
 Both GAAP and IFRS also have rules for other types of non-cash charges, like impairment losses. These rules say when a company should check if their assets have lost value and how to record that loss on their financial statements. By following these standards, companies can make sure their financial reports are clear and honest, helping investors and others understand the company's real financial health.
 
@@ -78,7 +78,7 @@ Even though non-cash charges don't take any money out of the company's bank acco
 
 ## What are some advanced strategies for managing non-cash charges to optimize financial reporting?
 
-Companies can use smart ways to handle non-cash charges to make their financial reports look better. One way is to choose different ways to figure out depreciation. There are different methods like straight-line or accelerated depreciation, and each one can change how much expense the company records each year. By picking the right method, a company can spread out the cost of its big items in a way that makes its profits look smoother over time. This can help the company seem more stable and attractive to investors.
+Companies can use smart ways to handle non-cash charges to make their financial reports look better. One way is to choose different ways to figure out depreciation. There are different methods like straight-line or accelerated depreciation, and each one can change how much expense the company records each year. By [picking](/wiki/asset-class-picking) the right method, a company can spread out the cost of its big items in a way that makes its profits look smoother over time. This can help the company seem more stable and attractive to investors.
 
 Another strategy is to carefully review assets for impairment. If a company thinks an asset has lost value, it can record an impairment charge. But if they later find out the asset is worth more than they thought, they can reverse the charge. By keeping a close eye on their assets and being ready to reverse impairments when possible, companies can keep their reported earnings higher. This can make the company look more profitable and help with planning for future spending, even though no actual money is moving around.
 

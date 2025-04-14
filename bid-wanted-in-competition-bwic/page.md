@@ -82,13 +82,13 @@ Another case involved a bank that needed to sell some government bonds quickly. 
 
 ## What are the market dynamics of BWIC trading volume?
 
-Bid Wanted in Competition (BWIC) trading [volume](/wiki/volume-trading-strategy) is a crucial indicator of market dynamics, as it provides insights into the demand and supply for specific securities. In various market conditions, the patterns of BWIC trading volume can exhibit significant fluctuations, driven by factors such as market volatility, economic events, and investor sentiment.
+Bid Wanted in Competition (BWIC) trading [volume](/wiki/volume-trading-strategy) is a crucial indicator of market dynamics, as it provides insights into the demand and supply for specific securities. In various market conditions, the patterns of BWIC trading volume can exhibit significant fluctuations, driven by factors such as market [volatility](/wiki/volatility-trading-strategies), economic events, and investor sentiment.
 
 ### The Influence of Volatility on BWIC Activity
 
 Volatility, defined as the statistical measure of the [dispersion](/wiki/dispersion-trading) of returns for a given security or market index, has a pronounced impact on BWIC activity. During periods of high market volatility, investors often seek to adjust their portfolios to mitigate risks or take advantage of potential opportunities. This scenario results in increased BWIC activity, as institutional investors may release more BWICs to offload or acquire securities efficiently.
 
-Mathematically, volatility is often measured using standard deviation or variance of returns. In the context of BWICs, high volatility can lead to wider bid-ask spreads as dealers factor in the increased risk. This can be modeled by the volatility formula:
+Mathematically, volatility is often measured using standard deviation or variance of returns. In the context of BWICs, high volatility can lead to wider bid-ask spreads as dealers [factor](/wiki/factor-investing) in the increased risk. This can be modeled by the volatility formula:
 
 $$
 \sigma = \sqrt{\frac{\sum (R_i - \bar{R})^2}{N-1}}
@@ -98,9 +98,9 @@ where $R_i$ is each return, $\bar{R}$ is the mean return, and $N$ is the number 
 
 ### Trends in BWIC Volume Over Recent Years
 
-Data analysis of BWIC volumes reveals distinct trends corresponding to different economic cycles. For example, during the financial crisis of 2008, BWIC volumes surged as institutions sought liquidity and attempted to realign their asset portfolios. Similarly, during the COVID-19 pandemic in 2020, there was a noticeable increase in BWIC activity as the market faced unprecedented uncertainty and volatility.
+Data analysis of BWIC volumes reveals distinct trends corresponding to different economic cycles. For example, during the financial crisis of 2008, BWIC volumes surged as institutions sought [liquidity](/wiki/liquidity-risk-premium) and attempted to realign their asset portfolios. Similarly, during the COVID-19 pandemic in 2020, there was a noticeable increase in BWIC activity as the market faced unprecedented uncertainty and volatility.
 
-More recent data indicates that BWIC volumes have continued to evolve with the introduction of algorithmic trading platforms, which facilitate quicker and more efficient processing of BWICs. Such technological advancements allow institutions to handle larger volumes with greater precision, thereby smoothing potential fluctuations induced by volatile market conditions.
+More recent data indicates that BWIC volumes have continued to evolve with the introduction of [algorithmic trading](/wiki/algorithmic-trading) platforms, which facilitate quicker and more efficient processing of BWICs. Such technological advancements allow institutions to handle larger volumes with greater precision, thereby smoothing potential fluctuations induced by volatile market conditions.
 
 To visualize these trends, Python can be employed for data analysis and plotting. The following is a simple example that could be used to simulate possible BWIC volume data over a hypothetical period:
 

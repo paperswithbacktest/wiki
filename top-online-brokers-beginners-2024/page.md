@@ -60,7 +60,7 @@ Other brokers might not have as much support. They might only let you email them
 
 ## What security measures do these brokers have in place to protect beginners' investments?
 
-Top brokers in 2024 have strong security measures to keep beginners' investments safe. They use encryption to protect your personal information and money when you're using their website or app. This means your data is turned into a code that's hard for bad people to read. Brokers also have two-factor authentication, which means you need to enter a special code sent to your phone or email to log in. This makes it much harder for someone else to get into your account, even if they know your password.
+Top brokers in 2024 have strong security measures to keep beginners' investments safe. They use encryption to protect your personal information and money when you're using their website or app. This means your data is turned into a code that's hard for bad people to read. Brokers also have two-[factor](/wiki/factor-investing) authentication, which means you need to enter a special code sent to your phone or email to log in. This makes it much harder for someone else to get into your account, even if they know your password.
 
 Brokers also follow strict rules to keep your money safe. They keep your money in separate accounts from their own money, so if something goes wrong with the broker, your money is still safe. They also have insurance that can protect your investments up to a certain amount if the broker goes out of business. These measures help make sure that beginners can invest without worrying too much about their money being stolen or lost.
 

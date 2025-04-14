@@ -86,11 +86,11 @@ Another important finding is that people's expectations about inflation matter a
 
 ## What is the future of algorithmic trading in economic analysis?
 
-As technology continues to evolve, algorithmic trading is poised to assume an increasingly significant role in financial markets. The integration of real-time economic data, such as unemployment rates and inflation figures, has the potential to reshape the landscape of trading models, making them more sophisticated and responsive to economic fluctuations.
+As technology continues to evolve, [algorithmic trading](/wiki/algorithmic-trading) is poised to assume an increasingly significant role in financial markets. The integration of real-time economic data, such as unemployment rates and inflation figures, has the potential to reshape the landscape of trading models, making them more sophisticated and responsive to economic fluctuations.
 
 One of the key advancements anticipated in the future is the enhanced ability of trading algorithms to refine their strategies by continuously learning from economic patterns. Machine learning techniques, particularly those related to neural networks and [deep learning](/wiki/deep-learning), offer the capability to process vast amounts of data and recognize intricate patterns that may not be immediately apparent through traditional analysis. By leveraging these technologies, trading systems can dynamically adjust their strategies, improving their predictive accuracy and risk assessment.
 
-For instance, consider a machine learning model that uses multivariate regression to forecast market reactions to changes in economic indicators. The model might take the form:
+For instance, consider a [machine learning](/wiki/machine-learning) model that uses multivariate regression to forecast market reactions to changes in economic indicators. The model might take the form:
 
 $$
 y_t = \beta_0 + \beta_1 \cdot \text{Inflation}_t + \beta_2 \cdot \text{Unemployment}_t + \epsilon_t
@@ -120,7 +120,7 @@ new_data = pd.DataFrame({'Inflation': [2.5], 'Unemployment': [5.0]})
 predicted_response = model.predict(new_data)
 ```
 
-Such advancements could result in more stable and efficient financial markets. By minimizing the time lag between data capture and response, algorithmic trading systems contribute to reduced volatility and enhanced [liquidity](/wiki/liquidity-risk-premium). As these systems continue to evolve, the symbiotic relationship between technology and economics will lead to more robust financial analyses, enabling traders to make more informed and timely investment decisions.
+Such advancements could result in more stable and efficient financial markets. By minimizing the time lag between data capture and response, algorithmic trading systems contribute to reduced [volatility](/wiki/volatility-trading-strategies) and enhanced [liquidity](/wiki/liquidity-risk-premium). As these systems continue to evolve, the symbiotic relationship between technology and economics will lead to more robust financial analyses, enabling traders to make more informed and timely investment decisions.
 
 ## References & Further Reading
 

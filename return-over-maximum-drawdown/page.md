@@ -24,7 +24,7 @@ Once you have these two numbers, you calculate RoMaD by dividing the total retur
 
 Return Over Maximum Drawdown (RoMaD) is important in investment analysis because it helps investors understand if the returns they are getting are worth the risks they are taking. It does this by comparing the total gains of an investment to its biggest drop in value. This is useful because it gives a clearer picture of how well an investment is doing, beyond just looking at the returns. For example, if two investments have the same return but one has a smaller maximum drawdown, the one with the smaller drawdown would have a higher RoMaD, showing it's a better choice because it's less risky.
 
-RoMaD is also helpful for comparing different investments to see which one offers better returns for the level of risk involved. This can guide investors in making smarter choices about where to put their money. By focusing on RoMaD, investors can avoid investments that might look good because of high returns but actually carry too much risk. In the end, RoMaD helps investors balance the potential for making money with the risk of losing it, leading to more informed and safer investment decisions.
+RoMaD is also helpful for comparing different investments to see which one offers better returns for the level of risk involved. This can guide investors in making smarter choices about where to put their money. By focusing on RoMaD, investors can avoid investments that might look good because of high returns but actually [carry](/wiki/carry-trading) too much risk. In the end, RoMaD helps investors balance the potential for making money with the risk of losing it, leading to more informed and safer investment decisions.
 
 ## Can you explain the concept of 'drawdown' in the context of RoMaD?
 
@@ -66,7 +66,7 @@ Using a longer time period to calculate RoMaD gives a better picture of how risk
 
 Return Over Maximum Drawdown (RoMaD) is often used in sectors where investments can be very risky, like hedge funds and trading strategies. These areas can have big ups and downs, so it's helpful to know if the gains are worth the biggest drops. Hedge fund managers and traders use RoMaD to show how well they're doing compared to the risks they're taking. It's a good way to see if their strategies are really paying off.
 
-RoMaD is also used a lot in the world of commodities and forex trading. These markets can be very unpredictable, and prices can change a lot. Investors in these areas want to know if the returns they're getting are worth the risk of big losses. By using RoMaD, they can compare different investments or trading strategies and pick the ones that offer the best balance of returns and risk.
+RoMaD is also used a lot in the world of commodities and [forex](/wiki/forex-system) trading. These markets can be very unpredictable, and prices can change a lot. Investors in these areas want to know if the returns they're getting are worth the risk of big losses. By using RoMaD, they can compare different investments or trading strategies and pick the ones that offer the best balance of returns and risk.
 
 ## How can RoMaD be integrated into a broader risk management framework?
 
@@ -82,7 +82,7 @@ Another way to use RoMaD is by setting rules for when to buy or sell investments
 
 ## What is RoMaD?
 
-Return Over Maximum Drawdown (RoMaD) is a risk-adjusted return metric employed to evaluate the performance of an investment portfolio by comparing its overall return against its maximum drawdown. Unlike other common risk assessment metrics such as the Sharpe Ratio, which considers the return-to-volatility relationship, or the Sortino Ratio, which focuses on downside deviation, RoMaD provides a unique perspective by focusing on the balance between achieved returns and the worst-case historical losses incurred by the portfolio.
+Return Over Maximum Drawdown (RoMaD) is a risk-adjusted return metric employed to evaluate the performance of an investment portfolio by comparing its overall return against its maximum drawdown. Unlike other common risk assessment metrics such as the Sharpe Ratio, which considers the return-to-[volatility](/wiki/volatility-trading-strategies) relationship, or the Sortino Ratio, which focuses on downside deviation, RoMaD provides a unique perspective by focusing on the balance between achieved returns and the worst-case historical losses incurred by the portfolio.
 
 Mathematically, RoMaD is calculated by dividing the portfolio's total return by its maximum drawdown, as shown in the formula below:
 

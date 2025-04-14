@@ -27,7 +27,7 @@ This metric is especially useful because it matches how people actually use reco
 
 ## How do you calculate Recall@K?
 
-To calculate Recall@K, you need to know two things: the total number of items that are relevant to what you're looking for, and how many of those relevant items show up in the top K results given by your model. For example, if you're looking for 5 specific books and your recommendation system shows 3 of those books in the top 10 results, you're calculating Recall@10. You count the number of relevant items (3 books) that are in the top K (10 results) and then divide that by the total number of relevant items (5 books).
+To calculate Recall@K, you need to know two things: the total number of items that are relevant to what you're looking for, and how many of those relevant items show up in the top K results given by your model. For example, if you're looking for 5 specific [books](/wiki/algo-trading-books) and your recommendation system shows 3 of those books in the top 10 results, you're calculating Recall@10. You count the number of relevant items (3 books) that are in the top K (10 results) and then divide that by the total number of relevant items (5 books).
 
 The formula for Recall@K is $$ \text{Recall@K} = \frac{\text{Number of relevant items in top K}}{\text{Total number of relevant items}} $$. So, in our book example, Recall@10 would be $$ \frac{3}{5} = 0.6 $$ or 60%. This percentage tells you how good your model is at showing the relevant items at the top of its list. If you're using a programming language to calculate this, you might write a function like this:
 
@@ -77,7 +77,7 @@ Another pitfall is comparing Recall@K across different searches or users without
 
 ## How can Recall@K be optimized in a machine learning model?
 
-To optimize Recall@K in a machine learning model, you need to focus on making sure the model shows the things you want in the top K results. One way to do this is by tweaking the model's algorithm to give more importance to the items that are most relevant to what you're looking for. For example, if you're building a music app and you want to show jazz songs to someone who likes jazz, you might adjust the model to rank jazz songs higher. You can test different versions of your model by using a function like this:
+To optimize Recall@K in a [machine learning](/wiki/machine-learning) model, you need to focus on making sure the model shows the things you want in the top K results. One way to do this is by tweaking the model's algorithm to give more importance to the items that are most relevant to what you're looking for. For example, if you're building a music app and you want to show jazz songs to someone who likes jazz, you might adjust the model to rank jazz songs higher. You can test different versions of your model by using a function like this:
 
 ```python
 def recall_at_k(relevant_items, predicted_items, k):

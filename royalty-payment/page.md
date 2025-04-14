@@ -18,7 +18,7 @@ For example, if a writer writes a book, they might get money every time someone 
 
 Royalty payments are like sharing money. When someone uses something that someone else made or owns, they pay a part of their earnings to the owner. This can happen with books, songs, or even special inventions. For example, if a company sells a toy that someone invented, the inventor gets some money from each toy sold. The amount of money shared is usually a percentage, like 5% or 10%, and it's written in a contract.
 
-The way royalties are paid can be different depending on what is being used. For books, the author might get money every time someone buys their book. For music, the artist might get paid every time their song is played on the radio or used in a movie. Sometimes, the payments come every month or every few months. It's important for the owner to keep track of how their work is being used so they can make sure they get all the money they should.
+The way royalties are paid can be different depending on what is being used. For [books](/wiki/algo-trading-books), the author might get money every time someone buys their book. For music, the artist might get paid every time their song is played on the radio or used in a movie. Sometimes, the payments come every month or every few months. It's important for the owner to keep track of how their work is being used so they can make sure they get all the money they should.
 
 ## What are the common types of royalties?
 
@@ -82,7 +82,7 @@ To deal with these challenges, people often use special agreements called treati
 
 ## What are the benefits of royalty agreements in algo trading?
 
-Royalty agreements in algorithmic trading offer significant advantages by providing a consistent and sustainable income stream derived from intellectual property (IP) assets, thereby encouraging the innovation of advanced trading algorithms. Such agreements effectively align the strategic interests of licensors, who own the algorithms, and licensees, who utilize these algorithms in trading operations. This alignment ensures that both parties can share in the algorithm's success, creating a symbiotic relationship where improved algorithm performance translates directly into mutual financial benefits.
+Royalty agreements in [algorithmic trading](/wiki/algorithmic-trading) offer significant advantages by providing a consistent and sustainable income stream derived from intellectual property (IP) assets, thereby encouraging the innovation of advanced trading algorithms. Such agreements effectively align the strategic interests of licensors, who own the algorithms, and licensees, who utilize these algorithms in trading operations. This alignment ensures that both parties can share in the algorithm's success, creating a symbiotic relationship where improved algorithm performance translates directly into mutual financial benefits.
 
 The structure of royalty agreements can be highly flexible, catering to diverse financial strategies and preferences. Royalties can be structured as fixed payments, which offer predictable revenue streams for IP holders, providing a stable financial base that supports further research and development. Conversely, percentage-based royalties tied to trading profits are performance-oriented, incentivizing both parties to maximize algorithm effectiveness and trading outcomes. This structure not only motivates continuous innovation but also allows licensees to manage costs more effectively, as payments will correlate directly with trading performance.
 

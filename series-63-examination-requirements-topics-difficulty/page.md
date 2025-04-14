@@ -54,7 +54,7 @@ It's also a good idea to join a study group or find a study buddy. Talking about
 
 For the Series 63 Exam, you can use study materials from FINRA, which are free and cover everything you need to know about state securities laws. These materials include an outline of the exam topics and a sample test with questions similar to those on the actual exam. You can also find helpful resources from other companies that make study guides, practice tests, and online courses. These can be really useful because they break down the information into easy-to-understand parts and give you lots of practice questions.
 
-Another good resource is books written specifically for the Series 63 Exam. These books often come with practice tests and explanations of the answers, which can help you understand why certain answers are right or wrong. Joining a study group or finding a study buddy can also be a big help. Talking about the material with others can make it easier to remember and understand. Make sure to use a mix of these resources to get a good feel for what the exam will be like and to cover all the topics you need to know.
+Another good resource is [books](/wiki/algo-trading-books) written specifically for the Series 63 Exam. These books often come with practice tests and explanations of the answers, which can help you understand why certain answers are right or wrong. Joining a study group or finding a study buddy can also be a big help. Talking about the material with others can make it easier to remember and understand. Make sure to use a mix of these resources to get a good feel for what the exam will be like and to cover all the topics you need to know.
 
 ## What is the passing score for the Series 63 Exam?
 

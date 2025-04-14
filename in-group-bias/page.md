@@ -21,7 +21,7 @@ To fix in-group bias, it's important to make sure the training data includes a g
 
 ## What are the common sources of in-group bias in training data?
 
-In-group bias in training data often comes from the way data is collected. If the people collecting the data only include certain groups, like people from one country or one age group, the data won't represent everyone. For example, if a company only uses customer data from one region, the machine learning model might work better for people in that region and not as well for others. This can happen because the company might not have access to data from other places or might not think to include it.
+In-group bias in training data often comes from the way data is collected. If the people collecting the data only include certain groups, like people from one country or one age group, the data won't represent everyone. For example, if a company only uses customer data from one region, the [machine learning](/wiki/machine-learning) model might work better for people in that region and not as well for others. This can happen because the company might not have access to data from other places or might not think to include it.
 
 Another source of in-group bias is historical data that already has biases. If a machine learning model is trained on old data where some groups were treated unfairly, the model can learn those unfair patterns. For instance, if past loan data shows that certain groups were less likely to get loans, a model trained on this data might continue to make the same unfair decisions. To fix this, it's important to check the data for biases and try to balance it out before using it to train a model.
 
@@ -49,7 +49,7 @@ Another way to detect in-group bias is by using fairness metrics. These are spec
 
 To reduce in-group bias during data collection, it's important to make sure the data includes a good mix of different groups. This can be done by collecting data from many different places and types of people. For example, if you're making a model for a health app, you should gather data from people of different ages, races, and backgrounds. This way, the model will learn from a wide variety of people and be fairer to everyone.
 
-Another technique is to use data augmentation. This means adding more data to the dataset to make it more balanced. If the data you have mostly includes one group, like men, you can add more data about women to make it more even. This helps the model learn from all groups and reduces the chance of it favoring one group over another. By doing these things, you can collect data that helps create machine learning models that are fair and work well for everyone.
+Another technique is to use [data augmentation](/wiki/data-augmentation). This means adding more data to the dataset to make it more balanced. If the data you have mostly includes one group, like men, you can add more data about women to make it more even. This helps the model learn from all groups and reduces the chance of it favoring one group over another. By doing these things, you can collect data that helps create machine learning models that are fair and work well for everyone.
 
 ## How can algorithmic adjustments help reduce in-group bias in machine learning models?
 

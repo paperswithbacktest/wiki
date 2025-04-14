@@ -30,7 +30,7 @@ It's important to remember that a Zestimate is just a starting point. If you're 
 
 Zillow uses a lot of different information to figure out a Zestimate. They look at things like how big the home is, how many bedrooms and bathrooms it has, and what kind of shape it's in. They also use information about where the home is located, like what neighborhood it's in and how close it is to schools or stores. This helps them understand how much people might want to pay to live there.
 
-Another big part of the Zestimate is looking at what similar homes nearby have sold for recently. Zillow calls these "comps," which is short for "comparables." By seeing what other homes in the area have sold for, Zillow can guess what a home might be worth. They also use public records, like tax assessments, and data from real estate agents to make their estimates as accurate as possible.
+Another big part of the Zestimate is looking at what similar homes nearby have sold for recently. Zillow calls these "comps," which is short for "comparables." By seeing what other homes in the area have sold for, Zillow can guess what a home might be worth. They also use public records, like tax assessments, and data from real estate [agents](/wiki/agents) to make their estimates as accurate as possible.
 
 ## Can you explain the basic algorithm behind Zestimate calculations?
 
@@ -48,7 +48,7 @@ The reason Zillow updates Zestimates so often is because the real estate market 
 
 Several things can make a Zestimate less accurate. One big reason is if the home is really different from other homes nearby. If a home has special features like a pool or a big garage, and other homes in the area don't have those things, it can be hard for Zillow to guess the right price. Also, if the home is in a neighborhood where not many homes are sold, there might not be enough information for Zillow to make a good guess.
 
-Another factor is how up-to-date the information is. If the details about the home or the recent sales in the area are old, the Zestimate might not be right. Zillow tries to update their information every day, but sometimes they might miss something. Also, if the home's condition is not what Zillow thinks it is, like if it needs a lot of repairs, the Zestimate could be off.
+Another [factor](/wiki/factor-investing) is how up-to-date the information is. If the details about the home or the recent sales in the area are old, the Zestimate might not be right. Zillow tries to update their information every day, but sometimes they might miss something. Also, if the home's condition is not what Zillow thinks it is, like if it needs a lot of repairs, the Zestimate could be off.
 
 Lastly, the real estate market can change quickly. If home prices in the area are going up or down fast, the Zestimate might not keep up. Zillow uses a lot of data to make their guesses, but the market can be hard to predict. So, while Zestimates can be helpful, they are just estimates and might not always be spot on.
 
@@ -66,7 +66,7 @@ For example, the model for single-family homes looks at things like the size of 
 
 ## How does Zillow incorporate machine learning into Zestimate calculations?
 
-Zillow uses machine learning to make Zestimates better. Machine learning is a way for computers to learn from a lot of information and get better at guessing things over time. Zillow feeds the computer a lot of data about homes, like how big they are, where they are, and what similar homes have sold for. The computer looks at all this information and figures out patterns that help it guess how much a home might be worth. As more homes are sold and more data comes in, the computer keeps learning and the Zestimates get more accurate.
+Zillow uses [machine learning](/wiki/machine-learning) to make Zestimates better. Machine learning is a way for computers to learn from a lot of information and get better at guessing things over time. Zillow feeds the computer a lot of data about homes, like how big they are, where they are, and what similar homes have sold for. The computer looks at all this information and figures out patterns that help it guess how much a home might be worth. As more homes are sold and more data comes in, the computer keeps learning and the Zestimates get more accurate.
 
 This process helps Zillow keep up with changes in the real estate market. Because the market can change quickly, Zillow needs a way to update their guesses every day. Machine learning helps them do this by always looking at new data and adjusting the Zestimates. This way, Zillow can give people the most up-to-date information about what a home might be worth, even as the market changes.
 

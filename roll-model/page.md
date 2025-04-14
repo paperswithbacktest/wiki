@@ -96,7 +96,7 @@ $$
 
 where $X_t$ is the price at time $t$, $\mu$ is the mean price, $\phi$ is the mean reversion coefficient, and $\epsilon_t$ is the error term.
 
-Financial knowledge provides the context within which algorithms operate. Traders must understand market microstructure, asset classes, and risk management principles. This knowledge helps in designing strategies that are not only mathematically sound but also aligned with market realities. Familiarity with economic indicators and their impact on asset prices is also essential. For instance, macroeconomic events can significantly affect currency pairs and must be factored into algorithmic trading strategies.
+Financial knowledge provides the context within which algorithms operate. Traders must understand market microstructure, asset classes, and risk management principles. This knowledge helps in designing strategies that are not only mathematically sound but also aligned with market realities. Familiarity with economic indicators and their impact on asset prices is also essential. For instance, macroeconomic events can significantly affect currency pairs and must be factored into [algorithmic trading](/wiki/algorithmic-trading) strategies.
 
 Having a strong analytical mindset is critical, as algorithmic traders must discern meaningful patterns from large datasets. The ability to process and analyze terabytes of data efficiently is facilitated by tools like Apache Hadoop and Spark for distributed computing, allowing traders to back-test strategies with extensive historical market data over various asset classes.
 

@@ -28,7 +28,7 @@ Filing this form is important because it helps keep the information that investo
 
 ## When should SEC Form 485A24F be filed?
 
-SEC Form 485A24F should be filed by investment companies when they want to start selling new securities or make changes to the ones they already offer. This could be when they want to introduce a new type of mutual fund or ETF, or when they need to update the information about the fees, risks, or other details of their current securities.
+SEC Form 485A24F should be filed by investment companies when they want to start selling new securities or make changes to the ones they already offer. This could be when they want to introduce a new type of mutual fund or [ETF](/wiki/etf-trading-strategies), or when they need to update the information about the fees, risks, or other details of their current securities.
 
 Filing this form is important because it helps the Securities and Exchange Commission (SEC) keep track of what investment companies are doing. It makes sure that the information given to investors is always correct and up-to-date. This way, investors can make smart choices about where to put their money, knowing that the investment company is following the rules and being open about their offerings.
 

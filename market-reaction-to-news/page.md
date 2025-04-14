@@ -78,7 +78,7 @@ Sometimes, global events can make markets around the world move in the same way.
 
 Advanced statistical models help people understand how the market reacts to news. One common model is called "event study methodology." This model looks at how stock prices change right after news comes out. It compares the stock's price before the news to its price after the news to see if there's a big difference. This helps people figure out if the news made the stock price go up or down and by how much. Another model is "time series analysis," which looks at how stock prices change over time. It can help predict how the market might react to similar news in the future by looking at past patterns.
 
-Another useful model is "machine learning," which uses computers to learn from data. These models can read news articles and figure out which words or phrases make stock prices go up or down. They can also look at other information, like how people feel about the market, to make better predictions. "Sentiment analysis" is a part of machine learning that focuses on understanding people's feelings from the news. It can tell if the news is making people feel happy or worried, which can help predict how the market will react. These models help investors make smarter decisions by giving them a better understanding of how news affects the market.
+Another useful model is "[machine learning](/wiki/machine-learning)," which uses computers to learn from data. These models can read news articles and figure out which words or phrases make stock prices go up or down. They can also look at other information, like how people feel about the market, to make better predictions. "Sentiment analysis" is a part of machine learning that focuses on understanding people's feelings from the news. It can tell if the news is making people feel happy or worried, which can help predict how the market will react. These models help investors make smarter decisions by giving them a better understanding of how news affects the market.
 
 ## How can understanding market reactions to news be integrated into a comprehensive investment strategy?
 
@@ -102,7 +102,7 @@ The adaptability of trading strategies to different news events is crucial for t
 
 ### Managing Risks and Rewards in News-Based Trading Environments
 
-Risk management is paramount in news-based trading due to the high volatility and unpredictability of markets in response to news. Effective strategies include:
+Risk management is paramount in news-based trading due to the high [volatility](/wiki/volatility-trading-strategies) and unpredictability of markets in response to news. Effective strategies include:
 
 - **Position Sizing**: Limiting the size of trades based on the level of anticipated volatility can reduce exposure to excessive risk. This can be mathematically represented by the formula:
 $$

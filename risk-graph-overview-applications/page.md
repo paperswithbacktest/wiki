@@ -82,7 +82,7 @@ Another development that might happen is that risk graphs will become easier to 
 
 ## What is the key to understanding financial risk in trading?
 
-Financial risk in trading represents the potential for financial loss that traders may face when participating in market activities. The inherent nature of trading carries risks due to factors such as market volatility, economic fluctuations, and unforeseen global events. These elements can lead to rapid price changes, impacting investments and trading positions adversely.
+Financial risk in trading represents the potential for financial loss that traders may face when participating in market activities. The inherent nature of trading carries risks due to factors such as market [volatility](/wiki/volatility-trading-strategies), economic fluctuations, and unforeseen global events. These elements can lead to rapid price changes, impacting investments and trading positions adversely.
 
 Traders need to recognize and evaluate multiple types of risks to protect their portfolios effectively. The primary categories of financial risk include:
 
@@ -124,7 +124,7 @@ In essence, risk graphs serve as invaluable tools in the trading toolkit, enabli
 
 ## What are Advanced Risk Management Techniques in Algo Trading?
 
-In algorithmic trading, advanced risk management techniques are critical to the success and sustainability of trading strategies. Quantitative analysis and [machine learning](/wiki/machine-learning) models are at the forefront of these techniques, significantly enhancing risk mitigation capabilities.
+In [algorithmic trading](/wiki/algorithmic-trading), advanced risk management techniques are critical to the success and sustainability of trading strategies. Quantitative analysis and [machine learning](/wiki/machine-learning) models are at the forefront of these techniques, significantly enhancing risk mitigation capabilities.
 
 Quantitative analysis involves the use of statistical and mathematical models to understand market behaviors and predict future movements. By analyzing historical data, traders can identify patterns and trends that inform their algorithmic strategies. A popular model used is the Value at Risk (VaR), which quantifies the potential loss in value of an asset or portfolio over a defined period for a given confidence interval. The formula for VaR is generally expressed as:
 

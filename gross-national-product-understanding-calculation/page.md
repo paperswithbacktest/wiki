@@ -30,7 +30,7 @@ Another reason GNP is important is that it can be used to compare how well diffe
 
 GNP is made up of several key parts that together show how much a country's people and businesses are producing. One big part is the money people earn from working, like salaries and wages. This includes what people earn both inside and outside their home country. Another part is the profits companies make, which can come from businesses that are owned by the country's citizens but operate anywhere in the world.
 
-There's also the money that comes from renting out property and earning interest from loans or investments. If a person from the country owns a building in another country and gets rent from it, that money counts towards GNP. The same goes for interest earned on savings or investments made abroad. All these parts together give a full picture of the money a country's people and businesses are bringing in from all over the world.
+There's also the money that comes from renting out property and [earning](/wiki/earning-announcement) interest from loans or investments. If a person from the country owns a building in another country and gets rent from it, that money counts towards GNP. The same goes for interest earned on savings or investments made abroad. All these parts together give a full picture of the money a country's people and businesses are bringing in from all over the world.
 
 ## How is GNP calculated?
 

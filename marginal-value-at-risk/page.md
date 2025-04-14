@@ -76,7 +76,7 @@ Another way to improve MVaR is by using more detailed models of how different in
 
 ## What future developments or research areas are being explored in relation to MVaR?
 
-Researchers are looking into ways to make Marginal Value at Risk (MVaR) even better. One area they're exploring is how to use machine learning to predict how investments will move and affect the risk of a portfolio. By using computers to learn from past data, they hope to make MVaR calculations more accurate and useful. Another area is trying to understand how different types of risks, like market risk and credit risk, work together. This could help make MVaR more complete and give a better picture of the overall risk in a portfolio.
+Researchers are looking into ways to make Marginal Value at Risk (MVaR) even better. One area they're exploring is how to use [machine learning](/wiki/machine-learning) to predict how investments will move and affect the risk of a portfolio. By using computers to learn from past data, they hope to make MVaR calculations more accurate and useful. Another area is trying to understand how different types of risks, like market risk and credit risk, work together. This could help make MVaR more complete and give a better picture of the overall risk in a portfolio.
 
 Another exciting area of research is about making MVaR easier to use for everyone, not just experts. This means finding simpler ways to explain and calculate MVaR so that more people can use it to manage their investments. Researchers are also looking at how to make MVaR work better in real-time, so it can quickly show how changes in the market affect the risk of a portfolio. By keeping up with these developments, MVaR can become a more powerful tool for managing risk in the future.
 

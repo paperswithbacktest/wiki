@@ -19,7 +19,7 @@ Function transformation and traditional feature engineering both aim to make dat
 
 Traditional feature engineering, on the other hand, involves creating new features from the existing data. This can mean combining different pieces of data to make something new and useful. For instance, if you have the date and time of a transaction, you might create a new feature that tells you the day of the week. This new feature could help the model predict better because it captures information that wasn't obvious before. While function transformation changes the existing data, feature engineering adds new data points to help the model.
 
-Both methods are important and can be used together to improve a machine learning model's performance. Function transformation helps by making the data more manageable, while feature engineering adds depth and context to the data. By using both, you can make sure your model has the best chance of learning effectively and making accurate predictions.
+Both methods are important and can be used together to improve a [machine learning](/wiki/machine-learning) model's performance. Function transformation helps by making the data more manageable, while feature engineering adds depth and context to the data. By using both, you can make sure your model has the best chance of learning effectively and making accurate predictions.
 
 ## What are the common types of function transformations used in machine learning?
 
@@ -43,7 +43,7 @@ These transformations are especially useful when the relationship between the in
 
 Choosing the right function transformation for a dataset depends on understanding the nature of your data and what your machine learning model needs. If your data has a wide range of values, like from very small numbers to very large ones, a log transformation can help. You can use the formula $$ y = \log(x) $$ to make the data more compact and easier for the model to work with. If your data follows a curve instead of a straight line, non-linear transformations like square roots or exponentials might be better. These transformations can help the model see the important patterns that were hard to see before.
 
-Another important factor is the type of machine learning algorithm you are using. Some algorithms, like linear regression, work better with data that is normally distributed. In this case, you might use standardization, which can be done using the formula $$ y = \frac{x - \text{mean}(x)}{\text{std}(x)} $$. This makes the data fit a normal distribution, helping the model learn better. By trying different transformations and seeing how they affect your model's performance, you can figure out which one works best for your specific dataset and problem.
+Another important [factor](/wiki/factor-investing) is the type of machine learning algorithm you are using. Some algorithms, like linear regression, work better with data that is normally distributed. In this case, you might use standardization, which can be done using the formula $$ y = \frac{x - \text{mean}(x)}{\text{std}(x)} $$. This makes the data fit a normal distribution, helping the model learn better. By trying different transformations and seeing how they affect your model's performance, you can figure out which one works best for your specific dataset and problem.
 
 ## What are the potential pitfalls of applying function transformations incorrectly?
 
@@ -59,7 +59,7 @@ On the other hand, function transformations can also help make a model's predict
 
 ## What advanced techniques exist for automating function transformations in machine learning pipelines?
 
-One advanced technique for automating function transformations in machine learning pipelines is using automated feature engineering tools. These tools can try different transformations like $$ y = \log(x) $$ or $$ y = \frac{x - \text{min}(x)}{\text{max}(x) - \text{min}(x)} $$ on your data and see which ones help the model learn better. They do this by testing different combinations and picking the ones that make the model's predictions more accurate. This can save a lot of time because you don't have to try all the transformations yourself.
+One advanced technique for automating function transformations in machine learning pipelines is using automated feature engineering tools. These tools can try different transformations like $$ y = \log(x) $$ or $$ y = \frac{x - \text{min}(x)}{\text{max}(x) - \text{min}(x)} $$ on your data and see which ones help the model learn better. They do this by testing different combinations and [picking](/wiki/asset-class-picking) the ones that make the model's predictions more accurate. This can save a lot of time because you don't have to try all the transformations yourself.
 
 Another technique is using machine learning algorithms that can handle different types of data without needing specific transformations. For example, some algorithms like Random Forests or Gradient Boosting Machines can work well with data that isn't normally distributed. They can automatically adjust to the data, making it easier to build a model without worrying about which transformation to use. By using these algorithms, you can focus on other parts of the machine learning pipeline and let the model handle the data transformations on its own.
 

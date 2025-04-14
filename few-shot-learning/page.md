@@ -29,7 +29,7 @@ Another challenge is that the model needs to use what it already knows from othe
 
 In Few-Shot Learning, the term 'shots' refers to the number of examples the model gets to learn from for each new task. If a model is learning from just one example per class, it's called 'one-shot learning'. If it's learning from five examples per class, it's called 'five-shot learning'. The number of shots is important because it shows how few examples the model needs to still do a good job at learning new things.
 
-For example, if you want to teach a model to recognize different types of fruit, and you show it just one picture of each type, that would be one-shot learning. The model has to use that one picture to figure out what makes each fruit unique. If you show it five pictures of each type of fruit, that's five-shot learning. The model gets a bit more information to work with, but it's still learning from a small number of examples compared to traditional machine learning where it might see hundreds or thousands of pictures.
+For example, if you want to teach a model to recognize different types of fruit, and you show it just one picture of each type, that would be one-shot learning. The model has to use that one picture to figure out what makes each fruit unique. If you show it five pictures of each type of fruit, that's five-shot learning. The model gets a bit more information to work with, but it's still learning from a small number of examples compared to traditional [machine learning](/wiki/machine-learning) where it might see hundreds or thousands of pictures.
 
 ## What are some common algorithms used in Few-Shot Learning?
 

@@ -28,7 +28,7 @@ By looking at money flow, traders can also spot trends and make better decisions
 
 ## What is the difference between money flow and volume in trading?
 
-Money flow and volume are both important in trading, but they tell us different things. Volume is just the number of shares that people buy and sell in a certain time. It shows how many people are trading the stock, but it doesn't say anything about the price. If a lot of shares are traded, the volume is high, and if not many shares are traded, the volume is low. Volume helps traders see how active the market is for a stock.
+Money flow and [volume](/wiki/volume-trading-strategy) are both important in trading, but they tell us different things. Volume is just the number of shares that people buy and sell in a certain time. It shows how many people are trading the stock, but it doesn't say anything about the price. If a lot of shares are traded, the volume is high, and if not many shares are traded, the volume is low. Volume helps traders see how active the market is for a stock.
 
 Money flow, on the other hand, takes both the price and the volume into account. It's like a mix of how much people are buying or selling and at what price. To find money flow, you take the average price of the stock and multiply it by the volume. This tells you how much money is going into or out of the stock. If money flow is going up, it means more money is going into the stock, which can be a good sign. If it's going down, more money is leaving, which might be a bad sign. So, money flow gives traders a better idea of what might happen to the stock's price.
 
@@ -74,7 +74,7 @@ One advanced technique to refine money flow analysis is to use multiple time fra
 
 Another technique is to combine money flow with other technical indicators, like the Relative Strength Index (RSI) or moving averages. These tools can help traders understand the stock's price movements better. For example, if the money flow is going up but the RSI shows the stock is overbought, it might be a sign that the price could soon go down. By using these indicators together, traders can get more accurate signals about when to buy or sell a stock.
 
-Lastly, traders can use advanced statistical methods to analyze money flow. Techniques like regression analysis or machine learning can help find patterns in the data that are hard to see with just simple calculations. These methods can predict how money flow might affect stock prices in the future, giving traders a more scientific way to make their trading decisions. By using these advanced techniques, traders can refine their money flow analysis and improve their chances of making good trades.
+Lastly, traders can use advanced statistical methods to analyze money flow. Techniques like regression analysis or [machine learning](/wiki/machine-learning) can help find patterns in the data that are hard to see with just simple calculations. These methods can predict how money flow might affect stock prices in the future, giving traders a more scientific way to make their trading decisions. By using these advanced techniques, traders can refine their money flow analysis and improve their chances of making good trades.
 
 ## How can traders integrate money flow data with other technical analysis tools?
 
@@ -110,7 +110,7 @@ $$
 \text{MFI} = 100 - \left( \frac{100}{1 + \text{Money Flow Ratio}} \right)
 $$
 
-The MFI oscillates between 0 and 100, offering traders valuable insights into potential market conditions. An MFI reading above 80 suggests an overbought scenario, while a value below 20 indicates an oversold market. These insights assist traders in making informed decisions regarding potential entry and exit points, thereby enhancing the effectiveness of trading strategies. By understanding the construction and application of MFI, traders can better assess market dynamics and anticipate potential price movements.
+The MFI oscillates between 0 and 100, offering traders valuable insights into potential market conditions. An MFI reading above 80 suggests an overbought scenario, while a value below 20 indicates an oversold market. These insights assist traders in making informed decisions regarding potential entry and [exit](/wiki/exit-strategy) points, thereby enhancing the effectiveness of trading strategies. By understanding the construction and application of MFI, traders can better assess market dynamics and anticipate potential price movements.
 
 ## What is Backtesting and Optimization?
 
@@ -128,7 +128,7 @@ where $E[R_p - R_f]$ is the expected excess return of the portfolio over the ris
 
 Moreover, refinement through iterative testing and optimization is crucial for maintaining the competitiveness of MFI-driven strategies. A single backtest is seldom sufficient; repeated simulations with different parameters, time frames, or market conditions are necessary to ensure robustness and adaptability. By continuously tweaking the strategy and considering market evolutions, traders can ensure that it remains effective and relevant.
 
-Traders who achieve success are those who consistently revisit and refine their strategies, using insights from backtesting as feedback. They adapt their approaches according to shifting market dynamics, ensuring that their strategies are not only theoretically sound but also practical in the ever-evolving world of financial markets. This commitment to iterative development and adaptability distinguishes profitable trading strategies from their less effective counterparts.
+Traders who achieve success are those who consistently revisit and refine their strategies, using insights from [backtesting](/wiki/backtesting) as feedback. They adapt their approaches according to shifting market dynamics, ensuring that their strategies are not only theoretically sound but also practical in the ever-evolving world of financial markets. This commitment to iterative development and adaptability distinguishes profitable trading strategies from their less effective counterparts.
 
 ## References & Further Reading
 

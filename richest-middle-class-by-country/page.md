@@ -34,7 +34,7 @@ In countries like Norway and Germany, middle class incomes are also very high. I
 
 A country's middle class can be wealthy because of a strong economy. When a country has many businesses and jobs, people can earn more money. This means more people can be part of the middle class. Also, if the government helps by making good laws and rules, businesses can grow and create more jobs. In places like the United States and Switzerland, the economy is strong, so middle class families can earn a lot and live well.
 
-Another factor is the cost of living. In some countries, things like food, homes, and healthcare are not too expensive. This means middle class families can save money and live comfortably even if they don't earn as much as in richer countries. For example, in Norway, even though it's a rich country, the government helps keep costs low, so middle class people can have a good life.
+Another [factor](/wiki/factor-investing) is the cost of living. In some countries, things like food, homes, and healthcare are not too expensive. This means middle class families can save money and live comfortably even if they don't earn as much as in richer countries. For example, in Norway, even though it's a rich country, the government helps keep costs low, so middle class people can have a good life.
 
 Education also plays a big role. When people can go to school and learn new skills, they can get better jobs and earn more money. Countries that focus on education, like Germany, help their middle class grow and become wealthier. Good education means more people can join the middle class and enjoy a better life.
 

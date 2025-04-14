@@ -52,7 +52,7 @@ On the other hand, if you make the slow line's EMA longer, like changing it from
 
 ## What are the common strategies involving the MACD Histogram?
 
-One common strategy using the MACD Histogram is to watch for crossovers. When the MACD line crosses above the signal line, the histogram bars go from negative to positive. This is a sign to buy because it means the trend might be turning up. On the other hand, when the MACD line crosses below the signal line, the histogram bars go from positive to negative. This is a sign to sell because it means the trend might be turning down. Traders use these crossovers to decide when to enter or exit trades.
+One common strategy using the MACD Histogram is to watch for crossovers. When the MACD line crosses above the signal line, the histogram bars go from negative to positive. This is a sign to buy because it means the trend might be turning up. On the other hand, when the MACD line crosses below the signal line, the histogram bars go from positive to negative. This is a sign to sell because it means the trend might be turning down. Traders use these crossovers to decide when to enter or [exit](/wiki/exit-strategy) trades.
 
 Another strategy is to look for divergence between the price and the MACD Histogram. If the price is going up but the histogram is going down, it's called bearish divergence. This might mean the price will soon start to go down, so traders might sell to avoid losing money. If the price is going down but the histogram is going up, it's called bullish divergence. This might mean the price will soon start to go up, so traders might buy to take advantage of the new trend. Watching for these divergences helps traders predict when the price might change direction.
 

@@ -22,7 +22,7 @@ In nature, systems tend to move towards higher entropy over time. This is becaus
 
 ## What are some everyday examples of entropy?
 
-Imagine you just cleaned your room. Everything is neat and in its place. But as the days go by, your room starts to get messy again. Clothes end up on the floor, books are scattered, and toys are everywhere. This is entropy at work. Your room naturally goes from being organized to being disorganized because it's easier for things to get messy than to stay neat.
+Imagine you just cleaned your room. Everything is neat and in its place. But as the days go by, your room starts to get messy again. Clothes end up on the floor, [books](/wiki/algo-trading-books) are scattered, and toys are everywhere. This is entropy at work. Your room naturally goes from being organized to being disorganized because it's easier for things to get messy than to stay neat.
 
 Another example is making a cup of hot tea. When you pour the hot water into the cup, it's all hot. But over time, the heat from the tea spreads out to the cooler air around it. Eventually, the tea and the air around it become the same temperature. This spreading out of heat is an increase in entropy. The system goes from having a neat, concentrated area of heat to a more spread-out, random state where everything is the same temperature.
 

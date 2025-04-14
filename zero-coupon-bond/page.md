@@ -48,7 +48,7 @@ Investors choose zero-coupon bonds because they're simple and predictable. You d
 
 ## What are the tax implications of investing in zero-coupon bonds?
 
-Even though zero-coupon bonds don't pay interest while you own them, you still have to pay taxes on the money you'll make from them. The IRS treats the difference between what you paid for the bond and what you'll get when it matures as if it were interest. This means you have to pay taxes on this "interest" every year, even though you won't actually get the money until the bond matures. It's like the government is saying you're earning interest, even though you're not getting any payments.
+Even though zero-coupon bonds don't pay interest while you own them, you still have to pay taxes on the money you'll make from them. The IRS treats the difference between what you paid for the bond and what you'll get when it matures as if it were interest. This means you have to pay taxes on this "interest" every year, even though you won't actually get the money until the bond matures. It's like the government is saying you're [earning](/wiki/earning-announcement) interest, even though you're not getting any payments.
 
 This can be a bit tricky because you have to come up with money to pay taxes on income you haven't received yet. For example, if you bought a zero-coupon bond for $800 that will be worth $1,000 in 10 years, you'd have to pay taxes on the $200 difference over those 10 years, even though you won't get that $200 until the bond matures. This can make zero-coupon bonds less attractive for people in higher tax brackets because they have to pay more in taxes each year.
 

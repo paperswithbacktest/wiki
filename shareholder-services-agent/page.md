@@ -60,7 +60,7 @@ The agent also helps with voting. When shareholders need to vote on whether to a
 
 Shareholder Services Agents use a lot of technology to do their jobs well. They often use special computer programs called shareholder management systems. These systems help them keep track of who owns shares and make sure the records are always right. They also use these systems to send out important information to shareholders, like emails and letters. This makes it easier to keep everyone updated about what's happening with the company.
 
-Another important technology they use is online portals. These are websites where shareholders can go to see their shares, vote on company decisions, and ask questions. The agents use these portals to make communication easier and faster. They also use secure systems to keep shareholder information safe. This helps them follow the rules and make sure no one's private information gets out.
+Another important technology they use is online portals. These are websites where shareholders can go to see their shares, vote on company decisions, and ask questions. The [agents](/wiki/agents) use these portals to make communication easier and faster. They also use secure systems to keep shareholder information safe. This helps them follow the rules and make sure no one's private information gets out.
 
 ## How does a Shareholder Services Agent ensure compliance with securities regulations?
 

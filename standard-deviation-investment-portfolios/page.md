@@ -84,7 +84,7 @@ Another example is how big investment firms like pension funds use standard devi
 
 Financial risk pertains to the possibility of losing financial capital when engaging in investments, directly impacting the stability and performance of portfolios. Managing this risk is essential for investors seeking to preserve capital and maximize returns over the long term.
 
-Standard deviation is a critical statistical measure used to quantify the extent of variation or dispersion in a set of data points from their mean. In the context of investments, it serves as an indicator of the volatility or risk associated with a particular asset or portfolio. A higher standard deviation implies greater variability in the asset's returns, suggesting higher risk. Conversely, a lower standard deviation indicates more consistent performance and potentially lower risk.
+Standard deviation is a critical statistical measure used to quantify the extent of variation or [dispersion](/wiki/dispersion-trading) in a set of data points from their mean. In the context of investments, it serves as an indicator of the [volatility](/wiki/volatility-trading-strategies) or risk associated with a particular asset or portfolio. A higher standard deviation implies greater variability in the asset's returns, suggesting higher risk. Conversely, a lower standard deviation indicates more consistent performance and potentially lower risk.
 
 In mathematical terms, the standard deviation (σ) of a dataset $X = \{x_1, x_2, ..., x_n\}$ with mean $\mu$ is calculated using the formula:
 

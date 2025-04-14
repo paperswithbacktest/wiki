@@ -58,15 +58,15 @@ Another drawback is that TRBs can be hard to understand at first. If you're used
 
 ## How do TRBs perform in different market conditions, such as high volatility or low liquidity?
 
-In high volatility markets, TRBs can be really helpful. When the market is moving a lot and prices are changing quickly, TRBs show new bars faster because more trades are happening. This helps traders see how busy the market is and make quick decisions. If you see new bars coming quickly and the price going up or down a lot, it means the market is excited and a big trend might be starting. This can be a good time to buy or sell, depending on what you think will happen next.
+In high [volatility](/wiki/volatility-trading-strategies) markets, TRBs can be really helpful. When the market is moving a lot and prices are changing quickly, TRBs show new bars faster because more trades are happening. This helps traders see how busy the market is and make quick decisions. If you see new bars coming quickly and the price going up or down a lot, it means the market is excited and a big trend might be starting. This can be a good time to buy or sell, depending on what you think will happen next.
 
-In low liquidity markets, TRBs might not be as useful. When not many people are trading, it takes longer for a new bar to show up on a TRB. This can make it hard to see what's happening in the market because there's not enough activity. If you're waiting for a new bar and it takes a long time to come, it might mean the market is quiet and not much is happening. This can make it harder to spot trends or make good trading decisions because there's less information to work with.
+In low [liquidity](/wiki/liquidity-risk-premium) markets, TRBs might not be as useful. When not many people are trading, it takes longer for a new bar to show up on a TRB. This can make it hard to see what's happening in the market because there's not enough activity. If you're waiting for a new bar and it takes a long time to come, it might mean the market is quiet and not much is happening. This can make it harder to spot trends or make good trading decisions because there's less information to work with.
 
 ## Can TRBs be customized for specific trading styles or asset classes?
 
 TRBs can be changed to fit different ways of trading or different things you want to trade. If you like to trade quickly during the day, you can set your TRB to make a new bar after just a few trades. This helps you see what's happening in the market right away. If you trade things that don't move much, like some stocks or currencies, you might want to set your TRB to make a new bar after more trades. This way, you can still see changes in the market even if it's not very busy.
 
-For different types of things you might trade, like stocks, forex, or cryptocurrencies, you can also change how TRBs work. Stocks might have different trading patterns than cryptocurrencies, so you might need to set your TRB differently for each one. By changing the number of trades needed for a new bar, you can make sure your TRB shows you the information you need to make good trading choices for whatever you're trading.
+For different types of things you might trade, like stocks, [forex](/wiki/forex-system), or cryptocurrencies, you can also change how TRBs work. Stocks might have different trading patterns than cryptocurrencies, so you might need to set your TRB differently for each one. By changing the number of trades needed for a new bar, you can make sure your TRB shows you the information you need to make good trading choices for whatever you're trading.
 
 ## What advanced technical indicators work best with TRBs?
 
@@ -82,7 +82,7 @@ There are a few tools you can use for backtesting with TRBs. One popular tool is
 
 ## How can Tick Runs Bars be implemented in trading strategies?
 
-Implementing Tick Runs Bars (TRBs) in trading strategies necessitates access to high-frequency trade data and efficient mechanisms for counting and analyzing sequences of trades. This implementation begins with acquiring granular data, typically from a data provider or exchange, to capture each trade's time, price, and volume. This high-resolution data enables the identification of streaks of trades in one direction, a fundamental requirement for constructing TRBs.
+Implementing Tick Runs Bars (TRBs) in trading strategies necessitates access to high-frequency trade data and efficient mechanisms for counting and analyzing sequences of trades. This implementation begins with acquiring granular data, typically from a data provider or exchange, to capture each trade's time, price, and [volume](/wiki/volume-trading-strategy). This high-resolution data enables the identification of streaks of trades in one direction, a fundamental requirement for constructing TRBs.
 
 To analyze these sequences effectively, traders often employ algorithms that dynamically adjust the threshold for determining runs based on current market conditions. A common technique used is the exponentially weighted moving average (EWMA), which allows for the dynamic estimation of expected run lengths. The formula for EWMA is:
 
@@ -118,7 +118,7 @@ Lastly, the integration of TRBs into trading strategies does not end with [backt
 
 ## References & Further Reading
 
-Marcos Lopez de Prado's "Advances in Financial Machine Learning" is a seminal resource for understanding the intersection of [machine learning](/wiki/machine-learning) techniques and financial markets. This work covers topics such as the use of machine learning algorithms to improve the prediction and execution of trades, and the construction of more efficient trading strategies. The book emphasizes the importance of feature engineering and validation techniques in the context of financial data, making it a vital reference for those interested in algorithmic trading and quantitative finance.
+Marcos Lopez de Prado's "Advances in Financial Machine Learning" is a seminal resource for understanding the intersection of [machine learning](/wiki/machine-learning) techniques and financial markets. This work covers topics such as the use of machine learning algorithms to improve the prediction and execution of trades, and the construction of more efficient trading strategies. The book emphasizes the importance of feature engineering and validation techniques in the context of financial data, making it a vital reference for those interested in [algorithmic trading](/wiki/algorithmic-trading) and quantitative finance.
 
 Easley, Lopez de Prado, and O’Hara's "The Microstructure of Financial Markets" provides an in-depth analysis of the intricacies of financial markets, focusing on the influence of market microstructure on trading and price formation. This resource discusses various aspects of high-frequency trading, the role of informed trading, and the dynamics of order flows. The work is instrumental in understanding how the microstructure affects market efficiency and how advanced data structures like Tick Runs Bars can be applied to analyze these phenomena more effectively.
 

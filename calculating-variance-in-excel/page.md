@@ -82,7 +82,7 @@ Also, always include a brief explanation of what the variance means in your repo
 
 ## What is the understanding of variance in finance?
 
-Variance is a fundamental statistical measure used to quantify the spread or dispersion within a set of data points. In finance, variance serves as a crucial metric in assessing the volatility of asset returns and in determining the risk associated with investments. Mathematically, variance is defined as the average of the squared differences from the mean, and it is calculated using the formula:
+Variance is a fundamental statistical measure used to quantify the spread or [dispersion](/wiki/dispersion-trading) within a set of data points. In finance, variance serves as a crucial metric in assessing the volatility of asset returns and in determining the risk associated with investments. Mathematically, variance is defined as the average of the squared differences from the mean, and it is calculated using the formula:
 
 $$
 \text{Variance} (\sigma^2) = \frac{\sum (X_i - \mu)^2}{N}

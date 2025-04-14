@@ -74,7 +74,7 @@ Another way Quantedge stays competitive is by having a team of smart people who 
 
 Quantedge is always looking for new ways to use math and computers to invest money better. One big thing they are focusing on is using even more data to make their choices. They want to look at information from all over the world, not just the stock market. By doing this, they can find new patterns and make even smarter decisions. They are also working on making their computer programs faster and better. This will help them look at more data quickly and make choices faster than before.
 
-Another thing Quantedge is thinking about is using new kinds of math and computer science. They want to use things like artificial intelligence (AI) and machine learning to help them invest. These new tools can learn from the data and get better over time. This means Quantedge can keep improving their way of investing and stay ahead of other companies. By focusing on these new trends and innovations, Quantedge hopes to keep helping their clients make more money in the future.
+Another thing Quantedge is thinking about is using new kinds of math and computer science. They want to use things like [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning) to help them invest. These new tools can learn from the data and get better over time. This means Quantedge can keep improving their way of investing and stay ahead of other companies. By focusing on these new trends and innovations, Quantedge hopes to keep helping their clients make more money in the future.
 
 ## How can someone or a business start working with Quantedge?
 

@@ -84,7 +84,7 @@ To make things safer, people use special devices called "hardware random number 
 
 ## What are some case studies that demonstrate randomness in action?
 
-Mean reversion strategies in algorithmic trading leverage randomness to identify profitable opportunities. These strategies operate on the principle that asset prices, in the short term, tend to return to a historical average or mean. A key component of mean reversion is the random fluctuation of asset prices around their mean values. This randomness creates opportunities for traders to enter and [exit](/wiki/exit-strategy) trades profitably.
+Mean reversion strategies in [algorithmic trading](/wiki/algorithmic-trading) leverage randomness to identify profitable opportunities. These strategies operate on the principle that asset prices, in the short term, tend to return to a historical average or mean. A key component of mean reversion is the random fluctuation of asset prices around their mean values. This randomness creates opportunities for traders to enter and [exit](/wiki/exit-strategy) trades profitably.
 
 One common approach to mean reversion involves using stochastic models to predict the likelihood of price movements reverting to the mean. The Ornstein-Uhlenbeck process is a mathematical model frequently employed, defined by the stochastic differential equation:
 

@@ -18,7 +18,7 @@ In the context of stocks, bonds, or currencies, high liquidity means there are m
 
 Liquidity is really important in trading and investing because it makes it easier to buy and sell things quickly. Imagine you want to sell your stock fast. If the market is liquid, there are lots of people ready to buy it from you at a fair price. This means you can get your money out of the investment without waiting a long time or having to lower your price a lot. It's like having a busy marketplace where you can always find someone to trade with.
 
-On the other hand, if the market isn't liquid, it can be tough to find someone to buy your stock. You might have to wait a long time or sell it for less than you wanted. This can be risky because it might force you to keep your money tied up in the investment longer than you planned, or you might lose money if you have to sell at a lower price. So, liquidity helps keep the market smooth and makes it easier for everyone to trade without big problems.
+On the other hand, if the market isn't liquid, it can be tough to find someone to buy your stock. You might have to wait a long time or sell it for less than you wanted. This can be risky because it might force you to keep your money tied up in the investment longer than you planned, or you might lose money if you have to sell at a lower price. So, [liquidity](/wiki/liquidity-risk-premium) helps keep the market smooth and makes it easier for everyone to trade without big problems.
 
 ## What are the basic components of liquidity?
 
@@ -36,7 +36,7 @@ Because market makers are always ready to buy and sell, they help keep the marke
 
 ## What are the common measures of liquidity?
 
-Liquidity can be measured in different ways, but two common measures are trading volume and bid-ask spread. Trading volume is simply how many shares or units of an asset are bought and sold in a day. When a lot of trading happens, it means the market is liquid because there are many people ready to buy and sell. This makes it easier to trade without waiting a long time or changing the price a lot. On the other hand, if trading volume is low, it can be harder to find someone to trade with, which means lower liquidity.
+Liquidity can be measured in different ways, but two common measures are trading [volume](/wiki/volume-trading-strategy) and bid-ask spread. Trading volume is simply how many shares or units of an asset are bought and sold in a day. When a lot of trading happens, it means the market is liquid because there are many people ready to buy and sell. This makes it easier to trade without waiting a long time or changing the price a lot. On the other hand, if trading volume is low, it can be harder to find someone to trade with, which means lower liquidity.
 
 The bid-ask spread is another way to measure liquidity. It's the difference between the highest price someone is willing to pay for an asset (the bid) and the lowest price someone is willing to sell it for (the ask). In a liquid market, the bid-ask spread is small because there are many buyers and sellers, so the prices they offer are close to each other. A small spread means you can buy or sell without losing much money on the difference between these prices. But if the spread is big, it's a sign of low liquidity, which can make trading more expensive and riskier.
 
@@ -48,7 +48,7 @@ Another statistical approach is to use simulations, like Monte Carlo methods, to
 
 ## What are the differences between liquidity in stock markets and forex markets?
 
-Liquidity in stock markets and forex markets works a bit differently because they are different kinds of markets. In stock markets, liquidity comes from the number of people buying and selling stocks. If a stock is popular and lots of people want to trade it, it's easy to buy or sell without changing the price much. But some stocks might not be as popular, so it can be harder to find someone to trade with, making them less liquid. Also, stock markets have set trading hours, which can affect liquidity because trading stops when the market closes.
+Liquidity in stock markets and [forex](/wiki/forex-system) markets works a bit differently because they are different kinds of markets. In stock markets, liquidity comes from the number of people buying and selling stocks. If a stock is popular and lots of people want to trade it, it's easy to buy or sell without changing the price much. But some stocks might not be as popular, so it can be harder to find someone to trade with, making them less liquid. Also, stock markets have set trading hours, which can affect liquidity because trading stops when the market closes.
 
 Forex markets, on the other hand, are all about trading different currencies. These markets are open 24 hours a day, five days a week, which means there's always someone somewhere in the world ready to trade. This makes forex markets very liquid, especially for major currency pairs like the US dollar and the Euro. Because so many people and big banks trade currencies all the time, you can usually buy or sell quickly without big price changes. But some less common currency pairs might not be as liquid, making them harder to trade.
 
@@ -56,7 +56,7 @@ In both markets, liquidity can change. In stock markets, it might change because
 
 ## How do high-frequency trading strategies impact liquidity?
 
-High-frequency trading (HFT) strategies can make markets more liquid. HFT uses computers to trade very quickly, often in milliseconds. These traders buy and sell a lot, which means there are always people ready to trade. This can make it easier for everyone to buy or sell things without waiting a long time or changing the price a lot. Imagine a busy marketplace where there are always people ready to trade with you. That's what HFT can do to the market.
+High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) strategies can make markets more liquid. HFT uses computers to trade very quickly, often in milliseconds. These traders buy and sell a lot, which means there are always people ready to trade. This can make it easier for everyone to buy or sell things without waiting a long time or changing the price a lot. Imagine a busy marketplace where there are always people ready to trade with you. That's what HFT can do to the market.
 
 But HFT can also make things tricky. Sometimes, these fast traders can cause big price changes very quickly. If they all decide to sell at the same time, it can make the market less liquid because there might not be enough people ready to buy. This can lead to what's called "flash crashes," where prices drop suddenly and then go back up. So while HFT can help keep the market busy and liquid most of the time, it can also make it harder to trade if something goes wrong.
 
@@ -86,7 +86,7 @@ Also, regulatory changes can make traders act differently. If there's a new rule
 
 ## What are liquidity ratios and what is their role?
 
-Liquidity ratios play a vital role in assessing a company's financial health, particularly their capacity to satisfy short-term obligations. These ratios provide a quantitative measure of a firm's liquidity position, making them indispensable tools in algorithmic trading for evaluating assets' underlying financial robustness. The three primary liquidity ratios used are the current ratio, quick ratio, and cash ratio.
+Liquidity ratios play a vital role in assessing a company's financial health, particularly their capacity to satisfy short-term obligations. These ratios provide a quantitative measure of a firm's liquidity position, making them indispensable tools in [algorithmic trading](/wiki/algorithmic-trading) for evaluating assets' underlying financial robustness. The three primary liquidity ratios used are the current ratio, quick ratio, and cash ratio.
 
 The **current ratio** is calculated by dividing a company's current assets by its current liabilities. It serves as a broad indicator of a firm's capability to cover its short-term debts with assets that are expected to be converted to cash within a year. Mathematically, it is expressed as:
 

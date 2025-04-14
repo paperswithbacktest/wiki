@@ -46,7 +46,7 @@ Even though the basic idea of the Kelly Criterion stays the same, you need to th
 
 ## What historical examples illustrate the successful application of the Kelly Criterion?
 
-One famous example of the Kelly Criterion being used successfully is by Edward Thorp, a mathematician and hedge fund manager. In the 1960s, Thorp used the Kelly Criterion to help him make money in the stock market and at blackjack tables in casinos. He wrote a book called "Beat the Dealer" where he explained how he used the Kelly formula to decide how much to bet. Thorp's success showed that the Kelly Criterion could work well in real life, not just in theory.
+One famous example of the Kelly Criterion being used successfully is by Edward Thorp, a mathematician and [hedge fund](/wiki/hedge-fund-trading-strategies) manager. In the 1960s, Thorp used the Kelly Criterion to help him make money in the stock market and at blackjack tables in casinos. He wrote a book called "Beat the Dealer" where he explained how he used the Kelly formula to decide how much to bet. Thorp's success showed that the Kelly Criterion could work well in real life, not just in theory.
 
 Another example is the story of Bill Benter, who used the Kelly Criterion to make a lot of money betting on horse races in Hong Kong. Benter started using the Kelly formula in the 1980s to figure out how much to bet on each race. By carefully calculating the chances of each horse winning and using the Kelly Criterion, he was able to turn a small amount of money into millions. Benter's success with horse racing betting shows how the Kelly Criterion can be adapted to different kinds of betting and investing.
 

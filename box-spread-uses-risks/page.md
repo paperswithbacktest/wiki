@@ -82,7 +82,7 @@ Also, if the rules change about how much money you need to have in your account 
 
 ## What are some practical examples and case studies?
 
-Box spread options trading, through its use of both bull call and bear put spreads with consistent strike prices and expiration dates, provides unique opportunities for arbitrage and risk management. This section explores real-world examples and case studies to elucidate how box spreads can be effectively constructed and the potential payoffs they can achieve.
+Box spread options trading, through its use of both bull call and bear put spreads with consistent strike prices and expiration dates, provides unique opportunities for [arbitrage](/wiki/arbitrage) and risk management. This section explores real-world examples and case studies to elucidate how box spreads can be effectively constructed and the potential payoffs they can achieve.
 
 **Numerical Example of a Box Spread**
 
@@ -119,11 +119,11 @@ Traders on platforms like Robinhood have used box spreads to manage risk and lev
 
 Despite the challenges, the trade emphasized the importance of accurate timing and execution enabled by technological advancements. The trader leveraged algorithmic strategies to optimize order execution, reducing market exposure time that could otherwise lead to adverse price movements.
 
-On the flip side, some traders have experienced failed executions primarily due to high transaction costs exceeding the narrow profit margins typical of box spreads. Additionally, liquidity constraints on the platform occasionally led to suboptimal execution prices, eroding the arbitrage edge that the box spread was supposed to offer. 
+On the flip side, some traders have experienced failed executions primarily due to high transaction costs exceeding the narrow profit margins typical of box spreads. Additionally, [liquidity](/wiki/liquidity-risk-premium) constraints on the platform occasionally led to suboptimal execution prices, eroding the arbitrage edge that the box spread was supposed to offer. 
 
 These examples underscore the critical role of precise execution and attention to platform-specific constraints when engaging in box spread trading. Careful risk management is essential to mitigate potential pitfalls, such as premature exercise risk and varying commission structures, which can directly affect profitability.
 
-Real-world applications and case studies reinforce the complexity yet potential profitability of box spread options when executed with an informed and strategic approach. With advances in algorithmic trading, these strategies have become more accessible to retail investors, though still requiring a sophisticated understanding to navigate successfully.
+Real-world applications and case studies reinforce the complexity yet potential profitability of box spread options when executed with an informed and strategic approach. With advances in [algorithmic trading](/wiki/algorithmic-trading), these strategies have become more accessible to retail investors, though still requiring a sophisticated understanding to navigate successfully.
 
 ## References & Further Reading
 

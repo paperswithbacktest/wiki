@@ -34,9 +34,9 @@ UITs are designed to be simple and clear. They have a set plan, like focusing on
 
 ## What are the benefits of investing in UITs for beginners?
 
-Investing in Unit Investment Trusts (UITs) can be a great choice for beginners because they are simple and easy to understand. UITs have a fixed set of investments, like stocks or bonds, that don't change much after the trust starts. This means that when you invest in a UIT, you know exactly what you're getting into. It's like buying a basket of investments that stays the same until the UIT ends. This can be really helpful for beginners who might feel overwhelmed by the idea of picking individual stocks or bonds.
+Investing in Unit Investment Trusts (UITs) can be a great choice for beginners because they are simple and easy to understand. UITs have a fixed set of investments, like stocks or bonds, that don't change much after the trust starts. This means that when you invest in a UIT, you know exactly what you're getting into. It's like buying a basket of investments that stays the same until the UIT ends. This can be really helpful for beginners who might feel overwhelmed by the idea of [picking](/wiki/asset-class-picking) individual stocks or bonds.
 
-Another benefit of UITs for beginners is that they have a set end date. This means you can invest in a UIT knowing that it will end at a certain time, and you'll get your money back then. This can be good for people who want to invest for a specific goal, like saving for a big purchase or planning for retirement. Plus, UITs often focus on a clear goal, like earning income from bonds or growing money from stocks, which makes it easier for beginners to choose an investment that matches what they want to achieve.
+Another benefit of UITs for beginners is that they have a set end date. This means you can invest in a UIT knowing that it will end at a certain time, and you'll get your money back then. This can be good for people who want to invest for a specific goal, like saving for a big purchase or planning for retirement. Plus, UITs often focus on a clear goal, like [earning](/wiki/earning-announcement) income from bonds or growing money from stocks, which makes it easier for beginners to choose an investment that matches what they want to achieve.
 
 ## How can UITs be used as part of a diversified investment strategy?
 

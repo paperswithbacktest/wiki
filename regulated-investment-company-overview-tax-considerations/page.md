@@ -18,7 +18,7 @@ RICs are regulated by the government to make sure they follow certain rules. Thi
 
 The main types of RICs are mutual funds and exchange-traded funds (ETFs). Mutual funds are RICs that pool money from many investors to buy a variety of stocks, bonds, or other assets. They are managed by professionals who make decisions about which investments to buy and sell. This makes it easier for people to invest without having to pick individual stocks themselves.
 
-ETFs are similar to mutual funds but they trade on stock exchanges like individual stocks. This means you can buy and sell ETF shares throughout the day at market prices. ETFs often try to match the performance of a specific index, like the S&P 500, by holding the same stocks in the same proportions as the index. This can be a good way to get broad market exposure with a single investment.
+ETFs are similar to mutual funds but they trade on stock exchanges like individual stocks. This means you can buy and sell [ETF](/wiki/etf-trading-strategies) shares throughout the day at market prices. ETFs often try to match the performance of a specific index, like the S&P 500, by holding the same stocks in the same proportions as the index. This can be a good way to get broad market exposure with a single investment.
 
 Both mutual funds and ETFs offer diversification, which means spreading your money across many different investments to reduce risk. They also have tax advantages because RICs do not pay corporate taxes on their earnings as long as they meet certain requirements, such as distributing at least 90% of their taxable income to shareholders each year.
 
@@ -50,7 +50,7 @@ One cool thing about RICs is that they don't pay corporate taxes on their earnin
 
 RICs like mutual funds and ETFs handle capital gains and losses by passing them on to their investors. When a RIC sells an investment for more than it paid, it makes a capital gain. If it sells for less, it has a capital loss. These gains and losses are added up throughout the year. At the end of the year, if the RIC has more gains than losses, it will distribute these net capital gains to its shareholders. This means you, as an investor, will get a share of these gains, and you'll have to pay taxes on them.
 
-On the other hand, if the RIC has more losses than gains, it can use these net capital losses to offset future gains. This means the RIC can carry these losses forward to reduce the taxes it might have to pay on gains in future years. This can be helpful because it can lower the amount of taxable income the RIC has to distribute to shareholders. As an investor, you won't directly benefit from these losses in the year they happen, but they can help the RIC manage its taxes better in the long run.
+On the other hand, if the RIC has more losses than gains, it can use these net capital losses to offset future gains. This means the RIC can [carry](/wiki/carry-trading) these losses forward to reduce the taxes it might have to pay on gains in future years. This can be helpful because it can lower the amount of taxable income the RIC has to distribute to shareholders. As an investor, you won't directly benefit from these losses in the year they happen, but they can help the RIC manage its taxes better in the long run.
 
 ## What are the reporting requirements for RICs?
 

@@ -42,7 +42,7 @@ Even though the Three White Soldiers pattern can be a good sign, it's not always
 
 The Three White Soldiers pattern works best when it shows up after a time when the stock's price has been going down. This means the pattern is most effective at the end of a downtrend. When traders see these three green candles in a row, it can mean that the time of falling prices is over and the stock might start going up. The pattern shows that buyers are getting stronger and pushing the price up more each day.
 
-For the pattern to be a good sign, the market should also have good volume. This means more people are trading the stock when the pattern shows up. High volume can make the pattern more reliable because it shows that more traders believe the stock's price will go up. So, the ideal conditions for the Three White Soldiers pattern are a clear downtrend before it appears and strong trading volume when it happens.
+For the pattern to be a good sign, the market should also have good [volume](/wiki/volume-trading-strategy). This means more people are trading the stock when the pattern shows up. High volume can make the pattern more reliable because it shows that more traders believe the stock's price will go up. So, the ideal conditions for the Three White Soldiers pattern are a clear downtrend before it appears and strong trading volume when it happens.
 
 ## How should traders confirm the Three White Soldiers pattern before making a trade?
 

@@ -42,7 +42,7 @@ But the multiplier effect also makes policymakers think carefully about their ch
 
 The size of the multiplier effect depends on how much people spend instead of saving their money. This is called the marginal propensity to consume (MPC). If people spend most of their extra money, the multiplier effect will be bigger. For example, if the MPC is high, like 0.80, it means people spend 80 cents of every extra dollar they get. This makes the multiplier bigger because more money keeps moving around in the economy, leading to more spending and income for everyone.
 
-Another factor that can affect the multiplier effect is the economy's overall health. When the economy is doing well, people might feel more confident and spend more, making the multiplier bigger. But if the economy is struggling, people might save more and spend less, which makes the multiplier smaller. Also, things like taxes and how much money people have to begin with can change how much they spend, which in turn affects the multiplier effect.
+Another [factor](/wiki/factor-investing) that can affect the multiplier effect is the economy's overall health. When the economy is doing well, people might feel more confident and spend more, making the multiplier bigger. But if the economy is struggling, people might save more and spend less, which makes the multiplier smaller. Also, things like taxes and how much money people have to begin with can change how much they spend, which in turn affects the multiplier effect.
 
 ## How does the multiplier effect relate to fiscal policy?
 

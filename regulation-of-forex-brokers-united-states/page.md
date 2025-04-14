@@ -18,7 +18,7 @@ Forex brokers make money by charging you a small fee or by adding a little diffe
 
 Regulation is important for forex brokers because it helps keep trading safe and fair for everyone. When a broker is regulated, it means that they have to follow rules set by a government or financial authority. This makes sure that the broker is honest and doesn't do anything sneaky or harmful to their clients. If something goes wrong, like if the broker loses your money or doesn't give it back, you can complain to the regulator who can help you get your money back or take action against the broker.
 
-Having regulation also builds trust. When you know that a broker is being watched by a regulator, you feel more confident in using their services. This is important because trading can be risky, and you want to be sure that the broker is not going to cheat you. Regulated brokers also have to keep your money in separate accounts, which means your money is safer even if the broker has financial problems. So, regulation helps protect you and makes the whole forex market more trustworthy.
+Having regulation also builds trust. When you know that a broker is being watched by a regulator, you feel more confident in using their services. This is important because trading can be risky, and you want to be sure that the broker is not going to cheat you. Regulated brokers also have to keep your money in separate accounts, which means your money is safer even if the broker has financial problems. So, regulation helps protect you and makes the whole [forex](/wiki/forex-system) market more trustworthy.
 
 ## Which regulatory body oversees forex brokers in the United States?
 

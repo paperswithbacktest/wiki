@@ -42,13 +42,13 @@ After switching to decimals, the smallest price change became one cent. This all
 
 Decimalization made the stock market more liquid. Liquidity means how easily you can buy or sell a stock without affecting its price too much. Before decimalization, when stock prices were shown in fractions, it was harder to trade because the smallest price change was 1/16 of a dollar. This made the bid-ask spread bigger, which could make it harder to buy or sell stocks quickly.
 
-After switching to decimals, the smallest price change became one cent. This made the bid-ask spread smaller, which helped increase market liquidity. With smaller spreads, traders could buy and sell stocks more easily and at prices that were closer together. This meant more people could trade stocks without worrying about big price changes, making the market more active and efficient.
+After switching to decimals, the smallest price change became one cent. This made the bid-ask spread smaller, which helped increase market [liquidity](/wiki/liquidity-risk-premium). With smaller spreads, traders could buy and sell stocks more easily and at prices that were closer together. This meant more people could trade stocks without worrying about big price changes, making the market more active and efficient.
 
 ## How did decimalization influence trading volumes?
 
 Decimalization made trading volumes go up. Before 2000, stock prices were shown in fractions, like 1/8 or 1/16 of a dollar. This made trading harder because the smallest price change was big, and it was confusing. When the U.S. stock market switched to decimals, prices were shown in dollars and cents, like $25.50. This change made it easier for everyone to understand and trade stocks.
 
-With decimals, the smallest price change became one cent. This made the difference between buying and selling prices, called the bid-ask spread, smaller. Smaller spreads meant people could trade more often without worrying about big price changes. As a result, more people started trading, and the total number of trades, or trading volume, increased. Decimalization made the stock market more active and easier to use for everyone.
+With decimals, the smallest price change became one cent. This made the difference between buying and selling prices, called the bid-ask spread, smaller. Smaller spreads meant people could trade more often without worrying about big price changes. As a result, more people started trading, and the total number of trades, or trading [volume](/wiki/volume-trading-strategy), increased. Decimalization made the stock market more active and easier to use for everyone.
 
 ## What were the challenges faced during the transition to decimalization?
 
@@ -82,11 +82,11 @@ The impact of decimalization has been similar in many places, but there are some
 
 ## What are the pros of decimalization in algo trading?
 
-Decimalization has significantly influenced algorithmic trading by providing several advantages that enhance trading strategies and execution. One of the main benefits is the increased market transparency. With prices quoted in decimals rather than fractions, traders can discern more precise price points, leading to a better understanding of market dynamics. This transparency enables traders to make informed decisions, resulting in more efficient and effective trading strategies [1].
+Decimalization has significantly influenced [algorithmic trading](/wiki/algorithmic-trading) by providing several advantages that enhance trading strategies and execution. One of the main benefits is the increased market transparency. With prices quoted in decimals rather than fractions, traders can discern more precise price points, leading to a better understanding of market dynamics. This transparency enables traders to make informed decisions, resulting in more efficient and effective trading strategies [1].
 
 Reduced trading costs are another notable advantage of decimalization. The shift from fractional pricing to decimal pricing has narrowed bid-ask spreads, lowering the cost of executing trades. This reduction is particularly beneficial for algorithmic trading systems, which often rely on executing large volumes of trades at minimal cost. Lower transaction costs can lead to higher profitability, as algorithms can exploit smaller price movements more effectively without incurring prohibitive expenses.
 
-Algorithmic trading systems benefit from the ability to execute trades with greater precision. Decimal pricing allows these systems to identify and act upon minor price variations, optimizing execution and enhancing profitability potential. Traders can implement strategies that capitalize on minuscule price shifts, enabling them to exploit arbitrage opportunities and market inefficiencies with increased accuracy.
+Algorithmic trading systems benefit from the ability to execute trades with greater precision. Decimal pricing allows these systems to identify and act upon minor price variations, optimizing execution and enhancing profitability potential. Traders can implement strategies that capitalize on minuscule price shifts, enabling them to exploit [arbitrage](/wiki/arbitrage) opportunities and market inefficiencies with increased accuracy.
 
 Market efficiency, supported by decimalization, benefits both retail and institutional traders. Finer price increments allow for a more continuous representation of supply and demand, ensuring that prices reflect the true market value of securities. This improved efficiency leads to a more competitive market environment whereby participants can achieve better pricing and more favorable trade execution.
 

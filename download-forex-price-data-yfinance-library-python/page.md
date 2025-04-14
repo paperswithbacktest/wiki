@@ -30,11 +30,11 @@ After setting up the Ticker object, you can download the price data. You do this
 
 When you want to download Forex data for a specific time range, you can use the `history` method with the `start` and `end` parameters. For example, if you want data from January 1, 2022, to December 31, 2022, you would write `data = ticker.history(start="2022-01-01", end="2022-12-31")`. This tells yFinance to give you the data just for that year. It's like asking for a specific part of the book instead of the whole thing.
 
-You can also use the `period` parameter if you want data for a common time frame like a day, a week, or a month. For example, `data = ticker.history(period="1mo")` will get you data for the last month. This is handy if you want recent data without picking exact dates. Both ways let you focus on the time range that's important for your analysis or project.
+You can also use the `period` parameter if you want data for a common time frame like a day, a week, or a month. For example, `data = ticker.history(period="1mo")` will get you data for the last month. This is handy if you want recent data without [picking](/wiki/asset-class-picking) exact dates. Both ways let you focus on the time range that's important for your analysis or project.
 
 ## What types of Forex data can you retrieve with yFinance, and how do you specify them?
 
-With yFinance, you can get different types of Forex data like the opening price, closing price, highest price, and lowest price for a currency pair each day. You can also get the volume of trades, which shows how many times people bought or sold that currency pair. This data helps you see how the price of the currency changed over time and how popular it was to trade.
+With yFinance, you can get different types of Forex data like the opening price, closing price, highest price, and lowest price for a currency pair each day. You can also get the [volume](/wiki/volume-trading-strategy) of trades, which shows how many times people bought or sold that currency pair. This data helps you see how the price of the currency changed over time and how popular it was to trade.
 
 To specify the types of data you want, you use the `history` method on your Ticker object. When you call `history`, it gives you a DataFrame with columns for 'Open', 'High', 'Low', 'Close', and 'Volume' by default. If you want only certain types of data, you can select them from the DataFrame after you get it. For example, if you just want the closing prices, you can use `data['Close']` to look at only that column.
 
@@ -72,7 +72,7 @@ Another way to make your Forex analysis better is by using plotting libraries li
 
 To make getting and looking at Forex data with yFinance even better, you can use some smart tricks. One way is to use multi-threading or multi-processing. This means you can ask for data from different currency pairs at the same time, instead of one after the other. It's like having several helpers working together to get the job done faster. You can also use caching, which means saving the data you've already downloaded so you don't have to get it again. This saves time and helps you avoid hitting Yahoo Finance's limits on how much data you can ask for.
 
-Another cool trick is to use machine learning to predict future Forex prices. After you get the data with yFinance, you can use libraries like scikit-learn to train models on past prices and try to guess what will happen next. This can help you make better trading decisions. You can also use time series analysis to look at how prices change over time and find patterns that might be hard to see just by looking at the numbers. By combining these advanced techniques with yFinance, you can get more out of your Forex data and make smarter choices.
+Another cool trick is to use [machine learning](/wiki/machine-learning) to predict future Forex prices. After you get the data with yFinance, you can use libraries like scikit-learn to train models on past prices and try to guess what will happen next. This can help you make better trading decisions. You can also use time series analysis to look at how prices change over time and find patterns that might be hard to see just by looking at the numbers. By combining these advanced techniques with yFinance, you can get more out of your Forex data and make smarter choices.
 
 ## How does yFinance compare to other libraries or APIs for downloading Forex price data in terms of functionality and performance?
 
@@ -82,7 +82,7 @@ Other libraries and APIs, like those from financial data providers like Alpha Va
 
 ## What is Backtesting and Performance Analysis?
 
-Backtesting is an essential step for evaluating the viability and effectiveness of trading strategies before deploying them in live market conditions. It involves simulating your trading strategy on historical data to assess its performance over time. By using the forex-python API, traders can conduct backtesting by accessing historical exchange rate data, which aids in reconstructing past market scenarios to test strategy outcomes.
+Backtesting is an essential step for evaluating the viability and effectiveness of trading strategies before deploying them in live market conditions. It involves simulating your trading strategy on historical data to assess its performance over time. By using the [forex](/wiki/forex-system)-python API, traders can conduct [backtesting](/wiki/backtesting) by accessing historical exchange rate data, which aids in reconstructing past market scenarios to test strategy outcomes.
 
 ### Utilizing Forex-python for Simulation
 

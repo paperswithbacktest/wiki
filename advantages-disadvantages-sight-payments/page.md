@@ -84,7 +84,7 @@ Technology also helps businesses keep track of their payments and goods better. 
 
 ## What are the disadvantages of at sight payments?
 
-Immediate payment demands associated with at sight payments can present significant challenges for buyers, particularly in transactions involving substantial sums. When large amounts are due immediately, buyers may face liquidity constraints that strain their cash flow. This immediate requirement can deter companies from venturing into at sight agreements, especially if they lack sufficient liquid assets or access to quick financing options.
+Immediate payment demands associated with at sight payments can present significant challenges for buyers, particularly in transactions involving substantial sums. When large amounts are due immediately, buyers may face [liquidity](/wiki/liquidity-risk-premium) constraints that strain their cash flow. This immediate requirement can deter companies from venturing into at sight agreements, especially if they lack sufficient liquid assets or access to quick financing options.
 
 Currency fluctuations introduce another layer of complexity to at sight payments. Since these contracts often occur in international trade, the time between the issuance of at sight terms and the final settlement can expose both parties to currency exchange risks. For example, if a buyer commits to an at sight payment in a foreign currency and that currency appreciates against their home currency before settlement, the buyer could incur higher costs. This [volatility](/wiki/volatility-trading-strategies) can be quantified using the formula:
 

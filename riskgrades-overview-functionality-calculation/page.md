@@ -131,7 +131,7 @@ By employing these methods, investors and financial analysts can comprehensively
 
 ## How can RiskGrades be integrated with algorithmic trading?
 
-The integration of RiskGrades (RG) within algorithmic trading provides traders with a robust framework to quantitatively manage and assess potential risks, enhancing both their understanding and response to market dynamics. At its core, RiskGrades supply traders with a standardized measure of volatility, which when employed within algorithmic trading, offers superior volatility evaluation capabilities.
+The integration of RiskGrades (RG) within [algorithmic trading](/wiki/algorithmic-trading) provides traders with a robust framework to quantitatively manage and assess potential risks, enhancing both their understanding and response to market dynamics. At its core, RiskGrades supply traders with a standardized measure of volatility, which when employed within algorithmic trading, offers superior volatility evaluation capabilities.
 
 Algorithmic trading involves the use of computer algorithms to execute trading strategies with precision and speed, which requires a precise understanding of market risks and volatility. The application of RG assists traders in identifying the relative volatility of different assets, allowing them to adjust their trading algorithms in real-time to mitigate risks or exploit favorable conditions. The equation for calculating RiskGrades for a single asset involves the asset’s standard deviation, denoted as:
 

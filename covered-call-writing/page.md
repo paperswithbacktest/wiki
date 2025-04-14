@@ -34,7 +34,7 @@ Another risk is that your stock could lose value. Even though you get the premiu
 
 ## How do you select the right stock for a covered call strategy?
 
-When picking a stock for a covered call strategy, you want to look for a stock that you think will stay about the same or go up a little, but not too much. You don't want the stock to go up a lot because then you'd have to sell it at the lower strike price you set, and you'd miss out on the bigger gains. So, a good choice might be a stock that pays dividends and has a steady price. This way, you can still make money from the dividends and the premium from selling the call option, even if the stock doesn't move much.
+When [picking](/wiki/asset-class-picking) a stock for a covered call strategy, you want to look for a stock that you think will stay about the same or go up a little, but not too much. You don't want the stock to go up a lot because then you'd have to sell it at the lower strike price you set, and you'd miss out on the bigger gains. So, a good choice might be a stock that pays dividends and has a steady price. This way, you can still make money from the dividends and the premium from selling the call option, even if the stock doesn't move much.
 
 Another thing to think about is how much the stock might go down. If the stock is very risky and could lose a lot of value, the premium you get from selling the call option might not be enough to cover your losses. So, it's a good idea to pick a stock that you think is pretty safe and won't drop too much. This way, you can feel more secure that the premium will help protect you if the stock does go down a bit.
 

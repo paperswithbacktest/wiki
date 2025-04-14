@@ -34,7 +34,7 @@ The unemployment rate, on the other hand, focuses only on people who are part of
 
 ## What factors influence changes in the labor force participation rate?
 
-Changes in the labor force participation rate can be influenced by many different things. One big factor is the economy. When the economy is doing well, people feel more confident about finding jobs, so more of them might join the workforce. But if the economy is struggling, people might stop looking for work because they think it's too hard to find a job, which can make the participation rate go down.
+Changes in the labor force participation rate can be influenced by many different things. One big [factor](/wiki/factor-investing) is the economy. When the economy is doing well, people feel more confident about finding jobs, so more of them might join the workforce. But if the economy is struggling, people might stop looking for work because they think it's too hard to find a job, which can make the participation rate go down.
 
 Another factor is demographics. This means changes in the kinds of people who make up the population. For example, if more older people are retiring, the labor force participation rate can go down. If more women or young people start looking for work, it can go up. Also, things like going back to school or taking care of family can affect whether someone is part of the labor force or not.
 

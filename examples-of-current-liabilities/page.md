@@ -34,7 +34,7 @@ Long-term liabilities, on the other hand, are debts that a business does not nee
 
 ## What is the impact of current liabilities on a company's liquidity?
 
-Current liabilities have a big effect on a company's liquidity, which means how easily a company can turn its assets into cash to pay its debts. If a company has a lot of current liabilities, it needs to make sure it has enough cash or assets that can quickly be turned into cash. This is important because if the company can't pay its bills on time, it might face problems like late fees or even going out of business.
+Current liabilities have a big effect on a company's [liquidity](/wiki/liquidity-risk-premium), which means how easily a company can turn its assets into cash to pay its debts. If a company has a lot of current liabilities, it needs to make sure it has enough cash or assets that can quickly be turned into cash. This is important because if the company can't pay its bills on time, it might face problems like late fees or even going out of business.
 
 To measure liquidity, people often look at ratios like the current ratio, which compares current assets to current liabilities. If a company's current ratio is low, it might mean the company doesn't have enough liquid assets to cover its short-term debts. This can make it harder for the company to get more loans or do business with suppliers who want to be paid on time. So, managing current liabilities well is key to keeping a company's liquidity healthy and making sure it can keep running smoothly.
 
@@ -74,7 +74,7 @@ One advanced strategy for optimizing current liabilities is to use dynamic disco
 
 Another strategy is to use supply chain financing. This is when a company works with a bank or a financing company to pay its suppliers. The bank pays the suppliers early, and the company pays the bank back later. This helps the company keep its cash longer, which can be used for other things. It also makes suppliers happy because they get paid sooner. This strategy can help a company manage its current liabilities better and keep good relationships with its suppliers.
 
-A third strategy involves renegotiating terms with lenders. A company can talk to its lenders about changing the terms of its short-term loans. For example, it might ask for a longer time to pay back the loan or for a lower interest rate. By doing this, the company can lower its current liabilities and make its payments more manageable. This strategy can help a company avoid cash flow problems and keep its finances stable.
+A third strategy involves renegotiating terms with lenders. A company can talk to its lenders about changing the terms of its short-term loans. For example, it might ask for a longer time to pay back the loan or for a lower [interest rate](/wiki/interest-rate-trading-strategies). By doing this, the company can lower its current liabilities and make its payments more manageable. This strategy can help a company avoid cash flow problems and keep its finances stable.
 
 ## How do regulatory changes impact the management of current liabilities?
 
@@ -172,5 +172,5 @@ By leveraging such tools, finance professionals can gain deeper insights into th
    - Python for Finance Cookbook by Eryk Lewinson is a resourceful guide on using Python for financial data analysis, offering practical insights into automating liability calculations and algorithmic trading.
    - Stack Overflow (https://stackoverflow.com/): A community-driven forum where programmers share solutions to coding challenges, including those related to financial calculations and algorithmic trading strategies. 
 
-These resources provide foundational knowledge and practical applications for professionals and enthusiasts seeking to enhance their understanding of financial accounting, algorithmic trading, and liability management.
+These resources provide foundational knowledge and practical applications for professionals and enthusiasts seeking to enhance their understanding of financial accounting, [algorithmic trading](/wiki/algorithmic-trading), and liability management.
 

@@ -239,7 +239,7 @@ $$
 
 $$
 
-By dragging the formulas through the relevant cells and observing the ending portfolio value, traders can determine the effectiveness of the strategy. Modifications, such as adjusting moving average periods or incorporating transaction costs, can refine the strategy further. Through Excel, even beginners can start exploring the mechanics of algorithmic trading with this structured approach.
+By dragging the formulas through the relevant cells and observing the ending portfolio value, traders can determine the effectiveness of the strategy. Modifications, such as adjusting moving average periods or incorporating transaction costs, can refine the strategy further. Through Excel, even beginners can start exploring the mechanics of [algorithmic trading](/wiki/algorithmic-trading) with this structured approach.
 
 ## References & Further Reading
 

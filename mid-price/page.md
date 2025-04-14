@@ -24,7 +24,7 @@ This calculation gives you a number that sits right in the middle of what buyers
 
 The mid price is important for traders and investors because it gives them a good idea of what an asset is really worth at any moment. It's like a fair price that sits right in the middle of what people want to pay and what people want to get for selling the asset. By looking at the mid price, traders can see if the asset is a good deal or if it's overpriced, which helps them decide whether to buy or sell.
 
-This middle price also helps traders make better choices about their trading strategies. Since the mid price shows both what buyers and sellers think, it gives a balanced view of the market. Traders can use this information to plan their moves, like figuring out when to enter or exit a trade, and it can help them make smarter decisions to hopefully make more money.
+This middle price also helps traders make better choices about their trading strategies. Since the mid price shows both what buyers and sellers think, it gives a balanced view of the market. Traders can use this information to plan their moves, like figuring out when to enter or [exit](/wiki/exit-strategy) a trade, and it can help them make smarter decisions to hopefully make more money.
 
 ## Can you explain the difference between the mid price and the market price?
 
@@ -46,7 +46,7 @@ The mid price is also useful for setting up trading strategies that involve stop
 
 ## How does the mid price relate to order book dynamics?
 
-The mid price is important when we look at the order book, which is like a list showing all the buy and sell orders for an asset. The order book shows the best bid and the best ask prices, and the mid price is the average of these two. As the order book changes with new orders coming in or old ones being taken away, the best bid and best ask prices can change too. When this happens, the mid price changes to reflect the new average, giving traders a fresh view of what the market thinks the asset is worth.
+The mid price is important when we look at the [order book](/wiki/order-book-trading-strategies), which is like a list showing all the buy and sell orders for an asset. The order book shows the best bid and the best ask prices, and the mid price is the average of these two. As the order book changes with new orders coming in or old ones being taken away, the best bid and best ask prices can change too. When this happens, the mid price changes to reflect the new average, giving traders a fresh view of what the market thinks the asset is worth.
 
 The mid price helps traders understand the order book dynamics because it shows the balance between buying and selling interest. If there are a lot of buy orders at high prices and not many sell orders, the best bid might go up, making the mid price go up too. This tells traders that demand for the asset is strong. On the other hand, if there are more sell orders at low prices, the best ask might go down, and the mid price will go down as well, showing that there's more supply than demand. By watching how the mid price moves with the order book, traders can make better decisions about when to buy or sell.
 
@@ -60,7 +60,7 @@ Lastly, the mid price doesn't show how easy or hard it is to actually trade the 
 
 ## How can mid price be used in algorithmic trading?
 
-In algorithmic trading, the mid price is often used as a key reference point for making trading decisions. Algorithms can be programmed to buy an asset when its current market price is lower than the mid price, indicating that the asset might be undervalued. Similarly, they can be set to sell when the market price is higher than the mid price, suggesting the asset might be overvalued. This approach helps the algorithm to aim for buying low and selling high, which is the basic goal of trading.
+In [algorithmic trading](/wiki/algorithmic-trading), the mid price is often used as a key reference point for making trading decisions. Algorithms can be programmed to buy an asset when its current market price is lower than the mid price, indicating that the asset might be undervalued. Similarly, they can be set to sell when the market price is higher than the mid price, suggesting the asset might be overvalued. This approach helps the algorithm to aim for buying low and selling high, which is the basic goal of trading.
 
 Another way the mid price is used in algorithmic trading is in setting stop-loss and take-profit levels. A stop-loss order can be placed just below the mid price to limit losses if the price falls too much. A take-profit order might be set just above the mid price to lock in profits when the price rises. By using the mid price as a guide, algorithms can manage trades more effectively, helping traders to make decisions based on a fair estimate of the asset's value.
 
@@ -72,13 +72,13 @@ But when the market gets wild, like during big news events or when everyone is b
 
 ## How do high-frequency trading strategies utilize mid price?
 
-High-frequency trading (HFT) strategies use the mid price to make quick trades and take advantage of small price changes. HFT traders often look at the mid price to see if they can buy an asset at a lower price and sell it at a higher price in a very short time. They use powerful computers and special software to watch the mid price all the time. When the mid price moves even a little bit, their algorithms can decide to buy or sell the asset in milliseconds, hoping to make a small profit on each trade.
+High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) strategies use the mid price to make quick trades and take advantage of small price changes. HFT traders often look at the mid price to see if they can buy an asset at a lower price and sell it at a higher price in a very short time. They use powerful computers and special software to watch the mid price all the time. When the mid price moves even a little bit, their algorithms can decide to buy or sell the asset in milliseconds, hoping to make a small profit on each trade.
 
 Sometimes, HFT strategies also use the mid price to figure out if the market is going up or down. If the mid price keeps going up, the algorithms might keep buying the asset, thinking the price will keep rising. If the mid price starts to go down, they might sell the asset quickly to avoid losing money. By using the mid price, HFT traders can make a lot of trades very fast and try to make money from the tiny changes in the market.
 
 ## What advanced statistical models are used to predict changes in mid price?
 
-Advanced statistical models like autoregressive integrated moving average (ARIMA) and machine learning algorithms such as neural networks are used to predict changes in the mid price. These models look at past data to find patterns and trends. For example, ARIMA can help forecast future mid prices by understanding how the mid price has moved in the past and how it might move in the future. Machine learning models, like neural networks, can learn from lots of data, including not just past prices but also other things like trading volume or news events, to make better predictions.
+Advanced statistical models like autoregressive integrated moving average (ARIMA) and [machine learning](/wiki/machine-learning) algorithms such as neural networks are used to predict changes in the mid price. These models look at past data to find patterns and trends. For example, ARIMA can help forecast future mid prices by understanding how the mid price has moved in the past and how it might move in the future. Machine learning models, like neural networks, can learn from lots of data, including not just past prices but also other things like trading [volume](/wiki/volume-trading-strategy) or news events, to make better predictions.
 
 These models are really helpful for traders because they can give a heads-up on what might happen next with the mid price. By using these predictions, traders can make smarter decisions about when to buy or sell. But, it's important to remember that these models aren't perfect. The market can be unpredictable, and even the best models can get it wrong sometimes. So, traders often use these predictions along with other information to make their trading choices.
 

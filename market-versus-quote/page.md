@@ -28,7 +28,7 @@ Besides the last traded price, a quote includes the bid and ask prices. The bid 
 
 ## Can you explain the components of a quote?
 
-A quote in the financial markets gives you important details about a stock's price. It shows the last price at which the stock was traded. This is useful because it tells you what the stock is currently worth. The quote also includes the highest and lowest prices the stock reached during the day. This helps you understand how much the stock's price has moved, giving you a sense of its volatility.
+A quote in the financial markets gives you important details about a stock's price. It shows the last price at which the stock was traded. This is useful because it tells you what the stock is currently worth. The quote also includes the highest and lowest prices the stock reached during the day. This helps you understand how much the stock's price has moved, giving you a sense of its [volatility](/wiki/volatility-trading-strategies).
 
 Another part of the quote is the bid price, which is the highest price someone is willing to pay to buy the stock right now. On the other hand, the ask price is the lowest price someone is willing to sell the stock for. The difference between the bid and ask prices is called the spread. Knowing these prices helps you see the current demand and supply for the stock. This information can guide you in deciding whether to buy or sell at that moment.
 
@@ -64,9 +64,9 @@ Quotes, on the other hand, show you information about a stock's price but don't 
 
 ## What advanced strategies involve the use of market orders and quotes?
 
-One advanced strategy that involves market orders and quotes is called scalping. Scalpers use quotes to watch the bid and ask prices closely. They look for small price changes and use market orders to quickly buy and sell stocks to make small profits. Because market orders are fast, scalpers can get in and out of trades quickly. This strategy works best in a very liquid market where there's a lot of trading happening, so the market orders can be filled at the prices they want.
+One advanced strategy that involves market orders and quotes is called [scalping](/wiki/gamma-scalping). Scalpers use quotes to watch the bid and ask prices closely. They look for small price changes and use market orders to quickly buy and sell stocks to make small profits. Because market orders are fast, scalpers can get in and out of trades quickly. This strategy works best in a very liquid market where there's a lot of trading happening, so the market orders can be filled at the prices they want.
 
-Another strategy is called market making. Market makers use quotes to set the bid and ask prices for a stock. They make money from the difference between these prices, which is called the spread. When someone wants to buy or sell using a market order, the market maker fills that order at the quoted prices. This helps keep the market liquid because market makers are always ready to buy or sell. They use market orders to manage their inventory of stocks and keep the market moving smoothly.
+Another strategy is called [market making](/wiki/market-making). Market makers use quotes to set the bid and ask prices for a stock. They make money from the difference between these prices, which is called the spread. When someone wants to buy or sell using a market order, the market maker fills that order at the quoted prices. This helps keep the market liquid because market makers are always ready to buy or sell. They use market orders to manage their inventory of stocks and keep the market moving smoothly.
 
 A third strategy involves using market orders to take advantage of big news or events. Traders might watch quotes to see how a stock's price reacts to news. If the price moves a lot, they might use a market order to quickly buy or sell the stock before the price changes even more. This can be risky because the price might keep moving in the opposite direction after they make their trade. But if they time it right, they can make a big profit from the quick price change.
 

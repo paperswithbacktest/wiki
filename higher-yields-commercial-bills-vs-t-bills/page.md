@@ -24,7 +24,7 @@ People like T-Bills because they are very safe. Since they are backed by the gov
 
 Commercial bills and T-Bills are both short-term financial instruments, but they are used for different purposes. Commercial bills are issued by businesses to manage their cash flow. When a company buys goods or services, it can issue a commercial bill to the supplier, promising to pay later. This helps the company keep its money longer. Commercial bills can also be sold to banks or investors before they are due, which gives the seller quick cash but at a lower price than the bill's full value.
 
-On the other hand, T-Bills are issued by the government to borrow money for a short time, usually less than a year. When you buy a T-Bill, you're lending money to the government, and they promise to pay you back with a little extra interest. T-Bills are very safe because they are backed by the government, so there's almost no chance of losing your money. People often use T-Bills to keep their money safe while earning a bit of interest.
+On the other hand, T-Bills are issued by the government to borrow money for a short time, usually less than a year. When you buy a T-Bill, you're lending money to the government, and they promise to pay you back with a little extra interest. T-Bills are very safe because they are backed by the government, so there's almost no chance of losing your money. People often use T-Bills to keep their money safe while [earning](/wiki/earning-announcement) a bit of interest.
 
 In summary, commercial bills help businesses manage their payments and cash flow, while T-Bills are a way for the government to borrow money. Both can be bought and sold, but they serve different needs and have different levels of safety.
 
@@ -42,7 +42,7 @@ On the other hand, T-Bills are much safer. They are loans to the government, and
 
 ## How does the credit rating of issuers affect the yield of commercial bills?
 
-The credit rating of the issuer is very important for the yield of commercial bills. A credit rating is like a report card that tells investors how likely a business is to pay back its debts. If a business has a high credit rating, it means people trust that the business will pay back the money it borrows. Because of this trust, the business doesn't have to offer a high interest rate to get people to buy its commercial bills. So, the yield, or the interest rate, on these bills will be lower.
+The credit rating of the issuer is very important for the yield of commercial bills. A credit rating is like a report card that tells investors how likely a business is to pay back its debts. If a business has a high credit rating, it means people trust that the business will pay back the money it borrows. Because of this trust, the business doesn't have to offer a high [interest rate](/wiki/interest-rate-trading-strategies) to get people to buy its commercial bills. So, the yield, or the interest rate, on these bills will be lower.
 
 On the other hand, if a business has a low credit rating, it means there's a bigger chance it might not be able to pay back its debts. This makes investors nervous, so the business has to offer a higher interest rate to convince people to buy its commercial bills. This means the yield on these bills will be higher. In simple terms, the riskier the business, the higher the yield it has to offer to attract investors.
 

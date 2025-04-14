@@ -30,13 +30,13 @@ Other types of assets that can be securitized include credit card debt and stude
 
 Securitization helps originators, like banks, by giving them a way to get money back quickly. Instead of waiting for people to pay back their loans over many years, banks can sell these loans to another company. This means the bank gets cash right away, which it can use to make more loans or do other things with the money. This is good for banks because it helps them keep their business going strong without having to wait a long time for money to come back.
 
-Another benefit for originators is that securitization can lower the risk they face. When banks keep loans on their books, they have to worry about people not paying them back. But by selling these loans, the risk moves to the investors who buy the securities. This makes the bank's balance sheet look better and safer. It also means the bank can focus on making new loans instead of worrying about old ones, which can help them grow their business.
+Another benefit for originators is that securitization can lower the risk they face. When banks keep loans on their [books](/wiki/algo-trading-books), they have to worry about people not paying them back. But by selling these loans, the risk moves to the investors who buy the securities. This makes the bank's balance sheet look better and safer. It also means the bank can focus on making new loans instead of worrying about old ones, which can help them grow their business.
 
 ## How does securitization impact the liquidity of financial markets?
 
 Securitization helps make financial markets more liquid. When banks turn loans into securities and sell them, it means more money is moving around in the market. Instead of banks holding onto loans for a long time, they can sell them quickly and use the money to make new loans. This keeps the money flowing and makes it easier for people and businesses to borrow money when they need it.
 
-This increased liquidity can also help investors. When loans are turned into securities, more people can invest in them. This means more money can be put into the market, which can help keep it active and healthy. But, it's important to remember that if too many loans go bad, it can cause problems and make the market less liquid, like what happened during the 2008 financial crisis.
+This increased [liquidity](/wiki/liquidity-risk-premium) can also help investors. When loans are turned into securities, more people can invest in them. This means more money can be put into the market, which can help keep it active and healthy. But, it's important to remember that if too many loans go bad, it can cause problems and make the market less liquid, like what happened during the 2008 financial crisis.
 
 ## What role do special purpose vehicles (SPVs) play in securitization?
 

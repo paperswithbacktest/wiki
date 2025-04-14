@@ -54,7 +54,7 @@ AFFE can make the expense ratio of a fund go up. If a fund has a lot of AFFE, it
 
 Investors can minimize the impact of Acquired Fund Fees and Expenses (AFFE) by choosing funds that invest directly in stocks, bonds, or other assets instead of other funds. This way, they avoid the extra fees that come from investing in funds that hold other funds. By looking at a fund's prospectus, investors can see how much AFFE they might have to pay. If a fund has high AFFE, it might be better to pick a different fund with lower or no AFFE.
 
-Another strategy is to compare the expense ratios of different funds. The expense ratio shows the total cost of investing in a fund, including AFFE. By choosing funds with lower expense ratios, investors can keep more of their returns. It's also a good idea to think about how long you plan to keep your money in the fund. Over many years, even small fees can add up, so picking funds with lower AFFE can make a big difference in the long run.
+Another strategy is to compare the expense ratios of different funds. The expense ratio shows the total cost of investing in a fund, including AFFE. By choosing funds with lower expense ratios, investors can keep more of their returns. It's also a good idea to think about how long you plan to keep your money in the fund. Over many years, even small fees can add up, so [picking](/wiki/asset-class-picking) funds with lower AFFE can make a big difference in the long run.
 
 ## How do regulatory bodies oversee the disclosure of Acquired Fund Fees and Expenses?
 
@@ -98,7 +98,7 @@ Overall, while FOFs offer enhanced diversification and professional management, 
 
 ## What is the impact of AFFE on algorithmic trading?
 
-Algorithmic trading leverages automated systems to execute trades based on predefined instructions, utilizing speed and efficiency to capitalize on market opportunities. In this context, precise cost calculations are essential to maintain profitability. Acquired Fund Fees and Expenses (AFFE), representing the costs associated with the underlying funds in a multi-manager structure, become a critical factor influencing these calculations.
+Algorithmic trading leverages automated systems to execute trades based on predefined instructions, utilizing speed and efficiency to capitalize on market opportunities. In this context, precise cost calculations are essential to maintain profitability. Acquired Fund Fees and Expenses (AFFE), representing the costs associated with the underlying funds in a multi-manager structure, become a critical [factor](/wiki/factor-investing) influencing these calculations.
 
 Understanding AFFE is crucial for algorithm-driven portfolios, as these expenses can directly impact the net returns of an investment strategy. Algorithmic trading strategies typically involve large volumes of transactions, and even marginal variations in cost structures can significantly affect overall performance. For instance, when calculating the expected return of a trading strategy, AFFE must be accounted for to ensure that the transaction costs do not overshadow the anticipated profits. The formula for calculating net returns could be expressed as:
 
@@ -108,7 +108,7 @@ $$
 
 Here, incorporating AFFE alongside transaction costs allows for a more comprehensive assessment of the trading strategy's effectiveness.
 
-Moreover, the cost-benefit analysis inherent in algorithmic trading requires algorithms to evaluate the potential profitability of trades after accounting for all expenses, including AFFE. This ensures that trades contributing positively to the portfolio's performance are prioritized. In Python, an algorithm might implement such an evaluation using a cost-adjusted return calculation like this:
+Moreover, the cost-benefit analysis inherent in [algorithmic trading](/wiki/algorithmic-trading) requires algorithms to evaluate the potential profitability of trades after accounting for all expenses, including AFFE. This ensures that trades contributing positively to the portfolio's performance are prioritized. In Python, an algorithm might implement such an evaluation using a cost-adjusted return calculation like this:
 
 ```python
 def calculate_cost_adjusted_return(gross_return, transaction_costs, affe):

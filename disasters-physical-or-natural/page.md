@@ -92,7 +92,7 @@ Another important area is improving how we respond to disasters. Drones are bein
 
 ## What are Natural Disasters?
 
-Natural disasters, such as hurricanes, floods, and tsunamis, significantly influence financial markets by inducing marked volatility and altering investor behavior, often resulting in complications for algorithmic trading strategies.
+Natural disasters, such as hurricanes, floods, and tsunamis, significantly influence financial markets by inducing marked [volatility](/wiki/volatility-trading-strategies) and altering investor behavior, often resulting in complications for [algorithmic trading](/wiki/algorithmic-trading) strategies.
 
 **Market Volatility and Investor Behavior**
 
@@ -106,7 +106,7 @@ where $R_i$ represents individual asset returns, $\bar{R}$ is the average return
 
 **Algorithmic Strategies Affected**
 
-Algorithmic trading systems rely heavily on historical data and predictive models to execute trades based on perceived opportunities in the market. Natural disasters disrupt this reliance by introducing non-normal returns and skewed data distributions that such algorithms may not be equipped to handle effectively. For example, trend-following strategies, which assume that asset prices follow historical patterns, may suffer as baselines drawn from stable periods no longer apply in disaster-induced markets. Similarly, arbitrage opportunities might support distorted pricing as liquidity constraints and irregular trading volumes manifest. High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) systems that capitalize on minute-to-minute inefficiencies can also be affected by increased latency and varied price movements that defy conventional logic.
+Algorithmic trading systems rely heavily on historical data and predictive models to execute trades based on perceived opportunities in the market. Natural disasters disrupt this reliance by introducing non-normal returns and skewed data distributions that such algorithms may not be equipped to handle effectively. For example, trend-following strategies, which assume that asset prices follow historical patterns, may suffer as baselines drawn from stable periods no longer apply in disaster-induced markets. Similarly, [arbitrage](/wiki/arbitrage) opportunities might support distorted pricing as [liquidity](/wiki/liquidity-risk-premium) constraints and irregular trading volumes manifest. High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) systems that capitalize on minute-to-minute inefficiencies can also be affected by increased latency and varied price movements that defy conventional logic.
 
 **Historical Examples**
 

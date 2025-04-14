@@ -84,7 +84,7 @@ In Excel, you can use tools like Data Tables to see how changes in things like i
 
 Macaulay Duration is a fundamental concept in bond investment, serving as a measure of the weighted average time required to receive the cash flows from a bond. By calculating Macaulay Duration, investors gain insight into how a bond’s price sensitivity is influenced by changes in interest rates. The longer the duration, the more sensitive the bond is to interest rate fluctuations. This is because longer durations imply that most of the bond’s cash flows are received further in the future, making their present value more affected by changes in interest rates.
 
-Macaulay Duration differs from modified duration in its approach. While modified duration directly incorporates yield changes to ascertain interest rate risk, Macaulay Duration focuses solely on time-weighted cash flows, without direct consideration of yield volatility. Consequently, it is frequently used as a stepping stone before further adjusting for yield when determining modified duration.
+Macaulay Duration differs from modified duration in its approach. While modified duration directly incorporates yield changes to ascertain interest rate risk, Macaulay Duration focuses solely on time-weighted cash flows, without direct consideration of yield [volatility](/wiki/volatility-trading-strategies). Consequently, it is frequently used as a stepping stone before further adjusting for yield when determining modified duration.
 
 The concept was introduced by economist Frederick Macaulay in 1938, providing a structured method to evaluate bond price interest rate risk. For example, the Macaulay Duration (D) can be mathematically represented using the formula:
 

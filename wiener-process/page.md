@@ -42,7 +42,7 @@ One famous model that uses the Wiener process is the Black-Scholes model, which 
 
 A standard Wiener process, also known as a standard Brownian motion, is a very specific type of random movement. It starts at zero and changes randomly over time. These changes follow a normal distribution, which means they can be big or small, positive or negative, with equal chances. The size of these changes depends on the length of time you're looking at. For example, if you look at a short time period, the change will be smaller than if you look at a longer time period. Another important thing is that these changes are independent, meaning what happened in the past doesn't affect what will happen in the future.
 
-A generalized Wiener process, on the other hand, is a bit more flexible. It can start at any value, not just zero. Also, the changes in the process can be scaled by a factor, which means they can be bigger or smaller than in a standard Wiener process. This scaling factor can be used to adjust the model to fit different situations. For example, in finance, if you want to model how stock prices change, you might use a generalized Wiener process to account for the fact that stock prices can move more dramatically than a standard Wiener process would suggest. This flexibility makes the generalized Wiener process useful for a wider range of applications.
+A generalized Wiener process, on the other hand, is a bit more flexible. It can start at any value, not just zero. Also, the changes in the process can be scaled by a [factor](/wiki/factor-investing), which means they can be bigger or smaller than in a standard Wiener process. This scaling factor can be used to adjust the model to fit different situations. For example, in finance, if you want to model how stock prices change, you might use a generalized Wiener process to account for the fact that stock prices can move more dramatically than a standard Wiener process would suggest. This flexibility makes the generalized Wiener process useful for a wider range of applications.
 
 ## How does the Wiener process relate to stochastic differential equations?
 
@@ -161,7 +161,7 @@ These properties play a crucial role in the implementation of stochastic calculu
 
 ## What are Advanced Stochastic Processes in Algo Trading?
 
-In the context of algorithmic trading, advanced stochastic processes extend beyond the Wiener process to incorporate additional features like drift and volatility, enhancing the modeling of financial markets. One such advancement is the Ito process, named after the Japanese mathematician Kiyoshi Ito. This process is defined by the stochastic differential equation (SDE):
+In the context of algorithmic trading, advanced stochastic processes extend beyond the Wiener process to incorporate additional features like drift and [volatility](/wiki/volatility-trading-strategies), enhancing the modeling of financial markets. One such advancement is the Ito process, named after the Japanese mathematician Kiyoshi Ito. This process is defined by the stochastic differential equation (SDE):
 
 $$
 dX_t = \mu(t, X_t)dt + \sigma(t, X_t)dW_t

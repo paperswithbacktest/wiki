@@ -22,7 +22,7 @@ Delta also gives you an idea of the chance that the option will end up being wor
 
 ## How does Gamma affect the Delta of an option?
 
-Gamma tells you how much the Delta of an option changes when the stock price changes. Think of Delta as a speedometer that shows how fast the option's price is moving with the stock price. Gamma is like the accelerator that makes the speedometer (Delta) change faster or slower. If an option has a high Gamma, the Delta will change a lot even with small moves in the stock price. If the Gamma is low, the Delta won't change as much.
+Gamma tells you how much the Delta of an option changes when the stock price changes. Think of Delta as a speedometer that shows how fast the option's price is moving with the stock price. Gamma is like the [accelerator](/wiki/accelerator) that makes the speedometer (Delta) change faster or slower. If an option has a high Gamma, the Delta will change a lot even with small moves in the stock price. If the Gamma is low, the Delta won't change as much.
 
 This is important because it helps traders know how sensitive their options are to changes in the stock price. For example, if you own an option with a high Gamma, you need to be ready for big changes in the option's price, even if the stock price only moves a little. Traders use Gamma to manage their risk and decide when to buy or sell options, especially around big events that might make the stock price jump around a lot.
 
@@ -34,7 +34,7 @@ This is important for traders because it helps them understand how quickly their
 
 ## How does Vega measure the sensitivity of an option's price to changes in volatility?
 
-Vega measures how much an option's price will change when the expected volatility of the stock changes. Imagine you're planning a picnic and the weather forecast keeps changing. If the forecast suddenly says there's a bigger chance of rain, you might be more worried about your picnic, and that worry is like Vega. If an option has a Vega of 0.10, it means the option's price will go up by about 10 cents if the expected volatility of the stock goes up by 1%.
+Vega measures how much an option's price will change when the expected [volatility](/wiki/volatility-trading-strategies) of the stock changes. Imagine you're planning a picnic and the weather forecast keeps changing. If the forecast suddenly says there's a bigger chance of rain, you might be more worried about your picnic, and that worry is like Vega. If an option has a Vega of 0.10, it means the option's price will go up by about 10 cents if the expected volatility of the stock goes up by 1%.
 
 This is important for traders because it helps them understand how sensitive their options are to changes in the market's expectations. If a trader thinks the market is going to become more unpredictable, they might buy options with a high Vega to take advantage of that. On the other hand, if they think the market is going to calm down, they might sell those options before the price drops because of lower expected volatility. Knowing about Vega helps traders make smarter choices about which options to buy or sell based on how much they think the market will move around.
 
@@ -64,7 +64,7 @@ On the other hand, if traders think the market is going to calm down, they might
 
 ## Can you discuss advanced Gamma scalping techniques for professional traders?
 
-Gamma scalping is a technique professional traders use to make money from small changes in a stock's price. They do this by buying and selling the stock quickly when the option's Delta changes. If you own an option with a high Gamma, its Delta will change a lot with small moves in the stock price. So, if the stock price goes up a bit, the Delta of your option goes up too. You can then sell some of the stock to make a small profit. If the stock price goes down a bit, the Delta goes down, and you can buy some stock back at a lower price. By doing this over and over, traders can make small profits that add up over time.
+Gamma [scalping](/wiki/gamma-scalping) is a technique professional traders use to make money from small changes in a stock's price. They do this by buying and selling the stock quickly when the option's Delta changes. If you own an option with a high Gamma, its Delta will change a lot with small moves in the stock price. So, if the stock price goes up a bit, the Delta of your option goes up too. You can then sell some of the stock to make a small profit. If the stock price goes down a bit, the Delta goes down, and you can buy some stock back at a lower price. By doing this over and over, traders can make small profits that add up over time.
 
 This strategy works best when the market is moving a lot but not in a clear direction. Traders need to be quick and keep a close eye on the stock price and their option's Gamma and Delta. They might use computer programs to help them make these trades fast. The goal is to keep their overall Delta close to zero so they're not too affected by big moves in the stock price. But they also want to take advantage of the small moves to make money. It's like playing a game where you need to be fast and smart to win.
 

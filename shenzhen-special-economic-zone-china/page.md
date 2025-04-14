@@ -40,7 +40,7 @@ By the year 2020, Shenzhen's population had grown to over 12 million people. Tha
 
 ## What are the main industries driving the economy of Shenzhen?
 
-The main industries in Shenzhen that help the economy grow are technology and manufacturing. Shenzhen is known as a big hub for electronics. Many big tech companies like Huawei and Tencent have their headquarters there. These companies make things like smartphones, computers, and other gadgets. They also work on new technology, like artificial intelligence and 5G networks. This brings a lot of jobs and money to the city.
+The main industries in Shenzhen that help the economy grow are technology and manufacturing. Shenzhen is known as a big hub for electronics. Many big tech companies like Huawei and Tencent have their headquarters there. These companies make things like smartphones, computers, and other gadgets. They also work on new technology, like [artificial intelligence](/wiki/ai-artificial-intelligence) and 5G networks. This brings a lot of jobs and money to the city.
 
 Another important industry in Shenzhen is manufacturing. Because it's a special economic zone, it's easy for companies to set up factories there. They can make everything from toys to clothes to machinery. Shenzhen's location near Hong Kong and the South China Sea makes it good for shipping things all over the world. This helps the city's economy keep growing.
 

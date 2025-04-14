@@ -30,7 +30,7 @@ In different situations, an aggressor might act differently, but some common tra
 
 People might become aggressors for many reasons. Sometimes, they might feel angry or upset about something in their life, like problems at home or feeling left out. They might think that being mean or starting fights will make them feel better or help them get what they want. Other times, they might have seen other people being aggressive and think it's a good way to act. They might not know how to solve problems without fighting.
 
-Another reason could be that they want to feel powerful or in control. When someone feels weak or scared, they might act aggressively to hide those feelings. They might think that by being the aggressor, they can make others afraid of them and stop people from picking on them. But this often leads to more problems and doesn't really solve anything. Understanding why someone becomes an aggressor can help in finding better ways to help them and stop the cycle of aggression.
+Another reason could be that they want to feel powerful or in control. When someone feels weak or scared, they might act aggressively to hide those feelings. They might think that by being the aggressor, they can make others afraid of them and stop people from [picking](/wiki/asset-class-picking) on them. But this often leads to more problems and doesn't really solve anything. Understanding why someone becomes an aggressor can help in finding better ways to help them and stop the cycle of aggression.
 
 ## How does the role of an aggressor function within social dynamics?
 
@@ -84,7 +84,7 @@ Another theory is about something called the frustration-aggression hypothesis. 
 
 ## What are the strategies used by aggressors in algorithmic trading?
 
-Aggressor strategies in algorithmic trading are characterized by rapid decision-making and execution aimed at exploiting market inefficiencies. These strategies typically employ sophisticated algorithms to predict the most favorable trade timings, capitalizing on fleeting opportunities within the market.
+Aggressor strategies in [algorithmic trading](/wiki/algorithmic-trading) are characterized by rapid decision-making and execution aimed at exploiting market inefficiencies. These strategies typically employ sophisticated algorithms to predict the most favorable trade timings, capitalizing on fleeting opportunities within the market.
 
 One prevalent aggressor approach involves high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), where traders execute a large number of orders at extremely high speeds. HFT strategies are designed to capitalize on small price discrepancies that exist only for fractions of a second. These traders often utilize co-location services, placing their servers physically close to exchange servers to minimize latency and achieve near-instantaneous data transmission. By analyzing minute-by-minute changes in asset prices, high-frequency traders can identify and act upon advantageous conditions more swiftly than traditional market participants.
 

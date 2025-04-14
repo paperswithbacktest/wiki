@@ -18,7 +18,7 @@ Inverse ETFs work by using financial instruments like futures contracts, options
 
 Sector ETFs focus on specific parts of the economy, like technology, healthcare, or energy. They invest in companies that belong to one particular industry. This means if you think a certain sector will do well, you can invest in a sector ETF to try to make money from that sector's growth. For example, if you believe technology companies will grow a lot, you might buy a tech sector ETF.
 
-Broad market ETFs, on the other hand, spread their investments across many different sectors and industries. They aim to represent the overall market, like the S&P 500 or the total stock market. This type of ETF is good if you want a simple way to invest in the whole economy without picking specific sectors. It's like buying a little bit of everything, which can be less risky than focusing on just one sector.
+Broad market ETFs, on the other hand, spread their investments across many different sectors and industries. They aim to represent the overall market, like the S&P 500 or the total stock market. This type of [ETF](/wiki/etf-trading-strategies) is good if you want a simple way to invest in the whole economy without [picking](/wiki/asset-class-picking) specific sectors. It's like buying a little bit of everything, which can be less risky than focusing on just one sector.
 
 Both types of ETFs can be useful, depending on what you're trying to achieve with your investments. Sector ETFs can offer higher potential returns if you correctly predict which sector will do well, but they can also be riskier. Broad market ETFs are generally safer because they are more diversified, but they might not give you the big gains that a successful sector ETF could.
 

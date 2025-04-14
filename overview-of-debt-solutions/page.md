@@ -30,7 +30,7 @@ After they have all the information, they should make a budget. A budget is a pl
 
 ## What are debt solutions and how do they work?
 
-Debt solutions are ways to help people who owe money to get out of debt. One common solution is debt consolidation. This means taking all the money someone owes and putting it into one big loan with one monthly payment. This can make it easier to manage because there's only one payment to keep track of, and sometimes the interest rate is lower, so they can pay off the debt faster.
+Debt solutions are ways to help people who owe money to get out of debt. One common solution is debt consolidation. This means taking all the money someone owes and putting it into one big loan with one monthly payment. This can make it easier to manage because there's only one payment to keep track of, and sometimes the [interest rate](/wiki/interest-rate-trading-strategies) is lower, so they can pay off the debt faster.
 
 Another solution is a debt management plan. This is when someone works with a credit counselor who talks to the people they owe money to and tries to get better payment terms. The credit counselor can sometimes get the interest rates lowered or even get some of the debt forgiven. The person then makes one monthly payment to the credit counselor, who sends it to the different people they owe money to.
 
@@ -116,5 +116,5 @@ If someone is really struggling and can't pay their debts at all, they might nee
    - **MetaTrader 5**: A multi-functional trading platform that provides the tools needed for automated trading, market analysis, and trading signals. [Link to MetaTrader](https://www.metatrader5.com/)
    - **Alpaca**: A commission-free trading platform providing APIs for trading automation and financial data analysis. [Link to Alpaca](https://alpaca.markets/)
 
-These resources and platforms offer comprehensive tools and knowledge to manage debt effectively, establish financial stability, and harness the power of algorithmic trading for sustained financial growth.
+These resources and platforms offer comprehensive tools and knowledge to manage debt effectively, establish financial stability, and harness the power of [algorithmic trading](/wiki/algorithmic-trading) for sustained financial growth.
 

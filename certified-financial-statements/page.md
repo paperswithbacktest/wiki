@@ -129,7 +129,7 @@ Understanding and interpreting these financial statements is crucial for investo
    This book provides a comprehensive guide to financial statement analysis for security valuation, offering insights into how financial statements can be used in investment decisions.
 
 2. **"Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan**  
-   A practical guide to algorithmic trading strategies that includes a discussion on the significance of financial data.
+   A practical guide to [algorithmic trading](/wiki/algorithmic-trading) strategies that includes a discussion on the significance of financial data.
 
 3. **"Auditing and Assurance Services: An Integrated Approach" by Alvin A. Arens, Randal J. Elder, and Mark S. Beasley**  
    This book offers an in-depth look at auditing processes, emphasizing the roles of assurance services and certified financial statements.

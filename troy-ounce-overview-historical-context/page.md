@@ -82,7 +82,7 @@ Today, the troy ounce is still used all around the world in the precious metals 
 
 ## What is the Role of Gold in Algorithmic Trading?
 
-Algorithmic trading has revolutionized financial markets by employing sophisticated algorithms to execute trades with speed and precision. Gold, a staple in commodity trading, is no exception to the algorithmic advancement. Understanding the role of troy ounces in gold measurement is important in algorithmic trading strategies as it impacts trading decisions and performance metrics.
+Algorithmic trading has revolutionized financial markets by employing sophisticated algorithms to execute trades with speed and precision. Gold, a staple in commodity trading, is no exception to the algorithmic advancement. Understanding the role of troy ounces in gold measurement is important in [algorithmic trading](/wiki/algorithmic-trading) strategies as it impacts trading decisions and performance metrics.
 
 Algorithmic trading algorithms often depend on the precise quantification of assets for fair valuation, risk assessment, and strategy formulation. In the context of gold, the troy ounce is the standard unit of measurement, weighing approximately 31.1035 grams per ounce. Misinterpreting this can lead to significant errors in algorithms where weight measurements directly affect trade volumes, pricing models, and ultimately profitability.
 

@@ -70,7 +70,7 @@ Advanced techniques for analyzing KPI data include using data visualization tool
 
 Another advanced technique is using predictive analytics. This involves using math and computer models to guess what might happen in the future based on past data. For example, if a business sees that sales go up every summer, predictive analytics can help them plan for this and maybe even guess how much more they might sell. This can help businesses be ready for what's coming and make smart choices about where to spend their money or how to grow.
 
-Lastly, businesses can use machine learning to analyze KPI data. Machine learning is when computers learn from data and get better at finding patterns and making predictions over time. For example, machine learning can help a business see which customers are most likely to buy something again or which marketing campaigns work best for different groups of people. By using machine learning, businesses can keep improving their strategies and stay ahead of the competition.
+Lastly, businesses can use [machine learning](/wiki/machine-learning) to analyze KPI data. Machine learning is when computers learn from data and get better at finding patterns and making predictions over time. For example, machine learning can help a business see which customers are most likely to buy something again or which marketing campaigns work best for different groups of people. By using machine learning, businesses can keep improving their strategies and stay ahead of the competition.
 
 ## How do you set realistic KPI targets?
 

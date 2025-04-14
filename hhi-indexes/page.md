@@ -102,7 +102,7 @@ Understanding the HHI is crucial for evaluating market dynamics as it assists re
 
 ## How do you calculate the Herfindahl-Hirschman Index (HHI) in crypto markets?
 
-To calculate the Herfindahl-Hirschman Index (HHI) in cryptocurrency markets, the primary focus is on determining the market share of each wallet or address within the total circulation of a particular cryptocurrency. The process involves a series of steps to accurately measure market concentration and assess the competitive landscape within the cryptocurrency ecosystem.
+To calculate the Herfindahl-Hirschman Index (HHI) in [cryptocurrency](/wiki/cryptocurrency) markets, the primary focus is on determining the market share of each wallet or address within the total circulation of a particular cryptocurrency. The process involves a series of steps to accurately measure market concentration and assess the competitive landscape within the cryptocurrency ecosystem.
 
 First, it is essential to determine the market share of each wallet or address. This is achieved by calculating the proportion of total coins held by the wallet relative to the total number of coins in circulation. The formula for market share ($MS_i$) for a specific wallet $i$ is:
 

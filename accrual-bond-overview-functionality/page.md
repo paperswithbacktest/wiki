@@ -122,7 +122,7 @@ Algorithmic trading and accrual bonds represent two sophisticated components tha
 
 Accrual bonds accrue interest over time, and this accumulated interest becomes part of the bond's principal. The distinct feature of these bonds, where interest is compounded and paid at maturity, necessitates a thorough understanding of its "dated date" and other characteristics. The dated date marks the commencement of interest accrual, which forms the basis for computing the compound interest over time.
 
-Incorporating accrual bond data into algorithmic trading models improves the precision of these models. Sophisticated algorithms calculate not only the future cash flows but also their present value, allowing traders to price these bonds accurately. For instance, the present value $PV$ of an accrual bond can be expressed as:
+Incorporating accrual bond data into [algorithmic trading](/wiki/algorithmic-trading) models improves the precision of these models. Sophisticated algorithms calculate not only the future cash flows but also their present value, allowing traders to price these bonds accurately. For instance, the present value $PV$ of an accrual bond can be expressed as:
 
 $$
 PV = \frac{F}{(1 + r)^n}

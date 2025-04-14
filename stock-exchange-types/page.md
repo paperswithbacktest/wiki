@@ -86,9 +86,9 @@ The way global stock exchanges interact has big effects on international investi
 
 ## What are the risks and benefits of algo trading?
 
-Algorithmic trading represents a significant advancement in trading technology by facilitating unparalleled efficiency, execution speed, and objectivity in trading decisions. Its transformative potential stems from the integration of computer algorithms to execute trades based on pre-defined criteria such as timing, price, and volume, thereby minimizing human intervention.
+Algorithmic trading represents a significant advancement in trading technology by facilitating unparalleled efficiency, execution speed, and objectivity in trading decisions. Its transformative potential stems from the integration of computer algorithms to execute trades based on pre-defined criteria such as timing, price, and [volume](/wiki/volume-trading-strategy), thereby minimizing human intervention.
 
-One of the most notable benefits of algorithmic trading is the ability to backtest strategies. This process involves applying trading algorithms to historical market data to evaluate their effectiveness and optimize performance before actual deployment. Backtesting affords traders the opportunity to refine their algorithms under various market conditions, ultimately leading to strategies that are better aligned with historical patterns and less prone to discretionary errors. This can be represented mathematically as follows: 
+One of the most notable benefits of [algorithmic trading](/wiki/algorithmic-trading) is the ability to backtest strategies. This process involves applying trading algorithms to historical market data to evaluate their effectiveness and optimize performance before actual deployment. Backtesting affords traders the opportunity to refine their algorithms under various market conditions, ultimately leading to strategies that are better aligned with historical patterns and less prone to discretionary errors. This can be represented mathematically as follows: 
 
 $$
 \text{PnL} = \sum_{i=1}^{n} (p_i \cdot q_i - c_i)
@@ -101,7 +101,7 @@ Where:
 
 Despite these advantages, algorithmic trading is not devoid of risks. A primary concern is the over-reliance on technology, which may lead to systemic issues if unforeseen circumstances disrupt technological infrastructure. Potential system malfunctions or algorithmic errors can cause significant financial impacts, necessitating diligent system monitoring and fault-tolerant designs.
 
-Additionally, algorithmic trading can exacerbate market [volatility](/wiki/volatility-trading-strategies). High-frequency trading algorithms, designed to trade large volumes rapidly, may amplify price movements, particularly in periods of low liquidity. This volatility can be both a risk and an opportunity, depending on how it is managed.
+Additionally, algorithmic trading can exacerbate market [volatility](/wiki/volatility-trading-strategies). High-frequency trading algorithms, designed to trade large volumes rapidly, may amplify price movements, particularly in periods of low [liquidity](/wiki/liquidity-risk-premium). This volatility can be both a risk and an opportunity, depending on how it is managed.
 
 To mitigate these risks and maximize the benefits, traders should assess their risk tolerance and continuously monitor algorithmic systems. This involves setting up comprehensive risk management frameworks with parameters such as stop-loss limits and diversification across different trading strategies and asset classes.
 

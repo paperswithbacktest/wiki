@@ -18,7 +18,7 @@ This is important because it shows that the person or the fund manager made smar
 
 Investors aim to beat the market because they want to make more money than if they just followed the average performance of the market. If you can beat the market, your investments grow faster, and you end up with more money in the end. It's like trying to get a better grade than the class average on a test; you work harder and smarter to come out on top.
 
-Beating the market is also a way for investors to show they are good at picking the right investments. It's a sign of skill and knowledge. If an investor can consistently beat the market, it means they understand the game better than most and can make smarter choices. This is why many investors see beating the market as a big goal to achieve.
+Beating the market is also a way for investors to show they are good at [picking](/wiki/asset-class-picking) the right investments. It's a sign of skill and knowledge. If an investor can consistently beat the market, it means they understand the game better than most and can make smarter choices. This is why many investors see beating the market as a big goal to achieve.
 
 ## How is market performance typically measured?
 
@@ -44,7 +44,7 @@ One common strategy to try to beat the market is called active investing. This m
 
 Another strategy is called value investing. This is when investors look for companies that they think are undervalued, meaning the stock price is lower than what the company is really worth. They buy these stocks hoping that other investors will eventually see the true value and the price will go up. This is like finding a good deal at a store and waiting for it to become popular. Value investors often look at things like a company's earnings, assets, and how much debt it has to decide if it's a good buy.
 
-Some investors also use a strategy called momentum investing. This is based on the idea that stocks that have been going up will keep going up, and stocks that have been going down will keep going down. Momentum investors look at recent price trends and jump on the bandwagon, hoping to ride the wave until it's time to sell. It's like trying to catch a trend before it's too late. Each of these strategies has its own risks and rewards, but they all aim to do better than just following the market.
+Some investors also use a strategy called [momentum](/wiki/momentum) investing. This is based on the idea that stocks that have been going up will keep going up, and stocks that have been going down will keep going down. Momentum investors look at recent price trends and jump on the bandwagon, hoping to ride the wave until it's time to sell. It's like trying to catch a trend before it's too late. Each of these strategies has its own risks and rewards, but they all aim to do better than just following the market.
 
 ## How does diversification impact the ability to beat the market?
 

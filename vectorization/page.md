@@ -24,7 +24,7 @@ Another way vectorization helps is by reducing the amount of code you need to wr
 
 Vectorization can be used for many basic operations like adding, subtracting, multiplying, and dividing numbers. Imagine you have two lists of numbers, and you want to add them together. Instead of adding each pair of numbers one by one, vectorization lets you add all the numbers at the same time. This works the same way for subtracting, multiplying, and dividing. It's like doing a bunch of simple math problems all at once instead of one after the other.
 
-Besides basic math, vectorization can also handle more complex operations like finding the biggest or smallest number in a list, or calculating averages and sums. For example, if you want to find the average of a list of numbers, vectorization can do this quickly without needing to go through each number individually. This makes it easier and faster to work with large sets of data, which is really helpful in areas like data analysis and machine learning.
+Besides basic math, vectorization can also handle more complex operations like finding the biggest or smallest number in a list, or calculating averages and sums. For example, if you want to find the average of a list of numbers, vectorization can do this quickly without needing to go through each number individually. This makes it easier and faster to work with large sets of data, which is really helpful in areas like data analysis and [machine learning](/wiki/machine-learning).
 
 ## Can you explain the difference between vectorized and non-vectorized operations?
 
@@ -54,7 +54,7 @@ Lastly, people sometimes forget that vectorization doesn't solve all problems. I
 
 ## How can vectorization be applied to machine learning algorithms?
 
-Vectorization is super helpful in machine learning because it makes things faster and easier. Imagine you have a lot of data, like pictures or numbers, and you want to use a machine learning algorithm to learn from this data. Instead of going through each piece of data one by one, which can take a long time, you can use vectorization to work on all the data at the same time. This is especially useful when you're doing things like training a model or making predictions. For example, if you're using a neural network to recognize pictures, vectorization can help you process many pictures all at once, making the whole learning process quicker.
+Vectorization is super helpful in machine learning because it makes things faster and easier. Imagine you have a lot of data, like pictures or numbers, and you want to use a machine learning algorithm to learn from this data. Instead of going through each piece of data one by one, which can take a long time, you can use vectorization to work on all the data at the same time. This is especially useful when you're doing things like training a model or making predictions. For example, if you're using a [neural network](/wiki/neural-network) to recognize pictures, vectorization can help you process many pictures all at once, making the whole learning process quicker.
 
 Another way vectorization helps in machine learning is by making the code simpler and easier to understand. When you use vectorized operations, you don't need to write complicated loops to go through each piece of data. This means less code to write and fewer chances to make mistakes. Libraries like NumPy in Python make this even easier by providing tools that are designed to work well with machine learning algorithms. So, whether you're working on a big project or just learning about machine learning, using vectorization can make your life a lot easier.
 
@@ -135,7 +135,7 @@ prices = pd.Series([100, 102, 101, 103, 104, 105])
 momentum = prices.diff(periods=3)
 ```
 
-This snippet executes efficiently over extensive time series data, enabling rapid signal generation for trading strategies. Momentum indicators can determine entry and exit points in the strategy: high momentum might signify a continuation of a trend, while diminishing momentum could hint at reversals.
+This snippet executes efficiently over extensive time series data, enabling rapid signal generation for trading strategies. Momentum indicators can determine entry and [exit](/wiki/exit-strategy) points in the strategy: high momentum might signify a continuation of a trend, while diminishing momentum could hint at reversals.
 
 ### Performance Metrics
 

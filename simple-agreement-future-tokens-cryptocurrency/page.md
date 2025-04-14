@@ -60,7 +60,7 @@ Another important thing is to make sure the SAFT agreement is strong and clear. 
 
 When it's time to convert a SAFT into actual tokens, it happens based on what the SAFT agreement says. Usually, this happens when the project reaches certain goals or when they launch their tokens to the public. The project will tell the investors when this is going to happen, so everyone knows what to expect. The investors then get the tokens they were promised, based on how much money they put in and the price set in the SAFT.
 
-The process of getting the tokens can be different depending on the project. Sometimes, the project will send the tokens directly to the investors' digital wallets. Other times, investors might need to do something, like fill out a form or use a special website to claim their tokens. It's important for investors to follow the instructions from the project carefully, so they don't miss out on getting their tokens. Once the tokens are in their wallets, investors can use them or sell them, just like any other cryptocurrency.
+The process of getting the tokens can be different depending on the project. Sometimes, the project will send the tokens directly to the investors' digital wallets. Other times, investors might need to do something, like fill out a form or use a special website to claim their tokens. It's important for investors to follow the instructions from the project carefully, so they don't miss out on getting their tokens. Once the tokens are in their wallets, investors can use them or sell them, just like any other [cryptocurrency](/wiki/cryptocurrency).
 
 ## How have regulatory bodies like the SEC viewed SAFTs?
 

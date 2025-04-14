@@ -22,7 +22,7 @@ To find the bottom line, you start with the company's income statement. This sta
 
 ## Why is the bottom line important for businesses?
 
-The bottom line is very important for businesses because it shows if they are making money or losing money. When a business knows its bottom line, it can see if it is doing well or if it needs to make changes. If the bottom line is a profit, it means the business is earning more money than it is spending. This is good because it shows the business is successful. If the bottom line is a loss, it means the business is spending more money than it is earning. This can be a warning sign that the business needs to find ways to cut costs or increase sales.
+The bottom line is very important for businesses because it shows if they are making money or losing money. When a business knows its bottom line, it can see if it is doing well or if it needs to make changes. If the bottom line is a profit, it means the business is [earning](/wiki/earning-announcement) more money than it is spending. This is good because it shows the business is successful. If the bottom line is a loss, it means the business is spending more money than it is earning. This can be a warning sign that the business needs to find ways to cut costs or increase sales.
 
 Knowing the bottom line also helps business owners and investors make decisions. For example, if a company wants to expand or invest in new projects, it needs to look at its bottom line to see if it can afford to do so. Investors also look at the bottom line to decide if they want to put money into a company. A good bottom line can attract more investment, which can help the business grow. In short, the bottom line is a key number that tells everyone involved with the business how it is doing financially.
 
@@ -114,7 +114,7 @@ Through the effective stewardship of business finance and regular analysis of fi
 
 ## What Financial Metrics Are Relevant to Algo Trading?
 
-In the landscape of algorithmic trading, the application of financial metrics is critical to gauge performance and manage risk effectively. Among these, the Sharpe Ratio, Sortino Ratio, and Maximum Drawdown stand out as essential tools for traders and analysts.
+In the landscape of [algorithmic trading](/wiki/algorithmic-trading), the application of financial metrics is critical to gauge performance and manage risk effectively. Among these, the Sharpe Ratio, Sortino Ratio, and Maximum Drawdown stand out as essential tools for traders and analysts.
 
 The **Sharpe Ratio** quantifies risk-adjusted return, enabling a comparison of the excess return per unit of total risk. It is calculated as:
 
@@ -124,7 +124,7 @@ $$
 
 where $R_p$ is the portfolio return, $R_f$ is the risk-free rate, and $\sigma_p$ is the standard deviation of the portfolio's excess return. A higher Sharpe Ratio indicates better risk-adjusted performance.
 
-The **Sortino Ratio** refines the Sharpe Ratio by isolating downside volatility, thus providing a more targeted assessment of risk. It is defined as:
+The **Sortino Ratio** refines the Sharpe Ratio by isolating downside [volatility](/wiki/volatility-trading-strategies), thus providing a more targeted assessment of risk. It is defined as:
 
 $$
 \text{Sortino Ratio} = \frac{R_p - R_f}{\sigma_d}

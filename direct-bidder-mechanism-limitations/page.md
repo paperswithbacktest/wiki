@@ -78,7 +78,7 @@ Another important technique is to stay calm and stick to a plan. Expert bidders 
 
 ## What future trends are expected to influence the direct bidding landscape?
 
-In the future, technology will play a bigger role in direct bidding. More auctions will happen online, making it easier for people to bid from anywhere. This means direct bidders will use more tools like apps and software to help them bid smarter. These tools might include things like real-time data analysis and artificial intelligence to help them make better decisions. As more people get comfortable with technology, direct bidding will become more popular and easier to do.
+In the future, technology will play a bigger role in direct bidding. More auctions will happen online, making it easier for people to bid from anywhere. This means direct bidders will use more tools like apps and software to help them bid smarter. These tools might include things like real-time data analysis and [artificial intelligence](/wiki/ai-artificial-intelligence) to help them make better decisions. As more people get comfortable with technology, direct bidding will become more popular and easier to do.
 
 Another trend that will affect direct bidding is the way markets and economies change. As interest rates and economic conditions keep shifting, direct bidders will need to stay informed and adapt their strategies. For example, if there's a big change in interest rates, it could make some auctions more competitive. Direct bidders will need to be ready to adjust their bids based on these changes. Overall, staying up-to-date with economic trends and using technology will be key for direct bidders in the future.
 

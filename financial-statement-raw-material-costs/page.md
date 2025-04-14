@@ -62,7 +62,7 @@ Finally, keeping a close eye on the market and planning ahead is important. If a
 
 Raw material costs play a big role in deciding how much a company charges for its finished goods. When the cost of raw materials goes up, it costs more to make the product. If a company wants to keep making the same amount of profit, it might have to raise the price of its finished goods. But, if the company raises prices too much, customers might not want to buy the product anymore. So, the company has to find a balance between covering the higher raw material costs and keeping the price attractive to customers.
 
-On the other hand, if raw material costs go down, a company can make its products for less money. This gives the company a few choices. It can keep the price the same and make more profit, or it can lower the price to try to sell more products and gain more customers. Sometimes, if competitors also have lower raw material costs, they might lower their prices too. This can lead to a price war where companies try to outdo each other with lower prices. In the end, raw material costs are a key factor that companies have to think about when setting the price of their finished goods.
+On the other hand, if raw material costs go down, a company can make its products for less money. This gives the company a few choices. It can keep the price the same and make more profit, or it can lower the price to try to sell more products and gain more customers. Sometimes, if competitors also have lower raw material costs, they might lower their prices too. This can lead to a price war where companies try to outdo each other with lower prices. In the end, raw material costs are a key [factor](/wiki/factor-investing) that companies have to think about when setting the price of their finished goods.
 
 ## What role do raw material costs play in inventory valuation?
 
@@ -84,7 +84,7 @@ There are different ways to value raw materials according to IFRS, like the Firs
 
 ## What are the impacts and applications of cost accounting in algorithmic trading?
 
-Cost accounting is essential for algorithmic trading firms as it facilitates an in-depth understanding of various financial elements crucial to maintaining competitive advantage. By analyzing transaction costs, R&D expenditures, and technology infrastructure investments, companies can refine their trading strategies and improve overall performance.
+Cost accounting is essential for [algorithmic trading](/wiki/algorithmic-trading) firms as it facilitates an in-depth understanding of various financial elements crucial to maintaining competitive advantage. By analyzing transaction costs, R&D expenditures, and technology infrastructure investments, companies can refine their trading strategies and improve overall performance.
 
 **Transaction Costs:** Managing transaction costs is integral for algorithmic trading, where numerous trades are executed rapidly. Cost accounting allows firms to meticulously calculate fees, commissions, and slippage associated with trades. Understanding these costs enables firms to adjust algorithms to minimize them, enhancing net profitability. For instance, algorithmic traders often analyze cost per trade using:
 

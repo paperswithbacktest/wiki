@@ -18,7 +18,7 @@ Volatility is important because it shows how risky an investment might be. If a 
 
 Measuring volatility helps investors understand how risky their investments are. If an investment goes up and down a lot in price, it's more volatile and riskier. By knowing this, investors can decide if they want to take that risk. For example, if you're saving for something important and can't afford to lose money, you might choose investments with less volatility to keep your money safer.
 
-On the other hand, some investors are okay with more risk because they hope to make bigger profits. They might look for investments with higher volatility because those can sometimes lead to bigger gains, even though they could also lead to bigger losses. Knowing the volatility helps these investors match their investments to their goals and how much risk they're willing to take.
+On the other hand, some investors are okay with more risk because they hope to make bigger profits. They might look for investments with higher [volatility](/wiki/volatility-trading-strategies) because those can sometimes lead to bigger gains, even though they could also lead to bigger losses. Knowing the volatility helps these investors match their investments to their goals and how much risk they're willing to take.
 
 ## What are the basic methods to measure volatility?
 
@@ -64,7 +64,7 @@ Using volatility cones can help investors understand if the current market situa
 
 ## How can machine learning techniques enhance volatility prediction models?
 
-Machine learning techniques can make volatility prediction models better by looking at lots of different things at once. Imagine you're trying to guess if it will rain tomorrow. You might look at the clouds, the wind, and the temperature. Machine learning can do the same thing but with way more information, like stock prices, news articles, and even social media posts. By finding patterns in all this data, machine learning can make more accurate guesses about how much an investment's price might jump around in the future.
+Machine learning techniques can make volatility prediction models better by looking at lots of different things at once. Imagine you're trying to guess if it will rain tomorrow. You might look at the clouds, the wind, and the temperature. Machine learning can do the same thing but with way more information, like stock prices, news articles, and even social media posts. By finding patterns in all this data, [machine learning](/wiki/machine-learning) can make more accurate guesses about how much an investment's price might jump around in the future.
 
 These techniques can also learn from their mistakes. If a machine learning model predicts that a stock will be calm but it turns out to be wild, the model can learn from that and do better next time. This is like getting better at a game the more you play it. By constantly updating and improving, machine learning models can adapt to new information and changing market conditions, making them really useful for investors who want to know how risky their investments might be.
 

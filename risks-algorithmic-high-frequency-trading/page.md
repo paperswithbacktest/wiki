@@ -30,7 +30,7 @@ Lastly, high-frequency trading can make it hard for smaller traders to compete. 
 
 ## Can you explain market volatility and its impact on high-frequency trading?
 
-Market volatility means that the prices of stocks and other things people trade go up and down a lot in a short time. For high-frequency trading, this can be both good and bad. When the market is very volatile, high-frequency traders can make more money because they can take advantage of the big price changes. Their fast computers and programs can quickly buy low and sell high, making small profits on many trades.
+Market [volatility](/wiki/volatility-trading-strategies) means that the prices of stocks and other things people trade go up and down a lot in a short time. For high-frequency trading, this can be both good and bad. When the market is very volatile, high-frequency traders can make more money because they can take advantage of the big price changes. Their fast computers and programs can quickly buy low and sell high, making small profits on many trades.
 
 But, high-frequency trading can also make the market more volatile. If many high-frequency traders start buying or selling at the same time, it can push prices up or down very quickly. This can be dangerous because it can lead to big price swings that are hard to predict. If the market becomes too volatile, it can scare other traders and investors, making them less likely to trade, which can hurt the market overall.
 
@@ -54,7 +54,7 @@ Another risk is that high-frequency trading can make it hard for smaller traders
 
 ## How can liquidity risks influence high-frequency trading strategies?
 
-Liquidity risks can change how high-frequency traders do their work. Liquidity means how easy it is to buy or sell something without changing its price too much. If the market isn't very liquid, it can be hard for high-frequency traders to buy and sell quickly. This can make their strategies less effective because they need to trade fast to make money. When there's low liquidity, high-frequency traders might have to wait longer to make their trades, which can cause them to miss out on good opportunities.
+Liquidity risks can change how high-frequency traders do their work. Liquidity means how easy it is to buy or sell something without changing its price too much. If the market isn't very liquid, it can be hard for high-frequency traders to buy and sell quickly. This can make their strategies less effective because they need to trade fast to make money. When there's low [liquidity](/wiki/liquidity-risk-premium), high-frequency traders might have to wait longer to make their trades, which can cause them to miss out on good opportunities.
 
 High-frequency traders also need to be careful about liquidity because it can affect how much money they make or lose. If they try to sell a lot of something in a market with low liquidity, they might have to sell it for less money than they wanted. This can hurt their profits. On the other hand, if the market is very liquid, high-frequency traders can buy and sell more easily, which can help them make more money. So, understanding and managing liquidity risks is really important for high-frequency traders to keep their strategies working well.
 

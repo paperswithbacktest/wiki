@@ -112,7 +112,7 @@ By considering maintenance margin in these algorithms, traders can strategically
 
 ## How can margin management be aligned with algorithmic strategies?
 
-The integration of margin management with algorithmic trading provides a powerful framework for traders aiming to enhance risk management and optimize capital efficiency. By strategically incorporating margin requirements into algorithmic models, traders can develop strategies that avoid excessive leverage and mitigate the risk of margin calls, these being events where traders are compelled to deposit additional funds to meet minimum equity requirements.
+The integration of margin management with [algorithmic trading](/wiki/algorithmic-trading) provides a powerful framework for traders aiming to enhance risk management and optimize capital efficiency. By strategically incorporating margin requirements into algorithmic models, traders can develop strategies that avoid excessive leverage and mitigate the risk of margin calls, these being events where traders are compelled to deposit additional funds to meet minimum equity requirements.
 
 Algorithmic trading systems are capable of continually monitoring the margin utilization ratio, which is a critical metric calculated as:
 

@@ -60,7 +60,7 @@ The other benefit is that reverse convertible bonds can give you a chance to own
 
 Investing in convertible bonds comes with some risks. One big risk is that the company might not do well, and its stock price could go down. If that happens, you might decide not to convert your bond into stock because the stock isn't worth as much. But if you don't convert, you're stuck with a bond from a struggling company, which could mean you might not get all your money back when the bond matures.
 
-Another risk is that interest rates might go up. If they do, the value of your bond could go down because new bonds might offer higher interest rates. This makes your bond less attractive to other investors, which can hurt its value if you want to sell it before it matures. So, even though convertible bonds give you a chance to turn them into stock, they still carry the same risks as regular bonds when it comes to interest rates and the company's health.
+Another risk is that interest rates might go up. If they do, the value of your bond could go down because new bonds might offer higher interest rates. This makes your bond less attractive to other investors, which can hurt its value if you want to sell it before it matures. So, even though convertible bonds give you a chance to turn them into stock, they still [carry](/wiki/carry-trading) the same risks as regular bonds when it comes to interest rates and the company's health.
 
 ## What are the risks associated with reverse convertible bonds?
 
@@ -162,5 +162,5 @@ Ultimately, the choice between these financial instruments depends on individual
    - Bank for International Settlements (BIS). (2016). *Changing patterns of the global corporate bond market*. This report discusses the evolving dynamics of corporate bond markets, with insights into convertible bond trends.
    - McKinsey & Company. (2020). *The future of algorithmic trading*. A report detailing advancements and the future outlook for algorithmic trading practices in financial markets.
 
-These resources cater to both foundational understanding and advanced analyses of convertible and reverse convertible bonds, as well as algorithmic trading.
+These resources cater to both foundational understanding and advanced analyses of convertible and reverse convertible bonds, as well as [algorithmic trading](/wiki/algorithmic-trading).
 

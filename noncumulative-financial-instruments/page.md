@@ -158,7 +158,7 @@ def market_maker(order_book, mid_price, spread, inventory):
     order_book.place_ask(ask_price)
 ```
 
-Understanding these strategies and how to implement them effectively requires both market knowledge and technical skill. While they offer the potential for significant gains, they also necessitate robust systems and risk management practices to address challenges such as latency and market volatility.
+Understanding these strategies and how to implement them effectively requires both market knowledge and technical skill. While they offer the potential for significant gains, they also necessitate robust systems and risk management practices to address challenges such as latency and market [volatility](/wiki/volatility-trading-strategies).
 
 ## References & Further Reading
 

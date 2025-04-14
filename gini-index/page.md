@@ -82,7 +82,7 @@ Economists and policymakers also use the Gini Index to compare different countri
 
 ## How does the Gini Index enhance decision making?
 
-By computing the probability of data points being erroneously classified, the Gini Index plays a critical role in selecting the best attribute for node splits in decision trees. This selection process is crucial for enhancing decision-making in algorithmic trading, where predictions need to be as accurate as possible.
+By computing the probability of data points being erroneously classified, the Gini Index plays a critical role in selecting the best attribute for node splits in decision trees. This selection process is crucial for enhancing decision-making in [algorithmic trading](/wiki/algorithmic-trading), where predictions need to be as accurate as possible.
 
 The Gini Index calculates the degree of impurity in a dataset by measuring how often a randomly chosen element would be incorrectly labeled if it were randomly labeled according to the distribution of labels in the dataset. Mathematically, the Gini Index for a node is defined as:
 

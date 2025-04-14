@@ -22,11 +22,11 @@ Smart beta strategies, on the other hand, use special rules to pick stocks. Thes
 
 ## What are the main types of smart beta strategies?
 
-Smart beta strategies come in different types, and each type focuses on different things to try to do better than the market. One common type is value investing, where the strategy picks stocks that seem cheap compared to what the company is worth. Another type is momentum investing, which picks stocks that have been going up in price recently. There's also dividend investing, where the focus is on companies that pay high dividends to their shareholders.
+Smart beta strategies come in different types, and each type focuses on different things to try to do better than the market. One common type is value investing, where the strategy picks stocks that seem cheap compared to what the company is worth. Another type is [momentum](/wiki/momentum) investing, which picks stocks that have been going up in price recently. There's also dividend investing, where the focus is on companies that pay high dividends to their shareholders.
 
-Another type of smart beta strategy is low volatility investing, where the goal is to pick stocks that don't go up and down in price as much as others. This can help make your investment less risky. Quality investing is another strategy, where the focus is on companies that are financially strong and well-managed. Finally, there's multi-factor investing, which combines several of these strategies to try to get the best of all worlds.
+Another type of smart beta strategy is low [volatility](/wiki/volatility-trading-strategies) investing, where the goal is to pick stocks that don't go up and down in price as much as others. This can help make your investment less risky. Quality investing is another strategy, where the focus is on companies that are financially strong and well-managed. Finally, there's multi-[factor](/wiki/factor-investing) investing, which combines several of these strategies to try to get the best of all worlds.
 
-Each of these smart beta strategies has its own way of picking stocks, and they all aim to do better than just following the market. But they can be more complicated than regular index funds, and they might not always work as well as hoped. It's important to understand what each strategy is trying to do before you decide to invest in it.
+Each of these smart beta strategies has its own way of [picking](/wiki/asset-class-picking) stocks, and they all aim to do better than just following the market. But they can be more complicated than regular index funds, and they might not always work as well as hoped. It's important to understand what each strategy is trying to do before you decide to invest in it.
 
 ## Can you explain how a value-based smart beta strategy works?
 

@@ -84,7 +84,7 @@ Another way real-time applications handle throughput challenges is by using some
 
 Throughput in algorithmic trading is a crucial performance metric that quantifies how efficiently a trading system processes transactions. Essentially, it measures the rate at which a trading platform can successfully complete orders over a specified period. This metric is instrumental in assessing a system's capacity to manage and execute a high volume of trades swiftly and accurately, which is fundamental to the effectiveness of automated trading systems.
 
-The significance of throughput in algorithmic trading cannot be overstated. High throughput is synonymous with efficiency, as it reflects the system's capability to handle a substantial load of trading data and perform transactions at a rate that meets market demands. In the context of high-frequency trading (HFT), where decisions are made and executed within microseconds, having a high throughput ensures that trading algorithms can capitalize on opportunities faster than competitors, thereby maintaining a competitive edge.
+The significance of throughput in algorithmic trading cannot be overstated. High throughput is synonymous with efficiency, as it reflects the system's capability to handle a substantial load of trading data and perform transactions at a rate that meets market demands. In the context of high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), where decisions are made and executed within microseconds, having a high throughput ensures that trading algorithms can capitalize on opportunities faster than competitors, thereby maintaining a competitive edge.
 
 Throughput can be mathematically expressed as:
 

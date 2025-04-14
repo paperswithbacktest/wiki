@@ -54,7 +54,7 @@ Another advantage is that the Hulbert Rating also looks at how risky the advice 
 
 The Hulbert Rating can't predict the future of investments. It looks at how well investment newsletters did in the past. If a newsletter's advice made more money than the market before, it might seem like it could do well again. But past results don't guarantee future success. The stock market changes a lot, and what worked before might not work next time.
 
-Still, the Hulbert Rating can help you make better choices. It shows you how a newsletter did compared to the market and how risky its advice was. By looking at this, you can see if a newsletter's tips were good in the past and if they were safe or risky. This can guide you in picking newsletters that might be more likely to do well in the future, even though there's no sure way to predict the market.
+Still, the Hulbert Rating can help you make better choices. It shows you how a newsletter did compared to the market and how risky its advice was. By looking at this, you can see if a newsletter's tips were good in the past and if they were safe or risky. This can guide you in [picking](/wiki/asset-class-picking) newsletters that might be more likely to do well in the future, even though there's no sure way to predict the market.
 
 ## What are the limitations or criticisms of the Hulbert Rating?
 

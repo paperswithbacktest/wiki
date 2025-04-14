@@ -34,7 +34,7 @@ The ask price can change all the time because sellers are always looking at what
 
 ## What role does the ask price play in the liquidity of a security?
 
-The ask price is really important for how easy it is to buy or sell a security, which we call liquidity. If the ask price is low and close to the bid price, it means the security is easy to trade. Imagine you're at a store and the toy you want to buy is on sale for a good price. You're more likely to buy it, right? In the same way, if the ask price for a stock is low, more people will want to buy it, making it easier to trade.
+The ask price is really important for how easy it is to buy or sell a security, which we call [liquidity](/wiki/liquidity-risk-premium). If the ask price is low and close to the bid price, it means the security is easy to trade. Imagine you're at a store and the toy you want to buy is on sale for a good price. You're more likely to buy it, right? In the same way, if the ask price for a stock is low, more people will want to buy it, making it easier to trade.
 
 On the other hand, if the ask price is high and far away from the bid price, it can make the security less liquid. It's like if the toy at the store is really expensive. You might not want to buy it, and it could sit on the shelf for a long time. When the ask price is high, fewer people might want to buy the stock, making it harder to trade. So, the ask price helps decide how liquid a security is by showing how much people have to pay to buy it.
 
@@ -58,7 +58,7 @@ The ask price also helps you understand how easy it is to buy or sell a stock, w
 
 ## What is the relationship between the ask price and the volume of trades?
 
-The ask price and the volume of trades are closely related. When the ask price is low, more people might want to buy the stock because it's a good deal. This can lead to a higher volume of trades because more people are buying. On the other hand, if the ask price is high, fewer people might want to buy, which can lead to a lower volume of trades. So, the ask price can affect how many people are trading the stock.
+The ask price and the [volume](/wiki/volume-trading-strategy) of trades are closely related. When the ask price is low, more people might want to buy the stock because it's a good deal. This can lead to a higher volume of trades because more people are buying. On the other hand, if the ask price is high, fewer people might want to buy, which can lead to a lower volume of trades. So, the ask price can affect how many people are trading the stock.
 
 Changes in the volume of trades can also affect the ask price. If a lot of people are buying the stock, sellers might see that and raise the ask price because they know people are willing to pay more. If not many people are buying, sellers might lower the ask price to try to get more people to buy. So, the volume of trades can influence what sellers decide to ask for their stocks.
 

@@ -59,7 +59,7 @@ Another big advantage of KSVMs is that they can handle high-dimensional data wit
 
 ## How do you implement a KSVM in a programming language like Python?
 
-To implement a Kernel Support Vector Machine (KSVM) in Python, you can use the popular machine learning library scikit-learn. First, you need to import the necessary modules and load your data. Then, you split your data into training and testing sets. After that, you create an instance of the SVC (Support Vector Classifier) class, which can use different kernels like the radial basis function (RBF) kernel. The RBF kernel is defined as $$ K(x, y) = \exp(-\gamma \| x - y \|^2) $$. You can set the kernel and its parameters, like the value of $$\gamma$$, when you create the SVC object. Finally, you fit the model to your training data and use it to make predictions on your test data.
+To implement a Kernel Support Vector Machine (KSVM) in Python, you can use the popular [machine learning](/wiki/machine-learning) library scikit-learn. First, you need to import the necessary modules and load your data. Then, you split your data into training and testing sets. After that, you create an instance of the SVC (Support Vector Classifier) class, which can use different kernels like the radial basis function (RBF) kernel. The RBF kernel is defined as $$ K(x, y) = \exp(-\gamma \| x - y \|^2) $$. You can set the kernel and its parameters, like the value of $$\gamma$$, when you create the SVC object. Finally, you fit the model to your training data and use it to make predictions on your test data.
 
 Here's a simple example of how to implement a KSVM using the RBF kernel in Python:
 

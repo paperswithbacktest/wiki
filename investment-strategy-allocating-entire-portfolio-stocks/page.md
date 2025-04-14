@@ -42,7 +42,7 @@ Even though you're only investing in stocks, diversification can still help lowe
 
 ## What are the different types of stocks one should consider for a full stock portfolio?
 
-When building a full stock portfolio, you should consider different types of stocks to spread out your risk. One type is growth stocks, which are companies that are expected to grow a lot faster than other companies. These stocks might not pay dividends because the companies are using their money to grow even more. Another type is value stocks, which are stocks of companies that seem to be priced lower than they should be. These stocks might not grow as fast as growth stocks, but they can be a good deal if the company turns around and does better than expected.
+When building a full stock portfolio, you should consider different types of stocks to spread out your risk. One type is [growth stocks](/wiki/growth-stocks), which are companies that are expected to grow a lot faster than other companies. These stocks might not pay dividends because the companies are using their money to grow even more. Another type is value stocks, which are stocks of companies that seem to be priced lower than they should be. These stocks might not grow as fast as growth stocks, but they can be a good deal if the company turns around and does better than expected.
 
 You should also think about including dividend stocks in your portfolio. These are stocks from companies that pay out part of their profits to shareholders regularly. Dividend stocks can give you a steady income, which can be nice if you want some money coming in while you wait for your stocks to grow. Lastly, consider sector diversification. This means buying stocks from different industries, like technology, healthcare, and energy. By spreading your investments across different sectors, you can protect your portfolio if one industry has a tough time.
 
@@ -86,7 +86,7 @@ Another way to optimize a stock-only portfolio is by using options. Options let 
 
 ## What are the key aspects of Risk Management and Regulatory Considerations?
 
-Effective risk management forms the cornerstone of investment protection and aligns with regulatory standards, particularly in the context of algorithmic trading and diversified portfolios. Understanding and employing specific techniques can significantly mitigate potential risks.
+Effective risk management forms the cornerstone of investment protection and aligns with regulatory standards, particularly in the context of [algorithmic trading](/wiki/algorithmic-trading) and diversified portfolios. Understanding and employing specific techniques can significantly mitigate potential risks.
 
 ### Risk Management Techniques for Algorithmic Trading
 

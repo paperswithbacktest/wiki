@@ -46,7 +46,7 @@ Using these models, investors compare the intrinsic value they calculate with th
 
 Market value is the price people are willing to pay for something right now. It can change a lot because it depends on what people think and feel at the moment. If a lot of people want to buy something, like a popular toy or a stock in a hot company, its market value goes up. On the other hand, if not many people are interested, the market value can go down. Things like news, trends, and even the weather can affect what people want to buy and how much they are willing to pay.
 
-Another big factor that influences market value is how many of the item are available. If there are only a few of something, like a rare painting or a limited edition sneaker, people might be willing to pay more for it because it's hard to get. But if there are a lot of the item, like common stocks or everyday products, the market value might be lower because people can easily find it. The economy also plays a role. When the economy is doing well, people might feel more confident and spend more, pushing up market values. But if the economy is struggling, people might be more careful with their money, which can lower market values.
+Another big [factor](/wiki/factor-investing) that influences market value is how many of the item are available. If there are only a few of something, like a rare painting or a limited edition sneaker, people might be willing to pay more for it because it's hard to get. But if there are a lot of the item, like common stocks or everyday products, the market value might be lower because people can easily find it. The economy also plays a role. When the economy is doing well, people might feel more confident and spend more, pushing up market values. But if the economy is struggling, people might be more careful with their money, which can lower market values.
 
 ## Can market value be higher than intrinsic value? If so, why?
 
@@ -109,7 +109,7 @@ Precise calculation of intrinsic value requires a comprehensive approach, combin
    This book is a seminal work on corporate valuation, providing a comprehensive framework for assessing company worth. It covers methodologies like discounted cash flow (DCF) analysis, which is essential for calculating intrinsic value, along with practical approaches for value measurement and management.
 
 2. **'Algorithmic Trading: Winning Strategies and Their Rationale' by Ernest P. Chan**  
-   Ernest P. Chan provides insights into algorithmic trading strategies, focusing on statistical analysis and quantitative models. The book is valuable for understanding the integration of algorithmic systems into investment strategies, providing a solid foundation in creating robust trading algorithms.
+   Ernest P. Chan provides insights into [algorithmic trading](/wiki/algorithmic-trading) strategies, focusing on statistical analysis and quantitative models. The book is valuable for understanding the integration of algorithmic systems into investment strategies, providing a solid foundation in creating robust trading algorithms.
 
 3. **'Security Analysis: Sixth Edition, Foreword by Warren Buffett' by Benjamin Graham and David Dodd**  
    This classic text is foundational for understanding intrinsic value analysis. It explores security evaluation methods and investment principles that remain relevant, despite being first published over eight decades ago. The foreword by Warren Buffett underscores its significance to investors worldwide.

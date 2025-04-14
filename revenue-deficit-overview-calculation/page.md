@@ -22,7 +22,7 @@ On the other hand, a fiscal deficit is a broader measure. It looks at all the mo
 
 ## What are the main causes of a revenue deficit?
 
-One main cause of a revenue deficit is when a government doesn't collect enough money from taxes and other sources. This can happen if the economy is not doing well, so people and businesses are earning less money and paying less in taxes. It can also happen if the government decides to lower taxes to help the economy grow, but this means less money coming in. Sometimes, the government might not be good at collecting taxes, or there might be a lot of people and businesses finding ways to avoid paying taxes.
+One main cause of a revenue deficit is when a government doesn't collect enough money from taxes and other sources. This can happen if the economy is not doing well, so people and businesses are [earning](/wiki/earning-announcement) less money and paying less in taxes. It can also happen if the government decides to lower taxes to help the economy grow, but this means less money coming in. Sometimes, the government might not be good at collecting taxes, or there might be a lot of people and businesses finding ways to avoid paying taxes.
 
 Another cause is when the government spends too much on its regular activities. This can happen if the costs of things like salaries, schools, and health services go up. Sometimes, the government might decide to spend more on these things to help people, but if the money coming in doesn't increase at the same time, it leads to a revenue deficit. It's important for the government to balance what it spends with what it earns to avoid this problem.
 

@@ -60,7 +60,7 @@ On the other hand, if the company fails to pay these liabilities on time, it mig
 
 ## How do non-interest-bearing current liabilities affect a company's liquidity and cash flow?
 
-Non-interest-bearing current liabilities, like accounts payable and taxes payable, can affect a company's liquidity and cash flow. Liquidity is about how easily a company can turn its assets into cash to pay its debts. If a company has a lot of these liabilities, it means they need to have enough cash on hand to pay them off soon. This can make their liquidity look lower because they might not have as much cash available for other things.
+Non-interest-bearing current liabilities, like accounts payable and taxes payable, can affect a company's [liquidity](/wiki/liquidity-risk-premium) and cash flow. Liquidity is about how easily a company can turn its assets into cash to pay its debts. If a company has a lot of these liabilities, it means they need to have enough cash on hand to pay them off soon. This can make their liquidity look lower because they might not have as much cash available for other things.
 
 These liabilities also affect the company's cash flow, which is how money moves in and out of the business. When the company pays off these liabilities, it uses up some of its cash. This can make the company's cash flow look lower, especially if they are paying off a lot of these debts at once. Good cash flow management is important because it helps the company make sure they have enough money to keep running smoothly and pay their bills on time.
 

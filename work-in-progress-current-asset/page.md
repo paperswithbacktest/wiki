@@ -58,7 +58,7 @@ Under GAAP, companies must use the cost accumulation method to calculate WIP, wh
 
 ## How can mismanagement of Work in Progress impact a company's liquidity?
 
-Mismanagement of Work in Progress (WIP) can hurt a company's liquidity. Liquidity means how easily a company can turn its assets into cash to pay bills. If a company spends too much money on making products that stay in WIP for a long time, it might not have enough cash to pay for things like rent or salaries. This can make it hard for the company to keep running smoothly. If the products take too long to finish, the company can't sell them and get money back quickly.
+Mismanagement of Work in Progress (WIP) can hurt a company's [liquidity](/wiki/liquidity-risk-premium). Liquidity means how easily a company can turn its assets into cash to pay bills. If a company spends too much money on making products that stay in WIP for a long time, it might not have enough cash to pay for things like rent or salaries. This can make it hard for the company to keep running smoothly. If the products take too long to finish, the company can't sell them and get money back quickly.
 
 If WIP is not managed well, it can also mean that a company is not using its money wisely. For example, if the company buys too many materials that sit in WIP without being used, it ties up money that could be used elsewhere. This can lead to a situation where the company runs out of cash and struggles to pay its short-term debts. Good management of WIP helps a company keep enough cash on hand to stay liquid and meet its financial needs.
 

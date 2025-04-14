@@ -22,7 +22,7 @@ ETFs are also easy to buy and sell. You can trade them on a stock exchange just 
 
 ## What are the most popular types of ETFs for beginners?
 
-For beginners, some of the most popular types of ETFs are those that track broad market indexes like the S&P 500. These ETFs, often called index ETFs, give you a piece of the overall market. They are easy to understand because they aim to match the performance of a well-known index. This means you don't have to pick individual stocks, which can be tricky for someone new to investing. An example of this type of ETF is the SPDR S&P 500 ETF Trust (SPY).
+For beginners, some of the most popular types of ETFs are those that track broad market indexes like the S&P 500. These ETFs, often called index ETFs, give you a piece of the overall market. They are easy to understand because they aim to match the performance of a well-known index. This means you don't have to pick individual stocks, which can be tricky for someone new to investing. An example of this type of [ETF](/wiki/etf-trading-strategies) is the SPDR S&P 500 ETF Trust (SPY).
 
 Another popular type for beginners is sector ETFs. These ETFs focus on specific parts of the economy, like technology or healthcare. They let you invest in industries you believe will do well without having to choose individual companies. For example, if you think technology will grow, you might invest in a tech sector ETF like the Technology Select Sector SPDR Fund (XLK). Sector ETFs can be a good way to learn more about different parts of the market while still keeping your investments diversified.
 
@@ -66,7 +66,7 @@ However, using inverse and leveraged ETFs can be risky. They are meant for short
 
 ## What role do ESG ETFs play in modern investment strategies?
 
-ESG ETFs, which stand for Environmental, Social, and Governance Exchange-Traded Funds, are becoming more popular in modern investment strategies. They focus on companies that do well in areas like protecting the environment, treating their workers fairly, and having good leadership. People who invest in ESG ETFs want to make money, but they also care about making the world a better place. By choosing these ETFs, investors can support companies that match their values without having to pick each company one by one.
+[ESG](/wiki/esg-investing) ETFs, which stand for Environmental, Social, and Governance Exchange-Traded Funds, are becoming more popular in modern investment strategies. They focus on companies that do well in areas like protecting the environment, treating their workers fairly, and having good leadership. People who invest in ESG ETFs want to make money, but they also care about making the world a better place. By choosing these ETFs, investors can support companies that match their values without having to pick each company one by one.
 
 Using ESG ETFs can also help spread out the risk in your investment portfolio. Since they focus on different kinds of companies, they can balance out the ups and downs of the market. Plus, more and more people are paying attention to how companies treat the environment and their workers, so investing in ESG ETFs might be a smart move for the future. It's a way to invest in what you believe in while still trying to grow your money over time.
 

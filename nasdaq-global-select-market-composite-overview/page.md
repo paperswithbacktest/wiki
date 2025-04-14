@@ -70,7 +70,7 @@ On the other hand, when interest rates go down, borrowing money becomes cheaper.
 
 ## What are the trading volumes like for the NASDAQ Global Select Market Composite?
 
-The trading volume for the NASDAQ Global Select Market Composite is usually very high because it includes some of the biggest and most popular companies in the world. Companies like Apple, Microsoft, and Amazon are part of this index, and many people want to buy and sell their stocks every day. This high demand means that there are a lot of shares being traded, which keeps the trading volume strong.
+The trading [volume](/wiki/volume-trading-strategy) for the NASDAQ Global Select Market Composite is usually very high because it includes some of the biggest and most popular companies in the world. Companies like Apple, Microsoft, and Amazon are part of this index, and many people want to buy and sell their stocks every day. This high demand means that there are a lot of shares being traded, which keeps the trading volume strong.
 
 The trading volume can change from day to day, but it is often higher than other indexes because of the big companies in the NASDAQ Global Select Market Composite. When there is a lot of news about these companies or the economy, even more people might want to trade their stocks, which can make the trading volume go up even more. This high trading volume is good for the market because it means that people can easily buy and sell shares without big changes in price.
 

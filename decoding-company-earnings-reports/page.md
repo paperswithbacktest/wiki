@@ -84,10 +84,10 @@ Another technique is regression analysis, which looks at how different things af
 
 ## What are some examples of algorithmic trading strategies?
 
-Algorithmic trading strategies have gained prominence due to their ability to process large data volumes and make split-second decisions. Among these, trend following and contra-trend strategies are notable for their distinct approaches to capitalizing on market movements induced by earnings announcements.
+Algorithmic trading strategies have gained prominence due to their ability to process large data volumes and make split-second decisions. Among these, [trend following](/wiki/trend-following) and contra-trend strategies are notable for their distinct approaches to capitalizing on market movements induced by earnings announcements.
 
 **Trend Following Strategy:**
-The trend following strategy aims to capture momentum in stock prices following earnings announcements. When a company releases positive earnings results, its stock often experiences upward momentum as market participants react to the news. Conversely, negative earnings announcements might trigger downward momentum. Algorithmic systems utilizing trend following strategies typically employ moving averages to identify and ride these trends. 
+The trend following strategy aims to capture [momentum](/wiki/momentum) in stock prices following earnings announcements. When a company releases positive earnings results, its stock often experiences upward momentum as market participants react to the news. Conversely, negative earnings announcements might trigger downward momentum. Algorithmic systems utilizing trend following strategies typically employ moving averages to identify and ride these trends. 
 
 For example, a simple moving average (SMA) crossover can be used to generate trading signals:
 - When a short-term SMA (e.g., 10-day) crosses above a long-term SMA (e.g., 30-day), a buy signal is generated.
@@ -135,13 +135,13 @@ $$
    - Buy when the price crosses below the lower band
    - Sell when the price crosses above the upper band
 
-Both trend following and contra-trend strategies require fine-tuning and may incorporate additional indicators or rules to enhance performance. Backtesting and iterative adjustments are essential to refine these strategies, ensuring robustness against the variable dynamics of earnings-induced volatility.
+Both trend following and contra-trend strategies require fine-tuning and may incorporate additional indicators or rules to enhance performance. Backtesting and iterative adjustments are essential to refine these strategies, ensuring robustness against the variable dynamics of earnings-induced [volatility](/wiki/volatility-trading-strategies).
 
 ## What are the roles of backtesting and risk management in earnings algo trading?
 
-Backtesting is a crucial process in developing and optimizing algorithmic trading strategies, particularly in the context of trading on earnings reports. It involves the application of a trading strategy to historical market data to evaluate its potential performance. By simulating trades over past data, traders can gain insights into how a given strategy might perform under current market conditions.
+Backtesting is a crucial process in developing and optimizing [algorithmic trading](/wiki/algorithmic-trading) strategies, particularly in the context of trading on earnings reports. It involves the application of a trading strategy to historical market data to evaluate its potential performance. By simulating trades over past data, traders can gain insights into how a given strategy might perform under current market conditions.
 
-Accurate data is foundational for reliable backtesting. This includes historical pricing data, volume, and corporate earnings announcements. Ensuring that data is free from errors or gaps is essential to avoid skewed results. Traders must also account for transaction costs, such as commissions and spreads, which can significantly impact the strategy's profitability. Market [liquidity](/wiki/liquidity-risk-premium) is another critical consideration, as strategies may perform differently in liquid versus illiquid markets.
+Accurate data is foundational for reliable [backtesting](/wiki/backtesting). This includes historical pricing data, [volume](/wiki/volume-trading-strategy), and corporate earnings announcements. Ensuring that data is free from errors or gaps is essential to avoid skewed results. Traders must also account for transaction costs, such as commissions and spreads, which can significantly impact the strategy's profitability. Market [liquidity](/wiki/liquidity-risk-premium) is another critical consideration, as strategies may perform differently in liquid versus illiquid markets.
 
 Risk management practices are indispensable to mitigate the inherent risks associated with trading around earnings announcements. The increased market volatility during earnings season necessitates strategic risk management tools. Volatility filters can be employed to manage exposure during periods of high volatility. For instance, a trader might only execute trades when the market's volatility index remains below a certain threshold.
 

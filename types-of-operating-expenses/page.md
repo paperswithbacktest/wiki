@@ -98,7 +98,7 @@ Here, reducing operating expenses, while keeping other variables constant, direc
 
 **Balancing Operation Costs with Revenue Generation**
 
-Balancing operational costs with revenue generation is critical to ensuring the financial success of a firm, particularly in algorithmic trading where market conditions can shift rapidly. The goal is to streamline costs without impairing the firm's ability to generate revenue. This requires thorough cost analysis to identify non-essential expenditures or areas where cost efficiency can be improved, such as automating processes or renegotiating vendor contracts.
+Balancing operational costs with revenue generation is critical to ensuring the financial success of a firm, particularly in [algorithmic trading](/wiki/algorithmic-trading) where market conditions can shift rapidly. The goal is to streamline costs without impairing the firm's ability to generate revenue. This requires thorough cost analysis to identify non-essential expenditures or areas where cost efficiency can be improved, such as automating processes or renegotiating vendor contracts.
 
 **Methods for Assessing and Optimizing Operating Expenses**
 

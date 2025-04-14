@@ -18,7 +18,7 @@ To figure out if an asset is impaired, companies compare the asset's current val
 
 Evaluating assets for impairment is important because it helps companies show a true picture of their financial health. When an asset loses value, like a piece of machinery that breaks down or a building that becomes less valuable, the company needs to adjust its records to reflect this. If they don't, their financial statements might make the company look healthier than it really is. This can mislead investors, lenders, and other people who rely on these statements to make decisions.
 
-Regular impairment testing ensures that the value of assets on the company's books matches their real-world value. This practice helps maintain trust and transparency in financial reporting. By accurately reporting the value of their assets, companies can make better decisions about future investments and operations. It also helps them comply with accounting standards and regulations, avoiding potential legal issues.
+Regular impairment testing ensures that the value of assets on the company's [books](/wiki/algo-trading-books) matches their real-world value. This practice helps maintain trust and transparency in financial reporting. By accurately reporting the value of their assets, companies can make better decisions about future investments and operations. It also helps them comply with accounting standards and regulations, avoiding potential legal issues.
 
 ## How can you identify if an asset is impaired?
 
@@ -154,7 +154,7 @@ print(calculate_dcf(cash_flows, discount_rate))  # Output: DCF value
 
 ### Future Trends in Financial Algorithms and Asset Management
 
-As technology continues to evolve, the integration of financial algorithms with asset management will likely become more prevalent. Algorithmic solutions, such as machine learning models, are being developed to predict asset impairments by analyzing historical data and identifying patterns that precede impairments. These predictive analytics tools can deliver insights faster and more accurately than traditional methods, supporting strategic decision-making.
+As technology continues to evolve, the integration of financial algorithms with asset management will likely become more prevalent. Algorithmic solutions, such as [machine learning](/wiki/machine-learning) models, are being developed to predict asset impairments by analyzing historical data and identifying patterns that precede impairments. These predictive analytics tools can deliver insights faster and more accurately than traditional methods, supporting strategic decision-making.
 
 Blockchain technology also holds promise for asset management, offering transparency and traceability throughout an asset's lifecycle, which can be crucial for validating asset conditions and ownership in impairment assessments.
 

@@ -30,7 +30,7 @@ The shape of the price impact curve also depends on how easy it is to trade in a
 
 The shape of a price impact curve is influenced by how much people are trading and how easy it is to trade in a market. If there are a lot of people buying and selling all the time, like in big currency markets, the curve is usually flat. This is because a big trade doesn't change the price much when there are many trades happening. But if there aren't many people trading, like in some stock markets, the curve can be steep. Here, a big trade can move the price a lot because there aren't many other trades to balance it out.
 
-Another factor is how quickly and easily you can buy or sell in a market. In markets where it's hard to find someone to trade with, like some real estate markets, the curve is steep. A big trade can really shake things up because it's not easy to trade. But in markets where trading is fast and easy, like some futures markets, the curve is flatter. Big trades don't move the price as much because there are always people ready to trade, making it easier to balance out the impact of any single trade.
+Another [factor](/wiki/factor-investing) is how quickly and easily you can buy or sell in a market. In markets where it's hard to find someone to trade with, like some real estate markets, the curve is steep. A big trade can really shake things up because it's not easy to trade. But in markets where trading is fast and easy, like some futures markets, the curve is flatter. Big trades don't move the price as much because there are always people ready to trade, making it easier to balance out the impact of any single trade.
 
 ## Can you explain the concept of liquidity in relation to price impact curves?
 
@@ -54,7 +54,7 @@ There's also the exponential model, which says that the price change can grow re
 
 ## How do high-frequency trading strategies affect price impact curves?
 
-High-frequency trading (HFT) can change the shape of price impact curves because these traders make lots of trades very quickly. When there are many HFT traders in a market, they can make the market more liquid. This means the price impact curve can become flatter. A flatter curve means that big trades don't change the price as much because there are always lots of other trades happening. HFT traders can quickly step in to buy or sell, which helps keep the price from jumping around too much.
+High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) can change the shape of price impact curves because these traders make lots of trades very quickly. When there are many HFT traders in a market, they can make the market more liquid. This means the price impact curve can become flatter. A flatter curve means that big trades don't change the price as much because there are always lots of other trades happening. HFT traders can quickly step in to buy or sell, which helps keep the price from jumping around too much.
 
 But HFT can also make the price impact curve steeper in some cases. If HFT traders all decide to trade in the same direction at the same time, it can cause big price swings. This is because their quick trades can pile up and push the price up or down a lot. So, while HFT can make the market more liquid and flatten the curve, it can also lead to sudden price jumps, making the curve steeper when many traders move together.
 
@@ -104,7 +104,7 @@ A thorough grasp of price impact curves not only aids in executing immediate tra
 
 Price impact in trading is classified into two principal types: temporary and permanent. These impacts are pivotal in understanding how trade executions affect asset prices in different time frames.
 
-Temporary price impact represents short-term price fluctuations that occur when a trade is executed. This impact is often a result of the liquidity constraints or the transient imbalance between supply and demand. In liquid markets, these fluctuations are generally minor and dissipate quickly as the market absorbs the trade volume and resumes equilibrium. This mean-reversion tendency is attributable to the market participants exploiting any short-term inefficiencies; hence, prices tend to revert to their fundamental values shortly after execution.
+Temporary price impact represents short-term price fluctuations that occur when a trade is executed. This impact is often a result of the liquidity constraints or the transient imbalance between supply and demand. In liquid markets, these fluctuations are generally minor and dissipate quickly as the market absorbs the trade [volume](/wiki/volume-trading-strategy) and resumes equilibrium. This mean-reversion tendency is attributable to the market participants exploiting any short-term inefficiencies; hence, prices tend to revert to their fundamental values shortly after execution.
 
 Mathematically, temporary impact can be modeled using the function:
 

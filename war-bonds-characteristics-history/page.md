@@ -88,7 +88,7 @@ Bonds are fundamental financial instruments that facilitate borrowing and lendin
 
 ### Maturity
 
-The maturity date of a bond signifies the time at which the principal, or face value, of the bond is to be repaid to the investor. Bonds can be categorized based on their maturity durations: short-term (typically less than three years), medium-term (three to ten years), and long-term (over ten years). The choice of maturity affects both the interest rate risk and the investor's liquidity considerations.
+The maturity date of a bond signifies the time at which the principal, or face value, of the bond is to be repaid to the investor. Bonds can be categorized based on their maturity durations: short-term (typically less than three years), medium-term (three to ten years), and long-term (over ten years). The choice of maturity affects both the interest rate risk and the investor's [liquidity](/wiki/liquidity-risk-premium) considerations.
 
 ### Coupon Rate
 

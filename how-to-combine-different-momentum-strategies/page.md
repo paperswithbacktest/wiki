@@ -34,7 +34,7 @@ This approach is different from relative momentum, where you compare stocks to e
 
 ## How does cross-sectional momentum differ from time-series momentum?
 
-Cross-sectional momentum and time-series momentum are two different ways to use momentum in investing. Cross-sectional momentum is about comparing different stocks to each other. You look at how well all the stocks have done over a certain time, like the last six months, and then you pick the ones that did the best. If a stock did better than most other stocks, you buy it, hoping it will keep doing better than the others. It's like picking the fastest runner in a race and betting on them to keep leading.
+Cross-sectional momentum and time-series momentum are two different ways to use momentum in investing. Cross-sectional momentum is about comparing different stocks to each other. You look at how well all the stocks have done over a certain time, like the last six months, and then you pick the ones that did the best. If a stock did better than most other stocks, you buy it, hoping it will keep doing better than the others. It's like [picking](/wiki/asset-class-picking) the fastest runner in a race and betting on them to keep leading.
 
 On the other hand, time-series momentum focuses only on one stock or asset at a time. You don't compare it to other stocks. Instead, you look at how that one stock has been doing over time. If the stock has been going up, you buy it because you think it will keep going up. If it's been going down, you might sell it or not buy it, expecting it might keep falling. It's like watching a single runner and betting on them to keep running fast or slow based on their past performance, not how they compare to others.
 
@@ -42,7 +42,7 @@ On the other hand, time-series momentum focuses only on one stock or asset at a 
 
 To spot momentum in stocks, one of the main things people look at is the stock's price change over time. They might check how much the stock's price has gone up or down in the last few weeks, months, or even a year. If the price has been going up a lot, that's a sign of positive momentum. People often use a tool called the moving average to see this trend. A moving average is just the average price of the stock over a certain time, and if the current price is above this average, it can mean the stock has good momentum.
 
-Another important indicator is the stock's trading volume. This is how many shares of the stock are being bought and sold. If a lot of people are trading the stock and the price is going up, it can show strong momentum. It means more people are interested in the stock, which can push the price higher. Sometimes, investors also look at other things like the stock's relative strength index (RSI), which measures how fast the price is changing and if it might be overbought or oversold. If the RSI is high and the price is still going up, it can be another sign of strong momentum.
+Another important indicator is the stock's trading [volume](/wiki/volume-trading-strategy). This is how many shares of the stock are being bought and sold. If a lot of people are trading the stock and the price is going up, it can show strong momentum. It means more people are interested in the stock, which can push the price higher. Sometimes, investors also look at other things like the stock's relative strength index (RSI), which measures how fast the price is changing and if it might be overbought or oversold. If the RSI is high and the price is still going up, it can be another sign of strong momentum.
 
 ## How can an investor combine multiple momentum strategies to enhance returns?
 
@@ -66,7 +66,7 @@ Rebalancing your portfolio is also important when you're using multiple momentum
 
 One advanced technique to optimize the performance of combined momentum strategies is to use something called risk parity. This means you spread your money across different strategies in a way that balances the risk each one brings. For example, if one strategy is riskier than the others, you might put less money into it. By doing this, you can make sure that no single strategy can hurt your portfolio too much if it doesn't work out. It's like making sure all the players on your team get a fair chance to contribute, without letting any one player's mistakes ruin the game.
 
-Another technique is to use machine learning to help you decide which stocks to buy and sell. Machine learning can look at a lot of data quickly and find patterns that might be hard for a person to see. It can help you figure out which momentum strategies are working best at any given time and adjust your portfolio accordingly. This can make your investing decisions smarter and more based on what's actually happening in the market. It's like having a super smart coach who can give you the best advice on how to play the game.
+Another technique is to use [machine learning](/wiki/machine-learning) to help you decide which stocks to buy and sell. Machine learning can look at a lot of data quickly and find patterns that might be hard for a person to see. It can help you figure out which momentum strategies are working best at any given time and adjust your portfolio accordingly. This can make your investing decisions smarter and more based on what's actually happening in the market. It's like having a super smart coach who can give you the best advice on how to play the game.
 
 ## How do macroeconomic factors influence the effectiveness of combined momentum strategies?
 
@@ -129,7 +129,7 @@ Strategy allocation is a critical aspect of achieving optimal risk-adjusted retu
 Equal Weight Strategy Allocation assigns an identical proportion of capital to each momentum strategy. This approach assumes all strategies have equal potential, thus offering simplicity and ease of implementation. It is particularly useful when lacking specific insights into the strategies' future performance. However, its limitation lies in not accounting for varying risk levels across strategies.
 
 ### Volatility Targeting
-Volatility Targeting involves adjusting the allocation based on the predicted or realized volatility of the strategies. The goal is to maintain a consistent level of portfolio volatility. By increasing the allocation to strategies with lower volatility and reducing it for those with higher volatility, this method seeks to stabilize returns. Mathematically, it can involve calculating the target volatility ($\sigma_t$) and adjusting the weight ($w_i$) as follows:
+Volatility Targeting involves adjusting the allocation based on the predicted or realized [volatility](/wiki/volatility-trading-strategies) of the strategies. The goal is to maintain a consistent level of portfolio volatility. By increasing the allocation to strategies with lower volatility and reducing it for those with higher volatility, this method seeks to stabilize returns. Mathematically, it can involve calculating the target volatility ($\sigma_t$) and adjusting the weight ($w_i$) as follows:
 
 $$
 w_i = \frac{\sigma_t}{\sigma_i}

@@ -26,7 +26,7 @@ Jerry A. Hausman is well-known for creating the Hausman test, which is a tool th
 
 Besides the Hausman test, Jerry has also done a lot of work on understanding how people make choices. He has studied things like how people decide what to buy and how they respond to different prices. This work has helped economists learn more about consumer behavior and how markets work. His research has been very useful for businesses and policymakers who want to understand how people make decisions.
 
-Jerry has also contributed to the field of econometrics, which is about using math and statistics to study economics. He has developed new ways to analyze data that have improved how economists do their research. His work in this area has been recognized with many awards and honors, showing how important his contributions have been to the field of economics.
+Jerry has also contributed to the field of econometrics, which is about using math and [statistics](/wiki/bayesian-statistics) to study economics. He has developed new ways to analyze data that have improved how economists do their research. His work in this area has been recognized with many awards and honors, showing how important his contributions have been to the field of economics.
 
 ## Which institutions has Jerry A. Hausman been affiliated with?
 
@@ -50,7 +50,7 @@ This test is very important in econometrics because it helps make sure that the 
 
 ## What are some of the key publications by Jerry A. Hausman?
 
-Jerry A. Hausman has written many important papers and books. One of his most famous works is called "Specification Tests in Econometrics." In this paper, he talks about the Hausman test, which helps economists check if their models are right. This paper is very important because it has helped economists all over the world make sure their research is correct. Another key publication is "Valuation of New Goods under Perfect and Imperfect Competition," where he looks at how new products affect the economy. This work has helped businesses and policymakers understand how new products can change markets.
+Jerry A. Hausman has written many important papers and [books](/wiki/algo-trading-books). One of his most famous works is called "Specification Tests in Econometrics." In this paper, he talks about the Hausman test, which helps economists check if their models are right. This paper is very important because it has helped economists all over the world make sure their research is correct. Another key publication is "Valuation of New Goods under Perfect and Imperfect Competition," where he looks at how new products affect the economy. This work has helped businesses and policymakers understand how new products can change markets.
 
 Hausman also wrote a paper called "Efficient Estimation and Welfare Analysis of Household Production Models," which studies how families make decisions about what to buy and how to spend their time. This paper has helped economists learn more about how people make choices and how these choices affect the economy. Another important work is "Consumer Surplus in the Digital Economy: Estimating the Value of Increased Product Variety at Online Booksellers," where he looks at how the internet has changed the way people buy things. This research has been very useful for understanding how online shopping affects the economy.
 

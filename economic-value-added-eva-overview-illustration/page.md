@@ -22,7 +22,7 @@ So, the formula for EVA is simple: EVA = NOPAT - (Total Capital x WACC). If the 
 
 ## Why is EVA important for businesses?
 
-EVA is important for businesses because it helps them see if they are making more money than they are spending. It tells a company if it is creating value for its owners by earning more than the cost of the money it uses. This is different from other measures like profit, which don't take into account the cost of all the money a company uses. By using EVA, a business can make better choices about where to spend its money and how to improve its operations to make more profit.
+EVA is important for businesses because it helps them see if they are making more money than they are spending. It tells a company if it is creating value for its owners by [earning](/wiki/earning-announcement) more than the cost of the money it uses. This is different from other measures like profit, which don't take into account the cost of all the money a company uses. By using EVA, a business can make better choices about where to spend its money and how to improve its operations to make more profit.
 
 EVA also helps businesses focus on long-term success instead of just short-term gains. When companies focus on EVA, they think about how to use their resources in a way that will keep making money over time. This can lead to better decisions about investments and how to grow the business. By keeping an eye on EVA, a company can make sure it is always working towards creating more value for its shareholders.
 

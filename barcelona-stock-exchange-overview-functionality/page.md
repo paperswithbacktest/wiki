@@ -70,7 +70,7 @@ Another important technology used by the Barcelona Stock Exchange is the FIX pro
 
 ## What are the recent trends in trading volumes at the Barcelona Stock Exchange?
 
-In recent years, the trading volumes at the Barcelona Stock Exchange have shown some interesting changes. One trend is that more people are trading online. This is because technology has made it easier for people to buy and sell stocks from their computers or phones. As a result, the overall trading volume has gone up. Another trend is that there has been more interest in certain types of stocks, like technology companies. This has led to higher trading volumes for those specific stocks.
+In recent years, the trading volumes at the Barcelona Stock Exchange have shown some interesting changes. One trend is that more people are trading online. This is because technology has made it easier for people to buy and sell stocks from their computers or phones. As a result, the overall trading [volume](/wiki/volume-trading-strategy) has gone up. Another trend is that there has been more interest in certain types of stocks, like technology companies. This has led to higher trading volumes for those specific stocks.
 
 However, the trading volumes can also go down sometimes. For example, during times of economic uncertainty, like a big financial crisis or a global health emergency, people might be more cautious about investing. This can lead to lower trading volumes. Also, competition from other stock exchanges in Europe can affect the volumes at the Barcelona Stock Exchange. If other exchanges offer better deals or easier access, some investors might choose to trade there instead. Overall, the trading volumes at the Barcelona Stock Exchange are influenced by many factors, including technology, economic conditions, and competition.
 
@@ -94,7 +94,7 @@ $$
 
 where $P_t$ represents the current price, and $M_t^{-1}$ represents a lagging moving average.
 
-In the context of BCN, the integration of algorithmic trading has bolstered market liquidity, as automated systems are capable of processing large volumes of transactions with reduced transaction costs. This heightened liquidity facilitates smoother trading and enables the rapid adjustment of market prices, making the exchange more resilient to shocks.
+In the context of BCN, the integration of algorithmic trading has bolstered market [liquidity](/wiki/liquidity-risk-premium), as automated systems are capable of processing large volumes of transactions with reduced transaction costs. This heightened liquidity facilitates smoother trading and enables the rapid adjustment of market prices, making the exchange more resilient to shocks.
 
 However, the shift towards algorithmic trading is not without challenges. The inherent speed and automation can contribute to heightened market [volatility](/wiki/volatility-trading-strategies), occasionally resulting in situations where rapid sell-offs are amplified. Moreover, the clandestine nature of complex algorithms necessitates stringent regulatory oversight to ensure transparency and prevent market manipulation. Regulatory bodies are therefore tasked with balancing innovation with the need for fair and orderly markets.
 

@@ -18,7 +18,7 @@ Understanding volatility is important in financial analysis because it helps inv
 
 To calculate the basic volatility of a stock using Excel, you'll need a series of the stock's historical prices. Start by entering these prices into a column in your Excel spreadsheet. Let's say you put them in column A, starting from cell A1. Next, you need to calculate the daily returns of the stock. To do this, in cell B2, you can use the formula `=LN(A2/A1)` to find the natural logarithm of the ratio of the current price (A2) to the previous price (A1). Copy this formula down the column B for all your price data.
 
-Once you have the daily returns, you can calculate the standard deviation of these returns, which represents the volatility. In a new cell, let's say C1, you can use the formula `=STDEV.S(B2:BX)`, where X is the last row of your data. This formula calculates the standard deviation of the daily returns in column B, giving you the stock's volatility. To annualize this volatility, you can multiply the result by the square root of the number of trading days in a year, which is typically around 252. So, in cell C2, you would use `=C1*SQRT(252)` to get the annualized volatility.
+Once you have the daily returns, you can calculate the standard deviation of these returns, which represents the [volatility](/wiki/volatility-trading-strategies). In a new cell, let's say C1, you can use the formula `=STDEV.S(B2:BX)`, where X is the last row of your data. This formula calculates the standard deviation of the daily returns in column B, giving you the stock's volatility. To annualize this volatility, you can multiply the result by the square root of the number of trading days in a year, which is typically around 252. So, in cell C2, you would use `=C1*SQRT(252)` to get the annualized volatility.
 
 ## What data do I need to calculate volatility in Excel?
 
@@ -153,7 +153,7 @@ Excel's Goal Seek function can streamline the iterative process required to find
 
 4. **Automate the Process**: Excel iteratively adjusts the volatility until the theoretical price converges to the market price. The resulting volatility is the implied volatility.
 
-By mastering these steps, traders gain valuable insights into potential market movements and can better calibrate their trading strategies. Accurate calculation of implied volatility enables traders to assess market sentiment and anticipate price shifts, making it an essential component of algorithmic trading models. Excel's powerful computational tools make this complex calculation accessible, ultimately aiding traders in crafting more informed and nuanced trading strategies.
+By mastering these steps, traders gain valuable insights into potential market movements and can better calibrate their trading strategies. Accurate calculation of implied volatility enables traders to assess market sentiment and anticipate price shifts, making it an essential component of [algorithmic trading](/wiki/algorithmic-trading) models. Excel's powerful computational tools make this complex calculation accessible, ultimately aiding traders in crafting more informed and nuanced trading strategies.
 
 ## References & Further Reading
 

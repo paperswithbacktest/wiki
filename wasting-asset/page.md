@@ -72,7 +72,7 @@ Understanding wasting assets in real estate can help you make better investment 
 
 ## What advanced financial models are used to predict the decay rate of wasting assets?
 
-To predict how quickly wasting assets lose value, financial experts often use something called the Black-Scholes model. This model is usually used for options, which are a type of wasting asset in finance. The Black-Scholes model looks at things like how long the option lasts, how much the price of what the option is for moves around, and the interest rate. By putting these things into the model, it can tell you how much the option will lose value over time. This helps investors know if buying an option is a good idea or not.
+To predict how quickly wasting assets lose value, financial experts often use something called the Black-Scholes model. This model is usually used for options, which are a type of wasting asset in finance. The Black-Scholes model looks at things like how long the option lasts, how much the price of what the option is for moves around, and the [interest rate](/wiki/interest-rate-trading-strategies). By putting these things into the model, it can tell you how much the option will lose value over time. This helps investors know if buying an option is a good idea or not.
 
 Another model used is the depreciation model, which is simpler and often used for physical things like cars or machines. This model looks at how much the asset loses value each year. For example, a car might lose 20% of its value every year. By knowing this rate, you can predict how much the car will be worth in the future. This is important for people who own businesses or invest in property because they can plan for when they need to replace things and how it will affect their taxes.
 

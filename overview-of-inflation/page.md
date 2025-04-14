@@ -52,7 +52,7 @@ Sometimes, the relationship between inflation and interest rates can be tricky. 
 
 ## What are the effects of inflation on savings and investments?
 
-Inflation can make your savings worth less over time. Imagine you save $100 in a piggy bank, but prices go up by 2% every year. After a year, that $100 can buy less stuff because everything costs more. If your savings don't earn any interest, or if the interest rate is lower than the inflation rate, your money loses value. This is why people often look for savings accounts or investments that can grow faster than inflation to keep their money's value.
+Inflation can make your savings worth less over time. Imagine you save $100 in a piggy bank, but prices go up by 2% every year. After a year, that $100 can buy less stuff because everything costs more. If your savings don't earn any interest, or if the [interest rate](/wiki/interest-rate-trading-strategies) is lower than the inflation rate, your money loses value. This is why people often look for savings accounts or investments that can grow faster than inflation to keep their money's value.
 
 Inflation also affects investments. When prices go up, the value of things like stocks and real estate can change. If a company can raise its prices to keep up with inflation, its profits might go up, which can make its stock price go up too. But if inflation is too high, it can make people nervous about the economy, and they might sell their stocks, causing prices to drop. Real estate can be a good way to protect against inflation because property values and rents often go up with inflation. But it's important to think about how inflation might affect different kinds of investments and plan accordingly.
 
@@ -74,7 +74,7 @@ Hyperinflation usually happens when there are big problems in a country's econom
 
 One famous example of inflation's impact is what happened in Germany after World War I. The country had to pay a lot of money to other countries because they lost the war. To do this, the German government started printing more money. This caused prices to go up really fast, which is called hyperinflation. People's savings became worthless, and they had to use wheelbarrows full of money just to buy simple things like bread. This made life very hard for people and helped lead to big problems in Germany, including the rise of Adolf Hitler and the Nazi Party.
 
-Another example is in Zimbabwe in the 2000s. The government there also printed a lot of money to pay for things, which caused hyperinflation. Prices went up so fast that people had to carry around bags of money just to buy groceries. At one point, a loaf of bread cost billions of dollars. This made it really hard for people to live normal lives, and many people lost their jobs and homes. The government eventually had to stop using its own money and started using other countries' money instead to try to fix the problem.
+Another example is in Zimbabwe in the 2000s. The government there also printed a lot of money to pay for things, which caused hyperinflation. Prices went up so fast that people had to [carry](/wiki/carry-trading) around bags of money just to buy groceries. At one point, a loaf of bread cost billions of dollars. This made it really hard for people to live normal lives, and many people lost their jobs and homes. The government eventually had to stop using its own money and started using other countries' money instead to try to fix the problem.
 
 ## How do expectations of inflation influence economic behavior?
 
@@ -108,5 +108,5 @@ Inflation in one country can also spread to other countries through things like 
    - **Investopedia** (www.investopedia.com): Offers numerous articles on inflation, economic indicators, and algorithmic trading, providing accessible explanations and current market trends.
    - **The Federal Reserve Economic Data (FRED)**: A comprehensive database that provides access to key economic data, including inflation rates, GDP, and other significant indicators used by traders and policymakers to make informed decisions.
 
-These resources collectively offer valuable knowledge for understanding the complex relationships between economic factors and algorithmic trading strategies, providing a strong foundation for further study and application in real-world scenarios.
+These resources collectively offer valuable knowledge for understanding the complex relationships between economic factors and [algorithmic trading](/wiki/algorithmic-trading) strategies, providing a strong foundation for further study and application in real-world scenarios.
 

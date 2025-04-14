@@ -18,7 +18,7 @@ Not all stocks are assessable. Most stocks today are non-assessable, meaning sha
 
 Assessable stock and non-assessable stock are two types of stocks that differ in one big way: the possibility of being asked for more money. With assessable stock, the company can ask shareholders to pay more money if it needs more funds. This extra payment is called an assessment. So, if you own assessable stock, you might have to pay more money later, even after you've bought the stock.
 
-On the other hand, non-assessable stock means that once you've bought the stock, you won't be asked to pay any more money. The company can't come back and ask for more funds from shareholders. Most stocks today are non-assessable, which makes them more common and popular among investors because they don't carry the risk of additional payments. Knowing whether a stock is assessable or non-assessable is important for investors to understand their potential financial commitments.
+On the other hand, non-assessable stock means that once you've bought the stock, you won't be asked to pay any more money. The company can't come back and ask for more funds from shareholders. Most stocks today are non-assessable, which makes them more common and popular among investors because they don't [carry](/wiki/carry-trading) the risk of additional payments. Knowing whether a stock is assessable or non-assessable is important for investors to understand their potential financial commitments.
 
 ## What are the potential risks of investing in assessable stocks?
 

@@ -88,7 +88,7 @@ Another technique is zero-based budgeting, where the committee starts from zero 
 
 ## What is the role of budget committees in future financial landscapes?
 
-As financial technologies continue to advance, budget committees are poised to play a pivotal role in steering organizational investments towards [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and algorithmic trading. The evolving financial landscape necessitates a strategic approach from these committees to ensure that technological investments align with organizational goals and maximize returns.
+As financial technologies continue to advance, budget committees are poised to play a pivotal role in steering organizational investments towards [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [algorithmic trading](/wiki/algorithmic-trading). The evolving financial landscape necessitates a strategic approach from these committees to ensure that technological investments align with organizational goals and maximize returns.
 
 The integration of AI and algorithmic trading systems into financial institutions requires budget committees to adopt dynamic management practices. For instance, predictive analytics and [machine learning](/wiki/machine-learning) models within AI systems demand significant investment in data acquisition, storage, and processing capabilities. Budget committees must allocate resources to develop these infrastructures, ensuring that financial operations remain competitive.
 

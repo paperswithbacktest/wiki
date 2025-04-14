@@ -140,7 +140,7 @@ The relationship between yield and price around ex-coupon dates requires continu
 
 ## What is the impact of interest rates on ex-coupon dates and bond prices?
 
-Interest rates are a critical factor influencing ex-coupon dates and bond prices. When interest rates rise, the market value of existing bonds tends to decrease, as newer issues come with higher yields, making older bonds less attractive. This depreciation in the bond's value can lead to adjustments in the timing of ex-coupon dates. Consequently, strategic investment realignments become essential to mitigate potential losses and optimize portfolio performance.
+Interest rates are a critical [factor](/wiki/factor-investing) influencing ex-coupon dates and bond prices. When interest rates rise, the market value of existing bonds tends to decrease, as newer issues come with higher yields, making older bonds less attractive. This depreciation in the bond's value can lead to adjustments in the timing of ex-coupon dates. Consequently, strategic investment realignments become essential to mitigate potential losses and optimize portfolio performance.
 
 A significant implication of rising interest rates is the alteration in ex-coupon dates. If interest rates increase, investors might anticipate forward adjustments to ex-coupon dates to align with the higher yield expectations of new market conditions. Consequently, this requires investors to reassess their strategies, ensuring that their portfolios remain balanced and aligned with desired yield levels.
 
@@ -159,7 +159,7 @@ where:
 
 As the discount rate $r$ increases, the present value of future cash flows $C$ and $F$ decreases, leading to a lower bond price $P$.
 
-Investors must dynamically adjust their portfolios in response to interest rate fluctuations. This adjustment involves monitoring how changing rates impact expected yields and the timing of coupon payments. By doing so, they ensure that their investments meet specific objectives, whether focused on income generation or capital preservation.
+Investors must dynamically adjust their portfolios in response to [interest rate](/wiki/interest-rate-trading-strategies) fluctuations. This adjustment involves monitoring how changing rates impact expected yields and the timing of coupon payments. By doing so, they ensure that their investments meet specific objectives, whether focused on income generation or capital preservation.
 
 Moreover, maintaining a diversified bond portfolio can help in managing the risks associated with interest rate changes. This diversification can include bonds with varying maturities, credit qualities, and coupon structures, which together can offer both stability and flexibility in an unpredictable interest rate environment. Effective management of ex-coupon schedules and interest rate exposure can not only safeguard against potential downturns but also position investors to capitalize on favorable market conditions.
 

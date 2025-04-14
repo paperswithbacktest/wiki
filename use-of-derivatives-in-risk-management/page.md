@@ -26,7 +26,7 @@ The most common types of derivatives used in risk management are futures, option
 
 Options give the buyer the right, but not the obligation, to buy or sell an asset at a set price before a certain date. They're like insurance policies for investments. If you own a stock and are worried about its price dropping, you can buy a put option to sell it at a set price, no matter how low the market price goes. This can limit your losses if the stock price falls.
 
-Swaps are agreements to exchange cash flows or other financial instruments. They're often used to manage interest rate risk or currency risk. For example, if a company has a loan with a variable interest rate and they're worried about rates going up, they can enter into an interest rate swap to exchange their variable rate for a fixed rate. This way, they know exactly what their interest payments will be, even if market rates change.
+Swaps are agreements to exchange cash flows or other financial instruments. They're often used to manage [interest rate](/wiki/interest-rate-trading-strategies) risk or currency risk. For example, if a company has a loan with a variable interest rate and they're worried about rates going up, they can enter into an interest rate swap to exchange their variable rate for a fixed rate. This way, they know exactly what their interest payments will be, even if market rates change.
 
 ## Can you explain the concept of hedging using derivatives?
 
@@ -86,9 +86,9 @@ Another important thing to think about is the Dodd-Frank Act, which was made aft
 
 Hull, J. C. - *Options, Futures, and Other Derivatives*. This book is a comprehensive resource that examines the various types of derivatives and their applications in risk management and speculative strategies. Hull’s work is foundational for understanding the mechanics and valuation of derivative instruments, and it provides insights into their practical uses in the financial markets.
 
-Aldridge, I. - *High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems*. Aldridge offers an in-depth exploration of algorithmic trading, with a focus on high-frequency trading (HFT) strategies. This guide discusses the technology, infrastructure, and algorithms that power HFT, as well as the implications for market liquidity and volatility.
+Aldridge, I. - *High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems*. Aldridge offers an in-depth exploration of [algorithmic trading](/wiki/algorithmic-trading), with a focus on high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) strategies. This guide discusses the technology, infrastructure, and algorithms that power HFT, as well as the implications for market [liquidity](/wiki/liquidity-risk-premium) and [volatility](/wiki/volatility-trading-strategies).
 
-Lopez de Prado, M. - *Advances in Financial Machine Learning*. This book explores the integration of machine learning techniques into financial markets. Lopez de Prado emphasizes algorithmic implementations and provides practical examples of applying machine learning to enhance trading strategies, including aspects related to risk management and trading efficiency.
+Lopez de Prado, M. - *Advances in Financial Machine Learning*. This book explores the integration of [machine learning](/wiki/machine-learning) techniques into financial markets. Lopez de Prado emphasizes algorithmic implementations and provides practical examples of applying machine learning to enhance trading strategies, including aspects related to risk management and trading efficiency.
 
 CFTC and SEC - *Findings regarding the market events of May 6, 2010*. This report provides an official account of the so-called “Flash Crash” of May 6, 2010, an event that highlighted the complexities and risks associated with algorithmic trading. The findings offer critical insights into how high-speed trading can affect market stability and underscore the importance of appropriate regulatory frameworks.
 

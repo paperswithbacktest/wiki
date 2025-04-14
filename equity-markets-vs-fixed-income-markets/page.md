@@ -42,7 +42,7 @@ Another type of security in fixed-income markets is notes. Notes are similar to 
 
 Equity markets can be risky because the value of stocks can go up and down a lot. When you buy a stock, you're hoping the company will do well and the price of the stock will go up. But if the company has problems or if people start to think it won't do well in the future, the stock price can drop. This means you could lose money if you need to sell your stock when the price is low. Also, stocks don't pay you regular money like bonds do. You only make money if the stock price goes up or if the company pays dividends, which not all companies do.
 
-There are different levels of risk in equity markets. Big, well-known companies, called blue-chip stocks, are usually seen as less risky because they are more stable. But even these can lose value if the whole market goes down. Smaller companies or new companies, called growth stocks, can be much riskier. They might grow a lot and make you a lot of money, but they can also fail and lose all their value. So, when you invest in equity markets, you need to think about how much risk you're okay with and choose your stocks carefully.
+There are different levels of risk in equity markets. Big, well-known companies, called blue-chip stocks, are usually seen as less risky because they are more stable. But even these can lose value if the whole market goes down. Smaller companies or new companies, called [growth stocks](/wiki/growth-stocks), can be much riskier. They might grow a lot and make you a lot of money, but they can also fail and lose all their value. So, when you invest in equity markets, you need to think about how much risk you're okay with and choose your stocks carefully.
 
 ## What are the risk profiles associated with fixed-income markets?
 
@@ -114,11 +114,11 @@ In summary, fixed-income markets offer a variety of investment opportunities, ch
 
 ## What are the differences between Fixed-Income and Equity Markets?
 
-Fixed-income and equity markets are pivotal components of the financial landscape, each offering distinct opportunities and challenges for investors. Understanding the similarities and differences in investment returns, risk management strategies, liquidity, and the impact of economic factors on these markets is crucial for informed decision-making.
+Fixed-income and equity markets are pivotal components of the financial landscape, each offering distinct opportunities and challenges for investors. Understanding the similarities and differences in investment returns, risk management strategies, [liquidity](/wiki/liquidity-risk-premium), and the impact of economic factors on these markets is crucial for informed decision-making.
 
 ### Similarities and Differences in Investment Returns
 
-Fixed-income markets primarily consist of debt securities like bonds and treasury notes, providing investors with regular interest payments and principal repayment at maturity. In contrast, equity markets involve the trading of stocks, where returns are derived from dividends and capital appreciation. While fixed-income investments typically offer lower returns with stability, equity investments have higher potential returns, coupled with higher volatility.
+Fixed-income markets primarily consist of debt securities like bonds and treasury notes, providing investors with regular interest payments and principal repayment at maturity. In contrast, equity markets involve the trading of stocks, where returns are derived from dividends and capital appreciation. While fixed-income investments typically offer lower returns with stability, equity investments have higher potential returns, coupled with higher [volatility](/wiki/volatility-trading-strategies).
 
 The expected return on a fixed-income security (such as a bond) can be estimated using the yield to maturity (YTM), which considers the present value of all future cash flows. For equities, the expected return often relies on models like the Capital Asset Pricing Model (CAPM), expressed as:
 

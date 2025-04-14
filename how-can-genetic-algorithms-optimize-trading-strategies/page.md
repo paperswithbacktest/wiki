@@ -30,11 +30,11 @@ A trading strategy is a set of rules that a person or a computer follows to deci
 
 There are many different kinds of trading strategies. Some people might look at patterns in price charts to decide when to trade, while others might use math formulas to predict what will happen next. Some strategies are simple and easy to follow, while others are very complicated and need a lot of computer power to work. No matter the type, the key is to stick to the rules of the strategy and not let emotions like fear or greed take over.
 
-Trading strategies can be tested using past data to see how well they might work in the future. This is called backtesting. Even though a strategy might work well in the past, it's important to remember that the market can change, and what worked before might not work again. That's why it's good to keep checking and changing the strategy to make sure it keeps working well.
+Trading strategies can be tested using past data to see how well they might work in the future. This is called [backtesting](/wiki/backtesting). Even though a strategy might work well in the past, it's important to remember that the market can change, and what worked before might not work again. That's why it's good to keep checking and changing the strategy to make sure it keeps working well.
 
 ## Why might genetic algorithms be useful for optimizing trading strategies?
 
-Genetic algorithms can be really helpful for making trading strategies better because they can look at a lot of different ways to trade and find the best ones. They start with a bunch of different trading ideas and then use nature's way of picking the best ones to keep and mix them together. This helps them find trading strategies that might make more money or lose less money than the ones people thought of before.
+Genetic algorithms can be really helpful for making trading strategies better because they can look at a lot of different ways to trade and find the best ones. They start with a bunch of different trading ideas and then use nature's way of [picking](/wiki/asset-class-picking) the best ones to keep and mix them together. This helps them find trading strategies that might make more money or lose less money than the ones people thought of before.
 
 These algorithms are good at trying out many different trading ideas at the same time. They can keep changing and testing these ideas over and over until they find the best ones. This is great for trading because the market is always changing, and what worked yesterday might not work today. By using genetic algorithms, people can keep their trading strategies up to date and working well, even when the market changes.
 
@@ -88,7 +88,7 @@ Another way to test the trading strategy is to use it in a practice account, cal
 
 One way to make genetic algorithms work better for trading strategies is to use something called parallel processing. This means using more than one computer at the same time to run the algorithm. Because genetic algorithms have to try out a lot of different trading rules, using more computers can make it go faster. It's like having more people working on a big puzzle together. By splitting the work among different computers, you can find the best trading rules quicker and keep up with the fast-changing market.
 
-Another technique is to use a special kind of genetic algorithm called a hybrid genetic algorithm. This mixes the genetic algorithm with other ways of solving problems, like math formulas or machine learning. The genetic algorithm can find good trading rules, and then the other methods can make them even better. For example, after the genetic algorithm finds some good rules, a machine learning model can look at them and see if it can make them work even better. By using both methods together, you can find trading strategies that make more money and lose less money.
+Another technique is to use a special kind of genetic algorithm called a hybrid genetic algorithm. This mixes the genetic algorithm with other ways of solving problems, like math formulas or [machine learning](/wiki/machine-learning). The genetic algorithm can find good trading rules, and then the other methods can make them even better. For example, after the genetic algorithm finds some good rules, a machine learning model can look at them and see if it can make them work even better. By using both methods together, you can find trading strategies that make more money and lose less money.
 
 ## What is the Relative Strength Index (RSI) and how is it understood?
 

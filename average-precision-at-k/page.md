@@ -65,7 +65,7 @@ In multi-class classification, where an item can belong to one of many classes, 
 
 AP@K has some limitations when used as an evaluation metric. One big problem is that it only looks at the top K results. If you set K too small, you might miss out on seeing how well the model does for all the results. For example, if you only look at the top 5 results, you won't know if the model did a good job with the rest of the results. Also, AP@K can be sensitive to the choice of K. If you pick a different K, you might get a different score, which can make it hard to compare models fairly.
 
-Another limitation is that AP@K can be hard to understand for people who aren't experts in machine learning. The formula $$ \text{AP@K} = \frac{1}{\min(\text{number of relevant items}, K)} \sum_{k=1}^{K} \text{P@k} \times \text{rel}(k) $$ might look confusing to someone who doesn't know what precision and recall are. This can make it tough to explain why one model is better than another based on AP@K scores. Plus, AP@K might not work well if you have very few relevant items, because the score can change a lot based on just a few results.
+Another limitation is that AP@K can be hard to understand for people who aren't experts in [machine learning](/wiki/machine-learning). The formula $$ \text{AP@K} = \frac{1}{\min(\text{number of relevant items}, K)} \sum_{k=1}^{K} \text{P@k} \times \text{rel}(k) $$ might look confusing to someone who doesn't know what precision and recall are. This can make it tough to explain why one model is better than another based on AP@K scores. Plus, AP@K might not work well if you have very few relevant items, because the score can change a lot based on just a few results.
 
 ## How can AP@K be optimized in model training?
 

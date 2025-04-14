@@ -22,7 +22,7 @@ Another reason companies use off-balance sheet financing is to manage their risk
 
 ## What are the common types of off-balance sheet financing?
 
-One common type of off-balance sheet financing is through special purpose vehicles (SPVs). Companies create these separate entities to handle certain assets or debts. By doing this, they can keep these items off their main financial statements. This makes their balance sheet look cleaner and less risky. For example, a company might use an SPV to finance a big project without showing the related debt on its own books.
+One common type of off-balance sheet financing is through special purpose vehicles (SPVs). Companies create these separate entities to handle certain assets or debts. By doing this, they can keep these items off their main financial statements. This makes their balance sheet look cleaner and less risky. For example, a company might use an SPV to finance a big project without showing the related debt on its own [books](/wiki/algo-trading-books).
 
 Another type is operating leases. When a company rents equipment or property instead of buying it, they don't have to list it as an asset or a liability on their balance sheet. This can make their financial situation look better because their debt appears lower. Operating leases are common for things like office space or machinery that the company needs but doesn't want to own outright.
 

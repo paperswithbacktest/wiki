@@ -22,7 +22,7 @@ For example, if you buy a call option, you're betting that the price of one spec
 
 ## What is a market neutral strategy?
 
-A market neutral strategy is a way of investing that tries to make money no matter if the market goes up or down. It does this by balancing investments that will do well if the market goes up with investments that will do well if the market goes down. This way, the gains from one side can offset the losses from the other side, keeping the overall investment stable.
+A [market neutral strategy](/wiki/market-neutral-strategy) is a way of investing that tries to make money no matter if the market goes up or down. It does this by balancing investments that will do well if the market goes up with investments that will do well if the market goes down. This way, the gains from one side can offset the losses from the other side, keeping the overall investment stable.
 
 For example, an investor might buy some stocks they think will go up and also short sell some other stocks they think will go down. By doing this, they aim to make money from the difference between the two, without being affected much by the overall market movement. This strategy can be complex and requires a lot of research and careful management, but it can help reduce risk and provide more consistent returns.
 
@@ -52,7 +52,7 @@ Another risk is that managing strip options can be really complicated. You need 
 
 ## How do you set up a basic strip option trade for a market neutral bearish strategy?
 
-To set up a basic strip option trade for a market neutral bearish strategy, start by picking a group of assets you think will go down in value. These could be stocks in a certain industry or a basket of commodities. Buy put options on these assets. A put option gives you the right to sell the asset at a set price before a certain time. If the price of the assets goes down like you expect, you can sell them at the higher price you agreed on and make money.
+To set up a basic strip option trade for a market neutral bearish strategy, start by [picking](/wiki/asset-class-picking) a group of assets you think will go down in value. These could be stocks in a certain industry or a basket of commodities. Buy put options on these assets. A put option gives you the right to sell the asset at a set price before a certain time. If the price of the assets goes down like you expect, you can sell them at the higher price you agreed on and make money.
 
 Next, to keep your strategy market neutral, you need to balance your bet. Pick another group of assets that you think might go up in value. Buy call options on these assets. A call option gives you the right to buy the asset at a set price before a certain time. If the market goes up instead of down, the call options can help cover the losses from your put options. By doing this, you're trying to make money no matter what the market does, but you're focusing more on making money if it goes down.
 

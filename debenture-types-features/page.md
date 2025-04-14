@@ -18,7 +18,7 @@ Debentures are different from other types of bonds because they are not backed b
 
 A debenture and a bond are both ways for a company to borrow money, but they have some key differences. A bond is usually backed by specific assets of the company. This means if the company can't pay back the money, bondholders can claim those assets. On the other hand, a debenture is not backed by any specific assets. If a company fails to repay a debenture, the holders are considered general creditors and don't have a direct claim on any particular assets.
 
-Because debentures are riskier for investors, they often offer higher interest rates to attract people to buy them. This higher interest rate is a way to compensate for the increased risk that comes with not having specific assets backing the loan. Both debentures and bonds help companies raise money, but the main difference lies in the security and the level of risk involved for the investor.
+Because debentures are riskier for investors, they often offer higher interest rates to attract people to buy them. This higher [interest rate](/wiki/interest-rate-trading-strategies) is a way to compensate for the increased risk that comes with not having specific assets backing the loan. Both debentures and bonds help companies raise money, but the main difference lies in the security and the level of risk involved for the investor.
 
 ## What are the main types of debentures?
 
@@ -82,7 +82,7 @@ For people who invest in debentures, the interest they get is usually counted as
 
 ## What are the risks associated with debentures?
 
-Debentures, as unsecured debt instruments, carry inherent risks that potential investors must consider. One significant risk is credit risk. This refers to the possibility that the issuer might fail to meet its financial obligations, either by missing interest payments or by not repaying the principal at maturity. Such failures can occur due to the issuer's financial deterioration, leading to default, which directly affects the investor's expected returns.
+Debentures, as unsecured debt instruments, [carry](/wiki/carry-trading) inherent risks that potential investors must consider. One significant risk is credit risk. This refers to the possibility that the issuer might fail to meet its financial obligations, either by missing interest payments or by not repaying the principal at maturity. Such failures can occur due to the issuer's financial deterioration, leading to default, which directly affects the investor's expected returns.
 
 Another crucial consideration is interest rate risk. Fixed-rate debentures are particularly vulnerable to fluctuations in market interest rates. When these market rates rise, the fixed interest returns from debentures become less attractive, causing the market value of existing debentures to decline. This inverse relationship can be expressed as:
 

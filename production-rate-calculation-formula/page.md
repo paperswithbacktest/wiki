@@ -30,7 +30,7 @@ This calculation helps companies understand how fast they are working. If they w
 
 Several things can change how fast a company makes things. One big thing is the machines and tools they use. If the machines are old or break a lot, it slows everything down. But if they use new, fast machines, they can make more in less time. Another thing is how well the workers know their jobs. If workers are trained well and know what to do, they can work faster and make more. Also, having enough workers is important. If there aren't enough people, work can pile up and slow down the whole process.
 
-The way things are set up in the factory also matters a lot. If everything is organized and materials are easy to get, workers can move quickly from one task to another. But if the factory is messy or things are hard to find, it takes longer to make stuff. Another factor is how well the company plans and manages its work. Good planning means knowing how much to make and when to make it, so there's no waiting around. If the company can keep a steady flow of work, it helps keep the production rate high.
+The way things are set up in the factory also matters a lot. If everything is organized and materials are easy to get, workers can move quickly from one task to another. But if the factory is messy or things are hard to find, it takes longer to make stuff. Another [factor](/wiki/factor-investing) is how well the company plans and manages its work. Good planning means knowing how much to make and when to make it, so there's no waiting around. If the company can keep a steady flow of work, it helps keep the production rate high.
 
 ## Can you explain the difference between production rate and productivity?
 

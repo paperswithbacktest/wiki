@@ -40,7 +40,7 @@ To keep your NFTs safe in storage, it's important to choose the right kind of st
 
 If you go with decentralized storage, make sure the blockchain network you choose is secure and trusted. Look for networks that have been around for a while and are used by lots of people. It's also a good idea to keep your own backups of your NFT files, just in case something goes wrong with the network. By spreading your files across different places, you add an extra layer of safety.
 
-No matter which storage you choose, always use strong passwords and enable two-factor authentication if it's available. Be careful about who you share information with, and keep your private keys safe. By being careful and choosing the right storage, you can help make sure your NFTs stay secure.
+No matter which storage you choose, always use strong passwords and enable two-[factor](/wiki/factor-investing) authentication if it's available. Be careful about who you share information with, and keep your private keys safe. By being careful and choosing the right storage, you can help make sure your NFTs stay secure.
 
 ## What are the costs associated with different NFT storage methods?
 

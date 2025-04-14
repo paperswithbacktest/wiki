@@ -54,7 +54,7 @@ Shareholders also need to keep good records of their own. They should write down
 
 When a company pays a liquidating dividend, it affects its financial statements in a big way. The company's balance sheet will show a decrease in assets because it is selling off things like buildings and equipment to pay the dividend. At the same time, the company's equity, which is the money that belongs to the shareholders, will also go down. This is because the liquidating dividend is a way of giving back the shareholders' money, so the company's value goes down.
 
-The income statement might not show a direct impact from the liquidating dividend because it is not considered a regular expense or income. However, the sale of assets to fund the dividend could show up as a gain or loss on the income statement, depending on whether the company sold the assets for more or less than what they were worth on the books. Overall, the company's financial health looks different after paying a liquidating dividend, showing less money and fewer assets on its financial statements.
+The income statement might not show a direct impact from the liquidating dividend because it is not considered a regular expense or income. However, the sale of assets to fund the dividend could show up as a gain or loss on the income statement, depending on whether the company sold the assets for more or less than what they were worth on the [books](/wiki/algo-trading-books). Overall, the company's financial health looks different after paying a liquidating dividend, showing less money and fewer assets on its financial statements.
 
 ## What are the potential legal considerations a company must address before issuing a liquidating dividend?
 

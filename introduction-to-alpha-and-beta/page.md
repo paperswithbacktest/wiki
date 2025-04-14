@@ -36,13 +36,13 @@ Let's break it down with a simple example. Suppose you want to find the beta of 
 
 Alpha can help you see how good a portfolio manager is at their job. It shows if the investments they pick do better than the market after taking into account how risky those investments are. If a portfolio manager has a positive alpha, it means they are doing a great job because their choices are beating the market. For example, if a manager's fund has an alpha of 2, it means the fund did 2% better than the market, which is a good sign that the manager knows what they're doing.
 
-On the other hand, a negative alpha means the manager's choices are not doing as well as the market. This could mean the manager is not picking the best investments or managing risk well. Investors look at alpha to decide if they should keep their money with a manager or find someone who can do a better job. So, alpha is a key tool for judging how skilled a portfolio manager is.
+On the other hand, a negative alpha means the manager's choices are not doing as well as the market. This could mean the manager is not [picking](/wiki/asset-class-picking) the best investments or managing risk well. Investors look at alpha to decide if they should keep their money with a manager or find someone who can do a better job. So, alpha is a key tool for judging how skilled a portfolio manager is.
 
 ## What does a beta greater than 1 indicate about a stock's volatility?
 
 A beta greater than 1 means a stock is more up and down than the market. If the market goes up or down, this stock will move even more. For example, if the market goes up by 10%, a stock with a beta of 1.5 might go up by 15%. It's like the stock is more sensitive to what's happening in the market.
 
-This higher volatility can be good or bad depending on what you want. If you like taking risks and think the market will go up, a stock with a high beta could make you more money. But if the market goes down, you could lose more money too. So, a beta over 1 shows the stock is riskier but could also offer bigger rewards.
+This higher [volatility](/wiki/volatility-trading-strategies) can be good or bad depending on what you want. If you like taking risks and think the market will go up, a stock with a high beta could make you more money. But if the market goes down, you could lose more money too. So, a beta over 1 shows the stock is riskier but could also offer bigger rewards.
 
 ## How does beta relate to the Capital Asset Pricing Model (CAPM)?
 
@@ -78,7 +78,7 @@ Another method is using time-series analysis, which looks at how an investment's
 
 In modern financial theories, alpha and beta have been critiqued for not capturing the full picture of investment performance and risk. Some experts argue that alpha can be misleading because it relies heavily on the choice of benchmark. If the benchmark is not a good match for the investment, the alpha might not accurately reflect the manager's skill. Also, alpha doesn't explain why an investment did well or poorly, which can make it hard to predict future performance. Beta has been criticized for focusing only on market risk and ignoring other important risks like company-specific issues or economic changes. Because beta uses past data, it might not be a reliable predictor of future risk, which can lead investors to make decisions based on outdated information.
 
-To address these issues, some modern theories have proposed modifications to alpha and beta. For example, multi-factor models have been developed to provide a more comprehensive view of an investment's performance by considering multiple sources of risk and return beyond just the market. These models can include factors like size, value, and momentum, which can help give a clearer picture of what drives an investment's returns. Additionally, some researchers have suggested using conditional beta, which adjusts for changing market conditions, to better capture the dynamic nature of risk. These modifications aim to give investors a more nuanced understanding of their investments, helping them make more informed decisions.
+To address these issues, some modern theories have proposed modifications to alpha and beta. For example, multi-[factor](/wiki/factor-investing) models have been developed to provide a more comprehensive view of an investment's performance by considering multiple sources of risk and return beyond just the market. These models can include factors like size, value, and [momentum](/wiki/momentum), which can help give a clearer picture of what drives an investment's returns. Additionally, some researchers have suggested using conditional beta, which adjusts for changing market conditions, to better capture the dynamic nature of risk. These modifications aim to give investors a more nuanced understanding of their investments, helping them make more informed decisions.
 
 ## Question: What are the differences between Alpha and Beta in their comparison?
 

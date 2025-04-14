@@ -58,7 +58,7 @@ If the model keeps working well during these tough tests, it shows that it's str
 
 ## What statistical methods can be used to validate the robustness of a trading model?
 
-One way to check if a trading model is strong is by using something called statistical significance tests. These tests help you see if the model's good results are just a lucky guess or if they really mean something. For example, you can use a t-test to compare how the model did against just picking stocks randomly. If the model's results are statistically significant, it means the model is probably doing something right and not just getting lucky.
+One way to check if a trading model is strong is by using something called statistical significance tests. These tests help you see if the model's good results are just a lucky guess or if they really mean something. For example, you can use a t-test to compare how the model did against just [picking](/wiki/asset-class-picking) stocks randomly. If the model's results are statistically significant, it means the model is probably doing something right and not just getting lucky.
 
 Another useful method is called cross-validation. This is where you split your data into different parts and test the model on each part to see if it works well every time. It's like making sure a recipe works no matter which ingredients you use. If the model keeps making good choices no matter which data you use, it shows that it's robust and can handle different situations. Both of these methods help you trust that your trading model will work well in the future, even when things change.
 
@@ -76,7 +76,7 @@ Using Monte Carlo simulations is great because it helps you test the trading mod
 
 ## How can machine learning and AI enhance the robustness evaluation of trading models?
 
-Machine learning and AI can make trading models stronger by helping them learn from lots of data and find patterns that are hard for people to see. Imagine you're trying to find a hidden picture in a big, messy painting. Machine learning can look at all the little details and figure out what the picture is, even if it's hard to spot. By using machine learning, a trading model can keep getting better over time as it sees more data. This means it can adapt to new situations and make smarter choices, which makes it more robust. Also, AI can help test the model in many different ways, like running lots of simulations to see how it might do in the future. This helps make sure the model can handle surprises and changes in the market.
+Machine learning and AI can make trading models stronger by helping them learn from lots of data and find patterns that are hard for people to see. Imagine you're trying to find a hidden picture in a big, messy painting. Machine learning can look at all the little details and figure out what the picture is, even if it's hard to spot. By using [machine learning](/wiki/machine-learning), a trading model can keep getting better over time as it sees more data. This means it can adapt to new situations and make smarter choices, which makes it more robust. Also, AI can help test the model in many different ways, like running lots of simulations to see how it might do in the future. This helps make sure the model can handle surprises and changes in the market.
 
 Another way AI helps is by making it easier to do things like sensitivity analysis and stress testing. With AI, you can quickly change the model's settings and see how it reacts, or put it through tough tests to see if it can handle extreme market conditions. This is like having a super-fast computer that can try out a million different scenarios in no time. By doing this, you can find out if the model is strong enough to keep making good choices no matter what happens. So, using machine learning and AI can give you more confidence that your trading model will work well in the real world, even when things get unpredictable.
 
@@ -86,7 +86,7 @@ Evaluating the performance of trading models is a crucial step in ensuring their
 
 Backtesting requires accurate historical data and realistic assumptions about trading conditions. It's essential to account for factors such as transaction costs, slippage, and market [liquidity](/wiki/liquidity-risk-premium) to make the backtest as realistic as possible. Through backtesting, traders can verify whether a model is capable of capturing profitable opportunities or if it's likely to fail under specific market conditions.
 
-Statistical measures play a significant role in evaluating trading models. Two key metrics often used are the Sharpe ratio and drawdown. The Sharpe ratio measures the excess return per unit of volatility or risk in an investment strategy. It's calculated using the formula:
+Statistical measures play a significant role in evaluating trading models. Two key metrics often used are the Sharpe ratio and drawdown. The Sharpe ratio measures the excess return per unit of [volatility](/wiki/volatility-trading-strategies) or risk in an investment strategy. It's calculated using the formula:
 
 $$
 \text{Sharpe ratio} = \frac{E[R_p - R_f]}{\sigma_p}

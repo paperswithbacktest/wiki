@@ -36,7 +36,7 @@ Duration matching, on the other hand, focuses specifically on matching the durat
 
 ## What types of securities are typically used in an immunization strategy?
 
-In an immunization strategy, the most commonly used securities are bonds. Bonds are chosen because they provide a predictable stream of cash flows, which can be matched with the timing of liabilities. Government bonds, like those issued by the U.S. Treasury, are often used because they are considered very safe and have reliable interest payments. Corporate bonds can also be used, but they come with a bit more risk, so investors need to be careful when picking them.
+In an immunization strategy, the most commonly used securities are bonds. Bonds are chosen because they provide a predictable stream of cash flows, which can be matched with the timing of liabilities. Government bonds, like those issued by the U.S. Treasury, are often used because they are considered very safe and have reliable interest payments. Corporate bonds can also be used, but they come with a bit more risk, so investors need to be careful when [picking](/wiki/asset-class-picking) them.
 
 Besides bonds, other fixed-income securities like mortgage-backed securities can be part of an immunization strategy. These securities also offer regular payments that can be lined up with when money is needed. The key is to pick securities that will give you the money you need at just the right time, so your financial plan stays on track no matter what happens with interest rates.
 
@@ -111,7 +111,7 @@ One common approach is to invest in zero-coupon bonds that mature at the same ti
 
 Another strategy involves utilizing duration matching with coupon bonds. Duration is a measure of the sensitivity of the price of a bond to changes in interest rates, and it represents the weighted average time until the bond's cash flows are received. By aligning the duration of the portfolio with the investment horizon of 15 years, the pension fund can ensure that the change in the value of assets equals the change in the value of liabilities, regardless of fluctuations in interest rates. Coupon bonds can be structured so that their payment timelines align with future liabilities, securing the portfolio’s value even as rates fluctuate.
 
-Algorithmic trading can further enhance these strategies by offering precision and efficiency in executing large numbers of transactions. Algorithms can be used to constantly adjust the portfolio to maintain duration matching as market conditions change or to handle large orders efficiently when acquiring zero-coupon bonds, minimizing transaction costs and optimizing execution speed. Techniques such as dynamic rebalancing can be implemented in algorithmic trading systems to ensure that the bond portfolio remains aligned with the pension fund's liability timelines, offering an efficient and cost-effective approach to immunization in a fluctuating interest rate environment.
+Algorithmic trading can further enhance these strategies by offering precision and efficiency in executing large numbers of transactions. Algorithms can be used to constantly adjust the portfolio to maintain duration matching as market conditions change or to handle large orders efficiently when acquiring zero-coupon bonds, minimizing transaction costs and optimizing execution speed. Techniques such as dynamic rebalancing can be implemented in [algorithmic trading](/wiki/algorithmic-trading) systems to ensure that the bond portfolio remains aligned with the pension fund's liability timelines, offering an efficient and cost-effective approach to immunization in a fluctuating interest rate environment.
 
 Mathematically, this approach can be expressed via equal duration between assets ($D_A$) and liabilities ($D_L$):
 
@@ -119,7 +119,7 @@ $$
 D_A = D_L
 $$
 
-And an optimization problem can be formulated to minimize the duration gap, which ensures changes in interest rates will have a negligible effect on the net value of the portfolio. Integrating these strategies, seasoned with the capabilities of algorithmic trading, assures a high level of protection against interest rate volatility while preserving the value of the pension fund's investment portfolio.
+And an optimization problem can be formulated to minimize the duration gap, which ensures changes in interest rates will have a negligible effect on the net value of the portfolio. Integrating these strategies, seasoned with the capabilities of algorithmic trading, assures a high level of protection against interest rate [volatility](/wiki/volatility-trading-strategies) while preserving the value of the pension fund's investment portfolio.
 
 ## References & Further Reading
 

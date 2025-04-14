@@ -28,7 +28,7 @@ Another important component is the strike price, which is the stock price level 
 
 ## What are the potential benefits of investing in Reverse Convertible Notes?
 
-One benefit of investing in Reverse Convertible Notes is the higher interest rate you can get. Compared to normal bonds, Reverse Convertible Notes usually offer a bigger regular payment. This can be good if you want to earn more money from your investment over time. The higher interest rate is there to make up for the risk that you might not get your money back in cash, but for some people, the chance to earn more interest is worth it.
+One benefit of investing in Reverse Convertible Notes is the higher [interest rate](/wiki/interest-rate-trading-strategies) you can get. Compared to normal bonds, Reverse Convertible Notes usually offer a bigger regular payment. This can be good if you want to earn more money from your investment over time. The higher interest rate is there to make up for the risk that you might not get your money back in cash, but for some people, the chance to earn more interest is worth it.
 
 Another potential benefit is that if you believe the stock of the company will do well, you might end up with stock that could be worth more than what you invested. If the stock price stays above the strike price, you get your money back in cash, but if it goes down, you get stock. If you think the stock will go back up later, you could make a profit. So, if you are okay with the risk and think the stock will do well, a Reverse Convertible Note might be a good choice.
 
@@ -86,7 +86,7 @@ Also, because Reverse Convertible Notes can be complicated, some countries have 
 
 The market for reverse convertible notes (RCNs) is significantly shaped by prevailing economic conditions, fluctuations in interest rates, and overall investor sentiment. These factors collectively determine the demand and attractiveness of RCNs as investment instruments. 
 
-Economic conditions play a crucial role, as they directly influence both corporate performance and the broader financial landscape. During periods of economic growth, investor confidence increases, potentially boosting interest in RCNs as a high-yield investment option. Conversely, in times of economic downturn, the perceived risk of RCNs can lead to reduced investor interest due to concerns over issuer solvency and market volatility.
+Economic conditions play a crucial role, as they directly influence both corporate performance and the broader financial landscape. During periods of economic growth, investor confidence increases, potentially boosting interest in RCNs as a high-yield investment option. Conversely, in times of economic downturn, the perceived risk of RCNs can lead to reduced investor interest due to concerns over issuer solvency and market [volatility](/wiki/volatility-trading-strategies).
 
 Interest rates are another key determinant, affecting the pricing and yields of fixed-income products, including RCNs. When interest rates are low, the appeal of RCNs tends to increase because they typically offer higher yields compared to traditional debt securities. Conversely, rising interest rates can lead to a decline in interest for RCNs as alternative investments become more competitive. The relationship between RCN yields ($Y$) and prevailing interest rates ($r$) can be generally described by the equation:
 

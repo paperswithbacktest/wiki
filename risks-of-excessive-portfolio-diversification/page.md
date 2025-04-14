@@ -72,7 +72,7 @@ Over-diversification can make you feel safe, but if your investments are highly 
 
 ## What strategies can investors use to avoid the pitfalls of excessive diversification?
 
-To avoid the pitfalls of excessive diversification, investors should focus on choosing a few good investments instead of trying to own too many. It's better to have a smaller number of investments that you know well and can keep an eye on easily. Think of it like picking a few favorite fruits instead of buying every type of fruit in the store. By doing this, you can pay more attention to how each investment is doing and make better decisions about when to buy or sell.
+To avoid the pitfalls of excessive diversification, investors should focus on choosing a few good investments instead of trying to own too many. It's better to have a smaller number of investments that you know well and can keep an eye on easily. Think of it like [picking](/wiki/asset-class-picking) a few favorite fruits instead of buying every type of fruit in the store. By doing this, you can pay more attention to how each investment is doing and make better decisions about when to buy or sell.
 
 Another strategy is to make sure the investments you choose are different from each other. This means picking investments that don't all go up or down at the same time. It's like having a team where each player has a different skill, so they can help each other out when needed. By having a mix of investments that aren't closely related, you can still spread your risk without having too many things to keep track of. This way, you can enjoy the benefits of diversification without the problems that come from having too many investments.
 

@@ -48,7 +48,7 @@ Over time, noise trader risk can scare away some investors. If people see that t
 
 ## How can noise trader risk be measured?
 
-Noise trader risk can be measured by looking at how much the market moves around. If prices go up and down a lot, it might be because noise traders are buying and selling based on feelings or rumors. Researchers can use something called "volatility" to see how much the market is moving. High volatility can mean that noise traders are having a big effect on the market. They can also look at how much the market moves compared to what is expected based on real information. If the market is moving more than expected, it could be because of noise traders.
+Noise trader risk can be measured by looking at how much the market moves around. If prices go up and down a lot, it might be because noise traders are buying and selling based on feelings or rumors. Researchers can use something called "[volatility](/wiki/volatility-trading-strategies)" to see how much the market is moving. High volatility can mean that noise traders are having a big effect on the market. They can also look at how much the market moves compared to what is expected based on real information. If the market is moving more than expected, it could be because of noise traders.
 
 Another way to measure noise trader risk is by looking at how much trading is happening that doesn't seem to be based on real information. For example, if a lot of people are buying and selling a stock right after a rumor spreads, but before any real news comes out, that might be noise trading. Researchers can use special models to try to figure out how much of the trading in the market is coming from noise traders. By understanding this, they can get a better idea of how much noise trader risk is affecting the market.
 
@@ -119,7 +119,7 @@ print(signals)
 
 In this example, the strategy generates buy and sell signals based on the crossover of short and long-term moving averages, allowing traders to capitalize on trends rather than reacting to noise.
 
-By adopting these strategies—diversification and algorithmic trading—investors and traders can construct more resilient portfolios and trading systems. This not only helps in managing the unpredictable behavior of noise traders but also positions them to exploit potential market inefficiencies.
+By adopting these strategies—diversification and [algorithmic trading](/wiki/algorithmic-trading)—investors and traders can construct more resilient portfolios and trading systems. This not only helps in managing the unpredictable behavior of noise traders but also positions them to exploit potential market inefficiencies.
 
 ## References & Further Reading
 

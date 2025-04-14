@@ -118,13 +118,13 @@ In summary, reverse stock splits serve as a significant mechanism for companies 
 
 ## How can algorithms be adjusted for corporate actions?
 
-Adjusting algorithms to account for reverse stock splits involves a systematic approach to ensure data integrity and the accuracy of trading strategies. Reverse splits result in changes in share price and count, which, if unaccounted for, can significantly alter backtesting results and predictive models in algorithmic trading.
+Adjusting algorithms to account for reverse stock splits involves a systematic approach to ensure data integrity and the accuracy of trading strategies. Reverse splits result in changes in share price and count, which, if unaccounted for, can significantly alter [backtesting](/wiki/backtesting) results and predictive models in [algorithmic trading](/wiki/algorithmic-trading).
 
 ### Steps to Adjust Algorithms for Reverse Splits
 
 #### 1. Data Adjustment
 
-The first step is to adjust historical price and volume data to reflect the effects of a reverse split. This ensures continuity in historical analysis and prevents discrepancies caused by abrupt changes in data points. The common practice is to adjust the historical prices and volume prior to the date of the reverse split.
+The first step is to adjust historical price and [volume](/wiki/volume-trading-strategy) data to reflect the effects of a reverse split. This ensures continuity in historical analysis and prevents discrepancies caused by abrupt changes in data points. The common practice is to adjust the historical prices and volume prior to the date of the reverse split.
 
 **Adjustment Formula:**
 

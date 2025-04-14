@@ -40,7 +40,7 @@ The rule also applies to loans where the home is used as a guarantee, called hom
 
 ## What are the key data points that must be reported under Regulation C?
 
-Under Regulation C, lenders have to report a lot of important details about the home loans they give out. They need to include information about the loan itself, like the type of loan, the amount of money loaned, and the interest rate. They also have to report the purpose of the loan, whether it's for buying a home, refinancing, or something else. Another important detail is the property's location, including the address and whether it's in a rural or urban area.
+Under Regulation C, lenders have to report a lot of important details about the home loans they give out. They need to include information about the loan itself, like the type of loan, the amount of money loaned, and the [interest rate](/wiki/interest-rate-trading-strategies). They also have to report the purpose of the loan, whether it's for buying a home, refinancing, or something else. Another important detail is the property's location, including the address and whether it's in a rural or urban area.
 
 In addition to loan details, lenders must report information about the person getting the loan. This includes their ethnicity, race, and sex, as well as their income. Lenders also need to report if the loan application was approved or denied, and if it was denied, the reason why. All this information helps the government see if everyone is being treated fairly when they try to get a home loan, no matter who they are or where they live.
 

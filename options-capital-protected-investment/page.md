@@ -30,9 +30,9 @@ Another benefit is that capital protected investments can help you get used to t
 
 One common type of capital protected investment is a structured product. This is a kind of investment where a bank or financial institution puts your money into a mix of safe and risky assets. The safe part, often in bonds, makes sure you get your money back at the end of the investment period. The risky part, usually in stocks or other investments, tries to make extra money. Structured products can be set up in different ways, but they all aim to protect your original investment while giving you a chance to earn more.
 
-Another type is a capital protected fund. This is like a mutual fund or an exchange-traded fund (ETF) where the goal is to keep your starting money safe. These funds usually invest in a mix of safe assets, like government bonds, and riskier assets, like stocks. The safe assets help protect your money, while the riskier ones try to grow it. Capital protected funds are managed by professionals who make sure the investment stays balanced to keep your money protected.
+Another type is a capital protected fund. This is like a mutual fund or an exchange-traded fund ([ETF](/wiki/etf-trading-strategies)) where the goal is to keep your starting money safe. These funds usually invest in a mix of safe assets, like government bonds, and riskier assets, like stocks. The safe assets help protect your money, while the riskier ones try to grow it. Capital protected funds are managed by professionals who make sure the investment stays balanced to keep your money protected.
 
-A third type is a capital guaranteed note. This is a type of bond where the issuer promises to give you back your original investment at the end of the term, no matter what happens in the market. In return for this guarantee, you usually get a fixed interest rate, which might be lower than what you could earn from riskier investments. Capital guaranteed notes are popular because they offer a straightforward way to keep your money safe while still earning some interest.
+A third type is a capital guaranteed note. This is a type of bond where the issuer promises to give you back your original investment at the end of the term, no matter what happens in the market. In return for this guarantee, you usually get a fixed [interest rate](/wiki/interest-rate-trading-strategies), which might be lower than what you could earn from riskier investments. Capital guaranteed notes are popular because they offer a straightforward way to keep your money safe while still [earning](/wiki/earning-announcement) some interest.
 
 ## How can capital protected investments be used in a diversified portfolio?
 
@@ -56,7 +56,7 @@ Both savings accounts and government bonds are safer than capital protected inve
 
 ## What are the key factors to consider when choosing a capital protected investment?
 
-When choosing a capital protected investment, one key factor to consider is the level of protection it offers. You want to make sure that the investment really keeps your money safe, no matter what happens in the market. This means looking at how much of your money is put into safe assets like bonds, and how much is put into riskier assets like stocks. The more of your money that's in safe assets, the more protected it will be, but it might also mean lower returns.
+When choosing a capital protected investment, one key [factor](/wiki/factor-investing) to consider is the level of protection it offers. You want to make sure that the investment really keeps your money safe, no matter what happens in the market. This means looking at how much of your money is put into safe assets like bonds, and how much is put into riskier assets like stocks. The more of your money that's in safe assets, the more protected it will be, but it might also mean lower returns.
 
 Another important factor is the fees you have to pay. Capital protected investments often come with management fees because someone needs to keep the investment balanced between safe and risky parts. These fees can eat into your returns, so you want to make sure they are reasonable. Also, think about the opportunity cost. This means you might miss out on higher returns from riskier investments if you choose a capital protected option. So, you need to decide if the safety is worth the trade-off of potentially lower gains.
 
@@ -126,7 +126,7 @@ These resources provide foundational knowledge and insights into contemporary in
 
 ## How can algo trading be integrated with capital protection strategies?
 
-Combining algorithmic trading (algo trading) with investment strategies aimed at capital protection can offer a comprehensive approach to safeguarding and growing investments. Algorithmic trading involves using computer algorithms to execute trading strategies automatically and systematically. This integration not only enhances the precision and discipline of investment management but also ensures adherence to capital protection targets precisely.
+Combining [algorithmic trading](/wiki/algorithmic-trading) (algo trading) with investment strategies aimed at capital protection can offer a comprehensive approach to safeguarding and growing investments. Algorithmic trading involves using computer algorithms to execute trading strategies automatically and systematically. This integration not only enhances the precision and discipline of investment management but also ensures adherence to capital protection targets precisely.
 
 Algo trading systems can be programmed to execute specific risk management protocols, such as implementing stop-loss orders, monitoring portfolio exposure, and dynamically adjusting asset allocations to maintain predetermined risk levels. By doing so, these algorithms help investors avoid impulsive decisions and maintain an investment strategy aligned with their capital protection objectives.
 

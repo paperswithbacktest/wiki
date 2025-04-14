@@ -86,7 +86,7 @@ You can also use dollar cost averaging with different kinds of investments. Inst
 
 ## What are the pros of dollar-cost averaging?
 
-Dollar-cost averaging (DCA) offers several advantages as an investment strategy, particularly for those seeking consistency and discipline in their financial endeavors. One of the primary benefits of DCA is its ability to minimize emotional reactions to market volatility. By committing to invest a fixed amount of money at regular intervals, investors can avoid the pitfalls of trying to time the market, which can be both challenging and risky. This approach helps eliminate the stress and emotional decision-making often associated with market fluctuations.
+Dollar-cost averaging (DCA) offers several advantages as an investment strategy, particularly for those seeking consistency and discipline in their financial endeavors. One of the primary benefits of DCA is its ability to minimize emotional reactions to market [volatility](/wiki/volatility-trading-strategies). By committing to invest a fixed amount of money at regular intervals, investors can avoid the pitfalls of trying to time the market, which can be both challenging and risky. This approach helps eliminate the stress and emotional decision-making often associated with market fluctuations.
 
 Another advantage of DCA is the potential to lower the average cost per share over time. Because investors purchase more shares when prices are low and fewer shares when prices are high, the overall cost basis can be reduced. This systematic approach to investing can result in cost savings, as the average purchase cost may be lower than if the entire investment were made at a single point in time when prices are high.
 
@@ -112,5 +112,5 @@ Zweig, J. (2003). *Your Money and Your Brain: How the New Science of Neuroeconom
 
 Sharpe, W. F. (1994). “The Sharpe Ratio.” *The Journal of Portfolio Management, 21*(1), 49-58. The paper details the Sharpe Ratio, a crucial measure for evaluating the risk-adjusted returns of an investment strategy, allowing investors to assess the performance of dollar-cost averaging against various benchmarks.
 
-Thorpe, E. O. (1967). *Beat the Market: A Scientific Stock Market System.* Edward O. Thorp is recognized for his analytical approach to market investing. His work underscores the role of systematic strategies such as algorithmic trading in enhancing investment outcomes, an area where dollar-cost averaging can be effectively applied.
+Thorpe, E. O. (1967). *Beat the Market: A Scientific Stock Market System.* Edward O. Thorp is recognized for his analytical approach to market investing. His work underscores the role of systematic strategies such as [algorithmic trading](/wiki/algorithmic-trading) in enhancing investment outcomes, an area where dollar-cost averaging can be effectively applied.
 

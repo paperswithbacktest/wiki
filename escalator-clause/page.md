@@ -128,7 +128,7 @@ $$
 
 Where $\Delta \text{CPI}$ is the difference between the current CPI and the CPI at the time the contract was initiated.
 
-Furthermore, it is important to set caps on adjustments to guard against extreme volatility and unforeseen economic shifts that could disproportionately affect one party. These caps can be expressed as a percentage limit on price or wage increases over the contract period.
+Furthermore, it is important to set caps on adjustments to guard against extreme [volatility](/wiki/volatility-trading-strategies) and unforeseen economic shifts that could disproportionately affect one party. These caps can be expressed as a percentage limit on price or wage increases over the contract period.
 
 Negotiations should also address potential renegotiation windows or periodic reviews, allowing parties to recalibrate expectations and terms if the economic environment changes drastically. This strategic foresight can further mitigate disputes and facilitate smoother contract management.
 

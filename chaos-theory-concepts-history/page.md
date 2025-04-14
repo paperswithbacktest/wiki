@@ -118,5 +118,5 @@ In sum, chaos theory offers a framework to recognize hidden order within complex
 
 - Feigenbaum, M. J. (1980). "The Transition to Aperiodic Behavior in Turbulent Systems." This paper presents Feigenbaum's discoveries regarding universality in the transition to chaos, known as Feigenbaum constants. His findings are pivotal in understanding how systems evolve from order to chaos, relevant to both natural and financial systems.
 
-These works form a substantial basis for understanding how chaos theory, fractals, and nonlinear dynamics can provide deeper insights into financial markets, aiding in the development of advanced algorithmic trading strategies.
+These works form a substantial basis for understanding how chaos theory, fractals, and nonlinear dynamics can provide deeper insights into financial markets, aiding in the development of advanced [algorithmic trading](/wiki/algorithmic-trading) strategies.
 

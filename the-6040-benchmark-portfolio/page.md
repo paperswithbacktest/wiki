@@ -18,7 +18,7 @@ These benchmarks are often made up of well-known indexes or a mix of different t
 
 A 60/40 portfolio is a type of investment mix where 60% of the money is put into stocks and 40% is put into bonds. This mix is popular because it tries to balance the risk and reward. Stocks can grow a lot but can also lose value quickly, while bonds are usually safer but don't grow as much. By having both, the portfolio aims to grow over time while keeping some safety.
 
-People like the 60/40 portfolio because it's simple and has worked well for a long time. It's a good choice for someone who wants to invest without spending too much time watching the market. The stocks part can help the portfolio grow, and the bonds part can help protect it when the stock market goes down. This mix can change a bit depending on what someone wants, but the basic idea stays the same.
+People like the [60/40 portfolio](/wiki/60-40-portfolio-vs-SP-500) because it's simple and has worked well for a long time. It's a good choice for someone who wants to invest without spending too much time watching the market. The stocks part can help the portfolio grow, and the bonds part can help protect it when the stock market goes down. This mix can change a bit depending on what someone wants, but the basic idea stays the same.
 
 ## Why is the 60/40 portfolio considered a benchmark?
 

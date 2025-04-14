@@ -28,7 +28,7 @@ The wallet is designed to be easy to use, so you can quickly add and manage all 
 
 ## How can you secure your Atomic Wallet?
 
-To keep your Atomic Wallet safe, start by picking a strong password. Make sure it's something you can remember but that others can't guess easily. Use a mix of letters, numbers, and symbols to make it hard for anyone to break into your wallet. Also, be careful not to share your password with anyone. If someone else knows it, they could get into your wallet and take your money.
+To keep your Atomic Wallet safe, start by [picking](/wiki/asset-class-picking) a strong password. Make sure it's something you can remember but that others can't guess easily. Use a mix of letters, numbers, and symbols to make it hard for anyone to break into your wallet. Also, be careful not to share your password with anyone. If someone else knows it, they could get into your wallet and take your money.
 
 Another important way to secure your wallet is by keeping your mnemonic seed safe. This is a list of words that you get when you first set up your wallet. Write these words down on paper and store them in a safe place, like a locked drawer or a safe. Don't keep them on your computer or phone where someone could find them. If you lose your wallet or your device, you can use these words to get your money back. But if someone else finds them, they could steal your money, so keep them secret and safe.
 
@@ -36,7 +36,7 @@ Lastly, always be careful when using your wallet. Don't click on suspicious link
 
 ## What are the fees associated with using Atomic Wallet?
 
-Using Atomic Wallet comes with some fees that you should know about. When you want to send cryptocurrencies to someone else, you'll need to pay a network fee. This fee goes to the people who run the cryptocurrency's network and help process your transaction. The amount of the fee can change depending on which cryptocurrency you're using and how busy the network is. For example, sending Bitcoin might cost more than sending Litecoin.
+Using Atomic Wallet comes with some fees that you should know about. When you want to send cryptocurrencies to someone else, you'll need to pay a network fee. This fee goes to the people who run the [cryptocurrency](/wiki/cryptocurrency)'s network and help process your transaction. The amount of the fee can change depending on which cryptocurrency you're using and how busy the network is. For example, sending Bitcoin might cost more than sending Litecoin.
 
 Atomic Wallet itself doesn't charge you to use their app, but they do make money in other ways. They have something called Atomic Swaps, which let you trade cryptocurrencies directly with other users. When you use this feature, Atomic Wallet takes a small fee for making the trade happen. Also, if you use their built-in exchange service to buy or sell cryptocurrencies, there might be fees for those transactions too. It's good to check the fees before you make a trade or exchange so you know what to expect.
 

@@ -88,7 +88,7 @@ Another quote that has been proven effective is "Don't put all your eggs in one 
 
 ## How can trading quotes guide risk management in algorithmic trading?
 
-Effective risk management is essential for successful algorithmic trading. The wisdom encapsulated in trading quotes from renowned traders underscores the importance of this aspect. These insights can be systematically integrated into algorithmic strategies, fostering disciplined approaches that prioritize capital preservation.
+Effective risk management is essential for successful [algorithmic trading](/wiki/algorithmic-trading). The wisdom encapsulated in trading quotes from renowned traders underscores the importance of this aspect. These insights can be systematically integrated into algorithmic strategies, fostering disciplined approaches that prioritize capital preservation.
 
 Algorithms should be designed with adaptive mechanisms to adjust position sizes in response to market [volatility](/wiki/volatility-trading-strategies). This approach aligns with the principle of protecting one's capital, a core tenet expressed in quotes from experienced traders like Paul Tudor Jones. By dynamically scaling positions, algorithms can mitigate potential losses during volatile market phases. The formula for position sizing might involve calculating the appropriate trade size based on the account's risk tolerance and the current volatility level:
 

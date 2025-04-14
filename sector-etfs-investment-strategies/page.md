@@ -30,7 +30,7 @@ Other sectors include utilities, which provide services like electricity and wat
 
 ## What are the benefits of investing in sector ETFs?
 
-Investing in sector ETFs can help you focus your money on a part of the economy you think will do well. For example, if you believe technology will grow a lot, you can put your money in a tech sector ETF. This way, you don't need to pick individual tech companies, which can be hard and risky. The ETF will already have a mix of tech companies, so it's easier and can be less risky than betting on one company.
+Investing in sector ETFs can help you focus your money on a part of the economy you think will do well. For example, if you believe technology will grow a lot, you can put your money in a tech sector [ETF](/wiki/etf-trading-strategies). This way, you don't need to pick individual tech companies, which can be hard and risky. The ETF will already have a mix of tech companies, so it's easier and can be less risky than betting on one company.
 
 Another benefit is that sector ETFs can help you spread out your investments within one industry. Even though they focus on one sector, they usually include many different companies in that sector. This can help reduce the risk that comes with investing in just a few stocks. Plus, sector ETFs are easy to buy and sell because they trade on stock exchanges like regular stocks, so you can quickly change your investments if you need to.
 

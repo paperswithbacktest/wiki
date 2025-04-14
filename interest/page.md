@@ -22,7 +22,7 @@ The bank adds this interest to your account regularly, often every month or ever
 
 ## What is the difference between simple interest and compound interest?
 
-Simple interest is easy to understand. It's the interest you earn or pay on the original amount of money you put in or borrowed. For example, if you put $100 in a savings account with a 5% simple interest rate for one year, you will earn $5 at the end of the year. The interest stays the same every year because it's only calculated on the original $100. If you keep the money in the account for another year, you will earn another $5, and so on.
+Simple interest is easy to understand. It's the interest you earn or pay on the original amount of money you put in or borrowed. For example, if you put $100 in a savings account with a 5% simple [interest rate](/wiki/interest-rate-trading-strategies) for one year, you will earn $5 at the end of the year. The interest stays the same every year because it's only calculated on the original $100. If you keep the money in the account for another year, you will earn another $5, and so on.
 
 Compound interest is a bit different and can help your money grow faster. With compound interest, you earn interest not just on the original amount, but also on the interest that has been added to your account. Using the same example, if you put $100 in an account with a 5% compound interest rate, after the first year, you will have $105. In the second year, you will earn 5% interest on $105, which is $5.25, so your total will be $110.25. This means your money grows a bit more each year because the interest is calculated on a bigger amount each time.
 

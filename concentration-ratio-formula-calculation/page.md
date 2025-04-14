@@ -72,7 +72,7 @@ But concentration ratios don't tell the whole story. They only show the market s
 
 To get a better understanding of how competitive a market is, economists use more advanced methods than just looking at concentration ratios. One way is to use the Herfindahl-Hirschman Index (HHI). The HHI takes the market share of each company in the market, squares it, and then adds all those numbers together. This gives a more detailed picture of how spread out or concentrated the market is. A high HHI means the market is very concentrated, with a few big companies having a lot of power. A low HHI means the market is more competitive, with many smaller companies sharing the market.
 
-Another advanced method is to look at the dynamics of the market over time. Concentration ratios can change a lot, so it's important to see how they move. Economists might look at entry and exit rates of companies in the market. If new companies are coming in and old ones are going out a lot, it means the market is more competitive. They also look at how companies compete, like if they are always trying to make better products or lower prices. This gives a fuller picture of how much power the big companies really have and how competitive the market is.
+Another advanced method is to look at the dynamics of the market over time. Concentration ratios can change a lot, so it's important to see how they move. Economists might look at entry and [exit](/wiki/exit-strategy) rates of companies in the market. If new companies are coming in and old ones are going out a lot, it means the market is more competitive. They also look at how companies compete, like if they are always trying to make better products or lower prices. This gives a fuller picture of how much power the big companies really have and how competitive the market is.
 
 ## How do concentration ratios vary across different countries and sectors?
 
@@ -114,7 +114,7 @@ $$
 
 This high concentration ratio of 90% indicates that these four firms collectively control a significant portion of the market. Such a scenario is typically indicative of an oligopolistic market structure. In an oligopoly, a small number of firms have considerable market power to influence prices, output, and strategic decisions. 
 
-The implications for trading and investments in such markets are substantial. For investors or traders using algorithmic strategies, recognizing a high concentration ratio can guide the adaptation of trading strategies to account for the reduced competition and potential for price setting by the leading firms. This often involves anticipating less volatility than in a more fragmented market, possibly affecting strategies centered around volatility [arbitrage](/wiki/arbitrage) or [trend following](/wiki/trend-following).
+The implications for trading and investments in such markets are substantial. For investors or traders using algorithmic strategies, recognizing a high concentration ratio can guide the adaptation of trading strategies to account for the reduced competition and potential for price setting by the leading firms. This often involves anticipating less [volatility](/wiki/volatility-trading-strategies) than in a more fragmented market, possibly affecting strategies centered around volatility [arbitrage](/wiki/arbitrage) or [trend following](/wiki/trend-following).
 
 In summary, this example underlines the practical application of concentration ratios in assessing market dominance and supports informed decision-making for strategic investments.
 

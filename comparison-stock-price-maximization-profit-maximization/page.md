@@ -86,7 +86,7 @@ At the same time, the company should think about how its choices affect everyone
 
 ## What is Risk Management in Algorithmic Trading?
 
-Proper risk management is a critical aspect of algorithmic trading, directly influencing the success and sustainability of trading strategies. At its core, risk management involves systematically identifying, analyzing, and mitigating potential losses while aiming to achieve the desired returns.
+Proper risk management is a critical aspect of [algorithmic trading](/wiki/algorithmic-trading), directly influencing the success and sustainability of trading strategies. At its core, risk management involves systematically identifying, analyzing, and mitigating potential losses while aiming to achieve the desired returns.
 
 Position sizing and strategic stop-loss placements are fundamental components of effective risk management. Position sizing determines the amount of capital allocated for each trade, balancing the potential for profit against the risk of loss. Techniques such as the Kelly Criterion can be employed to optimize position size by maximizing the expected logarithm of wealth growth. The Kelly Criterion can be expressed as:
 
@@ -116,7 +116,7 @@ In conclusion, robust risk management techniques such as position sizing, stop-l
 
 Backtesting is a fundamental process in algorithmic trading that involves evaluating a trading strategy using historical data to determine its viability and potential profitability. This process allows traders to simulate how a strategy would have performed in the past, providing insights into future performance. A well-conducted backtest can guide traders in refining their strategies, minimizing risks, and optimizing profit potential.
 
-An effective backtesting process relies on key performance metrics. The **Sharpe Ratio** is one such metric that measures the excess return per unit of risk. It is calculated using the formula:
+An effective [backtesting](/wiki/backtesting) process relies on key performance metrics. The **Sharpe Ratio** is one such metric that measures the excess return per unit of risk. It is calculated using the formula:
 
 $$
 

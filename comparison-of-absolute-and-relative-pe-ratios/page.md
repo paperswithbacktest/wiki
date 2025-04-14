@@ -36,7 +36,7 @@ Using the relative P/E ratio helps you see if a stock is a good deal or not by p
 
 A high absolute P/E ratio means that investors are willing to pay a lot for each dollar of the company's earnings. If a company has a high P/E ratio, it often means that people think the company will grow a lot in the future. They are ready to pay more for the stock now because they believe the company will make more money later on.
 
-However, a high P/E ratio can also mean that the stock might be overvalued. This means that the price of the stock is too high compared to how much the company is actually earning. If the company doesn't grow as much as expected, the stock price could go down, and investors might lose money. So, it's important to look at other things too, like how the company is doing compared to others in its industry, before deciding if a high P/E ratio is a good sign or not.
+However, a high P/E ratio can also mean that the stock might be overvalued. This means that the price of the stock is too high compared to how much the company is actually [earning](/wiki/earning-announcement). If the company doesn't grow as much as expected, the stock price could go down, and investors might lose money. So, it's important to look at other things too, like how the company is doing compared to others in its industry, before deciding if a high P/E ratio is a good sign or not.
 
 ## What does a low relative P/E ratio suggest about a stock compared to its industry?
 

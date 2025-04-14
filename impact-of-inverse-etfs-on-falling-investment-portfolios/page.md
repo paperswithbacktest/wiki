@@ -18,7 +18,7 @@ Inverse ETFs use different financial tools, like derivatives, to achieve their g
 
 Inverse ETFs work by using financial tools called derivatives, like futures contracts and options, to bet against a market or index. When you buy an inverse ETF, you're not buying the actual stocks or assets in that market. Instead, you're investing in a fund that uses these derivatives to make money when the market goes down. For example, if you think the stock market is going to drop, you can buy an inverse ETF that tracks the stock market. If the market does go down, the value of your inverse ETF will go up.
 
-These ETFs are designed to move in the opposite direction of the market they track. So, if the market goes down by 1%, the inverse ETF might go up by 1%. This can be useful for investors who want to protect their money or make a profit during times when they think the market will fall. However, inverse ETFs can be more complex and riskier than regular investments. They are usually meant for short-term trading, and holding them for a long time can lead to unexpected results because of how they are structured.
+These ETFs are designed to move in the opposite direction of the market they track. So, if the market goes down by 1%, the inverse [ETF](/wiki/etf-trading-strategies) might go up by 1%. This can be useful for investors who want to protect their money or make a profit during times when they think the market will fall. However, inverse ETFs can be more complex and riskier than regular investments. They are usually meant for short-term trading, and holding them for a long time can lead to unexpected results because of how they are structured.
 
 ## What are the common types of inverse ETFs?
 

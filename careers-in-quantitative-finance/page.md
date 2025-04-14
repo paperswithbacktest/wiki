@@ -24,7 +24,7 @@ In addition to formal education, it's important to keep learning and stay up-to-
 
 ## What skills are essential for someone starting in quantitative finance?
 
-To start in quantitative finance, you need to be good at math and statistics. These are the core skills that help you understand and solve financial problems. You should know how to use calculus, linear algebra, and probability. Being able to work with numbers and data is very important. You also need to learn programming, especially languages like Python, R, or C++. These skills help you write code to analyze data and build models.
+To start in quantitative finance, you need to be good at math and [statistics](/wiki/bayesian-statistics). These are the core skills that help you understand and solve financial problems. You should know how to use calculus, linear algebra, and probability. Being able to work with numbers and data is very important. You also need to learn programming, especially languages like Python, R, or C++. These skills help you write code to analyze data and build models.
 
 Besides math and programming, you need to understand finance and economics. Knowing how markets work and how to value financial products is key. You should also be able to think critically and solve problems creatively. Good communication skills are important too, because you will need to explain complex ideas to others. Being able to work in a team and manage your time well will help you succeed in this field.
 
@@ -50,7 +50,7 @@ Besides building and testing models, quants also help manage risk. They look at 
 
 In quantitative finance, people use advanced math and stats to understand and predict how markets will move. They use things like stochastic calculus to model how prices change over time. This helps them figure out the best times to buy or sell. They also use time series analysis to look at past data and see patterns that can help predict the future. Another important technique is Monte Carlo simulation, which lets them test different scenarios to see how they might affect their investments.
 
-Another key part of quantitative finance is using machine learning and artificial intelligence. These methods help quants find hidden patterns in big sets of data. For example, they might use neural networks to predict stock prices or cluster analysis to group similar investments together. They also use optimization techniques to find the best ways to invest money or manage risk. These advanced techniques help quants make smarter decisions and give them a better understanding of the financial world.
+Another key part of quantitative finance is using [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence). These methods help quants find hidden patterns in big sets of data. For example, they might use neural networks to predict stock prices or cluster analysis to group similar investments together. They also use optimization techniques to find the best ways to invest money or manage risk. These advanced techniques help quants make smarter decisions and give them a better understanding of the financial world.
 
 ## How do professionals in quantitative finance use programming and data analysis tools?
 
@@ -74,7 +74,7 @@ A third path is to become a financial engineer. Financial engineers design new f
 
 ## How can one stay updated with the latest trends and technologies in quantitative finance?
 
-To stay updated with the latest trends and technologies in quantitative finance, it's important to keep learning all the time. You can read books and articles about new methods and tools. Websites like Quantopian and Wilmott have lots of information about what's new in the field. You can also join online groups or forums where people talk about the latest ideas. Going to conferences and workshops is another good way to learn. These events let you hear from experts and meet other people who work in quantitative finance.
+To stay updated with the latest trends and technologies in quantitative finance, it's important to keep learning all the time. You can read [books](/wiki/algo-trading-books) and articles about new methods and tools. Websites like Quantopian and Wilmott have lots of information about what's new in the field. You can also join online groups or forums where people talk about the latest ideas. Going to conferences and workshops is another good way to learn. These events let you hear from experts and meet other people who work in quantitative finance.
 
 Another way to stay updated is to use new technology yourself. Try out new programming languages and data analysis tools. For example, you might learn how to use machine learning to predict stock prices. Many companies offer free courses online, like Coursera or edX, where you can learn about the latest techniques. It's also helpful to talk to other people in the field. They might know about new trends or technologies that you haven't heard about yet. By staying curious and always learning, you can keep up with the fast-changing world of quantitative finance.
 
@@ -86,7 +86,7 @@ Another ethical issue is managing risk in a way that is responsible. Quants have
 
 ## What are the key job roles in algo trading?
 
-Algo trading, also known as algorithmic trading, encompasses various job roles that are integral to its operation and success. These roles often require a blend of financial acumen and technical prowess.
+Algo trading, also known as [algorithmic trading](/wiki/algorithmic-trading), encompasses various job roles that are integral to its operation and success. These roles often require a blend of financial acumen and technical prowess.
 
 ### Quantitative Analyst
 

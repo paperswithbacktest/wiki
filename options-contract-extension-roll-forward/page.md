@@ -54,7 +54,7 @@ Another reason to roll forward is to keep your investment strategy safe. If you'
 
 The timing of when you roll forward an options contract can really change how well it works for you. If you roll forward too early, you might pay more for the new option than you need to. This is because the longer the time until the new expiration date, the higher the premium you'll have to pay. But if you roll forward too late, you might not have enough time left for the stock to move the way you want it to. So, it's important to find the right balance and roll forward when the timing feels right for your prediction about the stock.
 
-Also, the timing can affect how much you lose or gain. If you roll forward when the stock is doing well, you might be able to get a good price for your old option and pay less for the new one. But if you roll forward when the stock is not doing so well, you might lose more money on the old option and have to pay more for the new one. So, watching the market and picking the right moment to roll forward can help you make the best out of your options trading strategy.
+Also, the timing can affect how much you lose or gain. If you roll forward when the stock is doing well, you might be able to get a good price for your old option and pay less for the new one. But if you roll forward when the stock is not doing so well, you might lose more money on the old option and have to pay more for the new one. So, watching the market and [picking](/wiki/asset-class-picking) the right moment to roll forward can help you make the best out of your options trading strategy.
 
 ## What are the tax implications of rolling forward an options contract?
 

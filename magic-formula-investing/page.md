@@ -24,7 +24,7 @@ The Magic Formula looks at two main things to choose stocks: how much the compan
 
 The Magic Formula has two key parts that help pick good stocks. The first part is called earnings yield. This looks at how much money a company makes compared to its price. If a company is cheap but makes a lot of money, it has a high earnings yield. The second part is called return on capital. This shows how well a company uses its money to make more money. A company with a high return on capital is good at turning its money into even more money.
 
-To use the Magic Formula, you find a list of at least 30 stocks that have high earnings yield and high return on capital. Then, you rank these stocks based on these two things. After ranking, you pick the top stocks and buy them. You keep these stocks for a year and then do the whole process again. The idea is that by following this simple formula, you can do better than the market over time without needing to be an expert in picking stocks.
+To use the Magic Formula, you find a list of at least 30 stocks that have high earnings yield and high return on capital. Then, you rank these stocks based on these two things. After ranking, you pick the top stocks and buy them. You keep these stocks for a year and then do the whole process again. The idea is that by following this simple formula, you can do better than the market over time without needing to be an expert in [picking](/wiki/asset-class-picking) stocks.
 
 ## How does the Magic Formula rank companies?
 

@@ -66,7 +66,7 @@ By using Vanguard's system, individual investors can keep more of their earnings
 
 ## What are the technical mechanisms that enable Vanguard's tax avoidance strategy?
 
-Vanguard's tax avoidance strategy uses a special way of picking and selling stocks to keep taxes low. The main idea is to hold onto stocks for a long time. When you sell a stock after owning it for more than a year, you pay less tax on the profit than if you sell it in less than a year. So, the fund managers try to keep stocks in the fund for a long time. This helps investors pay less in taxes and keep more of their money.
+Vanguard's tax avoidance strategy uses a special way of [picking](/wiki/asset-class-picking) and selling stocks to keep taxes low. The main idea is to hold onto stocks for a long time. When you sell a stock after owning it for more than a year, you pay less tax on the profit than if you sell it in less than a year. So, the fund managers try to keep stocks in the fund for a long time. This helps investors pay less in taxes and keep more of their money.
 
 Another important part of the strategy is called tax-loss harvesting. This means selling stocks that have lost value to help lower the taxes on stocks that have gained value. If a stock goes down in price, the fund managers might sell it to use the loss to offset the taxes on other stocks that have gone up. By doing this, they can reduce the total amount of taxes the fund has to pay. This careful management helps the fund save money on taxes, which can make a big difference over time.
 

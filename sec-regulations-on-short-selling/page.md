@@ -36,7 +36,7 @@ A 'short position' is what someone has after they do a short sale. It means they
 
 ## What are the reporting requirements for short sales under SEC regulations?
 
-The SEC has rules about telling them about short sales to keep the market fair and open. If you're a big investor, like a hedge fund or a firm that manages money for others, you need to report your short positions. You have to tell the SEC how many shares you've sold short and which stocks they are. This helps the SEC keep an eye on the market and make sure no one is doing anything that could hurt other investors.
+The SEC has rules about telling them about short sales to keep the market fair and open. If you're a big investor, like a [hedge fund](/wiki/hedge-fund-trading-strategies) or a firm that manages money for others, you need to report your short positions. You have to tell the SEC how many shares you've sold short and which stocks they are. This helps the SEC keep an eye on the market and make sure no one is doing anything that could hurt other investors.
 
 The reports need to be sent to the SEC by the end of the month after you did the short sale. For example, if you sold short in January, you need to report it by the end of February. The SEC uses this information to watch for any big changes or problems in the market. By knowing who is short selling and how much, they can act quickly if they see something that might cause trouble.
 

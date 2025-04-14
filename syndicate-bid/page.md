@@ -48,7 +48,7 @@ Another risk is that even if you win the bid, the thing you bought might not be 
 
 A syndicate bid is set up by a group of people or companies who want to buy something big and expensive together. They form a team and agree to share the cost and the risk. Each member of the syndicate puts in some money or resources. They also make a plan for how they will work together and how they will split up any profits or losses. This agreement is important because it helps everyone know what to expect and what they are responsible for.
 
-The next step is making the actual bid. The syndicate decides how much money they want to offer for the thing they are trying to buy. They need to think about how much it's worth and how much they can afford to spend. The bid also includes a plan of what they want to do with the thing if they win. Once the bid is ready, the syndicate sends it in and waits to see if they win. If they do, they will then work together to make the purchase and carry out their plan.
+The next step is making the actual bid. The syndicate decides how much money they want to offer for the thing they are trying to buy. They need to think about how much it's worth and how much they can afford to spend. The bid also includes a plan of what they want to do with the thing if they win. Once the bid is ready, the syndicate sends it in and waits to see if they win. If they do, they will then work together to make the purchase and [carry](/wiki/carry-trading) out their plan.
 
 ## What is the process of forming a syndicate bid?
 

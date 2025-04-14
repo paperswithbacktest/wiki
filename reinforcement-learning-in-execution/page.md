@@ -22,7 +22,7 @@ The second important part is the reward signal. This is like a score that tells 
 
 ## How does an agent learn to make decisions in reinforcement learning?
 
-In reinforcement learning, an agent learns to make decisions by trying different actions and seeing what happens. It starts off not knowing much, kind of like a baby learning to walk. The agent takes an action in the environment, and then it gets a reward that tells it if that action was good or bad. Over time, the agent starts to see patterns. It learns that some actions lead to more rewards, and it tries to do those actions more often.
+In [reinforcement learning](/wiki/reinforcement-learning), an agent learns to make decisions by trying different actions and seeing what happens. It starts off not knowing much, kind of like a baby learning to walk. The agent takes an action in the environment, and then it gets a reward that tells it if that action was good or bad. Over time, the agent starts to see patterns. It learns that some actions lead to more rewards, and it tries to do those actions more often.
 
 As the agent keeps trying and learning, it updates its policy, which is like its game plan for choosing actions. The policy tells the agent what to do in different situations. The agent keeps adjusting its policy to get more rewards. This process of trial and error helps the agent figure out the best way to act in the environment. Eventually, the agent gets really good at making decisions that lead to the most rewards.
 
@@ -34,7 +34,7 @@ Negative reinforcement, on the other hand, is about taking away something bad wh
 
 ## How can reinforcement learning improve the efficiency of task execution?
 
-Reinforcement learning can make task execution more efficient by teaching machines to get better over time. Imagine a robot learning to pick up objects. At first, it might be slow and clumsy, but as it gets rewards for picking things up correctly, it learns to do it faster and more accurately. The robot keeps trying different ways to pick up objects, and the ones that work best get rewarded. This helps the robot figure out the best way to do the task, making it more efficient.
+Reinforcement learning can make task execution more efficient by teaching machines to get better over time. Imagine a robot learning to pick up objects. At first, it might be slow and clumsy, but as it gets rewards for [picking](/wiki/asset-class-picking) things up correctly, it learns to do it faster and more accurately. The robot keeps trying different ways to pick up objects, and the ones that work best get rewarded. This helps the robot figure out the best way to do the task, making it more efficient.
 
 This learning process also helps machines adapt to new situations. If something changes in the environment, like a new obstacle appears, the machine can use what it has learned to find new ways to complete the task efficiently. By constantly getting feedback and adjusting its actions, the machine can keep improving its performance, even when things change. This makes reinforcement learning a powerful tool for making task execution smoother and more effective.
 
@@ -86,7 +86,7 @@ Another big thing coming up is that computers will be able to learn faster and s
 
 ## What is Reinforcement Learning?
 
-Reinforcement Learning (RL) is a subset of machine learning where an agent learns optimal decision-making by interacting with its environment. In RL, the agent makes decisions by taking specific actions and experiences feedback in terms of rewards or penalties. The objective is to derive a policy that maximizes the cumulative long-term reward.
+Reinforcement Learning (RL) is a subset of [machine learning](/wiki/machine-learning) where an agent learns optimal decision-making by interacting with its environment. In RL, the agent makes decisions by taking specific actions and experiences feedback in terms of rewards or penalties. The objective is to derive a policy that maximizes the cumulative long-term reward.
 
 Unlike supervised learning paradigms, RL does not rely on a dataset with pre-labeled inputs and outputs. Rather, it operates through trial and error, utilizing the outcomes of past actions to inform future decisions. This interaction with the environment is central to the learning process, allowing the agent to adapt and optimize its strategy over time.
 
@@ -110,7 +110,7 @@ The learning process relies heavily on algorithms such as Q-Learning and Policy 
 
 ## What are common RL techniques in execution?
 
-Reinforcement Learning (RL) techniques play a significant role in optimizing execution strategies within algorithmic trading. Among these techniques, Q-Learning, Policy Gradient Methods, and Deep Reinforcement Learning have emerged as notable approaches.
+Reinforcement Learning (RL) techniques play a significant role in optimizing execution strategies within [algorithmic trading](/wiki/algorithmic-trading). Among these techniques, Q-Learning, Policy Gradient Methods, and Deep Reinforcement Learning have emerged as notable approaches.
 
 **Q-Learning** is a fundamental value-based method in RL, where an agent learns a quality function, denoted as $Q(s, a)$. This function evaluates the expected cumulative reward of taking a specific action $a$ in a given state $s$. The core principle of Q-Learning involves updating the Q-values iteratively using the Bellman equation:
 

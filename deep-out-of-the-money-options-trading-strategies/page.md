@@ -44,7 +44,7 @@ A third strategy is to sell deep out of the money options to collect the premium
 
 ## How does volatility affect deep out of the money options?
 
-Volatility is how much a stock's price goes up and down. When volatility is high, deep out of the money options can become more valuable. This is because there's a bigger chance the stock price will move enough to make these options profitable. So, if a stock is expected to have big price swings, the price of deep out of the money options will go up, even if the stock price itself stays the same.
+Volatility is how much a stock's price goes up and down. When [volatility](/wiki/volatility-trading-strategies) is high, deep out of the money options can become more valuable. This is because there's a bigger chance the stock price will move enough to make these options profitable. So, if a stock is expected to have big price swings, the price of deep out of the money options will go up, even if the stock price itself stays the same.
 
 On the other hand, when volatility is low, deep out of the money options become less valuable. This is because there's less chance the stock will move enough to make these options worth anything. So, if a stock is expected to stay pretty steady, the price of deep out of the money options will go down. This makes them even cheaper to buy, but also even less likely to pay off.
 
@@ -116,13 +116,13 @@ $$
 
 where $V$ is the option's price and $S$ is the price of the underlying asset. Traders continuously adjust their position size to maintain a delta-neutral portfolio, thus mitigating risk.
 
-These strategies, when integrated with algorithmic trading techniques, offer enhanced efficiency and precision in capturing the opportunities presented by DOTM options.
+These strategies, when integrated with [algorithmic trading](/wiki/algorithmic-trading) techniques, offer enhanced efficiency and precision in capturing the opportunities presented by DOTM options.
 
 ## What is Risk Management in DOTM Options?
 
 Risk management is a critical component of trading deep out of the money (DOTM) options due to their inherent high risk and volatility. Effective risk management strategies help traders mitigate potential losses while maximizing the unique opportunities DOTM options present.
 
-Volatility management and position sizing are fundamental to controlling risk in DOTM options. Volatility, often measured by the standard deviation of returns, indicates the extent of price fluctuations and is a sensitive factor in options pricing. The higher the volatility, the greater the potential profit or loss from trading DOTM options. Therefore, traders must assess the implied volatility against historical volatility to determine if the option is fairly priced and to anticipate future price movements. Position sizing strategies involve allocating a specific portion of the trading capital to each position based on the perceived risk and potential reward. This allocation should reflect the maximum acceptable loss, which can be determined using the formula:
+Volatility management and position sizing are fundamental to controlling risk in DOTM options. Volatility, often measured by the standard deviation of returns, indicates the extent of price fluctuations and is a sensitive [factor](/wiki/factor-investing) in options pricing. The higher the volatility, the greater the potential profit or loss from trading DOTM options. Therefore, traders must assess the implied volatility against historical volatility to determine if the option is fairly priced and to anticipate future price movements. Position sizing strategies involve allocating a specific portion of the trading capital to each position based on the perceived risk and potential reward. This allocation should reflect the maximum acceptable loss, which can be determined using the formula:
 
 $$
 \text{Position Size} = \frac{\text{Total Capital} \times \text{Percent Risk}}{\text{Value at Risk (VaR)}}

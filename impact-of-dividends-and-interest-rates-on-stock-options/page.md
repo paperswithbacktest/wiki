@@ -58,7 +58,7 @@ On the other hand, if interest rates are low, it might be better to wait before 
 
 ## How do changes in interest rates affect the cost of carrying options?
 
-When interest rates go up, it costs more to hold onto options. This is called the cost of carry. If you have a call option, which lets you buy stock later, you might have to pay more to keep that option because the money you're using to hold it could be earning more interest somewhere else. So, when interest rates are high, the price of call options can go up because people want to be paid more for not using their money in other ways.
+When interest rates go up, it costs more to hold onto options. This is called the cost of [carry](/wiki/carry-trading). If you have a call option, which lets you buy stock later, you might have to pay more to keep that option because the money you're using to hold it could be earning more interest somewhere else. So, when interest rates are high, the price of call options can go up because people want to be paid more for not using their money in other ways.
 
 On the other hand, if interest rates go down, the cost of holding onto options gets cheaper. When interest rates are low, the money you're using to keep your options isn't earning much interest if you put it somewhere else. This can make call options cheaper because there's less cost for holding them. For put options, which let you sell stock later, the opposite can happen. High interest rates might make put options cheaper because you can take the money from selling the stock and invest it at a higher rate.
 

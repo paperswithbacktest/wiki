@@ -18,7 +18,7 @@ To cover a budget deficit, governments usually borrow money by selling bonds. Th
 
 A budget deficit is calculated by subtracting the total amount of money a government earns from the total amount it spends in a year. The money a government earns comes mostly from taxes, like income tax and sales tax, and other sources like fees and fines. If the government spends more than it earns, the difference is the budget deficit.
 
-For example, if a government earns $100 billion in a year but spends $120 billion, the budget deficit would be $20 billion. This calculation is done every year to see if the government is spending more than it is earning. If the government earns more than it spends, it has a budget surplus instead of a deficit.
+For example, if a government earns $100 billion in a year but spends $120 billion, the budget deficit would be $20 billion. This calculation is done every year to see if the government is spending more than it is [earning](/wiki/earning-announcement). If the government earns more than it spends, it has a budget surplus instead of a deficit.
 
 ## Why do countries have budget deficits?
 

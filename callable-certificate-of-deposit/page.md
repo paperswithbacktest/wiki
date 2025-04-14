@@ -18,7 +18,7 @@ When you put money into a Callable CD, you agree to leave it there for a set per
 
 A Callable CD and a traditional CD are both types of savings accounts where you agree to keep your money in the bank for a certain time. With a traditional CD, you get a fixed interest rate for the entire term, and the bank can't touch your money until the CD matures. Once it matures, you get your money back plus the interest earned. This makes traditional CDs very predictable because you know exactly when you'll get your money and how much interest you'll earn.
 
-A Callable CD, on the other hand, gives the bank the option to end the CD early. This means the bank can decide to give you your money back before the agreed-upon date. Because of this risk, Callable CDs usually offer a higher interest rate than traditional CDs. If the bank calls the CD, you'll get the interest earned up to that point, but you won't get the full amount of interest you would have if the CD had gone the full term. This can be good for the bank if interest rates drop, but it adds uncertainty for you because you might not get to keep your money in the CD for as long as you planned.
+A Callable CD, on the other hand, gives the bank the option to end the CD early. This means the bank can decide to give you your money back before the agreed-upon date. Because of this risk, Callable CDs usually offer a higher [interest rate](/wiki/interest-rate-trading-strategies) than traditional CDs. If the bank calls the CD, you'll get the interest earned up to that point, but you won't get the full amount of interest you would have if the CD had gone the full term. This can be good for the bank if interest rates drop, but it adds uncertainty for you because you might not get to keep your money in the CD for as long as you planned.
 
 ## What are the benefits of investing in a Callable CD?
 
@@ -54,7 +54,7 @@ Another thing to consider is what's happening with interest rates. If you think 
 
 When interest rates change, it can have a big effect on Callable CDs. If interest rates go down, the bank might decide to call your Callable CD early. They do this because they can then offer new CDs at the lower rate. This means you might not get all the interest you expected because the CD won't last as long as you planned. So, if you think interest rates might go down, a Callable CD could be a good choice because you can lock in a higher rate before it happens.
 
-On the other hand, if interest rates go up after you buy a Callable CD, it might not be so good for you. If the bank calls your CD, you'll have to find a new place for your money. But now, the new rates might be higher than what you had with your Callable CD. You could miss out on earning more interest with a new CD at the higher rate. So, Callable CDs can be tricky because they add uncertainty to your savings plan, especially when interest rates are changing.
+On the other hand, if interest rates go up after you buy a Callable CD, it might not be so good for you. If the bank calls your CD, you'll have to find a new place for your money. But now, the new rates might be higher than what you had with your Callable CD. You could miss out on [earning](/wiki/earning-announcement) more interest with a new CD at the higher rate. So, Callable CDs can be tricky because they add uncertainty to your savings plan, especially when interest rates are changing.
 
 ## How do Callable CDs compare to other investment options like bonds or savings accounts?
 

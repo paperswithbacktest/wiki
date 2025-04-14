@@ -22,7 +22,7 @@ A convertible bond works a bit differently. Besides getting your money back with
 
 ## What are the basic financial benefits for a corporation issuing convertible bonds?
 
-When a corporation issues convertible bonds, it can enjoy lower interest rates compared to regular bonds. This is because investors are willing to accept a lower interest rate in exchange for the option to convert the bonds into stock if the company does well. This means the company can borrow money at a cheaper rate, saving on interest expenses.
+When a corporation issues convertible bonds, it can enjoy lower interest rates compared to regular bonds. This is because investors are willing to accept a lower [interest rate](/wiki/interest-rate-trading-strategies) in exchange for the option to convert the bonds into stock if the company does well. This means the company can borrow money at a cheaper rate, saving on interest expenses.
 
 Another benefit is that issuing convertible bonds can help a company delay dilution of its stock. Instead of issuing new shares right away, the company can issue bonds that might be converted into stock in the future. This gives the company more time to use the money it borrowed to grow and hopefully increase its stock price before any dilution happens. This can be a strategic way to manage the company's finances and growth.
 

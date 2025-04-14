@@ -46,7 +46,7 @@ On the other hand, when the market is wild and there's not much trading happenin
 
 ## What role does liquidity play in price impact functions?
 
-Liquidity is like how easy it is to buy or sell something without changing its price a lot. When a market has high liquidity, it means there are a lot of people buying and selling. This makes the price impact function smoother because even if you buy or sell a lot of something, the price won't change much. It's like trying to fill a big bucket with water - it takes a lot to make the water level go up.
+Liquidity is like how easy it is to buy or sell something without changing its price a lot. When a market has high [liquidity](/wiki/liquidity-risk-premium), it means there are a lot of people buying and selling. This makes the price impact function smoother because even if you buy or sell a lot of something, the price won't change much. It's like trying to fill a big bucket with water - it takes a lot to make the water level go up.
 
 When a market has low liquidity, it's harder to buy or sell things without moving the price a lot. This makes the price impact function sharper because even a small trade can push the price up or down a lot. It's like trying to fill a small cup with water - even a little bit can make the water level rise quickly. Traders need to think about liquidity when they use price impact functions to plan their trades, so they can buy or sell without causing big price changes.
 
@@ -121,7 +121,7 @@ Various models have been developed to better capture the nuances of price impact
 
    Recent advancements have introduced [machine learning](/wiki/machine-learning) techniques to capture complex, nonlinear relationships between order size, liquidity, and market conditions. For instance, regression trees and neural networks are employed to predict price impact by learning from large datasets, offering more adaptive and dynamic models than traditional approaches.
 
-Each of these models has specific applications and is chosen based on the trading context and market characteristics. As trading environments evolve, there is a continuous need for innovation in modeling methods to precisely capture price impacts and enhance algorithmic trading strategies.
+Each of these models has specific applications and is chosen based on the trading context and market characteristics. As trading environments evolve, there is a continuous need for innovation in modeling methods to precisely capture price impacts and enhance [algorithmic trading](/wiki/algorithmic-trading) strategies.
 
 ## What are the methods for modeling price impact functions?
 

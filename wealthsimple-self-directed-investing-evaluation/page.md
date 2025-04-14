@@ -64,7 +64,7 @@ In terms of features, Wealthsimple Self-Directed Investing offers a lot for both
 
 ## What kind of customer support can I expect from Wealthsimple Self-Directed Investing?
 
-Wealthsimple Self-Directed Investing offers great customer support to help you with your investments. You can reach out to them through email or live chat on their website or app. They're really good at answering questions quickly, usually within a few hours. If you need help with something specific, like how to buy a stock or what an ETF is, they'll explain it in a way that's easy to understand. They also have a lot of helpful articles and guides on their website, so you can learn about investing at your own pace.
+Wealthsimple Self-Directed Investing offers great customer support to help you with your investments. You can reach out to them through email or live chat on their website or app. They're really good at answering questions quickly, usually within a few hours. If you need help with something specific, like how to buy a stock or what an [ETF](/wiki/etf-trading-strategies) is, they'll explain it in a way that's easy to understand. They also have a lot of helpful articles and guides on their website, so you can learn about investing at your own pace.
 
 If you run into any problems with your account or have a more complicated question, Wealthsimple's support team is there to help. They're friendly and patient, making sure you get the information you need. Whether you're new to investing or have been doing it for a while, their support can make a big difference in feeling confident about your investments.
 

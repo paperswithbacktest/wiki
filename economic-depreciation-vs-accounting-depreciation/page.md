@@ -26,7 +26,7 @@ Economic depreciation and accounting depreciation are two ways to look at how an
 
 Accounting depreciation, on the other hand, is a way businesses keep track of an asset's cost over time on their financial statements. It's more about following rules and spreading out the cost of the asset evenly over its useful life. For instance, if a company buys a machine for $10,000 and expects to use it for 10 years, they might count $1,000 as an expense each year. This helps match the cost of the machine with the money it helps make, but it doesn't always show the real market value of the asset.
 
-So, while economic depreciation focuses on what the asset is actually worth in the market, accounting depreciation is more about keeping the books straight and following accounting rules. Both are important, but they give different information that businesses use for different purposes.
+So, while economic depreciation focuses on what the asset is actually worth in the market, accounting depreciation is more about keeping the [books](/wiki/algo-trading-books) straight and following accounting rules. Both are important, but they give different information that businesses use for different purposes.
 
 ## Why is it important to understand both types of depreciation?
 
@@ -64,7 +64,7 @@ Another way to estimate economic depreciation is to use industry reports and dat
 
 Accounting depreciation can affect how much tax a business has to pay. When a company uses accounting depreciation, it spreads out the cost of an asset over time. This means they can count part of the cost as an expense each year. By doing this, they lower their taxable income for that year. If a company's taxable income goes down, they pay less in taxes. So, choosing the right method of depreciation can help a business save money on taxes.
 
-Different methods of accounting depreciation can have different tax effects. For example, the declining balance method lets a business take bigger deductions in the early years. This can be good if they want to pay less tax right away. On the other hand, the straight-line method spreads the cost evenly over time, which might be better if they want a steady tax benefit each year. Businesses need to think about their tax situation and future plans when picking a depreciation method. It's a way to manage their tax bill and keep more money in their pockets.
+Different methods of accounting depreciation can have different tax effects. For example, the declining balance method lets a business take bigger deductions in the early years. This can be good if they want to pay less tax right away. On the other hand, the straight-line method spreads the cost evenly over time, which might be better if they want a steady tax benefit each year. Businesses need to think about their tax situation and future plans when [picking](/wiki/asset-class-picking) a depreciation method. It's a way to manage their tax bill and keep more money in their pockets.
 
 ## How do changes in technology or market conditions impact economic depreciation?
 
@@ -144,7 +144,7 @@ In summary, understanding and effectively applying accounting depreciation metho
 
 ## What are the tools and techniques for modeling depreciation?
 
-Python, MATLAB, and R are essential tools for modeling depreciation in algorithmic trading, offering a range of functionalities for developing custom models and improving financial insights.
+Python, MATLAB, and R are essential tools for modeling depreciation in [algorithmic trading](/wiki/algorithmic-trading), offering a range of functionalities for developing custom models and improving financial insights.
 
 Python is a versatile programming language that is particularly useful due to its extensive libraries and resources. NumPy and Pandas are key libraries that facilitate data manipulation and numerical computations, making it easier to handle large datasets typically involved in financial analysis. NumPy offers support for arrays and mathematical functions, allowing for efficient computation of depreciation schedules using formulas such as:
 

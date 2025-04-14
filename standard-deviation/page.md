@@ -84,7 +84,7 @@ They also use this information to adjust their investment plans. If they see the
 
 ## What is Understanding Standard Deviation?
 
-Standard deviation is a statistical measure that quantifies the amount of variation or dispersion in a set of numerical data values. When calculated, it tells us how much individual data points deviate from the mean or average of the dataset. Mathematically, standard deviation is represented as the square root of the variance. If we denote a dataset by $x_1, x_2, ..., x_n$, the mean ($\mu$) can be calculated as:
+Standard deviation is a statistical measure that quantifies the amount of variation or [dispersion](/wiki/dispersion-trading) in a set of numerical data values. When calculated, it tells us how much individual data points deviate from the mean or average of the dataset. Mathematically, standard deviation is represented as the square root of the variance. If we denote a dataset by $x_1, x_2, ..., x_n$, the mean ($\mu$) can be calculated as:
 
 $$
 \mu = \frac{1}{n} \sum_{i=1}^{n} x_i

@@ -18,7 +18,7 @@ The VIX is important because it helps investors understand how risky the market 
 
 The VIX, or Volatility Index, reflects market volatility by measuring how much the stock market expects prices to change in the future. It does this by looking at the prices of options, which are financial contracts that give people the right to buy or sell stocks at specific prices. When people think the market will be more unpredictable and prices will move a lot, they buy more options to protect themselves. This increased demand for options pushes the VIX higher, showing that the market is expecting more volatility.
 
-On the other hand, when people think the market will stay calm and prices won't change much, they don't buy as many options. This lower demand for options causes the VIX to go down, signaling that the market expects less volatility. So, the VIX acts like a gauge of the market's nervousness, helping investors understand how much uncertainty there is and how much they should be prepared for big swings in stock prices.
+On the other hand, when people think the market will stay calm and prices won't change much, they don't buy as many options. This lower demand for options causes the VIX to go down, signaling that the market expects less [volatility](/wiki/volatility-trading-strategies). So, the VIX acts like a gauge of the market's nervousness, helping investors understand how much uncertainty there is and how much they should be prepared for big swings in stock prices.
 
 ## What are the basic principles of trading the VIX?
 

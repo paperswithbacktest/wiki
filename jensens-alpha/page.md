@@ -24,7 +24,7 @@ So, Jensen came up with a measure that compares the actual returns of a portfoli
 
 Jensen's alpha is a way to see if a portfolio is doing better or worse than you would expect based on its risk. To calculate it, you start with the actual return of the portfolio. Then, you subtract the expected return. The expected return is figured out using something called the Capital Asset Pricing Model, or CAPM for short. CAPM looks at the risk-free rate of return, which is like the return you get from super safe investments like government bonds, and the return of the whole market. It also considers how risky the portfolio is compared to the market, which is called the portfolio's beta.
 
-So, the formula for Jensen's alpha is: Alpha = Actual Return - Expected Return. The expected return part of the formula is: Expected Return = Risk-Free Rate + Beta * (Market Return - Risk-Free Rate). If the alpha is positive, it means the portfolio did better than expected for its level of risk. If it's negative, the portfolio did worse than expected. This helps investors see if a portfolio manager is really good at picking investments or if they're just taking on a lot of risk.
+So, the formula for Jensen's alpha is: Alpha = Actual Return - Expected Return. The expected return part of the formula is: Expected Return = Risk-Free Rate + Beta * (Market Return - Risk-Free Rate). If the alpha is positive, it means the portfolio did better than expected for its level of risk. If it's negative, the portfolio did worse than expected. This helps investors see if a portfolio manager is really good at [picking](/wiki/asset-class-picking) investments or if they're just taking on a lot of risk.
 
 ## What does a positive Jensen's alpha indicate?
 

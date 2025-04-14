@@ -40,7 +40,7 @@ Negative rollover is when you have to pay money to keep your trade open overnigh
 
 ## How does the time of day impact rollover in forex trading?
 
-The time of day impacts rollover in forex trading because it happens at the end of the trading day. Most brokers consider the end of the trading day to be 5 p.m. Eastern Time, which is when the New York market closes. If you keep your trade open past this time, you will either earn or pay interest based on the interest rate difference between the two currencies you are trading. So, if you want to avoid the rollover, you need to close your trade before 5 p.m. Eastern Time.
+The time of day impacts rollover in [forex](/wiki/forex-system) trading because it happens at the end of the trading day. Most brokers consider the end of the trading day to be 5 p.m. Eastern Time, which is when the New York market closes. If you keep your trade open past this time, you will either earn or pay interest based on the interest rate difference between the two currencies you are trading. So, if you want to avoid the rollover, you need to close your trade before 5 p.m. Eastern Time.
 
 Knowing when the rollover happens can help you plan your trades better. If you think you will earn interest from the rollover, you might want to keep your trade open past 5 p.m. Eastern Time. But if you will have to pay interest, you might want to close your trade before that time. This way, you can make sure the rollover works in your favor and helps you make more money from your trades.
 
@@ -58,9 +58,9 @@ A common practice among brokers is to show the swap rates clearly so traders can
 
 ## Can rollover be used as part of a trading strategy?
 
-Yes, rollover can be used as part of a trading strategy. Some traders use a strategy called "carry trading," where they hold onto a currency with a higher interest rate and sell a currency with a lower interest rate. This way, they can earn interest every day they keep the trade open. For example, if a trader buys the Australian dollar (which often has a higher interest rate) and sells the Japanese yen (which often has a lower interest rate), they can earn interest on the difference between the two rates. This can add up over time and make the trade more profitable.
+Yes, rollover can be used as part of a trading strategy. Some traders use a strategy called "[carry](/wiki/carry-trading) trading," where they hold onto a currency with a higher interest rate and sell a currency with a lower interest rate. This way, they can earn interest every day they keep the trade open. For example, if a trader buys the Australian dollar (which often has a higher interest rate) and sells the Japanese yen (which often has a lower interest rate), they can earn interest on the difference between the two rates. This can add up over time and make the trade more profitable.
 
-However, using rollover in a trading strategy also has risks. Interest rates can change, and if the currency with the higher interest rate loses value, the trader could lose money even if they are earning interest. It's important for traders to watch the news and understand how economic changes might affect interest rates. By carefully planning their trades and keeping an eye on the market, traders can use rollover to their advantage and make their trading strategy more successful.
+However, using rollover in a trading strategy also has risks. Interest rates can change, and if the currency with the higher interest rate loses value, the trader could lose money even if they are [earning](/wiki/earning-announcement) interest. It's important for traders to watch the news and understand how economic changes might affect interest rates. By carefully planning their trades and keeping an eye on the market, traders can use rollover to their advantage and make their trading strategy more successful.
 
 ## What are the tax implications of rollover gains or losses?
 

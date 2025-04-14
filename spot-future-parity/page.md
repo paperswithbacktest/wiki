@@ -138,7 +138,7 @@ where:
 - $S$ is the spot price
 - $i_d$ and $i_f$ are the domestic and foreign interest rates, respectively
 
-CIRP ensures that there is no arbitrage opportunity arising from interest rate differentials between two currencies. In developed markets, CIRP holds firmly due to high liquidity and efficiency, making arbitrage less common. However, in emerging markets, spot-future disparities can occur due to capital controls and market inefficiencies, offering arbitrage opportunities for traders who can navigate these complexities.
+CIRP ensures that there is no arbitrage opportunity arising from interest rate differentials between two currencies. In developed markets, CIRP holds firmly due to high [liquidity](/wiki/liquidity-risk-premium) and efficiency, making arbitrage less common. However, in emerging markets, spot-future disparities can occur due to capital controls and market inefficiencies, offering arbitrage opportunities for traders who can navigate these complexities.
 
 ### Commodities
 In commodity markets, spot-future parity is influenced by several factors, including storage costs, interest rates, and convenience yields. The formula often used for parity in commodities is:

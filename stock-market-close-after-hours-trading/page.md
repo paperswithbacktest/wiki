@@ -64,7 +64,7 @@ You can also use stop orders during after-hours trading. A stop order becomes a 
 
 ## How do liquidity and volatility impact after-hours trading?
 
-Liquidity and volatility can make after-hours trading different from regular trading. Liquidity means how easy it is to buy or sell a stock. During after-hours trading, there are fewer people trading, so there's less liquidity. This means it can be harder to buy or sell the stock you want because there aren't as many people to trade with. If you want to buy or sell a lot of stock, it might be harder to find someone to trade with, and the price might change a lot because of your trade.
+Liquidity and [volatility](/wiki/volatility-trading-strategies) can make after-hours trading different from regular trading. Liquidity means how easy it is to buy or sell a stock. During after-hours trading, there are fewer people trading, so there's less [liquidity](/wiki/liquidity-risk-premium). This means it can be harder to buy or sell the stock you want because there aren't as many people to trade with. If you want to buy or sell a lot of stock, it might be harder to find someone to trade with, and the price might change a lot because of your trade.
 
 Volatility means how much the price of a stock can change. After-hours trading can be more volatile because there are fewer trades happening. This means that even small trades can move the price a lot more than during the day. If there's news or an event after the market closes, it can make people want to buy or sell the stock, which can make the price go up or down quickly. So, after-hours trading can be riskier because the prices can change a lot more.
 

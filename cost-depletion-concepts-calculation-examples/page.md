@@ -72,7 +72,7 @@ Another mistake is not keeping good records. Companies need to keep track of how
 
 ## How does cost depletion affect the valuation of natural resources?
 
-Cost depletion affects the valuation of natural resources by spreading out the cost of getting the resource over the time it's used. When a company starts with a natural resource like oil or minerals, they figure out how much it cost to find and get it out of the ground. As they take out the resource, they subtract part of this cost from the total value each year. This means the value of the resource on the company's books goes down over time, showing that the resource is being used up.
+Cost depletion affects the valuation of natural resources by spreading out the cost of getting the resource over the time it's used. When a company starts with a natural resource like oil or minerals, they figure out how much it cost to find and get it out of the ground. As they take out the resource, they subtract part of this cost from the total value each year. This means the value of the resource on the company's [books](/wiki/algo-trading-books) goes down over time, showing that the resource is being used up.
 
 This method helps companies match the cost of the resource with the money they make from selling it. By doing this, they can show a more accurate picture of their profits. If a company doesn't account for cost depletion, the value of their natural resources might look too high on their financial statements. This could make their business look more valuable than it really is, which can be a problem for investors and tax authorities.
 

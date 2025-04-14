@@ -18,7 +18,7 @@ Historically, people used gold as money because it was valuable and easy to trad
 
 Today, gold still works as another kind of money. People can buy and sell gold like they do with dollars or euros. Some people keep gold bars or coins at home or in safe places like banks. They think gold is a good way to keep their money safe, especially when the regular money, like dollars, might lose value because of inflation or other problems.
 
-Gold is also used in something called "gold-backed cryptocurrencies." These are like digital money that is tied to the value of gold. If you own this kind of cryptocurrency, it's like you own a piece of gold, but it's easier to use online. This way, gold helps people around the world trade with each other without worrying about their own country's money changing in value.
+Gold is also used in something called "gold-backed cryptocurrencies." These are like digital money that is tied to the value of gold. If you own this kind of [cryptocurrency](/wiki/cryptocurrency), it's like you own a piece of gold, but it's easier to use online. This way, gold helps people around the world trade with each other without worrying about their own country's money changing in value.
 
 ## What are the advantages of using gold as a currency compared to traditional fiat money?
 
@@ -28,7 +28,7 @@ Another advantage is that gold is real and you can touch it. With regular money,
 
 ## What are the disadvantages or challenges of using gold as a currency?
 
-Using gold as money can be hard because it's not easy to carry around. Gold is heavy and takes up a lot of space. If you want to buy something small, like a candy bar, you can't just give someone a piece of gold. You would need to break it into tiny pieces, but that's not easy to do. Also, if you need to buy something quickly, you can't just use gold because not everyone will accept it. You might have to find someone who wants gold and is willing to trade it for what you need.
+Using gold as money can be hard because it's not easy to [carry](/wiki/carry-trading) around. Gold is heavy and takes up a lot of space. If you want to buy something small, like a candy bar, you can't just give someone a piece of gold. You would need to break it into tiny pieces, but that's not easy to do. Also, if you need to buy something quickly, you can't just use gold because not everyone will accept it. You might have to find someone who wants gold and is willing to trade it for what you need.
 
 Another problem is that the price of gold can change a lot. One day, gold might be worth a lot of money, and the next day, it might be worth less. This can make it hard to know how much things cost if you're using gold to buy them. Plus, if everyone starts using gold instead of regular money, it could make the price of gold go up a lot, which could cause problems for the economy. Governments also can't control the amount of gold like they can with regular money, so it's harder for them to make sure the economy stays stable.
 

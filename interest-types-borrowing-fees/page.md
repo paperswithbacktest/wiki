@@ -18,7 +18,7 @@ The amount of interest you pay can change based on different things. For example
 
 Interest on loans is calculated using the interest rate, the amount of money borrowed, and the time it takes to pay back the loan. The interest rate is a percentage that tells you how much extra you have to pay for borrowing the money. If you borrow $100 with an interest rate of 10%, you will have to pay an extra $10 in interest. The amount of money you borrow is called the principal. The longer it takes to pay back the loan, the more interest you will have to pay.
 
-There are two main ways to calculate interest: simple interest and compound interest. Simple interest is easy to understand. It's just the interest rate times the principal times the number of years you borrow the money. For example, if you borrow $1,000 for 2 years at a 5% interest rate, the simple interest would be $1,000 x 0.05 x 2 = $100. Compound interest is a bit more complicated. It's when the interest gets added to the principal, and then you pay interest on the new, bigger amount. This can make the amount of interest you pay grow faster over time.
+There are two main ways to calculate interest: simple interest and compound interest. Simple interest is easy to understand. It's just the [interest rate](/wiki/interest-rate-trading-strategies) times the principal times the number of years you borrow the money. For example, if you borrow $1,000 for 2 years at a 5% interest rate, the simple interest would be $1,000 x 0.05 x 2 = $100. Compound interest is a bit more complicated. It's when the interest gets added to the principal, and then you pay interest on the new, bigger amount. This can make the amount of interest you pay grow faster over time.
 
 ## What are the different types of interest rates?
 

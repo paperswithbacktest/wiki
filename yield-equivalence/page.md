@@ -121,7 +121,7 @@ Utilization of this principle is critical for balancing portfolios in light of t
 
 ## How can yield equivalence be integrated with algorithmic trading?
 
-Combining yield equivalence with algorithmic trading can significantly enhance investment strategies by seamlessly incorporating tax considerations into algorithmic models. This integration allows for more informed decision-making, enabling algorithms to react effectively to changes in yield and optimize returns for investors.
+Combining yield equivalence with [algorithmic trading](/wiki/algorithmic-trading) can significantly enhance investment strategies by seamlessly incorporating tax considerations into algorithmic models. This integration allows for more informed decision-making, enabling algorithms to react effectively to changes in yield and optimize returns for investors.
 
 Yield finance equivalence is a critical concept used by investors to evaluate the attractiveness of different bond investment options by comparing the yields of taxable and tax-exempt securities. Employing this concept within algorithmic trading involves embedding yield equivalence calculations into trading algorithms, allowing them to consider after-tax yields when executing trades. By doing so, traders can optimize portfolios to account for both market conditions and tax implications, ultimately aiming for optimal financial outcomes.
 

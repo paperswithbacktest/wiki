@@ -170,7 +170,7 @@ Damodaran, A. (2002). *Investment Valuation: Tools and Techniques for Determinin
 
 Chan, E. (2009). *Quantitative Trading: How to Build Your Own Algorithmic Trading Business.* Wiley Trading. Ernie Chan’s publication serves as an essential resource for developing algorithmic trading systems, highlighting the integration of fundamental analysis, such as book value, with quantitative techniques to enhance trading strategies.
 
-De Prado, M. L. (2018). *Advances in Financial Machine Learning.* Wiley. Marcos López de Prado explores the intersection of finance and machine learning, providing insights into how advanced algorithms can incorporate fundamental metrics, such as book value, to identify trading opportunities and improve decision-making processes.
+De Prado, M. L. (2018). *Advances in Financial Machine Learning.* Wiley. Marcos López de Prado explores the intersection of finance and [machine learning](/wiki/machine-learning), providing insights into how advanced algorithms can incorporate fundamental metrics, such as book value, to identify trading opportunities and improve decision-making processes.
 
 Aronson, D. R. (2007). *Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals.* Wiley. David Aronson offers a critical examination of technical analysis, emphasizing the use of scientific methods to confirm trading signals. Although primarily technical, this work underscores the importance of integrating foundational financial metrics like book value to validate and enhance trading strategies.
 

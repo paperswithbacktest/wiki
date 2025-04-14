@@ -18,7 +18,7 @@ Oscillators are important in many areas of technology and science. For example, 
 
 There are several basic types of oscillators, but we can group them into two main categories: mechanical oscillators and electronic oscillators. Mechanical oscillators are devices that produce motion, like a pendulum in a grandfather clock or a spring in a watch. These use physical forces to keep swinging or vibrating back and forth. They're all around us, from the simple swing in a playground to the more complex machinery in cars and airplanes.
 
-Electronic oscillators, on the other hand, create electrical signals instead of physical motion. They are found in many devices, like radios, computers, and cell phones. A common example is a crystal oscillator, which uses a tiny piece of quartz to produce a very steady signal. This signal can help keep time in a watch or carry information in a radio broadcast. Electronic oscillators are crucial because they can produce signals that are very accurate and reliable, which is important for modern technology.
+Electronic oscillators, on the other hand, create electrical signals instead of physical motion. They are found in many devices, like radios, computers, and cell phones. A common example is a crystal oscillator, which uses a tiny piece of quartz to produce a very steady signal. This signal can help keep time in a watch or [carry](/wiki/carry-trading) information in a radio broadcast. Electronic oscillators are crucial because they can produce signals that are very accurate and reliable, which is important for modern technology.
 
 ## How does a simple harmonic oscillator work?
 
@@ -28,7 +28,7 @@ This type of motion is called simple harmonic motion because it follows a simple
 
 ## What are the main components of an electronic oscillator?
 
-An electronic oscillator needs a few key parts to work. The first part is an amplifier, which makes a small signal bigger. Think of it like turning up the volume on a radio. The second part is a feedback loop, which takes some of the output signal and sends it back to the input. This loop is like a circle that keeps the signal going round and round. The last important part is a frequency-determining component, like a crystal or a capacitor and inductor pair, which decides how fast the signal repeats. This part is like the beat that keeps the music going at the right speed.
+An electronic oscillator needs a few key parts to work. The first part is an amplifier, which makes a small signal bigger. Think of it like turning up the [volume](/wiki/volume-trading-strategy) on a radio. The second part is a feedback loop, which takes some of the output signal and sends it back to the input. This loop is like a circle that keeps the signal going round and round. The last important part is a frequency-determining component, like a crystal or a capacitor and inductor pair, which decides how fast the signal repeats. This part is like the beat that keeps the music going at the right speed.
 
 These parts work together to make the oscillator do its job. The amplifier makes the signal strong enough to keep going, and the feedback loop keeps the signal alive by sending it back to the start. The frequency-determining component makes sure the signal repeats at a steady pace. Without any of these parts, the oscillator wouldn't be able to create the repeating signal that's so important for things like keeping time in a watch or sending signals in a radio.
 
@@ -120,7 +120,7 @@ where:
 - $\text{Low}_n$ represents the lowest low over the past n periods,
 - $\text{Close}$ is the most recent closing price.
 
-To illustrate the utility of Williams %R within algorithmic trading, consider an automated trading strategy that utilizes this indicator to generate buy and sell signals based on market momentum. Our case study examines its application under different market conditions, assessing both its precision and adaptability.
+To illustrate the utility of Williams %R within [algorithmic trading](/wiki/algorithmic-trading), consider an automated trading strategy that utilizes this indicator to generate buy and sell signals based on market momentum. Our case study examines its application under different market conditions, assessing both its precision and adaptability.
 
 Imagine a trading algorithm that operates on a stock market index with the following logic: 
 - A buy signal is triggered when Williams %R crosses above -80, indicating an oversold condition.

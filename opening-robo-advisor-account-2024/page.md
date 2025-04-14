@@ -94,7 +94,7 @@ $$
 
 where $E[R_p - R_f]$ is the expected return of the portfolio minus the risk-free rate, and $\sigma_{p}$ is the standard deviation of the portfolio’s excess return.
 
-Keeping abreast of the latest fintech innovations that influence robo-advisor functions is critical for maximizing investment outcomes. For instance, advancements in [artificial intelligence](/wiki/ai-artificial-intelligence) and machine learning increasingly enable more personalized and efficient investment strategies, potentially offering investors superior returns. Staying informed about these developments ensures that investors can adequately leverage new technologies to their benefit.
+Keeping abreast of the latest fintech innovations that influence robo-advisor functions is critical for maximizing investment outcomes. For instance, advancements in [artificial intelligence](/wiki/ai-artificial-intelligence) and [machine learning](/wiki/machine-learning) increasingly enable more personalized and efficient investment strategies, potentially offering investors superior returns. Staying informed about these developments ensures that investors can adequately leverage new technologies to their benefit.
 
 Finally, investors might consider platforms that offer the option to incorporate human financial advisors into the service model. While robo-advisors are largely automated, having access to human advisors can provide personalized advice and reassurance for complex financial situations. This hybrid approach can enhance the overall investment experience by merging technological efficiency with human insight, catering to more nuanced financial planning needs.
 

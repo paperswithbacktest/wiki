@@ -24,7 +24,7 @@ This method is also important because it helps keep our conclusions honest. With
 
 Hypothesis testing starts with making a guess about something, like whether a new diet helps people lose weight. You set up two guesses: the null hypothesis, which says the diet doesn't help, and the alternative hypothesis, which says it does. Next, you collect data to test these guesses. You might weigh people before and after they try the diet to see if there's a change.
 
-After collecting the data, you use statistics to see if the data supports your guesses. You calculate a p-value, which tells you how likely it is to see your data if the null hypothesis is true. If the p-value is small, usually less than 0.05, you can reject the null hypothesis. This means the data suggests the diet might help people lose weight. If the p-value is big, you can't reject the null hypothesis, and you don't have enough evidence to say the diet works.
+After collecting the data, you use [statistics](/wiki/bayesian-statistics) to see if the data supports your guesses. You calculate a p-value, which tells you how likely it is to see your data if the null hypothesis is true. If the p-value is small, usually less than 0.05, you can reject the null hypothesis. This means the data suggests the diet might help people lose weight. If the p-value is big, you can't reject the null hypothesis, and you don't have enough evidence to say the diet works.
 
 Finally, you make a decision based on the p-value. If you reject the null hypothesis, you might say the diet seems to work, but you can't be completely sure. If you can't reject the null hypothesis, you say there's not enough evidence to say the diet helps. Either way, you've used data to make a decision about your guess, which is the core of hypothesis testing.
 
@@ -84,7 +84,7 @@ But there's more to think about. The company also checks the effect size, which 
 
 ## What are common statistical tests used in algorithmic trading?
 
-In algorithmic trading, statistical tests play a crucial role in validating trading strategies and ensuring robust decision-making. Several statistical tests are commonly employed due to their efficacy in handling different types of data and hypotheses. Among them, the t-test, chi-square test, and ANOVA (Analysis of Variance) serve as foundational tools for traders.
+In [algorithmic trading](/wiki/algorithmic-trading), statistical tests play a crucial role in validating trading strategies and ensuring robust decision-making. Several statistical tests are commonly employed due to their efficacy in handling different types of data and hypotheses. Among them, the t-test, chi-square test, and ANOVA (Analysis of Variance) serve as foundational tools for traders.
 
 ### T-Test
 

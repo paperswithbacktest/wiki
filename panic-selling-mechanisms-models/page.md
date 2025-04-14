@@ -89,7 +89,7 @@ Panic selling, a recurring phenomenon in financial markets, can lead to substant
 **Emotional Strategies:**
 
 1. **Cultivate Emotional Resilience:**
-   Emotional resilience involves the ability to remain calm under pressure. Investors can build this by practicing mindfulness or meditation, which can improve decision-making during periods of volatility.
+   Emotional resilience involves the ability to remain calm under pressure. Investors can build this by practicing mindfulness or meditation, which can improve decision-making during periods of [volatility](/wiki/volatility-trading-strategies).
 
 2. **Discipline Through Perspective:**
    Maintaining a long-term perspective is critical. By focusing on long-term goals rather than short-term fluctuations, investors can reduce the emotional impact of temporary market downturns. This involves accepting market volatility as a normal part of investing without overreacting to every movement.

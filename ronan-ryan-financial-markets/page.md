@@ -66,7 +66,7 @@ Ronan studied electronic engineering in college, but he used that knowledge to h
 
 Ronan Ryan has not produced any educational resources or publications about finance or any other subject outside of music. He is a musician, not someone who works with money or investments. He is known for being part of the band God Is an Astronaut, where he plays bass and keyboards and helps make their music.
 
-Ronan studied electronic engineering in college, but he used what he learned to help with recording and producing music, not to work in finance. So, he has not created any books, articles, or educational materials. His focus has always been on music and being part of God Is an Astronaut.
+Ronan studied electronic engineering in college, but he used what he learned to help with recording and producing music, not to work in finance. So, he has not created any [books](/wiki/algo-trading-books), articles, or educational materials. His focus has always been on music and being part of God Is an Astronaut.
 
 ## How can someone new to finance learn from Ronan Ryan's methods?
 

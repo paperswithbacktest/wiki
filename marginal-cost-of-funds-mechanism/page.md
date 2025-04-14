@@ -18,7 +18,7 @@ This concept is used by banks to make sure they are not spending more to get mon
 
 To calculate the marginal cost of funds, banks add up all the different ways they get money, like savings accounts, certificates of deposit, and loans from other banks. They then figure out how much it costs to get one more dollar from each of these sources. This involves looking at the interest rates they pay on these sources of money. For example, if a bank pays 2% interest on savings accounts and 3% on certificates of deposit, they consider these rates when calculating the cost of one more dollar.
 
-Once they know the cost of getting one more dollar from each source, they calculate a weighted average. This means they take into account how much money comes from each source. If most of their money comes from savings accounts, the 2% rate will have a bigger impact on the final calculation than the 3% rate from certificates of deposit. The result is the marginal cost of funds, which helps the bank decide how much to charge for loans and how much to pay on savings. This way, they can make sure they are not spending more to get money than they are earning from lending it out.
+Once they know the cost of getting one more dollar from each source, they calculate a weighted average. This means they take into account how much money comes from each source. If most of their money comes from savings accounts, the 2% rate will have a bigger impact on the final calculation than the 3% rate from certificates of deposit. The result is the marginal cost of funds, which helps the bank decide how much to charge for loans and how much to pay on savings. This way, they can make sure they are not spending more to get money than they are [earning](/wiki/earning-announcement) from lending it out.
 
 ## Why is the marginal cost of funds important for banks?
 
@@ -144,7 +144,7 @@ By focusing on these calculations and comparisons, businesses can make informed 
 
 ## How does trading performance and risk management impact each other?
 
-Transaction costs, which include broker fees, bid-ask spreads, and market impact, constitute a critical component in the evaluation of trading strategy performance. For high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) strategies, these costs are particularly significant due to the high volume of trades executed over brief time intervals. According to empirical studies, even slight variations in transaction costs can dramatically affect the net profitability of these strategies.
+Transaction costs, which include broker fees, bid-ask spreads, and market impact, constitute a critical component in the evaluation of trading strategy performance. For high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) strategies, these costs are particularly significant due to the high [volume](/wiki/volume-trading-strategy) of trades executed over brief time intervals. According to empirical studies, even slight variations in transaction costs can dramatically affect the net profitability of these strategies.
 
 The risk associated with trading is multifaceted, encompassing both financial exposure and operational aspects. Incorporating transaction costs into risk management frameworks is essential to preempt potential financial losses. One common approach is to integrate these costs into the Value at Risk (VaR) calculations. The VaR can be adjusted to account for transaction costs as follows:
 
@@ -156,7 +156,7 @@ This adjustment considers not only the potential market risks but also the impac
 
 Profitability in trading hinges on the delicate balance between transaction costs and return generation. Effective strategies often involve optimizing order execution to minimize costs while maintaining desired exposure levels. Algorithmic strategies can utilize techniques such as order slicing and timing optimizations to reduce impact costs, thus enhancing overall strategy performance.
 
-Investors are encouraged to adopt comprehensive strategies that adequately weigh cost management against risk mitigation. For instance, deploying machine learning algorithms for pattern recognition in market data can improve predictive accuracy, thereby informing better decision-making regarding trade execution and risk management. By leveraging advanced statistical techniques, traders can dynamically adjust their strategies in response to shifting market conditions, thus achieving a meticulous balance.
+Investors are encouraged to adopt comprehensive strategies that adequately weigh cost management against risk mitigation. For instance, deploying [machine learning](/wiki/machine-learning) algorithms for pattern recognition in market data can improve predictive accuracy, thereby informing better decision-making regarding trade execution and risk management. By leveraging advanced statistical techniques, traders can dynamically adjust their strategies in response to shifting market conditions, thus achieving a meticulous balance.
 
 Investors should also remain vigilant about evolving regulatory and market conditions, which can affect both transaction costs and trading risks. Continuous monitoring and adaptive strategy development are paramount for maintaining competitiveness and achieving sustained success in ever-changing financial markets.
 

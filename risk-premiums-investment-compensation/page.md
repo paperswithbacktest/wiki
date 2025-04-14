@@ -64,7 +64,7 @@ Another way to see the risk premium is by looking at different types of stocks. 
 
 ## How can investors use risk premiums to make better investment decisions?
 
-Investors can use risk premiums to make better choices by comparing the extra money they might get from a risky investment to what they would get from a safe one. If the risk premium is big enough, it might be worth taking the chance. For example, if a stock has a risk premium of 7% over a government bond, an investor might decide that the potential for earning more is worth the risk. By looking at risk premiums, investors can figure out if the reward for taking a risk is good enough for them.
+Investors can use risk premiums to make better choices by comparing the extra money they might get from a risky investment to what they would get from a safe one. If the risk premium is big enough, it might be worth taking the chance. For example, if a stock has a risk premium of 7% over a government bond, an investor might decide that the potential for [earning](/wiki/earning-announcement) more is worth the risk. By looking at risk premiums, investors can figure out if the reward for taking a risk is good enough for them.
 
 Understanding risk premiums also helps investors balance their portfolios. If someone wants to earn more money and is okay with taking risks, they might put more money into stocks with high risk premiums. But if someone is more worried about losing money, they might choose safer investments with smaller risk premiums. By knowing how risk and return work together, investors can pick investments that fit their own comfort level with risk and their goals for earning money.
 
@@ -84,7 +84,7 @@ These models also take into account that risk premiums can change over time. The
 
 Risk premiums represent the additional return an investor expects to earn from an asset over a risk-free investment, serving as compensation for assuming higher risk. In finance, risk-free investments are typically government bonds due to their stability and low likelihood of default. An investor seeking higher returns by venturing into riskier assets inevitably demands a risk premium.
 
-The equity risk premium (ERP) specifically refers to the excess return investors anticipate from stock market investments. This excess return acts as a reward for the additional risks encountered in equity markets, such as market volatility and potential loss of principal. ERP is a pivotal metric, influencing equity valuations and investment choices.
+The equity risk premium (ERP) specifically refers to the excess return investors anticipate from stock market investments. This excess return acts as a reward for the additional risks encountered in equity markets, such as market [volatility](/wiki/volatility-trading-strategies) and potential loss of principal. ERP is a pivotal metric, influencing equity valuations and investment choices.
 
 Financial modeling heavily relies on risk premiums to forecast investment returns and assess asset pricing. Accurately estimating the risk premium is crucial for constructing reliable financial models and calculating the expected returns of an investment portfolio. The formula to determine the equity risk premium can be expressed as:
 
@@ -153,7 +153,7 @@ $$
 
 By utilizing CAPM, investors can estimate the appropriate equity allocation that aligns with their risk tolerance and expected returns. This approach not only provides a theoretical benchmark but also enhances the precision of market predictions and portfolio diversification.
 
-Advanced algorithms that integrate ERP offer substantial improvements in investment performance, especially in volatile markets. Such algorithms dynamically adjust investment strategies based on real-time ERP fluctuations, ensuring that portfolios are optimized for current market conditions. For example, through algorithmic trading systems, ERP can be continuously recalculated to reflect the latest market data, enabling swift adaptation to any significant market changes.
+Advanced algorithms that integrate ERP offer substantial improvements in investment performance, especially in volatile markets. Such algorithms dynamically adjust investment strategies based on real-time ERP fluctuations, ensuring that portfolios are optimized for current market conditions. For example, through [algorithmic trading](/wiki/algorithmic-trading) systems, ERP can be continuously recalculated to reflect the latest market data, enabling swift adaptation to any significant market changes.
 
 To illustrate, consider a Python implementation that uses historical market data to compute the ERP and integrate it into a portfolio optimization algorithm. By leveraging libraries such as `pandas` and `numpy`, investors can programmatically calculate ERP and make informed allocation decisions:
 

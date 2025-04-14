@@ -18,7 +18,7 @@ The size of the bid-ask spread can tell us about the stock's liquidity, which me
 
 The bid-ask spread is calculated by taking the difference between the highest price someone is willing to pay for a stock (the bid) and the lowest price someone is willing to sell it for (the ask). For example, if the highest bid for a stock is $50 and the lowest ask is $52, then the bid-ask spread is $52 - $50 = $2.
 
-This spread is important because it shows how much it might cost you to buy and then quickly sell a stock. If you buy at the ask price of $52 and then immediately sell at the bid price of $50, you lose $2 per share due to the spread. The size of the spread can also tell you about the stock's liquidity. A smaller spread means the stock is easier to trade, while a larger spread might mean it's harder to buy or sell quickly.
+This spread is important because it shows how much it might cost you to buy and then quickly sell a stock. If you buy at the ask price of $52 and then immediately sell at the bid price of $50, you lose $2 per share due to the spread. The size of the spread can also tell you about the stock's [liquidity](/wiki/liquidity-risk-premium). A smaller spread means the stock is easier to trade, while a larger spread might mean it's harder to buy or sell quickly.
 
 ## Why is the bid–ask spread important for investors?
 
@@ -64,9 +64,9 @@ However, electronic trading platforms can also make the spread bigger for some s
 
 ## What are some strategies traders use to minimize the impact of the bid–ask spread?
 
-Traders use different strategies to make the bid-ask spread less of a problem. One way is to trade stocks that have a small spread. These are usually stocks from big companies that lots of people want to trade. By picking these stocks, traders can buy and sell without losing much money on the spread. Another way is to use limit orders instead of market orders. A limit order lets you set the price you want to buy or sell at, so you can try to get a better deal than the current ask or bid price.
+Traders use different strategies to make the bid-ask spread less of a problem. One way is to trade stocks that have a small spread. These are usually stocks from big companies that lots of people want to trade. By [picking](/wiki/asset-class-picking) these stocks, traders can buy and sell without losing much money on the spread. Another way is to use limit orders instead of market orders. A limit order lets you set the price you want to buy or sell at, so you can try to get a better deal than the current ask or bid price.
 
-Another strategy is to trade during times when the market is very busy, like right when it opens or closes. More people trading means the spread might be smaller because it's easier to find someone to trade with. Some traders also look at the order book to see where other people are setting their buy and sell prices. By doing this, they can try to place their orders in a way that gets them a better price and makes the spread less of an issue.
+Another strategy is to trade during times when the market is very busy, like right when it opens or closes. More people trading means the spread might be smaller because it's easier to find someone to trade with. Some traders also look at the [order book](/wiki/order-book-trading-strategies) to see where other people are setting their buy and sell prices. By doing this, they can try to place their orders in a way that gets them a better price and makes the spread less of an issue.
 
 ## How does the bid–ask spread vary across different types of securities?
 
@@ -78,7 +78,7 @@ Options and futures also have bid-ask spreads, and these can vary a lot. Options
 
 Advanced statistical models help predict and analyze bid-ask spreads by looking at different things that can affect the spread. One common model is the autoregressive conditional heteroskedasticity (ARCH) model and its extension, the generalized autoregressive conditional heteroskedasticity (GARCH) model. These models look at how the spread changes over time and how past spreads can help predict future ones. They also consider things like how much the stock's price moves around, how many people are trading, and how easy it is to trade the stock. By using these models, traders can get a better idea of what the spread might be in the future and plan their trades better.
 
-Another useful model is the vector autoregression (VAR) model, which looks at how different things, like the stock's price, trading volume, and the spread, affect each other. This model can help traders see how changes in one thing might lead to changes in the spread. Machine learning models, like random forests and neural networks, are also used to predict bid-ask spreads. These models can look at lots of different information, like news about the company, how the market is doing, and even social media posts, to make better predictions. By using these advanced models, traders can make smarter decisions and maybe save money on trading costs.
+Another useful model is the vector autoregression (VAR) model, which looks at how different things, like the stock's price, trading [volume](/wiki/volume-trading-strategy), and the spread, affect each other. This model can help traders see how changes in one thing might lead to changes in the spread. Machine learning models, like random forests and neural networks, are also used to predict bid-ask spreads. These models can look at lots of different information, like news about the company, how the market is doing, and even social media posts, to make better predictions. By using these advanced models, traders can make smarter decisions and maybe save money on trading costs.
 
 ## What are the types of bid-ask spreads?
 
@@ -120,7 +120,7 @@ $$
 \text{Bid-Ask Spread} = \text{Ask Price} - \text{Bid Price} = 1.1172 - 1.1170 = 0.0002
 $$
 
-This spread, equivalent to 2 pips, is relatively small, denoting tight spreads typical in the EUR/USD due to its liquidity. However, during periods of low liquidity or high volatility, the spread might widen, impacting transaction costs for traders.
+This spread, equivalent to 2 pips, is relatively small, denoting tight spreads typical in the EUR/USD due to its liquidity. However, during periods of low liquidity or high [volatility](/wiki/volatility-trading-strategies), the spread might widen, impacting transaction costs for traders.
 
 ### Metals Trading Spreads: Gold and Silver versus Rare Metals
 

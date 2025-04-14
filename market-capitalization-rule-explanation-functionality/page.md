@@ -142,5 +142,5 @@ In conclusion, understanding the interplay between financial rules, such as the 
 
 9. **"Economic Shifts and Investment Rules," Federal Reserve Bank Publications.** This series of publications examines how financial rules adapt to changing economic conditions and their implications on investment strategies. [Explore publications](https://www.federalreserve.gov/publications.htm).
 
-These resources provide a deeper understanding of strategic investment planning, market capitalization, financial rules, and algorithmic trading, supporting the concepts covered in this article.
+These resources provide a deeper understanding of strategic investment planning, market capitalization, financial rules, and [algorithmic trading](/wiki/algorithmic-trading), supporting the concepts covered in this article.
 

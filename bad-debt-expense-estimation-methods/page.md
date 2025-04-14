@@ -30,7 +30,7 @@ Both methods help businesses guess how much money they might lose from customers
 
 ## How does the direct write-off method work?
 
-The direct write-off method is a way for businesses to deal with money they think they won't get back from customers. When a business knows for sure that a customer won't pay, they record that amount as a bad debt expense right away. For example, if a customer owes $500 and stops responding, the business will write off that $500 as a bad debt expense in their books.
+The direct write-off method is a way for businesses to deal with money they think they won't get back from customers. When a business knows for sure that a customer won't pay, they record that amount as a bad debt expense right away. For example, if a customer owes $500 and stops responding, the business will write off that $500 as a bad debt expense in their [books](/wiki/algo-trading-books).
 
 This method is simple and easy to use because it only deals with debts when they are known to be bad. However, it can cause problems with matching expenses to the time when the sale was made. If a sale was recorded in one year but the debt was written off in a later year, it can make the business's profits look wrong for both years. Because of this, the direct write-off method is not usually used for financial reporting under accounting rules like Generally Accepted Accounting Principles (GAAP).
 

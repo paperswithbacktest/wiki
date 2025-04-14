@@ -18,7 +18,7 @@ The PBV chart looks like a bar chart turned sideways. Each bar represents the vo
 
 A Price by Volume (PBV) chart is different from other financial charts because it focuses on showing how many shares of a stock were traded at different price levels. Unlike a line chart, which simply connects the closing prices of a stock over time, or a candlestick chart, which shows the open, high, low, and close prices for each period, a PBV chart uses bars to represent volume at specific prices. This makes it easier to see where a lot of buying or selling happened, which can be important for understanding where the stock might go next.
 
-Other charts, like bar charts or area charts, also show price movements but do not emphasize the volume aspect as clearly as a PBV chart does. For example, a volume chart might show the total number of shares traded each day, but it won't tell you at which prices those shares were traded. By looking at a PBV chart, an investor can quickly see the price levels with the most activity, helping them identify potential support and resistance levels that might not be as obvious on other types of charts.
+Other charts, like bar charts or area charts, also show price movements but do not emphasize the [volume](/wiki/volume-trading-strategy) aspect as clearly as a PBV chart does. For example, a volume chart might show the total number of shares traded each day, but it won't tell you at which prices those shares were traded. By looking at a PBV chart, an investor can quickly see the price levels with the most activity, helping them identify potential support and resistance levels that might not be as obvious on other types of charts.
 
 ## What information does a PBV chart provide to traders and investors?
 

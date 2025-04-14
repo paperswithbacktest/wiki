@@ -18,7 +18,7 @@ Math is really important in algorithmic trading because it helps make the rules 
 
 In algorithmic trading, arithmetic is used every day to do simple calculations. When a computer wants to buy or sell something, it needs to figure out how much money to use or how many shares to trade. For example, if the computer decides to buy a stock, it will use arithmetic to calculate the total cost by multiplying the number of shares by the price per share. It also uses arithmetic to keep track of profits and losses, adding up all the money made or lost from trades.
 
-Algebra is also important in algorithmic trading because it helps create the rules, or algorithms, that the computer follows. These rules often involve equations that the computer solves to make decisions. For example, an algorithm might use an equation to predict future stock prices based on past prices and other factors. The computer then uses algebra to solve this equation and decide whether to buy or sell. Algebra helps the computer understand relationships between different pieces of information, like how changes in one stock price might affect another.
+Algebra is also important in [algorithmic trading](/wiki/algorithmic-trading) because it helps create the rules, or algorithms, that the computer follows. These rules often involve equations that the computer solves to make decisions. For example, an algorithm might use an equation to predict future stock prices based on past prices and other factors. The computer then uses algebra to solve this equation and decide whether to buy or sell. Algebra helps the computer understand relationships between different pieces of information, like how changes in one stock price might affect another.
 
 ## What role does probability play in developing trading algorithms?
 
@@ -30,7 +30,7 @@ Probability also helps manage risk in trading algorithms. Traders don't want to 
 
 Statistics is a big help in understanding market trends and making smart trading choices. By looking at lots of numbers from the past, like stock prices and how much people are buying or selling, traders can see patterns. For example, they might notice that a stock usually goes up in the summer but down in the winter. Statistics lets them figure out if these patterns are just by chance or if they really mean something. This helps traders guess what might happen next in the market.
 
-Using statistics also helps traders decide when to buy or sell. They can use things like averages and standard deviations to see if a stock is priced too high or too low compared to what's normal. If a stock's price is way higher than its average, a trader might think it's time to sell before the price drops. On the other hand, if the price is much lower than usual, it might be a good time to buy. By using statistics, traders can make decisions based on solid numbers instead of just guessing.
+Using [statistics](/wiki/bayesian-statistics) also helps traders decide when to buy or sell. They can use things like averages and standard deviations to see if a stock is priced too high or too low compared to what's normal. If a stock's price is way higher than its average, a trader might think it's time to sell before the price drops. On the other hand, if the price is much lower than usual, it might be a good time to buy. By using statistics, traders can make decisions based on solid numbers instead of just guessing.
 
 ## What are the applications of calculus in optimizing trading strategies?
 
@@ -60,7 +60,7 @@ One way machine learning and math work together is by using something called neu
 
 Time series analysis is really important in algorithmic trading because it helps traders understand how stock prices change over time. It looks at past prices and other data to find patterns. For example, it can show if a stock usually goes up on certain days or if it follows a certain trend. By understanding these patterns, traders can make better guesses about what the stock might do next. This helps them decide when to buy or sell to make more money.
 
-Time series analysis also helps traders manage risk. It can show how much stock prices might move around, which is called volatility. If a stock's price jumps a lot, it's riskier to trade. By using time series analysis, traders can figure out how much risk they're taking and adjust their strategies to be safer. This way, they can protect their money while still trying to make profits. So, time series analysis is a key tool for making smart trading decisions.
+Time series analysis also helps traders manage risk. It can show how much stock prices might move around, which is called [volatility](/wiki/volatility-trading-strategies). If a stock's price jumps a lot, it's riskier to trade. By using time series analysis, traders can figure out how much risk they're taking and adjust their strategies to be safer. This way, they can protect their money while still trying to make profits. So, time series analysis is a key tool for making smart trading decisions.
 
 ## How are stochastic processes applied in modeling financial markets?
 
@@ -78,7 +78,7 @@ Another challenge is that math models can be hard to understand and use. Not eve
 
 To validate and backtest mathematical models used in algorithmic trading, you need to check if the model works well with past data. This means you take the model and see how it would have done if you used it to trade in the past. You look at old stock prices and other information, and then you run the model to see what trades it would have suggested. If the model made good choices and would have made money, that's a good sign. But if it made bad choices and would have lost money, you know you need to fix the model or try a different one.
 
-Backtesting also helps you see if the model is too simple or too complicated. Sometimes a model might work well with past data but not be good for real trading because it's too simple and can't handle new situations. Other times, a model might be too complicated and just fit the past data by chance, without really understanding what's going on in the market. By backtesting, you can find these problems and make the model better. It's like practicing with old games to get ready for the real game, making sure your strategy is strong before you use it for real.
+Backtesting also helps you see if the model is too simple or too complicated. Sometimes a model might work well with past data but not be good for real trading because it's too simple and can't handle new situations. Other times, a model might be too complicated and just fit the past data by chance, without really understanding what's going on in the market. By [backtesting](/wiki/backtesting), you can find these problems and make the model better. It's like practicing with old games to get ready for the real game, making sure your strategy is strong before you use it for real.
 
 ## How has the evolution of mathematics influenced trading?
 

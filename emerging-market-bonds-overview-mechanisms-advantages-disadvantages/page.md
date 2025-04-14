@@ -52,7 +52,7 @@ Another risk is that these countries might have more political problems. If ther
 
 One big advantage of investing in emerging market bonds is that they can offer higher returns. Because these bonds are riskier, they often pay more interest than bonds from developed countries. This means you could earn more money if everything goes well. Also, investing in these bonds can help you spread out your investments. Instead of putting all your money in one place, you can invest in different countries and companies. This can make your overall investment safer because if one bond does badly, the others might still do well.
 
-Another advantage is that emerging markets often grow faster than developed markets. This means the countries and companies issuing the bonds might do better in the future, making your bonds worth more. Also, by investing in these bonds, you can be part of the growth and development of these countries. It's a way to support their progress while potentially earning a good return on your investment.
+Another advantage is that emerging markets often grow faster than developed markets. This means the countries and companies issuing the bonds might do better in the future, making your bonds worth more. Also, by investing in these bonds, you can be part of the growth and development of these countries. It's a way to support their progress while potentially [earning](/wiki/earning-announcement) a good return on your investment.
 
 ## Can you explain the yield and return characteristics of emerging market bonds?
 

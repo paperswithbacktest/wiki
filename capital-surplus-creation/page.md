@@ -88,7 +88,7 @@ Another advanced strategy is to use the capital surplus for stock buybacks. When
 
 ### Case Studies and Real-world Applications
 
-The integration of capital surplus with algorithmic trading has provided numerous companies with opportunities to enhance financial performance and shareholder value. This exploration highlights case studies and applications demonstrating successful utilization of these financial resources and technologies.
+The integration of capital surplus with [algorithmic trading](/wiki/algorithmic-trading) has provided numerous companies with opportunities to enhance financial performance and shareholder value. This exploration highlights case studies and applications demonstrating successful utilization of these financial resources and technologies.
 
 One prominent example is Renaissance Technologies, a [hedge fund](/wiki/hedge-fund-trading-strategies) known for its extensive use of algorithmic trading strategies. Renaissance leverages its capital surplus to invest heavily in developing advanced algorithms and managing extensive data sets. This financial capability allows for continual improvement and adaptation of trading strategies, contributing to its impressive historical performance. Renaissance's strategic use of equity capital ensures sufficient resources are allocated towards technological innovation, keeping the firm competitive amidst evolving market conditions.
 
@@ -103,7 +103,7 @@ $$
 
 where $E(R_i)$ is the expected return, $R_f$ is the risk-free rate, and $\sigma_i$ is the standard deviation of the portfolio's excess return. By investing in advanced technology and data analytics, companies can enhance the expected return $E(R_i)$ without proportionally increasing risk $\sigma_i$.
 
-A real-world example of technological advancement in trading strategies is Two Sigma. Known for applying sophisticated machine learning algorithms to trading, Two Sigma harnesses capital surplus to research and develop proprietary models. These models analyze vast amounts of historical and real-time data to identify profitable trading opportunities efficiently. The ability to consistently update and refine algorithms ensures Two Sigma maintains its edge in the competitive trading environment.
+A real-world example of technological advancement in trading strategies is Two Sigma. Known for applying sophisticated [machine learning](/wiki/machine-learning) algorithms to trading, Two Sigma harnesses capital surplus to research and develop proprietary models. These models analyze vast amounts of historical and real-time data to identify profitable trading opportunities efficiently. The ability to consistently update and refine algorithms ensures Two Sigma maintains its edge in the competitive trading environment.
 
 These case studies signify the importance of strategic financial planning in leveraging equity financing and capital surplus. As companies continue to innovate in algorithmic trading, they set benchmarks for achieving remarkable growth, thereby increasing shareholder value and promoting market efficiency. Through these examples, the transformative potential of integrating financial resources with technology in trading becomes evident, paving the way for future advancements.
 

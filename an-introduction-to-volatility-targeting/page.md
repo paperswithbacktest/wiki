@@ -48,7 +48,7 @@ Another common method is using derivatives, like options and futures, to manage 
 
 Volatility scaling is a way to adjust how much you invest in something based on how much its price is expected to move up or down. Imagine you have a bucket of water and you want to keep the water level steady, even if the bucket is being shaken. If the bucket starts shaking a lot, you might take some water out to keep the level from spilling over. In investing, if the market starts to move a lot, you might reduce how much you invest in it to keep your risk at a comfortable level.
 
-To do volatility scaling, you first need to guess how much the market will move, which is called volatility forecasting. Once you have that guess, you can change how much you invest in different things to keep your overall risk at the level you want. It's like always adjusting the volume on your radio to keep the sound just right, even if the music gets louder or softer. By doing this, you can try to keep your investments steady, even when the market is going through ups and downs.
+To do volatility scaling, you first need to guess how much the market will move, which is called volatility forecasting. Once you have that guess, you can change how much you invest in different things to keep your overall risk at the level you want. It's like always adjusting the [volume](/wiki/volume-trading-strategy) on your radio to keep the sound just right, even if the music gets louder or softer. By doing this, you can try to keep your investments steady, even when the market is going through ups and downs.
 
 ## What are the potential benefits of using a volatility targeting approach?
 
@@ -70,7 +70,7 @@ But, volatility targeting might not be as good in markets that are going down a 
 
 ## What advanced techniques can be used to enhance a volatility targeting strategy?
 
-One advanced technique to enhance a volatility targeting strategy is using machine learning. Machine learning can help guess how much the market will move better than just using old data. It can look at a lot of different things at once, like news, how people feel about the market, and past prices. By using all this information, machine learning can make smarter guesses about future market moves. This can help investors adjust their investments more accurately to keep their risk at the right level.
+One advanced technique to enhance a volatility targeting strategy is using [machine learning](/wiki/machine-learning). Machine learning can help guess how much the market will move better than just using old data. It can look at a lot of different things at once, like news, how people feel about the market, and past prices. By using all this information, machine learning can make smarter guesses about future market moves. This can help investors adjust their investments more accurately to keep their risk at the right level.
 
 Another technique is using more complex financial tools like options and futures. These tools let investors bet on where prices will go without actually buying the stocks or bonds. By using these tools, investors can protect their investments from big swings in the market. For example, if they think the market will be very volatile, they might buy options that will pay off if the market moves a lot. This way, they can keep their investments safe even when the market is going up and down a lot.
 

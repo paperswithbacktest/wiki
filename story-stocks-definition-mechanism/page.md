@@ -30,7 +30,7 @@ Because story stocks are based on what might happen in the future, they can be r
 
 Tesla is a famous story stock. People got excited about Tesla because of its plan to make electric cars popular and change the way we think about cars. Even though Tesla wasn't making much money at first, investors believed in Elon Musk's vision for the future of transportation. They thought Tesla would grow a lot and become a big company, which is why they bought the stock. This belief in the story helped Tesla's stock price go up a lot, even when the company was losing money.
 
-Another example is Amazon. When Amazon started, it was just a website that sold books. But Jeff Bezos had a big idea to make Amazon the place where you could buy anything online. Investors bought Amazon's stock because they believed in this story, even though the company wasn't making much profit at the beginning. Over time, as Amazon grew and started making money, the stock price went up a lot. But in the early days, it was all about believing in the story of what Amazon could become.
+Another example is Amazon. When Amazon started, it was just a website that sold [books](/wiki/algo-trading-books). But Jeff Bezos had a big idea to make Amazon the place where you could buy anything online. Investors bought Amazon's stock because they believed in this story, even though the company wasn't making much profit at the beginning. Over time, as Amazon grew and started making money, the stock price went up a lot. But in the early days, it was all about believing in the story of what Amazon could become.
 
 ## What drives the value of story stocks?
 

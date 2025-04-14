@@ -24,7 +24,7 @@ Speculation is more like betting on quick price changes. Speculators buy and sel
 
 Speculators often use stocks to try and make quick profits. They buy shares of a company hoping the price will go up soon so they can sell them for more than they paid. Sometimes, they even borrow money to buy more stocks, which can make their gains bigger but also riskier. Another common way to speculate is with options and futures. These are contracts that give you the right to buy or sell something at a set price in the future. Speculators use them to bet on whether prices will go up or down without having to own the actual thing.
 
-Currencies are also popular for speculation. People trade different countries' money, like dollars or euros, trying to make money from changes in exchange rates. This is called forex trading. Commodities, like oil, gold, or wheat, are another type of financial instrument used for speculation. Traders buy and sell these goods hoping to profit from price changes. All these methods can be profitable but also come with a lot of risk because prices can be hard to predict.
+Currencies are also popular for speculation. People trade different countries' money, like dollars or euros, trying to make money from changes in exchange rates. This is called [forex](/wiki/forex-system) trading. Commodities, like oil, gold, or wheat, are another type of financial instrument used for speculation. Traders buy and sell these goods hoping to profit from price changes. All these methods can be profitable but also come with a lot of risk because prices can be hard to predict.
 
 ## What are the potential benefits of speculation for the market?
 
@@ -40,17 +40,17 @@ Another risk is that speculation can make markets unstable. When lots of people 
 
 ## How can someone start speculating in financial markets?
 
-To start speculating in financial markets, first, you need to learn about the different ways you can speculate. You can use stocks, options, futures, currencies, or commodities. Each of these has its own rules and risks, so it's important to understand them before you start. You can read books, take online courses, or even talk to people who know about speculating to learn more. Once you feel ready, you'll need to choose a broker. A broker is a company that helps you buy and sell things in the market. Make sure to pick a broker that is trusted and has good tools for speculating.
+To start speculating in financial markets, first, you need to learn about the different ways you can speculate. You can use stocks, options, futures, currencies, or commodities. Each of these has its own rules and risks, so it's important to understand them before you start. You can read [books](/wiki/algo-trading-books), take online courses, or even talk to people who know about speculating to learn more. Once you feel ready, you'll need to choose a broker. A broker is a company that helps you buy and sell things in the market. Make sure to pick a broker that is trusted and has good tools for speculating.
 
 After you've chosen a broker, you'll need to open an account and put some money in it. This money is called your capital, and it's what you'll use to buy and sell things. Start small, because speculating can be risky. It's a good idea to only use money you can afford to lose. Once your account is set up, you can start making trades. Remember to keep learning and stay updated on what's happening in the market, because things can change quickly. Speculating can be exciting, but always be careful and think about the risks.
 
 ## What are some popular strategies used by speculators?
 
-One popular strategy speculators use is called day trading. This is when they buy and sell things like stocks or currencies within the same day. They try to make small profits from the tiny changes in price that happen all the time. Day traders need to watch the market closely and be ready to make quick decisions. It can be exciting but also stressful because you need to be right a lot to make money.
+One popular strategy speculators use is called [day trading](/wiki/day-trading-spy). This is when they buy and sell things like stocks or currencies within the same day. They try to make small profits from the tiny changes in price that happen all the time. Day traders need to watch the market closely and be ready to make quick decisions. It can be exciting but also stressful because you need to be right a lot to make money.
 
 Another strategy is called swing trading. Swing traders hold onto their investments for a few days or weeks. They try to make money from bigger price changes that happen over a short time. They look for patterns in the market and try to guess where prices will go next. This strategy is a bit less stressful than day trading because you don't need to watch the market every second, but it still needs a lot of research and patience.
 
-Some speculators also use a strategy called trend following. They look for trends in the market, like if a stock's price is going up or down over time. They buy when they think the trend will keep going and sell when they think it will change. This strategy can work well if you're good at spotting trends, but it can be hard because trends can change suddenly.
+Some speculators also use a strategy called [trend following](/wiki/trend-following). They look for trends in the market, like if a stock's price is going up or down over time. They buy when they think the trend will keep going and sell when they think it will change. This strategy can work well if you're good at spotting trends, but it can be hard because trends can change suddenly.
 
 ## How do economic indicators influence speculation?
 

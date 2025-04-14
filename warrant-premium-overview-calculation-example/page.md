@@ -24,7 +24,7 @@ The warrant premium, on the other hand, is the extra amount you pay for the warr
 
 The warrant premium is influenced by several factors, one of which is the time left until the warrant expires. The more time there is before the warrant expires, the higher the premium can be. This is because there's more chance for the stock price to go up, making the warrant more valuable. Imagine you have a longer time to use your special ticket; you might be willing to pay more for that extra time because the stock could become worth a lot more.
 
-Another factor is how much the stock price might change, which is called volatility. If the stock price is expected to swing a lot, the warrant premium can be higher. This is because there's a bigger chance the stock could go way up, making the warrant very valuable. It's like betting on a horse race; if the horse could win by a lot, you might pay more for the bet. The premium also depends on things like interest rates and how the stock has been doing lately, but time and volatility are the big ones.
+Another [factor](/wiki/factor-investing) is how much the stock price might change, which is called volatility. If the stock price is expected to swing a lot, the warrant premium can be higher. This is because there's a bigger chance the stock could go way up, making the warrant very valuable. It's like betting on a horse race; if the horse could win by a lot, you might pay more for the bet. The premium also depends on things like interest rates and how the stock has been doing lately, but time and volatility are the big ones.
 
 ## How is the warrant premium calculated?
 

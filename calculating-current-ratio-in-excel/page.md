@@ -173,7 +173,7 @@ A good benchmark for the current ratio can vary significantly across industries 
 
 ### How does the current ratio affect algorithmic trading decisions?
 
-In algorithmic trading, the current ratio can be integrated as a parameter within trading strategies to assess a company's liquidity and potential risk. A lower current ratio might indicate potential liquidity issues, suggesting a higher risk profile, which could affect an algorithm’s decision to buy, hold, or sell a stock. Conversely, companies with a higher, industry-appropriate current ratio might be viewed as financially stable, influencing strategy parameters that favor long positions. Including such financial metrics can help algorithms in screening and filtering investments aligning with traders' risk appetites.
+In [algorithmic trading](/wiki/algorithmic-trading), the current ratio can be integrated as a parameter within trading strategies to assess a company's liquidity and potential risk. A lower current ratio might indicate potential liquidity issues, suggesting a higher risk profile, which could affect an algorithm’s decision to buy, hold, or sell a stock. Conversely, companies with a higher, industry-appropriate current ratio might be viewed as financially stable, influencing strategy parameters that favor long positions. Including such financial metrics can help algorithms in screening and filtering investments aligning with traders' risk appetites.
 
 ### Can Excel handle real-time trading data efficiently for algo strategies?
 

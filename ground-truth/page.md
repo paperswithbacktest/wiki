@@ -21,7 +21,7 @@ Without ground truth, it would be hard to know if our model is learning the righ
 
 ## How is ground truth data typically collected?
 
-Ground truth data is usually collected by people who are experts in the field. For example, if you're working on a project to identify different types of birds, you might ask bird experts to look at pictures and label them correctly. This way, the data you use to train your machine learning model is as accurate as possible. Sometimes, collecting ground truth data can be a big job, especially if you need a lot of data or if the task is hard. But it's really important to get it right because this data helps the model learn the correct patterns.
+Ground truth data is usually collected by people who are experts in the field. For example, if you're working on a project to identify different types of birds, you might ask bird experts to look at pictures and label them correctly. This way, the data you use to train your [machine learning](/wiki/machine-learning) model is as accurate as possible. Sometimes, collecting ground truth data can be a big job, especially if you need a lot of data or if the task is hard. But it's really important to get it right because this data helps the model learn the correct patterns.
 
 In some cases, ground truth data can also come from reliable sources like official records or sensors. For instance, if you're building a model to predict traffic, you might use data from traffic cameras or sensors on the road. This kind of data is already collected and can be used directly as ground truth. No matter how it's collected, the goal is always the same: to make sure the data is accurate and trustworthy so that the machine learning model can learn and perform well.
 

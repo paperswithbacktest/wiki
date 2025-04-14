@@ -60,7 +60,7 @@ Reconstitution, on the other hand, happens once a year. This is when the list of
 
 To be included in the STOXX European Index, companies need to meet certain rules. They must be based in Europe and have their stocks traded on a European stock exchange. The company should also be big enough, which is measured by how much it is worth in the market. This is called market capitalization. The company needs to have a certain amount of shares available for people to buy and sell, which is called free float. This makes sure the company is important enough to be part of the index.
 
-The index also looks at how much the company is traded. It needs to have enough trading activity, so people can easily buy and sell its stocks. This is called liquidity. The company should also follow the rules set by the stock exchange where it is listed. These rules help make sure the company is doing things the right way. By meeting all these criteria, a company can be part of the STOXX European Index and help show how the European market is doing.
+The index also looks at how much the company is traded. It needs to have enough trading activity, so people can easily buy and sell its stocks. This is called [liquidity](/wiki/liquidity-risk-premium). The company should also follow the rules set by the stock exchange where it is listed. These rules help make sure the company is doing things the right way. By meeting all these criteria, a company can be part of the STOXX European Index and help show how the European market is doing.
 
 ## How does the STOXX European Index handle corporate actions like mergers and acquisitions?
 
@@ -76,7 +76,7 @@ There are also other versions like the STOXX Europe 50, which is similar to the 
 
 ## How does the STOXX European Index incorporate ESG (Environmental, Social, and Governance) factors?
 
-The STOXX European Index includes ESG factors by creating special versions of the index that focus on these areas. These versions, like the STOXX Europe 600 ESG-X Index, look at how well companies are doing in terms of the environment, social issues, and how they are run. Companies that do not meet certain ESG standards might be left out of these special indexes. This helps investors who care about these issues to put their money into companies that are doing good things for the world.
+The STOXX European Index includes [ESG](/wiki/esg-investing) factors by creating special versions of the index that focus on these areas. These versions, like the STOXX Europe 600 ESG-X Index, look at how well companies are doing in terms of the environment, social issues, and how they are run. Companies that do not meet certain ESG standards might be left out of these special indexes. This helps investors who care about these issues to put their money into companies that are doing good things for the world.
 
 The way ESG factors are included in the index is by using data from companies about their ESG performance. This data is checked and scored by experts. The scores help decide which companies should be in the ESG-focused indexes. By doing this, the STOXX European Index gives investors a way to see how European companies are doing in terms of ESG, and it helps them make choices that match their values.
 

@@ -18,7 +18,7 @@ Companies usually pay dividends every three months, which is called a quarterly 
 
 The dividend rate and the dividend yield are two different things, but they are connected. The dividend rate is the actual amount of money a company pays out to its shareholders for each share they own. It can be given as a dollar amount, like $1 per share, or as a percentage of the share's price. For example, if a company says it pays a dividend rate of $1 per share, that's how much you get for each share you own.
 
-The dividend yield, on the other hand, is a percentage that shows how much the dividend rate is compared to the price of the stock. You find it by dividing the dividend rate by the stock's price and then turning that into a percentage. For example, if a stock costs $50 and the dividend rate is $1 per share, the dividend yield would be 2% (which is $1 divided by $50, then times 100 to get a percentage). The dividend yield helps investors see how much they are earning from dividends compared to what they paid for the stock.
+The dividend yield, on the other hand, is a percentage that shows how much the dividend rate is compared to the price of the stock. You find it by dividing the dividend rate by the stock's price and then turning that into a percentage. For example, if a stock costs $50 and the dividend rate is $1 per share, the dividend yield would be 2% (which is $1 divided by $50, then times 100 to get a percentage). The dividend yield helps investors see how much they are [earning](/wiki/earning-announcement) from dividends compared to what they paid for the stock.
 
 ## Why is the dividend rate important for investors?
 
@@ -120,7 +120,7 @@ Understanding these metrics aids investors in making informed decisions. Compani
 
 ## How can dividend strategies be integrated with algorithmic trading?
 
-Integrating dividend strategies with algorithmic trading offers a contemporary approach to optimizing investment outcomes. This integration leverages the computational power and speed of algorithms to automate and refine stock selection processes, focusing particularly on stocks with attractive dividend rates and sustainable payout ratios.
+Integrating dividend strategies with [algorithmic trading](/wiki/algorithmic-trading) offers a contemporary approach to optimizing investment outcomes. This integration leverages the computational power and speed of algorithms to automate and refine stock selection processes, focusing particularly on stocks with attractive dividend rates and sustainable payout ratios.
 
 One of the key advantages of algorithmic trading is its capability to process large data sets efficiently. Algorithms can be programmed to identify stocks that not only offer high dividend yields but also maintain a healthy balance between earnings and dividends. An optimal dividend strategy often seeks high dividend yield with a low payout ratio to ensure sustainability. The payout ratio is calculated as:
 

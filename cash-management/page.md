@@ -111,7 +111,7 @@ Overall, effective financial management equips organizations with the necessary 
 
 ## How can liquidity control ensure smooth operations?
 
-Liquidity control involves managing a company's assets and liabilities to ensure sufficient liquid assets are available to cover short-term obligations. This is essential for maintaining operational continuity and financial stability. Effective liquidity management not only prevents potential cash shortages but also allows businesses to meet their financial commitments in a timely manner.
+Liquidity control involves managing a company's assets and liabilities to ensure sufficient liquid assets are available to cover short-term obligations. This is essential for maintaining operational continuity and financial stability. Effective [liquidity](/wiki/liquidity-risk-premium) management not only prevents potential cash shortages but also allows businesses to meet their financial commitments in a timely manner.
 
 One fundamental technique in liquidity control is analyzing solvency ratios. These ratios measure a company's ability to meet its long-term obligations and are crucial indicators of financial health. Key solvency ratios include the current ratio and quick ratio. The current ratio is calculated by dividing current assets by current liabilities:
 

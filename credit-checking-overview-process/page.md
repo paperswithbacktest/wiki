@@ -36,7 +36,7 @@ This information helps lenders decide if you are a good risk or not. If your rep
 
 When you apply for a loan or a credit card, the lender asks for your permission to check your credit. They send your information to a credit bureau, which is a company that keeps track of how people handle their money. The credit bureau looks at your credit report, which shows if you pay your bills on time, how much debt you have, and if you have ever had problems like bankruptcy or accounts sent to collections. The credit bureau then gives the lender a credit score, which is a number that shows how good or bad your credit is.
 
-The lender uses this information to decide if they should give you the loan or credit card. If your credit report and score show that you are responsible with money, the lender feels more confident about lending to you. They might offer you a lower interest rate because they think you are less likely to miss payments. If your credit report shows problems, like late payments or too much debt, the lender might decide not to lend to you, or they might offer you a higher interest rate because they see you as a higher risk.
+The lender uses this information to decide if they should give you the loan or credit card. If your credit report and score show that you are responsible with money, the lender feels more confident about lending to you. They might offer you a lower [interest rate](/wiki/interest-rate-trading-strategies) because they think you are less likely to miss payments. If your credit report shows problems, like late payments or too much debt, the lender might decide not to lend to you, or they might offer you a higher interest rate because they see you as a higher risk.
 
 ## What are the different types of credit checks?
 
@@ -66,7 +66,7 @@ It's also good to have a mix of different types of credit, like credit cards, a 
 
 One common misconception about credit checking is that checking your own credit hurts your credit score. This isn't true. When you check your own credit, it's called a soft inquiry, and it doesn't affect your score at all. Only hard inquiries, which happen when you apply for a loan or credit card, can lower your score a little bit. So, it's a good idea to check your credit report regularly to make sure everything is correct and to keep an eye on your score.
 
-Another misconception is that you need to carry a balance on your credit card to build credit. Actually, paying off your card in full every month is better for your credit score. Keeping your balance low compared to your credit limit, ideally under 30%, shows lenders that you manage your money well. Carrying a balance just means you'll pay more in interest, which isn't good for your wallet. So, it's best to pay your card off completely each month if you can.
+Another misconception is that you need to [carry](/wiki/carry-trading) a balance on your credit card to build credit. Actually, paying off your card in full every month is better for your credit score. Keeping your balance low compared to your credit limit, ideally under 30%, shows lenders that you manage your money well. Carrying a balance just means you'll pay more in interest, which isn't good for your wallet. So, it's best to pay your card off completely each month if you can.
 
 ## How do credit checks impact loan approvals?
 
@@ -76,9 +76,9 @@ On the other hand, if your credit report shows problems like late payments or a 
 
 ## What advanced techniques are used in credit risk assessment?
 
-Credit risk assessment has gotten more advanced with the help of computers and big data. One technique is using machine learning. This is when computers learn from a lot of data to predict if someone will pay back a loan. They look at things like how much money someone makes, how they spend their money, and even what they post on social media. This helps lenders make better guesses about who is likely to pay them back and who might not.
+Credit risk assessment has gotten more advanced with the help of computers and big data. One technique is using [machine learning](/wiki/machine-learning). This is when computers learn from a lot of data to predict if someone will pay back a loan. They look at things like how much money someone makes, how they spend their money, and even what they post on social media. This helps lenders make better guesses about who is likely to pay them back and who might not.
 
-Another advanced technique is using something called alternative data. This is information that doesn't show up on a regular credit report, like if someone pays their rent on time or how they use their phone. By looking at this extra information, lenders can get a fuller picture of someone's money habits. This can be really helpful for people who don't have a long credit history or who might not show up well on a regular credit check. These new ways of looking at credit risk help lenders make smarter decisions and can give more people a chance to get a loan.
+Another advanced technique is using something called [alternative data](/wiki/best-alternative-data). This is information that doesn't show up on a regular credit report, like if someone pays their rent on time or how they use their phone. By looking at this extra information, lenders can get a fuller picture of someone's money habits. This can be really helpful for people who don't have a long credit history or who might not show up well on a regular credit check. These new ways of looking at credit risk help lenders make smarter decisions and can give more people a chance to get a loan.
 
 ## What is Understanding Financial Assessments?
 
@@ -145,7 +145,7 @@ A comprehensive credit report, therefore, becomes a critical tool for both lende
 
 ## References & Further Reading
 
-Books, articles, and online resources provide a deep understanding of financial assessments, credit analysis, and algorithmic trading. These materials are instrumental in grasping the methodologies and regulatory frameworks that shape modern financial practices.
+Books, articles, and online resources provide a deep understanding of financial assessments, credit analysis, and [algorithmic trading](/wiki/algorithmic-trading). These materials are instrumental in grasping the methodologies and regulatory frameworks that shape modern financial practices.
 
 ### Books
 1. **"Financial Statement Analysis" by Martin S. Fridson and Fernando Alvarez**  

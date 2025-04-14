@@ -20,7 +20,7 @@ Moving average lines are important in technical analysis because they help trade
 
 Another reason moving average lines are useful is that they can act as support or resistance levels. When the price of a stock gets close to its moving average line, it might bounce off it and go back in the other direction. Traders watch these lines closely because they can signal good times to buy or sell. For example, if a stock price drops to its moving average and then starts going up again, it might be a good time to buy.
 
-In addition, moving average lines can help traders spot when a trend might be changing. If a short-term moving average line crosses above a long-term moving average line, it might mean the stock is starting a new upward trend. On the other hand, if the short-term line crosses below the long-term line, it could signal the start of a downward trend. These "crossovers" are important signals that traders use to decide when to enter or exit the market.
+In addition, moving average lines can help traders spot when a trend might be changing. If a short-term moving average line crosses above a long-term moving average line, it might mean the stock is starting a new upward trend. On the other hand, if the short-term line crosses below the long-term line, it could signal the start of a downward trend. These "crossovers" are important signals that traders use to decide when to enter or [exit](/wiki/exit-strategy) the market.
 
 ## What are the most common periods used for moving average lines?
 
@@ -64,7 +64,7 @@ The implications of moving average crossovers are important for traders. A golde
 
 Yes, moving average periods can be optimized for specific stocks or markets. Traders often try different periods to see which ones work best for the stock they're looking at. For example, a stock that moves a lot might need a shorter moving average, like 10 days, to catch the quick changes. On the other hand, a stock that doesn't move much might work better with a longer moving average, like 200 days, to see the bigger trends. By testing different periods, traders can find the ones that give them the most useful information for making decisions.
 
-Optimizing moving average periods can help traders make better choices about when to buy or sell. They might use a computer program to test different periods and see which ones have worked best in the past. This is called backtesting. By looking at how well different moving average periods would have worked in the past, traders can pick the ones that seem to work best for the stock or market they're interested in. But, it's important to remember that what worked in the past might not always work in the future, so traders need to keep checking and adjusting their moving average periods.
+Optimizing moving average periods can help traders make better choices about when to buy or sell. They might use a computer program to test different periods and see which ones have worked best in the past. This is called [backtesting](/wiki/backtesting). By looking at how well different moving average periods would have worked in the past, traders can pick the ones that seem to work best for the stock or market they're interested in. But, it's important to remember that what worked in the past might not always work in the future, so traders need to keep checking and adjusting their moving average periods.
 
 ## What role do moving averages play in identifying market trends?
 

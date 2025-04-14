@@ -64,7 +64,7 @@ Another rule that Rule 10b-18 works with is Regulation M. This rule stops people
 
 ## What are common pitfalls companies face when trying to comply with Rule 10b-18?
 
-One common pitfall companies face when trying to comply with Rule 10b-18 is miscalculating the daily volume limit. The rule says a company can't buy more than 25% of the average daily trading volume over the last four weeks. If a company gets this number wrong, they might buy too many shares and break the rule without meaning to. This can happen if they don't keep good records or if they don't check the trading volume often enough.
+One common pitfall companies face when trying to comply with Rule 10b-18 is miscalculating the daily [volume](/wiki/volume-trading-strategy) limit. The rule says a company can't buy more than 25% of the average daily trading volume over the last four weeks. If a company gets this number wrong, they might buy too many shares and break the rule without meaning to. This can happen if they don't keep good records or if they don't check the trading volume often enough.
 
 Another issue is not following the timing rules correctly. Companies can only buy back shares during certain times of the day, not at the very start or end of trading. If they buy at the wrong times, they might be seen as trying to mess with the stock price, which can get them in trouble. It's important for companies to know exactly when they can buy and to stick to those times carefully.
 

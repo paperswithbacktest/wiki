@@ -76,7 +76,7 @@ The ticker symbol change is just one part of rebranding, but it's a big deal bec
 
 ## What are the best practices for companies considering a ticker symbol change?
 
-When a company thinks about changing its ticker symbol, it should start by picking a new symbol that's easy to remember and fits its new name or what it does. The company needs to check with the stock exchange to make sure the new symbol isn't already used by someone else and follows all the rules. It's also important to think about why they want to change the symbol, like if it's because of a merger or a name change. The reason behind the change can affect how investors feel about the company, so it's good to be clear about it.
+When a company thinks about changing its ticker symbol, it should start by [picking](/wiki/asset-class-picking) a new symbol that's easy to remember and fits its new name or what it does. The company needs to check with the stock exchange to make sure the new symbol isn't already used by someone else and follows all the rules. It's also important to think about why they want to change the symbol, like if it's because of a merger or a name change. The reason behind the change can affect how investors feel about the company, so it's good to be clear about it.
 
 Once the company has a new symbol picked out and approved by the stock exchange, it needs to tell everyone about the change. This means making announcements and updating the company's website so investors know what's going on. It's also a good idea to talk about the change in a way that helps investors understand why it's happening and what it means for the company. By being open and clear, the company can make sure the ticker symbol change goes smoothly and doesn't cause any confusion for investors.
 

@@ -36,7 +36,7 @@ This formula helps us understand how easy or hard it is to trade a stock without
 
 Hasbrouck's lambda formula has two main parts that help us understand how a stock's price moves after trades. The first part is sigma (σ), which is the standard deviation of the price changes that happen right after someone buys or sells the stock. Think of sigma as a way to measure how much the price usually jumps around after trades. If the price changes a lot after trades, sigma will be a bigger number.
 
-The second part of the formula is √(2π), which is the square root of two times pi. This number is always the same and comes from math used in statistics. When we divide sigma by √(2π), we get lambda. This formula tells us how sensitive the stock's price is to trades. A high lambda means the price can change a lot even with small trades, showing the stock is not very liquid. A low lambda means the price stays pretty stable after trades, showing the stock is more liquid and easier to trade.
+The second part of the formula is √(2π), which is the square root of two times pi. This number is always the same and comes from math used in [statistics](/wiki/bayesian-statistics). When we divide sigma by √(2π), we get lambda. This formula tells us how sensitive the stock's price is to trades. A high lambda means the price can change a lot even with small trades, showing the stock is not very liquid. A low lambda means the price stays pretty stable after trades, showing the stock is more liquid and easier to trade.
 
 ## How is Hasbrouck's lambda different from other liquidity measures?
 

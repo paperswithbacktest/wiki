@@ -66,7 +66,7 @@ Another thing to think about is how the IRS treats different kinds of options. I
 
 ## How do market conditions affect equity options pricing?
 
-Market conditions can really change how much equity options cost. One big thing that affects the price is how much the stock is moving around, which is called volatility. If the stock is jumping up and down a lot, the option might cost more because there's a bigger chance it could end up being worth something. Another thing is the overall mood of the market. If everyone is feeling good about the stock market and thinks prices will go up, options might be more expensive. But if people are worried and think prices will go down, options might be cheaper.
+Market conditions can really change how much equity options cost. One big thing that affects the price is how much the stock is moving around, which is called [volatility](/wiki/volatility-trading-strategies). If the stock is jumping up and down a lot, the option might cost more because there's a bigger chance it could end up being worth something. Another thing is the overall mood of the market. If everyone is feeling good about the stock market and thinks prices will go up, options might be more expensive. But if people are worried and think prices will go down, options might be cheaper.
 
 Also, interest rates and how long until the option expires can make a difference. If interest rates go up, the price of options might go up too, especially for call options. And the longer you have until the option expires, the more time there is for the stock to move in your favor, so the option might cost more. All these things together help decide how much you'll have to pay for an equity option, and they can change from day to day depending on what's happening in the market.
 
@@ -84,7 +84,7 @@ Another strategy institutional investors might use is to make their portfolios m
 
 ## Question: How can algo trading be applied to equity options according to the case study?
 
-In this case study, we investigate the implementation of algorithmic trading strategies in managing equity options portfolios. Equity options, which provide the right to purchase or sell a stock at a fixed price before a specific date, can greatly benefit from the precision and speed offered by algorithmic trading. This approach not only aims to maximize returns but also to manage risks effectively.
+In this case study, we investigate the implementation of [algorithmic trading](/wiki/algorithmic-trading) strategies in managing equity options portfolios. Equity options, which provide the right to purchase or sell a stock at a fixed price before a specific date, can greatly benefit from the precision and speed offered by algorithmic trading. This approach not only aims to maximize returns but also to manage risks effectively.
 
 ### Strategies Utilized
 

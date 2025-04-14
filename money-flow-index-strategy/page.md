@@ -24,7 +24,7 @@ After figuring out the positive and negative money flows over a set period, usua
 
 The Money Flow Index (MFI) is an important tool in technical analysis because it helps traders and investors see how money is moving in and out of a stock or other asset. It's like a special gauge that tells you if people are buying a lot (which means money is flowing in) or selling a lot (which means money is flowing out). By looking at the MFI, you can get a sense of whether the asset is getting too expensive (overbought) or too cheap (oversold). This can help you decide if it's a good time to buy or sell.
 
-The MFI is especially useful because it takes into account both the price and the volume of the asset. This makes it different from other indicators that might only look at price changes. When the MFI is over 80, it might mean the asset is overbought and could drop in price soon. When it's below 20, it might mean the asset is oversold and could go up in price. By watching these levels, traders can make smarter decisions about when to get in or out of the market.
+The MFI is especially useful because it takes into account both the price and the [volume](/wiki/volume-trading-strategy) of the asset. This makes it different from other indicators that might only look at price changes. When the MFI is over 80, it might mean the asset is overbought and could drop in price soon. When it's below 20, it might mean the asset is oversold and could go up in price. By watching these levels, traders can make smarter decisions about when to get in or out of the market.
 
 ## Can you explain the difference between MFI and other momentum indicators like the RSI?
 
@@ -108,7 +108,7 @@ $$
 \text{MFI} = 100 - \left( \frac{100}{1 + \text{Money Flow Ratio}} \right)
 $$
 
-This MFI value, which ranges between 0 and 100, provides insights into market conditions. When the MFI is above 80, it suggests the asset might be overbought, whereas an MFI below 20 indicates potential oversold conditions. This dynamic makes the MFI a valuable tool for crafting trading strategies that leverage market momentum and volume data.
+This MFI value, which ranges between 0 and 100, provides insights into market conditions. When the MFI is above 80, it suggests the asset might be overbought, whereas an MFI below 20 indicates potential oversold conditions. This dynamic makes the MFI a valuable tool for crafting trading strategies that leverage market [momentum](/wiki/momentum) and volume data.
 
 ## References & Further Reading
 

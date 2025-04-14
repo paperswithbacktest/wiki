@@ -82,7 +82,7 @@ In their risk management plan, traders can use the Kelly Criterion to help them 
 
 ## What are some practical examples and illustrations?
 
-A hypothetical example of the Kelly Criterion applied in algorithmic trading can provide clarity on its practical use. Consider a scenario where a trader is analyzing a stock with predicted price movements. If historical data suggests that the stock price has a 60% probability (p = 0.6) of increasing and a 40% probability (q = 0.4) of decreasing, and the odds (b) are calculated at 1.5, the Kelly Criterion can be applied to determine the ideal fraction of capital for investment.
+A hypothetical example of the Kelly Criterion applied in [algorithmic trading](/wiki/algorithmic-trading) can provide clarity on its practical use. Consider a scenario where a trader is analyzing a stock with predicted price movements. If historical data suggests that the stock price has a 60% probability (p = 0.6) of increasing and a 40% probability (q = 0.4) of decreasing, and the odds (b) are calculated at 1.5, the Kelly Criterion can be applied to determine the ideal fraction of capital for investment.
 
 Using the formula f* = (bp - q) / b, we find:
 

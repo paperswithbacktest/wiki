@@ -76,9 +76,9 @@ Another limitation is that the CPI doesn't always account for how people change 
 
 ## How can advanced statistical methods improve the accuracy of headline inflation forecasts based on the CPI?
 
-Advanced statistical methods can help make better guesses about headline inflation by looking at the CPI in new ways. These methods can find patterns and connections in the data that might be hard to see otherwise. For example, they can use machine learning to look at lots of different things at once, like the prices of food, gas, and other stuff, and see how they all fit together. This can help predict how prices might change in the future. Also, these methods can take into account things like how people change what they buy when prices go up, which the regular CPI might miss.
+Advanced statistical methods can help make better guesses about headline inflation by looking at the CPI in new ways. These methods can find patterns and connections in the data that might be hard to see otherwise. For example, they can use [machine learning](/wiki/machine-learning) to look at lots of different things at once, like the prices of food, gas, and other stuff, and see how they all fit together. This can help predict how prices might change in the future. Also, these methods can take into account things like how people change what they buy when prices go up, which the regular CPI might miss.
 
-Another way advanced statistics can help is by making the CPI more up-to-date. They can use real-time data from places like online shopping sites to see what people are buying right now. This can make the CPI more accurate because it shows what's happening in the economy faster. By using these new methods, economists can get a clearer picture of inflation and make better plans to keep the economy stable.
+Another way advanced [statistics](/wiki/bayesian-statistics) can help is by making the CPI more up-to-date. They can use real-time data from places like online shopping sites to see what people are buying right now. This can make the CPI more accurate because it shows what's happening in the economy faster. By using these new methods, economists can get a clearer picture of inflation and make better plans to keep the economy stable.
 
 ## What is the understanding of CPI and Headline Inflation?
 

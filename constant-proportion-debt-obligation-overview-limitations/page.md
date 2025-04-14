@@ -84,7 +84,7 @@ Another big criticism is that CPDOs use complex tools like credit derivatives to
 
 ## What are the limitations and risks of CPDOs?
 
-Constant Proportion Debt Obligations (CPDOs) are inherently susceptible to spread volatility, a condition where the difference between the yields of various financial instruments fluctuates. This volatility poses a substantial risk as it directly impacts the performance of CPDOs, which are designed to leverage small and stable spreads to achieve higher returns. When spread volatility increases, the strategy behind CPDOs can suffer, leading to severe financial losses for investors.
+Constant Proportion Debt Obligations (CPDOs) are inherently susceptible to spread [volatility](/wiki/volatility-trading-strategies), a condition where the difference between the yields of various financial instruments fluctuates. This volatility poses a substantial risk as it directly impacts the performance of CPDOs, which are designed to leverage small and stable spreads to achieve higher returns. When spread volatility increases, the strategy behind CPDOs can suffer, leading to severe financial losses for investors.
 
 One theoretical foundation for CPDOs is the Martingale betting system, which assumes the ability to exponentially increase exposure to recover from losses. The Martingale system involves doubling down on investment after each loss, with the expectation that a win would eventually recoup all previous losses and yield a profit equal to the initial stake. Mathematically, the system can be expressed using sequences to increase the bet size as follows: 
 

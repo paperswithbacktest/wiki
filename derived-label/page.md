@@ -23,7 +23,7 @@ Using derived labels can help you focus on the aspects of the data that matter m
 
 ## What are the common methods used to create derived labels?
 
-One common method to create derived labels is through binning or discretization. This involves taking a continuous variable and dividing it into different categories or bins. For example, if you have a dataset with people's ages, you might create a derived label by grouping ages into categories like "young" (18-30), "middle-aged" (31-50), and "senior" (51 and above). This helps simplify the data and makes it easier to analyze and use in machine learning models.
+One common method to create derived labels is through binning or discretization. This involves taking a continuous variable and dividing it into different categories or bins. For example, if you have a dataset with people's ages, you might create a derived label by grouping ages into categories like "young" (18-30), "middle-aged" (31-50), and "senior" (51 and above). This helps simplify the data and makes it easier to analyze and use in [machine learning](/wiki/machine-learning) models.
 
 Another method is through feature engineering, where you create new labels by combining or transforming existing variables. For instance, if you have data on a person's income and expenses, you might create a derived label called "financial status" by calculating the difference between income and expenses. If the result is positive, the label could be "saving," and if it's negative, it could be "debt." This new label can provide more insight than the original variables alone.
 

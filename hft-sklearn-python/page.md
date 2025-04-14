@@ -18,7 +18,7 @@ HFT can be good because it helps make the stock market more active and can make 
 
 Python and Sklearn can be used in High-Frequency Trading (HFT) to help make quick decisions about buying and selling stocks. Python is a popular programming language that is easy to use and has lots of tools for working with numbers and data. Sklearn, which is short for scikit-learn, is a library in Python that helps with machine learning. Machine learning is a way for computers to learn from data and make predictions. In HFT, traders can use Sklearn to build models that predict how stock prices will change in the next few seconds. These models can look at past data to find patterns and then use those patterns to decide when to buy or sell.
 
-Using Python and Sklearn together makes it easier for traders to create and test these prediction models quickly. Traders can use Sklearn's tools to train their models on large amounts of stock data. Once the models are trained, they can be used in real-time to make trading decisions. For example, if the model predicts that a stock price will go up, the trader's computer can automatically buy that stock. If the model predicts the price will go down, the computer can sell the stock. This process needs to be very fast, which is why Python's speed and Sklearn's efficient algorithms are important for HFT.
+Using Python and Sklearn together makes it easier for traders to create and test these prediction models quickly. Traders can use Sklearn's tools to train their models on large amounts of stock data. Once the models are trained, they can be used in real-time to make trading decisions. For example, if the model predicts that a stock price will go up, the trader's computer can automatically buy that stock. If the model predicts the price will go down, the computer can sell the stock. This process needs to be very fast, which is why Python's speed and Sklearn's efficient algorithms are important for [HFT](/wiki/high-frequency-trading-strategies).
 
 ## What are the basic prerequisites for starting with HFT using Python?
 
@@ -30,7 +30,7 @@ Next, you need to know about the stock market and how trading works. This includ
 
 To set up a Python environment for High-Frequency Trading (HFT), start by installing Python on your computer. You can download it from the official Python website. Once Python is installed, you'll need to set up a virtual environment to keep your HFT project organized and separate from other projects. You can create a virtual environment using the `venv` module that comes with Python. Open a command prompt or terminal, navigate to your project directory, and run the command `python -m venv hft_env` to create a new virtual environment called `hft_env`. Then, activate the environment by running `source hft_env/bin/activate` on Unix-based systems or `hft_env\Scripts\activate` on Windows.
 
-After activating the virtual environment, you need to install the necessary libraries for HFT. Use the package manager `pip` to install key libraries like Pandas for data manipulation, NumPy for numerical operations, and Sklearn for machine learning. You can install these libraries by running `pip install pandas numpy scikit-learn`. Additionally, you might need other libraries like `ccxt` for connecting to various cryptocurrency exchanges or `alpaca-trade-api` for stock market data, depending on your specific trading needs. Make sure your internet connection is fast and reliable, as HFT requires real-time data. Once everything is set up, you can start writing and testing your HFT scripts within this environment.
+After activating the virtual environment, you need to install the necessary libraries for HFT. Use the package manager `pip` to install key libraries like Pandas for data manipulation, NumPy for numerical operations, and Sklearn for [machine learning](/wiki/machine-learning). You can install these libraries by running `pip install pandas numpy scikit-learn`. Additionally, you might need other libraries like `ccxt` for connecting to various [cryptocurrency](/wiki/cryptocurrency) exchanges or `alpaca-trade-api` for stock market data, depending on your specific trading needs. Make sure your internet connection is fast and reliable, as HFT requires real-time data. Once everything is set up, you can start writing and testing your HFT scripts within this environment.
 
 ## What Sklearn tools are most useful for HFT data analysis?
 
@@ -106,7 +106,7 @@ $$
 \text{Future Price Return} = \frac{\text{Price}_{t + \Delta t} - \text{Price}_t}{\text{Price}_t}
 $$
 
-Feature engineering involves transforming raw market data from Databento into meaningful inputs for machine learning models. By crafting features such as moving averages, volatility measures, and trading volume trends, a more comprehensive dataset is constructed.
+Feature engineering involves transforming raw market data from Databento into meaningful inputs for machine learning models. By crafting features such as moving averages, [volatility](/wiki/volatility-trading-strategies) measures, and trading [volume](/wiki/volume-trading-strategy) trends, a more comprehensive dataset is constructed.
 
 In Python, this can be achieved with packages like Pandas and sklearn. Below is a simple example of how to implement such calculations:
 

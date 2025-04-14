@@ -28,7 +28,7 @@ Continuous betting is different because you can bet any amount you want. It's li
 
 ## What are the common methods used for discretizing bet sizes?
 
-One common method for discretizing bet sizes is to use fixed intervals. This means you can only bet in certain set amounts, like $1, $5, or $10. This makes it easier to choose how much to bet because you have fewer options. It's like picking from a menu with only a few choices. This method helps you think more clearly about your bets and can stop you from taking big risks.
+One common method for discretizing bet sizes is to use fixed intervals. This means you can only bet in certain set amounts, like $1, $5, or $10. This makes it easier to choose how much to bet because you have fewer options. It's like [picking](/wiki/asset-class-picking) from a menu with only a few choices. This method helps you think more clearly about your bets and can stop you from taking big risks.
 
 Another method is to use a percentage of your total money, or bankroll. For example, you might decide to bet 1%, 2%, or 5% of your money each time. This way, your bet sizes change as your total money changes. It helps you keep your bets in line with how much money you have, which can be safer. It's like adjusting your spending based on how much money you have in your pocket.
 
@@ -72,7 +72,7 @@ But, there are also some problems with using a logarithmic scale. It can be hard
 
 ## How can machine learning be applied to improve bet size discretization?
 
-Machine learning can help make bet size discretization better by looking at a lot of data and finding patterns. It can learn from past bets and see what worked well and what didn't. For example, if you bet $5 and won a lot, the machine might suggest you bet $5 again next time. It can also look at things like how often you win, how much you win, and even how you feel when you bet. By using all this information, machine learning can help you pick the best bet sizes that fit your style and goals.
+Machine learning can help make bet size discretization better by looking at a lot of data and finding patterns. It can learn from past bets and see what worked well and what didn't. For example, if you bet $5 and won a lot, the machine might suggest you bet $5 again next time. It can also look at things like how often you win, how much you win, and even how you feel when you bet. By using all this information, [machine learning](/wiki/machine-learning) can help you pick the best bet sizes that fit your style and goals.
 
 Using machine learning for bet size discretization can also make your betting safer. It can help you avoid betting too much by setting limits based on what it learns from your past bets. For example, if it sees you lose a lot when you bet big, it might suggest you bet smaller amounts. This way, you can manage your money better and take less risk. Machine learning makes it easier to make smart choices about how much to bet, so you can enjoy betting or trading without worrying too much about losing your money.
 
@@ -104,11 +104,11 @@ All these strategies aim to strike a balance between risk and reward. By optimiz
 
 ## What are the challenges and considerations?
 
-Discretizing bet size in algorithmic trading introduces several challenges and considerations that require careful attention to ensure the effective implementation of trading strategies. One significant challenge is the potential complexity involved in calculations and the necessity for robust systems to handle these computations accurately. This complexity arises from the need to break down continuous bet sizes into discrete units that are both operationally feasible and strategically optimal.
+Discretizing bet size in [algorithmic trading](/wiki/algorithmic-trading) introduces several challenges and considerations that require careful attention to ensure the effective implementation of trading strategies. One significant challenge is the potential complexity involved in calculations and the necessity for robust systems to handle these computations accurately. This complexity arises from the need to break down continuous bet sizes into discrete units that are both operationally feasible and strategically optimal.
 
 Over-optimization of bet sizes is another critical consideration, as it can inadvertently lead to increased transaction costs and slippage. Overly precise or frequent adjustments to bet size can result in a higher number of transactions, each incurring costs that may erode overall profitability. Similarly, slippage— the difference between the expected price of a trade and the actual price— can magnify, especially in a volatile market. Careful calibration of discretization parameters is essential to mitigate these risks.
 
-Traders must ensure that their chosen discretization strategy aligns with their risk tolerance and capital management plans. This requires an understanding of the statistical properties of the trading strategy, such as expected returns, volatility, and distribution of outcomes. For example, using a method like the Kelly Criterion, which maximizes logarithmic growth of capital, requires precise probabilities and payout ratios to compute the optimal bet size:
+Traders must ensure that their chosen discretization strategy aligns with their risk tolerance and capital management plans. This requires an understanding of the statistical properties of the trading strategy, such as expected returns, [volatility](/wiki/volatility-trading-strategies), and distribution of outcomes. For example, using a method like the Kelly Criterion, which maximizes logarithmic growth of capital, requires precise probabilities and payout ratios to compute the optimal bet size:
 
 $$
 f^* = \frac{bp - q}{b}

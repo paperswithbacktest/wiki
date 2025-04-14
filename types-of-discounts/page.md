@@ -60,7 +60,7 @@ These discounts help keep customers coming back because they feel like they are 
 
 ## Can you describe the mechanics of tiered pricing discounts?
 
-Tiered pricing discounts work by giving you bigger discounts the more you buy. Imagine you want to buy some books. If you buy one book, you might not get any discount. But if you buy two books, you could get a small discount, like 5% off. If you buy four books, the discount might go up to 10% off. The more books you buy, the bigger the discount you get. This is called tiered pricing because the discounts are in different levels or "tiers."
+Tiered pricing discounts work by giving you bigger discounts the more you buy. Imagine you want to buy some [books](/wiki/algo-trading-books). If you buy one book, you might not get any discount. But if you buy two books, you could get a small discount, like 5% off. If you buy four books, the discount might go up to 10% off. The more books you buy, the bigger the discount you get. This is called tiered pricing because the discounts are in different levels or "tiers."
 
 Stores use tiered pricing discounts to encourage people to buy more. When customers see that they can save more money by buying more items, they are more likely to spend more money at once. This helps the store sell more products quickly. For example, a store might say, "Buy 3 items and get 10% off, buy 5 items and get 20% off." This way, the store can move a lot of stock and the customer feels like they are getting a better deal the more they buy.
 

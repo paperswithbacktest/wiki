@@ -36,7 +36,7 @@ For some assets, like land, you don't subtract depreciation because land doesn't
 
 When doing an asset-based valuation, people often adjust the book value of assets to make it closer to what the assets are really worth today. One common adjustment is to change the value of assets to their current market value instead of their book value. For example, if a piece of land was bought for $100,000 years ago but is now worth $200,000, the valuation would use the $200,000 figure. This helps show a more accurate picture of what the company could get if it sold its assets now.
 
-Another adjustment is to account for any changes in the condition of the assets. If a machine has been used a lot and is now worn out, its value might need to be lowered more than what depreciation shows on the books. Also, sometimes companies have to add or subtract value for things that aren't on the balance sheet, like legal claims or environmental cleanup costs. These adjustments make sure the valuation reflects the true value of the company's assets in the real world.
+Another adjustment is to account for any changes in the condition of the assets. If a machine has been used a lot and is now worn out, its value might need to be lowered more than what depreciation shows on the [books](/wiki/algo-trading-books). Also, sometimes companies have to add or subtract value for things that aren't on the balance sheet, like legal claims or environmental cleanup costs. These adjustments make sure the valuation reflects the true value of the company's assets in the real world.
 
 ## How do you account for depreciation and amortization in asset-based calculations?
 
@@ -154,7 +154,7 @@ This script provides a basic demonstration of how one might adjust asset and lia
 
 ## What are the popular technical indicators used in algorithmic trading?
 
-Technical indicators are essential components in algorithmic trading strategies, providing traders with the tools to analyze market trends and make informed decisions. These indicators rely on historical price and volume data to project future market movements, forming a basis for automated trading decisions. Among the most popular indicators are Moving Averages, Supertrend, and Parabolic SAR.
+Technical indicators are essential components in [algorithmic trading](/wiki/algorithmic-trading) strategies, providing traders with the tools to analyze market trends and make informed decisions. These indicators rely on historical price and [volume](/wiki/volume-trading-strategy) data to project future market movements, forming a basis for automated trading decisions. Among the most popular indicators are Moving Averages, Supertrend, and Parabolic SAR.
 
 ### Moving Averages
 

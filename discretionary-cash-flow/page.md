@@ -104,7 +104,7 @@ Understanding and managing cash flow is thus vital for ensuring that enterprises
 
 ## References & Further Reading
 
-Learn more about algorithmic trading strategies and cash flow analysis with resources such as "Advances in Financial Machine Learning" by Marcos Lopez de Prado. This work provides comprehensive insights into the application of machine learning techniques in developing sophisticated trading systems, exploring methodologies that are essential for the modernization of trading operations.
+Learn more about [algorithmic trading](/wiki/algorithmic-trading) strategies and cash flow analysis with resources such as "Advances in Financial Machine Learning" by Marcos Lopez de Prado. This work provides comprehensive insights into the application of [machine learning](/wiki/machine-learning) techniques in developing sophisticated trading systems, exploring methodologies that are essential for the modernization of trading operations.
 
 To explore cash flow management techniques, financial analysis platforms such as Bloomberg Terminal and FactSet offer valuable tools. These platforms provide in-depth financial data, analytics, and news, empowering stakeholders to make informed decisions. They facilitate the evaluation of a company's cash flow, enabling businesses to assess liquidity positions and craft effective management strategies.
 

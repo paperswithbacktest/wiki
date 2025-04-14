@@ -82,7 +82,7 @@ Another technique is called importance sampling. This method focuses on the part
 
 ## How can Monte Carlo Simulations be applied to option pricing?
 
-Monte Carlo simulations have become an integral tool for estimating the expected value of options by generating a multitude of random scenarios. These simulations account for crucial variables such as volatility and interest rates, allowing for a comprehensive analysis of potential option pricing outcomes. 
+Monte Carlo simulations have become an integral tool for estimating the expected value of options by generating a multitude of random scenarios. These simulations account for crucial variables such as [volatility](/wiki/volatility-trading-strategies) and interest rates, allowing for a comprehensive analysis of potential option pricing outcomes. 
 
 At the core of Monte Carlo simulations lies the ability to model uncertainty and randomness in financial markets. The process begins by simulating potential future asset prices. One common technique involves modeling asset prices using a geometric Brownian motion, which is expressed mathematically as:
 

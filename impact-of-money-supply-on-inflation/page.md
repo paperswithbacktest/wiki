@@ -64,7 +64,7 @@ Another way monetary policy affects the money supply is through buying and selli
 
 ## What are the historical examples where changes in money supply significantly impacted inflation?
 
-One big example of how changing the money supply can affect inflation happened in Germany after World War I. The German government was in a lot of debt and decided to print more money to pay it off. They printed so much money that there was way more money than things to buy. This led to hyperinflation, where prices went up really fast. People had to carry wheelbarrows full of money just to buy a loaf of bread. It got so bad that money lost its value, and it made life very hard for everyone.
+One big example of how changing the money supply can affect inflation happened in Germany after World War I. The German government was in a lot of debt and decided to print more money to pay it off. They printed so much money that there was way more money than things to buy. This led to hyperinflation, where prices went up really fast. People had to [carry](/wiki/carry-trading) wheelbarrows full of money just to buy a loaf of bread. It got so bad that money lost its value, and it made life very hard for everyone.
 
 Another example is from the United States in the 1970s. During this time, the U.S. government spent a lot of money on things like the Vietnam War and social programs. To pay for all this, they increased the money supply. At the same time, there were problems with oil supplies, which made the cost of making things go up. This led to a situation called stagflation, where prices went up (inflation) but the economy wasn't growing. The Federal Reserve, which is like the U.S.'s central bank, had to raise interest rates a lot to slow down the money supply and bring inflation under control. It took a few years, but they finally managed to do it.
 
@@ -110,7 +110,7 @@ When $M$ increases rapidly, without a corresponding increase in $Q$, $P$ tends t
 
 ### Tight Money Supply and Economic Contraction
 
-Conversely, a restrictive monetary policy — one that reduces the money supply — can mitigate inflationary pressures. By increasing interest rates or enacting measures to withdraw liquidity from the economy, central banks can temper demand, stabilizing prices. However, this can lead to increased unemployment and slower economic growth, as higher borrowing costs tend to suppress consumer spending and business investment.
+Conversely, a restrictive monetary policy — one that reduces the money supply — can mitigate inflationary pressures. By increasing interest rates or enacting measures to withdraw [liquidity](/wiki/liquidity-risk-premium) from the economy, central banks can temper demand, stabilizing prices. However, this can lead to increased unemployment and slower economic growth, as higher borrowing costs tend to suppress consumer spending and business investment.
 
 The challenge lies in maintaining a balanced approach, where the money supply supports growth without destabilizing prices or pushing the economy into recession. 
 

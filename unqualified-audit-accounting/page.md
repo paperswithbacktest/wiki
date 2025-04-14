@@ -50,7 +50,7 @@ These financial statements are important because they give a clear picture of th
 
 When a company gets an unqualified audit, it means that the financial statements are correct and follow the rules. This is good news for the company because it shows everyone that the company is honest about its money. Investors, banks, and other people who care about the company's financial health can trust the numbers they see. This can make it easier for the company to get loans or attract new investors because people feel more confident about the company's financial situation.
 
-Having an unqualified audit can also help the company's reputation. It shows that the company takes its financial reporting seriously and is willing to let outsiders check its books. This can make customers, employees, and partners feel more secure about working with the company. Overall, an unqualified audit is a big thumbs-up for the company, making it easier to do business and grow.
+Having an unqualified audit can also help the company's reputation. It shows that the company takes its financial reporting seriously and is willing to let outsiders check its [books](/wiki/algo-trading-books). This can make customers, employees, and partners feel more secure about working with the company. Overall, an unqualified audit is a big thumbs-up for the company, making it easier to do business and grow.
 
 ## How does an unqualified audit affect stakeholders' perceptions of a company?
 

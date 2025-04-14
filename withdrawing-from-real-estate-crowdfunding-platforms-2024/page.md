@@ -58,7 +58,7 @@ If you invested in a rental property, you might be able to get some money back e
 
 The performance of the real estate investment can really change how easy or hard it is to take your money out. If the property is doing well and making money from rent or going up in value, it might be easier to sell your share to someone else on a secondary market. People are more likely to want to buy a share of a successful investment, so you might be able to get your money back faster. But, if the property isn't doing well and losing value, it can be much harder to find someone to buy your share. You might have to wait longer or even lose money when you sell.
 
-Also, if the investment is doing well, you might not want to take your money out right away. You could keep earning money from the rent or wait for the property to be sold at a good price. But if the investment is doing badly, you might want to get your money out as soon as you can, even if it means selling your share for less than you paid. The performance of the investment can make you think differently about when and how to withdraw your money.
+Also, if the investment is doing well, you might not want to take your money out right away. You could keep [earning](/wiki/earning-announcement) money from the rent or wait for the property to be sold at a good price. But if the investment is doing badly, you might want to get your money out as soon as you can, even if it means selling your share for less than you paid. The performance of the investment can make you think differently about when and how to withdraw your money.
 
 ## What are the differences in withdrawal policies among major real estate crowdfunding platforms?
 
@@ -88,7 +88,7 @@ On the other hand, if the rules get easier, it might be quicker and simpler to t
 
 ## What is the role of algo trading in the withdrawal process?
 
-Algorithmic trading (algo trading) significantly impacts the withdrawal process in real estate crowdfunding, allowing investors to navigate complex investment landscapes with heightened precision and efficiency. By employing sophisticated algorithms, investors can gain essential insights into optimal exit strategies, effectively predicting market trends and reducing the emotional bias often associated with manual trading.
+Algorithmic trading (algo trading) significantly impacts the withdrawal process in real estate crowdfunding, allowing investors to navigate complex investment landscapes with heightened precision and efficiency. By employing sophisticated algorithms, investors can gain essential insights into optimal [exit](/wiki/exit-strategy) strategies, effectively predicting market trends and reducing the emotional bias often associated with manual trading.
 
 ### Insights and Trend Prediction
 

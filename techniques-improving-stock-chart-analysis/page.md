@@ -30,7 +30,7 @@ In chart analysis, moving averages help in several ways. First, they can confirm
 
 ## How can volume be used to confirm trends in stock charts?
 
-Volume is the number of shares traded in a stock on a given day. It's shown at the bottom of a stock chart as a bar. When you look at volume, you can see if more people are buying or selling the stock. If the volume is high when the stock price is going up, it means a lot of people are buying, which can confirm that the uptrend is strong. On the other hand, if the volume is high when the stock price is going down, it means a lot of people are selling, which can confirm that the downtrend is strong.
+Volume is the number of shares traded in a stock on a given day. It's shown at the bottom of a stock chart as a bar. When you look at [volume](/wiki/volume-trading-strategy), you can see if more people are buying or selling the stock. If the volume is high when the stock price is going up, it means a lot of people are buying, which can confirm that the uptrend is strong. On the other hand, if the volume is high when the stock price is going down, it means a lot of people are selling, which can confirm that the downtrend is strong.
 
 Volume can also help you spot when a trend might be changing. If the stock price is going up but the volume is low, it might mean that not many people are interested in buying, and the uptrend could be weak. Similarly, if the stock price is going down but the volume is low, it might mean that not many people are selling, and the downtrend could be weak. By looking at volume along with the price, you can get a better idea of how strong a trend is and whether it might continue or change direction.
 
@@ -38,7 +38,7 @@ Volume can also help you spot when a trend might be changing. If the stock price
 
 Support and resistance levels are like invisible lines on a stock chart that show where the price of a stock might stop going down or up. Support is the price level where a stock often stops falling and starts to go back up. It's like a floor that the price bounces off of. Resistance is the opposite; it's the price level where a stock often stops rising and starts to go back down. It's like a ceiling that the price hits and can't go through easily.
 
-These levels are important for trading because they help traders decide when to buy or sell a stock. If a stock's price gets close to the support level, a trader might see it as a good time to buy because they think the price will bounce back up. On the other hand, if the price gets close to the resistance level, a trader might see it as a good time to sell because they think the price will start to go down. By watching these levels, traders can make better decisions about when to enter or exit a trade.
+These levels are important for trading because they help traders decide when to buy or sell a stock. If a stock's price gets close to the support level, a trader might see it as a good time to buy because they think the price will bounce back up. On the other hand, if the price gets close to the resistance level, a trader might see it as a good time to sell because they think the price will start to go down. By watching these levels, traders can make better decisions about when to enter or [exit](/wiki/exit-strategy) a trade.
 
 ## How can candlestick patterns improve stock chart analysis?
 
@@ -60,7 +60,7 @@ By watching these Fibonacci levels, advanced traders can make better guesses abo
 
 ## What role do Bollinger Bands play in analyzing stock volatility?
 
-Bollinger Bands help traders see how much a stock's price is moving around. They are made up of three lines on a chart: a middle line, which is a moving average of the stock's price, and two outer lines that show how far the price usually moves away from the middle line. These outer lines are called the upper and lower bands. When the stock's price is moving a lot, the bands get wider, showing more volatility. When the price isn't moving much, the bands get closer together, showing less volatility.
+Bollinger Bands help traders see how much a stock's price is moving around. They are made up of three lines on a chart: a middle line, which is a moving average of the stock's price, and two outer lines that show how far the price usually moves away from the middle line. These outer lines are called the upper and lower bands. When the stock's price is moving a lot, the bands get wider, showing more [volatility](/wiki/volatility-trading-strategies). When the price isn't moving much, the bands get closer together, showing less volatility.
 
 Traders use Bollinger Bands to make decisions about buying and selling stocks. If the price touches the upper band, it might mean the stock is getting too expensive and could start to go down soon. This could be a good time to sell. On the other hand, if the price touches the lower band, it might mean the stock is getting too cheap and could start to go up soon. This could be a good time to buy. By watching how the price moves in relation to the Bollinger Bands, traders can get a better idea of when to make their moves.
 
@@ -84,7 +84,7 @@ Another way expert traders enhance their analysis is by using Bollinger Bands to
 
 ## What are Technical Indicators for Stock Charts?
 
-Technical indicators are essential tools for traders and investors analyzing stock charts. They help in interpreting market trends, identifying momentum shifts, and predicting potential price reversals. Among the most prominent technical indicators are Moving Averages, the Moving Average Convergence Divergence (MACD), the Relative Strength Index (RSI), and Bollinger Bands.
+Technical indicators are essential tools for traders and investors analyzing stock charts. They help in interpreting market trends, identifying [momentum](/wiki/momentum) shifts, and predicting potential price reversals. Among the most prominent technical indicators are Moving Averages, the Moving Average Convergence Divergence (MACD), the Relative Strength Index (RSI), and Bollinger Bands.
 
 ### Moving Averages
 

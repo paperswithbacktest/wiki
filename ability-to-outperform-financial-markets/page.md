@@ -22,7 +22,7 @@ However, it's not easy to do better than the market. The market includes all kin
 
 ## What are the basic strategies beginners can use to try to outperform the market?
 
-One basic strategy for beginners to try to outperform the market is to invest in individual stocks. This means picking specific companies that you think will do better than the overall market. To do this, you need to research companies and look at things like their financial health, how they are doing compared to other companies, and what is happening in the world that might affect them. It's a bit like betting on a sports team - you need to know a lot about the team and the game to make a good guess. This strategy can be risky because if you pick the wrong companies, you might lose money, but if you pick the right ones, you could do better than the market.
+One basic strategy for beginners to try to outperform the market is to invest in individual stocks. This means [picking](/wiki/asset-class-picking) specific companies that you think will do better than the overall market. To do this, you need to research companies and look at things like their financial health, how they are doing compared to other companies, and what is happening in the world that might affect them. It's a bit like betting on a sports team - you need to know a lot about the team and the game to make a good guess. This strategy can be risky because if you pick the wrong companies, you might lose money, but if you pick the right ones, you could do better than the market.
 
 Another strategy is to use a method called dollar-cost averaging. This means you invest a fixed amount of money at regular times, like every month, no matter what the market is doing. Over time, this can help you buy more shares when prices are low and fewer when prices are high, which can lead to better returns. It's a simpler and less risky way to try to beat the market because it doesn't require you to pick specific stocks or try to guess when the market will go up or down. Instead, it relies on the idea that over the long term, the market tends to go up, and by investing regularly, you can take advantage of that trend.
 
@@ -88,7 +88,7 @@ In the future, it's likely that more investors will use computers and data to tr
 
 ## How can we evaluate the performance of algo trading strategies?
 
-Evaluating algorithmic trading strategies is crucial for understanding their effectiveness and managing associated risks. To accurately assess these strategies, investors rely on several key performance metrics that offer insights into both profitability and stability. 
+Evaluating [algorithmic trading](/wiki/algorithmic-trading) strategies is crucial for understanding their effectiveness and managing associated risks. To accurately assess these strategies, investors rely on several key performance metrics that offer insights into both profitability and stability. 
 
 The **Sharpe Ratio** is widely used to measure the risk-adjusted return of an investment strategy. It is calculated as:
 

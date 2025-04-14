@@ -58,7 +58,7 @@ Stocks are in the middle to high-risk part of the spectrum. When you buy stocks,
 
 ## What are the historical returns and volatility for various points on the risk-return spectrum?
 
-Historically, cash and cash equivalents like savings accounts and money market funds have had very low returns, often just keeping up with inflation or a bit more. These are super safe, so they don't go up and down a lot, which means they have low volatility. For example, over the long term, you might expect to earn about 1-2% a year from a savings account. Bonds, especially government bonds, have given a bit higher return, maybe around 3-5% a year, but they can still go up and down a bit more than cash. They're still pretty safe, but if interest rates change, their value can change too.
+Historically, cash and cash equivalents like savings accounts and money market funds have had very low returns, often just keeping up with inflation or a bit more. These are super safe, so they don't go up and down a lot, which means they have low [volatility](/wiki/volatility-trading-strategies). For example, over the long term, you might expect to earn about 1-2% a year from a savings account. Bonds, especially government bonds, have given a bit higher return, maybe around 3-5% a year, but they can still go up and down a bit more than cash. They're still pretty safe, but if interest rates change, their value can change too.
 
 Stocks have been riskier but have also given much higher returns over the long term. On average, the stock market has returned about 7-10% a year, but it can go up and down a lot. This means stocks have high volatility. For example, during a good year, stocks might go up 20%, but in a bad year, they might drop 20% or more. Real estate can be similar to stocks in terms of returns and volatility, with average returns around 5-8% a year, but it can also go up and down a lot depending on the market. At the high-risk end, things like cryptocurrencies and venture capital can have huge swings. They might give you returns of 50% or more in a good year, but they can also lose 50% or more in a bad year, making them very volatile.
 
@@ -84,7 +84,7 @@ Over time, things like interest rates, inflation, and big events like wars or pa
 
 ## What are realistic return expectations in algo trading?
 
-Setting realistic return expectations is essential for any trader involved in algorithmic trading. Although stories about stellar returns can be appealing, they often fail to account for the inherent risks associated with achieving such outcomes. In the world of algorithmic trading, where strategies are executed at an accelerated pace, balancing potential gains with an understanding of risk is crucial.
+Setting realistic return expectations is essential for any trader involved in [algorithmic trading](/wiki/algorithmic-trading). Although stories about stellar returns can be appealing, they often fail to account for the inherent risks associated with achieving such outcomes. In the world of algorithmic trading, where strategies are executed at an accelerated pace, balancing potential gains with an understanding of risk is crucial.
 
 ### Variability in Returns
 

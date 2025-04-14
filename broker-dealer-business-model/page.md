@@ -86,9 +86,9 @@ Another way broker-dealers adapt is by using new technology and changing their s
 
 ## How can Algorithmic Trading be Integrated into Broker-Dealer Services?
 
-Broker-dealers are increasingly leveraging algorithmic trading to enhance the efficiency and breadth of their services. Algorithmic trading refers to the use of computer programs and algorithms to execute trades based on pre-defined criteria, effectively automating the trading process. This integration is transforming broker-dealer operations, allowing for more sophisticated trading strategies such as [market making](/wiki/market-making) and [arbitrage](/wiki/arbitrage).
+Broker-dealers are increasingly leveraging [algorithmic trading](/wiki/algorithmic-trading) to enhance the efficiency and breadth of their services. Algorithmic trading refers to the use of computer programs and algorithms to execute trades based on pre-defined criteria, effectively automating the trading process. This integration is transforming broker-dealer operations, allowing for more sophisticated trading strategies such as [market making](/wiki/market-making) and [arbitrage](/wiki/arbitrage).
 
-Market making, a key broker-dealer function, involves providing liquidity to the markets by being ready to buy and sell securities at all times. By using algorithms, broker-dealers can optimize their market-making strategies, adjust prices dynamically, and respond swiftly to market changes. This results in tighter bid-ask spreads, increased liquidity, and reduced transaction costs for investors. The formula for calculating the bid-ask spread, a crucial metric in market making, is:
+Market making, a key broker-dealer function, involves providing [liquidity](/wiki/liquidity-risk-premium) to the markets by being ready to buy and sell securities at all times. By using algorithms, broker-dealers can optimize their market-making strategies, adjust prices dynamically, and respond swiftly to market changes. This results in tighter bid-ask spreads, increased liquidity, and reduced transaction costs for investors. The formula for calculating the bid-ask spread, a crucial metric in market making, is:
 
 $$
 \text{Bid-Ask Spread} = \frac{\text{Ask Price} - \text{Bid Price}}{\text{Mid Price}}

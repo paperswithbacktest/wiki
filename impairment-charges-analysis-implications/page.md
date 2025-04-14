@@ -22,7 +22,7 @@ Recording an impairment charge also follows the rules of accounting. These rules
 
 ## How are impairment charges calculated?
 
-To calculate an impairment charge, a company first needs to figure out if an asset has lost value. They do this by comparing the asset's current fair value, which is what someone would pay for it now, with its carrying amount, which is what the company has it listed as on their books. If the fair value is less than the carrying amount, the asset is considered impaired.
+To calculate an impairment charge, a company first needs to figure out if an asset has lost value. They do this by comparing the asset's current fair value, which is what someone would pay for it now, with its carrying amount, which is what the company has it listed as on their [books](/wiki/algo-trading-books). If the fair value is less than the carrying amount, the asset is considered impaired.
 
 Once they know the asset is impaired, the company calculates the impairment charge by finding the difference between the carrying amount and the fair value. This difference is the impairment charge, and it gets recorded as a loss on the income statement. This lowers the value of the asset on the balance sheet to match its new, lower fair value.
 

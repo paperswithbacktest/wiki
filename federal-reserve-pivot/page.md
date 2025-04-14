@@ -18,7 +18,7 @@ The Federal Reserve is made up of twelve regional banks spread across the countr
 
 When people say the Federal Reserve pivots, they mean that the Fed is changing its main approach or strategy. Usually, this refers to a shift in how the Fed handles interest rates. For example, if the economy is growing too fast and prices are going up a lot, the Fed might raise interest rates to slow things down. But if they see that the economy is slowing down too much or there's a risk of a recession, they might decide to lower interest rates instead. This change in direction is what people call a pivot.
 
-A pivot can be important because it shows that the Fed is responding to new information about the economy. It's like steering a big ship; when conditions change, the captain might need to turn the wheel to keep the ship on course. When the Fed pivots, it can affect borrowing costs for everyone, from big businesses to regular people taking out loans. This can influence how much people spend and invest, which in turn affects the overall economy.
+A pivot can be important because it shows that the Fed is responding to new information about the economy. It's like steering a big ship; when conditions change, the captain might need to turn the wheel to keep the ship on [course](/wiki/best-algorithmic-trading-courses). When the Fed pivots, it can affect borrowing costs for everyone, from big businesses to regular people taking out loans. This can influence how much people spend and invest, which in turn affects the overall economy.
 
 ## Why is a Federal Reserve pivot significant for the economy?
 

@@ -44,7 +44,7 @@ The transmission gear ratios also play a big role. Most standard cars have 5 or 
 
 The gearing ratio in a vehicle affects how fast it can go and how much power it has. When you have a higher gear ratio, like in first or second gear, the wheels turn slower but with more power. This is good for starting from a stop or going up hills. But if you use a high gear ratio on a flat road, the engine works too hard and might not go as fast as it could. On the other hand, a lower gear ratio, like in fifth or sixth gear, makes the wheels turn faster with less power. This is good for driving fast on highways, but if you use a low gear ratio when you need power, like going up a hill, the car might struggle.
 
-The gearing ratio also affects how much gas the car uses. If you use the right gear for the situation, the engine doesn't have to work too hard, and that saves gas. For example, using a high gear on a flat road makes the engine run smoothly and use less gas. But if you use a low gear when you don't need the extra power, the engine works harder and uses more gas. So, picking the right gear helps the car use less gas and go farther on a tank of gas. By understanding and using the right gearing ratio, you can make your car perform better and save money on gas.
+The gearing ratio also affects how much gas the car uses. If you use the right gear for the situation, the engine doesn't have to work too hard, and that saves gas. For example, using a high gear on a flat road makes the engine run smoothly and use less gas. But if you use a low gear when you don't need the extra power, the engine works harder and uses more gas. So, [picking](/wiki/asset-class-picking) the right gear helps the car use less gas and go farther on a tank of gas. By understanding and using the right gearing ratio, you can make your car perform better and save money on gas.
 
 ## What are the differences between high and low gearing ratios?
 
@@ -116,7 +116,7 @@ Therefore, the significance of gearing ratios extends beyond mere numerical calc
 
 For more on financial ratios, consider reading "Principles of Corporate Finance" by Brealey, Myers, and Allen. This book provides a comprehensive understanding of financial principles, including the intricacies of financial ratios crucial for evaluating a company's financial health and operational efficiency.
 
-To deepen your knowledge of algorithmic trading, "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan is an excellent resource. The book explores various algorithmic trading strategies, providing both theoretical frameworks and practical insights that are essential for implementing successful trading systems.
+To deepen your knowledge of [algorithmic trading](/wiki/algorithmic-trading), "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan is an excellent resource. The book explores various algorithmic trading strategies, providing both theoretical frameworks and practical insights that are essential for implementing successful trading systems.
 
 Online platforms like Investopedia and QuantInsti offer a wealth of information and courses on financial analysis and algo trading. Investopedia provides easy-to-understand guides and tutorials for beginners and advanced traders alike, while QuantInsti offers specialized courses and resources tailored to algorithmic trading enthusiasts.
 

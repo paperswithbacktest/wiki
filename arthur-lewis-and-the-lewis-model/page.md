@@ -24,7 +24,7 @@ In the Lewis Model, there are two parts of the economy: the traditional sector, 
 
 The Lewis Model has two main parts: the traditional sector and the modern sector. The traditional sector includes jobs like farming, where people usually don't earn a lot of money. The modern sector includes jobs in factories, where people can earn more. In the beginning, there are too many people working in the traditional sector, so they don't make much money. The key idea of the Lewis Model is to move some of these people from the traditional sector to the modern sector.
 
-When people move from farms to factories, they start earning more money. This helps the whole economy grow because the workers in factories produce more goods and earn higher wages. As more and more people move to the modern sector, the economy keeps growing. This process continues until there are no more extra workers in the traditional sector to move to the modern sector. At that point, the economy has grown as much as it can using this model.
+When people move from farms to factories, they start [earning](/wiki/earning-announcement) more money. This helps the whole economy grow because the workers in factories produce more goods and earn higher wages. As more and more people move to the modern sector, the economy keeps growing. This process continues until there are no more extra workers in the traditional sector to move to the modern sector. At that point, the economy has grown as much as it can using this model.
 
 ## How does the Lewis Model explain economic development?
 

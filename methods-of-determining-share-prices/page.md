@@ -28,7 +28,7 @@ This balance between how many shares people want to buy and how many are availab
 
 ## What are the different methods used to determine share prices?
 
-One way to determine share prices is by looking at how much money a company makes. This is called the fundamental analysis. People look at the company's profits, how much it grows, and how much it pays in dividends. If a company makes a lot of money and is expected to keep making more, people might think its shares are worth more, so the share price goes up. On the other hand, if a company is losing money or not doing well, people might think its shares are worth less, and the share price goes down.
+One way to determine share prices is by looking at how much money a company makes. This is called the [fundamental analysis](/wiki/fundamental-analysis). People look at the company's profits, how much it grows, and how much it pays in dividends. If a company makes a lot of money and is expected to keep making more, people might think its shares are worth more, so the share price goes up. On the other hand, if a company is losing money or not doing well, people might think its shares are worth less, and the share price goes down.
 
 Another method is called technical analysis. This method looks at past share prices and trading volumes to guess where the price might go next. People use charts and patterns to see if the share price is going up or down. They believe that past price movements can help predict future movements. This method doesn't look at the company's profits or news; it just focuses on the numbers and patterns in the share price itself.
 
@@ -102,7 +102,7 @@ Effective interpretation of these elements equips investors with the ability to 
 
 Algorithmic trading employs various strategies to execute trades with minimal human intervention, optimizing performance and resources. Among the most prevalent strategies are trend-following, [arbitrage](/wiki/arbitrage), and market-making, each serving distinct purposes and utilizing different techniques to navigate market conditions.
 
-Trend-following strategies are a cornerstone of algorithmic trading, leveraging moving averages and other technical indicators to identify [momentum](/wiki/momentum) in asset prices. These strategies predict that assets will continue to move in the same direction. For instance, if a security's short-term moving average crosses above a long-term moving average, this may signal a buying opportunity. Conversely, a crossover where the short-term moving average falls below the long-term average might indicate a selling opportunity. The algebraic representation of a simple moving average (SMA) is:
+Trend-following strategies are a cornerstone of [algorithmic trading](/wiki/algorithmic-trading), leveraging moving averages and other technical indicators to identify [momentum](/wiki/momentum) in asset prices. These strategies predict that assets will continue to move in the same direction. For instance, if a security's short-term moving average crosses above a long-term moving average, this may signal a buying opportunity. Conversely, a crossover where the short-term moving average falls below the long-term average might indicate a selling opportunity. The algebraic representation of a simple moving average (SMA) is:
 
 $$
 \text{SMA} = \frac{\sum_{i=1}^{N} P_i}{N}

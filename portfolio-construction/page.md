@@ -80,7 +80,7 @@ Another thing to check is how your portfolio is doing compared to a benchmark, l
 
 ## How can one incorporate ESG (Environmental, Social, and Governance) factors into portfolio construction?
 
-Incorporating ESG factors into portfolio construction means choosing investments that are good for the environment, treat people well, and have strong leadership. You can do this by looking for companies that have high ESG scores or are part of ESG-focused funds. These companies might be working on things like reducing pollution, treating their workers fairly, and having clear and honest management. By picking these kinds of investments, you're not just trying to make money but also wanting to make a positive impact on the world.
+Incorporating [ESG](/wiki/esg-investing) factors into portfolio construction means choosing investments that are good for the environment, treat people well, and have strong leadership. You can do this by looking for companies that have high ESG scores or are part of ESG-focused funds. These companies might be working on things like reducing pollution, treating their workers fairly, and having clear and honest management. By [picking](/wiki/asset-class-picking) these kinds of investments, you're not just trying to make money but also wanting to make a positive impact on the world.
 
 To start, you might want to use ESG ratings from organizations that check how well companies are doing in these areas. You can also talk to a financial advisor who knows about ESG investing. They can help you find the right investments and build a portfolio that matches your values. Remember, ESG investing can sometimes mean giving up some potential returns, but many people find it worth it to support companies that are trying to make the world a better place.
 
@@ -171,7 +171,7 @@ where $E(R_p)$ is the expected return of the portfolio, $w_i$ is the weight of a
 
 ### Regular Backtesting and Scenario Analysis
 
-Backtesting involves simulating a trading strategy using historical data to evaluate its viability. It provides insights into the strategy's performance, helping traders identify potential weaknesses. Python libraries such as Backtrader or PyAlgoTrade can facilitate backtesting processes. Here's a simple Python snippet for backtesting using Backtrader:
+Backtesting involves simulating a trading strategy using historical data to evaluate its viability. It provides insights into the strategy's performance, helping traders identify potential weaknesses. Python libraries such as Backtrader or PyAlgoTrade can facilitate [backtesting](/wiki/backtesting) processes. Here's a simple Python snippet for backtesting using Backtrader:
 
 ```python
 import backtrader as bt

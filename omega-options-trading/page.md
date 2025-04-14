@@ -124,7 +124,7 @@ where:
 - $d_2 = d_1 - \sigma \sqrt{T}$,
 - $\sigma$ is the volatility of the asset.
 
-The model's assumptions, such as constant volatility and interest rates, contribute to its theoretical nature. However, its accuracy improves when volatility skews and other market anomalies are accounted for in algorithmic trading.
+The model's assumptions, such as constant volatility and interest rates, contribute to its theoretical nature. However, its accuracy improves when volatility skews and other market anomalies are accounted for in [algorithmic trading](/wiki/algorithmic-trading).
 
 ### The Greeks in Options Trading
 

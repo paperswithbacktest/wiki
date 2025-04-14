@@ -32,7 +32,7 @@ The significance of nominal interest rates is that they give you a quick idea of
 
 Nominal wages are the actual dollar amount you earn from your job before any adjustments. For example, if your paycheck says you earn $20 per hour, that's your nominal wage. It's the number you see on your pay stub, and it's easy to understand because it's just the basic amount of money you get paid.
 
-Nominal wages are important, but they don't tell you the whole story when it comes to your buying power. Inflation is when the prices of things like food, gas, and rent go up over time. If your nominal wage stays the same but inflation goes up, the things you can buy with your money actually decrease. So, even if you're earning the same amount of money, you might feel like you're getting poorer because everything costs more. That's why it's helpful to look at real wages, which take inflation into account, to see how much your money is really worth.
+Nominal wages are important, but they don't tell you the whole story when it comes to your buying power. Inflation is when the prices of things like food, gas, and rent go up over time. If your nominal wage stays the same but inflation goes up, the things you can buy with your money actually decrease. So, even if you're [earning](/wiki/earning-announcement) the same amount of money, you might feel like you're getting poorer because everything costs more. That's why it's helpful to look at real wages, which take inflation into account, to see how much your money is really worth.
 
 ## How do nominal GDP and real GDP differ, and why is this distinction important?
 

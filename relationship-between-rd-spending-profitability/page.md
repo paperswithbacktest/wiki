@@ -72,7 +72,7 @@ Another way to make R&D spending more effective is to keep a close eye on how mu
 
 ## What are the latest trends in R&D spending across different sectors?
 
-In the tech industry, companies are spending a lot on R&D to make new things like artificial intelligence and better computer chips. They want to keep up with fast changes in technology and stay ahead of other companies. Big tech companies like Google and Amazon are putting a lot of money into AI to make their products smarter. They also spend on making their services work better and be more useful for people. This helps them keep their customers happy and attract new ones.
+In the tech industry, companies are spending a lot on R&D to make new things like [artificial intelligence](/wiki/ai-artificial-intelligence) and better computer chips. They want to keep up with fast changes in technology and stay ahead of other companies. Big tech companies like Google and Amazon are putting a lot of money into AI to make their products smarter. They also spend on making their services work better and be more useful for people. This helps them keep their customers happy and attract new ones.
 
 In the pharmaceutical industry, R&D spending is focused on finding new medicines and treatments. They are working on things like new cancer drugs and vaccines for diseases. The success of the COVID-19 vaccines showed how important R&D can be. Companies are also looking into personalized medicine, which means making treatments that work better for each person. This can be expensive, but it can also lead to big profits if they find something that works well.
 

@@ -80,7 +80,7 @@ Another trend is using technology to help people use OTC medications better. Som
 
 Pharmacists and healthcare providers can help a lot when you're using OTC medications. They can explain how to use the medicine the right way. They'll tell you how much to take, how often to take it, and for how long. They can also warn you about any side effects to watch out for. If you're taking other medicines or supplements, they can check if it's safe to take the OTC medicine too. They know a lot about how different medicines work together, so they can help you avoid any bad interactions.
 
-They can also give you advice on which OTC medicine is best for your problem. For example, if you have a headache, they can help you choose between different pain relievers. If you're not sure if you need an OTC medicine or if you should see a doctor, they can guide you. They're there to answer your questions and make sure you're using the medicine safely. So, don't be shy to ask them for help when you're picking out or using OTC medications.
+They can also give you advice on which OTC medicine is best for your problem. For example, if you have a headache, they can help you choose between different pain relievers. If you're not sure if you need an OTC medicine or if you should see a doctor, they can guide you. They're there to answer your questions and make sure you're using the medicine safely. So, don't be shy to ask them for help when you're [picking](/wiki/asset-class-picking) out or using OTC medications.
 
 ## References & Further Reading
 

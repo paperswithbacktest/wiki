@@ -72,7 +72,7 @@ Another way to optimize semi-variable costs is by planning ahead. If a business 
 
 Businesses use some fancy tools to figure out semi-variable costs. One popular tool is regression analysis. This tool looks at a bunch of data and finds a line that best fits how costs change with how busy the business is. The line helps show what part of the cost stays the same and what part changes. This makes it easier for the business to predict costs and plan better.
 
-Another tool is cost-volume-profit (CVP) analysis. This tool helps businesses see how costs, the number of things they sell, and their profits are all connected. By using CVP analysis, a business can see how semi-variable costs affect how much they need to sell to make money. This is really helpful for making decisions about pricing and how much to produce. Both of these tools help businesses understand and manage their semi-variable costs better.
+Another tool is cost-[volume](/wiki/volume-trading-strategy)-profit (CVP) analysis. This tool helps businesses see how costs, the number of things they sell, and their profits are all connected. By using CVP analysis, a business can see how semi-variable costs affect how much they need to sell to make money. This is really helpful for making decisions about pricing and how much to produce. Both of these tools help businesses understand and manage their semi-variable costs better.
 
 ## How do semi-variable costs influence long-term strategic planning in an organization?
 

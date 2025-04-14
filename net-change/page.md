@@ -42,7 +42,7 @@ Gross change, on the other hand, looks at all the individual changes that happen
 
 ## What are the common units of measurement for net change?
 
-Net change can be measured in many different units, depending on what you're looking at. If you're tracking money, the units could be dollars, euros, or any other currency. For weight, you might use kilograms or pounds. If you're counting things like apples or books, the unit is just the number of items.
+Net change can be measured in many different units, depending on what you're looking at. If you're tracking money, the units could be dollars, euros, or any other currency. For weight, you might use kilograms or pounds. If you're counting things like apples or [books](/wiki/algo-trading-books), the unit is just the number of items.
 
 In other areas, like temperature, you might use degrees Celsius or Fahrenheit to measure net change. For distance, you could use meters, miles, or kilometers. The key is that the unit of measurement for net change matches whatever you're measuring, making it easy to understand how much something has changed.
 
@@ -60,7 +60,7 @@ Also, net change doesn't tell you about the size of the thing you're measuring. 
 
 ## How can net change be used in statistical analysis?
 
-In statistical analysis, net change helps to see how much a number has changed from the start to the end. For example, if you're studying how much people's income changes over a year, you would look at their income at the start of the year and then at the end. The net change tells you how much more or less money they have. This can be useful for understanding trends, like if people are generally earning more or less over time.
+In statistical analysis, net change helps to see how much a number has changed from the start to the end. For example, if you're studying how much people's income changes over a year, you would look at their income at the start of the year and then at the end. The net change tells you how much more or less money they have. This can be useful for understanding trends, like if people are generally [earning](/wiki/earning-announcement) more or less over time.
 
 But net change is just one part of the story. It doesn't show all the ups and downs that might have happened along the way. For a fuller picture, statisticians often use net change along with other measures, like the average change or the range of changes. This helps to get a better understanding of how things are changing, not just the final difference. So, while net change is helpful, it's usually best used with other stats to really understand what's going on.
 
@@ -173,7 +173,7 @@ Another considerable challenge is market volatility, which can introduce signifi
 
 Maintaining robust and adaptable trading systems involves several key practices. Continuous monitoring and updating algorithms are essential to ensure they remain effective under changing market conditions. Machine learning models, for instance, may require periodic retraining with fresh data to maintain predictive accuracy. Incorporating feedback loops, where the system learns and adapts from its trading outcomes, can further improve algorithm performance over time.
 
-In conclusion, addressing the challenges of overfitting and market volatility is crucial for the success of algorithmic trading strategies. Employing methods like regularization, cross-validation, risk management, and continuous system enhancement can help traders build resilient and adaptable trading systems, capable of navigating the complexities of modern financial markets.
+In conclusion, addressing the challenges of overfitting and market volatility is crucial for the success of [algorithmic trading](/wiki/algorithmic-trading) strategies. Employing methods like regularization, cross-validation, risk management, and continuous system enhancement can help traders build resilient and adaptable trading systems, capable of navigating the complexities of modern financial markets.
 
 ## References & Further Reading
 

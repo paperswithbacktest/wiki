@@ -119,7 +119,7 @@ In summary, swaps and swaptions are critical tools in the management of financia
 
 ## How can one integrate swaps, swaptions, and algo trading?
 
-The integration of swaps and swaptions with algorithmic trading enables banks to achieve advanced risk management and strategic positioning. This harmonization is crucial for efficiently managing interest rate risks and quickly responding to market conditions. By automating the trading process, financial institutions can streamline operations, reduce manual intervention, and improve the precision of executing financial derivative contracts.
+The integration of swaps and swaptions with [algorithmic trading](/wiki/algorithmic-trading) enables banks to achieve advanced risk management and strategic positioning. This harmonization is crucial for efficiently managing interest rate risks and quickly responding to market conditions. By automating the trading process, financial institutions can streamline operations, reduce manual intervention, and improve the precision of executing financial derivative contracts.
 
 Algorithmic trading leverages sophisticated models such as the Black-Scholes and Hull-White models, which are essential for accurately pricing complex derivatives like swaptions. The Black-Scholes model, traditionally used for option pricing, is extended to accommodate the intricacies of swaptions by handling the stochastic nature of interest rates. The mathematical representation of the Black-Scholes model for options is:
 

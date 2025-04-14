@@ -104,5 +104,5 @@ Another way technology helps is by using smart systems to look at past spending 
 
 10. **Chakraborty, A., and Subramanian, N.** (2014). "Algorithmic Trading and Competition." _The Handbook of Electronic Trading_. This chapter provides a comprehensive overview of the effects of algorithmic trading on competitive dynamics within financial markets.
 
-These references provide a foundational understanding of financial reactions, economic impacts, and algorithmic trading—essential for further research and analysis in the topics discussed in this article.
+These references provide a foundational understanding of financial reactions, economic impacts, and [algorithmic trading](/wiki/algorithmic-trading)—essential for further research and analysis in the topics discussed in this article.
 

@@ -82,7 +82,7 @@ Another strategy is using "leveraged trading." Closed-end funds can borrow money
 
 ## What is Understanding Open-End Investments?
 
-Open-end investments, prominently represented by mutual funds and exchange-traded funds (ETFs), are flexible investment vehicles characterized by their ability to issue shares continuously. Unlike closed-end funds, open-end funds do not limit the number of shares they can offer. This feature provides an opportunity for investors to enter and exit the fund at their discretion.
+Open-end investments, prominently represented by mutual funds and exchange-traded funds (ETFs), are flexible investment vehicles characterized by their ability to issue shares continuously. Unlike closed-end funds, open-end funds do not limit the number of shares they can offer. This feature provides an opportunity for investors to enter and [exit](/wiki/exit-strategy) the fund at their discretion.
 
 The pricing of open-end funds is determined by their net asset value (NAV), which is calculated at the end of each trading day. NAV is computed by subtracting the fund's liabilities from its total assets, and then dividing by the number of outstanding shares:
 

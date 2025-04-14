@@ -42,7 +42,7 @@ By diversifying, you lower the risk of losing all your money at once. During a r
 
 ## What role do emergency funds play in personal financial planning during economic downturns?
 
-An emergency fund is like a safety net for your money. It's money you save up to use when something unexpected happens, like losing your job during a recession. Having an emergency fund can help you pay for things like food, rent, and bills even if you're not earning money. This can stop you from having to borrow money or sell your investments at a bad time, which could make your money problems even worse.
+An emergency fund is like a safety net for your money. It's money you save up to use when something unexpected happens, like losing your job during a recession. Having an emergency fund can help you pay for things like food, rent, and bills even if you're not [earning](/wiki/earning-announcement) money. This can stop you from having to borrow money or sell your investments at a bad time, which could make your money problems even worse.
 
 During an economic downturn, having an emergency fund can make a big difference. It can give you peace of mind because you know you have some money saved up. This can help you avoid making quick, bad decisions with your money out of panic. By having an emergency fund, you can focus on getting through the tough times without worrying so much about money, which can help you come out of the recession in a better financial position.
 
@@ -58,7 +58,7 @@ One advanced financial instrument for hedging against recessions is options. Opt
 
 Another tool is futures contracts. Futures let you agree to buy or sell something at a set price on a future date. They are often used for things like commodities, but can also be used for financial assets. If you think a recession will make prices go down, you can use futures to lock in today's prices. This can protect you from losing money if prices drop a lot during a recession.
 
-Lastly, there are inverse ETFs, or exchange-traded funds. These are funds designed to go up in value when the market goes down. By investing in an inverse ETF, you can make money if the stock market falls during a recession. These instruments can be more complicated and risky, but they can be useful tools for experienced investors looking to hedge against economic downturns.
+Lastly, there are inverse ETFs, or exchange-traded funds. These are funds designed to go up in value when the market goes down. By investing in an inverse [ETF](/wiki/etf-trading-strategies), you can make money if the stock market falls during a recession. These instruments can be more complicated and risky, but they can be useful tools for experienced investors looking to hedge against economic downturns.
 
 ## How do businesses hedge against economic downturns, and what strategies do they employ?
 

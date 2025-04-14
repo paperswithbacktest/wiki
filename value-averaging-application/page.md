@@ -101,7 +101,7 @@ $$
 
 Algorithms play a crucial role in managing the calculation and execution of investments based on the pre-set criteria of value averaging. By automating these processes, algorithms ensure that the investment strategy is executed consistently without being influenced by emotional biases. The benefits of automation include time efficiency, accuracy in computation, and the ability to handle complex calculations seamlessly.
 
-An example of successful integration of value averaging with algorithmic trading can be seen in quantitative hedge funds, which use sophisticated algorithms to execute investment strategies. For instance, some hedge funds have adopted algorithmic frameworks to automate value-based investment strategies, leading to improved returns and risk management through disciplined portfolio adjustments.
+An example of successful integration of value averaging with [algorithmic trading](/wiki/algorithmic-trading) can be seen in quantitative hedge funds, which use sophisticated algorithms to execute investment strategies. For instance, some hedge funds have adopted algorithmic frameworks to automate value-based investment strategies, leading to improved returns and risk management through disciplined portfolio adjustments.
 
 These algorithms constantly evolve using [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence) to enhance precision and scenario analysis. This integration allows investors to benefit from the systematic and quantitative aspects of trading while harnessing the strategic advantage of value averaging, striving for an optimized investment outcome.
 

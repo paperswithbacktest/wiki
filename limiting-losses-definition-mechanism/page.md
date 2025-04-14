@@ -80,11 +80,11 @@ Another way regulatory frameworks help limit losses is by making sure there's cl
 
 One successful case of limiting losses is the story of Southwest Airlines during the 2008 financial crisis. Southwest used a strategy called fuel hedging, which means they bought fuel at a fixed price in advance. When oil prices skyrocketed, other airlines lost a lot of money on fuel costs, but Southwest saved millions because they had locked in lower prices. This helped them keep their losses small and even make a profit when others were struggling. It shows how planning ahead and using smart strategies can really help limit losses.
 
-On the other hand, an example of an unsuccessful attempt at limiting losses is the story of Long-Term Capital Management (LTCM) in 1998. LTCM was a hedge fund run by very smart people, including Nobel Prize winners. They used complex models to make big bets on the market, thinking they could limit their losses. But when the market moved in unexpected ways, LTCM lost billions of dollars very quickly. They didn't have enough money to cover their losses, and it almost caused a big financial crisis. This shows that even the smartest plans can fail if they don't account for unexpected events.
+On the other hand, an example of an unsuccessful attempt at limiting losses is the story of Long-Term Capital Management (LTCM) in 1998. LTCM was a [hedge fund](/wiki/hedge-fund-trading-strategies) run by very smart people, including Nobel Prize winners. They used complex models to make big bets on the market, thinking they could limit their losses. But when the market moved in unexpected ways, LTCM lost billions of dollars very quickly. They didn't have enough money to cover their losses, and it almost caused a big financial crisis. This shows that even the smartest plans can fail if they don't account for unexpected events.
 
 ## What are the best practices for using algorithmic trading in risk management?
 
-To effectively utilize algorithmic trading in risk management, traders must adhere to best practices that ensure strategies are both robust and adaptive to market changes. A critical first step is to clearly define goals and risk parameters before deploying any algorithmic strategies. This involves determining acceptable levels of risk, such as Value at Risk (VaR), expected shortfall, or drawdown limits, and setting these as prerequisites for algorithm deployment. For instance, VaR can be calculated as:
+To effectively utilize [algorithmic trading](/wiki/algorithmic-trading) in risk management, traders must adhere to best practices that ensure strategies are both robust and adaptive to market changes. A critical first step is to clearly define goals and risk parameters before deploying any algorithmic strategies. This involves determining acceptable levels of risk, such as Value at Risk (VaR), expected shortfall, or drawdown limits, and setting these as prerequisites for algorithm deployment. For instance, VaR can be calculated as:
 
 $$
 \text{VaR} = \mu - Z_{\alpha} \times \sigma
@@ -115,7 +115,7 @@ cerebro.run()
 cerebro.plot()
 ```
 
-Continuous monitoring and optimization are crucial as markets are dynamic and subject to unforeseen changes. This requires algorithms to be flexible enough to adapt to new data inputs and volatility shifts. Implementing strategies such as machine learning models can aid in real-time optimization, allowing algorithms to recalibrate based on incoming market data.
+Continuous monitoring and optimization are crucial as markets are dynamic and subject to unforeseen changes. This requires algorithms to be flexible enough to adapt to new data inputs and [volatility](/wiki/volatility-trading-strategies) shifts. Implementing strategies such as [machine learning](/wiki/machine-learning) models can aid in real-time optimization, allowing algorithms to recalibrate based on incoming market data.
 
 Risk controls should be stringent, with measures like position limits and stop-loss orders embedded directly into the algorithms. These controls ensure that the trading strategy does not exceed predetermined risk thresholds, mitigating the potential for unexpected losses.
 

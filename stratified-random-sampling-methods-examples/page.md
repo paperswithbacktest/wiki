@@ -22,7 +22,7 @@ This method is really helpful because it can give you more accurate results. If 
 
 ## How does stratified random sampling differ from simple random sampling?
 
-Stratified random sampling and simple random sampling are two ways to pick a smaller group from a bigger group for a study, but they do it differently. In simple random sampling, you pick people from the whole big group without any special rules. It's like picking names out of a hat where everyone has an equal chance of being chosen. This method is easy and works well if the big group is pretty much the same all over.
+Stratified random sampling and simple random sampling are two ways to pick a smaller group from a bigger group for a study, but they do it differently. In simple random sampling, you pick people from the whole big group without any special rules. It's like [picking](/wiki/asset-class-picking) names out of a hat where everyone has an equal chance of being chosen. This method is easy and works well if the big group is pretty much the same all over.
 
 Stratified random sampling, on the other hand, is used when the big group has different kinds of people that you want to make sure are included in your study. First, you split the big group into smaller groups, called strata, based on something important like age or where they live. Then, you pick people randomly from each of these smaller groups. This way, you make sure that every important part of the big group is represented in your smaller study group. It's like making sure you have a bit of every type of candy if you want to know about all the candies in the jar.
 

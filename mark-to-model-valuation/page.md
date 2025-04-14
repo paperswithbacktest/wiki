@@ -78,7 +78,7 @@ Another way to reduce biases is to keep your model simple and easy to understand
 
 One way to make mark-to-model valuations more accurate is by using something called Monte Carlo simulations. This technique runs the model many times with different guesses each time. By doing this, you can see how the value might change if things turn out differently than expected. It helps you understand the range of possible values and the risks involved. This can make your valuation more reliable because it takes into account a lot of different scenarios.
 
-Another advanced technique is to use machine learning. This can help by finding patterns in the data that you might miss. Machine learning can look at a lot of information and learn from it to make better guesses about the future. This can make your model more accurate because it's based on more data and smarter predictions. Both Monte Carlo simulations and machine learning can help make your mark-to-model valuations better, but they need careful use and understanding to work well.
+Another advanced technique is to use [machine learning](/wiki/machine-learning). This can help by finding patterns in the data that you might miss. Machine learning can look at a lot of information and learn from it to make better guesses about the future. This can make your model more accurate because it's based on more data and smarter predictions. Both Monte Carlo simulations and machine learning can help make your mark-to-model valuations better, but they need careful use and understanding to work well.
 
 ## How do you validate and back-test a mark-to-model valuation approach?
 

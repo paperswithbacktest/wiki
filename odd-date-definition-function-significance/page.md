@@ -66,7 +66,7 @@ In some cases, businesses might use odd dates for billing cycles to spread out t
 
 In some cultures, odd dates are seen as special or lucky. For example, in Chinese culture, odd numbers are linked to good luck because they are connected to yang, which is the positive force in the universe. So, people might choose to do important things like getting married or starting a new job on an odd date to bring good luck. This belief in the luck of odd numbers can affect how people plan their lives and make decisions.
 
-In other cultures, odd dates might not have any special meaning at all. People might just use them to help plan their time, like going to the gym or meeting friends on odd days. But even in these places, some people might have their own superstitions about odd dates. For example, someone might believe that starting a new project on an odd date will make it more successful. So, while odd dates might seem simple, they can carry different beliefs and superstitions depending on where you are and who you ask.
+In other cultures, odd dates might not have any special meaning at all. People might just use them to help plan their time, like going to the gym or meeting friends on odd days. But even in these places, some people might have their own superstitions about odd dates. For example, someone might believe that starting a new project on an odd date will make it more successful. So, while odd dates might seem simple, they can [carry](/wiki/carry-trading) different beliefs and superstitions depending on where you are and who you ask.
 
 ## How can odd dates be used in data analysis or statistical studies?
 
@@ -82,7 +82,7 @@ Another advanced application of odd dates in programming is in data compression 
 
 ## How can strategies be implemented with odd dates?
 
-Successful implementation of trading strategies around odd dates necessitates robust data analysis to address the unique challenges and opportunities these dates present. Traders frequently rely on historical data to uncover trends and patterns associated with non-standard dates that deviate from typical market cycles. This historical data enables the identification of seasonal patterns, volatility spikes, or liquidity changes that may coincide with these dates.
+Successful implementation of trading strategies around odd dates necessitates robust data analysis to address the unique challenges and opportunities these dates present. Traders frequently rely on historical data to uncover trends and patterns associated with non-standard dates that deviate from typical market cycles. This historical data enables the identification of seasonal patterns, [volatility](/wiki/volatility-trading-strategies) spikes, or [liquidity](/wiki/liquidity-risk-premium) changes that may coincide with these dates.
 
 Machine learning algorithms and advanced statistical methods are crucial in optimizing trading strategies tailored to these calendar anomalies. Machine learning models, such as regression analysis or time-series forecasting, can identify non-linear relationships and dependencies often obscured in human analysis. For instance, a linear regression model might predict the price movement $P(t)$ around an odd date based on various features like historical volatility and trade [volume](/wiki/volume-trading-strategy):
 

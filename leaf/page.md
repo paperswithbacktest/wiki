@@ -19,7 +19,7 @@ Leaf is a machine learning framework that is designed to be lightweight and easy
 
 Another key difference is that Leaf focuses on decision trees and ensemble methods, such as Random Forests and Gradient Boosting Machines. These methods are often easier to understand and interpret compared to the deep learning models that frameworks like TensorFlow and PyTorch are known for. For example, while a neural network in TensorFlow might involve complex layers and require a lot of tuning, a decision tree in Leaf can be built and visualized easily, helping users see exactly how the model makes its decisions.
 
-In practice, this means that Leaf is particularly useful for tasks where interpretability is important, such as in healthcare or finance, where understanding the reasoning behind a prediction can be crucial. While other frameworks might offer more advanced features and flexibility, Leaf's simplicity and focus on decision trees make it a great choice for those new to machine learning or those who need models that are easy to explain and understand.
+In practice, this means that Leaf is particularly useful for tasks where interpretability is important, such as in healthcare or finance, where understanding the reasoning behind a prediction can be crucial. While other frameworks might offer more advanced features and flexibility, Leaf's simplicity and focus on decision trees make it a great choice for those new to [machine learning](/wiki/machine-learning) or those who need models that are easy to explain and understand.
 
 ## What are the main components of Leaf?
 

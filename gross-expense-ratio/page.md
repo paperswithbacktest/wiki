@@ -46,7 +46,7 @@ For example, if you invest in a fund with a Gross Expense Ratio of 1%, that mean
 
 ## What factors contribute to a high Gross Expense Ratio?
 
-A high Gross Expense Ratio can come from different things. One big reason is if the fund is actively managed. This means people are always picking and choosing which stocks or bonds to buy or sell. This takes a lot of work and needs more people, so it costs more money. Another reason could be if the fund focuses on a special area, like a certain industry or country. These funds need more research and special knowledge, which also makes the costs go up.
+A high Gross Expense Ratio can come from different things. One big reason is if the fund is actively managed. This means people are always [picking](/wiki/asset-class-picking) and choosing which stocks or bonds to buy or sell. This takes a lot of work and needs more people, so it costs more money. Another reason could be if the fund focuses on a special area, like a certain industry or country. These funds need more research and special knowledge, which also makes the costs go up.
 
 Also, smaller funds might have higher Gross Expense Ratios. This is because they have the same kinds of costs as bigger funds, but they are spread out over less money. So, each investor ends up paying more. Sometimes, if a fund is new or not very popular, it might have to charge more to cover its costs. All these things can make the Gross Expense Ratio go up, which means more of the fund's money is used for costs instead of making money for investors.
 
@@ -167,5 +167,5 @@ In summary, the selection of ETFs with lower expense ratios can be a critical [f
    - Coursera offers a course titled "Financial Markets" by Yale University, which includes modules on investment funds and their expenses.
    - Khan Academy provides free content on "Investing and Financial Markets" that covers the basics of mutual funds, ETFs, and an introduction to algorithmic trading principles.
 
-These resources form a foundational toolkit for understanding investment funds, expense ratios, and the role of algorithmic trading, allowing investors to make informed decisions for optimizing returns.
+These resources form a foundational toolkit for understanding investment funds, expense ratios, and the role of [algorithmic trading](/wiki/algorithmic-trading), allowing investors to make informed decisions for optimizing returns.
 

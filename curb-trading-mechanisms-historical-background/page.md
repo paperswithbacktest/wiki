@@ -82,7 +82,7 @@ Even though curb trading is rare now, it helped shape how we trade today. It sho
 
 ## What is the rise of automation in algorithmic trading?
 
-Algorithmic trading involves the use of computer programs to facilitate the execution of trading strategies and decision-making processes. This innovation has significantly reshaped trading practices by maximizing speed and minimizing human intervention. The origins of algorithmic trading can be traced back to the 20th century when mathematical and computational finance methods began to influence trading strategies.
+Algorithmic trading involves the use of computer programs to facilitate the execution of trading strategies and decision-making processes. This innovation has significantly reshaped trading practices by maximizing speed and minimizing human intervention. The origins of [algorithmic trading](/wiki/algorithmic-trading) can be traced back to the 20th century when mathematical and computational finance methods began to influence trading strategies.
 
 A foundational contribution to computational finance, which laid the groundwork for algorithmic trading, was made by Harry Markowitz in 1952 with the development of Modern Portfolio Theory (MPT). Markowitz introduced a quantitative framework for assembling an investment portfolio that maximizes expected return for a given level of risk. This theory uses mathematical models, emphasizing the importance of diversification and the relationship between risk and return. The equation commonly used in MPT is:
 

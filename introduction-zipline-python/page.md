@@ -18,7 +18,7 @@ The main purpose of Zipline is to make sure that people in remote places can get
 
 To install Zipline on a Python environment, you first need to make sure you have Python installed on your computer. Once you have Python, you can use a tool called pip, which is a package manager for Python. Open your command line or terminal, and type in the command `pip install zipline`. This command will download and install Zipline and all the things it needs to work properly.
 
-After you run the command, it might take a few minutes for everything to install. Once it's done, you can check if Zipline is installed correctly by opening a Python interpreter or a new script and typing `import zipline`. If you don't see any error messages, that means Zipline is ready to use. Now you can start using Zipline to do things like backtesting trading strategies and analyzing financial data.
+After you run the command, it might take a few minutes for everything to install. Once it's done, you can check if Zipline is installed correctly by opening a Python interpreter or a new script and typing `import zipline`. If you don't see any error messages, that means Zipline is ready to use. Now you can start using Zipline to do things like [backtesting](/wiki/backtesting) trading strategies and analyzing financial data.
 
 ## What are the basic components of a Zipline trading algorithm?
 
@@ -34,7 +34,7 @@ Next, you create a handle_data function that runs every time new data comes in, 
 
 ## What data sources can Zipline use for backtesting?
 
-Zipline can use different kinds of data for backtesting. It can work with stock prices, which are numbers that show how much a stock is worth at different times. This data can come from places like Yahoo Finance or other financial websites. Zipline can also use data about how much people are buying and selling stocks, which is called volume data. This helps you see if a stock is popular or not.
+Zipline can use different kinds of data for backtesting. It can work with stock prices, which are numbers that show how much a stock is worth at different times. This data can come from places like Yahoo Finance or other financial websites. Zipline can also use data about how much people are buying and selling stocks, which is called [volume](/wiki/volume-trading-strategy) data. This helps you see if a stock is popular or not.
 
 Another type of data Zipline can use is called fundamental data. This includes things like how much money a company is making or how much it owes. This kind of data can help you understand if a company is doing well or not. Zipline can also use data from other markets, like bonds or commodities, if you want to test strategies that use more than just stocks. By using all these different kinds of data, you can make your backtesting more complete and see how your trading strategy might work in real life.
 
@@ -60,7 +60,7 @@ After you run these tests, you look at the performance metrics Zipline gives you
 
 Zipline has some cool features that help you make more complex trading strategies. One of these features is called 'slippage', which is a way to make your backtest more real by adding costs and delays that happen when you buy or sell stocks in the real world. Another feature is 'commission', which lets you add the costs you pay to buy and sell stocks. Zipline also lets you use different kinds of data, like stock prices, how much people are buying and selling, and even things like how much money a company is making. This helps you make strategies that look at many different things at once.
 
-Another advanced feature is the ability to use custom factors and filters. These let you create your own special rules for picking stocks or deciding when to buy and sell. For example, you could make a rule that only buys stocks that are doing better than the market. Zipline also has tools for risk management, like setting limits on how much money you can lose or how much you can invest in one stock. By using these advanced features, you can make your trading strategies more detailed and closer to how things work in real markets.
+Another advanced feature is the ability to use custom factors and filters. These let you create your own special rules for [picking](/wiki/asset-class-picking) stocks or deciding when to buy and sell. For example, you could make a rule that only buys stocks that are doing better than the market. Zipline also has tools for risk management, like setting limits on how much money you can lose or how much you can invest in one stock. By using these advanced features, you can make your trading strategies more detailed and closer to how things work in real markets.
 
 ## How do you integrate external data into a Zipline algorithm?
 
@@ -110,7 +110,7 @@ $$
 
 This formula calculates the difference between the value of stock positions at their closing and opening prices, providing a straightforward measure of profitability. Further metrics such as the number of trades, average return per trade, and maximum drawdown may also be considered. Calculating these metrics helps in assessing the risk and return profiles of your strategies in detail.
 
-To further your expertise in algorithmic trading, enrolling in comprehensive courses or workshops is beneficial. These educational opportunities often provide in-depth coverage of advanced topics such as statistical [arbitrage](/wiki/arbitrage), machine learning applications in trading, and risk management techniques. They enhance one's ability to develop, implement, and refine trading strategies efficiently. By embracing these advanced learning paths, you can significantly elevate your algorithmic trading acumen and potentially increase your success in the markets.
+To further your expertise in [algorithmic trading](/wiki/algorithmic-trading), enrolling in comprehensive courses or workshops is beneficial. These educational opportunities often provide in-depth coverage of advanced topics such as statistical [arbitrage](/wiki/arbitrage), [machine learning](/wiki/machine-learning) applications in trading, and risk management techniques. They enhance one's ability to develop, implement, and refine trading strategies efficiently. By embracing these advanced learning paths, you can significantly elevate your algorithmic trading acumen and potentially increase your success in the markets.
 
 ## References & Further Reading
 

@@ -36,7 +36,7 @@ To calculate the future value, you use the formula: Future Value = Present Value
 
 The frequency of compounding can make a big difference in how much your money grows over time. Compounding means that the interest you earn also earns interest. If you compound more often, like monthly instead of yearly, your money can grow faster. This is because each time you compound, you're adding more interest to the amount that will earn interest next time. So, the more often you compound, the more times you get to add interest to your money.
 
-For example, let's say you have $1,000 and you want to invest it for 1 year at an interest rate of 5%. If you compound yearly, at the end of the year, you'll have $1,050. But if you compound monthly, you'll end up with $1,051.16. That's because with monthly compounding, you're earning interest on your interest 12 times instead of just once. Over longer periods, like 10 or 20 years, the difference can be even bigger. So, when you're figuring out the future value of your money, it's important to think about how often the interest is compounded.
+For example, let's say you have $1,000 and you want to invest it for 1 year at an interest rate of 5%. If you compound yearly, at the end of the year, you'll have $1,050. But if you compound monthly, you'll end up with $1,051.16. That's because with monthly compounding, you're [earning](/wiki/earning-announcement) interest on your interest 12 times instead of just once. Over longer periods, like 10 or 20 years, the difference can be even bigger. So, when you're figuring out the future value of your money, it's important to think about how often the interest is compounded.
 
 ## What is the difference between simple interest and compound interest in future value?
 
@@ -168,7 +168,7 @@ Algorithmic trading offers several advantages in modern financial markets. Key b
 
 ### Can small-scale investors benefit from algorithmic trading, and how?
 
-Yes, small-scale investors can benefit from algorithmic trading by leveraging the technology's efficiencies and capabilities. With the availability of user-friendly platforms and tools tailored for retail traders, small-scale investors can automate their trading strategies, gain access to market data, and apply sophisticated quantitative models that were previously accessible only to institutional investors. Furthermore, the democratization of algorithmic trading allows these investors to execute trades at the same speeds as larger entities, potentially leveling the playing field.
+Yes, small-scale investors can benefit from [algorithmic trading](/wiki/algorithmic-trading) by leveraging the technology's efficiencies and capabilities. With the availability of user-friendly platforms and tools tailored for retail traders, small-scale investors can automate their trading strategies, gain access to market data, and apply sophisticated quantitative models that were previously accessible only to institutional investors. Furthermore, the democratization of algorithmic trading allows these investors to execute trades at the same speeds as larger entities, potentially leveling the playing field.
 
 ### How can understanding future value calculations aid in developing algorithm-based trading strategies?
 

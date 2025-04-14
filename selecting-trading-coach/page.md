@@ -22,7 +22,7 @@ Another sign that you might need a trading coach is if you're having trouble sti
 
 ## What qualifications should a trading coach have?
 
-A good trading coach should have a lot of experience in trading themselves. This means they have been trading for many years and have made money doing it. They should know different trading strategies and understand how the markets work. It's also important for a trading coach to have some kind of certification or education in finance or trading. This could be a degree in finance, a certification like a Certified Financial Analyst (CFA), or even a specific trading course they have completed.
+A good trading coach should have a lot of experience in trading themselves. This means they have been trading for many years and have made money doing it. They should know different trading strategies and understand how the markets work. It's also important for a trading coach to have some kind of certification or education in finance or trading. This could be a degree in finance, a certification like a Certified Financial Analyst (CFA), or even a specific trading [course](/wiki/best-algorithmic-trading-courses) they have completed.
 
 Besides experience and education, a trading coach should be good at teaching and communicating. They need to explain complicated ideas in a way that beginners can understand. They should also be patient and able to help you through the ups and downs of learning to trade. It's helpful if they have good reviews or testimonials from other people they have coached. This shows they have a track record of helping others succeed in trading.
 
@@ -48,7 +48,7 @@ A coach can also help intermediate traders stay disciplined and focused. Trading
 
 An expert trader should look for a coach who has advanced knowledge of the markets and trading strategies. The coach should be able to teach the expert trader new techniques or help them refine their existing strategies. They should also have a deep understanding of risk management and be able to help the trader handle complex trading situations. It's important that the coach has a proven track record of success in trading at an expert level and can share insights that go beyond the basics.
 
-In addition to technical skills, an expert trader should seek a coach who excels in psychological coaching. Trading at an expert level often involves managing stress and maintaining emotional balance. A good coach should be able to help the trader stay disciplined, focused, and resilient in the face of market volatility. They should also be able to provide personalized feedback and adapt their coaching style to meet the specific needs of an expert trader, helping them to continually improve and stay ahead in the competitive world of trading.
+In addition to technical skills, an expert trader should seek a coach who excels in psychological coaching. Trading at an expert level often involves managing stress and maintaining emotional balance. A good coach should be able to help the trader stay disciplined, focused, and resilient in the face of market [volatility](/wiki/volatility-trading-strategies). They should also be able to provide personalized feedback and adapt their coaching style to meet the specific needs of an expert trader, helping them to continually improve and stay ahead in the competitive world of trading.
 
 ## How do you assess the compatibility between a trader and a coach?
 
@@ -58,7 +58,7 @@ Another way to check compatibility is to see if the coach's teaching style match
 
 ## What are the common pitfalls to avoid when selecting a trading coach?
 
-One common pitfall when picking a trading coach is choosing someone who doesn't have enough experience. A good coach should have traded for many years and made money doing it. If a coach is new to trading or hasn't been successful, they might not be able to help you much. Also, be careful of coaches who promise you'll make a lot of money quickly. Trading is hard, and no one can guarantee big profits. If a coach makes big promises, they might just be trying to get your money.
+One common pitfall when [picking](/wiki/asset-class-picking) a trading coach is choosing someone who doesn't have enough experience. A good coach should have traded for many years and made money doing it. If a coach is new to trading or hasn't been successful, they might not be able to help you much. Also, be careful of coaches who promise you'll make a lot of money quickly. Trading is hard, and no one can guarantee big profits. If a coach makes big promises, they might just be trying to get your money.
 
 Another pitfall is not checking if the coach's teaching style works for you. Some coaches give you clear instructions, while others help you figure things out on your own. If their way of teaching doesn't match how you learn best, you might not get much out of the coaching. It's also important to see if you get along with the coach and if they understand what you want to achieve. If you don't feel comfortable with them or if they don't seem to care about your goals, they might not be the right coach for you.
 

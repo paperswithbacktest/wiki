@@ -30,7 +30,7 @@ Both gold and silver have their own benefits and risks. Gold might be better if 
 
 ## How can beginners start investing in gold and silver bullion?
 
-Beginners can start investing in gold and silver bullion by first doing some research to understand how these metals work as investments. You can find lots of information online or in books about gold and silver. Once you feel ready, you can buy bullion from places like banks, coin shops, or online dealers. It's a good idea to compare prices from different sellers to make sure you're getting a good deal. Also, check if the bullion is real and how pure it is, because that affects its value.
+Beginners can start investing in gold and silver bullion by first doing some research to understand how these metals work as investments. You can find lots of information online or in [books](/wiki/algo-trading-books) about gold and silver. Once you feel ready, you can buy bullion from places like banks, coin shops, or online dealers. It's a good idea to compare prices from different sellers to make sure you're getting a good deal. Also, check if the bullion is real and how pure it is, because that affects its value.
 
 After you buy your gold or silver, you need to decide where to keep it safe. You can store it at home in a safe, or you can use a bank's safe deposit box, which might cost a bit of money but is very secure. Some people also choose to store their bullion with a special storage company that keeps it safe for them. No matter where you keep it, make sure you keep track of your investment and check the market prices regularly to see how your investment is doing.
 

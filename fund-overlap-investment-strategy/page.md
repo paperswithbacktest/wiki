@@ -42,7 +42,7 @@ Indirect fund overlap is a bit trickier. It happens when funds you own have stoc
 
 Fund overlap can make your investment portfolio less diverse than you think. When you own different funds, you might believe you're spreading your money across many different stocks or assets. But if those funds hold a lot of the same things, you're not really diversifying. It's like having the same bet placed in different spots. If those shared investments do badly, it can hurt your whole portfolio a lot more because your money is tied up in the same places over and over.
 
-Understanding and managing fund overlap can help you build a healthier and more balanced portfolio. By choosing funds that hold different kinds of investments, you can spread out your risk better. This means if one part of your portfolio goes down, other parts might go up, which can help protect your money. So, paying attention to fund overlap and picking funds that don't overlap too much can lead to a more diverse and resilient investment strategy.
+Understanding and managing fund overlap can help you build a healthier and more balanced portfolio. By choosing funds that hold different kinds of investments, you can spread out your risk better. This means if one part of your portfolio goes down, other parts might go up, which can help protect your money. So, paying attention to fund overlap and [picking](/wiki/asset-class-picking) funds that don't overlap too much can lead to a more diverse and resilient investment strategy.
 
 ## What tools or software can help in analyzing fund overlap?
 

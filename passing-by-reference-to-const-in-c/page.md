@@ -84,7 +84,7 @@ Using 'pass by reference to const' also helps keep your data safe. When you see 
 
 ## What is a Practical Example in Algorithmic Trading?
 
-In algorithmic trading, efficiently processing large datasets is crucial for real-time decision-making. A common task involves calculating technical indicators like moving averages, which can be computationally intensive if not handled correctly. Utilizing the 'pass by const reference' technique in C++ can significantly optimize this process, particularly for large data structures such as vectors.
+In [algorithmic trading](/wiki/algorithmic-trading), efficiently processing large datasets is crucial for real-time decision-making. A common task involves calculating technical indicators like moving averages, which can be computationally intensive if not handled correctly. Utilizing the 'pass by const reference' technique in C++ can significantly optimize this process, particularly for large data structures such as vectors.
 
 Consider a scenario where you need to compute a simple moving average (SMA) of stock prices stored in a vector. The SMA is calculated by summing a subset of data points from the vector and then dividing by the number of points. For example, given a vector `prices` containing daily closing prices, the formula for the SMA over `n` days is:
 

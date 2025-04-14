@@ -122,5 +122,5 @@ The Wilshire Mid-Cap Index serves as a critical benchmark for investors focusing
 
 9. **Khan Academy** - For a more basic introduction or refresher on investment terminology and general market dynamics, consider Khan Academy's finance and capital markets section. It provides educational content that's accessible and easy to understand. Access their [finance courses](https://www.khanacademy.org/economics-finance-domain/core-finance).
 
-These resources offer various perspectives and depths of information, catering to both novice and experienced investors interested in mid-cap investments and algorithmic trading.
+These resources offer various perspectives and depths of information, catering to both novice and experienced investors interested in mid-cap investments and [algorithmic trading](/wiki/algorithmic-trading).
 

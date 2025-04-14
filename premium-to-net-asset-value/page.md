@@ -18,7 +18,7 @@ NAV is important because it helps investors understand the value of their invest
 
 When people talk about a "premium to Net Asset Value" (NAV), they mean that a fund or investment is trading at a price that is higher than its actual NAV. Think of it like buying a used car. If the car's book value (similar to NAV) is $10,000 but someone is selling it for $12,000, you're paying a $2,000 premium over its book value. In the world of investments, if a fund's NAV is $20 per share but it's trading at $22 per share, you're paying a $2 premium for each share.
 
-This situation can happen for many reasons. Sometimes, investors might believe that the fund's assets are worth more than what the NAV shows, or they might think the fund's manager is really good at picking investments. Other times, it could just be because a lot of people want to buy the fund, which pushes the price up. It's important for investors to understand why a fund might be trading at a premium so they can decide if it's a good investment or not.
+This situation can happen for many reasons. Sometimes, investors might believe that the fund's assets are worth more than what the NAV shows, or they might think the fund's manager is really good at [picking](/wiki/asset-class-picking) investments. Other times, it could just be because a lot of people want to buy the fund, which pushes the price up. It's important for investors to understand why a fund might be trading at a premium so they can decide if it's a good investment or not.
 
 ## How is the Premium to Net Asset Value calculated?
 

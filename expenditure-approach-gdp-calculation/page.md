@@ -48,7 +48,7 @@ We include government spending in GDP because it's money spent on goods and serv
 
 Net exports are what we get when we subtract the value of what we buy from other countries (imports) from the value of what other countries buy from us (exports). If we sell more to other countries than we buy from them, our net exports are positive. But if we buy more from other countries than we sell to them, our net exports are negative.
 
-Net exports are an important part of GDP because they show how much our country is making from trade with other countries. When our net exports are positive, it means our country is earning more from selling things to other countries than it's spending on buying things from them. This can help our GDP grow because it's like extra money coming into our economy. But if our net exports are negative, it means we're spending more on imports than we're earning from exports, which can make our GDP smaller. So, net exports can either boost our GDP or drag it down, depending on whether we're selling more or buying more.
+Net exports are an important part of GDP because they show how much our country is making from trade with other countries. When our net exports are positive, it means our country is [earning](/wiki/earning-announcement) more from selling things to other countries than it's spending on buying things from them. This can help our GDP grow because it's like extra money coming into our economy. But if our net exports are negative, it means we're spending more on imports than we're earning from exports, which can make our GDP smaller. So, net exports can either boost our GDP or drag it down, depending on whether we're selling more or buying more.
 
 ## Can you explain the formula used in the expenditure approach?
 

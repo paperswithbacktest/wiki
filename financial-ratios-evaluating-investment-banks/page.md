@@ -52,7 +52,7 @@ Regulators and investors look at the Tier 1 Capital Ratio to check if an investm
 
 ## How can the Loan to Deposit Ratio be used to understand an investment bank's liquidity management?
 
-The Loan to Deposit Ratio helps us see how well an investment bank is managing its money, especially when it comes to having enough cash on hand. This ratio is found by dividing the total amount of loans the bank has given out by the total amount of money it has from deposits. A lower Loan to Deposit Ratio means the bank is not lending out all its money and is keeping a good amount of cash, which is good for its liquidity. Liquidity means having enough money to pay bills and handle withdrawals without problems.
+The Loan to Deposit Ratio helps us see how well an investment bank is managing its money, especially when it comes to having enough cash on hand. This ratio is found by dividing the total amount of loans the bank has given out by the total amount of money it has from deposits. A lower Loan to Deposit Ratio means the bank is not lending out all its money and is keeping a good amount of cash, which is good for its [liquidity](/wiki/liquidity-risk-premium). Liquidity means having enough money to pay bills and handle withdrawals without problems.
 
 If the Loan to Deposit Ratio is high, it means the bank is lending out most of the money it gets from deposits. This can be risky because if a lot of people want their money back at the same time, the bank might not have enough cash to give it to them. So, a high ratio might mean the bank is not managing its liquidity well and could face problems if there's a sudden need for cash. Keeping an eye on this ratio helps investors and regulators see if the bank is being smart with its money and staying safe.
 

@@ -22,7 +22,7 @@ Multiples are the opposite of factors. They are the results of multiplying a num
 
 ## What are the basic requirements for a number to be a factor of another number?
 
-For a number to be a factor of another number, it must divide that number evenly without leaving any remainder. This means if you divide the bigger number by the smaller number, the result should be a whole number. For example, 3 is a factor of 12 because when you divide 12 by 3, you get 4, which is a whole number.
+For a number to be a [factor](/wiki/factor-investing) of another number, it must divide that number evenly without leaving any remainder. This means if you divide the bigger number by the smaller number, the result should be a whole number. For example, 3 is a factor of 12 because when you divide 12 by 3, you get 4, which is a whole number.
 
 To check if a number is a factor, you can start by dividing the bigger number by 1, then by 2, and keep going up until you reach the bigger number itself. If any of these divisions result in a whole number, then that smaller number is a factor. For instance, to find the factors of 10, you would divide 10 by 1 (result is 10), by 2 (result is 5), by 5 (result is 2), and by 10 (result is 1). So, the factors of 10 are 1, 2, 5, and 10.
 
@@ -82,7 +82,7 @@ In cryptography, factors are really important for keeping information safe. Many
 
 ## What are some examples of algorithmic trading strategies?
 
-Algorithmic trading strategies encompass a variety of methodologies, each designed to leverage the capabilities of computers to execute trades in financial markets. These strategies are built around different market conditions and objectives, ranging from capitalizing on market inefficiencies to providing liquidity. Below are several prominent types of algorithmic trading strategies:
+Algorithmic trading strategies encompass a variety of methodologies, each designed to leverage the capabilities of computers to execute trades in financial markets. These strategies are built around different market conditions and objectives, ranging from capitalizing on market inefficiencies to providing [liquidity](/wiki/liquidity-risk-premium). Below are several prominent types of [algorithmic trading](/wiki/algorithmic-trading) strategies:
 
 ### Trend Following and Arbitrage
 
@@ -106,7 +106,7 @@ High-frequency trading is characterized by executing a large number of orders at
 
 ### Statistical Arbitrage
 
-Statistical arbitrage involves complex mathematical models to identify and exploit relative price movements. It often combines statistical and machine learning techniques to predict future price movements based on historical data. For instance, mean reversion strategies, a type of statistical arbitrage, are based on the idea that asset prices tend to revert to their historical mean. A simple implementation could use z-scores to signal trades:
+Statistical arbitrage involves complex mathematical models to identify and exploit relative price movements. It often combines statistical and [machine learning](/wiki/machine-learning) techniques to predict future price movements based on historical data. For instance, mean reversion strategies, a type of statistical arbitrage, are based on the idea that asset prices tend to revert to their historical mean. A simple implementation could use z-scores to signal trades:
 
 $$
 z = \frac{X - \mu}{\sigma}
@@ -120,7 +120,7 @@ Momentum-based strategies exploit the continuation of existing trends. Traders u
 
 ### Market Maker Strategies
 
-Market maker strategies aim to provide liquidity by simultaneously placing buy and sell orders for a security. Traders profit from the bid-ask spread, striving to minimize risk through quick order matching. A market maker might adjust quotes based on volatility, inventory levels, and overall market conditions.
+Market maker strategies aim to provide liquidity by simultaneously placing buy and sell orders for a security. Traders profit from the bid-ask spread, striving to minimize risk through quick order matching. A market maker might adjust quotes based on [volatility](/wiki/volatility-trading-strategies), inventory levels, and overall market conditions.
 
 ### Case Studies
 

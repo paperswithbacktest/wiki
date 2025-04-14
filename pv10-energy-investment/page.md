@@ -18,7 +18,7 @@ To calculate PV10, you start by estimating how much oil and gas you can get out 
 
 PV10 is important for investors in the energy industry because it gives them a clear idea of how much the oil and gas reserves a company owns might be worth. By using a standard 10% discount rate, PV10 allows investors to compare the value of different reserves easily. This helps them make better decisions about where to put their money. If a company has a high PV10 value, it suggests that their reserves are valuable and could bring in a lot of money in the future.
 
-Investors also use PV10 to understand the financial health of an energy company. A high PV10 can mean the company has strong potential for future earnings, which can make it more attractive to invest in. On the other hand, if the PV10 is low, it might mean the company's reserves are not as valuable, which could be a warning sign for investors. By looking at PV10, investors get a snapshot of the company's future earning potential, helping them decide if the investment is worth it.
+Investors also use PV10 to understand the financial health of an energy company. A high PV10 can mean the company has strong potential for future earnings, which can make it more attractive to invest in. On the other hand, if the PV10 is low, it might mean the company's reserves are not as valuable, which could be a warning sign for investors. By looking at PV10, investors get a snapshot of the company's future [earning](/wiki/earning-announcement) potential, helping them decide if the investment is worth it.
 
 ## How does PV10 differ from other valuation metrics like NPV?
 
@@ -72,7 +72,7 @@ But technology can also change how much oil and gas you think you can get out of
 
 Advanced modeling techniques like Monte Carlo simulations can help make PV10 more accurate. These simulations let you test lots of different guesses about things like oil prices and how much oil you can get out of the ground. By running these tests many times, you get a better idea of what might happen in the future. This helps you see not just one possible PV10 value, but a range of values, which gives you a clearer picture of the risks and rewards of your investment.
 
-Another technique is using better data analysis tools, like machine learning. These tools can look at a lot of past data to find patterns that help predict what will happen with oil prices and how much oil you can extract. By using these predictions in your PV10 calculations, you can make them more accurate. These advanced methods help you make smarter decisions because they give you a more detailed and reliable view of what your oil and gas reserves might be worth in the future.
+Another technique is using better data analysis tools, like [machine learning](/wiki/machine-learning). These tools can look at a lot of past data to find patterns that help predict what will happen with oil prices and how much oil you can extract. By using these predictions in your PV10 calculations, you can make them more accurate. These advanced methods help you make smarter decisions because they give you a more detailed and reliable view of what your oil and gas reserves might be worth in the future.
 
 ## How can investors use PV10 alongside other financial metrics to build a robust investment strategy in the energy sector?
 

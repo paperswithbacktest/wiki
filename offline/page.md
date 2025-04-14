@@ -19,7 +19,7 @@ Offline machine learning and online machine learning are two different ways to t
 
 Online machine learning, on the other hand, updates the model as new data comes in. This means the model keeps learning and changing even after it starts being used. It's like learning a new language where you keep adding new words and phrases every day. This approach is useful when you need the model to adapt quickly to new information. For instance, if you're trying to detect fraud in credit card transactions, you want your model to learn from new fraud patterns as soon as they appear, so it can stay effective.
 
-Both methods have their own advantages and are chosen based on what you need. Offline machine learning is simpler and works well when you can wait to update your model. Online machine learning is more complex but necessary when you need your model to keep improving with new data.
+Both methods have their own advantages and are chosen based on what you need. Offline [machine learning](/wiki/machine-learning) is simpler and works well when you can wait to update your model. Online machine learning is more complex but necessary when you need your model to keep improving with new data.
 
 ## What are the advantages of using offline machine learning?
 

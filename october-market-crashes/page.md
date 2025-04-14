@@ -84,7 +84,7 @@ But not all parts of the economy are hurt the same way. Some businesses, like th
 
 ## What are the strategies to navigate market volatility in October?
 
-To effectively navigate market volatility in October, a well-crafted investment strategy is essential. A primary approach to mitigating risks associated with potential market downturns during this period is creating a diversified portfolio. Diversification involves spreading investments across various asset classes, such as stocks, bonds, and commodities, to reduce dependence on a single investment's performance. According to modern portfolio theory, diversification can minimize risk without significantly impacting returns. The formula for calculating portfolio variance, a common measure of risk, highlights diversification's effect:
+To effectively navigate market [volatility](/wiki/volatility-trading-strategies) in October, a well-crafted investment strategy is essential. A primary approach to mitigating risks associated with potential market downturns during this period is creating a diversified portfolio. Diversification involves spreading investments across various asset classes, such as stocks, bonds, and commodities, to reduce dependence on a single investment's performance. According to modern portfolio theory, diversification can minimize risk without significantly impacting returns. The formula for calculating portfolio variance, a common measure of risk, highlights diversification's effect:
 
 $$
 \sigma_p^2 = \sum_{i=1}^{n} w_i^2 \sigma_i^2 + \sum_{i=1}^{n-1} \sum_{j=i+1}^{n} 2 w_i w_j \sigma_{i,j}

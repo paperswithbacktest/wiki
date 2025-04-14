@@ -18,7 +18,7 @@ In the world of cryptocurrency, ZK-SNARKs are used to make transactions private.
 
 ZK-SNARKs help keep transactions private by letting someone prove they have the right to spend some money without showing where the money came from or where it's going. Imagine you want to buy something without anyone knowing it's you. With ZK-SNARKs, you can prove you have the money and the right to spend it, but you don't have to show your wallet or the shop's name to anyone else.
 
-In a cryptocurrency like Zcash, when you send money, the transaction details are hidden. Only the sender and receiver know the full details. Everyone else on the network can see that a transaction happened, but they can't see who sent what to whom. This is like sending a secret message in a bottle; only the person who knows the secret code can read it, while everyone else just sees a bottle floating by.
+In a [cryptocurrency](/wiki/cryptocurrency) like Zcash, when you send money, the transaction details are hidden. Only the sender and receiver know the full details. Everyone else on the network can see that a transaction happened, but they can't see who sent what to whom. This is like sending a secret message in a bottle; only the person who knows the secret code can read it, while everyone else just sees a bottle floating by.
 
 ## What are the basic components of a ZK-SNARK?
 

@@ -36,7 +36,7 @@ The survey also asks about other important things like how much money people mak
 
 The Current Population Survey collects a lot of information about people's jobs. Every month, they ask about 60,000 households if they are working or not. This helps them figure out the unemployment rate, which tells us how many people want a job but can't find one. They also ask about how many hours people work and what kind of jobs they have.
 
-Besides job information, the CPS also asks about other important things. They want to know how much money people make, which helps understand if people are earning enough to live comfortably. They also ask if people have health insurance, which is important for knowing if people can get the medical care they need. Lastly, they check if people are going to school, which helps the government plan for education.
+Besides job information, the CPS also asks about other important things. They want to know how much money people make, which helps understand if people are [earning](/wiki/earning-announcement) enough to live comfortably. They also ask if people have health insurance, which is important for knowing if people can get the medical care they need. Lastly, they check if people are going to school, which helps the government plan for education.
 
 All this information is very useful. It helps the government see the big picture of what's happening with jobs, money, health, and education in the country. By knowing these details, they can make better plans and policies to help people have better lives.
 
@@ -46,7 +46,7 @@ The Current Population Survey uses a special way to pick the households they tal
 
 After choosing the areas, they pick specific households within those areas. They use a list of addresses from the Census Bureau to do this. The idea is to make sure the households they choose are a good mix of different kinds of people, so the survey results can represent everyone in the country. They talk to the same households for four months, take a break for eight months, and then talk to them again for another four months. This helps them see changes over time.
 
-This way of picking the sample is important because it makes the survey results more accurate. By including different areas and types of households, the CPS can give a good picture of what's happening with jobs, money, health, and education all over the United States. This helps the government make better decisions to help people.
+This way of [picking](/wiki/asset-class-picking) the sample is important because it makes the survey results more accurate. By including different areas and types of households, the CPS can give a good picture of what's happening with jobs, money, health, and education all over the United States. This helps the government make better decisions to help people.
 
 ## What is the typical response rate for the CPS?
 
@@ -88,7 +88,7 @@ Another change was how they try to get more people to answer the survey. They st
 
 ## What is the relationship between Algorithmic Trading and CPS Data?
 
-Algorithmic trading relies on the ability to process and analyze vast amounts of data rapidly and accurately, allowing traders to make informed decisions in real-time. The demographic and employment statistics provided by the Current Population Survey (CPS) serve as a critical input for developing sophisticated trading strategies. By incorporating CPS data, traders can assess labor market trends, identify economic shifts, and anticipate market movements more effectively.
+Algorithmic trading relies on the ability to process and analyze vast amounts of data rapidly and accurately, allowing traders to make informed decisions in real-time. The demographic and employment [statistics](/wiki/bayesian-statistics) provided by the Current Population Survey (CPS) serve as a critical input for developing sophisticated trading strategies. By incorporating CPS data, traders can assess labor market trends, identify economic shifts, and anticipate market movements more effectively.
 
 CPS data, including unemployment rates, labor force participation rates, and employment demographics, provide valuable insights into the economic health and potential consumer behavior. For instance, high unemployment rates can indicate economic downturns, which may lead to downward trends in certain markets. Conversely, increases in the labor force participation rate might signal economic recovery or growth, potentially driving up stock prices in specific sectors.
 

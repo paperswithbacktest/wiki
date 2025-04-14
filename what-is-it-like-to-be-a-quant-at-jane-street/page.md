@@ -58,7 +58,7 @@ The company also supports quants by letting them work with smart people from dif
 
 ## What are some notable projects or contributions made by quants at Jane Street?
 
-Quants at Jane Street have worked on many important projects that help the company trade better. One big project was creating new trading strategies using machine learning. They used a lot of data to teach computers how to make smart choices about buying and selling. This helped Jane Street make more money and manage risks better. It was a big deal because it showed how math and computers can make trading more successful.
+Quants at Jane Street have worked on many important projects that help the company trade better. One big project was creating new trading strategies using [machine learning](/wiki/machine-learning). They used a lot of data to teach computers how to make smart choices about buying and selling. This helped Jane Street make more money and manage risks better. It was a big deal because it showed how math and computers can make trading more successful.
 
 Another cool thing quants at Jane Street did was building tools to make their work easier. They made software that helps them test their ideas quickly and see if they work. This software lets them try out many different strategies without taking big risks. It's like having a safe place to practice before playing the real game. This has made Jane Street's trading much more efficient and helped the quants do their jobs better.
 
@@ -70,7 +70,7 @@ Another important part of their collaboration is with the risk management team. 
 
 ## What are the latest trends or technologies impacting the role of a quant at Jane Street?
 
-One big trend that's changing the job of a quant at Jane Street is the use of machine learning and artificial intelligence. These technologies help quants make better predictions and find new trading strategies. They can look at huge amounts of data quickly and find patterns that humans might miss. This means quants can try out more ideas and make smarter choices about when to buy or sell. It's like having a super smart helper that makes their job easier and more effective.
+One big trend that's changing the job of a quant at Jane Street is the use of machine learning and [artificial intelligence](/wiki/ai-artificial-intelligence). These technologies help quants make better predictions and find new trading strategies. They can look at huge amounts of data quickly and find patterns that humans might miss. This means quants can try out more ideas and make smarter choices about when to buy or sell. It's like having a super smart helper that makes their job easier and more effective.
 
 Another important technology is cloud computing. It lets quants use powerful computers over the internet to run their models and analyze data. This means they can work faster and handle more information than before. Cloud computing also makes it easier for quants to work together with other teams, because everyone can access the same tools and data from anywhere. This helps them share ideas and make decisions more quickly, which is really important in the fast-moving world of trading.
 

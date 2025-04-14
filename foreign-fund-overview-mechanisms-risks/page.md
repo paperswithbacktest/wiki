@@ -22,7 +22,7 @@ The main reason people choose foreign funds is to spread their investment risk. 
 
 ## What are the primary mechanisms through which foreign funds operate?
 
-Foreign funds work by collecting money from investors and using that money to buy assets like stocks and bonds from other countries. When you invest in a foreign fund, you're giving your money to the fund manager. The manager then uses that money to buy investments in different countries, hoping to make a profit. The fund might focus on one region, like Europe, or it could spread out across the world. The goal is to grow the money by picking good investments in other countries.
+Foreign funds work by collecting money from investors and using that money to buy assets like stocks and bonds from other countries. When you invest in a foreign fund, you're giving your money to the fund manager. The manager then uses that money to buy investments in different countries, hoping to make a profit. The fund might focus on one region, like Europe, or it could spread out across the world. The goal is to grow the money by [picking](/wiki/asset-class-picking) good investments in other countries.
 
 Foreign funds also have to deal with things like currency changes and different rules in other countries. If the value of the currency in the country where the fund invests goes up or down, it can affect how much money the fund makes. For example, if the fund buys stocks in Japan and the yen gets stronger, the value of those stocks in your home currency might go up. Also, the fund manager has to follow the laws and regulations of the countries they invest in, which can be tricky. This is why foreign funds can be riskier than domestic funds, but they also offer a chance to make money in different parts of the world.
 
@@ -123,7 +123,7 @@ In summary, fund mechanisms are crucial for the structure and efficient operatio
 
 Chen, J. 'Foreign Fund: What It Is, How It Works, Risks.' Investopedia. This resource provides a comprehensive overview of foreign funds, detailing how they function and outlining the associated risks investors face when investing in international markets.
 
-Jansen, S. 'Machine Learning for Algorithmic Trading.' This book offers insights into how machine learning techniques are applied in algorithmic trading, presenting models and strategies that can enhance trading accuracy and efficiency.
+Jansen, S. 'Machine Learning for Algorithmic Trading.' This book offers insights into how [machine learning](/wiki/machine-learning) techniques are applied in [algorithmic trading](/wiki/algorithmic-trading), presenting models and strategies that can enhance trading accuracy and efficiency.
 
 Johnson, B. 'Algorithmic Trading and DMA.' An in-depth exploration of algorithmic trading and Direct Market Access (DMA), this text covers the mechanics behind automated trading systems and their application in modern financial markets.
 

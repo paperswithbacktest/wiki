@@ -38,7 +38,7 @@ Another way to think about filters is like a checklist. Before making a trade, t
 
 In trading, people often use different kinds of filters to help them decide when to buy or sell. One common type of filter is a moving average. This is a line on a chart that shows the average price of a stock over a certain time, like 50 days or 200 days. Traders might buy a stock if its price goes above the moving average and sell if it goes below. Another popular filter is price levels. Traders might set a certain price and decide to buy if the stock goes above that price or sell if it goes below another price. These filters help traders stick to a plan and not make decisions based on feelings.
 
-Other types of filters include technical indicators like the Relative Strength Index (RSI) or the Moving Average Convergence Divergence (MACD). The RSI measures how fast a stock's price is going up or down and can help traders see if a stock is overbought or oversold. The MACD looks at the difference between two moving averages and can signal when to buy or sell. Traders also use volume filters, which look at how many shares of a stock are being traded. If the volume is high, it might mean more people are interested in the stock, and that could be a good time to buy or sell. By using these different filters, traders can make better decisions and follow a clear plan.
+Other types of filters include technical indicators like the Relative Strength Index (RSI) or the Moving Average Convergence Divergence (MACD). The RSI measures how fast a stock's price is going up or down and can help traders see if a stock is overbought or oversold. The MACD looks at the difference between two moving averages and can signal when to buy or sell. Traders also use [volume](/wiki/volume-trading-strategy) filters, which look at how many shares of a stock are being traded. If the volume is high, it might mean more people are interested in the stock, and that could be a good time to buy or sell. By using these different filters, traders can make better decisions and follow a clear plan.
 
 ## How do you set up a simple filter trading strategy for beginners?
 
@@ -80,7 +80,7 @@ Using risk management rules in a filter trading strategy is important because it
 
 One real-world example of a successful filter trading strategy is the use of the 200-day moving average by many institutional investors. A well-known case is the Turtle Traders, a group of traders trained by Richard Dennis and William Eckhardt in the 1980s. They used a simple filter strategy where they bought stocks when the price went above the 200-day moving average and sold when it went below. This strategy helped them make a lot of money because it allowed them to follow a clear plan and avoid making emotional decisions. By sticking to the moving average filter, the Turtle Traders were able to capture long-term trends in the market and achieve consistent profits.
 
-Another example is the use of the Relative Strength Index (RSI) combined with moving averages by some hedge funds. A notable case is the strategy used by the hedge fund Renaissance Technologies. They use a complex set of filters, including RSI, to find the best times to buy and sell stocks. For instance, they might buy a stock when its price goes above a short-term moving average and the RSI is below 70, indicating it's not overbought. This multi-filter approach helps them make more informed decisions and reduce the risk of bad trades. By combining different filters, Renaissance Technologies has been able to achieve high returns and manage risk effectively in the volatile stock market.
+Another example is the use of the Relative Strength Index (RSI) combined with moving averages by some hedge funds. A notable case is the strategy used by the [hedge fund](/wiki/hedge-fund-trading-strategies) Renaissance Technologies. They use a complex set of filters, including RSI, to find the best times to buy and sell stocks. For instance, they might buy a stock when its price goes above a short-term moving average and the RSI is below 70, indicating it's not overbought. This multi-filter approach helps them make more informed decisions and reduce the risk of bad trades. By combining different filters, Renaissance Technologies has been able to achieve high returns and manage risk effectively in the volatile stock market.
 
 ## What are the challenges and limitations?
 
@@ -98,7 +98,7 @@ Where $E$ is the total error, $E_{\text{training}}$ is the error on historical d
 
 **Impact of Market Conditions on Filter Strategies**
 
-The efficacy of filter trading strategies is heavily dependent on current market conditions, which are inherently volatile and unpredictable. Filter strategies typically excel in specific market environments (e.g., trending or ranging markets) but may perform poorly in others. During periods of high volatility or sudden market shifts, the filters might fail to adapt promptly, leading to significant trading losses. The assumption that past trends and patterns will continue is a fundamental risk, as markets do not always behave consistently.
+The efficacy of filter trading strategies is heavily dependent on current market conditions, which are inherently volatile and unpredictable. Filter strategies typically excel in specific market environments (e.g., trending or ranging markets) but may perform poorly in others. During periods of high [volatility](/wiki/volatility-trading-strategies) or sudden market shifts, the filters might fail to adapt promptly, leading to significant trading losses. The assumption that past trends and patterns will continue is a fundamental risk, as markets do not always behave consistently.
 
 **Computational and Resource Limitations**
 
@@ -110,7 +110,7 @@ $$
 
 Where $C$ is the computational cost, $n$ is the number of data points, and $m$ is the complexity of operations performed per data point. High-frequency trading necessitates low latency in execution, demanding high-performance computing systems and extensive infrastructure. Additionally, accessing historical data for strategy development and [backtesting](/wiki/backtesting) can be resource-intensive, requiring significant storage and retrieval capabilities.
 
-Overall, while filter trading strategies offer potential advantages in clarity and risk management, traders must carefully navigate these challenges to effectively leverage them in algorithmic trading. Reducing overfitting, understanding the influence of market conditions, and ensuring sufficient computational resources are critical steps in mitigating these limitations.
+Overall, while filter trading strategies offer potential advantages in clarity and risk management, traders must carefully navigate these challenges to effectively leverage them in [algorithmic trading](/wiki/algorithmic-trading). Reducing overfitting, understanding the influence of market conditions, and ensuring sufficient computational resources are critical steps in mitigating these limitations.
 
 ## Question: What makes a case study on successful implementation noteworthy?
 

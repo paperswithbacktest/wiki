@@ -98,7 +98,7 @@ For investors, DPS is critical for evaluating a company's dividend policy. By an
 
 Investopedia articles provide foundational knowledge on key metrics such as Dividend Per Share (DPS) and Fundamental Analysis, offering valuable insights for both novice and experienced investors. These resources cover the essentials of understanding and evaluating financial health and potential investment returns based on dividend distributions. 
 
-Research papers exploring the impact of algorithmic trading in financial markets analyze how algorithmic models enhance trading efficiency and execution accuracy. These studies typically investigate how algorithms utilize financial metrics, such as DPS, to optimize trading strategies and minimize risks associated with emotional biases.
+Research papers exploring the impact of [algorithmic trading](/wiki/algorithmic-trading) in financial markets analyze how algorithmic models enhance trading efficiency and execution accuracy. These studies typically investigate how algorithms utilize financial metrics, such as DPS, to optimize trading strategies and minimize risks associated with emotional biases.
 
 Books on dividend investing offer comprehensive strategies on building portfolios that focus on companies with consistent dividend payments. These resources delve into identifying firms with sustainable dividend policies and understanding their underlying financial metrics, including DPS.
 

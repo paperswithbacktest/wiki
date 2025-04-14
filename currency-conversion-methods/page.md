@@ -26,7 +26,7 @@ One basic method of currency conversion is using a bank or a currency exchange o
 
 Another way to convert currency is by using an online service or an app. Many websites and apps let you convert money online. You can enter how much money you want to convert and choose the currencies. The service will then tell you how much money you will get after the conversion. This method is good because it's fast and you can do it from home, but you need to be careful to use a trusted service to keep your money safe.
 
-A third method is using an ATM when you are in another country. If you have a bank card, you can use it at an ATM to get money in the local currency. The ATM will convert your money automatically using the exchange rate. This is handy when you are traveling because you don't need to carry a lot of cash. Just remember that there might be fees from your bank and the ATM for using this service.
+A third method is using an ATM when you are in another country. If you have a bank card, you can use it at an ATM to get money in the local currency. The ATM will convert your money automatically using the exchange rate. This is handy when you are traveling because you don't need to [carry](/wiki/carry-trading) a lot of cash. Just remember that there might be fees from your bank and the ATM for using this service.
 
 ## How does the exchange rate affect currency conversion?
 
@@ -66,9 +66,9 @@ When a bank or a company needs to convert a lot of money, they plan carefully. T
 
 ## What are the advanced tools used for predicting exchange rate movements?
 
-To predict how exchange rates will move, people use special tools that help them understand what might happen next. One common tool is called technical analysis, which looks at past prices and trading patterns to guess future movements. Traders use charts and graphs to find patterns that might repeat. Another tool is fundamental analysis, which looks at things like a country's economy, interest rates, and political news to predict how the currency might change. By understanding these big factors, people can make better guesses about where the exchange rate is headed.
+To predict how exchange rates will move, people use special tools that help them understand what might happen next. One common tool is called technical analysis, which looks at past prices and trading patterns to guess future movements. Traders use charts and graphs to find patterns that might repeat. Another tool is [fundamental analysis](/wiki/fundamental-analysis), which looks at things like a country's economy, interest rates, and political news to predict how the currency might change. By understanding these big factors, people can make better guesses about where the exchange rate is headed.
 
-There are also more advanced tools like econometric models and machine learning algorithms. Econometric models use math to predict exchange rates based on lots of different data, like economic reports and market trends. Machine learning algorithms can learn from past data to find patterns that humans might miss. These tools can be very helpful, but they're not perfect. Exchange rates can be hard to predict because they can change quickly because of things like unexpected news or sudden changes in the market. So, even with these advanced tools, predicting exchange rates is still a bit like trying to guess the future.
+There are also more advanced tools like econometric models and [machine learning](/wiki/machine-learning) algorithms. Econometric models use math to predict exchange rates based on lots of different data, like economic reports and market trends. Machine learning algorithms can learn from past data to find patterns that humans might miss. These tools can be very helpful, but they're not perfect. Exchange rates can be hard to predict because they can change quickly because of things like unexpected news or sudden changes in the market. So, even with these advanced tools, predicting exchange rates is still a bit like trying to guess the future.
 
 ## How does currency conversion impact international trade and investment?
 

@@ -96,7 +96,7 @@ $$
 
 where $Z$ is the Z-score corresponding to the desired confidence level, $\sigma_p$ is the standard deviation of the portfolio returns, and $t$ is the time period.
 
-Moreover, Bloomberg Terminal facilitates backtesting of trading and investment strategies by providing access to historical data. By analyzing past market conditions and performance, investors can validate the effectiveness of their strategies and refine them to optimize future portfolio decisions. Historical data, combined with Bloomberg's powerful analytics tools, enables a thorough evaluation of strategies, minimizing the risk of relying on untested methodologies.
+Moreover, Bloomberg Terminal facilitates [backtesting](/wiki/backtesting) of trading and investment strategies by providing access to historical data. By analyzing past market conditions and performance, investors can validate the effectiveness of their strategies and refine them to optimize future portfolio decisions. Historical data, combined with Bloomberg's powerful analytics tools, enables a thorough evaluation of strategies, minimizing the risk of relying on untested methodologies.
 
 A noteworthy case study highlighting the effective integration of Bloomberg's analytics is its use in optimizing portfolio decisions at a global asset management firm. By leveraging real-time data and risk analysis tools, the firm was able to enhance its investment strategy, improving its portfolio diversification and risk-adjusted returns. The firm utilized Bloomberg's analytics to monitor market conditions continuously, adjust its asset allocations dynamically, and hedge against potential losses effectively.
 

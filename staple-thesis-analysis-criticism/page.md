@@ -36,7 +36,7 @@ Innis also believed that the success of a staple could shape a whole country's e
 
 The Staple Thesis talks about how countries can grow their economies by focusing on one main product, called a staple. In Canada, one of the key staples was fur. During the early days of Canada's history, people hunted animals like beavers for their fur and sold it to Europe. This helped Canada make money and build its economy. Another important staple for Canada was fish, especially cod. Fishermen caught cod off the coast of Newfoundland and sold it to other countries. This also helped Canada earn money and grow.
 
-Another staple discussed in the Staple Thesis is wheat. As Canada's farming industry grew, wheat became a big product that the country sold to other places. The money from selling wheat helped Canada build railways to move the wheat from farms to ports. Timber, or wood, was also a staple. Canada cut down trees and sold the wood to other countries. This helped Canada's economy grow by earning money from selling timber. All these examples show how focusing on one main product can help a country develop its economy.
+Another staple discussed in the Staple Thesis is wheat. As Canada's farming industry grew, wheat became a big product that the country sold to other places. The money from selling wheat helped Canada build railways to move the wheat from farms to ports. Timber, or wood, was also a staple. Canada cut down trees and sold the wood to other countries. This helped Canada's economy grow by [earning](/wiki/earning-announcement) money from selling timber. All these examples show how focusing on one main product can help a country develop its economy.
 
 ## What are the criticisms of the Staple Thesis regarding its assumptions?
 

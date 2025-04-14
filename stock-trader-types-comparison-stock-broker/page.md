@@ -26,7 +26,7 @@ All these traders need to understand the stock market well. They also need to kn
 
 A day trader and a swing trader both buy and sell stocks, but they do it in different ways. A day trader buys and sells stocks within the same day. They look for small changes in stock prices and try to make quick profits from these changes. Day traders might make many trades in one day, and they usually don't hold onto stocks overnight. This type of trading can be exciting but also risky because the stock market can be unpredictable.
 
-On the other hand, a swing trader holds onto stocks for a few days or weeks. They look for bigger changes in stock prices over a short period of time. Swing traders might not make as many trades as day traders, but they aim to make larger profits from each trade. This type of trading can be less stressful than day trading because they don't have to watch the market as closely every day. Both types of traders need to understand the stock market well and manage their risks carefully.
+On the other hand, a swing trader holds onto stocks for a few days or weeks. They look for bigger changes in stock prices over a short period of time. Swing traders might not make as many trades as day traders, but they aim to make larger profits from each trade. This type of trading can be less stressful than [day trading](/wiki/day-trading-spy) because they don't have to watch the market as closely every day. Both types of traders need to understand the stock market well and manage their risks carefully.
 
 ## What is the role of a stock broker?
 
@@ -42,7 +42,7 @@ A stock broker, on the other hand, helps people buy and sell stocks. They work f
 
 ## What qualifications are needed to become a stock trader?
 
-To become a stock trader, you don't need a specific degree, but having a strong background in finance, economics, or business can be very helpful. Many successful stock traders have at least a bachelor's degree in one of these fields. They also often have a good understanding of math and statistics, which helps them analyze stock market data and make smart decisions. Some traders choose to get a master's degree or an MBA to learn even more about the financial world.
+To become a stock trader, you don't need a specific degree, but having a strong background in finance, economics, or business can be very helpful. Many successful stock traders have at least a bachelor's degree in one of these fields. They also often have a good understanding of math and [statistics](/wiki/bayesian-statistics), which helps them analyze stock market data and make smart decisions. Some traders choose to get a master's degree or an MBA to learn even more about the financial world.
 
 Besides education, becoming a good stock trader takes a lot of practice and experience. Many traders start by working for a financial company or a brokerage firm to learn the ropes. They need to keep up with the latest news and trends in the stock market and be able to think quickly and make decisions under pressure. It's also important for stock traders to be disciplined and good at managing risk. Over time, with hard work and dedication, anyone can become a successful stock trader.
 
@@ -62,9 +62,9 @@ Traders also use something called position sizing to manage risk. This means the
 
 ## What are the common strategies employed by professional stock traders?
 
-Professional stock traders use different strategies to make money. One common strategy is called technical analysis. This means they look at charts and graphs to see how stock prices have moved in the past. They use this information to guess where the prices might go next. Another strategy is fundamental analysis. This means they study a company's financial health, like its profits and debts, to decide if its stock is a good buy. Some traders also use a mix of both strategies to make their decisions.
+Professional stock traders use different strategies to make money. One common strategy is called technical analysis. This means they look at charts and graphs to see how stock prices have moved in the past. They use this information to guess where the prices might go next. Another strategy is [fundamental analysis](/wiki/fundamental-analysis). This means they study a company's financial health, like its profits and debts, to decide if its stock is a good buy. Some traders also use a mix of both strategies to make their decisions.
 
-Another strategy is called momentum trading. This is when traders buy stocks that are going up quickly and sell them when they start to go down. They believe that stocks that are moving fast will keep moving in the same direction for a while. Some traders also use a strategy called arbitrage. This means they buy a stock in one place and sell it in another place where the price is higher. This can make a quick profit if done right. All these strategies help traders try to make money in the stock market.
+Another strategy is called [momentum](/wiki/momentum) trading. This is when traders buy stocks that are going up quickly and sell them when they start to go down. They believe that stocks that are moving fast will keep moving in the same direction for a while. Some traders also use a strategy called [arbitrage](/wiki/arbitrage). This means they buy a stock in one place and sell it in another place where the price is higher. This can make a quick profit if done right. All these strategies help traders try to make money in the stock market.
 
 Lastly, some traders use a strategy called hedging. This means they buy or sell other investments to protect themselves from losing money on their stocks. For example, they might buy an option that goes up in value if their stock goes down. This can help them limit their losses. Each trader might use different strategies based on what they think will work best for them. The key is to understand the market well and use the right tools and knowledge to make smart decisions.
 

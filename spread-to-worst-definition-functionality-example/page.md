@@ -102,7 +102,7 @@ Both STW and YTW are pivotal in comprehensively evaluating the risk and return p
 
 ## How can you calculate YTW using algorithmic trading?
 
-Integrating Yield-to-Worst (YTW) calculations into algorithmic trading requires a combination of mathematical precision and computational efficiency. This integration involves several key components, including data inputs and management, programming parameters, constraints, and the use of specialized software tools to achieve accurate and efficient calculations.
+Integrating Yield-to-Worst (YTW) calculations into [algorithmic trading](/wiki/algorithmic-trading) requires a combination of mathematical precision and computational efficiency. This integration involves several key components, including data inputs and management, programming parameters, constraints, and the use of specialized software tools to achieve accurate and efficient calculations.
 
 ### Key Components of YTW Calculations
 

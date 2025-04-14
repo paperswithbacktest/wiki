@@ -101,7 +101,7 @@ $$
 
 Algorithmic trading uses computer algorithms to automatically execute trades based on predefined instructions derived from quantitative data analysis. This method seeks to enhance efficacy by leveraging absolute and relative return metrics. These metrics are crucial as they provide insights into market performance and investment returns, thus aiding the optimization of algorithms.
 
-In [algorithmic trading](/wiki/algorithmic-trading), performance metrics such as alpha, beta, and Sharpe ratio are paramount. Alpha measures an investment's performance in excess of a market index or benchmark, indicating the value a trader adds beyond the market return. Beta quantifies the volatility or systemic risk of an investment compared to the market as a whole. The Sharpe ratio evaluates risk-adjusted returns by calculating the excess return per unit of risk, expressed as:
+In [algorithmic trading](/wiki/algorithmic-trading), performance metrics such as alpha, beta, and Sharpe ratio are paramount. Alpha measures an investment's performance in excess of a market index or benchmark, indicating the value a trader adds beyond the market return. Beta quantifies the [volatility](/wiki/volatility-trading-strategies) or systemic risk of an investment compared to the market as a whole. The Sharpe ratio evaluates risk-adjusted returns by calculating the excess return per unit of risk, expressed as:
 
 $$
 \text{Sharpe Ratio} = \frac{E[R] - R_f}{\sigma}

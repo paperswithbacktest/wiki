@@ -30,7 +30,7 @@ Since they started, Wolverine Trading has grown a lot. They now have offices in 
 
 Wolverine Trading offers services that help people buy and sell different financial products. They focus on trading stocks, options, and other securities. They use computers and special programs to do this quickly and efficiently. This helps their customers make money by buying and selling at the right times.
 
-The company also provides market making services. This means they help make sure there are always buyers and sellers for certain financial products. This helps keep the market running smoothly. Wolverine Trading uses technology to do this well, and they have smart people who create new ways to make trading easier and faster.
+The company also provides [market making](/wiki/market-making) services. This means they help make sure there are always buyers and sellers for certain financial products. This helps keep the market running smoothly. Wolverine Trading uses technology to do this well, and they have smart people who create new ways to make trading easier and faster.
 
 ## In which countries does Wolverine Trading operate?
 
@@ -78,7 +78,7 @@ Another big achievement for Wolverine Trading is how they help keep the market r
 
 ## What future trends might impact Wolverine Trading's business model?
 
-Future trends like more use of artificial intelligence (AI) and machine learning could change how Wolverine Trading does business. These technologies can help them make even better decisions about when to buy and sell stocks and options. They might use AI to look at more data and find new ways to trade that they didn't think of before. This could make their trading faster and more accurate, helping them make more money for their customers.
+Future trends like more use of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning) could change how Wolverine Trading does business. These technologies can help them make even better decisions about when to buy and sell stocks and options. They might use AI to look at more data and find new ways to trade that they didn't think of before. This could make their trading faster and more accurate, helping them make more money for their customers.
 
 Another trend that might affect Wolverine Trading is changes in rules and laws about trading. Governments and other groups might make new rules to make sure trading is fair and safe. Wolverine Trading will need to keep up with these changes and make sure they follow all the new rules. This might mean they have to change how they trade or use new technology to stay compliant. By staying on top of these trends, Wolverine Trading can keep helping their customers make money in the market.
 

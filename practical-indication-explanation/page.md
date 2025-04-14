@@ -84,7 +84,7 @@ Another way experts help is by doing experiments to test different types of sign
 
 ## What are the practical indications for beginners?
 
-For beginners venturing into algorithmic trading, understanding foundational indicators is essential. Two widely acknowledged indicators suitable for novices are the Moving Averages and the Relative Strength Index (RSI).
+For beginners venturing into [algorithmic trading](/wiki/algorithmic-trading), understanding foundational indicators is essential. Two widely acknowledged indicators suitable for novices are the Moving Averages and the Relative Strength Index (RSI).
 
 Moving Averages are statistical metrics that smooth out price data by creating a constantly updated average price. This indicator is crucial for identifying trends and potential reversals in the market. The Simple Moving Average (SMA) is calculated by summing the closing prices over a specific period and then dividing by the number of periods. The formula is as follows:
 

@@ -24,11 +24,11 @@ This value is important because it shows the current worth of an asset on the co
 
 Book value is calculated by taking the total value of a company's assets and subtracting all of its liabilities. Assets are things the company owns, like buildings, equipment, and money in the bank. Liabilities are what the company owes, like loans or bills. When you subtract the liabilities from the assets, you get the book value, which is also called the net worth of the company.
 
-This calculation gives you a snapshot of how much the company would be worth if it sold all its assets and paid off all its debts. It's a useful number because it helps investors and others understand the basic financial health of a company. However, book value doesn't tell the whole story. It doesn't include things like the company's reputation or future earning potential, which can also affect its real value.
+This calculation gives you a snapshot of how much the company would be worth if it sold all its assets and paid off all its debts. It's a useful number because it helps investors and others understand the basic financial health of a company. However, book value doesn't tell the whole story. It doesn't include things like the company's reputation or future [earning](/wiki/earning-announcement) potential, which can also affect its real value.
 
 ## How is carrying value calculated?
 
-Carrying value is how much an asset is worth on a company's books. To find it, you start with the original cost of the asset. Then, you subtract any depreciation, amortization, or impairment costs that have been taken over time. For example, if a company buys a truck for $50,000 and it loses $10,000 in value each year due to depreciation, after one year, the carrying value of the truck would be $40,000.
+Carrying value is how much an asset is worth on a company's [books](/wiki/algo-trading-books). To find it, you start with the original cost of the asset. Then, you subtract any depreciation, amortization, or impairment costs that have been taken over time. For example, if a company buys a truck for $50,000 and it loses $10,000 in value each year due to depreciation, after one year, the carrying value of the truck would be $40,000.
 
 This number is important because it shows the current worth of an asset on the company's balance sheet. It helps people see how much value the company still has in its assets. Sometimes, the carrying value can be different from the market value, which is what someone might pay for the asset if it was sold today. The market value can change based on demand and other factors, while the carrying value is based on the company's accounting records.
 

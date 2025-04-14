@@ -62,7 +62,7 @@ Scenario planning goes a step further by looking at different big pictures of wh
 
 To make financial models more accurate, one advanced technique is using Monte Carlo simulations. This method lets us run the model many times with different random guesses for things like sales growth or costs. By doing this, we can see a range of possible outcomes instead of just one guess. It helps us understand how likely different results are and plan for the best and worst cases. This way, we can make better decisions because we have a clearer picture of what might happen.
 
-Another technique is using machine learning and artificial intelligence. These tools can look at a lot of data and find patterns that we might miss. For example, they can help us predict how customers will act or how the market will change. By adding these predictions into our financial models, we can make them more accurate. It's like having a smart helper that can see things we can't and make our guesses about the future better.
+Another technique is using [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence). These tools can look at a lot of data and find patterns that we might miss. For example, they can help us predict how customers will act or how the market will change. By adding these predictions into our financial models, we can make them more accurate. It's like having a smart helper that can see things we can't and make our guesses about the future better.
 
 ## How do you incorporate risk analysis into financial modeling?
 
@@ -74,7 +74,7 @@ Another way to include risk analysis is by using something called a sensitivity 
 
 To make sure a financial model is good and works right, it's important to check it carefully. One way to do this is by testing the model with different numbers to see if it gives the right answers. This is called stress testing. You can change things like how much the company sells or how much it costs to make things, and see if the model still makes sense. Another way is to have someone else look at the model. This person can check if the numbers and guesses in the model are reasonable and if everything adds up correctly. It's like having a second pair of eyes to catch any mistakes.
 
-Another important thing to do is to compare the model's guesses with what really happens. This is called backtesting. If the model's guesses are close to what actually happens, then it's probably a good model. If not, you might need to change some of the guesses or the way the model works. It's also a good idea to keep updating the model with new information as things change. This way, the model stays useful and helps make better decisions. By doing these things, you can trust that your financial model is as accurate and helpful as possible.
+Another important thing to do is to compare the model's guesses with what really happens. This is called [backtesting](/wiki/backtesting). If the model's guesses are close to what actually happens, then it's probably a good model. If not, you might need to change some of the guesses or the way the model works. It's also a good idea to keep updating the model with new information as things change. This way, the model stays useful and helps make better decisions. By doing these things, you can trust that your financial model is as accurate and helpful as possible.
 
 ## How can financial models be used for strategic decision-making and forecasting?
 

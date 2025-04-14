@@ -22,7 +22,7 @@ These rules can also limit what financial advisors can do with cryptocurrencies.
 
 ## What are the basic compliance requirements for financial advisors under SEC rules regarding cryptocurrencies?
 
-When financial advisors want to deal with cryptocurrencies, they need to follow some rules from the SEC. If a cryptocurrency is considered a security, advisors must give their clients all the important information about it. This includes explaining how risky the investment is and what the possible gains or losses might be. Advisors need to do their homework and make sure they know everything about the cryptocurrency before they talk to their clients about it.
+When financial advisors want to deal with cryptocurrencies, they need to follow some rules from the SEC. If a [cryptocurrency](/wiki/cryptocurrency) is considered a security, advisors must give their clients all the important information about it. This includes explaining how risky the investment is and what the possible gains or losses might be. Advisors need to do their homework and make sure they know everything about the cryptocurrency before they talk to their clients about it.
 
 These rules can make things a bit harder for financial advisors. They have to be careful about which cryptocurrencies they recommend to their clients. If they're not sure if a cryptocurrency is a security or not, they might not be able to suggest it. The rules can change, so advisors need to keep up with what the SEC says and be ready to change how they work if needed. This helps them keep their clients safe and make sure they're following the law.
 

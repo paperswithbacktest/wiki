@@ -36,7 +36,7 @@ The formula for calculating price elasticity of demand is: Price Elasticity of D
 
 ## What factors influence the price elasticity of demand?
 
-Several things can affect how much people change what they buy when prices change. One big factor is whether there are other choices available. If there are lots of similar products to choose from, like different brands of soda, people can easily switch to a cheaper option if one brand raises its price. This makes demand more elastic. Another factor is how necessary the product is. If it's something people really need, like medicine or gas, they will keep buying it even if the price goes up. This makes demand more inelastic.
+Several things can affect how much people change what they buy when prices change. One big [factor](/wiki/factor-investing) is whether there are other choices available. If there are lots of similar products to choose from, like different brands of soda, people can easily switch to a cheaper option if one brand raises its price. This makes demand more elastic. Another factor is how necessary the product is. If it's something people really need, like medicine or gas, they will keep buying it even if the price goes up. This makes demand more inelastic.
 
 The time people have to react to price changes also matters. If prices go up, people might not change their buying habits right away, especially for things they need regularly. But over time, they might find cheaper alternatives or change their habits, making demand more elastic. Also, how much of their income people spend on the product can influence elasticity. If a product takes up a big part of their budget, like a car, people will be more sensitive to price changes, making demand more elastic. But if it's a small part of their budget, like a candy bar, they might not care as much about price changes, making demand more inelastic.
 
@@ -134,7 +134,7 @@ Overall, price elasticity is a pivotal element in supply and demand theory. It i
 
 ## What are Mathematical Formulations and Examples?
 
-Price elasticity is a fundamental concept in economics, crucial for understanding how changes in price can affect demand and supply. For algorithmic trading, accurately calculating price elasticity can significantly enhance trading strategies. 
+Price elasticity is a fundamental concept in economics, crucial for understanding how changes in price can affect demand and supply. For [algorithmic trading](/wiki/algorithmic-trading), accurately calculating price elasticity can significantly enhance trading strategies. 
 
 The Price Elasticity of Demand (PED) is defined mathematically as:
 

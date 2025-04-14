@@ -57,7 +57,7 @@ To make sure the AI learns the right things, the learning algorithm uses a speci
 
 ## What are some successful applications of RLHF in real-world scenarios?
 
-One successful application of RLHF is in training AI models for better conversational agents. Companies like xAI have used RLHF to improve how their AI, like Grok, talks with people. By getting feedback from humans on what makes a conversation helpful and fun, the AI learns to give better answers. This makes the AI more useful for people who use it to ask questions or get help with tasks.
+One successful application of RLHF is in training AI models for better conversational [agents](/wiki/agents). Companies like xAI have used RLHF to improve how their AI, like Grok, talks with people. By getting feedback from humans on what makes a conversation helpful and fun, the AI learns to give better answers. This makes the AI more useful for people who use it to ask questions or get help with tasks.
 
 Another example is in the gaming world, where RLHF helps AI play games in ways that people enjoy. For instance, in strategy games, human trainers can tell the AI which moves are smart and fun, not just which ones lead to winning. This feedback helps the AI learn to play in a way that is more entertaining for players. By using RLHF, game developers can make AI opponents that are challenging but also enjoyable to play against.
 

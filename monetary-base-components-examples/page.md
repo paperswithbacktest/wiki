@@ -60,7 +60,7 @@ The way the central bank changes the monetary base is through things like open m
 
 Quantitative easing is when the central bank buys a lot of bonds and other financial stuff to put more money into the economy. When the central bank does this, it pays banks with new money, which goes into their reserves at the central bank. This makes the reserve balances part of the monetary base bigger. So, the main way quantitative easing affects the monetary base is by increasing the amount of money that banks have in their reserves.
 
-This increase in reserve balances can help the economy because banks can lend more money to people and businesses. When banks lend more, it can help the economy grow because there's more money for people to spend and invest. But, quantitative easing doesn't usually change the amount of currency in circulation directly. That's the physical money like coins and banknotes that people use every day. So, while quantitative easing makes the monetary base bigger by adding to bank reserves, it doesn't usually affect the cash that people carry around.
+This increase in reserve balances can help the economy because banks can lend more money to people and businesses. When banks lend more, it can help the economy grow because there's more money for people to spend and invest. But, quantitative easing doesn't usually change the amount of currency in circulation directly. That's the physical money like coins and banknotes that people use every day. So, while quantitative easing makes the monetary base bigger by adding to bank reserves, it doesn't usually affect the cash that people [carry](/wiki/carry-trading) around.
 
 ## Can you provide examples of how changes in the monetary base have historically influenced economies?
 
@@ -72,7 +72,7 @@ Another example is Japan in the 1990s and early 2000s. Japan faced a long period
 
 Expanding the monetary base can lead to inflation. When the central bank puts more money into the economy, people have more money to spend. If there are too many dollars chasing the same amount of goods and services, prices can go up. This is called inflation, and if it gets too high, it can make life harder for people because their money doesn't go as far. It can also make it tough for the central bank to control the economy because once inflation starts, it can be hard to stop.
 
-Another risk is that expanding the monetary base might not help the economy as much as hoped. If people and businesses don't want to spend or invest the extra money, it can just sit in bank accounts. This is called the "liquidity trap," where even though there's more money, it doesn't get used to help the economy grow. If the central bank keeps adding more money without seeing results, it can lead to problems down the road, like making it harder to control inflation later.
+Another risk is that expanding the monetary base might not help the economy as much as hoped. If people and businesses don't want to spend or invest the extra money, it can just sit in bank accounts. This is called the "[liquidity](/wiki/liquidity-risk-premium) trap," where even though there's more money, it doesn't get used to help the economy grow. If the central bank keeps adding more money without seeing results, it can lead to problems down the road, like making it harder to control inflation later.
 
 ## How do different economic theories interpret the effects of changes in the monetary base?
 
@@ -82,7 +82,7 @@ Other theories, like Keynesian economics, have a different view. Keynesians thin
 
 ## What is the interplay between monetary policies and algorithmic trading?
 
-Monetary policies are pivotal in shaping the landscape within which algorithmic trading functions, particularly by influencing liquidity and volatility in currency markets. When central banks make decisions regarding interest rates and money supply, these actions can lead to significant strategic adjustments by traders employing algorithmic models. 
+Monetary policies are pivotal in shaping the landscape within which [algorithmic trading](/wiki/algorithmic-trading) functions, particularly by influencing liquidity and [volatility](/wiki/volatility-trading-strategies) in currency markets. When central banks make decisions regarding interest rates and money supply, these actions can lead to significant strategic adjustments by traders employing algorithmic models. 
 
 Central banks use [interest rate](/wiki/interest-rate-trading-strategies) policies to control inflation and stimulate economic growth. A change in interest rates affects the cost of borrowing and the incentive to save, which has direct implications for currency values. For instance, an increase in interest rates may lead to an appreciation of the national currency as higher rates attract foreign capital, which increases demand for the currency. Algorithmic trading systems, equipped with algorithms designed to respond instantly to economic indicators, will quickly react to these changes, modifying their trading strategies accordingly. This swift adaptation can amplify market movements, impacting liquidity as trades are executed in rapid succession and potentially increasing market volatility.
 

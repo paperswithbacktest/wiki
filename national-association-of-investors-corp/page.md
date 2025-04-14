@@ -54,7 +54,7 @@ The magazine features articles about how to pick good stocks, stories from other
 
 The NAIC's stock selection and investment methodology is called "BetterInvesting." It's a simple way to pick good stocks and build a strong investment plan. The main idea is to look for companies that are growing and making more money over time. The NAIC teaches people to study a company's past performance and future plans to see if it's a good investment. They use a tool called the Stock Selection Guide, which helps people analyze a company's financial numbers and decide if it's worth buying.
 
-When picking stocks, the NAIC suggests looking at things like sales growth, earnings growth, and how much profit the company makes. They also want people to think about the company's future plans and if those plans will help the company keep growing. The NAIC believes in buying stocks for the long term, so they tell people to hold onto their investments for many years. By following this method, people can build a portfolio of strong, growing companies that can help them build wealth over time.
+When [picking](/wiki/asset-class-picking) stocks, the NAIC suggests looking at things like sales growth, earnings growth, and how much profit the company makes. They also want people to think about the company's future plans and if those plans will help the company keep growing. The NAIC believes in buying stocks for the long term, so they tell people to hold onto their investments for many years. By following this method, people can build a portfolio of strong, growing companies that can help them build wealth over time.
 
 ## What are some success stories or case studies of investors who have used NAIC's strategies?
 

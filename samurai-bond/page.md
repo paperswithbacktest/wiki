@@ -40,7 +40,7 @@ Another risk is that the company has to follow Japanese rules when issuing the b
 
 ## How does the process of issuing a Samurai Bond work?
 
-When a foreign company or government wants to issue a Samurai Bond, they start by working with Japanese banks or financial institutions. These banks help the foreign issuer understand the rules and regulations in Japan. Together, they decide how much money to borrow, the interest rate to offer, and how long the bond will last. The issuer then prepares all the necessary documents and gets approval from Japanese authorities. Once everything is ready, the bond is offered to Japanese investors who can buy it and lend their money to the issuer.
+When a foreign company or government wants to issue a Samurai Bond, they start by working with Japanese banks or financial institutions. These banks help the foreign issuer understand the rules and regulations in Japan. Together, they decide how much money to borrow, the [interest rate](/wiki/interest-rate-trading-strategies) to offer, and how long the bond will last. The issuer then prepares all the necessary documents and gets approval from Japanese authorities. Once everything is ready, the bond is offered to Japanese investors who can buy it and lend their money to the issuer.
 
 After the bond is sold, the issuer gets the money in Japanese yen. They use this money for their projects or business needs. Over time, the issuer has to pay back the money they borrowed, plus interest, to the Japanese investors. These payments are made in yen, according to the schedule set when the bond was issued. If the issuer follows all the rules and makes their payments on time, the Samurai Bond can be a successful way to raise money from Japan.
 

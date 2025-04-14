@@ -68,7 +68,7 @@ Even though oil sands are helpful, they also have problems. They are harder and 
 
 ## How do oil sands compare to other sources of oil in terms of energy return on investment?
 
-Oil sands have a lower energy return on investment (EROI) compared to traditional oil sources like conventional crude oil. EROI is a way to measure how much energy you get out of a source compared to how much energy you put in to get it. For oil sands, you need to use a lot of energy to extract the bitumen and turn it into usable oil. This means the energy you get back is less compared to the energy you spend. For example, conventional oil might have an EROI of around 10 to 20, while oil sands might have an EROI of around 5 to 6.
+Oil sands have a lower energy return on investment (EROI) compared to traditional oil sources like conventional [crude oil](/wiki/crude-oil). EROI is a way to measure how much energy you get out of a source compared to how much energy you put in to get it. For oil sands, you need to use a lot of energy to extract the bitumen and turn it into usable oil. This means the energy you get back is less compared to the energy you spend. For example, conventional oil might have an EROI of around 10 to 20, while oil sands might have an EROI of around 5 to 6.
 
 Even though oil sands have a lower EROI, they are still important because they add to the world's oil supply. As the easier-to-get oil sources run out, oil sands become more important. But because they need more energy to extract, they can cost more money and have a bigger impact on the environment. So, while oil sands help meet the demand for oil, they are not as efficient as other sources and come with their own set of challenges.
 

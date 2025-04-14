@@ -24,7 +24,7 @@ Both GAAP and IFRS aim to make financial information trustworthy and useful. Whi
 
 ## How does GAAP define inventory?
 
-GAAP, or Generally Accepted Accounting Principles, defines inventory as goods that a business has for sale in the normal course of its operations. This includes raw materials that a company will use to make products, items that are in the process of being made, and finished goods that are ready to be sold. Inventory is important because it helps businesses keep track of what they have and plan what they need to buy or make next.
+GAAP, or Generally Accepted Accounting Principles, defines inventory as goods that a business has for sale in the normal [course](/wiki/best-algorithmic-trading-courses) of its operations. This includes raw materials that a company will use to make products, items that are in the process of being made, and finished goods that are ready to be sold. Inventory is important because it helps businesses keep track of what they have and plan what they need to buy or make next.
 
 Under GAAP, inventory is recorded on the balance sheet at its cost, which is the amount a business paid to get the inventory. This cost includes not just the price of the goods themselves, but also other costs like shipping and handling. GAAP also has rules about how to figure out the cost of goods sold, which is the cost of the inventory that a business sold during a certain period. This helps businesses know how much it cost them to make or buy the things they sold, which is important for figuring out their profits.
 

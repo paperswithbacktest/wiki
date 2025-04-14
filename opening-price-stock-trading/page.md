@@ -78,13 +78,13 @@ Traders and investors watch market sentiment closely because it helps them guess
 
 ## How do high-frequency trading algorithms influence the opening price?
 
-High-frequency trading (HFT) algorithms can really change the opening price of a stock. These algorithms use computers to buy and sell stocks very quickly, sometimes in just a few seconds. They look at a lot of information, like news about the company or what other traders are doing, to decide if they should buy or sell. If a lot of HFT algorithms are buying a stock right when the market opens, it can push the opening price up. If they are selling, it can push the opening price down. So, these fast computers can make the opening price different from what it might have been without them.
+High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) algorithms can really change the opening price of a stock. These algorithms use computers to buy and sell stocks very quickly, sometimes in just a few seconds. They look at a lot of information, like news about the company or what other traders are doing, to decide if they should buy or sell. If a lot of HFT algorithms are buying a stock right when the market opens, it can push the opening price up. If they are selling, it can push the opening price down. So, these fast computers can make the opening price different from what it might have been without them.
 
 HFT algorithms also try to take advantage of small changes in the stock price. They might see that the opening price is a little different from the last closing price and try to make money from that. For example, if the opening price is higher, they might buy the stock and then sell it quickly for a small profit. If the opening price is lower, they might sell the stock and then buy it back for a small profit. This quick buying and selling can make the opening price move around a lot right when the market opens. So, HFT algorithms can make the opening price more unpredictable and different from what people might expect.
 
 ## How can the opening price be integrated into algo-trading?
 
-Algorithmic trading (algo trading) is a method of executing orders using automated pre-programmed trading instructions that consider variables such as time, price, and volume. Integration of the opening price into algo trading strategies is a significant aspect as it can offer valuable insights and opportunities for trades. Several strategies and analyses are employed to capitalize on the opening price's influence on the trading day.
+Algorithmic trading (algo trading) is a method of executing orders using automated pre-programmed trading instructions that consider variables such as time, price, and [volume](/wiki/volume-trading-strategy). Integration of the opening price into algo trading strategies is a significant aspect as it can offer valuable insights and opportunities for trades. Several strategies and analyses are employed to capitalize on the opening price's influence on the trading day.
 
 ### Ways Algo Trading Strategies Incorporate Opening Prices
 
@@ -131,7 +131,7 @@ $$
 
    Utilizing trend analysis can involve the application of linear regression or moving average indicators, allowing algorithms to align with either short-term or long-term market trends. For instance, employing metrics like the Moving Average Convergence Divergence (MACD) in assessing opening price actions could effectively enhance predictive accuracy.
 
-In incorporating the opening price into algorithmic trading, the blend of statistical analysis, premarket insights, and adaptable strategies can significantly enhance potential returns. Continuous adaptation to evolving market conditions remains vital for the sustained success of these algorithms.
+In incorporating the opening price into [algorithmic trading](/wiki/algorithmic-trading), the blend of statistical analysis, premarket insights, and adaptable strategies can significantly enhance potential returns. Continuous adaptation to evolving market conditions remains vital for the sustained success of these algorithms.
 
 ## References & Further Reading
 

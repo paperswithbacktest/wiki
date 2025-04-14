@@ -22,7 +22,7 @@ Also, self-regulation helps exchanges work better without the government telling
 
 ## What are the basic principles of self-regulation in cryptocurrency exchanges?
 
-Self-regulation in cryptocurrency exchanges means that the exchanges make their own rules to keep things safe and fair. One basic principle is transparency. This means that exchanges should clearly show how they work, like how they keep money safe and how they handle trades. Another principle is security. Exchanges need to protect users' money and information from hackers and other bad people. They do this by using strong passwords, keeping software updated, and maybe even using insurance to cover losses if something goes wrong.
+Self-regulation in [cryptocurrency](/wiki/cryptocurrency) exchanges means that the exchanges make their own rules to keep things safe and fair. One basic principle is transparency. This means that exchanges should clearly show how they work, like how they keep money safe and how they handle trades. Another principle is security. Exchanges need to protect users' money and information from hackers and other bad people. They do this by using strong passwords, keeping software updated, and maybe even using insurance to cover losses if something goes wrong.
 
 Another important principle is fairness. Exchanges should treat everyone the same and not let some people get special treatment. This means having clear rules for trading and making sure everyone follows them. Responsibility is also key. If something goes wrong, the exchange should take responsibility and fix it quickly. This helps build trust with users, who then feel more comfortable using the exchange.
 

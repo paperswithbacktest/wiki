@@ -64,7 +64,7 @@ There's also the phrase "a quid pro quo," which comes from the Latin phrase mean
 
 ## How is 'quid' represented in different forms of media and literature?
 
-In different forms of media and literature, 'quid' often shows up in everyday conversations to talk about money. It's common in movies, TV shows, and books set in the UK and Ireland. Characters might say things like "I spent 20 quid on that" or "I'm quids in after selling my old bike." These uses help make the story feel more real and show how people talk about money in casual ways. 'Quid' is a slang word, so it fits well in dialogues that sound natural and everyday.
+In different forms of media and literature, 'quid' often shows up in everyday conversations to talk about money. It's common in movies, TV shows, and [books](/wiki/algo-trading-books) set in the UK and Ireland. Characters might say things like "I spent 20 quid on that" or "I'm quids in after selling my old bike." These uses help make the story feel more real and show how people talk about money in casual ways. 'Quid' is a slang word, so it fits well in dialogues that sound natural and everyday.
 
 In some stories, 'quid' might also be used in phrases like "not for all the quid in the world" to show that a character won't do something no matter how much money they could get. This helps to show the character's values or feelings. In other cases, the phrase "quid pro quo" might come up, especially in stories about business or crime, to talk about deals where people give something and get something back. Using 'quid' in these ways helps make the story more interesting and gives readers or viewers a sense of the UK and Ireland's culture and language.
 

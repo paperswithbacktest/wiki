@@ -34,7 +34,7 @@ In short, investment banks are key players in the financial world. They help rai
 
 Investment banks help corporations in many ways. One big way is by helping them raise money. They do this by selling stocks and bonds for the company. This is called underwriting. When a company wants to grow or start a new project, it needs money. Investment banks help by finding people or other companies who want to invest in the company by buying its stocks or bonds. They make sure the company gets the money it needs at the best possible price.
 
-Investment banks also give advice on big business decisions. For example, if a company wants to buy another company or merge with it, investment banks help plan and carry out these moves. They use their knowledge of the market to help the company make smart choices. Besides this, investment banks do research on markets and other companies. They share this information with their clients to help them understand what's happening in the financial world and make better decisions.
+Investment banks also give advice on big business decisions. For example, if a company wants to buy another company or merge with it, investment banks help plan and [carry](/wiki/carry-trading) out these moves. They use their knowledge of the market to help the company make smart choices. Besides this, investment banks do research on markets and other companies. They share this information with their clients to help them understand what's happening in the financial world and make better decisions.
 
 ## How do investment banks assist with mergers and acquisitions?
 

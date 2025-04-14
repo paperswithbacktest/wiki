@@ -56,7 +56,7 @@ But not all geopolitical events lead to rallies. Sometimes, bad news like wars o
 
 Technical analysis tools help traders spot a rally by looking at charts and patterns. These tools show how stock prices have moved in the past and can help guess where they might go next. For example, moving averages can show if a stock is starting to go up. If the price of a stock goes above its moving average, it might mean a rally is starting. Traders also look at things like the Relative Strength Index (RSI) to see if a stock is getting overbought or oversold. If the RSI goes up a lot, it can be a sign that a rally is happening.
 
-Another way technical analysis helps is by spotting patterns like "breakouts." A breakout happens when a stock price moves above a certain level it has been stuck at for a while. This can be a sign that a rally is starting because it shows that more people are buying the stock, pushing the price up. Traders also use trend lines to see if a stock is going up in a steady way. If the price keeps making higher highs and higher lows, it can mean a long-term rally is happening. By using these tools, traders can make better guesses about when a rally might start and how long it might last.
+Another way technical analysis helps is by spotting patterns like "breakouts." A [breakout](/wiki/breakout-trading) happens when a stock price moves above a certain level it has been stuck at for a while. This can be a sign that a rally is starting because it shows that more people are buying the stock, pushing the price up. Traders also use trend lines to see if a stock is going up in a steady way. If the price keeps making higher highs and higher lows, it can mean a long-term rally is happening. By using these tools, traders can make better guesses about when a rally might start and how long it might last.
 
 ## What are the risks associated with investing during a market rally?
 
@@ -84,7 +84,7 @@ But algorithmic and high-frequency trading can also make a rally end quickly. Be
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization." This paper discusses methodologies for optimizing algorithm parameters, which are crucial for improving the efficiency and performance of algorithmic trading systems. The techniques explored, such as Grid Search and Random Search, have widespread applications in optimizing trading algorithms used during market rallies.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization." This paper discusses methodologies for optimizing algorithm parameters, which are crucial for improving the efficiency and performance of [algorithmic trading](/wiki/algorithmic-trading) systems. The techniques explored, such as Grid Search and Random Search, have widespread applications in optimizing trading algorithms used during market rallies.
 
 "Advances in Financial Machine Learning" by Marcos Lopez de Prado. This book provides a comprehensive overview of machine learning approaches applied to financial markets, with particular emphasis on algorithmic trading. It covers advanced techniques, including pattern recognition and classification methods, that can enhance trading strategies during rallies by identifying profitable trade opportunities through data-driven analysis.
 

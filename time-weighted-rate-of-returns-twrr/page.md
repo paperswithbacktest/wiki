@@ -24,7 +24,7 @@ In simple terms, TWRR is about the investment's performance, while MWRR is about
 
 ## Why is TWRR important for evaluating investment performance?
 
-TWRR, or Time-weighted Rate of Return, is important for evaluating investment performance because it gives a clear picture of how the investment itself is doing over time. It doesn't get affected by when or how much money you put in or take out. This makes it really useful if you want to see how well the investment is growing, no matter what you do with your money. For example, if you're trying to figure out how good a fund manager is at picking investments, TWRR helps because it shows the actual growth of the investments they manage.
+TWRR, or Time-weighted Rate of Return, is important for evaluating investment performance because it gives a clear picture of how the investment itself is doing over time. It doesn't get affected by when or how much money you put in or take out. This makes it really useful if you want to see how well the investment is growing, no matter what you do with your money. For example, if you're trying to figure out how good a fund manager is at [picking](/wiki/asset-class-picking) investments, TWRR helps because it shows the actual growth of the investments they manage.
 
 Another reason TWRR is important is that it lets you compare different investments or even different periods of time easily. Because it ignores your personal money moves, you can see how one investment stacks up against another without worrying about how your deposits or withdrawals might skew the results. This makes TWRR a great tool for investors who want to make fair comparisons and get a true sense of an investment's performance.
 

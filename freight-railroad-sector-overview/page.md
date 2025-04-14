@@ -22,9 +22,9 @@ Railroads also create jobs for many people. They need workers to drive the train
 
 ## What types of goods are typically transported by freight railroads?
 
-Freight railroads move all sorts of things that people and businesses need. They carry heavy stuff like coal, which is used to make electricity, and cars, which go from factories to dealerships. They also move chemicals, which are used to make many products, and steel, which is important for building things like bridges and buildings. These big and heavy items are hard to move by trucks or planes, so railroads are a good choice.
+Freight railroads move all sorts of things that people and businesses need. They [carry](/wiki/carry-trading) heavy stuff like coal, which is used to make electricity, and cars, which go from factories to dealerships. They also move chemicals, which are used to make many products, and steel, which is important for building things like bridges and buildings. These big and heavy items are hard to move by trucks or planes, so railroads are a good choice.
 
-Railroads also carry things like food and drinks. They move grains like wheat and corn from farms to places where they can be turned into food. They also transport fruits and vegetables, which helps get fresh produce to stores all over the country. Sometimes, they even carry things like paper and lumber, which are used to make books and furniture. So, railroads help move a lot of the things we use every day.
+Railroads also carry things like food and drinks. They move grains like wheat and corn from farms to places where they can be turned into food. They also transport fruits and vegetables, which helps get fresh produce to stores all over the country. Sometimes, they even carry things like paper and lumber, which are used to make [books](/wiki/algo-trading-books) and furniture. So, railroads help move a lot of the things we use every day.
 
 ## What are the main components of a freight railroad system?
 

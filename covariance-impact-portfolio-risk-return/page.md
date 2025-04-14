@@ -68,7 +68,7 @@ It's important to keep an eye on these changes because what worked for your port
 
 To estimate covariance more accurately, you can use something called shrinkage estimation. This method mixes the sample covariance (which is what you get from just looking at your data) with a target covariance (which could be a simpler model like assuming all assets move independently). By blending these, you get a more stable estimate that doesn't swing too much with the ups and downs of the market. It's like smoothing out the bumps in the road, making your estimate less likely to be thrown off by random changes in your data.
 
-Another advanced method is using factor models. These models look at how different factors, like interest rates or economic growth, affect the returns of your assets. By understanding these factors, you can better estimate how assets will move together. It's like looking at the big picture instead of just focusing on the details. This can help you see patterns and relationships that might be hard to spot otherwise, leading to a more accurate estimate of covariance.
+Another advanced method is using [factor](/wiki/factor-investing) models. These models look at how different factors, like interest rates or economic growth, affect the returns of your assets. By understanding these factors, you can better estimate how assets will move together. It's like looking at the big picture instead of just focusing on the details. This can help you see patterns and relationships that might be hard to spot otherwise, leading to a more accurate estimate of covariance.
 
 ## How does the choice of time period affect the estimation of covariance in portfolio analysis?
 

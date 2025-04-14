@@ -185,7 +185,7 @@ By grasping the influence of average balance on interest computation, consumers 
 
 ## What are some applications and examples?
 
-To illustrate the impact and practicality of concepts such as interest calculation, average balance, and algorithmic trading, real-world examples and applications are crucial. These examples not only provide clarity but also empower individuals and businesses to effectively manage their finances and investments.
+To illustrate the impact and practicality of concepts such as interest calculation, average balance, and [algorithmic trading](/wiki/algorithmic-trading), real-world examples and applications are crucial. These examples not only provide clarity but also empower individuals and businesses to effectively manage their finances and investments.
 
 One common example involves calculating credit card interest using the average daily balance method. This method is frequently used by credit card companies to compute the interest amount a borrower owes on their outstanding balance. The formula for the average daily balance method is:
 

@@ -40,7 +40,7 @@ Another important part of Regulation AA is that it stops credit card companies f
 
 ## What are the prohibited practices under Regulation AA?
 
-Regulation AA stops credit card companies from doing things that are unfair to customers. One thing they can't do is change the terms of your credit card without telling you first. This means they can't suddenly increase your interest rate or add new fees without giving you a heads-up. They also can't make you pay for things that were not clearly explained to you from the start. This helps make sure you know what you're agreeing to when you use your credit card.
+Regulation AA stops credit card companies from doing things that are unfair to customers. One thing they can't do is change the terms of your credit card without telling you first. This means they can't suddenly increase your [interest rate](/wiki/interest-rate-trading-strategies) or add new fees without giving you a heads-up. They also can't make you pay for things that were not clearly explained to you from the start. This helps make sure you know what you're agreeing to when you use your credit card.
 
 Another thing that Regulation AA stops is hidden fees. Credit card companies can't charge you for things that are not clearly listed in your agreement. For example, they can't add a fee for using your card at certain places if they didn't tell you about it beforehand. This rule helps you avoid surprises and makes sure the credit card company is honest about all the costs involved.
 

@@ -22,7 +22,7 @@ The historical significance of NYMEX is big. It was one of the first places to l
 
 ## What types of commodities are traded on NYMEX?
 
-NYMEX trades many different types of commodities. The most well-known ones are energy products like crude oil, natural gas, and gasoline. These are very important because they help set the prices that people all over the world pay for energy.
+NYMEX trades many different types of commodities. The most well-known ones are energy products like [crude oil](/wiki/crude-oil), natural gas, and gasoline. These are very important because they help set the prices that people all over the world pay for energy.
 
 Besides energy, NYMEX also trades metals. This includes things like gold, silver, and copper. These metals are used in lots of different things, from jewelry to electronics, so trading them helps businesses know what to expect in the future.
 
@@ -78,13 +78,13 @@ Because of technology, trading on NYMEX is also more efficient. Computers can ha
 
 ## What future trends or developments are expected at NYMEX?
 
-In the future, NYMEX is likely to keep using more technology to make trading even better. They might use things like artificial intelligence and machine learning to help people make smarter trades. This could mean faster trading and better ways to predict what prices will do next. Also, NYMEX might start trading new kinds of things, like renewable energy products. As the world tries to use less oil and gas and more clean energy, NYMEX could help set prices for these new energy sources.
+In the future, NYMEX is likely to keep using more technology to make trading even better. They might use things like [artificial intelligence](/wiki/ai-artificial-intelligence) and [machine learning](/wiki/machine-learning) to help people make smarter trades. This could mean faster trading and better ways to predict what prices will do next. Also, NYMEX might start trading new kinds of things, like renewable energy products. As the world tries to use less oil and gas and more clean energy, NYMEX could help set prices for these new energy sources.
 
 Another trend could be more focus on making trading fair and safe. NYMEX might use new rules and tools to stop people from cheating or making bad trades. They might also work more with other exchanges around the world to make trading easier and more connected. This could help people trade things like oil and gas across different countries more easily. Overall, NYMEX will probably keep changing to stay important in the world's energy and commodity markets.
 
 ## What strategies are employed in algorithmic trading on NYMEX?
 
-In algorithmic trading on NYMEX, several well-established strategies are employed to optimize trading outcomes. These strategies rely heavily on mathematical models, data analysis, and computational power to make real-time trading decisions.
+In [algorithmic trading](/wiki/algorithmic-trading) on NYMEX, several well-established strategies are employed to optimize trading outcomes. These strategies rely heavily on mathematical models, data analysis, and computational power to make real-time trading decisions.
 
 1. **Trend Following**: This strategy focuses on identifying and capitalizing on sustained movements in commodity prices over a period. By using historical price data, trend-following algorithms attempt to predict and exploit long-term upward or downward trends. The core idea is that commodities will continue moving in a set direction long enough for traders to profit. Traders use indicators such as moving averages and the Relative Strength Index (RSI) to help confirm trends. The algorithm might execute trades based on a simple rule like: 
 $$

@@ -82,7 +82,7 @@ Another trend that might change APZs is how people shop. More people are buying 
 
 ## How does the APZ work?
 
-The Adaptive Price Zone (APZ) indicator operates through a system of two dynamic bands that enclose the average price of an asset, with these bands reflecting the market's volatility. The construction of the APZ involves calculating a moving average and then adjusting it by adding and subtracting an average of the recent price changes, scaled by a [factor](/wiki/factor-investing) related to price volatility. Mathematically, the calculation of the bands can be expressed as follows:
+The Adaptive Price Zone (APZ) indicator operates through a system of two dynamic bands that enclose the average price of an asset, with these bands reflecting the market's [volatility](/wiki/volatility-trading-strategies). The construction of the APZ involves calculating a moving average and then adjusting it by adding and subtracting an average of the recent price changes, scaled by a [factor](/wiki/factor-investing) related to price volatility. Mathematically, the calculation of the bands can be expressed as follows:
 
 $$
 \text{Upper Band} = \text{MA} + k \times \sigma

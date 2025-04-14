@@ -22,7 +22,7 @@ This process works by mixing the sender's public key with the receiver's public 
 
 ## What is the difference between a regular address and a stealth address?
 
-A regular address in cryptocurrency is like a bank account number that you use over and over again. When you send or receive money, you use the same address every time. This means anyone looking at the blockchain can see all the transactions linked to that one address, making it easier to track your money movements.
+A regular address in [cryptocurrency](/wiki/cryptocurrency) is like a bank account number that you use over and over again. When you send or receive money, you use the same address every time. This means anyone looking at the blockchain can see all the transactions linked to that one address, making it easier to track your money movements.
 
 A stealth address, on the other hand, creates a new, unique address for each transaction. This means every time you send or receive money, it looks like it's going to or coming from a different address. This makes it much harder for others to connect all your transactions together and track your spending or see how much money you have. Stealth addresses are used in privacy-focused cryptocurrencies like Monero to keep your financial activities private.
 

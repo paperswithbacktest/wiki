@@ -40,7 +40,7 @@ Another principle is to plan for the future and be ready for changes in things l
 
 ## How does interest rate risk affect asset and liability management?
 
-Interest rate risk is when the value of what a bank owns or owes changes because interest rates go up or down. This can be a big problem for banks because it can change how much money they make or lose. For example, if a bank gives out a loan with a fixed interest rate and then interest rates go up, the bank might miss out on making more money from new loans with higher rates. On the other hand, if interest rates go down, the bank might have to pay more to people who put money in the bank because they expect higher interest on their savings.
+Interest rate risk is when the value of what a bank owns or owes changes because interest rates go up or down. This can be a big problem for banks because it can change how much money they make or lose. For example, if a bank gives out a loan with a fixed [interest rate](/wiki/interest-rate-trading-strategies) and then interest rates go up, the bank might miss out on making more money from new loans with higher rates. On the other hand, if interest rates go down, the bank might have to pay more to people who put money in the bank because they expect higher interest on their savings.
 
 To manage interest rate risk, banks try to match the interest rates on their loans with the interest rates they pay to people who deposit money. This means if they have a lot of loans with fixed rates, they might also try to have a lot of savings accounts with fixed rates. By doing this, banks can make sure that if interest rates change, the money they make from loans and the money they pay on deposits will change in a similar way. This helps them keep their finances balanced and avoid big losses if interest rates move a lot.
 
@@ -48,7 +48,7 @@ To manage interest rate risk, banks try to match the interest rates on their loa
 
 Liquidity management is a big part of asset and liability management. It's all about making sure a bank has enough cash or things that can be turned into cash quickly. This is important because people can come to the bank at any time and want to take their money out. If the bank doesn't have enough cash on hand, it might have to say no, which can cause big problems. So, banks need to keep a good amount of liquid assets, like cash or government bonds, to make sure they can always give money to people who want it.
 
-Liquidity management also helps banks plan for the future. They need to think about when they will need a lot of cash and make sure they have it ready. For example, if a bank knows that a lot of loans will be paid back soon, it can use that money to cover any big withdrawals. By keeping a close eye on their liquidity, banks can make sure they always have enough money to cover what they owe and keep their customers happy. This is a key part of staying financially healthy and avoiding trouble.
+Liquidity management also helps banks plan for the future. They need to think about when they will need a lot of cash and make sure they have it ready. For example, if a bank knows that a lot of loans will be paid back soon, it can use that money to cover any big withdrawals. By keeping a close eye on their [liquidity](/wiki/liquidity-risk-premium), banks can make sure they always have enough money to cover what they owe and keep their customers happy. This is a key part of staying financially healthy and avoiding trouble.
 
 ## How can mismatches between assets and liabilities impact a company's financial health?
 
@@ -78,7 +78,7 @@ Another way banks use derivatives is to hedge against currency risk. If a bank h
 
 ## What are the latest trends and technologies impacting asset and liability management?
 
-One big trend in asset and liability management is the use of artificial intelligence and machine learning. These technologies help banks predict what might happen in the future, like changes in interest rates or the economy. By using AI, banks can make better decisions about where to put their money and how to manage their risks. For example, AI can look at a lot of data to find patterns that people might miss, helping banks plan better and stay financially healthy. This makes asset and liability management more accurate and efficient.
+One big trend in asset and liability management is the use of [artificial intelligence](/wiki/ai-artificial-intelligence) and machine learning. These technologies help banks predict what might happen in the future, like changes in interest rates or the economy. By using AI, banks can make better decisions about where to put their money and how to manage their risks. For example, AI can look at a lot of data to find patterns that people might miss, helping banks plan better and stay financially healthy. This makes asset and liability management more accurate and efficient.
 
 Another trend is the use of blockchain technology. Blockchain can make it easier and safer for banks to keep track of their assets and liabilities. It's like a digital ledger that everyone can see but no one can change without everyone agreeing. This helps banks trust the information they have about their money and reduces the chance of mistakes or fraud. Using blockchain can also speed up the process of managing assets and liabilities, making it easier for banks to keep everything in balance and react quickly to changes.
 
@@ -94,7 +94,7 @@ $$
 
 where $R_p$ is the expected portfolio return, $R_f$ is the risk-free rate, and $\sigma_p$ is the portfolio standard deviation.
 
-Institutions often use asset management strategies to diversify their investments, thereby spreading risk across different asset classes or geographical regions. This diversification aims to protect against market volatility and potential losses in any single investment category. Moreover, asset managers must remain vigilant in monitoring economic indicators, geopolitical events, and other factors that may impact market dynamics and thus require adjustments to investment strategies.
+Institutions often use asset management strategies to diversify their investments, thereby spreading risk across different asset classes or geographical regions. This diversification aims to protect against market [volatility](/wiki/volatility-trading-strategies) and potential losses in any single investment category. Moreover, asset managers must remain vigilant in monitoring economic indicators, geopolitical events, and other factors that may impact market dynamics and thus require adjustments to investment strategies.
 
 Furthermore, successful asset management necessitates the integration of emerging technologies and data analytics. Advanced data analytics and [machine learning](/wiki/machine-learning) models can improve the decision-making process, enabling asset managers to identify and exploit market inefficiencies more effectively. These technologies assist in predicting market trends, evaluating asset performance, and optimizing portfolio allocation.
 

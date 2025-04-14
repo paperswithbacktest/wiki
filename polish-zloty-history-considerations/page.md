@@ -46,7 +46,7 @@ Another big event was the time of high inflation in the 1980s. During this time,
 
 ## What are the key factors influencing the value of the Polish Zloty today?
 
-Today, several things affect how much the Polish Zloty is worth. One big factor is how well Poland's economy is doing. If the economy is growing and people are making more money, the Zloty can become stronger. Another important thing is what's happening in the world. If there are big problems like a global financial crisis, the Zloty might lose value. Also, what people think will happen in the future can change the Zloty's value. If people think Poland's economy will do well, they might want to buy more Zloty, making it stronger.
+Today, several things affect how much the Polish Zloty is worth. One big [factor](/wiki/factor-investing) is how well Poland's economy is doing. If the economy is growing and people are making more money, the Zloty can become stronger. Another important thing is what's happening in the world. If there are big problems like a global financial crisis, the Zloty might lose value. Also, what people think will happen in the future can change the Zloty's value. If people think Poland's economy will do well, they might want to buy more Zloty, making it stronger.
 
 Another factor is the interest rates set by Poland's central bank. If the interest rates go up, it can make the Zloty more attractive to people who want to invest their money, which can make the Zloty stronger. On the other hand, if interest rates go down, the Zloty might get weaker. The value of the Zloty also depends on how it compares to other big currencies like the US dollar and the Euro. If these currencies get stronger, the Zloty might get weaker, and if they get weaker, the Zloty might get stronger.
 

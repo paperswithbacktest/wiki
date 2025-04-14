@@ -64,7 +64,7 @@ Even though these discrepancies are usually small, they can still affect how we 
 
 ## What data sources are typically used to calculate GDI?
 
-To calculate Gross Domestic Income (GDI), economists use a bunch of different data sources. They look at things like tax records to see how much money people and businesses are earning. They also use surveys that ask businesses about their profits and costs. Another important source is data from the government about how much they get in taxes and how much they give out in subsidies. All these different pieces of information help put together a full picture of all the income in the country.
+To calculate Gross Domestic Income (GDI), economists use a bunch of different data sources. They look at things like tax records to see how much money people and businesses are [earning](/wiki/earning-announcement). They also use surveys that ask businesses about their profits and costs. Another important source is data from the government about how much they get in taxes and how much they give out in subsidies. All these different pieces of information help put together a full picture of all the income in the country.
 
 Sometimes, they also use data from banks to see how much interest is being earned. And they might look at records of rent payments to figure out how much money people are making from renting out property. By putting all this data together, economists can calculate GDI and get a good idea of how much money is flowing through the economy. This helps them understand how well the country is doing and where the money is coming from.
 

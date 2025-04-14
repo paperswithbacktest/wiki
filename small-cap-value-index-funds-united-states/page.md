@@ -42,7 +42,7 @@ After your account is funded, you can search for small-cap value index funds. Th
 
 ## What are some of the top small-cap value index funds available in the U.S. market?
 
-Some of the top small-cap value index funds available in the U.S. market include the Vanguard Small-Cap Value Index Fund (VSIAX) and the iShares S&P Small-Cap 600 Value ETF (IJS). The Vanguard Small-Cap Value Index Fund tracks the CRSP US Small Cap Value Index, which focuses on small companies that are seen as undervalued. This fund is known for its low expense ratio, which means you pay less in fees, and it's a good choice for long-term investors looking to grow their money over time.
+Some of the top small-cap value index funds available in the U.S. market include the Vanguard Small-Cap Value Index Fund (VSIAX) and the iShares S&P Small-Cap 600 Value [ETF](/wiki/etf-trading-strategies) (IJS). The Vanguard Small-Cap Value Index Fund tracks the CRSP US Small Cap Value Index, which focuses on small companies that are seen as undervalued. This fund is known for its low expense ratio, which means you pay less in fees, and it's a good choice for long-term investors looking to grow their money over time.
 
 Another popular option is the iShares S&P Small-Cap 600 Value ETF, which follows the S&P SmallCap 600 Value Index. This ETF also focuses on small companies that are considered undervalued and offers a way to invest in a broad range of these companies. It's a bit different from the Vanguard fund because it's an ETF, which means you can buy and sell shares throughout the trading day, like stocks. Both of these funds can be good choices if you're looking to invest in small-cap value stocks and want to spread your money across many small companies.
 
@@ -86,7 +86,7 @@ Lastly, consider using asset allocation to manage risk and growth. You can mix s
 
 ## What is the conclusion?
 
-Small-cap value funds, U.S. index funds, and algorithmic trading each bring unique advantages to the investment landscape. These elements, when integrated judiciously, form a progressive approach that synthesizes conventional stock market strategies with cutting-edge technology. Small-cap value funds appeal to investors seeking high growth potential through lesser-known, undervalued companies. U.S. index funds offer stability and market-wide exposure at a reduced cost, appealing to risk-averse investors.
+Small-cap value funds, U.S. index funds, and [algorithmic trading](/wiki/algorithmic-trading) each bring unique advantages to the investment landscape. These elements, when integrated judiciously, form a progressive approach that synthesizes conventional stock market strategies with cutting-edge technology. Small-cap value funds appeal to investors seeking high growth potential through lesser-known, undervalued companies. U.S. index funds offer stability and market-wide exposure at a reduced cost, appealing to risk-averse investors.
 
 Algorithmic trading introduces efficiency and precision, minimizing emotional trading errors and allowing for real-time adjustments in response to market shifts. By leveraging these strategies, investors can build diversified portfolios that optimally balance risk and reward dynamics. Portfolio optimization aims at finding the best investment return for a specific risk level, often modeled by the mean-variance optimization approach, where the objective is to maximize the expected return $(E[R])$ for a given level of risk $(σ)$: 
 

@@ -18,7 +18,7 @@ Understanding the current coupon is important for investors because it helps the
 
 The current coupon rate is set by the bond issuer when the bond is first created. It depends on several things, like how much money the issuer wants to borrow, how long the bond will last, and what interest rates are like at that time. If interest rates are high when the bond is issued, the current coupon rate will usually be high too. This is because the issuer needs to offer a good return to attract investors. On the other hand, if interest rates are low, the current coupon rate will be lower.
 
-Once the bond is issued, its current coupon rate stays the same until it matures. This means that even if interest rates go up or down later, the coupon payments to investors won't change. However, the bond's price in the market can change based on these interest rate changes. If interest rates go up after the bond is issued, the bond's price might go down because new bonds with higher coupons are more attractive. If interest rates go down, the bond's price might go up because its fixed coupon looks better compared to new bonds.
+Once the bond is issued, its current coupon rate stays the same until it matures. This means that even if interest rates go up or down later, the coupon payments to investors won't change. However, the bond's price in the market can change based on these [interest rate](/wiki/interest-rate-trading-strategies) changes. If interest rates go up after the bond is issued, the bond's price might go down because new bonds with higher coupons are more attractive. If interest rates go down, the bond's price might go up because its fixed coupon looks better compared to new bonds.
 
 ## Why is the current coupon important for investors?
 
@@ -120,7 +120,7 @@ In summary, the mechanics of coupon bond pricing involve a complex interplay of 
 
 ## What are the strategies for algorithmic trading in bond markets?
 
-Algorithmic trading strategies have gained prominence in bond markets due to their ability to automate and enhance trading processes. These strategies leverage advanced computational tools to optimize trade execution and improve efficiency. One of the primary strategies includes the use of statistical models like moving average crossovers and momentum analysis to predict bond price movements and implement trades accordingly.
+Algorithmic trading strategies have gained prominence in bond markets due to their ability to automate and enhance trading processes. These strategies leverage advanced computational tools to optimize trade execution and improve efficiency. One of the primary strategies includes the use of statistical models like moving average crossovers and [momentum](/wiki/momentum) analysis to predict bond price movements and implement trades accordingly.
 
 ### Moving Average Crossovers
 
@@ -148,7 +148,7 @@ where $P_t$ is the current price, and $P_{t-n}$ is the price $n$ periods ago.
 
 ### Integration of Machine Learning and AI
 
-Machine learning and AI technologies play a transformative role in developing sophisticated trading strategies. These technologies handle large datasets and identify patterns not discernible through traditional methods. Algorithms powered by machine learning can adapt to new data, learning from it to improve trading decisions.
+Machine learning and AI technologies play a transformative role in developing sophisticated trading strategies. These technologies handle large datasets and identify patterns not discernible through traditional methods. Algorithms powered by [machine learning](/wiki/machine-learning) can adapt to new data, learning from it to improve trading decisions.
 
 For instance, [reinforcement learning](/wiki/reinforcement-learning), a type of machine learning, allows traders to develop strategies that learn to make optimal trading decisions through trial and error, using historical data to simulate various market conditions.
 
@@ -179,7 +179,7 @@ model.fit(X_train, y_train)
 predictions = model.predict(X_test)
 ```
 
-These advancements in algorithmic trading, facilitated by machine learning and AI, enhance the capabilities of traders to react promptly and accurately to market changes, thus optimizing their bond trading strategies. This integration is increasingly vital as bond markets grow in complexity and [volume](/wiki/volume-trading-strategy).
+These advancements in [algorithmic trading](/wiki/algorithmic-trading), facilitated by machine learning and AI, enhance the capabilities of traders to react promptly and accurately to market changes, thus optimizing their bond trading strategies. This integration is increasingly vital as bond markets grow in complexity and [volume](/wiki/volume-trading-strategy).
 
 ## References & Further Reading
 

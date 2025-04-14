@@ -24,7 +24,7 @@ Slippage can happen for a few reasons. One big reason is market volatility, wher
 
 Execution slippage happens a lot because markets can be very fast and unpredictable. When prices change quickly, the price you see when you decide to trade might not be the same by the time your order goes through. This is especially common in markets that are very active or when big news comes out that makes everyone want to buy or sell at the same time. If there are a lot of people trying to trade the same thing, it can be hard to get the price you want, and you might end up with a different price.
 
-Another reason for slippage is when there isn't enough of what you want to buy or sell at the price you want. This is called low liquidity. If you're trying to buy a lot of something, you might have to take whatever price is available because there isn't enough at the price you wanted. This can also happen if you're selling and there aren't enough people wanting to buy at your price. Slippage can be good or bad, but usually, it means you end up paying more or getting less than you planned.
+Another reason for slippage is when there isn't enough of what you want to buy or sell at the price you want. This is called low [liquidity](/wiki/liquidity-risk-premium). If you're trying to buy a lot of something, you might have to take whatever price is available because there isn't enough at the price you wanted. This can also happen if you're selling and there aren't enough people wanting to buy at your price. Slippage can be good or bad, but usually, it means you end up paying more or getting less than you planned.
 
 ## Can you explain the difference between positive and negative slippage?
 
@@ -40,7 +40,7 @@ This can be done for every trade. Over time, traders can add up all the slippage
 
 ## What tools and platforms are available to analyze execution slippage?
 
-Traders can use different trading platforms and tools to look at execution slippage. Many big trading platforms like MetaTrader, NinjaTrader, and Interactive Brokers have built-in tools that let you see how much slippage you're getting on your trades. These platforms can show you the difference between the price you wanted and the price you actually got. Some platforms even let you see this information in charts and graphs, which can help you understand your slippage better.
+Traders can use different trading platforms and tools to look at execution slippage. Many big trading platforms like MetaTrader, NinjaTrader, and [Interactive Brokers](/wiki/interactive-brokers-api) have built-in tools that let you see how much slippage you're getting on your trades. These platforms can show you the difference between the price you wanted and the price you actually got. Some platforms even let you see this information in charts and graphs, which can help you understand your slippage better.
 
 There are also special software tools made just for analyzing slippage. Tools like TradeStation and TradingView offer detailed reports and analytics that can help you figure out how much slippage is affecting your trades. These tools can break down your slippage by different times of the day, types of trades, or even specific stocks or assets. This can help you find patterns and make better trading choices to reduce slippage.
 
@@ -66,7 +66,7 @@ For example, if you want to buy a stock and there aren't many people selling it 
 
 Algorithmic trading can help manage execution slippage by using smart computer programs to make trades faster and more accurately. These programs can watch the market all the time and make trades at the best possible times. For example, if you want to buy a stock, the algorithm can break your order into smaller pieces and spread them out over time. This way, it can find the best prices and avoid moving the market too much, which can help reduce slippage.
 
-Another way algorithmic trading helps is by using special strategies to handle slippage. Some algorithms can predict how the market might move and adjust your orders to get the best price. They can also use limit orders to make sure you don't pay more or get less than you want. By doing all these things automatically and quickly, algorithmic trading can make your trades smoother and help you save money on slippage.
+Another way [algorithmic trading](/wiki/algorithmic-trading) helps is by using special strategies to handle slippage. Some algorithms can predict how the market might move and adjust your orders to get the best price. They can also use limit orders to make sure you don't pay more or get less than you want. By doing all these things automatically and quickly, algorithmic trading can make your trades smoother and help you save money on slippage.
 
 ## What are the advanced statistical methods used in execution slippage analysis?
 

@@ -38,7 +38,7 @@ Understanding the difference between convex and non-convex sets is important in 
 
 ## How do you prove that a set is convex?
 
-To prove that a set is convex, you need to show that any straight line connecting two points inside the set stays inside the set. Imagine picking any two points in the set and drawing a line between them. If that line never goes outside the set, no matter which two points you pick, then the set is convex. This is like checking every possible pair of points to make sure the line between them stays inside.
+To prove that a set is convex, you need to show that any straight line connecting two points inside the set stays inside the set. Imagine [picking](/wiki/asset-class-picking) any two points in the set and drawing a line between them. If that line never goes outside the set, no matter which two points you pick, then the set is convex. This is like checking every possible pair of points to make sure the line between them stays inside.
 
 A good way to do this is to use math. If you have a set defined by some rules or equations, you can use those rules to show that the line between any two points in the set satisfies those rules. For example, if you have a set of points defined by an inequality, you can show that the line between any two points in the set also satisfies that inequality. This proves that the set is convex because the line stays inside the set according to its rules.
 
@@ -82,7 +82,7 @@ Another technique is called the subgradient method. This is useful when the func
 
 One big area of research in convexity is about finding faster ways to solve optimization problems. Scientists are always looking for new methods that can handle bigger and more complicated problems. For example, they're working on better interior point methods and trying to understand how to make them work well with different kinds of problems. Another interesting area is about figuring out how to deal with problems where the function isn't smooth, like when it has sharp corners or jumps. Researchers are trying to improve methods like the subgradient method to make them faster and more reliable.
 
-Another important area is about understanding how convexity works in different fields, like machine learning and data science. In machine learning, convex functions are used to train models, but researchers are trying to find out if non-convex functions can be just as good or even better. They're also looking at how to use convexity to make algorithms more efficient and accurate. This is a big deal because it could help make things like predicting the weather or understanding medical data much easier and more reliable.
+Another important area is about understanding how convexity works in different fields, like [machine learning](/wiki/machine-learning) and data science. In machine learning, convex functions are used to train models, but researchers are trying to find out if non-convex functions can be just as good or even better. They're also looking at how to use convexity to make algorithms more efficient and accurate. This is a big deal because it could help make things like predicting the weather or understanding medical data much easier and more reliable.
 
 ## What is the role of convexity in financial markets?
 
@@ -118,7 +118,7 @@ Convexity is utilized in constructing bond portfolios to hedge against interest 
 
 Algorithmic trading is characterized by the use of sophisticated mathematical models to execute trades with precision and speed unmatched by human traders. Mathematics plays a pivotal role in this domain, primarily through the application of statistical and computational techniques that ensure accuracy, efficiency, and strategic decision-making.
 
-One of the foundational tools in algorithmic trading is time series analysis. By analyzing financial data points collected or recorded at successive points in time, traders can identify patterns that may indicate future price movements. Common statistical methods applied in time series analysis include moving averages and autoregressive integrated moving average (ARIMA) models. These techniques aid traders in recognizing trends, seasonal patterns, and even cyclical fluctuations within a financial instrument's price data.
+One of the foundational tools in [algorithmic trading](/wiki/algorithmic-trading) is time series analysis. By analyzing financial data points collected or recorded at successive points in time, traders can identify patterns that may indicate future price movements. Common statistical methods applied in time series analysis include moving averages and autoregressive integrated moving average (ARIMA) models. These techniques aid traders in recognizing trends, seasonal patterns, and even cyclical fluctuations within a financial instrument's price data.
 
 Regression models are another crucial mathematical tool in algorithmic trading. These models, often linear or polynomial, are used to understand the relationships between different financial variables. For instance, a regression model might evaluate how changes in economic indicators such as GDP or interest rates impact stock prices. By quantifying these relationships, traders can make more informed predictions about asset performance. The basic form of a linear regression model is:
 

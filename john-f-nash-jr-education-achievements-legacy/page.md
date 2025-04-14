@@ -130,7 +130,7 @@ print("Optimal Strategies at Nash Equilibrium:", optimal_strategies)
 
 In this example, the function `nash_equilibrium` seeks to find strategy profiles for two traders that maximize their payoffs, demonstrating how strategic interactions could be modeled in a simplified market environment.
 
-The Nash Equilibrium's profound implications in algorithmic trading underscore its utility in effectively modeling market behaviors, optimizing strategies, and predicting competitor actions, thereby enhancing the robustness of trading algorithms.
+The Nash Equilibrium's profound implications in [algorithmic trading](/wiki/algorithmic-trading) underscore its utility in effectively modeling market behaviors, optimizing strategies, and predicting competitor actions, thereby enhancing the robustness of trading algorithms.
 
 ## References & Further Reading
 

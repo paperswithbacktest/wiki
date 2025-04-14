@@ -18,7 +18,7 @@ The main job of Uniswap is to help people swap different cryptocurrencies easily
 
 Uniswap is different from traditional centralized exchanges because it doesn't have a central authority controlling it. Traditional exchanges, like Coinbase or Binance, are run by companies that manage the platform, hold users' funds, and can decide which cryptocurrencies can be traded. They also often require users to go through a verification process before they can start trading. On the other hand, Uniswap is a decentralized platform, meaning it runs on a network of computers and no single person or company is in charge. This means users have more control over their funds and can trade without needing to go through a verification process.
 
-Another big difference is how trades happen. On traditional exchanges, you need to find someone who wants to trade the exact same pair of cryptocurrencies at the same time. This can sometimes take a while. Uniswap uses something called liquidity pools, which are like big pots of different cryptocurrencies that people can trade from. People who add their cryptocurrencies to these pools are called liquidity providers, and they earn rewards for doing so. This system makes trading faster and more efficient because you don't have to wait for someone else to want to make the same trade.
+Another big difference is how trades happen. On traditional exchanges, you need to find someone who wants to trade the exact same pair of cryptocurrencies at the same time. This can sometimes take a while. Uniswap uses something called [liquidity](/wiki/liquidity-risk-premium) pools, which are like big pots of different cryptocurrencies that people can trade from. People who add their cryptocurrencies to these pools are called liquidity providers, and they earn rewards for doing so. This system makes trading faster and more efficient because you don't have to wait for someone else to want to make the same trade.
 
 ## What is the process of swapping tokens on Uniswap?
 
@@ -40,7 +40,7 @@ The main benefit of providing liquidity on Uniswap is that you earn rewards. Eve
 
 ## What is the UNI token and what role does it play in the Uniswap ecosystem?
 
-The UNI token is a special kind of cryptocurrency used on the Uniswap platform. It's like a membership card that gives you a say in how Uniswap works. People who own UNI tokens can vote on changes and improvements to the platform. This means they get to help decide things like new features or how the fees are used.
+The UNI token is a special kind of [cryptocurrency](/wiki/cryptocurrency) used on the Uniswap platform. It's like a membership card that gives you a say in how Uniswap works. People who own UNI tokens can vote on changes and improvements to the platform. This means they get to help decide things like new features or how the fees are used.
 
 Besides voting, UNI tokens can also be traded or used in other ways on the Uniswap platform. They help make the whole system more fair and open because everyone with UNI tokens has a voice. This is different from traditional exchanges where only the company in charge makes the decisions. So, UNI tokens are important because they let the community of users help shape the future of Uniswap.
 
@@ -66,7 +66,7 @@ Another big use of Uniswap is providing liquidity. People can add their tokens t
 
 Uniswap is really easy to use and it lets you trade lots of different cryptocurrencies. You don't need to go through a long sign-up process like you might with other exchanges. All you need is a digital wallet, and you can start trading right away. This makes it super quick and simple to swap tokens. Plus, Uniswap has a lot of different tokens you can trade, so you can find new and interesting cryptocurrencies that might not be on other exchanges.
 
-Another big advantage of Uniswap is its liquidity pools. These pools make trading faster because you don't have to wait for someone else to want to make the same trade. Instead, you can swap tokens right away using the tokens in the pools. People who add their tokens to these pools, called liquidity providers, get rewards for helping out. This system makes Uniswap a great place for both trading and earning extra tokens.
+Another big advantage of Uniswap is its liquidity pools. These pools make trading faster because you don't have to wait for someone else to want to make the same trade. Instead, you can swap tokens right away using the tokens in the pools. People who add their tokens to these pools, called liquidity providers, get rewards for helping out. This system makes Uniswap a great place for both trading and [earning](/wiki/earning-announcement) extra tokens.
 
 ## What are the potential risks and disadvantages of using Uniswap?
 

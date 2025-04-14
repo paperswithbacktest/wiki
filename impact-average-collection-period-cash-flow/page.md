@@ -84,7 +84,7 @@ Another advanced strategy is to use electronic invoicing and automated payment s
 
 ## How do you calculate the average collection period?
 
-The average collection period is an essential financial metric that businesses use to evaluate how efficiently they manage their accounts receivable. It represents the average number of days it takes for a company to collect payments from its credit sales. The shorter this period, the faster a company receives cash, improving its liquidity and cash flow.
+The average collection period is an essential financial metric that businesses use to evaluate how efficiently they manage their accounts receivable. It represents the average number of days it takes for a company to collect payments from its credit sales. The shorter this period, the faster a company receives cash, improving its [liquidity](/wiki/liquidity-risk-premium) and cash flow.
 
 To calculate the average collection period, the following formula is used:
 
@@ -121,7 +121,7 @@ By analyzing this metric, businesses can identify trends, make informed decision
    An essential resource for understanding the quantitative frameworks behind financial modeling, risk management, and the integration of trading and investment strategies.
 
 5. **"Python for Finance: Analyze Big Financial Data" by Yves Hilpisch**  
-   This book serves as a guide to using Python for developing financial analytics applications, with practical examples related to algorithmic trading and data-driven financial strategies.
+   This book serves as a guide to using Python for developing financial analytics applications, with practical examples related to [algorithmic trading](/wiki/algorithmic-trading) and data-driven financial strategies.
 
 6. **"International Financial Management" by Jeff Madura**  
    Offering a global perspective, this text explores financial management practices across diverse markets, addressing cash flow management and credit policies in multinational corporations.

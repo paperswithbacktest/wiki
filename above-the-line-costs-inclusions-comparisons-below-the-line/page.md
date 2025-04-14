@@ -22,7 +22,7 @@ Below-the-line costs, on the other hand, are all the other expenses needed to ma
 
 ## Can you list some common examples of above-the-line costs?
 
-Above-the-line costs are the big money spent on the main people who make a movie or TV show. This includes paying the director, who is in charge of how the story is told. It also includes money for the producers, who help plan and manage the project. Another big part of above-the-line costs is paying the writers, who create the story and script. And of course, the salaries for the main actors, who are the stars of the show, are also above-the-line costs.
+Above-the-line costs are the big money spent on the main people who make a movie or TV show. This includes paying the director, who is in charge of how the story is told. It also includes money for the producers, who help plan and manage the project. Another big part of above-the-line costs is paying the writers, who create the story and script. And of [course](/wiki/best-algorithmic-trading-courses), the salaries for the main actors, who are the stars of the show, are also above-the-line costs.
 
 These costs also cover the money needed to buy the rights to the story or script. If the movie or TV show is based on a book or another existing work, the team has to pay to use it. Sometimes, above-the-line costs include money spent on developing the project before filming starts. This can be things like early planning meetings or making changes to the script. All these costs are important because they help set up the project and make sure it has a strong start.
 

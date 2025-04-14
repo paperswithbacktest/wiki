@@ -46,7 +46,7 @@ Another way OpenSea keeps things safe is by letting you use your own digital wal
 
 ## What is the role of Ethereum in OpenSea?
 
-Ethereum plays a big role in how OpenSea works. It's the main type of cryptocurrency that people use to buy and sell NFTs on the platform. When you want to buy an NFT, you use Ethereum to pay for it. And when you sell an NFT, you get paid in Ethereum. This makes Ethereum really important because it's like the money that keeps everything moving on OpenSea.
+Ethereum plays a big role in how OpenSea works. It's the main type of [cryptocurrency](/wiki/cryptocurrency) that people use to buy and sell NFTs on the platform. When you want to buy an NFT, you use Ethereum to pay for it. And when you sell an NFT, you get paid in Ethereum. This makes Ethereum really important because it's like the money that keeps everything moving on OpenSea.
 
 Besides being used as money, Ethereum also helps keep transactions safe and secure. OpenSea uses the Ethereum blockchain, which is like a special digital record book that keeps track of all the transactions. This makes sure that once a deal is done, it can't be changed or messed with easily. Plus, there's something called gas fees, which you pay in Ethereum, that help cover the cost of using the blockchain to process your transactions. So, Ethereum is not just the money you use on OpenSea, it's also what helps make the whole system work smoothly and safely.
 
@@ -60,11 +60,11 @@ After you've set everything up, you can click "Create" to make your NFT. OpenSea
 
 When you're buying NFTs on OpenSea, it's a good idea to do your homework first. Look at the seller's profile to see if they have good reviews and a history of selling NFTs. You can also check out the NFT's history to see if it has been sold before and for how much. This can help you figure out if the price is fair. Also, make sure to read the details about the NFT, like the description and any special features it might have. This way, you know exactly what you're getting.
 
-Another important thing is to be careful with your money. Set a budget for how much you want to spend on NFTs, and stick to it. Remember that there are fees, like the 2.5% transaction fee and the gas fee, which can add up. So, make sure you factor these into your budget. It's also a good idea to use a secure digital wallet and keep your private keys safe. This helps protect your money and your NFTs from being stolen. By following these simple steps, you can have a safer and more enjoyable experience buying NFTs on OpenSea.
+Another important thing is to be careful with your money. Set a budget for how much you want to spend on NFTs, and stick to it. Remember that there are fees, like the 2.5% transaction fee and the gas fee, which can add up. So, make sure you [factor](/wiki/factor-investing) these into your budget. It's also a good idea to use a secure digital wallet and keep your private keys safe. This helps protect your money and your NFTs from being stolen. By following these simple steps, you can have a safer and more enjoyable experience buying NFTs on OpenSea.
 
 ## How does OpenSea's royalty system work for creators?
 
-OpenSea's royalty system is a way for creators to keep earning money from their NFTs even after they've been sold to someone else. When a creator makes an NFT, they can set a royalty percentage, like 5% or 10%. This means that every time their NFT is sold on OpenSea, they get that percentage of the sale price. It's like getting a little bit of money every time someone buys your NFT, no matter how many times it changes hands.
+OpenSea's royalty system is a way for creators to keep [earning](/wiki/earning-announcement) money from their NFTs even after they've been sold to someone else. When a creator makes an NFT, they can set a royalty percentage, like 5% or 10%. This means that every time their NFT is sold on OpenSea, they get that percentage of the sale price. It's like getting a little bit of money every time someone buys your NFT, no matter how many times it changes hands.
 
 This system helps artists and other creators make money over time from their work. It's good for them because it means they can keep earning from their NFTs long after they first sell them. It also encourages more people to create and sell NFTs on OpenSea, knowing they'll get some money back every time their work is sold again.
 

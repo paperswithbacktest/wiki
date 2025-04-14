@@ -18,7 +18,7 @@ Using a DRIP can be a smart way to increase your investment because it takes adv
 
 A DRIP works by letting you use the money you get from dividends to buy more shares of the same company. When a company pays out dividends, instead of getting that money in cash, you can choose to have it automatically used to buy more stock. This means you don't need to do anything extra; the process happens on its own. You can often buy these new shares at a lower price than what they cost on the stock market, which is a nice bonus.
 
-Over time, using a DRIP can help your investment grow. This is because the new shares you buy with your dividends can also earn more dividends. This is called compounding, and it's like earning interest on your interest. The more shares you own, the more dividends you can earn, and the more you can reinvest. This cycle can help your investment get bigger and bigger without you adding any more money from your pocket.
+Over time, using a DRIP can help your investment grow. This is because the new shares you buy with your dividends can also earn more dividends. This is called compounding, and it's like [earning](/wiki/earning-announcement) interest on your interest. The more shares you own, the more dividends you can earn, and the more you can reinvest. This cycle can help your investment get bigger and bigger without you adding any more money from your pocket.
 
 ## What are the benefits of using a DRIP?
 

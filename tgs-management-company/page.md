@@ -88,7 +88,7 @@ Another part of TGS's plan is to use more technology to make their services bett
 
 ## What are the Algorithmic Trading Strategies at TGS?
 
-Algorithmic trading strategies at TGS Management Company are sophisticated, employing a combination of market-making, [statistical arbitrage](/wiki/statistical-arbitrage), and trend-following techniques. These strategies leverage proprietary technologies and tools that have been developed in-house. Market-making involves providing liquidity by placing both buy and sell orders for a financial instrument, allowing TGS to capitalize on the spread between the buying and selling prices.
+Algorithmic trading strategies at TGS Management Company are sophisticated, employing a combination of market-making, [statistical [arbitrage](/wiki/arbitrage)](/wiki/statistical-arbitrage), and trend-following techniques. These strategies leverage proprietary technologies and tools that have been developed in-house. Market-making involves providing [liquidity](/wiki/liquidity-risk-premium) by placing both buy and sell orders for a financial instrument, allowing TGS to capitalize on the spread between the buying and selling prices.
 
 Statistical arbitrage at TGS is another critical component, employing mathematical models to identify and exploit inefficiencies in market pricing. This approach typically involves the use of mean-reversion models, which predict that asset prices will return to their historical average over time. The formula for a simple mean-reversion strategy might be:
 
@@ -100,7 +100,7 @@ where $P_t$ is the current price, $\mu$ is the mean of the price series, and $\s
 
 Trend-following strategies, on the other hand, are designed to capture gains by identifying an upward or downward movement in the market. These strategies often rely on [momentum](/wiki/momentum) indicators such as moving averages or the moving average convergence divergence (MACD).
 
-TGS's ability to adapt these strategies to changing market conditions is crucial to their success. Their algorithms are continually updated to reflect new data and market dynamics, utilizing machine learning techniques. Machine learning models are often employed to enhance prediction accuracy and algorithmic efficiency. An example in Python might involve the use of libraries such as scikit-learn for implementing decision trees or neural networks:
+TGS's ability to adapt these strategies to changing market conditions is crucial to their success. Their algorithms are continually updated to reflect new data and market dynamics, utilizing [machine learning](/wiki/machine-learning) techniques. Machine learning models are often employed to enhance prediction accuracy and algorithmic efficiency. An example in Python might involve the use of libraries such as scikit-learn for implementing decision trees or neural networks:
 
 ```python
 from sklearn.tree import DecisionTreeRegressor

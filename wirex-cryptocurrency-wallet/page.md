@@ -28,7 +28,7 @@ Besides these, Wirex also supports some newer or less common cryptocurrencies. F
 
 ## How can I deposit and withdraw funds on Wirex?
 
-To deposit funds into your Wirex account, you can use a bank transfer or a credit/debit card. If you want to add regular money like dollars or euros, you can link your bank account and send money to Wirex. They will then convert it into the cryptocurrency you want. You can also use a credit or debit card to buy cryptocurrencies directly on the Wirex platform. For adding more cryptocurrencies, you can send them from another wallet to your Wirex wallet using the unique address Wirex gives you for each type of cryptocurrency.
+To deposit funds into your Wirex account, you can use a bank transfer or a credit/debit card. If you want to add regular money like dollars or euros, you can link your bank account and send money to Wirex. They will then convert it into the [cryptocurrency](/wiki/cryptocurrency) you want. You can also use a credit or debit card to buy cryptocurrencies directly on the Wirex platform. For adding more cryptocurrencies, you can send them from another wallet to your Wirex wallet using the unique address Wirex gives you for each type of cryptocurrency.
 
 To withdraw funds from Wirex, you have a few options. If you want to take out regular money, you can transfer it back to your bank account. Wirex will convert your cryptocurrencies into the currency you need and send it to your bank. You can also withdraw cryptocurrencies directly to another wallet by sending them to the address of that wallet. If you have a Wirex card, you can use it to spend your cryptocurrencies at stores or online, which is another way to use your funds without needing to withdraw them to a bank account.
 
@@ -40,7 +40,7 @@ Another fee to think about is when you use the Wirex card. If you spend your cry
 
 ## How secure is the Wirex wallet?
 
-Wirex takes security very seriously to keep your money safe. They use something called two-factor authentication, which means you need two ways to prove it's really you when you log in. This makes it much harder for someone else to get into your account. Wirex also keeps most of your cryptocurrencies in special secure storage, called cold storage, which is not connected to the internet. This makes it very hard for hackers to steal your money.
+Wirex takes security very seriously to keep your money safe. They use something called two-[factor](/wiki/factor-investing) authentication, which means you need two ways to prove it's really you when you log in. This makes it much harder for someone else to get into your account. Wirex also keeps most of your cryptocurrencies in special secure storage, called cold storage, which is not connected to the internet. This makes it very hard for hackers to steal your money.
 
 Besides these, Wirex has other ways to protect you. They use strong encryption to keep your information safe when it's sent over the internet. They also watch for any strange activity on your account and will let you know if they see anything that doesn't look right. While no system is perfect, Wirex does a lot to make sure your money and information are as safe as possible.
 

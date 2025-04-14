@@ -22,7 +22,7 @@ The coupon rate also gets compared to other interest rates out there, like gover
 
 ## What is the difference between a bond's coupon rate and its yield?
 
-The coupon rate of a bond is the interest rate that the bond issuer agrees to pay the bondholder each year, based on the bond's face value. For example, if you have a bond with a face value of $1,000 and a coupon rate of 5%, you will get $50 every year until the bond matures. The coupon rate stays the same throughout the life of the bond and is set when the bond is issued.
+The coupon rate of a bond is the [interest rate](/wiki/interest-rate-trading-strategies) that the bond issuer agrees to pay the bondholder each year, based on the bond's face value. For example, if you have a bond with a face value of $1,000 and a coupon rate of 5%, you will get $50 every year until the bond matures. The coupon rate stays the same throughout the life of the bond and is set when the bond is issued.
 
 The yield of a bond, on the other hand, is the actual return an investor gets on the bond, which can change over time. Yield is calculated based on the bond's current market price, not just its face value. If you buy a bond for less than its face value, the yield will be higher than the coupon rate because you're getting the same interest payments but you paid less for the bond. If you buy it for more than the face value, the yield will be lower than the coupon rate. So, yield reflects what's happening in the market and can go up or down, while the coupon rate stays the same.
 

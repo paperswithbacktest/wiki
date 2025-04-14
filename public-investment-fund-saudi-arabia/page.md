@@ -24,7 +24,7 @@ The PIF helps Saudi Arabia's economy grow by investing in different things like 
 
 The main goal of the Public Investment Fund (PIF) of Saudi Arabia is to manage the country's money and invest it to make more money. It was started in 1971 and is owned by the Saudi government. The PIF puts money into different things like businesses, real estate, and other funds to help grow Saudi Arabia's economy.
 
-The PIF is very important for Saudi Arabia's plan to change its economy. It helps the country move away from depending only on oil and start earning money from other sources. By investing in many different places around the world, the PIF helps spread the risk and can bring more money back to Saudi Arabia.
+The PIF is very important for Saudi Arabia's plan to change its economy. It helps the country move away from depending only on oil and start [earning](/wiki/earning-announcement) money from other sources. By investing in many different places around the world, the PIF helps spread the risk and can bring more money back to Saudi Arabia.
 
 ## How is the Public Investment Fund governed?
 

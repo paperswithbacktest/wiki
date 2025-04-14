@@ -151,7 +151,7 @@ These coverage ratios collectively provide a comprehensive view of a company's f
 ## References & Further Reading
 
 1. **Lopez de Prado, M. (2018). Advances in Financial Machine Learning**  
-   This book provides a comprehensive overview of sophisticated [machine learning](/wiki/machine-learning) techniques applicable to financial markets. It discusses how these methods can be used to develop advanced trading strategies and implement them effectively in algorithmic trading systems. The focus on adaptability, robustness, and fairness in machine learning applications makes it an essential resource for both practitioners and researchers interested in the intersection of finance and technology.
+   This book provides a comprehensive overview of sophisticated [machine learning](/wiki/machine-learning) techniques applicable to financial markets. It discusses how these methods can be used to develop advanced trading strategies and implement them effectively in [algorithmic trading](/wiki/algorithmic-trading) systems. The focus on adaptability, robustness, and fairness in machine learning applications makes it an essential resource for both practitioners and researchers interested in the intersection of finance and technology.
 
 2. **Aronson, D. (2007). Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals**  
    Aronson's book advocates for a scientific approach to technical analysis, stressing the importance of statistical validation and empirical evidence in developing trading systems. The methods outlined in this book are crucial for traders looking to establish reliable trading signals grounded in research rather than intuition, which aligns with the principles of algorithmic trading.

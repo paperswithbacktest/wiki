@@ -22,7 +22,7 @@ Knowing the convexity of a bond helps investors make better decisions. If a bond
 
 ## How can convexity be used to assess interest rate risk?
 
-Convexity helps investors understand how much a bond's price will change when interest rates move. It's like a tool that shows how curvy the relationship between bond prices and interest rates is. If a bond has high convexity, its price will change a lot when interest rates go up or down. This means it's more sensitive to interest rate changes, which can be good or bad depending on whether rates are going up or down.
+Convexity helps investors understand how much a bond's price will change when interest rates move. It's like a tool that shows how curvy the relationship between bond prices and interest rates is. If a bond has high convexity, its price will change a lot when interest rates go up or down. This means it's more sensitive to [interest rate](/wiki/interest-rate-trading-strategies) changes, which can be good or bad depending on whether rates are going up or down.
 
 By knowing the convexity of a bond, investors can better assess the interest rate risk they are taking on. If someone thinks interest rates will fall, they might choose bonds with high convexity because those bonds' prices will go up more than others. But if they think rates will rise, they might avoid high convexity bonds because those prices could drop more sharply. So, convexity helps investors pick the right bonds based on their expectations about future interest rates and manage their risk better.
 
@@ -138,7 +138,7 @@ By setting up these components efficiently in Excel, financial professionals can
 
 Algorithmic trading leverages mathematical concepts to develop systematic trading decisions, optimizing through precise calculations and data analysis. Various mathematical foundations underpin this adaptive and predictive capability, including statistical analysis, regression models, and computational methods.
 
-Statistical models are essential in algorithmic trading, enabling traders to quantify and manage risk, assess probability distributions, and optimize trade execution. Statistical [arbitrage](/wiki/arbitrage) strategies, for example, rely heavily on statistical measures like mean, variance, and correlation. These strategies exploit pricing inefficiencies between related financial instruments, grounding decisions in the probability of price reversion to mean values.
+Statistical models are essential in [algorithmic trading](/wiki/algorithmic-trading), enabling traders to quantify and manage risk, assess probability distributions, and optimize trade execution. Statistical [arbitrage](/wiki/arbitrage) strategies, for example, rely heavily on statistical measures like mean, variance, and correlation. These strategies exploit pricing inefficiencies between related financial instruments, grounding decisions in the probability of price reversion to mean values.
 
 Regression models extend these statistical foundations by facilitating predictive analysis and trend evaluation. In trading algorithms, linear regression can model and predict security prices based on historical data. The relationship between an asset's price and other variables, such as market indices or economic indicators, can be explored through multivariate regression. Consider the linear regression formula:
 

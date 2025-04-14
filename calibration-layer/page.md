@@ -19,7 +19,7 @@ Calibration is important in machine learning models because it makes sure the pr
 
 For example, if a doctor uses a model to decide if a patient needs urgent care, the model's probabilities need to be correct. If the model says there's a high chance of a serious condition but it's wrong too often, the doctor might not trust it. This could lead to wrong decisions and harm patients. By calibrating the model, we make sure the probabilities are more reliable, which helps everyone make better choices based on what the model says.
 
-Calibration can be done in different ways, like using a calibration layer or other techniques. These methods adjust the model's output so it matches what happens in real life more closely. This makes the model more useful and trustworthy, which is why calibration is a key part of building good machine learning models.
+Calibration can be done in different ways, like using a calibration layer or other techniques. These methods adjust the model's output so it matches what happens in real life more closely. This makes the model more useful and trustworthy, which is why calibration is a key part of building good [machine learning](/wiki/machine-learning) models.
 
 ## How does a calibration layer improve model performance?
 
@@ -33,7 +33,7 @@ One common method for model calibration is called Platt scaling. This method wor
 
 Another method is called Isotonic regression. This method sorts the model's predictions and then adjusts them to be more in line with the actual outcomes. It does this by creating a step function that fits the data without making any assumptions about the shape of the relationship between the predictions and the true probabilities. Isotonic regression can be more flexible than Platt scaling but might need more data to work well.
 
-A third method is called temperature scaling. This method adjusts the model's output by dividing the logits (the raw scores before they are turned into probabilities) by a temperature parameter $$T$$. The formula for this is $$P(y=i) = \frac{\exp(z_i/T)}{\sum_j \exp(z_j/T)}$$, where $$z_i$$ are the logits. By tuning the temperature $$T$$, the model's confidence can be adjusted to better match the true probabilities. Temperature scaling is often used in deep learning models because it's simple and effective.
+A third method is called temperature scaling. This method adjusts the model's output by dividing the logits (the raw scores before they are turned into probabilities) by a temperature parameter $$T$$. The formula for this is $$P(y=i) = \frac{\exp(z_i/T)}{\sum_j \exp(z_j/T)}$$, where $$z_i$$ are the logits. By tuning the temperature $$T$$, the model's confidence can be adjusted to better match the true probabilities. Temperature scaling is often used in [deep learning](/wiki/deep-learning) models because it's simple and effective.
 
 ## Can you explain the difference between Platt scaling and Isotonic regression for calibration?
 

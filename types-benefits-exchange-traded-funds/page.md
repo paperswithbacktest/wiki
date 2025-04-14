@@ -18,7 +18,7 @@ ETFs are popular because they offer a way to diversify your investments easily. 
 
 ETFs and mutual funds are both ways to invest in a bunch of different things at once, but they work a bit differently. ETFs trade on a stock exchange, just like stocks. This means you can buy or sell them anytime during the trading day at the current market price. On the other hand, mutual funds are bought or sold at the end of the trading day at a price that's calculated once a day. So, if you want to be able to trade throughout the day, ETFs might be better for you.
 
-Another big difference is how they're managed and what they cost. ETFs usually track an index, like the S&P 500, and they often have lower fees because they're not trying to beat the market, just match it. Mutual funds, on the other hand, can be actively managed, meaning someone is picking and choosing investments to try to do better than the market. This active management can lead to higher fees. So, if you're looking for a cheaper way to invest, ETFs might be the way to go.
+Another big difference is how they're managed and what they cost. ETFs usually track an index, like the S&P 500, and they often have lower fees because they're not trying to beat the market, just match it. Mutual funds, on the other hand, can be actively managed, meaning someone is [picking](/wiki/asset-class-picking) and choosing investments to try to do better than the market. This active management can lead to higher fees. So, if you're looking for a cheaper way to invest, ETFs might be the way to go.
 
 ## What are the different types of ETFs available to investors?
 
@@ -28,7 +28,7 @@ Another way to look at ETFs is by their investment strategy. Some ETFs are passi
 
 ## What are equity ETFs and how do they work?
 
-Equity ETFs are a type of exchange-traded fund that mainly invest in stocks. They work by pooling money from many investors to buy a bunch of different stocks all at once. This makes it easier for you to own a piece of many companies without having to buy each stock one by one. Equity ETFs can focus on different things, like a specific country, industry, or even the whole market. For example, an ETF might track the S&P 500, which means it tries to match the performance of the 500 biggest companies in the U.S.
+Equity ETFs are a type of exchange-traded fund that mainly invest in stocks. They work by pooling money from many investors to buy a bunch of different stocks all at once. This makes it easier for you to own a piece of many companies without having to buy each stock one by one. Equity ETFs can focus on different things, like a specific country, industry, or even the whole market. For example, an [ETF](/wiki/etf-trading-strategies) might track the S&P 500, which means it tries to match the performance of the 500 biggest companies in the U.S.
 
 When you buy shares of an equity ETF, you're buying a small piece of all the stocks it holds. The price of the ETF goes up and down based on how well the stocks inside it are doing. If the stocks go up, the ETF's price usually goes up too. If the stocks go down, the ETF's price will likely go down as well. This makes equity ETFs a good way to spread out your risk because you're not betting on just one company. Plus, they're often cheaper to own than buying a bunch of individual stocks because the fees are usually lower.
 

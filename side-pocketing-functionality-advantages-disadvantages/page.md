@@ -54,7 +54,7 @@ Regulators also want to make sure that side pocketing isn't used to hide problem
 
 ## Can side pocketing affect the liquidity of an investment fund?
 
-Side pocketing can affect the liquidity of an investment fund. When a fund puts risky or hard-to-sell investments into a side pocket, it means those assets are not part of the main fund anymore. This can make it harder for the fund to give money back to investors who want to leave, especially the ones who were in the fund when the side pocket was created. They might have to wait until the side pocketed assets are sold or their value goes up before they can get their money back.
+Side pocketing can affect the [liquidity](/wiki/liquidity-risk-premium) of an investment fund. When a fund puts risky or hard-to-sell investments into a side pocket, it means those assets are not part of the main fund anymore. This can make it harder for the fund to give money back to investors who want to leave, especially the ones who were in the fund when the side pocket was created. They might have to wait until the side pocketed assets are sold or their value goes up before they can get their money back.
 
 On the other hand, side pocketing can help keep the main part of the fund more liquid. New investors who join the fund after the side pocket is created don't have to worry about the risky investments. This means the fund can keep running smoothly and be ready to give money back to these new investors more easily. So, while side pocketing can make things harder for some investors, it can help keep the fund's overall liquidity better for others.
 

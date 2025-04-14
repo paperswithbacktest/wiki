@@ -24,11 +24,11 @@ Both methods have their ups and downs. Quantitative trading can be more consiste
 
 ## What are the basic components of a quantitative trading strategy?
 
-The basic components of a quantitative trading strategy start with data. Traders need a lot of information about things like stock prices, economic reports, and even news events. They collect this data and clean it up so it's ready to use. Then, they use this data to find patterns and trends. This is called data analysis, and it's really important because it helps traders understand what's happening in the market.
+The basic components of a [quantitative trading](/wiki/quantitative-trading) strategy start with data. Traders need a lot of information about things like stock prices, economic reports, and even news events. They collect this data and clean it up so it's ready to use. Then, they use this data to find patterns and trends. This is called data analysis, and it's really important because it helps traders understand what's happening in the market.
 
 Next, traders use math to create models. These models are like special recipes that tell the computer what to do. They use these models to make predictions about what might happen next in the market. Based on these predictions, the strategy decides when to buy or sell. This part is called the trading signal, and it's what tells the trader to make a move. The whole process is set up to happen automatically, so the computer does most of the work once the strategy is in place.
 
-Lastly, it's important to keep checking and improving the strategy. Traders need to see if their models are working well and if they need to make changes. This is called backtesting, where they use old data to see how the strategy would have done in the past. If something isn't working, they can tweak the model to make it better. This ongoing process helps keep the strategy strong and ready to face new market conditions.
+Lastly, it's important to keep checking and improving the strategy. Traders need to see if their models are working well and if they need to make changes. This is called [backtesting](/wiki/backtesting), where they use old data to see how the strategy would have done in the past. If something isn't working, they can tweak the model to make it better. This ongoing process helps keep the strategy strong and ready to face new market conditions.
 
 ## Can you provide examples of simple quantitative trading strategies?
 
@@ -40,7 +40,7 @@ Another simple strategy is called mean reversion. This strategy is based on the 
 
 In quantitative trading, Python is a very popular language. It's easy to learn and has lots of tools that help traders analyze data and make models. Libraries like Pandas help with handling data, while NumPy and SciPy are great for doing math. There are also special libraries like Quantopian and Backtrader that are made just for trading. Because Python is so flexible and has a big community, it's a top choice for many traders.
 
-Another common language is R, which is really good for statistics and data analysis. Traders use R to make models and test them on past data. It has lots of packages like quantmod and PerformanceAnalytics that are helpful for trading. While R is not as general-purpose as Python, it's very powerful for the specific tasks that quantitative traders need to do.
+Another common language is R, which is really good for [statistics](/wiki/bayesian-statistics) and data analysis. Traders use R to make models and test them on past data. It has lots of packages like quantmod and PerformanceAnalytics that are helpful for trading. While R is not as general-purpose as Python, it's very powerful for the specific tasks that quantitative traders need to do.
 
 Sometimes, traders also use C++ or Java. These languages are faster and can handle big data sets better than Python or R. They're more complicated to learn, but they can make trading strategies run quicker, which is important in fast-moving markets. So, while Python and R are the most common, C++ and Java have their place too, especially when speed is key.
 
@@ -52,7 +52,7 @@ Another way traders use statistical models is to test their trading ideas. They 
 
 ## What are some advanced quantitative trading techniques?
 
-One advanced technique in quantitative trading is machine learning. Traders use computers to learn from data and find patterns that are too hard for people to see. They feed the computer lots of information about stocks, like prices and trading volumes, and the computer figures out which patterns are most likely to make money. This can be really helpful because the computer can keep learning and getting better over time. But it's also tricky because the market can change, and what worked before might not work again.
+One advanced technique in quantitative trading is [machine learning](/wiki/machine-learning). Traders use computers to learn from data and find patterns that are too hard for people to see. They feed the computer lots of information about stocks, like prices and trading volumes, and the computer figures out which patterns are most likely to make money. This can be really helpful because the computer can keep learning and getting better over time. But it's also tricky because the market can change, and what worked before might not work again.
 
 Another technique is high-frequency trading. This is when traders use very fast computers to buy and sell stocks in a split second. They look for tiny changes in the market and make lots of trades to make small profits that add up over time. High-frequency trading needs special technology and a lot of money to work well, but it can be very profitable if done right. It's also controversial because some people think it can make the market less fair for others who can't trade as quickly.
 
@@ -90,7 +90,7 @@ After getting the right education, the next step is to get some experience. This
 
 Quantitative trading presents numerous advantages within financial markets. One of its primary benefits is the ability to eliminate emotional bias. Traditional trading often suffers from the influence of human emotions such as fear and greed, which can lead to impulsive decisions. Quantitative trading, however, relies on pre-defined mathematical models and algorithms, ensuring decisions are made based on data and statistical analysis rather than human intuition. This approach not only provides consistency but also enhances the predictability of trading outcomes.
 
-Another significant strength of quantitative trading is its optimal use of data. Markets generate vast amounts of data every second, including price, volume, and order flow. Quantitative trading systems are designed to process and analyze this data at speeds beyond human capability, extracting insights and patterns that inform trading strategies. By leveraging big data, quantitative strategies can identify subtle market inefficiencies and capitalize on them.
+Another significant strength of quantitative trading is its optimal use of data. Markets generate vast amounts of data every second, including price, [volume](/wiki/volume-trading-strategy), and order flow. Quantitative trading systems are designed to process and analyze this data at speeds beyond human capability, extracting insights and patterns that inform trading strategies. By leveraging big data, quantitative strategies can identify subtle market inefficiencies and capitalize on them.
 
 Despite these advantages, quantitative trading faces inherent challenges. One of the primary limitations is its sensitivity to changing market conditions. Models are typically built upon historical data, which may not always predict future market behavior accurately. Situations such as economic shifts or unprecedented global events can render a well-optimized model less effective, as the assumptions it was based on may no longer hold true.
 

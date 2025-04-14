@@ -54,7 +54,7 @@ For example, if the best price to buy a stock on a public exchange is $10, a dar
 
 Price improvement mechanisms can make the market more liquid. Liquidity means how easy it is to buy or sell something without changing its price too much. When traders know they can get a better price through price improvement, they are more likely to trade. This means more people are buying and selling, which makes the market more active and easier to trade in. More trades happening can help keep the market moving smoothly.
 
-However, there can be a downside. If too many trades happen in dark pools or other places where they are not public, it can make the main market less liquid. This is because some of the buying and selling is happening away from the main market, so there are fewer trades happening there. This can make it harder for people to buy and sell on the main market because there are fewer people trading there. So, while price improvement can help with liquidity in some ways, it can also make it worse in others if not managed carefully.
+However, there can be a downside. If too many trades happen in dark pools or other places where they are not public, it can make the main market less liquid. This is because some of the buying and selling is happening away from the main market, so there are fewer trades happening there. This can make it harder for people to buy and sell on the main market because there are fewer people trading there. So, while price improvement can help with [liquidity](/wiki/liquidity-risk-premium) in some ways, it can also make it worse in others if not managed carefully.
 
 ## What are some common challenges or limitations of price improvement mechanisms?
 
@@ -76,7 +76,7 @@ Another strategy is to use algorithms that break up big orders into smaller ones
 
 ## What future developments might we see in price improvement mechanisms?
 
-In the future, we might see more advanced computer programs that help traders get even better prices. These programs could use artificial intelligence to look at lots of data and find the best places to trade. They might be able to predict when and where price improvements are most likely to happen. This could make trading even more efficient and help traders save more money. Also, as technology gets better, more people might be able to use these advanced tools, not just big traders. This could make the market fairer for everyone.
+In the future, we might see more advanced computer programs that help traders get even better prices. These programs could use [artificial intelligence](/wiki/ai-artificial-intelligence) to look at lots of data and find the best places to trade. They might be able to predict when and where price improvements are most likely to happen. This could make trading even more efficient and help traders save more money. Also, as technology gets better, more people might be able to use these advanced tools, not just big traders. This could make the market fairer for everyone.
 
 Another thing we might see is more rules about how price improvement works. Governments and regulators might make new laws to make sure that price improvement helps everyone, not just big traders. They might want to make sure that the main market stays active and easy to use, even if lots of trades happen in other places. This could mean more rules about dark pools and other private trading systems. By balancing these rules with new technology, the future of price improvement could help make trading better and fairer for everyone.
 

@@ -42,7 +42,7 @@ It's really important to look at all the fees before you invest in a mutual fund
 
 When you see 'net of fees' in mutual fund performance reports, it means the numbers they show have already taken out all the fees. So, if a fund says it made 8% 'net of fees,' that's how much money you actually made after paying all the costs. It's like looking at your take-home pay after taxes, not your gross salary.
 
-This is important because it gives you a clear picture of what you're really earning from the fund. Without knowing the 'net of fees' performance, you might think you're making more money than you actually are. By looking at the 'net of fees' numbers, you can make better decisions about which funds to invest in, because you'll know exactly how much money you'll have left after all the fees are paid.
+This is important because it gives you a clear picture of what you're really [earning](/wiki/earning-announcement) from the fund. Without knowing the 'net of fees' performance, you might think you're making more money than you actually are. By looking at the 'net of fees' numbers, you can make better decisions about which funds to invest in, because you'll know exactly how much money you'll have left after all the fees are paid.
 
 ## How is 'net of fees' performance calculated for a mutual fund?
 

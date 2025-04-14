@@ -18,7 +18,7 @@ You can think of amplitude in other ways too. For example, if you're listening t
 
 Amplitude is really important when we talk about how loud a sound is. Imagine you're playing a drum. If you hit the drum softly, the sound isn't very loud. That's because the amplitude of the sound wave is small. But if you hit the drum hard, the sound gets much louder. That's because the amplitude of the sound wave is bigger. So, the louder a sound is, the bigger its amplitude.
 
-You can see this with other things too. Think about turning up the volume on your phone or radio. When you make the volume louder, you're actually increasing the amplitude of the sound waves coming out of the speaker. So, amplitude and loudness go hand in hand. The bigger the amplitude, the louder the sound.
+You can see this with other things too. Think about turning up the [volume](/wiki/volume-trading-strategy) on your phone or radio. When you make the volume louder, you're actually increasing the amplitude of the sound waves coming out of the speaker. So, amplitude and loudness go hand in hand. The bigger the amplitude, the louder the sound.
 
 ## What is the difference between amplitude and frequency?
 
@@ -80,7 +80,7 @@ Amplitude also matters a lot in building structures like bridges and buildings. 
 
 In electronic signal processing, amplitude can be changed using different tools and methods. One common way to do this is with an amplifier. An amplifier makes the amplitude of a signal bigger, so if you have a weak signal, you can make it stronger. This is really useful in things like radios and TVs, where you need to make sure the signal is strong enough to work well. Another way to change amplitude is with an attenuator, which makes the amplitude smaller. This can be helpful if a signal is too strong and you need to make it weaker so it doesn't damage equipment or cause problems.
 
-Another important tool for manipulating amplitude is a modulator. Modulation is when you change the amplitude of a signal to carry information. For example, in AM (Amplitude Modulation) radio, the amplitude of the radio wave is changed to send music or speech. By controlling the amplitude, you can send different signals and information. Engineers also use digital signal processing to change amplitude. With digital tools, you can use math to make the amplitude bigger or smaller, or even change it in more complex ways. This helps in things like noise reduction, where you can make the amplitude of unwanted sounds smaller to make the sound clearer.
+Another important tool for manipulating amplitude is a modulator. Modulation is when you change the amplitude of a signal to [carry](/wiki/carry-trading) information. For example, in AM (Amplitude Modulation) radio, the amplitude of the radio wave is changed to send music or speech. By controlling the amplitude, you can send different signals and information. Engineers also use digital signal processing to change amplitude. With digital tools, you can use math to make the amplitude bigger or smaller, or even change it in more complex ways. This helps in things like noise reduction, where you can make the amplitude of unwanted sounds smaller to make the sound clearer.
 
 ## What advanced techniques exist for analyzing amplitude in complex wave systems?
 
@@ -90,7 +90,7 @@ Another technique is wavelet analysis, which is good for looking at waves that c
 
 ## What are the technical approaches to calculating amplitude?
 
-There are several technical methods for calculating amplitude within algorithmic trading, each offering unique insights and benefits. Key approaches include Fourier analysis, time series analysis, and statistical methods, which help assess oscillation patterns in market data, ultimately enhancing algorithm precision and fulfilling specific trading objectives.
+There are several technical methods for calculating amplitude within [algorithmic trading](/wiki/algorithmic-trading), each offering unique insights and benefits. Key approaches include Fourier analysis, time series analysis, and statistical methods, which help assess oscillation patterns in market data, ultimately enhancing algorithm precision and fulfilling specific trading objectives.
 
 Fourier analysis is instrumental in decomposing complex market signals into simpler sinusoidal components. This technique transforms time-domain data into the frequency domain, enabling traders to identify dominant cycles and periodic behaviors in market prices. The Fourier Transform (FT) is expressed as:
 
@@ -100,7 +100,7 @@ $$
 
 where $X(f)$ is the frequency-domain representation of the signal $x(t)$, and $f$ represents frequency. This mathematical transformation is particularly advantageous for identifying repetitive patterns and cyclical trends, which can be pivotal in forecasting future price movements. A disadvantage is its inefficiency in handling non-stationary data, leading to the development of techniques such as the Short-Time Fourier Transform (STFT) and Wavelet Transforms, which provide time-frequency analysis.
 
-Time series analysis is another indispensable approach for understanding amplitude, focusing directly on data points indexed in time order. Techniques like Autoregressive Integrated Moving Average (ARIMA) and Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models allow traders to model and forecast the volatility and price fluctuations. These models are adept at capturing temporal dependencies in market data and can adjust predictions based on new data points. However, they require assumptions about data stationarity and may encounter challenges with sudden market shifts.
+Time series analysis is another indispensable approach for understanding amplitude, focusing directly on data points indexed in time order. Techniques like Autoregressive Integrated Moving Average (ARIMA) and Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models allow traders to model and forecast the [volatility](/wiki/volatility-trading-strategies) and price fluctuations. These models are adept at capturing temporal dependencies in market data and can adjust predictions based on new data points. However, they require assumptions about data stationarity and may encounter challenges with sudden market shifts.
 
 Statistical methods for amplitude measurement often involve examining oscillation patterns through metrics like the standard deviation and variance, which infer the extent of deviation from the mean price level. Bollinger Bands, a prevalent tool in this category, use standard deviation to create a dynamic range around a simple moving average, serving as a visual and analytical risk assessment tool. The challenge with purely statistical methods is their limited capability to capture non-linear dynamics in trading data.
 

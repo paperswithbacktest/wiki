@@ -28,7 +28,7 @@ This strategy can be a good way to earn more money. You get the dividends, which
 
 ## What are the benefits of using covered calls on dividend stocks?
 
-Using covered calls on dividend stocks can help you make more money from your investments. When you own a dividend stock, you get regular payments from the company just for holding the stock. If you sell a call option on those shares, you get extra money from the premium. This means you're earning from both the dividends and the option premium, which can add up over time and give you a nice steady income.
+Using covered calls on dividend stocks can help you make more money from your investments. When you own a dividend stock, you get regular payments from the company just for holding the stock. If you sell a call option on those shares, you get extra money from the premium. This means you're [earning](/wiki/earning-announcement) from both the dividends and the option premium, which can add up over time and give you a nice steady income.
 
 But there's a risk you need to think about. If the stock price goes above the price you set for the call option, the person who bought the option might want to buy your shares. If that happens, you'll have to sell your stock and you might miss out on future dividend payments. Still, if the stock price stays below the option price, you get to keep your shares, the dividends, and the premium from selling the option. So, it's a good way to make more money, but you need to be okay with possibly having to sell your shares.
 
@@ -40,7 +40,7 @@ Another risk is that the stock price might drop a lot. If it does, the money you
 
 ## How do you select the right dividend stocks for covered calls?
 
-When picking dividend stocks for covered calls, you want to look at how stable the company is. A good rule is to choose companies that have been paying dividends for a long time and have a history of increasing them. These are often called "dividend aristocrats." You also want to check the company's financial health. Make sure they have enough money to keep paying dividends even if things get tough. A company that's doing well and growing its earnings is more likely to keep up its dividend payments, which is important if you're planning to use covered calls.
+When [picking](/wiki/asset-class-picking) dividend stocks for covered calls, you want to look at how stable the company is. A good rule is to choose companies that have been paying dividends for a long time and have a history of increasing them. These are often called "dividend aristocrats." You also want to check the company's financial health. Make sure they have enough money to keep paying dividends even if things get tough. A company that's doing well and growing its earnings is more likely to keep up its dividend payments, which is important if you're planning to use covered calls.
 
 Another thing to think about is the stock's price and how much it moves around. You want a stock that doesn't jump up and down too much, because that can make your covered call strategy riskier. If the stock price stays pretty steady, it's easier to pick a good strike price for your call option. Also, look at the dividend yield, which is how much the dividend is compared to the stock's price. A higher yield can mean more income, but be careful because a really high yield might mean the stock is risky. So, finding the right balance between a stable stock and a good dividend yield is key to making covered calls on dividend stocks work well for you.
 

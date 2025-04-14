@@ -174,7 +174,7 @@ Investors utilizing the ICAPM can tailor their strategies to better navigate the
 
 ## What are the benefits of using ICAPM in algorithmic trading?
 
-The International Capital Asset Pricing Model (ICAPM) offers significant advantages when used in algorithmic trading. By integrating international risks, such as exchange rate fluctuations and varying interest rates, ICAPM provides a more comprehensive framework for global investment strategies. This structured approach facilitates the automation of investment strategies, allowing traders to optimize returns while efficiently managing cross-border risks.
+The International Capital Asset Pricing Model (ICAPM) offers significant advantages when used in [algorithmic trading](/wiki/algorithmic-trading). By integrating international risks, such as exchange rate fluctuations and varying interest rates, ICAPM provides a more comprehensive framework for global investment strategies. This structured approach facilitates the automation of investment strategies, allowing traders to optimize returns while efficiently managing cross-border risks.
 
 One of the primary benefits of using ICAPM in algorithmic trading is the potential for improved risk management. Traditional CAPM may fall short in a global context as it primarily considers domestic risk factors. ICAPM, on the other hand, includes an additional layer of analysis, incorporating foreign exchange risk and international market volatility. This enables traders to better predict and hedge against potential market disruptions, resulting in more robust and resilient portfolios.
 

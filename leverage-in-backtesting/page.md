@@ -78,7 +78,7 @@ Another useful method is Value at Risk (VaR), which tells you the worst loss you
 
 ## How can machine learning enhance the backtesting of strategies with leverage?
 
-Machine learning can make backtesting with leverage a lot better by finding patterns in the data that you might miss. It can look at tons of historical market data and figure out how different amounts of leverage affect your trading strategy. By using machine learning, you can see if using more leverage at certain times or in certain market conditions could help you make more money or if it's too risky. It's like having a smart friend who can spot things you wouldn't notice on your own, helping you adjust your strategy to make it work better.
+Machine learning can make backtesting with leverage a lot better by finding patterns in the data that you might miss. It can look at tons of historical market data and figure out how different amounts of leverage affect your trading strategy. By using [machine learning](/wiki/machine-learning), you can see if using more leverage at certain times or in certain market conditions could help you make more money or if it's too risky. It's like having a smart friend who can spot things you wouldn't notice on your own, helping you adjust your strategy to make it work better.
 
 Another way machine learning helps is by running many different scenarios quickly. It can test your strategy with different levels of leverage over and over again, showing you how it would do in all sorts of market situations. This means you can find the best amount of leverage to use without having to do all the work yourself. By using machine learning, you can make your backtesting more accurate and get a clearer picture of how leverage might affect your trading strategy in the real world.
 
@@ -146,7 +146,7 @@ Overfitting is a common challenge in backtesting, particularly when leverage is 
 
 Another significant consideration is the changing nature of market conditions. A strategy heavily reliant on leverage may exhibit remarkable historical returns, yet future markets can deviate considerably from historical patterns due to economic events, regulatory changes, or technological advancements. Traders must remain vigilant and ready to adjust strategies accordingly. Diversifying strategies and employing adaptive algorithms can help account for varying market conditions, thereby reducing reliance on static historical patterns.
 
-Risk of over-leverage is a critical pitfall in backtesting. While leverage can magnify returns, it concurrently amplifies risks. Excessive use of leverage has the potential to incur substantial losses, especially during periods of extreme market volatility. Thus, maintaining an optimal balance between leverage and risk is paramount. This involves setting appropriate stop-loss limits and continually assessing the risk-reward ratio. The formula for calculating the leverage ratio is often used:
+Risk of over-leverage is a critical pitfall in backtesting. While leverage can magnify returns, it concurrently amplifies risks. Excessive use of leverage has the potential to incur substantial losses, especially during periods of extreme market [volatility](/wiki/volatility-trading-strategies). Thus, maintaining an optimal balance between leverage and risk is paramount. This involves setting appropriate stop-loss limits and continually assessing the risk-reward ratio. The formula for calculating the leverage ratio is often used:
 
 $$
 \text{Leverage Ratio} = \frac{\text{Total Asset Value}}{\text{Equity}}

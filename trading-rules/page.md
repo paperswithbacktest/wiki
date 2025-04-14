@@ -24,7 +24,7 @@ Lastly, emotions play a big role in trading. It's easy to get excited or scared 
 
 ## How do I start trading as a beginner?
 
-To start trading as a beginner, you first need to learn the basics. Trading means buying and selling things like stocks or currencies to make money. You should read books, watch videos, and maybe take a course to understand how it works. It's also a good idea to practice with a demo account, which lets you trade without using real money. This way, you can get used to how trading works without risking any money.
+To start trading as a beginner, you first need to learn the basics. Trading means buying and selling things like stocks or currencies to make money. You should read [books](/wiki/algo-trading-books), watch videos, and maybe take a [course](/wiki/best-algorithmic-trading-courses) to understand how it works. It's also a good idea to practice with a demo account, which lets you trade without using real money. This way, you can get used to how trading works without risking any money.
 
 Once you feel ready, choose a good trading platform or broker. Make sure it's trusted and easy to use. Start with a small amount of money that you can afford to lose. Don't use money you need for bills or other important things. When you start trading, set clear goals and stick to a plan. Don't let your feelings control your decisions. Remember, trading can be risky, so always be careful and keep learning as you go.
 
@@ -32,7 +32,7 @@ Once you feel ready, choose a good trading platform or broker. Make sure it's tr
 
 One common trading strategy for beginners is called "buy and hold." This means you buy a stock or another asset and keep it for a long time, like months or years. You do this because you think the price will go up over time. It's a simple strategy that doesn't need you to watch the market all the time. It's good for beginners because it's less risky than trying to guess quick changes in the market.
 
-Another strategy beginners often use is "day trading." This means you buy and sell things within the same day. You try to make money from small changes in price. Day trading can be exciting, but it's also riskier because you need to watch the market closely and make quick decisions. It's important to learn a lot about the market and practice a lot before you start day trading with real money.
+Another strategy beginners often use is "[day trading](/wiki/day-trading-spy)." This means you buy and sell things within the same day. You try to make money from small changes in price. Day trading can be exciting, but it's also riskier because you need to watch the market closely and make quick decisions. It's important to learn a lot about the market and practice a lot before you start day trading with real money.
 
 A third strategy is "swing trading." This is somewhere in between buy and hold and day trading. You hold onto your trades for a few days or weeks, trying to catch bigger price moves than day trading but not holding as long as buy and hold. Swing trading can be a good middle ground for beginners who want to learn more about trading without jumping straight into day trading. It still requires some watching of the market but not as much as day trading.
 
@@ -44,13 +44,13 @@ To manage these risks, it's important to learn as much as you can about trading 
 
 ## How do technical analysis and fundamental analysis differ in trading?
 
-Technical analysis and fundamental analysis are two different ways to look at the market when you're trading. Technical analysis is all about looking at charts and numbers to guess where prices might go next. Traders who use technical analysis look at patterns and trends in the past to make predictions. They use tools like moving averages and support and resistance levels to help them decide when to buy or sell. It's like trying to find clues in the price movements that can tell you what might happen soon.
+Technical analysis and [fundamental analysis](/wiki/fundamental-analysis) are two different ways to look at the market when you're trading. Technical analysis is all about looking at charts and numbers to guess where prices might go next. Traders who use technical analysis look at patterns and trends in the past to make predictions. They use tools like moving averages and support and resistance levels to help them decide when to buy or sell. It's like trying to find clues in the price movements that can tell you what might happen soon.
 
 On the other hand, fundamental analysis is about looking at the actual value of a company or asset. Traders who use fundamental analysis study things like a company's earnings, how much it's growing, and what's happening in the economy. They want to know if a stock or another asset is a good buy based on how the company is doing. It's like trying to see if a company is healthy and if its stock price is fair compared to how well it's doing. Both types of analysis can help traders make better decisions, but they look at different things to do it.
 
 ## What are some advanced trading techniques used by experienced traders?
 
-Experienced traders often use advanced techniques like algorithmic trading, where they use computer programs to buy and sell things automatically. These programs follow rules set by the trader to find the best times to trade. This can help traders make decisions faster than they could on their own and take advantage of small price changes that happen quickly. It's a bit like having a robot helper that watches the market all the time and acts when it sees an opportunity.
+Experienced traders often use advanced techniques like [algorithmic trading](/wiki/algorithmic-trading), where they use computer programs to buy and sell things automatically. These programs follow rules set by the trader to find the best times to trade. This can help traders make decisions faster than they could on their own and take advantage of small price changes that happen quickly. It's a bit like having a robot helper that watches the market all the time and acts when it sees an opportunity.
 
 Another technique is called options trading, which involves buying and selling options contracts. An option gives you the right, but not the obligation, to buy or sell an asset at a certain price before a certain date. Experienced traders use options to bet on where they think the price will go, and they can use them to make money if the price goes up or down. Options trading can be complex, but it allows traders to manage risk in different ways and potentially make more money than just buying and selling stocks directly.
 

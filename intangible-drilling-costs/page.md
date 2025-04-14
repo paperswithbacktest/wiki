@@ -30,7 +30,7 @@ IDCs also make it easier for companies to manage their finances. Drilling for oi
 
 Intangible Drilling Costs (IDCs) are expenses that oil and gas companies have when they drill a well, but these costs are not for things you can touch. For example, the money spent on hiring workers to drill the well is an IDC. These workers might include drillers, geologists, and other experts who help with the drilling process. Another example of an IDC is the cost of preparing the drilling site. This can include clearing the land, building roads to the site, and setting up temporary offices or living quarters for the workers.
 
-Other examples of IDCs include the costs of drilling mud, which is a special liquid used to cool the drill bit and carry away rock cuttings, and the costs of fuel and power needed to run the drilling equipment. These costs are considered intangible because they don't result in a physical item that can be sold or reused. By being able to deduct these costs from their taxes right away, oil and gas companies can save money and invest in more drilling projects.
+Other examples of IDCs include the costs of drilling mud, which is a special liquid used to cool the drill bit and [carry](/wiki/carry-trading) away rock cuttings, and the costs of fuel and power needed to run the drilling equipment. These costs are considered intangible because they don't result in a physical item that can be sold or reused. By being able to deduct these costs from their taxes right away, oil and gas companies can save money and invest in more drilling projects.
 
 ## How are Intangible Drilling Costs accounted for in financial statements?
 

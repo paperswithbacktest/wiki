@@ -18,7 +18,7 @@ The role of a federal agency in the government is to carry out laws and policies
 
 Rulemaking is the process that federal agencies use to create rules and regulations. These rules help explain how the laws passed by Congress should be followed. When Congress makes a law, it can be very general. So, federal agencies make more specific rules to make sure everyone understands what they need to do. For example, if Congress passes a law about food safety, the Food and Drug Administration (FDA) might create rules about how food should be stored and labeled.
 
-Rulemaking is important for federal agencies because it helps them do their jobs better. By making clear rules, agencies can make sure that laws are followed in a fair and consistent way. This is important for keeping people safe and making sure businesses know what they need to do. Without rulemaking, it would be hard for agencies to carry out the laws that Congress passes, and it could lead to confusion and problems.
+Rulemaking is important for federal agencies because it helps them do their jobs better. By making clear rules, agencies can make sure that laws are followed in a fair and consistent way. This is important for keeping people safe and making sure businesses know what they need to do. Without rulemaking, it would be hard for agencies to [carry](/wiki/carry-trading) out the laws that Congress passes, and it could lead to confusion and problems.
 
 ## How does the rulemaking process begin within a federal agency?
 

@@ -144,7 +144,7 @@ A thorough grasp of these key financial terms benefits investors and traders by 
 
 ## How can equity financial terms be integrated with algo trading?
 
-Understanding equity financial terms is crucial for enhancing algorithmic trading strategies. These financial terms provide traders with a framework to assess a company's value, performance, and potential risk, thereby enabling more precise and informed algorithmic decisions.
+Understanding equity financial terms is crucial for enhancing [algorithmic trading](/wiki/algorithmic-trading) strategies. These financial terms provide traders with a framework to assess a company's value, performance, and potential risk, thereby enabling more precise and informed algorithmic decisions.
 
 **Equity Analysis in Developing Trading Algorithms**
 

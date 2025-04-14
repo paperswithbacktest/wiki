@@ -22,7 +22,7 @@ Next, you count how many ages you have, which is 3. Then, you divide the total s
 
 ## Why is the arithmetic mean important in statistics?
 
-The arithmetic mean is important in statistics because it gives us a single number that represents the whole set of data. It's like a summary of all the numbers we have. When we want to understand how a group of numbers behaves, the arithmetic mean helps us see the overall picture. For example, if we want to know the average temperature in a city for a month, the arithmetic mean of the daily temperatures will tell us what the typical temperature was.
+The arithmetic mean is important in [statistics](/wiki/bayesian-statistics) because it gives us a single number that represents the whole set of data. It's like a summary of all the numbers we have. When we want to understand how a group of numbers behaves, the arithmetic mean helps us see the overall picture. For example, if we want to know the average temperature in a city for a month, the arithmetic mean of the daily temperatures will tell us what the typical temperature was.
 
 Another reason the arithmetic mean is important is that it's used in many other statistical calculations. It's a building block for things like standard deviation, which tells us how spread out the numbers are. When we use the arithmetic mean, we can compare different sets of data easily. For instance, if we want to see if one class did better on a test than another, we can compare the average scores of both classes. This makes the arithmetic mean a very useful tool in understanding and working with data.
 

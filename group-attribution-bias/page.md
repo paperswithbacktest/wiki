@@ -21,7 +21,7 @@ To fix this problem, it's important to use data that includes all kinds of peopl
 
 ## What are some common examples of Group Attribution Bias in machine learning applications?
 
-One common example of Group Attribution Bias in machine learning is in the hiring process. If a model is trained mostly on data from male candidates, it might assume that men are better suited for certain jobs than women. This can lead to the model unfairly rejecting female candidates, even if they are qualified. For instance, if the training data shows that men with certain degrees are often hired, the model might overlook women with the same qualifications, thinking they won't fit the job as well.
+One common example of Group Attribution Bias in [machine learning](/wiki/machine-learning) is in the hiring process. If a model is trained mostly on data from male candidates, it might assume that men are better suited for certain jobs than women. This can lead to the model unfairly rejecting female candidates, even if they are qualified. For instance, if the training data shows that men with certain degrees are often hired, the model might overlook women with the same qualifications, thinking they won't fit the job as well.
 
 Another example is in credit scoring. If a model is trained on data where one ethnic group has a higher rate of loan repayment, it might assume that all members of that group are good at paying back loans. This can result in the model giving better loan terms to people from that group, while being stricter with others, even if their financial situations are similar. This kind of bias can make it harder for people from other groups to get loans, even if they are just as likely to repay them.
 

@@ -46,7 +46,7 @@ Because QIBs are big and experienced, they can handle the risks that come with p
 
 ## How do QIBs impact the liquidity and pricing of securities?
 
-QIBs can affect how easy it is to buy and sell securities, which is called liquidity. Because QIBs have a lot of money, they can buy big amounts of securities at once. This can make it easier for companies to sell their securities quickly because they know QIBs are ready to buy. But if QIBs decide to sell a lot of securities at the same time, it can make it harder for others to sell theirs, which means less liquidity.
+QIBs can affect how easy it is to buy and sell securities, which is called [liquidity](/wiki/liquidity-risk-premium). Because QIBs have a lot of money, they can buy big amounts of securities at once. This can make it easier for companies to sell their securities quickly because they know QIBs are ready to buy. But if QIBs decide to sell a lot of securities at the same time, it can make it harder for others to sell theirs, which means less liquidity.
 
 QIBs also affect the price of securities. When QIBs buy a lot of a certain security, the demand for that security goes up, which can make the price go up too. On the other hand, if QIBs start selling a lot of a security, the supply goes up and the price can go down. Because QIBs have so much money and can make big trades, they can have a big impact on the price of securities.
 

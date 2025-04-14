@@ -66,7 +66,7 @@ GILTI, on the other hand, is about the extra money that comes from things you ca
 
 Recent tax reforms have changed how GILTI is calculated, making it a bit more complicated but also giving companies some new ways to lower their tax bills. One big change is the introduction of the Corporate Alternative Minimum Tax (CAMT), which can affect how much GILTI tax a company has to pay. CAMT is a special tax that makes sure big companies pay at least a certain amount of tax, even if they use other tax breaks. This means companies need to think about both GILTI and CAMT when figuring out their taxes.
 
-Another important change is that the tax reforms have adjusted the rules for how companies can use foreign tax credits to reduce their GILTI tax. Now, there are new limits on how much of these credits companies can use, which can make their GILTI tax higher. But, there are also new ways to carry forward unused foreign tax credits to future years, which can help companies save on taxes later. These changes mean that companies need to be careful and plan their taxes well to make the most of the new rules.
+Another important change is that the tax reforms have adjusted the rules for how companies can use foreign tax credits to reduce their GILTI tax. Now, there are new limits on how much of these credits companies can use, which can make their GILTI tax higher. But, there are also new ways to [carry](/wiki/carry-trading) forward unused foreign tax credits to future years, which can help companies save on taxes later. These changes mean that companies need to be careful and plan their taxes well to make the most of the new rules.
 
 ## What advanced strategies can be used to minimize GILTI liability?
 

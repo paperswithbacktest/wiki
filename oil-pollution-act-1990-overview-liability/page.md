@@ -28,13 +28,13 @@ Another important goal is to make sure that if an oil spill does happen, it gets
 
 ## Who does the Oil Pollution Act of 1990 apply to?
 
-The Oil Pollution Act of 1990 applies to anyone who works with oil in the United States. This includes big oil companies, ships that carry oil, and places where oil is stored or moved around. The law makes sure that these people and companies follow rules to stop oil spills from happening.
+The Oil Pollution Act of 1990 applies to anyone who works with oil in the United States. This includes big oil companies, ships that [carry](/wiki/carry-trading) oil, and places where oil is stored or moved around. The law makes sure that these people and companies follow rules to stop oil spills from happening.
 
 The law also applies to anyone who might cause an oil spill, even if it's by accident. If an oil spill happens, the people or companies responsible have to clean it up and pay for any damage it causes. This helps keep our water and environment safe from oil pollution.
 
 ## What types of oil and oil-related substances are covered under the Act?
 
-The Oil Pollution Act of 1990 covers many types of oil and oil-related substances. This includes crude oil, which is the oil that comes straight from the ground, and refined oil products like gasoline, diesel, and jet fuel. These are the oils that people use every day in cars, planes, and other machines.
+The Oil Pollution Act of 1990 covers many types of oil and oil-related substances. This includes [crude oil](/wiki/crude-oil), which is the oil that comes straight from the ground, and refined oil products like gasoline, diesel, and jet fuel. These are the oils that people use every day in cars, planes, and other machines.
 
 The Act also covers other oil-related substances like oil sludge, oil refuse, and oil mixed with other things. These substances can be very harmful if they spill into the water. By including all these types of oil and oil-related substances, the law helps to protect our environment from the damage that oil spills can cause.
 

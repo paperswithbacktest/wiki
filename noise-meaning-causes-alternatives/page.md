@@ -84,7 +84,7 @@ Another way urban planning helps is by making rules about how loud things can be
 
 ## What is the impact of noise on algorithmic trading?
 
-High levels of noise in financial markets significantly impact algorithmic trading, primarily by obscuring true market signals. When algorithms process data that includes a substantial amount of noise, they may interpret random fluctuations as genuine signals, leading to suboptimal trading decisions. This misinterpretation can result in unnecessary trades that not only degrade overall trading performance but also incur higher transaction costs due to the increased volume of trades executed.
+High levels of noise in financial markets significantly impact [algorithmic trading](/wiki/algorithmic-trading), primarily by obscuring true market signals. When algorithms process data that includes a substantial amount of noise, they may interpret random fluctuations as genuine signals, leading to suboptimal trading decisions. This misinterpretation can result in unnecessary trades that not only degrade overall trading performance but also incur higher transaction costs due to the increased [volume](/wiki/volume-trading-strategy) of trades executed.
 
 An inherent challenge in algorithmic trading is the risk of overfitting. Overfitting occurs when trading models are excessively fine-tuned to historical data, capturing noise rather than true market signals. A model overfit to historical noise is unlikely to perform well on new data because it lacks the flexibility to accommodate actual market dynamics. This issue can be mathematically understood as a model having a high variance in prediction, and poorly generalizing to unseen data.
 

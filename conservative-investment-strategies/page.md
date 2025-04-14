@@ -84,7 +84,7 @@ However, there are also some potential drawbacks to sticking with conservative i
 
 ## What is Understanding Conservative Investing?
 
-Conservative investing is a financial strategy that prioritizes the preservation of capital while seeking modest growth. This approach is typically characterized by low-risk investments such as government bonds, blue-chip stocks, and cash equivalents. These asset classes are chosen for their stability, consistent returns, and lower volatility compared to higher-risk investments.
+Conservative investing is a financial strategy that prioritizes the preservation of capital while seeking modest growth. This approach is typically characterized by low-risk investments such as government bonds, blue-chip stocks, and cash equivalents. These asset classes are chosen for their stability, consistent returns, and lower [volatility](/wiki/volatility-trading-strategies) compared to higher-risk investments.
 
 Investors who prefer conservative investing often have a low risk tolerance. This category includes individuals nearing or in retirement who prioritize capital preservation over growth. They focus on ensuring their principal investment remains intact and aims to create a steady, reliable income stream through dividends or interest payments. This stability allows them to meet regular financial needs without being overly exposed to market fluctuations.
 

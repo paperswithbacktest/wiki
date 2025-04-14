@@ -42,7 +42,7 @@ Another option is to invest every time you get paid, whether that's weekly, bi-w
 
 Dollar-cost averaging works well with investments that you plan to hold for a long time, like stocks, mutual funds, and exchange-traded funds (ETFs). These types of investments can go up and down in value over time, but they tend to grow over many years. By investing a little bit regularly, you can buy more shares when the price is low and fewer when it's high. This can help lower your average cost per share and make your money grow over time.
 
-You can use dollar-cost averaging with any investment that you can buy regularly. Many people use it with index funds, which are a type of mutual fund or ETF that tracks a broad market index like the S&P 500. These funds are easy to invest in and can be a good way to build wealth over the long term. Dollar-cost averaging can also work well with target-date funds, which automatically adjust your investments as you get closer to a specific goal, like retirement.
+You can use dollar-cost averaging with any investment that you can buy regularly. Many people use it with index funds, which are a type of mutual fund or [ETF](/wiki/etf-trading-strategies) that tracks a broad market index like the S&P 500. These funds are easy to invest in and can be a good way to build wealth over the long term. Dollar-cost averaging can also work well with target-date funds, which automatically adjust your investments as you get closer to a specific goal, like retirement.
 
 ## How does dollar-cost averaging compare to lump-sum investing?
 
@@ -64,7 +64,7 @@ After you start, keep an eye on your investments to make sure they're doing what
 
 ## What impact does market volatility have on dollar-cost averaging?
 
-Market volatility, or when the prices of investments go up and down a lot, can actually make dollar-cost averaging work better. When you use dollar-cost averaging, you invest the same amount of money regularly, no matter what the market is doing. So, when the market goes down and prices are low, your regular investment buys more shares. When the market goes up and prices are high, you buy fewer shares. This means that over time, you end up buying shares at different prices, which can help lower your average cost per share.
+Market [volatility](/wiki/volatility-trading-strategies), or when the prices of investments go up and down a lot, can actually make dollar-cost averaging work better. When you use dollar-cost averaging, you invest the same amount of money regularly, no matter what the market is doing. So, when the market goes down and prices are low, your regular investment buys more shares. When the market goes up and prices are high, you buy fewer shares. This means that over time, you end up buying shares at different prices, which can help lower your average cost per share.
 
 Even though the market can be unpredictable, dollar-cost averaging helps you stay calm and keep investing. You don't have to worry about trying to guess the best time to invest because you're putting in money regularly. This can be really helpful during times when the market is going through big ups and downs. By sticking to your plan and investing the same amount every time, you can build wealth over the long term, even when the market is volatile.
 

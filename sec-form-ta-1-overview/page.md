@@ -18,7 +18,7 @@ Filling out the TA-1 form is important because it helps the SEC keep an eye on t
 
 Any company that wants to become a transfer agent needs to file SEC Form TA-1. A transfer agent is a business that keeps track of who owns stocks or bonds for another company. If a company decides it wants to start doing this job, it has to let the Securities and Exchange Commission (SEC) know by filling out the TA-1 form.
 
-The SEC is a government group that makes sure companies follow the rules when they sell stocks or bonds. By filing the TA-1 form, the company gives the SEC important details like its name, address, and information about the people who will be running the transfer agent business. This helps the SEC keep an eye on transfer agents and make sure they are doing their job right and protecting investors.
+The SEC is a government group that makes sure companies follow the rules when they sell stocks or bonds. By filing the TA-1 form, the company gives the SEC important details like its name, address, and information about the people who will be running the transfer agent business. This helps the SEC keep an eye on transfer [agents](/wiki/agents) and make sure they are doing their job right and protecting investors.
 
 ## What is the purpose of filing SEC Form TA-1?
 

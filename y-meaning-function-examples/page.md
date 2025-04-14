@@ -64,7 +64,7 @@ Other linguists look at how Y works in different languages. They say that in som
 
 ## Can you provide examples of Y in literature or media?
 
-In literature, Y is in many famous books. For example, in "The Catcher in the Rye" by J.D. Salinger, the main character, Holden Caulfield, says "yes" and "no" a lot. These words show how he feels about things. Another example is in "Harry Potter" by J.K. Rowling. In the book "Harry Potter and the Philosopher's Stone," there is a character named "Yvonne." She is a student at Hogwarts, and her name starts with Y. These examples show how Y can be part of important words and names in stories.
+In literature, Y is in many famous [books](/wiki/algo-trading-books). For example, in "The Catcher in the Rye" by J.D. Salinger, the main character, Holden Caulfield, says "yes" and "no" a lot. These words show how he feels about things. Another example is in "Harry Potter" by J.K. Rowling. In the book "Harry Potter and the Philosopher's Stone," there is a character named "Yvonne." She is a student at Hogwarts, and her name starts with Y. These examples show how Y can be part of important words and names in stories.
 
 In media, Y is in many movies and songs. For example, in the movie "The Lion King," there is a song called "Hakuna Matata." In the song, they sing about being happy, and the word "happy" has a Y in it. Another example is in the TV show "Sesame Street." They have a character named "Yip Yip" who is an alien. The name "Yip Yip" has two Ys in it, and it makes the character fun and easy to remember. These examples show how Y can be part of words and names that people see and hear in media.
 

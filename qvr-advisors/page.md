@@ -64,7 +64,7 @@ Their special way of using numbers and data is called quantitative value investi
 
 ## What are the performance metrics of QVR Advisors' funds?
 
-QVR Advisors' funds have done well over time. They use a special way of investing called quantitative value investing. This means they look at a lot of numbers and data to find good deals. Their main fund has beaten the market average in many years. This shows that their way of picking investments works well for their clients.
+QVR Advisors' funds have done well over time. They use a special way of investing called quantitative value investing. This means they look at a lot of numbers and data to find good deals. Their main fund has beaten the market average in many years. This shows that their way of [picking](/wiki/asset-class-picking) investments works well for their clients.
 
 The performance of their funds is measured by looking at how much money they make compared to the market. For example, if the market goes up by 10%, their fund might go up by 12%. This extra 2% is called "alpha," and it shows how well QVR Advisors is doing compared to just following the market. Their clients are happy because they see their money grow more than it would if they just put it in the market.
 
@@ -76,7 +76,7 @@ They also spread out their clients' money across many different investments. Thi
 
 ## What future trends or developments is QVR Advisors focusing on?
 
-QVR Advisors is always looking ahead to see what might happen next in the world of investing. They are interested in new technologies like artificial intelligence (AI) and machine learning. These tools can help them look at even more numbers and data faster than before. This could make their special way of picking investments, called quantitative value investing, even better. They think that using AI might help them find even better deals for their clients in the future.
+QVR Advisors is always looking ahead to see what might happen next in the world of investing. They are interested in new technologies like [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning). These tools can help them look at even more numbers and data faster than before. This could make their special way of picking investments, called quantitative value investing, even better. They think that using AI might help them find even better deals for their clients in the future.
 
 Another thing QVR Advisors is focusing on is how the world is changing because of things like climate change and new ways of working. They are looking at companies that are trying to solve big problems like making clean energy or helping people work from home. These trends could lead to new investment opportunities. By keeping an eye on these changes, QVR Advisors hopes to find new ways to help their clients make more money over time.
 

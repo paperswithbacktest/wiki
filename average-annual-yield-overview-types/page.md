@@ -28,7 +28,7 @@ Sometimes, investments give income more than once a year, like monthly or quarte
 
 ## What are the different types of average annual yield?
 
-There are a few different types of average annual yield that investors should know about. One common type is the nominal yield, which is the interest rate you see on a bond or savings account. It's the simple percentage of return without considering inflation or taxes. Another type is the real yield, which takes inflation into account. This tells you how much your money is really growing after adjusting for the rising cost of things. If inflation is high, the real yield might be lower than the nominal yield.
+There are a few different types of average annual yield that investors should know about. One common type is the nominal yield, which is the [interest rate](/wiki/interest-rate-trading-strategies) you see on a bond or savings account. It's the simple percentage of return without considering inflation or taxes. Another type is the real yield, which takes inflation into account. This tells you how much your money is really growing after adjusting for the rising cost of things. If inflation is high, the real yield might be lower than the nominal yield.
 
 Another important type is the effective yield, which looks at how often interest is paid and compounded. If interest is added to your investment more than once a year, the effective yield will be higher than the nominal yield because you earn interest on the interest. Lastly, there's the dividend yield, which is used for stocks. This is the annual dividend payment divided by the stock's price. It shows how much income you get from owning the stock, which can be important for people who want regular payments from their investments.
 
@@ -54,7 +54,7 @@ But it's not just about the numbers. The average annual yield also helps you und
 
 The average annual yield is a great way to compare different investment options because it tells you how much money each investment makes in a year. If you're looking at a savings account, a bond, and a stock, you can see which one gives you the highest yield. For example, if a savings account has a 1% yield, a bond has a 3% yield, and a stock has a 5% yield, you can easily see that the stock might give you more money each year. This helps you decide where to put your money to get the best return.
 
-But it's not just about picking the highest number. You also need to think about how safe each investment is. Sometimes, a high yield means the investment is riskier. For example, the stock with a 5% yield might go up and down a lot, while the bond with a 3% yield might be more stable. By looking at the average annual yield, you can weigh the potential rewards against the risks and make a smart choice that fits your goals and how much risk you're willing to take.
+But it's not just about [picking](/wiki/asset-class-picking) the highest number. You also need to think about how safe each investment is. Sometimes, a high yield means the investment is riskier. For example, the stock with a 5% yield might go up and down a lot, while the bond with a 3% yield might be more stable. By looking at the average annual yield, you can weigh the potential rewards against the risks and make a smart choice that fits your goals and how much risk you're willing to take.
 
 ## What are the limitations of using average annual yield as a performance metric?
 

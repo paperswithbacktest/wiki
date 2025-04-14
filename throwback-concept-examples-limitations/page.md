@@ -84,7 +84,7 @@ Another technique is to use sentiment analysis. This is when you use a computer 
 
 ## What are the differences between Throwback and Fibonacci Retracements?
 
-Throwbacks are a specific type of price retracement observed in trading, characterized by the price returning to a breakout level after breaching a resistance. This occurrence is particularly significant for traders using algorithmic strategies, as it highlights potential entry or exit points following the initial price breakout. While throwbacks focus on the return to the breakout point, Fibonacci retracements utilize predefined percentage levels derived from the Fibonacci sequence to anticipate areas of support or resistance within a trending market.
+Throwbacks are a specific type of price retracement observed in trading, characterized by the price returning to a [breakout](/wiki/breakout-trading) level after breaching a resistance. This occurrence is particularly significant for traders using algorithmic strategies, as it highlights potential entry or [exit](/wiki/exit-strategy) points following the initial price breakout. While throwbacks focus on the return to the breakout point, Fibonacci retracements utilize predefined percentage levels derived from the Fibonacci sequence to anticipate areas of support or resistance within a trending market.
 
 Fibonacci retracements are based on key Fibonacci ratios: 23.6%, 38.2%, 50%, 61.8%, and 100%. These levels are calculated by taking two extreme points on a stock chart, typically the high and low of a price movement, and dividing the vertical distance by the key Fibonacci ratios. Traders use these retracement levels to identify potential reversal levels in an ongoing trend.
 

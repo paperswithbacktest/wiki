@@ -42,7 +42,7 @@ Using the APZ on shorter time frames like hourly or minute charts can be trickie
 
 The Adaptive Price Zone (APZ) indicator helps traders find good times to buy or sell a stock by creating zones around the current price. If the price of the stock goes above the top zone, it might be a good time to buy. This is because the price might keep going up. On the other hand, if the price drops below the bottom zone, it might be a good time to sell. This is because the price might keep going down. The zones change size depending on how much the stock's price has been moving around lately, so they can adapt to different situations.
 
-Using the APZ to find entry and exit points works best on longer time frames like daily, weekly, or monthly charts. On these charts, the zones are more reliable because they have more data to work with. This helps traders see big trends and make better decisions. On shorter time frames like hourly or minute charts, the zones might change a lot and be less reliable. So, if you use the APZ on shorter time frames, you need to be careful and understand that the signals might not be as clear.
+Using the APZ to find entry and [exit](/wiki/exit-strategy) points works best on longer time frames like daily, weekly, or monthly charts. On these charts, the zones are more reliable because they have more data to work with. This helps traders see big trends and make better decisions. On shorter time frames like hourly or minute charts, the zones might change a lot and be less reliable. So, if you use the APZ on shorter time frames, you need to be careful and understand that the signals might not be as clear.
 
 ## Can the APZ indicator be used effectively in different market conditions?
 
@@ -156,7 +156,7 @@ In conjunction with APZ, trades can be more precisely timed by entering only whe
 
 Volume indicators are another valuable tool when combined with the APZ. They measure the intensity or [volume](/wiki/volume-trading-strategy) of trades and can offer further context about market activity. High volume can validate the strength of an APZ signal, as significant price movements on increased volume are generally more reliable. Popular volume indicators include the On-Balance Volume (OBV) and the Chaikin Money Flow (CMF). 
 
-For instance, consider an algorithmic trading system where the APZ and ADX signals are integrated alongside a volume indicator such as the OBV:
+For instance, consider an [algorithmic trading](/wiki/algorithmic-trading) system where the APZ and ADX signals are integrated alongside a volume indicator such as the OBV:
 
 ```python
 def trading_signal(apz, adx, obv):

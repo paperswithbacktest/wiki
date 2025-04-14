@@ -24,7 +24,7 @@ If a company is a PFIC, it can affect how U.S. taxpayers who own shares in it ha
 
 PFICs often include foreign mutual funds and exchange-traded funds (ETFs). These are popular among investors looking to diversify their portfolios with international investments. Many foreign mutual funds are considered PFICs because they earn most of their income from interest, dividends, or other passive sources. Similarly, foreign ETFs that invest in stocks, bonds, or other assets that generate passive income might also be classified as PFICs.
 
-Another common type of investment that can be a PFIC is a foreign hedge fund. Hedge funds often engage in activities like trading stocks, currencies, or commodities, which are considered passive income under the PFIC rules. If a significant portion of a hedge fund's income comes from these activities, it could be classified as a PFIC. This classification can have important tax implications for U.S. investors.
+Another common type of investment that can be a PFIC is a foreign [hedge fund](/wiki/hedge-fund-trading-strategies). Hedge funds often engage in activities like trading stocks, currencies, or commodities, which are considered passive income under the PFIC rules. If a significant portion of a hedge fund's income comes from these activities, it could be classified as a PFIC. This classification can have important tax implications for U.S. investors.
 
 Lastly, some foreign real estate investment trusts (REITs) and other real estate-related investments can be PFICs. These investments often earn income from rent, interest, or capital gains, which are passive under the PFIC definition. If a foreign REIT meets the income or asset test, it will be considered a PFIC, affecting how U.S. investors report and pay taxes on their earnings from these investments.
 
@@ -68,7 +68,7 @@ A third approach is to avoid PFICs altogether by investing in non-PFIC foreign i
 
 ## Can a PFIC status change over time, and if so, how?
 
-Yes, a PFIC status can change over time. This happens because the rules for being a PFIC look at the company's income and assets each year. If a company's income or assets change, it might not be a PFIC one year but could be a PFIC the next year. For example, if a company starts earning more money from passive sources like interest or dividends, it might become a PFIC. Or, if it sells off some of its passive investments and starts earning more from active business, it might stop being a PFIC.
+Yes, a PFIC status can change over time. This happens because the rules for being a PFIC look at the company's income and assets each year. If a company's income or assets change, it might not be a PFIC one year but could be a PFIC the next year. For example, if a company starts [earning](/wiki/earning-announcement) more money from passive sources like interest or dividends, it might become a PFIC. Or, if it sells off some of its passive investments and starts earning more from active business, it might stop being a PFIC.
 
 If a company's PFIC status changes, it can affect how you report and pay taxes on your investment. If a company was a PFIC in one year but not the next, you might still have to follow the PFIC rules for the years it was a PFIC. This means you need to keep track of the company's status each year and report it correctly on your tax return. It's a good idea to talk to a tax professional to make sure you're handling the changes in PFIC status correctly and following all the rules.
 

@@ -130,7 +130,7 @@ Understanding and applying these metrics enhances traders' abilities to refine t
 
 Explore the importance of financial metrics in trading through seminal works such as John Hull's "Options, Futures, and Other Derivatives," which offers comprehensive insights into derivatives markets, pricing mechanisms, and risk management techniques. This resource is essential for understanding the mathematical and financial foundations that underpin various trading strategies and their associated metrics. Another critical reference is William F. Sharpe's "The Sharpe Ratio," which is vital for comprehending risk-adjusted returns, a key component in evaluating the effectiveness of trading strategies.
 
-For algorithmic trading insights, a recommended starting point is "Starting with a gridding approach to algorithmic trading" by Wong. This publication details methods for developing algorithmic trading strategies using grid-based techniques, emphasizing the importance of structure and discipline in systematic trading.
+For [algorithmic trading](/wiki/algorithmic-trading) insights, a recommended starting point is "Starting with a gridding approach to algorithmic trading" by Wong. This publication details methods for developing algorithmic trading strategies using grid-based techniques, emphasizing the importance of structure and discipline in systematic trading.
 
 Additionally, Robert Pardo's "The Evaluation and Optimization of Trading Strategies" is a fundamental resource for those interested in the development, testing, and optimization of trading algorithms. This book guides readers through the meticulous process of validating trading strategies, ensuring they are robust and capable of adapting to market changes.
 

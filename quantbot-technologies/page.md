@@ -28,7 +28,7 @@ These founders came together in 2007 to create the company. They are based in th
 
 ## What are the main services offered by Quantbot Technologies?
 
-Quantbot Technologies helps people make money in the stock market by using computers and math. They create special programs that look at a lot of information quickly and decide when to buy or sell stocks. This kind of work is called quantitative trading, and it helps investors make better choices without having to do all the hard work themselves.
+Quantbot Technologies helps people make money in the stock market by using computers and math. They create special programs that look at a lot of information quickly and decide when to buy or sell stocks. This kind of work is called [quantitative trading](/wiki/quantitative-trading), and it helps investors make better choices without having to do all the hard work themselves.
 
 The company works with big investors to manage their money. They use their special programs to make smart decisions based on the newest information. This helps the investors get the best results possible in the stock market.
 
@@ -36,7 +36,7 @@ Quantbot Technologies keeps improving their programs to make sure they are alway
 
 ## How does Quantbot Technologies use artificial intelligence in its operations?
 
-Quantbot Technologies uses artificial intelligence to help people make money in the stock market. They create special computer programs that use AI to look at a lot of information very quickly. These programs can find patterns and make decisions about when to buy or sell stocks. This helps investors make better choices without having to do all the hard work themselves.
+Quantbot Technologies uses [artificial intelligence](/wiki/ai-artificial-intelligence) to help people make money in the stock market. They create special computer programs that use AI to look at a lot of information very quickly. These programs can find patterns and make decisions about when to buy or sell stocks. This helps investors make better choices without having to do all the hard work themselves.
 
 The AI programs at Quantbot Technologies keep learning and getting better over time. They use new information to improve their decisions and make sure they are always using the best and newest data. This helps the investors get the best results possible in the stock market. By using AI, Quantbot Technologies can manage money for big investors and help them make smart choices.
 
@@ -50,7 +50,7 @@ The company focuses on serving clients in the investment management part of the 
 
 Quantbot Technologies uses a lot of different computer tools and programs to help people make money in the stock market. They use special computer languages like Python and C++ to create their programs. These programs can look at a lot of information very quickly and find patterns that help decide when to buy or sell stocks. They also use big computers, called servers, to make sure their programs can work fast and handle a lot of information at the same time.
 
-The company also uses artificial intelligence (AI) and machine learning in their programs. AI helps the programs learn and get better over time by using new information. This means the programs can make smarter decisions about the stock market. Quantbot Technologies also uses databases to store all the information they need, and they use special tools to make sure their programs are always working correctly and giving the best results possible.
+The company also uses artificial intelligence (AI) and [machine learning](/wiki/machine-learning) in their programs. AI helps the programs learn and get better over time by using new information. This means the programs can make smarter decisions about the stock market. Quantbot Technologies also uses databases to store all the information they need, and they use special tools to make sure their programs are always working correctly and giving the best results possible.
 
 ## What are some notable achievements or milestones of Quantbot Technologies?
 

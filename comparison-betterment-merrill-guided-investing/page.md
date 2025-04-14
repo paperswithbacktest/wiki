@@ -70,7 +70,7 @@ Merrill Guided Investing also has tools to help you with your investments. They 
 
 ## What are the security measures and insurance protections offered by Betterment and Merrill Guided Investing?
 
-Betterment takes good care to keep your money safe. They use strong security to protect your account, like two-factor authentication, which means you need more than just a password to get in. They also keep your money in separate accounts from their own, so if something goes wrong with Betterment, your money is still safe. Plus, your investments are covered by SIPC insurance, which can protect up to $500,000 if the brokerage firm fails. This means your money has an extra layer of safety.
+Betterment takes good care to keep your money safe. They use strong security to protect your account, like two-[factor](/wiki/factor-investing) authentication, which means you need more than just a password to get in. They also keep your money in separate accounts from their own, so if something goes wrong with Betterment, your money is still safe. Plus, your investments are covered by SIPC insurance, which can protect up to $500,000 if the brokerage firm fails. This means your money has an extra layer of safety.
 
 Merrill Guided Investing, being part of a big bank, also has strong security to protect your account. They use things like two-factor authentication and encryption to keep your information safe. Like Betterment, they keep your money in separate accounts, which helps protect it if something goes wrong with the company. Your investments are also covered by SIPC insurance up to $500,000. And because Merrill Lynch is a big bank, your cash might also be covered by FDIC insurance up to $250,000, which adds even more protection for your money.
 

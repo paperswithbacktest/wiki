@@ -62,13 +62,13 @@ Even though PanAgora has had good results, they sometimes face challenges like e
 
 ## What is PanAgora's approach to environmental, social, and governance (ESG) investing?
 
-PanAgora takes environmental, social, and governance (ESG) factors seriously when helping people invest their money. They believe that looking at how companies treat the environment, their workers, and how they are run can help make better investment choices. PanAgora uses special math and computers to look at lots of information about these ESG factors. This helps them pick companies that are doing good things for the world and might be good investments.
+PanAgora takes environmental, social, and governance ([ESG](/wiki/esg-investing)) factors seriously when helping people invest their money. They believe that looking at how companies treat the environment, their workers, and how they are run can help make better investment choices. PanAgora uses special math and computers to look at lots of information about these ESG factors. This helps them pick companies that are doing good things for the world and might be good investments.
 
 They also work with clients who want their money to help make the world a better place. PanAgora can make special plans for these clients that focus on ESG goals. This means they can choose investments that match what their clients care about, like protecting the environment or supporting fair treatment of workers. By doing this, PanAgora tries to help their clients make money while also making a positive impact.
 
 ## How does PanAgora utilize artificial intelligence and machine learning in its investment processes?
 
-PanAgora uses artificial intelligence (AI) and machine learning (ML) to make smart choices about where to invest money. They use computers to look at lots of information, like how companies are doing, what's happening in the world, and what other people think about certain investments. By using AI and ML, they can find patterns and make predictions that help them pick the best stocks, bonds, and other investments. This can make their choices more reliable and help them find good investments that others might miss.
+PanAgora uses [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning) (ML) to make smart choices about where to invest money. They use computers to look at lots of information, like how companies are doing, what's happening in the world, and what other people think about certain investments. By using AI and ML, they can find patterns and make predictions that help them pick the best stocks, bonds, and other investments. This can make their choices more reliable and help them find good investments that others might miss.
 
 These technologies help PanAgora in many ways. For example, they can quickly analyze huge amounts of data to see how different things affect investments. This helps them understand risks better and make better decisions. PanAgora also uses AI and ML to keep learning and improving their methods. By doing this, they try to make more money for their clients and help them reach their financial goals.
 

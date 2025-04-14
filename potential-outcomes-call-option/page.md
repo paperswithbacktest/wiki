@@ -136,7 +136,7 @@ Algorithmic trading can significantly enhance the accuracy in predicting the per
 
 Several case studies highlight the successful implementation of algorithmic strategies in options trading. A notable example is the use of delta-neutral strategies that aim to hedge against price movements in the underlying asset, maintaining a balanced portfolio through algorithmic recalibrations. These strategies utilize mathematical models and historical data to adjust the delta, or sensitivity of an option's price to changes in the price of the underlying asset, thus minimizing risk and optimizing returns.
 
-To maximize profitability while managing risk through algorithmic trading in call options, traders should focus on a few key practices:
+To maximize profitability while managing risk through [algorithmic trading](/wiki/algorithmic-trading) in call options, traders should focus on a few key practices:
 
 1. **Diversification of Strategies**: Employ multiple algorithms to cater to different market conditions and trading goals.
 2. **Robust Backtesting**: Test algorithms extensively using historical data to evaluate performance and uncover potential pitfalls.

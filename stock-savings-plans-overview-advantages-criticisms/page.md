@@ -58,7 +58,7 @@ Another option is investing in bonds. Bonds are like loans you give to a company
 
 ## What are common criticisms of stock savings plans?
 
-Some people say that stock savings plans are too risky. They worry that the value of stocks can go up and down a lot, and if you need your money when the stocks are worth less, you could lose money. Also, picking the right stocks can be hard. If you don't know enough about the companies you're investing in, you might make bad choices. Even if you let a professional manage your money, they might not always pick the best stocks. This makes some people nervous about using stock savings plans to save for the future.
+Some people say that stock savings plans are too risky. They worry that the value of stocks can go up and down a lot, and if you need your money when the stocks are worth less, you could lose money. Also, [picking](/wiki/asset-class-picking) the right stocks can be hard. If you don't know enough about the companies you're investing in, you might make bad choices. Even if you let a professional manage your money, they might not always pick the best stocks. This makes some people nervous about using stock savings plans to save for the future.
 
 Another criticism is that stock savings plans can be confusing. There are many different types of plans, like direct stock purchase plans, dividend reinvestment plans, and employee stock purchase plans. Each one has its own rules and tax implications, which can be hard to understand. Some people also feel that the fees and costs of managing a stock savings plan can eat into their savings. This makes it important to do your research and maybe talk to a financial advisor to make sure you're making the best choices for your money.
 

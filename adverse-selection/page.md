@@ -58,7 +58,7 @@ Because more sick people buy the insurance, the company has to pay out a lot of 
 
 ## How does adverse selection impact the pricing of financial products?
 
-Adverse selection can make financial products more expensive. Imagine a bank that offers loans. People who know they might have trouble paying back the loan are more likely to take it. The bank can't tell who will pay back the loan and who won't, so they have to charge everyone a higher interest rate to cover the risk of people not paying back. This makes loans more expensive for everyone, even people who would have paid back the loan on time.
+Adverse selection can make financial products more expensive. Imagine a bank that offers loans. People who know they might have trouble paying back the loan are more likely to take it. The bank can't tell who will pay back the loan and who won't, so they have to charge everyone a higher [interest rate](/wiki/interest-rate-trading-strategies) to cover the risk of people not paying back. This makes loans more expensive for everyone, even people who would have paid back the loan on time.
 
 In the insurance market, adverse selection works the same way. People who know they are likely to need insurance, like health or life insurance, are more likely to buy it. The insurance company can't tell who is at high risk and who is at low risk, so they have to charge everyone more to cover the costs of the high-risk people. This makes insurance more expensive for everyone, even people who are at low risk. Over time, this can make it harder for people to get the financial products they need because they become too expensive.
 
@@ -82,7 +82,7 @@ Another finding from recent studies is that digital marketplaces are trying new 
 
 ## What are the factors contributing to adverse selection in algorithmic trading?
 
-Adverse selection in algorithmic trading is significantly influenced by several factors that can disrupt market dynamics and profitability. Among the most impactful is latency arbitrage. This occurs when market participants leverage time delays in data dissemination and trade execution, allowing faster traders to capitalize on minor informational advantages. A quintessential example is where a high-frequency trading (HFT) firm might detect a price movement on one exchange due to latency, enabling it to execute trades on a lagging exchange before prices adjust, capturing profits from the spread. The mathematical representation of this scenario might involve evaluating the price differences $\Delta P$ between exchanges and acting upon them faster than the market can correct:
+Adverse selection in [algorithmic trading](/wiki/algorithmic-trading) is significantly influenced by several factors that can disrupt market dynamics and profitability. Among the most impactful is latency [arbitrage](/wiki/arbitrage). This occurs when market participants leverage time delays in data dissemination and trade execution, allowing faster traders to capitalize on minor informational advantages. A quintessential example is where a high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) firm might detect a price movement on one exchange due to latency, enabling it to execute trades on a lagging exchange before prices adjust, capturing profits from the spread. The mathematical representation of this scenario might involve evaluating the price differences $\Delta P$ between exchanges and acting upon them faster than the market can correct:
 
 $$
 \text{Profit} = \Delta P \cdot \text{Volume}

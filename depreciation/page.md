@@ -44,7 +44,7 @@ Amortization, on the other hand, is used for things you can't touch, like patent
 
 Not all types of assets can be depreciated. Depreciation is mainly for things that a business uses to make money and that wear out over time, like machines, vehicles, or buildings. These are called tangible assets because you can touch them. If an asset is going to last more than one year and loses value as it gets older, then it can usually be depreciated.
 
-However, some things can't be depreciated. For example, land doesn't wear out or lose value over time, so you can't claim depreciation on it. Also, assets that are used for personal use instead of business use don't qualify for depreciation. And if an asset is already fully depreciated, meaning its value has been reduced to zero on the books, you can't claim any more depreciation on it.
+However, some things can't be depreciated. For example, land doesn't wear out or lose value over time, so you can't claim depreciation on it. Also, assets that are used for personal use instead of business use don't qualify for depreciation. And if an asset is already fully depreciated, meaning its value has been reduced to zero on the [books](/wiki/algo-trading-books), you can't claim any more depreciation on it.
 
 ## How do tax laws influence depreciation?
 

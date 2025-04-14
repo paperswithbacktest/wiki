@@ -28,7 +28,7 @@ Another principle of prudent investment is diversification. This means not putti
 
 ## How does risk management play a role in prudent investing?
 
-Risk management is a big part of prudent investing. It means thinking about what could go wrong and finding ways to avoid big losses. When you invest, you take risks, but prudent investors try to keep those risks under control. They do this by picking investments that match how much risk they can handle. For example, if you don't like big risks, you might choose safer investments like savings accounts or bonds. This way, you can protect your money and still see it grow over time.
+Risk management is a big part of prudent investing. It means thinking about what could go wrong and finding ways to avoid big losses. When you invest, you take risks, but prudent investors try to keep those risks under control. They do this by [picking](/wiki/asset-class-picking) investments that match how much risk they can handle. For example, if you don't like big risks, you might choose safer investments like savings accounts or bonds. This way, you can protect your money and still see it grow over time.
 
 Another way risk management helps in prudent investing is by spreading your money around. This is called diversification. Instead of putting all your money into one thing, you spread it out across different types of investments. If one investment does badly, the others might still do well, which helps keep your overall risk low. By managing risks carefully, prudent investors can build their wealth slowly and safely, without worrying too much about sudden changes in the market. This approach is important for reaching your financial goals without losing sleep over your money.
 
@@ -84,7 +84,7 @@ Another way macroeconomic analysis helps with prudent investing is by giving you
 
 ## What are prudent investment strategies and how can they be understood?
 
-A prudent investment strategy involves a disciplined approach to selecting and managing investments with the primary goal of maximizing returns while minimizing risks. One of the fundamental principles of prudent investment is diversification, which involves spreading investments across various asset classes to reduce exposure to any single asset's volatility. Asset classes typically include stocks, bonds, and commodities, each offering unique risk and return profiles, thus providing a balanced portfolio that can withstand market fluctuations.
+A prudent investment strategy involves a disciplined approach to selecting and managing investments with the primary goal of maximizing returns while minimizing risks. One of the fundamental principles of prudent investment is diversification, which involves spreading investments across various asset classes to reduce exposure to any single asset's [volatility](/wiki/volatility-trading-strategies). Asset classes typically include stocks, bonds, and commodities, each offering unique risk and return profiles, thus providing a balanced portfolio that can withstand market fluctuations.
 
 For example, the correlation between different asset classes can be utilized to achieve diversification. If we denote the expected returns of assets by $E(R_i)$, the overall portfolio return can be modeled as:
 

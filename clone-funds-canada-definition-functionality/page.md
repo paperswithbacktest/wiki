@@ -72,7 +72,7 @@ Regulatory requirements can also affect how clone funds work. For instance, they
 
 ## What are the best practices for selecting a clone fund in Canada?
 
-When picking a clone fund in Canada, it's a good idea to start by looking at how well the fund copies the performance of the foreign fund it's based on. You want to see how close the clone fund's returns are to the foreign fund's returns. A smaller difference, or tracking error, means the clone fund is doing a better job at copying the foreign fund. Also, check the fees. Clone funds can be more expensive than regular funds, so lower fees mean more money stays in your pocket. 
+When [picking](/wiki/asset-class-picking) a clone fund in Canada, it's a good idea to start by looking at how well the fund copies the performance of the foreign fund it's based on. You want to see how close the clone fund's returns are to the foreign fund's returns. A smaller difference, or tracking error, means the clone fund is doing a better job at copying the foreign fund. Also, check the fees. Clone funds can be more expensive than regular funds, so lower fees mean more money stays in your pocket. 
 
 Another thing to think about is the risk of the clone fund. Look at the standard deviation, which shows how much the fund's returns go up and down. If you like stable returns, a lower standard deviation might be better for you. Also, consider the fund's beta, which tells you how the fund moves with the market. A beta close to 1 means the fund moves a lot like the market. Finally, make sure the clone fund follows all the rules set by the government and financial regulators. This helps keep your investment safe and fair.
 

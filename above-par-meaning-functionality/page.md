@@ -46,7 +46,7 @@ Another misconception is that 'above par' only applies to sports or personal per
 
 ## How can 'above par' be measured or quantified in various fields?
 
-In golf, 'above par' is easy to measure. Each hole on a golf course has a 'par' number, which is how many strokes a good golfer should need to finish it. If a golfer takes more strokes than this number, they are 'above par' for that hole. For the whole game, you add up all the strokes and compare it to the total par for the course. If the total number of strokes is more than the total par, the golfer's score is above par, which means they did worse than expected.
+In golf, 'above par' is easy to measure. Each hole on a golf [course](/wiki/best-algorithmic-trading-courses) has a 'par' number, which is how many strokes a good golfer should need to finish it. If a golfer takes more strokes than this number, they are 'above par' for that hole. For the whole game, you add up all the strokes and compare it to the total par for the course. If the total number of strokes is more than the total par, the golfer's score is above par, which means they did worse than expected.
 
 In other fields, like school or work, 'above par' is not as clear-cut. It's more about comparing someone's performance to what is usually expected. For example, if a student gets a higher score on a test than most students, their performance might be called 'above par.' At work, if an employee does a better job than what is normally seen, their work might be described as 'above par.' It's all about being better than the average or expected level.
 
@@ -80,7 +80,7 @@ Sometimes, experts also look at trends over time to see if the results are getti
 
 In the future, the way people use and understand 'above par' might change a bit. As more people learn about how the phrase is used differently in golf compared to other places, they might start using it more carefully. They might make sure to explain what they mean when they say 'above par' to avoid confusion. Also, as technology and data become more important in all kinds of jobs, people might use 'above par' more often to talk about how well a computer or a program is working compared to what is expected.
 
-Another way 'above par' might change is in how it's used in new industries. For example, as more companies work on things like artificial intelligence or green energy, they might start using 'above par' to talk about how well their new technologies are doing. If a new kind of solar panel works better than what is normally expected, people might say it's 'above par.' So, while the basic idea of 'above par' might stay the same, the places where it's used could grow and change over time.
+Another way 'above par' might change is in how it's used in new industries. For example, as more companies work on things like [artificial intelligence](/wiki/ai-artificial-intelligence) or green energy, they might start using 'above par' to talk about how well their new technologies are doing. If a new kind of solar panel works better than what is normally expected, people might say it's 'above par.' So, while the basic idea of 'above par' might stay the same, the places where it's used could grow and change over time.
 
 ## What are the key metrics for evaluating algo trading strategies?
 
@@ -125,7 +125,7 @@ sharpe = sharpe_ratio(daily_returns, risk_free_rate)
 print("Sharpe Ratio:", sharpe)
 ```
 
-These metrics, utilized effectively, guide traders in developing robust algorithmic trading strategies and improving their performance in financial markets. They offer a quantitative foundation for decision-making in the fast-paced world of algo trading.
+These metrics, utilized effectively, guide traders in developing robust [algorithmic trading](/wiki/algorithmic-trading) strategies and improving their performance in financial markets. They offer a quantitative foundation for decision-making in the fast-paced world of algo trading.
 
 ## References & Further Reading
 

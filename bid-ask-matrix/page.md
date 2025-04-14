@@ -36,7 +36,7 @@ Traders look at the bid-ask matrix to see if there's a lot of demand for the ass
 
 ## Can you explain the role of liquidity in a bid-ask matrix?
 
-Liquidity is really important in a bid-ask matrix because it shows how easy it is to buy or sell an asset without the price changing a lot. In the matrix, you can see liquidity by looking at how many bids and asks there are at different prices. If there are lots of bids and asks close to each other, it means the asset is liquid, and you can buy or sell it quickly without moving the price much. But if there are only a few bids and asks, and they're far apart, the asset might not be very liquid, and it could be harder to trade without affecting the price.
+Liquidity is really important in a bid-ask matrix because it shows how easy it is to buy or sell an asset without the price changing a lot. In the matrix, you can see [liquidity](/wiki/liquidity-risk-premium) by looking at how many bids and asks there are at different prices. If there are lots of bids and asks close to each other, it means the asset is liquid, and you can buy or sell it quickly without moving the price much. But if there are only a few bids and asks, and they're far apart, the asset might not be very liquid, and it could be harder to trade without affecting the price.
 
 Traders use the bid-ask matrix to check the liquidity of an asset before they make a trade. If they see a lot of bids and asks, they know they can probably buy or sell a lot of the asset without making the price go up or down too much. This is good because it means they can get in and out of trades easily. On the other hand, if the matrix shows low liquidity, traders might be more careful because they know their trades could change the price a lot, which could be risky.
 
@@ -66,7 +66,7 @@ Another way to use a bid-ask matrix to find trends is by watching how the bids a
 
 ## What advanced strategies can traders employ using a bid-ask matrix?
 
-Traders can use a bid-ask matrix to do something called "order book imbalance trading." This means they look at the matrix to see if there are a lot more bids than asks, or a lot more asks than bids. If there are way more bids, it might mean the price will go up soon, so traders might buy the asset hoping to sell it later for more money. If there are way more asks, it might mean the price will go down, so traders might sell the asset or even short sell it, hoping to buy it back later for less money. By watching the balance between bids and asks, traders can try to guess what the market will do next and make trades based on that.
+Traders can use a bid-ask matrix to do something called "[order book](/wiki/order-book-trading-strategies) imbalance trading." This means they look at the matrix to see if there are a lot more bids than asks, or a lot more asks than bids. If there are way more bids, it might mean the price will go up soon, so traders might buy the asset hoping to sell it later for more money. If there are way more asks, it might mean the price will go down, so traders might sell the asset or even short sell it, hoping to buy it back later for less money. By watching the balance between bids and asks, traders can try to guess what the market will do next and make trades based on that.
 
 Another advanced strategy is called "layering." This is when traders put in a lot of fake orders at different prices to make the bid-ask matrix look different than it really is. They might put in a bunch of bids at high prices to make it look like there's a lot of demand, or a bunch of asks at low prices to make it look like there's a lot of supply. This can trick other traders into thinking the market is moving in a certain direction, and they might make trades based on that. The traders who put in the fake orders can then take them away and make trades that take advantage of the other traders' mistakes. This is a tricky strategy and it's not allowed in many places because it's a form of market manipulation.
 
@@ -107,7 +107,7 @@ $$
 \end{bmatrix}
 $$
 
-In this scenario, additional constraints must be applied to the bid-ask matrix to prevent arbitrage opportunities. This means ensuring that the product of exchange rates around any cycle in the matrix does not result in a profit. Mathematically, this can be expressed by verifying that:
+In this scenario, additional constraints must be applied to the bid-ask matrix to prevent [arbitrage](/wiki/arbitrage) opportunities. This means ensuring that the product of exchange rates around any cycle in the matrix does not result in a profit. Mathematically, this can be expressed by verifying that:
 
 $$
 u \cdot v \cdot w \geq 1

@@ -84,7 +84,7 @@ If you find a problem with Eigen, you should report it so it can be fixed. The b
 
 ## How are matrix computations used in trading algorithms?
 
-Matrices play a crucial role in financial modeling and simulations, providing a framework for handling complex numerical computations required in algorithmic trading. They facilitate the representation and manipulation of large datasets, enabling traders to extract insights and make informed decisions.
+Matrices play a crucial role in financial modeling and simulations, providing a framework for handling complex numerical computations required in [algorithmic trading](/wiki/algorithmic-trading). They facilitate the representation and manipulation of large datasets, enabling traders to extract insights and make informed decisions.
 
 In financial modeling, covariance matrices are essential for assessing the risk and [volatility](/wiki/volatility-trading-strategies) of asset returns. A covariance matrix captures the variance and covariance between different asset returns in a portfolio, allowing traders to analyze the correlation structure among assets. This analysis is paramount for constructing diversified portfolios and implementing risk management strategies. For example, the covariance matrix $\Sigma$ is used in Markowitz's portfolio optimization problem to determine the weights of assets that minimize the portfolio variance:
 

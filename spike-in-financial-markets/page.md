@@ -30,7 +30,7 @@ Sometimes, spikes can also be a chance for investors to make money. If an invest
 
 Sometimes, you can see signs that a big change in stock prices might be coming. One sign is when a lot of people start talking about a company or a stock on the news or social media. If everyone is suddenly interested in a stock, it might mean the price will go up or down a lot soon. Another sign is when there's big news about the economy, like if the government says interest rates are changing or if there's a new report about jobs. These kinds of news can make people want to buy or sell their stocks quickly, which can lead to a spike.
 
-Also, you can watch the trading volume, which is how many stocks are being bought and sold. If the trading volume starts to go up a lot, it might mean a spike is coming because more people are getting ready to trade. Sometimes, you can also see that the price of a stock is moving more than usual, even if it's not going up or down a lot yet. This can be a sign that the market is getting ready for a big change. By paying attention to these signs, investors can try to get ready for a spike, but it's never easy to predict exactly what will happen.
+Also, you can watch the trading [volume](/wiki/volume-trading-strategy), which is how many stocks are being bought and sold. If the trading volume starts to go up a lot, it might mean a spike is coming because more people are getting ready to trade. Sometimes, you can also see that the price of a stock is moving more than usual, even if it's not going up or down a lot yet. This can be a sign that the market is getting ready for a big change. By paying attention to these signs, investors can try to get ready for a spike, but it's never easy to predict exactly what will happen.
 
 ## How do different financial instruments react to market spikes?
 
@@ -82,7 +82,7 @@ Sometimes, if a spike is really bad, the regulators might change the rules to tr
 
 ## What advanced analytical tools can be used to predict and manage market spikes?
 
-One advanced tool that can help predict and manage market spikes is machine learning. This tool uses computers to look at a lot of data from the past and find patterns. By studying how the market has moved before, machine learning can guess when a big change might happen again. This can help traders get ready for a spike and decide what to do. But, it's not perfect because the market can be unpredictable, and even the best guesses can be wrong.
+One advanced tool that can help predict and manage market spikes is [machine learning](/wiki/machine-learning). This tool uses computers to look at a lot of data from the past and find patterns. By studying how the market has moved before, machine learning can guess when a big change might happen again. This can help traders get ready for a spike and decide what to do. But, it's not perfect because the market can be unpredictable, and even the best guesses can be wrong.
 
 Another tool is called technical analysis. This involves looking at charts and numbers to see how a stock's price has been moving. Traders use this to spot signs that a spike might be coming, like if the price is moving more than usual or if a lot more people are trading. By watching these signs, traders can try to buy or sell at the right time. But like machine learning, technical analysis can't predict everything, and it's important to use it carefully and not rely on it too much.
 

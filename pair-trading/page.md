@@ -76,11 +76,11 @@ Automating pairs trading can save a lot of time and help traders make decisions 
 
 ## What advanced techniques can be used to enhance pairs trading strategies?
 
-One advanced technique to enhance pairs trading is using machine learning algorithms. These algorithms can look at a lot of data and find patterns that might be hard for a person to see. They can help pick better pairs of stocks by looking at more than just the prices. For example, they can look at news, social media, and other information to see how it might affect the stocks. This can make the pairs trading strategy more accurate and help traders make better decisions.
+One advanced technique to enhance pairs trading is using [machine learning](/wiki/machine-learning) algorithms. These algorithms can look at a lot of data and find patterns that might be hard for a person to see. They can help pick better pairs of stocks by looking at more than just the prices. For example, they can look at news, social media, and other information to see how it might affect the stocks. This can make the pairs trading strategy more accurate and help traders make better decisions.
 
 Another technique is using more complex statistical models. Instead of just looking at the correlation and spread, traders can use models like cointegration. Cointegration is a way to see if two stocks move together over the long term, even if they don't always move together in the short term. This can help traders find pairs that are more likely to come back together, even if they move apart for a while. By using these advanced models, traders can make their pairs trading strategy stronger and more reliable.
 
-Lastly, traders can use risk management techniques like portfolio optimization. This means they can spread their money across many pairs trades instead of just one or two. By doing this, they can lower the risk of losing a lot of money if one trade goes bad. They can also use tools like value at risk (VaR) to see how much they might lose in a bad situation. These techniques can help traders manage their risk better and make their pairs trading strategy more successful.
+Lastly, traders can use risk management techniques like portfolio optimization. This means they can spread their money across many pairs trades instead of just one or two. By doing this, they can lower the risk of losing a lot of money if one trade goes bad. They can also use tools like [value at risk](/wiki/var-value-at-risk) (VaR) to see how much they might lose in a bad situation. These techniques can help traders manage their risk better and make their pairs trading strategy more successful.
 
 ## References & Further Reading
 

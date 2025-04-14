@@ -46,7 +46,7 @@ Without consensus, someone could add fake transactions or change the information
 
 ## What are the different types of consensus mechanisms used in blockchain?
 
-There are several ways that blockchains can reach consensus, and each way has its own special features. One common method is called Proof of Work (PoW). In PoW, computers in the network, called miners, compete to solve a hard math problem. The first one to solve it gets to add a new block to the blockchain and is rewarded with some cryptocurrency. This method is used by Bitcoin and is very secure, but it uses a lot of energy.
+There are several ways that blockchains can reach consensus, and each way has its own special features. One common method is called Proof of Work (PoW). In PoW, computers in the network, called miners, compete to solve a hard math problem. The first one to solve it gets to add a new block to the blockchain and is rewarded with some [cryptocurrency](/wiki/cryptocurrency). This method is used by Bitcoin and is very secure, but it uses a lot of energy.
 
 Another method is Proof of Stake (PoS). Instead of using energy to solve problems, PoS picks the next person to add a block based on how much cryptocurrency they have and are willing to "stake" or lock up as a promise to behave honestly. This method is more energy-efficient and is used by blockchains like Ethereum after its upgrade. There are other methods too, like Delegated Proof of Stake (DPoS) where people vote for a few to make decisions, and Practical Byzantine Fault Tolerance (PBFT) which is used in some private blockchains where a smaller group of nodes agree on changes quickly.
 

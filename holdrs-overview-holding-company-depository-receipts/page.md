@@ -40,7 +40,7 @@ Another benefit of HOLDRs is that you can see exactly which companies you own an
 
 ## What are the potential risks associated with HOLDRs?
 
-One big risk with HOLDRs is that they don't change much. Once the basket of companies is set, it stays the same unless something big happens, like a company goes bankrupt or gets bought out. This means if one of the companies in the basket does badly, it can drag down the whole HOLDR, and there's nothing you can do about it. If you had an ETF or a mutual fund, the managers could change the stocks to try and do better, but with HOLDRs, you're stuck with what you've got.
+One big risk with HOLDRs is that they don't change much. Once the basket of companies is set, it stays the same unless something big happens, like a company goes bankrupt or gets bought out. This means if one of the companies in the basket does badly, it can drag down the whole HOLDR, and there's nothing you can do about it. If you had an [ETF](/wiki/etf-trading-strategies) or a mutual fund, the managers could change the stocks to try and do better, but with HOLDRs, you're stuck with what you've got.
 
 Another risk is that HOLDRs focus on just one industry. If you put all your money into a HOLDR that's all about tech stocks, and then the tech industry has a bad year, your investment could lose a lot of value. It's like putting all your eggs in one basket. This can be riskier than spreading your money across different industries, which is what you can do with ETFs and mutual funds. 
 
@@ -84,7 +84,7 @@ Another strategy is using HOLDRs for targeted exposure. If you want to invest mo
 
 ## How can algo trading be integrated with HOLDRs in a hypothetical scenario?
 
-Despite the discontinuation of HOLDRs, considering their potential integration with algorithmic trading provides valuable lessons for modern finance. Algorithmic trading relies on computer algorithms to execute trades by leveraging efficient data analysis, speed, and precision. Implementing algorithmic trading within the constraints of HOLDRs could have enhanced trading efficiency and improved investment returns. 
+Despite the discontinuation of HOLDRs, considering their potential integration with [algorithmic trading](/wiki/algorithmic-trading) provides valuable lessons for modern finance. Algorithmic trading relies on computer algorithms to execute trades by leveraging efficient data analysis, speed, and precision. Implementing algorithmic trading within the constraints of HOLDRs could have enhanced trading efficiency and improved investment returns. 
 
 Algorithms bring the capability to automate the analysis of the stocks underlying HOLDRs. For instance, they can process large volumes of financial data to identify optimal buy/sell signals. In the absence of human bias, algorithmic strategies could discern patterns and correlations within individual sectors represented by HOLDRs. This automation leads to refined trading strategies based on quantifiable insights, facilitating timely decision-making.
 

@@ -66,7 +66,7 @@ You can also change how your graphs look. O-Matrix lets you add titles, labels, 
 
 ## What are the advanced features of O-Matrix for scientific and engineering computations?
 
-O-Matrix has many advanced features that make it great for scientific and engineering work. One of the main features is its ability to handle big calculations very quickly. This is really helpful for scientists and engineers who need to solve complex problems. O-Matrix can work with large sets of data and do many calculations at the same time. It also has built-in functions for things like solving equations, doing statistics, and working with signals. These functions save time because you don't have to write everything from scratch.
+O-Matrix has many advanced features that make it great for scientific and engineering work. One of the main features is its ability to handle big calculations very quickly. This is really helpful for scientists and engineers who need to solve complex problems. O-Matrix can work with large sets of data and do many calculations at the same time. It also has built-in functions for things like solving equations, doing [statistics](/wiki/bayesian-statistics), and working with signals. These functions save time because you don't have to write everything from scratch.
 
 Another advanced feature of O-Matrix is its support for matrix operations. Matrices are important in science and engineering, and O-Matrix makes it easy to work with them. You can do things like matrix multiplication, finding the inverse of a matrix, and solving systems of linear equations. O-Matrix also lets you create and manipulate matrices in different ways, which is useful for tasks like image processing or designing control systems. These advanced features make O-Matrix a powerful tool for anyone doing scientific or engineering work.
 
@@ -80,7 +80,7 @@ Another way O-Matrix integrates with other software is through its ability to re
 
 The latest updates for O-Matrix include improvements to its speed and new functions for data analysis. The developers have worked on making the program run faster, which is really helpful for people who need to solve big problems quickly. They've also added new tools for analyzing data, like better ways to handle big sets of numbers and new ways to make graphs. These updates make O-Matrix even more useful for scientists and engineers who rely on it every day.
 
-For future developments, the team at Harmonic Software is planning to add more features that help with machine learning and artificial intelligence. They want to make it easier for users to build models and predict outcomes using O-Matrix. They are also thinking about improving how O-Matrix works with other software, making it even easier to share data and use different tools together. These plans show that O-Matrix will keep getting better and more helpful for people doing math and science work.
+For future developments, the team at Harmonic Software is planning to add more features that help with [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence). They want to make it easier for users to build models and predict outcomes using O-Matrix. They are also thinking about improving how O-Matrix works with other software, making it even easier to share data and use different tools together. These plans show that O-Matrix will keep getting better and more helpful for people doing math and science work.
 
 ## What is O-Matrix and how can it be understood?
 

@@ -30,7 +30,7 @@ After the Soviet Union broke up in 1991, Russia kept using the ruble but made so
 
 The Russian Ruble comes in different denominations, both in coins and banknotes. The coins are available in 1, 5, 10, and 50 kopecks, and 1, 2, 5, and 10 rubles. Kopecks are like cents in the US dollar; 100 kopecks make up 1 ruble. The banknotes come in 50, 100, 200, 500, 1000, and 5000 rubles. Each type of coin and banknote has different pictures and designs, often showing famous Russian places or people.
 
-These different denominations help people use the right amount of money for what they need to buy. For example, if something costs 25 rubles, you could use a 10-ruble coin and a 100-ruble banknote, and get change back. The variety of denominations makes it easy for people to carry the right amount of money and not have to use too many coins or banknotes for their purchases.
+These different denominations help people use the right amount of money for what they need to buy. For example, if something costs 25 rubles, you could use a 10-ruble coin and a 100-ruble banknote, and get change back. The variety of denominations makes it easy for people to [carry](/wiki/carry-trading) the right amount of money and not have to use too many coins or banknotes for their purchases.
 
 ## How does the exchange rate of the Russian Ruble work?
 
@@ -40,7 +40,7 @@ The Central Bank of Russia helps to keep the exchange rate stable. They do this 
 
 ## What factors influence the value of the Russian Ruble?
 
-The value of the Russian Ruble is influenced by many things. One big factor is how well Russia's economy is doing. If Russia is making a lot of money from selling things like oil and gas, the ruble might get stronger. But if the economy is not doing well, the ruble might get weaker. Another factor is what's happening in the world. If there are problems or conflicts, it can make people less sure about the ruble, and its value might go down. Also, how much people want to buy or sell rubles can change its value. If more people want to buy rubles, the value goes up. If more people want to sell rubles, the value goes down.
+The value of the Russian Ruble is influenced by many things. One big [factor](/wiki/factor-investing) is how well Russia's economy is doing. If Russia is making a lot of money from selling things like oil and gas, the ruble might get stronger. But if the economy is not doing well, the ruble might get weaker. Another factor is what's happening in the world. If there are problems or conflicts, it can make people less sure about the ruble, and its value might go down. Also, how much people want to buy or sell rubles can change its value. If more people want to buy rubles, the value goes up. If more people want to sell rubles, the value goes down.
 
 The Central Bank of Russia also plays a big role in the value of the ruble. They can buy or sell rubles to try to keep the value stable. For example, if the ruble is getting too weak, the Central Bank might use its foreign money to buy rubles, which can help make the ruble stronger. On the other hand, if the ruble is getting too strong, they might sell rubles to keep the value from going up too much. The actions of the Central Bank are important because they help to keep the ruble's value from changing too quickly, which is good for people and businesses in Russia.
 

@@ -86,7 +86,7 @@ Understanding these differences is important if you invest in different countrie
 
 ## What is a Case Study and Practical Example?
 
-To illustrate the application of capital gains tax in algorithmic trading, consider a scenario involving an investor, Alex, who employs an algorithmic trading strategy. This strategy primarily focuses on U.S. equities, but also branches into other asset types such as options and cryptocurrencies. The objective is to maximize returns while effectively managing tax liabilities.
+To illustrate the application of capital gains tax in [algorithmic trading](/wiki/algorithmic-trading), consider a scenario involving an investor, Alex, who employs an algorithmic trading strategy. This strategy primarily focuses on U.S. equities, but also branches into other asset types such as options and cryptocurrencies. The objective is to maximize returns while effectively managing tax liabilities.
 
 ### Scenario Overview
 

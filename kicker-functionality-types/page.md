@@ -48,7 +48,7 @@ Next, attach the kicker to the furniture. If you're using wood or plywood, you c
 
 ## What are the considerations for choosing the right kicker for a specific piece of furniture?
 
-When picking a kicker for your furniture, think about what the furniture is made of and where it will go. If the furniture is made of wood, a wooden kicker that matches the color and style would look best. If it's going in a kitchen or bathroom, a plastic kicker might be better because it won't get ruined by water. Also, think about how heavy the furniture is. If it's really heavy, a strong material like metal might be needed to keep it stable.
+When [picking](/wiki/asset-class-picking) a kicker for your furniture, think about what the furniture is made of and where it will go. If the furniture is made of wood, a wooden kicker that matches the color and style would look best. If it's going in a kitchen or bathroom, a plastic kicker might be better because it won't get ruined by water. Also, think about how heavy the furniture is. If it's really heavy, a strong material like metal might be needed to keep it stable.
 
 Another thing to consider is the look you want. If you want the kicker to blend in, choose one that matches the furniture. If you want it to stand out, you could pick a different color or material. Also, think about if the floor is uneven. If it is, an adjustable kicker might be the best choice because it can be moved to make the furniture sit level. By thinking about these things, you can pick the right kicker to make your furniture stable and look good.
 
@@ -84,7 +84,7 @@ They also think about how easy it is to put the kicker on the furniture. They wa
 
 ## What are Strategies Using Kicker Patterns?
 
-Combining kicker patterns with other technical indicators is a strategic way to enhance the reliability of trading decisions. By integrating these patterns with complementary tools, traders can improve the accuracy and effectiveness of their market analysis. One popular approach involves the use of Moving Averages, Relative Strength Index (RSI), and volume indicators alongside kicker patterns. 
+Combining kicker patterns with other technical indicators is a strategic way to enhance the reliability of trading decisions. By integrating these patterns with complementary tools, traders can improve the accuracy and effectiveness of their market analysis. One popular approach involves the use of Moving Averages, Relative Strength Index (RSI), and [volume](/wiki/volume-trading-strategy) indicators alongside kicker patterns. 
 
 Moving Averages (MA) facilitate the identification of trends by smoothing out price data, thus helping traders to confirm the direction of the market movement suggested by a kicker pattern. For example, if a bullish kicker pattern is observed, and the price is also above the 20-day moving average, it reinforces the signal to go long. The formula for a simple moving average (SMA) is:
 

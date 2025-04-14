@@ -62,7 +62,7 @@ Another limitation is that CAGR assumes the growth rate stays the same every yea
 
 The frequency of compounding can change how much your money grows over time, but it doesn't change the CAGR calculation itself. CAGR always looks at the total growth from start to finish and then figures out the average yearly growth rate. So, whether your investment compounds yearly, monthly, or even daily, the CAGR stays the same because it's based on the starting and ending values, not on how often the growth happens in between.
 
-However, understanding how often compounding happens can help you see why an investment might grow to a certain amount. If an investment compounds more often, like monthly instead of yearly, it can lead to a bigger ending value because you're earning interest on interest more times each year. Even though the CAGR won't change based on this, knowing about compounding frequency can help you better understand and predict how your investments will grow over time.
+However, understanding how often compounding happens can help you see why an investment might grow to a certain amount. If an investment compounds more often, like monthly instead of yearly, it can lead to a bigger ending value because you're [earning](/wiki/earning-announcement) interest on interest more times each year. Even though the CAGR won't change based on this, knowing about compounding frequency can help you better understand and predict how your investments will grow over time.
 
 ## Can CAGR be applied to negative growth rates?
 

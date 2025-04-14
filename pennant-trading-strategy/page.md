@@ -30,7 +30,7 @@ The pennant forms because after the big move, some traders want to take their pr
 
 A bullish Pennant is a pattern you see on a chart that tells you the price might go up soon. It starts with a big move up in the price, which we call the flagpole. This big move is like a rocket taking off. After the flagpole, the price starts to move up and down but stays within two lines that are getting closer together. This makes a small triangle shape, which is the pennant. The pennant shows that the market is taking a little break after the big move up.
 
-When you see a bullish Pennant, you want to watch for the price to break out of the top of the pennant. If it does, it's a sign that the price might keep going up. The breakout is like the rocket continuing its journey after a short pause. To guess how far the price might go up, you can measure the length of the flagpole and add that to the point where the price breaks out of the pennant. But remember, it's not always perfect, so it's good to be careful and use other tools to help you decide.
+When you see a bullish Pennant, you want to watch for the price to break out of the top of the pennant. If it does, it's a sign that the price might keep going up. The [breakout](/wiki/breakout-trading) is like the rocket continuing its journey after a short pause. To guess how far the price might go up, you can measure the length of the flagpole and add that to the point where the price breaks out of the pennant. But remember, it's not always perfect, so it's good to be careful and use other tools to help you decide.
 
 ## How can you identify a bearish Pennant?
 
@@ -42,7 +42,7 @@ When you see a bearish Pennant, you want to watch for the price to break out of 
 
 When trading a Pennant, the entry point is when the price breaks out of the pennant. If it's a bullish Pennant, you enter the trade by buying when the price moves above the top of the pennant. If it's a bearish Pennant, you enter by selling or short selling when the price moves below the bottom of the pennant. The breakout is your signal that the price might keep moving in the same direction as the flagpole. It's a good idea to wait for the price to close outside the pennant to make sure it's a real breakout and not just a quick move.
 
-The exit point is when you think the price has gone as far as it will go, or if it starts to move against you. To guess how far the price might go, you can measure the length of the flagpole and add or subtract that from the breakout point, depending on if it's a bullish or bearish Pennant. But, it's smart to set a stop-loss order to limit your losses if the price doesn't go the way you expected. A stop-loss can be placed just inside the pennant, so if the price goes back into the pennant, you know it's time to get out. Always be ready to change your plan if the market does something unexpected.
+The [exit](/wiki/exit-strategy) point is when you think the price has gone as far as it will go, or if it starts to move against you. To guess how far the price might go, you can measure the length of the flagpole and add or subtract that from the breakout point, depending on if it's a bullish or bearish Pennant. But, it's smart to set a stop-loss order to limit your losses if the price doesn't go the way you expected. A stop-loss can be placed just inside the pennant, so if the price goes back into the pennant, you know it's time to get out. Always be ready to change your plan if the market does something unexpected.
 
 ## What are the common mistakes to avoid when trading Pennants?
 
@@ -52,7 +52,7 @@ Another mistake is not measuring the flagpole correctly. The flagpole's length h
 
 ## How does volume play a role in confirming a Pennant breakout?
 
-Volume is really important when you're trying to figure out if a Pennant breakout is real. When the price breaks out of the pennant, you want to see more people trading than usual. If the volume goes up a lot during the breakout, it's a good sign that the move is strong and more people believe in it. This helps you feel more sure that the price will keep going in the direction of the breakout.
+Volume is really important when you're trying to figure out if a Pennant breakout is real. When the price breaks out of the pennant, you want to see more people trading than usual. If the [volume](/wiki/volume-trading-strategy) goes up a lot during the breakout, it's a good sign that the move is strong and more people believe in it. This helps you feel more sure that the price will keep going in the direction of the breakout.
 
 On the other hand, if the volume doesn't go up much when the price breaks out, you might want to be careful. A breakout without much volume could be a fake signal, and the price might not go as far as you hope. So, always check the volume when you see a Pennant breakout. It can help you decide if it's a good time to trade or if you should wait for a better chance.
 

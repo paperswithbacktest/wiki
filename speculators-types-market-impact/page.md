@@ -48,7 +48,7 @@ The actions of speculators can also help set prices more accurately. Because the
 
 ## How do speculators influence price volatility?
 
-Speculators can make prices in the market go up and down a lot. This is called price volatility. When many speculators think that the price of something, like a stock or a currency, will go up, they start buying it. This can make the price go up fast because there are so many people trying to buy. But if they all suddenly think the price will go down, they might start selling, which can make the price drop quickly. So, speculators can make the market more exciting but also more unpredictable.
+Speculators can make prices in the market go up and down a lot. This is called price [volatility](/wiki/volatility-trading-strategies). When many speculators think that the price of something, like a stock or a currency, will go up, they start buying it. This can make the price go up fast because there are so many people trying to buy. But if they all suddenly think the price will go down, they might start selling, which can make the price drop quickly. So, speculators can make the market more exciting but also more unpredictable.
 
 However, not all speculation leads to more volatility. Some speculators, like position traders, hold onto their investments for longer times. They might help make the market more stable by smoothing out the big ups and downs. When they buy or sell based on longer-term trends, it can help balance out the quick changes caused by day traders. So, while speculators can make the market more volatile, they can also help keep it steady in some ways.
 
@@ -78,7 +78,7 @@ Another example is the 2008 financial crisis. Speculators were betting a lot on 
 
 ## What advanced strategies do expert speculators use to gain an edge in the market?
 
-Expert speculators use some smart tricks to do well in the market. One of their big tricks is called algorithmic trading. This is when they use computers and special math formulas to buy and sell things really fast. The computers can look at a lot of information and make decisions in just a few seconds. This helps speculators take advantage of small price changes that happen very quickly. They might also use something called high-frequency trading, where they make a lot of trades in a short time to make a little bit of money from each one.
+Expert speculators use some smart tricks to do well in the market. One of their big tricks is called [algorithmic trading](/wiki/algorithmic-trading). This is when they use computers and special math formulas to buy and sell things really fast. The computers can look at a lot of information and make decisions in just a few seconds. This helps speculators take advantage of small price changes that happen very quickly. They might also use something called high-frequency trading, where they make a lot of trades in a short time to make a little bit of money from each one.
 
 Another trick that expert speculators use is called hedging. This is like a safety net for them. They might buy or sell something that will protect them if the market goes the wrong way. For example, if they think the price of a stock will go down, they might buy something that will make them money if the stock price does go down. This helps them not lose as much money if things don't go as planned. They also pay close attention to news and economic reports, using this information to guess where prices might go next. By mixing these strategies, expert speculators try to make the best decisions and stay ahead in the market.
 

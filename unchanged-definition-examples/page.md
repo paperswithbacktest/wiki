@@ -96,7 +96,7 @@ $$
 
 This zero return result signifies the absence of profit or loss potential for traders holding these positions on such days.
 
-Unchanged prices can also be identified using algorithms designed for high-frequency or algorithmic trading. Consider a Python snippet that identifies unchanged closing prices in a dataset of security prices:
+Unchanged prices can also be identified using algorithms designed for high-frequency or [algorithmic trading](/wiki/algorithmic-trading). Consider a Python snippet that identifies unchanged closing prices in a dataset of security prices:
 
 ```python
 import pandas as pd

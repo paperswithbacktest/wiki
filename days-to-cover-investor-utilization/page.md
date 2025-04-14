@@ -70,7 +70,7 @@ Regulators keep an eye on things like Days to Cover to make sure no one is cheat
 
 ## What advanced metrics or tools can be combined with Days to Cover for deeper analysis?
 
-To get a better understanding of a stock's situation, investors can use Days to Cover along with other advanced metrics like the Short Interest Ratio and the Cost to Borrow. The Short Interest Ratio is similar to Days to Cover but uses a different way to figure out how many days it would take for short sellers to buy back their shares. It's calculated by dividing the number of shares sold short by the average daily volume of the stock. The Cost to Borrow shows how much it costs to borrow shares for short selling. If this cost is high, it might mean that a lot of people want to bet against the stock, which can make the Days to Cover number go up.
+To get a better understanding of a stock's situation, investors can use Days to Cover along with other advanced metrics like the Short Interest Ratio and the Cost to Borrow. The Short Interest Ratio is similar to Days to Cover but uses a different way to figure out how many days it would take for short sellers to buy back their shares. It's calculated by dividing the number of shares sold short by the average daily [volume](/wiki/volume-trading-strategy) of the stock. The Cost to Borrow shows how much it costs to borrow shares for short selling. If this cost is high, it might mean that a lot of people want to bet against the stock, which can make the Days to Cover number go up.
 
 Another helpful tool is the Put/Call Ratio, which shows how many people are betting that a stock's price will go down (puts) compared to how many people are betting it will go up (calls). A high Put/Call Ratio can mean more people are worried about the stock's price going down, which can go along with a high Days to Cover. Also, looking at the stock's volatility, which shows how much the stock's price moves up and down, can give more information. If a stock has high volatility and a high Days to Cover, it might be more likely to have a big price change, like a short squeeze. By using these tools together, investors can get a fuller picture of what's happening with a stock and make smarter choices.
 
@@ -84,7 +84,7 @@ Another example is the Volkswagen short squeeze in 2008. At that time, Volkswage
 
 Short interest is a critical financial metric that indicates the total number of shares of a particular stock that have been sold short but not yet repurchased or covered. This metric provides valuable insights into market sentiment and can signal the potential for a short squeeze. A short squeeze occurs when a heavily shorted stock's price begins to rise, compelling short sellers to buy their way out of positions and further driving up the stock price.
 
-To better understand how quickly short sellers can exit their positions, the "days to cover" metric is employed. This metric estimates the number of days it would take for all short positions to be covered, based on the average daily trading volume. Mathematically, it is calculated as:
+To better understand how quickly short sellers can [exit](/wiki/exit-strategy) their positions, the "days to cover" metric is employed. This metric estimates the number of days it would take for all short positions to be covered, based on the average daily trading volume. Mathematically, it is calculated as:
 
 $$
 \text{Days to Cover} = \frac{\text{Short Interest}}{\text{Average Daily Trading Volume}}

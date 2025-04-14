@@ -18,7 +18,7 @@ These expenses can be found on a company's income statement, which is a financia
 
 Interest expenses are calculated based on the amount of money you borrow and the interest rate you have to pay. The interest rate is usually given as a percentage, like 5% or 10%. To find out how much interest you owe, you multiply the amount you borrowed by the interest rate. For example, if you borrow $1,000 at a 5% interest rate, you multiply $1,000 by 0.05 to get $50. This $50 is your interest expense for that period.
 
-Sometimes, interest is calculated over different time periods, like monthly or annually. If the interest rate is annual, you pay the full interest amount once a year. But if it's monthly, you divide the annual rate by 12 and pay a smaller amount each month. For example, with a $1,000 loan at a 5% annual rate, the monthly interest rate would be 0.05 divided by 12, which is about 0.00417. So, each month, you would pay $1,000 times 0.00417, which comes out to about $4.17. This way, over the year, you still end up paying the full $50 in interest.
+Sometimes, interest is calculated over different time periods, like monthly or annually. If the [interest rate](/wiki/interest-rate-trading-strategies) is annual, you pay the full interest amount once a year. But if it's monthly, you divide the annual rate by 12 and pay a smaller amount each month. For example, with a $1,000 loan at a 5% annual rate, the monthly interest rate would be 0.05 divided by 12, which is about 0.00417. So, each month, you would pay $1,000 times 0.00417, which comes out to about $4.17. This way, over the year, you still end up paying the full $50 in interest.
 
 ## Why are interest expenses important for businesses?
 

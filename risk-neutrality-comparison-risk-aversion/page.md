@@ -84,7 +84,7 @@ Also, in situations where the outcome could be really bad, like in healthcare or
 
 Risk neutrality is a critical concept in the field of finance, particularly when it comes to investment strategies and decision-making processes. An individual with a risk-neutral mindset is indifferent to risk, prioritizing potential gains without concern for the uncertainty of outcomes. This contrasts sharply with risk-averse individuals, who are predominantly concerned with minimizing potential losses.
 
-In the context of algorithmic trading, risk-neutral models play a significant role, especially in the pricing of derivatives and in determining market equilibria. These models assume that investors are interested solely in the expected outcomes, disregarding the variance of returns. Thus, a risk-neutral valuation focuses purely on expected values without accounting for the probability distribution's volatility.
+In the context of algorithmic trading, risk-neutral models play a significant role, especially in the pricing of derivatives and in determining market equilibria. These models assume that investors are interested solely in the expected outcomes, disregarding the variance of returns. Thus, a risk-neutral valuation focuses purely on expected values without accounting for the probability distribution's [volatility](/wiki/volatility-trading-strategies).
 
 Mathematically, the risk neutral valuation can be expressed via expected values under the risk-neutral probability measure, often denoted as $\mathbb{Q}$. For example, the price of a derivative can be calculated using the formula:
 

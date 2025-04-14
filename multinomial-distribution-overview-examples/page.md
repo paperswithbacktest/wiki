@@ -22,7 +22,7 @@ The Multinomial Distribution and the Binomial Distribution are both used to figu
 
 On the other hand, the Multinomial Distribution comes into play when there are more than two possible outcomes. Think of rolling a die, where you can get a 1, 2, 3, 4, 5, or 6. This distribution helps you calculate the probability of getting a specific combination of these outcomes over several rolls. For instance, it can tell you the chance of rolling two 1's, three 2's, and one 6 in six rolls of a die.
 
-In simple terms, if you're dealing with a situation where things can only go one of two ways, you use the Binomial Distribution. But if you're looking at a situation with more than two possible results, like choosing from several different flavors of ice cream, the Multinomial Distribution is what you need. Both are important tools in statistics, but they apply to different types of problems.
+In simple terms, if you're dealing with a situation where things can only go one of two ways, you use the Binomial Distribution. But if you're looking at a situation with more than two possible results, like choosing from several different flavors of ice cream, the Multinomial Distribution is what you need. Both are important tools in [statistics](/wiki/bayesian-statistics), but they apply to different types of problems.
 
 ## What are the parameters of the Multinomial Distribution?
 

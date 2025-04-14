@@ -20,7 +20,7 @@ The insurance sector makes money mainly by collecting more in premiums than it p
 
 Insurance companies also earn money by investing the premiums they collect. Before they need to pay out claims, they invest the money in things like stocks, bonds, and real estate. The returns from these investments add to their profits. This part of their income is called investment income. By balancing the risks of underwriting and the returns from investments, insurance companies aim to make a steady profit.
 
-Overall, the key to profit in the insurance sector is careful management of risk and smart investing. Insurance companies use data and statistics to predict how much they might have to pay in claims and set their premiums accordingly. If they get it right, they can keep their claims costs lower than their premiums and make money from their investments as well.
+Overall, the key to profit in the insurance sector is careful management of risk and smart investing. Insurance companies use data and [statistics](/wiki/bayesian-statistics) to predict how much they might have to pay in claims and set their premiums accordingly. If they get it right, they can keep their claims costs lower than their premiums and make money from their investments as well.
 
 ## What is the basic relationship between interest rates and insurance company profitability?
 

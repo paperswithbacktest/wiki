@@ -24,7 +24,7 @@ Once you have enough shares, the dividends you receive can start to cover your l
 
 When choosing dividend-paying stocks, it's important to look at a company's history of paying dividends. Some companies have a long track record of paying and even increasing their dividends over time. These are often called "dividend aristocrats." A consistent history can give you more confidence that the company will keep paying dividends in the future. You should also check the company's financial health. A company that is doing well financially is more likely to continue paying dividends. Look at things like profits, debts, and cash flow to get a good picture of the company's stability.
 
-Another key factor is the dividend yield, which is the annual dividend payment divided by the stock's price. A higher yield might seem attractive, but be careful. Sometimes a high yield can be a sign that the stock price has fallen a lot, which could mean the company is in trouble. It's also good to think about the payout ratio, which is the percentage of earnings paid out as dividends. A payout ratio that is too high might not be sustainable in the long run. Finally, consider diversifying your investments across different sectors and companies to spread out your risk. This way, if one company cuts its dividend, it won't hurt your whole income.
+Another key [factor](/wiki/factor-investing) is the dividend yield, which is the annual dividend payment divided by the stock's price. A higher yield might seem attractive, but be careful. Sometimes a high yield can be a sign that the stock price has fallen a lot, which could mean the company is in trouble. It's also good to think about the payout ratio, which is the percentage of earnings paid out as dividends. A payout ratio that is too high might not be sustainable in the long run. Finally, consider diversifying your investments across different sectors and companies to spread out your risk. This way, if one company cuts its dividend, it won't hurt your whole income.
 
 ## How much capital is typically required to live off dividend income?
 
@@ -84,7 +84,7 @@ Another thing to think about with international dividends is the risk of currenc
 
 ## How can one create a robust dividend portfolio for algo trading?
 
-Creating a robust dividend portfolio for algorithmic trading involves systematically selecting high-yield, sustainable dividend stocks using advanced computational models. These models predict growth and stability by analyzing a wealth of financial data, including historical performance, market trends, and company financials.
+Creating a robust dividend portfolio for [algorithmic trading](/wiki/algorithmic-trading) involves systematically selecting high-yield, sustainable dividend stocks using advanced computational models. These models predict growth and stability by analyzing a wealth of financial data, including historical performance, market trends, and company financials.
 
 **Identifying High-Yield Stocks**
 

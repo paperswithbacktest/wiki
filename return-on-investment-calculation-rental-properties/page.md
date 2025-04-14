@@ -46,7 +46,7 @@ If you don't take care of maintenance and repairs, you might think you're making
 
 ## What is the impact of vacancy rates on ROI for rental properties?
 
-Vacancy rates can really affect the ROI for rental properties. A vacancy rate is how often your rental property is empty and not making you any money. If your property is empty a lot, you'll miss out on the rent money you could be getting. This means your income goes down, and when you calculate your ROI, it will be lower because you're not earning as much as you could be.
+Vacancy rates can really affect the ROI for rental properties. A vacancy rate is how often your rental property is empty and not making you any money. If your property is empty a lot, you'll miss out on the rent money you could be getting. This means your income goes down, and when you calculate your ROI, it will be lower because you're not [earning](/wiki/earning-announcement) as much as you could be.
 
 To figure out the impact of vacancy rates on ROI, you need to think about how long the property might be empty each year. If you expect it to be empty for a few months, you have to subtract that lost rent from your total income. This will make your net profit smaller, which in turn makes your ROI smaller. Keeping your property filled with tenants as much as possible is important for keeping your ROI high.
 

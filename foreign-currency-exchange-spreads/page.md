@@ -34,7 +34,7 @@ The spread can vary depending on the type of currency you are exchanging and whe
 
 ## What factors influence the size of the spread in foreign currency exchange?
 
-The size of the spread in foreign currency exchange can be influenced by several factors. One big factor is how often the currency is traded. If you're exchanging a currency that a lot of people use, like the US dollar or the euro, the spread is usually smaller. This is because there are many buyers and sellers, so the difference between the buying and selling price is smaller. But if you're exchanging a currency that isn't traded as much, the spread can be bigger because there are fewer people buying and selling it.
+The size of the spread in foreign currency exchange can be influenced by several factors. One big [factor](/wiki/factor-investing) is how often the currency is traded. If you're exchanging a currency that a lot of people use, like the US dollar or the euro, the spread is usually smaller. This is because there are many buyers and sellers, so the difference between the buying and selling price is smaller. But if you're exchanging a currency that isn't traded as much, the spread can be bigger because there are fewer people buying and selling it.
 
 Another factor that affects the spread is the type of service you use. Big banks and well-known exchange services often have smaller spreads because they do a lot of business and can afford to charge less. Smaller banks or less-known services might charge a bigger spread to cover their costs. Also, the amount of money you're exchanging can make a difference. If you're exchanging a large amount, the spread might be smaller because the service makes more money overall, even with a smaller spread.
 
@@ -104,7 +104,7 @@ Currency exchange processes rely heavily on these mechanics and the understandin
 
  to Forex Algorithmic Trading
 
-Algorithmic trading in the forex market refers to the use of computer programs and algorithms to execute trades automatically. This method involves the utilization of complex mathematical models and formulas to make high-speed and precise trading decisions. The main principle behind [algorithmic trading](/wiki/algorithmic-trading) is to leverage pre-programmed instructions concerning various parameters such as timing, price, or [volume](/wiki/volume-trading-strategy) to execute currency trades far swifter than any human trader could achieve.
+Algorithmic trading in the [forex](/wiki/forex-system) market refers to the use of computer programs and algorithms to execute trades automatically. This method involves the utilization of complex mathematical models and formulas to make high-speed and precise trading decisions. The main principle behind [algorithmic trading](/wiki/algorithmic-trading) is to leverage pre-programmed instructions concerning various parameters such as timing, price, or [volume](/wiki/volume-trading-strategy) to execute currency trades far swifter than any human trader could achieve.
 
 The scope of algorithmic trading in the forex market is wide and continuously expanding due to advancements in technology. Algorithms are designed to parse through vast amounts of data, identify trading opportunities, and execute trades based on pre-defined criteria. This automated process eliminates the need for manual intervention, thereby increasing the speed and efficiency of trades. It also allows for the execution of multiple trades simultaneously.
 
@@ -182,7 +182,7 @@ $$
 
 Where $E[R_a - R_f]$ is the expected return of the portfolio above the risk-free rate, and $\sigma_a$ is the standard deviation of the excess return.
 
-Risk management also extends to ensuring the algorithm is robust enough to handle varying market conditions. This involves backtesting strategies on historical data to evaluate potential performance and stress testing under extreme conditions. By continuously monitoring and adjusting these algorithms, traders can better navigate the inherent uncertainties of the forex market and improve their potential for profitability.
+Risk management also extends to ensuring the algorithm is robust enough to handle varying market conditions. This involves [backtesting](/wiki/backtesting) strategies on historical data to evaluate potential performance and stress testing under extreme conditions. By continuously monitoring and adjusting these algorithms, traders can better navigate the inherent uncertainties of the forex market and improve their potential for profitability.
 
 ## References & Further Reading
 

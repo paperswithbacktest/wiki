@@ -80,7 +80,7 @@ These differences in rules can affect how people trade around the world. If one 
 
 ## What advanced techniques can be used to analyze and predict FTD occurrences?
 
-To analyze and predict FTD occurrences, traders and regulators can use advanced techniques like machine learning and data analytics. These tools can look at lots of past data about trades and FTDs to find patterns. For example, they might see that FTDs happen more often with certain stocks or at certain times. By understanding these patterns, they can guess when FTDs might happen next. This can help traders be more careful and regulators keep a closer eye on the market.
+To analyze and predict FTD occurrences, traders and regulators can use advanced techniques like [machine learning](/wiki/machine-learning) and data analytics. These tools can look at lots of past data about trades and FTDs to find patterns. For example, they might see that FTDs happen more often with certain stocks or at certain times. By understanding these patterns, they can guess when FTDs might happen next. This can help traders be more careful and regulators keep a closer eye on the market.
 
 Another technique is using real-time monitoring systems. These systems watch trades as they happen and can spot when a stock might not be delivered on time. They can send alerts to traders and regulators so they can fix the problem before it becomes an FTD. By keeping an eye on the market all the time, these systems can help stop FTDs from happening in the first place. This makes the market safer and more fair for everyone.
 

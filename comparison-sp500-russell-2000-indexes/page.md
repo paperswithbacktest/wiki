@@ -82,11 +82,11 @@ The Russell 2000 has also changed over time because of how it is made. It starte
 
 ## What are Algorithmic Trading Strategies Using the Russell 2000 and S&P 500?
 
-Various algorithmic trading strategies utilize data from the Russell 2000 and S&P 500 to enhance trading outcomes and exploit market opportunities. These strategies, supported by sophisticated algorithms, are pivotal in modern finance.
+Various [algorithmic trading](/wiki/algorithmic-trading) strategies utilize data from the Russell 2000 and S&P 500 to enhance trading outcomes and exploit market opportunities. These strategies, supported by sophisticated algorithms, are pivotal in modern finance.
 
 ### Index Arbitrage
 
-Index arbitrage takes advantage of the price discrepancies between index futures and the constituent stocks within the index. For instance, if the calculated price of an S&P 500 futures contract diverges significantly from the combined value of the stocks in the S&P 500, an arbitrage opportunity arises. Traders execute buy or sell orders to capitalize on this discrepancy, securing profits from aligning these prices. The formula for index arbitrage profitability can be simplified as:
+Index [arbitrage](/wiki/arbitrage) takes advantage of the price discrepancies between index futures and the constituent stocks within the index. For instance, if the calculated price of an S&P 500 futures contract diverges significantly from the combined value of the stocks in the S&P 500, an arbitrage opportunity arises. Traders execute buy or sell orders to capitalize on this discrepancy, securing profits from aligning these prices. The formula for index arbitrage profitability can be simplified as:
 
 $$
 \text{Profit} = (\text{Futures Price} - \text{Spot Price}) - \text{Transaction Costs}

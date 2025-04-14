@@ -42,7 +42,7 @@ For example, a company might have taken on a lot of debt to grow or buy other bu
 
 ## How does negative shareholders' equity affect a company's ability to secure loans?
 
-Negative shareholders' equity can make it harder for a company to get loans. When a bank looks at a company's balance sheet and sees that the company's debts are more than its assets, it might worry that the company won't be able to pay back the loan. Banks want to make sure they get their money back, so they might see negative shareholders' equity as a sign that the company is risky. This can make them less likely to give the company a loan, or they might charge a higher interest rate to cover the extra risk.
+Negative shareholders' equity can make it harder for a company to get loans. When a bank looks at a company's balance sheet and sees that the company's debts are more than its assets, it might worry that the company won't be able to pay back the loan. Banks want to make sure they get their money back, so they might see negative shareholders' equity as a sign that the company is risky. This can make them less likely to give the company a loan, or they might charge a higher [interest rate](/wiki/interest-rate-trading-strategies) to cover the extra risk.
 
 However, it's not always a deal-breaker. If a company can show that it's making profits and has a good plan to turn things around, some banks might still be willing to lend money. They might look at other things, like the company's cash flow, its history of paying back loans, and its future plans. So, while negative shareholders' equity can make it harder to get a loan, it's not impossible if the company can prove it's on the right track.
 

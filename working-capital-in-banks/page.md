@@ -78,7 +78,7 @@ Large banks, on the other hand, have more money and resources to manage their wo
 
 ## What are the future trends in working capital management for banks?
 
-In the future, banks are likely to use more technology to manage their working capital. They might use artificial intelligence and machine learning to predict their cash needs better. This can help them make smarter decisions about when to lend money and when to borrow it. Banks will also use more real-time data to keep an eye on their cash flow. This means they can react quickly to any changes and make sure they always have enough money for their daily needs.
+In the future, banks are likely to use more technology to manage their working capital. They might use [artificial intelligence](/wiki/ai-artificial-intelligence) and [machine learning](/wiki/machine-learning) to predict their cash needs better. This can help them make smarter decisions about when to lend money and when to borrow it. Banks will also use more real-time data to keep an eye on their cash flow. This means they can react quickly to any changes and make sure they always have enough money for their daily needs.
 
 Another trend is that banks will focus more on sustainability. They might start to consider how their lending and investment choices affect the environment and society. This could mean giving more loans to businesses that are good for the planet or using their money in ways that help the community. By doing this, banks can manage their working capital in a way that is not just good for their profits, but also good for the world around them.
 
@@ -126,7 +126,7 @@ In conclusion, by offering credit lines, facilitating cash management services, 
 
 ## References & Further Reading
 
-Books, articles, and online resources provide a wealth of information on the intricacies of financial management, working capital, and algorithmic trading. Notable [books](/wiki/algo-trading-books) include:
+Books, articles, and online resources provide a wealth of information on the intricacies of financial management, working capital, and [algorithmic trading](/wiki/algorithmic-trading). Notable [books](/wiki/algo-trading-books) include:
 
 - "Financial Management: Theory & Practice" by Eugene F. Brigham and Michael C. Ehrhardt, which offers an in-depth understanding of corporate finance and working capital management principles.
 - "Introduction to Algorithmic Trading: Basic to Advanced Strategies" by By Edward Leshik and Jane Cralle, which details various algorithmic trading strategies and their implementation.

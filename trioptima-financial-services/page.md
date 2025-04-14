@@ -72,7 +72,7 @@ Another case study is about a bank that used TriOptima's triResolve tool. The ba
 
 ## What are the future trends and developments expected in TriOptima's services?
 
-In the future, TriOptima is expected to keep making trading easier and safer for banks. They might use even more advanced technology, like artificial intelligence, to find new ways to reduce the number of trades banks need to manage. This could mean more savings for banks and even fewer mistakes. TriOptima might also work on making their services work better with other financial systems. This would help banks use TriOptima's tools without changing all their other software, making everything run smoother.
+In the future, TriOptima is expected to keep making trading easier and safer for banks. They might use even more advanced technology, like [artificial intelligence](/wiki/ai-artificial-intelligence), to find new ways to reduce the number of trades banks need to manage. This could mean more savings for banks and even fewer mistakes. TriOptima might also work on making their services work better with other financial systems. This would help banks use TriOptima's tools without changing all their other software, making everything run smoother.
 
 Another trend could be TriOptima helping banks with new types of financial products. As trading gets more complex, TriOptima might develop new tools to manage these products better. They could also focus more on helping banks follow new financial rules that come up. By staying ahead of these changes, TriOptima can keep making trading simpler and safer for banks around the world.
 

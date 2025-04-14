@@ -88,7 +88,7 @@ To manage the correlation between different asset classes, you want to pick inve
 
 ## What is Diversification Across Asset Classes?
 
-Diversification involves strategically distributing investments across multiple asset classes to reduce risk and potentially enhance portfolio returns. The core idea of diversification is that different asset classes typically do not experience price changes simultaneously or in the same direction, reducing overall portfolio volatility. This risk management approach can protect investors from significant losses in a single asset class during market downturns.
+Diversification involves strategically distributing investments across multiple asset classes to reduce risk and potentially enhance portfolio returns. The core idea of diversification is that different asset classes typically do not experience price changes simultaneously or in the same direction, reducing overall portfolio [volatility](/wiki/volatility-trading-strategies). This risk management approach can protect investors from significant losses in a single asset class during market downturns.
 
 At its core, diversification operates under Modern Portfolio Theory (MPT), introduced by Harry Markowitz in 1952. This theory suggests that an investment portfolio consisting of diverse assets can achieve a higher risk-adjusted return. Mathematically, this is represented by the optimization of a portfolio's expected return for a given level of risk, defined as:
 

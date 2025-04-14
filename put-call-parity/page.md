@@ -150,7 +150,7 @@ if C - P > S - K * math.exp(-r * (T - t)):
 
 By leveraging the fast execution speed of algorithms, traders can enhance returns significantly while minimizing risks. In advanced systems, [machine learning](/wiki/machine-learning) techniques can further refine these algorithms, adjusting strategies in real-time based on market conditions and historical data patterns.
 
-Overall, Put-Call Parity is a powerful principle in algorithmic trading, facilitating the design of profitable and delta-neutral trading strategies, especially when discrepancies arise in market prices.
+Overall, Put-Call Parity is a powerful principle in [algorithmic trading](/wiki/algorithmic-trading), facilitating the design of profitable and delta-neutral trading strategies, especially when discrepancies arise in market prices.
 
 ## What are some examples of case studies?
 

@@ -18,7 +18,7 @@ The main thing Tower Research Capital does is called "market making." This means
 
 Tower Research Capital was founded in 1998. It is a company that works in the financial industry, using computers and technology to help buy and sell things like stocks and other financial products.
 
-The company is based in New York City but also has offices in other places around the world. Tower Research Capital helps keep the financial markets running smoothly by doing something called "market making." This means they make sure there are always buyers and sellers for financial products, using special computer programs to do this quickly and efficiently.
+The company is based in New York City but also has offices in other places around the world. Tower Research Capital helps keep the financial markets running smoothly by doing something called "[market making](/wiki/market-making)." This means they make sure there are always buyers and sellers for financial products, using special computer programs to do this quickly and efficiently.
 
 ## Who are the founders of Tower Research Capital?
 

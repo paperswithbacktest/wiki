@@ -22,7 +22,7 @@ In random forests, which are made up of many decision trees, MDI works in a simi
 
 ## What is the difference between MDI and other feature importance methods like Mean Decrease Accuracy (MDA)?
 
-MDI and MDA are both ways to figure out how important a feature is in a machine learning model, but they work differently. MDI, or Mean Decrease Impurity, looks at how much a feature helps to make the groups in a decision tree or random forest cleaner or more separated. It adds up all the times a feature helps make a split cleaner across all the trees and then averages it. This means MDI is all about how the feature helps in making decisions within the model.
+MDI and MDA are both ways to figure out how important a feature is in a [machine learning](/wiki/machine-learning) model, but they work differently. MDI, or Mean Decrease Impurity, looks at how much a feature helps to make the groups in a decision tree or random forest cleaner or more separated. It adds up all the times a feature helps make a split cleaner across all the trees and then averages it. This means MDI is all about how the feature helps in making decisions within the model.
 
 On the other hand, MDA, or Mean Decrease Accuracy, checks how much the model's accuracy drops when you mix up the values of a feature. You take the original data, mix up one feature's values, and then see how much worse the model gets at making predictions. If the accuracy goes down a lot, it means that feature was really important for the model's predictions. Unlike MDI, MDA looks at how the feature affects the final predictions, not just how it helps with splitting the data.
 
@@ -60,7 +60,7 @@ But, if you have too few trees, the MDI scores might jump around a lot. This is 
 
 MDI can help improve a model's performance by showing which features are most important for making good predictions. When you know which features matter the most, you can focus on making those features even better. For example, if a feature has a high MDI score but it has some missing values, you might want to work on filling in those gaps to make the feature more useful. Or, if a feature is not that important according to MDI, you might choose to leave it out of the model to make it simpler and faster without losing much accuracy.
 
-MDI is also really helpful for feature selection. When you're building a model, you often have a lot of features to choose from, and picking the right ones can be hard. MDI gives you a way to rank the features by how much they help the model. By keeping only the features with high MDI scores, you can build a model that's easier to understand and still works well. This can save time and resources, especially when you're working with big datasets where using all the features might be too slow or complicated.
+MDI is also really helpful for feature selection. When you're building a model, you often have a lot of features to choose from, and [picking](/wiki/asset-class-picking) the right ones can be hard. MDI gives you a way to rank the features by how much they help the model. By keeping only the features with high MDI scores, you can build a model that's easier to understand and still works well. This can save time and resources, especially when you're working with big datasets where using all the features might be too slow or complicated.
 
 ## What are some practical considerations when interpreting MDI values in real-world datasets?
 

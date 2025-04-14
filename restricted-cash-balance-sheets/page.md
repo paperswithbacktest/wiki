@@ -54,7 +54,7 @@ In the notes to the financial statements, BuildCo would explain that the $500,00
 
 ## How does restricted cash affect a company's liquidity?
 
-Restricted cash can affect a company's liquidity because it reduces the amount of money the company can use freely. Liquidity means how easily a company can turn its assets into cash to pay for things it needs. When a company has a lot of restricted cash, it means they have less money available for everyday expenses, like paying bills or buying supplies. This can make it harder for the company to handle unexpected costs or take advantage of new opportunities because they don't have as much cash on hand to use.
+Restricted cash can affect a company's [liquidity](/wiki/liquidity-risk-premium) because it reduces the amount of money the company can use freely. Liquidity means how easily a company can turn its assets into cash to pay for things it needs. When a company has a lot of restricted cash, it means they have less money available for everyday expenses, like paying bills or buying supplies. This can make it harder for the company to handle unexpected costs or take advantage of new opportunities because they don't have as much cash on hand to use.
 
 Even though restricted cash is still shown on the balance sheet as part of the company's total cash, it's important to remember that it can't be used for just anything. Investors and others looking at the company's financial health need to know about this because it gives them a better idea of how much money the company really has to work with. If a company has a lot of restricted cash, it might look like they have more money than they actually do, which can affect decisions about whether to invest in the company or lend them money.
 

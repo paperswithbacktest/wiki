@@ -40,7 +40,7 @@ Another reason for the increased volatility is that important news often comes o
 
 ## How do liquidity and volume impact bid-ask spreads in after-hours trading?
 
-Liquidity and volume have a big impact on bid-ask spreads during after-hours trading. Liquidity means how easy it is to buy or sell a stock without changing its price too much. When there are lots of people trading, the market is more liquid, and the bid-ask spread is smaller. But in after-hours trading, there are fewer people buying and selling, so the market is less liquid. This means the bid-ask spread gets bigger because it's harder to find someone to trade with.
+Liquidity and [volume](/wiki/volume-trading-strategy) have a big impact on bid-ask spreads during after-hours trading. Liquidity means how easy it is to buy or sell a stock without changing its price too much. When there are lots of people trading, the market is more liquid, and the bid-ask spread is smaller. But in after-hours trading, there are fewer people buying and selling, so the market is less liquid. This means the bid-ask spread gets bigger because it's harder to find someone to trade with.
 
 Volume, which is the number of shares being traded, also affects the bid-ask spread. During normal trading hours, lots of shares change hands, and this high volume helps keep the bid-ask spread small. But after the market closes, the volume drops a lot. With fewer shares being traded, big orders can move the price more easily, making the bid-ask spread larger. So, lower liquidity and volume in after-hours trading make the market more unpredictable and can lead to bigger bid-ask spreads.
 

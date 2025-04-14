@@ -42,9 +42,9 @@ The reason NAVPS is calculated daily is to keep investors informed about the val
 
 ## What factors can affect the NAVPS of a mutual fund or ETF?
 
-The NAVPS of a mutual fund or ETF can change because of many things. One big reason is the performance of the investments that the fund holds. If the stocks, bonds, or other assets in the fund go up in value, the NAVPS will go up too. On the other hand, if those investments lose value, the NAVPS will go down. It's like if you own a bunch of toys and their value changes, the price tag on your collection changes too.
+The NAVPS of a mutual fund or [ETF](/wiki/etf-trading-strategies) can change because of many things. One big reason is the performance of the investments that the fund holds. If the stocks, bonds, or other assets in the fund go up in value, the NAVPS will go up too. On the other hand, if those investments lose value, the NAVPS will go down. It's like if you own a bunch of toys and their value changes, the price tag on your collection changes too.
 
-Another factor that can affect NAVPS is the flow of money into and out of the fund. When new investors buy shares, the fund might need to buy more investments, which can change the NAVPS. If a lot of people want to take their money out, the fund might have to sell some of its investments, which can also change the NAVPS. It's like adding or removing toys from your collection, which changes what it's worth.
+Another [factor](/wiki/factor-investing) that can affect NAVPS is the flow of money into and out of the fund. When new investors buy shares, the fund might need to buy more investments, which can change the NAVPS. If a lot of people want to take their money out, the fund might have to sell some of its investments, which can also change the NAVPS. It's like adding or removing toys from your collection, which changes what it's worth.
 
 Lastly, fees and expenses can also impact the NAVPS. Mutual funds and ETFs have costs like management fees and operating expenses, which are taken out of the fund's assets. When these costs are subtracted, it can make the NAVPS go down a bit. It's like if you had to pay a small fee to keep your toy collection, which would make the total value of your toys a little less.
 

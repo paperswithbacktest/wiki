@@ -126,7 +126,7 @@ In conclusion, senior housing REITs, by virtue of their demographic-driven deman
 
 ## How can one build an investment strategy?
 
-Creating a balanced investment strategy that incorporates senior housing Real Estate Investment Trusts (REITs) and algorithmic trading involves several crucial steps. This section provides guidelines for developing such a strategy, selecting appropriate algorithms and technology platforms, and implementing effective risk management practices while setting realistic investment goals.
+Creating a balanced investment strategy that incorporates senior housing Real Estate Investment Trusts (REITs) and [algorithmic trading](/wiki/algorithmic-trading) involves several crucial steps. This section provides guidelines for developing such a strategy, selecting appropriate algorithms and technology platforms, and implementing effective risk management practices while setting realistic investment goals.
 
 ### Guidelines for Creating a Balanced Investment Strategy
 

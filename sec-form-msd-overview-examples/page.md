@@ -24,7 +24,7 @@ The form asks for basic information about the company, like its name and address
 
 Any company that wants to work as a transfer agent needs to file SEC Form MSD. A transfer agent is a company that keeps track of who owns stocks and bonds in another company. They also handle tasks like giving out new shares and making sure ownership records are correct.
 
-By filing Form MSD, the company tells the U.S. Securities and Exchange Commission (SEC) that it wants to be a transfer agent. The form asks for basic information about the company, like its name, address, and who is in charge. It also makes the company promise to follow all the rules set by the SEC for transfer agents. Once the SEC approves the form, the company can start working as a transfer agent.
+By filing Form MSD, the company tells the U.S. Securities and Exchange Commission (SEC) that it wants to be a transfer agent. The form asks for basic information about the company, like its name, address, and who is in charge. It also makes the company promise to follow all the rules set by the SEC for transfer [agents](/wiki/agents). Once the SEC approves the form, the company can start working as a transfer agent.
 
 ## How often should SEC Form MSD be filed?
 

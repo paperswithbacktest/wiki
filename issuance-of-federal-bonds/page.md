@@ -40,7 +40,7 @@ Another way to buy federal bonds is through a bank or a broker. Some banks and b
 
 ## What are the risks associated with investing in federal bonds?
 
-Federal bonds are very safe because they are backed by the government. This means the risk of not getting your money back is very low. The government can always print more money or raise taxes to pay you back. But, there are still some risks. One risk is inflation. If prices go up a lot, the money you get back might not be worth as much as when you bought the bond. Another risk is interest rate changes. If interest rates go up after you buy a bond, new bonds will pay more interest than yours. You might feel like you missed out on a better deal.
+Federal bonds are very safe because they are backed by the government. This means the risk of not getting your money back is very low. The government can always print more money or raise taxes to pay you back. But, there are still some risks. One risk is inflation. If prices go up a lot, the money you get back might not be worth as much as when you bought the bond. Another risk is [interest rate](/wiki/interest-rate-trading-strategies) changes. If interest rates go up after you buy a bond, new bonds will pay more interest than yours. You might feel like you missed out on a better deal.
 
 Another thing to think about is that federal bonds usually don't pay as much interest as riskier investments like stocks. If you want to grow your money faster, you might need to look at other options. But, if you want a safe place to keep your money and get a steady, small return, federal bonds are a good choice. They are great for people who want to keep their money safe and don't mind getting a lower return.
 

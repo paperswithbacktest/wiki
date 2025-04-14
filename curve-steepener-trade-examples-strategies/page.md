@@ -24,7 +24,7 @@ The potential reward of a curve steepener trade can be appealing to investors lo
 
 A yield curve is a line that shows the interest rates for bonds that have different times until they pay back the money. The basic components of a yield curve are the maturity dates of the bonds and the interest rates, or yields, that these bonds offer. Maturity dates can be short, like a few months, or long, like 30 years. The interest rates show how much money you can earn from the bond over time.
 
-When you look at a yield curve, the horizontal line shows the time until the bond matures, and the vertical line shows the interest rate. Normally, a yield curve goes up and to the right because longer-term bonds usually have higher interest rates than shorter-term bonds. This happens because investors want more money for lending their money for a longer time, which is called a risk premium.
+When you look at a yield curve, the horizontal line shows the time until the bond matures, and the vertical line shows the [interest rate](/wiki/interest-rate-trading-strategies). Normally, a yield curve goes up and to the right because longer-term bonds usually have higher interest rates than shorter-term bonds. This happens because investors want more money for lending their money for a longer time, which is called a risk premium.
 
 ## How does a steepening yield curve affect the economy?
 

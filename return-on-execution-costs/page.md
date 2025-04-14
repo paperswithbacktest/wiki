@@ -78,7 +78,7 @@ Using return on execution costs in this way can also help a business make better
 
 To forecast and optimize return on execution costs, businesses can use advanced analytical methods like predictive analytics. Predictive analytics uses data from the past to guess what might happen in the future. For example, a business can look at how much it spent and earned in the past few months and use that information to predict how much it will spend and earn in the coming months. By doing this, the business can plan better and make changes to improve its return on execution costs. If the analytics show that spending more on certain tasks will lead to higher earnings, the business can decide to put more money into those tasks.
 
-Another advanced method is machine learning, which can help find patterns in data that people might not see. Machine learning can look at a lot of information, like how much it costs to make different products and how much money those products make. It can then suggest ways to change how the business does things to make more money. For example, machine learning might find out that using a certain kind of material costs less and makes the product better, leading to more sales and a better return on execution costs. By using these advanced methods, a business can keep improving how it spends money on daily tasks and make more profit over time.
+Another advanced method is [machine learning](/wiki/machine-learning), which can help find patterns in data that people might not see. Machine learning can look at a lot of information, like how much it costs to make different products and how much money those products make. It can then suggest ways to change how the business does things to make more money. For example, machine learning might find out that using a certain kind of material costs less and makes the product better, leading to more sales and a better return on execution costs. By using these advanced methods, a business can keep improving how it spends money on daily tasks and make more profit over time.
 
 ## What are some case studies and examples?
 
@@ -99,7 +99,7 @@ Case studies highlight the effectiveness of employing data analytics and machine
 
 Real-world scenarios reiterate the importance of execution cost management. During volatile market conditions, for instance, enhanced data processing capabilities enable traders to adjust strategies swiftly, avoiding the pitfalls of large market impacts. An algorithm analyzing both historical and real-time data can optimize execution paths more efficiently, ensuring trades are completed at intended prices, thereby securing intended profit margins.
 
-Through effective execution cost management, as illustrated by these cases, traders can significantly improve their financial outcomes. The integration of cutting-edge technology and market analytics is crucial in achieving lower transaction costs and higher net returns. Understanding these cases provides valuable insights into developing cost-effective algorithmic trading strategies.
+Through effective execution cost management, as illustrated by these cases, traders can significantly improve their financial outcomes. The integration of cutting-edge technology and market analytics is crucial in achieving lower transaction costs and higher net returns. Understanding these cases provides valuable insights into developing cost-effective [algorithmic trading](/wiki/algorithmic-trading) strategies.
 
 ## References & Further Reading
 

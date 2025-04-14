@@ -18,7 +18,7 @@ Traders using the NR7 strategy will often place buy orders just above the high o
 
 The NR7 strategy helps traders find good times to buy or sell by looking at how much the price moves each day. It focuses on finding the day with the smallest difference between the highest and lowest prices over the last 7 days. This day is called the NR7 day. When traders see this narrow range, they think the market might be ready for a big move soon. They look for this special day because it could mean the market is about to break out and move strongly in one direction.
 
-Once the NR7 day is found, traders get ready for the market to move. They put buy orders just above the high price of the NR7 day and sell orders just below the low price of the NR7 day. This way, if the market moves up, they can buy at a good time. If the market moves down, they can sell at a good time. The NR7 strategy works in many markets, like stocks or forex, but traders often use other tools too to make better choices.
+Once the NR7 day is found, traders get ready for the market to move. They put buy orders just above the high price of the NR7 day and sell orders just below the low price of the NR7 day. This way, if the market moves up, they can buy at a good time. If the market moves down, they can sell at a good time. The NR7 strategy works in many markets, like stocks or [forex](/wiki/forex-system), but traders often use other tools too to make better choices.
 
 ## What are the key components of the NR7 pattern?
 
@@ -54,7 +54,7 @@ Traders also use a take-profit order to lock in gains. This is like setting a go
 
 Traders often use the NR7 strategy along with other technical indicators to make better trading decisions. One common way is to use the NR7 with trend indicators like moving averages. For example, if the NR7 day happens while the price is above a long-term moving average, it might mean the market is in a strong uptrend. This could make traders more confident about buying if the price breaks above the NR7 day's high. On the other hand, if the NR7 day happens below the moving average, it might signal a downtrend, making traders more likely to sell if the price breaks below the NR7 day's low.
 
-Another useful combination is using the NR7 with momentum indicators like the Relative Strength Index (RSI) or the Moving Average Convergence Divergence (MACD). If the NR7 day happens and the RSI shows the market is not overbought or oversold, it might be a good time to trade. If the RSI is overbought and the price breaks below the NR7 day's low, it could be a strong signal to sell. Similarly, if the MACD shows a bullish crossover near an NR7 day, it might be a good time to buy when the price breaks above the NR7 day's high. By combining the NR7 strategy with these other indicators, traders can get more information and make smarter trading choices.
+Another useful combination is using the NR7 with [momentum](/wiki/momentum) indicators like the Relative Strength Index (RSI) or the Moving Average Convergence Divergence (MACD). If the NR7 day happens and the RSI shows the market is not overbought or oversold, it might be a good time to trade. If the RSI is overbought and the price breaks below the NR7 day's low, it could be a strong signal to sell. Similarly, if the MACD shows a bullish crossover near an NR7 day, it might be a good time to buy when the price breaks above the NR7 day's high. By combining the NR7 strategy with these other indicators, traders can get more information and make smarter trading choices.
 
 ## What are some real-life examples of the NR7 strategy in action?
 
@@ -106,7 +106,7 @@ Implementing the NR7 strategy effectively requires careful monitoring of price m
 
 ## How can one practically implement NR7: Coding and Backtesting?
 
-Implementing the NR7 strategy requires a methodical approach to coding and backtesting, ensuring the strategy functions as intended before applying it to live market conditions. Using platforms like Amibroker or Tradestation, traders can create scripts to automate the identification and execution of NR7 signals.
+Implementing the NR7 strategy requires a methodical approach to coding and [backtesting](/wiki/backtesting), ensuring the strategy functions as intended before applying it to live market conditions. Using platforms like Amibroker or Tradestation, traders can create scripts to automate the identification and execution of NR7 signals.
 
 ### Coding the NR7 Strategy
 

@@ -33,7 +33,7 @@ The generator part of the RAG model then takes over. It uses the documents that 
 
 ## What types of data are typically used with Rag models?
 
-RAG models typically use large collections of text documents. These can be things like news articles, research papers, books, or any kind of written content that might help answer questions. The more diverse and up-to-date the documents, the better the RAG model can be at providing accurate answers. For example, if you ask about a recent event, the model will search through news articles to find the latest information.
+RAG models typically use large collections of text documents. These can be things like news articles, research papers, [books](/wiki/algo-trading-books), or any kind of written content that might help answer questions. The more diverse and up-to-date the documents, the better the RAG model can be at providing accurate answers. For example, if you ask about a recent event, the model will search through news articles to find the latest information.
 
 The data used by RAG models doesn't have to be limited to text. They can also use other types of data like images or videos, as long as the retriever part of the model can understand and search through them. This makes RAG models very flexible and useful for a wide range of questions, from general knowledge to specific, technical topics.
 

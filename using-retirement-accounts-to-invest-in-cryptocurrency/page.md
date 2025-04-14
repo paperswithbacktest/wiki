@@ -18,7 +18,7 @@ When you put money into a retirement account, it often grows over time because i
 
 Some retirement accounts that can be used to invest in cryptocurrency are Self-Directed IRAs and Solo 401(k)s. A Self-Directed IRA lets you choose your own investments, including things like cryptocurrency, real estate, or precious metals. You need to work with a special custodian who allows these types of investments. A Solo 401(k) is similar, but it's meant for people who are self-employed or small business owners. With a Solo 401(k), you can also invest in cryptocurrency if you find a plan provider that supports it.
 
-It's important to know that not all retirement accounts allow you to invest in cryptocurrency. Traditional 401(k)s and most standard IRAs usually don't let you do this because they have limited investment options. If you want to invest your retirement savings in cryptocurrency, you need to make sure you're using the right type of account and working with a provider that supports these investments. Always check the rules and any fees that might come with investing in cryptocurrency through your retirement account.
+It's important to know that not all retirement accounts allow you to invest in [cryptocurrency](/wiki/cryptocurrency). Traditional 401(k)s and most standard IRAs usually don't let you do this because they have limited investment options. If you want to invest your retirement savings in cryptocurrency, you need to make sure you're using the right type of account and working with a provider that supports these investments. Always check the rules and any fees that might come with investing in cryptocurrency through your retirement account.
 
 ## What are the benefits of investing in cryptocurrency through a retirement account?
 
@@ -28,7 +28,7 @@ Another benefit is the potential for high returns. Cryptocurrencies can be very 
 
 ## What are the risks associated with investing in cryptocurrency within a retirement account?
 
-Investing in cryptocurrency through a retirement account can be risky because the value of cryptocurrencies can go up and down a lot. This is called volatility. If the value goes down when you need to take money out of your retirement account, you might lose a lot of money. This can be a big problem because you might not have enough time to wait for the value to go back up before you need to use the money in retirement.
+Investing in cryptocurrency through a retirement account can be risky because the value of cryptocurrencies can go up and down a lot. This is called [volatility](/wiki/volatility-trading-strategies). If the value goes down when you need to take money out of your retirement account, you might lose a lot of money. This can be a big problem because you might not have enough time to wait for the value to go back up before you need to use the money in retirement.
 
 Another risk is that the rules about investing in cryptocurrency through retirement accounts can be complicated. Not all retirement accounts allow you to invest in cryptocurrency, and the ones that do might have special rules or fees. If you don't follow these rules, you could face penalties or taxes that you weren't expecting. It's important to understand these rules and maybe talk to a financial advisor to make sure you're doing everything right.
 

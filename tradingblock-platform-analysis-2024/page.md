@@ -36,7 +36,7 @@ There might be other costs too, like fees for keeping your money in your account
 
 TradingBlock takes the security of your data and money very seriously. They use strong encryption to keep your information safe when you're using their website. Encryption is like a secret code that makes sure no one else can see your private stuff. They also have strict rules about who can see your data, so only the people who really need to know can access it. This helps keep your personal information safe from people who shouldn't see it.
 
-To protect your money, TradingBlock keeps it in special accounts that are separate from their own money. This means if something goes wrong with the company, your money is still safe. They also use something called two-factor authentication, which means you need two ways to prove it's really you before you can log in. This makes it much harder for someone else to get into your account. By doing all these things, TradingBlock works hard to make sure your data and funds are secure.
+To protect your money, TradingBlock keeps it in special accounts that are separate from their own money. This means if something goes wrong with the company, your money is still safe. They also use something called two-[factor](/wiki/factor-investing) authentication, which means you need two ways to prove it's really you before you can log in. This makes it much harder for someone else to get into your account. By doing all these things, TradingBlock works hard to make sure your data and funds are secure.
 
 ## What types of assets can be traded on the TradingBlock platform?
 

@@ -48,7 +48,7 @@ Another great thing about Pepperstone's mobile app is that it has tools to help 
 
 Pepperstone takes security very seriously to keep your money and information safe. They use strong encryption to protect your data when you're trading or using their website. This means your information is turned into a code that's hard for anyone else to read. They also follow strict rules from financial regulators, like the Australian Securities and Investments Commission (ASIC), which make sure they handle your money the right way. Your money is kept in separate bank accounts, so it's not mixed with the company's money. This helps make sure your funds are safe even if something goes wrong with Pepperstone.
 
-Pepperstone also has other ways to keep things secure. They use two-factor authentication, which means you need more than just a password to log in. This makes it harder for someone else to get into your account. They also watch for any strange activity on your account and have a team that works to stop fraud. If you ever have a problem, you can reach out to their customer support team, who are there to help you keep your account safe.
+Pepperstone also has other ways to keep things secure. They use two-[factor](/wiki/factor-investing) authentication, which means you need more than just a password to log in. This makes it harder for someone else to get into your account. They also watch for any strange activity on your account and have a team that works to stop fraud. If you ever have a problem, you can reach out to their customer support team, who are there to help you keep your account safe.
 
 ## What advanced trading tools does Pepperstone offer for experienced traders?
 
@@ -78,7 +78,7 @@ Another helpful tool is Trading Central, which gives you detailed analysis and p
 
 In 2024, experts and users generally have good things to say about Pepperstone. Many experts like how fast and reliable Pepperstone's trading platforms are. They say the low spreads and the choice between the Standard and Razor accounts make it a good option for both new and experienced traders. Users also like the customer support, saying it's quick and helpful. They appreciate the educational resources and the different tools Pepperstone offers to help with trading decisions.
 
-However, some users mention that the fees can be a bit confusing at first, especially for beginners. They say it takes time to understand the difference between the Standard and Razor accounts and which one is better for them. Despite this, most users feel that Pepperstone is a trustworthy broker. They like how Pepperstone keeps their money safe and follows the new rules from regulators. Overall, the general opinion in 2024 is that Pepperstone is a solid choice for anyone looking to trade forex.
+However, some users mention that the fees can be a bit confusing at first, especially for beginners. They say it takes time to understand the difference between the Standard and Razor accounts and which one is better for them. Despite this, most users feel that Pepperstone is a trustworthy broker. They like how Pepperstone keeps their money safe and follows the new rules from regulators. Overall, the general opinion in 2024 is that Pepperstone is a solid choice for anyone looking to trade [forex](/wiki/forex-system).
 
 ## References & Further Reading
 

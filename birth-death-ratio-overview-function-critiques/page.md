@@ -40,7 +40,7 @@ The reasons for these differences can be many. In countries where the birth-deat
 
 ## What factors influence changes in the birth-death ratio over time?
 
-Changes in the birth-death ratio over time can be influenced by many things. One big factor is healthcare. When healthcare gets better, fewer babies die, and people live longer. This can make the birth-death ratio go down because there are fewer deaths. But if healthcare improves a lot, people might choose to have fewer children because they know most of them will survive. This can also make the birth-death ratio go down.
+Changes in the birth-death ratio over time can be influenced by many things. One big [factor](/wiki/factor-investing) is healthcare. When healthcare gets better, fewer babies die, and people live longer. This can make the birth-death ratio go down because there are fewer deaths. But if healthcare improves a lot, people might choose to have fewer children because they know most of them will survive. This can also make the birth-death ratio go down.
 
 Another factor is the economy. When people feel they have enough money and a stable life, they might choose to have fewer children. This can lower the birth rate and affect the birth-death ratio. On the other hand, if people are poor or live in places where they need children to help with work, they might have more children. This can raise the birth rate and change the birth-death ratio.
 

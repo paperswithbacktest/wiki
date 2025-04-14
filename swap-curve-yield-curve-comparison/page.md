@@ -76,7 +76,7 @@ People also use something called vector autoregression (VAR) models to look at h
 
 ## How can discrepancies between swap curves and yield curves be exploited for arbitrage opportunities?
 
-When the swap curve and yield curve don't match up, it can create chances for people to make money through something called arbitrage. Arbitrage is when people buy something in one place and sell it in another place for a higher price, making a profit from the difference. If the swap curve shows that people expect interest rates to be higher in the future than what the yield curve is showing, someone might be able to make money by doing an interest rate swap and buying government bonds at the same time. They could get a fixed rate from the swap that's higher than the rate they pay for the bonds, making a profit from the difference.
+When the swap curve and yield curve don't match up, it can create chances for people to make money through something called [arbitrage](/wiki/arbitrage). Arbitrage is when people buy something in one place and sell it in another place for a higher price, making a profit from the difference. If the swap curve shows that people expect interest rates to be higher in the future than what the yield curve is showing, someone might be able to make money by doing an interest rate swap and buying government bonds at the same time. They could get a fixed rate from the swap that's higher than the rate they pay for the bonds, making a profit from the difference.
 
 These opportunities don't last long because many people in the market are always looking for them. When they find a chance to make money this way, they act quickly, which makes the prices change until the swap curve and yield curve line up again. But for a short time, someone who spots the difference between the curves can use it to their advantage. By carefully watching the curves and understanding how they relate to each other, people can find these moments to make money through arbitrage.
 
@@ -120,7 +120,7 @@ Algorithmic trading leverages mathematical models and computational algorithms t
 
 ### Role of Swap Curves in Algorithmic Trading
 
-Interest rate arbitrage exploits discrepancies between swap rates and other interest rate benchmarks, such as government bond yields. By analyzing swap curves, algorithmic traders can identify mismatches between expected and actual interest rate environments. These inefficiencies might arise from liquidity variations, central bank policies, or macroeconomic shifts, providing opportunities for profitable trades.
+Interest rate arbitrage exploits discrepancies between swap rates and other interest rate benchmarks, such as government bond yields. By analyzing swap curves, algorithmic traders can identify mismatches between expected and actual interest rate environments. These inefficiencies might arise from [liquidity](/wiki/liquidity-risk-premium) variations, central bank policies, or macroeconomic shifts, providing opportunities for profitable trades.
 
 #### Algorithmic Trading Strategies Utilizing Swap Curves
 

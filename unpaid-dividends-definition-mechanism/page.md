@@ -84,9 +84,9 @@ Sometimes, regulatory bodies can help shareholders who are not getting their div
 
 ## References & Further Reading
 
-Books, articles, and online resources on dividend stocks and algorithmic trading are recommended for further exploration. 
+Books, articles, and online resources on dividend stocks and [algorithmic trading](/wiki/algorithmic-trading) are recommended for further exploration. 
 
-Key titles that provide comprehensive insights include "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" by Ernest P. Chan, which offers practical guidance on developing algorithmic trading strategies, and "Machine Learning for Algorithmic Trading" by Stefan Jansen, which investigates into using machine learning techniques for trading applications. These [books](/wiki/algo-trading-books) are essential for anyone looking to gain a deeper understanding of the quantitative aspects and technological tools that drive modern trading.
+Key titles that provide comprehensive insights include "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" by Ernest P. Chan, which offers practical guidance on developing algorithmic trading strategies, and "Machine Learning for Algorithmic Trading" by Stefan Jansen, which investigates into using [machine learning](/wiki/machine-learning) techniques for trading applications. These [books](/wiki/algo-trading-books) are essential for anyone looking to gain a deeper understanding of the quantitative aspects and technological tools that drive modern trading.
 
 For those interested in the academic and strategic dimensions of dividend capture and investment strategies, research papers offer valuable insights. Scholarly articles typically provide detailed analyses of market behaviors and model-based strategies, making them invaluable resources for investors and researchers seeking to apply advanced statistical and algorithmic methods to dividend investing.
 

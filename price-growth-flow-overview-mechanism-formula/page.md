@@ -118,7 +118,7 @@ Economic indicators provide the backbone for many algo trading strategies. For e
 
 ### Overview of Growth Factor Models
 
-Growth [factor](/wiki/factor-investing) models in algorithmic trading utilize key economic indicators to assess potential investment opportunities based on the expected growth trajectories of different assets. These models often factor in indicators such as inflation expectations, interest rates, and GDP growth rates to forecast asset price movements. The core components of these models typically include quantitative metrics like earnings growth, sales growth, and market conditions, along with economic data that signal future trends. For instance, a basic growth factor model might look like:
+Growth [factor](/wiki/factor-investing) models in [algorithmic trading](/wiki/algorithmic-trading) utilize key economic indicators to assess potential investment opportunities based on the expected growth trajectories of different assets. These models often factor in indicators such as inflation expectations, interest rates, and GDP growth rates to forecast asset price movements. The core components of these models typically include quantitative metrics like earnings growth, sales growth, and market conditions, along with economic data that signal future trends. For instance, a basic growth factor model might look like:
 
 $$
 \text{Expected Return} = \beta_0 + \beta_1 (\text{Inflation Rate}) + \beta_2 (\text{GDP Growth Rate}) + \cdots + \epsilon
@@ -130,7 +130,7 @@ Where $\beta$ represents the coefficients determined by historical analysis, and
 
 Renaissance Technologies, founded by Jim Simons, is considered one of the most successful quant-based hedge funds, utilizing complex mathematical models for trading success. The firm employs a data-driven approach, combining vast datasets, including traditional economic indicators and [alternative data](/wiki/best-alternative-data), to feed their sophisticated algorithms.
 
-Their flagship fund, the Medallion Fund, is known for its consistent high returns, which is largely attributed to their ability to leverage economic indicators, among other data types, within their algorithm to predict market movements accurately. Renaissance's algorithms integrate diverse data inputs ranging from price-growth models to economic data like GDP and inflation. Their strategy involves the utilization of statistical methodologies and machine learning techniques to detect subtle patterns in the market, which are often overlooked by traditional analysis methods.
+Their flagship fund, the Medallion Fund, is known for its consistent high returns, which is largely attributed to their ability to leverage economic indicators, among other data types, within their algorithm to predict market movements accurately. Renaissance's algorithms integrate diverse data inputs ranging from price-growth models to economic data like GDP and inflation. Their strategy involves the utilization of statistical methodologies and [machine learning](/wiki/machine-learning) techniques to detect subtle patterns in the market, which are often overlooked by traditional analysis methods.
 
 These strategies are coded in proprietary programming languages or common languages such as Python or C++, allowing for rapid execution and adjustment based on real-time data analysis. For example:
 

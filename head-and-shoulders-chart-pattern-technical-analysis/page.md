@@ -58,7 +58,7 @@ Another mistake is not setting proper stop-loss and take-profit levels. Traders 
 
 ## How can volume be used to confirm a Head and Shoulders pattern?
 
-Volume can help confirm a Head and Shoulders pattern by showing how strong the price movements are. When the left shoulder forms, the volume should be pretty high because lots of people are buying the stock, pushing the price up. But when the head forms, the volume might start to drop a bit. This shows that fewer people are buying, and the upward trend is getting weaker. When the right shoulder forms, the volume should be even lower than it was during the head. This lower volume means even fewer people are buying, and it's a sign that the price might start to go down soon.
+Volume can help confirm a Head and Shoulders pattern by showing how strong the price movements are. When the left shoulder forms, the [volume](/wiki/volume-trading-strategy) should be pretty high because lots of people are buying the stock, pushing the price up. But when the head forms, the volume might start to drop a bit. This shows that fewer people are buying, and the upward trend is getting weaker. When the right shoulder forms, the volume should be even lower than it was during the head. This lower volume means even fewer people are buying, and it's a sign that the price might start to go down soon.
 
 The most important volume signal comes when the price breaks the neckline. If the price goes below the neckline on high volume, it's a strong sign that the Head and Shoulders pattern is confirmed. High volume at this point means a lot of people are selling the stock, which pushes the price down even more. If the volume is low when the price breaks the neckline, it might not be a good sign, and the pattern might not be as reliable. So, watching the volume can help traders decide if it's a good time to sell or not.
 
@@ -66,7 +66,7 @@ The most important volume signal comes when the price breaks the neckline. If th
 
 The success rate of Head and Shoulders patterns can be different depending on the market you're looking at. In the stock market, studies have shown that the Head and Shoulders pattern can be right about 70-80% of the time. This means that if you see this pattern and the price breaks the neckline, there's a good chance the price will go down like you expect. But this can change based on things like how long you're looking at the chart for and what kind of stocks you're trading.
 
-In the forex market, the success rate can be a bit lower, around 60-70%. Forex markets can be more unpredictable because they're affected by things like interest rates, economic news, and global events. So, even though the Head and Shoulders pattern can still be helpful, it might not work as well as it does in the stock market. It's always a good idea to use other tools and signs along with the Head and Shoulders pattern to make better trading choices.
+In the [forex](/wiki/forex-system) market, the success rate can be a bit lower, around 60-70%. Forex markets can be more unpredictable because they're affected by things like interest rates, economic news, and global events. So, even though the Head and Shoulders pattern can still be helpful, it might not work as well as it does in the stock market. It's always a good idea to use other tools and signs along with the Head and Shoulders pattern to make better trading choices.
 
 ## How can the Head and Shoulders pattern be integrated with other technical indicators for better accuracy?
 

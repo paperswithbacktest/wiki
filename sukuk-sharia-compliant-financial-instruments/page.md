@@ -18,7 +18,7 @@ The money you get from a Sukuk comes from the profits of the asset or project yo
 
 Sukuk and conventional bonds are both ways to invest money, but they work differently. A conventional bond is like a loan you give to a company or government. They promise to pay you back the money you lent them, plus some extra money called interest, over time. The interest is a fixed amount that doesn't change, no matter how well the company or government is doing. With a bond, you're not an owner of anything; you're just a lender.
 
-On the other hand, a Sukuk follows Islamic finance rules, which don't allow earning money from interest. Instead of lending money, when you buy a Sukuk, you're buying a piece of an asset or project, like a building or a business. The money you get from a Sukuk comes from the profits that the asset or project makes. This means your earnings can go up or down depending on how well the asset or project is doing. So, with a Sukuk, you're more like a partner sharing in the success and risks of the investment.
+On the other hand, a Sukuk follows Islamic finance rules, which don't allow [earning](/wiki/earning-announcement) money from interest. Instead of lending money, when you buy a Sukuk, you're buying a piece of an asset or project, like a building or a business. The money you get from a Sukuk comes from the profits that the asset or project makes. This means your earnings can go up or down depending on how well the asset or project is doing. So, with a Sukuk, you're more like a partner sharing in the success and risks of the investment.
 
 ## What are the basic principles of Sharia that Sukuk must comply with?
 

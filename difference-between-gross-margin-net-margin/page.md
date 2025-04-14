@@ -173,7 +173,7 @@ Integrating these profit margins allows algorithms to discern which trading stra
    This textbook covers fundamental principles of corporate finance, including key metrics like gross and net profit margins, offering insights into the financial health of businesses.
 
 9. **GitHub - Algorithmic Trading Strategies**  
-   GitHub offers open-source code and resources for building algorithmic trading strategies, many of which factor in profit margins as part of their decision-making processes: [GitHub: Algorithmic Trading Strategies](https://github.com/topics/algorithmic-trading) 
+   GitHub offers open-source code and resources for building algorithmic trading strategies, many of which [factor](/wiki/factor-investing) in profit margins as part of their decision-making processes: [GitHub: Algorithmic Trading Strategies](https://github.com/topics/algorithmic-trading) 
 
 Readers seeking to deepen their understanding of profit margins and algorithmic trading are encouraged to explore these resources for further information.
 

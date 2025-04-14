@@ -18,7 +18,7 @@ The yield on a Treasury bond changes based on several factors, including the bon
 
 Treasury yields are figured out by looking at the bond's price and how much it will pay when it matures. If you buy a bond for less than its face value, you can earn more than the bond's interest rate because you'll get the full face value back when it matures. For example, if you buy a $1,000 bond for $950, you'll get $1,000 back, making a $50 profit plus any interest the bond pays.
 
-The most common way to calculate a Treasury yield is using the yield to maturity (YTM) formula. This formula takes into account the bond's current market price, its face value, the coupon interest rate, and the time until the bond matures. It gives you the total return you can expect if you hold the bond until it matures. The calculation can be a bit tricky, but it helps investors understand what they might earn from their investment over time.
+The most common way to calculate a Treasury yield is using the yield to maturity (YTM) formula. This formula takes into account the bond's current market price, its face value, the coupon [interest rate](/wiki/interest-rate-trading-strategies), and the time until the bond matures. It gives you the total return you can expect if you hold the bond until it matures. The calculation can be a bit tricky, but it helps investors understand what they might earn from their investment over time.
 
 ## What are the different types of Treasury securities?
 

@@ -23,7 +23,7 @@ The way a Decision Forest works is by training each tree on a random piece of th
 
 ## What are the main components of a Decision Forest?
 
-A Decision Forest is made up of many decision trees working together. Each tree in the forest is like a small decision maker that looks at different pieces of the data. When you build a Decision Forest, you start by picking random parts of your data and random features to train each tree. This randomness helps make sure that each tree is a bit different from the others, which is important for getting good results. By having lots of trees, the forest can see the problem from many different angles and make better predictions.
+A Decision Forest is made up of many decision trees working together. Each tree in the forest is like a small decision maker that looks at different pieces of the data. When you build a Decision Forest, you start by [picking](/wiki/asset-class-picking) random parts of your data and random features to train each tree. This randomness helps make sure that each tree is a bit different from the others, which is important for getting good results. By having lots of trees, the forest can see the problem from many different angles and make better predictions.
 
 When it's time to use the Decision Forest to make a prediction, it takes the guesses from all the trees and combines them. For example, if you're trying to guess whether someone will buy a product, each tree will give its own guess, and the forest will take a vote. If most of the trees say "yes," then the forest will predict "yes." This way of combining many small guesses into one big guess helps the forest be more accurate and reliable than just using one tree. It's like getting advice from a group of experts instead of just one person.
 
@@ -35,7 +35,7 @@ Once all the trees are trained, the Decision Forest is ready to make predictions
 
 ## What are the advantages of using a Decision Forest over other machine learning models?
 
-One big advantage of using a Decision Forest over other machine learning models is that it's really good at handling complex data. Decision Forests can look at many different parts of your data at the same time. This means they can find patterns that other models might miss. For example, if you're trying to predict if someone will buy a product, a Decision Forest can consider things like their age, income, and shopping habits all together. This makes the predictions more accurate because the forest sees the big picture.
+One big advantage of using a Decision Forest over other [machine learning](/wiki/machine-learning) models is that it's really good at handling complex data. Decision Forests can look at many different parts of your data at the same time. This means they can find patterns that other models might miss. For example, if you're trying to predict if someone will buy a product, a Decision Forest can consider things like their age, income, and shopping habits all together. This makes the predictions more accurate because the forest sees the big picture.
 
 Another advantage is that Decision Forests are less likely to overfit. Overfitting happens when a model learns too much from the training data and doesn't work well on new data. Because a Decision Forest uses many trees, each looking at different pieces of the data, it's less likely to make this mistake. The forest takes a vote from all the trees, so even if one tree is off, the others can help correct it. This makes Decision Forests more reliable and better at making predictions on new data.
 

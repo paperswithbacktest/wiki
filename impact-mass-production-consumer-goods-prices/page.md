@@ -82,7 +82,7 @@ Another trend is the use of computers and data to make mass production better. C
 
 ## What are the differences and similarities between Mass Production and Algorithmic Trading according to a comparative analysis?
 
-Mass production and algorithmic trading are two distinct yet influential factors affecting the pricing of consumer goods. Each operates with different objectives and mechanisms, yet both significantly impact market dynamics.
+Mass production and [algorithmic trading](/wiki/algorithmic-trading) are two distinct yet influential factors affecting the pricing of consumer goods. Each operates with different objectives and mechanisms, yet both significantly impact market dynamics.
 
 Mass production is characterized by the large-scale manufacturing of goods, aiming to achieve cost-effectiveness by producing high volumes. This approach leverages economies of scale, reducing the cost per unit as production increases. The principle of economies of scale can be mathematically represented by decreasing average costs (AC) as output (Q) increases, usually depicted as:
 

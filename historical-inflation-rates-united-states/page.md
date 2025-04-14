@@ -116,5 +116,5 @@ For those interested in a detailed exploration of inflation and trading, several
 
 5. **Online Courses and Lectures**: Numerous universities and platforms offer courses on economics, monetary policy, and algorithmic trading. These often include comprehensive modules on inflation's impact on economic stability and trading strategies. Platforms like Coursera and edX host lectures from prestigious institutions that cover these topics in detail.
 
-These resources provide foundational knowledge and advanced insights, enabling readers to better comprehend the dynamics of inflation and its role in the evolving landscape of algorithmic trading and economic policy development.
+These resources provide foundational knowledge and advanced insights, enabling readers to better comprehend the dynamics of inflation and its role in the evolving landscape of [algorithmic trading](/wiki/algorithmic-trading) and economic policy development.
 

@@ -50,7 +50,7 @@ Regular investors, like you and me, can also take part in the OTC bond market. W
 
 An individual investor can access the OTC bond market by working with a broker or a financial advisor. These professionals have the tools and connections to help you find and trade bonds that are not listed on big exchanges. You can reach out to a brokerage firm, either online or in person, and tell them what kind of bonds you're interested in. They will then search the OTC market to find a seller who has the bonds you want, and help you make the trade.
 
-It's important for individual investors to do their homework before jumping into the OTC bond market. Since there's less information available compared to trading on an exchange, you'll need to research the bonds you're thinking about buying. Look into the creditworthiness of the bond issuer, the interest rate, and how easy it might be to sell the bond later if you need to. By being careful and working with a trusted broker, you can navigate the OTC bond market and find opportunities that fit your investment goals.
+It's important for individual investors to do their homework before jumping into the OTC bond market. Since there's less information available compared to trading on an exchange, you'll need to research the bonds you're thinking about buying. Look into the creditworthiness of the bond issuer, the [interest rate](/wiki/interest-rate-trading-strategies), and how easy it might be to sell the bond later if you need to. By being careful and working with a trusted broker, you can navigate the OTC bond market and find opportunities that fit your investment goals.
 
 ## What are the key considerations when choosing a bond to trade OTC?
 

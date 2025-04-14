@@ -34,11 +34,11 @@ In quantitative finance, people use a lot of different tools and technologies to
 
 Another important technology in quant finance is high-performance computing. This means using powerful computers to do a lot of math really fast. Quants need this because they often work with huge amounts of data and need to run their models many times to get the best results. They also use databases to store and manage all this data, and they might use cloud computing to have even more power to work with.
 
-Lastly, quants use machine learning and artificial intelligence to make their models better. These technologies can find patterns in data that are hard for people to see. They can also learn from new data and get better over time. This helps quants make more accurate predictions about what might happen in the financial markets.
+Lastly, quants use [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence) to make their models better. These technologies can find patterns in data that are hard for people to see. They can also learn from new data and get better over time. This helps quants make more accurate predictions about what might happen in the financial markets.
 
 ## What is the role of statistics in quantitative finance?
 
-Statistics plays a big role in quantitative finance. It helps quants understand and work with data. They use statistics to look at past information about markets and prices. This helps them see patterns and trends. For example, they might use averages to understand what usually happens, or standard deviations to see how much prices might change. By using statistics, quants can make better guesses about what might happen in the future.
+Statistics plays a big role in quantitative finance. It helps quants understand and work with data. They use [statistics](/wiki/bayesian-statistics) to look at past information about markets and prices. This helps them see patterns and trends. For example, they might use averages to understand what usually happens, or standard deviations to see how much prices might change. By using statistics, quants can make better guesses about what might happen in the future.
 
 Another way statistics is important in quant finance is through risk management. Quants use statistical methods to figure out how risky an investment might be. They look at things like how often prices go up or down and by how much. This helps them decide if an investment is worth making. Without statistics, it would be much harder for quants to understand and manage the risks in the financial world.
 
@@ -50,11 +50,11 @@ Once a model is developed, it needs to be validated to make sure it's accurate a
 
 ## What are some common quantitative strategies used in trading?
 
-In trading, one common quantitative strategy is called statistical arbitrage. This strategy looks for small differences in the prices of related assets, like two stocks from the same company. Quants use math to find these differences and then buy the cheaper asset while selling the more expensive one. They hope to make a profit when the prices come back together. This strategy needs a lot of data and fast computers to work well.
+In trading, one common quantitative strategy is called statistical [arbitrage](/wiki/arbitrage). This strategy looks for small differences in the prices of related assets, like two stocks from the same company. Quants use math to find these differences and then buy the cheaper asset while selling the more expensive one. They hope to make a profit when the prices come back together. This strategy needs a lot of data and fast computers to work well.
 
 Another popular strategy is called mean reversion. This strategy is based on the idea that prices will go back to their average over time. Quants use statistics to find assets that have moved away from their usual price and then bet that they will move back. For example, if a stock usually trades at $50 but is now at $45, a quant might buy it, expecting it to go back to $50. This strategy can be good for making steady profits but needs careful analysis to work right.
 
-A third strategy is momentum trading. This is when quants look for assets that are moving in a strong direction, either up or down. They use data to find these trends and then buy or sell based on where the price is going. The idea is to ride the trend until it stops. Momentum trading can be exciting but also risky because trends can change quickly. Quants use math to try to predict when a trend might end, but it's never certain.
+A third strategy is [momentum](/wiki/momentum) trading. This is when quants look for assets that are moving in a strong direction, either up or down. They use data to find these trends and then buy or sell based on where the price is going. The idea is to ride the trend until it stops. Momentum trading can be exciting but also risky because trends can change quickly. Quants use math to try to predict when a trend might end, but it's never certain.
 
 ## How does risk management work in quantitative finance?
 
@@ -76,7 +76,7 @@ Even though it can be challenging, regulatory frameworks also help quants by mak
 
 ## What are the career paths and skills required in quantitative finance?
 
-In quantitative finance, there are many different jobs you can do. Some people work as quantitative analysts, or "quants," who build math models to predict how markets will move. Others might be risk managers, who use these models to figure out how safe an investment is. There are also roles like algorithmic traders, who use computers to buy and sell things quickly, and data scientists, who look at big sets of information to find useful patterns. Working in a big bank, a hedge fund, or even starting your own company are all possible career paths in this field.
+In quantitative finance, there are many different jobs you can do. Some people work as quantitative analysts, or "quants," who build math models to predict how markets will move. Others might be risk managers, who use these models to figure out how safe an investment is. There are also roles like algorithmic traders, who use computers to buy and sell things quickly, and data scientists, who look at big sets of information to find useful patterns. Working in a big bank, a [hedge fund](/wiki/hedge-fund-trading-strategies), or even starting your own company are all possible career paths in this field.
 
 To do well in quantitative finance, you need to be good at math and computer skills. You should know about things like probability, statistics, and calculus, because these are used a lot in building models. Being able to code in languages like Python or R is also important, as you'll need to write programs to analyze data and run your models. On top of that, it helps to be good at solving problems and thinking in a logical way. While a strong background in finance can be useful, many people in quant finance come from fields like math, physics, or engineering, and learn the finance part as they go.
 
@@ -84,7 +84,7 @@ To do well in quantitative finance, you need to be good at math and computer ski
 
 Right now, one big trend in quantitative finance is the use of machine learning and artificial intelligence. These technologies help quants find patterns in big sets of data that are hard to see with just human eyes. They can make predictions more accurate and help quants make better investment choices. AI can also learn from new data over time, so the models get better and better. This is really helpful in a world where markets change quickly. Another trend is the focus on risk management. With more complex financial products and faster markets, quants are using advanced methods to understand and control risks better. This helps them make safer investments and protect against big losses.
 
-Looking to the future, quantitative finance is likely to keep using more advanced technology. We might see even more use of AI and machine learning, maybe even with things like deep learning and neural networks. These could help quants make even better models and predictions. Another direction is the use of big data. As more information becomes available, quants will have even more to work with, which could lead to new ways of understanding the market. Finally, regulations will keep playing a big role. As rules change, quants will need to adapt their methods to stay compliant while still finding new ways to make money.
+Looking to the future, quantitative finance is likely to keep using more advanced technology. We might see even more use of AI and machine learning, maybe even with things like [deep learning](/wiki/deep-learning) and neural networks. These could help quants make even better models and predictions. Another direction is the use of big data. As more information becomes available, quants will have even more to work with, which could lead to new ways of understanding the market. Finally, regulations will keep playing a big role. As rules change, quants will need to adapt their methods to stay compliant while still finding new ways to make money.
 
 ## References & Further Reading
 

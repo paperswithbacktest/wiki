@@ -18,7 +18,7 @@ Overall, the Peter Lynch strategy is about being patient and doing your research
 
 ## Who is Peter Lynch and why is his strategy important?
 
-Peter Lynch is a famous investor who used to manage the Fidelity Magellan Fund. He became very well-known because he did a great job at picking stocks and making money for the people who invested in his fund. Lynch believed that anyone could be good at investing if they did their homework and understood the companies they were investing in. He wrote books about his methods, and many people still follow his advice today.
+Peter Lynch is a famous investor who used to manage the Fidelity Magellan Fund. He became very well-known because he did a great job at [picking](/wiki/asset-class-picking) stocks and making money for the people who invested in his fund. Lynch believed that anyone could be good at investing if they did their homework and understood the companies they were investing in. He wrote [books](/wiki/algo-trading-books) about his methods, and many people still follow his advice today.
 
 Lynch's strategy is important because it's simple and it works. He taught people to invest in companies they know and understand, which makes it easier for everyday people to pick good stocks. His approach focuses on finding companies that are growing, making money, and are a good value. By holding onto these stocks for a long time, Lynch showed that you can build wealth slowly and steadily. His ideas are still popular because they help people feel more confident about investing and can lead to good results over time.
 
@@ -50,7 +50,7 @@ The PEG ratio is significant in Lynch's strategy because it helps him balance gr
 
 Fundamental analysis is very important in Peter Lynch's way of picking stocks. He looks at a company's financials to see if it's a good investment. This means checking things like how fast the company's earnings are growing, how much debt it has, and if it's making money. Lynch also pays attention to the price-to-earnings ratio and the PEG ratio to see if the stock is a good value. By doing this, he can find companies that are growing and doing well but are not too expensive.
 
-Lynch believes that understanding a company's fundamentals helps him make smart choices. He doesn't just look at the stock price; he wants to know if the company is strong and has a good future. This helps him find stocks that might grow a lot over time. By using fundamental analysis, Lynch can spot good companies early and hold onto them for the long term, which is a big part of his successful investment strategy.
+Lynch believes that understanding a company's fundamentals helps him make smart choices. He doesn't just look at the stock price; he wants to know if the company is strong and has a good future. This helps him find stocks that might grow a lot over time. By using [fundamental analysis](/wiki/fundamental-analysis), Lynch can spot good companies early and hold onto them for the long term, which is a big part of his successful investment strategy.
 
 ## Can you explain the concept of 'tenbaggers' in Peter Lynch's terminology?
 

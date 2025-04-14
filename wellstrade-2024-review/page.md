@@ -28,7 +28,7 @@ For people who want to invest for their future, WellsTrade has retirement accoun
 
 ## What are the fees associated with using WellsTrade?
 
-WellsTrade charges some fees for using their service. They have a fee of $0.65 for every stock or ETF trade you make. If you trade options, it costs $0.65 plus $0.15 for each contract. There are no fees for buying or selling mutual funds, but if you want to move your money out of a mutual fund, it might cost you $49.95. Also, if you need to talk to someone at WellsTrade for help with your account, it might cost you $25 for each call.
+WellsTrade charges some fees for using their service. They have a fee of $0.65 for every stock or [ETF](/wiki/etf-trading-strategies) trade you make. If you trade options, it costs $0.65 plus $0.15 for each contract. There are no fees for buying or selling mutual funds, but if you want to move your money out of a mutual fund, it might cost you $49.95. Also, if you need to talk to someone at WellsTrade for help with your account, it might cost you $25 for each call.
 
 Some other fees you might see are for things like transferring your account to another broker, which costs $49.95. If you don't use your account for a long time, WellsTrade might charge you an inactivity fee of $25 every year. But, if you keep at least $100,000 in your account, you won't have to pay this fee. It's good to know these fees so you can plan how much it might cost to use WellsTrade.
 
@@ -58,7 +58,7 @@ There are other ways to get help too. You can use the WellsTrade website to find
 
 ## What are the security measures implemented by WellsTrade to protect user data and funds?
 
-WellsTrade takes security very seriously to keep your money and information safe. They use strong encryption to protect your data when you're using their website or app. This means that your personal information and your account details are turned into a secret code that's hard for bad people to crack. They also have something called two-factor authentication. This means that when you log in, you need to enter a special code sent to your phone, which makes it much harder for someone else to get into your account.
+WellsTrade takes security very seriously to keep your money and information safe. They use strong encryption to protect your data when you're using their website or app. This means that your personal information and your account details are turned into a secret code that's hard for bad people to crack. They also have something called two-[factor](/wiki/factor-investing) authentication. This means that when you log in, you need to enter a special code sent to your phone, which makes it much harder for someone else to get into your account.
 
 WellsTrade also watches your account all the time to make sure nothing strange is happening. If they see something that doesn't look right, like someone trying to log in from a new place, they might ask you to check it's really you. They keep your money safe by using something called SIPC insurance. This means if WellsTrade ever has big problems, your investments are protected up to $500,000. So, you can feel safe knowing that WellsTrade is working hard to keep your money and information secure.
 
@@ -66,7 +66,7 @@ WellsTrade also watches your account all the time to make sure nothing strange i
 
 WellsTrade is a good choice for people who are new to investing and want a simple platform. It's easy to use because the website and app are not too complicated. You can buy and sell stocks, ETFs, and other investments without a lot of fuss. The fees are low, like $0.65 for each stock trade, which is good for beginners. But, if you're an experienced investor who trades a lot, you might find other platforms that offer more tools and even lower fees. For example, platforms like Robinhood or E*TRADE have more advanced features and might be better if you want to do more with your investments.
 
-Compared to other platforms, WellsTrade doesn't have as many advanced tools. If you want to do things like day trading or use a lot of different charts and graphs, you might be happier with a platform like TD Ameritrade or Charles Schwab. These platforms have more features that can help you make better decisions about your investments. But, WellsTrade makes up for this by being very easy to use and by working well with Wells Fargo bank accounts. If you already bank with Wells Fargo, it's easy to move money between your bank and investment accounts, which can be a big plus.
+Compared to other platforms, WellsTrade doesn't have as many advanced tools. If you want to do things like [day trading](/wiki/day-trading-spy) or use a lot of different charts and graphs, you might be happier with a platform like TD Ameritrade or Charles Schwab. These platforms have more features that can help you make better decisions about your investments. But, WellsTrade makes up for this by being very easy to use and by working well with Wells Fargo bank accounts. If you already bank with Wells Fargo, it's easy to move money between your bank and investment accounts, which can be a big plus.
 
 ## What advanced trading tools does WellsTrade offer for expert traders?
 

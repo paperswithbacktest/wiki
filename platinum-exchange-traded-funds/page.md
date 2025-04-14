@@ -18,7 +18,7 @@ Investing in a Platinum ETF can be a good way to diversify your investment portf
 
 A Platinum ETF works by holding platinum or platinum-related assets and then issuing shares that represent a portion of those holdings. When you buy shares of a Platinum ETF, you're essentially buying a small piece of the platinum that the fund owns. The price of the ETF's shares goes up and down based on the market price of platinum. This means if the price of platinum goes up, the value of your ETF shares will likely go up too, and if the price of platinum goes down, the value of your shares will likely go down.
 
-The ETF is managed by a company that takes care of buying and storing the platinum, so you don't have to worry about the logistics of owning physical metal. You can buy and sell shares of the ETF on a stock exchange just like you would with any other stock. This makes it easy to invest in platinum without having to deal with the challenges of storing and securing the metal yourself. Plus, because the ETF trades like a stock, you can quickly respond to changes in the platinum market by buying or selling your shares during trading hours.
+The [ETF](/wiki/etf-trading-strategies) is managed by a company that takes care of buying and storing the platinum, so you don't have to worry about the logistics of owning physical metal. You can buy and sell shares of the ETF on a stock exchange just like you would with any other stock. This makes it easy to invest in platinum without having to deal with the challenges of storing and securing the metal yourself. Plus, because the ETF trades like a stock, you can quickly respond to changes in the platinum market by buying or selling your shares during trading hours.
 
 ## What are the benefits of investing in a Platinum ETF?
 
@@ -30,7 +30,7 @@ Another benefit is that Platinum ETFs can help protect your money from inflation
 
 One risk of investing in Platinum ETFs is that the price of platinum can go up and down a lot. This means if you buy shares when the price is high and it goes down, you could lose money. Platinum's price can change because of things like how much people want it for making cars or jewelry, or because of big events happening around the world. So, it's important to be ready for these ups and downs.
 
-Another risk is that Platinum ETFs can be affected by the costs of running the fund. These costs, called expense ratios, are taken out of the fund's money, which can make your investment worth less over time. Also, if not many people are buying or selling the ETF, it might be hard to sell your shares quickly when you want to. This is called low liquidity, and it can make it harder to get your money out when you need it.
+Another risk is that Platinum ETFs can be affected by the costs of running the fund. These costs, called expense ratios, are taken out of the fund's money, which can make your investment worth less over time. Also, if not many people are buying or selling the ETF, it might be hard to sell your shares quickly when you want to. This is called low [liquidity](/wiki/liquidity-risk-premium), and it can make it harder to get your money out when you need it.
 
 ## How can one start investing in Platinum ETFs?
 
@@ -40,7 +40,7 @@ After you have money in your account, you can search for a Platinum ETF. You can
 
 ## What factors influence the price of platinum and, consequently, Platinum ETFs?
 
-The price of platinum, and therefore Platinum ETFs, can be influenced by many things. One big factor is how much people want platinum for making things. Platinum is used a lot in making cars, especially for parts that help clean the air coming out of the exhaust. If more cars are being made, the demand for platinum goes up, and so does its price. Platinum is also used in jewelry, so if people want to buy more jewelry, that can push the price up too.
+The price of platinum, and therefore Platinum ETFs, can be influenced by many things. One big [factor](/wiki/factor-investing) is how much people want platinum for making things. Platinum is used a lot in making cars, especially for parts that help clean the air coming out of the exhaust. If more cars are being made, the demand for platinum goes up, and so does its price. Platinum is also used in jewelry, so if people want to buy more jewelry, that can push the price up too.
 
 Another thing that can change the price of platinum is what's happening around the world. If there are problems in countries that mine a lot of platinum, like South Africa, it can be harder to get, and the price might go up. Also, if the value of money goes down because of inflation, people might want to buy more platinum to keep their money safe, which can make the price go up. On the other hand, if there's a big economic problem, people might not want to buy as much platinum, and the price could go down.
 

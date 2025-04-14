@@ -66,7 +66,7 @@ Another challenge is keeping track of how often and how much they give out. If a
 
 The De Minimis Tax Rule has changed a lot over time. In the beginning, it was mostly about small gifts and perks for employees. But as more people started shopping online, countries began using the rule for international shipments too. This helped make it easier and cheaper to send small packages across borders. Over the years, countries have changed their de minimis thresholds to keep up with inflation and changes in how people buy things.
 
-Today, one big trend is that more countries are looking at their de minimis thresholds to see if they need to be updated. This is because online shopping has grown a lot, and countries want to make sure their rules still make sense. Another trend is that some countries are thinking about how to apply the rule to digital goods, like e-books and software. This is tricky because digital goods don't have the same kind of value as physical items, but countries still want to keep things fair and simple for everyone.
+Today, one big trend is that more countries are looking at their de minimis thresholds to see if they need to be updated. This is because online shopping has grown a lot, and countries want to make sure their rules still make sense. Another trend is that some countries are thinking about how to apply the rule to digital goods, like e-[books](/wiki/algo-trading-books) and software. This is tricky because digital goods don't have the same kind of value as physical items, but countries still want to keep things fair and simple for everyone.
 
 ## What are the implications of the De Minimis Tax Rule on global e-commerce?
 
@@ -103,7 +103,7 @@ $$
 
 $$
 
-Understanding this cut-off is crucial for traders, as purchasing the bond at or below this price allows for any discount to be taxed as a capital gain. Given that capital gains generally receive more favorable tax treatment compared to ordinary income, this optimization can improve overall tax efficiency when trading in bond markets. For professionals engaging in algorithmic trading, ensuring that systems are programmed to perform these calculations during trade execution can aid in maximizing post-tax returns.
+Understanding this cut-off is crucial for traders, as purchasing the bond at or below this price allows for any discount to be taxed as a capital gain. Given that capital gains generally receive more favorable tax treatment compared to ordinary income, this optimization can improve overall tax efficiency when trading in bond markets. For professionals engaging in [algorithmic trading](/wiki/algorithmic-trading), ensuring that systems are programmed to perform these calculations during trade execution can aid in maximizing post-tax returns.
 
 ## What are some case studies and examples?
 

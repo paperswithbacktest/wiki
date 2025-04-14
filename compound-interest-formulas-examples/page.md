@@ -18,7 +18,7 @@ Let's say you put $100 in a bank account that gives you 10% interest every year.
 
 Compound interest and simple interest are two different ways to earn money from your savings. With simple interest, you earn money only on the amount you originally put into the bank. For example, if you save $100 and the bank gives you 5% simple interest each year, you'll earn $5 every year, no matter how long your money stays in the bank.
 
-On the other hand, compound interest lets you earn money on both your original savings and the interest you've already earned. Using the same example, if you save $100 and the bank gives you 5% compound interest each year, after the first year you'll have $105. In the second year, you'll earn 5% on $105, so you'll have $110.25. Over time, the amount you earn with compound interest grows faster than with simple interest because you're earning interest on a bigger amount each time.
+On the other hand, compound interest lets you earn money on both your original savings and the interest you've already earned. Using the same example, if you save $100 and the bank gives you 5% compound interest each year, after the first year you'll have $105. In the second year, you'll earn 5% on $105, so you'll have $110.25. Over time, the amount you earn with compound interest grows faster than with simple interest because you're [earning](/wiki/earning-announcement) interest on a bigger amount each time.
 
 ## What is the basic formula for calculating compound interest?
 

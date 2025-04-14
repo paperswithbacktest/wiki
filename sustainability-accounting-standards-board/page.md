@@ -22,7 +22,7 @@ SASB works to make it easier for companies to talk about environmental, social, 
 
 ## What is the main purpose of the SASB?
 
-The main purpose of the Sustainability Accounting Standards Board (SASB) is to help companies tell investors about important environmental, social, and governance (ESG) issues. SASB gives companies guidelines on what to talk about and how to do it clearly. This helps investors understand how these issues might affect a company's money and future.
+The main purpose of the Sustainability Accounting Standards Board (SASB) is to help companies tell investors about important environmental, social, and governance ([ESG](/wiki/esg-investing)) issues. SASB gives companies guidelines on what to talk about and how to do it clearly. This helps investors understand how these issues might affect a company's money and future.
 
 By following SASB's standards, companies can show investors that they care about sustainability and managing risks related to ESG factors. This can help investors make better decisions about where to put their money. SASB focuses on issues that can impact a company's financial performance, like energy use or how it treats workers.
 
@@ -82,7 +82,7 @@ When more companies use SASB standards, it helps the whole world move towards be
 
 ## How can SASB Standards be integrated with Algorithmic Trading?
 
-The integration of Sustainability Accounting Standards Board (SASB) standards into algorithmic trading models represents a significant advancement in sustainable finance. SASB standards provide a structured framework for identifying, managing, and reporting on sustainability factors that are financially material to a company's performance. By embedding these standards into trading algorithms, investors can make more informed decisions that align with both financial performance goals and sustainability objectives.
+The integration of Sustainability Accounting Standards Board (SASB) standards into [algorithmic trading](/wiki/algorithmic-trading) models represents a significant advancement in sustainable finance. SASB standards provide a structured framework for identifying, managing, and reporting on sustainability factors that are financially material to a company's performance. By embedding these standards into trading algorithms, investors can make more informed decisions that align with both financial performance goals and sustainability objectives.
 
 SASB standards focus on industry-specific metrics that are crucial for sustainability assessment. Algorithmic trading models can incorporate these metrics by transforming qualitative ESG (Environmental, Social, and Governance) factors into quantifiable data points that are conducive to algorithmic analysis. For instance, algorithms can be programmed to evaluate a company's carbon emissions, water usage, labor practices, or governance policies based on SASB standards, assigning scores or weights to each [factor](/wiki/factor-investing) according to their materiality.
 

@@ -30,7 +30,7 @@ The type of stock option, whether it's an incentive stock option (ISO) or a non-
 
 The value of a stock option depends on a few things. The main thing is the difference between the stock's current market price and the exercise price of the option. If the market price is higher than the exercise price, the option has what's called "intrinsic value." For example, if the exercise price is $10 and the market price is $15, the intrinsic value is $5 per share. But the option might also have "time value," which is the chance that the stock price could go up even more before the option expires. The longer the option has until it expires, the more time value it has.
 
-There are also other things that affect the value of an option, like how much the stock price might move around (called volatility), the time left until the option expires, and interest rates. If the stock price moves around a lot, the option could be worth more because there's a bigger chance it will go above the exercise price. Also, the more time left until the option expires, the more valuable it can be because there's more time for the stock price to go up. Interest rates can also play a small role, but they're usually not as important as the other factors. To figure out the total value of an option, you add up the intrinsic value and the time value, considering all these other factors.
+There are also other things that affect the value of an option, like how much the stock price might move around (called [volatility](/wiki/volatility-trading-strategies)), the time left until the option expires, and interest rates. If the stock price moves around a lot, the option could be worth more because there's a bigger chance it will go above the exercise price. Also, the more time left until the option expires, the more valuable it can be because there's more time for the stock price to go up. Interest rates can also play a small role, but they're usually not as important as the other factors. To figure out the total value of an option, you add up the intrinsic value and the time value, considering all these other factors.
 
 ## What is the difference between intrinsic value and time value in options?
 
@@ -84,7 +84,7 @@ ISOs have different tax rules. When you use ISOs to buy stock, you don't have to
 
 ## What are the key trading parameters for stock options?
 
-Trading parameters form the backbone of any algorithmic trading system, serving as critical components that dictate the execution and success of trading strategies. In the context of stock options, these parameters become even more significant due to the complexity and variety of contracts available.
+Trading parameters form the backbone of any [algorithmic trading](/wiki/algorithmic-trading) system, serving as critical components that dictate the execution and success of trading strategies. In the context of stock options, these parameters become even more significant due to the complexity and variety of contracts available.
 
 **Volatility** is a crucial parameter for stock options trading, providing insights into the expected price fluctuations of the underlying asset. It forms the basis for pricing options, with the most common measure being implied volatility. Implied volatility reflects the market's view of future volatility and is derived from the price of options using models like the Black-Scholes formula. Traders often rely on the Volatility Index (VIX) to gauge market expectations of future volatility.
 

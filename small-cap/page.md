@@ -72,7 +72,7 @@ One good way to invest in small cap stocks is to do a lot of research. Look at t
 
 Another strategy is to use a diversified approach. Instead of putting all your money into one small cap stock, you can spread it out over several different small cap stocks. This can help you balance out the risk and reward. If one stock doesn't do well, the others might make up for it. You can also mix small cap stocks with other types of investments, like big company stocks or bonds. This can help you spread out your risk even more. By having a mix of different investments, you can protect yourself from big losses and still have a chance to make big gains.
 
-Lastly, consider using a small cap index fund or ETF. These funds invest in a lot of different small cap stocks, which can help you spread out your risk. They are also managed by professionals who do the research for you. This can be a good way to invest in small cap stocks if you don't have a lot of time to do your own research. But remember, even with a fund, small cap stocks can still be risky. So, think about how much risk you are willing to take and how long you plan to keep your money invested.
+Lastly, consider using a small cap index fund or [ETF](/wiki/etf-trading-strategies). These funds invest in a lot of different small cap stocks, which can help you spread out your risk. They are also managed by professionals who do the research for you. This can be a good way to invest in small cap stocks if you don't have a lot of time to do your own research. But remember, even with a fund, small cap stocks can still be risky. So, think about how much risk you are willing to take and how long you plan to keep your money invested.
 
 ## How do market conditions affect small cap stocks?
 

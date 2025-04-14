@@ -28,7 +28,7 @@ These regulations help make sure that investors get a fair deal. When brokers kn
 
 ## What factors contribute to achieving best execution?
 
-Achieving best execution involves looking at many different things. One important factor is the price of the stock. Brokers need to check different places where they can buy or sell the stock to find the best price. They also need to think about how fast they can make the trade. If it takes too long, the price might change, and they might not get the best deal. Another thing to consider is how likely the trade is to go through. If it's not very likely, it might not be worth trying to make the trade at that price.
+Achieving best execution involves looking at many different things. One important [factor](/wiki/factor-investing) is the price of the stock. Brokers need to check different places where they can buy or sell the stock to find the best price. They also need to think about how fast they can make the trade. If it takes too long, the price might change, and they might not get the best deal. Another thing to consider is how likely the trade is to go through. If it's not very likely, it might not be worth trying to make the trade at that price.
 
 Another factor is the size of the trade. Big trades can affect the price of the stock, so brokers need to be careful about how they handle them. They might need to break the trade into smaller parts to get the best price. The type of order can also make a difference. Some orders, like market orders, happen right away, while others, like limit orders, wait for a certain price. Each type of order can affect how well a broker can get the best price. By thinking about all these things, brokers can do their best to get the best price for their clients.
 
@@ -110,7 +110,7 @@ Algorithmic trading requires careful evaluation of several factors to achieve be
 
 **Price Opportunities and Beyond**
 
-Misconceptions persist around the idea that achieving the best market price equates to achieving best execution. In reality, relying solely on market price overlooks the critical aspects of how quickly and likely the order is executed, especially in volatile market conditions. For example, obtaining a favorable price is futile if the transaction cannot be completed in due time due to technological or liquidity constraints.
+Misconceptions persist around the idea that achieving the best market price equates to achieving best execution. In reality, relying solely on market price overlooks the critical aspects of how quickly and likely the order is executed, especially in volatile market conditions. For example, obtaining a favorable price is futile if the transaction cannot be completed in due time due to technological or [liquidity](/wiki/liquidity-risk-premium) constraints.
 
 **Strategic Execution Algorithms**
 

@@ -40,7 +40,7 @@ In addition to stocks, a Quality Opportunity Fund might also hold some cash or c
 
 ## What are the potential benefits of investing in a Quality Opportunity Fund?
 
-Investing in a Quality Opportunity Fund can help your money grow over time. The fund picks companies that are well-managed and have a good track record of making profits. This means your investment has a better chance of going up in value because the fund is focusing on strong, stable companies. If you're looking for a way to invest your money without picking individual stocks yourself, a Quality Opportunity Fund can be a good choice.
+Investing in a Quality Opportunity Fund can help your money grow over time. The fund picks companies that are well-managed and have a good track record of making profits. This means your investment has a better chance of going up in value because the fund is focusing on strong, stable companies. If you're looking for a way to invest your money without [picking](/wiki/asset-class-picking) individual stocks yourself, a Quality Opportunity Fund can be a good choice.
 
 Another benefit is that the fund spreads the risk for you. Instead of putting all your money into one or two companies, the fund invests in a variety of quality companies. This way, if one company doesn't do well, it won't hurt your whole investment as much. It's like not putting all your eggs in one basket. This can make investing feel safer and more stable, which is good if you want to grow your money without taking big risks.
 

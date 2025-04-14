@@ -54,7 +54,7 @@ To lower these risks, you can do a few things. First, do a lot of research befor
 
 To determine entry points in pairs trading, you need to watch the spread or ratio between the two stocks you are trading. When the spread gets bigger or the ratio moves away from its normal range, it might be a good time to start a trade. For example, if Coca-Cola and Pepsi usually have a price ratio of around 1, but it suddenly goes to 1.2, you might decide to buy Coca-Cola and sell Pepsi. The idea is to enter the trade when the stocks are far apart from each other, because you expect them to move back together.
 
-To figure out when to exit a pairs trade, you need to watch the spread or ratio again. You want to close your trade when the stocks move back to their normal relationship. If you bought Coca-Cola and sold Pepsi when the ratio was 1.2, you might decide to close the trade when the ratio goes back to 1. This means selling Coca-Cola and buying back Pepsi. The goal is to make a profit from the difference in their prices as they move back together. Keep an eye on the market and be ready to exit if the stocks don't move back as expected, to avoid losing money.
+To figure out when to [exit](/wiki/exit-strategy) a pairs trade, you need to watch the spread or ratio again. You want to close your trade when the stocks move back to their normal relationship. If you bought Coca-Cola and sold Pepsi when the ratio was 1.2, you might decide to close the trade when the ratio goes back to 1. This means selling Coca-Cola and buying back Pepsi. The goal is to make a profit from the difference in their prices as they move back together. Keep an eye on the market and be ready to exit if the stocks don't move back as expected, to avoid losing money.
 
 ## What are some advanced strategies for optimizing pairs trading?
 
@@ -66,7 +66,7 @@ Another strategy is to use machine learning to find better pairs for trading. Ma
 
 Historical data can help you find good pairs for trading by looking at how stocks moved in the past. You can see if two stocks usually go up and down together. If they do, they might be good to trade together. You can also use historical data to figure out the normal spread or ratio between the two stocks. This helps you know when the stocks are far apart and it might be a good time to start a trade. By looking at the past, you can make better guesses about what might happen in the future.
 
-You can also use historical data to test your trading ideas before you start trading for real. This is called backtesting. You can pretend to trade using old data to see if your strategy would have made money. If it did, you might feel more sure about using it in the real market. If it didn't, you can change your strategy to make it better. Using historical data this way can help you make smarter trades and avoid losing money.
+You can also use historical data to test your trading ideas before you start trading for real. This is called [backtesting](/wiki/backtesting). You can pretend to trade using old data to see if your strategy would have made money. If it did, you might feel more sure about using it in the real market. If it didn't, you can change your strategy to make it better. Using historical data this way can help you make smarter trades and avoid losing money.
 
 ## What role does market neutrality play in pairs trading?
 
@@ -82,7 +82,7 @@ Another way to evaluate your pairs trading strategy is by looking at how often y
 
 ## What is Understanding Pair Trading?
 
-Pair trading, also known as [statistical arbitrage](/wiki/statistical-arbitrage), is a prominent trading strategy that focuses on the dynamics between two correlated assets. In this approach, a trader takes a long position in one asset while concurrently taking a short position in another. The primary objective is to capitalize on the convergence of the price spread between these two assets, exploiting temporary market inefficiencies.
+Pair trading, also known as [statistical [arbitrage](/wiki/arbitrage)](/wiki/statistical-arbitrage), is a prominent trading strategy that focuses on the dynamics between two correlated assets. In this approach, a trader takes a long position in one asset while concurrently taking a short position in another. The primary objective is to capitalize on the convergence of the price spread between these two assets, exploiting temporary market inefficiencies.
 
 At its core, pair trading is based on the principle of market neutrality. This means that the strategy is designed to generate profits irrespective of the overall market direction. By balancing long and short positions, the trader mitigates the risk associated with broad market movements, which is a significant advantage over traditional directional trading strategies.
 

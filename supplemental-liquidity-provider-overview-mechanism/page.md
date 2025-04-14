@@ -18,7 +18,7 @@ SLPs are often used in stock exchanges and forex markets. They get special incen
 
 Supplemental Liquidity Providers (SLPs) are important in financial markets because they help keep the market running smoothly. They do this by making sure there are always people ready to buy or sell, even when the market is not very busy. This means that if you want to sell your stocks or buy some currency, you can do it quickly without waiting a long time. SLPs help make sure the market stays stable and that prices don't jump around too much.
 
-Having SLPs in the market also helps attract more people to trade. When people know they can buy or sell easily, they feel more confident about joining the market. This can bring more money into the market, which can help it grow. So, SLPs not only help with the day-to-day trading but also support the overall health and growth of the financial market.
+Having SLPs in the market also helps attract more people to trade. When people know they can buy or sell easily, they feel more confident about joining the market. This can bring more money into the market, which can help it grow. So, SLPs not only help with the day-to-[day trading](/wiki/day-trading-spy) but also support the overall health and growth of the financial market.
 
 ## How does a Supplemental Liquidity Provider differ from a traditional market maker?
 
@@ -42,7 +42,7 @@ SLPs get special rewards for helping out when the market needs it. These rewards
 
 Supplemental Liquidity Providers (SLPs) usually help with trading different kinds of financial instruments, like stocks and currencies. In stock markets, SLPs make sure there are always people ready to buy or sell shares, even when the market is not very busy. This means if you want to sell your stocks, you can find someone to buy them without waiting too long.
 
-In the forex market, SLPs do something similar but with currencies. They help make sure there are always buyers and sellers for different currencies, which is important for people who want to trade money from one country to another. By doing this, SLPs help keep the forex market stable and easy to use for everyone.
+In the [forex](/wiki/forex-system) market, SLPs do something similar but with currencies. They help make sure there are always buyers and sellers for different currencies, which is important for people who want to trade money from one country to another. By doing this, SLPs help keep the forex market stable and easy to use for everyone.
 
 ## How do SLPs earn revenue and what are their typical compensation structures?
 

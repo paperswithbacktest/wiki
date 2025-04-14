@@ -42,7 +42,7 @@ Another important thing to watch is when a stock breaks through its support leve
 
 ## What role do volume and volatility play in short-selling decisions?
 
-Volume and volatility are important when you're thinking about short-selling a stock. Volume is how many shares of the stock are being traded. If you see the volume going up when the stock's price is going down, it can be a good sign that more people are selling the stock. This can mean that the price might keep falling, which could be a good time to short-sell. On the other hand, if the volume is low, it might be harder to borrow the shares you need to short-sell, and the price might not move as much as you expect.
+Volume and [volatility](/wiki/volatility-trading-strategies) are important when you're thinking about short-selling a stock. Volume is how many shares of the stock are being traded. If you see the volume going up when the stock's price is going down, it can be a good sign that more people are selling the stock. This can mean that the price might keep falling, which could be a good time to short-sell. On the other hand, if the volume is low, it might be harder to borrow the shares you need to short-sell, and the price might not move as much as you expect.
 
 Volatility is how much the stock's price moves up and down. If a stock is very volatile, its price can change a lot in a short time. This can be good for short-sellers because big price drops can happen quickly, giving you a chance to make more money. But it's also riskier because the price can go up just as fast, leading to big losses. So, when you're thinking about short-selling, you need to look at both the volume and the volatility of the stock to make a smart decision.
 

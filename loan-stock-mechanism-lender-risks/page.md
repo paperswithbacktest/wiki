@@ -76,7 +76,7 @@ Another way to reduce risk is to spread out the investment. Instead of putting a
 
 ## What advanced strategies can lenders use to optimize returns from loan stock?
 
-Lenders can use a strategy called laddering to make the most of their loan stock investments. This means they buy loan stocks that have different times until they pay back. Some might pay back in a few years, while others might take longer. By spreading out when they get their money back, lenders can keep getting interest payments regularly and also have a chance to reinvest the money they get back into new loan stocks with maybe better interest rates. This way, they can keep their money working and earning more over time.
+Lenders can use a strategy called laddering to make the most of their loan stock investments. This means they buy loan stocks that have different times until they pay back. Some might pay back in a few years, while others might take longer. By spreading out when they get their money back, lenders can keep getting interest payments regularly and also have a chance to reinvest the money they get back into new loan stocks with maybe better interest rates. This way, they can keep their money working and [earning](/wiki/earning-announcement) more over time.
 
 Another smart move is to keep an eye on the market and be ready to sell or buy loan stock at the right time. If interest rates in the market go down, the value of loan stocks that pay higher interest might go up. Lenders can sell these loan stocks at a higher price and make a profit. On the other hand, if they think interest rates will go up, they might want to buy new loan stocks that offer higher interest rates before they get more expensive. By watching the market and making smart moves, lenders can get better returns from their loan stock investments.
 
@@ -95,7 +95,7 @@ Where:
 - $\text{Rate}$ is the annual interest rate,
 - $\text{Time}$ is the duration for which the money is invested.
 
-However, investing in loan stocks is not without risks. Lender risks stem from several factors including credit risk, [interest rate](/wiki/interest-rate-trading-strategies) risk, and liquidity risk. 
+However, investing in loan stocks is not without risks. Lender risks stem from several factors including credit risk, [interest rate](/wiki/interest-rate-trading-strategies) risk, and [liquidity](/wiki/liquidity-risk-premium) risk. 
 
 **Credit Risk** arises from the possibility of a borrower defaulting on payments. If the issuing entity faces financial difficulties, it may fail to make interest payments or return the principal.
 

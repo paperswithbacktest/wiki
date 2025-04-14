@@ -96,7 +96,7 @@ $$
 
 This method maintains the relative price changes across the splice point, preserving the integrity of historical trends. Another approach is the calendar spread adjustment, which focuses on the differences between the contracts' prices. This adjustment aims to eliminate any artificial jumps in the time series caused by contracts transitioning.
 
-These techniques are crucial for algorithmic trading strategies that rely on long-term, backtested datasets for decision-making. Precise adjustments help in minimizing the impact of rollovers on trading models, ensuring that algorithmic strategies can operate effectively over time without being skewed by discrepancies in the dataset.
+These techniques are crucial for [algorithmic trading](/wiki/algorithmic-trading) strategies that rely on long-term, backtested datasets for decision-making. Precise adjustments help in minimizing the impact of rollovers on trading models, ensuring that algorithmic strategies can operate effectively over time without being skewed by discrepancies in the dataset.
 
 In practice, implementation of these techniques can be achieved using programming languages such as Python, leveraging libraries like pandas and numpy for data manipulation and adjustment. Here's a simple Python example of rolling over contracts using proportional adjustment:
 

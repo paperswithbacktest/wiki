@@ -58,7 +58,7 @@ However, TIGRs are not issued anymore, so you can't buy them now. But similar pr
 
 ## What are the tax implications of investing in TIGRs?
 
-When you invest in TIGRs, you need to think about taxes. Even though TIGRs don't pay interest every year, the IRS says you have to pay taxes on the interest they earn each year. This is called imputed interest. So, even though you don't get the money until the TIGR matures, you still have to pay taxes on the interest it's earning every year.
+When you invest in TIGRs, you need to think about taxes. Even though TIGRs don't pay interest every year, the IRS says you have to pay taxes on the interest they earn each year. This is called imputed interest. So, even though you don't get the money until the TIGR matures, you still have to pay taxes on the interest it's [earning](/wiki/earning-announcement) every year.
 
 This can be tricky because you have to pay taxes on money you haven't actually received yet. You might need to use other money to pay these taxes. But when the TIGR matures and you get the full amount, you won't have to pay taxes on it again because you've already paid taxes on the interest over the years.
 

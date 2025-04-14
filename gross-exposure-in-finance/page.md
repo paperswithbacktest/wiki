@@ -50,7 +50,7 @@ Lastly, you can adjust your gross exposure by changing how much you invest. If y
 
 Gross exposure is most relevant in financial instruments like stocks, bonds, and derivatives. Stocks are shares in companies, and if you have a lot of money in stocks, your gross exposure is high. Bonds are loans you give to companies or governments, and they can also add to your gross exposure. Derivatives are more complex; they're like bets on how other financial things will do. If you're using derivatives, your gross exposure can get very big very fast because they let you control a lot of money with just a little.
 
-Hedge funds and mutual funds often use gross exposure to see how much risk they are taking. These funds can have a lot of money in different kinds of investments, so knowing their gross exposure helps them make smart choices. For example, if a hedge fund has a high gross exposure, it might decide to sell some investments to lower the risk. This way, gross exposure helps them keep their investments safe and balanced.
+Hedge funds and mutual funds often use gross exposure to see how much risk they are taking. These funds can have a lot of money in different kinds of investments, so knowing their gross exposure helps them make smart choices. For example, if a [hedge fund](/wiki/hedge-fund-trading-strategies) has a high gross exposure, it might decide to sell some investments to lower the risk. This way, gross exposure helps them keep their investments safe and balanced.
 
 ## How does gross exposure impact portfolio diversification?
 
@@ -78,7 +78,7 @@ Using gross exposure helps hedge funds make smart choices about their investment
 
 ## What advanced metrics should be considered alongside gross exposure for a comprehensive risk assessment?
 
-When looking at how much risk you're taking, gross exposure is a good start, but it's not the whole story. You should also look at net exposure, which is the difference between the investments you think will go up and the ones you think will go down. This helps you see if you're betting more on things going up or down. Another important metric is value at risk (VaR), which tries to guess the most money you could lose in a bad situation. It's like a safety warning that tells you how much you might lose if things go really wrong.
+When looking at how much risk you're taking, gross exposure is a good start, but it's not the whole story. You should also look at net exposure, which is the difference between the investments you think will go up and the ones you think will go down. This helps you see if you're betting more on things going up or down. Another important metric is [value at risk](/wiki/var-value-at-risk) (VaR), which tries to guess the most money you could lose in a bad situation. It's like a safety warning that tells you how much you might lose if things go really wrong.
 
 Another useful metric is the Sharpe ratio, which looks at how much return you're getting for the risk you're taking. It's like checking if the reward is worth the risk. You should also think about beta, which shows how much your investments move with the market. A high beta means your investments could go up or down a lot when the market moves. By looking at all these metrics together with gross exposure, you get a fuller picture of your risk and can make smarter choices about your investments.
 
@@ -140,7 +140,7 @@ These risk management strategies are integral to maintaining a balanced and resi
 
 ## What are Advanced Financial Measurements in Algo Trading?
 
-In algorithmic trading, advanced financial measurements play a crucial role in the effective management of market exposure. Value at Risk (VaR) is one of the key metrics used by traders to estimate the potential loss in the value of an asset or portfolio over a specific time frame, under normal market conditions, and at a given confidence level. The formula for VaR, particularly under the parametric method (also known as the variance-covariance method), is often expressed as:
+In [algorithmic trading](/wiki/algorithmic-trading), advanced financial measurements play a crucial role in the effective management of market exposure. Value at Risk (VaR) is one of the key metrics used by traders to estimate the potential loss in the value of an asset or portfolio over a specific time frame, under normal market conditions, and at a given confidence level. The formula for VaR, particularly under the parametric method (also known as the variance-covariance method), is often expressed as:
 
 $$
 

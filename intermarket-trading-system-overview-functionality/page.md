@@ -96,7 +96,7 @@ Spread trading involves taking long and short positions simultaneously in relate
 
 Cross-asset trading extends these concepts further by engaging in trades across different asset classes, such as equities, commodities, or currencies. This strategy can diversify risk and exploit market inefficiencies evident in particular asset classes. Cross-asset correlations are crucial for traders to understand potential diversification benefits and risk exposures.
 
-Effective intermarket trading strategies rely heavily on both technical and [fundamental analysis](/wiki/fundamental-analysis). Technical analysis involves the study of past market data, primarily price and volume, to predict future price movements. Tools such as moving averages, relative strength index (RSI), and Fibonacci retracements are often employed to identify potential trading opportunities.
+Effective intermarket trading strategies rely heavily on both technical and [fundamental analysis](/wiki/fundamental-analysis). Technical analysis involves the study of past market data, primarily price and [volume](/wiki/volume-trading-strategy), to predict future price movements. Tools such as moving averages, relative strength index (RSI), and Fibonacci retracements are often employed to identify potential trading opportunities.
 
 In parallel, fundamental analysis assesses an asset's intrinsic value by evaluating related economic, financial, and other qualitative and quantitative factors. This includes reviewing company earnings reports, market conditions, and macroeconomic indicators. Fundamental analysis helps validate or refute signals derived from technical analysis, providing a balanced approach to strategy development.
 

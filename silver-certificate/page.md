@@ -30,7 +30,7 @@ Another way Silver Certificates were different was that they could be exchanged 
 
 The main reason for issuing Silver Certificates was to help people trust the money they used. Back in the late 1800s, people were worried about the value of paper money. They liked having silver because it felt more real and valuable. So, the government came up with Silver Certificates as a way to make people feel better about using paper money. These certificates were a promise from the government that if you brought them back, you would get silver in return.
 
-Silver Certificates were also easier to use than heavy silver coins. People could carry these certificates around and use them to buy things, just like regular money. But they had the added benefit of being able to exchange them for actual silver if they wanted to. This made Silver Certificates popular because people liked having the choice to get silver. However, in 1968, the government stopped letting people exchange these certificates for silver, and after that, they were just like regular money.
+Silver Certificates were also easier to use than heavy silver coins. People could [carry](/wiki/carry-trading) these certificates around and use them to buy things, just like regular money. But they had the added benefit of being able to exchange them for actual silver if they wanted to. This made Silver Certificates popular because people liked having the choice to get silver. However, in 1968, the government stopped letting people exchange these certificates for silver, and after that, they were just like regular money.
 
 ## Can you still redeem Silver Certificates for silver, and if not, when did this change?
 

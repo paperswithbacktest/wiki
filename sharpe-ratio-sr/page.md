@@ -22,7 +22,7 @@ For example, if an investment gives you an average return of 8% a year, and the 
 
 ## What does a Sharpe Ratio of 1, 2, or 3 indicate about an investment's performance?
 
-A Sharpe Ratio of 1 means that for every unit of risk you take, you are getting one unit of return above what you would get from a safe investment. This is considered pretty good. It shows that the investment is doing a decent job of earning extra money for the risk you're taking. Many investors look for a Sharpe Ratio of at least 1 because it means the investment is beating a risk-free option by a good amount for the risk involved.
+A Sharpe Ratio of 1 means that for every unit of risk you take, you are getting one unit of return above what you would get from a safe investment. This is considered pretty good. It shows that the investment is doing a decent job of [earning](/wiki/earning-announcement) extra money for the risk you're taking. Many investors look for a Sharpe Ratio of at least 1 because it means the investment is beating a risk-free option by a good amount for the risk involved.
 
 If an investment has a Sharpe Ratio of 2, it's doing even better. This means you're getting two units of return for every unit of risk. A Sharpe Ratio of 2 is really strong and shows that the investment is doing a great job of managing risk while earning high returns. Not many investments can keep a Sharpe Ratio this high over a long time, so it's something special when you see it.
 
@@ -60,7 +60,7 @@ This difference means the Sortino Ratio can be more helpful if you're worried mo
 
 ## How can the Sharpe Ratio be used in portfolio optimization?
 
-The Sharpe Ratio can help you make your investment portfolio better by showing you which investments are doing well for the risk they take. When you're picking investments for your portfolio, you want to get the most return for the least risk. The Sharpe Ratio helps you do that by giving each investment a score. If you see that one investment has a higher Sharpe Ratio than another, it means that investment is giving you more return for each unit of risk. So, you can use the Sharpe Ratio to choose the best investments to put in your portfolio.
+The Sharpe Ratio can help you make your investment portfolio better by showing you which investments are doing well for the risk they take. When you're [picking](/wiki/asset-class-picking) investments for your portfolio, you want to get the most return for the least risk. The Sharpe Ratio helps you do that by giving each investment a score. If you see that one investment has a higher Sharpe Ratio than another, it means that investment is giving you more return for each unit of risk. So, you can use the Sharpe Ratio to choose the best investments to put in your portfolio.
 
 When you're trying to make your portfolio better, you can also use the Sharpe Ratio to see how changing your investments might help. For example, if you add a new investment with a high Sharpe Ratio, it could make your whole portfolio's Sharpe Ratio go up. This means your portfolio is now doing a better job of earning money for the risk it's taking. By looking at the Sharpe Ratios of different investments, you can keep adjusting your portfolio to make it as good as it can be.
 

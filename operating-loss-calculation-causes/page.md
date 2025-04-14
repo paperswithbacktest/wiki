@@ -36,7 +36,7 @@ Also, operating losses can help a company save on taxes. In many places, if a co
 
 ## How does operating loss affect a company's financial health?
 
-Operating losses can make a company's financial health worse. When a company loses money from its main business activities, it means it's spending more than it's earning. This can make it hard for the company to pay its bills, like rent or salaries. If the losses keep happening, the company might need to borrow money or find investors to keep going. This can lead to more problems, like having to pay back loans with interest or giving up control to investors.
+Operating losses can make a company's financial health worse. When a company loses money from its main business activities, it means it's spending more than it's [earning](/wiki/earning-announcement). This can make it hard for the company to pay its bills, like rent or salaries. If the losses keep happening, the company might need to borrow money or find investors to keep going. This can lead to more problems, like having to pay back loans with interest or giving up control to investors.
 
 On the other hand, a short-term operating loss might not be too bad if the company can fix the problem and start making money again. Sometimes, a company might choose to lose money for a while to invest in new things that will help it grow. If these investments pay off, the company can become stronger and more successful in the long run. But if the losses keep happening and the company can't turn things around, it could face bigger problems, like going out of business.
 
@@ -58,7 +58,7 @@ It's also important for a company to keep a close eye on its finances and make c
 
 Operating losses can help a company save money on taxes. In many places, if a company loses money, it can use that loss to lower its taxes. This is called a tax deduction. If a company has an operating loss one year, it can use that loss to reduce the taxes it owes on its profits in future years. This can give the company more money to use for other important things, like paying its workers or investing in new projects.
 
-Sometimes, a company can even carry back an operating loss to get a refund on taxes it paid in past years. This means if the company made money and paid taxes in the past, but then had an operating loss, it can use that loss to get some of its old taxes back. This can be a big help for a company that's struggling with money, because it can give them more cash to keep the business running. So, even though operating losses might sound bad, they can sometimes help a company save money on taxes and stay afloat.
+Sometimes, a company can even [carry](/wiki/carry-trading) back an operating loss to get a refund on taxes it paid in past years. This means if the company made money and paid taxes in the past, but then had an operating loss, it can use that loss to get some of its old taxes back. This can be a big help for a company that's struggling with money, because it can give them more cash to keep the business running. So, even though operating losses might sound bad, they can sometimes help a company save money on taxes and stay afloat.
 
 ## How do operating losses impact a company's stock price?
 

@@ -136,9 +136,9 @@ Algorithmic trading has demonstrated its capacity to adapt and thrive in inflati
 
 #### Case Study 1: High-Frequency Trading (HFT) During the 2008 Financial Crisis
 
-The 2008 financial crisis marked a period of severe economic instability, characterized by heightened volatility and rapid market fluctuations. Amidst this turbulence, firms specializing in high-frequency trading (HFT) harnessed advanced algorithms to execute trades at unprecedented speeds. HFT firms capitalized on short-term price discrepancies between different exchanges, employing strategies such as statistical arbitrage to generate profits.
+The 2008 financial crisis marked a period of severe economic instability, characterized by heightened [volatility](/wiki/volatility-trading-strategies) and rapid market fluctuations. Amidst this turbulence, firms specializing in high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) harnessed advanced algorithms to execute trades at unprecedented speeds. HFT firms capitalized on short-term price discrepancies between different exchanges, employing strategies such as statistical [arbitrage](/wiki/arbitrage) to generate profits.
 
-These strategies typically involved analyzing historical data to identify correlated price movements across assets. For instance, if stock A and stock B generally moved in tandem but a temporary divergence was detected, algorithms rapidly executed trades to exploit the price correction. The formula for statistical arbitrage might look something like this:
+These strategies typically involved analyzing historical data to identify correlated price movements across assets. For instance, if stock A and stock B generally moved in tandem but a temporary divergence was detected, algorithms rapidly executed trades to exploit the price correction. The formula for [statistical arbitrage](/wiki/statistical-arbitrage) might look something like this:
 
 $$
 \text{Profit}_{\text{arb}} = (\text{Price}_{\text{stock A}} - \text{Price}_{\text{stock B}}) \times \text{Volume}
@@ -148,7 +148,7 @@ HFT's adaptability was exemplified by its ability to adjust to [liquidity](/wiki
 
 #### Case Study 2: Quantitative Hedge Fund Strategies in Post-COVID Inflationary Pressures
 
-The post-COVID era ushered in new economic challenges, with inflationary pressures affecting global markets. Quantitative hedge funds utilized algorithmic trading strategies to navigate this complex environment. One such strategy was the application of machine learning models to predict inflation trends and adjust investment portfolios accordingly.
+The post-COVID era ushered in new economic challenges, with inflationary pressures affecting global markets. Quantitative hedge funds utilized [algorithmic trading](/wiki/algorithmic-trading) strategies to navigate this complex environment. One such strategy was the application of [machine learning](/wiki/machine-learning) models to predict inflation trends and adjust investment portfolios accordingly.
 
 These funds deployed algorithms capable of processing vast datasets, including macroeconomic indicators, market data, and social media sentiment. Machine learning models, particularly those using techniques like neural networks or support vector machines, analyzed these inputs to forecast inflation impacts on various asset classes. A simplified Python example of a machine learning pipeline for this purpose might involve:
 

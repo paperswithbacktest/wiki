@@ -24,7 +24,7 @@ On the other hand, if a company doesn't have enough working capital, it can lead
 
 Net Present Value (NPV) is a way to figure out how much money a project or investment will be worth in today's dollars. It helps you decide if an investment is a good idea by comparing the money you expect to make in the future to what you would have if you invested that money now. If the NPV is more than zero, it usually means the investment is worth doing because you'll end up with more money than you started with.
 
-To calculate NPV, you start by guessing how much money you'll get from the investment in the future. Then, you need to figure out what that future money is worth today. You do this by using a discount rate, which is kind of like an interest rate that shows how much value money loses over time. You take each future cash flow, divide it by one plus the discount rate raised to the power of the number of time periods until you get that cash flow, and then add up all those values. If the total is positive, the investment is likely a good choice.
+To calculate NPV, you start by guessing how much money you'll get from the investment in the future. Then, you need to figure out what that future money is worth today. You do this by using a discount rate, which is kind of like an [interest rate](/wiki/interest-rate-trading-strategies) that shows how much value money loses over time. You take each future cash flow, divide it by one plus the discount rate raised to the power of the number of time periods until you get that cash flow, and then add up all those values. If the total is positive, the investment is likely a good choice.
 
 ## Why is it important to consider working capital in NPV calculations?
 

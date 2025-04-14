@@ -24,7 +24,7 @@ Once your plan is set up, Betterment automatically invests your money in a mix o
 
 Betterment charges fees for their services. For their investing service, they have a fee that depends on how much money you have with them. If you have less than $20,000, the fee is 0.25% of your money each year. If you have more than $20,000, the fee goes down to 0.10% a year. This fee is taken out of your account automatically. Besides this fee, there are also fees from the investments they put your money into, like stocks and bonds. These fees are usually small, around 0.07% to 0.15% a year.
 
-For their cash management service, Betterment doesn't charge a fee. You can keep your money in this account and earn interest. The interest rate can change, but it's usually higher than what you would get at a regular bank. So, if you're using Betterment just for saving money, you won't have to pay any fees to Betterment, but you'll still earn interest on your savings.
+For their cash management service, Betterment doesn't charge a fee. You can keep your money in this account and earn interest. The [interest rate](/wiki/interest-rate-trading-strategies) can change, but it's usually higher than what you would get at a regular bank. So, if you're using Betterment just for saving money, you won't have to pay any fees to Betterment, but you'll still earn interest on your savings.
 
 ## How does Betterment's robo-advisor feature compare to others in the market?
 
@@ -78,7 +78,7 @@ If you use other financial tools or apps, Betterment can still work with them. F
 
 One of the main drawbacks of using Betterment for investment management is that it might not give you the personal touch that you get from a human advisor. If you like talking to someone face-to-face and getting advice that's really tailored to your situation, Betterment might not be the best fit. They use computer programs to manage your money, which can be less personal. Also, while Betterment's fees are low, they still add up over time. If you have a lot of money to invest, the fees might be higher than what you'd pay with some other investment options.
 
-Another limitation is that Betterment might not offer as many investment choices as you'd get with a traditional advisor or if you manage your own investments. They have a set list of investments they use, and while you can tweak things a bit with their advanced features, it's not the same as picking every investment yourself. If you're someone who likes to have a lot of control over where your money goes, this could be a downside. Plus, while Betterment is great for long-term investing, it might not be the best if you're looking to make quick trades or get into more complex investments.
+Another limitation is that Betterment might not offer as many investment choices as you'd get with a traditional advisor or if you manage your own investments. They have a set list of investments they use, and while you can tweak things a bit with their advanced features, it's not the same as [picking](/wiki/asset-class-picking) every investment yourself. If you're someone who likes to have a lot of control over where your money goes, this could be a downside. Plus, while Betterment is great for long-term investing, it might not be the best if you're looking to make quick trades or get into more complex investments.
 
 ## References & Further Reading
 

@@ -18,7 +18,7 @@ Style drift can be a problem because it might change the risk and return of the 
 
 Style drift can mess up an investment portfolio by changing how risky it is and how much money it might make. If you picked a fund because it was supposed to invest in a certain way, like only in big companies, and then the manager starts buying stocks of small companies, your portfolio might end up riskier than you wanted. This can be a surprise and might not fit with your overall plan for your money.
 
-Also, if the fund's style changes, it might not do as well as you hoped. For example, if the fund was good at picking big company stocks but starts picking small company stocks and isn't as good at it, your returns could go down. This can be frustrating and might make you want to move your money to a different fund that sticks to the style you like.
+Also, if the fund's style changes, it might not do as well as you hoped. For example, if the fund was good at [picking](/wiki/asset-class-picking) big company stocks but starts picking small company stocks and isn't as good at it, your returns could go down. This can be frustrating and might make you want to move your money to a different fund that sticks to the style you like.
 
 ## What are the common causes of style drift?
 
@@ -70,7 +70,7 @@ Sometimes, regulators ask funds to tell investors about big changes in how they 
 
 ## How can advanced analytics and machine learning help in detecting and managing style drift?
 
-Advanced analytics and machine learning can help spot style drift by looking at a lot of data quickly and finding patterns that might be hard for people to see. These tools can watch what a fund is investing in and compare it to what the fund said it would do. If the investments start to look different from the plan, the computer can send a warning to the fund manager. This way, the manager can check if they're drifting and fix it before it becomes a big problem.
+Advanced analytics and [machine learning](/wiki/machine-learning) can help spot style drift by looking at a lot of data quickly and finding patterns that might be hard for people to see. These tools can watch what a fund is investing in and compare it to what the fund said it would do. If the investments start to look different from the plan, the computer can send a warning to the fund manager. This way, the manager can check if they're drifting and fix it before it becomes a big problem.
 
 Machine learning can also help manage style drift by predicting how changes in the market might affect a fund's investments. By using past data, these tools can guess what might happen if the fund starts to invest in different things. This can help the manager make better choices and keep the fund on track with its original plan. By using these smart tools, fund managers can keep investors happy and avoid surprises that could mess up the fund's performance.
 

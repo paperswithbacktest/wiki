@@ -48,7 +48,7 @@ Another big difference is how they are calculated. The S&P 500 uses a method cal
 
 To be included in the S&P 500, a company must meet several important criteria. First, it must be a U.S. company, which means it is based in the United States and its stock is traded on a U.S. stock exchange. Second, the company needs to be big enough, measured by its market capitalization, which is the total value of all its shares. The S&P 500 includes the 500 largest companies in the U.S., so a company has to be among these top 500 to be considered. Lastly, the company must have enough shares available for the public to buy. This means that a large portion of the company's stock must be owned by investors, not just by the company's founders or a few big shareholders.
 
-Another important factor is that the company should be profitable. The S&P 500 looks for companies that have made money in the last four quarters, which shows they are doing well financially. Also, the company should represent a part of the economy that is not already too heavily represented in the index. This helps make sure the S&P 500 includes a good mix of companies from different industries. The people who manage the S&P 500 look at all these things carefully to decide which companies to include.
+Another important [factor](/wiki/factor-investing) is that the company should be profitable. The S&P 500 looks for companies that have made money in the last four quarters, which shows they are doing well financially. Also, the company should represent a part of the economy that is not already too heavily represented in the index. This helps make sure the S&P 500 includes a good mix of companies from different industries. The people who manage the S&P 500 look at all these things carefully to decide which companies to include.
 
 ## How has the S&P 500 performed historically?
 
@@ -60,7 +60,7 @@ Even though the S&P 500 has had some rough patches, it has shown that it can rec
 
 One common way to invest in the S&P 500 is through index funds. These funds are designed to match the performance of the S&P 500 by holding the same stocks in the same proportions. When you buy shares of an S&P 500 index fund, you're basically buying a tiny piece of all 500 companies in the index. This makes it easy to invest in the whole U.S. market without having to pick individual stocks. Some popular S&P 500 index funds are offered by companies like Vanguard and Fidelity.
 
-Another way to invest in the S&P 500 is through exchange-traded funds (ETFs). ETFs are similar to index funds but they trade on stock exchanges like individual stocks. The most well-known S&P 500 ETF is the SPDR S&P 500 ETF Trust, often called SPY. When you buy shares of an S&P 500 ETF, you're also getting a piece of all the companies in the index. ETFs can be bought and sold throughout the trading day, which gives you more flexibility than index funds, which are usually bought or sold at the end of the trading day.
+Another way to invest in the S&P 500 is through exchange-traded funds (ETFs). ETFs are similar to index funds but they trade on stock exchanges like individual stocks. The most well-known S&P 500 [ETF](/wiki/etf-trading-strategies) is the SPDR S&P 500 ETF Trust, often called SPY. When you buy shares of an S&P 500 ETF, you're also getting a piece of all the companies in the index. ETFs can be bought and sold throughout the trading day, which gives you more flexibility than index funds, which are usually bought or sold at the end of the trading day.
 
 Both index funds and ETFs are popular because they offer a simple and low-cost way to invest in the S&P 500. They help spread out the risk because you're not betting on just one company, but on the whole market. Over time, this can lead to steady growth, making them a good choice for people who want to invest for the long term.
 
@@ -143,5 +143,5 @@ Overall, the meticulous mechanism of the S&P 500 calculation provides investors 
    - **Journal of Finance**: Publishes significant research across areas of finance, including empirical and theoretical studies related to algorithmic trading.
    - **Journal of Financial Markets**: Offers insights into the dynamics of financial markets, with articles covering topics such as market structure and trading strategies. 
 
-For ongoing learning, these resources provide diverse perspectives on algorithmic trading and the S&P 500, offering valuable insights into both theoretical frameworks and practical applications.
+For ongoing learning, these resources provide diverse perspectives on [algorithmic trading](/wiki/algorithmic-trading) and the S&P 500, offering valuable insights into both theoretical frameworks and practical applications.
 

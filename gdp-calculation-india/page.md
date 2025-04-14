@@ -174,7 +174,7 @@ This open database contains a wealth of information on GDP [statistics](/wiki/ba
 [3]: ("India's GDP Measurement Reforms: Opportunities and Challenges") from the Indian Journal of Applied Economics  
 
 [4]: ("Algorithmic Trading and the Impact on Financial Markets") by the CFA Institute Research Foundation  
-A comprehensive look into how algorithmic trading reshapes financial markets dynamics.
+A comprehensive look into how [algorithmic trading](/wiki/algorithmic-trading) reshapes financial markets dynamics.
 
 [5]: ("The Role of Algorithmic Trading in India's Financial Market") from the Journal of Quantitative Finance  
 

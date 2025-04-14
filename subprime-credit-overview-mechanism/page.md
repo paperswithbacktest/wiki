@@ -36,7 +36,7 @@ These products are important for people who need to borrow money but can't get r
 
 ## What are the interest rates and fees associated with subprime credit?
 
-Subprime credit comes with higher interest rates than regular loans. This is because lenders see people with lower credit scores as riskier to lend to. For example, a subprime mortgage might have an interest rate of 10% or more, while a regular mortgage might be around 3% to 5%. Subprime auto loans can have interest rates of 15% or even higher, compared to 3% to 7% for regular auto loans. These high rates mean that borrowers end up paying a lot more over time.
+Subprime credit comes with higher interest rates than regular loans. This is because lenders see people with lower credit scores as riskier to lend to. For example, a subprime mortgage might have an [interest rate](/wiki/interest-rate-trading-strategies) of 10% or more, while a regular mortgage might be around 3% to 5%. Subprime auto loans can have interest rates of 15% or even higher, compared to 3% to 7% for regular auto loans. These high rates mean that borrowers end up paying a lot more over time.
 
 Besides high interest rates, subprime credit products often come with extra fees. For example, subprime credit cards might have annual fees, late payment fees, and over-the-limit fees. These fees can add up quickly, making it even harder for borrowers to pay off what they owe. It's important for people to understand all the costs before they take out a subprime loan, so they can make sure they can handle the payments.
 

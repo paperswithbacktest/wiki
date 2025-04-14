@@ -40,7 +40,7 @@ To come up with the re-offer price, underwriters might do some research and talk
 
 ## What factors influence changes from the initial offer to the re-offer price?
 
-The difference between the initial offer price and the re-offer price is influenced by several factors. One big factor is how much people want to buy the securities. If lots of people are interested, the underwriters might set the re-offer price higher because they know people will still buy it. Another factor is what similar securities are selling for in the market. If other stocks or bonds are selling for a lot, the underwriters might set the re-offer price higher too.
+The difference between the initial offer price and the re-offer price is influenced by several factors. One big [factor](/wiki/factor-investing) is how much people want to buy the securities. If lots of people are interested, the underwriters might set the re-offer price higher because they know people will still buy it. Another factor is what similar securities are selling for in the market. If other stocks or bonds are selling for a lot, the underwriters might set the re-offer price higher too.
 
 Another important thing that affects the re-offer price is the company's financial health. If the company is doing well and making a lot of money, the underwriters might think they can sell the securities for more. Market conditions also play a big role. If the stock market is doing well, the re-offer price might be higher. But if the market is not doing so well, the underwriters might lower the re-offer price to make sure people will still buy the securities.
 
@@ -64,7 +64,7 @@ The seller also needs to trust that the underwriters will do a good job selling 
 
 ## How does market volatility affect the re-offer price?
 
-Market volatility can make the re-offer price go up and down. When the market is very up and down, it can be hard for underwriters to decide on the right re-offer price. If the market is going up a lot, the underwriters might think they can set a higher re-offer price because people might be more willing to buy the securities. But if the market is going down a lot, the underwriters might lower the re-offer price to make sure people will still want to buy the securities.
+Market [volatility](/wiki/volatility-trading-strategies) can make the re-offer price go up and down. When the market is very up and down, it can be hard for underwriters to decide on the right re-offer price. If the market is going up a lot, the underwriters might think they can set a higher re-offer price because people might be more willing to buy the securities. But if the market is going down a lot, the underwriters might lower the re-offer price to make sure people will still want to buy the securities.
 
 This is important because the re-offer price affects how much money the company can raise. If the market is very volatile, the underwriters might be more careful and set a lower re-offer price to be safe. This means the company might not get as much money as they hoped. But if the underwriters think the market will calm down soon, they might keep the re-offer price higher, hoping to raise more money for the company. It's a tricky balance, and market volatility makes it even harder to get right.
 

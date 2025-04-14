@@ -18,7 +18,7 @@ Investing in small-cap index funds means you're buying a little bit of many smal
 
 Someone should consider investing in small-cap index funds because they offer the chance for big growth. Small companies can grow a lot faster than big ones. If you invest in a small-cap index fund, you're betting on a bunch of these small companies. If they do well, your investment could grow a lot. This is good if you want your money to grow over time.
 
-Another reason is that small-cap index funds help spread out risk. When you buy a small-cap index fund, you're not just betting on one company. You're investing in many small companies at once. If one company does badly, it won't ruin your whole investment. This makes it safer than picking just one or two small companies to invest in. Plus, these funds are easy to buy and manage, which is great if you're new to investing.
+Another reason is that small-cap index funds help spread out risk. When you buy a small-cap index fund, you're not just betting on one company. You're investing in many small companies at once. If one company does badly, it won't ruin your whole investment. This makes it safer than [picking](/wiki/asset-class-picking) just one or two small companies to invest in. Plus, these funds are easy to buy and manage, which is great if you're new to investing.
 
 ## How do small-cap index funds differ from large-cap index funds?
 
@@ -34,7 +34,7 @@ Another risk is that small companies might not have as much money or resources a
 
 ## Can you list some of the top-performing small-cap index funds?
 
-Some top-performing small-cap index funds include the Vanguard Small-Cap Index Fund (VSMAX) and the Schwab U.S. Small-Cap ETF (SCHA). The Vanguard Small-Cap Index Fund aims to match the performance of the CRSP US Small Cap Index, which includes a wide range of small companies. It has low fees, which means more of your money stays invested and can grow over time. The Schwab U.S. Small-Cap ETF follows the Dow Jones U.S. Small-Cap Total Stock Market Index and also has low costs, making it a good choice for investors looking to spread their money across many small companies.
+Some top-performing small-cap index funds include the Vanguard Small-Cap Index Fund (VSMAX) and the Schwab U.S. Small-Cap [ETF](/wiki/etf-trading-strategies) (SCHA). The Vanguard Small-Cap Index Fund aims to match the performance of the CRSP US Small Cap Index, which includes a wide range of small companies. It has low fees, which means more of your money stays invested and can grow over time. The Schwab U.S. Small-Cap ETF follows the Dow Jones U.S. Small-Cap Total Stock Market Index and also has low costs, making it a good choice for investors looking to spread their money across many small companies.
 
 Another good small-cap index fund is the iShares Russell 2000 ETF (IWM). This fund tracks the Russell 2000 Index, which is made up of the 2000 smallest companies in the Russell 3000 Index. The iShares Russell 2000 ETF is popular because it gives investors a way to invest in a broad range of small companies with just one fund. It's also known for its low costs and ability to give investors exposure to the growth potential of small-cap stocks.
 
@@ -72,7 +72,7 @@ Another thing to think about is dividends. Small-cap companies might pay dividen
 
 ## How can one assess the liquidity of small-cap index funds?
 
-Liquidity means how easily you can buy or sell something without it affecting the price too much. For small-cap index funds, you can look at how many shares of the fund trade each day. If a lot of shares trade every day, it's easier to buy or sell your shares without changing the price a lot. You can find this information on financial websites or in the fund's fact sheet. A higher trading volume usually means better liquidity.
+Liquidity means how easily you can buy or sell something without it affecting the price too much. For small-cap index funds, you can look at how many shares of the fund trade each day. If a lot of shares trade every day, it's easier to buy or sell your shares without changing the price a lot. You can find this information on financial websites or in the fund's fact sheet. A higher trading volume usually means better [liquidity](/wiki/liquidity-risk-premium).
 
 Another way to check liquidity is to see how much the price of the fund changes from day to day. If the price stays pretty steady, it's a sign of good liquidity. Big price swings can mean it's harder to buy or sell shares without affecting the price. So, when you're thinking about investing in a small-cap index fund, look at the trading volume and price changes to get a sense of how easy it will be to get your money in and out of the fund.
 

@@ -104,7 +104,7 @@ where Risk per Trade is a percentage of total capital that the trader is willing
 
 **Stop-Loss Orders** are automated instructions to close a trade when it reaches a certain loss threshold, thereby preventing further capital erosion. This is particularly crucial in algo trading, as it ensures that trades are terminated promptly without waiting for manual intervention, preserving capital in volatile market conditions. Stop-loss levels should be set carefully, based on volatility measures and risk assessments, to avoid premature exits due to normal price fluctuations.
 
-Integrating these key money management strategies within algorithmic trading protocols enhances the consistency and reliability of trade outcomes, ultimately supporting a trader's financial objectives.
+Integrating these key money management strategies within [algorithmic trading](/wiki/algorithmic-trading) protocols enhances the consistency and reliability of trade outcomes, ultimately supporting a trader's financial objectives.
 
 ## References & Further Reading
 

@@ -24,13 +24,13 @@ A temporary impact term, on the other hand, is a word or phrase that people migh
 
 Permanent impact terms are phrases that people remember and use for a long time. One example is "Just do it" from Nike. This phrase is simple but powerful. It tells people to take action and not wait. You hear it in sports, at school, and even at work. It's so popular that people use it without thinking about where it came from.
 
-Another example is "I have a dream" from Martin Luther King Jr.'s famous speech. This phrase is about hope and equality. It's used in schools, in books, and during important events. People remember it because it stands for something big and important. It's not just a phrase; it's a call for change that people still talk about today.
+Another example is "I have a dream" from Martin Luther King Jr.'s famous speech. This phrase is about hope and equality. It's used in schools, in [books](/wiki/algo-trading-books), and during important events. People remember it because it stands for something big and important. It's not just a phrase; it's a call for change that people still talk about today.
 
 ## What are the key characteristics that define a permanent impact term?
 
 A permanent impact term is a phrase that people remember for a long time. It's catchy and sticks in people's minds. These terms often come from movies, books, or famous speeches. They are easy to remember because they are short and powerful. People use them a lot, so they become part of everyday language. For example, "Just do it" from Nike is a permanent impact term because it's simple and tells people to take action.
 
-Another important thing about permanent impact terms is that they often carry a big message or feeling. They can inspire people, make them think, or remind them of something important. For example, "I have a dream" from Martin Luther King Jr. is not just a phrase; it's a call for equality and hope. These terms last because they connect with people on a deep level. They are more than just words; they are ideas that people keep talking about and using for years.
+Another important thing about permanent impact terms is that they often [carry](/wiki/carry-trading) a big message or feeling. They can inspire people, make them think, or remind them of something important. For example, "I have a dream" from Martin Luther King Jr. is not just a phrase; it's a call for equality and hope. These terms last because they connect with people on a deep level. They are more than just words; they are ideas that people keep talking about and using for years.
 
 ## How are permanent impact terms used in environmental assessments?
 
@@ -102,7 +102,7 @@ Permanent impact represents the enduring influence that a trade has on the price
 
 For traders, understanding that permanent impacts are an unavoidable aspect of trading costs is crucial. These impacts lead to adjustments in bid and offer prices due to perceived valuation shifts in the stock, reflecting changes in market dynamics as participants assimilate new information into their pricing models. As such, even after the completion of a trade, the market continues to [factor](/wiki/factor-investing) in the information conveyed, resulting in a sustained price adjustment.
 
-In distinguishing permanent impact from its temporary counterpart, traders gain insight into strategy modification to mitigate adverse market reactions. While temporary impact is immediate and typically associated with the liquidity cost required to execute a trade swiftly, permanent impact accounts for the longer-lasting shifts in valuation. By analyzing these distinctions, traders can develop strategies that ensure efficient execution by minimizing overall market impact while avoiding excessive temporal price deviations.
+In distinguishing permanent impact from its temporary counterpart, traders gain insight into strategy modification to mitigate adverse market reactions. While temporary impact is immediate and typically associated with the [liquidity](/wiki/liquidity-risk-premium) cost required to execute a trade swiftly, permanent impact accounts for the longer-lasting shifts in valuation. By analyzing these distinctions, traders can develop strategies that ensure efficient execution by minimizing overall market impact while avoiding excessive temporal price deviations.
 
 Quantitatively, permanent impact in the AC framework can be expressed through a linear equation that links the price change $\Delta P$ to the trade size $Q$:
 

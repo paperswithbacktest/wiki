@@ -28,13 +28,13 @@ This kind of trading is important in financial markets because it can make tradi
 
 ## Can you explain the basic concept of the accruals effect in trading?
 
-The accruals effect in trading is about how traders use information about a company's earnings that haven't been paid yet to make decisions. When a company earns money but hasn't received it, that's called an accrual. Traders look at these accruals to guess if a company is doing better or worse than what the official numbers show. If a company has a lot of money coming in that hasn't been paid yet, traders might think the company is doing well and buy its stock.
+The [accruals effect](/wiki/accruals-effect) in trading is about how traders use information about a company's earnings that haven't been paid yet to make decisions. When a company earns money but hasn't received it, that's called an accrual. Traders look at these accruals to guess if a company is doing better or worse than what the official numbers show. If a company has a lot of money coming in that hasn't been paid yet, traders might think the company is doing well and buy its stock.
 
 This can affect the stock price because more people wanting to buy the stock can push the price up. But, it's a bit tricky because if the money that's supposed to come in doesn't actually arrive, the stock price might go down later. So, traders need to be careful and look at other things too, not just the accruals. It's like trying to predict the future based on what might happen, which is never a sure thing.
 
 ## How do traders use accruals data in their algorithmic trading strategies?
 
-Traders use accruals data in their algorithmic trading strategies to make smarter guesses about a company's future performance. They program their computers to look at the difference between what a company says it earned and what it actually got paid. If a company has a lot of money coming in that hasn't been paid yet, the algorithm might see that as a good sign and decide to buy the company's stock. This is because the algorithm thinks the company is doing better than what the official numbers show.
+Traders use accruals data in their [algorithmic trading](/wiki/algorithmic-trading) strategies to make smarter guesses about a company's future performance. They program their computers to look at the difference between what a company says it earned and what it actually got paid. If a company has a lot of money coming in that hasn't been paid yet, the algorithm might see that as a good sign and decide to buy the company's stock. This is because the algorithm thinks the company is doing better than what the official numbers show.
 
 However, using accruals data can be tricky. If the money that's supposed to come in doesn't actually arrive, the stock price might drop later. So, traders program their algorithms to not just look at accruals, but also at other things like how the company has done in the past and what's happening in the market right now. This helps the algorithm make better decisions and try to avoid big mistakes.
 
@@ -62,7 +62,7 @@ Another problem is that accruals can make the market seem better than it really 
 
 Advanced algo trading systems use special math formulas to look at accruals and guess how they might affect stock prices. These systems take in a lot of information, not just accruals, but also things like how the company has done in the past and what's happening in the market right now. By looking at all this data, the algorithm can make a better guess about whether the company's earnings are real or if they might not turn into actual cash later. This helps the system decide if it should buy or sell the stock.
 
-Sometimes, these systems use machine learning to get even better at predicting the accruals effect. Machine learning lets the algorithm learn from past data and get smarter over time. It can find patterns that might be hard for people to see. By using this technology, the algo trading system can make more accurate predictions about how accruals might change stock prices and market trends. This can help traders make better decisions and maybe even make more money.
+Sometimes, these systems use [machine learning](/wiki/machine-learning) to get even better at predicting the accruals effect. Machine learning lets the algorithm learn from past data and get smarter over time. It can find patterns that might be hard for people to see. By using this technology, the algo trading system can make more accurate predictions about how accruals might change stock prices and market trends. This can help traders make better decisions and maybe even make more money.
 
 ## What role does machine learning play in enhancing the accruals effect in trading algorithms?
 
@@ -72,7 +72,7 @@ This technology also helps the algorithm consider many different things at once,
 
 ## Can you discuss a case study where the accruals effect significantly impacted an algo trading strategy?
 
-There was a case where a big hedge fund used an algo trading strategy that focused a lot on the accruals effect. They made their computer look at the difference between what companies said they earned and the cash they actually got. The hedge fund thought that if a company had a lot of money coming in that hadn't been paid yet, it was a good sign. So, their algorithm bought stocks of companies with high accruals, hoping the stock prices would go up.
+There was a case where a big [hedge fund](/wiki/hedge-fund-trading-strategies) used an algo trading strategy that focused a lot on the accruals effect. They made their computer look at the difference between what companies said they earned and the cash they actually got. The hedge fund thought that if a company had a lot of money coming in that hadn't been paid yet, it was a good sign. So, their algorithm bought stocks of companies with high accruals, hoping the stock prices would go up.
 
 But things didn't go as planned. A lot of the money that was supposed to come in didn't actually arrive. When this happened, the stock prices of those companies dropped because their earnings were not as good as they seemed. The hedge fund lost a lot of money because their algorithm didn't look at other important signs, like how the companies had done in the past or what was happening in the market. This case showed that while the accruals effect can be useful, it's risky to rely on it too much without considering other factors.
 

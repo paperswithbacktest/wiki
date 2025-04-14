@@ -24,7 +24,7 @@ Another important goal is to stop employers from punishing workers who talk abou
 
 The Paycheck Fairness Act aims to address wage discrimination by making it easier for women to find out if they are being paid less than men for the same job. It wants to close the wage gap, which is the difference in pay between men and women. The act would change some rules so that women can see if they are being paid fairly. If they find out they are being paid less, the act would make it easier for them to do something about it, like going to court or talking to their boss.
 
-Another way the Paycheck Fairness Act aims to address wage discrimination is by stopping employers from punishing workers who talk about their salaries with each other. This is important because when people know what others are earning, they can see if they are being paid fairly. The act would give women better tools to fight for equal pay. It would make workplaces fairer for everyone by making sure that pay is based on the work people do, not on whether they are men or women.
+Another way the Paycheck Fairness Act aims to address wage discrimination is by stopping employers from punishing workers who talk about their salaries with each other. This is important because when people know what others are [earning](/wiki/earning-announcement), they can see if they are being paid fairly. The act would give women better tools to fight for equal pay. It would make workplaces fairer for everyone by making sure that pay is based on the work people do, not on whether they are men or women.
 
 ## What are the key provisions of the Paycheck Fairness Act?
 

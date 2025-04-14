@@ -24,7 +24,7 @@ When you buy a fixed rate bond, you agree to leave your money with the bank or c
 
 One big benefit of investing in fixed rate bonds is that they give you a steady income. You know exactly how much interest you will get because the rate stays the same the whole time. This makes it easier to plan your money because you can count on that income. It's like getting a regular paycheck from your investment.
 
-Another benefit is that fixed rate bonds are usually safer than other types of investments. They are less likely to lose value, which makes them a good choice if you don't want to take big risks with your money. Even if the market goes up and down, your bond will keep paying the same amount of interest. This makes them a good way to keep your savings safe while still earning some money.
+Another benefit is that fixed rate bonds are usually safer than other types of investments. They are less likely to lose value, which makes them a good choice if you don't want to take big risks with your money. Even if the market goes up and down, your bond will keep paying the same amount of interest. This makes them a good way to keep your savings safe while still [earning](/wiki/earning-announcement) some money.
 
 ## What are the potential risks associated with fixed rate bonds?
 
@@ -36,7 +36,7 @@ Lastly, there's a small chance that the bank or company you lent your money to m
 
 ## How do interest rates affect fixed rate bonds?
 
-Interest rates can affect fixed rate bonds in a big way. When you buy a fixed rate bond, the interest rate is locked in for the whole time you have the bond. If interest rates go up after you buy your bond, you won't get the higher rate. You'll keep getting the same amount of interest that was set when you bought the bond. This can be a problem if other investments start offering more money because you'll be stuck with the lower rate until your bond ends.
+Interest rates can affect fixed rate bonds in a big way. When you buy a fixed rate bond, the [interest rate](/wiki/interest-rate-trading-strategies) is locked in for the whole time you have the bond. If interest rates go up after you buy your bond, you won't get the higher rate. You'll keep getting the same amount of interest that was set when you bought the bond. This can be a problem if other investments start offering more money because you'll be stuck with the lower rate until your bond ends.
 
 On the other hand, if interest rates go down after you buy your bond, you're in a good spot. Your bond will keep paying the higher rate that was set when you bought it, even if new bonds are offering less. This means you'll be earning more interest than people who buy new bonds at the lower rate. So, the timing of when you buy your fixed rate bond can make a big difference in how much money you earn.
 

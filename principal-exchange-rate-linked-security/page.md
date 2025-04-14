@@ -66,9 +66,9 @@ If you hold onto your PERLS until they mature and then get your money back, any 
 
 ## How do PERLS compare to other foreign exchange investment products?
 
-PERLS are different from other foreign exchange investment products because they mix features of both stocks and bonds. While other products like currency ETFs or forex trading focus mainly on changes in currency values, PERLS also give you regular payments like a bond and the chance to convert into company shares. This makes PERLS a bit more complex but also potentially more rewarding if the exchange rate and the company's stock price move in your favor.
+PERLS are different from other foreign exchange investment products because they mix features of both stocks and bonds. While other products like currency ETFs or [forex](/wiki/forex-system) trading focus mainly on changes in currency values, PERLS also give you regular payments like a bond and the chance to convert into company shares. This makes PERLS a bit more complex but also potentially more rewarding if the exchange rate and the company's stock price move in your favor.
 
-Compared to simpler foreign exchange products, PERLS can be riskier because they depend on both currency movements and the performance of the issuing company. For example, with a currency ETF, you're betting only on the exchange rate between two currencies. But with PERLS, you also need to think about what's happening with the company's stock. This means you might make more money if everything goes well, but you could also lose more if things don't go as planned. It's important to understand these differences and maybe talk to a financial advisor to see if PERLS are right for you.
+Compared to simpler foreign exchange products, PERLS can be riskier because they depend on both currency movements and the performance of the issuing company. For example, with a currency [ETF](/wiki/etf-trading-strategies), you're betting only on the exchange rate between two currencies. But with PERLS, you also need to think about what's happening with the company's stock. This means you might make more money if everything goes well, but you could also lose more if things don't go as planned. It's important to understand these differences and maybe talk to a financial advisor to see if PERLS are right for you.
 
 ## What historical performance data is available for PERLS?
 

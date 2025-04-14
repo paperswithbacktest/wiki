@@ -64,9 +64,9 @@ Another way trading floors manage risk is by using computers and software to wat
 
 ## What are some common strategies used by traders on the floor?
 
-Traders on the floor use different strategies to make money and manage risk. One common strategy is called "day trading." Day traders buy and sell stocks within the same day, trying to make quick profits from small changes in stock prices. They watch the market closely and make many trades in a short time. Another strategy is "swing trading," where traders hold onto stocks for a few days or weeks. They try to catch bigger price moves and make more money from each trade.
+Traders on the floor use different strategies to make money and manage risk. One common strategy is called "[day trading](/wiki/day-trading-spy)." Day traders buy and sell stocks within the same day, trying to make quick profits from small changes in stock prices. They watch the market closely and make many trades in a short time. Another strategy is "swing trading," where traders hold onto stocks for a few days or weeks. They try to catch bigger price moves and make more money from each trade.
 
-Another strategy traders use is "arbitrage." This means buying a stock in one place where it's cheaper and selling it in another place where it's more expensive. Traders can make money from the difference in prices. They also use "hedging" to protect their investments. Hedging means buying other investments that will go up if their main investment goes down. This helps them lower the risk of losing money. Overall, traders use these strategies to make the best use of the fast-paced and sometimes unpredictable environment of the trading floor.
+Another strategy traders use is "[arbitrage](/wiki/arbitrage)." This means buying a stock in one place where it's cheaper and selling it in another place where it's more expensive. Traders can make money from the difference in prices. They also use "hedging" to protect their investments. Hedging means buying other investments that will go up if their main investment goes down. This helps them lower the risk of losing money. Overall, traders use these strategies to make the best use of the fast-paced and sometimes unpredictable environment of the trading floor.
 
 ## How do global events influence the activities on a trading floor?
 
@@ -136,11 +136,11 @@ Implementing a mean-reversion strategy requires rigorous statistical analysis to
 
 **High-Frequency Trading (HFT)**
 
-High-frequency trading (HFT) involves executing a large number of orders at extremely fast speeds using powerful computers and algorithms. HFT seeks to exploit small price imbalances and inefficiencies often available only for a short duration. This type of trading requires low latency in order execution and is typically performed by large institutional traders because of the significant infrastructure investment required.
+High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) involves executing a large number of orders at extremely fast speeds using powerful computers and algorithms. HFT seeks to exploit small price imbalances and inefficiencies often available only for a short duration. This type of trading requires low latency in order execution and is typically performed by large institutional traders because of the significant infrastructure investment required.
 
 The potential rewards of HFT include consistently capturing small spreads and reducing exposure time, but it also involves substantial risks. Technical failures, excessive market noise, and legal constraints are critical factors in managing an HFT strategy, with regulatory bodies closely scrutinizing these activities due to concerns over market stability.
 
-In summary, algorithmic trading strategies, while offering substantial profit potential, require deep market understanding, sophisticated algorithms, and careful risk management. Each strategy capitalizes on specific market dynamics, necessitating traders to continuously adapt and refine their approaches based on evolving market conditions and technological advancements.
+In summary, [algorithmic trading](/wiki/algorithmic-trading) strategies, while offering substantial profit potential, require deep market understanding, sophisticated algorithms, and careful risk management. Each strategy capitalizes on specific market dynamics, necessitating traders to continuously adapt and refine their approaches based on evolving market conditions and technological advancements.
 
 ## References & Further Reading
 

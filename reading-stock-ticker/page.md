@@ -18,7 +18,7 @@ The stock ticker is important because it helps keep trading organized and effici
 
 A stock ticker shows important information about a company's stock in a short, easy-to-read format. The main part of the ticker is the symbol, which is a short code like "AAPL" for Apple Inc. This symbol helps you quickly find the stock you're interested in. Next to the symbol, you'll see the stock's price, which tells you how much one share of the stock costs at that moment. The price can change a lot during the day as people buy and sell the stock.
 
-Another important part of the ticker is the change in price, which shows how much the stock's price has gone up or down since the last trading day. This is usually shown as a dollar amount and a percentage. For example, if the stock's price was $100 yesterday and it's $102 today, the change might be shown as "+$2 (+2%)". This helps you see at a glance if the stock is doing better or worse than it was before. Sometimes, the ticker also shows the volume, which is the number of shares traded that day. A high volume can mean a lot of interest in the stock.
+Another important part of the ticker is the change in price, which shows how much the stock's price has gone up or down since the last trading day. This is usually shown as a dollar amount and a percentage. For example, if the stock's price was $100 yesterday and it's $102 today, the change might be shown as "+$2 (+2%)". This helps you see at a glance if the stock is doing better or worse than it was before. Sometimes, the ticker also shows the [volume](/wiki/volume-trading-strategy), which is the number of shares traded that day. A high volume can mean a lot of interest in the stock.
 
 ## What does the ticker symbol represent?
 
@@ -66,7 +66,7 @@ Also, stock tickers don't give you the full picture of the market. They show wha
 
 Advanced traders use stock ticker data along with other tools to make better decisions. They look at the ticker to see the current price and how much it's changed, but they also use other tools like charts and graphs to see how the stock has been doing over time. These charts can show patterns and trends that help traders guess where the stock might go next. They might use technical analysis, which is a way of looking at past price movements to predict future ones. By combining the real-time data from the ticker with this longer-term view, traders can make more informed choices about when to buy or sell.
 
-In addition to charts, advanced traders often use fundamental analysis, which means looking at the company's financial health and other important details. They might read news about the company, check its earnings reports, and look at economic indicators to understand what might affect the stock's price. By putting together all this information, traders can get a fuller picture of what's going on. The stock ticker gives them the immediate data, but the other tools help them understand the bigger story behind the numbers. This way, they can make smarter trades and manage their investments more effectively.
+In addition to charts, advanced traders often use [fundamental analysis](/wiki/fundamental-analysis), which means looking at the company's financial health and other important details. They might read news about the company, check its earnings reports, and look at economic indicators to understand what might affect the stock's price. By putting together all this information, traders can get a fuller picture of what's going on. The stock ticker gives them the immediate data, but the other tools help them understand the bigger story behind the numbers. This way, they can make smarter trades and manage their investments more effectively.
 
 ## What are some common mistakes beginners make when reading stock tickers?
 
@@ -203,7 +203,7 @@ Analyzing historical ticker data and back-testing provide a structured path to d
 
 ## How is Machine Learning applied in Ticker-Based Trading?
 
-Machine learning has become an integral component of modern trading strategies, especially when analyzing stock ticker data to forecast market movements. Several machine learning models are applied in trading, each with its unique approach to handling financial data like ticker information.
+Machine learning has become an integral component of modern trading strategies, especially when analyzing stock ticker data to forecast market movements. Several [machine learning](/wiki/machine-learning) models are applied in trading, each with its unique approach to handling financial data like ticker information.
 
 One common machine learning model employed in trading is logistic regression. Despite its simplicity, logistic regression is a powerful tool used to predict binary outcomes, such as whether a stock's price will go up or down. The logistic regression model predicts the probability that a given input point belongs to a particular category. In the context of stock movements, the model can be formulated as:
 

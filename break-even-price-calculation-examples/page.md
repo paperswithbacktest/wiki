@@ -238,5 +238,5 @@ In this example, the Python code calculates and outputs the contribution margin 
   - Investopedia (www.investopedia.com) offers detailed articles and tutorials on fundamental and advanced topics, including break-even analysis and trading strategies.
   - The Journal of Portfolio Management publishes peer-reviewed research focusing on quantitative finance and trading strategy development.
 
-These resources provide a robust foundation for understanding the break-even point's crucial role in both business financial management and algorithmic trading. They are suitable for both beginners seeking an introduction and practitioners looking to deepen their expertise.
+These resources provide a robust foundation for understanding the break-even point's crucial role in both business financial management and [algorithmic trading](/wiki/algorithmic-trading). They are suitable for both beginners seeking an introduction and practitioners looking to deepen their expertise.
 

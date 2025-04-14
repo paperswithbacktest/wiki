@@ -22,7 +22,7 @@ Broad money, on the other hand, includes narrow money but also adds other kinds 
 
 ## What components are included in the calculation of broad money?
 
-Broad money includes many different kinds of money that people can use or save. It starts with all the cash and coins that people carry around, as well as the money in checking accounts that you can use right away. This part is called narrow money and it's the money people use for everyday spending. But broad money goes beyond this to include other types of money that aren't as easy to spend immediately.
+Broad money includes many different kinds of money that people can use or save. It starts with all the cash and coins that people [carry](/wiki/carry-trading) around, as well as the money in checking accounts that you can use right away. This part is called narrow money and it's the money people use for everyday spending. But broad money goes beyond this to include other types of money that aren't as easy to spend immediately.
 
 In addition to narrow money, broad money includes money in savings accounts, which you can take out but might take a little time. It also covers money in money market funds, which are like savings accounts but can sometimes offer higher interest rates. Certificates of deposit, which are savings accounts that you agree to keep your money in for a certain time, are part of broad money too. All these different types of money together help show how much money is available in the whole economy, not just what's being used right now.
 
@@ -72,7 +72,7 @@ Over the years, different countries have also started to measure broad money in 
 
 Economists use different tools to look at broad money data and understand what it means for the economy. One tool is called econometric models. These models use math to find patterns in broad money and see how it affects things like inflation and interest rates. They help economists guess what might happen in the future based on what's happening with broad money right now. Another tool is called vector autoregression (VAR) models. These models look at how different parts of the economy, like broad money, work together over time. They can show how changes in broad money might lead to changes in other parts of the economy.
 
-Another important tool is the money multiplier model. This model helps economists understand how much money banks can create from the money they have. It's important because it shows how changes in broad money can affect how much money is available for people to spend. There are also newer ways to analyze broad money data, like using machine learning. Machine learning can find patterns in big sets of data that might be hard for people to see. It can help economists predict what might happen with broad money and the economy more accurately.
+Another important tool is the money multiplier model. This model helps economists understand how much money banks can create from the money they have. It's important because it shows how changes in broad money can affect how much money is available for people to spend. There are also newer ways to analyze broad money data, like using [machine learning](/wiki/machine-learning). Machine learning can find patterns in big sets of data that might be hard for people to see. It can help economists predict what might happen with broad money and the economy more accurately.
 
 ## How can understanding broad money help in predicting economic trends?
 
@@ -100,7 +100,7 @@ For investors and financial analysts, understanding broad money is essential as 
 
 ## What are Technical Indicators and how are they used in Algorithmic Trading?
 
-Technical indicators are indispensable tools within algorithmic trading, offering the ability to gauge market conditions through trend and [momentum](/wiki/momentum) insights. Among the most widely used indicators are Moving Averages, the Relative Strength Index (RSI), and the Moving Average Convergence Divergence (MACD). These indicators facilitate automated decision-making, enabling traders to execute trades with speed and precision.
+Technical indicators are indispensable tools within [algorithmic trading](/wiki/algorithmic-trading), offering the ability to gauge market conditions through trend and [momentum](/wiki/momentum) insights. Among the most widely used indicators are Moving Averages, the Relative Strength Index (RSI), and the Moving Average Convergence Divergence (MACD). These indicators facilitate automated decision-making, enabling traders to execute trades with speed and precision.
 
 **Moving Averages** serve as a foundational tool, smoothing out price data by creating a constantly updated average price. This is useful for identifying the direction of the trend. The Simple Moving Average (SMA) and the Exponential Moving Average (EMA) are the two most common types. The difference lies in their calculation: 
 

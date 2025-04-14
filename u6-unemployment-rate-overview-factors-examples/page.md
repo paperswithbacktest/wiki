@@ -44,7 +44,7 @@ The U-6 rate also includes people who want to work but have stopped looking for 
 
 The U-6 unemployment rate can go up or down because of many things. One big thing is the overall health of the economy. When the economy is doing well, businesses hire more people and it's easier to find a job. This can make the U-6 rate go down. But if the economy is not doing well, businesses might not hire as much or might even lay off workers, which can make the U-6 rate go up.
 
-Another factor is the number of people who are working part-time but want full-time jobs. If a lot of people can only find part-time work even though they want to work more, the U-6 rate will be higher. Also, the number of people who have stopped looking for work but still want a job can affect the U-6 rate. If more people get discouraged and stop looking, even though they want to work, the U-6 rate will go up.
+Another [factor](/wiki/factor-investing) is the number of people who are working part-time but want full-time jobs. If a lot of people can only find part-time work even though they want to work more, the U-6 rate will be higher. Also, the number of people who have stopped looking for work but still want a job can affect the U-6 rate. If more people get discouraged and stop looking, even though they want to work, the U-6 rate will go up.
 
 ## Can you provide historical data showing trends in the U-6 unemployment rate?
 
@@ -62,7 +62,7 @@ But when the economy has big problems, like during the Great Recession in 2008 a
 
 The U-6 unemployment rate is a good way to see how many people are having trouble finding work, but it has some problems. One problem is that it can be hard to tell if someone is really underemployed or if they just want to work part-time. If someone says they want a full-time job but they're happy with part-time work, they might still be counted in the U-6 rate. This can make the rate seem higher than it really is.
 
-Another problem is that the U-6 rate doesn't tell us everything about the economy. It's just one number, and there are other things that can affect how well the economy is doing. For example, the U-6 rate doesn't show if people are earning enough money or if prices are going up. So, while the U-6 rate is useful, it's important to look at other numbers too to get a full picture of the economy.
+Another problem is that the U-6 rate doesn't tell us everything about the economy. It's just one number, and there are other things that can affect how well the economy is doing. For example, the U-6 rate doesn't show if people are [earning](/wiki/earning-announcement) enough money or if prices are going up. So, while the U-6 rate is useful, it's important to look at other numbers too to get a full picture of the economy.
 
 ## How do different countries measure unemployment similarly to the U-6 rate?
 

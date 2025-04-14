@@ -201,7 +201,7 @@ $$
 
 On the other hand, YTM offers a long-term view by calculating the total expected return if a bond is held until maturity, considering the reinvestment of all coupon payments. YTM factors in the time value of money, thus facilitating a consistent comparison across various bonds.
 
-The rise of algorithmic trading has amplified the significance of these metrics. Algorithmic strategies use tools and software to automate trading, allowing swift responses to market conditions based on quantitative data and historical performance trends. By understanding metrics like HPR and YTM, algorithmic traders can refine strategies to optimize investment returns while managing risk effectively.
+The rise of [algorithmic trading](/wiki/algorithmic-trading) has amplified the significance of these metrics. Algorithmic strategies use tools and software to automate trading, allowing swift responses to market conditions based on quantitative data and historical performance trends. By understanding metrics like HPR and YTM, algorithmic traders can refine strategies to optimize investment returns while managing risk effectively.
 
 Integrating HPR and YTM insights into the decision-making process enhances investment strategy automation and allows for better performance management and risk mitigation. These measures equip investors with the analytical tools necessary to navigate the complexities of financial markets and achieve optimal results.
 

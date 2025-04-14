@@ -54,7 +54,7 @@ The value of the New Taiwan Dollar compared to other countries' money has change
 
 The exchange rate of the New Taiwan Dollar (NTD) is influenced by many things. One big thing is Taiwan's economy. When Taiwan's economy is doing well, the NTD can become stronger compared to other countries' money. This can happen because more people want to buy things from Taiwan, so they need NTD. Another thing that can change the exchange rate is what's happening in the world. For example, if there are big problems or changes in other countries, it can make the NTD go up or down.
 
-The Central Bank of the Republic of China also plays a big role. They can decide to buy or sell NTD to help keep it stable. If the NTD is getting too weak, the Central Bank might buy more NTD to make it stronger. If it's getting too strong, they might sell some to keep it from going up too much. Interest rates are another factor. If interest rates in Taiwan go up, more people might want to invest in Taiwan, which can make the NTD stronger. All these things together help decide how much the NTD is worth compared to other money.
+The Central Bank of the Republic of China also plays a big role. They can decide to buy or sell NTD to help keep it stable. If the NTD is getting too weak, the Central Bank might buy more NTD to make it stronger. If it's getting too strong, they might sell some to keep it from going up too much. Interest rates are another [factor](/wiki/factor-investing). If interest rates in Taiwan go up, more people might want to invest in Taiwan, which can make the NTD stronger. All these things together help decide how much the NTD is worth compared to other money.
 
 ## How does the New Taiwan Dollar compare to other major currencies?
 

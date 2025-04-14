@@ -18,7 +18,7 @@ The S&P GSCI is calculated based on the value of futures contracts on the commod
 
 The S&P GSCI includes many different types of commodities. These are grouped into categories like energy, agriculture, livestock, industrial metals, and precious metals. This means the index covers things like oil, wheat, cattle, copper, and gold.
 
-Each category has several specific commodities. For example, in the energy category, you'll find crude oil, heating oil, and natural gas. In agriculture, there are commodities like wheat, corn, and soybeans. Livestock includes live cattle and lean hogs. Industrial metals cover things like copper and aluminum, while precious metals include gold and silver. This wide range helps the S&P GSCI give a good overall picture of the commodity market.
+Each category has several specific commodities. For example, in the energy category, you'll find [crude oil](/wiki/crude-oil), heating oil, and natural gas. In agriculture, there are commodities like wheat, corn, and soybeans. Livestock includes live cattle and lean hogs. Industrial metals cover things like copper and aluminum, while precious metals include gold and silver. This wide range helps the S&P GSCI give a good overall picture of the commodity market.
 
 ## How are the commodities weighted in the S&P GSCI?
 
@@ -52,7 +52,7 @@ Another problem is that the S&P GSCI uses futures contracts to measure commodity
 
 ## How does the S&P GSCI handle commodity price volatility?
 
-The S&P GSCI deals with commodity price volatility by including a wide range of commodities in its index. This means it doesn't just focus on one type of commodity like oil or gold. Instead, it spreads out across energy, agriculture, livestock, and metals. By doing this, the index can balance out big price swings in one commodity with smaller changes in others. This helps make the index more stable and less affected by big price jumps in any single commodity.
+The S&P GSCI deals with commodity price [volatility](/wiki/volatility-trading-strategies) by including a wide range of commodities in its index. This means it doesn't just focus on one type of commodity like oil or gold. Instead, it spreads out across energy, agriculture, livestock, and metals. By doing this, the index can balance out big price swings in one commodity with smaller changes in others. This helps make the index more stable and less affected by big price jumps in any single commodity.
 
 However, the S&P GSCI still has a big focus on energy commodities, especially oil. This means that if oil prices go up or down a lot, it can still make the whole index move a lot. This can be a problem because it makes the index more sensitive to changes in oil prices than to other commodities. So, while the S&P GSCI tries to handle volatility by including many commodities, its heavy focus on energy can still make it less stable than it might seem.
 
@@ -66,7 +66,7 @@ Over the long term, the S&P GSCI has shown that it can be a good way to protect 
 
 Investors can gain exposure to the S&P GSCI by buying exchange-traded funds (ETFs) or mutual funds that track the index. These funds are designed to follow the performance of the S&P GSCI, so when the index goes up or down, the value of the fund does the same. This is an easy way for investors to get into the commodity market without having to buy the actual commodities themselves. Some popular ETFs that track the S&P GSCI include the iShares S&P GSCI Commodity-Indexed Trust and the DB Commodity Index Tracking Fund.
 
-Another way to invest in the S&P GSCI is through futures contracts. These are agreements to buy or sell commodities at a future date, and they are what the S&P GSCI uses to measure commodity prices. Investors can buy futures contracts that match the commodities in the index, but this can be more complicated and risky than buying an ETF. It's usually better for people who know a lot about the commodity market and are comfortable with the risks involved.
+Another way to invest in the S&P GSCI is through futures contracts. These are agreements to buy or sell commodities at a future date, and they are what the S&P GSCI uses to measure commodity prices. Investors can buy futures contracts that match the commodities in the index, but this can be more complicated and risky than buying an [ETF](/wiki/etf-trading-strategies). It's usually better for people who know a lot about the commodity market and are comfortable with the risks involved.
 
 ## What are the risks associated with the S&P GSCI?
 

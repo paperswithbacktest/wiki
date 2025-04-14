@@ -22,7 +22,7 @@ Another reason companies issue bonds is that it can be cheaper than other ways o
 
 ## What are the different types of corporate bonds?
 
-There are different types of corporate bonds that companies can issue. One common type is the fixed-rate bond, where the interest rate stays the same until the bond matures. This means investors know exactly how much interest they will get each year. Another type is the floating-rate bond, where the interest rate can change based on a benchmark like the LIBOR. This can be good for investors if interest rates go up, but it can also mean less money if rates go down.
+There are different types of corporate bonds that companies can issue. One common type is the fixed-rate bond, where the [interest rate](/wiki/interest-rate-trading-strategies) stays the same until the bond matures. This means investors know exactly how much interest they will get each year. Another type is the floating-rate bond, where the interest rate can change based on a benchmark like the LIBOR. This can be good for investors if interest rates go up, but it can also mean less money if rates go down.
 
 Another type of bond is the zero-coupon bond, which does not pay interest during its term. Instead, it is sold at a lower price than its face value, and when it matures, the investor gets the full face value. This makes money for the investor because they buy low and get paid back more later. There are also convertible bonds, which can be turned into a certain number of the company's stock shares. This can be good for investors if they think the company's stock will go up in value.
 

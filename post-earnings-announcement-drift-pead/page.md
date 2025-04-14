@@ -22,7 +22,7 @@ Since then, many other researchers have studied PEAD to understand why it happen
 
 ## What are the key factors that contribute to PEAD?
 
-Several key factors contribute to Post Earnings Announcement Drift (PEAD). One major factor is that not all investors react to earnings news at the same time. Some investors might need more time to understand the earnings report or might wait to see how other investors react. This delay in reaction can cause the stock price to keep moving in the direction of the earnings surprise for weeks or even months after the announcement.
+Several key factors contribute to Post Earnings Announcement Drift (PEAD). One major [factor](/wiki/factor-investing) is that not all investors react to earnings news at the same time. Some investors might need more time to understand the earnings report or might wait to see how other investors react. This delay in reaction can cause the stock price to keep moving in the direction of the earnings surprise for weeks or even months after the announcement.
 
 Another factor is the size of the earnings surprise. If a company's earnings are much higher or much lower than what was expected, the stock price might drift more strongly. This is because a big surprise can take longer for investors to fully understand and react to. Additionally, the size of the company can also affect PEAD. Smaller companies might have more PEAD because they are less followed by analysts and investors, so it takes longer for their earnings news to be fully reflected in the stock price.
 

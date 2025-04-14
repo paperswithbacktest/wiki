@@ -174,7 +174,7 @@ $$
 \text{Payout Ratio} = \left(\frac{\text{Dividends Per Share}}{\text{Earnings Per Share}}\right) \times 100
 $$
 
-Moreover, investors can employ algorithmic trading strategies to optimize entry and exit points in dividend stocks, thus potentially improving returns while managing risk exposure. Additionally, using Dividend Reinvestment Plans (DRIPs) can help compound growth and diminish the impact of short-term market volatility by averaging down the cost of shares over time.
+Moreover, investors can employ [algorithmic trading](/wiki/algorithmic-trading) strategies to optimize entry and [exit](/wiki/exit-strategy) points in dividend stocks, thus potentially improving returns while managing risk exposure. Additionally, using Dividend Reinvestment Plans (DRIPs) can help compound growth and diminish the impact of short-term market volatility by averaging down the cost of shares over time.
 
 By understanding and addressing these risks, investors can better position themselves to reap the benefits of dividend stocks while minimizing potential downsides.
 

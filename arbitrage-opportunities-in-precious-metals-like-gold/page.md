@@ -18,7 +18,7 @@ When it comes to gold, arbitrage can happen if the price of gold is different in
 
 In the gold market, one common type of arbitrage opportunity is called spatial arbitrage. This happens when the price of gold is different in different places around the world. For example, if gold is cheaper in Dubai than in New York, someone could buy gold in Dubai and then sell it in New York to make a profit. This kind of arbitrage helps to make the price of gold more similar everywhere, as people keep buying where it's cheap and selling where it's expensive.
 
-Another type of arbitrage opportunity in the gold market is called temporal arbitrage. This involves taking advantage of price differences that happen over time. For instance, if someone thinks that the price of gold will go up in the future, they might buy gold now and sell it later when the price is higher. This can be done using futures contracts, which are agreements to buy or sell gold at a set price on a specific date in the future. By doing this, traders can make money from changes in the price of gold over time.
+Another type of [arbitrage](/wiki/arbitrage) opportunity in the gold market is called temporal arbitrage. This involves taking advantage of price differences that happen over time. For instance, if someone thinks that the price of gold will go up in the future, they might buy gold now and sell it later when the price is higher. This can be done using futures contracts, which are agreements to buy or sell gold at a set price on a specific date in the future. By doing this, traders can make money from changes in the price of gold over time.
 
 ## How can beginners identify simple arbitrage opportunities in gold?
 
@@ -48,7 +48,7 @@ Using futures and options can help people take advantage of price differences in
 
 Statistical arbitrage in the gold market involves using math and computer programs to find small price differences between different gold products or markets. People who do this look at lots of data to see if they can spot patterns that might help them make money. For example, they might see that the price of gold in one place often goes up when the price of gold in another place goes down. If they can find these patterns, they can buy gold where it's cheap and sell it where it's expensive, making a small profit each time. Over time, these small profits can add up to a lot of money.
 
-But using statistical arbitrage in the gold market can be tricky. It needs a lot of data and fast computers to work well. Also, the patterns that people find might not always be right, and the market can change in ways that are hard to predict. This means that even if someone is good at finding patterns, they can still lose money if the market doesn't do what they expect. So, while statistical arbitrage can be a smart way to make money in the gold market, it also comes with risks that people need to think about carefully.
+But using [statistical arbitrage](/wiki/statistical-arbitrage) in the gold market can be tricky. It needs a lot of data and fast computers to work well. Also, the patterns that people find might not always be right, and the market can change in ways that are hard to predict. This means that even if someone is good at finding patterns, they can still lose money if the market doesn't do what they expect. So, while statistical arbitrage can be a smart way to make money in the gold market, it also comes with risks that people need to think about carefully.
 
 ## What are the tax implications of engaging in gold arbitrage?
 

@@ -111,7 +111,7 @@ Effective risk management is crucial in algorithmic short selling, where the com
 
 ### Position Sizing
 
-Position sizing is fundamental in managing risk within algorithmic short selling. It involves determining the appropriate amount of capital to allocate to each trade relative to an investor's total portfolio. This strategy helps mitigate the risk of significant losses. The key considerations for position sizing include an individual’s risk tolerance, the volatility of the asset, and the overall market conditions. A general rule of thumb is to risk no more than a pre-determined percentage of one's capital on a single trade. This can be calculated using the formula:
+Position sizing is fundamental in managing risk within algorithmic short selling. It involves determining the appropriate amount of capital to allocate to each trade relative to an investor's total portfolio. This strategy helps mitigate the risk of significant losses. The key considerations for position sizing include an individual’s risk tolerance, the [volatility](/wiki/volatility-trading-strategies) of the asset, and the overall market conditions. A general rule of thumb is to risk no more than a pre-determined percentage of one's capital on a single trade. This can be calculated using the formula:
 
 $$
 \text{Position Size} = \frac{\text{Account Risk} \times \text{Account Equity}}{\text{Trade Risk}}
@@ -124,7 +124,7 @@ where:
 
 ### Stop-Loss Mechanisms
 
-Stop-loss mechanisms are integral in managing downside risk in algorithmic short selling. These are pre-defined conditions set to automatically exit a position once the asset price reaches a certain level. This helps in limiting losses, especially when market movements are adverse and unexpected. In an algorithmic context, stop-loss orders can be executed automatically without the need for human intervention, ensuring prompt responses to unfavorable price changes. An example Python snippet for setting a stop-loss order might look like this:
+Stop-loss mechanisms are integral in managing downside risk in algorithmic short selling. These are pre-defined conditions set to automatically [exit](/wiki/exit-strategy) a position once the asset price reaches a certain level. This helps in limiting losses, especially when market movements are adverse and unexpected. In an algorithmic context, stop-loss orders can be executed automatically without the need for human intervention, ensuring prompt responses to unfavorable price changes. An example Python snippet for setting a stop-loss order might look like this:
 
 ```python
 def calculate_stop_loss(entry_price, risk_percentage):

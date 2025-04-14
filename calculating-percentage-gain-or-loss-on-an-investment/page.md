@@ -66,7 +66,7 @@ Now, to find the annualized gain, you need to figure out what percentage you wou
 
 When you make money from your investments, like selling a stock for more than you paid, you have a capital gain. The government might want you to pay taxes on this gain. How much you pay depends on how long you held the investment. If you held it for a year or less, it's a short-term capital gain, and you pay taxes at your normal income tax rate. If you held it for more than a year, it's a long-term capital gain, and you usually pay a lower tax rate. This can be 0%, 15%, or 20%, depending on your income.
 
-If you lose money on an investment, like selling a stock for less than you paid, you have a capital loss. You can use this loss to lower your taxes. You can subtract your capital losses from your capital gains for the year. If your losses are more than your gains, you can use up to $3,000 of the extra loss to lower your other income. If you still have more losses after that, you can carry them over to future years to use them then. This helps you pay less in taxes over time.
+If you lose money on an investment, like selling a stock for less than you paid, you have a capital loss. You can use this loss to lower your taxes. You can subtract your capital losses from your capital gains for the year. If your losses are more than your gains, you can use up to $3,000 of the extra loss to lower your other income. If you still have more losses after that, you can [carry](/wiki/carry-trading) them over to future years to use them then. This helps you pay less in taxes over time.
 
 ## How do you incorporate transaction costs and fees into the percentage gain or loss calculation?
 
@@ -78,7 +78,7 @@ Once you have these numbers, you can figure out your percentage gain or loss the
 
 Advanced statistical methods can help you make better guesses about how much money you might make or lose on your investments. These methods look at a lot of past data to find patterns and trends. For example, they can use something called regression analysis to see how different things, like the economy or interest rates, affect your investment's value. By understanding these patterns, you can make smarter choices about when to buy or sell. Another method, called time series analysis, looks at how your investment's value changes over time. This can help you predict what might happen next based on what has happened before.
 
-These methods also help you understand how sure you can be about your predictions. They use something called confidence intervals to show a range of possible outcomes. This means you can see not just what you think might happen, but also how likely it is to happen. For example, machine learning can look at huge amounts of data to find hidden patterns that simpler methods might miss. By using these advanced tools, you can make more informed decisions and maybe even reduce the risk of losing money. They give you a clearer picture of the future, which can be really helpful when you're trying to grow your investments.
+These methods also help you understand how sure you can be about your predictions. They use something called confidence intervals to show a range of possible outcomes. This means you can see not just what you think might happen, but also how likely it is to happen. For example, [machine learning](/wiki/machine-learning) can look at huge amounts of data to find hidden patterns that simpler methods might miss. By using these advanced tools, you can make more informed decisions and maybe even reduce the risk of losing money. They give you a clearer picture of the future, which can be really helpful when you're trying to grow your investments.
 
 ## What is the concept of understanding percentage gain and loss?
 
@@ -170,7 +170,7 @@ $$
 
 ### Integration into Algorithmic Strategies
 
-The automation of percentage gain/loss calculations is a foundational aspect of broader algorithmic trading strategies. These calculations can be integrated with other financial models to trigger buy or sell signals based on predefined criteria. For example, an algorithm could be programmed to execute trades if the percentage gain exceeds a certain threshold, indicating potential profit-taking.
+The automation of percentage gain/loss calculations is a foundational aspect of broader [algorithmic trading](/wiki/algorithmic-trading) strategies. These calculations can be integrated with other financial models to trigger buy or sell signals based on predefined criteria. For example, an algorithm could be programmed to execute trades if the percentage gain exceeds a certain threshold, indicating potential profit-taking.
 
 Algorithmic trading systems often incorporate other statistical tools and machine learning models to enhance decision-making processes, combining historical price data analysis, sentiment analysis, and predictive modeling to refine trading strategies further. As these systems adapt to real-time financial market movements, the incorporation of automated percentage gain/loss calculations remains a central element in maximizing investment returns while minimizing risk.
 

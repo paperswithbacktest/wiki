@@ -21,7 +21,7 @@ In traditional machine learning, we might only look at how often the model gets 
 
 ## What are the key components of an objective machine learning system?
 
-Objective machine learning systems focus on fairness, transparency, and clear goals. These systems start by setting specific objectives for what the model should do. For example, if the model is used to approve loans, the goal might be to make sure it approves loans fairly for all groups of people. To do this, the system needs to define what fairness means and how to measure it. This might involve looking at how the model performs for different groups and making sure it doesn't treat any group unfairly.
+Objective [machine learning](/wiki/machine-learning) systems focus on fairness, transparency, and clear goals. These systems start by setting specific objectives for what the model should do. For example, if the model is used to approve loans, the goal might be to make sure it approves loans fairly for all groups of people. To do this, the system needs to define what fairness means and how to measure it. This might involve looking at how the model performs for different groups and making sure it doesn't treat any group unfairly.
 
 To make sure the model meets these goals, objective machine learning systems use different methods to test and check the model. They might use measures like accuracy, which shows how often the model gets things right, but they also use other measures to check for fairness. For example, they might look at how the model's accuracy changes for different groups of people. If the model is less accurate for one group, it might be biased. By using these different measures, the system can make sure the model is not only accurate but also fair and transparent.
 

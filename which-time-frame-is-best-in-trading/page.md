@@ -30,7 +30,7 @@ Long time frames include weekly and monthly charts. These are often used by posi
 
 ## How does a beginner trader choose an appropriate time frame?
 
-For a beginner trader, choosing the right time frame can feel a bit tricky at first. It's important to think about what kind of trading you want to do. If you want to make quick trades and see fast changes in the market, you might want to start with short time frames like 1-minute, 5-minute, or 15-minute charts. These are good for day trading, where you buy and sell within the same day. But remember, short time frames can be a bit confusing because they show a lot of quick ups and downs.
+For a beginner trader, choosing the right time frame can feel a bit tricky at first. It's important to think about what kind of trading you want to do. If you want to make quick trades and see fast changes in the market, you might want to start with short time frames like 1-minute, 5-minute, or 15-minute charts. These are good for [day trading](/wiki/day-trading-spy), where you buy and sell within the same day. But remember, short time frames can be a bit confusing because they show a lot of quick ups and downs.
 
 If you're more interested in holding onto your investments for a few days or weeks, you might want to look at medium time frames like 1-hour, 4-hour, or daily charts. These are good for swing trading, where you try to catch bigger trends in the market. They give you a clearer picture of what's happening over a longer period. As a beginner, it's a good idea to start with a medium time frame because it's easier to see the trends and make decisions. Once you get more comfortable, you can try shorter or longer time frames to see what works best for you.
 
@@ -66,7 +66,7 @@ For example, a trader might see a big upward trend on a weekly chart. This tells
 
 ## What role does a trader's personal schedule play in selecting a time frame?
 
-A trader's personal schedule is really important when picking a time frame. If you have a lot of time during the day to watch the market, you might choose shorter time frames like 1-minute or 5-minute charts. These are good for day trading because you can make quick trades and catch small changes in the market. But if you're busy and can't watch the market all the time, shorter time frames might not work well for you. You might miss important changes and make bad trades.
+A trader's personal schedule is really important when [picking](/wiki/asset-class-picking) a time frame. If you have a lot of time during the day to watch the market, you might choose shorter time frames like 1-minute or 5-minute charts. These are good for day trading because you can make quick trades and catch small changes in the market. But if you're busy and can't watch the market all the time, shorter time frames might not work well for you. You might miss important changes and make bad trades.
 
 On the other hand, if you don't have a lot of time to watch the market, longer time frames like daily or weekly charts might be better. These are good for swing trading or position trading because you don't need to check the market every minute. You can look at the charts once a day or once a week and still make good decisions. So, your personal schedule helps you pick the right time frame that fits your life and trading goals.
 

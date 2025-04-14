@@ -34,7 +34,7 @@ This case is important because it could change how digital currencies are treate
 
 ## What specific cryptocurrency is at the center of the SEC v. Ripple Labs case?
 
-The specific cryptocurrency at the center of the SEC v. Ripple Labs case is XRP. XRP is a digital currency created by Ripple Labs, and it's used to help banks and financial companies send money quickly and cheaply around the world.
+The specific [cryptocurrency](/wiki/cryptocurrency) at the center of the SEC v. Ripple Labs case is XRP. XRP is a digital currency created by Ripple Labs, and it's used to help banks and financial companies send money quickly and cheaply around the world.
 
 The main issue in the case is whether XRP should be considered a security. The SEC says that XRP is a security and that Ripple Labs broke the law by selling it without registering it properly. Ripple Labs disagrees and says that XRP is more like a currency or a commodity, not a security. This case is important because it could affect how other digital currencies are treated by the law.
 

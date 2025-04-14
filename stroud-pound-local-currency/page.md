@@ -70,7 +70,7 @@ The Stroud Pound also worked hard to get more shops and businesses to accept it.
 
 ## What are the future plans for the development of the Stroud Pound?
 
-The future plans for the Stroud Pound are all about making it easier and more fun for people to use. They want to make the online part even better so that more people can use it without having to carry paper money around. They also want to work with more shops and businesses so that you can use Stroud Pounds in more places. This way, it will be easier for everyone to help the local economy by using the Stroud Pound.
+The future plans for the Stroud Pound are all about making it easier and more fun for people to use. They want to make the online part even better so that more people can use it without having to [carry](/wiki/carry-trading) paper money around. They also want to work with more shops and businesses so that you can use Stroud Pounds in more places. This way, it will be easier for everyone to help the local economy by using the Stroud Pound.
 
 Another big plan is to have more events and ways to teach people about the Stroud Pound. They want to make sure everyone knows how it works and why it's good for the town. By doing this, they hope more people will start using it and that it will become a bigger part of life in Stroud. The goal is to keep the money in the local area and make the community even stronger.
 

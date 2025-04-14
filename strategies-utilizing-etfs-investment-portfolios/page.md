@@ -18,7 +18,7 @@ ETFs differ from other investment vehicles like mutual funds in a few key ways. 
 
 ETFs are a great way to spread out your investments and lower your risk. They let you buy a bunch of different stocks or bonds all at once, which means you're not putting all your money into just one company or type of investment. For example, if you buy an ETF that follows the S&P 500, you're getting a piece of 500 big companies instead of just one. This can help protect your money because if one company does badly, it won't hurt your whole investment as much.
 
-You can also use ETFs to invest in different areas of the market or different parts of the world. There are ETFs for almost anything you can think of, like technology, healthcare, or even countries like Japan or Brazil. By picking ETFs from different sectors or regions, you can make sure your money is spread out and not all in one place. This kind of mix can help your portfolio stay strong even if some parts of the market go up and down.
+You can also use ETFs to invest in different areas of the market or different parts of the world. There are ETFs for almost anything you can think of, like technology, healthcare, or even countries like Japan or Brazil. By [picking](/wiki/asset-class-picking) ETFs from different sectors or regions, you can make sure your money is spread out and not all in one place. This kind of mix can help your portfolio stay strong even if some parts of the market go up and down.
 
 ## What are the benefits of using ETFs for long-term investment strategies?
 
@@ -36,7 +36,7 @@ Another way ETFs help with risk is by offering choices for different parts of th
 
 ETFs come in many different types, so you can find one that fits what you want to invest in. There are ETFs that follow big stock indexes like the S&P 500, which means you're investing in a bunch of the biggest companies in the U.S. all at once. There are also ETFs that focus on specific sectors, like technology or healthcare, so you can invest in just those areas if you think they'll do well. And if you want to invest in other countries, there are ETFs for that too, like ones that focus on Europe or Asia.
 
-Another type of ETF is called a bond ETF, which invests in bonds instead of stocks. Bonds are like loans you give to companies or governments, and they pay you back with interest. Bond ETFs can be a safer way to invest because they usually don't go up and down as much as stocks. There are also ETFs that use fancy strategies, like ones that try to make more money by using things like leverage or short selling. These can be riskier, but they might also offer bigger rewards if you're willing to take the chance.
+Another type of [ETF](/wiki/etf-trading-strategies) is called a bond ETF, which invests in bonds instead of stocks. Bonds are like loans you give to companies or governments, and they pay you back with interest. Bond ETFs can be a safer way to invest because they usually don't go up and down as much as stocks. There are also ETFs that use fancy strategies, like ones that try to make more money by using things like leverage or short selling. These can be riskier, but they might also offer bigger rewards if you're willing to take the chance.
 
 ## How can investors use sector-specific ETFs to enhance their investment strategy?
 

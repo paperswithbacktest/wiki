@@ -28,7 +28,7 @@ On the other hand, a low turnover rate means the portfolio is not being traded m
 
 ## What does a high portfolio turnover rate indicate?
 
-A high portfolio turnover rate means that the person managing the portfolio is buying and selling a lot of investments. It shows that they are actively trading, trying to make the most money by switching investments often. This can be good if the manager is good at picking the right times to buy and sell, which can lead to higher returns for the investors.
+A high portfolio turnover rate means that the person managing the portfolio is buying and selling a lot of investments. It shows that they are actively trading, trying to make the most money by switching investments often. This can be good if the manager is good at [picking](/wiki/asset-class-picking) the right times to buy and sell, which can lead to higher returns for the investors.
 
 However, a high turnover rate can also mean more costs. Every time an investment is bought or sold, there are fees and taxes that come with it. These extra costs can add up and take away from the money the investors make. So, while a high turnover rate might seem like a sign of active management, it's important for investors to check if the benefits from the trading are more than the costs it brings.
 

@@ -22,7 +22,7 @@ Once the data is received, it goes through a lot of processing. Computers help c
 
 ## What are the main applications of satellite alternative data?
 
-Satellite alternative data is used in many ways to help people understand what is happening on Earth. One big use is in business and investing. Companies can use satellite pictures to see how busy a store or a factory is. For example, by looking at how full a parking lot is, they can guess how many people are shopping there. This helps investors decide if a company is doing well or not without waiting for official reports.
+Satellite [alternative data](/wiki/best-alternative-data) is used in many ways to help people understand what is happening on Earth. One big use is in business and investing. Companies can use satellite pictures to see how busy a store or a factory is. For example, by looking at how full a parking lot is, they can guess how many people are shopping there. This helps investors decide if a company is doing well or not without waiting for official reports.
 
 Another important use is in watching the environment. Satellites can keep an eye on things like forests, oceans, and weather. They can show how much a forest is growing or shrinking, or how clean the water in a lake is. This helps scientists and governments make plans to protect nature and deal with problems like climate change.
 

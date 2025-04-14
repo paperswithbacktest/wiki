@@ -56,7 +56,7 @@ Full-service brokers usually earn more than discount brokers because they offer 
 
 ## What factors influence a stockbroker's salary?
 
-A stockbroker's salary can be affected by many things. One big factor is where they work. Stockbrokers in big cities like New York or London might earn more money because there are more clients and more trading happening. Another important factor is how much experience the stockbroker has. Someone who has been working for a long time and knows a lot about the stock market might make more money than someone who is just starting out.
+A stockbroker's salary can be affected by many things. One big [factor](/wiki/factor-investing) is where they work. Stockbrokers in big cities like New York or London might earn more money because there are more clients and more trading happening. Another important factor is how much experience the stockbroker has. Someone who has been working for a long time and knows a lot about the stock market might make more money than someone who is just starting out.
 
 The type of broker also matters. Full-service brokers, who give a lot of advice and help to their clients, usually earn more than discount brokers. This is because they charge more for their services. They might get a bigger fee for each trade or take a larger part of the money their clients make from their investments. On the other hand, discount brokers and online brokers often have lower salaries because they charge less. But if they have a lot of clients, they can still make a good living.
 

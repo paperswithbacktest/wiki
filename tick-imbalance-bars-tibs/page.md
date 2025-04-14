@@ -52,7 +52,7 @@ Unlike regular charts that just show what happens in set times, TIBs focus on th
 
 ## Are there any specific markets or instruments where TIBs are particularly useful?
 
-TIBs can be really helpful in markets where there's a lot of trading going on, like the stock market or forex market. These markets have many trades happening all the time, so it's easier to see when there's a big difference between buy and sell trades. This can help traders in these markets make better guesses about where prices are going next.
+TIBs can be really helpful in markets where there's a lot of trading going on, like the stock market or [forex](/wiki/forex-system) market. These markets have many trades happening all the time, so it's easier to see when there's a big difference between buy and sell trades. This can help traders in these markets make better guesses about where prices are going next.
 
 For example, in the stock market, TIBs can show when a lot of people are buying or selling a certain stock. This can be useful for traders who want to know when to buy or sell that stock. In the forex market, where currencies are traded, TIBs can help traders see when there's a lot of buying or selling of a certain currency, which can help them decide when to trade.
 

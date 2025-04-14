@@ -66,7 +66,7 @@ A substitution error is different. It happens when one number or letter gets rep
 
 ## How do transposition errors affect the accuracy of statistical data?
 
-Transposition errors can make statistical data less accurate. When someone switches two numbers by mistake, it changes the data. For example, if a researcher writes "1234" instead of "1324" for a data point, the whole set of data can be wrong. This can lead to wrong conclusions because the numbers are not correct. Inaccurate data can make it hard to make good decisions based on the statistics.
+Transposition errors can make statistical data less accurate. When someone switches two numbers by mistake, it changes the data. For example, if a researcher writes "1234" instead of "1324" for a data point, the whole set of data can be wrong. This can lead to wrong conclusions because the numbers are not correct. Inaccurate data can make it hard to make good decisions based on the [statistics](/wiki/bayesian-statistics).
 
 To avoid these problems, it's important to be careful when entering data and to double-check the numbers. Using technology can help too. There are special programs that can check for transposition errors and fix them before they cause big problems. By being careful and using these tools, people can make sure their statistical data is accurate and reliable.
 
@@ -74,7 +74,7 @@ To avoid these problems, it's important to be careful when entering data and to 
 
 Advanced methods to find and fix transposition errors in big sets of data often use computers and special programs. These programs can look at a lot of numbers quickly and find mistakes like switched numbers. They use something called algorithms, which are like sets of rules, to check the data. For example, a program might compare the data to a correct list of numbers and point out any differences. This helps people find and fix transposition errors faster and easier than doing it by hand.
 
-Another way to catch transposition errors in big datasets is by using machine learning. This is when computers learn from past mistakes to get better at finding errors. Over time, the machine learning program can figure out where people often make transposition errors and focus on those parts more carefully. This makes the program even better at spotting and fixing mistakes. By using these advanced methods, people can keep their big sets of data accurate and reliable, which is important for making good decisions based on the data.
+Another way to catch transposition errors in big datasets is by using [machine learning](/wiki/machine-learning). This is when computers learn from past mistakes to get better at finding errors. Over time, the machine learning program can figure out where people often make transposition errors and focus on those parts more carefully. This makes the program even better at spotting and fixing mistakes. By using these advanced methods, people can keep their big sets of data accurate and reliable, which is important for making good decisions based on the data.
 
 ## How can machine learning be applied to predict and prevent transposition errors?
 

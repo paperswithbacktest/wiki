@@ -48,7 +48,7 @@ Another advantage of Obelisk is that it's fair. The algorithm makes sure that no
 
 ## What are the potential drawbacks or limitations of the Obelisk Consensus Algorithm?
 
-One potential problem with the Obelisk Consensus Algorithm is that it relies a lot on quick voting. If some computers in the network are slow or not working well, they might not be able to vote in time. This could mean their votes don't count, and the network might make decisions without hearing from everyone. It's like if some of your friends are late to the movie vote, and you end up picking a movie without them.
+One potential problem with the Obelisk Consensus Algorithm is that it relies a lot on quick voting. If some computers in the network are slow or not working well, they might not be able to vote in time. This could mean their votes don't count, and the network might make decisions without hearing from everyone. It's like if some of your friends are late to the movie vote, and you end up [picking](/wiki/asset-class-picking) a movie without them.
 
 Another limitation is that Obelisk might not be as secure as some other algorithms. Because it focuses on speed and fairness, it might not have as many checks to stop bad actors from messing with the network. While it's good at making sure no one computer can take over, it might not be as good at stopping smaller, sneakier attacks. It's like having a fair and fast way to pick a movie, but not having enough rules to stop someone from cheating.
 
@@ -66,7 +66,7 @@ Even though Obelisk focuses on being fast and fair, it still has ways to stop ba
 
 ## What are some real-world applications or implementations of the Obelisk Consensus Algorithm?
 
-The Obelisk Consensus Algorithm is used in some blockchain systems that need fast and fair decisions. For example, it can be used in cryptocurrency networks where people need to agree on transactions quickly. Imagine a digital wallet app that uses Obelisk to make sure that when you send money to a friend, the network agrees on the transaction fast and fairly. This makes the app work smoothly and keeps everyone's money safe.
+The Obelisk Consensus Algorithm is used in some blockchain systems that need fast and fair decisions. For example, it can be used in [cryptocurrency](/wiki/cryptocurrency) networks where people need to agree on transactions quickly. Imagine a digital wallet app that uses Obelisk to make sure that when you send money to a friend, the network agrees on the transaction fast and fairly. This makes the app work smoothly and keeps everyone's money safe.
 
 Another place where Obelisk can be helpful is in supply chain management. Companies can use it to track products from the factory to the store. Each time a product moves, the network needs to agree on where it is. Obelisk helps make these updates quick and fair, so everyone in the supply chain knows what's happening without delays or one company taking control. This makes the whole process more reliable and trustworthy.
 

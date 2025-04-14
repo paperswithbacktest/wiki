@@ -48,7 +48,7 @@ During earnings season, companies often try to pick a date and time that works w
 
 Companies usually plan to release their earnings reports about a month after the end of each quarter. This means if a quarter ends in March, they will share their reports in April. The same goes for the other quarters: June earnings come out in July, September earnings in October, and December earnings in January. This regular schedule helps everyone know when to expect new financial information.
 
-When picking the exact date and time, companies think about a few things. Some might choose to release their reports early in the morning before the stock market opens, while others might do it after the market closes. This timing can affect how quickly the stock price reacts to the news. Companies also look at what other big companies are doing, trying not to release their reports at the same time as others to stand out more.
+When [picking](/wiki/asset-class-picking) the exact date and time, companies think about a few things. Some might choose to release their reports early in the morning before the stock market opens, while others might do it after the market closes. This timing can affect how quickly the stock price reacts to the news. Companies also look at what other big companies are doing, trying not to release their reports at the same time as others to stand out more.
 
 ## How can investors prepare for earnings season?
 

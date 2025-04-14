@@ -190,7 +190,7 @@ Incorporating residual income into financial analysis provides a nuanced underst
 
 ## What is the role of residual income in algorithmic trading strategies?
 
-Residual income metrics have become an essential tool in algorithmic trading strategies. By providing insights into a company's economic profitability, residual income can inform and optimize trading decisions. Algorithmic trading, which relies on predefined rules and quantitative models to execute trades rapidly, benefits from the integration of residual income analysis in several ways.
+Residual income metrics have become an essential tool in [algorithmic trading](/wiki/algorithmic-trading) strategies. By providing insights into a company's economic profitability, residual income can inform and optimize trading decisions. Algorithmic trading, which relies on predefined rules and quantitative models to execute trades rapidly, benefits from the integration of residual income analysis in several ways.
 
 **Incorporating Residual Income in Trading Algorithms**
 

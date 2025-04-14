@@ -28,7 +28,7 @@ Another way to find this information is by using the Securities and Exchange Com
 
 ## What are the top three mutual funds with the largest shares in Bank of America?
 
-The top three mutual funds with the largest shares in Bank of America are Vanguard Total Stock Market Index Fund, Vanguard 500 Index Fund, and SPDR S&P 500 ETF Trust. These funds are popular because they aim to match the performance of the overall stock market, and Bank of America is a big part of that.
+The top three mutual funds with the largest shares in Bank of America are Vanguard Total Stock Market Index Fund, Vanguard 500 Index Fund, and SPDR S&P 500 [ETF](/wiki/etf-trading-strategies) Trust. These funds are popular because they aim to match the performance of the overall stock market, and Bank of America is a big part of that.
 
 The Vanguard Total Stock Market Index Fund owns the most shares of Bank of America among these funds. It tries to include all the stocks in the U.S. market, so it has a lot of Bank of America shares. The Vanguard 500 Index Fund and the SPDR S&P 500 ETF Trust also own a lot of Bank of America shares because they focus on the 500 biggest companies in the U.S., and Bank of America is one of them.
 

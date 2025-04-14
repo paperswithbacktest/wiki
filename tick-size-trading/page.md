@@ -22,13 +22,13 @@ Also, tick size can influence how liquid a market is. Liquidity means how easily
 
 ## How does tick size affect liquidity?
 
-Tick size can make a big difference in how easy it is to buy or sell things in the market, which we call liquidity. If the tick size is too big, like a dollar instead of a cent, it can be harder for buyers and sellers to agree on a price. Imagine you want to buy a stock at $10.00, but the seller wants $11.00. With a big tick size, you can't meet in the middle, so fewer trades happen, and the market becomes less liquid.
+Tick size can make a big difference in how easy it is to buy or sell things in the market, which we call [liquidity](/wiki/liquidity-risk-premium). If the tick size is too big, like a dollar instead of a cent, it can be harder for buyers and sellers to agree on a price. Imagine you want to buy a stock at $10.00, but the seller wants $11.00. With a big tick size, you can't meet in the middle, so fewer trades happen, and the market becomes less liquid.
 
 On the other hand, if the tick size is smaller, like a cent, it's easier for people to find a price they both like. You might offer $10.00, and the seller might accept $10.01. This small difference means more trades can happen, making the market more liquid. So, a smaller tick size can help keep the market moving smoothly and make it easier for everyone to trade.
 
 ## What is the relationship between tick size and price volatility?
 
-Tick size can affect how much a price moves up and down, which we call price volatility. If the tick size is big, like a dollar, the price can only move in big steps. This means if there's a lot of buying or selling, the price can jump a lot, making it seem more volatile. Imagine if you can only move in big steps; even small changes can feel like big jumps.
+Tick size can affect how much a price moves up and down, which we call price [volatility](/wiki/volatility-trading-strategies). If the tick size is big, like a dollar, the price can only move in big steps. This means if there's a lot of buying or selling, the price can jump a lot, making it seem more volatile. Imagine if you can only move in big steps; even small changes can feel like big jumps.
 
 On the other hand, if the tick size is small, like a cent, the price can move in tiny steps. This can make the market seem less volatile because the price can change more smoothly. It's like walking up a gentle slope instead of big stairs. So, a smaller tick size can help make the price changes look smoother and less jumpy.
 

@@ -52,7 +52,7 @@ Trading of hard commodities can happen in two ways. The first way is through ope
 
 The prices of soft commodities like wheat, coffee, and cotton can change a lot. One big reason is the weather. If there is too much rain or not enough, it can hurt the crops. This means there might be less of the commodity to sell, so the price goes up. Another reason is how much is planted. If farmers plant a lot of one crop, there might be too much of it, and the price can go down. Pests and diseases can also hurt crops, making less available and pushing prices up.
 
-Another factor that affects the prices of soft commodities is demand. If more people want to buy a commodity, the price can go up. For example, if more people start drinking coffee, the price of coffee beans might increase. Global events can also play a role. If there is a problem in a country that grows a lot of a certain commodity, it can affect the supply and the price. Governments can also change prices by making new rules or giving money to farmers to grow more of something. All these things together make the prices of soft commodities go up and down.
+Another [factor](/wiki/factor-investing) that affects the prices of soft commodities is demand. If more people want to buy a commodity, the price can go up. For example, if more people start drinking coffee, the price of coffee beans might increase. Global events can also play a role. If there is a problem in a country that grows a lot of a certain commodity, it can affect the supply and the price. Governments can also change prices by making new rules or giving money to farmers to grow more of something. All these things together make the prices of soft commodities go up and down.
 
 ## What factors influence the prices of hard commodities?
 

@@ -66,11 +66,11 @@ Another problem is that optimal trading curves can be hard to use in real life. 
 
 Machine learning can make optimal trading curves even better by looking at a lot of data and finding patterns that people might miss. It's like having a super smart friend who can see things you can't. Machine learning can learn from past trades and get better over time, making the trading curve more accurate. It can also handle a lot of different kinds of information at once, like news, social media, and market data, to make smarter predictions about when to buy and sell.
 
-Using machine learning means your optimal trading curve can change and adapt to new market conditions. If the market starts acting differently, machine learning can update your trading plan to keep it working well. This makes your trading strategy more flexible and able to handle surprises. So, machine learning can really help you make the most money by making your trading curve smarter and more responsive to what's happening in the market.
+Using [machine learning](/wiki/machine-learning) means your optimal trading curve can change and adapt to new market conditions. If the market starts acting differently, machine learning can update your trading plan to keep it working well. This makes your trading strategy more flexible and able to handle surprises. So, machine learning can really help you make the most money by making your trading curve smarter and more responsive to what's happening in the market.
 
 ## Can you discuss case studies where optimal trading curves significantly impacted investment strategies?
 
-One case where optimal trading curves made a big difference was with a hedge fund called Renaissance Technologies. They used math models to create optimal trading curves that helped them make a lot of money. Their main fund, the Medallion Fund, used these curves to trade in and out of stocks, bonds, and other assets quickly. By always looking for the best times to buy and sell, they were able to beat the market and make huge profits for their investors. This showed how powerful optimal trading curves can be when used right.
+One case where optimal trading curves made a big difference was with a [hedge fund](/wiki/hedge-fund-trading-strategies) called Renaissance Technologies. They used math models to create optimal trading curves that helped them make a lot of money. Their main fund, the Medallion Fund, used these curves to trade in and out of stocks, bonds, and other assets quickly. By always looking for the best times to buy and sell, they were able to beat the market and make huge profits for their investors. This showed how powerful optimal trading curves can be when used right.
 
 Another example is how a big bank used optimal trading curves to manage its currency trading. They wanted to make more money from trading different currencies, so they used these curves to find the best times to buy and sell. By using historical data and math models, they were able to make smarter trades and earn more profit. This case showed that optimal trading curves can help big institutions make better decisions and improve their investment strategies.
 
@@ -84,7 +84,7 @@ Another thing that might affect optimal trading curves is how markets and rules 
 
 Various mathematical models and algorithms are instrumental in constructing optimal trading curves, each aiming to devise strategies that minimize market impact and execution costs. Among these, the Almgren-Chriss model and the Volume Weighted Average Price (VWAP) are prominent examples that offer robust frameworks for trade execution.
 
-The Almgren-Chriss model is a cornerstone in the field, focusing on the trade-off between market impact costs and the volatility risks associated with order execution. The model quantifies these elements by leveraging a cost function, balancing immediate execution costs against risk from price movements. The linear nature of the market impact and the quadratic formulation of risk enable the derivation of optimal trade execution paths, often characterized by a trade schedule given by:
+The Almgren-Chriss model is a cornerstone in the field, focusing on the trade-off between market impact costs and the [volatility](/wiki/volatility-trading-strategies) risks associated with order execution. The model quantifies these elements by leveraging a cost function, balancing immediate execution costs against risk from price movements. The linear nature of the market impact and the quadratic formulation of risk enable the derivation of optimal trade execution paths, often characterized by a trade schedule given by:
 
 $$
 x(t) = \frac{X}{\theta T} \left(1 - \frac{t}{T}\right)
@@ -92,7 +92,7 @@ $$
 
 where $x(t)$ is the rate of trading, $X$ is the order size, $T$ is the total time, and $\theta$ is a risk aversion parameter. This model serves as a foundational element for quantifying the indirect costs of trading, particularly in liquid markets.
 
-The Volume Weighted Average Price (VWAP) strategy, on the other hand, targets minimizing the deviation from the average trading price within a given period. By utilizing historical trade data, VWAP calculates the average trading price weighted by [volume](/wiki/volume-trading-strategy), aiming to execute trades in close proximity to this benchmark. This approach is particularly effective in mitigating slippage and achieving more favorable execution prices in market environments where volume and liquidity vary significantly.
+The Volume Weighted Average Price (VWAP) strategy, on the other hand, targets minimizing the deviation from the average trading price within a given period. By utilizing historical trade data, VWAP calculates the average trading price weighted by [volume](/wiki/volume-trading-strategy), aiming to execute trades in close proximity to this benchmark. This approach is particularly effective in mitigating slippage and achieving more favorable execution prices in market environments where volume and [liquidity](/wiki/liquidity-risk-premium) vary significantly.
 
 Machine learning (ML) and [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) are progressively reshaping model development, introducing adaptive capabilities that enhance predictive accuracy. Algorithms such as [reinforcement learning](/wiki/reinforcement-learning) are employed to devise execution strategies by simulating various market scenarios and learning the optimal paths through algorithmic exploration. For instance, a reinforcement learning model might seek to minimize a loss function that penalizes deviations from the ideal execution curve, captured as:
 
@@ -121,7 +121,7 @@ update_strategy(q_table, state, action, reward, next_state)
 
 Developers and quantitative analysts strive to calibrate these models to reflect specific trading objectives, considering market conditions and trader risk preferences. Calibration involves adjusting model parameters to historic data and market conditions, ensuring the strategy aligns with targeted performance metrics. This process is crucial for models to remain effective amidst evolving market dynamics and liquidity profiles.
 
-In conclusion, the integration of advanced mathematical models, ML techniques, and algorithmic strategies plays a significant role in optimizing trading curves. These tools provide traders with the ability to manage execution and market impact efficiently, a capability that is essential in the rapidly changing landscape of algorithmic trading.
+In conclusion, the integration of advanced mathematical models, ML techniques, and algorithmic strategies plays a significant role in optimizing trading curves. These tools provide traders with the ability to manage execution and market impact efficiently, a capability that is essential in the rapidly changing landscape of [algorithmic trading](/wiki/algorithmic-trading).
 
 ## References & Further Reading
 

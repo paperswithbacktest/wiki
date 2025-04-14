@@ -18,7 +18,7 @@ Vanguard offers many services to help people with their money. They have differe
 
 In 2024, Vanguard has continued to perform well, much like it has in previous years. The company's focus on low-cost index funds has helped it maintain strong returns for its investors. Compared to 2023, Vanguard's overall performance has been slightly better, thanks to a stable market and the company's strategic adjustments to its fund offerings. Investors have seen steady growth in their portfolios, which is in line with Vanguard's long-term approach to investing.
 
-Looking back at the past few years, Vanguard's performance has been consistent. In 2022, the company faced some challenges due to market volatility, but it still managed to deliver positive returns for most of its funds. By 2023, Vanguard had bounced back strongly, with many of its funds outperforming the market averages. This trend of resilience and steady growth has continued into 2024, reinforcing Vanguard's reputation as a reliable choice for investors seeking long-term value.
+Looking back at the past few years, Vanguard's performance has been consistent. In 2022, the company faced some challenges due to market [volatility](/wiki/volatility-trading-strategies), but it still managed to deliver positive returns for most of its funds. By 2023, Vanguard had bounced back strongly, with many of its funds outperforming the market averages. This trend of resilience and steady growth has continued into 2024, reinforcing Vanguard's reputation as a reliable choice for investors seeking long-term value.
 
 ## What are the new investment products or services introduced by Vanguard in 2024?
 
@@ -52,7 +52,7 @@ Vanguard also made their website and app easier to use on your phone or tablet. 
 
 ## How does Vanguard's approach to ESG (Environmental, Social, and Governance) investing look in 2024?
 
-In 2024, Vanguard continues to focus on ESG investing, which means they care about the environment, how companies treat people, and how well they are run. They offer special funds that only invest in companies that do well in these areas. Vanguard believes that companies that care about these things can be good investments because they might do better in the long run. They also keep adding new ESG funds to give people more choices.
+In 2024, Vanguard continues to focus on [ESG](/wiki/esg-investing) investing, which means they care about the environment, how companies treat people, and how well they are run. They offer special funds that only invest in companies that do well in these areas. Vanguard believes that companies that care about these things can be good investments because they might do better in the long run. They also keep adding new ESG funds to give people more choices.
 
 Vanguard also helps people learn about ESG investing. They have a lot of information on their website and app that explains what ESG is and why it matters. They want to make sure everyone can understand and choose if they want to invest this way. By doing this, Vanguard shows that they care about helping people invest in a way that matches their values and helps the world.
 

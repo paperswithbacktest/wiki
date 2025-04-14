@@ -78,7 +78,7 @@ More CDD can also mean higher energy bills for people. If it's hot more often, p
 
 To make better guesses about how much energy people will use based on Cooling Degree Days (CDD), we can use some smart math tricks. One way is to use regression models. These models look at how CDD and other things like how many people are home, what kind of air conditioners they have, and even the weather forecast, all together to predict energy use. Another smart trick is time series analysis. This method looks at how energy use has changed over time and uses that to guess what will happen next. By using these methods, we can make our predictions more accurate and help energy companies plan better.
 
-Another useful method is machine learning. This is like teaching a computer to learn from past data to make better predictions. The computer can look at lots of information, including CDD, and find patterns that we might not see. For example, it can learn how energy use changes on holidays or during heatwaves. By using machine learning, we can make our energy demand predictions even smarter. This helps energy companies be ready for hot days and helps people save money on their energy bills.
+Another useful method is [machine learning](/wiki/machine-learning). This is like teaching a computer to learn from past data to make better predictions. The computer can look at lots of information, including CDD, and find patterns that we might not see. For example, it can learn how energy use changes on holidays or during heatwaves. By using machine learning, we can make our energy demand predictions even smarter. This helps energy companies be ready for hot days and helps people save money on their energy bills.
 
 ## What are Cooling Degree Days (CDD) and how do they work?
 

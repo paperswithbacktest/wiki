@@ -33,7 +33,7 @@ tf.keras.layers.MaxPooling2D(pool_size=(2, 2))
 
 ## How do you create a simple neural network using TF.Layers?
 
-To create a simple neural network using TF.Layers, you start by importing the necessary modules from TensorFlow. Then, you define your model by stacking layers on top of each other. For example, if you want to build a network for classifying images, you might start with a convolutional layer to detect features in the images. You can add this layer using `tf.keras.layers.Conv2D`, specifying the number of filters and the size of the filters. After the convolutional layer, you might add a pooling layer with `tf.keras.layers.MaxPooling2D` to reduce the size of the data and make the model more efficient. Finally, you can add a dense layer with `tf.keras.layers.Dense` for the final classification.
+To create a simple [neural network](/wiki/neural-network) using TF.Layers, you start by importing the necessary modules from TensorFlow. Then, you define your model by stacking layers on top of each other. For example, if you want to build a network for classifying images, you might start with a convolutional layer to detect features in the images. You can add this layer using `tf.keras.layers.Conv2D`, specifying the number of filters and the size of the filters. After the convolutional layer, you might add a pooling layer with `tf.keras.layers.MaxPooling2D` to reduce the size of the data and make the model more efficient. Finally, you can add a dense layer with `tf.keras.layers.Dense` for the final classification.
 
 Here is an example of how to create a simple neural network using TF.Layers:
 

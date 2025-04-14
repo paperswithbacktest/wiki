@@ -24,7 +24,7 @@ Later, Stan moved to the United States to continue his career. He worked at seve
 
 Stan Uryasev mainly researches in the areas of operations research and financial engineering. He uses math to solve problems in these fields. One big focus of his work is risk management, especially in finance. He tries to help banks and other financial groups make better decisions by measuring and managing risk.
 
-A big part of Stan's research is about a method called Conditional Value-at-Risk (CVaR). This method helps people understand how much money they might lose in bad situations. It is used a lot in finance to make safer investment choices. Stan has written many papers and books about CVaR, and he teaches others how to use it.
+A big part of Stan's research is about a method called Conditional Value-at-Risk (CVaR). This method helps people understand how much money they might lose in bad situations. It is used a lot in finance to make safer investment choices. Stan has written many papers and [books](/wiki/algo-trading-books) about CVaR, and he teaches others how to use it.
 
 Stan also works on other topics in operations research. He looks at how to make systems work better and how to solve complex problems in different areas. His work helps many industries, not just finance, by using math to find better ways to do things.
 

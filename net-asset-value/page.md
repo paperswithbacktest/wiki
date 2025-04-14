@@ -22,7 +22,7 @@ For example, if a fund has assets worth $100 million and liabilities of $10 mill
 
 ## Why is Net Asset Value important for investors?
 
-Net Asset Value, or NAV, is really important for investors because it tells them how much each share of a fund is worth. When you're thinking about buying or selling shares in a mutual fund or an ETF, knowing the NAV helps you figure out if you're getting a good price. It's like checking the price tag before you buy something. If the NAV is high, it means the shares are worth more, and if it's low, they're worth less. This helps you decide if it's a good time to buy or sell.
+Net Asset Value, or NAV, is really important for investors because it tells them how much each share of a fund is worth. When you're thinking about buying or selling shares in a mutual fund or an [ETF](/wiki/etf-trading-strategies), knowing the NAV helps you figure out if you're getting a good price. It's like checking the price tag before you buy something. If the NAV is high, it means the shares are worth more, and if it's low, they're worth less. This helps you decide if it's a good time to buy or sell.
 
 Also, NAV helps you keep track of how your investment is doing over time. Since it's calculated every day, you can see if the value of your shares is going up or down. This is useful for planning when to make your next move. If you see the NAV going up, you might decide to hold onto your shares longer. If it's going down, you might think about selling before it drops even more. Keeping an eye on NAV helps you make smarter choices with your money.
 
@@ -40,7 +40,7 @@ This daily update is important because it gives investors the latest information
 
 ## What factors can affect the Net Asset Value of a fund?
 
-The Net Asset Value of a fund can change because of many things. One big reason is the performance of the investments the fund owns. If the stocks, bonds, or other assets in the fund go up in value, the NAV will go up too. But if those investments lose value, the NAV will go down. Another factor is any money coming in or going out of the fund. When people buy new shares, they add money to the fund, which can increase the NAV. When people sell their shares, it's like taking money out, which can lower the NAV.
+The Net Asset Value of a fund can change because of many things. One big reason is the performance of the investments the fund owns. If the stocks, bonds, or other assets in the fund go up in value, the NAV will go up too. But if those investments lose value, the NAV will go down. Another [factor](/wiki/factor-investing) is any money coming in or going out of the fund. When people buy new shares, they add money to the fund, which can increase the NAV. When people sell their shares, it's like taking money out, which can lower the NAV.
 
 Also, the costs of running the fund can affect the NAV. These costs include management fees, administrative expenses, and other operational costs. When these fees are taken out of the fund's assets, it reduces the overall value of the fund, which in turn lowers the NAV. Changes in the market and the economy can also have an impact. If the market is doing well, the assets in the fund might gain value, pushing up the NAV. But if the market takes a downturn, the value of those assets can drop, causing the NAV to fall as well.
 
@@ -76,7 +76,7 @@ For Exchange Traded Funds, or ETFs, the calculation of NAV is similar, but there
 
 ## What advanced strategies can investors use involving Net Asset Value?
 
-Investors can use a strategy called "NAV arbitrage" to make money from the difference between a fund's NAV and its market price. This works best with ETFs because their shares can be traded all day, and sometimes the market price is higher or lower than the NAV. If the market price is lower than the NAV, an investor can buy the ETF shares and then ask for them to be turned back into the underlying assets, which are worth more. If the market price is higher than the NAV, they can do the opposite - buy the underlying assets, create new ETF shares, and then sell them at the higher market price. This way, they can make a profit from the difference.
+Investors can use a strategy called "NAV [arbitrage](/wiki/arbitrage)" to make money from the difference between a fund's NAV and its market price. This works best with ETFs because their shares can be traded all day, and sometimes the market price is higher or lower than the NAV. If the market price is lower than the NAV, an investor can buy the ETF shares and then ask for them to be turned back into the underlying assets, which are worth more. If the market price is higher than the NAV, they can do the opposite - buy the underlying assets, create new ETF shares, and then sell them at the higher market price. This way, they can make a profit from the difference.
 
 Another strategy is "NAV timing," where investors try to buy or sell fund shares based on when they think the NAV will go up or down. For example, if an investor thinks a fund's NAV will go up because of good news about the fund's investments, they might buy more shares right before that happens. If they think the NAV will go down because of bad news, they might sell their shares before the value drops. This strategy needs a lot of research and good timing, but it can help investors make more money if they get it right.
 

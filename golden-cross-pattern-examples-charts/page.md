@@ -72,7 +72,7 @@ Another useful indicator is the Moving Average Convergence Divergence (MACD). Th
 
 ## Can you provide a case study of a stock that experienced a Golden Cross and the subsequent market performance?
 
-In early 2016, Apple Inc. (AAPL) experienced a Golden Cross. The 50-day moving average crossed above the 200-day moving average in February of that year. At the time, Apple's stock price was around $95. After the Golden Cross, Apple's stock started to go up. By the end of 2016, the stock price had climbed to about $115, showing a clear bullish trend following the Golden Cross. This case shows how a Golden Cross can be a good sign for a stock's future performance.
+In early 2016, Apple Inc. (AAPL) experienced a Golden Cross. The 50-day moving average crossed above the 200-day moving average in February of that year. At the time, Apple's stock price was around $95. After the Golden Cross, Apple's stock started to go up. By the end of 2016, the stock price had climbed to about $115, showing a clear bullish [trend following](/wiki/trend-following) the Golden Cross. This case shows how a Golden Cross can be a good sign for a stock's future performance.
 
 However, it's important to look at other things too, not just the Golden Cross. During this time, Apple was doing well with its business. They were selling a lot of iPhones and other products, and their earnings were strong. The overall market was also doing well, which helped Apple's stock price go up. So, while the Golden Cross was a good sign, it was just one part of why Apple's stock did well after the Golden Cross happened.
 
@@ -87,7 +87,7 @@ In a sideways market, where stock prices are not really going up or down a lot, 
 A Golden Cross forms through three distinct stages: the bottoming of a downtrend, the crossover point of moving averages, and the continuation of an uptrend. Each stage indicates a transition in market sentiment and is critical for identifying potential bullish trends.
 
 ### Stage 1: Bottoming of Downtrend
-The initial stage of a Golden Cross occurs when the market experiences a downtrend that begins to lose momentum. During this phase, short-term moving averages, such as the 50-day moving average, remain below long-term moving averages, like the 200-day moving average. Traders observe price action that suggests a slowing or weakening of the downtrend, indicating a potential shift in market dynamics.
+The initial stage of a Golden Cross occurs when the market experiences a downtrend that begins to lose [momentum](/wiki/momentum). During this phase, short-term moving averages, such as the 50-day moving average, remain below long-term moving averages, like the 200-day moving average. Traders observe price action that suggests a slowing or weakening of the downtrend, indicating a potential shift in market dynamics.
 
 ### Stage 2: Crossover Point
 The crossover point is the defining moment of the Golden Cross. It occurs when the short-term moving average (e.g., 50-day) crosses above the long-term moving average (e.g., 200-day). This crossover is often seen as an indicator that market sentiment has turned bullish, prompting traders to consider entering long positions. The mathematical representation can be formulated as:

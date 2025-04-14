@@ -18,7 +18,7 @@ The yield curve is important because it can tell us a lot about what people thin
 
 The yield curve is made by plotting the interest rates of bonds that have different times until they mature. To do this, you take the interest rates of many bonds, like those from the government, and put them on a graph. The horizontal part of the graph shows how long the bonds last, from short times like three months to long times like 30 years. The vertical part shows the interest rate for each bond. By connecting these points, you get a line that shows how interest rates change over time.
 
-To make sure the yield curve is accurate, you usually use bonds that are very similar except for how long they last. This means using bonds from the same issuer, like the U.S. Treasury, so you can see clearly how the length of time affects the interest rate. Sometimes, you might also use something called a "yield to maturity" for each bond, which is a way to figure out the total interest you would get if you held the bond until it matured. By doing all this, the yield curve gives a good picture of what's happening with interest rates at different times.
+To make sure the yield curve is accurate, you usually use bonds that are very similar except for how long they last. This means using bonds from the same issuer, like the U.S. Treasury, so you can see clearly how the length of time affects the [interest rate](/wiki/interest-rate-trading-strategies). Sometimes, you might also use something called a "yield to maturity" for each bond, which is a way to figure out the total interest you would get if you held the bond until it matured. By doing all this, the yield curve gives a good picture of what's happening with interest rates at different times.
 
 ## What are the different types of yield curves?
 
@@ -102,7 +102,7 @@ The inclusion of the $\sqrt{r_t}$ term effectively prevents negative interest ra
 
 Yield curve models are pivotal in pricing bonds and managing interest rate risks. They help traders and investors estimate the present value of future cash flows by appropriately discounting them using modeled interest rates for varying maturities. These models are integral in assessing the potential impact of interest rate shifts on bond portfolios and developing strategies to hedge against such risks.
 
-The implementation of algorithmic trading strategies based on yield curve models has been revolutionized by advancements in Python and machine learning techniques. Python's rich ecosystem of libraries such as NumPy, SciPy, and Pandas enables the efficient processing and analysis of large datasets to simulate yield curve scenarios. Machine learning algorithms can further optimize model parameters by identifying patterns and predicting future movements in the yield curve.
+The implementation of [algorithmic trading](/wiki/algorithmic-trading) strategies based on yield curve models has been revolutionized by advancements in Python and [machine learning](/wiki/machine-learning) techniques. Python's rich ecosystem of libraries such as NumPy, SciPy, and Pandas enables the efficient processing and analysis of large datasets to simulate yield curve scenarios. Machine learning algorithms can further optimize model parameters by identifying patterns and predicting future movements in the yield curve.
 
 Here's a basic example of how the Vasicek model can be simulated using Python:
 

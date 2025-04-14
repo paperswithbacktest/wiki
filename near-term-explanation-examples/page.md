@@ -70,7 +70,7 @@ It also helps organizations manage risks better. By thinking about what might go
 
 ## What are advanced analytical techniques used to predict 'near term' outcomes?
 
-To predict what might happen soon, people use advanced ways of looking at data. One way is called time series analysis. This is when you look at data from the past to see patterns and guess what might happen next. For example, if you know how many people bought a product each week for the last year, you can use that information to predict how many might buy it in the next few weeks. Another way is machine learning, where computers learn from old data to make guesses about the future. These computers can look at a lot of information at once and find patterns that people might miss.
+To predict what might happen soon, people use advanced ways of looking at data. One way is called time series analysis. This is when you look at data from the past to see patterns and guess what might happen next. For example, if you know how many people bought a product each week for the last year, you can use that information to predict how many might buy it in the next few weeks. Another way is [machine learning](/wiki/machine-learning), where computers learn from old data to make guesses about the future. These computers can look at a lot of information at once and find patterns that people might miss.
 
 Another technique is called scenario analysis. This is when people make up different stories about what could happen and see how those stories might affect things in the near future. For example, a company might think about what would happen if a new law changed how they could sell their product. They can use this to plan for different possibilities. Also, there's something called real-time analytics, where data is looked at as it comes in, so decisions can be made very quickly. This is helpful for things like predicting how many people might come to a store in the next few hours based on what's happening right now.
 
@@ -82,7 +82,7 @@ In the finance world, 'near term' often means the next quarter or so. Banks and 
 
 ## How can one balance risk and reward in near-term financial planning?
 
-Balancing risk and reward is a critical element of near-term financial planning, especially when utilizing automated strategies such as algorithmic trading. The inherent volatility and unpredictability of financial markets necessitate a robust approach to managing investments to safeguard against potential losses while optimizing for gains.
+Balancing risk and reward is a critical element of near-term financial planning, especially when utilizing automated strategies such as [algorithmic trading](/wiki/algorithmic-trading). The inherent [volatility](/wiki/volatility-trading-strategies) and unpredictability of financial markets necessitate a robust approach to managing investments to safeguard against potential losses while optimizing for gains.
 
 One effective strategy for managing risks is diversification. By spreading investments across various asset classes, investors can reduce their exposure to any single market fluctuation. This principle, often summarized by the phrase "don't put all your eggs in one basket," is foundational in constructing a resilient investment portfolio. Diversification minimizes the potential impact of a downturn in any one investment, thus stabilizing returns over the short term.
 

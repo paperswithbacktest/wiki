@@ -136,9 +136,9 @@ Let's consider two situations based on ABC's stock price at expiration:
 
 This strategy's success hinges on adequately forecasting significant price swings and accounting for transaction fees. When incorrectly executed in real market settings, the option premiums meant to hedge against losses might instead result in the alligator scenario, where profits are consumed by the costs of the position.
 
-Using algorithmic trading systems to execute such complex strategies can aid in optimizing entry and exit points, as machines can swiftly react to market changes, further mitigating the risks associated with manual oversights or miscalculations.
+Using [algorithmic trading](/wiki/algorithmic-trading) systems to execute such complex strategies can aid in optimizing entry and [exit](/wiki/exit-strategy) points, as machines can swiftly react to market changes, further mitigating the risks associated with manual oversights or miscalculations.
 
-In summary, the alligator spread, when applied with precision and supplemented by technology, can be a powerful instrument in a trader's toolkit, capable of capitalizing on stock volatility while remaining vigilant about its inherent cost implications.
+In summary, the alligator spread, when applied with precision and supplemented by technology, can be a powerful instrument in a trader's toolkit, capable of capitalizing on stock [volatility](/wiki/volatility-trading-strategies) while remaining vigilant about its inherent cost implications.
 
 ## References & Further Reading
 

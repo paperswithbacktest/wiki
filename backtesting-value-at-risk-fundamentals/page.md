@@ -18,7 +18,7 @@ VaR is important in finance because it helps investors and financial institution
 
 Backtesting in the context of Value-at-Risk (VaR) is a way to check if the VaR model is working correctly. It involves looking at past data to see if the losses predicted by the VaR model actually happened. Imagine you have a VaR model that says there's a 95% chance your portfolio won't lose more than $1 million in a day. You would then go back and look at what actually happened on past days. If your portfolio lost more than $1 million on more than 5% of those days, your VaR model might not be very accurate.
 
-By doing backtesting, you can see if your VaR model is too optimistic or too pessimistic. If it's too optimistic, it might not be warning you about big losses that could happen. If it's too pessimistic, it might be scaring you away from good investments. Backtesting helps you adjust your VaR model to make it more reliable. This way, you can trust the VaR numbers more when making decisions about your investments.
+By doing [backtesting](/wiki/backtesting), you can see if your VaR model is too optimistic or too pessimistic. If it's too optimistic, it might not be warning you about big losses that could happen. If it's too pessimistic, it might be scaring you away from good investments. Backtesting helps you adjust your VaR model to make it more reliable. This way, you can trust the VaR numbers more when making decisions about your investments.
 
 ## What are the basic steps to perform a VaR backtesting?
 
@@ -76,7 +76,7 @@ Because of these rules, banks have to do a lot of work to make sure their VaR ba
 
 One advanced technique to make VaR backtesting better is using something called conditional VaR, or CVaR. CVaR looks at the average of the losses that are bigger than the VaR. This helps you understand not just how often big losses happen, but also how bad they can be. By adding CVaR to your backtesting, you get a fuller picture of the risks you're facing. This can help you make your VaR model more accurate and better at warning you about big losses.
 
-Another technique is using machine learning to improve VaR backtesting. Machine learning can look at a lot of data and find patterns that might be hard for people to see. It can help you predict how the market might move and make your VaR model more accurate. By using machine learning, you can keep your VaR model up to date with the latest market trends and make sure it's working well. This can help you trust your VaR model more when making decisions about your investments.
+Another technique is using [machine learning](/wiki/machine-learning) to improve VaR backtesting. Machine learning can look at a lot of data and find patterns that might be hard for people to see. It can help you predict how the market might move and make your VaR model more accurate. By using machine learning, you can keep your VaR model up to date with the latest market trends and make sure it's working well. This can help you trust your VaR model more when making decisions about your investments.
 
 ## How can machine learning models be integrated into VaR backtesting for better predictions?
 

@@ -42,7 +42,7 @@ Investment banks, which help companies raise money by selling stocks or bonds, c
 
 The ROE of banks can be influenced by many things. One big thing is how much risk the bank takes. If a bank decides to take more risks, like lending money to people or companies that might not pay it back, it could make more money if things go well. But if those loans don't get paid back, the bank could lose money, and its ROE could go down. Another thing that can affect ROE is how well the bank manages its costs. If a bank can keep its costs low, it can make more profit from the money it has, which would make its ROE higher.
 
-Another factor is the economy. When the economy is doing well, more people and businesses want to borrow money, and they are more likely to pay it back. This can help banks make more profit and increase their ROE. But if the economy is bad, fewer people want to borrow, and more people might not be able to pay back their loans, which can lower the bank's profit and ROE. Also, the rules that banks have to follow can play a role. If the rules are strict, banks might not be able to take as many risks, which could mean less profit and a lower ROE.
+Another [factor](/wiki/factor-investing) is the economy. When the economy is doing well, more people and businesses want to borrow money, and they are more likely to pay it back. This can help banks make more profit and increase their ROE. But if the economy is bad, fewer people want to borrow, and more people might not be able to pay back their loans, which can lower the bank's profit and ROE. Also, the rules that banks have to follow can play a role. If the rules are strict, banks might not be able to take as many risks, which could mean less profit and a lower ROE.
 
 ## How has the average ROE of banks changed over the past decade?
 
@@ -60,7 +60,7 @@ In Asia, things can be quite different. For example, banks in China like ICBC an
 
 ROE is a good way to see how well a bank is doing, but it has some problems. One big problem is that ROE doesn't tell you about the risks the bank is taking. A bank might have a high ROE because it's doing risky things to make more money. If those risks don't pay off, the bank could lose a lot of money, and its ROE could go down fast. Also, ROE doesn't show you how much debt the bank has. If a bank borrows a lot of money to make more profit, its ROE might look good, but it could be in trouble if it can't pay back those loans.
 
-Another thing to think about is that ROE can be different from one bank to another because of how they keep their books. Some banks might use tricks to make their ROE look better than it really is. This can make it hard to compare banks fairly. Also, ROE doesn't tell you about the economy or the rules the bank has to follow. If the economy is bad or the rules are strict, a bank's ROE might be low even if it's doing a good job. So, while ROE is helpful, it's important to look at other things too to get a full picture of how a bank is doing.
+Another thing to think about is that ROE can be different from one bank to another because of how they keep their [books](/wiki/algo-trading-books). Some banks might use tricks to make their ROE look better than it really is. This can make it hard to compare banks fairly. Also, ROE doesn't tell you about the economy or the rules the bank has to follow. If the economy is bad or the rules are strict, a bank's ROE might be low even if it's doing a good job. So, while ROE is helpful, it's important to look at other things too to get a full picture of how a bank is doing.
 
 ## How do regulatory changes affect the ROE of banks?
 
@@ -258,7 +258,7 @@ This script initializes a linear regression model to predict ROE values, evaluat
    This study explores the relationship between various financial ratios, including ROE, and their influence on stock market performance. It highlights the utility of these ratios in predictive analysis for investors.
 
 5. **"Algorithmic Trading & DMA: An Introduction to Direct Access Trading Strategies" by Barry Johnson**  
-   This book offers insights into how financial metrics like ROE can be integrated into algorithmic trading strategies to identify high-performance stocks, enhancing trading decisions through automated systems.
+   This book offers insights into how financial metrics like ROE can be integrated into [algorithmic trading](/wiki/algorithmic-trading) strategies to identify high-performance stocks, enhancing trading decisions through automated systems.
 
 6. **Online Course: "Financial Analysis for Business Performance: Planning, Performance & Analytics"**  
    Offered by Coursera, this [course](/wiki/best-algorithmic-trading-courses) enables learners to understand financial analysis concepts, focusing on metrics like ROE, to make informed business and investment decisions. It includes practical exercises and case studies.

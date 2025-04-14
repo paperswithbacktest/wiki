@@ -34,7 +34,7 @@ After running the simulation, you analyze the results to make decisions. You can
 
 Let's say you want to know how much money you might have in your savings account at the end of the year. You start with $1,000 and plan to add $100 each month. But, you're not sure how much interest the bank will give you each month. It could be anywhere from 0.1% to 0.5%. To find out, you can use a Monte Carlo simulation.
 
-In the simulation, you run the scenario many times. Each time, the computer picks a random interest rate between 0.1% and 0.5% for each month. It then calculates how much money you'll have at the end of the year based on these random rates. After running the simulation thousands of times, you look at all the results. You might find that, on average, you'll have about $1,250 at the end of the year, but it could be as low as $1,200 or as high as $1,300. This helps you understand the range of possible outcomes and plan better.
+In the simulation, you run the scenario many times. Each time, the computer picks a random [interest rate](/wiki/interest-rate-trading-strategies) between 0.1% and 0.5% for each month. It then calculates how much money you'll have at the end of the year based on these random rates. After running the simulation thousands of times, you look at all the results. You might find that, on average, you'll have about $1,250 at the end of the year, but it could be as low as $1,200 or as high as $1,300. This helps you understand the range of possible outcomes and plan better.
 
 ## What types of problems can be solved using Monte Carlo strategy simulation?
 

@@ -42,7 +42,7 @@ Now, let's look at Company B. They declare a dividend of $1.25 per share. If you
 
 The amount of gross dividends a company pays depends on how much profit they make. If a company does well and earns a lot of money, they might decide to share more of it with their shareholders in the form of higher dividends. On the other hand, if they don't make much profit, they might pay out less or even no dividends at all. Companies also look at how much money they need to keep for future projects or to pay off debts. If they need a lot of money for these things, they might pay smaller dividends.
 
-Another factor is the company's dividend policy. Some companies have a policy to always pay a certain percentage of their profits as dividends. This can mean that shareholders get a steady amount of money each time. Other companies might change their dividends based on how well they are doing or what their future plans are. Finally, what other companies in the same industry are doing can also influence a company's dividend decisions. If other companies are paying high dividends, a company might feel pressure to do the same to keep their shareholders happy.
+Another [factor](/wiki/factor-investing) is the company's dividend policy. Some companies have a policy to always pay a certain percentage of their profits as dividends. This can mean that shareholders get a steady amount of money each time. Other companies might change their dividends based on how well they are doing or what their future plans are. Finally, what other companies in the same industry are doing can also influence a company's dividend decisions. If other companies are paying high dividends, a company might feel pressure to do the same to keep their shareholders happy.
 
 ## How do tax policies affect gross dividends?
 
@@ -80,7 +80,7 @@ Gross dividends also tell investors about a company's health and its plans for t
 
 One advanced strategy for maximizing returns from gross dividends is to focus on dividend reinvestment plans (DRIPs). With a DRIP, instead of taking the dividend money out, you use it to buy more shares of the company. This can help your investment grow over time because you end up owning more shares, which can lead to even more dividends in the future. It's like planting a seed that grows into a bigger plant, giving you more fruit to pick. By reinvesting dividends, you can take advantage of compound growth, where your money grows not just from the dividends but also from the increasing value of your shares.
 
-Another strategy is to look for companies with a history of increasing their dividends, known as dividend growth stocks. These companies might start with smaller dividends, but they raise them over time. By investing in these companies, you can get more money each year as the dividends grow. This can help protect your investment against inflation because the dividends keep getting bigger. It's like buying a tree that starts small but grows taller and gives you more apples every year. By choosing companies that consistently raise their dividends, you can build a steady stream of growing income.
+Another strategy is to look for companies with a history of increasing their dividends, known as dividend [growth stocks](/wiki/growth-stocks). These companies might start with smaller dividends, but they raise them over time. By investing in these companies, you can get more money each year as the dividends grow. This can help protect your investment against inflation because the dividends keep getting bigger. It's like buying a tree that starts small but grows taller and gives you more apples every year. By choosing companies that consistently raise their dividends, you can build a steady stream of growing income.
 
 ## What are the calculations behind dividends?
 
@@ -138,7 +138,7 @@ Algorithmic systems have become pivotal in refining dividend yield strategies, e
 
 ### Optimizing Dividend Yields with Algorithms
 
-The core of algorithmic trading for dividend optimization lies in creating strategies that consider dividend yield as a fundamental parameter. Algorithms analyze price trends, historical dividend patterns, payout consistency, and market [volatility](/wiki/volatility-trading-strategies) to assess the potential of stocks. Formulaically, the dividend yield can be expressed as:
+The core of [algorithmic trading](/wiki/algorithmic-trading) for dividend optimization lies in creating strategies that consider dividend yield as a fundamental parameter. Algorithms analyze price trends, historical dividend patterns, payout consistency, and market [volatility](/wiki/volatility-trading-strategies) to assess the potential of stocks. Formulaically, the dividend yield can be expressed as:
 
 $$
 \text{Dividend Yield} = \frac{\text{Annual Dividends per Share}}{\text{Price per Share}} \times 100\%

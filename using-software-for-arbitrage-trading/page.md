@@ -18,7 +18,7 @@ This kind of trading often happens in financial markets, like the stock market o
 
 Software helps in arbitrage trading by quickly finding price differences in different markets. It uses special computer programs to look at prices from many places at the same time. When it finds a price that is lower in one place and higher in another, it tells the trader. This way, the trader can buy and sell fast to make a profit before the prices change.
 
-The software also helps by making trades happen very quickly. It can send buy and sell orders to different markets in just a few seconds. This is important because prices can change fast, and the software helps traders act before it's too late. Using software makes arbitrage trading easier and more efficient, helping traders make money with less effort and time.
+The software also helps by making trades happen very quickly. It can send buy and sell orders to different markets in just a few seconds. This is important because prices can change fast, and the software helps traders act before it's too late. Using software makes [arbitrage](/wiki/arbitrage) trading easier and more efficient, helping traders make money with less effort and time.
 
 ## What are the basic types of arbitrage opportunities that software can identify?
 
@@ -26,7 +26,7 @@ One basic type of arbitrage opportunity that software can identify is called spa
 
 Another type is called temporal arbitrage. This is when the price of something changes over time, and the software can predict these changes. For example, if a currency is expected to go up in value later in the day, the software can tell the trader to buy it now and sell it later for a higher price. This way, the trader can make money by buying at the right time and selling at the right time.
 
-A third type is called statistical arbitrage. This involves using math and data to find patterns in how prices move. The software looks at lots of data to find small differences in prices that might not be obvious. For example, it might notice that two stocks usually move together, but one is currently cheaper than it should be. The trader can then buy the cheaper stock and sell the more expensive one, betting that the prices will come back together, making a profit from the difference.
+A third type is called [statistical arbitrage](/wiki/statistical-arbitrage). This involves using math and data to find patterns in how prices move. The software looks at lots of data to find small differences in prices that might not be obvious. For example, it might notice that two stocks usually move together, but one is currently cheaper than it should be. The trader can then buy the cheaper stock and sell the more expensive one, betting that the prices will come back together, making a profit from the difference.
 
 ## What are the key features to look for in arbitrage trading software?
 

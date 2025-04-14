@@ -34,7 +34,7 @@ Sometimes, central banks also use a tool called quantitative easing. This is a b
 
 ## Can you explain how lowering interest rates helps in an accommodative monetary policy?
 
-When a central bank lowers interest rates, it makes borrowing money cheaper. Imagine you want to buy a new car or start a business. If the interest rate is low, you'll pay less to borrow the money you need. This means more people and businesses might decide to take out loans because it's not as expensive. When people borrow more, they often spend more, which can help the economy grow. It's like giving everyone a little extra money to spend, which can lead to more jobs and more business activity.
+When a central bank lowers interest rates, it makes borrowing money cheaper. Imagine you want to buy a new car or start a business. If the [interest rate](/wiki/interest-rate-trading-strategies) is low, you'll pay less to borrow the money you need. This means more people and businesses might decide to take out loans because it's not as expensive. When people borrow more, they often spend more, which can help the economy grow. It's like giving everyone a little extra money to spend, which can lead to more jobs and more business activity.
 
 Lower interest rates also make it cheaper for businesses to borrow money for things like new equipment or expanding their operations. When businesses can borrow at a lower cost, they might be more willing to invest in new projects. This can create more jobs and help the economy get stronger. By making borrowing easier and cheaper, the central bank is trying to encourage spending and investment, which can help the economy when it's not doing well.
 
@@ -88,7 +88,7 @@ Algorithmic trading systems are designed to interpret policy changes through spe
 
 Algo trading can significantly amplify market movements during periods of accommodative monetary policy. For instance, when interest rates are lowered, resulting in cheaper borrowing costs, the stock market may experience heightened buying activity. Algorithms, detecting these shifts, can execute large volumes of trades at speeds unmatchable by human traders, further driving the price movements initiated by the policy change.
 
-To illustrate, consider an algorithm set to respond to the Federal Reserve's interest rate announcements. When a rate cut is announced, the algorithm might trigger a series of buy orders based on historical market reactions to similar announcements. The formula for calculating expected returns from a rate cut might involve elements such as prior interest rate changes ($\Delta r$), historical price responses ($\Delta P$), and current market volatility ($\sigma$):
+To illustrate, consider an algorithm set to respond to the Federal Reserve's interest rate announcements. When a rate cut is announced, the algorithm might trigger a series of buy orders based on historical market reactions to similar announcements. The formula for calculating expected returns from a rate cut might involve elements such as prior interest rate changes ($\Delta r$), historical price responses ($\Delta P$), and current market [volatility](/wiki/volatility-trading-strategies) ($\sigma$):
 
 $$
 \text{Expected Return} = f(\Delta r, \Delta P, \sigma)

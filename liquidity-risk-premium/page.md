@@ -18,7 +18,7 @@ This risk also affects banks and big companies. Banks need to have enough cash t
 
 A liquidity risk premium is extra money that investors want when they invest in something that's hard to sell quickly. Imagine you buy a special painting. It might be valuable, but if you need to sell it fast, you might not get as much money as you want. So, to make up for this risk, investors ask for a bit more return on their investment. This extra return is called the liquidity risk premium.
 
-This premium is important because it helps balance out the risk of not being able to turn an investment into cash quickly. For example, if you invest in a small company's stock, it might be harder to sell than a big company's stock. Because of this, investors expect a higher return to make up for the extra risk they're taking. The size of the liquidity risk premium can change based on how easy or hard it is to sell the investment at any given time.
+This premium is important because it helps balance out the risk of not being able to turn an investment into cash quickly. For example, if you invest in a small company's stock, it might be harder to sell than a big company's stock. Because of this, investors expect a higher return to make up for the extra risk they're taking. The size of the [liquidity](/wiki/liquidity-risk-premium) risk premium can change based on how easy or hard it is to sell the investment at any given time.
 
 ## Why is liquidity risk important in financial markets?
 
@@ -167,7 +167,7 @@ Liquidity risk has become a focal point in financial markets, particularly for i
 
 #### Example 1: Quantitative Hedge Fund Strategy
 
-A well-documented case is that of the quantitative hedge fund AQR Capital Management, known for its systematic strategies, including the exploitation of the liquidity risk premium. AQR has developed models that recognize liquidity risk as a significant factor influencing expected returns. By incorporating liquidity risk premium into its multi-factor models, AQR is able to balance risk and enhance return potential.
+A well-documented case is that of the quantitative hedge fund AQR Capital Management, known for its systematic strategies, including the exploitation of the liquidity risk premium. AQR has developed models that recognize liquidity risk as a significant [factor](/wiki/factor-investing) influencing expected returns. By incorporating liquidity risk premium into its multi-factor models, AQR is able to balance risk and enhance return potential.
 
 The firm uses historical liquidity metrics and the Amihud liquidity measure, which evaluates stock illiquidity based on its price movements relative to trading volume. The formula for the Amihud illiquidity measure is:
 

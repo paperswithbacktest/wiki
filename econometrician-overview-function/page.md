@@ -18,7 +18,7 @@ Econometricians work in many different places, like universities, banks, and gov
 
 To become an econometrician, you usually need to go to college and study for a long time. Most econometricians have at least a bachelor's degree in economics, statistics, or a related field. In college, you will learn about math, statistics, and how the economy works. This will help you understand the basics of econometrics.
 
-After getting a bachelor's degree, many econometricians go on to get a master's degree or even a Ph.D. These higher degrees help you learn more advanced math and statistics, and how to use them to study the economy in detail. With a master's or Ph.D., you can do more complex research and get better jobs in places like universities, big companies, or government agencies.
+After getting a bachelor's degree, many econometricians go on to get a master's degree or even a Ph.D. These higher degrees help you learn more advanced math and [statistics](/wiki/bayesian-statistics), and how to use them to study the economy in detail. With a master's or Ph.D., you can do more complex research and get better jobs in places like universities, big companies, or government agencies.
 
 So, to sum it up, becoming an econometrician takes a lot of education. You start with a bachelor's degree and then often continue with a master's or Ph.D. This education helps you learn the skills you need to analyze economic data and make predictions about the economy.
 
@@ -82,7 +82,7 @@ Another way econometricians deal with data quality is by using special methods t
 
 Econometricians face many challenges today. One big challenge is dealing with big data. There is so much information out there now, and it can be hard to sort through it all and make sense of it. Another challenge is making sure their models are good enough to predict things accurately. Sometimes, the economy can change in ways that are hard to predict, and this can make their models less useful. Also, econometricians need to keep up with new technology and methods, which can be tough because things change so quickly.
 
-In the future, econometricians will need to find new ways to handle these challenges. They might use machine learning and artificial intelligence to help them analyze big data better. These new tools could make their predictions more accurate. Econometricians will also need to work on making their models more flexible, so they can adapt to unexpected changes in the economy. By doing these things, econometricians can keep improving their understanding of the economy and help make better decisions about things like taxes, spending, and investments.
+In the future, econometricians will need to find new ways to handle these challenges. They might use [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence) to help them analyze big data better. These new tools could make their predictions more accurate. Econometricians will also need to work on making their models more flexible, so they can adapt to unexpected changes in the economy. By doing these things, econometricians can keep improving their understanding of the economy and help make better decisions about things like taxes, spending, and investments.
 
 ## What is the relationship between Economic Analysis and Econometrics?
 

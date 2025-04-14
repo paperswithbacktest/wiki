@@ -66,7 +66,7 @@ However, these numbers can change. For example, in times when oil prices are hig
 
 Analysts adjust the EV/2P Ratio for risk and uncertainty in reserves by looking at how sure the company is about its oil and gas estimates. If the company thinks there's a lot of risk or uncertainty, analysts might use a lower number for the 2P reserves. This makes the EV/2P Ratio go up, showing that the reserves are more expensive and riskier. They might also look at things like the location of the reserves, the technology used to find them, and past results from similar projects to guess how much risk there is.
 
-Another way analysts adjust the EV/2P Ratio is by adding a risk factor to the Enterprise Value. If a company has a lot of debt or other financial problems, it might be riskier to invest in. So, analysts might add a higher risk factor to the EV, making the EV/2P Ratio go up. This shows that the company's reserves are more expensive when you think about the extra risk. By doing these adjustments, analysts can give a better picture of what the reserves are really worth, taking into account the risks and uncertainties.
+Another way analysts adjust the EV/2P Ratio is by adding a risk [factor](/wiki/factor-investing) to the Enterprise Value. If a company has a lot of debt or other financial problems, it might be riskier to invest in. So, analysts might add a higher risk factor to the EV, making the EV/2P Ratio go up. This shows that the company's reserves are more expensive when you think about the extra risk. By doing these adjustments, analysts can give a better picture of what the reserves are really worth, taking into account the risks and uncertainties.
 
 ## Can you discuss a case study where the EV/2P Ratio was crucial in a major corporate decision?
 

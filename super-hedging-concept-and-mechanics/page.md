@@ -82,7 +82,7 @@ Another important model is the binomial model, which breaks down the possible fu
 
 ## What is Understanding Super-Hedging?
 
-Super-hedging is a sophisticated financial strategy employed by traders to safeguard their portfolios against adverse market movements. At its core, super-hedging aims to construct a portfolio that can endure market volatility and ensure that its value does not fall below a certain threshold at a predetermined future date.
+Super-hedging is a sophisticated financial strategy employed by traders to safeguard their portfolios against adverse market movements. At its core, super-hedging aims to construct a portfolio that can endure market [volatility](/wiki/volatility-trading-strategies) and ensure that its value does not fall below a certain threshold at a predetermined future date.
 
 This strategy is implemented by creating a replicating portfolio that offsets the positions held by the trader. The replicating portfolio is built such that its payoff matches the obligations or liabilities the trader aims to hedge against. The essential feature of super-hedging is to ensure that the value of the hedged portfolio is at least equivalent to the initial portfolio at the given future date, even under unfavorable market conditions. This offers a form of risk control by guaranteeing a minimum outcome, despite potential market fluctuations.
 

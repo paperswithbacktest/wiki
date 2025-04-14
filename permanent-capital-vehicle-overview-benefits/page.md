@@ -60,7 +60,7 @@ The management team of a PCV is in charge of the everyday running of the company
 
 ## How do PCVs manage liquidity and capital deployment?
 
-Permanent Capital Vehicles (PCVs) manage liquidity by keeping some money ready to use. This money can be used to buy new investments or to pay for any unexpected costs. PCVs don't have to give money back to investors at a certain time, so they can keep more money in long-term investments. This helps them stay stable and grow over time. If investors want to take their money out, they can sell their shares in the PCV to someone else, which doesn't affect the PCV's liquidity.
+Permanent Capital Vehicles (PCVs) manage [liquidity](/wiki/liquidity-risk-premium) by keeping some money ready to use. This money can be used to buy new investments or to pay for any unexpected costs. PCVs don't have to give money back to investors at a certain time, so they can keep more money in long-term investments. This helps them stay stable and grow over time. If investors want to take their money out, they can sell their shares in the PCV to someone else, which doesn't affect the PCV's liquidity.
 
 PCVs also plan carefully how to use their money, which is called capital deployment. They look for good long-term investments that will grow over many years. Because they don't have to worry about giving money back to investors quickly, they can take their time to find the best opportunities. This helps them make smart choices and grow the PCV's value slowly and steadily. By focusing on long-term growth, PCVs can build wealth for their investors over time.
 

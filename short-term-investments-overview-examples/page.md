@@ -24,7 +24,7 @@ Another reason is that short-term investments are usually safer. They don't go u
 
 One common type of short-term investment is a savings account. This is a safe place to keep your money at a bank, where it can earn a little bit of interest over time. Savings accounts are great for people who want to keep their money safe and be able to get it out quickly if they need to. Another popular short-term investment is a money market account. These accounts usually offer a bit higher interest rates than regular savings accounts and still let you take your money out when you need it.
 
-Certificates of deposit, or CDs, are another type of short-term investment. When you put money into a CD, you agree to leave it there for a certain amount of time, like six months or a year. In return, the bank gives you a higher interest rate than a regular savings account. If you take your money out early, though, you might have to pay a penalty. Lastly, short-term government bonds, like Treasury bills, are also common. These are loans you give to the government, and they pay you back with interest after a short time, usually less than a year. They are very safe because they are backed by the government.
+Certificates of deposit, or CDs, are another type of short-term investment. When you put money into a CD, you agree to leave it there for a certain amount of time, like six months or a year. In return, the bank gives you a higher [interest rate](/wiki/interest-rate-trading-strategies) than a regular savings account. If you take your money out early, though, you might have to pay a penalty. Lastly, short-term government bonds, like Treasury bills, are also common. These are loans you give to the government, and they pay you back with interest after a short time, usually less than a year. They are very safe because they are backed by the government.
 
 ## How do short-term investments differ from savings accounts?
 
@@ -62,7 +62,7 @@ On the other hand, when interest rates go down, the money you can earn from thes
 
 One way to get more money from short-term investments is to shop around for the best interest rates. Different banks and financial institutions offer different rates on savings accounts, money market accounts, and certificates of deposit (CDs). By comparing these rates, you can find the one that gives you the most interest. Another strategy is to use a laddering approach with CDs. This means you buy CDs that mature at different times. When one CD matures, you can reinvest the money at the current interest rate, which might be higher than when you first bought the CD. This way, you can take advantage of rising interest rates and keep your money growing.
 
-Another strategy is to keep some of your money in more liquid options like money market accounts or high-yield savings accounts. These accounts let you take your money out quickly if you need it, but they still give you a bit more interest than regular savings accounts. If you have money that you won't need for a while, you can put it into a CD or a Treasury bill to earn a bit more interest. By balancing your money between these different types of short-term investments, you can make sure you're earning as much interest as possible while still being able to get your money when you need it.
+Another strategy is to keep some of your money in more liquid options like money market accounts or high-yield savings accounts. These accounts let you take your money out quickly if you need it, but they still give you a bit more interest than regular savings accounts. If you have money that you won't need for a while, you can put it into a CD or a Treasury bill to earn a bit more interest. By balancing your money between these different types of short-term investments, you can make sure you're [earning](/wiki/earning-announcement) as much interest as possible while still being able to get your money when you need it.
 
 ## How should one evaluate the performance of short-term investments?
 
@@ -108,7 +108,7 @@ By aligning short-term investments with specific financial strategies, investors
 
 ## What are Investment Strategies: Diversification and Risk Management?
 
-Effective investment strategies play a crucial role in balancing returns and managing risk within a portfolio. A diversified portfolio spreads investments across various asset classes, industries, and geographies to minimize risk. Diversification has long been considered a cornerstone of prudent investment management. It aims to reduce the impact of volatility by ensuring that a downturn in one area of the market doesn't significantly affect the overall performance of the portfolio.
+Effective investment strategies play a crucial role in balancing returns and managing risk within a portfolio. A diversified portfolio spreads investments across various asset classes, industries, and geographies to minimize risk. Diversification has long been considered a cornerstone of prudent investment management. It aims to reduce the impact of [volatility](/wiki/volatility-trading-strategies) by ensuring that a downturn in one area of the market doesn't significantly affect the overall performance of the portfolio.
 
 ### Combining Short and Long-Term Investments
 

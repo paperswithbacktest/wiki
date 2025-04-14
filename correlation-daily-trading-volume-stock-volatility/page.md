@@ -18,11 +18,11 @@ High trading volume can mean that a stock is very popular or that something impo
 
 Stock volatility is a measure of how much the price of a stock goes up and down over time. If a stock's price moves a lot in a short time, it is considered to be very volatile. This means the stock can be riskier because its value can change quickly and unpredictably. On the other hand, if a stock's price stays pretty steady without big swings, it has low volatility and might be seen as more stable and less risky.
 
-Volatility is important for investors because it helps them understand the risk of a stock. High volatility can mean bigger potential gains, but also bigger potential losses. For example, if you buy a stock that is very volatile, its price could go up a lot, but it could also go down a lot. Low volatility stocks might not offer as much chance for big gains, but they are usually safer because their prices don't change as dramatically. Investors use measures like the standard deviation of returns or the beta of a stock to gauge its volatility and make informed decisions.
+Volatility is important for investors because it helps them understand the risk of a stock. High [volatility](/wiki/volatility-trading-strategies) can mean bigger potential gains, but also bigger potential losses. For example, if you buy a stock that is very volatile, its price could go up a lot, but it could also go down a lot. Low volatility stocks might not offer as much chance for big gains, but they are usually safer because their prices don't change as dramatically. Investors use measures like the standard deviation of returns or the beta of a stock to gauge its volatility and make informed decisions.
 
 ## How is daily trading volume measured?
 
-Daily trading volume is measured by counting the total number of shares or contracts traded in a stock or market during a single trading day. This count starts when the market opens and ends when it closes. For example, if 1 million shares of a company's stock are bought and sold during the day, the daily trading volume for that stock is 1 million shares.
+Daily trading [volume](/wiki/volume-trading-strategy) is measured by counting the total number of shares or contracts traded in a stock or market during a single trading day. This count starts when the market opens and ends when it closes. For example, if 1 million shares of a company's stock are bought and sold during the day, the daily trading volume for that stock is 1 million shares.
 
 To get this number, stock exchanges and financial data providers use electronic systems to track every trade that happens. These systems add up all the trades throughout the day to give the total volume. This information is important for investors because it shows how active the market is for a specific stock or the market as a whole.
 
@@ -90,7 +90,7 @@ $$
 R(t) = f(\text{Profit}, \text{Risk}, \text{Execution Quality})
 $$
 
-As technology progresses, algorithmic trading is poised to become increasingly complex. This sophistication may manifest in the development of predictive models that not only react to market changes but anticipate them. By employing [deep learning](/wiki/deep-learning) models, currently one of the most advanced AI methodologies, traders can forecast market trends and shift trading strategies proactively.
+As technology progresses, [algorithmic trading](/wiki/algorithmic-trading) is poised to become increasingly complex. This sophistication may manifest in the development of predictive models that not only react to market changes but anticipate them. By employing [deep learning](/wiki/deep-learning) models, currently one of the most advanced AI methodologies, traders can forecast market trends and shift trading strategies proactively.
 
 Traders who adapt to these technological advancements are likely to secure a significant competitive advantage. Early adopters who leverage AI-powered algorithms can capitalize on improved accuracy and execution efficiency. Furthermore, increased computational power and access to high-performance computing make it feasible for a wider range of market participants to engage in algorithmic trading.
 

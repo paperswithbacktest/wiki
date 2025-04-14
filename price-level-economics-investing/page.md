@@ -22,7 +22,7 @@ Another tool used to measure the price level is the Producer Price Index (PPI). 
 
 ## What factors influence the price level?
 
-Many things can affect the price level. One big factor is the supply and demand for goods and services. If more people want to buy something but there isn't enough of it, the price will go up. On the other hand, if there's too much of something and not enough people want to buy it, the price will go down. Another factor is the cost of production. If it costs more to make things, like if the price of raw materials goes up or workers need to be paid more, then the price of the final product will usually go up too.
+Many things can affect the price level. One big [factor](/wiki/factor-investing) is the supply and demand for goods and services. If more people want to buy something but there isn't enough of it, the price will go up. On the other hand, if there's too much of something and not enough people want to buy it, the price will go down. Another factor is the cost of production. If it costs more to make things, like if the price of raw materials goes up or workers need to be paid more, then the price of the final product will usually go up too.
 
 Government policies also play a big role in influencing the price level. For example, if the government decides to increase taxes on certain goods, those goods will become more expensive. Also, if the government prints more money, there can be more money chasing the same amount of goods, which can lead to higher prices overall, a situation known as inflation. On the other hand, if the government takes steps to control inflation, like raising interest rates, it can help keep prices from rising too fast.
 
@@ -125,7 +125,7 @@ where $y$ is the predicted price level, $x$ is the economic indicator (e.g., CPI
 
 By continuously updating the coefficients with new data, algorithms can generate accurate predictions, identifying potential trading opportunities and risks. This systematic approach allows traders to exploit market inefficiencies more effectively than traditional methods, which often rely on slower, human-driven analysis.
 
-In practice, the integration of economic indicators within an algorithmic trading framework can be achieved through programming languages like Python. Below is a simple example of how one might employ linear regression using Python's `scikit-learn` library to predict future price levels:
+In practice, the integration of economic indicators within an [algorithmic trading](/wiki/algorithmic-trading) framework can be achieved through programming languages like Python. Below is a simple example of how one might employ linear regression using Python's `scikit-learn` library to predict future price levels:
 
 ```python
 from sklearn.linear_model import LinearRegression

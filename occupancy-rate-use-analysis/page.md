@@ -48,7 +48,7 @@ On the other hand, if the occupancy rate is high, the hotel might decide to rais
 
 ## What are the factors that influence occupancy rate?
 
-Occupancy rate is affected by many things. One big factor is where the hotel or apartment building is located. If it's in a popular city or near a tourist spot, it will likely have a higher occupancy rate because more people want to stay there. The time of year also matters a lot. During holidays or busy seasons, like summer, more people travel, so occupancy rates go up. But in slower times, like winter, fewer people might want to stay, so the occupancy rate can drop.
+Occupancy rate is affected by many things. One big [factor](/wiki/factor-investing) is where the hotel or apartment building is located. If it's in a popular city or near a tourist spot, it will likely have a higher occupancy rate because more people want to stay there. The time of year also matters a lot. During holidays or busy seasons, like summer, more people travel, so occupancy rates go up. But in slower times, like winter, fewer people might want to stay, so the occupancy rate can drop.
 
 Another important factor is how the place is priced. If the prices are too high, fewer people will want to stay, which can lower the occupancy rate. But if the prices are competitive or if there are special deals, more people might book, making the occupancy rate go up. The reputation and quality of the place also play a role. A hotel with good reviews and nice amenities will attract more guests, leading to a higher occupancy rate. On the other hand, if the place has bad reviews or needs repairs, fewer people will want to stay, which can lower the occupancy rate.
 

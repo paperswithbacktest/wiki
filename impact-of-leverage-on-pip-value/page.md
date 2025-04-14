@@ -22,7 +22,7 @@ To calculate the value of a pip, you need to know the lot size you are trading a
 
 ## How does leverage affect the pip value in forex trading?
 
-Leverage in forex trading does not change the value of a pip directly. The pip value stays the same no matter how much leverage you use. For example, if you're trading a standard lot of 100,000 units, a pip is still worth $10, whether you use 1:10 leverage or 1:100 leverage. Leverage just lets you control a bigger position with less money.
+Leverage in [forex](/wiki/forex-system) trading does not change the value of a pip directly. The pip value stays the same no matter how much leverage you use. For example, if you're trading a standard lot of 100,000 units, a pip is still worth $10, whether you use 1:10 leverage or 1:100 leverage. Leverage just lets you control a bigger position with less money.
 
 However, leverage can make the impact of pip movements feel much bigger. With leverage, you can trade larger amounts than you could without it. So, even though the pip value doesn't change, the total profit or loss from each pip movement can be much larger because you're trading more. If the market moves against you, those pip losses can quickly add up and wipe out your account if you're not careful.
 

@@ -82,7 +82,7 @@ Once a bear squeeze starts, these tools can help traders manage it better. They 
 
 ## What are the risks and considerations in bear squeeze strategies?
 
-Bear squeezes, while potentially lucrative, embody significant financial risks that demand careful consideration from investors. The primary risk stems from the high volatility inherent in such scenarios. Volatility, defined as the degree of variation of a trading price series over time, is mathematically expressed using standard deviation or variance formulas:
+Bear squeezes, while potentially lucrative, embody significant financial risks that demand careful consideration from investors. The primary risk stems from the high [volatility](/wiki/volatility-trading-strategies) inherent in such scenarios. Volatility, defined as the degree of variation of a trading price series over time, is mathematically expressed using standard deviation or variance formulas:
 
 $$
 \sigma = \sqrt{\frac{\sum (X_i - \mu)^2}{N}}

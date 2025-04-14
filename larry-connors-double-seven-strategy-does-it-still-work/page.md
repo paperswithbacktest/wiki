@@ -36,7 +36,7 @@ Once you find a stock that meets both these rules, the strategy says you should 
 
 The entry rule for the Double Seven Strategy is simple. You buy a stock when it has dropped by 7% or more in the last four weeks and is also at least 7% below its highest price in the last year. This means you need to check the stock's price history to see if it meets both these conditions. If it does, you go ahead and buy the stock, hoping it will bounce back soon.
 
-The exit rule is about when to sell the stock. You hold onto the stock for a short time, usually just a few days to a couple of weeks. You're looking for the stock to start going up again. Once you see it begin to recover, you sell it to make a profit. Remember, this strategy doesn't always work, so you need to be careful and do your own research before trying it.
+The [exit](/wiki/exit-strategy) rule is about when to sell the stock. You hold onto the stock for a short time, usually just a few days to a couple of weeks. You're looking for the stock to start going up again. Once you see it begin to recover, you sell it to make a profit. Remember, this strategy doesn't always work, so you need to be careful and do your own research before trying it.
 
 ## What historical performance data supports the Double Seven Strategy?
 
@@ -60,7 +60,7 @@ There are also some limitations to think about. The Double Seven Strategy is bas
 
 The Double Seven Strategy can be changed a bit to work better in different market conditions. If the market is going up a lot, you might want to hold onto the stock for a shorter time. This is because stocks can bounce back faster when the market is doing well. On the other hand, if the market is going down, you might need to be more careful. You could wait for a bigger drop than 7% before buying, or you might want to hold the stock for a longer time to give it a better chance to go back up.
 
-Another way to adapt the strategy is to look at other things besides just the stock's price. For example, you could check the company's news or financial reports to see if there's a good reason to think the stock will go up. You might also want to use other tools, like looking at the stock's trading volume or using technical indicators, to help you decide when to buy and sell. By making these changes, you can make the Double Seven Strategy work better in different market situations.
+Another way to adapt the strategy is to look at other things besides just the stock's price. For example, you could check the company's news or financial reports to see if there's a good reason to think the stock will go up. You might also want to use other tools, like looking at the stock's trading [volume](/wiki/volume-trading-strategy) or using technical indicators, to help you decide when to buy and sell. By making these changes, you can make the Double Seven Strategy work better in different market situations.
 
 ## What are some real-world examples of the Double Seven Strategy in action?
 
@@ -72,7 +72,7 @@ Another example could be with XYZ Corporation. You notice that its stock has gon
 
 The Double Seven Strategy is one way to trade stocks, but it's different from other strategies when you look at how well it works and how risky it is. Compared to long-term investing, where you hold onto stocks for years, the Double Seven Strategy is much shorter. It's all about buying stocks that have dropped a lot in a short time and selling them quickly. This can lead to quick profits, but it's also riskier because the stock might keep going down instead of bouncing back. On the other hand, long-term investing can be less risky because you have more time for the stock to recover, but it might take a long time to see any profit.
 
-When you compare the Double Seven Strategy to other short-term trading strategies, like momentum trading or day trading, it's a bit different too. Momentum trading is about buying stocks that are already going up, hoping they'll keep going. This can be less risky than the Double Seven Strategy because you're buying stocks that are doing well, not ones that have fallen a lot. Day trading, where you buy and sell stocks in one day, can be even riskier than the Double Seven Strategy because you're making quick decisions with less time to see if the stock will go up. The Double Seven Strategy sits in the middle, offering a chance for quick gains but with a higher risk than long-term investing and a different kind of risk than other short-term strategies.
+When you compare the Double Seven Strategy to other short-term trading strategies, like [momentum](/wiki/momentum) trading or [day trading](/wiki/day-trading-spy), it's a bit different too. Momentum trading is about buying stocks that are already going up, hoping they'll keep going. This can be less risky than the Double Seven Strategy because you're buying stocks that are doing well, not ones that have fallen a lot. Day trading, where you buy and sell stocks in one day, can be even riskier than the Double Seven Strategy because you're making quick decisions with less time to see if the stock will go up. The Double Seven Strategy sits in the middle, offering a chance for quick gains but with a higher risk than long-term investing and a different kind of risk than other short-term strategies.
 
 ## What advanced techniques can be used to optimize the Double Seven Strategy?
 

@@ -80,7 +80,7 @@ However, other studies have challenged the effectiveness of CAPM. One big proble
 
 ## How can CAPM be adjusted or improved to address its shortcomings?
 
-One way to make CAPM better is to think about more than just how an investment moves with the market. CAPM only looks at beta, but other things can affect how much money you might make from an investment. For example, the size of a company or how much its stock costs compared to its value can be important too. By adding these other things into the model, like the Fama-French three-factor model does, you can get a fuller picture of what might affect an investment's return. This can help you make better decisions about where to put your money.
+One way to make CAPM better is to think about more than just how an investment moves with the market. CAPM only looks at beta, but other things can affect how much money you might make from an investment. For example, the size of a company or how much its stock costs compared to its value can be important too. By adding these other things into the model, like the Fama-French three-[factor](/wiki/factor-investing) model does, you can get a fuller picture of what might affect an investment's return. This can help you make better decisions about where to put your money.
 
 Another way to improve CAPM is to use more accurate numbers. CAPM needs you to know the risk-free rate, the market return, and the investment's beta. But figuring out these numbers can be hard, and if you get them wrong, your expected return won't be right. You can try to use better ways to find these numbers, like looking at more data or using different methods to calculate them. Also, you can use CAPM along with other models and tools to check your answers and make sure you're making the best decision. By being careful with the numbers and using other tools too, you can make CAPM more useful.
 
@@ -132,7 +132,7 @@ where $E(R_i)$ is the expected return on the investment, $R_f$ is the risk-free 
 
 ### Evaluating Risk-Return Profiles
 
-By employing CAPM, investors can gauge the attractiveness of different investments by understanding their expected returns relative to their risks. The beta ($\beta$) in the CAPM formula is key—it measures an asset’s sensitivity to market movements, allowing investors to deduce whether an asset is more or less volatile than the market itself. A beta greater than one suggests higher volatility compared to the market, while a beta less than one implies lower volatility.
+By employing CAPM, investors can gauge the attractiveness of different investments by understanding their expected returns relative to their risks. The beta ($\beta$) in the CAPM formula is key—it measures an asset’s sensitivity to market movements, allowing investors to deduce whether an asset is more or less volatile than the market itself. A beta greater than one suggests higher [volatility](/wiki/volatility-trading-strategies) compared to the market, while a beta less than one implies lower volatility.
 
 ### Portfolio Construction
 

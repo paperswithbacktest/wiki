@@ -18,7 +18,7 @@ There are a few common day-count conventions. One popular method is the "30/360"
 
 Day-count conventions are important in bond valuation because they help figure out how much interest a bond earns over time. When you buy a bond, you want to know how much money you'll get back, including the interest. The day-count convention tells you how to count the days between when you buy the bond and when you get paid interest. This can change how much interest you earn, especially if you're holding the bond for a short time or if you buy or sell it between interest payment dates.
 
-Different bonds use different day-count conventions, and this can affect their value. For example, if two bonds have the same interest rate but use different day-count methods, one might earn you more interest than the other over the same period. This means that understanding the day-count convention used by a bond is crucial for accurately valuing it and comparing it with other bonds. It's like knowing the rules of the game before you start playing, so you can make better decisions about which bonds to buy or sell.
+Different bonds use different day-count conventions, and this can affect their value. For example, if two bonds have the same [interest rate](/wiki/interest-rate-trading-strategies) but use different day-count methods, one might earn you more interest than the other over the same period. This means that understanding the day-count convention used by a bond is crucial for accurately valuing it and comparing it with other bonds. It's like knowing the rules of the game before you start playing, so you can make better decisions about which bonds to buy or sell.
 
 ## What is the difference between actual/actual and 30/360 day-count conventions?
 
@@ -48,7 +48,7 @@ The choice of day-count convention can also affect how you compare bonds. If you
 
 Different day-count conventions can change how much a bond costs in different markets because they affect how much interest the bond earns. If two bonds have the same interest rate but use different day-count methods, one might seem cheaper or more expensive than the other. For example, if a bond uses the 30/360 method, it might count fewer days than a bond using the actual/actual method. This means the bond using the 30/360 method could earn less interest over the same time, making it seem cheaper when you look at the price.
 
-These differences can be important when you're comparing bonds from different markets. A bond from one market might use the actual/365 (fixed) method, while another from a different market might use the actual/360 method. Even if they have the same interest rate, the bond using the actual/360 method could end up earning a bit more interest because it divides the days by 360 instead of 365. Knowing which day-count convention a bond uses helps you understand its real value and make better choices about which bonds to buy or sell.
+These differences can be important when you're comparing bonds from different markets. A bond from one market might use the actual/365 (fixed) method, while another from a different market might use the actual/360 method. Even if they have the same interest rate, the bond using the actual/360 method could end up [earning](/wiki/earning-announcement) a bit more interest because it divides the days by 360 instead of 365. Knowing which day-count convention a bond uses helps you understand its real value and make better choices about which bonds to buy or sell.
 
 ## What are the common day-count conventions used in the U.S. Treasury market?
 
@@ -82,7 +82,7 @@ In financial modeling, day-count conventions are key because they affect how muc
 
 ## What are Day-Count Conventions and How Do We Understand Them?
 
-Day-count conventions are mathematical frameworks integral to the calculation of accrued interest and the determination of coupon payment periods for bonds. These conventions help define how interest accrues over time, an essential factor in accurate bond pricing within financial markets.
+Day-count conventions are mathematical frameworks integral to the calculation of accrued interest and the determination of coupon payment periods for bonds. These conventions help define how interest accrues over time, an essential [factor](/wiki/factor-investing) in accurate bond pricing within financial markets.
 
 The primary day-count conventions include Actual/Actual, 30/360, Actual/360, and Actual/365:
 

@@ -40,7 +40,7 @@ If you can't add more money when you get a margin call, your broker might close 
 
 ## How does market volatility affect CFD trading?
 
-Market volatility means that prices can change a lot and very quickly. This can be good and bad for CFD trading. If you are good at guessing which way the market will go, you can make a lot of money when prices move a lot. But if you guess wrong, you can lose a lot of money very fast. Because CFDs use leverage, even small changes in the market can have a big effect on your account.
+Market [volatility](/wiki/volatility-trading-strategies) means that prices can change a lot and very quickly. This can be good and bad for CFD trading. If you are good at guessing which way the market will go, you can make a lot of money when prices move a lot. But if you guess wrong, you can lose a lot of money very fast. Because CFDs use leverage, even small changes in the market can have a big effect on your account.
 
 When the market is very volatile, you might get margin calls more often. This is because the big price swings can make your losses bigger, and you might need to add more money to your account to keep your trades open. If you can't add more money, your broker might close your trades at a bad time, and you could lose a lot of money. So, market volatility can make CFD trading more exciting, but it also makes it riskier.
 
@@ -60,7 +60,7 @@ Another thing to think about is that not all CFD brokers are the same. Some migh
 
 Liquidity in CFD trading means how easy it is to buy or sell a CFD without changing its price too much. If a market is very liquid, you can trade a lot without worrying about big price changes. But if the market isn't very liquid, it can be hard to get in or out of a trade quickly. This can be a problem because if you need to close your trade fast, you might not be able to do it at the price you want. This can make your losses bigger or stop you from making as much money as you hoped.
 
-When trading CFDs, low liquidity can also make the price move in big jumps. If there aren't many people trading, even a small trade can push the price up or down a lot. This can be risky because it makes it harder to predict how much money you might make or lose. So, it's important to know how liquid the market is before you start trading CFDs, because it can affect your trades a lot.
+When trading CFDs, low [liquidity](/wiki/liquidity-risk-premium) can also make the price move in big jumps. If there aren't many people trading, even a small trade can push the price up or down a lot. This can be risky because it makes it harder to predict how much money you might make or lose. So, it's important to know how liquid the market is before you start trading CFDs, because it can affect your trades a lot.
 
 ## What are the psychological risks and challenges of CFD trading?
 

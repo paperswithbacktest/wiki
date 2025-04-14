@@ -88,7 +88,7 @@ Getting ready for an economic slump can make a big difference. If governments an
 
 ## Question: Can Algo Trading Predict Economic Downturns?
 
-The intersection of algorithmic trading and economic forecasting presents a significant opportunity for predicting economic downturns. Leveraging artificial intelligence (AI) and machine learning (ML), modern financial algorithms have the capability to process and analyze vast datasets. These datasets may include historical market prices, real-time economic indicators, and macroeconomic variables, aiming to identify early signals of economic instability.
+The intersection of [algorithmic trading](/wiki/algorithmic-trading) and economic forecasting presents a significant opportunity for predicting economic downturns. Leveraging [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning) (ML), modern financial algorithms have the capability to process and analyze vast datasets. These datasets may include historical market prices, real-time economic indicators, and macroeconomic variables, aiming to identify early signals of economic instability.
 
 To understand the mechanics, consider an algorithm designed to predict economic downturns. Such an algorithm typically employs supervised learning models, like regression analysis or neural networks, to spot patterns in data that precede past downturns. By training on historical data, the algorithm learns to identify a combination of factors indicating an upcoming slump. 
 

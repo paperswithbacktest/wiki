@@ -48,7 +48,7 @@ Another benefit is that a stock split can make it easier to buy more shares. If 
 
 A stock split can make a stock more liquid. Liquidity means how easy it is to buy or sell a stock without changing its price too much. When a company does a stock split, the price of each share goes down. This makes the stock cheaper, so more people can afford to buy it. When more people are buying and selling, it's easier to find someone to trade with, which means the stock becomes more liquid.
 
-Having more liquidity is good for investors. It means you can buy or sell your shares quickly without waiting for someone to want to trade. This can be important if you need to sell your shares fast or if you want to buy more shares without affecting the price too much. So, a stock split can help make the stock more popular and easier to trade, which is a big benefit for everyone who owns the stock.
+Having more [liquidity](/wiki/liquidity-risk-premium) is good for investors. It means you can buy or sell your shares quickly without waiting for someone to want to trade. This can be important if you need to sell your shares fast or if you want to buy more shares without affecting the price too much. So, a stock split can help make the stock more popular and easier to trade, which is a big benefit for everyone who owns the stock.
 
 ## How might a stock split affect investor perception and demand for the stock?
 
@@ -66,7 +66,7 @@ But, if you decide to sell your shares after a stock split, then you might have 
 
 When a company does a stock split, it can change how it affects stock market indices like the S&P 500 or the Dow Jones Industrial Average. These indices track the performance of a group of stocks, and they use different methods to calculate their values. For example, the Dow Jones uses a price-weighted method, so when a stock's price goes down because of a split, it can make the index go down a bit right away. But, the S&P 500 uses a market-cap weighted method, so a stock split doesn't change the index's value right away because the total value of the company stays the same.
 
-Stock splits can also affect ETFs, or exchange-traded funds, which are baskets of stocks that you can buy and sell like a single stock. If an ETF holds a stock that does a split, the number of shares of that stock in the ETF will go up, but the total value of the ETF won't change right away. Over time, if the stock becomes more popular and its price goes up because of the split, it can make the ETF's value go up too. So, while a stock split doesn't change the value of an ETF right after it happens, it can influence how the ETF performs in the future.
+Stock splits can also affect ETFs, or exchange-traded funds, which are baskets of stocks that you can buy and sell like a single stock. If an [ETF](/wiki/etf-trading-strategies) holds a stock that does a split, the number of shares of that stock in the ETF will go up, but the total value of the ETF won't change right away. Over time, if the stock becomes more popular and its price goes up because of the split, it can make the ETF's value go up too. So, while a stock split doesn't change the value of an ETF right after it happens, it can influence how the ETF performs in the future.
 
 ## What is the historical performance of stocks after a split?
 
@@ -86,7 +86,7 @@ A stock split is a corporate action initiated by a company to increase its numbe
 
 Conversely, a reverse split reduces the total number of shares while increasing the share price. This kind of split might be enacted to meet stock exchange listing requirements or enhance the perception of the company by maintaining a minimum share price. A 1-for-2 reverse split, for instance, consolidates two shares into one, doubling the share price and halving the number of shares each shareholder owns.
 
-Companies often employ stock splits to enhance the liquidity of their shares. Lower share prices make the stocks more accessible and affordable to a broader range of investors, particularly retail investors. Improved affordability could potentially expand the shareholder base, enhancing trading volume and market liquidity. This is particularly advantageous for companies seeking to maintain an active and engaged investor base.
+Companies often employ stock splits to enhance the liquidity of their shares. Lower share prices make the stocks more accessible and affordable to a broader range of investors, particularly retail investors. Improved affordability could potentially expand the shareholder base, enhancing trading [volume](/wiki/volume-trading-strategy) and market liquidity. This is particularly advantageous for companies seeking to maintain an active and engaged investor base.
 
 By increasing the number of shares and reducing the share price, stock splits do not alter the market capitalization, which can be expressed mathematically as follows:
 
@@ -104,7 +104,7 @@ Fama, E. F., Fisher, L., Jensen, M. C., & Roll, R. (1969). "The Adjustment of St
 
 Ikenberry, D., Rankine, G., & Stice, E. (1996). "What Do Stock Splits Really Signal?" This research investigates the underlying signals of stock splits, examining both the immediate market reactions and the long-term implications for company valuation. The analysis helps investors comprehend the motivations behind stock splits and their potential impact on stock performance.
 
-Lopez de Prado, M. (2018). "Advances in Financial Machine Learning." This book introduces advanced machine learning techniques tailored for financial applications, including algorithmic trading. It discusses how these methods can enhance trading strategies by exploiting market inefficiencies, such as those created by stock splits. Python-based implementations illustrate practical applications of these techniques.
+Lopez de Prado, M. (2018). "Advances in Financial Machine Learning." This book introduces advanced [machine learning](/wiki/machine-learning) techniques tailored for financial applications, including [algorithmic trading](/wiki/algorithmic-trading). It discusses how these methods can enhance trading strategies by exploiting market inefficiencies, such as those created by stock splits. Python-based implementations illustrate practical applications of these techniques.
 
 Chan, E. P. (2008). "Quantitative Trading: How to Build Your Own Algorithmic Trading Business." A comprehensive guide to creating and managing an algorithmic trading operation. The book covers the essentials of developing automated trading strategies, with examples that leverage market events like stock splits to maximize trading opportunities. It offers insights into the infrastructure and tools required for a successful algorithmic trading venture.
 

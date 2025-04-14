@@ -26,7 +26,7 @@ There are a few main types of private currencies. One type is local currencies, 
 
 Another type is company scrip, which is money created by a company for its employees to use. This was more common in the past, especially in mining or factory towns where workers might use the scrip at the company store. It helped companies control the local economy but could also limit workers' choices.
 
-The third type is digital or cryptocurrency, like Bitcoin. These are electronic currencies that people can use online to buy things or trade with others. They are not controlled by any government and use technology to keep transactions secure. Cryptocurrencies can be used by anyone with internet access, but their value can go up and down a lot.
+The third type is digital or [cryptocurrency](/wiki/cryptocurrency), like Bitcoin. These are electronic currencies that people can use online to buy things or trade with others. They are not controlled by any government and use technology to keep transactions secure. Cryptocurrencies can be used by anyone with internet access, but their value can go up and down a lot.
 
 ## What are the historical examples of private currencies?
 

@@ -22,9 +22,9 @@ Next, you use these averages to find the Relative Strength (RS), which is the av
 
 ## What does the RSI measure in the context of forex markets?
 
-The RSI measures how fast and how much a currency's price is changing in the forex market. It looks at the average gains and losses of the currency's price over a set number of days, usually 14 days. By doing this, the RSI gives traders a number between 0 and 100 that shows if the currency is being bought a lot or sold a lot.
+The RSI measures how fast and how much a currency's price is changing in the [forex](/wiki/forex-system) market. It looks at the average gains and losses of the currency's price over a set number of days, usually 14 days. By doing this, the RSI gives traders a number between 0 and 100 that shows if the currency is being bought a lot or sold a lot.
 
-Traders use the RSI to decide when to buy or sell a currency. If the RSI is above 70, it might mean the currency is overbought and could soon drop in price. If the RSI is below 30, it might mean the currency is oversold and could soon rise in price. This helps traders make better choices about when to enter or exit the market.
+Traders use the RSI to decide when to buy or sell a currency. If the RSI is above 70, it might mean the currency is overbought and could soon drop in price. If the RSI is below 30, it might mean the currency is oversold and could soon rise in price. This helps traders make better choices about when to enter or [exit](/wiki/exit-strategy) the market.
 
 ## What are the typical settings used for RSI in forex trading?
 
@@ -54,7 +54,7 @@ Traders watch for these changes in the RSI to plan their next moves. If they see
 
 The RSI is a special tool in forex trading because it measures how fast and how much a currency's price is changing. It does this by looking at the average gains and losses over a set number of days, usually 14 days. This gives traders a number between 0 and 100. If the RSI is above 70, it means the currency might be overbought and could soon drop in price. If it's below 30, it means the currency might be oversold and could soon rise in price. This helps traders decide when to buy or sell a currency.
 
-Other momentum indicators, like the Moving Average Convergence Divergence (MACD) or the Stochastic Oscillator, also help traders see how fast a currency's price is changing. But they do it in different ways. The MACD looks at the difference between two moving averages to show momentum, while the Stochastic Oscillator compares a currency's closing price to its price range over a certain period. Each of these tools gives traders different information about the market, so they might use them together to make better trading decisions.
+Other [momentum](/wiki/momentum) indicators, like the Moving Average Convergence Divergence (MACD) or the Stochastic Oscillator, also help traders see how fast a currency's price is changing. But they do it in different ways. The MACD looks at the difference between two moving averages to show momentum, while the Stochastic Oscillator compares a currency's closing price to its price range over a certain period. Each of these tools gives traders different information about the market, so they might use them together to make better trading decisions.
 
 ## What are the limitations of using RSI in forex trading?
 

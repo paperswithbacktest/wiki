@@ -18,7 +18,7 @@ ZCash uses special technology called "zero-knowledge proofs" to keep transaction
 
 ZCash was created by a company called the Electric Coin Company, which was originally known as the Zerocoin Electric Coin Company. The main person behind ZCash is Zooko Wilcox-O'Hearn, who is a well-known figure in the world of cryptocurrency and privacy technology.
 
-ZCash was launched on October 28, 2016. Since then, it has grown in popularity among people who value privacy in their financial transactions. The launch of ZCash brought a new option for those looking to use cryptocurrency with added privacy features.
+ZCash was launched on October 28, 2016. Since then, it has grown in popularity among people who value privacy in their financial transactions. The launch of ZCash brought a new option for those looking to use [cryptocurrency](/wiki/cryptocurrency) with added privacy features.
 
 ## How does ZCash differ from other cryptocurrencies like Bitcoin?
 

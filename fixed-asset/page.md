@@ -66,7 +66,7 @@ There's also the units of production method, which looks at how much the asset i
 
 ## What is the impact of fixed asset disposal on financial statements?
 
-When a business gets rid of a fixed asset, like selling a machine or a building, it affects the financial statements. The first thing that happens is the asset is taken off the balance sheet. The business subtracts the asset's book value, which is what it's worth on the books after depreciation, from the total fixed assets. If the business sells the asset for more than its book value, it makes a profit. This profit is recorded on the income statement as a gain on disposal. If the business sells it for less, it loses money, and that loss is shown as a loss on disposal on the income statement.
+When a business gets rid of a fixed asset, like selling a machine or a building, it affects the financial statements. The first thing that happens is the asset is taken off the balance sheet. The business subtracts the asset's book value, which is what it's worth on the [books](/wiki/algo-trading-books) after depreciation, from the total fixed assets. If the business sells the asset for more than its book value, it makes a profit. This profit is recorded on the income statement as a gain on disposal. If the business sells it for less, it loses money, and that loss is shown as a loss on disposal on the income statement.
 
 The money from selling the fixed asset also affects the cash flow statement. If the business gets cash from selling the asset, that money is added to the cash flow from investing activities section. This shows how the business is using or getting money from its investments. If the business trades the asset for something else, like another machine, it might not affect the cash flow statement right away, but it will still change the balance sheet by removing the old asset and adding the new one. So, disposing of a fixed asset changes the balance sheet, income statement, and cash flow statement in different ways.
 
@@ -108,11 +108,11 @@ Overall, the strategic acquisition and management of fixed and tangible assets s
 
 ## References & Further Reading
 
-Aldridge, I. (2013). *High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems,* 2nd Edition. Wiley Finance. This book provides a detailed exploration of algorithmic trading strategies and systems, offering insights into the practical applications of high-frequency trading in today's markets.
+Aldridge, I. (2013). *High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems,* 2nd Edition. Wiley Finance. This book provides a detailed exploration of [algorithmic trading](/wiki/algorithmic-trading) strategies and systems, offering insights into the practical applications of high-frequency trading in today's markets.
 
 Engle, R., & Russell, J. R. (2010). *Analysis of High-Frequency Data.* Review of Economic Studies. This study examines the methodologies of analyzing high-frequency financial data, crucial for understanding and developing effective trading strategies.
 
-Papageorgiou, G., & Haas, R. (2015). *Machine Learning in Asset Management.* Springer. This book discusses the integration of machine learning techniques into asset management, highlighting the advancements and applications of AI in managing financial resources.
+Papageorgiou, G., & Haas, R. (2015). *Machine Learning in Asset Management.* Springer. This book discusses the integration of [machine learning](/wiki/machine-learning) techniques into asset management, highlighting the advancements and applications of AI in managing financial resources.
 
 Narang, R. K. (2009). *Inside the Black Box: The Simple Truth About Quantitative Trading.* Wiley. Narang offers an in-depth look at [quantitative trading](/wiki/quantitative-trading) strategies, explaining how these techniques are implemented and the potential they hold for traders looking to optimize their performance in the financial markets.
 

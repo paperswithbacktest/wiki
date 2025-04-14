@@ -62,7 +62,7 @@ By watching high-yield bond spreads, you can change your investments to fit the 
 
 To predict changes in high-yield bond spreads, investors use advanced tools like regression analysis. This tool helps them look at past data to see how different things, like the economy or interest rates, have changed the spreads before. By understanding these patterns, investors can guess what might happen to the spreads in the future. They can use this information to decide when to buy or sell high-yield bonds.
 
-Another tool is machine learning. This tool uses computers to find patterns in big sets of data that people might not see. Machine learning can look at lots of different things at the same time, like how the economy is doing, what companies are saying, and even what people are saying on social media. By finding these patterns, machine learning can help predict if high-yield bond spreads will get bigger or smaller. This can help investors make smarter choices about their money.
+Another tool is [machine learning](/wiki/machine-learning). This tool uses computers to find patterns in big sets of data that people might not see. Machine learning can look at lots of different things at the same time, like how the economy is doing, what companies are saying, and even what people are saying on social media. By finding these patterns, machine learning can help predict if high-yield bond spreads will get bigger or smaller. This can help investors make smarter choices about their money.
 
 ## How do global economic events impact high-yield bond spreads?
 

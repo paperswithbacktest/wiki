@@ -105,5 +105,5 @@ On the other hand, Keynesian economics sees subsidies as a helpful tool. Keynesi
 6. **Websites and Blogs:**
    - **CME Group’s Educational Resources on Algorithmic Trading:** Offers various learning materials and articles discussing algorithmic trading frameworks, benefits, and challenges.
 
-These resources provide an extensive foundation for understanding the complex interplay between governmental economic policies, such as subsidies, and the rapidly evolving field of algorithmic trading.
+These resources provide an extensive foundation for understanding the complex interplay between governmental economic policies, such as subsidies, and the rapidly evolving field of [algorithmic trading](/wiki/algorithmic-trading).
 

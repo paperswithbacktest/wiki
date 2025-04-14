@@ -28,7 +28,7 @@ Another advantage is that dollar-cost averaging can lower the average price you 
 
 ## Can dollar-cost averaging reduce the impact of market volatility?
 
-Dollar-cost averaging can help reduce the impact of market volatility. When you use this method, you invest the same amount of money at regular times, like every month. This means you buy shares at different prices over time. When the market goes down, your money buys more shares because they are cheaper. When the market goes up, your money buys fewer shares because they are more expensive. By doing this, you smooth out the ups and downs of the market.
+Dollar-cost averaging can help reduce the impact of market [volatility](/wiki/volatility-trading-strategies). When you use this method, you invest the same amount of money at regular times, like every month. This means you buy shares at different prices over time. When the market goes down, your money buys more shares because they are cheaper. When the market goes up, your money buys fewer shares because they are more expensive. By doing this, you smooth out the ups and downs of the market.
 
 Over time, dollar-cost averaging can lead to a lower average cost for your investments. Instead of investing all your money when the market might be high, you spread it out. This way, you don't have to worry about the market's short-term changes. It's a simple way to invest that can help you feel more secure, even when the market is going up and down a lot.
 

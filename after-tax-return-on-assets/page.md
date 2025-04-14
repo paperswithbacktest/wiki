@@ -18,7 +18,7 @@ This measure is important because it gives a more accurate picture of a company'
 
 To calculate the After-Tax Return on Assets, you start by finding the company's net income after taxes. This is the money the company makes after it has paid all its taxes. Then, you take this after-tax net income and divide it by the total value of the company's assets. Assets are things the company owns, like buildings, equipment, or money in the bank. After you do the division, you multiply the result by 100 to turn it into a percentage. This percentage is the After-Tax Return on Assets.
 
-For example, if a company has a net income of $50,000 after taxes and total assets worth $500,000, you would divide $50,000 by $500,000 to get 0.1. Then, you multiply 0.1 by 100 to get a 10% After-Tax Return on Assets. This means the company is earning 10 cents for every dollar of assets it owns, after paying taxes. This calculation helps investors see how efficiently a company is using its assets to make money, considering the impact of taxes.
+For example, if a company has a net income of $50,000 after taxes and total assets worth $500,000, you would divide $50,000 by $500,000 to get 0.1. Then, you multiply 0.1 by 100 to get a 10% After-Tax Return on Assets. This means the company is [earning](/wiki/earning-announcement) 10 cents for every dollar of assets it owns, after paying taxes. This calculation helps investors see how efficiently a company is using its assets to make money, considering the impact of taxes.
 
 ## What is the difference between Before-Tax and After-Tax Return on Assets?
 
@@ -30,7 +30,7 @@ On the other hand, After-Tax Return on Assets takes taxes into account. It is ca
 
 After-Tax Return on Assets is important for investors because it shows how much money a company really makes from its assets after paying taxes. This number tells investors how well a company is doing at turning its buildings, equipment, and other things it owns into profit, after the government takes its share. Knowing this helps investors understand if a company is good at making money in the real world, not just on paper.
 
-Investors use After-Tax Return on Assets to compare different companies and see which ones are better at using their assets to make money. Since taxes can take away a big part of a company's earnings, looking at profits after taxes gives a clearer picture of what investors can expect to get back. This helps them make smarter choices about where to put their money, picking companies that are efficient and keep more of their earnings after paying taxes.
+Investors use After-Tax Return on Assets to compare different companies and see which ones are better at using their assets to make money. Since taxes can take away a big part of a company's earnings, looking at profits after taxes gives a clearer picture of what investors can expect to get back. This helps them make smarter choices about where to put their money, [picking](/wiki/asset-class-picking) companies that are efficient and keep more of their earnings after paying taxes.
 
 ## Can you provide an example of how to apply After-Tax Return on Assets in a real-world scenario?
 

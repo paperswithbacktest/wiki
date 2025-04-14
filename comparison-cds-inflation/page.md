@@ -36,7 +36,7 @@ For longer-term CDs, like 2-year or 5-year ones, the average rates might be a bi
 
 Inflation makes the money you have worth less over time. When prices go up, the same amount of money can buy fewer things. For example, if a toy costs $10 now and inflation makes it cost $11 next year, you need more money to buy the same toy. This means your money's purchasing power, or what it can buy, goes down.
 
-If inflation is high, it can really change how much you can buy with your money. Imagine saving $100. If inflation is at 5% per year, in one year, that $100 will only be able to buy as much as $95 could buy this year. Over time, this effect gets bigger. So, when you're saving money, you need to think about inflation because it can eat away at the value of your savings if it's not earning enough interest to keep up with rising prices.
+If inflation is high, it can really change how much you can buy with your money. Imagine saving $100. If inflation is at 5% per year, in one year, that $100 will only be able to buy as much as $95 could buy this year. Over time, this effect gets bigger. So, when you're saving money, you need to think about inflation because it can eat away at the value of your savings if it's not [earning](/wiki/earning-announcement) enough interest to keep up with rising prices.
 
 ## How can the interest earned from a CD compare to the inflation rate?
 

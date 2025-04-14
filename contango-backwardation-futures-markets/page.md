@@ -122,5 +122,5 @@ Traders seeking to profit from contango must consider these factors and develop 
 
 - Geman, H. (2005). *Commodities and Commodity Derivatives: Modelling and Pricing for Agriculturals, Metals and Energy*. Wiley Finance. This book provides a thorough exploration of the commodity markets and the derivatives used within them. Geman examines the pricing models for various commodities, addressing key concepts like contango, backwardation, and the economic factors driving these market conditions.
 
-These references offer a balanced mix of theoretical foundations and practical insights essential for understanding the complex mechanisms governing futures markets. They are particularly valuable for those interested in exploring the nuances of contango and backwardation, their implications for trading strategies, and how algorithmic trading can be employed to navigate these market conditions effectively.
+These references offer a balanced mix of theoretical foundations and practical insights essential for understanding the complex mechanisms governing futures markets. They are particularly valuable for those interested in exploring the nuances of contango and backwardation, their implications for trading strategies, and how [algorithmic trading](/wiki/algorithmic-trading) can be employed to navigate these market conditions effectively.
 

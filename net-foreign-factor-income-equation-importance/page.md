@@ -28,7 +28,7 @@ On the other side, NFFI also includes money that goes out of the country. This i
 
 ## Why is Net Foreign Factor Income important for a country's economy?
 
-Net Foreign Factor Income (NFFI) is important because it helps show how well a country is doing with its money and businesses around the world. When a country earns more money from its investments in other countries than it pays out to foreigners, its NFFI is positive. This can mean that the country is doing well in global markets and its citizens are earning good money abroad. A positive NFFI can make a country's economy look stronger and healthier.
+Net Foreign Factor Income (NFFI) is important because it helps show how well a country is doing with its money and businesses around the world. When a country earns more money from its investments in other countries than it pays out to foreigners, its NFFI is positive. This can mean that the country is doing well in global markets and its citizens are [earning](/wiki/earning-announcement) good money abroad. A positive NFFI can make a country's economy look stronger and healthier.
 
 On the other hand, if a country's NFFI is negative, it means it is paying more money to foreigners than it is earning from its own investments abroad. This could be a sign that the country is not doing as well in global markets, or that foreigners are making a lot of money from their investments in the country. Understanding NFFI helps leaders and people see the full picture of their country's economic health, including how it interacts with the rest of the world.
 

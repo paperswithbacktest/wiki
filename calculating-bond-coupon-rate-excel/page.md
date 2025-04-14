@@ -64,7 +64,7 @@ Also, be careful with the numbers you enter. If you accidentally put in the wron
 
 ## How does the frequency of coupon payments affect the calculation of the coupon rate?
 
-The frequency of coupon payments doesn't change the coupon rate itself. The coupon rate is always the annual interest rate paid on the bond's face value. If a bond has a coupon rate of 5%, it means you get 5% of the face value every year, no matter how often you get the payments. So, if the face value is $1,000, you get $50 every year, whether it comes in one payment, two payments, or four payments.
+The frequency of coupon payments doesn't change the coupon rate itself. The coupon rate is always the annual [interest rate](/wiki/interest-rate-trading-strategies) paid on the bond's face value. If a bond has a coupon rate of 5%, it means you get 5% of the face value every year, no matter how often you get the payments. So, if the face value is $1,000, you get $50 every year, whether it comes in one payment, two payments, or four payments.
 
 However, the way you calculate the annual coupon payment can change depending on how often you get the payments. If the bond pays interest twice a year, each payment is half of the annual amount. So, for a 5% coupon rate on a $1,000 bond, you would get $25 every six months. If it pays four times a year, each payment would be $12.50 every three months. But no matter how often you get the payments, the total for the year stays the same, and so does the coupon rate.
 
@@ -120,7 +120,7 @@ $$
 
 This process becomes even more powerful when combined with Excel's built-in functions like `RATE()` and `YIELD()`, which aid in yielding comprehensive insights into bond performance metrics and present value assessments. 
 
-Moreover, understanding and applying these concepts effectively can significantly enhance trading algorithms and investment strategies. In algorithmic trading, precise real-time calculations are essential, and automating bond-related calculations—including the coupon rate—can provide a competitive edge in optimizing portfolios and making informed, data-driven decisions. As financial markets continue to evolve in complexity and scale, leveraging tools like Excel not only supports thorough investment analysis but also facilitates the integration of these analyses into broader trading systems.
+Moreover, understanding and applying these concepts effectively can significantly enhance trading algorithms and investment strategies. In [algorithmic trading](/wiki/algorithmic-trading), precise real-time calculations are essential, and automating bond-related calculations—including the coupon rate—can provide a competitive edge in optimizing portfolios and making informed, data-driven decisions. As financial markets continue to evolve in complexity and scale, leveraging tools like Excel not only supports thorough investment analysis but also facilitates the integration of these analyses into broader trading systems.
 
 ## References & Further Reading
 

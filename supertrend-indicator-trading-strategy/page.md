@@ -178,7 +178,7 @@ def calculate_supertrend(data, atr_period=10, multiplier=3):
 
 This Python function demonstrates how traders can automate the Supertrend calculation, ensuring quicker decision-making and execution than manual approaches.
 
-Furthermore, using Supertrend indicators in conjunction with other technical indicators such as the Relative Strength Index (RSI) can yield even more comprehensive analyses. Combining the Supertrend's trend-following capacity with RSI's momentum assessment can provide a more robust trading system that diminishes false signals from volatile markets while capitalizing on genuine market opportunities. This multi-layered approach allows algorithmic traders to develop more sophisticated and adaptive trading strategies.
+Furthermore, using Supertrend indicators in conjunction with other technical indicators such as the Relative Strength Index (RSI) can yield even more comprehensive analyses. Combining the Supertrend's trend-following capacity with RSI's [momentum](/wiki/momentum) assessment can provide a more robust trading system that diminishes false signals from volatile markets while capitalizing on genuine market opportunities. This multi-layered approach allows algorithmic traders to develop more sophisticated and adaptive trading strategies.
 
 ## What are effective timeframes and settings?
 

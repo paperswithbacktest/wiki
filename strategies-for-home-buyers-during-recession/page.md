@@ -18,7 +18,7 @@ When a recession hits, the housing market usually feels the impact too. People m
 
 During a recession, home prices often drop because fewer people are buying. This means you might be able to find a good deal on a house. If you have a steady job and can afford to buy, it could be a smart time to look for a home. You might end up paying less than you would during better economic times.
 
-Also, interest rates on loans can be lower during a recession. This makes borrowing money to buy a house cheaper. If you can get a lower interest rate, your monthly mortgage payments will be smaller. This can make buying a home more affordable, even if the economy is struggling.
+Also, interest rates on loans can be lower during a recession. This makes borrowing money to buy a house cheaper. If you can get a lower [interest rate](/wiki/interest-rate-trading-strategies), your monthly mortgage payments will be smaller. This can make buying a home more affordable, even if the economy is struggling.
 
 ## What are the risks of buying a home during a recession?
 

@@ -38,7 +38,7 @@ In addition to these, some businesses have intangible fixed assets, like patents
 
 ## How should fixed assets be recorded in accounting?
 
-When a business buys a fixed asset, like a building or a machine, it should record it in its accounting books as an asset. This means writing down what the asset is, how much it cost, and when it was bought. The business should keep all this information in a list called a fixed asset register. This list helps the business know what it owns and how much those things are worth. It's important to keep this list up to date so the business can make good decisions about buying, selling, or fixing its assets.
+When a business buys a fixed asset, like a building or a machine, it should record it in its accounting [books](/wiki/algo-trading-books) as an asset. This means writing down what the asset is, how much it cost, and when it was bought. The business should keep all this information in a list called a fixed asset register. This list helps the business know what it owns and how much those things are worth. It's important to keep this list up to date so the business can make good decisions about buying, selling, or fixing its assets.
 
 Over time, fixed assets like machines or vehicles wear out and lose value. This is called depreciation. To show this in the accounting books, the business spreads the cost of the asset over the years it will be used. For example, if a machine costs $10,000 and will last 10 years, the business might count $1,000 as an expense each year. This way, the cost of the asset matches the income it helps to make over time. At the end of each year, the business updates its financial reports to show the new value of its fixed assets after depreciation.
 
@@ -88,7 +88,7 @@ Another useful software is called AssetWorks. It's made to help businesses manag
 
 ## What are Fixed Assets?
 
-Fixed assets are long-term resources fundamental to a company's operations, embodying elements such as machinery, buildings, and vehicles. These assets are integral to both production processes and service delivery mechanisms, perhaps functioning as the backbone of a company's operational capacity. When contrasting fixed assets with current assets, a key distinguishing factor is their liquidity. Fixed assets are not intended for quick liquidation and instead are held by the company for more extended periods, contributing to sustained business activities over time.
+Fixed assets are long-term resources fundamental to a company's operations, embodying elements such as machinery, buildings, and vehicles. These assets are integral to both production processes and service delivery mechanisms, perhaps functioning as the backbone of a company's operational capacity. When contrasting fixed assets with current assets, a key distinguishing [factor](/wiki/factor-investing) is their liquidity. Fixed assets are not intended for quick liquidation and instead are held by the company for more extended periods, contributing to sustained business activities over time.
 
 A critical aspect of managing fixed assets lies in understanding concepts like depreciation and maintenance. Depreciation refers to the systematic allocation of the cost of a tangible asset over its useful life. This accounting method allows companies to gradually expense the value of an asset, reflecting its wear and tear over time, and aligning the asset’s cost with the revenue it generates. Common methods of calculating depreciation include the straight-line method, declining balance method, and units of production method. For instance, the straight-line depreciation method can be represented mathematically as:
 
@@ -138,7 +138,7 @@ In conclusion, distinguishing between fixed, current, tangible, and intangible a
 
 ## How can fixed and business assets be integrated in algo trading?
 
-Integrating fixed and business assets into algorithmic trading systems involves leveraging technology to enhance traditional asset management and optimize trading strategies. This integration can provide significant insights, improve decision-making, and increase profitability.
+Integrating fixed and business assets into [algorithmic trading](/wiki/algorithmic-trading) systems involves leveraging technology to enhance traditional asset management and optimize trading strategies. This integration can provide significant insights, improve decision-making, and increase profitability.
 
 ### Strategies to Incorporate Fixed Assets into Algorithmic Trading Systems
 

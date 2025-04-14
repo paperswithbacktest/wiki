@@ -18,13 +18,13 @@ Traders use different tools to measure momentum, like the Relative Strength Inde
 
 Momentum in the market can be spotted by watching how fast and strong a price is moving. Imagine you're watching a race; if one runner is pulling ahead quickly, that's like a stock gaining momentum. Traders look at charts and see if the price is going up or down faster than usual. They pay attention to big jumps or drops in price over a short time. This helps them decide if a stock is picking up speed or slowing down.
 
-To measure momentum, traders use special tools like the Relative Strength Index (RSI) or the Moving Average Convergence Divergence (MACD). These tools are like speedometers for stocks. The RSI, for example, shows if a stock is moving too fast and might be due for a rest, or if it's moving too slow and might start picking up speed soon. The MACD helps traders see if the current trend is getting stronger or weaker. By using these tools, traders can better understand the momentum and make smarter choices about when to buy or sell.
+To measure [momentum](/wiki/momentum), traders use special tools like the Relative Strength Index (RSI) or the Moving Average Convergence Divergence (MACD). These tools are like speedometers for stocks. The RSI, for example, shows if a stock is moving too fast and might be due for a rest, or if it's moving too slow and might start [picking](/wiki/asset-class-picking) up speed soon. The MACD helps traders see if the current trend is getting stronger or weaker. By using these tools, traders can better understand the momentum and make smarter choices about when to buy or sell.
 
 ## What are the basic tools used to measure momentum?
 
 Traders use tools like the Relative Strength Index (RSI) and the Moving Average Convergence Divergence (MACD) to measure momentum in the market. The RSI is a number that shows how fast and how much a price has moved. It ranges from 0 to 100. If the RSI is above 70, it means the stock might be moving too fast and could be overbought. If it's below 30, the stock might be moving too slow and could be oversold. This helps traders decide if it's a good time to buy or sell.
 
-The MACD is another tool that helps traders see momentum. It uses two moving averages to show the strength and direction of a trend. When the MACD line crosses above the signal line, it's a sign that momentum is picking up and it might be a good time to buy. When the MACD line crosses below the signal line, it suggests that momentum is slowing down and it might be time to sell. By watching these tools, traders can get a better idea of whether a stock's price is likely to keep moving in the same direction or if it's about to change course.
+The MACD is another tool that helps traders see momentum. It uses two moving averages to show the strength and direction of a trend. When the MACD line crosses above the signal line, it's a sign that momentum is picking up and it might be a good time to buy. When the MACD line crosses below the signal line, it suggests that momentum is slowing down and it might be time to sell. By watching these tools, traders can get a better idea of whether a stock's price is likely to keep moving in the same direction or if it's about to change [course](/wiki/best-algorithmic-trading-courses).
 
 ## Can you explain the concept of momentum indicators?
 
@@ -54,7 +54,7 @@ Using momentum strategies can also help traders avoid buying stocks that are not
 
 Momentum trading can be risky because it's all about catching fast-moving trends. If a trader jumps in too late, the trend might already be over, and they could lose money when the price suddenly changes direction. It's like trying to catch a fast-moving ball; if you miss it, you might get hurt. Also, momentum trading often involves quick buying and selling, which means more trading fees and taxes. These costs can add up and eat into any profits a trader might make.
 
-Another risk is that momentum trading can lead to big losses if the market suddenly crashes or if there's a lot of volatility. When everyone is buying a stock because it's going up fast, it can create a bubble that eventually pops. If a trader is caught in this bubble when it bursts, they could lose a lot of money very quickly. It's important for traders to have a plan for when things go wrong and to be ready to cut their losses if the market turns against them.
+Another risk is that momentum trading can lead to big losses if the market suddenly crashes or if there's a lot of [volatility](/wiki/volatility-trading-strategies). When everyone is buying a stock because it's going up fast, it can create a bubble that eventually pops. If a trader is caught in this bubble when it bursts, they could lose a lot of money very quickly. It's important for traders to have a plan for when things go wrong and to be ready to cut their losses if the market turns against them.
 
 ## How can a trader manage risk when using momentum strategies?
 

@@ -66,7 +66,7 @@ But tree clustering also has some problems. It can be slow and tricky to use, es
 
 In biology, tree clustering is used to understand how different species are related to each other. Scientists collect data about different animals or plants, like their DNA or physical traits. They use tree clustering to group these species into a tree, called a phylogenetic tree, which shows how they evolved over time. This helps scientists see which species are closely related and how they might have changed from a common ancestor. For example, if you're studying different types of birds, tree clustering can show you which birds are most similar and how they might be related to each other. This information is important for understanding evolution and can help with things like conservation efforts.
 
-In market research, tree clustering helps businesses understand their customers better. Companies collect data about what people buy, how much they spend, and other information. They use tree clustering to group customers with similar buying habits together. This creates a clear picture of different types of customers, which helps businesses target their marketing better. For example, a company might find that some customers buy a lot of sports equipment while others buy more books. By understanding these groups, the company can create ads that are more likely to appeal to each group, making their marketing more effective and helping them sell more products.
+In market research, tree clustering helps businesses understand their customers better. Companies collect data about what people buy, how much they spend, and other information. They use tree clustering to group customers with similar buying habits together. This creates a clear picture of different types of customers, which helps businesses target their marketing better. For example, a company might find that some customers buy a lot of sports equipment while others buy more [books](/wiki/algo-trading-books). By understanding these groups, the company can create ads that are more likely to appeal to each group, making their marketing more effective and helping them sell more products.
 
 ## What are some advanced techniques for improving the efficiency of tree clustering algorithms?
 
@@ -82,7 +82,7 @@ Another important metric is the cophenetic correlation coefficient. This measure
 
 ## How can we evaluate and compare clustering models?
 
-Evaluating the effectiveness of clustering models in algorithmic trading is vital for optimizing strategies. The quality of a clustering solution can directly impact trading performance, thus necessitating the use of robust evaluation metrics. Common metrics include silhouette scores, Davies-Bouldin index, and Dunn index.
+Evaluating the effectiveness of clustering models in [algorithmic trading](/wiki/algorithmic-trading) is vital for optimizing strategies. The quality of a clustering solution can directly impact trading performance, thus necessitating the use of robust evaluation metrics. Common metrics include silhouette scores, Davies-Bouldin index, and Dunn index.
 
 The silhouette score measures how similar an object is to its own cluster compared to other clusters. A silhouette value near +1 suggests that the data point is well matched to its own cluster and poorly matched to neighboring clusters, while values near 0 indicate overlapping clusters. The silhouette score $s(i)$ for a sample $i$ is defined as:
 

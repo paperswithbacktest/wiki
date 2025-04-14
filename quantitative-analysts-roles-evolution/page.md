@@ -22,7 +22,7 @@ Another important part of a quant's job is to keep their models up to date. Mark
 
 ## What educational background is required to become a quantitative analyst?
 
-To become a quantitative analyst, you usually need a strong background in math and computer science. Most quants have at least a bachelor's degree in fields like mathematics, statistics, physics, engineering, or computer science. These subjects help you learn how to solve complex problems and work with numbers, which is very important for a quant's job. Some quants also have master's degrees or PhDs, especially if they want to work on more advanced models or in research roles.
+To become a quantitative analyst, you usually need a strong background in math and computer science. Most quants have at least a bachelor's degree in fields like mathematics, [statistics](/wiki/bayesian-statistics), physics, engineering, or computer science. These subjects help you learn how to solve complex problems and work with numbers, which is very important for a quant's job. Some quants also have master's degrees or PhDs, especially if they want to work on more advanced models or in research roles.
 
 In addition to the right degree, you need to learn specific skills to be a good quant. This includes knowing how to use programming languages like Python, R, or C++ to handle large amounts of data. You also need to understand financial markets and how they work. Many quants start by learning on the job or through internships, where they can apply their math and computer skills to real-world financial problems. Over time, they gain more experience and can take on more complex tasks in their roles.
 
@@ -52,7 +52,7 @@ Quants also use these models to manage risk. They can figure out how likely it i
 
 ## What is the impact of technology on the work of quantitative analysts?
 
-Technology has made a big difference in the work of quantitative analysts. Computers are much faster now, so quants can handle a lot more data than before. They use programs to look at huge amounts of information quickly. This helps them find patterns and make better predictions about how markets will move. Quants also use new tools like machine learning, which lets computers learn from data and make even smarter models. This means they can come up with new ways to make money and manage risk.
+Technology has made a big difference in the work of quantitative analysts. Computers are much faster now, so quants can handle a lot more data than before. They use programs to look at huge amounts of information quickly. This helps them find patterns and make better predictions about how markets will move. Quants also use new tools like [machine learning](/wiki/machine-learning), which lets computers learn from data and make even smarter models. This means they can come up with new ways to make money and manage risk.
 
 Because of technology, the job of a quant has changed a lot. They can now do things like high-frequency trading, where computers make thousands of trades in a second. This was not possible before. Quants also need to keep learning about new technology to stay good at their jobs. The tools they use keep getting better, so they have to keep up. This makes their work more complex, but it also means they can help companies make better decisions in the fast-changing world of finance.
 
@@ -76,7 +76,7 @@ These changes can also create new opportunities for quants. Sometimes, new rules
 
 ## What future trends are expected to influence the role of quantitative analysts?
 
-In the future, technology will keep changing the work of quantitative analysts. Computers will get even faster, and new tools like artificial intelligence and machine learning will become more important. Quants will use these tools to make even better models that can predict how markets will move. They will be able to handle more data and find patterns that are too hard for humans to see. This means they can help companies make smarter decisions about buying and selling stocks, bonds, and other financial products.
+In the future, technology will keep changing the work of quantitative analysts. Computers will get even faster, and new tools like [artificial intelligence](/wiki/ai-artificial-intelligence) and machine learning will become more important. Quants will use these tools to make even better models that can predict how markets will move. They will be able to handle more data and find patterns that are too hard for humans to see. This means they can help companies make smarter decisions about buying and selling stocks, bonds, and other financial products.
 
 Another trend is that more industries will start using quants. Right now, they mostly work in finance, but in the future, they might work in places like healthcare, energy, and even sports. Companies in these industries will use quants to help them make decisions based on data. For example, a hospital might use a quant to figure out the best way to manage its resources. As more industries see the value of using data to make decisions, the skills of quants will be in demand in many different places.
 

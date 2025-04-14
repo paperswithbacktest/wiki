@@ -96,7 +96,7 @@ If the opportunity cost is high, sticking to sunk investments can be a substanti
 
 To combat this, traders should integrate decision-making processes that focus exclusively on possible future gains rather than sunk costs. Modern trading algorithms can be programmed to evaluate positions based on potential future profitability. This can involve creating criteria that automatically assess the remaining potential of a trade position and trigger sell orders when predefined thresholds are met.
 
-Python programming, a common tool in algorithmic trading, allows for the incorporation of such logic. An example snippet that outlines a basic conditional sell strategy might include:
+Python programming, a common tool in [algorithmic trading](/wiki/algorithmic-trading), allows for the incorporation of such logic. An example snippet that outlines a basic conditional sell strategy might include:
 
 ```python
 def evaluate_position(current_value, future_potential):

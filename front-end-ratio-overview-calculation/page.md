@@ -52,7 +52,7 @@ If your front end ratio is higher than 28%, it might be harder to get a loan. Le
 
 ## How can someone improve their front end ratio?
 
-To improve your front end ratio, you need to either lower your monthly housing costs or increase your income. One way to lower your housing costs is to look for a cheaper home or refinance your mortgage to get a lower interest rate. You could also try to negotiate lower property taxes or find cheaper home insurance. Every little bit you save on your housing costs will help lower your front end ratio.
+To improve your front end ratio, you need to either lower your monthly housing costs or increase your income. One way to lower your housing costs is to look for a cheaper home or refinance your mortgage to get a lower [interest rate](/wiki/interest-rate-trading-strategies). You could also try to negotiate lower property taxes or find cheaper home insurance. Every little bit you save on your housing costs will help lower your front end ratio.
 
 Another way to improve your front end ratio is to increase your income. You could ask for a raise at work, get a second job, or start a side business. The more money you make, the smaller the percentage of your income that goes to housing costs, which means a better front end ratio. By working on these two things, you can make your front end ratio lower and improve your chances of getting a loan.
 

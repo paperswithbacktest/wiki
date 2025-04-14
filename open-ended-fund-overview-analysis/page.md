@@ -24,7 +24,7 @@ Because of these differences, open-ended funds are usually more flexible for inv
 
 ## What are the main types of open-ended funds?
 
-Open-ended funds come in different types, each with its own way of investing. One common type is the mutual fund. Mutual funds pool money from many investors to buy a mix of stocks, bonds, or other assets. They are managed by professionals who make decisions on what to buy and sell. Another type is the exchange-traded fund (ETF). ETFs are similar to mutual funds but they trade on stock exchanges like individual stocks. This means you can buy and sell them during the trading day at market prices.
+Open-ended funds come in different types, each with its own way of investing. One common type is the mutual fund. Mutual funds pool money from many investors to buy a mix of stocks, bonds, or other assets. They are managed by professionals who make decisions on what to buy and sell. Another type is the exchange-traded fund ([ETF](/wiki/etf-trading-strategies)). ETFs are similar to mutual funds but they trade on stock exchanges like individual stocks. This means you can buy and sell them during the trading day at market prices.
 
 Another type of open-ended fund is the unit investment trust (UIT). UITs are like mutual funds but they have a fixed portfolio that doesn't change over time. Once the UIT is set up, it holds the same investments until it ends. This can make UITs simpler and more predictable for some investors. Lastly, there are open-ended investment companies (OEICs), which are common in Europe. OEICs work a lot like mutual funds, but they have a single price for buying and selling shares, making them easier to understand and trade.
 
@@ -78,7 +78,7 @@ These rules can also affect how funds make money. For instance, there might be l
 
 ## What are the latest trends and innovations in the open-ended fund market?
 
-One of the latest trends in the open-ended fund market is the rise of ESG funds. ESG stands for Environmental, Social, and Governance. These funds focus on investing in companies that are good for the planet, treat their workers well, and are run in a fair way. More and more people want to invest their money in ways that match their values, so ESG funds are getting popular. They help investors feel good about where their money is going while still trying to make money.
+One of the latest trends in the open-ended fund market is the rise of [ESG](/wiki/esg-investing) funds. ESG stands for Environmental, Social, and Governance. These funds focus on investing in companies that are good for the planet, treat their workers well, and are run in a fair way. More and more people want to invest their money in ways that match their values, so ESG funds are getting popular. They help investors feel good about where their money is going while still trying to make money.
 
 Another trend is the growth of robo-advisors. These are computer programs that help people pick and manage their investments. Robo-advisors use fancy math to figure out the best mix of funds for each person based on their goals and how much risk they're okay with. They make investing easier and cheaper, especially for people who are just starting out. This has made open-ended funds more accessible to a lot more people.
 
@@ -94,7 +94,7 @@ $$
 \text{NAV per share} = \frac{\text{Total Assets} - \text{Total Liabilities}}{\text{Number of Outstanding Shares}}
 $$
 
-This structure facilitates a fluid investment environment, as investors can seamlessly enter or exit the fund at the NAV determined at the close of each business day. As a result, open-ended funds provide broad market access and are popular for their adaptability and liquidity.
+This structure facilitates a fluid investment environment, as investors can seamlessly enter or [exit](/wiki/exit-strategy) the fund at the NAV determined at the close of each business day. As a result, open-ended funds provide broad market access and are popular for their adaptability and [liquidity](/wiki/liquidity-risk-premium).
 
 ## References & Further Reading
 

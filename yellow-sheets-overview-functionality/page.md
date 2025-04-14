@@ -62,7 +62,7 @@ Another advantage is that Yellow Sheets are updated every day. This means the in
 
 Trading securities listed on Yellow Sheets can be risky because these securities are not on big stock exchanges. This means they are not watched as closely by regulators. Without strict rules, there can be more chance for fraud or mistakes. Also, the companies that issue these securities might not have to share as much information about their business. This makes it harder for investors to know if the company is doing well or not.
 
-Another risk is that securities on Yellow Sheets might not be easy to sell. They can be less popular, so finding someone to buy them can take a long time. This is called low liquidity. If an investor needs to sell quickly, they might have to accept a lower price. Plus, the prices of these securities can change a lot because they are not traded as often. This can make it hard to predict how much money an investor might make or lose.
+Another risk is that securities on Yellow Sheets might not be easy to sell. They can be less popular, so finding someone to buy them can take a long time. This is called low [liquidity](/wiki/liquidity-risk-premium). If an investor needs to sell quickly, they might have to accept a lower price. Plus, the prices of these securities can change a lot because they are not traded as often. This can make it hard to predict how much money an investor might make or lose.
 
 ## How do regulatory bodies oversee the transactions on Yellow Sheets?
 
@@ -100,7 +100,7 @@ Automated trade execution occurs when the algorithm determines a trigger conditi
 
 The impact of algorithmic trading is most visible in high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)). In HFT, algorithms execute a large [volume](/wiki/volume-trading-strategy) of orders at extremely fast speeds, often completing trades within microseconds. This speed and volume of trading significantly amplify liquidity and efficiency in markets, notably in stocks, foreign exchange ([forex](/wiki/forex-system)), and cryptocurrencies.
 
-Moreover, algorithmic trading enhances market stability by smoothing out price discrepancies through [arbitrage](/wiki/arbitrage) and improving pricing accuracy. However, this technological advancement also introduces new risks, such as potential for market manipulation and increased volatility during unforeseen market events. Despite these risks, the adoption of algorithmic trading continues to grow, revolutionizing trading strategies and market dynamics.
+Moreover, algorithmic trading enhances market stability by smoothing out price discrepancies through [arbitrage](/wiki/arbitrage) and improving pricing accuracy. However, this technological advancement also introduces new risks, such as potential for market manipulation and increased [volatility](/wiki/volatility-trading-strategies) during unforeseen market events. Despite these risks, the adoption of algorithmic trading continues to grow, revolutionizing trading strategies and market dynamics.
 
 ## References & Further Reading
 

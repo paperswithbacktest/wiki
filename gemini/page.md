@@ -45,7 +45,7 @@ One cool thing about Gemini's architecture is that it can work with different ty
 
 ## What kind of data does Gemini use for training?
 
-Gemini, made by Google, uses a lot of different kinds of information to learn and get better at its job. This includes text from books, websites, and other places where people write things. It also looks at pictures and videos to understand what they show. By looking at all this stuff, Gemini learns how to understand and make sense of the world around us. It's like a student studying a big library of information to become really smart.
+Gemini, made by Google, uses a lot of different kinds of information to learn and get better at its job. This includes text from [books](/wiki/algo-trading-books), websites, and other places where people write things. It also looks at pictures and videos to understand what they show. By looking at all this stuff, Gemini learns how to understand and make sense of the world around us. It's like a student studying a big library of information to become really smart.
 
 The data Gemini uses is very big and comes from many places. This helps Gemini know about a lot of different things, from history to science to everyday life. When Gemini sees a picture, it can learn what's in it, like a dog or a tree. When it reads text, it learns how people use words and what they mean. All this information helps Gemini answer questions, describe pictures, and even help with tasks like writing stories or helping people who can't see.
 
@@ -63,7 +63,7 @@ Another thing they look at is how well Gemini works with pictures and videos. Th
 
 ## How can developers integrate Gemini into their existing machine learning pipelines?
 
-Developers can integrate Gemini into their existing machine learning pipelines by using Google's provided APIs and SDKs. These tools make it easy to connect Gemini to other parts of a project. For example, if a developer has a system that already uses other machine learning models, they can add Gemini to help with tasks like understanding text, describing pictures, or answering questions about videos. They just need to follow the instructions in Google's documentation to set up the API keys and start sending data to Gemini.
+Developers can integrate Gemini into their existing [machine learning](/wiki/machine-learning) pipelines by using Google's provided APIs and SDKs. These tools make it easy to connect Gemini to other parts of a project. For example, if a developer has a system that already uses other machine learning models, they can add Gemini to help with tasks like understanding text, describing pictures, or answering questions about videos. They just need to follow the instructions in Google's documentation to set up the API keys and start sending data to Gemini.
 
 Once Gemini is integrated, developers can use it to improve their applications. For instance, if they have an app that helps people find information, they can use Gemini to understand user questions better and provide more accurate answers. They can also use Gemini to add features like image recognition or video analysis, making their app more useful. By keeping an eye on how Gemini performs and using the performance metrics like perplexity, accuracy, and mean average precision (mAP), developers can make sure Gemini is working well and helping their project succeed.
 

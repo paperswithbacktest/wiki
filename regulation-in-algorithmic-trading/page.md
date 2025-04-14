@@ -22,7 +22,7 @@ Also, regulation helps to stop big problems from happening. Sometimes, if lots o
 
 ## What are the main regulatory bodies overseeing algorithmic trading?
 
-In the United States, the main regulatory body for algorithmic trading is the Securities and Exchange Commission (SEC). The SEC makes rules to make sure that trading is fair and that no one is cheating. They watch over the stock market to stop bad things from happening, like people using their computer programs to trick others. The SEC also works to keep the market stable and protect people's investments.
+In the United States, the main regulatory body for [algorithmic trading](/wiki/algorithmic-trading) is the Securities and Exchange Commission (SEC). The SEC makes rules to make sure that trading is fair and that no one is cheating. They watch over the stock market to stop bad things from happening, like people using their computer programs to trick others. The SEC also works to keep the market stable and protect people's investments.
 
 Another important group is the Commodity Futures Trading Commission (CFTC). The CFTC looks after trading in things like oil, gold, and other commodities. They make sure that the rules are followed in these markets too. Just like the SEC, the CFTC wants to stop fraud and make sure that trading is done in a way that is fair for everyone.
 
@@ -38,7 +38,7 @@ Another way regulations help is by making sure that all trades are done openly. 
 
 Firms that engage in algorithmic trading have to follow certain rules to make sure they are doing things the right way. They need to have strong systems to watch their trading programs and make sure they are working correctly. This means having good checks in place to stop their programs from causing big problems in the market. They also need to keep good records of all their trades, so regulators can check them if needed. This helps to make sure that everything is done fairly and openly.
 
-Another important rule is that firms need to test their trading programs before they use them in the real market. This testing, called "backtesting," helps them see how their programs would have worked in the past. It's a way to make sure the programs are safe and won't cause trouble. Firms also have to report any big problems or mistakes to the regulators quickly. This helps to stop small issues from turning into big ones. By following these rules, firms can help keep the market fair and safe for everyone.
+Another important rule is that firms need to test their trading programs before they use them in the real market. This testing, called "[backtesting](/wiki/backtesting)," helps them see how their programs would have worked in the past. It's a way to make sure the programs are safe and won't cause trouble. Firms also have to report any big problems or mistakes to the regulators quickly. This helps to stop small issues from turning into big ones. By following these rules, firms can help keep the market fair and safe for everyone.
 
 ## How do regulations differ across major financial markets like the US, EU, and Asia?
 
@@ -58,7 +58,7 @@ Another challenge is testing their trading programs. Before using a program in t
 
 As trading technology has gotten better, the rules for trading have had to change too. At first, trading was done by people, and the rules were made for that. But when computers started doing the trading, new problems came up. For example, computers can trade much faster than people, which can cause the market to go crazy quickly. So, regulators made new rules to slow things down if needed and to make sure trading programs are tested well before they are used. These new rules help to keep the market fair and safe even as technology changes.
 
-Now, regulators keep a close eye on new tech like artificial intelligence and machine learning. These technologies can make trading even faster and smarter, but they also bring new risks. Regulators are making rules to make sure these new tools are used the right way. They want to stop people from using them to trick the market or do unfair things. By keeping up with tech changes, regulators help to make sure that everyone can trust the market and that it stays stable no matter how fast trading gets.
+Now, regulators keep a close eye on new tech like [artificial intelligence](/wiki/ai-artificial-intelligence) and [machine learning](/wiki/machine-learning). These technologies can make trading even faster and smarter, but they also bring new risks. Regulators are making rules to make sure these new tools are used the right way. They want to stop people from using them to trick the market or do unfair things. By keeping up with tech changes, regulators help to make sure that everyone can trust the market and that it stays stable no matter how fast trading gets.
 
 ## What role does the Financial Stability Oversight Council (FSOC) play in regulating algorithmic trading?
 

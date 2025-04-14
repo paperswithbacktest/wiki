@@ -34,7 +34,7 @@ Once the system gets this signal, it decides to turn on the sprinklers. The deci
 
 ## What are the common types of signals used in trading?
 
-In trading, signals are used to tell traders when to buy or sell stocks or other investments. Common signals include price signals, which happen when the price of a stock reaches a certain level. For example, if a stock's price goes above a set point, it might be a signal to buy. Another type is volume signals, which look at how many stocks are being traded. If the trading volume suddenly increases, it might be a signal that something important is happening with the stock.
+In trading, signals are used to tell traders when to buy or sell stocks or other investments. Common signals include price signals, which happen when the price of a stock reaches a certain level. For example, if a stock's price goes above a set point, it might be a signal to buy. Another type is [volume](/wiki/volume-trading-strategy) signals, which look at how many stocks are being traded. If the trading volume suddenly increases, it might be a signal that something important is happening with the stock.
 
 There are also technical indicator signals, which use math to look at past price and volume data to predict future moves. Moving averages are one type of technical indicator; they show the average price over time, and when the current price crosses this average, it can be a signal to act. Finally, there are fundamental signals, which come from news or reports about a company. If a company reports better-than-expected earnings, that could be a signal to buy its stock.
 
@@ -56,7 +56,7 @@ Another key consideration is how the system will react to these signals. You nee
 
 To make a signal-based execution strategy work better, you need to fine-tune how you detect and use signals. Start by checking if your signals are still the best ones to use. Sometimes, what worked before might not work as well now. Look at past data to see if your signals are giving you good information. If not, try different signals or change how you use them. Also, think about how often you get signals. If you're getting too many, you might be acting too much and wasting resources. If you're not getting enough, you might miss important chances to act. Finding the right balance can make your strategy more efficient.
 
-Another way to improve your strategy is by making your decision-making process faster and smarter. Use technology to help you analyze signals quickly and accurately. This can mean using better software or even artificial intelligence to look at data and make choices. Also, make sure your system can handle more than one signal at a time. Sometimes, multiple signals together can tell you more than just one signal alone. By tweaking your strategy in these ways, you can make it more responsive and effective, helping you achieve your goals better.
+Another way to improve your strategy is by making your decision-making process faster and smarter. Use technology to help you analyze signals quickly and accurately. This can mean using better software or even [artificial intelligence](/wiki/ai-artificial-intelligence) to look at data and make choices. Also, make sure your system can handle more than one signal at a time. Sometimes, multiple signals together can tell you more than just one signal alone. By tweaking your strategy in these ways, you can make it more responsive and effective, helping you achieve your goals better.
 
 ## What are the potential risks and challenges associated with signal-based execution strategies?
 

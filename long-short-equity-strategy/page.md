@@ -80,7 +80,7 @@ Another way regulations can affect long-short equity strategies is through repor
 
 One advanced technique to optimize a long-short equity strategy is using quantitative models. These models use math and data to help you pick which stocks to buy and which to sell short. They can look at a lot of information at once, like how a company is doing financially, what's happening in the market, and even things like the weather or political news. By using these models, you can make better guesses about which stocks will go up or down, which can help you make more money. But remember, even the best models can be wrong sometimes, so it's important to keep checking and updating them.
 
-Another technique is called "factor investing." This means you look at certain things, or "factors," that can affect how a stock does. For example, you might look at a company's size, how much it's growing, or how much it pays in dividends. By focusing on these factors, you can build a long-short strategy that takes advantage of them. For instance, you might go long on stocks that are small but growing fast, and short on stocks that are big but not growing much. This can help you find patterns in the market that you can use to make better investment choices.
+Another technique is called "[factor](/wiki/factor-investing) investing." This means you look at certain things, or "factors," that can affect how a stock does. For example, you might look at a company's size, how much it's growing, or how much it pays in dividends. By focusing on these factors, you can build a long-short strategy that takes advantage of them. For instance, you might go long on stocks that are small but growing fast, and short on stocks that are big but not growing much. This can help you find patterns in the market that you can use to make better investment choices.
 
 A third technique is using options and other derivatives. Options let you bet on whether a stock will go up or down without actually buying or selling the stock itself. This can be a good way to add more flexibility to your long-short strategy. For example, you might use options to protect yourself from big losses if the market goes against you. Or you could use them to make more money if you're right about which way a stock is going to move. But options can be tricky and risky, so it's important to understand them well before you start using them in your strategy.
 
@@ -101,7 +101,7 @@ $$
 \text{Net Market Exposure} = \sum (\text{Long Position Values}) - \sum (\text{Short Position Values}) \approx 0
 $$
 
-By design, these funds reduce market risk, allowing them to potentially perform well regardless of whether the broader market is trending upward or downward. This approach can be particularly attractive during periods of market volatility.
+By design, these funds reduce market risk, allowing them to potentially perform well regardless of whether the broader market is trending upward or downward. This approach can be particularly attractive during periods of market [volatility](/wiki/volatility-trading-strategies).
 
 **Geographic Funds**
 
@@ -129,7 +129,7 @@ Market-neutral strategies aim to minimize market exposure, focusing on generatin
 
 ### Value Investing vs. Long-Short
 
-Value investing is rooted in identifying and investing in undervalued securities based on fundamental analysis, a practice popularized by Benjamin Graham. This strategy is inherently long-biased, often requiring patience to realize returns as markets correct inefficiencies. In contrast, long-short strategies leverage both undervalued and overvalued stocks, potentially speeding up profit realization and offering protection through diversified positions. The P/E ratios, for instance, could be pivotal in both strategies' analyses:
+Value investing is rooted in identifying and investing in undervalued securities based on [fundamental analysis](/wiki/fundamental-analysis), a practice popularized by Benjamin Graham. This strategy is inherently long-biased, often requiring patience to realize returns as markets correct inefficiencies. In contrast, long-short strategies leverage both undervalued and overvalued stocks, potentially speeding up profit realization and offering protection through diversified positions. The P/E ratios, for instance, could be pivotal in both strategies' analyses:
 
 $$
 \text{P/E Ratio} = \frac{\text{Market Value per Share}}{\text{Earnings per Share (EPS)}}

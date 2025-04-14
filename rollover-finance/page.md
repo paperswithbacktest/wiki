@@ -18,7 +18,7 @@ Rollovers can happen with different types of accounts, like 401(k)s or IRAs. It'
 
 In a savings account, a rollover usually means moving money from one savings account to another. This can happen when you want to switch banks or move your money into a different type of savings account that might offer better interest rates or other benefits. When you do a rollover, you take the money out of your old savings account and put it into a new one. It's important to make sure the transfer is done correctly so you don't lose any money or face any fees.
 
-For example, if you have a savings account at Bank A and you find that Bank B offers a higher interest rate, you might decide to do a rollover. You would withdraw the money from your account at Bank A and deposit it into a new savings account at Bank B. It's a good idea to check with both banks about any fees or rules for transferring money, and to make sure the transfer happens quickly so your money doesn't sit idle.
+For example, if you have a savings account at Bank A and you find that Bank B offers a higher [interest rate](/wiki/interest-rate-trading-strategies), you might decide to do a rollover. You would withdraw the money from your account at Bank A and deposit it into a new savings account at Bank B. It's a good idea to check with both banks about any fees or rules for transferring money, and to make sure the transfer happens quickly so your money doesn't sit idle.
 
 ## What are the benefits of rolling over a 401(k) to an IRA?
 
@@ -66,7 +66,7 @@ Another thing to consider is how the rollover might affect your taxes. If you do
 
 When you roll over your retirement funds, like from a 401(k) to an IRA, you might get more choices for where to put your money. A 401(k) usually has a list of investments picked by your employer, and you can only choose from those. But with an IRA, you can pick from a lot more options, like different stocks, bonds, and mutual funds. This can be good if you want to build a plan that fits your goals and how much risk you're okay with.
 
-On the other hand, if you like the investments in your 401(k) and they're doing well, you might not want to roll over your money. Some 401(k) plans have low fees and good investment choices. If you move your money to an IRA, you might end up paying more in fees or picking investments that don't do as well. So, think about what you have now and what you might get with a rollover before you decide.
+On the other hand, if you like the investments in your 401(k) and they're doing well, you might not want to roll over your money. Some 401(k) plans have low fees and good investment choices. If you move your money to an IRA, you might end up paying more in fees or [picking](/wiki/asset-class-picking) investments that don't do as well. So, think about what you have now and what you might get with a rollover before you decide.
 
 ## What are the risks of not completing a rollover within the required timeframe?
 

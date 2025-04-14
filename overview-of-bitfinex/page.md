@@ -30,13 +30,13 @@ But Bitfinex doesn't stop there. They also have other cryptocurrencies like Teth
 
 Bitfinex takes the security of user funds very seriously. They use something called cold storage to keep most of the cryptocurrencies safe. Cold storage means the digital money is kept offline, so it's harder for hackers to steal it. Bitfinex also uses strong encryption to protect the information that moves around on their website. This makes it tough for anyone to break in and take your money.
 
-They also have something called two-factor authentication, or 2FA. This means you need two ways to prove it's really you before you can log in or move your money. It's like having a key and a secret code. Plus, Bitfinex keeps an eye on everything that happens on their platform. If they see anything strange, they can stop it before it becomes a big problem. This way, they try to make sure your funds stay safe.
+They also have something called two-[factor](/wiki/factor-investing) authentication, or 2FA. This means you need two ways to prove it's really you before you can log in or move your money. It's like having a key and a secret code. Plus, Bitfinex keeps an eye on everything that happens on their platform. If they see anything strange, they can stop it before it becomes a big problem. This way, they try to make sure your funds stay safe.
 
 ## What are the fees associated with trading on Bitfinex?
 
 When you trade on Bitfinex, you need to know about the fees. There are two main types of fees: maker fees and taker fees. Maker fees are what you pay when you add a new order to the exchange that doesn't get filled right away. These are usually lower than taker fees, which you pay when you take an order that's already on the exchange. For most trades, maker fees are 0.1% and taker fees are 0.2%. But if you trade a lot, you can get discounts on these fees.
 
-Besides trading fees, there are also fees for moving your money in and out of Bitfinex. If you want to put money into Bitfinex or take it out, you'll have to pay a fee. These fees can change depending on what kind of money you're using, like Bitcoin or Ethereum. It's a good idea to check the fees before you move your money because they can be different for each type of cryptocurrency.
+Besides trading fees, there are also fees for moving your money in and out of Bitfinex. If you want to put money into Bitfinex or take it out, you'll have to pay a fee. These fees can change depending on what kind of money you're using, like Bitcoin or Ethereum. It's a good idea to check the fees before you move your money because they can be different for each type of [cryptocurrency](/wiki/cryptocurrency).
 
 ## How can someone start trading on Bitfinex?
 
@@ -60,7 +60,7 @@ They also work with different groups and follow the rules in the places where th
 
 ## What is the liquidity like on Bitfinex compared to other exchanges?
 
-Bitfinex has pretty good liquidity, which means it's easy to buy and sell cryptocurrencies there without the price changing a lot. When you want to trade, you need other people who want to trade the opposite way. Bitfinex has a lot of users, so there are usually enough people to trade with. This makes it easier for you to get the price you want when you buy or sell. Compared to some other exchanges, Bitfinex's liquidity is often better, especially for big trades.
+Bitfinex has pretty good [liquidity](/wiki/liquidity-risk-premium), which means it's easy to buy and sell cryptocurrencies there without the price changing a lot. When you want to trade, you need other people who want to trade the opposite way. Bitfinex has a lot of users, so there are usually enough people to trade with. This makes it easier for you to get the price you want when you buy or sell. Compared to some other exchanges, Bitfinex's liquidity is often better, especially for big trades.
 
 However, liquidity can change depending on which cryptocurrency you're trading. For popular ones like Bitcoin and Ethereum, Bitfinex usually has high liquidity. But for less common cryptocurrencies, it might not be as good as on some other exchanges. So, if you're trading something that's not as popular, you might want to check other exchanges too. Overall, Bitfinex is known for its strong liquidity, but it's always a good idea to look at different exchanges to see which one works best for what you want to trade.
 

@@ -22,7 +22,7 @@ Once the investments are entered, beginners can use Portfolio Visualizer to see 
 
 ## What are the key features of Portfolio Visualizer that can help in portfolio management?
 
-Portfolio Visualizer has many useful features that can help people manage their investments. One important feature is the ability to see how your investments are spread out. This means you can check if you have too much money in one type of investment or if you need to balance things out more. Another key feature is the backtesting tool, which lets you see how your investments would have done in the past. This can help you understand if your investment strategy is good or if you need to make changes.
+Portfolio Visualizer has many useful features that can help people manage their investments. One important feature is the ability to see how your investments are spread out. This means you can check if you have too much money in one type of investment or if you need to balance things out more. Another key feature is the [backtesting](/wiki/backtesting) tool, which lets you see how your investments would have done in the past. This can help you understand if your investment strategy is good or if you need to make changes.
 
 Another helpful feature is the ability to compare different investment strategies. You can set up different portfolios and see which one might work best for you. This can be really useful if you're trying to decide between different ways to invest your money. Portfolio Visualizer also has tools that show you how much risk you're taking with your investments. This can help you decide if you're comfortable with the level of risk or if you need to adjust your investments to feel safer.
 
@@ -50,7 +50,7 @@ Another way to customize is by using different tools and options within Portfoli
 
 ## What advanced tools does Portfolio Visualizer offer for experienced investors?
 
-Portfolio Visualizer has some advanced tools that can help experienced investors make better decisions about their money. One of these tools is the Monte Carlo simulation, which lets you see many different ways your investments might do in the future. This can help you understand the risks and rewards better. Another tool is the factor-based analysis, which looks at what makes your investments go up or down. This can help you see why your portfolio is doing well or not so well and make changes based on that information.
+Portfolio Visualizer has some advanced tools that can help experienced investors make better decisions about their money. One of these tools is the Monte Carlo simulation, which lets you see many different ways your investments might do in the future. This can help you understand the risks and rewards better. Another tool is the [factor](/wiki/factor-investing)-based analysis, which looks at what makes your investments go up or down. This can help you see why your portfolio is doing well or not so well and make changes based on that information.
 
 Another advanced feature is the ability to do a detailed backtest of your investment strategies. You can set up different portfolios and see how they would have done in the past with different market conditions. This can help you test out new ideas without risking real money. Portfolio Visualizer also offers tools for optimizing your portfolio, which means it can help you find the best way to balance your investments to get the most growth with the least risk. These tools are great for experienced investors who want to dive deep into their investments and make smart choices.
 

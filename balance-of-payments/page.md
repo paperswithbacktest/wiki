@@ -22,7 +22,7 @@ Also, the Balance of Payments can show if a country's economy is strong or weak.
 
 ## What are the main components of the Balance of Payments?
 
-The Balance of Payments has three main parts: the current account, the capital account, and the financial account. The current account keeps track of everyday transactions like buying and selling goods and services between countries. It also includes money from things like foreign aid and income from investments in other countries. If a country exports more than it imports, it has a current account surplus, which means it's earning more money from other countries than it's spending.
+The Balance of Payments has three main parts: the current account, the capital account, and the financial account. The current account keeps track of everyday transactions like buying and selling goods and services between countries. It also includes money from things like foreign aid and income from investments in other countries. If a country exports more than it imports, it has a current account surplus, which means it's [earning](/wiki/earning-announcement) more money from other countries than it's spending.
 
 The capital account is a bit different. It records transactions that involve moving capital, like when a country buys or sells land or other non-financial assets to or from another country. This part of the Balance of Payments is usually smaller than the current account but still important because it shows how a country is using its resources.
 

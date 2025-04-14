@@ -82,7 +82,7 @@ Another trend could be changes in how quotas are used to help different groups o
 
 ## What is Allocation Quota?
 
-Allocation quota refers to the predetermined amount of capital assigned to various financial instruments or trades, based on a trader's strategy and risk tolerance. It serves as an essential guideline in algorithmic trading to ensure that capital distribution aligns with a trader’s objectives. By setting an allocation quota, traders can systematically decide how much capital should be allocated to each potential trade when certain signals or criteria are triggered. 
+Allocation quota refers to the predetermined amount of capital assigned to various financial instruments or trades, based on a trader's strategy and risk tolerance. It serves as an essential guideline in [algorithmic trading](/wiki/algorithmic-trading) to ensure that capital distribution aligns with a trader’s objectives. By setting an allocation quota, traders can systematically decide how much capital should be allocated to each potential trade when certain signals or criteria are triggered. 
 
 More specifically, this concept operates as a management tool that assists traders in maintaining a structured approach to trading. Allocation quotas are often derived from quantitative models, which utilize historical data and statistical methods to predict viable trading opportunities. These models help in calculating the expected return and associated risk, thereby influencing how allocation quotas are determined.
 

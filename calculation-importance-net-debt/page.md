@@ -82,7 +82,7 @@ Another thing to think about is how much money companies in different industries
 
 ## What is Net Debt?
 
-Net debt is a key financial metric that represents the difference between a company's total debt and its cash and cash equivalents. This measure is essential in evaluating a company's leverage and financial health, as it reveals the extent to which a company can cover its debt obligations with readily available liquidity.
+Net debt is a key financial metric that represents the difference between a company's total debt and its cash and cash equivalents. This measure is essential in evaluating a company's leverage and financial health, as it reveals the extent to which a company can cover its debt obligations with readily available [liquidity](/wiki/liquidity-risk-premium).
 
 ### Understanding Net Debt
 

@@ -30,7 +30,7 @@ The market for bullion is influenced by how much people want to buy and how much
 
 ## What factors influence bullion prices?
 
-Many things can change the price of bullion like gold, silver, platinum, and palladium. One big factor is how much people want to buy it. If more people want to buy gold than there is gold to sell, the price will go up. Another factor is how much it costs to mine the metals. If it costs more to get gold out of the ground, the price of gold might go up too. Interest rates also play a role. When interest rates are low, people might buy more bullion because they can't get good returns from other investments like savings accounts.
+Many things can change the price of bullion like gold, silver, platinum, and palladium. One big [factor](/wiki/factor-investing) is how much people want to buy it. If more people want to buy gold than there is gold to sell, the price will go up. Another factor is how much it costs to mine the metals. If it costs more to get gold out of the ground, the price of gold might go up too. Interest rates also play a role. When interest rates are low, people might buy more bullion because they can't get good returns from other investments like savings accounts.
 
 The strength of different countries' money can also affect bullion prices. If a country's money gets weaker, people might buy more bullion to protect their money's value. Big events like economic crises or changes in industry needs can make the price of bullion go up or down quickly. For example, if there is a big demand for platinum in car making, the price of platinum might go up. All these factors together make the price of bullion change every day.
 

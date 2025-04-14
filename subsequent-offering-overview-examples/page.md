@@ -30,7 +30,7 @@ A rights offering is different. In a rights offering, the company gives its curr
 
 A company might decide to conduct a subsequent offering because it needs more money. After a company goes public with an IPO, it might find new opportunities to grow or have debts that need to be paid off. By selling more shares to the public, the company can raise the funds it needs to take advantage of these opportunities or to improve its financial health. This extra money can be used for things like building new factories, expanding into new markets, or investing in research and development.
 
-Another reason a company might choose to do a subsequent offering is to increase its visibility and liquidity in the stock market. When more shares are available, it can make the stock easier to buy and sell, which can attract more investors. This can help the company's stock price stay stable and potentially grow over time. Additionally, if the company uses the money wisely, it can show investors that it is a good investment, which can boost confidence and the company's overall value.
+Another reason a company might choose to do a subsequent offering is to increase its visibility and [liquidity](/wiki/liquidity-risk-premium) in the stock market. When more shares are available, it can make the stock easier to buy and sell, which can attract more investors. This can help the company's stock price stay stable and potentially grow over time. Additionally, if the company uses the money wisely, it can show investors that it is a good investment, which can boost confidence and the company's overall value.
 
 ## What are the potential benefits of a subsequent offering for a company?
 

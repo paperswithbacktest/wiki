@@ -82,7 +82,7 @@ Another useful ratio to look at is the return on equity (ROE), which shows how w
 
 ## What is the importance of understanding financial metrics in investment?
 
-Financial metrics serve as critical indicators for investors seeking to evaluate the performance and potential of their investment opportunities. These metrics offer a quantitative basis for assessing various aspects of a company's financial health and competitive position. The primary categories of financial metrics include profitability, liquidity, solvency, and valuation ratios, each fulfilling distinct roles in investment analysis.
+Financial metrics serve as critical indicators for investors seeking to evaluate the performance and potential of their investment opportunities. These metrics offer a quantitative basis for assessing various aspects of a company's financial health and competitive position. The primary categories of financial metrics include profitability, [liquidity](/wiki/liquidity-risk-premium), solvency, and valuation ratios, each fulfilling distinct roles in investment analysis.
 
 Profitability metrics, such as the net profit margin, return on assets (ROA), and return on equity (ROE), measure a company's ability to generate income relative to its revenue, assets, or shareholders' equity. For instance, the net profit margin is calculated using the formula:
 

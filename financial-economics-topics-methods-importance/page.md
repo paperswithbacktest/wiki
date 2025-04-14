@@ -72,7 +72,7 @@ One big trend in financial economics right now is the rise of fintech, which is 
 
 Another emerging topic is sustainable finance, which focuses on how money and investing can help the environment and society. This includes things like green bonds, which are used to fund projects that are good for the planet, and socially responsible investing, where people choose investments based on their values. Financial economists are looking at how these practices can help fight problems like climate change and make the world a better place. They are also trying to figure out how to measure the success of these investments and how they affect the economy.
 
-A third trend is the use of big data and artificial intelligence (AI) in financial economics. With so much information available today, financial economists are using big data to make better predictions about things like stock prices and interest rates. AI is helping by finding patterns in this data that humans might miss. This can lead to smarter investment choices and better ways to manage risk. But it also raises questions about privacy and how to use this powerful technology responsibly.
+A third trend is the use of big data and [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) in financial economics. With so much information available today, financial economists are using big data to make better predictions about things like stock prices and interest rates. AI is helping by finding patterns in this data that humans might miss. This can lead to smarter investment choices and better ways to manage risk. But it also raises questions about privacy and how to use this powerful technology responsibly.
 
 ## How do financial economists use empirical data to test theories?
 

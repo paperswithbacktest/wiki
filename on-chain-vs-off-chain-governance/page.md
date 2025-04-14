@@ -18,7 +18,7 @@ In simpler terms, think of blockchain governance like the rules of a game that e
 
 On-chain governance is a way to make decisions about a blockchain where the voting and decision-making happen directly on the blockchain itself. This means that people who hold the blockchain's cryptocurrency can vote on changes or proposals using their digital wallets. It's like having a big online meeting where everyone can see the votes and results right away.
 
-This type of governance is seen as more open and fair because it's hard for a small group of people to control the decisions. It also makes the process faster and more transparent since everything is recorded on the blockchain. However, it can be tricky because not everyone might understand the proposals, and sometimes, big holders of the cryptocurrency can have more say in the decisions.
+This type of governance is seen as more open and fair because it's hard for a small group of people to control the decisions. It also makes the process faster and more transparent since everything is recorded on the blockchain. However, it can be tricky because not everyone might understand the proposals, and sometimes, big holders of the [cryptocurrency](/wiki/cryptocurrency) can have more say in the decisions.
 
 ## What is off-chain governance?
 

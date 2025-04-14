@@ -80,11 +80,11 @@ Another important thing to check is the cost of the overlay. You need to see if 
 
 Expert portfolio managers can use advanced techniques like dynamic hedging to optimize overlay strategies. Dynamic hedging means changing the overlay often to match what's happening in the market. For example, if the market is getting riskier, they might use more options to protect their investments. By keeping the overlay up to date, they can make sure it's always working well to manage risks and take advantage of opportunities.
 
-Another technique is using machine learning to predict market trends. This can help managers decide when to use different parts of the overlay. For instance, machine learning can look at lots of data to guess if the market will go up or down. If it thinks the market will drop, the manager can adjust the overlay to protect against losses. By using smart technology, they can make the overlay more effective and improve how their portfolio performs.
+Another technique is using [machine learning](/wiki/machine-learning) to predict market trends. This can help managers decide when to use different parts of the overlay. For instance, machine learning can look at lots of data to guess if the market will go up or down. If it thinks the market will drop, the manager can adjust the overlay to protect against losses. By using smart technology, they can make the overlay more effective and improve how their portfolio performs.
 
 ## What are the practical considerations and best practices?
 
-Implementing overlay strategies with algorithmic trading requires a strategic approach that encompasses various technical and organizational aspects. The combination of these two methodologies can significantly enhance portfolio management, but maximizing their potential hinges on several key practices.
+Implementing overlay strategies with [algorithmic trading](/wiki/algorithmic-trading) requires a strategic approach that encompasses various technical and organizational aspects. The combination of these two methodologies can significantly enhance portfolio management, but maximizing their potential hinges on several key practices.
 
 ### Effective Implementation Tips
 

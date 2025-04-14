@@ -18,7 +18,7 @@ There are different ways to do inventory accounting. Some businesses use a metho
 
 Inventory accounting is really important for businesses because it helps them know exactly what they have and where it is. This is key for making sure they can meet customer demands without running out of stock or having too much stuff sitting around. If a business knows what it has, it can plan better and make smarter decisions about buying more goods or selling what they have.
 
-Also, inventory accounting affects how much profit a business shows on its books. By keeping track of how much each item costs and how much it sells for, a business can figure out its profit margins. This is important for understanding if the business is doing well or if it needs to make changes. Good inventory accounting helps businesses stay on top of their finances and make sure they're not losing money because of mistakes in their records.
+Also, inventory accounting affects how much profit a business shows on its [books](/wiki/algo-trading-books). By keeping track of how much each item costs and how much it sells for, a business can figure out its profit margins. This is important for understanding if the business is doing well or if it needs to make changes. Good inventory accounting helps businesses stay on top of their finances and make sure they're not losing money because of mistakes in their records.
 
 ## What are the different methods of inventory accounting?
 

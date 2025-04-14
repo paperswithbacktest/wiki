@@ -36,7 +36,7 @@ Strip bonds and options are different kinds of investments that serve different 
 
 ## What are the risks associated with investing in strip bonds?
 
-Investing in strip bonds comes with some risks, even though they are seen as safe investments. One risk is interest rate risk. If interest rates go up after you buy a strip bond, the value of your bond might go down. This is because new bonds will be issued with higher interest rates, making your bond less attractive to other investors. If you need to sell your strip bond before it matures, you might get less money than you paid for it.
+Investing in strip bonds comes with some risks, even though they are seen as safe investments. One risk is [interest rate](/wiki/interest-rate-trading-strategies) risk. If interest rates go up after you buy a strip bond, the value of your bond might go down. This is because new bonds will be issued with higher interest rates, making your bond less attractive to other investors. If you need to sell your strip bond before it matures, you might get less money than you paid for it.
 
 Another risk is inflation risk. Strip bonds don't pay interest until they mature, so if inflation goes up a lot while you're waiting, the money you get at the end might not be worth as much as you expected. This can be a problem if you're saving for something in the future and prices go up a lot. So, even though strip bonds are safe, they can still lose value because of changes in interest rates or inflation.
 

@@ -106,7 +106,7 @@ Overall, the integration of probability theory into statistical methodology is i
 
 ## References & Further Reading
 
-Casella, G., & Berger, R. L. (2002). "Statistical Inference." This book provides a comprehensive understanding of statistical inference, essential for interpreting data and making decisions based on statistical models. It delves into estimation, hypothesis testing, and the foundational principles underlying statistical analysis, which are critical for both traditional and algorithmic trading models.
+Casella, G., & Berger, R. L. (2002). "Statistical Inference." This book provides a comprehensive understanding of statistical inference, essential for interpreting data and making decisions based on statistical models. It delves into estimation, hypothesis testing, and the foundational principles underlying statistical analysis, which are critical for both traditional and [algorithmic trading](/wiki/algorithmic-trading) models.
 
 Forbes, C., Evans, M., Hastings, N., & Peacock, B. (2010). "Statistical Distributions." This resource is an extensive guide on the various statistical distributions utilized in statistical analysis. Understanding these distributions is crucial for algorithmic traders, as they form the basis for modeling returns, assessing risk, and conducting predictive analyses.
 

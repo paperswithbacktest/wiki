@@ -18,7 +18,7 @@ SOFR is calculated by taking the cost of overnight loans backed by Treasury secu
 
 SOFR is calculated by looking at the cost of borrowing money overnight using U.S. Treasury securities as collateral. This happens in a market called the repurchase agreement (repo) market. Every day, banks and other financial institutions lend and borrow money from each other, using these securities as a guarantee. The New York Federal Reserve collects all this data and figures out the average interest rate that was paid for these overnight loans.
 
-To get the SOFR, the New York Fed takes the total interest paid on these loans and divides it by the total amount of money borrowed. This gives them the volume-weighted median rate, which is the SOFR. This method makes sure that SOFR reflects what's really happening in the market, based on actual transactions rather than just estimates or guesses.
+To get the SOFR, the New York Fed takes the total interest paid on these loans and divides it by the total amount of money borrowed. This gives them the [volume](/wiki/volume-trading-strategy)-weighted median rate, which is the SOFR. This method makes sure that SOFR reflects what's really happening in the market, based on actual transactions rather than just estimates or guesses.
 
 ## Why was SOFR developed?
 

@@ -82,7 +82,7 @@ When it comes to deciding how much money to put into different kinds of investme
 
 ## What is the role of Financial Analysis in Risk Management?
 
-Financial analysis is integral to managing unsystematic risk by employing quantitative metrics such as standard deviation, beta, and alpha. These metrics provide valuable insights into the volatility and performance of individual securities or portfolios, aiding investors in making informed decisions.
+Financial analysis is integral to managing unsystematic risk by employing quantitative metrics such as standard deviation, beta, and alpha. These metrics provide valuable insights into the [volatility](/wiki/volatility-trading-strategies) and performance of individual securities or portfolios, aiding investors in making informed decisions.
 
 Standard deviation is a statistical measure that indicates the extent of variation or [dispersion](/wiki/dispersion-trading) of a set of values. In finance, it is used to gauge the volatility of a security or portfolio, where a higher standard deviation signifies greater risk due to a larger variability in returns. For an asset with return $R_i$ over a period, and expected return $\mu$, the standard deviation $\sigma$ is calculated as:
 

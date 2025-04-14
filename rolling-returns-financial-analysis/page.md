@@ -130,7 +130,7 @@ This code block calculates the trailing 12-month return based on the available d
 ## References & Further Reading
 
 [1]: **"Advances in Financial Machine Learning" by Marcos Lopez de Prado**  
-This book is a significant resource for understanding the integration of [machine learning](/wiki/machine-learning) in financial markets. It covers advanced techniques in financial data analysis and provides insights into the tools used to develop robust algorithmic trading strategies. Lopez de Prado offers methodologies that improve the research and financial applications of machine learning models, which are crucial for analyzing rolling returns and adapting trading strategies.
+This book is a significant resource for understanding the integration of [machine learning](/wiki/machine-learning) in financial markets. It covers advanced techniques in financial data analysis and provides insights into the tools used to develop robust [algorithmic trading](/wiki/algorithmic-trading) strategies. Lopez de Prado offers methodologies that improve the research and financial applications of machine learning models, which are crucial for analyzing rolling returns and adapting trading strategies.
 
 [2]: **"Machine Learning for Algorithmic Trading" by Stefan Jansen**  
 Jansen's book provides a comprehensive guide to applying machine learning to develop predictive models for financial trading. Covering a wide range of algorithms and techniques, it emphasizes the use of rolling returns to better handle market volatility and enhance predictive analytics. This book supports readers in building algorithmic systems that can adapt to dynamic market conditions by implementing rolling returns analysis.

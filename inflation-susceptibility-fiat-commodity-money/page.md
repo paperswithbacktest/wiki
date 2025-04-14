@@ -18,7 +18,7 @@ The use of fiat money became widespread in the 20th century, as countries moved 
 
 Commodity money is money that has value because it is made from a valuable material. This material can be something like gold, silver, or even salt. People use commodity money because they know it is worth something on its own, not just because a government says it is. For example, if you have a gold coin, you can use it to buy things, but you can also melt it down and sell the gold if you need to.
 
-In the past, many societies used commodity money. It was easy to understand because the money had real value. If you had a silver coin, you knew it was worth something because silver is valuable. But commodity money can have problems too. It can be heavy to carry around, and if the value of the material changes, the value of the money changes too. Today, most countries use fiat money instead, but some people still like the idea of commodity money because it feels more secure.
+In the past, many societies used commodity money. It was easy to understand because the money had real value. If you had a silver coin, you knew it was worth something because silver is valuable. But commodity money can have problems too. It can be heavy to [carry](/wiki/carry-trading) around, and if the value of the material changes, the value of the money changes too. Today, most countries use fiat money instead, but some people still like the idea of commodity money because it feels more secure.
 
 ## How does inflation affect the value of money?
 

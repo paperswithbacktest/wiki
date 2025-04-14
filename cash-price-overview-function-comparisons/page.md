@@ -22,7 +22,7 @@ Other types of pricing can be more complicated. For example, credit pricing lets
 
 ## What are the key factors that influence cash prices?
 
-Cash prices are influenced by many things. One big factor is how much it costs to make or get the product. If it costs more to make something, the cash price will usually be higher. Another factor is how many people want to buy the product. If lots of people want it, the price can go up because the seller knows people are willing to pay more. Also, if there are not many of the product available, the price can go up because it's harder to get.
+Cash prices are influenced by many things. One big [factor](/wiki/factor-investing) is how much it costs to make or get the product. If it costs more to make something, the cash price will usually be higher. Another factor is how many people want to buy the product. If lots of people want it, the price can go up because the seller knows people are willing to pay more. Also, if there are not many of the product available, the price can go up because it's harder to get.
 
 Another thing that affects cash prices is what other sellers are charging for similar products. If one store has a lower price than another, people might go to the store with the lower price. This can make stores lower their prices to stay competitive. The economy can also play a role. If people have more money to spend, prices might go up because they can afford to pay more. But if people have less money, prices might go down to encourage buying.
 

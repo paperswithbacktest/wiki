@@ -82,7 +82,7 @@ For example, if you're looking at a stock fund, you might find that it has a hig
 
 ## What is the Sharpe Ratio and how do we understand it?
 
-The Sharpe Ratio is a widely recognized financial metric used to assess the risk-adjusted return of an investment portfolio. Named after its creator, Nobel laureate William F. Sharpe, this ratio serves as a foundational tool for investors, particularly in the area of algorithmic trading, where understanding the balance of risk and return is crucial.
+The Sharpe Ratio is a widely recognized financial metric used to assess the risk-adjusted return of an investment portfolio. Named after its creator, Nobel laureate William F. Sharpe, this ratio serves as a foundational tool for investors, particularly in the area of [algorithmic trading](/wiki/algorithmic-trading), where understanding the balance of risk and return is crucial.
 
 ### Calculation of the Sharpe Ratio
 

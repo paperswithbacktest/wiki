@@ -22,7 +22,7 @@ For example, if a toy company knows that the price of their popular toy will go 
 
 ## What are the basic factors that influence supply elasticity?
 
-Supply elasticity is affected by a few main things. One big factor is how easy it is for a business to change how much they produce. If a business can quickly make more of a product when the price goes up, the supply is elastic. For example, if a bakery can easily bake more bread when the price of bread increases, then the supply of bread is elastic. But if it takes a long time to make more of something, like growing more wheat, then the supply is inelastic because farmers can't quickly plant and harvest more wheat.
+Supply elasticity is affected by a few main things. One big [factor](/wiki/factor-investing) is how easy it is for a business to change how much they produce. If a business can quickly make more of a product when the price goes up, the supply is elastic. For example, if a bakery can easily bake more bread when the price of bread increases, then the supply of bread is elastic. But if it takes a long time to make more of something, like growing more wheat, then the supply is inelastic because farmers can't quickly plant and harvest more wheat.
 
 Another factor is how much it costs to make more of the product. If the cost of making more doesn't go up much, then businesses are more likely to increase production when prices rise, making the supply elastic. But if the cost goes up a lot when trying to make more, like needing to buy expensive new machines, then businesses might not increase production as much, making the supply inelastic. 
 
@@ -72,7 +72,7 @@ Another theory is the concept of market structure. This theory explains how the 
 
 ## How can econometric models be used to predict changes in supply elasticity?
 
-Econometric models are tools that economists use to predict how supply elasticity might change. These models use math and statistics to look at past data about prices and how much of a product was made. By studying this data, economists can figure out how sensitive the supply of a product is to price changes. For example, if they see that the amount of wheat produced goes up a lot when the price of wheat goes up, they know the supply of wheat is elastic. They can then use this information to make predictions about what will happen if the price changes in the future.
+Econometric models are tools that economists use to predict how supply elasticity might change. These models use math and [statistics](/wiki/bayesian-statistics) to look at past data about prices and how much of a product was made. By studying this data, economists can figure out how sensitive the supply of a product is to price changes. For example, if they see that the amount of wheat produced goes up a lot when the price of wheat goes up, they know the supply of wheat is elastic. They can then use this information to make predictions about what will happen if the price changes in the future.
 
 These models can also take into account other factors that affect supply elasticity, like changes in technology, government policies, and the number of producers in the market. By including these factors, econometric models can give a more accurate picture of how supply might change. For instance, if a new technology makes it easier for farmers to grow more wheat, the model can predict that the supply of wheat will become more elastic. This helps businesses and policymakers plan better for the future, making sure they can respond to changes in the market effectively.
 

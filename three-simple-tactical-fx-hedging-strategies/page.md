@@ -18,7 +18,7 @@ This is important for businesses because it helps them manage risk. Without FX h
 
 Tactical FX hedging is about making smart moves to protect against currency changes. It involves looking at the market and deciding when to use tools like forward contracts or options to lock in exchange rates. The idea is to be proactive and adjust the hedging strategy based on what's happening in the world and the economy. This means a company might increase its hedging if it thinks the currency will move a lot, or it might reduce it if things seem stable.
 
-The key to tactical FX hedging is being flexible and ready to change plans. A business needs to keep an eye on things like interest rates, inflation, and big news that can shake up currency values. By doing this, they can choose the best times to hedge and the right amounts to hedge. It's all about balancing the need to protect against risk with the cost of hedging, so the company can still make good profits even when the currency markets are unpredictable.
+The key to tactical [FX](/wiki/fx-anomaly) hedging is being flexible and ready to change plans. A business needs to keep an eye on things like interest rates, inflation, and big news that can shake up currency values. By doing this, they can choose the best times to hedge and the right amounts to hedge. It's all about balancing the need to protect against risk with the cost of hedging, so the company can still make good profits even when the currency markets are unpredictable.
 
 ## How does a simple forward contract work as an FX hedging strategy?
 
@@ -40,7 +40,7 @@ Using a currency swap for tactical FX hedging means a business can be smart abou
 
 ## What role does the timing of hedging play in managing FX risk?
 
-The timing of hedging is really important for managing FX risk. It's all about picking the right moment to lock in exchange rates. If a business hedges too early, they might miss out on better rates later. But if they wait too long, they could end up with worse rates if the currency moves against them. So, they need to keep a close eye on what's happening in the world and the economy to decide when to hedge.
+The timing of hedging is really important for managing FX risk. It's all about [picking](/wiki/asset-class-picking) the right moment to lock in exchange rates. If a business hedges too early, they might miss out on better rates later. But if they wait too long, they could end up with worse rates if the currency moves against them. So, they need to keep a close eye on what's happening in the world and the economy to decide when to hedge.
 
 Being smart about when to hedge can help a business save money and avoid big surprises. For example, if a company sees that a currency might get weaker soon, they might choose to hedge right away to lock in a good rate. Or if they think things will stay the same, they might wait a bit longer. It's all about balancing the need to protect against risk with the chance to get a better deal. By choosing the right time to hedge, a business can manage their FX risk better and keep their finances stable.
 
@@ -136,7 +136,7 @@ $$
 
 Carry strategies offer the advantage of providing a regular income stream from interest differentials. However, they are vulnerable to market dynamics, specifically changes in interest rate policies and currency fluctuations, which can reverse the expected gains if the investment currency depreciates significantly compared to the funding currency.
 
-Assessing the macroeconomic environment and being vigilant about central bank policies are crucial for the success of carry trades. By aligning carry strategies with robust hedging mechanisms, traders can harness the potential of interest rate differentials while controlling for currency volatility.
+Assessing the macroeconomic environment and being vigilant about central bank policies are crucial for the success of carry trades. By aligning carry strategies with robust hedging mechanisms, traders can harness the potential of interest rate differentials while controlling for currency [volatility](/wiki/volatility-trading-strategies).
 
 ## What is an FX Value Hedging Strategy?
 

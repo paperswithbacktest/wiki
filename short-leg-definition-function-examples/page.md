@@ -54,7 +54,7 @@ For example, imagine you own shares in a tech company, and you're worried about 
 
 When you make money from a short leg, you have to pay taxes on that profit. The tax rate depends on how long you held the position. If you held it for less than a year, it's considered a short-term capital gain, and you'll pay your regular income tax rate on it. If you held it for more than a year, it's a long-term capital gain, and you'll pay a lower tax rate, usually between 0% and 20%, depending on your income.
 
-If you lose money on a short leg, you can use that loss to reduce your taxes. You can subtract the loss from any gains you made from other investments during the year. If your losses are more than your gains, you can use up to $3,000 of the extra loss to lower your taxable income. If you still have more losses after that, you can carry them over to future years to use against future gains or income.
+If you lose money on a short leg, you can use that loss to reduce your taxes. You can subtract the loss from any gains you made from other investments during the year. If your losses are more than your gains, you can use up to $3,000 of the extra loss to lower your taxable income. If you still have more losses after that, you can [carry](/wiki/carry-trading) them over to future years to use against future gains or income.
 
 ## How do market conditions affect the performance of a short leg?
 
@@ -84,7 +84,7 @@ Another thing to think about is the rules that come from your broker. They might
 
 ## What are examples of short leg strategies?
 
-In algorithmic trading, understanding and executing options strategies involving short legs is essential for maximizing potential returns. These strategies focus primarily on exploiting the differences in premiums between bought and sold options.
+In [algorithmic trading](/wiki/algorithmic-trading), understanding and executing options strategies involving short legs is essential for maximizing potential returns. These strategies focus primarily on exploiting the differences in premiums between bought and sold options.
 
 **Bull Call Spread**  
 This strategy involves concurrently buying and selling call options on the same underlying asset with different strike prices. A trader purchases a call option at a lower strike price (`K1`) and simultaneously sells a call option at a higher strike price (`K2`). These actions are executed with the same expiration date. The call sold at the higher strike price forms the short leg. The formula for the net premium received is:

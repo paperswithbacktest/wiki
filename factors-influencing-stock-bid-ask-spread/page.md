@@ -22,7 +22,7 @@ On the other hand, if a stock is not very liquid, there are fewer people interes
 
 ## What role does market volatility play in determining the bid-ask spread?
 
-Market volatility is how much the price of a stock goes up and down. When a stock is very volatile, its price can change a lot in a short time. This can make the bid-ask spread bigger. That's because when prices are moving a lot, sellers want to sell for a higher price to be safe, and buyers want to buy at a lower price to protect themselves. So, the difference between what someone is willing to pay and what someone wants to sell for gets bigger.
+Market [volatility](/wiki/volatility-trading-strategies) is how much the price of a stock goes up and down. When a stock is very volatile, its price can change a lot in a short time. This can make the bid-ask spread bigger. That's because when prices are moving a lot, sellers want to sell for a higher price to be safe, and buyers want to buy at a lower price to protect themselves. So, the difference between what someone is willing to pay and what someone wants to sell for gets bigger.
 
 In calmer markets, where prices don't change as much, the bid-ask spread is usually smaller. People feel more sure about what the price will be, so they don't need as much of a difference between the bid and ask prices. This makes it easier and cheaper to trade the stock. So, high volatility can lead to wider bid-ask spreads, while low volatility can lead to narrower spreads.
 
@@ -70,7 +70,7 @@ On the other hand, if everyone knows the same things about a stock, the bid-ask 
 
 ## What advanced statistical models are used to predict bid-ask spreads?
 
-Advanced statistical models like autoregressive conditional heteroskedasticity (ARCH) and generalized autoregressive conditional heteroskedasticity (GARCH) are often used to predict bid-ask spreads. These models look at how the spread changes over time and use past data to guess what might happen next. They are good at understanding how things like market volatility and trading volume can affect the spread. By using these models, people can make better guesses about what the spread might be in the future, which can help them make smarter trading decisions.
+Advanced statistical models like autoregressive conditional heteroskedasticity (ARCH) and generalized autoregressive conditional heteroskedasticity (GARCH) are often used to predict bid-ask spreads. These models look at how the spread changes over time and use past data to guess what might happen next. They are good at understanding how things like market volatility and trading [volume](/wiki/volume-trading-strategy) can affect the spread. By using these models, people can make better guesses about what the spread might be in the future, which can help them make smarter trading decisions.
 
 Another model that is used is the vector autoregression (VAR) model. This model looks at how different things, like stock prices, trading volume, and market volatility, all work together to affect the bid-ask spread. It helps to see how changes in one thing can lead to changes in others. By understanding these relationships, the VAR model can give a more complete picture of what might happen to the bid-ask spread. This can be really helpful for traders who want to predict and plan for future market conditions.
 
@@ -90,7 +90,7 @@ $$
 \text{Bid-Ask Spread} = \text{Ask Price} - \text{Bid Price}
 $$
 
-High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), a subset of [algorithmic trading](/wiki/algorithmic-trading), is particularly influential in narrowing the bid-ask spread and enhancing market liquidity. HFT involves executing a large number of orders at extremely high speeds, often in fractions of a second. This rapid trading contributes to tighter spreads because HFT algorithms quickly match buyers with sellers, reducing the difference between bid and ask prices. As a result, HFT provides greater liquidity, making it easier for market participants to enter and [exit](/wiki/exit-strategy) positions at more favorable prices.
+High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), a subset of [algorithmic trading](/wiki/algorithmic-trading), is particularly influential in narrowing the bid-ask spread and enhancing market [liquidity](/wiki/liquidity-risk-premium). HFT involves executing a large number of orders at extremely high speeds, often in fractions of a second. This rapid trading contributes to tighter spreads because HFT algorithms quickly match buyers with sellers, reducing the difference between bid and ask prices. As a result, HFT provides greater liquidity, making it easier for market participants to enter and [exit](/wiki/exit-strategy) positions at more favorable prices.
 
 Despite the advantages, using algorithms to exploit bid-ask spreads is not without challenges. One significant challenge is the technological infrastructure required to maintain and develop sophisticated trading algorithms. Firms must invest in high-speed data feeds, low-latency networks, and robust computing resources to remain competitive. Furthermore, there is a constant need for algorithm refinement and optimization to adapt to changing market conditions.
 

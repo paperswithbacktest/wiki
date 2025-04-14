@@ -82,7 +82,7 @@ This method also helps with decision making because it gives you a clearer pictu
 
 ## How can Monte Carlo Simulation be integrated into Excel for Algo Trading?
 
-Integrating Monte Carlo simulations with algorithmic trading models in Excel allows analysts to perform comprehensive strategy testing that accounts for market volatility and uncertainty. This integration is pivotal for developing robust trading strategies by simulating a range of potential market conditions and assessing their impact on algorithmic trades.
+Integrating Monte Carlo simulations with [algorithmic trading](/wiki/algorithmic-trading) models in Excel allows analysts to perform comprehensive strategy testing that accounts for market [volatility](/wiki/volatility-trading-strategies) and uncertainty. This integration is pivotal for developing robust trading strategies by simulating a range of potential market conditions and assessing their impact on algorithmic trades.
 
 To create effective simulations, analysts set up models that incorporate random number generation to mimic the stochastic nature of financial markets. In Excel, this can be achieved by utilizing functions such as `RAND()` or `NORM.INV()` for generating random variables that follow a specific distribution. These variables are then used to simulate the movements in asset prices over time, thereby enabling the evaluation of trading strategies under various hypothetical scenarios.
 

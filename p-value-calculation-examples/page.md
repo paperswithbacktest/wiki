@@ -28,7 +28,7 @@ For example, if you're testing if a new fertilizer makes plants grow taller, you
 
 ## What is the difference between a p-value and a significance level?
 
-A p-value and a significance level are both important in statistics, but they are different things. A p-value is a number that tells you how likely it is to get your results by chance if your starting idea (null hypothesis) is true. For example, if you flip a coin and it lands on heads 10 times in a row, the p-value tells you how likely that is to happen if the coin is fair. The smaller the p-value, the less likely it is that your results happened by chance.
+A p-value and a significance level are both important in [statistics](/wiki/bayesian-statistics), but they are different things. A p-value is a number that tells you how likely it is to get your results by chance if your starting idea (null hypothesis) is true. For example, if you flip a coin and it lands on heads 10 times in a row, the p-value tells you how likely that is to happen if the coin is fair. The smaller the p-value, the less likely it is that your results happened by chance.
 
 A significance level, often called alpha, is a number you choose before you start your experiment. It's like setting a rule for how much chance you're willing to accept. Usually, people choose a significance level of 0.05, which means they're okay with a 5% chance that their results could be due to luck. If your p-value is smaller than your significance level, you can say your results are "statistically significant," meaning they're unlikely to be due to chance. So, while the p-value is calculated from your data, the significance level is a standard you set to decide if your p-value is small enough to be important.
 

@@ -64,7 +64,7 @@ Market makers also help keep prices from changing too much all of a sudden. They
 
 ## How does high-frequency trading influence price discovery?
 
-High-frequency trading (HFT) is when computers trade very quickly, often in just a few seconds or less. This kind of trading can help with price discovery because it makes the market more active. When lots of trades happen fast, it can show what people think something is worth right now. HFT traders use special computer programs to look at lots of information and make trades based on that. This can help the market find the right price faster because there are always people trading.
+High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) is when computers trade very quickly, often in just a few seconds or less. This kind of trading can help with price discovery because it makes the market more active. When lots of trades happen fast, it can show what people think something is worth right now. HFT traders use special computer programs to look at lots of information and make trades based on that. This can help the market find the right price faster because there are always people trading.
 
 But high-frequency trading can also make prices move around a lot. Sometimes, HFT can cause prices to change quickly because the computers are trading so fast. This can make it hard for other people to know what the real price should be. If prices are jumping around a lot, it might not show what most people think something is worth. So, while HFT can help with price discovery by making the market more active, it can also make it harder by causing big, quick changes in prices.
 

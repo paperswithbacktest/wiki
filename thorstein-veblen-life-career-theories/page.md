@@ -24,7 +24,7 @@ Veblen's family was Norwegian. They moved to the United States before he was bor
 
 Thorstein Veblen grew up in a Norwegian family that had moved to the United States. His parents were hard-working farmers, and they taught him the value of work. Veblen's family spoke Norwegian at home, which made him feel different from other kids. This feeling of being different helped him see the world in unique ways.
 
-Living in rural Wisconsin also had a big impact on Veblen. He saw how people in his community worked hard and how they valued their land and their possessions. These experiences helped him understand how economics and society are connected. Veblen's early life gave him the ideas that he would later write about in his books.
+Living in rural Wisconsin also had a big impact on Veblen. He saw how people in his community worked hard and how they valued their land and their possessions. These experiences helped him understand how economics and society are connected. Veblen's early life gave him the ideas that he would later write about in his [books](/wiki/algo-trading-books).
 
 ## What were Veblen's most important academic positions?
 
@@ -84,7 +84,7 @@ Veblen also talked about how businesses focus on making money instead of making 
 
 ## What are the implications for current economic practices?
 
-In contemporary financial markets, the influence of conspicuous consumption is evident in the practices surrounding algorithmic and high-frequency trading (HFT). These trading methods emphasize speed, data processing capabilities, and technological prowess, which can be perceived as a manifestation of economic status and power. Such emphasis reinforces the concept of conspicuous consumption by prioritizing technology-driven prestige over traditional trading fundamentals.
+In contemporary financial markets, the influence of conspicuous consumption is evident in the practices surrounding algorithmic and high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)). These trading methods emphasize speed, data processing capabilities, and technological prowess, which can be perceived as a manifestation of economic status and power. Such emphasis reinforces the concept of conspicuous consumption by prioritizing technology-driven prestige over traditional trading fundamentals.
 
 The cultural focus on rapid trading has implications for economic inequality. High-frequency trading is often associated with significant capital investments in technology infrastructure, including low-latency connections and high-performance computing systems. Firms with the resources to invest in these technologies can execute trades at speeds unattainable by traditional investors, gaining a competitive advantage that highlights economic disparities. This dynamic can be expressed through an inequality where:
 
@@ -94,7 +94,7 @@ $$
 
 where $v_\text{HFT}$ represents the execution velocity for high-frequency trades and $v_\text{Trad}$ for traditional trades. The discrepancy between these velocities underscores the barriers faced by market participants without access to sophisticated trading platforms.
 
-Furthermore, the practice of fast trading introduces additional [volatility](/wiki/volatility-trading-strategies) to the markets. Algorithmic trading, driven by complex models and strategies such as [statistical arbitrage](/wiki/statistical-arbitrage) or [market making](/wiki/market-making), can respond rapidly to market stimuli, propagating minute fluctuations into larger price movements. This was demonstrated in events such as the Flash Crash of 2010, where rapid, automated trading contributed to a dramatic drop in market indices.
+Furthermore, the practice of fast trading introduces additional [volatility](/wiki/volatility-trading-strategies) to the markets. Algorithmic trading, driven by complex models and strategies such as [statistical [arbitrage](/wiki/arbitrage)](/wiki/statistical-arbitrage) or [market making](/wiki/market-making), can respond rapidly to market stimuli, propagating minute fluctuations into larger price movements. This was demonstrated in events such as the Flash Crash of 2010, where rapid, automated trading contributed to a dramatic drop in market indices.
 
 These trading behaviors raise entry barriers for traditional investors by skewing market dynamics in favor of participants who can effectively leverage advanced technologies. The speed at which trades are executed and the reduced latency in decision-making are not merely tactical advantages but have become symbolic of market status, reminiscent of the conspicuous consumption patterns Veblen critiqued.
 

@@ -18,7 +18,7 @@ When you put money into Betterment, it automatically puts that money into your c
 
 Safety is important when using Betterment because it helps protect your money. When you invest, there's always some risk that you could lose money. Betterment uses different ways to lower this risk, like spreading your money across many different investments. This is called diversification. By doing this, Betterment tries to make sure that if one investment does badly, it won't hurt your whole portfolio too much.
 
-Another reason safety is important is to keep your personal information safe. Betterment takes steps to protect your data from hackers and other bad people. They use strong security measures like encryption and two-factor authentication. This means that even if someone tries to get into your account, it's much harder for them to do so. Keeping your money and information safe helps you feel more confident about using Betterment to reach your financial goals.
+Another reason safety is important is to keep your personal information safe. Betterment takes steps to protect your data from hackers and other bad people. They use strong security measures like encryption and two-[factor](/wiki/factor-investing) authentication. This means that even if someone tries to get into your account, it's much harder for them to do so. Keeping your money and information safe helps you feel more confident about using Betterment to reach your financial goals.
 
 ## What are the basic safety features offered by Betterment in 2024?
 

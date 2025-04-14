@@ -22,7 +22,7 @@ On the other hand, if the market risk premium is low, it might not seem worth it
 
 ## How is the market risk premium calculated?
 
-The market risk premium is calculated by taking the expected return of the stock market and subtracting the expected return of a risk-free investment. The expected return of the stock market is what investors think they will earn on average from investing in stocks. The risk-free return is usually the interest rate on government bonds, which are considered very safe. For example, if the expected return of the stock market is 8% and the risk-free rate is 3%, you would subtract 3% from 8% to get a market risk premium of 5%.
+The market risk premium is calculated by taking the expected return of the stock market and subtracting the expected return of a risk-free investment. The expected return of the stock market is what investors think they will earn on average from investing in stocks. The risk-free return is usually the [interest rate](/wiki/interest-rate-trading-strategies) on government bonds, which are considered very safe. For example, if the expected return of the stock market is 8% and the risk-free rate is 3%, you would subtract 3% from 8% to get a market risk premium of 5%.
 
 This calculation helps investors understand the extra reward they might get for choosing to invest in stocks instead of safer options. The market risk premium can change over time because both the expected return of the stock market and the risk-free rate can go up or down. For instance, if the economy is doing well, the expected return of the stock market might go up, which could increase the market risk premium. But if the risk-free rate goes up because interest rates rise, the market risk premium might go down. This makes it important for investors to keep an eye on both numbers.
 
@@ -95,7 +95,7 @@ where:
 - $E(R_m)$ is the expected return of the market.
 - $(E(R_m) - R_f)$ is the market risk premium.
 
-Calculating the market risk premium involves subtracting the risk-free rate, typically based on government bond yields, from the expected market return. Several factors affect the value of the market risk premium over time, including economic conditions, investor risk aversion, and changes in expected market volatility.
+Calculating the market risk premium involves subtracting the risk-free rate, typically based on government bond yields, from the expected market return. Several factors affect the value of the market risk premium over time, including economic conditions, investor risk aversion, and changes in expected market [volatility](/wiki/volatility-trading-strategies).
 
 Historically, the market risk premium has shown variability due to shifts in macroeconomic fundamentals, geopolitical events, and market sentiments. During periods of economic prosperity, investor confidence tends to drive down the premium as risk aversion decreases. Conversely, in times of economic uncertainty, the premium often rises as investors demand higher compensation for taking on additional risk.
 

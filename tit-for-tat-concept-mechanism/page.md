@@ -24,7 +24,7 @@ This strategy can also help in bigger situations, like at work or in neighborhoo
 
 The phrase 'Tit for Tat' comes from old English words. 'Tit' and 'tat' were used to mean a small amount or a little bit. So, 'Tit for Tat' means giving a little bit back for a little bit given. This phrase has been used for a long time to talk about giving back what you get, whether it's good or bad.
 
-The exact start of the phrase is not clear, but it has been used in English since at least the 1500s. It shows up in old books and stories where people talk about fairness and getting back what they give. Over time, 'Tit for Tat' became a common way to describe this back-and-forth way of treating others.
+The exact start of the phrase is not clear, but it has been used in English since at least the 1500s. It shows up in old [books](/wiki/algo-trading-books) and stories where people talk about fairness and getting back what they give. Over time, 'Tit for Tat' became a common way to describe this back-and-forth way of treating others.
 
 ## Can you explain the mechanism of 'Tit for Tat' in game theory?
 

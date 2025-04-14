@@ -72,7 +72,7 @@ ICAPM uses things called state variables, like inflation rates or stock market p
 
 Some people think the ICAPM is too hard to use in real life. It talks about things called state variables, which are like clues about the future economy. But these clues are hard to predict and can be different from what actually happens. So, it's tough to know if the ICAPM is right. Also, to test if the ICAPM works, we need a lot of good data about how investments did over a long time. But getting all this data can be hard, and sometimes the data we have isn't perfect.
 
-Another problem with the ICAPM is that it assumes investors can guess the future well. But in real life, it's really hard to predict things like inflation or the stock market. This makes it tricky for investors to pick the right investments using the ICAPM. Some people also think the ICAPM is too complicated and doesn't help investors make better choices in the real world. They say it's more useful for understanding how investors think about the future, but not so much for picking actual investments.
+Another problem with the ICAPM is that it assumes investors can guess the future well. But in real life, it's really hard to predict things like inflation or the stock market. This makes it tricky for investors to pick the right investments using the ICAPM. Some people also think the ICAPM is too complicated and doesn't help investors make better choices in the real world. They say it's more useful for understanding how investors think about the future, but not so much for [picking](/wiki/asset-class-picking) actual investments.
 
 ## How have financial economists extended or modified the ICAPM to address its limitations?
 

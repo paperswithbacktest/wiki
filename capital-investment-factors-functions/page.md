@@ -26,7 +26,7 @@ Capital investments can be split into two main types: tangible and intangible. T
 
 Another type of capital investment is in human capital. This means spending money on training and education for employees to make them better at their jobs. For example, a company might pay for its workers to go to a workshop to learn new skills. This can help the business because smarter and more skilled employees can work more efficiently and come up with new ideas.
 
-Lastly, there are financial capital investments, like buying stocks or bonds. These are different because they don't directly help a business make more products or services, but they can still help the business grow by earning more money. For example, a company might invest in stocks to earn extra income, which they can then use to buy new equipment or expand their business.
+Lastly, there are financial capital investments, like buying stocks or bonds. These are different because they don't directly help a business make more products or services, but they can still help the business grow by [earning](/wiki/earning-announcement) more money. For example, a company might invest in stocks to earn extra income, which they can then use to buy new equipment or expand their business.
 
 ## How do businesses evaluate potential capital investments?
 

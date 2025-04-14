@@ -82,7 +82,7 @@ Another important change is the use of new trading systems. These systems can ha
 
 ## What future trends are expected to influence the Oslo Stock Exchange?
 
-In the future, technology will keep changing how the Oslo Stock Exchange works. More people will use apps and online platforms to buy and sell shares. This will make trading even easier and faster. The exchange might also use new technology like artificial intelligence to help people make better investment choices. AI can look at a lot of data quickly and find patterns that humans might miss. This could help investors pick the best stocks and make more money.
+In the future, technology will keep changing how the Oslo Stock Exchange works. More people will use apps and online platforms to buy and sell shares. This will make trading even easier and faster. The exchange might also use new technology like [artificial intelligence](/wiki/ai-artificial-intelligence) to help people make better investment choices. AI can look at a lot of data quickly and find patterns that humans might miss. This could help investors pick the best stocks and make more money.
 
 Another big trend will be a focus on green and sustainable investments. More people want to invest in companies that are good for the environment. Norway has a lot of companies in energy and seafood, and these industries are starting to focus on being more sustainable. The Oslo Stock Exchange might list more companies that work on green energy or eco-friendly practices. This could attract more investors who care about the planet and want their money to help make a difference.
 

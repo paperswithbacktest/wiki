@@ -24,7 +24,7 @@ This ability to adjust makes the DMI more reliable in different types of market 
 
 To calculate the Dynamic Momentum Index (DMI), you need to look at the price changes of an asset over a certain period of time. You start by finding the difference between the highest and lowest prices during this period. This gives you an idea of how much the price has moved.
 
-Next, you use this price difference to figure out how fast the price is changing. The DMI takes this information and adjusts how it measures momentum based on how much the price is moving around. This way, the DMI can be more accurate in different market conditions.
+Next, you use this price difference to figure out how fast the price is changing. The DMI takes this information and adjusts how it measures [momentum](/wiki/momentum) based on how much the price is moving around. This way, the DMI can be more accurate in different market conditions.
 
 ## Can you explain the formula used to calculate the DMI?
 

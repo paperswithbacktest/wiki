@@ -84,7 +84,7 @@ A few days later, the stock price starts to go up just like Sarah hoped. She kee
 
 ## What is the Role of Oscillators in Trading Strategies?
 
-Oscillators are essential tools within technical analysis that enable traders to identify short-term extreme market conditions. These indicators serve a pivotal role in determining optimal entry and exit points by signaling overbought or oversold market states. The core concept behind oscillators is to evaluate the [momentum](/wiki/momentum) of price movements, thereby providing clues about potential trend reversals or continuations.
+Oscillators are essential tools within technical analysis that enable traders to identify short-term extreme market conditions. These indicators serve a pivotal role in determining optimal entry and [exit](/wiki/exit-strategy) points by signaling overbought or oversold market states. The core concept behind oscillators is to evaluate the [momentum](/wiki/momentum) of price movements, thereby providing clues about potential trend reversals or continuations.
 
 A few widely-used oscillators include the Relative Strength Index (RSI), Moving Average Convergence Divergence (MACD), and the Stochastic Oscillator. Each of these tools offers unique insights into market dynamics:
 

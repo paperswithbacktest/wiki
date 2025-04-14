@@ -88,7 +88,7 @@ Another way scientists study archipelagos is by using computer models. These mod
 
 ## How can geography be integrated into trading rhetoric?
 
-The archipelago metaphor offers a compelling way to conceptualize and analyze the intricate networks that characterize algorithmic trading environments. By aligning these trading networks with geographical structures, such as archipelagos, this metaphor advances the simplification of algorithmic complexities, fostering a deeper comprehension of diversified trading strategies.
+The archipelago metaphor offers a compelling way to conceptualize and analyze the intricate networks that characterize [algorithmic trading](/wiki/algorithmic-trading) environments. By aligning these trading networks with geographical structures, such as archipelagos, this metaphor advances the simplification of algorithmic complexities, fostering a deeper comprehension of diversified trading strategies.
 
 In an archipelago, islands can stand alone and adapt to environmental changes while forming part of a broader, interconnected system. This mirrors how diversified trading strategies operate. For instance, each trading strategy within a portfolio can independently respond to market shifts while remaining integral to an overarching investment framework. This modularity allows for localized adaptation without compromising the unity of the system, thereby balancing autonomy and cohesion.
 

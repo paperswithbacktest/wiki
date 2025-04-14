@@ -133,7 +133,7 @@ Overall, each type of P/E ratio offers unique insights suitable for different in
 
 ## How can P/E Ratios be used in an Algorithmic Trading Strategy?
 
-A hypothetical example of an algorithmic trading strategy utilizing the Price-to-Earnings (P/E) ratio can serve as a practical illustration of how this metric plays a role in automated financial decision-making. Let's consider a strategy designed to exploit stocks perceived as undervalued based on their P/E ratios.
+A hypothetical example of an [algorithmic trading](/wiki/algorithmic-trading) strategy utilizing the Price-to-Earnings (P/E) ratio can serve as a practical illustration of how this metric plays a role in automated financial decision-making. Let's consider a strategy designed to exploit stocks perceived as undervalued based on their P/E ratios.
 
 **Setup:**
 

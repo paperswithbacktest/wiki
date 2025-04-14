@@ -44,7 +44,7 @@ After you've picked a group, you need to decide how much money you want to inves
 
 Real Estate Investment Groups usually invest in properties that can bring in regular rent money. Most often, these are apartments or other types of multi-family housing, like townhouses or condos. These properties are good for REIGs because they can be split up into many rental units, which means more rent money coming in every month. Also, having lots of tenants can make the investment safer because if one tenant moves out, there are still others paying rent.
 
-Sometimes, REIGs might also invest in other types of properties, like commercial buildings or even single-family homes. Commercial buildings, like office spaces or shopping centers, can be good because businesses often sign long leases, which means steady rent money. Single-family homes can be good too, especially in areas where people want to live and are willing to pay more for rent. But, REIGs usually stick to multi-family housing because it fits well with their goal of earning regular income from lots of different tenants.
+Sometimes, REIGs might also invest in other types of properties, like commercial buildings or even single-family homes. Commercial buildings, like office spaces or shopping centers, can be good because businesses often sign long leases, which means steady rent money. Single-family homes can be good too, especially in areas where people want to live and are willing to pay more for rent. But, REIGs usually stick to multi-family housing because it fits well with their goal of [earning](/wiki/earning-announcement) regular income from lots of different tenants.
 
 ## How do Real Estate Investment Groups manage their properties?
 

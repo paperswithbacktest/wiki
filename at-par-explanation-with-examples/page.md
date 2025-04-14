@@ -28,7 +28,7 @@ In this case, you're paying exactly what the bond is worth according to its face
 
 ## What factors determine whether a bond is sold at par?
 
-Several things can affect whether a bond is sold at par. One big factor is the interest rate the bond offers compared to other bonds out there. If a bond's interest rate is the same as what other similar bonds are offering, it's more likely to be sold at par. Another factor is how safe people think the bond is. If people believe the company or government that issued the bond will pay back the money, the bond is more likely to be sold at par.
+Several things can affect whether a bond is sold at par. One big [factor](/wiki/factor-investing) is the [interest rate](/wiki/interest-rate-trading-strategies) the bond offers compared to other bonds out there. If a bond's interest rate is the same as what other similar bonds are offering, it's more likely to be sold at par. Another factor is how safe people think the bond is. If people believe the company or government that issued the bond will pay back the money, the bond is more likely to be sold at par.
 
 The bond's time until it matures also plays a role. If a bond is going to mature soon, it's more likely to be sold at or close to its face value because there's less time for things to go wrong. On the other hand, if the bond has a long time before it matures, its price might change more, making it less likely to be sold at par. Overall, a bond is most likely to be sold at par when its interest rate is competitive, it's seen as safe, and it's close to maturing.
 

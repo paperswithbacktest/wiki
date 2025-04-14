@@ -22,7 +22,7 @@ This sector is very important because it helps keep people connected. Without it
 
 ## Why invest in communication sector ETFs?
 
-Investing in communication sector ETFs can be a smart choice because this sector is always growing and changing. People need to communicate more than ever, whether it's for work, school, or just staying in touch with friends and family. This means that companies in the communication sector, like phone companies and internet providers, are likely to do well. When you invest in a communication sector ETF, you're investing in a group of these companies all at once, which can be less risky than picking just one company.
+Investing in communication sector ETFs can be a smart choice because this sector is always growing and changing. People need to communicate more than ever, whether it's for work, school, or just staying in touch with friends and family. This means that companies in the communication sector, like phone companies and internet providers, are likely to do well. When you invest in a communication sector [ETF](/wiki/etf-trading-strategies), you're investing in a group of these companies all at once, which can be less risky than [picking](/wiki/asset-class-picking) just one company.
 
 Another reason to invest in these ETFs is that they can help you spread out your money. Instead of putting all your money into one company, you can own a little bit of many different companies in the communication sector. This is called diversification, and it can help protect your money if one company doesn't do well. Plus, ETFs usually have lower fees than other types of investments, so you get to keep more of your money. Overall, communication sector ETFs can be a good way to grow your savings while staying connected to the world.
 
@@ -54,7 +54,7 @@ Compared to other sector ETFs, communication sector ETFs can be more volatile be
 
 When choosing a communication sector ETF, one important thing to think about is what companies are inside the ETF. Different ETFs might have different mixes of phone companies, internet providers, and media companies. You want to pick an ETF that has companies you believe will do well in the future. Also, look at the fees the ETF charges. Some ETFs cost more than others, and lower fees mean you get to keep more of your money.
 
-Another factor to consider is how the ETF has done in the past. While past performance doesn't tell you exactly what will happen in the future, it can give you an idea of how the ETF has handled good and bad times. You should also think about how much risk you're okay with. Communication sector ETFs can go up and down a lot because technology changes quickly. If you don't like a lot of risk, you might want to pick an ETF that's more stable, even if it might not grow as fast.
+Another [factor](/wiki/factor-investing) to consider is how the ETF has done in the past. While past performance doesn't tell you exactly what will happen in the future, it can give you an idea of how the ETF has handled good and bad times. You should also think about how much risk you're okay with. Communication sector ETFs can go up and down a lot because technology changes quickly. If you don't like a lot of risk, you might want to pick an ETF that's more stable, even if it might not grow as fast.
 
 ## How can communication sector ETFs be used in a diversified investment portfolio?
 

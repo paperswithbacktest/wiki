@@ -34,13 +34,13 @@ This process means you might have bars that represent different amounts of time.
 
 ## What data is required to create dollar bars?
 
-To create dollar bars, you need data about the price and the volume of each trade. The price tells you how much each share of the stock costs, and the volume tells you how many shares were traded. By multiplying the price by the volume, you can find out the total dollar amount for each trade. You need to keep track of these trades and add up their total dollar amounts until you reach your chosen dollar bar size, like $10,000.
+To create dollar bars, you need data about the price and the [volume](/wiki/volume-trading-strategy) of each trade. The price tells you how much each share of the stock costs, and the volume tells you how many shares were traded. By multiplying the price by the volume, you can find out the total dollar amount for each trade. You need to keep track of these trades and add up their total dollar amounts until you reach your chosen dollar bar size, like $10,000.
 
 Once you have this data, you can start building your dollar bars. You keep adding up the dollar amounts of the trades until you hit or pass your chosen amount. When you do, you create a new bar and start counting again from zero. This way, you can see when big trades happen, which can help you understand the market better.
 
 ## Can dollar bars be used for any financial instrument?
 
-Dollar bars can be used for many different financial instruments, like stocks, futures, and forex. As long as you have data about the price and the number of trades, you can use dollar bars. This means you can use them for anything that is traded and has a price and volume.
+Dollar bars can be used for many different financial instruments, like stocks, futures, and [forex](/wiki/forex-system). As long as you have data about the price and the number of trades, you can use dollar bars. This means you can use them for anything that is traded and has a price and volume.
 
 The main thing you need is to know how much each trade is worth. You do this by multiplying the price of the trade by the number of shares or units traded. Once you have this information, you can start making dollar bars for any financial instrument you want to look at.
 
@@ -76,13 +76,13 @@ In a quiet market, where not many trades are happening, dollar bars can take lon
 
 ## What are the best practices for integrating dollar bars into algorithmic trading systems?
 
-When you want to use dollar bars in your trading computer programs, it's good to start by picking the right size for your dollar bars. This depends on how busy the market is. If the market is moving a lot, smaller dollar bars can help you see more details quickly. But if the market is quiet, bigger dollar bars might be better because they fill up faster. It's also smart to change the size of your dollar bars during the day or for different stocks. This way, you can keep up with how the market changes and make better guesses about what might happen next.
+When you want to use dollar bars in your trading computer programs, it's good to start by [picking](/wiki/asset-class-picking) the right size for your dollar bars. This depends on how busy the market is. If the market is moving a lot, smaller dollar bars can help you see more details quickly. But if the market is quiet, bigger dollar bars might be better because they fill up faster. It's also smart to change the size of your dollar bars during the day or for different stocks. This way, you can keep up with how the market changes and make better guesses about what might happen next.
 
 Another important thing is to mix dollar bars with other kinds of data, like time-based bars or tick bars. This can give you a fuller picture of what's going on in the market. For example, you might use dollar bars to spot big trades and time-based bars to see what's happening at regular times. By putting these together, you can make smarter trades. It's all about finding the right mix that works for you and helps you make better decisions.
 
 ## What are the statistical properties of dollar bars?
 
-Dollar bars in algorithmic trading provide a means of capturing market dynamics based on the fiat value exchanged during transactions, differing fundamentally from time-based and volume bars. Understanding their statistical properties, such as autocorrelation and normality of returns, can offer valuable insights and improvements in trading strategies.
+Dollar bars in [algorithmic trading](/wiki/algorithmic-trading) provide a means of capturing market dynamics based on the fiat value exchanged during transactions, differing fundamentally from time-based and volume bars. Understanding their statistical properties, such as autocorrelation and normality of returns, can offer valuable insights and improvements in trading strategies.
 
 ### Autocorrelation of Returns
 
@@ -98,7 +98,7 @@ where $r_t$ is the return at time $t$ and $\bar{r}$ is the mean return.
 
 ### Normality of Returns
 
-Dollar bars often exhibit more normally distributed returns compared to volume and time-based bars. The construction method of dollar bars reduces the effect of volatility clustering and extreme outliers, common in financial data, which can distort the distribution. This is theoretically advantageous because many statistical tools and models assume normality in the returns distribution. More normal return distributions lead to more reliable application of statistical models, such as regression analysis and variance estimations, in strategy development.
+Dollar bars often exhibit more normally distributed returns compared to volume and time-based bars. The construction method of dollar bars reduces the effect of [volatility](/wiki/volatility-trading-strategies) clustering and extreme outliers, common in financial data, which can distort the distribution. This is theoretically advantageous because many statistical tools and models assume normality in the returns distribution. More normal return distributions lead to more reliable application of statistical models, such as regression analysis and variance estimations, in strategy development.
 
 A common way to test normality is using the Shapiro-Wilk test or visually using Q-Q plots. The simplicity of dollar bars in capturing 'value-transacted' helps in achieving distributions closer to normal.
 

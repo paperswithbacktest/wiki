@@ -82,7 +82,7 @@ Another important model is the event study methodology. This model looks at how 
 
 ## What is the impact of algorithmic trading during war times?
 
-Algorithmic trading, particularly high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), has gained prominence in financial markets and plays an influential role during periods of geopolitical instability such as wars. Its impact is substantial due to its ability to execute trades swiftly in response to market signals. This rapid execution capability hinges on algorithms designed to process vast amounts of data and react to predefined conditions, which can significantly affect market [liquidity](/wiki/liquidity-risk-premium) and volatility.
+Algorithmic trading, particularly high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), has gained prominence in financial markets and plays an influential role during periods of geopolitical instability such as wars. Its impact is substantial due to its ability to execute trades swiftly in response to market signals. This rapid execution capability hinges on algorithms designed to process vast amounts of data and react to predefined conditions, which can significantly affect market [liquidity](/wiki/liquidity-risk-premium) and [volatility](/wiki/volatility-trading-strategies).
 
 ### Swift Reactions to Geopolitical Events
 

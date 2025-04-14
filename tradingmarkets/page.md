@@ -32,7 +32,7 @@ TradingMarkets offers several types of market analysis tools that help traders u
 
 Another type of tool is the technical indicators. These are special calculations that traders use to predict what might happen next in the market. For example, one common indicator is the moving average, which shows the average price of a stock over a certain period. If the current price is above the moving average, it might mean the stock is doing well. These indicators can help you make better trading decisions by giving you more information about the market.
 
-Lastly, TradingMarkets also provides fundamental analysis tools. These tools help you look at a company's financial health. You can see things like how much money the company is making, how much debt it has, and other important numbers. This information can help you decide if a company's stock is a good investment. By using these different types of tools together, you can get a fuller picture of the market and make smarter trading choices.
+Lastly, TradingMarkets also provides [fundamental analysis](/wiki/fundamental-analysis) tools. These tools help you look at a company's financial health. You can see things like how much money the company is making, how much debt it has, and other important numbers. This information can help you decide if a company's stock is a good investment. By using these different types of tools together, you can get a fuller picture of the market and make smarter trading choices.
 
 ## How does TradingMarkets help in managing trading risks?
 
@@ -56,7 +56,7 @@ Another way to integrate TradingMarkets with other platforms is by using its edu
 
 TradingMarkets supports advanced trading strategies like mean reversion. This strategy is based on the idea that if a stock's price moves away from its average, it will eventually come back to that average. Traders using this strategy look for stocks that have moved a lot in one direction and then bet that the price will move back towards the average. TradingMarkets provides tools and data to help traders find these opportunities and make better decisions about when to buy or sell.
 
-Another advanced strategy supported by TradingMarkets is momentum trading. This strategy involves buying stocks that are going up in price and selling them when they start to go down. Traders using this strategy believe that stocks that are moving in a certain direction will keep moving that way for a while. TradingMarkets offers analysis tools and indicators that can help traders spot these trends early and make trades based on momentum.
+Another advanced strategy supported by TradingMarkets is [momentum](/wiki/momentum) trading. This strategy involves buying stocks that are going up in price and selling them when they start to go down. Traders using this strategy believe that stocks that are moving in a certain direction will keep moving that way for a while. TradingMarkets offers analysis tools and indicators that can help traders spot these trends early and make trades based on momentum.
 
 ## How does TradingMarkets handle real-time data and what are its data sources?
 

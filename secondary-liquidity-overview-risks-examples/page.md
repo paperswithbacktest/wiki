@@ -18,7 +18,7 @@ Having secondary liquidity is important because it makes investments more attrac
 
 Primary liquidity is about the first time an asset, like a stock or bond, is sold to investors. This happens when a company or government issues new securities to raise money. It's like the starting point for these assets. When you buy a new stock directly from the company during its initial public offering (IPO), that's an example of primary liquidity.
 
-Secondary liquidity, on the other hand, is about trading these assets after they've already been issued. It's like a second-hand market where investors buy and sell assets among themselves, without involving the company that issued them. For example, if you buy stocks from another investor on a stock exchange, that's secondary liquidity. This market is crucial because it lets investors get their money back or buy more assets without waiting for the company to issue new ones.
+Secondary [liquidity](/wiki/liquidity-risk-premium), on the other hand, is about trading these assets after they've already been issued. It's like a second-hand market where investors buy and sell assets among themselves, without involving the company that issued them. For example, if you buy stocks from another investor on a stock exchange, that's secondary liquidity. This market is crucial because it lets investors get their money back or buy more assets without waiting for the company to issue new ones.
 
 ## Why is secondary liquidity important in financial markets?
 
@@ -30,7 +30,7 @@ Also, secondary liquidity helps keep markets stable. When lots of people are buy
 
 Common sources of secondary liquidity are stock exchanges and over-the-counter (OTC) markets. Stock exchanges, like the New York Stock Exchange or NASDAQ, are places where people can buy and sell stocks and other securities easily. These exchanges have rules and systems that make trading smooth and fair for everyone. On the other hand, OTC markets are less formal. They let people trade securities directly with each other, without a big exchange in the middle. This can be good for trading things that are not listed on big exchanges.
 
-Another source of secondary liquidity is through investment funds, like mutual funds or exchange-traded funds (ETFs). These funds hold a bunch of different investments and let people buy and sell shares in the fund. When you buy or sell a share of a mutual fund or ETF, you're trading with other investors, not the companies the fund invests in. This gives people a way to get in and out of a bunch of different investments all at once, which can be easier than buying and selling each one separately.
+Another source of secondary liquidity is through investment funds, like mutual funds or exchange-traded funds (ETFs). These funds hold a bunch of different investments and let people buy and sell shares in the fund. When you buy or sell a share of a mutual fund or [ETF](/wiki/etf-trading-strategies), you're trading with other investors, not the companies the fund invests in. This gives people a way to get in and out of a bunch of different investments all at once, which can be easier than buying and selling each one separately.
 
 ## What are the basic mechanisms of secondary markets?
 
@@ -76,7 +76,7 @@ Another way to manage these risks is by understanding the market and keeping an 
 
 ## What advanced strategies can be used to optimize secondary liquidity in large portfolios?
 
-One advanced strategy to optimize secondary liquidity in large portfolios is using algorithmic trading. This means using computers to buy and sell stocks and bonds based on special rules set by the investor. These rules can help find the best times to trade, making it easier to sell when the market is busy and prices are good. By using these smart computer programs, investors can quickly take advantage of small changes in the market, helping them get the best prices and keep their portfolio liquid.
+One advanced strategy to optimize secondary liquidity in large portfolios is using [algorithmic trading](/wiki/algorithmic-trading). This means using computers to buy and sell stocks and bonds based on special rules set by the investor. These rules can help find the best times to trade, making it easier to sell when the market is busy and prices are good. By using these smart computer programs, investors can quickly take advantage of small changes in the market, helping them get the best prices and keep their portfolio liquid.
 
 Another strategy is to use derivatives, like options and futures, to manage liquidity. Derivatives are special financial tools that let investors bet on the future price of a stock or bond without actually owning it. By using these tools, investors can protect their big portfolios from big price swings and make sure they can sell their investments when they need to. This can be really helpful for managing a large portfolio because it adds another layer of control over when and how to trade, making the whole process smoother and more liquid.
 

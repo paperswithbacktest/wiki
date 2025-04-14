@@ -22,7 +22,7 @@ Another big difference is the level of risk and reward. Prop trading can be very
 
 ## How can someone get started with prop trading?
 
-To get started with prop trading, you first need to learn about the financial markets. This means understanding how stocks, bonds, and other financial products work. You can do this by reading books, taking online courses, or even going to school for finance. It's also a good idea to practice trading with a simulator or a demo account. This lets you make trades without risking real money, so you can learn without losing anything.
+To get started with prop trading, you first need to learn about the financial markets. This means understanding how stocks, bonds, and other financial products work. You can do this by reading [books](/wiki/algo-trading-books), taking online courses, or even going to school for finance. It's also a good idea to practice trading with a simulator or a demo account. This lets you make trades without risking real money, so you can learn without losing anything.
 
 Once you feel ready, you need to find a prop trading firm that will let you trade with their money. These firms look for people who know a lot about trading and have good skills. You might need to pass a test or go through a training program to show that you can make good trades. If a firm hires you, they will give you money to trade with, but you'll need to follow their rules and strategies. Remember, prop trading can be risky, so always be careful and keep learning.
 
@@ -76,9 +76,9 @@ Firm reputation also matters a lot. A good reputation means other traders trust 
 
 ## What advanced strategies can expert traders employ at the best prop trading firms?
 
-Expert traders at the best prop trading firms can use advanced strategies like algorithmic trading. This means they use computer programs to make trades based on patterns they find in the market. These programs can make trades much faster than a person can, and they can look at a lot of data to find the best times to buy or sell. This can help expert traders make more money and take advantage of small changes in the market that others might miss.
+Expert traders at the best prop trading firms can use advanced strategies like [algorithmic trading](/wiki/algorithmic-trading). This means they use computer programs to make trades based on patterns they find in the market. These programs can make trades much faster than a person can, and they can look at a lot of data to find the best times to buy or sell. This can help expert traders make more money and take advantage of small changes in the market that others might miss.
 
-Another strategy expert traders might use is called scalping. This is when they make a lot of small trades in a short time, trying to make a little bit of money on each one. The idea is that these small profits can add up to a big total. Scalping requires a lot of focus and quick thinking, but it can be very rewarding if done right. Both of these strategies need a lot of skill and understanding of the market, but the best prop trading firms give expert traders the tools and support they need to succeed.
+Another strategy expert traders might use is called [scalping](/wiki/gamma-scalping). This is when they make a lot of small trades in a short time, trying to make a little bit of money on each one. The idea is that these small profits can add up to a big total. Scalping requires a lot of focus and quick thinking, but it can be very rewarding if done right. Both of these strategies need a lot of skill and understanding of the market, but the best prop trading firms give expert traders the tools and support they need to succeed.
 
 ## What are the risks and challenges in prop trading?
 

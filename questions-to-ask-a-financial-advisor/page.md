@@ -24,7 +24,7 @@ Sometimes, I also charge a percentage of the money I'm managing for you. This is
 
 ## What is your investment philosophy?
 
-My investment philosophy is all about keeping things simple and focusing on the long term. I believe in not trying to guess what the market will do next. Instead, I think it's better to build a mix of investments that can grow over time. This means picking a variety of stocks, bonds, and other investments that fit with your goals and how much risk you're okay with taking. By spreading your money across different types of investments, we can lower the risk and still have a chance to make good returns.
+My investment philosophy is all about keeping things simple and focusing on the long term. I believe in not trying to guess what the market will do next. Instead, I think it's better to build a mix of investments that can grow over time. This means [picking](/wiki/asset-class-picking) a variety of stocks, bonds, and other investments that fit with your goals and how much risk you're okay with taking. By spreading your money across different types of investments, we can lower the risk and still have a chance to make good returns.
 
 I also believe in being patient and sticking with the plan. The stock market can go up and down a lot in the short term, but over many years, it tends to grow. That's why it's important not to panic and sell when things look bad. Instead, we should keep investing regularly and let the power of time work in our favor. By doing this, we can build wealth slowly but surely, and reach your financial goals without taking big risks.
 
@@ -66,7 +66,7 @@ I also help you plan for the future so you can keep your taxes low over time. Th
 
 ## How do you stay updated with the latest financial regulations and market trends?
 
-I stay updated with the latest financial regulations and market trends by reading a lot. I look at news websites, financial magazines, and reports from government agencies every day. This helps me know about new laws or changes in the rules that might affect your money. I also read books and articles written by experts in finance to learn more about what's happening in the world of money.
+I stay updated with the latest financial regulations and market trends by reading a lot. I look at news websites, financial magazines, and reports from government agencies every day. This helps me know about new laws or changes in the rules that might affect your money. I also read [books](/wiki/algo-trading-books) and articles written by experts in finance to learn more about what's happening in the world of money.
 
 I also go to meetings and conferences where people talk about the latest in finance. These events are good because I can learn from other financial advisors and hear from people who make the rules. Plus, I use special computer programs and tools that give me up-to-date information on how the stock market and other investments are doing. By doing all these things, I can give you the best advice based on what's happening right now.
 

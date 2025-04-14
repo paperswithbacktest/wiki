@@ -18,7 +18,7 @@ This concept is important because it helps explain how people make choices. If t
 
 Marginal utility applies to income by showing how the value of each additional dollar changes for someone. Think of it like this: if you're earning very little money, getting an extra dollar can be really important. It might mean you can buy food or pay for a basic need. So, the marginal utility of that dollar is high because it makes a big difference in your life.
 
-As your income grows, the extra dollars you earn might not be as important. For example, if you're already earning enough to cover your basic needs, an extra dollar might not change your life much. You might use it to buy something nice but not necessary. So, the marginal utility of that dollar is lower because it doesn't add as much to your happiness or well-being. This is why people often say that money can't buy happiness beyond a certain point – the marginal utility of income decreases as you earn more.
+As your income grows, the extra dollars you earn might not be as important. For example, if you're already [earning](/wiki/earning-announcement) enough to cover your basic needs, an extra dollar might not change your life much. You might use it to buy something nice but not necessary. So, the marginal utility of that dollar is lower because it doesn't add as much to your happiness or well-being. This is why people often say that money can't buy happiness beyond a certain point – the marginal utility of income decreases as you earn more.
 
 ## Why is the concept of marginal utility of income important in economics?
 
@@ -100,7 +100,7 @@ Overall, marginal utility serves as a fundamental economic concept that shapes t
 
 ## How can utility concepts be incorporated into algorithmic trading?
 
-Utility concepts play a critical role in transforming algorithmic trading strategies to better align with investor preferences and risk profiles. By incorporating utility functions into trading algorithms, these systems can evaluate investment opportunities not just on potential return, but also in terms of risk-adjusted satisfaction. This shift from maximizing monetary return to maximizing expected utility represents a sophisticated approach to making trading decisions that are congruent with investor goals.
+Utility concepts play a critical role in transforming [algorithmic trading](/wiki/algorithmic-trading) strategies to better align with investor preferences and risk profiles. By incorporating utility functions into trading algorithms, these systems can evaluate investment opportunities not just on potential return, but also in terms of risk-adjusted satisfaction. This shift from maximizing monetary return to maximizing expected utility represents a sophisticated approach to making trading decisions that are congruent with investor goals.
 
 ### Utility Functions in Trading Algorithms
 

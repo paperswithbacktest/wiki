@@ -28,7 +28,7 @@ The Markowitz model looks at how different investments move together. If two inv
 
 ## How does the Markowitz model define risk?
 
-The Markowitz model defines risk as the chance that your investments might not give you the returns you expect. It looks at how much the value of your investments might go up and down. This is called volatility. If an investment's value changes a lot, it is considered more risky. The model measures this risk using something called standard deviation, which tells you how much the returns of an investment might differ from what you expect.
+The Markowitz model defines risk as the chance that your investments might not give you the returns you expect. It looks at how much the value of your investments might go up and down. This is called [volatility](/wiki/volatility-trading-strategies). If an investment's value changes a lot, it is considered more risky. The model measures this risk using something called standard deviation, which tells you how much the returns of an investment might differ from what you expect.
 
 The Markowitz model also considers how different investments move together, which is called correlation. If two investments tend to go up and down at the same time, they are correlated. If they move in opposite directions, they are not correlated. By choosing investments that are not correlated, you can reduce the overall risk of your portfolio. This helps you build a portfolio that balances the risk and reward in a way that works best for you.
 
@@ -42,7 +42,7 @@ The Markowitz model helps you figure out the best mix of investments for your po
 
 The efficient frontier is a key idea in the Markowitz model. It's a line on a graph that shows the best mix of investments you can have. This line helps you see which portfolios give you the highest return for the amount of risk you are willing to take. Any portfolio that falls on the efficient frontier is considered the best choice because it offers the highest return for a given level of risk.
 
-Imagine you have a graph where the x-axis shows risk and the y-axis shows return. The efficient frontier is the curve that forms the top edge of all the possible portfolios you could make. Portfolios that are below this line are not as good because they either have too much risk for the return they offer or too little return for the risk they carry. By choosing a portfolio on the efficient frontier, you can make the smartest decision about where to put your money.
+Imagine you have a graph where the x-axis shows risk and the y-axis shows return. The efficient frontier is the curve that forms the top edge of all the possible portfolios you could make. Portfolios that are below this line are not as good because they either have too much risk for the return they offer or too little return for the risk they [carry](/wiki/carry-trading). By choosing a portfolio on the efficient frontier, you can make the smartest decision about where to put your money.
 
 ## How do you calculate expected return in the Markowitz model?
 

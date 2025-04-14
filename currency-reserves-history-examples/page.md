@@ -82,7 +82,7 @@ One of the biggest challenges in managing global currency reserves will be deali
 
 ## What is the understanding of Foreign Exchange and Currency Reserves?
 
-Foreign exchange reserves are crucial assets held by central banks predominantly in foreign currencies. These reserves serve as a foundational support for national liabilities and play a significant role in the execution of monetary policy. The typical composition of these reserves includes a mix of banknotes, financial deposits, and government securities, each chosen for their liquidity and stability.
+Foreign exchange reserves are crucial assets held by central banks predominantly in foreign currencies. These reserves serve as a foundational support for national liabilities and play a significant role in the execution of monetary policy. The typical composition of these reserves includes a mix of banknotes, financial deposits, and government securities, each chosen for their [liquidity](/wiki/liquidity-risk-premium) and stability.
 
 The diversification of currency holdings within foreign exchange reserves is a strategic practice employed by central banks. This diversification acts as a buffer against economic shocks and minimizes the risks associated with fluctuations in both domestic and international markets. An illustrative example is the widespread holding of reserves in U.S. dollars (USD) by many countries. The USD is favored due to its global stability and high convertibility, which provide a reliable protection mechanism during economic turbulence.
 

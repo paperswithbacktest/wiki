@@ -46,7 +46,7 @@ Net income is the most important profit metric because it shows the real profit 
 
 Gross profit margins can be affected by many things. One big thing is the cost of the products the business buys to sell. If the cost goes up because of higher prices from suppliers or because the business has to pay more to get the products, the gross profit margin can go down. Another thing is how much the business charges for its products. If the business can't charge enough to cover the cost and make a profit, the gross profit margin will be low. Also, if the business has to offer big discounts or deals to sell its products, that can lower the gross profit margin too.
 
-Another factor is how much the business can sell. If the business sells a lot of products, it might be able to buy them at a lower cost because it's buying in bulk. This can help increase the gross profit margin. But if the business doesn't sell enough, it might have to lower prices to get rid of the products, which can hurt the gross profit margin. Competition is also important. If there are a lot of other businesses selling similar products, the business might have to lower its prices to stay competitive, which can make the gross profit margin smaller.
+Another [factor](/wiki/factor-investing) is how much the business can sell. If the business sells a lot of products, it might be able to buy them at a lower cost because it's buying in bulk. This can help increase the gross profit margin. But if the business doesn't sell enough, it might have to lower prices to get rid of the products, which can hurt the gross profit margin. Competition is also important. If there are a lot of other businesses selling similar products, the business might have to lower its prices to stay competitive, which can make the gross profit margin smaller.
 
 ## How can operating expenses impact the operating profit?
 
@@ -124,7 +124,7 @@ Bergstra, J., et al. 'Algorithms for Hyper-Parameter Optimization.' This paper d
 
 Lopez de Prado, Marcos. 'Advances in Financial Machine Learning.' This book provides an in-depth examination of the application of machine learning techniques in finance. It includes methodologies for designing efficient trading strategies and analyzing financial data.
 
-Jansen, Stefan. 'Machine Learning for Algorithmic Trading.' A comprehensive resource detailing how machine learning can be applied to develop algorithmic trading systems. It offers practical insights and strategies for building and optimizing trading algorithms using Python.
+Jansen, Stefan. 'Machine Learning for Algorithmic Trading.' A comprehensive resource detailing how machine learning can be applied to develop [algorithmic trading](/wiki/algorithmic-trading) systems. It offers practical insights and strategies for building and optimizing trading algorithms using Python.
 
 Chan, Ernest P. 'Quantitative Trading: How to Build Your Own Algorithmic Trading Business.' This book serves as a guide to establishing and managing a [quantitative trading](/wiki/quantitative-trading) business, offering insights into different trading strategies and risk management techniques.
 

@@ -22,7 +22,7 @@ To actually calculate the correlation coefficient, you need to do some math. Fir
 
 ## Why is understanding correlation important in backtesting?
 
-Understanding correlation is really important when you're backtesting a trading strategy. It helps you see how different investments move together. If you're looking at a stock and its underlying asset, knowing their correlation tells you if they go up and down together or if they move in opposite directions. This is key because it can show you how risky your strategy might be. If all your investments move the same way, you could lose a lot of money if the market goes down. But if they move differently, it might help protect your money.
+Understanding correlation is really important when you're [backtesting](/wiki/backtesting) a trading strategy. It helps you see how different investments move together. If you're looking at a stock and its underlying asset, knowing their correlation tells you if they go up and down together or if they move in opposite directions. This is key because it can show you how risky your strategy might be. If all your investments move the same way, you could lose a lot of money if the market goes down. But if they move differently, it might help protect your money.
 
 When you're testing your strategy with past data, looking at correlation helps you make smarter choices. For example, if you find that a stock and its underlying have a high positive correlation, you might not want to put all your money in them. That's because if one goes down, the other likely will too. By choosing investments with lower or negative correlations, you can spread out your risk. This way, your strategy might work better over time because different parts of your portfolio can balance each other out.
 
@@ -78,7 +78,7 @@ Looking at different time frames also helps you see if your strategy is strong e
 
 ## How can machine learning be applied to enhance correlation analysis in backtesting?
 
-Machine learning can make correlation analysis in backtesting a lot better. It can look at huge amounts of data and find patterns that might be hard for people to see. For example, machine learning can use algorithms to figure out how different investments move together over time. This can help you see if the way they move together changes a lot or stays the same. By using machine learning, you can make your strategy stronger because it can handle different situations in the market.
+Machine learning can make correlation analysis in backtesting a lot better. It can look at huge amounts of data and find patterns that might be hard for people to see. For example, [machine learning](/wiki/machine-learning) can use algorithms to figure out how different investments move together over time. This can help you see if the way they move together changes a lot or stays the same. By using machine learning, you can make your strategy stronger because it can handle different situations in the market.
 
 Another way machine learning helps is by predicting how correlations might change in the future. It can learn from past data and make guesses about what might happen next. This means you can test your strategy not just with what happened before, but also with what might happen. By doing this, you can make sure your strategy is ready for different scenarios. This makes your backtesting more accurate and your strategy more likely to work well over time.
 

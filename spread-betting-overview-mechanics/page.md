@@ -48,7 +48,7 @@ The same idea applies if you go short. If you bet $5 per point and the spread is
 
 Spread betting can be risky because you can lose more money than you bet. If you bet $5 per point and the result is very different from what you thought, you could lose a lot. For example, if you bet on a team to win by more than the spread and they lose by a lot, you could lose a lot of money. This is different from regular betting where you can only lose what you bet.
 
-Another risk is that spread betting can be hard to understand. It's not just about picking a winner; you have to guess how much a team will win or lose by. This can be tricky and if you get it wrong, you lose money. Also, spread betting can make you want to bet more because it's exciting, but this can lead to bigger losses if you're not careful.
+Another risk is that spread betting can be hard to understand. It's not just about [picking](/wiki/asset-class-picking) a winner; you have to guess how much a team will win or lose by. This can be tricky and if you get it wrong, you lose money. Also, spread betting can make you want to bet more because it's exciting, but this can lead to bigger losses if you're not careful.
 
 ## What strategies can be used to manage risk in spread betting?
 

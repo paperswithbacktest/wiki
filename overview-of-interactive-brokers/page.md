@@ -18,7 +18,7 @@ They offer a lot of different services. You can trade stocks, options, futures, 
 
 To open an account with Interactive Brokers, you first need to go to their website. Look for the button that says "Open Account" and click on it. You'll need to fill out some forms with your personal information, like your name, address, and social security number. Make sure you have all this information ready before you start. After you fill out the forms, you'll need to agree to their terms and conditions.
 
-Once you've submitted your application, Interactive Brokers will review it. This might take a few days. If everything looks good, they'll send you an email to let you know your account is open. You'll then need to fund your account, which means putting money into it so you can start trading. You can do this by transferring money from your bank account. After your account is funded, you can start using Interactive Brokers to buy and sell investments.
+Once you've submitted your application, [Interactive Brokers](/wiki/interactive-brokers-api) will review it. This might take a few days. If everything looks good, they'll send you an email to let you know your account is open. You'll then need to fund your account, which means putting money into it so you can start trading. You can do this by transferring money from your bank account. After your account is funded, you can start using Interactive Brokers to buy and sell investments.
 
 ## What are the different types of accounts available at Interactive Brokers?
 
@@ -28,7 +28,7 @@ For businesses, Interactive Brokers provides accounts like joint accounts for co
 
 ## What are the fees and commissions associated with using Interactive Brokers?
 
-Interactive Brokers has different fees and commissions depending on what you're trading and how much you're trading. For stocks and ETFs, they charge a minimum of $1 per trade, but if you trade a lot, the fee can go down to as low as 0.08 cents per share. For options, the fee is $0.65 per contract, but it can be less if you trade a lot. If you're trading futures, the fee is $0.25 to $0.85 per contract. For forex, they charge a small fee based on how much you're trading, and it can be as low as 0.2 pips.
+Interactive Brokers has different fees and commissions depending on what you're trading and how much you're trading. For stocks and ETFs, they charge a minimum of $1 per trade, but if you trade a lot, the fee can go down to as low as 0.08 cents per share. For options, the fee is $0.65 per contract, but it can be less if you trade a lot. If you're trading futures, the fee is $0.25 to $0.85 per contract. For [forex](/wiki/forex-system), they charge a small fee based on how much you're trading, and it can be as low as 0.2 pips.
 
 They also have some other fees you should know about. If you don't trade much, you might have to pay an inactivity fee of $20 every three months. There's also a fee for transferring money out of your account, which can be around $10. If you need to talk to someone at Interactive Brokers for help, there might be a fee for that too, but it depends on what kind of help you need. Overall, Interactive Brokers tries to keep their fees low, especially if you trade a lot.
 
@@ -48,7 +48,7 @@ They also have a chat feature on their website where you can talk to someone in 
 
 Interactive Brokers takes security very seriously to keep your information safe. They use strong encryption to protect your data when you're using their website or trading platform. This means that your personal information and trading details are turned into a code that's hard for anyone else to read. They also have firewalls and other security systems to stop hackers from getting into their systems. Plus, they keep an eye on their systems all the time to catch any problems quickly.
 
-They also have rules to make sure only you can access your account. You'll need to use a strong password and might have to answer security questions or use two-factor authentication, which means you need a code sent to your phone to log in. Interactive Brokers follows strict rules and laws about keeping your data safe, so you can feel good knowing they're doing a lot to protect you.
+They also have rules to make sure only you can access your account. You'll need to use a strong password and might have to answer security questions or use two-[factor](/wiki/factor-investing) authentication, which means you need a code sent to your phone to log in. Interactive Brokers follows strict rules and laws about keeping your data safe, so you can feel good knowing they're doing a lot to protect you.
 
 ## What are the margin requirements and leverage options at Interactive Brokers?
 
@@ -76,7 +76,7 @@ Compared to other firms, Interactive Brokers is known for being good for people 
 
 ## What are some advanced strategies that expert traders can implement using Interactive Brokers' platform?
 
-Expert traders can use Interactive Brokers' platform to implement advanced strategies like algorithmic trading. This means they can write computer programs that automatically buy and sell investments based on rules they set up. For example, they might create an algorithm that buys a stock when its price goes below a certain level and sells it when the price goes up by a certain amount. This can help them trade more often and take advantage of small price changes without having to watch the market all the time. Interactive Brokers' API makes it easy to connect these programs to their trading platform, so expert traders can use their own custom strategies.
+Expert traders can use Interactive Brokers' platform to implement advanced strategies like [algorithmic trading](/wiki/algorithmic-trading). This means they can write computer programs that automatically buy and sell investments based on rules they set up. For example, they might create an algorithm that buys a stock when its price goes below a certain level and sells it when the price goes up by a certain amount. This can help them trade more often and take advantage of small price changes without having to watch the market all the time. Interactive Brokers' API makes it easy to connect these programs to their trading platform, so expert traders can use their own custom strategies.
 
 Another advanced strategy is options trading, where traders can use tools like the OptionTrader on Interactive Brokers' platform. They can set up complex options strategies like spreads, straddles, and iron condors to make money from different market conditions. For example, a trader might use a straddle to bet on a big move in a stock's price without knowing which way it will go. The Risk Navigator tool helps them see how much risk they're taking with these strategies, so they can adjust their trades to manage that risk. These tools make it easier for expert traders to try out different options strategies and see how they might work out.
 

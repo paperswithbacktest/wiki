@@ -30,7 +30,7 @@ So, changing tick sizes is all about finding the right balance. It's about makin
 
 ## How do tick sizes impact liquidity?
 
-Tick sizes can affect how easy it is to buy and sell things in the market, which is called liquidity. If the tick size is small, like one cent, it can make it easier for traders to find the price they want. This means more people can trade, and the market can become more liquid. More trades happening means it's easier to buy or sell without waiting too long or moving the price too much.
+Tick sizes can affect how easy it is to buy and sell things in the market, which is called [liquidity](/wiki/liquidity-risk-premium). If the tick size is small, like one cent, it can make it easier for traders to find the price they want. This means more people can trade, and the market can become more liquid. More trades happening means it's easier to buy or sell without waiting too long or moving the price too much.
 
 On the other hand, if the tick size is big, like ten cents, it can make the market less liquid. With bigger steps in price, it can be harder for traders to agree on a price. This might mean fewer trades happen, and it can take longer to buy or sell. A bigger tick size can make the market feel slower and less active, which can affect how easy it is to trade.
 
@@ -38,7 +38,7 @@ So, the tick size is important for liquidity. A smaller tick size can make the m
 
 ## Can tick size changes influence market volatility?
 
-Yes, changing the tick size can affect how much the market moves around, which we call volatility. If the tick size is small, like one cent, the price can change in smaller steps. This can make the market more active, with lots of little changes happening all the time. Traders might use computers to make quick trades and take advantage of these small changes, which can make the market feel more up and down. So, a smaller tick size can lead to more volatility because the price can move more often.
+Yes, changing the tick size can affect how much the market moves around, which we call [volatility](/wiki/volatility-trading-strategies). If the tick size is small, like one cent, the price can change in smaller steps. This can make the market more active, with lots of little changes happening all the time. Traders might use computers to make quick trades and take advantage of these small changes, which can make the market feel more up and down. So, a smaller tick size can lead to more volatility because the price can move more often.
 
 On the other hand, if the tick size is big, like ten cents, it can make the market less busy. The price can only change in bigger steps, so there might be fewer trades happening. This can make the market feel more stable, with less jumping around. A bigger tick size can help calm things down and make the market less volatile because it's harder for the price to move quickly. So, the size of the tick can really change how wild or calm the market feels.
 

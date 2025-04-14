@@ -84,7 +84,7 @@ Another useful tool is machine learning. This kind of computer program can learn
 
 ## What economic indicators influence interest rates?
 
-Understanding the dynamics of key economic indicators is essential for forecasting interest rate movements and predicting the occurrence of a bull steepener, a scenario where short-term interest rates decline more rapidly than long-term rates. Inflation, employment data, and geopolitical events are primary indicators affecting interest rate movements. Each of these elements influences the yield curve's behavior, ultimately impacting the financial markets.
+Understanding the dynamics of key economic indicators is essential for forecasting [interest rate](/wiki/interest-rate-trading-strategies) movements and predicting the occurrence of a bull steepener, a scenario where short-term interest rates decline more rapidly than long-term rates. Inflation, employment data, and geopolitical events are primary indicators affecting interest rate movements. Each of these elements influences the yield curve's behavior, ultimately impacting the financial markets.
 
 Inflation is a crucial determinant of interest rate levels. Central banks, such as the Federal Reserve, monitor inflation closely, adjusting interest rates to maintain price stability. Higher inflation typically prompts a central bank to increase interest rates to curb spending, while lower inflation can lead to rate cuts to stimulate economic activity. As inflation influences both short-term and long-term interest rates, monitoring inflation trends is vital for understanding changes in the yield curve. Expected inflation can be modeled using the Fisher Equation:
 

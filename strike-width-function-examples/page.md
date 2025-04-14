@@ -18,7 +18,7 @@ In different fonts, the strike width can vary a lot. For example, a bold font ha
 
 Strike width is important in typography because it affects how easy it is to read text and how it looks. When the lines of the letters are too thin, they can be hard to see, especially on screens or if the text is small. If the lines are too thick, the letters can look heavy and crowded together, which can also make reading harder. So, choosing the right strike width helps make sure that people can read the text comfortably.
 
-The strike width also helps set the mood or style of the text. A font with a thin strike width might look modern and elegant, while a font with a thick strike width might look strong and bold. This can be important for things like logos, posters, or any design where you want to send a certain message or feeling. By picking the right strike width, designers can make their work look the way they want and help it stand out.
+The strike width also helps set the mood or style of the text. A font with a thin strike width might look modern and elegant, while a font with a thick strike width might look strong and bold. This can be important for things like logos, posters, or any design where you want to send a certain message or feeling. By [picking](/wiki/asset-class-picking) the right strike width, designers can make their work look the way they want and help it stand out.
 
 ## How does strike width affect readability?
 
@@ -98,7 +98,7 @@ The maximum loss is limited to the net premium paid if the spread expires worthl
 
 #### Example 2: Implementing a Straddle Width Setting in Index Options to Determine Strike Selection
 
-A straddle involves buying a call and a put option with the same strike price and expiration date. For index options, selecting the optimal strike price can significantly impact strategy performance. The concept of straddle width combines the premiums of both options to give insights about market expectations of volatility.
+A straddle involves buying a call and a put option with the same strike price and expiration date. For index options, selecting the optimal strike price can significantly impact strategy performance. The concept of straddle width combines the premiums of both options to give insights about market expectations of [volatility](/wiki/volatility-trading-strategies).
 
 To set a straddle in an index, you might choose the at-the-money strike, which typically reflects current market sentiment. Consider an index at 3,000 points. Purchasing a call and a put at this strike price results in a combined premium, which can be computed as:
 
@@ -136,7 +136,7 @@ for idx, row in data.iterrows():
 
 By adjusting strike width according to metrics like volatility, traders can theoretically optimize their strategy's performance through varying market conditions. This flexibility can enhance the robustness and adaptability of strategy outputs. 
 
-Understanding and applying strike width in these ways helps traders refine their approaches and align strategies with their risk-reward profiles in algorithmic trading.
+Understanding and applying strike width in these ways helps traders refine their approaches and align strategies with their risk-reward profiles in [algorithmic trading](/wiki/algorithmic-trading).
 
 ## References & Further Reading
 

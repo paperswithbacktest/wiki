@@ -131,7 +131,7 @@ Volatility in financial markets reflects the degree of variation in asset prices
 
 **Simplified Calculation Methods: Historical Volatility**
 
-Historical volatility is one of the fundamental approaches to understanding market fluctuations. It measures the dispersion of past returns of a financial instrument and is typically expressed as the standard deviation of these returns over a specified period. Historical volatility can be calculated using the following formula:
+Historical volatility is one of the fundamental approaches to understanding market fluctuations. It measures the [dispersion](/wiki/dispersion-trading) of past returns of a financial instrument and is typically expressed as the standard deviation of these returns over a specified period. Historical volatility can be calculated using the following formula:
 
 $$
 \sigma = \sqrt{\frac{\sum_{i=1}^{N}(R_i - \mu)^2}{N-1}}

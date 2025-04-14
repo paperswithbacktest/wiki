@@ -88,7 +88,7 @@ You can also learn about new developments by listening to podcasts or watching v
 
 ## What is Understanding Finding and Development (F&D) in Energy Exploration?
 
-Finding and Development (F&D) costs are a crucial metric for assessing the financial feasibility of exploration and development activities in the energy sector. These costs encompass all expenses associated with discovering and developing new properties to add to commodity reserves. They are routinely calculated by dividing the total expenditures during a specific period by the volume of commodities discovered within that timeframe. For instance, in the oil industry, F&D costs are typically reported on a per barrel basis, whereas, for natural gas, they are expressed per cubic foot.
+Finding and Development (F&D) costs are a crucial metric for assessing the financial feasibility of exploration and development activities in the energy sector. These costs encompass all expenses associated with discovering and developing new properties to add to commodity reserves. They are routinely calculated by dividing the total expenditures during a specific period by the [volume](/wiki/volume-trading-strategy) of commodities discovered within that timeframe. For instance, in the oil industry, F&D costs are typically reported on a per barrel basis, whereas, for natural gas, they are expressed per cubic foot.
 
 Mathematically, F&D costs can be represented as:
 

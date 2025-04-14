@@ -28,7 +28,7 @@ Each type of security has its own features. T-bills are sold at a discount and d
 
 ## How does the bidding process work on TreasuryDirect?
 
-When you want to buy Treasury securities on TreasuryDirect, you can choose between two types of bids: non-competitive and competitive. A non-competitive bid is the easier way to go. You just tell TreasuryDirect how much money you want to invest, and you're guaranteed to get the securities. You'll get them at the same interest rate everyone else gets, which is set at the auction. This is good if you just want to invest without worrying about the details.
+When you want to buy Treasury securities on TreasuryDirect, you can choose between two types of bids: non-competitive and competitive. A non-competitive bid is the easier way to go. You just tell TreasuryDirect how much money you want to invest, and you're guaranteed to get the securities. You'll get them at the same [interest rate](/wiki/interest-rate-trading-strategies) everyone else gets, which is set at the auction. This is good if you just want to invest without worrying about the details.
 
 A competitive bid is a bit more complicated. You have to say what interest rate you're willing to accept. If your rate is lower than or the same as the rate set at the auction, you'll get the securities. But if your rate is too high, you might not get any. Competitive bidding is for people who want to try to get a better deal, but it's riskier because you might not get the securities if your bid is too high. Most people on TreasuryDirect use non-competitive bids because they're simpler and safer.
 

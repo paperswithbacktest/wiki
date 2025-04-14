@@ -22,9 +22,9 @@ On the other hand, if you choose safer investments, like government bonds, you'r
 
 ## What are the different types of investment risks?
 
-Investment risks come in different forms, and understanding them can help you make better choices. One type of risk is market risk, which means the whole market can go down and affect all investments. This can happen because of big events like a recession or a sudden change in the economy. Another risk is interest rate risk, which happens when the cost of borrowing money changes. If interest rates go up, the value of bonds can drop because new bonds will pay more interest. There's also inflation risk, where the prices of things go up over time, and your money doesn't buy as much as it used to.
+Investment risks come in different forms, and understanding them can help you make better choices. One type of risk is market risk, which means the whole market can go down and affect all investments. This can happen because of big events like a recession or a sudden change in the economy. Another risk is [interest rate](/wiki/interest-rate-trading-strategies) risk, which happens when the cost of borrowing money changes. If interest rates go up, the value of bonds can drop because new bonds will pay more interest. There's also inflation risk, where the prices of things go up over time, and your money doesn't buy as much as it used to.
 
-Another important risk is liquidity risk, which means you might not be able to sell your investment quickly without losing money. This can happen with things like real estate or certain stocks that don't trade often. Credit risk is another type, where the company or government you lent money to might not be able to pay you back. This is more common with bonds from companies that aren't doing well. Finally, there's currency risk, which comes into play if you invest in another country. If that country's money loses value compared to your own, your investment could be worth less when you convert it back.
+Another important risk is [liquidity](/wiki/liquidity-risk-premium) risk, which means you might not be able to sell your investment quickly without losing money. This can happen with things like real estate or certain stocks that don't trade often. Credit risk is another type, where the company or government you lent money to might not be able to pay you back. This is more common with bonds from companies that aren't doing well. Finally, there's currency risk, which comes into play if you invest in another country. If that country's money loses value compared to your own, your investment could be worth less when you convert it back.
 
 Understanding these different types of risks can help you pick investments that match how much risk you're willing to take. Each type of investment comes with its own set of risks, and knowing them can help you build a balanced portfolio that fits your goals and comfort level with risk.
 
@@ -44,7 +44,7 @@ The relationship between risk and time horizon also means that as you get closer
 
 Diversification is a way to manage risk in your investments. It means spreading your money across different types of investments instead of putting it all in one place. Imagine you have a basket of eggs. If you put all your eggs in one basket and drop it, you lose all your eggs. But if you spread your eggs into different baskets, dropping one basket won't ruin all your eggs. In the same way, if one of your investments does badly, it won't hurt your whole portfolio as much because you have other investments that might do well.
 
-When you diversify, you're not just picking different stocks. You can also invest in different things like bonds, real estate, or even different countries. This way, if something bad happens in one area, like a drop in the stock market, your other investments might not be affected as much. Diversification helps smooth out the ups and downs of your investments, making it less likely that you'll lose a lot of money all at once. It's like having a safety net that can help protect your money from big losses.
+When you diversify, you're not just [picking](/wiki/asset-class-picking) different stocks. You can also invest in different things like bonds, real estate, or even different countries. This way, if something bad happens in one area, like a drop in the stock market, your other investments might not be affected as much. Diversification helps smooth out the ups and downs of your investments, making it less likely that you'll lose a lot of money all at once. It's like having a safety net that can help protect your money from big losses.
 
 ## How do different asset classes compare in terms of risk and return?
 
@@ -102,7 +102,7 @@ where:
 - $R_m$ is the return of the market index.
 
 ### Beta
-Beta measures an investment's volatility in relation to the overall market. A beta of 1 indicates that the investment's price moves with the market. A beta greater than 1 signifies greater volatility than the market, while a beta less than 1 suggests less volatility. Beta is crucial for understanding an investment’s market risk. It is calculated using:
+Beta measures an investment's [volatility](/wiki/volatility-trading-strategies) in relation to the overall market. A beta of 1 indicates that the investment's price moves with the market. A beta greater than 1 signifies greater volatility than the market, while a beta less than 1 suggests less volatility. Beta is crucial for understanding an investment’s market risk. It is calculated using:
 
 $$
 \beta = \frac{\text{Cov}(R_i, R_m)}{\text{Var}(R_m)}
@@ -166,7 +166,7 @@ A stock investor fearing a market downturn might purchase put options on their h
 
 ### Algorithmic Trading and Risk Management
 
-In algorithmic trading, setting predefined risk limits and employing stop-loss mechanisms are vital to controlling downside risk. Algorithms can be programmed to automatically execute trades when certain conditions are met, such as a stock falling below or rising above a specified price threshold.
+In [algorithmic trading](/wiki/algorithmic-trading), setting predefined risk limits and employing stop-loss mechanisms are vital to controlling downside risk. Algorithms can be programmed to automatically execute trades when certain conditions are met, such as a stock falling below or rising above a specified price threshold.
 
 **Python Example:**
 

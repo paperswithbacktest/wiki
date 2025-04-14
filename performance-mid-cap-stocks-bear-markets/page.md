@@ -36,7 +36,7 @@ These examples show that mid-cap stocks can be more affected by bear markets tha
 
 ## What are the key factors that influence mid-cap stocks' performance during bear markets?
 
-During bear markets, mid-cap stocks are influenced by several key factors. One big factor is how much money people are willing to spend. When the economy is doing badly, people and businesses cut back on spending, which can hurt mid-cap companies more than bigger ones because they often rely more on the health of the economy. Another factor is how much debt the company has. If a mid-cap company has a lot of debt, it might have a harder time paying it back during tough times, which can make its stock price fall more.
+During bear markets, mid-cap stocks are influenced by several key factors. One big [factor](/wiki/factor-investing) is how much money people are willing to spend. When the economy is doing badly, people and businesses cut back on spending, which can hurt mid-cap companies more than bigger ones because they often rely more on the health of the economy. Another factor is how much debt the company has. If a mid-cap company has a lot of debt, it might have a harder time paying it back during tough times, which can make its stock price fall more.
 
 Another important factor is the industry the mid-cap company is in. Some industries, like technology or retail, might be hit harder during a bear market because people stop buying as much. If a mid-cap company is in one of these industries, its stock might go down more than others. Finally, how well the company is run can make a big difference. If the leaders of the company make good decisions and manage money well, the company might do better during a bear market, which can help its stock price not fall as much.
 
@@ -44,7 +44,7 @@ Another important factor is the industry the mid-cap company is in. Some industr
 
 Mid-cap stocks are usually more volatile than large-cap stocks but less volatile than small-cap stocks during bear markets. This means their prices can go up and down a lot, but not as much as small-cap stocks. Large-cap stocks are often more stable because they are bigger companies with more resources and less risk. They can handle tough economic times better, so their stock prices don't swing as wildly. On the other hand, small-cap stocks are smaller and can be riskier, so their prices can move a lot more when the market is going down.
 
-During a bear market, mid-cap stocks can be hit hard because they are still growing and don't have as much of a safety net as large companies. When people start selling their stocks because they're worried, mid-cap stocks can lose value faster than large-cap stocks but slower than small-cap stocks. This makes them a middle ground in terms of volatility, where investors might see bigger swings in price than with large-caps but not as extreme as with small-caps.
+During a bear market, mid-cap stocks can be hit hard because they are still growing and don't have as much of a safety net as large companies. When people start selling their stocks because they're worried, mid-cap stocks can lose value faster than large-cap stocks but slower than small-cap stocks. This makes them a middle ground in terms of [volatility](/wiki/volatility-trading-strategies), where investors might see bigger swings in price than with large-caps but not as extreme as with small-caps.
 
 ## What strategies can investors use to mitigate risks when investing in mid-cap stocks during bear markets?
 
@@ -62,7 +62,7 @@ On the other hand, if a mid-cap company is in an industry that does okay during 
 
 Liquidity is really important for mid-cap stocks during bear markets. It means how easy it is to buy or sell a stock without changing its price too much. In a bear market, when people are selling a lot of stocks, it can be harder to sell mid-cap stocks quickly because they are not traded as often as big company stocks. This can make their prices drop even more because there might not be enough people wanting to buy them at the same time.
 
-Because mid-cap stocks are not as liquid as large-cap stocks, they can be riskier during tough times. If a lot of people want to sell their mid-cap stocks at the same time, it can be hard to find buyers, and the price can go down a lot. This is why investors need to think about liquidity when they are choosing which mid-cap stocks to invest in during a bear market. It's a big part of how well these stocks can handle the ups and downs of the market.
+Because mid-cap stocks are not as liquid as large-cap stocks, they can be riskier during tough times. If a lot of people want to sell their mid-cap stocks at the same time, it can be hard to find buyers, and the price can go down a lot. This is why investors need to think about [liquidity](/wiki/liquidity-risk-premium) when they are choosing which mid-cap stocks to invest in during a bear market. It's a big part of how well these stocks can handle the ups and downs of the market.
 
 ## How do macroeconomic indicators correlate with the performance of mid-cap stocks in bear markets?
 
@@ -107,7 +107,7 @@ In summary, the choice between mid-cap and large-cap stocks should align with an
 
 The U.S. Securities and Exchange Commission provides a comprehensive definition and explanation of bear markets, which is essential for understanding market cycles and their impact on different asset classes, including mid-cap stocks. This resource can be accessed through the SEC's official website.
 
-Several case studies explore the influence of algorithmic trading on mid-cap stocks. These studies often highlight how technological advancements have altered market behaviors and provided new opportunities for strategic trade executions. Examples include reports by financial technology firms and independent market analysts, which are sometimes available in industry whitepapers or financial journals.
+Several case studies explore the influence of [algorithmic trading](/wiki/algorithmic-trading) on mid-cap stocks. These studies often highlight how technological advancements have altered market behaviors and provided new opportunities for strategic trade executions. Examples include reports by financial technology firms and independent market analysts, which are sometimes available in industry whitepapers or financial journals.
 
 Academic research offers insights into the performance of mid-cap stocks during various economic cycles. These papers typically assess historical data to identify performance patterns and factors influencing such outcomes. Journals like The Journal of Finance or The Financial Analysts Journal often publish peer-reviewed articles on these topics, examining data spanning multiple decades to offer robust analyses of mid-cap stock movements.
 

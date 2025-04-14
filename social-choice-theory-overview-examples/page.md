@@ -56,7 +56,7 @@ This criterion is important because it tries to make sure the winner is the one 
 
 Strategic voting happens when people vote in a way that isn't their true preference because they want to help their favorite candidate win or stop someone they don't like from winning. For example, if you really like Candidate A but think they won't win, you might vote for Candidate B instead because you think B has a better chance of beating the candidate you really don't want to win. This kind of voting can change election results because it doesn't show what people really want.
 
-The implications of strategic voting are big. It can make voting systems less fair because the results don't show what most people truly prefer. It can also make people feel like they have to play a game instead of just picking their favorite. This can lead to less trust in the voting system and make people think elections aren't honest. Because of this, people who study voting systems try to find ways to make strategic voting less of a problem, so elections can be as fair as possible.
+The implications of strategic voting are big. It can make voting systems less fair because the results don't show what most people truly prefer. It can also make people feel like they have to play a game instead of just [picking](/wiki/asset-class-picking) their favorite. This can lead to less trust in the voting system and make people think elections aren't honest. Because of this, people who study voting systems try to find ways to make strategic voting less of a problem, so elections can be as fair as possible.
 
 ## What are some real-world applications of Social Choice Theory?
 

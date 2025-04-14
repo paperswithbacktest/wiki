@@ -78,7 +78,7 @@ In other countries, the rules can be different. For example, in the European Uni
 
 ## What strategies can investors use to minimize the impact of high expense ratios on their investment returns?
 
-Investors can minimize the impact of high expense ratios by choosing funds with lower fees. One good way to do this is by looking at index funds or ETFs, which usually have lower expense ratios than actively managed funds. These funds track a market index like the S&P 500 and don't need a team of people to pick investments, so they cost less to run. By picking these cheaper funds, investors can keep more of their money and let it grow over time.
+Investors can minimize the impact of high expense ratios by choosing funds with lower fees. One good way to do this is by looking at index funds or ETFs, which usually have lower expense ratios than actively managed funds. These funds track a market index like the S&P 500 and don't need a team of people to pick investments, so they cost less to run. By [picking](/wiki/asset-class-picking) these cheaper funds, investors can keep more of their money and let it grow over time.
 
 Another strategy is to pay attention to the size of the fund. Bigger funds often have lower expense ratios because they can spread their costs over more money. So, if you're choosing between two similar funds, the one with more money in it might have a lower expense ratio. Also, it's smart to check the expense ratio every now and then because it can change. If it goes up a lot, you might want to think about switching to a different fund with lower fees to keep more of your investment returns.
 

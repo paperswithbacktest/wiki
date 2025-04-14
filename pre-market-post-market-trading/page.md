@@ -58,7 +58,7 @@ Another risk is that there's less information available during these times. The 
 
 ## How does liquidity affect trading during these sessions?
 
-Liquidity is about how easy it is to buy or sell something without changing its price too much. During pre-market and post-market sessions, there are fewer people trading. This means there's less liquidity. When there's less liquidity, it can be harder to buy or sell stocks at the price you want. If you want to buy a stock, there might not be many people selling it at that time. So, you might have to pay more than you expected. If you want to sell, you might have to accept a lower price because there aren't many buyers.
+Liquidity is about how easy it is to buy or sell something without changing its price too much. During pre-market and post-market sessions, there are fewer people trading. This means there's less [liquidity](/wiki/liquidity-risk-premium). When there's less liquidity, it can be harder to buy or sell stocks at the price you want. If you want to buy a stock, there might not be many people selling it at that time. So, you might have to pay more than you expected. If you want to sell, you might have to accept a lower price because there aren't many buyers.
 
 Because of this lower liquidity, prices can change a lot more during these times. If you place a market order, you might end up buying or selling at a price that's very different from what you thought it would be. This can lead to bigger losses if the price moves against you. So, it's important to be careful and think about how liquidity can affect your trades during pre-market and post-market sessions.
 

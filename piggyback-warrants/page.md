@@ -82,7 +82,7 @@ Another important thing to consider is how well the company is doing. If the com
 
 ## How do you set up an algorithmic trading system?
 
-Selecting the right trading platform is a fundamental decision that affects the overall success of algorithmic trading systems, especially when dealing with financial derivatives like warrants. Modern platforms such as QuantConnect or MetaTrader offer comprehensive tools for developing, testing, and deploying algorithmic trading strategies. These platforms provide access to historical data, a crucial component for [backtesting](/wiki/backtesting) algorithms to ensure their robustness under different market conditions.
+Selecting the right trading platform is a fundamental decision that affects the overall success of [algorithmic trading](/wiki/algorithmic-trading) systems, especially when dealing with financial derivatives like warrants. Modern platforms such as QuantConnect or MetaTrader offer comprehensive tools for developing, testing, and deploying algorithmic trading strategies. These platforms provide access to historical data, a crucial component for [backtesting](/wiki/backtesting) algorithms to ensure their robustness under different market conditions.
 
 Designing effective trading strategies requires a precise definition of entry and [exit](/wiki/exit-strategy) points. This involves determining the conditions under which an asset should be bought or sold. For instance, a simple moving average (SMA) crossover strategy could be implemented to define these points. The strategy might involve buying a security when a short-term moving average crosses above a long-term moving average and selling it when the opposite occurs. 
 
@@ -110,7 +110,7 @@ print(signals)
 
 Backtesting involves applying your strategy to historical data to evaluate its performance. Key metrics to analyze during backtesting include the Sharpe ratio, maximum drawdown, and annualized return. These metrics help in assessing the risk-adjusted returns of the strategy, providing insights into both potential profitability and risk exposure.
 
-Risk management cannot be overstated, particularly in markets characterized by high volatility and leveraged instruments like warrants. Risk management techniques include setting stop-loss limits to cap potential losses and defining position size according to risk tolerance and portfolio size. The position sizing formula, often based on the Kelly Criterion, can be employed to optimize bet size:
+Risk management cannot be overstated, particularly in markets characterized by high [volatility](/wiki/volatility-trading-strategies) and leveraged instruments like warrants. Risk management techniques include setting stop-loss limits to cap potential losses and defining position size according to risk tolerance and portfolio size. The position sizing formula, often based on the Kelly Criterion, can be employed to optimize bet size:
 
 $$
 f^* = \frac{bp - q}{b}

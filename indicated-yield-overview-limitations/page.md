@@ -114,7 +114,7 @@ Each yield measure offers distinct insights depending on the financial instrumen
 
 ## What is the conclusion?
 
-The integration of yield metrics such as indicated yield, SEC yield, and 30-day yield with algorithmic trading strategies creates an effective framework for maximizing investment returns. By grasping the calculations and implications of these yield measures, investors can make well-informed decisions about their portfolios. Understanding formulae like the indicated yield, which is calculated as:
+The integration of yield metrics such as indicated yield, SEC yield, and 30-day yield with [algorithmic trading](/wiki/algorithmic-trading) strategies creates an effective framework for maximizing investment returns. By grasping the calculations and implications of these yield measures, investors can make well-informed decisions about their portfolios. Understanding formulae like the indicated yield, which is calculated as:
 
 $$
 \text{Indicated Yield} = \left( \frac{\text{Recent Dividend} \times \text{Annual Dividend Frequency}}{\text{Current Share Price}} \right) \times 100

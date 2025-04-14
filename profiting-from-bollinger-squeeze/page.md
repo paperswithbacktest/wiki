@@ -54,7 +54,7 @@ Some traders also use shorter time frames like 10 days or even 5 days to look at
 
 Yes, the Bollinger Squeeze can be used with other technical indicators to make better trading decisions. One popular indicator to use with the Bollinger Squeeze is the Relative Strength Index (RSI). The RSI helps traders see if a stock is overbought or oversold. If the RSI shows a stock is overbought and the price breaks out of a Bollinger Squeeze to the upside, it might be a good time to sell. If the RSI shows the stock is oversold and the price breaks out to the downside, it might be a good time to buy.
 
-Another useful indicator is the Moving Average Convergence Divergence (MACD). The MACD helps traders see the momentum of a stock's price. When the MACD line crosses above the signal line, it can be a sign that the stock's price might keep going up after a Bollinger Squeeze. If the MACD line crosses below the signal line, it can be a sign that the price might keep going down. Using the Bollinger Squeeze with the MACD can help traders confirm if a breakout is likely to continue in the same direction.
+Another useful indicator is the Moving Average Convergence Divergence (MACD). The MACD helps traders see the [momentum](/wiki/momentum) of a stock's price. When the MACD line crosses above the signal line, it can be a sign that the stock's price might keep going up after a Bollinger Squeeze. If the MACD line crosses below the signal line, it can be a sign that the price might keep going down. Using the Bollinger Squeeze with the MACD can help traders confirm if a [breakout](/wiki/breakout-trading) is likely to continue in the same direction.
 
 ## What are the potential risks of trading based on the Bollinger Squeeze?
 
@@ -64,7 +64,7 @@ Another risk is that the market can be unpredictable. Even if the Bollinger Sque
 
 ## How can advanced traders optimize entry and exit points using the Bollinger Squeeze?
 
-Advanced traders can optimize entry and exit points using the Bollinger Squeeze by combining it with other technical indicators. For example, they might use the Relative Strength Index (RSI) to confirm if a stock is overbought or oversold before entering a trade. If the RSI shows the stock is overbought and the price breaks out of the Bollinger Squeeze to the upside, it might be a good time to sell. On the other hand, if the RSI shows the stock is oversold and the price breaks out to the downside, it might be a good time to buy. By waiting for these confirmations, traders can increase their chances of making a successful trade.
+Advanced traders can optimize entry and [exit](/wiki/exit-strategy) points using the Bollinger Squeeze by combining it with other technical indicators. For example, they might use the Relative Strength Index (RSI) to confirm if a stock is overbought or oversold before entering a trade. If the RSI shows the stock is overbought and the price breaks out of the Bollinger Squeeze to the upside, it might be a good time to sell. On the other hand, if the RSI shows the stock is oversold and the price breaks out to the downside, it might be a good time to buy. By waiting for these confirmations, traders can increase their chances of making a successful trade.
 
 Another way to optimize entry and exit points is by using volume indicators. When the price breaks out of a Bollinger Squeeze, traders can look at the volume to see if it's strong. High volume during a breakout can mean the move is more likely to continue. So, if the price breaks above the top band with high volume, it might be a good time to enter a long position. If the price breaks below the bottom band with high volume, it might be a good time to enter a short position. By paying attention to volume, advanced traders can make better decisions about when to get into and out of trades based on the Bollinger Squeeze.
 
@@ -82,7 +82,7 @@ To make the strategy better, algorithmic traders can also tell their software to
 
 ## What are Bollinger Bands and how do they work?
 
-Bollinger Bands are a widely used tool in technical analysis, consisting of three key components: a simple moving average (SMA) and two bands that define standard deviation levels above and below this SMA. The standard deviation measures the amount of variation or dispersion in a set of values, providing insight into the volatility of the asset's price.
+Bollinger Bands are a widely used tool in technical analysis, consisting of three key components: a simple moving average (SMA) and two bands that define standard deviation levels above and below this SMA. The standard deviation measures the amount of variation or [dispersion](/wiki/dispersion-trading) in a set of values, providing insight into the volatility of the asset's price.
 
 The middle line, or the SMA, is calculated by averaging the closing prices of an asset over a specific time period, often set to 20 days. The formula for the SMA is:
 
@@ -112,7 +112,7 @@ Understanding Bollinger Bands' structure is crucial for developing robust market
 
 Backtesting is a crucial step in validating the Bollinger Band Squeeze strategy. By applying this strategy to historical price data, traders can assess its potential performance and refine their decision-making criteria. This retrospective analysis enables an understanding of how the strategy would have performed under various market conditions.
 
-To begin backtesting, traders gather historical data of the asset under consideration. This data typically includes open, high, low, and close prices, often supplemented by [volume](/wiki/volume-trading-strategy), stretching over a significant time period to ensure comprehensiveness. Using this data, traders then simulate the Bollinger Band Squeeze strategy by identifying past instances of band constriction.
+To begin [backtesting](/wiki/backtesting), traders gather historical data of the asset under consideration. This data typically includes open, high, low, and close prices, often supplemented by [volume](/wiki/volume-trading-strategy), stretching over a significant time period to ensure comprehensiveness. Using this data, traders then simulate the Bollinger Band Squeeze strategy by identifying past instances of band constriction.
 
 The mathematical foundation involves calculating the Bollinger Bands themselves, which consist of a Simple Moving Average (SMA) and two standard deviation bands. The formula for the SMA is:
 

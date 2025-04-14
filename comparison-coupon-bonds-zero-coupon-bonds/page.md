@@ -42,7 +42,7 @@ Zero-coupon bonds are priced differently because they don't pay interest until t
 
 When you invest in coupon bonds, you have to pay taxes on the interest you get every year or every six months. The interest you receive from these bonds is considered taxable income. So, even if you don't get the money until the bond matures, you still have to report the interest on your taxes each year and pay taxes on it. This can be a bit tricky because you're paying taxes on money you haven't actually spent yet.
 
-Zero-coupon bonds are different because you don't get any interest payments until the bond matures. But, the IRS still wants you to pay taxes on the interest you're earning each year, even though you don't see it until the end. This is called "imputed interest," and you have to report it on your taxes every year as if you were getting payments. This can be confusing because you're paying taxes on money you won't have until the bond matures.
+Zero-coupon bonds are different because you don't get any interest payments until the bond matures. But, the IRS still wants you to pay taxes on the interest you're [earning](/wiki/earning-announcement) each year, even though you don't see it until the end. This is called "imputed interest," and you have to report it on your taxes every year as if you were getting payments. This can be confusing because you're paying taxes on money you won't have until the bond matures.
 
 ## How do coupon bonds and zero-coupon bonds react differently to interest rate changes?
 

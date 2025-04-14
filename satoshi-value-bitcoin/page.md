@@ -28,9 +28,9 @@ The name Satoshi also comes from the person or group who invented Bitcoin. They 
 
 ## How can one acquire Satoshis?
 
-You can get Satoshis by buying them with regular money. You can do this on special websites called cryptocurrency exchanges. You sign up, put in your money, and then use it to buy Bitcoin. Since one Bitcoin is made up of 100 million Satoshis, when you buy Bitcoin, you are also getting Satoshis. The price of Bitcoin changes all the time, so the number of Satoshis you get for your money will change too.
+You can get Satoshis by buying them with regular money. You can do this on special websites called [cryptocurrency](/wiki/cryptocurrency) exchanges. You sign up, put in your money, and then use it to buy Bitcoin. Since one Bitcoin is made up of 100 million Satoshis, when you buy Bitcoin, you are also getting Satoshis. The price of Bitcoin changes all the time, so the number of Satoshis you get for your money will change too.
 
-Another way to get Satoshis is by earning them. Some websites and apps give you Satoshis for doing small tasks, like watching videos or playing games. This is called "faucets" because it's like getting a little drip of Bitcoin. You can also get Satoshis by mining Bitcoin, which is when you use special computers to help keep the Bitcoin network running. Miners get paid in Bitcoin, which means they get Satoshis too.
+Another way to get Satoshis is by [earning](/wiki/earning-announcement) them. Some websites and apps give you Satoshis for doing small tasks, like watching videos or playing games. This is called "faucets" because it's like getting a little drip of Bitcoin. You can also get Satoshis by mining Bitcoin, which is when you use special computers to help keep the Bitcoin network running. Miners get paid in Bitcoin, which means they get Satoshis too.
 
 ## What is the smallest transaction amount possible in Bitcoin using Satoshis?
 

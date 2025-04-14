@@ -54,7 +54,7 @@ These fees are part of what's called the expense ratio. Even though the percenta
 
 ## How do performance fees work and which types of funds typically use them?
 
-Performance fees are special fees that some mutual fund companies charge when the fund does really well. Instead of just charging a regular fee every year, the company gets an extra fee if the fund's returns are better than a certain goal. This goal might be beating a certain stock market index or earning more than a set percentage. The idea is to reward the people who manage the fund for doing a great job. But, it also means that if the fund does not do well, the company won't get this extra fee.
+Performance fees are special fees that some mutual fund companies charge when the fund does really well. Instead of just charging a regular fee every year, the company gets an extra fee if the fund's returns are better than a certain goal. This goal might be beating a certain stock market index or [earning](/wiki/earning-announcement) more than a set percentage. The idea is to reward the people who manage the fund for doing a great job. But, it also means that if the fund does not do well, the company won't get this extra fee.
 
 These kinds of fees are often used by hedge funds and some other types of funds that take bigger risks to try to earn more money. They are not as common in regular mutual funds that many people invest in. The reason is that hedge funds and similar funds often promise to try to beat the market by a lot, so they think it's fair to charge more if they succeed. But, it's important for investors to know about these fees because they can make the cost of investing in the fund go up a lot if the fund does well.
 

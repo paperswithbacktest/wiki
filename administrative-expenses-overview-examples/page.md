@@ -86,7 +86,7 @@ Another helpful metric is the administrative expense per employee. This is found
 
 ## What is the impact of administrative costs on algo trading performance?
 
-Administrative costs can significantly influence the profitability and efficiency of algorithmic trading operations. These expenses, including salaries of non-trading staff, office rent, and utility bills, are essential for the smooth functioning of any trading firm. However, if not carefully managed, they can rapidly erode profit margins.
+Administrative costs can significantly influence the profitability and efficiency of [algorithmic trading](/wiki/algorithmic-trading) operations. These expenses, including salaries of non-trading staff, office rent, and utility bills, are essential for the smooth functioning of any trading firm. However, if not carefully managed, they can rapidly erode profit margins.
 
 ### Analyzing the Impact
 

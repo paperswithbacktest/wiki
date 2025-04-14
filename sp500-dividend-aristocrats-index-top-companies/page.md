@@ -36,7 +36,7 @@ Other important companies in the index include 3M, which makes things like Post-
 
 The S&P 500 Dividend Aristocrats Index has often done well compared to the broader S&P 500 over the long term. Because the companies in the Dividend Aristocrats have been good at growing their dividends for at least 25 years, they tend to be more stable. This can make the index a safer place to invest, especially during tough times in the market. Over many years, the Dividend Aristocrats have sometimes given investors better returns than the S&P 500, showing that focusing on companies with a history of dividend growth can be a smart move.
 
-However, the performance can change from year to year. Sometimes, the broader S&P 500 might do better if the market is really excited about growth stocks or new technology companies. But over long periods, like 10 or 20 years, the Dividend Aristocrats often catch up or even do better. This is because the steady dividends and the reliable nature of these companies help investors keep their money safe and growing, even when the market goes up and down.
+However, the performance can change from year to year. Sometimes, the broader S&P 500 might do better if the market is really excited about [growth stocks](/wiki/growth-stocks) or new technology companies. But over long periods, like 10 or 20 years, the Dividend Aristocrats often catch up or even do better. This is because the steady dividends and the reliable nature of these companies help investors keep their money safe and growing, even when the market goes up and down.
 
 ## What are the criteria for a company to maintain its status as a Dividend Aristocrat?
 

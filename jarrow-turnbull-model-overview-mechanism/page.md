@@ -36,7 +36,7 @@ Another big difference is how the two models handle risk and uncertainty. The Bl
 
 The Jarrow-Turnbull model is mainly used for bonds, which are like loans you give to a company or government. It helps predict how the value of these bonds might change over time by looking at how interest rates could move in many different ways. This is important because the value of a bond goes up or down depending on what happens with interest rates. So, if you're someone who buys or sells bonds, this model can help you make better guesses about what might happen in the future.
 
-But the Jarrow-Turnbull model isn't just for bonds. It can also be used for other financial products that depend on interest rates, like interest rate swaps and options on bonds. An interest rate swap is when two people agree to exchange interest payments, and options on bonds give you the right to buy or sell a bond at a certain price. By using the Jarrow-Turnbull model, people who work with these financial products can better understand the risks and make smarter decisions.
+But the Jarrow-Turnbull model isn't just for bonds. It can also be used for other financial products that depend on interest rates, like [interest rate](/wiki/interest-rate-trading-strategies) swaps and options on bonds. An interest rate swap is when two people agree to exchange interest payments, and options on bonds give you the right to buy or sell a bond at a certain price. By using the Jarrow-Turnbull model, people who work with these financial products can better understand the risks and make smarter decisions.
 
 ## What is the basic mechanism of the Jarrow-Turnbull model?
 
@@ -118,7 +118,7 @@ Financial institutions often adopt a hybrid approach, leveraging the insights fr
 
 ## What are the mechanics of the Jarrow-Turnbull Model?
 
-The Jarrow-Turnbull model, implemented as a continuous-time multi-factor approach, is integral to credit risk evaluation. It operates by modeling the occurrence of default as a probabilistic event, utilizing stochastic processes to estimate the risk. 
+The Jarrow-Turnbull model, implemented as a continuous-time multi-[factor](/wiki/factor-investing) approach, is integral to credit risk evaluation. It operates by modeling the occurrence of default as a probabilistic event, utilizing stochastic processes to estimate the risk. 
 
 A central element of the Jarrow-Turnbull model is the hazard rate or intensity process, denoted by $\lambda(t)$. This rate represents the instantaneous likelihood of default occurring at time $t$, given that no default has occurred prior. This probability is instrumental in calculating the expected default time for a particular credit instrument, often constructed using a Poisson process. 
 

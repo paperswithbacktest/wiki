@@ -18,7 +18,7 @@ Think of it like an artist and a critic. The artist (generator) keeps making new
 
 GANs were invented by a man named Ian Goodfellow. He came up with the idea while he was working at the University of Montreal in Canada. Ian Goodfellow and his team first introduced GANs to the world in 2014. They shared their new idea in a paper called "Generative Adversarial Networks."
 
-Since then, GANs have become very popular in the world of artificial intelligence. People use them to make all sorts of things, from realistic pictures to new kinds of music. Ian Goodfellow's invention has helped many researchers and artists create things that were hard to imagine before.
+Since then, GANs have become very popular in the world of [artificial intelligence](/wiki/ai-artificial-intelligence). People use them to make all sorts of things, from realistic pictures to new kinds of music. Ian Goodfellow's invention has helped many researchers and artists create things that were hard to imagine before.
 
 ## What are the two main components of a GAN?
 
@@ -44,7 +44,7 @@ GANs are used in many cool ways. One common use is making realistic pictures. Ar
 
 Another use of GANs is in the world of fashion. They help design new clothes and styles. By showing a GAN lots of pictures of clothes, it can come up with new designs that look like they could be worn by real people. This saves time and helps fashion designers come up with fresh ideas quickly. It's like having a creative partner that never runs out of ideas.
 
-GANs also help in making music and writing stories. They can learn from lots of songs or books and then create new ones that sound or read like the real thing. This is useful for musicians who want to try new sounds or for writers who need help coming up with new ideas. It's like having a tool that can help you be more creative in ways you might not have thought of before.
+GANs also help in making music and writing stories. They can learn from lots of songs or [books](/wiki/algo-trading-books) and then create new ones that sound or read like the real thing. This is useful for musicians who want to try new sounds or for writers who need help coming up with new ideas. It's like having a tool that can help you be more creative in ways you might not have thought of before.
 
 ## What are the challenges faced when training GANs?
 

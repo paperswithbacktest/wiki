@@ -34,7 +34,7 @@ On the other hand, if the Treasury Index is going down, it means interest rates 
 
 ## How are Treasury Indexes calculated?
 
-Treasury Indexes are calculated by looking at the interest rates or yields of U.S. government securities. For example, the 10-Year Treasury Note Index is calculated by finding the average interest rate that investors are getting for lending money to the government for 10 years. This average is based on the most recent prices and yields of these securities that are traded in the market. The calculation involves taking the yields from a bunch of these securities and then figuring out what the average yield is.
+Treasury Indexes are calculated by looking at the interest rates or yields of U.S. government securities. For example, the 10-Year Treasury Note Index is calculated by finding the average [interest rate](/wiki/interest-rate-trading-strategies) that investors are getting for lending money to the government for 10 years. This average is based on the most recent prices and yields of these securities that are traded in the market. The calculation involves taking the yields from a bunch of these securities and then figuring out what the average yield is.
 
 The exact way to calculate a Treasury Index can be a bit complicated, but it usually involves a few steps. First, they gather data on the yields of the specific type of Treasury security, like bills, notes, or bonds. Then, they use a formula to find the average yield of these securities. This average yield becomes the value of the index. Because these securities are traded all the time, the index is updated regularly to reflect the most current market conditions. This helps investors see how interest rates are changing and make better decisions about their money.
 

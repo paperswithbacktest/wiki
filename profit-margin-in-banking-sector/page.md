@@ -38,7 +38,7 @@ Even though banks have lower profit margins, they can still make a lot of money.
 
 Several things can affect how much profit a bank makes. One big thing is the interest rates. When interest rates go up, banks can charge more for loans, which can help their profit margins. But if interest rates go down, banks might not make as much money from loans. Another thing is how well the bank manages its costs. If a bank can keep its costs low, like paying less for buildings or technology, it can have a better profit margin. Competition also plays a role. If there are a lot of other banks around, they might all have to lower their fees to get customers, which can make profit margins smaller.
 
-Another factor is the economy. When the economy is doing well, more people and businesses want loans, which can help banks make more money. But if the economy is bad, people might not be able to pay back their loans, which can hurt the bank's profits. Regulations from the government can also affect profit margins. Sometimes, the government makes rules that banks have to follow, and these rules can make it harder for banks to make money. For example, rules about how much money banks have to keep on hand can limit how much they can lend out and make in interest. All these things together can make a big difference in how much profit a bank can make.
+Another [factor](/wiki/factor-investing) is the economy. When the economy is doing well, more people and businesses want loans, which can help banks make more money. But if the economy is bad, people might not be able to pay back their loans, which can hurt the bank's profits. Regulations from the government can also affect profit margins. Sometimes, the government makes rules that banks have to follow, and these rules can make it harder for banks to make money. For example, rules about how much money banks have to keep on hand can limit how much they can lend out and make in interest. All these things together can make a big difference in how much profit a bank can make.
 
 ## How have profit margins in the banking sector changed over the last decade?
 
@@ -94,7 +94,7 @@ $$
 \text{NIM} = \left( \frac{\text{Interest Income} - \text{Interest Expense}}{\text{Average Earning Assets}} \right) \times 100
 $$
 
-A higher NIM indicates that a bank is effectively utilizing its assets to generate interest income, reflecting efficient management of its interest rate spread.
+A higher NIM indicates that a bank is effectively utilizing its assets to generate interest income, reflecting efficient management of its [interest rate](/wiki/interest-rate-trading-strategies) spread.
 
 ### Efficiency Ratio
 

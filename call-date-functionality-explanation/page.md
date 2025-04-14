@@ -72,7 +72,7 @@ Another way investors can protect themselves is by diversifying their investment
 
 Market conditions can play a big role in whether a company decides to call a bond on its call date. The main thing they look at is interest rates. If interest rates have gone down since the bond was issued, the company might want to call the bond and issue a new one at the lower rate. This can save them a lot of money on interest payments over time. They might also look at how the economy is doing. If things are going well and they think they can borrow money more easily, they might decide to call the bond.
 
-Another important factor is the company's own financial situation. If they have a lot of extra cash, they might use it to pay off the bond early and avoid paying more interest. They might also think about how their credit rating has changed. If their credit rating has gotten better, they might be able to get a better deal on a new bond, which would make calling the old one a smart move. So, the decision to call a bond depends on a mix of what's happening in the market and how the company itself is doing.
+Another important [factor](/wiki/factor-investing) is the company's own financial situation. If they have a lot of extra cash, they might use it to pay off the bond early and avoid paying more interest. They might also think about how their credit rating has changed. If their credit rating has gotten better, they might be able to get a better deal on a new bond, which would make calling the old one a smart move. So, the decision to call a bond depends on a mix of what's happening in the market and how the company itself is doing.
 
 ## How do advanced financial models account for the call date in pricing callable securities?
 

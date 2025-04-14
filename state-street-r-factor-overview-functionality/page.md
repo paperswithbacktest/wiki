@@ -22,7 +22,7 @@ Investors use the R-Factor score to help them decide where to put their money. A
 
 ## What are the key components of the R-Factor?
 
-The R-Factor score is made up of three main parts: environmental, social, and governance (ESG) factors. Each part looks at different things about a company. The environmental part checks if the company is good at protecting the environment, like reducing pollution and using less energy. The social part looks at how the company treats its workers, customers, and the community. It checks things like fair pay, safe working conditions, and helping the community. The governance part looks at how the company is run, like if it has good leaders and follows the rules.
+The R-Factor score is made up of three main parts: environmental, social, and governance ([ESG](/wiki/esg-investing)) factors. Each part looks at different things about a company. The environmental part checks if the company is good at protecting the environment, like reducing pollution and using less energy. The social part looks at how the company treats its workers, customers, and the community. It checks things like fair pay, safe working conditions, and helping the community. The governance part looks at how the company is run, like if it has good leaders and follows the rules.
 
 To come up with the R-Factor score, the tool uses information from many different sources. It looks at reports from the company, data from other groups, and what people say about the company. All this information is put together to give each company a score. This score shows how well the company is doing with ESG compared to other companies in the same industry. The score is updated often to make sure it shows the latest information about the company's actions.
 

@@ -36,7 +36,7 @@ It can be a lot of work to get a stock interlisted. The company needs to prepare
 
 Interlisting can make a stock more liquid. When a stock is listed on more than one exchange, more people can buy and sell it. This means there are more buyers and sellers, which can make it easier to trade the stock. If more people want to trade the stock, it can be easier to find someone to buy or sell it quickly. This is good for investors because they can get in and out of their investments faster.
 
-However, interlisting can also make things more complicated. Different exchanges might have different rules and trading hours. This can sometimes make it harder for investors to trade the stock smoothly across all exchanges. But overall, having a stock listed on multiple exchanges usually helps increase its liquidity because it reaches more investors around the world.
+However, interlisting can also make things more complicated. Different exchanges might have different rules and trading hours. This can sometimes make it harder for investors to trade the stock smoothly across all exchanges. But overall, having a stock listed on multiple exchanges usually helps increase its [liquidity](/wiki/liquidity-risk-premium) because it reaches more investors around the world.
 
 ## What are the risks associated with investing in interlisted stocks?
 
@@ -78,7 +78,7 @@ But, you need to be quick because these price differences usually don't last lon
 
 One advanced trading strategy with interlisted stocks is called pairs trading. This is when you find two stocks that are similar and usually move together in price. If one stock is listed on different exchanges and its price on one exchange goes up more than the other, you can buy the cheaper one and sell the more expensive one. You're betting that the prices will come back together, and you can make money from the difference. This strategy can be good because it doesn't matter if the market goes up or down, as long as the two stocks move back to being similar in price.
 
-Another strategy is called statistical arbitrage. This is a bit more complicated and uses math to find small differences in the prices of interlisted stocks. Traders use computers to look at a lot of data and find these small differences quickly. They buy and sell the stocks very fast to make small profits from these differences. This strategy needs a lot of technology and quick thinking, but it can be a way to make money from the tiny changes in stock prices that happen all the time.
+Another strategy is called [statistical arbitrage](/wiki/statistical-arbitrage). This is a bit more complicated and uses math to find small differences in the prices of interlisted stocks. Traders use computers to look at a lot of data and find these small differences quickly. They buy and sell the stocks very fast to make small profits from these differences. This strategy needs a lot of technology and quick thinking, but it can be a way to make money from the tiny changes in stock prices that happen all the time.
 
 A third strategy is to use interlisted stocks for hedging. If you own a stock that's listed on one exchange, you can buy or sell the same stock on another exchange to protect yourself from big changes in price. For example, if you think the price might go down on one exchange, you can sell the stock on another exchange where the price might be different. This can help you balance out any losses you might have. Hedging can be a good way to manage risk when you're investing in interlisted stocks.
 
@@ -128,7 +128,7 @@ result = check_arbitrage(nyse_price, lse_price, transaction_fee)
 print(result)
 ```
 
-While algorithmic trading enhances market efficiency, it may also pose risks such as market manipulation and increased volatility, which necessitates stringent regulatory oversight. However, when effectively managed, algorithmic trading remains an indispensable tool in navigating the complex landscape of multi-listed stocks, offering improved liquidity and more resilient pricing frameworks.
+While algorithmic trading enhances market efficiency, it may also pose risks such as market manipulation and increased [volatility](/wiki/volatility-trading-strategies), which necessitates stringent regulatory oversight. However, when effectively managed, algorithmic trading remains an indispensable tool in navigating the complex landscape of multi-listed stocks, offering improved liquidity and more resilient pricing frameworks.
 
 ## References & Further Reading
 

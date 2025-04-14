@@ -28,7 +28,7 @@ MPM also helps in making economic policies. Governments and policymakers use the
 
 ## What factors influence the MPM of a country?
 
-Several things can change a country's Marginal Propensity to Import (MPM). One big factor is how much people in the country like to buy things from other countries. If people are used to buying a lot of foreign stuff, the MPM will be higher. Another factor is how much money people have. If people get more money, they might spend more on imports, making the MPM go up. Also, if the country's own stuff is more expensive than foreign stuff, people might choose to buy more from other countries, which would increase the MPM.
+Several things can change a country's Marginal Propensity to Import (MPM). One big [factor](/wiki/factor-investing) is how much people in the country like to buy things from other countries. If people are used to buying a lot of foreign stuff, the MPM will be higher. Another factor is how much money people have. If people get more money, they might spend more on imports, making the MPM go up. Also, if the country's own stuff is more expensive than foreign stuff, people might choose to buy more from other countries, which would increase the MPM.
 
 Another thing that can affect the MPM is the exchange rate. If a country's money is worth less compared to other countries' money, it can make foreign stuff cheaper. This might make people buy more imports, so the MPM could go up. Government rules and taxes can also play a role. If the government makes it easier or cheaper to import things, the MPM might go up. But if they make it harder or more expensive, the MPM might go down. All these things together help decide how much of a country's new income will be spent on imports.
 
@@ -139,7 +139,7 @@ Incorporating MPM into trading algorithms provides several advantages. By predic
 
 Further, the utilization of MPM can also complement traditional economic indicators within algorithmic frameworks. When combined with leading and lagging indicators, MPM enables a more comprehensive model that reflects both short-term and long-term economic conditions.
 
-Nevertheless, traders must remain vigilant of external variables that might influence MPM calculations, such as government trade policies and international market disruptions. By doing so, they can enhance the reliability and effectiveness of their algorithmic trading strategies. Implementing rigorous testing and validation processes is crucial to ensure that these models provide accurate predictions that align with real-world economic shifts.
+Nevertheless, traders must remain vigilant of external variables that might influence MPM calculations, such as government trade policies and international market disruptions. By doing so, they can enhance the reliability and effectiveness of their [algorithmic trading](/wiki/algorithmic-trading) strategies. Implementing rigorous testing and validation processes is crucial to ensure that these models provide accurate predictions that align with real-world economic shifts.
 
 ## References & Further Reading
 

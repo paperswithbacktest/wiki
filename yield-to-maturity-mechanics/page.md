@@ -40,7 +40,7 @@ YTM, on the other hand, is a bit more complicated because it looks at the total 
 
 ## What assumptions are made when calculating YTM?
 
-When calculating Yield to Maturity (YTM), we assume that all coupon payments will be reinvested at the same rate as the YTM itself. This means that if the bond pays interest, you'll be able to put that money back into an investment that earns the same return as the YTM. It's a bit like saying you can keep earning the same rate of return on your money over and over until the bond matures.
+When calculating Yield to Maturity (YTM), we assume that all coupon payments will be reinvested at the same rate as the YTM itself. This means that if the bond pays interest, you'll be able to put that money back into an investment that earns the same return as the YTM. It's a bit like saying you can keep [earning](/wiki/earning-announcement) the same rate of return on your money over and over until the bond matures.
 
 Another assumption is that you'll hold the bond until it matures and get the full face value back at the end. This means you won't sell the bond early or have it called back by the issuer before it's supposed to mature. These assumptions help make the calculation simpler, but they might not always match what happens in real life.
 
@@ -144,5 +144,5 @@ Understanding bond valuation also aids investors in aligning their investment ch
 
 - **Jarrow, R. A., & Turnbull, S. M. (2000). "Derivatives Securities."** This publication focuses on derivative securities, including the valuation and application of these financial instruments within broader market strategies. Understanding derivatives is integral for investors and traders utilizing algorithms to identify and exploit arbitrage opportunities and mispricings in bond markets.
 
-These references collectively provide a solid foundation for further exploration of bond markets, yield to maturity, algorithmic trading, and the expanding role of technology in modern finance.
+These references collectively provide a solid foundation for further exploration of bond markets, yield to maturity, [algorithmic trading](/wiki/algorithmic-trading), and the expanding role of technology in modern finance.
 

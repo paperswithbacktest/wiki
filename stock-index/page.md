@@ -127,7 +127,7 @@ $$
 Profit = Price_{Market1} - Price_{Market2}
 $$
 
-Market making strategies involve providing liquidity to the market by placing both buy and sell orders for a security, while trend following strategies analyze historical price data to predict future movements, allowing traders to make informed decisions based on observed patterns.
+Market making strategies involve providing [liquidity](/wiki/liquidity-risk-premium) to the market by placing both buy and sell orders for a security, while trend following strategies analyze historical price data to predict future movements, allowing traders to make informed decisions based on observed patterns.
 
 Several platforms offer advanced [algorithmic trading](/wiki/algorithmic-trading) solutions, catering to diverse financial instruments such as stocks, options, and cryptocurrencies. For instance, platforms like TradeStation facilitate the creation of customized trading strategies with its EasyLanguage programming language. [Interactive Brokers](/wiki/interactive-brokers-api) provides an integrated environment for algorithmic trading with support for Java, C++, and Python, enabling sophisticated traders to implement proprietary strategies. Coinrule offers a user-friendly interface for [cryptocurrency](/wiki/cryptocurrency) trading, allowing even novice users to automate their trades using predefined templates or custom rules.
 

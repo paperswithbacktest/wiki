@@ -102,9 +102,9 @@ Investors seeking to optimize their strategies must pay attention to how holding
 
 Internal Revenue Service. Topic No. 409 Capital Gains and Losses. This resource from the IRS provides detailed information on the tax regulations concerning capital gains, which are critical for understanding the tax implications of different holding periods. Accessing this can help investors grasp the differentiation between short-term and long-term capital gains and the associated tax rates on these gains.
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). Algorithms for Hyper-Parameter Optimization. This paper explores the algorithms used for optimizing hyper-parameters, an essential aspect for those involved in algorithmic trading. The techniques discussed can be leveraged to fine-tune trading models, especially in predicting optimal holding periods.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). Algorithms for Hyper-Parameter Optimization. This paper explores the algorithms used for optimizing hyper-parameters, an essential aspect for those involved in [algorithmic trading](/wiki/algorithmic-trading). The techniques discussed can be leveraged to fine-tune trading models, especially in predicting optimal holding periods.
 
-Lopez de Prado, M. (2018). Advances in Financial Machine Learning. This book offers insights into how machine learning can be applied to financial data, introducing sophisticated techniques for developing trading strategies. Such methods are vital for enhancing the predictive power and efficiency of algo-trading models, particularly in optimizing holding periods.
+Lopez de Prado, M. (2018). Advances in Financial Machine Learning. This book offers insights into how [machine learning](/wiki/machine-learning) can be applied to financial data, introducing sophisticated techniques for developing trading strategies. Such methods are vital for enhancing the predictive power and efficiency of algo-trading models, particularly in optimizing holding periods.
 
 Aronson, D. (2006). Evidence-Based Technical Analysis. In this publication, Aronson presents a scientific approach to technical analysis, questioning traditional methods and advocating for evidence-based techniques. It provides foundational knowledge for traders looking to justify holding period decisions based on statistical analysis rather than intuition.
 

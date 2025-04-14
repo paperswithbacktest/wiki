@@ -18,7 +18,7 @@ Understanding volatility is important for anyone investing in the market. It hel
 
 Volatility is measured by looking at how much the price of something, like a stock or a market, moves up and down over time. One common way to do this is by calculating the standard deviation of the price changes. Standard deviation is a math term that tells us how spread out the numbers are. If the prices jump around a lot, the standard deviation will be high, and that means the volatility is high too.
 
-Another way to measure volatility is by using something called the VIX, which stands for Volatility Index. The VIX is like a special tool that looks at the prices of options (which are agreements to buy or sell stocks at a certain price in the future) to guess how much the market might move in the next 30 days. If people are buying a lot of options because they think the market will move a lot, the VIX goes up, showing that people expect more volatility. This helps investors understand how nervous or calm the market might be in the near future.
+Another way to measure [volatility](/wiki/volatility-trading-strategies) is by using something called the VIX, which stands for Volatility Index. The VIX is like a special tool that looks at the prices of options (which are agreements to buy or sell stocks at a certain price in the future) to guess how much the market might move in the next 30 days. If people are buying a lot of options because they think the market will move a lot, the VIX goes up, showing that people expect more volatility. This helps investors understand how nervous or calm the market might be in the near future.
 
 ## What are the common indicators used to assess volatility?
 
@@ -56,7 +56,7 @@ On the other hand, some investors might get too excited when prices are going up
 
 ## How does volatility influence market liquidity?
 
-Volatility can change how easy it is to buy and sell things in the market, which is called liquidity. When prices move a lot, some people might be scared to trade because they don't know what will happen next. This can make the market less liquid because fewer people are willing to buy or sell. If you want to sell something but there aren't many buyers, you might have to wait longer or accept a lower price.
+Volatility can change how easy it is to buy and sell things in the market, which is called [liquidity](/wiki/liquidity-risk-premium). When prices move a lot, some people might be scared to trade because they don't know what will happen next. This can make the market less liquid because fewer people are willing to buy or sell. If you want to sell something but there aren't many buyers, you might have to wait longer or accept a lower price.
 
 On the other hand, high volatility can sometimes make the market more liquid. When prices are swinging a lot, more traders might jump in to try and make money from the ups and downs. This can mean more people are buying and selling, which makes it easier to trade. But it's a bit tricky because while there might be more trades happening, the big price swings can still make it hard to get the price you want.
 

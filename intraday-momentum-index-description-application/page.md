@@ -54,7 +54,7 @@ On the other hand, the RSI looks at the average gains and losses of a stock over
 
 The common setting for the Intraday Momentum Index (IMI) is a 14-day period. This means the IMI value is calculated every day and then averaged over the last 14 trading days. This setting helps traders see if a stock is overbought or oversold during the trading day. If the IMI number is over 70, the stock might be overbought, and if it's below 30, it might be oversold. This can guide traders on when to buy or sell a stock quickly during the day.
 
-Traders can adjust the IMI settings to fit different trading strategies. For example, if a trader wants to be more sensitive to short-term changes, they might use a shorter period like 7 days. This would make the IMI react faster to price changes, which is good for very active day trading. On the other hand, if a trader wants to see longer trends, they might use a longer period like 21 days. This would smooth out the IMI numbers and help traders see bigger trends over time. By changing the period, traders can make the IMI work better for their own trading style.
+Traders can adjust the IMI settings to fit different trading strategies. For example, if a trader wants to be more sensitive to short-term changes, they might use a shorter period like 7 days. This would make the IMI react faster to price changes, which is good for very active [day trading](/wiki/day-trading-spy). On the other hand, if a trader wants to see longer trends, they might use a longer period like 21 days. This would smooth out the IMI numbers and help traders see bigger trends over time. By changing the period, traders can make the IMI work better for their own trading style.
 
 ## Can the IMI be used effectively in different market conditions, such as trending or ranging markets?
 
@@ -76,7 +76,7 @@ Another limitation of the IMI is that it doesn't work the same in all market con
 
 ## How can the IMI be integrated into an algorithmic trading strategy?
 
-The Intraday Momentum Index (IMI) can be integrated into an algorithmic trading strategy by setting up rules based on its readings. For example, an algorithm can be programmed to buy a stock when the IMI falls below 30, indicating the stock is oversold, and to sell when the IMI rises above 70, showing the stock is overbought. The algorithm can use these thresholds to make quick trading decisions throughout the day, helping to take advantage of short-term price movements.
+The Intraday Momentum Index (IMI) can be integrated into an [algorithmic trading](/wiki/algorithmic-trading) strategy by setting up rules based on its readings. For example, an algorithm can be programmed to buy a stock when the IMI falls below 30, indicating the stock is oversold, and to sell when the IMI rises above 70, showing the stock is overbought. The algorithm can use these thresholds to make quick trading decisions throughout the day, helping to take advantage of short-term price movements.
 
 To make the strategy more effective, the IMI can be combined with other indicators in the algorithm. For instance, the algorithm might also use the Relative Strength Index (RSI) to confirm the IMI's signals. If both the IMI and RSI suggest a stock is overbought or oversold, the algorithm could execute a trade with more confidence. Additionally, the algorithm can use moving averages to understand the stock's trend and adjust the IMI's sensitivity by changing the period over which it's calculated, like using a shorter period for more responsive signals or a longer period for smoother trends.
 

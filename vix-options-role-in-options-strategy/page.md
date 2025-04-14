@@ -22,7 +22,7 @@ The VIX is important because it helps investors understand how nervous or confid
 
 ## How can VIX options be used in a basic options strategy?
 
-VIX options can be used in a basic options strategy to protect against big market swings or to bet on future market volatility. One simple way to use VIX options is to buy a call option when you think the market is going to get more volatile. If the VIX goes up because of increased market fear, the value of your call option will go up too. You can then sell the option for a profit before it expires or hold onto it until it expires and get a cash payment if the VIX is above the strike price.
+VIX options can be used in a basic options strategy to protect against big market swings or to bet on future market [volatility](/wiki/volatility-trading-strategies). One simple way to use VIX options is to buy a call option when you think the market is going to get more volatile. If the VIX goes up because of increased market fear, the value of your call option will go up too. You can then sell the option for a profit before it expires or hold onto it until it expires and get a cash payment if the VIX is above the strike price.
 
 Another basic strategy is to buy a put option on the VIX when you think the market is going to calm down. If the VIX goes down because people feel more confident, the value of your put option will increase. You can sell the put option for a profit before it expires or hold it until expiration and get a cash payment if the VIX is below the strike price. Both of these strategies are ways to make money from your predictions about how nervous or calm the market will be in the future.
 

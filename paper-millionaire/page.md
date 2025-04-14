@@ -40,7 +40,7 @@ Another risk is that they might not be able to use their money when they need it
 
 ## How can a paper millionaire turn their paper wealth into real wealth?
 
-A paper millionaire can turn their paper wealth into real wealth by selling their investments at the right time. If their stocks or real estate go up in value, they need to sell them when the price is high. This way, they can turn the money they see on paper into real money they can put in the bank. It's like picking the best time to sell a toy that's worth more now than when they bought it.
+A paper millionaire can turn their paper wealth into real wealth by selling their investments at the right time. If their stocks or real estate go up in value, they need to sell them when the price is high. This way, they can turn the money they see on paper into real money they can put in the bank. It's like [picking](/wiki/asset-class-picking) the best time to sell a toy that's worth more now than when they bought it.
 
 But, it's not always easy to know when to sell. The market can change a lot, and if they wait too long, the value of their investments might go down. They need to watch the market closely and maybe even talk to someone who knows a lot about it. If they can sell at the right time, they can take their paper wealth and make it real wealth they can use whenever they want.
 
@@ -48,7 +48,7 @@ But, it's not always easy to know when to sell. The market can change a lot, and
 
 Common assets that contribute to paper wealth are stocks and real estate. When someone buys stocks and the price goes up, they see more money on paper. For example, if they buy a stock for $10 and it goes up to $100, their investment is worth more, but only on paper. They can't spend that money until they sell the stock. The same goes for real estate. If they buy a house and its value goes up, they are richer on paper, but they need to sell the house to turn that into real money.
 
-Another asset that can contribute to paper wealth is cryptocurrency. Like stocks, if someone buys cryptocurrency and its value increases, they see more money on paper. But just like with stocks and real estate, they need to sell the cryptocurrency at the right time to turn that paper wealth into real money they can use. All these assets can make someone a paper millionaire, but they need to be careful and watch the market to make the best decisions.
+Another asset that can contribute to paper wealth is [cryptocurrency](/wiki/cryptocurrency). Like stocks, if someone buys cryptocurrency and its value increases, they see more money on paper. But just like with stocks and real estate, they need to sell the cryptocurrency at the right time to turn that paper wealth into real money they can use. All these assets can make someone a paper millionaire, but they need to be careful and watch the market to make the best decisions.
 
 ## How does market volatility affect a paper millionaire's status?
 

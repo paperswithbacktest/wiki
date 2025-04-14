@@ -22,9 +22,9 @@ This yield is also important because it's a standard measure. This means that no
 
 ## How is the SEC 30-Day Yield calculated?
 
-The SEC 30-Day Yield is figured out by looking at the money a fund made over the last 30 days. It includes the income from things like dividends and interest that the fund earned during that time. Then, it takes away the costs of running the fund, like management fees. After that, it turns this 30-day number into a yearly rate. This is done by multiplying the net income by a factor that changes the 30-day period into a whole year.
+The SEC 30-Day Yield is figured out by looking at the money a fund made over the last 30 days. It includes the income from things like dividends and interest that the fund earned during that time. Then, it takes away the costs of running the fund, like management fees. After that, it turns this 30-day number into a yearly rate. This is done by multiplying the net income by a [factor](/wiki/factor-investing) that changes the 30-day period into a whole year.
 
-This way of calculating the yield makes it easy for people to see how much money they might get from a fund if they keep it for a year. It's like a standard way of measuring how well a fund is doing in terms of earning money. By using the same method for all funds, the SEC 30-Day Yield helps people compare different funds and see which ones might give them the best return on their investment.
+This way of calculating the yield makes it easy for people to see how much money they might get from a fund if they keep it for a year. It's like a standard way of measuring how well a fund is doing in terms of [earning](/wiki/earning-announcement) money. By using the same method for all funds, the SEC 30-Day Yield helps people compare different funds and see which ones might give them the best return on their investment.
 
 ## What are the key components needed to calculate the SEC 30-Day Yield?
 
@@ -180,7 +180,7 @@ $$
 
 investors gain insights into the income-generating capability of their chosen funds, which is crucial when constructing income-focused portfolios.
 
-Moreover, algorithmic trading has emerged as a powerful tool for investors looking to enhance the precision and speed of their trades. Algorithmic systems can analyze vast amounts of data, including yield metrics, to execute trades under predefined conditions, capturing opportunities before they dissipate in fast-moving markets. By incorporating SEC yield and 30-day yield data into algorithmic trading strategies, investors can optimize transactions to capitalize on favorable yield trends while efficiently managing risks associated with market [volatility](/wiki/volatility-trading-strategies). 
+Moreover, [algorithmic trading](/wiki/algorithmic-trading) has emerged as a powerful tool for investors looking to enhance the precision and speed of their trades. Algorithmic systems can analyze vast amounts of data, including yield metrics, to execute trades under predefined conditions, capturing opportunities before they dissipate in fast-moving markets. By incorporating SEC yield and 30-day yield data into algorithmic trading strategies, investors can optimize transactions to capitalize on favorable yield trends while efficiently managing risks associated with market [volatility](/wiki/volatility-trading-strategies). 
 
 For instance, an algorithm could be set to execute trades automatically when a fund’s 30-day yield exceeds a predetermined threshold, suggesting an attractive income opportunity. This approach allows investors to systematically exploit yield differentials across funds or rebalance portfolios dynamically to maintain desired income levels.
 

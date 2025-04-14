@@ -48,7 +48,7 @@ Toxic assets are also very bad for financial institutions. These are investments
 
 Toxic assets played a big role in the 2008 financial crisis. Banks had given out a lot of loans to people who couldn't pay them back, especially home loans called subprime mortgages. These loans were bundled together and sold as investments called mortgage-backed securities. When people started defaulting on their home loans, the value of these securities dropped a lot. This turned them into toxic assets because they were worth much less than what the banks had paid for them.
 
-The problem got worse because many banks had a lot of these toxic assets on their books. They lost a lot of money, and some banks even went out of business. This caused a big mess in the financial system because banks couldn't lend money to people and businesses who needed it. The crisis spread around the world, causing a lot of economic problems. Governments had to step in to help the banks and try to fix the economy.
+The problem got worse because many banks had a lot of these toxic assets on their [books](/wiki/algo-trading-books). They lost a lot of money, and some banks even went out of business. This caused a big mess in the financial system because banks couldn't lend money to people and businesses who needed it. The crisis spread around the world, causing a lot of economic problems. Governments had to step in to help the banks and try to fix the economy.
 
 ## How are toxic debts and assets identified and measured?
 
@@ -58,7 +58,7 @@ To measure toxic assets, experts look at how much the asset's value has dropped 
 
 ## What strategies can financial institutions use to manage or mitigate toxic debts and assets?
 
-Financial institutions can use several strategies to manage or mitigate toxic debts and assets. One common approach is to sell off these toxic assets to other investors or specialized firms that are willing to take on the risk. By doing this, the bank can get some money back and reduce the amount of toxic assets on their books. Another strategy is to restructure the toxic debts. This means working with borrowers to change the terms of the loan, like lowering the interest rate or extending the repayment period, so it's easier for them to pay back the money. This can help turn toxic debts into less risky ones.
+Financial institutions can use several strategies to manage or mitigate toxic debts and assets. One common approach is to sell off these toxic assets to other investors or specialized firms that are willing to take on the risk. By doing this, the bank can get some money back and reduce the amount of toxic assets on their books. Another strategy is to restructure the toxic debts. This means working with borrowers to change the terms of the loan, like lowering the [interest rate](/wiki/interest-rate-trading-strategies) or extending the repayment period, so it's easier for them to pay back the money. This can help turn toxic debts into less risky ones.
 
 Another way to manage toxic assets is through a process called securitization. This involves bundling toxic loans together and selling them as securities to investors. While this can spread the risk around, it needs to be done carefully to avoid creating more problems. Financial institutions can also set aside more money as reserves to cover potential losses from toxic debts and assets. This helps them stay prepared and reduces the impact if a lot of loans go bad. By using these strategies, banks can better handle the risks and protect themselves from big financial losses.
 

@@ -22,7 +22,7 @@ The cool thing about conduit financing is that the bonds issued by the governmen
 
 ## What are the common uses of conduit financing?
 
-Conduit financing is often used by non-profit organizations to fund big projects that help the community. For example, they might use it to build new hospitals or schools. These projects can be really expensive, so getting a loan with a lower interest rate through conduit financing helps them save money. This way, they can focus more on helping people and less on paying back big loans.
+Conduit financing is often used by non-profit organizations to fund big projects that help the community. For example, they might use it to build new hospitals or schools. These projects can be really expensive, so getting a loan with a lower [interest rate](/wiki/interest-rate-trading-strategies) through conduit financing helps them save money. This way, they can focus more on helping people and less on paying back big loans.
 
 Private companies can also use conduit financing, but usually only for projects that benefit the public. For instance, a company might use it to build affordable housing or to set up a new factory that will create jobs in the area. By using conduit financing, these companies can borrow money at a lower cost, which makes it easier for them to do projects that help the community.
 

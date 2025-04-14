@@ -22,7 +22,7 @@ The price of commodities on the spot market can change a lot. It depends on how 
 
 ## What are the most common types of commodities traded on the spot market?
 
-The most common types of commodities traded on the spot market are energy products, metals, and agricultural goods. Energy products include things like crude oil, natural gas, and gasoline. These are very important because they are used all over the world to power cars, heat homes, and run factories. Metals like gold, silver, and copper are also commonly traded. Gold and silver are often used for jewelry and as investments, while copper is important for making wires and other things that conduct electricity.
+The most common types of commodities traded on the spot market are energy products, metals, and agricultural goods. Energy products include things like [crude oil](/wiki/crude-oil), natural gas, and gasoline. These are very important because they are used all over the world to power cars, heat homes, and run factories. Metals like gold, silver, and copper are also commonly traded. Gold and silver are often used for jewelry and as investments, while copper is important for making wires and other things that conduct electricity.
 
 Agricultural goods are another big part of the spot market. These include things like wheat, corn, soybeans, and coffee. Farmers grow these crops, and people buy them to eat or use in other products. For example, wheat is used to make bread, and corn can be used to feed animals or make ethanol. The prices of these commodities can change a lot depending on the weather, how much is being grown, and how many people want to buy them.
 

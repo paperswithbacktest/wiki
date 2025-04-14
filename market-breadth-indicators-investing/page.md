@@ -76,7 +76,7 @@ Another way to use multiple indicators is by creating a "composite index." This 
 
 ## How have market breadth indicators evolved with the advent of algorithmic trading and big data?
 
-Market breadth indicators have changed a lot because of algorithmic trading and big data. Now, computers can look at huge amounts of data really fast, which means they can use more and different kinds of information to make these indicators better. For example, algorithms can look at lots of different stocks at the same time and see patterns that people might miss. This helps make the indicators more accurate and useful for predicting what the market might do next.
+Market breadth indicators have changed a lot because of [algorithmic trading](/wiki/algorithmic-trading) and big data. Now, computers can look at huge amounts of data really fast, which means they can use more and different kinds of information to make these indicators better. For example, algorithms can look at lots of different stocks at the same time and see patterns that people might miss. This helps make the indicators more accurate and useful for predicting what the market might do next.
 
 Also, big data has made it possible to use more types of information in market breadth indicators. Before, people mostly looked at things like how many stocks went up or down and how much they were traded. But now, they can use things like news stories, social media posts, and even weather reports to see how the market might move. This makes the indicators more complete and gives investors a better idea of the market's mood and direction.
 

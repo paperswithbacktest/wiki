@@ -18,7 +18,7 @@ The main goal of TRON is to make a fair and open internet where everyone can use
 
 TRON was founded by a man named Justin Sun. He is from China and wanted to make a new way for people to share things like music and videos online. Justin Sun used to work at a big company called Ripple, which also deals with money and technology. He decided to start TRON because he thought there should be a better way for creators to share their work and get paid for it.
 
-TRON was launched in 2017. That's when it first became available for people to use and buy the TRX cryptocurrency. Since then, TRON has grown a lot and now many people around the world use it to share content and earn money from their creations.
+TRON was launched in 2017. That's when it first became available for people to use and buy the TRX [cryptocurrency](/wiki/cryptocurrency). Since then, TRON has grown a lot and now many people around the world use it to share content and earn money from their creations.
 
 ## How does the TRON blockchain work?
 
@@ -72,7 +72,7 @@ This voting system makes TRON a fair and open place. It's not just a few people 
 
 TRON has big plans for the future. They want to keep making their network faster and easier to use. One of their main goals is to help more creators share their work and earn money directly from their fans. They're working on new tools and apps that will make it even simpler for people to create and share content on the TRON platform. They also want to make sure that the network stays safe and secure, so they're always looking for ways to improve their technology.
 
-Another important part of TRON's future plans is to grow their community. They want more people to use TRON and be part of their ecosystem. To do this, they're working on partnerships with other companies and projects that can help bring more users to the platform. They're also focusing on education, so they can teach more people about how to use TRON and why it's a good choice for sharing and earning from digital content. By doing all these things, TRON hopes to become an even bigger and better place for creators and users around the world.
+Another important part of TRON's future plans is to grow their community. They want more people to use TRON and be part of their ecosystem. To do this, they're working on partnerships with other companies and projects that can help bring more users to the platform. They're also focusing on education, so they can teach more people about how to use TRON and why it's a good choice for sharing and [earning](/wiki/earning-announcement) from digital content. By doing all these things, TRON hopes to become an even bigger and better place for creators and users around the world.
 
 ## How does TRON compare to other blockchain platforms like Ethereum?
 

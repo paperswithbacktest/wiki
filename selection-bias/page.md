@@ -50,13 +50,13 @@ Other types of bias can affect studies in different ways. For example, confirmat
 
 To detect selection bias in a study, researchers can look at who is included in the study and compare it to the whole population. If the study group does not look like the whole population, there might be selection bias. For example, if a study about how often people exercise only includes people at a gym, it might not include people who do not go to the gym. Researchers can check the study's methods to see if they picked people in a fair way. They can also look at other studies on the same topic to see if their results are different, which might show that selection bias is a problem.
 
-Another way to detect selection bias is by using statistics. Researchers can use special tests to see if the people in the study are different from the whole population in important ways. For example, they might check if the study group has the same mix of ages, genders, and other characteristics as the whole population. If the study group is very different, it could be a sign of selection bias. By being careful and checking their work, researchers can spot selection bias and make sure their study results are accurate and useful for everyone.
+Another way to detect selection bias is by using [statistics](/wiki/bayesian-statistics). Researchers can use special tests to see if the people in the study are different from the whole population in important ways. For example, they might check if the study group has the same mix of ages, genders, and other characteristics as the whole population. If the study group is very different, it could be a sign of selection bias. By being careful and checking their work, researchers can spot selection bias and make sure their study results are accurate and useful for everyone.
 
 ## How can researchers minimize selection bias in their studies?
 
 Researchers can minimize selection bias by making sure they pick people for their study in a fair way. This means they should try to include a mix of people that looks like the whole population. For example, if they are studying how often people eat vegetables, they should not just ask people at a health food store. They should try to include people from different places, like schools, workplaces, and homes, so their results will be true for everyone, not just a small group.
 
-Another way to minimize selection bias is by using random sampling. This means picking people for the study by chance, so everyone has an equal chance to be included. This helps make sure the study group is a good mix of people. Researchers can also check their work by comparing their study group to the whole population to see if they match in important ways, like age, gender, and other characteristics. By being careful about how they pick people for their study, researchers can make their results more accurate and useful for everyone.
+Another way to minimize selection bias is by using random sampling. This means [picking](/wiki/asset-class-picking) people for the study by chance, so everyone has an equal chance to be included. This helps make sure the study group is a good mix of people. Researchers can also check their work by comparing their study group to the whole population to see if they match in important ways, like age, gender, and other characteristics. By being careful about how they pick people for their study, researchers can make their results more accurate and useful for everyone.
 
 ## What are the ethical implications of selection bias?
 
@@ -66,7 +66,7 @@ Another problem with selection bias is that it can make people trust research le
 
 ## Can you explain selection bias in the context of machine learning and data science?
 
-In machine learning and data science, selection bias happens when the data used to train a model does not represent the whole population. This can happen if the data is collected in a way that only includes certain kinds of examples. For instance, if a company is trying to predict what products people will buy, and they only use data from their website, the model might not work well for people who shop in stores. This is because the website data might not include everyone, especially people who do not use the internet. When the model is used to make decisions, it might make wrong predictions because it was trained on a biased set of data.
+In [machine learning](/wiki/machine-learning) and data science, selection bias happens when the data used to train a model does not represent the whole population. This can happen if the data is collected in a way that only includes certain kinds of examples. For instance, if a company is trying to predict what products people will buy, and they only use data from their website, the model might not work well for people who shop in stores. This is because the website data might not include everyone, especially people who do not use the internet. When the model is used to make decisions, it might make wrong predictions because it was trained on a biased set of data.
 
 This kind of bias can cause big problems in machine learning and data science. For example, if a model is used to decide who gets a loan, and it was trained on data that only includes people from certain neighborhoods, it might not be fair to people from other areas. This can lead to unfair decisions and harm people who are left out of the data. To avoid selection bias, data scientists need to make sure they collect data from a wide range of sources and check that their data looks like the whole population. By doing this, they can build models that work well for everyone and make fair decisions.
 
@@ -84,7 +84,7 @@ This problem can cause big issues, especially in areas like medicine and public 
 
 ## What are Techniques to Mitigate Selection Bias?
 
-To mitigate selection bias in algorithmic trading, utilizing Out-of-Sample Testing, Cross-Validation, and Robust Reporting are crucial strategies.
+To mitigate selection bias in [algorithmic trading](/wiki/algorithmic-trading), utilizing Out-of-Sample Testing, Cross-Validation, and Robust Reporting are crucial strategies.
 
 **Out-of-Sample Testing**: One effective technique to combat selection bias involves reserving a segment of your data exclusively for validation. By dividing your dataset into in-sample and out-of-sample portions, you can develop your model using the in-sample data and test its performance on the out-of-sample data. This process helps ensure that the trading strategy is not tailored to historical noise but can perform in new, unseen data. A common approach is the use of a split, such as an 80/20 partition, where 80% of the data is used for model training and the remaining 20% is reserved for out-of-sample testing.
 

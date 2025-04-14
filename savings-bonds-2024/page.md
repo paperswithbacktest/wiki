@@ -96,7 +96,7 @@ This ensures that investors are protected against the eroding effects of inflati
 
 ### Comparative Yield Advantage
 
-In an environment characterized by elevated interest rates, savings bonds, like Series I, stand out by offering higher yields relative to traditional savings accounts. For instance, if a savings account offers an average yield of, say, 1.5%, Series I Bonds can provide substantially higher returns due to their inflation-adjusted components. This makes them a viable long-term option for individuals looking to achieve growth in their savings without exposing themselves to the volatility inherent in equity markets or other riskier investment vehicles.
+In an environment characterized by elevated interest rates, savings bonds, like Series I, stand out by offering higher yields relative to traditional savings accounts. For instance, if a savings account offers an average yield of, say, 1.5%, Series I Bonds can provide substantially higher returns due to their inflation-adjusted components. This makes them a viable long-term option for individuals looking to achieve growth in their savings without exposing themselves to the [volatility](/wiki/volatility-trading-strategies) inherent in equity markets or other riskier investment vehicles.
 
 Investors should weigh the benefits of these bonds against their financial objectives and consider factors such as [liquidity](/wiki/liquidity-risk-premium) needs, as the bonds must be held for at least one year before redemption, with a penalty for redemption within the first five years.
 

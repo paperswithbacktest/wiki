@@ -82,7 +82,7 @@ Another big event that affected currency convertibility was the fall of the Sovi
 
 ## What is the Intersection of Convertible Currencies and Algo Trading?
 
-Combining algorithmic trading with convertible currencies offers a myriad of possibilities for optimized trading strategies. Algorithmic trading, utilizing sophisticated algorithms and computing power, allows for increased trading speed and efficiency. This leads to enhanced market responsiveness and reduced risk, as trades can be executed swiftly in response to market fluctuations.
+Combining [algorithmic trading](/wiki/algorithmic-trading) with convertible currencies offers a myriad of possibilities for optimized trading strategies. Algorithmic trading, utilizing sophisticated algorithms and computing power, allows for increased trading speed and efficiency. This leads to enhanced market responsiveness and reduced risk, as trades can be executed swiftly in response to market fluctuations.
 
 In the foreign exchange ([forex](/wiki/forex-system)) market, where convertible currencies are heavily traded, algorithmic trading can exploit advanced predictive analytics. By leveraging historical data and real-time market information, these algorithms can predict currency price movements, facilitating strategic trading decisions with minimal human intervention. 
 
@@ -90,7 +90,7 @@ $$
 \text{{Effective Trading Strategy}} = \text{{Algorithm}}( \text{{Historical Data}}, \text{{Real-Time Market Data}} )
 $$
 
-By continuously analyzing market data, algorithmic trading systems can adapt to the volatility and dynamics of currency markets. This adaptability ensures that trading strategies remain calibrated to current market conditions, increasing the likelihood of successful trades. 
+By continuously analyzing market data, algorithmic trading systems can adapt to the [volatility](/wiki/volatility-trading-strategies) and dynamics of currency markets. This adaptability ensures that trading strategies remain calibrated to current market conditions, increasing the likelihood of successful trades. 
 
 For instance, in Python, a basic implementation of predictive analytics for currency trading could involve using [machine learning](/wiki/machine-learning) models. These models could be trained on historical exchange rate data to predict future movements, as shown in the following pseudocode:
 

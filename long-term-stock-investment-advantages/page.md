@@ -30,7 +30,7 @@ Another benefit is that long-term investing can help you ride out market ups and
 
 ## Can you explain the concept of compound interest in the context of long-term stock investment?
 
-Compound interest is a powerful idea in long-term stock investment. It means that not only does your initial money grow, but the money you earn from that initial investment can also earn more money over time. Imagine you buy a stock and it goes up in value. If you keep that stock, the gains you made can also increase in value. This is like earning interest on your interest, which can make your money grow a lot faster than if you were just earning simple interest.
+Compound interest is a powerful idea in long-term stock investment. It means that not only does your initial money grow, but the money you earn from that initial investment can also earn more money over time. Imagine you buy a stock and it goes up in value. If you keep that stock, the gains you made can also increase in value. This is like [earning](/wiki/earning-announcement) interest on your interest, which can make your money grow a lot faster than if you were just earning simple interest.
 
 When you invest in stocks for the long term, compound interest works in your favor. Over many years, even small gains can add up to big increases in your investment. For example, if you invest in a company that grows steadily, the value of your stock will keep going up. The longer you hold onto your stocks, the more time compound interest has to work its magic. This is why starting early and being patient can lead to big rewards in long-term stock investing.
 

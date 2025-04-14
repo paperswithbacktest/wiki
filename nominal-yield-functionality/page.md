@@ -24,7 +24,7 @@ This calculation is straightforward and gives you a basic idea of the bond's int
 
 Nominal yield and current yield are two ways to measure a bond's return, but they look at different things. Nominal yield is the interest rate printed on the bond. It's calculated by dividing the annual interest payment by the bond's face value. For example, if a bond pays $50 a year and has a face value of $1,000, the nominal yield is 5%. This number stays the same no matter what the bond's price is in the market.
 
-Current yield, on the other hand, takes into account the price you actually pay for the bond. It's calculated by dividing the annual interest payment by the bond's current market price. If that same bond with a $50 annual interest is selling for $900, the current yield would be about 5.56%. This means current yield can change as the bond's price goes up or down, giving you a more accurate picture of what you're earning right now.
+Current yield, on the other hand, takes into account the price you actually pay for the bond. It's calculated by dividing the annual interest payment by the bond's current market price. If that same bond with a $50 annual interest is selling for $900, the current yield would be about 5.56%. This means current yield can change as the bond's price goes up or down, giving you a more accurate picture of what you're [earning](/wiki/earning-announcement) right now.
 
 ## Can you explain the relationship between nominal yield and bond pricing?
 
@@ -136,7 +136,7 @@ This means that the bondholder will receive an annual [interest rate](/wiki/inte
 
 ## References & Further Reading
 
-For those seeking to deepen their understanding of the intricate dynamics between bond yields and algorithmic trading, several influential texts provide valuable insights:
+For those seeking to deepen their understanding of the intricate dynamics between bond yields and [algorithmic trading](/wiki/algorithmic-trading), several influential texts provide valuable insights:
 
 1. **Fabozzi, F. J. et al. "Bond Markets, Analysis, and Strategies." Pearson Education.** This comprehensive guide explores the fundamentals and intricacies of bond markets, offering readers a structured approach to understanding bond valuation and yield analysis. It is an essential resource for grasping the mechanisms governing fixed-income securities.
 

@@ -21,7 +21,7 @@ For example, a common activation function is the sigmoid function, which you can
 
 ## What are the basic components of a node in a neural network?
 
-A node in a neural network has a few main parts. It gets inputs from other nodes or from the start of the network. These inputs are numbers that the node uses to do its job. Each input also has a weight, which is like a special number that tells the node how important that input is. The node multiplies each input by its weight and then adds all these numbers together to get a sum.
+A node in a [neural network](/wiki/neural-network) has a few main parts. It gets inputs from other nodes or from the start of the network. These inputs are numbers that the node uses to do its job. Each input also has a weight, which is like a special number that tells the node how important that input is. The node multiplies each input by its weight and then adds all these numbers together to get a sum.
 
 Next, the node uses an activation function to decide what to do with this sum. The activation function is like a rule that helps the node figure out if it should send a signal to the next layer of nodes. A common activation function is the sigmoid function, which looks like this: $$ \sigma(x) = \frac{1}{1 + e^{-x}} $$. If the sum is big, the sigmoid function will make the output close to 1. If the sum is small, the output will be close to 0. This process helps the neural network learn and make decisions based on the data it gets.
 

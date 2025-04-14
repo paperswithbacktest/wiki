@@ -20,7 +20,7 @@ A put swaption and a call swaption are both types of options related to swaps, b
 
 On the other hand, a call swaption gives the buyer the right to enter into a swap where they receive a fixed rate and pay a floating rate. This is beneficial if the buyer believes interest rates will go down. By using a call swaption, they can lock in a higher fixed rate now and then pay a lower floating rate if it falls below the fixed rate they're receiving.
 
-In summary, a put swaption is like insurance against rising rates, allowing you to switch to paying a fixed rate if floating rates go up. A call swaption is like insurance against falling rates, letting you switch to receiving a fixed rate if floating rates go down. Both help manage interest rate risk, but they protect against different scenarios.
+In summary, a put swaption is like insurance against rising rates, allowing you to switch to paying a fixed rate if floating rates go up. A call swaption is like insurance against falling rates, letting you switch to receiving a fixed rate if floating rates go down. Both help manage [interest rate](/wiki/interest-rate-trading-strategies) risk, but they protect against different scenarios.
 
 ## What are the basic components of a put swaption?
 
@@ -44,7 +44,7 @@ Investors also use put swaptions to manage risk. For example, if an investor own
 
 The premium for a put swaption is decided by looking at a few important things. First, it depends on how long the swaption lasts until it expires. The longer the time, the more expensive the premium, because there's more time for interest rates to change. Second, the difference between the current interest rate and the fixed rate set in the swaption, called the strike rate, matters a lot. If the strike rate is much lower than the current rate, the premium will be higher because it's more likely the buyer will use the swaption if rates go up.
 
-Also, the expected ups and downs of interest rates, called volatility, play a big role. If people think interest rates will change a lot, the premium goes up because there's a bigger chance the swaption will be useful. Lastly, the creditworthiness of the seller affects the premium. If the seller is seen as risky, the premium might be lower to make up for that risk. All these factors together help figure out how much someone has to pay to buy a put swaption.
+Also, the expected ups and downs of interest rates, called [volatility](/wiki/volatility-trading-strategies), play a big role. If people think interest rates will change a lot, the premium goes up because there's a bigger chance the swaption will be useful. Lastly, the creditworthiness of the seller affects the premium. If the seller is seen as risky, the premium might be lower to make up for that risk. All these factors together help figure out how much someone has to pay to buy a put swaption.
 
 ## What are the risks associated with entering into a put swaption?
 

@@ -60,7 +60,7 @@ The tax situation can change if you decide to sell your shares after a stock spl
 
 Stock splits can make a stock more liquid. Liquidity means how easy it is to buy or sell a stock without changing its price too much. When a company does a stock split, it makes the price of each share lower. This can attract more investors because the stock seems more affordable. More investors buying and selling the stock can lead to more trading, which makes the stock more liquid.
 
-Even though the total value of the company doesn't change, a lower price per share can make people feel like they can buy more shares. This can increase the number of shares being traded every day. When more shares are traded, it's easier for investors to buy or sell the stock quickly, which is what liquidity is all about. So, stock splits can help make a stock more liquid by bringing in more investors and increasing trading activity.
+Even though the total value of the company doesn't change, a lower price per share can make people feel like they can buy more shares. This can increase the number of shares being traded every day. When more shares are traded, it's easier for investors to buy or sell the stock quickly, which is what [liquidity](/wiki/liquidity-risk-premium) is all about. So, stock splits can help make a stock more liquid by bringing in more investors and increasing trading activity.
 
 ## What historical examples illustrate the impact of stock splits?
 

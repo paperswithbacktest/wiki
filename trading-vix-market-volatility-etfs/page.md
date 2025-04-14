@@ -22,7 +22,7 @@ To trade the VIX using ETFs, you can use special ETFs that are designed to track
 
 ## What are the most popular VIX ETFs available to investors?
 
-The most popular VIX ETFs are the iPath Series B S&P 500 VIX Short-Term Futures ETN (VXX) and the ProShares VIX Short-Term Futures ETF (VIXY). These ETFs aim to track the performance of short-term VIX futures contracts. The VXX and VIXY are designed to give investors exposure to the expected volatility of the S&P 500 over the next 30 days. They are popular because they are easy to buy and sell on the stock market, just like regular stocks.
+The most popular VIX ETFs are the iPath Series B S&P 500 VIX Short-Term Futures ETN (VXX) and the ProShares VIX Short-Term Futures [ETF](/wiki/etf-trading-strategies) (VIXY). These ETFs aim to track the performance of short-term VIX futures contracts. The VXX and VIXY are designed to give investors exposure to the expected volatility of the S&P 500 over the next 30 days. They are popular because they are easy to buy and sell on the stock market, just like regular stocks.
 
 However, it's important to know that these ETFs don't always move exactly like the VIX. They track VIX futures, which can be different from the VIX itself. This means that over time, the value of these ETFs can go down even if the VIX stays the same or goes up. So, they are often used by traders for short-term bets on market volatility rather than as long-term investments.
 

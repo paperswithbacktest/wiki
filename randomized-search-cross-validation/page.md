@@ -76,7 +76,7 @@ Another way to make randomized search cross-validation work with big datasets is
 
 ## What advanced techniques can be combined with randomized search to further optimize model performance?
 
-One advanced technique you can use with randomized search is called Bayesian optimization. Instead of picking settings completely at random like randomized search does, Bayesian optimization uses what it learns from past tries to pick the next settings to test. This can help find the best settings faster because it focuses on the settings that are more likely to work well. You can use Bayesian optimization to guide the randomized search, making it smarter about which settings to try next.
+One advanced technique you can use with randomized search is called Bayesian optimization. Instead of [picking](/wiki/asset-class-picking) settings completely at random like randomized search does, Bayesian optimization uses what it learns from past tries to pick the next settings to test. This can help find the best settings faster because it focuses on the settings that are more likely to work well. You can use Bayesian optimization to guide the randomized search, making it smarter about which settings to try next.
 
 Another technique is called ensemble methods. This means using several models together instead of just one. After you use randomized search to find good settings for different models, you can combine these models to make predictions. This can make your overall predictions better because the models can learn different things from the data. By using randomized search to find the best settings for each model in the ensemble, you can make the whole group of models work even better.
 

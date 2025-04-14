@@ -28,7 +28,7 @@ When you see a negative ROE, it's a sign that the company might be struggling. I
 
 ## Can you explain the significance of negative ROE for a company?
 
-A negative ROE is a big red flag for a company. It means the company is not making any profit and is actually losing money. Instead of earning money from the investments made by shareholders, the company is spending more than it's making. This can happen if the company is facing tough times, like having to deal with strong competition or making bad business choices.
+A negative ROE is a big red flag for a company. It means the company is not making any profit and is actually losing money. Instead of [earning](/wiki/earning-announcement) money from the investments made by shareholders, the company is spending more than it's making. This can happen if the company is facing tough times, like having to deal with strong competition or making bad business choices.
 
 When a company has a negative ROE, it shows that it's not using the shareholders' money well. This can worry investors because it means their money is not growing, and they might even lose what they've put in if things don't improve. A negative ROE can make it hard for the company to get more money from investors or banks, which can make the situation even worse.
 

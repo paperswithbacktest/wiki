@@ -72,7 +72,7 @@ It's really important to read the Purchase and Sale Statement carefully before y
 
 Technology and software make it a lot easier to create and keep track of Purchase and Sale Statements. They have special programs that can take all the information about the property, the price, and the costs, and put it all together into a clear statement. These programs can do the math for things like adjustments and prorations, so you don't have to worry about making mistakes with numbers. They can also save all the information in one place, so it's easy to find and change if you need to.
 
-Using software also helps everyone involved in the deal work together better. Real estate agents, lawyers, and escrow companies can share the Purchase and Sale Statement online, so everyone can see it and make sure it's right. If there are any changes or updates, the software can quickly make a new version of the statement. This makes the whole process faster and helps avoid mistakes, so the deal can go smoothly from start to finish.
+Using software also helps everyone involved in the deal work together better. Real estate [agents](/wiki/agents), lawyers, and escrow companies can share the Purchase and Sale Statement online, so everyone can see it and make sure it's right. If there are any changes or updates, the software can quickly make a new version of the statement. This makes the whole process faster and helps avoid mistakes, so the deal can go smoothly from start to finish.
 
 ## What advanced considerations should be taken into account for complex transactions involving multiple properties or international buyers?
 

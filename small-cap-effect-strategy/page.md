@@ -60,7 +60,7 @@ Economic conditions also play a big role in how well small-cap stocks do. When t
 
 One common strategy for taking advantage of the small-cap effect is to invest in small-cap stocks directly. Investors look for small companies that they think will grow a lot in the future. They might use tools to find these companies, like looking at a company's market cap or using stock screening tools to find small companies. Once they find these stocks, they buy them and hold onto them for a long time, hoping that the companies will grow and their stock prices will go up.
 
-Another strategy is to invest in small-cap mutual funds or exchange-traded funds (ETFs). These funds are made up of many small-cap stocks, so instead of picking individual companies, investors can buy a piece of the whole fund. This can be a good way to spread out the risk because if one small company doesn't do well, the others might still do okay. It's also easier because you don't have to do as much research to find good small-cap stocks on your own.
+Another strategy is to invest in small-cap mutual funds or exchange-traded funds (ETFs). These funds are made up of many small-cap stocks, so instead of [picking](/wiki/asset-class-picking) individual companies, investors can buy a piece of the whole fund. This can be a good way to spread out the risk because if one small company doesn't do well, the others might still do okay. It's also easier because you don't have to do as much research to find good small-cap stocks on your own.
 
 Some investors also use a mix of small-cap stocks and other investments, like big company stocks or bonds. This way, they can still benefit from the small-cap effect but also have some safety if the small companies don't do well. This strategy is called diversification, and it can help lower the risk of losing a lot of money if the small-cap stocks go down. By balancing their investments, investors can try to get the best of both worlds: the potential for high returns from small-cap stocks and the stability from other types of investments.
 
@@ -85,10 +85,10 @@ Another way these models help is by managing risk. They can figure out how much 
 ## References & Further Reading
 
 - **Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). 'Algorithms for Hyper-Parameter Optimization.'**  
-  This paper discusses various strategies for optimizing hyper-parameters, crucial for developing efficient algorithmic trading models, particularly when dealing with the diverse behaviors of small-cap stocks.
+  This paper discusses various strategies for optimizing hyper-parameters, crucial for developing efficient [algorithmic trading](/wiki/algorithmic-trading) models, particularly when dealing with the diverse behaviors of small-cap stocks.
 
 - **Lopez de Prado, M. (2018). 'Advances in Financial Machine Learning.'**  
-  Offers insights into cutting-edge machine learning techniques applicable in financial environments, providing tools to manage the volatility and unpredictability often associated with small-cap trading.
+  Offers insights into cutting-edge [machine learning](/wiki/machine-learning) techniques applicable in financial environments, providing tools to manage the [volatility](/wiki/volatility-trading-strategies) and unpredictability often associated with small-cap trading.
 
 - **Aronson, D. (2006). 'Evidence-Based Technical Analysis.'**  
   Focuses on using rigorous data analysis for trading decisions, a valuable approach given the lesser analyst coverage of small-cap stocks, which can lead to mispricings and trading opportunities.
@@ -97,5 +97,5 @@ Another way these models help is by managing risk. They can figure out how much 
   A comprehensive guide on implementing machine learning algorithms, which can enhance adaptability in models dealing with small-cap stocks by learning from market trends and price movements.
 
 - **Chan, E. P. (2009). 'Quantitative Trading: How to Build Your Own Algorithmic Trading Business.'**  
-  Explains the necessities of creating algorithmic trading strategies, including risk management and execution, relevant to overcoming the challenges posed by the liquidity constraints and volatility of small-cap stocks.
+  Explains the necessities of creating algorithmic trading strategies, including risk management and execution, relevant to overcoming the challenges posed by the [liquidity](/wiki/liquidity-risk-premium) constraints and volatility of small-cap stocks.
 

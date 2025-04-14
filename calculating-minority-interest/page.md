@@ -112,7 +112,7 @@ This method of accounting for minority interest is consistent with both Generall
 
 ## What is the interplay between minority interest and algo trading?
 
-Minority interest, also known as non-controlling interest, is a vital [factor](/wiki/factor-investing) in calculating and analyzing financial ratios like Enterprise Value (EV) within algorithmic trading strategies. Enterprise Value is a comprehensive measure of a company's total value, often used in financial analysis and valuation metrics within trading algorithms. The formula for EV is:
+Minority interest, also known as non-controlling interest, is a vital [factor](/wiki/factor-investing) in calculating and analyzing financial ratios like Enterprise Value (EV) within [algorithmic trading](/wiki/algorithmic-trading) strategies. Enterprise Value is a comprehensive measure of a company's total value, often used in financial analysis and valuation metrics within trading algorithms. The formula for EV is:
 
 $$
 

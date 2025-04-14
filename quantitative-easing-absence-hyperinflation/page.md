@@ -34,7 +34,7 @@ The key is to keep a balance. If the central bank keeps a close eye on how much 
 
 ## What are the historical examples of hyperinflation?
 
-One famous example of hyperinflation happened in Germany in the early 1920s. After World War I, Germany had a lot of debt and needed to pay back other countries. To do this, the German government started printing a lot of money. This made the value of their money go down a lot. Prices for things like bread and milk went up so fast that people had to carry around wheelbarrows full of money just to buy basic things. This made life very hard for people and helped cause big problems in Germany.
+One famous example of hyperinflation happened in Germany in the early 1920s. After World War I, Germany had a lot of debt and needed to pay back other countries. To do this, the German government started printing a lot of money. This made the value of their money go down a lot. Prices for things like bread and milk went up so fast that people had to [carry](/wiki/carry-trading) around wheelbarrows full of money just to buy basic things. This made life very hard for people and helped cause big problems in Germany.
 
 Another example is Zimbabwe in the late 2000s. The government there also printed a lot of money to pay for things, which made the value of their money drop quickly. Prices went up so fast that people had to use huge amounts of money to buy even small things. At one point, Zimbabwe had to print a 100 trillion dollar bill, but it was still not enough to buy much. This hyperinflation made it very hard for people to live and work, and it took a long time for the country to start getting better.
 

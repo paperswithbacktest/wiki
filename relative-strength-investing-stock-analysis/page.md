@@ -22,7 +22,7 @@ For example, if Stock A went up by 10% over the last year and the market index w
 
 ## Why is relative strength important for stock analysis?
 
-Relative strength is important for stock analysis because it helps investors see which stocks are doing better than others. By comparing a stock's performance to a market index or another stock, investors can spot the ones that are growing faster. This can be a good sign that a stock might keep doing well in the future. It's like picking the fastest runner in a race; if a stock is outperforming others, it might be a smart choice to invest in.
+Relative strength is important for stock analysis because it helps investors see which stocks are doing better than others. By comparing a stock's performance to a market index or another stock, investors can spot the ones that are growing faster. This can be a good sign that a stock might keep doing well in the future. It's like [picking](/wiki/asset-class-picking) the fastest runner in a race; if a stock is outperforming others, it might be a smart choice to invest in.
 
 However, relative strength isn't perfect. It only looks at how prices have changed in the past, and past performance doesn't always tell us what will happen next. That's why smart investors use relative strength as just one piece of the puzzle. They also look at other things like the company's earnings, the overall economy, and news that might affect the stock. By using relative strength along with other tools, investors can make better choices about where to put their money.
 
@@ -76,7 +76,7 @@ Another advanced technique is using moving averages with relative strength. A mo
 
 ## How has the use of relative strength evolved with the advent of algorithmic trading and machine learning?
 
-The use of relative strength has changed a lot because of algorithmic trading and machine learning. Before, investors had to do a lot of work by hand to figure out which stocks were doing better than others. Now, computers can do this work much faster and better. Algorithms can look at tons of data in a snap and find patterns that people might miss. This means investors can use relative strength to make smarter choices about where to put their money. They can also change their investments more quickly when the market changes.
+The use of relative strength has changed a lot because of [algorithmic trading](/wiki/algorithmic-trading) and [machine learning](/wiki/machine-learning). Before, investors had to do a lot of work by hand to figure out which stocks were doing better than others. Now, computers can do this work much faster and better. Algorithms can look at tons of data in a snap and find patterns that people might miss. This means investors can use relative strength to make smarter choices about where to put their money. They can also change their investments more quickly when the market changes.
 
 Machine learning has made relative strength even more powerful. These smart computer programs can learn from past data and get better at predicting which stocks will do well. They can look at not just how a stock's price has changed, but also other things like news and what people are saying on social media. This helps investors see the bigger picture and make better decisions. With machine learning, relative strength isn't just about looking at the past; it's about using the past to guess the future.
 

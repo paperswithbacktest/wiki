@@ -34,7 +34,7 @@ Other important parts of personal outlays are transportation costs, like gas for
 
 ## Why is it important to track personal income and outlays?
 
-It's important to track personal income and outlays because it helps people understand where their money is coming from and where it's going. When you know how much money you earn and how much you spend, you can make better choices about how to use your money. For example, if you see that you're spending a lot on eating out, you might decide to cook more at home to save money. Tracking your income and outlays also helps you see if you're earning enough to cover your needs and wants, or if you need to find ways to earn more.
+It's important to track personal income and outlays because it helps people understand where their money is coming from and where it's going. When you know how much money you earn and how much you spend, you can make better choices about how to use your money. For example, if you see that you're spending a lot on eating out, you might decide to cook more at home to save money. Tracking your income and outlays also helps you see if you're [earning](/wiki/earning-announcement) enough to cover your needs and wants, or if you need to find ways to earn more.
 
 Another reason to track personal income and outlays is to plan for the future. By keeping an eye on your money, you can set goals like saving for a big purchase, like a car or a house, or for retirement. It also helps you prepare for unexpected expenses, like a car repair or a medical bill. When you know your financial situation well, you can make a budget that works for you and helps you live within your means. This can lead to less stress about money and a more secure financial future.
 

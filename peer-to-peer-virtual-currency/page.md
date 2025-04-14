@@ -54,7 +54,7 @@ Another challenge is that peer-to-peer virtual currency can be used for things t
 
 One way to get peer-to-peer virtual currency is by buying it. You can use websites called exchanges, like Coinbase or Binance, where you can trade your regular money for virtual currency like Bitcoin or Ethereum. You just need to sign up, put some money into your account, and then you can buy the virtual currency. Another way is to find someone who already has some and wants to sell it to you. You can meet them online or in person and trade your money for their virtual currency.
 
-Another way to get peer-to-peer virtual currency is by earning it. Some people do this by a process called mining. Mining means using your computer to help keep the virtual currency system running. When your computer helps, you get rewarded with some of the currency. It can take a lot of time and electricity, though, so it's not easy. You can also earn virtual currency by doing jobs or selling things online and getting paid in it. Some websites and apps let you do this, so you can work and get paid in virtual currency instead of regular money.
+Another way to get peer-to-peer virtual currency is by [earning](/wiki/earning-announcement) it. Some people do this by a process called mining. Mining means using your computer to help keep the virtual currency system running. When your computer helps, you get rewarded with some of the currency. It can take a lot of time and electricity, though, so it's not easy. You can also earn virtual currency by doing jobs or selling things online and getting paid in it. Some websites and apps let you do this, so you can work and get paid in virtual currency instead of regular money.
 
 ## What is the role of cryptography in peer-to-peer virtual currency?
 

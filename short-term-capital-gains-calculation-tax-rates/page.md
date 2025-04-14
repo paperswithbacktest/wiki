@@ -54,7 +54,7 @@ Another way to reduce your tax on short-term capital gains is through certain de
 
 Short-term capital losses can help lower the amount of tax you have to pay on short-term capital gains. When you sell something you've owned for a year or less and lose money, that's a short-term capital loss. You can use this loss to reduce your short-term capital gains. For example, if you made a $1,000 profit from selling one stock but lost $500 on another, you can subtract the $500 loss from your $1,000 gain. This leaves you with a taxable gain of $500, which means you'll pay less tax.
 
-If your short-term capital losses are more than your short-term capital gains, you can use the extra loss to reduce other types of income, like your salary. You can deduct up to $3,000 of this extra loss from your income each year. If you still have losses left after that, you can carry them over to future years to keep reducing your taxes. This way, even if you lose money on some investments, you can still save on taxes.
+If your short-term capital losses are more than your short-term capital gains, you can use the extra loss to reduce other types of income, like your salary. You can deduct up to $3,000 of this extra loss from your income each year. If you still have losses left after that, you can [carry](/wiki/carry-trading) them over to future years to keep reducing your taxes. This way, even if you lose money on some investments, you can still save on taxes.
 
 ## What are the reporting requirements for short-term capital gains on tax returns?
 

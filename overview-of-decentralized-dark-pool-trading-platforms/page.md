@@ -70,7 +70,7 @@ Another way to check the reliability is by looking at the security of the platfo
 
 ## What future developments are expected in the field of decentralized dark pool trading?
 
-In the future, we might see decentralized dark pool trading platforms becoming even more advanced. They could use new technology to make trading faster and safer. For example, they might use smarter ways to match trades so that big investors can get even better prices without affecting the market. Also, these platforms might start using artificial intelligence to help find the best trades and keep everything running smoothly. This could make them more popular and useful for more people.
+In the future, we might see decentralized dark pool trading platforms becoming even more advanced. They could use new technology to make trading faster and safer. For example, they might use smarter ways to match trades so that big investors can get even better prices without affecting the market. Also, these platforms might start using [artificial intelligence](/wiki/ai-artificial-intelligence) to help find the best trades and keep everything running smoothly. This could make them more popular and useful for more people.
 
 Another thing that might happen is that rules and regulations could change to make these platforms safer and more fair. Right now, it's hard for people who make the rules to keep an eye on decentralized dark pools because they are so secret. But in the future, new laws might be made to help watch over these platforms better. This could make people trust them more and feel safer using them. Overall, the future of decentralized dark pool trading could be very exciting, with new technology and better rules making it easier and safer for everyone to trade.
 
@@ -78,7 +78,7 @@ Another thing that might happen is that rules and regulations could change to ma
 
 Decentralized dark pools work well with other blockchain technologies and DeFi applications because they all use the same kind of technology. For example, a dark pool might use a blockchain to keep trades private and safe. This is the same technology that other DeFi apps use to let people do things like borrow money or earn interest. By using the same technology, dark pools can easily connect with these other apps. This means someone can trade on a dark pool and then use another DeFi app to do something else with their money, all without leaving the blockchain world.
 
-This connection can make trading on dark pools even more useful. For instance, someone might trade on a dark pool and then use a DeFi app to turn their money into a different kind of cryptocurrency. Or they might use a DeFi app to get a loan and then use that money to trade on a dark pool. Because everything is on the blockchain, these actions can happen quickly and safely. As more DeFi apps are created, dark pools could become even more important, helping people do more with their money in new and interesting ways.
+This connection can make trading on dark pools even more useful. For instance, someone might trade on a dark pool and then use a DeFi app to turn their money into a different kind of [cryptocurrency](/wiki/cryptocurrency). Or they might use a DeFi app to get a loan and then use that money to trade on a dark pool. Because everything is on the blockchain, these actions can happen quickly and safely. As more DeFi apps are created, dark pools could become even more important, helping people do more with their money in new and interesting ways.
 
 ## What is Algorithmic Trading in Cryptocurrency?
 

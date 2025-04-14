@@ -22,7 +22,7 @@ This kind of data also helps businesses learn about their competitors. They can 
 
 ## How can web traffic alternative data be collected?
 
-Web traffic alternative data can be collected in different ways. One way is through data providers who gather information from many websites. These providers use special tools to track how many people visit a site, where they come from, and what they do on the site. They then sell this information to businesses who want to learn more about their website's performance and their competitors.
+Web traffic [alternative data](/wiki/best-alternative-data) can be collected in different ways. One way is through data providers who gather information from many websites. These providers use special tools to track how many people visit a site, where they come from, and what they do on the site. They then sell this information to businesses who want to learn more about their website's performance and their competitors.
 
 Another way to collect this data is by using web analytics tools. These tools are placed on a website and they keep track of visitor behavior. They can show how long people stay on the site, which pages they visit, and if they come back again. Businesses can use this information to see what works well on their site and what needs to be improved.
 
@@ -74,7 +74,7 @@ Another good practice is to compare the web traffic alternative data with other 
 
 ## How can machine learning and AI be applied to improve the analysis of web traffic alternative data?
 
-Machine learning and AI can help businesses understand web traffic alternative data better by finding patterns and making predictions. These technologies can look at a lot of data quickly and find things that people might miss. For example, they can see if more people visit a website at certain times of the day or if certain pages are more popular with certain groups of visitors. By using machine learning, businesses can learn more about their website and their visitors, and make smarter decisions about how to improve it.
+Machine learning and AI can help businesses understand web traffic alternative data better by finding patterns and making predictions. These technologies can look at a lot of data quickly and find things that people might miss. For example, they can see if more people visit a website at certain times of the day or if certain pages are more popular with certain groups of visitors. By using [machine learning](/wiki/machine-learning), businesses can learn more about their website and their visitors, and make smarter decisions about how to improve it.
 
 AI can also help by making the data more accurate and easier to use. It can clean up the data and fix any mistakes, so businesses can trust it more. AI can also put different kinds of data together, like web traffic data and customer data, to give a full picture of what's happening. This helps businesses see how their website is doing and how they can make it better. By using AI, businesses can get more out of their web traffic alternative data and make better choices about their marketing and website.
 

@@ -22,7 +22,7 @@ Doing a substitution swap can help people manage their money better. It lets the
 
 ## What are the common reasons for executing a substitution swap?
 
-People do substitution swaps for a few main reasons. One big reason is to get a better price. If someone has a bond that isn't doing well or is worth less than they thought, they might swap it for a similar bond that is cheaper or has a better price. Another reason is to get a better interest rate. If a similar bond from the same company offers a higher interest rate, swapping can help them earn more money over time.
+People do substitution swaps for a few main reasons. One big reason is to get a better price. If someone has a bond that isn't doing well or is worth less than they thought, they might swap it for a similar bond that is cheaper or has a better price. Another reason is to get a better [interest rate](/wiki/interest-rate-trading-strategies). If a similar bond from the same company offers a higher interest rate, swapping can help them earn more money over time.
 
 Another reason for a substitution swap is to manage risk. Sometimes, the bond someone owns might become riskier because of changes in the market or the company's situation. By swapping it for a similar but less risky bond, they can feel safer about their investment. Lastly, people might do a substitution swap to take advantage of market changes. If they think the market is going to change in a way that will make one bond better than another, they can swap to benefit from those changes.
 

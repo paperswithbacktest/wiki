@@ -190,7 +190,7 @@ $$
    Through its buyback program, Apple balances capital allocation between returning money to shareholders and investing in growth opportunities, such as research and development or strategic acquisitions. This balance is crucial for sustaining long-term corporate growth alongside shareholder rewards.
 
 3. **Navigating Market Conditions**:
-   Apple's strategic deployment of buybacks, particularly during periods of market volatility, reflects its ability to adapt to changing market conditions while prioritizing shareholder returns. This adaptability demonstrates the importance of timing and flexibility in executing buyback programs.
+   Apple's strategic deployment of buybacks, particularly during periods of market [volatility](/wiki/volatility-trading-strategies), reflects its ability to adapt to changing market conditions while prioritizing shareholder returns. This adaptability demonstrates the importance of timing and flexibility in executing buyback programs.
 
 In summary, Apple's stock buyback initiatives provide illuminating insights into how corporations can strategically utilize repurchase programs to enhance financial metrics, support stock prices, and strengthen shareholder relationships. The success of Apple's buyback strategy underscores the potential benefits of well-timed and appropriately scaled share repurchase programs in achieving corporate financial objectives.
 

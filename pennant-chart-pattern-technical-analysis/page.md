@@ -18,7 +18,7 @@ When traders spot a Pennant pattern, they often get ready for the price to break
 
 A Pennant pattern forms on a price chart after a big move up or down, which we call the flagpole. Imagine the price going up really fast or dropping quickly. That's the flagpole. After this big move, the price starts to move sideways but in a smaller and smaller range. It looks like a little triangle on the chart, and that's what we call the pennant.
 
-The pennant forms because traders are unsure what will happen next, so the price goes back and forth but stays within this narrowing triangle. It's like the market is taking a short break. Eventually, the price breaks out of this triangle, usually in the same direction as the flagpole. That's when traders think the big move will continue, and they might decide to buy or sell based on that breakout.
+The pennant forms because traders are unsure what will happen next, so the price goes back and forth but stays within this narrowing triangle. It's like the market is taking a short break. Eventually, the price breaks out of this triangle, usually in the same direction as the flagpole. That's when traders think the big move will continue, and they might decide to buy or sell based on that [breakout](/wiki/breakout-trading).
 
 ## What are the key components of a Pennant pattern?
 
@@ -58,7 +58,7 @@ However, the Pennant pattern has some limits. Sometimes, the price doesn't break
 
 ## Can you combine the Pennant pattern with other technical indicators for better results?
 
-Yes, you can use the Pennant pattern along with other tools to make better trading choices. One way to do this is by using something called volume. When the price breaks out of the pennant, you want to see a lot of trading happening. If there's a lot of volume, it's a stronger sign that the price will keep moving in the same direction as the flagpole. Another tool you can use is the Relative Strength Index (RSI). This tool helps you see if a stock is overbought or oversold. If the RSI shows the stock is not too high or too low when the breakout happens, it might be a good time to trade.
+Yes, you can use the Pennant pattern along with other tools to make better trading choices. One way to do this is by using something called [volume](/wiki/volume-trading-strategy). When the price breaks out of the pennant, you want to see a lot of trading happening. If there's a lot of volume, it's a stronger sign that the price will keep moving in the same direction as the flagpole. Another tool you can use is the Relative Strength Index (RSI). This tool helps you see if a stock is overbought or oversold. If the RSI shows the stock is not too high or too low when the breakout happens, it might be a good time to trade.
 
 You can also use moving averages to help with your trades. A moving average is a line on the chart that shows the average price over a certain time. If the price breaks out of the pennant and then stays above a moving average, it's a good sign that the upward trend might continue. If the price stays below the moving average after a downward breakout, it might keep going down. By combining the Pennant pattern with these other tools, you can get a better idea of when to buy or sell and make smarter trading decisions.
 
@@ -80,7 +80,7 @@ To make the most out of trading with Pennant patterns, you can use something cal
 
 Another way to improve your trades is by using multiple time frames. You can look at the Pennant pattern on a short-term chart, like a 5-minute chart, to spot the breakout. But then, you can also check a longer time frame, like a daily chart, to see if the overall trend supports the breakout. If the long-term trend is going the same way as the breakout, it's more likely that the price will keep moving in that direction. This can help you feel more confident in your trade and avoid getting caught in a short-term move that doesn't last.
 
-You can also combine the Pennant pattern with other indicators, like the Moving Average Convergence Divergence (MACD). The MACD can help you see if the momentum is strong enough to support the breakout. If the MACD shows a strong signal in the same direction as the breakout, it's a good sign that the price will keep moving that way. By using these advanced techniques, you can make smarter decisions and improve your chances of making money from Pennant patterns.
+You can also combine the Pennant pattern with other indicators, like the Moving Average Convergence Divergence (MACD). The MACD can help you see if the [momentum](/wiki/momentum) is strong enough to support the breakout. If the MACD shows a strong signal in the same direction as the breakout, it's a good sign that the price will keep moving that way. By using these advanced techniques, you can make smarter decisions and improve your chances of making money from Pennant patterns.
 
 ## How can one interpret and trade pennant patterns?
 

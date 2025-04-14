@@ -82,13 +82,13 @@ In terms of sustainability, Trump's policies had some problems. The big tax cuts
 
 ## What is the impact of trade wars on algorithmic trading?
 
-Trade wars during Donald Trump's presidency introduced substantial volatility into global financial markets. This volatility became a critical focus for algorithmic traders, who rely on speed, precision, and data-driven strategies to capitalize on market fluctuations.
+Trade wars during Donald Trump's presidency introduced substantial [volatility](/wiki/volatility-trading-strategies) into global financial markets. This volatility became a critical focus for algorithmic traders, who rely on speed, precision, and data-driven strategies to capitalize on market fluctuations.
 
-Firstly, algorithmic strategies needed to adapt to sudden market shifts prompted by tariff announcements and other trade policy developments. These abrupt changes could quickly alter asset prices, creating opportunities and risks that algorithmic trading systems had to handle dynamically. This required enhancements in real-time data analysis and fast execution capabilities to maintain competitiveness.
+Firstly, algorithmic strategies needed to adapt to sudden market shifts prompted by tariff announcements and other trade policy developments. These abrupt changes could quickly alter asset prices, creating opportunities and risks that [algorithmic trading](/wiki/algorithmic-trading) systems had to handle dynamically. This required enhancements in real-time data analysis and fast execution capabilities to maintain competitiveness.
 
 High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) particularly benefitted from the increased market instability. HFT firms leverage their superior technology and infrastructure to execute trades on the millisecond scale, allowing them to profit from the quick oscillations in price triggered by geopolitical events. The rapid responses to news, such as tariff impositions or trade negotiations, provide fertile ground for these traders.
 
-Moreover, algorithmic traders adjusted their models to exploit arbitrage opportunities that arose due to mismatches in asset pricing caused by trade tensions. These arbitrage opportunities could take multiple forms, including temporal, statistical, and spatial arbitrage. Models enhanced with [machine learning](/wiki/machine-learning) algorithms allowed traders to identify and act on these opportunities more effectively.
+Moreover, algorithmic traders adjusted their models to exploit [arbitrage](/wiki/arbitrage) opportunities that arose due to mismatches in asset pricing caused by trade tensions. These arbitrage opportunities could take multiple forms, including temporal, statistical, and spatial arbitrage. Models enhanced with [machine learning](/wiki/machine-learning) algorithms allowed traders to identify and act on these opportunities more effectively.
 
 For instance, consider a simplified model where an algorithm detects pricing inefficiencies between two correlated assets $A$ and $B$ due to different responses to a trade announcement. The algorithm uses a pricing equation:
 

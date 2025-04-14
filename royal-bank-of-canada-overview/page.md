@@ -78,7 +78,7 @@ RBC also has rules and plans to handle risks if they happen. They set limits on 
 
 The Royal Bank of Canada, or RBC, has been using new technology to make banking easier and better for its customers. They have made a strong online banking system where people can do their banking from home or on their phones. RBC's mobile app lets you check your account, pay bills, and even deposit checks by taking a picture. They also use something called AI, which is like a smart computer that can help answer your questions and give you advice on how to save or invest your money. This makes banking faster and more personal.
 
-RBC also works on keeping their technology safe. They use special tools to protect your information and money from hackers. They have something called two-factor authentication, which means you need more than just a password to get into your account. This makes it harder for bad people to get in. RBC also uses technology to find and stop fraud before it happens. By using these new tools, RBC helps keep your money safe while making banking easier and more convenient.
+RBC also works on keeping their technology safe. They use special tools to protect your information and money from hackers. They have something called two-[factor](/wiki/factor-investing) authentication, which means you need more than just a password to get into your account. This makes it harder for bad people to get in. RBC also uses technology to find and stop fraud before it happens. By using these new tools, RBC helps keep your money safe while making banking easier and more convenient.
 
 ## What are the future challenges and opportunities for the Royal Bank of Canada?
 

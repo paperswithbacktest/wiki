@@ -54,7 +54,7 @@ Another risk is that put options have an expiration date. If the stock price doe
 
 The price of a put option, also called the premium, is based on a few important things. One is the difference between the current stock price and the strike price of the put option. If the stock price is a lot lower than the strike price, the put option is more valuable because it lets you sell the stock at a much higher price than it's worth now. Another thing that affects the price is how much time is left until the put option expires. The more time there is, the more valuable the put option can be because there's more chance for the stock price to drop below the strike price.
 
-Other factors that influence the price of a put option include how much the stock price might change, called volatility. If the stock price is expected to move a lot, the put option is more valuable because there's a higher chance the stock price will drop below the strike price. Interest rates and any dividends the stock might pay also play a role, but these are smaller factors compared to the others. All these things together help decide how much you have to pay for a put option.
+Other factors that influence the price of a put option include how much the stock price might change, called [volatility](/wiki/volatility-trading-strategies). If the stock price is expected to move a lot, the put option is more valuable because there's a higher chance the stock price will drop below the strike price. Interest rates and any dividends the stock might pay also play a role, but these are smaller factors compared to the others. All these things together help decide how much you have to pay for a put option.
 
 ## What is the break-even point for a put option?
 

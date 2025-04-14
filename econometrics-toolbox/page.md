@@ -78,7 +78,7 @@ Simulation is another way an econometrics toolbox can be used. Economists can cr
 
 ## What are the current trends and future developments in econometrics toolboxes?
 
-One big trend in econometrics toolboxes is the move towards more user-friendly interfaces. Many toolboxes are now easier to use, even if you're not a coding expert. This means more people can do econometric analysis without needing to learn a lot of technical stuff. Another trend is the use of machine learning. Economists are starting to use machine learning techniques to find patterns in data that traditional models might miss. This can help them make better predictions and understand the economy in new ways.
+One big trend in econometrics toolboxes is the move towards more user-friendly interfaces. Many toolboxes are now easier to use, even if you're not a coding expert. This means more people can do econometric analysis without needing to learn a lot of technical stuff. Another trend is the use of [machine learning](/wiki/machine-learning). Economists are starting to use machine learning techniques to find patterns in data that traditional models might miss. This can help them make better predictions and understand the economy in new ways.
 
 In the future, we might see even more integration between different types of software. Econometrics toolboxes could work even better with other tools like databases and data visualization software. This would make it easier to handle big datasets and share results with others. Also, as computers get more powerful, econometrics toolboxes will be able to run more complex models faster. This means economists can do more detailed analysis and get results quicker. These changes will help make econometrics more useful and accessible to everyone.
 

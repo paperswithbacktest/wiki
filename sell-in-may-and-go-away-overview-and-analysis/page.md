@@ -76,7 +76,7 @@ Also, the world economy is more connected now than it used to be. Things that ha
 
 ## Can advanced statistical models or machine learning improve the timing and effectiveness of the 'Sell in May and Go Away' strategy?
 
-Advanced statistical models and machine learning can help make the 'Sell in May and Go Away' strategy work better. These tools can look at a lot of data from the past and find patterns that people might not see. They can also look at what is happening in the economy and the world right now to help decide if it's a good time to sell stocks in May. By using these tools, an investor might be able to time their selling and buying better, so they miss out on fewer good days in the market and avoid more of the bad days.
+Advanced statistical models and [machine learning](/wiki/machine-learning) can help make the 'Sell in May and Go Away' strategy work better. These tools can look at a lot of data from the past and find patterns that people might not see. They can also look at what is happening in the economy and the world right now to help decide if it's a good time to sell stocks in May. By using these tools, an investor might be able to time their selling and buying better, so they miss out on fewer good days in the market and avoid more of the bad days.
 
 However, even with these smart tools, there are no guarantees. The stock market can be hard to predict, and things can change quickly. Machine learning can help make better guesses about what might happen, but it can't know for sure. So, while these tools can improve the strategy, investors still need to be careful and think about other things too. They should not just rely on a computer to make all their decisions for them.
 

@@ -30,7 +30,7 @@ On the other hand, a high debt-to-equity ratio isn't always bad. Sometimes, a co
 
 Some industries, like utilities and telecom companies, often have higher debt-to-equity ratios. These businesses need a lot of money to build things like power plants or cell towers, which cost a lot. Because they need so much money upfront, they often borrow more than other types of companies. It's a bit like needing a big loan to buy a house; you need the money to get started, and then you pay it back over time.
 
-Another industry with higher debt-to-equity ratios is real estate. Companies that build or own big buildings, like apartments or shopping centers, often use a lot of borrowed money. Real estate projects can take a long time to finish and start making money, so these companies might need to borrow to cover costs until they can start earning from their properties. It's kind of like taking out a loan to start a big project, hoping that once it's done, you'll make enough money to pay back the loan and then some.
+Another industry with higher debt-to-equity ratios is real estate. Companies that build or own big buildings, like apartments or shopping centers, often use a lot of borrowed money. Real estate projects can take a long time to finish and start making money, so these companies might need to borrow to cover costs until they can start [earning](/wiki/earning-announcement) from their properties. It's kind of like taking out a loan to start a big project, hoping that once it's done, you'll make enough money to pay back the loan and then some.
 
 ## What are the potential risks of a high debt-to-equity ratio for a company?
 

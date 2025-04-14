@@ -22,7 +22,7 @@ Another way Coinme helps beginners is with their Coinme Wallet. This is a simple
 
 ## What are the steps to buy cryptocurrency using Coinme?
 
-To buy cryptocurrency using Coinme, you first need to find a Coinstar kiosk near you. These kiosks are often in grocery stores or other places where you shop. Once you find a kiosk, you can go there with cash. At the kiosk, you'll see instructions on the screen that tell you what to do. You'll need to enter how much cash you want to spend and choose which cryptocurrency you want to buy, like Bitcoin or Ethereum. Then, you put your cash into the kiosk, and it will give you a receipt with a code on it.
+To buy [cryptocurrency](/wiki/cryptocurrency) using Coinme, you first need to find a Coinstar kiosk near you. These kiosks are often in grocery stores or other places where you shop. Once you find a kiosk, you can go there with cash. At the kiosk, you'll see instructions on the screen that tell you what to do. You'll need to enter how much cash you want to spend and choose which cryptocurrency you want to buy, like Bitcoin or Ethereum. Then, you put your cash into the kiosk, and it will give you a receipt with a code on it.
 
 After you get the receipt, you need to use the Coinme app on your phone. If you don't have the app yet, you can download it from the app store. Open the app and sign in or create a new account if you're new. Once you're logged in, go to the section where you can redeem your code. Enter the code from your receipt into the app. The app will then add the cryptocurrency you bought to your Coinme Wallet. Now you own the cryptocurrency and can keep it in your wallet or send it to someone else.
 
@@ -36,7 +36,7 @@ The exact amount of these fees can be different each time you use Coinme. The tr
 
 Coinme takes security very seriously to keep your transactions and data safe. They use strong encryption to protect your information when you use their app or website. Encryption is like a secret code that makes sure no one else can see your private stuff. Coinme also follows strict rules to make sure they are doing everything right and keeping your money safe. They have special teams that watch for anything strange or suspicious, so they can stop bad things from happening.
 
-Another way Coinme keeps your transactions secure is by using something called two-factor authentication (2FA). This means that when you log into your account, you need to enter a special code sent to your phone. This makes it much harder for someone else to get into your account, even if they know your password. Plus, Coinme keeps most of the cryptocurrencies in special secure storage, which is like a super-safe vault. This way, even if something goes wrong, your money is still safe.
+Another way Coinme keeps your transactions secure is by using something called two-[factor](/wiki/factor-investing) authentication (2FA). This means that when you log into your account, you need to enter a special code sent to your phone. This makes it much harder for someone else to get into your account, even if they know your password. Plus, Coinme keeps most of the cryptocurrencies in special secure storage, which is like a super-safe vault. This way, even if something goes wrong, your money is still safe.
 
 ## What types of cryptocurrencies can be bought and sold through Coinme?
 

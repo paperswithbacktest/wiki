@@ -30,7 +30,7 @@ Another reason could be that investors are feeling unsure or are taking a break.
 
 To confirm a flat trading period, one of the main things to look at is the price chart of the market or a specific stock. If the price line on the chart looks like it's not moving much and stays around the same level for a while, that's a good sign that the market is trading flat. You might see the price go up a little and then come back down to the same spot, or go down a bit and then come back up. This back-and-forth movement without much change in the overall level shows that the market is in a flat period.
 
-Another indicator is the trading volume. If not many people are buying or selling, the market can stay flat. When you see that the number of trades happening each day is lower than usual, it means people are not making big moves. They might be waiting for something to happen before they decide to buy or sell more. So, low trading volume along with a steady price level can confirm that the market is indeed trading flat.
+Another indicator is the trading [volume](/wiki/volume-trading-strategy). If not many people are buying or selling, the market can stay flat. When you see that the number of trades happening each day is lower than usual, it means people are not making big moves. They might be waiting for something to happen before they decide to buy or sell more. So, low trading volume along with a steady price level can confirm that the market is indeed trading flat.
 
 ## How does trading flat affect different types of traders?
 

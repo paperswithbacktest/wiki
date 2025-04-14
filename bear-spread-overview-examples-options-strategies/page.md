@@ -154,7 +154,7 @@ Books and articles provide valuable insights into options strategies, including 
 
 2. **"The Options Playbook" by Brian Overby** - A beginner-friendly resource that outlines various options strategies, including calls and puts. The book discusses the mechanics of bear spreads and their strengths and limitations.
 
-Research on algorithmic trading and its applications in options trading has advanced significantly. Notable studies include:
+Research on [algorithmic trading](/wiki/algorithmic-trading) and its applications in options trading has advanced significantly. Notable studies include:
 
 1. **"Algorithmic and High-Frequency Trading" by Álvaro Cartea, Sebastian Jaimungal, and José Penalva** - This book presents mathematical models for algorithmic trading, elucidating how traders can integrate complex options strategies like bear spreads into automated systems.
 

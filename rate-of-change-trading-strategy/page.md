@@ -54,7 +54,7 @@ On the other hand, when the ROC goes from positive to negative and crosses below
 
 Using the ROC by itself can be tricky because it doesn't tell the whole story about a stock's price. The ROC only shows how fast the price is changing, but it doesn't say if the price is high or low compared to what it usually is. This means that even if the ROC is high, the stock might still be a good buy if it's not too expensive. But if you only look at the ROC, you might miss out on other important information like the stock's overall trend or how it's doing compared to other stocks.
 
-Another problem with using the ROC alone is that it can give false signals. Sometimes, the ROC might show that a stock is going up or down really fast, but then the price might change direction quickly. This can make traders buy or sell at the wrong times if they're only looking at the ROC. To make better decisions, traders should use the ROC along with other tools like moving averages, volume indicators, or other types of charts to get a fuller picture of what's happening with the stock.
+Another problem with using the ROC alone is that it can give false signals. Sometimes, the ROC might show that a stock is going up or down really fast, but then the price might change direction quickly. This can make traders buy or sell at the wrong times if they're only looking at the ROC. To make better decisions, traders should use the ROC along with other tools like moving averages, [volume](/wiki/volume-trading-strategy) indicators, or other types of charts to get a fuller picture of what's happening with the stock.
 
 ## How can the ROC be combined with other technical indicators for better results?
 

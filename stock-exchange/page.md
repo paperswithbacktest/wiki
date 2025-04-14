@@ -78,11 +78,11 @@ Another risk is that you might not know enough about the companies you're invest
 
 ## What advanced trading strategies can be used on stock exchanges?
 
-One advanced trading strategy is called "day trading." Day traders buy and sell stocks within the same day, trying to make money from small changes in stock prices. They use a lot of computer tools and charts to help them decide when to buy and sell. Day trading can be risky because it's hard to predict what will happen in just one day, but it can also be exciting and rewarding if you're good at it.
+One advanced trading strategy is called "[day trading](/wiki/day-trading-spy)." Day traders buy and sell stocks within the same day, trying to make money from small changes in stock prices. They use a lot of computer tools and charts to help them decide when to buy and sell. Day trading can be risky because it's hard to predict what will happen in just one day, but it can also be exciting and rewarding if you're good at it.
 
 Another strategy is "swing trading," where you hold onto stocks for a few days or weeks. Swing traders look for patterns in stock prices that suggest the price will go up or down soon. They buy stocks when they think the price is about to go up and sell them when they think it's about to go down. This strategy needs a lot of patience and good timing, but it can be less stressful than day trading because you don't have to watch the market all the time.
 
-A third strategy is "algorithmic trading," where you use computer programs to make trades for you. These programs follow rules that you set up based on math and data. For example, the program might buy a stock when its price reaches a certain level and sell it when it goes up by a certain amount. Algorithmic trading can be very fast and can handle a lot of trades, but it needs a good understanding of how to program and analyze data.
+A third strategy is "[algorithmic trading](/wiki/algorithmic-trading)," where you use computer programs to make trades for you. These programs follow rules that you set up based on math and data. For example, the program might buy a stock when its price reaches a certain level and sell it when it goes up by a certain amount. Algorithmic trading can be very fast and can handle a lot of trades, but it needs a good understanding of how to program and analyze data.
 
 ## References & Further Reading
 

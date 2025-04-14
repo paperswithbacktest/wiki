@@ -64,7 +64,7 @@ Another advanced feature to look for is the ability to test strategies across di
 
 ## How can machine learning be integrated into backtesting?
 
-Machine learning can be added to backtesting to make trading strategies smarter. Instead of using fixed rules, machine learning can learn from past data to find patterns and make better decisions. For example, it can look at lots of old market data and figure out when to buy or sell based on what worked best before. This can help the strategy adapt to new situations and possibly make more money. Traders can use machine learning to test different ideas quickly and see which ones might work well in the future.
+Machine learning can be added to backtesting to make trading strategies smarter. Instead of using fixed rules, [machine learning](/wiki/machine-learning) can learn from past data to find patterns and make better decisions. For example, it can look at lots of old market data and figure out when to buy or sell based on what worked best before. This can help the strategy adapt to new situations and possibly make more money. Traders can use machine learning to test different ideas quickly and see which ones might work well in the future.
 
 Using machine learning in backtesting also means the strategy can keep getting better over time. As new data comes in, the machine learning model can learn from it and update the trading rules. This is good because markets change, and what worked yesterday might not work tomorrow. By using machine learning, traders can make sure their strategies stay up-to-date and effective. This can help them make smarter choices and maybe even beat the market.
 

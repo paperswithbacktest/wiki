@@ -163,7 +163,7 @@ Incorporating these practices allows traders to control interest costs more effe
 
 ## What are Financial Calculations in Algorithmic Trading?
 
-Effective algorithmic trading relies heavily on the precision of financial calculations to drive timely and informed decision-making. Among the primary metrics employed in such trading algorithms are moving averages, the Relative Strength Index (RSI), and measures of volatility, each contributing distinct insights into market dynamics.
+Effective [algorithmic trading](/wiki/algorithmic-trading) relies heavily on the precision of financial calculations to drive timely and informed decision-making. Among the primary metrics employed in such trading algorithms are moving averages, the Relative Strength Index (RSI), and measures of [volatility](/wiki/volatility-trading-strategies), each contributing distinct insights into market dynamics.
 
 **Moving Averages**: Moving averages smooth out price data to help identify trends. They can be simple (SMA) or exponential (EMA), with the latter giving more weight to recent prices. For example, a 50-day SMA and a 200-day SMA are commonly used to identify long-term trends. The formula for an SMA is straightforward:
 

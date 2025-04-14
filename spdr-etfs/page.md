@@ -18,7 +18,7 @@ These ETFs are popular because they are easy to buy and sell, just like stocks, 
 
 SPDR ETFs are managed by State Street Global Advisors. This company is a big part of State Street Corporation, which is a financial services company that has been around for a long time. State Street Global Advisors looks after a lot of money for people and organizations all over the world. They use their knowledge and experience to make sure the SPDR ETFs follow the indexes they are supposed to track, like the S&P 500.
 
-Their job is to make sure the ETFs have the right mix of stocks or other investments to match the index as closely as possible. This means buying and selling the right stocks to keep the ETF in line with the index. They also keep an eye on the fees and make sure everything runs smoothly. This helps investors feel confident that their money is being managed well.
+Their job is to make sure the ETFs have the right mix of stocks or other investments to match the index as closely as possible. This means buying and selling the right stocks to keep the [ETF](/wiki/etf-trading-strategies) in line with the index. They also keep an eye on the fees and make sure everything runs smoothly. This helps investors feel confident that their money is being managed well.
 
 ## What types of SPDR ETFs are available?
 

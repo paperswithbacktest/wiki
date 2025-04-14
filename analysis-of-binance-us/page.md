@@ -18,7 +18,7 @@ The main difference between Binance.US and the global Binance platform is the ra
 
 To start trading on Binance.US, first, you need to visit their website and sign up for an account. You'll need to provide some personal information like your name, email address, and phone number. After signing up, you'll need to verify your identity. This usually involves uploading a photo of your ID, like a driver's license or passport, and sometimes a selfie. Once your identity is verified, you can set up two-factor authentication (2FA) for added security. This step is important to keep your account safe.
 
-After your account is set up and verified, you can add money to your Binance.US account. You can do this by linking your bank account or using a debit card to deposit USD. Once you have funds in your account, you can start trading. You can buy and sell different cryptocurrencies like Bitcoin or Ethereum. To make a trade, you'll choose the cryptocurrency you want, decide how much you want to buy or sell, and then confirm the trade. It's a good idea to start with small amounts if you're new to trading, so you can learn how it works without risking too much money.
+After your account is set up and verified, you can add money to your Binance.US account. You can do this by linking your bank account or using a debit card to deposit USD. Once you have funds in your account, you can start trading. You can buy and sell different cryptocurrencies like Bitcoin or Ethereum. To make a trade, you'll choose the [cryptocurrency](/wiki/cryptocurrency) you want, decide how much you want to buy or sell, and then confirm the trade. It's a good idea to start with small amounts if you're new to trading, so you can learn how it works without risking too much money.
 
 ## What are the fees associated with trading on Binance.US?
 
@@ -34,7 +34,7 @@ The selection on Binance.US is smaller compared to the global Binance platform b
 
 ## How does Binance.US ensure the security of user funds and personal information?
 
-Binance.US takes several steps to keep your money and personal information safe. They use strong encryption to protect your data when you sign up and log in. They also have two-factor authentication (2FA), which means you need a code from your phone to log in, making it harder for someone else to get into your account. Binance.US keeps most of the money in cold storage, which means it's not connected to the internet, so it's safer from hackers. They also have insurance to cover losses if something goes wrong.
+Binance.US takes several steps to keep your money and personal information safe. They use strong encryption to protect your data when you sign up and log in. They also have two-[factor](/wiki/factor-investing) authentication (2FA), which means you need a code from your phone to log in, making it harder for someone else to get into your account. Binance.US keeps most of the money in cold storage, which means it's not connected to the internet, so it's safer from hackers. They also have insurance to cover losses if something goes wrong.
 
 They also watch for anything strange happening on the platform. If they see something that doesn't look right, like someone trying to log in from a new place, they might ask you to confirm it's really you. Binance.US follows strict rules to make sure they're doing everything they can to keep your information and money safe. They work with security experts and use the latest technology to stay ahead of any threats.
 
@@ -58,7 +58,7 @@ Another useful feature is "Trading Bots." These are programs that can trade for 
 
 ## How does Binance.US's liquidity compare to other U.S.-based cryptocurrency exchanges?
 
-Binance.US has good liquidity, which means it's easy to buy and sell cryptocurrencies on the platform without big price changes. Compared to other U.S.-based exchanges like Coinbase and Kraken, Binance.US usually has a lot of trading happening. This high trading volume helps keep the prices stable and makes it easier for users to trade large amounts of cryptocurrencies quickly.
+Binance.US has good [liquidity](/wiki/liquidity-risk-premium), which means it's easy to buy and sell cryptocurrencies on the platform without big price changes. Compared to other U.S.-based exchanges like Coinbase and Kraken, Binance.US usually has a lot of trading happening. This high trading [volume](/wiki/volume-trading-strategy) helps keep the prices stable and makes it easier for users to trade large amounts of cryptocurrencies quickly.
 
 However, the liquidity can vary depending on which cryptocurrency you're trading. For popular ones like Bitcoin and Ethereum, Binance.US has very good liquidity, often better than smaller exchanges. But for less common cryptocurrencies, the liquidity might not be as strong as on some other platforms. Overall, Binance.US is a solid choice for liquidity among U.S.-based exchanges, especially for the most traded cryptocurrencies.
 

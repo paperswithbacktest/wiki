@@ -68,7 +68,7 @@ Another challenge is coordinating everyone involved in the evaluation. In large-
 
 To make sure an evaluation is timely, it's important to think about timeliness right from the start when designing the evaluation framework. This means setting clear deadlines for each part of the evaluation, like when to collect data, analyze it, and share the results. Using project management tools can help keep track of these deadlines and make sure everyone knows what they need to do and when. It's also a good idea to plan for any possible delays by building in extra time or having backup plans. This way, if something goes wrong, the evaluation can still stay on track and be finished on time.
 
-Another way to make sure the evaluation stays timely is by choosing the right tools and methods for gathering and analyzing data. Using online surveys or mobile apps can help collect information quickly from a lot of people. Data analysis software can also help process the information faster and more accurately. By picking the right tools, the evaluation can move along more smoothly and get results out when they're needed. This helps make sure the evaluation is useful and relevant, so people can make decisions based on the results without waiting too long.
+Another way to make sure the evaluation stays timely is by choosing the right tools and methods for gathering and analyzing data. Using online surveys or mobile apps can help collect information quickly from a lot of people. Data analysis software can also help process the information faster and more accurately. By [picking](/wiki/asset-class-picking) the right tools, the evaluation can move along more smoothly and get results out when they're needed. This helps make sure the evaluation is useful and relevant, so people can make decisions based on the results without waiting too long.
 
 ## What are the best practices for reporting on timeliness in evaluation outcomes?
 
@@ -90,7 +90,7 @@ Another case happened in a business that was launching a new product. They used 
 
 ## What are the key metrics for evaluating algorithmic trading performance?
 
-In assessing the effectiveness of algorithmic trading strategies, several key metrics are employed that provide insights into both performance and risk management capabilities. These metrics are indispensable tools for evaluating the practical outcomes of trading algorithms in real market conditions.
+In assessing the effectiveness of [algorithmic trading](/wiki/algorithmic-trading) strategies, several key metrics are employed that provide insights into both performance and risk management capabilities. These metrics are indispensable tools for evaluating the practical outcomes of trading algorithms in real market conditions.
 
 1. **Financial Viability**: This metric primarily involves the analysis of the return on investment (ROI) yielded by a trading algorithm. ROI is calculated as:
 $$

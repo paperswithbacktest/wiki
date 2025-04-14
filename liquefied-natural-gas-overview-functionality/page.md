@@ -46,7 +46,7 @@ There are also special rules and systems to make sure LNG is handled safely. For
 
 ## What are the environmental impacts of LNG?
 
-LNG, or Liquefied Natural Gas, is seen as a cleaner energy source than coal and oil. It burns more cleanly, which means it puts less harmful stuff into the air. This is good for the environment because it helps reduce pollution and can slow down climate change. But, making and moving LNG uses a lot of energy, and this can create its own problems. For example, the machines that cool the gas into LNG and the ships that carry it use energy, and this can add to the greenhouse gases that warm up the planet.
+LNG, or Liquefied Natural Gas, is seen as a cleaner energy source than coal and oil. It burns more cleanly, which means it puts less harmful stuff into the air. This is good for the environment because it helps reduce pollution and can slow down climate change. But, making and moving LNG uses a lot of energy, and this can create its own problems. For example, the machines that cool the gas into LNG and the ships that [carry](/wiki/carry-trading) it use energy, and this can add to the greenhouse gases that warm up the planet.
 
 There are also worries about what might happen if LNG leaks. LNG is mostly methane, and methane is a powerful greenhouse gas. If LNG leaks during storage or transport, it can go into the air and make climate change worse. People are working on making the process of making and moving LNG safer and more efficient to reduce these risks. But, it's important to keep an eye on how much LNG we use and make sure we're doing it in a way that's good for the planet.
 

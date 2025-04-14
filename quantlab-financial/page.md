@@ -24,7 +24,7 @@ The company was established in 2008. That was a time when many people were worri
 
 Quantlab Financial helps people invest their money in the stock market. They use computers and math to look at a lot of information and decide which stocks to buy or sell. This way, they try to make good choices and help their clients make money. They work with big investors and give them advice on what to do with their money.
 
-Their main service is called quantitative trading. This means they use numbers and patterns to decide when to buy or sell stocks. They have special programs that look at a lot of data very quickly. This helps them find good opportunities in the market that others might miss. By doing this, they try to make money for their clients.
+Their main service is called [quantitative trading](/wiki/quantitative-trading). This means they use numbers and patterns to decide when to buy or sell stocks. They have special programs that look at a lot of data very quickly. This helps them find good opportunities in the market that others might miss. By doing this, they try to make money for their clients.
 
 ## How does Quantlab Financial use technology in its operations?
 

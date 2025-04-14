@@ -40,7 +40,7 @@ Understanding the difference between fixed and variable unit costs is important 
 
 Unit cost is a key part of deciding how much to charge for a product. If a business knows how much it costs to make one item, it can set a price that covers those costs and also makes a profit. For example, if it costs $5 to make a toy, the business might decide to sell it for $10 to cover the cost and make some money. But if the unit cost is too high, the business might have to charge a lot more, which could make customers not want to buy it.
 
-Knowing the unit cost also helps businesses choose the right pricing strategy. If the unit cost is low, a business might decide to use a low-price strategy to attract more customers and sell more items. This can work well if the business can sell a lot of items and make up for the low profit per item with high sales volume. On the other hand, if the unit cost is high, a business might use a premium pricing strategy, charging more for the product to reflect its higher cost and value. This way, the business can still make a good profit even if it sells fewer items.
+Knowing the unit cost also helps businesses choose the right pricing strategy. If the unit cost is low, a business might decide to use a low-price strategy to attract more customers and sell more items. This can work well if the business can sell a lot of items and make up for the low profit per item with high sales [volume](/wiki/volume-trading-strategy). On the other hand, if the unit cost is high, a business might use a premium pricing strategy, charging more for the product to reflect its higher cost and value. This way, the business can still make a good profit even if it sells fewer items.
 
 ## What role does unit cost play in break-even analysis?
 

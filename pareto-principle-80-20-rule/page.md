@@ -122,7 +122,7 @@ With a focus on critical indicators and signals derived from the profitable trad
 
 4. **Continuous Monitoring and Adjustment**: Post-implementation, continuously monitor the performance of the algorithm and adjust the parameters and signals as necessary to adapt to changing market conditions.
 
-Python, being a popular tool for algorithmic trading, can automate many of these processes. Here’s a simple snippet for calculating profit contributions:
+Python, being a popular tool for [algorithmic trading](/wiki/algorithmic-trading), can automate many of these processes. Here’s a simple snippet for calculating profit contributions:
 
 ```python
 import pandas as pd

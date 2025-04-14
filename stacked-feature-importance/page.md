@@ -22,7 +22,7 @@ Think of it like a team of people trying to solve a puzzle. In traditional featu
 
 ## What are the main benefits of using stacked feature importance?
 
-Using stacked feature importance helps you see which pieces of information are important when you use more than one machine learning model together. It's like looking at how a whole team works, not just one person. This can show you that a piece of information might not seem very important to one model, but when you use it with other models, it becomes more useful. By understanding this, you can make your team of models work better together and make more accurate predictions.
+Using stacked feature importance helps you see which pieces of information are important when you use more than one [machine learning](/wiki/machine-learning) model together. It's like looking at how a whole team works, not just one person. This can show you that a piece of information might not seem very important to one model, but when you use it with other models, it becomes more useful. By understanding this, you can make your team of models work better together and make more accurate predictions.
 
 Another benefit is that stacked feature importance can help you focus on collecting the right kind of data. If you know which pieces of information are important across all your models, you can spend more time gathering that data and less time on data that isn't as useful. This can save time and resources, making your machine learning projects more efficient and effective.
 

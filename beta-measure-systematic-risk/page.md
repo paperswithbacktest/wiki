@@ -82,7 +82,7 @@ Another way to get a more accurate beta is by using something called the GARCH m
 
 ## What is the relationship between Beta and Systematic Risk?
 
-Beta is a critical measure in finance, serving as a statistical indicator of a stock's volatility relative to the overall market. It aids investors in assessing how the price of a particular security tends to move in alignment with broader market fluctuations. The beta coefficient of a security is derived by examining the covariance of the security's returns with the returns of the market, divided by the variance of the market's returns. Mathematically, this can be expressed as:
+Beta is a critical measure in finance, serving as a statistical indicator of a stock's [volatility](/wiki/volatility-trading-strategies) relative to the overall market. It aids investors in assessing how the price of a particular security tends to move in alignment with broader market fluctuations. The beta coefficient of a security is derived by examining the covariance of the security's returns with the returns of the market, divided by the variance of the market's returns. Mathematically, this can be expressed as:
 
 $$
 \beta = \frac{\text{Cov}(R_i, R_m)}{\text{Var}(R_m)}

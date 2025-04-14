@@ -86,7 +86,7 @@ Using trade barriers in this way can also help a country protect its own industr
 
 ## What is the interplay between trade barriers and algorithmic trading?
 
-International trade barriers, such as tariffs, quotas, and non-tariff measures, have significant implications for algorithmic trading strategies. These barriers can affect market efficiency, [liquidity](/wiki/liquidity-risk-premium), and [volatility](/wiki/volatility-trading-strategies), all of which are critical parameters in the development and execution of algorithmic trading.
+International trade barriers, such as tariffs, quotas, and non-tariff measures, have significant implications for [algorithmic trading](/wiki/algorithmic-trading) strategies. These barriers can affect market efficiency, [liquidity](/wiki/liquidity-risk-premium), and [volatility](/wiki/volatility-trading-strategies), all of which are critical parameters in the development and execution of algorithmic trading.
 
 ### Influence on Algorithmic Trading Strategies
 

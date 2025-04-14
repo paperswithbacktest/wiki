@@ -34,7 +34,7 @@ Another benefit is that 0DTE options can be used to hedge other investments. If 
 
 ## How can beginners start trading 0DTE options safely?
 
-For beginners wanting to start trading 0DTE options safely, it's important to learn as much as you can first. 0DTE options can be very risky because they expire the same day you buy them. So, before you start, read books, watch videos, and maybe even take a class on options trading. It's also a good idea to practice with a pretend account, called a demo account, where you can trade without using real money. This way, you can get a feel for how 0DTE options work without risking your savings.
+For beginners wanting to start trading 0DTE options safely, it's important to learn as much as you can first. 0DTE options can be very risky because they expire the same day you buy them. So, before you start, read [books](/wiki/algo-trading-books), watch videos, and maybe even take a class on options trading. It's also a good idea to practice with a pretend account, called a demo account, where you can trade without using real money. This way, you can get a feel for how 0DTE options work without risking your savings.
 
 Once you feel more confident, start small. Only use money you can afford to lose, because there's a good chance you might lose it all with 0DTE options. Also, try to trade during less busy times of the day when the market isn't moving as fast. This can give you a little more time to make decisions without feeling rushed. And remember, it's okay to take breaks and not trade every day. Trading safely means knowing when to step back and learn more before jumping back in.
 
@@ -48,7 +48,7 @@ It's also helpful to keep your trades small and not use too much of your money a
 
 ## How does market volatility affect 0DTE options?
 
-Market volatility can make trading 0DTE options even riskier. When the market is moving a lot, the prices of 0DTE options can change very quickly. If you buy a 0DTE option and the market suddenly moves against you, you might lose all your money on that option in just a few hours or even minutes. Because 0DTE options only last for one day, there's no time for the market to calm down or for the price to move back in your favor. This means you need to be very careful and quick when trading 0DTE options during times of high volatility.
+Market [volatility](/wiki/volatility-trading-strategies) can make trading 0DTE options even riskier. When the market is moving a lot, the prices of 0DTE options can change very quickly. If you buy a 0DTE option and the market suddenly moves against you, you might lose all your money on that option in just a few hours or even minutes. Because 0DTE options only last for one day, there's no time for the market to calm down or for the price to move back in your favor. This means you need to be very careful and quick when trading 0DTE options during times of high volatility.
 
 On the other hand, high market volatility can also create more chances to make money with 0DTE options. If you can guess right about which way the market will move that day, you might be able to make a big profit in a short time. When the market is moving a lot, the prices of 0DTE options can go up or down a lot, so if you're on the right side of the trade, you can win big. But remember, it's still very risky, and you need to be ready for the market to move against you just as quickly.
 

@@ -22,7 +22,7 @@ FTSE Russell updates the Russell Top 50 Mega Cap Index regularly to make sure it
 
 ## How is the Russell Top 50 Mega Cap Index constructed?
 
-The Russell Top 50 Mega Cap Index is made by picking the 50 biggest companies from the Russell 3000 Index. The Russell 3000 Index includes the 3000 largest U.S. companies based on their total market value, which is the price of all their shares put together. To find the top 50, the companies are ranked by this market value, and the biggest ones are chosen.
+The Russell Top 50 Mega Cap Index is made by [picking](/wiki/asset-class-picking) the 50 biggest companies from the Russell 3000 Index. The Russell 3000 Index includes the 3000 largest U.S. companies based on their total market value, which is the price of all their shares put together. To find the top 50, the companies are ranked by this market value, and the biggest ones are chosen.
 
 Once the 50 companies are picked, their performance is tracked over time. The index is updated regularly to make sure it still has the 50 largest companies. If a company grows bigger or smaller, it might be added or removed from the index. This way, the Russell Top 50 Mega Cap Index always shows how the biggest U.S. companies are doing, which can help investors understand the market better.
 

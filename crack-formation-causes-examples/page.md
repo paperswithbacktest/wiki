@@ -36,7 +36,7 @@ Sometimes, big changes in temperature can make cracks worse. If a material alrea
 
 ## What role does material fatigue play in crack initiation?
 
-Material fatigue is when a material gets weak because it is used a lot over time. Imagine bending a paper clip back and forth many times. At first, it bends easily, but after a while, it gets weak and breaks. The same thing happens to materials like metal or plastic when they are used repeatedly. They can start to form tiny cracks because the constant use wears them down. This is called fatigue, and it makes the material more likely to crack even if the stress is not very big.
+Material fatigue is when a material gets weak because it is used a lot over time. Imagine bending a paper [clip](/wiki/clip) back and forth many times. At first, it bends easily, but after a while, it gets weak and breaks. The same thing happens to materials like metal or plastic when they are used repeatedly. They can start to form tiny cracks because the constant use wears them down. This is called fatigue, and it makes the material more likely to crack even if the stress is not very big.
 
 These tiny cracks from fatigue can grow bigger over time if the material keeps being used. Each time the material is stressed, the crack can get a little larger. Eventually, the crack can become big enough to cause the material to break completely. Engineers and builders need to think about fatigue when they design things, so they use strong materials and try to reduce how much the material is stressed. This helps to stop cracks from starting and growing because of fatigue.
 
@@ -108,7 +108,7 @@ Recognizing and adapting to these structural changes is paramount for traders wh
 
 ## Can we detect structural breaks?
 
-Detecting structural breaks is a critical component of algorithmic trading as it allows for timely identification and response to changes in market dynamics. There are several methods to detect such disruptions in data, with statistical techniques and machine learning approaches being predominant.
+Detecting structural breaks is a critical component of algorithmic trading as it allows for timely identification and response to changes in market dynamics. There are several methods to detect such disruptions in data, with statistical techniques and [machine learning](/wiki/machine-learning) approaches being predominant.
 
 **Statistical Methods:** Among the most established statistical techniques for detecting structural breaks are the Chow test and the Cumulative Sum (CUSUM) test. 
 

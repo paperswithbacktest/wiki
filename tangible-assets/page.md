@@ -58,7 +58,7 @@ Using tangible assets as collateral can help people or businesses get loans they
 
 Investing in tangible assets like buildings, vehicles, or machinery can be risky because their value can go down over time. This is called depreciation. For example, a new car loses value as soon as you drive it off the lot. If you need to sell the asset quickly, you might not get back as much money as you hoped. Also, tangible assets can be damaged or destroyed by accidents, natural disasters, or wear and tear, which can lower their value even more.
 
-Another risk is that tangible assets can be hard to sell quickly. If you need money fast, it might take a while to find someone who wants to buy your asset at a good price. This is called liquidity risk. Plus, owning tangible assets can come with extra costs like maintenance, insurance, and taxes. These costs can eat into any profits you make from the asset. It's important to think about these risks before deciding to invest in tangible assets.
+Another risk is that tangible assets can be hard to sell quickly. If you need money fast, it might take a while to find someone who wants to buy your asset at a good price. This is called [liquidity](/wiki/liquidity-risk-premium) risk. Plus, owning tangible assets can come with extra costs like maintenance, insurance, and taxes. These costs can eat into any profits you make from the asset. It's important to think about these risks before deciding to invest in tangible assets.
 
 ## How do tax laws impact the management of tangible assets?
 

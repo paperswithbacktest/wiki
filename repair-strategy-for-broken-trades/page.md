@@ -54,7 +54,7 @@ Another thing to consider is how long it might take to fix the problem. If it ta
 
 When you're dealing with broken trades as an advanced trader, one technique you can use is called trade reconciliation. This means carefully checking all the details of the broken trade with everyone involved. You look at the numbers, prices, and times to see where the mistake happened. Once you find the problem, you can work together to fix it, either by canceling the trade or redoing it at the right price. This method needs good communication and a clear understanding of what went wrong, but it can help you fix the trade without losing too much money.
 
-Another advanced technique is using algorithmic trading systems to automatically detect and fix broken trades. These systems can quickly spot when a trade doesn't go through as planned and can take action right away. For example, if the price was wrong, the system might cancel the trade and try to do it again at the correct price. This can save time and reduce the risk of losing money because the system works fast and doesn't make the same mistakes people might. However, you need to trust the system and make sure it's set up correctly to handle these situations well.
+Another advanced technique is using [algorithmic trading](/wiki/algorithmic-trading) systems to automatically detect and fix broken trades. These systems can quickly spot when a trade doesn't go through as planned and can take action right away. For example, if the price was wrong, the system might cancel the trade and try to do it again at the correct price. This can save time and reduce the risk of losing money because the system works fast and doesn't make the same mistakes people might. However, you need to trust the system and make sure it's set up correctly to handle these situations well.
 
 ## Can you explain the use of options in trade repair?
 
@@ -64,7 +64,7 @@ Another way options can help with trade repair is by reducing risk. If you're wo
 
 ## How does market volatility affect trade repair strategies?
 
-Market volatility, which means when prices go up and down a lot, can make fixing broken trades harder. When prices are moving fast, it can be tough to fix a trade at the price you wanted. For example, if you wanted to buy a stock at a certain price but the trade broke, and now the price is higher, you might have to pay more to fix the trade. This can make the fix more expensive and risky because you don't know if the price will keep going up or down.
+Market [volatility](/wiki/volatility-trading-strategies), which means when prices go up and down a lot, can make fixing broken trades harder. When prices are moving fast, it can be tough to fix a trade at the price you wanted. For example, if you wanted to buy a stock at a certain price but the trade broke, and now the price is higher, you might have to pay more to fix the trade. This can make the fix more expensive and risky because you don't know if the price will keep going up or down.
 
 Because of this, you might need to change your repair strategy when the market is volatile. One way is to use options to protect yourself from big price swings. Options can help you fix the trade at a better price or at least stop you from losing more money if the price moves against you. Another way is to be quick and talk to the people involved in the trade to fix it as soon as possible before the price changes too much. By being ready for these changes, you can handle broken trades better even when the market is moving a lot.
 

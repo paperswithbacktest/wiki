@@ -36,7 +36,7 @@ In the end, skipping due diligence can lead to buying a property that's not a go
 
 ## What are the risks of not having a clear exit strategy in real estate investing?
 
-Not having a clear exit strategy in real estate investing can lead to big problems. An exit strategy is a plan for how you will sell or get rid of your property. If you don't have one, you might hold onto a property too long, even if it's not making you money anymore. This can tie up your money and stop you from investing in other opportunities that could be better.
+Not having a clear [exit](/wiki/exit-strategy) strategy in real estate investing can lead to big problems. An exit strategy is a plan for how you will sell or get rid of your property. If you don't have one, you might hold onto a property too long, even if it's not making you money anymore. This can tie up your money and stop you from investing in other opportunities that could be better.
 
 Also, without an exit strategy, you might have to sell the property quickly if something goes wrong, like if you can't pay the bills anymore. Selling in a hurry usually means you have to accept a lower price, which can make you lose money. Having a clear plan from the start helps you know when to sell and how to do it in a way that protects your investment.
 

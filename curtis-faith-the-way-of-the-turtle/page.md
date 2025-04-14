@@ -28,7 +28,7 @@ The Turtle Trading experiment was set up to see if successful trading could be t
 
 ## What are the basic principles of the Turtle Trading system?
 
-The Turtle Trading system is based on a few simple ideas that helped the Turtles make money. One big idea is to follow a set of clear rules for buying and selling. The Turtles used something called a "breakout" strategy. This means they would buy when the price of something went above a certain point, and they would sell when it went below another point. They also used something called "position sizing," which means they decided how much to buy or sell based on how much risk they were willing to take.
+The Turtle Trading system is based on a few simple ideas that helped the Turtles make money. One big idea is to follow a set of clear rules for buying and selling. The Turtles used something called a "[breakout](/wiki/breakout-trading)" strategy. This means they would buy when the price of something went above a certain point, and they would sell when it went below another point. They also used something called "position sizing," which means they decided how much to buy or sell based on how much risk they were willing to take.
 
 Another important part of the Turtle Trading system is managing risk. The Turtles always knew how much they could lose before they made a trade. They used something called a "stop-loss" order, which is like a safety net that automatically sells if the price goes too low. This helped them not lose too much money on any one trade. They also spread their money around different trades to reduce risk, which is called diversification. By sticking to these rules and managing risk, the Turtles were able to trade successfully.
 
@@ -36,7 +36,7 @@ Another important part of the Turtle Trading system is managing risk. The Turtle
 
 Trend following is a way of trading that the Turtles used to make money. It's all about finding out if the price of something is going up or down over time and then making trades based on that. If the price is going up, you buy more, and if it's going down, you sell. The Turtles looked at the price over the last few days or weeks to see if there was a clear direction. If they saw the price breaking out to a new high or low, they would jump in and make a trade.
 
-The important thing about trend following is that it doesn't try to guess where the price will go next. Instead, it waits for the price to move and then follows along. This means the Turtles were okay with missing some trades if it meant they could catch the big moves. By sticking to this simple rule of following the trend, they were able to make money over time, even though not every trade worked out.
+The important thing about [trend following](/wiki/trend-following) is that it doesn't try to guess where the price will go next. Instead, it waits for the price to move and then follows along. This means the Turtles were okay with missing some trades if it meant they could catch the big moves. By sticking to this simple rule of following the trend, they were able to make money over time, even though not every trade worked out.
 
 ## What are some key strategies that Curtis Faith recommends for successful trading?
 
@@ -94,7 +94,7 @@ where $TR_i$ (True Range) is defined as the greatest of the following: the curre
 
 Another significant principle of the Turtle strategy is the method of pyramiding into winners. This technique involves adding to a winning position incrementally as it proves successful, rather than committing fully upfront. This allows traders to capitalize on profitable trends while managing risk effectively.
 
-Strict exit strategies are also central to Turtle trading. These predetermined rules for exiting trades are designed to protect profits and minimize losses. The original Turtle strategy employed a breakout system, where trades were exited if prices moved back to or beyond predetermined levels, both to lock in gains and cut losses.
+Strict [exit](/wiki/exit-strategy) strategies are also central to Turtle trading. These predetermined rules for exiting trades are designed to protect profits and minimize losses. The original Turtle strategy employed a breakout system, where trades were exited if prices moved back to or beyond predetermined levels, both to lock in gains and cut losses.
 
 Adhering to simple and robust trading rules is emphasized, ensuring the strategy can be adapted easily to a range of market conditions. The rules laid out by Richard Dennis and William Eckhardt were transparent and could be consistently applied, forming a foundation for the Turtles' trading decisions. This simplicity and clarity are vital in maintaining the strategy's effectiveness without succumbing to over-complication, which often plagues trading systems.
 

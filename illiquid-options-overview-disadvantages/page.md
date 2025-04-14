@@ -42,7 +42,7 @@ Also, options can become illiquid if they are for things that are not very popul
 
 ## How can an investor identify an illiquid option?
 
-An investor can identify an illiquid option by looking at how often it is traded. If there aren't many trades happening, it means the option is illiquid. You can check this by looking at the trading volume, which shows how many options have been bought and sold. If the trading volume is low, it's a sign that the option is illiquid.
+An investor can identify an illiquid option by looking at how often it is traded. If there aren't many trades happening, it means the option is illiquid. You can check this by looking at the trading [volume](/wiki/volume-trading-strategy), which shows how many options have been bought and sold. If the trading volume is low, it's a sign that the option is illiquid.
 
 Another way to spot an illiquid option is by looking at the bid-ask spread. This is the difference between the price someone is willing to pay for the option (the bid) and the price someone is willing to sell it for (the ask). If the bid-ask spread is wide, it means there aren't many people trading the option, so it's likely illiquid. Also, if the price of the option jumps around a lot between trades, that's another sign that it might be illiquid.
 
@@ -98,7 +98,7 @@ This formula emphasizes how increased spreads compound transaction costs, ultima
 
 Illiquid options are often more susceptible to heightened [volatility](/wiki/volatility-trading-strategies), where sudden price movements occur due to the limited number of market participants. This increased volatility can have a significant market impact, as large orders are more likely to move the market price unfavorably before the order is fully executed. Consequently, strategy execution becomes complex, requiring sophisticated risk management mechanisms to mitigate adverse effects.
 
-Investors in illiquid options markets must be adept at navigating these challenges. A lack of liquidity can magnify errors in judgment about market movements, resulting in substantial financial repercussions. As such, it is imperative to acknowledge and prepare for these risks to succeed in trading illiquid options.
+Investors in illiquid options markets must be adept at navigating these challenges. A lack of [liquidity](/wiki/liquidity-risk-premium) can magnify errors in judgment about market movements, resulting in substantial financial repercussions. As such, it is imperative to acknowledge and prepare for these risks to succeed in trading illiquid options.
 
 ## References & Further Reading
 

@@ -82,7 +82,7 @@ Another tool that expert investors might use is a currency swap. This is when tw
 
 ## What are some case studies and real-world examples?
 
-Case studies provide valuable insights into the real-world application of algorithmic trading strategies, particularly when dealing with complex and often volatile currencies like the Iraqi Dinar. This section explores both successful implementations and lessons learned from less successful attempts.
+Case studies provide valuable insights into the real-world application of [algorithmic trading](/wiki/algorithmic-trading) strategies, particularly when dealing with complex and often volatile currencies like the Iraqi Dinar. This section explores both successful implementations and lessons learned from less successful attempts.
 
 ### Successful Implementation of an Algo Trading Strategy for the Iraqi Dinar
 
@@ -90,7 +90,7 @@ A successful algorithmic trading strategy was implemented by a trading firm that
 
 #### Strategy Overview
 
-The firm employed a market-making strategy using a combination of mean-reversion and [momentum](/wiki/momentum)-based algorithms. Mean-reversion strategies are predicated on the assumption that the price will revert to its historical average over time, which suits the Iraqi Dinar given its frequent short-term volatility.
+The firm employed a market-making strategy using a combination of mean-reversion and [momentum](/wiki/momentum)-based algorithms. Mean-reversion strategies are predicated on the assumption that the price will revert to its historical average over time, which suits the Iraqi Dinar given its frequent short-term [volatility](/wiki/volatility-trading-strategies).
 
 1. **Mean-Reversion Strategy**: 
    The traders utilized statistical analysis to determine the typical range of price fluctuations. The algorithm tracked deviations from this range, initiating trades when prices diverged too far from the mean, anticipating a return.

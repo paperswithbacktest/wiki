@@ -58,7 +58,7 @@ For a double bottom pattern, the typical price target is calculated by measuring
 
 ## How can volume confirmation enhance the reliability of double top and double bottom patterns?
 
-Volume confirmation can make double top and double bottom patterns more reliable. When you see a double top, you want to see more trading happening when the price falls below the neckline. If lots of people are selling and the volume is high, it's a stronger sign that the price will keep going down. This high volume shows that many traders agree the price should go down, making the pattern more trustworthy.
+Volume confirmation can make double top and double bottom patterns more reliable. When you see a double top, you want to see more trading happening when the price falls below the neckline. If lots of people are selling and the [volume](/wiki/volume-trading-strategy) is high, it's a stronger sign that the price will keep going down. This high volume shows that many traders agree the price should go down, making the pattern more trustworthy.
 
 For a double bottom, you want to see more trading when the price goes above the neckline. If there's a lot of buying and the volume is high, it's a good sign that the price will keep going up. High volume here means many traders think the price should go up, which makes the double bottom pattern more reliable. So, looking at volume can help you trust these patterns more when you're deciding to buy or sell.
 

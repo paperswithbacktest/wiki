@@ -34,13 +34,13 @@ Lastly, you can set up alerts and notifications to make sure you don't miss impo
 
 'Price reaction' in the context of cryptocurrencies like Bitcoin and Ethereum means how the price of these digital currencies changes when something important happens. This could be news, a new law, or a big event. When these things happen, people might start buying or selling the cryptocurrency, which makes the price go up or down. For example, if a country says it's okay to use Bitcoin, more people might want to buy it, so the price could go up. But if there's a security problem with Ethereum, people might sell it, and the price could go down.
 
-Understanding price reactions is important because it helps people who invest in cryptocurrencies make better decisions. If someone knows that the price usually goes up after a certain type of news, they might decide to buy more before that news comes out. On the other hand, if they see that the price often drops after a specific event, they might sell their cryptocurrency to avoid losing money. By watching how the price reacts to different events, people can try to predict what might happen next and plan their actions accordingly.
+Understanding price reactions is important because it helps people who invest in cryptocurrencies make better decisions. If someone knows that the price usually goes up after a certain type of news, they might decide to buy more before that news comes out. On the other hand, if they see that the price often drops after a specific event, they might sell their [cryptocurrency](/wiki/cryptocurrency) to avoid losing money. By watching how the price reacts to different events, people can try to predict what might happen next and plan their actions accordingly.
 
 ## How do you measure the immediate impact of an event on Bitcoin and Ethereum prices?
 
 To measure the immediate impact of an event on Bitcoin and Ethereum prices, you can look at the price charts right before and after the event happens. For example, if there's a big news announcement, you can check the price of Bitcoin or Ethereum just before the news comes out and then again right after. If the price goes up a lot right after the news, that shows the event had a positive impact. If the price goes down, it shows the event had a negative impact. You can also use tools like trading platforms or price tracking apps to see these changes in real-time.
 
-Another way to measure the immediate impact is by looking at trading volume, which is how many Bitcoins or Ethers are being bought and sold. If an event causes a lot more people to start trading, it usually means the event had a big impact. For example, if a new law about cryptocurrencies is announced and the trading volume for Bitcoin or Ethereum jumps up right after, it shows that people are reacting to the news. By comparing the trading volume before and after the event, you can see how much it affected the market.
+Another way to measure the immediate impact is by looking at trading [volume](/wiki/volume-trading-strategy), which is how many Bitcoins or Ethers are being bought and sold. If an event causes a lot more people to start trading, it usually means the event had a big impact. For example, if a new law about cryptocurrencies is announced and the trading volume for Bitcoin or Ethereum jumps up right after, it shows that people are reacting to the news. By comparing the trading volume before and after the event, you can see how much it affected the market.
 
 ## What are some common tools or platforms used to analyze cryptocurrency price reactions?
 
@@ -54,7 +54,7 @@ You can also use apps like Blockfolio and Delta to track price reactions. These 
 
 Event study methodology is a way to figure out how an event, like a news announcement or a new law, affects the price of Bitcoin or Ethereum. It works by looking at the price of the cryptocurrency before and after the event happens. If the price goes up a lot right after the event, it means the event had a good impact. If it goes down, the event had a bad impact. This method helps people understand which events are important and how they might change the value of cryptocurrencies.
 
-To use event study methodology, you start by picking an event you want to study, like a government saying it's okay to use Bitcoin. Then, you look at the price of Bitcoin just before the event and compare it to the price right after. You might also look at the trading volume, which is how many Bitcoins are being bought and sold, to see if the event made more people start trading. By doing this, you can see the immediate impact of the event and understand how it changed the market.
+To use event study methodology, you start by [picking](/wiki/asset-class-picking) an event you want to study, like a government saying it's okay to use Bitcoin. Then, you look at the price of Bitcoin just before the event and compare it to the price right after. You might also look at the trading volume, which is how many Bitcoins are being bought and sold, to see if the event made more people start trading. By doing this, you can see the immediate impact of the event and understand how it changed the market.
 
 ## How do market sentiment and news influence Bitcoin and Ethereum price reactions?
 
@@ -88,7 +88,7 @@ To figure out how much these announcements affect the prices, you can look at th
 
 ## What is Event Analysis: Bitcoin Halvings?
 
-Bitcoin halving events demonstrate notable price patterns, attracting significant attention from traders and investors. Historically, these events, occurring approximately every four years, have shown a tendency for Bitcoin prices to depreciate slightly in the period leading up to the halving. This depreciation is typically characterized by increased volatility, as market participants anticipate the change in Bitcoin's supply dynamics.
+Bitcoin halving events demonstrate notable price patterns, attracting significant attention from traders and investors. Historically, these events, occurring approximately every four years, have shown a tendency for Bitcoin prices to depreciate slightly in the period leading up to the halving. This depreciation is typically characterized by increased [volatility](/wiki/volatility-trading-strategies), as market participants anticipate the change in Bitcoin's supply dynamics.
 
 Post-halving, a common pattern observed is the appreciation of Bitcoin's price. This appreciation is often attributed to the reduction in the rate at which new Bitcoins are introduced into the market, effectively decreasing the supply pressure while demand conditions remain constant or increase. A simple supply-demand economic model can explain this phenomenon:
 

@@ -26,7 +26,7 @@ Fixed assets are things a business owns and uses for a long time to help make mo
 
 Another type of fixed asset is machinery and equipment. This can include big machines used in manufacturing, like a printing press or a conveyor belt system. It also includes smaller equipment like computers and office furniture that help employees do their jobs. These items are important for the day-to-day operations of the business.
 
-Vehicles are also fixed assets. A delivery company might own a fleet of trucks that it uses to transport goods. A construction company might have bulldozers and cranes that it uses on job sites. These vehicles are essential for the business to carry out its work and are expected to last for several years.
+Vehicles are also fixed assets. A delivery company might own a fleet of trucks that it uses to transport goods. A construction company might have bulldozers and cranes that it uses on job sites. These vehicles are essential for the business to [carry](/wiki/carry-trading) out its work and are expected to last for several years.
 
 ## Can you give examples of current assets?
 
@@ -38,7 +38,7 @@ These examples show how current assets help a business manage its day-to-day ope
 
 ## How do fixed assets differ from current assets in terms of liquidity?
 
-Fixed assets and current assets differ a lot when it comes to how quickly they can be turned into cash, which is called liquidity. Fixed assets, like buildings, machines, and vehicles, are not meant to be sold quickly. They are used in the business over many years to help make money. Because of this, fixed assets are not very liquid. It can take a long time to sell a building or a big machine, and you might not get as much money as you paid for it.
+Fixed assets and current assets differ a lot when it comes to how quickly they can be turned into cash, which is called [liquidity](/wiki/liquidity-risk-premium). Fixed assets, like buildings, machines, and vehicles, are not meant to be sold quickly. They are used in the business over many years to help make money. Because of this, fixed assets are not very liquid. It can take a long time to sell a building or a big machine, and you might not get as much money as you paid for it.
 
 On the other hand, current assets are much more liquid. They can be turned into cash or used up within a year. Cash itself is the most liquid asset because it's already money. Other current assets, like inventory and accounts receivable, can also be turned into cash pretty quickly. A business can sell its inventory to customers or collect money from customers who owe it. This makes current assets very important for paying short-term bills and keeping the business running smoothly.
 

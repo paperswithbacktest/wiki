@@ -134,7 +134,7 @@ Algorithmic trading, or algo trading, involves the use of computer algorithms to
 
 Balance sheet data can be integrated into trading algorithms to enhance their predictive power and improve decision-making. The balance sheet provides essential insights into a company's financial position, helping traders assess its financial stability and potential future performance. By incorporating data from the balance sheet, such as assets, liabilities, and shareholders' equity, algorithms can develop a more comprehensive understanding of a company's value.
 
-Financial ratios derived from the balance sheet also play a critical role in creating predictive algorithms. Ratios such as the current ratio, debt-to-equity ratio, and return on equity provide valuable metrics that reflect a company's liquidity, financial leverage, and profitability, respectively. For example, the debt-to-equity ratio, calculated as:
+Financial ratios derived from the balance sheet also play a critical role in creating predictive algorithms. Ratios such as the current ratio, debt-to-equity ratio, and return on equity provide valuable metrics that reflect a company's [liquidity](/wiki/liquidity-risk-premium), financial leverage, and profitability, respectively. For example, the debt-to-equity ratio, calculated as:
 
 $$
 \text{Debt-to-Equity Ratio} = \frac{\text{Total Liabilities}}{\text{Shareholders' Equity}}

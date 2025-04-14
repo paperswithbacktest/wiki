@@ -125,7 +125,7 @@ $$
 
 For instance, if the notional value of a futures contract is $100,000 and the initial margin requirement is $5,000, the leverage ratio is 20:1. This means that with $5,000, a trader can control a $100,000 position, magnifying both potential gains and losses.
 
-Strategically, futures contracts are used in various ways. Hedgers, such as farmers or oil producers, utilize futures to lock in prices for their products to protect against unfavorable price fluctuations. Speculators, on the other hand, aim to profit from price movements by predicting market trends and taking positions accordingly. Speculation adds liquidity and depth to the futures markets, although it also introduces an element of volatility.
+Strategically, futures contracts are used in various ways. Hedgers, such as farmers or oil producers, utilize futures to lock in prices for their products to protect against unfavorable price fluctuations. Speculators, on the other hand, aim to profit from price movements by predicting market trends and taking positions accordingly. Speculation adds [liquidity](/wiki/liquidity-risk-premium) and depth to the futures markets, although it also introduces an element of volatility.
 
 In conclusion, futures contracts are indispensable tools in modern financial markets, playing a crucial role in price discovery and risk management. Their ability to offer leverage magnifies market dynamics, making them attractive to both hedgers and speculators. Understanding the mechanics, applications, and risks associated with futures is critical for informed trading. As the financial landscape evolves, the strategic application of futures contracts will continue to be of paramount importance for market participants.
 

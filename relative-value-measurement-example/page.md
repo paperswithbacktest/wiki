@@ -46,7 +46,7 @@ Relative value, on the other hand, looks at how something's worth compares to ot
 
 ## What are the key factors that influence relative value?
 
-Relative value is influenced by a few important things. One big factor is price. When you compare the prices of two similar things, you can see which one is cheaper and might be a better deal. But price isn't the only thing that matters. You also need to look at what you get for that price. For example, if you're buying a phone, you might compare the price to the features like the camera, battery life, and storage. If one phone has better features for a lower price, it has a higher relative value.
+Relative value is influenced by a few important things. One big [factor](/wiki/factor-investing) is price. When you compare the prices of two similar things, you can see which one is cheaper and might be a better deal. But price isn't the only thing that matters. You also need to look at what you get for that price. For example, if you're buying a phone, you might compare the price to the features like the camera, battery life, and storage. If one phone has better features for a lower price, it has a higher relative value.
 
 Another key factor is quality. Sometimes, a cheaper item might not be as good as a more expensive one. So, you need to think about how well something works or how long it will last. For example, if you're buying shoes, a pair that costs more but lasts longer might be a better value than a cheaper pair that wears out quickly. Also, personal preferences play a role. What you think is valuable might be different from what someone else thinks. For instance, if you care a lot about a phone's camera, you might be willing to pay more for a phone with a better camera, even if it's more expensive.
 

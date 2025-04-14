@@ -18,7 +18,7 @@ On the other hand, if a market is not liquid, it can be hard to sell your assets
 
 Liquidity-seeking algorithms are computer programs that traders use to find the best places to buy or sell assets quickly and at good prices. These algorithms look at different markets and trading platforms to see where there are lots of buyers and sellers. By doing this, they help traders avoid markets where it's hard to trade because there aren't enough people trading.
 
-These algorithms are really helpful because they can find hidden pockets of liquidity that might not be obvious to human traders. They do this by breaking up big orders into smaller ones and spreading them out over time and across different places. This way, they can get the best possible price without causing big changes in the market. It's like finding the best market stalls to sell your goods at the best price without scaring off other buyers or sellers.
+These algorithms are really helpful because they can find hidden pockets of [liquidity](/wiki/liquidity-risk-premium) that might not be obvious to human traders. They do this by breaking up big orders into smaller ones and spreading them out over time and across different places. This way, they can get the best possible price without causing big changes in the market. It's like finding the best market stalls to sell your goods at the best price without scaring off other buyers or sellers.
 
 ## How do liquidity-seeking algorithms work?
 
@@ -70,7 +70,7 @@ Another way to make these algorithms better is by using different strategies for
 
 ## What are the latest advancements in liquidity-seeking algorithm technology?
 
-The latest advancements in liquidity-seeking algorithms have made them smarter and faster. One big improvement is the use of machine learning. This means the algorithms can learn from what's happening in the market and change how they work to get even better prices. They can look at lots of data really quickly and figure out the best places to trade. Another cool thing is that these algorithms can now work with other types of trading tools, like high-frequency trading systems. This helps them find even more spots where they can buy or sell without making the market move too much.
+The latest advancements in liquidity-seeking algorithms have made them smarter and faster. One big improvement is the use of [machine learning](/wiki/machine-learning). This means the algorithms can learn from what's happening in the market and change how they work to get even better prices. They can look at lots of data really quickly and figure out the best places to trade. Another cool thing is that these algorithms can now work with other types of trading tools, like high-frequency trading systems. This helps them find even more spots where they can buy or sell without making the market move too much.
 
 Another advancement is that these algorithms can now handle different types of markets better. They can change how they trade depending on if the market is busy or quiet. For example, if the market is moving a lot, the algorithm can use a strategy that helps it trade at the average price over time. But if the market is calm, it can focus on trading as quickly as possible. These new features make the algorithms more flexible and helpful for traders, no matter what's happening in the market.
 

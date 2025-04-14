@@ -20,7 +20,7 @@ A research report usually has a few main parts. The first part is the introducti
 
 The next part is the results section. This shows what the research found out. It can have numbers, graphs, or other ways to show the data. After the results, there's a discussion. This part talks about what the results mean and if they answer the question from the introduction. It might also talk about other things the results make us think about. Finally, there's a conclusion that sums up everything and might suggest what to do next or what other research could be done.
 
-Sometimes, a research report also has other parts like an abstract at the beginning, which is a short summary of the whole report. There might also be a references section at the end, which lists all the other studies or books that were used in the research. These parts help make the report complete and easy to understand.
+Sometimes, a research report also has other parts like an abstract at the beginning, which is a short summary of the whole report. There might also be a references section at the end, which lists all the other studies or [books](/wiki/algo-trading-books) that were used in the research. These parts help make the report complete and easy to understand.
 
 ## How is a research report typically structured?
 
@@ -46,7 +46,7 @@ Students and educators are also key audiences for research reports. Students can
 
 ## What are the common methods used in producing a research report?
 
-When making a research report, researchers often start by picking a topic and figuring out what they want to learn. They might do this by looking at what other people have already found out and seeing what questions are still unanswered. Once they have a clear question, they plan how to answer it. This could mean doing experiments, asking people questions in surveys, or watching how things happen in real life. They write down all the steps they take so others can follow along if they want to.
+When making a research report, researchers often start by [picking](/wiki/asset-class-picking) a topic and figuring out what they want to learn. They might do this by looking at what other people have already found out and seeing what questions are still unanswered. Once they have a clear question, they plan how to answer it. This could mean doing experiments, asking people questions in surveys, or watching how things happen in real life. They write down all the steps they take so others can follow along if they want to.
 
 After gathering all the information, researchers put it together in the report. They start with an introduction to explain what the research is about and why it matters. Then, they describe the methods they used, like if they did experiments or surveys. Next, they show the results, using numbers, graphs, or pictures to make it clear. They talk about what the results mean in the discussion part and wrap everything up in the conclusion. They also list all the other studies they used in a references section. This way, anyone reading the report can see how the research was done and what was learned.
 

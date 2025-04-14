@@ -22,7 +22,7 @@ VPIN is important because it helps watch the market to make sure it's fair. By l
 
 ## How does VPIN differ from traditional measures of informed trading?
 
-VPIN is different from traditional measures of informed trading because it looks at how much trading is happening and whether there are more buy or sell orders over short periods of time. Traditional measures often just look at the price changes or the size of trades to guess if traders are using secret information. But VPIN pays attention to the actual volume of trades and how balanced the buying and selling is, which can show if some traders know more than others.
+VPIN is different from traditional measures of informed trading because it looks at how much trading is happening and whether there are more buy or sell orders over short periods of time. Traditional measures often just look at the price changes or the size of trades to guess if traders are using secret information. But VPIN pays attention to the actual [volume](/wiki/volume-trading-strategy) of trades and how balanced the buying and selling is, which can show if some traders know more than others.
 
 Another way VPIN differs is that it updates its information more often. Traditional measures might only check for informed trading every day or every week. But VPIN can check every few minutes or even every trade. This makes it quicker at spotting if something unusual is happening in the market. By keeping a close watch on the trading volume and order imbalances, VPIN can help catch unfair trading before it causes big problems.
 
@@ -46,9 +46,9 @@ By using volume synchronization, VPIN can catch changes in the market faster. If
 
 ## How is VPIN used to predict market volatility and liquidity?
 
-VPIN helps predict market volatility by looking at how much buying and selling is happening. If VPIN is high, it means there might be a lot of people using secret information to trade. This can make the market go up and down a lot, which is called volatility. By watching VPIN, people who study the market can guess if big changes are coming soon. This helps them be ready for when the market might get bumpy.
+VPIN helps predict market [volatility](/wiki/volatility-trading-strategies) by looking at how much buying and selling is happening. If VPIN is high, it means there might be a lot of people using secret information to trade. This can make the market go up and down a lot, which is called volatility. By watching VPIN, people who study the market can guess if big changes are coming soon. This helps them be ready for when the market might get bumpy.
 
-VPIN also tells us about market liquidity, which is how easy it is to buy or sell things without changing the price too much. If VPIN is high, it might mean that some traders are trying to move a lot of money quickly. This can make it harder for others to trade because there might not be enough buyers or sellers at the right price. By keeping an eye on VPIN, people can see if the market might become less liquid, which helps them plan their trades better.
+VPIN also tells us about market [liquidity](/wiki/liquidity-risk-premium), which is how easy it is to buy or sell things without changing the price too much. If VPIN is high, it might mean that some traders are trying to move a lot of money quickly. This can make it harder for others to trade because there might not be enough buyers or sellers at the right price. By keeping an eye on VPIN, people can see if the market might become less liquid, which helps them plan their trades better.
 
 ## What are the practical applications of VPIN in financial markets?
 

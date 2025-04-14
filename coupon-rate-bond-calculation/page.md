@@ -30,7 +30,7 @@ This rate is set when the bond is first sold and usually doesn't change. It tell
 
 The coupon rate of a bond usually does not change over the life of the bond. When a bond is issued, the coupon rate is set, and it stays the same until the bond matures. This means if you buy a bond with a 5% coupon rate, you will get 5% of the bond's face value every year, no matter what happens in the market.
 
-However, there are some special types of bonds where the coupon rate can change. These are called floating-rate bonds or variable-rate bonds. For these bonds, the coupon rate might go up or down based on changes in a benchmark interest rate, like the federal funds rate. But for most bonds, the coupon rate stays the same from the time you buy it until it matures.
+However, there are some special types of bonds where the coupon rate can change. These are called floating-rate bonds or variable-rate bonds. For these bonds, the coupon rate might go up or down based on changes in a benchmark [interest rate](/wiki/interest-rate-trading-strategies), like the federal funds rate. But for most bonds, the coupon rate stays the same from the time you buy it until it matures.
 
 ## How does the coupon rate affect the price of a bond?
 
@@ -76,7 +76,7 @@ This means that if interest rates in the economy go up, the coupon rate on a flo
 
 ## What advanced strategies can investors use to optimize returns based on coupon rates?
 
-Investors can use a strategy called bond laddering to optimize returns based on coupon rates. This means they buy bonds that mature at different times. For example, you might buy one bond that matures in one year, another in two years, and another in three years. This way, you can take advantage of different coupon rates over time. When a bond matures, you can reinvest the money into a new bond with a higher coupon rate if interest rates have gone up. This helps you keep earning a good return even if rates change.
+Investors can use a strategy called bond laddering to optimize returns based on coupon rates. This means they buy bonds that mature at different times. For example, you might buy one bond that matures in one year, another in two years, and another in three years. This way, you can take advantage of different coupon rates over time. When a bond matures, you can reinvest the money into a new bond with a higher coupon rate if interest rates have gone up. This helps you keep [earning](/wiki/earning-announcement) a good return even if rates change.
 
 Another strategy is to look for bonds with callable features. These bonds can be paid back by the issuer before they mature, usually if interest rates go down. If you think interest rates might drop, you might want to avoid callable bonds because the issuer could call them back and you'd have to reinvest at a lower rate. But if you think rates will stay the same or go up, callable bonds might offer higher coupon rates to make up for the risk of being called back. This way, you can get a higher return while still managing the risk of changing rates.
 
@@ -86,7 +86,7 @@ Bonds are a fundamental component of the financial markets, serving as fixed-inc
 
 Understanding how bond prices are influenced by market interest rates and other economic factors is crucial for investors. Bond prices and market interest rates have an inverse relationship; as market interest rates rise, existing bond prices typically fall, and vice versa. This is because new bonds are issued at prevailing rates, making older bonds with lower coupon rates less attractive.
 
-A higher coupon rate provides a level of protection against increasing market interest rates. Such bonds are favored by investors as they offer greater income in a rising interest rate environment, thereby mitigating potential capital losses due to declining bond prices. Consequently, bonds with higher coupon rates are often more appealing during periods of interest rate volatility.
+A higher coupon rate provides a level of protection against increasing market interest rates. Such bonds are favored by investors as they offer greater income in a rising interest rate environment, thereby mitigating potential capital losses due to declining bond prices. Consequently, bonds with higher coupon rates are often more appealing during periods of interest rate [volatility](/wiki/volatility-trading-strategies).
 
 To calculate the coupon rate, the following formula is used:
 

@@ -87,7 +87,7 @@ Inflation is another big thing to think about. If inflation is high, the value o
 Time horizons are a critical component of investment strategy, defining the period over which an investor expects to hold an asset or portfolio before a planned liquidation for a specific financial aim. They significantly influence the type of investments chosen, the level of acceptable risk, and the anticipated return on investment.
 
 ### Short-term Horizons
-Short-term investment horizons typically range from a few months to three years. The primary focus for these timeframes is capital preservation and minimizing exposure to volatility. Therefore, investments in this category often include lower-risk assets such as certificates of deposit (CDs), money market funds, and short-term bonds. These instruments generally offer more stability and [liquidity](/wiki/liquidity-risk-premium), which is essential for meeting imminent financial goals.
+Short-term investment horizons typically range from a few months to three years. The primary focus for these timeframes is capital preservation and minimizing exposure to [volatility](/wiki/volatility-trading-strategies). Therefore, investments in this category often include lower-risk assets such as certificates of deposit (CDs), money market funds, and short-term bonds. These instruments generally offer more stability and [liquidity](/wiki/liquidity-risk-premium), which is essential for meeting imminent financial goals.
 
 The formula for calculating the expected return on a short-term bond is:
 

@@ -64,7 +64,7 @@ Another mistake is setting stop-loss orders too far away or too close based on p
 
 ## How can understanding pips help in optimizing trading performance?
 
-Understanding pips can really help traders do better in their trading. Pips show how much the price of a currency pair has changed. By knowing how many pips they want to gain or lose, traders can set clear goals for their trades. For example, if a trader wants to make 50 pips on a trade, they can plan their entry and exit points around that goal. This helps them know when to take their profits and not miss out on good trades.
+Understanding pips can really help traders do better in their trading. Pips show how much the price of a currency pair has changed. By knowing how many pips they want to gain or lose, traders can set clear goals for their trades. For example, if a trader wants to make 50 pips on a trade, they can plan their entry and [exit](/wiki/exit-strategy) points around that goal. This helps them know when to take their profits and not miss out on good trades.
 
 Pips are also important for managing risks. Traders can use pips to set stop-loss orders, which help them limit their losses. If a trader decides they can only lose 20 pips on a trade, they can set a stop-loss order at that level. This way, they can protect their money and avoid big losses. By understanding pips and using them to plan their trades and manage risks, traders can make smarter decisions and improve their trading performance.
 
@@ -72,7 +72,7 @@ Pips are also important for managing risks. Traders can use pips to set stop-los
 
 One advanced technique that involves using pips for market analysis is called pip-based technical analysis. Traders look at how many pips a currency pair moves over time to spot patterns and trends. For example, they might study the average daily pip range of a pair to see if it's moving more or less than usual. If a pair that usually moves 50 pips a day suddenly starts moving 100 pips, it might mean the market is getting more active. Traders can use this information to guess where the price might go next and make better trading decisions.
 
-Another technique is using pips to measure volatility. Volatility is how much the price of a currency pair goes up and down. Traders can use pips to calculate something called the Average True Range (ATR), which shows how much a pair moves on average. If the ATR in pips is high, it means the market is more volatile, and if it's low, it means the market is calmer. By understanding volatility through pips, traders can adjust their strategies. For example, they might use smaller stop-loss orders in a high volatility market to protect their money, or they might look for bigger moves in a low volatility market to make more pips.
+Another technique is using pips to measure [volatility](/wiki/volatility-trading-strategies). Volatility is how much the price of a currency pair goes up and down. Traders can use pips to calculate something called the Average True Range (ATR), which shows how much a pair moves on average. If the ATR in pips is high, it means the market is more volatile, and if it's low, it means the market is calmer. By understanding volatility through pips, traders can adjust their strategies. For example, they might use smaller stop-loss orders in a high volatility market to protect their money, or they might look for bigger moves in a low volatility market to make more pips.
 
 ## How do pips factor into high-frequency trading algorithms?
 

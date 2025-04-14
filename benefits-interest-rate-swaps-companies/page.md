@@ -22,7 +22,7 @@ The swap works by setting a pretend amount of money, called the notional princip
 
 ## What are the basic types of interest rate swaps?
 
-There are two main types of interest rate swaps: fixed-for-floating swaps and basis swaps. In a fixed-for-floating swap, one party agrees to pay a fixed interest rate on a notional amount, while the other party pays a floating interest rate on the same notional amount. This type of swap is very common and helps businesses and financial institutions manage their exposure to interest rate changes. For example, if a company has a loan with a floating rate and they want to make their payments more predictable, they might enter into a fixed-for-floating swap to switch to a fixed rate.
+There are two main types of [interest rate](/wiki/interest-rate-trading-strategies) swaps: fixed-for-floating swaps and basis swaps. In a fixed-for-floating swap, one party agrees to pay a fixed interest rate on a notional amount, while the other party pays a floating interest rate on the same notional amount. This type of swap is very common and helps businesses and financial institutions manage their exposure to interest rate changes. For example, if a company has a loan with a floating rate and they want to make their payments more predictable, they might enter into a fixed-for-floating swap to switch to a fixed rate.
 
 The other type, a basis swap, involves exchanging one type of floating rate for another floating rate. Both parties pay floating rates, but these rates are based on different benchmarks or indexes. This can be useful when the parties have different views on how different interest rate benchmarks will move relative to each other. For instance, one party might pay interest based on the LIBOR rate, while the other pays based on the federal funds rate. Basis swaps help manage the risk that comes from having loans or investments tied to different floating rate indexes.
 
@@ -137,7 +137,7 @@ This mathematical arrangement allows a company to hedge against rising interest 
 
 ## References & Further Reading
 
-The following resources offer valuable insights into the complex field of financial derivatives, interest rate swaps, and algorithmic trading. These references are instrumental for anyone looking to deepen their understanding of financial engineering and [machine learning](/wiki/machine-learning) applications in finance.
+The following resources offer valuable insights into the complex field of financial derivatives, interest rate swaps, and [algorithmic trading](/wiki/algorithmic-trading). These references are instrumental for anyone looking to deepen their understanding of financial engineering and [machine learning](/wiki/machine-learning) applications in finance.
 
 - **Principles of Financial Engineering by Salih N. Neftci**: This book provides a comprehensive overview of financial engineering, covering fundamental concepts and practical applications. It investigates into the construction and application of financial instruments, including derivatives such as options, swaps, and futures. Neftci's text is invaluable for understanding the mathematical and theoretical foundations that underpin the diverse array of financial products and strategies employed worldwide.
 

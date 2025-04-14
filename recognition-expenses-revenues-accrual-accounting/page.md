@@ -106,7 +106,7 @@ This ensures that only the expenses associated with realized revenue affect inco
 
 ## References & Further Reading
 
-For deeper insights into revenue recognition and algorithmic trading, consider consulting the following essential resources:
+For deeper insights into revenue recognition and [algorithmic trading](/wiki/algorithmic-trading), consider consulting the following essential resources:
 
 - **Revenue Recognition**: A comprehensive understanding of revenue recognition underlies many financial practices. 'Revenue from Contracts with Customers' by Deloitte provides a detailed examination of the accounting standard ASC 606. Additionally, 'IFRS 15', available through IAS Plus, expands on international financial reporting standards and their application. These resources elucidate how revenue is recognized and the implications for financial reporting.
 

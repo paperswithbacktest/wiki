@@ -22,7 +22,7 @@ Ratings also help people know about the fees they might have to pay. Some exchan
 
 ## What are the basic security features to look for in a cryptocurrency exchange?
 
-When you're looking at a cryptocurrency exchange, it's really important to check for good security features. One big thing to look for is two-factor authentication (2FA). This means you need two ways to prove it's really you before you can log in, like a password and a code sent to your phone. This makes it much harder for someone else to get into your account. Another key feature is encryption. This is like a secret code that keeps your information safe when it's sent from your computer to the exchange's servers. Without encryption, your personal details and money could be stolen.
+When you're looking at a [cryptocurrency](/wiki/cryptocurrency) exchange, it's really important to check for good security features. One big thing to look for is two-[factor](/wiki/factor-investing) authentication (2FA). This means you need two ways to prove it's really you before you can log in, like a password and a code sent to your phone. This makes it much harder for someone else to get into your account. Another key feature is encryption. This is like a secret code that keeps your information safe when it's sent from your computer to the exchange's servers. Without encryption, your personal details and money could be stolen.
 
 Also, you should see if the exchange keeps most of the money in what's called "cold storage." Cold storage means the money is kept offline, so it's much safer from hackers. If an exchange uses cold storage, it shows they care about keeping your money safe. Lastly, check if the exchange has insurance. This is like a safety net; if something bad happens, like a hack, the insurance can help get your money back. Good security features like these help you trust that your money is safe on the exchange.
 
@@ -52,7 +52,7 @@ Also, it's good to see if the exchange is open about how they follow the rules. 
 
 ## How does liquidity impact the rating of a cryptocurrency exchange?
 
-Liquidity is really important when people are rating a cryptocurrency exchange. It means how easily you can buy or sell your cryptocurrencies without the price changing too much. If an exchange has high liquidity, it's easier for you to trade because there are always people ready to buy or sell. This makes the exchange more popular and usually gets it a higher rating. People like exchanges where they can quickly trade their money without waiting or worrying about big price swings.
+Liquidity is really important when people are rating a cryptocurrency exchange. It means how easily you can buy or sell your cryptocurrencies without the price changing too much. If an exchange has high [liquidity](/wiki/liquidity-risk-premium), it's easier for you to trade because there are always people ready to buy or sell. This makes the exchange more popular and usually gets it a higher rating. People like exchanges where they can quickly trade their money without waiting or worrying about big price swings.
 
 On the other hand, if an exchange has low liquidity, it can be hard to trade. You might have to wait longer to find someone to trade with, and the price might change a lot while you're waiting. This can be frustrating and risky. So, when people rate an exchange, they look at how liquid it is because it affects how easy and safe it is to use. Exchanges with better liquidity often get better ratings because they make trading smoother and more reliable for everyone.
 

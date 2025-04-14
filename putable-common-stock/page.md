@@ -92,7 +92,7 @@ Both types of options can be employed for various strategies. For example, inves
 
 ### Mechanics of Stock Options
 
-The valuation of options is primarily derived from factors like the underlying stock's current price, the strike price, time until expiration, volatility, and interest rates. The Black-Scholes model is a common method for calculating theoretical option prices, emphasizing the complexity and sophistication of options trading. The model's formula is:
+The valuation of options is primarily derived from factors like the underlying stock's current price, the strike price, time until expiration, [volatility](/wiki/volatility-trading-strategies), and interest rates. The Black-Scholes model is a common method for calculating theoretical option prices, emphasizing the complexity and sophistication of options trading. The model's formula is:
 
 $$
 C = S_0 \cdot N(d_1) - X \cdot e^{-rt} \cdot N(d_2)

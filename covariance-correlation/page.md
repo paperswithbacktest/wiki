@@ -66,7 +66,7 @@ The Spearman and Kendall correlation coefficients are used when you're not sure 
 
 ## How can outliers affect covariance and correlation measures?
 
-Outliers can really mess up covariance and correlation measures. An outlier is a data point that's way different from the others. If you have one, it can pull the whole relationship between two things in a different direction. Imagine you're looking at how much people earn and how much they spend on food. If most people earn and spend similar amounts, but one person earns a lot and spends very little, that one person can make it look like there's no relationship between earning and spending, even if there really is one for most people.
+Outliers can really mess up covariance and correlation measures. An outlier is a data point that's way different from the others. If you have one, it can pull the whole relationship between two things in a different direction. Imagine you're looking at how much people earn and how much they spend on food. If most people earn and spend similar amounts, but one person earns a lot and spends very little, that one person can make it look like there's no relationship between [earning](/wiki/earning-announcement) and spending, even if there really is one for most people.
 
 Because of this, it's important to check for outliers before you trust your covariance and correlation results. If you find an outlier, you might need to decide if it's a mistake or if it's a real but unusual case. Sometimes, you might choose to leave it out of your calculations to get a better picture of the relationship for most of your data. But remember, just because a data point is different doesn't mean it's wrong. It might be telling you something important about your data that you need to understand.
 
@@ -264,7 +264,7 @@ This code snippet directly computes both covariance and correlation, reinforcing
 
 ## What are Trading Applications?
 
-Covariance and correlation are pivotal tools in formulating trading strategies that aim to manage risk and optimize portfolio returns. Two specific strategies where these concepts are implemented are portfolio diversification and pair trading.
+Covariance and correlation are pivotal tools in formulating trading strategies that aim to manage risk and optimize portfolio returns. Two specific strategies where these concepts are implemented are portfolio diversification and [pair trading](/wiki/pair-trading).
 
 ### Portfolio Diversification
 

@@ -52,7 +52,7 @@ Another limitation is that the P/E ratio can be affected by accounting choices. 
 
 ## How does the P/E ratio differ between growth and value stocks?
 
-The P/E ratio can be very different for growth stocks and value stocks. Growth stocks are companies that are expected to grow a lot in the future. Because of this, investors are often willing to pay more for these stocks, which means they usually have higher P/E ratios. For example, a tech company that's growing quickly might have a P/E ratio of 30 or even higher. Investors are okay with paying more because they think the company's earnings will go up a lot in the future.
+The P/E ratio can be very different for [growth stocks](/wiki/growth-stocks) and value stocks. Growth stocks are companies that are expected to grow a lot in the future. Because of this, investors are often willing to pay more for these stocks, which means they usually have higher P/E ratios. For example, a tech company that's growing quickly might have a P/E ratio of 30 or even higher. Investors are okay with paying more because they think the company's earnings will go up a lot in the future.
 
 On the other hand, value stocks are companies that might not be growing as fast, but they are seen as good deals. These companies often have lower P/E ratios because their stock prices are low compared to their earnings. For instance, a company in a slow-growing industry might have a P/E ratio of 10 or 15. Investors like value stocks because they think the stock is cheap and might go up in value over time. So, the P/E ratio can help show if a stock is more of a growth stock or a value stock.
 
@@ -176,7 +176,7 @@ The P/E ratio serves as a valuable benchmark for investors, helping to inform de
 
 ## How can P/E Ratios be used in an Algorithmic Trading Strategy: A Case Study?
 
-This case study explores a hypothetical algorithmic trading strategy that utilizes the Price-to-Earnings (P/E) ratio as a primary metric for stock selection and trading execution. The strategy aims to exploit differences in P/E ratios to identify undervalued or overvalued stocks within a specific sector. Here, we outline the process of data collection, screening, and execution, followed by an analysis of the strategy's performance.
+This case study explores a hypothetical [algorithmic trading](/wiki/algorithmic-trading) strategy that utilizes the Price-to-Earnings (P/E) ratio as a primary metric for stock selection and trading execution. The strategy aims to exploit differences in P/E ratios to identify undervalued or overvalued stocks within a specific sector. Here, we outline the process of data collection, screening, and execution, followed by an analysis of the strategy's performance.
 
 ### Data Collection
 

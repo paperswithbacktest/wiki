@@ -84,7 +84,7 @@ On the other hand, technology can also make a buyer's monopoly stronger. If the 
 
 ## How does it compare with Traditional Monopoly?
 
-Monopsony, or buyer's monopoly, and traditional monopoly, or seller's monopoly, represent unique market structures where a single market participant holds significant market power. Despite both being considered price makers, they differ fundamentally in their domains. Monopolies dominate the sale of a product or service, whereas monopsonies have substantial control over the purchase of a factor of production, such as labor.
+Monopsony, or buyer's monopoly, and traditional monopoly, or seller's monopoly, represent unique market structures where a single market participant holds significant market power. Despite both being considered price makers, they differ fundamentally in their domains. Monopolies dominate the sale of a product or service, whereas monopsonies have substantial control over the purchase of a [factor](/wiki/factor-investing) of production, such as labor.
 
 In a traditional monopoly, the monopolist sets prices higher than in a competitive market, leading to reduced quantities sold and higher profit margins. The monopolist maximizes profit where marginal cost (MC) equals marginal revenue (MR), resulting in consumer surplus loss and creation of deadweight loss. The formula for a monopolist's profit maximization can be represented as:
 

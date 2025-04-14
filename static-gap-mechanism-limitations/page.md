@@ -82,7 +82,7 @@ On the other hand, dynamic gaps change size while the machine is working. They a
 
 ## What is the Understanding of Static Gap in Algo Trading?
 
-The term 'static gap' refers to the difference between a trader's assets and liabilities within a specified timeframe, typically less than a year. In algorithmic trading, this concept is an essential tool for evaluating interest rate exposure. It measures a trader’s risk in relation to potential rate fluctuations by providing a snapshot of the existing gap between assets and liabilities.
+The term 'static gap' refers to the difference between a trader's assets and liabilities within a specified timeframe, typically less than a year. In [algorithmic trading](/wiki/algorithmic-trading), this concept is an essential tool for evaluating interest rate exposure. It measures a trader’s risk in relation to potential rate fluctuations by providing a snapshot of the existing gap between assets and liabilities.
 
 Static gap analysis does not account for changes over time, making it a static rather than a dynamic measure of financial exposure. It offers a simplified view, taking a specific point in time to calculate the difference between interest rate-sensitive assets and liabilities. Mathematically, the static gap can be represented as:
 

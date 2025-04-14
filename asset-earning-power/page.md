@@ -36,7 +36,7 @@ Seeing this, you might think "Sweet Treats" is doing a good job using its assets
 
 Several things can affect a company's Asset Earning Power. One big thing is how well the company uses its stuff, like machines or buildings, to make money. If they use their stuff really well, they can make more money, which means a higher Asset Earning Power. Another thing is how much money the company makes overall. If they have a lot of profit, that helps their Asset Earning Power go up. But if they don't make much money, their Asset Earning Power will be lower.
 
-Another important factor is the type of stuff the company has. Some things, like new machines or good buildings, can help make more money. But if a company has old machines that break a lot, they might not be able to make as much money, which can lower their Asset Earning Power. Also, the kind of business the company is in can make a difference. Some businesses, like tech companies, might have a higher Asset Earning Power because they can make a lot of money with less stuff than, say, a factory that needs a lot of big machines.
+Another important [factor](/wiki/factor-investing) is the type of stuff the company has. Some things, like new machines or good buildings, can help make more money. But if a company has old machines that break a lot, they might not be able to make as much money, which can lower their Asset Earning Power. Also, the kind of business the company is in can make a difference. Some businesses, like tech companies, might have a higher Asset Earning Power because they can make a lot of money with less stuff than, say, a factory that needs a lot of big machines.
 
 ## How does Asset Earning Power differ from other financial metrics?
 

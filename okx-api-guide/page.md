@@ -22,7 +22,7 @@ After you click on the "API" tab, you'll see a button to create a new API key. C
 
 ## What are the different types of API keys available on OKX?
 
-On OKX, there are two main types of API keys: read-only keys and read-write keys. A read-only key lets you see information like your account balance and market data, but you can't use it to make trades or move money. It's like having a library card that lets you read books but not take them home.
+On OKX, there are two main types of API keys: read-only keys and read-write keys. A read-only key lets you see information like your account balance and market data, but you can't use it to make trades or move money. It's like having a library card that lets you read [books](/wiki/algo-trading-books) but not take them home.
 
 A read-write key, on the other hand, gives you full access to your account. With this key, you can not only see your account information but also make trades, deposit, and withdraw money. It's like having a key to your house that lets you go in and out and do whatever you want inside. Because of this, read-write keys are more powerful but also more risky, so you need to be careful with them.
 
@@ -34,7 +34,7 @@ Once your environment is set up, you can start writing code to interact with the
 
 ## What are the basic endpoints for trading on the OKX API?
 
-The OKX API has several basic endpoints that you can use for trading. One important endpoint is the "place order" endpoint. This lets you send a request to OKX to buy or sell a cryptocurrency. You need to tell OKX what kind of order you want, like a market order or a limit order, and how much you want to buy or sell. Another useful endpoint is the "cancel order" endpoint. This lets you stop an order that you've already placed if you change your mind.
+The OKX API has several basic endpoints that you can use for trading. One important endpoint is the "place order" endpoint. This lets you send a request to OKX to buy or sell a [cryptocurrency](/wiki/cryptocurrency). You need to tell OKX what kind of order you want, like a market order or a limit order, and how much you want to buy or sell. Another useful endpoint is the "cancel order" endpoint. This lets you stop an order that you've already placed if you change your mind.
 
 Another key endpoint is the "get order details" endpoint. This lets you check on an order you've placed to see if it's been filled, canceled, or is still open. You can use this to keep track of your trades. The "get account balance" endpoint is also important because it lets you see how much money you have in your OKX account. This is useful for making sure you have enough money to place new orders.
 
@@ -60,7 +60,7 @@ To look at your transaction history, you use the "get transaction history" endpo
 
 ## What advanced features does the OKX API offer for algorithmic trading?
 
-The OKX API has some cool features that can help you do algorithmic trading. One big feature is the ability to set up stop-loss and take-profit orders. This means you can tell OKX to automatically sell your cryptocurrency if the price goes down too much (stop-loss) or if it goes up to a certain point (take-profit). This can help you make money and avoid losing too much. Another useful feature is the ability to use different types of orders, like iceberg orders and trailing stop orders. These let you hide part of your order from other traders or automatically adjust your stop-loss as the price moves, which can give you more control over your trades.
+The OKX API has some cool features that can help you do [algorithmic trading](/wiki/algorithmic-trading). One big feature is the ability to set up stop-loss and take-profit orders. This means you can tell OKX to automatically sell your cryptocurrency if the price goes down too much (stop-loss) or if it goes up to a certain point (take-profit). This can help you make money and avoid losing too much. Another useful feature is the ability to use different types of orders, like iceberg orders and trailing stop orders. These let you hide part of your order from other traders or automatically adjust your stop-loss as the price moves, which can give you more control over your trades.
 
 Another advanced feature is the ability to use the OKX WebSocket API. This lets your program talk to OKX in real-time, so you can get the latest market data and make trades right away. This is really helpful for algorithmic trading because you can react to changes in the market as soon as they happen. With the WebSocket API, you can build trading bots that work faster and smarter than if you were just using the regular API. By using these advanced features together, you can create powerful trading strategies that help you make better decisions and trade more effectively.
 

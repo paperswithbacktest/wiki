@@ -48,7 +48,7 @@ This strategy acts as insurance because it reduces the risk of losing all your m
 
 ## What role do index funds and ETFs play in managing stock market risk?
 
-Index funds and ETFs, or exchange-traded funds, help manage stock market risk by letting you invest in a big group of stocks all at once. Instead of picking one or two stocks and hoping they do well, you can buy an index fund or ETF that follows a whole bunch of stocks, like all the companies in the S&P 500. This spreads your money across many different companies and industries, which makes your investment less risky. If one company does badly, it won't hurt your whole investment as much because you own a little bit of a lot of companies.
+Index funds and ETFs, or exchange-traded funds, help manage stock market risk by letting you invest in a big group of stocks all at once. Instead of [picking](/wiki/asset-class-picking) one or two stocks and hoping they do well, you can buy an index fund or [ETF](/wiki/etf-trading-strategies) that follows a whole bunch of stocks, like all the companies in the S&P 500. This spreads your money across many different companies and industries, which makes your investment less risky. If one company does badly, it won't hurt your whole investment as much because you own a little bit of a lot of companies.
 
 Another way index funds and ETFs help manage risk is by being more predictable than individual stocks. Since they follow a big group of stocks, they usually move more slowly and steadily. This means they're less likely to have big sudden drops that can scare investors. By investing in index funds and ETFs, you can feel more secure knowing that your money is spread out and your investment is likely to grow over time, even if the stock market has ups and downs.
 

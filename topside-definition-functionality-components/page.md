@@ -82,7 +82,7 @@ Another important trend is making topsides more flexible and able to be used in 
 
 ## What is involved in Data Input and Analysis?
 
-The first step in an algorithmic trading system involves the acquisition and real-time processing of relevant market data. This critical phase sets the groundwork for subsequent trading decisions, as timely and accurate data serve as the bedrock upon which trading strategies are constructed. The efficacy of an algo trading system hinges heavily on its capacity to harness vast amounts of data, including price feeds, trading volumes, and macroeconomic indicators, alongside sentiment analysis from news and social media sources.
+The first step in an [algorithmic trading](/wiki/algorithmic-trading) system involves the acquisition and real-time processing of relevant market data. This critical phase sets the groundwork for subsequent trading decisions, as timely and accurate data serve as the bedrock upon which trading strategies are constructed. The efficacy of an algo trading system hinges heavily on its capacity to harness vast amounts of data, including price feeds, trading volumes, and macroeconomic indicators, alongside sentiment analysis from news and social media sources.
 
 Advanced analytical tools are instrumental in sifting through this data. They employ sophisticated algorithms to detect patterns and discern trading opportunities. These algorithms may include, but are not limited to, statistical analysis techniques such as moving averages, regressions, and [machine learning](/wiki/machine-learning) models. For instance, a simple moving average can be calculated to gauge price trends over a set period as follows:
 

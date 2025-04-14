@@ -28,7 +28,7 @@ This strategy is different because it focuses on making money from falling price
 
 ## Who typically uses a Dedicated Short Bias Strategy?
 
-People who typically use a Dedicated Short Bias Strategy are often experienced investors or hedge fund managers. They believe that certain stocks or the overall market will go down in value. These investors are good at spotting when stock prices might fall. They use short selling to make money from these falling prices. This strategy is not for everyone because it can be risky and requires a deep understanding of the market.
+People who typically use a Dedicated Short Bias Strategy are often experienced investors or [hedge fund](/wiki/hedge-fund-trading-strategies) managers. They believe that certain stocks or the overall market will go down in value. These investors are good at spotting when stock prices might fall. They use short selling to make money from these falling prices. This strategy is not for everyone because it can be risky and requires a deep understanding of the market.
 
 These investors might use this strategy as part of a bigger plan to manage risk or to balance out other investments that go up when the market goes up. They are willing to take on the high risk of short selling because they think the potential rewards are worth it. Not many people use this strategy because it's hard to predict when prices will fall, and the losses can be very big if they get it wrong.
 
@@ -64,7 +64,7 @@ Looking at specific data, the HFRI Short Bias Index, which tracks the performanc
 
 ## How does market volatility affect a Dedicated Short Bias Strategy?
 
-Market volatility can make a Dedicated Short Bias Strategy more risky but also more rewarding. When the market goes up and down a lot, it's harder to predict which way stock prices will go. This means that if you short sell a stock, it might go down like you hoped, but it could also go up suddenly and cause you to lose money. The big swings in price can make it tough to decide when to buy back the stock you shorted, and you might end up losing more than you planned.
+Market [volatility](/wiki/volatility-trading-strategies) can make a Dedicated Short Bias Strategy more risky but also more rewarding. When the market goes up and down a lot, it's harder to predict which way stock prices will go. This means that if you short sell a stock, it might go down like you hoped, but it could also go up suddenly and cause you to lose money. The big swings in price can make it tough to decide when to buy back the stock you shorted, and you might end up losing more than you planned.
 
 On the other hand, high market volatility can also create more chances to make money with a Dedicated Short Bias Strategy. If you're good at spotting when stocks are about to drop, you can make big profits during times when the market is shaky. For example, during a market crash, stocks can fall fast, and if you shorted them at the right time, you could make a lot of money. So, while volatility adds risk, it can also lead to bigger rewards if you get your timing right.
 

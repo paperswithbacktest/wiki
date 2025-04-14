@@ -30,7 +30,7 @@ The Vatu is managed by a special bank called the Reserve Bank of Vanuatu. This b
 
 The Vanuatu Vatu comes in different amounts of money that people use every day. For coins, you can find 1, 2, 5, 10, 20, 50, and 100 Vatu. These coins help people buy small things or make change when they shop.
 
-For paper money, there are banknotes of 200, 500, 1000, 2000, 5000, and 10,000 Vatu. These bigger amounts are used for buying more expensive things or when people need to carry a lot of money. Both the coins and the banknotes have pictures and designs that show important parts of Vanuatu's culture and history.
+For paper money, there are banknotes of 200, 500, 1000, 2000, 5000, and 10,000 Vatu. These bigger amounts are used for buying more expensive things or when people need to [carry](/wiki/carry-trading) a lot of money. Both the coins and the banknotes have pictures and designs that show important parts of Vanuatu's culture and history.
 
 ## How does the exchange rate of the Vanuatu Vatu compare to major world currencies?
 

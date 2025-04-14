@@ -72,7 +72,7 @@ Another way data analytics helps is by predicting what might happen in the futur
 
 ## What role does machine learning play in predicting and improving efficiency?
 
-Machine learning can help predict and improve efficiency by looking at a lot of data and finding patterns that people might not see. For example, in a factory, machine learning can look at how machines are working and predict when they might break down. This helps the factory fix the machines before they stop working, so they can keep making products without losing time. Machine learning can also help businesses see how their work is going and find ways to make it faster and better. By using machine learning, companies can make smart choices about how to use their time and resources.
+Machine learning can help predict and improve efficiency by looking at a lot of data and finding patterns that people might not see. For example, in a factory, [machine learning](/wiki/machine-learning) can look at how machines are working and predict when they might break down. This helps the factory fix the machines before they stop working, so they can keep making products without losing time. Machine learning can also help businesses see how their work is going and find ways to make it faster and better. By using machine learning, companies can make smart choices about how to use their time and resources.
 
 Another way machine learning helps is by finding small problems before they become big ones. For example, if a store uses machine learning to look at what people buy, it can predict when they will need more staff or products. This means the store can be ready for busy times and serve more customers without making them wait too long. Machine learning also helps by showing businesses where they can save money or time. If machine learning finds that one part of the work is slowing things down, the business can fix it quickly. This makes everything run smoother and helps the company use their resources better.
 
@@ -90,7 +90,7 @@ $$
 \text{OTR} = \frac{\text{Total Orders}}{\text{Executed Trades}}
 $$
 
-A high OTR generally suggests the presence of high-frequency trading activity. While these activities can enhance market liquidity by increasing the number of quotes and trades per unit of time, they can also introduce market noise, potentially impacting market stability. This dual nature of high OTR underscores the need for careful analysis when evaluating trading strategies and market impact.
+A high OTR generally suggests the presence of high-frequency trading activity. While these activities can enhance market [liquidity](/wiki/liquidity-risk-premium) by increasing the number of quotes and trades per unit of time, they can also introduce market noise, potentially impacting market stability. This dual nature of high OTR underscores the need for careful analysis when evaluating trading strategies and market impact.
 
 Another pivotal metric is execution efficiency, which evaluates the speed and accuracy of trade executions. It considers the time taken from placing an order to its execution and the extent to which the trade price deviates from the expected price. Execution efficiency can be quantitatively represented by latency metrics and slippage:
 
@@ -107,7 +107,7 @@ $$
 
 Cost efficiency directly influences the net profitability of trading algorithms. Algorithms designed to minimize transaction costs can enhance trade profitability by ensuring that the gains from trading activity are not eroded by unnecessary expenses.
 
-In summary, assessing the efficiency of algorithmic trading involves analyzing the Order-to-Trade Ratio, execution efficiency, and cost efficiency. Each of these metrics provides a distinct perspective on the performance and viability of trading strategies, helping traders and market observers optimize their approaches and understand the broader impact of algorithmic trading on market dynamics.
+In summary, assessing the efficiency of [algorithmic trading](/wiki/algorithmic-trading) involves analyzing the Order-to-Trade Ratio, execution efficiency, and cost efficiency. Each of these metrics provides a distinct perspective on the performance and viability of trading strategies, helping traders and market observers optimize their approaches and understand the broader impact of algorithmic trading on market dynamics.
 
 ## References & Further Reading
 

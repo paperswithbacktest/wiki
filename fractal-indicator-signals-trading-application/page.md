@@ -22,7 +22,7 @@ Once you spot these patterns, you can mark them on the chart. Up fractals are us
 
 ## What are the basic components of a fractal pattern?
 
-A fractal pattern is made up of five price bars on a chart. For an up fractal, the middle bar is the highest one out of the five. It needs to be higher than the two bars before it and the two bars after it. For a down fractal, the middle bar is the lowest one. It has to be lower than the two bars before it and the two bars after it. This simple setup helps traders spot where the price might change direction.
+A [fractal](/wiki/fractal-indicators) pattern is made up of five price bars on a chart. For an up fractal, the middle bar is the highest one out of the five. It needs to be higher than the two bars before it and the two bars after it. For a down fractal, the middle bar is the lowest one. It has to be lower than the two bars before it and the two bars after it. This simple setup helps traders spot where the price might change direction.
 
 To use fractals, you wait until all five bars are complete. Once the fifth bar closes, you can mark the fractal on the chart. An up fractal is marked above the high of the middle bar, and a down fractal is marked below the low of the middle bar. These marks show where the price might turn around. By watching for these patterns, traders can make better choices about when to buy or sell.
 
@@ -76,7 +76,7 @@ Another strategy is to combine the Fractal Indicator with the Moving Average Con
 
 ## How can the Fractal Indicator be integrated into an algorithmic trading system?
 
-The Fractal Indicator can be added to an algorithmic trading system to help the computer spot when the price of a stock or currency might change direction. In the system, you would write code to look at the price bars on the chart and find the fractal patterns. When the computer sees five bars in a row where the middle bar is the highest or lowest, it can mark it as an up fractal or a down fractal. The system can then use these signals to decide when to buy or sell. For example, if it sees a down fractal, it might buy because the price could go up soon. If it sees an up fractal, it might sell because the price could go down.
+The Fractal Indicator can be added to an [algorithmic trading](/wiki/algorithmic-trading) system to help the computer spot when the price of a stock or currency might change direction. In the system, you would write code to look at the price bars on the chart and find the fractal patterns. When the computer sees five bars in a row where the middle bar is the highest or lowest, it can mark it as an up fractal or a down fractal. The system can then use these signals to decide when to buy or sell. For example, if it sees a down fractal, it might buy because the price could go up soon. If it sees an up fractal, it might sell because the price could go down.
 
 To make the system work better, you can also tell the computer to use the Fractal Indicator with other tools. For instance, you can program it to check the Alligator Indicator to see the overall trend of the market. If the Alligator's lines are spreading out and there's a down fractal, the system might see it as a strong buy signal. You can also add the MACD to confirm the strength of the trend. If a down fractal appears and the MACD line crosses above the signal line, the system might decide it's a good time to buy. By combining the Fractal Indicator with other indicators, the algorithmic trading system can make smarter decisions and improve its chances of making money in the market.
 

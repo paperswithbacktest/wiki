@@ -28,7 +28,7 @@ Once you have your data, open Excel and start organizing it. In the first column
 
 ## What are the steps to plot a basic yield curve in Excel?
 
-To plot a basic yield curve in Excel, start by opening a new spreadsheet. In the first column, list the times to maturity for different bonds, starting with the shortest time and going up to the longest. For example, you might have bonds that mature in 1 year, 2 years, 5 years, and 10 years. In the second column next to each time to maturity, enter the corresponding yield or interest rate for each bond. So if a 1-year bond has a yield of 1%, you would put 1% next to 1 year, and if a 10-year bond has a yield of 2.5%, you would put 2.5% next to 10 years.
+To plot a basic yield curve in Excel, start by opening a new spreadsheet. In the first column, list the times to maturity for different bonds, starting with the shortest time and going up to the longest. For example, you might have bonds that mature in 1 year, 2 years, 5 years, and 10 years. In the second column next to each time to maturity, enter the corresponding yield or [interest rate](/wiki/interest-rate-trading-strategies) for each bond. So if a 1-year bond has a yield of 1%, you would put 1% next to 1 year, and if a 10-year bond has a yield of 2.5%, you would put 2.5% next to 10 years.
 
 Once you have your data entered, select all the cells that contain your data. Go to the 'Insert' tab at the top of Excel. Click on 'Scatter' or 'Line' chart, depending on which type of graph you prefer. A scatter plot will show each point as a dot, while a line chart will connect the points with a line. After choosing your chart type, Excel will automatically create a graph based on your data. You can then customize the chart by adding titles, adjusting the scale, or changing colors to make your yield curve easier to read and understand.
 
@@ -82,7 +82,7 @@ Another way to integrate Excel's yield curve data with other tools is by using E
 
 ## How can one develop Excel-based algorithmic trading strategies?
 
-Creating indicator-based trading strategies using Excel can be an accessible entry point for those interested in algorithmic trading. Trading strategies often rely on technical indicators, which provide insight into potential market trends and reversals. In Excel, these indicators can be calculated using straightforward formulas and functions, allowing traders to tailor strategies to different financial instruments.
+Creating indicator-based trading strategies using Excel can be an accessible entry point for those interested in [algorithmic trading](/wiki/algorithmic-trading). Trading strategies often rely on technical indicators, which provide insight into potential market trends and reversals. In Excel, these indicators can be calculated using straightforward formulas and functions, allowing traders to tailor strategies to different financial instruments.
 
 ### Implementing Simple Indicator-Based Strategies
 

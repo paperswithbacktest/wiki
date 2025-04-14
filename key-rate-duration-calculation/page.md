@@ -18,7 +18,7 @@ This measure is very useful for investors and portfolio managers because it help
 
 Key rate duration is different from other duration measures because it looks at how a bond's price changes when the interest rate at a specific point on the yield curve changes, not just the overall interest rate. Other duration measures, like Macaulay duration or modified duration, give you a general idea of how sensitive a bond is to interest rate changes across the board. They tell you the average time it takes to get your money back from a bond, considering the bond's cash flows and the general level of interest rates.
 
-For example, if you have a bond and the interest rates go up by 1%, Macaulay or modified duration would tell you how much the bond's price would drop. But key rate duration would tell you how the bond's price would change if the 5-year interest rate went up by 1%, while the rates at other maturities stayed the same. This makes key rate duration more detailed and useful for managing a bond portfolio, especially when you expect interest rates to change differently at different points on the yield curve.
+For example, if you have a bond and the interest rates go up by 1%, Macaulay or modified duration would tell you how much the bond's price would drop. But key rate duration would tell you how the bond's price would change if the 5-year [interest rate](/wiki/interest-rate-trading-strategies) went up by 1%, while the rates at other maturities stayed the same. This makes key rate duration more detailed and useful for managing a bond portfolio, especially when you expect interest rates to change differently at different points on the yield curve.
 
 ## Why is key rate duration important for bond portfolio management?
 

@@ -30,7 +30,7 @@ A calendar year-end, on the other hand, is always December 31. It's the same for
 
 A company might choose a fiscal year-end that is different from the calendar year-end because it helps them better manage their business. For example, if a company makes most of its sales during the summer, it might pick a fiscal year that ends in the summer. This way, they can look at all their summer sales together and make plans for the next summer while the information is still fresh.
 
-Also, choosing a different fiscal year-end can help a company avoid being too busy at the same time as everyone else. If a lot of companies end their fiscal year on December 31, it can be hard to find accountants and other experts to help with financial reports. By picking a different date, a company might find it easier to get the help they need when they need it.
+Also, choosing a different fiscal year-end can help a company avoid being too busy at the same time as everyone else. If a lot of companies end their fiscal year on December 31, it can be hard to find accountants and other experts to help with financial reports. By [picking](/wiki/asset-class-picking) a different date, a company might find it easier to get the help they need when they need it.
 
 ## What are the common fiscal year-end dates used by businesses?
 

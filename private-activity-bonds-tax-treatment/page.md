@@ -52,7 +52,7 @@ However, there are some rules that PABs need to follow to keep this special tax-
 
 ## What are the volume caps and how do they affect the issuance of PABs?
 
-Volume caps are limits set by the federal government on how many Private Activity Bonds (PABs) can be issued each year. These limits are put in place to make sure that the tax benefits of PABs are used wisely and not too much. Each state gets a certain amount of volume cap that they can use for issuing PABs. This means that if a state wants to issue more PABs than their cap allows, they have to wait until the next year or find a way to share the cap with other projects.
+Volume caps are limits set by the federal government on how many Private Activity Bonds (PABs) can be issued each year. These limits are put in place to make sure that the tax benefits of PABs are used wisely and not too much. Each state gets a certain amount of [volume](/wiki/volume-trading-strategy) cap that they can use for issuing PABs. This means that if a state wants to issue more PABs than their cap allows, they have to wait until the next year or find a way to share the cap with other projects.
 
 These volume caps affect the issuance of PABs because they control how many new projects can be started each year. If a state has used up all of its volume cap, it can't issue any more PABs until the next year. This can slow down important projects like building new airports or making affordable homes. States sometimes have to choose which projects are most important and prioritize them within the limits of the volume cap.
 

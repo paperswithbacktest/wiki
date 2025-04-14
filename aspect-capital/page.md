@@ -82,7 +82,7 @@ Another way Aspect Capital contributes is by always trying to improve their meth
 
 ## What types of algorithms are used?
 
-Aspect Capital employs a variety of algorithmic strategies optimized for different investment objectives and market conditions. These strategies can be broadly classified into three categories: execution algorithms, profit-seeking algorithms, and proprietary black-box algorithms that incorporate machine learning techniques.
+Aspect Capital employs a variety of algorithmic strategies optimized for different investment objectives and market conditions. These strategies can be broadly classified into three categories: execution algorithms, profit-seeking algorithms, and proprietary black-box algorithms that incorporate [machine learning](/wiki/machine-learning) techniques.
 
 Execution algorithms like Volume Weighted Average Price (VWAP) and Time Weighted Average Price (TWAP) are pivotal in managing large orders to minimize market impact. VWAP calculates the average price a security has traded at throughout the day, weighted by [volume](/wiki/volume-trading-strategy). By aiming to execute trades close to this calculated price, VWAP helps in reducing the market footprint of large transactions. Mathematically, it can be represented as:
 

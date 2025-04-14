@@ -22,7 +22,7 @@ By the Song Dynasty, around the 11th century, the Chinese government started to 
 
 ## How did paper money evolve from its early forms?
 
-Paper money started in China a long time ago, around the 7th century. At first, it was like a receipt that merchants used when they traded goods. They called it "flying cash" because it was light and easy to carry. Later, during the Song Dynasty in the 11th century, the Chinese government began to print official paper money. They called it jiaozi, and it made trading easier across the big country.
+Paper money started in China a long time ago, around the 7th century. At first, it was like a receipt that merchants used when they traded goods. They called it "flying cash" because it was light and easy to [carry](/wiki/carry-trading). Later, during the Song Dynasty in the 11th century, the Chinese government began to print official paper money. They called it jiaozi, and it made trading easier across the big country.
 
 Over time, paper money spread to other parts of the world. In the 13th century, Marco Polo, a famous explorer from Italy, saw paper money in China and brought the idea back to Europe. But it took a long time for Europe to start using paper money. Sweden was the first country in Europe to use it in the 17th century. As more countries started using paper money, they made it more secure with special designs and watermarks to stop people from making fake money. Today, almost every country has its own paper money with different designs and colors.
 

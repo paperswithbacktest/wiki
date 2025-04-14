@@ -70,7 +70,7 @@ Another way to make Kyle's lambda more efficient is to change the model to fit d
 
 ## What advanced techniques can be applied with Kyle's lambda?
 
-To make Kyle's lambda more powerful, we can use machine learning. Machine learning is when computers learn from lots of data to find patterns and make predictions. We can teach a computer to look at past trades and see how the price changed each time. Then, the computer can use this information to guess how the price might change in the future. This can help us find Kyle's lambda more accurately and make better trading decisions. By using machine learning, we can also see how other things, like news or big events, might affect the stock's price and include these in our model.
+To make Kyle's lambda more powerful, we can use [machine learning](/wiki/machine-learning). Machine learning is when computers learn from lots of data to find patterns and make predictions. We can teach a computer to look at past trades and see how the price changed each time. Then, the computer can use this information to guess how the price might change in the future. This can help us find Kyle's lambda more accurately and make better trading decisions. By using machine learning, we can also see how other things, like news or big events, might affect the stock's price and include these in our model.
 
 Another advanced technique is to use real-time data. This means looking at what's happening with the stock right now, instead of just looking at old data. By using real-time data, we can see how the price is changing as people buy and sell the stock. This can help us update Kyle's lambda quickly and make sure it's always as accurate as possible. With real-time data, we can also see how the market is acting right now and make better guesses about how the price might change in the next few minutes or hours. This can help big investors make smarter decisions about when to buy or sell the stock.
 
@@ -102,7 +102,7 @@ By understanding Kyle's Lambda, traders can better navigate the complexities of 
 
 ## How can Kyle's Lambda be implemented in trading models?
 
-Practical implementation of Kyle's Lambda in trading models involves incorporating the metric into the architecture of algorithmic trading systems. Kyle's Lambda measures the market impact of trade orders, a critical [factor](/wiki/factor-investing) in maintaining profitability, particularly in high-frequency trading environments. To integrate this measure, it is essential to have a thorough understanding of key components such as order sizes, market liquidity, and price movements.
+Practical implementation of Kyle's Lambda in trading models involves incorporating the metric into the architecture of [algorithmic trading](/wiki/algorithmic-trading) systems. Kyle's Lambda measures the market impact of trade orders, a critical [factor](/wiki/factor-investing) in maintaining profitability, particularly in high-frequency trading environments. To integrate this measure, it is essential to have a thorough understanding of key components such as order sizes, market liquidity, and price movements.
 
 The integration process begins with data acquisition. Traders must collect information on historical trade data, [order book](/wiki/order-book-trading-strategies) depth, and transaction costs. This data is essential for accurately estimating Kyle's Lambda, which is calculated as:
 

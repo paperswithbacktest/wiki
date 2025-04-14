@@ -18,7 +18,7 @@ This ratio is important because it helps investors understand if the risk they a
 
 The Treynor Ratio is calculated by taking the difference between the return of an investment and the risk-free rate, then dividing that by the investment's beta. The return of the investment is how much money it made over a certain time. The risk-free rate is usually the return you'd get from a very safe investment like a government bond. Beta is a number that shows how much an investment moves with the market. If an investment has a beta of 1, it moves exactly with the market. A beta higher than 1 means it moves more than the market, and a beta less than 1 means it moves less.
 
-For example, if an investment made a 10% return and the risk-free rate was 2%, the difference would be 8%. If the investment's beta was 1.5, you would divide 8% by 1.5 to get the Treynor Ratio. This would be about 5.33. A higher Treynor Ratio means the investment did a good job of earning more money for the risk it took. By comparing the Treynor Ratios of different investments, investors can see which ones are giving them the best return for the amount of market risk they are taking.
+For example, if an investment made a 10% return and the risk-free rate was 2%, the difference would be 8%. If the investment's beta was 1.5, you would divide 8% by 1.5 to get the Treynor Ratio. This would be about 5.33. A higher Treynor Ratio means the investment did a good job of [earning](/wiki/earning-announcement) more money for the risk it took. By comparing the Treynor Ratios of different investments, investors can see which ones are giving them the best return for the amount of market risk they are taking.
 
 ## What does a higher Treynor Ratio indicate about an investment?
 

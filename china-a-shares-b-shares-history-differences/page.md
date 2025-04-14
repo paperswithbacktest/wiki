@@ -64,7 +64,7 @@ B-Shares are mainly for people outside China and are priced in foreign currencie
 
 ## How do A-Shares and B-Shares perform in terms of market liquidity?
 
-A-Shares usually have more market liquidity than B-Shares. This means it's easier to buy and sell A-Shares because there are more people trading them. A-Shares are mainly for people in China, and since there are a lot of people in China, there's a big market for them. Also, now that foreigners can buy A-Shares through programs like the Stock Connect, even more people are trading them. This makes the market for A-Shares very active and liquid.
+A-Shares usually have more market [liquidity](/wiki/liquidity-risk-premium) than B-Shares. This means it's easier to buy and sell A-Shares because there are more people trading them. A-Shares are mainly for people in China, and since there are a lot of people in China, there's a big market for them. Also, now that foreigners can buy A-Shares through programs like the Stock Connect, even more people are trading them. This makes the market for A-Shares very active and liquid.
 
 B-Shares, on the other hand, have less market liquidity. They are mainly for people outside China, and there are fewer people trading them compared to A-Shares. B-Shares are priced in foreign currencies, which can make it harder for some people to buy them. Because fewer people are trading B-Shares, it can be harder to buy and sell them quickly. This means the market for B-Shares is not as liquid as the market for A-Shares.
 
@@ -115,11 +115,11 @@ def arbitrage_opportunity(price_A, price_B, transaction_cost):
 
 ### Integration of Machine Learning and AI
 
-The integration of [machine learning](/wiki/machine-learning) (ML) and artificial intelligence (AI) in trading algorithms has transformed strategy formulation and execution. ML algorithms can analyze vast datasets to identify patterns and predict future movements with greater accuracy. For example, [reinforcement learning](/wiki/reinforcement-learning), a subset of ML, allows algorithms to learn from the results of their trades and adapt strategies dynamically in the fluid Chinese market environment.
+The integration of [machine learning](/wiki/machine-learning) (ML) and [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) in trading algorithms has transformed strategy formulation and execution. ML algorithms can analyze vast datasets to identify patterns and predict future movements with greater accuracy. For example, [reinforcement learning](/wiki/reinforcement-learning), a subset of ML, allows algorithms to learn from the results of their trades and adapt strategies dynamically in the fluid Chinese market environment.
 
 ### Volatility and Liquidity in B-Shares
 
-Specific algorithms leverage the volatility and liquidity patterns in the B-Share markets, potentially yielding higher returns. The B-Share market, often characterized by higher volatility due to currency risks and external investor activities, presents unique challenges and opportunities for algorithmic trading. Liquidity constraints, while a challenge, also provide opportunities for sophisticated algorithms to exploit smaller price movements, often neglected due to higher transaction costs.
+Specific algorithms leverage the [volatility](/wiki/volatility-trading-strategies) and liquidity patterns in the B-Share markets, potentially yielding higher returns. The B-Share market, often characterized by higher volatility due to currency risks and external investor activities, presents unique challenges and opportunities for [algorithmic trading](/wiki/algorithmic-trading). Liquidity constraints, while a challenge, also provide opportunities for sophisticated algorithms to exploit smaller price movements, often neglected due to higher transaction costs.
 
 ### Importance of Data-Driven Decision-Making
 

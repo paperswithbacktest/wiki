@@ -118,7 +118,7 @@ To develop effective trading strategies based on Consumer Price Index (CPI) data
 
 ### Fundamental Analysis
 
-Fundamental analysis involves evaluating economic indicators, such as CPI trends, to understand broader economic conditions. CPI is an essential measure of inflation, reflecting changes in the cost of goods and services. By regularly assessing CPI data, traders can anticipate shifts in inflation that may influence central bank policies, such as interest rate adjustments. For instance, a rising CPI could suggest the Federal Reserve may increase interest rates to curb inflation, possibly strengthening the US Dollar. Traders should analyze historical CPI data, noting patterns and changes over time, to form expectations about future monetary policy responses.
+Fundamental analysis involves evaluating economic indicators, such as CPI trends, to understand broader economic conditions. CPI is an essential measure of inflation, reflecting changes in the cost of goods and services. By regularly assessing CPI data, traders can anticipate shifts in inflation that may influence central bank policies, such as [interest rate](/wiki/interest-rate-trading-strategies) adjustments. For instance, a rising CPI could suggest the Federal Reserve may increase interest rates to curb inflation, possibly strengthening the US Dollar. Traders should analyze historical CPI data, noting patterns and changes over time, to form expectations about future monetary policy responses.
 
 ### Technical Analysis
 
@@ -146,7 +146,7 @@ print(sma)  # Output should be the average of the last 3 prices
 
 ### Hedging Strategies and Risk Management
 
-Due to the potential for increased volatility following CPI releases, risk management and hedging strategies are crucial for protecting investments. Traders can utilize options, futures contracts, or other financial instruments to hedge against adverse movements in currency prices. This approach helps mitigate risk by providing a safety net against large, unexpected swings in exchange rates. Additionally, setting stop-loss orders ensures positions are automatically exited if market movements exceed predetermined thresholds, preventing significant losses during volatile periods.
+Due to the potential for increased [volatility](/wiki/volatility-trading-strategies) following CPI releases, risk management and hedging strategies are crucial for protecting investments. Traders can utilize options, futures contracts, or other financial instruments to hedge against adverse movements in currency prices. This approach helps mitigate risk by providing a safety net against large, unexpected swings in exchange rates. Additionally, setting stop-loss orders ensures positions are automatically exited if market movements exceed predetermined thresholds, preventing significant losses during volatile periods.
 
 Properly integrating these strategies enables traders to respond effectively to CPI data, minimizing risks while maximizing opportunities. Understanding how CPI trends interact with market dynamics allows traders to implement informed strategies that are robust under various economic conditions.
 

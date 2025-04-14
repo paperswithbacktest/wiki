@@ -32,7 +32,7 @@ The traditional Sharpe Ratio might make an investment look good on paper, but if
 
 The Deflated Sharpe Ratio (DSR) formula has three main parts: the investment return, the risk-free rate, and the inflation rate. The investment return is how much money you make from your investment. The risk-free rate is what you would earn from a very safe investment, like a savings account. The inflation rate is how much prices go up over time, which makes money worth less.
 
-To calculate the DSR, you first find the difference between the investment return and the risk-free rate. This shows the extra return you get for taking on more risk. Then, you adjust this extra return for inflation. You do this by subtracting the inflation rate from the extra return. Finally, you divide this adjusted return by the investment's volatility, which is how much the investment's value goes up and down. This gives you the DSR, which shows how well your investment is doing in real terms, after accounting for inflation.
+To calculate the DSR, you first find the difference between the investment return and the risk-free rate. This shows the extra return you get for taking on more risk. Then, you adjust this extra return for inflation. You do this by subtracting the inflation rate from the extra return. Finally, you divide this adjusted return by the investment's [volatility](/wiki/volatility-trading-strategies), which is how much the investment's value goes up and down. This gives you the DSR, which shows how well your investment is doing in real terms, after accounting for inflation.
 
 ## How is the DSR calculated?
 
@@ -66,7 +66,7 @@ To deal with this, some investors use other measures along with the DSR. These m
 
 ## What statistical methods are used to estimate the parameters in the DSR?
 
-To calculate the Deflated Sharpe Ratio (DSR), you need to estimate three main things: the investment return, the risk-free rate, and the inflation rate. For the investment return, you usually look at the average return over a certain time, like the last five years. This is done by adding up all the returns and dividing by the number of periods. The risk-free rate is often taken from the yield of a safe investment like a government bond. The inflation rate can be found from official statistics, like those published by government agencies, which show how much prices have gone up over time.
+To calculate the Deflated Sharpe Ratio (DSR), you need to estimate three main things: the investment return, the risk-free rate, and the inflation rate. For the investment return, you usually look at the average return over a certain time, like the last five years. This is done by adding up all the returns and dividing by the number of periods. The risk-free rate is often taken from the yield of a safe investment like a government bond. The inflation rate can be found from official [statistics](/wiki/bayesian-statistics), like those published by government agencies, which show how much prices have gone up over time.
 
 The next step is to figure out the investment's volatility, which is how much the investment's value goes up and down. This is usually measured by the standard deviation of the returns. To find the standard deviation, you first find out how far each return is from the average return, square those differences, add them up, divide by the number of periods, and then take the square root of the result. Once you have all these numbers, you can plug them into the DSR formula to see how well your investment is doing after accounting for inflation and risk.
 
@@ -84,7 +84,7 @@ In risk assessment, the DSR is also very useful. It shows not just the risk of l
 
 ## What is the Concept and Calculation of the Deflated Sharpe Ratio?
 
-The Deflated Sharpe Ratio (DSR), developed by López de Prado and Bailey, is designed to overcome the inherent limitations in the traditional Sharpe Ratio, particularly in the context of algorithmic trading. The DSR adjusts for the potential inflationary impact introduced by conducting multiple trials and addresses statistical biases such as non-normality of returns and the overfitting risk associated with [backtesting](/wiki/backtesting).
+The Deflated Sharpe Ratio (DSR), developed by López de Prado and Bailey, is designed to overcome the inherent limitations in the traditional Sharpe Ratio, particularly in the context of [algorithmic trading](/wiki/algorithmic-trading). The DSR adjusts for the potential inflationary impact introduced by conducting multiple trials and addresses statistical biases such as non-normality of returns and the overfitting risk associated with [backtesting](/wiki/backtesting).
 
 Mathematically, the DSR is an extended version of the Probabilistic Sharpe Ratio (PSR), which itself is an adjustment of the Sharpe Ratio to account for the statistical properties of return distributions. The DSR adjusts the PSR for various biases, ultimately offering a more conservative estimate of strategy performance. This is especially relevant in algorithmic trading, where extensive backtesting may uncover spurious strategies that seem profitable purely by chance.
 

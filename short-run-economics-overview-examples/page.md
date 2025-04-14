@@ -84,7 +84,7 @@ Another way economists predict these transitions is by using economic models and
 
 ## What are some examples of short run algorithmic trading strategies?
 
-Analyzing short-run algorithmic trading strategies requires understanding how these strategies leverage economic principles to respond to immediate market changes. In industries such as airlines and retail, algorithmic trading employs advanced technologies to optimize operations and financial decisions based on short-run economic variables.
+Analyzing short-run [algorithmic trading](/wiki/algorithmic-trading) strategies requires understanding how these strategies leverage economic principles to respond to immediate market changes. In industries such as airlines and retail, algorithmic trading employs advanced technologies to optimize operations and financial decisions based on short-run economic variables.
 
 In the airline industry, Delta Airlines provides a compelling example of how algorithmic trading intersects with short-run economic decision-making. Delta uses algorithmic trading strategies to manage both flight scheduling and fuel hedging, addressing the dynamic nature of market demand and volatile input costs. These strategies enable Delta to adjust quickly to fluctuations in passenger demand and fuel prices, which are critical in the short run.
 

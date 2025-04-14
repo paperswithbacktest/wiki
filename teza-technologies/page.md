@@ -18,7 +18,7 @@ The company was started in 2009 by a man named Misha Malyshev. They have offices
 
 Teza Technologies was founded in 2009. The company was started by a man named Misha Malyshev. They focus on using computers and math to trade stocks in the stock market.
 
-This kind of trading is called algorithmic trading. Teza Technologies uses special programs to look at a lot of information and decide when to buy or sell stocks. They have offices in Chicago and London and work to make their programs better at picking the right times to trade.
+This kind of trading is called [algorithmic trading](/wiki/algorithmic-trading). Teza Technologies uses special programs to look at a lot of information and decide when to buy or sell stocks. They have offices in Chicago and London and work to make their programs better at [picking](/wiki/asset-class-picking) the right times to trade.
 
 ## Who are the founders of Teza Technologies?
 

@@ -42,7 +42,7 @@ Another popular benchmark is the Nasdaq Composite, which includes many technolog
 
 Investors use relative return to see if their investments are doing better or worse than a benchmark like the S&P 500. They do this by comparing the return of their portfolio to the return of the benchmark over the same time. If their portfolio grows by 10% and the S&P 500 grows by 8%, the relative return is positive, which means their investments did better than the market. This helps investors feel good about their choices and can encourage them to keep doing what they're doing.
 
-On the other hand, if the portfolio's return is lower than the benchmark, like if it only grows by 6% while the S&P 500 grows by 8%, the relative return is negative. This tells investors that their investments are not doing as well as they could be. They might then decide to change their strategy, maybe by picking different stocks or adjusting how much they invest in certain areas. By looking at relative return, investors can make smarter choices to try to beat the market and improve their overall performance.
+On the other hand, if the portfolio's return is lower than the benchmark, like if it only grows by 6% while the S&P 500 grows by 8%, the relative return is negative. This tells investors that their investments are not doing as well as they could be. They might then decide to change their strategy, maybe by [picking](/wiki/asset-class-picking) different stocks or adjusting how much they invest in certain areas. By looking at relative return, investors can make smarter choices to try to beat the market and improve their overall performance.
 
 ## What are the limitations of using relative return as a performance metric?
 
@@ -76,7 +76,7 @@ When you see a negative relative return, it can be a sign that you might need to
 
 ## What are the future trends and potential developments in the use of relative return metrics?
 
-In the future, relative return metrics will likely become even more important as investors get better tools to analyze them. With technology getting better, investors will be able to use more advanced computer programs and data analysis to look at relative return in new ways. For example, they might use artificial intelligence to predict how their investments will do compared to the market. This could help them make smarter choices and change their strategies faster when needed.
+In the future, relative return metrics will likely become even more important as investors get better tools to analyze them. With technology getting better, investors will be able to use more advanced computer programs and data analysis to look at relative return in new ways. For example, they might use [artificial intelligence](/wiki/ai-artificial-intelligence) to predict how their investments will do compared to the market. This could help them make smarter choices and change their strategies faster when needed.
 
 Another trend might be that more investors start using relative return not just to compare to big stock market indexes, but also to look at how they're doing compared to other types of investments, like real estate or cryptocurrencies. As the world of investing changes, relative return metrics will need to change too. This means they might start to include more types of investments and look at things like how much risk is involved or how sustainable the investments are. By doing this, investors can get a fuller picture of how well their money is working for them.
 

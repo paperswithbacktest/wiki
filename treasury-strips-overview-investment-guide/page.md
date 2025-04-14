@@ -40,7 +40,7 @@ Another advantage of STRIPS is their flexibility. You can buy just the interest 
 
 ## What are the risks associated with Treasury STRIPS?
 
-Even though Treasury STRIPS are very safe because they are backed by the U.S. government, they still have some risks. One risk is interest rate risk. If interest rates go up after you buy a STRIP, the value of your STRIP can go down. This is because new STRIPS would be issued at the higher interest rates, making the older ones less valuable. If you need to sell your STRIP before it matures, you might get less money than you paid for it.
+Even though Treasury STRIPS are very safe because they are backed by the U.S. government, they still have some risks. One risk is [interest rate](/wiki/interest-rate-trading-strategies) risk. If interest rates go up after you buy a STRIP, the value of your STRIP can go down. This is because new STRIPS would be issued at the higher interest rates, making the older ones less valuable. If you need to sell your STRIP before it matures, you might get less money than you paid for it.
 
 Another risk is that STRIPS don't pay any interest until they mature. This means you won't get any money from them until the end. If you need money sooner, you might have to sell your STRIP early, and you could lose money if interest rates have gone up. Also, because STRIPS are bought at a discount and mature at face value, they can be affected by inflation. If inflation goes up a lot, the money you get when your STRIP matures might not be worth as much as you expected.
 

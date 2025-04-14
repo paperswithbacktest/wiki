@@ -84,7 +84,7 @@ The impact of Grey Swan events can be huge, and new research is trying to unders
 
 ## How can one implement risk management techniques?
 
-Effective risk management in algorithmic trading is essential to mitigate potential losses and optimize returns. Various techniques have been developed to address the inherent risks associated with this form of trading.
+Effective risk management in [algorithmic trading](/wiki/algorithmic-trading) is essential to mitigate potential losses and optimize returns. Various techniques have been developed to address the inherent risks associated with this form of trading.
 
 Stop-loss and take-profit orders are fundamental tools that allow traders to automatically execute trades when prices hit predefined levels. A stop-loss order is designed to limit an investor’s loss on a position in a security, while a take-profit order ensures the locking in of profits when the market moves favorably.
 
@@ -92,7 +92,7 @@ Portfolio diversification spreads investments across various financial instrumen
 
 Hedging strategies involve taking positions in financial instruments that are inversely correlated with the positions held in the primary portfolio. For example, traders may use derivatives such as options or futures contracts to offset potential losses.
 
-Dynamic position sizing is another technique that helps in managing risk by adjusting the amount of capital allocated to a specific trade based on current market conditions and volatility. This approach ensures that the risk taken is aligned with the overall investment strategy and market dynamics.
+Dynamic position sizing is another technique that helps in managing risk by adjusting the amount of capital allocated to a specific trade based on current market conditions and [volatility](/wiki/volatility-trading-strategies). This approach ensures that the risk taken is aligned with the overall investment strategy and market dynamics.
 
 Trailing stops are flexible stop orders that adjust dynamically with favorable price movements, allowing traders to protect gains while retaining the potential for future profits. They follow the market price at a specified distance and are activated when the market reverses direction.
 

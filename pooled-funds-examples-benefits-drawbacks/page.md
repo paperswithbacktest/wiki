@@ -60,7 +60,7 @@ Other countries have their own groups that do similar things. For example, in th
 
 ## What are the fees associated with pooled funds?
 
-When you put your money into a pooled fund, you usually have to pay some fees. These fees help pay for the work of the fund managers and other costs of running the fund. The main fee you'll see is called the management fee. This is what the fund managers charge for picking the investments and making sure the fund is doing well. Another common fee is the expense ratio, which covers other costs like legal fees, accounting, and marketing. These fees can add up, so it's good to know what you're paying before you invest.
+When you put your money into a pooled fund, you usually have to pay some fees. These fees help pay for the work of the fund managers and other costs of running the fund. The main fee you'll see is called the management fee. This is what the fund managers charge for [picking](/wiki/asset-class-picking) the investments and making sure the fund is doing well. Another common fee is the expense ratio, which covers other costs like legal fees, accounting, and marketing. These fees can add up, so it's good to know what you're paying before you invest.
 
 The fees can affect how much money you make from the fund. If the fees are high and the fund doesn't do well, you might end up with less money than you started with. Some funds also charge a fee when you buy or sell shares, called a load fee. There are front-end loads, which you pay when you buy shares, and back-end loads, which you pay when you sell shares. It's important to look at all these fees and think about how they might impact your investment over time.
 

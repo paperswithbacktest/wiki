@@ -64,7 +64,7 @@ On the other hand, if the stock price is above the break-even point, time decay 
 
 ## What are the tax implications of trading Bull Call Spreads?
 
-When you trade Bull Call Spreads, the money you make or lose can affect your taxes. If you make money from a Bull Call Spread, it's usually considered a short-term capital gain if you hold the spread for less than a year. Short-term capital gains are taxed at your regular income tax rate, which can be higher than the tax rate for long-term capital gains. If you lose money, you can use those losses to reduce your taxes. You can use up to $3,000 of those losses to lower your taxable income each year, and if you have more losses than that, you can carry them over to future years.
+When you trade Bull Call Spreads, the money you make or lose can affect your taxes. If you make money from a Bull Call Spread, it's usually considered a short-term capital gain if you hold the spread for less than a year. Short-term capital gains are taxed at your regular income tax rate, which can be higher than the tax rate for long-term capital gains. If you lose money, you can use those losses to reduce your taxes. You can use up to $3,000 of those losses to lower your taxable income each year, and if you have more losses than that, you can [carry](/wiki/carry-trading) them over to future years.
 
 The tax rules for options can be tricky, so it's a good idea to talk to a tax professional. They can help you understand how the money you make or lose from Bull Call Spreads will affect your taxes. They can also help you with any forms you need to fill out and make sure you're following all the tax rules.
 
@@ -76,7 +76,7 @@ Another way to manage risk is by adjusting the size of the spread. If a trader t
 
 ## What are some common mistakes to avoid when trading Bull Call Spreads?
 
-One common mistake when trading Bull Call Spreads is not picking the right strike prices. If you pick strike prices that are too far apart, you might have to pay a lot more to set up the spread. This means you could lose more money if the stock price doesn't go up enough. On the other hand, if the strike prices are too close together, you might not make as much money even if the stock price goes up a lot. So, it's important to pick strike prices that match what you think the stock will do.
+One common mistake when trading Bull Call Spreads is not [picking](/wiki/asset-class-picking) the right strike prices. If you pick strike prices that are too far apart, you might have to pay a lot more to set up the spread. This means you could lose more money if the stock price doesn't go up enough. On the other hand, if the strike prices are too close together, you might not make as much money even if the stock price goes up a lot. So, it's important to pick strike prices that match what you think the stock will do.
 
 Another mistake is not thinking about time decay. As options get closer to expiring, they lose value, and this can hurt your Bull Call Spread if the stock price isn't moving up fast enough. If you don't pay attention to this, you could lose money even if the stock price goes up a bit. To avoid this, you need to pick an expiration date that gives the stock enough time to go up, but not so much time that time decay hurts your spread too much.
 

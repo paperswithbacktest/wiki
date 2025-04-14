@@ -62,7 +62,7 @@ Noncurrent liabilities also show how well a company is managing its long-term fi
 
 ## How do changes in interest rates affect the cost of noncurrent liabilities?
 
-Changes in interest rates can have a big impact on the cost of noncurrent liabilities for a company. When interest rates go up, it means the company has to pay more interest on its long-term loans and bonds. This can make the cost of borrowing money higher, which can be tough if the company has a lot of long-term debt. For example, if a company has a loan with a variable interest rate, the payments will go up when interest rates rise, making it more expensive to keep the loan.
+Changes in interest rates can have a big impact on the cost of noncurrent liabilities for a company. When interest rates go up, it means the company has to pay more interest on its long-term loans and bonds. This can make the cost of borrowing money higher, which can be tough if the company has a lot of long-term debt. For example, if a company has a loan with a variable [interest rate](/wiki/interest-rate-trading-strategies), the payments will go up when interest rates rise, making it more expensive to keep the loan.
 
 On the other hand, when interest rates go down, the cost of noncurrent liabilities can decrease. Lower interest rates mean the company pays less interest on its long-term debts, which can save them money. This can be good for the company's cash flow and make it easier to manage their long-term financial obligations. Companies often try to plan for these changes by choosing fixed interest rates or using financial tools to manage the risk of rising interest rates.
 

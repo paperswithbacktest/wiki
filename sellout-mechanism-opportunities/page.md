@@ -84,9 +84,9 @@ Another way to handle a sellout is by working closely with the places that make 
 
 Algorithmic trading strategies can be effectively tailored to respond to sellout events, where quick decision-making and agility are paramount. These strategies necessitate the incorporation of real-time monitoring systems and adaptive algorithms to manage portfolio risks proficiently. Real-time monitoring allows traders to swiftly detect market conditions indicative of sellout scenarios, such as sharp declines in asset prices or unusual trading volumes. 
 
-Adaptive algorithms are integral, as they adjust trading strategies in response to new data inputs and market conditions, maintaining optimal performance despite volatility. For instance, if a sellout event leads to a sudden drop in asset price, an algorithm can quickly assess whether to execute a purchase order to capitalize on the opportunity or adjust stop-loss levels to mitigate potential losses. Adaptive algorithms can employ machine learning techniques to predict market movements based on historical data and current trends, refining strategies over time.
+Adaptive algorithms are integral, as they adjust trading strategies in response to new data inputs and market conditions, maintaining optimal performance despite [volatility](/wiki/volatility-trading-strategies). For instance, if a sellout event leads to a sudden drop in asset price, an algorithm can quickly assess whether to execute a purchase order to capitalize on the opportunity or adjust stop-loss levels to mitigate potential losses. Adaptive algorithms can employ [machine learning](/wiki/machine-learning) techniques to predict market movements based on historical data and current trends, refining strategies over time.
 
-Understanding market liquidity is crucial during sellouts. Liquidity refers to the ability to buy or sell an asset without causing significant price changes. In sellouts, liquidity can be constrained, leading to more significant price swings and potential execution challenges. Algorithmic trading strategies can include liquidity analysis tools, which assess [order book](/wiki/order-book-trading-strategies) depth and transaction costs to determine optimal order sizes that minimize market impact.
+Understanding market [liquidity](/wiki/liquidity-risk-premium) is crucial during sellouts. Liquidity refers to the ability to buy or sell an asset without causing significant price changes. In sellouts, liquidity can be constrained, leading to more significant price swings and potential execution challenges. Algorithmic trading strategies can include liquidity analysis tools, which assess [order book](/wiki/order-book-trading-strategies) depth and transaction costs to determine optimal order sizes that minimize market impact.
 
 A fundamental approach to managing liquidity risks involves calculating the expected market impact, $I$, using the formula:
 
@@ -124,7 +124,7 @@ average_sentiment = analyze_sentiment(news_data)
 print(f"Average sentiment score: {average_sentiment}")
 ```
 
-In summary, a comprehensive algorithmic trading strategy that integrates sellout considerations must have robust mechanisms for real-time market analysis and adaptive frameworks that respond effectively to liquidity changes and price fluctuations. Balancing speed, accuracy, and market understanding, traders can enhance decision-making efficiency during sellouts, potentially maximizing profitability and reducing risks.
+In summary, a comprehensive [algorithmic trading](/wiki/algorithmic-trading) strategy that integrates sellout considerations must have robust mechanisms for real-time market analysis and adaptive frameworks that respond effectively to liquidity changes and price fluctuations. Balancing speed, accuracy, and market understanding, traders can enhance decision-making efficiency during sellouts, potentially maximizing profitability and reducing risks.
 
 ## References & Further Reading
 

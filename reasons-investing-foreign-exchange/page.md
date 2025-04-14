@@ -18,7 +18,7 @@ The value of currencies in the foreign exchange market goes up and down based on
 
 Someone might want to invest in foreign exchange because it can be a good way to make money. The forex market is the biggest financial market in the world, with lots of people and money moving around. This means there are many chances to buy and sell currencies and make a profit. If you can guess which way a currency's value will go, you can buy it when it's cheap and sell it when it's more expensive. Plus, the market is open all the time during the week, so you can trade whenever you want.
 
-Another reason to think about forex is that it can help you spread out your investments. Instead of putting all your money into one thing, like stocks or real estate, you can also invest in currencies. This can make your overall investment safer because if one type of investment goes down, your forex investments might go up. Also, you don't need a lot of money to start trading forex, which makes it easier for more people to get involved.
+Another reason to think about [forex](/wiki/forex-system) is that it can help you spread out your investments. Instead of putting all your money into one thing, like stocks or real estate, you can also invest in currencies. This can make your overall investment safer because if one type of investment goes down, your forex investments might go up. Also, you don't need a lot of money to start trading forex, which makes it easier for more people to get involved.
 
 ## What are the basic concepts of forex trading for beginners?
 
@@ -52,7 +52,7 @@ One common strategy in forex trading is called the trend-following strategy. Thi
 
 Another strategy is called the range trading strategy. This is when traders look for times when a currency's value stays between two points without going too high or too low. They might buy the currency when it's near the bottom of the range and sell it when it's near the top, hoping to make money from the ups and downs within that range. This strategy needs patience because you have to wait for the right moments to buy and sell.
 
-A third strategy is the breakout strategy. This is when traders watch for a currency's value to break out of its usual range, either going much higher or much lower than it has been. If the currency breaks out and goes up, traders might buy it, hoping it will keep going up. If it breaks out and goes down, they might sell it, hoping it will keep going down. This strategy can be exciting but also risky because breakouts can be hard to predict and might not last long.
+A third strategy is the [breakout](/wiki/breakout-trading) strategy. This is when traders watch for a currency's value to break out of its usual range, either going much higher or much lower than it has been. If the currency breaks out and goes up, traders might buy it, hoping it will keep going up. If it breaks out and goes down, they might sell it, hoping it will keep going down. This strategy can be exciting but also risky because breakouts can be hard to predict and might not last long.
 
 ## How do global economic events influence foreign exchange rates?
 

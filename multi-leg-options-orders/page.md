@@ -48,7 +48,7 @@ After you've picked your options, you'll enter them into your trading platform a
 
 When choosing strike prices for multi-leg options, think about where you expect the stock price to go. If you're doing a straddle or a strangle, you might pick strike prices close to the current stock price because you want to make money if the stock moves a lot in either direction. For a butterfly spread, you'll choose three different strike prices: one lower than the current price, one at the current price, and one higher. This setup works best if you think the stock won't move much. The key is to match your strike prices with your prediction for the stock's movement.
 
-Choosing the right expiration dates is also important. Shorter expiration dates mean less time for the stock to move, which can be good if you're expecting a quick change. But if you think the stock will take longer to move, you might pick a longer expiration date. This gives the stock more time to reach your target price, but it also means you'll pay more for the options because they have more time value. Balancing the cost with the time you need for your strategy to work is crucial when picking expiration dates.
+Choosing the right expiration dates is also important. Shorter expiration dates mean less time for the stock to move, which can be good if you're expecting a quick change. But if you think the stock will take longer to move, you might pick a longer expiration date. This gives the stock more time to reach your target price, but it also means you'll pay more for the options because they have more time value. Balancing the cost with the time you need for your strategy to work is crucial when [picking](/wiki/asset-class-picking) expiration dates.
 
 ## How does the pricing of multi-leg options orders work?
 
@@ -82,7 +82,7 @@ Another important part of evaluating your strategy is looking at how the stock p
 
 ## What is the understanding of financial derivatives?
 
-Financial derivatives are financial instruments whose value depends on the price movements of an underlying asset, which could be equities, bonds, commodities, currencies, interest rates, or even market indexes. These instruments are key components in financial markets, serving myriad functions, such as risk management, speculation, and arbitrage.
+Financial derivatives are financial instruments whose value depends on the price movements of an underlying asset, which could be equities, bonds, commodities, currencies, interest rates, or even market indexes. These instruments are key components in financial markets, serving myriad functions, such as risk management, speculation, and [arbitrage](/wiki/arbitrage).
 
 Derivatives derive their significance from the ability to hedge risks. For instance, a farmer may want to lock in the current price of a commodity, such as corn, to protect against the risk of falling prices at the time of harvest. In this scenario, by using futures contracts – a type of derivative – farmers can set a predetermined sale price, thus securing their future revenue. 
 

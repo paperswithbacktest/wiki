@@ -183,7 +183,7 @@ Configuring Interactive Brokers' systems is the next step. You must configure th
 
 Ensure your network firewall settings allow outbound connections to Interactive Brokers servers on the specified port. This enables IBPy to communicate effectively with the IB servers to execute trades.
 
-By following these steps, you establish a robust environment conducive to developing and testing algorithmic trading strategies using IBPy and Interactive Brokers. This setup lays the foundation for automating trades and engaging effectively with global financial markets.
+By following these steps, you establish a robust environment conducive to developing and testing [algorithmic trading](/wiki/algorithmic-trading) strategies using IBPy and Interactive Brokers. This setup lays the foundation for automating trades and engaging effectively with global financial markets.
 
 ## How to write your first Automated Trading Program?
 

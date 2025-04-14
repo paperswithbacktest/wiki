@@ -21,7 +21,7 @@ The activation function is really important because it helps the neural network 
 
 ## What is the role of weights and biases in a neuron?
 
-Weights and biases help a neuron in a neural network decide what to do with the information it gets. Think of weights as knobs that can be turned to make some information more important than others. When a neuron gets inputs, it multiplies each input by its weight. This means if a weight is big, that input will have a bigger effect on what the neuron does. If a weight is small or negative, that input won't matter as much. So, weights help the neuron focus on the most important pieces of information.
+Weights and biases help a neuron in a [neural network](/wiki/neural-network) decide what to do with the information it gets. Think of weights as knobs that can be turned to make some information more important than others. When a neuron gets inputs, it multiplies each input by its weight. This means if a weight is big, that input will have a bigger effect on what the neuron does. If a weight is small or negative, that input won't matter as much. So, weights help the neuron focus on the most important pieces of information.
 
 Biases are like a starting point for the neuron. Even if all the inputs are zero, the bias can make the neuron send out a signal. The bias is added to the sum of the weighted inputs before the sum goes through the activation function. For example, if the sum of the weighted inputs is $$ \sum (w_i \cdot x_i) $$, the bias $$ b $$ is added to get $$ \sum (w_i \cdot x_i) + b $$. This way, the bias can help the neuron decide to fire even if the inputs alone wouldn't be enough. Together, weights and biases let the neuron learn and make better decisions over time.
 

@@ -82,7 +82,7 @@ Another thing that could change ISO currency codes is if more countries decide t
 
 ## What is the impact of ISO Currency Codes on Forex Markets?
 
-ISO currency codes are essential components of the foreign exchange (forex) market, a decentralized global market where currencies are traded. These standardized three-letter codes, established by the International Organization for Standardization (ISO), provide a universally recognized system for identifying each currency, thereby facilitating the swift and accurate exchange of currency pairs.
+ISO currency codes are essential components of the foreign exchange ([forex](/wiki/forex-system)) market, a decentralized global market where currencies are traded. These standardized three-letter codes, established by the International Organization for Standardization (ISO), provide a universally recognized system for identifying each currency, thereby facilitating the swift and accurate exchange of currency pairs.
 
 In the forex market, currency trading occurs in pairs, known as currency pairings. Each pairing consists of a base currency and a quote currency, with transactions indicating how much of the quote currency is needed to purchase one unit of the base currency. ISO codes are integral to this process, as they clearly and unambiguously define the currencies in each pairing. A popular example is the EUR/USD pair, where EUR represents the Euro, and USD represents the United States Dollar. This pairing illustrates how many U.S. dollars are required to purchase one Euro.
 

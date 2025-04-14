@@ -22,7 +22,7 @@ This practice can cause problems. It can make it hard for governments to keep bu
 
 ## What are some common examples of regulatory arbitrage?
 
-One common example of regulatory arbitrage is in the financial sector. Banks and other financial firms sometimes move their operations to countries with lighter regulations. This lets them do things like taking bigger risks or charging higher fees that might not be allowed back home. For instance, a bank might set up a branch in a country with less strict rules on how much money they need to keep on hand. This can help the bank make more money, but it can also be riskier for customers and the economy.
+One common example of regulatory [arbitrage](/wiki/arbitrage) is in the financial sector. Banks and other financial firms sometimes move their operations to countries with lighter regulations. This lets them do things like taking bigger risks or charging higher fees that might not be allowed back home. For instance, a bank might set up a branch in a country with less strict rules on how much money they need to keep on hand. This can help the bank make more money, but it can also be riskier for customers and the economy.
 
 Another example is in the tech industry. Big tech companies often use regulatory arbitrage by storing user data in countries with weaker privacy laws. This can help them avoid strict data protection rules in their home countries. For example, a company might keep its data servers in a country where the government doesn't require strong privacy protections. This can make it easier for the company to collect and use data, but it can also put users' privacy at risk.
 
@@ -84,7 +84,7 @@ At the same time, governments might try to fight back against regulatory arbitra
 
 ## What are the challenges in arbitrage algorithmic trading?
 
-Arbitrage algorithmic trading, while offering numerous opportunities for profit, encounters several significant challenges that must be managed effectively to optimize outcomes. A primary concern is latency; even milliseconds of delay can nullify potential arbitrage opportunities. High-frequency trading (HFT) systems rely on rapid execution speeds to capitalize on minuscule price discrepancies, requiring state-of-the-art hardware and proximity to financial exchanges to reduce latency. For instance, a delay as small as one millisecond could make the difference between a profitable trade and a missed opportunity.
+Arbitrage [algorithmic trading](/wiki/algorithmic-trading), while offering numerous opportunities for profit, encounters several significant challenges that must be managed effectively to optimize outcomes. A primary concern is latency; even milliseconds of delay can nullify potential arbitrage opportunities. High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) systems rely on rapid execution speeds to capitalize on minuscule price discrepancies, requiring state-of-the-art hardware and proximity to financial exchanges to reduce latency. For instance, a delay as small as one millisecond could make the difference between a profitable trade and a missed opportunity.
 
 Another critical challenge is transaction costs. Arbitrage strategies typically involve a high [volume](/wiki/volume-trading-strategy) of trades, which can lead to substantial commissions and fees. These costs can erode profit margins, making efficient cost management essential. The relationship between successful arbitrage and transaction costs can be represented as:
 

@@ -30,7 +30,7 @@ Units of production depreciation is another method that bases the depreciation o
 
 Straight-line depreciation is a way to spread out the cost of an asset evenly over the time it's used. Imagine a company buys a delivery truck for $30,000. They think the truck will last for 5 years before it's too worn out to use. To figure out the yearly depreciation, they divide the cost of the truck by the number of years it will be used. So, $30,000 divided by 5 years equals $6,000 per year. Every year, the company will record $6,000 as depreciation expense on their financial statements.
 
-This method is simple and easy to understand. It helps the company see how much the truck is worth each year. At the end of the first year, the truck's value on the balance sheet would be $30,000 minus $6,000, which is $24,000. After the second year, it would be $18,000, and so on. By the end of 5 years, the truck would be fully depreciated, meaning its value on the books would be zero. This way, the company can plan for when they need to buy a new truck.
+This method is simple and easy to understand. It helps the company see how much the truck is worth each year. At the end of the first year, the truck's value on the balance sheet would be $30,000 minus $6,000, which is $24,000. After the second year, it would be $18,000, and so on. By the end of 5 years, the truck would be fully depreciated, meaning its value on the [books](/wiki/algo-trading-books) would be zero. This way, the company can plan for when they need to buy a new truck.
 
 ## How does the declining balance method work?
 
@@ -205,7 +205,7 @@ Implementing these calculations through automation tools streamlines financial p
 
 ## References & Further Reading
 
-In-depth literature on financial accounting, asset management, and algorithmic trading provides invaluable insights into understanding and applying asset depreciation effectively. Key texts for financial accounting include "Financial Accounting: Tools for Business Decision Making" by Paul Kimmel, Jerry Weygandt, and Donald Kieso. This book offers foundational knowledge on accounting principles and practices, particularly useful for mastering depreciation methods in various business contexts.
+In-depth literature on financial accounting, asset management, and [algorithmic trading](/wiki/algorithmic-trading) provides invaluable insights into understanding and applying asset depreciation effectively. Key texts for financial accounting include "Financial Accounting: Tools for Business Decision Making" by Paul Kimmel, Jerry Weygandt, and Donald Kieso. This book offers foundational knowledge on accounting principles and practices, particularly useful for mastering depreciation methods in various business contexts.
 
 For those interested in algorithmic trading, "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan serves as an essential resource. Chan's work demystifies algorithmic trading, offering strategies that benefit from understanding asset valuations, including the consideration of depreciation impacts.
 

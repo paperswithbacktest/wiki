@@ -80,7 +80,7 @@ Also, data analytics can help the business understand what different groups of c
 
 One advanced way to change session prices is by using something called "dynamic pricing." This means the price can go up or down depending on how many people want to book a session and at what time. For example, if a lot of people want to book a session at 6 PM, the price might go up because it's a busy time. But if fewer people want to book at 9 PM, the price might go down to encourage more people to come then. This can help the business make more money and also fill up times that are usually empty.
 
-Another technique is using "machine learning" to look at a lot of data and find patterns. This can help the business predict when more people will want sessions and set the right price for those times. For example, if the machine learning system sees that more people book sessions on Mondays, it might suggest a higher price for Monday sessions. This helps the business make the most money possible while still keeping customers happy. By using these smart tools, the business can keep changing the prices to match what customers want and need.
+Another technique is using "[machine learning](/wiki/machine-learning)" to look at a lot of data and find patterns. This can help the business predict when more people will want sessions and set the right price for those times. For example, if the machine learning system sees that more people book sessions on Mondays, it might suggest a higher price for Monday sessions. This helps the business make the most money possible while still keeping customers happy. By using these smart tools, the business can keep changing the prices to match what customers want and need.
 
 ## What is the key to understanding pricing strategy?
 

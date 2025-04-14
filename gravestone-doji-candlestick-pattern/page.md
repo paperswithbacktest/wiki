@@ -70,7 +70,7 @@ One common mistake traders make when seeing a Gravestone Doji is thinking it alw
 
 Another mistake is not paying attention to what the price was doing before the Gravestone Doji appeared. If the price was going up a lot before, the Gravestone Doji is a stronger hint that the price might reverse. But if the price wasn't moving much or was already going down, the pattern might not be as important. Traders should always look at the bigger picture and not just focus on one pattern.
 
-Lastly, some traders might ignore the volume of trading when a Gravestone Doji shows up. If there's a lot of buying and selling happening when the Gravestone Doji appears, it's a stronger sign. But if not many people are trading, the pattern might not be as reliable. It's important to check the trading volume to see how serious the sign is.
+Lastly, some traders might ignore the [volume](/wiki/volume-trading-strategy) of trading when a Gravestone Doji shows up. If there's a lot of buying and selling happening when the Gravestone Doji appears, it's a stronger sign. But if not many people are trading, the pattern might not be as reliable. It's important to check the trading volume to see how serious the sign is.
 
 ## How does the position of a Gravestone Doji within a trend affect its significance?
 
@@ -88,7 +88,7 @@ Another way to confirm a Gravestone Doji is to look at other signs on the chart.
 
 Trading the Gravestone Doji candlestick pattern effectively involves several strategic steps. Primarily, confirming the pattern’s occurrence at the peak of an uptrend, particularly where resistance increases, is crucial. This confirmation is essential since the Gravestone Doji typically indicates a potential reversal.
 
-Traders should supplement the identification of this pattern with additional bearish indicators like a declining Relative Strength Index (RSI). A falling RSI suggests that the bullish momentum is weakening, strengthening the case for a reversal signaled by the Gravestone Doji. The RSI is calculated using the formula:
+Traders should supplement the identification of this pattern with additional bearish indicators like a declining Relative Strength Index (RSI). A falling RSI suggests that the bullish [momentum](/wiki/momentum) is weakening, strengthening the case for a reversal signaled by the Gravestone Doji. The RSI is calculated using the formula:
 
 $$
 

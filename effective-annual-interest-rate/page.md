@@ -18,7 +18,7 @@ Understanding the EAR is important because it helps you compare different financ
 
 The Effective Annual Interest Rate (EAR) and the nominal interest rate are two different ways to look at how much interest you'll earn or pay on money. The nominal interest rate is the basic rate you see advertised. It doesn't take into account how often the interest is added to your money. For example, if a bank says they offer a 5% nominal interest rate, that's the rate before considering how often the interest is compounded.
 
-On the other hand, the EAR shows you the real rate of interest you'll earn or pay over a year, taking into account how often the interest is added, like monthly or daily. This means the EAR is usually higher than the nominal rate because it includes the effect of compounding. If you have a savings account with a 5% nominal rate that compounds monthly, the EAR would be higher because you're earning interest on the interest that was added before.
+On the other hand, the EAR shows you the real rate of interest you'll earn or pay over a year, taking into account how often the interest is added, like monthly or daily. This means the EAR is usually higher than the nominal rate because it includes the effect of compounding. If you have a savings account with a 5% nominal rate that compounds monthly, the EAR would be higher because you're [earning](/wiki/earning-announcement) interest on the interest that was added before.
 
 Understanding the difference between these two rates is important for making smart financial choices. If you're comparing loans or savings accounts, looking at the EAR gives you a better idea of what you'll actually pay or earn over time. This can help you choose the best option, even if the nominal rates look similar.
 

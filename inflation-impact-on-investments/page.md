@@ -48,7 +48,7 @@ To protect your savings from inflation, you can try to earn more interest on you
 
 ## What are the effects of inflation on different types of investments?
 
-Inflation can affect different types of investments in different ways. For investments like savings accounts or bonds that pay a fixed interest rate, inflation can be bad news. If the interest you earn is less than the inflation rate, your money loses buying power over time. For example, if your savings account gives you 1% interest but inflation is 3%, you're actually losing money because the things you want to buy will cost more in the future.
+Inflation can affect different types of investments in different ways. For investments like savings accounts or bonds that pay a fixed [interest rate](/wiki/interest-rate-trading-strategies), inflation can be bad news. If the interest you earn is less than the inflation rate, your money loses buying power over time. For example, if your savings account gives you 1% interest but inflation is 3%, you're actually losing money because the things you want to buy will cost more in the future.
 
 On the other hand, some investments can do well when inflation goes up. Things like real estate or stocks can sometimes keep up with or even outpace inflation. Real estate might go up in value as prices rise, and companies might be able to charge more for their products, which can make their stocks worth more. But these investments can also be risky, so you need to think carefully about where you put your money.
 

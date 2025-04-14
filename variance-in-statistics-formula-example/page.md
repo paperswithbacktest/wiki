@@ -70,7 +70,7 @@ Another issue with variance is that it can make big differences in the data seem
 
 ## How can variance be used in more advanced statistical analyses?
 
-Variance is really important in more advanced statistics because it helps us understand how data behaves in different situations. For example, in something called Analysis of Variance (ANOVA), we use variance to see if different groups of data are different from each other. Imagine you're testing three different fertilizers on plants to see which one makes them grow the most. ANOVA uses variance to figure out if the differences in plant growth are because of the fertilizers or just because of random chance. By comparing the variance within each group of plants to the variance between the groups, ANOVA can tell you if the fertilizers really make a difference.
+Variance is really important in more advanced [statistics](/wiki/bayesian-statistics) because it helps us understand how data behaves in different situations. For example, in something called Analysis of Variance (ANOVA), we use variance to see if different groups of data are different from each other. Imagine you're testing three different fertilizers on plants to see which one makes them grow the most. ANOVA uses variance to figure out if the differences in plant growth are because of the fertilizers or just because of random chance. By comparing the variance within each group of plants to the variance between the groups, ANOVA can tell you if the fertilizers really make a difference.
 
 Another way variance is used in advanced statistics is in regression analysis. This is when we try to predict one thing based on another. For example, if you want to predict how much a house will sell for based on its size, you'd use regression. Variance helps us understand how well our predictions match up with what really happens. If the variance of the differences between our predictions and the actual house prices is small, it means our predictions are pretty good. But if the variance is big, it means our predictions are all over the place and we need to find a better way to predict house prices. So, variance helps us see how good our statistical models are and where we need to improve them.
 
@@ -130,7 +130,7 @@ print(f"The variance of returns is: {variance}")
 
 In this Python code, `calculate_variance` takes a list of returns, computes the mean, and uses it to determine the squared differences for each return. The average of these squared differences provides the variance, illustrating the fluctuation in returns around the mean.
 
-Understanding the spread of returns through variance calculation allows traders to adjust their algorithmic trading strategies with greater precision, aligning them with specific risk-reward frameworks. This ensures strategies are well-equipped to optimize performance while mitigating potential risks inherent due to variations in expected returns.
+Understanding the spread of returns through variance calculation allows traders to adjust their [algorithmic trading](/wiki/algorithmic-trading) strategies with greater precision, aligning them with specific risk-reward frameworks. This ensures strategies are well-equipped to optimize performance while mitigating potential risks inherent due to variations in expected returns.
 
 ## How can one manage variance in algorithmic trading?
 

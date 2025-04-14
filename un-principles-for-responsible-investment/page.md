@@ -24,7 +24,7 @@ Signing up to the PRI means you agree to follow their six principles. These prin
 
 The UN Principles for Responsible Investment (PRI) started in 2005. A group of big investors worked with the United Nations to create these principles. They wanted to make sure that investing money could help the world, not just make more money. The PRI was officially launched at the New York Stock Exchange in April 2006. Since then, more and more people and organizations have joined, making it a big movement for responsible investing.
 
-The PRI came from the idea that investors should think about more than just money when they make choices. They should also consider things like the environment, how people are treated, and how companies are run. This is called ESG, which stands for Environmental, Social, and Governance. By following the PRI, investors help make the world a better place while still trying to make good investments. The PRI has grown a lot and now has thousands of members from all over the world, working together to make a positive difference through their investments.
+The PRI came from the idea that investors should think about more than just money when they make choices. They should also consider things like the environment, how people are treated, and how companies are run. This is called [ESG](/wiki/esg-investing), which stands for Environmental, Social, and Governance. By following the PRI, investors help make the world a better place while still trying to make good investments. The PRI has grown a lot and now has thousands of members from all over the world, working together to make a positive difference through their investments.
 
 ## How do the UN PRI support sustainable investment?
 

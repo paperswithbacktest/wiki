@@ -18,7 +18,7 @@ This type of distribution is useful when you want to give equal importance to di
 
 A log-uniform distribution and a uniform distribution both spread out numbers between two values, but they do it in different ways. In a uniform distribution, the numbers are spread out evenly. If you pick numbers between 10 and 1000, you might get numbers like 10, 505, and 1000, because each number is just as likely to be picked as any other. This means that the space between each number is the same.
 
-On the other hand, a log-uniform distribution spreads out the logarithms of the numbers evenly. So, if you're picking numbers between 10 and 1000 again, you would take the logarithm of these numbers (log 10, log 505, log 1000), spread those logarithms out evenly, and then convert them back to the original numbers. This means you might get numbers like 10, 100, and 1000, because the logarithms of these numbers are more evenly spaced. This type of distribution is helpful when you want to make sure you're giving equal importance to numbers of different sizes, like when testing values from 1 to 1,000,000 in an experiment.
+On the other hand, a log-uniform distribution spreads out the logarithms of the numbers evenly. So, if you're [picking](/wiki/asset-class-picking) numbers between 10 and 1000 again, you would take the logarithm of these numbers (log 10, log 505, log 1000), spread those logarithms out evenly, and then convert them back to the original numbers. This means you might get numbers like 10, 100, and 1000, because the logarithms of these numbers are more evenly spaced. This type of distribution is helpful when you want to make sure you're giving equal importance to numbers of different sizes, like when testing values from 1 to 1,000,000 in an experiment.
 
 ## What are the parameters of a log-uniform distribution?
 
@@ -64,7 +64,7 @@ Another advantage is that log-uniform distributions are great for hyperparameter
 
 ## Can you explain the role of log-uniform distributions in Bayesian statistics?
 
-In Bayesian statistics, a log-uniform distribution can be used as a prior distribution when you want to show that you don't have any strong beliefs about which values are more likely. Imagine you're trying to guess the value of something, but you don't know if it's a small number or a big number. A log-uniform distribution helps by saying that small numbers and big numbers are equally likely, based on their logarithms. This is useful when you want to make sure your guess is fair and doesn't favor one size of number over another.
+In Bayesian [statistics](/wiki/bayesian-statistics), a log-uniform distribution can be used as a prior distribution when you want to show that you don't have any strong beliefs about which values are more likely. Imagine you're trying to guess the value of something, but you don't know if it's a small number or a big number. A log-uniform distribution helps by saying that small numbers and big numbers are equally likely, based on their logarithms. This is useful when you want to make sure your guess is fair and doesn't favor one size of number over another.
 
 For example, if you're trying to estimate a parameter in a model and you don't have any good guesses about what it might be, you can use a log-uniform distribution as your starting point. This way, when you update your guess with new data, you're starting from a place that treats all possible values fairly. This can lead to better and more accurate estimates, because you're not starting with a bias towards certain numbers.
 

@@ -82,7 +82,7 @@ But speculative capital can also make markets less efficient. When a lot of peop
 
 ## What are the investment strategies for speculation?
 
-Speculative investment strategies encompass a range of financial instruments and techniques designed to capitalize on market volatility and price fluctuations. Understanding and employing these strategies require a solid grasp of financial markets and an appetite for risk.
+Speculative investment strategies encompass a range of financial instruments and techniques designed to capitalize on market [volatility](/wiki/volatility-trading-strategies) and price fluctuations. Understanding and employing these strategies require a solid grasp of financial markets and an appetite for risk.
 
 Options trading provides investors with the opportunity to speculate on the direction of asset prices with limited risk exposure. An option is a contract that grants the holder the right, but not the obligation, to buy (call option) or sell (put option) an underlying asset at a predetermined price before a specific expiration date. This flexibility allows traders to leverage their positions, potentially amplifying profits while capping potential losses to the premium paid for the option.
 
@@ -90,7 +90,7 @@ Futures contracts, on the other hand, compel participants to execute a transacti
 
 In addition to these instruments, derivatives such as swaps and warrants offer further avenues for speculation. These financial instruments derive their value from an underlying asset or benchmark, providing sophisticated traders with tools to hedge risks or speculate on various market conditions.
 
-Evaluating market indicators is a crucial aspect of speculative trading. Tools such as moving averages and the Relative Strength Index (RSI) help traders identify potential entry and exit points. A moving average smooths price data to create a constantly updated average price, revealing underlying trends. The formula for a simple moving average (SMA) is:
+Evaluating market indicators is a crucial aspect of speculative trading. Tools such as moving averages and the Relative Strength Index (RSI) help traders identify potential entry and [exit](/wiki/exit-strategy) points. A moving average smooths price data to create a constantly updated average price, revealing underlying trends. The formula for a simple moving average (SMA) is:
 
 $$
 \text{SMA} = \frac{P_1 + P_2 + \cdots + P_n}{n}

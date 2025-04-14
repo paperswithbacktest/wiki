@@ -46,7 +46,7 @@ The exact amount of money each side puts in can change, but usually, the governm
 
 ## What are the risk-sharing mechanisms in the PPIP?
 
-The Public-Private Investment Program (PPIP) uses a special way to share risk between the government and private investors. The government puts in some money, and private investors put in the rest. This means that if the toxic assets they buy go up in value, both the government and private investors can make money. But if the toxic assets go down in value, both sides also share the loss. This sharing of risk makes it safer for private investors to join the program because they know the government is helping to carry the risk.
+The Public-Private Investment Program (PPIP) uses a special way to share risk between the government and private investors. The government puts in some money, and private investors put in the rest. This means that if the toxic assets they buy go up in value, both the government and private investors can make money. But if the toxic assets go down in value, both sides also share the loss. This sharing of risk makes it safer for private investors to join the program because they know the government is helping to [carry](/wiki/carry-trading) the risk.
 
 This risk-sharing helps the PPIP work better. By having the government and private investors work together, they can buy more toxic assets from the banks. This helps clean up the banks' balance sheets and makes them healthier. When banks are healthier, they are more likely to start lending money again. This can help businesses and people get the loans they need, which can make the economy stronger.
 

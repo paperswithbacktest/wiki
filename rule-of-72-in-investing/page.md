@@ -22,7 +22,7 @@ The Rule of 72 is a quick and easy way to get a rough idea about your investment
 
 ## Why is the Rule of 72 useful for investors?
 
-The Rule of 72 is a handy tool for investors because it helps them quickly figure out how long it will take for their money to double. All you need to do is divide 72 by the interest rate you are getting on your investment. This simple calculation gives you a good idea of your investment's growth without needing a calculator or complicated math. It's especially useful for comparing different investment options to see which one might help your money grow faster.
+The Rule of 72 is a handy tool for investors because it helps them quickly figure out how long it will take for their money to double. All you need to do is divide 72 by the [interest rate](/wiki/interest-rate-trading-strategies) you are getting on your investment. This simple calculation gives you a good idea of your investment's growth without needing a calculator or complicated math. It's especially useful for comparing different investment options to see which one might help your money grow faster.
 
 It's also great because it works well for common interest rates, usually between 6% and 10%. This makes it practical for everyday investors who are looking at typical savings accounts, bonds, or other investments. While the Rule of 72 gives you an estimate, it's a quick way to plan your financial future and set realistic goals for your money's growth.
 
@@ -105,7 +105,7 @@ The Rule of 72 complements the understanding of compound interest by providing a
 
 ## How can these concepts be integrated for effective investing?
 
-Combining the Rule of 72, compound interest, and algorithmic trading provides a comprehensive strategy for effective investing. The Rule of 72 offers investors a simple and quick mental mechanism to estimate the time required to double their investments, facilitating long-term planning. By dividing 72 by the expected annual interest rate, investors can anticipate how their investments will grow over time, aiding in the establishment of financial targets and risk assessments.
+Combining the Rule of 72, compound interest, and [algorithmic trading](/wiki/algorithmic-trading) provides a comprehensive strategy for effective investing. The Rule of 72 offers investors a simple and quick mental mechanism to estimate the time required to double their investments, facilitating long-term planning. By dividing 72 by the expected annual interest rate, investors can anticipate how their investments will grow over time, aiding in the establishment of financial targets and risk assessments.
 
 Compound interest plays a crucial role in this combination, significantly enhancing investment returns by allowing both the initial principal and accumulated interest to generate further earnings. For instance, if an investor receives a consistent annual return $r$, the future value $FV$ of an investment can be expressed as:
 

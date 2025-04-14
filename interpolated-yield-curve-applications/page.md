@@ -18,7 +18,7 @@ Interpolation is like filling in the blanks. If you know the interest rate for 1
 
 To construct an interpolated yield curve, you start with known interest rates for specific times, like 1 year, 5 years, and 10 years. These are called benchmark rates. You plot these rates on a graph where the x-axis shows the time until the money is paid back, and the y-axis shows the interest rate. The goal is to connect these points to create a smooth line that represents how interest rates change over time.
 
-To fill in the gaps between the known rates, you use a method called interpolation. This is like guessing what the interest rate might be for times in between the benchmarks. There are different ways to do this, but a common one is linear interpolation, where you draw a straight line between two known points. For example, if the rate is 2% at 1 year and 3% at 2 years, you might guess the rate at 1.5 years is 2.5%. By doing this for all the gaps, you create a smooth curve that shows how interest rates change over time for different lengths of time.
+To fill in the gaps between the known rates, you use a method called interpolation. This is like guessing what the [interest rate](/wiki/interest-rate-trading-strategies) might be for times in between the benchmarks. There are different ways to do this, but a common one is linear interpolation, where you draw a straight line between two known points. For example, if the rate is 2% at 1 year and 3% at 2 years, you might guess the rate at 1.5 years is 2.5%. By doing this for all the gaps, you create a smooth curve that shows how interest rates change over time for different lengths of time.
 
 ## What are the common interpolation methods used for yield curves?
 

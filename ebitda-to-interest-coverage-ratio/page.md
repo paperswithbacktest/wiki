@@ -72,7 +72,7 @@ So, when looking at a company's ratio, it's important to compare it to other com
 
 A company can improve its EBITDA to Interest Coverage Ratio by increasing its earnings. One way to do this is by growing its sales, maybe by finding new customers or selling more to the ones it already has. Another way is to cut costs. This could mean finding cheaper suppliers, making the business run more smoothly, or even letting go of some workers if needed. By making more money or spending less, the company's EBITDA goes up, which can make the ratio better.
 
-Another strategy is to manage its debt better. The company can try to pay off some of its loans, which would lower its interest expenses. It could also talk to its lenders about getting a lower interest rate on its loans. If the company can lower its interest payments, the ratio will go up because the same amount of earnings now covers a smaller amount of interest. Both increasing earnings and managing debt can help a company have a healthier EBITDA to Interest Coverage Ratio.
+Another strategy is to manage its debt better. The company can try to pay off some of its loans, which would lower its interest expenses. It could also talk to its lenders about getting a lower [interest rate](/wiki/interest-rate-trading-strategies) on its loans. If the company can lower its interest payments, the ratio will go up because the same amount of earnings now covers a smaller amount of interest. Both increasing earnings and managing debt can help a company have a healthier EBITDA to Interest Coverage Ratio.
 
 ## How has the use of the EBITDA to Interest Coverage Ratio evolved in financial analysis over time?
 

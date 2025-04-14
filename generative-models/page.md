@@ -20,7 +20,7 @@ Generative models and discriminative models are two different approaches in mach
 
 On the other hand, discriminative models are more like detectives. They focus on figuring out the differences between different types of data. Instead of creating new data, they are good at classifying or predicting what category new data belongs to. For example, if you show a discriminative model a picture, it can tell you if it's a picture of a cat or a dog, but it can't create a new picture of a cat or dog.
 
-In simple terms, generative models are about creation and understanding the whole picture, while discriminative models are about making decisions and focusing on the differences between things. Both types of models are useful, but they serve different purposes in the world of machine learning.
+In simple terms, generative models are about creation and understanding the whole picture, while discriminative models are about making decisions and focusing on the differences between things. Both types of models are useful, but they serve different purposes in the world of [machine learning](/wiki/machine-learning).
 
 ## What are some common types of generative models?
 
@@ -34,7 +34,7 @@ A third type of generative model is the autoregressive model. These models predi
 
 A Gaussian Mixture Model (GMM) is a simple type of generative model that can be thought of as a way to understand and create data by mixing together different bell-shaped curves, called Gaussian distributions. Imagine you have a bunch of data points scattered around, like a handful of marbles thrown on the floor. A GMM tries to figure out how many different groups, or clusters, these marbles might belong to. It does this by guessing where to place several bell-shaped curves over the data, adjusting their positions and shapes until they fit the data well.
 
-Once the GMM has figured out the best way to place these curves, it can generate new data that looks like the original set. It does this by randomly picking one of the curves and then using it to create a new data point. For example, if you were using a GMM to model the heights of people in a room, it might find that there are two main groups: shorter people and taller people. After fitting the curves to these groups, the GMM could then generate new heights that would fit nicely into either the shorter or taller group, helping you understand and simulate what new people might look like in terms of height.
+Once the GMM has figured out the best way to place these curves, it can generate new data that looks like the original set. It does this by randomly [picking](/wiki/asset-class-picking) one of the curves and then using it to create a new data point. For example, if you were using a GMM to model the heights of people in a room, it might find that there are two main groups: shorter people and taller people. After fitting the curves to these groups, the GMM could then generate new heights that would fit nicely into either the shorter or taller group, helping you understand and simulate what new people might look like in terms of height.
 
 ## What is the role of generative models in unsupervised learning?
 

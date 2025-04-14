@@ -76,7 +76,7 @@ Another problem is that the Williams %R can be too sensitive to short-term price
 
 ## How can one adjust the sensitivity of the Williams %R Indicator, and what are the implications of doing so?
 
-You can change how sensitive the Williams %R Indicator is by picking a different time period. Usually, people use 14 days, but if you want the indicator to react faster to price changes, you can use a shorter time like 7 days. If you want it to be less sensitive and show longer trends, you can use a longer time like 21 days. Changing the time period can help you see different kinds of market movements, depending on what you're trading and your strategy.
+You can change how sensitive the Williams %R Indicator is by [picking](/wiki/asset-class-picking) a different time period. Usually, people use 14 days, but if you want the indicator to react faster to price changes, you can use a shorter time like 7 days. If you want it to be less sensitive and show longer trends, you can use a longer time like 21 days. Changing the time period can help you see different kinds of market movements, depending on what you're trading and your strategy.
 
 When you make the Williams %R more sensitive by using a shorter time period, it will give you signals more often. This can be good if you're trading something that moves quickly, but it can also lead to more false signals, making you trade too much and possibly lose money. On the other hand, making it less sensitive with a longer time period can help you see bigger trends and avoid trading too often, but it might make you miss out on some quick opportunities. It's important to find the right balance that fits your trading goals and the market you're watching.
 

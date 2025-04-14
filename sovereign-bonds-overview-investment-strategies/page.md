@@ -36,7 +36,7 @@ Another thing to watch out for is inflation. If prices start going up a lot, the
 
 Sovereign bonds are rated by special companies called credit rating agencies. These agencies look at how healthy a country's economy is and how likely it is that the country will be able to pay back its debts. They give the bonds a grade, kind of like how teachers give grades in school. The grades can be letters like AAA, AA, A, BBB, and so on, all the way down to D. AAA is the best grade, meaning the bond is very safe. D is the worst, meaning the country is having big problems and might not pay back the money.
 
-The ratings help investors decide if a bond is a good investment. If a bond has a high rating like AAA or AA, it means the country is doing well and the bond is seen as safe. Investors might be happy to buy these bonds because they think they'll get their money back with interest. But if a bond has a low rating like BB or below, it means the country is struggling and the bond is riskier. Investors might want a higher interest rate to take that risk, or they might decide not to buy the bond at all.
+The ratings help investors decide if a bond is a good investment. If a bond has a high rating like AAA or AA, it means the country is doing well and the bond is seen as safe. Investors might be happy to buy these bonds because they think they'll get their money back with interest. But if a bond has a low rating like BB or below, it means the country is struggling and the bond is riskier. Investors might want a higher [interest rate](/wiki/interest-rate-trading-strategies) to take that risk, or they might decide not to buy the bond at all.
 
 ## What is the process of issuing sovereign bonds?
 

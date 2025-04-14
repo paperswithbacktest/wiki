@@ -48,7 +48,7 @@ Economists also use the idea of marginal utility to understand consumer choices 
 
 The utility maximization rule says that people try to get the most happiness or satisfaction they can with the money they have. It's like trying to make the best use of your money by choosing things that make you happiest. Economists say you should keep buying more of something until the extra happiness you get from one more of it (marginal utility) is equal to the price you pay for it. So, if a candy bar gives you a lot of happiness and it's cheap, you might buy a few. But if the next candy bar doesn't make you as happy and it's still the same price, you'll stop buying more.
 
-To apply this rule, you compare the extra happiness (marginal utility) you get from different things to their prices. Imagine you're at a store with money to spend. You might look at a soda and think about how happy it will make you. If the soda's price is low and it gives you a lot of happiness, you'll buy it. But if you then look at a bag of chips and see that it gives you even more happiness for the same price, you might choose the chips instead. You keep doing this, picking the things that give you the most bang for your buck until you run out of money or the extra happiness from more stuff isn't worth the cost anymore.
+To apply this rule, you compare the extra happiness (marginal utility) you get from different things to their prices. Imagine you're at a store with money to spend. You might look at a soda and think about how happy it will make you. If the soda's price is low and it gives you a lot of happiness, you'll buy it. But if you then look at a bag of chips and see that it gives you even more happiness for the same price, you might choose the chips instead. You keep doing this, [picking](/wiki/asset-class-picking) the things that give you the most bang for your buck until you run out of money or the extra happiness from more stuff isn't worth the cost anymore.
 
 ## What are the limitations of measuring utility?
 
@@ -168,7 +168,7 @@ By integrating utility theories into trading strategies, investors can better al
 
 ## How can utility be used in algorithmic trading?
 
-Integrating utility functions into algorithmic trading models allows for a more nuanced evaluation and prioritization of investment options. This incorporation is rooted in aligning trading strategies with the investor's risk preferences and financial goals, optimizing decision-making processes under conditions of uncertainty.
+Integrating utility functions into [algorithmic trading](/wiki/algorithmic-trading) models allows for a more nuanced evaluation and prioritization of investment options. This incorporation is rooted in aligning trading strategies with the investor's risk preferences and financial goals, optimizing decision-making processes under conditions of uncertainty.
 
 Utility functions, which express an investor's preference over a set of outcomes, can be used to assess the expected utility of different strategies or trades. An expected utility $U$ for a particular strategy can be represented by the formula:
 
@@ -245,5 +245,5 @@ Markowitz, H. (1952). "Portfolio Selection." The Journal of Finance. This founda
 
 Kahneman, D., & Tversky, A. (1979). "Prospect Theory: An Analysis of Decision under Risk." Econometrica. This paper challenges traditional economic models of rational behavior by demonstrating that people value gains and losses differently, leading to decision-making anomalies. It explains how human cognitive biases affect perception of risk, providing insight into investor behavior beyond the expected utility theory.
 
-Lopez de Prado, M. (2018). "Advances in Financial Machine Learning." Wiley. This book combines finance and machine learning, presenting algorithmic methodologies to improve financial strategies. Lopez de Prado offers practical insights on implementing machine learning techniques in trading, which enhance data processing, risk management, and decision-making capabilities.
+Lopez de Prado, M. (2018). "Advances in Financial Machine Learning." Wiley. This book combines finance and [machine learning](/wiki/machine-learning), presenting algorithmic methodologies to improve financial strategies. Lopez de Prado offers practical insights on implementing machine learning techniques in trading, which enhance data processing, risk management, and decision-making capabilities.
 

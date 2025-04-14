@@ -82,7 +82,7 @@ On the other hand, some people think that locked markets might be used less in t
 
 ## What are the types of algorithmic trading strategies?
 
-Algorithmic trading strategies encompass various methodologies designed to exploit financial market inefficiencies. These strategies are pivotal for traders seeking to automate their trading processes. Here, we explore some of the most notable algorithmic trading strategies, including trend-following, arbitrage, market-making, and mean reversion.
+Algorithmic trading strategies encompass various methodologies designed to exploit financial market inefficiencies. These strategies are pivotal for traders seeking to automate their trading processes. Here, we explore some of the most notable [algorithmic trading](/wiki/algorithmic-trading) strategies, including trend-following, [arbitrage](/wiki/arbitrage), market-making, and mean reversion.
 
 ### Trend-Following Strategies
 Trend-following strategies aim to capitalize on the [momentum](/wiki/momentum) of market prices. These strategies identify and exploit price trends, often relying on technical analysis tools such as moving averages. A simple moving average (SMA) can help determine the direction of a trend by smoothing out price data over a specified period. The formula for an SMA is:
@@ -112,7 +112,7 @@ def find_arbitrage_opportunity(rates):
 ```
 
 ### Market-Making
-Market-making involves placing simultaneous buy and sell orders for a security to profit from the bid-ask spread. Market makers provide liquidity by continuously quoting bid and ask prices, thus facilitating trade execution for market participants. The bid-ask spread is the difference between the ask price (sell) and the bid price (buy). Successful market-making requires sophisticated algorithms to dynamically adjust prices in response to market conditions.
+Market-making involves placing simultaneous buy and sell orders for a security to profit from the bid-ask spread. Market makers provide [liquidity](/wiki/liquidity-risk-premium) by continuously quoting bid and ask prices, thus facilitating trade execution for market participants. The bid-ask spread is the difference between the ask price (sell) and the bid price (buy). Successful market-making requires sophisticated algorithms to dynamically adjust prices in response to market conditions.
 
 ### Mean Reversion
 Mean reversion strategies are predicated on the hypothesis that asset prices will revert to their long-term average. Traders using this strategy buy undervalued securities and sell overvalued ones, expecting prices to return to their mean over time. The z-score is a common tool used to determine the extent of deviation from the average, defined as:

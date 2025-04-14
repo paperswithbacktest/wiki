@@ -56,7 +56,7 @@ To use the VA healthcare system, veterans need to enroll first. They can do this
 
 ## What educational benefits does the VA offer to veterans?
 
-The VA offers educational benefits to help veterans go to school or learn new skills. One of the main programs is the GI Bill, which gives money to veterans to pay for college, training, or even flight school. There are different types of GI Bills, like the Post-9/11 GI Bill, which helps veterans who served after September 11, 2001. Veterans can use this money to pay for tuition, housing, and books. The VA also has the Montgomery GI Bill for those who served before that date.
+The VA offers educational benefits to help veterans go to school or learn new skills. One of the main programs is the GI Bill, which gives money to veterans to pay for college, training, or even flight school. There are different types of GI Bills, like the Post-9/11 GI Bill, which helps veterans who served after September 11, 2001. Veterans can use this money to pay for tuition, housing, and [books](/wiki/algo-trading-books). The VA also has the Montgomery GI Bill for those who served before that date.
 
 Another program is the Vocational Rehabilitation and Employment (VR&E) service, which helps veterans with service-connected disabilities. This program can pay for school, training, or even starting a business. It's all about helping veterans find good jobs and have a good life after the military. Veterans can work with a counselor to make a plan that fits their needs and goals. These educational benefits show how the VA wants to help veterans succeed in their lives after serving.
 

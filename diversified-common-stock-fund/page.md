@@ -24,7 +24,7 @@ Another way a diversified common stock fund differs is in how it's managed. Thes
 
 Investing in a diversified common stock fund has many benefits. One big advantage is that it helps spread out your risk. Instead of putting all your money into one company's stock, which can be risky if that company does poorly, you get to own a little bit of many different companies. This way, if one company or industry has a bad year, it won't hurt your whole investment as much because other stocks might do well. It's like not putting all your eggs in one basket.
 
-Another benefit is that it's easier and less time-consuming. You don't have to spend a lot of time researching and picking individual stocks. The fund is managed by professionals who do that work for you. They choose a mix of stocks that they think will grow over time. This can be a good option if you want to invest in the stock market but don't have the time or knowledge to pick stocks on your own. Plus, over the long term, stocks have generally provided good returns, so a diversified common stock fund can help your money grow.
+Another benefit is that it's easier and less time-consuming. You don't have to spend a lot of time researching and [picking](/wiki/asset-class-picking) individual stocks. The fund is managed by professionals who do that work for you. They choose a mix of stocks that they think will grow over time. This can be a good option if you want to invest in the stock market but don't have the time or knowledge to pick stocks on your own. Plus, over the long term, stocks have generally provided good returns, so a diversified common stock fund can help your money grow.
 
 ## What are the risks associated with diversified common stock funds?
 
@@ -42,7 +42,7 @@ After your account is funded, you can start looking for a diversified common sto
 
 When picking a diversified common stock fund, one thing to think about is the fund's performance. You want to see how well it has done over time. Look at its past returns, but remember that past performance doesn't guarantee future results. Another thing to consider is the fund's fees. All funds charge fees, and these can eat into your returns. So, try to find a fund with lower fees, as this can help your money grow more over time.
 
-Another factor is the fund's investment strategy. Some funds might focus more on growth, while others might aim for income or a mix of both. Think about what matches your own goals and how much risk you're okay with taking. Also, consider the fund manager's experience and track record. A good manager can make a big difference in how well the fund does. Lastly, check if the fund fits well with the rest of your investments. You want to make sure your overall portfolio is balanced and diversified.
+Another [factor](/wiki/factor-investing) is the fund's investment strategy. Some funds might focus more on growth, while others might aim for income or a mix of both. Think about what matches your own goals and how much risk you're okay with taking. Also, consider the fund manager's experience and track record. A good manager can make a big difference in how well the fund does. Lastly, check if the fund fits well with the rest of your investments. You want to make sure your overall portfolio is balanced and diversified.
 
 ## How is the performance of a diversified common stock fund measured?
 
@@ -82,9 +82,9 @@ Another strategy is to use tax-efficient investing. This means thinking about ho
 
 ## How can diversification be implemented through algorithmic trading?
 
-Algorithmic trading is a significant tool in implementing diversification due to its capability to access a broader spectrum of markets, which traditional trading methods may not efficiently reach. By executing trades based on predetermined rules and analyzing extensive datasets, algorithmic trading systems can assimilate assets from various classes, sectors, and geographies, thereby enriching the diversification spectrum.
+Algorithmic trading is a significant tool in implementing diversification due to its capability to access a broader spectrum of markets, which traditional trading methods may not efficiently reach. By executing trades based on predetermined rules and analyzing extensive datasets, [algorithmic trading](/wiki/algorithmic-trading) systems can assimilate assets from various classes, sectors, and geographies, thereby enriching the diversification spectrum.
 
-One of the major benefits of these automated systems is the minimization of emotional biases that often plague human traders. Emotions such as fear and greed are significant impediments in manual trading as they frequently lead to inconsistent application of investment strategies. By removing this emotional variable, algorithmic systems facilitate a more disciplined approach, sticking to data-driven, pre-set strategies regardless of market volatility or investor sentiment.
+One of the major benefits of these automated systems is the minimization of emotional biases that often plague human traders. Emotions such as fear and greed are significant impediments in manual trading as they frequently lead to inconsistent application of investment strategies. By removing this emotional variable, algorithmic systems facilitate a more disciplined approach, sticking to data-driven, pre-set strategies regardless of market [volatility](/wiki/volatility-trading-strategies) or investor sentiment.
 
 Furthermore, algorithmic trading empowers dynamic portfolio rebalancing. This automated adjustment is crucial for maintaining an optimal asset distribution that is aligned with the investor's goals. In a diversified portfolio, asset weights must often be rebalanced to reflect changing market conditions and asset performances. The formula for calculating the new weight $w_i$ of an asset $i$ in a portfolio, immediately after a change in its market value, is:
 

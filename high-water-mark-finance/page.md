@@ -28,7 +28,7 @@ High-water marks are important for figuring out performance fees in some funds. 
 
 ## Can you explain the high-water mark in the context of hedge funds?
 
-In the world of hedge funds, the high-water mark is a big deal. It's the highest value the fund has ever reached. When people invest in a hedge fund, they want to know if their money is growing. The high-water mark helps them see that. If the fund's value goes above this mark, it means the fund is doing better than ever before. If it doesn't, the fund hasn't reached its best performance yet.
+In the world of hedge funds, the high-water mark is a big deal. It's the highest value the fund has ever reached. When people invest in a [hedge fund](/wiki/hedge-fund-trading-strategies), they want to know if their money is growing. The high-water mark helps them see that. If the fund's value goes above this mark, it means the fund is doing better than ever before. If it doesn't, the fund hasn't reached its best performance yet.
 
 High-water marks are important because they decide when the fund managers get paid extra money, called performance fees. These fees are only paid if the fund's value goes above the high-water mark. This rule makes sure the managers work hard to make the fund grow to new highs, not just get back to where it was before. It's a way to keep the managers motivated to do a good job for the investors.
 
@@ -68,7 +68,7 @@ Another example is the hedge fund industry during the 2008 financial crisis. Man
 
 One problem with high-water marks is that they can make it hard for fund managers to get back on track after a big loss. If a fund loses a lot of money and drops below its high-water mark, the managers can't earn any extra money, called performance fees, until the fund's value goes above that mark again. This can make it tough for managers to keep working hard because they're not getting paid as much. It can also make investors lose trust in the fund and take their money out, which makes it even harder for the fund to recover.
 
-Another criticism is that high-water marks can lead to risky behavior. Some managers might try to take big risks to get the fund's value above the high-water mark quickly so they can start earning performance fees again. This can be dangerous because if the risky bets don't pay off, the fund could lose even more money. So, while high-water marks are meant to keep managers working hard and doing a good job, they can sometimes push managers to make choices that aren't good for the fund or the investors.
+Another criticism is that high-water marks can lead to risky behavior. Some managers might try to take big risks to get the fund's value above the high-water mark quickly so they can start [earning](/wiki/earning-announcement) performance fees again. This can be dangerous because if the risky bets don't pay off, the fund could lose even more money. So, while high-water marks are meant to keep managers working hard and doing a good job, they can sometimes push managers to make choices that aren't good for the fund or the investors.
 
 ## How have regulatory changes affected the use of high-water marks in the finance industry?
 

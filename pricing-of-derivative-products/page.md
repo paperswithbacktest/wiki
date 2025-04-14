@@ -26,7 +26,7 @@ The basic types of derivatives are futures, options, and swaps. Futures are cont
 
 Options give you the right, but not the obligation, to buy or sell an asset at a set price before a certain date. There are two kinds of options: call options, which let you buy something, and put options, which let you sell something. For instance, if you think the price of a stock will go up, you can buy a call option to buy that stock at today's price even if it goes up later.
 
-Swaps are agreements to exchange cash flows or other financial instruments. The most common type is an interest rate swap, where two parties agree to exchange interest payments, one based on a fixed rate and the other on a floating rate. This can help companies manage their borrowing costs. Swaps are useful for managing different kinds of financial risks.
+Swaps are agreements to exchange cash flows or other financial instruments. The most common type is an [interest rate](/wiki/interest-rate-trading-strategies) swap, where two parties agree to exchange interest payments, one based on a fixed rate and the other on a floating rate. This can help companies manage their borrowing costs. Swaps are useful for managing different kinds of financial risks.
 
 ## How does the concept of underlying asset affect derivative pricing?
 
@@ -48,7 +48,7 @@ One important idea in the Black-Scholes model is something called the "risk-neut
 
 ## How do interest rates influence the pricing of derivatives?
 
-Interest rates play a big role in figuring out the price of derivatives. They are important because they affect how much money you could earn by putting your money somewhere else, like in a savings account or a bond. When interest rates go up, the price of derivatives can go down. This is because the money you could earn from other investments becomes more attractive, so people might not want to pay as much for a derivative. On the other hand, when interest rates go down, derivatives can become more valuable because other investments aren't earning as much.
+Interest rates play a big role in figuring out the price of derivatives. They are important because they affect how much money you could earn by putting your money somewhere else, like in a savings account or a bond. When interest rates go up, the price of derivatives can go down. This is because the money you could earn from other investments becomes more attractive, so people might not want to pay as much for a derivative. On the other hand, when interest rates go down, derivatives can become more valuable because other investments aren't [earning](/wiki/earning-announcement) as much.
 
 For options, interest rates affect what's called the "time value" of the option. Time value is the extra value an option has because it still has time before it expires. Higher interest rates mean the time value of call options goes up, because it's more costly to hold onto the money needed to buy the stock until the option expires. For put options, higher interest rates make the time value go down, because it's more attractive to keep your money in other investments that earn more interest. So, when you're pricing options, you need to think about what's happening with interest rates to get the price right.
 

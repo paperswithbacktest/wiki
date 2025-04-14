@@ -28,7 +28,7 @@ Because guerrilla trading is so fast, it can be risky. The market can be unpredi
 
 ## What types of markets are suitable for guerrilla trading?
 
-Guerrilla trading works best in markets that move quickly and have a lot of activity. These markets can be things like stocks, forex, or cryptocurrencies. In these markets, prices can change a lot in a short time, which is good for guerrilla traders because they want to make money from these quick changes. They need markets that have enough trading going on so they can buy and sell easily and quickly.
+Guerrilla trading works best in markets that move quickly and have a lot of activity. These markets can be things like stocks, [forex](/wiki/forex-system), or cryptocurrencies. In these markets, prices can change a lot in a short time, which is good for guerrilla traders because they want to make money from these quick changes. They need markets that have enough trading going on so they can buy and sell easily and quickly.
 
 But not all markets are good for guerrilla trading. Markets that are slow or don't have a lot of trading activity are not as good. In these markets, it's harder to find the quick price changes that guerrilla traders need. So, they usually stay away from markets like some commodities or bonds that might not move as fast or have as much activity.
 
@@ -36,7 +36,7 @@ But not all markets are good for guerrilla trading. Markets that are slow or don
 
 To start guerrilla trading, you need a few basic tools and resources. First, you need a fast and reliable computer or laptop. This is important because guerrilla trading happens quickly, and you need to be able to buy and sell fast. You also need a good internet connection so you can stay connected to the market all the time. Another tool you need is trading software or a platform that lets you trade quickly. Some popular platforms are MetaTrader, NinjaTrader, and Thinkorswim. These platforms give you charts and graphs that help you see the market and make decisions.
 
-You also need to have some money to start trading. This is called your trading capital. It's important to only use money that you can afford to lose because guerrilla trading can be risky. Another important resource is education. You need to learn about the market and how to read charts and graphs. There are many books, online courses, and videos that can help you learn. Finally, you need to stay updated with news and events that can affect the market. Websites, news apps, and social media can help you stay informed.
+You also need to have some money to start trading. This is called your trading capital. It's important to only use money that you can afford to lose because guerrilla trading can be risky. Another important resource is education. You need to learn about the market and how to read charts and graphs. There are many [books](/wiki/algo-trading-books), online courses, and videos that can help you learn. Finally, you need to stay updated with news and events that can affect the market. Websites, news apps, and social media can help you stay informed.
 
 In summary, to start guerrilla trading, you need a fast computer, a good internet connection, trading software, trading capital, education, and a way to stay updated with market news. These tools and resources will help you make quick decisions and try to make profits from short-term price changes.
 
@@ -66,7 +66,7 @@ To figure out market sentiment, guerrilla traders often look at news, social med
 
 ## How can advanced traders leverage algorithmic trading in guerrilla trading?
 
-Advanced traders can use algorithmic trading to make guerrilla trading easier and faster. They use computer programs to watch the market and make trades automatically. These programs can look at lots of data very quickly and spot small price changes that a person might miss. This helps traders buy and sell at the right times without having to watch the market all the time. The programs can also follow rules set by the trader, like when to buy or sell, so they can make decisions based on what the trader wants.
+Advanced traders can use [algorithmic trading](/wiki/algorithmic-trading) to make guerrilla trading easier and faster. They use computer programs to watch the market and make trades automatically. These programs can look at lots of data very quickly and spot small price changes that a person might miss. This helps traders buy and sell at the right times without having to watch the market all the time. The programs can also follow rules set by the trader, like when to buy or sell, so they can make decisions based on what the trader wants.
 
 Using algorithms can also help traders make more trades in a short time. Since guerrilla trading is all about being quick, this can be a big advantage. The programs can trade without getting tired or making mistakes that a person might make when they're trying to act fast. But, traders need to be careful because the market can still be unpredictable, and the algorithms might not always get it right. So, it's important for traders to keep an eye on their algorithms and be ready to make changes if needed.
 
@@ -84,7 +84,7 @@ Another way expert traders can improve is by using technology to their advantage
 
 ## What are the benefits and drawbacks of guerrilla trading?
 
-Guerrilla Trading offers several benefits and drawbacks that are crucial for traders to consider. One of the primary advantages is the minimization of exposure to market volatility. By focusing on short-term trades and capturing minor price movements, Guerrilla Traders can achieve steady gains. This strategy reduces the risk of significant losses often associated with holding positions for extended periods, as the quick turnover rate limits exposure to unexpected market shifts.
+Guerrilla Trading offers several benefits and drawbacks that are crucial for traders to consider. One of the primary advantages is the minimization of exposure to market [volatility](/wiki/volatility-trading-strategies). By focusing on short-term trades and capturing minor price movements, Guerrilla Traders can achieve steady gains. This strategy reduces the risk of significant losses often associated with holding positions for extended periods, as the quick turnover rate limits exposure to unexpected market shifts.
 
 However, the high-frequency nature of Guerrilla Trading brings about challenges, particularly in the form of increased transaction costs. Each trade incurs fees, and when the number of trades increases, these costs can significantly erode profit margins. The formula for calculating net profit in such high-turnover trading scenarios can be expressed as:
 

@@ -58,7 +58,7 @@ Over time, even though we don't use that old cable anymore, the name 'Cable' has
 
 ## What other nicknames or slang terms are used in forex trading for major currency pairs?
 
-In forex trading, people use a lot of nicknames and slang terms for major currency pairs. One common one is 'Fiber' for the EUR/USD pair. This nickname comes from the fiber-optic cables that are used to send information quickly between Europe and the US. Another nickname is 'Gopher' for the USD/CAD pair, which stands for 'Go for Canadian dollars'. Traders use these nicknames to talk about the exchange rates in a quick and easy way.
+In [forex](/wiki/forex-system) trading, people use a lot of nicknames and slang terms for major currency pairs. One common one is 'Fiber' for the EUR/USD pair. This nickname comes from the fiber-optic cables that are used to send information quickly between Europe and the US. Another nickname is 'Gopher' for the USD/CAD pair, which stands for 'Go for Canadian dollars'. Traders use these nicknames to talk about the exchange rates in a quick and easy way.
 
 Another popular nickname is 'Kiwi' for the NZD/USD pair. This comes from the national bird of New Zealand, which is also called a kiwi. The AUD/USD pair is often called 'Aussie', which is short for Australian dollar. These nicknames help traders remember which currencies they are talking about and make conversations about trading more fun and interesting.
 
@@ -72,7 +72,7 @@ Today, even though we don't use that old cable anymore, the name 'Cable' is stil
 
 ## What are the current trading volumes and significance of the GBP/USD pair in the global forex market?
 
-The GBP/USD pair is one of the most traded currency pairs in the global forex market. Every day, a lot of money changes hands when people buy and sell British pounds and US dollars. The exact amount can change, but it's usually one of the top three pairs in terms of trading volume. This means that many traders and big banks are always watching and trading this pair. The high trading volume makes it easier to buy and sell GBP/USD because there are always people ready to trade.
+The GBP/USD pair is one of the most traded currency pairs in the global forex market. Every day, a lot of money changes hands when people buy and sell British pounds and US dollars. The exact amount can change, but it's usually one of the top three pairs in terms of trading [volume](/wiki/volume-trading-strategy). This means that many traders and big banks are always watching and trading this pair. The high trading volume makes it easier to buy and sell GBP/USD because there are always people ready to trade.
 
 The GBP/USD pair is very important because it shows how strong the British pound is compared to the US dollar. This exchange rate can affect a lot of things, like how much it costs to buy things from the UK or the US, and how much money people make when they trade. Economic news, interest rates, and political events in both countries can make the GBP/USD rate go up or down. Because it's so important, many people pay close attention to what's happening with 'Cable'.
 

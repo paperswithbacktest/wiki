@@ -42,7 +42,7 @@ However, a high DPS isn't always a good thing. Sometimes, a company might pay ou
 
 EPS stands for Earnings Per Share and it tells you how much money a company made for each share of its stock. It's like figuring out how much profit you get for owning one share. If a company makes a lot of money and has a high EPS, it can mean the company is doing well and might be a good investment. Investors look at EPS to see if a company is making more money over time, which could make the stock price go up.
 
-DPS, or Dividends Per Share, is different because it shows how much money a company gives back to its shareholders for each share they own. It's the actual cash you get from the company without selling your shares. A high DPS can be good because it means you're getting more money regularly, but it also depends on the company's overall health. If a company pays out a lot in dividends but isn't making much profit, it might not be using its money wisely. So, while EPS shows how much a company is earning, DPS shows how much of that earning the company is sharing with its shareholders.
+DPS, or Dividends Per Share, is different because it shows how much money a company gives back to its shareholders for each share they own. It's the actual cash you get from the company without selling your shares. A high DPS can be good because it means you're getting more money regularly, but it also depends on the company's overall health. If a company pays out a lot in dividends but isn't making much profit, it might not be using its money wisely. So, while EPS shows how much a company is [earning](/wiki/earning-announcement), DPS shows how much of that earning the company is sharing with its shareholders.
 
 ## Can a company have a high EPS but low DPS? Why?
 

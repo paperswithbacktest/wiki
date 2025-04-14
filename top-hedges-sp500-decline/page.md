@@ -32,7 +32,7 @@ One common type of financial instrument used for hedging is options. Options giv
 
 Another type of financial instrument for hedging is futures contracts. Futures are agreements to buy or sell an asset at a future date for a price set today. If someone wants to hedge against a decline in the S&P 500, they can sell a futures contract on the S&P 500. If the index goes down, the value of the futures contract they sold will go up, which can help offset the losses in their other investments.
 
-A third type of financial instrument is inverse exchange-traded funds (ETFs). These are funds that move in the opposite direction of the market. If the S&P 500 goes down, an inverse ETF that tracks the S&P 500 will go up. By investing in an inverse ETF, someone can make money when the market goes down, which can help balance out any losses they might have in their other investments.
+A third type of financial instrument is inverse exchange-traded funds (ETFs). These are funds that move in the opposite direction of the market. If the S&P 500 goes down, an inverse [ETF](/wiki/etf-trading-strategies) that tracks the S&P 500 will go up. By investing in an inverse ETF, someone can make money when the market goes down, which can help balance out any losses they might have in their other investments.
 
 ## How can inverse ETFs be used to hedge against an S&P 500 decline?
 

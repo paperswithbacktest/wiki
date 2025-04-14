@@ -70,7 +70,7 @@ If you switch to doubling monthly, the growth would be even slower. You would on
 
 ## What are the limitations and assumptions in the model of doubling a dollar every day for a month?
 
-The model of doubling a dollar every day for a month assumes that you can keep doubling your money every single day without any problems. It also assumes that you can find someone who will double your money for you every day, which is not something that happens in real life. In reality, no bank or investment would give you 100% interest every day. The model also doesn't take into account things like taxes or fees, which would take away some of the money you're earning.
+The model of doubling a dollar every day for a month assumes that you can keep doubling your money every single day without any problems. It also assumes that you can find someone who will double your money for you every day, which is not something that happens in real life. In reality, no bank or investment would give you 100% interest every day. The model also doesn't take into account things like taxes or fees, which would take away some of the money you're [earning](/wiki/earning-announcement).
 
 Another limitation is that the model assumes you can keep track of the money and that it stays safe. In real life, managing such a huge amount of money would be very hard. Also, the model doesn't consider what happens if you miss a day of doubling. If you miss even one day, the final amount you end up with will be much smaller. So, while the model is good for showing how powerful exponential growth can be, it's not something you can actually do in the real world.
 

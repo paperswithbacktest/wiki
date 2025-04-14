@@ -102,7 +102,7 @@ Understanding forward margins requires proficiency in assessing various market i
 
 ## How can margin calculators be utilized in algorithmic trading?
 
-Margin calculators are essential in algorithmic trading, as they aid traders in managing leveraged positions and determining collateral requirements. These calculators are instrumental in assessing the margin necessary for trades by evaluating asset type, leverage, and prevailing market conditions. This evaluation enables traders to allocate capital more effectively, manage risk, and avoid the pitfalls of over-leveraging their portfolios.
+Margin calculators are essential in [algorithmic trading](/wiki/algorithmic-trading), as they aid traders in managing leveraged positions and determining collateral requirements. These calculators are instrumental in assessing the margin necessary for trades by evaluating asset type, leverage, and prevailing market conditions. This evaluation enables traders to allocate capital more effectively, manage risk, and avoid the pitfalls of over-leveraging their portfolios.
 
 When configuring trading strategies, a margin calculator considers several variables to compute the required margin. For example, in foreign exchange ([forex](/wiki/forex-system)) trading, the formula for calculating margin often includes factors such as the trade size (in lots) and the leverage ratio. The basic margin requirement can be calculated using:
 
@@ -112,7 +112,7 @@ $$
 
 Margin calculators assist traders by providing precise margin requirements, facilitating the setting of appropriate stop-loss levels and determining optimal position sizes. This is crucial for effective risk management, as it helps mitigate potential losses by capping the maximum allowable deficit on each trade.
 
-Furthermore, integrating margin calculations into the backtesting process is crucial for aligning trading strategies with a trader’s risk tolerance and capital efficiency. Backtesting involves testing trading strategies against historical data to evaluate their potential profitability and reliability. By incorporating margin calculators during this stage, traders can simulate real-world scenarios more accurately and adjust their strategies to account for margin requirements. This ensures that their trading setups remain viable under different market conditions, preventing unexpected margin calls or the need for additional capital.
+Furthermore, integrating margin calculations into the [backtesting](/wiki/backtesting) process is crucial for aligning trading strategies with a trader’s risk tolerance and capital efficiency. Backtesting involves testing trading strategies against historical data to evaluate their potential profitability and reliability. By incorporating margin calculators during this stage, traders can simulate real-world scenarios more accurately and adjust their strategies to account for margin requirements. This ensures that their trading setups remain viable under different market conditions, preventing unexpected margin calls or the need for additional capital.
 
 Given the complexity of financial markets, traders and algorithm developers often use programming tools like Python to automate margin calculations and integrate them into algorithmic trading systems. Here is a simplified example of how a margin requirement might be calculated in Python:
 

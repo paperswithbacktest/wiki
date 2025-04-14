@@ -30,7 +30,7 @@ However, small-cap stocks also come with more risk. Because these companies are 
 
 Investing in small-cap stocks can be risky. These companies are smaller and often newer, so they might not have as much money or be as stable as bigger companies. This means they can be more affected by economic changes or problems within the company. If something goes wrong, like the company not making enough money or facing competition, the stock price can drop a lot.
 
-Another risk is that small-cap stocks can be harder to sell quickly. They might not be traded as often as bigger stocks, so if you need to sell your shares, it might take longer or you might not get as good a price. This is called lower liquidity, and it can make it harder to get your money out when you need it.
+Another risk is that small-cap stocks can be harder to sell quickly. They might not be traded as often as bigger stocks, so if you need to sell your shares, it might take longer or you might not get as good a price. This is called lower [liquidity](/wiki/liquidity-risk-premium), and it can make it harder to get your money out when you need it.
 
 Overall, while small-cap stocks can offer big rewards if the company does well, they also come with more risk. It's important to think carefully about these risks and maybe not put all your money into small-cap stocks. Spreading your investments across different types of stocks can help manage the risk.
 

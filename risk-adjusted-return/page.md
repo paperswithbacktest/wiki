@@ -54,7 +54,7 @@ The Treynor Ratio is most useful for people who care a lot about how their inves
 
 ## How can the Information Ratio help in evaluating fund managers?
 
-The Information Ratio is a way to see how good a fund manager is at picking investments. It looks at how much more money the manager makes compared to a benchmark, like a stock market index, and then divides that by how much the extra money goes up and down. If the Information Ratio is high, it means the manager is doing a good job at beating the benchmark without taking too much risk. This helps investors decide if the manager is worth the fees they charge.
+The Information Ratio is a way to see how good a fund manager is at [picking](/wiki/asset-class-picking) investments. It looks at how much more money the manager makes compared to a benchmark, like a stock market index, and then divides that by how much the extra money goes up and down. If the Information Ratio is high, it means the manager is doing a good job at beating the benchmark without taking too much risk. This helps investors decide if the manager is worth the fees they charge.
 
 The Information Ratio is useful because it focuses on the skill of the fund manager. Not all fund managers can beat the market all the time, but those with a high Information Ratio show they can do it more often and more consistently. This makes the Information Ratio a good tool for investors who want to find a manager who can really add value to their investments.
 

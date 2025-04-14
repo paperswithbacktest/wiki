@@ -34,7 +34,7 @@ Tracking these unit sales helps you understand how your business is doing. If yo
 
 ## How does unit sales differ from revenue?
 
-Unit sales and revenue are two different but related ways to measure how a business is doing. Unit sales count the number of items sold. For example, if you sold 50 books in a week, your unit sales for that week are 50 books. This number tells you how many things you sold, but it doesn't tell you how much money you made.
+Unit sales and revenue are two different but related ways to measure how a business is doing. Unit sales count the number of items sold. For example, if you sold 50 [books](/wiki/algo-trading-books) in a week, your unit sales for that week are 50 books. This number tells you how many things you sold, but it doesn't tell you how much money you made.
 
 Revenue, on the other hand, is the total amount of money a business makes from sales. It's calculated by multiplying the number of items sold by the price of each item. For instance, if you sold 50 books at $10 each, your revenue would be $500. Revenue gives you a better idea of the financial health of your business because it shows the actual money coming in, not just the number of items sold.
 
@@ -42,7 +42,7 @@ Both unit sales and revenue are important for a business. Unit sales help you un
 
 ## What factors can influence unit sales?
 
-Many things can affect how many items a business sells. One big factor is the price of the product. If the price is too high, people might not buy it, and unit sales will go down. But if the price is just right, or if there's a good sale, more people might buy it, and unit sales can go up. Another important factor is how much people want or need the product. If it's something popular or useful, like the latest smartphone or a warm coat in winter, more people will buy it, which means more unit sales.
+Many things can affect how many items a business sells. One big [factor](/wiki/factor-investing) is the price of the product. If the price is too high, people might not buy it, and unit sales will go down. But if the price is just right, or if there's a good sale, more people might buy it, and unit sales can go up. Another important factor is how much people want or need the product. If it's something popular or useful, like the latest smartphone or a warm coat in winter, more people will buy it, which means more unit sales.
 
 Marketing and advertising can also make a big difference. Good ads can make people want to buy a product more, which can lead to higher unit sales. The time of year matters too. Some products sell better at certain times, like toys during the holiday season or swimsuits in the summer. This can cause unit sales to go up or down depending on the time of year.
 
@@ -202,5 +202,5 @@ This example reinforces the significance of sales calculations and ASP in assess
    - *Algorithmic Traders Association*: Provides networking opportunities, access to workshops, and resources for professional development in algorithmic trading.
    - *CFA Institute*: Offers various resources and certifications for financial analysts, including materials on financial forecasting and trading strategies.
 
-Encouraging further education and ongoing learning through these resources can significantly enhance one's understanding and capabilities in financial analysis and algorithmic trading.
+Encouraging further education and ongoing learning through these resources can significantly enhance one's understanding and capabilities in financial analysis and [algorithmic trading](/wiki/algorithmic-trading).
 

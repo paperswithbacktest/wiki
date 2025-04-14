@@ -24,7 +24,7 @@ Companies like using statement stuffers because it's a cheap way to talk to thei
 
 Statement stuffers are often used by companies to tell their customers about new products or services. For example, a phone company might use a stuffer to let people know about a new phone plan or a special deal on a new phone. This helps the company share important news without having to send out a separate letter or email.
 
-Another common use of statement stuffers is to promote special offers or discounts. A credit card company might include a stuffer with a bill to tell customers about a cashback offer or a lower interest rate for a limited time. This can encourage customers to use their card more often or take advantage of the deal.
+Another common use of statement stuffers is to promote special offers or discounts. A credit card company might include a stuffer with a bill to tell customers about a cashback offer or a lower [interest rate](/wiki/interest-rate-trading-strategies) for a limited time. This can encourage customers to use their card more often or take advantage of the deal.
 
 Sometimes, statement stuffers are also used to share important information or reminders. For instance, a utility company might use a stuffer to remind customers about a change in billing dates or to provide tips on how to save energy. This helps keep customers informed and can improve their experience with the company.
 

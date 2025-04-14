@@ -80,7 +80,7 @@ Traders need to keep an eye on global events to make good switches. Things like 
 
 ## What future trends might affect the use of switches in commodity trading?
 
-In the future, technology might change how traders use switches in commodity trading. New computer programs and artificial intelligence could make it easier for traders to predict when to switch from one commodity to another. These tools can look at a lot of data quickly and help traders make better decisions. This means switches might become more common and more effective because traders can use technology to find the best times to switch and avoid big losses.
+In the future, technology might change how traders use switches in commodity trading. New computer programs and [artificial intelligence](/wiki/ai-artificial-intelligence) could make it easier for traders to predict when to switch from one commodity to another. These tools can look at a lot of data quickly and help traders make better decisions. This means switches might become more common and more effective because traders can use technology to find the best times to switch and avoid big losses.
 
 Another trend that might affect switches is changes in the world's environment and energy needs. As countries try to use less oil and more renewable energy, the demand for different commodities might change. Traders might need to switch more often to keep up with these changes. For example, if more people start using electric cars, the demand for oil might go down, but the demand for metals used in batteries might go up. Traders who can switch quickly to these new commodities might do better in the future.
 

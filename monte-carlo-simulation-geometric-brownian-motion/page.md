@@ -34,7 +34,7 @@ Another reason GBM is popular is that it's easy to work with in math and compute
 
 ## What are the key parameters of a GBM model?
 
-The key parameters of a Geometric Brownian Motion (GBM) model are the initial value, the drift rate, and the volatility. The initial value is just the starting price of whatever you're modeling, like a stock. The drift rate is how much the price usually grows each year, kind of like a steady push upwards. Volatility is how much the price jumps around randomly each day. These three things together help the model guess how the price might change over time.
+The key parameters of a Geometric Brownian Motion (GBM) model are the initial value, the drift rate, and the [volatility](/wiki/volatility-trading-strategies). The initial value is just the starting price of whatever you're modeling, like a stock. The drift rate is how much the price usually grows each year, kind of like a steady push upwards. Volatility is how much the price jumps around randomly each day. These three things together help the model guess how the price might change over time.
 
 These parameters are important because they let the model mimic how stock prices move in real life. The drift rate and volatility work together to show that prices usually grow but can also go up and down a lot. By tweaking these numbers, people can make the model fit different stocks or other things they want to predict. This makes GBM a flexible tool for figuring out what might happen in the future.
 

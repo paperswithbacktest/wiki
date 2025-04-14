@@ -24,7 +24,7 @@ On the other hand, trade date accounting records a transaction on the day you ag
 
 In settlement date accounting, the first step is to identify the settlement date of a transaction. This is the date when the buyer actually receives the asset, like a stock or a bond, and the seller gets the money. For example, if you buy a stock, you need to know when that stock will officially be yours and when you have to pay for it. This date is important because it's when you record the transaction in your accounts.
 
-Once you know the settlement date, you record the transaction in your financial records on that day. So, if the settlement date for buying a stock is three days after you agree to buy it, you wait until those three days have passed before you write it down in your books. This helps you keep track of when money and assets are actually moving in and out of your accounts, which is important for managing your cash flow and knowing exactly what you own and owe at any time.
+Once you know the settlement date, you record the transaction in your financial records on that day. So, if the settlement date for buying a stock is three days after you agree to buy it, you wait until those three days have passed before you write it down in your [books](/wiki/algo-trading-books). This helps you keep track of when money and assets are actually moving in and out of your accounts, which is important for managing your cash flow and knowing exactly what you own and owe at any time.
 
 ## What are the advantages of using settlement date accounting for businesses?
 

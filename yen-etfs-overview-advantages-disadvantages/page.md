@@ -22,7 +22,7 @@ These ETFs are traded on stock exchanges, just like regular stocks. This means y
 
 ## What are the main types of Yen ETFs available in the market?
 
-There are mainly two types of Yen ETFs you can find in the market. The first type is called a currency ETF. This kind of ETF directly tracks the value of the yen against another currency, like the U.S. dollar. If you think the yen will get stronger compared to the dollar, you might buy shares in this ETF to make money from that change. These ETFs are simple and let you invest in the yen without having to trade currencies yourself.
+There are mainly two types of Yen ETFs you can find in the market. The first type is called a currency [ETF](/wiki/etf-trading-strategies). This kind of ETF directly tracks the value of the yen against another currency, like the U.S. dollar. If you think the yen will get stronger compared to the dollar, you might buy shares in this ETF to make money from that change. These ETFs are simple and let you invest in the yen without having to trade currencies yourself.
 
 The second type is called a currency-hedged ETF. This type of ETF is a bit more complex. It invests in foreign assets, like stocks or bonds, but it uses financial tools to protect against changes in the yen's value. This means if the yen gets weaker, the ETF tries to keep your investment safe. These ETFs are good if you want to invest in foreign markets but don't want to worry about the yen's ups and downs. Both types of Yen ETFs can help you manage your investments and take advantage of currency movements.
 

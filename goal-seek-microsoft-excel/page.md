@@ -86,7 +86,7 @@ Goal Seek is a built-in feature of Microsoft Excel that assists users in identif
 
 For instance, when users need to determine the monthly payment required to pay off a loan within a specific period, Goal Seek can alter the payment amount until the balance reaches zero. Such calculations are vital for financial planning and forecasting, making Goal Seek an essential feature for professionals dealing with financial data.
 
-The process of using Goal Seek involves specifying the cell containing the formula, setting a target value, and identifying the cell Excel will adjust to meet this target. A typical application might involve calculating a target profit margin. For a given revenue and expense scenario, Goal Seek can adjust a variable—such as price or volume—until the profit margin reaches the desired percentage.
+The process of using Goal Seek involves specifying the cell containing the formula, setting a target value, and identifying the cell Excel will adjust to meet this target. A typical application might involve calculating a target profit margin. For a given revenue and expense scenario, Goal Seek can adjust a variable—such as price or [volume](/wiki/volume-trading-strategy)—until the profit margin reaches the desired percentage.
 
 A practical example can be demonstrated through a simple financial model. Suppose you have the formula for monthly loan payments:
 

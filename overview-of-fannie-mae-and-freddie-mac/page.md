@@ -74,7 +74,7 @@ Another challenge is keeping up with changes in the housing market. Interest rat
 
 Fannie Mae and Freddie Mac help keep mortgage rates steady. They do this by buying mortgages from banks and then selling them to investors. When they buy a lot of mortgages, it means banks have more money to lend out, which can help keep interest rates lower. If they buy fewer mortgages, it can make rates go up because banks might not have as much money to lend.
 
-They also help by setting standards for the mortgages they will buy. If a mortgage meets their rules, it's called a "conforming" loan, and it usually has a lower interest rate. This is because investors feel safer buying these loans. So, by setting these standards, Fannie Mae and Freddie Mac help make sure that many people can get loans with good rates, which makes buying a home more affordable for a lot of families.
+They also help by setting standards for the mortgages they will buy. If a mortgage meets their rules, it's called a "conforming" loan, and it usually has a lower [interest rate](/wiki/interest-rate-trading-strategies). This is because investors feel safer buying these loans. So, by setting these standards, Fannie Mae and Freddie Mac help make sure that many people can get loans with good rates, which makes buying a home more affordable for a lot of families.
 
 ## What are the future prospects for Fannie Mae and Freddie Mac in the housing finance system?
 

@@ -118,7 +118,7 @@ Accrued liabilities consist of expenses that have been incurred but not yet paid
 
 ### Common Evaluation Metrics
 
-Two prevalent metrics for assessing current liabilities are the current ratio and the quick ratio. These ratios provide insight into a company's liquidity, that is, its ability to fulfill short-term obligations efficiently.
+Two prevalent metrics for assessing current liabilities are the current ratio and the quick ratio. These ratios provide insight into a company's [liquidity](/wiki/liquidity-risk-premium), that is, its ability to fulfill short-term obligations efficiently.
 
 1. **Current Ratio**: This is calculated as the ratio of current assets to current liabilities. 
 $$

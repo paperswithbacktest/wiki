@@ -82,7 +82,7 @@ Sharing Excel workbooks securely can be done in different ways. You can save you
 
 ## How do you get started with Excel for algo trading?
 
-Excel offers a practical entry point for traders eager to explore algorithmic trading, primarily due to its user-friendly interface and widespread accessibility. Excel's built-in functions and flexibility make it an ideal choice for prototyping trading strategies, backtesting, and analyzing trade performance.
+Excel offers a practical entry point for traders eager to explore [algorithmic trading](/wiki/algorithmic-trading), primarily due to its user-friendly interface and widespread accessibility. Excel's built-in functions and flexibility make it an ideal choice for prototyping trading strategies, [backtesting](/wiki/backtesting), and analyzing trade performance.
 
 ### Backtesting with Excel
 

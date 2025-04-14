@@ -30,7 +30,7 @@ If not enough people use the road or bridge, there might not be enough money fro
 
 ## Can you explain the process of issuing toll revenue bonds?
 
-When a government or special authority wants to build or fix a road, bridge, or tunnel, they can issue toll revenue bonds to get the money they need. First, they decide how much money they need for the project. Then, they work with financial experts to create the bond. They set the interest rate that people who buy the bonds will get and how long it will take to pay back the money. They also make a plan for how they will use the toll money to pay back the bondholders.
+When a government or special authority wants to build or fix a road, bridge, or tunnel, they can issue toll revenue bonds to get the money they need. First, they decide how much money they need for the project. Then, they work with financial experts to create the bond. They set the [interest rate](/wiki/interest-rate-trading-strategies) that people who buy the bonds will get and how long it will take to pay back the money. They also make a plan for how they will use the toll money to pay back the bondholders.
 
 Once the bond is ready, the government or authority will sell it to people and organizations who want to invest their money. They might advertise the bond to attract buyers or work with banks and other financial companies to help sell it. When people buy the bonds, they give money to the government or authority, which is then used to build or fix the road, bridge, or tunnel. Over time, the money collected from tolls is used to pay back the bondholders with interest, until the bond is fully paid off.
 

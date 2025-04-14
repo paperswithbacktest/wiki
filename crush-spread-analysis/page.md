@@ -54,7 +54,7 @@ On the other hand, during times when soybeans are not being harvested, the suppl
 
 The crush spread is affected by many things, but the main ones are the prices of soybeans, soybean oil, and soybean meal. If the price of soybeans goes up a lot, the crush spread might not be as good because the cost of the soybeans is higher than the value of the oil and meal. But if the price of soybean oil and meal goes up more than soybeans, the crush spread can be more profitable. The supply and demand for these products also play a big role. If there are a lot of soybeans but not much demand for oil and meal, the crush spread might not be good. But if there is a lot of demand for oil and meal and not many soybeans, the crush spread could be better.
 
-Another important factor is the cost of processing soybeans into oil and meal. If it costs a lot to crush the soybeans, it can make the crush spread less profitable. Seasonal changes also affect the crush spread. During harvest time, there are more soybeans, which can make their price go down. But if people need a lot of oil and meal during that time, their prices might go up, making the crush spread better. Traders need to watch all these things to decide when it's a good time to do a crush spread and make money from it.
+Another important [factor](/wiki/factor-investing) is the cost of processing soybeans into oil and meal. If it costs a lot to crush the soybeans, it can make the crush spread less profitable. Seasonal changes also affect the crush spread. During harvest time, there are more soybeans, which can make their price go down. But if people need a lot of oil and meal during that time, their prices might go up, making the crush spread better. Traders need to watch all these things to decide when it's a good time to do a crush spread and make money from it.
 
 ## How can historical data be used to predict future crush spread movements?
 
@@ -82,7 +82,7 @@ Another important model is the Monte Carlo simulation. This is a way to test dif
 
 ## What is a Crush Spread?
 
-A crush spread is a trading strategy utilized in the agricultural commodities market, specifically targeting the soybean processing chain, involving soybeans, soybean oil, and soybean meal. This strategy is used primarily to hedge against price volatility associated with the soybean market and to enhance profit margins for processors and traders.
+A crush spread is a trading strategy utilized in the agricultural commodities market, specifically targeting the soybean processing chain, involving soybeans, soybean oil, and soybean meal. This strategy is used primarily to hedge against price [volatility](/wiki/volatility-trading-strategies) associated with the soybean market and to enhance profit margins for processors and traders.
 
 The crush spread derives its name from the process of "crushing" soybeans into their derivative products: soybean oil and soybean meal. Traders and processors often use this spread as a measure of profitability, reflecting the difference between the cost of raw soybeans and the combined sales value of its derived products, soybean oil and soybean meal. The basic formula for the crush spread can be represented as follows:
 

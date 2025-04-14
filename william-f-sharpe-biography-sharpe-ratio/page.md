@@ -86,7 +86,7 @@ William F. Sharpe, born in 1934, is a seminal figure in the field of financial e
 
 The CAPM introduced a systematic approach to determine the expected return on an asset, accounting for its inherent risk relative to the overall market. This model laid the groundwork for modern portfolio theory, providing investors with a framework for making more informed asset allocation decisions by quantifying the trade-off between risk and expected return.
 
-Equally impactful, the Sharpe Ratio is a tool that measures the risk-adjusted return of an investment. By comparing the excess return of an asset over the risk-free rate, adjusted for volatility, the Sharpe Ratio helps investors discern whether investment returns are due to smart decision-making or merely higher risk levels. The formula is given by:
+Equally impactful, the Sharpe Ratio is a tool that measures the risk-adjusted return of an investment. By comparing the excess return of an asset over the risk-free rate, adjusted for [volatility](/wiki/volatility-trading-strategies), the Sharpe Ratio helps investors discern whether investment returns are due to smart decision-making or merely higher risk levels. The formula is given by:
 
 $$
 \text{Sharpe Ratio} = \frac{R_p - R_f}{\sigma_p}

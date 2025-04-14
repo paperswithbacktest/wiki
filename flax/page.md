@@ -34,7 +34,7 @@ Overall, the choice between Flax, TensorFlow, and PyTorch depends on what you ne
 
 ## What are the key components of Flax?
 
-Flax has several key parts that make it work well. One important part is the Flax Module, which is like a building block for creating neural networks. You can use the Flax Module to define the structure of your model, like how many layers it has and what kind of operations each layer does. For example, you might write a simple neural network in Flax like this: ```python
+Flax has several key parts that make it work well. One important part is the Flax Module, which is like a building block for creating neural networks. You can use the Flax Module to define the structure of your model, like how many layers it has and what kind of operations each layer does. For example, you might write a simple [neural network](/wiki/neural-network) in Flax like this: ```python
 import jax
 import flax.linen as nn
 
@@ -47,7 +47,7 @@ class SimpleNet(nn.Module):
         return x
 ```. This code defines a neural network with two dense layers and a ReLU activation function.
 
-Another key part of Flax is the use of JAX, which helps Flax run calculations quickly on GPUs and TPUs. JAX makes it easy to do things like automatic differentiation, which is important for training machine learning models. Flax also has tools for managing the training process, like optimizers and learning rate schedules. These tools help you fine-tune how your model learns from data, making it easier to get good results. Together, these components make Flax a powerful tool for building and training AI models.
+Another key part of Flax is the use of JAX, which helps Flax run calculations quickly on GPUs and TPUs. JAX makes it easy to do things like automatic differentiation, which is important for training [machine learning](/wiki/machine-learning) models. Flax also has tools for managing the training process, like optimizers and learning rate schedules. These tools help you fine-tune how your model learns from data, making it easier to get good results. Together, these components make Flax a powerful tool for building and training AI models.
 
 ## How do you install Flax and set up a basic environment?
 

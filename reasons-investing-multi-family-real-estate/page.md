@@ -60,7 +60,7 @@ You can also use seller financing to buy multi-family real estate. This is when 
 
 ## How can one assess the market demand for multi-family housing in a specific area?
 
-To figure out if people want to live in multi-family housing in a certain area, you can start by looking at how many apartments are empty. If a lot of apartments are empty, it might mean that not many people want to live there. But if most apartments are full, it's a good sign that people like living in that area. You can also talk to local real estate agents and property managers. They know a lot about what's happening in the area and can tell you if people are moving in or out.
+To figure out if people want to live in multi-family housing in a certain area, you can start by looking at how many apartments are empty. If a lot of apartments are empty, it might mean that not many people want to live there. But if most apartments are full, it's a good sign that people like living in that area. You can also talk to local real estate [agents](/wiki/agents) and property managers. They know a lot about what's happening in the area and can tell you if people are moving in or out.
 
 Another way to check the demand is by looking at job growth and new businesses in the area. If a lot of new jobs are being created, more people might need a place to live nearby. You can also look at how much rent is going up or down. If rent is going up, it usually means more people want to live there than there are apartments available. Checking the local population growth can also help. If more people are moving into the area, it's likely that the demand for multi-family housing will go up too.
 

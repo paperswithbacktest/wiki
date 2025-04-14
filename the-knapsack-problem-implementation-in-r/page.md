@@ -152,7 +152,7 @@ The R implementation of the Knapsack problem using simulated annealing is effici
 
 Moreover, exploring parallel computing capabilities in R can improve efficiency for larger problem instances. Implementing parallel processing can reduce computational time significantly, especially for numerous iterations or when dealing with a large set of potential solution spaces.
 
-Overall, while the current implementation is functional, evaluating alternative programming languages or incorporating hybrid approaches may lead to substantial performance gains, facilitating more extensive and complex problem-solving in algorithmic trading applications.
+Overall, while the current implementation is functional, evaluating alternative programming languages or incorporating hybrid approaches may lead to substantial performance gains, facilitating more extensive and complex problem-solving in [algorithmic trading](/wiki/algorithmic-trading) applications.
 
 ## References & Further Reading
 

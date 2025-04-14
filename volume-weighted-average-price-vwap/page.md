@@ -30,7 +30,7 @@ Traders often use VWAP to guide their trading strategies. For example, some migh
 
 VWAP can be used for many types of securities, like stocks, ETFs, and futures. It works best with securities that trade a lot, because it needs a good amount of trading data to be accurate. If a security doesn't trade often, the VWAP might not be very useful because there won't be enough trades to make a reliable average.
 
-Even though VWAP is most commonly used for stocks, it can also be applied to other securities. For example, traders in the forex market or those trading commodities might use VWAP to help them make decisions. However, the effectiveness of VWAP in these markets depends on the trading volume and how often the security changes hands.
+Even though VWAP is most commonly used for stocks, it can also be applied to other securities. For example, traders in the [forex](/wiki/forex-system) market or those trading commodities might use VWAP to help them make decisions. However, the effectiveness of VWAP in these markets depends on the trading volume and how often the security changes hands.
 
 ## How does VWAP differ from other average price indicators?
 
@@ -64,7 +64,7 @@ Daily VWAP, on the other hand, is calculated for the whole trading day. It shows
 
 ## Can VWAP be used in algorithmic trading strategies?
 
-Yes, VWAP can be used in algorithmic trading strategies. Traders use VWAP to set up automatic trading systems that buy or sell stocks based on how the current price compares to the VWAP. If the price is below the VWAP, the algorithm might decide to buy the stock because it's cheaper than the average price for the day. If the price is above the VWAP, the algorithm might choose to sell or wait for a better price. This helps the algorithm try to get the best possible price for trades.
+Yes, VWAP can be used in [algorithmic trading](/wiki/algorithmic-trading) strategies. Traders use VWAP to set up automatic trading systems that buy or sell stocks based on how the current price compares to the VWAP. If the price is below the VWAP, the algorithm might decide to buy the stock because it's cheaper than the average price for the day. If the price is above the VWAP, the algorithm might choose to sell or wait for a better price. This helps the algorithm try to get the best possible price for trades.
 
 VWAP is especially useful in algorithmic trading because it can be updated in real-time. This means the algorithm can quickly change its trading decisions as new trades happen throughout the day. Many big investors and trading firms use VWAP algorithms to spread out their trades and minimize the impact on the stock's price. By breaking up large orders into smaller ones and trading them at different times, they can try to buy or sell at prices that are close to the VWAP, which helps them get better overall prices for their trades.
 

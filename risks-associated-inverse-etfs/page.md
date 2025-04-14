@@ -62,7 +62,7 @@ If you do hold an inverse ETF for more than a year, any profit you make would be
 
 Liquidity can make a big difference in how risky it is to trade inverse ETFs. When an ETF is liquid, it means a lot of people are buying and selling it, so it's easy to trade. If an inverse ETF is very liquid, you can buy or sell it quickly without the price changing a lot. This is good because it means you can get in and out of your investment easily. But if an inverse ETF is not very liquid, it can be harder to sell it when you want to. This can be a problem if the market is moving fast and you need to get out of your investment quickly.
 
-If you're trading an inverse ETF that isn't very liquid, you might have to sell it for less than you wanted. This is called a "liquidity risk." It can make your losses bigger if the market goes against you and you can't sell the ETF at a good price. So, it's important to check how liquid an inverse ETF is before you buy it. If it's not very liquid, you might want to think twice about investing in it, especially if you think you might need to sell it quickly.
+If you're trading an inverse ETF that isn't very liquid, you might have to sell it for less than you wanted. This is called a "[liquidity](/wiki/liquidity-risk-premium) risk." It can make your losses bigger if the market goes against you and you can't sell the ETF at a good price. So, it's important to check how liquid an inverse ETF is before you buy it. If it's not very liquid, you might want to think twice about investing in it, especially if you think you might need to sell it quickly.
 
 ## What are the potential regulatory risks associated with Inverse ETFs?
 

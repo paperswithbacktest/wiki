@@ -54,7 +54,7 @@ But if the market price is higher than the strike price, it doesn't make sense t
 
 When you exercise a put option, it can affect your taxes. If you make money from exercising the put option, that profit is usually considered a capital gain. In the United States, how much tax you pay on that gain depends on how long you held the asset before selling it. If you held it for less than a year, it's a short-term capital gain, and you'll pay your regular income tax rate on it. If you held it for more than a year, it's a long-term capital gain, and you'll pay a lower tax rate, usually between 0% and 20%.
 
-If you lose money when you exercise a put option, you can use that loss to reduce your taxes. This is called a capital loss. You can use capital losses to offset any capital gains you have in the same year. If your losses are more than your gains, you can use up to $3,000 of that loss to reduce your other income. If you still have more losses after that, you can carry them over to future years to use against future gains or income.
+If you lose money when you exercise a put option, you can use that loss to reduce your taxes. This is called a capital loss. You can use capital losses to offset any capital gains you have in the same year. If your losses are more than your gains, you can use up to $3,000 of that loss to reduce your other income. If you still have more losses after that, you can [carry](/wiki/carry-trading) them over to future years to use against future gains or income.
 
 ## How can exercising a put option be used as part of a broader investment strategy?
 

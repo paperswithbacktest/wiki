@@ -76,7 +76,7 @@ Another limitation is that normal distribution assumptions can lead to mistakes 
 
 ## How does the Central Limit Theorem relate to the normal distribution?
 
-The Central Limit Theorem is a big idea in statistics that helps explain why the normal distribution is so important. It says that if you take a bunch of samples from any population, no matter what the shape of the original data looks like, the average of these samples will start to look like a normal distribution as you take more and more samples. This is really useful because it means that even if the data you're working with doesn't look like a bell curve at first, if you look at the averages of many samples, you'll see a normal distribution.
+The Central Limit Theorem is a big idea in [statistics](/wiki/bayesian-statistics) that helps explain why the normal distribution is so important. It says that if you take a bunch of samples from any population, no matter what the shape of the original data looks like, the average of these samples will start to look like a normal distribution as you take more and more samples. This is really useful because it means that even if the data you're working with doesn't look like a bell curve at first, if you look at the averages of many samples, you'll see a normal distribution.
 
 This theorem is why the normal distribution shows up so often in real life. For example, if you measure the heights of a lot of people, the average height of small groups of these people will follow a normal distribution, even if the heights of all people don't. This makes the normal distribution a powerful tool for making predictions and understanding data, because it gives us a way to work with almost any kind of data by looking at the averages of samples.
 

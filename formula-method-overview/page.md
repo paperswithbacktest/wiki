@@ -60,7 +60,7 @@ Another limitation is that the Formula Method might not work well for problems t
 
 To get better at using the Formula Method, you should practice a lot. Start with simple problems and use the formulas you know. As you get more comfortable, try harder problems. It's like learning to ride a bike. You start with training wheels and then take them off when you're ready. The more you practice, the easier it will be to remember the formulas and use them correctly. You can also try making up your own problems to solve. This helps you understand how to use the formulas in different situations.
 
-Another way to improve is to ask for help when you need it. If you're stuck on a problem, don't be afraid to ask a teacher or a friend. They can show you the right formula to use and help you understand how to apply it. You can also use books or online resources to learn more about different formulas and how they work. The key is to keep practicing and learning, so you get better at using the Formula Method to solve all kinds of problems.
+Another way to improve is to ask for help when you need it. If you're stuck on a problem, don't be afraid to ask a teacher or a friend. They can show you the right formula to use and help you understand how to apply it. You can also use [books](/wiki/algo-trading-books) or online resources to learn more about different formulas and how they work. The key is to keep practicing and learning, so you get better at using the Formula Method to solve all kinds of problems.
 
 ## What tools or software can assist in implementing the Formula Method?
 
@@ -78,7 +78,7 @@ In another case, scientists were studying how fast a new medicine worked in the 
 
 One of the latest trends in the Formula Method is using computers and software to make it easier and faster. Programs like Excel and Google Sheets can now handle complex formulas and do a lot of calculations at once. This helps people solve big problems quickly without having to do all the math by hand. Also, there are new apps and online tools that let you type in a problem and the software will show you the right formula to use and how to solve it. This makes learning and using the Formula Method a lot easier for everyone.
 
-Another advancement is the use of artificial intelligence (AI) in the Formula Method. AI can learn from past problems and suggest the best formulas to use for new ones. This means that even if you're not sure which formula to use, the AI can help you pick the right one. This is really helpful in fields like engineering and science where you have to solve a lot of different types of problems. AI also helps by checking your work to make sure you used the formula correctly, which can prevent mistakes and save time.
+Another advancement is the use of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) in the Formula Method. AI can learn from past problems and suggest the best formulas to use for new ones. This means that even if you're not sure which formula to use, the AI can help you pick the right one. This is really helpful in fields like engineering and science where you have to solve a lot of different types of problems. AI also helps by checking your work to make sure you used the formula correctly, which can prevent mistakes and save time.
 
 ## What are popular strategies in algo trading?
 
@@ -117,7 +117,7 @@ elif z_score < -2:
     print("Consider buying the asset")
 ```
 
-Successfully deploying these strategies demands considerable computational resources and expertise in financial modeling, making them more accessible to institutional investors and high-frequency traders. Nonetheless, the underlying principles remain relevant to traders aiming to harness the potential of algorithmic trading.
+Successfully deploying these strategies demands considerable computational resources and expertise in financial modeling, making them more accessible to institutional investors and high-frequency traders. Nonetheless, the underlying principles remain relevant to traders aiming to harness the potential of [algorithmic trading](/wiki/algorithmic-trading).
 
 ## References & Further Reading
 

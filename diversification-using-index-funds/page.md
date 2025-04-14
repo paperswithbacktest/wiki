@@ -28,7 +28,7 @@ For example, if you invest in an S&P 500 index fund, you're buying a tiny piece 
 
 ## What are the benefits of using index funds for diversification?
 
-Index funds are a great way to diversify your investments because they let you own a little bit of a lot of different companies all at once. Instead of picking one or two stocks, which can be risky if those companies do badly, you get to spread your money across many stocks. This means if one company doesn't do well, it won't hurt your whole investment because the other companies might do better and make up for it. It's like having a safety net for your money.
+Index funds are a great way to diversify your investments because they let you own a little bit of a lot of different companies all at once. Instead of [picking](/wiki/asset-class-picking) one or two stocks, which can be risky if those companies do badly, you get to spread your money across many stocks. This means if one company doesn't do well, it won't hurt your whole investment because the other companies might do better and make up for it. It's like having a safety net for your money.
 
 Another big benefit of using index funds for diversification is that they are usually cheaper than other types of investments. Because index funds just try to match the performance of a market index and don't need a lot of buying and selling, they have lower fees. This means more of your money stays in your pocket instead of going to pay for expensive management fees. Over time, these lower costs can really add up and help your investments grow more.
 
@@ -82,7 +82,7 @@ An international index fund focuses only on companies outside of the U.S., which
 
 One advanced strategy to enhance portfolio diversification with index funds is to use asset allocation funds. These funds mix different types of index funds, like stocks, bonds, and real estate, into one fund. This way, you can have a diversified portfolio with just one investment. For example, you might choose an asset allocation fund that has 60% in U.S. stocks, 30% in international stocks, and 10% in bonds. This can save you time because you don't have to pick and manage different index funds yourself. It also helps you stay diversified because the fund manager will rebalance the mix of investments to keep it in line with the fund's goals.
 
-Another strategy is to use factor-based index funds, which focus on specific characteristics of companies, like their size, value, or momentum. By adding these types of funds to your portfolio, you can get exposure to different parts of the market that might do well in different economic conditions. For example, you might add a small-cap value index fund to your mix of broad market funds. This can help you capture different sources of returns and reduce the risk of your portfolio because these factors don't always move in the same direction as the overall market. By carefully choosing a mix of traditional and factor-based index funds, you can build a more robust and diversified portfolio.
+Another strategy is to use [factor](/wiki/factor-investing)-based index funds, which focus on specific characteristics of companies, like their size, value, or [momentum](/wiki/momentum). By adding these types of funds to your portfolio, you can get exposure to different parts of the market that might do well in different economic conditions. For example, you might add a small-cap value index fund to your mix of broad market funds. This can help you capture different sources of returns and reduce the risk of your portfolio because these factors don't always move in the same direction as the overall market. By carefully choosing a mix of traditional and factor-based index funds, you can build a more robust and diversified portfolio.
 
 ## What are the challenges and risks in diversified algorithmic portfolios?
 
@@ -100,7 +100,7 @@ $$
 
 where $\mathbf{w}$ is the vector of weights allocated to each asset in the portfolio. An increase in correlations among assets results in a larger value of $\Sigma$, leading to higher portfolio variance, thus highlighting the challenges faced during correlated market downturns.
 
-To mitigate these challenges, investors can employ algorithms capable of dynamically adjusting asset allocations in response to market changes. Advanced machine learning techniques, such as [reinforcement learning](/wiki/reinforcement-learning), can be implemented to continually learn from market dynamics and optimize portfolio strategies accordingly. Utilizing these technologies aids in balancing diversification benefits with the associated risks, enhancing the resilience of diversified algorithmic portfolios in unpredictable market conditions.
+To mitigate these challenges, investors can employ algorithms capable of dynamically adjusting asset allocations in response to market changes. Advanced [machine learning](/wiki/machine-learning) techniques, such as [reinforcement learning](/wiki/reinforcement-learning), can be implemented to continually learn from market dynamics and optimize portfolio strategies accordingly. Utilizing these technologies aids in balancing diversification benefits with the associated risks, enhancing the resilience of diversified algorithmic portfolios in unpredictable market conditions.
 
 ## References & Further Reading
 

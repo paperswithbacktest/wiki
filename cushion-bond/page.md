@@ -38,7 +38,7 @@ Lastly, cushion bonds might not give you as much return as other investments. Be
 
 Cushion bonds are different from other types of bonds because they have a special part called an embedded option. This option helps protect the bond's value when interest rates change. Regular bonds, like government or corporate bonds, don't have this extra protection. So, if interest rates go up, the value of regular bonds can drop a lot, but cushion bonds won't lose as much value because of the cushion.
 
-Another difference is that cushion bonds are usually safer but might not give you as much money as other bonds. For example, high-yield bonds can offer bigger returns, but they are riskier. Cushion bonds are good for people who want to keep their money safe and don't mind earning a bit less interest. On the other hand, if you're okay with taking more risk for a chance at higher returns, you might choose other types of bonds.
+Another difference is that cushion bonds are usually safer but might not give you as much money as other bonds. For example, high-yield bonds can offer bigger returns, but they are riskier. Cushion bonds are good for people who want to keep their money safe and don't mind [earning](/wiki/earning-announcement) a bit less interest. On the other hand, if you're okay with taking more risk for a chance at higher returns, you might choose other types of bonds.
 
 In summary, cushion bonds offer a middle ground between safety and returns. They are not as risky as high-yield bonds but might not give you as much money as those bonds. They are a good choice if you want to protect your investment from big changes in interest rates while still earning some interest.
 

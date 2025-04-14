@@ -141,5 +141,5 @@ In summary, the concepts of floating stock and shares outstanding are integral t
 5. **Online Courses and Lectures**
    - Coursera's *Foundations of Data Science* course provides foundational knowledge in data analysis, helpful for those interested in algorithmic trading.
 
-These resources serve as a foundation to explore floating stock, shares outstanding, and algorithmic trading, enabling readers to enhance their understanding and apply these concepts effectively.
+These resources serve as a foundation to explore floating stock, shares outstanding, and [algorithmic trading](/wiki/algorithmic-trading), enabling readers to enhance their understanding and apply these concepts effectively.
 

@@ -32,7 +32,7 @@ Some people might not be able to get unemployment benefits. If you quit your job
 
 To file for unemployment, you need to have lost your job through no fault of your own. This means you were laid off or your hours were cut, not that you quit or were fired for doing something wrong. You also need to have worked for a certain amount of time before you lost your job. Each state has its own rules about how long you need to have worked, so you should check with your state's unemployment office.
 
-While you are getting unemployment benefits, you need to be able to work and be actively looking for a new job. This means you should be applying for jobs and keeping records of your job search. You might need to report your job search activities to the unemployment office. If you start earning money from a new job, you need to tell the unemployment office because it can affect how much money you get from unemployment benefits.
+While you are getting unemployment benefits, you need to be able to work and be actively looking for a new job. This means you should be applying for jobs and keeping records of your job search. You might need to report your job search activities to the unemployment office. If you start [earning](/wiki/earning-announcement) money from a new job, you need to tell the unemployment office because it can affect how much money you get from unemployment benefits.
 
 ## How are unemployment benefits calculated?
 

@@ -18,7 +18,7 @@ In a sideways market, the price moves in a small range. It might go up a little,
 
 You can spot a sideways market by looking at a price chart. If the price of a stock or an investment stays between two levels for a long time, without going much higher or lower, that's a sign of a sideways market. The price might go up a bit, then down a bit, but it keeps coming back to the same area. This kind of movement makes a flat line or a small zigzag on the chart, showing that the market is not trending up or down.
 
-Another way to identify a sideways market is by watching the trading volume. In a sideways market, the volume is usually lower because fewer people are buying and selling. They might be waiting for a big change or news that could move the price. If you see that the volume stays low and the price doesn't break out of its range, it's likely you're in a sideways market.
+Another way to identify a sideways market is by watching the trading [volume](/wiki/volume-trading-strategy). In a sideways market, the volume is usually lower because fewer people are buying and selling. They might be waiting for a big change or news that could move the price. If you see that the volume stays low and the price doesn't break out of its range, it's likely you're in a sideways market.
 
 ## What causes a sideways market?
 
@@ -62,7 +62,7 @@ Another risk is that the market might suddenly change direction. If the price br
 
 Technical indicators can help traders understand what's happening in a sideways market. They show patterns and trends that might not be easy to see just by looking at the price. For example, moving averages can help traders see the middle of the price range. If the price stays above a moving average, it might be a good time to buy. If it stays below, it might be a good time to sell. Another useful indicator is the Relative Strength Index (RSI). It can show if a stock is overbought or oversold within its range, helping traders decide when to buy low or sell high.
 
-Using these indicators, traders can make better choices about when to enter and exit trades. For example, if the price hits the bottom of its range and the RSI shows it's oversold, a trader might decide it's a good time to buy. They can then wait for the price to go up to the top of the range and sell when the RSI shows it's overbought. This way, technical indicators help traders take advantage of the small moves in a sideways market, making small profits over time. But it's important to remember that no indicator is perfect, so traders should use them along with other tools and their own judgment.
+Using these indicators, traders can make better choices about when to enter and [exit](/wiki/exit-strategy) trades. For example, if the price hits the bottom of its range and the RSI shows it's oversold, a trader might decide it's a good time to buy. They can then wait for the price to go up to the top of the range and sell when the RSI shows it's overbought. This way, technical indicators help traders take advantage of the small moves in a sideways market, making small profits over time. But it's important to remember that no indicator is perfect, so traders should use them along with other tools and their own judgment.
 
 ## What role does volume play in confirming a sideways market?
 

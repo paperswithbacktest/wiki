@@ -128,5 +128,5 @@ By using prime costs as a foundational element of cost accounting, organizations
    - The `backtrader` Python library is an open-source tool for backtesting trading strategies, considering costs like spreads and fees.
    - `zipline` is another open-source Python library useful for algorithmic trading simulations which includes modules for cost management.
 
-These resources provide a starting point for those interested in expanding their understanding of cost accounting and algorithmic trading, covering both theoretical foundations and practical applications.
+These resources provide a starting point for those interested in expanding their understanding of cost accounting and [algorithmic trading](/wiki/algorithmic-trading), covering both theoretical foundations and practical applications.
 

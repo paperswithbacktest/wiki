@@ -84,7 +84,7 @@ However, expert investors don't just follow target prices blindly. They also loo
 
 ## What is the understanding of target prices in investing?
 
-Target prices play a pivotal role in investment decision-making by providing forward-looking estimates of a stock's potential future value. These estimates are grounded in fundamental analysis, which involves assessing the intrinsic value of a stock based on various quantitative and qualitative factors. Key components in determining a target price include earnings estimates, valuation multiples, and other relevant financial data.
+Target prices play a pivotal role in investment decision-making by providing forward-looking estimates of a stock's potential future value. These estimates are grounded in [fundamental analysis](/wiki/fundamental-analysis), which involves assessing the intrinsic value of a stock based on various quantitative and qualitative factors. Key components in determining a target price include earnings estimates, valuation multiples, and other relevant financial data.
 
 Fundamental analysis employs several methodologies to project these target prices. A common approach involves analyzing financial statements to derive indicators like Earnings per Share (EPS), which is a company's net profit divided by the number of outstanding shares. EPS is critical for evaluating a company's profitability on a per-share basis and is used alongside other metrics to construct an educated forecast of a stock's value.
 

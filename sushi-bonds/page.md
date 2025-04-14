@@ -42,7 +42,7 @@ Another benefit is that Sushi Bonds can give you a steady income. When you buy a
 
 Investing in Sushi Bonds comes with some risks that you should know about. One big risk is the change in currency value. If the yen gets weaker compared to your own money, you could lose money when you want to change your yen back to your own currency. This can happen even if the bond itself is doing well. Another risk is that the company issuing the bond might not be able to pay you back. If the company has money problems, they might not be able to give you your interest payments or return your money at the end.
 
-Another thing to think about is the interest rate risk. If interest rates go up after you buy a Sushi Bond, the value of your bond might go down. This is because new bonds would be paying more interest, making your bond less attractive to other investors. Also, Sushi Bonds might not be as easy to sell quickly as other investments. If you need your money back fast, you might have trouble finding someone to buy your bond, or you might have to sell it for less than you paid.
+Another thing to think about is the [interest rate](/wiki/interest-rate-trading-strategies) risk. If interest rates go up after you buy a Sushi Bond, the value of your bond might go down. This is because new bonds would be paying more interest, making your bond less attractive to other investors. Also, Sushi Bonds might not be as easy to sell quickly as other investments. If you need your money back fast, you might have trouble finding someone to buy your bond, or you might have to sell it for less than you paid.
 
 ## How do Sushi Bonds differ from other types of bonds?
 

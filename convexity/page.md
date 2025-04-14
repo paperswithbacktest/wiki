@@ -78,7 +78,7 @@ Another technique is called "successive convex approximation." This method break
 
 The theory of convexity can be used in spaces with more than just two or three dimensions. Imagine you're looking at a shape that isn't just flat like a piece of paper or a solid like a ball, but something that has even more directions to consider. In these higher-dimensional spaces, a shape is still called convex if any straight line you draw between any two points inside the shape stays inside the shape. This idea helps mathematicians and scientists understand and work with complex data and problems that have many variables, like figuring out the best way to invest money or designing a new airplane.
 
-The implications of convexity in higher-dimensional spaces are really important. For example, in data analysis, if you have a lot of information about different things, you can use convex shapes to find patterns and make predictions. This is helpful in fields like machine learning, where computers learn from lots of data to make decisions. Also, in optimization, which is about finding the best solution to a problem, convex shapes in higher dimensions make it easier to find the best answer quickly and reliably. This can save a lot of time and money in areas like engineering and economics, where solving complex problems is a big part of the job.
+The implications of convexity in higher-dimensional spaces are really important. For example, in data analysis, if you have a lot of information about different things, you can use convex shapes to find patterns and make predictions. This is helpful in fields like [machine learning](/wiki/machine-learning), where computers learn from lots of data to make decisions. Also, in optimization, which is about finding the best solution to a problem, convex shapes in higher dimensions make it easier to find the best answer quickly and reliably. This can save a lot of time and money in areas like engineering and economics, where solving complex problems is a big part of the job.
 
 ## How can we explore convexity in financial markets?
 
@@ -103,7 +103,7 @@ Overall, convexity enriches the toolkit available for managing fixed-income inve
 
 ## What is the role of mathematics in algorithmic trading?
 
-Mathematics is a cornerstone of algorithmic trading, providing the methodological frameworks essential for crafting sophisticated trading strategies. Statistical and computational techniques are integral components, enabling traders to analyze data, predict market behaviors, and make informed decisions. 
+Mathematics is a cornerstone of [algorithmic trading](/wiki/algorithmic-trading), providing the methodological frameworks essential for crafting sophisticated trading strategies. Statistical and computational techniques are integral components, enabling traders to analyze data, predict market behaviors, and make informed decisions. 
 
 Time series analysis is a vital statistical tool that facilitates the forecasting of future market movements based on historical data patterns. This technique involves examining ordered sequences of data points collected at successive intervals to identify trends, seasonal variations, and cyclical patterns. For instance, traders employ time series models, such as ARIMA (AutoRegressive Integrated Moving Average), to forecast future stock prices or market indices, allowing for strategic planning and risk management.
 

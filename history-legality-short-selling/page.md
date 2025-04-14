@@ -70,7 +70,7 @@ But technology also brings new risks. With high-speed trading and algorithms, sh
 
 ## What are the advanced strategies used in short selling?
 
-Short selling can get pretty advanced with different strategies that traders use to try and make more money or protect themselves. One strategy is called "pairs trading." This is when a trader shorts one stock while buying another stock in the same industry. The idea is that if the whole industry goes down, the loss on the shorted stock might be less because the bought stock might not fall as much. Another strategy is "hedge fund short selling," where hedge funds use a lot of research and data to find stocks they think will go down. They might use computer models to predict stock prices and find the best times to short sell.
+Short selling can get pretty advanced with different strategies that traders use to try and make more money or protect themselves. One strategy is called "pairs trading." This is when a trader shorts one stock while buying another stock in the same industry. The idea is that if the whole industry goes down, the loss on the shorted stock might be less because the bought stock might not fall as much. Another strategy is "[hedge fund](/wiki/hedge-fund-trading-strategies) short selling," where hedge funds use a lot of research and data to find stocks they think will go down. They might use computer models to predict stock prices and find the best times to short sell.
 
 Another advanced strategy is "shorting against the box." This is when a trader already owns a stock but shorts it too. They do this to lock in a profit without selling the stock they own. It can be a way to protect against a big drop in the stock's price. Lastly, there's "algorithmic short selling," where traders use computer programs to automatically short sell stocks based on certain rules or patterns. These programs can trade very fast and in large amounts, trying to take advantage of small price changes in the market. These strategies show how short selling can be used in many different ways to try and make money or manage risk.
 
@@ -133,5 +133,5 @@ In summary, short selling is a sophisticated financial strategy with implication
    - The text “Financial Regulation: Law and Policy” by Michael S. Barr, Howell E. Jackson, and Margaret E. Tahyar discusses various aspects of financial regulation, including trading practices.
    - For an in-depth analysis of financial regulations global comparisons, consider “Comparative Financial Regulation” by Pauline Sadler. 
 
-These references offer a solid foundation for understanding the complexities surrounding short selling and algorithmic trading regulation, providing valuable insights for further research or study.
+These references offer a solid foundation for understanding the complexities surrounding short selling and [algorithmic trading](/wiki/algorithmic-trading) regulation, providing valuable insights for further research or study.
 

@@ -24,7 +24,7 @@ In real life, this can make a big difference. For example, when you're job hunti
 
 Imagine you're at a fair and you want to play a game where you pick the tallest sunflower out of 100 sunflowers. You can look at them one by one, but once you pass a sunflower, you can't go back to it. The trick is to decide when to stop looking and pick the sunflower you're looking at. If you pick too early, you might miss a taller one. If you wait too long, you might end up with a shorter one.
 
-A good way to do this is to first look at the first 37 sunflowers without picking any. This helps you get a sense of how tall the sunflowers are. After that, you keep looking at the rest of the sunflowers, and you pick the first one that's taller than the tallest one you saw in the first 37. This method gives you a good chance of picking one of the tallest sunflowers without looking at all of them. It's not perfect, but it's a smart way to make a decision when you can't see everything at once.
+A good way to do this is to first look at the first 37 sunflowers without [picking](/wiki/asset-class-picking) any. This helps you get a sense of how tall the sunflowers are. After that, you keep looking at the rest of the sunflowers, and you pick the first one that's taller than the tallest one you saw in the first 37. This method gives you a good chance of picking one of the tallest sunflowers without looking at all of them. It's not perfect, but it's a smart way to make a decision when you can't see everything at once.
 
 ## What are some common applications of optimal stopping in real-life scenarios?
 
@@ -60,7 +60,7 @@ In continuous time optimal stopping problems, you can make decisions at any mome
 
 ## How do you implement optimal stopping strategies in algorithmic trading?
 
-In algorithmic trading, optimal stopping strategies help you decide when to buy or sell stocks. Imagine you're watching the stock market like a river flowing. You want to catch the fish (stocks) at the best time. You might look at how the stock price moves for a while without buying or selling. This helps you understand what a good price looks like. Then, you can decide to buy or sell when the price is better than the best you've seen during your observation period. This way, you don't miss out on good opportunities while still trying to get the best deal.
+In [algorithmic trading](/wiki/algorithmic-trading), optimal stopping strategies help you decide when to buy or sell stocks. Imagine you're watching the stock market like a river flowing. You want to catch the fish (stocks) at the best time. You might look at how the stock price moves for a while without buying or selling. This helps you understand what a good price looks like. Then, you can decide to buy or sell when the price is better than the best you've seen during your observation period. This way, you don't miss out on good opportunities while still trying to get the best deal.
 
 Using a computer to do this can be really helpful. The computer can watch the stock prices all the time and make decisions based on what it sees. It can use math to figure out the best time to stop looking and make a trade. This is like setting a trap in the river and waiting for the right fish to come along. The computer keeps updating its plan based on new information, so it can make the best choice at any moment. This makes trading more efficient and helps you make better decisions.
 
@@ -72,13 +72,13 @@ Another challenge is that complex systems often have many different outcomes tha
 
 ## How can machine learning enhance optimal stopping strategies?
 
-Machine learning can make optimal stopping strategies better by helping us learn from lots of data. Imagine you're trying to pick the best apple from a tree. You've done this many times before, and you've kept track of when you picked apples and how good they were. Machine learning can look at all this information and figure out the best time to stop looking and pick an apple. It can find patterns that you might miss, like certain times of day when bigger apples are more likely to be found. This way, machine learning helps you make smarter choices based on what you've learned from the past.
+Machine learning can make optimal stopping strategies better by helping us learn from lots of data. Imagine you're trying to pick the best apple from a tree. You've done this many times before, and you've kept track of when you picked apples and how good they were. Machine learning can look at all this information and figure out the best time to stop looking and pick an apple. It can find patterns that you might miss, like certain times of day when bigger apples are more likely to be found. This way, [machine learning](/wiki/machine-learning) helps you make smarter choices based on what you've learned from the past.
 
 Another way machine learning helps is by making decisions in real-time. In the stock market, prices change all the time, and you need to decide when to buy or sell quickly. Machine learning can watch these changes and use what it knows to decide the best time to stop looking and make a trade. It's like having a smart friend who can keep an eye on everything and tell you when to act. This makes your strategy more flexible and can lead to better results, especially in situations where things are always changing.
 
 ## What advanced techniques exist for optimizing stopping rules in stochastic environments?
 
-In a world where things keep changing and you can't predict everything, optimizing when to stop looking and make a choice can be tough. One advanced technique is called 'reinforcement learning.' It's like learning from experience. Imagine you're playing a game where you need to decide when to stop and pick up a prize. You try different times to stop, and the game tells you how good your choice was. Over time, you learn when the best time to stop is. Reinforcement learning helps computers do this too, by letting them try different stopping rules and learn from the results.
+In a world where things keep changing and you can't predict everything, optimizing when to stop looking and make a choice can be tough. One advanced technique is called '[reinforcement learning](/wiki/reinforcement-learning).' It's like learning from experience. Imagine you're playing a game where you need to decide when to stop and pick up a prize. You try different times to stop, and the game tells you how good your choice was. Over time, you learn when the best time to stop is. Reinforcement learning helps computers do this too, by letting them try different stopping rules and learn from the results.
 
 Another technique is 'Monte Carlo simulation.' This is like playing the game many times in your head to see what might happen. You imagine all the different ways things could go and see how well your stopping rule works in each case. By doing this many times, you can figure out the best rule to use. It's like practicing a lot so you know what to expect and can make the best choice when the time comes. Both of these methods help you make better decisions in situations where you can't see everything that's going to happen.
 
@@ -86,7 +86,7 @@ Another technique is 'Monte Carlo simulation.' This is like playing the game man
 
 Strategies for optimal execution in algorithmic trading are essential for minimizing market impact and avoiding inefficiencies in trade execution. Among the popular techniques are TWAP (Time-Weighted Average Price) and VWAP (Volume-Weighted Average Price), both of which aim to break down large trades into smaller orders over time to seamlessly integrate into the market. 
 
-TWAP operates by dividing a trade uniformly over a specified duration, ignoring volume fluctuations and focusing solely on time. This can be advantageous in stable markets where price and volume remain consistent. The TWAP of a trade can be mathematically expressed as:
+TWAP operates by dividing a trade uniformly over a specified duration, ignoring [volume](/wiki/volume-trading-strategy) fluctuations and focusing solely on time. This can be advantageous in stable markets where price and volume remain consistent. The TWAP of a trade can be mathematically expressed as:
 
 $$
 \text{TWAP} = \frac{1}{N} \sum_{i=1}^{N} P_i

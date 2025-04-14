@@ -20,7 +20,7 @@ Zero-shot learning and traditional machine learning are different in how they le
 
 On the other hand, zero-shot learning can recognize things it has never seen before. It uses what it already knows to make guesses about new things. For instance, if a computer knows about dogs and horses, and someone tells it that a zebra is like a horse with stripes, it can figure out what a zebra looks like without ever seeing one. This makes zero-shot learning very useful because it can work with less data and still understand new things.
 
-In summary, traditional machine learning relies heavily on having many examples to learn from, while zero-shot learning can use existing knowledge to understand new things without needing those examples. This difference makes zero-shot learning more flexible and efficient, especially when dealing with new or rare objects.
+In summary, traditional [machine learning](/wiki/machine-learning) relies heavily on having many examples to learn from, while zero-shot learning can use existing knowledge to understand new things without needing those examples. This difference makes zero-shot learning more flexible and efficient, especially when dealing with new or rare objects.
 
 ## What are the key components of a zero-shot learning system?
 

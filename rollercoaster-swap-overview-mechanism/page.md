@@ -18,7 +18,7 @@ People use Rollercoaster Swaps to manage risk or to try to make money. If someon
 
 A Rollercoaster Swap is different from traditional swaps because the payments in a Rollercoaster Swap change a lot over time, just like a rollercoaster. In traditional swaps, the payments usually stay the same or follow a simple pattern. For example, in a traditional interest rate swap, one party might pay a fixed interest rate while the other pays a floating rate, but these rates don't change wildly. In contrast, the payments in a Rollercoaster Swap can go up and down based on things like interest rates, stock prices, or other financial indicators.
 
-People use Rollercoaster Swaps to either protect themselves from big changes in financial markets or to try to make money from those changes. If someone thinks that interest rates or stock prices will be very unpredictable, they might choose a Rollercoaster Swap. Traditional swaps are more straightforward and usually used for simpler financial goals, like managing a steady interest rate risk. Rollercoaster Swaps are more complex and riskier, so they are usually used by people who know a lot about finance and are willing to take on more risk.
+People use Rollercoaster Swaps to either protect themselves from big changes in financial markets or to try to make money from those changes. If someone thinks that interest rates or stock prices will be very unpredictable, they might choose a Rollercoaster Swap. Traditional swaps are more straightforward and usually used for simpler financial goals, like managing a steady [interest rate](/wiki/interest-rate-trading-strategies) risk. Rollercoaster Swaps are more complex and riskier, so they are usually used by people who know a lot about finance and are willing to take on more risk.
 
 ## What are the basic components of a Rollercoaster Swap?
 
@@ -70,7 +70,7 @@ Because Rollercoaster Swaps can be risky, the rules might also say who can use t
 
 ## Can you explain the mathematical models used in pricing Rollercoaster Swaps?
 
-Pricing Rollercoaster Swaps involves using special math models to figure out how much the payments might go up and down. These models look at things like interest rates, stock prices, and other financial indicators that the swap is based on. They help people guess what might happen in the future and how much risk there is. For example, a common model used is the Black-Scholes model, which is often used for options pricing but can be adapted for swaps. This model uses math formulas to predict how the value of the swap will change over time based on the volatility of the underlying assets.
+Pricing Rollercoaster Swaps involves using special math models to figure out how much the payments might go up and down. These models look at things like interest rates, stock prices, and other financial indicators that the swap is based on. They help people guess what might happen in the future and how much risk there is. For example, a common model used is the Black-Scholes model, which is often used for options pricing but can be adapted for swaps. This model uses math formulas to predict how the value of the swap will change over time based on the [volatility](/wiki/volatility-trading-strategies) of the underlying assets.
 
 Another important model is the Monte Carlo simulation. This model runs many different scenarios to see how the swap might behave under different conditions. It's like playing out a bunch of different rollercoaster rides to see what might happen. By running these simulations, people can get a better idea of the average outcome and the range of possible outcomes. This helps them set a price for the swap that takes into account all the ups and downs they might face. Both of these models help make sure that the price of a Rollercoaster Swap is fair and reflects the real risks involved.
 
@@ -102,7 +102,7 @@ Neftci, S.N. (2008). *Principles of Financial Engineering*. This book provides a
 
 Corb, H. (2012). *Interest Rate Swaps and Other Derivatives*. Corb's work specifically focuses on interest rate swaps, detailing their structure, function, and the strategic benefits they offer to manage interest rate exposure.
 
-Lopez de Prado, M. (2018). *Advances in Financial Machine Learning*. This publication explores the integration of [machine learning](/wiki/machine-learning) into financial markets and trading, offering insights on how algorithmic trading systems, including those dealing with derivatives like rollercoaster swaps, can be enhanced by advanced data analytics.
+Lopez de Prado, M. (2018). *Advances in Financial Machine Learning*. This publication explores the integration of [machine learning](/wiki/machine-learning) into financial markets and trading, offering insights on how [algorithmic trading](/wiki/algorithmic-trading) systems, including those dealing with derivatives like rollercoaster swaps, can be enhanced by advanced data analytics.
 
 Fabozzi, F.J. (2016). *The Handbook of Fixed Income Securities*. A vital resource on fixed income securities, Fabozzi's handbook covers a range of topics including interest rate derivatives, providing extensive knowledge on managing fixed income portfolios and implementing strategic swaps.
 

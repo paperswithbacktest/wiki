@@ -18,7 +18,7 @@ ETFs are popular because they offer a lot of benefits. They usually have lower f
 
 The market price of an ETF is the price at which you can buy or sell its shares on a stock exchange. This price changes throughout the trading day, just like the price of a company's stock. It's influenced by supply and demand, meaning if more people want to buy the ETF than sell it, the price will go up. If more people want to sell than buy, the price will go down.
 
-The market price of an ETF can sometimes be different from its net asset value (NAV), which is the total value of all the investments the ETF holds, divided by the number of shares. This difference is called the premium or discount. If the market price is higher than the NAV, the ETF is trading at a premium. If it's lower, it's trading at a discount. These differences can happen because of things like how much people want to buy or sell the ETF, or how easy it is to trade the investments inside the ETF.
+The market price of an [ETF](/wiki/etf-trading-strategies) can sometimes be different from its net asset value (NAV), which is the total value of all the investments the ETF holds, divided by the number of shares. This difference is called the premium or discount. If the market price is higher than the NAV, the ETF is trading at a premium. If it's lower, it's trading at a discount. These differences can happen because of things like how much people want to buy or sell the ETF, or how easy it is to trade the investments inside the ETF.
 
 ## What is the Net Asset Value (NAV) of an ETF?
 

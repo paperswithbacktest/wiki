@@ -24,7 +24,7 @@ This calculation can also be shown in a simple equation: Owners' Equity = Total 
 
 Berkshire Hathaway is a big company that was started by Warren Buffett. It began as a small textile company, but now it owns many different kinds of businesses and investments. It's like a giant holding company, which means it owns other companies and makes money from them. Some of the big businesses it owns are GEICO for insurance, BNSF Railway for trains, and many others in areas like energy, manufacturing, and services.
 
-Berkshire Hathaway also invests a lot of money in the stock market. It buys shares in other companies, hoping they will grow and make more money. This has helped Berkshire Hathaway become one of the richest companies in the world. Warren Buffett is famous for being very good at picking which companies to invest in. People often look at what Berkshire Hathaway does to get ideas for their own investments.
+Berkshire Hathaway also invests a lot of money in the stock market. It buys shares in other companies, hoping they will grow and make more money. This has helped Berkshire Hathaway become one of the richest companies in the world. Warren Buffett is famous for being very good at [picking](/wiki/asset-class-picking) which companies to invest in. People often look at what Berkshire Hathaway does to get ideas for their own investments.
 
 ## What are the main components of Berkshire Hathaway's owners' equity?
 
@@ -42,7 +42,7 @@ The growth in owners' equity also came from Berkshire Hathaway keeping some of i
 
 The growth or decline of Berkshire Hathaway's owners' equity depends on how well its businesses and investments do. When the businesses it owns, like GEICO for insurance and BNSF Railway for trains, make more money, it adds to the owners' equity. Also, when the companies Berkshire Hathaway invests in do well, the value of those investments goes up, which helps grow the owners' equity. If these businesses and investments do not do well, it can cause the owners' equity to go down.
 
-Another big factor is what Berkshire Hathaway does with its profits. If the company keeps some of its profits instead of spending it all, this saved money, called retained earnings, adds to the owners' equity. On the other hand, if the company loses money or has to pay out a lot in dividends, it can reduce the owners' equity. So, the decisions made by Warren Buffett and his team about where to invest and how to use the company's profits play a big role in whether the owners' equity grows or declines.
+Another big [factor](/wiki/factor-investing) is what Berkshire Hathaway does with its profits. If the company keeps some of its profits instead of spending it all, this saved money, called retained earnings, adds to the owners' equity. On the other hand, if the company loses money or has to pay out a lot in dividends, it can reduce the owners' equity. So, the decisions made by Warren Buffett and his team about where to invest and how to use the company's profits play a big role in whether the owners' equity grows or declines.
 
 ## How does Berkshire Hathaway's owners' equity compare to its industry peers?
 
@@ -121,7 +121,7 @@ This approach, combining theoretical analysis with practical application, allows
 
 ## What is the Case Study about Statistical Arbitrage with Berkshire Hathaway?
 
-In this section, we examine a case study that focuses on statistical arbitrage trading using Berkshire Hathaway stock through a replicating portfolio model. The statistical techniques employed are centered around the Ornstein-Uhlenbeck process, which is a mathematical model used for mean-reverting time series. This process is particularly suited for financial applications where asset prices or spreads between assets revert to a long-term mean over time.
+In this section, we examine a case study that focuses on statistical [arbitrage](/wiki/arbitrage) trading using Berkshire Hathaway stock through a replicating portfolio model. The statistical techniques employed are centered around the Ornstein-Uhlenbeck process, which is a mathematical model used for mean-reverting time series. This process is particularly suited for financial applications where asset prices or spreads between assets revert to a long-term mean over time.
 
 ### Statistical Models Used
 
@@ -141,7 +141,7 @@ In empirical tests, such a strategy showed consistent profitability, especially 
 
 ### Lessons Learned and Implications for Practitioners
 
-This case study of Berkshire Hathaway underscores several lessons valuable for financial practitioners considering statistical arbitrage strategies:
+This case study of Berkshire Hathaway underscores several lessons valuable for financial practitioners considering [statistical arbitrage](/wiki/statistical-arbitrage) strategies:
 
 1. **Parameter Calibration**: Accurate estimation of the mean-reversion rate $\theta$ and long-term mean $\mu$ is crucial for the success of the Ornstein-Uhlenbeck model. Practically, this requires a robust tuning process and sensitivity analysis to ensure stable performance under various market conditions.
 

@@ -24,7 +24,7 @@ On the other hand, a Zero-Coupon Swap is simpler because it involves only one bi
 
 A Zero-Coupon Swap has a few key parts that make it work. The first part is the notional amount, which is like the size of the deal. It's the amount of money the swap is based on, but it's not actually exchanged. Instead, it's used to figure out the payments. The second part is the fixed rate, which is agreed upon at the start. This rate helps determine how much the lump sum payment will be at the end.
 
-The third part is the floating rate, which can change over time. This rate is usually linked to something like the LIBOR or another benchmark interest rate. One party in the swap will receive payments based on this floating rate throughout the swap's life. Finally, there's the maturity date, which is when the swap ends. On this date, the party that didn't make payments during the swap has to pay a big lump sum based on the fixed rate and the notional amount.
+The third part is the floating rate, which can change over time. This rate is usually linked to something like the LIBOR or another benchmark [interest rate](/wiki/interest-rate-trading-strategies). One party in the swap will receive payments based on this floating rate throughout the swap's life. Finally, there's the maturity date, which is when the swap ends. On this date, the party that didn't make payments during the swap has to pay a big lump sum based on the fixed rate and the notional amount.
 
 ## Who are the typical participants in a Zero-Coupon Swap?
 
@@ -72,7 +72,7 @@ Another way regulations impact Zero-Coupon Swaps is through capital requirements
 
 ## What are the accounting treatments for Zero-Coupon Swaps?
 
-When it comes to accounting for Zero-Coupon Swaps, companies need to keep track of them on their books. The big payment at the end of the swap is a liability for the company that has to pay it. They need to show this on their balance sheet as a future obligation. As time goes by, they might need to adjust this amount based on changes in interest rates or other factors. This helps make sure their financial statements are accurate and show what they really owe.
+When it comes to accounting for Zero-Coupon Swaps, companies need to keep track of them on their [books](/wiki/algo-trading-books). The big payment at the end of the swap is a liability for the company that has to pay it. They need to show this on their balance sheet as a future obligation. As time goes by, they might need to adjust this amount based on changes in interest rates or other factors. This helps make sure their financial statements are accurate and show what they really owe.
 
 Another part of accounting for Zero-Coupon Swaps is dealing with the regular payments that the other party makes. These payments can be shown as income over the life of the swap. The company receiving these payments needs to record them in their income statement, usually as interest income. This way, they can show how the swap is helping their cash flow while they wait to make the big payment at the end. Keeping good records of all these things is important for clear and honest financial reporting.
 

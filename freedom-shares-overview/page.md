@@ -22,7 +22,7 @@ Another difference is how they are managed. With Freedom Shares, the plan takes 
 
 ## What are the benefits of investing in Freedom Shares?
 
-Investing in Freedom Shares can help you save for retirement in a simple way. They are part of the Liberty Corporate Freedom Plan, which means the plan chooses a mix of shares from different companies for you. This takes away the hard work of picking which companies to invest in. It's like having someone else manage your investments, which can be really helpful if you're not sure where to start or if you want to keep things easy.
+Investing in Freedom Shares can help you save for retirement in a simple way. They are part of the Liberty Corporate Freedom Plan, which means the plan chooses a mix of shares from different companies for you. This takes away the hard work of [picking](/wiki/asset-class-picking) which companies to invest in. It's like having someone else manage your investments, which can be really helpful if you're not sure where to start or if you want to keep things easy.
 
 Another good thing about Freedom Shares is that they can grow your savings over time. Since the plan invests in a variety of companies, it spreads out the risk. This means if one company doesn't do well, the others might still help your money grow. Plus, because it's designed for retirement, you can let your money sit and grow for many years, which can lead to a bigger nest egg when you retire. Just remember, like all investments, there's some risk, but the plan aims to balance that out for you.
 

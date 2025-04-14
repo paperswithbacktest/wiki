@@ -22,7 +22,7 @@ When a miner finds a nonce that makes the hash meet the target, they can add a n
 
 ## What is the relationship between the target hash and the difficulty level in cryptocurrency mining?
 
-The target hash and the difficulty level in cryptocurrency mining are closely related. The target hash is a number that miners need to meet or go below when they are solving math problems. If the target hash is a smaller number, it's harder for miners to find a solution that fits, which means the difficulty level goes up. If the target hash is a bigger number, it's easier to find a solution, so the difficulty level goes down.
+The target hash and the difficulty level in [cryptocurrency](/wiki/cryptocurrency) mining are closely related. The target hash is a number that miners need to meet or go below when they are solving math problems. If the target hash is a smaller number, it's harder for miners to find a solution that fits, which means the difficulty level goes up. If the target hash is a bigger number, it's easier to find a solution, so the difficulty level goes down.
 
 The difficulty level is adjusted regularly to keep the time it takes to mine a new block of transactions steady. For Bitcoin, this is usually around 10 minutes. If blocks are being mined too quickly, the target hash is made smaller to increase the difficulty. If blocks are taking too long to mine, the target hash is made bigger to decrease the difficulty. This helps keep the mining process fair and makes sure new bitcoins are created at a steady rate.
 

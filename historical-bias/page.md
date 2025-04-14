@@ -21,7 +21,7 @@ To fix this, we need to clean the data and make sure it's fair before using it t
 
 ## Can you provide examples of historical bias in real-world machine learning applications?
 
-One example of historical bias in machine learning is in the criminal justice system. Some algorithms used to predict if someone might commit a crime again were trained on data that showed racial biases. This meant the algorithms predicted that Black people were more likely to reoffend than they really were. As a result, these tools unfairly suggested that Black people should be treated more harshly, even if they were not more likely to commit crimes than others.
+One example of historical bias in [machine learning](/wiki/machine-learning) is in the criminal justice system. Some algorithms used to predict if someone might commit a crime again were trained on data that showed racial biases. This meant the algorithms predicted that Black people were more likely to reoffend than they really were. As a result, these tools unfairly suggested that Black people should be treated more harshly, even if they were not more likely to commit crimes than others.
 
 Another example is in hiring. Some companies used AI to help them choose job applicants. But if the data used to train these AI systems came from a time when women and minorities were less likely to be hired, the AI would learn these biases. So, the AI might unfairly decide that women or minorities are less good at the job, even if they are just as qualified as others. This made it harder for these groups to get hired, continuing the bias from the past.
 
@@ -35,7 +35,7 @@ Another common source of historical bias is from data collection methods that we
 
 ## How can historical bias be identified in a dataset?
 
-Historical bias in a dataset can be identified by looking at the data carefully and checking if certain groups of people are treated unfairly. For example, if you see that women are less likely to be hired for certain jobs in the data, this might be a sign of historical bias. You can use statistics to see if there are big differences between groups. If the data shows that one group is treated much worse than others, it might be because of past unfair practices.
+Historical bias in a dataset can be identified by looking at the data carefully and checking if certain groups of people are treated unfairly. For example, if you see that women are less likely to be hired for certain jobs in the data, this might be a sign of historical bias. You can use [statistics](/wiki/bayesian-statistics) to see if there are big differences between groups. If the data shows that one group is treated much worse than others, it might be because of past unfair practices.
 
 To find historical bias, you can also compare your data to other sources that are known to be fair. If your data looks very different from these fair sources, it might mean your data has historical bias. Another way is to use special tools and methods that are made to find bias in data. These tools can help you see if the data is treating everyone fairly or if it's repeating old unfair patterns. By using these methods, you can spot historical bias and start to fix it.
 

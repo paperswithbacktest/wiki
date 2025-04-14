@@ -24,7 +24,7 @@ Because so many savings and loan associations were failing, the government had t
 
 The Savings and Loan Crisis was caused by a few big problems. One main reason was that the government changed the rules in the 1980s. They let savings and loan associations take more risks with their money. Before, these associations were mostly safe and focused on helping people save and buy homes. But the new rules allowed them to invest in risky things like real estate and junk bonds. Many of these investments didn't work out, and the associations lost a lot of money.
 
-Another reason was that interest rates went up a lot in the early 1980s. Savings and loan associations had promised to pay people a certain amount of interest on their savings. But when interest rates went up, they had to pay more than they were earning from their loans. This made it hard for them to make money. Also, some people in charge of the associations made bad choices or even did things that were not honest. All these problems together made many savings and loan associations fail, which led to the crisis.
+Another reason was that interest rates went up a lot in the early 1980s. Savings and loan associations had promised to pay people a certain amount of interest on their savings. But when interest rates went up, they had to pay more than they were [earning](/wiki/earning-announcement) from their loans. This made it hard for them to make money. Also, some people in charge of the associations made bad choices or even did things that were not honest. All these problems together made many savings and loan associations fail, which led to the crisis.
 
 ## How did deregulation contribute to the Savings and Loan Crisis?
 

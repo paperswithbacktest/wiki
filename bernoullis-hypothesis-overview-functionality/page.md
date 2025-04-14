@@ -24,7 +24,7 @@ Bernoulli's big contribution was his hypothesis, now called Bernoulli's Principl
 
 Daniel Bernoulli, the person behind Bernoulli's Hypothesis, also made big contributions to probability theory. His most famous work in this area is called the "Bernoulli Trials." These are experiments where you do the same thing over and over, and each time you have the same chance of getting a certain result. For example, flipping a coin many times is a Bernoulli Trial because each flip has the same chance of landing heads or tails.
 
-Bernoulli's work on probability helped him come up with the "Law of Large Numbers." This law says that if you do a lot of Bernoulli Trials, the average of your results will get closer and closer to the expected value. For example, if you flip a coin a million times, you should get close to half heads and half tails. This idea is really important in statistics and helps us understand how likely things are to happen when we do them many times.
+Bernoulli's work on probability helped him come up with the "Law of Large Numbers." This law says that if you do a lot of Bernoulli Trials, the average of your results will get closer and closer to the expected value. For example, if you flip a coin a million times, you should get close to half heads and half tails. This idea is really important in [statistics](/wiki/bayesian-statistics) and helps us understand how likely things are to happen when we do them many times.
 
 ## Can you explain the basic mathematical formulation of Bernoulli's Hypothesis?
 
@@ -64,7 +64,7 @@ Despite these criticisms, Bernoulli's Hypothesis is still very important and wid
 
 ## What are some advanced applications of Bernoulli's Hypothesis in fields like economics or engineering?
 
-In engineering, Bernoulli's Hypothesis is used in many cool ways. One important use is in designing airplane wings and jet engines. The shape of an airplane's wing is made so that air moves faster over the top than the bottom, making the pressure lower on top. This difference in pressure lifts the airplane up into the sky. Engineers also use Bernoulli's Hypothesis when designing things like car spoilers and even the pipes that carry water or gas. They need to know how the speed of the fluid affects its pressure to make sure everything works right and safely.
+In engineering, Bernoulli's Hypothesis is used in many cool ways. One important use is in designing airplane wings and jet engines. The shape of an airplane's wing is made so that air moves faster over the top than the bottom, making the pressure lower on top. This difference in pressure lifts the airplane up into the sky. Engineers also use Bernoulli's Hypothesis when designing things like car spoilers and even the pipes that [carry](/wiki/carry-trading) water or gas. They need to know how the speed of the fluid affects its pressure to make sure everything works right and safely.
 
 In economics, Bernoulli's Hypothesis might not seem like it fits at first, but it can actually help with some ideas. For example, some economists use it to think about how information flows through a market. Just like how air moves faster over a wing, information can move quickly through a market, affecting prices and decisions. This idea helps economists understand how markets work and how to make them more efficient. So, even though Bernoulli's Hypothesis started in physics, it can be used in other fields to solve different kinds of problems.
 

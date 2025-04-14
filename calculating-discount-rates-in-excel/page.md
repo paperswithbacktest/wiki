@@ -124,7 +124,7 @@ Understanding and correctly applying the discount rate are crucial for sound fin
 
 ## How can discount rate calculations be incorporated into algo trading strategies?
 
-Incorporating discount rate calculations into algorithmic trading strategies can significantly enhance the ability to evaluate investment opportunities. The discount rate is integral in determining the present value of future cash flows, thus allowing traders to assess the profitability of potential trades. Here's how it can be applied to algorithmic trading:
+Incorporating discount rate calculations into [algorithmic trading](/wiki/algorithmic-trading) strategies can significantly enhance the ability to evaluate investment opportunities. The discount rate is integral in determining the present value of future cash flows, thus allowing traders to assess the profitability of potential trades. Here's how it can be applied to algorithmic trading:
 
 ### Assessing Investment Opportunities
 

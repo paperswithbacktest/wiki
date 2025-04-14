@@ -34,7 +34,7 @@ But there are risks too. The biggest risk is if the stock price moves a lot and 
 
 ## How do you set up an Iron Condor?
 
-Setting up an Iron Condor is like making a sandwich for your stock. You start by picking a stock or an ETF that you think won't move too much in price. Then, you sell a call option that's a bit higher than the current price and a put option that's a bit lower. These are called the short call and short put. When you sell these options, you get paid a premium, which is like getting money for your sandwich.
+Setting up an Iron Condor is like making a sandwich for your stock. You start by [picking](/wiki/asset-class-picking) a stock or an [ETF](/wiki/etf-trading-strategies) that you think won't move too much in price. Then, you sell a call option that's a bit higher than the current price and a put option that's a bit lower. These are called the short call and short put. When you sell these options, you get paid a premium, which is like getting money for your sandwich.
 
 Next, you need to protect your sandwich, so you buy a call option that's even higher than the one you sold and a put option that's even lower than the one you sold. These are called the long call and long put. They help limit how much you can lose if the stock price goes wild. If the stock stays between the prices of the options you sold, all four options will expire without being used, and you get to keep the premium as your profit. But if the stock moves outside this range, you might lose money, but your loss is capped at the difference between the prices of the options you bought and sold, minus the premium you got.
 
@@ -78,7 +78,7 @@ Choosing the right expiration date is a balancing act. A shorter expiration date
 
 When you trade Iron Condors, you need to think about taxes. The money you make from Iron Condors is usually seen as capital gains by the tax people. If you hold your Iron Condor for less than a year, any profit you make is called a short-term capital gain. This is taxed at your regular income tax rate, which can be pretty high. But if you hold it for more than a year, it becomes a long-term capital gain, which usually has a lower tax rate. So, how long you keep your Iron Condor can make a big difference in how much you pay in taxes.
 
-Also, you can use losses from Iron Condors to help with your taxes. If you lose money on an Iron Condor, you can use that loss to reduce your taxes. You can take the loss off your income for the year, which can lower how much tax you owe. If your losses are more than your gains, you can even carry the extra loss over to the next year to use against future gains. Just remember to keep good records of all your trades, so you can show the tax people what you did if they ask.
+Also, you can use losses from Iron Condors to help with your taxes. If you lose money on an Iron Condor, you can use that loss to reduce your taxes. You can take the loss off your income for the year, which can lower how much tax you owe. If your losses are more than your gains, you can even [carry](/wiki/carry-trading) the extra loss over to the next year to use against future gains. Just remember to keep good records of all your trades, so you can show the tax people what you did if they ask.
 
 ## What is the Iron Condor Strategy and how can it be explored?
 

@@ -46,7 +46,7 @@ On the other hand, if inventory management is poor, the business might have too 
 
 ## What factors can influence dollar performance per turnover?
 
-Several things can affect how much money a business makes each time it sells and replaces its inventory, which is called dollar performance per turnover. One big factor is how fast the inventory sells. If products sell quickly, the inventory turns over more often, and this can lead to a higher dollar performance per turnover. Another factor is the price of the products. If a business can charge more for its items without losing customers, it can make more money from each sale, which also boosts the dollar performance per turnover. The cost of the inventory also matters. If a business can buy its stock at a lower price, it can make more profit from each sale, which helps improve the dollar performance per turnover.
+Several things can affect how much money a business makes each time it sells and replaces its inventory, which is called dollar performance per turnover. One big [factor](/wiki/factor-investing) is how fast the inventory sells. If products sell quickly, the inventory turns over more often, and this can lead to a higher dollar performance per turnover. Another factor is the price of the products. If a business can charge more for its items without losing customers, it can make more money from each sale, which also boosts the dollar performance per turnover. The cost of the inventory also matters. If a business can buy its stock at a lower price, it can make more profit from each sale, which helps improve the dollar performance per turnover.
 
 Another important thing that can influence dollar performance per turnover is how well the business manages its inventory. If a business keeps too much stock that doesn't sell, the inventory won't turn over as often, and this can lower the dollar performance per turnover. On the other hand, if the business has just the right amount of stock to meet demand, it can sell and replace its inventory more often, which can lead to a higher dollar performance per turnover. Finally, changes in the market, like new competitors or shifts in what customers want, can also affect how quickly inventory sells and how much money the business makes from each sale.
 
@@ -82,7 +82,7 @@ Using predictive modeling can also help businesses see what might affect their f
 
 ## What is Turnover in Algo Trading?
 
-Turnover in algorithmic trading refers to the rate at which a portfolio's holdings are bought and sold over a specific period. It is a crucial metric for assessing the trading activity within a given strategy and is instrumental in understanding and optimizing strategy performance. Turnover is typically expressed as a percentage, representing the proportion of a portfolio that is replaced within a particular timeframe, often annually.
+Turnover in [algorithmic trading](/wiki/algorithmic-trading) refers to the rate at which a portfolio's holdings are bought and sold over a specific period. It is a crucial metric for assessing the trading activity within a given strategy and is instrumental in understanding and optimizing strategy performance. Turnover is typically expressed as a percentage, representing the proportion of a portfolio that is replaced within a particular timeframe, often annually.
 
 To calculate turnover, one must sum the total value of securities bought and sold during a period and divide by the average value of the portfolio over the same period. The formula can be represented as:
 
@@ -90,9 +90,9 @@ $$
 \text{Turnover} = \frac{\text{Total Purchases} + \text{Total Sales}}{2 \times \text{Average Portfolio Value}}
 $$
 
-Turnover is indicative of a strategy's trading frequency and can have several implications for performance. High turnover strategies incur higher transaction costs due to frequent buying and selling, which can erode profits. Additionally, high turnover may also result in increased exposure to market volatility and tax liabilities, as short-term gains are often taxed at higher rates.
+Turnover is indicative of a strategy's trading frequency and can have several implications for performance. High turnover strategies incur higher transaction costs due to frequent buying and selling, which can erode profits. Additionally, high turnover may also result in increased exposure to market [volatility](/wiki/volatility-trading-strategies) and tax liabilities, as short-term gains are often taxed at higher rates.
 
-Comparatively, liquidity refers to how easily an asset can be bought or sold in the market without affecting its price. While turnover and liquidity are related, they are not synonymous; turnover measures the frequency of trades, while liquidity pertains to the ability to execute trades with minimal price impact. High liquidity typically facilitates higher turnover by allowing for quick repositioning without significant cost implications.
+Comparatively, [liquidity](/wiki/liquidity-risk-premium) refers to how easily an asset can be bought or sold in the market without affecting its price. While turnover and liquidity are related, they are not synonymous; turnover measures the frequency of trades, while liquidity pertains to the ability to execute trades with minimal price impact. High liquidity typically facilitates higher turnover by allowing for quick repositioning without significant cost implications.
 
 Trading frequency, akin to turnover, describes how often trades occur within a strategy. However, turnover provides a more holistic view by considering the [volume](/wiki/volume-trading-strategy) and value of trades, rather than simply the count. For instance, two strategies with equal trading frequencies may have vastly different turnovers if one involves high-value trades while the other focuses on smaller transactions.
 

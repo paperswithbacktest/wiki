@@ -50,7 +50,7 @@ Another challenge is keeping the data up to date. With large datasets, new infor
 
 Data curation helps with sharing and reusing data in research by making the data easy to find and understand. When researchers curate their data, they clean it up and add descriptions, which makes it clear what the data is about and how to use it. This is important because other researchers can then use the data for their own studies. If the data is well-organized and described, it's like having a map that shows the way to valuable information. This can lead to new discoveries because different researchers can build on each other's work.
 
-Another way data curation supports research is by making sure the data stays useful over time. When data is curated, it is checked regularly to make sure it is still accurate and up to date. This means that even years later, other researchers can still use the data with confidence. It's like keeping a library well-maintained so that future generations can still find and use the books. By curating data, researchers help create a shared resource that can be used again and again, making research more efficient and collaborative.
+Another way data curation supports research is by making sure the data stays useful over time. When data is curated, it is checked regularly to make sure it is still accurate and up to date. This means that even years later, other researchers can still use the data with confidence. It's like keeping a library well-maintained so that future generations can still find and use the [books](/wiki/algo-trading-books). By curating data, researchers help create a shared resource that can be used again and again, making research more efficient and collaborative.
 
 ## What role does metadata play in data curation?
 
@@ -84,7 +84,7 @@ Another important technique is data transformation and mapping. This means chang
 
 ## What is the relationship between Data Quality and Preprocessing?
 
-In algorithmic trading, data quality plays a vital role in strategy development. High-quality data ensures that trading algorithms can make informed decisions, mitigate risks, and enhance profitability. Data preprocessing is a crucial step in maintaining this quality by transforming raw data into a clean and structured form suitable for analysis and algorithmic processing.
+In [algorithmic trading](/wiki/algorithmic-trading), data quality plays a vital role in strategy development. High-quality data ensures that trading algorithms can make informed decisions, mitigate risks, and enhance profitability. Data preprocessing is a crucial step in maintaining this quality by transforming raw data into a clean and structured form suitable for analysis and algorithmic processing.
 
 Data preprocessing methodologies encompass various techniques such as data cleaning and normalization. Data cleaning involves identifying and correcting inaccuracies and inconsistencies in datasets. This process can include handling missing values, removing duplicates, and correcting erroneous entries. For instance, in Python, missing data can be addressed using the pandas library with functions like `fillna()` for imputation or `dropna()` to remove incomplete observations.
 

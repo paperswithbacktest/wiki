@@ -78,13 +78,13 @@ This analysis also helps a company make more profit. When they know what drives 
 
 To make Activity Driver Analysis more accurate, businesses can use a technique called regression analysis. This method helps them see how different activity drivers affect costs. For example, they can use regression analysis to find out how making more products changes the cost of materials and labor. By using this technique, they can get a clearer picture of what really drives costs and make better decisions. Regression analysis can also help them predict how costs will change in the future, which is useful for planning and budgeting.
 
-Another advanced technique is using machine learning. Machine learning can look at a lot of data and find patterns that might be hard for people to see. For instance, it can find out how things like the time of year or the number of customers affect costs. By using machine learning, a business can make their Activity Driver Analysis more accurate and find new ways to save money. These advanced techniques can help a company understand their costs better and work more efficiently.
+Another advanced technique is using [machine learning](/wiki/machine-learning). Machine learning can look at a lot of data and find patterns that might be hard for people to see. For instance, it can find out how things like the time of year or the number of customers affect costs. By using machine learning, a business can make their Activity Driver Analysis more accurate and find new ways to save money. These advanced techniques can help a company understand their costs better and work more efficiently.
 
 ## What is the role of cost accounting in business management?
 
 Cost accounting is an integral part of business management, providing critical insights into a company's production costs that are essential for strategic decision-making. This accounting approach meticulously details both variable and fixed outlays, ensuring businesses have a comprehensive understanding of their financial commitments. 
 
-Variable costs are expenses that fluctuate with production volume, such as raw materials and direct labor. For instance, the formula to calculate total variable cost (TVC) is:
+Variable costs are expenses that fluctuate with production [volume](/wiki/volume-trading-strategy), such as raw materials and direct labor. For instance, the formula to calculate total variable cost (TVC) is:
 
 $$
 \text{TVC} = \text{VC} \times Q

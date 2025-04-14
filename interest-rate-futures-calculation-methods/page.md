@@ -18,7 +18,7 @@ These futures are traded on exchanges, just like stocks. The value of an interes
 
 Interest rate futures are like agreements to buy or sell something related to interest rates at a fixed price on a certain date in the future. Imagine you think interest rates will go up. You can buy an interest rate future now to lock in today's lower rate. If rates do go up, you'll be happy because you got a better deal. But if rates go down, you might lose money because you paid more than the current rate.
 
-These futures are traded on big markets, kind of like how you can buy and sell stocks. The price of an interest rate future changes every day based on what people think interest rates will do. If everyone thinks rates will go up, the price of the future goes down. If everyone thinks rates will go down, the price goes up. Banks, companies, and investors use these futures to protect themselves from surprises in interest rates, making their financial plans more stable.
+These futures are traded on big markets, kind of like how you can buy and sell stocks. The price of an [interest rate](/wiki/interest-rate-trading-strategies) future changes every day based on what people think interest rates will do. If everyone thinks rates will go up, the price of the future goes down. If everyone thinks rates will go down, the price goes up. Banks, companies, and investors use these futures to protect themselves from surprises in interest rates, making their financial plans more stable.
 
 ## What are the main types of interest rate futures?
 

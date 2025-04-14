@@ -94,7 +94,7 @@ where $E(R_i)$ is the expected return of the investment, $R_f$ is the risk-free 
 
 Elton, E. J., Gruber, M. J. "Modern Portfolio Theory and Investment Analysis." John Wiley & Sons. This comprehensive book covers the principles of modern portfolio theory, providing a detailed exploration of risk-reward trade-offs, diversification, and asset allocation. It serves as a valuable resource for understanding the theoretical underpinnings and practical applications of portfolio management.
 
-For further understanding, these references are essential for grasping the strategic integration of mutual funds, investment strategies, and algorithmic trading, offering both theoretical and practical insights into the dynamic field of investment management.
+For further understanding, these references are essential for grasping the strategic integration of mutual funds, investment strategies, and [algorithmic trading](/wiki/algorithmic-trading), offering both theoretical and practical insights into the dynamic field of investment management.
 
 ## References & Further Reading
 

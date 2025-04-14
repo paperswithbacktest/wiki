@@ -22,7 +22,7 @@ However, ZIRP can also have some problems. For example, people who save money in
 
 ## What are the primary objectives of implementing a ZIRP?
 
-The main goal of a Zero Interest-Rate Policy, or ZIRP, is to help the economy grow when it's not doing well. When the central bank sets the interest rate at zero, it makes borrowing money cheaper. This encourages people and businesses to take out loans and spend more money. When people spend more, it can help businesses sell more products and services, which can lead to more jobs and a stronger economy.
+The main goal of a Zero Interest-Rate Policy, or ZIRP, is to help the economy grow when it's not doing well. When the central bank sets the [interest rate](/wiki/interest-rate-trading-strategies) at zero, it makes borrowing money cheaper. This encourages people and businesses to take out loans and spend more money. When people spend more, it can help businesses sell more products and services, which can lead to more jobs and a stronger economy.
 
 However, ZIRP can also have some downsides. For example, people who save their money in the bank might not like ZIRP because they don't earn any interest on their savings. This can be tough for people like retirees who rely on the interest from their savings to live. Also, if ZIRP lasts too long, it might cause prices to go up too fast, which is called inflation. Central banks need to watch the economy carefully to decide when to stop ZIRP and start raising interest rates again to keep everything balanced.
 

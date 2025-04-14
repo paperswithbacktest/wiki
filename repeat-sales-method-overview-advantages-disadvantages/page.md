@@ -34,7 +34,7 @@ Another advantage is that this method helps to see real changes in the market. B
 
 ## Can you provide examples of industries that benefit from the Repeat-Sales Method?
 
-The real estate industry is one that benefits a lot from the Repeat-Sales Method. This method helps real estate agents and analysts see how the prices of houses change over time. By looking at the same house sold more than once, they can understand if the market is going up or down. This is really helpful for setting prices for new houses and for advising people who want to buy or sell a home.
+The real estate industry is one that benefits a lot from the Repeat-Sales Method. This method helps real estate [agents](/wiki/agents) and analysts see how the prices of houses change over time. By looking at the same house sold more than once, they can understand if the market is going up or down. This is really helpful for setting prices for new houses and for advising people who want to buy or sell a home.
 
 Another industry that can use the Repeat-Sales Method is the property investment sector. Investors who buy houses to rent them out or to sell later can use this method to track how their investments are doing. It shows them if the value of their properties is going up, which can help them decide when to sell or buy more properties. This method gives them a clear way to see the performance of their investments over time.
 
@@ -74,13 +74,13 @@ Another strategy is to combine the Repeat-Sales Method with other methods, like 
 
 ## How can businesses measure the success of the Repeat-Sales Method?
 
-Businesses can measure the success of the Repeat-Sales Method by looking at how well it helps them understand the housing market. If the method gives them clear and accurate information about how house prices are changing over time, it is working well. They can check this by comparing the results from the Repeat-Sales Method with other data, like reports from real estate agencies or government statistics. If the results match up well, it shows that the method is reliable and useful for making decisions about buying or selling houses.
+Businesses can measure the success of the Repeat-Sales Method by looking at how well it helps them understand the housing market. If the method gives them clear and accurate information about how house prices are changing over time, it is working well. They can check this by comparing the results from the Repeat-Sales Method with other data, like reports from real estate agencies or government [statistics](/wiki/bayesian-statistics). If the results match up well, it shows that the method is reliable and useful for making decisions about buying or selling houses.
 
 Another way to measure success is by seeing how the Repeat-Sales Method helps businesses make money. If real estate agents or investors use the method to set better prices for houses or to decide when to buy or sell, and they make more profit because of it, then the method is successful. Businesses can track their profits and see if they go up after using the Repeat-Sales Method. If the method helps them make better choices and earn more money, it is a good sign that it is working well.
 
 ## What future trends might impact the use of the Repeat-Sales Method?
 
-One future trend that might impact the use of the Repeat-Sales Method is the increase in the use of big data and artificial intelligence. With more data available and better ways to analyze it, the Repeat-Sales Method could become even more accurate and useful. AI can help find patterns and make predictions about how house prices will change in the future. This means businesses and researchers can use the Repeat-Sales Method to make better decisions about buying and selling houses.
+One future trend that might impact the use of the Repeat-Sales Method is the increase in the use of big data and [artificial intelligence](/wiki/ai-artificial-intelligence). With more data available and better ways to analyze it, the Repeat-Sales Method could become even more accurate and useful. AI can help find patterns and make predictions about how house prices will change in the future. This means businesses and researchers can use the Repeat-Sales Method to make better decisions about buying and selling houses.
 
 Another trend that might affect the Repeat-Sales Method is the growth of smart homes and technology in real estate. As more homes get smart features like automated systems and energy-efficient devices, these changes could impact how houses are valued. The Repeat-Sales Method will need to take these changes into account when looking at how prices change over time. This means the method might need to be updated to include data on home improvements and technology upgrades to stay accurate and relevant.
 

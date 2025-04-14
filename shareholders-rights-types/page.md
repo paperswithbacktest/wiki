@@ -72,7 +72,7 @@ Shareholders also have the right to take legal action if they think the company 
 
 ## How do shareholders exercise their right to inspect company books and records?
 
-Shareholders have the right to look at the company's books and records. This means they can ask to see important documents like financial reports. These documents show how the company is doing, which helps shareholders make good decisions about their shares. To look at these records, shareholders usually need to send a written request to the company. They might have to give a good reason for wanting to see the records, like if they think something is wrong with how the company is being run.
+Shareholders have the right to look at the company's [books](/wiki/algo-trading-books) and records. This means they can ask to see important documents like financial reports. These documents show how the company is doing, which helps shareholders make good decisions about their shares. To look at these records, shareholders usually need to send a written request to the company. They might have to give a good reason for wanting to see the records, like if they think something is wrong with how the company is being run.
 
 Once the request is made, the company has to let the shareholder see the records. The company might set up a time for the shareholder to come and look at the documents at the company's office. Sometimes, the shareholder can even get copies of the records, but there might be a small fee for this. This right to inspect the books and records is important because it helps shareholders keep an eye on the company and make sure everything is being done correctly.
 

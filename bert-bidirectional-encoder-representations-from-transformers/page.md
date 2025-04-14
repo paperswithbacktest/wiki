@@ -47,7 +47,7 @@ The second task is called Next Sentence Prediction (NSP). In this task, BERT lea
 
 BERT takes in text by breaking it into smaller parts called tokens. Each token is a word or a part of a word. To help BERT understand where one sentence ends and another begins, special tokens are added to the text. The [CLS] token is added at the start of the text. It's important because it helps BERT make sense of the whole text when it's doing tasks like answering questions or classifying text. The [SEP] token is added between sentences. It tells BERT where one sentence ends and another starts, which is useful for understanding how sentences connect.
 
-For example, if you give BERT two sentences, "I like to read books" and "They are very interesting," the text would look like this: ```[CLS] I like to read books [SEP] They are very interesting [SEP]```. The [CLS] token at the start helps BERT understand the overall meaning, and the [SEP] tokens help it see where each sentence begins and ends. This way, BERT can better understand the context and relationships between words and sentences, making it good at many language tasks.
+For example, if you give BERT two sentences, "I like to read [books](/wiki/algo-trading-books)" and "They are very interesting," the text would look like this: ```[CLS] I like to read books [SEP] They are very interesting [SEP]```. The [CLS] token at the start helps BERT understand the overall meaning, and the [SEP] tokens help it see where each sentence begins and ends. This way, BERT can better understand the context and relationships between words and sentences, making it good at many language tasks.
 
 ## What are some common applications of BERT in natural language processing?
 

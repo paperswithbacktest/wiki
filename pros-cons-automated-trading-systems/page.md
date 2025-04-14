@@ -48,11 +48,11 @@ Another way an automated trading system helps is by taking away the need for a p
 
 ## What are the common strategies used in automated trading systems?
 
-One common strategy in automated trading systems is called trend following. This means the system looks at the market to see if prices are going up or down over time. If it sees that prices are going up, it will buy, hoping to sell later for a profit. If it sees prices going down, it might sell or even short sell, which means it sells something it doesn't own, hoping to buy it back later at a lower price. This strategy tries to make money by following the overall direction of the market.
+One common strategy in automated trading systems is called [trend following](/wiki/trend-following). This means the system looks at the market to see if prices are going up or down over time. If it sees that prices are going up, it will buy, hoping to sell later for a profit. If it sees prices going down, it might sell or even short sell, which means it sells something it doesn't own, hoping to buy it back later at a lower price. This strategy tries to make money by following the overall direction of the market.
 
 Another strategy is called mean reversion. This is based on the idea that prices will go back to their average level over time. If the system sees that a price has gone too high, it might sell, expecting the price to come back down. If it sees a price that has gone too low, it might buy, expecting the price to go back up. This strategy tries to make money by betting that prices will return to normal after big moves.
 
-A third strategy is called arbitrage. This involves buying something in one place and selling it in another place at the same time, but for a higher price. The system looks for small differences in prices between different markets or different types of the same thing. It tries to make money from these small differences, which can add up over time. This strategy works best in markets where there are a lot of different places to buy and sell the same thing.
+A third strategy is called [arbitrage](/wiki/arbitrage). This involves buying something in one place and selling it in another place at the same time, but for a higher price. The system looks for small differences in prices between different markets or different types of the same thing. It tries to make money from these small differences, which can add up over time. This strategy works best in markets where there are a lot of different places to buy and sell the same thing.
 
 ## How do you evaluate the performance of an automated trading system?
 
@@ -62,7 +62,7 @@ Another way to evaluate the system is by looking at risk management. This means 
 
 ## What are the advanced features of automated trading systems that experts might use?
 
-Experts might use advanced features in automated trading systems to make their trading better and more precise. One of these features is machine learning, which lets the system learn from past trades and get better over time. Instead of just following set rules, the system can change its rules based on what it learns. This can help it make smarter trades. Another advanced feature is backtesting, where the system tests its rules on old market data to see how well they would have worked in the past. This helps experts see if their strategies are good before using them in the real market.
+Experts might use advanced features in automated trading systems to make their trading better and more precise. One of these features is [machine learning](/wiki/machine-learning), which lets the system learn from past trades and get better over time. Instead of just following set rules, the system can change its rules based on what it learns. This can help it make smarter trades. Another advanced feature is [backtesting](/wiki/backtesting), where the system tests its rules on old market data to see how well they would have worked in the past. This helps experts see if their strategies are good before using them in the real market.
 
 Another feature experts might use is called multi-market analysis. This means the system can look at different markets at the same time, like stocks, currencies, and commodities, to find the best trading opportunities. It can also use something called sentiment analysis, which looks at news and social media to see how people feel about the market. This can help the system predict how the market might move based on what people are saying. These advanced features help experts make more informed and potentially more profitable trades.
 

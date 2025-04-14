@@ -18,7 +18,7 @@ This strategy works because markets are not always perfectly efficient. Sometime
 
 Put-call parity is a principle in options trading that shows how the prices of puts and calls are related. A put option gives you the right to sell an asset at a certain price, while a call option gives you the right to buy it at that price. Put-call parity says that if you buy a call option and sell a put option with the same strike price and expiration date, it should cost the same as buying the asset outright. This relationship helps traders understand if options are priced correctly.
 
-For example, imagine you have a stock that's currently worth $100. If you buy a call option with a strike price of $100 and sell a put option with the same strike price, the total cost should be the same as just buying the stock for $100. If it's not, there might be an opportunity for arbitrage, where traders can make money from the price difference. This principle is important because it helps keep the options market balanced and efficient.
+For example, imagine you have a stock that's currently worth $100. If you buy a call option with a strike price of $100 and sell a put option with the same strike price, the total cost should be the same as just buying the stock for $100. If it's not, there might be an opportunity for [arbitrage](/wiki/arbitrage), where traders can make money from the price difference. This principle is important because it helps keep the options market balanced and efficient.
 
 ## How does put-call parity relate to options arbitrage?
 
@@ -40,7 +40,7 @@ This idea is useful for traders because it lets them get the benefits of owning 
 
 ## What are the assumptions required for put-call parity to hold?
 
-For put-call parity to work, we need to assume a few things. First, we assume that there are no transaction costs like fees for buying or selling options and stocks. This makes the math easier because we don't have to worry about extra money going in or out. Second, we assume that we can borrow and lend money at the same interest rate. This is important because it helps us figure out what the options are worth over time.
+For put-call parity to work, we need to assume a few things. First, we assume that there are no transaction costs like fees for buying or selling options and stocks. This makes the math easier because we don't have to worry about extra money going in or out. Second, we assume that we can borrow and lend money at the same [interest rate](/wiki/interest-rate-trading-strategies). This is important because it helps us figure out what the options are worth over time.
 
 Another key assumption is that the stock doesn't pay any dividends during the life of the options. If it did, it would change how much the options are worth. Finally, we assume that the options can be exercised only at the expiration date, not before. This is called European-style options. If the options could be used at any time, like American-style options, the rules would be different. These assumptions help us use put-call parity to understand and predict option prices accurately.
 
@@ -96,7 +96,7 @@ Put-call parity can be applied in various practical scenarios to identify mispri
 
 One common method to exploit inefficiencies using the put-call parity involves constructing synthetic positions. For example, if the observed price of a portfolio $C + PV(K)$ is less than $P + S$, traders can theoretically construct an arbitrage strategy by buying the call and the bond, while simultaneously shorting the put and the underlying stock. Conversely, if $C + PV(K) > P + S$, a reverse strategy can be utilized. These approaches capitalize on temporary mispricings until the market corrects itself.
 
-In practice, there have been successful implementations of put-call parity in trading strategies. During market disruptions or times of high volatility, deviations from parity may be more pronounced, providing arbitrage opportunities. For instance, traders have historically identified and leveraged such deviations during specific corporate events or macroeconomic announcements, capitalizing on temporarily distorted markets.
+In practice, there have been successful implementations of put-call parity in trading strategies. During market disruptions or times of high [volatility](/wiki/volatility-trading-strategies), deviations from parity may be more pronounced, providing arbitrage opportunities. For instance, traders have historically identified and leveraged such deviations during specific corporate events or macroeconomic announcements, capitalizing on temporarily distorted markets.
 
 Overall, put-call parity serves as a cornerstone concept for understanding the pricing relationships in options markets. By maintaining an awareness of this fundamental equilibrium, traders enhance their ability to make informed decisions and seize arbitrage opportunities efficiently.
 

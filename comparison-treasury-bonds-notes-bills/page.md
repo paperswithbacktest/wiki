@@ -24,7 +24,7 @@ Treasury Bonds, or T-Bonds, are the longest-term securities. They mature in eith
 
 ## What are the interest rates like for Treasury Bonds, Notes, and Bills?
 
-Interest rates for Treasury Bonds, Notes, and Bills can change a lot. They depend on what's happening in the economy and what the Federal Reserve is doing. When the economy is doing well, interest rates might go up because people want to borrow more money. When the economy is not doing so well, interest rates might go down to encourage people to borrow and spend more. The rates are set at auctions where people and institutions bid on these securities. The more people want to buy them, the lower the interest rate can be because the government doesn't have to offer as much to attract buyers.
+Interest rates for Treasury Bonds, Notes, and Bills can change a lot. They depend on what's happening in the economy and what the Federal Reserve is doing. When the economy is doing well, interest rates might go up because people want to borrow more money. When the economy is not doing so well, interest rates might go down to encourage people to borrow and spend more. The rates are set at auctions where people and institutions bid on these securities. The more people want to buy them, the lower the [interest rate](/wiki/interest-rate-trading-strategies) can be because the government doesn't have to offer as much to attract buyers.
 
 For Treasury Bills, the interest rate is a bit different because they are sold at a discount. You buy them for less than their face value, and when they mature, you get the full face value. The difference between what you paid and what you get back is your interest. For example, if you buy a $1,000 T-Bill for $950, and it matures in a year, you earn $50 in interest. Treasury Notes and Bonds pay interest every six months. The rate is fixed when you buy them, so you know exactly how much you'll get every six months until they mature. For example, if you buy a $1,000 T-Note with a 2% annual interest rate, you'll get $10 every six months.
 
@@ -98,7 +98,7 @@ where the discount rate reflects the investor's required yield and time is the t
 
 **Treasury Bonds (T-bonds)** offer the longest maturities, generally between 20 and 30 years. Due to their extended duration, they typically offer higher interest rates compared to T-bills and T-notes. T-bonds also pay interest semi-annually, providing investors with regular income over a longer period, which can be a hedge against future inflation risks. Their long-term nature makes them suitable for investors focused on long-term goals like retirement planning. The yield of Treasury Bonds can be a critical indicator for the economy, influencing interest rates across various sectors.
 
-Collectively, T-bills, T-notes, and T-bonds form the cornerstone of the U.S. fixed-income market, providing security, liquidity, and predictability that underpin diverse investment strategies. They are not only pivotal for individual investors but also play a crucial role in the broader economic framework, including monetary policy and financial market stability.
+Collectively, T-bills, T-notes, and T-bonds form the cornerstone of the U.S. fixed-income market, providing security, [liquidity](/wiki/liquidity-risk-premium), and predictability that underpin diverse investment strategies. They are not only pivotal for individual investors but also play a crucial role in the broader economic framework, including monetary policy and financial market stability.
 
 ## References & Further Reading
 

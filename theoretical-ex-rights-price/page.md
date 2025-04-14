@@ -114,7 +114,7 @@ $$
 \text{TERP} = \frac{(\text{Number of Existing Shares} \times \text{Market Price}) + (\text{Number of New Shares} \times \text{Subscription Price})}{\text{Total Number of Shares After Issue}}
 $$
 
-In practice, if the current market price of a stock is significantly above the TERP, it might indicate that the rights issue is perceived positively, potentially offering an arbitrage opportunity for short-term traders. Conversely, if the market price falls below the TERP, it could signal a negative market sentiment towards the new issue, possibly leading to undervalued stock prices post-issue.
+In practice, if the current market price of a stock is significantly above the TERP, it might indicate that the rights issue is perceived positively, potentially offering an [arbitrage](/wiki/arbitrage) opportunity for short-term traders. Conversely, if the market price falls below the TERP, it could signal a negative market sentiment towards the new issue, possibly leading to undervalued stock prices post-issue.
 
 Astute investors often exploit discrepancies between TERP and market prices to realize short-term profits during the rights trading phase. They may buy shares at a lower market price and sell at a higher TERP, or vice versa, depending on market conditions. This speculative approach requires not only a deep understanding of market sentiment but also a keen eye for timing and execution, facilitated by sophisticated trading strategies and tools.
 

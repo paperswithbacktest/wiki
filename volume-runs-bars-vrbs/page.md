@@ -18,7 +18,7 @@ Using VRBs can help traders see the market in a new way. Since VRBs are based on
 
 VRBs and traditional time-based charts show stock market data in different ways. Time-based charts split the data into equal time periods, like minutes or hours. Each bar on these charts represents what happened in the market during that time. On the other hand, VRBs don't care about time. They make a new bar when a certain amount of trading, or volume, happens. This means that VRBs can have bars of different lengths depending on how much trading is going on.
 
-Because VRBs focus on volume, they can help traders see when big changes are happening in the market. If a lot of trading is happening quickly, it might mean that something important is going on. Time-based charts might not show these changes as clearly because they are stuck to specific time periods. By using VRBs, traders can get a better sense of when to buy or sell based on how much trading is happening, rather than just looking at the clock.
+Because VRBs focus on [volume](/wiki/volume-trading-strategy), they can help traders see when big changes are happening in the market. If a lot of trading is happening quickly, it might mean that something important is going on. Time-based charts might not show these changes as clearly because they are stuck to specific time periods. By using VRBs, traders can get a better sense of when to buy or sell based on how much trading is happening, rather than just looking at the clock.
 
 ## What is the basic principle behind using VRBs in trading?
 
@@ -66,9 +66,9 @@ In quiet markets, VRBs can also help manage risk. If new bars come slowly, it me
 
 ## What are some common strategies that incorporate VRBs?
 
-One common strategy that uses VRBs is called trend following. When traders see a lot of new bars coming quickly on a VRB chart, it means the market is busy and moving a lot. This can be a sign that a trend is getting stronger. Traders can use this information to buy or sell in the direction of the trend. For example, if the bars are coming quickly and the price is going up, traders might buy the stock to follow the trend. If the bars are coming quickly and the price is going down, traders might sell or short the stock.
+One common strategy that uses VRBs is called [trend following](/wiki/trend-following). When traders see a lot of new bars coming quickly on a VRB chart, it means the market is busy and moving a lot. This can be a sign that a trend is getting stronger. Traders can use this information to buy or sell in the direction of the trend. For example, if the bars are coming quickly and the price is going up, traders might buy the stock to follow the trend. If the bars are coming quickly and the price is going down, traders might sell or short the stock.
 
-Another strategy that uses VRBs is called breakout trading. When a lot of trading happens and a new bar is made, it can show that the market is breaking out of a range. Traders can look for these breakouts to find good times to buy or sell. If the price breaks out to the upside with a lot of volume, traders might buy the stock because it could keep going up. If the price breaks out to the downside with a lot of volume, traders might sell or short the stock because it could keep going down. By using VRBs, traders can see these breakouts more clearly and make better trading decisions.
+Another strategy that uses VRBs is called [breakout](/wiki/breakout-trading) trading. When a lot of trading happens and a new bar is made, it can show that the market is breaking out of a range. Traders can look for these breakouts to find good times to buy or sell. If the price breaks out to the upside with a lot of volume, traders might buy the stock because it could keep going up. If the price breaks out to the downside with a lot of volume, traders might sell or short the stock because it could keep going down. By using VRBs, traders can see these breakouts more clearly and make better trading decisions.
 
 ## How can VRBs be combined with other technical indicators for better analysis?
 

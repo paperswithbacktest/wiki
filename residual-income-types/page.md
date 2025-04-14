@@ -26,7 +26,7 @@ Residual income comes in different forms, but they all share the same idea: you 
 
 Another way to earn residual income is through investments. If you invest in a business or real estate, you can earn money from the profits or rent without working there every day. For example, if you own a rental property, you get paid rent each month. You might also invest in stocks that pay dividends, which are regular payments from the company to its shareholders. These investments can keep paying you even if you're not actively working on them.
 
-Overall, the key to residual income is setting up a system where your initial effort or investment keeps earning money over time. Whether it's through creative works, affiliate marketing, or investments, the goal is to create a steady stream of income that doesn't require constant work. This can help you achieve financial freedom and have more time for other things you enjoy.
+Overall, the key to residual income is setting up a system where your initial effort or investment keeps [earning](/wiki/earning-announcement) money over time. Whether it's through creative works, affiliate marketing, or investments, the goal is to create a steady stream of income that doesn't require constant work. This can help you achieve financial freedom and have more time for other things you enjoy.
 
 ## Can you explain how royalties work as a form of residual income?
 
@@ -38,7 +38,7 @@ The great thing about royalties is that they keep coming in as long as people ar
 
 Rental income is a type of residual income because you can earn money from your property without working on it every day. If you own a house or an apartment and rent it out to someone else, they pay you rent every month. Once you've set up the rental agreement and found a tenant, you don't have to do much more work to keep getting that money. The rent comes in regularly, even if you're not doing anything else to the property.
 
-Of course, being a landlord does come with some responsibilities, like fixing things when they break or dealing with tenant issues. But these tasks don't happen every day, and you can often hire someone else to do them for you. So, even though there's some work involved, the main idea is that you get a steady stream of income from your property without having to put in daily effort. This makes rental income a good example of residual income.
+Of [course](/wiki/best-algorithmic-trading-courses), being a landlord does come with some responsibilities, like fixing things when they break or dealing with tenant issues. But these tasks don't happen every day, and you can often hire someone else to do them for you. So, even though there's some work involved, the main idea is that you get a steady stream of income from your property without having to put in daily effort. This makes rental income a good example of residual income.
 
 ## What role do investments play in generating residual income?
 
@@ -74,7 +74,7 @@ Another strategy is to keep promoting your work even after it's released. You ca
 
 ## How do economic conditions affect the stability of residual income sources?
 
-Economic conditions can have a big impact on how stable your residual income sources are. When the economy is doing well, people have more money to spend, which can mean more sales for your books, music, or other creative works. They might also be more likely to rent your property or buy stocks that pay dividends. But if the economy takes a downturn, people might cut back on spending, which can lower your royalties or rental income. During tough economic times, companies might also reduce or stop paying dividends, which would affect your income from investments.
+Economic conditions can have a big impact on how stable your residual income sources are. When the economy is doing well, people have more money to spend, which can mean more sales for your [books](/wiki/algo-trading-books), music, or other creative works. They might also be more likely to rent your property or buy stocks that pay dividends. But if the economy takes a downturn, people might cut back on spending, which can lower your royalties or rental income. During tough economic times, companies might also reduce or stop paying dividends, which would affect your income from investments.
 
 It's important to think about how different types of residual income might be affected by economic changes. For example, royalties from a popular book or song might be more stable because people often still want entertainment even during hard times. On the other hand, rental income can be less stable if tenants lose their jobs and can't pay rent. Investing in a mix of different types of residual income sources can help you weather economic ups and downs better. By spreading your income across books, music, real estate, and stocks, you can reduce the risk that one bad economic period will wipe out all your income.
 

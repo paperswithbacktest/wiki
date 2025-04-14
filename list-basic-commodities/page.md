@@ -91,7 +91,7 @@ Algorithmic trading, or algo trading, engages with a diverse range of commoditie
 
 ### Energy Commodities
 
-Energy commodities are central to global markets due to their broad economic implications. Key energy commodities include oil and natural gas, both known for their volatility and significant price movements, which make them attractive targets for [algorithmic trading](/wiki/algorithmic-trading) strategies. The global dependence on energy resources ensures constant trading activity, leading to abundant historical data that can be leveraged by algorithms to predict price trends and optimize trades.
+Energy commodities are central to global markets due to their broad economic implications. Key energy commodities include oil and natural gas, both known for their [volatility](/wiki/volatility-trading-strategies) and significant price movements, which make them attractive targets for [algorithmic trading](/wiki/algorithmic-trading) strategies. The global dependence on energy resources ensures constant trading activity, leading to abundant historical data that can be leveraged by algorithms to predict price trends and optimize trades.
 
 ### Metal Commodities
 

@@ -34,7 +34,7 @@ Another big difference is how Solana is designed to work with other systems. Sol
 
 ## What is the role of SOL, the native cryptocurrency of Solana?
 
-SOL is the main cryptocurrency used on the Solana blockchain. It's like the money that people use to pay for things on Solana. When someone wants to use an application built on Solana, they usually need to pay a small amount of SOL to cover the cost of the transaction. This is similar to how you might pay a small fee when you use a credit card or a bank.
+SOL is the main [cryptocurrency](/wiki/cryptocurrency) used on the Solana blockchain. It's like the money that people use to pay for things on Solana. When someone wants to use an application built on Solana, they usually need to pay a small amount of SOL to cover the cost of the transaction. This is similar to how you might pay a small fee when you use a credit card or a bank.
 
 SOL also plays a big role in keeping the Solana network running smoothly. People who help run the network, called validators, get paid in SOL for their work. They use their computers to check and add transactions to the blockchain. By using SOL, the Solana network can reward these validators and make sure that the system stays secure and fast.
 

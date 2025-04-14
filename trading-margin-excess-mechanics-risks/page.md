@@ -62,7 +62,7 @@ Different financial markets handle trading margin excess in ways that suit their
 
 In the futures market, trading margin excess works a bit differently. Futures contracts are agreements to buy or sell something at a set price in the future. Because these can be risky, the margin requirements are often higher. If the value of your futures contracts changes a lot, you might need to add more money to your account right away to keep your trades open. This helps manage the high risk in futures trading and keeps the market running smoothly.
 
-In the forex market, where people trade different currencies, trading margin excess is also key. Forex trading can be very fast and change a lot, so brokers need to make sure you have enough money in your account. If the value of the currencies you're trading moves against you, your account balance can drop quickly. If it goes below the margin requirement, you'll get a margin call and need to add more money or close your trades. This helps keep the forex market stable and protects everyone involved.
+In the [forex](/wiki/forex-system) market, where people trade different currencies, trading margin excess is also key. Forex trading can be very fast and change a lot, so brokers need to make sure you have enough money in your account. If the value of the currencies you're trading moves against you, your account balance can drop quickly. If it goes below the margin requirement, you'll get a margin call and need to add more money or close your trades. This helps keep the forex market stable and protects everyone involved.
 
 ## What regulatory considerations should traders be aware of regarding trading margin excess?
 

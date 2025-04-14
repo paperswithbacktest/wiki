@@ -32,7 +32,7 @@ Market share can be measured in different ways, depending on what you want to lo
 
 Another way to measure market share is by counting the number of units sold. Instead of looking at dollars, you count how many products a company sold and compare that to the total number of products sold by everyone in the industry. This can be useful if you want to see how many items a company is selling, not just how much money they are making from those sales.
 
-Both ways of measuring market share can be helpful. They give different views of a company's position in the market. Using money can show how much a company is earning, while using units can show how popular their products are. Companies often look at both to get a full picture of their market share.
+Both ways of measuring market share can be helpful. They give different views of a company's position in the market. Using money can show how much a company is [earning](/wiki/earning-announcement), while using units can show how popular their products are. Companies often look at both to get a full picture of their market share.
 
 ## What are the common sources of market share data?
 
@@ -76,7 +76,7 @@ Using market segmentation can make market share numbers more useful for a compan
 
 Advanced statistical methods can help make market share estimates more accurate. One way is to use regression analysis. This method looks at how different things, like price or advertising, affect how much a company sells. By using regression, a company can see which factors are most important for their sales and use this information to make better guesses about their market share. Another method is time series analysis, which looks at how market share changes over time. This can help a company see patterns and predict future market share based on past data.
 
-Another useful method is cluster analysis, which can help with market segmentation. This method groups customers who are similar in their buying habits or needs. By understanding these groups better, a company can calculate their market share within each group more accurately. This can be very helpful for targeting specific parts of the market. Also, using Bayesian statistics can improve market share estimates by combining new data with what the company already knows. This method helps the company update their market share estimates as they get more information, making their predictions more reliable.
+Another useful method is cluster analysis, which can help with market segmentation. This method groups customers who are similar in their buying habits or needs. By understanding these groups better, a company can calculate their market share within each group more accurately. This can be very helpful for targeting specific parts of the market. Also, using Bayesian [statistics](/wiki/bayesian-statistics) can improve market share estimates by combining new data with what the company already knows. This method helps the company update their market share estimates as they get more information, making their predictions more reliable.
 
 ## How can international market dynamics influence a company's global market share?
 

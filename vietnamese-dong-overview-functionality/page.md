@@ -64,7 +64,7 @@ The exchange rates between the Vietnamese Dong and other Southeast Asian currenc
 
 ## What are the common methods of using the Vietnamese Dong for transactions?
 
-In Vietnam, people use the Vietnamese Dong to buy things every day. They can use cash, which means they pay with the actual Dong coins and paper money. When you go to a store or a market, you might see people handing over Dong to pay for their shopping. Some places might also let you use a card, like a debit or credit card, to pay in Dong. This is handy if you don't want to carry a lot of cash around. You can also use mobile payment apps on your phone to pay in Dong, which is becoming more popular, especially among younger people.
+In Vietnam, people use the Vietnamese Dong to buy things every day. They can use cash, which means they pay with the actual Dong coins and paper money. When you go to a store or a market, you might see people handing over Dong to pay for their shopping. Some places might also let you use a card, like a debit or credit card, to pay in Dong. This is handy if you don't want to [carry](/wiki/carry-trading) a lot of cash around. You can also use mobile payment apps on your phone to pay in Dong, which is becoming more popular, especially among younger people.
 
 Another way to use the Vietnamese Dong is through bank transfers. If you need to send money to someone else, you can do it through a bank. This is useful for paying bills or sending money to family and friends. Some people also use online payment services to pay in Dong, which can be good for buying things on the internet. No matter which method you choose, the Vietnamese Dong is the money that makes all these transactions possible in Vietnam.
 

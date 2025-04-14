@@ -186,7 +186,7 @@ The equity risk premium, calculated as $E(R_m) - R_f$, plays a crucial role in a
 
 Algorithmic trading takes this analysis further by dynamically adjusting trading strategies using real-time ERP data. Algorithms can respond quickly to changing market conditions, allowing for precision in trade execution. By integrating ERP into these algorithms, traders can evaluate the relative attractiveness of different equities, making informed decisions on trade entry and [exit](/wiki/exit-strategy) points.
 
-Here's a simple Python example displaying how real-time ERP calculations might inform algorithmic trading decisions:
+Here's a simple Python example displaying how real-time ERP calculations might inform [algorithmic trading](/wiki/algorithmic-trading) decisions:
 
 ```python
 import numpy as np

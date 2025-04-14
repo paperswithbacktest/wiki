@@ -42,7 +42,7 @@ When you see this pattern during an uptrend, it means the price might start goin
 
 To confirm a Head and Shoulders pattern, you need to watch the price closely after the right shoulder forms. The key moment is when the price drops below the neckline. The neckline is a line that connects the lowest points between the head and the shoulders. If the price goes below this line after the right shoulder, it's a strong sign that the pattern is confirmed and the trend might be reversing. Traders often wait for this break below the neckline before deciding to sell their stocks.
 
-Sometimes, traders also look for more signs to be sure. They might wait for the price to close below the neckline, not just touch it. Another sign they might look for is a big increase in trading volume when the price breaks the neckline. This means more people are selling, which makes the signal stronger. By waiting for these extra signs, traders can feel more confident that the Head and Shoulders pattern is really happening and that it's time to act.
+Sometimes, traders also look for more signs to be sure. They might wait for the price to close below the neckline, not just touch it. Another sign they might look for is a big increase in trading [volume](/wiki/volume-trading-strategy) when the price breaks the neckline. This means more people are selling, which makes the signal stronger. By waiting for these extra signs, traders can feel more confident that the Head and Shoulders pattern is really happening and that it's time to act.
 
 ## What is the significance of the neckline in a Head and Shoulders pattern?
 
@@ -54,7 +54,7 @@ Traders often wait for the price to not just touch but also close below the neck
 
 When trading a Head and Shoulders pattern, the common entry point for selling is when the price breaks below the neckline after the right shoulder forms. Traders often wait for the price to close below the neckline to be sure the pattern is confirmed. They might also look for a big increase in trading volume when the price breaks the neckline. This extra sign helps traders feel more confident that the pattern is really happening and it's time to sell their stocks.
 
-The common exit point, or where traders might decide to buy back the stocks they sold, is based on how far the price might drop after breaking the neckline. A simple way to guess this is to measure the distance from the top of the head to the neckline. Traders then expect the price to drop at least that far below the neckline. This helps them decide when to buy back their stocks at a lower price, hoping to make a profit from the difference.
+The common [exit](/wiki/exit-strategy) point, or where traders might decide to buy back the stocks they sold, is based on how far the price might drop after breaking the neckline. A simple way to guess this is to measure the distance from the top of the head to the neckline. Traders then expect the price to drop at least that far below the neckline. This helps them decide when to buy back their stocks at a lower price, hoping to make a profit from the difference.
 
 ## How can volume be used to validate a Head and Shoulders pattern?
 

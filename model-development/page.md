@@ -24,7 +24,7 @@ After preparing the data, you train the model using the training data. During tr
 
 Choosing the right type of model for a specific problem involves understanding the nature of the problem and the data you have. If your problem is about predicting a number, like the price of a house, you might want to use a regression model. If you're trying to classify things into different groups, like spam or not spam emails, a classification model would be better. Also, think about how much data you have and how complex your data is. Simple models like linear regression or decision trees work well with smaller datasets or when the relationships in the data are straightforward. More complex models, like neural networks, might be needed for larger datasets or when the patterns in the data are more complicated.
 
-Another important thing to consider is how much time and computing power you have. Some models, like deep learning models, need a lot of time and powerful computers to train. If you're short on resources, you might want to stick with simpler models. It's also a good idea to start with a simpler model and see how it does. If it doesn't work well, you can try a more complex model. Sometimes, trying out different models and comparing their performance is the best way to find the right one for your problem.
+Another important thing to consider is how much time and computing power you have. Some models, like [deep learning](/wiki/deep-learning) models, need a lot of time and powerful computers to train. If you're short on resources, you might want to stick with simpler models. It's also a good idea to start with a simpler model and see how it does. If it doesn't work well, you can try a more complex model. Sometimes, trying out different models and comparing their performance is the best way to find the right one for your problem.
 
 ## What is the importance of data preprocessing in model development?
 
@@ -34,7 +34,7 @@ Also, data preprocessing helps make the data more useful for the model. This inc
 
 ## How do you split your data into training, validation, and test sets?
 
-Splitting your data into training, validation, and test sets is an important step in machine learning. You usually start with all your data and then divide it into three parts. The training set is the biggest part, often around 60-80% of your data. This is what you use to teach your model how to make predictions or decisions. The validation set is smaller, maybe 10-20% of your data. You use this set to check how well your model is learning while you're still working on it, and to make adjustments if needed.
+Splitting your data into training, validation, and test sets is an important step in [machine learning](/wiki/machine-learning). You usually start with all your data and then divide it into three parts. The training set is the biggest part, often around 60-80% of your data. This is what you use to teach your model how to make predictions or decisions. The validation set is smaller, maybe 10-20% of your data. You use this set to check how well your model is learning while you're still working on it, and to make adjustments if needed.
 
 The test set is the last part, usually around 10-20% of your data. You only use this set once, at the end, to see how well your model works on new data it hasn't seen before. This helps you understand if your model will be good at making predictions in the real world. It's important to keep these sets separate so you don't accidentally make your model too good at recognizing just the data you've shown it, which is called overfitting. By using these three sets correctly, you can build a model that works well and is reliable.
 
@@ -82,7 +82,7 @@ Another trend is the use of automated machine learning, or AutoML. This means us
 
 ## What are your trading goals and how do you set them?
 
-Setting clear objectives is crucial in algorithmic trading as it lays the foundation for developing effective strategies and models. Well-defined goals help traders focus on desired outcomes and assess the suitability of different trading approaches.
+Setting clear objectives is crucial in [algorithmic trading](/wiki/algorithmic-trading) as it lays the foundation for developing effective strategies and models. Well-defined goals help traders focus on desired outcomes and assess the suitability of different trading approaches.
 
 ### Short-term vs. Long-term Trading Goals
 
@@ -94,7 +94,7 @@ Establishing whether your trading strategy will focus on the short-term or long-
 
 ### Risk Tolerance and Capital Allocation
 
-Risk tolerance is an individual trader’s capacity and willingness to endure losses. It plays a pivotal role in forming trading goals and selecting models. Traders with a low risk tolerance may prioritize strategies that preserve capital and have lower volatility, while those with a higher tolerance might pursue more aggressive strategies.
+Risk tolerance is an individual trader’s capacity and willingness to endure losses. It plays a pivotal role in forming trading goals and selecting models. Traders with a low risk tolerance may prioritize strategies that preserve capital and have lower [volatility](/wiki/volatility-trading-strategies), while those with a higher tolerance might pursue more aggressive strategies.
 
 **Capital allocation** involves determining the portion of funds to assign to different trades or strategies. Proper allocation can mitigate risk and enhance the overall effectiveness of an algorithmic trading platform. One common risk management approach is the Kelly Criterion, given by:
 
@@ -154,7 +154,7 @@ In conclusion, diligent data acquisition and rigorous preprocessing and cleaning
 
 Backtesting is a critical component in the development and validation of algorithmic trading models. It refers to the process of testing a trading strategy using historical market data to evaluate its effectiveness before deploying it in live trading. By simulating how a strategy would have performed in the past, traders can gain insights into its potential profitability and robustness under various market conditions without risking actual capital.
 
-A plethora of tools and metrics are employed in backtesting to assess the performance of a trading model. Key performance indicators include the Return on Investment (ROI), drawdown, and the Sharpe ratio. ROI measures the percentage return generated by the strategy relative to its initial investment, providing a clear indication of profitability. Drawdown, on the other hand, highlights the maximum observed decline from a peak to a trough in the equity curve, giving insight into the risk and volatility associated with the strategy. The Sharpe ratio is utilized to evaluate the risk-adjusted return, representing the reward per unit of volatility. It is calculated as:
+A plethora of tools and metrics are employed in [backtesting](/wiki/backtesting) to assess the performance of a trading model. Key performance indicators include the Return on Investment (ROI), drawdown, and the Sharpe ratio. ROI measures the percentage return generated by the strategy relative to its initial investment, providing a clear indication of profitability. Drawdown, on the other hand, highlights the maximum observed decline from a peak to a trough in the equity curve, giving insight into the risk and volatility associated with the strategy. The Sharpe ratio is utilized to evaluate the risk-adjusted return, representing the reward per unit of volatility. It is calculated as:
 
 $$
 \text{Sharpe Ratio} = \frac{E[R_p - R_f]}{\sigma_p}

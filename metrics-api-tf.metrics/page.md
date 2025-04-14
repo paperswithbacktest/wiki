@@ -34,7 +34,7 @@ print(f"The current MSE is: {current_mse}")
 
 ## What are some common metrics provided by tf.metrics?
 
-TensorFlow's `tf.metrics` module offers a variety of common metrics that help you understand how well your machine learning model is performing. Some popular ones include accuracy, which tells you the percentage of correct predictions your model makes, and mean squared error (MSE), which measures the average of the squared differences between your predictions and the actual values. For example, if you want to check how accurate your model is, you can use the `Accuracy` metric like this: ```python
+TensorFlow's `tf.metrics` module offers a variety of common metrics that help you understand how well your [machine learning](/wiki/machine-learning) model is performing. Some popular ones include accuracy, which tells you the percentage of correct predictions your model makes, and mean squared error (MSE), which measures the average of the squared differences between your predictions and the actual values. For example, if you want to check how accurate your model is, you can use the `Accuracy` metric like this: ```python
 import tensorflow as tf
 accuracy = tf.keras.metrics.Accuracy()
 ``` This is useful for tasks like classifying images or texts where you want to see how often your model gets it right.

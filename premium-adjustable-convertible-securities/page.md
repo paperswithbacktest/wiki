@@ -28,7 +28,7 @@ The conversion price for PACS is set higher than the stock price when they are f
 
 ## Who typically issues PACS and why?
 
-Companies often issue Premium Adjustable Convertible Securities (PACS) when they want to raise money. They might do this because they need cash for growing their business, paying off debts, or other big projects. PACS are attractive to companies because they can get money at a lower interest rate than regular bonds. This is because investors are willing to accept a lower interest rate in exchange for the chance to convert their PACS into stock if the company does well.
+Companies often issue Premium Adjustable Convertible Securities (PACS) when they want to raise money. They might do this because they need cash for growing their business, paying off debts, or other big projects. PACS are attractive to companies because they can get money at a lower [interest rate](/wiki/interest-rate-trading-strategies) than regular bonds. This is because investors are willing to accept a lower interest rate in exchange for the chance to convert their PACS into stock if the company does well.
 
 Investors like PACS because they offer a mix of safety and potential for big gains. If the company's stock price goes up a lot, investors can turn their PACS into more shares than they would with a regular convertible bond. This means they could make more money. But if the stock price doesn't go up much, they still get regular interest payments like a normal bond. This makes PACS a good choice for investors who want to balance risk and reward.
 
@@ -88,7 +88,7 @@ The straight bond value represents the bond-like aspect of convertible securitie
 
 On the other hand, the equity-like characteristics are captured through the conversion value, which is the value of the securities if they were to be converted into shares at the prevailing market prices. The conversion value is calculated as the current price of the stock multiplied by the conversion ratio, which specifies the number of shares the convertible security can be converted into.
 
-A sophisticated approach to valuation requires incorporating option pricing models, such as the Black-Scholes model, to assess the embedded options within convertible securities. These models consider factors such as stock price volatility, time to expiration, risk-free interest rates, and the underlying stock's dividend yield. For instance, the Black-Scholes formula for a call option is given by:
+A sophisticated approach to valuation requires incorporating option pricing models, such as the Black-Scholes model, to assess the embedded options within convertible securities. These models consider factors such as stock price [volatility](/wiki/volatility-trading-strategies), time to expiration, risk-free interest rates, and the underlying stock's dividend yield. For instance, the Black-Scholes formula for a call option is given by:
 
 $$
 C = S_0 N(d_1) - X e^{-rT} N(d_2)
@@ -107,7 +107,7 @@ The model provides a theoretical estimate of the price of the converts' call opt
 
 Sharing equal importance, market conditions require vigilant consideration due to their significant impact on both the bond and equity markets. Changes in interest rates, for example, directly affect the straight bond value by altering the discount rate for cash flow calculations, while stock volatility can influence the valuation provided by option pricing models. Arbitrageurs, therefore, must adjust their valuations in real-time, continually reassessing both the intrinsic and market values as conditions change.
 
-In sum, effective valuation of convertible securities is critical for the successful execution of strategies like convertible arbitrage. This involves maintaining a careful balance of up-to-date market assessments and reliable valuation methodologies, ensuring that these complex instruments are fairly priced, and facilitating opportunities for arbitrage trading.
+In sum, effective valuation of convertible securities is critical for the successful execution of strategies like convertible [arbitrage](/wiki/arbitrage). This involves maintaining a careful balance of up-to-date market assessments and reliable valuation methodologies, ensuring that these complex instruments are fairly priced, and facilitating opportunities for arbitrage trading.
 
 ## References & Further Reading
 

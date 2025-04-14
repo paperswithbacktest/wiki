@@ -28,7 +28,7 @@ These securities also help set prices for other securities. Since they are trade
 
 ## How are On-The-Run Treasuries issued by the U.S. Treasury?
 
-On-The-Run Treasuries are issued by the U.S. Treasury through a process called an auction. The Treasury announces when it will hold an auction for new securities, like Treasury bills, notes, or bonds. Investors can then submit bids saying how much they want to buy and what interest rate they are willing to accept. The Treasury accepts the bids with the lowest interest rates first until it has sold all the securities it wants to issue. The securities sold at this auction then become the new On-The-Run Treasuries.
+On-The-Run Treasuries are issued by the U.S. Treasury through a process called an auction. The Treasury announces when it will hold an auction for new securities, like Treasury bills, notes, or bonds. Investors can then submit bids saying how much they want to buy and what [interest rate](/wiki/interest-rate-trading-strategies) they are willing to accept. The Treasury accepts the bids with the lowest interest rates first until it has sold all the securities it wants to issue. The securities sold at this auction then become the new On-The-Run Treasuries.
 
 After the auction, the new On-The-Run Treasuries start trading in the market. They are the most recent securities available, so they are very popular and traded a lot. This makes them easy to buy and sell, which is important for investors who want to quickly change their investments. The prices and interest rates of these new securities also help set the standard for other securities in the market, making On-The-Run Treasuries important for the whole financial system.
 
@@ -36,7 +36,7 @@ After the auction, the new On-The-Run Treasuries start trading in the market. Th
 
 On-The-Run Treasuries come in different types, each with its own typical maturity. Treasury bills, or T-bills, are short-term securities that usually mature in a few weeks to one year. They are used by the government to meet short-term financial needs. Treasury notes, or T-notes, have longer maturities, typically ranging from two to ten years. These are popular among investors looking for a bit more stability and a steady income over a longer period.
 
-Treasury bonds, or T-bonds, are the longest-term On-The-Run Treasuries, with maturities of 20 or 30 years. They are used by investors who want to lock in interest rates for a long time and are looking for a safe investment over many years. Each type of On-The-Run Treasury serves different needs in the market, from short-term liquidity to long-term investment stability.
+Treasury bonds, or T-bonds, are the longest-term On-The-Run Treasuries, with maturities of 20 or 30 years. They are used by investors who want to lock in interest rates for a long time and are looking for a safe investment over many years. Each type of On-The-Run Treasury serves different needs in the market, from short-term [liquidity](/wiki/liquidity-risk-premium) to long-term investment stability.
 
 ## How can an investor purchase On-The-Run Treasuries?
 
@@ -78,7 +78,7 @@ Another risk is inflation risk. If inflation goes up a lot, the money you get ba
 
 Macroeconomic factors like inflation, economic growth, and government policy can have a big effect on the pricing and trading of On-The-Run Treasuries. When inflation goes up, people might expect interest rates to go up too. This can make the prices of existing Treasuries go down because new Treasuries might offer higher interest rates. Also, if the economy is doing well, investors might want to put their money in riskier investments that could give them higher returns. This can make fewer people want to buy Treasuries, which can also lower their prices.
 
-Government policy is another big factor. If the government decides to spend more money, it might need to borrow more by issuing more Treasuries. This can make the supply of Treasuries go up, which can lower their prices. On the other hand, if the government tries to control inflation by raising interest rates, this can make the prices of existing Treasuries go down too. All these factors together can make the market for On-The-Run Treasuries change a lot, affecting how much people want to buy or sell them and at what price.
+Government policy is another big [factor](/wiki/factor-investing). If the government decides to spend more money, it might need to borrow more by issuing more Treasuries. This can make the supply of Treasuries go up, which can lower their prices. On the other hand, if the government tries to control inflation by raising interest rates, this can make the prices of existing Treasuries go down too. All these factors together can make the market for On-The-Run Treasuries change a lot, affecting how much people want to buy or sell them and at what price.
 
 ## References & Further Reading
 

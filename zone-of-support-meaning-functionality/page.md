@@ -40,7 +40,7 @@ A single support level, on the other hand, is a specific price point where the a
 
 ## How does volume affect the strength of a Zone of Support?
 
-Volume is like the number of people buying and selling a stock. When a lot of people are trading, it's called high volume. If a Zone of Support has high volume when the price reaches it, it means many people think the price is a good deal and are buying it. This makes the Zone of Support stronger because more people are helping to push the price up. It's like having more people holding up a heavy object; it's less likely to fall.
+Volume is like the number of people buying and selling a stock. When a lot of people are trading, it's called high [volume](/wiki/volume-trading-strategy). If a Zone of Support has high volume when the price reaches it, it means many people think the price is a good deal and are buying it. This makes the Zone of Support stronger because more people are helping to push the price up. It's like having more people holding up a heavy object; it's less likely to fall.
 
 On the other hand, if the volume is low when the price hits the Zone of Support, it means fewer people are interested in buying at that price. This can make the Zone of Support weaker because there aren't enough people to push the price up. It's like having fewer people holding up a heavy object; it might not be enough to keep it from falling. So, high volume can make a Zone of Support stronger, while low volume can make it weaker.
 
@@ -80,7 +80,7 @@ In a bear market, where prices are generally going down, Zones of Support can st
 
 Algorithmic trading strategies can use Zones of Support to decide when to buy or sell a stock. These strategies are like computer programs that follow rules to trade automatically. If the program sees the price of a stock going down to a Zone of Support, it might decide to buy the stock. The program knows that many people think the price is a good deal at this level, so it expects the price to go up again. By buying at the support zone, the algorithm hopes to sell the stock later at a higher price and make a profit.
 
-To make these strategies work better, the program can also look at other things like how many people are buying and selling (volume) and other technical indicators. For example, if the price hits a Zone of Support and the volume is high, it means more people are buying, making the support zone stronger. The program can use this information to be more sure about when to buy. By combining Zones of Support with other data, algorithmic trading strategies can make smarter decisions and possibly make more money.
+To make these strategies work better, the program can also look at other things like how many people are buying and selling (volume) and other technical indicators. For example, if the price hits a Zone of Support and the volume is high, it means more people are buying, making the support zone stronger. The program can use this information to be more sure about when to buy. By combining Zones of Support with other data, [algorithmic trading](/wiki/algorithmic-trading) strategies can make smarter decisions and possibly make more money.
 
 ## References & Further Reading
 

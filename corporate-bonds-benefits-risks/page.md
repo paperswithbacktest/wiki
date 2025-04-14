@@ -24,7 +24,7 @@ Another difference is the level of risk and the interest rate. Corporate bonds u
 
 One of the main benefits of investing in corporate bonds is the steady income they provide. When you buy a corporate bond, the company pays you interest regularly, usually every six months. This can be a good way to earn money without taking too much risk. It's like getting paid for lending your money to the company.
 
-Another benefit is that corporate bonds can be less risky than stocks. If a company does well, the value of its stocks can go up a lot, but it can also go down a lot. With bonds, you know how much interest you will get and when you will get your money back, as long as the company doesn't go bankrupt. This makes bonds a safer choice for people who want to protect their money while still earning some interest.
+Another benefit is that corporate bonds can be less risky than stocks. If a company does well, the value of its stocks can go up a lot, but it can also go down a lot. With bonds, you know how much interest you will get and when you will get your money back, as long as the company doesn't go bankrupt. This makes bonds a safer choice for people who want to protect their money while still [earning](/wiki/earning-announcement) some interest.
 
 ## What are the risks associated with corporate bonds?
 
@@ -86,7 +86,7 @@ A third strategy is to pay attention to credit ratings and diversify across diff
 
 ## What are the risks associated with corporate bonds?
 
-Corporate bonds, while offering attractive returns, come with a set of inherent risks that investors must carefully consider. One of the primary risks is credit risk, which is the possibility that the bond issuer may default on its payment obligations. This can occur if the issuing company faces financial difficulties, leading to missed interest payments or, in the worst case, a failure to return the principal amount to bondholders. Credit risk is a crucial factor in determining the bond’s [interest rate](/wiki/interest-rate-trading-strategies); higher perceived risk results in higher yields to attract investors.
+Corporate bonds, while offering attractive returns, come with a set of inherent risks that investors must carefully consider. One of the primary risks is credit risk, which is the possibility that the bond issuer may default on its payment obligations. This can occur if the issuing company faces financial difficulties, leading to missed interest payments or, in the worst case, a failure to return the principal amount to bondholders. Credit risk is a crucial [factor](/wiki/factor-investing) in determining the bond’s [interest rate](/wiki/interest-rate-trading-strategies); higher perceived risk results in higher yields to attract investors.
 
 Closely tied to credit risk is the risk of rating downgrades. Credit rating agencies such as Moody's, Standard & Poor's, and Fitch provide ratings that assess the creditworthiness of bond issuers. A downgrade in a bond's rating often signals an increased risk of default, leading to a decline in the bond's market value. For instance, if a bond is downgraded from 'A' to 'B', its market price may fall as investors demand higher yields for increased risk.
 

@@ -26,7 +26,7 @@ AI can use a method called regression analysis to predict dividend growth. Regre
 
 Another technique is time series analysis. This method focuses on data that is collected over time, like monthly or yearly dividend payments. AI can use time series analysis to see if there are any regular patterns in the data, like if dividends go up every year or if they change with the economy. By understanding these patterns, AI can make better predictions about future dividend growth.
 
-Machine learning is also a powerful tool for predicting dividend growth. Machine learning algorithms can learn from past data and improve their predictions over time. For example, AI can use machine learning to look at not just dividend data, but also other information like a company's profits, the overall market, and even news about the company. By considering all this information, machine learning can make more accurate predictions about how dividends might grow in the future.
+Machine learning is also a powerful tool for predicting dividend growth. Machine learning algorithms can learn from past data and improve their predictions over time. For example, AI can use [machine learning](/wiki/machine-learning) to look at not just dividend data, but also other information like a company's profits, the overall market, and even news about the company. By considering all this information, machine learning can make more accurate predictions about how dividends might grow in the future.
 
 ## How does AI help in identifying undervalued dividend stocks?
 

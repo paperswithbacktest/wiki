@@ -58,7 +58,7 @@ Synthetic data is most commonly used in the healthcare industry. Hospitals and r
 
 Another industry that uses synthetic data a lot is finance. Banks and financial companies use it to test new systems and train computer programs without using real customer data. This helps them keep their customers' information safe while still being able to improve their services. For example, a bank might use synthetic data to test a new app that helps people manage their money, making sure it works well before using it with real customers.
 
-Synthetic data is also used in the technology industry. Tech companies use it to train artificial intelligence (AI) and machine learning models. This helps them develop new products and services without needing real data, which can be hard to get or use because of privacy rules. For example, a tech company might use synthetic data to train an AI that can understand and respond to human speech, making sure it works well before using it in real products.
+Synthetic data is also used in the technology industry. Tech companies use it to train [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning) models. This helps them develop new products and services without needing real data, which can be hard to get or use because of privacy rules. For example, a tech company might use synthetic data to train an AI that can understand and respond to human speech, making sure it works well before using it in real products.
 
 ## What are the ethical considerations when using synthetic data?
 

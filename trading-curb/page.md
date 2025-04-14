@@ -54,7 +54,7 @@ The second level is a Level 2 curb, which is used if the market falls even more,
 
 ## How do trading curbs impact market volatility?
 
-Trading curbs help lower market volatility by stopping trading when the market drops a lot in a short time. When the market is falling fast, people might start selling their stocks in a panic. This can make prices drop even more and make the market go wild. But if trading stops for a while, it gives everyone a chance to calm down. This can stop the panic and help keep the market from getting too crazy.
+Trading curbs help lower market [volatility](/wiki/volatility-trading-strategies) by stopping trading when the market drops a lot in a short time. When the market is falling fast, people might start selling their stocks in a panic. This can make prices drop even more and make the market go wild. But if trading stops for a while, it gives everyone a chance to calm down. This can stop the panic and help keep the market from getting too crazy.
 
 When trading starts again after a curb, people might feel less worried and more ready to buy stocks. This can help the market become more stable. The main goal of trading curbs is not to make prices go up or down, but to keep the market from getting too wild and to protect investors from big losses. By pausing trading, curbs give people time to look at the situation and make better choices, which can help lower market volatility.
 

@@ -20,7 +20,7 @@ People and institutions buy bonds for many reasons. Some want a steady income fr
 
 When you acquire a bond, it means you are buying it from someone else or directly from the issuer, like a company or the government. You give them money now, and in return, they give you a bond. This bond is like a promise that says they will pay you back the money you gave them, plus some extra money called interest, at a certain time in the future.
 
-Bonds can be bought in different ways. You might buy them when they are first issued, which is called the primary market. Or, you might buy them from someone else who already owns them, which is called the secondary market. No matter how you get the bond, once you own it, you start earning interest until the bond matures and you get your money back.
+Bonds can be bought in different ways. You might buy them when they are first issued, which is called the primary market. Or, you might buy them from someone else who already owns them, which is called the secondary market. No matter how you get the bond, once you own it, you start [earning](/wiki/earning-announcement) interest until the bond matures and you get your money back.
 
 ## What is a coupon rate?
 
@@ -86,7 +86,7 @@ Bonds can also help you reach different goals in your investment plan. If you wa
 
 Bonds are a type of fixed-income security issued by corporations, municipalities, and governments as a means of raising capital. When an entity issues a bond, it essentially borrows money from investors, promising to repay the face value of the bond at maturity, along with periodic interest payments known as coupon payments. These coupon payments are typically disbursed semi-annually or annually and represent a fixed percentage of the bond's face value, known as the coupon rate.
 
-The coupon rate is a critical factor in determining a bond's attractiveness to potential investors. For example, if a bond has a face value of $1,000 and an annual coupon rate of 5%, it will pay $50 in interest each year until it matures. Bonds with higher coupon rates are generally more attractive to investors seeking regular income, especially in rising interest rate environments. In such scenarios, newer bonds may be issued with higher coupon rates, which increases their appeal in comparison to older bonds with lower rates.
+The coupon rate is a critical [factor](/wiki/factor-investing) in determining a bond's attractiveness to potential investors. For example, if a bond has a face value of $1,000 and an annual coupon rate of 5%, it will pay $50 in interest each year until it matures. Bonds with higher coupon rates are generally more attractive to investors seeking regular income, especially in rising interest rate environments. In such scenarios, newer bonds may be issued with higher coupon rates, which increases their appeal in comparison to older bonds with lower rates.
 
 The interplay between bond prices, interest rates, and coupon rates is fundamental to bond investment strategy. When interest rates rise, existing bonds with lower coupon rates may decline in value, as newer issues offer higher yields that are more attractive. Conversely, when interest rates fall, the value of existing bonds with higher coupon rates tends to increase.
 

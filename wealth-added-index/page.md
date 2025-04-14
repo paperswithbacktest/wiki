@@ -28,7 +28,7 @@ The other part is the cost of the money the company uses, which is called the ca
 
 ## Why is the Wealth Added Index important for investors?
 
-The Wealth Added Index (WAI) is important for investors because it helps them see if a company is good at making money for its shareholders. It tells investors if a company is making more money than it costs to run the business. If the WAI is positive, it means the company is doing well and adding wealth. If it's negative, the company might be spending more than it's earning, which is not good for investors.
+The Wealth Added Index (WAI) is important for investors because it helps them see if a company is good at making money for its shareholders. It tells investors if a company is making more money than it costs to run the business. If the WAI is positive, it means the company is doing well and adding wealth. If it's negative, the company might be spending more than it's [earning](/wiki/earning-announcement), which is not good for investors.
 
 WAI is different from other ways of looking at a company's money because it takes into account the cost of the money the company uses. This gives investors a clearer picture of how well the company is doing. By using WAI, investors can make better choices about where to put their money. They can see if a company is really adding value or if it's just making profits that don't cover the cost of running the business.
 

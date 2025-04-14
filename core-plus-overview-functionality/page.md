@@ -104,7 +104,7 @@ In the equity domain, the JPMorgan U.S. Large Cap Core Plus Fund offers insight 
 
 These examples reveal the strategic flexibility provided by core plus strategies. By balancing core stability with potential high-reward investments, fund managers can effectively respond to diverse market challenges. For investors, this means enhanced diversification and a refined risk-reward profile.
 
-In practice, these funds leverage algorithmic trading and quantitative models to adjust portfolio components efficiently, mitigating risks, and exploiting short-term market movements. This agility is crucial in today's fast-paced markets, enabling managers to optimize timing and asset selection with precision.
+In practice, these funds leverage [algorithmic trading](/wiki/algorithmic-trading) and quantitative models to adjust portfolio components efficiently, mitigating risks, and exploiting short-term market movements. This agility is crucial in today's fast-paced markets, enabling managers to optimize timing and asset selection with precision.
 
 Both the JPMorgan Core Plus Bond Fund and the JPMorgan U.S. Large Cap Core Plus Fund illustrate core plus strategies' capacity to blend predictable returns with the pursuit of additional gains. These approaches show that with prudent management and decisive execution, core plus strategies can provide a robust investment framework adaptable to fluctuating market environments.
 
@@ -136,7 +136,7 @@ $$
 
 ### Strategy Refinements and Risk Management
 
-Backtesting provides critical insights that can lead to strategy refinements. By analyzing historical performance, investors can adjust parameters to improve returns while minimizing risks. Effective risk management strategies, such as stop-loss orders and diversification, can be implemented based on backtesting results. 
+Backtesting provides critical insights that can lead to strategy refinements. By analyzing historical performance, investors can adjust parameters to improve returns while minimizing risks. Effective risk management strategies, such as stop-loss orders and diversification, can be implemented based on [backtesting](/wiki/backtesting) results. 
 
 A well-constructed backtesting framework allows for the continuous development and adjustment of strategies. Using programming languages like Python, investors can automate the backtesting process. Python's powerful libraries, including pandas and numpy, offer robust tools for data analysis and visualization.
 

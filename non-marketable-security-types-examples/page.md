@@ -52,7 +52,7 @@ Using non-marketable securities in your financial plan can help you set money as
 
 ## How are non-marketable securities valued, and what challenges do investors face in this regard?
 
-Non-marketable securities are valued differently than marketable ones because they can't be bought or sold on the open market. For example, U.S. Savings Bonds are valued based on their interest rate and how long you've had them. If you have a Series EE Bond, you know it will earn a fixed rate of interest over time. Series I Bonds earn interest based on both a fixed rate and an inflation rate. So, the value of these bonds grows slowly and predictably, but you have to wait until they mature to get the full value.
+Non-marketable securities are valued differently than marketable ones because they can't be bought or sold on the open market. For example, U.S. Savings Bonds are valued based on their [interest rate](/wiki/interest-rate-trading-strategies) and how long you've had them. If you have a Series EE Bond, you know it will earn a fixed rate of interest over time. Series I Bonds earn interest based on both a fixed rate and an inflation rate. So, the value of these bonds grows slowly and predictably, but you have to wait until they mature to get the full value.
 
 Investors face some challenges with non-marketable securities. The biggest challenge is that you can't sell them whenever you want. If you need money quickly, you might have to wait until the bond matures or pay a penalty to cash it in early. Another challenge is that they usually offer lower returns compared to marketable securities like stocks. This means your money might grow more slowly. But, on the plus side, non-marketable securities are very safe because they are backed by the government, so they are good for long-term saving without the risk of losing money.
 
@@ -72,7 +72,7 @@ To do this, you would cash in your U.S. Savings Bonds at a bank or through the T
 
 When you invest in non-marketable securities like U.S. Savings Bonds, you need to think about how easy it is to get your money back. These securities are not as liquid as marketable securities like stocks or bonds that you can sell quickly on the stock market. With non-marketable securities, you usually have to wait until they reach their maturity date before you can cash them in without losing some money. If you need to get your money back early, you might have to pay a penalty, which means you won't get as much money as you hoped.
 
-This lack of liquidity can be a big deal if you need money fast for an emergency. Non-marketable securities are good for long-term savings goals, like saving for retirement or education, because they are safe and grow slowly over time. But if you think you might need to use the money sooner, you should be careful about putting too much into non-marketable securities. They are not the best choice if you need to be able to get your money quickly.
+This lack of [liquidity](/wiki/liquidity-risk-premium) can be a big deal if you need money fast for an emergency. Non-marketable securities are good for long-term savings goals, like saving for retirement or education, because they are safe and grow slowly over time. But if you think you might need to use the money sooner, you should be careful about putting too much into non-marketable securities. They are not the best choice if you need to be able to get your money quickly.
 
 ## How do non-marketable securities fit into broader investment strategies, particularly for institutional investors?
 
@@ -82,7 +82,7 @@ For these investors, non-marketable securities are a way to balance their portfo
 
 ## How can non-marketable securities be integrated with algorithmic trading?
 
-Non-marketable securities present unique challenges for algorithmic trading, primarily due to their illiquidity and the lack of a secondary market for easy transaction execution. However, by employing hybrid strategies, algorithmic trading can effectively incorporate these instruments into broader investment strategies.
+Non-marketable securities present unique challenges for [algorithmic trading](/wiki/algorithmic-trading), primarily due to their illiquidity and the lack of a secondary market for easy transaction execution. However, by employing hybrid strategies, algorithmic trading can effectively incorporate these instruments into broader investment strategies.
 
 Algorithmic tools offer significant assistance in valuing non-marketable securities. Given their complexity and limited trading activity, sophisticated models are necessary to estimate their fair value accurately. Techniques such as discounted cash flow analysis, which involves calculating the present value of expected future cash flows, can be adapted and automated through algorithmic processes. For instance, an algorithm could apply the formula:
 
@@ -94,7 +94,7 @@ where $CF_t$ represents the cash flow at time $t$, $r$ is the discount rate, and
 
 Negotiating private transactions, another challenge posed by non-marketable securities, can be enhanced using algorithmic solutions. By employing [machine learning](/wiki/machine-learning) techniques, algorithms can analyze historical transaction data and market conditions to suggest optimal pricing and terms for private negotiations. This application of algorithmic trading reduces the time and effort required and increases the likelihood of successful transactions.
 
-Advanced models further enhance trading strategies involving non-marketable securities by addressing their unique features. For example, certain algorithmic frameworks can simulate various market scenarios and stress test investment portfolios, allowing traders to assess how non-marketable securities might perform under different conditions. Additionally, algorithms can be programmed to identify potential arbitrage opportunities or to optimize the composition of portfolios, balancing liquidity and stability by integrating non-marketable instruments with more liquid assets.
+Advanced models further enhance trading strategies involving non-marketable securities by addressing their unique features. For example, certain algorithmic frameworks can simulate various market scenarios and stress test investment portfolios, allowing traders to assess how non-marketable securities might perform under different conditions. Additionally, algorithms can be programmed to identify potential [arbitrage](/wiki/arbitrage) opportunities or to optimize the composition of portfolios, balancing liquidity and stability by integrating non-marketable instruments with more liquid assets.
 
 Programming languages like Python offer robust libraries such as NumPy for performing complex financial calculations or scikit-learn for implementing machine learning models, making them ideal for developing these advanced algorithmic solutions. Here's a simple Python snippet illustrating the setup for calculating a discounted cash flow:
 

@@ -116,7 +116,7 @@ The strategic selection and management of earning assets thus form the backbone 
 
 ## What are the Key Performance Metrics for Trading Algorithms?
 
-When evaluating the effectiveness and reliability of algorithmic trading strategies, several key performance metrics are commonly used. These metrics not only assess the potential returns but also gauge the risk and stability of the trading strategies employed.
+When evaluating the effectiveness and reliability of [algorithmic trading](/wiki/algorithmic-trading) strategies, several key performance metrics are commonly used. These metrics not only assess the potential returns but also gauge the risk and stability of the trading strategies employed.
 
 One of the principal metrics is the **Sharpe Ratio**, which measures risk-adjusted returns. It is calculated by taking the difference between the return of the investment and the risk-free rate, then dividing by the standard deviation of the investment’s return. Mathematically, it is expressed as:
 

@@ -80,7 +80,7 @@ Vanguard also tries to make investing easy for everyone, not just people who kno
 
 One potential risk of Vanguard's ownership model is that it might make the company less focused on making big profits. Because Vanguard is owned by its clients, it works hard to keep costs low and help people save and grow their money. But some people might think this means Vanguard doesn't try hard enough to find the best investments or make as much money as it could. They might say that a company owned by a few rich people or a big corporation might push harder to make more money, even if it means charging clients more.
 
-Another criticism is that Vanguard's focus on index funds might make it less interested in picking individual stocks or trying new investment ideas. Some people think that by sticking mostly to index funds, Vanguard might miss out on big opportunities to make more money for its clients. They might say that other investment firms, which are not owned by their clients, might be more willing to take risks and try new things to grow their clients' money faster.
+Another criticism is that Vanguard's focus on index funds might make it less interested in [picking](/wiki/asset-class-picking) individual stocks or trying new investment ideas. Some people think that by sticking mostly to index funds, Vanguard might miss out on big opportunities to make more money for its clients. They might say that other investment firms, which are not owned by their clients, might be more willing to take risks and try new things to grow their clients' money faster.
 
 ## What is Algorithmic Trading at Vanguard?
 

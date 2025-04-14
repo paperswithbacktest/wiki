@@ -84,7 +84,7 @@ For forecasting, using a non-negative rolled price series can make predictions m
 
 ## What are the methods to construct non-negative rolled price series?
 
-Constructing non-negative rolled price series is integral to maintaining data integrity in algorithmic trading, especially for instruments like futures contracts that require periodic rollovers. Several techniques are employed to achieve this, each with distinct attributes compatible with different trading strategies and return calculations.
+Constructing non-negative rolled price series is integral to maintaining data integrity in [algorithmic trading](/wiki/algorithmic-trading), especially for instruments like futures contracts that require periodic rollovers. Several techniques are employed to achieve this, each with distinct attributes compatible with different trading strategies and return calculations.
 
 **Gap Adjustments**
 
@@ -98,7 +98,7 @@ Where $P'_{t}$ is the adjusted price at time $t$, $P_{t}$ is the original price,
 
 **Proportional Adjustments**
 
-Proportional adjustments are used to maintain the relative changes between prices, often necessary for strategies focused on percentage-based gains or losses. This method maintains the proportional relationships in price movements, ensuring that the price series remains non-negative and realistic for backtesting. The task is accomplished by applying proportional scaling typically aligned with historical price relations:
+Proportional adjustments are used to maintain the relative changes between prices, often necessary for strategies focused on percentage-based gains or losses. This method maintains the proportional relationships in price movements, ensuring that the price series remains non-negative and realistic for [backtesting](/wiki/backtesting). The task is accomplished by applying proportional scaling typically aligned with historical price relations:
 
 ```python
 import pandas as pd

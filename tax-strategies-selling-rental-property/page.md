@@ -58,7 +58,7 @@ Another way to lower your taxes is by deducting as many expenses as you can when
 
 ## What are the tax implications of selling a rental property at a loss?
 
-If you sell your rental property for less than what you paid for it, you have a loss. This is called a capital loss. You can use this loss to lower your taxes. You can subtract your capital loss from any capital gains you made that year from selling other things, like stocks or another property. If your loss is more than your gains, you can use up to $3,000 of the extra loss to lower your regular income tax. If you still have more loss left over, you can carry it over to future years to keep lowering your taxes.
+If you sell your rental property for less than what you paid for it, you have a loss. This is called a capital loss. You can use this loss to lower your taxes. You can subtract your capital loss from any capital gains you made that year from selling other things, like stocks or another property. If your loss is more than your gains, you can use up to $3,000 of the extra loss to lower your regular income tax. If you still have more loss left over, you can [carry](/wiki/carry-trading) it over to future years to keep lowering your taxes.
 
 It's important to know that you can't claim a loss on the sale of a rental property if you used it as your main home for part of the time you owned it. The IRS has rules about this. If you lived in the property for two of the last five years before selling, you can't claim a loss on the part of the property that was your main home. You can only claim a loss on the part that was used as a rental. Keeping good records of how you used the property can help you figure out if you can claim a loss and how much.
 

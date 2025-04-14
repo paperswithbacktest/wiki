@@ -18,7 +18,7 @@ The index was created by Peter Haurlan, who was a stock market analyst. He wante
 
 The Haurlan Index was developed by Peter Haurlan. He was a stock market analyst who wanted to find a better way to understand how the market was doing. Peter Haurlan created this index to help investors see the market's trends more clearly by looking at short-term, intermediate-term, and long-term movements.
 
-He introduced the Haurlan Index in the 1960s. During this time, he was working as a technical analyst and wanted to provide a tool that could give a complete picture of the market's health. By using momentum to measure how fast the market was moving in different time periods, Peter Haurlan's index helped investors make smarter choices about buying and selling stocks.
+He introduced the Haurlan Index in the 1960s. During this time, he was working as a technical analyst and wanted to provide a tool that could give a complete picture of the market's health. By using [momentum](/wiki/momentum) to measure how fast the market was moving in different time periods, Peter Haurlan's index helped investors make smarter choices about buying and selling stocks.
 
 ## What are the main components of the Haurlan Index?
 
@@ -84,7 +84,7 @@ Some expert traders also use a technique called smoothing to make the Haurlan In
 
 ## How can the Haurlan Index be implemented in algorithmic trading?
 
-Implementing the Haurlan Index in algorithmic trading involves several critical steps to ensure its effectiveness in automated trading systems. Selecting reliable data sources is vital for the success of any strategy utilizing the Haurlan Index, as the index relies on the accurate calculation of advanced and declined stock values. Real-time data feeds are crucial to maintain the precision of index values required for initiating trades at optimal times. The calculation of the Haurlan Index is as follows:
+Implementing the Haurlan Index in [algorithmic trading](/wiki/algorithmic-trading) involves several critical steps to ensure its effectiveness in automated trading systems. Selecting reliable data sources is vital for the success of any strategy utilizing the Haurlan Index, as the index relies on the accurate calculation of advanced and declined stock values. Real-time data feeds are crucial to maintain the precision of index values required for initiating trades at optimal times. The calculation of the Haurlan Index is as follows:
 
 $$
 \text{Haurlan Index} = \frac{(A - D)}{(A + D)}

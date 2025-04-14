@@ -44,7 +44,7 @@ These differences can also affect how a business manages its inventory and plans
 
 The choice of inventory method, like FIFO or LIFO, changes how much it costs to sell your stuff, which is called the cost of goods sold (COGS). With FIFO, you sell the oldest things first. If prices are going up, the stuff you sell is cheaper because you bought it a long time ago. So, your COGS is lower because you're using the old, lower prices. But if prices are going down, FIFO makes your COGS higher because you're selling the more expensive stuff you bought earlier.
 
-On the other hand, with LIFO, you sell the newest things first. If prices are going up, the stuff you sell is more expensive because you bought it recently. This makes your COGS higher because you're using the new, higher prices. But if prices are going down, LIFO makes your COGS lower because you're selling the less expensive stuff you bought more recently. So, the method you pick can make a big difference in how much you say it costs to sell your products, and that affects how much profit you show on your books.
+On the other hand, with LIFO, you sell the newest things first. If prices are going up, the stuff you sell is more expensive because you bought it recently. This makes your COGS higher because you're using the new, higher prices. But if prices are going down, LIFO makes your COGS lower because you're selling the less expensive stuff you bought more recently. So, the method you pick can make a big difference in how much you say it costs to sell your products, and that affects how much profit you show on your [books](/wiki/algo-trading-books).
 
 ## In what scenarios would a company choose to use the Weighted Average method over FIFO or LIFO?
 

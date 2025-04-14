@@ -22,7 +22,7 @@ On the other hand, Projected Benefit Obligation (PBO) takes a longer view. It no
 
 ## What are the key components that make up ABO?
 
-The key components of Accumulated Benefit Obligation (ABO) are the employees' years of service and their current salary. When calculating ABO, a company looks at how long each employee has worked for them. This is important because pension benefits often increase the longer someone works at a company. The other part is the employee's salary at the time of the calculation. This means ABO uses the salary the employee is earning right now, not what they might earn in the future.
+The key components of Accumulated Benefit Obligation (ABO) are the employees' years of service and their current salary. When calculating ABO, a company looks at how long each employee has worked for them. This is important because pension benefits often increase the longer someone works at a company. The other part is the employee's salary at the time of the calculation. This means ABO uses the salary the employee is [earning](/wiki/earning-announcement) right now, not what they might earn in the future.
 
 These two components help the company figure out how much money they need to set aside for pensions if all employees were to retire immediately. By using the current salary and years of service, ABO gives a clear picture of the company's current pension obligations. It's a useful tool for companies to understand their financial responsibilities towards their employees' retirement without considering future salary changes.
 

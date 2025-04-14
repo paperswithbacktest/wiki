@@ -64,7 +64,7 @@ Another way bond banks manage risks is by spreading out their loans. Instead of 
 
 ## What are some notable examples of successful bond bank projects?
 
-One great example of a successful bond bank project is the Vermont Municipal Bond Bank helping the town of St. Albans build a new wastewater treatment plant. St. Albans needed a new plant to keep their water clean, but they were too small to borrow the money on their own. The Vermont Municipal Bond Bank stepped in and issued bonds for them. This way, St. Albans got the money they needed at a good interest rate, and now they have a new plant that helps keep their water clean for everyone.
+One great example of a successful bond bank project is the Vermont Municipal Bond Bank helping the town of St. Albans build a new wastewater treatment plant. St. Albans needed a new plant to keep their water clean, but they were too small to borrow the money on their own. The Vermont Municipal Bond Bank stepped in and issued bonds for them. This way, St. Albans got the money they needed at a good [interest rate](/wiki/interest-rate-trading-strategies), and now they have a new plant that helps keep their water clean for everyone.
 
 Another good example is the Illinois Finance Authority helping the city of Rockford fix up their old roads. Rockford wanted to make their streets safer and smoother, but they didn't have enough money to do it all at once. The Illinois Finance Authority used a bond bank to gather money from investors and lend it to Rockford. With this help, Rockford was able to fix their roads and make their city a better place to live.
 
@@ -82,7 +82,7 @@ Another big change that might affect bond banks is climate change. More and more
 
 ## What is the Intersection of Bond Markets and Algorithmic Trading?
 
-Algorithmic trading, with its origins in the equity markets, has increasingly permeated bond markets, offering distinct avenues for automating and optimizing trading strategies. The application of algorithmic trading in bond markets aims to enhance efficiency in trade execution, reduce costs, and improve liquidity.
+Algorithmic trading, with its origins in the equity markets, has increasingly permeated bond markets, offering distinct avenues for automating and optimizing trading strategies. The application of [algorithmic trading](/wiki/algorithmic-trading) in bond markets aims to enhance efficiency in trade execution, reduce costs, and improve [liquidity](/wiki/liquidity-risk-premium).
 
 One of the core strategies used by algorithmic traders in the bond market is the Volume-Weighted Average Price (VWAP) strategy. The VWAP is a trading benchmark that gives the average price a security has traded at throughout the day, based on both [volume](/wiki/volume-trading-strategy) and price. The formula for VWAP is:
 
@@ -97,7 +97,7 @@ Another strategy, mean reversion, is predicated on the idea that bond prices flu
 
 Algorithmic trading in bond markets offers several advantages. Increased execution speed and reduced transaction costs are primary benefits, as automated systems can process trades at scales and speeds beyond human capability, minimizing human error. Furthermore, by systematically analyzing vast data sets, algorithms provide improved pricing accuracy and market insights.
 
-However, algorithmic trading also comes with risks. High-speed trading can exacerbate market volatility, leading to phenomena such as flash crashes, where prices plummet unexpectedly within a very short time frame. Such occurrences highlight systemic risks inherent in automated trading systems. Regulators and financial institutions must implement robust risk management measures to mitigate these effects.
+However, algorithmic trading also comes with risks. High-speed trading can exacerbate market [volatility](/wiki/volatility-trading-strategies), leading to phenomena such as flash crashes, where prices plummet unexpectedly within a very short time frame. Such occurrences highlight systemic risks inherent in automated trading systems. Regulators and financial institutions must implement robust risk management measures to mitigate these effects.
 
 Several major financial institutions deploy algorithmic trading in their bond trading operations. For instance, JPMorgan Chase and Barclays have developed sophisticated trading platforms that incorporate algorithmic strategies to manage their bond portfolios. These platforms have shown increased efficiency in executing large-scale trades with minimized market impact, reflecting the transformative potential of algorithmic systems in bond markets.
 

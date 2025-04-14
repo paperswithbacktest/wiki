@@ -70,7 +70,7 @@ Another index is the Human Development Index (HDI). This one looks at more than 
 
 ## How have modifications to the Misery Index been proposed or implemented?
 
-Some people have thought about changing the Misery Index to make it better. One idea is to add the interest rate to the index. This is because high interest rates can make it hard for people to borrow money, which can make them feel unhappy too. Another idea is to include the GDP growth rate. If the economy is growing, people might feel better even if unemployment and inflation are high. These changes could make the Misery Index show a fuller picture of how people are feeling about the economy.
+Some people have thought about changing the Misery Index to make it better. One idea is to add the [interest rate](/wiki/interest-rate-trading-strategies) to the index. This is because high interest rates can make it hard for people to borrow money, which can make them feel unhappy too. Another idea is to include the GDP growth rate. If the economy is growing, people might feel better even if unemployment and inflation are high. These changes could make the Misery Index show a fuller picture of how people are feeling about the economy.
 
 Some countries have tried these new ideas. For example, in Canada, they made a version of the Misery Index that includes the interest rate. This helps them see how hard it is for people to get loans. In the United States, some people have used a version that includes the GDP growth rate. This helps show if the economy is getting better or worse. By adding these things, the Misery Index can be a better tool for understanding how happy or unhappy people are about their economic situation.
 

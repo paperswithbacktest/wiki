@@ -18,7 +18,7 @@ To prevent systemic risk, governments and financial regulators keep a close watc
 
 Systematic risk is the risk that affects the whole market or a large part of it. It's not about one company or one type of investment going wrong, but about things that can shake up the entire economy. Things like wars, big changes in interest rates, or natural disasters can cause systematic risk. These events can make the value of many investments go down at the same time.
 
-You can't avoid systematic risk by just picking different investments. It's like a storm that hits everyone, no matter where they are. But you can try to protect yourself a bit by spreading your money across different types of investments. This way, if one type of investment does badly because of a big event, the others might not be affected as much.
+You can't avoid systematic risk by just [picking](/wiki/asset-class-picking) different investments. It's like a storm that hits everyone, no matter where they are. But you can try to protect yourself a bit by spreading your money across different types of investments. This way, if one type of investment does badly because of a big event, the others might not be affected as much.
 
 ## How do systemic risk and systematic risk differ?
 

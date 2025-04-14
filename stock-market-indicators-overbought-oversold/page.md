@@ -106,7 +106,7 @@ where "Lowest Low" and "Highest High" are calculated over the look-back period. 
 
 Stochastics indicate overbought conditions when the value is above 80 and oversold conditions when below 20. Similar to RSI, these levels can be adjusted depending on market [volatility](/wiki/volatility-trading-strategies) or the specific trading approach.
 
-Both RSI and Stochastics are integral in identifying potential reversals in stock prices, offering traders valuable insights into probable market turning points. These indicators, when used alongside other analytical tools, can help traders optimize their entry and exit strategies in financial markets.
+Both RSI and Stochastics are integral in identifying potential reversals in stock prices, offering traders valuable insights into probable market turning points. These indicators, when used alongside other analytical tools, can help traders optimize their entry and [exit](/wiki/exit-strategy) strategies in financial markets.
 
 ## References & Further Reading
 

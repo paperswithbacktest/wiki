@@ -28,7 +28,7 @@ In real life, optimal stopping can be used in many situations, like hiring the b
 
 ## Can you explain the secretary problem and its relevance to trading?
 
-The secretary problem is like a game where you want to pick the best person out of a group, but you can only choose them one at a time. Imagine you're hiring a new secretary. You interview people one by one, and once you pass on someone, you can't go back. The goal is to pick the best secretary, but you don't know how many people you'll interview or who the best one is until you've seen them all. The trick is to look at the first few people without choosing anyone, just to get a sense of what's out there. Then, you pick the next person who's better than anyone you've seen so far. This way, you balance the risk of picking too early and missing the best person, with the risk of waiting too long and letting the best person go.
+The secretary problem is like a game where you want to pick the best person out of a group, but you can only choose them one at a time. Imagine you're hiring a new secretary. You interview people one by one, and once you pass on someone, you can't go back. The goal is to pick the best secretary, but you don't know how many people you'll interview or who the best one is until you've seen them all. The trick is to look at the first few people without choosing anyone, just to get a sense of what's out there. Then, you pick the next person who's better than anyone you've seen so far. This way, you balance the risk of [picking](/wiki/asset-class-picking) too early and missing the best person, with the risk of waiting too long and letting the best person go.
 
 In trading, the secretary problem can help you decide when to buy or sell a stock. It's like picking the best time to make a move, but you can't see all the future prices at once. You watch the stock prices for a while to get a feel for how they move. Then, you set a rule for when to buy or sell, like buying the next time the price is lower than any you've seen recently. This helps you avoid waiting too long and missing a good price, or acting too soon and not getting the best deal. By using this approach, traders can make smarter decisions based on the information they have, trying to get the best outcome in an unpredictable market.
 
@@ -54,7 +54,7 @@ A third strategy is the trailing stop. With this approach, traders set a stop pr
 
 ## How can optimal stopping help in deciding when to exit a trade?
 
-Optimal stopping can help traders decide when to exit a trade by setting clear rules for when to sell a stock. Traders might use a fixed threshold strategy, where they decide to sell when the stock price reaches a certain high level. This helps them lock in profits without waiting too long and risking a price drop. For example, if a trader bought a stock at $50 and wants to sell when it reaches $60, they'll exit the trade when the price hits that level. This way, they avoid the risk of holding onto the stock for too long and missing out on the profit they could have made.
+Optimal stopping can help traders decide when to [exit](/wiki/exit-strategy) a trade by setting clear rules for when to sell a stock. Traders might use a fixed threshold strategy, where they decide to sell when the stock price reaches a certain high level. This helps them lock in profits without waiting too long and risking a price drop. For example, if a trader bought a stock at $50 and wants to sell when it reaches $60, they'll exit the trade when the price hits that level. This way, they avoid the risk of holding onto the stock for too long and missing out on the profit they could have made.
 
 Another way optimal stopping helps is through using a trailing stop strategy. With this approach, traders set a stop price that moves up as the stock price rises. If a trader buys a stock at $50 and sets a trailing stop of 10%, the stop price will move up as the stock price increases. For instance, if the stock goes up to $60, the stop price will be at $54 (10% below $60). If the stock then drops to $54, the trader will sell. This method helps traders capture profits while still giving the stock room to grow, balancing the risk of holding on too long with the chance of getting a better price.
 
@@ -66,7 +66,7 @@ For example, a trader might use a trailing stop to lock in profits while still g
 
 ## How can advanced statistical models enhance optimal stopping decisions in trading?
 
-Advanced statistical models can make optimal stopping decisions in trading much better by using past data to predict how stock prices might move in the future. These models look at patterns and trends to help traders decide the best time to buy or sell a stock. For example, a model might use machine learning to find hidden patterns in the market that a trader might not see. By using these predictions, traders can set smarter stopping rules, like deciding to sell when the model says the price is likely to go down soon. This helps traders make decisions based on more information, reducing the chance of missing out on good opportunities or making bad choices.
+Advanced statistical models can make optimal stopping decisions in trading much better by using past data to predict how stock prices might move in the future. These models look at patterns and trends to help traders decide the best time to buy or sell a stock. For example, a model might use [machine learning](/wiki/machine-learning) to find hidden patterns in the market that a trader might not see. By using these predictions, traders can set smarter stopping rules, like deciding to sell when the model says the price is likely to go down soon. This helps traders make decisions based on more information, reducing the chance of missing out on good opportunities or making bad choices.
 
 These models also help traders manage risk better. They can tell traders how likely certain outcomes are, so traders can set rules that balance the risk of waiting too long with the risk of acting too soon. For instance, a model might show that there's a high chance the stock price will drop soon, so a trader can set a lower threshold for selling to avoid big losses. By using advanced statistical models, traders can make more informed decisions, which can lead to better results in the unpredictable world of trading.
 
@@ -84,7 +84,7 @@ These algorithms also help traders manage risk better. By predicting how likely 
 
 ## What is the Mathematical Formulation of the Optimal Stopping Problem?
 
-The mathematical formulation of the optimal stopping problem is crucial for algorithmic trading. It involves determining when to take a particular action to optimize expected rewards, often under uncertain conditions. Central to this framework are concepts like the objective function, state process, and Bellman equation.
+The mathematical formulation of the optimal stopping problem is crucial for [algorithmic trading](/wiki/algorithmic-trading). It involves determining when to take a particular action to optimize expected rewards, often under uncertain conditions. Central to this framework are concepts like the objective function, state process, and Bellman equation.
 
 1. **Objective Function**: The objective function represents the ultimate goal, typically involving the maximization of expected returns or minimization of risks. In formal terms, it is described as:
 $$
@@ -100,7 +100,7 @@ $$
 
 $$
 
-   Here, $S_t$ is the asset price at time $t$, $\mu$ is the drift coefficient, $\sigma$ is the volatility, and $dW_t$ is a Wiener process. Understanding these dynamics is essential for predicting future market movements and forming the basis for determining the optimal stopping time.
+   Here, $S_t$ is the asset price at time $t$, $\mu$ is the drift coefficient, $\sigma$ is the [volatility](/wiki/volatility-trading-strategies), and $dW_t$ is a Wiener process. Understanding these dynamics is essential for predicting future market movements and forming the basis for determining the optimal stopping time.
 
 3. **Bellman Equation**: Instrumental in solving optimal stopping problems, the Bellman equation captures the principle of dynamic programming. It expresses the value function, $V(t, S_t)$, as:
 $$

@@ -18,7 +18,7 @@ GPM is calculated by taking the total revenue from the sale of refined products 
 
 Gross Processing Margin (GPM) is figured out by taking the money made from selling the things like gasoline and diesel that come from crude oil, and then taking away the cost of the crude oil itself. This difference is the GPM. To make it clearer, you look at how much you sold the refined products for, and then you subtract what you paid for the crude oil that you turned into those products.
 
-To get the GPM for each barrel of oil, you divide this difference by the total number of barrels of crude oil you used. So, if you made $100 from selling the refined products and spent $70 on the crude oil, your GPM would be $30. If you used 10,000 barrels of oil, then your GPM per barrel would be $30 divided by 10,000, which is $0.003 per barrel. This helps refineries understand how much profit they are making just from processing the oil, before other costs like workers' salaries and building expenses are considered.
+To get the GPM for each barrel of oil, you divide this difference by the total number of barrels of [crude oil](/wiki/crude-oil) you used. So, if you made $100 from selling the refined products and spent $70 on the crude oil, your GPM would be $30. If you used 10,000 barrels of oil, then your GPM per barrel would be $30 divided by 10,000, which is $0.003 per barrel. This helps refineries understand how much profit they are making just from processing the oil, before other costs like workers' salaries and building expenses are considered.
 
 ## Why is Gross Processing Margin important for businesses?
 
@@ -142,7 +142,7 @@ $$
 
 As the GPM increases, the profitability per unit of processed product rises, providing firms the financial leverage to invest in technology, infrastructure, and workforce expansion. Higher profitability, however, also brings the challenge of balanced production scaling to avoid oversupply in the market.
 
-For traders, a high GPM can lead to lucrative arbitrage opportunities. The discrepancy between prices of raw and processed goods might allow traders to benefit from short-term market inefficiencies. However, this increased potential for profit comes with heightened market competition, as more participants seek to capitalize on favorable margins. Such competition can amplify market volatility and exert downward pressure on margins if too many players engage in expansion simultaneously.
+For traders, a high GPM can lead to lucrative [arbitrage](/wiki/arbitrage) opportunities. The discrepancy between prices of raw and processed goods might allow traders to benefit from short-term market inefficiencies. However, this increased potential for profit comes with heightened market competition, as more participants seek to capitalize on favorable margins. Such competition can amplify market [volatility](/wiki/volatility-trading-strategies) and exert downward pressure on margins if too many players engage in expansion simultaneously.
 
 The sustainability of a high GPM is intricately linked to maintaining a balance between input costs, market demand, and strategic positioning within the value chain. As processing costs fluctuate, driven by variables such as energy prices and labor costs, maintaining a favorable GPM becomes increasingly challenging. To sustain high margins, firms must optimize their operations to minimize costs and effectively respond to shifts in consumer demand and global market trends.
 

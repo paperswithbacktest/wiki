@@ -78,7 +78,7 @@ In addition to direct support, Quadeye has a community of users who share tips a
 
 ## What future developments can we expect for Quadeye?
 
-In the future, Quadeye might get even better at taking pictures and videos. The company could make the camera smaller and easier to carry around. They might also add new features, like being able to take pictures in the dark or making the camera work faster. These changes would make Quadeye even more useful for people who need to see a lot at once, like security guards or filmmakers.
+In the future, Quadeye might get even better at taking pictures and videos. The company could make the camera smaller and easier to [carry](/wiki/carry-trading) around. They might also add new features, like being able to take pictures in the dark or making the camera work faster. These changes would make Quadeye even more useful for people who need to see a lot at once, like security guards or filmmakers.
 
 Another thing that could happen is that Quadeye might start working with more kinds of software. This would let people use it with the programs they already know, making it easier to edit and share their pictures and videos. The company might also find new ways to use Quadeye in different industries, like helping doctors see more during surgeries or helping drivers see better on the road. These future developments could make Quadeye a really important tool for lots of different jobs.
 

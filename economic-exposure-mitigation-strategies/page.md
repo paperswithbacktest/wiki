@@ -90,7 +90,7 @@ Algorithmic trading has significantly transformed the financial landscape by all
 
 ### Stop-Loss Orders and Portfolio Diversification
 
-One of the fundamental techniques in algorithmic trading for mitigating risk is the implementation of stop-loss orders. A stop-loss order automatically sells a security when it reaches a predetermined price, thereby limiting potential losses. For instance, if a security is purchased at $100, a trader might set a stop-loss at $90, ensuring that the maximum loss does not exceed 10%. This method is crucial for maintaining discipline and reducing the emotional impact of trading decisions.
+One of the fundamental techniques in [algorithmic trading](/wiki/algorithmic-trading) for mitigating risk is the implementation of stop-loss orders. A stop-loss order automatically sells a security when it reaches a predetermined price, thereby limiting potential losses. For instance, if a security is purchased at $100, a trader might set a stop-loss at $90, ensuring that the maximum loss does not exceed 10%. This method is crucial for maintaining discipline and reducing the emotional impact of trading decisions.
 
 In addition to stop-loss orders, portfolio diversification plays a critical role in risk management. By spreading investments across various asset classes or sectors, traders can reduce the impact of negative performance in any single investment. Diversification minimizes unsystematic risk, which is specific to individual assets, and is vital for achieving a balanced risk-return profile.
 

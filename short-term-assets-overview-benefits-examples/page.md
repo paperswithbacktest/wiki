@@ -38,7 +38,7 @@ Having enough short-term assets also helps a business deal with unexpected probl
 
 ## How can short-term assets impact a company's liquidity?
 
-Short-term assets are really important for a company's liquidity. Liquidity means how easily a company can turn its assets into cash to pay its bills. Things like money in the bank, money that customers owe, and products ready to sell are all short-term assets. If a company has a lot of these, it can quickly turn them into cash. This helps the company pay its bills on time and keep running smoothly every day.
+Short-term assets are really important for a company's [liquidity](/wiki/liquidity-risk-premium). Liquidity means how easily a company can turn its assets into cash to pay its bills. Things like money in the bank, money that customers owe, and products ready to sell are all short-term assets. If a company has a lot of these, it can quickly turn them into cash. This helps the company pay its bills on time and keep running smoothly every day.
 
 Having a lot of short-term assets also makes a company look good to others. Banks and investors like to see that a company can easily cover its short-term debts. This makes them more likely to lend money or invest in the company. On the other hand, if a company doesn't have enough short-term assets, it might struggle to pay its bills. This can make it hard for the company to keep going and grow over time. So, short-term assets are key for keeping a company liquid and able to handle its day-to-day needs.
 
@@ -64,7 +64,7 @@ Another way businesses manage short-term assets is by keeping their inventory at
 
 ## What are the risks associated with short-term assets?
 
-One risk with short-term assets is that they can lose value quickly. For example, if a company has a lot of inventory but can't sell it, the inventory might become less valuable over time. This can happen if the products go out of style or if there's a sudden drop in demand. Also, if a company keeps too much money in cash, it might miss out on earning more money by investing it in other ways. So, having too many short-term assets can tie up money that could be used better elsewhere.
+One risk with short-term assets is that they can lose value quickly. For example, if a company has a lot of inventory but can't sell it, the inventory might become less valuable over time. This can happen if the products go out of style or if there's a sudden drop in demand. Also, if a company keeps too much money in cash, it might miss out on [earning](/wiki/earning-announcement) more money by investing it in other ways. So, having too many short-term assets can tie up money that could be used better elsewhere.
 
 Another risk is that short-term assets might not be enough to cover all the company's bills. If a lot of customers are slow to pay what they owe, the company might not have enough cash to keep running. This can lead to problems paying suppliers or employees, which can hurt the business. Also, if the company relies too much on short-term assets like marketable securities, there's a risk that these investments could lose value if the market goes down. So, it's important for a company to balance its short-term assets carefully to avoid these risks.
 

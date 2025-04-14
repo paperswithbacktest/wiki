@@ -48,7 +48,7 @@ If you sell your REIT shares within a year of buying them, the profit is a short
 
 Yes, REIT investors can use losses to help reduce taxes on other income. If you sell your REIT shares at a loss, you can use that loss to offset any capital gains you made from selling other investments like stocks or bonds. This is called tax-loss harvesting. It's a smart way to lower your tax bill because it lets you balance out your wins and losses across different investments.
 
-If your losses are more than your gains, you can use up to $3,000 of those losses to reduce your regular income for the year. If you still have losses left over after that, you can carry them forward to future years. This means you can use them to offset gains or income in those years too. It's a good strategy for managing your taxes, but it's always a good idea to talk to a tax advisor to make sure you're doing it right.
+If your losses are more than your gains, you can use up to $3,000 of those losses to reduce your regular income for the year. If you still have losses left over after that, you can [carry](/wiki/carry-trading) them forward to future years. This means you can use them to offset gains or income in those years too. It's a good strategy for managing your taxes, but it's always a good idea to talk to a tax advisor to make sure you're doing it right.
 
 ## What are the tax implications of investing in REITs through retirement accounts like IRAs?
 

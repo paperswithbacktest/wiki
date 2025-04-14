@@ -18,7 +18,7 @@ For example, if a corporate bond yields 5% and a government bond yields 3%, the 
 
 Bond spreads can affect forex markets because they show how much risk investors see in different countries. If the spread between a country's bonds and safe government bonds gets bigger, it means investors think that country is riskier. This can make the country's currency weaker because investors might not want to hold onto that currency if they think the country's economy is in trouble.
 
-For example, if the spread between U.S. corporate bonds and U.S. Treasury bonds grows, it might mean investors are worried about the U.S. economy. This could lead them to sell U.S. dollars and buy a safer currency, like the Swiss Franc or the Japanese Yen. So, changes in bond spreads can cause movements in forex markets as investors move their money around to avoid risk and find better returns.
+For example, if the spread between U.S. corporate bonds and U.S. Treasury bonds grows, it might mean investors are worried about the U.S. economy. This could lead them to sell U.S. dollars and buy a safer currency, like the Swiss Franc or the Japanese Yen. So, changes in bond spreads can cause movements in [forex](/wiki/forex-system) markets as investors move their money around to avoid risk and find better returns.
 
 ## What are the different types of bond spreads used in forex analysis?
 
@@ -48,7 +48,7 @@ This change in bond spreads can also affect forex rates. If a country's interest
 
 ## Can you explain the relationship between bond spreads and currency carry trades?
 
-Bond spreads are important for currency carry trades because they show how much extra return investors can get for taking on more risk. In a carry trade, investors borrow money in a country with low interest rates and use that money to buy bonds in a country with higher interest rates. The difference in the interest rates, or the interest rate differential, is what investors hope to earn. But bond spreads can tell investors if the extra return from the higher-yielding bond is worth the risk. If the bond spread between the two countries grows, it might mean the country with higher interest rates is getting riskier, which could make the carry trade less attractive.
+Bond spreads are important for currency [carry](/wiki/carry-trading) trades because they show how much extra return investors can get for taking on more risk. In a carry trade, investors borrow money in a country with low interest rates and use that money to buy bonds in a country with higher interest rates. The difference in the interest rates, or the interest rate differential, is what investors hope to earn. But bond spreads can tell investors if the extra return from the higher-yielding bond is worth the risk. If the bond spread between the two countries grows, it might mean the country with higher interest rates is getting riskier, which could make the carry trade less attractive.
 
 When bond spreads widen, it can affect carry trades in two ways. First, a wider spread might mean the country with higher interest rates is seen as riskier, which could make investors less willing to do the carry trade. They might worry that the currency of the high-yield country could fall, wiping out their gains. Second, if the bond spread grows because the high-yield country's economy is doing worse, its currency might weaken. This could make the carry trade less profitable or even lead to losses if the currency falls too much. So, bond spreads are a key thing for investors to watch when they are thinking about doing a carry trade.
 

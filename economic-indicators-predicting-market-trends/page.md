@@ -36,7 +36,7 @@ By looking at lagging indicators, we can confirm if the economy really did as we
 
 ## What role do coincident indicators play in real-time market analysis?
 
-Coincident indicators are like a snapshot of what's happening in the economy right now. They help us see the current state of things, which is important for making decisions based on what's going on at the moment. For example, personal income is a coincident indicator. When it goes up, it means people are earning more money right now, which can affect how much they spend and how the economy is doing overall.
+Coincident indicators are like a snapshot of what's happening in the economy right now. They help us see the current state of things, which is important for making decisions based on what's going on at the moment. For example, personal income is a coincident indicator. When it goes up, it means people are [earning](/wiki/earning-announcement) more money right now, which can affect how much they spend and how the economy is doing overall.
 
 By looking at these indicators, businesses and investors can get a better idea of the market's health in real time. If personal income is rising, it might be a good time for businesses to increase production because people have more money to spend. On the other hand, if these indicators show that things are not going well, like if retail sales are dropping, it might be a sign to hold off on big investments. Coincident indicators help everyone stay on top of what's happening and make smarter choices based on the current situation.
 
@@ -68,7 +68,7 @@ On the other hand, if the consumer confidence index is low, it means people are 
 
 Advanced statistical methods help us understand economic indicators better so we can predict market trends. One common method is regression analysis. It looks at how different economic indicators, like unemployment rates or inflation, affect things like stock prices or GDP growth. By using regression analysis, we can see which indicators are most important for predicting the market and how they might change in the future. Another method is time series analysis, which looks at how economic indicators change over time. This can help us spot patterns and predict what might happen next in the economy.
 
-Another useful method is machine learning, which uses computers to find patterns in big sets of data. Machine learning can look at lots of different economic indicators at the same time and figure out which ones are the best for predicting market trends. It can also learn from past data to make better predictions in the future. These advanced methods help us make smarter guesses about where the market is headed, so businesses and investors can make better decisions.
+Another useful method is [machine learning](/wiki/machine-learning), which uses computers to find patterns in big sets of data. Machine learning can look at lots of different economic indicators at the same time and figure out which ones are the best for predicting market trends. It can also learn from past data to make better predictions in the future. These advanced methods help us make smarter guesses about where the market is headed, so businesses and investors can make better decisions.
 
 ## How do global economic indicators affect domestic market predictions?
 

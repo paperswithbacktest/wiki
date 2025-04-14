@@ -70,7 +70,7 @@ This means that in repeated games, players can build trust and work together. Th
 
 ## What are some advanced concepts related to Nash Equilibrium, such as mixed strategies?
 
-In game theory, a mixed strategy is when a player chooses different actions randomly, instead of always choosing the same thing. Imagine you're playing a game where you can choose either "up" or "down." Instead of always picking "up," you might decide to pick "up" 70% of the time and "down" 30% of the time. This randomness can make it harder for the other player to predict what you'll do, which can be helpful in some games. A Nash Equilibrium with mixed strategies happens when both players are using these random choices, and neither wants to change their mix of actions because of what the other is doing.
+In game theory, a mixed strategy is when a player chooses different actions randomly, instead of always choosing the same thing. Imagine you're playing a game where you can choose either "up" or "down." Instead of always [picking](/wiki/asset-class-picking) "up," you might decide to pick "up" 70% of the time and "down" 30% of the time. This randomness can make it harder for the other player to predict what you'll do, which can be helpful in some games. A Nash Equilibrium with mixed strategies happens when both players are using these random choices, and neither wants to change their mix of actions because of what the other is doing.
 
 Mixed strategies are important because they can lead to a Nash Equilibrium in games where there isn't one with just pure strategies. A pure strategy is when you always pick the same action, like always choosing "up." In some games, if you always do the same thing, the other player can take advantage of that. But if you mix it up, it's harder for them to predict and exploit your choices. So, mixed strategies can make the game fairer and more balanced, helping to find a Nash Equilibrium that works for everyone involved.
 
@@ -148,7 +148,7 @@ $$
 
 In this matrix, each trader's decision leads to outcomes influenced by the other's strategy, similar to the Prisoner's Dilemma. The Nash Equilibrium occurs when both choose to sell, yielding a stable outcome despite suboptimal individual profits. Algorithmic trading systems can simulate these conditions, using historical data to adjust strategies towards equilibrium points that ensure consistent returns under changing market conditions.
 
-Overall, game theory, and Nash Equilibrium, in particular, offer crucial insights into market stability and the emergence of trading patterns. By understanding these strategic interactions, traders can design algorithms that not only respond effectively to competitor behavior but also anticipate market trends, improving efficiency and profitability in algorithmic trading environments.
+Overall, game theory, and Nash Equilibrium, in particular, offer crucial insights into market stability and the emergence of trading patterns. By understanding these strategic interactions, traders can design algorithms that not only respond effectively to competitor behavior but also anticipate market trends, improving efficiency and profitability in [algorithmic trading](/wiki/algorithmic-trading) environments.
 
 ## References & Further Reading
 

@@ -146,7 +146,7 @@ $$
 \text{HMA} = \text{WMA}\left( \sqrt{n} \right) \left(2 \times \text{WMA}\left(n/2\right) - \text{WMA}\left(n\right)\right)
 $$
 
-The HMA’s ability to mitigate lag while maintaining smoothness often allows traders to react more swiftly to changes compared to SMA and EMA. This feature makes the HMA particularly advantageous for strategies that require timely entry and exit points.
+The HMA’s ability to mitigate lag while maintaining smoothness often allows traders to react more swiftly to changes compared to SMA and EMA. This feature makes the HMA particularly advantageous for strategies that require timely entry and [exit](/wiki/exit-strategy) points.
 
 Selecting the appropriate moving average depends on several factors, including the specific objectives of the trading strategy, the behavior of the asset being traded, and prevailing market conditions. While the SMA may be suitable for broader trend analysis due to its smoothing quality, the EMA and HMA are preferable for traders focused on capturing recent market movements and minimizing lag.
 

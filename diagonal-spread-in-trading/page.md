@@ -36,7 +36,7 @@ Another advantage is that diagonal spreads can help you manage risk better. Beca
 
 One big risk with diagonal spreads is that they can be hard to understand and manage. Because you are dealing with options that have different expiration dates and strike prices, it can be tricky to keep track of everything. If the market moves in a way you didn't expect, you might lose money on both the option you bought and the option you sold. This can make the strategy more complicated and risky than simpler options strategies.
 
-Another risk is that diagonal spreads can be affected by changes in the market's volatility. If the market becomes more volatile, the value of your options can change quickly, which might lead to bigger losses. Also, you need to be careful about the costs involved. The commissions and fees for buying and selling options can add up, and if the spread doesn't work out as planned, these costs can eat into your profits or increase your losses.
+Another risk is that diagonal spreads can be affected by changes in the market's [volatility](/wiki/volatility-trading-strategies). If the market becomes more volatile, the value of your options can change quickly, which might lead to bigger losses. Also, you need to be careful about the costs involved. The commissions and fees for buying and selling options can add up, and if the spread doesn't work out as planned, these costs can eat into your profits or increase your losses.
 
 ## How do you set up a basic diagonal spread?
 

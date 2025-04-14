@@ -24,7 +24,7 @@ Cash flow, on the other hand, is about the actual money coming in and going out 
 
 A fund flow statement shows how money moves in and out of a business over a certain time. It helps us see where the money is coming from and where it's going. The main parts of a fund flow statement are the sources of funds and the uses of funds. Sources of funds are where the money comes from, like when a company makes a profit or sells some of its assets. Uses of funds are where the money goes, like when a company buys new equipment or pays off debts.
 
-The statement also shows the changes in working capital, which is the money a business uses for its day-to-day operations. If a company has more money coming in than going out, its working capital goes up. If it's spending more than it's earning, the working capital goes down. By looking at these parts, we can understand if a business is doing well financially and how it's managing its money.
+The statement also shows the changes in working capital, which is the money a business uses for its day-to-day operations. If a company has more money coming in than going out, its working capital goes up. If it's spending more than it's [earning](/wiki/earning-announcement), the working capital goes down. By looking at these parts, we can understand if a business is doing well financially and how it's managing its money.
 
 ## How do you prepare a fund flow statement?
 
@@ -40,7 +40,7 @@ On the other hand, businesses use funds for various things. One common use is bu
 
 ## How can fund flow analysis help in understanding a company's liquidity?
 
-Fund flow analysis can help us understand a company's liquidity by showing us how money moves in and out of the business. Liquidity is about how easily a company can turn its assets into cash to pay its bills. When we look at a fund flow statement, we can see if the company is getting more money from its operations, like selling products, or if it's relying on selling assets or borrowing money. If a company is making good profits and has enough money coming in to cover its expenses, it's a sign that it's liquid and can pay its bills easily.
+Fund flow analysis can help us understand a company's [liquidity](/wiki/liquidity-risk-premium) by showing us how money moves in and out of the business. Liquidity is about how easily a company can turn its assets into cash to pay its bills. When we look at a fund flow statement, we can see if the company is getting more money from its operations, like selling products, or if it's relying on selling assets or borrowing money. If a company is making good profits and has enough money coming in to cover its expenses, it's a sign that it's liquid and can pay its bills easily.
 
 On the other hand, if a company is spending more money than it's earning and its working capital is going down, it might have problems with liquidity. This means it might struggle to pay its bills on time. By looking at the sources and uses of funds, we can see if the company is using its money wisely or if it's in a tight spot. Fund flow analysis helps us understand these patterns and make better guesses about the company's financial health and its ability to stay liquid.
 

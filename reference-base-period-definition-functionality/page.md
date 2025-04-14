@@ -42,7 +42,7 @@ Next, consider how long the reference base period should be. It could be a year,
 
 The choice of reference base period can really change how we see the data when we make comparisons. If we pick a time when things were really different from now, like during a big economic change, our comparisons might make things look more different than they really are. For example, if we use a year when prices were super low as our reference, today's prices might seem a lot higher than they really are.
 
-On the other hand, if we choose a time that's pretty normal and similar to now, our comparisons will be more fair and easier to understand. This helps us see real changes, not just differences because we started from a weird time. So, picking the right reference base period is important for making sure our data tells the true story.
+On the other hand, if we choose a time that's pretty normal and similar to now, our comparisons will be more fair and easier to understand. This helps us see real changes, not just differences because we started from a weird time. So, [picking](/wiki/asset-class-picking) the right reference base period is important for making sure our data tells the true story.
 
 ## What are some common challenges faced when using a reference base period?
 
@@ -80,7 +80,7 @@ On the other hand, using multiple base periods can confuse people who are trying
 
 Advanced statistical techniques can make analyses using a reference base period more accurate by helping to adjust for changes over time. For example, techniques like regression analysis can help you see how different factors affect the data. If you're looking at prices, regression can show you how inflation or other economic changes have made prices go up or down. This helps you understand if the changes you see are because of real trends or just because of the base period you chose. By using these techniques, you can make sure your comparisons are fair and your conclusions are more reliable.
 
-Another way advanced statistics can help is by smoothing out the data. Sometimes, the numbers can jump around a lot from year to year, making it hard to see the real trends. Techniques like moving averages or time series analysis can help smooth out these jumps, giving you a clearer picture of how things are changing over time. This makes it easier to compare the current data to the reference base period and understand if the changes are big or small. By using these advanced methods, you can make your data analysis more accurate and helpful.
+Another way advanced [statistics](/wiki/bayesian-statistics) can help is by smoothing out the data. Sometimes, the numbers can jump around a lot from year to year, making it hard to see the real trends. Techniques like moving averages or time series analysis can help smooth out these jumps, giving you a clearer picture of how things are changing over time. This makes it easier to compare the current data to the reference base period and understand if the changes are big or small. By using these advanced methods, you can make your data analysis more accurate and helpful.
 
 ## How is Time Series Analysis Applied in Algorithmic Trading?
 

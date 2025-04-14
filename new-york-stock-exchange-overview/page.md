@@ -62,7 +62,7 @@ On the other hand, if the NYSE is not doing well, it can make people worried. Th
 
 The NYSE's performance is often measured by looking at the stock market indexes like the Dow Jones Industrial Average and the S&P 500. These indexes show how a group of big companies are doing on the NYSE. If the indexes go up, it means the companies are doing well and people feel good about the economy. If the indexes go down, it can mean that people are worried and might not want to invest as much.
 
-Another key performance indicator is the trading volume, which is the number of stocks bought and sold each day. High trading volume can mean that people are very interested in the market and are actively buying and selling stocks. Low trading volume might mean that people are not as interested, or they are waiting to see what happens next. Both the stock market indexes and trading volume help people understand how the NYSE is doing and how it might affect the economy.
+Another key performance indicator is the trading [volume](/wiki/volume-trading-strategy), which is the number of stocks bought and sold each day. High trading volume can mean that people are very interested in the market and are actively buying and selling stocks. Low trading volume might mean that people are not as interested, or they are waiting to see what happens next. Both the stock market indexes and trading volume help people understand how the NYSE is doing and how it might affect the economy.
 
 ## What are the listing requirements for companies on the NYSE?
 
@@ -125,7 +125,7 @@ if price_exchange1 < price_exchange2:
     print(f"Arbitrage opportunity detected. Potential profit: ${profit}")
 ```
 
-These strategies collectively create a dynamic environment on the NYSE, contributing to improved liquidity and market efficiency. However, they must be executed with a clear understanding of the underlying market conditions to mitigate risks associated with rapid market changes and execution errors.
+These strategies collectively create a dynamic environment on the NYSE, contributing to improved [liquidity](/wiki/liquidity-risk-premium) and market efficiency. However, they must be executed with a clear understanding of the underlying market conditions to mitigate risks associated with rapid market changes and execution errors.
 
 ## References & Further Reading
 

@@ -64,7 +64,7 @@ Another limitation is that the Lightning Network can be a bit unpredictable. Som
 
 ## How do routing and liquidity issues impact the effectiveness of the Lightning Network?
 
-Routing and liquidity issues can make the Lightning Network less effective. When you want to send Bitcoin using the Lightning Network, your payment needs to find a path from your wallet to the person you're paying. If the path is hard to find or takes a long time, your payment can get delayed or even fail. This is like trying to find your way through a maze where some paths are blocked or very crowded. It can be frustrating and make the Lightning Network less reliable for quick payments.
+Routing and [liquidity](/wiki/liquidity-risk-premium) issues can make the Lightning Network less effective. When you want to send Bitcoin using the Lightning Network, your payment needs to find a path from your wallet to the person you're paying. If the path is hard to find or takes a long time, your payment can get delayed or even fail. This is like trying to find your way through a maze where some paths are blocked or very crowded. It can be frustrating and make the Lightning Network less reliable for quick payments.
 
 Liquidity is another big challenge. To send Bitcoin through the Lightning Network, there needs to be enough Bitcoin in the channels along the way. If there isn't enough, your payment can't go through. Imagine trying to fill a bucket from a well, but the well is almost dry. You might not be able to get enough water. Similarly, if there isn't enough Bitcoin in the channels, people can't use the Lightning Network as much as they want. This can limit how many people can use it and make it less useful for everyday transactions.
 

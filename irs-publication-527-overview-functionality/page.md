@@ -28,7 +28,7 @@ The publication also talks about renting out part of your main home. For example
 
 ## How does one determine the basis of a rental property according to IRS Publication 527?
 
-To figure out the basis of a rental property, you start with what you paid for it. This includes the purchase price plus any costs you had to buy it, like fees for lawyers or real estate agents. If you made improvements to the property, like adding a new roof or a kitchen, you add those costs to your basis too. But remember, regular repairs and maintenance don't count as improvements. They're just costs you can deduct in the year you pay for them.
+To figure out the basis of a rental property, you start with what you paid for it. This includes the purchase price plus any costs you had to buy it, like fees for lawyers or real estate [agents](/wiki/agents). If you made improvements to the property, like adding a new roof or a kitchen, you add those costs to your basis too. But remember, regular repairs and maintenance don't count as improvements. They're just costs you can deduct in the year you pay for them.
 
 Once you have your starting basis, you need to adjust it over time. If you take depreciation on the property, you subtract that from your basis each year. Depreciation is a way to account for the property wearing out over time. If you make more improvements later, you add those to your basis. And if you sell the property, you might need to figure out your adjusted basis to see if you made a profit or a loss. Keeping good records of all these changes helps you get your basis right.
 

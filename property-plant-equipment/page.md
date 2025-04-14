@@ -40,7 +40,7 @@ Another way to get PP&E is through a merger or acquisition. If a company buys an
 
 ## What is the process of depreciation for PP&E?
 
-Depreciation is how a company spreads out the cost of its PP&E over time. When a business buys a big item like a machine or a building, it doesn't count the whole cost as an expense right away. Instead, it records the cost as an asset on the balance sheet. Then, over the years that the item is useful, the company slowly reduces the value of the asset on the books. This is called depreciation, and it helps show a more accurate picture of what the company really owns and how its value changes.
+Depreciation is how a company spreads out the cost of its PP&E over time. When a business buys a big item like a machine or a building, it doesn't count the whole cost as an expense right away. Instead, it records the cost as an asset on the balance sheet. Then, over the years that the item is useful, the company slowly reduces the value of the asset on the [books](/wiki/algo-trading-books). This is called depreciation, and it helps show a more accurate picture of what the company really owns and how its value changes.
 
 There are different ways to calculate depreciation, but one common method is called straight-line depreciation. With this method, the company figures out how long the asset will be useful, which is called its useful life. Then, it divides the cost of the asset by the number of years in its useful life. For example, if a machine costs $10,000 and is expected to last 10 years, the company would record a depreciation expense of $1,000 each year. This way, the cost of the machine is spread out evenly over the time it's being used.
 

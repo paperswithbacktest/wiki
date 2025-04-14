@@ -48,7 +48,7 @@ You also need to think about the costs of trading, like commissions and fees. Th
 
 Before you start a spread trade, you need to think about a few important things. First, you should understand the relationship between the two things you're trading. They should be related in some way, like two stocks in the same industry or two futures contracts for the same product but with different delivery dates. You need to have a good reason to believe that the price difference between them will move in your favor. For example, if you're trading wheat futures, you might think that the price of wheat will go up more in the near future than in the distant future. You also need to consider the costs of trading, like commissions and fees, because these can eat into your profits.
 
-Another key factor is how much risk you're willing to take. Spread trading can be less risky than trading just one thing, but there's still a chance you could lose money. You need to be okay with the possibility that the price difference might not move the way you expect. It's also important to have a plan for what you'll do if things don't go as planned. You should know when you'll cut your losses and get out of the trade. Finally, make sure you have enough money to cover any potential losses. Spread trading can be a good way to make money, but you need to think carefully about these factors before you start.
+Another key [factor](/wiki/factor-investing) is how much risk you're willing to take. Spread trading can be less risky than trading just one thing, but there's still a chance you could lose money. You need to be okay with the possibility that the price difference might not move the way you expect. It's also important to have a plan for what you'll do if things don't go as planned. You should know when you'll cut your losses and get out of the trade. Finally, make sure you have enough money to cover any potential losses. Spread trading can be a good way to make money, but you need to think carefully about these factors before you start.
 
 ## How can spread trading be used as part of a broader investment strategy?
 
@@ -70,7 +70,7 @@ Another thing to think about is how different events can affect the things you'r
 
 ## What advanced techniques can be used to optimize spread trading?
 
-One advanced technique to optimize spread trading is to use statistical analysis to find the best times to enter and exit trades. This means looking at past data to see how the price difference between the two things you're trading has moved before. By using this information, you can make better guesses about when the price difference will move in your favor. For example, if you see that the price difference between near-term and long-term wheat futures usually gets bigger in the fall, you might want to start your spread trade then. This can help you make more money and avoid big losses.
+One advanced technique to optimize spread trading is to use statistical analysis to find the best times to enter and [exit](/wiki/exit-strategy) trades. This means looking at past data to see how the price difference between the two things you're trading has moved before. By using this information, you can make better guesses about when the price difference will move in your favor. For example, if you see that the price difference between near-term and long-term wheat futures usually gets bigger in the fall, you might want to start your spread trade then. This can help you make more money and avoid big losses.
 
 Another technique is to use options to make your spread trades less risky. Options give you the right to buy or sell something at a certain price, but you don't have to if you don't want to. By using options in your spread trades, you can protect yourself if the price difference moves against you. For instance, if you're trading wheat futures and you're worried that the price difference might go down, you could buy an option that lets you sell at a certain price. This way, even if the price difference goes down, you can still make some money or lose less. By combining these advanced techniques, you can make your spread trading more successful and less risky.
 
@@ -119,16 +119,16 @@ By automating the buying and selling actions based on these statistical analyses
 
 ## References & Further Reading
 
-To enhance understanding and efficacy in spread trading and its algorithmic applications, several key resources are highly recommended. These texts provide comprehensive insights into both the theoretical and practical aspects of financial markets, machine learning, and [quantitative trading](/wiki/quantitative-trading) strategies.
+To enhance understanding and efficacy in spread trading and its algorithmic applications, several key resources are highly recommended. These texts provide comprehensive insights into both the theoretical and practical aspects of financial markets, [machine learning](/wiki/machine-learning), and [quantitative trading](/wiki/quantitative-trading) strategies.
 
 1. **"Algorithmic Trading: Winning Strategies and Their Rationale" by Ernest P. Chan**  
-   This book offers a realistic approach to algorithmic trading strategies, presenting cases that reveal the practicality of these methods. It focuses on employing algorithms for spread trading and explores different models and techniques necessary for successful implementation.
+   This book offers a realistic approach to [algorithmic trading](/wiki/algorithmic-trading) strategies, presenting cases that reveal the practicality of these methods. It focuses on employing algorithms for spread trading and explores different models and techniques necessary for successful implementation.
 
 2. **"Advances in Financial Machine Learning" by Marcos López de Prado**  
    López de Prado's work is pivotal in merging machine learning methodologies with financial trading strategies. The book covers advanced techniques such as meta-labeling and feature importance through the lens of algorithmic trading.
 
 3. **"Quantitative Trading: How to Build Your Own Algorithmic Trading Business" by Ernest P. Chan**  
-   This essential guide offers a foundational understanding of running an algorithmic trading business, including aspects like strategy development, backtesting, and risk management, all crucial for effective spread trading.
+   This essential guide offers a foundational understanding of running an algorithmic trading business, including aspects like strategy development, [backtesting](/wiki/backtesting), and risk management, all crucial for effective spread trading.
 
 4. **"Python for Algorithmic Trading" by Yves Hilpisch**  
    As Python is the preferred language for crafting algorithmic trading models, this book provides a valuable roadmap for using Python to develop, backtest, and deploy trading strategies efficiently. It is particularly useful for integrating programming skills with trading knowledge.

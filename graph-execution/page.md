@@ -21,7 +21,7 @@ In contrast, Graph Execution builds a complete picture of the program as a graph
 
 ## What are the main components of a computational graph in machine learning?
 
-A computational graph in machine learning is made up of nodes and edges. Nodes represent operations or variables. For example, a node might be an addition operation or a number like 5. Edges show how data moves between nodes. If you have a node for the number 5 and another node for the number 3, and an addition node, there would be edges from the 5 and the 3 to the addition node to show that you are adding them together.
+A computational graph in [machine learning](/wiki/machine-learning) is made up of nodes and edges. Nodes represent operations or variables. For example, a node might be an addition operation or a number like 5. Edges show how data moves between nodes. If you have a node for the number 5 and another node for the number 3, and an addition node, there would be edges from the 5 and the 3 to the addition node to show that you are adding them together.
 
 The graph starts with input nodes, which are the data you put into the model. These could be things like images or numbers. The data then flows through the graph, going through different operations like multiplication or activation functions. At the end, you have output nodes, which are the results of your model, like a prediction or a classification. The graph can also have special nodes for things like loss functions, which help the model learn by telling it how far off its predictions are from the correct answers. By connecting all these nodes and edges, the graph shows the whole process of how the model works from start to finish.
 
@@ -39,7 +39,7 @@ Another advantage is that Graph Execution can work well on different types of ha
 
 ## How does Graph Execution improve the efficiency of neural network training?
 
-Graph Execution helps make training neural networks faster and more efficient. When you use Graph Execution, the whole neural network is built as a graph before it starts running. This lets the computer see all the steps at once and find the best way to do them. For example, it can run parts of the network at the same time or save and reuse results from earlier steps. This is different from traditional ways where the computer follows the steps one by one, which can be slow for big models.
+Graph Execution helps make training neural networks faster and more efficient. When you use Graph Execution, the whole [neural network](/wiki/neural-network) is built as a graph before it starts running. This lets the computer see all the steps at once and find the best way to do them. For example, it can run parts of the network at the same time or save and reuse results from earlier steps. This is different from traditional ways where the computer follows the steps one by one, which can be slow for big models.
 
 Another way Graph Execution improves efficiency is by working well on different types of hardware. For example, it can run on CPUs or GPUs. GPUs are good at doing many calculations at the same time, which can make the training process even faster. By building the whole model as a graph, the computer can use the hardware in the best way possible. This makes Graph Execution a powerful tool for training complex neural networks efficiently.
 

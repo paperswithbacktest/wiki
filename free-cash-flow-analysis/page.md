@@ -18,7 +18,7 @@ Free cash flow is important because it shows how healthy a company's finances ar
 
 Free cash flow is calculated by starting with the company's operating cash flow, which is the money coming in from its regular business activities. From this, you subtract the capital expenditures, which are the costs of buying or upgrading things like buildings, equipment, or technology that the company needs to keep running and growing. So, the simple formula is: Free Cash Flow = Operating Cash Flow - Capital Expenditures.
 
-This calculation gives a clear picture of how much money the company has left over after it has paid for everything it needs to keep operating. If the number is positive, it means the company has extra money to use for things like paying off debts, giving money back to shareholders, or saving for future projects. If the number is negative, it means the company is spending more than it's earning, which could be a warning sign that it might struggle financially.
+This calculation gives a clear picture of how much money the company has left over after it has paid for everything it needs to keep operating. If the number is positive, it means the company has extra money to use for things like paying off debts, giving money back to shareholders, or saving for future projects. If the number is negative, it means the company is spending more than it's [earning](/wiki/earning-announcement), which could be a warning sign that it might struggle financially.
 
 ## What are the differences between free cash flow to the firm (FCFF) and free cash flow to equity (FCFE)?
 

@@ -90,7 +90,7 @@ Another technique is using Monte Carlo simulations. This method involves creatin
 
 ## What is the understanding of Standard Error in Statistics?
 
-Standard error is a fundamental concept in statistics, representing the standard deviation of a statistic's sampling distribution. It is particularly important when considering the sample mean, as it provides a means to quantify the precision of this estimate relative to the true population mean. This accuracy is crucial in various applications, including algorithmic trading, where making statistically informed decisions can significantly impact financial outcomes.
+Standard error is a fundamental concept in [statistics](/wiki/bayesian-statistics), representing the standard deviation of a statistic's sampling distribution. It is particularly important when considering the sample mean, as it provides a means to quantify the precision of this estimate relative to the true population mean. This accuracy is crucial in various applications, including algorithmic trading, where making statistically informed decisions can significantly impact financial outcomes.
 
 The standard error of the mean (SEM) is calculated using the formula:
 

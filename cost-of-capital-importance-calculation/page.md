@@ -28,7 +28,7 @@ This also helps businesses choose between different ways to get money. They can 
 
 ## What are the different components of the cost of capital?
 
-The cost of capital is made up of two main parts: the cost of debt and the cost of equity. The cost of debt is the interest a company has to pay when it borrows money. It's pretty straightforward because it's based on the interest rates the company agrees to pay on its loans. If a company can borrow money at a low interest rate, its cost of debt will be lower.
+The cost of capital is made up of two main parts: the cost of debt and the cost of equity. The cost of debt is the interest a company has to pay when it borrows money. It's pretty straightforward because it's based on the interest rates the company agrees to pay on its loans. If a company can borrow money at a low [interest rate](/wiki/interest-rate-trading-strategies), its cost of debt will be lower.
 
 The cost of equity is a bit trickier. It's the return that shareholders expect to get for their investment in the company. Since shareholders are taking a risk by investing, they want to be rewarded. Companies often use models like the Capital Asset Pricing Model (CAPM) to figure out what this expected return might be. The cost of equity can be higher than the cost of debt because it involves more risk.
 
@@ -64,7 +64,7 @@ One common way to estimate the cost of equity is by using the Capital Asset Pric
 
 Another method to estimate the cost of equity is the Dividend Discount Model (DDM). This model is based on the idea that the value of a stock comes from the dividends it pays out. The cost of equity is the discount rate that makes the present value of all expected future dividends equal to the current stock price. If a company pays a steady dividend, you can use the Gordon Growth Model, a type of DDM, to estimate the cost of equity. You need to know the next year's dividend, the expected growth rate of dividends, and the current stock price. It's a bit simpler than CAPM but works best for companies that pay regular dividends.
 
-There's also the Arbitrage Pricing Theory (APT), which is another way to estimate the cost of equity. APT looks at different factors that might affect a stock's return, like inflation or changes in interest rates. It's more complex than CAPM because it uses several factors instead of just the market risk. Each factor has a sensitivity measure, similar to beta in CAPM, and you combine these to find the cost of equity. While APT can be more accurate, it's also harder to use because you need to figure out which factors matter and how much they affect the stock's return.
+There's also the Arbitrage Pricing Theory (APT), which is another way to estimate the cost of equity. APT looks at different factors that might affect a stock's return, like inflation or changes in interest rates. It's more complex than CAPM because it uses several factors instead of just the market risk. Each [factor](/wiki/factor-investing) has a sensitivity measure, similar to beta in CAPM, and you combine these to find the cost of equity. While APT can be more accurate, it's also harder to use because you need to figure out which factors matter and how much they affect the stock's return.
 
 ## How do changes in market conditions affect the cost of capital?
 

@@ -28,7 +28,7 @@ Another important feature of interval funds is that they often invest in things 
 
 ## How do interval funds handle liquidity?
 
-Interval funds handle liquidity differently than other funds. They invest in things that are hard to sell quickly, like real estate or private loans. Because these investments are not easy to turn into cash, the fund can't let people buy and sell shares whenever they want. Instead, interval funds set specific times during the year when you can buy or sell your shares. These times are called intervals, and they might happen every three, six, or twelve months.
+Interval funds handle [liquidity](/wiki/liquidity-risk-premium) differently than other funds. They invest in things that are hard to sell quickly, like real estate or private loans. Because these investments are not easy to turn into cash, the fund can't let people buy and sell shares whenever they want. Instead, interval funds set specific times during the year when you can buy or sell your shares. These times are called intervals, and they might happen every three, six, or twelve months.
 
 This setup helps the fund manage its liquidity better. When you want to sell your shares, the fund doesn't have to rush to sell its hard-to-sell investments. It can take its time to find the right buyers, which can help keep the value of the fund stable. This means that if you're okay with waiting to get your money out, an interval fund can be a good way to invest in things that might offer higher returns but are less liquid.
 
@@ -84,7 +84,7 @@ Another strategy interval funds use is to take advantage of the time between int
 
 ## How can one balance risks and returns effectively?
 
-Balancing the risks and returns associated with interval funds and algorithmic trading is essential for optimizing investment portfolios. Investors are encouraged to meticulously evaluate their personal risk tolerance and ensure that their investment decisions align with their broader financial objectives. This evaluation involves understanding the potential trade-offs between the higher returns that might be achieved through these sophisticated investment strategies and the inherent risks they present.
+Balancing the risks and returns associated with interval funds and [algorithmic trading](/wiki/algorithmic-trading) is essential for optimizing investment portfolios. Investors are encouraged to meticulously evaluate their personal risk tolerance and ensure that their investment decisions align with their broader financial objectives. This evaluation involves understanding the potential trade-offs between the higher returns that might be achieved through these sophisticated investment strategies and the inherent risks they present.
 
 Consulting with financial advisors is a prudent step in this process. An advisor can offer personalized strategies, helping investors navigate the complexities of these investment vehicles and make well-informed decisions. Advisors may employ various tools and models to assess risk, such as the Sharpe Ratio, which is a measure of risk-adjusted return:
 

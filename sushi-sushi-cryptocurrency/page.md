@@ -18,7 +18,7 @@ SUSHI tokens are important because they let people who use SushiSwap have a say 
 
 SushiSwap is a place on the internet where people can trade different types of cryptocurrencies with each other. It's like a big online market, but it's special because it's not controlled by a single company or bank. Instead, it's run by the people who use it. When you want to trade on SushiSwap, you add your cryptocurrency to a big pool of money that other people can use to trade. This pool is called a liquidity pool, and by adding your money to it, you help make trading easier for everyone.
 
-In return for adding your cryptocurrency to the liquidity pool, you get SUSHI tokens. These tokens are important because they let you have a say in how SushiSwap is run. If you have SUSHI tokens, you can vote on changes and improvements to the platform. Also, you can earn more SUSHI tokens just by keeping your money in the liquidity pool. This makes SushiSwap a community-driven project where everyone can help and benefit from the platform's success.
+In return for adding your [cryptocurrency](/wiki/cryptocurrency) to the [liquidity](/wiki/liquidity-risk-premium) pool, you get SUSHI tokens. These tokens are important because they let you have a say in how SushiSwap is run. If you have SUSHI tokens, you can vote on changes and improvements to the platform. Also, you can earn more SUSHI tokens just by keeping your money in the liquidity pool. This makes SushiSwap a community-driven project where everyone can help and benefit from the platform's success.
 
 ## Who created Sushi (SUSHI) and what was their motivation?
 
@@ -48,7 +48,7 @@ When SushiSwap started, some SUSHI tokens were given to people who added their m
 
 Liquidity providers are really important for SushiSwap. They help make trading easier by adding their own cryptocurrencies to the platform's big pool of money, called a liquidity pool. When someone wants to trade one cryptocurrency for another, they can use the money in this pool. By adding their money to the pool, liquidity providers make sure there's always enough money available for people to trade with. In return, they get SUSHI tokens as a reward for helping the platform work well.
 
-These SUSHI tokens are not just a thank you; they also let liquidity providers have a say in how SushiSwap is run. If you have SUSHI tokens, you can vote on changes and improvements to the platform. This means that the people who help keep the platform running smoothly can also help decide its future. By earning more SUSHI tokens over time, liquidity providers are encouraged to keep their money in the pool, which helps keep the platform strong and active.
+These SUSHI tokens are not just a thank you; they also let liquidity providers have a say in how SushiSwap is run. If you have SUSHI tokens, you can vote on changes and improvements to the platform. This means that the people who help keep the platform running smoothly can also help decide its future. By [earning](/wiki/earning-announcement) more SUSHI tokens over time, liquidity providers are encouraged to keep their money in the pool, which helps keep the platform strong and active.
 
 ## How does SushiSwap's yield farming work?
 

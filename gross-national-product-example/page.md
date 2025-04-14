@@ -34,7 +34,7 @@ Now, let's add the net income from abroad. Sunnyland has a company that made $15
 
 ## How does GNP reflect the economic performance of a country?
 
-GNP shows how well a country's people and businesses are doing by adding up everything they make and earn, no matter where they are. If the GNP goes up from one year to the next, it means the country is producing more and earning more money. This usually means the economy is growing and people are doing better. On the other hand, if the GNP goes down, it might mean the economy is shrinking and people are not doing as well.
+GNP shows how well a country's people and businesses are doing by adding up everything they make and earn, no matter where they are. If the GNP goes up from one year to the next, it means the country is producing more and [earning](/wiki/earning-announcement) more money. This usually means the economy is growing and people are doing better. On the other hand, if the GNP goes down, it might mean the economy is shrinking and people are not doing as well.
 
 GNP is important because it helps people see the big picture of a country's economy. It tells us about the money people spend on things they need, like food and clothes, and the money businesses spend on building new factories. It also includes what the government spends on things like schools and roads. By looking at GNP, leaders can make better decisions about taxes, spending, and other ways to help the economy grow.
 

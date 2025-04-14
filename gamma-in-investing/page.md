@@ -40,7 +40,7 @@ If you have a lot of options with high gamma in your investment portfolio, it ca
 
 ## How does gamma scalping work and when might it be used?
 
-Gamma scalping is a trading strategy that some people use when they have options with a high gamma. The idea is to make money from the quick changes in the stock price. When the stock price moves, the delta of the option changes fast because of the high gamma. Traders who are gamma scalping will buy or sell the stock to keep their portfolio balanced. If the stock price goes up, they might sell some stock to lock in profits. If the stock price goes down, they might buy more stock. By doing this, they can make small profits from each little move in the stock price.
+Gamma [scalping](/wiki/gamma-scalping) is a trading strategy that some people use when they have options with a high gamma. The idea is to make money from the quick changes in the stock price. When the stock price moves, the delta of the option changes fast because of the high gamma. Traders who are gamma scalping will buy or sell the stock to keep their portfolio balanced. If the stock price goes up, they might sell some stock to lock in profits. If the stock price goes down, they might buy more stock. By doing this, they can make small profits from each little move in the stock price.
 
 This strategy is often used by traders who are selling options, like market makers. They might use gamma scalping to manage the risk of the options they sold. If they sold an option with a high gamma, they need to be ready for the delta to change quickly. Gamma scalping helps them keep their portfolio balanced and make some money from the stock's movements. It's a way to turn the risk of high gamma into a chance to make small profits over time. But it can be tricky and needs a lot of attention to the market.
 
@@ -66,7 +66,7 @@ This change in gamma can be important for traders. When gamma is high, the optio
 
 ## What role does gamma play in the volatility smile phenomenon?
 
-The volatility smile is a pattern you can see when you look at the prices of options with the same expiration date but different strike prices. It shows that options that are far away from the current stock price often have higher implied volatility than options that are close to the stock price. Gamma plays a part in this because it affects how much the option's price can change when the stock price moves. When an option is far from the stock price, its gamma can be high, especially as it gets closer to expiring. This high gamma means the option's price can swing a lot, so traders might want a higher price to take on that risk.
+The [volatility](/wiki/volatility-trading-strategies) smile is a pattern you can see when you look at the prices of options with the same expiration date but different strike prices. It shows that options that are far away from the current stock price often have higher implied volatility than options that are close to the stock price. Gamma plays a part in this because it affects how much the option's price can change when the stock price moves. When an option is far from the stock price, its gamma can be high, especially as it gets closer to expiring. This high gamma means the option's price can swing a lot, so traders might want a higher price to take on that risk.
 
 This is why you see the "smile" shape in the volatility chart. The high gamma of out-of-the-money options makes them more sensitive to changes in the stock price, which can make traders ask for more money to buy or sell them. This higher price shows up as higher implied volatility. So, gamma helps explain why the volatility smile happens, as it shows how sensitive options are to stock price changes, especially when they're far from the current price and close to expiring.
 
@@ -116,7 +116,7 @@ where $\Delta$ is delta, and $S$ is the price of the underlying asset. This rela
 
 **Vega** measures an option's sensitivity to changes in the volatility of the underlying asset. Volatility is a significant factor affecting option prices, and its unpredictable nature can lead to substantial portfolio value fluctuations. By assessing gamma in conjunction with vega, traders can prepare for and react to volatility-driven changes in option prices, ensuring that their portfolios are better positioned to withstand sudden market movements.
 
-Incorporating these Greeks into algorithmic trading strategies requires sophisticated models and computational efficiency. Traders often employ algorithms that harness these Greeks to generate dynamic hedging strategies that respond to real-time market data. Below is a Python snippet for a basic calculation of the Greeks, which can be expanded upon for more complex trading strategies:
+Incorporating these Greeks into [algorithmic trading](/wiki/algorithmic-trading) strategies requires sophisticated models and computational efficiency. Traders often employ algorithms that harness these Greeks to generate dynamic hedging strategies that respond to real-time market data. Below is a Python snippet for a basic calculation of the Greeks, which can be expanded upon for more complex trading strategies:
 
 ```python
 import numpy as np

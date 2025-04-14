@@ -102,7 +102,7 @@ $$
 \text{Sortino Ratio} = \frac{R_p - R_f}{\sigma_d}
 $$
 
-Here, $\sigma_d$ represents the standard deviation of the portfolio's downside return. By concentrating on negative volatility, the Sortino Ratio provides insight into how well the portfolio performs relative to riskier, loss-generating events.
+Here, $\sigma_d$ represents the standard deviation of the portfolio's downside return. By concentrating on negative [volatility](/wiki/volatility-trading-strategies), the Sortino Ratio provides insight into how well the portfolio performs relative to riskier, loss-generating events.
 
 The integration of algorithmic trading into long-term investment strategies can serve to enhance these performance metrics by systematically curating more balanced and risk-adjusted portfolios. With the ongoing evolution of algorithmic models and increased computational capabilities, the use of algorithms for long-term investing is likely to expand, offering viable pathways to sustainable financial growth.
 

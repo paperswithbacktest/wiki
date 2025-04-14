@@ -64,7 +64,7 @@ Choosing the right expiration date can help you balance the money you make with 
 
 ## How can one manage risk when selling put options?
 
-Managing risk when selling put options is all about being smart and careful. One way to do this is by picking a strike price that's lower than the current price of the asset. This means you'll get a smaller premium, but it's safer because the price has to drop a lot before you have to buy the asset. Another way is to choose a shorter expiration date. A shorter time means less chance for the price to go down a lot, so you're taking less risk. But you'll get a smaller premium because the buyer is paying for less time.
+Managing risk when selling put options is all about being smart and careful. One way to do this is by [picking](/wiki/asset-class-picking) a strike price that's lower than the current price of the asset. This means you'll get a smaller premium, but it's safer because the price has to drop a lot before you have to buy the asset. Another way is to choose a shorter expiration date. A shorter time means less chance for the price to go down a lot, so you're taking less risk. But you'll get a smaller premium because the buyer is paying for less time.
 
 Another important thing is to always have enough money in your account to cover the potential purchase of the asset. This is called the margin requirement. If the price drops and you have to buy the asset, you need to be able to do it without getting into trouble. If you don't have enough money, you might get a margin call, which means you have to add more money quickly. If you can't, your broker might close your position, and you could lose money. So, make sure you have enough money to handle the worst-case scenario before you start selling put options.
 

@@ -56,7 +56,7 @@ If you have a problem with your loan servicer, RESPA gives you the right to ask 
 
 ## What are the disclosure requirements under RESPA?
 
-RESPA requires lenders to give you clear information about the costs of buying a home. When you apply for a mortgage, the lender must give you a booklet called "Your Home Loan Toolkit" that explains the home buying process. They also have to give you a Loan Estimate form within three business days of your application. This form shows all the costs you will have to pay, like the interest rate, monthly payments, and closing costs. This helps you understand what you will need to pay and compare different loans.
+RESPA requires lenders to give you clear information about the costs of buying a home. When you apply for a mortgage, the lender must give you a booklet called "Your Home Loan Toolkit" that explains the home buying process. They also have to give you a Loan Estimate form within three business days of your application. This form shows all the costs you will have to pay, like the [interest rate](/wiki/interest-rate-trading-strategies), monthly payments, and closing costs. This helps you understand what you will need to pay and compare different loans.
 
 Before you close on your home, the lender must give you a Closing Disclosure form at least three days before closing. This form shows the final costs and terms of your loan. It's important because it gives you time to check that everything matches what was on the Loan Estimate. If there are big changes, you can ask questions or even back out of the deal if you need to. These disclosure requirements help make sure you are not surprised by any costs and can make a good decision about buying your home.
 

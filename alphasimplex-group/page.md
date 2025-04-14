@@ -30,7 +30,7 @@ The company helps people and other businesses manage their money. They try to ma
 
 AlphaSimplex Group specializes in using math and computer methods to make smart choices about where to invest money. They focus a lot on something called "quantitative investing." This means they use numbers and formulas to decide which investments might be good. They look at a lot of data and try to find patterns that can help them pick the best places to put money.
 
-One of the main strategies they use is called "hedge fund strategies." This means they try to make money whether the market is going up or down. They do this by using different kinds of investments at the same time, like stocks, bonds, and other things. This can help them protect the money they manage from big drops in the market.
+One of the main strategies they use is called "[hedge fund](/wiki/hedge-fund-trading-strategies) strategies." This means they try to make money whether the market is going up or down. They do this by using different kinds of investments at the same time, like stocks, bonds, and other things. This can help them protect the money they manage from big drops in the market.
 
 Another strategy they use is called "risk management." This means they try to keep the money they manage safe by understanding and controlling the risks. They use math to figure out how risky different investments are and then they choose investments that fit with how much risk their clients are okay with. This helps them make safer choices about where to put the money.
 
@@ -80,7 +80,7 @@ They also use technology to manage risk. They use math to figure out how risky d
 
 ## What future trends or innovations is AlphaSimplex Group focusing on?
 
-AlphaSimplex Group is always looking for new ways to use technology and data to make better investment choices. They are focusing on using even more advanced math and computer programs to look at data. This can help them find new patterns and make even better guesses about what might happen in the market. They are also working on new ways to use artificial intelligence and machine learning. These are special kinds of computer programs that can learn from data and make smart choices on their own. By using these new tools, AlphaSimplex Group hopes to stay ahead in the hedge fund industry.
+AlphaSimplex Group is always looking for new ways to use technology and data to make better investment choices. They are focusing on using even more advanced math and computer programs to look at data. This can help them find new patterns and make even better guesses about what might happen in the market. They are also working on new ways to use [artificial intelligence](/wiki/ai-artificial-intelligence) and [machine learning](/wiki/machine-learning). These are special kinds of computer programs that can learn from data and make smart choices on their own. By using these new tools, AlphaSimplex Group hopes to stay ahead in the hedge fund industry.
 
 Another big focus for AlphaSimplex Group is on improving how they manage risk. They are working on new tools and methods to understand and control risks even better. This can help them protect the money they manage from big drops in the market. They are also looking at new types of investments that can help their clients make money in different ways. By keeping up with these trends and innovations, AlphaSimplex Group wants to keep being a leader in the world of investing and help their clients do well with their money.
 

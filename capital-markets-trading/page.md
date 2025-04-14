@@ -20,7 +20,7 @@ The primary market is where new securities are created and sold for the first ti
 
 The secondary market is different because it's where people buy and sell securities that have already been created and sold in the primary market. When you buy a stock from another person on the stock exchange, you're using the secondary market. The company that originally sold the stock doesn't get any more money from these trades. Instead, the money goes from the seller to the buyer. The secondary market is important because it gives investors a way to sell their investments if they need to or want to.
 
-Both markets are essential parts of the financial system. The primary market helps companies raise new funds, while the secondary market provides liquidity, allowing investors to buy and sell securities easily. Together, they help keep the economy moving by making sure money can flow to where it's needed.
+Both markets are essential parts of the financial system. The primary market helps companies raise new funds, while the secondary market provides [liquidity](/wiki/liquidity-risk-premium), allowing investors to buy and sell securities easily. Together, they help keep the economy moving by making sure money can flow to where it's needed.
 
 ## What are the main types of securities traded in capital markets?
 
@@ -80,7 +80,7 @@ But algorithmic trading also has some challenges. Because computers can trade so
 
 ## What are the future trends and technologies expected to shape capital markets trading?
 
-The future of capital markets trading is likely to be shaped by new technologies like artificial intelligence (AI) and machine learning. These technologies can help traders make better decisions by looking at huge amounts of data very quickly. AI can find patterns in the data that humans might miss, and it can learn from past trades to improve its strategies over time. This could make trading even faster and more efficient. Also, blockchain technology, which is used in cryptocurrencies like Bitcoin, might change how trades are done. Blockchain can make trading more secure and transparent, so it's easier to trust that trades are done fairly.
+The future of capital markets trading is likely to be shaped by new technologies like [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and machine learning. These technologies can help traders make better decisions by looking at huge amounts of data very quickly. AI can find patterns in the data that humans might miss, and it can learn from past trades to improve its strategies over time. This could make trading even faster and more efficient. Also, blockchain technology, which is used in cryptocurrencies like Bitcoin, might change how trades are done. Blockchain can make trading more secure and transparent, so it's easier to trust that trades are done fairly.
 
 Another trend that could shape capital markets is the rise of mobile trading. More and more people are using their phones to buy and sell stocks, so trading apps are becoming very important. These apps need to be easy to use and give people all the information they need to make smart choices. As more people trade on their phones, the way we think about trading might change. Also, as the world becomes more connected, trading across different countries and markets will become easier. This could mean more opportunities for traders, but it also means they need to understand how different markets work.
 

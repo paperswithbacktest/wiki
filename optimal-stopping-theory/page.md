@@ -26,7 +26,7 @@ The first key component of an optimal stopping problem is the sequence of option
 
 The second key component is the decision rule. This is the strategy you use to decide when to stop looking and choose an option. A common rule is to look at some options first without choosing any, to get an idea of what's out there. Then, you start deciding if the next option is better than what you've seen so far. The goal is to balance the risk of missing out on something better with the need to make a decision and move forward.
 
-The third key component is the payoff or reward. This is what you gain or lose by making your choice. In our apple example, the payoff is the quality of the apple you end up picking. The optimal stopping problem aims to maximize this payoff, helping you find the best possible outcome within the constraints of the problem.
+The third key component is the payoff or reward. This is what you gain or lose by making your choice. In our apple example, the payoff is the quality of the apple you end up [picking](/wiki/asset-class-picking). The optimal stopping problem aims to maximize this payoff, helping you find the best possible outcome within the constraints of the problem.
 
 ## How does the Secretary Problem relate to Optimal Stopping Theory?
 
@@ -78,7 +78,7 @@ Another limitation is that the theory can be too simple for real-world problems.
 
 ## Can you discuss any recent developments or research in the field of Optimal Stopping Theory?
 
-Recent research in Optimal Stopping Theory has been looking at how to use it in new ways, like in online platforms and machine learning. For example, some researchers are trying to figure out how to use the theory to help people find the best deals on websites like Amazon. They're creating algorithms that can look at prices over time and decide when to buy something to get the best price. This is a bit like the Secretary Problem, but instead of picking the best person, you're picking the best time to buy something. These new ideas are helping to make the theory more useful in everyday life.
+Recent research in Optimal Stopping Theory has been looking at how to use it in new ways, like in online platforms and [machine learning](/wiki/machine-learning). For example, some researchers are trying to figure out how to use the theory to help people find the best deals on websites like Amazon. They're creating algorithms that can look at prices over time and decide when to buy something to get the best price. This is a bit like the Secretary Problem, but instead of picking the best person, you're picking the best time to buy something. These new ideas are helping to make the theory more useful in everyday life.
 
 Another area of recent development is in understanding how people actually make decisions, not just how they should make them. Some studies are looking at how emotions and other factors affect our choices. For example, researchers might study how people feel about different job offers and how that influences their decisions. This kind of research is helping to make Optimal Stopping Theory more realistic because it takes into account the messy parts of real life. By understanding these factors, we can create better strategies that work well in the real world, not just in theory.
 

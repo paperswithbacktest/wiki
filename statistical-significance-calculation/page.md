@@ -158,7 +158,7 @@ The core of significance assessments in trading also includes concepts like the 
 
 This rule helps traders understand the likelihood of extreme outcomes given a normally distributed set of returns.
 
-Backtesting is another critical component of assessing statistical significance in algorithmic trading. It involves simulating a strategy using historical data to see how it would have performed. By conducting backtests across a significant number of trades, traders can gain confidence in their findings. This process helps minimize the impact of randomness by highlighting consistent patterns or results over time. A well-executed backtest that shows statistically significant results can suggest that the strategy is sound and not simply a product of chance occurrences. However, care must be taken to avoid overfitting—a scenario where a model is too closely tailored to historical data and performs poorly in live markets.
+Backtesting is another critical component of assessing statistical significance in [algorithmic trading](/wiki/algorithmic-trading). It involves simulating a strategy using historical data to see how it would have performed. By conducting backtests across a significant number of trades, traders can gain confidence in their findings. This process helps minimize the impact of randomness by highlighting consistent patterns or results over time. A well-executed backtest that shows statistically significant results can suggest that the strategy is sound and not simply a product of chance occurrences. However, care must be taken to avoid overfitting—a scenario where a model is too closely tailored to historical data and performs poorly in live markets.
 
 ## References & Further Reading
 

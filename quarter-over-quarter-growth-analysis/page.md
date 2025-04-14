@@ -122,7 +122,7 @@ In summary, while Q/Q growth offers critical insights into short-term dynamics, 
 
 ## How do you calculate Q/Q growth rates for trading algorithms?
 
-In the analysis of Quarter Over Quarter (Q/Q) growth rates, a clear understanding of the formula and its practical implementation in algorithmic trading is essential. The Q/Q growth rate measures the percentage change in a company’s performance from one quarter to the next. The formula for calculating the Q/Q growth rate is expressed as follows:
+In the analysis of Quarter Over Quarter (Q/Q) growth rates, a clear understanding of the formula and its practical implementation in [algorithmic trading](/wiki/algorithmic-trading) is essential. The Q/Q growth rate measures the percentage change in a company’s performance from one quarter to the next. The formula for calculating the Q/Q growth rate is expressed as follows:
 
 $$
 \text{Q/Q Growth Rate} = \left(\frac{\text{Current Quarter Value} - \text{Previous Quarter Value}}{\text{Previous Quarter Value}}\right) \times 100

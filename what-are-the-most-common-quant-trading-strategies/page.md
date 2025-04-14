@@ -20,7 +20,7 @@ Quantitative trading strategies and traditional trading strategies are different
 
 Traditional trading, on the other hand, often relies more on a person's experience and gut feelings. Traders might use charts and news to decide what to do, but they don't usually use as much data or math as quantitative traders. They might spend a lot of time watching the market and making decisions based on what they see and hear. This can be good because people can sometimes see things that computers might miss, but it can also be slower and more influenced by emotions.
 
-In summary, the main difference is that quantitative trading is more about using data and computers, while traditional trading is more about using human judgment. Both ways have their good points and challenges, and some traders even use a mix of both to get the best results.
+In summary, the main difference is that [quantitative trading](/wiki/quantitative-trading) is more about using data and computers, while traditional trading is more about using human judgment. Both ways have their good points and challenges, and some traders even use a mix of both to get the best results.
 
 ## What are the basic principles behind quant trading strategies?
 
@@ -42,7 +42,7 @@ In quant trading, traders use computers to watch prices all the time. When they 
 
 ## What is momentum trading and how is it implemented in quant strategies?
 
-Momentum trading is a way of buying and selling things like stocks based on how they have been moving recently. The idea is that if a stock's price has been going up, it will keep going up for a while, and if it's been going down, it will keep going down. Traders who use momentum strategies believe that these trends will continue, so they try to make money by following them.
+Momentum trading is a way of buying and selling things like stocks based on how they have been moving recently. The idea is that if a stock's price has been going up, it will keep going up for a while, and if it's been going down, it will keep going down. Traders who use [momentum](/wiki/momentum) strategies believe that these trends will continue, so they try to make money by following them.
 
 In quant trading, momentum strategies are put into action using computers and math. Traders use special formulas to figure out how strong a stock's momentum is by looking at past prices and other data. Once they find stocks with good momentum, their computer programs can automatically buy or sell these stocks without needing a person to do it. This can happen very quickly and can help traders make money if the trends keep going the way they expect.
 
@@ -72,7 +72,7 @@ Another challenge is that markets can be unpredictable. Even with a lot of data 
 
 ## How do quant traders use factor investing to build portfolios?
 
-Quant traders use factor investing to build portfolios by looking at different things, or "factors," that can affect how well investments do. These factors can be things like how big a company is, how fast it's growing, or how much risk it has. By using computers and a lot of data, quant traders can figure out which factors are most important and how much to invest in each one. This helps them build a portfolio that is based on solid math and facts, not just guesses.
+Quant traders use [factor](/wiki/factor-investing) investing to build portfolios by looking at different things, or "factors," that can affect how well investments do. These factors can be things like how big a company is, how fast it's growing, or how much risk it has. By using computers and a lot of data, quant traders can figure out which factors are most important and how much to invest in each one. This helps them build a portfolio that is based on solid math and facts, not just guesses.
 
 Once they know which factors they want to focus on, quant traders use special formulas to decide how much to invest in each stock or other kind of investment. They might use past data to see how well these factors have worked before and try to guess how they will work in the future. By spreading their money across different factors, they can try to make their portfolio safer and maybe even make more money over time. This way, they can build a strong portfolio that can do well in different market conditions.
 

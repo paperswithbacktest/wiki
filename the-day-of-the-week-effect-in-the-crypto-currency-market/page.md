@@ -22,7 +22,7 @@ People are not completely sure why this happens. One idea is that people's feeli
 
 ## What are cryptocurrencies and how do they differ from traditional currencies?
 
-Cryptocurrencies are digital or virtual currencies that use cryptography to secure their transactions and to control the creation of new units. They operate on decentralized networks, usually based on blockchain technology, which means they are not controlled by any central authority like a government or a bank. Bitcoin, created in 2009, was the first cryptocurrency and remains the most well-known, but there are now thousands of different cryptocurrencies, each with its own features and uses.
+Cryptocurrencies are digital or virtual currencies that use cryptography to secure their transactions and to control the creation of new units. They operate on decentralized networks, usually based on blockchain technology, which means they are not controlled by any central authority like a government or a bank. Bitcoin, created in 2009, was the first [cryptocurrency](/wiki/cryptocurrency) and remains the most well-known, but there are now thousands of different cryptocurrencies, each with its own features and uses.
 
 Traditional currencies, like the US dollar or the Euro, are issued and regulated by governments and central banks. They are physical, in the form of coins and banknotes, and digital, in the form of bank account balances. Unlike cryptocurrencies, traditional currencies have a central authority that can control the money supply, set interest rates, and implement monetary policies. This central control can provide stability and trust in the currency, but it also means that governments can influence the value of the currency through their policies.
 
@@ -76,7 +76,7 @@ Another method they use is time series analysis. This helps them understand how 
 
 ## How can machine learning and AI be utilized to predict and exploit the Day of the Week Effect in cryptocurrency trading?
 
-Machine learning and AI can help predict the Day of the Week Effect in cryptocurrency trading by looking at a lot of data and finding patterns that people might miss. These smart computer programs can learn from past prices and trading information to guess if, for example, Bitcoin might go up on Fridays. They can use this information to help traders decide when to buy or sell. Since the crypto market changes a lot, machine learning can keep learning and getting better at predicting these patterns over time.
+Machine learning and AI can help predict the Day of the Week Effect in cryptocurrency trading by looking at a lot of data and finding patterns that people might miss. These smart computer programs can learn from past prices and trading information to guess if, for example, Bitcoin might go up on Fridays. They can use this information to help traders decide when to buy or sell. Since the crypto market changes a lot, [machine learning](/wiki/machine-learning) can keep learning and getting better at predicting these patterns over time.
 
 Using AI to exploit the Day of the Week Effect means using these predictions to make trading decisions. If the AI thinks that a cryptocurrency will have higher returns on a certain day, a trader might buy it before that day and sell it on that day to make a profit. But it's important to remember that the crypto market can be very unpredictable, so even the best AI can't always get it right. Traders should use AI as one tool among many and be careful not to rely on it too much when making decisions.
 

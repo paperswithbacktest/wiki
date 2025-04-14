@@ -114,7 +114,7 @@ Understanding the dynamics of disposable income is essential for policymakers, b
 
 Personal income and disposable income are two distinct but interconnected financial metrics that give insight into the economic health of individuals and households. Understanding their differences involves recognizing the deductions that transition personal income into disposable income and appreciating how disposable income provides a clearer picture of an individual's actual financial capacity.
 
-Personal income represents the total earnings received by an individual from all possible sources. This includes wages, salaries, bonuses, dividends, rental income, and any other forms of earnings before any deductions for taxes or savings. Essentially, it quantifies the gross economic resources a person accumulates within a defined period, typically measured monthly or annually. Personal income serves as a crucial indicator of earning capacity and overall economic strength.
+Personal income represents the total earnings received by an individual from all possible sources. This includes wages, salaries, bonuses, dividends, rental income, and any other forms of earnings before any deductions for taxes or savings. Essentially, it quantifies the gross economic resources a person accumulates within a defined period, typically measured monthly or annually. Personal income serves as a crucial indicator of [earning](/wiki/earning-announcement) capacity and overall economic strength.
 
 Disposable income, on the other hand, is the portion of personal income that remains after deducting taxes. It is the net income available to individuals or households for consumption and saving decisions. The formula for calculating disposable income can be represented as:
 

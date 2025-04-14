@@ -54,7 +54,7 @@ Over time, both indices have had their ups and downs, but they can move differen
 
 ## What are the economic factors that influence the EURO STOXX 50 Index?
 
-The EURO STOXX 50 Index is influenced by many economic factors in Europe. One big factor is how the overall economy is doing. If the economy is growing, people are spending more money, and companies are making more profits, the index usually goes up. But if the economy is struggling, with high unemployment or people not spending money, the index might go down. Another important factor is interest rates set by the European Central Bank. If interest rates are low, it's easier for companies to borrow money and invest in growth, which can help the index. But if interest rates go up, borrowing becomes more expensive, and this can slow down the economy and affect the index.
+The EURO STOXX 50 Index is influenced by many economic factors in Europe. One big [factor](/wiki/factor-investing) is how the overall economy is doing. If the economy is growing, people are spending more money, and companies are making more profits, the index usually goes up. But if the economy is struggling, with high unemployment or people not spending money, the index might go down. Another important factor is interest rates set by the European Central Bank. If interest rates are low, it's easier for companies to borrow money and invest in growth, which can help the index. But if interest rates go up, borrowing becomes more expensive, and this can slow down the economy and affect the index.
 
 Another factor that influences the EURO STOXX 50 Index is what's happening around the world. If there's a big event like a financial crisis or a global health problem, it can make the index drop because it affects businesses everywhere. Also, how the euro is doing compared to other currencies can make a difference. If the euro gets stronger, it can make European companies' products more expensive for people in other countries, which might hurt their profits and the index. On the other hand, if the euro gets weaker, it can help European companies sell more abroad, which might boost the index.
 
@@ -110,7 +110,7 @@ def moving_average_strategy(prices, short_window=20, long_window=100):
 
 **Statistical Arbitrage**
 
-Statistical arbitrage is another prominent strategy that traders use within the EURO STOXX 50 index. This method involves identifying price discrepancies between correlated securities and executing trades to exploit these temporary inefficiencies. Statistical arbitrage often uses techniques like [pair trading](/wiki/pair-trading), where two correlated stocks are traded based on the divergence and convergence of their price ratios.
+Statistical [arbitrage](/wiki/arbitrage) is another prominent strategy that traders use within the EURO STOXX 50 index. This method involves identifying price discrepancies between correlated securities and executing trades to exploit these temporary inefficiencies. Statistical arbitrage often uses techniques like [pair trading](/wiki/pair-trading), where two correlated stocks are traded based on the divergence and convergence of their price ratios.
 
 A pair trading strategy might involve the use of the z-score, a statistical measure that describes a value's relation to the mean of a group of values. For two stocks with prices $A_t$ and $B_t$, the z-score can be calculated as:
 
@@ -122,7 +122,7 @@ Where $\mu$ is the mean and $\sigma$ the standard deviation of the difference $(
 
 **Machine Learning and AI-Driven Strategies**
 
-Machine learning and [artificial intelligence](/wiki/ai-artificial-intelligence) have transformed algorithmic trading, allowing models to learn from complex data patterns without explicit programming. In the EURO STOXX 50 context, these technologies enable enhanced decision-making by processing vast amounts of historical data to predict future trends.
+Machine learning and [artificial intelligence](/wiki/ai-artificial-intelligence) have transformed [algorithmic trading](/wiki/algorithmic-trading), allowing models to learn from complex data patterns without explicit programming. In the EURO STOXX 50 context, these technologies enable enhanced decision-making by processing vast amounts of historical data to predict future trends.
 
 Machine learning algorithms, such as random forests, support vector machines, and neural networks, are often applied to develop predictive models that recognize patterns and relationships within financial data. For instance, a predictive model could be trained to classify market conditions as bullish or bearish based on historical price movements and macroeconomic indicators.
 

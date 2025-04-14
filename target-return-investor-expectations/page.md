@@ -82,7 +82,7 @@ Retail investors, like regular people saving for their future, also set target r
 
 ## What are the psychological factors that influence investor expectations and target returns?
 
-Psychological factors play a big role in how investors set their expectations and target returns. One important factor is something called overconfidence. This is when investors think they know more than they really do and expect higher returns because they believe they can pick the best investments. Another factor is loss aversion, where investors are more scared of losing money than they are excited about making money. This can make them set lower target returns because they want to keep their money safe.
+Psychological factors play a big role in how investors set their expectations and target returns. One important [factor](/wiki/factor-investing) is something called overconfidence. This is when investors think they know more than they really do and expect higher returns because they believe they can pick the best investments. Another factor is loss aversion, where investors are more scared of losing money than they are excited about making money. This can make them set lower target returns because they want to keep their money safe.
 
 Another psychological factor is herd behavior. This is when investors follow what everyone else is doing, even if it might not be the best choice for them. If everyone is investing in a certain stock, an investor might set a high target return for it too, just because others are doing it. Lastly, there's something called the endowment effect, where investors value what they already own more than other investments. This can make them set different target returns for their current investments compared to new ones. Understanding these psychological factors can help investors set more realistic target returns and make better investment choices.
 
@@ -167,7 +167,7 @@ print(f"Annualized Return: {annualized:.2%}")
 print(f"Real Return: {real_ret:.2%}")
 ```
 
-By leveraging algorithmic trading and automated calculation tools, investors are better equipped to achieve their desired return rates with greater precision and confidence.
+By leveraging [algorithmic trading](/wiki/algorithmic-trading) and automated calculation tools, investors are better equipped to achieve their desired return rates with greater precision and confidence.
 
 ## References & Further Reading
 

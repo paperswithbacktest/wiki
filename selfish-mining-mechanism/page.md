@@ -52,7 +52,7 @@ This model helps us understand how selfish mining can mess up the fairness of a 
 
 ## What are some real-world examples or case studies of selfish mining?
 
-One real-world example of selfish mining happened with the cryptocurrency Bitcoin Gold in 2018. Some miners started using selfish mining to get more rewards. They kept their blocks secret and only showed them when they had a longer chain. This made other miners waste their time on a shorter chain. As a result, the selfish miners got more rewards than they should have. This caused a lot of problems for Bitcoin Gold, and people started to trust it less.
+One real-world example of selfish mining happened with the [cryptocurrency](/wiki/cryptocurrency) Bitcoin Gold in 2018. Some miners started using selfish mining to get more rewards. They kept their blocks secret and only showed them when they had a longer chain. This made other miners waste their time on a shorter chain. As a result, the selfish miners got more rewards than they should have. This caused a lot of problems for Bitcoin Gold, and people started to trust it less.
 
 Another case study is from the Ethereum Classic network in 2019. A group of miners used selfish mining to try to control the network. They kept their blocks secret and then showed a longer chain to get more rewards. This made the network less fair and less secure. It also showed how selfish mining can lead to more centralization, where a few miners have more power. This case study helped people see the dangers of selfish mining and how it can hurt a blockchain.
 

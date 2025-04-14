@@ -24,7 +24,7 @@ For example, if a company is thinking about starting a new project, they can use
 
 The basic formula for calculating present value is pretty simple. It's like this: Present Value = Future Value / (1 + Interest Rate)^Number of Periods. In this formula, "Future Value" is the amount of money you will get in the future, "Interest Rate" is how much money grows each period (like a year), and "Number of Periods" is how many of those periods you have to wait before you get the money.
 
-Let's break it down with an example. If you're going to get $1,000 in 2 years and the interest rate is 5% per year, you can find out what that $1,000 is worth today. Plugging the numbers into the formula, it would look like this: Present Value = $1,000 / (1 + 0.05)^2. When you do the math, you find out that the present value is about $907.03. This means that getting $1,000 in 2 years is like having $907.03 today, if you use a 5% interest rate.
+Let's break it down with an example. If you're going to get $1,000 in 2 years and the [interest rate](/wiki/interest-rate-trading-strategies) is 5% per year, you can find out what that $1,000 is worth today. Plugging the numbers into the formula, it would look like this: Present Value = $1,000 / (1 + 0.05)^2. When you do the math, you find out that the present value is about $907.03. This means that getting $1,000 in 2 years is like having $907.03 today, if you use a 5% interest rate.
 
 ## How does the discount rate affect present value?
 

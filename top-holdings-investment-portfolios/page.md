@@ -162,7 +162,7 @@ By systematically selecting and managing top holdings, investment managers can s
 
 ## How can algorithmic trading be integrated with investment portfolios?
 
-Algorithmic trading has become a significant force in the optimization of portfolio diversification by leveraging computational algorithms to make trading decisions at speeds and accuracy levels unattainable for human traders. This section explores how algorithmic trading can be integrated into investment portfolios to enhance diversification, provides insights on implementing algorithmic strategies in real-time portfolio management, and offers a comparison of various tools and platforms available for investors interested in algorithmic trading.
+Algorithmic trading has become a significant force in the optimization of portfolio diversification by leveraging computational algorithms to make trading decisions at speeds and accuracy levels unattainable for human traders. This section explores how [algorithmic trading](/wiki/algorithmic-trading) can be integrated into investment portfolios to enhance diversification, provides insights on implementing algorithmic strategies in real-time portfolio management, and offers a comparison of various tools and platforms available for investors interested in algorithmic trading.
 
 ### Optimization of Portfolio Diversification through Algorithmic Trading
 

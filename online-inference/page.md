@@ -21,7 +21,7 @@ Batch inference, on the other hand, is when you collect a bunch of data and then
 
 ## What are the benefits of using online inference in real-time applications?
 
-Using online inference in real-time applications offers the big advantage of making quick decisions. Imagine you're using a machine learning model to check if a credit card transaction is safe. With online inference, the model can look at the transaction details right away and tell you if it thinks it's fraud or not. This fast response time is really important for things like online shopping or banking, where you need to know if something is safe before you go ahead with it.
+Using online inference in real-time applications offers the big advantage of making quick decisions. Imagine you're using a [machine learning](/wiki/machine-learning) model to check if a credit card transaction is safe. With online inference, the model can look at the transaction details right away and tell you if it thinks it's fraud or not. This fast response time is really important for things like online shopping or banking, where you need to know if something is safe before you go ahead with it.
 
 Another benefit is that online inference can help systems adapt to new information on the fly. Let's say you're using a model to suggest what movie to watch next on a streaming service. As you watch more movies, the model can use online inference to update its suggestions in real time. This makes the recommendations more accurate and personalized, which can make the experience better for users. So, online inference helps keep things up-to-date and relevant, which is great for any app that needs to stay current with what users are doing.
 

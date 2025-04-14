@@ -66,7 +66,7 @@ For example, if you know your electricity bill comes at the end of the month, yo
 
 Different billing cycle lengths can change how much interest you have to pay on things like credit cards. If your billing cycle is shorter, like every two weeks instead of every month, you might get billed more often. This means you have to pay interest more often too. For example, if you don't pay off your credit card every month, a shorter billing cycle could mean you pay more interest over time because the interest is added up more often.
 
-On the other hand, a longer billing cycle, like every two months, might mean you get billed less often. This can be good because you have more time to pay off what you owe before interest is added. But, if you carry a balance, a longer billing cycle might also mean you end up paying more interest because the amount you owe is bigger when the interest is calculated. Knowing how your billing cycle affects interest can help you choose the best way to manage your money and avoid paying too much in interest.
+On the other hand, a longer billing cycle, like every two months, might mean you get billed less often. This can be good because you have more time to pay off what you owe before interest is added. But, if you [carry](/wiki/carry-trading) a balance, a longer billing cycle might also mean you end up paying more interest because the amount you owe is bigger when the interest is calculated. Knowing how your billing cycle affects interest can help you choose the best way to manage your money and avoid paying too much in interest.
 
 ## How do businesses manage and optimize their billing cycles?
 

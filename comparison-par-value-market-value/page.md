@@ -36,7 +36,7 @@ Many things can affect the market value of a stock. How well the company is doin
 
 Par value is important for bonds because it tells you how much money you will get back when the bond finishes, or matures. If you buy a bond with a par value of $1,000, that's the amount the company or government that issued the bond promises to pay you at the end. This makes it easier for you to know what to expect when you invest in a bond.
 
-The par value also helps figure out how much interest you will get every year. If a bond has a par value of $1,000 and an interest rate of 5%, you will get $50 every year until the bond matures. This way, you can see how much money you will earn from the bond over time. Knowing the par value helps you plan your investments better.
+The par value also helps figure out how much interest you will get every year. If a bond has a par value of $1,000 and an [interest rate](/wiki/interest-rate-trading-strategies) of 5%, you will get $50 every year until the bond matures. This way, you can see how much money you will earn from the bond over time. Knowing the par value helps you plan your investments better.
 
 ## Can the market value of a stock be lower than its par value?
 
@@ -54,7 +54,7 @@ Market value, on the other hand, is what people are willing to pay for the stock
 
 Par value is important in accounting and financial reporting because it helps companies keep track of their legal capital. Legal capital is the amount of money a company has to keep in the business and can't pay out as dividends. When a company issues stock, they record the par value of the stock as part of their legal capital. This means that the par value sets a minimum amount of money that has to stay in the company, which is important for protecting the company's financial health.
 
-Even though par value is usually a very small number, like $0.01 per share, it's still important for financial reporting. When a company sells stock for more than the par value, the extra money is recorded as "additional paid-in capital" on the company's balance sheet. This helps show how much money the company got from selling its stock, and it's part of the company's total equity. So, while par value might not seem important to investors, it plays a key role in how a company keeps its books and reports its financial situation.
+Even though par value is usually a very small number, like $0.01 per share, it's still important for financial reporting. When a company sells stock for more than the par value, the extra money is recorded as "additional paid-in capital" on the company's balance sheet. This helps show how much money the company got from selling its stock, and it's part of the company's total equity. So, while par value might not seem important to investors, it plays a key role in how a company keeps its [books](/wiki/algo-trading-books) and reports its financial situation.
 
 ## How does market value reflect investor sentiment?
 

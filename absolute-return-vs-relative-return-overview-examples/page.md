@@ -18,7 +18,7 @@ This type of return is different from relative return, which compares an investm
 
 Relative return is a way to see how well an investment is doing compared to something else, like a stock market index or another investment. It tells you if your investment did better or worse than the thing you're comparing it to. For example, if your investment went up by 5% and the market went up by 3%, your relative return would be positive because you did better than the market.
 
-This type of return is useful for investors who want to know if their choices are beating the market or other investments. It helps them see if their strategy is working well compared to what others are doing. Relative return is often used by fund managers and investors to show how skilled they are at picking investments that outperform common benchmarks.
+This type of return is useful for investors who want to know if their choices are beating the market or other investments. It helps them see if their strategy is working well compared to what others are doing. Relative return is often used by fund managers and investors to show how skilled they are at [picking](/wiki/asset-class-picking) investments that outperform common benchmarks.
 
 ## How is absolute return calculated?
 

@@ -18,7 +18,7 @@ Placement agents usually get paid a fee for their work. This fee is often a perc
 
 A placement agent's main job is to help companies find investors. They use their connections and knowledge to find people or other businesses that might want to invest money in the company. They talk to these potential investors and explain why the company is a good place to put their money. This can be really helpful for companies that don't know how to find investors on their own.
 
-Another important role of a placement agent is to help with the investment process. They work with the company to make sure all the paperwork and legal stuff is done right. They also help set up meetings between the company and the investors. This makes the whole process smoother and faster. Placement agents get paid for their work, usually a percentage of the money they help raise, which motivates them to do a good job.
+Another important role of a placement agent is to help with the investment process. They work with the company to make sure all the paperwork and legal stuff is done right. They also help set up meetings between the company and the investors. This makes the whole process smoother and faster. Placement [agents](/wiki/agents) get paid for their work, usually a percentage of the money they help raise, which motivates them to do a good job.
 
 ## How does a placement agent differ from a financial advisor?
 

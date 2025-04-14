@@ -148,4 +148,4 @@ These key metrics collectively offer a comprehensive evaluation of trading algor
 
 [6]: IHS Markit. (2019). ["Understanding Oil and Gas Supply Cost in the Context of a Transitioning Energy Landscape."](https://cdn.ihs.com/www/pdf/0119/Upstream-User-Guide-2019.pdf) 
 
-This selection provides a blend of algorithmic trading insights, [machine learning](/wiki/machine-learning) applications in trading, and the specific context of oil and gas financial metrics.
+This selection provides a blend of [algorithmic trading](/wiki/algorithmic-trading) insights, [machine learning](/wiki/machine-learning) applications in trading, and the specific context of oil and gas financial metrics.

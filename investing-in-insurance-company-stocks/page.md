@@ -86,7 +86,7 @@ Trends around the world can also change how people buy insurance, which affects 
 
 ## How do insurance companies use algorithmic trading?
 
-Insurance companies increasingly leverage algorithmic trading to manage their large investment portfolios. This approach is particularly valuable in addressing the challenges of asset-liability management (ALM), a core component of an insurance company's financial strategy. ALM requires a delicate balance to ensure that the assets (investments) are adequately aligned with the liabilities (obligations to policyholders). Algorithmic strategies can enhance this balance by using sophisticated models to predict cash flow needs and allocate assets efficiently.
+Insurance companies increasingly leverage [algorithmic trading](/wiki/algorithmic-trading) to manage their large investment portfolios. This approach is particularly valuable in addressing the challenges of asset-liability management (ALM), a core component of an insurance company's financial strategy. ALM requires a delicate balance to ensure that the assets (investments) are adequately aligned with the liabilities (obligations to policyholders). Algorithmic strategies can enhance this balance by using sophisticated models to predict cash flow needs and allocate assets efficiently.
 
 ### Asset Allocation and Risk Management
 
@@ -114,7 +114,7 @@ Algorithmic trading also provides significant cost reductions. By automating tra
 
 ### Specific Investment Strategies
 
-Insurers utilize various algorithmic strategies, including trend-following systems, statistical [arbitrage](/wiki/arbitrage), and market-making. Trend-following strategies involve identifying and capitalizing on systematic movements in stock prices. Statistical arbitrage takes advantage of price discrepancies in different markets or securities, executing high-frequency trades to profit from small price differences. Market-making algorithms enhance [liquidity](/wiki/liquidity-risk-premium) by continuously offering to buy and sell particular stocks, earning the spread between the bid and ask prices.
+Insurers utilize various algorithmic strategies, including trend-following systems, statistical [arbitrage](/wiki/arbitrage), and market-making. Trend-following strategies involve identifying and capitalizing on systematic movements in stock prices. Statistical arbitrage takes advantage of price discrepancies in different markets or securities, executing high-frequency trades to profit from small price differences. Market-making algorithms enhance [liquidity](/wiki/liquidity-risk-premium) by continuously offering to buy and sell particular stocks, [earning](/wiki/earning-announcement) the spread between the bid and ask prices.
 
 For example, a simple moving average crossover strategy could be implemented in Python as follows:
 

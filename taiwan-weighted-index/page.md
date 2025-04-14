@@ -58,7 +58,7 @@ The TAIEX is also influenced by what happens in other big economies like the U.S
 
 ## What are the key factors that influence the Taiwan Weighted Index?
 
-The Taiwan Weighted Index, or TAIEX, is influenced by many things. One big factor is how well the companies in Taiwan are doing. Since the TAIEX includes the biggest and most important companies, their profits and growth can make the index go up or down. Another factor is the global economy. When the world economy is doing well, it often helps Taiwanese companies, especially those in technology, and this can push the TAIEX higher. But if there are problems in other countries, it can hurt the TAIEX too.
+The Taiwan Weighted Index, or TAIEX, is influenced by many things. One big [factor](/wiki/factor-investing) is how well the companies in Taiwan are doing. Since the TAIEX includes the biggest and most important companies, their profits and growth can make the index go up or down. Another factor is the global economy. When the world economy is doing well, it often helps Taiwanese companies, especially those in technology, and this can push the TAIEX higher. But if there are problems in other countries, it can hurt the TAIEX too.
 
 Another important thing that affects the TAIEX is what's happening in other big economies like the U.S. and China. If the U.S. stock market is doing well, it can make investors feel more confident and they might invest more in Taiwan, which can help the TAIEX go up. On the other hand, if there are trade issues between Taiwan and China, it can hurt Taiwanese companies and make the TAIEX go down. This shows how connected Taiwan's economy is to the rest of the world, and how global events can impact the TAIEX.
 

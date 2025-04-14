@@ -24,7 +24,7 @@ On the other hand, if a business has a low or negative net income, it means they
 
 To calculate net income, you start with the total revenue, which is all the money a business earns from selling its products or services. Then, you subtract all the expenses, which are the costs of running the business. These expenses include things like salaries for employees, rent for the office or store, utilities, and the cost of goods sold. After subtracting all these expenses from the total revenue, what you have left is the net income.
 
-For example, if a business makes $100,000 in revenue and has $70,000 in expenses, the net income would be $30,000. This number is important because it shows how much profit the business is making. If the net income is positive, the business is earning more than it's spending, which is good. If the net income is negative, the business is spending more than it's earning, which means it needs to make some changes to become profitable.
+For example, if a business makes $100,000 in revenue and has $70,000 in expenses, the net income would be $30,000. This number is important because it shows how much profit the business is making. If the net income is positive, the business is [earning](/wiki/earning-announcement) more than it's spending, which is good. If the net income is negative, the business is spending more than it's earning, which means it needs to make some changes to become profitable.
 
 ## What are the main components of net income?
 
@@ -175,5 +175,5 @@ For investors, net income is a key indicator for evaluating the potential for di
    - *MIT Sloan Management Review - Risks in Algorithmic Trading*: Analyzes potential risks and discusses strategies for risk mitigation in algorithmic trading. Available at: [MIT Sloan Review](https://sloanreview.mit.edu/)
    - *ACM Digital Library - The Challenges of Ensuring Data Accuracy in Algorithmic Trading*: Investigates the challenges of maintaining data accuracy for sound algorithmic trading decisions. Visit: [ACM Digital Library](https://dl.acm.org/)
 
-These sources provide foundational and advanced knowledge for readers interested in deepening their understanding of financial metrics and their application in algorithmic trading. They serve as a gateway to both theoretical insights and practical applications in finance.
+These sources provide foundational and advanced knowledge for readers interested in deepening their understanding of financial metrics and their application in [algorithmic trading](/wiki/algorithmic-trading). They serve as a gateway to both theoretical insights and practical applications in finance.
 

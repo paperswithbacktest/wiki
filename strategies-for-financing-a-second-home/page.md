@@ -18,7 +18,7 @@ Once you have a clear picture of your finances, the next step is to explore your
 
 For a second home, lenders usually want a bigger down payment than for a primary home. A common down payment for a second home is around 10% to 20% of the home's price. This is higher than the 3% to 5% you might need for your first home.
 
-The reason for the higher down payment is that second homes are seen as riskier for lenders. They want to make sure you can handle the extra cost. If you can put down more than the minimum, it might help you get a better interest rate on your loan.
+The reason for the higher down payment is that second homes are seen as riskier for lenders. They want to make sure you can handle the extra cost. If you can put down more than the minimum, it might help you get a better [interest rate](/wiki/interest-rate-trading-strategies) on your loan.
 
 ## What are the different types of loans available for purchasing a second home?
 

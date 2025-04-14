@@ -151,5 +151,5 @@ By integrating algorithmic models that exploit machine learning, traders can imp
 
 - Zhang, X., Ma, G., & Ji, L. (2020). "Stock Price Prediction based on SSA-SVR and Time Series Features." *Procedia Computer Science*, 174, 917–925. This article discusses alternative techniques for stock price prediction, which can be integrated into algorithmic trading models to enhance performance during volatile periods like earnings seasons.
 
-These resources collectively offer insights into the methodologies, tools, and theoretical underpinnings necessary for traders to effectively incorporate earnings announcements into algorithmic trading strategies.
+These resources collectively offer insights into the methodologies, tools, and theoretical underpinnings necessary for traders to effectively incorporate earnings announcements into [algorithmic trading](/wiki/algorithmic-trading) strategies.
 

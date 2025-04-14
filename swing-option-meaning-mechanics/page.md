@@ -22,7 +22,7 @@ The other big difference is that swing options are usually used for commodities 
 
 ## What are the key components of a swing option?
 
-A swing option has a few important parts that make it work. First, there's the commodity, like natural gas or electricity, that the buyer can choose to buy. The buyer gets to decide how much they want each day, but there are limits. They can't buy too much or too little. This is called the swing volume. The swing volume has a minimum and a maximum, so the buyer can change their purchase within these limits.
+A swing option has a few important parts that make it work. First, there's the commodity, like natural gas or electricity, that the buyer can choose to buy. The buyer gets to decide how much they want each day, but there are limits. They can't buy too much or too little. This is called the swing [volume](/wiki/volume-trading-strategy). The swing volume has a minimum and a maximum, so the buyer can change their purchase within these limits.
 
 Another key part is the time period. A swing option lasts for a certain amount of time, like a month or a season. During this time, the buyer can change how much they buy each day. The price is also important. The buyer and seller agree on a price for the commodity, but the buyer can still change how much they buy at that price. This flexibility helps the buyer manage their needs better, especially when demand can change a lot.
 

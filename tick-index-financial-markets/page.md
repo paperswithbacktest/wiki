@@ -46,7 +46,7 @@ Another limitation is that the Tick Index can be affected by things that don't r
 
 ## Can the Tick Index be used for different time frames, and how?
 
-The Tick Index is mainly used for short time frames, like day trading. It gives you a quick snapshot of what's happening in the market right now. If you're a day trader, you can look at the Tick Index throughout the day to see if the market is going up or down. This helps you decide when to buy or sell stocks quickly. But because the Tick Index only shows what's happening at that exact moment, it's not very useful for longer time frames like weeks or months.
+The Tick Index is mainly used for short time frames, like [day trading](/wiki/day-trading-spy). It gives you a quick snapshot of what's happening in the market right now. If you're a day trader, you can look at the Tick Index throughout the day to see if the market is going up or down. This helps you decide when to buy or sell stocks quickly. But because the Tick Index only shows what's happening at that exact moment, it's not very useful for longer time frames like weeks or months.
 
 For longer time frames, you might not find the Tick Index very helpful. It doesn't tell you anything about trends that happen over days, weeks, or months. If you're looking at the market over a longer period, you'll want to use other tools that can show you bigger patterns and trends. The Tick Index is great for seeing what's happening right now, but for longer-term trading, you'll need to look at other indicators to make good decisions.
 
@@ -66,7 +66,7 @@ Another strategy is called "Tick Breakout." Here, traders look for times when th
 
 The Tick Index can be a helpful part of a bigger trading system, especially for people who trade quickly during the day. It can be used along with other tools like the Advance/Decline Line or moving averages to get a fuller picture of what the market is doing. For example, if the Tick Index shows the market is feeling good right now, but the Advance/Decline Line shows that more stocks have been going down over the last few days, a trader might be more careful about buying stocks. By using the Tick Index with other tools, traders can make better decisions because they're looking at both the short-term and the longer-term trends in the market.
 
-Another way to use the Tick Index in a trading system is to set up rules or signals based on it. Traders might decide to buy stocks if the Tick Index goes above a certain number, or sell stocks if it goes below a certain number. These rules can be part of a bigger set of rules that also look at other things like stock prices, volume, and other market indicators. By combining the Tick Index with these other rules, traders can create a system that helps them make quick decisions while also considering other important information about the market.
+Another way to use the Tick Index in a trading system is to set up rules or signals based on it. Traders might decide to buy stocks if the Tick Index goes above a certain number, or sell stocks if it goes below a certain number. These rules can be part of a bigger set of rules that also look at other things like stock prices, [volume](/wiki/volume-trading-strategy), and other market indicators. By combining the Tick Index with these other rules, traders can create a system that helps them make quick decisions while also considering other important information about the market.
 
 ## What historical data should be analyzed to understand the effectiveness of the Tick Index?
 

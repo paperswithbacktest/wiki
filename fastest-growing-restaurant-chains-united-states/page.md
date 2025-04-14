@@ -28,7 +28,7 @@ Another chain that saw big growth is Shake Shack. They opened new locations in d
 
 ## What are the key factors contributing to the rapid growth of these chains?
 
-One key factor for the rapid growth of these chains is their focus on good food and service. Chick-fil-A, for example, is known for its tasty chicken sandwiches and friendly staff. This makes people want to come back and also tell their friends about it. Chipotle Mexican Grill focuses on fresh and healthy food, which attracts health-conscious customers. Shake Shack's burgers and shakes are also very popular, drawing in lots of people who enjoy their tasty meals.
+One key [factor](/wiki/factor-investing) for the rapid growth of these chains is their focus on good food and service. Chick-fil-A, for example, is known for its tasty chicken sandwiches and friendly staff. This makes people want to come back and also tell their friends about it. Chipotle Mexican Grill focuses on fresh and healthy food, which attracts health-conscious customers. Shake Shack's burgers and shakes are also very popular, drawing in lots of people who enjoy their tasty meals.
 
 Another important factor is their ability to open new restaurants in different places. Chick-fil-A and Shake Shack have been opening new locations in cities and even other countries. This helps them reach more people and grow their business. Chipotle also keeps adding new menu items, which keeps their current customers interested and brings in new ones. By expanding to new areas and keeping their menu exciting, these chains can grow quickly.
 

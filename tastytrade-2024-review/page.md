@@ -64,7 +64,7 @@ Their customer support team is really good at helping you. They know a lot about
 
 ## What security measures does Tastytrade implement to protect user data and funds?
 
-Tastytrade takes security very seriously to keep your data and money safe. They use strong encryption to protect your information when you're using their website or app. This means your personal details and trading data are kept private and secure. They also have two-factor authentication, which adds an extra step to make sure it's really you logging in. This helps keep your account safe even if someone else knows your password.
+Tastytrade takes security very seriously to keep your data and money safe. They use strong encryption to protect your information when you're using their website or app. This means your personal details and trading data are kept private and secure. They also have two-[factor](/wiki/factor-investing) authentication, which adds an extra step to make sure it's really you logging in. This helps keep your account safe even if someone else knows your password.
 
 Another way Tastytrade protects your funds is by keeping them in separate accounts from their own money. This is called segregation of funds, and it means your money is safe even if something goes wrong with Tastytrade. They also follow all the rules set by financial regulators to make sure they're doing everything right. Plus, they have systems in place to watch for any strange activity on your account, so they can stop any problems before they get too big.
 

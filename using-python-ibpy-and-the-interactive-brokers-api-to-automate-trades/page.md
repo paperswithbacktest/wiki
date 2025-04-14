@@ -18,7 +18,7 @@ One reason Python is great for trading automation is that it has many special to
 
 IBPy is a Python package that makes it easier to use the Interactive Brokers API. The Interactive Brokers API is a set of tools that lets you connect your computer programs to the Interactive Brokers trading platform. This means you can write programs to automatically trade stocks, options, and other financial products through Interactive Brokers. IBPy helps by providing a simpler way to send commands and receive data from the Interactive Brokers API, making it easier for people who use Python to automate their trading.
 
-IBPy is especially useful because it translates the more complex commands of the Interactive Brokers API into simpler Python code. This makes it easier for people who are new to programming or trading to start using the Interactive Brokers platform for automated trading. By using IBPy, you can focus more on developing your trading strategies and less on figuring out how to communicate with the Interactive Brokers system.
+IBPy is especially useful because it translates the more complex commands of the [Interactive Brokers](/wiki/interactive-brokers-api) API into simpler Python code. This makes it easier for people who are new to programming or trading to start using the Interactive Brokers platform for automated trading. By using IBPy, you can focus more on developing your trading strategies and less on figuring out how to communicate with the Interactive Brokers system.
 
 ## How do you set up an account with Interactive Brokers?
 
@@ -66,7 +66,7 @@ Another way to use IBPy for advanced trading is to combine it with other tools a
 
 When automating trades with IBPy, it's important to manage risk carefully. One good way to do this is by setting up stop-loss orders. These are orders that automatically sell a stock if its price drops too much, helping you avoid big losses. You can also use IBPy to set up take-profit orders, which sell a stock when its price goes up to a certain level, helping you lock in your gains. Another important thing is to not put all your money into one stock or trade. Instead, spread your money across different stocks and trades, which is called diversification. This way, if one trade goes bad, you won't lose all your money.
 
-Another practice for managing risk is to always test your trading strategies before using real money. You can do this by using a demo account or backtesting your strategies with past data. This helps you see if your strategy works well without risking your money. Also, keep an eye on how much you're trading. Don't trade too much or too often, because this can lead to big losses. Lastly, make sure you understand the market and the stocks you're trading. The more you know, the better you can manage your risks and make smart trading decisions.
+Another practice for managing risk is to always test your trading strategies before using real money. You can do this by using a demo account or [backtesting](/wiki/backtesting) your strategies with past data. This helps you see if your strategy works well without risking your money. Also, keep an eye on how much you're trading. Don't trade too much or too often, because this can lead to big losses. Lastly, make sure you understand the market and the stocks you're trading. The more you know, the better you can manage your risks and make smart trading decisions.
 
 ## How do you optimize the performance of your trading algorithms in IBPy?
 

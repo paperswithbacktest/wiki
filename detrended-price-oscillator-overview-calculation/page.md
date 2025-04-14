@@ -22,13 +22,13 @@ Another important use of the DPO is to help traders figure out if a stock is ove
 
 ## How does the DPO differ from other momentum indicators?
 
-The Detrended Price Oscillator (DPO) is different from other momentum indicators because it focuses on removing the long-term trend from the price data. Most momentum indicators, like the Relative Strength Index (RSI) or the Moving Average Convergence Divergence (MACD), look at the speed and change of price movements to see if a stock is gaining or losing momentum. The DPO, on the other hand, helps traders see the shorter-term cycles in the price without the distraction of the overall trend.
+The Detrended Price Oscillator (DPO) is different from other [momentum](/wiki/momentum) indicators because it focuses on removing the long-term trend from the price data. Most momentum indicators, like the Relative Strength Index (RSI) or the Moving Average Convergence Divergence (MACD), look at the speed and change of price movements to see if a stock is gaining or losing momentum. The DPO, on the other hand, helps traders see the shorter-term cycles in the price without the distraction of the overall trend.
 
 This makes the DPO unique because it doesn't tell you about the current momentum of the stock but rather about the price cycles that are happening over a shorter period. For example, while the RSI might tell you if a stock is overbought or oversold based on its momentum, the DPO will show you the same thing but based on how the price is moving in its cycle. This can be really useful for traders who want to focus on the timing of their trades based on these cycles rather than just the momentum.
 
 ## What is the basic formula for calculating the DPO?
 
-The basic formula for calculating the Detrended Price Oscillator (DPO) is pretty straightforward. You start by picking a time period, like 20 days. Then, you find the moving average of the closing prices for that period, but you shift it forward by half the number of days in your period. So, if you're using a 20-day period, you'd shift the moving average forward by 10 days.
+The basic formula for calculating the Detrended Price Oscillator (DPO) is pretty straightforward. You start by [picking](/wiki/asset-class-picking) a time period, like 20 days. Then, you find the moving average of the closing prices for that period, but you shift it forward by half the number of days in your period. So, if you're using a 20-day period, you'd shift the moving average forward by 10 days.
 
 Once you have that shifted moving average, you subtract it from the closing price on the day that's in the middle of your period. For a 20-day period, you'd subtract the shifted moving average from the closing price 10 days ago. This gives you the DPO value, which shows you the price without the long-term trend.
 

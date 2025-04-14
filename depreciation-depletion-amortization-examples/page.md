@@ -100,7 +100,7 @@ Together, these methods ensure that the recorded expenses of using or consuming 
 
 ## References & Further Reading
 
-Explore comprehensive resources to deepen your understanding of financial accounting and algorithmic trading:
+Explore comprehensive resources to deepen your understanding of financial accounting and [algorithmic trading](/wiki/algorithmic-trading):
 
 - Consider influential texts such as "Advances in Financial Machine Learning" by Marcos López de Prado, which offers valuable insights into applying machine learning techniques within the financial markets, providing a strong foundation for developing sophisticated trading algorithms. Another essential read is "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" by Ernest P. Chan, which serves as a practical guide to constructing and managing algorithmic trading strategies.
 

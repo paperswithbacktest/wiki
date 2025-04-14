@@ -158,7 +158,7 @@ By understanding and accurately implementing these calculations, investors can b
 
 ## What is Algorithmic Trading and how are Ex-Rights Calculations performed?
 
-Integrating ex-rights calculations into algorithmic trading strategies is essential for optimizing trading outcomes following a rights issue. A rights issue affects the stock's valuation and requires precise adjustment calculations to reflect the new fair value. Algorithms can process these adjustments efficiently, enabling traders to make informed decisions.
+Integrating ex-rights calculations into [algorithmic trading](/wiki/algorithmic-trading) strategies is essential for optimizing trading outcomes following a rights issue. A rights issue affects the stock's valuation and requires precise adjustment calculations to reflect the new fair value. Algorithms can process these adjustments efficiently, enabling traders to make informed decisions.
 
 ### Leveraging Stock Adjustments
 

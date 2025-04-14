@@ -70,7 +70,7 @@ On the other hand, when a central bank decides to make interest rates go down, i
 
 ## How do market liquidity and trading volume affect bond prices?
 
-Market liquidity and trading volume are important for bond prices. Liquidity means how easy it is to buy or sell a bond without changing its price too much. When a bond market is very liquid, it means lots of people are buying and selling bonds, and it's easy to find someone to trade with. This usually makes bond prices more stable because there are always people ready to buy or sell. If a bond is not very liquid, it can be hard to find someone to trade with, and the price might change a lot when you try to buy or sell.
+Market [liquidity](/wiki/liquidity-risk-premium) and trading [volume](/wiki/volume-trading-strategy) are important for bond prices. Liquidity means how easy it is to buy or sell a bond without changing its price too much. When a bond market is very liquid, it means lots of people are buying and selling bonds, and it's easy to find someone to trade with. This usually makes bond prices more stable because there are always people ready to buy or sell. If a bond is not very liquid, it can be hard to find someone to trade with, and the price might change a lot when you try to buy or sell.
 
 Trading volume is how many bonds are being bought and sold. When trading volume is high, it means a lot of bonds are changing hands, which often means the market is more liquid. High trading volume can make bond prices more stable because there's always someone to buy or sell from. But if trading volume is low, it can be harder to find someone to trade with, and the price might move more when you try to buy or sell. So, both liquidity and trading volume are important for how bond prices move.
 

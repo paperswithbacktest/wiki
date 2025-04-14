@@ -18,7 +18,7 @@ Because the issuer cannot call back the bond before its maturity, noncallable bo
 
 A noncallable bond and a callable bond are different in a big way. A noncallable bond means the company that issued the bond can't pay it back early. They have to keep paying interest to the person who bought the bond until the bond's end date. This makes the bond safer for the buyer because they know they'll get their money for sure until the bond is done.
 
-On the other hand, a callable bond lets the issuer pay it back before it's supposed to end. They might do this if interest rates go down, so they can borrow money cheaper later. This can be bad for the bond buyer because they might lose the chance to keep getting interest payments if the bond gets called back early. Because of this risk, callable bonds usually have a higher interest rate to make up for it.
+On the other hand, a callable bond lets the issuer pay it back before it's supposed to end. They might do this if interest rates go down, so they can borrow money cheaper later. This can be bad for the bond buyer because they might lose the chance to keep getting interest payments if the bond gets called back early. Because of this risk, callable bonds usually have a higher [interest rate](/wiki/interest-rate-trading-strategies) to make up for it.
 
 ## What are the key characteristics of noncallable bonds?
 
@@ -52,7 +52,7 @@ However, noncallable bonds still have some interest rate risk. If interest rates
 
 ## What role do noncallable bonds play in a diversified investment portfolio?
 
-Noncallable bonds can be a good part of a diversified investment portfolio because they offer safety and steady income. When you include them in your investments, you're adding something that can help balance out riskier investments like stocks. Since noncallable bonds can't be paid back early, you know you'll get your interest payments until the bond's end date. This makes them a reliable source of income, which can be really helpful if you want to keep your money safe while still earning something.
+Noncallable bonds can be a good part of a diversified investment portfolio because they offer safety and steady income. When you include them in your investments, you're adding something that can help balance out riskier investments like stocks. Since noncallable bonds can't be paid back early, you know you'll get your interest payments until the bond's end date. This makes them a reliable source of income, which can be really helpful if you want to keep your money safe while still [earning](/wiki/earning-announcement) something.
 
 Adding noncallable bonds to your portfolio can also help manage interest rate risk. Even though their value might go down if interest rates go up, you won't lose the bond early if rates drop. This means you can count on getting your interest payments no matter what happens with interest rates. By having noncallable bonds, you're making your portfolio more stable and less likely to be thrown off by big changes in the market.
 
@@ -104,7 +104,7 @@ Algorithmic trading has revolutionized the landscape of financial markets, offer
 
 ### Tailoring Algorithmic Strategies for Noncallable Bonds
 
-Noncallable bonds, due to their fixed interest payments and inability to be called before maturity, present a unique advantage for algorithmic trading. Given their predictable cash flow, algorithms can be precisely calibrated to take advantage of stable returns. A common approach is utilizing mean-variance optimization, which weighs expected returns against potential volatility. This is expressed mathematically by:
+Noncallable bonds, due to their fixed interest payments and inability to be called before maturity, present a unique advantage for [algorithmic trading](/wiki/algorithmic-trading). Given their predictable cash flow, algorithms can be precisely calibrated to take advantage of stable returns. A common approach is utilizing mean-variance optimization, which weighs expected returns against potential [volatility](/wiki/volatility-trading-strategies). This is expressed mathematically by:
 
 $$
 

@@ -28,7 +28,7 @@ The total return part of the swap is the key component because it allows the rec
 
 ## Who are the typical parties involved in a Total Return Swap?
 
-The typical parties involved in a Total Return Swap are the total return payer and the total return receiver. The total return payer is usually a bank or a financial institution that owns the asset, like a stock or a bond. They agree to give the total return receiver all the money the asset makes, including any price increases and dividends. This can be useful for the payer if they want to get rid of the risk of owning the asset but still want to keep it on their books.
+The typical parties involved in a Total Return Swap are the total return payer and the total return receiver. The total return payer is usually a bank or a financial institution that owns the asset, like a stock or a bond. They agree to give the total return receiver all the money the asset makes, including any price increases and dividends. This can be useful for the payer if they want to get rid of the risk of owning the asset but still want to keep it on their [books](/wiki/algo-trading-books).
 
 The total return receiver is often an investor or another financial institution that wants to benefit from the performance of the asset without actually buying it. They pay the total return payer a regular fee, which is based on a benchmark rate like LIBOR, plus a little extra. This way, the receiver can make money if the asset goes up in value, but they also have to pay if it goes down. Both parties can use the Total Return Swap to meet their financial goals without directly trading the asset.
 
@@ -58,7 +58,7 @@ Another type of asset used in Total Return Swaps is indexes, like the S&P 500. A
 
 ## How do Total Return Swaps differ from other types of swaps?
 
-Total Return Swaps are different from other types of swaps because they focus on giving one party the total return of an asset, including both the price changes and any dividends or interest it pays. In other swaps, like interest rate swaps or currency swaps, the focus is usually on exchanging one type of cash flow for another. For example, in an interest rate swap, you might trade a fixed interest rate for a floating one, but you're not dealing with the total return of an asset like you are with a Total Return Swap.
+Total Return Swaps are different from other types of swaps because they focus on giving one party the total return of an asset, including both the price changes and any dividends or interest it pays. In other swaps, like [interest rate](/wiki/interest-rate-trading-strategies) swaps or currency swaps, the focus is usually on exchanging one type of cash flow for another. For example, in an interest rate swap, you might trade a fixed interest rate for a floating one, but you're not dealing with the total return of an asset like you are with a Total Return Swap.
 
 Another way Total Return Swaps differ is that they allow the total return receiver to benefit from an asset without actually owning it. This is different from, say, a credit default swap, where you're betting on whether a company will default on its debt. With a Total Return Swap, you're betting on how well the asset will do in terms of price changes and income, which makes it a more direct way to gain exposure to an asset's performance. This can be useful for investors who want to avoid the costs and risks of owning the asset directly.
 

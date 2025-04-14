@@ -22,7 +22,7 @@ For bond investors, a sinking fund can be both good and bad. On the good side, i
 
 ## Why do companies issue bonds with a sinking fund provision?
 
-Companies issue bonds with a sinking fund provision to help manage their debt more safely. By setting aside money regularly into a sinking fund, they make sure they have enough cash to pay back bondholders when the bonds come due. This can make the bonds seem less risky to investors, which might help the company get a better interest rate when they sell the bonds.
+Companies issue bonds with a sinking fund provision to help manage their debt more safely. By setting aside money regularly into a sinking fund, they make sure they have enough cash to pay back bondholders when the bonds come due. This can make the bonds seem less risky to investors, which might help the company get a better [interest rate](/wiki/interest-rate-trading-strategies) when they sell the bonds.
 
 Having a sinking fund also helps companies slowly reduce their debt over time. Instead of having to pay back a big amount all at once when the bond matures, they can buy back parts of the bond early. This can make their financial situation more stable and easier to manage. It shows investors that the company is planning ahead and taking steps to handle its debts responsibly.
 
@@ -30,7 +30,7 @@ Having a sinking fund also helps companies slowly reduce their debt over time. I
 
 A sinking fund call can be good for bondholders because it shows that the company is serious about paying back its debt. When a company sets up a sinking fund, it puts money aside regularly to buy back some of its bonds early. This means that if your bond gets picked, you get your money back sooner than you expected. This can be great if you need the money for something else or if you want to invest it somewhere else.
 
-However, there can also be a downside. If your bond is called back early and interest rates have gone down since you bought the bond, you might have to reinvest your money at a lower rate. This means you could end up earning less money over time. So, while a sinking fund call can add security and give you your money back early, it can also mean you might not get as much interest as you hoped for.
+However, there can also be a downside. If your bond is called back early and interest rates have gone down since you bought the bond, you might have to reinvest your money at a lower rate. This means you could end up [earning](/wiki/earning-announcement) less money over time. So, while a sinking fund call can add security and give you your money back early, it can also mean you might not get as much interest as you hoped for.
 
 ## What are the potential drawbacks of a sinking fund call for investors?
 

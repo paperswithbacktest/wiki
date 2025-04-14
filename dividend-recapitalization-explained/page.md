@@ -82,7 +82,7 @@ Even with these changes, dividend recapitalization is still used, but companies 
 
 ## What is Understanding Corporate Finance?
 
-Corporate finance is a branch of finance concentrated on maximizing shareholder value through sound financial management, encompassing both long-term and short-term financial planning. This discipline covers various strategic areas, including investment analysis, capital raising, risk management, and financial reporting.
+Corporate finance is a branch of finance concentrated on maximizing shareholder value through sound financial management, encompassing both long-term and short-term financial planning. This discipline covers various strategic areas, including investment analysis, [capital raising](/wiki/hedge-fund-capital-raising), risk management, and financial reporting.
 
 ### Investment Analysis
 

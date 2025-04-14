@@ -22,7 +22,7 @@ Another big difference is how SHIB was created and distributed. When SHIB starte
 
 ## What are the key features of Shiba Inu (SHIB) that attract investors?
 
-One of the main things that attract investors to Shiba Inu (SHIB) is its strong community. People who like SHIB call themselves the "SHIB Army" and work together on different projects. This community spirit makes SHIB feel like more than just a cryptocurrency; it's like being part of a big group of friends. Investors like this because it can help the value of SHIB grow as more people get involved and support it.
+One of the main things that attract investors to Shiba Inu (SHIB) is its strong community. People who like SHIB call themselves the "SHIB Army" and work together on different projects. This community spirit makes SHIB feel like more than just a [cryptocurrency](/wiki/cryptocurrency); it's like being part of a big group of friends. Investors like this because it can help the value of SHIB grow as more people get involved and support it.
 
 Another key feature is that SHIB is very easy to buy and trade. It's available on many big cryptocurrency exchanges, which makes it simple for anyone to get SHIB. Plus, SHIB has its own platform called ShibaSwap where people can trade SHIB and other tokens. This makes it easier for investors to use SHIB for different things, like trading or even using it in games and apps. The fact that SHIB is easy to use and has many ways to be involved is a big reason why investors are interested in it.
 

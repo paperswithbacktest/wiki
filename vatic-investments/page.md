@@ -52,7 +52,7 @@ After talking with Vatic Investments, you will need to fill out some forms. Thes
 
 Before you decide to invest in Vatic Investments, it's important to think about your goals. What do you want to achieve with your money? Are you looking to grow it quickly, or are you okay with slower, safer growth? Vatic Investments focus on new areas like technology and green energy, which can be exciting but also risky. Make sure you are comfortable with the idea that your money might go up and down more than with traditional investments.
 
-Another key factor is understanding how much risk you can handle. Vatic Investments use new methods and data to find good opportunities, but these can be hard to predict. If a new company they invest in fails, you could lose money. It's also important to know that Vatic Investments will keep you updated on how your money is doing, but you should keep learning about investing so you can make smart choices. Talking to an expert or doing your own research can help you feel more confident before you start investing.
+Another key [factor](/wiki/factor-investing) is understanding how much risk you can handle. Vatic Investments use new methods and data to find good opportunities, but these can be hard to predict. If a new company they invest in fails, you could lose money. It's also important to know that Vatic Investments will keep you updated on how your money is doing, but you should keep learning about investing so you can make smart choices. Talking to an expert or doing your own research can help you feel more confident before you start investing.
 
 ## How do Vatic Investments impact the global economy?
 

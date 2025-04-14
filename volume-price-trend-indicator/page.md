@@ -46,7 +46,7 @@ Another difference is that VPT keeps a running total of the volume times the pri
 
 ## Can the Volume Price Trend Indicator be used for all types of financial markets?
 
-The Volume Price Trend Indicator can be used for many different types of financial markets, not just stocks. It works well for markets like forex, commodities, and futures too. The key is that you need to have data on both the price and the volume of trading. As long as you have this information, you can use the VPT to see how money is flowing in and out of whatever you're trading.
+The Volume Price Trend Indicator can be used for many different types of financial markets, not just stocks. It works well for markets like [forex](/wiki/forex-system), commodities, and futures too. The key is that you need to have data on both the price and the volume of trading. As long as you have this information, you can use the VPT to see how money is flowing in and out of whatever you're trading.
 
 Even though the VPT is versatile, it might not be perfect for every market. For example, in some markets, like certain types of forex trading, the volume data might not be as clear or reliable as it is for stocks. But if you can get good volume data, the VPT can still give you useful information about trends and money flow. It's a good idea to use the VPT along with other tools and indicators to get the best picture of what's happening in the market.
 

@@ -78,7 +78,7 @@ Looking at the past, we can see that incubated funds often start out strong beca
 
 ## What advanced strategies can be employed to optimize the performance of an incubated fund?
 
-One way to make an incubated fund do better is by using smart computer programs to pick investments. These programs can look at a lot of information very quickly and find patterns that people might miss. They can help the fund manager decide which stocks or other things to buy and when to buy them. This can make the fund more likely to make money, especially if the new ideas the fund is trying are working well. But, it's important to keep checking these programs to make sure they are still picking good investments and not taking too much risk.
+One way to make an incubated fund do better is by using smart computer programs to pick investments. These programs can look at a lot of information very quickly and find patterns that people might miss. They can help the fund manager decide which stocks or other things to buy and when to buy them. This can make the fund more likely to make money, especially if the new ideas the fund is trying are working well. But, it's important to keep checking these programs to make sure they are still [picking](/wiki/asset-class-picking) good investments and not taking too much risk.
 
 Another way to help an incubated fund do better is by focusing on a special area that the fund manager knows a lot about. If the manager really understands something like green energy or tech startups, they can find good investments that other people might not see. This can make the fund grow faster and do better than other funds. But, it's also important to keep an eye on this special area to make sure it's still a good place to invest money. If the area changes or starts to do badly, the fund manager might need to try a different strategy.
 
@@ -92,7 +92,7 @@ Mutual funds, exchange-traded funds (ETFs), and hedge funds constitute the prima
 
 ETFs, like mutual funds, provide investors access to diversified portfolios but trade on major stock exchanges like individual equities, offering [liquidity](/wiki/liquidity-risk-premium) and real-time pricing. Hedge funds, on the other hand, often target higher returns through sophisticated strategies, including leverage, derivatives, and alternative assets, catering largely to institutional and high-net-worth investors.
 
-A key feature of investment funds is diversification, a strategic allocation of assets to reduce volatility and unsystematic risk. By investing in a broad array of securities, funds minimize the impact of a single asset's poor performance on the overall portfolio. The formula for portfolio variance $\sigma^2_p$, a measure of risk, underscores diversification's benefit:
+A key feature of investment funds is diversification, a strategic allocation of assets to reduce [volatility](/wiki/volatility-trading-strategies) and unsystematic risk. By investing in a broad array of securities, funds minimize the impact of a single asset's poor performance on the overall portfolio. The formula for portfolio variance $\sigma^2_p$, a measure of risk, underscores diversification's benefit:
 
 $$
 \sigma^2_p = \sum_{i} w_i^2 \sigma_i^2 + \sum_{i \neq j} w_i w_j \sigma_i \sigma_j \rho_{ij}

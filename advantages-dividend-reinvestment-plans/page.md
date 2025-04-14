@@ -30,7 +30,7 @@ Another benefit is that DRIPs can be very cost-effective. Many companies let you
 
 Compounding in a DRIP is like a snowball rolling down a hill, getting bigger as it goes. When you get dividends from your shares, the DRIP uses that money to buy more shares. Now you have more shares, so the next time dividends are paid, you get even more money. That extra money buys even more shares, and the cycle keeps going. Over time, this can make your investment grow a lot bigger than if you just took the dividends as cash.
 
-It's all about earning on your earnings. Imagine you start with a small amount of money, but every time you earn something, you use it to earn even more. With a DRIP, the dividends you earn are used to buy more shares, and those new shares earn more dividends. This keeps happening over and over, making your investment grow faster and faster. That's the power of compounding in a DRIP.
+It's all about [earning](/wiki/earning-announcement) on your earnings. Imagine you start with a small amount of money, but every time you earn something, you use it to earn even more. With a DRIP, the dividends you earn are used to buy more shares, and those new shares earn more dividends. This keeps happening over and over, making your investment grow faster and faster. That's the power of compounding in a DRIP.
 
 ## How do DRIPs help in building wealth over time?
 

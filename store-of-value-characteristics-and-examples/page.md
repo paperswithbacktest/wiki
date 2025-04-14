@@ -46,7 +46,7 @@ However, if something isn't divisible, it can be harder to use as a store of val
 
 ## How does portability influence the effectiveness of a store of value?
 
-Portability is important for a store of value because it means you can easily move it from one place to another. If you can take your store of value with you, it's easier to use it when you need to. For example, cash is very portable. You can carry it in your wallet and use it anywhere. This makes it a good store of value because you can use it easily wherever you go.
+Portability is important for a store of value because it means you can easily move it from one place to another. If you can take your store of value with you, it's easier to use it when you need to. For example, cash is very portable. You can [carry](/wiki/carry-trading) it in your wallet and use it anywhere. This makes it a good store of value because you can use it easily wherever you go.
 
 But if something isn't portable, it can be harder to use as a store of value. For example, a house is a good store of value, but you can't take it with you when you move. This makes it less useful because you can't use it easily in different places. So, when choosing a store of value, it's important to think about how easy it is to take with you and use wherever you go.
 
@@ -62,7 +62,7 @@ Other traditional stores of value include certain currencies, like the US dollar
 
 Modern financial instruments like stocks and bonds can also serve as stores of value. Stocks are pieces of a company that you can buy. If the company does well, the value of the stock can go up, which means your savings can grow over time. Bonds are like loans you give to a company or the government. They promise to pay you back with interest, which can help your money keep its value or even grow. Both stocks and bonds can be good stores of value because they can keep or increase their worth over time, but they also come with risks. The value of stocks can go down if the company doesn't do well, and bonds can lose value if the borrower can't pay you back.
 
-Another modern financial instrument that serves as a store of value is cryptocurrency, like Bitcoin. Cryptocurrency is digital money that you can use online. It's not controlled by any government or bank, which some people like because it gives them more control over their money. The value of cryptocurrency can go up or down a lot, which makes it risky, but it can also be a good store of value if its value stays high or grows. People who believe in the future of digital money often use cryptocurrencies to save their wealth. Like other stores of value, cryptocurrencies have both benefits and risks that people need to think about before using them.
+Another modern financial instrument that serves as a store of value is [cryptocurrency](/wiki/cryptocurrency), like Bitcoin. Cryptocurrency is digital money that you can use online. It's not controlled by any government or bank, which some people like because it gives them more control over their money. The value of cryptocurrency can go up or down a lot, which makes it risky, but it can also be a good store of value if its value stays high or grows. People who believe in the future of digital money often use cryptocurrencies to save their wealth. Like other stores of value, cryptocurrencies have both benefits and risks that people need to think about before using them.
 
 ## What are the challenges in maintaining a store of value over time?
 

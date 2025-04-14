@@ -80,11 +80,11 @@ Another way to assess the quality is by looking at the accounts receivable turno
 
 To optimize accounts receivable processes, businesses can use advanced analytics like predictive modeling. This means using data to guess which customers might pay late or not pay at all. By looking at past data, a company can see patterns and use those to make better decisions about who to give credit to and how to chase payments. For example, if the data shows that customers from a certain area often pay late, the company might decide to be stricter with credit terms for those customers. This helps the business collect money faster and reduce the risk of not getting paid.
 
-Another way to use advanced analytics is through machine learning. This can help automate the process of deciding when to send reminders or when to take stronger action to collect payments. Machine learning can look at lots of data quickly and find the best times to contact customers for payment. It can also help find the best ways to talk to customers to get them to pay on time. By using these tools, a business can make its accounts receivable process smoother and more efficient, which helps keep its cash flow healthy.
+Another way to use advanced analytics is through [machine learning](/wiki/machine-learning). This can help automate the process of deciding when to send reminders or when to take stronger action to collect payments. Machine learning can look at lots of data quickly and find the best times to contact customers for payment. It can also help find the best ways to talk to customers to get them to pay on time. By using these tools, a business can make its accounts receivable process smoother and more efficient, which helps keep its cash flow healthy.
 
 ## What is the Role of Financial Analysis in AR?
 
-Analyzing accounts receivable is crucial for understanding a company's financial health and liquidity. Accounts receivable (AR) analysis leverages various metrics, with the accounts receivable-to-sales ratio being a key indicator. This ratio, calculated as:
+Analyzing accounts receivable is crucial for understanding a company's financial health and [liquidity](/wiki/liquidity-risk-premium). Accounts receivable (AR) analysis leverages various metrics, with the accounts receivable-to-sales ratio being a key indicator. This ratio, calculated as:
 
 $$
 \text{Accounts Receivable-to-Sales Ratio} = \frac{\text{Accounts Receivable}}{\text{Total Sales}}
@@ -108,7 +108,7 @@ Overall, comprehensive AR analysis equips businesses with detailed information a
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization." This paper discusses methods to optimize algorithms by tuning hyper-parameters, which is essential for achieving effective algorithmic trading and financial analytics.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization." This paper discusses methods to optimize algorithms by tuning hyper-parameters, which is essential for achieving effective [algorithmic trading](/wiki/algorithmic-trading) and financial analytics.
 
 Lopez de Prado, M. Advances in Financial Machine Learning. This book provides valuable insights into applying machine learning methodologies to financial markets, offering techniques that can enhance the integration of algorithmic trading with accounts receivable management.
 

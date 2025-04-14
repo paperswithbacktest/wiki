@@ -56,7 +56,7 @@ In finance, specialist firms might help with taxes or investments. They know all
 
 ## How do specialist firms maintain their expertise in a specific field?
 
-Specialist firms keep their expertise by always learning and staying up to date. They read books, go to classes, and attend meetings where people talk about the latest news in their field. This helps them know about new ideas and rules. They also work with other experts and share what they know. This way, they can learn from each other and stay the best at what they do.
+Specialist firms keep their expertise by always learning and staying up to date. They read [books](/wiki/algo-trading-books), go to classes, and attend meetings where people talk about the latest news in their field. This helps them know about new ideas and rules. They also work with other experts and share what they know. This way, they can learn from each other and stay the best at what they do.
 
 Another way specialist firms stay experts is by working on many projects in their field. The more they work on something, the better they get at it. They also keep records of what they have done before and look at these to see what worked well and what didn't. This helps them do an even better job next time. By doing these things, specialist firms can keep their knowledge strong and help their clients the best they can.
 

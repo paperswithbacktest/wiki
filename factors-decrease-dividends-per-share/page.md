@@ -110,7 +110,7 @@ Bodie, Z., Kane, A., & Marcus, A. J. (2014). *Investments*. This comprehensive t
 
 Graham, B. (2006). *The Intelligent Investor*. Known as the bible of value investing, this book emphasizes the importance of long-term strategy over short-term market movements. It includes insights into assessing companies for their dividend-paying potential, advocating for investments in companies with solid earnings and dividend history.
 
-Lopez de Prado, M. (2018). *Advances in Financial Machine Learning*. This book offers a cutting-edge perspective on algorithmic trading, introducing advanced [machine learning](/wiki/machine-learning) techniques to optimize trading strategies. It's particularly relevant for investors interested in applying algorithmic methods to enhance their dividend investment strategies, providing practical algorithms and tools.
+Lopez de Prado, M. (2018). *Advances in Financial Machine Learning*. This book offers a cutting-edge perspective on [algorithmic trading](/wiki/algorithmic-trading), introducing advanced [machine learning](/wiki/machine-learning) techniques to optimize trading strategies. It's particularly relevant for investors interested in applying algorithmic methods to enhance their dividend investment strategies, providing practical algorithms and tools.
 
 For real-time data and additional resources on dividend stocks, platforms like Yahoo Finance and Bloomberg are invaluable. These platforms provide up-to-the-minute financial news, stock performance analytics, and detailed data on dividend payments, helping investors stay informed and make data-driven decisions.
 

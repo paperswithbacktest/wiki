@@ -36,7 +36,7 @@ Bonds with ratings lower than 'BBB' or 'Baa' are called high-yield or junk bonds
 
 Bond ratings have a big impact on the interest rates that bonds offer. When a bond has a high rating, like 'AAA', it means the bond is very safe. Because it's safe, investors don't need to be paid as much to buy it. So, these bonds usually have lower interest rates. People are happy to lend money at a lower rate because they know they will get their money back.
 
-On the other hand, if a bond has a low rating, like 'B' or 'CCC', it means the bond is riskier. There's a bigger chance the issuer might not pay back the money. To make up for this risk, these bonds need to offer higher interest rates. Investors want more money for taking the chance that they might not get paid back. So, the riskier the bond, the higher the interest rate it needs to offer to attract investors.
+On the other hand, if a bond has a low rating, like 'B' or 'CCC', it means the bond is riskier. There's a bigger chance the issuer might not pay back the money. To make up for this risk, these bonds need to offer higher interest rates. Investors want more money for taking the chance that they might not get paid back. So, the riskier the bond, the higher the [interest rate](/wiki/interest-rate-trading-strategies) it needs to offer to attract investors.
 
 ## What is the difference between investment-grade and non-investment-grade bonds?
 

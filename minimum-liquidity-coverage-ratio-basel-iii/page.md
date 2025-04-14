@@ -173,5 +173,5 @@ Overall, while traditional liquidity ratios serve as helpful tools for evaluatin
    - The Financial Stability Board (FSB) discusses international regulatory frameworks and offers policy recommendations to strengthen financial systems. [FSB Publications](https://www.fsb.org/)
    - For ongoing updates and detailed reports on financial regulations, the World Bank serves as a highly reliable source. [World Bank Financial Regulation](https://www.worldbank.org/en/topic/financialsector)
 
-These resources offer a comprehensive view of the interconnections between Basel III, liquidity coverage ratios, and the role of algorithmic trading in modern financial systems, serving as excellent starting points for further exploration.
+These resources offer a comprehensive view of the interconnections between Basel III, liquidity coverage ratios, and the role of [algorithmic trading](/wiki/algorithmic-trading) in modern financial systems, serving as excellent starting points for further exploration.
 

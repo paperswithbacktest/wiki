@@ -40,7 +40,7 @@ Another thing that affects the spread is how much of something is available. If 
 
 ## How does the market maker spread affect liquidity?
 
-The market maker spread is important for how easy it is to trade something, which we call liquidity. When the spread is small, it means it's easy to buy and sell because there are lots of people trading. This makes the market more liquid because you can quickly find someone to trade with. A small spread encourages more people to trade because it's cheaper, which makes the market even more liquid.
+The market maker spread is important for how easy it is to trade something, which we call [liquidity](/wiki/liquidity-risk-premium). When the spread is small, it means it's easy to buy and sell because there are lots of people trading. This makes the market more liquid because you can quickly find someone to trade with. A small spread encourages more people to trade because it's cheaper, which makes the market even more liquid.
 
 On the other hand, if the spread is big, it means it's harder to trade. A big spread can scare people away because it costs more to buy or sell. When fewer people want to trade, the market becomes less liquid. This makes it harder for people to find someone to trade with, and it can make the market slower and less active. So, the size of the market maker spread can really change how easy or hard it is to trade in the market.
 

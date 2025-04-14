@@ -70,7 +70,7 @@ Automating the Dual Momentum Strategy can save you time and help you stick to th
 
 ## How has the Dual Momentum Strategy performed historically compared to other investment strategies?
 
-The Dual Momentum Strategy has done well compared to other ways of investing over time. Studies show that it has beaten the stock market and other momentum strategies. For example, Gary Antonacci, who created the strategy, looked at how it did from 1974 to 2011. He found that it made more money and lost less during bad times than just picking stocks based on how well they were doing compared to each other. This means the strategy did a good job of growing money and keeping it safe.
+The Dual Momentum Strategy has done well compared to other ways of investing over time. Studies show that it has beaten the stock market and other momentum strategies. For example, Gary Antonacci, who created the strategy, looked at how it did from 1974 to 2011. He found that it made more money and lost less during bad times than just [picking](/wiki/asset-class-picking) stocks based on how well they were doing compared to each other. This means the strategy did a good job of growing money and keeping it safe.
 
 But, it's important to know that past results don't promise the same for the future. The Dual Momentum Strategy might not always be the best choice. It depends a lot on how the market is doing and what other strategies people are using. Still, many people like it because it tries to make money when the market is up and protect money when the market is down. This mix of making and keeping money is what makes it different from other ways of investing.
 

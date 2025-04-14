@@ -58,7 +58,7 @@ Landlords of these properties like graduated leases because they can attract ten
 
 ## How can a graduated lease impact a tenant's budgeting and financial planning?
 
-A graduated lease can help tenants plan their money better. When you know the rent will start low and go up slowly, you can make a budget that works with your growing income. For example, if you're a student or starting a new job, you can move into a nice place without worrying too much about the rent at first. As you start earning more money, you can handle the higher rent because you planned for it. This makes it easier to save money or spend on other things you need.
+A graduated lease can help tenants plan their money better. When you know the rent will start low and go up slowly, you can make a budget that works with your growing income. For example, if you're a student or starting a new job, you can move into a nice place without worrying too much about the rent at first. As you start [earning](/wiki/earning-announcement) more money, you can handle the higher rent because you planned for it. This makes it easier to save money or spend on other things you need.
 
 But, a graduated lease also means you need to be ready for the rent to go up. You have to think about these increases when you make your budget. If you don't plan for the higher rent, it might be hard to pay the bills later. So, it's important to look at the whole lease and know when and how much the rent will increase. This way, you can make sure you'll still be able to afford the place as the rent goes up.
 

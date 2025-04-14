@@ -129,7 +129,7 @@ In summary, the Kelly Criterion provides a framework that combines mathematical 
 
 ## Can you provide practical examples and illustrations?
 
-To understand the Kelly Criterion's practical application in algorithmic trading, let's consider a hypothetical example. Imagine an algorithm that trades based on a predictive model which estimates the probability of a stock price rising (p) as 0.6, with a complementary probability of falling (q) as 0.4. Assume that if the prediction is correct, the model yields a return (b) of 1:1 (i.e., doubling the investment).
+To understand the Kelly Criterion's practical application in [algorithmic trading](/wiki/algorithmic-trading), let's consider a hypothetical example. Imagine an algorithm that trades based on a predictive model which estimates the probability of a stock price rising (p) as 0.6, with a complementary probability of falling (q) as 0.4. Assume that if the prediction is correct, the model yields a return (b) of 1:1 (i.e., doubling the investment).
 
 The Kelly Criterion formula is given by:
 

@@ -46,7 +46,7 @@ In games where players have dominant strategies, it's easy to predict what they 
 
 ## What are mixed strategies and when are they used?
 
-Mixed strategies are when players in a game choose their moves randomly instead of picking one move all the time. Imagine you're playing rock-paper-scissors. If you always pick rock, your friend can always pick paper and win. But if you choose rock, paper, or scissors randomly, your friend can't guess what you'll do next. This randomness makes it harder for your friend to always win, and it can help you do better in the game.
+Mixed strategies are when players in a game choose their moves randomly instead of [picking](/wiki/asset-class-picking) one move all the time. Imagine you're playing rock-paper-scissors. If you always pick rock, your friend can always pick paper and win. But if you choose rock, paper, or scissors randomly, your friend can't guess what you'll do next. This randomness makes it harder for your friend to always win, and it can help you do better in the game.
 
 Mixed strategies are used when there's no one move that's always the best. In games like rock-paper-scissors, no single choice is better than the others all the time. By mixing up your choices, you keep your opponent guessing and can avoid losing every time. Mixed strategies are important in game theory because they help players do their best when no single strategy is always the best.
 

@@ -36,7 +36,7 @@ The After Reimbursement Expense Ratio is the cost of managing a fund after any f
 
 Imagine you have $10,000 to invest in a mutual fund. The fund has a Before Reimbursement Expense Ratio of 1.5%, which means it would cost you $150 a year to keep your money in this fund. But the fund's managers decide to lower their fees by 0.5%, so the After Reimbursement Expense Ratio becomes 1%. This means you now only pay $100 a year instead of $150. That's a savings of $50 every year, which might not sound like a lot, but over time, it can make a big difference.
 
-Let's say you keep your money in the fund for 10 years. With the Before Reimbursement Expense Ratio of 1.5%, you would pay a total of $1,500 in fees over those 10 years. But with the After Reimbursement Expense Ratio of 1%, you would only pay $1,000. That's a savings of $500! Plus, the money you save on fees can stay in your investment, earning more money over time. So, knowing the After Reimbursement Expense Ratio helps you see how much more you could keep from your investment returns.
+Let's say you keep your money in the fund for 10 years. With the Before Reimbursement Expense Ratio of 1.5%, you would pay a total of $1,500 in fees over those 10 years. But with the After Reimbursement Expense Ratio of 1%, you would only pay $1,000. That's a savings of $500! Plus, the money you save on fees can stay in your investment, [earning](/wiki/earning-announcement) more money over time. So, knowing the After Reimbursement Expense Ratio helps you see how much more you could keep from your investment returns.
 
 ## How do mutual funds and ETFs typically report their After Reimbursement Expense Ratios?
 
@@ -54,7 +54,7 @@ Another reason for changes in the After Reimbursement Expense Ratio is how much 
 
 Investors can use the After Reimbursement Expense Ratio to compare different funds by looking at the real cost they will pay after any fee reductions. When a fund's managers decide to lower their fees, the After Reimbursement Expense Ratio shows the new, lower cost. This helps investors see which funds are cheaper to invest in. For example, if one fund has an After Reimbursement Expense Ratio of 0.5% and another has 1%, the first fund is less expensive, and investors might choose it to save money on fees.
 
-By comparing the After Reimbursement Expense Ratios of different funds, investors can make better choices about where to put their money. Since fees can eat into the money they make from their investments, knowing the true cost is important. If two funds have similar returns but different expense ratios, picking the one with the lower After Reimbursement Expense Ratio can help investors keep more of their earnings. This way, they can see the real impact of fees and pick funds that offer the best value.
+By comparing the After Reimbursement Expense Ratios of different funds, investors can make better choices about where to put their money. Since fees can eat into the money they make from their investments, knowing the true cost is important. If two funds have similar returns but different expense ratios, [picking](/wiki/asset-class-picking) the one with the lower After Reimbursement Expense Ratio can help investors keep more of their earnings. This way, they can see the real impact of fees and pick funds that offer the best value.
 
 ## What are the regulatory requirements for disclosing the After Reimbursement Expense Ratio?
 

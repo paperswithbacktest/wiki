@@ -28,7 +28,7 @@ Many things can affect the price of WTI. For example, if there is news about a b
 
 ## What are the key characteristics of WTI crude oil?
 
-WTI crude oil is known for being light and sweet. This means it has a low density, which makes it easier to turn into gasoline and other products. It also has low sulfur content, which is good because it means less work and cost to clean it up before it can be used.
+WTI [crude oil](/wiki/crude-oil) is known for being light and sweet. This means it has a low density, which makes it easier to turn into gasoline and other products. It also has low sulfur content, which is good because it means less work and cost to clean it up before it can be used.
 
 WTI comes from the United States, mostly from Texas. It is a high-quality oil that many people want to buy. Because it is easy to refine and use, it is a popular choice for setting the price of oil around the world.
 

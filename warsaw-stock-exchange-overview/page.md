@@ -46,7 +46,7 @@ The Warsaw Stock Exchange (WSE) trades different types of securities. The main o
 
 In addition to stocks and bonds, the WSE also trades derivatives. These are special financial products whose value depends on something else, like the price of a stock or a commodity. Common types of derivatives on the WSE are futures and options. Futures are agreements to buy or sell something at a set price in the future, while options give you the right, but not the obligation, to buy or sell something at a set price.
 
-The WSE also has a market for Exchange Traded Funds (ETFs). ETFs are like baskets of different investments that you can buy and sell like a stock. They can include stocks, bonds, or other assets. This way, you can invest in a whole group of things at once, which can be easier than picking individual stocks or bonds.
+The WSE also has a market for Exchange Traded Funds (ETFs). ETFs are like baskets of different investments that you can buy and sell like a stock. They can include stocks, bonds, or other assets. This way, you can invest in a whole group of things at once, which can be easier than [picking](/wiki/asset-class-picking) individual stocks or bonds.
 
 ## How does the Warsaw Stock Exchange contribute to the Polish economy?
 

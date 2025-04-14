@@ -24,7 +24,7 @@ To find ROE, you take the net income number from the company's income statement 
 
 ROE is important for investors because it tells them how well a company is using their money to make more money. When investors put money into a company, they want to know if that company can turn their investment into profit. ROE shows this by comparing the profit the company makes to the money the investors have put in. A higher ROE means the company is doing a good job at turning the investors' money into profit.
 
-Investors also use ROE to compare different companies. If one company has a higher ROE than another, it might be a better place to invest. But it's not just about picking the company with the highest ROE. Investors also need to look at other things like how much risk there is and what the company does with its profits. Still, ROE is a quick and easy way to see how well a company is doing with the money it gets from investors.
+Investors also use ROE to compare different companies. If one company has a higher ROE than another, it might be a better place to invest. But it's not just about [picking](/wiki/asset-class-picking) the company with the highest ROE. Investors also need to look at other things like how much risk there is and what the company does with its profits. Still, ROE is a quick and easy way to see how well a company is doing with the money it gets from investors.
 
 ## What does a high ROE indicate about a company?
 
@@ -62,7 +62,7 @@ But it's important to look at other things too, not just ROE. Sometimes, a compa
 
 A company's ROE can be affected by many things. One big thing is how much profit the company makes. If a company can make more money from what it sells, its net income goes up, which can make its ROE higher. Another thing that can affect ROE is how the company uses the money it gets from shareholders. If it uses that money well to make more money, like by investing in good projects or growing the business, the ROE can go up.
 
-Another factor is how much debt the company has. If a company borrows a lot of money, it can make its equity smaller, which makes the ROE look higher. But having a lot of debt can be risky. Also, the industry the company is in can affect its ROE. Different industries have different average ROEs, so a company might have a high ROE compared to others in its industry, but not compared to companies in other industries.
+Another [factor](/wiki/factor-investing) is how much debt the company has. If a company borrows a lot of money, it can make its equity smaller, which makes the ROE look higher. But having a lot of debt can be risky. Also, the industry the company is in can affect its ROE. Different industries have different average ROEs, so a company might have a high ROE compared to others in its industry, but not compared to companies in other industries.
 
 ## How do leverage and debt influence ROE?
 

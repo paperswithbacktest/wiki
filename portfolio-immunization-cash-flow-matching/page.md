@@ -26,7 +26,7 @@ Portfolio immunization and cash flow matching are both strategies used to manage
 
 On the other hand, cash flow matching is all about making sure that the money coming in from investments matches the money needed to be paid out at specific times. This strategy is used to meet future financial obligations, like pension payments or insurance claims, on exact dates. Investors using this method pick investments that will provide cash at the same times they need to make payments. This helps them avoid the risk of not having enough money when it's needed, making their financial planning more predictable and secure.
 
-In summary, while portfolio immunization aims to protect against interest rate risk by balancing durations, cash flow matching ensures that cash inflows match required outflows at specific times. Both strategies are important for managing different types of financial risks, and they can sometimes be used together to create a more robust investment plan.
+In summary, while portfolio immunization aims to protect against [interest rate](/wiki/interest-rate-trading-strategies) risk by balancing durations, cash flow matching ensures that cash inflows match required outflows at specific times. Both strategies are important for managing different types of financial risks, and they can sometimes be used together to create a more robust investment plan.
 
 ## What are the main goals of portfolio immunization?
 

@@ -46,7 +46,7 @@ The company also has to pay interest on the lease liability. This interest is th
 
 ## How do you calculate the interest expense for a capital lease?
 
-To calculate the interest expense for a capital lease, you start with the lease liability at the beginning of the period. This is the total amount you still owe on the lease. You then multiply this amount by the interest rate that's part of your lease agreement. This gives you the interest expense for that period. For example, if you owe $10,000 at the start of the period and the interest rate is 5%, your interest expense for that period would be $10,000 times 5%, which is $500.
+To calculate the interest expense for a capital lease, you start with the lease liability at the beginning of the period. This is the total amount you still owe on the lease. You then multiply this amount by the [interest rate](/wiki/interest-rate-trading-strategies) that's part of your lease agreement. This gives you the interest expense for that period. For example, if you owe $10,000 at the start of the period and the interest rate is 5%, your interest expense for that period would be $10,000 times 5%, which is $500.
 
 As you make lease payments, the amount of interest expense changes. Each payment you make reduces the lease liability. So, the next time you calculate interest, you use the new, lower lease liability amount. If you paid $1,000 of the $10,000, your new lease liability would be $9,000. If the interest rate stays at 5%, your interest expense for the next period would be $9,000 times 5%, which is $450. This way, the interest expense gets smaller over time as you pay down the lease.
 

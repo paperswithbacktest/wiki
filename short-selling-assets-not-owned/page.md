@@ -100,7 +100,7 @@ Due to the potential for significant loss, where a poor market move can result i
 
 ## References & Further Reading
 
-For further insights, consult works like "Advances in Financial Machine Learning" by Marcos Lopez de Prado, which investigates into machine learning techniques applied to financial markets, helping traders to develop algorithms that can process massive amounts of data for decision-making. This book covers advanced topics such as [backtesting](/wiki/backtesting), feature importance, and strategies for dealing with market microstructure noise, offering valuable guidance for algorithmic traders looking to refine their approaches.
+For further insights, consult works like "Advances in Financial Machine Learning" by Marcos Lopez de Prado, which investigates into [machine learning](/wiki/machine-learning) techniques applied to financial markets, helping traders to develop algorithms that can process massive amounts of data for decision-making. This book covers advanced topics such as [backtesting](/wiki/backtesting), feature importance, and strategies for dealing with market microstructure noise, offering valuable guidance for algorithmic traders looking to refine their approaches.
 
 "Quantitative Trading" by Ernest P. Chan offers foundational knowledge for developing algorithmic strategies. The book is a practical guide to creating your quantitative strategies, covering essential topics such as strategy creation, trading infrastructure, backtesting, and implementation. It employs a hands-on approach, providing examples and Python code snippets that facilitate a deeper understanding of quantitative trading systems.
 

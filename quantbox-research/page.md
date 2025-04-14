@@ -28,7 +28,7 @@ They also create special computer programs and models to do this analysis quickl
 
 ## How does Quantbox Research help in quantitative trading?
 
-Quantbox Research helps in quantitative trading by using numbers and data to find patterns in the stock market. They use something called quantitative analysis, which means they look at a lot of information to make predictions about when to buy or sell stocks. This helps their clients, who are usually big investors or financial companies, make better decisions about where to put their money. By using special computer programs and models, Quantbox Research can analyze data quickly and accurately, giving their clients the best advice possible.
+Quantbox Research helps in [quantitative trading](/wiki/quantitative-trading) by using numbers and data to find patterns in the stock market. They use something called quantitative analysis, which means they look at a lot of information to make predictions about when to buy or sell stocks. This helps their clients, who are usually big investors or financial companies, make better decisions about where to put their money. By using special computer programs and models, Quantbox Research can analyze data quickly and accurately, giving their clients the best advice possible.
 
 Their main goal is to help people make more money by making smart choices in the stock market. They do this by creating tools that can look at a lot of information fast. This way, they can tell their clients when it's a good time to buy or sell stocks. By using Quantbox Research's services, big investors and financial companies can make smarter investment decisions and hopefully earn more money.
 
@@ -42,7 +42,7 @@ They also use special computer programs and models to make sure the data is easy
 
 Quantbox Research uses a lot of computer programs and special tools to help them look at the stock market. They use something called Python, which is a language that helps them write these programs easily. They also use other tools like Jupyter Notebooks, which let them write and test their programs in a simple way. These tools help them look at a lot of numbers and data quickly and accurately.
 
-Another important part of their technology is something called machine learning. This is a way for computers to learn from data and make predictions. Quantbox Research uses machine learning to find patterns in the stock market that can help their clients know when to buy or sell stocks. They also use big computers, called servers, to store and process all this data. This way, they can give their clients the best advice possible.
+Another important part of their technology is something called [machine learning](/wiki/machine-learning). This is a way for computers to learn from data and make predictions. Quantbox Research uses machine learning to find patterns in the stock market that can help their clients know when to buy or sell stocks. They also use big computers, called servers, to store and process all this data. This way, they can give their clients the best advice possible.
 
 All these tools and technologies work together to help Quantbox Research give good advice to big investors and financial companies. By using these special computer programs and models, they can look at a lot of information fast and help their clients make smart choices about where to put their money.
 

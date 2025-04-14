@@ -88,11 +88,11 @@ Adapting to more severe weather means finding new ways to make money and grow. I
 
 ## What are some examples of Industry Case Studies?
 
-The influence of severe weather on various industries and the intersecting role of algorithmic trading is substantial. Here we examine specific sectors impacted by such dynamics:
+The influence of severe weather on various industries and the intersecting role of [algorithmic trading](/wiki/algorithmic-trading) is substantial. Here we examine specific sectors impacted by such dynamics:
 
 ### Agriculture Industry: Weather's Effect on Commodity Prices and Trading
 
-Severe weather significantly impacts agricultural output, leading to volatile commodity prices. For instance, droughts can diminish crop yields, increasing prices, whereas floods can destroy harvests, leading to similar effects. Algorithmic trading models in agriculture now frequently incorporate weather forecasts and satellite data to anticipate such price shifts. These models use machine learning to analyze vast datasets, improving prediction accuracy.
+Severe weather significantly impacts agricultural output, leading to volatile commodity prices. For instance, droughts can diminish crop yields, increasing prices, whereas floods can destroy harvests, leading to similar effects. Algorithmic trading models in agriculture now frequently incorporate weather forecasts and satellite data to anticipate such price shifts. These models use [machine learning](/wiki/machine-learning) to analyze vast datasets, improving prediction accuracy.
 
 Consider the corn futures market. Data on soil moisture levels, temperature, and rainfall is fed into algorithms that estimate yield probabilities. A Python script using libraries like `pandas` and `scikit-learn` may look like this:
 

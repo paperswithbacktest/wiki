@@ -58,7 +58,7 @@ In practice, portfolio managers can use Roy's Safety-First Criterion to compare 
 
 ## What are the limitations of Roy's Safety-First Criterion?
 
-Roy's Safety-First Criterion is helpful for picking safe investments, but it has some limits. One big limit is that it only focuses on avoiding big losses and doesn't care about making the most money. This means you might miss out on investments that could give you higher returns but have a bit more risk. Also, the method depends a lot on guessing what the 'disaster level' should be. If you set this level too high or too low, you might pick the wrong investments.
+Roy's Safety-First Criterion is helpful for [picking](/wiki/asset-class-picking) safe investments, but it has some limits. One big limit is that it only focuses on avoiding big losses and doesn't care about making the most money. This means you might miss out on investments that could give you higher returns but have a bit more risk. Also, the method depends a lot on guessing what the 'disaster level' should be. If you set this level too high or too low, you might pick the wrong investments.
 
 Another limitation is that Roy's Safety-First Criterion uses the standard deviation to measure risk, which assumes that investment returns follow a normal distribution. But in real life, returns can be different and not always follow this pattern. This can make the safety-first ratio less accurate. Plus, the method doesn't consider how different investments in a portfolio might affect each other. So, while it's good for picking single investments, it might not work as well for managing a whole portfolio where the investments work together.
 

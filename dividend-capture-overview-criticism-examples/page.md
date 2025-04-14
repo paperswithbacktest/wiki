@@ -28,7 +28,7 @@ The payment date is when the company actually gives out the dividend to the shar
 
 ## What are the potential benefits of using a dividend capture strategy?
 
-Using a dividend capture strategy can help you earn quick money from dividends without holding onto a stock for a long time. If you time it right, you can buy a stock just before it pays a dividend, get the dividend, and then sell the stock. This can be a good way to make some extra cash if you are good at picking the right stocks and timing your trades well.
+Using a dividend capture strategy can help you earn quick money from dividends without holding onto a stock for a long time. If you time it right, you can buy a stock just before it pays a dividend, get the dividend, and then sell the stock. This can be a good way to make some extra cash if you are good at [picking](/wiki/asset-class-picking) the right stocks and timing your trades well.
 
 However, there are risks to think about. The stock price might drop by the amount of the dividend on the ex-dividend date, which could mean you don't make as much money as you hoped. Also, you have to pay for buying and selling the stock, and you might have to pay taxes on the dividend. So, while dividend capture can be a way to earn some quick money, it's important to understand these risks and costs before you start using this strategy.
 

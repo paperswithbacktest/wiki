@@ -225,7 +225,7 @@ $$
 \text{Economic Profit} = \text{Total Revenue} - (\text{Explicit Costs} + \text{Implicit Costs})
 $$
 
-In dynamic sectors such as algorithmic trading, where rapid decision-making and strategic flexibility are crucial, understanding both economic and accounting profit is invaluable. Algorithmic trading firms often rely on sophisticated models and data insights to maximize profits. Here, recognizing the implicit costs, like the potential gains from alternative investments, can be pivotal in evaluating the effectiveness of trading strategies and ensuring sustainable growth.
+In dynamic sectors such as [algorithmic trading](/wiki/algorithmic-trading), where rapid decision-making and strategic flexibility are crucial, understanding both economic and accounting profit is invaluable. Algorithmic trading firms often rely on sophisticated models and data insights to maximize profits. Here, recognizing the implicit costs, like the potential gains from alternative investments, can be pivotal in evaluating the effectiveness of trading strategies and ensuring sustainable growth.
 
 Investors and businesses should weigh both economic and accounting profit perspectives when evaluating a company's profitability. Economic profit offers insights into potential future gains by assessing all resource costs, enabling firms to make more strategic investments. Meanwhile, accounting profit remains essential for short-term analysis and meeting operational financial obligations.
 

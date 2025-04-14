@@ -84,7 +84,7 @@ By using predictive modeling, companies can also save money and be more efficien
 
 Algorithmic trading, or algo trading, denotes the use of computer algorithms to automate trading processes, executed at speeds and frequencies that surpass human capacity. Central to the functioning of this approach are data centers and communication networks, where electricity consumption is a critical [factor](/wiki/factor-investing). This section outlines how electricity serves these key components, delineates the challenges of high consumption rates, and contrasts the energy use in algorithmic and traditional trading methods.
 
-In the landscape of algorithmic trading, data centers play a pivotal role by housing the servers that process vast amounts of market data and execute trades at high speeds. These operations demand continuous, robust electrical power to maintain servers, cooling systems, and network connectivity. A typical data center supporting algorithmic trading requires significant energy for computational tasks and infrastructure cooling. As algorithms execute trades within milliseconds, the computing and network hardware must operate with minimal latency, leading to increased electricity consumption.
+In the landscape of [algorithmic trading](/wiki/algorithmic-trading), data centers play a pivotal role by housing the servers that process vast amounts of market data and execute trades at high speeds. These operations demand continuous, robust electrical power to maintain servers, cooling systems, and network connectivity. A typical data center supporting algorithmic trading requires significant energy for computational tasks and infrastructure cooling. As algorithms execute trades within milliseconds, the computing and network hardware must operate with minimal latency, leading to increased electricity consumption.
 
 Beyond the sheer energy demands of data centers, the networks responsible for transmitting data between trading platforms and markets also consume electricity. These networks must deliver high-speed data transfer to ensure trade orders are executed rapidly, necessitating a power supply that supports sophisticated, high-frequency communication technologies.
 
@@ -138,7 +138,7 @@ In summary, while algo trading presents a significant and growing electricity co
 
 ## What are the factors affecting energy consumption in algo trading?
 
-Algorithmic trading (algo trading) is deeply intertwined with energy consumption due to the computational requirements inherent in its processes. Several factors impact the level of electricity used in such trading environments, including market [volatility](/wiki/volatility-trading-strategies), high-frequency trading (HFT), and regulatory frameworks.
+Algorithmic trading (algo trading) is deeply intertwined with energy consumption due to the computational requirements inherent in its processes. Several factors impact the level of electricity used in such trading environments, including market [volatility](/wiki/volatility-trading-strategies), high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), and regulatory frameworks.
 
 ### Influence of Market Volatility on Energy Consumption
 

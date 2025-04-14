@@ -24,7 +24,7 @@ Using a base period helps make numbers easier to understand. For example, if an 
 
 Choosing a base period is important because it sets the starting point for measuring changes in economic indicators. People who make these choices often look at a time when the economy was stable or when they have good data. They want the base period to be a time that gives a clear picture of what's normal. This helps make sure that the numbers they use later on are fair and easy to understand.
 
-The criteria for picking a base period can be different depending on what the economic indicator is trying to show. For example, if they are looking at prices, they might choose a year when prices were steady. They also think about how often they will update the base period. If the economy changes a lot, they might need to pick a new base period to keep the numbers accurate and helpful.
+The criteria for [picking](/wiki/asset-class-picking) a base period can be different depending on what the economic indicator is trying to show. For example, if they are looking at prices, they might choose a year when prices were steady. They also think about how often they will update the base period. If the economy changes a lot, they might need to pick a new base period to keep the numbers accurate and helpful.
 
 ## Can you explain how the base period affects the calculation of index numbers?
 

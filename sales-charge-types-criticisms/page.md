@@ -48,7 +48,7 @@ Level loads, or 12b-1 fees, are usually smaller, typically ranging from 0.25% to
 
 ## How do sales charges impact the overall return on investment?
 
-Sales charges can lower the overall return on your investment because they take money away from what you could be earning. When you pay a front-end load, you start with less money in your investment. For example, if you invest $1,000 and pay a 5% front-end load, only $950 goes into the fund. This means your investment has to grow more just to make up for the fee you paid at the start. Over time, this can make a big difference in how much money you end up with.
+Sales charges can lower the overall return on your investment because they take money away from what you could be [earning](/wiki/earning-announcement). When you pay a front-end load, you start with less money in your investment. For example, if you invest $1,000 and pay a 5% front-end load, only $950 goes into the fund. This means your investment has to grow more just to make up for the fee you paid at the start. Over time, this can make a big difference in how much money you end up with.
 
 Back-end loads and level loads also affect your returns, but in different ways. A back-end load means you pay a fee when you take your money out, which can be smaller if you wait longer. If you sell your investment early, this fee can eat into your profits. Level loads are smaller fees you pay every year, and while they might not seem like much, they can add up over time. All these fees mean less money is working for you in the investment, so it's important to think about them when you're deciding where to put your money.
 

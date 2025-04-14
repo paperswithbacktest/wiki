@@ -40,7 +40,7 @@ In another example, let's say the same company planned to sell the toy for $5, b
 
 ## How does sales price variance differ from sales volume variance?
 
-Sales price variance and sales volume variance are two different ways to look at how a business is doing. Sales price variance is about the difference between the price a company actually sells its product for and the price it planned to sell it for. If the actual price is higher than planned, that's good because it means more money. If it's lower, that's not so good because it means less money. Sales price variance helps a company see if its pricing strategy is working well.
+Sales price variance and sales [volume](/wiki/volume-trading-strategy) variance are two different ways to look at how a business is doing. Sales price variance is about the difference between the price a company actually sells its product for and the price it planned to sell it for. If the actual price is higher than planned, that's good because it means more money. If it's lower, that's not so good because it means less money. Sales price variance helps a company see if its pricing strategy is working well.
 
 On the other hand, sales volume variance is about the difference between the number of products a company actually sells and the number it planned to sell. If a company sells more products than it planned, that's good because it means more money. If it sells fewer, that's not so good because it means less money. Sales volume variance helps a company understand if its sales strategy is working well.
 
@@ -50,7 +50,7 @@ Both variances are important because they show different parts of a company's pe
 
 Sales price variance can happen because of many things. One big reason is competition. If other companies are selling similar products for less, a company might have to lower its prices to keep up. This can cause the actual selling price to be less than the planned price, leading to an unfavorable sales price variance. Another reason could be changes in the market. For example, if there's a big demand for a product, a company might be able to charge more than it planned, causing a favorable variance.
 
-Another factor is how customers see the value of the product. If customers think a product is worth more than the planned price, a company might be able to sell it for more, leading to a favorable variance. On the other hand, if customers don't see the value, the company might have to lower the price, causing an unfavorable variance. Also, things like discounts, promotions, or special deals can affect the actual selling price, making it different from the standard price the company set.
+Another [factor](/wiki/factor-investing) is how customers see the value of the product. If customers think a product is worth more than the planned price, a company might be able to sell it for more, leading to a favorable variance. On the other hand, if customers don't see the value, the company might have to lower the price, causing an unfavorable variance. Also, things like discounts, promotions, or special deals can affect the actual selling price, making it different from the standard price the company set.
 
 ## How can a company use sales price variance to improve its pricing strategy?
 
@@ -72,7 +72,7 @@ This analysis also helps with forecasting. By understanding why sales price vari
 
 ## What advanced techniques can be used to analyze sales price variance in large datasets?
 
-To analyze sales price variance in large datasets, companies can use advanced techniques like data mining and machine learning. Data mining helps find patterns and relationships in big sets of data. For example, it can show how different factors like competition or customer behavior affect sales prices. Machine learning, on the other hand, can predict future sales price variances by learning from past data. This can help a company make better decisions about pricing and stay ahead of changes in the market.
+To analyze sales price variance in large datasets, companies can use advanced techniques like data mining and [machine learning](/wiki/machine-learning). Data mining helps find patterns and relationships in big sets of data. For example, it can show how different factors like competition or customer behavior affect sales prices. Machine learning, on the other hand, can predict future sales price variances by learning from past data. This can help a company make better decisions about pricing and stay ahead of changes in the market.
 
 Another technique is using statistical analysis tools, like regression analysis, to understand what causes sales price variance. Regression analysis can show how much different factors, like the time of year or the type of product, impact the price variance. This helps companies see the big picture and make more accurate forecasts. By using these advanced techniques, a company can get a deeper understanding of its sales data and use that knowledge to improve its pricing strategy and overall business performance.
 

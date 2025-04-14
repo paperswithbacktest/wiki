@@ -52,7 +52,7 @@ On the other hand, people with more money usually have a higher MPS. They can af
 
 ## What factors influence changes in the Marginal Propensity to Save?
 
-The Marginal Propensity to Save (MPS) can change because of many things. One big factor is how much money someone has. People with less money usually have a lower MPS because they need to spend their extra money on things they need, like food and a place to live. They don't have much left to save. On the other hand, people with more money can save more of their extra money because they already have enough to cover their basic needs. So, their MPS is usually higher.
+The Marginal Propensity to Save (MPS) can change because of many things. One big [factor](/wiki/factor-investing) is how much money someone has. People with less money usually have a lower MPS because they need to spend their extra money on things they need, like food and a place to live. They don't have much left to save. On the other hand, people with more money can save more of their extra money because they already have enough to cover their basic needs. So, their MPS is usually higher.
 
 Another factor that can change MPS is the economy. When the economy is doing well and people feel good about their future, they might spend more and save less, which means a lower MPS. But if the economy is not doing well and people are worried about losing their jobs, they might save more of their extra money, which means a higher MPS. Also, things like interest rates can affect MPS. If banks pay more interest on savings, people might be more likely to save their extra money, making their MPS go up.
 

@@ -62,7 +62,7 @@ The time value is the other part of the put option's price. It's what you pay fo
 
 Volatility is how much a stock's price goes up and down. When a stock is more volatile, it means its price can change a lot in a short time. This affects put options because the more a stock's price can move, the more valuable the put option can be. If a stock is very volatile, there's a bigger chance it could drop below the strike price of the put option before it expires. So, people are willing to pay more for the put option because it has a better chance of being useful.
 
-The price of a put option goes up when the stock's volatility goes up. This is because the time value of the option, which is the part of the price that comes from the chance the stock price might move, gets bigger. Even if the stock price stays the same, a put option on a more volatile stock will cost more than one on a less volatile stock. This is why traders watch volatility closely when they're buying or selling put options.
+The price of a put option goes up when the stock's [volatility](/wiki/volatility-trading-strategies) goes up. This is because the time value of the option, which is the part of the price that comes from the chance the stock price might move, gets bigger. Even if the stock price stays the same, a put option on a more volatile stock will cost more than one on a less volatile stock. This is why traders watch volatility closely when they're buying or selling put options.
 
 ## How can advanced traders use put options for hedging?
 

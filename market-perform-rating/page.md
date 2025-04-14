@@ -76,13 +76,13 @@ These forecasts can change over time because things are always moving and changi
 
 ## What advanced metrics or models do experts use to assess the accuracy of Market Perform Ratings?
 
-Experts use different advanced ways to check if Market Perform Ratings are right. They look at things like how often the ratings are correct, how much money you could make or lose by following them, and how they compare to other ratings like Buy or Sell. They might use something called a "confusion matrix" to see how often the ratings match what actually happens. They also use numbers like "precision" and "recall" to see how good the ratings are at picking stocks that will do about the same as the market. Another way is to use a "receiver operating characteristic" (ROC) curve to see how well the ratings can tell the difference between stocks that will do better or worse than the market.
+Experts use different advanced ways to check if Market Perform Ratings are right. They look at things like how often the ratings are correct, how much money you could make or lose by following them, and how they compare to other ratings like Buy or Sell. They might use something called a "confusion matrix" to see how often the ratings match what actually happens. They also use numbers like "precision" and "recall" to see how good the ratings are at [picking](/wiki/asset-class-picking) stocks that will do about the same as the market. Another way is to use a "receiver operating characteristic" (ROC) curve to see how well the ratings can tell the difference between stocks that will do better or worse than the market.
 
 These experts also use big math models to predict how stocks will do. They might use "regression analysis" to see how different things about a company affect its stock price. They can also use "machine learning" to find patterns in lots of data and guess what will happen next. By comparing these guesses to what actually happens, they can see if the Market Perform Ratings are good at predicting the future. All these ways help them understand if the ratings are useful for investors or if they need to be better.
 
 ## How can we evaluate algorithmic trading strategies?
 
-Evaluating the performance of algorithmic trading strategies is critical for ensuring that they align with specific investment goals, as well as maintaining optimal risk management and returns. Metrics like the Sharpe Ratio, maximum drawdown, and win rate provide a quantitative basis for assessing these strategies.
+Evaluating the performance of [algorithmic trading](/wiki/algorithmic-trading) strategies is critical for ensuring that they align with specific investment goals, as well as maintaining optimal risk management and returns. Metrics like the Sharpe Ratio, maximum drawdown, and win rate provide a quantitative basis for assessing these strategies.
 
 The Sharpe Ratio is a key metric that measures the risk-adjusted return of a trading strategy. It is calculated as the difference between the strategy's return and the risk-free rate, divided by the standard deviation of the strategy's return. Mathematically, it is expressed as:
 

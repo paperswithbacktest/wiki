@@ -96,7 +96,7 @@ Investment strategies in distressed securities prominently feature 'vulture inve
 
 Sophisticated investors may also utilize hedging or event-driven strategies to manage risk and maximize returns. Hedging involves using financial instruments like derivatives to offset potential losses, thereby stabilizing returns amid market [volatility](/wiki/volatility-trading-strategies). On the other hand, event-driven strategies capitalize on specific corporate events—such as mergers, acquisitions, or bankruptcies—that might affect the valuation of distressed securities. These strategies require a keen understanding of legal procedures and market dynamics.
 
-Incorporating algorithmic trading into these strategies further refines the investment process. Algorithms can analyze vast datasets to identify price inefficiencies or potential recovery signals faster and more accurately than traditional methods. Python, with its robust libraries like NumPy and Pandas, can be used to implement these strategies programmatically. For instance, in an event-driven strategy focusing on bankruptcies, one might use the following Python snippet to simulate potential returns:
+Incorporating [algorithmic trading](/wiki/algorithmic-trading) into these strategies further refines the investment process. Algorithms can analyze vast datasets to identify price inefficiencies or potential recovery signals faster and more accurately than traditional methods. Python, with its robust libraries like NumPy and Pandas, can be used to implement these strategies programmatically. For instance, in an event-driven strategy focusing on bankruptcies, one might use the following Python snippet to simulate potential returns:
 
 ```python
 import numpy as np

@@ -84,7 +84,7 @@ T-Bills can also help advanced investors balance their portfolios. If an investo
 
 ## What are Treasury Bills (T-Bills) and how do they work?
 
-Treasury Bills (T-Bills) are short-term debt instruments issued by a government's treasury department to finance governmental expenditures. Characterized by maturities of a year or less, T-Bills are pivotal in offering liquidity to the financial system and are integral to government debt management strategies.
+Treasury Bills (T-Bills) are short-term debt instruments issued by a government's treasury department to finance governmental expenditures. Characterized by maturities of a year or less, T-Bills are pivotal in offering [liquidity](/wiki/liquidity-risk-premium) to the financial system and are integral to government debt management strategies.
 
 **Safety and Security:**
 T-Bills are considered among the safest investments due to the low credit risk associated with government securities. The full backing of the government guarantees the repayment of the face value upon maturity, mitigating the risk of default. Consequently, T-Bills serve as an attractive option for risk-averse investors seeking capital preservation.

@@ -18,7 +18,7 @@ The CMT is called "constant maturity" because it always looks at the yield of a 
 
 The One-Year Constant Maturity Treasury (CMT) rate is figured out by the U.S. Treasury every day. They look at the yields, or returns, of many different Treasury securities that are being sold. These securities can have different lengths of time until they mature, but the Treasury uses a special math formula to figure out what the yield would be if you bought a security that matures in exactly one year. This way, they can give a consistent rate that always represents a one-year term.
 
-The process involves taking the yields of Treasury securities with different maturities and using a method called interpolation. This means they estimate what the yield would be for a one-year term by looking at securities that mature just before and just after one year. By doing this, the Treasury can provide a smooth and reliable rate that reflects current market conditions for short-term investments. This rate is important for banks, investors, and anyone who needs to understand short-term interest rate trends.
+The process involves taking the yields of Treasury securities with different maturities and using a method called interpolation. This means they estimate what the yield would be for a one-year term by looking at securities that mature just before and just after one year. By doing this, the Treasury can provide a smooth and reliable rate that reflects current market conditions for short-term investments. This rate is important for banks, investors, and anyone who needs to understand short-term [interest rate](/wiki/interest-rate-trading-strategies) trends.
 
 ## What is the purpose of the One-Year CMT?
 

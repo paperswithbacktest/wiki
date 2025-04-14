@@ -22,7 +22,7 @@ Also, the crypto world has seen some big problems when companies didn't have eno
 
 ## How does Proof of Reserves work?
 
-Proof of Reserves works by having a company show that it has enough money or assets to give back to its customers. The company does this by getting a third party, like an accountant or an auditor, to check its books. This third party looks at how much the company has and how much it owes to its customers. If the company has more than enough to cover what it owes, the third party can say that the company has a Proof of Reserves. This is like getting a stamp of approval that says the company is good at keeping its promises.
+Proof of Reserves works by having a company show that it has enough money or assets to give back to its customers. The company does this by getting a third party, like an accountant or an auditor, to check its [books](/wiki/algo-trading-books). This third party looks at how much the company has and how much it owes to its customers. If the company has more than enough to cover what it owes, the third party can say that the company has a Proof of Reserves. This is like getting a stamp of approval that says the company is good at keeping its promises.
 
 This process is important because it helps build trust. When customers see that a company has been checked and approved, they feel safer about leaving their money with that company. It's like knowing that a bank has enough money to give back to everyone who has an account there. In the world of cryptocurrencies, where there's no big boss making sure everyone plays fair, Proof of Reserves is a way to make sure companies are honest about what they have. This helps keep the whole crypto system more stable and trustworthy.
 
@@ -72,7 +72,7 @@ On the other hand, Proof of Liabilities is about showing exactly how much a comp
 
 ## What are some real-world examples of Proof of Reserves audits?
 
-One real-world example of a Proof of Reserves audit is when the cryptocurrency exchange Kraken did one in 2022. They worked with a company called Armanino LLP to check their books. Armanino looked at Kraken's money and said they had enough to pay back all their customers. This made people feel safer about using Kraken because they knew the company was being honest about what they had.
+One real-world example of a Proof of Reserves audit is when the [cryptocurrency](/wiki/cryptocurrency) exchange Kraken did one in 2022. They worked with a company called Armanino LLP to check their books. Armanino looked at Kraken's money and said they had enough to pay back all their customers. This made people feel safer about using Kraken because they knew the company was being honest about what they had.
 
 Another example is when the crypto platform Binance did a Proof of Reserves audit in 2022. They worked with a company called Mazars to check their money. Mazars looked at Binance's books and said they had more than enough to cover what they owed to customers. This helped build trust with people using Binance because they could see that the company was open about their finances.
 

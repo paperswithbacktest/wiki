@@ -40,13 +40,13 @@ Traders watch this pattern because it often means a big price move is coming soo
 
 ## What is the significance of a breakout in triangle patterns?
 
-A breakout in triangle patterns is a big deal because it shows that the price is finally moving out of the tight space it was stuck in. When the price breaks out, it means the market has made up its mind about which way to go. If the price breaks above the top line of the triangle, it's a sign that buyers are now in control and the price might go up a lot. If the price breaks below the bottom line, it's a sign that sellers are in control and the price might go down a lot.
+A [breakout](/wiki/breakout-trading) in triangle patterns is a big deal because it shows that the price is finally moving out of the tight space it was stuck in. When the price breaks out, it means the market has made up its mind about which way to go. If the price breaks above the top line of the triangle, it's a sign that buyers are now in control and the price might go up a lot. If the price breaks below the bottom line, it's a sign that sellers are in control and the price might go down a lot.
 
 Traders pay close attention to breakouts because they can signal the start of a big price move. The direction of the breakout helps traders decide whether to buy or sell. For example, if the price breaks out to the upside in an ascending triangle, traders might buy the stock expecting the price to keep going up. On the other hand, if the price breaks out to the downside in a descending triangle, traders might sell or short the stock, expecting the price to keep going down. So, a breakout is a key moment that can guide trading decisions.
 
 ## How can volume be used to confirm a triangle pattern breakout?
 
-Volume can help confirm a triangle pattern breakout by showing how strong the move is. When the price breaks out of the triangle, you want to see a big increase in volume. This means more people are trading, and it shows that the breakout is real and not just a fake move. If the volume stays low when the price breaks out, it might mean the breakout is weak and the price could go back into the triangle.
+Volume can help confirm a triangle pattern breakout by showing how strong the move is. When the price breaks out of the triangle, you want to see a big increase in [volume](/wiki/volume-trading-strategy). This means more people are trading, and it shows that the breakout is real and not just a fake move. If the volume stays low when the price breaks out, it might mean the breakout is weak and the price could go back into the triangle.
 
 For example, if you see the price break above the top line of an ascending triangle and the volume jumps up a lot, it's a good sign that the price will keep going up. The high volume shows that many buyers are jumping in, making the breakout more likely to last. On the other hand, if the volume doesn't go up much, you might want to wait and see if the price really keeps going up before you decide to buy. So, watching the volume can help you trust the breakout more and make better trading choices.
 

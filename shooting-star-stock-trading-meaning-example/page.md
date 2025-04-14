@@ -30,7 +30,7 @@ Seeing a shooting star can be a warning sign for traders. It suggests that the u
 
 A shooting star is most reliable when it shows up after a stock has been going up for a while. This means the stock has been in an uptrend. When you see a shooting star in this situation, it can be a strong sign that the price might start going down soon. The shooting star tells us that even though the price tried to go higher, it couldn't stay there, which might mean that buyers are getting tired and sellers are getting ready to take over.
 
-It's also important that the shooting star happens with a lot of trading happening. If a lot of people are buying and selling when the shooting star appears, it makes the pattern more reliable. This is because it shows that many traders are paying attention and reacting to the price trying to go up but failing. So, in an uptrend with high trading volume, a shooting star can be a good warning sign for traders to be careful or maybe sell their stocks before the price falls more.
+It's also important that the shooting star happens with a lot of trading happening. If a lot of people are buying and selling when the shooting star appears, it makes the pattern more reliable. This is because it shows that many traders are paying attention and reacting to the price trying to go up but failing. So, in an uptrend with high trading [volume](/wiki/volume-trading-strategy), a shooting star can be a good warning sign for traders to be careful or maybe sell their stocks before the price falls more.
 
 ## How can a beginner identify a shooting star pattern on a chart?
 

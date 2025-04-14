@@ -18,7 +18,7 @@ When someone wants to buy or sell, they can look at the order book to decide if 
 
 An order book in a trading system is like a big list that keeps track of all the orders people want to make. When someone wants to buy or sell something, like a stock or a cryptocurrency, they put their order into the order book. The book shows two sides: one side for people who want to buy, and the other side for people who want to sell. The buy side is called the "bid" and shows the highest prices people are willing to pay. The sell side is called the "ask" and shows the lowest prices people are willing to accept.
 
-When a new order comes in, the trading system looks at the order book to see if it can match the new order with an existing one. If someone wants to buy at a price that someone else is willing to sell at, the trade happens right away. This is called a "match." If the new order can't be matched right away, it stays in the order book until it can be matched later. The order book is always changing as new orders come in and trades happen, so it gives everyone a real-time view of what's happening in the market.
+When a new order comes in, the trading system looks at the [order book](/wiki/order-book-trading-strategies) to see if it can match the new order with an existing one. If someone wants to buy at a price that someone else is willing to sell at, the trade happens right away. This is called a "match." If the new order can't be matched right away, it stays in the order book until it can be matched later. The order book is always changing as new orders come in and trades happen, so it gives everyone a real-time view of what's happening in the market.
 
 ## What are the main components of an order book?
 
@@ -64,7 +64,7 @@ Market makers look at the order book to see what prices people are willing to bu
 
 ## What is the impact of high-frequency trading on order books?
 
-High-frequency trading (HFT) is when computers trade very quickly, often in just a few seconds or less. These fast trades can change the order book a lot. HFT traders put in many orders and take them out very quickly. This can make the order book look very busy, but sometimes the orders are not real trades. They are just there to see what other people might do. This can make it hard for other people to know what is really happening in the market.
+High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) is when computers trade very quickly, often in just a few seconds or less. These fast trades can change the order book a lot. HFT traders put in many orders and take them out very quickly. This can make the order book look very busy, but sometimes the orders are not real trades. They are just there to see what other people might do. This can make it hard for other people to know what is really happening in the market.
 
 Because HFT traders can trade so fast, they can also make the prices change a lot. If a lot of HFT traders want to buy or sell at the same time, the prices in the order book can go up or down very quickly. This can be good because it can make the market more liquid, meaning it's easier for everyone to trade. But it can also be bad because it can make the market feel less stable. People who are not using HFT might find it harder to trade because the prices are moving so fast.
 

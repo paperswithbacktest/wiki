@@ -21,7 +21,7 @@ Another way machine learning improves AR is by personalizing the experience for 
 
 ## What are some common applications of AR that utilize machine learning?
 
-One common application of AR that uses machine learning is in retail and shopping. When you use an AR app to see how a piece of furniture would look in your room, machine learning helps the app recognize the space and place the digital furniture accurately. It can also suggest items that might match your style or the colors in your room. This makes shopping easier and more fun because you can see how things will look before you buy them.
+One common application of AR that uses [machine learning](/wiki/machine-learning) is in retail and shopping. When you use an AR app to see how a piece of furniture would look in your room, machine learning helps the app recognize the space and place the digital furniture accurately. It can also suggest items that might match your style or the colors in your room. This makes shopping easier and more fun because you can see how things will look before you buy them.
 
 Another application is in education and training. AR apps can use machine learning to recognize different objects or environments and then overlay educational information or instructions. For example, a student learning anatomy might use an AR app to see a 3D model of the human body. The app can recognize what part of the body the student is looking at and provide detailed information about it. This makes learning more interactive and helps students understand complex topics better.
 
@@ -41,7 +41,7 @@ The process of training the machine learning model involves feeding it thousands
 
 ## What role do neural networks play in AR machine learning?
 
-Neural networks are a key part of machine learning in AR. They help the AR system recognize and understand objects in the real world. Imagine a neural network like a brain made of math. It learns from lots of pictures to find patterns and shapes. When you use an AR app, the camera takes a picture, and the neural network looks at it. It tries to match what it sees with what it has learned before. If it sees a chair, it knows to place a digital object right on that chair. This makes the AR experience feel real and useful.
+Neural networks are a key part of machine learning in AR. They help the AR system recognize and understand objects in the real world. Imagine a [neural network](/wiki/neural-network) like a brain made of math. It learns from lots of pictures to find patterns and shapes. When you use an AR app, the camera takes a picture, and the neural network looks at it. It tries to match what it sees with what it has learned before. If it sees a chair, it knows to place a digital object right on that chair. This makes the AR experience feel real and useful.
 
 Training a neural network involves showing it many pictures and telling it what is in them. Over time, the network gets better at recognizing objects. For example, if you want it to recognize a coffee cup, you show it lots of pictures of coffee cups. The network learns that coffee cups usually have a round shape and a handle. When you use the AR app later, the neural network can spot a coffee cup in your room and add digital information or graphics right on it. This is how neural networks help make AR more interactive and smart.
 

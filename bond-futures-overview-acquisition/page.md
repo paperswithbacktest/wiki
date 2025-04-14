@@ -52,7 +52,7 @@ Trading bond futures can be risky because the value of the futures can change a 
 
 Another risk is something called leverage. When you trade bond futures, you don't have to pay the full price of the bond right away. You only put down a small amount of money, called margin. This can make your gains bigger if you guess right about interest rates. But it can also make your losses bigger if you guess wrong. So, even a small change in the price of the bond future can lead to big losses if you're not careful.
 
-Lastly, there's the risk of not being able to sell your bond future when you want to. This is called liquidity risk. If not many people are trading bond futures, it can be hard to find someone to buy yours. This can be a problem if you need to get out of your position quickly. So, it's important to think about how easy it will be to sell your bond future before you start trading.
+Lastly, there's the risk of not being able to sell your bond future when you want to. This is called [liquidity](/wiki/liquidity-risk-premium) risk. If not many people are trading bond futures, it can be hard to find someone to buy yours. This can be a problem if you need to get out of your position quickly. So, it's important to think about how easy it will be to sell your bond future before you start trading.
 
 ## How can one start trading bond futures?
 
@@ -84,7 +84,7 @@ These rules are important because they help keep the bond futures market working
 
 Macroeconomic factors like inflation, interest rates, and economic growth can have a big effect on bond futures. When inflation goes up, people expect interest rates to go up too. This means the price of bond futures usually goes down because new bonds will pay more interest. On the other hand, if the economy is not doing well and interest rates are expected to go down, the price of bond futures can go up because the bonds they represent will be worth more than new bonds with lower interest rates.
 
-Another important factor is what the government and central banks do. If the government spends a lot of money or the central bank decides to raise interest rates, this can make bond futures go down in price. But if the central bank lowers interest rates to help the economy grow, bond futures might go up in price. People who trade bond futures watch these macroeconomic factors closely because they can change the value of their investments a lot.
+Another important [factor](/wiki/factor-investing) is what the government and central banks do. If the government spends a lot of money or the central bank decides to raise interest rates, this can make bond futures go down in price. But if the central bank lowers interest rates to help the economy grow, bond futures might go up in price. People who trade bond futures watch these macroeconomic factors closely because they can change the value of their investments a lot.
 
 ## What is the Role of Bond Futures?
 

@@ -38,11 +38,11 @@ Closed-end funds are different because they have a fixed number of shares. When 
 
 An index fund is a type of investment fund that tries to match the performance of a certain market index, like the S&P 500. It does this by buying all or a representative sample of the stocks or bonds that make up the index. This means the fund's performance will be very close to the performance of the index it's tracking. Index funds are popular because they are usually cheaper to own than other types of funds, and they provide a simple way to invest in the overall market without trying to pick individual winners.
 
-An actively managed fund is different because it has a professional manager who tries to beat the market by picking specific investments. The manager looks at different companies and decides which ones to buy or sell, hoping to get better returns than the overall market. Because of this, actively managed funds usually cost more to own because you're paying for the manager's time and expertise. While some actively managed funds do beat the market, many don't, and over time, index funds often end up doing just as well or better, especially after you take out the higher costs of active management.
+An actively managed fund is different because it has a professional manager who tries to beat the market by [picking](/wiki/asset-class-picking) specific investments. The manager looks at different companies and decides which ones to buy or sell, hoping to get better returns than the overall market. Because of this, actively managed funds usually cost more to own because you're paying for the manager's time and expertise. While some actively managed funds do beat the market, many don't, and over time, index funds often end up doing just as well or better, especially after you take out the higher costs of active management.
 
 ## What is a hedge fund and who typically invests in them?
 
-A hedge fund is a type of investment fund that can take bigger risks to try to make more money. Unlike other funds, hedge funds can use strategies like borrowing money to invest or betting that certain investments will go down in value. These strategies can lead to higher returns, but they can also lead to bigger losses. Because of this, hedge funds are often seen as riskier than other types of funds.
+A [hedge fund](/wiki/hedge-fund-trading-strategies) is a type of investment fund that can take bigger risks to try to make more money. Unlike other funds, hedge funds can use strategies like borrowing money to invest or betting that certain investments will go down in value. These strategies can lead to higher returns, but they can also lead to bigger losses. Because of this, hedge funds are often seen as riskier than other types of funds.
 
 People who typically invest in hedge funds are usually rich or have a lot of money to invest. This is because hedge funds often have rules that say you need to be a "qualified investor," which means you have to meet certain income or wealth requirements. Hedge funds are not as easy to buy and sell as other funds, and they often require investors to keep their money in the fund for a longer time. This makes them less suitable for people who might need their money back quickly.
 
@@ -78,7 +78,7 @@ Fund managers also watch trends like inflation, which is when prices go up over 
 
 ## What are the future trends and innovations expected in the investment fund industry?
 
-In the future, the investment fund industry is likely to see a lot of new trends and innovations. One big trend is the use of technology, like artificial intelligence (AI) and big data. Fund managers are starting to use AI to look at huge amounts of information to find good investments. This can help them make better choices and maybe even find opportunities that they might miss otherwise. Another trend is more focus on things like environmental, social, and governance (ESG) factors. More and more people want to invest in funds that care about the planet and society, so funds are starting to think more about these things when they choose where to invest.
+In the future, the investment fund industry is likely to see a lot of new trends and innovations. One big trend is the use of technology, like [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and big data. Fund managers are starting to use AI to look at huge amounts of information to find good investments. This can help them make better choices and maybe even find opportunities that they might miss otherwise. Another trend is more focus on things like environmental, social, and governance ([ESG](/wiki/esg-investing)) factors. More and more people want to invest in funds that care about the planet and society, so funds are starting to think more about these things when they choose where to invest.
 
 Another change we might see is more personalized investing. With new technology, funds can create investment plans that fit each person's goals and how much risk they're willing to take. This means people might get better returns because the investments are picked just for them. Also, there might be more new types of funds, like ones that use cryptocurrencies or other new kinds of investments. As the world changes, the investment fund industry will keep coming up with new ways to help people grow their money.
 
@@ -102,7 +102,7 @@ $$
 
 ### Exchange-Traded Funds (ETFs)
 
-ETFs are similar to mutual funds but distinguish themselves by being traded on stock exchanges throughout the day, allowing investors to buy and sell them at market prices. ETFs typically track an index, commodity, or basket of assets, offering cost-effective and tax-efficient investment options. Their popularity has surged due to their liquidity, transparency, and lower expense ratios compared to mutual funds.
+ETFs are similar to mutual funds but distinguish themselves by being traded on stock exchanges throughout the day, allowing investors to buy and sell them at market prices. ETFs typically track an index, commodity, or basket of assets, offering cost-effective and tax-efficient investment options. Their popularity has surged due to their [liquidity](/wiki/liquidity-risk-premium), transparency, and lower expense ratios compared to mutual funds.
 
 ### Hedge Funds
 

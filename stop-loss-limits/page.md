@@ -46,7 +46,7 @@ Another thing to think about is that stop-loss limits can sometimes make you sel
 
 ## How does market volatility affect stop-loss limits?
 
-Market volatility can make stop-loss limits less effective. When the market is moving a lot, the price of a stock can drop very fast. If it goes below your stop-loss price quickly, your order might get filled at a lower price than you set. This is called slippage. It means you might lose more money than you planned because your stock gets sold for less than your stop-loss price.
+Market [volatility](/wiki/volatility-trading-strategies) can make stop-loss limits less effective. When the market is moving a lot, the price of a stock can drop very fast. If it goes below your stop-loss price quickly, your order might get filled at a lower price than you set. This is called slippage. It means you might lose more money than you planned because your stock gets sold for less than your stop-loss price.
 
 Also, during times of high volatility, there might not be enough buyers at your stop-loss price. This can make it hard for your order to be filled at all. If the market is really wild, your stop-loss might not work the way you want it to, and you could end up holding onto a stock that's losing value. So, it's good to be careful and think about how much the market might move when you set your stop-loss limits.
 

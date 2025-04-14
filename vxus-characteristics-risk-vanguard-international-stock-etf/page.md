@@ -24,9 +24,9 @@ Another important objective of VXUS is to keep the costs of investing low. Vangu
 
 VXUS is different from other international ETFs mainly because it covers a very wide range of companies from all over the world, except the U.S. It includes stocks from both developed markets like Europe and Japan, and emerging markets like China and Brazil. This broad coverage means you get a lot of diversification, which can help reduce risk. Other international ETFs might focus only on certain regions or types of companies, so they might not give you as much spread.
 
-Another way VXUS stands out is its low cost. Vanguard is known for keeping fees low, and VXUS is no exception. The expense ratio, which is the yearly fee you pay to own the ETF, is very small compared to many other international ETFs. This means more of your money stays invested and can grow over time. Some other international ETFs might have higher fees, which can eat into your returns.
+Another way VXUS stands out is its low cost. Vanguard is known for keeping fees low, and VXUS is no exception. The expense ratio, which is the yearly fee you pay to own the [ETF](/wiki/etf-trading-strategies), is very small compared to many other international ETFs. This means more of your money stays invested and can grow over time. Some other international ETFs might have higher fees, which can eat into your returns.
 
-Lastly, VXUS tracks a broad market index, which means it tries to match the performance of a large group of international stocks. This approach is often called passive investing, and it's different from ETFs that might try to beat the market by picking specific stocks or using other strategies. This passive approach can be simpler and more predictable, which many investors like. Other international ETFs might use different strategies, like focusing on growth stocks or value stocks, which can lead to different results and risks.
+Lastly, VXUS tracks a broad market index, which means it tries to match the performance of a large group of international stocks. This approach is often called passive investing, and it's different from ETFs that might try to beat the market by [picking](/wiki/asset-class-picking) specific stocks or using other strategies. This passive approach can be simpler and more predictable, which many investors like. Other international ETFs might use different strategies, like focusing on [growth stocks](/wiki/growth-stocks) or value stocks, which can lead to different results and risks.
 
 ## What types of stocks are included in the VXUS portfolio?
 
@@ -66,7 +66,7 @@ On the other hand, if the U.S. dollar gets weaker compared to other currencies, 
 
 ## What is the impact of market volatility on VXUS?
 
-Market volatility can make the value of VXUS go up and down a lot. This happens because VXUS includes stocks from many different countries around the world. When the stock markets in these countries are going through ups and downs, it can affect the overall value of VXUS. For example, if there's a big drop in the stock market in Europe or Asia, it can pull down the value of VXUS, even if other parts of the world are doing okay.
+Market [volatility](/wiki/volatility-trading-strategies) can make the value of VXUS go up and down a lot. This happens because VXUS includes stocks from many different countries around the world. When the stock markets in these countries are going through ups and downs, it can affect the overall value of VXUS. For example, if there's a big drop in the stock market in Europe or Asia, it can pull down the value of VXUS, even if other parts of the world are doing okay.
 
 Even though VXUS is spread out across many different companies and countries, it can still be affected by big events that shake the whole world's stock markets. Things like economic crises, political changes, or global events like pandemics can cause a lot of volatility. This means the value of your investment in VXUS can change a lot in a short time. But over the long run, this kind of ups and downs can smooth out, and VXUS can still help your money grow steadily.
 

@@ -21,7 +21,7 @@ To calculate precision, you use a simple formula: $$ \text{Precision} = \frac{\t
 
 ## Why is precision important in machine learning models?
 
-Precision is important in machine learning because it tells us how reliable the model's positive predictions are. Imagine you're using a model to find sick patients in a hospital. If the model says a patient is sick, you want to be sure that's true because treating a healthy patient as sick can be harmful and costly. Precision helps us trust the model's "yes" answers by showing what percentage of those "yes" answers are correct.
+Precision is important in [machine learning](/wiki/machine-learning) because it tells us how reliable the model's positive predictions are. Imagine you're using a model to find sick patients in a hospital. If the model says a patient is sick, you want to be sure that's true because treating a healthy patient as sick can be harmful and costly. Precision helps us trust the model's "yes" answers by showing what percentage of those "yes" answers are correct.
 
 In situations where false positives are a big problem, precision becomes even more important. For example, in email spam filters, if the model incorrectly labels important emails as spam, you might miss important messages. By focusing on precision, we can make sure the model is very careful about what it labels as positive, reducing the number of mistakes it makes. The formula for precision is $$ \text{Precision} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}} $$, which clearly shows that precision goes down if the model makes more false positive errors.
 

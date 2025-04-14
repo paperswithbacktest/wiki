@@ -98,7 +98,7 @@ where $z_t$ is the z-score at time $t$, $x_t$ is the current price, $\mu$ is the
 
 Algorithmic trading mitigates human error and emotion-driven decisions, fostering a systematic, objective approach to trading. This precision not only enhances execution efficiency but also opens complex avenues for managing intricate trading strategies. By ensuring that trades are consistent with predefined rules, it reduces the psychological stress and potential biases that often accompany manual trading.
 
-The increased efficiency and systematic nature of algorithmic trading make it an invaluable tool in modern financial markets. As technology continues to advance, these systems are poised to become even more sophisticated, further enhancing their ability to optimize trading strategies and manage risks.
+The increased efficiency and systematic nature of [algorithmic trading](/wiki/algorithmic-trading) make it an invaluable tool in modern financial markets. As technology continues to advance, these systems are poised to become even more sophisticated, further enhancing their ability to optimize trading strategies and manage risks.
 
 ## References & Further Reading
 

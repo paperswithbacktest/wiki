@@ -22,7 +22,7 @@ They came up with this model because they wanted to understand stock returns bet
 
 ## What are the three factors in the Fama-French model?
 
-The Fama-French Three-Factor Model looks at three things that can affect how well stocks do. The first factor is the market. This means that if the whole stock market goes up or down, most stocks will follow that trend. It's like the tide that lifts or lowers all boats. The second factor is the size of the company. Smaller companies often do better than bigger ones. This might be because smaller companies can grow faster or because investors see more potential in them.
+The Fama-French Three-Factor Model looks at three things that can affect how well stocks do. The first [factor](/wiki/factor-investing) is the market. This means that if the whole stock market goes up or down, most stocks will follow that trend. It's like the tide that lifts or lowers all boats. The second factor is the size of the company. Smaller companies often do better than bigger ones. This might be because smaller companies can grow faster or because investors see more potential in them.
 
 The third factor is the book-to-market ratio. This is a bit more complicated, but it's about comparing what a company is worth on paper (its book value) to what investors are willing to pay for it in the market (its market value). Companies with a high book-to-market ratio, meaning their book value is high compared to their market value, tend to do better. This could be because these companies are seen as undervalued or because they might be in a better position to grow. These three factors together help explain why some stocks perform better than others.
 
@@ -44,7 +44,7 @@ In the Fama-French model, the market factor is calculated by looking at the diff
 
 The size factor, or SMB (Small Minus Big), is calculated by looking at the difference in returns between small companies and big companies. To do this, companies are sorted into groups based on their market capitalization, which is the total value of their stock. The returns of the smallest companies are compared to the returns of the biggest companies. If small companies do better than big ones, the size factor is positive, showing that smaller companies are doing better.
 
-The value factor, or HML (High Minus Low), is calculated by looking at the difference in returns between companies with high book-to-market ratios and those with low book-to-market ratios. The book-to-market ratio is the company's book value divided by its market value. Companies are sorted into groups based on this ratio. The returns of companies with high book-to-market ratios are compared to the returns of companies with low book-to-market ratios. If companies with high book-to-market ratios do better, the value factor is positive, showing that value stocks are doing better than growth stocks.
+The value factor, or HML (High Minus Low), is calculated by looking at the difference in returns between companies with high book-to-market ratios and those with low book-to-market ratios. The book-to-market ratio is the company's book value divided by its market value. Companies are sorted into groups based on this ratio. The returns of companies with high book-to-market ratios are compared to the returns of companies with low book-to-market ratios. If companies with high book-to-market ratios do better, the value factor is positive, showing that value stocks are doing better than [growth stocks](/wiki/growth-stocks).
 
 ## What does each factor in the Fama-French model represent?
 
@@ -82,7 +82,7 @@ Another limit is that the model can be hard to use in real life. It needs a lot 
 
 To address the limitations of the Fama-French Three-Factor Model, Eugene Fama and Kenneth French came up with a new version called the Five-Factor Model. This new model adds two more factors to the original three: profitability and investment. The profitability factor looks at how much profit a company makes, and the investment factor looks at how much a company invests in itself. By adding these two factors, the model can explain more about why some stocks do better than others. It helps investors see if companies that make more profit or invest more in themselves tend to do better in the stock market.
 
-Other researchers have also tried to improve the Fama-French model by adding their own factors. For example, some have added a momentum factor, which looks at whether stocks that have been going up keep going up. Others have added a liquidity factor, which looks at how easy it is to buy and sell a stock. These extra factors can help make the model work better in different markets and times. But, adding more factors also makes the model more complicated to use. So, while these extensions and modifications try to fix the model's limits, they also make it harder for regular investors to use without a lot of help.
+Other researchers have also tried to improve the Fama-French model by adding their own factors. For example, some have added a momentum factor, which looks at whether stocks that have been going up keep going up. Others have added a [liquidity](/wiki/liquidity-risk-premium) factor, which looks at how easy it is to buy and sell a stock. These extra factors can help make the model work better in different markets and times. But, adding more factors also makes the model more complicated to use. So, while these extensions and modifications try to fix the model's limits, they also make it harder for regular investors to use without a lot of help.
 
 ## What is the Fama-French Three-Factor Model and how can it be understood?
 
@@ -150,7 +150,7 @@ $$
 Where:
 - $\sigma_d$ is the standard deviation of negative returns.
 
-The case study revealed that model-driven strategies could potentially offer superior returns under suitable market conditions, as evidenced by higher Sharpe and Sortino Ratios compared to the buy-and-hold strategy. This suggests that integrating the Fama-French model into algorithmic trading systems, especially using robust programming tools like Python, can enhance portfolio performance by better understanding and predicting stock returns.
+The case study revealed that model-driven strategies could potentially offer superior returns under suitable market conditions, as evidenced by higher Sharpe and Sortino Ratios compared to the buy-and-hold strategy. This suggests that integrating the Fama-French model into [algorithmic trading](/wiki/algorithmic-trading) systems, especially using robust programming tools like Python, can enhance portfolio performance by better understanding and predicting stock returns.
 
 ## What is the conclusion?
 
@@ -176,7 +176,7 @@ Carhart, M. M. (1997). "On Persistence in Mutual Fund Performance." The Journal 
 
 Jegadeesh, N., & Titman, S. (1993). "Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency." The Journal of Finance. This research highlights the momentum effect in stock markets, advocating for a strategy that capitalizes on past winners and sells past losers, enriching the discourse on market anomalies and efficiency.
 
-Hilpisch, Y. "Python for Finance: Mastering Data-Driven Finance." This resource is excellent for practitioners interested in leveraging Python for financial analyses, providing practical insights into data management, backtesting, and implementation of financial models, including the Fama-French Three-Factor Model.
+Hilpisch, Y. "Python for Finance: Mastering Data-Driven Finance." This resource is excellent for practitioners interested in leveraging Python for financial analyses, providing practical insights into data management, [backtesting](/wiki/backtesting), and implementation of financial models, including the Fama-French Three-Factor Model.
 
 Gray, W. R., & Carlisle, T. E. "Quantitative Value: A Practitioner's Guide to Automating Intelligent Investment." This book offers a comprehensive guide to value investing through quantitative strategies, serving as a practical resource for implementing intelligent investment processes using models like Fama-French.
 

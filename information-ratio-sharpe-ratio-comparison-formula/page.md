@@ -118,7 +118,7 @@ where:
 - $R_f$ is the risk-free rate.
 - $\sigma_p$ is the standard deviation of the portfolio's excess return.
 
-This ratio is valuable for evaluating an investment's performance by assessing how much excess return an investor receives for the additional volatility endured. The greater the Sharpe Ratio, the more attractive the risk-adjusted return of the investment is.
+This ratio is valuable for evaluating an investment's performance by assessing how much excess return an investor receives for the additional [volatility](/wiki/volatility-trading-strategies) endured. The greater the Sharpe Ratio, the more attractive the risk-adjusted return of the investment is.
 
 To illustrate this with an example: consider a trading strategy that yields an average return ($R_p$) of 12%. If the risk-free rate ($R_f$) is 3% and the standard deviation ($\sigma_p$) of the portfolio’s excess returns is 10%, the Sharpe Ratio would be calculated as follows:
 

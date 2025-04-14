@@ -28,7 +28,7 @@ Another big cause was that Toshiba's system for checking and controlling what wa
 
 ## How was the scandal discovered?
 
-The Toshiba Accounting Scandal was discovered because of a new rule in Japan. In 2015, a new law said that big companies had to get checked by outside experts. These experts are called independent auditors. They look at the company's books to make sure everything is honest. When these auditors looked at Toshiba's books, they found out that Toshiba had been lying about their profits for many years.
+The Toshiba Accounting Scandal was discovered because of a new rule in Japan. In 2015, a new law said that big companies had to get checked by outside experts. These experts are called independent auditors. They look at the company's [books](/wiki/algo-trading-books) to make sure everything is honest. When these auditors looked at Toshiba's books, they found out that Toshiba had been lying about their profits for many years.
 
 After the auditors found the problem, they told the company and the government. The government then did their own big investigation. They found out that Toshiba's leaders and some workers had been making the profits look bigger than they really were from 2008 to 2014. This was a big shock to everyone and caused a lot of trouble for Toshiba.
 

@@ -76,7 +76,7 @@ On the other hand, some policies can make the Gini Index go up. If the governmen
 
 ## What advanced statistical methods can be used to refine Gini Index calculations?
 
-To make the Gini Index more accurate, people can use something called "bootstrapping." This is a way to check how sure we can be about the Gini Index number. Bootstrapping takes the data we have and makes many new sets of data by picking numbers from the original data over and over again. By doing this, we can see how much the Gini Index might change if we had different sets of data. This helps us understand if the Gini Index we calculated is a good guess or if it might be off by a lot.
+To make the Gini Index more accurate, people can use something called "bootstrapping." This is a way to check how sure we can be about the Gini Index number. Bootstrapping takes the data we have and makes many new sets of data by [picking](/wiki/asset-class-picking) numbers from the original data over and over again. By doing this, we can see how much the Gini Index might change if we had different sets of data. This helps us understand if the Gini Index we calculated is a good guess or if it might be off by a lot.
 
 Another way to make the Gini Index better is by using "decomposition methods." These methods break down the Gini Index into smaller parts to see what is causing the inequality. For example, we can look at how much of the inequality comes from different regions in a country or from different groups of people. By doing this, we can get a clearer picture of where the problems are and how to fix them. Using these advanced methods can help us understand the Gini Index better and make it a more useful tool for figuring out how to make the sharing of money more equal.
 

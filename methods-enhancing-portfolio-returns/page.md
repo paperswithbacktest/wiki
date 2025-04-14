@@ -18,7 +18,7 @@ Enhancing the returns of a portfolio is important because it helps your money gr
 
 Portfolio diversification means spreading your investments across different types of assets. The main idea is not to put all your eggs in one basket. By investing in a mix of things like stocks, bonds, and real estate, you reduce the risk that one bad investment will hurt your whole portfolio. If one investment goes down, another might go up, helping to balance things out.
 
-The key to good diversification is to choose investments that don't all move in the same way. For example, when the stock market goes down, bonds might go up. This is called having a low correlation between your investments. By picking a variety of assets that behave differently, you can smooth out the ups and downs of your portfolio. This makes it more likely that you'll reach your financial goals without taking on too much risk.
+The key to good diversification is to choose investments that don't all move in the same way. For example, when the stock market goes down, bonds might go up. This is called having a low correlation between your investments. By [picking](/wiki/asset-class-picking) a variety of assets that behave differently, you can smooth out the ups and downs of your portfolio. This makes it more likely that you'll reach your financial goals without taking on too much risk.
 
 Remember, diversification isn't just about having a lot of different investments. It's about having the right mix. You need to think about how each investment fits into your overall plan and how it might perform under different market conditions. A well-diversified portfolio is one that balances risk and reward in a way that matches your personal goals and comfort level with risk.
 
@@ -32,7 +32,7 @@ Getting the right mix of assets can help you balance the risk and reward in your
 
 Stocks can help make your portfolio grow faster. When you buy stocks, you're buying a small piece of a company. If the company does well, the value of your stock can go up, and you might get dividends, which are like little payments from the company. Over time, stocks have usually given higher returns than other types of investments like bonds or cash. This means if you have stocks in your portfolio, your money has a better chance of growing more quickly.
 
-But stocks can also be risky. Their prices can go up and down a lot, sometimes even in a single day. This is called volatility. If you need your money soon, big drops in stock prices could be a problem. But if you can leave your money in stocks for a long time, like many years, you can ride out the ups and downs. Over the long run, the good years usually make up for the bad ones, and your portfolio can grow. So, stocks can help boost your portfolio's returns, but you need to be ready for the ride.
+But stocks can also be risky. Their prices can go up and down a lot, sometimes even in a single day. This is called [volatility](/wiki/volatility-trading-strategies). If you need your money soon, big drops in stock prices could be a problem. But if you can leave your money in stocks for a long time, like many years, you can ride out the ups and downs. Over the long run, the good years usually make up for the bad ones, and your portfolio can grow. So, stocks can help boost your portfolio's returns, but you need to be ready for the ride.
 
 ## How can bonds be used to balance risk and return in a portfolio?
 
@@ -116,7 +116,7 @@ In summary, understanding portfolio returns is essential for evaluating financia
 
 ## How can we evaluate and optimize algorithmic trading strategies?
 
-Evaluating and optimizing algorithmic trading strategies involves the use of various metrics and tools to assess their effectiveness and ensure they operate efficiently. A fundamental component of this process is the measurement of performance, which can be achieved through several key metrics. One crucial metric is the Sharpe Ratio, which quantifies the risk-adjusted return of an investment by comparing excess portfolio return to its standard deviation. Mathematically, it is expressed as:
+Evaluating and optimizing [algorithmic trading](/wiki/algorithmic-trading) strategies involves the use of various metrics and tools to assess their effectiveness and ensure they operate efficiently. A fundamental component of this process is the measurement of performance, which can be achieved through several key metrics. One crucial metric is the Sharpe Ratio, which quantifies the risk-adjusted return of an investment by comparing excess portfolio return to its standard deviation. Mathematically, it is expressed as:
 
 $$
 \text{Sharpe Ratio} = \frac{R_p - R_f}{\sigma_p}

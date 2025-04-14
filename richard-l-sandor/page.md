@@ -22,11 +22,11 @@ Later, Sandor went to the University of Chicago to study more. There, he got ano
 
 ## What are some key positions Richard L. Sandor has held in his career?
 
-Richard L. Sandor has had many important jobs in his career. He worked at the Chicago Board of Trade, where he helped create new financial products like interest rate futures. These products help banks and businesses manage risks better. He also started his own company called Environmental Financial Products, LLC, which focused on creating markets for environmental issues.
+Richard L. Sandor has had many important jobs in his career. He worked at the Chicago Board of Trade, where he helped create new financial products like [interest rate](/wiki/interest-rate-trading-strategies) futures. These products help banks and businesses manage risks better. He also started his own company called Environmental Financial Products, LLC, which focused on creating markets for environmental issues.
 
 Later, Sandor founded the Chicago Climate Exchange, which was the first place in the world where people could trade greenhouse gas emissions. This was a big step in helping companies reduce their impact on the environment. He also started other companies like the American Financial Exchange and the Cantor CO2e, which work on similar ideas.
 
-Sandor has also been a teacher and a writer. He taught at Northwestern University's Kellogg School of Management and has written books about his work and ideas. He has been on the boards of many organizations and has advised governments and companies on how to create and use environmental markets.
+Sandor has also been a teacher and a writer. He taught at Northwestern University's Kellogg School of Management and has written [books](/wiki/algo-trading-books) about his work and ideas. He has been on the boards of many organizations and has advised governments and companies on how to create and use environmental markets.
 
 ## What is Richard L. Sandor's contribution to the field of environmental finance?
 

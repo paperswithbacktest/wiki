@@ -24,7 +24,7 @@ In summary, the Unit of Production Method stands out because it ties depreciatio
 
 ## What types of assets are best suited for the Unit of Production Method?
 
-The Unit of Production Method works best for assets that wear out based on how much they are used, not just how old they are. This method is great for machines or equipment that make products. For example, if you have a printing press that prints books, the more books it prints, the more it wears out. Using the Unit of Production Method, you can match the cost of the printing press to how many books it actually prints, which makes sense for figuring out the true cost of making those books.
+The Unit of Production Method works best for assets that wear out based on how much they are used, not just how old they are. This method is great for machines or equipment that make products. For example, if you have a printing press that prints [books](/wiki/algo-trading-books), the more books it prints, the more it wears out. Using the Unit of Production Method, you can match the cost of the printing press to how many books it actually prints, which makes sense for figuring out the true cost of making those books.
 
 This method is also good for things like mining equipment or vehicles that deliver goods. If you have a truck that drives a lot of miles to deliver stuff, it's going to wear out faster than if it just sits in the garage. With the Unit of Production Method, you can figure out how much the truck has been used by counting the miles it drives, and then spread out its cost based on those miles. This helps businesses see the real cost of using their trucks and can help them decide when it's time to get a new one.
 

@@ -18,7 +18,7 @@ These stocks are often found in new or growing industries, like technology or bi
 
 Supernormal growth stocks are known for growing much faster than other stocks, but only for a short time. This fast growth can come from the company doing really well or from special things happening in the market. These stocks often come from new or growing industries like technology or biotech. Because they grow so fast, people who invest in them hope to make a lot of money quickly.
 
-But, investing in supernormal growth stocks can be risky. The price of these stocks can go up and down a lot. If the fast growth stops, the stock price can drop a lot, and investors could lose money. That's why it's important to do a lot of research and understand the company and the market before deciding to buy these stocks. They can be a good way to make money, but they also come with a lot of risk.
+But, investing in supernormal [growth stocks](/wiki/growth-stocks) can be risky. The price of these stocks can go up and down a lot. If the fast growth stops, the stock price can drop a lot, and investors could lose money. That's why it's important to do a lot of research and understand the company and the market before deciding to buy these stocks. They can be a good way to make money, but they also come with a lot of risk.
 
 ## How can you identify a supernormal growth stock?
 
@@ -82,7 +82,7 @@ Another thing to think about is what people are saying about the company. If a l
 
 ## What are some historical case studies of supernormal growth stocks and their outcomes?
 
-One famous example of a supernormal growth stock is Amazon. Back in the late 1990s, Amazon was just starting out and selling books online. People got really excited about it because it was new and different. The stock price went up a lot because everyone thought Amazon would keep growing fast. And they were right! Amazon did keep growing and now it sells all kinds of things, not just books. But, it was risky back then because no one knew for sure if Amazon would succeed. If you bought the stock when it was really high and then it went down, you could have lost money. But, if you held onto it, you would have made a lot of money over time.
+One famous example of a supernormal growth stock is Amazon. Back in the late 1990s, Amazon was just starting out and selling [books](/wiki/algo-trading-books) online. People got really excited about it because it was new and different. The stock price went up a lot because everyone thought Amazon would keep growing fast. And they were right! Amazon did keep growing and now it sells all kinds of things, not just books. But, it was risky back then because no one knew for sure if Amazon would succeed. If you bought the stock when it was really high and then it went down, you could have lost money. But, if you held onto it, you would have made a lot of money over time.
 
 Another example is Netflix. In the early 2000s, Netflix started sending DVDs to people's homes by mail. It was a new idea and people loved it. The stock price went up a lot because everyone was excited about Netflix. Later, Netflix started streaming movies and TV shows online, and it grew even more. But, like with Amazon, it was risky at first because no one knew if Netflix would keep growing. If the stock price went down after you bought it, you could have lost money. But, if you kept the stock, you would have made a lot of money as Netflix became really popular. These examples show how supernormal growth stocks can make a lot of money, but they can also be risky.
 

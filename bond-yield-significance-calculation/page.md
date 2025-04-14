@@ -22,7 +22,7 @@ Also, bond yields can show how safe an investment is. If a bond has a high yield
 
 ## How is the nominal yield of a bond calculated?
 
-The nominal yield of a bond is the interest rate that the bond pays each year. It's also called the coupon rate. To find the nominal yield, you just look at the yearly interest payment the bond gives you and divide it by the bond's face value, which is the amount you get back when the bond matures. For example, if a bond has a face value of $1,000 and pays $50 in interest each year, the nominal yield would be 5% because $50 divided by $1,000 is 0.05, or 5%.
+The nominal yield of a bond is the [interest rate](/wiki/interest-rate-trading-strategies) that the bond pays each year. It's also called the coupon rate. To find the nominal yield, you just look at the yearly interest payment the bond gives you and divide it by the bond's face value, which is the amount you get back when the bond matures. For example, if a bond has a face value of $1,000 and pays $50 in interest each year, the nominal yield would be 5% because $50 divided by $1,000 is 0.05, or 5%.
 
 The nominal yield is important because it tells you the basic return you can expect from the bond, but it doesn't take into account things like the bond's price changes or how long you have to wait to get your money back. So, while it's a simple way to see what a bond pays, investors often look at other yields like the yield to maturity or current yield to get a fuller picture of what they might earn.
 
@@ -42,7 +42,7 @@ When the bond's price goes up or down, it changes the yield. If you buy the same
 
 Changes in bond yields can happen because of many different things. One big reason is how the economy is doing. When the economy is strong and growing, people might think that inflation will go up. To fight inflation, the central bank might raise interest rates. When interest rates go up, new bonds have to offer more to attract buyers, so the yields on existing bonds go up too. On the flip side, if the economy is not doing well, the central bank might lower interest rates to help it grow. This makes bond yields go down because new bonds don't need to offer as much to get people to buy them.
 
-Another factor that changes bond yields is how safe people think the bond is. If a company or government seems risky, investors will want a higher yield to take that risk. So, if something happens that makes people think a bond is riskier, like a company not doing well or a country having political problems, the yield on that bond will go up. But if the bond is seen as very safe, like a bond from a strong government, the yield will be lower because people don't need as much to invest in it.
+Another [factor](/wiki/factor-investing) that changes bond yields is how safe people think the bond is. If a company or government seems risky, investors will want a higher yield to take that risk. So, if something happens that makes people think a bond is riskier, like a company not doing well or a country having political problems, the yield on that bond will go up. But if the bond is seen as very safe, like a bond from a strong government, the yield will be lower because people don't need as much to invest in it.
 
 Lastly, how much people want to buy bonds can also change yields. If everyone wants to buy bonds, the price of the bonds goes up, and the yield goes down. But if no one wants to buy bonds, the price goes down, and the yield goes up. This can happen because of things like changes in the stock market or other investment options. If stocks are doing really well, people might move their money there instead of buying bonds, which would push bond yields up.
 
@@ -188,7 +188,7 @@ Understanding these methods is vital in assessing the success of any investment 
 
 ## How can integrating bond yields and algorithmic trading lead to optimal investment performance?
 
-Integrating bond yield calculations with algorithmic trading is a strategy that leverages advanced technological capabilities to enhance investment portfolio management. This synergy allows investors to systematically evaluate bond yields and execute trades that align with their investment goals, providing a structured approach to handling complex market dynamics.
+Integrating bond yield calculations with [algorithmic trading](/wiki/algorithmic-trading) is a strategy that leverages advanced technological capabilities to enhance investment portfolio management. This synergy allows investors to systematically evaluate bond yields and execute trades that align with their investment goals, providing a structured approach to handling complex market dynamics.
 
 **Analyzing Bond Yields with Technology**
 

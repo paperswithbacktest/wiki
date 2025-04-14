@@ -98,7 +98,7 @@ Divergences between the ADL and major market indexes serve as valuable signals f
 
 ## How can advance-decline data be integrated into algo trading strategies?
 
-Incorporating advance-decline data into algorithmic trading models involves several key steps and considerations, focusing on coding the indicator, integrating it with other data, and ensuring the strategy's robustness through systematic [backtesting](/wiki/backtesting).
+Incorporating advance-decline data into [algorithmic trading](/wiki/algorithmic-trading) models involves several key steps and considerations, focusing on coding the indicator, integrating it with other data, and ensuring the strategy's robustness through systematic [backtesting](/wiki/backtesting).
 
 ### Process of Incorporating Advance-Decline Data
 

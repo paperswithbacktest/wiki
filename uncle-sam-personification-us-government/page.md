@@ -70,7 +70,7 @@ During World War I, artist James Montgomery Flagg made a famous poster of Uncle 
 
 ## What are some lesser-known uses of Uncle Sam in media and advertising?
 
-Uncle Sam has been used in many ways in media and advertising that people might not know about. For example, he has appeared in comic books. In these stories, Uncle Sam is sometimes shown as a superhero who fights for the United States. He wears his tall hat and suit with stars and stripes, but he also has special powers. These comic books help people feel proud of their country and its values.
+Uncle Sam has been used in many ways in media and advertising that people might not know about. For example, he has appeared in comic [books](/wiki/algo-trading-books). In these stories, Uncle Sam is sometimes shown as a superhero who fights for the United States. He wears his tall hat and suit with stars and stripes, but he also has special powers. These comic books help people feel proud of their country and its values.
 
 Uncle Sam has also been used in advertisements for products. Companies use his image to make people think their products are patriotic. For example, a company might put Uncle Sam on a poster for a car or a food product. They want people to think that buying their product is a way to support the United States. This makes Uncle Sam a powerful symbol in advertising, even if people don't always notice it.
 

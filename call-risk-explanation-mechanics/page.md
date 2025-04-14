@@ -18,11 +18,11 @@ This can be a problem for investors because they might have to reinvest their mo
 
 Call risk affects bond investors by potentially cutting short their expected income from the bond. When a bond is called, the issuer pays back the principal early, and the investor gets their money back sooner than planned. This can be a problem if the investor was counting on the regular interest payments from the bond to meet their financial needs or goals. If the bond is called, the investor has to find a new place to invest their money, which might not be easy or as profitable.
 
-The main issue with call risk is that it often happens when interest rates have dropped. If rates are lower when the bond is called, the investor might only be able to reinvest their money in new bonds that pay less interest. This means the investor's future income could be lower than what they were getting from the called bond. So, call risk can lead to lower returns for bond investors, making it an important factor to consider when choosing which bonds to buy.
+The main issue with call risk is that it often happens when interest rates have dropped. If rates are lower when the bond is called, the investor might only be able to reinvest their money in new bonds that pay less interest. This means the investor's future income could be lower than what they were getting from the called bond. So, call risk can lead to lower returns for bond investors, making it an important [factor](/wiki/factor-investing) to consider when choosing which bonds to buy.
 
 ## What are the key factors that contribute to call risk?
 
-Call risk happens mainly because of changes in interest rates. When interest rates go down, companies that issued bonds might want to call them back. They do this because they can borrow money again at a lower interest rate, which saves them money. For example, if a company issued a bond with a 5% interest rate and now they can issue a new bond at 3%, they would want to call the old bond and issue a new one to save on interest costs.
+Call risk happens mainly because of changes in interest rates. When interest rates go down, companies that issued bonds might want to call them back. They do this because they can borrow money again at a lower [interest rate](/wiki/interest-rate-trading-strategies), which saves them money. For example, if a company issued a bond with a 5% interest rate and now they can issue a new bond at 3%, they would want to call the old bond and issue a new one to save on interest costs.
 
 Another factor that contributes to call risk is the terms of the bond itself. Some bonds have a call feature, which means the issuer can choose to pay back the bond before it matures. This call feature is usually set up with specific rules, like when the bond can be called and at what price. If an investor buys a bond with a call feature, they need to be aware that the bond might be called early, especially if interest rates change.
 
@@ -56,7 +56,7 @@ They should also look at what's happening with interest rates. If interest rates
 
 Investors can use a few strategies to lower the risk of their bonds being called. One good way is to look for bonds that don't have a call feature. These bonds can't be paid back early by the issuer, so the investor gets to keep getting interest payments until the bond's maturity date. This makes the investment safer because the investor knows exactly when they will get their money back.
 
-Another strategy is to pay attention to interest rates. If interest rates are going down, there's a higher chance that bonds will be called. So, investors can try to buy bonds when interest rates are high or expected to stay the same. This way, the bonds are less likely to be called early, and the investor can keep earning the higher interest rate for longer. By choosing bonds carefully and keeping an eye on interest rates, investors can better manage the risk of their bonds being called.
+Another strategy is to pay attention to interest rates. If interest rates are going down, there's a higher chance that bonds will be called. So, investors can try to buy bonds when interest rates are high or expected to stay the same. This way, the bonds are less likely to be called early, and the investor can keep [earning](/wiki/earning-announcement) the higher interest rate for longer. By choosing bonds carefully and keeping an eye on interest rates, investors can better manage the risk of their bonds being called.
 
 ## How does interest rate environment influence call risk?
 
@@ -68,7 +68,7 @@ On the other hand, if interest rates are high or expected to stay the same, the 
 
 The call protection period is a time when the bond can't be called by the issuer. This period helps investors because it means they can get interest payments without worrying about the bond being called early. If a bond has a call protection period, investors know they will get their money back at a certain time, which makes the bond safer. This period can last for a few years, and it gives investors more peace of mind.
 
-When choosing bonds, investors should look at the call protection period to understand the call risk better. A longer call protection period means the bond is less likely to be called early, which is good for investors who want a steady income. By picking bonds with a call protection period that fits their plans, investors can lower the chance of their bonds being called and manage their call risk better.
+When choosing bonds, investors should look at the call protection period to understand the call risk better. A longer call protection period means the bond is less likely to be called early, which is good for investors who want a steady income. By [picking](/wiki/asset-class-picking) bonds with a call protection period that fits their plans, investors can lower the chance of their bonds being called and manage their call risk better.
 
 ## How do credit rating changes affect the call risk of a bond?
 

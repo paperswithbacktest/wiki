@@ -76,7 +76,7 @@ Another technique is to use real-time monitoring. With modern software, you can 
 
 ## What future trends are expected in the field of zero-proof bookkeeping?
 
-In the future, zero-proof bookkeeping is likely to become even more automated. Software will get better at recording transactions in two places automatically, making sure the total always adds up to zero. This means businesses will spend less time on bookkeeping and make fewer mistakes. New technology like artificial intelligence (AI) could help by learning how a business works and setting up rules to handle common transactions without anyone having to do it manually. This would make zero-proof bookkeeping faster and more accurate.
+In the future, zero-proof bookkeeping is likely to become even more automated. Software will get better at recording transactions in two places automatically, making sure the total always adds up to zero. This means businesses will spend less time on bookkeeping and make fewer mistakes. New technology like [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) could help by learning how a business works and setting up rules to handle common transactions without anyone having to do it manually. This would make zero-proof bookkeeping faster and more accurate.
 
 Another trend we might see is more real-time monitoring and reporting. With better software, businesses will be able to see their financial records change as transactions happen. This helps them spot errors or fraud right away and fix them quickly. Real-time data can also help businesses make decisions faster and keep their finances in good shape. As these technologies improve, zero-proof bookkeeping will become an even more powerful tool for managing money in small businesses.
 

@@ -40,7 +40,7 @@ The Sensex also brings a lot of attention to the BSE. It's like a big sign that 
 
 ## What are the criteria for a company to be included in the S&P BSE Sensex Index?
 
-To be included in the S&P BSE Sensex Index, a company needs to meet several important rules. First, it has to be among the biggest companies on the Bombay Stock Exchange, based on how much its shares are worth, called market capitalization. The company should also be one that a lot of people want to buy and sell, so it needs to have a high trading volume. This means the company's stock is popular and active in the market.
+To be included in the S&P BSE Sensex Index, a company needs to meet several important rules. First, it has to be among the biggest companies on the Bombay Stock Exchange, based on how much its shares are worth, called market capitalization. The company should also be one that a lot of people want to buy and sell, so it needs to have a high trading [volume](/wiki/volume-trading-strategy). This means the company's stock is popular and active in the market.
 
 Another rule is that the company must be from an industry that is important to the Indian economy. The BSE wants the Sensex to show a good mix of different kinds of businesses, like banking, IT, and energy. Also, the company has to be listed on the BSE for a long enough time, usually at least six months, so there's enough data to see how it's been doing. All these rules help make sure the Sensex gives a clear picture of the market's health.
 
@@ -80,7 +80,7 @@ One advanced strategy for trading based on movements in the S&P BSE Sensex Index
 
 Another strategy is to use options and futures based on the Sensex. Options give you the right to buy or sell the Sensex at a certain price in the future. If you think the Sensex will go up, you can buy a call option. If you think it will go down, you can buy a put option. Futures are contracts to buy or sell the Sensex at a set price on a specific date. Traders use futures to bet on where they think the Sensex will be in the future. Both options and futures can help traders make money from small movements in the Sensex, but they can also be risky because they can lead to big losses if the market doesn't move the way you expect.
 
-A third strategy is to use a strategy called pair trading. This involves finding two companies in the Sensex that usually move together but are currently out of sync. For example, if one company's stock is going up while the other's is going down, you can buy the one going down and sell the one going up. The idea is that they will eventually move back to their normal relationship, and you can make money from the difference. This can be a way to make money from the Sensex even when the overall market isn't moving much.
+A third strategy is to use a strategy called [pair trading](/wiki/pair-trading). This involves finding two companies in the Sensex that usually move together but are currently out of sync. For example, if one company's stock is going up while the other's is going down, you can buy the one going down and sell the one going up. The idea is that they will eventually move back to their normal relationship, and you can make money from the difference. This can be a way to make money from the Sensex even when the overall market isn't moving much.
 
 ## References & Further Reading
 

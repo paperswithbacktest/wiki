@@ -80,7 +80,7 @@ Regulators also keep an eye on short selling to make sure it's done fairly and d
 
 Advanced traders can use dividend dates to plan their short selling better. They know that if they are short selling a stock and a dividend is coming up, they will have to pay that dividend to the person they borrowed the shares from. To avoid this extra cost, they might close their short position before the dividend is paid. This way, they don't have to pay the dividend and can keep their profits or cut their losses. By keeping track of when dividends are paid, traders can choose the best times to start and end their short sales.
 
-Another way traders can use dividend dates is by picking which stocks to short sell. If a company pays big dividends, traders might avoid shorting that stock because the dividend payment could make the trade less profitable. On the other hand, if a company doesn't pay dividends, it might be a better choice for short selling because there's no risk of having to pay dividends. By understanding when and how much dividends are paid, traders can make smarter choices about which stocks to short sell and when to do it.
+Another way traders can use dividend dates is by [picking](/wiki/asset-class-picking) which stocks to short sell. If a company pays big dividends, traders might avoid shorting that stock because the dividend payment could make the trade less profitable. On the other hand, if a company doesn't pay dividends, it might be a better choice for short selling because there's no risk of having to pay dividends. By understanding when and how much dividends are paid, traders can make smarter choices about which stocks to short sell and when to do it.
 
 ## What is Dividend Investing?
 

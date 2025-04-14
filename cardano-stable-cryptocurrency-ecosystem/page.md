@@ -24,7 +24,7 @@ Another important goal for Cardano is to support smart contracts and decentraliz
 
 Cardano's approach to development is different from other cryptocurrencies because it focuses a lot on research and making sure everything is carefully checked. Many other cryptocurrencies might rush to add new features, but Cardano takes its time. They work with scientists and researchers to study their ideas before adding them to the platform. This means that when Cardano makes changes or adds new things, they are usually well-tested and thought out.
 
-Another way Cardano is different is how they build their technology. They use a method called the Ouroboros protocol, which helps the network stay secure and use less energy. This is different from other cryptocurrencies like Bitcoin, which use a lot of power. Cardano also wants to make sure their platform can grow and handle many users without problems. They spend a lot of time making sure the system can scale up, which is important for a cryptocurrency that wants to be used by lots of people around the world.
+Another way Cardano is different is how they build their technology. They use a method called the Ouroboros protocol, which helps the network stay secure and use less energy. This is different from other cryptocurrencies like Bitcoin, which use a lot of power. Cardano also wants to make sure their platform can grow and handle many users without problems. They spend a lot of time making sure the system can scale up, which is important for a [cryptocurrency](/wiki/cryptocurrency) that wants to be used by lots of people around the world.
 
 ## What is the role of the Cardano Foundation in promoting stability?
 

@@ -18,7 +18,7 @@ Even though an asset is fully depreciated, it can still be used by the business.
 
 An asset becomes fully depreciated when its total depreciation equals its original cost. When a company buys an asset, like a computer or a truck, it doesn't count the whole price as an expense right away. Instead, it spreads the cost over the time the asset is expected to be useful. This is called depreciation. Every year, a part of the asset's cost is recorded as an expense on the company's financial statements. This continues until the total of these expenses matches the asset's original price.
 
-For example, if a company buys a machine for $10,000 and decides it will last for 10 years, it might depreciate the machine by $1,000 each year. After 10 years, the company will have recorded $10,000 in depreciation expenses, which is the same as the machine's original cost. At this point, the machine is fully depreciated. Even though it might still work, in the company's books, the machine's value is now zero.
+For example, if a company buys a machine for $10,000 and decides it will last for 10 years, it might depreciate the machine by $1,000 each year. After 10 years, the company will have recorded $10,000 in depreciation expenses, which is the same as the machine's original cost. At this point, the machine is fully depreciated. Even though it might still work, in the company's [books](/wiki/algo-trading-books), the machine's value is now zero.
 
 ## What are the common methods of depreciation?
 
@@ -148,7 +148,7 @@ Ultimately, the integration of well-defined accounting frameworks and adherence 
 
 ## References & Further Reading
 
-For those seeking to enhance their comprehension of the intricate relationship between financial accounting, depreciated asset valuation, and algorithmic trading, several authoritative resources are invaluable. 
+For those seeking to enhance their comprehension of the intricate relationship between financial accounting, depreciated asset valuation, and [algorithmic trading](/wiki/algorithmic-trading), several authoritative resources are invaluable. 
 
 One such resource is "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernest P. Chan. This book outlines various algorithmic trading strategies and provides the rationale behind their effectiveness. It is particularly valuable for individuals looking to understand how financial principles can be systematically applied to trading algorithms.
 

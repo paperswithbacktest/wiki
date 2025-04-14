@@ -82,7 +82,7 @@ Because of these differences, it's important to know which accounting standard a
 
 ## What is Understanding Financial Ratios?
 
-Financial ratios are crucial analytical tools that derive from a company's financial statements, providing insights into its overall operational health. They are invaluable for investors, analysts, and business managers in making informed financial decisions. Broadly, these ratios fall into four main categories: profitability, liquidity, efficiency, and leverage, each serving distinct purposes in financial analysis.
+Financial ratios are crucial analytical tools that derive from a company's financial statements, providing insights into its overall operational health. They are invaluable for investors, analysts, and business managers in making informed financial decisions. Broadly, these ratios fall into four main categories: profitability, [liquidity](/wiki/liquidity-risk-premium), efficiency, and leverage, each serving distinct purposes in financial analysis.
 
 Profitability ratios measure a company's ability to generate earnings relative to sales, assets, and equity. Common examples include the net profit margin, return on assets (ROA), and return on equity (ROE). These ratios help stakeholders assess the company's ability to generate profit over time, which is a key indicator of its financial success and viability. For instance, the net profit margin is calculated as:
 
@@ -140,7 +140,7 @@ In summary, financial ratios are integral for understanding a company’s capita
 
 ## References & Further Reading
 
-Books, articles, and resources provide valuable insights into financial ratios and their applications in trading, offering readers a deeper understanding of these critical financial metrics. For those interested in enhancing their knowledge about financial ratios, algorithmic trading, and capital structures, the following resources are recommended:
+Books, articles, and resources provide valuable insights into financial ratios and their applications in trading, offering readers a deeper understanding of these critical financial metrics. For those interested in enhancing their knowledge about financial ratios, [algorithmic trading](/wiki/algorithmic-trading), and capital structures, the following resources are recommended:
 
 1. **Books**:
    - *Financial Ratios for Executives: How to Assess Company Strength, Fix Problems, and Make Better Decisions* by Michael Rist. This book offers practical guidance for executives and traders to utilize financial ratios effectively.

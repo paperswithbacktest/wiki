@@ -40,7 +40,7 @@ Convenience gain is a bit different. You can't always put a number on it, but yo
 
 The key factors that influence transaction outcome gains are the price you pay, the value of what you get, and how convenient the transaction is. If you can buy something at a lower price than usual, you might get a bigger financial gain. The value of what you get also matters a lot. If you trade something old for something new and the new thing is worth a lot more, that's a big value gain. Convenience can also make a difference. If a transaction saves you time or effort, that's a convenience gain.
 
-Another important factor is knowing the market. If you know a lot about what things are worth, you can make better deals and get bigger gains. Timing can also play a role. Sometimes, buying or selling at the right time can lead to bigger gains. For example, buying things on sale or selling when demand is high can increase your financial gain. Understanding these factors helps you see how to get the most out of your transactions.
+Another important [factor](/wiki/factor-investing) is knowing the market. If you know a lot about what things are worth, you can make better deals and get bigger gains. Timing can also play a role. Sometimes, buying or selling at the right time can lead to bigger gains. For example, buying things on sale or selling when demand is high can increase your financial gain. Understanding these factors helps you see how to get the most out of your transactions.
 
 ## How do transaction outcome gains impact financial statements?
 
@@ -141,7 +141,7 @@ In this script, the calculation of gains for a portfolio helps traders make info
 
 ## How do financial metrics interplay in algo trading?
 
-Algorithmic trading intricately weaves together various financial metrics such as gains, losses, revenue, and expenses to enhance trading profitability and manage risks. These metrics fundamentally drive decisions within trading algorithms, dictating when to enter and exit trades based on predefined criteria aimed at optimizing financial outcomes.
+Algorithmic trading intricately weaves together various financial metrics such as gains, losses, revenue, and expenses to enhance trading profitability and manage risks. These metrics fundamentally drive decisions within trading algorithms, dictating when to enter and [exit](/wiki/exit-strategy) trades based on predefined criteria aimed at optimizing financial outcomes.
 
 **Gains and Losses Impact**: Gains and losses serve as direct indicators of a trading algorithm's performance. A gain occurs when an asset's selling price exceeds its purchase price, contributing positively to the trading strategy's profitability. Conversely, a loss indicates underperformance, where the purchase price surpasses the selling price. The ability to accurately quantify these metrics allows algorithms to refine their strategies, ensuring that the potential for profit maximization is systematically prioritized. For example, capital gains, a type of gain, can be calculated using the formula:
 

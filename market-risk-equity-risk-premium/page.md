@@ -28,13 +28,13 @@ On the other hand, specific risk, also known as unsystematic risk, is the risk t
 
 ## What factors contribute to market risk?
 
-Market risk comes from things that affect the whole market, not just one company. One big factor is economic changes. When the economy is doing well, people feel good about investing, and stock prices might go up. But if the economy starts to struggle, like during a recession, people might get worried and sell their stocks, making prices go down. Another factor is interest rates. When interest rates go up, borrowing money becomes more expensive, which can slow down the economy and affect stock prices. On the other hand, when interest rates go down, borrowing becomes cheaper, which can help the economy grow and push stock prices up.
+Market risk comes from things that affect the whole market, not just one company. One big [factor](/wiki/factor-investing) is economic changes. When the economy is doing well, people feel good about investing, and stock prices might go up. But if the economy starts to struggle, like during a recession, people might get worried and sell their stocks, making prices go down. Another factor is interest rates. When interest rates go up, borrowing money becomes more expensive, which can slow down the economy and affect stock prices. On the other hand, when interest rates go down, borrowing becomes cheaper, which can help the economy grow and push stock prices up.
 
 Another important factor is how people feel about the market, which is called market sentiment. If people are feeling confident and think the market will do well, they're more likely to invest, which can drive up prices. But if people are worried or scared, they might pull their money out of the market, causing prices to fall. Political events and global happenings can also play a big role. For example, if there's a big election or a war in another country, it can create uncertainty and affect how people invest. All these factors together make up market risk, which is something every investor has to think about.
 
 ## How is the equity risk premium calculated?
 
-The equity risk premium is figured out by looking at the difference between the expected return from stocks and the expected return from a safer investment, like government bonds. To find the expected return from stocks, people often look at past data to see how much stocks have grown over time. They might also think about what's going on in the economy right now and what they think will happen in the future. For the safer investment, like government bonds, they usually look at the current interest rate that these bonds are paying.
+The equity risk premium is figured out by looking at the difference between the expected return from stocks and the expected return from a safer investment, like government bonds. To find the expected return from stocks, people often look at past data to see how much stocks have grown over time. They might also think about what's going on in the economy right now and what they think will happen in the future. For the safer investment, like government bonds, they usually look at the current [interest rate](/wiki/interest-rate-trading-strategies) that these bonds are paying.
 
 Once you have these two numbers, you just subtract the expected return from the safer investment from the expected return from stocks. This difference is the equity risk premium. It can change over time because it depends on how risky people think stocks are compared to other investments. If people feel more confident about the economy, they might not need as big a reward to invest in stocks, so the equity risk premium could be smaller. But if things are uncertain or the economy is doing badly, people might want a bigger reward for taking the risk of investing in stocks, making the equity risk premium larger.
 
@@ -82,7 +82,7 @@ Another way advanced statistical methods help is by using something called time 
 
 ## What is the Concept of Equity Risk Premium?
 
-The equity risk premium (ERP) refers to the additional return an investor expects to receive from holding a risky equity investment instead of a risk-free asset, such as government bonds. It reflects the compensation investors seek for the higher volatility and risk associated with equities compared to the relative stability of bonds.
+The equity risk premium (ERP) refers to the additional return an investor expects to receive from holding a risky equity investment instead of a risk-free asset, such as government bonds. It reflects the compensation investors seek for the higher [volatility](/wiki/volatility-trading-strategies) and risk associated with equities compared to the relative stability of bonds.
 
 Mathematically, the equity risk premium is expressed as:
 

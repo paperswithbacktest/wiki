@@ -30,7 +30,7 @@ Next, the company converts the borrowed Euros into US dollars at the current exc
 
 ## Can you explain the concept of interest rate parity in the context of money market hedging?
 
-Interest rate parity is a concept that helps explain why money market hedging works. It says that the difference in interest rates between two countries should equal the difference in their currency exchange rates. If this wasn't true, people could make easy money by borrowing in one country, converting the money, and investing it in another country. But because of interest rate parity, these opportunities don't last long, and the exchange rates adjust to balance things out.
+Interest rate parity is a concept that helps explain why money market hedging works. It says that the difference in interest rates between two countries should equal the difference in their currency exchange rates. If this wasn't true, people could make easy money by borrowing in one country, converting the money, and investing it in another country. But because of [interest rate](/wiki/interest-rate-trading-strategies) parity, these opportunities don't last long, and the exchange rates adjust to balance things out.
 
 In the context of money market hedging, interest rate parity means that when a company borrows in one currency and converts it to another, the interest they pay on the loan should be offset by the interest they earn on the investment in the other currency. This balance is what allows the company to lock in the exchange rate and avoid currency risk. So, when a company uses a money market hedge, they're taking advantage of interest rate parity to make sure their costs and earnings line up, no matter what happens to exchange rates in the future.
 

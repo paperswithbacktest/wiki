@@ -127,7 +127,7 @@ In conclusion, net income is a crucial, albeit complex, metric within financial 
 
 ## References & Further Reading
 
-García, R., & Tsafack, G. (2011). *Dependence Structure and Risk Measurement in Algorithmic Trading*. This study provides an in-depth analysis of how dependence structures among financial variables can impact risk measurement in algorithmic trading. The authors focus on statistical models that identify dependencies, which are critical in mitigating risk through enhanced trading algorithms.
+García, R., & Tsafack, G. (2011). *Dependence Structure and Risk Measurement in Algorithmic Trading*. This study provides an in-depth analysis of how dependence structures among financial variables can impact risk measurement in [algorithmic trading](/wiki/algorithmic-trading). The authors focus on statistical models that identify dependencies, which are critical in mitigating risk through enhanced trading algorithms.
 
 Schroff, G., & Eydeland, A. (2010). *Algorithmic and High-Frequency Trading*. This book offers a comprehensive overview of the principles underlying algorithmic and high-frequency trading. It examines the technological advancements that enable rapid execution and decision-making, discussing how these can be integrated with financial metrics like operating cash flow and net income for robust algorithmic strategies.
 

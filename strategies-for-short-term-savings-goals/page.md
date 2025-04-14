@@ -84,7 +84,7 @@ In tough economic times, when money is tight or jobs are hard to find, you need 
 
 ## References & Further Reading
 
-For readers keen on gaining a more comprehensive understanding of the topics covered in this article, a variety of resources are available that delve deeper into algorithmic trading, short-term investment strategies, and broader financial planning.
+For readers keen on gaining a more comprehensive understanding of the topics covered in this article, a variety of resources are available that delve deeper into [algorithmic trading](/wiki/algorithmic-trading), short-term investment strategies, and broader financial planning.
 
 ### Books
 1. **"Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan** - This book provides insights into designing and implementing successful algorithmic trading strategies, with a focus on practical applications.

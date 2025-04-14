@@ -66,7 +66,7 @@ In short, while constant dollars are a useful tool for understanding the value o
 
 ## How do different countries adjust for constant dollars in their economic statistics?
 
-Different countries use their own ways to adjust for constant dollars in their economic statistics. They often use a price index like the Consumer Price Index (CPI) to see how much prices have gone up over time. Each country might choose a different base year to make these adjustments. For example, the United States might use 2010 as a base year, while another country might use 2015. This can make it a bit hard to compare economic data between countries because the base years are different.
+Different countries use their own ways to adjust for constant dollars in their economic [statistics](/wiki/bayesian-statistics). They often use a price index like the Consumer Price Index (CPI) to see how much prices have gone up over time. Each country might choose a different base year to make these adjustments. For example, the United States might use 2010 as a base year, while another country might use 2015. This can make it a bit hard to compare economic data between countries because the base years are different.
 
 Even though the methods are similar, the details can be different from one country to another. Some countries might also use different ways to measure inflation, which can affect how they adjust for constant dollars. For example, one country might focus more on the prices of food and energy, while another might look at a wider range of goods and services. These differences mean that when we compare economic data from different countries, we need to be careful and understand how each country adjusts for inflation to get a fair comparison.
 

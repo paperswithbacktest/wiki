@@ -108,7 +108,7 @@ P/E ratios vary significantly across industries due to differing growth rates, r
 
 ## How can P/E Ratio Analysis be integrated with Algorithmic Trading?
 
-Integrating Price-to-Earnings (P/E) ratio analysis with algorithmic trading involves creating trading models that leverage the insights provided by the P/E metric to make informed buy or sell decisions automatically. This process enhances the decision-making capability by systematically analyzing large volumes of data and executing trades at speeds beyond human capability.
+Integrating Price-to-Earnings (P/E) ratio analysis with [algorithmic trading](/wiki/algorithmic-trading) involves creating trading models that leverage the insights provided by the P/E metric to make informed buy or sell decisions automatically. This process enhances the decision-making capability by systematically analyzing large volumes of data and executing trades at speeds beyond human capability.
 
 ### Incorporating P/E Ratios into Algorithmic Trading Models
 

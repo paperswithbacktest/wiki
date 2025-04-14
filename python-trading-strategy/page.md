@@ -38,7 +38,7 @@ Next, you'll write your trading strategy as a set of rules in Python. For exampl
 
 When you want to see how good your trading strategy is, you look at some common performance metrics. One important metric is the total return, which shows how much money your strategy would have made or lost over time. Another key metric is the Sharpe Ratio, which tells you if the returns are good compared to the risk you're taking. A higher Sharpe Ratio means your strategy is doing well for the amount of risk involved. You also look at the maximum drawdown, which is the biggest loss your strategy would have had from its highest point to its lowest point. This helps you understand the worst-case scenario and how much you might lose.
 
-Another useful metric is the win rate, which is the percentage of trades that make money. If your win rate is high, it means more of your trades are successful. You also need to look at the average win and average loss, which tell you how much you typically gain or lose on winning and losing trades. The profit factor, which is the total wins divided by the total losses, gives you an idea of how profitable your strategy is overall. By looking at these metrics, you can get a good picture of how your trading strategy performs and where you might need to make improvements.
+Another useful metric is the win rate, which is the percentage of trades that make money. If your win rate is high, it means more of your trades are successful. You also need to look at the average win and average loss, which tell you how much you typically gain or lose on winning and losing trades. The profit [factor](/wiki/factor-investing), which is the total wins divided by the total losses, gives you an idea of how profitable your strategy is overall. By looking at these metrics, you can get a good picture of how your trading strategy performs and where you might need to make improvements.
 
 ## How can you incorporate risk management into a Python trading strategy?
 
@@ -50,7 +50,7 @@ You can also use position sizing in your Python script to manage risk. Position 
 
 To make your trading strategy better in Python, you can use a technique called genetic algorithms. These are like nature's way of improving things over time. You start with a bunch of different versions of your strategy, kind of like a population. Then, you see how well each version does using historical data. The best ones get to "have kids" and create new versions that are a mix of the good parts from their "parents." Over many rounds, this process helps you find the best strategy. It's like survival of the fittest, but for trading rules.
 
-Another advanced technique is machine learning. You can teach a computer to find patterns in stock prices or other data that you might not see easily. For example, you can use a type of machine learning called reinforcement learning, where the computer learns by trying different actions and seeing what works best. This can help your strategy adapt to new market conditions. To use these techniques in Python, you'll need to learn about libraries like scikit-learn for machine learning and DEAP for genetic algorithms. By using these advanced methods, you can make your trading strategy smarter and more effective.
+Another advanced technique is [machine learning](/wiki/machine-learning). You can teach a computer to find patterns in stock prices or other data that you might not see easily. For example, you can use a type of machine learning called [reinforcement learning](/wiki/reinforcement-learning), where the computer learns by trying different actions and seeing what works best. This can help your strategy adapt to new market conditions. To use these techniques in Python, you'll need to learn about libraries like scikit-learn for machine learning and DEAP for genetic algorithms. By using these advanced methods, you can make your trading strategy smarter and more effective.
 
 ## How do machine learning models enhance trading strategies in Python?
 
@@ -68,7 +68,7 @@ Another challenge is dealing with lots of data at the same time. Real-time tradi
 
 To use Python trading strategies with financial APIs and data feeds, you first need to connect your Python code to these sources of information. APIs, or Application Programming Interfaces, let you get real-time data from places like stock exchanges or financial data providers. You can use libraries like `yfinance` or `pandas-datareader` to pull in this data easily. For example, you might use `yfinance` to get the latest stock prices from Yahoo Finance. Once you have this data in your Python script, you can use it to make trading decisions based on your strategy.
 
-After you get the data, you need to make sure your trading strategy can handle it in real time. This means your code has to be fast enough to process the new data as it comes in and make quick decisions. You might use libraries like `ccxt` to connect to different cryptocurrency exchanges and execute trades automatically. It's important to test your strategy a lot to make sure it works well with the real-time data. By connecting your Python trading strategies to financial APIs and data feeds, you can make your trades based on the most up-to-date information, which can help you make better decisions.
+After you get the data, you need to make sure your trading strategy can handle it in real time. This means your code has to be fast enough to process the new data as it comes in and make quick decisions. You might use libraries like `ccxt` to connect to different [cryptocurrency](/wiki/cryptocurrency) exchanges and execute trades automatically. It's important to test your strategy a lot to make sure it works well with the real-time data. By connecting your Python trading strategies to financial APIs and data feeds, you can make your trades based on the most up-to-date information, which can help you make better decisions.
 
 ## What are the best practices for maintaining and scaling a Python trading strategy?
 
@@ -147,7 +147,7 @@ plt.legend()
 plt.show()
 ```
 
-By plotting moving averages alongside stock prices, traders can observe how these lines intersect and use these interactions to guide trading decisions. The robustness of this tool in smoothing data and highlighting trends makes moving averages a cornerstone of algorithmic trading strategies.
+By plotting moving averages alongside stock prices, traders can observe how these lines intersect and use these interactions to guide trading decisions. The robustness of this tool in smoothing data and highlighting trends makes moving averages a cornerstone of [algorithmic trading](/wiki/algorithmic-trading) strategies.
 
 ## What are the methods for backtesting and optimizing trading strategies?
 

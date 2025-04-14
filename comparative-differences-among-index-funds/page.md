@@ -38,7 +38,7 @@ Because index funds are designed to follow the market, they usually have lower e
 
 Tracking error is how much an index fund's performance differs from the index it's trying to copy. It's like the difference between what the fund does and what the market does. A small tracking error means the fund is doing a good job of matching the market. A big tracking error means it's not matching the market as well. This can happen because of fees, how the fund buys and sells stocks, or other things.
 
-Tracking error is important because it shows how well the index fund is doing its job. If you're investing in an index fund, you want it to follow the market closely. A big tracking error might mean you're not getting the returns you expected. It can also mean you're taking more risk than you thought. So, when you're picking an index fund, it's good to look at the tracking error to see how well it matches the market.
+Tracking error is important because it shows how well the index fund is doing its job. If you're investing in an index fund, you want it to follow the market closely. A big tracking error might mean you're not getting the returns you expected. It can also mean you're taking more risk than you thought. So, when you're [picking](/wiki/asset-class-picking) an index fund, it's good to look at the tracking error to see how well it matches the market.
 
 ## How does the choice of index (e.g., S&P 500, FTSE, MSCI) impact an index fund's performance?
 
@@ -76,7 +76,7 @@ Broad-market index funds, on the other hand, spread your money across many diffe
 
 ## What role do smart beta and factor-based index funds play in a diversified portfolio?
 
-Smart beta and factor-based index funds are special kinds of index funds that try to do better than regular index funds. They use different ways to pick stocks, like focusing on things like size, value, or how much a company's stock price moves around. These factors can help the fund do better than just following the market. So, if you add smart beta or factor-based funds to your portfolio, you might get higher returns than you would with just a regular index fund. They can be a good way to try to beat the market without taking as much risk as you would with an actively managed fund.
+Smart beta and [factor](/wiki/factor-investing)-based index funds are special kinds of index funds that try to do better than regular index funds. They use different ways to pick stocks, like focusing on things like size, value, or how much a company's stock price moves around. These factors can help the fund do better than just following the market. So, if you add smart beta or factor-based funds to your portfolio, you might get higher returns than you would with just a regular index fund. They can be a good way to try to beat the market without taking as much risk as you would with an actively managed fund.
 
 Adding smart beta and factor-based funds to your portfolio can also help you spread your money around in different ways. Because they focus on specific factors, they can give you a different kind of diversification than you get with broad-market funds. For example, if you have a fund that focuses on value stocks and another that focuses on small companies, you're not just spreading your money across different sectors, but also across different ways of picking stocks. This can make your portfolio stronger and help you manage risk better. So, smart beta and factor-based funds can be a good addition to a diversified portfolio if you want to try to get better returns and spread your risk in new ways.
 
@@ -88,7 +88,7 @@ Another way advanced investors can use index fund data is by looking at the comp
 
 ## What are the cost implications?
 
-When considering the cost implications of various investment strategies, it's essential to assess the associated fees and expenses, as these can significantly impact overall investment returns. Index funds and algorithmic trading each have distinct cost structures that reflect their respective operational methodologies.
+When considering the cost implications of various investment strategies, it's essential to assess the associated fees and expenses, as these can significantly impact overall investment returns. Index funds and [algorithmic trading](/wiki/algorithmic-trading) each have distinct cost structures that reflect their respective operational methodologies.
 
 ### Index Funds
 

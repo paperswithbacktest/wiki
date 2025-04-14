@@ -18,7 +18,7 @@ Understanding volatility is important for anyone involved in investing. It helps
 
 Volatility is really important for option pricing because it helps figure out how much an option is worth. Options are like bets on whether a stock's price will go up or down. When the stock's price moves a lot, it's called high volatility. This makes the option more valuable because there's a bigger chance the stock's price will hit the target price set in the option. So, if a stock is very volatile, the price of the option will be higher because it's riskier but also has more potential for big wins.
 
-On the other hand, if a stock doesn't move much and stays pretty steady, that's low volatility. This makes the option less valuable because there's less chance the stock's price will change enough to make the option pay off. People use models like the Black-Scholes model to calculate option prices, and volatility is a key part of these models. It's like a guess about how much the stock's price might swing in the future, and that guess affects how much someone is willing to pay for the option.
+On the other hand, if a stock doesn't move much and stays pretty steady, that's low [volatility](/wiki/volatility-trading-strategies). This makes the option less valuable because there's less chance the stock's price will change enough to make the option pay off. People use models like the Black-Scholes model to calculate option prices, and volatility is a key part of these models. It's like a guess about how much the stock's price might swing in the future, and that guess affects how much someone is willing to pay for the option.
 
 ## What is a volatility surface?
 
@@ -64,7 +64,7 @@ Another thing you can do is to keep updating the model with new data and see if 
 
 ## What advanced techniques are used to improve volatility surface models?
 
-One advanced way to make volatility surface models better is by using machine learning. These models can look at a lot of past data and find patterns that are hard for people to see. They can learn from how the market has moved before and use that to guess how it might move in the future. By using machine learning, the models can keep getting better as they see more data, which makes their guesses about volatility more accurate over time.
+One advanced way to make volatility surface models better is by using [machine learning](/wiki/machine-learning). These models can look at a lot of past data and find patterns that are hard for people to see. They can learn from how the market has moved before and use that to guess how it might move in the future. By using machine learning, the models can keep getting better as they see more data, which makes their guesses about volatility more accurate over time.
 
 Another technique is called stochastic volatility modeling. This method takes into account that the ups and downs of a stock's price can change over time in ways that are hard to predict. Instead of just using one guess about volatility, stochastic models use many different guesses and see how they all fit together. This can give a more detailed picture of how risky the market might be, helping traders make better decisions about buying and selling options.
 

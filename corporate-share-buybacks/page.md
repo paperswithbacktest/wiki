@@ -146,7 +146,7 @@ In summary, an effective buyback strategy necessitates a well-integrated approac
 
 - Hendershott, Terrence, Charles M. Jones, and Albert J. Menkveld. "Does Algorithmic Trading Improve Liquidity?" Journal of Finance, vol. 66, no. 1, 2011, pp. 1-33. This study investigates the impact of algorithmic trading on market liquidity, offering valuable insights for implementing buyback strategies.
 
-Further reading on algorithmic trading and stock buybacks can be enhanced by exploring detailed financial modeling and programming guides:
+Further reading on [algorithmic trading](/wiki/algorithmic-trading) and stock buybacks can be enhanced by exploring detailed financial modeling and programming guides:
 
 - Chan, Ernest P. "Algorithmic Trading: Winning Strategies and Their Rationale." Wiley, 2013. This book provides practical insights into developing algorithmic trading strategies applicable to executing share buybacks.
 

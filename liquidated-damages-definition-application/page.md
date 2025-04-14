@@ -86,7 +86,7 @@ Another important case is "Suntec Industries, Inc. v. Texas Enterprises, Inc." f
 
 ## How can liquidated damages be incorporated into algo trading contracts?
 
-Integrating liquidated damages clauses into algorithmic trading contracts serves as a crucial mechanism to define financial penalties in the event of a breach, providing a predetermined measure of compensation that helps mitigate risks associated with such breaches. These clauses can offer protection to both parties by establishing mutual expectations and fostering accountability in scenarios where the intricate systems involved in algorithmic trading fail to perform as agreed.
+Integrating liquidated damages clauses into [algorithmic trading](/wiki/algorithmic-trading) contracts serves as a crucial mechanism to define financial penalties in the event of a breach, providing a predetermined measure of compensation that helps mitigate risks associated with such breaches. These clauses can offer protection to both parties by establishing mutual expectations and fostering accountability in scenarios where the intricate systems involved in algorithmic trading fail to perform as agreed.
 
 ### Examples of Specific Breaches in Algorithmic Trading
 

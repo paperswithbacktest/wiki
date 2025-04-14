@@ -84,7 +84,7 @@ For example, if you find that every hour you study, your test score goes up by 5
 
 Algorithmic trading uses advanced mathematical models and computational tools to automatically execute trades at optimal moments. One of the critical elements in this context is the implementation of linear relationships to assess and predict the movements of stocks and other financial instruments. Linear regression models, in particular, are integral to these systems as they help quantify and model the relationships between different market variables, thereby enabling informed trading decisions.
 
-At the core of [algorithmic trading](/wiki/algorithmic-trading)'s utilization of linear relationships is the linear regression model, which is used to comprehend the association between a dependent variable, such as a stock's price, and one or more independent variables, which could include factors like trade volume, market sentiment, or macroeconomic indicators. This relationship is expressed through the linear equation:
+At the core of [algorithmic trading](/wiki/algorithmic-trading)'s utilization of linear relationships is the linear regression model, which is used to comprehend the association between a dependent variable, such as a stock's price, and one or more independent variables, which could include factors like trade [volume](/wiki/volume-trading-strategy), market sentiment, or macroeconomic indicators. This relationship is expressed through the linear equation:
 
 $$
 y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + ... + \beta_n x_n + \epsilon

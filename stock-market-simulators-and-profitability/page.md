@@ -58,7 +58,7 @@ Also, simulators might not show how big events like news or economic changes can
 
 ## What advanced techniques can be practiced using stock market simulators?
 
-Stock market simulators let you practice advanced techniques like day trading, where you buy and sell stocks within the same day to make quick profits. You can try this out without risking real money, so you can see if it's a good strategy for you. Another technique is short selling, where you borrow stocks to sell them and then buy them back later at a lower price to make money. Simulators help you understand how this works and what risks come with it.
+Stock market simulators let you practice advanced techniques like [day trading](/wiki/day-trading-spy), where you buy and sell stocks within the same day to make quick profits. You can try this out without risking real money, so you can see if it's a good strategy for you. Another technique is short selling, where you borrow stocks to sell them and then buy them back later at a lower price to make money. Simulators help you understand how this works and what risks come with it.
 
 You can also practice using options trading, which is more complex. Options let you buy or sell stocks at a certain price in the future. By using a simulator, you can try out different options strategies to see how they work in different market conditions. This helps you learn about the risks and rewards of options without losing any real money. Simulators are a safe way to try out these advanced techniques and see if they fit your investing style.
 
@@ -76,7 +76,7 @@ Simulators also show you how important it is to stick to a plan. Sometimes, when
 
 ## How can one measure the profitability of strategies tested on stock market simulators?
 
-You can measure the profitability of strategies tested on stock market simulators by looking at how much pretend money you make or lose. Most simulators show you your total profits and losses over time. You can see how your strategy performs by checking if your pretend money grows or shrinks. If your money goes up, your strategy is making a profit. If it goes down, your strategy is losing money. This helps you understand if your way of picking stocks and deciding when to buy and sell works well.
+You can measure the profitability of strategies tested on stock market simulators by looking at how much pretend money you make or lose. Most simulators show you your total profits and losses over time. You can see how your strategy performs by checking if your pretend money grows or shrinks. If your money goes up, your strategy is making a profit. If it goes down, your strategy is losing money. This helps you understand if your way of [picking](/wiki/asset-class-picking) stocks and deciding when to buy and sell works well.
 
 Another way to measure profitability is by comparing different strategies. You can try out several ways of investing in the simulator and see which one makes the most pretend money. Some simulators even let you join contests with other people, so you can see how your strategies stack up against theirs. By doing this, you can figure out which strategies are the most profitable and which ones you might want to use when you start trading with real money.
 

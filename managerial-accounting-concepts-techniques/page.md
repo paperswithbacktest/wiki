@@ -36,7 +36,7 @@ Understanding these different types of costs is important for managers because i
 
 ## How do managers use cost-volume-profit (CVP) analysis to make business decisions?
 
-Managers use cost-volume-profit (CVP) analysis to understand how changes in costs, sales volume, and prices affect their profits. CVP analysis helps them figure out how many products they need to sell to break even, which means making enough money to cover all their costs. This is called the break-even point. By knowing the break-even point, managers can set realistic sales targets and decide if they should change their prices or try to lower their costs to make more profit.
+Managers use cost-[volume](/wiki/volume-trading-strategy)-profit (CVP) analysis to understand how changes in costs, sales volume, and prices affect their profits. CVP analysis helps them figure out how many products they need to sell to break even, which means making enough money to cover all their costs. This is called the break-even point. By knowing the break-even point, managers can set realistic sales targets and decide if they should change their prices or try to lower their costs to make more profit.
 
 CVP analysis also helps managers make decisions about what products to make or sell. For example, if a manager is thinking about adding a new product, they can use CVP analysis to see if it will make money. They look at how much it will cost to make the product, how much they can sell it for, and how many they need to sell to make a profit. This helps them decide if the new product is a good idea or if they should focus on something else. By using CVP analysis, managers can plan better and make choices that will help their business grow and be more successful.
 

@@ -82,7 +82,7 @@ But support levels are not always perfect, and long-term investors need to be ca
 
 Algorithmic trading strategies can use support levels to decide when to buy or sell stocks. These strategies use computer programs to watch the stock price and see if it gets close to a support level. If the stock price is near a support level, the program might decide to buy the stock, thinking it will go back up. The program can also check if a lot of people are trading the stock when it's at the support level. If many people are buying, it might be a good sign that the stock will go up soon.
 
-But these programs need to be careful too. Sometimes, the stock price can go below the support level and keep going down. The program can use other information, like how the stock has been doing over time or what other people are saying about the company, to make better choices. By using support levels along with other data, algorithmic trading strategies can make smarter decisions about when to buy and sell stocks.
+But these programs need to be careful too. Sometimes, the stock price can go below the support level and keep going down. The program can use other information, like how the stock has been doing over time or what other people are saying about the company, to make better choices. By using support levels along with other data, [algorithmic trading](/wiki/algorithmic-trading) strategies can make smarter decisions about when to buy and sell stocks.
 
 ## What is Understanding Technical Analysis?
 

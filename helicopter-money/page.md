@@ -90,7 +90,7 @@ $$
 
 where $P_1$ is the price level at a later period, and $P_0$ is the initial price level.
 
-The irreversibility of monetary expansion associated with helicopter money is a concern because once the money is distributed, it permanently increases the money base. This can pose long-term challenges for central banks attempting to control inflation. Unlike traditional tools such as interest rate adjustments or quantitative easing, which can be reversed or modulated over time, helicopter money lacks inherent mechanisms for withdrawal, making it harder to retract once the economic conditions stabilize.
+The irreversibility of monetary expansion associated with helicopter money is a concern because once the money is distributed, it permanently increases the money base. This can pose long-term challenges for central banks attempting to control inflation. Unlike traditional tools such as [interest rate](/wiki/interest-rate-trading-strategies) adjustments or quantitative easing, which can be reversed or modulated over time, helicopter money lacks inherent mechanisms for withdrawal, making it harder to retract once the economic conditions stabilize.
 
 Political and ethical debates add another layer of complexity. One significant concern is the equitable distribution of funds. Deciding who receives the money and how much each entity gets can lead to disparities and perceived injustices, potentially exacerbating socioeconomic inequalities. There is also the potential for these policies to be misused or leveraged for political gain, with governments possibly resorting to helicopter money for short-term popularity rather than long-term economic health.
 

@@ -26,7 +26,7 @@ Adam Smith's most famous work is called "The Wealth of Nations." He wrote this b
 
 Another famous work by Adam Smith is "The Theory of Moral Sentiments." He wrote this book earlier, in 1759. In this book, Smith talked about how people feel and act towards each other. He explained that people care about what others think of them and that this helps them be good to each other. This book is about how people's feelings and morals work together, which is different from the economics in "The Wealth of Nations," but it's still very important.
 
-Both of these books are still read and studied today. They help us understand how economies work and how people behave. Adam Smith's ideas have influenced many people and continue to be important in the world of economics and philosophy.
+Both of these [books](/wiki/algo-trading-books) are still read and studied today. They help us understand how economies work and how people behave. Adam Smith's ideas have influenced many people and continue to be important in the world of economics and philosophy.
 
 ## What is the main theme of 'The Wealth of Nations'?
 

@@ -48,7 +48,7 @@ Cross-correlation is also useful for finding patterns in time series data that m
 
 ## How can cross-correlation be applied in the field of economics?
 
-In economics, cross-correlation helps us see how different economic indicators relate to each other over time. For example, imagine you want to know if changes in interest rates affect how much people spend on housing. By using cross-correlation, you can compare the time series data of interest rates and housing spending. You slide the interest rate data over the housing spending data and see if there's a delay between when interest rates change and when housing spending goes up or down. This can show if interest rates are a good predictor of housing spending and help economists make better policies.
+In economics, cross-correlation helps us see how different economic indicators relate to each other over time. For example, imagine you want to know if changes in interest rates affect how much people spend on housing. By using cross-correlation, you can compare the time series data of interest rates and housing spending. You slide the [interest rate](/wiki/interest-rate-trading-strategies) data over the housing spending data and see if there's a delay between when interest rates change and when housing spending goes up or down. This can show if interest rates are a good predictor of housing spending and help economists make better policies.
 
 Cross-correlation is also useful for understanding economic cycles. Let's say you're looking at the relationship between unemployment rates and GDP growth. By applying cross-correlation, you can find out if changes in unemployment tend to happen before or after changes in GDP. If you discover that unemployment goes up a few months before GDP starts to drop, this can help predict economic downturns. Economists can use this information to plan and implement measures to soften the impact of these cycles, making the economy more stable and predictable.
 
@@ -163,7 +163,7 @@ In conclusion, while cross-correlation is a powerful tool for enriching trading 
 
 ## What is the role of cross-correlation in real-world trading according to the case study?
 
-In a notable case study, the application of cross-correlation in a real-world trading environment significantly enhanced a trading model's predictability. This study focuses on a [quantitative trading](/wiki/quantitative-trading) firm which sought to improve the accuracy of its algorithmic trading strategies by identifying lead-lag relationships between different financial assets.
+In a notable case study, the application of cross-correlation in a real-world trading environment significantly enhanced a trading model's predictability. This study focuses on a [quantitative trading](/wiki/quantitative-trading) firm which sought to improve the accuracy of its [algorithmic trading](/wiki/algorithmic-trading) strategies by identifying lead-lag relationships between different financial assets.
 
 ### Steps Involved
 

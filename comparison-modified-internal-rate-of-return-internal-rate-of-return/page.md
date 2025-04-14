@@ -108,7 +108,7 @@ Both IRR and MIRR are indispensable tools for comparing various investment oppor
 
 ## How can MIRR, IRR, and Algo Trading be combined?
 
-The integration of Internal Rate of Return (IRR) and Modified Internal Rate of Return (MIRR) analyses into algorithmic trading systems presents a transformative approach to evaluating investment opportunities. By automating these calculations, traders can enhance the scale and efficiency of their investment analysis.
+The integration of Internal Rate of Return (IRR) and Modified Internal Rate of Return (MIRR) analyses into [algorithmic trading](/wiki/algorithmic-trading) systems presents a transformative approach to evaluating investment opportunities. By automating these calculations, traders can enhance the scale and efficiency of their investment analysis.
 
 IRR and MIRR serve as vital metrics in assessing the profitability and efficiency of investments. The IRR is identified as the discount rate that makes the net present value (NPV) of all cash flows from a particular project equal to zero. Its counterpart, MIRR, refines this analysis by providing a more realistic assumption regarding the reinvestment of the cash flows. The formula for MIRR is:
 

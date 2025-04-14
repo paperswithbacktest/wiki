@@ -46,7 +46,7 @@ These triple plays show how exciting and rare they are in baseball. Fans and pla
 
 A triple play can have a big impact on the outcome of a baseball game. When it happens, it can stop the other team from scoring runs. If there are runners on base and the team is close to scoring, a triple play can change the game quickly. It can make the team that was about to score feel frustrated and can give the other team a big boost of energy and confidence.
 
-Also, a triple play can change the momentum of the game. It is a rare and exciting event that can make the fans cheer loudly and make the players on the field feel more motivated. The team that makes the triple play might play better after it happens because they feel good about their defense. On the other hand, the team that loses three outs in one play might feel down and have a harder time getting back into the game.
+Also, a triple play can change the [momentum](/wiki/momentum) of the game. It is a rare and exciting event that can make the fans cheer loudly and make the players on the field feel more motivated. The team that makes the triple play might play better after it happens because they feel good about their defense. On the other hand, the team that loses three outs in one play might feel down and have a harder time getting back into the game.
 
 ## What strategies do teams use to attempt a triple play?
 
@@ -68,7 +68,7 @@ The frequency of triple plays has gone down over time. In the early days of base
 
 ## How do triple plays affect player and team statistics?
 
-Triple plays affect player and team statistics in a few important ways. When a player is involved in a triple play, it gets added to their defensive stats. For example, if a shortstop makes an unassisted triple play, it counts as three outs for them in one play. This can make their defensive stats look really good. For the team, a triple play means three quick outs, which can lower their opponents' batting average and on-base percentage for that game.
+Triple plays affect player and team [statistics](/wiki/bayesian-statistics) in a few important ways. When a player is involved in a triple play, it gets added to their defensive stats. For example, if a shortstop makes an unassisted triple play, it counts as three outs for them in one play. This can make their defensive stats look really good. For the team, a triple play means three quick outs, which can lower their opponents' batting average and on-base percentage for that game.
 
 Also, triple plays can change how a team's pitching stats look. If a pitcher is on the mound when a triple play happens, it can help their stats because it stops the other team from scoring runs. This can lower the pitcher's earned run average (ERA) and make their performance look better. So, even though triple plays are rare, they can have a big impact on both player and team stats.
 
@@ -86,7 +86,7 @@ Analytics also help us see how triple plays change the game. They can show how a
 
 ## How can Triple Play Analysis be integrated into Algo Trading?
 
-By integrating triple play analysis into algorithmic trading strategies, traders gain a robust tool for enhancing decision-making processes with data-driven insights. A triple play scenario, characterized by a company exceeding expectations in earnings, revenue, and future guidance, presents lucrative trading opportunities. To capitalize on these scenarios, traders can design algorithms to automatically detect and respond to such events.
+By integrating triple play analysis into [algorithmic trading](/wiki/algorithmic-trading) strategies, traders gain a robust tool for enhancing decision-making processes with data-driven insights. A triple play scenario, characterized by a company exceeding expectations in earnings, revenue, and future guidance, presents lucrative trading opportunities. To capitalize on these scenarios, traders can design algorithms to automatically detect and respond to such events.
 
 To implement this, algorithms can be set to monitor scheduled earnings announcements and analyze the results in real-time. The key components of a triple play—earnings surprise, revenue surprise, and positive future guidance—must be clearly defined within the algorithm. For example:
 

@@ -52,7 +52,7 @@ However, stop-loss orders have some problems. If the market drops very quickly, 
 
 ## How does market volatility affect stop-loss orders on mutual funds?
 
-Market volatility can make stop-loss orders on mutual funds tricky. When the market is very up and down, the price of a mutual fund can change a lot in a short time. If you set a stop-loss order, it might get triggered during a big drop, even if the price goes back up later. This means you could sell your shares at a low price and miss out on any quick recovery. So, in a volatile market, stop-loss orders might not work as well as you hope.
+Market [volatility](/wiki/volatility-trading-strategies) can make stop-loss orders on mutual funds tricky. When the market is very up and down, the price of a mutual fund can change a lot in a short time. If you set a stop-loss order, it might get triggered during a big drop, even if the price goes back up later. This means you could sell your shares at a low price and miss out on any quick recovery. So, in a volatile market, stop-loss orders might not work as well as you hope.
 
 Also, because mutual funds are only priced once a day, at the end of the trading day, a stop-loss order won't happen right away. If the market is very volatile, the price might drop below your stop-loss level during the day but then go back up by the end of the day. In this case, your order won't be triggered, and you'll still own the shares. But if the price stays down, your shares will be sold at a loss. So, it's important to think carefully about where you set your stop-loss order in a volatile market.
 

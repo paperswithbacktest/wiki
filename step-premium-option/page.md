@@ -68,7 +68,7 @@ Another way Step Premium Options help with diversification is by letting you pay
 
 When you trade Step Premium Options, you need to think about taxes. If you make money from trading these options, you might have to pay capital gains tax. This tax depends on how long you held the option before selling it. If you held it for less than a year, it's a short-term capital gain, and you'll pay tax at your regular income tax rate. If you held it for more than a year, it's a long-term capital gain, and the tax rate might be lower. The exact amount of tax you pay can change depending on your income and the tax laws where you live.
 
-Another thing to think about is if you lose money on Step Premium Options. You might be able to use those losses to lower your taxes. If you have more losses than gains, you can use the losses to reduce your taxable income. But there are rules about how much you can use each year, and you might need to carry over some losses to future years. It's a good idea to talk to a tax advisor to make sure you understand all the rules and how they apply to your situation.
+Another thing to think about is if you lose money on Step Premium Options. You might be able to use those losses to lower your taxes. If you have more losses than gains, you can use the losses to reduce your taxable income. But there are rules about how much you can use each year, and you might need to [carry](/wiki/carry-trading) over some losses to future years. It's a good idea to talk to a tax advisor to make sure you understand all the rules and how they apply to your situation.
 
 ## How do regulatory environments impact the use of Step Premium Options?
 

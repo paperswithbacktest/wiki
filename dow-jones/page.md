@@ -92,7 +92,7 @@ $$
 
 where a positive signal indicates a potential buying opportunity, while a negative signal suggests selling.
 
-Moreover, [statistical arbitrage](/wiki/statistical-arbitrage) models are pivotal in exploiting pricing inefficiencies among the DJIA's components. These models deploy statistical and econometric techniques to determine the probabilistic mispricing of assets, typically engaging in mean reversion strategies. The core idea is to buy undervalued stocks and sell overvalued ones, assuming prices will revert to their historical mean.
+Moreover, [statistical [arbitrage](/wiki/arbitrage)](/wiki/statistical-arbitrage) models are pivotal in exploiting pricing inefficiencies among the DJIA's components. These models deploy statistical and econometric techniques to determine the probabilistic mispricing of assets, typically engaging in mean reversion strategies. The core idea is to buy undervalued stocks and sell overvalued ones, assuming prices will revert to their historical mean.
 
 Volume-Weighted Average Price (VWAP) and Time-Weighted Average Price (TWAP) algorithms are employed when executing large orders on the DJIA to minimize market impact. The VWAP strategy breaks down a large order over a trading period, ensuring execution close to the average price of the stock, calculated as:
 

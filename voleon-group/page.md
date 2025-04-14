@@ -18,7 +18,7 @@ The people who work at The Voleon Group are experts in math, science, and comput
 
 The Voleon Group was founded in 2007. They are a company that helps people invest their money. They use computers and math to make smart choices about where to put money.
 
-The company is based in California. They use a special kind of math called machine learning. This helps them learn from data and make good guesses about the future. This way, they try to make more money for their clients.
+The company is based in California. They use a special kind of math called [machine learning](/wiki/machine-learning). This helps them learn from data and make good guesses about the future. This way, they try to make more money for their clients.
 
 ## Who are the founders of the Voleon Group?
 

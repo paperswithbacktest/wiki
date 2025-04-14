@@ -78,7 +78,7 @@ Platforms also have systems to handle a lot of At-the-Close Orders at the same t
 
 At-the-Close Orders can be used for smart trading plans, like trying to guess what the market will do at the end of the day. For example, if you think a stock's price will go up because of good news coming out, you can place an At-the-Close Order to buy it at that higher price. This way, you can take advantage of the last-minute changes in the market. Another trick is to use these orders to balance out your investments. If you want to make sure you have the same amount of money in different stocks at the end of the day, you can use At-the-Close Orders to buy or sell at the closing price and keep everything even.
 
-Another advanced strategy is to use At-the-Close Orders to play it safe. If you're worried about the market going down at the end of the day, you can place an order to sell your stocks at the closing price. This way, you can lock in the price and avoid losing more money if the market drops after the close. Some traders also use these orders to follow a plan called "end-of-day trading," where they make decisions based on how the market has moved during the day. By using At-the-Close Orders, they can make sure their trades happen at the right time to fit their plan.
+Another advanced strategy is to use At-the-Close Orders to play it safe. If you're worried about the market going down at the end of the day, you can place an order to sell your stocks at the closing price. This way, you can lock in the price and avoid losing more money if the market drops after the close. Some traders also use these orders to follow a plan called "end-of-[day trading](/wiki/day-trading-spy)," where they make decisions based on how the market has moved during the day. By using At-the-Close Orders, they can make sure their trades happen at the right time to fit their plan.
 
 ## What are the key strategies in algorithmic trading?
 
@@ -96,7 +96,7 @@ Arbitrage strategies seek to exploit price discrepancies across different market
 
 Mean reversion strategies are based on the hypothesis that asset prices will revert to their historical average over time. This strategy assumes that prices which deviate significantly from their historical mean will eventually revert. Traders implement this strategy by identifying overbought or oversold conditions using indicators like the Relative Strength Index (RSI). The mathematical expectation here is that if a stock's price moves significantly away from the mean, a reversal is likely, offering a profit opportunity upon return to the mean.
 
-In these algorithmic trading strategies, precision, speed, and the ability to process vast amounts of data are paramount. The use of automated systems allows traders to implement these strategies efficiently, responding to market conditions in real-time. However, the success of each strategy can depend significantly on market conditions, requiring constant adaptation and optimization.
+In these [algorithmic trading](/wiki/algorithmic-trading) strategies, precision, speed, and the ability to process vast amounts of data are paramount. The use of automated systems allows traders to implement these strategies efficiently, responding to market conditions in real-time. However, the success of each strategy can depend significantly on market conditions, requiring constant adaptation and optimization.
 
 ## References & Further Reading
 

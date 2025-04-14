@@ -48,7 +48,7 @@ This approach is really useful for things like businesses or investments that ar
 
 ## What role do valuation techniques like discounted cash flow play in fair value estimation?
 
-Valuation techniques like discounted cash flow (DCF) are really important for figuring out fair value, especially when you're using the income approach. DCF is a way to guess how much money something will make in the future and then figure out what that money is worth right now. Imagine you're going to get $100 every year from an investment for the next five years. With DCF, you'd take those future $100 payments and turn them into today's dollars by using a discount rate, which is like the interest rate you could get if you put your money in a safe place like a bank.
+Valuation techniques like discounted cash flow (DCF) are really important for figuring out fair value, especially when you're using the income approach. DCF is a way to guess how much money something will make in the future and then figure out what that money is worth right now. Imagine you're going to get $100 every year from an investment for the next five years. With DCF, you'd take those future $100 payments and turn them into today's dollars by using a discount rate, which is like the [interest rate](/wiki/interest-rate-trading-strategies) you could get if you put your money in a safe place like a bank.
 
 This method is super useful for things like businesses or investments where the value comes from the money they make over time. It helps you see if an investment is worth it by comparing the cost of the investment to the value of the future money it will bring in. But, it can be tricky because you have to guess about the future, like how much money you'll really get and what discount rate to use. Even with these challenges, DCF is a powerful tool for understanding the fair value of things based on their future earnings.
 
@@ -122,7 +122,7 @@ Valuation techniques must be tailored to the specific dynamics of different sect
 
 ## References & Further Reading
 
-Bergstra, J., et al. (2011). Algorithms for Hyper-Parameter Optimization. This foundational paper discusses methods for optimizing hyper-parameters in machine learning models, an essential process that boosts the performance of algorithmic trading systems by enhancing the predictive capability of models used in valuation and trading strategies.
+Bergstra, J., et al. (2011). Algorithms for Hyper-Parameter Optimization. This foundational paper discusses methods for optimizing hyper-parameters in [machine learning](/wiki/machine-learning) models, an essential process that boosts the performance of [algorithmic trading](/wiki/algorithmic-trading) systems by enhancing the predictive capability of models used in valuation and trading strategies.
 
 Lopez de Prado, M. Advances in Financial Machine Learning. This work by Lopez de Prado offers comprehensive insights into the application of machine learning techniques in financial markets. It provides approaches to extract meaningful patterns from complex datasets, enabling traders to refine valuation models and execute strategies with improved accuracy.
 

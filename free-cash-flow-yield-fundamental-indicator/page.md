@@ -126,7 +126,7 @@ In conclusion, while fundamental analysis offers a robust framework for assessin
 
 ## How can one develop an algorithmic trading strategy using free cash flow yield?
 
-Creating an algorithmic trading strategy involves several critical steps, especially when integrating financial metrics such as Free Cash Flow Yield (FCF Yield). FCF Yield, which measures a company's free cash flow relative to its market capitalization, is an indicator of business efficiency and potential investment value. Its integration into trading algorithms can aid in identifying undervalued stocks with strong cash flows. Below is a structured guide to developing an algorithmic trading strategy using FCF Yield.
+Creating an [algorithmic trading](/wiki/algorithmic-trading) strategy involves several critical steps, especially when integrating financial metrics such as Free Cash Flow Yield (FCF Yield). FCF Yield, which measures a company's free cash flow relative to its market capitalization, is an indicator of business efficiency and potential investment value. Its integration into trading algorithms can aid in identifying undervalued stocks with strong cash flows. Below is a structured guide to developing an algorithmic trading strategy using FCF Yield.
 
 ### Steps to Create a Basic Algorithm Using Free Cash Flow Yield
 

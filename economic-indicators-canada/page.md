@@ -109,7 +109,7 @@ GDP analysis is pivotal in understanding the economic growth trajectory, providi
 
 The Consumer Price Index (CPI) serves as a vital economic indicator by measuring inflation at the consumer level. It quantifies price variations in a predetermined basket of goods and services, reflecting changes in the cost of living. Statistics Canada is responsible for the monthly publication of the CPI data, offering insights into price trends over time. This measure excludes volatile categories such as food and energy, providing a more stable view of inflation trends.
 
-In September 2023, Canada experienced a year-over-year CPI increase of 3.8%, signifying rising inflationary pressures. Such statistics are crucial for understanding shifts in purchasing power and cost of living adjustments, affecting consumers' economic decisions. A higher CPI typically indicates reduced purchasing power, as consumers need more money to buy the same goods and services compared to the previous year.
+In September 2023, Canada experienced a year-over-year CPI increase of 3.8%, signifying rising inflationary pressures. Such [statistics](/wiki/bayesian-statistics) are crucial for understanding shifts in purchasing power and cost of living adjustments, affecting consumers' economic decisions. A higher CPI typically indicates reduced purchasing power, as consumers need more money to buy the same goods and services compared to the previous year.
 
 The CPI can be expressed mathematically as:
 

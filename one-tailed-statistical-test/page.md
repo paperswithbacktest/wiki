@@ -68,7 +68,7 @@ The p-value tells you the probability of getting a result as extreme as, or more
 
 Choosing the wrong tail for a one-tailed test can lead to big problems. If you expect a result to go up but it actually goes down, your test won't see that change. For example, if you think a new medicine will lower blood pressure but it actually raises it, a one-tailed test looking for a decrease won't notice the increase. This means you might think the medicine doesn't work at all, when really it's having an effect, just not the one you expected.
 
-This mistake can make you miss important information and come to the wrong conclusions. If you choose the wrong tail, you could end up saying there's no effect when there actually is one. That's why it's really important to have a strong reason for choosing a one-tailed test and picking the right direction. If you're not sure which way the results will go, it's safer to use a two-tailed test, which looks at changes in both directions and is less likely to miss any effects.
+This mistake can make you miss important information and come to the wrong conclusions. If you choose the wrong tail, you could end up saying there's no effect when there actually is one. That's why it's really important to have a strong reason for choosing a one-tailed test and [picking](/wiki/asset-class-picking) the right direction. If you're not sure which way the results will go, it's safer to use a two-tailed test, which looks at changes in both directions and is less likely to miss any effects.
 
 ## How does the power of a test change when using a one-tailed versus a two-tailed approach?
 
@@ -84,7 +84,7 @@ In medicine, one-tailed tests are often used when testing new drugs or treatment
 
 ## How do you conduct a One-Tailed Test in Algorithmic Trading?
 
-Conducting a one-tailed test in algorithmic trading involves careful planning and precise execution to derive meaningful conclusions about trading strategies. The initial step requires defining the null hypothesis ($H_0$) and the alternative hypothesis ($H_a$). The null hypothesis posits no effect or a baseline performance, whereas the alternative hypothesis suggests a specific direction of effect, either an increase or decrease in a financial metric such as mean returns or [volatility](/wiki/volatility-trading-strategies).
+Conducting a one-tailed test in [algorithmic trading](/wiki/algorithmic-trading) involves careful planning and precise execution to derive meaningful conclusions about trading strategies. The initial step requires defining the null hypothesis ($H_0$) and the alternative hypothesis ($H_a$). The null hypothesis posits no effect or a baseline performance, whereas the alternative hypothesis suggests a specific direction of effect, either an increase or decrease in a financial metric such as mean returns or [volatility](/wiki/volatility-trading-strategies).
 
 Next, determining the direction of the test—upper or lower-tailed—is crucial. An upper-tailed test might examine whether a new algorithm achieves returns greater than a benchmark, while a lower-tailed test might assess adverse impacts, like increased risk.
 

@@ -30,7 +30,7 @@ These are the basics, but there's a lot more to learn as you go. It's good to st
 
 ## How do you open a brokerage account as a college student?
 
-Opening a brokerage account as a college student is pretty easy. You start by picking a brokerage firm. There are lots of choices, but some are good for beginners, like Robinhood, Stash, or Charles Schwab. These firms let you open an account online. Just go to their website or download their app, and look for a button that says something like "Open an Account" or "Get Started." You'll need to fill out some information about yourself, like your name, address, and social security number. This is to make sure you are who you say you are and to follow the rules.
+Opening a brokerage account as a college student is pretty easy. You start by [picking](/wiki/asset-class-picking) a brokerage firm. There are lots of choices, but some are good for beginners, like Robinhood, Stash, or Charles Schwab. These firms let you open an account online. Just go to their website or download their app, and look for a button that says something like "Open an Account" or "Get Started." You'll need to fill out some information about yourself, like your name, address, and social security number. This is to make sure you are who you say you are and to follow the rules.
 
 Once you've filled out your information, you'll need to add money to your account. You can usually do this by linking your bank account to the brokerage account. Some apps let you start with just a few dollars, which is great if you're a student and don't have a lot of money. After you've added money, you're ready to start trading. Remember to take your time and learn as much as you can before you start buying and selling stocks. It's okay to start small and grow as you learn more.
 
@@ -74,7 +74,7 @@ Using a simulator can help you get comfortable with the stock market before you 
 
 ## What advanced tools and resources are available for more experienced student traders?
 
-For more experienced student traders, there are advanced tools and resources that can help them take their trading to the next level. One important tool is a trading platform with advanced features, like Thinkorswim by TD Ameritrade or Interactive Brokers' Trader Workstation. These platforms offer detailed charts, technical analysis tools, and the ability to set up custom alerts and automate trades. They can help experienced traders analyze the market more deeply and make better decisions.
+For more experienced student traders, there are advanced tools and resources that can help them take their trading to the next level. One important tool is a trading platform with advanced features, like Thinkorswim by TD Ameritrade or [Interactive Brokers](/wiki/interactive-brokers-api)' Trader Workstation. These platforms offer detailed charts, technical analysis tools, and the ability to set up custom alerts and automate trades. They can help experienced traders analyze the market more deeply and make better decisions.
 
 Another useful resource is financial news services, like Bloomberg Terminal or Reuters. These services provide real-time market data, news, and analysis that can give traders an edge. Experienced traders can use this information to stay on top of market trends and make informed decisions quickly. Additionally, joining trading communities or forums, like those on Reddit or specialized trading groups, can offer insights and strategies from other experienced traders. This can be a great way to learn new techniques and stay motivated.
 

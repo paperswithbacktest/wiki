@@ -18,7 +18,7 @@ Matrix multiplication is important because it is used in many areas of science, 
 
 Using a GPU for matrix-matrix multiplication can make the process much faster. GPUs have many small processing units that can work on different parts of the matrix at the same time. This is called parallel processing. When you multiply two large matrices, a GPU can handle many calculations simultaneously, which means it can finish the job much quicker than a regular computer processor, or CPU.
 
-Another benefit of using a GPU is that it can handle bigger matrices more easily. Because GPUs are designed to do many calculations at once, they can work with larger sets of data without slowing down as much as a CPU would. This is really helpful in fields like machine learning and scientific computing, where people often need to process huge amounts of data quickly. So, using a GPU can save time and help get results faster.
+Another benefit of using a GPU is that it can handle bigger matrices more easily. Because GPUs are designed to do many calculations at once, they can work with larger sets of data without slowing down as much as a CPU would. This is really helpful in fields like [machine learning](/wiki/machine-learning) and scientific computing, where people often need to process huge amounts of data quickly. So, using a GPU can save time and help get results faster.
 
 ## What is Nvidia CUDA and how does it facilitate GPU computing?
 
@@ -66,7 +66,7 @@ Another limitation is that GPUs have less memory than the computer's main memory
 
 The way you set up your data, like whether you use row-major or column-major order, can make a big difference in how fast your CUDA program runs. Row-major means you store the numbers in a matrix row by row, while column-major means you store them column by column. In CUDA, how you set up your data matters because it affects how the GPU can access and process the data. If you choose the wrong layout, it can slow down your program because the GPU might have to wait longer to get the data it needs.
 
-For matrix multiplication, the best data layout often depends on how you write your CUDA kernel. If your kernel is set up to work well with row-major data, using that layout can make things faster. But if your kernel is better with column-major data, then using that layout will help. It's important to try different layouts and see which one makes your program run the fastest. By picking the right data layout, you can make sure your CUDA program uses the GPU's power as well as possible.
+For matrix multiplication, the best data layout often depends on how you write your CUDA kernel. If your kernel is set up to work well with row-major data, using that layout can make things faster. But if your kernel is better with column-major data, then using that layout will help. It's important to try different layouts and see which one makes your program run the fastest. By [picking](/wiki/asset-class-picking) the right data layout, you can make sure your CUDA program uses the GPU's power as well as possible.
 
 ## What advanced CUDA features can be used to further optimize matrix-matrix multiplication?
 

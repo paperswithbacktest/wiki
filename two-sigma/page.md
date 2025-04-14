@@ -34,7 +34,7 @@ Besides using technology for money decisions, Two Sigma also uses it to help soc
 
 ## What is the significance of the name 'Two Sigma'?
 
-The name 'Two Sigma' comes from a term in statistics called 'sigma.' Sigma is a way to measure how spread out numbers are in a group. When you say 'two sigma,' it means you are looking at a range that includes about 95% of all the numbers. This is important because it shows that Two Sigma wants to be very accurate and cover most possibilities when they make predictions.
+The name 'Two Sigma' comes from a term in [statistics](/wiki/bayesian-statistics) called 'sigma.' Sigma is a way to measure how spread out numbers are in a group. When you say 'two sigma,' it means you are looking at a range that includes about 95% of all the numbers. This is important because it shows that Two Sigma wants to be very accurate and cover most possibilities when they make predictions.
 
 Two Sigma chose this name because it reflects their goal of using data and math to make very good predictions. They want to help people make smart choices about money by looking at a lot of information and understanding it well. The name 'Two Sigma' shows that they aim to be thorough and precise in their work.
 
@@ -52,7 +52,7 @@ Besides working with big investors, Two Sigma also works with companies in other
 
 ## How does Two Sigma approach data science and machine learning?
 
-Two Sigma uses data science and machine learning to look at lots of information and find patterns. They use computers and special math to do this work. This helps them predict what might happen with things like stock prices or how well a business might do. They collect data from many different places and use it to make smart choices about money. This is important because it helps their clients, like big investors, make better decisions.
+Two Sigma uses data science and [machine learning](/wiki/machine-learning) to look at lots of information and find patterns. They use computers and special math to do this work. This helps them predict what might happen with things like stock prices or how well a business might do. They collect data from many different places and use it to make smart choices about money. This is important because it helps their clients, like big investors, make better decisions.
 
 Besides using data science and machine learning for money decisions, Two Sigma also uses these tools to help society. They work on projects that can improve things like healthcare and education. They use data to find ways to make these areas better. By using technology and math, Two Sigma tries to make a positive impact in the world, not just in the world of money. They believe that by being thorough and precise in their work, they can help make the world a better place.
 
@@ -76,7 +76,7 @@ Another challenge is that the world of finance changes a lot. New rules and laws
 
 ## What future trends might impact Two Sigma's business model?
 
-In the future, more and more people might use computers and special math to make choices about money. This could mean more competition for Two Sigma. They will need to keep finding new ways to use data and technology to stay ahead. Also, new technology like artificial intelligence might change how Two Sigma does its work. They might need to use these new tools to make even better predictions and help their clients more.
+In the future, more and more people might use computers and special math to make choices about money. This could mean more competition for Two Sigma. They will need to keep finding new ways to use data and technology to stay ahead. Also, new technology like [artificial intelligence](/wiki/ai-artificial-intelligence) might change how Two Sigma does its work. They might need to use these new tools to make even better predictions and help their clients more.
 
 Another trend that could affect Two Sigma is changes in the rules and laws about money and data. Governments might make new rules that make it harder for Two Sigma to do their work. They will need to be ready to follow these new rules and still help their clients make smart choices. Also, big changes in the economy, like when stock prices go up and down a lot, could impact Two Sigma. They will need to be flexible and ready to help their clients no matter what is happening in the world.
 

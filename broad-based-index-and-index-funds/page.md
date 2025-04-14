@@ -24,7 +24,7 @@ On the other hand, a narrow index focuses on a smaller group of stocks or just o
 
 Investing in a broad-based index has several benefits. One big advantage is that it helps spread out your risk. Because a broad-based index includes many different companies from various industries, if one company or sector does poorly, it won't hurt your whole investment as much. This is called diversification, and it's like not putting all your eggs in one basket. By investing in a broad-based index, you're betting on the overall health of the economy, which tends to be more stable over time.
 
-Another benefit is that it's easy and often cheaper. When you invest in a broad-based index, you don't need to spend a lot of time picking individual stocks or trying to predict which companies will do well. You can just buy an index fund or ETF that tracks the index, and it will do the work for you. These funds usually have lower fees than actively managed funds, which means more of your money stays in your pocket. Plus, over the long term, broad-based indexes have historically provided good returns, making them a solid choice for many investors.
+Another benefit is that it's easy and often cheaper. When you invest in a broad-based index, you don't need to spend a lot of time [picking](/wiki/asset-class-picking) individual stocks or trying to predict which companies will do well. You can just buy an index fund or [ETF](/wiki/etf-trading-strategies) that tracks the index, and it will do the work for you. These funds usually have lower fees than actively managed funds, which means more of your money stays in your pocket. Plus, over the long term, broad-based indexes have historically provided good returns, making them a solid choice for many investors.
 
 ## What is a broad index fund?
 
@@ -106,7 +106,7 @@ In summary, broad-based indexes are foundational elements in the investment land
 
 ## What are some practical tips for investors getting started?
 
-Embarking on the journey of investing in index funds and engaging in algorithmic trading can be rewarding. For beginners, starting with a structured approach ensures informed decisions and a grasp of the complexities involved. Here are practical steps to assist investors in this dual investment strategy.
+Embarking on the journey of investing in index funds and engaging in [algorithmic trading](/wiki/algorithmic-trading) can be rewarding. For beginners, starting with a structured approach ensures informed decisions and a grasp of the complexities involved. Here are practical steps to assist investors in this dual investment strategy.
 
 ### Steps to Take for Investors
 

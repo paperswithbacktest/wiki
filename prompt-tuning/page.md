@@ -57,7 +57,7 @@ Another way to optimize prompt tuning is to use feedback loops. After you try a 
 
 ## What are the latest research developments in Prompt Tuning?
 
-Recent research in prompt tuning has focused on making the process more efficient and effective. One key development is the use of automated methods to find the best prompts. Researchers have created algorithms that can try out many different prompts quickly and automatically. This means you don't have to spend as much time testing prompts by hand. For example, some studies use machine learning to learn which prompts work best for different tasks. This helps find the perfect prompt faster and with less effort.
+Recent research in prompt tuning has focused on making the process more efficient and effective. One key development is the use of automated methods to find the best prompts. Researchers have created algorithms that can try out many different prompts quickly and automatically. This means you don't have to spend as much time testing prompts by hand. For example, some studies use [machine learning](/wiki/machine-learning) to learn which prompts work best for different tasks. This helps find the perfect prompt faster and with less effort.
 
 Another exciting development is the idea of "soft prompts." Instead of using regular text, soft prompts use special codes that the model can understand better. These codes can be adjusted to fine-tune the model's performance without changing its internal settings. Researchers have found that soft prompts can sometimes give even better results than regular text prompts. This is because they can be more precisely tuned to the task at hand. Overall, these new methods are making prompt tuning easier and more powerful for everyone using language models.
 

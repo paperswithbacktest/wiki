@@ -36,7 +36,7 @@ Another way to add money to a reserve fund is through special assessments. This 
 
 Managing a reserve fund means keeping an eye on it and making sure it's used the right way. The people in charge should look at the fund often to see how much money is in it and if it's enough for what they might need. They should also plan how much money to put into the fund each year, so it grows over time. It's important to have clear rules about when and how to use the money, so everyone knows what to expect. That way, the fund can be there when it's really needed, like for big repairs or unexpected costs.
 
-Investing a reserve fund is a bit trickier because the main goal is to keep the money safe and ready to use. Usually, the money is put into safe places like savings accounts or money market funds, where it can earn a little bit of interest without much risk. Sometimes, if the group is okay with a bit more risk, they might invest some of the money in bonds or other low-risk investments. But the key is to balance earning a bit of extra money with keeping the fund safe and available for when it's needed.
+Investing a reserve fund is a bit trickier because the main goal is to keep the money safe and ready to use. Usually, the money is put into safe places like savings accounts or money market funds, where it can earn a little bit of interest without much risk. Sometimes, if the group is okay with a bit more risk, they might invest some of the money in bonds or other low-risk investments. But the key is to balance [earning](/wiki/earning-announcement) a bit of extra money with keeping the fund safe and available for when it's needed.
 
 ## What are the legal requirements for maintaining a reserve fund in different jurisdictions?
 
@@ -96,7 +96,7 @@ In addition to diversification, a regular assessment of market conditions is vit
 
 Proper allocation strategies also focus on seizing investment opportunities as they arise. This might involve reallocating resources from underperforming assets to those with higher growth potential or reinvesting dividends and interest payments to enhance compounding returns. By doing so, investors can optimize the cash flows and enhance the overall yield of the portfolio.
 
-Avoiding liquidity shortfalls is another critical aspect of fund allocation, ensuring that there are sufficient liquid assets to meet short-term obligations and unexpected expenses. This can involve maintaining a portion of the portfolio in cash or near-cash instruments, providing quick access to funds when needed.
+Avoiding [liquidity](/wiki/liquidity-risk-premium) shortfalls is another critical aspect of fund allocation, ensuring that there are sufficient liquid assets to meet short-term obligations and unexpected expenses. This can involve maintaining a portion of the portfolio in cash or near-cash instruments, providing quick access to funds when needed.
 
 Lastly, ensuring compliance with financial objectives enforces discipline in investment strategies. This requires setting clear, measurable goals and establishing policies that dictate investment choices, risk limits, and performance benchmarks. Regular monitoring and performance reviews ensure these benchmarks are met, providing accountability and guiding necessary adjustments towards financial targets.
 
@@ -124,7 +124,7 @@ In conclusion, algorithmic trading is a pivotal component of modern trading prac
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). 'Algorithms for Hyper-Parameter Optimization.' This paper discusses methods to optimize hyper-parameters in machine learning models, which can be crucial for enhancing algorithmic trading strategies by ensuring models are fine-tuned for performance.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). 'Algorithms for Hyper-Parameter Optimization.' This paper discusses methods to optimize hyper-parameters in [machine learning](/wiki/machine-learning) models, which can be crucial for enhancing algorithmic trading strategies by ensuring models are fine-tuned for performance.
 
 Lopez de Prado, M. 'Advances in Financial Machine Learning.' This book introduces cutting-edge techniques in machine learning tailored for finance, focusing on the application of these methods in algorithmic trading. It covers topics such as the use of big data, the design of execution strategies, and the handling of financial data's unique challenges.
 

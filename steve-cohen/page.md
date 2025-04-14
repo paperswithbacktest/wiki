@@ -28,7 +28,7 @@ After a few years at Gruntal & Co., Steve started his own trading group within t
 
 ## What is the name of the hedge fund Steve Cohen founded?
 
-Steve Cohen founded a hedge fund called SAC Capital Advisors. He started it in 1992 after he left his job at Gruntal & Co. SAC Capital Advisors was very successful and made a lot of money by investing in stocks and other financial things. Steve was known for being a smart investor and his company grew very big.
+Steve Cohen founded a [hedge fund](/wiki/hedge-fund-trading-strategies) called SAC Capital Advisors. He started it in 1992 after he left his job at Gruntal & Co. SAC Capital Advisors was very successful and made a lot of money by investing in stocks and other financial things. Steve was known for being a smart investor and his company grew very big.
 
 In 2013, SAC Capital Advisors got into big trouble. Some people in the company were doing illegal things with the money. Steve had to pay a lot of money as a fine and he was not allowed to manage other people's money for a while. After that, he started a new company called Point72 Asset Management. Even with the problems, Steve is still very rich and known for being good at investing.
 
@@ -40,7 +40,7 @@ Another important part of Steve's strategy is something called "edge." This mean
 
 ## What are some of the major successes of Steve Cohen's hedge fund?
 
-Steve Cohen's hedge fund, SAC Capital Advisors, had many big successes. It was known for making a lot of money for its investors. The fund was very good at picking the right stocks to buy and sell. This made SAC Capital Advisors one of the top hedge funds in the world. They were able to make big profits even when the stock market was not doing well. This showed that Steve and his team were really good at what they did.
+Steve Cohen's hedge fund, SAC Capital Advisors, had many big successes. It was known for making a lot of money for its investors. The fund was very good at [picking](/wiki/asset-class-picking) the right stocks to buy and sell. This made SAC Capital Advisors one of the top hedge funds in the world. They were able to make big profits even when the stock market was not doing well. This showed that Steve and his team were really good at what they did.
 
 One of the biggest successes of SAC Capital Advisors was how much money it made. In some years, the fund made more than 50% profit for its investors. This is a lot more than what most other hedge funds could do. Steve's ability to find good investments and act quickly helped the fund grow very big. At its peak, SAC Capital Advisors managed more than $14 billion in money from investors. This made Steve Cohen very rich and famous in the world of finance.
 

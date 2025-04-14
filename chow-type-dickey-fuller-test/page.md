@@ -48,7 +48,7 @@ If you find a structural break, it means something important happened at that ti
 
 ## What are the common pitfalls when applying the Chow-type Dickey-Fuller test?
 
-One common pitfall when using the Chow-type Dickey-Fuller test is choosing the wrong break point. If you pick the wrong spot to check for a break, you might miss the real change in your data or think there's a break when there isn't one. It's important to have a good reason for picking the break point you do, like knowing when a big event happened that might have changed things.
+One common pitfall when using the Chow-type Dickey-Fuller test is choosing the wrong break point. If you pick the wrong spot to check for a break, you might miss the real change in your data or think there's a break when there isn't one. It's important to have a good reason for [picking](/wiki/asset-class-picking) the break point you do, like knowing when a big event happened that might have changed things.
 
 Another issue is not having enough data. The test needs a good amount of data both before and after the break point to work well. If you don't have enough data on one side or the other, the test might not give you a clear answer. Also, if the errors in your data aren't random or if they're related to each other, it can mess up the test results. So, it's important to check that your data's errors are well-behaved before using the test.
 

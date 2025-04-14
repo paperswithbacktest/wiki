@@ -108,7 +108,7 @@ Thus, a comprehensive appraisal of a stock's financial worth integrates both qua
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. discuss algorithms for hyper-parameter optimization in their work, which is pivotal for refining the efficiency and accuracy of algorithmic trading models. Understanding these algorithms enhances the ability to optimize trading strategies by fine-tuning the parameters that govern trading decisions.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. discuss algorithms for hyper-parameter optimization in their work, which is pivotal for refining the efficiency and accuracy of [algorithmic trading](/wiki/algorithmic-trading) models. Understanding these algorithms enhances the ability to optimize trading strategies by fine-tuning the parameters that govern trading decisions.
 
 'Advances in Financial Machine Learning' by Marcos Lopez de Prado offers a comprehensive overview of how machine learning techniques are transforming financial markets. The book emphasizes the application of data science methods to develop innovative trading strategies, which are essential for adapting to the complex and evolving nature of financial markets.
 

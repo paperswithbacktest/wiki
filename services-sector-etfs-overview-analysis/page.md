@@ -22,7 +22,7 @@ Some of the industries in the services sector are things like restaurants, where
 
 ## Why might someone invest in a services sector ETF?
 
-Someone might invest in a services sector ETF because it's an easy way to put money into a part of the economy that's always busy. The services sector includes things like restaurants, hotels, and healthcare, which people use every day. By investing in an ETF that focuses on services, you're spreading your money across many different companies in this sector. This can lower your risk because if one company doesn't do well, others might still be doing okay.
+Someone might invest in a services sector [ETF](/wiki/etf-trading-strategies) because it's an easy way to put money into a part of the economy that's always busy. The services sector includes things like restaurants, hotels, and healthcare, which people use every day. By investing in an ETF that focuses on services, you're spreading your money across many different companies in this sector. This can lower your risk because if one company doesn't do well, others might still be doing okay.
 
 Another reason to invest in a services sector ETF is that it can grow over time. As more people use services and the population grows, the demand for these services usually goes up. This can make the companies in the services sector more valuable, which could mean your investment grows too. Plus, ETFs often have lower fees than other types of investments, so you keep more of your money.
 
@@ -40,7 +40,7 @@ Other sector ETFs, like those in technology or energy, can also have different p
 
 ## What are the key factors to consider when selecting a services sector ETF?
 
-When picking a services sector ETF, it's important to look at what the ETF is made of. This means checking which companies are in the ETF and how much of each company it holds. Some ETFs might focus more on retail, while others might have a lot of restaurants or hotels. You want to make sure the ETF matches what you think will do well in the future. Also, think about how the ETF is spread out. If it has a lot of different kinds of service companies, it might be less risky because if one type of service doesn't do well, others might still be okay.
+When [picking](/wiki/asset-class-picking) a services sector ETF, it's important to look at what the ETF is made of. This means checking which companies are in the ETF and how much of each company it holds. Some ETFs might focus more on retail, while others might have a lot of restaurants or hotels. You want to make sure the ETF matches what you think will do well in the future. Also, think about how the ETF is spread out. If it has a lot of different kinds of service companies, it might be less risky because if one type of service doesn't do well, others might still be okay.
 
 Another thing to consider is the cost of the ETF. ETFs have something called an expense ratio, which is how much you pay each year to own the ETF. A lower expense ratio means you keep more of your money. It's also good to look at how the ETF has done in the past, but remember, past performance doesn't guarantee future results. Finally, think about how easy it is to buy and sell the ETF. Some ETFs are traded a lot, which makes them easy to buy and sell when you want to, while others might not be traded as much, which can make it harder to get in or out of your investment quickly.
 

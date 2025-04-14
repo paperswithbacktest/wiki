@@ -68,7 +68,7 @@ Another risk is that markets can be unpredictable. Even if you do everything rig
 
 ## How does market volatility affect a gamma-delta neutral strategy?
 
-Market volatility can really shake up a gamma-delta neutral strategy. When the market is moving a lot, the price of the underlying asset can jump around quickly. This means the delta and gamma of your options will change fast too. If you're not watching closely and making adjustments, your strategy can become unbalanced. A big move in the stock price might make your delta go from neutral to positive or negative, which can cause your portfolio to lose money if you don't fix it in time. So, in a volatile market, you need to be extra careful and ready to make changes often to keep your strategy working right.
+Market [volatility](/wiki/volatility-trading-strategies) can really shake up a gamma-delta neutral strategy. When the market is moving a lot, the price of the underlying asset can jump around quickly. This means the delta and gamma of your options will change fast too. If you're not watching closely and making adjustments, your strategy can become unbalanced. A big move in the stock price might make your delta go from neutral to positive or negative, which can cause your portfolio to lose money if you don't fix it in time. So, in a volatile market, you need to be extra careful and ready to make changes often to keep your strategy working right.
 
 Even though a gamma-delta neutral strategy is meant to protect you from big price swings, high volatility can still make things tricky. When the market is wild, the cost of options can go up because more people want to buy them to protect their investments. This means you might have to pay more to keep your strategy balanced. Plus, if the market moves in a way you didn't expect, like a sudden big drop or rise, your adjustments might not be enough to keep your portfolio safe. So, while a gamma-delta neutral strategy can help manage risk, it's not a perfect shield against all the surprises that volatile markets can bring.
 
@@ -158,7 +158,7 @@ $$
 
 where $\Delta_i$ is the delta of the $i$-th option, $Q_i$ is the quantity of the $i$-th option, and $\Delta_{\text{hedge}}$ represents the delta contribution from the hedging instrument, such as shorted stocks or additional options.
 
-Understanding the mechanics of gamma and delta adjustments is crucial for implementing successful gamma-delta neutral strategies. This often involves dynamic adjustments through either manual intervention or automated algorithmic trading systems. These systems help in recalibrating the portfolio by continuously monitoring market changes and executing trades that preserve the general neutrality of the portfolio. 
+Understanding the mechanics of gamma and delta adjustments is crucial for implementing successful gamma-delta neutral strategies. This often involves dynamic adjustments through either manual intervention or automated [algorithmic trading](/wiki/algorithmic-trading) systems. These systems help in recalibrating the portfolio by continuously monitoring market changes and executing trades that preserve the general neutrality of the portfolio. 
 
 Here's a simplified Python example illustrating the concept of portfolio adjustments for delta neutrality:
 

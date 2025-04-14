@@ -18,7 +18,7 @@ This strategy is often used by large institutional investors and requires sophis
 
 Index arbitrage works by taking advantage of small price differences between a stock index, like the S&P 500, and its futures contracts. Imagine the S&P 500 index is like a basket of stocks. If this basket is cheaper than the price of a futures contract that promises to deliver the same basket in the future, a trader can buy the basket (the stocks in the index) and sell the futures contract at the same time. The idea is to make money when the prices of the basket and the futures contract become the same.
 
-This strategy needs fast computers and good technology because the price differences are usually small and don't last long. Big investors often use index arbitrage because they can handle the quick trades and the costs involved. While it can be risky if the prices don't move as expected, it can also be a way to make steady profits if done right.
+This strategy needs fast computers and good technology because the price differences are usually small and don't last long. Big investors often use index [arbitrage](/wiki/arbitrage) because they can handle the quick trades and the costs involved. While it can be risky if the prices don't move as expected, it can also be a way to make steady profits if done right.
 
 ## What are the key components involved in index arbitrage?
 
@@ -34,7 +34,7 @@ Other types of arbitrage work in different ways. For example, merger arbitrage i
 
 ## What are the common strategies used in index arbitrage?
 
-Index arbitrage traders often use a strategy called "cash-and-carry arbitrage." This means they buy the stocks in an index, like the S&P 500, and at the same time, they sell a futures contract for that index. They do this when the futures contract is more expensive than the stocks. The idea is to make money when the prices of the stocks and the futures contract get closer together. This strategy needs fast computers because the price difference might not last long.
+Index arbitrage traders often use a strategy called "cash-and-[carry](/wiki/carry-trading) arbitrage." This means they buy the stocks in an index, like the S&P 500, and at the same time, they sell a futures contract for that index. They do this when the futures contract is more expensive than the stocks. The idea is to make money when the prices of the stocks and the futures contract get closer together. This strategy needs fast computers because the price difference might not last long.
 
 Another common strategy is "reverse cash-and-carry arbitrage." Here, traders do the opposite: they sell the stocks in the index and buy the futures contract. They do this when the stocks are more expensive than the futures contract. Again, the goal is to profit when the prices of the stocks and the futures contract become the same. Both strategies need a lot of knowledge about the market and quick technology to work well.
 
@@ -92,9 +92,9 @@ $$
 
 where $F$ represents the futures price, $I$ is the index price, and $C$ is the cost of carrying, including transaction fees and interest costs. Successful arbitrage occurs when the absolute value of (F - I) exceeds C, enabling profit after transactions.
 
-Historical analysis indicates that the efficiency of index arbitrage is influenced by technological advancements, particularly in computational speed and data processing. In the 1980s and 1990s, the rise of program trading allowed traders to execute trades faster than manual operations, significantly increasing the profitability and volume of arbitrage opportunities. Algorithmic trading, a subset of program trading, further refined these operations, allowing traders to execute thousands of transactions per second, thus exploiting inefficiencies more effectively.
+Historical analysis indicates that the efficiency of index arbitrage is influenced by technological advancements, particularly in computational speed and data processing. In the 1980s and 1990s, the rise of program trading allowed traders to execute trades faster than manual operations, significantly increasing the profitability and [volume](/wiki/volume-trading-strategy) of arbitrage opportunities. Algorithmic trading, a subset of program trading, further refined these operations, allowing traders to execute thousands of transactions per second, thus exploiting inefficiencies more effectively.
 
-Learning from past arbitrage successes and failures is critical for adapting to modern market conditions. For instance, the 1987 market crash, known as Black Monday, underscored the risks of program trading when market liquidations amplified volatility. In this context, understanding past events provides valuable insights into risk management and strategy modification.
+Learning from past arbitrage successes and failures is critical for adapting to modern market conditions. For instance, the 1987 market crash, known as Black Monday, underscored the risks of program trading when market liquidations amplified [volatility](/wiki/volatility-trading-strategies). In this context, understanding past events provides valuable insights into risk management and strategy modification.
 
 Technological advancements continue to shape the landscape of index arbitrage. The evolution from basic program trading in the 1980s to sophisticated high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) systems today illustrates how technology drives strategy efficiency. Modern algorithms equipped with [machine learning](/wiki/machine-learning) capabilities are designed to adapt to real-time data, optimizing decision-making processes.
 

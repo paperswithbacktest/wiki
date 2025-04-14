@@ -64,7 +64,7 @@ These penalties are there to make sure brokers take Reg BI seriously and always 
 
 ## How does Reg BI impact the relationship between brokers and their clients?
 
-Reg BI changes how brokers work with their clients by making sure brokers always try to do what's best for them. Before, brokers might have suggested investments that made them more money, even if they weren't the best for the client. Now, they have to think about what the client wants and needs first. This means looking at different options and picking the ones that help the client reach their goals. It's all about giving advice that really helps the client, not just the broker.
+Reg BI changes how brokers work with their clients by making sure brokers always try to do what's best for them. Before, brokers might have suggested investments that made them more money, even if they weren't the best for the client. Now, they have to think about what the client wants and needs first. This means looking at different options and [picking](/wiki/asset-class-picking) the ones that help the client reach their goals. It's all about giving advice that really helps the client, not just the broker.
 
 Because of Reg BI, clients can trust their brokers more. Brokers have to tell clients about any conflicts of interest, like if they make more money from one investment than another. They also need to charge fair prices and follow good rules to make sure they're doing the right thing. This openness makes clients feel more secure because they know their broker is looking out for them. Overall, Reg BI makes the relationship between brokers and clients stronger and more honest.
 

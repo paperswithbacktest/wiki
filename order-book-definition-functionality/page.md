@@ -18,7 +18,7 @@ When someone wants to buy or sell, their order goes into the order book. If the 
 
 An order book in trading is like a big list that shows all the orders people have placed to buy or sell a specific thing, like a stock or a cryptocurrency. It's split into two parts: one part shows all the buy orders, called bids, and the other part shows all the sell orders, called asks. The bids are listed from the highest price someone is willing to pay down to the lowest, and the asks are listed from the lowest price someone is willing to sell at up to the highest. This helps everyone see at a glance what prices people are willing to trade at.
 
-When someone wants to trade, they place an order in the order book. If the price of a new buy order matches or is higher than the lowest sell order, or if a new sell order matches or is lower than the highest buy order, a trade happens right away. This is called a market order. If someone wants to buy or sell at a specific price and is willing to wait, they can place a limit order. The order stays in the book until someone else is willing to trade at that price. The order book is always changing as new orders come in and trades happen, giving everyone a real-time view of what's going on in the market.
+When someone wants to trade, they place an order in the [order book](/wiki/order-book-trading-strategies). If the price of a new buy order matches or is higher than the lowest sell order, or if a new sell order matches or is lower than the highest buy order, a trade happens right away. This is called a market order. If someone wants to buy or sell at a specific price and is willing to wait, they can place a limit order. The order stays in the book until someone else is willing to trade at that price. The order book is always changing as new orders come in and trades happen, giving everyone a real-time view of what's going on in the market.
 
 ## What are the main components of an order book?
 
@@ -52,7 +52,7 @@ The order book also shows how deep the market is. If there are a lot of orders a
 
 ## What is the role of an order book in market liquidity?
 
-An order book plays a big role in showing how easy it is to buy or sell something in the market, which we call liquidity. Liquidity means there are lots of people ready to trade, so you can buy or sell quickly without the price changing too much. When the order book has a lot of orders at many different prices, it means the market is very liquid. This is good because it means you can trade easily and the price won't jump around a lot.
+An order book plays a big role in showing how easy it is to buy or sell something in the market, which we call [liquidity](/wiki/liquidity-risk-premium). Liquidity means there are lots of people ready to trade, so you can buy or sell quickly without the price changing too much. When the order book has a lot of orders at many different prices, it means the market is very liquid. This is good because it means you can trade easily and the price won't jump around a lot.
 
 If the order book doesn't have many orders, it means the market is not very liquid. In a market like this, it can be hard to buy or sell quickly because there aren't many people ready to trade. If someone wants to buy or sell a big amount, the price can change a lot because there aren't enough orders to match with. So, the order book helps traders see how liquid the market is and make better decisions about when to trade.
 

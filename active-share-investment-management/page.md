@@ -58,7 +58,7 @@ Also, high Active Share portfolios need a good fund manager to pick the right in
 
 ## How can investors use Active Share to evaluate fund managers?
 
-Investors can use Active Share to see how different a fund manager's choices are from the benchmark index. If a fund has a high Active Share, it means the manager is picking different investments than the index. This shows the manager is being very active and trying to do better than the market. If the fund does well and beats the index, it could mean the manager is good at picking investments. But if the fund does worse than the index, it might mean the manager's choices were not good.
+Investors can use Active Share to see how different a fund manager's choices are from the benchmark index. If a fund has a high Active Share, it means the manager is [picking](/wiki/asset-class-picking) different investments than the index. This shows the manager is being very active and trying to do better than the market. If the fund does well and beats the index, it could mean the manager is good at picking investments. But if the fund does worse than the index, it might mean the manager's choices were not good.
 
 On the other hand, a low Active Share means the manager is sticking close to the index. This can be safer because it follows the market, but it's less likely to beat the market. If an investor wants to see if a manager can really add value and beat the market, looking at the Active Share can help. A high Active Share shows the manager is trying hard to be different, which could lead to better results if they are good at their job. But it also comes with more risk, so investors need to think about how much risk they want to take.
 
@@ -98,7 +98,7 @@ Investors can leverage Active Share to discern truly active managers and align t
 
 ## What is the Role of Active Share in Algorithmic Trading?
 
-Combining active share metrics with algorithmic trading provides a robust framework for enhancing portfolio management. Active share measures the extent to which a portfolio's holdings deviate from its benchmark, providing critical insights for constructing a more strategic portfolio. By integrating active share into algorithmic trading systems, investors can dynamically adjust their positions to better capture deviations from benchmark index movements. 
+Combining active share metrics with [algorithmic trading](/wiki/algorithmic-trading) provides a robust framework for enhancing portfolio management. Active share measures the extent to which a portfolio's holdings deviate from its benchmark, providing critical insights for constructing a more strategic portfolio. By integrating active share into algorithmic trading systems, investors can dynamically adjust their positions to better capture deviations from benchmark index movements. 
 
 Active share is a numerical representation that quantifies the percentage of a portfolio that does not overlap with the benchmark index. It can be defined mathematically by the formula:
 

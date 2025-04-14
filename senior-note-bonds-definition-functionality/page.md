@@ -28,7 +28,7 @@ Sometimes, governments or government agencies also issue Senior Note Bonds. They
 
 ## What are the key features of Senior Note Bonds?
 
-Senior Note Bonds are a type of bond that companies or governments issue to borrow money. They are called "senior" because if the company or government has money problems, people who own these bonds get paid back first. This makes Senior Note Bonds safer than other types of bonds. Because they are safer, they usually offer a lower interest rate compared to riskier bonds. Investors like them because they want a safer place to put their money and get a steady return, even if the return is not very high.
+Senior Note Bonds are a type of bond that companies or governments issue to borrow money. They are called "senior" because if the company or government has money problems, people who own these bonds get paid back first. This makes Senior Note Bonds safer than other types of bonds. Because they are safer, they usually offer a lower [interest rate](/wiki/interest-rate-trading-strategies) compared to riskier bonds. Investors like them because they want a safer place to put their money and get a steady return, even if the return is not very high.
 
 Big companies in different industries often issue Senior Note Bonds. They use the money to grow their business, pay off other debts, or start new projects. Sometimes, governments or government agencies also issue these bonds to pay for things like roads or schools. When governments issue them, they are seen as very safe because the government is less likely to go bankrupt than a company.
 

@@ -18,7 +18,7 @@ Parents can get money from this plan for a certain amount of time, usually sever
 
 In Canada, only the province of Quebec has its own Provincial Parental Insurance Plan. This plan is called the Quebec Parental Insurance Plan (QPIP). It is different from the federal Employment Insurance (EI) program that the rest of Canada uses. QPIP gives money to parents in Quebec so they can take time off work to be with their new baby or adopted child.
 
-The QPIP is run by the Quebec government. It helps parents get money for a certain time, usually up to a year, depending on how they choose to share the leave between parents. The amount of money parents get depends on how much they were earning before the baby came. This plan is important because it helps families in Quebec take care of their new child without worrying too much about money.
+The QPIP is run by the Quebec government. It helps parents get money for a certain time, usually up to a year, depending on how they choose to share the leave between parents. The amount of money parents get depends on how much they were [earning](/wiki/earning-announcement) before the baby came. This plan is important because it helps families in Quebec take care of their new child without worrying too much about money.
 
 ## Who is eligible to apply for benefits under the Provincial Parental Insurance Plan?
 

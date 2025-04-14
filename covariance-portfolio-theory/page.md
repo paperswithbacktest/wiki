@@ -38,7 +38,7 @@ In simple terms, covariance tells you the direction of the relationship between 
 
 Covariance affects the risk of a portfolio by showing how different investments move together. If two investments have a high positive covariance, it means they tend to go up or down at the same time. This can make your portfolio riskier because if one investment goes down, the other one is likely to go down too. For example, if you have two stocks that both go down during a market crash, your whole portfolio could lose a lot of value.
 
-On the other hand, if you choose investments with low or negative covariance, it can help reduce the risk of your portfolio. Low or negative covariance means that the investments don't move in the same way. So, if one investment goes down, the other might go up or stay the same, which can balance out the losses. This is why investors look at covariance when they want to diversify their portfolio and make it more stable. By picking investments that don't all move together, you can protect your money better.
+On the other hand, if you choose investments with low or negative covariance, it can help reduce the risk of your portfolio. Low or negative covariance means that the investments don't move in the same way. So, if one investment goes down, the other might go up or stay the same, which can balance out the losses. This is why investors look at covariance when they want to diversify their portfolio and make it more stable. By [picking](/wiki/asset-class-picking) investments that don't all move together, you can protect your money better.
 
 ## What is the role of covariance in the efficient frontier concept?
 
@@ -80,7 +80,7 @@ In modern portfolio theory, the covariance matrix is used to find the efficient 
 
 To get better at estimating covariance in complex portfolios, you can use something called shrinkage estimators. These methods mix the actual data you have with a simpler model, like assuming all investments move the same way. This helps because sometimes the data you have can be noisy or not enough to give a clear picture. By blending it with a simpler model, you can get a more stable and reliable estimate of how your investments move together. This is really helpful when you're dealing with a lot of different investments and don't have enough past data to be sure about the numbers.
 
-Another way to improve covariance estimation is by using factor models. These models look at big things that affect all investments, like the economy or interest rates, and use them to figure out how investments move together. By focusing on these big factors, factor models can give you a clearer picture of covariance, especially when you're dealing with a lot of investments. This can make your portfolio more stable and help you make better decisions about which investments to pick.
+Another way to improve covariance estimation is by using [factor](/wiki/factor-investing) models. These models look at big things that affect all investments, like the economy or interest rates, and use them to figure out how investments move together. By focusing on these big factors, factor models can give you a clearer picture of covariance, especially when you're dealing with a lot of investments. This can make your portfolio more stable and help you make better decisions about which investments to pick.
 
 ## What is Understanding Finance Portfolio Theory?
 

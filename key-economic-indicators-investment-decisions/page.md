@@ -96,7 +96,7 @@ $$
 
 where $\beta_0$ is the intercept, $\beta_1$ is the coefficient representing the sensitivity of price changes to GDP growth, and $\epsilon$ is the error term. Based on this model, the algorithm can make buy or sell decisions depending on the predicted price changes derived from anticipated GDP values.
 
-Successful integration of economic indicators in algorithmic trading systems can be seen in various trading strategies. For instance, a [momentum](/wiki/momentum) trading algorithm may take cues from leading economic indicators, adjusting positions ahead of anticipated market movements. Similarly, algorithms engaged in mean reversion trading might use lagging indicators to refine entry and [exit](/wiki/exit-strategy) points.
+Successful integration of economic indicators in [algorithmic trading](/wiki/algorithmic-trading) systems can be seen in various trading strategies. For instance, a [momentum](/wiki/momentum) trading algorithm may take cues from leading economic indicators, adjusting positions ahead of anticipated market movements. Similarly, algorithms engaged in mean reversion trading might use lagging indicators to refine entry and [exit](/wiki/exit-strategy) points.
 
 Quantitative hedge funds often illustrate successful use cases of integrating economic indicators with algorithmic trading. Funds employing a macro-strategy might utilize a blend of data sources, including central bank announcements and economic reports, to dynamically adjust their portfolios. In these systems, sophisticated statistical models capture the influence of macroeconomic shifts on asset prices, allowing for rapid response to economic changes.
 

@@ -24,7 +24,7 @@ The main reason for creating the FHA was to help more people buy homes. The FHA 
 
 The main goal of the Federal Housing Administration (FHA) is to help more people buy homes. It does this by making it easier for people to get loans. The FHA insures loans that are given by banks and other lenders. This means if someone can't pay back their loan, the FHA will pay the lender instead. This makes lenders feel safer about giving loans to people who might not have a lot of money or a perfect credit history.
 
-Another important goal of the FHA is to make home buying more affordable and safer for everyone. The FHA sets rules for the loans it insures, like how much money someone needs to put down and what the interest rate should be. These rules help keep home buying costs down and make sure that loans are fair. By doing this, the FHA helps more people, especially first-time buyers and those with lower incomes, become homeowners.
+Another important goal of the FHA is to make home buying more affordable and safer for everyone. The FHA sets rules for the loans it insures, like how much money someone needs to put down and what the [interest rate](/wiki/interest-rate-trading-strategies) should be. These rules help keep home buying costs down and make sure that loans are fair. By doing this, the FHA helps more people, especially first-time buyers and those with lower incomes, become homeowners.
 
 ## How does the FHA support homeownership?
 

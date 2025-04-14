@@ -78,7 +78,7 @@ Understanding basis points helps people who trade derivatives see how sensitive 
 
 In portfolio management, basis points are often used in advanced strategies to fine-tune and optimize investment portfolios. One such strategy is duration management, where portfolio managers adjust the duration of their bond holdings in response to expected changes in interest rates. If a manager believes that interest rates will rise, they might shorten the duration of their bond portfolio by a certain number of basis points to minimize the impact of rising rates on the portfolio's value. This precise adjustment, measured in basis points, allows managers to hedge against interest rate risk more effectively, ensuring that the portfolio's performance aligns with their investment goals.
 
-Another advanced strategy involves using basis points to assess and compare the performance of different investment vehicles within the portfolio. For example, a portfolio manager might use basis points to evaluate the alpha, or excess return, of a mutual fund or an ETF. By understanding how many basis points a fund outperforms or underperforms its benchmark, the manager can make informed decisions about reallocating assets. This detailed analysis helps in fine-tuning the portfolio to achieve better risk-adjusted returns, making basis points a critical tool in enhancing overall portfolio performance.
+Another advanced strategy involves using basis points to assess and compare the performance of different investment vehicles within the portfolio. For example, a portfolio manager might use basis points to evaluate the alpha, or excess return, of a mutual fund or an [ETF](/wiki/etf-trading-strategies). By understanding how many basis points a fund outperforms or underperforms its benchmark, the manager can make informed decisions about reallocating assets. This detailed analysis helps in fine-tuning the portfolio to achieve better risk-adjusted returns, making basis points a critical tool in enhancing overall portfolio performance.
 
 ## What is the role of interest rates in financial markets?
 
@@ -120,5 +120,5 @@ Understanding the dynamic nature of interest rates enables investors to optimize
 
 9. **Biais, B., Foucault, T., & Moinas, S. (2014). Equilibrium High-Frequency Trading.** This study analyzes the effects of high-frequency trading in financial markets, focusing on the role of basis points in determining price equilibrium and strategy optimization. Available at SSRN: https://ssrn.com/abstract=2024360.
 
-These resources collectively provide a robust foundation for understanding the interplay between financial metrics, algorithmic trading, and interest rate dynamics.
+These resources collectively provide a robust foundation for understanding the interplay between financial metrics, [algorithmic trading](/wiki/algorithmic-trading), and interest rate dynamics.
 

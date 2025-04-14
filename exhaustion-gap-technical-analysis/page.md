@@ -36,7 +36,7 @@ After an exhaustion gap, the price might try to go a bit higher, but it won't la
 
 Traders can spot an exhaustion gap on a price chart by looking for a big jump in the price at the end of a strong trend. Imagine a stock's price has been going up for a while, and then suddenly it jumps up even more. This jump is the exhaustion gap. It happens when everyone who wanted to buy the stock has already bought it, and there's not much interest left to keep pushing the price higher. You'll see this gap as a big space between the closing price of one day and the opening price of the next day.
 
-To make sure it's really an exhaustion gap, traders also look at the trading volume. When the gap happens, the volume is usually very high. This shows that a lot of people were buying or selling at the same time. After the gap, the price might try to go a bit higher, but it won't last long. Soon, the price starts to drop and might even go back to the price level before the gap happened. By watching for these signs, traders can use exhaustion gaps to decide when it might be a good time to sell their stocks before the price goes down.
+To make sure it's really an exhaustion gap, traders also look at the trading [volume](/wiki/volume-trading-strategy). When the gap happens, the volume is usually very high. This shows that a lot of people were buying or selling at the same time. After the gap, the price might try to go a bit higher, but it won't last long. Soon, the price starts to drop and might even go back to the price level before the gap happened. By watching for these signs, traders can use exhaustion gaps to decide when it might be a good time to sell their stocks before the price goes down.
 
 ## What are the typical characteristics of an exhaustion gap?
 

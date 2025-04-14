@@ -28,7 +28,7 @@ Apple Pay uses tokenization to make sure your card details stay private. When yo
 
 ## How does two-factor authentication work with Apple Pay?
 
-Two-factor authentication adds an extra layer of security to your Apple Pay account. It means you need two things to get into your account: something you know, like a password, and something you have, like your phone. When you try to add a new card to Apple Pay or make changes to your account, Apple might ask you to enter a code that they send to your phone. This makes sure it's really you making the changes and not someone else.
+Two-[factor](/wiki/factor-investing) authentication adds an extra layer of security to your Apple Pay account. It means you need two things to get into your account: something you know, like a password, and something you have, like your phone. When you try to add a new card to Apple Pay or make changes to your account, Apple might ask you to enter a code that they send to your phone. This makes sure it's really you making the changes and not someone else.
 
 This extra step helps keep your Apple Pay account safe. If someone steals your password, they still can't get into your account without your phone. This makes it much harder for anyone to use your Apple Pay without your permission. It's like having a double lock on your account, making sure only you can use it.
 

@@ -66,7 +66,7 @@ They also pay attention to things like climate change and social issues. PanAgor
 
 ## How does PanAgora use artificial intelligence and machine learning in its investment processes?
 
-PanAgora uses artificial intelligence (AI) and machine learning to help them make smart choices about where to invest money. They use these technologies to look at a lot of data, like numbers about companies, how the economy is doing, and even what people are saying on social media. By using AI and machine learning, PanAgora can find patterns and make predictions about which investments might do well. This helps them pick the best places to put their clients' money so it can grow.
+PanAgora uses [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning) to help them make smart choices about where to invest money. They use these technologies to look at a lot of data, like numbers about companies, how the economy is doing, and even what people are saying on social media. By using AI and machine learning, PanAgora can find patterns and make predictions about which investments might do well. This helps them pick the best places to put their clients' money so it can grow.
 
 They also use AI to keep checking on their investments. This means they don't just pick something and forget about it. Instead, they use machine learning to watch how things are changing and decide if they need to do something different. This helps them be ready for surprises and make quick changes if they need to. By using AI and machine learning, PanAgora can help protect their clients' money and make sure it keeps growing.
 

@@ -64,7 +64,7 @@ IFRS, which is used in many countries around the world, also requires companies 
 
 ## How do changes in interest rates affect the current portion of long-term debt?
 
-Changes in interest rates can affect the current portion of long-term debt, but it depends on the type of debt a company has. If a company has a fixed-rate loan, the interest rate stays the same for the whole time they are paying it back. So, changes in interest rates won't change how much they need to pay in the next year. The current portion of the debt stays the same because the payments are set.
+Changes in interest rates can affect the current portion of long-term debt, but it depends on the type of debt a company has. If a company has a fixed-rate loan, the [interest rate](/wiki/interest-rate-trading-strategies) stays the same for the whole time they are paying it back. So, changes in interest rates won't change how much they need to pay in the next year. The current portion of the debt stays the same because the payments are set.
 
 On the other hand, if a company has a variable-rate loan, the interest rate can go up or down. If interest rates go up, the company might have to pay more interest in the next year. This could make the current portion of the debt higher because they need more money to cover the interest. If interest rates go down, the opposite happens, and the current portion might be lower. So, for companies with variable-rate loans, changes in interest rates can really affect how much money they need to have ready for the next year.
 

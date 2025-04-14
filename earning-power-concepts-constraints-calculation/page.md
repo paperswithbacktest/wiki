@@ -18,7 +18,7 @@ To figure out earning power, you look at things like how much money is coming in
 
 Earning power is important in financial analysis because it helps us understand how much money a company or a person can make over time. When we know the earning power, we can see if a business is doing well or if it needs to make changes. For example, if a company's earning power is high, it means they are good at making money from what they sell. This can make investors feel more confident about putting money into the company.
 
-On the other hand, if the earning power is low, it might mean the company is not doing so well and could be at risk. Financial analysts use earning power to predict future earnings and to help decide if a company is a good investment. By looking at earning power, analysts can also suggest ways for a company to improve its profits, like cutting costs or finding new ways to make money.
+On the other hand, if the [earning](/wiki/earning-announcement) power is low, it might mean the company is not doing so well and could be at risk. Financial analysts use earning power to predict future earnings and to help decide if a company is a good investment. By looking at earning power, analysts can also suggest ways for a company to improve its profits, like cutting costs or finding new ways to make money.
 
 ## How does earning power differ from earning potential?
 

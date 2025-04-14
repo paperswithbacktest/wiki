@@ -70,7 +70,7 @@ Another big thing regulators look at is how dealers handle their quotes. They wa
 
 ## How do two-way quotes vary across different asset classes like stocks, forex, and commodities?
 
-Two-way quotes work a bit differently depending on whether you're trading stocks, forex, or commodities. In the stock market, a two-way quote shows the price a dealer will buy a stock from you (the bid price) and the price they will sell it to you for (the ask price). For example, if a stock has a bid of $50 and an ask of $52, the dealer is ready to buy it from you for $50 and sell it to you for $52. This helps traders see how much they might have to pay to buy or sell a stock and how easy it is to trade it.
+Two-way quotes work a bit differently depending on whether you're trading stocks, [forex](/wiki/forex-system), or commodities. In the stock market, a two-way quote shows the price a dealer will buy a stock from you (the bid price) and the price they will sell it to you for (the ask price). For example, if a stock has a bid of $50 and an ask of $52, the dealer is ready to buy it from you for $50 and sell it to you for $52. This helps traders see how much they might have to pay to buy or sell a stock and how easy it is to trade it.
 
 In the forex market, two-way quotes are used for currency pairs. If you see a quote for EUR/USD with a bid of 1.1000 and an ask of 1.1005, it means you can sell one euro for 1.1000 dollars and buy one euro for 1.1005 dollars. The small difference between these prices shows that the forex market is often very liquid, making it easier to trade currencies. For commodities like gold or oil, two-way quotes also show the bid and ask prices, but these can change a lot based on things like supply and demand. A two-way quote for gold might show a bid of $1,800 per ounce and an ask of $1,805 per ounce, helping traders decide when to buy or sell based on the current market conditions.
 
@@ -116,13 +116,13 @@ where $A$ is the ask price and $B$ is the bid price. A small spread indicates hi
 
 High liquidity is synonymous with quote accuracy. When a market is liquid, the abundance of transaction opportunities ensures that the quotes remain a true reflection of the market's consensus valuation of a security. In such environments, the risk of encountering significant price slippage—the difference between the expected price of a trade and the price at which the trade is executed—is minimized.
 
-Liquidity directly impacts trading performance by ensuring that traders can execute orders quickly and at predictable prices. This is particularly important for algorithmic trading strategies, which rely on precise entry and [exit](/wiki/exit-strategy) points to execute numerous trades in a short time. In liquid markets, algorithms can operate more efficiently, scanning available two-way quotes and executing trades with optimal timing and pricing.
+Liquidity directly impacts trading performance by ensuring that traders can execute orders quickly and at predictable prices. This is particularly important for [algorithmic trading](/wiki/algorithmic-trading) strategies, which rely on precise entry and [exit](/wiki/exit-strategy) points to execute numerous trades in a short time. In liquid markets, algorithms can operate more efficiently, scanning available two-way quotes and executing trades with optimal timing and pricing.
 
 ### Understanding Market Depth Dynamics
 
-Market depth provides insights into the [volume](/wiki/volume-trading-strategy) of bids and offers required to move the security's price by a specified amount. It is often visualized through a depth chart, which plots the cumulative volume of buy and sell orders at different price levels. A market with significant depth will feature substantial volumes close to the current market price, signifying a strong cushion against price volatility.
+Market depth provides insights into the [volume](/wiki/volume-trading-strategy) of bids and offers required to move the security's price by a specified amount. It is often visualized through a depth chart, which plots the cumulative volume of buy and sell orders at different price levels. A market with significant depth will feature substantial volumes close to the current market price, signifying a strong cushion against price [volatility](/wiki/volatility-trading-strategies).
 
-The capacity of a market to withstand large trades without significant price impact hinges on its depth. When depth is shallow, even moderately sized orders can create significant price fluctuations, widening the bid-ask spread and reducing quote reliability. Traders can assess depth through order book analysis, which reveals the range and scale of bid and ask orders.
+The capacity of a market to withstand large trades without significant price impact hinges on its depth. When depth is shallow, even moderately sized orders can create significant price fluctuations, widening the bid-ask spread and reducing quote reliability. Traders can assess depth through [order book](/wiki/order-book-trading-strategies) analysis, which reveals the range and scale of bid and ask orders.
 
 ### Conclusion
 

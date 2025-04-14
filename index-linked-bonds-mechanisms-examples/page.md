@@ -34,7 +34,7 @@ Another index that might be used is the Retail Price Index (RPI). The RPI is sim
 
 ## How is the interest rate determined for index-linked bonds?
 
-The interest rate for index-linked bonds is made up of two parts: a fixed rate and an inflation adjustment. The fixed rate is set when the bond is issued and stays the same for the whole time you own the bond. This part of the interest rate is like what you get with a traditional bond. The inflation adjustment part changes based on an inflation index, like the Consumer Price Index (CPI) or the Retail Price Index (RPI). If inflation goes up, the payments you get from the bond go up too.
+The [interest rate](/wiki/interest-rate-trading-strategies) for index-linked bonds is made up of two parts: a fixed rate and an inflation adjustment. The fixed rate is set when the bond is issued and stays the same for the whole time you own the bond. This part of the interest rate is like what you get with a traditional bond. The inflation adjustment part changes based on an inflation index, like the Consumer Price Index (CPI) or the Retail Price Index (RPI). If inflation goes up, the payments you get from the bond go up too.
 
 For example, if the fixed rate on your bond is 1% and inflation goes up by 2% in a year, the total interest rate you get for that year would be 3%. This means the interest payment you receive will be higher than if there was no inflation. By adjusting the interest rate this way, index-linked bonds help keep the value of your money the same even when prices are rising.
 
@@ -48,7 +48,7 @@ Another good thing about index-linked bonds is that they can be a safe investmen
 
 One risk with index-linked bonds is that they might not give you as much money as other investments. The starting interest rate is usually lower than what you might get from regular bonds or stocks. This means if inflation stays low, you might end up with less money than if you had put your money somewhere else. Also, if inflation goes down, the payments from the bond will go down too, which could mean you get less money than you expected.
 
-Another risk is that these bonds can be hard to sell before they mature. If you need your money back early, you might have to sell the bond for less than what it's worth. This is called liquidity risk. Also, even though these bonds are seen as safe because they're often issued by governments, there's still a small chance that the government could have money problems and not be able to pay back the bond. This is called default risk, but it's very rare for governments to default on their bonds.
+Another risk is that these bonds can be hard to sell before they mature. If you need your money back early, you might have to sell the bond for less than what it's worth. This is called [liquidity](/wiki/liquidity-risk-premium) risk. Also, even though these bonds are seen as safe because they're often issued by governments, there's still a small chance that the government could have money problems and not be able to pay back the bond. This is called default risk, but it's very rare for governments to default on their bonds.
 
 ## Can you provide examples of index-linked bonds?
 

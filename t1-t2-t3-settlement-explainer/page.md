@@ -50,7 +50,7 @@ Overall, moving to shorter settlement cycles can make trading faster and help pe
 
 ## How does the settlement cycle affect liquidity in the market?
 
-The settlement cycle affects how quickly money and assets move in the market, which can change how much money is available to use, called liquidity. If the settlement cycle is shorter, like T+1, people get their money or stocks faster. This means they can use that money or those stocks to trade again sooner. More trading can make the market more liquid because there's more money moving around.
+The settlement cycle affects how quickly money and assets move in the market, which can change how much money is available to use, called [liquidity](/wiki/liquidity-risk-premium). If the settlement cycle is shorter, like T+1, people get their money or stocks faster. This means they can use that money or those stocks to trade again sooner. More trading can make the market more liquid because there's more money moving around.
 
 On the other hand, a longer settlement cycle, like T+3, means people have to wait longer to get their money or stocks. They can't use that money or those stocks to trade again right away. This can make the market less liquid because there's less money moving around quickly. So, shorter settlement cycles can help make the market more liquid, but they also need good systems to make sure everything goes smoothly.
 

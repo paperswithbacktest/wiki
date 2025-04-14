@@ -62,7 +62,7 @@ Overall, the goal of these terms is to make sure both parties understand exactly
 
 ## How do market conditions affect the pricing of Quanto Swaps?
 
-Market conditions play a big role in how Quanto Swaps are priced. One important factor is the difference between the fixed exchange rate agreed on in the swap and the actual exchange rate in the market. If the actual rate changes a lot, it can make the Quanto Swap more or less valuable. For example, if the foreign currency gets weaker compared to the home currency, the swap might become more valuable because it protects the investor from losing money due to the currency change.
+Market conditions play a big role in how Quanto Swaps are priced. One important [factor](/wiki/factor-investing) is the difference between the fixed exchange rate agreed on in the swap and the actual exchange rate in the market. If the actual rate changes a lot, it can make the Quanto Swap more or less valuable. For example, if the foreign currency gets weaker compared to the home currency, the swap might become more valuable because it protects the investor from losing money due to the currency change.
 
 Another thing that affects the pricing is how the underlying asset is doing. If the stocks or bonds that the swap is based on are doing well, the swap might be priced higher because it's linked to a good investment. But if the asset isn't doing well, the swap's price might go down. Also, how much risk there is in the market can change the price. If people think there's a lot of risk, they might want more money to take on that risk, which can make the Quanto Swap more expensive.
 

@@ -36,7 +36,7 @@ The main thing to know is that FDIC insurance is for money you keep in banks, no
 
 Investing in mutual funds comes with some risks. One big risk is that the value of the mutual fund can go up and down. This happens because the mutual fund is made up of many different stocks, bonds, or other investments. If these investments do not do well, the value of your mutual fund can go down, and you might lose money. This is different from keeping money in a bank, where the amount stays the same.
 
-Another risk is that you have to pay fees to the people who manage the mutual fund. These fees can make your investment worth less over time because they take away from the money you could be earning. Also, you don't have control over which stocks or bonds the mutual fund buys or sells. The manager of the fund makes those choices, and if they make bad choices, it can affect how much money you make or lose.
+Another risk is that you have to pay fees to the people who manage the mutual fund. These fees can make your investment worth less over time because they take away from the money you could be [earning](/wiki/earning-announcement). Also, you don't have control over which stocks or bonds the mutual fund buys or sells. The manager of the fund makes those choices, and if they make bad choices, it can affect how much money you make or lose.
 
 ## How can investors protect their investments in mutual funds?
 

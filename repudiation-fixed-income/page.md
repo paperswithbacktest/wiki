@@ -56,7 +56,7 @@ Higher interest rates mean the bond yields go up too. Yields are like the return
 
 Credit rating agencies help investors understand how risky it is to buy bonds from a government or company. They look at a lot of things, like the country's history of paying back debts, how strong its economy is, and if there are any big problems that could make it hard for the government to pay back what it owes. If they think there's a chance the government might repudiate its debt, they give the bonds a lower rating. This tells investors that the bonds are riskier, and they should be careful.
 
-When a credit rating agency gives a bond a low rating because of repudiation risk, it can make the bond's price go down and the interest rate go up. Investors see the low rating and know they need to be paid more to take on the extra risk. This is important because it helps investors make better choices about where to put their money. Credit rating agencies play a big role in keeping the bond market honest by warning investors about risks like repudiation.
+When a credit rating agency gives a bond a low rating because of repudiation risk, it can make the bond's price go down and the [interest rate](/wiki/interest-rate-trading-strategies) go up. Investors see the low rating and know they need to be paid more to take on the extra risk. This is important because it helps investors make better choices about where to put their money. Credit rating agencies play a big role in keeping the bond market honest by warning investors about risks like repudiation.
 
 ## How do sovereign debt restructurings relate to repudiation?
 

@@ -42,7 +42,7 @@ In organizations, slow information diffusion can cause confusion and inefficienc
 
 ## What are the psychological factors that contribute to slow information diffusion?
 
-One psychological factor that can make information spread slowly is how people feel about the news. If the information is scary or hard to understand, people might not want to share it. They might be worried about how others will react or feel unsure about the news themselves. For example, if someone hears about a new disease but doesn't fully understand it, they might not tell others because they don't want to cause panic or spread wrong information. This can slow down how quickly the news spreads.
+One psychological [factor](/wiki/factor-investing) that can make information spread slowly is how people feel about the news. If the information is scary or hard to understand, people might not want to share it. They might be worried about how others will react or feel unsure about the news themselves. For example, if someone hears about a new disease but doesn't fully understand it, they might not tell others because they don't want to cause panic or spread wrong information. This can slow down how quickly the news spreads.
 
 Another factor is how much people trust the source of the information. If people don't believe the person or group sharing the news, they might ignore it or not share it with others. Trust is important for information to spread quickly. If someone hears a rumor from a friend they don't trust, they might not pass it on. This lack of trust can make important news take longer to reach everyone, especially if the first people to hear it don't believe it's true.
 
@@ -84,7 +84,7 @@ These tools can also help manage slow information diffusion by showing what work
 
 ## What are the causes of information slow diffusion?
 
-Despite the high-speed capabilities of algorithmic trading, several factors can lead to slower-than-expected information diffusion in financial markets. These factors can be broadly classified into technical, human, and economic categories.
+Despite the high-speed capabilities of [algorithmic trading](/wiki/algorithmic-trading), several factors can lead to slower-than-expected information diffusion in financial markets. These factors can be broadly classified into technical, human, and economic categories.
 
 **Technical Barriers**
 

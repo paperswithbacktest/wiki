@@ -84,7 +84,7 @@ The alternative uptick rule changed how traders use upticks. Now, traders have t
 
 Financial investment strategies are influenced by various market signals, with "upticks" being one of the pivotal indicators. An uptick signifies a trade executed at a higher price than the previous one, offering insights into market sentiment and guiding investment strategies across a range of financial instruments, including stocks and bonds.
 
-Uptick trends impact investment decisions by reflecting investor confidence or concern. Analyzing uptick patterns allows investors to gauge momentum, determining whether a security is experiencing sustained buying interest. For instance, consistent upticks in a stock may suggest positive sentiment and potential for price appreciation. Conversely, a lack of upticks might indicate dwindling interest or potential downturns.
+Uptick trends impact investment decisions by reflecting investor confidence or concern. Analyzing uptick patterns allows investors to gauge [momentum](/wiki/momentum), determining whether a security is experiencing sustained buying interest. For instance, consistent upticks in a stock may suggest positive sentiment and potential for price appreciation. Conversely, a lack of upticks might indicate dwindling interest or potential downturns.
 
 Traditional investment strategies involving upticks often rely on technical analysis, where traders study price charts and trading volumes to predict future movements. Moving averages, support and resistance levels, and momentum indicators are commonly used tools. A Moving Average (MA) strategy might involve buying a stock when its price shows an uptick crossing above the MA line, signifying a potential bullish trend:
 

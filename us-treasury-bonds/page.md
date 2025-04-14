@@ -34,7 +34,7 @@ If you prefer, you can also buy Treasury Bonds through a bank or a broker. Banks
 
 ## What are the risks associated with U.S. Treasury Bonds?
 
-While U.S. Treasury Bonds are considered very safe, there are still some risks to think about. One risk is interest rate risk. If interest rates go up after you buy a bond, the value of your bond might go down. This is because new bonds will be issued with higher interest rates, making your bond less attractive to other investors. If you need to sell your bond before it matures, you might get less money than you paid for it.
+While U.S. Treasury Bonds are considered very safe, there are still some risks to think about. One risk is [interest rate](/wiki/interest-rate-trading-strategies) risk. If interest rates go up after you buy a bond, the value of your bond might go down. This is because new bonds will be issued with higher interest rates, making your bond less attractive to other investors. If you need to sell your bond before it matures, you might get less money than you paid for it.
 
 Another risk is inflation risk. Inflation means the prices of things go up over time. If inflation goes up a lot, the interest you get from your bond might not be enough to keep up with the rising prices. This means the money you get back might not be worth as much as you thought it would be. So, even though Treasury Bonds are safe, you need to think about how inflation might affect your investment.
 

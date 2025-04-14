@@ -76,7 +76,7 @@ Another method is called regression analysis. This is a way to look at past data
 
 ## How do multi-factor models enhance the analysis of portfolio returns?
 
-Multi-factor models help you understand what makes your portfolio go up or down by looking at different things that can affect it. These models look at things like how the whole market is doing, how big or small companies are doing, and even how much risk you're taking. By breaking down your returns into these different pieces, you can see which factors are helping your portfolio and which ones might be hurting it. This can be really useful if you want to make your portfolio do better, because you can focus on the factors that matter most.
+Multi-[factor](/wiki/factor-investing) models help you understand what makes your portfolio go up or down by looking at different things that can affect it. These models look at things like how the whole market is doing, how big or small companies are doing, and even how much risk you're taking. By breaking down your returns into these different pieces, you can see which factors are helping your portfolio and which ones might be hurting it. This can be really useful if you want to make your portfolio do better, because you can focus on the factors that matter most.
 
 For example, if you find out that your portfolio does well when small companies do well, you might want to put more money into small company stocks. Or if you see that your portfolio loses money when interest rates go up, you might want to change it so it's less affected by interest rates. Multi-factor models give you a detailed picture of what's going on with your investments, which can help you make smarter choices about where to put your money.
 

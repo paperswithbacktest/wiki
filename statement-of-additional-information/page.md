@@ -34,7 +34,7 @@ On the other hand, the SAI goes into much more detail about the fund. It's like 
 
 ## Where can one find the SAI for a mutual fund or ETF?
 
-You can find the SAI for a mutual fund or ETF on the website of the company that manages the fund. Most fund companies have a section on their website where they list all their important documents, like the prospectus and the SAI. You can usually find these documents by searching for the name of the fund and looking for a link that says something like "Documents" or "Reports."
+You can find the SAI for a mutual fund or [ETF](/wiki/etf-trading-strategies) on the website of the company that manages the fund. Most fund companies have a section on their website where they list all their important documents, like the prospectus and the SAI. You can usually find these documents by searching for the name of the fund and looking for a link that says something like "Documents" or "Reports."
 
 If you can't find the SAI on the fund company's website, you can also look on the website of the U.S. Securities and Exchange Commission (SEC). The SEC has a database called EDGAR where you can search for documents related to any mutual fund or ETF. Just type in the name of the fund, and you should be able to find the SAI along with other important documents.
 

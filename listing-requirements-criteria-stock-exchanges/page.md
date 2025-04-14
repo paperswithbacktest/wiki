@@ -102,7 +102,7 @@ $$
 
 where $P_i$ is the price of the trade and $Q_i$ is the quantity of the trade.
 
-An understanding of these strategies is crucial for traders who wish to leverage algorithmic trading effectively. By tailoring strategies to specific market conditions, traders can maximize profitability and achieve diverse market objectives.
+An understanding of these strategies is crucial for traders who wish to leverage [algorithmic trading](/wiki/algorithmic-trading) effectively. By tailoring strategies to specific market conditions, traders can maximize profitability and achieve diverse market objectives.
 
 ## References & Further Reading
 

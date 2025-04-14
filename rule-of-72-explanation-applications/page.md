@@ -18,7 +18,7 @@ This rule is handy because it's easy to use without a calculator. It works well 
 
 The Rule of 72 is a quick way to figure out how many years it will take for your money to double at a certain interest rate. All you need to do is take the number 72 and divide it by the interest rate you are getting. For example, if your interest rate is 4%, you would divide 72 by 4 to get 18 years. It's a simple trick that helps you see how fast your savings or investments might grow.
 
-This rule is useful because it's easy to do in your head or with a pen and paper, without needing a calculator. It works best for interest rates that are common for things like savings accounts or investments, usually between 2% and 10%. But remember, it's just a rough estimate. The actual time it takes for your money to double might be a little different, especially if the interest rate changes or if there are fees to consider.
+This rule is useful because it's easy to do in your head or with a pen and paper, without needing a calculator. It works best for interest rates that are common for things like savings accounts or investments, usually between 2% and 10%. But remember, it's just a rough estimate. The actual time it takes for your money to double might be a little different, especially if the [interest rate](/wiki/interest-rate-trading-strategies) changes or if there are fees to consider.
 
 ## Why is the number 72 used in the rule?
 
@@ -78,7 +78,7 @@ Over the years, the Rule of 72 became more popular. It was easy to use and helpe
 
 The Rule of 72 works best with compound interest, which is when you earn interest on both your original money and the interest you've already earned. If you have a savings account or an investment that uses compound interest, the Rule of 72 can help you figure out how long it will take for your money to double. For example, if your interest rate is 4%, you divide 72 by 4 and get 18 years. This rule is handy because it's easy to use and gives you a good guess about how your savings will grow over time.
 
-When it comes to simple interest, where you only earn interest on your original amount of money, the Rule of 72 doesn't work as well. Simple interest doesn't grow as fast as compound interest because you're not earning interest on the interest. If you try to use the Rule of 72 with simple interest, it will make it seem like your money will double faster than it really will. So, if you're dealing with simple interest, it's better to use a different way to figure out how your money will grow.
+When it comes to simple interest, where you only earn interest on your original amount of money, the Rule of 72 doesn't work as well. Simple interest doesn't grow as fast as compound interest because you're not [earning](/wiki/earning-announcement) interest on the interest. If you try to use the Rule of 72 with simple interest, it will make it seem like your money will double faster than it really will. So, if you're dealing with simple interest, it's better to use a different way to figure out how your money will grow.
 
 ## What is the Rule of 72 and how does it work?
 

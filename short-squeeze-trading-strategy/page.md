@@ -26,7 +26,7 @@ You can spot a potential short squeeze by looking at how many shares are being s
 
 Another key indicator is the stock's price movement. If the stock starts to go up quickly, it can make short sellers nervous. They might start buying back shares to avoid bigger losses, which pushes the price up even more. Also, keep an eye on any news or events that could make the stock's price go up. If there's good news, it can trigger a short squeeze because short sellers will rush to cover their positions.
 
-Lastly, trading volume is important. If there's a sudden increase in the number of shares being traded, it could mean that short sellers are starting to cover their positions. High trading volume, combined with a rising stock price, is a strong sign that a short squeeze might be happening.
+Lastly, trading [volume](/wiki/volume-trading-strategy) is important. If there's a sudden increase in the number of shares being traded, it could mean that short sellers are starting to cover their positions. High trading volume, combined with a rising stock price, is a strong sign that a short squeeze might be happening.
 
 ## Can you explain the mechanics of short selling?
 

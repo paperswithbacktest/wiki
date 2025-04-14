@@ -82,11 +82,11 @@ Another way to prevent overfitting is by setting limits on how the tree grows. Y
 
 One advanced technique for optimizing decision tree performance is using ensemble methods like Random Forests and Boosting. Random Forests work by making lots of decision trees and then combining their results to make a better guess. Each tree in a Random Forest looks at different parts of the data, which helps to avoid overfitting and makes the final decision more reliable. Boosting, on the other hand, builds trees one after another, with each new tree trying to fix the mistakes made by the last one. This way, Boosting can slowly improve the accuracy of the decision tree, making it better at sorting things into the right groups or predicting the right numbers.
 
-Another technique is feature selection and engineering. This means picking the best questions to ask in the decision tree or creating new questions from the data you have. By choosing the most important features, you can make the tree simpler and more focused on what really matters. Feature engineering lets you come up with new ways to look at the data, which can help the tree find patterns and make better decisions. Both of these techniques help to make the decision tree more accurate and useful, especially when dealing with complicated data or big decisions.
+Another technique is feature selection and engineering. This means [picking](/wiki/asset-class-picking) the best questions to ask in the decision tree or creating new questions from the data you have. By choosing the most important features, you can make the tree simpler and more focused on what really matters. Feature engineering lets you come up with new ways to look at the data, which can help the tree find patterns and make better decisions. Both of these techniques help to make the decision tree more accurate and useful, especially when dealing with complicated data or big decisions.
 
 ## How can decision trees be enhanced with ensemble methods?
 
-Ensemble methods are advanced techniques employed to enhance the predictive power of decision trees by combining the strengths of multiple models. These methods address some of the inherent shortcomings of single decision trees, such as overfitting and bias, making them more robust for algorithmic trading.
+Ensemble methods are advanced techniques employed to enhance the predictive power of decision trees by combining the strengths of multiple models. These methods address some of the inherent shortcomings of single decision trees, such as overfitting and bias, making them more robust for [algorithmic trading](/wiki/algorithmic-trading).
 
 ### Random Forests
 
@@ -133,7 +133,7 @@ By leveraging ensemble methods, traders can significantly improve their algorith
 
 ## References & Further Reading
 
-Bergstra, J. et al. (2011). 'Algorithms for Hyper-Parameter Optimization.' Advances in Neural Information Processing Systems 24: This paper discusses methods for optimizing hyperparameters, which are crucial for improving model performance in machine learning, including decision trees and their ensemble variants used in algorithmic trading.
+Bergstra, J. et al. (2011). 'Algorithms for Hyper-Parameter Optimization.' Advances in Neural Information Processing Systems 24: This paper discusses methods for optimizing hyperparameters, which are crucial for improving model performance in [machine learning](/wiki/machine-learning), including decision trees and their ensemble variants used in algorithmic trading.
 
 Lopez de Prado, Marcos. 'Advances in Financial Machine Learning': This book provides a comprehensive exploration of machine learning techniques applied to finance, with an emphasis on predictive models and signal processing, which are pertinent for enhancing algorithmic trading systems utilizing decision trees.
 

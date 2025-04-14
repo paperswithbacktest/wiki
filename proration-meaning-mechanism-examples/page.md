@@ -146,7 +146,7 @@ The foundational principle of pro rata calculations is their capacity to maintai
 
 ## How can Proration be Combined with Algorithmic Trading?
 
-Integrating proration principles into algorithmic trading systems offers traders enhanced precision in resource allocation and capital distribution. Algorithmic trading, known for its speed and efficiency, can significantly benefit from the methodical and equitable approach of proration. By employing pro rata methods, algo trading ensures investments are allocated equitably in accordance with predetermined strategic objectives.
+Integrating proration principles into [algorithmic trading](/wiki/algorithmic-trading) systems offers traders enhanced precision in resource allocation and capital distribution. Algorithmic trading, known for its speed and efficiency, can significantly benefit from the methodical and equitable approach of proration. By employing pro rata methods, algo trading ensures investments are allocated equitably in accordance with predetermined strategic objectives.
 
 Pro rata calculations play a crucial role in dynamic portfolio rebalancing, a scenario where maintaining optimal asset proportions is essential despite market [volatility](/wiki/volatility-trading-strategies). For instance, suppose an investor aims to maintain a balanced portfolio consisting of 50% stocks and 50% bonds. Due to fluctuating market conditions, the value of stocks may increase, upsetting the equilibrium. A prorated adjustment would calculate the proportions needed to restore balance:
 

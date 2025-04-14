@@ -34,7 +34,7 @@ To find out your margin of safety in dollars, you subtract the sales needed to b
 
 ## What are the key factors that affect the margin of safety?
 
-The margin of safety in a business can be affected by many things. One big factor is how much you sell compared to what you need to break even. If you sell a lot more than you need to, your margin of safety is bigger. Another factor is your costs. If your costs go up, like if the price of ingredients goes up, you need to sell more to keep the same margin of safety. Also, if you can make your business more efficient, like by finding cheaper suppliers or making things faster, you can increase your margin of safety.
+The margin of safety in a business can be affected by many things. One big [factor](/wiki/factor-investing) is how much you sell compared to what you need to break even. If you sell a lot more than you need to, your margin of safety is bigger. Another factor is your costs. If your costs go up, like if the price of ingredients goes up, you need to sell more to keep the same margin of safety. Also, if you can make your business more efficient, like by finding cheaper suppliers or making things faster, you can increase your margin of safety.
 
 In investing, the margin of safety depends on how well you can guess the true value of what you're buying. If you think a stock is worth $100 but you can buy it for $70, your margin of safety is $30. But if you're wrong about the true value, your margin of safety can change. Things like the company's earnings, how much debt it has, and what's happening in the market can all affect the true value and your margin of safety. So, it's important to do a lot of research and be careful with your guesses.
 
@@ -102,7 +102,7 @@ $$
 \text{Margin of Safety} = \frac{100 - 70}{100} \times 100\% = 30\%
 $$
 
-This indicates a 30% buffer, suggesting that even if the intrinsic value estimate is off by 30%, the investor might still avoid a loss. Such a margin provides resilience against various risks, including market volatility and incorrect valuations, thus ensuring a prudent investment approach.
+This indicates a 30% buffer, suggesting that even if the intrinsic value estimate is off by 30%, the investor might still avoid a loss. Such a margin provides resilience against various risks, including market [volatility](/wiki/volatility-trading-strategies) and incorrect valuations, thus ensuring a prudent investment approach.
 
 ## What is the role of financial analysis in determining the margin of safety?
 

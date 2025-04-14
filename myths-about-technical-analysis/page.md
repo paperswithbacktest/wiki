@@ -28,7 +28,7 @@ Even though technical analysis is a popular tool, it's not perfect. Sometimes th
 
 ## Do all technical indicators work equally well across different markets?
 
-No, not all technical indicators work the same way in different markets. Each market, like stocks, forex, or cryptocurrencies, has its own special way of moving and reacting. Some indicators might work really well in the stock market but not as good in the forex market. This is because different markets can have different things that affect their prices, like how much people trade or big news events.
+No, not all technical indicators work the same way in different markets. Each market, like stocks, [forex](/wiki/forex-system), or cryptocurrencies, has its own special way of moving and reacting. Some indicators might work really well in the stock market but not as good in the forex market. This is because different markets can have different things that affect their prices, like how much people trade or big news events.
 
 For example, a moving average might be useful in the stock market to see trends over time, but in the fast-moving crypto market, it might not catch quick changes. Also, some markets can be more influenced by emotions and news, which can make some indicators less reliable. So, people who use technical analysis often need to try different indicators and see which ones work best for the market they are looking at.
 

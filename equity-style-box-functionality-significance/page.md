@@ -36,7 +36,7 @@ The style part tells you if a stock is a value stock, a growth stock, or a blend
 
 ## What is the difference between value and growth stocks in the context of the Equity Style Box?
 
-In the Equity Style Box, value stocks and growth stocks are two different styles of investing. Value stocks are thought to be underpriced compared to what they're really worth. It's like finding a good deal at a store. Investors who like value stocks are looking for companies that they believe the market has overlooked or undervalued. They hope that over time, the market will recognize the true value of these companies, and their stock prices will go up.
+In the Equity Style Box, value stocks and [growth stocks](/wiki/growth-stocks) are two different styles of investing. Value stocks are thought to be underpriced compared to what they're really worth. It's like finding a good deal at a store. Investors who like value stocks are looking for companies that they believe the market has overlooked or undervalued. They hope that over time, the market will recognize the true value of these companies, and their stock prices will go up.
 
 On the other hand, growth stocks are expected to grow faster than other stocks. They're like young trees that are going to get big quickly. Investors who choose growth stocks are betting on the future success of these companies. They're willing to pay more for the stock now because they believe the company will earn a lot more money in the future, which will make the stock price go up. In the Equity Style Box, these two styles help investors see at a glance if a stock matches their investment goals and how much risk they're comfortable with.
 
@@ -80,7 +80,7 @@ Other data points that can be integrated include volatility measures like beta, 
 
 The Equity Style Box has changed a lot since people started using numbers and computers more in investing, a thing called quantitative investing. Before, people mostly used the box to sort stocks by size and style, like big or small, value or growth. But now, with computers, investors can look at tons of data fast. They can add things like how risky a stock is, or how much it costs to buy and sell, right into the box. This helps them see a fuller picture of a stock, not just where it fits in the box.
 
-Also, with AI, or artificial intelligence, the Equity Style Box has gotten even smarter. AI can find patterns in data that people might miss. It can help predict how stocks might move in the future. So, instead of just looking at where a stock is now in the box, investors can use AI to guess where it might go. This makes the box a more powerful tool for picking stocks and building a good mix of investments that match what they want and how much risk they're okay with taking.
+Also, with AI, or [artificial intelligence](/wiki/ai-artificial-intelligence), the Equity Style Box has gotten even smarter. AI can find patterns in data that people might miss. It can help predict how stocks might move in the future. So, instead of just looking at where a stock is now in the box, investors can use AI to guess where it might go. This makes the box a more powerful tool for [picking](/wiki/asset-class-picking) stocks and building a good mix of investments that match what they want and how much risk they're okay with taking.
 
 ## What is an In-Depth Financial Analysis with an Equity Style Box?
 

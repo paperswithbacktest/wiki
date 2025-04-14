@@ -19,7 +19,7 @@ Unigrams, bigrams, and trigrams are all types of n-grams used in natural languag
 
 Bigrams, on the other hand, are sequences of two adjacent words or tokens. Using the same example sentence, the bigrams are "I love," "love machine," and "machine learning." Bigrams help capture some context and can improve the performance of language models by considering the relationship between two consecutive words. The probability of a bigram can be calculated using the formula $$P(w_i|w_{i-1}) = \frac{Count(w_{i-1}, w_i)}{Count(w_{i-1})}$$.
 
-Trigrams take this a step further by considering sequences of three adjacent words or tokens. For the sentence "I love machine learning," the trigrams would be "I love machine" and "love machine learning." Trigrams provide even more context than bigrams, which can be beneficial for more complex language modeling tasks. However, as the size of the n-gram increases, the data sparsity problem becomes more significant, meaning there might be fewer instances of each trigram in the training data, which can affect the model's performance.
+Trigrams take this a step further by considering sequences of three adjacent words or tokens. For the sentence "I love [machine learning](/wiki/machine-learning)," the trigrams would be "I love machine" and "love machine learning." Trigrams provide even more context than bigrams, which can be beneficial for more complex language modeling tasks. However, as the size of the n-gram increases, the data sparsity problem becomes more significant, meaning there might be fewer instances of each trigram in the training data, which can affect the model's performance.
 
 ## What are the common applications of bigrams in natural language processing?
 

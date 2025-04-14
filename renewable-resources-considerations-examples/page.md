@@ -44,7 +44,7 @@ Another benefit is that renewable resources don't run out. Oil and coal will be 
 
 When we start using renewable resources like solar, wind, and water power, it can save us money over time. At first, it might cost a lot to set up things like solar panels or wind turbines. But once they're set up, the energy they make is almost free. We don't have to keep buying oil or coal, which can get more expensive as they run out. Also, renewable energy can create new jobs for people who build and take care of these systems. This can help the economy grow and give more people work.
 
-But there are some challenges too. The technology for renewable energy can be expensive to start with, and not everyone can afford it right away. Some places might need to build new power lines to carry the energy from where it's made to where it's used. This can also cost a lot of money. Governments and companies need to think about how to help pay for these costs so more people can use renewable energy. In the end, though, using renewable resources can be good for the economy because it saves money and creates jobs.
+But there are some challenges too. The technology for renewable energy can be expensive to start with, and not everyone can afford it right away. Some places might need to build new power lines to [carry](/wiki/carry-trading) the energy from where it's made to where it's used. This can also cost a lot of money. Governments and companies need to think about how to help pay for these costs so more people can use renewable energy. In the end, though, using renewable resources can be good for the economy because it saves money and creates jobs.
 
 ## How can renewable resources be integrated into daily life?
 

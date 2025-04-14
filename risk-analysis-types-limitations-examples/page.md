@@ -24,7 +24,7 @@ Another reason risk analysis is important is that it helps save time and money. 
 
 There are three main types of risk analysis: qualitative, quantitative, and semi-quantitative. Qualitative risk analysis is about looking at risks without using numbers. It involves talking about risks and deciding which ones are more important based on how bad they could be and how likely they are to happen. It's like saying "this risk is more dangerous than that one" without using exact numbers. This type of analysis is good when you don't have a lot of data or when you just need a quick overview of the risks.
 
-Quantitative risk analysis, on the other hand, uses numbers and data to understand risks. It involves using math and statistics to figure out how likely a risk is to happen and how much it could cost if it does. This type of analysis is more detailed and can give you a clear picture of the risks. It's useful when you have a lot of data and need to make precise decisions, like in big projects or financial planning.
+Quantitative risk analysis, on the other hand, uses numbers and data to understand risks. It involves using math and [statistics](/wiki/bayesian-statistics) to figure out how likely a risk is to happen and how much it could cost if it does. This type of analysis is more detailed and can give you a clear picture of the risks. It's useful when you have a lot of data and need to make precise decisions, like in big projects or financial planning.
 
 Semi-quantitative risk analysis is a mix of the two. It uses some numbers and some talking to understand risks. It's not as detailed as quantitative analysis, but it's more detailed than qualitative analysis. This type of analysis is good when you have some data but not enough for a full quantitative analysis. It helps you get a better understanding of the risks without needing a lot of detailed information.
 
@@ -86,7 +86,7 @@ Once the risks are understood, experts use the information from the risk analysi
 
 ## What are the limitations of risk analysis in algorithmic trading?
 
-Risk analysis in algorithmic trading heavily depends on historical data to create predictive models; however, this reliance can be problematic when predicting unprecedented market conditions. Historical data provides insights into past behaviors, but financial markets are influenced by myriad factors that may not have occurred before, posing significant challenges to risk prediction models. 
+Risk analysis in [algorithmic trading](/wiki/algorithmic-trading) heavily depends on historical data to create predictive models; however, this reliance can be problematic when predicting unprecedented market conditions. Historical data provides insights into past behaviors, but financial markets are influenced by myriad factors that may not have occurred before, posing significant challenges to risk prediction models. 
 
 Models designed for risk analysis often struggle to accurately gauge the likelihood and impact of high-consequence, low-probability events, commonly known as black swan events. These unpredictable occurrences can have drastic effects on markets, as seen during events like the 2008 financial crisis. Standard risk models typically assume normal market conditions, often failing to include extreme outliers. For example, models might use a normal distribution to assess risk, which inherently downplays the probability of tail events:
 

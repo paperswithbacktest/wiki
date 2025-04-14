@@ -78,7 +78,7 @@ It's important to be careful when looking at negative correlations and not jump 
 
 One advanced technique to explore negative correlation in complex datasets is regression analysis. This method helps us understand how one thing affects another by looking at many factors at the same time. For example, if we want to see how playing video games affects test scores, regression analysis can consider other things like study time and homework help. This way, we get a clearer picture of the relationship between video games and test scores, and we can see if the negative correlation holds up even when we account for other factors. It's like looking at a puzzle from different angles to understand how all the pieces fit together.
 
-Another technique is using machine learning algorithms, like random forests or neural networks. These methods can find patterns in big and complicated datasets that might be hard to see otherwise. They can help us see if the negative correlation we notice is strong and reliable, even when there are many other things going on in the data. For instance, if we're studying the relationship between exercise and blood pressure, machine learning can look at lots of different people and their habits to see if the pattern of more exercise leading to lower blood pressure is true for everyone. These advanced techniques help us dig deeper into the data and understand negative correlations better.
+Another technique is using [machine learning](/wiki/machine-learning) algorithms, like random forests or neural networks. These methods can find patterns in big and complicated datasets that might be hard to see otherwise. They can help us see if the negative correlation we notice is strong and reliable, even when there are many other things going on in the data. For instance, if we're studying the relationship between exercise and blood pressure, machine learning can look at lots of different people and their habits to see if the pattern of more exercise leading to lower blood pressure is true for everyone. These advanced techniques help us dig deeper into the data and understand negative correlations better.
 
 ## What is Understanding Negative Correlation?
 
@@ -126,7 +126,7 @@ In finance and trading, understanding the correlation between assets can aid in 
    A practical guide to the world of [quantitative trading](/wiki/quantitative-trading), Ernest P. Chan explores the mechanics of building automated trading systems, emphasizing the importance of understanding correlations in developing effective trading strategies.
 
 4. **"Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies" by Barry Johnson**  
-   Johnson’s work provides insights into algorithmic trading methods and the strategic use of negative correlations for risk management and portfolio optimization.
+   Johnson’s work provides insights into [algorithmic trading](/wiki/algorithmic-trading) methods and the strategic use of negative correlations for risk management and portfolio optimization.
 
 5. **"Statistical Inference" by George Casella and Roger L. Berger**  
    This textbook offers a deep dive into statistical methodologies, including correlation analysis, providing foundational knowledge critical for analyzing and interpreting variable relationships.

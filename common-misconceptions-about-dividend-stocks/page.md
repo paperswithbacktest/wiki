@@ -22,7 +22,7 @@ It's also important to know that not all companies pay dividends. Some companies
 
 ## Are dividend stocks less risky than growth stocks?
 
-Dividend stocks are often seen as less risky than growth stocks because they give you regular money. This can make your investment feel safer since you get some money back even if the stock price goes down a bit. Companies that pay dividends usually have steady businesses and make enough money to share it with shareholders. This can make investors feel more secure because these companies are less likely to have big surprises.
+Dividend stocks are often seen as less risky than [growth stocks](/wiki/growth-stocks) because they give you regular money. This can make your investment feel safer since you get some money back even if the stock price goes down a bit. Companies that pay dividends usually have steady businesses and make enough money to share it with shareholders. This can make investors feel more secure because these companies are less likely to have big surprises.
 
 But, dividend stocks are not always less risky. If a company runs into money problems, it might cut or stop its dividends. This can make the stock price drop a lot, which is risky. Growth stocks, on the other hand, don't pay dividends but can grow a lot if the company does well. They can be riskier because their prices can go up and down a lot, but they also have the chance to make more money if the company grows fast. So, it depends on what you think is more important: getting regular money or the chance for big growth.
 

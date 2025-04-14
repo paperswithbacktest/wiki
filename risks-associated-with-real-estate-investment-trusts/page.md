@@ -40,7 +40,7 @@ In summary, while REITs can offer good income and a way to invest in real estate
 
 Interest rate risk can have a big impact on REITs. When interest rates go up, it becomes more expensive for REITs to borrow money. Many REITs use loans to buy or develop properties, so higher interest rates mean they have to pay more in interest, which can reduce their profits. Also, when interest rates rise, other investments like bonds might start to look more attractive to investors because they offer higher returns. This can make people sell their REIT shares, which can cause the price of the REIT to go down.
 
-On the flip side, when interest rates go down, it can be good for REITs. Lower interest rates mean cheaper borrowing costs, which can help REITs make more money from their properties. But, it's not always simple. If interest rates are very low for a long time, it might mean the economy is not doing well, which can hurt the real estate market and the income REITs make from rents. So, interest rate changes can have both good and bad effects on REITs, depending on the situation.
+On the flip side, when interest rates go down, it can be good for REITs. Lower interest rates mean cheaper borrowing costs, which can help REITs make more money from their properties. But, it's not always simple. If interest rates are very low for a long time, it might mean the economy is not doing well, which can hurt the real estate market and the income REITs make from rents. So, [interest rate](/wiki/interest-rate-trading-strategies) changes can have both good and bad effects on REITs, depending on the situation.
 
 ## What is the impact of market risk on REITs?
 

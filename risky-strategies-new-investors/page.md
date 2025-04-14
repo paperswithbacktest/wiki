@@ -42,7 +42,7 @@ The main reason penny stocks are risky is because they are not traded on big, we
 
 ## How does investing in cryptocurrencies pose risks for beginners?
 
-Investing in cryptocurrencies can be very risky for beginners because the prices can go up and down a lot in a short time. This is called high volatility. For example, the price of a cryptocurrency like Bitcoin can change a lot in just one day. This means you could make a lot of money if the price goes up, but you could also lose a lot if the price goes down. Beginners might not know how to handle these big changes and could end up losing money they can't afford to lose.
+Investing in cryptocurrencies can be very risky for beginners because the prices can go up and down a lot in a short time. This is called high volatility. For example, the price of a [cryptocurrency](/wiki/cryptocurrency) like Bitcoin can change a lot in just one day. This means you could make a lot of money if the price goes up, but you could also lose a lot if the price goes down. Beginners might not know how to handle these big changes and could end up losing money they can't afford to lose.
 
 Another risk is that cryptocurrencies are not backed by any government or bank. This means there's no one to help you if something goes wrong. Also, there are a lot of scams in the world of cryptocurrencies. Some people might try to trick you into buying fake cryptocurrencies or investing in projects that don't exist. It's hard for beginners to tell the difference between a good investment and a scam. So, it's important to do a lot of research and be very careful before investing in cryptocurrencies.
 

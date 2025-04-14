@@ -18,7 +18,7 @@ The company was started by a man named James Koutoulas. He and his team look at 
 
 Parallax Volatility Advisers was founded in 2014. The company was started by James Koutoulas, who wanted to help people and big investors manage their money better, especially when the market was going up and down a lot.
 
-They focus on something called "volatility," which is about how much prices can change quickly. Parallax uses special strategies and computers to make decisions about where to invest money. They work with big investors like pension funds and insurance companies to help them reach their financial goals.
+They focus on something called "[volatility](/wiki/volatility-trading-strategies)," which is about how much prices can change quickly. Parallax uses special strategies and computers to make decisions about where to invest money. They work with big investors like pension funds and insurance companies to help them reach their financial goals.
 
 ## Who are the founders of Parallax Volatility Advisers?
 

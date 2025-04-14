@@ -111,7 +111,7 @@ $$
    Credit ratings, assigned by agencies such as Moody's, Fitch, and Standard & Poor's, assess the creditworthiness of bond issuers. For foreign issuers in Canada, a high credit rating can result in lower borrowing costs, making it more attractive to issue Maple Bonds. Canadian investors, in turn, are likely to demand higher yields for bonds with lower ratings to compensate for the additional credit risk.
 
 3. **Market Conditions:**
-   Global economic conditions, along with local developments in the Canadian economy, influence the bond market. Canada's economic stability, regulatory environment, and growth prospects play a crucial role in increasing the attractiveness of its bond market to foreign issuers. During periods of market volatility, Maple Bonds offer a stable alternative due to Canada's solid economic fundamentals.
+   Global economic conditions, along with local developments in the Canadian economy, influence the bond market. Canada's economic stability, regulatory environment, and growth prospects play a crucial role in increasing the attractiveness of its bond market to foreign issuers. During periods of market [volatility](/wiki/volatility-trading-strategies), Maple Bonds offer a stable alternative due to Canada's solid economic fundamentals.
 
 The demand for Canadian foreign bonds and Maple Bonds is also boosted by Canada's consistent AAA credit rating, indicating a healthy economic outlook and low political risk. The steady flow of foreign entities opting to list in Canadian markets showcases the confidence in Canada's economic regime.
 

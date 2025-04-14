@@ -18,7 +18,7 @@ APs also help when investors want to cash out their ETF shares. If someone wants
 
 The main job of an Authorized Participant (AP) in the financial market is to help create and manage exchange-traded funds (ETFs). An AP, usually a big bank or investment company, works with ETFs to gather the right mix of stocks or bonds. This mix is called a "creation unit." The AP gives this creation unit to the ETF, and in return, the ETF gives the AP new ETF shares. The AP can then sell these shares to investors. This process helps the ETF start or grow.
 
-APs also play a key role when investors want to cash out their ETF shares. If someone wants to sell a lot of ETF shares, the AP can take those shares back to the ETF. The ETF then gives the AP the equivalent value in stocks or bonds, a process known as "redemption." By doing this, APs help keep the ETF's price close to the value of its underlying assets. This keeps the ETF working smoothly in the market and ensures it stays a reliable investment option for people.
+APs also play a key role when investors want to cash out their [ETF](/wiki/etf-trading-strategies) shares. If someone wants to sell a lot of ETF shares, the AP can take those shares back to the ETF. The ETF then gives the AP the equivalent value in stocks or bonds, a process known as "redemption." By doing this, APs help keep the ETF's price close to the value of its underlying assets. This keeps the ETF working smoothly in the market and ensures it stays a reliable investment option for people.
 
 ## How does an Authorized Participant interact with Exchange-Traded Funds (ETFs)?
 
@@ -76,13 +76,13 @@ These rules help keep the market fair and safe for everyone. They make sure that
 
 ## What advanced strategies can Authorized Participants use to optimize their role in the ETF ecosystem?
 
-Authorized Participants (APs) can use smart trading strategies to make more money and help ETFs work better. One way they can do this is by using arbitrage. When they see that an ETF's price is a bit higher than the value of the stocks or bonds it holds, they can create new ETF shares and sell them at the higher price. This helps bring the ETF's price back down to where it should be. If the ETF's price is too low, they can buy up the shares, take them back to the ETF, and get the stocks or bonds in return. Then, they can sell those stocks or bonds at a higher price. This helps push the ETF's price back up. By doing this, APs can make money from small price differences and help keep the ETF's price in line with its value.
+Authorized Participants (APs) can use smart trading strategies to make more money and help ETFs work better. One way they can do this is by using [arbitrage](/wiki/arbitrage). When they see that an ETF's price is a bit higher than the value of the stocks or bonds it holds, they can create new ETF shares and sell them at the higher price. This helps bring the ETF's price back down to where it should be. If the ETF's price is too low, they can buy up the shares, take them back to the ETF, and get the stocks or bonds in return. Then, they can sell those stocks or bonds at a higher price. This helps push the ETF's price back up. By doing this, APs can make money from small price differences and help keep the ETF's price in line with its value.
 
 APs can also use technology to make their job easier and faster. They can use special computer programs to watch the market and see when it's a good time to create or redeem ETF shares. These programs can help them make quick decisions and handle big trades without making mistakes. By using technology, APs can do their job better and help keep the market running smoothly. This can also help them build strong relationships with ETF providers and other people in the market, which can lead to more business opportunities.
 
 ## What is the mechanism of authorized participants in ETF markets?
 
-Authorized participants (APs) play a critical role in the functioning of the exchange-traded fund (ETF) markets by managing the creation and redemption of ETF shares. This mechanism is central to keeping the market prices of ETFs aligned with the net asset value (NAV) of their underlying assets, thereby ensuring market efficiency and liquidity. 
+Authorized participants (APs) play a critical role in the functioning of the exchange-traded fund (ETF) markets by managing the creation and redemption of ETF shares. This mechanism is central to keeping the market prices of ETFs aligned with the net asset value (NAV) of their underlying assets, thereby ensuring market efficiency and [liquidity](/wiki/liquidity-risk-premium). 
 
 ### Creation and Redemption Process
 

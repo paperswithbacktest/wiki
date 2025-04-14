@@ -30,7 +30,7 @@ Even in places where cannabis is legal, there are still many rules that companie
 
 Investing in cannabis companies can be risky because these businesses often don't make money right away. They might spend a lot of money to start up and grow, but it can take a long time before they start making a profit. This means that if you invest in them, you might not see any money back for a while, and there's a chance you could lose your investment if the company fails before it becomes profitable.
 
-Another financial risk is that the value of cannabis stocks can go up and down a lot. This is called volatility. Because the cannabis industry is new and the laws can change, the price of the stocks can change quickly. If you need to sell your stocks and their value has gone down, you could lose money. This makes investing in cannabis more risky than investing in more stable industries.
+Another financial risk is that the value of cannabis stocks can go up and down a lot. This is called [volatility](/wiki/volatility-trading-strategies). Because the cannabis industry is new and the laws can change, the price of the stocks can change quickly. If you need to sell your stocks and their value has gone down, you could lose money. This makes investing in cannabis more risky than investing in more stable industries.
 
 ## How can market volatility affect cannabis investments?
 

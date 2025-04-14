@@ -60,7 +60,7 @@ Another risk is waiting for a breakout that doesn't happen. Sometimes, traders t
 
 ## How does volume analysis help in understanding a sideways trend?
 
-Volume analysis can help traders understand a sideways trend by showing how many people are buying and selling. When the price is moving sideways, if the volume is low, it means not many people are trading. This can tell traders that the market is calm and no one is sure what will happen next. It's like when you're in a quiet room and no one is making a big move; it shows that everyone is waiting to see what will happen.
+Volume analysis can help traders understand a sideways trend by showing how many people are buying and selling. When the price is moving sideways, if the [volume](/wiki/volume-trading-strategy) is low, it means not many people are trading. This can tell traders that the market is calm and no one is sure what will happen next. It's like when you're in a quiet room and no one is making a big move; it shows that everyone is waiting to see what will happen.
 
 On the other hand, if the volume starts to increase while the price is still moving sideways, it might mean that a change is coming. More people trading can be a sign that the price might soon break out of the range. It's like when you see more people coming into a room and getting ready to move; it might mean something big is about to happen. By watching the volume, traders can get a better idea of whether the sideways trend will continue or if it's about to change.
 
@@ -88,7 +88,7 @@ Analyzing sideways markets effectively requires traders to employ a variety of t
 
 **Moving Averages**
 
-Moving averages are widely used to smooth out price data, providing a clearer picture of the market trend. In the context of sideways markets, simple moving averages (SMAs) or exponential moving averages (EMAs) can help traders identify periods of potential volatility. For instance, a crossover between short-term and long-term moving averages might signal an imminent breakout or breakdown. The moving average is calculated as follows:
+Moving averages are widely used to smooth out price data, providing a clearer picture of the market trend. In the context of sideways markets, simple moving averages (SMAs) or exponential moving averages (EMAs) can help traders identify periods of potential [volatility](/wiki/volatility-trading-strategies). For instance, a crossover between short-term and long-term moving averages might signal an imminent breakout or breakdown. The moving average is calculated as follows:
 
 $$
 \text{SMA} = \frac{P_1 + P_2 + \ldots + P_n}{n}

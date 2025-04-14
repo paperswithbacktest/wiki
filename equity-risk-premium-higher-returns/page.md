@@ -28,7 +28,7 @@ This premium isn't the same for everyone because people have different ideas abo
 
 ## What factors influence the equity risk premium?
 
-The equity risk premium can change because of many things. One big thing is how the economy is doing. When the economy is strong and growing, people might feel safer about investing in stocks, so they might expect a smaller premium for taking on that risk. But if the economy is shaky or going through a tough time, people might want a bigger reward for the risk of investing in stocks, which makes the premium higher. Another factor is interest rates. If interest rates go up, safer investments like government bonds might start giving better returns, so the extra return from stocks might not seem as good, making the equity risk premium smaller.
+The equity risk premium can change because of many things. One big thing is how the economy is doing. When the economy is strong and growing, people might feel safer about investing in stocks, so they might expect a smaller premium for taking on that risk. But if the economy is shaky or going through a tough time, people might want a bigger reward for the risk of investing in stocks, which makes the premium higher. Another [factor](/wiki/factor-investing) is interest rates. If interest rates go up, safer investments like government bonds might start giving better returns, so the extra return from stocks might not seem as good, making the equity risk premium smaller.
 
 Another thing that can change the equity risk premium is how the stock market has been doing lately. If the stock market has been doing really well, people might expect smaller premiums because they feel more confident about future returns. But if the market has been going down or is very unpredictable, people might want a bigger premium to feel okay about taking on the risk. Also, things like inflation and global events can shake up the premium. If inflation is high, the value of money goes down, and people might want a bigger return from stocks to make up for it. And big global events, like political changes or natural disasters, can make the world feel more uncertain, pushing the equity risk premium higher as people look for more reward for the extra risk.
 
@@ -167,7 +167,7 @@ $$
 
 where $E(R_i)$ is the expected return on investment, $R_f$ is the risk-free rate, $\beta_i$ represents the investment’s volatility relative to the market, and $E(R_m)$ corresponds to the expected market return. The ERP here is $E(R_m) - R_f$. By incorporating ERP into this model, a manager can fine-tune asset allocations under different market conditions, effectively managing risk while pursuing optimal returns.
 
-In algorithmic trading, ERP becomes pivotal for refining predictive models. Algorithms apply historical ERP data to forecast future anomalies in stock pricing. For example, a Python-based trading algorithm might use libraries such as Pandas and NumPy for data analysis, incorporating ERP to adjust trade executions dynamically. Here is a simplified Python code snippet demonstrating how ERP might be integrated:
+In [algorithmic trading](/wiki/algorithmic-trading), ERP becomes pivotal for refining predictive models. Algorithms apply historical ERP data to forecast future anomalies in stock pricing. For example, a Python-based trading algorithm might use libraries such as Pandas and NumPy for data analysis, incorporating ERP to adjust trade executions dynamically. Here is a simplified Python code snippet demonstrating how ERP might be integrated:
 
 ```python
 import numpy as np

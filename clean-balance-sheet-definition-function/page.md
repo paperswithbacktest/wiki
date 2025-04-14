@@ -146,7 +146,7 @@ Moreover, contemporary tools, including financial modeling and forecasting, empo
 
 ## How can Balance Sheet Analysis be integrated into Algorithmic Trading?
 
-Incorporating balance sheet analysis into algorithmic trading involves the strategic use of financial metrics to enhance the effectiveness of trading algorithms. Balance sheet analysis provides crucial insights into a company's financial health by examining key metrics such as the current ratio and debt-to-equity ratio. These metrics serve as indicators of liquidity and leverage, respectively, and can be vital in refining trading strategies.
+Incorporating balance sheet analysis into [algorithmic trading](/wiki/algorithmic-trading) involves the strategic use of financial metrics to enhance the effectiveness of trading algorithms. Balance sheet analysis provides crucial insights into a company's financial health by examining key metrics such as the current ratio and debt-to-equity ratio. These metrics serve as indicators of liquidity and leverage, respectively, and can be vital in refining trading strategies.
 
 The current ratio, calculated as:
 
@@ -204,7 +204,7 @@ Through such algorithmic integration, traders can significantly improve trading 
 ## References & Further Reading
 
 1. **'Advances in Financial Machine Learning' by Marcos Lopez de Prado**  
-   This book provides a comprehensive overview of the application of machine learning techniques within finance, offering tools and algorithms that enhance the analysis of financial datasets. Lopez de Prado explores methods crucial to creating sophisticated models that can significantly improve the effectiveness of algorithmic trading strategies, especially when combined with [fundamental analysis](/wiki/fundamental-analysis) such as balance sheet metrics.
+   This book provides a comprehensive overview of the application of [machine learning](/wiki/machine-learning) techniques within finance, offering tools and algorithms that enhance the analysis of financial datasets. Lopez de Prado explores methods crucial to creating sophisticated models that can significantly improve the effectiveness of algorithmic trading strategies, especially when combined with [fundamental analysis](/wiki/fundamental-analysis) such as balance sheet metrics.
 
 2. **'Financial Statement Analysis and Security Valuation' by Stephen H. Penman**  
    Penman's work revolves around the use of financial statement analysis to guide security valuation and investment decision-making. It offers insights into interpreting balance sheet figures and ratios, highlighting their importance in assessing a company's financial health. This foundational knowledge directly supports the integration of balance sheet analysis into algorithmic trading models, facilitating more informed and data-driven market strategies.

@@ -24,7 +24,7 @@ Small-cap ETFs, on the other hand, invest in smaller companies, often those with
 
 Investing in mid-cap ETFs can be a smart choice for many reasons. One big benefit is that they offer a good mix of growth and stability. Mid-sized companies often have more room to grow than big companies, so you might see your money grow faster. But they are also more established than small companies, which means they are usually less risky. This balance makes mid-cap ETFs a good fit for people who want to grow their money but don't want to take big risks.
 
-Another advantage is that mid-cap ETFs let you spread your money across many companies at once. Instead of picking individual stocks, which can be risky if one company does badly, you get a little piece of many companies. This diversification can help protect your money because if one company in the ETF does poorly, the others might do well and balance it out. This makes mid-cap ETFs a safer way to invest in the stock market, especially for people who don't want to spend a lot of time researching individual stocks.
+Another advantage is that mid-cap ETFs let you spread your money across many companies at once. Instead of [picking](/wiki/asset-class-picking) individual stocks, which can be risky if one company does badly, you get a little piece of many companies. This diversification can help protect your money because if one company in the [ETF](/wiki/etf-trading-strategies) does poorly, the others might do well and balance it out. This makes mid-cap ETFs a safer way to invest in the stock market, especially for people who don't want to spend a lot of time researching individual stocks.
 
 ## What are the risks associated with mid-cap ETFs?
 
@@ -60,7 +60,7 @@ This is why looking at the sector breakdown of a mid-cap ETF can help you guess 
 
 When picking a mid-cap ETF to invest in, one of the first things to look at is the expense ratio. This is how much it costs to own the ETF each year, and lower costs can help you keep more of your money over time. Another important thing is the index that the ETF follows. Different ETFs track different indexes, which means they might invest in different mid-sized companies. So, it's good to know what the ETF is investing in and how those companies are doing.
 
-You should also think about the sector breakdown of the ETF. Some ETFs might have more money in certain areas, like technology or healthcare, and this can affect how the ETF does. If you think a certain sector will do well, you might want to pick an ETF that focuses on that area. But remember, it's also smart to spread your money across different sectors to lower your risk. Lastly, consider how easy it is to buy and sell the ETF, which is called liquidity. If you might need to get your money out quickly, you'll want an ETF that's easy to trade.
+You should also think about the sector breakdown of the ETF. Some ETFs might have more money in certain areas, like technology or healthcare, and this can affect how the ETF does. If you think a certain sector will do well, you might want to pick an ETF that focuses on that area. But remember, it's also smart to spread your money across different sectors to lower your risk. Lastly, consider how easy it is to buy and sell the ETF, which is called [liquidity](/wiki/liquidity-risk-premium). If you might need to get your money out quickly, you'll want an ETF that's easy to trade.
 
 ## How do mid-cap ETFs fit into a diversified investment portfolio?
 

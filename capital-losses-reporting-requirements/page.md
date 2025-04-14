@@ -24,7 +24,7 @@ These two outcomes affect your taxes differently. Capital gains can mean you owe
 
 To report a capital loss on your tax return, you first need to gather all the information about the asset you sold, like when you bought it, how much you paid, when you sold it, and how much you sold it for. This information helps you figure out your capital loss. Once you have these details, you need to fill out Form 8949, which is where you list all your sales of stocks, bonds, or other investments. On this form, you'll write down each sale and whether it resulted in a gain or a loss.
 
-After filling out Form 8949, you'll transfer the totals to Schedule D of your tax return. Schedule D is where you add up all your capital gains and losses for the year. If your total losses are more than your total gains, you have a net capital loss. You can use this net capital loss to reduce your taxable income, but there's a limit. You can deduct up to $3,000 of your net capital loss from your income each year. If your loss is more than $3,000, you can carry over the extra amount to future years to use against future income or gains.
+After filling out Form 8949, you'll transfer the totals to Schedule D of your tax return. Schedule D is where you add up all your capital gains and losses for the year. If your total losses are more than your total gains, you have a net capital loss. You can use this net capital loss to reduce your taxable income, but there's a limit. You can deduct up to $3,000 of your net capital loss from your income each year. If your loss is more than $3,000, you can [carry](/wiki/carry-trading) over the extra amount to future years to use against future income or gains.
 
 ## Can capital losses be used to offset capital gains? If so, how?
 

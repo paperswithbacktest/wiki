@@ -90,7 +90,7 @@ A third strategy is to keep improving how the central team talks with the rest o
 
 ## What is the Intersection of Central Purchasing and Algorithmic Trading?
 
-Integrating algorithmic trading models into central purchasing strategies can revolutionize procurement processes by leveraging advanced data analysis and decision-making capabilities. Algorithmic trading, with its basis in financial markets, employs sophisticated algorithms and [artificial intelligence](/wiki/ai-artificial-intelligence) to execute trades with precision and speed. Similarly, in a central purchasing system, these algorithms can be adapted to optimize procurement decisions.
+Integrating [algorithmic trading](/wiki/algorithmic-trading) models into central purchasing strategies can revolutionize procurement processes by leveraging advanced data analysis and decision-making capabilities. Algorithmic trading, with its basis in financial markets, employs sophisticated algorithms and [artificial intelligence](/wiki/ai-artificial-intelligence) to execute trades with precision and speed. Similarly, in a central purchasing system, these algorithms can be adapted to optimize procurement decisions.
 
 The use of algorithms in purchasing allows organizations to achieve a better alignment with market dynamics. By analyzing vast amounts of data in real time, these algorithms can forecast price trends, identify optimal purchasing windows, and find the best suppliers. This capability enhances responsiveness, enabling organizations to react swiftly to volatile market conditions and capitalize on opportunities for cost savings.
 

@@ -18,7 +18,7 @@ This decomposition is really useful in many areas, like solving systems of linea
 
 Cholesky Decomposition is important in linear algebra because it helps solve problems faster and more easily. It works on a special type of matrix called a symmetric, positive-definite matrix. When you use Cholesky Decomposition, you break this matrix into two simpler matrices. One is a lower triangular matrix, and the other is its transpose. This makes it easier to solve equations and do calculations because you're working with simpler pieces.
 
-This method is also more stable than other ways of solving equations. That means you're less likely to get big errors in your answers. Because of this, Cholesky Decomposition is used a lot in areas like computer graphics, machine learning, and statistics. It helps with things like optimizing models, running simulations, and analyzing data. By breaking down a complex matrix into simpler parts, Cholesky Decomposition makes many tasks in linear algebra much more manageable.
+This method is also more stable than other ways of solving equations. That means you're less likely to get big errors in your answers. Because of this, Cholesky Decomposition is used a lot in areas like computer graphics, [machine learning](/wiki/machine-learning), and [statistics](/wiki/bayesian-statistics). It helps with things like optimizing models, running simulations, and analyzing data. By breaking down a complex matrix into simpler parts, Cholesky Decomposition makes many tasks in linear algebra much more manageable.
 
 ## What are the prerequisites for applying Cholesky Decomposition?
 

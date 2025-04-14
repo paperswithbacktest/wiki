@@ -22,7 +22,7 @@ Another thing that affects the call premium is the difference between the stock'
 
 ## What factors influence the price of a call premium?
 
-Several things can change the price of a call premium. One important thing is how much the stock's price might go up or down, which we call volatility. If the stock is expected to move a lot, the call premium will be higher because there's a bigger chance the option will be worth something. Another thing is how long the option lasts before it expires. If the option has more time left, the premium might be higher because there's more time for the stock to move in a good way.
+Several things can change the price of a call premium. One important thing is how much the stock's price might go up or down, which we call [volatility](/wiki/volatility-trading-strategies). If the stock is expected to move a lot, the call premium will be higher because there's a bigger chance the option will be worth something. Another thing is how long the option lasts before it expires. If the option has more time left, the premium might be higher because there's more time for the stock to move in a good way.
 
 The difference between the stock's current price and the price at which you can buy the stock with the option, called the strike price, also matters. If the stock's price is a lot lower than the strike price, the premium will be lower because it's less likely you'll use the option. Interest rates and how much the stock pays in dividends can also affect the premium a little bit. All these things together help decide what the call premium will be.
 

@@ -60,7 +60,7 @@ Knowing the impact level helps people plan their financial moves better. If a hi
 
 ## How can an economic calendar be used to predict market volatility?
 
-An economic calendar can help predict market volatility by showing when big economic events are going to happen. These events, like jobs reports or central bank meetings, can make the market move a lot. If a report is expected to be good or bad, traders might start buying or selling before it comes out, which can make the market go up and down a lot. By looking at the economic calendar, people can see when these high impact events are coming and get ready for the market to be more volatile.
+An economic calendar can help predict market [volatility](/wiki/volatility-trading-strategies) by showing when big economic events are going to happen. These events, like jobs reports or central bank meetings, can make the market move a lot. If a report is expected to be good or bad, traders might start buying or selling before it comes out, which can make the market go up and down a lot. By looking at the economic calendar, people can see when these high impact events are coming and get ready for the market to be more volatile.
 
 For example, if a big jobs report is coming out, traders might expect the market to be more volatile that day. They can plan to buy or sell their investments before the report comes out, hoping to make money from the expected changes. By knowing when these events will happen, traders and investors can be ready for big swings in the market and make better decisions about their money.
 

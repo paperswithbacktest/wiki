@@ -52,7 +52,7 @@ Another pitfall is not considering all the costs that come with the new investme
 
 ## How can a company improve its returns on incremental invested capital?
 
-A company can improve its returns on incremental invested capital by choosing its investments wisely. This means looking closely at different projects and picking the ones that are most likely to make more money. For example, if a company is thinking about buying new machines, it should do a lot of research to see if those machines will help make more products faster or better. By focusing on investments that have a good chance of bringing in more profit, the company can get better returns on the extra money it spends.
+A company can improve its returns on incremental invested capital by choosing its investments wisely. This means looking closely at different projects and [picking](/wiki/asset-class-picking) the ones that are most likely to make more money. For example, if a company is thinking about buying new machines, it should do a lot of research to see if those machines will help make more products faster or better. By focusing on investments that have a good chance of bringing in more profit, the company can get better returns on the extra money it spends.
 
 Another way to improve returns is by making sure the company uses its new investments as well as possible. This could mean training workers to use new machines correctly or making sure new projects are managed carefully. If the company can get the most out of its new investments, it will make more money from them. It's like making sure you use all the features of a new toy so you can have the most fun with it. By being smart about how it uses its new investments, a company can see bigger returns on the money it spends.
 

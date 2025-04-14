@@ -18,7 +18,7 @@ Dangling debits can cause problems because they make the accounting records unba
 
 A dangling debit happens when a business records a debit but forgets to record the matching credit. Imagine a company buys some supplies and records the cost as a debit. If they forget to record that they paid for the supplies with cash or a bank transfer, the debit for the supplies will be left hanging without a matching credit. This can happen because of simple mistakes, like forgetting to enter a transaction, or because someone didn't finish recording all parts of a transaction.
 
-These dangling debits can cause big problems because they mess up the balance in the accounting system. In accounting, every debit needs to have a matching credit to keep things balanced. When there's a dangling debit, the books don't add up correctly, which can make the financial statements wrong. It's important for businesses to check their records often to find and fix any dangling debits so they can keep their financial information accurate and reliable.
+These dangling debits can cause big problems because they mess up the balance in the accounting system. In accounting, every debit needs to have a matching credit to keep things balanced. When there's a dangling debit, the [books](/wiki/algo-trading-books) don't add up correctly, which can make the financial statements wrong. It's important for businesses to check their records often to find and fix any dangling debits so they can keep their financial information accurate and reliable.
 
 ## Can you provide an example of a dangling debit?
 
@@ -94,7 +94,7 @@ Here, the loaned amount is the funds borrowed from the broker, while the collate
 
 Managing and understanding the dynamics of debit balances is crucial for effective risk management, particularly during periods of heightened market [volatility](/wiki/volatility-trading-strategies). A debit balance must be carefully monitored since fluctuations in asset prices can lead to margin calls, where traders must either deposit additional funds or sell off assets to restore balance and meet margin requirements.
 
-In the sphere of algorithmic trading, systems must be equipped to accurately monitor and track debit balances, as they are integral to managing and mitigating financial risks. The algorithms must incorporate real-time data analytics to assess the volatility and possible scenarios that could influence debit balances. This needs to be done with precision to prevent unintended liquidation or adverse financial outcomes.
+In the sphere of [algorithmic trading](/wiki/algorithmic-trading), systems must be equipped to accurately monitor and track debit balances, as they are integral to managing and mitigating financial risks. The algorithms must incorporate real-time data analytics to assess the volatility and possible scenarios that could influence debit balances. This needs to be done with precision to prevent unintended liquidation or adverse financial outcomes.
 
 Algorithmic trading systems can be programmed to recognize triggers that could potentially impact the debit balance, such as sudden market shifts or changes in interest rates. For instance, a simplified Python function to check if a margin call is necessary might look like this:
 

@@ -22,7 +22,7 @@ Vanguard ETFs are similar to other ETFs because they both trade on stock exchang
 
 ## Which Vanguard ETFs pay dividends?
 
-Vanguard has many ETFs that pay dividends. These ETFs usually hold stocks of companies that pay dividends to their shareholders. Some popular ones are the Vanguard Dividend Appreciation ETF (VIG), the Vanguard High Dividend Yield ETF (VYM), and the Vanguard International High Dividend Yield ETF (VYMI). These ETFs collect the dividends from the companies they own and then pass them on to the people who own shares of the ETF.
+Vanguard has many ETFs that pay dividends. These ETFs usually hold stocks of companies that pay dividends to their shareholders. Some popular ones are the Vanguard Dividend Appreciation [ETF](/wiki/etf-trading-strategies) (VIG), the Vanguard High Dividend Yield ETF (VYM), and the Vanguard International High Dividend Yield ETF (VYMI). These ETFs collect the dividends from the companies they own and then pass them on to the people who own shares of the ETF.
 
 The amount of dividends you get from these Vanguard ETFs can change. It depends on how well the companies in the ETF are doing and how much they decide to pay out. If you want to get these dividends, you need to own the ETF before its ex-dividend date. Just like with individual stocks, if you buy the ETF on or after this date, you won't get the next dividend payment.
 
@@ -66,7 +66,7 @@ Another thing that can change the dividend payout is how the stock market is doi
 
 Over the years, the dividend payments from Vanguard ETFs have generally been steady and have grown a bit. ETFs like the Vanguard Dividend Appreciation ETF (VIG) have done well because they pick companies that keep raising their dividends. This means people who own these ETFs get more money over time. The Vanguard High Dividend Yield ETF (VYM) has also given good dividends because it focuses on companies that pay higher dividends than average. Even though the stock market can go up and down, these ETFs have been good at giving people a regular income from dividends.
 
-The performance of dividend payments can change a lot depending on what's happening in the economy and the stock market. In good times, when companies are making more money, the dividends from Vanguard ETFs can go up. But in tough times, when companies are struggling, the dividends might not grow as much or could even go down a little. Still, Vanguard ETFs are known for picking stable companies, so their dividends tend to be more reliable than those from riskier investments. This makes them a good choice for people who want a steady income from their investments.
+The performance of dividend payments can change a lot depending on what's happening in the economy and the stock market. In good times, when companies are making more money, the dividends from Vanguard ETFs can go up. But in tough times, when companies are struggling, the dividends might not grow as much or could even go down a little. Still, Vanguard ETFs are known for [picking](/wiki/asset-class-picking) stable companies, so their dividends tend to be more reliable than those from riskier investments. This makes them a good choice for people who want a steady income from their investments.
 
 ## What are the risks associated with investing in dividend-paying Vanguard ETFs?
 
@@ -82,11 +82,11 @@ Another part of using Vanguard ETFs for the long term is picking the right ones 
 
 ## How can dividends and algo trading be integrated into ETF strategies?
 
-Integrating dividends into algorithmic trading models in the context of ETF strategies involves creating systems that can dynamically assess and respond to dividend events. This integration is particularly relevant for income-seeking investors aiming to optimize their yield while leveraging advanced trading technology.
+Integrating dividends into [algorithmic trading](/wiki/algorithmic-trading) models in the context of ETF strategies involves creating systems that can dynamically assess and respond to dividend events. This integration is particularly relevant for income-seeking investors aiming to optimize their yield while leveraging advanced trading technology.
 
 ### Methods for Incorporating Dividends into Algorithmic Trading Models
 
-Algorithmic trading models can incorporate dividend data by parsing announcements of upcoming payments and adjusting positions accordingly. These models typically factor in the ex-dividend date, as buying an ETF before this date qualifies an investor for the dividend. The formula to adjust the price change expectation on the ex-dividend date is:
+Algorithmic trading models can incorporate dividend data by parsing announcements of upcoming payments and adjusting positions accordingly. These models typically [factor](/wiki/factor-investing) in the ex-dividend date, as buying an ETF before this date qualifies an investor for the dividend. The formula to adjust the price change expectation on the ex-dividend date is:
 
 $$
 \text{Adjusted Price} = \text{Closing Price} - \text{Dividend Per Share}
@@ -96,7 +96,7 @@ Trading algorithms can be programmed to identify ETF opportunities that offer fa
 
 ### Case Studies of Successful Dividend-Focused Algo Trading Strategies
 
-One successful strategy involves utilizing machine learning methods to predict dividend announcement effects on ETF prices. For instance, a model designed to forecast favorable market responses can exploit price rises resulting from institutional investment increases post-dividend announcements. In practice, hedge funds have used [reinforcement learning](/wiki/reinforcement-learning) models to adaptively manage assets, integrating dividend capture strategies that enhance profitability.
+One successful strategy involves utilizing [machine learning](/wiki/machine-learning) methods to predict dividend announcement effects on ETF prices. For instance, a model designed to forecast favorable market responses can exploit price rises resulting from institutional investment increases post-dividend announcements. In practice, hedge funds have used [reinforcement learning](/wiki/reinforcement-learning) models to adaptively manage assets, integrating dividend capture strategies that enhance profitability.
 
 ### Comparative Analysis: Human-driven vs. Algorithm-driven ETF Investing Strategies
 

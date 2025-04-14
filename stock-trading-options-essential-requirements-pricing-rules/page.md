@@ -30,7 +30,7 @@ A put option gives you the right to sell a stock at a certain price before a cer
 
 To start trading options, you need to have a brokerage account that allows options trading. Not all brokers offer this, so you might need to look around to find one that does. Once you have a broker, you'll need to fill out an options trading application. This usually involves answering questions about your investment experience and how much risk you're willing to take. The broker will review your application to make sure you understand the risks involved in trading options.
 
-After your application is approved, you'll need to fund your account with enough money to cover the cost of the options you want to trade. Options can be cheaper than buying stocks outright, but you still need to have enough cash to buy the options contracts. It's also a good idea to learn about different options strategies and how they work. There are many resources available, like books, online courses, and even some free educational materials from brokers, to help you get started and understand the basics of options trading.
+After your application is approved, you'll need to fund your account with enough money to cover the cost of the options you want to trade. Options can be cheaper than buying stocks outright, but you still need to have enough cash to buy the options contracts. It's also a good idea to learn about different options strategies and how they work. There are many resources available, like [books](/wiki/algo-trading-books), online courses, and even some free educational materials from brokers, to help you get started and understand the basics of options trading.
 
 ## How does one qualify for options trading with a brokerage?
 
@@ -40,9 +40,9 @@ After your application is approved, you'll need to put money into your account t
 
 ## What are the key factors that affect options pricing?
 
-Options pricing is influenced by several key factors. The first is the price of the underlying stock. If the stock price goes up, the price of a call option usually goes up too, because it gives you the right to buy the stock at a lower price. On the other hand, if the stock price goes down, the price of a put option usually goes up, because it gives you the right to sell the stock at a higher price. Another important factor is the time until the option expires. The more time there is until the option expires, the more valuable it can be, because there's more time for the stock price to move in your favor.
+Options pricing is influenced by several key factors. The first is the price of the underlying stock. If the stock price goes up, the price of a call option usually goes up too, because it gives you the right to buy the stock at a lower price. On the other hand, if the stock price goes down, the price of a put option usually goes up, because it gives you the right to sell the stock at a higher price. Another important [factor](/wiki/factor-investing) is the time until the option expires. The more time there is until the option expires, the more valuable it can be, because there's more time for the stock price to move in your favor.
 
-Another factor that affects options pricing is the volatility of the underlying stock. If a stock's price moves around a lot, the option is more likely to end up in the money, so it will be more expensive. The opposite is true if the stock's price is stable. Finally, interest rates and dividends can also play a role. Higher interest rates can make call options more expensive and put options cheaper. If a stock pays dividends, that can affect the price of options too, because dividends can change the stock's price.
+Another factor that affects options pricing is the [volatility](/wiki/volatility-trading-strategies) of the underlying stock. If a stock's price moves around a lot, the option is more likely to end up in the money, so it will be more expensive. The opposite is true if the stock's price is stable. Finally, interest rates and dividends can also play a role. Higher interest rates can make call options more expensive and put options cheaper. If a stock pays dividends, that can affect the price of options too, because dividends can change the stock's price.
 
 ## How do intrinsic value and time value impact the price of an option?
 
@@ -74,7 +74,7 @@ Options can also be used for speculation, which means trying to make money by gu
 
 Trading options can affect your taxes, and it's good to know how. When you make money from options, it's usually counted as capital gains. If you hold the options for less than a year, the gains are short-term and taxed as regular income. If you hold them for more than a year, the gains are long-term and taxed at a lower rate. This is similar to how stocks are taxed, but options can be trickier because they can expire worthless, and you can't claim a loss until they do.
 
-If you lose money on options, you can use those losses to reduce your taxes. You can take up to $3,000 of losses each year to lower your taxable income. If your losses are more than $3,000, you can carry the extra over to future years. But remember, you have to report all your options trades on your tax return, and it can get complicated. It's a good idea to keep good records and maybe talk to a tax professional to make sure you're doing everything right.
+If you lose money on options, you can use those losses to reduce your taxes. You can take up to $3,000 of losses each year to lower your taxable income. If your losses are more than $3,000, you can [carry](/wiki/carry-trading) the extra over to future years. But remember, you have to report all your options trades on your tax return, and it can get complicated. It's a good idea to keep good records and maybe talk to a tax professional to make sure you're doing everything right.
 
 ## How do regulatory requirements and market conditions influence options trading?
 

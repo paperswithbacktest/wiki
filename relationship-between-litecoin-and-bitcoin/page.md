@@ -36,7 +36,7 @@ Both Litecoin and Bitcoin use blocks to group transactions together, but the tim
 
 Litecoin and Bitcoin have different total supplies. Litecoin has a total supply of 84 million coins. This means that once 84 million Litecoins have been mined, no more will be created. On the other hand, Bitcoin has a total supply of 21 million coins. So, Bitcoin's total supply is much smaller than Litecoin's.
 
-The difference in total supply can affect how each cryptocurrency is used. Because there are more Litecoins available, each Litecoin might be worth less than a Bitcoin. This can make Litecoin more suitable for everyday purchases, as people might be more willing to spend smaller units of currency. Bitcoin, with its smaller supply, might be seen more as a store of value, similar to gold, because each coin is rarer and potentially more valuable.
+The difference in total supply can affect how each [cryptocurrency](/wiki/cryptocurrency) is used. Because there are more Litecoins available, each Litecoin might be worth less than a Bitcoin. This can make Litecoin more suitable for everyday purchases, as people might be more willing to spend smaller units of currency. Bitcoin, with its smaller supply, might be seen more as a store of value, similar to gold, because each coin is rarer and potentially more valuable.
 
 ## What role do Litecoin and Bitcoin play in the broader cryptocurrency market?
 
@@ -82,9 +82,9 @@ Because Litecoin is often used to test new ideas before they go to Bitcoin, the 
 
 ## What are the best practices for algo trading in cryptocurrency?
 
-Choosing the right algorithm and trading platform is essential for successful algorithmic trading in cryptocurrencies. The selection process should start with understanding the trading objectives and strategies that align with those objectives. Algorithms can range from simple moving averages to complex [machine learning](/wiki/machine-learning) models. When evaluating algorithms, traders should consider factors such as historical performance, adaptability to different market conditions, and computational efficiency.
+Choosing the right algorithm and trading platform is essential for successful [algorithmic trading](/wiki/algorithmic-trading) in cryptocurrencies. The selection process should start with understanding the trading objectives and strategies that align with those objectives. Algorithms can range from simple moving averages to complex [machine learning](/wiki/machine-learning) models. When evaluating algorithms, traders should consider factors such as historical performance, adaptability to different market conditions, and computational efficiency.
 
-Risk management is a crucial aspect of algorithmic trading, especially given the volatility of cryptocurrency markets. Traders should employ strategies like stop-loss orders and position sizing to minimize potential losses. Diversification across different cryptocurrencies and algorithmic strategies can further mitigate risk. Tools such as the Sharpe Ratio can be used to assess the risk-adjusted return of trading strategies:
+Risk management is a crucial aspect of algorithmic trading, especially given the [volatility](/wiki/volatility-trading-strategies) of cryptocurrency markets. Traders should employ strategies like stop-loss orders and position sizing to minimize potential losses. Diversification across different cryptocurrencies and algorithmic strategies can further mitigate risk. Tools such as the Sharpe Ratio can be used to assess the risk-adjusted return of trading strategies:
 
 $$
 \text{Sharpe Ratio} = \frac{E[R_p] - R_f}{\sigma_p}

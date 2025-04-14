@@ -18,7 +18,7 @@ The PPO is calculated by taking the difference between a shorter-term moving ave
 
 The Percentage Price Oscillator (PPO) is calculated by first finding two moving averages of a stock's price. One is a shorter-term moving average, and the other is a longer-term moving average. You subtract the longer-term moving average from the shorter-term moving average to get the difference between them.
 
-Next, you take that difference and divide it by the longer-term moving average. This gives you a ratio that shows how much the shorter-term average differs from the longer-term average relative to the longer-term average. Finally, you multiply this ratio by 100 to turn it into a percentage. This percentage is the PPO, which helps traders see the momentum of a stock's price in a way that's easy to compare across different stocks.
+Next, you take that difference and divide it by the longer-term moving average. This gives you a ratio that shows how much the shorter-term average differs from the longer-term average relative to the longer-term average. Finally, you multiply this ratio by 100 to turn it into a percentage. This percentage is the PPO, which helps traders see the [momentum](/wiki/momentum) of a stock's price in a way that's easy to compare across different stocks.
 
 ## What is the difference between PPO and the Moving Average Convergence Divergence (MACD)?
 
@@ -28,7 +28,7 @@ Another difference is how they are calculated. To calculate the PPO, you subtrac
 
 ## How can the PPO be used to identify bullish and bearish market trends?
 
-The PPO helps traders spot bullish and bearish trends by looking at how its line moves compared to its signal line. When the PPO line crosses above the signal line, it's a sign that a bullish trend might be starting. This means that the shorter-term moving average is getting bigger faster than the longer-term moving average, showing that the stock's price is picking up speed. Traders might see this as a good time to buy because the stock could keep going up.
+The PPO helps traders spot bullish and bearish trends by looking at how its line moves compared to its signal line. When the PPO line crosses above the signal line, it's a sign that a bullish trend might be starting. This means that the shorter-term moving average is getting bigger faster than the longer-term moving average, showing that the stock's price is [picking](/wiki/asset-class-picking) up speed. Traders might see this as a good time to buy because the stock could keep going up.
 
 On the other hand, when the PPO line crosses below the signal line, it can mean a bearish trend is starting. This happens when the shorter-term moving average starts to get smaller faster than the longer-term moving average, showing that the stock's price is losing speed. Traders might see this as a signal to sell because the stock's price could keep going down. By watching these crossovers, traders can make better choices about when to buy or sell based on the PPO's hints about the market's direction.
 

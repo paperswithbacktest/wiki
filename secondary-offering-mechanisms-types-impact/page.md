@@ -82,7 +82,7 @@ Non-dilutive offerings are also important for a company's money strategy, but in
 
 ## What is Understanding Secondary Offerings?
 
-Secondary offerings refer to the sale of existing securities by shareholders and are distinct from an initial public offering (IPO), where new shares are created and sold to the public for the first time. This type of financial instrument is integral to the functioning of capital markets, providing liquidity and opportunities for investors to adjust their holdings based on market conditions and company performance.
+Secondary offerings refer to the sale of existing securities by shareholders and are distinct from an initial public offering (IPO), where new shares are created and sold to the public for the first time. This type of financial instrument is integral to the functioning of capital markets, providing [liquidity](/wiki/liquidity-risk-premium) and opportunities for investors to adjust their holdings based on market conditions and company performance.
 
 There are two principal types of secondary offerings: non-dilutive and dilutive. 
 

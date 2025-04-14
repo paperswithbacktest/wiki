@@ -66,7 +66,7 @@ Another misconception is that if two events are mutually exclusive, their chance
 
 Mutually exclusive events are events that can't happen at the same time. They relate to the concept of a sample space because the sample space is all the possible things that could happen. For example, if you roll a die, the sample space is all the numbers you could roll, like 1, 2, 3, 4, 5, and 6. If you want to know the chance of rolling a 1 or a 2, these are mutually exclusive events because you can't roll both at the same time. So, you look at the sample space to see all the possible outcomes and then add up the chances of the ones you're interested in.
 
-Understanding the sample space helps you see why events are mutually exclusive. If you know all the possible outcomes, you can tell if two events can happen together or not. For example, if you're picking a card from a deck, the sample space includes all 52 cards. If you want to know the chance of picking a heart or a spade, these are mutually exclusive because a card can't be both a heart and a spade. By looking at the sample space, you can see that these events can't overlap, which helps you calculate their chances correctly.
+Understanding the sample space helps you see why events are mutually exclusive. If you know all the possible outcomes, you can tell if two events can happen together or not. For example, if you're [picking](/wiki/asset-class-picking) a card from a deck, the sample space includes all 52 cards. If you want to know the chance of picking a heart or a spade, these are mutually exclusive because a card can't be both a heart and a spade. By looking at the sample space, you can see that these events can't overlap, which helps you calculate their chances correctly.
 
 ## Can you explain the use of Venn diagrams in illustrating mutually exclusive events?
 
@@ -82,7 +82,7 @@ In insurance, knowing about mutually exclusive events is important too. For exam
 
 ## What is Understanding Probability Theory?
 
-Probability theory provides a mathematical framework essential for quantifying uncertainty, making it a cornerstone in various fields, including finance and artificial intelligence. The application of probability theory is crucial for algorithmic trading as it aids in predicting the likelihood of events, thereby facilitating informed decision-making among traders.
+Probability theory provides a mathematical framework essential for quantifying uncertainty, making it a cornerstone in various fields, including finance and [artificial intelligence](/wiki/ai-artificial-intelligence). The application of probability theory is crucial for algorithmic trading as it aids in predicting the likelihood of events, thereby facilitating informed decision-making among traders.
 
 In algorithmic trading, probability theory is utilized to estimate how likely specific market movements are to occur. This estimation is achieved through models that analyze historical data, assess current market conditions, and simulate potential future scenarios. For instance, traders might use historical price data of a stock to determine the probability of the stock price reaching a certain level within a given time frame.
 

@@ -130,7 +130,7 @@ Proper risk management is a cornerstone of algorithmic trading, ensuring that tr
 ### Risk Management Techniques
 
 1. **Stop Losses and Take Profits:**
-   Stop losses are pre-determined points at which a trader will exit a position, thereby limiting potential losses. On the other side, take profit levels mark the price points at which profits are realized, protecting accrued gains. These mechanisms are critical in maintaining balance between risk and reward.
+   Stop losses are pre-determined points at which a trader will [exit](/wiki/exit-strategy) a position, thereby limiting potential losses. On the other side, take profit levels mark the price points at which profits are realized, protecting accrued gains. These mechanisms are critical in maintaining balance between risk and reward.
 
    ```python
    def calculate_stop_loss(entry_price, percentage):

@@ -70,7 +70,7 @@ VWAP isn't as useful for longer time frames, like weeks or months. It resets eve
 
 ## How does market volatility affect VWAP trading strategies?
 
-Market volatility can make VWAP trading strategies harder to use. When the market is very busy and prices are moving a lot, the VWAP can change quickly. This means the average price that traders are using to decide when to buy or sell can be different one minute to the next. If a stock's price is jumping around a lot, it might be below the VWAP one moment and above it the next. This can make it tough for traders to know if they're getting a good deal or not.
+Market [volatility](/wiki/volatility-trading-strategies) can make VWAP trading strategies harder to use. When the market is very busy and prices are moving a lot, the VWAP can change quickly. This means the average price that traders are using to decide when to buy or sell can be different one minute to the next. If a stock's price is jumping around a lot, it might be below the VWAP one moment and above it the next. This can make it tough for traders to know if they're getting a good deal or not.
 
 Because of this, traders need to be careful when using VWAP during times of high volatility. They might need to watch the market more closely and be ready to change their plans quickly. If they're not careful, they could end up buying or selling at the wrong time. But, if they pay attention and understand how the market is moving, they can still use VWAP to help them make good trading decisions even when things are a bit crazy.
 

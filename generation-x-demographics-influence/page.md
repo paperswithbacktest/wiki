@@ -82,9 +82,9 @@ Gen Xers will also keep using technology as they age. They grew up with computer
 
 ## What is Generation X: The Cautious Optimists?
 
-Generation X, located between the Baby Boomers and Millennials, displays distinct characteristics in their engagement with trading, particularly algorithmic trading. Known for their cautious optimism, many members of Generation X seek a balance between conventional investment methods and emerging technological advancements. Their adoption of algorithmic trading is guided by a careful evaluation of risks and benefits.
+Generation X, located between the Baby Boomers and Millennials, displays distinct characteristics in their engagement with trading, particularly [algorithmic trading](/wiki/algorithmic-trading). Known for their cautious optimism, many members of Generation X seek a balance between conventional investment methods and emerging technological advancements. Their adoption of algorithmic trading is guided by a careful evaluation of risks and benefits.
 
-While Generation X appreciates the innovation and efficiency that algo trading offers, there is a genuine concern regarding its inherent risks. These risks include market volatility and potential technical failures. The generation's skepticism often stems from the financial instability experienced during key economic crises of their adult years, such as the dot-com bubble and the 2008 financial crisis.
+While Generation X appreciates the innovation and efficiency that algo trading offers, there is a genuine concern regarding its inherent risks. These risks include market [volatility](/wiki/volatility-trading-strategies) and potential technical failures. The generation's skepticism often stems from the financial instability experienced during key economic crises of their adult years, such as the dot-com bubble and the 2008 financial crisis.
 
 Many Gen Xers use algorithmic trading as a complementary tool to enhance their existing investment strategies. By integrating algo trading with traditional methods, they can optimize risk-reward scenarios. This can be illustrated using risk-adjusted return metrics like the Sharpe Ratio, which is calculated as:
 

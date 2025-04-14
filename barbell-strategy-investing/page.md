@@ -18,7 +18,7 @@ The idea behind the Barbell Strategy is to protect your money with the safe inve
 
 The Barbell Strategy is different from other investment strategies because it focuses on putting all your money into just two types of investments: safe ones and risky ones. Other strategies might spread money out more evenly across different levels of risk. For example, a diversified portfolio might include a mix of stocks, bonds, and other assets to balance risk and reward more smoothly. The Barbell Strategy, on the other hand, avoids the middle ground, aiming to get the best of both worlds by having one part of your money very safe and the other part aiming for big gains.
 
-Another way the Barbell Strategy differs is in its approach to risk management. Strategies like dollar-cost averaging or value investing focus on buying assets over time or finding undervalued stocks. The Barbell Strategy doesn't focus on timing the market or picking specific stocks. Instead, it relies on the balance between safety and potential high returns. This can be appealing for investors who want to minimize risk while still having a shot at significant growth, but it requires careful monitoring to ensure that the risky investments don't drag down the overall portfolio.
+Another way the Barbell Strategy differs is in its approach to risk management. Strategies like dollar-cost averaging or value investing focus on buying assets over time or finding undervalued stocks. The Barbell Strategy doesn't focus on timing the market or [picking](/wiki/asset-class-picking) specific stocks. Instead, it relies on the balance between safety and potential high returns. This can be appealing for investors who want to minimize risk while still having a shot at significant growth, but it requires careful monitoring to ensure that the risky investments don't drag down the overall portfolio.
 
 ## What are the key components of a Barbell Strategy?
 
@@ -80,7 +80,7 @@ The key to adapting the Barbell Strategy is to keep watching the market and be r
 
 One real-world example of the Barbell Strategy in action is how some investors used it during the tech boom of the late 1990s. They put part of their money into safe government bonds, which kept their money secure. At the same time, they invested in high-risk tech stocks like those from the dot-com companies. When the tech market did well, they made a lot of money from their risky investments, but the safe investments protected them when the market crashed in 2000.
 
-Another example is how some investors used the Barbell Strategy during the cryptocurrency boom in the late 2010s. They kept a portion of their portfolio in safe assets like savings accounts or CDs, which gave them peace of mind. Meanwhile, they took a chance on risky cryptocurrencies like Bitcoin and Ethereum. When the crypto market soared, their risky investments grew a lot, but the safe part of their portfolio kept them from losing everything when the market became volatile.
+Another example is how some investors used the Barbell Strategy during the [cryptocurrency](/wiki/cryptocurrency) boom in the late 2010s. They kept a portion of their portfolio in safe assets like savings accounts or CDs, which gave them peace of mind. Meanwhile, they took a chance on risky cryptocurrencies like Bitcoin and Ethereum. When the crypto market soared, their risky investments grew a lot, but the safe part of their portfolio kept them from losing everything when the market became volatile.
 
 ## What are the applications in fixed income?
 

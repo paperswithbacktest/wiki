@@ -24,7 +24,7 @@ Another type of embedded option is a conversion feature, found in convertible bo
 
 ## How does a call option work in a bond?
 
-A call option in a bond is like a special right that the bond issuer has. It lets the issuer buy back the bond from the bondholder before the bond's official end date. This is usually done when interest rates go down. When interest rates fall, the issuer can borrow money more cheaply than before. So, they might want to pay off the old bond and issue a new one at the lower interest rate.
+A call option in a bond is like a special right that the bond issuer has. It lets the issuer buy back the bond from the bondholder before the bond's official end date. This is usually done when interest rates go down. When interest rates fall, the issuer can borrow money more cheaply than before. So, they might want to pay off the old bond and issue a new one at the lower [interest rate](/wiki/interest-rate-trading-strategies).
 
 For bondholders, a call option can be a bit of a problem. If the issuer calls the bond, the bondholder gets their money back, but then they have to find a new place to invest it. If interest rates have gone down, the new investments might not pay as much interest as the old bond did. So, bondholders might end up with less income than they expected. That's why bonds with call options usually offer a higher interest rate to start with, to make up for this risk.
 
@@ -62,7 +62,7 @@ Another benefit for issuers is that bonds with embedded options can be easier to
 
 ## What are the key factors that influence the pricing of bonds with embedded options?
 
-The pricing of bonds with embedded options depends on a few big things. One important factor is interest rates. If interest rates go down, a bond with a call option might be worth less because the issuer could buy it back early. On the other hand, if interest rates go up, a bond with a put option might be worth more because the investor can sell it back to the issuer and then buy a new bond with a higher interest rate. Another big factor is how long the bond has until it matures. The longer the time until the bond ends, the more valuable the embedded options can be because there's more time for interest rates to change or for the stock price to go up if it's a convertible bond.
+The pricing of bonds with embedded options depends on a few big things. One important [factor](/wiki/factor-investing) is interest rates. If interest rates go down, a bond with a call option might be worth less because the issuer could buy it back early. On the other hand, if interest rates go up, a bond with a put option might be worth more because the investor can sell it back to the issuer and then buy a new bond with a higher interest rate. Another big factor is how long the bond has until it matures. The longer the time until the bond ends, the more valuable the embedded options can be because there's more time for interest rates to change or for the stock price to go up if it's a convertible bond.
 
 Another thing that affects the price is how the company's stock is doing, especially for convertible bonds. If the stock price goes up a lot, the bond might be worth more because the investor can convert it into valuable shares. But if the stock price stays low, the bond might not be worth as much because the option to convert isn't very useful. Finally, the overall risk of the bond matters too. Bonds with embedded options can be riskier, so investors might want a higher interest rate to make up for that risk. All these factors together help decide how much a bond with an embedded option is worth.
 
@@ -130,7 +130,7 @@ For example, if a bond with a par value of $1,000 has a conversion price of $50,
 
 While convertible bonds offer attractive features, they also [carry](/wiki/carry-trading) specific risks. The primary risk is the possibility of the underlying stock not performing well, which could render the conversion option less valuable. Additionally, the issuing company's credit risk plays a role, as default could affect both the bond and equity value.
 
-From a portfolio diversification perspective, convertible bonds can serve as a tool for spreading risk and enhancing potential returns. They offer exposure to both the fixed-income market and the equity market, allowing investors to balance their portfolio against market volatility. As such, convertible bonds can act as a hedge against market downturns or capitalize on market upswings.
+From a portfolio diversification perspective, convertible bonds can serve as a tool for spreading risk and enhancing potential returns. They offer exposure to both the fixed-income market and the equity market, allowing investors to balance their portfolio against market [volatility](/wiki/volatility-trading-strategies). As such, convertible bonds can act as a hedge against market downturns or capitalize on market upswings.
 
 In summary, convertible bonds are versatile instruments that blend the stability of bonds with the growth potential of equities. Their strategic utilization in a portfolio can optimize returns while managing risk, making them a valuable asset for diverse investment strategies.
 

@@ -60,7 +60,7 @@ Another advantage is that the Russell 2500 Index spreads your money across many 
 
 An investor can gain exposure to the Russell 2500 Index by buying shares in exchange-traded funds (ETFs) or mutual funds that track the index. These funds are designed to mimic the performance of the Russell 2500, so when the index goes up or down, the value of the fund usually does the same. You can find these funds by looking at lists of ETFs or mutual funds that follow the Russell 2500 Index. Once you find one, you can buy shares through a broker, just like you would buy any other stock.
 
-Another way to get exposure to the Russell 2500 is by investing in a separately managed account (SMA) that focuses on the index. An SMA is a portfolio managed by a professional who picks stocks to match the performance of the Russell 2500. This option might be more expensive than buying an ETF or mutual fund, but it can offer more personalized management. No matter which method you choose, investing in the Russell 2500 can help you tap into the growth potential of small and mid-sized companies in the U.S.
+Another way to get exposure to the Russell 2500 is by investing in a separately managed account (SMA) that focuses on the index. An SMA is a portfolio managed by a professional who picks stocks to match the performance of the Russell 2500. This option might be more expensive than buying an [ETF](/wiki/etf-trading-strategies) or mutual fund, but it can offer more personalized management. No matter which method you choose, investing in the Russell 2500 can help you tap into the growth potential of small and mid-sized companies in the U.S.
 
 ## What are the risks associated with investing in the Russell 2500 Index?
 

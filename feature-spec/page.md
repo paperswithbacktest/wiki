@@ -21,7 +21,7 @@ Another reason Feature Specs are important is that they make it easier to work w
 
 ## How do you create a Feature Spec for a machine learning project?
 
-To create a Feature Spec for a machine learning project, you first need to understand your data. Look at the different types of data you have, like numbers, text, or images. For each type, decide how you want to change it into a form that your model can use. For example, if you have text, you might want to use a technique like one-hot encoding to turn words into numbers. If you have images, you might need to resize them or change them into a different format. Write down these steps clearly, so anyone can follow them to prepare the data the same way.
+To create a Feature Spec for a [machine learning](/wiki/machine-learning) project, you first need to understand your data. Look at the different types of data you have, like numbers, text, or images. For each type, decide how you want to change it into a form that your model can use. For example, if you have text, you might want to use a technique like one-hot encoding to turn words into numbers. If you have images, you might need to resize them or change them into a different format. Write down these steps clearly, so anyone can follow them to prepare the data the same way.
 
 Once you have your steps, you can start writing your Feature Spec. This is like writing a recipe for your data. You'll describe each step in detail, making sure to include any special rules or conditions. For example, you might say that missing values in a certain column should be filled with the average value of that column. You can use code to make this process easier. For instance, in Python, you might use a library like TensorFlow to define your Feature Spec:
 

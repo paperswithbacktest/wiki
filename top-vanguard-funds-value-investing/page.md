@@ -28,9 +28,9 @@ Vanguard funds work by pooling money from a lot of investors and using it to buy
 
 ## How do you identify a Vanguard fund suitable for value investing?
 
-To find a Vanguard fund that's good for value investing, you should look for funds that focus on value stocks. Vanguard has funds that track indexes made up of value stocks, like the Vanguard Value ETF or the Vanguard Equity-Income Fund. These funds pick stocks that are thought to be undervalued by the market, which means they might be a good deal. You can tell if a fund is a value fund by looking at its name or by reading its description on Vanguard's website.
+To find a Vanguard fund that's good for value investing, you should look for funds that focus on value stocks. Vanguard has funds that track indexes made up of value stocks, like the Vanguard Value [ETF](/wiki/etf-trading-strategies) or the Vanguard Equity-Income Fund. These funds pick stocks that are thought to be undervalued by the market, which means they might be a good deal. You can tell if a fund is a value fund by looking at its name or by reading its description on Vanguard's website.
 
-When choosing a Vanguard value fund, it's also smart to check the fund's performance over time and its fees. Vanguard is known for having low fees, which is great because it means more of your money stays invested. Look at how the fund has done in the past to see if it's been able to do well with value stocks. Remember, past performance doesn't guarantee future results, but it can give you an idea of how the fund works. By picking a Vanguard value fund, you can invest in a lot of value stocks at once without having to pick them yourself.
+When choosing a Vanguard value fund, it's also smart to check the fund's performance over time and its fees. Vanguard is known for having low fees, which is great because it means more of your money stays invested. Look at how the fund has done in the past to see if it's been able to do well with value stocks. Remember, past performance doesn't guarantee future results, but it can give you an idea of how the fund works. By [picking](/wiki/asset-class-picking) a Vanguard value fund, you can invest in a lot of value stocks at once without having to pick them yourself.
 
 ## What are the top Vanguard funds for value investing for beginners?
 

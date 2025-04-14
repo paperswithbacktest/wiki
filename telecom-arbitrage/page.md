@@ -18,7 +18,7 @@ People who do telecom arbitrage look for these price differences and use them to
 
 Telecom arbitrage works by finding and using differences in the price of phone calls between different countries or companies. Imagine you can call a friend in another country for a low price through one company, but it's more expensive through another. If you buy a lot of these cheaper calls and then sell them to others who need to call that country, you can make money. It's like buying something cheap and selling it for more.
 
-To do telecom arbitrage, people first look for where calls are cheaper. They might find that calling from the US to India is less expensive through Company A than through Company B. They buy a bunch of minutes from Company A, then sell those minutes to people who would normally use Company B. This way, they earn the difference between what they paid and what they sold the minutes for. It's all about spotting these price differences and using them to make a profit.
+To do telecom [arbitrage](/wiki/arbitrage), people first look for where calls are cheaper. They might find that calling from the US to India is less expensive through Company A than through Company B. They buy a bunch of minutes from Company A, then sell those minutes to people who would normally use Company B. This way, they earn the difference between what they paid and what they sold the minutes for. It's all about spotting these price differences and using them to make a profit.
 
 ## What are the basic requirements to start telecom arbitrage?
 
@@ -70,7 +70,7 @@ Using data analytics also helps you manage your telecom arbitrage operation bett
 
 ## What are the future trends in telecom arbitrage?
 
-In the future, telecom arbitrage might become more difficult because companies are getting better at stopping it. They use technology to watch for people doing arbitrage and can change their prices quickly to make it harder to find good deals. But at the same time, new technology can help people doing arbitrage find new ways to make money. For example, using data analytics and artificial intelligence can help find even small price differences that can be used for arbitrage.
+In the future, telecom arbitrage might become more difficult because companies are getting better at stopping it. They use technology to watch for people doing arbitrage and can change their prices quickly to make it harder to find good deals. But at the same time, new technology can help people doing arbitrage find new ways to make money. For example, using data analytics and [artificial intelligence](/wiki/ai-artificial-intelligence) can help find even small price differences that can be used for arbitrage.
 
 Another trend could be that more people start using apps and online services to make calls and send texts. This could create new opportunities for arbitrage because the prices for these services can be different from traditional phone companies. People doing arbitrage will need to keep learning and changing their strategies to stay ahead. They will need to use new tools and technology to find the best deals and manage their operations well.
 

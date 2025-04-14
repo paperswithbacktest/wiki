@@ -119,7 +119,7 @@ By adopting the declining balance method, businesses not only achieve a more rea
 
 ## How can the Declining Balance Method be integrated into financial algorithms?
 
-Incorporating the declining balance method into financial models used in algorithmic trading can enhance the accuracy and relevance of asset valuation over time, thereby providing traders with more reliable data to base their trading decisions on. The declining balance method is a type of accelerated depreciation suitable for assets that lose value quickly, which can be particularly useful for tech-driven markets and fast-evolving sectors.
+Incorporating the declining balance method into financial models used in [algorithmic trading](/wiki/algorithmic-trading) can enhance the accuracy and relevance of asset valuation over time, thereby providing traders with more reliable data to base their trading decisions on. The declining balance method is a type of accelerated depreciation suitable for assets that lose value quickly, which can be particularly useful for tech-driven markets and fast-evolving sectors.
 
 ### Potential Adjustments and Considerations
 

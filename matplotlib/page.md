@@ -33,7 +33,7 @@ plt.ylabel('sin(x)')
 plt.show()
 ```
 
-This code will create a plot of a sine wave, showing that Matplotlib is correctly installed and ready for use in your machine learning projects.
+This code will create a plot of a sine wave, showing that Matplotlib is correctly installed and ready for use in your [machine learning](/wiki/machine-learning) projects.
 
 ## What are the basic plotting functions in Matplotlib that are useful for data visualization in machine learning?
 
@@ -41,7 +41,7 @@ In machine learning, Matplotlib offers several basic plotting functions that hel
 
 Another useful function is `plt.hist()`, which creates histograms. Histograms are helpful for understanding the distribution of a single variable. For instance, you can use a histogram to see how your data is spread out, which can guide you in choosing the right model or preprocessing steps. Additionally, `plt.boxplot()` is used to create box plots, which are excellent for summarizing the distribution of data through its quartiles and identifying outliers. This can be crucial when you need to understand the spread and central tendency of your dataset before feeding it into a machine learning model.
 
-Lastly, `plt.imshow()` is essential for visualizing images or heatmaps. In machine learning, especially in fields like computer vision, you might need to see what your model is learning from image data. `plt.imshow()` allows you to display images and understand how different filters or layers in a neural network are processing them. Here's a simple example of how you might use these functions:
+Lastly, `plt.imshow()` is essential for visualizing images or heatmaps. In machine learning, especially in fields like computer vision, you might need to see what your model is learning from image data. `plt.imshow()` allows you to display images and understand how different filters or layers in a [neural network](/wiki/neural-network) are processing them. Here's a simple example of how you might use these functions:
 
 ```python
 import matplotlib.pyplot as plt

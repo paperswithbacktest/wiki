@@ -58,7 +58,7 @@ You also need to consider how much the stock price might move before the short-t
 
 ## How can market volatility affect a Put Calendar?
 
-Market volatility can have a big effect on a Put Calendar. If the market is very calm and the stock price stays steady, the short-term put option you sold will lose value fast. This means you can keep the money you got from selling it, which is good for you. But if the market gets really wild and the stock price jumps around a lot, it can be risky. If the stock price drops a lot before the short-term option expires, the value of that option will go up. You might have to buy it back at a higher price, which could lead to losses.
+Market [volatility](/wiki/volatility-trading-strategies) can have a big effect on a Put Calendar. If the market is very calm and the stock price stays steady, the short-term put option you sold will lose value fast. This means you can keep the money you got from selling it, which is good for you. But if the market gets really wild and the stock price jumps around a lot, it can be risky. If the stock price drops a lot before the short-term option expires, the value of that option will go up. You might have to buy it back at a higher price, which could lead to losses.
 
 On the other hand, if the stock price goes up a lot because of high volatility, both the short-term and long-term put options you have will lose value. The gain from selling the short-term option might not be enough to cover the money you paid for the long-term option. So, big moves in the stock price can hurt your Put Calendar, no matter if they go up or down. You need to watch the market closely and be ready to make changes if things get too unpredictable.
 

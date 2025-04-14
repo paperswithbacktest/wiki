@@ -116,7 +116,7 @@ In conclusion, for banking institutions and regulators alike, the Tier 1 Common 
 
 ## What is the interplay between Tier 1 Capital and Algo Trading?
 
-Banks have increasingly turned to algorithmic trading as a tool to manage capital more efficiently. By leveraging the speed and precision of algorithmic systems, financial institutions can optimize their capital allocation and trading strategies, potentially enhancing their Tier 1 Capital positions. Algorithmic trading allows banks to execute large-scale transactions quickly and with minimal human intervention, reducing transaction costs and allowing for more precise market entry and [exit](/wiki/exit-strategy) points.
+Banks have increasingly turned to [algorithmic trading](/wiki/algorithmic-trading) as a tool to manage capital more efficiently. By leveraging the speed and precision of algorithmic systems, financial institutions can optimize their capital allocation and trading strategies, potentially enhancing their Tier 1 Capital positions. Algorithmic trading allows banks to execute large-scale transactions quickly and with minimal human intervention, reducing transaction costs and allowing for more precise market entry and [exit](/wiki/exit-strategy) points.
 
 ### Impact of Trading Algorithms on Tier 1 Capital Positions
 

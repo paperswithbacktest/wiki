@@ -24,7 +24,7 @@ The information on a stock ticker comes from the stock exchanges, like the New Y
 
 A stock ticker shows a lot of important information about stocks. It displays the stock's ticker symbol, which is a short code for the company. Next to the symbol, you'll see the current price of the stock. This price changes all the time as people buy and sell the stock. The ticker also shows how much the price has changed since the last update. If the price went up, you might see a plus sign or an up arrow. If it went down, you'll see a minus sign or a down arrow.
 
-Sometimes, the ticker also shows the volume of the stock, which is how many shares were traded recently. This can give you an idea of how popular the stock is at that moment. Another thing you might see is the day's high and low prices, which tell you the highest and lowest prices the stock reached that day. All this information helps people keep track of their investments and see what's happening in the stock market.
+Sometimes, the ticker also shows the [volume](/wiki/volume-trading-strategy) of the stock, which is how many shares were traded recently. This can give you an idea of how popular the stock is at that moment. Another thing you might see is the day's high and low prices, which tell you the highest and lowest prices the stock reached that day. All this information helps people keep track of their investments and see what's happening in the stock market.
 
 ## What is the history of the stock ticker?
 
@@ -70,7 +70,7 @@ Another way to customize a stock ticker feed is by choosing what information you
 
 ## What role do algorithms and artificial intelligence play in the operation and analysis of stock tickers?
 
-Algorithms and artificial intelligence (AI) help make stock tickers work better. They can look at a lot of data very quickly and find patterns that people might miss. For example, algorithms can predict how a stock's price might change based on past data. This helps investors see what might happen next. AI can also make the ticker feed more personal. It can learn what stocks you like to watch and show you those first. This way, you don't have to look through a long list of stocks to find the ones you care about.
+Algorithms and [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) help make stock tickers work better. They can look at a lot of data very quickly and find patterns that people might miss. For example, algorithms can predict how a stock's price might change based on past data. This helps investors see what might happen next. AI can also make the ticker feed more personal. It can learn what stocks you like to watch and show you those first. This way, you don't have to look through a long list of stocks to find the ones you care about.
 
 AI also helps with analyzing the information on stock tickers. It can read news articles and social media posts to see how people feel about a company. This can give investors a better idea of why a stock's price is changing. AI can also make charts and graphs that show the stock's history and trends. This makes it easier for investors to understand what's happening and make smart choices. By using AI, stock tickers can give investors more useful information and help them make better decisions.
 

@@ -22,7 +22,7 @@ Lots of things can affect the supply and demand for currencies. For example, if 
 
 ## What is the difference between the spot rate and the forward rate in forex?
 
-The spot rate in forex is the price you can buy or sell a currency right now. It's like going to a store and seeing the price tag on an item; that's what you pay if you want to buy it immediately. The spot rate changes all the time because it depends on how many people want to buy or sell a currency at that moment.
+The spot rate in [forex](/wiki/forex-system) is the price you can buy or sell a currency right now. It's like going to a store and seeing the price tag on an item; that's what you pay if you want to buy it immediately. The spot rate changes all the time because it depends on how many people want to buy or sell a currency at that moment.
 
 The forward rate, on the other hand, is a price agreed upon today for buying or selling a currency at a future date. It's like making a deal to buy something later at a price you set now. The forward rate helps people and businesses plan for the future because it lets them know what they'll pay or get for a currency later on, even if the spot rate changes.
 
@@ -36,7 +36,7 @@ Lots of things can make the spot rate move, like news about the economy, interes
 
 ## What factors influence the Forex Spot Rate?
 
-The Forex Spot Rate is influenced by many things that can make the price of a currency go up or down. One big factor is how well a country's economy is doing. If a country's economy is strong, more people might want to invest there, so they need to buy that country's currency. This can push up the spot rate. On the other hand, if the economy is weak, people might sell the currency, which can make the spot rate go down.
+The Forex Spot Rate is influenced by many things that can make the price of a currency go up or down. One big [factor](/wiki/factor-investing) is how well a country's economy is doing. If a country's economy is strong, more people might want to invest there, so they need to buy that country's currency. This can push up the spot rate. On the other hand, if the economy is weak, people might sell the currency, which can make the spot rate go down.
 
 Another important factor is interest rates. If a country raises its interest rates, it can make its currency more attractive to investors because they can earn more money on their investments. This can increase the demand for the currency and raise the spot rate. Also, big news events like elections or natural disasters can suddenly change how people feel about a currency, making the spot rate move quickly.
 
@@ -151,5 +151,5 @@ Papers with Backtest: Algorithmic Trading and Spot Rate Dynamics explores the ap
 
 Bergstra et al. (2011): Algorithms for Hyper-Parameter Optimization discusses the optimization of algorithm parameters, a critical aspect of enhancing the performance of algorithmic trading systems. The paper introduces techniques like grid search and random search, comparing their efficiency in optimizing models used for predictive analytics in forex trading.
 
-Lopez de Prado (2018): Advances in Financial Machine Learning provides a detailed examination of the application of machine learning techniques to financial markets. The book covers topics such as fractional differentiation, feature engineering, and backtesting, offering valuable insights into developing robust trading models that leverage real-time data for forex and other financial markets.
+Lopez de Prado (2018): Advances in Financial Machine Learning provides a detailed examination of the application of [machine learning](/wiki/machine-learning) techniques to financial markets. The book covers topics such as fractional differentiation, feature engineering, and backtesting, offering valuable insights into developing robust trading models that leverage real-time data for forex and other financial markets.
 

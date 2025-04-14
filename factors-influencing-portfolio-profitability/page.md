@@ -54,7 +54,7 @@ To keep your portfolio profitable in the face of inflation, you need to invest i
 
 ## How does tax efficiency affect portfolio returns?
 
-Tax efficiency is about making smart choices with your investments so you don't lose too much money to taxes. When you make money from your investments, like selling stocks for a profit or getting dividends, you usually have to pay taxes on that money. But different investments are taxed differently. For example, some investments might be taxed at a lower rate than others. By picking the right investments, you can keep more of your money instead of giving it to the government.
+Tax efficiency is about making smart choices with your investments so you don't lose too much money to taxes. When you make money from your investments, like selling stocks for a profit or getting dividends, you usually have to pay taxes on that money. But different investments are taxed differently. For example, some investments might be taxed at a lower rate than others. By [picking](/wiki/asset-class-picking) the right investments, you can keep more of your money instead of giving it to the government.
 
 Being tax-efficient can really help your portfolio grow over time. If you can lower the taxes you pay, you'll have more money left to reinvest and make even more money. It's like keeping more of your pie to bake a bigger pie later. So, thinking about taxes when you choose your investments can make a big difference in how much profit you end up with in the long run.
 
@@ -136,7 +136,7 @@ In summary, by effectively using ROI and risk-adjusted returns as benchmarks, an
 
 Algorithmic trading provides a robust platform for managing risks by integrating sophisticated technological capabilities into trading strategies. A fundamental feature in this domain is the utilization of stop-loss orders, which automatically trigger the sale of a security when its price falls below a predefined level. This mechanism limits potential losses by ensuring prompt reaction to adverse market conditions without relying on constant human supervision.
 
-Moreover, automated position sizing forms a critical component of risk management in algorithmic trading. This technique involves determining the appropriate amount of capital to allocate to each trade, thereby controlling the exposure based on risk tolerance and market volatility. A systematic approach can be implemented using predefined algorithms to adjust positions dynamically in response to changes in market variables. For instance, the Kelly Criterion is often used to decide the fraction of capital to bet on a series of independent investment opportunities. It can be represented mathematically as:
+Moreover, automated position sizing forms a critical component of risk management in [algorithmic trading](/wiki/algorithmic-trading). This technique involves determining the appropriate amount of capital to allocate to each trade, thereby controlling the exposure based on risk tolerance and market volatility. A systematic approach can be implemented using predefined algorithms to adjust positions dynamically in response to changes in market variables. For instance, the Kelly Criterion is often used to decide the fraction of capital to bet on a series of independent investment opportunities. It can be represented mathematically as:
 
 $$
 f^* = \frac{bp - q}{b}

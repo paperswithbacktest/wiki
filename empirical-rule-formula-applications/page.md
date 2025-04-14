@@ -18,7 +18,7 @@ But it doesn't stop there. If you go two standard deviations away from the mean,
 
 The Empirical Rule was not developed by a single person but rather emerged from the work of several mathematicians and statisticians over time. One key figure in the development of this rule was Carl Friedrich Gauss, a German mathematician who worked on the normal distribution in the late 18th and early 19th centuries. Gauss's work on the "normal curve" laid the groundwork for understanding how data is distributed around a mean.
 
-As the field of statistics grew, other mathematicians and statisticians built upon Gauss's work. The Empirical Rule itself, which quantifies the percentages of data within certain standard deviations, became a standard tool in statistics. It's called "empirical" because it's based on observation and experience rather than theory alone. Over time, this rule has become a fundamental concept taught in statistics courses around the world, helping people understand and work with data more effectively.
+As the field of [statistics](/wiki/bayesian-statistics) grew, other mathematicians and statisticians built upon Gauss's work. The Empirical Rule itself, which quantifies the percentages of data within certain standard deviations, became a standard tool in statistics. It's called "empirical" because it's based on observation and experience rather than theory alone. Over time, this rule has become a fundamental concept taught in statistics courses around the world, helping people understand and work with data more effectively.
 
 ## What are the key assumptions of the Empirical Rule?
 
@@ -82,7 +82,7 @@ On the other hand, Chebyshev's Inequality is more general and can be used with a
 
 ## What is Standard Deviation and why is it a key component?
 
-Standard deviation is a statistical measure that quantifies the [dispersion](/wiki/dispersion-trading) or spread of a set of data points relative to its mean. In financial markets, it serves as a crucial indicator of volatility, allowing traders and analysts to assess the risk associated with investments or trading strategies. A higher standard deviation indicates a wider spread in returns, suggesting greater volatility and, therefore, higher risk. Conversely, a lower standard deviation denotes that returns are more concentrated around the mean, indicating stability and lower risk.
+Standard deviation is a statistical measure that quantifies the [dispersion](/wiki/dispersion-trading) or spread of a set of data points relative to its mean. In financial markets, it serves as a crucial indicator of [volatility](/wiki/volatility-trading-strategies), allowing traders and analysts to assess the risk associated with investments or trading strategies. A higher standard deviation indicates a wider spread in returns, suggesting greater volatility and, therefore, higher risk. Conversely, a lower standard deviation denotes that returns are more concentrated around the mean, indicating stability and lower risk.
 
 The calculation of standard deviation involves a few steps. First, determine the mean of the data set. Next, calculate the variance by taking the average of the squared differences from the mean. Finally, the standard deviation is the positive square root of the variance. The formula for standard deviation ($\sigma$) is expressed mathematically as:
 

@@ -18,7 +18,7 @@ These provisions help make sure that laws don't stay around forever without anyo
 
 Sunset provisions in legislation are like expiration dates on laws. When lawmakers create a new law, they can add a sunset provision that says the law will stop working after a certain date. This gives the law a chance to be tested for a while. If the law is helpful, lawmakers can pass a new law to keep it going before the old one expires. If it's not working well, they can let it end without doing anything.
 
-These provisions help keep laws fresh and relevant. They make sure that old laws don't stay on the books forever without anyone checking if they're still needed. By setting an end date, lawmakers have to look at the law again and decide if it's worth keeping. This can lead to better laws because it forces regular reviews and updates.
+These provisions help keep laws fresh and relevant. They make sure that old laws don't stay on the [books](/wiki/algo-trading-books) forever without anyone checking if they're still needed. By setting an end date, lawmakers have to look at the law again and decide if it's worth keeping. This can lead to better laws because it forces regular reviews and updates.
 
 ## Why are sunset provisions implemented in laws?
 

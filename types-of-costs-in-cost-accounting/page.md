@@ -68,7 +68,7 @@ Understanding marginal costs is really helpful when you're making decisions abou
 
 Joint costs are the costs you have when you make more than one product from the same process. For example, if you're a farmer and you get both meat and leather from a cow, the cost of raising that cow is a joint cost. When you have joint costs, you need to figure out how to split them up between the different products you make. This can be tricky because you want to be fair and accurate about how much each product costs to make.
 
-To deal with joint costs, businesses use different methods to divide them up. One way is to split the costs based on how much of each product you get. If you get more meat than leather from a cow, you might say that meat should carry more of the cost. Another way is to look at how much money each product makes and divide the costs based on that. No matter which method you use, the goal is to make sure you know the true cost of each product so you can set the right prices and make good business decisions.
+To deal with joint costs, businesses use different methods to divide them up. One way is to split the costs based on how much of each product you get. If you get more meat than leather from a cow, you might say that meat should [carry](/wiki/carry-trading) more of the cost. Another way is to look at how much money each product makes and divide the costs based on that. No matter which method you use, the goal is to make sure you know the true cost of each product so you can set the right prices and make good business decisions.
 
 ## What are the challenges in allocating overhead costs and how can they be addressed?
 

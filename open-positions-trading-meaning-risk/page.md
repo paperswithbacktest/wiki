@@ -64,7 +64,7 @@ Sometimes, you might see the market going through a lot of ups and downs, which 
 
 Overnight fees, also called swap fees, are costs you might have to pay when you keep an open position overnight. These fees are charged by brokers for holding a position from one trading day to the next. If you're trading currencies or other financial products that use leverage, you might see these fees. The fees can be small, but if you keep your position open for a long time, they can add up and eat into your profits.
 
-The impact of overnight fees depends on what you're trading and how long you keep your position open. If you're trading something like forex, where overnight fees are common, you need to think about these costs when deciding whether to keep your position open. If the fees are high and you don't think the market will move enough to cover them, it might be better to close your position. But if you believe the market will move in your favor and the potential profit is bigger than the fees, it might be worth keeping your position open.
+The impact of overnight fees depends on what you're trading and how long you keep your position open. If you're trading something like [forex](/wiki/forex-system), where overnight fees are common, you need to think about these costs when deciding whether to keep your position open. If the fees are high and you don't think the market will move enough to cover them, it might be better to close your position. But if you believe the market will move in your favor and the potential profit is bigger than the fees, it might be worth keeping your position open.
 
 ## How can technical analysis be used to monitor open positions?
 

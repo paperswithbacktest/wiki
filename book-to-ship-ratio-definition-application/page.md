@@ -153,7 +153,7 @@ To optimize the book-to-ship ratio effectively, businesses should focus on sever
 
 ### Demand Forecasting
 
-Accurate demand forecasting is essential for predicting sales and aligning inventory levels with market demands. Companies can utilize statistical models and machine learning algorithms to analyze historical sales data, market trends, and economic indicators. For example, a simple linear regression model can help predict future demand based on past sales:
+Accurate demand forecasting is essential for predicting sales and aligning inventory levels with market demands. Companies can utilize statistical models and [machine learning](/wiki/machine-learning) algorithms to analyze historical sales data, market trends, and economic indicators. For example, a simple linear regression model can help predict future demand based on past sales:
 
 ```python
 from sklearn.linear_model import LinearRegression

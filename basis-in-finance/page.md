@@ -32,7 +32,7 @@ Understanding your cost basis is crucial for making smart investment decisions. 
 
 In futures and options trading, basis is important because it shows the difference between the futures price and the current spot price of an asset. This difference helps traders figure out if it's cheaper to buy the asset now or wait until later. For example, if the basis is positive, it means the futures price is higher than the spot price, so it might be better to buy the asset now if you think the price won't go up much before the futures contract expires.
 
-Traders also use basis to find opportunities to make money through arbitrage. Arbitrage is when you buy something in one place and sell it in another for a profit. If the basis is getting smaller, it might mean the spot price will go up or the futures price will go down. Traders can take advantage of this by buying the asset now and selling the futures contract, hoping to make a profit when the prices line up. Knowing the basis helps traders make smarter choices and manage their risks better in the fast-moving world of futures and options trading.
+Traders also use basis to find opportunities to make money through [arbitrage](/wiki/arbitrage). Arbitrage is when you buy something in one place and sell it in another for a profit. If the basis is getting smaller, it might mean the spot price will go up or the futures price will go down. Traders can take advantage of this by buying the asset now and selling the futures contract, hoping to make a profit when the prices line up. Knowing the basis helps traders make smarter choices and manage their risks better in the fast-moving world of futures and options trading.
 
 ## How is basis risk defined and managed in financial markets?
 
@@ -44,7 +44,7 @@ To manage basis risk, traders and investors use different strategies. One way is
 
 To calculate the basis for commodities like oil or wheat, you take the price of the futures contract and subtract the current spot price of the commodity. For example, if the futures price for oil is $75 per barrel and the spot price is $70 per barrel, the basis is $5. This number tells you how much more you would pay for oil in the future compared to buying it now. The basis can change because of things like storage costs, interest rates, and how much people want the commodity.
 
-For financial instruments like bonds, the basis is a bit different. It's the difference between the yield of a bond futures contract and the yield of the cheapest-to-deliver bond. If the futures yield is 3% and the cheapest-to-deliver bond yield is 2.5%, the basis is 0.5%. This helps traders understand the cost of holding the bond until the futures contract expires. The basis in bonds can be affected by interest rate changes and the bond's credit quality.
+For financial instruments like bonds, the basis is a bit different. It's the difference between the yield of a bond futures contract and the yield of the cheapest-to-deliver bond. If the futures yield is 3% and the cheapest-to-deliver bond yield is 2.5%, the basis is 0.5%. This helps traders understand the cost of holding the bond until the futures contract expires. The basis in bonds can be affected by [interest rate](/wiki/interest-rate-trading-strategies) changes and the bond's credit quality.
 
 In currency markets, the basis is the difference between the spot exchange rate and the forward exchange rate. If the spot rate for USD to EUR is 1.10 and the forward rate is 1.12, the basis is 0.02. This tells you how much more you would get for your dollars in the future compared to now. The basis in currencies can change because of interest rate differences between countries and expectations about future exchange rates.
 
@@ -122,7 +122,7 @@ Incorporating the understanding of basis, whether for tax purposes or in futures
 
 ## What are the key financial concepts in algorithmic trading?
 
-Incorporating critical financial concepts such as cost basis and tax implications within algorithmic trading is essential for maintaining compliance and ensuring profitability. Accurate calculation and understanding of the cost basis, which refers to the total original value of an investment adjusted for stock splits, dividends, and return of capital distributions, are crucial. These adjustments affect the capital gains or losses realized upon selling the asset. For instance, the formula to compute the cost basis for stocks is:
+Incorporating critical financial concepts such as cost basis and tax implications within [algorithmic trading](/wiki/algorithmic-trading) is essential for maintaining compliance and ensuring profitability. Accurate calculation and understanding of the cost basis, which refers to the total original value of an investment adjusted for stock splits, dividends, and return of capital distributions, are crucial. These adjustments affect the capital gains or losses realized upon selling the asset. For instance, the formula to compute the cost basis for stocks is:
 
 $$
 \text{Cost Basis per Share} = \frac{\text{Total Purchase Price} + \text{Commissions and Fees}}{\text{Number of Shares}}
@@ -140,7 +140,7 @@ Key trading strategies such as market-making, arbitrage, and trend-following hea
 
 3. **Trend-Following**: This strategy focuses on capturing gains through the analysis of an asset's momentum. Incorporating cost basis calculations and tax-efficient strategies ensures more accurate assessments of when to initiate or exit positions, aligning trades with financial objectives.
 
-Sophisticated algorithms use these concepts to perform extensive data analysis and execute trades at ideal moments, often incorporating machine learning and artificial intelligence to adapt to changing market conditions. Understanding these financial concepts, coupled with technological proficiency, enables traders to develop robust trading strategies that align with and meet their financial goals effectively.
+Sophisticated algorithms use these concepts to perform extensive data analysis and execute trades at ideal moments, often incorporating [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence) to adapt to changing market conditions. Understanding these financial concepts, coupled with technological proficiency, enables traders to develop robust trading strategies that align with and meet their financial goals effectively.
 
 ## References & Further Reading
 

@@ -18,7 +18,7 @@ Day trading is different from other trading styles because it focuses on short-t
 
 TradingView is a popular choice for day traders because it offers a lot of useful tools all in one place. It has real-time charts and data, which are super important for day traders who need to see what's happening in the market right away. TradingView also lets you use many different indicators and drawing tools to help you make quick decisions. Plus, you can set up alerts to notify you when certain things happen in the market, so you don't miss out on important moves.
 
-Another reason day traders like TradingView is that it has a big community where people share ideas and strategies. You can follow other traders, see what they're doing, and even chat with them. This can be really helpful if you're new to day trading or if you want to learn new tricks. Also, TradingView works on many devices, like your computer, phone, or tablet, so you can trade from anywhere, which is perfect for day traders who need to stay on top of things all the time.
+Another reason day traders like TradingView is that it has a big community where people share ideas and strategies. You can follow other traders, see what they're doing, and even chat with them. This can be really helpful if you're new to [day trading](/wiki/day-trading-spy) or if you want to learn new tricks. Also, TradingView works on many devices, like your computer, phone, or tablet, so you can trade from anywhere, which is perfect for day traders who need to stay on top of things all the time.
 
 ## What are the basic technical indicators used in day trading on TradingView?
 
@@ -68,7 +68,7 @@ Another big mistake is trading too much. TradingView makes it easy to see lots o
 
 Backtesting on TradingView is a way to test your day trading strategy using old market data to see how it would have worked in the past. You can use the Pine Script editor on TradingView to write code for your strategy and then run it against historical data. This helps you see if your strategy makes money or loses money over time. By looking at the results, you can find out what works and what doesn't, and then make changes to your strategy to make it better. For example, if your strategy loses money when the market is going down, you might add rules to avoid trading during those times.
 
-Using backtesting on TradingView can also help you set better entry and exit points for your trades. You can see how different indicators or rules affect your trades and adjust them to find the best times to buy and sell. This way, you can fine-tune your strategy to fit different market conditions. Remember, though, that past results don't always mean the same thing will happen in the future. But backtesting can give you a good idea of how your strategy might work and help you feel more confident when you start trading for real.
+Using [backtesting](/wiki/backtesting) on TradingView can also help you set better entry and exit points for your trades. You can see how different indicators or rules affect your trades and adjust them to find the best times to buy and sell. This way, you can fine-tune your strategy to fit different market conditions. Remember, though, that past results don't always mean the same thing will happen in the future. But backtesting can give you a good idea of how your strategy might work and help you feel more confident when you start trading for real.
 
 ## What are the latest trends and updates in TradingView that can enhance day trading strategies?
 
@@ -134,7 +134,7 @@ Breakout strategies identify price levels at which the security price is likely 
 
 Key levels are often determined by drawing trendlines or using price patterns like triangles and channels. Once a breakout is confirmed with [volume](/wiki/volume-trading-strategy) analysis, traders execute trades in the direction of the breakout.
 
-In sum, these strategies alone or in combination can greatly enhance algorithmic trading performance on TradingView. Leveraging robust technical indicators and data-driven insights, traders can optimize their strategies for more consistent and profitable outcomes.
+In sum, these strategies alone or in combination can greatly enhance [algorithmic trading](/wiki/algorithmic-trading) performance on TradingView. Leveraging robust technical indicators and data-driven insights, traders can optimize their strategies for more consistent and profitable outcomes.
 
 ## References & Further Reading
 

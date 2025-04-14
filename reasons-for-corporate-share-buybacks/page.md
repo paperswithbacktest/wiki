@@ -168,5 +168,5 @@ By adhering to these strategic components, companies can proficiently navigate t
 
 10. **Marosi, Andras, and Nadia N. Massoud. "Why Do Firms Use Stock Buybacks to Distribute Cash? An Empirical Examination." Journal of Financial Economics.** This article investigates cash distribution via buybacks, comparing it with alternatives like dividends, and analyzing the incentives involved.
 
-These references provide a comprehensive foundation for understanding the strategic, financial, and regulatory aspects of share buybacks and algorithmic trading.
+These references provide a comprehensive foundation for understanding the strategic, financial, and regulatory aspects of share buybacks and [algorithmic trading](/wiki/algorithmic-trading).
 

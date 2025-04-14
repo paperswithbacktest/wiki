@@ -22,7 +22,7 @@ In conclusion, selecting an appropriate trading strategy necessitates considerat
 
 ## What are initial capital requirements in trading?
 
-Initial capital requirements in trading refer to the amount of money you need to start trading. This can vary depending on the type of trading you want to do, like stocks, forex, or futures. For example, to trade stocks, you might need less money to start than if you want to trade futures, which often require more capital.
+Initial capital requirements in trading refer to the amount of money you need to start trading. This can vary depending on the type of trading you want to do, like stocks, [forex](/wiki/forex-system), or futures. For example, to trade stocks, you might need less money to start than if you want to trade futures, which often require more capital.
 
 Different brokers have different rules about how much money you need to open an account. Some brokers might let you start with a small amount, like $100, while others might need you to have $1,000 or more. It's important to check with the broker you want to use to find out their specific requirements. Also, having more money can help you manage risks better and trade more comfortably.
 

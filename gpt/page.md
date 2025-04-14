@@ -24,7 +24,7 @@ Another big difference is how GPT uses something called transformers. Transforme
 
 The main parts of a GPT model are the transformer architecture and the pre-training process. The transformer is like the brain of the model. It helps the model understand the context of words by looking at all the words in a sentence at the same time. This is different from older models that look at words one by one. The transformer uses something called "attention" to focus on different parts of the text, which helps the model figure out what words should come next.
 
-The other important part is pre-training. This is when the model learns from a huge amount of text, like books and websites. During pre-training, the model tries to guess missing words in sentences. This helps it learn about grammar, word meanings, and how sentences are put together. After pre-training, the model can be fine-tuned for specific tasks, like answering questions or writing stories, but the pre-training gives it a strong base of language knowledge.
+The other important part is pre-training. This is when the model learns from a huge amount of text, like [books](/wiki/algo-trading-books) and websites. During pre-training, the model tries to guess missing words in sentences. This helps it learn about grammar, word meanings, and how sentences are put together. After pre-training, the model can be fine-tuned for specific tasks, like answering questions or writing stories, but the pre-training gives it a strong base of language knowledge.
 
 ## How is a GPT model trained?
 
@@ -82,7 +82,7 @@ Another thing we might see is GPT getting better at understanding different lang
 
 ## What is the understanding of GPT models?
 
-Generative Pretrained Transformers (GPT) are a class of machine learning models that have gained significant attention due to their ability to produce human-like text based on input data. Developed by OpenAI, these models have revolutionized natural language processing tasks by leveraging a transformer-based architecture.
+Generative Pretrained Transformers (GPT) are a class of [machine learning](/wiki/machine-learning) models that have gained significant attention due to their ability to produce human-like text based on input data. Developed by OpenAI, these models have revolutionized natural language processing tasks by leveraging a transformer-based architecture.
 
 **Structure and Functioning of GPT Models**
 

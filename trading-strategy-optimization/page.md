@@ -36,7 +36,7 @@ Another useful number is the drawdown, which shows the biggest drop in the value
 
 Backtesting is a big part of making a trading strategy better. It's when traders use a computer to see how their plan would have worked in the past. They take old data about prices and use it to pretend they are trading. This helps them see if their plan would have made money or lost money. By doing this, traders can try out different versions of their plan and pick the one that would have worked the best.
 
-But backtesting is not perfect. Just because a plan worked well in the past doesn't mean it will work well in the future. Markets change, and what was good before might not be good now. So, traders need to keep checking their plan and making changes. Backtesting helps them start with a good plan, but they need to keep working on it to make sure it keeps working well over time.
+But [backtesting](/wiki/backtesting) is not perfect. Just because a plan worked well in the past doesn't mean it will work well in the future. Markets change, and what was good before might not be good now. So, traders need to keep checking their plan and making changes. Backtesting helps them start with a good plan, but they need to keep working on it to make sure it keeps working well over time.
 
 ## What are the risks of overfitting when optimizing a trading strategy?
 
@@ -64,7 +64,7 @@ Traders use past data to test their strategies, but they need to remember that t
 
 ## What advanced techniques can be used to further optimize a trading strategy?
 
-One advanced technique to make a trading strategy even better is using machine learning. Machine learning is when computers learn from data and find patterns that people might miss. Traders can use machine learning to look at a lot of data and find the best times to buy or sell. This can help them make more money and take less risk. But, they need to be careful not to overfit the data, which means making the plan fit the past too well but not work in the future. They can avoid this by testing the plan with different sets of data and keeping the plan simple.
+One advanced technique to make a trading strategy even better is using [machine learning](/wiki/machine-learning). Machine learning is when computers learn from data and find patterns that people might miss. Traders can use machine learning to look at a lot of data and find the best times to buy or sell. This can help them make more money and take less risk. But, they need to be careful not to overfit the data, which means making the plan fit the past too well but not work in the future. They can avoid this by testing the plan with different sets of data and keeping the plan simple.
 
 Another technique is using genetic algorithms. These are like a computer version of natural selection. The computer tries out many different versions of a trading plan and picks the ones that work the best. It then makes new versions based on the best ones, kind of like how animals evolve. This can help traders find a plan that works well in many different market conditions. But, like with machine learning, traders need to keep checking the plan and making sure it works in the real world, not just in tests.
 
@@ -78,7 +78,7 @@ To use machine learning in trading, traders need to give the computer a lot of d
 
 ## What are the latest trends and tools in trading strategy optimization?
 
-The latest trends in trading strategy optimization include the use of artificial intelligence (AI) and big data. Traders are using AI to analyze huge amounts of data quickly and find patterns that can help them make better trading decisions. This means they can look at more information than ever before, like news articles, social media posts, and even weather reports, to see how these things might affect the market. Big data helps traders understand what is happening in the market in real time, so they can adjust their strategies to make more money and take less risk.
+The latest trends in trading strategy optimization include the use of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and big data. Traders are using AI to analyze huge amounts of data quickly and find patterns that can help them make better trading decisions. This means they can look at more information than ever before, like news articles, social media posts, and even weather reports, to see how these things might affect the market. Big data helps traders understand what is happening in the market in real time, so they can adjust their strategies to make more money and take less risk.
 
 Another trend is the use of cloud computing. This lets traders use powerful computers over the internet to test and optimize their trading strategies. They don't need to buy expensive computers themselves; they can just use the cloud. This makes it easier and cheaper for traders to try out many different versions of their plan and see which one works the best. Tools like MetaTrader, NinjaTrader, and TradingView are also popular because they offer easy ways to backtest and forward test trading strategies. These tools help traders see how their plan would have worked in the past and how it might work in the future.
 

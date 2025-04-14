@@ -66,7 +66,7 @@ However, if Class A shares pay higher dividends than Class B shares, you might e
 
 ## How might the market liquidity differ between Class A and Class B shares?
 
-Market liquidity can be different for Class A and Class B shares. Liquidity means how easy it is to buy or sell shares without affecting their price too much. Usually, Class A shares might be less liquid than Class B shares because they are often held by people who want to keep control of the company, like founders or big investors. These people might not want to sell their shares often, so there are fewer Class A shares being traded.
+Market [liquidity](/wiki/liquidity-risk-premium) can be different for Class A and Class B shares. Liquidity means how easy it is to buy or sell shares without affecting their price too much. Usually, Class A shares might be less liquid than Class B shares because they are often held by people who want to keep control of the company, like founders or big investors. These people might not want to sell their shares often, so there are fewer Class A shares being traded.
 
 On the other hand, Class B shares might be more liquid because they are often cheaper and more people can afford to buy them. More people trading Class B shares means there's usually a bigger market for them. This can make it easier for you to sell your Class B shares quickly if you need to. So, if you care about being able to buy or sell shares easily, you might want to think about the liquidity of Class A and Class B shares before you invest.
 

@@ -48,7 +48,7 @@ Another option is to look into ETFs or index funds. These are types of investmen
 
 ## What are the current trends in the investment world?
 
-One big trend in the investment world right now is the focus on sustainable and responsible investing. More and more people want to put their money into companies that are good for the environment or help society. This is called ESG investing, which stands for Environmental, Social, and Governance. People like this because it lets them make money and also support causes they care about. Companies that are doing well in these areas are becoming more popular with investors.
+One big trend in the investment world right now is the focus on sustainable and responsible investing. More and more people want to put their money into companies that are good for the environment or help society. This is called [ESG](/wiki/esg-investing) investing, which stands for Environmental, Social, and Governance. People like this because it lets them make money and also support causes they care about. Companies that are doing well in these areas are becoming more popular with investors.
 
 Another trend is the rise of technology in investing. Apps and online platforms are making it easier for anyone to start investing, even with small amounts of money. Robo-advisors are a big part of this. They use computers to help pick investments for you based on what you want and how much risk you're okay with. This makes investing less scary for beginners and helps people manage their money better.
 

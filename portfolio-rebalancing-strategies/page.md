@@ -54,7 +54,7 @@ This process is important because it keeps your investments in line with your go
 
 ## How can one use rebalancing to take advantage of market volatility?
 
-Rebalancing can help you take advantage of market volatility by letting you buy low and sell high. When the market goes up and down a lot, some of your investments might grow more than others. If stocks go up a lot, you might end up with more money in stocks than you planned. By rebalancing, you sell some of those stocks that went up and buy more of the investments that didn't do as well. This way, you're selling high and buying low, which can help your portfolio grow over time.
+Rebalancing can help you take advantage of market [volatility](/wiki/volatility-trading-strategies) by letting you buy low and sell high. When the market goes up and down a lot, some of your investments might grow more than others. If stocks go up a lot, you might end up with more money in stocks than you planned. By rebalancing, you sell some of those stocks that went up and buy more of the investments that didn't do as well. This way, you're selling high and buying low, which can help your portfolio grow over time.
 
 It's like getting a discount on the investments that went down in value. When the market is volatile, rebalancing lets you move your money around to keep your investments balanced. This can help you make the most of the ups and downs in the market. By sticking to your plan and rebalancing regularly, you can use market volatility to your advantage and keep your portfolio on track with your goals.
 

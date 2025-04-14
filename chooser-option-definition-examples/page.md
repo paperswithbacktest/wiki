@@ -46,9 +46,9 @@ In addition to individual investors, chooser options are also used by companies 
 
 ## How is the value of a chooser option determined?
 
-The value of a chooser option is determined by several factors, including the price of the underlying asset, the time left until the option expires, and the volatility of the asset's price. Since a chooser option lets you decide if it will be a call or a put, its value is based on the values of both types of options. The more time you have to decide, the more valuable the chooser option can be because you have more time to see how the market moves.
+The value of a chooser option is determined by several factors, including the price of the underlying asset, the time left until the option expires, and the [volatility](/wiki/volatility-trading-strategies) of the asset's price. Since a chooser option lets you decide if it will be a call or a put, its value is based on the values of both types of options. The more time you have to decide, the more valuable the chooser option can be because you have more time to see how the market moves.
 
-To calculate the value, you often use a mathematical model like the Black-Scholes model, which is commonly used for pricing options. This model takes into account the current price of the asset, the strike price of the option, the time until expiration, the risk-free interest rate, and the expected volatility of the asset's price. By comparing the values of the potential call and put options, you can figure out the overall value of the chooser option. This helps investors understand how much they should pay for the option and what kind of profit they might make.
+To calculate the value, you often use a mathematical model like the Black-Scholes model, which is commonly used for pricing options. This model takes into account the current price of the asset, the strike price of the option, the time until expiration, the risk-free [interest rate](/wiki/interest-rate-trading-strategies), and the expected volatility of the asset's price. By comparing the values of the potential call and put options, you can figure out the overall value of the chooser option. This helps investors understand how much they should pay for the option and what kind of profit they might make.
 
 ## What are the pricing models used for chooser options?
 

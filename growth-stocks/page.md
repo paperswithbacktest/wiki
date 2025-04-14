@@ -18,7 +18,7 @@ However, growth stocks can be riskier than other types of investments. Since the
 
 Growth stocks and value stocks are two different ways to invest in the stock market. Growth stocks are from companies that are expected to grow a lot and quickly. These companies usually don't pay much in dividends because they use their money to grow even more. People buy growth stocks hoping that the company will do well and the stock price will go up a lot. But, these stocks can be risky because if the company doesn't grow as expected, the stock price can fall a lot.
 
-Value stocks, on the other hand, are from companies that are seen as good deals. These stocks are often cheaper than what they're really worth. People buy value stocks thinking that the company is undervalued and that the stock price will go up when others realize its true value. Value stocks usually come from more established companies and might pay dividends. They are considered less risky than growth stocks, but they might not grow as fast.
+Value stocks, on the other hand, are from companies that are seen as good deals. These stocks are often cheaper than what they're really worth. People buy value stocks thinking that the company is undervalued and that the stock price will go up when others realize its true value. Value stocks usually come from more established companies and might pay dividends. They are considered less risky than [growth stocks](/wiki/growth-stocks), but they might not grow as fast.
 
 In summary, growth stocks are about betting on fast growth and future potential, while value stocks are about finding bargains and waiting for the market to recognize their true value. Both types of stocks have their own risks and rewards, and investors choose based on their goals and how much risk they're willing to take.
 
@@ -84,7 +84,7 @@ Another strategy is to make sure your portfolio is not too focused on just growt
 
 ## What are the strategies for algo trading growth stocks?
 
-Algorithmic trading offers a variety of strategies suitable for growth stocks, which are known for their rapid price movements and high volatility. Two of the most effective strategies are momentum strategies and mean reversion strategies, each providing unique opportunities to capture profits from the dynamic nature of growth stocks.
+Algorithmic trading offers a variety of strategies suitable for growth stocks, which are known for their rapid price movements and high [volatility](/wiki/volatility-trading-strategies). Two of the most effective strategies are [momentum](/wiki/momentum) strategies and mean reversion strategies, each providing unique opportunities to capture profits from the dynamic nature of growth stocks.
 
 **Momentum Strategies:**
 

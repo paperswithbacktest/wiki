@@ -42,7 +42,7 @@ Another advantage of term bonds is that they usually pay interest along the way.
 
 Term bonds can be risky if the issuer can't pay back the money on the maturity date. This is called default risk. If the issuer has a low credit rating, it means they might have trouble paying back the money. This can be a big problem for investors because they might not get their money back when they need it. It's important to check the credit rating of the issuer before buying term bonds to see how likely they are to pay back the money on time.
 
-Another risk with term bonds is interest rate risk. If interest rates go up after you buy a term bond, the value of your bond might go down. This is because new bonds will be issued with higher interest rates, making your bond less attractive to other investors. If you need to sell your bond before the maturity date, you might have to sell it for less than you paid for it. This can be a problem if you need your money back sooner than expected.
+Another risk with term bonds is [interest rate](/wiki/interest-rate-trading-strategies) risk. If interest rates go up after you buy a term bond, the value of your bond might go down. This is because new bonds will be issued with higher interest rates, making your bond less attractive to other investors. If you need to sell your bond before the maturity date, you might have to sell it for less than you paid for it. This can be a problem if you need your money back sooner than expected.
 
 Lastly, there's reinvestment risk. When your term bond matures, you might have to reinvest the money at a lower interest rate if rates have gone down. This means you might not be able to earn as much money on your investment as you did before. This can affect your overall returns and your financial plans.
 
@@ -62,7 +62,7 @@ Once the bond prospectus is ready, the issuer usually hires an underwriter, whic
 
 Term bonds are priced based on how much interest they pay and how risky they are. When a company or government wants to issue term bonds, they work with a bank or financial advisor to figure out the interest rate. This rate is influenced by the current interest rates in the market and how much investors want to earn. If the bond is seen as risky, the issuer might have to offer a higher interest rate to attract investors. The price of the bond is then set so that the total interest paid over time matches what investors expect to earn.
 
-Several factors can influence the pricing of term bonds. One big factor is the credit rating of the issuer. If the issuer has a good credit rating, it means they are more likely to pay back the money on time, so they can offer a lower interest rate. Another factor is the overall economy. If the economy is doing well, interest rates might be higher, which can affect the price of new bonds. Also, if interest rates in the market change after the bond is issued, the value of the bond can go up or down. This is because investors might want to buy or sell the bond based on what they can earn from other investments.
+Several factors can influence the pricing of term bonds. One big [factor](/wiki/factor-investing) is the credit rating of the issuer. If the issuer has a good credit rating, it means they are more likely to pay back the money on time, so they can offer a lower interest rate. Another factor is the overall economy. If the economy is doing well, interest rates might be higher, which can affect the price of new bonds. Also, if interest rates in the market change after the bond is issued, the value of the bond can go up or down. This is because investors might want to buy or sell the bond based on what they can earn from other investments.
 
 ## What are sinking fund provisions in term bonds and how do they work?
 
@@ -72,7 +72,7 @@ The way sinking funds work is that the issuer puts money into the fund regularly
 
 ## How do callable term bonds function and what are their implications for investors?
 
-Callable term bonds are a type of bond that the issuer can pay back before the maturity date. This means the issuer can decide to give the money back to investors early if they want to. They usually do this if interest rates go down because they can borrow money again at a lower rate. When a bond is called, investors get their money back, but they might not get to keep earning the interest they were expecting. This can be a problem if they were counting on that money.
+Callable term bonds are a type of bond that the issuer can pay back before the maturity date. This means the issuer can decide to give the money back to investors early if they want to. They usually do this if interest rates go down because they can borrow money again at a lower rate. When a bond is called, investors get their money back, but they might not get to keep [earning](/wiki/earning-announcement) the interest they were expecting. This can be a problem if they were counting on that money.
 
 For investors, callable term bonds can be risky because they might not know when they will get their money back. If the bond is called early, they have to find a new place to invest their money, which might not pay as much interest. On the other hand, callable bonds often offer a higher interest rate to start with because of this risk. So, if the bond isn't called early, investors can earn more money. It's important for investors to think about these risks and rewards before buying callable term bonds.
 
@@ -84,7 +84,7 @@ Another strategy is to pay attention to the credit ratings of the issuers of the
 
 ## References & Further Reading
 
-For more information and detailed studies on financial instruments, bond types, and algorithmic trading, refer to the following resources:
+For more information and detailed studies on financial instruments, bond types, and [algorithmic trading](/wiki/algorithmic-trading), refer to the following resources:
 
 - Lopez de Prado, M., *Advances in Financial Machine Learning*: This book provides a comprehensive exploration of the applications of machine learning techniques in financial markets, focusing on advanced methods to analyze market data and assist in decision-making for trading strategies.
 

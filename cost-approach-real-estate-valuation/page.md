@@ -116,7 +116,7 @@ While the cost approach provides a logical and structured framework for appraisa
 
 Machine learning and big data are increasingly crucial in the field of real estate, offering enhanced tools for analyzing vast datasets that can significantly improve property value predictions and market forecasts. Machine learning models process large volumes of data, identifying patterns and correlations that are often beyond human capability, thus providing a more comprehensive understanding of the real estate market dynamics.
 
-Machine learning algorithms, such as regression models, decision trees, and neural networks, are used to analyze historical and current data, including property prices, economic indicators, and demographic trends. By learning from these data sets, models can predict future market trends, assess property values more accurately, and even forecast neighborhood development potential. One common application is through predictive analytics where machine learning models forecast future price movements based on various influencing factors. The formula typically applied in such scenarios is:
+Machine learning algorithms, such as regression models, decision trees, and neural networks, are used to analyze historical and current data, including property prices, economic indicators, and demographic trends. By learning from these data sets, models can predict future market trends, assess property values more accurately, and even forecast neighborhood development potential. One common application is through predictive analytics where [machine learning](/wiki/machine-learning) models forecast future price movements based on various influencing factors. The formula typically applied in such scenarios is:
 
 $$
 \hat{y} = f(X) + \epsilon

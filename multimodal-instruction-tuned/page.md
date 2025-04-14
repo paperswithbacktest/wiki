@@ -21,7 +21,7 @@ For instance, if you ask a traditional model a question about a picture, it migh
 
 ## What are the key components of a multimodal instruction-tuned model?
 
-The key components of a multimodal instruction-tuned model include the data sources, the model architecture, and the instruction tuning process. Data sources are the different types of information the model learns from, like text, images, and sounds. The model architecture is the design of the machine learning system that allows it to process and understand these different types of data at the same time. This often involves using neural networks that can handle multiple inputs and combine them effectively.
+The key components of a multimodal instruction-tuned model include the data sources, the model architecture, and the instruction tuning process. Data sources are the different types of information the model learns from, like text, images, and sounds. The model architecture is the design of the [machine learning](/wiki/machine-learning) system that allows it to process and understand these different types of data at the same time. This often involves using neural networks that can handle multiple inputs and combine them effectively.
 
 The instruction tuning process is crucial because it teaches the model how to use the data it receives. During this process, the model is given many examples of inputs along with the correct outputs, and it learns to follow specific instructions on how to handle these inputs. For example, if the model is shown a picture and asked a question about it, the instruction tuning helps it understand how to look at the picture and answer the question correctly. This makes the model more useful and accurate in real-life situations where it needs to respond to different types of information.
 
@@ -33,7 +33,7 @@ The process involves giving the model specific instructions on how to handle the
 
 ## What types of data are typically used in multimodal learning?
 
-Multimodal learning uses different types of data like text, images, and sounds all at the same time. Text data can include words from books, websites, or conversations. Images can be pictures or videos, and sounds can be music, speech, or other noises. By using all these types of data together, the machine can understand and respond to things better than if it only used one type of data.
+Multimodal learning uses different types of data like text, images, and sounds all at the same time. Text data can include words from [books](/wiki/algo-trading-books), websites, or conversations. Images can be pictures or videos, and sounds can be music, speech, or other noises. By using all these types of data together, the machine can understand and respond to things better than if it only used one type of data.
 
 For example, if you show a picture of a cat and ask, "What is this?", the machine can use the image to see the cat and the text to understand the question. This helps it give a better answer, like "It's a cat." Using different types of data helps the machine learn more about the world and respond in ways that are more helpful and accurate.
 
@@ -71,7 +71,7 @@ In multimodal models, transfer learning can be used to combine different types o
 
 One of the latest advancements in multimodal instruction-tuned machine learning is the development of models that can handle even more types of data at the same time. Researchers are working on models that can understand text, images, sounds, and even videos together. This makes the models more useful in real-life situations where people use different senses together. For example, a new model might be able to watch a video, listen to the sounds, and read the subtitles all at once, helping it give better answers about what's happening in the video.
 
-Another advancement is the use of more advanced techniques for instruction tuning. These techniques help the model learn from examples more effectively, so it can follow instructions better. Researchers are using methods like reinforcement learning and fine-tuning on specific tasks to make the models more accurate and helpful. By doing this, the models can understand and respond to different types of information in a way that feels more natural and useful to people.
+Another advancement is the use of more advanced techniques for instruction tuning. These techniques help the model learn from examples more effectively, so it can follow instructions better. Researchers are using methods like [reinforcement learning](/wiki/reinforcement-learning) and fine-tuning on specific tasks to make the models more accurate and helpful. By doing this, the models can understand and respond to different types of information in a way that feels more natural and useful to people.
 
 ## How can one start building their own multimodal instruction-tuned model?
 

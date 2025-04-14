@@ -135,7 +135,7 @@ This integration of technology not only enhances accuracy and efficiency but als
 
 ## References & Further Reading
 
-For a comprehensive understanding of the intricate aspects of lease classification, capital leases, and algorithmic trading, several resources are highly recommended.
+For a comprehensive understanding of the intricate aspects of lease classification, capital leases, and [algorithmic trading](/wiki/algorithmic-trading), several resources are highly recommended.
 
 The **Financial Accounting Standards Board (FASB)'s literature on ASC 842** is essential for understanding the updated lease accounting standards. ASC 842 mandates that leases are recognized on the balance sheet, requiring lessees to account for the liability resulting from lease obligations. This guidance fundamentally shifts how leases are reported, aiming to increase transparency and comparability across financial statements.
 

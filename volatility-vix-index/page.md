@@ -98,7 +98,7 @@ For traders, the VIX is an instrumental tool in portfolio management. It provide
 
 ## What are the results of backtesting VIX-based strategies?
 
-Backtesting is an essential process for evaluating the effectiveness of trading strategies by applying them to historical data. When it comes to VIX-based strategies, backtesting can uncover relationships between VIX fluctuations and market behavior, providing traders valuable insights into prospective performance during similar future conditions.
+Backtesting is an essential process for evaluating the effectiveness of trading strategies by applying them to historical data. When it comes to VIX-based strategies, [backtesting](/wiki/backtesting) can uncover relationships between VIX fluctuations and market behavior, providing traders valuable insights into prospective performance during similar future conditions.
 
 The process begins by accumulating historical data on the VIX to analyze how its movements correlate with overall market trends. This data serves as the foundation for simulating trading strategies under different volatility environments. Traders often employ key performance metrics, such as the Sharpe ratio, to quantify the risk-adjusted return of a given strategy. The Sharpe ratio is calculated as:
 

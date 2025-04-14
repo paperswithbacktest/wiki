@@ -68,7 +68,7 @@ To fix this, you need to make the data stationary before using it in models. If 
 
 ## Can machine learning models handle non-stationary data?
 
-Machine learning models can handle non-stationary data, but it's a bit trickier than working with stationary data. Non-stationary data means the patterns in the data change over time, which can make it hard for models to learn the right rules. Some machine learning models, like those that use time as a feature or have ways to adapt to changes, can still work well with non-stationary data. For example, models like Long Short-Term Memory (LSTM) networks are good at this because they can remember past patterns and adjust as new patterns emerge.
+Machine learning models can handle non-stationary data, but it's a bit trickier than working with stationary data. Non-stationary data means the patterns in the data change over time, which can make it hard for models to learn the right rules. Some [machine learning](/wiki/machine-learning) models, like those that use time as a feature or have ways to adapt to changes, can still work well with non-stationary data. For example, models like Long Short-Term Memory (LSTM) networks are good at this because they can remember past patterns and adjust as new patterns emerge.
 
 However, it's often still a good idea to make the data stationary before using it in machine learning models. This can make the models more accurate and easier to understand. You can do this by using techniques like differencing, where you look at the changes between values instead of the values themselves. This way, even if the original data was changing over time, the changes might stay the same, making it easier for the model to predict what will happen next.
 
@@ -86,7 +86,7 @@ Another exciting development is in the field of transfer learning, where models 
 
 ## How can we detect stationarity in time series data?
 
-Stationarity in time series data is a fundamental assumption for many statistical models used in algorithmic trading. Detecting stationarity is crucial to ensure the reliability and effectiveness of these models. This section explores methods and tools for assessing the stationarity of time series data.
+Stationarity in time series data is a fundamental assumption for many statistical models used in [algorithmic trading](/wiki/algorithmic-trading). Detecting stationarity is crucial to ensure the reliability and effectiveness of these models. This section explores methods and tools for assessing the stationarity of time series data.
 
 ### Methods for Testing Stationarity
 

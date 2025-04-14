@@ -72,7 +72,7 @@ A tech startup might use double entry accounting when it gets a loan for $10,000
 
 ## How has double entry accounting evolved with modern accounting software?
 
-Double entry accounting has changed a lot with modern accounting software. Before, people used to write everything down in big books by hand. Now, with computers, you can use programs like QuickBooks or Xero to keep track of your money. These programs do the double entry for you automatically. When you enter a transaction, the software puts the numbers in the right places, so you don't have to worry about making mistakes. It also makes it easier to see all your accounts at once and find any problems quickly.
+Double entry accounting has changed a lot with modern accounting software. Before, people used to write everything down in big [books](/wiki/algo-trading-books) by hand. Now, with computers, you can use programs like QuickBooks or Xero to keep track of your money. These programs do the double entry for you automatically. When you enter a transaction, the software puts the numbers in the right places, so you don't have to worry about making mistakes. It also makes it easier to see all your accounts at once and find any problems quickly.
 
 These software tools also help businesses do more than just keep records. They can make reports that show you how your business is doing, like how much money you're making or spending. You can also connect them to your bank account, so your transactions show up in the software right away. This makes it easier to keep everything up to date and helps you see the big picture of your money. With these tools, businesses can manage their finances better and make smarter decisions.
 

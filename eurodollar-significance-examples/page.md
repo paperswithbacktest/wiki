@@ -52,7 +52,7 @@ Central banks, like the Federal Reserve in the U.S., have to think about Eurodol
 
 ## How do Eurodollar futures work, and why are they important?
 
-Eurodollar futures are contracts that let people bet on what the interest rate for Eurodollars will be in the future. They are traded on exchanges like the Chicago Mercantile Exchange. When someone buys a Eurodollar futures contract, they are making a deal to either pay or receive a certain amount of money based on what the interest rate is at a specific time in the future. This helps businesses and investors manage the risk of interest rates changing.
+Eurodollar futures are contracts that let people bet on what the [interest rate](/wiki/interest-rate-trading-strategies) for Eurodollars will be in the future. They are traded on exchanges like the Chicago Mercantile Exchange. When someone buys a Eurodollar futures contract, they are making a deal to either pay or receive a certain amount of money based on what the interest rate is at a specific time in the future. This helps businesses and investors manage the risk of interest rates changing.
 
 Eurodollar futures are important because they help people and businesses protect themselves from changes in interest rates. For example, if a company knows it will need to borrow money in the future, it can use Eurodollar futures to lock in an interest rate now. This way, if interest rates go up, the company won't have to pay more than it planned. Eurodollar futures also give investors a way to make money by guessing what interest rates will do, which adds more activity and flexibility to the global financial markets.
 
@@ -82,7 +82,7 @@ Today, the Eurodollar market is still very important, but it has changed in some
 
 ## What are some examples of Eurodollar utilization?
 
-Multinational corporations leverage Eurodollars to enhance their global cash management strategies. By holding deposits in U.S. dollars outside the jurisdiction of the Federal Reserve, these companies can manage liquidity more effectively across different geographic regions, optimizing exchange rates and minimizing costs associated with currency conversion. This practice becomes particularly advantageous for corporations with substantial transactions in U.S. dollars, as it simplifies treasury operations and hedges against potential currency risk.
+Multinational corporations leverage Eurodollars to enhance their global cash management strategies. By holding deposits in U.S. dollars outside the jurisdiction of the Federal Reserve, these companies can manage [liquidity](/wiki/liquidity-risk-premium) more effectively across different geographic regions, optimizing exchange rates and minimizing costs associated with currency conversion. This practice becomes particularly advantageous for corporations with substantial transactions in U.S. dollars, as it simplifies treasury operations and hedges against potential currency risk.
 
 Eurodollar futures are a pivotal element for investors seeking to speculate on future interest rates and manage interest rate exposure. These futures contracts, primarily traded on platforms like the Chicago Mercantile Exchange (CME), allow participants to lock in interest rates for future transactions. By engaging in these contracts, investors and traders can mitigate the risk of interest rate fluctuations affecting their portfolios. The formula used to derive the price of these futures is typically:
 

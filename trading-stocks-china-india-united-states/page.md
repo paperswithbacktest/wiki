@@ -24,7 +24,7 @@ If you want to start trading stocks in India from the United States, the process
 
 In China, there are two main stock exchanges where people can buy and sell stocks. The first one is the Shanghai Stock Exchange, which is the bigger of the two. It's where many big Chinese companies are listed. The second one is the Shenzhen Stock Exchange, which is a bit smaller but still very important. It's known for having more technology and smaller companies listed on it.
 
-In India, there are also two main stock exchanges. The first one is the Bombay Stock Exchange (BSE), which is the oldest stock exchange in Asia. It's where a lot of big Indian companies trade their stocks. The second one is the National Stock Exchange of India (NSE), which is newer but has become very popular. It's known for being more technology-driven and having more trading volume than the BSE.
+In India, there are also two main stock exchanges. The first one is the Bombay Stock Exchange (BSE), which is the oldest stock exchange in Asia. It's where a lot of big Indian companies trade their stocks. The second one is the National Stock Exchange of India (NSE), which is newer but has become very popular. It's known for being more technology-driven and having more trading [volume](/wiki/volume-trading-strategy) than the BSE.
 
 ## What are the key differences between trading stocks in China and India?
 
@@ -58,9 +58,9 @@ Using technology also means you can set up alerts and automatic trades. For exam
 
 ## What are the common strategies used by experienced traders in these markets?
 
-Experienced traders in China often use a strategy called "momentum trading." This means they look for stocks that are going up quickly and try to buy them before they go up even more. They also pay close attention to news and government policies because these can make the stock market move a lot. Another common strategy is "value investing," where traders look for stocks that they think are priced too low and hold onto them until the price goes up. Because the Chinese market can be unpredictable, many traders also use "stop-loss orders" to limit their losses if a stock starts to fall.
+Experienced traders in China often use a strategy called "[momentum](/wiki/momentum) trading." This means they look for stocks that are going up quickly and try to buy them before they go up even more. They also pay close attention to news and government policies because these can make the stock market move a lot. Another common strategy is "value investing," where traders look for stocks that they think are priced too low and hold onto them until the price goes up. Because the Chinese market can be unpredictable, many traders also use "stop-loss orders" to limit their losses if a stock starts to fall.
 
-In India, experienced traders often use "technical analysis" to make trading decisions. This means they look at charts and patterns to guess where the stock price might go next. They also use "fundamental analysis," which means they study a company's financial health to decide if it's a good investment. Many traders in India use "swing trading," where they hold stocks for a few days or weeks to take advantage of short-term price movements. Just like in China, traders in India also use "stop-loss orders" to protect their money if the market turns against them.
+In India, experienced traders often use "technical analysis" to make trading decisions. This means they look at charts and patterns to guess where the stock price might go next. They also use "[fundamental analysis](/wiki/fundamental-analysis)," which means they study a company's financial health to decide if it's a good investment. Many traders in India use "swing trading," where they hold stocks for a few days or weeks to take advantage of short-term price movements. Just like in China, traders in India also use "stop-loss orders" to protect their money if the market turns against them.
 
 ## How do geopolitical factors influence stock trading in China and India?
 

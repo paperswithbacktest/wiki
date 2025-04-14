@@ -74,7 +74,7 @@ The board of directors is chosen by the shareholders to help run the company. Th
 
 A joint-stock company has to follow strict rules about telling the government and its shareholders how it's doing financially. This means they have to make financial reports regularly, usually every three months and at the end of the year. These reports show how much money the company made, how much it spent, and how much it owes. The company has to be honest in these reports because they help people decide if they want to buy or sell shares in the company. If the company doesn't tell the truth, it can get in big trouble.
 
-Besides regular reports, a joint-stock company also has to get its financial statements checked by a special kind of accountant called an auditor. The auditor looks at the company's books to make sure everything is correct and that the company is following the law. After checking, the auditor writes a report saying if the financial statements are right or if there are problems. This helps keep the company honest and makes shareholders feel more sure about the company's financial health.
+Besides regular reports, a joint-stock company also has to get its financial statements checked by a special kind of accountant called an auditor. The auditor looks at the company's [books](/wiki/algo-trading-books) to make sure everything is correct and that the company is following the law. After checking, the auditor writes a report saying if the financial statements are right or if there are problems. This helps keep the company honest and makes shareholders feel more sure about the company's financial health.
 
 ## How do joint-stock companies handle mergers, acquisitions, and dissolution?
 
@@ -88,7 +88,7 @@ Algorithmic trading has fundamentally reshaped financial markets, offering unpre
 
 ### Market Volatility
 
-One of the most significant risks associated with algorithmic trading is increased market [volatility](/wiki/volatility-trading-strategies). Algorithms can react almost instantaneously to market data, leading to rapid buying and selling that can cause significant price swings. This was evident during the "Flash Crash" on May 6, 2010, where the Dow Jones Industrial Average plunged about 1,000 points within minutes, only to recover shortly thereafter. The incident was partly attributed to automated trading systems that triggered a cascade of selling. 
+One of the most significant risks associated with [algorithmic trading](/wiki/algorithmic-trading) is increased market [volatility](/wiki/volatility-trading-strategies). Algorithms can react almost instantaneously to market data, leading to rapid buying and selling that can cause significant price swings. This was evident during the "Flash Crash" on May 6, 2010, where the Dow Jones Industrial Average plunged about 1,000 points within minutes, only to recover shortly thereafter. The incident was partly attributed to automated trading systems that triggered a cascade of selling. 
 
 Mathematically, the volatility, often measured by the standard deviation $\sigma$ of price returns, can see sharper fluctuations in an algorithm-driven market. Such volatility can be modeled using stochastic differential equations like the Geometric Brownian Motion:
 

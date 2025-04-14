@@ -90,11 +90,11 @@ Another way to improve risk management is by learning from other businesses and 
 
 ## What are Risk Management Strategies?
 
-Risk management in algorithmic trading is critical to minimizing potential financial losses and ensuring the stability of trading systems. Efficient strategies focus on fortifying the trading framework against unforeseen market scenarios and operational failures.
+Risk management in [algorithmic trading](/wiki/algorithmic-trading) is critical to minimizing potential financial losses and ensuring the stability of trading systems. Efficient strategies focus on fortifying the trading framework against unforeseen market scenarios and operational failures.
 
 **Regular Stress Testing**
 
-Regular stress testing is fundamental to ensure the robustness of trading algorithms under extreme market conditions. This involves the simulation of scenarios that could lead to market upheaval, such as sudden price swings, liquidity droughts, or systemic failures. By anticipating how trading algorithms react in stressed environments, traders can refine strategies to prevent detrimental outcomes. For instance, a stress test might simulate a market scenario where a major currency depreciates by 10% in a single day to evaluate the potential implications on a portfolio. Stress tests enable traders to identify weaknesses and rectify them proactively before real-world occurrences.
+Regular stress testing is fundamental to ensure the robustness of trading algorithms under extreme market conditions. This involves the simulation of scenarios that could lead to market upheaval, such as sudden price swings, [liquidity](/wiki/liquidity-risk-premium) droughts, or systemic failures. By anticipating how trading algorithms react in stressed environments, traders can refine strategies to prevent detrimental outcomes. For instance, a stress test might simulate a market scenario where a major currency depreciates by 10% in a single day to evaluate the potential implications on a portfolio. Stress tests enable traders to identify weaknesses and rectify them proactively before real-world occurrences.
 
 **Diversification**
 

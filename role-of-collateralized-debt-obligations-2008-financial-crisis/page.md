@@ -18,7 +18,7 @@ CDOs can be a bit tricky because they are divided into different levels, or tran
 
 CDOs work by taking a bunch of loans, like home loans or credit card debts, and putting them all together into one big pool. This pool is then split into pieces called tranches. Each tranche is different because it has a different level of risk. The safest tranches are paid back first if people start missing their loan payments, but they also give the lowest returns. The riskier tranches are paid back last, but they offer higher returns to make up for the extra risk.
 
-When a bank or financial institution creates a CDO, they sell these tranches to investors. This helps the bank because it can move the risk of the loans off its books and onto the investors. For investors, buying a tranche of a CDO can be a way to earn money from the interest payments on the loans in the pool. But, it's important for investors to understand the risks because if too many people can't pay back their loans, the value of the CDO can drop and the investors might lose money.
+When a bank or financial institution creates a CDO, they sell these tranches to investors. This helps the bank because it can move the risk of the loans off its [books](/wiki/algo-trading-books) and onto the investors. For investors, buying a tranche of a CDO can be a way to earn money from the interest payments on the loans in the pool. But, it's important for investors to understand the risks because if too many people can't pay back their loans, the value of the CDO can drop and the investors might lose money.
 
 ## What role did CDOs play in the 2008 financial crisis?
 

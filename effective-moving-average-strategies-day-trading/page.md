@@ -24,7 +24,7 @@ In summary, the main difference between SMAs and EMAs is how they weigh the pric
 
 ## What are the most common time periods used for moving averages in day trading?
 
-In day trading, the most common time periods for moving averages are short-term, usually between 5 to 20 periods. A 5-period moving average looks at the last 5 minutes, hours, or days depending on the chart time frame. Traders use these short periods to get quick signals about where the price is heading. For example, a 10-period moving average might show if the price is going up or down in the last 10 minutes, helping traders decide when to buy or sell.
+In [day trading](/wiki/day-trading-spy), the most common time periods for moving averages are short-term, usually between 5 to 20 periods. A 5-period moving average looks at the last 5 minutes, hours, or days depending on the chart time frame. Traders use these short periods to get quick signals about where the price is heading. For example, a 10-period moving average might show if the price is going up or down in the last 10 minutes, helping traders decide when to buy or sell.
 
 Some traders also use medium-term moving averages, like 50 or 100 periods, but these are less common in day trading because they take longer to respond to price changes. A 50-period moving average might be used on a 1-minute chart to see the trend over a longer time frame within the trading day. These can help confirm the short-term signals or give a broader view of the market's direction.
 
@@ -74,7 +74,7 @@ Another way to use moving averages with other indicators is with the Moving Aver
 
 ## What role do moving averages play in algorithmic trading and automated systems?
 
-Moving averages are important tools in algorithmic trading and automated systems. These systems use computers to make trading decisions based on rules set by traders. Moving averages help these systems see trends in the market by smoothing out the price data over time. For example, an algorithm might use a 50-day moving average to decide if a stock is in an uptrend or a downtrend. If the price stays above the moving average, the system might buy the stock, thinking it will keep going up. If the price stays below, the system might sell, thinking it will keep going down.
+Moving averages are important tools in [algorithmic trading](/wiki/algorithmic-trading) and automated systems. These systems use computers to make trading decisions based on rules set by traders. Moving averages help these systems see trends in the market by smoothing out the price data over time. For example, an algorithm might use a 50-day moving average to decide if a stock is in an uptrend or a downtrend. If the price stays above the moving average, the system might buy the stock, thinking it will keep going up. If the price stays below, the system might sell, thinking it will keep going down.
 
 In automated systems, moving averages can also help set rules for when to buy or sell. Traders can program their systems to look for crossovers, where a short-term moving average crosses above or below a long-term one. For example, if a 10-day moving average crosses above a 50-day moving average, the system might see this as a signal to buy. If it crosses below, the system might see it as a signal to sell. By using moving averages, these systems can make quick decisions without needing a person to watch the market all the time. This makes trading faster and can help catch trends early.
 

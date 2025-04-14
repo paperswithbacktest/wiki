@@ -28,7 +28,7 @@ On the other hand, a liquidity cost curve focuses on the cost of trading a large
 
 ## What factors influence the shape of a liquidity cost curve?
 
-The shape of a liquidity cost curve is influenced by several factors. One big factor is how many people are trading the asset. If lots of people are buying and selling, it's easier to trade a big amount without changing the price too much. This makes the curve flatter because the cost of trading quickly is lower. On the other hand, if not many people are trading, it's harder to sell a big amount without dropping the price a lot. This makes the curve steeper because the cost of trading quickly is higher.
+The shape of a liquidity cost curve is influenced by several factors. One big [factor](/wiki/factor-investing) is how many people are trading the asset. If lots of people are buying and selling, it's easier to trade a big amount without changing the price too much. This makes the curve flatter because the cost of trading quickly is lower. On the other hand, if not many people are trading, it's harder to sell a big amount without dropping the price a lot. This makes the curve steeper because the cost of trading quickly is higher.
 
 Another factor is how easy it is to find someone to trade with. If there are lots of buyers and sellers ready to trade at any time, the curve will be flatter. But if it's hard to find someone to trade with, the curve will be steeper. The type of asset also matters. Stocks of big companies usually have flatter curves because lots of people trade them. But stocks of smaller companies might have steeper curves because fewer people trade them. All these things together decide how the liquidity cost curve looks.
 
@@ -72,7 +72,7 @@ By looking at liquidity cost curves, we can tell if a market is working well or 
 
 To model liquidity cost curves, people often use something called regression analysis. This is a way to look at past trades and see how the price changed when big amounts were bought or sold. By using regression, they can make a formula that predicts how much the price might change if someone tries to trade a big amount quickly. This helps them understand the cost of liquidity and plan their trades better. Another method is called time series analysis, which looks at how prices change over time. This can show patterns in how the market reacts to big trades and help predict what might happen in the future.
 
-Sometimes, people use machine learning to model liquidity cost curves. Machine learning is like teaching a computer to find patterns in data. By feeding the computer lots of information about past trades, it can learn how the price changes when big amounts are traded. This can make the predictions more accurate because the computer can find patterns that might be hard for people to see. All these methods help traders understand the cost of trading quickly and make better decisions about when and how to trade.
+Sometimes, people use [machine learning](/wiki/machine-learning) to model liquidity cost curves. Machine learning is like teaching a computer to find patterns in data. By feeding the computer lots of information about past trades, it can learn how the price changes when big amounts are traded. This can make the predictions more accurate because the computer can find patterns that might be hard for people to see. All these methods help traders understand the cost of trading quickly and make better decisions about when and how to trade.
 
 ## How do liquidity cost curves vary across different asset classes?
 

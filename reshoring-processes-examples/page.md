@@ -24,7 +24,7 @@ Another reason companies consider reshoring is to be closer to their customers. 
 
 One big reason companies think about reshoring is to save money. When they make things in other countries, costs can go up because of shipping, taxes on imports, and changes in money values. If these costs get too high, it can make more sense to bring production back home. By reshoring, companies can avoid these extra costs and have a better idea of how much everything will cost. This can make their business more stable and easier to manage.
 
-Another important factor is being closer to customers. When a company makes things in the same country as its customers, it can deliver products faster and respond to customer needs more quickly. This can make customers happier and help the company grow. Being close to home also makes it easier for the company to control the quality of its products and make sure everything is done the way they want. Plus, governments sometimes offer money or other benefits to companies that reshore, which can make the decision easier.
+Another important [factor](/wiki/factor-investing) is being closer to customers. When a company makes things in the same country as its customers, it can deliver products faster and respond to customer needs more quickly. This can make customers happier and help the company grow. Being close to home also makes it easier for the company to control the quality of its products and make sure everything is done the way they want. Plus, governments sometimes offer money or other benefits to companies that reshore, which can make the decision easier.
 
 ## How does reshoring impact the economy?
 

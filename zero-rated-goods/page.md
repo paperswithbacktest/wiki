@@ -22,7 +22,7 @@ Exempt goods, on the other hand, are items that you also don't pay tax on when y
 
 ## Can you provide examples of zero-rated goods in different countries?
 
-In the United Kingdom, zero-rated goods include basic food items like bread, milk, and vegetables. They also include things like books, newspapers, and children's clothes. These items don't have VAT added to them, which helps keep their prices lower for everyone. In Canada, zero-rated goods under the Goods and Services Tax (GST) include basic groceries, prescription drugs, and medical devices. This means that when you buy these items, you don't pay the extra GST, making them more affordable.
+In the United Kingdom, zero-rated goods include basic food items like bread, milk, and vegetables. They also include things like [books](/wiki/algo-trading-books), newspapers, and children's clothes. These items don't have VAT added to them, which helps keep their prices lower for everyone. In Canada, zero-rated goods under the Goods and Services Tax (GST) include basic groceries, prescription drugs, and medical devices. This means that when you buy these items, you don't pay the extra GST, making them more affordable.
 
 In Australia, zero-rated goods under the Goods and Services Tax (GST) include basic food items like bread, milk, and fruits. They also include some health services and educational courses. This helps make these essential items and services more accessible to people. In India, under the Goods and Services Tax (GST), zero-rated goods include exports and supplies to Special Economic Zones (SEZs). This means that when businesses sell these goods, they don't have to charge GST, which can help them compete better in the global market.
 

@@ -108,7 +108,7 @@ In conclusion, comprehending the intricate factors influencing market prices ena
 
 ## How can we evaluate the performance of algo trading strategies?
 
-Evaluating the performance of algorithmic trading strategies requires the application of specific metrics that reflect both profitability and risk. The primary metrics employed in this evaluation include return on investment (ROI), Sharpe ratio, and maximum drawdown, each offering a unique perspective on strategy efficacy.
+Evaluating the performance of [algorithmic trading](/wiki/algorithmic-trading) strategies requires the application of specific metrics that reflect both profitability and risk. The primary metrics employed in this evaluation include return on investment (ROI), Sharpe ratio, and maximum drawdown, each offering a unique perspective on strategy efficacy.
 
 **Return on Investment (ROI)** is a fundamental metric that quantifies the profitability of a trading strategy. It is calculated as:
 

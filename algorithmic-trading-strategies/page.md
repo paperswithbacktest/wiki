@@ -22,9 +22,9 @@ The second part is the algorithm itself. This is a set of rules or a math formul
 
 ## How do you develop a simple algorithmic trading strategy?
 
-To develop a simple algorithmic trading strategy, start by deciding what you want to trade and what kind of data you'll use. For example, you might want to trade stocks and use price data. Next, think about what kind of rule or pattern you want your algorithm to follow. A simple rule might be to buy a stock when its price goes up by a certain amount and sell it when the price goes down by a certain amount. This is called a trend-following strategy. You'll need to choose specific numbers for how much the price needs to go up or down to trigger a buy or sell.
+To develop a simple [algorithmic trading](/wiki/algorithmic-trading) strategy, start by deciding what you want to trade and what kind of data you'll use. For example, you might want to trade stocks and use price data. Next, think about what kind of rule or pattern you want your algorithm to follow. A simple rule might be to buy a stock when its price goes up by a certain amount and sell it when the price goes down by a certain amount. This is called a trend-following strategy. You'll need to choose specific numbers for how much the price needs to go up or down to trigger a buy or sell.
 
-Once you have your rule, you need to test it. You can do this by using past data to see how your strategy would have worked before. This is called backtesting. If your strategy makes money in the backtest, that's a good sign, but remember that past results don't guarantee future success. After backtesting, you might want to try your strategy with a small amount of real money to see how it works in the live market. This is called forward testing. If it works well, you can start using it with more money, but always keep an eye on it and be ready to make changes if the market changes.
+Once you have your rule, you need to test it. You can do this by using past data to see how your strategy would have worked before. This is called [backtesting](/wiki/backtesting). If your strategy makes money in the backtest, that's a good sign, but remember that past results don't guarantee future success. After backtesting, you might want to try your strategy with a small amount of real money to see how it works in the live market. This is called forward testing. If it works well, you can start using it with more money, but always keep an eye on it and be ready to make changes if the market changes.
 
 ## What are the most common types of algorithmic trading strategies for beginners?
 
@@ -131,7 +131,7 @@ In real-life applications, the TWAP algorithm is highly valuable for assets that
 
 One exemplary instance of TWAP's application can be seen in the [cryptocurrency](/wiki/cryptocurrency) markets. Given the 24/7 nature of cryptocurrency trading, using a TWAP algorithm can help in spreading out trades, ensuring that large orders don't create significant price fluctuations, especially during off-peak trading hours.
 
-While the TWAP strategy is powerful in its own right, traders should always be aware of its limitations, especially when trading in fast-moving markets or during times of significant volatility. It's essential to combine the TWAP with other market indicators and strategies for a more holistic trading approach.
+While the TWAP strategy is powerful in its own right, traders should always be aware of its limitations, especially when trading in fast-moving markets or during times of significant [volatility](/wiki/volatility-trading-strategies). It's essential to combine the TWAP with other market indicators and strategies for a more holistic trading approach.
 
 #### Implementation Shortfall
 

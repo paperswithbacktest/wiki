@@ -36,7 +36,7 @@ The second method is the income approach. Here, you add up all the income earned
 
 GNI and GDP are two ways to measure how much money a country's economy is making, but they look at it from different angles. GDP, or Gross Domestic Product, counts all the money made from goods and services inside a country's borders, no matter who makes it. So, if a foreign company makes something in the United States, it counts toward the U.S. GDP. On the other hand, GNI, or Gross National Income, counts the money made by a country's people and businesses, no matter where they are in the world. If a U.S. company makes money in Japan, it counts toward the U.S. GNI.
 
-The main difference between GNI and GDP is where the money is made. GDP focuses on the location where the production happens, while GNI focuses on who is earning the money. This means that GNI can give a better picture of how much money a country's citizens and businesses are earning, even if they are working or investing in other countries. For example, if many people from a country work abroad and send money home, this will make the country's GNI higher than its GDP.
+The main difference between GNI and GDP is where the money is made. GDP focuses on the location where the production happens, while GNI focuses on who is [earning](/wiki/earning-announcement) the money. This means that GNI can give a better picture of how much money a country's citizens and businesses are earning, even if they are working or investing in other countries. For example, if many people from a country work abroad and send money home, this will make the country's GNI higher than its GDP.
 
 ## Why might a country's GNI be higher than its GDP?
 

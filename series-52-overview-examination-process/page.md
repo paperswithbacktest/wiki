@@ -46,7 +46,7 @@ Another big part of the Series 52 exam is about evasion and escape. Soldiers lea
 
 ## What are some effective study strategies for the Series 52 exam?
 
-To do well on the Series 52 exam, soldiers should start by going over the training materials carefully. They should read the books and notes from the classes and make sure they understand everything. It's a good idea to take notes and write down the most important points. Soldiers can also make flashcards to help them remember key facts about survival, evasion, resistance, and escape. Practicing with these flashcards every day can really help them remember the information.
+To do well on the Series 52 exam, soldiers should start by going over the training materials carefully. They should read the [books](/wiki/algo-trading-books) and notes from the classes and make sure they understand everything. It's a good idea to take notes and write down the most important points. Soldiers can also make flashcards to help them remember key facts about survival, evasion, resistance, and escape. Practicing with these flashcards every day can really help them remember the information.
 
 Another good strategy is to practice the skills they learned in training. Soldiers should try to build shelters, start fires, and navigate without a map in a safe place. They can also practice first aid on themselves or with a friend. It's important to do these things over and over until they feel confident. Soldiers can also talk to others who have taken the exam before. They can ask for tips and advice on what to focus on. By combining studying with hands-on practice, soldiers will be well-prepared for the Series 52 exam.
 

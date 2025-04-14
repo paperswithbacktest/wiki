@@ -64,7 +64,7 @@ On the other hand, you would use standard error when you're trying to estimate h
 
 ## How does the Central Limit Theorem affect the understanding of standard error?
 
-The Central Limit Theorem is a big idea in statistics that helps us understand how the averages of samples behave. It says that if you take many samples from a population and find the average of each sample, the distribution of those sample averages will look like a bell-shaped curve, no matter what the original population looks like. This is really helpful because it means we can predict how sample averages will spread out around the true population average.
+The Central Limit Theorem is a big idea in [statistics](/wiki/bayesian-statistics) that helps us understand how the averages of samples behave. It says that if you take many samples from a population and find the average of each sample, the distribution of those sample averages will look like a bell-shaped curve, no matter what the original population looks like. This is really helpful because it means we can predict how sample averages will spread out around the true population average.
 
 This is where standard error comes in. The Central Limit Theorem tells us that the standard error tells us how spread out those sample averages are around the true population average. If we know the standard deviation of the population and the size of our sample, we can use the Central Limit Theorem to figure out the standard error. This helps us understand how accurate our sample's average is as a guess for the true average of the whole group. So, the Central Limit Theorem makes standard error a powerful tool for making good guesses about populations based on samples.
 

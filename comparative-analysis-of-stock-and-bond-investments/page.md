@@ -18,7 +18,7 @@ Bonds are different from stocks. When you buy a bond, you are lending money to a
 
 Investing in stocks can be risky because the value of your stocks can go up and down a lot. This is called market risk. If the company you invested in does not do well, the price of its stock can drop, and you might lose money. There's also something called company risk, where problems specific to the company, like bad management or losing money, can make the stock price fall. Stocks can be a good way to grow your money over time, but you need to be ready for the ups and downs.
 
-Bonds are usually less risky than stocks, but they still have risks. One risk is interest rate risk. If interest rates go up, the value of your bond might go down because new bonds will offer higher interest rates. There's also credit risk, which means the company or government you lent money to might not be able to pay you back. Bonds are generally safer and provide a steady income, but the returns are usually lower than what you might get from stocks.
+Bonds are usually less risky than stocks, but they still have risks. One risk is [interest rate](/wiki/interest-rate-trading-strategies) risk. If interest rates go up, the value of your bond might go down because new bonds will offer higher interest rates. There's also credit risk, which means the company or government you lent money to might not be able to pay you back. Bonds are generally safer and provide a steady income, but the returns are usually lower than what you might get from stocks.
 
 ## How do the returns on stocks compare to those on bonds over the long term?
 
@@ -82,7 +82,7 @@ Understanding these historical trends can help investors plan for the future. If
 
 ## How do bonds, stocks, and algo trading compare?
 
-In evaluating bonds, stocks, and algorithmic trading, it's essential to understand their differences and how they can enhance an investment strategy. These investment vehicles vary in terms of risk, return, and investment horizon, and their potential roles within a diversified portfolio can be complementary.
+In evaluating bonds, stocks, and [algorithmic trading](/wiki/algorithmic-trading), it's essential to understand their differences and how they can enhance an investment strategy. These investment vehicles vary in terms of risk, return, and investment horizon, and their potential roles within a diversified portfolio can be complementary.
 
 **Risk and Return Analysis**
 

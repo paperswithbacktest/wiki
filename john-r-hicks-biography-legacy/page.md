@@ -24,7 +24,7 @@ Warwick is a town known for its history and a big castle. It's not a very big to
 
 John R. Hicks started his education at Clifton College, which is a school in Bristol, England. He did well in his studies there and it helped him get ready for university. After finishing at Clifton College, he went to Balliol College at Oxford University. At Oxford, he studied a lot about economics and other subjects. This was a big step in his learning journey and helped him become a famous economist later on.
 
-After finishing his studies at Oxford, Hicks went to the London School of Economics (LSE). At LSE, he worked with other smart economists and learned even more about economics. This time at LSE was important because it helped him develop many of his big ideas. Later, he went back to Oxford University as a teacher and researcher, where he spent many years sharing his knowledge with students and writing important books.
+After finishing his studies at Oxford, Hicks went to the London School of Economics (LSE). At LSE, he worked with other smart economists and learned even more about economics. This time at LSE was important because it helped him develop many of his big ideas. Later, he went back to Oxford University as a teacher and researcher, where he spent many years sharing his knowledge with students and writing important [books](/wiki/algo-trading-books).
 
 ## What major economic theories did John R. Hicks develop?
 

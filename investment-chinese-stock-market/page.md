@@ -76,11 +76,11 @@ On the other hand, good news about international relations can make the stock ma
 
 ## What advanced strategies can be used for trading Chinese stocks?
 
-One advanced strategy for trading Chinese stocks is called "pair trading." This means you find two companies that are similar but one is doing better than the other. You buy shares of the company that's not doing as well and sell shares of the one that's doing better. The idea is that the prices of these two companies will move closer together over time, and you can make money from the difference. This strategy can be good for the Chinese market because it can be very up and down, and pair trading helps you make money no matter which way the market goes.
+One advanced strategy for trading Chinese stocks is called "[pair trading](/wiki/pair-trading)." This means you find two companies that are similar but one is doing better than the other. You buy shares of the company that's not doing as well and sell shares of the one that's doing better. The idea is that the prices of these two companies will move closer together over time, and you can make money from the difference. This strategy can be good for the Chinese market because it can be very up and down, and pair trading helps you make money no matter which way the market goes.
 
 Another strategy is called "technical analysis." This is when you look at charts and graphs of stock prices to try to guess where the price might go next. You might look for patterns or use special tools to help you make decisions. In the Chinese market, where news and information can sometimes be hard to understand, technical analysis can be a good way to make trading decisions based on what the market is doing right now. It's important to keep learning and practicing this strategy because it can take time to get good at it.
 
-A third strategy is "fundamental analysis," which means you study a company's financial reports and other information to decide if it's a good investment. You look at things like how much money the company is making, how much it's growing, and if it's a good deal compared to other companies. In the Chinese market, where some companies might not share all their information, it can be tricky. But if you can find good, reliable information, fundamental analysis can help you find stocks that might do well in the long run.
+A third strategy is "[fundamental analysis](/wiki/fundamental-analysis)," which means you study a company's financial reports and other information to decide if it's a good investment. You look at things like how much money the company is making, how much it's growing, and if it's a good deal compared to other companies. In the Chinese market, where some companies might not share all their information, it can be tricky. But if you can find good, reliable information, fundamental analysis can help you find stocks that might do well in the long run.
 
 ## How can investors hedge their risks when investing in the Chinese stock market?
 
@@ -94,7 +94,7 @@ Investing in Chinese stocks using algorithmic strategies requires tailored appro
 
 ### Identifying Robust Algorithmic Strategies
 
-Algorithmic strategies should be equipped to handle the volatility and speculative nature prevalent in Chinese stock markets. Quantitative approaches, such as statistical arbitrage and mean reversion, are often employed to capitalize on short-term price movements. For example, mean reversion strategies assume that stock prices will revert to their historical average over time. This can be modeled using the formula:
+Algorithmic strategies should be equipped to handle the [volatility](/wiki/volatility-trading-strategies) and speculative nature prevalent in Chinese stock markets. Quantitative approaches, such as statistical [arbitrage](/wiki/arbitrage) and mean reversion, are often employed to capitalize on short-term price movements. For example, mean reversion strategies assume that stock prices will revert to their historical average over time. This can be modeled using the formula:
 
 $$
 
@@ -105,7 +105,7 @@ where $R_t$ is the return at time $t$, $P_{t-1}$ is the stock price at the previ
 
 ### Technological Advancements
 
-The use of big data analytics and machine learning enhances the ability of algorithms to analyze vast amounts of real-time data for stock selection. Advanced technologies allow algorithms to detect patterns and trends invisible to human traders. This necessitates high-frequency data processing and sophisticated computational power. Python libraries such as Pandas, NumPy, and Scikit-learn provide tools for implementing machine learning models, which can be used to predict stock movements based on historical data.
+The use of big data analytics and [machine learning](/wiki/machine-learning) enhances the ability of algorithms to analyze vast amounts of real-time data for stock selection. Advanced technologies allow algorithms to detect patterns and trends invisible to human traders. This necessitates high-frequency data processing and sophisticated computational power. Python libraries such as Pandas, NumPy, and Scikit-learn provide tools for implementing machine learning models, which can be used to predict stock movements based on historical data.
 
 ```python
 import pandas as pd

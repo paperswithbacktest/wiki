@@ -70,7 +70,7 @@ On the other hand, if a company can make their products for less money, they can
 
 ## How do period costs and product costs affect inventory valuation?
 
-Product costs are the money a company spends to make its products, like the materials and the wages of the workers. These costs are added to the value of the inventory. So, if a company makes chairs, the wood and the labor to build the chairs are part of the inventory cost. When the chairs are sold, the product costs move from the inventory on the balance sheet to the cost of goods sold on the income statement. This means that product costs directly affect how much the inventory is worth on the company's books.
+Product costs are the money a company spends to make its products, like the materials and the wages of the workers. These costs are added to the value of the inventory. So, if a company makes chairs, the wood and the labor to build the chairs are part of the inventory cost. When the chairs are sold, the product costs move from the inventory on the balance sheet to the cost of goods sold on the income statement. This means that product costs directly affect how much the inventory is worth on the company's [books](/wiki/algo-trading-books).
 
 Period costs, on the other hand, are the expenses a business has that are not related to making the product, like office rent and advertising. These costs are not added to the inventory value. Instead, they are recorded as expenses right away, in the period they happen. So, period costs do not affect the inventory valuation at all. They are separate from the costs of making the product and are shown on the income statement as expenses in the period they are incurred.
 

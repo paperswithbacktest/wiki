@@ -52,7 +52,7 @@ Another risk is that if you miss payments or pay late, it can hurt your credit s
 
 ## How is the interest rate determined for Prime Credit?
 
-The interest rate for Prime Credit is decided based on how good your credit score is. If you have a high credit score, like 670 or more, banks and credit card companies see you as someone who is less likely to miss payments. Because of this, they give you a lower interest rate. This lower rate is a way to reward you for being responsible with money.
+The [interest rate](/wiki/interest-rate-trading-strategies) for Prime Credit is decided based on how good your credit score is. If you have a high credit score, like 670 or more, banks and credit card companies see you as someone who is less likely to miss payments. Because of this, they give you a lower interest rate. This lower rate is a way to reward you for being responsible with money.
 
 But, the interest rate can also change based on other things. For example, the bank might look at how much money you make and how much debt you already have. If they think you can handle more money, they might give you an even better rate. It's important to always pay your bill on time to keep enjoying the low interest rate that comes with Prime Credit.
 

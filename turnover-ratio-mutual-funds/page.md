@@ -28,7 +28,7 @@ For example, if a fund bought securities worth $100 million and sold securities 
 
 ## What does a high turnover ratio indicate about a mutual fund?
 
-A high turnover ratio in a mutual fund means that the fund manager is buying and selling the investments a lot. It shows that the manager is actively trading and changing what's in the fund. This can be good if the manager is making smart choices and picking investments that do well. But it can also mean the fund is taking more risks because the manager is moving money around a lot.
+A high turnover ratio in a mutual fund means that the fund manager is buying and selling the investments a lot. It shows that the manager is actively trading and changing what's in the fund. This can be good if the manager is making smart choices and [picking](/wiki/asset-class-picking) investments that do well. But it can also mean the fund is taking more risks because the manager is moving money around a lot.
 
 When a fund has a high turnover ratio, it usually means higher costs for the fund. Every time the manager buys or sells something, the fund has to pay fees for those trades. These costs can add up and take away from the money the fund makes. Also, if you have to pay taxes on the money you make from the fund, a high turnover ratio might mean you pay more in taxes because the fund is selling investments and making profits more often.
 

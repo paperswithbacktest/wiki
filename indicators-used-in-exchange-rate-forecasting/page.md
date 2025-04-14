@@ -28,7 +28,7 @@ Other indicators that people look at are interest rates, which are set by a coun
 
 ## How does the interest rate differential affect exchange rates?
 
-The interest rate differential is the difference between the interest rates of two countries. This difference can have a big impact on exchange rates because it affects where people want to put their money. If one country has a higher interest rate than another, investors might move their money to that country to earn more interest. When lots of people do this, it increases the demand for that country's money, making its currency stronger compared to others.
+The [interest rate](/wiki/interest-rate-trading-strategies) differential is the difference between the interest rates of two countries. This difference can have a big impact on exchange rates because it affects where people want to put their money. If one country has a higher interest rate than another, investors might move their money to that country to earn more interest. When lots of people do this, it increases the demand for that country's money, making its currency stronger compared to others.
 
 For example, if the United States has higher interest rates than Japan, people might move their money from Japan to the United States to get a better return on their savings or investments. This increased demand for US dollars can make the dollar stronger against the Japanese yen. On the other hand, if Japan's interest rates go up and become higher than those in the United States, the opposite can happen, and the yen could become stronger. This is why central banks often watch interest rates closely and adjust them to influence their country's exchange rate.
 

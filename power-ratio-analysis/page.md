@@ -82,7 +82,7 @@ Another thing that might change how we use Power Ratio Analysis is the way compa
 
 ## What is Power Ratio?
 
-Power ratio is a metric originally used in the broadcasting industry to assess how efficiently firms convert their audience share into revenue. Similarly, in algorithmic trading, the power ratio can be adapted to evaluate the efficiency of trading algorithms. It measures how effectively algorithms transform trading signals or opportunities into realized profits. A higher power ratio signifies a more efficient algorithm, indicating improved energy usage and financial return per unit of data processed.
+Power ratio is a metric originally used in the broadcasting industry to assess how efficiently firms convert their audience share into revenue. Similarly, in [algorithmic trading](/wiki/algorithmic-trading), the power ratio can be adapted to evaluate the efficiency of trading algorithms. It measures how effectively algorithms transform trading signals or opportunities into realized profits. A higher power ratio signifies a more efficient algorithm, indicating improved energy usage and financial return per unit of data processed.
 
 In trading terms, the power ratio can be defined as:
 

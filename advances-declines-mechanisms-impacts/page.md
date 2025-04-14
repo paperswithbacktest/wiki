@@ -84,7 +84,7 @@ Another theory is the Keynesian model, which focuses on how spending affects the
 
 Algorithmic trading, a key component of modern financial markets, operates through a set of well-defined mechanisms that enable automated buying and selling of financial instruments. These systems rely heavily on mathematical models and algorithms to make decisions, process data, and execute trades efficiently. 
 
-At the core of algorithmic trading are sophisticated mathematical models that analyze market data to identify trading opportunities. Algorithms are crafted to interpret historical data and forecast future price movements using statistical methods, such as regression analysis, moving averages, and other quantitative techniques. For example, simple moving averages (SMA) can be computed as:
+At the core of [algorithmic trading](/wiki/algorithmic-trading) are sophisticated mathematical models that analyze market data to identify trading opportunities. Algorithms are crafted to interpret historical data and forecast future price movements using statistical methods, such as regression analysis, moving averages, and other quantitative techniques. For example, simple moving averages (SMA) can be computed as:
 
 $$
 \text{SMA} = \frac{1}{n} \sum_{i=1}^{n} P_i

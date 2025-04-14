@@ -18,7 +18,7 @@ This method is different from technical analysis, which focuses on past price mo
 
 Fundamental analysis and technical analysis are two different ways to look at stocks and decide if they're good to buy. Fundamental analysis is all about the company itself. It looks at things like how much money the company makes, its debts, and how fast it's growing. People who use fundamental analysis want to know if the company is healthy and if its stock price makes sense based on its actual value. They might look at financial reports, earnings, and even the economy to make their decisions.
 
-On the other hand, technical analysis doesn't care much about the company's details. Instead, it focuses on the stock's price movements and patterns over time. Technical analysts believe that past price behavior can help predict future price changes. They use charts and other tools to spot trends and patterns, thinking that these can show them when to buy or sell a stock. So while fundamental analysis is about the company's value, technical analysis is more about the stock's price action.
+On the other hand, technical analysis doesn't care much about the company's details. Instead, it focuses on the stock's price movements and patterns over time. Technical analysts believe that past price behavior can help predict future price changes. They use charts and other tools to spot trends and patterns, thinking that these can show them when to buy or sell a stock. So while [fundamental analysis](/wiki/fundamental-analysis) is about the company's value, technical analysis is more about the stock's price action.
 
 In simple terms, if you're using fundamental analysis, you're trying to figure out if a stock is a good buy based on the company's health and future potential. If you're using technical analysis, you're more interested in the stock's price history and patterns to decide your next move. Both methods can help investors make decisions, but they look at very different things.
 
@@ -100,7 +100,7 @@ $$
 where $P_i$ is the price at time $i$, and $n$ is the number of periods. Traders often use crossovers of short-term and long-term SMAs to signal buy or sell opportunities.
 
 ### Volume Weighted Average Price (VWAP)
-VWAP is a trading benchmark used mainly by institutional traders to execute large orders. It reflects the average price a security has traded throughout the day, considering both price and volume. This measure offers a realistic daily price figure and helps traders determine the optimal price levels for executing trades. The VWAP calculation is:
+VWAP is a trading benchmark used mainly by institutional traders to execute large orders. It reflects the average price a security has traded throughout the day, considering both price and [volume](/wiki/volume-trading-strategy). This measure offers a realistic daily price figure and helps traders determine the optimal price levels for executing trades. The VWAP calculation is:
 
 $$
 \text{VWAP} = \frac{\sum_{i=1}^{n} P_i \times V_i}{\sum_{i=1}^{n} V_i}
@@ -124,7 +124,7 @@ A %K value above 80 suggests an overbought condition, while a value below 20 ind
 ### Momentum Trading
 Momentum Trading strategies focus on securities showing strong directional trends and take advantage of their continuous movement to generate profits. These strategies often use indicators like the Relative Strength Index (RSI) or the Moving Average Convergence Divergence (MACD). For instance, a basic momentum trading strategy might involve buying in an upward-trending market when certain indicators cross specific thresholds, suggesting that the current trend will continue.
 
-Incorporating these basic strategies provides a foundation for algorithmic trading systems, aiding in automated decision-making that is essential for navigating today's complex financial markets.
+Incorporating these basic strategies provides a foundation for [algorithmic trading](/wiki/algorithmic-trading) systems, aiding in automated decision-making that is essential for navigating today's complex financial markets.
 
 ## What are some intermediate strategies for adding sophistication?
 

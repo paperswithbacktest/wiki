@@ -58,7 +58,7 @@ To analyze pass-through rates, you can compare them over time or across differen
 
 ## What factors influence the effectiveness of pass-through rates?
 
-The effectiveness of pass-through rates can be influenced by many things. One big factor is how well the investment is doing. If the investment, like a real estate investment trust (REIT), is making a lot of money from rent, it can pass on more money to investors, making the pass-through rate higher. Another factor is the costs of running the investment. If it costs a lot to manage the investment, there might be less money left to give back to investors, which can lower the pass-through rate. Also, the rules and laws about how much money has to be passed on can affect the rate. Some investments have to give back a certain amount of their earnings to investors, which can make the pass-through rate higher.
+The effectiveness of pass-through rates can be influenced by many things. One big [factor](/wiki/factor-investing) is how well the investment is doing. If the investment, like a real estate investment trust (REIT), is making a lot of money from rent, it can pass on more money to investors, making the pass-through rate higher. Another factor is the costs of running the investment. If it costs a lot to manage the investment, there might be less money left to give back to investors, which can lower the pass-through rate. Also, the rules and laws about how much money has to be passed on can affect the rate. Some investments have to give back a certain amount of their earnings to investors, which can make the pass-through rate higher.
 
 Another thing that can influence pass-through rates is how the people running the investment decide to use the money. If they choose to keep more money for themselves or to spend it on growing the investment, the pass-through rate might go down. The economy can also play a role. If the economy is doing well, investments might make more money, which can lead to higher pass-through rates. But if the economy is struggling, the pass-through rate might go down because there's less money to share. All these factors together decide how effective the pass-through rate is and how much money investors can expect to get back from their investments.
 
@@ -104,7 +104,7 @@ Understanding these concepts and how they interact with broader economic conditi
 
 ## References & Further Reading
 
-For those interested in expanding their understanding of pass-through rates and their role in algorithmic trading, here are some recommended readings and resources:
+For those interested in expanding their understanding of pass-through rates and their role in [algorithmic trading](/wiki/algorithmic-trading), here are some recommended readings and resources:
 
 - **Principles of Risk Management and Insurance** by George E. Rejda and Michael McNamara offers a foundational perspective on risk management practices crucial for investors dealing with mortgage-backed securities and algorithmic trading.
 

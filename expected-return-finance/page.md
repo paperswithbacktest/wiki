@@ -38,7 +38,7 @@ Next, you multiply the expected return of each investment by its weight in the p
 
 Expected return is super important when you're trying to decide where to put your money. It's like a guess about how much money you might make from an investment. When you're looking at different investments, you want to know which one might give you the most money back. So, you look at the expected return to help you decide. If one investment has a higher expected return than another, you might choose that one, but you also need to think about how risky it is. Higher expected returns often come with higher risks, so you have to balance what you might gain with what you might lose.
 
-But expected return isn't just about picking the best investment. It's also used to figure out if an investment fits with your overall plan. For example, if you need a certain amount of money by a certain time, you can use expected return to see if an investment will help you reach your goal. It helps you make a plan for your money and see if you're on track. By looking at the expected return, you can decide if you need to change your investments or if you're doing okay. It's a big part of making smart choices with your money.
+But expected return isn't just about [picking](/wiki/asset-class-picking) the best investment. It's also used to figure out if an investment fits with your overall plan. For example, if you need a certain amount of money by a certain time, you can use expected return to see if an investment will help you reach your goal. It helps you make a plan for your money and see if you're on track. By looking at the expected return, you can decide if you need to change your investments or if you're doing okay. It's a big part of making smart choices with your money.
 
 ## How does the concept of risk relate to expected return?
 
@@ -76,7 +76,7 @@ Another way macroeconomic factors can affect expected returns is through inflati
 
 One advanced statistical model used to forecast expected returns is the Capital Asset Pricing Model (CAPM). This model helps you guess how much return you might get from an investment by looking at how risky it is compared to the whole market. It uses something called the beta, which tells you how much the investment moves with the market. If the investment is riskier than the market, it might have a higher expected return. CAPM is like a math formula that takes the risk-free rate (like what you'd get from a super safe investment) and adds extra return based on the investment's risk. It's a way to see if the expected return is worth the risk you're taking.
 
-Another model is the Arbitrage Pricing Theory (APT). This one looks at different things that can affect an investment, not just the market as a whole. These things are called factors, and they could be stuff like inflation, interest rates, or how well the economy is doing. APT tries to figure out how these factors might change the expected return of your investment. It's more complicated than CAPM because it looks at many different things at once, but it can give you a better guess if you have a lot of information about what might happen in the future. Both CAPM and APT help you make smarter guesses about expected returns by using math and statistics to think about risk and other big things that affect investments.
+Another model is the Arbitrage Pricing Theory (APT). This one looks at different things that can affect an investment, not just the market as a whole. These things are called factors, and they could be stuff like inflation, interest rates, or how well the economy is doing. APT tries to figure out how these factors might change the expected return of your investment. It's more complicated than CAPM because it looks at many different things at once, but it can give you a better guess if you have a lot of information about what might happen in the future. Both CAPM and APT help you make smarter guesses about expected returns by using math and [statistics](/wiki/bayesian-statistics) to think about risk and other big things that affect investments.
 
 ## How do financial professionals adjust expected return estimates in response to market changes?
 
@@ -164,7 +164,7 @@ In conclusion, while expected return is a fundamental component of financial ana
 
 ## How do you calculate expected return in algorithmic trading?
 
-In algorithmic trading, calculating expected return is essential for developing quantitative strategies that guide trading decisions. Various methods can be employed to estimate expected returns, each with particular applications and assumptions.
+In [algorithmic trading](/wiki/algorithmic-trading), calculating expected return is essential for developing quantitative strategies that guide trading decisions. Various methods can be employed to estimate expected returns, each with particular applications and assumptions.
 
 ### Historical Mean Return
 
@@ -200,7 +200,7 @@ where $D_1$ is the expected dividend next year, $P_0$ is the current stock price
 
 Machine learning and AI have increasingly been integrated into algorithmic trading to enhance the accuracy of expected return calculations. Techniques such as regression models, neural networks, and decision trees analyze vast datasets to identify patterns and correlations not visible through traditional methods.
 
-Python, a popular language in quantitative finance, offers libraries like scikit-learn and TensorFlow that facilitate machine learning applications. For instance, using a simple linear regression to predict future returns might look like this in Python:
+Python, a popular language in quantitative finance, offers libraries like scikit-learn and TensorFlow that facilitate [machine learning](/wiki/machine-learning) applications. For instance, using a simple linear regression to predict future returns might look like this in Python:
 
 ```python
 from sklearn.linear_model import LinearRegression

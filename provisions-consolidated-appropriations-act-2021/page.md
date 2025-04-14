@@ -52,7 +52,7 @@ Overall, the Consolidated Appropriations Act, 2021 is about making sure people a
 
 ## What changes does the Act bring to education funding and policies?
 
-The Consolidated Appropriations Act, 2021 helps schools by giving them more money. This money is important because it helps schools stay open and keep teaching kids, even during the COVID-19 pandemic. The Act makes sure that schools have the resources they need to buy things like computers and books, and to pay teachers and other staff. This is really helpful because it means schools can keep running smoothly and help students learn, no matter what is happening around them.
+The Consolidated Appropriations Act, 2021 helps schools by giving them more money. This money is important because it helps schools stay open and keep teaching kids, even during the COVID-19 pandemic. The Act makes sure that schools have the resources they need to buy things like computers and [books](/wiki/algo-trading-books), and to pay teachers and other staff. This is really helpful because it means schools can keep running smoothly and help students learn, no matter what is happening around them.
 
 Another way the Act helps with education is by supporting programs that help kids who need extra help. This includes money for things like special education and programs that help kids from poor families. By doing this, the Act makes sure that all kids have a chance to get a good education, even if they face challenges at home. This is important because education is a key part of helping kids grow up to be successful adults.
 

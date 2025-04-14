@@ -78,7 +78,7 @@ Digital advertising also lets companies target their ads better. They can show a
 
 ## What advanced analytical techniques can be used to optimize the Advertising-to-Sales Ratio?
 
-To make the Advertising-to-Sales Ratio better, companies can use advanced ways of looking at data, like machine learning. Machine learning can help by figuring out which ads work best for different people. It can look at a lot of information, like what people do online and what they buy, to find patterns. This helps companies show the right ads to the right people at the right time, which can lead to more sales for the money spent on ads.
+To make the Advertising-to-Sales Ratio better, companies can use advanced ways of looking at data, like [machine learning](/wiki/machine-learning). Machine learning can help by figuring out which ads work best for different people. It can look at a lot of information, like what people do online and what they buy, to find patterns. This helps companies show the right ads to the right people at the right time, which can lead to more sales for the money spent on ads.
 
 Another way is using A/B testing. This means showing different ads to different groups of people to see which one works better. By doing this, companies can find out what kinds of ads bring in more sales. They can then use more of the ads that work well and less of the ones that don't. This can help lower the Advertising-to-Sales Ratio because they're spending their ad money in a smarter way. By using these advanced techniques, companies can make sure their ads are working as well as they can to bring in more sales.
 

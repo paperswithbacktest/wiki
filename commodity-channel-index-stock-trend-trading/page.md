@@ -120,7 +120,7 @@ Traders utilize these divergences, along with the threshold signals of +100 and 
 
 Algorithmic trading utilizes the Commodity Channel Index (CCI) as a vital component in automated systems, significantly enhancing the efficiency of trading decisions. The CCI is particularly valuable because it provides data-driven insights that facilitate the execution of trades at opportune moments, using its ability to signal overbought or oversold market conditions.
 
-In [algorithmic trading](/wiki/algorithmic-trading), CCI is often integrated into complex strategies designed to interpret market data and make informed decisions autonomously. By employing the CCI, algorithms can gauge the momentum of an asset and predict potential price reversals, allowing traders to enter or exit positions at more favorable prices.
+In [algorithmic trading](/wiki/algorithmic-trading), CCI is often integrated into complex strategies designed to interpret market data and make informed decisions autonomously. By employing the CCI, algorithms can gauge the [momentum](/wiki/momentum) of an asset and predict potential price reversals, allowing traders to enter or exit positions at more favorable prices.
 
 One of the primary advantages of using CCI in algo trading is its quantitative nature, which aligns well with the inherently data-centric approach of automated systems. The CCI is computed as follows:
 

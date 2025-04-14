@@ -84,7 +84,7 @@ Another way to use data analytics is to look at past projects and see what worke
 
 Algorithmic trading, commonly referred to as automated trading or algo-trading, involves the use of computer programs to execute trades based on predetermined criteria. These sophisticated algorithms are capable of executing trades at speeds and frequencies that surpass human capabilities, leveraging state-of-the-art technology to make rapid trading decisions. By operating autonomously, these systems aim to eliminate emotional biases that often affect human traders.
 
-The algorithms used in algorithmic trading can process a multitude of variables to inform trading decisions. Such variables often include timing, price, historical trading data, and other relevant market indicators. For example, an algorithm may be instructed to buy a stock if its price exceeds its 50-day moving average while simultaneously considering its historical volatility and the current market conditions.
+The algorithms used in algorithmic trading can process a multitude of variables to inform trading decisions. Such variables often include timing, price, historical trading data, and other relevant market indicators. For example, an algorithm may be instructed to buy a stock if its price exceeds its 50-day moving average while simultaneously considering its historical [volatility](/wiki/volatility-trading-strategies) and the current market conditions.
 
 Algorithmic trading is predominantly utilized by institutional investors, hedge funds, and investment banks. These entities employ algorithmic strategies to enhance profitability and minimize transaction costs. By automating the trading process, they can capitalize on opportunities that emerge for only fleeting moments, thus gaining a competitive advantage in the financial markets.
 
@@ -148,7 +148,7 @@ Algorithmic trading encompasses a variety of strategies that leverage computatio
 
 Arbitrage strategies involve taking advantage of price differentials across different markets or instruments. In essence, when the same asset trades at different prices simultaneously, an arbitrageur can buy the asset at the lower price and sell it at the higher price, capturing the spread as profit. With the speed at which algorithmic trading operates, these discrepancies can be exploited efficiently before the market corrects itself.
 
-The Volume-Weighted Average Price (VWAP) strategy is frequently employed by traders to ensure that transactions occur at prices close to the average price weighted by volume over a specific period. This method is particularly useful for executing large orders without significantly impacting the market price. It can be expressed by the formula:
+The Volume-Weighted Average Price (VWAP) strategy is frequently employed by traders to ensure that transactions occur at prices close to the average price weighted by [volume](/wiki/volume-trading-strategy) over a specific period. This method is particularly useful for executing large orders without significantly impacting the market price. It can be expressed by the formula:
 
 $$
 \text{VWAP} = \frac{\sum (P_i \times V_i)}{\sum V_i}

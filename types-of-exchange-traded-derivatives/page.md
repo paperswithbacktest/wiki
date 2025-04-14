@@ -50,7 +50,7 @@ ETNs play a special role in the derivatives market because they let investors be
 
 Trading exchange-traded derivatives like futures, options, and ETNs comes with several risks. One big risk is market risk, which means the value of the derivative can go up or down because of changes in the market. If you're betting that the price of something will go up and it goes down instead, you could lose money. Another risk is leverage, which means you can control a big position with a small amount of money. While this can help you make more money if things go your way, it can also make your losses bigger if they don't.
 
-There's also the risk of liquidity, which means it might be hard to buy or sell the derivative when you want to. If not many people are trading it, you might have to wait or accept a worse price. For ETNs, there's also credit risk. This means if the bank that issued the ETN runs into financial trouble, you might not get your money back, even if the thing you bet on did well. All these risks mean you need to be careful and understand what you're getting into when you trade exchange-traded derivatives.
+There's also the risk of [liquidity](/wiki/liquidity-risk-premium), which means it might be hard to buy or sell the derivative when you want to. If not many people are trading it, you might have to wait or accept a worse price. For ETNs, there's also credit risk. This means if the bank that issued the ETN runs into financial trouble, you might not get your money back, even if the thing you bet on did well. All these risks mean you need to be careful and understand what you're getting into when you trade exchange-traded derivatives.
 
 ## How can someone begin trading exchange-traded derivatives?
 

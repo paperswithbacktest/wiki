@@ -18,7 +18,7 @@ This rule works best with interest rates between 6% and 10%. It's not perfect, b
 
 The Rule of 72 is a quick way to figure out how long it will take your money to double if you're earning simple interest. Simple interest means you only earn interest on the original amount of money you put in, not on any interest you earn later. To use the Rule of 72, you just divide 72 by the interest rate you're getting. For example, if you're getting 6% simple interest, you divide 72 by 6, and you get 12 years. That means your money will double in 12 years.
 
-It's important to know that the Rule of 72 is just an estimate and works best with interest rates between 6% and 10%. If your interest rate is outside of this range, the rule might not be as accurate. But for simple interest, it gives you a good idea of how long it will take for your money to grow. Just remember, with simple interest, you're not earning interest on interest, so the Rule of 72 will give you a different result than if you were using compound interest.
+It's important to know that the Rule of 72 is just an estimate and works best with interest rates between 6% and 10%. If your interest rate is outside of this range, the rule might not be as accurate. But for simple interest, it gives you a good idea of how long it will take for your money to grow. Just remember, with simple interest, you're not [earning](/wiki/earning-announcement) interest on interest, so the Rule of 72 will give you a different result than if you were using compound interest.
 
 ## What is continuous compounding?
 

@@ -28,7 +28,7 @@ Besides these, Yahoo Finance lets you keep an eye on cryptocurrencies like Bitco
 
 ## How do I add or remove securities from my portfolio?
 
-To add securities to your portfolio on Yahoo Finance, first, go to the "My Portfolio" section on the website. Click on the portfolio you want to update, and then look for a button or link that says "Add Symbol" or something similar. When you find it, click on it and type in the symbol of the stock, ETF, mutual fund, or other investment you want to track. For example, if you want to add Apple stock, you would type "AAPL." After you enter the symbol, the investment will be added to your portfolio, and you can see how it's doing along with your other investments.
+To add securities to your portfolio on Yahoo Finance, first, go to the "My Portfolio" section on the website. Click on the portfolio you want to update, and then look for a button or link that says "Add Symbol" or something similar. When you find it, click on it and type in the symbol of the stock, [ETF](/wiki/etf-trading-strategies), mutual fund, or other investment you want to track. For example, if you want to add Apple stock, you would type "AAPL." After you enter the symbol, the investment will be added to your portfolio, and you can see how it's doing along with your other investments.
 
 To remove securities from your portfolio, go to the same "My Portfolio" section and find the portfolio you want to change. Look for the security you want to remove, and next to it, there should be an option to delete or remove it. This might look like a small "X" or a "Remove" button. Click on it, and the security will be taken out of your portfolio. This way, you can keep your portfolio up to date with just the investments you want to track.
 
@@ -84,7 +84,7 @@ Another way Yahoo Finance helps is by letting you set up alerts. You can get not
 
 Algorithmic trading, often abbreviated as 'algo trading', is a method of executing orders that relies on pre-defined mathematical models and rules. By automating the decision-making and trade execution processes, algo trading enables high-speed and complex trades that exceed human capabilities. This methodology minimizes the need for constant human oversight and allows for rapid responses to market changes.
 
-Though Yahoo Finance is not a trading platform, it serves as a valuable resource for algorithmic trading strategies with its vast array of data and analytical tools. Traders can access historical price data, financial news, and real-time stock quotes, which are critical for developing and testing algorithms. This access provides the foundational data needed to identify trends and inform trading models. 
+Though Yahoo Finance is not a trading platform, it serves as a valuable resource for [algorithmic trading](/wiki/algorithmic-trading) strategies with its vast array of data and analytical tools. Traders can access historical price data, financial news, and real-time stock quotes, which are critical for developing and testing algorithms. This access provides the foundational data needed to identify trends and inform trading models. 
 
 One strategy often used in algorithmic trading is mean reversion, predicated on the assumption that asset prices will revert to their historical average over time. Using Yahoo Finance data, traders can calculate moving averages and compare them to current prices to identify potential buy or sell signals. In mathematical terms, a simple moving average (SMA) can be calculated using the formula:
 

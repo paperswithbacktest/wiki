@@ -72,7 +72,7 @@ These agreements also have ways to solve problems if a country thinks another co
 
 In digital marketing, advanced techniques help find deceptive methods by using special computer programs. These programs look at lots of data from websites, ads, and social media to see if companies are using tricks. For example, they can check if the prices shown are real or if they are changed to fool people. They can also see if the ads are telling the truth or making up things about the products. By using these programs, it's easier to catch companies that are not being honest and stop them from tricking people.
 
-Another way to find deceptive methods is by using artificial intelligence (AI). AI can learn what normal marketing looks like and then spot when something is off. It can look at how companies talk about their products and see if they are leaving out important information or making false promises. AI can also watch how people react to ads and see if they are being misled. This helps keep digital marketing fair and makes sure that people can trust what they see online.
+Another way to find deceptive methods is by using [artificial intelligence](/wiki/ai-artificial-intelligence) (AI). AI can learn what normal marketing looks like and then spot when something is off. It can look at how companies talk about their products and see if they are leaving out important information or making false promises. AI can also watch how people react to ads and see if they are being misled. This helps keep digital marketing fair and makes sure that people can trust what they see online.
 
 ## How can data analytics be utilized to prevent unfair trade practices in e-commerce?
 

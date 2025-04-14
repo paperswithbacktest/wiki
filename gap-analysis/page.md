@@ -80,13 +80,13 @@ Another way to use gap analysis with other techniques is by combining it with be
 
 ## What advanced methodologies exist for conducting a sophisticated gap analysis?
 
-One advanced way to do a sophisticated gap analysis is by using data analytics and machine learning. These tools can look at a lot of data from your business to find patterns and trends that you might not see otherwise. For example, they can show you how your sales are doing compared to last year or how your customers are behaving. By using these advanced methods, you can see gaps more clearly and make better plans to close them. This is especially helpful for big businesses that have a lot of data to work with.
+One advanced way to do a sophisticated gap analysis is by using data analytics and [machine learning](/wiki/machine-learning). These tools can look at a lot of data from your business to find patterns and trends that you might not see otherwise. For example, they can show you how your sales are doing compared to last year or how your customers are behaving. By using these advanced methods, you can see gaps more clearly and make better plans to close them. This is especially helpful for big businesses that have a lot of data to work with.
 
 Another advanced method is scenario analysis. This means looking at different possible futures for your business and seeing what gaps might come up in each one. You can use computer models to play out these scenarios and see how different choices might affect your business. This helps you be ready for different situations and plan ahead to close gaps before they become problems. By combining gap analysis with scenario analysis, you can make your planning more detailed and be better prepared for whatever might happen.
 
 ## What are the key metrics for evaluating algorithmic trading strategies?
 
-Successful algorithmic trading strategies are quantified by evaluating key performance metrics. These metrics offer valuable insights into the effectiveness, risk, and profitability of trading strategies and help traders make informed decisions to optimize their approaches.
+Successful [algorithmic trading](/wiki/algorithmic-trading) strategies are quantified by evaluating key performance metrics. These metrics offer valuable insights into the effectiveness, risk, and profitability of trading strategies and help traders make informed decisions to optimize their approaches.
 
 ### Sharpe Ratio
 

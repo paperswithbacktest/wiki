@@ -28,7 +28,7 @@ Another benefit is that Long/Short Funds can give investors a chance to make mor
 
 ## What are the risks associated with Long/Short Funds?
 
-One risk of investing in a Long/Short Fund is that it can be harder to make money than it might seem. Even though the fund can make money when the market goes down, it's not easy to pick the right stocks to buy and sell. If the fund managers make bad choices, the fund can lose money. This means that the fund's success depends a lot on how good the managers are at picking stocks, which can be risky.
+One risk of investing in a Long/Short Fund is that it can be harder to make money than it might seem. Even though the fund can make money when the market goes down, it's not easy to pick the right stocks to buy and sell. If the fund managers make bad choices, the fund can lose money. This means that the fund's success depends a lot on how good the managers are at [picking](/wiki/asset-class-picking) stocks, which can be risky.
 
 Another risk is that using short selling can lead to big losses. When you short a stock, you borrow it and sell it, hoping to buy it back cheaper later. But if the stock price goes up instead of down, you have to buy it back at a higher price to return it. This can cost a lot more than you made from selling it in the first place. So, short selling can make losses bigger if things don't go as planned.
 

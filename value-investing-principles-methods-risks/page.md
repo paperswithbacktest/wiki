@@ -26,7 +26,7 @@ To identify undervalued stocks, you need to look at a company's financials. Star
 
 You should also consider the company's future growth. Look at how fast the company is growing and compare it to other companies in the same industry. If a company is growing quickly but its stock price is not going up as much as others, it might be undervalued. Pay attention to news and events that could affect the company's future, like new products or changes in the market. Sometimes, a company might be undervalued because of short-term problems, but if you believe in its long-term potential, it could be a good investment.
 
-Lastly, use a margin of safety when picking stocks. This means buying stocks at a price that is much lower than what you think they are worth. This helps protect you if you made a mistake in your calculations or if something unexpected happens. By combining these methods, you can find stocks that the market has overlooked but have strong potential for growth and profit in the future.
+Lastly, use a margin of safety when [picking](/wiki/asset-class-picking) stocks. This means buying stocks at a price that is much lower than what you think they are worth. This helps protect you if you made a mistake in your calculations or if something unexpected happens. By combining these methods, you can find stocks that the market has overlooked but have strong potential for growth and profit in the future.
 
 ## What financial ratios and metrics are important in value investing?
 

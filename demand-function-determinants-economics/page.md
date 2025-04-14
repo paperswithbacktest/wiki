@@ -36,7 +36,7 @@ In the demand function, which is often written as Qd = a - bP, the price directl
 
 ## What role does income play in determining demand?
 
-Income is a big factor in how much people want to buy. When people have more money, they can buy more things, even if the prices stay the same. For example, if someone gets a raise at work, they might decide to buy a new TV or go out to eat more often. On the other hand, if people have less money, they might not be able to buy as much, even if the prices go down. If someone loses their job, they might have to cut back on things like going to the movies or buying new clothes.
+Income is a big [factor](/wiki/factor-investing) in how much people want to buy. When people have more money, they can buy more things, even if the prices stay the same. For example, if someone gets a raise at work, they might decide to buy a new TV or go out to eat more often. On the other hand, if people have less money, they might not be able to buy as much, even if the prices go down. If someone loses their job, they might have to cut back on things like going to the movies or buying new clothes.
 
 In the demand function, income can be included to show how it affects what people want to buy. The formula might look like Qd = a - bP + cI, where 'I' stands for income and 'c' shows how much income affects demand. If 'c' is a big number, a small change in income can make a big difference in how much people want to buy. If 'c' is a small number, income doesn't affect demand as much. By including income in the demand function, businesses and economists can better predict how changes in people's money will affect how much of a product they will want to buy.
 

@@ -46,7 +46,7 @@ This means that if you buy a low-cost out-of-the-money option, the clock is work
 
 ## What impact does volatility have on the pricing of out-of-the-money options?
 
-Volatility is how much the price of a stock goes up and down. It has a big effect on the price of out-of-the-money options. When a stock is more volatile, it means the price can change a lot in a short time. This makes out-of-the-money options more valuable because there's a bigger chance the stock price will move enough to make the option worth something. So, when volatility goes up, the price of out-of-the-money options also goes up.
+Volatility is how much the price of a stock goes up and down. It has a big effect on the price of out-of-the-money options. When a stock is more volatile, it means the price can change a lot in a short time. This makes out-of-the-money options more valuable because there's a bigger chance the stock price will move enough to make the option worth something. So, when [volatility](/wiki/volatility-trading-strategies) goes up, the price of out-of-the-money options also goes up.
 
 On the other hand, when a stock is less volatile, it means the price doesn't change as much. This makes out-of-the-money options less valuable because there's a smaller chance the stock price will move enough to make the option profitable. So, when volatility goes down, the price of out-of-the-money options goes down too. This is why traders pay close attention to volatility when they are deciding whether to buy or sell these options.
 

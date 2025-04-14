@@ -38,7 +38,7 @@ A shortfall can also make it hard for a business to grow or improve. If a compan
 
 A shortfall can have big effects on the economy. When businesses don't have enough money, they might have to cut back on spending. This means they might buy fewer supplies or lay off workers. When workers lose their jobs, they have less money to spend on things they need, like food and clothes. This can make other businesses sell less, leading to more shortfalls and more job losses. It's like a chain reaction that can make the whole economy slow down.
 
-Governments can also feel the impact of shortfalls. If businesses and people are earning less money, they pay less in taxes. This can lead to a shortfall in the government's budget, making it hard for them to pay for important things like schools and hospitals. Sometimes, the government might have to borrow money or raise taxes to cover the shortfall, which can make life harder for everyone. Overall, shortfalls can create a lot of problems and make the economy less stable.
+Governments can also feel the impact of shortfalls. If businesses and people are [earning](/wiki/earning-announcement) less money, they pay less in taxes. This can lead to a shortfall in the government's budget, making it hard for them to pay for important things like schools and hospitals. Sometimes, the government might have to borrow money or raise taxes to cover the shortfall, which can make life harder for everyone. Overall, shortfalls can create a lot of problems and make the economy less stable.
 
 ## What are some basic solutions to address a shortfall?
 

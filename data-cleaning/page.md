@@ -84,7 +84,7 @@ Another way to see if your data cleaning was effective is by looking at how it a
 
 ## What are the Data Cleaning Techniques for Algorithmic Trading?
 
-Data cleaning is a critical element in ensuring the accuracy and reliability of data used in algorithmic trading. Among the most common techniques are the removal of outliers, data normalization, and dealing with missing data. These techniques are essential for aligning raw data with the precision required for effective trading algorithms.
+Data cleaning is a critical element in ensuring the accuracy and reliability of data used in [algorithmic trading](/wiki/algorithmic-trading). Among the most common techniques are the removal of outliers, data normalization, and dealing with missing data. These techniques are essential for aligning raw data with the precision required for effective trading algorithms.
 
 **Removal of Outliers**
 

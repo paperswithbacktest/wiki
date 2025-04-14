@@ -18,7 +18,7 @@ Having an exit strategy is important because it helps you prepare for the future
 
 Having an exit strategy is important because it helps you plan for the future. It's like having a roadmap that shows you how to leave a business or investment when the time comes. This can make things easier and less stressful when you need to move on. Whether you're running a business or investing money, knowing how you'll exit can help you make better choices along the way.
 
-An exit strategy also prepares you for unexpected changes. Life can be unpredictable, and having a plan in place means you're ready for whatever might happen. It can help you protect your money and make sure you can leave a business or investment on your terms. By thinking about your exit strategy early, you set yourself up for success and peace of mind.
+An [exit](/wiki/exit-strategy) strategy also prepares you for unexpected changes. Life can be unpredictable, and having a plan in place means you're ready for whatever might happen. It can help you protect your money and make sure you can leave a business or investment on your terms. By thinking about your exit strategy early, you set yourself up for success and peace of mind.
 
 ## What are the different types of exit strategies?
 

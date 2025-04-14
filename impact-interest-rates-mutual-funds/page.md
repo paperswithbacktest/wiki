@@ -36,7 +36,7 @@ On the other hand, when interest rates go down, bond prices go up. This is becau
 
 When interest rates go up, it can be bad news for bond mutual funds. These funds hold a bunch of bonds, and when interest rates rise, the prices of those bonds go down. This means the value of the mutual fund goes down too. People who own shares in the bond mutual fund might see the value of their investment drop. If they need to sell their shares during this time, they might get less money back than they put in.
 
-But it's not all bad news. Bond mutual funds often pay out the interest they earn from the bonds to their investors. When interest rates rise, new bonds will have higher interest rates, which means the bond mutual fund can start earning more interest over time. This might help make up for the loss in the fund's value. So, while rising interest rates can hurt bond mutual funds in the short term, they might benefit in the long term if they hold onto the new bonds with higher rates.
+But it's not all bad news. Bond mutual funds often pay out the interest they earn from the bonds to their investors. When interest rates rise, new bonds will have higher interest rates, which means the bond mutual fund can start [earning](/wiki/earning-announcement) more interest over time. This might help make up for the loss in the fund's value. So, while rising interest rates can hurt bond mutual funds in the short term, they might benefit in the long term if they hold onto the new bonds with higher rates.
 
 ## What effect do falling interest rates have on equity mutual funds?
 
@@ -113,7 +113,7 @@ Sharpe, William F. "Capital Asset Prices: A Theory of Market Equilibrium Under C
 
 Elton, Edwin J., and Gruber, Martin J. "Modern Portfolio Theory and Investment Analysis." This book offers comprehensive coverage of portfolio theory, emphasizing the benefits of diversification to mitigate risk. It discusses various optimizing tools and formulas used for constructing efficient portfolios, critical for understanding mutual fund dynamics. The concepts outlined are beneficial for investor strategies that incorporate both traditional and algorithmic approaches.
 
-Bergstra, J., et al. "Algorithms for Hyper-Parameter Optimization." This research addresses the optimization of algorithmic parameters, helping improve the performance of trading algorithms. By applying these techniques, fund managers can enhance algorithmic trading strategies, ensuring they adapt effectively to real-time market changes. The insights gained are vital for integrating these advancements into mutual fund management.
+Bergstra, J., et al. "Algorithms for Hyper-Parameter Optimization." This research addresses the optimization of algorithmic parameters, helping improve the performance of trading algorithms. By applying these techniques, fund managers can enhance [algorithmic trading](/wiki/algorithmic-trading) strategies, ensuring they adapt effectively to real-time market changes. The insights gained are vital for integrating these advancements into mutual fund management.
 
 Lopez de Prado, Marcos. "Advances in Financial Machine Learning." Lopez de Prado's work investigates into the application of [machine learning](/wiki/machine-learning) techniques in finance, providing tools for algorithmic trading and portfolio optimization. His methodologies offer a cutting-edge approach to investment strategies, equipping investors and fund managers with the knowledge to refine their decision-making processes using data-driven insights.
 

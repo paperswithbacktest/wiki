@@ -66,7 +66,7 @@ When inflation goes up, people expect prices to keep going up. According to the 
 
 Real interest rates and nominal interest rates are two ways to talk about the cost of borrowing money or the reward for saving it. Nominal interest rates are the ones you see on loan agreements or savings accounts. They are the actual percentage you pay or earn. For example, if you borrow $100 at a 5% nominal interest rate, you'll pay back $105. But, if there's inflation, the value of that money changes over time. 
 
-Real interest rates take inflation into account. They show you how much you're really earning or paying after prices go up. To find the real interest rate, you subtract the inflation rate from the nominal interest rate. If the nominal rate is 5% and inflation is 3%, the real interest rate is 2%. This means that even though you pay back $105, the money is only worth $102 in terms of what it can buy. Real interest rates help you understand the true cost or benefit of borrowing or saving money when inflation is changing the value of money.
+Real interest rates take inflation into account. They show you how much you're really [earning](/wiki/earning-announcement) or paying after prices go up. To find the real interest rate, you subtract the inflation rate from the nominal interest rate. If the nominal rate is 5% and inflation is 3%, the real interest rate is 2%. This means that even though you pay back $105, the money is only worth $102 in terms of what it can buy. Real interest rates help you understand the true cost or benefit of borrowing or saving money when inflation is changing the value of money.
 
 ## What are the potential impacts of monetary policy on the inflation-interest rate dynamic?
 

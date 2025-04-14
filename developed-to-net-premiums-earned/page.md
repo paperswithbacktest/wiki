@@ -30,7 +30,7 @@ It's also important for the overall health of the insurance company. If they kee
 
 Several things can change how much money an insurance company makes from the premiums they collect. One big thing is how many claims people make. If more people make claims than the company expected, they might have to pay out more money than they thought. This means they need to adjust their premiums to make sure they have enough money to cover all the claims. Another thing that can affect this is how bad the claims are. If the claims are more expensive than expected, the company will need to change their calculations to make sure they can still make money.
 
-Another factor is how long it takes for claims to come in. Sometimes, it can take a while for people to make claims, so the company has to guess how much money they will need in the future. If their guesses are wrong, they will need to adjust their premiums. Also, the company might have to pay for things like lawyers or investigators to handle claims, and these costs can change how much money they make from premiums. By keeping an eye on all these things, insurance companies can make sure they are charging the right amount for their policies.
+Another [factor](/wiki/factor-investing) is how long it takes for claims to come in. Sometimes, it can take a while for people to make claims, so the company has to guess how much money they will need in the future. If their guesses are wrong, they will need to adjust their premiums. Also, the company might have to pay for things like lawyers or investigators to handle claims, and these costs can change how much money they make from premiums. By keeping an eye on all these things, insurance companies can make sure they are charging the right amount for their policies.
 
 ## How can an insurance company improve its developed to net premiums earned ratio?
 
@@ -112,7 +112,7 @@ $$
 \text{Net Premiums Earned} = \text{Net Premiums Written} - \text{Change in Unearned Premiums Reserve}
 $$
 
-While algorithmic trading primarily influences the investment portfolio, not the direct calculation of net premiums earned, it changes the underlying economic conditions that inform insurers' pricing and premium strategies. For instance, significant fluctuations in investment returns might prompt an insurer to adjust premium rates to maintain profitability. Such strategic adjustments in premium pricing impact future net premiums earned.
+While [algorithmic trading](/wiki/algorithmic-trading) primarily influences the investment portfolio, not the direct calculation of net premiums earned, it changes the underlying economic conditions that inform insurers' pricing and premium strategies. For instance, significant fluctuations in investment returns might prompt an insurer to adjust premium rates to maintain profitability. Such strategic adjustments in premium pricing impact future net premiums earned.
 
 Furthermore, predictive analytics, a critical component of algorithmic trading, enables the rapid assessment of large data sets to forecast market trends more accurately. Insurance companies, leveraging these technologies, can enhance risk assessment and pricing strategies. Therefore, a comprehensive understanding of algorithmic trading technologies is vital for accurately predicting and integrating their effects into financial accounting practices.
 

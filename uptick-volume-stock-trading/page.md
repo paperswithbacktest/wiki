@@ -76,7 +76,7 @@ Another reason uptick volume data can vary is because of time differences and tr
 
 ## What role does uptick volume play in algorithmic trading?
 
-Uptick volume is really important in algorithmic trading because it helps computers make smart choices about buying and selling stocks. These computers, or algorithms, look at uptick volume to see if a stock is getting more popular. If a lot of shares are traded when the price goes up, the algorithm might think it's a good time to buy the stock because other people are buying it too. This can help the algorithm make money if the stock keeps going up.
+Uptick volume is really important in [algorithmic trading](/wiki/algorithmic-trading) because it helps computers make smart choices about buying and selling stocks. These computers, or algorithms, look at uptick volume to see if a stock is getting more popular. If a lot of shares are traded when the price goes up, the algorithm might think it's a good time to buy the stock because other people are buying it too. This can help the algorithm make money if the stock keeps going up.
 
 But, uptick volume is just one thing the algorithms look at. They also check other stuff like how much the stock's price has changed, what's happening in the news, and what other stocks are doing. By using uptick volume along with all this other information, the algorithms can make better guesses about where the stock price might go next. This helps them decide when to buy or sell to make the most money.
 

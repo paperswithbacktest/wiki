@@ -88,7 +88,7 @@ Another way technology helps is by making it easier to keep track of how well in
 
 ## What are Common Capital Allocation Strategies?
 
-Common capital allocation strategies in algorithmic trading play a vital role in optimizing risk and returns. These strategies are employed by traders to determine how much capital to allocate to each trade based on various criteria. Here, we explore several widely-used methods that offer a range of complexities and benefits.
+Common capital allocation strategies in [algorithmic trading](/wiki/algorithmic-trading) play a vital role in optimizing risk and returns. These strategies are employed by traders to determine how much capital to allocate to each trade based on various criteria. Here, we explore several widely-used methods that offer a range of complexities and benefits.
 
 ### Equally Weighted Position Sizing
 
@@ -96,7 +96,7 @@ Equally weighted position sizing is a straightforward strategy where each trade 
 
 ### Volatility-Scaled Positioning
 
-Volatility-scaled positioning adjusts the size of positions inversely to their expected volatility. This approach aims to balance the risk each trade contributes to the overall portfolio. More volatile assets receive smaller allocations, while less volatile assets are allocated more capital. Calculating the position size involves estimating each asset's volatility and adjusting according to a target risk level. The formula used is:
+Volatility-scaled positioning adjusts the size of positions inversely to their expected [volatility](/wiki/volatility-trading-strategies). This approach aims to balance the risk each trade contributes to the overall portfolio. More volatile assets receive smaller allocations, while less volatile assets are allocated more capital. Calculating the position size involves estimating each asset's volatility and adjusting according to a target risk level. The formula used is:
 
 $$
 \text{Position Size} = \frac{\text{Target Risk}}{\text{Estimated Volatility}}

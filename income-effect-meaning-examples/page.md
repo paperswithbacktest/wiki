@@ -161,7 +161,7 @@ Algorithmic trading can greatly benefit from the integration of economic models 
 
 - **Enhancing Decision-making Algorithms:** Economic models offer foundational insights that can refine decision-making algorithms, allowing them to account for variabilities in consumer income and preferences. This enhances the precision of algorithmic trading systems in modeling market behavior.
 
-Here is an example of how a simple Python function might use economic indicators to adjust an algorithmic trading decision:
+Here is an example of how a simple Python function might use economic indicators to adjust an [algorithmic trading](/wiki/algorithmic-trading) decision:
 
 ```python
 def trading_strategy(income_change, current_demand):

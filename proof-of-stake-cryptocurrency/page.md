@@ -24,7 +24,7 @@ The big difference between PoS and PoW is how they use resources. PoW uses a lot
 
 Using Proof-of-Stake in cryptocurrencies has several benefits. One big benefit is that it uses less energy. Unlike Proof-of-Work, which needs a lot of computer power to solve math problems, Proof-of-Stake picks someone to add new information based on how many coins they have locked up. This means it doesn't use as much electricity, which is good for the environment. It also makes it easier for more people to join in because they don't need expensive computers to participate.
 
-Another benefit is that Proof-of-Stake can be safer and less likely to be attacked. In Proof-of-Stake, if someone tries to cheat, they could lose the coins they locked up. This makes people think twice before trying to mess with the system. Also, because it's harder for one person to control a lot of the network, it's more spread out and harder to take over. This helps keep the cryptocurrency safe and fair for everyone.
+Another benefit is that Proof-of-Stake can be safer and less likely to be attacked. In Proof-of-Stake, if someone tries to cheat, they could lose the coins they locked up. This makes people think twice before trying to mess with the system. Also, because it's harder for one person to control a lot of the network, it's more spread out and harder to take over. This helps keep the [cryptocurrency](/wiki/cryptocurrency) safe and fair for everyone.
 
 ## What are the potential drawbacks or challenges of Proof-of-Stake systems?
 

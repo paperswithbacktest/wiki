@@ -18,7 +18,7 @@ This type of investing can be good for people who don't like taking big risks wi
 
 Low-volatility investing and traditional investing differ mainly in how much risk they take and how they grow. Traditional investing often involves picking a mix of stocks, some of which might go up a lot but also might go down a lot. This means traditional investing can be riskier because the value of the investments can change a lot. People who do traditional investing are usually okay with this risk because they hope to get bigger rewards over time.
 
-On the other hand, low-volatility investing focuses on picking stocks or funds that don't change in value as much. This makes it less risky because the investments are more stable. People who choose low-volatility investing are more interested in protecting their money from big losses than in getting the biggest possible gains. They are okay with slower growth if it means their investments are safer and more predictable.
+On the other hand, low-[volatility](/wiki/volatility-trading-strategies) investing focuses on [picking](/wiki/asset-class-picking) stocks or funds that don't change in value as much. This makes it less risky because the investments are more stable. People who choose low-volatility investing are more interested in protecting their money from big losses than in getting the biggest possible gains. They are okay with slower growth if it means their investments are safer and more predictable.
 
 ## What are the benefits of low-volatility investing?
 

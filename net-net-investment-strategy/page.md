@@ -24,7 +24,7 @@ Graham believed that if you could buy a company for less than its net current as
 
 The Net-Net strategy is a specific type of value investing that focuses on buying companies for less than their net current asset value. This means you look at what the company owns right now, like cash and inventory, and subtract what it owes, like debts. If the stock price is lower than this number, it's a Net-Net stock. This approach is different from other value investing strategies because it's very strict about what counts as a good deal. Other value strategies might look at a company's future earnings or its book value, but Net-Net only cares about the current assets minus liabilities.
 
-Other value investing strategies might use different ways to find undervalued stocks. For example, some investors might look at a company's price-to-earnings ratio or its price-to-book ratio to see if it's a good buy. These strategies focus on the company's potential to make money in the future or its overall worth on the books. The Net-Net strategy, on the other hand, is more about finding companies that are so cheap that they're almost like buying the company's assets at a discount. This makes it a more conservative approach because it's based on what the company has right now, not what it might do in the future.
+Other value investing strategies might use different ways to find undervalued stocks. For example, some investors might look at a company's price-to-earnings ratio or its price-to-book ratio to see if it's a good buy. These strategies focus on the company's potential to make money in the future or its overall worth on the [books](/wiki/algo-trading-books). The Net-Net strategy, on the other hand, is more about finding companies that are so cheap that they're almost like buying the company's assets at a discount. This makes it a more conservative approach because it's based on what the company has right now, not what it might do in the future.
 
 ## What are the key financial metrics used in identifying Net-Net stocks?
 
@@ -98,7 +98,7 @@ Net-net investing is particularly appealing for companies in financial distress 
 
 Algorithmic trading can significantly enhance the identification and trading of net-net stocks by implementing automated processes based on Net Current Asset Value Per Share (NCAVPS) thresholds. This integration allows traders and investors to efficiently screen, select, and execute trades in stocks that meet specific net-net criteria, a method traditionally requiring extensive manual review.
 
-To begin the integration of net-net strategies in algorithmic trading, it is essential to codify the entire process from data screening to trade execution. This automation ensures seamless navigation through dynamic market conditions. Here is a basic outline of how such an algorithm might be structured in Python:
+To begin the integration of net-net strategies in [algorithmic trading](/wiki/algorithmic-trading), it is essential to codify the entire process from data screening to trade execution. This automation ensures seamless navigation through dynamic market conditions. Here is a basic outline of how such an algorithm might be structured in Python:
 
 1. **Data Acquisition**: Automatically fetch financial data from reliable sources such as public financial APIs or databases. This data should include current assets, total liabilities, and the number of outstanding shares, which are key to calculating NCAVPS.
 
@@ -153,7 +153,7 @@ selected_stocks = screen_stocks(stock_symbols, ncavps_threshold)
 print("Selected Stocks:", selected_stocks)
 ```
 
-This code demonstrates the basic mechanism of calculating NCAVPS and screening stocks. While simplified, it serves as a foundation that can be expanded with real-time data fetching, advanced machine learning, and integrated risk management protocols. The continual adaptation of such algorithms ensures that trading strategies remain competitive and responsive to market changes.
+This code demonstrates the basic mechanism of calculating NCAVPS and screening stocks. While simplified, it serves as a foundation that can be expanded with real-time data fetching, advanced [machine learning](/wiki/machine-learning), and integrated risk management protocols. The continual adaptation of such algorithms ensures that trading strategies remain competitive and responsive to market changes.
 
 ## References & Further Reading
 

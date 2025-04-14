@@ -72,7 +72,7 @@ The fund's performance has been strong and consistent. It has beaten many other 
 
 ## How does Segantii Capital Management integrate ESG (Environmental, Social, and Governance) factors into its investment decisions?
 
-Segantii Capital Management cares about ESG factors, which means they think about the environment, how companies treat people, and how well companies are run when they make investment choices. They believe that looking at these things can help them make better decisions and find companies that will do well in the future. So, they look at how companies handle things like pollution, worker rights, and honest business practices. This helps them pick investments that not only make money but also help make the world a better place.
+Segantii Capital Management cares about [ESG](/wiki/esg-investing) factors, which means they think about the environment, how companies treat people, and how well companies are run when they make investment choices. They believe that looking at these things can help them make better decisions and find companies that will do well in the future. So, they look at how companies handle things like pollution, worker rights, and honest business practices. This helps them pick investments that not only make money but also help make the world a better place.
 
 They use special tools and data to check how good companies are at ESG. This helps them understand the risks and chances that come with investing in these companies. By thinking about ESG, Segantii tries to make sure their investments are not just good for their investors' wallets but also good for society and the planet. This way, they can keep making money while also doing the right thing.
 
@@ -84,9 +84,9 @@ They also want to keep using their market-neutral investing strategy. This means
 
 ## What are Segantii's Algo Trading Strategies?
 
-Segantii Capital Management employs a diverse array of algorithmic trading strategies, each designed to capitalize on specific market conditions and opportunities. Among its most prominent strategies is [statistical arbitrage](/wiki/statistical-arbitrage), a method that relies on statistical and econometric techniques to exploit inefficiencies and short-term mispricings in the market. This approach typically involves identifying price discrepancies between correlated instruments and executing trades to profit from mean reversion once these discrepancies are corrected.
+Segantii Capital Management employs a diverse array of [algorithmic trading](/wiki/algorithmic-trading) strategies, each designed to capitalize on specific market conditions and opportunities. Among its most prominent strategies is [statistical [arbitrage](/wiki/arbitrage)](/wiki/statistical-arbitrage), a method that relies on statistical and econometric techniques to exploit inefficiencies and short-term mispricings in the market. This approach typically involves identifying price discrepancies between correlated instruments and executing trades to profit from mean reversion once these discrepancies are corrected.
 
-For instance, statistical arbitrage often employs pairs trading strategies where two historically correlated stocks are traded—one is bought and the other is sold short when their spread deviates from the historical average. The goal is to gain as the spread between the stocks converges back to the mean. Mathematically, if we denote the prices of the two stocks as $P_1$ and $P_2$, the spread $S$ can be represented as:
+For instance, [statistical arbitrage](/wiki/statistical-arbitrage) often employs pairs trading strategies where two historically correlated stocks are traded—one is bought and the other is sold short when their spread deviates from the historical average. The goal is to gain as the spread between the stocks converges back to the mean. Mathematically, if we denote the prices of the two stocks as $P_1$ and $P_2$, the spread $S$ can be represented as:
 
 $$
 

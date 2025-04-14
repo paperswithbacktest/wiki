@@ -40,7 +40,7 @@ The highest and lowest prices during the imbalance are also key components of a 
 
 ## Can DIBs be used for any financial instrument?
 
-Yes, Dollar Imbalance Bars (DIBs) can be used for many different financial instruments, like stocks, forex, and futures. They work well for any market where there is a lot of buying and selling happening. DIBs help traders see the important moments when the market might be about to change direction, no matter what kind of financial instrument they are trading.
+Yes, Dollar Imbalance Bars (DIBs) can be used for many different financial instruments, like stocks, [forex](/wiki/forex-system), and futures. They work well for any market where there is a lot of buying and selling happening. DIBs help traders see the important moments when the market might be about to change direction, no matter what kind of financial instrument they are trading.
 
 The key is that DIBs focus on the big differences between buyers and sellers, which can happen in any market. This makes DIBs useful for traders who want to see these key moments clearly, whether they are trading stocks, currencies, or other financial products. By using DIBs, traders can make better decisions and react faster to changes in the market, no matter what they are trading.
 

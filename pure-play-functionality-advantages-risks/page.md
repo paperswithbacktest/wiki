@@ -62,7 +62,7 @@ Also, pure play companies can have a hard time getting money from investors. Inv
 
 ## How does market volatility affect pure play companies compared to diversified firms?
 
-Market volatility can be really tough on pure play companies. Because they only focus on one product or service, any big changes in the market can hit them hard. For example, if the price of the materials they need goes up a lot, or if people suddenly stop wanting their product, the company can lose a lot of money. They don't have other products to help them make up for the loss, so they feel the impact of market changes more strongly than diversified firms.
+Market [volatility](/wiki/volatility-trading-strategies) can be really tough on pure play companies. Because they only focus on one product or service, any big changes in the market can hit them hard. For example, if the price of the materials they need goes up a lot, or if people suddenly stop wanting their product, the company can lose a lot of money. They don't have other products to help them make up for the loss, so they feel the impact of market changes more strongly than diversified firms.
 
 Diversified firms, on the other hand, have an easier time dealing with market volatility. Since they work on many different products or services, if one part of their business is struggling, they can still make money from their other parts. This spreads out the risk and makes it less likely that the whole company will be in trouble because of changes in the market. So, while pure play companies can be hit hard by market ups and downs, diversified firms have a cushion that helps them weather the storm better.
 

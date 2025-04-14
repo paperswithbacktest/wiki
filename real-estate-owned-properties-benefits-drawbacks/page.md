@@ -34,7 +34,7 @@ Another issue is that buying an REO property can take longer than buying a regul
 
 ## How can one find REO properties for sale?
 
-Finding REO properties for sale can be done in a few ways. One way is to check websites that list homes for sale. Some popular websites have special sections just for REO properties. You can search these websites to see what REO homes are available in your area. Another way is to work with a real estate agent who specializes in REO properties. These agents know how to find REO homes and can help you find one that fits what you're looking for.
+Finding REO properties for sale can be done in a few ways. One way is to check websites that list homes for sale. Some popular websites have special sections just for REO properties. You can search these websites to see what REO homes are available in your area. Another way is to work with a real estate agent who specializes in REO properties. These [agents](/wiki/agents) know how to find REO homes and can help you find one that fits what you're looking for.
 
 You can also look at bank websites directly. Many banks have a section on their website where they list REO properties they own. By checking these websites, you can find out if there are any REO homes for sale in your area. Sometimes, local newspapers or real estate magazines might list REO properties too. Keep an eye out for these listings to find a good deal on an REO home.
 

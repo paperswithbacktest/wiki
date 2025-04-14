@@ -22,7 +22,7 @@ This ratio tells you how much investors are willing to pay for each dollar of th
 
 ## What does a negative P/E ratio indicate about a company?
 
-A negative P/E ratio means a company is losing money. Instead of making a profit, the company's earnings per share (EPS) is less than zero. When you divide the stock price by a negative EPS, you get a negative P/E ratio. This tells investors that the company isn't earning any money right now.
+A negative P/E ratio means a company is losing money. Instead of making a profit, the company's earnings per share (EPS) is less than zero. When you divide the stock price by a negative EPS, you get a negative P/E ratio. This tells investors that the company isn't [earning](/wiki/earning-announcement) any money right now.
 
 It's important to understand why a company has a negative P/E ratio. It could be going through a tough time, like a new business that hasn't started making profits yet, or an older company facing challenges. Investors should look at other information too, like the company's plans for the future and how it's doing compared to other companies in the same industry. A negative P/E ratio isn't always bad, but it's a sign to be careful and do more research.
 

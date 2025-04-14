@@ -30,7 +30,7 @@ For example, if you want to find the 7th multiple of 5, you can multiply 5 by 7,
 
 A multiple is a number you get when you multiply one number by another whole number. For example, if you multiply 3 by 4, you get 12. So, 12 is a multiple of 3 and also a multiple of 4. Multiples are always bigger than or equal to the number you start with, and you can keep finding more multiples by adding the original number over and over again.
 
-A factor, on the other hand, is a number that divides another number without leaving a remainder. For example, 3 is a factor of 12 because 12 divided by 3 equals 4, with no remainder. Factors are always smaller than or equal to the number you start with. You find factors by trying to divide the number by different whole numbers and seeing which ones work without leaving anything left over.
+A [factor](/wiki/factor-investing), on the other hand, is a number that divides another number without leaving a remainder. For example, 3 is a factor of 12 because 12 divided by 3 equals 4, with no remainder. Factors are always smaller than or equal to the number you start with. You find factors by trying to divide the number by different whole numbers and seeing which ones work without leaving anything left over.
 
 So, the main difference is that multiples are the results of multiplying, and they get bigger as you go along, while factors are the numbers you can divide by, and they are usually smaller than the number you start with.
 
@@ -84,9 +84,9 @@ In more advanced math, like number theory and modular arithmetic, multiples are 
 
 ## What is the role of calculation in trend following strategies?
 
-Trend following is a popular strategy in algorithmic trading, focusing on capitalizing on market trends by aligning trades in the same direction. The cornerstone of this strategy is the use of technical indicators and mathematical models to identify and confirm market trends. 
+Trend following is a popular strategy in [algorithmic trading](/wiki/algorithmic-trading), focusing on capitalizing on market trends by aligning trades in the same direction. The cornerstone of this strategy is the use of technical indicators and mathematical models to identify and confirm market trends. 
 
-A primary tool in trend following strategies is the calculation of moving averages. Moving averages are used to smooth out price data and generate a clearer picture of the trend direction. There are several types of moving averages, including the Simple Moving Average (SMA) and the Exponential Moving Average (EMA). The SMA is calculated as the arithmetic mean of a given set of prices over a specific number of periods. For instance, a 20-day SMA for a stock is calculated as follows:
+A primary tool in [trend following](/wiki/trend-following) strategies is the calculation of moving averages. Moving averages are used to smooth out price data and generate a clearer picture of the trend direction. There are several types of moving averages, including the Simple Moving Average (SMA) and the Exponential Moving Average (EMA). The SMA is calculated as the arithmetic mean of a given set of prices over a specific number of periods. For instance, a 20-day SMA for a stock is calculated as follows:
 
 $$
 \text{SMA} = \frac{P_1 + P_2 + \ldots + P_n}{n}
@@ -123,7 +123,7 @@ Objective decision-making is a significant benefit of these calculations. By rel
 
 ## What is the role of calculation in momentum trading?
 
-Momentum trading is a strategy that capitalizes on the continuance of existing trends in the market, buying assets when the momentum is strong. It primarily involves the application of technical calculations to determine the strength and direction of price trends. 
+Momentum trading is a strategy that capitalizes on the continuance of existing trends in the market, buying assets when the [momentum](/wiki/momentum) is strong. It primarily involves the application of technical calculations to determine the strength and direction of price trends. 
 
 The Rate of Change (ROC) and the Relative Strength Index (RSI) are among the fundamental indicators used in momentum trading. These indicators help quantify the speed of price movements and identify overbought or oversold conditions.
 
@@ -161,7 +161,7 @@ In summary, momentum trading relies heavily on technical analysis and calculatio
 
 ## What are Mean Reversion and Arbitrage Calculations?
 
-Mean reversion and arbitrage are two prominent strategies in algorithmic trading that leverage statistical calculations to identify trading opportunities.
+Mean reversion and [arbitrage](/wiki/arbitrage) are two prominent strategies in algorithmic trading that leverage statistical calculations to identify trading opportunities.
 
 Mean reversion relies on the assumption that asset prices tend to return to their historical averages. This strategy involves the use of statistical tools to spot deviations from the mean and capitalize on the potential correction. A common statistical indicator used in mean reversion is the Standard Deviation, which quantifies the amount of variability or [dispersion](/wiki/dispersion-trading) in a set of prices. The calculation of the z-score can also serve as a measure of how far a current price is from the mean. The z-score is computed as:
 

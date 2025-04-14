@@ -18,7 +18,7 @@ Lastly, there's the bar chart, which is similar to the candlestick chart but use
 
 ## How does a candlestick chart help in analyzing cryptocurrency price movements?
 
-A candlestick chart helps in analyzing cryptocurrency price movements by showing how the price changed over a specific time, like an hour or a day. Each "candle" on the chart represents this time period. The thick part of the candle, called the body, shows the opening and closing prices. If the body is green or white, it means the price went up during that time. If it's red or black, the price went down. This makes it easy to see if the market is going up or down at a quick glance.
+A candlestick chart helps in analyzing [cryptocurrency](/wiki/cryptocurrency) price movements by showing how the price changed over a specific time, like an hour or a day. Each "candle" on the chart represents this time period. The thick part of the candle, called the body, shows the opening and closing prices. If the body is green or white, it means the price went up during that time. If it's red or black, the price went down. This makes it easy to see if the market is going up or down at a quick glance.
 
 The thin lines above and below the body of the candle, called the wicks or shadows, show the highest and lowest prices during that time. By looking at these wicks, you can see how much the price moved around. If the wicks are long, it means the price had big swings, which can show that the market is unsure or volatile. If the wicks are short, it means the price stayed pretty steady. By studying these patterns over time, investors can guess where the price might go next and make better decisions about buying or selling their cryptocurrency.
 
@@ -30,7 +30,7 @@ A beginner should use a line chart when they want to get a quick and simple unde
 
 ## Can you explain the concept of volume in the context of bar charts for cryptocurrencies?
 
-Volume in bar charts for cryptocurrencies shows how many coins or tokens were traded during a specific time. On a bar chart, you'll see a little bar or a number at the bottom of each price bar. This tells you the volume for that time. If the volume is high, it means a lot of people were buying and selling the cryptocurrency. If the volume is low, fewer people were trading.
+Volume in bar charts for cryptocurrencies shows how many coins or tokens were traded during a specific time. On a bar chart, you'll see a little bar or a number at the bottom of each price bar. This tells you the [volume](/wiki/volume-trading-strategy) for that time. If the volume is high, it means a lot of people were buying and selling the cryptocurrency. If the volume is low, fewer people were trading.
 
 Volume is important because it can tell you how strong a price move is. If the price goes up and the volume is high, it means a lot of people are buying, so the price might keep going up. But if the price goes up and the volume is low, it might not be a strong move, and the price could go back down soon. So, when you look at a bar chart, always check the volume to get a better idea of what might happen next with the price.
 

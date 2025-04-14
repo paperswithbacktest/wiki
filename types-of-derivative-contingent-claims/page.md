@@ -18,7 +18,7 @@ People use derivative contingent claims for different reasons. Some use them to 
 
 There are four main types of derivative contingent claims: forwards, futures, options, and swaps. Each type works a bit differently but they all depend on the price of something else, like a stock or a commodity. Forwards and futures are agreements to buy or sell an asset at a future date for a price agreed upon today. The main difference is that futures are standardized and traded on exchanges, while forwards are customized and traded privately.
 
-Options give the buyer the right, but not the obligation, to buy or sell an asset at a set price before a certain date. There are two kinds of options: calls, which let you buy the asset, and puts, which let you sell it. Swaps are agreements to exchange cash flows or other financial instruments. The most common type is an interest rate swap, where two parties exchange fixed and floating interest rate payments.
+Options give the buyer the right, but not the obligation, to buy or sell an asset at a set price before a certain date. There are two kinds of options: calls, which let you buy the asset, and puts, which let you sell it. Swaps are agreements to exchange cash flows or other financial instruments. The most common type is an [interest rate](/wiki/interest-rate-trading-strategies) swap, where two parties exchange fixed and floating interest rate payments.
 
 Understanding these basic types of derivatives can help people use them wisely. They can be useful for managing risk or trying to make money, but they can also be complicated and risky. It's important to know how each type works before using them.
 
@@ -86,7 +86,7 @@ Another strategy is to use swaps and options together. A company might use an in
 
 Valuation of contingent claims is fundamental to modern finance, as it provides the tools and methods necessary to price derivatives whose payouts depend on uncertain future events. These valuations rely on predictive models that simulate future scenarios and assign probabilities to different outcomes, ultimately enabling traders and investors to make informed decisions regarding potential profit and loss.
 
-Among the most influential models is the Black-Scholes model, which revolutionized options pricing. Developed by Fischer Black, Myron Scholes, and Robert Merton, this model calculates the theoretical price of European-style options based on factors such as the underlying asset's current price ($S$), the option's strike price ($K$), the time to expiration ($T$), the volatility of the underlying asset ($\sigma$), and the risk-free interest rate ($r$). The Black-Scholes formula is expressed as:
+Among the most influential models is the Black-Scholes model, which revolutionized options pricing. Developed by Fischer Black, Myron Scholes, and Robert Merton, this model calculates the theoretical price of European-style options based on factors such as the underlying asset's current price ($S$), the option's strike price ($K$), the time to expiration ($T$), the [volatility](/wiki/volatility-trading-strategies) of the underlying asset ($\sigma$), and the risk-free interest rate ($r$). The Black-Scholes formula is expressed as:
 
 $$
 C = S_0 N(d_1) - X e^{-rT} N(d_2)

@@ -36,7 +36,7 @@ Real returns, on the other hand, show how much your investment grew after adjust
 
 Historical returns help investors see how risky an investment might be. By looking at the past performance of an investment, like a stock or a fund, investors can see if the value has gone up and down a lot or stayed pretty steady. If the value has been jumping around a lot, it means the investment is more risky. For example, if a stock's value goes from $100 to $150 and then back to $100 in a short time, it's a sign that the investment can be unpredictable and risky.
 
-On the other hand, if an investment's value grows slowly but steadily over time, it might be less risky. Investors can use historical returns to calculate something called volatility, which is a measure of how much the investment's value changes. High volatility means more risk, while low volatility means less risk. By understanding these patterns in historical returns, investors can decide if they are comfortable with the level of risk before they put their money into an investment.
+On the other hand, if an investment's value grows slowly but steadily over time, it might be less risky. Investors can use historical returns to calculate something called [volatility](/wiki/volatility-trading-strategies), which is a measure of how much the investment's value changes. High volatility means more risk, while low volatility means less risk. By understanding these patterns in historical returns, investors can decide if they are comfortable with the level of risk before they put their money into an investment.
 
 ## What are common time periods used for calculating historical returns?
 
@@ -180,7 +180,7 @@ where $Y$ is the dependent variable (e.g., asset returns), $\beta_0$ is the inte
 
 Machine learning models have gained prominence due to their ability to handle vast datasets and uncover complex, non-linear relationships. Algorithms such as decision trees, random forests, and support vector machines (SVMs) are utilized for classifying financial data and predicting future trends. A popular technique, neural networks, can identify patterns not easily visible through traditional models. An example of a Python implementation using a [neural network](/wiki/neural-network) for historical price prediction might involve libraries like TensorFlow or PyTorch.
 
-Technical analysis capitalizes on historical price and volume data to forecast future price movements. This approach uses various indicators, like moving averages and relative strength index (RSI), to identify trends, [momentum](/wiki/momentum), and potential reversal points. The moving average, a common indicator, is defined as:
+Technical analysis capitalizes on historical price and [volume](/wiki/volume-trading-strategy) data to forecast future price movements. This approach uses various indicators, like moving averages and relative strength index (RSI), to identify trends, [momentum](/wiki/momentum), and potential reversal points. The moving average, a common indicator, is defined as:
 
 $$
 MA_t = \frac{1}{n} \sum_{i=0}^{n-1} P_{t-i}

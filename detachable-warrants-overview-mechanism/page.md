@@ -78,7 +78,7 @@ Different countries have their own rules about detachable warrants. For example,
 
 One advanced trading strategy with detachable warrants is called "delta hedging." This means you buy or sell the company's stock to balance out the risk of the warrant. If you think the stock price will go up, you can buy the warrant and sell some of the stock at the same time. This way, if the stock price goes down instead, the money you make from selling the stock can help cover the loss on the warrant. It's like playing both sides to keep your investment safer.
 
-Another strategy is "arbitrage." This is when you find a price difference between the warrant and the stock and use it to make money. For example, if the warrant is priced lower than it should be compared to the stock, you can buy the warrant and sell the stock short. If the prices move back to where they should be, you can make a profit from the difference. It's a bit tricky because you need to watch the market closely, but it can be a smart way to use detachable warrants to your advantage.
+Another strategy is "[arbitrage](/wiki/arbitrage)." This is when you find a price difference between the warrant and the stock and use it to make money. For example, if the warrant is priced lower than it should be compared to the stock, you can buy the warrant and sell the stock short. If the prices move back to where they should be, you can make a profit from the difference. It's a bit tricky because you need to watch the market closely, but it can be a smart way to use detachable warrants to your advantage.
 
 ## What are Detachable Warrants and How Do They Relate to Financial Instruments?
 

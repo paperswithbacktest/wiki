@@ -205,7 +205,7 @@ $$
 
 Positive cross-price elasticity indicates substitute instruments, where an increase in the price of one leads to increased demand for the other. Conversely, negative elasticity signifies complementary instruments, where an increase in the price of one results in reduced demand for the other.
 
-These mathematical formulations form vital inputs for algorithmic trading strategies. By integrating elasticity measures, algorithms can forecast market behavior, identify optimal entry and exit points, and adjust trading parameters to align with anticipated market movements. Python code examples can be implemented to automate these calculations, facilitating responsiveness in dynamic trading environments.
+These mathematical formulations form vital inputs for algorithmic trading strategies. By integrating elasticity measures, algorithms can forecast market behavior, identify optimal entry and [exit](/wiki/exit-strategy) points, and adjust trading parameters to align with anticipated market movements. Python code examples can be implemented to automate these calculations, facilitating responsiveness in dynamic trading environments.
 
 ## What are the practical applications and benefits?
 

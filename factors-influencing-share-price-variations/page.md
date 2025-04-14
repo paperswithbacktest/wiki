@@ -78,7 +78,7 @@ These fast trades can also make the market more unpredictable. Because the robot
 
 Advanced statistical models help people try to guess where share prices might go next. One common model is the Autoregressive Integrated Moving Average (ARIMA) model. It looks at past share prices and tries to find patterns in how they move up and down. Another model is the Generalized Autoregressive Conditional Heteroskedasticity (GARCH) model, which focuses on how the ups and downs of share prices can change over time. These models use math to turn past data into guesses about the future, but they're not perfect because the stock market can be unpredictable.
 
-Another tool people use is machine learning, which is like teaching a computer to find patterns in data all by itself. Machine learning models can look at lots of different things at once, like company earnings, economic indicators, and even news stories, to make guesses about share prices. They can get better at guessing over time as they learn from new data. But even with these smart models, it's still hard to predict share prices exactly because so many things can change how people feel about buying and selling shares.
+Another tool people use is [machine learning](/wiki/machine-learning), which is like teaching a computer to find patterns in data all by itself. Machine learning models can look at lots of different things at once, like company earnings, economic indicators, and even news stories, to make guesses about share prices. They can get better at guessing over time as they learn from new data. But even with these smart models, it's still hard to predict share prices exactly because so many things can change how people feel about buying and selling shares.
 
 ## What are Stock Valuation Techniques?
 

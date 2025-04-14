@@ -21,7 +21,7 @@ By using dropout, the neural network becomes better at generalizing. Generalizin
 
 ## How does dropout regularization prevent overfitting?
 
-Dropout regularization helps prevent overfitting by randomly turning off some neurons during training. When these neurons are turned off, they don't help with the calculations for that round. This makes the neural network learn in a way that it can't depend too much on any single neuron. Because different neurons are turned off each time, the network has to find different ways to solve problems. This makes the network stronger and better at working with new data it hasn't seen before.
+Dropout regularization helps prevent overfitting by randomly turning off some neurons during training. When these neurons are turned off, they don't help with the calculations for that round. This makes the [neural network](/wiki/neural-network) learn in a way that it can't depend too much on any single neuron. Because different neurons are turned off each time, the network has to find different ways to solve problems. This makes the network stronger and better at working with new data it hasn't seen before.
 
 During training, if a neuron is dropped out, it's like it's not there for that round. This randomness helps the network learn more general features instead of just memorizing the training data. When it's time to use the network for predictions, all the neurons are used again, but their outputs are scaled down. For example, if the dropout rate is 0.5, the outputs during training are multiplied by 0.5 to keep the expected output the same. This way, the network can work well on new data, not just the data it was trained on.
 
@@ -35,7 +35,7 @@ Choosing the right dropout rate depends on the specific problem and the network'
 
 To implement dropout in a neural network, you need to add a dropout layer to your model. During training, this layer will randomly turn off some neurons based on the dropout rate you set. For example, if you set a dropout rate of 0.5, half of the neurons will be turned off in each training round. This randomness helps the network learn better because it can't rely too much on any single neuron. You can add dropout layers after the input layer or after hidden layers in your network. When it's time to use the network for predictions, dropout is turned off, and all neurons are used again, but their outputs are scaled down to keep the network's behavior the same as during training.
 
-In practice, implementing dropout can be done using popular deep learning libraries like TensorFlow or PyTorch. For example, in PyTorch, you can add a dropout layer using the `nn.Dropout` module. You set the dropout rate when you create the layer, and then you apply it to the output of the previous layer. Here's a simple example of how to do this:
+In practice, implementing dropout can be done using popular [deep learning](/wiki/deep-learning) libraries like TensorFlow or PyTorch. For example, in PyTorch, you can add a dropout layer using the `nn.Dropout` module. You set the dropout rate when you create the layer, and then you apply it to the output of the previous layer. Here's a simple example of how to do this:
 
 ```python
 import torch
@@ -67,7 +67,7 @@ In the testing phase, dropout is turned off, and all neurons are used to make pr
 
 Dropout can be used in many types of neural networks, but it's most common in feedforward neural networks and convolutional neural networks (CNNs). These networks often have many layers and neurons, so dropout helps them learn better by stopping them from overfitting. Overfitting happens when a network learns the training data too well, including all the small mistakes and details, and then doesn't work well on new data. Dropout stops this by turning off some neurons randomly during training, which makes the network learn more general features.
 
-In recurrent neural networks (RNNs) and long short-term memory networks (LSTMs), dropout can also be used, but it's a bit more complicated. These networks have loops that let information pass from one step to the next, so dropout needs to be applied carefully. There are special kinds of dropout for RNNs, like "variational dropout," which keeps the same neurons turned off across different time steps. This helps the network learn better over time without losing important information.
+In recurrent neural networks (RNNs) and [long short](/wiki/equity-long-short)-term memory networks (LSTMs), dropout can also be used, but it's a bit more complicated. These networks have loops that let information pass from one step to the next, so dropout needs to be applied carefully. There are special kinds of dropout for RNNs, like "variational dropout," which keeps the same neurons turned off across different time steps. This helps the network learn better over time without losing important information.
 
 ## How does dropout affect the model's architecture during training?
 
@@ -81,7 +81,7 @@ Besides dropout, another way to stop a neural network from overfitting is called
 
 Another alternative is called "early stopping." This method stops the training of the network before it has a chance to overfit. During training, you keep track of how well the network does on a separate set of data called the validation set. If the performance on the validation set starts to get worse, even though the performance on the training set keeps getting better, you stop the training. This way, the network doesn't learn the training data too well and can still work well on new data. Early stopping is simple to use and doesn't need any extra calculations during training, but it needs a validation set to work properly.
 
-A third option is called "data augmentation." This method changes the training data in small ways to make it seem like there's more data than there really is. For example, in image recognition, you might flip the images, rotate them, or zoom in on them. By doing this, the network sees more different examples and learns to recognize patterns better, which can stop it from overfitting. Data augmentation is especially useful when you don't have a lot of training data, but it can be used with any amount of data to help the network learn better.
+A third option is called "[data augmentation](/wiki/data-augmentation)." This method changes the training data in small ways to make it seem like there's more data than there really is. For example, in image recognition, you might flip the images, rotate them, or zoom in on them. By doing this, the network sees more different examples and learns to recognize patterns better, which can stop it from overfitting. Data augmentation is especially useful when you don't have a lot of training data, but it can be used with any amount of data to help the network learn better.
 
 ## How does dropout interact with other regularization techniques?
 

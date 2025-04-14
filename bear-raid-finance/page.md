@@ -82,7 +82,7 @@ Over time, frequent bear raids can also hurt companies a lot. If a company's sto
 
 ## What is the impact on stock prices?
 
-Bear raids can significantly impact stock prices, creating intense volatility and substantial declines in the targeted equities. This market manipulation strategy exploits psychological and structural vulnerabilities of financial markets, primarily through inducing panic selling among investors. When rumors, often unfounded, about a company's poor performance or impending issues are spread, they can quickly erode investor confidence. As market participants scramble to offload shares, the [volume](/wiki/volume-trading-strategy) of trades surges, further driving down the stock price due to excess supply and decreased demand.
+Bear raids can significantly impact stock prices, creating intense [volatility](/wiki/volatility-trading-strategies) and substantial declines in the targeted equities. This market manipulation strategy exploits psychological and structural vulnerabilities of financial markets, primarily through inducing panic selling among investors. When rumors, often unfounded, about a company's poor performance or impending issues are spread, they can quickly erode investor confidence. As market participants scramble to offload shares, the [volume](/wiki/volume-trading-strategy) of trades surges, further driving down the stock price due to excess supply and decreased demand.
 
 This initial wave of selling is not only fueled by the dissemination of negative sentiments but also compounded by automated trading systems and high-frequency trading algorithms. These systems, designed to react to market trends, may interpret the sharp price decline as a signal to execute additional sell orders, thereby exacerbating the downward trajectory of the stock price.
 
@@ -94,7 +94,7 @@ $$
 \text{Margin Call Price} = \frac{\text{Loan Amount}}{1 - \text{Maintenance Margin Requirement}}
 $$
 
-When stock prices fall to this level during a bear raid, the forced sales due to margin calls amplify the selling [momentum](/wiki/momentum), pushing prices lower and spreading contagion across related market segments. This phenomenon underscores the interconnectedness of modern financial systems and the potential for localized shocks to have broader repercussions. The combination of panic, algorithmic trading, and leverage can thus lead to pronounced swings in stock prices during bear raids, destabilizing markets and eroding investor trust.
+When stock prices fall to this level during a bear raid, the forced sales due to margin calls amplify the selling [momentum](/wiki/momentum), pushing prices lower and spreading contagion across related market segments. This phenomenon underscores the interconnectedness of modern financial systems and the potential for localized shocks to have broader repercussions. The combination of panic, [algorithmic trading](/wiki/algorithmic-trading), and leverage can thus lead to pronounced swings in stock prices during bear raids, destabilizing markets and eroding investor trust.
 
 ## References & Further Reading
 

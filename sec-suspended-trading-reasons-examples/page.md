@@ -20,7 +20,7 @@ The SEC might suspend trading of a stock if they think there's something fishy g
 
 Another reason could be if the company isn't giving out enough information to the public. The SEC wants companies to be open and honest so that investors can make smart choices. If a company isn't doing this, the SEC might step in and stop trading until they can figure out what's going on.
 
-Sometimes, the SEC also suspends trading if they see a lot of strange activity in the stock's price or trading volume. This could mean someone is trying to manipulate the stock's price, which is against the rules. The SEC wants to stop this kind of behavior to keep the market fair for everyone.
+Sometimes, the SEC also suspends trading if they see a lot of strange activity in the stock's price or trading [volume](/wiki/volume-trading-strategy). This could mean someone is trying to manipulate the stock's price, which is against the rules. The SEC wants to stop this kind of behavior to keep the market fair for everyone.
 
 ## How long does a typical SEC trading suspension last?
 

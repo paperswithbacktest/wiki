@@ -28,7 +28,7 @@ Another big thing the United States imports from Mexico is fruits and vegetables
 
 ## How has the trade volume between the United States and Mexico changed over the past decade?
 
-Over the past decade, the trade volume between the United States and Mexico has grown a lot. In 2012, the total trade between these two countries was about $500 billion. By 2022, it had increased to around $780 billion. This means that more and more things are being sent back and forth between the two countries every year. The growth shows how important trade is for both the United States and Mexico.
+Over the past decade, the trade [volume](/wiki/volume-trading-strategy) between the United States and Mexico has grown a lot. In 2012, the total trade between these two countries was about $500 billion. By 2022, it had increased to around $780 billion. This means that more and more things are being sent back and forth between the two countries every year. The growth shows how important trade is for both the United States and Mexico.
 
 The increase in trade has been helped by different things. One big reason is the United States-Mexico-Canada Agreement (USMCA), which replaced the old NAFTA agreement in 2020. This new agreement made it easier for companies to send goods between the United States and Mexico. Also, both countries have been working together more to make trade easier. This has helped the trade volume grow steadily over the years.
 
@@ -36,7 +36,7 @@ The increase in trade has been helped by different things. One big reason is the
 
 The main way goods are moved between the United States and Mexico is by trucks. Many trucks travel back and forth across the border every day, carrying things like cars, electronics, and food. The border between the two countries has many crossings where trucks can go through. This makes it easy for companies to send their products quickly and safely.
 
-Another important way to move goods is by train. Trains can carry a lot of things at once, like oil, cars, and machinery. They are good for moving heavy or big items that might be hard to move by truck. Trains travel on tracks that connect the United States and Mexico, making it easier to send goods over long distances.
+Another important way to move goods is by train. Trains can [carry](/wiki/carry-trading) a lot of things at once, like oil, cars, and machinery. They are good for moving heavy or big items that might be hard to move by truck. Trains travel on tracks that connect the United States and Mexico, making it easier to send goods over long distances.
 
 Ships are also used, but mostly for moving things like oil and chemicals. Ports on the Gulf of Mexico and the Pacific Ocean are used to send these goods. Ships can carry a lot at once, but it takes longer than trucks or trains. Still, they are important for certain types of trade between the United States and Mexico.
 

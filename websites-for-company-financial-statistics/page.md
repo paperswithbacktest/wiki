@@ -18,7 +18,7 @@ There are many different types of financial statistics. Some common ones include
 
 Financial statistics are really important for businesses because they show how well the company is doing with its money. They help business owners and managers see if the company is making enough money, spending too much, or if it owes too much money to others. By looking at these numbers, they can make smart choices about where to spend money, how to grow the business, or if they need to cut costs.
 
-These statistics also help people outside the company, like investors and banks. Investors use them to decide if they should put their money into the company, hoping it will grow and they will make more money. Banks look at the statistics to see if the company is a good risk for loans. If the company's numbers look good, it might be easier to get a loan. So, financial statistics are key for making decisions that can help the business do well and keep growing.
+These [statistics](/wiki/bayesian-statistics) also help people outside the company, like investors and banks. Investors use them to decide if they should put their money into the company, hoping it will grow and they will make more money. Banks look at the statistics to see if the company is a good risk for loans. If the company's numbers look good, it might be easier to get a loan. So, financial statistics are key for making decisions that can help the business do well and keep growing.
 
 ## What types of financial statistics are commonly available on websites?
 

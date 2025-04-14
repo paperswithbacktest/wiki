@@ -82,7 +82,7 @@ Another way to refine EPV calculations is by adjusting the cost of capital to be
 
 ## What is Understanding Earnings Power Value (EPV)?
 
-Earnings Power Value (EPV) is a fundamental analysis tool employed to assess a company's intrinsic value derived from its current earnings capability. Unlike valuation methods that incorporate future growth projections, EPV provides a snapshot of the present operational efficiency and profitability, assuming steady-state operations without significant growth or decline. This method is rooted in the notion that a company's earnings power is a reliable indicator of its value, particularly in stable and mature markets.
+Earnings Power Value (EPV) is a [fundamental analysis](/wiki/fundamental-analysis) tool employed to assess a company's intrinsic value derived from its current earnings capability. Unlike valuation methods that incorporate future growth projections, EPV provides a snapshot of the present operational efficiency and profitability, assuming steady-state operations without significant growth or decline. This method is rooted in the notion that a company's earnings power is a reliable indicator of its value, particularly in stable and mature markets.
 
 The formula for calculating EPV involves dividing the adjusted earnings by the company's Weighted Average Cost of Capital (WACC). Mathematically, it is expressed as:
 

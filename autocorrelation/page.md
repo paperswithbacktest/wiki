@@ -100,7 +100,7 @@ In summary, understanding autocorrelation is essential for effective time series
 
 ## How do you calculate autocorrelation?
 
-Calculating autocorrelation is a crucial step in time series analysis for algorithmic trading, as it identifies the relationship of a variable with its own past values. In a financial context, this helps traders understand potential future movements of market data. Here, we outline the steps and tools required to compute autocorrelation using Python, along with a demonstration of sample code and visualization techniques.
+Calculating autocorrelation is a crucial step in time series analysis for [algorithmic trading](/wiki/algorithmic-trading), as it identifies the relationship of a variable with its own past values. In a financial context, this helps traders understand potential future movements of market data. Here, we outline the steps and tools required to compute autocorrelation using Python, along with a demonstration of sample code and visualization techniques.
 
 ### Steps Involved in Computing Autocorrelation for Trading Data
 

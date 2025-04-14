@@ -18,13 +18,13 @@ These stocks are often from smaller companies that are not well-known. They migh
 
 People might be interested in trading low-volume stocks because they can offer big rewards. Since these stocks don't have many people trading them, their prices can change a lot in a short time. If you buy a low-volume stock at a low price and its value goes up, you could make a lot of money. This chance to make big profits quickly is what attracts some investors to low-volume stocks.
 
-Another reason is that low-volume stocks are often from smaller or newer companies. These companies might be working on new ideas or products that could become very successful. If you believe in a company's future, buying its low-volume stock early could lead to big gains later. However, it's important to remember that these stocks can also be risky because their prices can be hard to predict and they might be harder to sell quickly.
+Another reason is that low-[volume](/wiki/volume-trading-strategy) stocks are often from smaller or newer companies. These companies might be working on new ideas or products that could become very successful. If you believe in a company's future, buying its low-volume stock early could lead to big gains later. However, it's important to remember that these stocks can also be risky because their prices can be hard to predict and they might be harder to sell quickly.
 
 ## What is liquidity and how does it relate to low-volume stocks?
 
 Liquidity is how easy it is to buy or sell something without affecting its price too much. If something is very liquid, like a popular stock, you can buy or sell it quickly because many people are trading it. But if something is not very liquid, like a low-volume stock, it can be harder to buy or sell it quickly because fewer people are trading it.
 
-Low-volume stocks have low liquidity. This means that when you want to sell a low-volume stock, you might have to wait longer to find someone who wants to buy it. Also, if you want to buy or sell a lot of shares at once, it might change the price a lot because there aren't many people trading. So, low liquidity can make low-volume stocks riskier to trade.
+Low-volume stocks have low [liquidity](/wiki/liquidity-risk-premium). This means that when you want to sell a low-volume stock, you might have to wait longer to find someone who wants to buy it. Also, if you want to buy or sell a lot of shares at once, it might change the price a lot because there aren't many people trading. So, low liquidity can make low-volume stocks riskier to trade.
 
 ## What are the basic risks associated with trading low-volume stocks?
 
@@ -36,7 +36,7 @@ Lastly, many low-volume stocks come from smaller or newer companies. These compa
 
 ## How can price volatility affect low-volume stocks?
 
-Price volatility means that the price of a stock can change a lot in a short time. For low-volume stocks, this can happen more often because fewer people are trading them. If someone wants to buy or sell a lot of shares quickly, it can make the price go up or down a lot. This is because there aren't many other people trading to balance out the change in price.
+Price [volatility](/wiki/volatility-trading-strategies) means that the price of a stock can change a lot in a short time. For low-volume stocks, this can happen more often because fewer people are trading them. If someone wants to buy or sell a lot of shares quickly, it can make the price go up or down a lot. This is because there aren't many other people trading to balance out the change in price.
 
 This big change in price can be good if the price goes up. If you bought the stock at a low price and it goes up a lot, you could make a lot of money. But it can also be bad if the price goes down. If you need to sell your shares and the price has dropped a lot, you might lose money. Because low-volume stocks can be so unpredictable, they can be riskier to invest in.
 

@@ -60,7 +60,7 @@ Another mistake is setting the limit price too far away from the stop price. If 
 
 ## How does market volatility affect stop-limit orders?
 
-Market volatility can really mess with stop-limit orders. When the market is moving a lot, stock prices can jump around quickly. If you set a stop-limit order, and the stock price suddenly drops past your stop price and keeps going down, your order might not get filled. This happens because your limit price is too far away from where the stock is trading now. So, you might end up holding onto a stock that keeps losing value, which is not what you wanted.
+Market [volatility](/wiki/volatility-trading-strategies) can really mess with stop-limit orders. When the market is moving a lot, stock prices can jump around quickly. If you set a stop-limit order, and the stock price suddenly drops past your stop price and keeps going down, your order might not get filled. This happens because your limit price is too far away from where the stock is trading now. So, you might end up holding onto a stock that keeps losing value, which is not what you wanted.
 
 To handle this, you need to be careful when you set your stop and limit prices. If the market is very busy, you might want to set your stop price a bit further away from the current price to avoid getting triggered too soon. And you should also think about setting your limit price closer to the stop price, so your order has a better chance of being filled. But remember, you still need to watch your stocks closely and be ready to change your orders if the market keeps moving a lot.
 

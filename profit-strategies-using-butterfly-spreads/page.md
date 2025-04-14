@@ -58,7 +58,7 @@ To find out the maximum loss, it's simple: it's just the total cost of setting u
 
 ## What are some common mistakes to avoid when using butterfly spreads?
 
-One common mistake people make with butterfly spreads is not picking the right middle strike price. If you think the price of what you're trading will stay the same, you need to choose a middle strike price that's close to where you think the price will be when the options expire. If you pick the wrong middle strike, you might not make as much money or could even lose some. Another mistake is not paying attention to how much time is left before the options expire. Butterfly spreads work best when there's not too much time left, because the options you sold will lose value faster as time goes on. If you set up your spread too early, you might not make as much profit.
+One common mistake people make with butterfly spreads is not [picking](/wiki/asset-class-picking) the right middle strike price. If you think the price of what you're trading will stay the same, you need to choose a middle strike price that's close to where you think the price will be when the options expire. If you pick the wrong middle strike, you might not make as much money or could even lose some. Another mistake is not paying attention to how much time is left before the options expire. Butterfly spreads work best when there's not too much time left, because the options you sold will lose value faster as time goes on. If you set up your spread too early, you might not make as much profit.
 
 Another mistake to watch out for is not understanding how much you could lose. Even though the most you can lose with a butterfly spread is the money you spent to set it up, some people forget this and might be surprised if they don't make any money. It's also important to know that butterfly spreads don't work well in a market that's moving a lot. If the price of what you're trading goes up or down a lot, you might not make any money. So, it's best to use butterfly spreads when you think the market will be calm and the price won't change much.
 
@@ -72,7 +72,7 @@ Another thing advanced traders might do is use different types of butterfly spre
 
 When you trade butterfly spreads, you need to think about taxes. The money you make or lose from trading options, like butterfly spreads, is usually treated as capital gains or losses. If you hold your butterfly spread for less than a year before it expires or you close it, any profit you make is considered a short-term capital gain. Short-term capital gains are taxed at your regular income tax rate, which can be pretty high. If you hold it for more than a year, it's a long-term capital gain, which is taxed at a lower rate, usually between 0% and 20%, depending on your income.
 
-It's also important to know that you can use losses from butterfly spreads to lower your taxes. If you lose money on a butterfly spread, you can use that loss to reduce your taxable income. You can deduct up to $3,000 of net capital losses from your regular income each year. If your losses are more than $3,000, you can carry the extra over to future years. Always keep good records of your trades, because you'll need them when you do your taxes. It's a good idea to talk to a tax professional to make sure you're doing everything right and taking advantage of all the tax benefits you can.
+It's also important to know that you can use losses from butterfly spreads to lower your taxes. If you lose money on a butterfly spread, you can use that loss to reduce your taxable income. You can deduct up to $3,000 of net capital losses from your regular income each year. If your losses are more than $3,000, you can [carry](/wiki/carry-trading) the extra over to future years. Always keep good records of your trades, because you'll need them when you do your taxes. It's a good idea to talk to a tax professional to make sure you're doing everything right and taking advantage of all the tax benefits you can.
 
 ## How can butterfly spreads be integrated into a broader trading strategy?
 
@@ -86,7 +86,7 @@ Options trading has gained significant traction among investors, largely due to 
 
 ### Optimal Market Conditions for Butterfly Spread Strategies
 
-Butterfly spreads thrive in specific market conditions, primarily when traders anticipate minimal price movement. This strategy is most effective in a low-volatility environment, as it profits when the underlying asset's price remains near the central strike price at expiration. However, this does not imply that butterfly spreads cannot be profitable in other conditions. Competent traders often adapt their strategies to fit moderate volatility scenarios by adjusting the strike prices and widths of their spreads.
+Butterfly spreads thrive in specific market conditions, primarily when traders anticipate minimal price movement. This strategy is most effective in a low-[volatility](/wiki/volatility-trading-strategies) environment, as it profits when the underlying asset's price remains near the central strike price at expiration. However, this does not imply that butterfly spreads cannot be profitable in other conditions. Competent traders often adapt their strategies to fit moderate volatility scenarios by adjusting the strike prices and widths of their spreads.
 
 ### Profit Potential and Calculating Returns
 

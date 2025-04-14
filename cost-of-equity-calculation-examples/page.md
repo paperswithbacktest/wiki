@@ -18,7 +18,7 @@ To figure out the cost of equity, companies often use a model called the Capital
 
 The cost of equity is important for businesses because it helps them figure out if they should start new projects or make new investments. It's like a benchmark. If a business thinks a new project will make more money than what they need to pay shareholders, they might decide to go ahead with it. But if the project won't make enough money to cover the cost of equity, it might not be worth doing.
 
-Also, knowing the cost of equity helps businesses decide how to get money. They can choose between using money from shareholders or taking out loans. If the cost of equity is lower than the interest rate on a loan, it might be better to use shareholder money. This helps businesses make smart choices about how to grow and use their money wisely.
+Also, knowing the cost of equity helps businesses decide how to get money. They can choose between using money from shareholders or taking out loans. If the cost of equity is lower than the [interest rate](/wiki/interest-rate-trading-strategies) on a loan, it might be better to use shareholder money. This helps businesses make smart choices about how to grow and use their money wisely.
 
 ## What are the different methods to calculate the cost of equity?
 

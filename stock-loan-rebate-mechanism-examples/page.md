@@ -24,7 +24,7 @@ The size of the rebate can change depending on how many people want to borrow th
 
 The typical participants in a stock loan rebate transaction are the stock lender and the stock borrower. The stock lender is usually someone who owns stocks and is willing to lend them out for a period of time. This could be an individual investor, a mutual fund, or a pension fund. They agree to lend their stocks to someone else, hoping to earn a little extra money through the rebate.
 
-The stock borrower is usually someone who wants to use the stocks for a strategy called short selling. They borrow the stocks, sell them right away, and plan to buy them back later at a lower price to return to the lender. The borrower pays a fee for borrowing the stocks, and part of this fee is given back to the lender as the rebate. This makes the transaction beneficial for both parties: the borrower gets to carry out their investment strategy, and the lender earns some extra money.
+The stock borrower is usually someone who wants to use the stocks for a strategy called short selling. They borrow the stocks, sell them right away, and plan to buy them back later at a lower price to return to the lender. The borrower pays a fee for borrowing the stocks, and part of this fee is given back to the lender as the rebate. This makes the transaction beneficial for both parties: the borrower gets to [carry](/wiki/carry-trading) out their investment strategy, and the lender earns some extra money.
 
 ## What are the benefits of using a stock loan rebate mechanism for borrowers?
 
@@ -70,7 +70,7 @@ Another strategy is to work closely with brokers who can help find the best deal
 
 ## Can you provide an example of a stock loan rebate transaction involving a hedge fund?
 
-Imagine a hedge fund wants to bet that the price of a certain company's stock, let's call it XYZ Corp, will go down. The hedge fund decides to borrow 10,000 shares of XYZ Corp from an investor who owns them. The investor agrees to lend the shares, hoping to earn some extra money through a stock loan rebate. The hedge fund pays a fee to borrow the shares, and part of this fee will come back to the investor as a rebate.
+Imagine a [hedge fund](/wiki/hedge-fund-trading-strategies) wants to bet that the price of a certain company's stock, let's call it XYZ Corp, will go down. The hedge fund decides to borrow 10,000 shares of XYZ Corp from an investor who owns them. The investor agrees to lend the shares, hoping to earn some extra money through a stock loan rebate. The hedge fund pays a fee to borrow the shares, and part of this fee will come back to the investor as a rebate.
 
 The hedge fund then sells the 10,000 shares of XYZ Corp right away at the current market price of $50 per share, making $500,000. They plan to buy the shares back later at a lower price, say $40 per share, to return them to the investor. If the price does drop to $40, the hedge fund can buy back the shares for $400,000, making a profit of $100,000. Meanwhile, the investor gets their 10,000 shares back and also receives a rebate from the fee the hedge fund paid, making the lending worthwhile.
 

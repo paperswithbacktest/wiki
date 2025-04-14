@@ -18,7 +18,7 @@ Savings bonds are a good choice for people who want to save money without taking
 
 For long-term investment, the U.S. government offers two main types of Savings Bonds: Series EE and Series I. Series EE Bonds are a good choice if you want a bond that will double in value in 20 years. They earn a fixed rate of interest, which means the rate stays the same for the entire time you own the bond. You can buy Series EE Bonds for as little as $25, and they are a safe way to save money because they are backed by the U.S. government.
 
-Series I Bonds are another option for long-term saving. These bonds protect your money from inflation because they earn a rate of interest that changes twice a year. Part of the interest rate is fixed, and part changes with inflation. Like Series EE Bonds, you can buy Series I Bonds for as little as $25. They are also backed by the U.S. government, so they are a safe investment. Both types of bonds are good for saving money over many years, but they work a bit differently depending on whether you want a fixed rate or protection against inflation.
+Series I Bonds are another option for long-term saving. These bonds protect your money from inflation because they earn a rate of interest that changes twice a year. Part of the [interest rate](/wiki/interest-rate-trading-strategies) is fixed, and part changes with inflation. Like Series EE Bonds, you can buy Series I Bonds for as little as $25. They are also backed by the U.S. government, so they are a safe investment. Both types of bonds are good for saving money over many years, but they work a bit differently depending on whether you want a fixed rate or protection against inflation.
 
 ## How do U.S. Savings Bonds work as a long-term investment?
 

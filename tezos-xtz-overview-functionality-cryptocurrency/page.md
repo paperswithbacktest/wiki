@@ -22,7 +22,7 @@ Another way Tezos differs is in how it encourages people to help keep the networ
 
 ## What is the native cryptocurrency of Tezos and what is it used for?
 
-The native cryptocurrency of Tezos is called XTZ, also known as Tez. People use XTZ for a few important things on the Tezos network. First, they use it to pay for transactions, like sending money to someone else or using a decentralized app. Second, XTZ is used for something called "baking," which is how people help keep the Tezos network running smoothly. When people bake, they get rewarded with more XTZ.
+The native [cryptocurrency](/wiki/cryptocurrency) of Tezos is called XTZ, also known as Tez. People use XTZ for a few important things on the Tezos network. First, they use it to pay for transactions, like sending money to someone else or using a decentralized app. Second, XTZ is used for something called "baking," which is how people help keep the Tezos network running smoothly. When people bake, they get rewarded with more XTZ.
 
 XTZ is also important because it lets people vote on changes to the Tezos network. If someone has XTZ, they can vote on new ideas and updates. This helps make sure that everyone who uses Tezos has a say in how it grows and changes. This voting system is one of the big reasons why Tezos is different from other cryptocurrencies.
 

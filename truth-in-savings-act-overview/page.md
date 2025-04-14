@@ -18,7 +18,7 @@ TISA requires banks to give clear information about things like the interest rat
 
 The Truth in Savings Act, or TISA, was enacted in 1991. This law was created to help people understand how much money they could earn from their savings accounts. Before TISA, it was hard for people to compare different savings accounts because the information was not clear.
 
-TISA makes banks and other financial institutions give clear information about savings accounts. This includes details like the interest rate, how often interest is added, and any fees. By making this information easy to understand, TISA helps people choose the best place to save their money.
+TISA makes banks and other financial institutions give clear information about savings accounts. This includes details like the [interest rate](/wiki/interest-rate-trading-strategies), how often interest is added, and any fees. By making this information easy to understand, TISA helps people choose the best place to save their money.
 
 ## What is the main purpose of the Truth in Savings Act?
 

@@ -18,7 +18,7 @@ For businesses, liquidity is important because it helps them pay bills, employee
 
 Liquidity management is important for businesses because it helps them keep enough cash on hand to pay for things they need right away, like salaries, bills, and supplies. If a business doesn't manage its liquidity well, it might not have enough money to cover these costs, which can lead to big problems. For example, if a company can't pay its workers on time, it might lose good employees or even have to shut down.
 
-Good liquidity management also helps businesses take advantage of new opportunities. If a company has enough cash or can quickly turn its assets into cash, it can invest in new projects, buy new equipment, or expand its operations without waiting for money to come in from sales. This can help the business grow and stay competitive. In short, managing liquidity well keeps a business running smoothly and ready to grow.
+Good [liquidity](/wiki/liquidity-risk-premium) management also helps businesses take advantage of new opportunities. If a company has enough cash or can quickly turn its assets into cash, it can invest in new projects, buy new equipment, or expand its operations without waiting for money to come in from sales. This can help the business grow and stay competitive. In short, managing liquidity well keeps a business running smoothly and ready to grow.
 
 ## How can liquidity be measured in a business?
 

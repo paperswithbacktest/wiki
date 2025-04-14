@@ -64,7 +64,7 @@ Another useful combination is using volume oscillators with the Relative Strengt
 
 ## What advanced strategies involve the use of volume oscillators for expert traders?
 
-Expert traders often use volume oscillators in more advanced ways to get a better understanding of the market. One strategy is to use volume oscillators to confirm or question other signals they see. For example, if a trader sees a breakout in the stock's price, they might look at the volume oscillator to see if the volume is also going up. If it is, it can make them more confident that the breakout is real and the price might keep going up. But if the volume oscillator is going down during the breakout, it might make them think the breakout won't last long and the price could go back down.
+Expert traders often use volume oscillators in more advanced ways to get a better understanding of the market. One strategy is to use volume oscillators to confirm or question other signals they see. For example, if a trader sees a [breakout](/wiki/breakout-trading) in the stock's price, they might look at the volume oscillator to see if the volume is also going up. If it is, it can make them more confident that the breakout is real and the price might keep going up. But if the volume oscillator is going down during the breakout, it might make them think the breakout won't last long and the price could go back down.
 
 Another advanced strategy is to use volume oscillators to find divergences. A divergence happens when the price of a stock is moving one way, but the volume oscillator is moving the other way. For example, if the stock's price is going up but the volume oscillator is going down, it could be a sign that the price increase might not last. Expert traders might use this information to sell the stock before the price goes down. They might also look for the opposite situation, where the price is going down but the volume oscillator is going up, which could be a sign that the price might soon start going up again. By combining these strategies with other tools and their own experience, expert traders can make smarter decisions about when to buy and sell stocks.
 
@@ -84,7 +84,7 @@ Another example happened with Tesla stock in late 2021. The stock's price had be
 
 Volume oscillators are technical indicators used in stock trading to evaluate the behavior of trading volume over time. They are constructed by calculating the difference between two moving averages of trade volume over a defined period. This method helps in highlighting volume trends that might not be immediately apparent when only raw volume data is used. 
 
-The primary function of volume oscillators is to provide insights into the shifts in buying and selling pressure, which can either confirm ongoing trends or indicate potential trend reversals. This capability makes them valuable tools for traders looking to understand market sentiment and momentum.
+The primary function of volume oscillators is to provide insights into the shifts in buying and selling pressure, which can either confirm ongoing trends or indicate potential trend reversals. This capability makes them valuable tools for traders looking to understand market sentiment and [momentum](/wiki/momentum).
 
 ### Calculation and Interpretation
 

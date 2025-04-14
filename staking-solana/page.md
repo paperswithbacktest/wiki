@@ -18,7 +18,7 @@ Solana is important in the blockchain ecosystem because it offers a solution for
 
 Staking on the Solana network is a way for people to earn rewards by helping to keep the network running smoothly. When you stake your Solana (SOL) tokens, you are basically locking them up to support the network's operations. In return, you get a chance to earn more SOL tokens as a reward. This process is important because it helps to secure the Solana blockchain and make sure that transactions are processed correctly.
 
-To stake on Solana, you need to choose a validator. Validators are special computers that run the Solana software and help to process transactions. When you stake your SOL tokens, you are delegating them to a validator. The more SOL a validator has staked with them, the more likely they are to be chosen to process transactions and earn rewards. These rewards are then shared with everyone who has staked their SOL with that validator. So, by staking, you are not only earning rewards but also helping to keep the Solana network strong and secure.
+To stake on Solana, you need to choose a validator. Validators are special computers that run the Solana software and help to process transactions. When you stake your SOL tokens, you are delegating them to a validator. The more SOL a validator has staked with them, the more likely they are to be chosen to process transactions and earn rewards. These rewards are then shared with everyone who has staked their SOL with that validator. So, by staking, you are not only [earning](/wiki/earning-announcement) rewards but also helping to keep the Solana network strong and secure.
 
 ## What are the benefits of staking Solana?
 
@@ -28,7 +28,7 @@ Another benefit of staking Solana is that it helps keep the network safe and wor
 
 ## How can someone start staking Solana?
 
-To start staking Solana, you first need to have some SOL tokens in your wallet. You can buy SOL from a cryptocurrency exchange like Binance or Coinbase. Once you have SOL, you need to move it to a wallet that supports Solana staking. Popular options include Phantom or Solflare wallets. After you set up your wallet, you need to choose a validator. Validators are special computers that help run the Solana network. You can find a list of validators on the Solana website or through your wallet.
+To start staking Solana, you first need to have some SOL tokens in your wallet. You can buy SOL from a [cryptocurrency](/wiki/cryptocurrency) exchange like Binance or Coinbase. Once you have SOL, you need to move it to a wallet that supports Solana staking. Popular options include Phantom or Solflare wallets. After you set up your wallet, you need to choose a validator. Validators are special computers that help run the Solana network. You can find a list of validators on the Solana website or through your wallet.
 
 Once you've chosen a validator, you can stake your SOL by delegating it to them. In your wallet, there will be an option to stake or delegate your SOL. Click on that, choose your validator, and enter the amount of SOL you want to stake. After you confirm the transaction, your SOL will be locked up and start earning rewards. Remember, you can always unstake your SOL if you need to use it, but there might be a waiting period before you can move it again. Staking Solana is a great way to earn more SOL while helping to keep the network strong and secure.
 

@@ -78,7 +78,7 @@ In winter, things can be different. If it's hard to grow or move a commodity bec
 
 Traders use fancy computer programs and math to guess how the basis price might change. One tool they use a lot is called regression analysis. This tool looks at past data to find patterns that can help predict what might happen next. For example, it can show how the basis price changes with the seasons or when big news happens. Another tool is time series analysis, which looks at how the basis price moves over time. This can help traders see if there are regular ups and downs in the basis price that they can use to make smart trades.
 
-Another cool tool is machine learning. This is when computers learn from a lot of data to find hidden patterns that people might miss. Machine learning can look at things like weather reports, news about supply and demand, and even what other traders are doing to predict how the basis price might change. By using these advanced tools, traders can make better guesses about the future and make plans that might help them make more money while taking less risk.
+Another cool tool is [machine learning](/wiki/machine-learning). This is when computers learn from a lot of data to find hidden patterns that people might miss. Machine learning can look at things like weather reports, news about supply and demand, and even what other traders are doing to predict how the basis price might change. By using these advanced tools, traders can make better guesses about the future and make plans that might help them make more money while taking less risk.
 
 ## What is basis price?
 

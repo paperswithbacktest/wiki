@@ -18,7 +18,7 @@ When you buy shares of a bond ETF, you receive a portion of the income generated
 
 The value of bond ETFs is important to investors because it shows how much their investment is worth at any time. When the value of a bond ETF goes up, the price of each share goes up too. This means that if an investor decides to sell their shares, they can get more money than they paid for them. On the other hand, if the value goes down, the price of each share goes down, and the investor might get less money if they sell.
 
-Bond ETF values also affect the income investors get from their investments. Bond ETFs usually pay out the interest they earn from the bonds they hold as dividends to the investors. If the value of the bonds in the ETF goes up, the ETF might be able to pay higher dividends. If the value goes down, the dividends might be lower. This is important for investors who rely on the income from their investments to help them meet their financial goals.
+Bond [ETF](/wiki/etf-trading-strategies) values also affect the income investors get from their investments. Bond ETFs usually pay out the interest they earn from the bonds they hold as dividends to the investors. If the value of the bonds in the ETF goes up, the ETF might be able to pay higher dividends. If the value goes down, the dividends might be lower. This is important for investors who rely on the income from their investments to help them meet their financial goals.
 
 ## What are the basic factors that can cause bond ETF values to decline?
 
@@ -48,7 +48,7 @@ When the credit quality of the bonds in the ETF gets worse, it can also mean tha
 
 ## What are the effects of market liquidity on bond ETFs?
 
-Market liquidity is about how easy it is to buy or sell something without the price changing a lot. For bond ETFs, if the market is very liquid, it means you can buy or sell shares of the ETF quickly and at a fair price. This is good for investors because they can get in and out of their investments easily. But if the market is not very liquid, it can be harder to sell your bond ETF shares. You might have to wait longer or accept a lower price, which can make the value of your investment go down.
+Market [liquidity](/wiki/liquidity-risk-premium) is about how easy it is to buy or sell something without the price changing a lot. For bond ETFs, if the market is very liquid, it means you can buy or sell shares of the ETF quickly and at a fair price. This is good for investors because they can get in and out of their investments easily. But if the market is not very liquid, it can be harder to sell your bond ETF shares. You might have to wait longer or accept a lower price, which can make the value of your investment go down.
 
 When the market is not liquid, it can also affect the bond ETF's value in another way. If a lot of people want to sell their shares at the same time and there aren't enough buyers, the price of the ETF can drop a lot. This is because sellers might have to lower their prices to find someone willing to buy. So, low liquidity can make bond ETFs riskier because their values can change more suddenly and by larger amounts.
 

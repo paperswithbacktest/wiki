@@ -80,7 +80,7 @@ Another advantage is that Connors RSI can give clearer signals about when to buy
 
 One advanced strategy for using Connors RSI in trading is to combine it with other technical indicators. Traders might use Connors RSI along with moving averages or Bollinger Bands to get a better idea of when to buy or sell. For example, if Connors RSI shows a buy signal and the price is also below a moving average, it might be a good time to buy. This can help traders confirm their signals and make more confident decisions. By using multiple indicators, traders can reduce the chance of making a bad trade based on a single signal.
 
-Another strategy is to use Connors RSI for different time frames. Traders might look at Connors RSI on a daily chart and also on a shorter time frame like a 1-hour chart. If Connors RSI shows a buy signal on both time frames, it can be a stronger sign that it's a good time to buy. This can help traders find the best entry and exit points for their trades. By looking at different time frames, traders can get a better understanding of the overall trend and short-term movements, which can lead to better trading decisions.
+Another strategy is to use Connors RSI for different time frames. Traders might look at Connors RSI on a daily chart and also on a shorter time frame like a 1-hour chart. If Connors RSI shows a buy signal on both time frames, it can be a stronger sign that it's a good time to buy. This can help traders find the best entry and [exit](/wiki/exit-strategy) points for their trades. By looking at different time frames, traders can get a better understanding of the overall trend and short-term movements, which can lead to better trading decisions.
 
 ## How do you calculate Connors RSI?
 
@@ -88,7 +88,7 @@ Calculating Connors RSI involves combining three distinct components that enhanc
 
 ### Simple 3-period RSI
 
-The Relative Strength Index (RSI) is a momentum oscillator that measures the speed and change of price movements. The traditional formula for RSI is:
+The Relative Strength Index (RSI) is a [momentum](/wiki/momentum) oscillator that measures the speed and change of price movements. The traditional formula for RSI is:
 
 $$
 \text{RSI} = 100 - \left( \frac{100}{1 + \frac{\text{Average Gain}}{\text{Average Loss}}} \right)
@@ -232,7 +232,7 @@ Backtesting results can provide valuable insights, such as identifying the effic
 
 ## How can Connors RSI be implemented in algo trading?
 
-Implementing Connors RSI (CRSI) in algorithmic trading involves a series of strategic steps that consider both the computational and market-oriented aspects of trading. Below, the key steps in effectively integrating CRSI into an algorithmic trading system are outlined:
+Implementing Connors RSI (CRSI) in [algorithmic trading](/wiki/algorithmic-trading) involves a series of strategic steps that consider both the computational and market-oriented aspects of trading. Below, the key steps in effectively integrating CRSI into an algorithmic trading system are outlined:
 
 ### Steps for Integrating Connors RSI
 

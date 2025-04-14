@@ -82,7 +82,7 @@ Another example is Airbnb. In 2020, during the COVID-19 pandemic, Airbnb needed 
 
 ## How do market volatility and trading opportunities relate to each other?
 
-Market volatility refers to the degree of variation in the price of a financial instrument over time. In trading strategies, volatility is an essential factor, providing both opportunities and risks. High volatility often leads to larger price swings, which can offer traders the potential for significant gains but also increases the risk of losses. The standard deviation of return rates is commonly used as a measure of volatility:
+Market [volatility](/wiki/volatility-trading-strategies) refers to the degree of variation in the price of a financial instrument over time. In trading strategies, volatility is an essential [factor](/wiki/factor-investing), providing both opportunities and risks. High volatility often leads to larger price swings, which can offer traders the potential for significant gains but also increases the risk of losses. The standard deviation of return rates is commonly used as a measure of volatility:
 
 $$
 \sigma = \sqrt{\frac{1}{N-1} \sum_{i=1}^{N} (R_i - \bar{R})^2}

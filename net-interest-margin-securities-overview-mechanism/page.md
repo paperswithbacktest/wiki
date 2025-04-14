@@ -22,7 +22,7 @@ These securities are like bonds because they give you regular payments, but they
 
 ## What is the purpose of Net Interest Margin Securities?
 
-Net Interest Margin Securities help banks and investors. For banks, they are a way to raise money without borrowing more. Instead of taking out loans, banks can sell these securities to investors. The money from these sales can be used to make more loans to people and businesses. This helps banks grow and do more business without adding more debt to their books.
+Net Interest Margin Securities help banks and investors. For banks, they are a way to raise money without borrowing more. Instead of taking out loans, banks can sell these securities to investors. The money from these sales can be used to make more loans to people and businesses. This helps banks grow and do more business without adding more debt to their [books](/wiki/algo-trading-books).
 
 For investors, Net Interest Margin Securities offer a chance to earn steady income. When you buy these securities, you get a share of the interest the bank earns on its loans. It's like getting a piece of the bank's profits without having to manage the loans yourself. But remember, there are risks. If the bank's loans don't do well, or if interest rates change a lot, the amount of money you get could go down.
 

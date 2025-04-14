@@ -28,7 +28,7 @@ Debt-based platforms work a bit differently. Instead of owning part of the prope
 
 ## What are the typical fees associated with real estate crowdfunding?
 
-Real estate crowdfunding platforms usually charge fees for their services. These fees can include a platform fee, which is a percentage of the money you invest, often around 1% to 3%. There might also be an asset management fee, which is charged yearly to cover the costs of managing the property. This fee can be around 1% to 2% of the property's value each year. When the property is sold, there might be a success fee or a carry fee, which is a share of the profits, usually around 20%.
+Real estate crowdfunding platforms usually charge fees for their services. These fees can include a platform fee, which is a percentage of the money you invest, often around 1% to 3%. There might also be an asset management fee, which is charged yearly to cover the costs of managing the property. This fee can be around 1% to 2% of the property's value each year. When the property is sold, there might be a success fee or a [carry](/wiki/carry-trading) fee, which is a share of the profits, usually around 20%.
 
 It's important to understand these fees because they can affect how much money you make from your investment. Some platforms might have other fees too, like fees for setting up the investment or for handling the money. Always read the fine print to know exactly what you'll be paying. That way, you can decide if the potential rewards are worth the costs.
 
@@ -58,7 +58,7 @@ It's also important to know about any tax deductions you might be able to take. 
 
 ## How do management and operational costs influence the profitability of real estate crowdfunding projects?
 
-Management and operational costs can really affect how much money you make from real estate crowdfunding projects. These costs are what it takes to keep the property running smoothly, like paying for repairs, property management, and utilities. When these costs are high, they take away from the money that could be your profit. If the property is earning a lot from rent, these costs might not seem too bad. But if the rent isn't that high, or if there are a lot of empty units, the management and operational costs can make it hard for the project to make any money at all.
+Management and operational costs can really affect how much money you make from real estate crowdfunding projects. These costs are what it takes to keep the property running smoothly, like paying for repairs, property management, and utilities. When these costs are high, they take away from the money that could be your profit. If the property is [earning](/wiki/earning-announcement) a lot from rent, these costs might not seem too bad. But if the rent isn't that high, or if there are a lot of empty units, the management and operational costs can make it hard for the project to make any money at all.
 
 It's important to understand these costs before you invest. Some crowdfunding platforms will show you how much they expect to spend on managing the property and keeping it in good shape. If these costs are too high, it might not be worth investing, because you could end up losing money instead of making it. Always look at the whole picture, including how much the property is expected to earn and how much it will cost to run, to see if the investment will be profitable for you.
 

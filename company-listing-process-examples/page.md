@@ -142,7 +142,7 @@ Where:
 
 Traders use VWAP to achieve better pricing for large orders, as the strategy helps in executing incremental trades that average closer to the VWAP, thereby reducing market impact.
 
-These strategies exemplify the diverse array of techniques utilized in algorithmic trading to enhance trading performance and optimize execution. Each method is tailored to specific market conditions and trader preferences, providing a toolkit for effectively navigating the complexities of financial markets.
+These strategies exemplify the diverse array of techniques utilized in [algorithmic trading](/wiki/algorithmic-trading) to enhance trading performance and optimize execution. Each method is tailored to specific market conditions and trader preferences, providing a toolkit for effectively navigating the complexities of financial markets.
 
 ## References & Further Reading
 

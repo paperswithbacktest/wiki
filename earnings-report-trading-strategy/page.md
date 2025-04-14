@@ -56,7 +56,7 @@ One common strategy for trading around earnings reports is called "straddling." 
 
 Another strategy is to wait until after the earnings report comes out and then trade based on the results. If the earnings are better than expected, traders might buy the stock because they think the price will go up. If the earnings are worse than expected, traders might sell the stock because they think the price will go down. This strategy is less risky than trying to guess what will happen before the report, but it still needs careful thinking. Traders need to look at the whole earnings report, not just the numbers, to see if the company's leaders are positive or worried about the future. This can help them decide if it's a good time to buy or sell.
 
-Some traders also use a strategy called "momentum trading." They look at how the stock price moves right after the earnings report. If the stock price goes up a lot, they might buy more of the stock, thinking the price will keep going up. If the stock price goes down a lot, they might sell the stock, thinking the price will keep going down. Momentum traders need to be quick and ready to act because the stock price can change fast after an earnings report. They also need to be ready to sell or buy back the stock quickly if the price starts to move the other way.
+Some traders also use a strategy called "[momentum](/wiki/momentum) trading." They look at how the stock price moves right after the earnings report. If the stock price goes up a lot, they might buy more of the stock, thinking the price will keep going up. If the stock price goes down a lot, they might sell the stock, thinking the price will keep going down. Momentum traders need to be quick and ready to act because the stock price can change fast after an earnings report. They also need to be ready to sell or buy back the stock quickly if the price starts to move the other way.
 
 ## How can one manage risk when trading on earnings reports?
 
@@ -86,7 +86,7 @@ Traders use these analyst expectations to decide if they should buy or sell a st
 
 Algorithmic trading can be used to trade on earnings reports by using computer programs to make trades based on certain rules. These rules can be set up to buy or sell stocks automatically when certain things happen, like when a company's earnings are better or worse than expected. For example, if an algorithm is set to look for positive earnings surprises, it can quickly buy the stock as soon as the report comes out and the stock price starts to go up. This can help traders make money faster than if they had to do it themselves.
 
-Another way algorithmic trading can be used is to look at a lot of data very quickly. Computers can look at past earnings reports, what analysts expect, and even news about the company to guess what might happen to the stock price after the next earnings report. This can help traders make better guesses about whether to buy or sell the stock before the report comes out. By using algorithms, traders can take advantage of the quick changes in stock prices that often happen around earnings reports.
+Another way [algorithmic trading](/wiki/algorithmic-trading) can be used is to look at a lot of data very quickly. Computers can look at past earnings reports, what analysts expect, and even news about the company to guess what might happen to the stock price after the next earnings report. This can help traders make better guesses about whether to buy or sell the stock before the report comes out. By using algorithms, traders can take advantage of the quick changes in stock prices that often happen around earnings reports.
 
 ## How can one develop an earnings report trading strategy?
 
@@ -102,7 +102,7 @@ $$
 
 Where $P_i$ is the historical price at time $i$, and $N$ is the number of observations.
 
-Volatility analysis is another critical aspect of earnings-based strategies. Earnings announcements are typically associated with increased volatility, providing opportunities for traders to capitalize on price swings. Commonly used volatility measures include the standard deviation and the VIX. Traders might implement strategies to exploit the post-announcement volatility spikes, such as trading options or setting volatility breakouts.
+Volatility analysis is another critical aspect of earnings-based strategies. Earnings announcements are typically associated with increased [volatility](/wiki/volatility-trading-strategies), providing opportunities for traders to capitalize on price swings. Commonly used volatility measures include the standard deviation and the VIX. Traders might implement strategies to exploit the post-announcement volatility spikes, such as trading options or setting volatility breakouts.
 
 In addition to these techniques, algorithmic trading leverages advanced computational models capable of evaluating vast datasets in real-time. This computational power allows for speed and accuracy, significantly improving response times during high-volatility periods, like earnings seasons. 
 

@@ -18,7 +18,7 @@ There are two main types of wedge patterns: rising wedges and falling wedges. A 
 
 A falling wedge pattern and a rising wedge pattern are both chart patterns that show price movements squeezed between two lines that are coming closer together. The main difference between them is the direction of the price trend before the pattern forms. In a falling wedge, the price is going down before the pattern starts, but the downward moves get smaller and smaller. This often means that the price might soon start to go up. On the other hand, in a rising wedge, the price is going up before the pattern starts, but the upward moves get smaller and smaller. This usually means that the price might soon start to go down.
 
-Both patterns are important for traders because they can signal a big price move is coming. When you see a falling wedge, it's a sign that the downward trend might be losing strength, and a breakout to the upside could happen. Traders might see this as a good time to buy. When you see a rising wedge, it's a sign that the upward trend might be losing strength, and a breakout to the downside could happen. Traders might see this as a good time to sell. By understanding these patterns, traders can make better decisions about when to enter or exit a trade.
+Both patterns are important for traders because they can signal a big price move is coming. When you see a falling wedge, it's a sign that the downward trend might be losing strength, and a [breakout](/wiki/breakout-trading) to the upside could happen. Traders might see this as a good time to buy. When you see a rising wedge, it's a sign that the upward trend might be losing strength, and a breakout to the downside could happen. Traders might see this as a good time to sell. By understanding these patterns, traders can make better decisions about when to enter or [exit](/wiki/exit-strategy) a trade.
 
 ## What are the key characteristics of a falling wedge pattern?
 
@@ -42,7 +42,7 @@ Traders should also pay attention to the price movements within the wedge. In a 
 
 A breakout from a falling wedge pattern usually means that the price of a stock or other asset is about to go up. When you see a falling wedge, it means the price has been going down, but the downward moves are getting smaller. This shows that the sellers are losing power. When the price finally breaks out of the wedge and goes above the top line, it's a sign that the buyers are taking over. Traders see this as a good time to buy because they think the price will keep going up.
 
-The breakout from a falling wedge can be a strong signal for traders. They often look for other signs to confirm the breakout, like a big increase in trading volume. If the volume goes up a lot when the price breaks out, it's even more likely that the price will keep going up. By watching for these signs, traders can make better decisions about when to buy and sell, and they can try to make money from the upward move in the price.
+The breakout from a falling wedge can be a strong signal for traders. They often look for other signs to confirm the breakout, like a big increase in trading [volume](/wiki/volume-trading-strategy). If the volume goes up a lot when the price breaks out, it's even more likely that the price will keep going up. By watching for these signs, traders can make better decisions about when to buy and sell, and they can try to make money from the upward move in the price.
 
 ## What does a breakout from a rising wedge pattern typically signify?
 

@@ -30,7 +30,7 @@ Because size discovery uses more information, it can be more accurate than tradi
 
 Size discovery uses different technologies to help people find the right size for clothes and other items. One common technology is body scanning, which uses cameras or sensors to measure a person's body. This can be done in a store or at home with a special app on a smartphone. The scanner creates a 3D model of the body, which helps suggest the best size for clothes. Another technology is data analysis, which looks at a person's past purchases and how well those items fit. This information helps predict the right size for new items.
 
-Some size discovery systems also use artificial intelligence (AI) and machine learning. These technologies can learn from lots of data to get better at suggesting sizes over time. For example, if many people say a certain shirt size runs small, the AI can adjust its recommendations to suggest a larger size. These technologies work together to make size discovery more accurate and helpful, making shopping easier for everyone.
+Some size discovery systems also use [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and machine learning. These technologies can learn from lots of data to get better at suggesting sizes over time. For example, if many people say a certain shirt size runs small, the AI can adjust its recommendations to suggest a larger size. These technologies work together to make size discovery more accurate and helpful, making shopping easier for everyone.
 
 ## Can you explain the process of size discovery for a beginner?
 
@@ -82,9 +82,9 @@ Another trend is the use of smarter artificial intelligence (AI). AI will keep l
 
 ## What are the strategies for size discovery?
 
-Various strategies are crucial for effective size discovery in algorithmic trading, each tailored to adapt to market conditions and enhance execution efficiency. A prominent approach involves the use of real-time data analysis, where trading algorithms continuously process incoming market data to adjust order sizes instantaneously. This strategy leverages [machine learning](/wiki/machine-learning) models and statistical techniques to analyze patterns and anomalies, making swift adjustments to align with current market dynamics. 
+Various strategies are crucial for effective size discovery in [algorithmic trading](/wiki/algorithmic-trading), each tailored to adapt to market conditions and enhance execution efficiency. A prominent approach involves the use of real-time data analysis, where trading algorithms continuously process incoming market data to adjust order sizes instantaneously. This strategy leverages [machine learning](/wiki/machine-learning) models and statistical techniques to analyze patterns and anomalies, making swift adjustments to align with current market dynamics. 
 
-Another essential strategy is dynamic order sizing, which hinges on monitoring fluctuating volatility patterns in the market. By calculating volatility indices or employing GARCH (Generalized Autoregressive Conditional Heteroskedasticity) models, traders can forecast volatility shifts and modify order sizes correspondingly. The formula for a simple moving average of volatility used in dynamic sizing could be:
+Another essential strategy is dynamic order sizing, which hinges on monitoring fluctuating [volatility](/wiki/volatility-trading-strategies) patterns in the market. By calculating volatility indices or employing GARCH (Generalized Autoregressive Conditional Heteroskedasticity) models, traders can forecast volatility shifts and modify order sizes correspondingly. The formula for a simple moving average of volatility used in dynamic sizing could be:
 
 $$
 \sigma_{t} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (r_{i} - \bar{r})^2}

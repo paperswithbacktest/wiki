@@ -44,7 +44,7 @@ This can happen for different reasons. Maybe people start using electric cars in
 
 Oil supply is affected by how much oil countries decide to pump out of the ground. Groups like OPEC, which is made up of countries that produce a lot of oil, can decide to produce more or less oil. If they choose to pump out more oil, there will be more supply. But if they decide to produce less, the supply will go down. Also, new technology can help find more oil or get more oil out of the ground. If new oil fields are discovered or if companies can extract oil more efficiently, the supply of oil can increase.
 
-Another factor that influences oil supply is events that can disrupt oil production. Things like wars, natural disasters, or political problems in oil-producing countries can make it hard to get oil out of the ground. If a big oil field has to stop production because of a hurricane or if there's a conflict that stops oil from being shipped, the supply of oil can decrease. These events can cause big changes in how much oil is available, which affects the overall supply.
+Another [factor](/wiki/factor-investing) that influences oil supply is events that can disrupt oil production. Things like wars, natural disasters, or political problems in oil-producing countries can make it hard to get oil out of the ground. If a big oil field has to stop production because of a hurricane or if there's a conflict that stops oil from being shipped, the supply of oil can decrease. These events can cause big changes in how much oil is available, which affects the overall supply.
 
 ## How do geopolitical events impact oil supply and prices?
 

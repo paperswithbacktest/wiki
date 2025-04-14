@@ -106,7 +106,7 @@ By using Conda, users benefit from a more streamlined installation process, mini
 
 ## How to use Prophet in Algorithmic Trading?
 
-Prophet is a valuable tool in algorithmic trading, primarily because it excels at forecasting trends, seasonality, and holiday effects, which are crucial for stock market analysis. The first step in using Prophet effectively is to transform your dataset to match its required input format. Prophet mandates the use of a dataframe with two columns: 'ds' for dates and 'y' for values. This formatting is crucial as it allows Prophet to recognize and manage the time series data efficiently.
+Prophet is a valuable tool in [algorithmic trading](/wiki/algorithmic-trading), primarily because it excels at forecasting trends, seasonality, and holiday effects, which are crucial for stock market analysis. The first step in using Prophet effectively is to transform your dataset to match its required input format. Prophet mandates the use of a dataframe with two columns: 'ds' for dates and 'y' for values. This formatting is crucial as it allows Prophet to recognize and manage the time series data efficiently.
 
 To illustrate this, consider a dataset of historical stock prices. To prepare this data for Prophet, you would structure it as follows:
 

@@ -20,7 +20,7 @@ Securities come in different forms, but the main types are stocks, bonds, and de
 
 Derivatives are a bit more complicated. They are financial contracts that get their value from something else, like a stock or a commodity. Common types of derivatives include options and futures. Options give you the right to buy or sell something at a set price in the future. Futures are agreements to buy or sell something at a set price on a specific date. Derivatives can be used to manage risk or to bet on future price movements.
 
-There are also other types of securities like mutual funds and exchange-traded funds (ETFs). These are collections of different securities, like stocks and bonds, that are managed by professionals. When you buy into a mutual fund or ETF, you are buying a small piece of all the securities in that fund. This can be a good way to diversify your investments without having to pick individual stocks or bonds yourself.
+There are also other types of securities like mutual funds and exchange-traded funds (ETFs). These are collections of different securities, like stocks and bonds, that are managed by professionals. When you buy into a mutual fund or [ETF](/wiki/etf-trading-strategies), you are buying a small piece of all the securities in that fund. This can be a good way to diversify your investments without having to pick individual stocks or bonds yourself.
 
 ## How do securities contribute to the economy?
 
@@ -76,11 +76,11 @@ Another way global economic factors affect the securities market is through inte
 
 ## What advanced trading strategies can be used in the securities market?
 
-One advanced trading strategy in the securities market is called "day trading." Day traders buy and sell stocks quickly, often within the same day, to make small profits from small changes in stock prices. They use a lot of information and tools to try to guess which way the stock prices will go. Day trading can be risky because it's hard to always guess right, but it can also be exciting and potentially profitable if you're good at it.
+One advanced trading strategy in the securities market is called "[day trading](/wiki/day-trading-spy)." Day traders buy and sell stocks quickly, often within the same day, to make small profits from small changes in stock prices. They use a lot of information and tools to try to guess which way the stock prices will go. Day trading can be risky because it's hard to always guess right, but it can also be exciting and potentially profitable if you're good at it.
 
 Another strategy is "options trading." Options are a type of derivative that give you the right to buy or sell a stock at a set price in the future. Traders use options to bet on whether a stock's price will go up or down. For example, if you think a stock's price will go up, you can buy a "call option" to buy the stock at a lower price later. If you're right, you can make money. Options trading can be complicated and risky, but it can also help you make money in different ways than just buying and holding stocks.
 
-A third strategy is "algorithmic trading," where computers use math formulas to decide when to buy and sell securities. These algorithms can look at a lot of data very quickly and make trades based on what they find. This can be faster and sometimes more accurate than a person making the same decisions. Algorithmic trading is used by big investors and can help them make money by taking advantage of small price changes in the market.
+A third strategy is "[algorithmic trading](/wiki/algorithmic-trading)," where computers use math formulas to decide when to buy and sell securities. These algorithms can look at a lot of data very quickly and make trades based on what they find. This can be faster and sometimes more accurate than a person making the same decisions. Algorithmic trading is used by big investors and can help them make money by taking advantage of small price changes in the market.
 
 ## How does algorithmic trading impact the dynamics of the securities market?
 

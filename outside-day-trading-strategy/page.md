@@ -22,7 +22,7 @@ Traders watch for outside days because they can signal that big changes might be
 
 ## How does an outside day trading strategy work?
 
-An outside day trading strategy involves looking for days when a stock's price goes both higher and lower than the day before. Traders watch these outside days because they can show that the stock might be ready for a big move. If the stock closes higher on the outside day than it opened, traders might think it will keep going up. But if it closes lower, they might think it will keep going down. This helps them decide whether to buy or sell the stock.
+An outside [day trading](/wiki/day-trading-spy) strategy involves looking for days when a stock's price goes both higher and lower than the day before. Traders watch these outside days because they can show that the stock might be ready for a big move. If the stock closes higher on the outside day than it opened, traders might think it will keep going up. But if it closes lower, they might think it will keep going down. This helps them decide whether to buy or sell the stock.
 
 To use this strategy, traders need to pay close attention to the stock's price every day. When they see an outside day, they wait to see where the stock closes. If it closes higher, they might buy the stock, hoping to sell it later at an even higher price. If it closes lower, they might sell the stock or even bet that the price will keep falling. This strategy can help traders make money, but it's risky because the stock might not move the way they expect.
 
@@ -52,7 +52,7 @@ It's also a good idea to only use money you can afford to lose when trading. Thi
 
 ## What are the typical exit strategies for an outside day trade?
 
-When using an outside day trading strategy, one common exit strategy is to set a target price for when you want to sell the stock. If you bought the stock because it closed higher on an outside day, you might set a target price that is a certain amount higher than where you bought it. When the stock reaches that price, you sell it and take your profit. This helps you make sure you don't miss out on gains if the stock keeps going up.
+When using an outside day trading strategy, one common [exit](/wiki/exit-strategy) strategy is to set a target price for when you want to sell the stock. If you bought the stock because it closed higher on an outside day, you might set a target price that is a certain amount higher than where you bought it. When the stock reaches that price, you sell it and take your profit. This helps you make sure you don't miss out on gains if the stock keeps going up.
 
 Another exit strategy is to use a stop-loss order. This is like a safety net that automatically sells your stock if the price drops to a certain level. It helps you limit how much money you could lose if the stock doesn't move the way you thought it would. For example, if you bought the stock at $50, you might set a stop-loss order at $48. If the stock drops to $48, it will sell automatically, and you won't lose more than $2 per share.
 
@@ -72,7 +72,7 @@ Another advantage is that outside days can give clear signals for when to buy or
 
 ## What are the potential pitfalls and how can they be avoided?
 
-One big pitfall of using an outside day trading strategy is that the stock might not move the way you expect. Just because a stock has an outside day and closes higher or lower doesn't mean it will keep going in that direction. The stock could change course and go the other way, causing you to lose money. Another pitfall is that outside days can happen often, and not all of them lead to big moves. This can make it hard to know which outside days are important and which ones are not.
+One big pitfall of using an outside day trading strategy is that the stock might not move the way you expect. Just because a stock has an outside day and closes higher or lower doesn't mean it will keep going in that direction. The stock could change [course](/wiki/best-algorithmic-trading-courses) and go the other way, causing you to lose money. Another pitfall is that outside days can happen often, and not all of them lead to big moves. This can make it hard to know which outside days are important and which ones are not.
 
 To avoid these pitfalls, you can use other tools and information to help you make better decisions. For example, you can look at the stock's overall trend, read news about the company, and use other chart patterns to see if the outside day is part of a bigger move. Setting stop-loss orders can also help you limit your losses if the stock doesn't move the way you thought it would. By being careful and using more than just the outside day signal, you can trade more safely and increase your chances of making money.
 

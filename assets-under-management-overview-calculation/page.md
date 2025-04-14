@@ -38,7 +38,7 @@ Another method is to improve the performance of the investments they manage. If 
 
 AUM can affect the performance fees that a fund charges. Performance fees are extra money that fund managers get when they do a good job with the investments. If the AUM goes up because the investments do well, the fund manager might earn more performance fees. This is because they get a percentage of the profit they make for their clients. So, if the AUM is higher, the profit can be higher too, leading to bigger performance fees.
 
-However, if the AUM goes down because the investments do badly, the performance fees can go down too. Fund managers only get these fees if they make money for their clients. If the value of the investments drops, they might not earn any performance fees at all. This is why fund managers work hard to keep the AUM growing, so they can keep earning those extra fees.
+However, if the AUM goes down because the investments do badly, the performance fees can go down too. Fund managers only get these fees if they make money for their clients. If the value of the investments drops, they might not earn any performance fees at all. This is why fund managers work hard to keep the AUM growing, so they can keep [earning](/wiki/earning-announcement) those extra fees.
 
 ## What role does AUM play in the regulatory oversight of financial institutions?
 

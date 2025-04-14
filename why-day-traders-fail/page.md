@@ -18,7 +18,7 @@ Day traders are people who do day trading. They spend a lot of time watching the
 
 Beginners often fail in day trading because they do not have enough knowledge about the market. They might not understand how stocks work or how to read charts and trends. This lack of knowledge can lead them to make bad decisions, like buying stocks at the wrong time or selling them too early. Without a good understanding of the market, it's hard to make smart trades and make money.
 
-Another reason beginners fail is because they do not have a good plan. Day trading needs a lot of discipline and a clear strategy. Many beginners jump into trading without setting clear goals or rules for themselves. They might trade too much or take big risks without thinking. This can lead to big losses. Having a plan and sticking to it is very important for success in day trading.
+Another reason beginners fail is because they do not have a good plan. Day trading needs a lot of discipline and a clear strategy. Many beginners jump into trading without setting clear goals or rules for themselves. They might trade too much or take big risks without thinking. This can lead to big losses. Having a plan and sticking to it is very important for success in [day trading](/wiki/day-trading-spy).
 
 Emotions also play a big role in why beginners fail. It's easy to get excited or scared when trading, and these feelings can make people do things they shouldn't. For example, a beginner might hold onto a losing stock hoping it will go back up, or they might sell a winning stock too soon out of fear. Learning to control emotions and stick to a trading plan is crucial for anyone wanting to succeed in day trading.
 

@@ -84,7 +84,7 @@ Forecasting uses the numbers from financial statements to make guesses about the
 
 ## What are Financial Ratios and Indicators?
 
-Financial ratios are crucial tools for investors and analysts, providing insights into the operational efficiency and financial health of a company. These ratios can be broadly categorized into three types: liquidity ratios, profitability ratios, and leverage ratios. Each offers a different perspective on a company's performance, helping stakeholders make informed decisions.
+Financial ratios are crucial tools for investors and analysts, providing insights into the operational efficiency and financial health of a company. These ratios can be broadly categorized into three types: [liquidity](/wiki/liquidity-risk-premium) ratios, profitability ratios, and leverage ratios. Each offers a different perspective on a company's performance, helping stakeholders make informed decisions.
 
 ### Liquidity Ratios
 

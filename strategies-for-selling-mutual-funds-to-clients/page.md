@@ -38,7 +38,7 @@ To figure out a client's risk tolerance, the advisor asks about how they feel ab
 
 One big benefit of investing in mutual funds is that they help spread out your risk. When you buy a mutual fund, you're not putting all your money into one company or one type of investment. Instead, your money is spread across many different stocks, bonds, or other assets. This means if one company does badly, it won't hurt your whole investment as much. It's like not putting all your eggs in one basket. This can make investing feel less scary, especially if you're new to it.
 
-Another great thing about mutual funds is that they are managed by professionals. This means you don't have to spend time picking which stocks or bonds to buy. The fund manager does that for you, using their knowledge and experience to try to make your money grow. This can be a big help if you're busy or if you don't feel confident about choosing investments on your own. Plus, mutual funds can be a good way to save for big goals like retirement or buying a house, because they can offer both growth and income over time.
+Another great thing about mutual funds is that they are managed by professionals. This means you don't have to spend time [picking](/wiki/asset-class-picking) which stocks or bonds to buy. The fund manager does that for you, using their knowledge and experience to try to make your money grow. This can be a big help if you're busy or if you don't feel confident about choosing investments on your own. Plus, mutual funds can be a good way to save for big goals like retirement or buying a house, because they can offer both growth and income over time.
 
 ## How can past performance data be used effectively when selling mutual funds?
 

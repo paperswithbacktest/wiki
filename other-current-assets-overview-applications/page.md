@@ -40,7 +40,7 @@ These other current assets are important because they help show how much money a
 
 ## What is the impact of other current assets on liquidity?
 
-Other current assets help show how much money a company can get quickly, which is called liquidity. Liquidity is important because it shows if a company can pay its short-term bills. Other current assets, like prepaid expenses and short-term investments, can be turned into cash within a year. This means they add to the company's ability to handle unexpected costs or take advantage of new opportunities.
+Other current assets help show how much money a company can get quickly, which is called [liquidity](/wiki/liquidity-risk-premium). Liquidity is important because it shows if a company can pay its short-term bills. Other current assets, like prepaid expenses and short-term investments, can be turned into cash within a year. This means they add to the company's ability to handle unexpected costs or take advantage of new opportunities.
 
 For example, if a company has paid for a year of insurance upfront, that money is a prepaid expense. While it's not cash right now, it will become cash again when the insurance period is over. Short-term investments, like stocks or bonds the company plans to sell soon, also help with liquidity. By having these other current assets, a company can show it's good at managing its money and is ready to pay its bills if needed.
 

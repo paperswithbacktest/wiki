@@ -22,7 +22,7 @@ Understanding the error term also helps us make our models better. If the error 
 
 ## How does the error term relate to the concept of residuals?
 
-The error term and residuals are closely related in statistics. The error term is part of a model that represents the difference between the actual observed values and the values predicted by the model. It's like the leftover part that the model can't explain. Residuals, on the other hand, are the actual differences between the observed values and the predicted values for each data point in your dataset. So, while the error term is a theoretical concept within the model, residuals are the real numbers you calculate after fitting the model to your data.
+The error term and residuals are closely related in [statistics](/wiki/bayesian-statistics). The error term is part of a model that represents the difference between the actual observed values and the values predicted by the model. It's like the leftover part that the model can't explain. Residuals, on the other hand, are the actual differences between the observed values and the predicted values for each data point in your dataset. So, while the error term is a theoretical concept within the model, residuals are the real numbers you calculate after fitting the model to your data.
 
 Think of it this way: the error term is what you expect to see if your model is correct, and residuals are what you actually see after using your model. For example, if you predict how much ice cream people will buy based on temperature, the error term is the general idea of all the other factors affecting sales. The residuals are the specific amounts by which your predictions are off for each day you have data. By studying the residuals, you can get a better sense of how well your model is working and where it might need improvement.
 
@@ -151,7 +151,7 @@ This script fits a linear regression model to sample data and computes the resid
 
 ## What are the techniques to address error term challenges?
 
-To address challenges posed by error terms in statistical models used in algorithmic trading, several techniques can be employed. These methods not only aim to improve model precision but also tackle common issues such as multicollinearity, overfitting, and the impact of outliers.
+To address challenges posed by error terms in statistical models used in [algorithmic trading](/wiki/algorithmic-trading), several techniques can be employed. These methods not only aim to improve model precision but also tackle common issues such as multicollinearity, overfitting, and the impact of outliers.
 
 Regularization methods like Lasso (Least Absolute Shrinkage and Selection Operator) and Ridge regression are powerful tools for managing error term challenges. Both techniques are designed to handle multicollinearity by adding a penalty term to the regression equation, which helps to constrain and simplify the model. 
 

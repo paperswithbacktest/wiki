@@ -34,7 +34,7 @@ After your account is set up, you can start choosing which Australian equity mut
 
 ## What are the key factors to consider when choosing a dividend-paying Australian equity mutual fund?
 
-When picking a dividend-paying Australian equity mutual fund, think about how much risk you're okay with. Some funds might have bigger chances of going up and down a lot, while others might be safer but grow slower. Also, look at the fund's history to see if it has been good at paying dividends regularly. You want a fund that has a track record of giving out dividends, so you can count on getting that money.
+When [picking](/wiki/asset-class-picking) a dividend-paying Australian equity mutual fund, think about how much risk you're okay with. Some funds might have bigger chances of going up and down a lot, while others might be safer but grow slower. Also, look at the fund's history to see if it has been good at paying dividends regularly. You want a fund that has a track record of giving out dividends, so you can count on getting that money.
 
 Another thing to check is the fees you'll have to pay. Some funds charge more than others, and those fees can eat into the money you get from dividends. It's smart to pick a fund where the fees are low enough that you still get a good amount of dividends. Finally, consider how the fund is managed. Is it run by people who know a lot about picking stocks that pay good dividends? A good manager can make a big difference in how well the fund does.
 
@@ -56,7 +56,7 @@ However, like all investments, these funds can go up and down. During tough econ
 
 Dividend reinvestment plans, or DRIPs, let you use the money you get from dividends to buy more shares in the same fund instead of taking the cash. When you're in a DRIP with an Australian equity mutual fund, the fund will automatically use your dividends to buy more shares for you. This can help your investment grow over time because you're getting more shares without spending extra money.
 
-Using a DRIP can be a smart move because it helps you take advantage of something called compound growth. When you reinvest your dividends, you're not just earning on your original investment, but also on the new shares you get. Over many years, this can make a big difference in how much your investment grows. It's like planting a seed and watching it grow into a bigger plant because you keep adding more seeds with the money you earn.
+Using a DRIP can be a smart move because it helps you take advantage of something called compound growth. When you reinvest your dividends, you're not just [earning](/wiki/earning-announcement) on your original investment, but also on the new shares you get. Over many years, this can make a big difference in how much your investment grows. It's like planting a seed and watching it grow into a bigger plant because you keep adding more seeds with the money you earn.
 
 ## What are the risks associated with investing in dividend-paying Australian equity mutual funds?
 

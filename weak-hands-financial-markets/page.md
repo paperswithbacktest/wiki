@@ -28,7 +28,7 @@ These investors usually don't have a long-term strategy. They focus on what's ha
 
 ## Can weak hands be identified through market analysis?
 
-Yes, weak hands can be identified through market analysis by looking at certain patterns and behaviors. When the market starts to drop, weak hands often sell their investments quickly. This can be seen in the trading volume, where a sudden increase in selling might show that weak hands are getting scared and exiting their positions. Analysts can also look at how fast prices change. If prices drop quickly, it might mean that weak hands are selling in a panic.
+Yes, weak hands can be identified through market analysis by looking at certain patterns and behaviors. When the market starts to drop, weak hands often sell their investments quickly. This can be seen in the trading [volume](/wiki/volume-trading-strategy), where a sudden increase in selling might show that weak hands are getting scared and exiting their positions. Analysts can also look at how fast prices change. If prices drop quickly, it might mean that weak hands are selling in a panic.
 
 Another way to spot weak hands is by looking at how the market reacts to news or events. If bad news leads to a big drop in prices, it could be because weak hands are selling off their investments out of fear. On the other hand, if good news causes a sharp rise in prices, it might be because weak hands are buying in a rush to make quick profits. By watching these patterns, analysts can get a sense of how many weak hands are in the market and how they might affect future price movements.
 
@@ -50,7 +50,7 @@ Sometimes, weak hands also struggle with a lack of patience and confidence. They
 
 To strengthen their hands, investors need to focus on having a solid plan and sticking to it. A good plan helps you know what to do when the market goes up or down. It's important to set clear goals and think about where you want to be in the future, not just what's happening right now. By having a plan, you can avoid making quick decisions based on fear or greed. Instead, you can make choices that help you reach your long-term goals, even when the market is acting crazy.
 
-Another way to strengthen your hands is to learn as much as you can about the market and how it works. The more you know, the less scary it will be when things change. You can read books, take classes, or talk to other investors to learn more. Understanding the market can help you feel more confident and patient, even when prices are going up and down. By learning and sticking to your plan, you can become a strong hand and avoid the common pitfalls that weak hands fall into.
+Another way to strengthen your hands is to learn as much as you can about the market and how it works. The more you know, the less scary it will be when things change. You can read [books](/wiki/algo-trading-books), take classes, or talk to other investors to learn more. Understanding the market can help you feel more confident and patient, even when prices are going up and down. By learning and sticking to your plan, you can become a strong hand and avoid the common pitfalls that weak hands fall into.
 
 ## What role do weak hands play in market crashes and rallies?
 
@@ -84,11 +84,11 @@ Another strategy is to use technical analysis to spot patterns that weak hands o
 
 ## What are the strategies for mitigating weak hands behaviors?
 
-Mitigating the behaviors associated with 'weak hands' requires a strategic approach that encompasses mindset development, financial literacy, and the application of algorithmic trading. 
+Mitigating the behaviors associated with 'weak hands' requires a strategic approach that encompasses mindset development, financial literacy, and the application of [algorithmic trading](/wiki/algorithmic-trading). 
 
 ### Developing a Resilient Investment Mindset and Diversified Portfolio
 
-A resilient investment mindset is foundational for overcoming impulsive trading behaviors driven by market volatility. This entails focusing on long-term financial goals rather than short-term market fluctuations. An effective way to cultivate this mindset is through the adoption of a diversified portfolio. Diversification involves investing in a variety of assets, such as stocks, bonds, and real estate, to spread risk. By diversifying, investors can cushion against the impact of adverse movements in any single market sector. A widely accepted formula for portfolio diversification is the capital asset pricing model (CAPM), which evaluates expected return on an asset while considering risk and return on a market portfolio:
+A resilient investment mindset is foundational for overcoming impulsive trading behaviors driven by market [volatility](/wiki/volatility-trading-strategies). This entails focusing on long-term financial goals rather than short-term market fluctuations. An effective way to cultivate this mindset is through the adoption of a diversified portfolio. Diversification involves investing in a variety of assets, such as stocks, bonds, and real estate, to spread risk. By diversifying, investors can cushion against the impact of adverse movements in any single market sector. A widely accepted formula for portfolio diversification is the capital asset pricing model (CAPM), which evaluates expected return on an asset while considering risk and return on a market portfolio:
 
 $$
 E(R_i) = R_f + \beta_i(E(R_m) - R_f)
@@ -102,7 +102,7 @@ Financial literacy is critical for making informed investment decisions. Educati
 
 ### Utilizing Algorithmic Trading Strategies to Maintain Disciplined Trading
 
-Algorithmic trading has emerged as a valuable tool to counteract the impulsiveness characteristic of weak hands. By utilizing algorithms to analyze data and execute trades automatically, investors can ensure that their trading actions are consistent with predetermined criteria, devoid of emotional biases. Python, a popular language for algorithmic trading, can be used to establish these automated strategies with libraries such as `pandas` for data analysis and `zipline` for algorithmic backtesting:
+Algorithmic trading has emerged as a valuable tool to counteract the impulsiveness characteristic of weak hands. By utilizing algorithms to analyze data and execute trades automatically, investors can ensure that their trading actions are consistent with predetermined criteria, devoid of emotional biases. Python, a popular language for algorithmic trading, can be used to establish these automated strategies with libraries such as `pandas` for data analysis and `zipline` for algorithmic [backtesting](/wiki/backtesting):
 
 ```python
 import pandas as pd

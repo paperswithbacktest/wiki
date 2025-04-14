@@ -26,7 +26,7 @@ One common method for downsampling pricing data is taking the average. Imagine y
 
 Another method is to pick the last value in each time period. For example, if you want to downsample from minute to hour, you can just use the price at the end of each hour. This method is good if you want to know the closing price for each period, like how stock markets report daily closing prices. It's simple and quick, but it might miss some of the price movements that happened during the hour.
 
-A third method is to use the highest or lowest value in each time period. This can be useful if you're interested in the peak or trough prices. For instance, if you're looking at daily data and want to downsample to weekly, you could use the highest price of the week. This helps you understand the extremes in pricing, which can be important for making decisions based on price volatility.
+A third method is to use the highest or lowest value in each time period. This can be useful if you're interested in the peak or trough prices. For instance, if you're looking at daily data and want to downsample to weekly, you could use the highest price of the week. This helps you understand the extremes in pricing, which can be important for making decisions based on price [volatility](/wiki/volatility-trading-strategies).
 
 ## How does downsampling affect the accuracy of pricing analysis?
 

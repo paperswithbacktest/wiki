@@ -21,13 +21,13 @@ In neural networks, clipping is often used to manage the gradients during traini
 
 ## How does clipping help in preventing gradient explosion?
 
-Clipping helps prevent gradient explosion by setting a limit on how large the gradients can get during the training of a neural network. When gradients become very large, they can cause the weights of the network to change too much in one step, leading to unstable training. By clipping the gradients, we make sure that no matter how big they get, they will not go beyond a certain value. This keeps the training process smooth and helps the network learn better.
+Clipping helps prevent gradient explosion by setting a limit on how large the gradients can get during the training of a [neural network](/wiki/neural-network). When gradients become very large, they can cause the weights of the network to change too much in one step, leading to unstable training. By clipping the gradients, we make sure that no matter how big they get, they will not go beyond a certain value. This keeps the training process smooth and helps the network learn better.
 
 For example, if we set a maximum gradient value of 1, any gradient larger than 1 will be reduced to 1. This can be done using a simple formula: if the gradient $$g$$ is larger than the threshold $$t$$, then the new gradient $$g_{\text{clipped}}$$ is set to $$t$$. Otherwise, the gradient remains unchanged. This technique ensures that the network's weights are updated in a controlled manner, preventing sudden large changes that could destabilize the learning process.
 
 ## What are the different types of clipping techniques in machine learning?
 
-There are mainly two types of clipping techniques used in machine learning: value clipping and gradient clipping. Value clipping is used on the data itself or on model outputs to limit them within a certain range. For example, if you have a dataset with values from -100 to 100 but you want to limit it to -10 to 10, you would use value clipping. This helps in making the data more manageable and can prevent outliers from skewing the model's performance. In code, value clipping might look like this: ```python
+There are mainly two types of clipping techniques used in [machine learning](/wiki/machine-learning): value clipping and gradient clipping. Value clipping is used on the data itself or on model outputs to limit them within a certain range. For example, if you have a dataset with values from -100 to 100 but you want to limit it to -10 to 10, you would use value clipping. This helps in making the data more manageable and can prevent outliers from skewing the model's performance. In code, value clipping might look like this: ```python
 import numpy as np
 data = np.clip(data, -10, 10)
 ``` This ensures that any value outside the range [-10, 10] is set to the nearest boundary value.
@@ -48,7 +48,7 @@ torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
 
 ## How do you implement gradient clipping in popular deep learning frameworks like TensorFlow or PyTorch?
 
-In TensorFlow, you can implement gradient clipping using the `tf.clip_by_value` or `tf.clip_by_norm` functions. These functions help you set a limit on how big the gradients can get. For example, if you want to clip gradients so they don't go beyond a certain value, you can use `tf.clip_by_value`. If you want to clip them based on their overall size, you can use `tf.clip_by_norm`. Here's how you might do it in code: ```python
+In TensorFlow, you can implement gradient clipping using the `tf.clip_by_value` or `tf.clip_by_norm` functions. These functions help you set a limit on how big the gradients can get. For example, if you want to [clip](/wiki/clip) gradients so they don't go beyond a certain value, you can use `tf.clip_by_value`. If you want to clip them based on their overall size, you can use `tf.clip_by_norm`. Here's how you might do it in code: ```python
 optimizer = tf.keras.optimizers.Adam(learning_rate=0.001)
 gradients, variables = zip(*optimizer.compute_gradients(loss))
 gradients, _ = tf.clip_by_global_norm(gradients, clip_norm=1.0)

@@ -26,7 +26,7 @@ Powershares, now part of Invesco, offers many different types of ETFs for invest
 
 Powershares also has ETFs that follow certain strategies or themes. For example, some ETFs aim to give investors more income, while others focus on sustainable or environmentally friendly companies. There are also ETFs that invest in specific countries or regions, like emerging markets. This variety helps investors build a portfolio that matches their goals and what they care about.
 
-Overall, Powershares ETFs give investors a lot of choices. Whether you want to invest in stocks, bonds, or follow a special strategy, there's likely an ETF that fits your needs. This makes it easier to build a diverse investment portfolio without having to pick each stock or bond by yourself.
+Overall, Powershares ETFs give investors a lot of choices. Whether you want to invest in stocks, bonds, or follow a special strategy, there's likely an [ETF](/wiki/etf-trading-strategies) that fits your needs. This makes it easier to build a diverse investment portfolio without having to pick each stock or bond by yourself.
 
 ## How can someone start investing in Powershares?
 
@@ -36,7 +36,7 @@ After you have your account ready and funded, you can start looking for Powersha
 
 ## What are the potential benefits of investing in Powershares?
 
-Investing in Powershares can be a good idea because it lets you buy a bunch of different investments all at once. Instead of picking each stock or bond by yourself, you can just buy one Powershares ETF. This makes it easier to have a diverse portfolio, which means your money is spread out over many different things. This can help lower your risk because if one investment does badly, the others might do well and balance it out.
+Investing in Powershares can be a good idea because it lets you buy a bunch of different investments all at once. Instead of [picking](/wiki/asset-class-picking) each stock or bond by yourself, you can just buy one Powershares ETF. This makes it easier to have a diverse portfolio, which means your money is spread out over many different things. This can help lower your risk because if one investment does badly, the others might do well and balance it out.
 
 Another benefit is that Powershares ETFs come in many different types. You can find ETFs that focus on certain industries, like technology or health care, or ones that invest in specific countries or regions. There are also ETFs that follow special strategies, like trying to get more income or focusing on sustainable companies. This variety makes it easier to find investments that match what you care about or what you're trying to achieve with your money.
 
@@ -60,7 +60,7 @@ Another thing to know is that some Powershares ETFs might give you dividends or 
 
 ## How does liquidity impact Powershares investments?
 
-Liquidity is how easy it is to buy or sell something without changing its price too much. For Powershares ETFs, liquidity is important because it affects how quickly you can get your money out if you need to. If an ETF is very liquid, you can sell it fast and at a price close to what you see on the market. But if it's not very liquid, it might take longer to sell, and you might not get the price you want. This can be a problem if you need your money right away or if the market is moving a lot.
+Liquidity is how easy it is to buy or sell something without changing its price too much. For Powershares ETFs, [liquidity](/wiki/liquidity-risk-premium) is important because it affects how quickly you can get your money out if you need to. If an ETF is very liquid, you can sell it fast and at a price close to what you see on the market. But if it's not very liquid, it might take longer to sell, and you might not get the price you want. This can be a problem if you need your money right away or if the market is moving a lot.
 
 The liquidity of Powershares ETFs can change based on how popular they are and how much people are trading them. ETFs that focus on big, well-known companies or industries usually have more liquidity because more people want to buy and sell them. On the other hand, ETFs that focus on smaller or less popular areas might not be as liquid. It's a good idea to check how liquid an ETF is before you invest, especially if you think you might need to sell it quickly in the future.
 

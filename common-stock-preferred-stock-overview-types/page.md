@@ -96,7 +96,7 @@ A higher yield often appeals to income-focused investors, but it is also essenti
 
 Another key aspect is the convertibility of preferred stock. Some preferred stocks are convertible into common shares, providing potential for capital appreciation. When evaluating convertible preferred stocks, investors should assess the conversion ratio and conversion price, which determine the relative value of the conversion feature compared to the fixed dividends.
 
-An essential factor in preferred stock investment is the issuing company's financial stability and creditworthiness. Preferred stockholders have a higher claim on assets than common stockholders in the event of liquidation, but they must still consider the issuer's ability to maintain its dividend payments and overall financial health. Reviewing credit ratings and financial statements can offer insights into a company's stability.
+An essential [factor](/wiki/factor-investing) in preferred stock investment is the issuing company's financial stability and creditworthiness. Preferred stockholders have a higher claim on assets than common stockholders in the event of liquidation, but they must still consider the issuer's ability to maintain its dividend payments and overall financial health. Reviewing credit ratings and financial statements can offer insights into a company's stability.
 
 Preferred stocks can be purchased through stock exchanges using brokerage accounts. Investors may also consider preferred stock ETFs or mutual funds, which provide diversified exposure to a variety of preferred stocks, allowing for risk mitigation.
 

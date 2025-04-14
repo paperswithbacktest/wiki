@@ -20,11 +20,11 @@ Cryptocurrency market downturns happen for a few main reasons. One big reason is
 
 Another reason for downturns is when people get scared and start selling their cryptocurrencies all at once. This can happen because of rumors or because the prices are already going down a bit. When lots of people sell at the same time, it can make the prices fall even more. This can turn into a cycle where more selling leads to lower prices, which makes more people want to sell.
 
-Sometimes, the whole economy can affect cryptocurrency prices too. If the stock market or other investments are doing badly, people might decide to sell their cryptocurrencies to get money for other things. This can also lead to a downturn in the cryptocurrency market. Understanding these reasons can help people make better choices about when to buy or sell cryptocurrencies.
+Sometimes, the whole economy can affect [cryptocurrency](/wiki/cryptocurrency) prices too. If the stock market or other investments are doing badly, people might decide to sell their cryptocurrencies to get money for other things. This can also lead to a downturn in the cryptocurrency market. Understanding these reasons can help people make better choices about when to buy or sell cryptocurrencies.
 
 ## How can beginners identify the early signs of a market downturn?
 
-Beginners can spot the early signs of a market downturn by watching the prices of cryptocurrencies closely. If the prices start to go down a bit every day or if there are sudden big drops, it might be the start of a downturn. Another thing to look for is when more people are selling their cryptocurrencies than buying them. You can see this by checking the trading volume, which shows how many cryptocurrencies are being traded. If the trading volume is going up but the prices are going down, it could mean that a lot of people are trying to sell and get out of the market.
+Beginners can spot the early signs of a market downturn by watching the prices of cryptocurrencies closely. If the prices start to go down a bit every day or if there are sudden big drops, it might be the start of a downturn. Another thing to look for is when more people are selling their cryptocurrencies than buying them. You can see this by checking the trading [volume](/wiki/volume-trading-strategy), which shows how many cryptocurrencies are being traded. If the trading volume is going up but the prices are going down, it could mean that a lot of people are trying to sell and get out of the market.
 
 Also, beginners should pay attention to the news and what people are saying online. If there's a lot of bad news about cryptocurrencies or if people are talking about problems with big cryptocurrency companies, it might lead to a downturn. Social media can be a good place to see what people are thinking and feeling about the market. If you see a lot of worried or negative posts, it could be a sign that a downturn is coming. By keeping an eye on these things, beginners can get a better idea of when the market might be heading for a downturn.
 
@@ -74,7 +74,7 @@ To manage these challenges, it's important for investors to stay calm and not le
 
 During cryptocurrency downturns, using DeFi strategies can help you protect your investments. One way is by using yield farming, where you lend your cryptocurrencies to others and earn interest. If the market goes down, the interest you earn can help make up for some of the losses. Another strategy is to use stablecoins, which are cryptocurrencies that are tied to the value of things like the US dollar. By moving some of your money into stablecoins, you can keep it safe from the ups and downs of the market.
 
-Another DeFi strategy is to use liquidity pools. In a liquidity pool, you put your cryptocurrencies into a pool with other people's cryptocurrencies, and you earn fees when others use the pool to trade. This can give you another way to earn money even when the market is going down. It's important to remember that DeFi also has risks, so you should do your research and understand what you're getting into. By using these DeFi strategies wisely, you can help protect your investments during a market downturn.
+Another DeFi strategy is to use [liquidity](/wiki/liquidity-risk-premium) pools. In a liquidity pool, you put your cryptocurrencies into a pool with other people's cryptocurrencies, and you earn fees when others use the pool to trade. This can give you another way to earn money even when the market is going down. It's important to remember that DeFi also has risks, so you should do your research and understand what you're getting into. By using these DeFi strategies wisely, you can help protect your investments during a market downturn.
 
 ## What are some case studies of successful navigation through past cryptocurrency market downturns?
 
@@ -84,9 +84,9 @@ Another case was during the 2020 market crash caused by the COVID-19 pandemic. M
 
 ## What is Algorithmic Trading in a Crypto Winter?
 
-Algorithmic trading employs computational algorithms to execute trades efficiently and rapidly, facilitating operations across various cryptocurrency exchanges. This form of trading is particularly advantageous during a crypto winter, a period marked by market volatility and declining prices. By leveraging [algorithmic trading](/wiki/algorithmic-trading), investors can effectively manage risks and identify short-lived opportunities that arise even in adverse market conditions.
+Algorithmic trading employs computational algorithms to execute trades efficiently and rapidly, facilitating operations across various cryptocurrency exchanges. This form of trading is particularly advantageous during a crypto winter, a period marked by market [volatility](/wiki/volatility-trading-strategies) and declining prices. By leveraging [algorithmic trading](/wiki/algorithmic-trading), investors can effectively manage risks and identify short-lived opportunities that arise even in adverse market conditions.
 
-During a crypto winter, market sentiment often shifts, leading to fluctuations that can be unpredictable and swift. Algorithms can be programmed to detect these fluctuations and execute trades contingent on predefined criteria. For instance, algorithms might employ moving average strategies to enter or exit the market based on detected trends. A simple moving average (SMA) is calculated using:
+During a crypto winter, market sentiment often shifts, leading to fluctuations that can be unpredictable and swift. Algorithms can be programmed to detect these fluctuations and execute trades contingent on predefined criteria. For instance, algorithms might employ moving average strategies to enter or [exit](/wiki/exit-strategy) the market based on detected trends. A simple moving average (SMA) is calculated using:
 
 $$
 \text{SMA} = \frac{\sum_{i=1}^{n} P_i}{n}

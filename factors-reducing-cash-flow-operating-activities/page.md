@@ -24,7 +24,7 @@ This information is useful for people who own the company or are thinking about 
 
 There are several common things that can make a company's cash flow from operating activities go down. One big reason is if the company is not selling as many products or services as before. When sales drop, less money comes in, and that can hurt the cash flow. Another reason could be if the company has to pay more to its suppliers or for things like rent and utilities. If these costs go up, the company has less money left over after paying its bills.
 
-Another factor that can reduce cash flow is if the company is not collecting money from customers quickly enough. If customers are slow to pay, the company might not have enough cash to keep running smoothly. Also, if the company has to pay its employees more or hire more workers, that can use up more cash. All these things together can make it harder for a company to have positive cash flow from its main business activities.
+Another [factor](/wiki/factor-investing) that can reduce cash flow is if the company is not collecting money from customers quickly enough. If customers are slow to pay, the company might not have enough cash to keep running smoothly. Also, if the company has to pay its employees more or hire more workers, that can use up more cash. All these things together can make it harder for a company to have positive cash flow from its main business activities.
 
 Sometimes, a company might have to spend a lot of money on fixing things or keeping them running, like machines or buildings. These kinds of expenses can also reduce the cash flow from operating activities. It's important for a company to keep an eye on all these factors to make sure it can keep making money from its main business.
 

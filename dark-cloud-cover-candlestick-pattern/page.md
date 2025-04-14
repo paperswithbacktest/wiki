@@ -52,7 +52,7 @@ Another mistake is not considering the bigger picture. The Dark Cloud Cover is m
 
 ## How can the Dark Cloud Cover pattern be confirmed with other technical indicators?
 
-Traders can use other technical indicators to make sure the Dark Cloud Cover pattern is a good sign that the price might go down. One way is to look at the volume. If the volume is higher on the day of the second candle, it can mean that more people are selling, which makes the pattern more reliable. Another way is to use momentum indicators like the Relative Strength Index (RSI). If the RSI is moving down and getting close to being oversold, it can support the idea that the price might keep going down.
+Traders can use other technical indicators to make sure the Dark Cloud Cover pattern is a good sign that the price might go down. One way is to look at the [volume](/wiki/volume-trading-strategy). If the volume is higher on the day of the second candle, it can mean that more people are selling, which makes the pattern more reliable. Another way is to use momentum indicators like the Relative Strength Index (RSI). If the RSI is moving down and getting close to being oversold, it can support the idea that the price might keep going down.
 
 Another helpful indicator is the Moving Average Convergence Divergence (MACD). If the MACD line crosses below the signal line around the same time as the Dark Cloud Cover, it can be a strong sign that the price is going to drop. Traders can also look at support and resistance levels. If the second candle of the Dark Cloud Cover closes near a key resistance level, it adds more weight to the pattern. Using these other indicators along with the Dark Cloud Cover can give traders a better idea of what might happen next with the price.
 
@@ -109,11 +109,11 @@ The presence of a Dark Cloud Cover pattern alerts traders to potential weakness 
 
 Backtesting the Dark Cloud Cover pattern involves simulating trades based on historical data to evaluate the pattern's effectiveness in predicting market reversals. This process allows traders and algorithmic systems to assess the reliability and profitability of using the Dark Cloud Cover as a bearish signal within an overall trading strategy.
 
-The first step in the backtesting process is gathering historical price data, which is critical for accurately simulating trades. Traders typically use platforms like Amibroker or Tradestation for backtesting due to their robust data handling, scripting capabilities, and user-friendly interfaces. These platforms enable the creation of scripts or algorithms that can automatically identify the Dark Cloud Cover pattern within historical data, process trades accordingly, and track the outcomes.
+The first step in the [backtesting](/wiki/backtesting) process is gathering historical price data, which is critical for accurately simulating trades. Traders typically use platforms like Amibroker or Tradestation for backtesting due to their robust data handling, scripting capabilities, and user-friendly interfaces. These platforms enable the creation of scripts or algorithms that can automatically identify the Dark Cloud Cover pattern within historical data, process trades accordingly, and track the outcomes.
 
 In the pattern recognition phase, the algorithm scans the selected price data for instances where the Dark Cloud Cover pattern appears. Traditionally, this pattern is identified when a bearish candlestick opens above the prior bullish candlestick's close and then closes deeply into the bullish candlestick body, typically surpassing the midpoint. The essential criterion for its validity includes an antecedent uptrend, establishing the necessary context for a potential reversal. This identification relies on specific rules coded into the backtesting software, ensuring consistent detection across various datasets.
 
-Once patterns are identified, transactions are simulated—selling short at the bearish candle's close and potentially closing positions based on predefined exit strategies. During backtesting, critical metrics are gathered to assess the performance of the Dark Cloud Cover pattern:
+Once patterns are identified, transactions are simulated—selling short at the bearish candle's close and potentially closing positions based on predefined [exit](/wiki/exit-strategy) strategies. During backtesting, critical metrics are gathered to assess the performance of the Dark Cloud Cover pattern:
 
 1. **Success Rate**: The percentage of trades that resulted in a profit. This is calculated by:
 $$

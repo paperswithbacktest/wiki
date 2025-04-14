@@ -30,7 +30,7 @@ When the Cedi was first introduced, it was a big change for everyone in Ghana. T
 
 The Ghanaian Cedi comes in different amounts of money, both as coins and paper money. The coins are worth 1 pesewa, 5 pesewas, 10 pesewas, 20 pesewas, 50 pesewas, and 1 Cedi. These coins help people buy small things or give exact change.
 
-The paper money, or banknotes, come in bigger amounts. You can find banknotes worth 1 Cedi, 2 Cedis, 5 Cedis, 10 Cedis, 20 Cedis, 50 Cedis, 100 Cedis, and 200 Cedis. These notes make it easier for people to carry around larger amounts of money without needing too many coins.
+The paper money, or banknotes, come in bigger amounts. You can find banknotes worth 1 Cedi, 2 Cedis, 5 Cedis, 10 Cedis, 20 Cedis, 50 Cedis, 100 Cedis, and 200 Cedis. These notes make it easier for people to [carry](/wiki/carry-trading) around larger amounts of money without needing too many coins.
 
 ## How does the Ghanaian Cedi function as a currency?
 

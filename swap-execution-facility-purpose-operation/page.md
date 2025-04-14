@@ -28,7 +28,7 @@ SEFs are also regulated more strictly than traditional trading platforms. In the
 
 ## What types of swaps can be traded on a SEF?
 
-On a Swap Execution Facility (SEF), you can trade different kinds of swaps. The most common type is interest rate swaps, where two parties agree to exchange interest payments, usually one fixed rate for a floating rate. Another type is credit default swaps, which act like insurance against a borrower defaulting on a loan. These swaps help investors manage the risk of someone not paying back their debt.
+On a Swap Execution Facility (SEF), you can trade different kinds of swaps. The most common type is [interest rate](/wiki/interest-rate-trading-strategies) swaps, where two parties agree to exchange interest payments, usually one fixed rate for a floating rate. Another type is credit default swaps, which act like insurance against a borrower defaulting on a loan. These swaps help investors manage the risk of someone not paying back their debt.
 
 Commodity swaps are also traded on SEFs. These swaps involve exchanging a fixed price for a commodity, like oil or wheat, for a floating price based on the market. This helps companies that use these commodities to manage price risks. Lastly, there are foreign exchange swaps, where parties exchange different currencies at a set rate and then swap them back at a later date. This can help businesses that work in different countries manage currency risks.
 
@@ -70,13 +70,13 @@ SEFs are also watched over by the Commodity Futures Trading Commission (CFTC) in
 
 ## How have SEFs impacted the liquidity and pricing of swaps?
 
-SEFs have made a big difference in how easy it is to trade swaps and how much they cost. Before SEFs, swaps were often traded in private deals, which meant only a few people knew the prices. Now, with SEFs, everyone can see the prices before they trade. This makes the market more open and helps more people join in. When more people can trade, it's easier to find someone to trade with, which is called liquidity. More liquidity means it's easier to buy and sell swaps without big changes in price.
+SEFs have made a big difference in how easy it is to trade swaps and how much they cost. Before SEFs, swaps were often traded in private deals, which meant only a few people knew the prices. Now, with SEFs, everyone can see the prices before they trade. This makes the market more open and helps more people join in. When more people can trade, it's easier to find someone to trade with, which is called [liquidity](/wiki/liquidity-risk-premium). More liquidity means it's easier to buy and sell swaps without big changes in price.
 
 The prices of swaps have also become more clear and fair because of SEFs. Since everyone can see the prices, it's harder for one person to charge too much or too little. This helps keep prices steady and fair for everyone. Also, because SEFs report all trades to a special place, it's easier for everyone to know what's happening in the market. This helps traders make better choices and can lead to more stable prices overall.
 
 ## What are the future trends and potential developments for SEFs?
 
-In the future, SEFs might see more technology used to make trading even easier and faster. This could include using things like artificial intelligence to help traders make better choices and find the best prices. Also, as more countries start to use SEFs, they might work together more to make rules that help everyone. This could make the market even more open and fair around the world.
+In the future, SEFs might see more technology used to make trading even easier and faster. This could include using things like [artificial intelligence](/wiki/ai-artificial-intelligence) to help traders make better choices and find the best prices. Also, as more countries start to use SEFs, they might work together more to make rules that help everyone. This could make the market even more open and fair around the world.
 
 Another trend could be more types of swaps being traded on SEFs. Right now, they mostly trade interest rate swaps and credit default swaps, but in the future, we might see more commodity swaps or even new kinds of swaps. This would give traders more choices and help them manage different kinds of risks. Overall, SEFs are likely to keep growing and changing to make the swap market safer and more efficient for everyone.
 

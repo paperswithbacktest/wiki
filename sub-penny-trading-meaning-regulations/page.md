@@ -56,7 +56,7 @@ Some exchanges might have extra rules or ways to check for problems with sub-pen
 
 Sub-penny trading can make the market more liquid for very cheap stocks. Liquidity means how easy it is to buy or sell a stock without changing its price too much. When people can trade at prices smaller than one cent, it can help more people buy and sell these stocks. This can be good for small investors who don't have a lot of money to spend. They can get in and out of the market more easily because they can trade at tiny prices.
 
-However, sub-penny trading can also cause problems with market liquidity. Because the prices can change so quickly and by such small amounts, it can make the market more unstable. This can scare away some investors who don't want to take the risk. If too many people are scared away, it can actually make it harder to buy and sell these stocks. So, while sub-penny trading can help with liquidity in some ways, it can also make the market less liquid if it leads to more instability and fewer people wanting to trade.
+However, sub-penny trading can also cause problems with market [liquidity](/wiki/liquidity-risk-premium). Because the prices can change so quickly and by such small amounts, it can make the market more unstable. This can scare away some investors who don't want to take the risk. If too many people are scared away, it can actually make it harder to buy and sell these stocks. So, while sub-penny trading can help with liquidity in some ways, it can also make the market less liquid if it leads to more instability and fewer people wanting to trade.
 
 ## How does sub-penny trading affect the accuracy of stock prices?
 

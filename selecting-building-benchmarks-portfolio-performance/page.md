@@ -24,7 +24,7 @@ Using the right benchmark also helps you make smarter choices about your investm
 
 There are different kinds of benchmarks used in portfolio management, and each one helps investors in a different way. One common type is a market index benchmark, like the S&P 500 or the Dow Jones Industrial Average. These benchmarks are made up of a group of stocks that represent the overall market or a specific part of it. If you have a portfolio of stocks, you can compare it to these indexes to see how well your investments are doing compared to the market.
 
-Another type of benchmark is a peer group benchmark. This compares your portfolio to similar portfolios managed by other investors or fund managers. For example, if you have a mutual fund focused on growth stocks, you might compare it to other growth stock mutual funds. This helps you see if your fund is doing better or worse than others like it.
+Another type of benchmark is a peer group benchmark. This compares your portfolio to similar portfolios managed by other investors or fund managers. For example, if you have a mutual fund focused on [growth stocks](/wiki/growth-stocks), you might compare it to other growth stock mutual funds. This helps you see if your fund is doing better or worse than others like it.
 
 There are also custom benchmarks that investors create themselves. These are tailored to match the specific goals and strategies of a portfolio. For instance, if you have a portfolio with a mix of stocks and bonds, you might create a custom benchmark that includes a similar mix. This way, you can see how well your unique strategy is working compared to what you planned.
 
@@ -36,7 +36,7 @@ Next, consider your investment goals. Are you looking for growth, income, or a m
 
 ## What are the common mistakes to avoid when selecting a benchmark?
 
-One big mistake people make when choosing a benchmark is picking one that doesn't match their portfolio. If you have a lot of money in tech stocks, using a benchmark like the S&P 500, which includes all kinds of companies, won't give you a clear picture of how your tech stocks are doing. You need a benchmark that reflects the same type of investments you have, like the Nasdaq for tech stocks.
+One big mistake people make when choosing a benchmark is [picking](/wiki/asset-class-picking) one that doesn't match their portfolio. If you have a lot of money in tech stocks, using a benchmark like the S&P 500, which includes all kinds of companies, won't give you a clear picture of how your tech stocks are doing. You need a benchmark that reflects the same type of investments you have, like the Nasdaq for tech stocks.
 
 Another common error is not thinking about your investment goals. If you're aiming for growth, using a benchmark that focuses on income, like a bond index, won't help you see if you're meeting your goals. You need to pick a benchmark that matches what you're trying to achieve with your money, whether it's growth, income, or a mix of both.
 
@@ -70,7 +70,7 @@ Also, sometimes the market changes, and the indexes you used for your benchmark 
 
 Statistical methods can help you pick the right benchmark and understand how well your investments are doing. One way to do this is by using regression analysis. This method looks at how closely your portfolio's performance matches the benchmark's performance. If the numbers show a strong match, it means the benchmark is a good choice for comparing your investments. On the other hand, if the numbers show a weak match, you might need to find a different benchmark that fits better. Regression can also help you see if your portfolio is doing better or worse than the benchmark after taking into account the risk you're taking.
 
-Another useful statistical tool is factor analysis, which breaks down the performance of your portfolio and benchmark into different parts, like size, value, or growth. By looking at these factors, you can see what's driving the performance of your investments and compare them to the benchmark. This can help you understand if your portfolio is doing well because of the same reasons as the benchmark, or if there are other things at play. Using factor analysis can give you a deeper look into your investments and help you make smarter choices about your money.
+Another useful statistical tool is [factor](/wiki/factor-investing) analysis, which breaks down the performance of your portfolio and benchmark into different parts, like size, value, or growth. By looking at these factors, you can see what's driving the performance of your investments and compare them to the benchmark. This can help you understand if your portfolio is doing well because of the same reasons as the benchmark, or if there are other things at play. Using factor analysis can give you a deeper look into your investments and help you make smarter choices about your money.
 
 ## What role do benchmarks play in regulatory compliance and investor reporting?
 
@@ -108,7 +108,7 @@ Incorporating benchmarking into portfolio management not only aids in performanc
 
 ## What is the relationship between Risk Profile and Asset Allocation?
 
-Understanding your risk profile is a foundational aspect of constructing an investment portfolio. The risk profile comprises your capacity to take on risk, your willingness to accept it, and your investment goals. Factors contributing to a risk profile include income stability, investment horizon, and psychological comfort with market volatility. By aligning your investments with your risk profile, you enhance the likelihood of meeting your financial objectives while navigating market fluctuations effectively.
+Understanding your risk profile is a foundational aspect of constructing an investment portfolio. The risk profile comprises your capacity to take on risk, your willingness to accept it, and your investment goals. Factors contributing to a risk profile include income stability, investment horizon, and psychological comfort with market [volatility](/wiki/volatility-trading-strategies). By aligning your investments with your risk profile, you enhance the likelihood of meeting your financial objectives while navigating market fluctuations effectively.
 
 Asset allocation refers to distributing investments across various asset classes, such as stocks, bonds, and commodities, to optimize the balance between risk and reward. This distribution is directly influenced by your risk profile. A diversified portfolio typically mitigates risk, as it reduces exposure to the poor performance of any single investment.
 

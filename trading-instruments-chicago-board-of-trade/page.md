@@ -84,7 +84,7 @@ Another event that had a big impact was the introduction of electronic trading i
 
 ## What is the Evolution of the Chicago Board of Trade?
 
-The Chicago Board of Trade (CBOT), established in 1848, began as a platform to facilitate the trading of agricultural commodities, particularly grain. This initiative was crucial in standardizing grain trading practices, which had previously been informal and inconsistent. The standardization provided by CBOT helped to stabilize prices and build trust among market participants, thus fostering increased trade volume and efficiency.
+The Chicago Board of Trade (CBOT), established in 1848, began as a platform to facilitate the trading of agricultural commodities, particularly grain. This initiative was crucial in standardizing grain trading practices, which had previously been informal and inconsistent. The standardization provided by CBOT helped to stabilize prices and build trust among market participants, thus fostering increased trade [volume](/wiki/volume-trading-strategy) and efficiency.
 
 Originally, the exchange used an open-outcry system where traders would shout to buy or sell commodities on the trading floor. This traditional approach dominated operations for over a century but began to evolve with the advent of technology. In the latter part of the 20th century, CBOT started integrating electronic trading systems. This technological shift aimed at increasing transparency, trading speed, and accessibility, which the open-outcry system could not match as the market's complexity increased.
 

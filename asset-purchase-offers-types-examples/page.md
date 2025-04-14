@@ -24,7 +24,7 @@ Another type of asset purchase offer is a stock-for-assets offer. In this case, 
 
 An asset purchase is when a buyer wants to buy specific things from a company, like machines, buildings, or the company's name. The buyer makes an offer to the seller, saying how much they are willing to pay for these items. If the seller agrees, the buyer only gets the things listed in the offer and not the whole company. This can be good if the buyer only wants certain parts of the business and not everything that comes with it.
 
-A stock purchase, on the other hand, is when a buyer buys the whole company by buying all of its shares. When someone buys all the shares, they own the entire business, including all its assets and all its debts. This means the buyer gets everything, the good and the bad. It's like buying the whole package, so it can be more complicated but also can be simpler because it's one big deal instead of picking and choosing different parts.
+A stock purchase, on the other hand, is when a buyer buys the whole company by buying all of its shares. When someone buys all the shares, they own the entire business, including all its assets and all its debts. This means the buyer gets everything, the good and the bad. It's like buying the whole package, so it can be more complicated but also can be simpler because it's one big deal instead of [picking](/wiki/asset-class-picking) and choosing different parts.
 
 ## What are the key components of an asset purchase offer?
 
@@ -82,7 +82,7 @@ Another example is when a tech company wanted to buy a smaller company's softwar
 
 ## What are some examples of algorithmic trading in asset purchase?
 
-Algorithmic trading continues to reshape asset purchase strategies, offering innovative methods for acquiring assets effectively. This section outlines examples of algorithmic trading applied in asset purchase, highlighting trend-following strategies, arbitrage strategies, and mean reversion algorithms.
+Algorithmic trading continues to reshape asset purchase strategies, offering innovative methods for acquiring assets effectively. This section outlines examples of [algorithmic trading](/wiki/algorithmic-trading) applied in asset purchase, highlighting trend-following strategies, [arbitrage](/wiki/arbitrage) strategies, and mean reversion algorithms.
 
 ### Trend-Following Strategy in Tech Stock Acquisition
 

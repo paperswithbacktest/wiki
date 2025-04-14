@@ -21,7 +21,7 @@ AutoML makes this process easier and faster. With AutoML, a computer does most o
 
 ## What are the key components of an AutoML system?
 
-The first key component of an AutoML system is data preprocessing. This part takes the raw data and gets it ready for the machine learning models. It includes cleaning the data, which means fixing any mistakes or missing parts, and also transforming the data into a format that the models can use easily. This step is important because good data leads to better model performance.
+The first key component of an AutoML system is data preprocessing. This part takes the raw data and gets it ready for the [machine learning](/wiki/machine-learning) models. It includes cleaning the data, which means fixing any mistakes or missing parts, and also transforming the data into a format that the models can use easily. This step is important because good data leads to better model performance.
 
 The second component is model selection and hyperparameter tuning. AutoML systems try out many different models, like decision trees or neural networks, to see which one works best for the given data. They also change the settings of these models, called hyperparameters, to make the models work even better. This is done automatically, so you don't have to know a lot about each model to use them effectively.
 

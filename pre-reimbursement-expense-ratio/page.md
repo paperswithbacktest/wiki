@@ -22,7 +22,7 @@ Understanding the difference between the Pre-Reimbursement and Post-Reimbursemen
 
 ## How is the Pre-Reimbursement Expense Ratio calculated?
 
-The Pre-Reimbursement Expense Ratio is calculated by taking the total expenses of a mutual fund or ETF before any fee waivers or reimbursements and dividing them by the fund's average net assets. The total expenses include costs like management fees, administrative fees, and other operational expenses that the fund incurs. The average net assets are the average value of the fund's assets over a certain period, usually a year. The result of this division is then multiplied by 100 to turn it into a percentage.
+The Pre-Reimbursement Expense Ratio is calculated by taking the total expenses of a mutual fund or [ETF](/wiki/etf-trading-strategies) before any fee waivers or reimbursements and dividing them by the fund's average net assets. The total expenses include costs like management fees, administrative fees, and other operational expenses that the fund incurs. The average net assets are the average value of the fund's assets over a certain period, usually a year. The result of this division is then multiplied by 100 to turn it into a percentage.
 
 For example, if a fund has total expenses of $1 million and average net assets of $100 million, the Pre-Reimbursement Expense Ratio would be calculated as follows: $1 million divided by $100 million equals 0.01. When you multiply 0.01 by 100, you get a Pre-Reimbursement Expense Ratio of 1%. This means that before any fee waivers or reimbursements, the fund's expenses are 1% of its average net assets.
 

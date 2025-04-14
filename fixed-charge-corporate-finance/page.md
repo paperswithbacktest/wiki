@@ -152,7 +152,7 @@ By following these steps and being mindful of potential errors, financial analys
 
 ## What is the conclusion?
 
-Fixed charges and the Fixed Charge Coverage Ratio (FCCR) play crucial roles in corporate finance and algorithmic trading by providing a framework for evaluating a company's financial health and operational stability. Understanding fixed charges, which are recurring expenses like loans, lease payments, insurance, and utility bills, is fundamental for assessing a company's financial obligations regardless of its business volume. The FCCR offers further insights by quantifying the company's ability to meet these fixed obligations, calculated using the formula:
+Fixed charges and the Fixed Charge Coverage Ratio (FCCR) play crucial roles in corporate finance and [algorithmic trading](/wiki/algorithmic-trading) by providing a framework for evaluating a company's financial health and operational stability. Understanding fixed charges, which are recurring expenses like loans, lease payments, insurance, and utility bills, is fundamental for assessing a company's financial obligations regardless of its business [volume](/wiki/volume-trading-strategy). The FCCR offers further insights by quantifying the company's ability to meet these fixed obligations, calculated using the formula:
 
 $$
 \text{FCCR} = \frac{\text{EBIT} + \text{Fixed Charges Before Tax}}{\text{Fixed Charges Before Tax} + \text{Interest Expenses}}

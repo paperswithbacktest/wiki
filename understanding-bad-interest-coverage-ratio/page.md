@@ -40,7 +40,7 @@ Having a bad interest coverage ratio can also scare away investors. Investors wa
 
 ## How can a bad interest coverage ratio affect a company's ability to borrow?
 
-A bad interest coverage ratio makes it hard for a company to borrow money. Lenders look at the interest coverage ratio to see if a company can pay back its loans. If the ratio is bad, it means the company isn't making enough money to cover its interest payments. This scares lenders because they might not get their money back. So, they might say no to giving the company more loans or they might charge a higher interest rate to make up for the risk.
+A bad interest coverage ratio makes it hard for a company to borrow money. Lenders look at the interest coverage ratio to see if a company can pay back its loans. If the ratio is bad, it means the company isn't making enough money to cover its interest payments. This scares lenders because they might not get their money back. So, they might say no to giving the company more loans or they might charge a higher [interest rate](/wiki/interest-rate-trading-strategies) to make up for the risk.
 
 If a company can't borrow money easily, it can have big problems. It might need to cut back on spending or sell parts of its business just to pay its debts. This can slow down the company's growth or even stop it from running smoothly. Without new loans, the company might struggle to keep up with its bills and could face bankruptcy if things don't get better.
 
@@ -129,7 +129,7 @@ This example demonstrates the practical calculation of ICR, affirming its utilit
 
 Graham, B., & Dodd, D. (1934). *Security Analysis*. McGraw Hill Education. This seminal work by Benjamin Graham and David Dodd lays a foundational framework for evaluating securities and understanding financial metrics, including the Interest Coverage Ratio. Their book provides valuable insights into financial analysis, emphasizing the importance of assessing a company's ability to manage its debt obligations.
 
-Johnson, B. (2010). *Algorithmic Trading and DMA*. 4Myeloma Press. Barry Johnson's book offers a comprehensive guide to algorithmic trading, detailing how financial ratios like the Interest Coverage Ratio can affect stock selection and trading strategies. It serves as an essential resource for those integrating financial analytics into automated trading systems.
+Johnson, B. (2010). *Algorithmic Trading and DMA*. 4Myeloma Press. Barry Johnson's book offers a comprehensive guide to [algorithmic trading](/wiki/algorithmic-trading), detailing how financial ratios like the Interest Coverage Ratio can affect stock selection and trading strategies. It serves as an essential resource for those integrating financial analytics into automated trading systems.
 
 Damodaran, A. (2012). *Investment Valuation: Tools and Techniques for Determining the Value of Any Asset*. Wiley Finance. Aswath Damodaran's text provides exhaustive coverage of valuation techniques, including the critical role of financial ratios such as the Interest Coverage Ratio in assessing company value. This book is crucial for those seeking quantitative methods in investment analysis and risk assessment.
 

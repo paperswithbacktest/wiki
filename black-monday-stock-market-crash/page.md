@@ -36,7 +36,7 @@ After Black Monday, governments and people who run the stock markets made change
 
 ## What were the immediate impacts of Black Monday on the stock market?
 
-On Black Monday, October 19, 1987, the stock market in the United States saw a huge drop. The Dow Jones Industrial Average fell by 22.6%, which was the biggest one-day drop ever. This caused a lot of panic among people who owned stocks. They started selling their stocks quickly, which made the prices go down even more. The trading volume was very high because so many people were trying to sell at the same time.
+On Black Monday, October 19, 1987, the stock market in the United States saw a huge drop. The Dow Jones Industrial Average fell by 22.6%, which was the biggest one-day drop ever. This caused a lot of panic among people who owned stocks. They started selling their stocks quickly, which made the prices go down even more. The trading [volume](/wiki/volume-trading-strategy) was very high because so many people were trying to sell at the same time.
 
 The effects of Black Monday were not just in the U.S. Stock markets in other countries like Australia, Hong Kong, and the UK also fell a lot. This showed how connected the world's economies are. The big drop in stock prices made it harder for businesses to get money to grow because banks were more careful about lending. It also made people worried about their money and the economy in general.
 
@@ -86,7 +86,7 @@ These new rules have changed how stock market crashes happen. They make the mark
 
 ## What was the role of algorithmic trading on Black Monday?
 
-Algorithmic trading played a pivotal role in the heightened volatility observed during Black Monday, primarily through strategies such as portfolio insurance. Portfolio insurance was designed to protect investors from significant losses by automatically selling off assets as they declined in value. The theory was to maintain a certain level of investment value by mimicking the effects of a put option, effectively hedging against falling markets. However, this strategy inadvertently exacerbated the market downturn.
+Algorithmic trading played a pivotal role in the heightened [volatility](/wiki/volatility-trading-strategies) observed during Black Monday, primarily through strategies such as portfolio insurance. Portfolio insurance was designed to protect investors from significant losses by automatically selling off assets as they declined in value. The theory was to maintain a certain level of investment value by mimicking the effects of a put option, effectively hedging against falling markets. However, this strategy inadvertently exacerbated the market downturn.
 
 The mechanism of portfolio insurance relied heavily on algorithmic systems to execute large volumes of trades without human intervention. As market prices began to fall, these automated systems commenced a barrage of sell orders in an attempt to mitigate risk, but this led to a feedback loop. The increased selling pressure triggered further declines in stock prices, which, in turn, activated even more sell orders. This self-reinforcing cycle of selling contributed to the rapid and severe decline in the market, as each wave of automatic sales only deepened the downward spiral.
 

@@ -18,7 +18,7 @@ For example, if you invest in a fund with a back-end load, you might have to pay
 
 A back-end load and a front-end load are both types of fees you might have to pay when investing in mutual funds, but they work differently. A front-end load is a fee you pay when you buy the fund. It's like an entry fee. For example, if you want to invest $1,000 in a fund with a 5% front-end load, you'll pay $50 right away, and only $950 will actually go into the fund.
 
-On the other hand, a back-end load is a fee you pay when you sell the fund. It's like an exit fee. The fee often goes down the longer you keep your money in the fund. For instance, if you invest $1,000 and decide to sell after a year, you might have to pay a 5% back-end load, which would be $50. But if you wait a few years, the fee might be smaller or even zero. Both types of loads can affect how much money you make from your investment, so it's good to know about them before you invest.
+On the other hand, a back-end load is a fee you pay when you sell the fund. It's like an [exit](/wiki/exit-strategy) fee. The fee often goes down the longer you keep your money in the fund. For instance, if you invest $1,000 and decide to sell after a year, you might have to pay a 5% back-end load, which would be $50. But if you wait a few years, the fee might be smaller or even zero. Both types of loads can affect how much money you make from your investment, so it's good to know about them before you invest.
 
 ## What are the primary advantages of a back-end load for investors?
 

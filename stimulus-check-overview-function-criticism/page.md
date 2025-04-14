@@ -100,7 +100,7 @@ The efficacy of stimulus checks in achieving economic growth, however, depends o
 
 ## What is the impact of economic policies on trading strategies?
 
-Economic relief measures, such as stimulus checks, play a pivotal role in shaping financial markets, consequently affecting trading strategies, particularly in algorithmic trading. Stimulus checks are designed to boost consumer spending, leading to increased economic activity. This infusion of cash into the economy can result in heightened market [liquidity](/wiki/liquidity-risk-premium) and [volatility](/wiki/volatility-trading-strategies), conditions that can significantly impact trading decisions.
+Economic relief measures, such as stimulus checks, play a pivotal role in shaping financial markets, consequently affecting trading strategies, particularly in [algorithmic trading](/wiki/algorithmic-trading). Stimulus checks are designed to boost consumer spending, leading to increased economic activity. This infusion of cash into the economy can result in heightened market [liquidity](/wiki/liquidity-risk-premium) and [volatility](/wiki/volatility-trading-strategies), conditions that can significantly impact trading decisions.
 
 Algorithmic trading, defined by its reliance on mathematical models and algorithms to make trading decisions, must account for these changes. Algo traders need to understand how economic policies, including stimulus measures, alter market conditions and require adjustments in trading algorithms.
 

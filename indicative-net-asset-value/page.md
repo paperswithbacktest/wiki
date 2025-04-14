@@ -52,7 +52,7 @@ Also, things like trading costs and taxes can make a difference. When you buy or
 
 ## Can iNAV be used to identify arbitrage opportunities?
 
-Yes, iNAV can be used to find arbitrage opportunities. Arbitrage means making money by buying something in one place and selling it in another place for a higher price. If the market price of an ETF is different from its iNAV, traders can use this difference to make a profit. For example, if the market price is lower than the iNAV, traders can buy the ETF and then sell the underlying assets at a higher price, making a profit from the difference.
+Yes, iNAV can be used to find [arbitrage](/wiki/arbitrage) opportunities. Arbitrage means making money by buying something in one place and selling it in another place for a higher price. If the market price of an ETF is different from its iNAV, traders can use this difference to make a profit. For example, if the market price is lower than the iNAV, traders can buy the ETF and then sell the underlying assets at a higher price, making a profit from the difference.
 
 However, this is not always easy. The difference between the market price and the iNAV can be small, and there are costs like trading fees and taxes that can eat into the profit. Also, the prices of the assets inside the ETF can change quickly, making the iNAV change too. So, traders need to be fast and smart to take advantage of these opportunities. By watching the iNAV closely and understanding the market, traders can find times when it makes sense to try arbitrage.
 

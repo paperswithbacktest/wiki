@@ -60,7 +60,7 @@ Another index that people might compare to the ABA Banking Index is the KBW Bank
 
 The ABA Banking Index is influenced by many things, but the most important are the overall health of the economy and how well the big banks are doing. When the economy is doing well, people and businesses have more money to spend and invest. This means more people are borrowing from banks, and banks can make more money from loans and other services. If the economy is not doing well, fewer people want to borrow money, and banks might struggle to make profits. This can cause the stock prices of banks to go down, which makes the ABA Banking Index go down too.
 
-Another big factor is interest rates. When interest rates are low, it's easier for people to borrow money, and banks can make more loans. This usually helps the banks make more money, and their stock prices go up, pushing the ABA Banking Index higher. But when interest rates are high, borrowing becomes more expensive, and fewer people might want to take out loans. This can hurt the banks' profits and cause their stock prices to drop, which would lower the ABA Banking Index.
+Another big [factor](/wiki/factor-investing) is interest rates. When interest rates are low, it's easier for people to borrow money, and banks can make more loans. This usually helps the banks make more money, and their stock prices go up, pushing the ABA Banking Index higher. But when interest rates are high, borrowing becomes more expensive, and fewer people might want to take out loans. This can hurt the banks' profits and cause their stock prices to drop, which would lower the ABA Banking Index.
 
 ## How can investors use the ABA Banking Index to make informed decisions?
 

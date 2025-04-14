@@ -38,7 +38,7 @@ After you have your account set up, you can start investing. Decide how much mon
 
 When looking at mutual funds that invest in insurance, one important thing to check is the fund's total return. This shows how much money the fund has made over time, including any dividends paid out. A good total return means the fund is doing well and the insurance companies it invests in are making profits. Another thing to look at is the fund's expense ratio, which is how much it costs to run the fund. A lower expense ratio is better because it means more of your money stays invested and can grow over time.
 
-Also, you should check the fund's risk level. This tells you how much the fund's value might go up or down. If you don't like taking big risks, you might want a fund with a lower risk level. Another useful indicator is the fund's performance compared to a benchmark, like an insurance sector index. If the fund does better than the benchmark, it's a sign that the fund managers are doing a good job picking insurance companies to invest in.
+Also, you should check the fund's risk level. This tells you how much the fund's value might go up or down. If you don't like taking big risks, you might want a fund with a lower risk level. Another useful indicator is the fund's performance compared to a benchmark, like an insurance sector index. If the fund does better than the benchmark, it's a sign that the fund managers are doing a good job [picking](/wiki/asset-class-picking) insurance companies to invest in.
 
 ## Can you list some popular mutual funds that invest in the insurance sector?
 

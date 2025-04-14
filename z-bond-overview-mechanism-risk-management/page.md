@@ -18,7 +18,7 @@ Z-Bonds are popular among investors who want to lock in a future payout without 
 
 A Z-Bond, or zero-coupon bond, is different from other bonds because it doesn't pay interest every year or every six months like most bonds do. Instead, you buy a Z-Bond for less than its face value, and when it matures, you get the full face value. So, if you buy a Z-Bond for $800 and its face value is $1,000, you make $200 when it matures. This is different from regular bonds, which give you interest payments over time and then return the face value at the end.
 
-Another way Z-Bonds are different is that they are more sensitive to changes in interest rates. If interest rates go up, the value of a Z-Bond can go down more than a regular bond's value would. This is because all the money you make from a Z-Bond comes at the end, so changes in interest rates affect the whole amount you will get. Regular bonds, on the other hand, give you interest payments along the way, so they are less affected by interest rate changes. This makes Z-Bonds a good choice for people who can hold onto them until they mature and don't need to sell them before then.
+Another way Z-Bonds are different is that they are more sensitive to changes in interest rates. If interest rates go up, the value of a Z-Bond can go down more than a regular bond's value would. This is because all the money you make from a Z-Bond comes at the end, so changes in interest rates affect the whole amount you will get. Regular bonds, on the other hand, give you interest payments along the way, so they are less affected by [interest rate](/wiki/interest-rate-trading-strategies) changes. This makes Z-Bonds a good choice for people who can hold onto them until they mature and don't need to sell them before then.
 
 ## What is the basic mechanism of a Z-Bond?
 
@@ -82,7 +82,7 @@ Another strategy is to use Z-Bonds as part of a tax-efficient investment plan. S
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). 'Algorithms for Hyper-Parameter Optimization.' Advances in Neural Information Processing Systems 24. This paper presents methodologies for hyper-parameter optimization, crucial for enhancing algorithmic trading strategies through improved machine learning models.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). 'Algorithms for Hyper-Parameter Optimization.' Advances in Neural Information Processing Systems 24. This paper presents methodologies for hyper-parameter optimization, crucial for enhancing [algorithmic trading](/wiki/algorithmic-trading) strategies through improved [machine learning](/wiki/machine-learning) models.
 
 'Advances in Financial Machine Learning' by Marcos Lopez de Prado provides a comprehensive guide to implementing machine learning methodologies in financial markets. It is particularly useful for understanding the theoretical underpinnings and applications of machine learning to optimize trading strategies, including those involving Z-Bonds.
 

@@ -77,7 +77,7 @@ Traders use different strategies based on how close the expiration date is. Some
 
 ## What advanced strategies can be used to take advantage of options expiration dates?
 
-One advanced strategy to take advantage of options expiration dates is called a "gamma scalping" or "delta-neutral trading." This strategy involves buying options and then trading the underlying stock to keep the overall position balanced. As the expiration date gets closer, the value of the option can change a lot. Traders use this to their advantage by making small trades in the stock to make money from these changes. It's a bit like riding a wave; as the option's value goes up and down, the trader adjusts their position to stay on top of the wave.
+One advanced strategy to take advantage of options expiration dates is called a "gamma [scalping](/wiki/gamma-scalping)" or "delta-neutral trading." This strategy involves buying options and then trading the underlying stock to keep the overall position balanced. As the expiration date gets closer, the value of the option can change a lot. Traders use this to their advantage by making small trades in the stock to make money from these changes. It's a bit like riding a wave; as the option's value goes up and down, the trader adjusts their position to stay on top of the wave.
 
 Another strategy is called "calendar spread." This involves buying an option with a longer expiration date and selling an option with a shorter expiration date, both on the same stock and at the same strike price. The idea is to make money from the difference in how fast the two options lose value as time goes on. As the shorter-term option gets closer to its expiration date, its value might drop faster than the longer-term option. Traders can then close out the position before the shorter-term option expires, hoping to make a profit from the difference in how the two options are affected by time.
 
@@ -105,7 +105,7 @@ $$
 
 As expiration looms, the time value approaches zero, making intrinsic value the primary component of the option's price.
 
-Moneyness is another key factor affected by expiration. It classifies options into in-the-money (ITM), at-the-money (ATM), and out-of-the-money (OTM). At expiration, ITM options, where the intrinsic value is greater than zero, are typically exercised. Conversely, OTM and ATM options, having no intrinsic value, expire worthless. 
+Moneyness is another key [factor](/wiki/factor-investing) affected by expiration. It classifies options into in-the-money (ITM), at-the-money (ATM), and out-of-the-money (OTM). At expiration, ITM options, where the intrinsic value is greater than zero, are typically exercised. Conversely, OTM and ATM options, having no intrinsic value, expire worthless. 
 
 Understanding these valuation principles is imperative for anticipating potential outcomes in options trading. For instance, an option highly OTM with little time remaining is likely to expire worthless unless the underlying asset's price changes dramatically. Thus, analyzing intrinsic value, time decay, and moneyness enables traders to project profit/loss scenarios effectively, optimizing their strategies accordingly.
 

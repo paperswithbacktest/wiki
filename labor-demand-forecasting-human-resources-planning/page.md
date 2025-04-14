@@ -78,7 +78,7 @@ Updating labor demand forecasts is also really important. As things change, like
 
 ## How can machine learning and AI enhance the accuracy of labor demand forecasting?
 
-Machine learning and AI can make labor demand forecasting a lot better by looking at a lot of data really fast. These smart computer programs can find patterns and trends that people might miss. For example, they can look at things like sales numbers, how the economy is doing, and even the weather to guess how many workers a business will need. By using all this information, machine learning and AI can make more accurate predictions than just looking at past data. This helps businesses plan better and be ready for changes.
+Machine learning and AI can make labor demand forecasting a lot better by looking at a lot of data really fast. These smart computer programs can find patterns and trends that people might miss. For example, they can look at things like sales numbers, how the economy is doing, and even the weather to guess how many workers a business will need. By using all this information, [machine learning](/wiki/machine-learning) and AI can make more accurate predictions than just looking at past data. This helps businesses plan better and be ready for changes.
 
 Also, machine learning and AI can keep learning and getting better over time. As they get more data, they can update their guesses to be even more accurate. This means that the more a business uses these tools, the better their labor demand forecasts will become. By using machine learning and AI, companies can save time and money, and make sure they have the right number of workers to meet their needs.
 

@@ -18,7 +18,7 @@ It's important because it helps people make smarter choices about where to put t
 
 There are two main types of stock analysis: fundamental analysis and technical analysis. Fundamental analysis looks at the actual business of a company. It involves studying things like the company's earnings, expenses, assets, and the overall health of the industry it's in. People who use fundamental analysis want to understand if a company is a good investment based on its financial performance and future growth potential.
 
-Technical analysis, on the other hand, focuses on the stock's price movements and trading volume. Instead of looking at the company's financials, technical analysts study charts and patterns to predict future price changes. They believe that all the information about a company is already reflected in its stock price, so they try to find patterns that can help them guess where the price is going next.
+Technical analysis, on the other hand, focuses on the stock's price movements and trading [volume](/wiki/volume-trading-strategy). Instead of looking at the company's financials, technical analysts study charts and patterns to predict future price changes. They believe that all the information about a company is already reflected in its stock price, so they try to find patterns that can help them guess where the price is going next.
 
 Both types of analysis have their fans, and many investors use a mix of both to make their decisions. Fundamental analysis helps you understand the value of a company, while technical analysis can help you time your buying and selling better. By using both, you can get a fuller picture of whether a stock is a good investment.
 
@@ -32,7 +32,7 @@ To get started, pick a few companies you're curious about and try both types of 
 
 ## What are fundamental analysis and technical analysis?
 
-Fundamental analysis is when you look at a company's actual business to decide if its stock is a good investment. You check things like how much money the company makes, how much it spends, and if it's growing. You can find this information in the company's financial reports, which are usually available online. It's also important to read news about the company and the industry it's in to understand what might affect its future. People who use fundamental analysis want to know if a company is a good investment based on its financial health and potential for growth.
+Fundamental analysis is when you look at a company's actual business to decide if its stock is a good investment. You check things like how much money the company makes, how much it spends, and if it's growing. You can find this information in the company's financial reports, which are usually available online. It's also important to read news about the company and the industry it's in to understand what might affect its future. People who use [fundamental analysis](/wiki/fundamental-analysis) want to know if a company is a good investment based on its financial health and potential for growth.
 
 Technical analysis is different because it focuses on the stock's price movements and trading volume. Instead of looking at the company's financials, technical analysts study charts and patterns to predict where the stock price might go next. They believe that all the information about a company is already reflected in its stock price, so they try to find patterns that can help them guess future price changes. Technical analysis is all about using tools and software to analyze these charts, and many of these tools are free to use.
 

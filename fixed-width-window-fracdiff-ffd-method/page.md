@@ -68,7 +68,7 @@ Another pitfall is that the FFD method can sometimes make the data too smooth. W
 
 The FFD method can be used with other time series forecasting models to make predictions better. First, you use the FFD method to make the data smoother and more predictable. This helps other models see patterns more clearly. For example, after using the FFD method, you could use a model like ARIMA (which stands for AutoRegressive Integrated Moving Average) to make predictions. The FFD method helps by making the data more stable, so ARIMA can work better with it.
 
-Another way to use the FFD method with other models is by using it as a pre-processing step. This means you change the data with the FFD method before you put it into another model. For instance, you could use the FFD method to make the data more predictable, and then use a machine learning model like a neural network to make forecasts. By smoothing out the data first, the neural network can find patterns more easily and make better predictions. This combination can be very powerful for making accurate forecasts.
+Another way to use the FFD method with other models is by using it as a pre-processing step. This means you change the data with the FFD method before you put it into another model. For instance, you could use the FFD method to make the data more predictable, and then use a [machine learning](/wiki/machine-learning) model like a [neural network](/wiki/neural-network) to make forecasts. By smoothing out the data first, the neural network can find patterns more easily and make better predictions. This combination can be very powerful for making accurate forecasts.
 
 ## What are some advanced techniques for optimizing the performance of the FFD method?
 

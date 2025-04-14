@@ -92,7 +92,7 @@ where $C_t$ represents cash flows at time $t$ and $y$ is the yield. Convexity, o
 
 For stocks, sensitivity analysis might involve evaluating how changes in price impact earnings or stock valuations. This might include examining the Price-to-Earnings (P/E) ratio sensitivity to variations in earnings or market conditions. For instance, a company's stock valuation might fluctuate based on expected earnings growth, changes in sectoral trends, or broader economic indicators.
 
-Algorithmic trading strategies often incorporate sensitivity analysis by simulating various scenarios to observe potential outcomes. For example, a trading algorithm could apply perturbations to input parameters, such as volatility estimates or trading frequency, to test the resilience of strategies under different market conditions. Consider a simple Python script for sensitivity analysis of a hypothetical strategy parameter:
+Algorithmic trading strategies often incorporate sensitivity analysis by simulating various scenarios to observe potential outcomes. For example, a trading algorithm could apply perturbations to input parameters, such as [volatility](/wiki/volatility-trading-strategies) estimates or trading frequency, to test the resilience of strategies under different market conditions. Consider a simple Python script for sensitivity analysis of a hypothetical strategy parameter:
 
 ```python
 import numpy as np

@@ -82,9 +82,9 @@ Another useful model is the Keynesian model, which focuses on how spending by co
 
 ## How can one prepare for economic challenges?
 
-Preparing for economic challenges involves adopting strategies that enable individuals and businesses to withstand financial turbulence. Economic downturns, marked by reduced market confidence and declining financial metrics, necessitate a proactive approach. Key strategies include diversification, maintaining [liquidity](/wiki/liquidity-risk-premium), and employing algorithmic trading, which can collectively bolster resilience.
+Preparing for economic challenges involves adopting strategies that enable individuals and businesses to withstand financial turbulence. Economic downturns, marked by reduced market confidence and declining financial metrics, necessitate a proactive approach. Key strategies include diversification, maintaining [liquidity](/wiki/liquidity-risk-premium), and employing [algorithmic trading](/wiki/algorithmic-trading), which can collectively bolster resilience.
 
-Diversification involves spreading investments across different asset classes, industries, or geographical markets to reduce risk. The principle of diversification is rooted in the concept that a varied portfolio is less likely to be severely impacted by market volatility in any single sector. For instance, during an economic downturn affecting the technology sector, investments in more stable sectors like utilities or consumer staples might provide balance and mitigate overall portfolio losses. Mathematically, diversification can be viewed in the context of portfolio variance, which is calculated as:
+Diversification involves spreading investments across different asset classes, industries, or geographical markets to reduce risk. The principle of diversification is rooted in the concept that a varied portfolio is less likely to be severely impacted by market [volatility](/wiki/volatility-trading-strategies) in any single sector. For instance, during an economic downturn affecting the technology sector, investments in more stable sectors like utilities or consumer staples might provide balance and mitigate overall portfolio losses. Mathematically, diversification can be viewed in the context of portfolio variance, which is calculated as:
 
 $$
 

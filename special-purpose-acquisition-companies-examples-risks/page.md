@@ -76,7 +76,7 @@ Another set of numbers to look at are related to the target company the SPAC wan
 
 ## What are the long-term performance trends of SPACs compared to the broader market?
 
-When you look at how SPACs do over a long time, they can be a bit of a mixed bag. Some SPACs do really well and make a lot of money for investors, especially if they pick a good company to buy. But on average, SPACs don't always do as well as the broader market, like the S&P 500. This is because picking a good company to buy is hard, and sometimes the companies SPACs buy don't do as well as expected. So, while some SPACs can be big winners, many of them end up doing worse than the market as a whole.
+When you look at how SPACs do over a long time, they can be a bit of a mixed bag. Some SPACs do really well and make a lot of money for investors, especially if they pick a good company to buy. But on average, SPACs don't always do as well as the broader market, like the S&P 500. This is because [picking](/wiki/asset-class-picking) a good company to buy is hard, and sometimes the companies SPACs buy don't do as well as expected. So, while some SPACs can be big winners, many of them end up doing worse than the market as a whole.
 
 One reason SPACs might not do as well over time is because of the costs involved. When a SPAC goes public and then buys a company, there are a lot of fees and costs that can eat into the money investors make. Also, the people who start the SPAC, called sponsors, get a big chunk of shares for free, which can make it harder for other investors to make money. So, while SPACs can be exciting and offer big potential rewards, they also come with more risks and costs than just investing in the broader market.
 

@@ -174,7 +174,7 @@ Understanding these components, assumptions, and limitations allows traders and 
 
 ## How can one achieve integration with algorithmic trading?
 
-The Black-Scholes model plays a significant role in algorithmic trading strategies by providing a mathematical framework for options pricing. In algorithmic trading, this model assists traders in making swift, data-driven decisions and managing risks inherent in financial markets.
+The Black-Scholes model plays a significant role in [algorithmic trading](/wiki/algorithmic-trading) strategies by providing a mathematical framework for options pricing. In algorithmic trading, this model assists traders in making swift, data-driven decisions and managing risks inherent in financial markets.
 
 Primarily, the Black-Scholes model aids in determining the theoretical value of options. The formula incorporates variables like the stock price ($S$), strike price ($K$), time to expiration ($T$), risk-free [interest rate](/wiki/interest-rate-trading-strategies) ($r$), and volatility ($\sigma$). These inputs are pivotal in algorithms that automatically execute trades based on predefined conditions. The Black-Scholes formula, defined as:
 

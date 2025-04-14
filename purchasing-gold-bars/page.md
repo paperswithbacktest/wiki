@@ -64,7 +64,7 @@ Another way to make sure a gold bar is real is to look at the stamp on the bar. 
 
 ## What are the risks associated with investing in gold bars?
 
-Investing in gold bars can have some risks. One big risk is that the price of gold can go up and down a lot. If you need to sell your gold bars when the price is low, you might lose money. Another risk is that gold bars don't give you any income, like interest or dividends. So, if you keep your money in gold bars, it's not earning anything while you wait for the price to go up. Also, if you store gold bars at home, there's a risk of theft or damage. You need to keep them in a safe place, which can cost money.
+Investing in gold bars can have some risks. One big risk is that the price of gold can go up and down a lot. If you need to sell your gold bars when the price is low, you might lose money. Another risk is that gold bars don't give you any income, like interest or dividends. So, if you keep your money in gold bars, it's not [earning](/wiki/earning-announcement) anything while you wait for the price to go up. Also, if you store gold bars at home, there's a risk of theft or damage. You need to keep them in a safe place, which can cost money.
 
 Another thing to think about is that gold bars can be hard to sell quickly. If you need money fast, it might take time to find someone who wants to buy your gold bars. This can be a problem if you need cash right away. Also, if you buy gold bars from a place that's not trusted, there's a risk that the gold might not be real. You need to be careful and make sure you're buying from a good dealer. All these risks mean that investing in gold bars is not always easy and you need to think carefully before you decide to do it.
 

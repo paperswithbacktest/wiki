@@ -70,7 +70,7 @@ The closer you get to the expiration date, the faster time decay happens. This i
 
 ## What are the tax implications of trading Bear Put Spreads?
 
-When you trade Bear Put Spreads, you need to think about taxes. The money you make or lose from trading options is usually treated as capital gains or losses. If you hold the options for less than a year, any profit you make is a short-term capital gain, which is taxed at your regular income tax rate. If you lose money, you can use that loss to reduce your taxes. You can use up to $3,000 of your losses to lower your taxable income each year, and if you have more losses than that, you can carry them over to future years.
+When you trade Bear Put Spreads, you need to think about taxes. The money you make or lose from trading options is usually treated as capital gains or losses. If you hold the options for less than a year, any profit you make is a short-term capital gain, which is taxed at your regular income tax rate. If you lose money, you can use that loss to reduce your taxes. You can use up to $3,000 of your losses to lower your taxable income each year, and if you have more losses than that, you can [carry](/wiki/carry-trading) them over to future years.
 
 It's also important to keep good records of your trades. The IRS wants to see when you bought and sold the options, how much you paid, and how much you got when you sold them. This helps you figure out your gains and losses correctly. If you're not sure about how to report your trades on your taxes, it's a good idea to talk to a tax professional. They can help you make sure you're doing everything right and not missing out on any tax benefits.
 

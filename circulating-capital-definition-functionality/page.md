@@ -128,11 +128,11 @@ Ultimately, recognizing the differences between circulating capital and working 
 
 ## References & Further Reading
 
-Lopez de Prado, Marcos. *Advances in Financial Machine Learning*. This book is a significant resource for understanding the applications and innovations in financial machine learning. It provides insights into how machine learning techniques can be utilized to develop robust financial models. The discussions include practical implementations, tailored for a financial context, and the use of machine learning algorithms to optimize trading strategies.
+Lopez de Prado, Marcos. *Advances in Financial Machine Learning*. This book is a significant resource for understanding the applications and innovations in financial [machine learning](/wiki/machine-learning). It provides insights into how machine learning techniques can be utilized to develop robust financial models. The discussions include practical implementations, tailored for a financial context, and the use of machine learning algorithms to optimize trading strategies.
 
 Aronson, David. *Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals*. Aronson's work provides a thorough examination of technical analysis from a scientific perspective, utilizing statistical methods to substantiate trading signals. This text is essential for those looking to apply a rigorous analytical framework to evaluate the validity and profitability of trading strategies.
 
-Jansen, Stefan. *Machine Learning for Algorithmic Trading*. Jansen introduces the foundational principles and practical tools necessary for implementing algorithmic trading systems powered by machine learning. The book covers a broad spectrum of topics, including data gathering, model construction, [backtesting](/wiki/backtesting) strategies, and the automation of trading processes using Python.
+Jansen, Stefan. *Machine Learning for Algorithmic Trading*. Jansen introduces the foundational principles and practical tools necessary for implementing [algorithmic trading](/wiki/algorithmic-trading) systems powered by machine learning. The book covers a broad spectrum of topics, including data gathering, model construction, [backtesting](/wiki/backtesting) strategies, and the automation of trading processes using Python.
 
 Chan, Ernest P. *Quantitative Trading: How to Build Your Own Algorithmic Trading Business*. This resource serves as a guide for designing and running an algorithmic trading business. Chan provides actionable insights into the development and execution of algorithmic strategies, risk management, and infrastructure setup, making it invaluable for practitioners looking to establish or refine their trading businesses.
 

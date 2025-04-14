@@ -18,7 +18,7 @@ These options can be useful for investors who want to bet on or protect against 
 
 Yield-based options and traditional options both give you the right to buy or sell something, but they focus on different things. Traditional options are all about the price of the thing you're buying or selling, like a stock or a commodity. If the price goes up or down, the value of the option changes. For example, if you have an option to buy a stock, you care about whether the stock's price will be higher when you use the option.
 
-On the other hand, yield-based options care about the income the thing makes, not just its price. This could be the interest from a bond or the dividends from a stock. If the income goes up, the value of the yield-based option might go up too. So, if you have a yield-based option on a bond, you're more interested in whether the bond's interest rate will change than in the bond's price itself. This makes yield-based options useful for people who want to manage the risk of their income changing.
+On the other hand, yield-based options care about the income the thing makes, not just its price. This could be the interest from a bond or the dividends from a stock. If the income goes up, the value of the yield-based option might go up too. So, if you have a yield-based option on a bond, you're more interested in whether the bond's [interest rate](/wiki/interest-rate-trading-strategies) will change than in the bond's price itself. This makes yield-based options useful for people who want to manage the risk of their income changing.
 
 ## What are the main types of yield-based options?
 

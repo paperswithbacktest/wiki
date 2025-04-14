@@ -112,7 +112,7 @@ $$
 
 This equation highlights that all the constituents of the EAFE Index are part of the ACWI, with additional inclusion of equities from emerging markets.
 
-For investors and fund managers, these differences have practical implications. Portfolios benchmarked against the EAFE Index are often characterized by lower volatility relative to the global market spectrum offered by the ACWI. However, they may miss out on the higher returns potentially achievable by tapping into emerging markets. The choice between these indices is often informed by the investor's risk tolerance, return expectations, and investment horizon.
+For investors and fund managers, these differences have practical implications. Portfolios benchmarked against the EAFE Index are often characterized by lower [volatility](/wiki/volatility-trading-strategies) relative to the global market spectrum offered by the ACWI. However, they may miss out on the higher returns potentially achievable by tapping into emerging markets. The choice between these indices is often informed by the investor's risk tolerance, return expectations, and investment horizon.
 
 In conclusion, while both the EAFE Index and ACWI serve as indispensable tools for evaluating international equity performance, their differing compositions and market exposures cater to varied investment objectives. The EAFE Index offers focused exposure to developed markets, while the ACWI provides a more balanced and inclusive global outlook by integrating emerging market opportunities.
 

@@ -46,7 +46,7 @@ To avoid the fee, you need to plan when you will take your money out. Look at th
 
 ## What are the alternatives to redemption fees for managing fund liquidity?
 
-One way to manage fund liquidity without redemption fees is to use a system called "swing pricing." This means the fund changes its price a bit when lots of people want to take their money out. By doing this, the fund can cover the costs of selling investments without charging a fee to the people taking their money out. This helps keep the fund stable and fair for everyone.
+One way to manage fund [liquidity](/wiki/liquidity-risk-premium) without redemption fees is to use a system called "swing pricing." This means the fund changes its price a bit when lots of people want to take their money out. By doing this, the fund can cover the costs of selling investments without charging a fee to the people taking their money out. This helps keep the fund stable and fair for everyone.
 
 Another way is to have a "lock-up period." This means investors have to keep their money in the fund for a certain time before they can take it out. This stops people from taking their money out too soon and helps the fund stay stable. It's like a waiting period that gives the fund time to manage its money better.
 

@@ -34,7 +34,7 @@ In the early 1970s, Thomas began working at a small brokerage firm. He used his 
 
 ## What is Thomas Peterffy's most notable achievement?
 
-Thomas Peterffy's most notable achievement is founding Interactive Brokers. This company helps people all over the world buy and sell stocks easily using the internet. Before Interactive Brokers, trading stocks was hard and only for rich people. Thomas made it simple and open to everyone. His company grew big and successful, making him one of the richest people in the world.
+Thomas Peterffy's most notable achievement is founding [Interactive Brokers](/wiki/interactive-brokers-api). This company helps people all over the world buy and sell stocks easily using the internet. Before Interactive Brokers, trading stocks was hard and only for rich people. Thomas made it simple and open to everyone. His company grew big and successful, making him one of the richest people in the world.
 
 Another important achievement of Thomas Peterffy is how he used computers to change trading. He was one of the first to use computers to trade stocks and options. This made trading faster and more accurate. His ideas and hard work helped make the stock market better for everyone.
 

@@ -34,7 +34,7 @@ For example, if you have an option with a notional value of $10,000 and a Delta 
 
 ## How do you calculate the Delta of an option?
 
-Delta is calculated using a mathematical model called the Black-Scholes model. This model takes into account several factors like the current price of the stock, the strike price of the option, the time until the option expires, the expected volatility of the stock, and the risk-free interest rate. By plugging these numbers into the Black-Scholes formula, you can find the Delta of an option. For call options, Delta is usually between 0 and 1, and for put options, it's usually between -1 and 0.
+Delta is calculated using a mathematical model called the Black-Scholes model. This model takes into account several factors like the current price of the stock, the strike price of the option, the time until the option expires, the expected [volatility](/wiki/volatility-trading-strategies) of the stock, and the risk-free [interest rate](/wiki/interest-rate-trading-strategies). By plugging these numbers into the Black-Scholes formula, you can find the Delta of an option. For call options, Delta is usually between 0 and 1, and for put options, it's usually between -1 and 0.
 
 The Delta of an option changes as the price of the stock changes. This means you need to keep recalculating it to stay up to date. If the stock price goes up, the Delta of a call option will get closer to 1, and the Delta of a put option will get closer to 0. If the stock price goes down, the Delta of a call option will get closer to 0, and the Delta of a put option will get closer to -1. This dynamic nature of Delta is why traders often use it to adjust their strategies and manage risk in real-time.
 

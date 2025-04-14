@@ -22,7 +22,7 @@ Filing this form helps keep investors informed about any changes to the securiti
 
 ## What is the purpose of filing SEC Form 305B2?
 
-The main reason for filing SEC Form 305B2 is to tell investors about changes to the terms of debt securities like bonds or notes. When a company wants to change things like the interest rate or when the security matures, they need to let everyone know by filing this form. This keeps investors informed and helps them understand what's happening with their investments.
+The main reason for filing SEC Form 305B2 is to tell investors about changes to the terms of debt securities like bonds or notes. When a company wants to change things like the [interest rate](/wiki/interest-rate-trading-strategies) or when the security matures, they need to let everyone know by filing this form. This keeps investors informed and helps them understand what's happening with their investments.
 
 Filing this form is important because it makes the market fair and open. When companies report changes, it builds trust with investors. This transparency is key for keeping the financial markets running smoothly and ensuring everyone has the same information.
 

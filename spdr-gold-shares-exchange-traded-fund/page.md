@@ -22,7 +22,7 @@ The fund is managed so that it always reflects the current market price of gold.
 
 ## What are the benefits of investing in the SPDR Gold Shares ETF?
 
-Investing in the SPDR Gold Shares ETF, or GLD, has several benefits. One big advantage is that it's easy to buy and sell. You don't need to go to a special store or worry about storing gold safely at home. You can just buy or sell shares of GLD through your regular stock trading account, which makes it very convenient. Also, because GLD trades like a stock, you can buy or sell it whenever the stock market is open, which gives you more flexibility compared to buying physical gold.
+Investing in the SPDR Gold Shares [ETF](/wiki/etf-trading-strategies), or GLD, has several benefits. One big advantage is that it's easy to buy and sell. You don't need to go to a special store or worry about storing gold safely at home. You can just buy or sell shares of GLD through your regular stock trading account, which makes it very convenient. Also, because GLD trades like a stock, you can buy or sell it whenever the stock market is open, which gives you more flexibility compared to buying physical gold.
 
 Another benefit is that GLD closely follows the price of gold. This means if you believe gold will go up in value, you can invest in GLD and your shares should increase in value too. It's a straightforward way to add gold to your investment mix without the hassle of dealing with the physical metal. Plus, GLD is very clear about what it holds – it tells you exactly how much gold it has, so you know what you're investing in.
 

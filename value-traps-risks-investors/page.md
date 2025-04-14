@@ -40,7 +40,7 @@ The key difference is in the company's health and future potential. A value trap
 
 One big reason investors fall into value traps is because they see a low price and think it's a good deal. It's like seeing a sale sign and buying something without checking if it's really worth it. Investors might get excited about buying a stock at a low price, hoping it will go up quickly. But they don't always look at why the price is low. They might not see the big problems the company has, like losing money or having too much debt. This can lead them to make a bad investment.
 
-Another psychological factor is the fear of missing out, or FOMO. When investors see others making money from stocks, they might rush to buy without doing enough research. They might think, "If everyone else is buying this cheap stock, it must be a good idea." But this can make them ignore the warning signs of a value trap. It's important for investors to take their time and really understand a company before buying its stock, even if it seems like a great deal at first glance.
+Another psychological [factor](/wiki/factor-investing) is the fear of missing out, or FOMO. When investors see others making money from stocks, they might rush to buy without doing enough research. They might think, "If everyone else is buying this cheap stock, it must be a good idea." But this can make them ignore the warning signs of a value trap. It's important for investors to take their time and really understand a company before buying its stock, even if it seems like a great deal at first glance.
 
 ## How does financial analysis help in avoiding value traps?
 

@@ -40,7 +40,7 @@ In these situations, traders might see the price of a stock go up a lot in a sho
 
 ## How does the Trade-Or-Fade Rule impact market liquidity?
 
-The Trade-Or-Fade Rule can impact market liquidity by influencing how often traders buy and sell stocks. When a stock's price changes a lot very quickly, some traders might decide to trade right away. This can lead to more trading activity and increase the number of stocks being bought and sold, which can make the market more liquid. More trading means there are more buyers and sellers in the market, making it easier for others to trade as well.
+The Trade-Or-Fade Rule can impact market [liquidity](/wiki/liquidity-risk-premium) by influencing how often traders buy and sell stocks. When a stock's price changes a lot very quickly, some traders might decide to trade right away. This can lead to more trading activity and increase the number of stocks being bought and sold, which can make the market more liquid. More trading means there are more buyers and sellers in the market, making it easier for others to trade as well.
 
 On the other hand, if many traders decide to wait for the price to go back to normal before trading, it can lead to less trading activity. This means fewer stocks are being bought and sold, which can make the market less liquid. When traders wait, there are fewer people actively trading, which can make it harder for others to find someone to buy from or sell to. So, the Trade-Or-Fade Rule can affect market liquidity in different ways, depending on what traders decide to do.
 

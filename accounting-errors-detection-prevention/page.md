@@ -52,7 +52,7 @@ Another way internal controls help is by setting up clear rules for how to do th
 
 ## What role does reconciliation play in detecting accounting errors?
 
-Reconciliation is like matching up two sets of records to see if they agree. It's a big help in finding accounting errors because it lets you compare what you have in your books with what's in your bank statements or other records. If the numbers don't match, you know there's a mistake somewhere. For example, if your records say you spent $100 but your bank statement shows $120, you can look closer to find out why they're different. Maybe you forgot to write down a transaction, or maybe you wrote down the wrong amount.
+Reconciliation is like matching up two sets of records to see if they agree. It's a big help in finding accounting errors because it lets you compare what you have in your [books](/wiki/algo-trading-books) with what's in your bank statements or other records. If the numbers don't match, you know there's a mistake somewhere. For example, if your records say you spent $100 but your bank statement shows $120, you can look closer to find out why they're different. Maybe you forgot to write down a transaction, or maybe you wrote down the wrong amount.
 
 By doing reconciliation regularly, you can catch errors early before they cause bigger problems. It's like a safety check that helps keep your financial records accurate. When you find a mistake, you can fix it right away, which makes your records more reliable. This is important because it helps you make good decisions about your business and keeps you out of trouble with taxes and other legal stuff. So, reconciliation is a key part of making sure your accounting is done right.
 

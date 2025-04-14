@@ -18,7 +18,7 @@ The main reason issuers like to have callable bonds is to take advantage of fall
 
 A European Callable Bond is different from a regular bond because it can be called back by the issuer before it reaches its maturity date. With a regular bond, the issuer has to wait until the bond matures to pay back the money. But with a European Callable Bond, the issuer can choose to pay it back early, but only on a specific date that is set when the bond is first issued.
 
-This early redemption feature is useful for the issuer if interest rates go down after the bond is issued. They can call back the bond and issue new ones at a lower interest rate, which saves them money. For investors, this means there's a risk that they might not get all the interest they were expecting if the bond is called early. To make up for this risk, European Callable Bonds usually offer a higher interest rate than regular bonds.
+This early redemption feature is useful for the issuer if interest rates go down after the bond is issued. They can call back the bond and issue new ones at a lower [interest rate](/wiki/interest-rate-trading-strategies), which saves them money. For investors, this means there's a risk that they might not get all the interest they were expecting if the bond is called early. To make up for this risk, European Callable Bonds usually offer a higher interest rate than regular bonds.
 
 ## What are the key features of a European Callable Bond?
 
@@ -70,9 +70,9 @@ Another strategy is to think about the bond's yield compared to its risk. Becaus
 
 ## How do market conditions influence the decision to call a European Callable Bond?
 
-Market conditions, especially changes in interest rates, are a big factor in deciding whether to call a European Callable Bond. If interest rates go down after the bond is issued, the issuer might want to call back the bond. This is because they can then issue new bonds at the lower interest rate, which saves them money on interest payments. So, if the market shows that interest rates are going to drop, the issuer is more likely to use the call option on the bond.
+Market conditions, especially changes in interest rates, are a big [factor](/wiki/factor-investing) in deciding whether to call a European Callable Bond. If interest rates go down after the bond is issued, the issuer might want to call back the bond. This is because they can then issue new bonds at the lower interest rate, which saves them money on interest payments. So, if the market shows that interest rates are going to drop, the issuer is more likely to use the call option on the bond.
 
-On the other hand, if interest rates stay the same or go up, the issuer is less likely to call the bond. Keeping the bond means they continue to pay the higher interest rate that was set when the bond was issued. This might not be ideal for the issuer, but it's good for investors who get to keep earning the higher interest. So, the decision to call a European Callable Bond really depends a lot on what's happening with interest rates in the market.
+On the other hand, if interest rates stay the same or go up, the issuer is less likely to call the bond. Keeping the bond means they continue to pay the higher interest rate that was set when the bond was issued. This might not be ideal for the issuer, but it's good for investors who get to keep [earning](/wiki/earning-announcement) the higher interest. So, the decision to call a European Callable Bond really depends a lot on what's happening with interest rates in the market.
 
 ## What are the tax implications for investors holding European Callable Bonds?
 

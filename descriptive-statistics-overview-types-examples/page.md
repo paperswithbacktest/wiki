@@ -18,7 +18,7 @@ Descriptive statistics are useful in many fields, such as business, healthcare, 
 
 ## Why is descriptive statistics important in data analysis?
 
-Descriptive statistics is important in data analysis because it helps to make sense of large amounts of data. It gives a quick summary of the data, showing things like the average, the middle value, and how spread out the numbers are. This makes it easier for people to understand what the data is saying without having to look at every single number. For example, if you have test scores from a whole school, descriptive statistics can tell you the average score, which can help you see how the school is doing overall.
+Descriptive [statistics](/wiki/bayesian-statistics) is important in data analysis because it helps to make sense of large amounts of data. It gives a quick summary of the data, showing things like the average, the middle value, and how spread out the numbers are. This makes it easier for people to understand what the data is saying without having to look at every single number. For example, if you have test scores from a whole school, descriptive statistics can tell you the average score, which can help you see how the school is doing overall.
 
 Another reason descriptive statistics is important is that it helps people make better decisions. By looking at the summary of the data, people can see patterns and trends that might not be obvious when looking at all the numbers. This can be useful in many areas, like business, where a company might use descriptive statistics to understand customer behavior, or in healthcare, where doctors might use it to see how patients are responding to a treatment. By using descriptive statistics, people can get a clear picture of their data and use that information to make smarter choices.
 
@@ -88,7 +88,7 @@ In a business, descriptive statistics help companies understand their customers 
 
 ## What are the statistical methods used in data analysis?
 
-Statistical analysis in the context of algorithmic trading encompasses both descriptive and inferential methods, each serving a distinct purpose. Descriptive statistics primarily aim to summarize large datasets to extract meaningful insights without making predictions. Through tools such as measures of central tendency—mean, median, and mode—traders can understand the typical values or trends within a dataset. For example, the mean (average) provides an aggregate value, while the median indicates the middle point in a dataset, offering insights less skewed by outliers.
+Statistical analysis in the context of [algorithmic trading](/wiki/algorithmic-trading) encompasses both descriptive and inferential methods, each serving a distinct purpose. Descriptive statistics primarily aim to summarize large datasets to extract meaningful insights without making predictions. Through tools such as measures of central tendency—mean, median, and mode—traders can understand the typical values or trends within a dataset. For example, the mean (average) provides an aggregate value, while the median indicates the middle point in a dataset, offering insights less skewed by outliers.
 
 Variability measures such as variance and standard deviation further enrich this analysis by providing insight into the spread or [dispersion](/wiki/dispersion-trading) of data points. Variance ($\sigma^2$) is calculated using:
 

@@ -82,7 +82,7 @@ Some countries have rules about what counts as work and what doesn't. If you're 
 
 Time banking can work together with other ways people earn and spend money. For example, some businesses might let you use time credits for small services or goods. This means you could use your time credits at a local shop to get something you need, like a haircut or a small item. This helps people save money and makes the time bank more useful. It also helps businesses get more customers and support the community.
 
-Another way time banking can mix with other economic systems is by working with government programs. Some places might let you use time credits for things like public transport or community classes. This can make life easier for people who don't have a lot of money. It also helps make the community stronger because everyone is helping each other out. By mixing time banking with other ways of earning and spending, it can help more people and make the economy better for everyone.
+Another way time banking can mix with other economic systems is by working with government programs. Some places might let you use time credits for things like public transport or community classes. This can make life easier for people who don't have a lot of money. It also helps make the community stronger because everyone is helping each other out. By mixing time banking with other ways of [earning](/wiki/earning-announcement) and spending, it can help more people and make the economy better for everyone.
 
 ## References & Further Reading
 

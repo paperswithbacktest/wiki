@@ -36,7 +36,7 @@ However, performance can vary based on individual risk tolerance and market cond
 
 To start using Wealthfront's robo-advisor, you need to have at least $500. This is the minimum amount of money you need to open an investment account with them. Once you have that amount, you can set up your account and let Wealthfront manage your investments for you.
 
-For their cash account, there is no minimum amount required. You can open a cash account with any amount of money and start earning interest right away. This makes it easy for anyone to start saving with Wealthfront, no matter how much money they have.
+For their cash account, there is no minimum amount required. You can open a cash account with any amount of money and start [earning](/wiki/earning-announcement) interest right away. This makes it easy for anyone to start saving with Wealthfront, no matter how much money they have.
 
 ## How does Wealthfront handle tax-loss harvesting?
 
@@ -46,7 +46,7 @@ They do this automatically, so you don't have to think about it. Wealthfront's c
 
 ## What are the security measures in place at Wealthfront to protect user data and investments?
 
-Wealthfront takes keeping your money and information safe very seriously. They use strong encryption to protect your data when it's moving around on the internet. This means your information is turned into a secret code that only Wealthfront can understand. They also have something called two-factor authentication, which means you need more than just a password to get into your account. This makes it much harder for someone else to get in, even if they know your password.
+Wealthfront takes keeping your money and information safe very seriously. They use strong encryption to protect your data when it's moving around on the internet. This means your information is turned into a secret code that only Wealthfront can understand. They also have something called two-[factor](/wiki/factor-investing) authentication, which means you need more than just a password to get into your account. This makes it much harder for someone else to get in, even if they know your password.
 
 Wealthfront also keeps your money safe by working with big banks that are insured by the FDIC. This means if something goes wrong with the bank, your money is still protected up to a certain amount. They also have a team that watches for anything strange or suspicious all the time. If they see something that doesn't look right, they can stop it before it becomes a problem. This way, you can feel safe knowing Wealthfront is always looking out for your money and information.
 

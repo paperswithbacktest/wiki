@@ -24,9 +24,9 @@ Another reason to manage portfolio risk is to help you sleep better at night. If
 
 There are different types of risks that can affect your portfolio. One type is market risk, which is the risk that the whole market might go down and take your investments with it. This can happen because of things like economic downturns or big events in the world. Another type is credit risk, which is the chance that a company or government you've lent money to (by buying their bonds) might not be able to pay you back. This can happen if the company or government has money problems.
 
-Another risk is interest rate risk, which is when the value of bonds in your portfolio goes down because interest rates go up. This happens because new bonds with higher interest rates become more attractive, making the older bonds you own less valuable. There's also inflation risk, which is the risk that the money you get back from your investments won't be worth as much because prices for things have gone up. This can eat away at the buying power of your money over time.
+Another risk is [interest rate](/wiki/interest-rate-trading-strategies) risk, which is when the value of bonds in your portfolio goes down because interest rates go up. This happens because new bonds with higher interest rates become more attractive, making the older bonds you own less valuable. There's also inflation risk, which is the risk that the money you get back from your investments won't be worth as much because prices for things have gone up. This can eat away at the buying power of your money over time.
 
-Lastly, there's liquidity risk, which is the risk that you might not be able to sell your investments quickly enough or at a good price when you need to. This can be a problem if you need money fast and your investments are hard to sell. Each of these risks can affect your portfolio in different ways, so it's important to understand them and try to manage them to keep your investments safe.
+Lastly, there's [liquidity](/wiki/liquidity-risk-premium) risk, which is the risk that you might not be able to sell your investments quickly enough or at a good price when you need to. This can be a problem if you need money fast and your investments are hard to sell. Each of these risks can affect your portfolio in different ways, so it's important to understand them and try to manage them to keep your investments safe.
 
 ## How can diversification help in managing portfolio risk?
 
@@ -88,7 +88,7 @@ To help manage these risks, you can use a few different strategies. One way is t
 
 ## What is the Role of Value at Risk (VaR) in Managing Portfolio Risk?
 
-Value at Risk (VaR) is a statistical measure used to assess the potential loss in value of a financial portfolio over a preset time frame at a given confidence interval. In algorithmic trading, VaR serves as a critical tool for quantifying potential losses and enabling traders to evaluate the risks embedded within their trading strategies.
+Value at Risk (VaR) is a statistical measure used to assess the potential loss in value of a financial portfolio over a preset time frame at a given confidence interval. In [algorithmic trading](/wiki/algorithmic-trading), VaR serves as a critical tool for quantifying potential losses and enabling traders to evaluate the risks embedded within their trading strategies.
 
 The core principle of VaR is to provide an estimate of the worst expected loss under normal market conditions over a specific time period, usually expressed as a percentage of the total value of the portfolio. For instance, a 1-day VaR of 5% at a 95% confidence level implies there is a 5% chance that the portfolio may lose more than this percentage in a single day.
 

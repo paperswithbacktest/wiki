@@ -88,11 +88,11 @@ But, Nasdaq will face some challenges as they try to grow. One big challenge is 
 
 ## What are the popular algorithmic trading strategies on Nasdaq?
 
-Trend-following strategies capitalize on the [momentum](/wiki/momentum) observed in stock prices, making them particularly effective in the high-volume environment of the Nasdaq. These strategies typically exploit the persistence of stock price movement by identifying a trend in a particular direction, whether upward or downward, and following it with automated trades. This approach reduces the impact of minor fluctuations, aiming instead to capture gains from sustained movement in stock prices.
+Trend-following strategies capitalize on the [momentum](/wiki/momentum) observed in stock prices, making them particularly effective in the high-[volume](/wiki/volume-trading-strategy) environment of the Nasdaq. These strategies typically exploit the persistence of stock price movement by identifying a trend in a particular direction, whether upward or downward, and following it with automated trades. This approach reduces the impact of minor fluctuations, aiming instead to capture gains from sustained movement in stock prices.
 
 Arbitrage opportunities are abundant with Nasdaq's extensive listings, including dual-listed stocks traded on multiple global exchanges. Algorithmic trading identifies price discrepancies between these listings, allowing traders to buy low on one exchange and sell high on another, thereby profiting from the price difference. This requires rapid execution and high-frequency trading capabilities to effectively capture the fleeting profit margins before prices converge.
 
-Index fund rebalancing strategies are another vital algorithmic trading framework on Nasdaq. These strategies revolve around exploiting trades predicted during the periodic rebalancing of index funds, whereby certain stocks' weights in the index are adjusted based on predetermined criteria. Algorithms predict these adjustments, positioning trades in anticipation of subsequent market movements, either by acquiring undervalued stocks poised for increased index weight or selling stocks likely to be downgraded.
+Index fund rebalancing strategies are another vital [algorithmic trading](/wiki/algorithmic-trading) framework on Nasdaq. These strategies revolve around exploiting trades predicted during the periodic rebalancing of index funds, whereby certain stocks' weights in the index are adjusted based on predetermined criteria. Algorithms predict these adjustments, positioning trades in anticipation of subsequent market movements, either by acquiring undervalued stocks poised for increased index weight or selling stocks likely to be downgraded.
 
 Volume-weighted average price (VWAP) and time-weighted average price (TWAP) are strategies designed to execute large orders efficiently within Nasdaq's liquid market. VWAP calculates a stock's average price, weighted by volume, over a specific period. Traders using VWAP seek to buy below and sell above this average, ensuring minimal market impact and better execution quality. The VWAP formula is:
 
@@ -102,7 +102,7 @@ $$
 
 TWAP, on the other hand, divides large trades into smaller chunks executed over a set duration. This technique averages the execution price over time, reducing the potential for market disruption. It is especially advantageous in ensuring that an order is filled evenly throughout a trading session without impacting the stock's price significantly.
 
-These algorithmic trading strategies exemplify the innovation and adaptability intrinsic to trading on the Nasdaq, showcasing the exchange's capability to support a broad spectrum of sophisticated trading methods. Through leveraging Nasdaq's advanced technology and liquidity, traders and investors can optimize their trading strategies to achieve superior execution and returns.
+These algorithmic trading strategies exemplify the innovation and adaptability intrinsic to trading on the Nasdaq, showcasing the exchange's capability to support a broad spectrum of sophisticated trading methods. Through leveraging Nasdaq's advanced technology and [liquidity](/wiki/liquidity-risk-premium), traders and investors can optimize their trading strategies to achieve superior execution and returns.
 
 ## References & Further Reading
 

@@ -42,7 +42,7 @@ Options are structured with a few key parts. First, there's the strike price, wh
 
 ## How do swaps function as derivatives and what types of swaps exist?
 
-Swaps are another kind of derivative where two people agree to exchange cash flows or other financial things over time. They are used to manage risk or to get a better deal on money. For example, a company might want to change a loan from one that has a changing interest rate to one with a fixed rate. They can do this by making a swap with another company that wants the opposite. This way, both companies can get what they want without changing their original loans.
+Swaps are another kind of derivative where two people agree to exchange cash flows or other financial things over time. They are used to manage risk or to get a better deal on money. For example, a company might want to change a loan from one that has a changing [interest rate](/wiki/interest-rate-trading-strategies) to one with a fixed rate. They can do this by making a swap with another company that wants the opposite. This way, both companies can get what they want without changing their original loans.
 
 There are different types of swaps, but the most common ones are interest rate swaps and currency swaps. Interest rate swaps are when two people exchange interest payments. One might pay a fixed rate while the other pays a changing rate. This helps them manage the risk of interest rates going up or down. Currency swaps are when two people exchange payments in different currencies. This can help companies that do business in different countries manage the risk of currency values changing. Both types of swaps help companies plan better and protect themselves from surprises in the market.
 
@@ -86,7 +86,7 @@ Another strategy is called a "spread," where you buy and sell different options 
 
 Hull, J. C. "Options, Futures, and Other Derivatives" 9th Edition. Pearson. This comprehensive text presents a foundational understanding of derivative instruments, elucidating the principles and applications of options, futures, and other derivatives. It serves as an essential guide for anyone looking to grasp the complexities of these financial instruments and their usage in risk management. Hull's work is often cited for its clarity in explaining the mechanics of the derivatives market and their valuation.
 
-Black, F., & Scholes, M. "The Pricing of Options and Corporate Liabilities." Journal of Political Economy. The seminal paper by Black and Scholes introduced the Black-Scholes model, a breakthrough in the pricing of options. This model provides a mathematical framework to determine the fair price of options, incorporating factors such as the underlying asset's price, the option's strike price, time to expiration, risk-free interest rate, and the asset's volatility. The formula introduced is:
+Black, F., & Scholes, M. "The Pricing of Options and Corporate Liabilities." Journal of Political Economy. The seminal paper by Black and Scholes introduced the Black-Scholes model, a breakthrough in the pricing of options. This model provides a mathematical framework to determine the fair price of options, incorporating factors such as the underlying asset's price, the option's strike price, time to expiration, risk-free interest rate, and the asset's [volatility](/wiki/volatility-trading-strategies). The formula introduced is:
 
 $$
 C = S_0 N(d_1) - X e^{-rT} N(d_2)
@@ -103,7 +103,7 @@ where:
 
 Chincarini, L. B., & Kim, D. "Quantitative Equity Portfolio Management: An Active Approach to Portfolio Construction and Management." McGraw-Hill. This book offers an in-depth approach to quantitative techniques in equity portfolio management. It combines theory with practical strategies to construct and manage equity portfolios, focusing on quantitative analysis methods to enhance investment performance. The authors blend traditional financial theory with modern quantitative strategies to provide a holistic view of active equity management.
 
-Aldridge, I. "High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems." Wiley. Aldridge's work demystifies high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) by providing practical insights into algorithmic strategies and trading system constructions. This text explores the technological and strategic underpinnings of HFT and offers guidance on building robust trading algorithms. Aldridge emphasizes the importance of speed and efficiency in executing transactions in modern financial markets, underscoring algorithmic trading's critical role.
+Aldridge, I. "High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems." Wiley. Aldridge's work demystifies high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) by providing practical insights into algorithmic strategies and trading system constructions. This text explores the technological and strategic underpinnings of HFT and offers guidance on building robust trading algorithms. Aldridge emphasizes the importance of speed and efficiency in executing transactions in modern financial markets, underscoring [algorithmic trading](/wiki/algorithmic-trading)'s critical role.
 
 ## References & Further Reading
 

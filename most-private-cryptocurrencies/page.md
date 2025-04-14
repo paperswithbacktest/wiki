@@ -22,7 +22,7 @@ Private cryptocurrencies solve this problem by hiding who is sending and receivi
 
 ## What are the key features to look for in a private cryptocurrency?
 
-When looking for a private cryptocurrency, you should first check if it uses strong privacy methods like zero-knowledge proofs or ring signatures. These methods help keep your transactions secret by hiding who is sending and receiving money. It's important that the cryptocurrency makes it hard for anyone to track your money movements, even if they know your wallet address.
+When looking for a private [cryptocurrency](/wiki/cryptocurrency), you should first check if it uses strong privacy methods like zero-knowledge proofs or ring signatures. These methods help keep your transactions secret by hiding who is sending and receiving money. It's important that the cryptocurrency makes it hard for anyone to track your money movements, even if they know your wallet address.
 
 Another key feature to look for is how the cryptocurrency handles your personal information. A good private cryptocurrency won't ask for a lot of personal details when you sign up, and it should not store this information in a way that can be linked back to your transactions. Also, make sure the cryptocurrency is easy to use and has a strong community support, as this can help you learn how to use it safely and effectively.
 

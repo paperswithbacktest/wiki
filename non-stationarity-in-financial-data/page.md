@@ -32,7 +32,7 @@ In financial time series, one common type of non-stationarity is trend non-stati
 
 Another type is seasonal non-stationarity. This is when the data changes in a regular pattern over time, like going up in some months and down in others. For instance, retail stocks might rise during the holiday season every year. If a model doesn't recognize this pattern, it might miss out on predicting these regular ups and downs, affecting how well it can forecast future prices.
 
-A third type is volatility non-stationarity, where the amount of change in the data varies over time. This can happen when there are sudden events like financial crises or policy changes that make the market more unpredictable. If a model doesn't adjust for these changes in volatility, it might underestimate or overestimate the risk, leading to poor risk management and investment choices.
+A third type is [volatility](/wiki/volatility-trading-strategies) non-stationarity, where the amount of change in the data varies over time. This can happen when there are sudden events like financial crises or policy changes that make the market more unpredictable. If a model doesn't adjust for these changes in volatility, it might underestimate or overestimate the risk, leading to poor risk management and investment choices.
 
 ## What are some basic statistical tests used to detect non-stationarity in financial data?
 
@@ -66,9 +66,9 @@ Another technique is using GARCH (Generalized Autoregressive Conditional Heteros
 
 ## How do machine learning approaches handle non-stationarity in financial data?
 
-Machine learning approaches can handle non-stationarity in financial data by using techniques like recurrent neural networks (RNNs) and long short-term memory (LSTM) networks. These models are good at understanding patterns that change over time. They learn from past data, including how trends and volatility change, and use this information to make predictions. By looking at the whole history of the data, these models can adapt to new patterns and trends, making them useful for dealing with non-stationary financial time series.
+Machine learning approaches can handle non-stationarity in financial data by using techniques like recurrent neural networks (RNNs) and [long short](/wiki/equity-long-short)-term memory (LSTM) networks. These models are good at understanding patterns that change over time. They learn from past data, including how trends and volatility change, and use this information to make predictions. By looking at the whole history of the data, these models can adapt to new patterns and trends, making them useful for dealing with non-stationary financial time series.
 
-Another way machine learning helps is through online learning methods. These methods let the model keep learning as new data comes in, so it can adjust to changes in the data over time. This is important for financial data because markets can change quickly due to news or economic events. By constantly updating with new information, these models can stay accurate even when the data is non-stationary. This helps analysts and traders make better decisions in a changing market.
+Another way [machine learning](/wiki/machine-learning) helps is through online learning methods. These methods let the model keep learning as new data comes in, so it can adjust to changes in the data over time. This is important for financial data because markets can change quickly due to news or economic events. By constantly updating with new information, these models can stay accurate even when the data is non-stationary. This helps analysts and traders make better decisions in a changing market.
 
 ## What are the challenges in forecasting with non-stationary financial data?
 
@@ -130,7 +130,7 @@ Identifying and understanding these types of non-stationary processes is crucial
 
 ## What is the conclusion?
 
-Handling non-stationary data is fundamental to achieving reliable outcomes in financial modeling and algorithmic trading. Such data presents unique challenges due to its dynamic nature, which can lead to inaccuracies if not addressed effectively. Key techniques such as differencing and adaptive algorithms are instrumental in transforming non-stationary data into a more stable form that can be effectively modeled and predicted.
+Handling non-stationary data is fundamental to achieving reliable outcomes in financial modeling and [algorithmic trading](/wiki/algorithmic-trading). Such data presents unique challenges due to its dynamic nature, which can lead to inaccuracies if not addressed effectively. Key techniques such as differencing and adaptive algorithms are instrumental in transforming non-stationary data into a more stable form that can be effectively modeled and predicted.
 
 Differencing is a widely used method to stabilize the mean of a time series by subtracting the previous observation from the current observation. This operation helps in eliminating trends and cycles, making the series stationary and more amenable to analysis. For instance, given a time series $X_t$, the differenced series $\Delta X_t$ is defined as:
 

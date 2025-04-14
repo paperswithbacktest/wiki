@@ -18,7 +18,7 @@ There are two main types of swaptions: a payer swaption and a receiver swaption.
 
 Swaptions come in two main types: payer swaptions and receiver swaptions. A payer swaption gives the person holding it the right to enter into an interest rate swap where they will pay a fixed interest rate and receive a floating interest rate. This can be useful if the holder thinks that interest rates will go up in the future, because they can then pay the lower fixed rate and receive the higher floating rate.
 
-On the other hand, a receiver swaption gives the holder the right to enter into a swap where they will receive a fixed interest rate and pay a floating interest rate. This is beneficial if the holder believes that interest rates will go down, allowing them to receive the higher fixed rate while paying the lower floating rate. Both types of swaptions help people manage their risk or make bets on where interest rates are headed.
+On the other hand, a receiver swaption gives the holder the right to enter into a swap where they will receive a fixed [interest rate](/wiki/interest-rate-trading-strategies) and pay a floating interest rate. This is beneficial if the holder believes that interest rates will go down, allowing them to receive the higher fixed rate while paying the lower floating rate. Both types of swaptions help people manage their risk or make bets on where interest rates are headed.
 
 ## How does a swaption work?
 
@@ -42,7 +42,7 @@ Swaptions are also used to make money by guessing what will happen to interest r
 
 The price of a swaption, also called the premium, is figured out by looking at a few important things. One big thing is the difference between the current interest rates and the rates in the swaption. If the rates in the swaption are way off from the current rates, the swaption might be more expensive because it could be more useful. Another thing is how long you have until you can start the swap, called the time to expiration. The longer you have to wait, the more chances there are for rates to change, which can make the swaption more valuable and pricier.
 
-Also, how much the interest rates might change, called volatility, is very important. If people think rates are going to jump around a lot, the swaption could be worth more because it gives you a chance to make more money if rates move in your favor. Finally, the creditworthiness of the people involved in the swap matters too. If there's a risk that one of them might not be able to pay, the price of the swaption could go up to cover that risk. All these things together help decide how much you have to pay for a swaption.
+Also, how much the interest rates might change, called [volatility](/wiki/volatility-trading-strategies), is very important. If people think rates are going to jump around a lot, the swaption could be worth more because it gives you a chance to make more money if rates move in your favor. Finally, the creditworthiness of the people involved in the swap matters too. If there's a risk that one of them might not be able to pay, the price of the swaption could go up to cover that risk. All these things together help decide how much you have to pay for a swaption.
 
 ## What are the risks associated with swaptions?
 
@@ -101,7 +101,7 @@ where:
 - $\sigma$ is the volatility of the forward swap rate,
 - $T$ is the time to expiry of the swaption.
 
-In the context of algorithmic trading, understanding the intricacies of such models is fundamental. These models heavily [factor](/wiki/factor-investing) in the volatility of interest rates, which can fluctuate based on economic conditions, as well as the time remaining until the swaption's expiration. Current market conditions are also pivotal, influencing forward rates and discount factors used in these calculations.
+In the context of [algorithmic trading](/wiki/algorithmic-trading), understanding the intricacies of such models is fundamental. These models heavily [factor](/wiki/factor-investing) in the volatility of interest rates, which can fluctuate based on economic conditions, as well as the time remaining until the swaption's expiration. Current market conditions are also pivotal, influencing forward rates and discount factors used in these calculations.
 
 Real-world swaption pricing may also leverage more sophisticated models, such as the Hull-White model, which incorporates stochastic interest rate paths. This model is particularly useful for capturing the dynamics of interest rates over time. Python libraries such as QuantLib can facilitate the implementation of these advanced models, allowing algorithmic traders to simulate and evaluate swaption pricing effectively.
 

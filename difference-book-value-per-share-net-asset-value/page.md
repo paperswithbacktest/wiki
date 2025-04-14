@@ -28,7 +28,7 @@ For example, if a company has total assets of $10 million and total liabilities 
 
 ## How is Net Asset Value calculated?
 
-Net Asset Value (NAV) is a way to find out how much a mutual fund, exchange-traded fund (ETF), or other investment fund is worth. To calculate it, you add up the value of all the investments the fund holds. Then, you subtract any money the fund owes, like loans or fees. This gives you the total net value of the fund.
+Net Asset Value (NAV) is a way to find out how much a mutual fund, exchange-traded fund ([ETF](/wiki/etf-trading-strategies)), or other investment fund is worth. To calculate it, you add up the value of all the investments the fund holds. Then, you subtract any money the fund owes, like loans or fees. This gives you the total net value of the fund.
 
 Once you have the total net value, you divide it by the number of shares in the fund. This gives you the price per share, which is the NAV. It's like figuring out how much each piece of a pie is worth after you've paid for the ingredients. The NAV is usually calculated at the end of each trading day and helps investors know what their shares are worth.
 

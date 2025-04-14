@@ -24,7 +24,7 @@ The last type is short-term government bond funds. These funds focus on bonds is
 
 ## How do Short-Term Investment Funds work?
 
-Short-Term Investment Funds, or STIFs, work by collecting money from many people and then using that money to buy safe, short-term investments. These investments might be things like treasury bills, commercial paper, or short-term bonds. The goal is to keep the money safe while still earning a small return. When someone puts money into a STIF, they are buying a share of the fund. The value of their share goes up a little bit as the fund earns money from its investments.
+Short-Term Investment Funds, or STIFs, work by collecting money from many people and then using that money to buy safe, short-term investments. These investments might be things like treasury bills, commercial paper, or short-term bonds. The goal is to keep the money safe while still [earning](/wiki/earning-announcement) a small return. When someone puts money into a STIF, they are buying a share of the fund. The value of their share goes up a little bit as the fund earns money from its investments.
 
 The returns from STIFs are usually not very high, but they are better than keeping money in a regular savings account. This is because STIFs invest in things that are a bit riskier than a savings account but still very safe. People can take their money out of a STIF whenever they want, which makes it a good choice for money that might be needed soon. The fund manager takes care of buying and selling the investments, so the people who invest in the fund don't have to worry about it.
 

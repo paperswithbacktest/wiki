@@ -128,7 +128,7 @@ In summary, variance analysis is an invaluable tool for assessing financial perf
 
 ## What are the challenges in variance analysis and algorithmic trading?
 
-Successfully conducting variance analysis and implementing algorithmic trading is fraught with challenges that can impede the effective assessment and management of financial variance.
+Successfully conducting variance analysis and implementing [algorithmic trading](/wiki/algorithmic-trading) is fraught with challenges that can impede the effective assessment and management of financial variance.
 
 ### Data Quality and Computational Power
 

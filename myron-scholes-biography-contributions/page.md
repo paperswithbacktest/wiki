@@ -80,7 +80,7 @@ Over the years, Myron Scholes' research has grown to include more areas of finan
 
 Myron Scholes is still very interested in finance and how to make it better. He keeps working on ways to understand and price options and other financial products. He thinks about how new technology can help with this. For example, he looks at how computers and data can make finance more accurate and easier to use. He also cares about how rules and laws affect finance, and he wants to make sure they help the market work well.
 
-Another area that Myron Scholes is interested in is teaching and sharing his ideas. He is a professor at Stanford University and helps students learn about finance. He writes papers and books to explain his ideas to other people in the field. He also works with companies to help them use his ideas in the real world. His goal is to keep making finance better and more scientific, and he does this by working on new research and teaching others.
+Another area that Myron Scholes is interested in is teaching and sharing his ideas. He is a professor at Stanford University and helps students learn about finance. He writes papers and [books](/wiki/algo-trading-books) to explain his ideas to other people in the field. He also works with companies to help them use his ideas in the real world. His goal is to keep making finance better and more scientific, and he does this by working on new research and teaching others.
 
 ## Who is Myron Scholes?
 

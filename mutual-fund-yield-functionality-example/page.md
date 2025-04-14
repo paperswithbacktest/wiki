@@ -18,7 +18,7 @@ When you invest in a mutual fund, you buy shares of the fund, and the value of y
 
 Mutual fund yield is a measure of the income you get from a mutual fund, usually shown as a percentage. It tells you how much money the fund is earning from things like interest and dividends, compared to the price of the fund's shares. Think of it like the interest you earn on a savings account, but for a mutual fund.
 
-The yield is important because it helps you understand how much money you might get back from your investment each year, without selling your shares. If a mutual fund has a high yield, it means it's earning a lot of money from its investments, which can be good if you're looking for regular income. But remember, a high yield doesn't always mean the fund is a good investment overall, because the value of the fund's shares can still go up or down.
+The yield is important because it helps you understand how much money you might get back from your investment each year, without selling your shares. If a mutual fund has a high yield, it means it's [earning](/wiki/earning-announcement) a lot of money from its investments, which can be good if you're looking for regular income. But remember, a high yield doesn't always mean the fund is a good investment overall, because the value of the fund's shares can still go up or down.
 
 ## How is mutual fund yield calculated?
 
@@ -120,11 +120,11 @@ Therefore, when selecting mutual funds, investors should analyze both yield and 
 
 ## What is the Case Study about Algorithmic Trading in Mutual Funds?
 
-In recent years, algorithmic trading has become an increasingly prevalent tool among mutual fund managers seeking to optimize their strategies and improve returns. This hypothetical case study illustrates the potential outcomes, risks, and rewards of integrating algorithmic trading with mutual fund management.
+In recent years, [algorithmic trading](/wiki/algorithmic-trading) has become an increasingly prevalent tool among mutual fund managers seeking to optimize their strategies and improve returns. This hypothetical case study illustrates the potential outcomes, risks, and rewards of integrating algorithmic trading with mutual fund management.
 
 ### Hypothetical Scenario
 
-Consider a mutual fund focused on large-cap U.S. equities, traditionally managed through a discretionary approach. The fund's manager decides to integrate an algorithmic trading component to enhance the timing of trades and optimize entry and exit points based on market data analysis.
+Consider a mutual fund focused on large-cap U.S. equities, traditionally managed through a discretionary approach. The fund's manager decides to integrate an algorithmic trading component to enhance the timing of trades and optimize entry and [exit](/wiki/exit-strategy) points based on market data analysis.
 
 ### Algorithm Design
 

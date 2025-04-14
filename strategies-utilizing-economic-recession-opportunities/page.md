@@ -72,7 +72,7 @@ One advanced financial instrument that can help protect against recession risks 
 
 Another tool is something called a futures contract. Futures contracts let you agree to buy or sell something at a set price in the future. During a recession, prices can change a lot, so using futures can help you lock in prices for things like commodities or currencies. If you think the price of oil or gold might go down during a recession, you can use a futures contract to sell it at today's price, even if the price drops later. This can help you make money or at least not lose as much as you might have if you just held onto the commodity.
 
-Lastly, there are inverse exchange-traded funds (ETFs). These are special funds that go up in value when the market goes down. If you think a recession is coming and the stock market will go down, you can invest in an inverse ETF. This way, as the market loses value, your investment in the inverse ETF can gain value, helping you make money or at least protect your savings. But remember, these instruments can be complicated and risky, so it's important to understand them well before using them.
+Lastly, there are inverse exchange-traded funds (ETFs). These are special funds that go up in value when the market goes down. If you think a recession is coming and the stock market will go down, you can invest in an inverse [ETF](/wiki/etf-trading-strategies). This way, as the market loses value, your investment in the inverse ETF can gain value, helping you make money or at least protect your savings. But remember, these instruments can be complicated and risky, so it's important to understand them well before using them.
 
 ## How can global economic trends be analyzed to predict and capitalize on recession opportunities?
 
@@ -88,7 +88,7 @@ Another good example is how McDonald's did well during the 2008 recession. When 
 
 ## What are some strategies for navigating economic recessions?
 
-Economic recessions pose significant challenges for investors due to increased market volatility and economic uncertainty. Navigating these periods successfully requires a strategic approach to investment that can preserve capital and capitalize on emerging opportunities.
+Economic recessions pose significant challenges for investors due to increased market [volatility](/wiki/volatility-trading-strategies) and economic uncertainty. Navigating these periods successfully requires a strategic approach to investment that can preserve capital and capitalize on emerging opportunities.
 
 **Defensive Investment Strategies:**
 

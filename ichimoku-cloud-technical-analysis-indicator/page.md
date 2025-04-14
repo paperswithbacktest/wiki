@@ -18,7 +18,7 @@ The main components of the Ichimoku Cloud are five lines: Tenkan-sen, Kijun-sen,
 
 The Ichimoku Cloud was developed by a Japanese journalist named Goichi Hosoda. He worked on it for many years and finally introduced it to the public in the late 1960s. Hosoda wanted to create a tool that could help people understand the stock market more easily.
 
-The Ichimoku Cloud, also called Ichimoku Kinko Hyo, means "one look equilibrium chart." This name shows that the tool is designed to give traders a quick and clear picture of the market. It helps them see trends, support and resistance levels, and the momentum of an asset all at once.
+The Ichimoku Cloud, also called Ichimoku Kinko Hyo, means "one look equilibrium chart." This name shows that the tool is designed to give traders a quick and clear picture of the market. It helps them see trends, support and resistance levels, and the [momentum](/wiki/momentum) of an asset all at once.
 
 ## What are the five main components of the Ichimoku Cloud?
 

@@ -23,7 +23,7 @@ One popular way to do oversampling is called SMOTE, which stands for Synthetic M
 
 ## What are the common scenarios where oversampling is applied?
 
-Oversampling is often used in situations where the data is not evenly split between different categories. For example, in medical diagnosis, diseases like cancer might be much less common than non-cancer cases. If a machine learning model is trained on this data without any adjustments, it might miss the cancer cases because it sees so few of them. By using oversampling, more examples of cancer cases are added to the dataset, helping the model learn to recognize these important but rare cases better.
+Oversampling is often used in situations where the data is not evenly split between different categories. For example, in medical diagnosis, diseases like cancer might be much less common than non-cancer cases. If a [machine learning](/wiki/machine-learning) model is trained on this data without any adjustments, it might miss the cancer cases because it sees so few of them. By using oversampling, more examples of cancer cases are added to the dataset, helping the model learn to recognize these important but rare cases better.
 
 Another common scenario where oversampling is applied is in fraud detection. Fraudulent transactions are typically much rarer than normal ones, making it hard for models to spot them. Oversampling helps by creating more examples of fraudulent transactions, allowing the model to learn the patterns of fraud more effectively. This can lead to better detection rates, which is crucial for protecting against financial losses.
 

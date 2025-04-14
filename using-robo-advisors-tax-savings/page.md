@@ -18,7 +18,7 @@ Once your money is invested, the robo-advisor keeps an eye on your investments a
 
 Robo-advisors can help you save on taxes by using a strategy called tax-loss harvesting. This means they look for investments that have lost value and sell them to offset any gains you might have made from other investments. By doing this, you can lower the amount of taxes you have to pay on your investment earnings. It's like finding a silver lining in a losing investment, because even though the investment went down, it can help you save money on taxes.
 
-Another way robo-advisors help with tax savings is by choosing investments that are already tax-efficient. For example, they might put your money into index funds or ETFs, which usually have lower tax costs than other types of investments. By picking these kinds of investments, robo-advisors can help you keep more of your money instead of giving it to the taxman. So, even if you don't know much about taxes, a robo-advisor can work behind the scenes to make sure you're saving as much as possible.
+Another way robo-advisors help with tax savings is by choosing investments that are already tax-efficient. For example, they might put your money into index funds or ETFs, which usually have lower tax costs than other types of investments. By [picking](/wiki/asset-class-picking) these kinds of investments, robo-advisors can help you keep more of your money instead of giving it to the taxman. So, even if you don't know much about taxes, a robo-advisor can work behind the scenes to make sure you're saving as much as possible.
 
 ## What are the basic tax-saving strategies that robo-advisors use?
 

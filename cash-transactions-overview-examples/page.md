@@ -28,7 +28,7 @@ Another advantage of cash is privacy. When you use cash, there's no record of th
 
 ## What are the disadvantages of using cash for transactions?
 
-One big problem with using cash is that it can be lost or stolen easily. If you lose cash or someone steals it, it's usually gone for good. You can't call your bank and get it back like you can with a credit or debit card. This can be a big worry, especially if you're carrying a lot of money. Also, cash can be heavy and hard to carry around, especially if you need to bring a lot of it.
+One big problem with using cash is that it can be lost or stolen easily. If you lose cash or someone steals it, it's usually gone for good. You can't call your bank and get it back like you can with a credit or debit card. This can be a big worry, especially if you're carrying a lot of money. Also, cash can be heavy and hard to [carry](/wiki/carry-trading) around, especially if you need to bring a lot of it.
 
 Another issue is that cash can be hard to keep track of. When you pay with cash, there's no record of where your money went. This can make it tough to remember how much you spent or what you bought. It can also make it harder to keep a budget or see where your money is going. If you need to return something, it can be more complicated without a receipt or a record of the transaction.
 
@@ -86,7 +86,7 @@ Another way to make cash handling more efficient is to have clear rules about wh
 
 ## What is the interplay between cash transactions and algo trading?
 
-The synergy between cash transactions and algorithmic trading in financial markets has become increasingly pivotal in shaping contemporary investment strategies. This interplay significantly enhances financial decision-making and liquidity management, providing a framework that allows firms to efficiently respond to shifting market conditions. 
+The synergy between cash transactions and [algorithmic trading](/wiki/algorithmic-trading) in financial markets has become increasingly pivotal in shaping contemporary investment strategies. This interplay significantly enhances financial decision-making and [liquidity](/wiki/liquidity-risk-premium) management, providing a framework that allows firms to efficiently respond to shifting market conditions. 
 
 Algorithmic trading, by design, adjusts transactions dynamically to meet the liquidity requirements dictated by an organization’s cash flow. This adaptability is crucial as it enables companies to swiftly capitalize on investment opportunities without jeopardizing their operational efficiency. For instance, algorithms are programmed to process real-time financial data, such as cash inflows and outflows, to ensure that trades are executed in a manner that optimizes liquidity while minimizing potential costs associated with immediate transaction needs.
 

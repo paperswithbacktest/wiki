@@ -18,7 +18,7 @@ These notes are popular with investors who want to bet on a company's future gro
 
 Convertible Subordinated Notes are different from regular bonds in a few important ways. First, they can be changed into the company's stock at a set price. This means if the company does well and the stock price goes up, the investor can turn their notes into stock and make more money. Regular bonds don't have this option; they just pay interest over time and then give the investor their money back at the end.
 
-Second, Convertible Subordinated Notes are "subordinated," which means they get paid back after other debts if the company goes bankrupt. This makes them riskier than regular bonds, which are usually paid back first. Because of this extra risk, Convertible Subordinated Notes often offer a higher interest rate to make them more attractive to investors. So, while regular bonds are safer but less exciting, Convertible Subordinated Notes offer more potential reward but also more risk.
+Second, Convertible Subordinated Notes are "subordinated," which means they get paid back after other debts if the company goes bankrupt. This makes them riskier than regular bonds, which are usually paid back first. Because of this extra risk, Convertible Subordinated Notes often offer a higher [interest rate](/wiki/interest-rate-trading-strategies) to make them more attractive to investors. So, while regular bonds are safer but less exciting, Convertible Subordinated Notes offer more potential reward but also more risk.
 
 ## What is the conversion feature of these notes?
 
@@ -54,7 +54,7 @@ Because of this lower priority, if the company goes bankrupt, there might not be
 
 When you're thinking about investing in Convertible Subordinated Notes, there are some key terms and conditions you should pay attention to. The first one is the conversion price, which is the price at which you can turn your notes into the company's stock. You want to know if this price is good compared to the current stock price. Another important term is the conversion ratio, which tells you how many shares you get for each note you convert. The interest rate is also key because it's what you earn while you wait to see if the stock price goes up enough to convert.
 
-Another thing to look for is the maturity date, which is when the notes will be paid back if you don't convert them. You should also check the call provisions, which let the company buy back the notes before the maturity date. This can affect whether you get to keep earning interest or convert them into stock. Finally, understanding the subordination terms is crucial because it tells you where you stand if the company goes bankrupt. These terms and conditions will help you decide if the notes are a good investment for you.
+Another thing to look for is the maturity date, which is when the notes will be paid back if you don't convert them. You should also check the call provisions, which let the company buy back the notes before the maturity date. This can affect whether you get to keep [earning](/wiki/earning-announcement) interest or convert them into stock. Finally, understanding the subordination terms is crucial because it tells you where you stand if the company goes bankrupt. These terms and conditions will help you decide if the notes are a good investment for you.
 
 ## How is the conversion ratio determined and can it change over time?
 

@@ -34,7 +34,7 @@ As the price keeps falling, more and more people get scared and join in the sell
 
 ## What are the key indicators that a long squeeze might be occurring?
 
-A long squeeze might be happening if you see the price of something dropping quickly. This could be a stock or cryptocurrency. When the price goes down fast, people who own it start to worry. They might decide to sell what they have to avoid losing more money. If lots of people are selling at the same time, it makes the price drop even faster.
+A long squeeze might be happening if you see the price of something dropping quickly. This could be a stock or [cryptocurrency](/wiki/cryptocurrency). When the price goes down fast, people who own it start to worry. They might decide to sell what they have to avoid losing more money. If lots of people are selling at the same time, it makes the price drop even faster.
 
 Another sign is when there's bad news about the thing people own. This news could be about the company losing money or having problems with its products. It can also be big news that affects the whole market, like changes in the economy or new laws. When people hear this bad news, they get scared and start selling. This selling can start the cycle of a long squeeze where more selling leads to lower prices, and then even more selling.
 
@@ -84,7 +84,7 @@ On the other hand, frequent long squeezes can push people to learn more about th
 
 A long squeeze occurs when a significant drop in the price of a security forces panic selling among long position holders. This market phenomenon is initiated when prices fall rapidly and unexpectedly, causing investors who hold long positions—those who bought securities hoping they will increase in value—to start selling in an attempt to curtail their losses. This widespread selling pressure further exacerbates the decline in the security's price, creating a downward spiral often referred to as a self-perpetuating cycle.
 
-The sequence of events typically follows these steps: Initially, a sharp decline in prices triggers anxiety among investors, particularly those heavily invested in long positions. As the fear of further losses mounts, these investors might rush to sell their holdings irrespective of whether the selling is rational or panic-driven. This increased volume of sell orders can outstrip the demand, pushing prices even lower. Consequently, more investors may be compelled to liquidate their positions, perpetuating the cycle of price depreciation and increased selling pressure.
+The sequence of events typically follows these steps: Initially, a sharp decline in prices triggers anxiety among investors, particularly those heavily invested in long positions. As the fear of further losses mounts, these investors might rush to sell their holdings irrespective of whether the selling is rational or panic-driven. This increased [volume](/wiki/volume-trading-strategy) of sell orders can outstrip the demand, pushing prices even lower. Consequently, more investors may be compelled to liquidate their positions, perpetuating the cycle of price depreciation and increased selling pressure.
 
 In mathematical terms, the situation resembles a feedback loop. If $P_t$ represents the price of the stock at time $t$, and $S_t$ denotes the number of shares sold as a reaction to the price $P_t$, the relationship can be conceptualized as:
 

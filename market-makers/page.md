@@ -74,7 +74,7 @@ Technology also makes the market more competitive. There are now more market mak
 
 Designated market makers (DMMs) are special market makers that have a big job in the stock market. They work for specific stocks and have to be ready to buy or sell those stocks at any time. DMMs are important because they help keep the market stable and make sure there are always people to trade with. They are usually part of a big company and have to follow strict rules set by the stock exchange. This helps make sure the market is fair and that everyone can trade easily.
 
-Supplemental liquidity providers (SLPs) are different. They are not tied to specific stocks like DMMs. Instead, they help add more trading activity to the market by buying and selling lots of different stocks. SLPs are usually smaller companies or individual traders who want to make money by trading. They don't have the same strict rules as DMMs, but they still help make the market more active and liquid. Both DMMs and SLPs are important for keeping the market working well, but they do it in different ways.
+Supplemental [liquidity](/wiki/liquidity-risk-premium) providers (SLPs) are different. They are not tied to specific stocks like DMMs. Instead, they help add more trading activity to the market by buying and selling lots of different stocks. SLPs are usually smaller companies or individual traders who want to make money by trading. They don't have the same strict rules as DMMs, but they still help make the market more active and liquid. Both DMMs and SLPs are important for keeping the market working well, but they do it in different ways.
 
 ## How do market makers adapt to high-frequency trading environments?
 
@@ -84,7 +84,7 @@ Even though high-frequency trading makes things faster and more competitive, it 
 
 ## What are the common market making challenges?
 
-Market makers play a pivotal role in maintaining liquidity and stability, yet they confront a range of challenges that can significantly impact their operations. Key among these challenges are managing market volatility and inventory risk, both of which require sophisticated strategies and tools.
+Market makers play a pivotal role in maintaining liquidity and stability, yet they confront a range of challenges that can significantly impact their operations. Key among these challenges are managing market [volatility](/wiki/volatility-trading-strategies) and inventory risk, both of which require sophisticated strategies and tools.
 
 Market volatility presents a substantial challenge for market makers. Volatility can lead to irregular price movements, thereby impacting liquidity. To manage this, market makers employ dynamic price adjustment strategies and utilize circuit breakers during high-volatility periods. Circuit breakers temporarily halt trading when prices move beyond predefined thresholds, allowing time for markets to stabilize. This strategy is particularly effective in preventing panic-selling and reducing price swings, thereby maintaining orderly trading.
 
@@ -98,7 +98,7 @@ $$
 
 where $\Delta$ represents the delta, $V$ is the option's price, and $S$ is the underlying asset's price. By keeping the cumulative delta close to zero, market makers can protect themselves from large directional movements in the market.
 
-Concentration risk poses further challenges for market makers. This risk arises when a significant portion of the market maker's holdings or trading volume is concentrated in a few positions. Excessive concentration can result in substantial losses if there are adverse movements in specific assets. To mitigate this, market makers must employ real-time monitoring systems that track their exposure levels. Implementing strict position limits ensures that no single position can account for an outsized impact on the portfolio. 
+Concentration risk poses further challenges for market makers. This risk arises when a significant portion of the market maker's holdings or trading [volume](/wiki/volume-trading-strategy) is concentrated in a few positions. Excessive concentration can result in substantial losses if there are adverse movements in specific assets. To mitigate this, market makers must employ real-time monitoring systems that track their exposure levels. Implementing strict position limits ensures that no single position can account for an outsized impact on the portfolio. 
 
 In practice, modern technology facilitates real-time tracking of key metrics, allowing market makers to respond promptly to changing market conditions. Leveraging both automated and manual interventions, market makers can effectively navigate the complex landscape of financial markets, balancing risks while continuing to provide essential liquidity to market participants.
 

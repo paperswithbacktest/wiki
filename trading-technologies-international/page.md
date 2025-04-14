@@ -76,7 +76,7 @@ TT also makes sure their platform follows all the rules. They work with big bank
 
 ## What future developments or innovations can we expect from Trading Technologies International?
 
-Trading Technologies International, or TT, is always working on new things to make trading easier and better. They are looking into using more artificial intelligence, or AI, to help traders make smart choices. AI can look at a lot of information very quickly and find patterns that people might miss. This could help traders see good opportunities faster. TT is also thinking about using more cloud technology. This would make their software even faster and easier to use from anywhere in the world.
+Trading Technologies International, or TT, is always working on new things to make trading easier and better. They are looking into using more [artificial intelligence](/wiki/ai-artificial-intelligence), or AI, to help traders make smart choices. AI can look at a lot of information very quickly and find patterns that people might miss. This could help traders see good opportunities faster. TT is also thinking about using more cloud technology. This would make their software even faster and easier to use from anywhere in the world.
 
 Another thing TT is working on is making their platform work better with other companies' software. They want to make it even easier for other companies to connect their own tools to the TT Platform. This could help traders use all their favorite tools together in one place. TT is also looking at new ways to show information to traders. They want to make it easier for traders to understand what's happening in the markets and make quick decisions. All these new ideas could make trading even better in the future.
 

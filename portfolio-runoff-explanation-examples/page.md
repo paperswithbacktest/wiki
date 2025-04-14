@@ -52,7 +52,7 @@ By managing portfolio runoff, banks and companies can also shift their focus to 
 
 ## What are some strategies to mitigate the effects of portfolio runoff?
 
-One way to lessen the impact of portfolio runoff is to slowly move money from the old portfolio to new investments or loans. This can be done by carefully choosing where to put the money as it comes back from the old portfolio. By doing this, a bank or company can keep their money working and earning, even as the old portfolio gets smaller. They can pick safer or more profitable investments, helping to balance out any risks from the runoff.
+One way to lessen the impact of portfolio runoff is to slowly move money from the old portfolio to new investments or loans. This can be done by carefully choosing where to put the money as it comes back from the old portfolio. By doing this, a bank or company can keep their money working and [earning](/wiki/earning-announcement), even as the old portfolio gets smaller. They can pick safer or more profitable investments, helping to balance out any risks from the runoff.
 
 Another strategy is to keep a close watch on the portfolio's performance. By looking at key numbers like the runoff rate, remaining balance, default rate, and recovery rate, a bank or company can see if the runoff is going as planned. If they notice any problems, like loans not being paid back on time, they can take action quickly. This might mean setting aside more money for possible losses or finding ways to help borrowers pay back their loans, which can help reduce the negative effects of the runoff.
 
@@ -70,7 +70,7 @@ Regulators might also set rules about how banks and companies need to report the
 
 ## What advanced techniques can be used to predict and manage portfolio runoff?
 
-One advanced technique to predict and manage portfolio runoff is using data analytics and machine learning. These tools can look at a lot of information from the past to guess how fast a portfolio might run off. They can find patterns and trends that are hard for people to see. By using this information, banks and companies can make better plans for how to handle the runoff. They can decide when to start letting a portfolio run off and how to use the money that comes back in the best way.
+One advanced technique to predict and manage portfolio runoff is using data analytics and [machine learning](/wiki/machine-learning). These tools can look at a lot of information from the past to guess how fast a portfolio might run off. They can find patterns and trends that are hard for people to see. By using this information, banks and companies can make better plans for how to handle the runoff. They can decide when to start letting a portfolio run off and how to use the money that comes back in the best way.
 
 Another technique is stress testing, which means trying out different bad situations to see how a portfolio might do. This can help banks and companies see how much risk they are taking and plan for the worst. If they see that a portfolio might run off too fast or cause big losses in a bad situation, they can take steps to fix it. This might mean setting aside more money for possible losses or changing how they manage the portfolio. By doing these tests, they can be ready for anything and manage the runoff smoothly.
 

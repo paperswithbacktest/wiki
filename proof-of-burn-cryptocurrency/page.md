@@ -40,7 +40,7 @@ By making people burn their coins, Proof of Burn helps make the network more sta
 
 ## What are some real-world examples of cryptocurrencies that use Proof of Burn?
 
-One example of a cryptocurrency that uses Proof of Burn is Slimcoin. Slimcoin uses Proof of Burn to make the network more secure and eco-friendly. In Slimcoin, people burn their coins to show they are serious about helping the network. The more coins someone burns, the better chance they have to add new blocks and earn rewards. This helps keep the network fair and stable because everyone has to give up some of their coins to participate.
+One example of a [cryptocurrency](/wiki/cryptocurrency) that uses Proof of Burn is Slimcoin. Slimcoin uses Proof of Burn to make the network more secure and eco-friendly. In Slimcoin, people burn their coins to show they are serious about helping the network. The more coins someone burns, the better chance they have to add new blocks and earn rewards. This helps keep the network fair and stable because everyone has to give up some of their coins to participate.
 
 Another example is Counterparty. Counterparty uses Proof of Burn to create new tokens on its platform. People burn bitcoins to create new Counterparty tokens. This shows their commitment to the platform and helps keep it secure. By burning bitcoins, people show that they are willing to give up something valuable to use the Counterparty platform. This helps make the platform more trustworthy and reliable.
 

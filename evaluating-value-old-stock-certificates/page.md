@@ -24,7 +24,7 @@ Even if the company doesn't exist anymore, the certificate might still be valuab
 
 To find out if an old stock certificate is still valid, you need to check if the company is still around. Start by looking up the company's name on the internet or in old business records. If the company still exists, you can contact them directly. They can tell you if your certificate is still good and what you need to do to get the shares it represents.
 
-If the company has changed its name or merged with another company, you'll need to find out what it's called now. You can use websites that track company histories or talk to a stock transfer agent. These agents help with old stock certificates and can tell you if your certificate is still valid and how to turn it into current shares. If the company went out of business, your certificate might not be worth money as a share, but it could still be valuable as a collectible.
+If the company has changed its name or merged with another company, you'll need to find out what it's called now. You can use websites that track company histories or talk to a stock transfer agent. These [agents](/wiki/agents) help with old stock certificates and can tell you if your certificate is still valid and how to turn it into current shares. If the company went out of business, your certificate might not be worth money as a share, but it could still be valuable as a collectible.
 
 ## What are the key elements to look for on an old stock certificate?
 
@@ -34,7 +34,7 @@ Another thing to look for is the date the certificate was issued. This can help 
 
 ## How do I research the history of a company associated with an old stock certificate?
 
-To research the history of a company associated with an old stock certificate, start by looking up the company's name on the internet. Use search engines and business databases to find information about when the company was founded, what it did, and if it still exists today. You might also find old news articles, company reports, or books that talk about the company's history. If the company changed its name or merged with another company, you'll need to find out what it's called now. This can help you understand if your certificate is still valid and worth money.
+To research the history of a company associated with an old stock certificate, start by looking up the company's name on the internet. Use search engines and business databases to find information about when the company was founded, what it did, and if it still exists today. You might also find old news articles, company reports, or [books](/wiki/algo-trading-books) that talk about the company's history. If the company changed its name or merged with another company, you'll need to find out what it's called now. This can help you understand if your certificate is still valid and worth money.
 
 If you can't find enough information online, you can visit a library or a historical society. Libraries often have old business directories, newspapers, and other records that can tell you more about the company. Historical societies might have special collections or experts who know a lot about local businesses from the past. Talking to a stock transfer agent can also help. They work with old stock certificates and can give you information about the company's history and what happened to the shares over time.
 

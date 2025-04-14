@@ -18,7 +18,7 @@ For example, if you buy a machine in March, you would still only claim half a ye
 
 The half-year convention is used in depreciation to make things easier and more fair. When a business buys a new asset, like a machine or a computer, it can be hard to figure out exactly how much to deduct for taxes each year. The half-year convention says that no matter when you buy the asset during the year, you can only claim half a year's worth of depreciation for that first year. This makes the math simpler because you don't have to keep track of the exact date you bought the asset.
 
-This method also helps to spread out the cost of the asset more evenly over its life. If you bought a machine in January, you might use it for almost the whole year, but you still only get to claim half a year's depreciation. This balances out with assets bought later in the year, which you might use for less time but still claim half a year's depreciation. By using the half-year convention, businesses can have a more consistent way to handle depreciation, which is important for planning and keeping their books in order.
+This method also helps to spread out the cost of the asset more evenly over its life. If you bought a machine in January, you might use it for almost the whole year, but you still only get to claim half a year's depreciation. This balances out with assets bought later in the year, which you might use for less time but still claim half a year's depreciation. By using the half-year convention, businesses can have a more consistent way to handle depreciation, which is important for planning and keeping their [books](/wiki/algo-trading-books) in order.
 
 ## How does the half-year convention affect the calculation of depreciation?
 

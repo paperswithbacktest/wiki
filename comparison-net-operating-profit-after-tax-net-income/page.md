@@ -24,7 +24,7 @@ You can think of net income as what's left in your pocket after you've paid all 
 
 NOPAT stands for Net Operating Profit After Tax. It's a way to see how much money a company makes from its main business activities, without worrying about how it's financed. To find NOPAT, you start with the company's operating profit. This is the money the company makes before it pays any interest on loans or taxes. Then, you figure out how much tax the company would have to pay if it had no debt. You subtract this tax amount from the operating profit, and that gives you NOPAT.
 
-NOPAT is helpful because it lets you compare different companies fairly. It takes away the effects of different tax situations and how companies borrow money. This makes it easier to see which companies are doing a good job at making money from their main business. People use NOPAT in financial analysis and models like Economic Value Added (EVA) to understand a company's real earning power.
+NOPAT is helpful because it lets you compare different companies fairly. It takes away the effects of different tax situations and how companies borrow money. This makes it easier to see which companies are doing a good job at making money from their main business. People use NOPAT in financial analysis and models like Economic Value Added (EVA) to understand a company's real [earning](/wiki/earning-announcement) power.
 
 ## How is Net Income calculated?
 

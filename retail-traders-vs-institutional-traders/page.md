@@ -48,7 +48,7 @@ On the other hand, institutional traders work with huge amounts of money. They m
 
 ## What are the typical investment strategies used by retail traders?
 
-Retail traders often use a strategy called day trading. This means they buy and sell things like stocks or currencies in the same day, trying to make quick profits from small price changes. They might spend a lot of time watching the market and use tools like charts and graphs to help them decide when to trade. Day trading can be exciting, but it's also risky because the market can be unpredictable.
+Retail traders often use a strategy called [day trading](/wiki/day-trading-spy). This means they buy and sell things like stocks or currencies in the same day, trying to make quick profits from small price changes. They might spend a lot of time watching the market and use tools like charts and graphs to help them decide when to trade. Day trading can be exciting, but it's also risky because the market can be unpredictable.
 
 Another common strategy is swing trading. This is when retail traders hold onto their investments for a few days or weeks, hoping to make money from bigger price swings. They look for patterns in the market and try to buy low and sell high. Swing trading takes a bit less time than day trading, but it still needs a lot of research and patience.
 
@@ -56,7 +56,7 @@ Some retail traders also like to invest for the long term. They might buy stocks
 
 ## How do institutional traders approach investment strategies?
 
-Institutional traders often use strategies that are more complex and long-term compared to retail traders. They might use a strategy called "fundamental analysis," where they look at a company's financial health, like its earnings and debts, to decide if it's a good investment. They also use "quantitative analysis," which involves using math and computer models to predict how investments will do. Because they handle so much money, institutional traders need to be very careful and make sure their strategies fit with the goals of the company or clients they work for.
+Institutional traders often use strategies that are more complex and long-term compared to retail traders. They might use a strategy called "[fundamental analysis](/wiki/fundamental-analysis)," where they look at a company's financial health, like its earnings and debts, to decide if it's a good investment. They also use "quantitative analysis," which involves using math and computer models to predict how investments will do. Because they handle so much money, institutional traders need to be very careful and make sure their strategies fit with the goals of the company or clients they work for.
 
 Another common approach for institutional traders is "portfolio management." This means they spread their money across different types of investments to reduce risk. They might invest in stocks, bonds, and other things to make sure that if one investment does badly, the others can help balance it out. Institutional traders also have to follow strict rules set by their companies and the law, so they need to make sure their strategies are not only smart but also legal and ethical.
 
@@ -80,7 +80,7 @@ Another advantage is that retail traders don't affect the market as much as inst
 
 ## What advanced techniques do institutional traders use that retail traders might not have access to?
 
-Institutional traders use a lot of fancy tools and techniques that retail traders might not have. One big thing they do is called algorithmic trading. This means they use computers and math to make trades really fast, sometimes in just a few seconds. They can look at tons of information and make decisions based on that. Retail traders usually don't have the same kind of computers or the skills to do this, so they have to make their trades by hand, which can be slower and less exact.
+Institutional traders use a lot of fancy tools and techniques that retail traders might not have. One big thing they do is called [algorithmic trading](/wiki/algorithmic-trading). This means they use computers and math to make trades really fast, sometimes in just a few seconds. They can look at tons of information and make decisions based on that. Retail traders usually don't have the same kind of computers or the skills to do this, so they have to make their trades by hand, which can be slower and less exact.
 
 Another thing institutional traders do is called high-frequency trading. This is when they make a lot of trades very quickly to make small profits that add up over time. They need special connections to the stock market to do this, which retail traders don't have. Institutional traders also use something called dark pools, which are private places to trade where other people can't see what they are doing. This helps them make big trades without moving the market too much. Retail traders don't have access to these dark pools, so they have to trade in the open market where everyone can see their moves.
 

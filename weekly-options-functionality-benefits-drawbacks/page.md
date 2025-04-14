@@ -62,7 +62,7 @@ A third strategy is using weekly options for hedging. If you own a stock and you
 
 Weekly options can be less liquid than other options, like monthly options. Liquidity means how easy it is to buy or sell an option without affecting its price too much. Because weekly options expire so quickly, there might be fewer people trading them compared to monthly options. This can make it harder to find someone to buy or sell your weekly option at the price you want.
 
-But the liquidity of weekly options can change depending on the stock or index they are based on. If it's a popular stock or index, like Apple or the S&P 500, there might be more people trading weekly options, which can make them more liquid. So, while weekly options might generally be less liquid, it can vary a lot depending on what you're trading.
+But the [liquidity](/wiki/liquidity-risk-premium) of weekly options can change depending on the stock or index they are based on. If it's a popular stock or index, like Apple or the S&P 500, there might be more people trading weekly options, which can make them more liquid. So, while weekly options might generally be less liquid, it can vary a lot depending on what you're trading.
 
 ## What are the tax implications of trading weekly options?
 

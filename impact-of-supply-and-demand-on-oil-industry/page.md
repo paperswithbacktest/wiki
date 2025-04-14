@@ -18,7 +18,7 @@ For example, imagine there are only a few apples available at the store, but man
 
 The price of oil is greatly influenced by supply and demand. When there's more oil available than people want to buy, the price goes down. This can happen if new oil fields are discovered or if countries produce more oil. On the other hand, if there's less oil available but a lot of people want it, the price goes up. This can happen if there are problems with oil production, like a war in an oil-producing country, or if demand suddenly increases, like during a cold winter when more oil is needed for heating.
 
-Another factor that affects the price of oil is how people expect the future to be. If people think there will be less oil in the future, they might buy more now, which can push the price up even if there's enough oil right now. Also, big events like economic changes or new laws about using less oil can change how much people want it, which then changes the price. So, the price of oil is always moving because of what's happening with supply and demand, and what people think will happen next.
+Another [factor](/wiki/factor-investing) that affects the price of oil is how people expect the future to be. If people think there will be less oil in the future, they might buy more now, which can push the price up even if there's enough oil right now. Also, big events like economic changes or new laws about using less oil can change how much people want it, which then changes the price. So, the price of oil is always moving because of what's happening with supply and demand, and what people think will happen next.
 
 ## What factors influence the supply of oil?
 

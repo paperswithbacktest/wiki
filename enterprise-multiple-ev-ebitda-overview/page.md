@@ -108,7 +108,7 @@ $$
 \text{EBITDA} = \text{Net Income} + \text{Interest} + \text{Taxes} + \text{Depreciation} + \text{Amortization}
 $$
 
-Once these calculations are completed, the Enterprise Multiple provides a standardized measure of a company's value by dividing the total Enterprise Value by EBITDA. This calculation is pivotal for traders aiming to incorporate EV/EBITDA into algorithmic trading models. The process ensures a comprehensive, apples-to-apples comparison across companies, regardless of differences in capital structure or accounting practices.
+Once these calculations are completed, the Enterprise Multiple provides a standardized measure of a company's value by dividing the total Enterprise Value by EBITDA. This calculation is pivotal for traders aiming to incorporate EV/EBITDA into [algorithmic trading](/wiki/algorithmic-trading) models. The process ensures a comprehensive, apples-to-apples comparison across companies, regardless of differences in capital structure or accounting practices.
 
 Incorporating this formula into algorithmic systems not only improves the speed of valuation but also provides consistency and comparability crucial for making informed trading decisions. Here’s a basic example in Python to compute the Enterprise Multiple:
 

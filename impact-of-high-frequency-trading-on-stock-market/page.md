@@ -70,7 +70,7 @@ In Europe, the Markets in Financial Instruments Directive (MiFID II) has rules t
 
 ## What advanced technologies and algorithms are used in HFT?
 
-High-frequency trading uses really fast computers and special software to make trades very quickly. These computers use algorithms, which are like math recipes, to look at a lot of information all the time. They can spot tiny changes in prices and make trades in just a few milliseconds. Some common algorithms used in HFT are market making, which tries to buy and sell to make small profits, and statistical arbitrage, which looks for small price differences between similar things to trade on. These algorithms help HFT traders make a lot of trades every day and try to make small profits that add up.
+High-frequency trading uses really fast computers and special software to make trades very quickly. These computers use algorithms, which are like math recipes, to look at a lot of information all the time. They can spot tiny changes in prices and make trades in just a few milliseconds. Some common algorithms used in HFT are market making, which tries to buy and sell to make small profits, and statistical [arbitrage](/wiki/arbitrage), which looks for small price differences between similar things to trade on. These algorithms help HFT traders make a lot of trades every day and try to make small profits that add up.
 
 Another important technology in HFT is fast internet connections. HFT companies pay a lot of money to have their computers very close to the stock market's computers. This is called co-location, and it helps them send their trade orders faster than others. They also use special data feeds to get information about the market very quickly. All of these technologies and algorithms work together to make HFT very fast and efficient, but they also make the market more complicated and hard to understand.
 
@@ -82,7 +82,7 @@ Looking ahead, HFT might keep making the market faster and more competitive. As 
 
 ## What is High-Frequency Trading (HFT)?
 
-High-frequency trading (HFT) is a specialized subset of algorithmic trading that emphasizes the execution of a vast number of trades at exceptionally high speeds. By employing sophisticated algorithms coupled with state-of-the-art technology, HFT systems automate the decision-making processes, minimizing human error and optimizing the rapid exploitation of fleeting market opportunities. 
+High-frequency trading (HFT) is a specialized subset of [algorithmic trading](/wiki/algorithmic-trading) that emphasizes the execution of a vast number of trades at exceptionally high speeds. By employing sophisticated algorithms coupled with state-of-the-art technology, HFT systems automate the decision-making processes, minimizing human error and optimizing the rapid exploitation of fleeting market opportunities. 
 
 The primary objective of HFT is to capitalize on marginal price discrepancies across various markets or financial instruments. By executing trades within fractions of a second, HFT exploits these minor variations to secure profits. Although the mechanics of HFT are intricate, the core principle revolves around the accumulation of numerous small gains, often just a fraction of a cent, repeated over millions of trades each day. For example, if an HFT firm makes $0.0001 per share on average and trades 1 billion shares per day, the daily profit would be:
 

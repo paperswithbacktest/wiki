@@ -64,7 +64,7 @@ Another way Sunrise Futures keeps things secure is by using strong passwords and
 
 ## What advanced trading features does Sunrise Futures offer?
 
-Sunrise Futures offers some cool tools that can help you trade better. One of these is called algorithmic trading. This means you can use a computer program to make trades for you based on special rules you set up. It's like having a robot that trades for you! Another neat feature is real-time data and charts. This means you can see what's happening in the market right now and use graphs to help you decide what to do. It's like having a crystal ball that shows you the market.
+Sunrise Futures offers some cool tools that can help you trade better. One of these is called [algorithmic trading](/wiki/algorithmic-trading). This means you can use a computer program to make trades for you based on special rules you set up. It's like having a robot that trades for you! Another neat feature is real-time data and charts. This means you can see what's happening in the market right now and use graphs to help you decide what to do. It's like having a crystal ball that shows you the market.
 
 They also have something called margin trading. This lets you trade with more money than you actually have in your account, kind of like borrowing money to trade. It can help you make more money if things go well, but you need to be careful because it can also make you lose more if things go badly. Sunrise Futures gives you all these tools to help you trade smarter and make better choices, but it's important to understand how to use them right.
 

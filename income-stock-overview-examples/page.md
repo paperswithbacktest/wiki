@@ -18,7 +18,7 @@ Income stocks are usually found in companies that are well-established and have 
 
 Income stocks and growth stocks are two different types of investments that people choose based on what they want from their investments. Income stocks are about getting regular money from the company through dividends. These are payments that companies make to their shareholders, usually from their profits. People who buy income stocks often want a steady income without selling their shares. These stocks are usually from companies that are stable and don't change much, like utility companies or big consumer goods companies. They might not grow quickly, but they make reliable profits and can pay dividends regularly.
 
-Growth stocks, on the other hand, are about the company growing bigger and the value of the stock going up. People who buy growth stocks are hoping that the company will become more valuable over time, so they can sell their shares for more money later. These companies usually reinvest their profits back into the business to help it grow, instead of paying dividends. Growth stocks are often found in newer or smaller companies in industries like technology or biotech, where there's a lot of potential for fast growth. But, they can also be riskier because their future is less certain.
+Growth stocks, on the other hand, are about the company growing bigger and the value of the stock going up. People who buy [growth stocks](/wiki/growth-stocks) are hoping that the company will become more valuable over time, so they can sell their shares for more money later. These companies usually reinvest their profits back into the business to help it grow, instead of paying dividends. Growth stocks are often found in newer or smaller companies in industries like technology or biotech, where there's a lot of potential for fast growth. But, they can also be riskier because their future is less certain.
 
 ## What are the key characteristics of income stocks?
 
@@ -90,7 +90,7 @@ Successful dividend investing strategies prioritize companies with a robust hist
 
 Diversification across industries is another critical strategy in dividend investing. This approach mitigates sector-specific risks, ensuring that setbacks in one sector do not disproportionately impact the overall portfolio. For instance, combining stocks from traditionally high-dividend industries like utilities with those from technology firms, which may offer growth prospects, can balance risk and reward.
 
-During periods of market volatility, dividend stocks can provide a buffer as companies strive to maintain dividend payments. Even in turbulent times, firms with established dividend policies often continue their payouts, offering a degree of stability when market prices fluctuate.
+During periods of market [volatility](/wiki/volatility-trading-strategies), dividend stocks can provide a buffer as companies strive to maintain dividend payments. Even in turbulent times, firms with established dividend policies often continue their payouts, offering a degree of stability when market prices fluctuate.
 
 Investors also seek stocks with a low payout ratio, which is the proportion of earnings paid out as dividends. A lower payout ratio suggests that a company retains a significant portion of its earnings, providing a cushion for maintaining or growing dividends even if earnings temporarily decline. The formula for the payout ratio is:
 

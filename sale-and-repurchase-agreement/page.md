@@ -36,7 +36,7 @@ The seller uses the SRA to get money without taking out a traditional loan. The 
 
 A Sale and Repurchase Agreement (SRA) offers several benefits to the parties involved. For the seller, it's a quick way to get cash without going through the hassle of getting a traditional loan. They can use their assets, like bonds, to borrow money for a short time. This helps them manage their cash flow better and keep their business running smoothly. The seller knows they can get their assets back by paying a little more, which is like paying interest on a loan.
 
-For the buyer, an SRA is a chance to make a small profit. They buy the assets at a lower price and then sell them back at a higher price. This difference is their profit, and it's like earning interest. The buyer also gets to hold onto valuable assets for a short time, which can be useful for their own financial planning. Both the seller and buyer benefit from the agreement, making SRAs a helpful tool in the world of finance.
+For the buyer, an SRA is a chance to make a small profit. They buy the assets at a lower price and then sell them back at a higher price. This difference is their profit, and it's like [earning](/wiki/earning-announcement) interest. The buyer also gets to hold onto valuable assets for a short time, which can be useful for their own financial planning. Both the seller and buyer benefit from the agreement, making SRAs a helpful tool in the world of finance.
 
 ## What are the risks associated with SRAs?
 
@@ -64,7 +64,7 @@ There are also international rules that some countries follow. The Bank for Inte
 
 ## How do SRAs impact financial statements and accounting?
 
-When a company uses a Sale and Repurchase Agreement (SRA), it can change how their financial statements look. If a company sells an asset in an SRA, they might have to take that asset off their books for a while. But since they plan to buy it back, they might also have to show a liability on their balance sheet. This liability is the money they owe to buy the asset back. The difference between the selling price and the buy-back price is like interest, and it can show up as an expense on the income statement.
+When a company uses a Sale and Repurchase Agreement (SRA), it can change how their financial statements look. If a company sells an asset in an SRA, they might have to take that asset off their [books](/wiki/algo-trading-books) for a while. But since they plan to buy it back, they might also have to show a liability on their balance sheet. This liability is the money they owe to buy the asset back. The difference between the selling price and the buy-back price is like interest, and it can show up as an expense on the income statement.
 
 The way SRAs are shown in financial statements can be a bit tricky. It depends on the rules set by accounting groups like the Financial Accounting Standards Board (FASB) in the U.S. These rules say how and when to record the sale and the repurchase. If the SRA is seen as a loan instead of a real sale, the company might not have to take the asset off their books at all. They would just show the money they got as a loan on their balance sheet. This can make a big difference in how healthy the company looks to people looking at their financial statements.
 

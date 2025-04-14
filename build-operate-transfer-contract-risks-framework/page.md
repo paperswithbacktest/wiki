@@ -86,7 +86,7 @@ Technology can also help manage risks better. With smart systems and data analys
 
 ## How do BOT Contracts intersect with Algo Trading?
 
-Both Build-Operate-Transfer (BOT) contracts and algorithmic trading capitalize on the advances in technology and data analytics. The convergence of these fields offers the potential to transform the management and execution of infrastructure projects. Through the integration of algorithmic trading techniques, BOT projects can experience enhanced efficiency and financial viability.
+Both Build-Operate-Transfer (BOT) contracts and [algorithmic trading](/wiki/algorithmic-trading) capitalize on the advances in technology and data analytics. The convergence of these fields offers the potential to transform the management and execution of infrastructure projects. Through the integration of algorithmic trading techniques, BOT projects can experience enhanced efficiency and financial viability.
 
 ### Application of Algorithmic Trading Principles
 

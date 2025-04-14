@@ -46,7 +46,7 @@ HUD also helps people buy homes through the Federal Housing Administration (FHA)
 
 ## What role does HUD play in urban development and community planning?
 
-HUD helps cities and towns grow and improve by giving them money to make their communities better. They have a program called the Community Development Block Grant (CDBG) that gives money to local governments. These governments can use the money to fix up old buildings, build new ones, or make other improvements like parks and roads. This helps make neighborhoods nicer and safer places to live. HUD wants to make sure that everyone can live in a good community, so they help local leaders plan and carry out these projects.
+HUD helps cities and towns grow and improve by giving them money to make their communities better. They have a program called the Community Development Block Grant (CDBG) that gives money to local governments. These governments can use the money to fix up old buildings, build new ones, or make other improvements like parks and roads. This helps make neighborhoods nicer and safer places to live. HUD wants to make sure that everyone can live in a good community, so they help local leaders plan and [carry](/wiki/carry-trading) out these projects.
 
 Another way HUD helps with urban development is by working with local governments and organizations to plan how cities should grow. They help make sure that new buildings and homes are built in the right places and that they fit well with the rest of the community. HUD also helps with things like making sure there are enough jobs and services for people in the area. By doing all these things, HUD plays a big role in making cities and towns better places for everyone to live.
 

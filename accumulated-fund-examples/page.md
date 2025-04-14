@@ -24,7 +24,7 @@ Other types of funds, like endowment funds or restricted funds, have specific ru
 
 An accumulated fund grows from the money a non-profit organization makes but doesn't spend. This can come from membership fees that people pay to join the group. It can also come from donations, which are gifts of money from people who want to support the organization's work. Another source is fundraising events, like charity walks or auctions, where people give money to help the cause.
 
-Sometimes, the organization might also earn money from selling things, like books or t-shirts, or from offering services, like classes or workshops. If the group makes more money from these activities than it spends on running them, the extra money goes into the accumulated fund. This helps the organization save up for the future and make sure it can keep doing its important work.
+Sometimes, the organization might also earn money from selling things, like [books](/wiki/algo-trading-books) or t-shirts, or from offering services, like classes or workshops. If the group makes more money from these activities than it spends on running them, the extra money goes into the accumulated fund. This helps the organization save up for the future and make sure it can keep doing its important work.
 
 In some cases, the accumulated fund can also grow from interest earned on money that's already in the fund. If the organization keeps its money in a bank account or invests it wisely, the interest or investment returns can add to the accumulated fund. This way, the fund can grow even when the organization isn't actively raising money.
 
@@ -92,7 +92,7 @@ $$
 
 where $\text{Var}(R_p)$ is the portfolio variance, $w_i$ and $w_j$ are the weights of assets $i$ and $j$ in the portfolio, and $\text{Cov}(R_i, R_j)$ is the covariance between the returns of assets $i$ and $j$.
 
-Effective risk management is equally critical. It involves identifying potential risks, such as market volatility, and employing strategies to mitigate them. For instance, using options and futures contracts can hedge against adverse price movements.
+Effective risk management is equally critical. It involves identifying potential risks, such as market [volatility](/wiki/volatility-trading-strategies), and employing strategies to mitigate them. For instance, using options and futures contracts can hedge against adverse price movements.
 
 Market volatility poses significant challenges to investment strategies. Sudden market shifts can result in unexpected losses, even in a diversified portfolio. Investors must constantly monitor market conditions and adjust their strategies accordingly. Algorithmic trading, while offering precision and speed, introduces technological dependencies that can be problematic. System failures or programming errors can lead to significant financial losses. The rise of [machine learning](/wiki/machine-learning) in trading introduces additional complexity, requiring expertise in both finance and technology.
 
@@ -124,7 +124,7 @@ As investing becomes increasingly complex with technological advancements, maint
 
 ## References & Further Reading
 
-To further enhance your understanding of mutual funds, algorithmic trading strategies, and effective fund management practices, several comprehensive resources are recommended. 
+To further enhance your understanding of mutual funds, [algorithmic trading](/wiki/algorithmic-trading) strategies, and effective fund management practices, several comprehensive resources are recommended. 
 
 A foundational text is *"Modern Portfolio Theory and Investment Analysis"* by Edwin J. Elton, Martin J. Gruber, Stephen J. Brown, and William N. Goetzmann. This book provides an in-depth exploration of portfolio optimization, asset pricing models, and the implications of portfolio diversification. Key concepts such as the efficient frontier, capital asset pricing model (CAPM), and the Sharpe ratio are thoroughly discussed, offering mathematical and theoretical insights into the investment decision-making process.
 

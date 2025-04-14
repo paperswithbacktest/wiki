@@ -72,7 +72,7 @@ To use the Jacobi method with sparse matrices in NumPy, you first need to set up
 
 To make the Jacobi method more accurate, you can use something called preconditioning. This means you change your equations a bit before you start solving them. You do this by multiplying your equations by a special matrix that makes the main numbers in front of the variables even bigger. This helps the Jacobi method work better because it makes the equations more like what the method likes best. By doing this, you can get to the right answer faster and more accurately.
 
-Another way to improve accuracy is by using a technique called over-relaxation. This means you don't just use the new guesses from the Jacobi method as they are. Instead, you mix them with the old guesses in a special way. You can choose how much you want to mix them by picking a number called the relaxation factor. If you pick the right number, this can make the Jacobi method find the right answer even faster and more accurately. It's like fine-tuning your method to get the best results possible.
+Another way to improve accuracy is by using a technique called over-relaxation. This means you don't just use the new guesses from the Jacobi method as they are. Instead, you mix them with the old guesses in a special way. You can choose how much you want to mix them by [picking](/wiki/asset-class-picking) a number called the relaxation [factor](/wiki/factor-investing). If you pick the right number, this can make the Jacobi method find the right answer even faster and more accurately. It's like fine-tuning your method to get the best results possible.
 
 ## How can the Jacobi method be parallelized using Python and NumPy for large-scale problems?
 
@@ -129,7 +129,7 @@ Through understanding its principles and execution, the Jacobi Method provides a
 
 ## How can you implement the Jacobi Method in Python?
 
-Python's versatility and extensive libraries make it a preferred choice for implementing computational algorithms like the Jacobi Method in algorithmic trading. Implementing the Jacobi Method involves iterating to solve systems of linear equations, and Python’s simplicity and the availability of scientific libraries facilitate this process.
+Python's versatility and extensive libraries make it a preferred choice for implementing computational algorithms like the Jacobi Method in [algorithmic trading](/wiki/algorithmic-trading). Implementing the Jacobi Method involves iterating to solve systems of linear equations, and Python’s simplicity and the availability of scientific libraries facilitate this process.
 
 ### Step-by-Step Guide to Implementing the Jacobi Method in Python
 

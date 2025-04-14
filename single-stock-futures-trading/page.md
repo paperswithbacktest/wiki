@@ -32,7 +32,7 @@ Trading single stock futures can be risky because the price of the stock can cha
 
 Another risk is called leverage. When you trade single stock futures, you usually only have to put down a small amount of money upfront, called margin. This means you can control a big position with just a little money. While this can help you make more money if things go your way, it can also make you lose more money if they don't. If the stock price moves against you, you might have to put in more money quickly to keep your position, or you could be forced to close it at a loss. This is known as a margin call, and it can happen fast, leaving you with big losses.
 
-It's also important to think about liquidity risk. Not all stocks have single stock futures available, and even when they do, there might not be a lot of people trading them. This can make it hard to buy or sell the futures when you want to, especially if you need to get out of a position quickly. If there aren't many buyers or sellers, you might have to accept a worse price than you hoped for, which can add to your losses.
+It's also important to think about [liquidity](/wiki/liquidity-risk-premium) risk. Not all stocks have single stock futures available, and even when they do, there might not be a lot of people trading them. This can make it hard to buy or sell the futures when you want to, especially if you need to get out of a position quickly. If there aren't many buyers or sellers, you might have to accept a worse price than you hoped for, which can add to your losses.
 
 ## How can someone start trading single stock futures?
 
@@ -84,7 +84,7 @@ One advanced technique for managing a portfolio of single stock futures is using
 
 Another technique is called portfolio diversification. Instead of focusing on just one stock, you can spread your money across futures for different stocks. This way, if one stock does badly, the others might do well and help balance out your losses. You can also mix single stock futures with other types of investments, like commodity futures or options, to spread out your risk even more. By diversifying, you're not putting all your eggs in one basket, which can help protect your money and give you more chances to make a profit.
 
-A third technique is using algorithmic trading. This means using computer programs to make trades based on certain rules or patterns. For example, you might set up a program to buy a future when the stock's price hits a certain level, or to sell it when it reaches another level. This can help you make trades faster and more accurately than you could by yourself. It's a good way to take advantage of small changes in the market, but you need to be careful because the market can be unpredictable, and what works one day might not work the next.
+A third technique is using [algorithmic trading](/wiki/algorithmic-trading). This means using computer programs to make trades based on certain rules or patterns. For example, you might set up a program to buy a future when the stock's price hits a certain level, or to sell it when it reaches another level. This can help you make trades faster and more accurately than you could by yourself. It's a good way to take advantage of small changes in the market, but you need to be careful because the market can be unpredictable, and what works one day might not work the next.
 
 ## References & Further Reading
 

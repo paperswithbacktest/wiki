@@ -18,7 +18,7 @@ For example, if you start with an MBS worth $1,000,000 and the pool factor is 0.
 
 The pool factor is important in mortgage-backed securities because it tells investors how much of their investment is still left. When people pay back their home loans, the total amount of the MBS goes down. The pool factor is a number that shows what part of the original MBS is still there. For example, if the pool factor is 0.8, it means 80% of the original MBS is left. This helps investors know the current value of their investment.
 
-Knowing the pool factor also helps investors make smart decisions. If the pool factor is getting smaller quickly, it might mean that people are paying off their loans faster than expected. This can affect how much money investors will get back and when they will get it. By keeping an eye on the pool factor, investors can better plan their investments and understand the risks involved with mortgage-backed securities.
+Knowing the pool [factor](/wiki/factor-investing) also helps investors make smart decisions. If the pool factor is getting smaller quickly, it might mean that people are paying off their loans faster than expected. This can affect how much money investors will get back and when they will get it. By keeping an eye on the pool factor, investors can better plan their investments and understand the risks involved with mortgage-backed securities.
 
 ## How is the pool factor calculated?
 

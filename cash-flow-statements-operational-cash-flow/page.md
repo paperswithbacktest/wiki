@@ -22,7 +22,7 @@ On the other hand, if the operational cash flow is negative, it might mean the b
 
 ## How is operational cash flow different from net income?
 
-Operational cash flow and net income are both important ways to measure how a business is doing, but they show different things. Operational cash flow is the money a business makes from its main activities, like selling products or services. It shows how much cash the business has after paying for things like salaries, rent, and supplies. If the operational cash flow is positive, it means the business is earning more than it spends on its day-to-day operations.
+Operational cash flow and net income are both important ways to measure how a business is doing, but they show different things. Operational cash flow is the money a business makes from its main activities, like selling products or services. It shows how much cash the business has after paying for things like salaries, rent, and supplies. If the operational cash flow is positive, it means the business is [earning](/wiki/earning-announcement) more than it spends on its day-to-day operations.
 
 Net income, on the other hand, is the total profit a business makes after all expenses are subtracted from its revenue. This includes not just the costs of running the business, but also things like taxes, interest on loans, and depreciation of equipment. Net income gives a broader picture of the business's overall financial performance, but it doesn't always show how much cash the business actually has on hand. For example, a business might have a high net income but still struggle with cash flow if it has a lot of money tied up in unpaid invoices or inventory.
 

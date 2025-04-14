@@ -23,7 +23,7 @@ Once the computer draws these boxes, it can then label what is inside each box. 
 
 Bounding boxes can be represented in different ways, but two common formats are the (x, y, w, h) format and the (x_min, y_min, x_max, y_max) format. In the (x, y, w, h) format, x and y are the coordinates of the top-left corner of the box, while w and h are the width and height of the box. For example, if a bounding box starts at (10, 20) and has a width of 50 and a height of 30, it would be represented as (10, 20, 50, 30). This format is easy to understand and use in many programming languages.
 
-The other common format is (x_min, y_min, x_max, y_max), where x_min and y_min are the coordinates of the top-left corner, and x_max and y_max are the coordinates of the bottom-right corner. Using the same example as before, if the top-left corner is at (10, 20) and the bottom-right corner is at (60, 50), the bounding box would be represented as (10, 20, 60, 50). This format is often used in machine learning frameworks and can be directly converted to and from the (x, y, w, h) format using simple calculations.
+The other common format is (x_min, y_min, x_max, y_max), where x_min and y_min are the coordinates of the top-left corner, and x_max and y_max are the coordinates of the bottom-right corner. Using the same example as before, if the top-left corner is at (10, 20) and the bottom-right corner is at (60, 50), the bounding box would be represented as (10, 20, 60, 50). This format is often used in [machine learning](/wiki/machine-learning) frameworks and can be directly converted to and from the (x, y, w, h) format using simple calculations.
 
 ## How do you manually annotate bounding boxes for training data?
 
@@ -39,7 +39,7 @@ Another challenge is dealing with objects that are not in a simple shape. Someti
 
 ## How does a machine learning model predict bounding boxes?
 
-A machine learning model predicts bounding boxes by looking at an image and guessing where objects are. The model uses a special part called a convolutional neural network (CNN) to do this. The CNN looks at the whole image and tries to find patterns that match objects it has seen before. When it thinks it sees an object, it draws a box around it. The model then guesses the exact position and size of the box by using what it has learned from lots of pictures it was trained on.
+A machine learning model predicts bounding boxes by looking at an image and guessing where objects are. The model uses a special part called a [convolutional [neural network](/wiki/neural-network)](/wiki/convolutional-neural-network) (CNN) to do this. The CNN looks at the whole image and tries to find patterns that match objects it has seen before. When it thinks it sees an object, it draws a box around it. The model then guesses the exact position and size of the box by using what it has learned from lots of pictures it was trained on.
 
 To make these guesses more accurate, the model uses something called regression. Regression helps the model adjust the box's position and size to fit the object better. For example, if the model first draws a box that is too big, regression can help make it smaller. The model keeps learning and getting better at this by comparing its guesses to the correct answers in the training data. This way, over time, the model gets really good at drawing tight and accurate bounding boxes around objects in new pictures.
 
@@ -57,7 +57,7 @@ Using bounding box regression can make a big difference in how well a model work
 
 ## What are some popular algorithms used for bounding box detection?
 
-One popular algorithm for bounding box detection is the Region-based Convolutional Neural Network (R-CNN). R-CNN works by first looking at an image and picking out parts that might have objects. Then, it uses a CNN to figure out what those objects are and draws boxes around them. It uses bounding box regression to make the boxes fit the objects better. R-CNN was a big step forward because it could find objects more accurately than older methods. But it can be slow because it needs to look at each part of the image one by one.
+One popular algorithm for bounding box detection is the Region-based Convolutional Neural Network (R-CNN). R-CNN works by first looking at an image and [picking](/wiki/asset-class-picking) out parts that might have objects. Then, it uses a CNN to figure out what those objects are and draws boxes around them. It uses bounding box regression to make the boxes fit the objects better. R-CNN was a big step forward because it could find objects more accurately than older methods. But it can be slow because it needs to look at each part of the image one by one.
 
 Another algorithm is YOLO, which stands for "You Only Look Once." YOLO is faster than R-CNN because it looks at the whole image at once. It divides the image into a grid and guesses where objects are in each part of the grid. YOLO then draws boxes around the objects and uses regression to make the boxes more accurate. This makes YOLO really good for real-time object detection, like in video games or self-driving cars, where speed is important. Even though YOLO might not be as accurate as R-CNN for every object, its speed makes it a popular choice for many uses.
 

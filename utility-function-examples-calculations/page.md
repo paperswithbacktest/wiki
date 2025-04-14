@@ -231,7 +231,7 @@ State-dependent utility models extend traditional utility theory to incorporate 
 
 These models suggest that the utility a trader derives from a specific outcome can depend on external states that may influence trader preferences or perceptions. For instance, in volatile markets, a trader may exhibit heightened risk aversion, resulting in a utility function that prioritizes stability and security over higher expected returns. Consequently, a state-dependent utility model may adapt the trader's investment strategy, dynamically adjusting to optimize utility based on current conditions.
 
-In Python, a simple state-dependent utility model might adjust risk tolerance based on volatility:
+In Python, a simple state-dependent utility model might adjust risk tolerance based on [volatility](/wiki/volatility-trading-strategies):
 
 ```python
 def state_dependent_utility(risk_aversion, volatility, return_rate):

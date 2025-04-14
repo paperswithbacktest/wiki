@@ -82,7 +82,7 @@ If you want to help kids learn math better with Bunny Bonds, you can use them in
 
 ## What are Bunny Bonds and how do they work?
 
-Bunny bonds offer a unique feature in the bond market by allowing investors to reinvest their coupon payments into additional bonds of the same issuer. This characteristic distinguishes them from traditional bonds, where coupon payments are typically received as cash. By providing the option to reinvest these periodic payments, bunny bonds effectively address reinvestment risk—a significant concern for bondholders, especially in fluctuating interest rate environments.
+Bunny bonds offer a unique feature in the bond market by allowing investors to reinvest their coupon payments into additional bonds of the same issuer. This characteristic distinguishes them from traditional bonds, where coupon payments are typically received as cash. By providing the option to reinvest these periodic payments, bunny bonds effectively address reinvestment risk—a significant concern for bondholders, especially in fluctuating [interest rate](/wiki/interest-rate-trading-strategies) environments.
 
 Reinvestment risk occurs when an investor receives coupon payments or principal repayments at maturity and must reinvest these funds in another bond or financial instrument. If interest rates decline, the investor may face a lower return on these reinvested funds. Bunny bonds mitigate this risk by automatically channeling the coupon payments into additional bonds, thus maintaining the initial yield structure. The ability to reinvest coupons without having to manually purchase additional bonds can help ensure consistent income and a stable investment strategy.
 

@@ -22,7 +22,7 @@ These fees are important because they can make a big difference in your investme
 
 ## How are ETF fees typically structured?
 
-ETF fees are usually made up of the expense ratio, which is a yearly fee that's a small part of the money you have in the ETF. This fee covers the costs of running the ETF, like paying the people who manage it and other expenses. The expense ratio is shown as a percentage, so if an ETF has an expense ratio of 0.25%, you'll pay $25 every year for every $10,000 you have invested.
+[ETF](/wiki/etf-trading-strategies) fees are usually made up of the expense ratio, which is a yearly fee that's a small part of the money you have in the ETF. This fee covers the costs of running the ETF, like paying the people who manage it and other expenses. The expense ratio is shown as a percentage, so if an ETF has an expense ratio of 0.25%, you'll pay $25 every year for every $10,000 you have invested.
 
 Sometimes, there can be other fees too, like trading fees when you buy or sell the ETF. These fees come from the place where you buy and sell your ETFs, like a brokerage. The trading fees can be different depending on where you trade and how much you're trading. It's good to know about all these fees because they can affect how much money you keep from your investment.
 
@@ -60,7 +60,7 @@ Trading fees for ETFs might also be tax-deductible in some cases. If you're buyi
 
 ## What strategies can be used to minimize the impact of ETF fees on investment portfolios?
 
-One way to minimize the impact of ETF fees on your investment portfolio is to choose ETFs with low expense ratios. Since the expense ratio is a yearly fee you pay just for owning the ETF, picking ones with lower fees can help you keep more of your money over time. You can find out the expense ratio by looking at the ETF's prospectus or using financial websites. Comparing different ETFs and picking the ones with the lowest fees can make a big difference in your long-term returns.
+One way to minimize the impact of ETF fees on your investment portfolio is to choose ETFs with low expense ratios. Since the expense ratio is a yearly fee you pay just for owning the ETF, [picking](/wiki/asset-class-picking) ones with lower fees can help you keep more of your money over time. You can find out the expense ratio by looking at the ETF's prospectus or using financial websites. Comparing different ETFs and picking the ones with the lowest fees can make a big difference in your long-term returns.
 
 Another strategy is to trade less often. Every time you buy or sell an ETF, you might have to pay trading fees. If you trade a lot, these fees can add up quickly and eat into your investment returns. So, it's a good idea to think carefully before you trade and try to keep your trading to a minimum. This can help you save on fees and keep more of your money working for you in the long run.
 

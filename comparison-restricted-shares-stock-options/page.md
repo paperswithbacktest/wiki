@@ -82,7 +82,7 @@ Also, think about how the market might change in the future. If you think the ma
 
 ## What are the future trends in equity compensation and algo trading?
 
-Equity compensation and algorithmic trading are at the forefront of financial innovation, with each field evolving to meet the demands of modern markets. As we look to the future, several trends are poised to shape the landscape of equity compensation, bringing with them enhanced efficiency and new opportunities for both companies and employees.
+Equity compensation and [algorithmic trading](/wiki/algorithmic-trading) are at the forefront of financial innovation, with each field evolving to meet the demands of modern markets. As we look to the future, several trends are poised to shape the landscape of equity compensation, bringing with them enhanced efficiency and new opportunities for both companies and employees.
 
 One anticipated development in equity compensation is the increased use of performance-based restricted stock units (PSUs). These equity instruments reward employees with shares based on the achievement of specific performance metrics, aligning incentives with company goals. The structure of PSUs can vary widely, incorporating complex formulas to determine payout thresholds. For example, companies may use a formula like:
 

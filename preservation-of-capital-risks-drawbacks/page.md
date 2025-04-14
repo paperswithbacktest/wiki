@@ -62,7 +62,7 @@ On the other hand, stocks can grow a lot more than cash or bonds, but they are r
 
 ## What role do interest rates play in the preservation of capital?
 
-Interest rates play a big role in keeping your money safe. When you put your money in a savings account or buy a bond, the interest rate tells you how much extra money you'll get. If interest rates are high, you can earn more money from these safe investments. This means your money can grow even while staying safe. For example, if you have a savings account with a 3% interest rate, your money will grow a little bit every year, which helps it keep up with inflation.
+Interest rates play a big role in keeping your money safe. When you put your money in a savings account or buy a bond, the [interest rate](/wiki/interest-rate-trading-strategies) tells you how much extra money you'll get. If interest rates are high, you can earn more money from these safe investments. This means your money can grow even while staying safe. For example, if you have a savings account with a 3% interest rate, your money will grow a little bit every year, which helps it keep up with inflation.
 
 But, if interest rates are low, it can be harder to keep your money safe. Low interest rates mean that safe investments like savings accounts and bonds won't give you much extra money. If the interest rate is lower than the rate of inflation, your money will lose value over time even though it's in a safe place. So, when interest rates are low, you might need to think about other ways to keep your money safe and still make it grow a little, like investing in a mix of different things.
 

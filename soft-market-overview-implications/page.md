@@ -30,7 +30,7 @@ Another cause of a soft market can be changes in what people want. If people sta
 
 ## What industries are most affected by a soft market?
 
-Industries like real estate and construction are often hit hard by a soft market. When people feel unsure about the economy, they might not want to buy new homes or invest in big building projects. This means fewer houses and buildings are sold, and prices can go down. Builders and real estate agents can have a tough time making money when there are too many homes for sale and not enough buyers.
+Industries like real estate and construction are often hit hard by a soft market. When people feel unsure about the economy, they might not want to buy new homes or invest in big building projects. This means fewer houses and buildings are sold, and prices can go down. Builders and real estate [agents](/wiki/agents) can have a tough time making money when there are too many homes for sale and not enough buyers.
 
 Another industry that can suffer in a soft market is the car industry. Cars are expensive, and when people are worried about money, they might put off buying a new car. This can lead to a lot of cars sitting on dealership lots without being sold. Car makers and dealers might have to lower prices to try and attract buyers, which can hurt their profits.
 

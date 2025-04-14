@@ -22,7 +22,7 @@ John Bogle started Vanguard because he wanted to change how people invest. He sa
 
 ## What is index investing and why is it significant?
 
-Index investing is a way of putting your money into the stock market by buying a bunch of stocks all at once. Instead of picking one or two stocks and hoping they do well, you invest in a big group of stocks. This group of stocks is called an index. An index fund is like a basket that holds all the stocks in that index. This makes it easier for people to invest because they don't have to guess which stocks will go up. They just buy the whole basket and let it grow over time.
+Index investing is a way of putting your money into the stock market by buying a bunch of stocks all at once. Instead of [picking](/wiki/asset-class-picking) one or two stocks and hoping they do well, you invest in a big group of stocks. This group of stocks is called an index. An index fund is like a basket that holds all the stocks in that index. This makes it easier for people to invest because they don't have to guess which stocks will go up. They just buy the whole basket and let it grow over time.
 
 Index investing is important because it makes investing simpler and cheaper for everyone. Before index funds, people often had to pay a lot of money to financial experts to pick stocks for them. But with index funds, you can invest without needing to be an expert. This means more people can save for the future without taking big risks. John Bogle, who started Vanguard, made index investing popular. Because of him, many people have been able to grow their money safely and easily.
 
@@ -52,7 +52,7 @@ Bogle's ideas also made the investment industry more fair. He believed that ever
 
 ## Can you describe some of John Bogle's key publications and their influence?
 
-John Bogle wrote a few important books that helped people learn about investing. One of his most famous books is called "Common Sense on Mutual Funds." In this book, he explained why index funds are a good way to invest. He said that trying to pick the best stocks is hard and often doesn't work. Instead, people should just buy a big group of stocks and let their money grow over time. This book taught a lot of people about index funds and made them more popular.
+John Bogle wrote a few important [books](/wiki/algo-trading-books) that helped people learn about investing. One of his most famous books is called "Common Sense on Mutual Funds." In this book, he explained why index funds are a good way to invest. He said that trying to pick the best stocks is hard and often doesn't work. Instead, people should just buy a big group of stocks and let their money grow over time. This book taught a lot of people about index funds and made them more popular.
 
 Another important book by Bogle is "The Little Book of Common Sense Investing." This book is shorter and easier to read. It's meant for people who are new to investing. Bogle explains the same ideas about index funds but in a simple way. He shows how anyone can save for the future without taking big risks. This book has helped many people start investing and understand why index funds are a smart choice. Both of these books have had a big impact on how people think about investing.
 

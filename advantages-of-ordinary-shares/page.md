@@ -36,7 +36,7 @@ Another way ordinary shares can provide income is through capital gains. This ha
 
 Ordinary shares have a lot of potential for capital appreciation. This means that the value of the shares can go up over time. If you buy shares in a company that does well, the price of those shares might increase. You can make money by selling the shares for more than you paid for them. This is called a capital gain. For example, if you buy a share for $10 and later sell it for $15, you have a capital gain of $5 per share.
 
-However, the potential for capital appreciation comes with risks. The value of ordinary shares can also go down if the company doesn't do well. If the company faces problems or if the overall market goes down, the price of the shares might drop. This means you could lose money if you need to sell your shares when their value is low. So, while ordinary shares offer the chance for big gains, they also carry the risk of big losses.
+However, the potential for capital appreciation comes with risks. The value of ordinary shares can also go down if the company doesn't do well. If the company faces problems or if the overall market goes down, the price of the shares might drop. This means you could lose money if you need to sell your shares when their value is low. So, while ordinary shares offer the chance for big gains, they also [carry](/wiki/carry-trading) the risk of big losses.
 
 ## How do ordinary shares contribute to voting rights in a company?
 
@@ -52,7 +52,7 @@ Another tax you might have to pay is called capital gains tax. This happens when
 
 ## How does the liquidity of ordinary shares affect their advantages?
 
-The liquidity of ordinary shares means how easily you can buy or sell them. If shares are very liquid, it's easy to find someone to buy them from you or sell them to you. This is good because it means you can quickly turn your shares into cash if you need to. For example, if you need money for something important, you can sell your shares without waiting a long time to find a buyer. This makes ordinary shares more attractive because you don't have to worry about being stuck with them.
+The [liquidity](/wiki/liquidity-risk-premium) of ordinary shares means how easily you can buy or sell them. If shares are very liquid, it's easy to find someone to buy them from you or sell them to you. This is good because it means you can quickly turn your shares into cash if you need to. For example, if you need money for something important, you can sell your shares without waiting a long time to find a buyer. This makes ordinary shares more attractive because you don't have to worry about being stuck with them.
 
 On the other hand, if ordinary shares are not very liquid, it can be hard to sell them quickly. You might have to wait a long time to find someone who wants to buy them, or you might have to sell them for less money than you want. This can be a disadvantage because it makes it harder to get your money out of the shares when you need it. So, the liquidity of ordinary shares can make a big difference in how useful they are to you as an investor.
 

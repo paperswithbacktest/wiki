@@ -40,7 +40,7 @@ For example, if a business has a DSCR of 1.5, it means they earn 1.5 times more 
 
 ## How does DSCR affect loan approvals and interest rates?
 
-The Debt-Service Coverage Ratio (DSCR) plays a big role in whether a business gets a loan approved and what interest rate they get. Lenders look at DSCR to see if the business can pay back the loan. If the DSCR is high, like over 1.25, it shows the business earns more than enough to cover its loan payments. This makes the business look safer to the lender, so they are more likely to approve the loan.
+The Debt-Service Coverage Ratio (DSCR) plays a big role in whether a business gets a loan approved and what [interest rate](/wiki/interest-rate-trading-strategies) they get. Lenders look at DSCR to see if the business can pay back the loan. If the DSCR is high, like over 1.25, it shows the business earns more than enough to cover its loan payments. This makes the business look safer to the lender, so they are more likely to approve the loan.
 
 A high DSCR can also help a business get a lower interest rate. When a business has a DSCR of 1.5 or higher, it means they earn a lot more than they need to pay for their debts. Lenders see this as less risk, so they might offer a lower interest rate. This can save the business money and help them grow because they won't have to pay as much for their loans.
 

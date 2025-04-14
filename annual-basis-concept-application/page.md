@@ -26,7 +26,7 @@ So, the main difference is how often things happen. Annual is once a year, quart
 
 In everyday life, people often talk about things they do on an annual basis. For example, many families have a tradition of going on a vacation once a year. They might plan a trip to the beach or the mountains every summer. This is something they look forward to and plan for all year long. Another common example is paying for things like car insurance or a gym membership. Some people choose to pay for these services once a year instead of every month. It helps them save a bit of money and not have to worry about monthly payments.
 
-Also, at work, people might have an annual review with their boss. This is a meeting where they talk about what they did well over the past year and what they can do better. It happens once a year, usually around the same time, like in January or December. Schools also use the term 'annual basis' a lot. For instance, they might have an annual fundraising event where parents and students come together to raise money for new books or sports equipment. These events are planned and happen once every year, helping everyone know when to expect them.
+Also, at work, people might have an annual review with their boss. This is a meeting where they talk about what they did well over the past year and what they can do better. It happens once a year, usually around the same time, like in January or December. Schools also use the term 'annual basis' a lot. For instance, they might have an annual fundraising event where parents and students come together to raise money for new [books](/wiki/algo-trading-books) or sports equipment. These events are planned and happen once every year, helping everyone know when to expect them.
 
 ## What are the common applications of calculating on an annual basis in business?
 
@@ -36,7 +36,7 @@ Another use is for performance reviews. Many businesses have annual performance 
 
 ## How do financial institutions use the concept of an annual basis in their operations?
 
-Financial institutions use the concept of an annual basis a lot in their work. One big way they use it is for calculating interest on savings accounts or loans. If you have money in a savings account, the bank might pay you interest once a year. This is called an annual interest rate. It helps you know how much extra money you will get at the end of the year. For loans, banks might charge interest on an annual basis too. This means you pay interest once a year, which helps you plan your payments and know how much you will owe.
+Financial institutions use the concept of an annual basis a lot in their work. One big way they use it is for calculating interest on savings accounts or loans. If you have money in a savings account, the bank might pay you interest once a year. This is called an annual [interest rate](/wiki/interest-rate-trading-strategies). It helps you know how much extra money you will get at the end of the year. For loans, banks might charge interest on an annual basis too. This means you pay interest once a year, which helps you plan your payments and know how much you will owe.
 
 Another way financial institutions use an annual basis is for reporting and planning. Banks and other financial companies have to make annual reports to show how they did over the year. These reports tell people who own part of the bank, like shareholders, how much money the bank made and what they plan to do next. This helps everyone understand the bank's health and make good decisions. Also, banks use annual planning to set goals for the next year, like how much they want to grow or what new services they want to offer. This helps them stay organized and work towards their big goals.
 
@@ -103,7 +103,7 @@ By employing the annual basis in financial planning, individuals and organizatio
 
 ## What is the Role of Annual Basis in Algo Trading?
 
-Understanding the annual basis in algorithmic trading is vital for optimizing returns and evaluating performance metrics. Annual basis refers to the use of annualized figures for assessing investment strategies, providing a consistent timeframe for comparison. 
+Understanding the annual basis in [algorithmic trading](/wiki/algorithmic-trading) is vital for optimizing returns and evaluating performance metrics. Annual basis refers to the use of annualized figures for assessing investment strategies, providing a consistent timeframe for comparison. 
 
 Algorithmic trading systems often rely on the concept of annualized returns to gauge the effectiveness of implemented strategies. For instance, a trading algorithm aiming for a 12% annual return needs to adjust its execution strategy to meet this target, accounting for varying market conditions. Here's a simple formula for annualized returns:
 

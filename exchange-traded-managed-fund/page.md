@@ -28,7 +28,7 @@ Another benefit is that ETMFs can be more tax-efficient than traditional mutual 
 
 ## Can you explain the structure and operation of an ETMF?
 
-An ETMF is a special kind of investment fund that mixes the good parts of mutual funds and ETFs. It's set up so that a professional manager picks what to buy and sell within the fund, just like in a mutual fund. This manager is always working to make the fund's value go up. But, unlike a regular mutual fund, you can trade ETMFs anytime during the trading day, just like you would with a stock or an ETF. This means you can buy or sell your shares whenever you want, and the price will change based on what other people are willing to pay at that moment.
+An ETMF is a special kind of investment fund that mixes the good parts of mutual funds and ETFs. It's set up so that a professional manager picks what to buy and sell within the fund, just like in a mutual fund. This manager is always working to make the fund's value go up. But, unlike a regular mutual fund, you can trade ETMFs anytime during the trading day, just like you would with a stock or an [ETF](/wiki/etf-trading-strategies). This means you can buy or sell your shares whenever you want, and the price will change based on what other people are willing to pay at that moment.
 
 The way ETMFs work is pretty cool. They use a special system called a "NAV-based trading model." This means that the price of an ETMF share is based on the net asset value (NAV) of the fund, but with a twist. The price you see during the day isn't the exact NAV, but it's close to it. At the end of the day, the price gets adjusted to match the actual NAV. This helps keep things fair for everyone. Also, because you can trade ETMFs throughout the day, it's less likely that the fund will need to sell its assets to give money back to people who want to cash out, which can be good for taxes.
 
@@ -100,9 +100,9 @@ In summary, managed funds are a versatile investment solution that combines the 
 
 ## References & Further Reading
 
-Investopedia provides extensive resources for understanding the dynamics of ETFs and algorithmic trading. Articles such as "What Are ETFs?" and "Algorithmic Trading" offer foundational insights into these financial instruments and trading strategies.
+Investopedia provides extensive resources for understanding the dynamics of ETFs and [algorithmic trading](/wiki/algorithmic-trading). Articles such as "What Are ETFs?" and "Algorithmic Trading" offer foundational insights into these financial instruments and trading strategies.
 
-For those interested in a deeper dive into algorithmic trading strategies and financial machine learning, several key [books](/wiki/algo-trading-books) can serve as invaluable resources. "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan provides practical guidance on developing and implementing algorithmic trading strategies. Another essential read is "Advances in Financial Machine Learning" by Marcos López de Prado, which explores cutting-edge techniques in machine learning and their application to finance.
+For those interested in a deeper dive into algorithmic trading strategies and financial [machine learning](/wiki/machine-learning), several key [books](/wiki/algo-trading-books) can serve as invaluable resources. "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan provides practical guidance on developing and implementing algorithmic trading strategies. Another essential read is "Advances in Financial Machine Learning" by Marcos López de Prado, which explores cutting-edge techniques in machine learning and their application to finance.
 
 Industry reports are crucial for understanding the evolving trends in the ETF and managed fund markets. Reports from reputable firms such as BlackRock, Morningstar, and Vanguard provide comprehensive analyses of market growth, investor behavior, and future outlooks. These reports often highlight the impact of technological advancements and offer projections that are valuable for strategic planning.
 

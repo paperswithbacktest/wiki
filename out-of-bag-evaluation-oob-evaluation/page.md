@@ -71,7 +71,7 @@ Other ensemble methods, like bagging or boosting, don't naturally create OOB sam
 
 ## What are some practical considerations when implementing OOB evaluation in a machine learning pipeline?
 
-When you're setting up OOB evaluation in your machine learning pipeline, it's important to think about how many trees you're using in your random forest. The more trees you have, the more reliable your OOB estimates will be. A good rule of thumb is to use at least a few hundred trees to make sure your OOB error estimates are as accurate as possible. This way, you can trust that the OOB error rate you get is a good measure of how well your random forest model will do on new data.
+When you're setting up OOB evaluation in your [machine learning](/wiki/machine-learning) pipeline, it's important to think about how many trees you're using in your random forest. The more trees you have, the more reliable your OOB estimates will be. A good rule of thumb is to use at least a few hundred trees to make sure your OOB error estimates are as accurate as possible. This way, you can trust that the OOB error rate you get is a good measure of how well your random forest model will do on new data.
 
 Another thing to keep in mind is how you're going to use the OOB error estimates. They can be really helpful for tuning the hyperparameters of your random forest, like the number of trees, the number of features each tree looks at, or how deep the trees can grow. By trying out different settings and checking the OOB error rate for each one, you can find the best settings for your model without needing a separate test set. This makes OOB evaluation a quick and efficient way to improve your model's performance.
 

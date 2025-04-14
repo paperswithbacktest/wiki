@@ -127,7 +127,7 @@ The cash flow statement outlines the inflow and outflow of cash within an organi
 2. **Investing Activities**: Cash spent on or generated from long-term investments, like property or equipment.
 3. **Financing Activities**: Transactions with owners or creditors affecting the equity and debt structure.
 
-This statement answers crucial questions regarding a company’s liquidity and solvency, indicating how efficiently a company manages its cash to meet obligations and fund operations.
+This statement answers crucial questions regarding a company’s [liquidity](/wiki/liquidity-risk-premium) and solvency, indicating how efficiently a company manages its cash to meet obligations and fund operations.
 
 ### Impact on Strategic Planning and Growth
 

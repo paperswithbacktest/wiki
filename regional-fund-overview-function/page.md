@@ -22,7 +22,7 @@ Another important objective of regional funds is to give investors a chance to m
 
 ## How are regional funds typically structured?
 
-Regional funds are usually set up as either mutual funds or exchange-traded funds (ETFs). A mutual fund pools money from many investors to buy a mix of stocks, bonds, or other assets in a specific region. An ETF works in a similar way but can be bought and sold on a stock exchange like a regular stock. Both types of funds have a manager who decides what to buy and sell to meet the fund's goals.
+Regional funds are usually set up as either mutual funds or exchange-traded funds (ETFs). A mutual fund pools money from many investors to buy a mix of stocks, bonds, or other assets in a specific region. An [ETF](/wiki/etf-trading-strategies) works in a similar way but can be bought and sold on a stock exchange like a regular stock. Both types of funds have a manager who decides what to buy and sell to meet the fund's goals.
 
 These funds often have a clear set of rules, called the investment strategy, that explain what kinds of investments the fund will make and how it will try to make money for investors. The strategy might focus on certain industries or types of companies in the region. The fund's performance is tracked and shared with investors regularly, usually through reports that show how the fund is doing compared to its goals and the overall market in the region.
 
@@ -56,7 +56,7 @@ Other investment funds, like index funds or mutual funds, might spread their inv
 
 The performance of regional funds is measured by looking at how much money the fund makes for its investors over time. This is often done by comparing the fund's returns to a benchmark, which is like a standard that shows how well the region's overall market is doing. If the fund does better than the benchmark, it means the fund's investments are doing well compared to the rest of the market in that area. The fund's performance can also be compared to other similar funds to see if it's doing better or worse than its peers.
 
-To evaluate a regional fund, people look at different numbers and reports. One important number is the fund's total return, which shows how much the value of the fund has gone up or down over a certain time. Another number to look at is the fund's volatility, which shows how much the fund's value goes up and down. A fund with high volatility might be riskier but could also offer bigger rewards. Reports from the fund's managers can also help investors understand what the fund is doing and why it's performing the way it is. By looking at all these things together, investors can decide if the fund is a good choice for them.
+To evaluate a regional fund, people look at different numbers and reports. One important number is the fund's total return, which shows how much the value of the fund has gone up or down over a certain time. Another number to look at is the fund's [volatility](/wiki/volatility-trading-strategies), which shows how much the fund's value goes up and down. A fund with high volatility might be riskier but could also offer bigger rewards. Reports from the fund's managers can also help investors understand what the fund is doing and why it's performing the way it is. By looking at all these things together, investors can decide if the fund is a good choice for them.
 
 ## What are the common challenges faced by regional funds?
 

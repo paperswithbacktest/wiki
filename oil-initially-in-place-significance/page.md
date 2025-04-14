@@ -34,7 +34,7 @@ Reserves, on the other hand, are the part of the OIIP that people think they can
 
 ## How does OIIP relate to recovery factor?
 
-OIIP, or Oil Initially In Place, is the total amount of oil in a reservoir before any is taken out. The recovery factor is a number that tells us how much of that oil we can actually get out. It's like knowing how much juice you can squeeze from a fruit. If the recovery factor is high, it means we can get a lot of the oil out of the ground. If it's low, we can only get a little bit.
+OIIP, or Oil Initially In Place, is the total amount of oil in a reservoir before any is taken out. The recovery [factor](/wiki/factor-investing) is a number that tells us how much of that oil we can actually get out. It's like knowing how much juice you can squeeze from a fruit. If the recovery factor is high, it means we can get a lot of the oil out of the ground. If it's low, we can only get a little bit.
 
 To find out how much oil we can recover, we multiply the OIIP by the recovery factor. For example, if a reservoir has 100 million barrels of OIIP and the recovery factor is 30%, we can expect to recover about 30 million barrels of oil. This helps oil companies plan how much oil they can sell and how much money they might make. Understanding the recovery factor and OIIP together is key to making smart choices in the oil and gas industry.
 
@@ -78,7 +78,7 @@ On the other hand, if the OIIP estimate goes down, it means there might be less 
 
 The latest advancements in OIIP estimation techniques have made it easier and more accurate to guess how much oil is in a reservoir. One big advancement is the use of better seismic imaging technology. This technology sends sound waves into the ground and listens to the echoes to create a detailed picture of what's underground. With newer, more powerful computers, these images can be even clearer, helping experts see the size, shape, and type of rock in the oil reservoir. This helps them make better guesses about how much oil might be there.
 
-Another advancement is the use of advanced computer simulations and machine learning. These tools can take all the data from the reservoir and run different scenarios to see how much oil might be in different parts of the reservoir. Machine learning can help find patterns in the data that might be hard for people to see. This makes the OIIP estimates more accurate and helps companies plan better for drilling and other work. These new techniques are making a big difference in how the oil and gas industry figures out how much oil is in the ground.
+Another advancement is the use of advanced computer simulations and [machine learning](/wiki/machine-learning). These tools can take all the data from the reservoir and run different scenarios to see how much oil might be in different parts of the reservoir. Machine learning can help find patterns in the data that might be hard for people to see. This makes the OIIP estimates more accurate and helps companies plan better for drilling and other work. These new techniques are making a big difference in how the oil and gas industry figures out how much oil is in the ground.
 
 ## What are the methods for calculating OIIP?
 

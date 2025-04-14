@@ -96,7 +96,7 @@ Another variation of the If-Converted Method is to run it many times with differ
 
 Future developments in programming might make the If-Converted Method easier to use. As computers get faster and better, programs that use the If-Converted Method can run calculations even quicker. This means you can try out more scenarios to see how converting bonds or preferred stock might change a company's earnings per share. Also, new tools and software might come out that work well with the If-Converted Method, making it easier to combine it with other financial analysis tools. This would help people get a fuller picture of how converting securities could affect a company's finances.
 
-Another trend that might affect the If-Converted Method is the growing use of artificial intelligence and machine learning in finance. These technologies can help by looking at lots of data to predict how converting securities might impact a company's earnings per share. They could even suggest the best times to convert based on current market conditions. As AI and machine learning become more common in financial analysis, they could make the If-Converted Method more powerful and useful, helping people make smarter decisions about their investments.
+Another trend that might affect the If-Converted Method is the growing use of [artificial intelligence](/wiki/ai-artificial-intelligence) and [machine learning](/wiki/machine-learning) in finance. These technologies can help by looking at lots of data to predict how converting securities might impact a company's earnings per share. They could even suggest the best times to convert based on current market conditions. As AI and machine learning become more common in financial analysis, they could make the If-Converted Method more powerful and useful, helping people make smarter decisions about their investments.
 
 ## What is the If-Converted Method?
 
@@ -120,7 +120,7 @@ For programmers developing trading algorithms, an understanding of the if-conver
 
 **What are convertible securities, and why are they significant in trading?**
 
-Convertible securities are financial instruments, typically bonds or preferred shares, that can be converted into a predetermined number of common stock or equity shares of the issuing company. They are significant in trading because they offer a potential upside of conversion into stock while usually providing a fixed income until conversion. This makes them a versatile tool for both investors seeking income and those looking for equity growth. For traders, these securities offer opportunities to profit from changes in interest rates, stock price movements, and volatility, making them attractive for various trading strategies.
+Convertible securities are financial instruments, typically bonds or preferred shares, that can be converted into a predetermined number of common stock or equity shares of the issuing company. They are significant in trading because they offer a potential upside of conversion into stock while usually providing a fixed income until conversion. This makes them a versatile tool for both investors seeking income and those looking for equity growth. For traders, these securities offer opportunities to profit from changes in interest rates, stock price movements, and [volatility](/wiki/volatility-trading-strategies), making them attractive for various trading strategies.
 
 **How does the if-converted method affect earnings calculations?**
 

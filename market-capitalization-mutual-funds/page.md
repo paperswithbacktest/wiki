@@ -34,7 +34,7 @@ Small-cap funds invest in the smallest companies, usually those with a market va
 
 ## What are the benefits of investing in market capitalization mutual funds?
 
-Investing in market capitalization mutual funds can help you spread your money across different sizes of companies. When you put your money into a large-cap fund, you're investing in big, stable companies that are less likely to lose a lot of value quickly. This can be good if you want to keep your money safe. On the other hand, if you choose a mid-cap or small-cap fund, you're investing in companies that might grow a lot. These can be riskier, but they also offer the chance to make more money. By picking the right type of fund, you can match your investment to how much risk you're okay with and what you want to achieve.
+Investing in market capitalization mutual funds can help you spread your money across different sizes of companies. When you put your money into a large-cap fund, you're investing in big, stable companies that are less likely to lose a lot of value quickly. This can be good if you want to keep your money safe. On the other hand, if you choose a mid-cap or small-cap fund, you're investing in companies that might grow a lot. These can be riskier, but they also offer the chance to make more money. By [picking](/wiki/asset-class-picking) the right type of fund, you can match your investment to how much risk you're okay with and what you want to achieve.
 
 Another benefit is that market capitalization mutual funds are managed by professionals. They do the work of picking which companies to invest in, so you don't have to spend time doing that yourself. This can be really helpful if you're new to investing or if you just don't have the time to manage your investments. Also, these funds can be a good way to diversify your portfolio. Instead of putting all your money into one or two companies, you're spreading it across many. This can help reduce the risk that comes with investing because if one company does badly, it won't hurt your whole investment as much.
 
@@ -94,7 +94,7 @@ Market cap classes—small-cap, mid-cap, and large-cap—help investors target c
 
 **Small-Cap Funds**
 
-Small-cap funds focus on companies with a market capitalization typically under $2 billion. These companies are generally in the early stages of growth, offering substantial growth potential due to their ability to innovate and adapt swiftly. However, this potential is coupled with increased volatility and higher risk, as smaller companies may be less established and more susceptible to economic fluctuations and competitive pressures. Investors with a higher risk tolerance and a longer investment horizon often choose small-cap funds to capitalize on their growth prospects.
+Small-cap funds focus on companies with a market capitalization typically under $2 billion. These companies are generally in the early stages of growth, offering substantial growth potential due to their ability to innovate and adapt swiftly. However, this potential is coupled with increased [volatility](/wiki/volatility-trading-strategies) and higher risk, as smaller companies may be less established and more susceptible to economic fluctuations and competitive pressures. Investors with a higher risk tolerance and a longer investment horizon often choose small-cap funds to capitalize on their growth prospects.
 
 **Mid-Cap Funds**
 

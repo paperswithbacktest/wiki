@@ -38,7 +38,7 @@ If the halt is because the stock price is moving too fast, it might be shorter. 
 
 There are a few different types of trading halts. One type is called a "news pending" halt. This happens when a company is about to share big news, like earnings or a merger. The stock exchange stops trading so everyone can learn about the news at the same time. This keeps things fair and stops some people from trading with information others don't have yet.
 
-Another type is a "volatility halt." This happens when a stock's price starts moving a lot very quickly. The exchange might pause trading to calm things down and make sure the price isn't being pushed around unfairly. This helps keep the market stable and fair for everyone.
+Another type is a "[volatility](/wiki/volatility-trading-strategies) halt." This happens when a stock's price starts moving a lot very quickly. The exchange might pause trading to calm things down and make sure the price isn't being pushed around unfairly. This helps keep the market stable and fair for everyone.
 
 Sometimes, there are also "regulatory halts." These happen if there's a problem with the trading system or if the exchange needs to fix some data. A regulatory halt helps prevent mistakes and keeps the market running smoothly.
 

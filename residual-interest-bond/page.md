@@ -82,7 +82,7 @@ One advanced strategy to optimize returns from Residual Interest Bonds is to car
 
 Another strategy is to use timing to your advantage. Residual Interest Bonds can be very sensitive to changes in the market, so buying them when the market is down and selling when it's up can lead to higher returns. This requires keeping a close eye on economic indicators and market trends. For instance, if you believe the economy is about to recover from a downturn, buying Residual Interest Bonds at that time could be profitable. However, this approach requires a good understanding of market cycles and a willingness to take on more risk, as the timing might not always work in your favor.
 
-Lastly, diversification within your Residual Interest Bond investments can also help optimize returns. Instead of putting all your money into one bond, spread it across several different bonds with different underlying assets. This way, if one bond doesn't perform well, others might make up for it. By having a mix of bonds from different sectors or with different risk levels, you can balance out the ups and downs, increasing your overall chance of earning a good return.
+Lastly, diversification within your Residual Interest Bond investments can also help optimize returns. Instead of putting all your money into one bond, spread it across several different bonds with different underlying assets. This way, if one bond doesn't perform well, others might make up for it. By having a mix of bonds from different sectors or with different risk levels, you can balance out the ups and downs, increasing your overall chance of [earning](/wiki/earning-announcement) a good return.
 
 ## References & Further Reading
 

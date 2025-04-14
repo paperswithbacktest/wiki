@@ -36,7 +36,7 @@ This calculation helps you see if your investment did better than the market. If
 
 The risk-free rate is like a safe bet in investing. It's the return you can get from an investment that has almost no risk, like a U.S. Treasury bond. Imagine you have money to invest, but you don't want to take any chances. You put your money in a safe place where you know you'll get a small but sure return. That small, sure return is the risk-free rate.
 
-When we talk about excess returns, the risk-free rate comes into play. Instead of just comparing your investment's return to a market benchmark like the S&P 500, you can compare it to the risk-free rate. This helps you see if you're getting a good reward for the risk you're taking. If your investment return is higher than the risk-free rate, you're earning an excess return over what you could have gotten safely. This is important because it shows if the extra risk you took was worth it.
+When we talk about excess returns, the risk-free rate comes into play. Instead of just comparing your investment's return to a market benchmark like the S&P 500, you can compare it to the risk-free rate. This helps you see if you're getting a good reward for the risk you're taking. If your investment return is higher than the risk-free rate, you're [earning](/wiki/earning-announcement) an excess return over what you could have gotten safely. This is important because it shows if the extra risk you took was worth it.
 
 ## How do you select an appropriate benchmark for calculating excess returns?
 
@@ -52,7 +52,7 @@ Choosing the right benchmark depends on what you're investing in. If your invest
 
 ## What role does excess return play in portfolio management?
 
-Excess returns are really important when you're managing a portfolio because they help you see if your investments are doing better than just following the market. Imagine you're picking stocks and they grow more than a common index like the S&P 500. The extra growth you get is your excess return. This tells you if your choices are smart and if you're beating the average performance. It's like getting a bonus for being a good investor. Knowing your excess returns helps you decide if you should keep your current strategy or try something different.
+Excess returns are really important when you're managing a portfolio because they help you see if your investments are doing better than just following the market. Imagine you're [picking](/wiki/asset-class-picking) stocks and they grow more than a common index like the S&P 500. The extra growth you get is your excess return. This tells you if your choices are smart and if you're beating the average performance. It's like getting a bonus for being a good investor. Knowing your excess returns helps you decide if you should keep your current strategy or try something different.
 
 In portfolio management, excess returns also help you understand if the risks you're taking are worth it. If your investments are only matching the market, you might not be getting enough reward for the risks you're taking. But if your investments are consistently doing better than the market, it shows that your strategy is working well. This information is key for investors who want to improve their skills and make better decisions in the future. By focusing on excess returns, you can see if your portfolio is performing well and if you're on the right track.
 
@@ -78,7 +78,7 @@ It's also important to think about how long you're looking at the market. Short-
 
 In financial research, people use fancy math to understand excess returns better. One common method is regression analysis. This helps researchers see how much of an investment's return comes from the market and how much is extra. They can also use it to find out if certain things, like the size of a company or how much it grows, affect excess returns. Another method is the Sharpe Ratio, which measures how much extra return you get for the risk you take. A higher Sharpe Ratio means you're getting more reward for the risk, which is good.
 
-Another tool researchers use is the Information Ratio, which looks at how well a fund manager does compared to a benchmark, considering the ups and downs of their returns. This helps see if the manager's choices are really beating the market in a consistent way. There's also something called factor models, like the Fama-French Three-Factor Model, which breaks down returns into different parts like the market, size of the company, and value. This helps understand what's driving excess returns and if they're because of skill or just luck.
+Another tool researchers use is the Information Ratio, which looks at how well a fund manager does compared to a benchmark, considering the ups and downs of their returns. This helps see if the manager's choices are really beating the market in a consistent way. There's also something called [factor](/wiki/factor-investing) models, like the Fama-French Three-Factor Model, which breaks down returns into different parts like the market, size of the company, and value. This helps understand what's driving excess returns and if they're because of skill or just luck.
 
 ## What are financial formulas?
 
@@ -220,9 +220,9 @@ These metrics are invaluable for investors as they help determine if the potenti
 
 ## What is the conclusion?
 
-Investment risk, excess returns, and algorithmic trading serve as interconnected pillars in modern portfolio management, each playing a critical role in shaping the investment landscape. Understanding and mastering the financial formulas and strategies that underpin these elements can significantly enhance an investor's ability to construct robust portfolios.
+Investment risk, excess returns, and [algorithmic trading](/wiki/algorithmic-trading) serve as interconnected pillars in modern portfolio management, each playing a critical role in shaping the investment landscape. Understanding and mastering the financial formulas and strategies that underpin these elements can significantly enhance an investor's ability to construct robust portfolios.
 
-Investment risk is a multifaceted concept that includes various types of risk such as market, credit, and liquidity risk. Effectively managing these risks is crucial for portfolio diversification and achieving an optimal asset allocation. By using risk-adjusted metrics like the Sharpe Ratio, which measures the return of an investment compared to its risk, investors can make informed decisions:
+Investment risk is a multifaceted concept that includes various types of risk such as market, credit, and [liquidity](/wiki/liquidity-risk-premium) risk. Effectively managing these risks is crucial for portfolio diversification and achieving an optimal asset allocation. By using risk-adjusted metrics like the Sharpe Ratio, which measures the return of an investment compared to its risk, investors can make informed decisions:
 
 $$
 \text{Sharpe Ratio} = \frac{\text{Expected Portfolio Return} - \text{Risk-Free Rate}}{\text{Standard Deviation of Portfolio Return}}

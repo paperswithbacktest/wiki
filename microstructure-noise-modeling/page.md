@@ -76,7 +76,7 @@ Currencies also show different levels of microstructure noise. In the foreign ex
 
 ## What are the current research frontiers in microstructure noise modeling?
 
-One of the newest areas in microstructure noise modeling is using machine learning to better understand and predict the noise. Scientists are using smart computer programs to look at lots of data and find patterns that are hard for people to see. These programs can learn from the data and get better at telling the difference between real price changes and the tiny, random ones caused by noise. This could help traders and researchers make better decisions because they can see past the noise more clearly.
+One of the newest areas in microstructure noise modeling is using [machine learning](/wiki/machine-learning) to better understand and predict the noise. Scientists are using smart computer programs to look at lots of data and find patterns that are hard for people to see. These programs can learn from the data and get better at telling the difference between real price changes and the tiny, random ones caused by noise. This could help traders and researchers make better decisions because they can see past the noise more clearly.
 
 Another exciting area is studying how microstructure noise affects different types of markets around the world. Researchers are looking at how the noise changes in places like the stock market in New York, the bond market in Europe, or the currency market in Asia. They want to know if the noise is bigger or smaller in some places and why. This can help people who work in these markets understand the noise better and come up with new ways to deal with it, no matter where they are trading.
 

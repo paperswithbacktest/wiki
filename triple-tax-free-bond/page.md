@@ -34,7 +34,7 @@ Investors who are in high tax brackets will also find these bonds very useful. B
 
 ## What are the risks associated with triple tax-free bonds?
 
-Triple tax-free bonds, like all investments, come with some risks. One big risk is interest rate risk. This means if interest rates go up, the value of your bond can go down. If you need to sell your bond before it matures, you might get less money than you paid for it. Also, these bonds might not give you as much return as other investments like stocks, so you might miss out on higher earnings.
+Triple tax-free bonds, like all investments, come with some risks. One big risk is [interest rate](/wiki/interest-rate-trading-strategies) risk. This means if interest rates go up, the value of your bond can go down. If you need to sell your bond before it matures, you might get less money than you paid for it. Also, these bonds might not give you as much return as other investments like stocks, so you might miss out on higher earnings.
 
 Another risk is credit risk. Even though these bonds are backed by the government, there's still a chance the government could have money problems and not be able to pay you back. This is less common with municipal bonds, but it can happen. It's a good idea to check the credit rating of the bond to see how safe it is.
 
@@ -70,7 +70,7 @@ Another reason to include triple tax-free bonds in your portfolio is the tax ben
 
 Triple tax-free bonds have a history of being a steady and safe investment. Over the years, they've given people a good way to earn money without having to worry about taxes. If you look at the past, you'll see that these bonds usually give a steady return, which can be really helpful if you want to keep your money safe and growing slowly. For example, over the last 20 years, the average return on these bonds has been around 3% to 4% per year. This might not sound like a lot, but when you don't have to pay any taxes on it, it can add up to more money in your pocket.
 
-Looking at specific times, like during the 2008 financial crisis, triple tax-free bonds showed how strong they can be. While the stock market was going crazy, these bonds stayed pretty stable. People who had money in triple tax-free bonds didn't lose as much as those who had all their money in stocks. This shows that these bonds can be a good choice when you want to protect your money during tough times. Of course, past performance doesn't guarantee what will happen in the future, but it gives you a good idea of how these bonds have worked over time.
+Looking at specific times, like during the 2008 financial crisis, triple tax-free bonds showed how strong they can be. While the stock market was going crazy, these bonds stayed pretty stable. People who had money in triple tax-free bonds didn't lose as much as those who had all their money in stocks. This shows that these bonds can be a good choice when you want to protect your money during tough times. Of [course](/wiki/best-algorithmic-trading-courses), past performance doesn't guarantee what will happen in the future, but it gives you a good idea of how these bonds have worked over time.
 
 ## How do changes in tax laws potentially impact the attractiveness of triple tax-free bonds?
 

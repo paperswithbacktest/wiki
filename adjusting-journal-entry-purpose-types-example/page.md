@@ -22,7 +22,7 @@ These entries follow the matching principle, which means that the revenues a com
 
 ## What is the difference between adjusting entries and regular journal entries?
 
-Adjusting entries and regular journal entries both help keep a company's financial records up to date, but they are used for different reasons. Regular journal entries are made throughout the accounting period to record everyday business transactions, like when a company buys something or sells a product. These entries happen as soon as the transaction takes place, and they help keep the books current day by day.
+Adjusting entries and regular journal entries both help keep a company's financial records up to date, but they are used for different reasons. Regular journal entries are made throughout the accounting period to record everyday business transactions, like when a company buys something or sells a product. These entries happen as soon as the transaction takes place, and they help keep the [books](/wiki/algo-trading-books) current day by day.
 
 Adjusting entries, on the other hand, are made at the end of an accounting period, like at the end of a month or a year. They are used to update accounts that might not have been recorded correctly during the period. For example, if a company used some of its supplies but didn't record it yet, an adjusting entry would fix that. Adjusting entries make sure the financial statements show the true financial situation of the company by matching revenues with the expenses that helped earn those revenues.
 

@@ -18,7 +18,7 @@ Because the bank can say no, uncommitted facilities are less risky for the bank.
 
 An uncommitted facility is like a flexible loan where the bank doesn't have to give you money even if you ask for it. It's less certain for the borrower because the bank can say no whenever you need money. This type of facility is less risky for the bank, so they might charge a lower interest rate. The borrower only pays interest on the money they actually use, which can be good if they don't need much money at once.
 
-A committed facility is different because the bank promises to give you money when you ask for it, as long as you follow the rules of the loan agreement. This makes it more certain for the borrower, but it's riskier for the bank because they have to lend the money no matter what. Because of this, the bank might charge a higher interest rate or a fee just for having the facility available, even if you don't use it.
+A committed facility is different because the bank promises to give you money when you ask for it, as long as you follow the rules of the loan agreement. This makes it more certain for the borrower, but it's riskier for the bank because they have to lend the money no matter what. Because of this, the bank might charge a higher [interest rate](/wiki/interest-rate-trading-strategies) or a fee just for having the facility available, even if you don't use it.
 
 ## What are the typical uses of an uncommitted facility for businesses?
 

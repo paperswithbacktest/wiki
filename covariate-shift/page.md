@@ -36,7 +36,7 @@ To fix this, you need to make sure the model sees data during training that is s
 
 To detect covariate shift, you can compare the training data to the data you're using the model on. One way to do this is by looking at the distribution of the input features. If the distribution of the features in the new data is very different from the distribution in the training data, it could mean there's covariate shift. You can use statistical tests like the Kolmogorov-Smirnov test to see if the distributions are different. Another way is to use visualizations, like histograms or scatter plots, to see if the new data looks different from the training data.
 
-Another method to detect covariate shift is by using machine learning models themselves. You can train a model to predict whether a data point came from the training set or the new data set. If the model can tell the difference easily, it means there's likely covariate shift. This method is called a two-sample test. You can also use techniques like importance weighting, where you assign weights to the data points based on how different they are from the training data. If the weights are very different, it could be a sign of covariate shift.
+Another method to detect covariate shift is by using [machine learning](/wiki/machine-learning) models themselves. You can train a model to predict whether a data point came from the training set or the new data set. If the model can tell the difference easily, it means there's likely covariate shift. This method is called a two-sample test. You can also use techniques like importance weighting, where you assign weights to the data points based on how different they are from the training data. If the weights are very different, it could be a sign of covariate shift.
 
 ## How can one adapt a model to handle covariate shift?
 
@@ -64,7 +64,7 @@ For example, if you have a model that predicts traffic patterns in one city and 
 
 ## What advanced techniques are used to mitigate covariate shift in deep learning models?
 
-In deep learning, one advanced technique to handle covariate shift is called domain adversarial training. This method helps the model learn to ignore the differences between the training data and the new data it sees. Imagine you're teaching a model to recognize cats, and it was trained with pictures from one place but now it's used in a different place where the backgrounds are different. Domain adversarial training makes the model focus on the important parts, like the shape of the cat, and not the changing backgrounds. This way, the model can still recognize cats no matter where the pictures come from.
+In [deep learning](/wiki/deep-learning), one advanced technique to handle covariate shift is called domain adversarial training. This method helps the model learn to ignore the differences between the training data and the new data it sees. Imagine you're teaching a model to recognize cats, and it was trained with pictures from one place but now it's used in a different place where the backgrounds are different. Domain adversarial training makes the model focus on the important parts, like the shape of the cat, and not the changing backgrounds. This way, the model can still recognize cats no matter where the pictures come from.
 
 Another technique is transfer learning, where you use a model that was trained on one type of data and then fine-tune it with new data. For example, if you trained a model to recognize objects in daytime photos and now you want it to work at night, you can start with the daytime model and then show it lots of night-time photos. The model learns to adjust to the new lighting conditions without forgetting what it already knows. This helps the model adapt to covariate shift by using what it learned before and updating it with new information.
 
@@ -82,7 +82,7 @@ In the future, managing covariate shift might get even easier. One direction is 
 
 ## How can we detect covariate shift?
 
-Detecting covariate shift in financial data is crucial for maintaining the robustness of algorithmic trading models. Various tools and techniques have been developed to identify such shifts, leveraging both statistical methods and machine learning approaches.
+Detecting covariate shift in financial data is crucial for maintaining the robustness of [algorithmic trading](/wiki/algorithmic-trading) models. Various tools and techniques have been developed to identify such shifts, leveraging both statistical methods and machine learning approaches.
 
 ### Statistical Methods for Identifying Covariate Shift
 

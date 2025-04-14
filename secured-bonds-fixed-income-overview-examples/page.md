@@ -32,7 +32,7 @@ Sometimes, secured bonds can also be backed by financial assets. These could be 
 
 Investing in secured bonds has some good benefits. One big benefit is that they are safer than unsecured bonds. This is because secured bonds have specific assets backing them up. If the company can't pay back the bond, you can take those assets. This makes you feel more secure as an investor because you know there's something valuable behind your investment.
 
-Another benefit is that secured bonds usually have lower interest rates. This might sound like a downside, but it can be good for certain investors. If you're looking for a steady and safe investment, the lower interest rate of a secured bond can be attractive. You get a bit less return, but you also take on less risk. This can be a smart choice if you want to keep your money safe while still earning some interest.
+Another benefit is that secured bonds usually have lower interest rates. This might sound like a downside, but it can be good for certain investors. If you're looking for a steady and safe investment, the lower [interest rate](/wiki/interest-rate-trading-strategies) of a secured bond can be attractive. You get a bit less return, but you also take on less risk. This can be a smart choice if you want to keep your money safe while still [earning](/wiki/earning-announcement) some interest.
 
 ## What are the risks associated with secured bonds?
 

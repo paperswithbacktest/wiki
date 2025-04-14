@@ -102,7 +102,7 @@ While APT offers a more nuanced approach to asset pricing than CAPM, it also pre
 
 ## How can APT be integrated into algorithmic trading?
 
-Arbitrage Pricing Theory (APT) can significantly enhance algorithmic trading strategies by introducing a multi-factor model to assess expected returns and associated risks. The core idea is to leverage the APT's framework to predict asset prices more precisely and manage risk more effectively, which is crucial for developing robust algorithmic trading systems.
+Arbitrage Pricing Theory (APT) can significantly enhance [algorithmic trading](/wiki/algorithmic-trading) strategies by introducing a multi-factor model to assess expected returns and associated risks. The core idea is to leverage the APT's framework to predict asset prices more precisely and manage risk more effectively, which is crucial for developing robust algorithmic trading systems.
 
 ### Incorporating APT-derived Expected Returns and Risks
 

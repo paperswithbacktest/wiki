@@ -28,7 +28,7 @@ But, inventory isn't just cash sitting in the bank. It's stuff that needs to be 
 
 ## How does inventory affect a company's liquidity?
 
-Inventory can affect a company's liquidity because it's part of the company's current assets. Liquidity is about how quickly a company can turn its assets into cash to pay bills and keep running. When a company sells its inventory, it gets cash, which improves its liquidity. But, if the inventory is slow to sell or if there's too much of it, it can tie up money that the company could use for other things. This can make it harder for the company to pay its bills on time, which means its liquidity goes down.
+Inventory can affect a company's [liquidity](/wiki/liquidity-risk-premium) because it's part of the company's current assets. Liquidity is about how quickly a company can turn its assets into cash to pay bills and keep running. When a company sells its inventory, it gets cash, which improves its liquidity. But, if the inventory is slow to sell or if there's too much of it, it can tie up money that the company could use for other things. This can make it harder for the company to pay its bills on time, which means its liquidity goes down.
 
 Managing inventory well is important for keeping good liquidity. If a company has just the right amount of inventory, it can sell it quickly and keep cash flowing. But if it has too much inventory, it might have to wait longer to turn that inventory into cash. This can hurt the company's liquidity because it has less money available to use right away. So, keeping a close eye on inventory levels helps a company stay liquid and ready to handle its day-to-day costs.
 

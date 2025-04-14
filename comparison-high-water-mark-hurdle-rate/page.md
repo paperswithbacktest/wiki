@@ -24,7 +24,7 @@ Hurdle rates help businesses and investors make smart choices. They use it to co
 
 In investment funds, a high-water mark is like a record of the highest value the fund has ever reached. It's important because it helps make sure that fund managers only get paid performance fees when they do better than their past best. For example, if the fund's value goes up to $100, that becomes the high-water mark. If the value drops to $90 and then goes back up to $100, the manager doesn't get a performance fee until the fund's value goes above $100 again. This way, investors know that the manager is working to keep improving the fund's performance.
 
-A hurdle rate in investment funds is like a minimum goal that the fund needs to reach before the manager can earn a performance fee. It's a way to make sure that the fund is doing well enough before anyone gets extra pay. For instance, if the hurdle rate is set at 5%, the fund's returns need to be at least 5% before the manager can start earning performance fees on any returns above that. This encourages the manager to aim for returns that are better than just the minimum, making sure that the fund is working hard to grow the investors' money.
+A hurdle rate in investment funds is like a minimum goal that the fund needs to reach before the manager can earn a performance fee. It's a way to make sure that the fund is doing well enough before anyone gets extra pay. For instance, if the hurdle rate is set at 5%, the fund's returns need to be at least 5% before the manager can start [earning](/wiki/earning-announcement) performance fees on any returns above that. This encourages the manager to aim for returns that are better than just the minimum, making sure that the fund is working hard to grow the investors' money.
 
 ## What are the primary differences between a high-water mark and a hurdle rate?
 
@@ -34,7 +34,7 @@ On the other hand, a hurdle rate is a minimum goal that the fund needs to reach 
 
 ## Why are high-water marks important in hedge funds?
 
-High-water marks are important in hedge funds because they help make sure that fund managers earn their performance fees fairly. When a hedge fund reaches a new high value, that becomes the high-water mark. If the fund's value drops and then goes back up to that high-water mark, the manager doesn't get paid until the value goes above it again. This rule stops managers from getting paid for just bringing the fund back to where it was before. It makes sure they keep working hard to do better than their past best.
+High-water marks are important in hedge funds because they help make sure that fund managers earn their performance fees fairly. When a [hedge fund](/wiki/hedge-fund-trading-strategies) reaches a new high value, that becomes the high-water mark. If the fund's value drops and then goes back up to that high-water mark, the manager doesn't get paid until the value goes above it again. This rule stops managers from getting paid for just bringing the fund back to where it was before. It makes sure they keep working hard to do better than their past best.
 
 This is good for investors because it means they only pay performance fees when the fund is doing really well. It protects them from paying for the same gains twice. High-water marks encourage hedge fund managers to focus on growing the fund's value over time, rather than just trying to recover from losses. This helps build trust between investors and managers, making sure everyone is working towards the same goal of increasing the fund's value.
 
@@ -52,7 +52,7 @@ When the fund's value drops below the high-water mark and then goes back up, the
 
 ## What are common methods to calculate a hurdle rate?
 
-A hurdle rate is like a minimum goal that a project or investment needs to reach. To calculate it, people often look at what they could earn from other safe investments, like government bonds. They might use the interest rate from these bonds as a starting point. Then, they add extra percentages to account for the risk of the new project or investment. The riskier the project, the higher the hurdle rate they set.
+A hurdle rate is like a minimum goal that a project or investment needs to reach. To calculate it, people often look at what they could earn from other safe investments, like government bonds. They might use the [interest rate](/wiki/interest-rate-trading-strategies) from these bonds as a starting point. Then, they add extra percentages to account for the risk of the new project or investment. The riskier the project, the higher the hurdle rate they set.
 
 Another way to calculate a hurdle rate is by using the company's cost of capital. This is the average rate a company pays to borrow money or use its own money for investments. To find the hurdle rate, they might add a bit more to the cost of capital to make sure the new project does better than just covering the costs. This method helps make sure the new project is worth the risk and will add value to the company.
 

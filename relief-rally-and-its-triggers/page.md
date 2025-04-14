@@ -60,7 +60,7 @@ Since relief rallies are based on feelings, they can end as fast as they start. 
 
 ## What technical indicators are used to predict a relief rally?
 
-Technical indicators can help investors see when a relief rally might start. One common indicator is the Relative Strength Index (RSI). When the RSI goes from being very low to moving up, it can mean that the market is getting less oversold. This can happen when people start feeling better after bad times, which might lead to a relief rally. Another indicator is trading volume. If the volume goes up a lot when the market starts going up after being down, it can show that many people are buying stocks again because they feel relieved.
+Technical indicators can help investors see when a relief rally might start. One common indicator is the Relative Strength Index (RSI). When the RSI goes from being very low to moving up, it can mean that the market is getting less oversold. This can happen when people start feeling better after bad times, which might lead to a relief rally. Another indicator is trading [volume](/wiki/volume-trading-strategy). If the volume goes up a lot when the market starts going up after being down, it can show that many people are buying stocks again because they feel relieved.
 
 Another useful indicator is the moving average. If the stock price goes above its moving average after being below it for a while, it can be a sign that a relief rally is starting. This happens because the moving average shows the average price over time, and when the price goes above it, it can mean that the market is turning around. These indicators are not perfect, but they can give investors a hint that a relief rally might be coming.
 
@@ -84,7 +84,7 @@ But, relief rallies can be different in different parts of the world because of 
 
 ## References & Further Reading
 
-For further insights on the impact of algorithmic trading and its role in influencing stock market dynamics, readers can explore a range of scholarly articles and [books](/wiki/algo-trading-books). A comprehensive approach includes understanding historical movements during major financial crises, which often shed light on market psychology and investor behavior during periods of turmoil and recovery. In addition, developing a solid foundation in advanced trading strategies through the use of technical indicators can greatly enhance one's trading acumen.
+For further insights on the impact of [algorithmic trading](/wiki/algorithmic-trading) and its role in influencing stock market dynamics, readers can explore a range of scholarly articles and [books](/wiki/algo-trading-books). A comprehensive approach includes understanding historical movements during major financial crises, which often shed light on market psychology and investor behavior during periods of turmoil and recovery. In addition, developing a solid foundation in advanced trading strategies through the use of technical indicators can greatly enhance one's trading acumen.
 
 1. **Impact of Algorithmic Trading**: Algorithmic trading has transformed financial markets by providing tools that can execute trades with speed and precision. Several articles and research papers offer detailed analyses of how these algorithm-driven systems influence market efficiency, volatility, and liquidity. Academic journals such as The Journal of Trading and The Journal of Financial Markets are valuable resources for empirical studies on this topic.
 

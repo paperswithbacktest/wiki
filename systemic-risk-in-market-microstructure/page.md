@@ -18,7 +18,7 @@ Market microstructure focuses on the details of how trading happens, like the ru
 
 Market microstructure looks at the nitty-gritty of how trading works, like the rules and technology used in trading platforms. It can contribute to systemic risk if something goes wrong in these details. For example, if a major trading platform crashes, it can stop people from buying and selling, causing panic. This panic can spread quickly, making more people want to sell their assets, which can lead to a big drop in prices and hurt the whole financial system.
 
-Another way market microstructure can lead to systemic risk is through liquidity problems. Liquidity is about how easily you can buy or sell something without affecting its price too much. If there's suddenly less liquidity, maybe because of a big event or a technical glitch, it can be hard for people to trade. This can cause a chain reaction where more people try to sell, making liquidity even worse and causing more panic. This kind of situation can spread from one part of the market to another, creating a systemic crisis.
+Another way market microstructure can lead to systemic risk is through [liquidity](/wiki/liquidity-risk-premium) problems. Liquidity is about how easily you can buy or sell something without affecting its price too much. If there's suddenly less liquidity, maybe because of a big event or a technical glitch, it can be hard for people to trade. This can cause a chain reaction where more people try to sell, making liquidity even worse and causing more panic. This kind of situation can spread from one part of the market to another, creating a systemic crisis.
 
 ## What are the key components of market microstructure that influence systemic risk?
 
@@ -34,7 +34,7 @@ When prices drop a lot because of low liquidity, it can cause problems that spre
 
 ## What role do high-frequency trading and algorithmic trading play in systemic risk?
 
-High-frequency trading and algorithmic trading use computers to buy and sell things very quickly. These kinds of trading can make the market more efficient, but they can also add to systemic risk. If something goes wrong with the computers or the trading rules, it can cause a lot of trouble. For example, if a high-frequency trading system starts selling a lot of things quickly because of a mistake, it can make prices drop fast and cause other traders to panic and sell too. This can lead to a big drop in prices and spread trouble to other parts of the market.
+High-frequency trading and [algorithmic trading](/wiki/algorithmic-trading) use computers to buy and sell things very quickly. These kinds of trading can make the market more efficient, but they can also add to systemic risk. If something goes wrong with the computers or the trading rules, it can cause a lot of trouble. For example, if a high-frequency trading system starts selling a lot of things quickly because of a mistake, it can make prices drop fast and cause other traders to panic and sell too. This can lead to a big drop in prices and spread trouble to other parts of the market.
 
 Another way high-frequency and algorithmic trading can add to systemic risk is by making the market more connected. When these trading systems are used a lot, they can make what happens in one part of the market affect other parts more quickly. If something bad happens, like a big drop in prices, it can spread to other markets faster because of these fast trading systems. This can make a small problem turn into a big one that affects the whole financial system.
 
@@ -76,13 +76,13 @@ Another important thing market participants can do is to work together and share
 
 ## What are the future research directions for understanding systemic risk in market microstructure?
 
-Future research into systemic risk in market microstructure will likely focus on better understanding how high-frequency trading and algorithmic trading affect the market. These kinds of trading can make prices change very quickly, so researchers want to know more about how they can cause big problems. They will also look at how new technology, like artificial intelligence and machine learning, might change the way trading happens and add to systemic risk. By studying these things, researchers hope to find new ways to predict and stop big problems before they happen.
+Future research into systemic risk in market microstructure will likely focus on better understanding how high-frequency trading and algorithmic trading affect the market. These kinds of trading can make prices change very quickly, so researchers want to know more about how they can cause big problems. They will also look at how new technology, like [artificial intelligence](/wiki/ai-artificial-intelligence) and [machine learning](/wiki/machine-learning), might change the way trading happens and add to systemic risk. By studying these things, researchers hope to find new ways to predict and stop big problems before they happen.
 
 Another important area for future research is how different parts of the financial system are connected. When trading is spread out across different places, a problem in one place can spread to others quickly. Researchers will work on better models to understand these connections and see how problems can spread. They will also study how rules and regulations can help keep the market stable and safe. By doing this research, they can help make the financial system stronger and less likely to have big crises.
 
 ## What is the impact of systemic risk on market microstructure?
 
-Systemic risk poses significant challenges to market microstructure, primarily through its capacity to distort price formation, leading to increased bid-ask spreads and diminished market liquidity. In periods of heightened systemic risk, financial markets often experience higher volatility, which can manifest as widened bid-ask spreads. This widening represents increased uncertainty and transaction costs for market participants, as they require higher compensation for the risk of price fluctuations. The equation for the bid-ask spread $S$ in simplified terms is:
+Systemic risk poses significant challenges to market microstructure, primarily through its capacity to distort price formation, leading to increased bid-ask spreads and diminished market liquidity. In periods of heightened systemic risk, financial markets often experience higher [volatility](/wiki/volatility-trading-strategies), which can manifest as widened bid-ask spreads. This widening represents increased uncertainty and transaction costs for market participants, as they require higher compensation for the risk of price fluctuations. The equation for the bid-ask spread $S$ in simplified terms is:
 
 $$
 S = P_a - P_b

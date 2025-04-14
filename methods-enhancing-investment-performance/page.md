@@ -24,7 +24,7 @@ Another way diversification helps is by reducing the overall risk of your portfo
 
 ## What is the difference between active and passive investment strategies?
 
-Active investing is when you or a fund manager pick specific investments, like stocks or bonds, trying to beat the market. They do a lot of research and make changes often, hoping to buy low and sell high. This can be exciting but it's also riskier and costs more because of the fees for the manager's work. It's like trying to win a race by picking the fastest horse, but you might not always guess right.
+Active investing is when you or a fund manager pick specific investments, like stocks or bonds, trying to beat the market. They do a lot of research and make changes often, hoping to buy low and sell high. This can be exciting but it's also riskier and costs more because of the fees for the manager's work. It's like trying to win a race by [picking](/wiki/asset-class-picking) the fastest horse, but you might not always guess right.
 
 Passive investing is simpler and usually cheaper. Instead of picking individual investments, you invest in a whole market or a big group of investments through things like index funds or ETFs. These funds just try to match the performance of the market, not beat it. It's like betting on all the horses in the race instead of just one. This way, you don't have to guess which investments will do best, and you pay less in fees. Over time, passive investing often does just as well or better than active investing because it's steady and costs less.
 
@@ -72,7 +72,7 @@ Understanding behavioral finance can help you make better investment decisions. 
 
 ## What are the latest trends in algorithmic trading and how can they be applied to enhance investment returns?
 
-Algorithmic trading is getting more popular and it's using new technology to make better and faster investment choices. One big trend is using machine learning and artificial intelligence. These tools can look at a lot of data quickly and find patterns that people might miss. This helps traders make better guesses about where the market is going. Another trend is high-frequency trading, where computers buy and sell investments in just a few seconds. This can make money from tiny changes in prices that happen all the time.
+Algorithmic trading is getting more popular and it's using new technology to make better and faster investment choices. One big trend is using [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence). These tools can look at a lot of data quickly and find patterns that people might miss. This helps traders make better guesses about where the market is going. Another trend is high-frequency trading, where computers buy and sell investments in just a few seconds. This can make money from tiny changes in prices that happen all the time.
 
 These trends can help improve your investment returns if you use them the right way. For example, you can use algorithms to spot good times to buy or sell investments based on past data. This can help you make more money by getting in and out of the market at the right times. But it's important to remember that these tools aren't perfect. They can make mistakes, and the market can be unpredictable. So, it's a good idea to use them as part of a bigger plan, not as the only way you make investment choices.
 

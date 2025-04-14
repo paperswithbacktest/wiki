@@ -44,7 +44,7 @@ Another part of the strategy is to see how the price reacts when it reaches thes
 
 Traders often use pivot points along with other technical indicators to make better trading decisions. One common way is to use pivot points with trend indicators like moving averages. If the price is above a moving average and also above the pivot point, it can be a strong signal that the trend is up, and it might be a good time to buy. If the price is below both the moving average and the pivot point, it can signal a downtrend, suggesting it might be a good time to sell. By combining these indicators, traders can get a clearer picture of the market's direction.
 
-Another way traders use pivot points is with momentum indicators like the Relative Strength Index (RSI). If the price is near a resistance level and the RSI shows that the asset is overbought, it might be a sign that the price will soon drop. On the other hand, if the price is near a support level and the RSI shows that the asset is oversold, it could mean the price is about to rise. By looking at both the pivot points and the RSI, traders can find good entry and exit points for their trades, making their strategies more effective.
+Another way traders use pivot points is with [momentum](/wiki/momentum) indicators like the Relative Strength Index (RSI). If the price is near a resistance level and the RSI shows that the asset is overbought, it might be a sign that the price will soon drop. On the other hand, if the price is near a support level and the RSI shows that the asset is oversold, it could mean the price is about to rise. By looking at both the pivot points and the RSI, traders can find good entry and exit points for their trades, making their strategies more effective.
 
 ## Can pivot points be used effectively in different time frames?
 
@@ -80,7 +80,7 @@ To make the system work even better, the algorithm can also use other technical 
 
 One real-world example of a successful trade using pivot points happened with a day trader named Sarah. She was watching the stock of a tech company and calculated the daily pivot point using the high, low, and closing prices from the previous day. She noticed that the stock price was moving up and was close to the first resistance level. Sarah used the Relative Strength Index (RSI) along with the pivot point and saw that the stock was not overbought yet. She decided to buy the stock just before it hit the resistance level. The stock price broke through the resistance and kept going up, so Sarah sold it at a higher price and made a good profit.
 
-Another example is from a forex trader named Mike. He was trading the EUR/USD currency pair and used weekly pivot points to guide his trades. Mike saw that the price was hovering just above the weekly pivot point and was moving towards the first support level. He also checked the moving averages and saw that they were trending down, which suggested that the market might keep falling. Mike decided to sell the EUR/USD pair when it reached the support level. The price did drop further after hitting the support, so Mike bought back the pair at a lower price, making a profit from the trade. By using pivot points and other indicators, Mike was able to make a successful trade.
+Another example is from a [forex](/wiki/forex-system) trader named Mike. He was trading the EUR/USD currency pair and used weekly pivot points to guide his trades. Mike saw that the price was hovering just above the weekly pivot point and was moving towards the first support level. He also checked the moving averages and saw that they were trending down, which suggested that the market might keep falling. Mike decided to sell the EUR/USD pair when it reached the support level. The price did drop further after hitting the support, so Mike bought back the pair at a lower price, making a profit from the trade. By using pivot points and other indicators, Mike was able to make a successful trade.
 
 ## What are Pivot Points and How Do They Work?
 
@@ -163,7 +163,7 @@ $$
 \text{S2} = \text{PP} - (\text{High} - \text{Low})
 $$
 
-By coding these calculations into an algorithm, traders can automate the identification of these key levels and generate trading signals based on them. For example, a pivot point strategy might involve entering a long position when the price breaks above a resistance level (indicating a potential upward breakout) or entering a short position when the price falls below a support level (suggesting a downward movement).
+By coding these calculations into an algorithm, traders can automate the identification of these key levels and generate trading signals based on them. For example, a pivot point strategy might involve entering a long position when the price breaks above a resistance level (indicating a potential upward [breakout](/wiki/breakout-trading)) or entering a short position when the price falls below a support level (suggesting a downward movement).
 
 One of the main advantages of implementing pivot point strategies in an algorithmic system is the ability to backtest them using historical data. Backtesting involves simulating the trading strategy on past market data to evaluate its viability and performance metrics, such as profitability and risk. This process allows traders to optimize their strategies by adjusting parameters or incorporating additional technical indicators to enhance robustness.
 
@@ -232,11 +232,11 @@ $$
 
 These calculations generate levels that traders use to make informed decisions about entry and [exit](/wiki/exit-strategy) points in their trades.
 
-However, pivot points have limitations. They rely heavily on historical market data, using past high, low, and close values to project future levels. This dependence can become a pitfall if market conditions change substantially, such as during periods of high volatility or unexpected news events, which may diminish the predictive power of pivot point analysis.
+However, pivot points have limitations. They rely heavily on historical market data, using past high, low, and close values to project future levels. This dependence can become a pitfall if market conditions change substantially, such as during periods of high [volatility](/wiki/volatility-trading-strategies) or unexpected news events, which may diminish the predictive power of pivot point analysis.
 
 Furthermore, while pivot points can signify potential reversal points, they are less effective when used in isolation. Supplementary strategies or additional technical indicators, such as moving averages or RSI (Relative Strength Index), may be needed to corroborate signals provided by pivot points, offering traders a more robust trading strategy that accounts for various market conditions.
 
-It is important for traders to recognize these limitations and adjust their strategies accordingly. By employing backtesting and utilizing other technical tools, traders can enhance the reliability and effectiveness of their pivot point trading strategies.
+It is important for traders to recognize these limitations and adjust their strategies accordingly. By employing [backtesting](/wiki/backtesting) and utilizing other technical tools, traders can enhance the reliability and effectiveness of their pivot point trading strategies.
 
 ## How was the successful integration of pivot points achieved in the case study?
 

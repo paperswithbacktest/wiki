@@ -82,7 +82,7 @@ This process also shows us how the strong force changes with distance. The alpha
 
 ## What is Understanding Alpha and Alpha Decay?
 
-In quantitative trading, the term 'alpha' refers to the ability of an investment model or strategy to generate returns that are in excess of a market benchmark or average. It represents the edge or skill that a trader possesses in predicting price movements more accurately than the broader market. In mathematical terms, alpha can be expressed as the excess return of a portfolio, calculated as:
+In [quantitative trading](/wiki/quantitative-trading), the term 'alpha' refers to the ability of an investment model or strategy to generate returns that are in excess of a market benchmark or average. It represents the edge or skill that a trader possesses in predicting price movements more accurately than the broader market. In mathematical terms, alpha can be expressed as the excess return of a portfolio, calculated as:
 
 $$
 \alpha = R_p - (R_f + \beta \times (R_m - R_f))

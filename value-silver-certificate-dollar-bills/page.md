@@ -62,7 +62,7 @@ On the other hand, if a Silver Certificate is worn out, dirty, or has been writt
 
 The collectible value of a Silver Certificate Dollar Bill depends on a few things. One big thing is how good the condition of the bill is. If it looks almost new, with no tears, stains, or writing on it, collectors will pay more for it. These bills are called "crisp uncirculated" and can be worth a lot more than just a dollar. Another thing that matters is how rare the bill is. Some Silver Certificates were made in smaller numbers, so they are harder to find. If a bill is both in great shape and rare, it can be worth a lot of money.
 
-Another factor is the denomination of the bill. While $1 and $5 Silver Certificates are common, higher denominations like $500 or $1,000 are very rare and can be worth a lot more. The year the bill was made also plays a role. Some years are more popular with collectors, which can make those bills more valuable. Finally, any special features or errors on the bill can increase its value. For example, if a bill has a printing mistake or a unique serial number, collectors might be willing to pay more for it.
+Another [factor](/wiki/factor-investing) is the denomination of the bill. While $1 and $5 Silver Certificates are common, higher denominations like $500 or $1,000 are very rare and can be worth a lot more. The year the bill was made also plays a role. Some years are more popular with collectors, which can make those bills more valuable. Finally, any special features or errors on the bill can increase its value. For example, if a bill has a printing mistake or a unique serial number, collectors might be willing to pay more for it.
 
 ## Where can Silver Certificate Dollar Bills be purchased or sold?
 

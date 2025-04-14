@@ -141,5 +141,5 @@ Successful implementation of these financial insights requires continuous monito
 
 - Additional financial literature can offer broader perspectives and case studies on the use of financial metrics in trading. These resources provide practical insights and real-world applications, aiding traders in applying theoretical knowledge to optimize their trading algorithms.
 
-Readers interested in exploring these topics further can consult these references for more detailed explanations and examples of integrating financial metrics into algorithmic trading.
+Readers interested in exploring these topics further can consult these references for more detailed explanations and examples of integrating financial metrics into [algorithmic trading](/wiki/algorithmic-trading).
 

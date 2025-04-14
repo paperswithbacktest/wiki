@@ -22,7 +22,7 @@ Even though hedging can be helpful, it's not a perfect solution. It costs money 
 
 ## What are the basic types of hedging instruments?
 
-Hedging instruments are tools that people use to protect their investments or businesses from losing too much money. The most common types are options, futures, and swaps. Options give you the right, but not the obligation, to buy or sell something at a set price in the future. If you think the price of something might go down, you can buy an option to sell it at today's price, which could save you money if the price does drop. Futures are agreements to buy or sell something at a set price on a specific date. They're often used by companies to lock in prices for things they need, like oil or wheat. Swaps are agreements to exchange cash flows or other financial instruments. They're often used to manage interest rate risk or currency risk.
+Hedging instruments are tools that people use to protect their investments or businesses from losing too much money. The most common types are options, futures, and swaps. Options give you the right, but not the obligation, to buy or sell something at a set price in the future. If you think the price of something might go down, you can buy an option to sell it at today's price, which could save you money if the price does drop. Futures are agreements to buy or sell something at a set price on a specific date. They're often used by companies to lock in prices for things they need, like oil or wheat. Swaps are agreements to exchange cash flows or other financial instruments. They're often used to manage [interest rate](/wiki/interest-rate-trading-strategies) risk or currency risk.
 
 Each of these hedging instruments has its own way of working and its own costs. Options can be expensive to buy, but they give you flexibility because you don't have to use them if you don't want to. Futures are usually cheaper, but they come with the obligation to follow through on the deal, which can be risky if the market moves against you. Swaps can be complex, but they're useful for managing ongoing risks, like changes in interest rates or currency values. By choosing the right hedging instrument, investors and companies can protect themselves from financial surprises and focus on their main goals.
 
@@ -42,7 +42,7 @@ Calculating the right hedge ratio can be tricky because it depends on how closel
 
 Beginners often start with simple hedging strategies that are easy to understand and set up. One common strategy is buying put options. If you own a stock and you're worried it might go down in value, you can buy a put option. This gives you the right to sell the stock at a certain price, even if the market price drops lower. It's like buying insurance for your stock. If the stock price does fall, the put option will gain value, helping to offset the loss on your stock.
 
-Another strategy beginners might use is investing in inverse ETFs. These are exchange-traded funds that move in the opposite direction of a specific market or index. If you think the market might go down, you can buy an inverse ETF that will go up when the market falls. This can help protect your other investments from losing too much value. Both of these strategies are straightforward and can be a good starting point for someone new to hedging.
+Another strategy beginners might use is investing in inverse ETFs. These are exchange-traded funds that move in the opposite direction of a specific market or index. If you think the market might go down, you can buy an inverse [ETF](/wiki/etf-trading-strategies) that will go up when the market falls. This can help protect your other investments from losing too much value. Both of these strategies are straightforward and can be a good starting point for someone new to hedging.
 
 ## How do futures and options play a role in hedging?
 
@@ -82,7 +82,7 @@ Sometimes, regulations can make hedging more complicated. For instance, there mi
 
 ## What are the strategies in algorithmic trading?
 
-Algorithmic trading strategies have significantly transformed financial markets by leveraging speed, precision, and automation in trade execution. Among the most popular strategies are trend-following, arbitrage opportunities, and index fund rebalancing. These strategies rely on complex mathematical models and rules-based systems to optimize trades for profitability while effectively managing risks.
+Algorithmic trading strategies have significantly transformed financial markets by leveraging speed, precision, and automation in trade execution. Among the most popular strategies are trend-following, [arbitrage](/wiki/arbitrage) opportunities, and index fund rebalancing. These strategies rely on complex mathematical models and rules-based systems to optimize trades for profitability while effectively managing risks.
 
 Trend-following is a strategy that capitalizes on [momentum](/wiki/momentum) by executing trades according to the direction of prevailing market trends. This approach involves identifying potential trends through technical indicators such as moving averages, breakouts, or price channels. For instance, a simple moving average crossover strategy might generate buy or sell signals when a short-term moving average crosses above or below a long-term moving average, respectively.
 
@@ -90,7 +90,7 @@ Arbitrage opportunities exploit price discrepancies across different markets or 
 
 Index fund rebalancing involves adjusting the composition of an index fund to align with a benchmark index. This can involve buying or selling stocks to maintain an intended asset allocation. Algorithmic trading can optimize this process through the use of rebalancing strategies that minimize tracking error and execution costs, often employing strategies like the Volume Weighted Average Price (VWAP) and Time Weighted Average Price (TWAP).
 
-VWAP and TWAP are execution algorithms used to execute trades intelligently over a given time frame. VWAP calculates an average price weighted by volume, aimed at ensuring that a trade is executed at prices close to or better than the average market price during the specified time period. The VWAP formula is mathematically represented as:
+VWAP and TWAP are execution algorithms used to execute trades intelligently over a given time frame. VWAP calculates an average price weighted by [volume](/wiki/volume-trading-strategy), aimed at ensuring that a trade is executed at prices close to or better than the average market price during the specified time period. The VWAP formula is mathematically represented as:
 
 $$
 
@@ -108,7 +108,7 @@ where $n$ is the number of discrete periods over which the average is calculated
 
 These algorithmic strategies enable precise, emotionless trading that strictly follows predefined rules. This precision is achieved through rigorous [backtesting](/wiki/backtesting), allowing traders to refine their models based on historical data and optimize performance in real market conditions. Backtesting involves simulating a trading strategy using historical data to assess its potential effectiveness and identify areas for improvement.
 
-Overall, algorithmic trading strategies enhance the capabilities of traders to exploit market inefficiencies, maximize returns, and manage risks systematically. As the technology underlying these algorithms continues to advance, the potential for even more innovative and effective trading strategies grows.
+Overall, [algorithmic trading](/wiki/algorithmic-trading) strategies enhance the capabilities of traders to exploit market inefficiencies, maximize returns, and manage risks systematically. As the technology underlying these algorithms continues to advance, the potential for even more innovative and effective trading strategies grows.
 
 ## References & Further Reading
 

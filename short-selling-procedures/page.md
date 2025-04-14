@@ -46,7 +46,7 @@ One common strategy in short selling is called "shorting against the box." This 
 
 Another strategy is "pairs trading." This is when you short sell one stock and buy another stock at the same time. You pick two stocks that usually move in opposite ways. For example, if one goes up, the other goes down. By doing this, you can make money no matter which way the market goes. It's a way to balance out the risk because the gains from one stock can cover the losses from the other.
 
-A third strategy is "momentum trading." This is when you short sell a stock that you think is about to drop in price quickly. You watch for signs that the stock is losing value fast, like bad news about the company. If you time it right, you can make a quick profit. But it's risky because the stock could suddenly go back up, and you could lose money if you don't act fast enough.
+A third strategy is "[momentum](/wiki/momentum) trading." This is when you short sell a stock that you think is about to drop in price quickly. You watch for signs that the stock is losing value fast, like bad news about the company. If you time it right, you can make a quick profit. But it's risky because the stock could suddenly go back up, and you could lose money if you don't act fast enough.
 
 ## How does short selling impact the market and other investors?
 

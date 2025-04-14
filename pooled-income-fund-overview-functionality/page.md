@@ -84,7 +84,7 @@ Another thing to think about is that the charity has to be open and honest about
 
 ## What are the strategies for successful charitable and investment outcomes?
 
-To successfully combine pooled income funds and algorithmic trading for optimal charitable and investment outcomes, contributors can follow several strategic approaches. 
+To successfully combine pooled income funds and [algorithmic trading](/wiki/algorithmic-trading) for optimal charitable and investment outcomes, contributors can follow several strategic approaches. 
 
 Firstly, diversifying contributions is critical. This involves allocating resources to a variety of pooled income funds, each with different investment portfolios and strategies. By doing so, contributors can align their investments with specific charitable goals, potentially maximizing both their financial returns and social impact. Diversification minimizes risk by spreading investments across different asset classes, industries, or geographical locations. This approach can be mathematically expressed through optimization models that aim to balance risk and return, such as Modern Portfolio Theory (MPT). The basic goal in MPT is to build a portfolio that provides the highest expected return for a defined level of risk. The optimization problem can be defined as:
 

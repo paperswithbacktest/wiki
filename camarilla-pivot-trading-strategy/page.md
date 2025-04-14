@@ -166,7 +166,7 @@ Camarilla pivot points can outperform other methods when the market is expected 
 
 ## How can Camarilla Pivot Points be implemented in algorithmic strategies?
 
-Incorporating Camarilla pivot points into an algorithmic trading strategy involves several methodical steps, each crucial for maximizing the strategy's effectiveness. The process typically begins with understanding the calculation of Camarilla pivot points using historical price data. The formula for Camarilla pivot points primarily utilizes the prior trading session's high (H), low (L), and close (C) prices to establish one pivot point, four support levels (S1, S2, S3, S4), and four resistance levels (R1, R2, R3, R4). Specifically, the key formulas are:
+Incorporating Camarilla pivot points into an [algorithmic trading](/wiki/algorithmic-trading) strategy involves several methodical steps, each crucial for maximizing the strategy's effectiveness. The process typically begins with understanding the calculation of Camarilla pivot points using historical price data. The formula for Camarilla pivot points primarily utilizes the prior trading session's high (H), low (L), and close (C) prices to establish one pivot point, four support levels (S1, S2, S3, S4), and four resistance levels (R1, R2, R3, R4). Specifically, the key formulas are:
 
 $$
 \text{Pivot Point (PP)} = \frac{(H + L + C)}{3}

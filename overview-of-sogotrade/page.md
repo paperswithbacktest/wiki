@@ -66,7 +66,7 @@ SogoTrade also provides educational resources to help you learn about trading. T
 
 ## What are the security measures implemented by SogoTrade to protect user data and funds?
 
-SogoTrade takes security very seriously to keep your data and money safe. They use strong encryption to protect your personal information when you use their website or app. This means your data is turned into a secret code that only SogoTrade can read. They also have a system called two-factor authentication. This means you need to enter a special code sent to your phone or email, in addition to your password, to log in. This makes it much harder for someone else to get into your account.
+SogoTrade takes security very seriously to keep your data and money safe. They use strong encryption to protect your personal information when you use their website or app. This means your data is turned into a secret code that only SogoTrade can read. They also have a system called two-[factor](/wiki/factor-investing) authentication. This means you need to enter a special code sent to your phone or email, in addition to your password, to log in. This makes it much harder for someone else to get into your account.
 
 Besides these measures, SogoTrade keeps your money safe by using something called SIPC insurance. This insurance protects your investments up to $500,000 if the brokerage firm ever has big problems. They also watch for strange activity on your account, like if someone tries to log in from a new place or make big trades without your permission. If they see something odd, they will let you know right away. All these steps help make sure your money and information are secure when you use SogoTrade.
 

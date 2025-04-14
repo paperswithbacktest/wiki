@@ -32,7 +32,7 @@ Sometimes, people also use a strategy called setting priorities. This means figu
 
 For a beginner, the first step in developing their own strategies is to clearly define their goal. Think about what you want to achieve, whether it's saving money, getting better grades, or learning a new skill. Once you know your goal, break it down into smaller, manageable steps. For example, if your goal is to save money, you might decide to start by making a budget, then look for ways to cut down on spending, and finally, set up a savings plan. By breaking your goal into smaller steps, it becomes easier to create a strategy that you can follow.
 
-Next, it's helpful to learn from others. Look for examples of strategies that have worked for people with similar goals. You can read books, watch videos, or talk to friends and family about what they did. Don't be afraid to try different things and see what works best for you. It's okay to make mistakes because that's how you learn. As you try out different strategies, keep track of what works and what doesn't. Over time, you'll get better at creating strategies that help you reach your goals.
+Next, it's helpful to learn from others. Look for examples of strategies that have worked for people with similar goals. You can read [books](/wiki/algo-trading-books), watch videos, or talk to friends and family about what they did. Don't be afraid to try different things and see what works best for you. It's okay to make mistakes because that's how you learn. As you try out different strategies, keep track of what works and what doesn't. Over time, you'll get better at creating strategies that help you reach your goals.
 
 ## What tools or resources can help in finding effective strategies?
 
@@ -88,7 +88,7 @@ In the automotive industry, Toyota used the "Lean Manufacturing" strategy to imp
 
 ## What are the opportunities in algo trading?
 
-Identifying profitable trading opportunities in algorithmic trading largely hinges on data-driven approaches that leverage advanced analytics and computational capabilities. Central to these methods are the principles of [backtesting](/wiki/backtesting) and historical data analysis, as well as the strategic use of technical indicators and financial news.
+Identifying profitable trading opportunities in [algorithmic trading](/wiki/algorithmic-trading) largely hinges on data-driven approaches that leverage advanced analytics and computational capabilities. Central to these methods are the principles of [backtesting](/wiki/backtesting) and historical data analysis, as well as the strategic use of technical indicators and financial news.
 
 **Backtesting and Historical Data Analysis**
 

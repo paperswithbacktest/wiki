@@ -66,7 +66,7 @@ The methods for calculating CPI can vary because each country has its own unique
 
 Real income is the amount of money you earn after taking into account how prices have changed. It shows how much your money can actually buy, which is different from your 'nominal income' - the actual amount of money you get without considering price changes. If your salary goes up, but the prices of things you buy go up even more, your real income might actually go down. This is because even though you're getting more money, you can't buy as much with it as before.
 
-The Consumer Price Index (CPI) is important for figuring out real income. The CPI measures how much the prices of things people buy every day are changing. If the CPI goes up, it means prices are going up and there's inflation. To find your real income, you can compare your nominal income to the CPI. If your nominal income goes up by 3%, but the CPI goes up by 5%, your real income has actually gone down by 2%. This shows that even though you're earning more money, it doesn't go as far because prices are rising faster than your income.
+The Consumer Price Index (CPI) is important for figuring out real income. The CPI measures how much the prices of things people buy every day are changing. If the CPI goes up, it means prices are going up and there's inflation. To find your real income, you can compare your nominal income to the CPI. If your nominal income goes up by 3%, but the CPI goes up by 5%, your real income has actually gone down by 2%. This shows that even though you're [earning](/wiki/earning-announcement) more money, it doesn't go as far because prices are rising faster than your income.
 
 ## How does the CPI impact wage negotiations and cost of living adjustments?
 

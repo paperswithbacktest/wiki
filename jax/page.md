@@ -41,7 +41,7 @@ print(df(3.0))  # This will print 6.0
 
 ## What are the key features of JAX that make it suitable for machine learning tasks?
 
-JAX is great for machine learning because it's really fast and can work well with GPUs and TPUs. It does this using something called just-in-time (JIT) compilation, which means it can take your Python code and make it run super fast on the hardware. For example, if you have a simple function, you can use JAX to make it run faster like this: ```python
+JAX is great for [machine learning](/wiki/machine-learning) because it's really fast and can work well with GPUs and TPUs. It does this using something called just-in-time (JIT) compilation, which means it can take your Python code and make it run super fast on the hardware. For example, if you have a simple function, you can use JAX to make it run faster like this: ```python
 import jax
 import jax.numpy as jnp
 
@@ -97,7 +97,7 @@ Using JIT compilation in JAX helps make machine learning models run faster. When
 
 ## How can JAX be used to implement basic neural networks?
 
-To implement a basic neural network using JAX, you first need to define the structure of your network. This means deciding how many layers you want and how many neurons in each layer. For example, you might have an input layer, one or more hidden layers, and an output layer. You can use JAX's numpy-like functions to create these layers. Here's a simple example of a neural network with one hidden layer: ```python
+To implement a basic [neural network](/wiki/neural-network) using JAX, you first need to define the structure of your network. This means deciding how many layers you want and how many neurons in each layer. For example, you might have an input layer, one or more hidden layers, and an output layer. You can use JAX's numpy-like functions to create these layers. Here's a simple example of a neural network with one hidden layer: ```python
 import jax
 import jax.numpy as jnp
 
@@ -279,7 +279,7 @@ Another important integration is with visualization libraries like Matplotlib. A
 
 ## What are some real-world applications or case studies where JAX has been successfully used in machine learning projects?
 
-One real-world application of JAX in machine learning is in reinforcement learning, particularly in the development of agents for playing games. For example, DeepMind used JAX to create the AlphaTensor algorithm, which is a system that can discover new matrix multiplication algorithms. By leveraging JAX's fast computations and automatic differentiation, researchers were able to train models that outperform traditional algorithms in terms of efficiency. This project shows how JAX can be used to push the boundaries of what's possible in algorithmic discovery and optimization, making it a valuable tool in cutting-edge research.
+One real-world application of JAX in machine learning is in [reinforcement learning](/wiki/reinforcement-learning), particularly in the development of [agents](/wiki/agents) for playing games. For example, DeepMind used JAX to create the AlphaTensor algorithm, which is a system that can discover new matrix multiplication algorithms. By leveraging JAX's fast computations and automatic differentiation, researchers were able to train models that outperform traditional algorithms in terms of efficiency. This project shows how JAX can be used to push the boundaries of what's possible in algorithmic discovery and optimization, making it a valuable tool in cutting-edge research.
 
 Another successful use of JAX is in the field of natural language processing (NLP). Google's T5 model, which is a text-to-text transfer transformer, was developed using JAX. This model can handle a wide range of NLP tasks, from translation to summarization, by converting them into a text-to-text format. JAX's ability to handle large-scale computations on TPUs made it possible to train such a large and complex model efficiently. This case study demonstrates how JAX's speed and scalability can be applied to improve performance in real-world NLP applications, helping to process and understand vast amounts of text data.
 

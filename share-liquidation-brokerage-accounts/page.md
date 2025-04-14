@@ -30,7 +30,7 @@ After the shares are sold, the money from the sale goes into your brokerage acco
 
 When you liquidate shares, you might have to pay taxes on the money you make from selling them. If you sell your shares for more than you paid for them, you have a capital gain. This gain is usually taxed. How much tax you pay depends on how long you owned the shares. If you owned them for more than a year, it's called a long-term capital gain, and the tax rate is usually lower. If you owned them for a year or less, it's a short-term capital gain, and you pay your regular income tax rate on it.
 
-On the other hand, if you sell your shares for less than you paid for them, you have a capital loss. You can use this loss to lower your taxes. You can subtract the loss from any capital gains you have in the same year. If your losses are more than your gains, you can use up to $3,000 of the extra loss to lower your regular income tax. If you still have more losses after that, you can carry them over to future years to use against future gains or income. It's a good idea to talk to a tax professional to understand how liquidating shares will affect your taxes.
+On the other hand, if you sell your shares for less than you paid for them, you have a capital loss. You can use this loss to lower your taxes. You can subtract the loss from any capital gains you have in the same year. If your losses are more than your gains, you can use up to $3,000 of the extra loss to lower your regular income tax. If you still have more losses after that, you can [carry](/wiki/carry-trading) them over to future years to use against future gains or income. It's a good idea to talk to a tax professional to understand how liquidating shares will affect your taxes.
 
 ## Can you explain the difference between partial and full liquidation of shares?
 
@@ -78,7 +78,7 @@ On the other hand, a margin account adds some extra steps to the liquidation pro
 
 When you need to liquidate a large number of shares, one advanced technique is called "iceberg orders." This means you split your big order into smaller pieces that are hidden from the market. Only a small part of your order shows up at a time, kind of like the tip of an iceberg. This can help keep the price from dropping too much because other people won't see the whole size of your order. It's a smart way to sell a lot of shares without scaring the market and making the price go down.
 
-Another technique is called "algorithmic trading." This uses computer programs to decide when and how to sell your shares. The algorithms can look at a lot of information and make quick decisions based on what's happening in the market. They can help you sell your shares at the best times to get the best price. Using algorithms can be really helpful when you're dealing with a large number of shares because they can handle the selling process better than a person could.
+Another technique is called "[algorithmic trading](/wiki/algorithmic-trading)." This uses computer programs to decide when and how to sell your shares. The algorithms can look at a lot of information and make quick decisions based on what's happening in the market. They can help you sell your shares at the best times to get the best price. Using algorithms can be really helpful when you're dealing with a large number of shares because they can handle the selling process better than a person could.
 
 ## References & Further Reading
 

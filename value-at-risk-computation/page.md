@@ -70,7 +70,7 @@ The time horizon, or the time period you're looking at, also affects VaR. A long
 
 One big problem with VaR is that it doesn't tell you about losses that could be worse than the VaR number. If you have a VaR of $100,000 at a 95% confidence level, it means there's a 5% chance you could lose more than that, but it doesn't say how much more. This can be a big deal if those losses are huge. Also, VaR assumes that the past behavior of markets will continue into the future, which isn't always true. If the market changes a lot, your VaR might not be a good guess of what could happen.
 
-Another issue is that VaR can be hard to understand and use right. Different methods of calculating VaR can give different numbers, and picking the wrong method or not setting it up correctly can lead to wrong guesses about risk. Plus, VaR doesn't consider how different investments in a portfolio might affect each other. If one investment goes down, it might make others go down too, but VaR might not show this. So, even though VaR is a useful tool, it's important to know its limits and use it with other ways to measure risk.
+Another issue is that VaR can be hard to understand and use right. Different methods of calculating VaR can give different numbers, and [picking](/wiki/asset-class-picking) the wrong method or not setting it up correctly can lead to wrong guesses about risk. Plus, VaR doesn't consider how different investments in a portfolio might affect each other. If one investment goes down, it might make others go down too, but VaR might not show this. So, even though VaR is a useful tool, it's important to know its limits and use it with other ways to measure risk.
 
 ## How can VaR be used in conjunction with other risk measures?
 

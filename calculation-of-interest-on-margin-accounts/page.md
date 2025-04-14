@@ -24,7 +24,7 @@ For example, if you borrow $5,000 and the annual interest rate is 8%, you would 
 
 In a margin account, debit interest is the interest you pay on the money you borrow from your broker. When you use a margin loan to buy investments, you have to pay interest on the amount you borrowed. This interest is called debit interest because it's a cost to you, like a debit from your account. The interest rate is set by your broker and can change over time. You usually pay this interest monthly, and it's added to your loan balance, so you end up paying interest on a growing amount.
 
-Credit interest, on the other hand, is the interest you earn on the cash balance in your margin account. If you have extra cash in your account that you're not using to buy investments, your broker might pay you interest on that cash. This interest is called credit interest because it's money credited to your account. The rate for credit interest is usually lower than the rate for debit interest, and it's also set by your broker. So, while you're paying debit interest on your borrowed money, you might also be earning a small amount of credit interest on any unused cash in your account.
+Credit interest, on the other hand, is the interest you earn on the cash balance in your margin account. If you have extra cash in your account that you're not using to buy investments, your broker might pay you interest on that cash. This interest is called credit interest because it's money credited to your account. The rate for credit interest is usually lower than the rate for debit interest, and it's also set by your broker. So, while you're paying debit interest on your borrowed money, you might also be [earning](/wiki/earning-announcement) a small amount of credit interest on any unused cash in your account.
 
 ## What are the typical interest rates for margin accounts?
 
@@ -154,7 +154,7 @@ Understanding these dynamics allows traders to make informed decisions about mar
 
 ## What are Financial Calculations in Algorithmic Trading?
 
-In algorithmic trading, the accuracy of financial calculations is crucial to the development of effective trading strategies. Precise calculations enable traders to make informed and timely decisions by employing complex algorithms that process large volumes of data swiftly and efficiently.
+In [algorithmic trading](/wiki/algorithmic-trading), the accuracy of financial calculations is crucial to the development of effective trading strategies. Precise calculations enable traders to make informed and timely decisions by employing complex algorithms that process large volumes of data swiftly and efficiently.
 
 ### Key Metrics and Calculations
 

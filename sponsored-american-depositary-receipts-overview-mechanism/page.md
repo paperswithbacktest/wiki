@@ -44,7 +44,7 @@ Level III ADRs are the most involved. They also need to be listed on a major U.S
 
 Sponsored ADRs are priced based on the value of the foreign company's shares they represent. Each ADR stands for a certain number of the foreign company's shares, so the price of an ADR is usually the price of those shares in the foreign market, converted to U.S. dollars. For example, if one ADR represents two shares of a foreign company, and those shares are worth $50 each in their home market, the ADR would be priced at around $100 in the U.S. market.
 
-Several factors can influence the pricing of Sponsored ADRs. The most direct factor is the performance of the foreign company itself. If the company does well and its stock price goes up in its home market, the ADR price will likely go up too. Other factors include changes in currency exchange rates, because the ADR price is based on the foreign stock price converted to dollars. Economic and political events in the foreign company's home country can also affect the ADR price, as can overall market conditions in the U.S. and around the world.
+Several factors can influence the pricing of Sponsored ADRs. The most direct [factor](/wiki/factor-investing) is the performance of the foreign company itself. If the company does well and its stock price goes up in its home market, the ADR price will likely go up too. Other factors include changes in currency exchange rates, because the ADR price is based on the foreign stock price converted to dollars. Economic and political events in the foreign company's home country can also affect the ADR price, as can overall market conditions in the U.S. and around the world.
 
 ## What are the regulatory requirements for issuing Sponsored ADRs in the United States?
 
@@ -56,7 +56,7 @@ The level of the ADR also affects the regulatory requirements. Level I ADRs, whi
 
 When a foreign company issues Sponsored ADRs, it can make their shares more liquid. This means it's easier for people to buy and sell the company's shares. Since ADRs are traded in the U.S., more investors can get involved. This can lead to more trading, which makes the shares easier to buy and sell quickly. It's like having more people at a market, so it's easier to find someone to trade with.
 
-However, the impact on liquidity can depend on the level of the ADR. Level I ADRs, which are traded over-the-counter, might not increase liquidity as much as Level II or Level III ADRs, which are listed on major U.S. stock exchanges. Being on a big exchange can attract more investors and make the shares even easier to trade. So, while all Sponsored ADRs can help with liquidity, the higher levels usually have a bigger impact.
+However, the impact on [liquidity](/wiki/liquidity-risk-premium) can depend on the level of the ADR. Level I ADRs, which are traded over-the-counter, might not increase liquidity as much as Level II or Level III ADRs, which are listed on major U.S. stock exchanges. Being on a big exchange can attract more investors and make the shares even easier to trade. So, while all Sponsored ADRs can help with liquidity, the higher levels usually have a bigger impact.
 
 ## What are the tax implications for investors holding Sponsored ADRs?
 

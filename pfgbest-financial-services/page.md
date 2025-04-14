@@ -22,7 +22,7 @@ But in 2012, people found out that Russell Wasendorf, Sr. had been lying about t
 
 ## Who are the founders of PFGBest Financial Services?
 
-PFGBest Financial Services was started by Russell Wasendorf, Sr. He founded the company in 1990. The company was based in Iowa, in the United States. It helped people trade things like stocks, futures, and forex. Many traders liked using PFGBest because it had good tools and services to help them make money.
+PFGBest Financial Services was started by Russell Wasendorf, Sr. He founded the company in 1990. The company was based in Iowa, in the United States. It helped people trade things like stocks, futures, and [forex](/wiki/forex-system). Many traders liked using PFGBest because it had good tools and services to help them make money.
 
 But in 2012, people found out that Russell Wasendorf, Sr. had been lying about the company's money. He had been stealing from customers for a long time. This was a big surprise and caused a lot of trouble. Because of this, PFGBest had to shut down. Many people lost their money and no longer trusted the company. This event showed why it's important to make sure financial companies are honest.
 

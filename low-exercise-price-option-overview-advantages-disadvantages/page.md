@@ -78,7 +78,7 @@ Another thing to think about is how much people want to buy or sell LEPOs. If a 
 
 Expert traders can use LEPOs to make more complex bets on stock prices. One strategy is called "delta hedging," where you buy or sell LEPOs along with the actual stock to balance out the risk. If you think the stock price will go up, you might buy LEPOs and sell some of the stock to protect against a small drop in price. This way, you can still make money if the stock goes up a lot, but you won't lose as much if it goes down a little. It's like having your cake and eating it too, but it takes a lot of skill and watching the market closely.
 
-Another strategy is to use LEPOs for "arbitrage." This means you look for small differences in price between LEPOs and the stock they're based on. If you see a LEPO is cheaper than it should be compared to the stock, you might buy the LEPO and sell the stock at the same time. If everything goes right, you can make a small profit from the difference in price. This strategy needs you to be quick and good at finding these small price differences, but it can be a way to make money without taking a big risk.
+Another strategy is to use LEPOs for "[arbitrage](/wiki/arbitrage)." This means you look for small differences in price between LEPOs and the stock they're based on. If you see a LEPO is cheaper than it should be compared to the stock, you might buy the LEPO and sell the stock at the same time. If everything goes right, you can make a small profit from the difference in price. This strategy needs you to be quick and good at finding these small price differences, but it can be a way to make money without taking a big risk.
 
 ## What are the challenges and risks associated with LEPOs?
 

@@ -22,7 +22,7 @@ Profit is important because it shows if a business is doing well. If a business 
 
 ## How is net income calculated?
 
-Net income is what you have left after you pay for everything you need. For a person, you start with all the money you earn from your job or other places. Then, you subtract all your costs like rent, food, and bills. What's left is your net income. If it's a positive number, you're earning more than you're spending, which is good. If it's negative, you're spending more than you earn, and that can be a problem.
+Net income is what you have left after you pay for everything you need. For a person, you start with all the money you earn from your job or other places. Then, you subtract all your costs like rent, food, and bills. What's left is your net income. If it's a positive number, you're [earning](/wiki/earning-announcement) more than you're spending, which is good. If it's negative, you're spending more than you earn, and that can be a problem.
 
 For a business, calculating net income is a bit similar but on a bigger scale. You start with the total money the business makes from selling its products or services, which is called revenue. Then, you subtract all the costs of running the business, like salaries, rent, and supplies. The number you get after subtracting these costs is the business's net income. This number tells the business if it's making money or losing money, which is really important for making good decisions about the future.
 

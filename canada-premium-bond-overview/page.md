@@ -36,7 +36,7 @@ The maximum amount you can invest in Canada Premium Bonds is $1 million. This is
 
 The interest rates for Canada Premium Bonds are set by the Government of Canada. They look at many things to decide on the rate, like how the economy is doing and what other interest rates are like at the time. They want to make sure the rate is good enough to get people to buy the bonds, but not so high that it costs the government too much money.
 
-Once the interest rate is set, it stays the same for the whole time you have the bond. This means you know exactly how much interest you will get each year until the bond is finished. It's good for people who want a steady and predictable income from their savings.
+Once the [interest rate](/wiki/interest-rate-trading-strategies) is set, it stays the same for the whole time you have the bond. This means you know exactly how much interest you will get each year until the bond is finished. It's good for people who want a steady and predictable income from their savings.
 
 ## What are the tax implications of investing in Canada Premium Bonds?
 
@@ -60,7 +60,7 @@ When you buy a Canada Premium Bond, you know exactly how long you have to wait b
 
 When your Canada Premium Bond matures, you have the choice to reinvest the money you get back into a new bond. This means you can take the money you earned from the old bond, including the interest, and put it into a new Canada Premium Bond. This way, you keep your money working for you without having to start over from scratch.
 
-Reinvestment is a good idea if you want to keep saving and earning interest. You don't have to do anything special to reinvest; you just tell your bank or financial institution that you want to put the money into a new bond. This can help your savings grow over time because you're always earning interest on your money.
+Reinvestment is a good idea if you want to keep saving and [earning](/wiki/earning-announcement) interest. You don't have to do anything special to reinvest; you just tell your bank or financial institution that you want to put the money into a new bond. This can help your savings grow over time because you're always earning interest on your money.
 
 ## What are the risks associated with investing in Canada Premium Bonds?
 
@@ -86,7 +86,7 @@ Canada Premium Bonds (CPBs) occupied a specific niche in the bond market by offe
 
 ### Impact of Algorithmic Trading on CPBs
 
-If CPBs had been active in a market dominated by algorithmic trading, their pricing and market dynamics would likely have been more volatile yet efficient. Algorithmic trading, which involves the use of complex algorithms to make high-speed trading decisions, could have influenced CPBs through rapid adjustment to market information, thus impacting their liquidity and yield spreads.
+If CPBs had been active in a market dominated by [algorithmic trading](/wiki/algorithmic-trading), their pricing and market dynamics would likely have been more volatile yet efficient. Algorithmic trading, which involves the use of complex algorithms to make high-speed trading decisions, could have influenced CPBs through rapid adjustment to market information, thus impacting their [liquidity](/wiki/liquidity-risk-premium) and yield spreads.
 
 #### Hypothetical Pricing and Market Dynamics
 

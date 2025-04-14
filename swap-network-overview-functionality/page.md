@@ -28,7 +28,7 @@ One of the coolest things about Swap Network is that it uses something called at
 
 ## Can you explain the basic process of swapping tokens on Swap Network?
 
-When you want to swap tokens on Swap Network, you first need to find someone who wants to trade the type of cryptocurrency you have for the type you want. You can do this by using the Swap Network platform, which connects you with other people who want to trade. Once you find a match, you both agree on the trade details, like how many tokens you will exchange.
+When you want to swap tokens on Swap Network, you first need to find someone who wants to trade the type of [cryptocurrency](/wiki/cryptocurrency) you have for the type you want. You can do this by using the Swap Network platform, which connects you with other people who want to trade. Once you find a match, you both agree on the trade details, like how many tokens you will exchange.
 
 After agreeing on the trade, Swap Network uses a special method called an atomic swap to make sure the trade is fair and safe. An atomic swap means that both you and the other person get your new tokens at the same time, or the trade doesn't happen at all. This way, no one has to worry about being tricked. The Swap Network's technology makes sure everything happens quickly and smoothly, so you can trust that your trade will go well.
 
@@ -52,7 +52,7 @@ The fees on Swap Network are usually pretty low compared to other places where y
 
 ## How does Swap Network handle liquidity?
 
-Swap Network makes sure there are enough people trading on the platform so that you can always find someone to swap your cryptocurrencies with. This is called liquidity, and it's important because it means you can trade your digital money quickly and easily. The platform connects lots of users together, which helps keep the trading going smoothly. When there are many people using Swap Network, it's easier to find someone who wants to trade the exact type of cryptocurrency you have for the one you want.
+Swap Network makes sure there are enough people trading on the platform so that you can always find someone to swap your cryptocurrencies with. This is called [liquidity](/wiki/liquidity-risk-premium), and it's important because it means you can trade your digital money quickly and easily. The platform connects lots of users together, which helps keep the trading going smoothly. When there are many people using Swap Network, it's easier to find someone who wants to trade the exact type of cryptocurrency you have for the one you want.
 
 The more people using Swap Network, the better the liquidity gets. This is because more users mean more chances to find a match for your trade. Swap Network works hard to attract lots of users by making trading simple and safe. By having a big community of traders, the platform can make sure that you won't have to wait long to swap your tokens. This helps keep everything moving fast and keeps everyone happy.
 

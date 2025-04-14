@@ -42,7 +42,7 @@ After you choose a broker, you'll need to open an account with them. This usuall
 
 When you buy Y-Shares, you might have to pay some fees. One common fee is the brokerage fee. This is what you pay the stockbroker for helping you buy the shares. The amount can be different depending on which broker you use. Some brokers charge a flat fee for each trade, while others might charge a percentage of the total amount you're spending on the shares.
 
-Another fee you might see is a management fee if you're buying Y-Shares through a mutual fund or an exchange-traded fund (ETF) that holds Y-Shares. This fee is for the people who manage the fund and make decisions about which shares to buy and sell. It's usually a small percentage of the total value of your investment in the fund. Keep in mind that these fees can add up over time, so it's a good idea to check what fees you might have to pay before you decide to buy Y-Shares.
+Another fee you might see is a management fee if you're buying Y-Shares through a mutual fund or an exchange-traded fund ([ETF](/wiki/etf-trading-strategies)) that holds Y-Shares. This fee is for the people who manage the fund and make decisions about which shares to buy and sell. It's usually a small percentage of the total value of your investment in the fund. Keep in mind that these fees can add up over time, so it's a good idea to check what fees you might have to pay before you decide to buy Y-Shares.
 
 ## What is the minimum investment required for Y-Share?
 

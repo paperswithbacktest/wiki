@@ -163,7 +163,7 @@ This increased sensitivity allows EMA to react more quickly to recent price chan
 
 While EMA's responsiveness is an advantage in swift markets, it can also result in false signals during sideways or choppy market conditions. This characteristic can lead some traders to prefer SMA, despite its slower response, as its dampened sensitivity may help in filtering out market noise.
 
-In essence, the choice between using an SMA or EMA depends largely on the specific trading strategy and market conditions. Traders must assess the balance between smoothness and responsiveness to effectively utilize these tools for technical analysis and algorithmic trading.
+In essence, the choice between using an SMA or EMA depends largely on the specific trading strategy and market conditions. Traders must assess the balance between smoothness and responsiveness to effectively utilize these tools for technical analysis and [algorithmic trading](/wiki/algorithmic-trading).
 
 ## References & Further Reading
 

@@ -74,7 +74,7 @@ However, the organization called SPUR, which stands for the San Francisco Bay Ar
 
 ## What advanced technologies are being integrated into SPURs to enhance their effectiveness?
 
-SPURs, or Single Point of Use Routines, are small pieces of code used in computer programming to do one specific job well. To make SPURs even better, programmers are using new technologies like artificial intelligence (AI) and machine learning. These technologies help SPURs learn from the data they process, so they can do their jobs more accurately over time. For example, a SPUR that sorts data might get better at sorting the more it is used, thanks to machine learning.
+SPURs, or Single Point of Use Routines, are small pieces of code used in computer programming to do one specific job well. To make SPURs even better, programmers are using new technologies like [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning). These technologies help SPURs learn from the data they process, so they can do their jobs more accurately over time. For example, a SPUR that sorts data might get better at sorting the more it is used, thanks to machine learning.
 
 Another technology being used is cloud computing. With cloud computing, SPURs can be stored and run on servers far away, which means they can handle bigger tasks without slowing down a computer. This makes SPURs more powerful and useful for big projects. By using these advanced technologies, SPURs can become more effective and help make software work even better.
 

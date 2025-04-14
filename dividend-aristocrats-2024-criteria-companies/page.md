@@ -108,7 +108,7 @@ $$
 
 ### Role of Market Capitalization and Liquidity
 
-Market capitalization, the total market value of a company’s outstanding shares, helps gauge the size and market presence of a company. Large-cap companies often have the financial stability and resources to sustain and grow dividends, making them likely candidates for the aristocrat status. Additionally, [liquidity](/wiki/liquidity-risk-premium), which indicates how easily a stock can be bought or sold without affecting its price, ensures that an investor can enter or [exit](/wiki/exit-strategy) a position with ease. High liquidity often correlates with lower transaction costs and reduced volatility.
+Market capitalization, the total market value of a company’s outstanding shares, helps gauge the size and market presence of a company. Large-cap companies often have the financial stability and resources to sustain and grow dividends, making them likely candidates for the aristocrat status. Additionally, [liquidity](/wiki/liquidity-risk-premium), which indicates how easily a stock can be bought or sold without affecting its price, ensures that an investor can enter or [exit](/wiki/exit-strategy) a position with ease. High liquidity often correlates with lower transaction costs and reduced [volatility](/wiki/volatility-trading-strategies).
 
 ### Evaluating Stability and Growth Prospects
 
@@ -198,7 +198,7 @@ where $\Delta P$ is the change in the portfolio’s value, $w_i$ is the weight o
 
 Moreover, tax implications also pose challenges. Dividend income may be subject to varying tax rates depending on the investor's jurisdiction and tax bracket. Changes in tax policy can thus influence the attractiveness of dividend aristocrats. For instance, an increase in dividend tax rates can diminish net returns, making these investments less appealing compared to [growth stocks](/wiki/growth-stocks), which typically focus on capital appreciation rather than income distribution.
 
-Another influencing factor is shareholder activism. Activist investors may pressure companies to alter their dividend policies, sometimes advocating for reallocating funds from dividends to other areas such as growth or debt reduction. While this may benefit the company's long-term strategy, it can affect income-focused investors seeking consistent dividend payouts.
+Another influencing [factor](/wiki/factor-investing) is shareholder activism. Activist investors may pressure companies to alter their dividend policies, sometimes advocating for reallocating funds from dividends to other areas such as growth or debt reduction. While this may benefit the company's long-term strategy, it can affect income-focused investors seeking consistent dividend payouts.
 
 In navigating these challenges, investors must continually reassess their strategies, ensuring diversification and the resilience of their portfolios to maintain stability even as individual companies face potential status changes or policy shifts. Understanding the dynamic nature of these risks allows for more informed decision-making in the pursuit of sustainable growth and income.
 

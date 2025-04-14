@@ -60,7 +60,7 @@ Traditional 401(k) investments, like stocks and bonds, can offer higher returns 
 
 ## What are the risks of investing in gold with retirement funds?
 
-Investing in gold with your retirement funds can be risky because gold doesn't grow as fast as other investments like stocks. Over many years, stocks usually make more money than gold. So, if you put all your retirement money into gold, you might not have as much money when you retire. Also, gold doesn't pay you any interest or dividends like some other investments do. This means you're not earning extra money on your investment while you wait to use it.
+Investing in gold with your retirement funds can be risky because gold doesn't grow as fast as other investments like stocks. Over many years, stocks usually make more money than gold. So, if you put all your retirement money into gold, you might not have as much money when you retire. Also, gold doesn't pay you any interest or dividends like some other investments do. This means you're not [earning](/wiki/earning-announcement) extra money on your investment while you wait to use it.
 
 Another risk is that the price of gold can go up and down a lot. Sometimes, gold can lose value quickly, and if you need to sell it at that time, you might lose money. Also, when you buy and sell gold, there are extra costs like premiums when you buy and discounts when you sell. These costs can eat into your profits. Plus, if you're using a gold IRA, you have to pay fees for setting it up, keeping it going, and storing the gold. All these costs and the ups and downs of gold prices can make it a riskier choice for your retirement savings.
 

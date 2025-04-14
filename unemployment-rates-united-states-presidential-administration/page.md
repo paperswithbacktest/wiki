@@ -22,7 +22,7 @@ This monthly report is important because it helps people understand how the job 
 
 ## Which U.S. government agency is responsible for publishing unemployment statistics?
 
-The U.S. government agency responsible for publishing unemployment statistics is the Bureau of Labor Statistics (BLS). The BLS is part of the U.S. Department of Labor. They collect data about jobs and the economy and share it with the public.
+The U.S. government agency responsible for publishing unemployment [statistics](/wiki/bayesian-statistics) is the Bureau of Labor Statistics (BLS). The BLS is part of the U.S. Department of Labor. They collect data about jobs and the economy and share it with the public.
 
 The BLS releases the unemployment rate every month. They do this on the first Friday of the month. This helps people know how many are out of work and looking for jobs. It's important information for understanding the economy.
 

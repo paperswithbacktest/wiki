@@ -21,7 +21,7 @@ Using the right prompts can also make the model's responses more consistent and 
 
 ## What are the different types of prompts used in machine learning?
 
-In machine learning, there are different types of prompts used depending on what you want the model to do. One type is the instruction prompt, where you tell the model exactly what to do. For example, you might say "Write a poem about nature" and the model will follow your instruction to create a poem. Another type is the example-based prompt, where you give the model a sample of what you want. You could show the model a few lines of a story and ask it to continue from there.
+In [machine learning](/wiki/machine-learning), there are different types of prompts used depending on what you want the model to do. One type is the instruction prompt, where you tell the model exactly what to do. For example, you might say "Write a poem about nature" and the model will follow your instruction to create a poem. Another type is the example-based prompt, where you give the model a sample of what you want. You could show the model a few lines of a story and ask it to continue from there.
 
 Another kind of prompt is the question prompt, which is used to get information or answers from the model. You might ask "What is the capital of France?" and the model will respond with "Paris." There are also fill-in-the-blank prompts, where you give the model a sentence with a missing part and ask it to complete it. For instance, "The cat sat on the ___" and the model might fill in "mat."
 

@@ -24,7 +24,7 @@ Another way 'Buy a Bounce' differs is in the timing and risk involved. Strategie
 
 When planning to 'Buy a Bounce,' one of the key indicators to look for is a clear reason for the price drop. This could be a piece of bad news or a market event that caused the stock's price to fall suddenly. You want to make sure the drop seems like an overreaction and that the company's fundamentals are still strong. For example, if a company reports lower earnings than expected but still has good long-term prospects, that might be a good time to buy.
 
-Another important thing to watch is the stock's trading volume. If the price drops with a lot of trading activity, it might mean many people are selling off their shares. But if the volume is low, it could be a smaller dip, and the stock might bounce back quicker. Also, keep an eye on technical indicators like the Relative Strength Index (RSI). If the RSI shows the stock is oversold, it could be a sign that the price might go back up soon.
+Another important thing to watch is the stock's trading [volume](/wiki/volume-trading-strategy). If the price drops with a lot of trading activity, it might mean many people are selling off their shares. But if the volume is low, it could be a smaller dip, and the stock might bounce back quicker. Also, keep an eye on technical indicators like the Relative Strength Index (RSI). If the RSI shows the stock is oversold, it could be a sign that the price might go back up soon.
 
 ## Can you explain the mechanism behind 'Buy a Bounce' in simple terms?
 
@@ -36,7 +36,7 @@ The key to 'Buy a Bounce' is to figure out if the price drop is just temporary. 
 
 In a 'Buy a Bounce' strategy, the common entry point is right after the stock's price has dropped. Traders look for a clear reason for the drop, like bad news or a market event, and they want to make sure it seems like an overreaction. They also check if the stock's fundamentals are still strong and if the trading volume was low during the drop. If everything looks good, they buy the stock when it's at a lower price, hoping to catch it before it starts to go back up.
 
-The common exit point for a 'Buy a Bounce' strategy is when the stock's price starts to rise again and reaches a level where the trader thinks it's a good time to sell. This could be when the price gets back to what it was before the drop or when it hits a certain target that the trader set. The goal is to sell the stock at a higher price than what they bought it for, making a profit from the bounce back.
+The common [exit](/wiki/exit-strategy) point for a 'Buy a Bounce' strategy is when the stock's price starts to rise again and reaches a level where the trader thinks it's a good time to sell. This could be when the price gets back to what it was before the drop or when it hits a certain target that the trader set. The goal is to sell the stock at a higher price than what they bought it for, making a profit from the bounce back.
 
 ## How do market trends affect the success of a 'Buy a Bounce' strategy?
 

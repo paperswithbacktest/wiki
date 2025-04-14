@@ -60,7 +60,7 @@ This method is easy to understand and use because it doesn't need to learn a com
 
 ## How can neural networks be used for classification tasks?
 
-Neural networks are like brains made of math that can learn to sort things into different groups. Imagine you want to tell if a picture shows a cat or a dog. A neural network looks at the picture and tries to figure out if it's more likely to be a cat or a dog. It does this by using many layers of tiny math problems, called nodes, that are connected together. Each node looks at different parts of the picture and decides how important they are for telling cats and dogs apart. The network learns by looking at lots of examples of cat and dog pictures and adjusting how the nodes work together to get better at guessing.
+Neural networks are like brains made of math that can learn to sort things into different groups. Imagine you want to tell if a picture shows a cat or a dog. A [neural network](/wiki/neural-network) looks at the picture and tries to figure out if it's more likely to be a cat or a dog. It does this by using many layers of tiny math problems, called nodes, that are connected together. Each node looks at different parts of the picture and decides how important they are for telling cats and dogs apart. The network learns by looking at lots of examples of cat and dog pictures and adjusting how the nodes work together to get better at guessing.
 
 Once the neural network has learned from the examples, you can use it on new pictures to see if it can correctly tell if they show cats or dogs. The network gives you a number between 0 and 1 for each group, showing how sure it is that the picture belongs to that group. If the number for cats is higher, the network thinks it's more likely to be a cat. Neural networks are really good at figuring out complicated patterns in data, like the subtle differences between cats and dogs. They are used in many areas, like recognizing speech, understanding text, and even playing games.
 
@@ -106,7 +106,7 @@ The ability of these models to process extensive datasets efficiently lends them
 
 ## How do you evaluate model performance?
 
-Evaluating the performance of classification models in algorithmic trading is critical for ensuring their effectiveness in predicting market movements and their subsequent impact on trading strategies. This evaluation encompasses both traditional model accuracy metrics and additional trading-specific factors.
+Evaluating the performance of classification models in [algorithmic trading](/wiki/algorithmic-trading) is critical for ensuring their effectiveness in predicting market movements and their subsequent impact on trading strategies. This evaluation encompasses both traditional model accuracy metrics and additional trading-specific factors.
 
 ### Model Accuracy Metrics
 

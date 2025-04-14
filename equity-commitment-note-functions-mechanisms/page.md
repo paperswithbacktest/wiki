@@ -106,7 +106,7 @@ This formula helps determine the number of shares to be issued upon conversion. 
 
 Market conditions significantly affect the returns on ECNs. Favorable conditions, such as a bullish stock market, can make the conversion highly lucrative for investors as the conversion price might be lower than the current market value of the stock. Conversely, economic downturns or bear markets can hinder conversion attractiveness, impacting both issuer’s financing costs and investor returns.
 
-Interest rates also influence ECN attractiveness. Lower interest rates generally enhance the appeal of equity conversions relative to maintaining a fixed-income position. Additionally, market volatility might affect the pricing of the underlying stock, making precise risk evaluation essential.
+Interest rates also influence ECN attractiveness. Lower interest rates generally enhance the appeal of equity conversions relative to maintaining a fixed-income position. Additionally, market [volatility](/wiki/volatility-trading-strategies) might affect the pricing of the underlying stock, making precise risk evaluation essential.
 
 **Risks and Considerations for Investors**
 

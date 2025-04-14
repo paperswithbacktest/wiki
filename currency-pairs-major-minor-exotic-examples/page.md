@@ -18,7 +18,7 @@ In trading, people use currency pairs to buy and sell different currencies. They
 
 Currency pairs are sorted into three main groups: major pairs, minor pairs, and exotic pairs. Major pairs are the most traded and include currencies from big economies like the US, Europe, and Japan. These pairs are usually very liquid, meaning they're easy to buy and sell without big price changes. Examples are EUR/USD, USD/JPY, and GBP/USD.
 
-Minor pairs, also called cross-currency pairs, don't include the US dollar. They're less traded than major pairs but still have good liquidity. Examples include EUR/GBP, EUR/CHF, and GBP/JPY. These pairs can be a bit more volatile than major pairs because they're traded less often.
+Minor pairs, also called cross-currency pairs, don't include the US dollar. They're less traded than major pairs but still have good [liquidity](/wiki/liquidity-risk-premium). Examples include EUR/GBP, EUR/CHF, and GBP/JPY. These pairs can be a bit more volatile than major pairs because they're traded less often.
 
 Exotic pairs include one major currency and one from a smaller or emerging economy. These pairs can be riskier because they're not traded as much, so they can have bigger price swings. Examples are USD/TRY (US dollar vs Turkish lira) and EUR/CZK (Euro vs Czech koruna). Trading these pairs might offer more chances for big gains, but also comes with more risk.
 
@@ -68,7 +68,7 @@ Trading exotic pairs like USD/TRY and EUR/CZK is riskier and requires different 
 
 ## What are the typical spreads for major, minor, and exotic currency pairs?
 
-Major currency pairs like EUR/USD and USD/JPY usually have the smallest spreads. A spread is the difference between the price to buy and the price to sell a currency pair. Because lots of people trade major pairs, the spreads are often very small, maybe just a few pips. A pip is a small unit of price movement. For example, the spread for EUR/USD might be 1 to 2 pips. This makes it cheaper to trade major pairs because you don't lose much money just to enter and exit a trade.
+Major currency pairs like EUR/USD and USD/JPY usually have the smallest spreads. A spread is the difference between the price to buy and the price to sell a currency pair. Because lots of people trade major pairs, the spreads are often very small, maybe just a few pips. A pip is a small unit of price movement. For example, the spread for EUR/USD might be 1 to 2 pips. This makes it cheaper to trade major pairs because you don't lose much money just to enter and [exit](/wiki/exit-strategy) a trade.
 
 Minor currency pairs, like EUR/GBP and GBP/JPY, have bigger spreads than major pairs. These pairs are not traded as much, so the spreads might be around 2 to 5 pips. The spreads are bigger because fewer people are buying and selling these pairs, so it's harder to find someone to trade with. This can make trading minor pairs a bit more expensive because you pay more to enter and exit a trade.
 
@@ -86,13 +86,13 @@ Exotic pairs like USD/TRY or EUR/CZK can be hit the hardest by geopolitical even
 
 When trading exotic currency pairs, traders often use advanced techniques that help them deal with the big price swings and low liquidity. One common technique is using wider stop-loss orders. Because exotic pairs can move a lot, traders set their stop-losses further away from their entry price. This helps them avoid getting kicked out of a trade too soon because of a sudden price jump. They also use larger take-profit targets to aim for bigger gains, since the price moves can be significant.
 
-Another technique is called "scalping," where traders make lots of small trades to take advantage of quick price changes. Since exotic pairs can be very volatile, scalping can be a good way to make money from these short-term movements. Traders also pay close attention to news and events in the smaller country's economy, using "event-driven trading" to predict how these might affect the currency's value. This means they're always ready to act fast when big news comes out, hoping to profit from the market's reaction.
+Another technique is called "[scalping](/wiki/gamma-scalping)," where traders make lots of small trades to take advantage of quick price changes. Since exotic pairs can be very volatile, scalping can be a good way to make money from these short-term movements. Traders also pay close attention to news and events in the smaller country's economy, using "event-driven trading" to predict how these might affect the currency's value. This means they're always ready to act fast when big news comes out, hoping to profit from the market's reaction.
 
 ## What are exotic currency pairs?
 
 Exotic currency pairs in forex trading involve the pairing of one major currency with a currency from a developing or emerging market. Unlike their major counterparts, which consist of currency pairs like EUR/USD and GBP/USD, exotic pairs usually feature currencies from smaller economies which are not as widely exchanged on global markets. For instance, USD/SGD (US Dollar/Singapore Dollar) and EUR/TRY (Euro/Turkish Lira) are considered exotic pairs due to the inclusion of the Singapore Dollar and the Turkish Lira, respectively.
 
-These pairs are defined by certain characteristics that distinguish them from major and minor currency pairs. Foremost among these is liquidity. Exotic currency pairs are generally less liquid than major and minor pairs, meaning there is usually a lesser volume of trading activity. This reduced liquidity contributes to wider spreads—the difference between the bid and ask prices in trading—making the transaction costs higher for traders.
+These pairs are defined by certain characteristics that distinguish them from major and minor currency pairs. Foremost among these is liquidity. Exotic currency pairs are generally less liquid than major and minor pairs, meaning there is usually a lesser [volume](/wiki/volume-trading-strategy) of trading activity. This reduced liquidity contributes to wider spreads—the difference between the bid and ask prices in trading—making the transaction costs higher for traders.
 
 Volatility is another hallmark of exotic currency pairs. Due to the economic and political conditions of emerging markets, these pairs tend to experience greater price fluctuations. This volatility can be attributed to factors such as political instability, fluctuating growth rates, inflation, and other economic indicators specific to the countries involved. As a result, while exotic pairs offer the potential for higher profits due to their price swings, they also pose increased risks for traders who must navigate these factors without the relative stability associated with major currencies.
 

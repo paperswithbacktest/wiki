@@ -40,7 +40,7 @@ The calculation is simple: you subtract the face value from the purchase price. 
 
 ## What factors influence the level of agio on bonds?
 
-Several things can make the agio on bonds go up or down. One big thing is how much people want the bond. If lots of people want to buy it, the price can go above the face value, creating agio. This can happen because the bond is seen as a good investment or because it offers a better return than other investments at the time. Another important factor is interest rates. If interest rates go down, older bonds that have higher interest rates become more valuable, so people are willing to pay more for them, increasing the agio.
+Several things can make the agio on bonds go up or down. One big thing is how much people want the bond. If lots of people want to buy it, the price can go above the face value, creating agio. This can happen because the bond is seen as a good investment or because it offers a better return than other investments at the time. Another important [factor](/wiki/factor-investing) is interest rates. If interest rates go down, older bonds that have higher interest rates become more valuable, so people are willing to pay more for them, increasing the agio.
 
 Another factor that can affect agio is how safe people think the bond is. If a bond is from a very reliable company or government, people might pay more for it because they trust it won't fail. The overall economy can also play a role. In good economic times, people might be more willing to pay extra for bonds, leading to higher agio. But if the economy is doing poorly, people might not want to pay as much, which could lower the agio. All these factors together decide how much agio there will be on a bond.
 

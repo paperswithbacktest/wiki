@@ -66,7 +66,7 @@ On the other hand, if the ratio is low, it means not many people are interested 
 
 The Bid-to-Cover Ratio can be a helpful tool, but it has some limits. One big limit is that it only shows how much people want to buy the bonds at that moment. It doesn't tell you why they want to buy them or if their interest will stay the same in the future. For example, if the economy changes or something big happens in the world, people might change their minds about the bonds.
 
-Another limit is that the Bid-to-Cover Ratio doesn't show everything about the bond. It doesn't tell you about the bond's interest rate, how safe it is, or how it might change in value over time. Investors need to look at these other things too to make a good decision. So, while the Bid-to-Cover Ratio can give you a quick idea of demand, it's not the only thing investors should use to decide if a bond is a good buy.
+Another limit is that the Bid-to-Cover Ratio doesn't show everything about the bond. It doesn't tell you about the bond's [interest rate](/wiki/interest-rate-trading-strategies), how safe it is, or how it might change in value over time. Investors need to look at these other things too to make a good decision. So, while the Bid-to-Cover Ratio can give you a quick idea of demand, it's not the only thing investors should use to decide if a bond is a good buy.
 
 ## How has the Bid-to-Cover Ratio evolved historically for major securities?
 

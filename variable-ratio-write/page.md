@@ -58,7 +58,7 @@ Using the term "Variable Ratio Write" in the context of content creation is a mi
 
 ## What tools or software can assist in practicing Variable Ratio Write?
 
-To practice Variable Ratio Write, you can use trading platforms like Thinkorswim by TD Ameritrade or Interactive Brokers. These platforms let you trade options and manage your stocks. They have tools that help you see how much money you might make or lose with different strategies, including Variable Ratio Write. You can also use these platforms to practice with fake money before you start using real money.
+To practice Variable Ratio Write, you can use trading platforms like Thinkorswim by TD Ameritrade or [Interactive Brokers](/wiki/interactive-brokers-api). These platforms let you trade options and manage your stocks. They have tools that help you see how much money you might make or lose with different strategies, including Variable Ratio Write. You can also use these platforms to practice with fake money before you start using real money.
 
 Another helpful tool is options analysis software like OptionVue or OptionNET Explorer. These programs help you plan your trades and see what might happen if the stock price goes up or down. They can show you how much risk you're taking with a Variable Ratio Write and help you decide if it's a good strategy for you. Using these tools can make it easier to understand and practice Variable Ratio Write without losing real money.
 

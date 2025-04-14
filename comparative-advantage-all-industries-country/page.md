@@ -28,7 +28,7 @@ To have a comparative advantage, a country needs to be less bad at some things c
 
 ## What factors determine a country's comparative advantage?
 
-A country's comparative advantage is determined by several factors. One big factor is the natural resources a country has. If a country has a lot of oil, it can have a comparative advantage in oil production. Another factor is the skills and education of its people. If a country has a lot of well-educated people, it might be good at making high-tech products. The cost of labor also matters. If workers in a country don't need to be paid as much, it can be cheaper to make things there.
+A country's comparative advantage is determined by several factors. One big [factor](/wiki/factor-investing) is the natural resources a country has. If a country has a lot of oil, it can have a comparative advantage in oil production. Another factor is the skills and education of its people. If a country has a lot of well-educated people, it might be good at making high-tech products. The cost of labor also matters. If workers in a country don't need to be paid as much, it can be cheaper to make things there.
 
 Another important factor is the technology a country uses. If a country has advanced technology, it can make things more efficiently and have a comparative advantage in those products. The government can also play a role by making laws and rules that help certain industries. For example, if the government gives special help to farmers, the country might have a comparative advantage in farming. All these factors together decide what a country is relatively better at compared to other countries.
 

@@ -40,7 +40,7 @@ A trade deficit happens when a country buys more things from other countries tha
 
 A budget deficit, on the other hand, is when a government spends more money than it earns. This happens when the government's spending on things like schools, hospitals, and roads is more than the money it gets from taxes and other sources. For example, if a government spends $1,000 and only earns $900, it has a budget deficit of $100. This can also lead to more debt for the government, which might affect the economy by causing higher interest rates or less money for public services.
 
-Both trade deficits and budget deficits can have an impact on a country's economy, but they are caused by different things. A trade deficit is about buying and selling goods with other countries, while a budget deficit is about how much money the government is spending compared to what it is earning.
+Both trade deficits and budget deficits can have an impact on a country's economy, but they are caused by different things. A trade deficit is about buying and selling goods with other countries, while a budget deficit is about how much money the government is spending compared to what it is [earning](/wiki/earning-announcement).
 
 ## How do exchange rates influence trade deficits?
 

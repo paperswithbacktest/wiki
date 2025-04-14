@@ -64,11 +64,11 @@ Because E-mini S&P 500 Futures move with the S&P 500, they can also be used to p
 
 ## What advanced trading strategies can be used with E-mini S&P 500 Futures?
 
-One advanced strategy for trading E-mini S&P 500 Futures is called scalping. This means making a lot of small trades to take advantage of tiny changes in the market. Traders who use this strategy try to make a little bit of money on each trade, but they do it many times a day. They need to be quick and good at watching the market to see when to buy and sell. Scalping can be exciting but also risky because it's hard to keep making money this way all the time.
+One advanced strategy for trading E-mini S&P 500 Futures is called [scalping](/wiki/gamma-scalping). This means making a lot of small trades to take advantage of tiny changes in the market. Traders who use this strategy try to make a little bit of money on each trade, but they do it many times a day. They need to be quick and good at watching the market to see when to buy and sell. Scalping can be exciting but also risky because it's hard to keep making money this way all the time.
 
 Another strategy is called spread trading. This involves buying one futures contract and selling another at the same time. The idea is to make money from the difference in price between the two contracts. For example, you might buy an E-mini S&P 500 Future that expires in March and sell one that expires in June. If the price difference between these two contracts changes in your favor, you can make money. This strategy can be less risky than just betting on the market going up or down because it's more about the difference between the contracts.
 
-A third strategy is trend following. This means watching the market to see if it's going up or down over time and then trading in the same direction. Traders who use this strategy might use tools like moving averages to help them see the trend. If the market is going up, they'll buy E-mini S&P 500 Futures, hoping to sell them later at a higher price. If the market is going down, they'll sell futures, hoping to buy them back later at a lower price. Trend following can be good for catching big moves in the market, but it can also be hard to know when the trend will change.
+A third strategy is [trend following](/wiki/trend-following). This means watching the market to see if it's going up or down over time and then trading in the same direction. Traders who use this strategy might use tools like moving averages to help them see the trend. If the market is going up, they'll buy E-mini S&P 500 Futures, hoping to sell them later at a higher price. If the market is going down, they'll sell futures, hoping to buy them back later at a lower price. Trend following can be good for catching big moves in the market, but it can also be hard to know when the trend will change.
 
 ## How do economic reports and events impact E-mini S&P 500 Futures?
 
@@ -114,7 +114,7 @@ $$
 
 For example, if the contract value is $200,000 and the initial margin required is $10,000, the leverage would be 20:1. This significant leverage allows traders to enhance their exposure to the market with less capital outlay.
 
-High liquidity is another significant advantage. The E-mini S&P 500 futures market is one of the most liquid in the world, allowing for rapid trade execution and minimizing the risk of slippage. For high-frequency trading strategies, liquidity is crucial as it ensures that large volumes can be traded without greatly influencing the market price.
+High [liquidity](/wiki/liquidity-risk-premium) is another significant advantage. The E-mini S&P 500 futures market is one of the most liquid in the world, allowing for rapid trade execution and minimizing the risk of slippage. For high-frequency trading strategies, liquidity is crucial as it ensures that large volumes can be traded without greatly influencing the market price.
 
 The ability to backtest algorithms using historical data before deploying them live is an essential component of risk management. Backtesting provides insights into the performance of a trading strategy over a previous period and helps identify potential weaknesses. This process allows traders to refine their strategies and understand potential risks and returns. It often involves historical data analysis using Python programming, where traders can simulate different strategies:
 

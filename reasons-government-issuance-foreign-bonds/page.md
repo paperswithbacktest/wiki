@@ -52,7 +52,7 @@ However, there are risks too. If the interest rates in the foreign country go up
 
 ## What role do credit ratings play in the issuance of foreign bonds?
 
-Credit ratings are really important when a government wants to issue foreign bonds. A credit rating is like a score that tells investors how safe it is to lend money to that government. If a government has a high credit rating, it means they are seen as less likely to have trouble paying back the money they borrow. This makes investors more willing to buy their bonds, and the government might be able to borrow money at a lower interest rate because it's seen as a safer bet.
+Credit ratings are really important when a government wants to issue foreign bonds. A credit rating is like a score that tells investors how safe it is to lend money to that government. If a government has a high credit rating, it means they are seen as less likely to have trouble paying back the money they borrow. This makes investors more willing to buy their bonds, and the government might be able to borrow money at a lower [interest rate](/wiki/interest-rate-trading-strategies) because it's seen as a safer bet.
 
 On the other hand, if a government has a low credit rating, it means they are seen as more likely to have problems paying back their debts. This can make investors worried and less willing to buy the bonds. If the government still wants to borrow money, they might have to offer higher interest rates to attract investors. This can make borrowing more expensive for the government. So, credit ratings can really affect how easy and costly it is for a government to issue foreign bonds.
 
@@ -86,7 +86,7 @@ The Economics of Government Bond Markets by the OECD provides comprehensive insi
 
 Treynor & Black's How to Use Security Analysis to Improve Portfolio Selection is a foundational text for those looking to enhance investment strategies through effective security analysis. It covers techniques that help investors optimize their portfolio selection, making it a valuable resource for anyone dealing with government and foreign bonds.
 
-Hendershott, Jones & Menkveld's Does Algorithmic Trading Improve Liquidity? examines the implications of algorithmic trading on market liquidity. This paper offers a detailed analysis of how automated trading systems impact market dynamics, a pertinent read for understanding the role of technology in the bond market.
+Hendershott, Jones & Menkveld's Does Algorithmic Trading Improve Liquidity? examines the implications of [algorithmic trading](/wiki/algorithmic-trading) on market [liquidity](/wiki/liquidity-risk-premium). This paper offers a detailed analysis of how automated trading systems impact market dynamics, a pertinent read for understanding the role of technology in the bond market.
 
 High-Frequency Trading: On the Cusp of Legitimacy? by Mah explores the controversial aspects of high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) and its effects on market integrity. This study outlines the potential benefits and risks associated with HFT, providing a balanced view that is necessary for comprehending its place in modern financial markets.
 

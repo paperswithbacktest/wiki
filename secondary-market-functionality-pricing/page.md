@@ -38,7 +38,7 @@ Dealers, on the other hand, actually own the stocks or bonds. They buy them and 
 
 Liquidity is very important in the secondary market. It means how easy it is to buy or sell something without changing its price too much. If a market is very liquid, it means there are lots of people buying and selling all the time. This makes it easy for someone to sell their stocks or bonds quickly if they need to. It also means that the price of the stocks or bonds stays pretty stable because there are so many trades happening.
 
-If a market is not very liquid, it can be hard to sell things. There might not be many people wanting to buy, so if someone needs to sell their stocks or bonds, they might have to wait a long time or sell them for less money than they wanted. This can make the price of the stocks or bonds go up and down a lot because there are not enough trades to keep the price steady. So, having good liquidity in the secondary market is important for making sure people can trade easily and the prices stay fair.
+If a market is not very liquid, it can be hard to sell things. There might not be many people wanting to buy, so if someone needs to sell their stocks or bonds, they might have to wait a long time or sell them for less money than they wanted. This can make the price of the stocks or bonds go up and down a lot because there are not enough trades to keep the price steady. So, having good [liquidity](/wiki/liquidity-risk-premium) in the secondary market is important for making sure people can trade easily and the prices stay fair.
 
 ## What are the common methods of pricing in the secondary market?
 
@@ -80,7 +80,7 @@ Automation can also help people make better choices about buying and selling. Th
 
 ## What advanced strategies can traders use to optimize their performance in the secondary market?
 
-Traders can use a strategy called algorithmic trading to make their work easier and faster. This means they use computer programs to buy and sell stocks or bonds automatically. These programs can look at lots of information and make decisions based on what they see. This can help traders buy or sell at the best times and make more money. It also means they don't have to watch the market all the time because the computer does it for them.
+Traders can use a strategy called [algorithmic trading](/wiki/algorithmic-trading) to make their work easier and faster. This means they use computer programs to buy and sell stocks or bonds automatically. These programs can look at lots of information and make decisions based on what they see. This can help traders buy or sell at the best times and make more money. It also means they don't have to watch the market all the time because the computer does it for them.
 
 Another strategy is called diversification. This means traders buy different kinds of stocks or bonds instead of just one. If one stock or bond goes down in price, the others might go up, so they don't lose all their money. It's like not putting all your eggs in one basket. Diversification can help traders make their money safer and maybe even make more money over time.
 
@@ -94,7 +94,7 @@ Price discovery is another essential function of secondary markets, involving th
 
 Key secondary markets such as the NYSE and NASDAQ exemplify these functions. The NYSE, founded in 1792, is one of the largest and most established stock exchanges globally, known for its stringent listing requirements and predominantly featuring well-established companies. NASDAQ, on the other hand, is a major electronic exchange recognized for its high concentration of technology stocks and less stringent listing criteria, enabling smaller or newer firms to access public markets.
 
-Transaction volumes and liquidity in secondary markets significantly impact pricing. Higher transaction volumes typically lead to greater liquidity, reducing bid-ask spreads (the difference between purchase and sale prices) and stabilizing market prices. Conversely, lower volumes can lead to higher [volatility](/wiki/volatility-trading-strategies) and wider bid-ask spreads, as fewer trades mean less information and more significant price movements due to isolated transactions. The mathematical relationship between liquidity, volume, and pricing in secondary markets can be described using various financial models.
+Transaction volumes and liquidity in secondary markets significantly impact pricing. Higher transaction volumes typically lead to greater liquidity, reducing bid-ask spreads (the difference between purchase and sale prices) and stabilizing market prices. Conversely, lower volumes can lead to higher [volatility](/wiki/volatility-trading-strategies) and wider bid-ask spreads, as fewer trades mean less information and more significant price movements due to isolated transactions. The mathematical relationship between liquidity, [volume](/wiki/volume-trading-strategy), and pricing in secondary markets can be described using various financial models.
 
 For instance, the bid-ask spread can be empirically modeled as a function of volume and volatility, offered by the simple equation:
 

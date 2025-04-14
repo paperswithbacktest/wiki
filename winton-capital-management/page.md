@@ -76,9 +76,9 @@ Another challenge is the ups and downs of the market. Even with all their techno
 
 ## What future trends or developments might impact Winton Capital Management's strategy?
 
-In the future, Winton Capital Management might need to pay attention to new technology like artificial intelligence and machine learning. These technologies can help them look at even more information and find new patterns that they might not see now. This could make their investment choices even smarter. But it also means they will need to keep learning and changing how they do things to stay ahead of other companies that are also using these new tools.
+In the future, Winton Capital Management might need to pay attention to new technology like [artificial intelligence](/wiki/ai-artificial-intelligence) and [machine learning](/wiki/machine-learning). These technologies can help them look at even more information and find new patterns that they might not see now. This could make their investment choices even smarter. But it also means they will need to keep learning and changing how they do things to stay ahead of other companies that are also using these new tools.
 
-Another trend that could affect Winton is the growing interest in things like environmental, social, and governance (ESG) investing. More and more people want to put their money into companies that are good for the planet and society. Winton might need to think about how to include these kinds of investments in their plans. This could help them attract more clients who care about these issues. But it also means they will need to find new ways to measure and manage these different kinds of risks and opportunities.
+Another trend that could affect Winton is the growing interest in things like environmental, social, and governance ([ESG](/wiki/esg-investing)) investing. More and more people want to put their money into companies that are good for the planet and society. Winton might need to think about how to include these kinds of investments in their plans. This could help them attract more clients who care about these issues. But it also means they will need to find new ways to measure and manage these different kinds of risks and opportunities.
 
 ## References & Further Reading
 

@@ -18,11 +18,11 @@ High volume can mean that a stock is popular or that something important is happ
 
 Share volume is measured by counting the total number of shares that are bought and sold during a trading day. Every time someone buys or sells a stock, that transaction is added to the day's total volume. For example, if one person sells 100 shares and another person buys those 100 shares, the volume for that stock increases by 100 shares.
 
-This information is recorded and reported by stock exchanges, like the New York Stock Exchange or Nasdaq. They keep track of all the trades that happen on their exchange and then report the total volume at the end of the day. This data is important for investors because it helps them understand how active the market is for a particular stock.
+This information is recorded and reported by stock exchanges, like the New York Stock Exchange or Nasdaq. They keep track of all the trades that happen on their exchange and then report the total [volume](/wiki/volume-trading-strategy) at the end of the day. This data is important for investors because it helps them understand how active the market is for a particular stock.
 
 ## What does stock liquidity mean?
 
-Stock liquidity means how easily you can buy or sell a stock without affecting its price too much. If a stock is very liquid, it means there are a lot of people wanting to buy and sell it, so you can trade it quickly and easily. Think of it like a busy market where you can always find someone to trade with.
+Stock [liquidity](/wiki/liquidity-risk-premium) means how easily you can buy or sell a stock without affecting its price too much. If a stock is very liquid, it means there are a lot of people wanting to buy and sell it, so you can trade it quickly and easily. Think of it like a busy market where you can always find someone to trade with.
 
 On the other hand, if a stock is not very liquid, it might be harder to find someone to buy or sell it to. This can make the price go up or down a lot when you try to trade. It's like trying to sell something in a quiet market where not many people are around. Liquidity is important because it helps investors know how easy it will be to get their money out of a stock when they want to.
 
@@ -46,7 +46,7 @@ Another sign of high liquidity is a small difference between the price someone i
 
 ## Can you explain the relationship between trading volume and price volatility?
 
-Trading volume and price volatility are closely connected. When the trading volume is high, it means a lot of people are buying and selling the stock. This can make the price move around more because there are so many trades happening. Think of it like a busy market where prices can change quickly because everyone is trying to buy and sell at the same time. So, high volume often leads to more price volatility.
+Trading volume and price [volatility](/wiki/volatility-trading-strategies) are closely connected. When the trading volume is high, it means a lot of people are buying and selling the stock. This can make the price move around more because there are so many trades happening. Think of it like a busy market where prices can change quickly because everyone is trying to buy and sell at the same time. So, high volume often leads to more price volatility.
 
 On the other hand, when the trading volume is low, the price might not change as much. With fewer people trading, there's less activity to push the price up or down. It's like a quiet market where things stay pretty steady because not many people are buying or selling. So, low volume usually means less price volatility. But sometimes, if a big trade happens in a low volume stock, it can still cause the price to jump a lot.
 

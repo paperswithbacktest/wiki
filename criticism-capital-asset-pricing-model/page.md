@@ -60,7 +60,7 @@ The Fama-French model shows that CAPM might be too simple because it only looks 
 
 ## What role does market efficiency play in the criticism of the CAPM?
 
-Market efficiency is a big reason why people criticize the Capital Asset Pricing Model, or CAPM. The idea of market efficiency is that all the information about a stock is already in its price. If markets are really efficient, then it's hard to beat the market by picking stocks that do better than what CAPM predicts. But some people say that markets aren't always that efficient. They think that there are ways to find stocks that will do better than CAPM says they should, which means the model might not be working right.
+Market efficiency is a big reason why people criticize the Capital Asset Pricing Model, or CAPM. The idea of market efficiency is that all the information about a stock is already in its price. If markets are really efficient, then it's hard to beat the market by [picking](/wiki/asset-class-picking) stocks that do better than what CAPM predicts. But some people say that markets aren't always that efficient. They think that there are ways to find stocks that will do better than CAPM says they should, which means the model might not be working right.
 
 Because of this, some people think that CAPM doesn't explain everything about stock returns. If markets aren't fully efficient, then other things like how big a company is or its financial health can affect stock prices in ways that CAPM doesn't account for. This makes people look for other models, like the Fama-French three-factor model, that try to explain more about why stocks do well or not. So, the idea that markets might not be as efficient as we think is a big part of why people criticize CAPM and look for better ways to understand stock returns.
 
@@ -78,7 +78,7 @@ Portfolio managers, who handle big groups of investments, also have to be carefu
 
 ## What ongoing research and developments are addressing the shortcomings of the CAPM?
 
-Researchers are working on new models to fix the problems with the Capital Asset Pricing Model, or CAPM. One big model they use is the Fama-French three-factor model, which looks at more than just how a stock moves with the market. It also considers how big the company is and its book-to-market ratio. This helps explain why some stocks do better than others in ways that CAPM can't. Another model is the Carhart four-factor model, which adds a fourth factor called momentum. This means it looks at how a stock has been doing recently, which can also help predict future returns. These new models try to give a more complete picture of what affects stock prices.
+Researchers are working on new models to fix the problems with the Capital Asset Pricing Model, or CAPM. One big model they use is the Fama-French three-factor model, which looks at more than just how a stock moves with the market. It also considers how big the company is and its book-to-market ratio. This helps explain why some stocks do better than others in ways that CAPM can't. Another model is the Carhart four-factor model, which adds a fourth factor called [momentum](/wiki/momentum). This means it looks at how a stock has been doing recently, which can also help predict future returns. These new models try to give a more complete picture of what affects stock prices.
 
 Behavioral finance is another area where researchers are trying to improve on CAPM. This field looks at how people's feelings and mistakes can change the market. For example, people might get too excited about a stock and push its price up too high, or they might get scared and sell a good stock. By understanding these behaviors, researchers can make models that account for these human factors. This can help investors and portfolio managers make better choices by considering not just the numbers, but also how people act. So, ongoing research in both new models and behavioral finance is trying to make up for the shortcomings of CAPM and help people understand the stock market better.
 
@@ -147,7 +147,7 @@ Another model, the **Intertemporal CAPM (ICAPM)**, developed by Robert Merton, e
 
 These models, despite their advantages, are not without shortcomings. Criticisms often target assumptions about factor stability and the models' empirical validation. Furthermore, the efficacy of these models can vary greatly depending on the trading objectives and specific market conditions.
 
-In practice, the choice between these models and their applicability often hinges on the specific context of the investment strategy and market environment. Traders and investors may use these models to build portfolios that better capture market anomalies and risk factors, complementing algorithmic trading systems that require sophisticated analytical frameworks.
+In practice, the choice between these models and their applicability often hinges on the specific context of the investment strategy and market environment. Traders and investors may use these models to build portfolios that better capture market anomalies and risk factors, complementing [algorithmic trading](/wiki/algorithmic-trading) systems that require sophisticated analytical frameworks.
 
 ## References & Further Reading
 

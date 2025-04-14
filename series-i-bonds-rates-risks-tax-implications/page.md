@@ -40,7 +40,7 @@ Another risk is that the interest rate can change. The total interest rate has t
 
 ## How do Series I Bonds protect against inflation?
 
-Series I Bonds help protect your money from inflation by earning interest in two ways: a fixed rate and an inflation rate. The fixed rate stays the same for the whole time you have the bond. The inflation rate changes every six months, based on how much prices have gone up. When inflation goes up, the interest rate on your bond goes up too. This means your money keeps up with the rising prices, so it doesn't lose value.
+Series I Bonds help protect your money from inflation by [earning](/wiki/earning-announcement) interest in two ways: a fixed rate and an inflation rate. The fixed rate stays the same for the whole time you have the bond. The inflation rate changes every six months, based on how much prices have gone up. When inflation goes up, the interest rate on your bond goes up too. This means your money keeps up with the rising prices, so it doesn't lose value.
 
 For example, if you buy a Series I Bond and inflation goes up, the bond will earn more interest to match that increase. This way, even though things might cost more, your bond's value grows to keep up with those costs. So, if you hold onto your Series I Bond, it helps make sure your money doesn't lose buying power over time because of inflation.
 

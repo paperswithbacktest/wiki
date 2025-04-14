@@ -46,7 +46,7 @@ Some lenders might be okay with a higher CLTV ratio, like up to 90% or even 95%,
 
 ## How does the CLTV ratio affect mortgage approval?
 
-The CLTV ratio plays a big role in whether a lender will approve your mortgage. When you apply for a mortgage, lenders look at the CLTV ratio to see how much risk they are taking. If your CLTV ratio is low, it means the total amount of loans on your property is small compared to its value. This is less risky for the lender, so they are more likely to approve your mortgage. They might even give you better loan terms, like a lower interest rate.
+The CLTV ratio plays a big role in whether a lender will approve your mortgage. When you apply for a mortgage, lenders look at the CLTV ratio to see how much risk they are taking. If your CLTV ratio is low, it means the total amount of loans on your property is small compared to its value. This is less risky for the lender, so they are more likely to approve your mortgage. They might even give you better loan terms, like a lower [interest rate](/wiki/interest-rate-trading-strategies).
 
 On the other hand, if your CLTV ratio is high, it means the total loans are close to the value of your property. This is riskier for the lender because if you can't pay back the loans, they might lose money. Because of this, lenders might not approve your mortgage if the CLTV ratio is too high. If they do approve it, they might charge you a higher interest rate or ask for more money upfront to reduce their risk. Knowing your CLTV ratio can help you understand your chances of getting a mortgage approved and the terms you might get.
 

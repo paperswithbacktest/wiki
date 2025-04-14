@@ -54,7 +54,7 @@ Another technique is to use the Chikou Span along with the Tenkan-sen and Kijun-
 
 Traders can backtest strategies that use the Chikou Span by using historical data to see how well their trading rules would have worked in the past. They can use a computer program or a trading platform that lets them look at old price data and see what would have happened if they followed their strategy. For example, if their strategy says to buy when the Chikou Span crosses above the price from 26 periods ago, they can check how many times this happened in the past and if it led to profits or losses.
 
-To do this, traders need to set clear rules for when to buy and sell based on the Chikou Span and other parts of the Ichimoku chart. They should then apply these rules to the historical data and track the results. This helps them see if their strategy works well over time and in different market conditions. By backtesting, traders can make their strategy better before using real money, which can help them avoid mistakes and make smarter trades.
+To do this, traders need to set clear rules for when to buy and sell based on the Chikou Span and other parts of the Ichimoku chart. They should then apply these rules to the historical data and track the results. This helps them see if their strategy works well over time and in different market conditions. By [backtesting](/wiki/backtesting), traders can make their strategy better before using real money, which can help them avoid mistakes and make smarter trades.
 
 ## What role does the Chikou Span play in risk management within trading strategies?
 
@@ -64,7 +64,7 @@ Another way the Chikou Span helps with risk management is by showing when the ma
 
 ## How can the Chikou Span be optimized for different time frames and market conditions?
 
-To optimize the Chikou Span for different time frames, traders can adjust the number of periods used in the calculation. For short-term trading, like day trading, a shorter period like 9 or 13 might work better because it reacts faster to price changes. For longer-term trading, like swing trading, sticking with the standard 26 periods can be good because it gives a clearer picture of the bigger trend. By trying out different periods, traders can see which one fits their trading style and the time frame they are looking at.
+To optimize the Chikou Span for different time frames, traders can adjust the number of periods used in the calculation. For short-term trading, like [day trading](/wiki/day-trading-spy), a shorter period like 9 or 13 might work better because it reacts faster to price changes. For longer-term trading, like swing trading, sticking with the standard 26 periods can be good because it gives a clearer picture of the bigger trend. By trying out different periods, traders can see which one fits their trading style and the time frame they are looking at.
 
 The Chikou Span can also be optimized for different market conditions by looking at how it interacts with other parts of the Ichimoku chart. In a strong trending market, if the Chikou Span is clearly above or below the price from 26 periods ago and the Kumo cloud, it can be a strong signal to follow the trend. In a sideways or choppy market, traders might want to be more careful and wait for the Chikou Span to cross clearly above or below past prices before making a trade. By understanding the market conditions and adjusting their strategy, traders can use the Chikou Span to make better trading decisions.
 

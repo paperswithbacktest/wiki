@@ -58,7 +58,7 @@ To use the p-value in the ADF test, you compare it to a special number called th
 
 ## What are common pitfalls or misinterpretations when using the ADF test?
 
-One common pitfall when using the ADF test is not understanding that it might give wrong results if the data has certain patterns. For example, if the time series has big jumps or changes in the middle, the ADF test might say it's stationary when it's not. Another mistake is picking the wrong number of past values, or lags, to use in the test. If you use too few or too many lags, you might get the wrong answer about whether your data is stationary.
+One common pitfall when using the ADF test is not understanding that it might give wrong results if the data has certain patterns. For example, if the time series has big jumps or changes in the middle, the ADF test might say it's stationary when it's not. Another mistake is [picking](/wiki/asset-class-picking) the wrong number of past values, or lags, to use in the test. If you use too few or too many lags, you might get the wrong answer about whether your data is stationary.
 
 Another misinterpretation happens when people only look at the test statistic or p-value without thinking about what the data looks like. Just because the ADF test says your data is stationary doesn't mean it's true. It's important to look at graphs and other ways to check if the data really is stationary. Also, some people forget that the ADF test works better with longer time series. If your data set is too short, the test might not give a good answer.
 

@@ -18,7 +18,7 @@ This measure is very important for banks because it shows how well they are doin
 
 Net interest income is figured out by subtracting the interest a bank pays on deposits from the interest it earns on loans. For example, if a bank earns $100 from loans and pays $30 on deposits, its net interest income is $70. This simple calculation helps banks see how much money they are making from their main job of lending and borrowing.
 
-Many things can change the net interest income. The interest rates the bank sets for loans and deposits are very important. If a bank raises the interest rate on loans, it can earn more money. But if it also raises the interest rate on deposits, it has to pay more money to its customers. The amount of loans the bank gives out and the amount of money people keep in their deposit accounts also affect the net interest income. If more people borrow money, the bank can earn more interest. But if more people keep their money in the bank, the bank has to pay more interest on those deposits.
+Many things can change the net interest income. The interest rates the bank sets for loans and deposits are very important. If a bank raises the [interest rate](/wiki/interest-rate-trading-strategies) on loans, it can earn more money. But if it also raises the interest rate on deposits, it has to pay more money to its customers. The amount of loans the bank gives out and the amount of money people keep in their deposit accounts also affect the net interest income. If more people borrow money, the bank can earn more interest. But if more people keep their money in the bank, the bank has to pay more interest on those deposits.
 
 ## Why is net interest income important for banks?
 
@@ -44,7 +44,7 @@ Other factors like economic conditions and competition between banks can also af
 
 Net interest income and net interest margin are two important numbers for banks, but they show different things. Net interest income is the money a bank makes from the difference between what it earns on loans and what it pays on deposits. It's a simple calculation: you take the interest earned from loans and subtract the interest paid on deposits. This number tells a bank how much money it's making from its main job of lending and borrowing.
 
-Net interest margin, on the other hand, is a bit more complicated. It's a percentage that shows how well a bank is using its money to make a profit from interest. To find the net interest margin, you take the net interest income and divide it by the bank's total earning assets, like loans and investments. This percentage helps banks see how efficient they are at making money from their assets. While net interest income shows the actual dollar amount of profit, net interest margin shows how good the bank is at turning its assets into profit.
+Net interest margin, on the other hand, is a bit more complicated. It's a percentage that shows how well a bank is using its money to make a profit from interest. To find the net interest margin, you take the net interest income and divide it by the bank's total [earning](/wiki/earning-announcement) assets, like loans and investments. This percentage helps banks see how efficient they are at making money from their assets. While net interest income shows the actual dollar amount of profit, net interest margin shows how good the bank is at turning its assets into profit.
 
 ## What are the challenges in maximizing net interest income?
 

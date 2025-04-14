@@ -84,11 +84,11 @@ Temperature can also affect how accurate your measurements are, so always measur
 
 ## What is Volume Calculation and Measurement?
 
-Volume calculation involves determining the total number of shares or contracts traded in a security or market within a given timeframe. This metric is crucial for traders as it provides insights into the level of activity and liquidity of a security, which are imperative for evaluating the strength or weakness of a price trend. High trading volume indicates strong interest and conviction among investors, often signaling potential price movements or trend continuations. Conversely, low volume might suggest a lack of investor confidence or interest, potentially indicating the likelihood of a trend reversal or stagnation.
+Volume calculation involves determining the total number of shares or contracts traded in a security or market within a given timeframe. This metric is crucial for traders as it provides insights into the level of activity and [liquidity](/wiki/liquidity-risk-premium) of a security, which are imperative for evaluating the strength or weakness of a price trend. High trading volume indicates strong interest and conviction among investors, often signaling potential price movements or trend continuations. Conversely, low volume might suggest a lack of investor confidence or interest, potentially indicating the likelihood of a trend reversal or stagnation.
 
 Various tools and indicators have been developed to aid traders in interpreting volume data efficiently. Among them, the On-Balance Volume (OBV) and the Volume-Weighted Average Price (VWAP) are particularly prominent. 
 
-The OBV is a momentum indicator that utilizes volume flow to predict changes in stock price. It is calculated using a cumulative total of volume, which is added on up days and subtracted on down days, as shown in the formula:
+The OBV is a [momentum](/wiki/momentum) indicator that utilizes volume flow to predict changes in stock price. It is calculated using a cumulative total of volume, which is added on up days and subtracted on down days, as shown in the formula:
 
 $$
 \text{OBV} = \begin{cases} 

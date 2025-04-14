@@ -72,7 +72,7 @@ Engle has been honored by many groups for his work. The American Economic Associ
 
 Robert F. Engle III has written many important papers that have helped people understand financial markets better. One of his key publications is the 1982 paper called "Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation." This paper introduced the ARCH model, which is a way to guess how much prices might change. It has been very important for people who work with money because it helps them see how risky it is to invest.
 
-Another important publication by Engle is the 1995 paper "ARCH: Selected Readings," which he co-edited with David Lilien and Russell Robins. This book brings together many important papers about ARCH and related models. It helps people learn more about how to use these models to understand financial risks. Engle's work has also been featured in many other papers and books, showing how his ideas have helped a lot of people in finance and economics.
+Another important publication by Engle is the 1995 paper "ARCH: Selected Readings," which he co-edited with David Lilien and Russell Robins. This book brings together many important papers about ARCH and related models. It helps people learn more about how to use these models to understand financial risks. Engle's work has also been featured in many other papers and [books](/wiki/algo-trading-books), showing how his ideas have helped a lot of people in finance and economics.
 
 ## How has Robert F. Engle III's work evolved since winning the Nobel Prize?
 
@@ -82,7 +82,7 @@ Engle has been sharing his new ideas through more papers and talks. He has been 
 
 ## What are Nobel Prize-Winning Contributions?
 
-Robert F. Engle III, alongside Clive W.J. Granger, was awarded the Nobel Prize in Economic Sciences in 2003 for his influential work on methods of analyzing economic time series data characterized by time-varying volatility. Engle's seminal contribution was the development of the Autoregressive Conditional Heteroskedasticity (ARCH) model, which marked a profound advancement in the study of financial markets and contributed significantly to the field of econometrics.
+Robert F. Engle III, alongside Clive W.J. Granger, was awarded the Nobel Prize in Economic Sciences in 2003 for his influential work on methods of analyzing economic time series data characterized by time-varying [volatility](/wiki/volatility-trading-strategies). Engle's seminal contribution was the development of the Autoregressive Conditional Heteroskedasticity (ARCH) model, which marked a profound advancement in the study of financial markets and contributed significantly to the field of econometrics.
 
 The ARCH model, introduced by Engle in 1982, addresses a common phenomenon in financial data known as volatility clustering, where periods of high volatility are often followed by more high volatility periods, and similarly, low-volatility periods tend to follow low ones. Traditional models at the time assumed constant variance, which failed to capture this crucial aspect of financial time series data. The ARCH model, however, allows the conditional variance to change over time, depending on past errors.
 

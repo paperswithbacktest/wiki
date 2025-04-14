@@ -34,7 +34,7 @@ This way, you can say that one gallon of oil is equivalent to a certain number o
 
 ## Can you explain the conversion factors used in Natural Gas Equivalent calculations?
 
-Conversion factors in Natural Gas Equivalent calculations help us compare different fuels to natural gas. For example, one common conversion factor is how many British Thermal Units (BTUs) are in a gallon of oil compared to a cubic foot of natural gas. If one gallon of oil has about 138,000 BTUs and one cubic foot of natural gas has about 1,030 BTUs, you can figure out that one gallon of oil is equivalent to about 134 cubic feet of natural gas.
+Conversion factors in Natural Gas Equivalent calculations help us compare different fuels to natural gas. For example, one common conversion [factor](/wiki/factor-investing) is how many British Thermal Units (BTUs) are in a gallon of oil compared to a cubic foot of natural gas. If one gallon of oil has about 138,000 BTUs and one cubic foot of natural gas has about 1,030 BTUs, you can figure out that one gallon of oil is equivalent to about 134 cubic feet of natural gas.
 
 These conversion factors are important because they let us turn different energy sources into a common unit, making it easier to compare them. For instance, if you want to know how much natural gas you need to replace a certain amount of coal, you can use the BTUs in coal and the BTUs in natural gas to find the answer. By using these conversion factors, people in the energy industry can plan better and make decisions about which fuels to use based on what's available and what they need.
 
@@ -82,7 +82,7 @@ Another trend that might affect Natural Gas Equivalent is the rise of renewable 
 
 ## What is the understanding of Natural Gas Equivalent and Energy Conversion?
 
-The concept of Natural Gas Equivalent (NGE) is integral to energy trading, providing a standardized method for comparing natural gas with other energy sources like crude oil. This concept revolves around equating the energy content of natural gas to an equivalent amount of crude oil, thereby enabling traders and analysts to make straightforward comparisons and informed decisions.
+The concept of Natural Gas Equivalent (NGE) is integral to energy trading, providing a standardized method for comparing natural gas with other energy sources like [crude oil](/wiki/crude-oil). This concept revolves around equating the energy content of natural gas to an equivalent amount of crude oil, thereby enabling traders and analysts to make straightforward comparisons and informed decisions.
 
 A commonly accepted benchmark in the industry is that 6,000 cubic feet of natural gas equate to one barrel of oil. This conversion rate originates from comparing the British Thermal Units (BTU) present in each energy source. Typically, one cubic foot of natural gas contains approximately 1,037 BTUs, while one barrel of crude oil holds about 5.8 million BTUs. The formula to calculate the natural gas equivalent is as follows:
 

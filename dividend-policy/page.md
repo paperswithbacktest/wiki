@@ -44,7 +44,7 @@ In the end, the dividend policy is a big choice that can affect how the company 
 
 ## What factors influence a company's dividend policy?
 
-A company's dividend policy is influenced by many things. One big factor is how much profit the company is making. If the company is making a lot of money, it might decide to pay out more dividends to make shareholders happy. But if it's not making much money, it might keep more of the profits to grow the business instead of paying dividends. Another factor is what the company plans to do in the future. If it wants to grow fast, it might keep more money to invest in new projects or buy new things. But if it's not planning to grow much, it might share more money with shareholders.
+A company's dividend policy is influenced by many things. One big [factor](/wiki/factor-investing) is how much profit the company is making. If the company is making a lot of money, it might decide to pay out more dividends to make shareholders happy. But if it's not making much money, it might keep more of the profits to grow the business instead of paying dividends. Another factor is what the company plans to do in the future. If it wants to grow fast, it might keep more money to invest in new projects or buy new things. But if it's not planning to grow much, it might share more money with shareholders.
 
 Another important thing that influences dividend policy is what shareholders want. If shareholders really want regular money, the company might choose a policy that pays steady dividends. But if shareholders are okay with the dividend changing, the company might pay out a percentage of its profits. The company also looks at what kind of investors it wants to attract. Some investors like a steady income, while others are happy if the company's value goes up in the future. So, the company tries to pick a dividend policy that makes its current shareholders happy and attracts new ones who like the way the company handles its money.
 
@@ -122,7 +122,7 @@ These case studies illustrate diverse strategies employed by companies in managi
 
 ## How can one formulate an effective dividend-based strategy?
 
-Formulating an effective dividend-based strategy involves integrating dividend policies with algorithmic trading to create a strong and adaptable investment framework. This approach seeks to maximize shareholder value while accommodating growth and market fluctuations. Here we explore how these elements can be harmoniously aligned to craft comprehensive investment strategies.
+Formulating an effective dividend-based strategy involves integrating dividend policies with [algorithmic trading](/wiki/algorithmic-trading) to create a strong and adaptable investment framework. This approach seeks to maximize shareholder value while accommodating growth and market fluctuations. Here we explore how these elements can be harmoniously aligned to craft comprehensive investment strategies.
 
 ### Balancing Reinvestment for Growth with Shareholder Returns
 

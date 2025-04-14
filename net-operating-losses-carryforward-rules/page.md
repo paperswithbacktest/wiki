@@ -84,7 +84,7 @@ Another strategy is to keep good records. If a business keeps all its paperwork 
 
 Net Operating Loss (NOL) is a financial state where a company’s allowable tax deductions surpass its taxable income, resulting in a negative taxable income. Recognizing and utilizing NOLs is pivotal in tax planning, as they enable businesses to offset taxable income in future profitable years, thereby reducing their tax obligation. This financial tool is particularly valuable for industries experiencing cyclical profits, such as agriculture and trading, where income levels can fluctuate significantly from year to year.
 
-The ability to [carry](/wiki/carry-trading) forward NOLs provides substantial tax relief by evening out these income fluctuations over time. For example, a trading firm might encounter a year of losses due to market volatility, generating an NOL. In subsequent years, when profits return, the company can apply the NOL to reduce its taxable income, thus lowering its tax liability.
+The ability to [carry](/wiki/carry-trading) forward NOLs provides substantial tax relief by evening out these income fluctuations over time. For example, a trading firm might encounter a year of losses due to market [volatility](/wiki/volatility-trading-strategies), generating an NOL. In subsequent years, when profits return, the company can apply the NOL to reduce its taxable income, thus lowering its tax liability.
 
 To calculate an NOL, a straightforward process is followed: subtract the company's taxable income from its allowable deductions. If the result is negative, the company incurs a net operating loss. Mathematically, this can be represented as:
 

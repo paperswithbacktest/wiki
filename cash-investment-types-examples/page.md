@@ -38,7 +38,7 @@ Savings accounts are great because they are very safe. The money in your savings
 
 Money market accounts are a type of cash investment that works a lot like savings accounts. When you put money into a money market account, you earn interest on your money, just like with a savings account. The big difference is that money market accounts often offer a slightly higher interest rate. This means you can earn a bit more money over time. Money market accounts are also very safe, and your money is protected by the government up to a certain amount, just like in a savings account.
 
-The main way money market accounts differ from savings accounts is that they usually come with more features. With a money market account, you might be able to write checks or use a debit card to spend your money directly from the account. This makes money market accounts more convenient if you need to use your money for everyday spending. However, money market accounts might have rules about how many times you can take money out each month, so it's important to check the rules before you open one. Both savings accounts and money market accounts are good choices for keeping your money safe and earning a little interest, but money market accounts offer a bit more flexibility and a slightly higher return.
+The main way money market accounts differ from savings accounts is that they usually come with more features. With a money market account, you might be able to write checks or use a debit card to spend your money directly from the account. This makes money market accounts more convenient if you need to use your money for everyday spending. However, money market accounts might have rules about how many times you can take money out each month, so it's important to check the rules before you open one. Both savings accounts and money market accounts are good choices for keeping your money safe and [earning](/wiki/earning-announcement) a little interest, but money market accounts offer a bit more flexibility and a slightly higher return.
 
 ## Can you explain what certificates of deposit (CDs) are and their benefits?
 
@@ -84,7 +84,7 @@ While cash investments might not grow as fast as other types of investments, the
 
 ## What are the types of cash investments?
 
-Cash investments are short-term financial instruments that provide a safe harbor for funds with the benefit of liquidity and minimal risk. Here, we will outline three prominent types of cash investments: savings accounts, money market accounts, and certificates of deposit (CDs).
+Cash investments are short-term financial instruments that provide a safe harbor for funds with the benefit of [liquidity](/wiki/liquidity-risk-premium) and minimal risk. Here, we will outline three prominent types of cash investments: savings accounts, money market accounts, and certificates of deposit (CDs).
 
 **Savings Accounts**: Savings accounts are favored for their convenience and security. They are offered by financial institutions like banks and credit unions and are insured by the Federal Deposit Insurance Corporation (FDIC) up to $250,000 per depositor, providing a safety net for account holders. These accounts are highly liquid, allowing easy access to funds without penalties or restrictions. However, the trade-off for this convenience is a nominal interest rate, which often barely keeps pace with inflation. Consequently, while savings accounts are ideal for immediate financial needs and emergency funds, they may not be suitable for long-term wealth accumulation due to their low return on investment.
 
@@ -104,7 +104,7 @@ In conclusion, cash investments like savings accounts, money market accounts, an
 
 ## What are some strategies and examples of algorithmic trading?
 
-Algorithmic trading encompasses various strategies that leverage computer algorithms to automate the decision-making and execution of trades. These strategies are designed to optimize performance by taking advantage of speed and precision that human traders cannot achieve. Here are some of the key strategies employed in algorithmic trading:
+Algorithmic trading encompasses various strategies that leverage computer algorithms to automate the decision-making and execution of trades. These strategies are designed to optimize performance by taking advantage of speed and precision that human traders cannot achieve. Here are some of the key strategies employed in [algorithmic trading](/wiki/algorithmic-trading):
 
 **Trend-Following**: This strategy seeks to capitalize on market trends by identifying and trading based on observable patterns. One common tool used in trend-following strategies is the moving average, which helps determine the direction of an asset's price trend. Traders use simple moving averages (SMA) or exponential moving averages (EMA) to smooth out price data and generate buy or sell signals. For example, a crossover of a short-term moving average above a long-term moving average may trigger a buy signal, suggesting the start of an upward trend.
 
@@ -144,7 +144,7 @@ These strategies highlight the diverse applications of algorithmic trading acros
 
 ## References & Further Reading
 
-For those interested in deepening their understanding of the intersection between finance, [machine learning](/wiki/machine-learning), and algorithmic trading, the following resources are invaluable. **Advances in Financial Machine Learning by Marcos Lopez de Prado** explores cutting-edge techniques in the application of machine learning to finance. This book emphasizes the practical implementation of robust financial strategies using algorithms, providing insights into model validation, feature selection, and backtesting.
+For those interested in deepening their understanding of the intersection between finance, [machine learning](/wiki/machine-learning), and algorithmic trading, the following resources are invaluable. **Advances in Financial Machine Learning by Marcos Lopez de Prado** explores cutting-edge techniques in the application of machine learning to finance. This book emphasizes the practical implementation of robust financial strategies using algorithms, providing insights into model validation, feature selection, and [backtesting](/wiki/backtesting).
 
 **Machine Learning for Algorithmic Trading by Stefan Jansen** offers a comprehensive guide to using Python to implement data-driven trading strategies. It provides a step-by-step approach to creating complex financial models and executing systematic trading strategies, making it an excellent resource for both beginners and experienced practitioners.
 

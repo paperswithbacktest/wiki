@@ -98,7 +98,7 @@ Incorporating dividends into a broader investment strategy can also facilitate a
 
 ## What are the challenges and considerations?
 
-Both dividend investing and algorithmic trading present unique challenges that investors must navigate to mitigate risks and optimize potential returns. 
+Both dividend investing and [algorithmic trading](/wiki/algorithmic-trading) present unique challenges that investors must navigate to mitigate risks and optimize potential returns. 
 
 Market volatility is a critical [factor](/wiki/factor-investing) impacting both strategies. Fluctuations in stock prices can affect the reliability of dividend payments, as companies may adjust their dividend policies in response to economic downturns or financial strain. For instance, firms might reduce or suspend dividends to preserve cash, impacting investors who rely on this income stream. A key measure of market volatility is the standard deviation of stock returns, which investors can use to assess potential risks. 
 
@@ -110,7 +110,7 @@ $$
 
 where $n$ is the number of transactions, and $C$ is the cost per transaction.
 
-Technical failures within trading systems pose another substantial risk. Glitches or unexpected system behavior can lead to erroneous trades, causing financial losses. To mitigate this, robust backtesting and fail-safe mechanisms should be integrated into trading algorithms. Implementing a grid search in Python to optimize algorithm parameters could enhance system resilience: 
+Technical failures within trading systems pose another substantial risk. Glitches or unexpected system behavior can lead to erroneous trades, causing financial losses. To mitigate this, robust [backtesting](/wiki/backtesting) and fail-safe mechanisms should be integrated into trading algorithms. Implementing a grid search in Python to optimize algorithm parameters could enhance system resilience: 
 
 ```python
 from sklearn.model_selection import GridSearchCV

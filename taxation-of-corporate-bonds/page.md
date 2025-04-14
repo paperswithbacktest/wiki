@@ -22,7 +22,7 @@ Sometimes, if you buy a corporate bond for more than its face value, you might h
 
 ## What is the difference between tax-exempt and taxable corporate bonds?
 
-Tax-exempt corporate bonds are special because the interest you earn from them doesn't get taxed by the federal government. Sometimes, they might also be free from state and local taxes, but this depends on where you live and where the bond was issued. These bonds are usually issued by companies that work on things like building hospitals or schools, and the government gives them a tax break to help with these projects. Because the interest isn't taxed, these bonds often pay a lower interest rate than taxable bonds.
+Tax-exempt corporate bonds are special because the interest you earn from them doesn't get taxed by the federal government. Sometimes, they might also be free from state and local taxes, but this depends on where you live and where the bond was issued. These bonds are usually issued by companies that work on things like building hospitals or schools, and the government gives them a tax break to help with these projects. Because the interest isn't taxed, these bonds often pay a lower [interest rate](/wiki/interest-rate-trading-strategies) than taxable bonds.
 
 Taxable corporate bonds, on the other hand, are the more common type of corporate bonds. The interest you earn from these bonds is added to your income and taxed at your normal income tax rate. These bonds are issued by companies for all sorts of reasons, like expanding their business or paying off debts. Because the interest is taxed, these bonds usually offer a higher interest rate to make up for the taxes you'll have to pay.
 

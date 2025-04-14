@@ -82,7 +82,7 @@ Another strategy is using "currency swaps" along with forward contracts. A curre
 
 ## What is the understanding of Currency Forwards?
 
-Currency forwards are over-the-counter (OTC) derivative instruments prominently utilized within the foreign exchange (forex) market. These instruments, also referred to as 'outright forwards', serve to lock in an exchange rate for a specific currency pair, to be executed at a predetermined future date. Unlike futures contracts, which are standardized and traded on exchanges, currency forwards are customizable and negotiated directly between parties, thereby providing greater flexibility in terms of contract specifications.
+Currency forwards are over-the-counter (OTC) derivative instruments prominently utilized within the foreign exchange ([forex](/wiki/forex-system)) market. These instruments, also referred to as 'outright forwards', serve to lock in an exchange rate for a specific currency pair, to be executed at a predetermined future date. Unlike futures contracts, which are standardized and traded on exchanges, currency forwards are customizable and negotiated directly between parties, thereby providing greater flexibility in terms of contract specifications.
 
 A currency forward transaction effectively eliminates exchange rate uncertainty over the contract period. The exchange rate agreed upon in the contract, known as the forward rate, is determined by adjusting the current spot rate for the difference in interest rates between the two currencies involved. The pricing formula for a currency forward can be expressed as follows:
 
@@ -125,7 +125,7 @@ By incorporating currency forwards into their risk management strategy, business
 
 ## How can currency forward contracts be integrated with algorithmic trading?
 
-The integration of currency forward contracts with algorithmic trading strategies offers enhanced precision in managing risks and optimizing trading outcomes. This fusion harnesses technology to consistently monitor market fluctuations, allowing for trades to be executed at strategically optimal moments. This not only mitigates risk but also seeks to improve financial returns by capitalizing on favorable conditions in the forex market.
+The integration of currency forward contracts with [algorithmic trading](/wiki/algorithmic-trading) strategies offers enhanced precision in managing risks and optimizing trading outcomes. This fusion harnesses technology to consistently monitor market fluctuations, allowing for trades to be executed at strategically optimal moments. This not only mitigates risk but also seeks to improve financial returns by capitalizing on favorable conditions in the forex market.
 
 Algorithms play a critical role by providing the capability to quickly and efficiently compute forward rates, which are essential for formulating competitive trading strategies. By utilizing historical data, interest rate differentials, and current spot rates, algorithms can automatically determine appropriate forward rates and adjust hedging strategies accordingly. For example, the forward rate ($F$) can be calculated using the formula:
 

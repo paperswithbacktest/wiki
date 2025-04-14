@@ -22,7 +22,7 @@ The prospectus is really important because it helps investors make smart choices
 
 ## Why is a prospectus important for investors?
 
-A prospectus is important for investors because it gives them all the information they need to make a good decision about buying a corporate bond. It tells them about the bond itself, like how much money the company wants to borrow, the interest rate they will pay, and when they will pay back the money. This helps investors understand exactly what they are getting into and what they can expect to earn from the bond.
+A prospectus is important for investors because it gives them all the information they need to make a good decision about buying a corporate bond. It tells them about the bond itself, like how much money the company wants to borrow, the [interest rate](/wiki/interest-rate-trading-strategies) they will pay, and when they will pay back the money. This helps investors understand exactly what they are getting into and what they can expect to earn from the bond.
 
 The prospectus also tells investors about the company issuing the bond. It explains what the company does, how well it is doing financially, and any risks that might affect its ability to pay back the bond. This is really helpful because it lets investors see if the company is stable and trustworthy. By reading the prospectus, investors can decide if the bond is a safe and smart investment for them.
 

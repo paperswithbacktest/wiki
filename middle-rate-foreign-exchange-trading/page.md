@@ -78,11 +78,11 @@ Another reason the middle rate can vary is because of the type of platform you u
 
 To predict future middle rate movements, traders often use something called technical analysis. This means they look at past prices and charts to find patterns that might tell them what will happen next. They might use tools like moving averages, which show the average price of a currency over time, or trend lines, which show if a currency is going up or down. By studying these patterns, traders can guess if the middle rate will go up or down. But, this method is not perfect because past patterns don't always repeat in the same way.
 
-Another way to predict middle rate movements is by using fundamental analysis. This means looking at big things that can change the value of a currency, like a country's economy, interest rates, and big news events. Traders might look at reports about how many people have jobs, how much people are spending, and what the central bank is doing with interest rates. By understanding these things, traders can guess how the middle rate might change. But, this method can be hard because it's not easy to predict what will happen in the economy or what news will come out next. So, traders often use both technical and fundamental analysis together to make better guesses about future middle rate movements.
+Another way to predict middle rate movements is by using [fundamental analysis](/wiki/fundamental-analysis). This means looking at big things that can change the value of a currency, like a country's economy, interest rates, and big news events. Traders might look at reports about how many people have jobs, how much people are spending, and what the central bank is doing with interest rates. By understanding these things, traders can guess how the middle rate might change. But, this method can be hard because it's not easy to predict what will happen in the economy or what news will come out next. So, traders often use both technical and fundamental analysis together to make better guesses about future middle rate movements.
 
 ## What is the Concept of Middle Rate in FX Trading?
 
-The middle rate, commonly referred to as the mid-market rate, is a fundamental concept in foreign exchange (FX) trading, serving as the arithmetic midpoint between a currency pair's bid and ask prices. This rate is not typically available to retail traders, but it is instrumental in assessing the fair value at which two currencies might be exchanged. 
+The middle rate, commonly referred to as the mid-market rate, is a fundamental concept in foreign exchange ([FX](/wiki/fx-anomaly)) trading, serving as the arithmetic midpoint between a currency pair's bid and ask prices. This rate is not typically available to retail traders, but it is instrumental in assessing the fair value at which two currencies might be exchanged. 
 
 Mathematically, the middle rate can be expressed as:
 
@@ -92,7 +92,7 @@ $$
 
 This measure provides an unbiased estimation of a currency pair's value, devoid of the intrinsic premiums applied by market makers to profit from the spread. As such, the middle rate acts as a benchmark for both buyers and sellers.
 
-In less liquid markets, where bid-ask spreads can be considerably wider, the middle rate assumes greater importance. Wide spreads often indicate higher transaction costs, stemming from lower market efficiency or reduced competition among liquidity providers. By focusing on the middle rate, traders can navigate these inefficiencies to achieve more favorable trading outcomes. 
+In less liquid markets, where bid-ask spreads can be considerably wider, the middle rate assumes greater importance. Wide spreads often indicate higher transaction costs, stemming from lower market efficiency or reduced competition among [liquidity](/wiki/liquidity-risk-premium) providers. By focusing on the middle rate, traders can navigate these inefficiencies to achieve more favorable trading outcomes. 
 
 For instance, if the bid-ask prices for a currency pair are given as follows:
 

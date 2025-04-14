@@ -82,7 +82,7 @@ To make this process even easier, the macro could be set up to automatically pul
 
 ## What is the Sharpe Ratio and how can it be understood?
 
-The Sharpe Ratio is a widely used financial metric that evaluates an investment's risk-adjusted return. It quantifies how much excess return one could earn for the additional volatility endured compared to a risk-free alternative. The essential formula for calculating the Sharpe Ratio is:
+The Sharpe Ratio is a widely used financial metric that evaluates an investment's risk-adjusted return. It quantifies how much excess return one could earn for the additional [volatility](/wiki/volatility-trading-strategies) endured compared to a risk-free alternative. The essential formula for calculating the Sharpe Ratio is:
 
 $$
 \text{Sharpe Ratio} = \frac{\text{Mean Portfolio Return} - \text{Risk-Free Rate}}{\text{Standard Deviation of Portfolio Return}}

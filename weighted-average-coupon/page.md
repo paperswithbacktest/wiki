@@ -102,7 +102,7 @@ The yield on MBS, which represents the return considering both coupon payments a
 
 ## How can WAC be integrated with algorithmic trading strategies?
 
-Traders utilize the Weighted Average Coupon (WAC) as a critical parameter to inform and refine their algorithmic trading strategies for mortgage-backed securities (MBS). The integration of WAC into these strategies ensures a comprehensive understanding of interest rate distributions within a mortgage pool, facilitating more accurate pricing models and optimized trading decisions.
+Traders utilize the Weighted Average Coupon (WAC) as a critical parameter to inform and refine their [algorithmic trading](/wiki/algorithmic-trading) strategies for mortgage-backed securities (MBS). The integration of WAC into these strategies ensures a comprehensive understanding of interest rate distributions within a mortgage pool, facilitating more accurate pricing models and optimized trading decisions.
 
 To predict market movements and optimize trades, models are developed that incorporate WAC data along with other financial indicators. The WAC serves as an average interest rate, calculated by taking the sum of the interest rates of all mortgages in a pool, each weighted by its outstanding balance. Mathematically, this is expressed as:
 
@@ -131,7 +131,7 @@ This approach helps in identifying trends that might indicate future movements i
 
 Several case studies highlight the successful integration of WAC into trading algorithms. For instance, a major investment bank developed an algorithm that dynamically adjusted their MBS portfolio weights based on predicted WAC changes, which improved their yield optimization and reduced exposure to interest rate shifts. Similarly, another financial institution leveraged big data analytics to continuously update their WAC-based models, thus enhancing decision-making speed and accuracy in trading operations.
 
-These examples underscore the pivotal role of WAC in refining algorithmic trading strategies. By efficiently processing WAC information and utilizing predictive models, traders gain a strategic edge in managing MBS portfolios. This integration not only improves trading precision but also helps in mitigating risks associated with interest rate volatility, ultimately contributing to more robust and resilient trading systems.
+These examples underscore the pivotal role of WAC in refining algorithmic trading strategies. By efficiently processing WAC information and utilizing predictive models, traders gain a strategic edge in managing MBS portfolios. This integration not only improves trading precision but also helps in mitigating risks associated with interest rate [volatility](/wiki/volatility-trading-strategies), ultimately contributing to more robust and resilient trading systems.
 
 ## References & Further Reading
 

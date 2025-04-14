@@ -34,7 +34,7 @@ This conversion premium is important because it shows how much more you're willi
 
 ## What factors influence the conversion premium of a convertible bond?
 
-The conversion premium of a convertible bond can be affected by several things. One big factor is how the stock of the company is doing. If people think the stock price will go up a lot, they might be willing to pay more for the bond, making the conversion premium higher. Another thing that matters is how much time is left until the bond can be converted into stock. If there's a long time left, the premium might be higher because there's more time for the stock to grow in value.
+The conversion premium of a convertible bond can be affected by several things. One big [factor](/wiki/factor-investing) is how the stock of the company is doing. If people think the stock price will go up a lot, they might be willing to pay more for the bond, making the conversion premium higher. Another thing that matters is how much time is left until the bond can be converted into stock. If there's a long time left, the premium might be higher because there's more time for the stock to grow in value.
 
 Interest rates also play a role in the conversion premium. If interest rates go up, the value of the bond part of the convertible bond might go down, which can affect the premium. The overall health of the company and the economy can also change how much people are willing to pay for the bond. If the company is doing well and the economy is strong, the premium might be higher because people are more confident about the future.
 

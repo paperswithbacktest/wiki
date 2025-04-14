@@ -60,7 +60,7 @@ Another thing to think about is how international relations can change the value
 
 ## What are the liquidity concerns with offshore mutual funds?
 
-Offshore mutual funds can sometimes be harder to turn into cash quickly compared to funds in your own country. This is called liquidity. When you want to sell your investment and get your money back, it might take longer if the fund is based in another country. This can be because the rules in that country might be different, or there might be fewer people buying and selling the fund's shares.
+Offshore mutual funds can sometimes be harder to turn into cash quickly compared to funds in your own country. This is called [liquidity](/wiki/liquidity-risk-premium). When you want to sell your investment and get your money back, it might take longer if the fund is based in another country. This can be because the rules in that country might be different, or there might be fewer people buying and selling the fund's shares.
 
 Another thing to think about is that if something big happens in the country where the fund is based, like a financial crisis or political changes, it could make it even harder to sell your investment quickly. During these times, people might want to pull their money out, but if everyone is trying to do this at the same time, it can slow things down. So, it's important to know that offshore funds might not be as easy to turn into cash as quickly as you might want.
 

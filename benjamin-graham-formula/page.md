@@ -82,7 +82,7 @@ Along with these metrics, experts should think about things like the company's i
 
 ## What is the Benjamin Graham Formula?
 
-The Benjamin Graham Formula is an essential tool in fundamental analysis, focused on determining a stock's intrinsic value. Developed by Benjamin Graham, this formula helps investors identify stocks that are undervalued by the market, offering the potential for significant growth. By assessing intrinsic value, investors can make informed decisions on whether a stock is priced correctly relative to its current market value.
+The Benjamin Graham Formula is an essential tool in [fundamental analysis](/wiki/fundamental-analysis), focused on determining a stock's intrinsic value. Developed by Benjamin Graham, this formula helps investors identify stocks that are undervalued by the market, offering the potential for significant growth. By assessing intrinsic value, investors can make informed decisions on whether a stock is priced correctly relative to its current market value.
 
 Originally, the formula was crafted to incorporate specific metrics such as earnings per share (EPS) and the expected growth rate of a company. Graham's original formula is expressed as:
 

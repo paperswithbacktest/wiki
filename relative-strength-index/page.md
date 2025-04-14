@@ -82,7 +82,7 @@ Another advanced strategy is using RSI with other indicators to get a better pic
 
 ## What is the Relative Strength Index and how can it be understood?
 
-The Relative Strength Index (RSI) is a crucial tool in technical analysis, a momentum oscillator that evaluates the speed and change of price movements. It provides traders with insights into whether an asset is overbought or oversold, aiding in decision-making for entering or exiting trades. 
+The Relative Strength Index (RSI) is a crucial tool in technical analysis, a [momentum](/wiki/momentum) oscillator that evaluates the speed and change of price movements. It provides traders with insights into whether an asset is overbought or oversold, aiding in decision-making for entering or exiting trades. 
 
 The RSI is computed using closing prices over a designated timeframe, customarily a 14-day period. This conventional setting is favored for its balance between reactivity and reliability, making it prevalent among traders. The RSI formula is expressed as follows:
 

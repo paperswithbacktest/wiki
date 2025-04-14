@@ -82,7 +82,7 @@ Once the red flags are identified, the next step is to create a plan to manage t
 
 ## What is the relationship between Due Diligence and Risk Management?
 
-In algorithmic trading, due diligence and risk management are crucial to ensure successful trading outcomes. Rigorous backtesting stands as a cornerstone of due diligence, allowing traders to simulate algorithm performance across varying market conditions. This process helps ascertain the algorithm's reliability and robustness before deploying it in live trading. By examining historical market data, traders can identify potential weaknesses in their algorithms and make necessary adjustments to enhance performance.
+In [algorithmic trading](/wiki/algorithmic-trading), due diligence and risk management are crucial to ensure successful trading outcomes. Rigorous [backtesting](/wiki/backtesting) stands as a cornerstone of due diligence, allowing traders to simulate algorithm performance across varying market conditions. This process helps ascertain the algorithm's reliability and robustness before deploying it in live trading. By examining historical market data, traders can identify potential weaknesses in their algorithms and make necessary adjustments to enhance performance.
 
 Risk management is an indispensable aspect of algorithmic trading, crucial for mitigating potential losses. Implementing stop-loss orders is a widely recommended strategy. These orders automatically execute a trade once a security reaches a predetermined price, thereby limiting potential losses. For instance, if a trader sets a stop-loss order at 5% below the purchase price, the algorithm will sell the asset once it depreciates by 5%.
 

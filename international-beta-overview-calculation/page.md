@@ -30,7 +30,7 @@ In summary, the main difference between International Beta and domestic Beta is 
 
 ## What are the key factors that influence International Beta?
 
-International Beta is influenced by many things. One big factor is how much a company depends on the global economy. If a company sells a lot of its products or services to other countries, its International Beta might be higher. This is because what happens in the world economy can affect its sales more than what happens in its home country. Another factor is how much the company's industry is affected by global events. For example, oil companies might have a higher International Beta because oil prices are set on the world market.
+International Beta is influenced by many things. One big [factor](/wiki/factor-investing) is how much a company depends on the global economy. If a company sells a lot of its products or services to other countries, its International Beta might be higher. This is because what happens in the world economy can affect its sales more than what happens in its home country. Another factor is how much the company's industry is affected by global events. For example, oil companies might have a higher International Beta because oil prices are set on the world market.
 
 Another thing that can change International Beta is how much a company uses money from different countries. If a company borrows a lot of money in foreign currencies, changes in exchange rates can affect its profits and, therefore, its International Beta. Also, how much a company's stock price moves with the global market can influence its International Beta. If a stock tends to go up or down a lot when the global market moves, its International Beta will be higher.
 
@@ -84,7 +84,7 @@ Another problem is that things like currency changes and big world events can me
 
 ## How do you calculate beta: the basics?
 
-Beta is a key metric in finance used to gauge the volatility of a stock or a portfolio in relation to the overall market. The calculation of beta is grounded in the principles of regression analysis, a statistical method used to determine the relationship between variables—specifically, the relationship between a security's returns and the market's returns.
+Beta is a key metric in finance used to gauge the [volatility](/wiki/volatility-trading-strategies) of a stock or a portfolio in relation to the overall market. The calculation of beta is grounded in the principles of regression analysis, a statistical method used to determine the relationship between variables—specifically, the relationship between a security's returns and the market's returns.
 
 The formula for beta is represented as:
 

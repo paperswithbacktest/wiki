@@ -30,7 +30,7 @@ Dividends from REITs can be a good way to earn regular income. Many people, like
 
 Someone might want to reinvest REIT dividends to grow their investment over time. When you reinvest dividends, you use the money you get from the REIT to buy more shares of that REIT. This means you own more of the company, and if the REIT does well, your investment can get bigger. It's like planting a seed and watching it grow. The more shares you have, the more dividends you can earn in the future, which can lead to even more shares and more growth.
 
-Another reason to reinvest REIT dividends is to take advantage of compound growth. When you reinvest, your dividends start earning their own dividends. This can make your investment grow faster than if you just took the money out. It's a way to make your money work harder for you without having to put in more money yourself. Over time, this can add up and help you build a bigger nest egg for the future.
+Another reason to reinvest REIT dividends is to take advantage of compound growth. When you reinvest, your dividends start [earning](/wiki/earning-announcement) their own dividends. This can make your investment grow faster than if you just took the money out. It's a way to make your money work harder for you without having to put in more money yourself. Over time, this can add up and help you build a bigger nest egg for the future.
 
 ## How can you reinvest dividends from REITs?
 
@@ -70,7 +70,7 @@ On the other hand, mortgage REITs invest in mortgages or mortgage-backed securit
 
 ## What are some advanced strategies for maximizing returns from reinvested REIT dividends?
 
-One advanced strategy for maximizing returns from reinvested REIT dividends is to diversify your investments across different types of REITs. By spreading your money among equity REITs, which focus on owning and operating properties, and mortgage REITs, which invest in mortgages, you can balance the risks and rewards. Equity REITs might offer more stable income from rent, while mortgage REITs can provide higher returns but come with more risk due to interest rate changes. This mix can help you reinvest dividends in a way that keeps your portfolio growing, even if one type of REIT is not doing well.
+One advanced strategy for maximizing returns from reinvested REIT dividends is to diversify your investments across different types of REITs. By spreading your money among equity REITs, which focus on owning and operating properties, and mortgage REITs, which invest in mortgages, you can balance the risks and rewards. Equity REITs might offer more stable income from rent, while mortgage REITs can provide higher returns but come with more risk due to [interest rate](/wiki/interest-rate-trading-strategies) changes. This mix can help you reinvest dividends in a way that keeps your portfolio growing, even if one type of REIT is not doing well.
 
 Another strategy is to use dollar-cost averaging when you reinvest your dividends. This means you reinvest a fixed amount of money at regular intervals, regardless of the REIT's share price. Over time, this can help you buy more shares when prices are low and fewer when prices are high, which can lead to a lower average cost per share. This can be especially useful for REITs because their prices can go up and down with the real estate market. By sticking to a regular reinvestment plan, you can take advantage of these price swings and potentially increase your returns over the long run.
 
@@ -78,7 +78,7 @@ Another strategy is to use dollar-cost averaging when you reinvest your dividend
 
 Portfolio diversification through reinvesting in various REITs means spreading your money across different types of real estate investments. You can do this by choosing to reinvest dividends in both equity REITs, which own and operate properties like apartments or shopping centers, and mortgage REITs, which invest in mortgages. By doing this, you're not putting all your eggs in one basket. If one type of REIT doesn't do well, the other might still be doing okay, which can help keep your overall investment stable.
 
-Another way to diversify is by picking REITs that focus on different kinds of properties or different parts of the country. For example, you might reinvest dividends in a REIT that owns hotels in one part of the country and another that owns office buildings in a different area. This way, you're not just betting on one kind of real estate or one location. If the hotel market has a tough time, your office building REIT might still be doing well. This can help your portfolio grow more steadily over time by balancing out the ups and downs in different parts of the real estate market.
+Another way to diversify is by [picking](/wiki/asset-class-picking) REITs that focus on different kinds of properties or different parts of the country. For example, you might reinvest dividends in a REIT that owns hotels in one part of the country and another that owns office buildings in a different area. This way, you're not just betting on one kind of real estate or one location. If the hotel market has a tough time, your office building REIT might still be doing well. This can help your portfolio grow more steadily over time by balancing out the ups and downs in different parts of the real estate market.
 
 ## References & Further Reading
 

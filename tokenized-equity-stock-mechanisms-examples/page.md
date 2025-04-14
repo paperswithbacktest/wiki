@@ -84,7 +84,7 @@ Another trend could be that the rules and laws around tokenized equity will beco
 
 ## What are the synergies between tokenized assets and algo trading?
 
-Algorithmic trading, commonly known as algo trading, has become a cornerstone of modern financial markets, providing traders with the speed and efficiency to capitalize on rapid market changes. The introduction of tokenized assets, which are digital representations of traditional assets like stocks and equity on a blockchain, offers enhanced liquidity that algo trading systems can leverage.
+Algorithmic trading, commonly known as algo trading, has become a cornerstone of modern financial markets, providing traders with the speed and efficiency to capitalize on rapid market changes. The introduction of tokenized assets, which are digital representations of traditional assets like stocks and equity on a blockchain, offers enhanced [liquidity](/wiki/liquidity-risk-premium) that algo trading systems can leverage.
 
 **Liquidity and Tokenized Assets**
 
@@ -92,7 +92,7 @@ Tokenized assets inherently provide increased liquidity compared to traditional 
 
 **Arbitrage and High-Frequency Trading Opportunities**
 
-The structure of tokenized stocks allows for arbitrage—profiting from price discrepancies between different markets or exchanges. Arbitrage opportunities arise due to the decentralized nature of blockchain-based trading, where various platforms or exchanges might have differing levels of supply and demand for a given tokenized asset. High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), which involves executing a high number of trades in milli- or microseconds, can exploit these discrepancies almost instantaneously. 
+The structure of tokenized stocks allows for [arbitrage](/wiki/arbitrage)—profiting from price discrepancies between different markets or exchanges. Arbitrage opportunities arise due to the decentralized nature of blockchain-based trading, where various platforms or exchanges might have differing levels of supply and demand for a given tokenized asset. High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), which involves executing a high number of trades in milli- or microseconds, can exploit these discrepancies almost instantaneously. 
 
 Mathematically, the profitability of arbitrage can be represented as:
 

@@ -48,7 +48,7 @@ One of Phupinder's big achievements was helping the CME merge with the Chicago B
 
 Phupinder Gill shows many good leadership qualities. He is hard-working and dedicated. He started at the Chicago Mercantile Exchange (CME) in a small job and worked his way up to become the CEO. This shows he is patient and willing to learn and grow. He also helped the CME grow a lot during his time as CEO. This shows he is good at making plans and getting things done.
 
-Another important quality Phupinder has is his ability to lead big changes. He helped the CME merge with the Chicago Board of Trade (CBOT). This was a big deal that made the CME stronger and more important. It shows he can handle big projects and make them successful. People respected him and thought he did a great job leading the CME. This shows he is good at working with others and earning their trust.
+Another important quality Phupinder has is his ability to lead big changes. He helped the CME merge with the Chicago Board of Trade (CBOT). This was a big deal that made the CME stronger and more important. It shows he can handle big projects and make them successful. People respected him and thought he did a great job leading the CME. This shows he is good at working with others and [earning](/wiki/earning-announcement) their trust.
 
 ## What challenges has Phupinder Gill faced in his career and how did he overcome them?
 

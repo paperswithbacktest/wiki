@@ -86,7 +86,7 @@ Another principle is the use of provisions and accruals. Provisions are set asid
 
 ## What are the interconnections between liabilities and algorithmic trading?
 
-Liabilities play a significant role in influencing a company's stock price, which can, in turn, affect algorithmic trading models. When analyzing a company's financial health, liabilities are crucial components that are directly linked to the risk and valuation assessments carried out by trading algorithms. One of the primary financial ratios that involve liabilities is the debt-to-equity ratio, defined as:
+Liabilities play a significant role in influencing a company's stock price, which can, in turn, affect [algorithmic trading](/wiki/algorithmic-trading) models. When analyzing a company's financial health, liabilities are crucial components that are directly linked to the risk and valuation assessments carried out by trading algorithms. One of the primary financial ratios that involve liabilities is the debt-to-equity ratio, defined as:
 
 $$
 \text{Debt-to-Equity Ratio} = \frac{\text{Total Liabilities}}{\text{Shareholders' Equity}}
@@ -96,7 +96,7 @@ This ratio provides insight into the company's financial leverage and risk level
 
 The impact of liabilities on market behavior extends beyond individual ratios. Algorithmic trading strategies can benefit from understanding how liabilities affect overall market sentiment and behavior. For instance, an increase in a company's liabilities might trigger bearish sentiment, leading to a potential stock price decline. Algorithms equipped with predictive tools can anticipate such movements, enabling traders to optimize entry and [exit](/wiki/exit-strategy) points.
 
-Risk management is a vital aspect of algorithmic trading, which can be enhanced by integrating liability forecasts. By incorporating predictive models that estimate future changes in a company's liabilities, algorithms can adjust their risk parameters to safeguard against potential adverse effects. For instance, Python libraries like Scikit-learn or TensorFlow can be employed to develop machine learning models that forecast liabilities based on historical financial data and market conditions. Here's a simple example using Python for forecasting liabilities using linear regression:
+Risk management is a vital aspect of algorithmic trading, which can be enhanced by integrating liability forecasts. By incorporating predictive models that estimate future changes in a company's liabilities, algorithms can adjust their risk parameters to safeguard against potential adverse effects. For instance, Python libraries like Scikit-learn or TensorFlow can be employed to develop [machine learning](/wiki/machine-learning) models that forecast liabilities based on historical financial data and market conditions. Here's a simple example using Python for forecasting liabilities using linear regression:
 
 ```python
 import numpy as np

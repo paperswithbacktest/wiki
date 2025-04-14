@@ -52,7 +52,7 @@ By looking at all these different places, the RICS House Price Balance gives a f
 
 ## How does the RICS House Price Balance differ from other housing market indicators?
 
-The RICS House Price Balance is different from other housing market indicators because it's based on what surveyors see happening in their areas. Other indicators might use data from property sales, mortgage approvals, or government statistics. The RICS balance is unique because it's a monthly snapshot that comes from the people who are out there looking at homes every day. This makes it a more immediate and personal look at what's happening with house prices.
+The RICS House Price Balance is different from other housing market indicators because it's based on what surveyors see happening in their areas. Other indicators might use data from property sales, mortgage approvals, or government [statistics](/wiki/bayesian-statistics). The RICS balance is unique because it's a monthly snapshot that comes from the people who are out there looking at homes every day. This makes it a more immediate and personal look at what's happening with house prices.
 
 Another way it's different is that it covers all regions of the UK and breaks down the data into smaller areas. Some other indicators might focus on national trends or only look at big cities. The RICS balance gives a detailed view, which helps people see how house prices are changing in their own neighborhoods, not just across the whole country. This regional focus can be really helpful for someone deciding whether to buy or sell a home in a specific area.
 
@@ -78,7 +78,7 @@ Another trend we can see is how the balance can change from one region to anothe
 
 Economic factors play a big role in the RICS House Price Balance. When the economy is doing well, people usually have more money and feel more confident about buying homes. This can lead to more surveyors seeing house prices go up, which makes the balance positive. On the other hand, when the economy is struggling, like during a recession, people might be worried about their jobs and money. This can make them less likely to buy homes, causing more surveyors to see prices going down, and the balance turns negative.
 
-Interest rates are another important economic factor. When interest rates are low, it's cheaper for people to borrow money to buy a home. This can push house prices up because more people can afford to buy, leading to a positive balance. But if interest rates go up, borrowing money becomes more expensive, which can slow down the housing market and make the balance negative. So, the RICS House Price Balance can show us how these economic factors are affecting what surveyors see in the housing market.
+Interest rates are another important economic [factor](/wiki/factor-investing). When interest rates are low, it's cheaper for people to borrow money to buy a home. This can push house prices up because more people can afford to buy, leading to a positive balance. But if interest rates go up, borrowing money becomes more expensive, which can slow down the housing market and make the balance negative. So, the RICS House Price Balance can show us how these economic factors are affecting what surveyors see in the housing market.
 
 ## What is the RICS House Price Balance and how can it be understood?
 

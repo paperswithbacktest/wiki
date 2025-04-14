@@ -46,7 +46,7 @@ One common strategy in short selling is called "shorting against the box." This 
 
 Another strategy is "pairs trading." This involves short selling one stock while buying another stock in the same industry. The idea is to bet that one stock will do better than the other. For example, if you think Company A will do better than Company B, you can buy Company A's stock and short sell Company B's stock. If you're right, you can make money from the difference in their stock prices, even if the overall market goes up or down.
 
-A third strategy is "momentum trading." This is when investors look for stocks that are already going down in price and short sell them, hoping the downward trend will continue. They use technical analysis to find these stocks and try to time their short sales to make the most profit. This strategy can be risky because it relies on the stock continuing to fall, which is not always easy to predict.
+A third strategy is "[momentum](/wiki/momentum) trading." This is when investors look for stocks that are already going down in price and short sell them, hoping the downward trend will continue. They use technical analysis to find these stocks and try to time their short sales to make the most profit. This strategy can be risky because it relies on the stock continuing to fall, which is not always easy to predict.
 
 ## Can you explain the concept of a short squeeze and its effects?
 

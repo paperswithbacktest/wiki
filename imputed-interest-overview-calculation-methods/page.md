@@ -177,7 +177,7 @@ This function efficiently determines the imputed interest, supporting precise ta
 
 ## What is the Intersection of Interest Calculations and Algo Trading?
 
-Automated trading strategies leverage advanced computational power and mathematical modeling to make expedient and precise trading decisions, and interest calculations are an integral component of these algorithms. By incorporating various interest rates, such as the risk-free rate or expected market interest rate shifts, algorithmic trading systems can enhance predictive models to forecast market trends and optimize investment returns.
+Automated trading strategies leverage advanced computational power and mathematical modeling to make expedient and precise trading decisions, and interest calculations are an integral component of these algorithms. By incorporating various interest rates, such as the risk-free rate or expected market interest rate shifts, [algorithmic trading](/wiki/algorithmic-trading) systems can enhance predictive models to forecast market trends and optimize investment returns.
 
 One critical aspect is the integration of imputed interest calculations within algorithmic models. Imputed interest, important in scenarios like zero-coupon bonds or below-market loans, affects fixed-income trading due to its impact on bond pricing. In the context of fixed-income securities, algorithms must consider the tax implications and income recognition of imputed interest to make accurate trading decisions. The IRS Applicable Federal Rates (AFR) play a crucial role here, as they help estimate the implied interest necessary for tax liabilities.
 

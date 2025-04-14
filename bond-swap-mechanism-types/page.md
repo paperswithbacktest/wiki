@@ -22,9 +22,9 @@ Another reason for a bond swap is to change the bond's maturity date. Sometimes,
 
 ## What are the basic mechanics of executing a bond swap?
 
-To execute a bond swap, an investor first needs to find a bond they want to trade their current bond for. This involves looking at different bonds and comparing them. The investor will look at things like the interest rate, the maturity date, and the risk level of the new bond. Once they find a bond that they think is better than their current one, they can start the swap process.
+To execute a bond swap, an investor first needs to find a bond they want to trade their current bond for. This involves looking at different bonds and comparing them. The investor will look at things like the [interest rate](/wiki/interest-rate-trading-strategies), the maturity date, and the risk level of the new bond. Once they find a bond that they think is better than their current one, they can start the swap process.
 
-The next step is to contact their broker or use an online trading platform to make the swap. The investor will tell their broker which bond they want to trade and which bond they want to get in return. The broker will then handle the details of the trade, making sure everything is done correctly. Once the swap is complete, the investor will have the new bond in their portfolio, and they can start earning interest on it.
+The next step is to contact their broker or use an online trading platform to make the swap. The investor will tell their broker which bond they want to trade and which bond they want to get in return. The broker will then handle the details of the trade, making sure everything is done correctly. Once the swap is complete, the investor will have the new bond in their portfolio, and they can start [earning](/wiki/earning-announcement) interest on it.
 
 ## What are the different types of bond swaps?
 

@@ -28,7 +28,7 @@ Investors and portfolio managers care a lot about excess returns because they wa
 
 ## Why is the information ratio important in investment analysis?
 
-The information ratio is important in investment analysis because it helps investors see how well a portfolio manager is doing their job. It compares the extra money, or excess returns, that the portfolio makes compared to a benchmark, like a stock market index. Then, it looks at how much extra risk the manager took to get those returns. This ratio tells investors if the manager is good at picking investments that do better than the benchmark without taking too much risk.
+The information ratio is important in investment analysis because it helps investors see how well a portfolio manager is doing their job. It compares the extra money, or excess returns, that the portfolio makes compared to a benchmark, like a stock market index. Then, it looks at how much extra risk the manager took to get those returns. This ratio tells investors if the manager is good at [picking](/wiki/asset-class-picking) investments that do better than the benchmark without taking too much risk.
 
 Knowing the information ratio can help investors make smarter choices. If the ratio is high, it means the manager is doing a great job, adding value to the portfolio. But if the ratio is low or negative, it might mean the manager's strategy isn't working well, and investors might want to think about changing their investment approach or finding a different manager. So, the information ratio is a useful tool for figuring out if the extra effort and risk are worth it.
 

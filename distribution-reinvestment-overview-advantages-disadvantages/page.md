@@ -18,7 +18,7 @@ For example, if you own stocks that pay dividends, instead of getting cash, thos
 
 Distribution reinvestment is a way to use the money you earn from your investments to buy more of those investments. For example, if you own shares in a company that pays dividends, instead of getting that money in your bank account, you can choose to have it automatically used to buy more shares of the same company. This means you don't have to spend any extra money to get more shares; the dividends you earn do the work for you.
 
-This can help your investments grow faster over time. When you reinvest your dividends, you end up owning more shares, which can lead to earning even more dividends in the future. It's like a cycle where your money keeps working for you without you having to do anything extra. Many people find this a good way to increase their investment over the long term because it takes advantage of the power of compounding.
+This can help your investments grow faster over time. When you reinvest your dividends, you end up owning more shares, which can lead to [earning](/wiki/earning-announcement) even more dividends in the future. It's like a cycle where your money keeps working for you without you having to do anything extra. Many people find this a good way to increase their investment over the long term because it takes advantage of the power of compounding.
 
 ## What are the common types of distributions that can be reinvested?
 

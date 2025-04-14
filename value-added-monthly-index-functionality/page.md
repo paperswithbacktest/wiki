@@ -66,7 +66,7 @@ Using VAMI to track a mutual fund also helps you compare it with other investmen
 
 ## What role does VAMI play in the evaluation of hedge fund performance?
 
-VAMI plays an important role in evaluating hedge fund performance by showing how a starting amount, usually $1,000, changes over time based on the fund's returns. If the hedge fund grows by 5% in a month, you multiply the current VAMI value by 1.05. If it goes down by 2%, you multiply by 0.98. This way, VAMI gives you a simple way to see month by month how well the hedge fund is doing, making it easy to understand if your investment is growing or shrinking.
+VAMI plays an important role in evaluating [hedge fund](/wiki/hedge-fund-trading-strategies) performance by showing how a starting amount, usually $1,000, changes over time based on the fund's returns. If the hedge fund grows by 5% in a month, you multiply the current VAMI value by 1.05. If it goes down by 2%, you multiply by 0.98. This way, VAMI gives you a simple way to see month by month how well the hedge fund is doing, making it easy to understand if your investment is growing or shrinking.
 
 Using VAMI also helps you compare different hedge funds easily. Because VAMI always starts with the same number, you can put different hedge funds side by side and see which one is doing better. This is helpful for investors trying to decide if they should keep their money in one fund or move it to another that's doing better. By looking at the VAMI chart, you get a clear picture of how your hedge fund is performing without needing to know a lot about finance.
 

@@ -58,7 +58,7 @@ Another important demographic trend is families growing or shrinking. If more fa
 
 ## What role do technological advancements play in real estate?
 
-Technology has changed a lot about how we buy and sell houses. Now, people can look at houses online without leaving their homes. Websites and apps show pictures and videos of houses, and you can even take a virtual tour. This makes it easier for people to see a lot of houses quickly and from anywhere. Also, technology helps real estate agents work better. They use special computer programs to keep track of all the houses they're selling and to talk to buyers and sellers more easily.
+Technology has changed a lot about how we buy and sell houses. Now, people can look at houses online without leaving their homes. Websites and apps show pictures and videos of houses, and you can even take a virtual tour. This makes it easier for people to see a lot of houses quickly and from anywhere. Also, technology helps real estate [agents](/wiki/agents) work better. They use special computer programs to keep track of all the houses they're selling and to talk to buyers and sellers more easily.
 
 Another big thing technology does is help with smart homes. These are houses that have special gadgets like lights and thermostats you can control with your phone. People like these houses because they make life easier and can save money on things like electricity. Also, technology helps builders make houses faster and better. They use things like 3D printers to build parts of houses, which can make building cheaper and quicker. So, technology is changing how we buy, sell, and live in houses in a lot of cool ways.
 

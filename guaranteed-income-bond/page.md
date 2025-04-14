@@ -18,7 +18,7 @@ These bonds are good if you want to know exactly how much interest you'll earn. 
 
 A Guaranteed Income Bond is a special kind of savings account where you put your money away for a certain time, like one year or five years. When you open the bond, the bank tells you the interest rate, and that rate stays the same until the bond ends. This means you know exactly how much money you will earn from the interest. You can't take your money out until the time is up, so it's good if you don't need to use that money for a while.
 
-The main thing about these bonds is that they are safe and predictable. Because the interest rate is fixed, you don't have to worry about it going down. But, if interest rates go up while you have the bond, you won't get the new higher rate until your bond finishes. So, you need to think about whether the fixed rate is good enough for you to leave your money there for the whole time.
+The main thing about these bonds is that they are safe and predictable. Because the [interest rate](/wiki/interest-rate-trading-strategies) is fixed, you don't have to worry about it going down. But, if interest rates go up while you have the bond, you won't get the new higher rate until your bond finishes. So, you need to think about whether the fixed rate is good enough for you to leave your money there for the whole time.
 
 ## What are the benefits of investing in a Guaranteed Income Bond?
 
@@ -66,7 +66,7 @@ Another way Guaranteed Income Bonds are different is how safe they are. They are
 
 One risk with Guaranteed Income Bonds is that you can't take your money out until the term ends. If something unexpected happens and you need your money before the bond is up, you might be in a tough spot. Some banks might let you take your money out early, but they could charge you a fee or not give you any interest at all. So, it's really important to make sure you won't need the money before the term is over.
 
-Another risk is that the interest rate might not be as good as other investments. If you put your money in a Guaranteed Income Bond and then interest rates go up, you won't get the higher rate until your bond ends. This means you could miss out on earning more money if you had put your money somewhere else. It's a trade-off: you get the safety of knowing exactly how much interest you'll earn, but you might not get the best rate possible.
+Another risk is that the interest rate might not be as good as other investments. If you put your money in a Guaranteed Income Bond and then interest rates go up, you won't get the higher rate until your bond ends. This means you could miss out on [earning](/wiki/earning-announcement) more money if you had put your money somewhere else. It's a trade-off: you get the safety of knowing exactly how much interest you'll earn, but you might not get the best rate possible.
 
 ## How does inflation impact the returns of a Guaranteed Income Bond?
 

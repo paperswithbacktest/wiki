@@ -42,7 +42,7 @@ This risk is a big deal in derivatives because these contracts often involve big
 
 ## How can market volatility affect derivatives trading?
 
-Market volatility means the prices of things like stocks or commodities can change a lot and very quickly. When the market is volatile, it can make derivatives trading more risky. Derivatives are based on the price of something else, so if that price jumps around a lot, the value of the derivative can change a lot too. This can be good if the price moves in the way you expected, but if it goes the other way, you could lose a lot of money fast.
+Market [volatility](/wiki/volatility-trading-strategies) means the prices of things like stocks or commodities can change a lot and very quickly. When the market is volatile, it can make derivatives trading more risky. Derivatives are based on the price of something else, so if that price jumps around a lot, the value of the derivative can change a lot too. This can be good if the price moves in the way you expected, but if it goes the other way, you could lose a lot of money fast.
 
 Because derivatives often use leverage, even small changes in the market can have a big effect on your trades. If the market is calm, it's easier to predict what might happen and manage your risks. But when it's volatile, it's harder to know what will happen next, and that can lead to bigger losses. So, traders need to be extra careful and have good plans in place to handle the ups and downs of a volatile market.
 
@@ -84,7 +84,7 @@ Regulators and governments try to keep an eye on these risks and put rules in pl
 
 ## References & Further Reading
 
-For those looking to deepen their understanding of trading risks associated with derivatives and algorithmic trading, several comprehensive resources are available. Texts such as "Principles of Risk Management and Insurance" provide foundational knowledge on managing diverse financial risks. Similarly, "Advances in Financial Machine Learning" explores the intersection of data science and financial markets, offering insights into algorithmic trading techniques and risk management strategies. 
+For those looking to deepen their understanding of trading risks associated with derivatives and [algorithmic trading](/wiki/algorithmic-trading), several comprehensive resources are available. Texts such as "Principles of Risk Management and Insurance" provide foundational knowledge on managing diverse financial risks. Similarly, "Advances in Financial Machine Learning" explores the intersection of data science and financial markets, offering insights into algorithmic trading techniques and risk management strategies. 
 
 Analyzing historical market events can provide additional perspective on trading risks. A pivotal study is the examination of the Flash Crash on May 6, 2010, where the Dow Jones Industrial Average plummeted nearly 1,000 points within minutes. Reports and research papers on this event illustrate how algorithmic trading can exacerbate market volatility under certain conditions. Understanding the mechanisms that contributed to such rapid fluctuations offers valuable lessons for risk mitigation in algorithmic strategies.
 

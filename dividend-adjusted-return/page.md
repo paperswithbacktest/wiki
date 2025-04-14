@@ -140,7 +140,7 @@ By focusing on dividend-adjusted returns, investors can align their strategies w
 
 Dividend-adjusted return is a powerful tool for evaluating the full scope of investment performance. By incorporating dividends into the calculation of total returns, investors gain a more precise understanding of a stock's profitability. This comprehensive measure combines both capital appreciation and the income generated from dividends, providing an accurate representation of the total return on investment. 
 
-For investors, understanding and utilizing dividend-adjusted returns can enhance investment strategies significantly. This is especially true for those focusing on dividend-oriented strategies and algorithmic trading. Dividend adjustments allow for a detailed analysis of income-generating securities, helping investors make more informed decisions. 
+For investors, understanding and utilizing dividend-adjusted returns can enhance investment strategies significantly. This is especially true for those focusing on dividend-oriented strategies and [algorithmic trading](/wiki/algorithmic-trading). Dividend adjustments allow for a detailed analysis of income-generating securities, helping investors make more informed decisions. 
 
 Accurate historical and financial analysis is contingent upon comprehensive data that includes both capital appreciation and dividend impacts. When dividends are ignored, the true performance of an investment can be misrepresented, potentially leading to suboptimal decision-making. For example, consider a stock purchased at $100 that grew to $120 over a year and paid $5 in dividends. The simplified total return calculation would be:
 

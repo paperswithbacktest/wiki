@@ -72,7 +72,7 @@ Another useful technique is the use of copulas. Copulas are a way to model the d
 
 ## How can machine learning models enhance correlation analysis in backtesting?
 
-Machine learning models can make correlation analysis in backtesting better by finding patterns that are hard to see with just numbers. These models can look at a lot of data at once and learn how different things, like stocks, move together. For example, a machine learning model can find out if some stocks go up and down together more at certain times of the year or during certain market conditions. This helps you understand the real relationship between stocks better than just using simple correlation numbers.
+Machine learning models can make correlation analysis in backtesting better by finding patterns that are hard to see with just numbers. These models can look at a lot of data at once and learn how different things, like stocks, move together. For example, a [machine learning](/wiki/machine-learning) model can find out if some stocks go up and down together more at certain times of the year or during certain market conditions. This helps you understand the real relationship between stocks better than just using simple correlation numbers.
 
 By using machine learning, you can also predict how the correlation between stocks might change in the future. This is important because the stock market changes all the time, and what worked in the past might not work the same way in the future. Machine learning models can use past data to guess how stocks might move together next, helping you make your backtesting strategy smarter and more ready for real-world trading.
 

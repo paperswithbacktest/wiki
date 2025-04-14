@@ -18,7 +18,7 @@ These ETFs use financial tools like futures contracts and swaps to achieve their
 
 A Short Gold ETF works by betting that the price of gold will go down. Instead of buying gold, the ETF uses financial agreements called futures contracts and swaps. These agreements allow the ETF to sell gold at a future date for a price set today. If the price of gold drops by that date, the ETF can buy gold at the lower price and sell it at the higher price they agreed on earlier, making a profit.
 
-This kind of ETF is useful for people who think gold prices will fall. It's a way to make money if their prediction is right. For example, if someone believes that economic conditions will lead to lower gold prices, they can invest in a Short Gold ETF. If gold prices do fall, the value of their investment in the ETF will go up, allowing them to earn money from the decline in gold prices without ever having to handle physical gold.
+This kind of [ETF](/wiki/etf-trading-strategies) is useful for people who think gold prices will fall. It's a way to make money if their prediction is right. For example, if someone believes that economic conditions will lead to lower gold prices, they can invest in a Short Gold ETF. If gold prices do fall, the value of their investment in the ETF will go up, allowing them to earn money from the decline in gold prices without ever having to handle physical gold.
 
 ## What are the primary reasons someone might invest in a Short Gold ETF?
 

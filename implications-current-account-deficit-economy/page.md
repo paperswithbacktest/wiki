@@ -18,7 +18,7 @@ Having a current account deficit is not always bad. It can mean that foreign inv
 
 A current account deficit is measured by looking at the difference between what a country earns from its exports and what it spends on its imports. This includes not just physical goods like cars and electronics, but also services like tourism and banking. If a country spends more on imports than it earns from exports, it has a current account deficit.
 
-The measurement is part of a bigger picture called the balance of payments. This is a record of all the money that flows in and out of a country over a certain period, usually a year. The current account is just one part of this record. It also includes things like income from investments and money sent home by workers living abroad. By comparing these numbers, economists can see if a country is spending more than it is earning, which shows up as a deficit.
+The measurement is part of a bigger picture called the balance of payments. This is a record of all the money that flows in and out of a country over a certain period, usually a year. The current account is just one part of this record. It also includes things like income from investments and money sent home by workers living abroad. By comparing these numbers, economists can see if a country is spending more than it is [earning](/wiki/earning-announcement), which shows up as a deficit.
 
 ## What causes a current account deficit?
 
@@ -126,5 +126,5 @@ Economists and policymakers closely scrutinize the current account deficit due t
    - *BIS Papers.* The Bank for International Settlements provides a range of studies on the interplay between monetary policy, financial markets, and global economic trends available at [BIS Publications](https://www.bis.org/publ/).
    - For those interested in the implications of fiscal policy on financial markets, the article "The Dynamic Effects of Discretionary Fiscal Policy" by Cwik, T., & Wieland, V. (2011) in the American Economic Journal provides a rigorous analysis.
 
-These resources offer a foundational and advanced understanding of current account deficits, their economic impacts, and the innovative role of algorithmic trading in modern financial markets.
+These resources offer a foundational and advanced understanding of current account deficits, their economic impacts, and the innovative role of [algorithmic trading](/wiki/algorithmic-trading) in modern financial markets.
 

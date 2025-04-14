@@ -48,7 +48,7 @@ Another thing endorsers need to think about is being clear about when they are b
 
 ## How do endorsers negotiate their contracts?
 
-Endorsers usually work with agents or managers to negotiate their contracts. These agents know a lot about the business and can help the endorser get a good deal. They talk to the company about how much the endorser will be paid, how long the endorsement will last, and what the endorser needs to do. The agent makes sure the endorser is happy with the deal and that it's fair for both the endorser and the company.
+Endorsers usually work with [agents](/wiki/agents) or managers to negotiate their contracts. These agents know a lot about the business and can help the endorser get a good deal. They talk to the company about how much the endorser will be paid, how long the endorsement will last, and what the endorser needs to do. The agent makes sure the endorser is happy with the deal and that it's fair for both the endorser and the company.
 
 Sometimes, the endorser might talk directly with the company, especially if they don't have an agent. They need to be clear about what they want and what they can do for the company. They might ask for a certain amount of money, or they might want to only promote products they really like. It's important for the endorser to make sure the contract is clear and that they understand everything before they agree to it.
 
@@ -84,7 +84,7 @@ Another strategy expert endorsers use is to work with other endorsers or influen
 
 ## How can we measure the impact of endorsement on algorithmic trading?
 
-To effectively measure the impact of endorsements on algorithmic trading, various strategies and tools can be employed to assess changes in engagement, market reach, and overall business performance. The integration of analytics tools is crucial for tracking key metrics such as engagement rates and conversion rates following endorsement activities. These metrics provide quantitative data that indicates how well the audience responds to endorsed content.
+To effectively measure the impact of endorsements on [algorithmic trading](/wiki/algorithmic-trading), various strategies and tools can be employed to assess changes in engagement, market reach, and overall business performance. The integration of analytics tools is crucial for tracking key metrics such as engagement rates and conversion rates following endorsement activities. These metrics provide quantitative data that indicates how well the audience responds to endorsed content.
 
 ### Engagement and Conversion Metrics
 

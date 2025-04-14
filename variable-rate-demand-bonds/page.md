@@ -22,7 +22,7 @@ Another important feature of VRDBs is that investors can sell them back to the i
 
 ## What are the key features of VRDBs?
 
-Variable-Rate Demand Bonds, or VRDBs, have interest rates that change over time. Instead of staying the same like many bonds, the interest rate on VRDBs is reset often, usually every week or every day. This means if the interest rates in the market go up, the rate on the VRDB will go up too. If market rates go down, the VRDB rate will go down. This can be good for the people who issue the bonds because they might pay less interest if rates drop.
+Variable-Rate Demand Bonds, or VRDBs, have interest rates that change over time. Instead of staying the same like many bonds, the [interest rate](/wiki/interest-rate-trading-strategies) on VRDBs is reset often, usually every week or every day. This means if the interest rates in the market go up, the rate on the VRDB will go up too. If market rates go down, the VRDB rate will go down. This can be good for the people who issue the bonds because they might pay less interest if rates drop.
 
 Another important feature of VRDBs is that investors can sell them back to the issuer or a third party at any time, usually for the full amount they paid. This makes VRDBs more flexible than other bonds because investors can get their money back whenever they want. This feature is useful for investors who might need their money back quickly. VRDBs are often used by cities or towns to pay for things like schools or roads, and they can be a good choice for both the people issuing the bonds and the people buying them because they offer flexibility and the chance to save on interest costs.
 
@@ -54,7 +54,7 @@ If the market rates go up, the interest rate on the VRDB will go up too. This me
 
 ## What role do liquidity providers play in VRDBs?
 
-Liquidity providers are important for Variable-Rate Demand Bonds, or VRDBs. They help make sure that investors can sell their bonds back whenever they want. If an investor decides they need their money back, they can ask the issuer to buy the bond back. But if the issuer can't do it right away, the liquidity provider steps in. They buy the bond from the investor, usually at the full amount the investor paid. This makes VRDBs safer for investors because they know they can get their money back quickly.
+Liquidity providers are important for Variable-Rate Demand Bonds, or VRDBs. They help make sure that investors can sell their bonds back whenever they want. If an investor decides they need their money back, they can ask the issuer to buy the bond back. But if the issuer can't do it right away, the [liquidity](/wiki/liquidity-risk-premium) provider steps in. They buy the bond from the investor, usually at the full amount the investor paid. This makes VRDBs safer for investors because they know they can get their money back quickly.
 
 Liquidity providers are usually big banks or financial companies. They agree to buy back the bonds if needed, but they charge a fee for this service. This fee is paid by the issuer of the bond, not the investor. Having a liquidity provider helps keep the bond market stable and makes VRDBs more attractive to investors. It's like having a safety net that makes sure investors can always get their money back when they need it.
 

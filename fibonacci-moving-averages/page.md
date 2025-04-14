@@ -34,7 +34,7 @@ The reason traders use these particular numbers is that they believe the Fibonac
 
 ## How do you calculate a Fibonacci Moving Average?
 
-To calculate a Fibonacci Moving Average, you start by picking a time period from the Fibonacci sequence. Common choices are 5, 8, 13, 21, 34, 55, or 89 days. Let's say you pick 13 days. Then, you take the closing prices of the stock or asset for the last 13 days and add them up. After that, you divide the total by 13 to find the average price over those 13 days. This gives you one point on your Fibonacci Moving Average line.
+To calculate a Fibonacci Moving Average, you start by [picking](/wiki/asset-class-picking) a time period from the Fibonacci sequence. Common choices are 5, 8, 13, 21, 34, 55, or 89 days. Let's say you pick 13 days. Then, you take the closing prices of the stock or asset for the last 13 days and add them up. After that, you divide the total by 13 to find the average price over those 13 days. This gives you one point on your Fibonacci Moving Average line.
 
 You repeat this process every day, always using the most recent 13 days. So, the next day, you drop the oldest price and add the newest one, then calculate the new average. As you keep doing this, you build a line on your chart that shows the average price over the last 13 days, updated daily. This line helps you see the overall direction of the price without getting distracted by small ups and downs. By using Fibonacci numbers for the time period, some traders believe they can spot important trends or turning points in the market more easily.
 
@@ -46,7 +46,7 @@ Another advantage is that Fibonacci Moving Averages can make it easier for trade
 
 ## Can Fibonacci Moving Averages be used for any trading instrument?
 
-Yes, Fibonacci Moving Averages can be used for any trading instrument, like stocks, forex, commodities, or cryptocurrencies. They help traders see the overall direction of the price over time, no matter what they are trading. By using numbers from the Fibonacci sequence, traders hope to spot important trends or turning points in the market more easily.
+Yes, Fibonacci Moving Averages can be used for any trading instrument, like stocks, [forex](/wiki/forex-system), commodities, or cryptocurrencies. They help traders see the overall direction of the price over time, no matter what they are trading. By using numbers from the Fibonacci sequence, traders hope to spot important trends or turning points in the market more easily.
 
 Even though Fibonacci Moving Averages are popular, they are not perfect. They work best when used with other tools and methods to make trading decisions. But because they can be applied to any trading instrument, many traders find them useful for understanding how prices are moving and making better choices about when to buy or sell.
 
@@ -60,7 +60,7 @@ Traders often look at how the price interacts with the Fibonacci Moving Average 
 
 One common trading strategy that uses Fibonacci Moving Averages is the crossover strategy. In this strategy, traders watch for when a short-term Fibonacci Moving Average, like one based on 8 days, crosses over a longer-term one, like one based on 21 days. If the short-term average moves above the long-term average, it might be a good time to buy because it suggests the price could go up. On the other hand, if the short-term average moves below the long-term average, it might be a good time to sell because it suggests the price could go down. By using Fibonacci numbers, traders hope to spot these crossovers more accurately and make better trading decisions.
 
-Another strategy is using Fibonacci Moving Averages to find support and resistance levels. Traders look at where the price of a stock or asset touches or bounces off the Fibonacci Moving Average line. If the price keeps bouncing off the line without breaking through it, that line can act as a support level if the price is going up, or a resistance level if the price is going down. When the price finally breaks through the line, it might be a sign that the trend is changing. Traders use this information to decide when to enter or exit trades, hoping to catch the start of a new trend or avoid losses when a trend reverses.
+Another strategy is using Fibonacci Moving Averages to find support and resistance levels. Traders look at where the price of a stock or asset touches or bounces off the Fibonacci Moving Average line. If the price keeps bouncing off the line without breaking through it, that line can act as a support level if the price is going up, or a resistance level if the price is going down. When the price finally breaks through the line, it might be a sign that the trend is changing. Traders use this information to decide when to enter or [exit](/wiki/exit-strategy) trades, hoping to catch the start of a new trend or avoid losses when a trend reverses.
 
 ## How do you optimize the parameters of Fibonacci Moving Averages for different market conditions?
 

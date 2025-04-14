@@ -82,7 +82,7 @@ Another important metric is the adjusted funds from operations (AFFO). This is l
 
 ## How do macroeconomic factors influence REIT valuations and performance?
 
-Macroeconomic factors can have a big impact on how well REITs do and how much they're worth. One big factor is interest rates. When interest rates go up, it can be harder for REITs to borrow money to buy new properties or fix up old ones. Also, when interest rates are high, other investments like bonds might look more attractive to people, so they might sell their REIT shares. This can make the price of the REIT go down. Another factor is the economy itself. If the economy is doing well, more people might have jobs and be able to pay rent, which is good for REITs. But if the economy is doing badly, people might not be able to pay rent, and the REIT might not make as much money.
+Macroeconomic factors can have a big impact on how well REITs do and how much they're worth. One big [factor](/wiki/factor-investing) is interest rates. When interest rates go up, it can be harder for REITs to borrow money to buy new properties or fix up old ones. Also, when interest rates are high, other investments like bonds might look more attractive to people, so they might sell their REIT shares. This can make the price of the REIT go down. Another factor is the economy itself. If the economy is doing well, more people might have jobs and be able to pay rent, which is good for REITs. But if the economy is doing badly, people might not be able to pay rent, and the REIT might not make as much money.
 
 Another important factor is inflation. When prices go up because of inflation, REITs can sometimes benefit because they can raise the rent on their properties. But if inflation gets too high, it can make it harder for people to afford rent, which can hurt the REIT. Also, changes in the job market can affect REITs. If a lot of people are working from home, office buildings might not be as full, which can hurt REITs that own a lot of office space. And if people are moving to different areas, like from cities to suburbs, REITs that own properties in the wrong places might not do as well. So, keeping an eye on these big economic trends can help you understand how REITs might perform in the future.
 
@@ -120,7 +120,7 @@ Conversely, a bottom-up approach emphasizes meticulous scrutiny of the REIT's fi
 
 ### External Factors
 
-Investors should also consider external factors such as population growth, which can spur demand for residential and commercial properties, and interest rate movements, impacting borrowing costs and property valuations. 
+Investors should also consider external factors such as population growth, which can spur demand for residential and commercial properties, and [interest rate](/wiki/interest-rate-trading-strategies) movements, impacting borrowing costs and property valuations. 
 
 By employing these specialized metrics and analytical techniques, investors can formulate a more nuanced understanding of REIT performance, equipping them to make informed investment decisions. An integrated approach incorporating both financial metrics and strategic market analysis is essential for navigating the complexities of REIT investments.
 

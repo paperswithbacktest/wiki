@@ -30,7 +30,7 @@ It's also a great tool for comparing different growth options. Sometimes a busin
 
 To calculate the NPV of Growth Opportunities, you need to know the future cash flows that the new projects will bring in. This means figuring out how much money these projects will make over time. You also need to know the initial cost, which is how much money you need to spend right now to start these projects. The initial cost is important because you want to see if the money you'll make in the future will be more than what you spend now.
 
-Once you have the future cash flows and the initial cost, you need a discount rate. The discount rate is like an interest rate that helps you figure out what the future money is worth today. You use this rate to turn the future cash flows into today's money, which is called the present value. After you've done that for all the future cash flows, you add them up and then subtract the initial cost. If the result is positive, it means the growth opportunities are worth it because they'll add value to your business.
+Once you have the future cash flows and the initial cost, you need a discount rate. The discount rate is like an [interest rate](/wiki/interest-rate-trading-strategies) that helps you figure out what the future money is worth today. You use this rate to turn the future cash flows into today's money, which is called the present value. After you've done that for all the future cash flows, you add them up and then subtract the initial cost. If the result is positive, it means the growth opportunities are worth it because they'll add value to your business.
 
 ## Can you explain the difference between NPV and NPV of Growth Opportunities?
 

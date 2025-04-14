@@ -18,7 +18,7 @@ This pattern can also be seen in other places, not just water. For example, if y
 
 Ripple was founded by Chris Larsen and Jed McCaleb. Chris Larsen is known for starting other companies too, and Jed McCaleb worked on different tech projects before Ripple. They started Ripple in 2012. At that time, they wanted to make it easier and faster for banks to send money around the world.
 
-Ripple's main product is called XRP Ledger, which is a kind of technology that helps with moving money. They also have a cryptocurrency called XRP, which people can use to make payments. Since it started, Ripple has worked with many big banks and financial companies to help them use this new technology.
+Ripple's main product is called XRP Ledger, which is a kind of technology that helps with moving money. They also have a [cryptocurrency](/wiki/cryptocurrency) called XRP, which people can use to make payments. Since it started, Ripple has worked with many big banks and financial companies to help them use this new technology.
 
 ## What is the main purpose of Ripple Swell?
 

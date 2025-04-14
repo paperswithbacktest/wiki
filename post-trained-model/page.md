@@ -19,7 +19,7 @@ A post-trained model is a model that has finished its training and is ready to u
 
 A pre-trained model, on the other hand, is a model that has been trained on a large dataset but is not yet ready for your specific task. It's like a student who has learned a lot of general knowledge but needs to focus on a particular subject. You can take this pre-trained model and fine-tune it with more specific data to make it work better for what you need. For example, a pre-trained model might be good at recognizing general objects in pictures, but you can fine-tune it to recognize specific types of animals. This process of fine-tuning helps the model perform better on your specific task.
 
-In summary, the main difference is that a post-trained model is fully trained and ready to use, while a pre-trained model needs more work to be tailored to your specific needs. Both types of models are useful, but they serve different purposes in the machine learning process.
+In summary, the main difference is that a post-trained model is fully trained and ready to use, while a pre-trained model needs more work to be tailored to your specific needs. Both types of models are useful, but they serve different purposes in the [machine learning](/wiki/machine-learning) process.
 
 ## What are the common applications of post-trained models?
 
@@ -31,7 +31,7 @@ In finance, post-trained models predict stock prices or detect fraud. They look 
 
 ## What are the steps involved in creating a post-trained model?
 
-Creating a post-trained model starts with gathering a lot of data. This data needs to be good and relevant to what you want the model to do. Once you have the data, you pick a model that fits your task. This could be a neural network, a decision tree, or something else. You then split your data into a training set and a test set. The training set is used to teach the model, while the test set checks how well it learned. During training, the model looks at the data and adjusts its inner parts, called parameters, to get better at its job. This process keeps going until the model does well on the training data.
+Creating a post-trained model starts with gathering a lot of data. This data needs to be good and relevant to what you want the model to do. Once you have the data, you pick a model that fits your task. This could be a [neural network](/wiki/neural-network), a decision tree, or something else. You then split your data into a training set and a test set. The training set is used to teach the model, while the test set checks how well it learned. During training, the model looks at the data and adjusts its inner parts, called parameters, to get better at its job. This process keeps going until the model does well on the training data.
 
 After training, the model goes through validation and testing. Validation helps tweak the model to make sure it works well on new data, not just the data it was trained on. Testing is the final check to see if the model is good enough to use. If it passes these checks, the model is now post-trained and ready to use. You can then use it in real-life situations, like in apps or websites, to do things like recognize images, predict outcomes, or understand language. If the model doesn't do well, you might need to go back and train it again with different data or settings.
 
@@ -51,7 +51,7 @@ Another advantage is that post-trained models often perform better because they 
 
 One challenge with post-trained models is that they might not work well on new kinds of data. If the data you want to use is very different from the data the model was trained on, it might make a lot of mistakes. For example, a model trained to recognize dogs in pictures might not be good at recognizing cats. This is called the problem of generalization. To fix this, you might need to gather more data that is similar to what you want to use and train the model again, which can take time and money.
 
-Another limitation is that post-trained models can be very big and need a lot of computer power to use. This can be a problem if you want to use the model on a small device like a phone or if you don't have strong computers. Also, these models can sometimes learn the wrong things from the data, like picking up on biases. If the training data had biases, like more pictures of one kind of dog than another, the model might work better for that kind of dog. This can lead to unfair results, and you might need to check the model carefully to make sure it is fair and works well for everyone.
+Another limitation is that post-trained models can be very big and need a lot of computer power to use. This can be a problem if you want to use the model on a small device like a phone or if you don't have strong computers. Also, these models can sometimes learn the wrong things from the data, like [picking](/wiki/asset-class-picking) up on biases. If the training data had biases, like more pictures of one kind of dog than another, the model might work better for that kind of dog. This can lead to unfair results, and you might need to check the model carefully to make sure it is fair and works well for everyone.
 
 ## How does fine-tuning work in the context of post-trained models?
 

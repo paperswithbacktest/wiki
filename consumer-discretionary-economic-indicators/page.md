@@ -44,7 +44,7 @@ Economists use different data to track this sector. They look at sales numbers f
 
 Economists use several key indicators to measure consumer discretionary spending. One important indicator is retail sales data, which tracks how much people are spending on things like clothes, electronics, and furniture. This data comes from stores and helps economists see if people are buying more or less of these non-essential items. Another indicator is the Consumer Confidence Index, which surveys people to find out how they feel about their financial situation and the economy. When people feel good about their money, they're more likely to spend on fun things.
 
-Another useful indicator is personal consumption expenditures (PCE), which measures how much money people are spending overall, including on discretionary items. Within PCE, economists look at the part that covers things like entertainment, travel, and luxury goods. They also pay attention to employment data, because when more people have jobs and are earning money, they're more likely to spend on things they want but don't need. By looking at all these indicators together, economists can get a good picture of how much people are spending on consumer discretionary goods.
+Another useful indicator is personal consumption expenditures (PCE), which measures how much money people are spending overall, including on discretionary items. Within PCE, economists look at the part that covers things like entertainment, travel, and luxury goods. They also pay attention to employment data, because when more people have jobs and are [earning](/wiki/earning-announcement) money, they're more likely to spend on things they want but don't need. By looking at all these indicators together, economists can get a good picture of how much people are spending on consumer discretionary goods.
 
 ## How does consumer discretionary spending reflect economic health?
 
@@ -54,7 +54,7 @@ But if people start spending less on these fun things, it can mean they're worri
 
 ## What factors influence changes in consumer discretionary spending?
 
-Changes in consumer discretionary spending can be influenced by many things. One big factor is how people feel about their money and the economy. If people think their jobs are safe and they might get a raise, they're more likely to spend on fun things like new clothes or going out to eat. But if they're worried about losing their jobs or the economy is shaky, they might save their money instead of spending it on things they don't need.
+Changes in consumer discretionary spending can be influenced by many things. One big [factor](/wiki/factor-investing) is how people feel about their money and the economy. If people think their jobs are safe and they might get a raise, they're more likely to spend on fun things like new clothes or going out to eat. But if they're worried about losing their jobs or the economy is shaky, they might save their money instead of spending it on things they don't need.
 
 Another factor is interest rates. When interest rates are low, it's cheaper to borrow money, so people might take out loans to buy things like new cars or go on vacations. But when interest rates go up, borrowing money costs more, so people might cut back on these extra expenses. Government policies can also play a role. For example, if the government gives people more money through tax cuts or stimulus checks, they might spend more on things they want.
 

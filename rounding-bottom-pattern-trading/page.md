@@ -18,7 +18,7 @@ When traders see a Rounding Bottom, they think the stock is changing from a down
 
 To spot a Rounding Bottom pattern on a chart, you need to look for a big "U" shape. This shape shows that the price of the stock went down for a while and then slowly started to go back up. The bottom of the "U" is where the price stops going down and starts to turn around. It can take a long time for this pattern to form, sometimes even months.
 
-Once you see the "U" shape, you should look for a few more things to make sure it's a Rounding Bottom. The volume, or how many people are buying and selling the stock, should be low at the bottom of the "U" and start to go up as the price goes up. Also, watch for the price to break above a certain level called the resistance. When the price goes above this level, it's a good sign that the stock might keep going up.
+Once you see the "U" shape, you should look for a few more things to make sure it's a Rounding Bottom. The [volume](/wiki/volume-trading-strategy), or how many people are buying and selling the stock, should be low at the bottom of the "U" and start to go up as the price goes up. Also, watch for the price to break above a certain level called the resistance. When the price goes above this level, it's a good sign that the stock might keep going up.
 
 ## What are the key characteristics of a Rounding Bottom pattern?
 
@@ -46,7 +46,7 @@ Another entry point to consider is when the price is still moving up within the 
 
 ## What are the common exit strategies when trading a Rounding Bottom pattern?
 
-When trading a Rounding Bottom pattern, one common exit strategy is to sell the stock when it reaches a certain price target. This target is usually calculated by measuring the height of the "U" shape from the bottom to the resistance level and then adding that height to the point where the price breaks above the resistance. When the price hits this target, it's a good time to sell and take your profits because the stock might not keep going up much more.
+When trading a Rounding Bottom pattern, one common [exit](/wiki/exit-strategy) strategy is to sell the stock when it reaches a certain price target. This target is usually calculated by measuring the height of the "U" shape from the bottom to the resistance level and then adding that height to the point where the price breaks above the resistance. When the price hits this target, it's a good time to sell and take your profits because the stock might not keep going up much more.
 
 Another exit strategy is to use a trailing stop-loss. A trailing stop-loss moves up as the price goes up, so it helps you keep some of your profits if the price starts to go down. You set the stop-loss at a certain percentage below the current price, and if the price drops to that level, the stop-loss will trigger and you'll sell the stock. This way, you can keep making money as the price goes up, but also protect your gains if the price starts to fall.
 

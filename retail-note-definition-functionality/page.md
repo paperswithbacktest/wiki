@@ -18,7 +18,7 @@ Retail notes can be a good choice for people who want a steady income without ta
 
 A retail note is different from other types of notes because it is made for regular people, not just big investors. Other notes, like corporate notes or treasury notes, might need you to have a lot of money or special knowledge to buy them. Retail notes are easier to buy and often come in smaller amounts, so more people can afford them. They are usually sold by banks or financial companies directly to the public.
 
-Another way retail notes differ is in how safe they are. Retail notes often have a fixed interest rate and a set date when you get your money back, which makes them less risky than some other investments. For example, a corporate note might be riskier because the company could have trouble paying it back. Retail notes are designed to be a steady and reliable way for people to earn some money without taking big risks.
+Another way retail notes differ is in how safe they are. Retail notes often have a fixed [interest rate](/wiki/interest-rate-trading-strategies) and a set date when you get your money back, which makes them less risky than some other investments. For example, a corporate note might be riskier because the company could have trouble paying it back. Retail notes are designed to be a steady and reliable way for people to earn some money without taking big risks.
 
 ## What are the key features of a retail note?
 

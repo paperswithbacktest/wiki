@@ -126,7 +126,7 @@ Choosing between EBITD and EBITDA depends heavily on the context of the analysis
   This resource illustrates how quantitative analysis can be employed to enhance investment decisions, offering a practitioner's guide to automate intelligent investment strategies while minimizing behavioral errors. It provides practical insights for applying quantitative methods to achieve value-driven investment objectives.
 
 - **"Algorithmic Trading and DMA: An introduction to direct access trading strategies" by Barry Johnson**  
-  Barry Johnson's book serves as an insightful introduction to the concepts of algorithmic trading and direct market access (DMA). It covers the essential strategies and tools that traders use to automate trading processes, incorporating data-driven decision-making to optimize trading performance and execution.
+  Barry Johnson's book serves as an insightful introduction to the concepts of [algorithmic trading](/wiki/algorithmic-trading) and direct market access (DMA). It covers the essential strategies and tools that traders use to automate trading processes, incorporating data-driven decision-making to optimize trading performance and execution.
 
 - **"Financial Statement Analysis: A Practitioner's Guide" by Martin S. Fridson & Fernando Alvarez**  
   This guide offers a practical approach to analyzing financial statements, delivering tools and techniques that practitioners can employ to evaluate financial health. It focuses on understanding the qualitative and quantitative aspects of financial disclosures to support strategic decision-making in corporate finance.

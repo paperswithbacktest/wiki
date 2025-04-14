@@ -18,7 +18,7 @@ For example, imagine you have a loan with a floating interest rate. You might bu
 
 An interest rate collar is a way to control the ups and downs of interest rates on loans or investments. It works by using two tools: an interest rate cap and an interest rate floor. The cap sets a maximum interest rate you'll pay, while the floor sets a minimum interest rate. By buying a cap, you make sure your interest rate won't go above a certain level. By selling a floor, you agree to pay at least a certain rate, and you get money for doing this.
 
-Let's say you have a loan with a floating interest rate. You might buy a cap at 5% to make sure your interest rate never goes over that. At the same time, you sell a floor at 3%, which means you agree to pay at least 3% interest. This keeps your interest rate between 3% and 5%. The money you get from selling the floor helps pay for the cap, so it's a smart way to manage the risk of changing interest rates without spending too much.
+Let's say you have a loan with a floating [interest rate](/wiki/interest-rate-trading-strategies). You might buy a cap at 5% to make sure your interest rate never goes over that. At the same time, you sell a floor at 3%, which means you agree to pay at least 3% interest. This keeps your interest rate between 3% and 5%. The money you get from selling the floor helps pay for the cap, so it's a smart way to manage the risk of changing interest rates without spending too much.
 
 ## What are the components of an interest rate collar?
 
@@ -102,7 +102,7 @@ $$
 
 The combined effectiveness of the collar comes from balancing these two elements to keep $r(t)$ within the desired range $[F, C]$.
 
-Interest rate collars are strategic tools in financial management, delivering dual-layered protection against interest rate volatility. This makes them indispensable in financial planning for organizations and individuals who seek to stabilize cash flows and manage costs associated with interest rate fluctuations effectively.
+Interest rate collars are strategic tools in financial management, delivering dual-layered protection against interest rate [volatility](/wiki/volatility-trading-strategies). This makes them indispensable in financial planning for organizations and individuals who seek to stabilize cash flows and manage costs associated with interest rate fluctuations effectively.
 
 ## What are the Mechanics of Interest Rate Collars?
 

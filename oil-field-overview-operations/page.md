@@ -42,7 +42,7 @@ There is also a type called an injection well. This well is used to put water, g
 
 ## How is oil transported from the field to refineries?
 
-After oil is pumped out of the ground at an oil field, it needs to be moved to a refinery where it can be turned into useful things like gasoline. The most common way to move oil is through pipelines. Pipelines are big tubes that go under the ground or under the sea. They can carry oil for hundreds or even thousands of miles from the oil field to the refinery. Pipelines are good because they can move a lot of oil at once and they are usually safe.
+After oil is pumped out of the ground at an oil field, it needs to be moved to a refinery where it can be turned into useful things like gasoline. The most common way to move oil is through pipelines. Pipelines are big tubes that go under the ground or under the sea. They can [carry](/wiki/carry-trading) oil for hundreds or even thousands of miles from the oil field to the refinery. Pipelines are good because they can move a lot of oil at once and they are usually safe.
 
 Another way to transport oil is by using trucks, trains, or ships. Trucks and trains are used when the oil needs to go a shorter distance or when pipelines are not available. Ships are used to move oil across oceans. They carry oil in big tanks called tankers. Using trucks, trains, and ships can be more flexible than pipelines, but it can also be slower and sometimes more expensive. No matter which way is used, the goal is always the same: to get the oil to the refinery so it can be made into things we use every day.
 
@@ -90,7 +90,7 @@ Another trend in oil field management is using more technology to make things ea
 
 Geman, H. (2005). _Commodities and Commodity Derivatives_. This book offers insights into the trading of commodities and financial derivatives. It covers pricing strategies, risk management, and the unique aspects of commodity trading, providing a foundational understanding that is crucial for participants in energy markets. It serves as a valuable resource for understanding how the complexities of commodity markets intersect with financial trading.
 
-Lopez de Prado, M. (2018). _Advances in Financial Machine Learning_. This work presents cutting-edge techniques in machine learning applied to finance, influencing modern algorithmic trading strategies. The application of these machine learning models in the energy sector helps in optimizing trading strategies by analyzing large sets of data to identify trends and patterns that human traders might overlook.
+Lopez de Prado, M. (2018). _Advances in Financial Machine Learning_. This work presents cutting-edge techniques in [machine learning](/wiki/machine-learning) applied to finance, influencing modern [algorithmic trading](/wiki/algorithmic-trading) strategies. The application of these machine learning models in the energy sector helps in optimizing trading strategies by analyzing large sets of data to identify trends and patterns that human traders might overlook.
 
 The European Securities and Markets Authority (ESMA) offers guidelines and regulatory frameworks essential for maintaining market integrity. The introduction of MiFID II has significantly impacted algorithmic trading by enforcing stricter transparency and reporting standards, thereby reducing risks associated with high-frequency trading and market manipulation.
 

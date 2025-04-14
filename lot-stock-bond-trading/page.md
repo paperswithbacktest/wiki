@@ -22,7 +22,7 @@ Second, the lot size can also affect how quickly you can buy or sell. If you're 
 
 ## What is the difference between a standard lot, a mini lot, and a micro lot?
 
-In trading, a standard lot, a mini lot, and a micro lot are different sizes of trades that you can make. A standard lot is the biggest of the three and is usually 100,000 units of the currency you're trading. For example, if you're trading the US dollar, a standard lot would be $100,000. This size is common in forex trading and can also apply to stocks, where a standard lot is 100 shares.
+In trading, a standard lot, a mini lot, and a micro lot are different sizes of trades that you can make. A standard lot is the biggest of the three and is usually 100,000 units of the currency you're trading. For example, if you're trading the US dollar, a standard lot would be $100,000. This size is common in [forex](/wiki/forex-system) trading and can also apply to stocks, where a standard lot is 100 shares.
 
 A mini lot is smaller than a standard lot and is usually 10,000 units of the currency. So, if you're trading the US dollar, a mini lot would be $10,000. This size is good for people who want to trade but don't want to risk as much money as they would with a standard lot. A micro lot is even smaller, usually 1,000 units of the currency. For the US dollar, that would be $1,000. Micro lots are great for beginners or for people who want to trade with very small amounts of money. Each of these lot sizes can affect how much you might gain or lose in a trade, so it's important to choose the right size for your trading goals and risk level.
 
@@ -42,7 +42,7 @@ Another advantage of trading larger lots is that it can be faster and easier to 
 
 Trading in larger lots can be riskier because you're putting more money on the line. If the price of what you're trading goes down, you could lose a lot more money than if you were trading smaller lots. This means you need to be careful and make sure you can handle the risk before you start trading big amounts. It's like betting more money in a game - if you win, you win big, but if you lose, you lose big too.
 
-Another risk is that trading larger lots can make your money go up and down a lot more. This is called volatility. When you trade more, even small changes in the price can make a big difference in how much money you have. This can be stressful and might make it hard to stick to your trading plan. So, it's important to think about how much risk you're okay with before you decide to trade in larger lots.
+Another risk is that trading larger lots can make your money go up and down a lot more. This is called [volatility](/wiki/volatility-trading-strategies). When you trade more, even small changes in the price can make a big difference in how much money you have. This can be stressful and might make it hard to stick to your trading plan. So, it's important to think about how much risk you're okay with before you decide to trade in larger lots.
 
 ## How do lot sizes influence leverage in trading?
 
@@ -60,11 +60,11 @@ Customizing lot sizes can be really helpful. It lets you trade exactly what you 
 
 When choosing lot sizes, it's important to think about how much risk you're okay with. If you're new to trading or don't want to risk a lot of money, you might want to start with smaller lot sizes like mini or micro lots. These let you trade with less money, so if the trade goes wrong, you won't lose as much. But if you're more experienced and can handle bigger risks, trading in standard lots might be better. This can help you make more money if your trades are successful, but you need to be ready for bigger losses if things don't go your way.
 
-Another thing to consider is your trading goals and how much money you have to trade with. If you're trying to grow your money slowly and steadily, smaller lot sizes can help you do that without risking too much at once. But if you're aiming for bigger gains and can afford to trade more, larger lot sizes might help you reach your goals faster. Also, think about the costs of trading. Smaller or odd lot sizes can sometimes cost more because of extra fees or bigger price differences. So, it's a good idea to balance your risk, goals, and costs when picking the right lot size for your trades.
+Another thing to consider is your trading goals and how much money you have to trade with. If you're trying to grow your money slowly and steadily, smaller lot sizes can help you do that without risking too much at once. But if you're aiming for bigger gains and can afford to trade more, larger lot sizes might help you reach your goals faster. Also, think about the costs of trading. Smaller or odd lot sizes can sometimes cost more because of extra fees or bigger price differences. So, it's a good idea to balance your risk, goals, and costs when [picking](/wiki/asset-class-picking) the right lot size for your trades.
 
 ## How do lot sizes affect the liquidity of a trade?
 
-Lot sizes can change how easy it is to buy or sell something quickly, which is called liquidity. When you trade in standard lots, like 100 shares of a stock or $100,000 in forex, it's usually easier to find someone to trade with. This is because a lot of people are trading in these sizes, so there's more activity in the market. This means you can get in and out of your trades faster, which is good if you need to act quickly.
+Lot sizes can change how easy it is to buy or sell something quickly, which is called [liquidity](/wiki/liquidity-risk-premium). When you trade in standard lots, like 100 shares of a stock or $100,000 in forex, it's usually easier to find someone to trade with. This is because a lot of people are trading in these sizes, so there's more activity in the market. This means you can get in and out of your trades faster, which is good if you need to act quickly.
 
 On the other hand, if you choose to trade smaller lots, like mini or micro lots, it might be harder to find someone to trade with right away. Fewer people are trading these smaller amounts, so the market might not be as active. This can make it take longer to complete your trade, and you might not get the best price. So, choosing the right lot size can help you make sure your trades are as smooth and quick as possible.
 
@@ -82,15 +82,15 @@ Another thing professional traders do is watch the liquidity of the market. If t
 
 ## What are the strategies and techniques used in algorithmic trading?
 
-Algorithmic trading strategies offer a diverse array of techniques for automated trading, each catering to different market dynamics. These strategies can leverage market trends, arbitrage opportunities, or technical analysis, allowing for tailored approaches to trading.
+Algorithmic trading strategies offer a diverse array of techniques for automated trading, each catering to different market dynamics. These strategies can leverage market trends, [arbitrage](/wiki/arbitrage) opportunities, or technical analysis, allowing for tailored approaches to trading.
 
-Trend-following strategies are some of the most recognized in algorithmic trading. These rely on mathematical indicators such as moving averages to inform decisions on when to buy or sell assets. By analyzing price movements over time, these strategies aim to capitalize on persistent trends, assuming that asset prices tend to move along established paths. For example, a simple moving average (SMA) strategy might involve buying an asset when its 50-day moving average crosses above its 200-day moving average, known as a "golden cross".
+Trend-following strategies are some of the most recognized in [algorithmic trading](/wiki/algorithmic-trading). These rely on mathematical indicators such as moving averages to inform decisions on when to buy or sell assets. By analyzing price movements over time, these strategies aim to capitalize on persistent trends, assuming that asset prices tend to move along established paths. For example, a simple moving average (SMA) strategy might involve buying an asset when its 50-day moving average crosses above its 200-day moving average, known as a "golden cross".
 
 Arbitrage strategies focus on capitalizing on price discrepancies of the same asset across different markets. The core objective is to execute simultaneous buy and sell orders in separate markets to ensure a risk-free profit. For instance, if a stock is priced lower on one exchange compared to another, an arbitrage algorithm would buy the stock on the cheaper exchange and sell it on the pricier one, often within milliseconds, to lock in profit before the prices converge.
 
 More advanced algorithmic techniques include mean reversion, Volume Weighted Average Price (VWAP), and Time Weighted Average Price (TWAP). Mean reversion strategies are predicated on the statistical assumption that the price of an asset will revert to its historical average. Traders using this strategy might sell assets when prices are above their historical averages and buy when they are below.
 
-VWAP and TWAP strategies are particularly useful for executing large orders without causing significant market impact. VWAP aims to execute orders at prices that match the volume-weighted average price of the assets throughout the day. It is calculated using:
+VWAP and TWAP strategies are particularly useful for executing large orders without causing significant market impact. VWAP aims to execute orders at prices that match the [volume](/wiki/volume-trading-strategy)-weighted average price of the assets throughout the day. It is calculated using:
 
 $$
 VWAP = \frac{\sum_{i} (P_i \times Q_i)}{\sum_{i} Q_i}

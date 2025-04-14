@@ -102,7 +102,7 @@ Each component in the trade price mechanism works in tandem to reflect the curre
 
 ## What are the challenges and considerations?
 
-Algorithmic trading, despite its numerous advantages, presents several challenges and considerations that traders must address to ensure success. One of the primary risks associated with algorithmic trading is over-optimization. This occurs when an algorithm is overly fine-tuned to the past market data, resulting in a strategy that may not perform well under future market conditions. Overfitting in the context of machine learning can be mathematically expressed as:
+Algorithmic trading, despite its numerous advantages, presents several challenges and considerations that traders must address to ensure success. One of the primary risks associated with [algorithmic trading](/wiki/algorithmic-trading) is over-optimization. This occurs when an algorithm is overly fine-tuned to the past market data, resulting in a strategy that may not perform well under future market conditions. Overfitting in the context of [machine learning](/wiki/machine-learning) can be mathematically expressed as:
 
 $$
 \text{Model Error} = \text{Bias}^2 + \text{Variance} + \text{Irreducible Error}

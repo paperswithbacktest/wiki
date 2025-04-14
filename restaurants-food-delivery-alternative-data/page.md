@@ -18,7 +18,7 @@ For example, a restaurant might use alternative data to see what dishes are popu
 
 Alternative data can help food industry businesses understand what customers like and don't like. For example, by looking at social media posts and online reviews, restaurants can see which dishes are popular and which ones people complain about. They can also see what times of day people are talking about food, which can help them decide when to offer special deals or promotions. This kind of information can help restaurants make their menus better and attract more customers.
 
-Another way alternative data helps is by tracking how many people are visiting a restaurant. Using satellite images or mobile phone data, businesses can see how busy their restaurant is at different times. This can tell them if they need more staff during busy times or if they should change their hours. By understanding these patterns, restaurants can make their operations smoother and give customers a better experience.
+Another way [alternative data](/wiki/best-alternative-data) helps is by tracking how many people are visiting a restaurant. Using satellite images or mobile phone data, businesses can see how busy their restaurant is at different times. This can tell them if they need more staff during busy times or if they should change their hours. By understanding these patterns, restaurants can make their operations smoother and give customers a better experience.
 
 Overall, alternative data gives food industry businesses a lot of useful information that they can't get from traditional sources. It helps them see what customers really want and how they can improve their service. By using this data, restaurants can make smarter decisions and stay ahead of their competition.
 
@@ -76,7 +76,7 @@ Using this information, food delivery services can plan better. They can make su
 
 ## What advanced techniques are available for processing large volumes of alternative data in the food industry?
 
-To handle large amounts of alternative data in the food industry, businesses can use something called machine learning. This is a type of computer program that can learn from the data it sees. For example, it can look at thousands of social media posts and figure out which foods people are talking about the most. It can also see if people are happy or unhappy with the food they get. This helps restaurants know what to put on their menus and how to make their customers happier.
+To handle large amounts of alternative data in the food industry, businesses can use something called [machine learning](/wiki/machine-learning). This is a type of computer program that can learn from the data it sees. For example, it can look at thousands of social media posts and figure out which foods people are talking about the most. It can also see if people are happy or unhappy with the food they get. This helps restaurants know what to put on their menus and how to make their customers happier.
 
 Another technique is called natural language processing (NLP). This helps computers understand what people are saying in their social media posts or online reviews. It can tell if someone is excited about a new dish or if they are complaining about the service. By using NLP, food businesses can quickly go through a lot of information and find out what people really think. This makes it easier for them to make changes and improve their service based on what customers want.
 

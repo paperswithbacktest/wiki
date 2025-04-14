@@ -60,7 +60,7 @@ The reliability of triple top and bottom patterns can depend on a few things. Ho
 
 When trading based on triple top patterns, it's important to wait for the pattern to be confirmed before making any moves. A triple top is confirmed when the price drops below the lowest point between the three peaks. This drop shows that the price might keep going down, so it could be a good time to sell or get ready for a price drop. Don't rush into selling just because you see three peaks; make sure the price breaks the support level first.
 
-Using other tools and signs along with the triple top pattern can help you make better guesses about what might happen next. Look at things like trading volume, other chart patterns, and technical indicators to see if they agree with what the triple top is telling you. If everything points in the same direction, you can feel more sure about your trading decision. Remember, the market can be tricky, so always be ready for surprises and have a plan for what to do if things don't go as expected.
+Using other tools and signs along with the triple top pattern can help you make better guesses about what might happen next. Look at things like trading [volume](/wiki/volume-trading-strategy), other chart patterns, and technical indicators to see if they agree with what the triple top is telling you. If everything points in the same direction, you can feel more sure about your trading decision. Remember, the market can be tricky, so always be ready for surprises and have a plan for what to do if things don't go as expected.
 
 ## What are the best practices for trading based on triple bottom patterns?
 

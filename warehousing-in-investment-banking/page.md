@@ -42,7 +42,7 @@ Another risk is that the bank might not be able to sell the assets at all if the
 
 ## How do investment banks use warehousing to manage liquidity?
 
-Investment banks use warehousing to manage their liquidity by temporarily holding onto financial assets like loans or securities. Instead of selling these assets right away, the bank keeps them in a kind of digital storage. This helps the bank control when it sells these assets, so it can wait for the best time to get the most money. By doing this, the bank can make sure it has enough cash on hand to do other important things, like giving out new loans or paying its bills.
+Investment banks use warehousing to manage their [liquidity](/wiki/liquidity-risk-premium) by temporarily holding onto financial assets like loans or securities. Instead of selling these assets right away, the bank keeps them in a kind of digital storage. This helps the bank control when it sells these assets, so it can wait for the best time to get the most money. By doing this, the bank can make sure it has enough cash on hand to do other important things, like giving out new loans or paying its bills.
 
 If the bank sells all its assets too quickly, it might run out of things to sell and not have enough money coming in. By using warehousing, the bank can spread out its sales over time. This way, it can keep a steady flow of cash coming in, which helps it stay liquid and ready to handle any new business opportunities or unexpected expenses. So, warehousing is a smart way for investment banks to manage their money and make sure they always have enough cash to keep things running smoothly.
 

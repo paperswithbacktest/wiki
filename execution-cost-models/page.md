@@ -66,7 +66,7 @@ Another example is from a cloud computing company that wanted to save money on r
 
 ## What advanced techniques are used to refine execution cost models?
 
-One advanced technique to make execution cost models better is called machine learning. This means using computers to look at a lot of data about how programs run on different machines. The computer learns from this data and can then guess how a new program will run. This helps make the model more accurate because it can think about all the little differences between computers. Another technique is called profiling, which is like taking a close look at a program while it's running. By watching how the program uses time, memory, and energy, people can find spots where it's not working as well as it could. They can then use this information to make the model more exact and help improve the program.
+One advanced technique to make execution cost models better is called [machine learning](/wiki/machine-learning). This means using computers to look at a lot of data about how programs run on different machines. The computer learns from this data and can then guess how a new program will run. This helps make the model more accurate because it can think about all the little differences between computers. Another technique is called profiling, which is like taking a close look at a program while it's running. By watching how the program uses time, memory, and energy, people can find spots where it's not working as well as it could. They can then use this information to make the model more exact and help improve the program.
 
 Another way to refine execution cost models is by using simulation. This means making a pretend computer on a real computer and running the program on it. By changing things in the pretend computer, like the speed of the processor or the amount of memory, people can see how the program would run on different real computers. This helps them make the model more accurate for all sorts of hardware. Also, some people use a technique called benchmarking, which means running the same program on many different computers and comparing the results. This helps them see how hardware differences affect the program's costs and make the model better at guessing these costs.
 
@@ -84,7 +84,7 @@ Another trend is that execution cost models will become more important in cloud 
 
 ## What are the components of execution costs?
 
-Understanding execution costs is essential for the optimization of algorithmic trading strategies. These costs can be divided into explicit and implicit components, each significantly affecting trading outcomes.
+Understanding execution costs is essential for the optimization of [algorithmic trading](/wiki/algorithmic-trading) strategies. These costs can be divided into explicit and implicit components, each significantly affecting trading outcomes.
 
 Firstly, brokerage fees represent explicit costs that traders incur as compensation to brokers for facilitating trade executions. These fees can vary based on the brokerage service used and the type of asset being traded. As traders execute more trades or increase volumes, brokerage fees can become a substantial cost element, influencing overall profitability.
 

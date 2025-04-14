@@ -22,7 +22,7 @@ Some key features of Trezor include that it's very easy to use, even if you're n
 
 ## What is Ledger and what are its key features?
 
-Ledger is another popular brand of hardware wallet that helps you keep your cryptocurrencies safe. It's a small device that you can carry around, and it keeps your digital money offline, away from hackers. You can connect it to your computer or phone to manage your cryptocurrencies, but the actual money stays safe on the Ledger itself.
+Ledger is another popular brand of hardware wallet that helps you keep your cryptocurrencies safe. It's a small device that you can [carry](/wiki/carry-trading) around, and it keeps your digital money offline, away from hackers. You can connect it to your computer or phone to manage your cryptocurrencies, but the actual money stays safe on the Ledger itself.
 
 One of the key features of Ledger is that it's easy to use, even if you're new to cryptocurrencies. You just plug it in, and you can send and receive money easily. Ledger also supports many different types of cryptocurrencies, so you can keep all your digital money in one place. Another important feature is that Ledger has strong security measures. It uses a special code called a PIN to keep your money safe, and if someone tries to guess it too many times, the device will lock itself to protect your funds.
 
@@ -44,7 +44,7 @@ In terms of the software used to manage your cryptocurrencies, both Trezor and L
 
 ## How do Trezor and Ledger handle different cryptocurrencies and tokens?
 
-Trezor and Ledger both support many different cryptocurrencies and tokens. Trezor can work with popular ones like Bitcoin, Ethereum, and Litecoin, and it also supports many other tokens built on these networks. If you want to use a new cryptocurrency, you might need to update your Trezor's software to add support for it. Trezor keeps its list of supported cryptocurrencies up to date, so you can usually find what you need.
+Trezor and Ledger both support many different cryptocurrencies and tokens. Trezor can work with popular ones like Bitcoin, Ethereum, and Litecoin, and it also supports many other tokens built on these networks. If you want to use a new [cryptocurrency](/wiki/cryptocurrency), you might need to update your Trezor's software to add support for it. Trezor keeps its list of supported cryptocurrencies up to date, so you can usually find what you need.
 
 Ledger also supports a wide range of cryptocurrencies and tokens, including Bitcoin, Ethereum, and Litecoin, along with many others. Like Trezor, Ledger needs software updates to add support for new cryptocurrencies. One thing that makes Ledger different is that it has its own app, Ledger Live, which lets you manage and trade some cryptocurrencies directly from the app. This can make it easier to use different types of digital money with Ledger.
 

@@ -18,7 +18,7 @@ TIPS pay interest twice a year, but the interest rate is applied to the adjusted
 
 TIPS help protect against inflation by adjusting the bond's principal value based on the Consumer Price Index (CPI). The CPI measures inflation, so if prices go up, the principal of your TIPS goes up too. This means your investment grows along with inflation, keeping its real value.
 
-When you own TIPS, you get interest payments twice a year. The interest rate stays the same, but it's applied to the new, adjusted principal. So, if inflation causes the principal to increase, your interest payments will be larger too. This way, TIPS help make sure your money keeps up with rising costs.
+When you own TIPS, you get interest payments twice a year. The [interest rate](/wiki/interest-rate-trading-strategies) stays the same, but it's applied to the new, adjusted principal. So, if inflation causes the principal to increase, your interest payments will be larger too. This way, TIPS help make sure your money keeps up with rising costs.
 
 At the end of the bond's term, you get back the adjusted principal. If there was inflation during the time you held the bond, the principal you get back will be higher than what you originally invested. This helps protect the purchasing power of your money against inflation.
 

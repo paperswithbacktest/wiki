@@ -22,7 +22,7 @@ Sometimes, other things can affect Treasury bond interest rates too. For example
 
 ## What factors influence Treasury bond interest rates?
 
-Treasury bond interest rates are influenced by how much people want to buy them and how much the government wants to borrow. When the government holds an auction for these bonds, investors bid on them. If lots of people want to buy the bonds, the interest rate can be lower because the government doesn't have to offer as much to attract buyers. On the other hand, if not many people want to buy the bonds, the government might have to offer a higher interest rate to get people interested.
+Treasury bond interest rates are influenced by how much people want to buy them and how much the government wants to borrow. When the government holds an auction for these bonds, investors bid on them. If lots of people want to buy the bonds, the [interest rate](/wiki/interest-rate-trading-strategies) can be lower because the government doesn't have to offer as much to attract buyers. On the other hand, if not many people want to buy the bonds, the government might have to offer a higher interest rate to get people interested.
 
 Other things can affect Treasury bond interest rates too. For example, if people think the economy is going to grow a lot, they might want higher interest rates to make up for the risk of inflation. If the economy is not doing well, people might be okay with lower interest rates because they want a safe place to keep their money. Also, what the Federal Reserve does with its own interest rates can influence Treasury bond rates. If the Federal Reserve raises its rates, Treasury bond rates might go up too.
 
@@ -82,7 +82,7 @@ Another type of model that is used is called a vector autoregression (VAR) model
 
 ## What is the Bond Market and How Can We Understand It?
 
-The bond market, an integral part of the financial ecosystem, is larger in terms of volume compared to the stock market. It serves as a platform where debt securities are issued and traded, providing a range of opportunities for investors seeking income and capital preservation. Bonds are essentially loans made by investors to borrowers, typically governments or corporations, who use these funds for various purposes, such as infrastructure projects or business expansion.
+The bond market, an integral part of the financial ecosystem, is larger in terms of [volume](/wiki/volume-trading-strategy) compared to the stock market. It serves as a platform where debt securities are issued and traded, providing a range of opportunities for investors seeking income and capital preservation. Bonds are essentially loans made by investors to borrowers, typically governments or corporations, who use these funds for various purposes, such as infrastructure projects or business expansion.
 
 ### Types of Bonds
 

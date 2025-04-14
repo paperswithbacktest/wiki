@@ -28,7 +28,7 @@ After a few years, Richard Dennis started trading on his own. He used the money 
 
 ## What were the key principles of the Turtle Trading system?
 
-The Turtle Trading system was all about following strict rules and being disciplined. Richard Dennis taught his Turtles to use something called the "breakout" strategy. This means they looked for times when the price of a commodity moved outside of its usual range. If the price broke out to the upside, they would buy. If it broke out to the downside, they would sell. They also used something called the "ATR," or Average True Range, to figure out how much to trade. This helped them manage their risk and not lose too much money on any one trade.
+The Turtle Trading system was all about following strict rules and being disciplined. Richard Dennis taught his Turtles to use something called the "[breakout](/wiki/breakout-trading)" strategy. This means they looked for times when the price of a commodity moved outside of its usual range. If the price broke out to the upside, they would buy. If it broke out to the downside, they would sell. They also used something called the "ATR," or Average True Range, to figure out how much to trade. This helped them manage their risk and not lose too much money on any one trade.
 
 Another important part of the Turtle Trading system was knowing when to get out of a trade. The Turtles used two types of stops: a stop loss to limit their losses, and a trailing stop to lock in profits as the price moved in their favor. They also had rules about how much of their money to risk on each trade. This was called their "position sizing." By following these rules, the Turtles could trade without letting their emotions get in the way. The system was all about sticking to the plan and not trying to guess what the market would do next.
 
@@ -82,7 +82,7 @@ Another lesson is about managing risk. The Turtle Trading system used things lik
 
 ## What are the Key Principles of the Turtle Trading Strategy?
 
-The Turtle Trading Strategy is a renowned trend-following system devised by Richard Dennis and William Eckhardt. It is primarily focused on capitalizing on long-term market movements through disciplined, rule-based approaches. One of the core elements of the strategy is position sizing, which is intricately tied to market volatility. Traders using the Turtle strategy typically employ the Average True Range (ATR) as a volatility measure to determine the size of their positions. The formula for calculating ATR is as follows:
+The Turtle Trading Strategy is a renowned trend-following system devised by Richard Dennis and William Eckhardt. It is primarily focused on capitalizing on long-term market movements through disciplined, rule-based approaches. One of the core elements of the strategy is position sizing, which is intricately tied to market [volatility](/wiki/volatility-trading-strategies). Traders using the Turtle strategy typically employ the Average True Range (ATR) as a volatility measure to determine the size of their positions. The formula for calculating ATR is as follows:
 
 $$
 \text{ATR}_n = \frac{1}{n} \sum_{i=1}^{n} \text{TR}_i

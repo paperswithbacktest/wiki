@@ -42,7 +42,7 @@ If the market has been going down and you see a Tri-Star Pattern, it's called a 
 
 The Tri-Star Pattern can be a helpful sign for traders, but it's not always reliable on its own. It's a rare pattern, which means it doesn't show up very often. When it does appear, it can be a strong hint that the market might be ready to change direction. But because it's so rare, traders should not just rely on it without looking at other signs too.
 
-To make better trading decisions, it's a good idea to use the Tri-Star Pattern along with other tools and indicators. Things like moving averages, volume, and other chart patterns can help confirm if the Tri-Star Pattern is really signaling a change in the market trend. By using more than one tool, traders can feel more confident about their decisions and avoid making big mistakes based on just one signal.
+To make better trading decisions, it's a good idea to use the Tri-Star Pattern along with other tools and indicators. Things like moving averages, [volume](/wiki/volume-trading-strategy), and other chart patterns can help confirm if the Tri-Star Pattern is really signaling a change in the market trend. By using more than one tool, traders can feel more confident about their decisions and avoid making big mistakes based on just one signal.
 
 ## What are the best practices for confirming a Tri-Star Pattern?
 

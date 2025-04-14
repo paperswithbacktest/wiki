@@ -34,7 +34,7 @@ Another context where you might hear 'at a premium' is in the world of investmen
 
 ## What factors contribute to a product or service being priced at a premium?
 
-Several factors can make a product or service be priced at a premium. One big reason is high demand. When a lot of people want something, but there isn't enough of it to go around, the price can go up. For example, if a new toy is really popular and stores can't keep it in stock, people might be willing to pay more to get it. Another factor is rarity. If something is hard to find or only made in small numbers, like a limited edition sneaker, it can be sold at a premium because it's special and not everyone can have it.
+Several factors can make a product or service be priced at a premium. One big reason is high demand. When a lot of people want something, but there isn't enough of it to go around, the price can go up. For example, if a new toy is really popular and stores can't keep it in stock, people might be willing to pay more to get it. Another [factor](/wiki/factor-investing) is rarity. If something is hard to find or only made in small numbers, like a limited edition sneaker, it can be sold at a premium because it's special and not everyone can have it.
 
 Another reason for premium pricing is the perceived value of the product or service. If people think something is really good or high quality, they might be willing to pay more for it. For instance, a fancy restaurant might charge more for its meals because people believe the food and service are worth the extra cost. Brand reputation also plays a role. If a brand is well-known and trusted, like a famous designer, their products can be sold at a premium because people are willing to pay more for the name and the quality they expect from it.
 
@@ -94,7 +94,7 @@ $$
 
 where $R$ is the return of the portfolio, $R_f$ is the risk-free rate, $\beta$ is the beta of the portfolio, and $R_m$ is the return of the market.
 
-Beta (β) assesses the volatility or systematic risk of a security or portfolio in relation to the overall market. A beta greater than one indicates higher volatility and thus higher risk than the market, while a beta less than one indicates lower volatility. This measure helps traders understand market risk exposure and adjust strategies accordingly. The formula for calculating beta is:
+Beta (β) assesses the [volatility](/wiki/volatility-trading-strategies) or systematic risk of a security or portfolio in relation to the overall market. A beta greater than one indicates higher volatility and thus higher risk than the market, while a beta less than one indicates lower volatility. This measure helps traders understand market risk exposure and adjust strategies accordingly. The formula for calculating beta is:
 
 $$
 \beta = \frac{\text{Cov}(R_i, R_m)}{\text{Var}(R_m)}
@@ -108,7 +108,7 @@ Understanding these terms allows algorithmic traders to refine their strategies 
 
 ## What is the impact of premium prices on algo trading?
 
-Premium prices can significantly influence the effectiveness of algorithmic trading strategies by impacting the balance between expected returns and actual costs. When assets are traded at high premiums—prices exceeding their intrinsic value—traders may face challenges in maintaining profitability. This scenario requires a recalibration of algorithms to account for additional costs introduced by premium pricing.
+Premium prices can significantly influence the effectiveness of [algorithmic trading](/wiki/algorithmic-trading) strategies by impacting the balance between expected returns and actual costs. When assets are traded at high premiums—prices exceeding their intrinsic value—traders may face challenges in maintaining profitability. This scenario requires a recalibration of algorithms to account for additional costs introduced by premium pricing.
 
 For instance, if an algorithm anticipates an asset's intrinsic value as $V$, and the asset is trading at a premium $P$, the market price $M$ can be represented as:
 

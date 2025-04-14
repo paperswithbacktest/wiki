@@ -18,7 +18,7 @@ Rectangles are very common in everyday life. You can see them in windows, doors,
 
 A rectangle and a square are both shapes with four sides and four corners. The main difference is that in a square, all four sides are the same length. In a rectangle, the sides come in pairs: two sides are long and two sides are short. So, a square is a special kind of rectangle where all the sides are equal.
 
-Another difference is how we use these shapes. Squares are often used when we need equal space on all sides, like in tiles or game boards. Rectangles are used more often in things like doors, windows, and books, where the length and width can be different. Both shapes are useful, but they fit different needs because of their side lengths.
+Another difference is how we use these shapes. Squares are often used when we need equal space on all sides, like in tiles or game boards. Rectangles are used more often in things like doors, windows, and [books](/wiki/algo-trading-books), where the length and width can be different. Both shapes are useful, but they fit different needs because of their side lengths.
 
 ## What are the basic properties of a rectangle?
 

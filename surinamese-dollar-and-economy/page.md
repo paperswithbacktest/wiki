@@ -30,7 +30,7 @@ If you want to know the exact rate right now, you should check a website that gi
 
 The value of the Surinamese Dollar is affected by many things, like how much people want to buy and sell it, how the economy of Suriname is doing, and what the government does with money. If more people want to buy the Surinamese Dollar, its value can go up. But if fewer people want it, its value can go down. The economy of Suriname is important too. If the country is making and selling more things, the Surinamese Dollar might become stronger. But if the economy is not doing well, the currency can lose value.
 
-Another big factor is what the government does with money. If the government prints too much money, it can make the Surinamese Dollar worth less because there is more of it around. Also, if Suriname borrows a lot of money from other countries or if it has a lot of debt, this can make the Surinamese Dollar weaker. The value of the Surinamese Dollar can also change based on what is happening with other countries' money, like the US Dollar. If the US Dollar gets stronger, the Surinamese Dollar might get weaker compared to it.
+Another big [factor](/wiki/factor-investing) is what the government does with money. If the government prints too much money, it can make the Surinamese Dollar worth less because there is more of it around. Also, if Suriname borrows a lot of money from other countries or if it has a lot of debt, this can make the Surinamese Dollar weaker. The value of the Surinamese Dollar can also change based on what is happening with other countries' money, like the US Dollar. If the US Dollar gets stronger, the Surinamese Dollar might get weaker compared to it.
 
 ## How has the Surinamese Dollar performed historically against major currencies?
 

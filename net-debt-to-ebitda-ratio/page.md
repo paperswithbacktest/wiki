@@ -165,7 +165,7 @@ ratio = calculate_net_debt_to_ebitda(total_debt, cash_equivalents, ebitda)
 print(f"Net Debt-to-EBITDA Ratio: {ratio:.2f}")
 ```
 
-This calculation and analysis help in making informed decisions regarding investments, potential credit risks, and strategizing debt management plans. It is a key [factor](/wiki/factor-investing) in making strategic trading decisions, especially in algorithmic trading platforms that rely heavily on quantitative metrics.
+This calculation and analysis help in making informed decisions regarding investments, potential credit risks, and strategizing debt management plans. It is a key [factor](/wiki/factor-investing) in making strategic trading decisions, especially in [algorithmic trading](/wiki/algorithmic-trading) platforms that rely heavily on quantitative metrics.
 
 ## References & Further Reading
 

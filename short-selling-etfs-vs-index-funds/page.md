@@ -22,7 +22,7 @@ Index funds are similar to ETFs because they also aim to match the performance o
 
 ## Can you short sell ETFs, and if so, how?
 
-Yes, you can short sell ETFs, just like you can with individual stocks. To do this, you need to borrow the ETF shares from someone else, usually through a broker. Once you have borrowed the shares, you sell them on the market at the current price. Your hope is that the price of the ETF will go down. If it does, you can buy the ETF shares back at a lower price, return them to the person you borrowed them from, and keep the difference as your profit.
+Yes, you can short sell ETFs, just like you can with individual stocks. To do this, you need to borrow the [ETF](/wiki/etf-trading-strategies) shares from someone else, usually through a broker. Once you have borrowed the shares, you sell them on the market at the current price. Your hope is that the price of the ETF will go down. If it does, you can buy the ETF shares back at a lower price, return them to the person you borrowed them from, and keep the difference as your profit.
 
 However, short selling ETFs can be risky. If the price of the ETF goes up instead of down, you will lose money. You'll have to buy the shares back at a higher price to return them, which means you'll lose the difference between the price you sold them for and the higher price you had to pay to buy them back. It's like betting that the ETF will decrease in value, which can be tricky and lead to big losses if you're wrong.
 
@@ -48,7 +48,7 @@ Another big risk is that if the market goes up instead of down, you lose money. 
 
 ## How does the liquidity of ETFs affect short selling?
 
-The liquidity of ETFs can really affect how easy or hard it is to short sell them. Liquidity means how easily you can buy or sell something without changing its price too much. If an ETF is very liquid, it means lots of people are buying and selling it, so it's easier to find someone to borrow the ETF from when you want to short sell it. You can also sell the borrowed ETF and later buy it back to return it without worrying too much about the price moving a lot.
+The [liquidity](/wiki/liquidity-risk-premium) of ETFs can really affect how easy or hard it is to short sell them. Liquidity means how easily you can buy or sell something without changing its price too much. If an ETF is very liquid, it means lots of people are buying and selling it, so it's easier to find someone to borrow the ETF from when you want to short sell it. You can also sell the borrowed ETF and later buy it back to return it without worrying too much about the price moving a lot.
 
 But if an ETF is not very liquid, it can be harder to short sell. It might be tough to find someone willing to lend you the ETF, and when you try to sell it, you might not get a good price because not many people are trading it. Also, when you want to buy it back to return it, the price might have changed a lot because there aren't many buyers or sellers. This can make short selling riskier and more expensive, especially if the ETF's price moves a lot in the wrong direction while you're waiting to buy it back.
 

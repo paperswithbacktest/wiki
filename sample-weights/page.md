@@ -54,7 +54,7 @@ One way to use sample weights for imbalanced datasets is to change the loss func
 
 Using sample weights in survey data can be tricky because it's hard to know the exact makeup of the whole population. Sometimes, we don't have good numbers on how many people are in each group we're studying. If we guess wrong, the weights we use might not fix the problem of some groups being underrepresented. Also, if the survey doesn't reach all parts of the population equally, the weights might not help much. For example, if certain people are less likely to answer the survey, like older people or those who live in certain areas, the weights can't fix that problem completely.
 
-Another challenge is that using sample weights can make the analysis more complicated. When you add weights to your data, it can change how you do your math and statistics. This can make it harder to understand the results and can sometimes lead to bigger errors if the weights are not used right. Also, some software might not handle weights well, so you need to be careful about which tools you use. It's important to check and double-check your work to make sure the weights are helping, not hurting, your analysis.
+Another challenge is that using sample weights can make the analysis more complicated. When you add weights to your data, it can change how you do your math and [statistics](/wiki/bayesian-statistics). This can make it harder to understand the results and can sometimes lead to bigger errors if the weights are not used right. Also, some software might not handle weights well, so you need to be careful about which tools you use. It's important to check and double-check your work to make sure the weights are helping, not hurting, your analysis.
 
 ## How do you validate the effectiveness of sample weights in a model?
 
@@ -82,7 +82,7 @@ Another trend is using sample weights to improve the accuracy of models that pre
 
 ## What are Sample Weights in Algorithm Design?
 
-In algorithmic trading, sample weights play a pivotal role in refining model predictions by effectively capturing and adjusting for dynamic market conditions. By assigning varying levels of importance to different data points, traders can ensure that their models are responsive to the constantly shifting landscape of financial markets.
+In [algorithmic trading](/wiki/algorithmic-trading), sample weights play a pivotal role in refining model predictions by effectively capturing and adjusting for dynamic market conditions. By assigning varying levels of importance to different data points, traders can ensure that their models are responsive to the constantly shifting landscape of financial markets.
 
 One key technique used in this context is dynamic weight adjustment, which allows models to remain adaptive amidst abrupt changes in market conditions. This is crucial in scenarios where historical data may not fully capture the current market environment. Dynamic adjustments can be accomplished through various methods, one of the most common being time-decay weighting. This approach involves assigning more weight to recent observations, reflecting the assumption that newer data points are more indicative of current trends. Mathematically, time-decay weighting can be expressed as:
 

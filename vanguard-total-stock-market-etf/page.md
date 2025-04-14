@@ -18,13 +18,13 @@ This ETF is popular because it's easy to use and usually has low fees. Instead o
 
 The Vanguard Total Stock Market ETF works by pooling money from many investors to buy a wide range of stocks. It aims to match the performance of the entire U.S. stock market. This means it includes stocks from big companies, small companies, and everything in between. When you buy shares of this ETF, you're essentially buying a tiny piece of all those companies. The fund is managed to keep costs low, so more of your money stays invested and working for you.
 
-The ETF is traded on the stock exchange, just like individual stocks. This means you can buy and sell shares throughout the trading day at the current market price. The price of the ETF goes up and down based on the value of the stocks it holds. Over time, as the U.S. stock market grows, the value of your investment in the ETF is likely to grow too. It's a simple way to invest in the market without having to pick individual stocks, making it a popular choice for people looking to build wealth over the long term.
+The [ETF](/wiki/etf-trading-strategies) is traded on the stock exchange, just like individual stocks. This means you can buy and sell shares throughout the trading day at the current market price. The price of the ETF goes up and down based on the value of the stocks it holds. Over time, as the U.S. stock market grows, the value of your investment in the ETF is likely to grow too. It's a simple way to invest in the market without having to pick individual stocks, making it a popular choice for people looking to build wealth over the long term.
 
 ## What are the benefits of investing in the Vanguard Total Stock Market ETF?
 
 Investing in the Vanguard Total Stock Market ETF has many benefits. One big benefit is that it gives you a lot of variety. Instead of putting all your money into one or a few stocks, you get a piece of almost every stock in the U.S. This helps spread out your risk. If one company does badly, it won't hurt your whole investment because you own so many different stocks.
 
-Another benefit is that it's easy and usually costs less. You don't need to spend a lot of time picking which stocks to buy. You just buy shares of the ETF, and it does the work for you. Plus, Vanguard keeps the fees low, so more of your money stays invested and can grow over time. This makes it a good choice for people who want to invest without a lot of hassle or high costs.
+Another benefit is that it's easy and usually costs less. You don't need to spend a lot of time [picking](/wiki/asset-class-picking) which stocks to buy. You just buy shares of the ETF, and it does the work for you. Plus, Vanguard keeps the fees low, so more of your money stays invested and can grow over time. This makes it a good choice for people who want to invest without a lot of hassle or high costs.
 
 ## What are the risks associated with the Vanguard Total Stock Market ETF?
 

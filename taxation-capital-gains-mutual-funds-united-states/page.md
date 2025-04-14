@@ -40,7 +40,7 @@ If the mutual fund sells an investment it held for more than a year and makes a 
 
 ## Are there any exemptions or deductions available for capital gains from mutual funds?
 
-Yes, there are some ways to reduce the taxes you pay on capital gains from mutual funds. One common way is by using capital losses to offset your gains. If you sell an investment at a loss, you can use that loss to reduce the amount of taxes you owe on your gains. This is called tax-loss harvesting. If your losses are more than your gains, you can even deduct up to $3,000 of the remaining loss from your regular income each year, and carry over any extra to future years.
+Yes, there are some ways to reduce the taxes you pay on capital gains from mutual funds. One common way is by using capital losses to offset your gains. If you sell an investment at a loss, you can use that loss to reduce the amount of taxes you owe on your gains. This is called tax-loss harvesting. If your losses are more than your gains, you can even deduct up to $3,000 of the remaining loss from your regular income each year, and [carry](/wiki/carry-trading) over any extra to future years.
 
 Another way to lower your tax bill is by investing in tax-efficient mutual funds. Some funds, like index funds or exchange-traded funds (ETFs), tend to have fewer capital gains distributions because they trade less often. This can help you keep more of your money. Also, if you hold your mutual funds in a tax-advantaged account like an IRA or 401(k), you won't have to pay taxes on the capital gains until you withdraw the money, and sometimes not even then, depending on the type of account.
 

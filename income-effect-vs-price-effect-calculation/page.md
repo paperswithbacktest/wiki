@@ -146,7 +146,7 @@ The income effect, which describes how changes in consumer income influence the 
 
 Similarly, the price effect, which encompasses both income and substitution effects, can be integrated into trading models to capture nuances of consumer demand in response to price changes. The substitution effect, specifically, implies that consumers may change their consumption patterns based on relative price changes of goods. Algorithms can simulate these consumer behavior patterns to gauge the potential increase or decrease in demand for different asset classes. For example, a decrease in energy prices might lead to an increased demand for energy-dependent goods, which can be anticipated by an algorithm designed to recognize such patterns.
 
-By mathematically modelling these economic effects, trading algorithms can dynamically adjust trading positions. For instance, using regression analysis and machine learning techniques, algorithms can predict the elasticity of demand for various assets. This involves calculating the price elasticity of demand, defined as:
+By mathematically modelling these economic effects, trading algorithms can dynamically adjust trading positions. For instance, using regression analysis and [machine learning](/wiki/machine-learning) techniques, algorithms can predict the elasticity of demand for various assets. This involves calculating the price elasticity of demand, defined as:
 
 $$
 E_d = \frac{\% \text{ change in quantity demanded}}{\% \text{ change in price}}

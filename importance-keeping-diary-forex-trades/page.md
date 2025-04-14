@@ -28,7 +28,7 @@ Another key piece of information to include is your reason for making the trade.
 
 ## How does keeping a trading diary help in tracking progress and performance?
 
-Keeping a trading diary helps you track your progress and performance by giving you a clear record of all your trades. When you write down each trade, you can see how you're doing over time. You can look back at your diary to see if you're making more profits than losses, or if you're getting better at picking the right times to buy and sell. This helps you understand if your trading strategy is working or if you need to change something.
+Keeping a trading diary helps you track your progress and performance by giving you a clear record of all your trades. When you write down each trade, you can see how you're doing over time. You can look back at your diary to see if you're making more profits than losses, or if you're getting better at [picking](/wiki/asset-class-picking) the right times to buy and sell. This helps you understand if your trading strategy is working or if you need to change something.
 
 Your trading diary also shows you patterns in your trading. By looking at your past trades, you might notice that you do better with certain currency pairs or at certain times of the day. You can also see if your emotions, like being too excited or nervous, affect your decisions. Knowing these patterns helps you make smarter trades in the future. Over time, your diary becomes a tool that helps you improve your skills and become a better Forex trader.
 
@@ -64,7 +64,7 @@ Another way advanced traders can use their diary is to check their risk manageme
 
 ## What tools and software are recommended for maintaining an effective Forex trading diary?
 
-For keeping a good Forex trading diary, you can use simple tools like a notebook or a computer document. If you like writing things down by hand, a notebook works great. You can carry it with you and write in it whenever you make a trade. If you prefer using a computer, a simple document like a Word file or a Google Doc can work well. These let you easily add, change, and look back at your trades.
+For keeping a good Forex trading diary, you can use simple tools like a notebook or a computer document. If you like writing things down by hand, a notebook works great. You can [carry](/wiki/carry-trading) it with you and write in it whenever you make a trade. If you prefer using a computer, a simple document like a Word file or a Google Doc can work well. These let you easily add, change, and look back at your trades.
 
 There are also special software and apps made just for trading diaries. Some popular ones are Trading Journal Spreadsheets, Edgewonk, and TraderSync. These tools make it easy to write down your trades and see graphs and reports that show how you're doing. They can help you see patterns and learn from your trades faster. If you want to use these, you might need to pay a bit, but they can be really helpful for keeping track of everything and getting better at trading.
 

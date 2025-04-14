@@ -28,7 +28,7 @@ Another sign of a tight market is that the stock price doesn't change much over 
 
 ## How does a tight market impact trading volume?
 
-In a tight market, the trading volume can be lower than usual. This happens because there isn't a big difference between the price people want to buy a stock for and the price people want to sell it for. When the prices are close together, fewer people feel the need to trade quickly. They might wait for a better time to buy or sell, which means fewer trades happen overall.
+In a tight market, the trading [volume](/wiki/volume-trading-strategy) can be lower than usual. This happens because there isn't a big difference between the price people want to buy a stock for and the price people want to sell it for. When the prices are close together, fewer people feel the need to trade quickly. They might wait for a better time to buy or sell, which means fewer trades happen overall.
 
 Even though the trading volume might be lower, the trades that do happen are usually done quickly. This is because when someone wants to sell their stock, they can usually find a buyer at a similar price right away. So, while there might not be a lot of trading going on, the trades that do happen are smooth and fast. This can make the market feel stable, but it can also make it harder for traders who want to make quick profits.
 
@@ -56,7 +56,7 @@ Even though trading volume might be lower in a tight market, market makers still
 
 In a tight market, there isn't a big difference between the price people want to buy a stock for and the price people want to sell it for. This means the market can be less liquid because fewer people might want to trade. When the prices are close together, people might not feel the need to buy or sell right away. They might wait for a better time, which can make it harder to find someone to trade with quickly.
 
-Even though a tight market can make it harder to trade quickly, market makers help keep things moving. They are always ready to buy or sell stocks at certain prices, which helps keep some level of liquidity in the market. So, while a tight market might make trading a bit slower, market makers make sure there are still people to trade with, which helps keep the market stable and somewhat liquid.
+Even though a tight market can make it harder to trade quickly, market makers help keep things moving. They are always ready to buy or sell stocks at certain prices, which helps keep some level of [liquidity](/wiki/liquidity-risk-premium) in the market. So, while a tight market might make trading a bit slower, market makers make sure there are still people to trade with, which helps keep the market stable and somewhat liquid.
 
 ## What historical examples illustrate the effects of a tight market?
 
@@ -78,7 +78,7 @@ Another important thing to watch is the volume profile. This shows how many shar
 
 ## How can algorithmic trading be adapted for tight market conditions?
 
-In a tight market, where the price of stocks doesn't change much, algorithmic trading needs to be smart and patient. Traders can use algorithms that focus on small price movements. These algorithms can be set up to buy a stock when its price is a little low and sell it when the price goes up just a bit. This is called range trading. The algorithms need to be good at spotting these small changes and making trades quickly. They also need to be patient and wait for the right moments to trade, because in a tight market, there might not be many chances to make big profits.
+In a tight market, where the price of stocks doesn't change much, [algorithmic trading](/wiki/algorithmic-trading) needs to be smart and patient. Traders can use algorithms that focus on small price movements. These algorithms can be set up to buy a stock when its price is a little low and sell it when the price goes up just a bit. This is called range trading. The algorithms need to be good at spotting these small changes and making trades quickly. They also need to be patient and wait for the right moments to trade, because in a tight market, there might not be many chances to make big profits.
 
 Another way to adapt algorithmic trading for a tight market is by using algorithms that can handle a lot of different stocks or other types of investments. This is called diversification. By spreading their money across many stocks, the algorithms can find more chances to make money, even if one stock isn't moving much. These algorithms need to be able to look at a lot of data and make smart decisions about when to buy and sell different stocks. This can help traders make some money even when the market is tight and prices don't change a lot.
 

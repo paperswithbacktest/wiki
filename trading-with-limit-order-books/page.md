@@ -18,7 +18,7 @@ When someone wants to trade, they can look at the limit order book to see what p
 
 A limit order book and a market order are two different ways to trade in the market. A limit order book is like a big list that shows all the buy and sell orders for a certain stock or asset, but these orders have specific prices that people want to trade at. It's split into two parts: one for buy orders (bids) and one for sell orders (asks). When someone places a limit order, it goes into this book and waits until someone else is willing to trade at that price. If a match happens, the trade goes through, and the orders are taken off the book.
 
-On the other hand, a market order is much simpler and quicker. When someone places a market order, they want to buy or sell right away at the best available price in the market. They don't set a specific price; they just want the trade to happen as soon as possible. So, a market order uses the prices that are already in the limit order book to make the trade happen immediately. This means that with a market order, you get the current best price, but you don't control the exact price of the trade.
+On the other hand, a market order is much simpler and quicker. When someone places a market order, they want to buy or sell right away at the best available price in the market. They don't set a specific price; they just want the trade to happen as soon as possible. So, a market order uses the prices that are already in the limit [order book](/wiki/order-book-trading-strategies) to make the trade happen immediately. This means that with a market order, you get the current best price, but you don't control the exact price of the trade.
 
 ## What are the basic components of a limit order book?
 
@@ -40,7 +40,7 @@ Another advantage of limit orders is that they can help you avoid emotional trad
 
 ## How can traders use limit order books to improve their trading strategy?
 
-Traders can use limit order books to improve their trading strategy by getting a clear view of the market. By looking at the limit order book, traders can see all the buy and sell orders that are waiting to be filled. This helps them understand the current demand and supply for a stock or asset. For example, if there are a lot of buy orders at a certain price, it might mean that the price is likely to go up soon. By knowing this, traders can set their limit orders at the right prices to take advantage of these trends.
+Traders can use limit order [books](/wiki/algo-trading-books) to improve their trading strategy by getting a clear view of the market. By looking at the limit order book, traders can see all the buy and sell orders that are waiting to be filled. This helps them understand the current demand and supply for a stock or asset. For example, if there are a lot of buy orders at a certain price, it might mean that the price is likely to go up soon. By knowing this, traders can set their limit orders at the right prices to take advantage of these trends.
 
 Another way traders can use limit order books is to find the best prices for their trades. The limit order book shows the highest bid and the lowest ask, which are the best current prices for buying and selling. Traders can use this information to set their limit orders at prices that are more likely to get filled. For instance, if a trader wants to buy a stock, they can set their limit order just above the highest bid to increase the chances of their order being filled quickly. This way, traders can make smarter decisions and improve their chances of making profitable trades.
 
@@ -52,7 +52,7 @@ Another pitfall is not paying attention to the size of the orders in the book. S
 
 ## How do liquidity and depth affect trading within a limit order book?
 
-Liquidity and depth are really important when you're trading using a limit order book. Liquidity means how easy it is to buy or sell something without the price changing a lot. If a stock or asset has high liquidity, there are lots of orders in the limit order book, so you can trade quickly and at a good price. On the other hand, if liquidity is low, it might be hard to find someone to trade with, and the price might move a lot when you try to buy or sell. This can make trading more risky and less predictable.
+Liquidity and depth are really important when you're trading using a limit order book. Liquidity means how easy it is to buy or sell something without the price changing a lot. If a stock or asset has high [liquidity](/wiki/liquidity-risk-premium), there are lots of orders in the limit order book, so you can trade quickly and at a good price. On the other hand, if liquidity is low, it might be hard to find someone to trade with, and the price might move a lot when you try to buy or sell. This can make trading more risky and less predictable.
 
 Depth is about how many orders are waiting at different prices in the limit order book. If the book has good depth, there are lots of orders at different price levels, which means you can trade larger amounts without moving the price too much. This is helpful if you want to buy or sell a big amount of stock. But if the book has poor depth, there might only be a few orders at each price, so your big order could change the price a lot. Understanding liquidity and depth helps traders pick the right times and prices to trade, making their strategies more effective.
 
@@ -64,7 +64,7 @@ Another technique is to use statistical models to understand the limit order boo
 
 ## How do high-frequency trading strategies interact with limit order books?
 
-High-frequency trading (HFT) strategies use computers to trade very quickly, often in milliseconds. They look at the limit order book to find small chances to make money. HFT traders might put in lots of buy and sell orders to see if they can make the price move a little bit in their favor. They use the limit order book to see what prices other people are willing to trade at and try to get in and out of trades faster than everyone else.
+High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) strategies use computers to trade very quickly, often in milliseconds. They look at the limit order book to find small chances to make money. HFT traders might put in lots of buy and sell orders to see if they can make the price move a little bit in their favor. They use the limit order book to see what prices other people are willing to trade at and try to get in and out of trades faster than everyone else.
 
 When HFT traders see a lot of orders at a certain price in the limit order book, they might try to trade before anyone else can. They use special computer programs to watch the limit order book all the time and react to any changes. This can make the market more active and sometimes cause the prices to change quickly. But HFT can also help keep the prices fair by adding more orders to the limit order book, making it easier for everyone to trade.
 

@@ -26,7 +26,7 @@ In short, passive investing is easier and less time-consuming because someone el
 
 Passive real estate investing is a great choice for beginners because it's easy to get started. You don't need a lot of money to begin. With options like real estate investment trusts (REITs) or crowdfunding, you can start investing with just a small amount. This makes it easier for people who are new to real estate to dip their toes in without having to buy a whole property. Plus, you don't need to know a lot about real estate to start. The professionals who manage the investments do all the hard work for you.
 
-Another big benefit is that passive investing doesn't take up much of your time. When you invest in a REIT or through a crowdfunding platform, you don't have to worry about finding tenants, fixing problems, or managing the property. This means you can keep your day job or focus on other things while still earning money from real estate. It's a great way to build wealth over time without the stress and effort of being a landlord.
+Another big benefit is that passive investing doesn't take up much of your time. When you invest in a REIT or through a crowdfunding platform, you don't have to worry about finding tenants, fixing problems, or managing the property. This means you can keep your day job or focus on other things while still [earning](/wiki/earning-announcement) money from real estate. It's a great way to build wealth over time without the stress and effort of being a landlord.
 
 ## What are some common passive real estate investment options?
 
@@ -34,7 +34,7 @@ One common way to invest passively in real estate is through real estate investm
 
 Another option is crowdfunding platforms. These platforms let you pool your money with other investors to buy properties. You can invest a small amount and still get a share of the rental income or profits when the property is sold. It's a great way to diversify your investments because you can put your money into different types of properties. Plus, the platforms usually have teams that manage the properties for you, so you don't have to do any of the hard work.
 
-A third choice is real estate ETFs and mutual funds. These are similar to REITs but offer even more diversification. When you invest in a real estate ETF or mutual fund, your money is spread across many different real estate investments. This can include REITs, property development companies, and other real estate-related businesses. It's a hands-off way to invest in real estate because the fund managers handle everything, and you just enjoy the returns.
+A third choice is real estate ETFs and mutual funds. These are similar to REITs but offer even more diversification. When you invest in a real estate [ETF](/wiki/etf-trading-strategies) or mutual fund, your money is spread across many different real estate investments. This can include REITs, property development companies, and other real estate-related businesses. It's a hands-off way to invest in real estate because the fund managers handle everything, and you just enjoy the returns.
 
 ## How can someone start investing in real estate passively with little money?
 

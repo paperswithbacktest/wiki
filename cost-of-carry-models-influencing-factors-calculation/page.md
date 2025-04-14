@@ -56,7 +56,7 @@ When traders and investors look at commodities, they always think about storage 
 
 Dividends can lower the cost of carry for stocks. When you own a stock that pays dividends, you get money back from the company regularly. This money can help cover the costs of holding the stock, like the interest you might have to pay if you borrowed money to buy it. If the dividends you receive are more than the costs, like storage or interest, then the cost of carry becomes negative. This means you're actually making money by holding onto the stock, not losing it.
 
-For example, if you buy a stock with a high dividend yield and the interest rate on your loan is low, the dividends might be enough to cover the interest and more. This makes the stock cheaper to hold over time. Investors look at these dividends when deciding whether to buy a stock now or wait. If the dividends are high, it might be better to buy the stock now and start earning those dividends, even if there are some costs to holding it.
+For example, if you buy a stock with a high dividend yield and the interest rate on your loan is low, the dividends might be enough to cover the interest and more. This makes the stock cheaper to hold over time. Investors look at these dividends when deciding whether to buy a stock now or wait. If the dividends are high, it might be better to buy the stock now and start [earning](/wiki/earning-announcement) those dividends, even if there are some costs to holding it.
 
 ## What are the implications of the cost of carry for futures pricing?
 

@@ -116,7 +116,7 @@ In summary, understanding how balance sheets and amortization work is essential 
 
 Algorithmic trading has fundamentally transformed the securities trading landscape by employing sophisticated computer algorithms to execute trades at speeds unimaginable in manual trading. This innovation leverages vast amounts of financial data to make split-second trading decisions, enabling the execution of trades with a precision and speed that maximizes profit and minimizes risk. 
 
-At its core, algorithmic trading involves the use of predefined, complex mathematical models to determine the sequence and timing of trades. These algorithms operate based on conditions such as price, [volume](/wiki/volume-trading-strategy), and timing, among others. For instance, a basic example would be a moving average crossover strategy, which buys when a short-term moving average crosses above a long-term moving average and sells in the opposite scenario.
+At its core, [algorithmic trading](/wiki/algorithmic-trading) involves the use of predefined, complex mathematical models to determine the sequence and timing of trades. These algorithms operate based on conditions such as price, [volume](/wiki/volume-trading-strategy), and timing, among others. For instance, a basic example would be a moving average crossover strategy, which buys when a short-term moving average crosses above a long-term moving average and sells in the opposite scenario.
 
 $$
 \text{Buy Signal: } \text{SMA}_{\text{short}} > \text{SMA}_{\text{long}}

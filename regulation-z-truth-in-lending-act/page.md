@@ -28,7 +28,7 @@ The Act also covers loans that might not seem as common, like loans for home imp
 
 ## How does Regulation Z protect consumers?
 
-Regulation Z helps keep people safe when they borrow money. It makes sure that lenders have to tell borrowers everything about the loan before they agree to it. This includes the interest rate, how much the loan will cost in total, and any fees. By making lenders be clear and honest, Regulation Z helps people understand what they are getting into. This way, there are no surprises, and people can make smart choices about borrowing money.
+Regulation Z helps keep people safe when they borrow money. It makes sure that lenders have to tell borrowers everything about the loan before they agree to it. This includes the [interest rate](/wiki/interest-rate-trading-strategies), how much the loan will cost in total, and any fees. By making lenders be clear and honest, Regulation Z helps people understand what they are getting into. This way, there are no surprises, and people can make smart choices about borrowing money.
 
 The law also helps people compare different loans. When lenders have to give all the details, borrowers can look at different loans side by side. They can see which loan has the best interest rate or the lowest fees. This helps people pick the loan that is the best fit for them. By giving people the information they need, Regulation Z makes borrowing money fairer and safer for everyone.
 

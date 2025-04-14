@@ -24,13 +24,13 @@ Also, the time value of money affects decisions about loans and investments. If 
 
 The time value of money and inflation are closely related because inflation affects how much money is worth over time. Inflation means that prices for things like food and clothes go up over time. So, if you have $100 today, it can buy more than $100 will buy in the future because of rising prices. This is why money you have now is worth more than the same amount of money later on. The time value of money takes into account that you can use your money today to buy things or invest it and earn more money, which wouldn't be possible if you waited.
 
-Inflation also influences how people think about saving and investing their money. If inflation is high, the value of money goes down faster, so people might want to invest their money in things that can grow faster than inflation. For example, if you keep your money in a savings account, but the interest rate is lower than the inflation rate, your money will actually be worth less over time. Understanding the relationship between the time value of money and inflation helps people make better financial decisions, like choosing when to spend or invest their money to keep its value as high as possible.
+Inflation also influences how people think about saving and investing their money. If inflation is high, the value of money goes down faster, so people might want to invest their money in things that can grow faster than inflation. For example, if you keep your money in a savings account, but the [interest rate](/wiki/interest-rate-trading-strategies) is lower than the inflation rate, your money will actually be worth less over time. Understanding the relationship between the time value of money and inflation helps people make better financial decisions, like choosing when to spend or invest their money to keep its value as high as possible.
 
 ## How is the U.S. dollar's value determined in the global market?
 
 The value of the U.S. dollar in the global market is determined by supply and demand. When more people want U.S. dollars, its value goes up. This can happen if other countries want to buy things from the U.S., like cars or technology, or if they want to invest in the U.S. On the other hand, if fewer people want U.S. dollars, its value goes down. This can happen if people start to think the U.S. economy is not doing well or if they find better places to invest their money.
 
-Another important factor is the strength of the U.S. economy. If the U.S. economy is doing well, with low unemployment and growing businesses, more people will want U.S. dollars, making it stronger. The Federal Reserve, which is like the U.S. government's bank, also plays a big role. They can change interest rates, which is like the price of borrowing money. If they raise interest rates, it can make the U.S. dollar more attractive because people can earn more by keeping their money in U.S. banks. All these things together help decide how much the U.S. dollar is worth around the world.
+Another important [factor](/wiki/factor-investing) is the strength of the U.S. economy. If the U.S. economy is doing well, with low unemployment and growing businesses, more people will want U.S. dollars, making it stronger. The Federal Reserve, which is like the U.S. government's bank, also plays a big role. They can change interest rates, which is like the price of borrowing money. If they raise interest rates, it can make the U.S. dollar more attractive because people can earn more by keeping their money in U.S. banks. All these things together help decide how much the U.S. dollar is worth around the world.
 
 ## What are the basic principles of calculating the time value of money?
 
@@ -72,7 +72,7 @@ Understanding how exchange rates work is important for international investors w
 
 Advanced financial models like the Discounted Cash Flow (DCF) model use the time value of money to figure out how much an investment is worth. The DCF model takes future cash flows from an investment and brings them back to today's dollars using a discount rate, which is usually based on the interest rate. This helps investors see if the money they put in now will be worth it in the future. If the U.S. dollar changes in value, it can affect these calculations. For example, if the dollar gets weaker, the future cash flows in dollars might be worth more when changed back to another currency, making the investment look better.
 
-Another model that looks at the time value of money and U.S. dollar changes is the Black-Scholes model, often used for pricing options. This model uses the current price of a stock, the option's strike price, time until the option expires, the risk-free interest rate, and the expected volatility of the stock price. The risk-free interest rate is usually based on U.S. Treasury bonds, which are in U.S. dollars. If the U.S. dollar's value goes up or down, it can change the risk-free rate and affect the model's results. This means the value of the option can change not just because of the stock's performance but also because of changes in the U.S. dollar's strength.
+Another model that looks at the time value of money and U.S. dollar changes is the Black-Scholes model, often used for pricing options. This model uses the current price of a stock, the option's strike price, time until the option expires, the risk-free interest rate, and the expected [volatility](/wiki/volatility-trading-strategies) of the stock price. The risk-free interest rate is usually based on U.S. Treasury bonds, which are in U.S. dollars. If the U.S. dollar's value goes up or down, it can change the risk-free rate and affect the model's results. This means the value of the option can change not just because of the stock's performance but also because of changes in the U.S. dollar's strength.
 
 ## How can predictive analytics be used to forecast changes in the U.S. dollar's value and its impact on the time value of money?
 
@@ -82,7 +82,7 @@ Understanding how the U.S. dollar might change can also affect how people think 
 
 ## What is the Time Value of Money (TVM) and how can it be understood?
 
-The Time Value of Money (TVM) is a fundamental financial concept that underscores the principle that money available now is more valuable than the same amount in the future. This concept is pivotal because of the earning potential of money, where funds available presently can be invested to generate returns. The foundational belief in TVM is that money can earn interest or investment returns over time, thus making a dollar today worth more than a dollar tomorrow.
+The Time Value of Money (TVM) is a fundamental financial concept that underscores the principle that money available now is more valuable than the same amount in the future. This concept is pivotal because of the [earning](/wiki/earning-announcement) potential of money, where funds available presently can be invested to generate returns. The foundational belief in TVM is that money can earn interest or investment returns over time, thus making a dollar today worth more than a dollar tomorrow.
 
 TVM is crucial for making informed financial decisions, as it emphasizes the role of compounding and interest rates in wealth accumulation. Compounding refers to the process where the value of an investment increases because the earnings on an asset, both capital gains and interest, earn interest as time passes. The formula for future value, which illustrates compounding, is:
 
@@ -112,7 +112,7 @@ In summary, TVM is a cornerstone of finance that aids investors in comprehending
 
 ## References & Further Reading
 
-For individuals aiming to expand their understanding of the Time Value of Money (TVM) and algorithmic trading, several seminal resources and publications provide valuable insights:
+For individuals aiming to expand their understanding of the Time Value of Money (TVM) and [algorithmic trading](/wiki/algorithmic-trading), several seminal resources and publications provide valuable insights:
 
 1. **Books on Financial Concepts**:
    - "Principles of Corporate Finance" by Richard Brealey, Stewart Myers, and Franklin Allen offers a comprehensive examination of TVM, compounding, and present/future value calculations. These core concepts are essential for understanding discounted cash flow analysis and financial modeling.

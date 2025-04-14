@@ -18,7 +18,7 @@ When you want to send Bitcoin to someone, you use a special computer program cal
 
 The total market capitalization of Bitcoin is the total value of all the Bitcoin in existence. It changes all the time because the price of Bitcoin goes up and down. You can find out the current market capitalization by looking at websites that track cryptocurrency prices.
 
-As of my last update, the market capitalization of Bitcoin was over a trillion dollars. But remember, this number can be different now because the price of Bitcoin can change a lot in a short time. If you want to know the exact number right now, you should check a live cryptocurrency market data website.
+As of my last update, the market capitalization of Bitcoin was over a trillion dollars. But remember, this number can be different now because the price of Bitcoin can change a lot in a short time. If you want to know the exact number right now, you should check a live [cryptocurrency](/wiki/cryptocurrency) market data website.
 
 ## How is the global money supply measured?
 

@@ -18,7 +18,7 @@ ECR is useful because it gives you a quick idea of your investment's performance
 
 To calculate the Estimated Current Return (ECR), you need to know two main things: the yearly income your investment makes and how much you paid for it. The yearly income can come from things like interest on a bond or dividends from a stock. The amount you paid is usually the price you bought the investment for, but if you've owned it for a while, you might use its current market value instead. To find the ECR, you divide the yearly income by the amount you paid, then multiply by 100 to turn it into a percentage.
 
-For example, if you bought a bond for $1,000 and it pays you $50 in interest every year, your ECR would be calculated like this: $50 divided by $1,000 equals 0.05. Multiply that by 100, and you get an ECR of 5%. This means your investment is earning you 5% of what you paid for it each year. ECR is a helpful way to see how much money your investment is making right now, which can help you decide if it's a good investment to keep or if you should look for something else.
+For example, if you bought a bond for $1,000 and it pays you $50 in interest every year, your ECR would be calculated like this: $50 divided by $1,000 equals 0.05. Multiply that by 100, and you get an ECR of 5%. This means your investment is [earning](/wiki/earning-announcement) you 5% of what you paid for it each year. ECR is a helpful way to see how much money your investment is making right now, which can help you decide if it's a good investment to keep or if you should look for something else.
 
 ## Why is ECR important for investors?
 
@@ -42,7 +42,7 @@ YTM, on the other hand, looks at the total return you might get if you hold a bo
 
 ECR can be used for many types of investments, but it works best with investments that give you regular income, like bonds and dividend-paying stocks. For bonds, ECR tells you how much interest you're earning each year compared to what you paid for the bond. For stocks, it shows how much dividend income you're getting compared to the stock's price. This makes ECR a useful tool for checking how well these investments are doing right now.
 
-However, ECR isn't perfect for all investments. For example, it's not very helpful for investments like growth stocks that don't pay dividends. These stocks might go up in value over time, but since they don't give you regular income, ECR can't tell you much about them. Also, ECR doesn't consider changes in the investment's value, so it's not the best choice for things like real estate or commodities where the price can change a lot. For those kinds of investments, you might need to use other ways to measure how they're doing.
+However, ECR isn't perfect for all investments. For example, it's not very helpful for investments like [growth stocks](/wiki/growth-stocks) that don't pay dividends. These stocks might go up in value over time, but since they don't give you regular income, ECR can't tell you much about them. Also, ECR doesn't consider changes in the investment's value, so it's not the best choice for things like real estate or commodities where the price can change a lot. For those kinds of investments, you might need to use other ways to measure how they're doing.
 
 ## What are the limitations of using ECR as a performance measure?
 
@@ -66,7 +66,7 @@ Because of this, ECR can be a bit misleading during times of high market volatil
 
 To make ECR calculations more accurate, you can use something called "yield adjustments." This means you look at the income your investment gives you, but you also think about how often the income might change. For example, if a company often changes its dividends, you can use past changes to guess what might happen next. This way, your ECR will be closer to what you might actually get in the future. Another way to refine ECR is by considering the timing of income. If you get interest or dividends at different times of the year, you can adjust your ECR to show this, making it more accurate.
 
-You can also use "risk-adjusted ECR" to make your calculations better. This means you take into account how risky your investment is. If an investment is very risky, you might want a higher ECR to make it worth it. By adding a risk factor to your ECR calculation, you get a clearer picture of whether the investment is a good choice for you. These advanced techniques help you see not just what your investment is doing now, but also what might happen in the future and how risky it is.
+You can also use "risk-adjusted ECR" to make your calculations better. This means you take into account how risky your investment is. If an investment is very risky, you might want a higher ECR to make it worth it. By adding a risk [factor](/wiki/factor-investing) to your ECR calculation, you get a clearer picture of whether the investment is a good choice for you. These advanced techniques help you see not just what your investment is doing now, but also what might happen in the future and how risky it is.
 
 ## How can ECR be integrated into a broader investment strategy?
 
@@ -136,7 +136,7 @@ In summary, financial analysis is integral to the process of estimating returns,
 
 ## How do you calculate expected return in algorithmic trading?
 
-Calculating expected returns is a critical step in developing robust algorithmic trading strategies. This involves several methodologies, each with distinct advantages depending on the trading context and the data available.
+Calculating expected returns is a critical step in developing robust [algorithmic trading](/wiki/algorithmic-trading) strategies. This involves several methodologies, each with distinct advantages depending on the trading context and the data available.
 
 The historical mean return method calculates the average past performance of an asset by summing its past returns and dividing by the number of periods. Formally, if $R_t$ represents the return at time $t$, the historical mean return $\bar{R}$ is:
 
@@ -148,7 +148,7 @@ This method assumes that historical performance is indicative of future potentia
 
 Probability distribution models provide a more nuanced estimate by considering various potential outcomes and their probabilities. For instance, Monte Carlo simulations can generate a range of possible returns by random sampling from probability distributions, thus accounting for uncertainty and variability in forecasts.
 
-Advanced computational techniques, such as machine learning and AI, further enhance the accuracy of expected return calculations. These techniques can identify complex patterns within large datasets that are not evident through traditional statistical methods. Machine learning algorithms can dynamically adjust to new data, improving their predictions over time. Common algorithms applied include linear regression, decision trees, and neural networks, each suitable for different types of data and predictions.
+Advanced computational techniques, such as [machine learning](/wiki/machine-learning) and AI, further enhance the accuracy of expected return calculations. These techniques can identify complex patterns within large datasets that are not evident through traditional statistical methods. Machine learning algorithms can dynamically adjust to new data, improving their predictions over time. Common algorithms applied include linear regression, decision trees, and neural networks, each suitable for different types of data and predictions.
 
 Here is a Python example demonstrating a simple linear regression model using the popular Scikit-learn library for calculating expected returns:
 

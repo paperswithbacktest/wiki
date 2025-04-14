@@ -24,7 +24,7 @@ Sometimes, a mutual fund might distribute capital gains more than once a year. T
 
 The frequency of capital gains distributions in mutual funds can be influenced by how often the fund manager decides to sell investments that have gone up in value. If the fund manager sells a lot of investments throughout the year, there might be a need to distribute capital gains more often. This is because the fund has to pass on these profits to the shareholders. If the fund manager mostly holds onto investments and only sells them at the end of the year, then the capital gains distribution will likely happen just once a year, usually in December.
 
-Another factor that can affect how often capital gains are distributed is the type of mutual fund. Some funds, like actively managed funds, might trade more frequently and thus might need to distribute capital gains more often. On the other hand, index funds or passively managed funds tend to trade less often, so they might only distribute capital gains once a year. The overall performance of the market and the specific investments the fund holds can also play a role in how often and how much capital gains are distributed.
+Another [factor](/wiki/factor-investing) that can affect how often capital gains are distributed is the type of mutual fund. Some funds, like actively managed funds, might trade more frequently and thus might need to distribute capital gains more often. On the other hand, index funds or passively managed funds tend to trade less often, so they might only distribute capital gains once a year. The overall performance of the market and the specific investments the fund holds can also play a role in how often and how much capital gains are distributed.
 
 ## Can the frequency of capital gains distributions affect an investor's tax situation?
 
@@ -110,7 +110,7 @@ Finally, consulting with tax professionals is an essential step for investors wi
 
 ## References & Further Reading
 
-Investopedia offers comprehensive resources on topics such as mutual fund taxation, algorithmic trading strategies, and investment planning crucial for both new and seasoned investors. These resources are valuable for understanding the nuances of investment management and providing foundational knowledge for developing robust investment strategies.
+Investopedia offers comprehensive resources on topics such as mutual fund taxation, [algorithmic trading](/wiki/algorithmic-trading) strategies, and investment planning crucial for both new and seasoned investors. These resources are valuable for understanding the nuances of investment management and providing foundational knowledge for developing robust investment strategies.
 
 Research articles and [books](/wiki/algo-trading-books) also provide essential perspectives on financial markets. 'A Random Walk Down Wall Street' by Burton G. Malkiel stands out, offering an in-depth look into investment principles and the efficiency of markets. This book is particularly valuable for understanding the theoretical underpinnings of why algorithmic trading can be both a challenge and an opportunity within efficient markets.
 

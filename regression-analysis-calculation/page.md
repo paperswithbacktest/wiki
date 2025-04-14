@@ -30,7 +30,7 @@ Choosing the right type of regression analysis depends on the kind of data you h
 
 Sometimes, the relationship between your variables isn't a straight line but more like a curve. In that case, polynomial regression could be better because it can fit curved lines to your data. If your dependent variable is not a number but a category, like "pass" or "fail," then logistic regression is the way to go. It helps predict the probability of something happening, like whether a student will pass an exam based on their study hours. Lastly, if you have a lot of independent variables and you're worried about overfitting, ridge or lasso regression can help by adding a penalty to keep the model simpler and more reliable.
 
-In the end, picking the right type of regression comes down to understanding your data and your goals. By choosing the right method, you can make better predictions and gain more useful insights from your analysis.
+In the end, [picking](/wiki/asset-class-picking) the right type of regression comes down to understanding your data and your goals. By choosing the right method, you can make better predictions and gain more useful insights from your analysis.
 
 ## What is the difference between simple and multiple regression?
 
@@ -223,7 +223,7 @@ predictions = model.predict(X_test)
 print(predictions)
 ```
 
-In recent years, the introduction of machine learning and AI has revolutionized algorithmic trading strategies. Machine learning algorithms, such as neural networks and support vector machines, can manage more complex patterns and deliver superior predictive accuracy. These tools enhance the algorithm's ability to process vast datasets, adapt to new market conditions, and refine trading strategies over time.
+In recent years, the introduction of machine learning and AI has revolutionized [algorithmic trading](/wiki/algorithmic-trading) strategies. Machine learning algorithms, such as neural networks and support vector machines, can manage more complex patterns and deliver superior predictive accuracy. These tools enhance the algorithm's ability to process vast datasets, adapt to new market conditions, and refine trading strategies over time.
 
 AI techniques, including [deep learning](/wiki/deep-learning), are particularly powerful in processing unstructured data types like text and images, which can be crucial for sentiment analysis and other expanded trading strategies. As machine learning continues to advance, it provides unparalleled capabilities for developing adaptive and highly efficient trading algorithms, shaping the future of algorithmic trading.
 

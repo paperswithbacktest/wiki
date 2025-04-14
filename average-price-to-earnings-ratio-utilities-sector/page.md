@@ -40,7 +40,7 @@ For example, a tech company with a P/E ratio of 30 means investors are willing t
 
 ## What factors influence the P/E ratio in the utilities sector?
 
-The P/E ratio in the utilities sector is influenced by a few key factors. One big factor is how stable the company is. Utilities companies are usually seen as safe because they provide services like electricity and water that people need every day. Because they are stable, investors don't expect them to grow a lot, so they are willing to pay less for their earnings. This means the P/E ratio for utilities is often lower than for other sectors.
+The P/E ratio in the utilities sector is influenced by a few key factors. One big [factor](/wiki/factor-investing) is how stable the company is. Utilities companies are usually seen as safe because they provide services like electricity and water that people need every day. Because they are stable, investors don't expect them to grow a lot, so they are willing to pay less for their earnings. This means the P/E ratio for utilities is often lower than for other sectors.
 
 Another factor that affects the P/E ratio in the utilities sector is interest rates. When interest rates are low, investors might be okay with paying more for utilities stocks because they see them as safe places to put their money. But if interest rates go up, investors might want a lower P/E ratio because they can get better returns from other investments like bonds. So, the P/E ratio can change based on what's happening with interest rates.
 

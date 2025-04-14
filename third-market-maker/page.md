@@ -40,7 +40,7 @@ Third Market Makers also help make the financial markets more flexible and effic
 
 ## How does a Third Market Maker facilitate liquidity in the market?
 
-A Third Market Maker helps make it easier for people to buy and sell stocks by adding more places to trade. They trade stocks that are usually listed on big exchanges, but they do this outside of those big exchanges. By doing this, they help make sure there are always people ready to buy or sell stocks. This is called liquidity. When there are more places to trade, it's easier for people to find someone to trade with, which makes the market more liquid.
+A Third Market Maker helps make it easier for people to buy and sell stocks by adding more places to trade. They trade stocks that are usually listed on big exchanges, but they do this outside of those big exchanges. By doing this, they help make sure there are always people ready to buy or sell stocks. This is called [liquidity](/wiki/liquidity-risk-premium). When there are more places to trade, it's easier for people to find someone to trade with, which makes the market more liquid.
 
 Third Market Makers use computers to match buyers and sellers quickly. This means people can trade stocks faster and sometimes at better prices than on the big exchanges. By making trading faster and easier, Third Market Makers help keep the market moving smoothly. This is important because when the market is liquid, it's easier for people to buy and sell stocks without big changes in price.
 
@@ -76,7 +76,7 @@ Because of technology, Third Market Makers can also handle more trades at the sa
 
 ## What future trends are expected to influence the role of Third Market Makers?
 
-In the future, technology will keep changing how Third Market Makers work. They will use even smarter computers and new tools like artificial intelligence to match buyers and sellers even faster. This can make trading easier and quicker for everyone. Also, more people might start using Third Market Makers because they can offer good prices and fast trades. This could make the market more competitive and push big exchanges to get better too.
+In the future, technology will keep changing how Third Market Makers work. They will use even smarter computers and new tools like [artificial intelligence](/wiki/ai-artificial-intelligence) to match buyers and sellers even faster. This can make trading easier and quicker for everyone. Also, more people might start using Third Market Makers because they can offer good prices and fast trades. This could make the market more competitive and push big exchanges to get better too.
 
 Another big trend is that rules might change. Governments and financial watchdogs might make new rules to make sure trading is fair and safe. This could mean Third Market Makers have to follow more rules, but it can also make people feel safer about trading with them. Overall, these changes can help Third Market Makers keep playing an important role in the market by giving people more choices and keeping the market lively and working well.
 

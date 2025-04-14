@@ -18,7 +18,7 @@ However, short selling can be risky. If the stock price goes up instead of down,
 
 Exchange-traded funds, or ETFs, are a type of investment that lets you buy a bunch of different stocks or bonds all at once. They're like a basket where you can put many different things inside. When you buy one share of an ETF, you're actually getting a small piece of all the things inside that basket. This makes it easier for people to invest in a wide range of companies or types of investments without having to buy each one separately.
 
-ETFs are traded on stock exchanges, just like regular stocks. This means you can buy and sell them during the day whenever the market is open. The price of an ETF can go up and down, just like the price of a single stock. One cool thing about ETFs is that they often have lower fees than other types of investments, like mutual funds. This makes them a popular choice for people who want to keep their costs down while still getting a diverse investment.
+ETFs are traded on stock exchanges, just like regular stocks. This means you can buy and sell them during the day whenever the market is open. The price of an [ETF](/wiki/etf-trading-strategies) can go up and down, just like the price of a single stock. One cool thing about ETFs is that they often have lower fees than other types of investments, like mutual funds. This makes them a popular choice for people who want to keep their costs down while still getting a diverse investment.
 
 ## Why would someone want to short sell an ETF?
 
@@ -68,7 +68,7 @@ Another cost to consider is the risk of the ETF's price going up instead of down
 
 ## How does market volatility affect short selling ETFs?
 
-Market volatility can make short selling ETFs riskier and more challenging. When the market is moving a lot, the price of the ETF can change quickly. If you're short selling, this means you might have to buy back the shares at a much higher price than you expected if the ETF's price suddenly goes up. This can lead to big losses because there's no limit to how high the price can go. Also, when the market is volatile, it can be harder to predict what will happen next, making it tougher to decide when to buy back the shares.
+Market [volatility](/wiki/volatility-trading-strategies) can make short selling ETFs riskier and more challenging. When the market is moving a lot, the price of the ETF can change quickly. If you're short selling, this means you might have to buy back the shares at a much higher price than you expected if the ETF's price suddenly goes up. This can lead to big losses because there's no limit to how high the price can go. Also, when the market is volatile, it can be harder to predict what will happen next, making it tougher to decide when to buy back the shares.
 
 On the other hand, high market volatility can also create more chances to make money if you time things right. If the ETF's price drops quickly like you thought it would, you can buy back the shares at a lower price and make a bigger profit. But you need to be ready to act fast because the price can change a lot in a short time. So, while market volatility can increase the risks of short selling ETFs, it can also increase the potential rewards if you're able to handle the ups and downs.
 

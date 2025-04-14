@@ -18,7 +18,7 @@ This can include education, training, and health care. For example, when someone
 
 Human capital is different from other forms of capital because it is about the skills, knowledge, and health of people, not things you can touch like machines or money. Other types of capital, like financial capital or physical capital, are things you can see and use directly. For example, financial capital is money or investments, and physical capital includes buildings, tools, and equipment. These can be bought, sold, or used up, but human capital grows and changes as people learn and develop.
 
-Human capital is also unique because it can't be owned by someone else. While a company might own a machine or have money in the bank, it can't own the skills or knowledge of its employees. Instead, people carry their human capital with them wherever they go. This means that investing in human capital, like education and training, benefits not just the individual but also the places they work and live, making it a special kind of investment that can improve society as a whole.
+Human capital is also unique because it can't be owned by someone else. While a company might own a machine or have money in the bank, it can't own the skills or knowledge of its employees. Instead, people [carry](/wiki/carry-trading) their human capital with them wherever they go. This means that investing in human capital, like education and training, benefits not just the individual but also the places they work and live, making it a special kind of investment that can improve society as a whole.
 
 ## What are the main types of human capital?
 

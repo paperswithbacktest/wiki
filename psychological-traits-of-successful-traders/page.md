@@ -42,7 +42,7 @@ If you know your risk tolerance, it can really change how you make trading decis
 
 ## What strategies can intermediate traders use to maintain mental resilience during market volatility?
 
-Intermediate traders can maintain mental resilience during market volatility by sticking to their trading plans. When the market goes up and down a lot, it's easy to feel scared or greedy. But if you have a clear plan, you can remind yourself of your goals and strategies. This helps you make decisions based on what you know, not how you feel. It's also important to take breaks and step away from the market sometimes. This gives you time to clear your head and come back with a fresh perspective.
+Intermediate traders can maintain mental resilience during market [volatility](/wiki/volatility-trading-strategies) by sticking to their trading plans. When the market goes up and down a lot, it's easy to feel scared or greedy. But if you have a clear plan, you can remind yourself of your goals and strategies. This helps you make decisions based on what you know, not how you feel. It's also important to take breaks and step away from the market sometimes. This gives you time to clear your head and come back with a fresh perspective.
 
 Another way to stay mentally strong is to practice mindfulness and relaxation techniques. Taking a few minutes to breathe deeply or meditate can help calm your nerves when the market is crazy. It's also helpful to talk to other traders or a mentor. Sharing your experiences and hearing how others handle tough times can make you feel less alone and give you new ideas on how to cope. Over time, these strategies can help you build the mental toughness you need to handle market volatility without letting it shake your confidence.
 

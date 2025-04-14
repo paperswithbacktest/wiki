@@ -22,7 +22,7 @@ A delayed perpetuity, on the other hand, is like that same never-ending stream o
 
 ## What are the key components needed to calculate a delayed perpetuity?
 
-To calculate a delayed perpetuity, you need to know three main things: the amount of each payment, the delay before the payments start, and the interest rate. The amount of each payment is how much money you'll get every time, like getting a dollar every day. The delay is how long you have to wait before these payments begin, like waiting five years before the payments start. The interest rate is important because it helps figure out how much the future payments are worth today.
+To calculate a delayed perpetuity, you need to know three main things: the amount of each payment, the delay before the payments start, and the [interest rate](/wiki/interest-rate-trading-strategies). The amount of each payment is how much money you'll get every time, like getting a dollar every day. The delay is how long you have to wait before these payments begin, like waiting five years before the payments start. The interest rate is important because it helps figure out how much the future payments are worth today.
 
 Once you know these three things, you can use a formula to find out the present value of the delayed perpetuity. This formula takes into account that you won't get the payments right away and that money today is worth more than the same amount of money in the future because of the interest you could earn. By plugging in the payment amount, the delay, and the interest rate into the formula, you can calculate how much the delayed perpetuity is worth to you right now.
 

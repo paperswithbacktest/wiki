@@ -40,7 +40,7 @@ The risks with a short option strategy can be big. When you sell an option, you 
 
 When you write an option, you get paid a premium by the person who buys the option from you. This premium is like a fee that the buyer pays for the right to use the option. The amount of the premium depends on a few things. One big thing is how likely it is that the option will be used. If the stock price is close to the strike price, the option is more likely to be used, so the premium will be higher. Another thing that affects the premium is how much time is left until the option expires. The more time there is, the more chance there is for the stock price to move, so the premium will be higher.
 
-Other things that can change the premium are how much the stock price moves around, called volatility, and the general interest rates. If the stock price moves a lot, the premium will be higher because there's more chance the option will be used. If interest rates go up, the premium might go up a bit too. All these things together decide how much money you get when you write an option. It's important to understand these factors because they help you figure out if writing an option is a good idea for you.
+Other things that can change the premium are how much the stock price moves around, called [volatility](/wiki/volatility-trading-strategies), and the general interest rates. If the stock price moves a lot, the premium will be higher because there's more chance the option will be used. If interest rates go up, the premium might go up a bit too. All these things together decide how much money you get when you write an option. It's important to understand these factors because they help you figure out if writing an option is a good idea for you.
 
 ## What are the key differences between writing covered and naked options?
 
@@ -58,7 +58,7 @@ Selling call options, or writing covered calls, is another way to hedge. When yo
 
 When you make money from writing options, you have to pay taxes on those profits. The tax rate depends on how long you held the option. If you held it for less than a year, the profit is considered short-term capital gain, and you'll pay your regular income tax rate on it. If you held it for more than a year, it's a long-term capital gain, and you'll pay a lower tax rate, usually between 0% and 20%, depending on your income. The money you get from selling the option, called the premium, is also taxed as income when you receive it.
 
-If you lose money from writing options, you can use those losses to reduce your taxes. You can subtract your losses from your gains for the year. If your losses are more than your gains, you can use up to $3,000 of the extra loss to reduce your other income, like your salary. If you still have losses left over after that, you can carry them over to future years to use against future gains or income. This can help lower your taxes in those years.
+If you lose money from writing options, you can use those losses to reduce your taxes. You can subtract your losses from your gains for the year. If your losses are more than your gains, you can use up to $3,000 of the extra loss to reduce your other income, like your salary. If you still have losses left over after that, you can [carry](/wiki/carry-trading) them over to future years to use against future gains or income. This can help lower your taxes in those years.
 
 ## How does the time decay (theta) affect long and short option strategies?
 

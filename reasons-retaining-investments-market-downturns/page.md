@@ -82,7 +82,7 @@ Next, think about the company's future. Look at what the company is planning to 
 
 ## Can Diversification Serve as an Effective Defense Strategy?
 
-Diversification is a fundamental strategy for mitigating risk, especially during market downturns. By spreading investments across various sectors and asset classes, investors can reduce the overall volatility of their portfolios. This approach is grounded in the idea that different sectors often react differently to economic conditions. For instance, while technology stocks might suffer during a particular downturn, consumer staples or utilities might remain stable or even thrive.
+Diversification is a fundamental strategy for mitigating risk, especially during market downturns. By spreading investments across various sectors and asset classes, investors can reduce the overall [volatility](/wiki/volatility-trading-strategies) of their portfolios. This approach is grounded in the idea that different sectors often react differently to economic conditions. For instance, while technology stocks might suffer during a particular downturn, consumer staples or utilities might remain stable or even thrive.
 
 Balanced portfolios are more resilient to fluctuations because they are not overly reliant on the performance of a single sector. Instead, they include a mix of stocks, bonds, commodities, and possibly real estate. The logic behind diversification is encapsulated in the adage "don't put all your eggs in one basket." This strategy helps ensure that poor performance in one asset class or sector is offset by stability or gains in another.
 

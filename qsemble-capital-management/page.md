@@ -48,7 +48,7 @@ They focus on using data to make their decisions. This means they look at things
 
 Qsemble Capital Management has done well since it started. They look at how much money they make compared to how much risk they take. They use a special number called the Sharpe Ratio to see if they are doing a good job. A higher Sharpe Ratio means they are making more money for the risk they are taking. Qsemble's Sharpe Ratio has been good, which means they are doing well compared to other companies.
 
-They also look at how much money they make each year. This is called the annual return. Qsemble's annual returns have been strong, which means they are helping their clients make more money. They try to beat the stock market, and they have been doing that most of the time. This shows that their way of picking stocks using computers and math is working well.
+They also look at how much money they make each year. This is called the annual return. Qsemble's annual returns have been strong, which means they are helping their clients make more money. They try to beat the stock market, and they have been doing that most of the time. This shows that their way of [picking](/wiki/asset-class-picking) stocks using computers and math is working well.
 
 ## How does Qsemble Capital Management manage risk?
 

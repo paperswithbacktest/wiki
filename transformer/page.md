@@ -84,7 +84,7 @@ In the future, researchers are trying to make Transformers smaller and faster so
 
 ## What are Transformer Models and how do they work?
 
-Transformer models have revolutionized the landscape of machine learning through their unique architecture and capabilities. Introduced by Vaswani et al. in their seminal paper "Attention is All You Need" in 2017, transformers were designed to improve the efficiency and performance of sequence transduction tasks without relying on recurrent networks.
+Transformer models have revolutionized the landscape of [machine learning](/wiki/machine-learning) through their unique architecture and capabilities. Introduced by Vaswani et al. in their seminal paper "Attention is All You Need" in 2017, transformers were designed to improve the efficiency and performance of sequence transduction tasks without relying on recurrent networks.
 
 At the core of transformer models is the self-attention mechanism, a powerful tool that allows the model to weigh the importance of different input tokens relative to each other. Unlike traditional recurrent [neural network](/wiki/neural-network)s (RNNs) and [long short](/wiki/equity-long-short)-term memory networks (LSTMs), which process input sequences in a fixed order, transformers consider the entire sequence simultaneously. This parallel processing capability is a significant advancement, as it enables transformers to capture dependencies regardless of their distance in the sequence. The self-attention mechanism is mathematically represented by:
 

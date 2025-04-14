@@ -148,7 +148,7 @@ Tools like these simplify the complex calculations required in investment analys
 
 ## What are some case studies and practical applications?
 
-Case studies provide invaluable insights into how investment strategies can be practically applied to generate wealth. Several successful investors illustrate the effectiveness of dividend growth, investment calculations, and algorithmic trading.
+Case studies provide invaluable insights into how investment strategies can be practically applied to generate wealth. Several successful investors illustrate the effectiveness of dividend growth, investment calculations, and [algorithmic trading](/wiki/algorithmic-trading).
 
 ### Dividend Growth: The Case of Johnson & Johnson
 
@@ -172,7 +172,7 @@ where $n$ represents the number of years. By focusing on fundamental analyses an
 
 ### Algorithmic Trading: Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, operates on the forefront of algorithmic trading. The firm utilizes advanced mathematical models and data analysis to execute trades with remarkable precision. For example, a momentum trading algorithm may be implemented in Python as follows:
+Renaissance Technologies, founded by Jim Simons, operates on the forefront of algorithmic trading. The firm utilizes advanced mathematical models and data analysis to execute trades with remarkable precision. For example, a [momentum](/wiki/momentum) trading algorithm may be implemented in Python as follows:
 
 ```python
 import pandas as pd

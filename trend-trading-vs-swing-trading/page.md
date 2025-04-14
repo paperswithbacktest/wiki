@@ -52,7 +52,7 @@ In swing trading, risk management is more about quick action and tighter stop-lo
 
 ## What types of markets are best suited for trend trading?
 
-Trend trading works well in markets that have clear, long-lasting trends. These are markets where the price moves in one direction for a long time, like stocks, commodities, and forex. For example, if a company is doing really well and its stock price keeps going up over months or years, that's a good market for trend trading. The same goes for commodities like oil or gold if their prices are going up or down steadily over time. Trend traders look for these big moves and try to make money by following the trend.
+Trend trading works well in markets that have clear, long-lasting trends. These are markets where the price moves in one direction for a long time, like stocks, commodities, and [forex](/wiki/forex-system). For example, if a company is doing really well and its stock price keeps going up over months or years, that's a good market for trend trading. The same goes for commodities like oil or gold if their prices are going up or down steadily over time. Trend traders look for these big moves and try to make money by following the trend.
 
 Forex markets, where people trade different currencies, are also good for trend trading. Sometimes, one country's currency will get stronger or weaker compared to another country's currency over a long time. This can happen because of things like changes in interest rates or big news about the economy. Trend traders can make money by buying the stronger currency and selling the weaker one, holding onto their positions until the trend changes. Overall, any market where the price moves in a clear direction for a long time is a good fit for trend trading.
 

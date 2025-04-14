@@ -20,7 +20,7 @@ The main difference between the two methods is the timing of when transactions a
 
 Accrual accounting is important in business management because it gives a clearer picture of a company's financial health. It shows all the money a business has earned and all the costs it has faced during a certain time, even if the money hasn't been received or paid yet. This helps managers see how well the business is doing by looking at all the income and expenses that relate to that time, not just the cash that has moved in and out.
 
-Using accrual accounting helps businesses make better decisions. For example, if a company does a big project in December but doesn't get paid until January, accrual accounting will show that income in December. This helps managers plan better because they can see the real profit from the project right away. It also helps when making budgets and forecasts because it gives a more accurate view of what the business is earning and spending over time.
+Using accrual accounting helps businesses make better decisions. For example, if a company does a big project in December but doesn't get paid until January, accrual accounting will show that income in December. This helps managers plan better because they can see the real profit from the project right away. It also helps when making budgets and forecasts because it gives a more accurate view of what the business is [earning](/wiki/earning-announcement) and spending over time.
 
 ## How does SAP support accrual accounting?
 
@@ -60,7 +60,7 @@ Another challenge is making sure everyone in your business understands and uses 
 
 ## How does SAP handle period-end closing with respect to accruals?
 
-At the end of each period, like a month or a year, businesses need to close their books and make sure all their money records are right. SAP helps with this by making it easy to record any accruals that need to be added before closing. An accrual is when you record income or costs before the money moves, like if you did some work but haven't been paid yet. In SAP, you can use the Accrual Engine to automatically make these entries at the right time, so you don't forget anything important. This way, your financial records show all the money you've earned and spent during the period, even if you haven't got or paid the money yet.
+At the end of each period, like a month or a year, businesses need to close their [books](/wiki/algo-trading-books) and make sure all their money records are right. SAP helps with this by making it easy to record any accruals that need to be added before closing. An accrual is when you record income or costs before the money moves, like if you did some work but haven't been paid yet. In SAP, you can use the Accrual Engine to automatically make these entries at the right time, so you don't forget anything important. This way, your financial records show all the money you've earned and spent during the period, even if you haven't got or paid the money yet.
 
 Once all the accruals are recorded, SAP helps you close the period by making sure all the numbers add up. You can run reports to check that everything is correct and that all the money coming in and going out matches up. If there are any mistakes, you can fix them before you close the books. This helps make sure your financial records are accurate and ready for the next period. By using SAP, you can make the period-end closing process smoother and more reliable, so you can focus on running your business.
 

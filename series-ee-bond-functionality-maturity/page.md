@@ -28,7 +28,7 @@ Series EE Bonds are also easy to buy and start at a low price, making them acces
 
 ## How long does it take for a Series EE Bond to reach maturity?
 
-A Series EE Bond takes 30 years to reach its full maturity. This means you can keep earning interest on your bond for up to 30 years from the day you buy it.
+A Series EE Bond takes 30 years to reach its full maturity. This means you can keep [earning](/wiki/earning-announcement) interest on your bond for up to 30 years from the day you buy it.
 
 For the first 20 years, the interest rate on your bond stays the same. After 20 years, the interest rate might change for the last 10 years until the bond reaches its full maturity. This makes Series EE Bonds a good choice for long-term savings because they keep growing your money over a long time.
 
@@ -110,7 +110,7 @@ Moreover, investors are capped at purchasing $10,000 in Series EE Bonds per cale
 
 ## How can Series EE Bonds be integrated with algorithmic trading?
 
-Integrating Series EE Bonds with algorithmic trading strategies involves leveraging the inherent stability and predictability of these bonds to enhance overall portfolio performance. Series EE Bonds, known for their guaranteed returns over a period of 20 years, can be effectively combined with high-frequency, data-driven algorithmic trading systems to achieve a more balanced risk profile.
+Integrating Series EE Bonds with [algorithmic trading](/wiki/algorithmic-trading) strategies involves leveraging the inherent stability and predictability of these bonds to enhance overall portfolio performance. Series EE Bonds, known for their guaranteed returns over a period of 20 years, can be effectively combined with high-frequency, data-driven algorithmic trading systems to achieve a more balanced risk profile.
 
 The application of algorithmic trading in managing Series EE Bonds offers an opportunity for seamless reinvestment of matured bonds, which can significantly enhance [liquidity](/wiki/liquidity-risk-premium) and yield. Automation in trading systems means that matured bonds can be quickly reinvested or redirected into other financial instruments without manual intervention, ensuring that the portfolio continuously benefits from both stability and growth potential.
 

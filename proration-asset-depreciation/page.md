@@ -249,7 +249,7 @@ where:
 - $D$ is the annual depreciation expense,
 - $t$ is the time in years.
 
-Through continuous monitoring and real-time data processing, the hedge fund's systems dynamically adapted to fluctuations in asset valuations. The depreciation-adjusted models contributed to a demonstrable improvement in the fund's overall performance metrics, showcasing reduced portfolio volatility and increased return on investments. This underscores the importance of detailed financial data in modern investment strategies, demonstrating clear practical benefits.
+Through continuous monitoring and real-time data processing, the hedge fund's systems dynamically adapted to fluctuations in asset valuations. The depreciation-adjusted models contributed to a demonstrable improvement in the fund's overall performance metrics, showcasing reduced portfolio [volatility](/wiki/volatility-trading-strategies) and increased return on investments. This underscores the importance of detailed financial data in modern investment strategies, demonstrating clear practical benefits.
 
 ## References & Further Reading
 

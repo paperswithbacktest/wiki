@@ -23,7 +23,7 @@ There are different types of regularization, like L2 and L1 regularization. L2 r
 
 ## What is the regularization rate and how is it defined?
 
-The regularization rate is a number that controls how much a machine learning model is penalized for being too complex. It's also called the regularization parameter or lambda (λ). This rate helps balance the model's ability to fit the training data well and its ability to perform well on new data. If the regularization rate is too high, the model might be too simple and not fit the data well. If it's too low, the model might be too complex and overfit the data.
+The regularization rate is a number that controls how much a [machine learning](/wiki/machine-learning) model is penalized for being too complex. It's also called the regularization parameter or lambda (λ). This rate helps balance the model's ability to fit the training data well and its ability to perform well on new data. If the regularization rate is too high, the model might be too simple and not fit the data well. If it's too low, the model might be too complex and overfit the data.
 
 The regularization rate is usually set as a hyperparameter before training the model. It's often chosen through a process called cross-validation, where different values of the regularization rate are tested to see which one gives the best performance on a validation set. In formulas, the regularization rate is often written as $$ \lambda $$. For example, in L2 regularization, the penalty term added to the loss function is $$ \lambda \sum_{i=1}^{n} \theta_i^2 $$, where $$ \theta_i $$ are the model's parameters.
 

@@ -40,7 +40,7 @@ Another benefit is that you can help a company grow by investing in their L Bond
 
 ## What are the risks associated with L Bonds?
 
-Investing in L Bonds can be risky because the companies that issue them are often smaller or newer. If the company doesn't do well, they might not be able to pay you back. This means you could lose some or all of your money. Unlike traditional bonds, which are usually backed by bigger, more stable companies or governments, L Bonds carry a higher chance of the company going bankrupt.
+Investing in L Bonds can be risky because the companies that issue them are often smaller or newer. If the company doesn't do well, they might not be able to pay you back. This means you could lose some or all of your money. Unlike traditional bonds, which are usually backed by bigger, more stable companies or governments, L Bonds [carry](/wiki/carry-trading) a higher chance of the company going bankrupt.
 
 Another risk is that L Bonds are not as easy to sell if you need your money back quickly. Traditional bonds can be traded on big markets, but L Bonds are often sold directly by the company. This means if you want to get out of your investment, you might have a harder time finding someone to buy your L Bond. So, you need to be ready to keep your money in the L Bond for the whole time the company says they'll pay you back.
 

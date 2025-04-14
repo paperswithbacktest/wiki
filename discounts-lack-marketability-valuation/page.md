@@ -36,7 +36,7 @@ A third method is the restricted stock method. This involves looking at the pric
 
 ## Can you explain the difference between marketability and liquidity in the context of DLOM?
 
-Marketability and liquidity are two important ideas in the context of DLOM, but they are not the same thing. Marketability is about how easy it is to find a buyer for your shares. If you own shares in a private company, it can be hard to find someone who wants to buy them. This difficulty is what DLOM tries to account for by lowering the value of the shares. Marketability is more about the process of selling and the time it takes to find a buyer.
+Marketability and [liquidity](/wiki/liquidity-risk-premium) are two important ideas in the context of DLOM, but they are not the same thing. Marketability is about how easy it is to find a buyer for your shares. If you own shares in a private company, it can be hard to find someone who wants to buy them. This difficulty is what DLOM tries to account for by lowering the value of the shares. Marketability is more about the process of selling and the time it takes to find a buyer.
 
 Liquidity, on the other hand, is about how quickly you can turn your shares into cash. If you own stocks in a public company, you can sell them on the stock market and get your money fast. But with private company shares, even if you find a buyer, it might take a long time to actually get the money. So, liquidity is more about the speed of getting cash, while marketability is about the ease of finding a buyer. Both affect the value of a private company, but in different ways.
 

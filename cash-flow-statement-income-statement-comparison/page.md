@@ -122,7 +122,7 @@ Each statement serves a unique function in financial analysis. The income statem
 
 ## What are the key financial ratios used in algo trading?
 
-Financial ratios are essential tools in algorithmic trading, transforming detailed financial statement data into concise, actionable indicators. These ratios allow traders and algorithms to quickly assess a company's financial health, facilitating more informed trading decisions. Among the numerous ratios, some stand out for their significance in evaluating key aspects such as leverage, stability, and efficiency. 
+Financial ratios are essential tools in [algorithmic trading](/wiki/algorithmic-trading), transforming detailed financial statement data into concise, actionable indicators. These ratios allow traders and algorithms to quickly assess a company's financial health, facilitating more informed trading decisions. Among the numerous ratios, some stand out for their significance in evaluating key aspects such as leverage, stability, and efficiency. 
 
 1. **Debt-to-Equity Ratio**:
    The debt-to-equity ratio is a fundamental indicator used to evaluate a company's financial leverage by comparing its total liabilities to its shareholder equity. It is expressed as:

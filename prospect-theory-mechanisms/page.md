@@ -102,7 +102,7 @@ This asymmetry implies that people often engage in risk-seeking behavior to avoi
 
 Understanding and incorporating prospect theory into trading algorithms can enhance their predictive capability. By aligning algorithms with risk preferences and biases observed in human behavior, more accurate modeling of market reactions can be achieved. For instance, trading strategies can incorporate risk-adjusted metrics that mirror the degree of loss aversion found in investor behavior, potentially leading to improved market entry and [exit](/wiki/exit-strategy) points.
 
-Furthermore, incorporating such insights into algorithmic trading can refine strategies to account for behavioral biases, helping to anticipate market movements influenced by collective investor psychology. This opens up avenues for more sophisticated prediction models, ultimately enhancing trading strategies with a deeper understanding of human-driven market dynamics.
+Furthermore, incorporating such insights into [algorithmic trading](/wiki/algorithmic-trading) can refine strategies to account for behavioral biases, helping to anticipate market movements influenced by collective investor psychology. This opens up avenues for more sophisticated prediction models, ultimately enhancing trading strategies with a deeper understanding of human-driven market dynamics.
 
 ## References & Further Reading
 

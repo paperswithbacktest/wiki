@@ -158,7 +158,7 @@ This formula helps ensure that any position is automatically exited once a set l
 
 Apart from managing risk, traders should adopt diversified approaches that align with long-term investment goals while also capturing short-term opportunities presented at quarter-end. Diversification can be achieved by spreading investments across multiple asset classes, industries, or geographic markets, reducing the impact of volatility in any single category.
 
-To analyze and refine strategies, traders can employ machine learning algorithms. Python, a popular programming language for financial modeling, offers a variety of libraries such as pandas for data manipulation, scikit-learn for machine learning models, and matplotlib or seaborn for visualization. An example of a simple machine learning model to predict market direction based on quarter-end data might look like this:
+To analyze and refine strategies, traders can employ [machine learning](/wiki/machine-learning) algorithms. Python, a popular programming language for financial modeling, offers a variety of libraries such as pandas for data manipulation, scikit-learn for machine learning models, and matplotlib or seaborn for visualization. An example of a simple machine learning model to predict market direction based on quarter-end data might look like this:
 
 ```python
 import pandas as pd

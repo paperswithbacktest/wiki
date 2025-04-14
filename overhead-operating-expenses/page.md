@@ -86,7 +86,7 @@ Another way industry-specific factors can influence expense management is throug
 
 ## What is the impact of operating and overhead expenses on profitability?
 
-Operating and overhead expenses play a crucial role in determining the profitability metrics of any business, including algorithmic trading firms. Effective management of these costs can dramatically influence a firm's bottom line, while unchecked expenses, particularly overheads, can significantly erode profits.
+Operating and overhead expenses play a crucial role in determining the profitability metrics of any business, including [algorithmic trading](/wiki/algorithmic-trading) firms. Effective management of these costs can dramatically influence a firm's bottom line, while unchecked expenses, particularly overheads, can significantly erode profits.
 
 At the core of profitability is the simple formula:
 

@@ -30,7 +30,7 @@ He introduced the Fisher Transform Indicator in the early 2000s. This tool uses 
 
 The Fisher Transform Indicator has two main parts: the Fisher Transform line and the trigger line. The Fisher Transform line is the main part that traders look at. It uses a special math formula to change the price data into a number between -1 and +1. When this line gets close to -1 or +1, it means the price might be about to change direction. The trigger line is a smoother version of the Fisher Transform line. It helps traders see the overall trend more clearly and can be used to confirm buy or sell signals.
 
-Traders use these lines to make decisions. When the Fisher Transform line crosses above the zero line, it can be a sign to buy. If it goes below the zero line, it might be a good time to sell. The trigger line helps make these signals more reliable. By looking at both lines together, traders can see when the market might be overbought or oversold. This helps them know when to enter or exit trades.
+Traders use these lines to make decisions. When the Fisher Transform line crosses above the zero line, it can be a sign to buy. If it goes below the zero line, it might be a good time to sell. The trigger line helps make these signals more reliable. By looking at both lines together, traders can see when the market might be overbought or oversold. This helps them know when to enter or [exit](/wiki/exit-strategy) trades.
 
 ## How is the Fisher Transform Indicator calculated?
 
@@ -42,7 +42,7 @@ After getting the raw Fisher Transform value, you smooth it out using a method c
 
 The Fisher Transform Indicator usually comes with some standard settings that traders can change to fit their needs. The most common setting for the period used to calculate the indicator is 10. This means the indicator looks at the last 10 price bars to figure out its value. Traders can make this number bigger or smaller depending on whether they want to see short-term or long-term trends.
 
-Another important setting is the smoothing factor, which is often set to 0.5. This helps make the Fisher Transform line less jumpy and easier to read. Some traders might change this number to make the line smoother or more responsive to price changes. By adjusting these settings, traders can use the Fisher Transform Indicator in a way that works best for them.
+Another important setting is the smoothing [factor](/wiki/factor-investing), which is often set to 0.5. This helps make the Fisher Transform line less jumpy and easier to read. Some traders might change this number to make the line smoother or more responsive to price changes. By adjusting these settings, traders can use the Fisher Transform Indicator in a way that works best for them.
 
 ## How can the Fisher Transform Indicator be used in trading strategies?
 

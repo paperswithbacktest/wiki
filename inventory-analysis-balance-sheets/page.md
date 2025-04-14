@@ -102,7 +102,7 @@ $$
 
 This ratio measures how frequently a company's inventory is sold and replenished over a specific period. High turnover ratios indicate effective inventory management and strong sales, whereas low ratios may suggest overstock or obsolescence. Investors use these ratios to assess business performance and make informed decisions about potential investments.
 
-Inventory analysis extends beyond internal operations and is integral to algorithmic trading strategies. Algorithms that incorporate inventory data can assess a firm's supply chain effectiveness and sector position, influencing trading decisions. For instance, an algorithm might capture real-time inventory changes across sales channels to predict potential price movements or stock shortages. This integration enables traders to capitalize on sector trends, ensuring timely and profitable trading strategies. 
+Inventory analysis extends beyond internal operations and is integral to [algorithmic trading](/wiki/algorithmic-trading) strategies. Algorithms that incorporate inventory data can assess a firm's supply chain effectiveness and sector position, influencing trading decisions. For instance, an algorithm might capture real-time inventory changes across sales channels to predict potential price movements or stock shortages. This integration enables traders to capitalize on sector trends, ensuring timely and profitable trading strategies. 
 
 In conclusion, inventory analysis, with its valuation and management techniques, not only enhances business operations but also supports effective investment decisions by intersecting with algorithmic trading strategies related to supply chain and sector analyses.
 

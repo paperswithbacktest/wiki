@@ -40,7 +40,7 @@ Another benefit is that acquisition debt can be a smart way to use other people'
 
 ## How is acquisition debt structured in terms of interest rates and repayment terms?
 
-When you take out acquisition debt, like a mortgage or a home equity loan, the interest rate can be fixed or variable. A fixed interest rate stays the same for the whole time you're paying back the loan. This means your monthly payments won't change, which can make it easier to plan your budget. A variable interest rate can go up or down based on the market. This means your monthly payments might change, which can be good if rates go down but harder if they go up.
+When you take out acquisition debt, like a mortgage or a home equity loan, the [interest rate](/wiki/interest-rate-trading-strategies) can be fixed or variable. A fixed interest rate stays the same for the whole time you're paying back the loan. This means your monthly payments won't change, which can make it easier to plan your budget. A variable interest rate can go up or down based on the market. This means your monthly payments might change, which can be good if rates go down but harder if they go up.
 
 The repayment terms for acquisition debt can vary a lot. For a mortgage, you might have 15, 20, or 30 years to pay it back. Longer terms mean smaller monthly payments, but you'll pay more interest over time. Shorter terms mean bigger monthly payments, but you'll pay less interest overall. Home equity loans usually have shorter repayment terms, like 5 to 15 years. It's important to pick the right term that fits your budget and how long you plan to stay in your home.
 

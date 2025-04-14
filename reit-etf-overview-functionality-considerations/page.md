@@ -18,7 +18,7 @@ REIT ETFs are popular because they offer a way to invest in real estate without 
 
 A REIT ETF works by pooling money from many investors to buy shares in different Real Estate Investment Trusts (REITs). These REITs own or finance properties like apartments, shopping centers, or office buildings. The ETF manager picks a mix of REITs to include in the fund, trying to spread out the risk and capture good returns. When you buy shares of the REIT ETF, you're buying a small piece of all those different REITs at once.
 
-The income that the REITs earn from rent or property sales gets passed on to the ETF. The ETF then distributes this income to its shareholders as dividends. This means if you own shares in a REIT ETF, you can get regular dividend payments, which can be a nice source of income. Plus, because the ETF trades on a stock exchange, you can buy and sell your shares easily, just like you would with any other stock.
+The income that the REITs earn from rent or property sales gets passed on to the [ETF](/wiki/etf-trading-strategies). The ETF then distributes this income to its shareholders as dividends. This means if you own shares in a REIT ETF, you can get regular dividend payments, which can be a nice source of income. Plus, because the ETF trades on a stock exchange, you can buy and sell your shares easily, just like you would with any other stock.
 
 ## What are the benefits of investing in a REIT ETF?
 

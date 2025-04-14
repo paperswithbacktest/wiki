@@ -50,7 +50,7 @@ Even though diversification can't get rid of all risk, it can make your investme
 
 Risk-adjusted returns help you see how well an investment is doing when you consider the risk involved. It's like looking at the score of a game but also thinking about how hard the game was. If two investments give you the same amount of money back, but one was a lot riskier, the one that was less risky would have a better risk-adjusted return. This helps you understand if the extra risk you took was worth it or if you could have gotten similar returns with less risk.
 
-One common way to measure risk-adjusted returns is by using the Sharpe ratio. This tool compares the return of an investment to a safe investment like a government bond. If an investment has a high Sharpe ratio, it means you're getting a good return for the risk you're taking. If it has a low Sharpe ratio, you might be taking too much risk for the return you're getting. By looking at risk-adjusted returns, you can make smarter choices about where to put your money, picking investments that give you the best balance of risk and reward.
+One common way to measure risk-adjusted returns is by using the Sharpe ratio. This tool compares the return of an investment to a safe investment like a government bond. If an investment has a high Sharpe ratio, it means you're getting a good return for the risk you're taking. If it has a low Sharpe ratio, you might be taking too much risk for the return you're getting. By looking at risk-adjusted returns, you can make smarter choices about where to put your money, [picking](/wiki/asset-class-picking) investments that give you the best balance of risk and reward.
 
 ## How can advanced investors use statistical measures like standard deviation and beta to assess risk?
 

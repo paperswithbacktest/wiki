@@ -54,7 +54,7 @@ A few things have made Alphabet's P/E ratio change over these years. When the ec
 
 A high P/E ratio for Alphabet Inc. means that investors are willing to pay more for each dollar of the company's earnings. This can be a good sign because it shows that people think Alphabet will keep growing and making more money in the future. They are ready to pay a higher price for the stock because they believe in Alphabet's potential. For example, if Alphabet is working on new technology or expanding into new areas, a high P/E ratio might mean investors are excited about these possibilities.
 
-However, a high P/E ratio can also mean that the stock might be too expensive. If the stock price is very high compared to what the company is actually earning, it could be risky. If Alphabet doesn't grow as fast as investors expect, the stock price could go down. This means investors need to be careful and look at other things too, like how the company is doing right now and what's happening in the economy. A high P/E ratio is just one piece of the puzzle when deciding if Alphabet's stock is a good buy.
+However, a high P/E ratio can also mean that the stock might be too expensive. If the stock price is very high compared to what the company is actually [earning](/wiki/earning-announcement), it could be risky. If Alphabet doesn't grow as fast as investors expect, the stock price could go down. This means investors need to be careful and look at other things too, like how the company is doing right now and what's happening in the economy. A high P/E ratio is just one piece of the puzzle when deciding if Alphabet's stock is a good buy.
 
 ## How can investors use Alphabet Inc.'s P/E ratio to make investment decisions?
 

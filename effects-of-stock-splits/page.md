@@ -54,7 +54,7 @@ Also, stock splits can make investors feel like the company is doing well. When 
 
 Stock splits can make a stock more liquid. Liquidity means how easy it is to buy or sell a stock without affecting its price too much. When a company does a stock split, it makes the price per share go down. This lower price can attract more investors because it's easier for them to buy the stock. More people wanting to buy and sell the stock means there are more trades happening. When there are more trades, it's easier to find someone to buy or sell your shares, which makes the stock more liquid.
 
-Over time, this increased liquidity can be good for the stock. When a stock is more liquid, it's easier for investors to get in and out of their investments. This can make the stock more attractive to both big and small investors. More trading can also help keep the price stable because there are always people ready to buy or sell. So, a stock split can make the stock more popular and easier to trade, which is good for everyone involved.
+Over time, this increased [liquidity](/wiki/liquidity-risk-premium) can be good for the stock. When a stock is more liquid, it's easier for investors to get in and out of their investments. This can make the stock more attractive to both big and small investors. More trading can also help keep the price stable because there are always people ready to buy or sell. So, a stock split can make the stock more popular and easier to trade, which is good for everyone involved.
 
 ## What historical data suggests about the performance of stocks post-split?
 

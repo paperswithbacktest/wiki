@@ -46,7 +46,7 @@ The special account is what makes TACs different from other types of bonds. It's
 
 ## How are interest rates managed within a TAC?
 
-In a Targeted Amortization Class (TAC), interest rates are managed by making sure that the interest payments from the home loans go straight to the investors. When people make their monthly payments, part of that money is interest, which is the extra money they pay for borrowing. The TAC takes this interest and gives it to you without any changes. This means that the interest rate you get is based on the rates of the underlying home loans, and it stays steady as long as those rates don't change.
+In a Targeted Amortization Class (TAC), interest rates are managed by making sure that the interest payments from the home loans go straight to the investors. When people make their monthly payments, part of that money is interest, which is the extra money they pay for borrowing. The TAC takes this interest and gives it to you without any changes. This means that the [interest rate](/wiki/interest-rate-trading-strategies) you get is based on the rates of the underlying home loans, and it stays steady as long as those rates don't change.
 
 The TAC also uses the principal payments to help manage the overall payments to investors. Some of the principal goes into a special account to cover any early loan payoffs. This helps keep your payments steady even if interest rates change and people start paying off their loans early. By setting aside part of the principal, the TAC can make sure that you still get your interest payments on time, even if the interest rates on the underlying loans go up or down.
 

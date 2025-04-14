@@ -48,7 +48,7 @@ Also, industries where prices change a lot, like energy and commodities, can use
 
 PIAE can be used for many different types of companies, but it works best for some more than others. Companies that are always coming up with new things, like tech or drug companies, really benefit from PIAE. It helps show how much of their earnings come from new ideas, not just from selling more of what they already have. This is important because it tells investors if a company is really innovating and staying ahead in a fast-changing world.
 
-Also, PIAE is useful for companies in industries where prices change a lot, like energy or commodities. If oil prices go up, a company's regular earnings might look better, but that's just because oil costs more, not because the company is doing better at its job. PIAE adjusts for these price changes, so investors can see the real performance of the company, without being fooled by changes in the market. While PIAE can be applied to all types of companies, it's most helpful for those in industries with a lot of innovation or price volatility.
+Also, PIAE is useful for companies in industries where prices change a lot, like energy or commodities. If oil prices go up, a company's regular earnings might look better, but that's just because oil costs more, not because the company is doing better at its job. PIAE adjusts for these price changes, so investors can see the real performance of the company, without being fooled by changes in the market. While PIAE can be applied to all types of companies, it's most helpful for those in industries with a lot of innovation or price [volatility](/wiki/volatility-trading-strategies).
 
 ## What are the limitations of using PIAE?
 

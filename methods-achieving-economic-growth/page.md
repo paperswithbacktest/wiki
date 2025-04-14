@@ -30,7 +30,7 @@ Also, new technology can create new jobs and industries. When something new is i
 
 Investments in infrastructure, like roads, bridges, and power plants, help the economy grow by making it easier for people and goods to move around. When roads and bridges are good, trucks can deliver things faster and cheaper. This means businesses can sell their products in more places and maybe even sell more. Also, good infrastructure helps workers get to their jobs easier, so they can work more and earn more money. All of this helps the economy get bigger because more things are being made and sold.
 
-Also, when the government spends money on infrastructure, it creates jobs for the people who build these projects. This means more people are working and earning money, which they can spend on things they need or want. When people spend more, it helps other businesses grow because they sell more. So, investing in infrastructure can start a cycle where more people work, more things are made, and the economy keeps growing.
+Also, when the government spends money on infrastructure, it creates jobs for the people who build these projects. This means more people are working and [earning](/wiki/earning-announcement) money, which they can spend on things they need or want. When people spend more, it helps other businesses grow because they sell more. So, investing in infrastructure can start a cycle where more people work, more things are made, and the economy keeps growing.
 
 ## What are the effects of education and human capital development on economic growth?
 

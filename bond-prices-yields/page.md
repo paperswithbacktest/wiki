@@ -18,7 +18,7 @@ Bonds are considered safer than stocks because they provide a steady income thro
 
 Bond prices are determined by a few key factors, mainly the interest rate and the bond's face value. When you buy a bond, you pay a price, and in return, you get regular interest payments until the bond matures. The interest rate, or coupon rate, is set when the bond is issued. If the market interest rates go up after you buy the bond, the price of your bond will go down because new bonds will offer higher interest rates. On the other hand, if market interest rates go down, the price of your bond will go up because your bond's interest rate looks more attractive compared to new bonds.
 
-Another factor that affects bond prices is the creditworthiness of the issuer. If people think the company or government that issued the bond might have trouble paying back the money, the bond's price will drop. This is because investors want a higher return to take on more risk. Also, the time left until the bond matures can influence its price. Bonds that will mature soon are less affected by changes in interest rates than bonds that have many years left before they mature. So, bond prices are always changing based on these factors, and understanding them can help you make better investment decisions.
+Another [factor](/wiki/factor-investing) that affects bond prices is the creditworthiness of the issuer. If people think the company or government that issued the bond might have trouble paying back the money, the bond's price will drop. This is because investors want a higher return to take on more risk. Also, the time left until the bond matures can influence its price. Bonds that will mature soon are less affected by changes in interest rates than bonds that have many years left before they mature. So, bond prices are always changing based on these factors, and understanding them can help you make better investment decisions.
 
 ## What is the relationship between bond prices and yields?
 
@@ -36,7 +36,7 @@ The time left until the bond matures also plays a role. Bonds that will mature s
 
 ## How do interest rates affect bond prices?
 
-Interest rates and bond prices move in opposite directions. When interest rates go up, bond prices go down. This happens because new bonds that are issued will have higher interest rates. If you already own a bond with a lower interest rate, it becomes less attractive to new buyers. They would rather buy a new bond with a higher interest rate. So, to sell your old bond, you might have to lower its price. This makes the yield on your bond go up because the interest payment is now a bigger part of the lower price.
+Interest rates and bond prices move in opposite directions. When interest rates go up, bond prices go down. This happens because new bonds that are issued will have higher interest rates. If you already own a bond with a lower [interest rate](/wiki/interest-rate-trading-strategies), it becomes less attractive to new buyers. They would rather buy a new bond with a higher interest rate. So, to sell your old bond, you might have to lower its price. This makes the yield on your bond go up because the interest payment is now a bigger part of the lower price.
 
 On the other hand, when interest rates go down, bond prices go up. New bonds that are issued will have lower interest rates, making your old bond with a higher interest rate more attractive to buyers. They would rather buy your bond than a new one with a lower interest rate. So, you can sell your old bond for a higher price. This makes the yield on your bond go down because the interest payment is now a smaller part of the higher price. Understanding this relationship can help you make better decisions about when to buy or sell bonds.
 
@@ -48,7 +48,7 @@ To figure out the YTM, you need to do some math. It's the rate that makes the pr
 
 ## How can you calculate the current yield of a bond?
 
-The current yield of a bond is a simple way to see how much money you're earning from the bond right now. It's calculated by taking the yearly interest payment you get from the bond and dividing it by the price you paid for the bond. Then, you multiply that number by 100 to get a percentage. For example, if you paid $1,000 for a bond that pays $50 every year, the current yield would be ($50 / $1,000) * 100 = 5%.
+The current yield of a bond is a simple way to see how much money you're [earning](/wiki/earning-announcement) from the bond right now. It's calculated by taking the yearly interest payment you get from the bond and dividing it by the price you paid for the bond. Then, you multiply that number by 100 to get a percentage. For example, if you paid $1,000 for a bond that pays $50 every year, the current yield would be ($50 / $1,000) * 100 = 5%.
 
 Current yield is helpful because it shows you the bond's return based on its current market price. But remember, it doesn't tell you everything. It doesn't include any changes in the bond's price over time or the money you get back when the bond matures. So, while it's a good quick check, you might want to look at other things like the yield to maturity to get a full picture of your investment.
 

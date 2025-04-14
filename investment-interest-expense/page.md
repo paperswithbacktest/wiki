@@ -22,9 +22,9 @@ Other types of interest expenses might include interest on personal loans, credi
 
 ## Can you explain the basic calculation of investment interest expense?
 
-The basic calculation of investment interest expense is quite simple. If you borrow money to buy investments, you need to look at the interest rate on your loan. Let's say you borrow $10,000 at an interest rate of 5%. To find out your investment interest expense, you multiply the amount you borrowed by the interest rate. In this example, $10,000 times 5% gives you an investment interest expense of $500 for the year.
+The basic calculation of investment interest expense is quite simple. If you borrow money to buy investments, you need to look at the [interest rate](/wiki/interest-rate-trading-strategies) on your loan. Let's say you borrow $10,000 at an interest rate of 5%. To find out your investment interest expense, you multiply the amount you borrowed by the interest rate. In this example, $10,000 times 5% gives you an investment interest expense of $500 for the year.
 
-However, the actual amount you can deduct on your taxes might be different. You can only deduct investment interest expense up to the amount of your net investment income. If your net investment income for the year is less than your interest expense, you can carry over the unused part to the next year. This means you might be able to use it to reduce your taxes in future years.
+However, the actual amount you can deduct on your taxes might be different. You can only deduct investment interest expense up to the amount of your net investment income. If your net investment income for the year is less than your interest expense, you can [carry](/wiki/carry-trading) over the unused part to the next year. This means you might be able to use it to reduce your taxes in future years.
 
 ## What types of investments typically generate investment interest expense?
 
@@ -112,11 +112,11 @@ In summary, understanding financial interest and investment expenses is essentia
 
 FASB: Standards & Guidance
 
-The Financial Accounting Standards Board (FASB) provides guidelines crucial for accounting practices related to financial interest and investment expenses. Understanding these standards is essential for maintaining transparency and consistency in financial reporting, which is vital for the integration of financial calculations into algorithmic trading strategies. More information on FASB's standards can be accessed at their official website: [FASB Standards](https://www.fasb.org/).
+The Financial Accounting Standards Board (FASB) provides guidelines crucial for accounting practices related to financial interest and investment expenses. Understanding these standards is essential for maintaining transparency and consistency in financial reporting, which is vital for the integration of financial calculations into [algorithmic trading](/wiki/algorithmic-trading) strategies. More information on FASB's standards can be accessed at their official website: [FASB Standards](https://www.fasb.org/).
 
 Lopez de Prado, M. Advances in Financial Machine Learning
 
-Marcos Lopez de Prado's book, "Advances in Financial Machine Learning," is a pivotal resource for understanding how machine learning technologies can transform the financial markets. It investigates into the use of algorithms for optimal trading strategies, elucidating the integration of sophisticated financial calculations within trading algorithms. The book is a fundamental reference for professionals aiming to enhance their algorithmic trading skills with advanced machine learning techniques.
+Marcos Lopez de Prado's book, "Advances in Financial Machine Learning," is a pivotal resource for understanding how [machine learning](/wiki/machine-learning) technologies can transform the financial markets. It investigates into the use of algorithms for optimal trading strategies, elucidating the integration of sophisticated financial calculations within trading algorithms. The book is a fundamental reference for professionals aiming to enhance their algorithmic trading skills with advanced machine learning techniques.
 
 Aronson, D. R. Evidence-Based Technical Analysis
 

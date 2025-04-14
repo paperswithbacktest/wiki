@@ -25,7 +25,7 @@ The main benefit of using Federated Learning is that it keeps your data private.
 
 Another big advantage is that Federated Learning can work with data from all over the world. Since the data doesn't need to be moved to one place, devices in different countries can all help train the model. This can make the model better because it learns from a lot of different kinds of data. It's especially useful for companies that want to improve their services without having to deal with different countries' privacy laws.
 
-Lastly, Federated Learning can save a lot of time and effort when it comes to data management. In traditional machine learning, companies need to gather all the data, clean it, and make sure it's ready for training. With Federated Learning, the data stays on the devices, so companies don't have to spend time and money moving and managing large amounts of data. This makes the whole process of training a model a lot easier and more efficient.
+Lastly, Federated Learning can save a lot of time and effort when it comes to data management. In traditional [machine learning](/wiki/machine-learning), companies need to gather all the data, clean it, and make sure it's ready for training. With Federated Learning, the data stays on the devices, so companies don't have to spend time and money moving and managing large amounts of data. This makes the whole process of training a model a lot easier and more efficient.
 
 ## What are the common challenges faced in implementing Federated Learning?
 

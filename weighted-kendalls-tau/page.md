@@ -138,7 +138,7 @@ Real-world applications demonstrate the value of weighted Kendall’s Tau in fin
 
 ### Equities Market Case Study
 
-In the equities market, a quantitative trading firm may utilize weighted Kendall’s Tau to analyze the correlation between various technical indicators and stock returns. By assigning weights to different indicators based on their historical predictive power, traders can prioritize those with higher significance when devising trading strategies. For instance, if moving averages for a particular stock have shown a strong correlation with future price movements, they can be given higher weights in the analysis. 
+In the equities market, a [quantitative trading](/wiki/quantitative-trading) firm may utilize weighted Kendall’s Tau to analyze the correlation between various technical indicators and stock returns. By assigning weights to different indicators based on their historical predictive power, traders can prioritize those with higher significance when devising trading strategies. For instance, if moving averages for a particular stock have shown a strong correlation with future price movements, they can be given higher weights in the analysis. 
 
 When calculating the weighted Kendall's Tau, the formula is modified to include weights $w_i$ for each pair of observations:
 
@@ -175,7 +175,7 @@ In practice, the use of weighted Kendall’s Tau has yielded superior alignment 
 
 Comparing the performance of weighted Kendall’s Tau against other correlation metrics such as Pearson’s or Spearman’s rank reveals notable advantages in accounting for weighted significance. While Pearson might overlook nuanced weight variations and Spearman treats all items equally important in rank, weighted Kendall’s Tau provides a refined view, accommodating specificities tied to market impacts.
 
-Through these case studies, it becomes evident that the strategic use of weighted rankings allows traders not only to adapt to swiftly changing markets but also to refine their strategy accuracy significantly. The adaptability and precision offered by weighted Kendall’s Tau make it an indispensable tool in algorithmic trading’s advanced analytics repertoire.
+Through these case studies, it becomes evident that the strategic use of weighted rankings allows traders not only to adapt to swiftly changing markets but also to refine their strategy accuracy significantly. The adaptability and precision offered by weighted Kendall’s Tau make it an indispensable tool in [algorithmic trading](/wiki/algorithmic-trading)’s advanced analytics repertoire.
 
 ## References & Further Reading
 

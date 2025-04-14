@@ -82,7 +82,7 @@ Another big event that shaped economic disagreements was the fall of the Soviet 
 
 ## What advanced methodologies are used to analyze and potentially resolve economic disagreements?
 
-Economists use advanced methods like econometrics to help figure out economic disagreements. Econometrics is a way of using math and statistics to look at data and see what it means. For example, economists might use econometrics to test if a new policy, like raising the minimum wage, really helps workers. They can look at data from different places and times to see if the policy worked or not. By doing this, they hope to find clear answers that can help them agree. But because the economy is so complicated, even with these advanced methods, they might still see the data differently and disagree about what it means.
+Economists use advanced methods like econometrics to help figure out economic disagreements. Econometrics is a way of using math and [statistics](/wiki/bayesian-statistics) to look at data and see what it means. For example, economists might use econometrics to test if a new policy, like raising the minimum wage, really helps workers. They can look at data from different places and times to see if the policy worked or not. By doing this, they hope to find clear answers that can help them agree. But because the economy is so complicated, even with these advanced methods, they might still see the data differently and disagree about what it means.
 
 Another advanced method economists use is called computational modeling. This is when they use computers to build models that can show how different parts of the economy work together. For example, they can use a computer model to see what might happen if the government spends more money or changes taxes. These models can help economists test their ideas and see if they hold up. By sharing these models and the results they get, economists can talk to each other and maybe find common ground. But because these models are still simplified versions of the real world, they might not always give clear answers, and economists can still disagree about how to use them or what they mean.
 
@@ -92,7 +92,7 @@ Algorithmic trading systems are often designed to leverage economic theories to 
 
 Consider the Keynesian economists, who advocate for government intervention to stabilize markets. An algorithm based on this theory might prioritize macroeconomic indicators such as government spending, fiscal policies, and interest rates as key inputs for predicting market trends. On the other hand, proponents of free-market economics, who favor minimal government interference, might emphasize market-based indicators like supply-demand metrics and price elasticity.
 
-These divergent approaches illustrate how contrasting economic perspectives can shape the development and implementation of algorithmic trading models. For instance, a trading algorithm aligned with free-market principles may utilize a supply-demand model, represented by the formula: 
+These divergent approaches illustrate how contrasting economic perspectives can shape the development and implementation of [algorithmic trading](/wiki/algorithmic-trading) models. For instance, a trading algorithm aligned with free-market principles may utilize a supply-demand model, represented by the formula: 
 
 $$
 \text{Price Change} = \alpha (\text{Demand} - \text{Supply})

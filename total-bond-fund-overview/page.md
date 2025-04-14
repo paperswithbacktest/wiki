@@ -24,7 +24,7 @@ Another way a Total Bond Fund differs is in its goal to match the performance of
 
 One of the main benefits of investing in a Total Bond Fund is that it helps spread out your risk. Because the fund includes many different types of bonds, like government bonds and corporate bonds from different countries, it's less likely that all the bonds will do badly at the same time. If one type of bond doesn't do well, the others might help balance things out. This makes a Total Bond Fund a safer choice compared to putting all your money into just one type of bond.
 
-Another benefit is that Total Bond Funds usually have lower fees. Since these funds aim to match the performance of a broad bond market index rather than trying to beat it, the managers don't need to do as much work picking specific bonds. This means they can charge less for managing the fund. Lower fees mean you get to keep more of your investment returns, which is good for your wallet over time.
+Another benefit is that Total Bond Funds usually have lower fees. Since these funds aim to match the performance of a broad bond market index rather than trying to beat it, the managers don't need to do as much work [picking](/wiki/asset-class-picking) specific bonds. This means they can charge less for managing the fund. Lower fees mean you get to keep more of your investment returns, which is good for your wallet over time.
 
 ## What are the risks associated with Total Bond Funds?
 
@@ -72,7 +72,7 @@ Besides management fees, there can be other costs too. One of these is the expen
 
 The duration of bonds in a Total Bond Fund is really important because it tells you how sensitive the fund is to changes in interest rates. Duration is like a measure of how long it takes for you to get back the money you invested in the bond, including the interest payments. If a Total Bond Fund has bonds with a longer duration, it means the fund will be more affected by changes in interest rates. When interest rates go up, the value of these longer-duration bonds will drop more than shorter-duration bonds. On the other hand, if interest rates go down, the value of these longer-duration bonds will go up more too.
 
-So, if you're thinking about investing in a Total Bond Fund, it's a good idea to check the average duration of the bonds in the fund. A fund with a shorter average duration will be less sensitive to interest rate changes, which might be better if you're worried about rates going up. But if you think interest rates will go down, a fund with a longer average duration could give you bigger gains. Understanding the duration helps you know how the fund might react to changes in interest rates and can help you make a smarter investment choice.
+So, if you're thinking about investing in a Total Bond Fund, it's a good idea to check the average duration of the bonds in the fund. A fund with a shorter average duration will be less sensitive to [interest rate](/wiki/interest-rate-trading-strategies) changes, which might be better if you're worried about rates going up. But if you think interest rates will go down, a fund with a longer average duration could give you bigger gains. Understanding the duration helps you know how the fund might react to changes in interest rates and can help you make a smarter investment choice.
 
 ## What advanced strategies can be used to optimize returns from a Total Bond Fund?
 

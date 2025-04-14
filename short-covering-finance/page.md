@@ -46,7 +46,7 @@ Another risk is a short squeeze. This happens when a lot of people who shorted t
 
 ## How can short covering be identified in the market?
 
-You can spot short covering in the market by looking at the stock's trading volume and price movements. If a stock's price starts to go up and the trading volume is high, it might mean that people who shorted the stock are buying it back. This is because they need to cover their short positions, and their buying can push the price up.
+You can spot short covering in the market by looking at the stock's trading [volume](/wiki/volume-trading-strategy) and price movements. If a stock's price starts to go up and the trading volume is high, it might mean that people who shorted the stock are buying it back. This is because they need to cover their short positions, and their buying can push the price up.
 
 Another way to identify short covering is by watching for sudden price jumps. If a stock's price suddenly goes up a lot in a short time, it could be a sign of a short squeeze. This happens when many people who shorted the stock start buying it back at the same time, causing the price to rise quickly. So, by keeping an eye on trading volume and sudden price changes, you can tell if short covering is happening.
 
@@ -70,7 +70,7 @@ Another way traders can take advantage of short covering is by using options. Th
 
 ## How does short covering affect market volatility?
 
-Short covering can make the market more volatile. When a lot of people who shorted a stock start buying it back at the same time, it can cause big price swings. This happens because their buying adds more demand for the stock, which can make its price go up quickly. If the stock's price was already going up a little, the short covering can make it go up even more. This can create a lot of excitement and nervousness in the market, causing more people to buy or sell the stock, which adds to the volatility.
+Short covering can make the market more volatile. When a lot of people who shorted a stock start buying it back at the same time, it can cause big price swings. This happens because their buying adds more demand for the stock, which can make its price go up quickly. If the stock's price was already going up a little, the short covering can make it go up even more. This can create a lot of excitement and nervousness in the market, causing more people to buy or sell the stock, which adds to the [volatility](/wiki/volatility-trading-strategies).
 
 Sometimes, short covering can lead to a short squeeze, which makes the market even more volatile. A short squeeze happens when the stock's price goes up fast because a lot of short sellers are trying to cover their positions at the same time. This can make the stock's price jump a lot in a short time, which can be stressful for everyone involved. The big price changes can make other investors and traders react quickly, buying or selling based on the sudden moves, which can make the market even more unpredictable and volatile.
 

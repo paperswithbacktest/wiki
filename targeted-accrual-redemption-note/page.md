@@ -22,7 +22,7 @@ TARNs are often tied to things like currency exchange rates or interest rates. I
 
 ## What are the key features of a TARN?
 
-A Targeted Accrual Redemption Note (TARN) is a special kind of investment that mixes features of bonds and options. It's designed to give investors a certain amount of money over time. The TARN pays a fixed interest rate until it reaches a target amount. Once it hits that target, the note ends early, and the investor gets their money back plus the interest earned. If the target isn't reached within the set time, the note keeps paying interest until the end of its term.
+A Targeted Accrual Redemption Note (TARN) is a special kind of investment that mixes features of bonds and options. It's designed to give investors a certain amount of money over time. The TARN pays a fixed [interest rate](/wiki/interest-rate-trading-strategies) until it reaches a target amount. Once it hits that target, the note ends early, and the investor gets their money back plus the interest earned. If the target isn't reached within the set time, the note keeps paying interest until the end of its term.
 
 TARNs are often linked to things like currency exchange rates or interest rates. If these rates move in a good way for the investor, the note can reach its target quickly, and the investor gets their money back sooner. But if the rates move in a bad way, the note might not reach its target, and the investor could end up with less money than they hoped for. This makes TARNs tricky and risky, so they're usually best for people who know a lot about investing and understand the risks involved.
 
@@ -34,7 +34,7 @@ These investors like TARNs because they can offer high returns if things go well
 
 ## What are the potential benefits of investing in a TARN?
 
-Investing in a TARN can offer high returns if things go well. If the market moves in the right way, the TARN can reach its target quickly, and you get your money back plus the interest you earned. This means you could make more money in a shorter time than with other investments. It's like getting a bonus for picking the right investment at the right time.
+Investing in a TARN can offer high returns if things go well. If the market moves in the right way, the TARN can reach its target quickly, and you get your money back plus the interest you earned. This means you could make more money in a shorter time than with other investments. It's like getting a bonus for [picking](/wiki/asset-class-picking) the right investment at the right time.
 
 But TARNs are not for everyone. They are best for people who know a lot about finance and are okay with taking risks. If the market doesn't move in the right way, you might not reach the target, and you could end up with less money than you hoped for. So, while TARNs can be a good choice for some, they come with risks that you need to understand before investing.
 

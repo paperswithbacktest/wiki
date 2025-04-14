@@ -30,7 +30,7 @@ It's also helpful when you're planning to make changes to your home. For example
 
 ## How can someone calculate the replacement cost of their property?
 
-To calculate the replacement cost of your property, you need to think about how much it would cost to rebuild your home and replace everything inside it if it were completely destroyed. Start by finding out the cost per square foot to build a new home similar to yours in your area. You can talk to local builders or check with insurance agents to get an idea of this cost. Then, multiply this cost by the size of your home in square feet. This gives you a good starting point for the replacement cost of the building itself.
+To calculate the replacement cost of your property, you need to think about how much it would cost to rebuild your home and replace everything inside it if it were completely destroyed. Start by finding out the cost per square foot to build a new home similar to yours in your area. You can talk to local builders or check with insurance [agents](/wiki/agents) to get an idea of this cost. Then, multiply this cost by the size of your home in square feet. This gives you a good starting point for the replacement cost of the building itself.
 
 Next, you need to think about all the things inside your home, like furniture, appliances, and personal belongings. Make a list of everything you own and find out how much it would cost to buy these items new today. You can use online shopping sites or visit stores to get an idea of current prices. Add up the total cost of all your belongings to find out the replacement cost for your personal property. When you add the replacement cost of the building and your belongings together, you get the total replacement cost of your property.
 

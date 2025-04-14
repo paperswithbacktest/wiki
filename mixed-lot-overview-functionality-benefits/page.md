@@ -111,7 +111,7 @@ This snippet demonstrates how CNNs can be implemented to handle sequences, benef
 
 ### Deep Reinforcement Learning (DRL)
 
-DRL offers a dynamic approach to decision-making by learning optimal strategies through interactions with the environment. In the context of inventory management, DRL models can adapt to market changes by adjusting stock levels in real-time, which is crucial for high volatility scenarios. The integration of DRL into inventory strategies provides systems with the capacity for continual adaptation and optimization.
+DRL offers a dynamic approach to decision-making by learning optimal strategies through interactions with the environment. In the context of inventory management, DRL models can adapt to market changes by adjusting stock levels in real-time, which is crucial for high [volatility](/wiki/volatility-trading-strategies) scenarios. The integration of DRL into inventory strategies provides systems with the capacity for continual adaptation and optimization.
 
 These models leverage algorithms where an agent learns to make decisions by receiving feedback from the environment, potentially formalized as:
 
@@ -123,7 +123,7 @@ Here, $Q(s, a)$ represents the quality of a particular action $a$ taken in state
 
 ### Advanced Solutions for Trading Strategies
 
-When integrated into trading systems, these advanced machine learning models facilitate the development of sophisticated, customized solutions that enhance trading strategies by optimizing inventory levels, reducing holding costs, and improving liquidity. The actionable insights derived from these models enable businesses to refine their inventory and forecasting strategies, thereby bolstering operational efficiency and competitive advantage.
+When integrated into trading systems, these advanced [machine learning](/wiki/machine-learning) models facilitate the development of sophisticated, customized solutions that enhance trading strategies by optimizing inventory levels, reducing holding costs, and improving [liquidity](/wiki/liquidity-risk-premium). The actionable insights derived from these models enable businesses to refine their inventory and forecasting strategies, thereby bolstering operational efficiency and competitive advantage.
 
 ## References & Further Reading
 

@@ -84,7 +84,7 @@ Another development might be making the Adjustment Index more personalized. Righ
 
 ## What is the impact of Algorithmic Trading on the Financial Market?
 
-Algorithmic trading, often known as algo trading, utilizes computer algorithms to automate financial trading. These algorithms execute trades at speeds and frequencies that exceed human capabilities, transforming how the financial markets operate. By leveraging technological advancements, algorithmic trading allows market participants to process large volumes of data, employ complex trading strategies, and gain competitive advantages.
+Algorithmic trading, often known as algo trading, utilizes computer algorithms to automate financial trading. These algorithms execute trades at speeds and frequencies that exceed human capabilities, transforming how the financial markets operate. By leveraging technological advancements, [algorithmic trading](/wiki/algorithmic-trading) allows market participants to process large volumes of data, employ complex trading strategies, and gain competitive advantages.
 
 Economic indicators are integral to algorithmic trading systems, providing essential data that informs trading decisions. Algorithms analyze indicators such as GDP growth, employment rates, inflation, and interest rates to assess market conditions and predict future movements. This data-driven approach helps traders anticipate market trends and opportunities, enabling more informed and timely decision-making.
 

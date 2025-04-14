@@ -82,9 +82,9 @@ For warrants, you can also use the Black-Scholes model, but there's another way 
 
 ## How do you set up your algorithmic trading system?
 
-To establish a sound algorithmic trading system for warrants, choosing an appropriate trading platform is critical. Trading platforms such as QuantConnect and MetaTrader 5 offer robust capabilities for algorithmic trading, providing essential tools for backtesting, strategy development, and detailed market analysis. These platforms support various programming languages and provide access to extensive financial databases, flexibility in modeling strategies, and deployment options.
+To establish a sound [algorithmic trading](/wiki/algorithmic-trading) system for warrants, choosing an appropriate trading platform is critical. Trading platforms such as QuantConnect and MetaTrader 5 offer robust capabilities for algorithmic trading, providing essential tools for [backtesting](/wiki/backtesting), strategy development, and detailed market analysis. These platforms support various programming languages and provide access to extensive financial databases, flexibility in modeling strategies, and deployment options.
 
-Developing a solid trading strategy that aligns with the characteristics of warrants is crucial. This process involves setting precise entry and exit points, crucial for optimizing the timing of trades and managing risks effectively. Traders often utilize quantitative models and statistical methods to inform their strategies. For example, using a moving average crossover strategy can signal potential entry and exit opportunities:
+Developing a solid trading strategy that aligns with the characteristics of warrants is crucial. This process involves setting precise entry and [exit](/wiki/exit-strategy) points, crucial for optimizing the timing of trades and managing risks effectively. Traders often utilize quantitative models and statistical methods to inform their strategies. For example, using a moving average crossover strategy can signal potential entry and exit opportunities:
 
 ```python
 def moving_average_strategy(prices, short_window, long_window):

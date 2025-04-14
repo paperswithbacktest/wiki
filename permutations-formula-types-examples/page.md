@@ -26,7 +26,7 @@ In simple terms, if the sequence of items matters, you're dealing with permutati
 
 The basic formula for calculating permutations is simple. If you want to know how many ways you can arrange a certain number of items, you use the formula `n! / (n - r)!`. Here, `n` is the total number of items you have, and `r` is the number of items you want to arrange. The `!` symbol means "factorial," which is a way of multiplying numbers. For example, `5!` (5 factorial) is `5 x 4 x 3 x 2 x 1`, which equals 120.
 
-Let's say you have 7 books and you want to know how many ways you can arrange 3 of them on a shelf. You would use the formula like this: `7! / (7 - 3)!`. That's the same as `7! / 4!`. If you calculate it, `7!` is `7 x 6 x 5 x 4 x 3 x 2 x 1`, which equals 5040. And `4!` is `4 x 3 x 2 x 1`, which equals 24. So, `5040 / 24` gives you 210. That means there are 210 different ways to arrange 3 books out of 7 on a shelf.
+Let's say you have 7 [books](/wiki/algo-trading-books) and you want to know how many ways you can arrange 3 of them on a shelf. You would use the formula like this: `7! / (7 - 3)!`. That's the same as `7! / 4!`. If you calculate it, `7!` is `7 x 6 x 5 x 4 x 3 x 2 x 1`, which equals 5040. And `4!` is `4 x 3 x 2 x 1`, which equals 24. So, `5040 / 24` gives you 210. That means there are 210 different ways to arrange 3 books out of 7 on a shelf.
 
 ## Can you explain the factorial notation used in permutations?
 
@@ -84,7 +84,7 @@ To make things a bit easier, computer scientists have come up with smarter ways 
 
 ## Why does order matter in permutations versus combinations?
 
-In mathematics, understanding the difference between permutations and combinations is crucial, especially when applied to algorithmic trading. Permutations involve arrangements where the order of elements is significant. Mathematically, the number of permutations of arranging $r$ elements out of $n$ available is given by:
+In mathematics, understanding the difference between permutations and combinations is crucial, especially when applied to [algorithmic trading](/wiki/algorithmic-trading). Permutations involve arrangements where the order of elements is significant. Mathematically, the number of permutations of arranging $r$ elements out of $n$ available is given by:
 
 $$
 P(n, r) = \frac{n!}{(n-r)!}

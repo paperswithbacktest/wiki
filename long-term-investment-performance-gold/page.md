@@ -24,7 +24,7 @@ However, the price of gold does not go up in a straight line. It can go up and d
 
 Several things can affect how well gold does over a long time. One big thing is inflation. When prices for things like food and houses go up, people might buy gold to keep their money safe. Gold often goes up in price when inflation is high. Another thing is the strength of the US dollar. When the dollar is weak, gold usually costs more because it is priced in dollars. If the dollar is strong, gold might not go up as much. Also, when there is a lot of worry or trouble in the world, like wars or big economic problems, people might buy gold because they think it is safe. This can make the price of gold go up.
 
-Another factor is how much gold is being produced and found. If miners find a lot of new gold, the price might go down because there is more of it. But if it is hard to find new gold, the price might go up. Interest rates can also play a role. When interest rates are low, people might buy gold instead of putting their money in the bank because they can't earn much interest. But when interest rates are high, people might choose to keep their money in the bank instead of buying gold. All these things together help decide how gold will do over many years.
+Another [factor](/wiki/factor-investing) is how much gold is being produced and found. If miners find a lot of new gold, the price might go down because there is more of it. But if it is hard to find new gold, the price might go up. Interest rates can also play a role. When interest rates are low, people might buy gold instead of putting their money in the bank because they can't earn much interest. But when interest rates are high, people might choose to keep their money in the bank instead of buying gold. All these things together help decide how gold will do over many years.
 
 ## How does gold compare to other investment options like stocks and bonds over the long term?
 
@@ -115,7 +115,7 @@ plt.grid(True)
 plt.show()
 ```
 
-Gold's ability to preserve wealth during crises and its hedge against inflation have entrenched its reputation as a robust investment. Despite periodic volatility, its long-term trajectory has aligned with investors' expectations for stability and value retention. Understanding these historical insights is invaluable for anticipating how gold might behave amidst future economic challenges and opportunities.
+Gold's ability to preserve wealth during crises and its hedge against inflation have entrenched its reputation as a robust investment. Despite periodic [volatility](/wiki/volatility-trading-strategies), its long-term trajectory has aligned with investors' expectations for stability and value retention. Understanding these historical insights is invaluable for anticipating how gold might behave amidst future economic challenges and opportunities.
 
 ## References & Further Reading
 

@@ -22,7 +22,7 @@ Because of climate change, we might see more heatwaves, where it's really hot fo
 
 ## What are the basic mechanisms that drive weather changes?
 
-Weather changes because of how the sun heats the Earth and how the air moves around. The sun heats the Earth unevenly, making some places warmer than others. This causes the air to move from hot areas to cooler ones, creating wind. When the air moves, it can carry water vapor with it. If the air rises and cools down, the water vapor can turn into clouds and eventually rain or snow.
+Weather changes because of how the sun heats the Earth and how the air moves around. The sun heats the Earth unevenly, making some places warmer than others. This causes the air to move from hot areas to cooler ones, creating wind. When the air moves, it can [carry](/wiki/carry-trading) water vapor with it. If the air rises and cools down, the water vapor can turn into clouds and eventually rain or snow.
 
 Another thing that drives weather changes is the Earth's rotation. It makes the air move in big circles called high and low pressure systems. High pressure usually means nice weather, while low pressure can bring storms. Oceans also play a big role because they can store heat and release it slowly, affecting the air above them. So, the mix of sun, Earth's spin, and oceans all work together to make the weather change day by day.
 
@@ -70,7 +70,7 @@ Another important way to adapt is by working together as a community. People can
 
 ## What are the latest advancements in weather modeling and prediction?
 
-The latest advancements in weather modeling and prediction have made forecasts more accurate and detailed. One big improvement is in computer models, which now use more data and better math to predict the weather. These models can handle more information from satellites, weather stations, and even social media to get a better picture of what's happening. They can also look at smaller areas and shorter time periods, which helps with predicting things like sudden storms or local weather changes. Another cool thing is the use of artificial intelligence (AI). AI can find patterns in the data that humans might miss, making predictions even better.
+The latest advancements in weather modeling and prediction have made forecasts more accurate and detailed. One big improvement is in computer models, which now use more data and better math to predict the weather. These models can handle more information from satellites, weather stations, and even social media to get a better picture of what's happening. They can also look at smaller areas and shorter time periods, which helps with predicting things like sudden storms or local weather changes. Another cool thing is the use of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI). AI can find patterns in the data that humans might miss, making predictions even better.
 
 Another advancement is in the technology used to gather weather data. New satellites can see more details about the Earth's atmosphere, like how much water vapor is in the air or how clouds are moving. On the ground, weather stations now have better sensors that can measure things like temperature and wind more accurately. Also, weather balloons and drones are being used more to get data from places that are hard to reach. All this new information helps make weather models more reliable, so people can plan better for the future.
 

@@ -90,7 +90,7 @@ Algorithmic trading, commonly referred to as algo trading, entails the use of co
 
 **Understanding Algorithms in Trading:**
 
-At the heart of algo trading are sophisticated algorithms. These algorithms are designed to process real-time financial data, evaluate market conditions, and determine optimal trading strategies. They employ various mathematical models and statistical techniques to forecast price movements and assess risk levels. This predictive capability enables traders to enter or exit positions swiftly, minimizing the risk associated with human error and emotion-driven decisions.
+At the heart of algo trading are sophisticated algorithms. These algorithms are designed to process real-time financial data, evaluate market conditions, and determine optimal trading strategies. They employ various mathematical models and statistical techniques to forecast price movements and assess risk levels. This predictive capability enables traders to enter or [exit](/wiki/exit-strategy) positions swiftly, minimizing the risk associated with human error and emotion-driven decisions.
 
 For instance, some algorithms utilize moving averages as signals for trading actions. The formula for a simple moving average (SMA) over a period $n$ is:
 

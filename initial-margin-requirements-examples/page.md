@@ -32,7 +32,7 @@ Initial margin requirements can vary a lot depending on the type of financial in
 
 For options trading, the initial margin requirements can be different. If you're buying an option, you usually don't need to put down an initial margin because you're just paying the premium for the option. But if you're selling or writing an option, you do need to put up margin. This is because when you sell an option, you're taking on more risk. The margin for selling options can be around 20% to 30% of the underlying stock's value, but it can vary based on the specific option and the market's volatility.
 
-In forex trading, the initial margin requirement is usually expressed as a percentage of the total trade value, often called leverage. Common initial margin requirements in forex can be as low as 1% to 2% of the trade's value. This means with a leverage of 100:1, you might only need to put down $1,000 to control a $100,000 position. However, forex margin requirements can also change based on the currency pair being traded and the broker's policies.
+In [forex](/wiki/forex-system) trading, the initial margin requirement is usually expressed as a percentage of the total trade value, often called leverage. Common initial margin requirements in forex can be as low as 1% to 2% of the trade's value. This means with a leverage of 100:1, you might only need to put down $1,000 to control a $100,000 position. However, forex margin requirements can also change based on the currency pair being traded and the broker's policies.
 
 ## Can you provide examples of initial margin requirements for stocks?
 

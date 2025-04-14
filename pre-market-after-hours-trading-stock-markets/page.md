@@ -46,7 +46,7 @@ Another risk is that there might be less information available during these time
 
 ## How does liquidity affect pre-market and after-hours trading?
 
-Liquidity is about how easy it is to buy or sell something without changing its price too much. During pre-market and after-hours trading, there are fewer people trading, so there's less liquidity. This means if you want to buy or sell a stock, it might be harder to find someone to trade with. Because of this, the price of the stock can change a lot more than it would during the regular market hours when more people are trading.
+Liquidity is about how easy it is to buy or sell something without changing its price too much. During pre-market and after-hours trading, there are fewer people trading, so there's less [liquidity](/wiki/liquidity-risk-premium). This means if you want to buy or sell a stock, it might be harder to find someone to trade with. Because of this, the price of the stock can change a lot more than it would during the regular market hours when more people are trading.
 
 When there's less liquidity, it can be riskier to trade. If you want to buy a stock, you might have to pay more than you expected because there aren't many sellers. And if you want to sell, you might get less money than you hoped for because there aren't many buyers. So, while trading outside regular hours can let you act on new news quickly, you have to be ready for bigger price swings and the chance that it might be harder to make the trade you want.
 

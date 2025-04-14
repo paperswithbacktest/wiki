@@ -225,5 +225,5 @@ These advanced techniques and considerations underscore the importance of refini
 
 9. Online Courses and Lectures: Platforms like Coursera, edX, and Khan Academy offer courses on financial risk management and quantitative finance, including modules on VaR to build foundational knowledge or expand expertise.
 
-These resources will provide a well-rounded understanding of Value at Risk and its application in financial risk management and algorithmic trading.
+These resources will provide a well-rounded understanding of Value at Risk and its application in financial risk management and [algorithmic trading](/wiki/algorithmic-trading).
 

@@ -96,9 +96,9 @@ $$
 
 where $P_t$ is the price at time $t$ and $n$ is the number of periods considered. By comparing short-term and long-term SMAs, traders can identify crossover points that might indicate a buy or sell signal, particularly as these signals are amplified before a market closure like Labor Day.
 
-Despite their advantages, algorithmic traders face several challenges during Labor Day. The reduced market activity can lead to higher volatility and unpredictable price swings, causing algorithms that rely on high liquidity and tight spreads to perform poorly. Additionally, market closures result in discontinuous data streams, complicating the task of algorithms that depend on continuous input for real-time decision-making.
+Despite their advantages, algorithmic traders face several challenges during Labor Day. The reduced market activity can lead to higher [volatility](/wiki/volatility-trading-strategies) and unpredictable price swings, causing algorithms that rely on high [liquidity](/wiki/liquidity-risk-premium) and tight spreads to perform poorly. Additionally, market closures result in discontinuous data streams, complicating the task of algorithms that depend on continuous input for real-time decision-making.
 
-Another challenge is the increased risk of overfitting algorithms to historical data that may not accurately predict future behavior, particularly in the context of irregular trading patterns surrounding holidays. Thus, traders must ensure their models are robust and capable of adapting to the low-volume environment typical of holiday trading.
+Another challenge is the increased risk of overfitting algorithms to historical data that may not accurately predict future behavior, particularly in the context of irregular trading patterns surrounding holidays. Thus, traders must ensure their models are robust and capable of adapting to the low-[volume](/wiki/volume-trading-strategy) environment typical of holiday trading.
 
 In addressing these challenges, algorithmic traders can modify their strategies to account for expected volatility spikes and employ risk management techniques such as stop-loss orders or diversification across multiple assets. By doing so, they aim to optimize their performance during the atypical market conditions around Labor Day.
 
@@ -118,7 +118,7 @@ Examining existing seasonal trends is crucial for algorithmic traders, as these 
 
 However, the reliability of these trends for trading is subject to various factors. The impact of macroeconomic conditions, geopolitical events, and changes in market structure over time can alter these patterns. Therefore, reliance solely on historical data without considering current market conditions may result in suboptimal trading decisions.
 
-Historical data serves as a foundational element in developing algorithmic trading models. It allows traders to back-test their strategies, ensuring they perform well under different past market scenarios. Back-testing involves running an algorithm on historical data to evaluate its effectiveness, and is typically conducted using programming languages like Python. A simple back-test procedure would look like:
+Historical data serves as a foundational element in developing [algorithmic trading](/wiki/algorithmic-trading) models. It allows traders to back-test their strategies, ensuring they perform well under different past market scenarios. Back-testing involves running an algorithm on historical data to evaluate its effectiveness, and is typically conducted using programming languages like Python. A simple back-test procedure would look like:
 
 ```python
 import pandas as pd

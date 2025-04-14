@@ -72,7 +72,7 @@ Another problem is setting up a system that can accurately detect when an event 
 
 ## How does event-based sampling integrate with data analysis and machine learning?
 
-Event-based sampling works well with data analysis and machine learning because it gives you data that is focused on important moments. When you use event-based sampling, you collect information only when something special happens, like a machine breaking down or a customer making a purchase. This makes it easier for data analysts and machine learning models to study these events without having to sort through a lot of unimportant data. For example, if you're trying to predict when a machine might break down, event-based sampling gives you data on all the past breakdowns, which can be used to train a machine learning model to spot patterns and make predictions.
+Event-based sampling works well with data analysis and [machine learning](/wiki/machine-learning) because it gives you data that is focused on important moments. When you use event-based sampling, you collect information only when something special happens, like a machine breaking down or a customer making a purchase. This makes it easier for data analysts and machine learning models to study these events without having to sort through a lot of unimportant data. For example, if you're trying to predict when a machine might break down, event-based sampling gives you data on all the past breakdowns, which can be used to train a machine learning model to spot patterns and make predictions.
 
 Once you have this focused data, you can use it to train machine learning models to understand what leads to these events. For instance, if you're looking at customer purchases, the data from event-based sampling can help you see what customers do before they buy something. This information can be used to create models that predict future purchases or suggest products to customers. By using event-based sampling, you make sure that the data you feed into your analysis and machine learning models is relevant and useful, which can lead to better insights and more accurate predictions.
 
@@ -86,7 +86,7 @@ Another technique is using machine learning algorithms to predict when events ar
 
 Event-based sampling is a data collection technique where data is recorded contingent upon the occurrence of specific, predefined events within a dataset. This methodology contrasts with the traditional time-based sampling approach, where data is captured at constant, regular time intervals irrespective of market fluctuations.
 
-In algorithmic trading, event-based sampling often targets market events such as significant price changes, spikes in trading volume, or the dissemination of impactful news releases. For instance, rather than collecting prices at every minute, an event-based system might only record a price once it deviates by a certain percentage from the previous recorded price. This can be mathematically expressed for a price change event as:
+In [algorithmic trading](/wiki/algorithmic-trading), event-based sampling often targets market events such as significant price changes, spikes in trading volume, or the dissemination of impactful news releases. For instance, rather than collecting prices at every minute, an event-based system might only record a price once it deviates by a certain percentage from the previous recorded price. This can be mathematically expressed for a price change event as:
 
 $$
 P_{\text{new}} = P_{\text{old}} \times (1 + \delta)

@@ -22,7 +22,7 @@ When you look at the PPF, you'll notice that it's usually curved. This curve sho
 
 ## Why is the MRT important in economics?
 
-The Marginal Rate of Transformation (MRT) is important in economics because it helps producers make smart choices about what to make. Imagine you're a factory owner who can make either toys or books. The MRT tells you how many toys you have to stop making if you want to make one more book. This information is really helpful because it lets you know if making more books is worth it or if you should keep making toys instead.
+The Marginal Rate of Transformation (MRT) is important in economics because it helps producers make smart choices about what to make. Imagine you're a factory owner who can make either toys or [books](/wiki/algo-trading-books). The MRT tells you how many toys you have to stop making if you want to make one more book. This information is really helpful because it lets you know if making more books is worth it or if you should keep making toys instead.
 
 The MRT also shows how the trade-off between making different things changes as you produce more of one thing. As you make more books, you might find that you have to give up more and more toys for each additional book. This is because the resources you use to make things are better at making some things than others. Understanding the MRT helps you use your resources in the best way possible, making sure you get the most out of what you have.
 

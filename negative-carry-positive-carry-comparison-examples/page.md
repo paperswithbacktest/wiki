@@ -18,7 +18,7 @@ This situation often happens in financial markets when interest rates change. Fo
 
 Positive carry is when the income from an investment is more than the cost of holding it. For example, if you buy a bond that pays you $200 every year, but it only costs you $100 a year to keep, that's positive carry. You're making an extra $100 each year just by holding onto the investment.
 
-This situation is good for investors because it means they are earning more money than they are spending to maintain their investment. Positive carry often happens when interest rates are favorable, like when you can borrow money at a low rate and invest it in something that earns a higher rate. It's a key concept in finance because it can help investors grow their wealth over time.
+This situation is good for investors because it means they are [earning](/wiki/earning-announcement) more money than they are spending to maintain their investment. Positive carry often happens when interest rates are favorable, like when you can borrow money at a low rate and invest it in something that earns a higher rate. It's a key concept in finance because it can help investors grow their wealth over time.
 
 ## How do negative and positive carry affect investment decisions?
 
@@ -76,7 +76,7 @@ Another way to maximize positive carry is to keep an eye on interest rates and b
 
 ## What are the advanced implications of carry in forex trading and how do they influence market dynamics?
 
-In forex trading, carry plays a big role in how traders make decisions and how the market moves. Positive carry happens when a trader borrows money in a currency with a low interest rate and then uses that money to buy a currency with a higher interest rate. This can lead to profits from the difference in interest rates, which is called the carry trade. Many traders look for these opportunities because they can make money even if the exchange rates don't change much. But, if the exchange rates do change a lot, it can affect the profits or even turn the positive carry into a loss. So, traders need to watch the market closely and be ready to adjust their strategies.
+In [forex](/wiki/forex-system) trading, carry plays a big role in how traders make decisions and how the market moves. Positive carry happens when a trader borrows money in a currency with a low interest rate and then uses that money to buy a currency with a higher interest rate. This can lead to profits from the difference in interest rates, which is called the carry trade. Many traders look for these opportunities because they can make money even if the exchange rates don't change much. But, if the exchange rates do change a lot, it can affect the profits or even turn the positive carry into a loss. So, traders need to watch the market closely and be ready to adjust their strategies.
 
 The carry trade can also influence the whole forex market. When lots of traders do carry trades, it can push up the value of the currency with the higher interest rate because more people want to buy it. This can lead to bigger moves in the market and sometimes even cause big swings in currency values. On the other hand, if everyone starts to sell the high-interest currency at the same time, maybe because they think the exchange rates will change, it can cause the currency to drop quickly. This is why carry trades can add a lot of excitement and risk to forex trading, and traders need to be careful and think about how their actions might affect the market.
 

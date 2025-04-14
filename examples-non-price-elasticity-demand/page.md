@@ -18,7 +18,7 @@ This concept is important because it helps businesses and economists understand 
 
 Non-price elasticity and price elasticity both look at how the amount of a product people want to buy changes, but they focus on different things. Price elasticity of demand measures how much the quantity demanded changes when the price of the product changes. If a small change in price leads to a big change in how much people buy, the product is said to have high price elasticity. For example, if the price of a certain brand of soda goes up a little and people stop buying it, that soda has high price elasticity.
 
-On the other hand, non-price elasticity looks at how the quantity demanded changes when things other than the price change. These other things can be people's income, the prices of other products, or even changes in tastes and preferences. For instance, if people start earning more money and they buy more of a product, that shows the product has high income elasticity. So, while price elasticity focuses only on price changes, non-price elasticity considers a wider range of factors that can affect demand.
+On the other hand, non-price elasticity looks at how the quantity demanded changes when things other than the price change. These other things can be people's income, the prices of other products, or even changes in tastes and preferences. For instance, if people start [earning](/wiki/earning-announcement) more money and they buy more of a product, that shows the product has high income elasticity. So, while price elasticity focuses only on price changes, non-price elasticity considers a wider range of factors that can affect demand.
 
 ## Can you explain the concept of income elasticity of demand?
 
@@ -30,7 +30,7 @@ For example, if someone's income increases and they start buying more luxury ite
 
 Cross elasticity of demand measures how the amount of one product people want to buy changes when the price of another product changes. If the price of one product goes up and people start buying more of another product, those two products are said to have a high cross elasticity of demand. For example, if the price of butter goes up and people start buying more margarine, butter and margarine have a high cross elasticity of demand. This shows that these products are substitutes for each other.
 
-Cross elasticity of demand is a part of non-price elasticity because it looks at how demand for one product changes due to factors other than its own price. In this case, the factor is the price of a different product. This helps businesses understand how their products might be affected by changes in the market, like if a competitor raises or lowers their prices. By knowing the cross elasticity, companies can better plan their pricing strategies and anticipate how their sales might be influenced by changes in the prices of related products.
+Cross elasticity of demand is a part of non-price elasticity because it looks at how demand for one product changes due to factors other than its own price. In this case, the [factor](/wiki/factor-investing) is the price of a different product. This helps businesses understand how their products might be affected by changes in the market, like if a competitor raises or lowers their prices. By knowing the cross elasticity, companies can better plan their pricing strategies and anticipate how their sales might be influenced by changes in the prices of related products.
 
 ## How do changes in consumer tastes and preferences affect demand elasticity?
 
@@ -117,7 +117,7 @@ Understanding these elasticities is critical for economic stakeholders as they i
 
 ## What are the Mathematical Formulations and Practical Applications?
 
-Elasticity is a core concept in economics that quantifies how sensitive the demand or supply of a product is to changes in price, income, or other economic variables. The mathematical formulation of elasticity involves key calculations such as price elasticity of demand (PED), income elasticity of demand (IED), and cross-price elasticity of demand (CPED). These calculations serve as foundational metrics for understanding consumer behavior and for informing algorithmic trading models that predict market dynamics and set trading parameters.
+Elasticity is a core concept in economics that quantifies how sensitive the demand or supply of a product is to changes in price, income, or other economic variables. The mathematical formulation of elasticity involves key calculations such as price elasticity of demand (PED), income elasticity of demand (IED), and cross-price elasticity of demand (CPED). These calculations serve as foundational metrics for understanding consumer behavior and for informing [algorithmic trading](/wiki/algorithmic-trading) models that predict market dynamics and set trading parameters.
 
 ### Price Elasticity of Demand
 

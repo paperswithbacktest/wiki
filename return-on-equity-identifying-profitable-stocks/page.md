@@ -36,7 +36,7 @@ It's also important to compare a company's ROE with other companies in the same 
 
 ROE helps investors find profitable stocks by showing how well a company uses the money shareholders have put in to make a profit. A high ROE means the company is good at turning the money from shareholders into more money. If a stock has a high ROE, it might be a good investment because it shows the company is making good use of the money and making profits.
 
-But, it's not just about picking the stock with the highest ROE. Investors need to look at other things too. For example, they should compare the ROE of a company with other companies in the same industry. If one company's ROE is much higher, it could mean it's doing better than its competitors. Also, investors should check if the high ROE is because of a one-time event or if it's something that will last. And they should think about how much debt the company has, because a high ROE might come from borrowing a lot of money, which can be risky.
+But, it's not just about [picking](/wiki/asset-class-picking) the stock with the highest ROE. Investors need to look at other things too. For example, they should compare the ROE of a company with other companies in the same industry. If one company's ROE is much higher, it could mean it's doing better than its competitors. Also, investors should check if the high ROE is because of a one-time event or if it's something that will last. And they should think about how much debt the company has, because a high ROE might come from borrowing a lot of money, which can be risky.
 
 ## Can ROE be used alone to make investment decisions?
 

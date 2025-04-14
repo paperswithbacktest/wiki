@@ -36,7 +36,7 @@ On the other hand, a put option gives you the right, but not the obligation, to 
 
 The price of a call option, also called the premium, depends on a few key things. One big thing is how much the stock's price is above or below the strike price. If the stock's price is already higher than the strike price, the option is worth more because you can buy the stock at a lower price than it's currently worth. Another important thing is how much time is left until the option expires. The more time left, the more the option is worth because there's more time for the stock's price to go up.
 
-There are also other things that affect the price of a call option. One is how much the stock's price tends to move around, called volatility. If the stock's price moves a lot, the option is worth more because there's a bigger chance the stock's price will go above the strike price. Another thing is the general level of interest rates. Higher interest rates can make the option a bit more valuable. All these things together help decide how much you have to pay for a call option.
+There are also other things that affect the price of a call option. One is how much the stock's price tends to move around, called [volatility](/wiki/volatility-trading-strategies). If the stock's price moves a lot, the option is worth more because there's a bigger chance the stock's price will go above the strike price. Another thing is the general level of interest rates. Higher interest rates can make the option a bit more valuable. All these things together help decide how much you have to pay for a call option.
 
 ## What is the Black-Scholes model and how is it used in call option pricing?
 
@@ -46,7 +46,7 @@ People use the Black-Scholes model to help them decide if a call option is a goo
 
 ## What factors affect the price of a call option?
 
-The price of a call option, which is also called the premium, depends on several things. One big factor is how the stock's price compares to the strike price. If the stock's price is higher than the strike price, the option is worth more because you can buy the stock at a lower price than it's currently worth. Another important factor is how much time is left until the option expires. The more time left, the more valuable the option is because there's more time for the stock's price to go up.
+The price of a call option, which is also called the premium, depends on several things. One big [factor](/wiki/factor-investing) is how the stock's price compares to the strike price. If the stock's price is higher than the strike price, the option is worth more because you can buy the stock at a lower price than it's currently worth. Another important factor is how much time is left until the option expires. The more time left, the more valuable the option is because there's more time for the stock's price to go up.
 
 There are also other things that affect the price of a call option. One is the stock's volatility, which means how much its price tends to move around. If the stock's price moves a lot, the option is worth more because there's a bigger chance the stock's price will go above the strike price. Another factor is the interest rate. Higher interest rates can make the option a bit more valuable. All these factors together help decide how much you have to pay for a call option.
 
@@ -153,7 +153,7 @@ where:
 
 Despite its widespread use, the Black-Scholes model has limitations such as assuming constant volatility and interest rates, which often do not hold in real markets. To overcome these limitations, advanced models have been developed. These include the Heston model, which incorporates stochastic volatility, and the Cox-Ross-Rubinstein binomial options pricing model, which provides a more flexible framework by allowing for the adjustment of volatility and interest rates over time.
 
-Application of these models within algorithmic trading systems enhances the efficiency of pricing options. Algorithms can quickly compute theoretical prices for a wide range of options using these models, enabling traders to exploit arbitrage opportunities or adjust portfolios in real-time to shift market conditions. For instance, many algorithmic strategies utilize the Greeks (derived from the Black-Scholes model) to assess and manage the sensitivities of an option's price to various market factors.
+Application of these models within [algorithmic trading](/wiki/algorithmic-trading) systems enhances the efficiency of pricing options. Algorithms can quickly compute theoretical prices for a wide range of options using these models, enabling traders to exploit arbitrage opportunities or adjust portfolios in real-time to shift market conditions. For instance, many algorithmic strategies utilize the Greeks (derived from the Black-Scholes model) to assess and manage the sensitivities of an option's price to various market factors.
 
 Case studies highlight the practical applications of these pricing models. For example, financial institutions often use the Black-Scholes and Heston models within their trading algorithms to manage large portfolios of options. These models help institutions in monitoring risk and in making trade decisions based on the theoretical value versus market value discrepancies. In practice, firms integrate these models with other data-driven insights and market trend analyses to optimize their trading strategies.
 
@@ -204,7 +204,7 @@ $$
 
 where $C$ is the call option price, $S_0$ is the current stock price, $X$ is the strike price, $r$ is the risk-free interest rate, $T$ is the time to maturity, $\sigma$ is the volatility of the stock, and $N$ is the cumulative distribution function of the standard normal distribution. By embedding this model into an algorithm, the hedge fund can dynamically price options based on real-time inputs of market variables, thereby optimizing their trading decisions.
 
-Beyond optimizing pricing strategies, algorithms also play a crucial role in risk management. For instance, [quantitative trading](/wiki/quantitative-trading) firms like Renaissance Technologies use machine learning models that continuously assess the risk exposure of their derivative portfolios. These firms have developed high-frequency trading algorithms that execute trades in milliseconds to capitalize on microscopic market inefficiencies, demonstrating the robustness of the integration of option pricing models in real-time trading systems.
+Beyond optimizing pricing strategies, algorithms also play a crucial role in risk management. For instance, [quantitative trading](/wiki/quantitative-trading) firms like Renaissance Technologies use [machine learning](/wiki/machine-learning) models that continuously assess the risk exposure of their derivative portfolios. These firms have developed high-frequency trading algorithms that execute trades in milliseconds to capitalize on microscopic market inefficiencies, demonstrating the robustness of the integration of option pricing models in real-time trading systems.
 
 Through these applications, several lessons and best practices have emerged:
 

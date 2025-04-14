@@ -18,7 +18,7 @@ Using a representative sample is important because it helps make sure that the r
 
 A random sample is when you pick people or items from a big group in a way that everyone has an equal chance of being chosen. Imagine you have a big jar of candies and you want to see what flavors are in there. If you close your eyes and pick candies without looking, that's like taking a random sample. Each candy has the same chance of being picked, so your sample should give you a good idea of what the whole jar is like.
 
-Random sampling is important because it helps make sure your sample is fair and not biased. If you only picked candies from the top of the jar, you might miss out on flavors that are at the bottom. By picking randomly, you avoid choosing based on your own preferences or other factors that could skew the results. This way, the sample you get is more likely to represent the whole group accurately.
+Random sampling is important because it helps make sure your sample is fair and not biased. If you only picked candies from the top of the jar, you might miss out on flavors that are at the bottom. By [picking](/wiki/asset-class-picking) randomly, you avoid choosing based on your own preferences or other factors that could skew the results. This way, the sample you get is more likely to represent the whole group accurately.
 
 ## How are representative samples and random samples different?
 

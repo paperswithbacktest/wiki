@@ -86,7 +86,7 @@ Another way to measure the ROI of a DSS is by looking at how it improves plannin
 
 ## What are the Core Components of DSS in Algorithmic Trading?
 
-Decision Support Systems (DSS) play a crucial role in algorithmic trading by offering structured components essential for processing and analyzing financial data to support trading decisions. Each component of DSS contributes uniquely to the effectiveness and efficiency of trading strategies.
+Decision Support Systems (DSS) play a crucial role in [algorithmic trading](/wiki/algorithmic-trading) by offering structured components essential for processing and analyzing financial data to support trading decisions. Each component of DSS contributes uniquely to the effectiveness and efficiency of trading strategies.
 
 ### Data Management Component
 

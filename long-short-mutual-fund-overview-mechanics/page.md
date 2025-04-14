@@ -26,7 +26,7 @@ Because of these differences, long-short mutual funds can be more appealing to i
 
 A long-short mutual fund works by buying some stocks and selling others at the same time. When the fund buys a stock, it's called "going long." This means the fund thinks the stock will go up in price. If it does, the fund makes money. On the other hand, when the fund sells a stock it doesn't own, it's called "going short." This means the fund thinks the stock will go down in price. If it does, the fund can buy the stock back at a lower price and make money from the difference.
 
-The fund manager decides which stocks to buy and which to sell. They try to make more money from the stocks that go up than they lose from the stocks that go down. This way, the fund can make money even if the stock market is going down. But, using this strategy can be riskier because short selling can lead to big losses if the stocks go up instead of down. So, the fund manager needs to be good at picking the right stocks to buy and sell.
+The fund manager decides which stocks to buy and which to sell. They try to make more money from the stocks that go up than they lose from the stocks that go down. This way, the fund can make money even if the stock market is going down. But, using this strategy can be riskier because short selling can lead to big losses if the stocks go up instead of down. So, the fund manager needs to be good at [picking](/wiki/asset-class-picking) the right stocks to buy and sell.
 
 ## What are the potential benefits of investing in a long-short mutual fund?
 
@@ -54,7 +54,7 @@ Fund managers of long-short mutual funds use different strategies to make money.
 
 Another strategy is called "sector rotation." Here, the fund manager looks at different parts of the economy, like technology or healthcare, and tries to guess which ones will do well and which ones will not. They buy stocks in the sectors they think will grow and sell short stocks in the sectors they think will shrink. This way, they can try to make money by moving money around between different parts of the market.
 
-Sometimes, fund managers use "pair trading." This means they find two companies that are similar but one is doing better than the other. They buy the stock of the company that's doing better (going long) and sell short the stock of the company that's doing worse. If they are right, they make money from the difference between the two stocks. These strategies help fund managers try to make the most of their investments and handle the ups and downs of the market.
+Sometimes, fund managers use "[pair trading](/wiki/pair-trading)." This means they find two companies that are similar but one is doing better than the other. They buy the stock of the company that's doing better (going long) and sell short the stock of the company that's doing worse. If they are right, they make money from the difference between the two stocks. These strategies help fund managers try to make the most of their investments and handle the ups and downs of the market.
 
 ## How is performance measured in long-short mutual funds?
 
@@ -134,7 +134,7 @@ Despite the higher fees, investors may find long-short funds attractive due to t
 
 ## References & Further Reading
 
-Explore Investopedia and BlackRock for detailed guides on mutual funds and algorithmic trading. Investopedia offers a wealth of information on various types of mutual funds, their structure, management strategies, and the role of algorithmic trading in modern finance. BlackRock, one of the world's leading investment firms, provides insights into the utilization of technology in fund management, highlighting the efficiency and precision brought by algorithmic strategies.
+Explore Investopedia and BlackRock for detailed guides on mutual funds and [algorithmic trading](/wiki/algorithmic-trading). Investopedia offers a wealth of information on various types of mutual funds, their structure, management strategies, and the role of algorithmic trading in modern finance. BlackRock, one of the world's leading investment firms, provides insights into the utilization of technology in fund management, highlighting the efficiency and precision brought by algorithmic strategies.
 
 For those interested in academic perspectives, seminal works by Meir Statman, William Sharpe, and Martin Gruber are essential reading. Statman's research often focuses on behavioral finance and its impact on investment decision-making, providing a deeper understanding of investor behavior and market dynamics. William Sharpe, a Nobel laureate, is renowned for his development of the Capital Asset Pricing Model (CAPM) and the Sharpe Ratio, which are pivotal in assessing investment performance and risk-adjusted returns. Martin Gruber has contributed extensively to the field of mutual fund performance analysis and the evaluation of active versus passive management strategies.
 

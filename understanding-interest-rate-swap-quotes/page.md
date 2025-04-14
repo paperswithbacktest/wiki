@@ -66,7 +66,7 @@ Swap dealers also take on some of the risk in swaps. Sometimes, instead of just 
 
 Valuing an interest rate swap means figuring out how much it's worth at any given time. This is important because the value can change as interest rates move up or down. To value a swap, you need to know the fixed rate, the floating rate, and how long the swap will last. You also need to think about the notional amount, which is the amount of money the interest payments are based on. The basic idea is to compare the present value of the fixed rate payments with the present value of the floating rate payments. The present value is what those future payments would be worth today.
 
-To do this, you use something called a discount factor, which helps turn future payments into today's money. If the present value of the fixed rate payments is higher than the present value of the floating rate payments, the swap has a negative value for the person paying the fixed rate. If it's the other way around, the swap has a positive value for them. This value can change every day as interest rates change, so it's important to keep an eye on it if you're involved in a swap.
+To do this, you use something called a discount [factor](/wiki/factor-investing), which helps turn future payments into today's money. If the present value of the fixed rate payments is higher than the present value of the floating rate payments, the swap has a negative value for the person paying the fixed rate. If it's the other way around, the swap has a positive value for them. This value can change every day as interest rates change, so it's important to keep an eye on it if you're involved in a swap.
 
 ## What are the key considerations when hedging with interest rate swaps?
 

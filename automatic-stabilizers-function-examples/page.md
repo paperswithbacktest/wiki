@@ -30,7 +30,7 @@ On the other hand, when the economy is doing well, automatic stabilizers can tak
 
 Automatic stabilizers are parts of the government's budget that help the economy without needing new laws. One example is unemployment benefits. When people lose their jobs during a recession, they can get unemployment benefits. This gives them money to spend on things they need, which helps the economy because people are still spending even if they're not working.
 
-Another example is income tax. When the economy is doing well and people are earning more money, they pay more in taxes. This means they have less money to spend, which can help slow down the economy so it doesn't grow too fast. On the other hand, during a recession, people earn less and pay less in taxes, so they have more money to spend, which can help the economy recover.
+Another example is income tax. When the economy is doing well and people are [earning](/wiki/earning-announcement) more money, they pay more in taxes. This means they have less money to spend, which can help slow down the economy so it doesn't grow too fast. On the other hand, during a recession, people earn less and pay less in taxes, so they have more money to spend, which can help the economy recover.
 
 Other examples include welfare programs like food stamps and social security. During tough economic times, more people might need these programs, which puts more money into the economy. When the economy is doing well, fewer people need these programs, which means less money is being spent by the government.
 

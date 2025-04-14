@@ -58,7 +58,7 @@ The S&P 500 has had an average yearly return of around 10% over the last 5 years
 
 ## Can robo-advisors beat the market, and if so, how?
 
-Robo-advisors can sometimes beat the market, but it's not easy. They use computer programs to pick and manage your investments. These programs look at a lot of information to try to find the best places to put your money. If the robo-advisor is really good at picking investments and making smart changes to your portfolio, it might do better than the market. But this doesn't happen all the time because the market can be hard to predict.
+Robo-advisors can sometimes beat the market, but it's not easy. They use computer programs to pick and manage your investments. These programs look at a lot of information to try to find the best places to put your money. If the robo-advisor is really good at [picking](/wiki/asset-class-picking) investments and making smart changes to your portfolio, it might do better than the market. But this doesn't happen all the time because the market can be hard to predict.
 
 Most of the time, robo-advisors don't beat the market by a lot. They usually try to match the market's performance while keeping your money safe. They do this by spreading your money across different types of investments, like stocks and bonds. This way, if one part of the market goes down, the other parts might help keep your money from losing too much value. So, while robo-advisors can sometimes do better than the market, their main goal is to help you grow your money in a safe and easy way.
 

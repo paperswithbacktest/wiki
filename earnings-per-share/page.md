@@ -58,7 +58,7 @@ Companies can also use accounting tricks to change their EPS. They might move ex
 
 ## What is the significance of negative EPS?
 
-When a company has a negative EPS, it means the company lost money instead of making a profit. Instead of earning money for each share of its stock, the company is losing money for each share. This can be a warning sign for investors because it shows that the company is not doing well financially. If a company keeps having a negative EPS, it might mean it's struggling to make money and could be in trouble.
+When a company has a negative EPS, it means the company lost money instead of making a profit. Instead of [earning](/wiki/earning-announcement) money for each share of its stock, the company is losing money for each share. This can be a warning sign for investors because it shows that the company is not doing well financially. If a company keeps having a negative EPS, it might mean it's struggling to make money and could be in trouble.
 
 However, a negative EPS doesn't always mean a company is doomed. Sometimes, companies might have a negative EPS because they are spending a lot of money on new projects or expanding their business. If these investments pay off in the future, the company might start making money again. So, while a negative EPS is something to watch out for, it's important for investors to look at the whole picture and see why the company is losing money before deciding what to do with their shares.
 

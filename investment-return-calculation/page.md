@@ -34,7 +34,7 @@ This method is good for looking at how an investment did over a short time. It's
 
 ## What is the formula for calculating compound interest?
 
-The formula for calculating compound interest is A = P(1 + r/n)^(nt). In this formula, 'A' is the amount of money you end up with, 'P' is the principal or the amount of money you start with, 'r' is the yearly interest rate written as a decimal, 'n' is the number of times the interest is compounded each year, and 't' is the number of years you keep the money in the investment.
+The formula for calculating compound interest is A = P(1 + r/n)^(nt). In this formula, 'A' is the amount of money you end up with, 'P' is the principal or the amount of money you start with, 'r' is the yearly [interest rate](/wiki/interest-rate-trading-strategies) written as a decimal, 'n' is the number of times the interest is compounded each year, and 't' is the number of years you keep the money in the investment.
 
 Let's break it down with a simple example. If you put $1,000 into an account with a 5% yearly interest rate, compounded monthly, for 10 years, you would use the formula like this: A = 1000(1 + 0.05/12)^(12*10). When you do the math, you find out that at the end of 10 years, you would have about $1,647. This shows how compound interest can make your money grow over time, especially if you leave it in the account for many years.
 
@@ -78,7 +78,7 @@ Diversification can affect your overall return in a good way. It might not make 
 
 The Sharpe ratio and alpha are two advanced metrics that help you see how well an investment is doing compared to the risk you're taking. The Sharpe ratio tells you how much return you're getting for the risk you're taking. It's like a score that shows if the extra return you're getting from an investment is worth the extra risk. A higher Sharpe ratio means you're getting more return for the risk you're taking, which is good. If you're comparing two investments, the one with the higher Sharpe ratio is usually better because it's giving you more bang for your buck.
 
-Alpha, on the other hand, tells you how much better or worse an investment is doing compared to a benchmark, like a stock market index. If an investment has a positive alpha, it means it's doing better than the benchmark. A negative alpha means it's doing worse. Alpha is useful because it shows you if a fund manager or an investment strategy is really adding value. If you're looking at a mutual fund, for example, a positive alpha means the fund manager is picking investments that are beating the market, which can be a good sign. Both the Sharpe ratio and alpha give you a deeper look into how an investment is performing, beyond just looking at the returns.
+Alpha, on the other hand, tells you how much better or worse an investment is doing compared to a benchmark, like a stock market index. If an investment has a positive alpha, it means it's doing better than the benchmark. A negative alpha means it's doing worse. Alpha is useful because it shows you if a fund manager or an investment strategy is really adding value. If you're looking at a mutual fund, for example, a positive alpha means the fund manager is [picking](/wiki/asset-class-picking) investments that are beating the market, which can be a good sign. Both the Sharpe ratio and alpha give you a deeper look into how an investment is performing, beyond just looking at the returns.
 
 ## What is the understanding of ROI in a financial context?
 

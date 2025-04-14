@@ -40,7 +40,7 @@ If the spread is big, it costs more to trade. This can make it harder for trader
 
 ## What factors influence the size of the spread?
 
-The size of the spread is affected by how easy it is to buy and sell something. If lots of people want to trade a stock, it's called high liquidity. When there's high liquidity, the spread is usually small because there are many buyers and sellers, so it's easy to find someone to trade with. On the other hand, if fewer people are trading, the spread might be bigger. This is because it's harder to find someone to buy from or sell to, so the people making the prices need a bigger difference to make it worth their while.
+The size of the spread is affected by how easy it is to buy and sell something. If lots of people want to trade a stock, it's called high [liquidity](/wiki/liquidity-risk-premium). When there's high liquidity, the spread is usually small because there are many buyers and sellers, so it's easy to find someone to trade with. On the other hand, if fewer people are trading, the spread might be bigger. This is because it's harder to find someone to buy from or sell to, so the people making the prices need a bigger difference to make it worth their while.
 
 Another thing that changes the spread is how much the market is moving around. If the market is calm, the spread might be small. But if the market is going up and down a lot, it can be riskier for the people setting the prices, so they might make the spread bigger to protect themselves. Also, the type of trading platform or broker you use can affect the spread. Some brokers might have fixed spreads that don't change, while others have variable spreads that go up and down with the market.
 
@@ -82,7 +82,7 @@ Different trading platforms also affect the spread because they might have diffe
 
 ## What are the key trading terms every trader should know?
 
-Trading is abundant with terminology that can seem daunting to newcomers, yet understanding these terms is crucial for success in financial markets. This section focuses on defining and explaining four essential trading terms: bid-ask spread, liquidity, volatility, and margin.
+Trading is abundant with terminology that can seem daunting to newcomers, yet understanding these terms is crucial for success in financial markets. This section focuses on defining and explaining four essential trading terms: bid-ask spread, liquidity, [volatility](/wiki/volatility-trading-strategies), and margin.
 
 **Bid-Ask Spread**
 

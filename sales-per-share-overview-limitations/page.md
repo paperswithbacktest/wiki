@@ -98,7 +98,7 @@ Therefore, while SPS provides useful insights into revenue generation, it is ess
 
 ## What are the key metrics for evaluating algo trading performance?
 
-Evaluating the performance of algorithmic trading strategies is crucial for optimizing returns and managing risk. Several key metrics are instrumental in assessing the effectiveness of these strategies:
+Evaluating the performance of [algorithmic trading](/wiki/algorithmic-trading) strategies is crucial for optimizing returns and managing risk. Several key metrics are instrumental in assessing the effectiveness of these strategies:
 
 1. **Sharpe Ratio**: This is one of the most widely used metrics for evaluating risk-adjusted returns. It measures the excess return per unit of risk, calculated as:
 $$

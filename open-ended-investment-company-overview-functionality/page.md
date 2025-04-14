@@ -52,7 +52,7 @@ Once they have the net asset value, they divide it by the total number of shares
 
 ## What are the typical fees associated with OEICs?
 
-When you invest in an OEIC, you usually have to pay some fees. One common fee is the initial charge, which you pay when you first buy shares. This fee helps cover the costs of setting up your investment. Another fee you might see is the annual management fee, which is a percentage of the total value of your investment that you pay each year. This fee pays for the fund manager's work in picking and managing the investments.
+When you invest in an OEIC, you usually have to pay some fees. One common fee is the initial charge, which you pay when you first buy shares. This fee helps cover the costs of setting up your investment. Another fee you might see is the annual management fee, which is a percentage of the total value of your investment that you pay each year. This fee pays for the fund manager's work in [picking](/wiki/asset-class-picking) and managing the investments.
 
 There can also be other fees, like the exit fee, which you might have to pay if you decide to sell your shares. Some OEICs also charge performance fees if the fund does really well. These fees are meant to reward the fund manager for doing a good job. It's important to check all the fees before you invest, because they can add up and affect how much money you make from your investment.
 
@@ -70,7 +70,7 @@ Another important rule is that OEICs have to be open and honest about how they a
 
 ## How do OEICs handle liquidity and redemption of shares?
 
-OEICs handle liquidity and redemption of shares in a way that makes it easy for investors to get their money in and out of the fund. When you want to buy shares, the OEIC creates new shares for you. This means there's always enough liquidity, or available money, for you to buy shares whenever you want. The price you pay is based on the total value of everything the fund owns, divided by the number of shares. This makes sure everyone pays a fair price.
+OEICs handle [liquidity](/wiki/liquidity-risk-premium) and redemption of shares in a way that makes it easy for investors to get their money in and out of the fund. When you want to buy shares, the OEIC creates new shares for you. This means there's always enough liquidity, or available money, for you to buy shares whenever you want. The price you pay is based on the total value of everything the fund owns, divided by the number of shares. This makes sure everyone pays a fair price.
 
 When you want to sell your shares, the OEIC buys them back from you. This is called redemption. The fund takes your shares out of the total number of shares and gives you money based on the current value of the fund's investments. This way, you can get your money out quickly and easily. The OEIC makes sure there's enough cash on hand to buy back shares without having to sell off investments quickly, which helps keep the fund stable and fair for everyone.
 

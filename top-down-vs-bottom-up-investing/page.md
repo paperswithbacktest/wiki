@@ -40,7 +40,7 @@ Finally, investors focus on individual companies within the chosen industries. T
 
 In a bottom-up investment approach, investors start by looking at individual companies. They don't worry about the big picture of the economy or which industries are doing well. Instead, they focus on the details of each company. They study things like how much money the company is making, how well it's run, and if its stock is a good deal. They believe that if a company is strong and well-managed, it can do well even if the economy or its industry isn't doing great.
 
-Once they find a company they like, they dig deeper. They look at the company's financial reports, talk to its managers, and learn about its products or services. They want to make sure the company is a good investment, no matter what's happening in the world. By focusing on the details of the company, they hope to find hidden gems that other investors might miss. This way, they think they can make money by picking the best companies, even if the economy or industry isn't doing well.
+Once they find a company they like, they dig deeper. They look at the company's financial reports, talk to its managers, and learn about its products or services. They want to make sure the company is a good investment, no matter what's happening in the world. By focusing on the details of the company, they hope to find hidden gems that other investors might miss. This way, they think they can make money by [picking](/wiki/asset-class-picking) the best companies, even if the economy or industry isn't doing well.
 
 ## What types of investors typically use a top-down strategy?
 

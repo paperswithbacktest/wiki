@@ -54,7 +54,7 @@ Logarithmic charts are better for looking at big changes and long-term trends. T
 
 Linear charts can make small price changes look very clear, which might make a stock seem more volatile than it really is. If the price goes up and down by a few dollars, these changes will look big on a linear chart. This can make traders think the stock is moving a lot, even if the percentage change is small. So, if a stock goes from $10 to $12 and back to $10, it might look like a big swing on a linear chart, but it's only a 20% change.
 
-Logarithmic charts show price changes based on percentages, so they give a different view of volatility. If a stock goes from $10 to $12 and back to $10, this will look like a smaller change on a log chart because it's only a 20% move. Log charts are better for seeing how much the price is really changing over time, especially if the price goes up or down a lot. This can help traders understand if a stock is truly volatile or if it's just the chart making it look that way.
+Logarithmic charts show price changes based on percentages, so they give a different view of [volatility](/wiki/volatility-trading-strategies). If a stock goes from $10 to $12 and back to $10, this will look like a smaller change on a log chart because it's only a 20% move. Log charts are better for seeing how much the price is really changing over time, especially if the price goes up or down a lot. This can help traders understand if a stock is truly volatile or if it's just the chart making it look that way.
 
 ## What are the common pitfalls traders might encounter when using linear charts?
 

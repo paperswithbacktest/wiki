@@ -101,14 +101,14 @@ $$
 $$
 
 ### Long Straddles
-A long straddle is an advanced strategy designed for capitalizing on significant price movements in either direction, often implemented during times of anticipated volatility. It involves buying both a call and a put option at the same strike price and expiration date. The strategy profits when the asset's price deviates significantly from the strike price, surpassing the combined cost of the options. The profit can be depicted as:
+A long straddle is an advanced strategy designed for capitalizing on significant price movements in either direction, often implemented during times of anticipated [volatility](/wiki/volatility-trading-strategies). It involves buying both a call and a put option at the same strike price and expiration date. The strategy profits when the asset's price deviates significantly from the strike price, surpassing the combined cost of the options. The profit can be depicted as:
 
 $$
 \text{Profit} = \max(\text{Market Price} - \text{Strike Price}, \text{Strike Price} - \text{Market Price}) - (\text{Call Premium} + \text{Put Premium})
 $$
 
 ### Algorithmic Trading in Strategies
-Algorithmic trading plays a vital role in executing these strategies with precision and speed, especially in rapidly changing markets. Algorithms can scan market conditions, automatically triggering trades based on predefined criteria. Python, a popular language for developing trading algorithms, allows for the automation of strategy execution, optimizing entry and exit timing. This automation helps in mitigating human error and emotional decision-making, enhancing the strategy's effectiveness.
+Algorithmic trading plays a vital role in executing these strategies with precision and speed, especially in rapidly changing markets. Algorithms can scan market conditions, automatically triggering trades based on predefined criteria. Python, a popular language for developing trading algorithms, allows for the automation of strategy execution, optimizing entry and [exit](/wiki/exit-strategy) timing. This automation helps in mitigating human error and emotional decision-making, enhancing the strategy's effectiveness.
 
 ### Strategy Selection
 Choosing the appropriate strategy requires a comprehensive assessment of several factors, including market conditions, volatility, and an individual's risk tolerance. Traders must analyze the market environment, evaluate implied volatility, and align strategies with their risk management objectives to optimize outcomes in cash-settled options trading.

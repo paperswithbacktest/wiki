@@ -24,7 +24,7 @@ To take part, you need to have an account with the Treasury Department or go thr
 
 A bill auction is a way for the government to borrow money by selling Treasury bills, or T-bills. People and businesses who want to lend money to the government can bid on these T-bills. The auction happens online, and anyone can join in if they have the money and follow the rules. You can bid directly through the Treasury Department or use a bank or broker to help you.
 
-At the auction, people and businesses say how much they are willing to pay for the T-bills and what interest rate they want. The government then looks at all the bids and picks the ones that are the best deal for them. The winners get the T-bills, and the government gets the money it needs. This helps the government manage its money and keep the economy stable.
+At the auction, people and businesses say how much they are willing to pay for the T-bills and what [interest rate](/wiki/interest-rate-trading-strategies) they want. The government then looks at all the bids and picks the ones that are the best deal for them. The winners get the T-bills, and the government gets the money it needs. This helps the government manage its money and keep the economy stable.
 
 ## What are the different types of bills auctioned?
 

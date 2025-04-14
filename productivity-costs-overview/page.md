@@ -80,7 +80,7 @@ Analytics can also help businesses by looking at big sets of data to find patter
 
 ## What future trends are expected to impact productivity and costs in various industries?
 
-In the future, one big trend that will affect how much businesses can produce and how much it costs them is the use of artificial intelligence (AI) and automation. AI can help businesses do things faster and better than people can. For example, AI can help factories make more things by using robots that never get tired and can work all the time. This can save money on workers and help businesses make more products. But it can also cost a lot of money to buy and take care of these machines. So, businesses will need to think carefully about how to use AI to make more things without spending too much money.
+In the future, one big trend that will affect how much businesses can produce and how much it costs them is the use of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and automation. AI can help businesses do things faster and better than people can. For example, AI can help factories make more things by using robots that never get tired and can work all the time. This can save money on workers and help businesses make more products. But it can also cost a lot of money to buy and take care of these machines. So, businesses will need to think carefully about how to use AI to make more things without spending too much money.
 
 Another trend is the move towards more sustainable practices. More and more, people want businesses to be good to the environment. This means businesses might have to spend more money on things like using less energy or finding new ways to make their products that don't hurt the planet. At first, this might make it more expensive for businesses to make things. But in the long run, being sustainable can help businesses save money and be more productive. For example, using less energy can lower costs, and making products that people like because they are good for the environment can help businesses sell more. So, businesses will need to find the right balance between being sustainable and managing their costs to stay productive.
 
@@ -133,5 +133,5 @@ In conclusion, understanding economic costs and productivity is pivotal in the c
 9. Pettway, R. H., & Schneible Jr, R. A. (1990). "Initial public offerings, subsequent seasoned equity offerings, and long‐run performance." *Journal of Finance, 45*(3), 1099-1112.
    - Though not directly targeted at algorithmic trading, this article sheds light on financial market behaviors that algorithmic strategies often seek to exploit, addressed through the lens of public offerings and their performance.
 
-These resources collectively provide a foundational understanding of algorithmic trading, from its economic impacts to its technical intricacies, assisting in grasping the complexities of this evolving domain.
+These resources collectively provide a foundational understanding of [algorithmic trading](/wiki/algorithmic-trading), from its economic impacts to its technical intricacies, assisting in grasping the complexities of this evolving domain.
 

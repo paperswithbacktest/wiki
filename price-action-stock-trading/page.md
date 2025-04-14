@@ -80,7 +80,7 @@ Another pitfall is not using enough patience. Price action trading often require
 
 To backtest a price action trading strategy, you need to look at old price charts and see how your strategy would have worked in the past. You can do this by going through the charts day by day, or you can use a computer program that does it for you. When you backtest, you pretend to buy and sell based on your strategy's rules. You keep track of how much money you would have made or lost. This helps you see if your strategy is good or if it needs changes.
 
-After backtesting, you can refine your strategy by making small changes and testing them again. Maybe you find that your strategy works better if you wait a little longer before entering a trade, or if you use a different way to set your exit points. Each time you make a change, you backtest again to see if it helps. By doing this over and over, you can make your strategy better and more likely to work well in the future.
+After [backtesting](/wiki/backtesting), you can refine your strategy by making small changes and testing them again. Maybe you find that your strategy works better if you wait a little longer before entering a trade, or if you use a different way to set your exit points. Each time you make a change, you backtest again to see if it helps. By doing this over and over, you can make your strategy better and more likely to work well in the future.
 
 ## What are the key tools and techniques for price action analysis?
 

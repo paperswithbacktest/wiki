@@ -64,13 +64,13 @@ Another thing to consider is how offsetting transactions are reported. Some plac
 
 ## How do offsetting transactions impact liquidity in financial markets?
 
-When people make offsetting transactions, they can affect how easy it is to buy or sell things in the market. This is called liquidity. If lots of people are making offsetting transactions, it can make the market more liquid. That's because when someone wants to buy something, there are more people selling, and when someone wants to sell, there are more people buying. This makes it easier for everyone to trade without big changes in price.
+When people make offsetting transactions, they can affect how easy it is to buy or sell things in the market. This is called [liquidity](/wiki/liquidity-risk-premium). If lots of people are making offsetting transactions, it can make the market more liquid. That's because when someone wants to buy something, there are more people selling, and when someone wants to sell, there are more people buying. This makes it easier for everyone to trade without big changes in price.
 
 On the other hand, if too many people are making offsetting transactions at the same time, it could make the market less liquid. Imagine everyone wants to sell the same thing at the same time to offset their earlier buys. There might not be enough people wanting to buy, so it becomes harder to sell. This can lead to bigger price changes and less smooth trading. So, offsetting transactions can help keep the market running smoothly, but they need to be balanced with other kinds of trading.
 
 ## Can you explain the role of offsetting transactions in algorithmic trading?
 
-In algorithmic trading, computers use math and rules to make trades very quickly. Offsetting transactions are important because they help these computers manage risk and close out positions. Imagine a computer buys a stock and then the price starts to go down. The computer can use an offsetting transaction to sell the same stock and avoid losing money. This way, the computer can keep the market balanced and make sure it doesn't lose too much.
+In [algorithmic trading](/wiki/algorithmic-trading), computers use math and rules to make trades very quickly. Offsetting transactions are important because they help these computers manage risk and close out positions. Imagine a computer buys a stock and then the price starts to go down. The computer can use an offsetting transaction to sell the same stock and avoid losing money. This way, the computer can keep the market balanced and make sure it doesn't lose too much.
 
 Offsetting transactions also help algorithmic trading systems lock in profits. If a computer buys a stock and the price goes up, it can sell the stock at the higher price to make a profit. By doing this, the computer offsets its original purchase and keeps the money it made from the price increase. This is a smart way for computers to take advantage of good market conditions and manage their investments without human help.
 

@@ -97,7 +97,7 @@ Using these futures, the producer can budget effectively without the fear of adv
 
 **Example 2: Airline Hedging Fuel Prices**
 
-Airlines face significant exposure to fuel price volatility, affecting their operating costs and profitability. To manage this risk, an airline might use long hedge strategies by securing futures contracts for aviation fuel, locking in prices for future delivery. For instance, if current prices are favorable, airlines can purchase futures contracts for fuel needed in subsequent months or years, thus insulating themselves from price increases. This strategy not only stabilizes operating costs but also enhances financial predictability, which is crucial for operational planning and pricing strategies.
+Airlines face significant exposure to fuel price [volatility](/wiki/volatility-trading-strategies), affecting their operating costs and profitability. To manage this risk, an airline might use long hedge strategies by securing futures contracts for aviation fuel, locking in prices for future delivery. For instance, if current prices are favorable, airlines can purchase futures contracts for fuel needed in subsequent months or years, thus insulating themselves from price increases. This strategy not only stabilizes operating costs but also enhances financial predictability, which is crucial for operational planning and pricing strategies.
 
 **Example 3: Agricultural Industry Supply Chain Management**
 

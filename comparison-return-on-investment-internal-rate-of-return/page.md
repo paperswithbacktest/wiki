@@ -84,7 +84,7 @@ Another way to improve ROI and IRR is by using sensitivity analysis. This techni
 
 ## What is the Understanding of Internal Rate of Return?
 
-The Internal Rate of Return (IRR) is a financial metric that represents the discount rate at which the Net Present Value (NPV) of all expected cash flows from an investment is zero. Essentially, it is the break-even interest rate that equates the present value of cash inflows with the initial investment. The formula to determine NPV is:
+The Internal Rate of Return (IRR) is a financial metric that represents the discount rate at which the Net Present Value (NPV) of all expected cash flows from an investment is zero. Essentially, it is the break-even [interest rate](/wiki/interest-rate-trading-strategies) that equates the present value of cash inflows with the initial investment. The formula to determine NPV is:
 
 $$
 \text{NPV} = \sum_{t=0}^{n} \frac{C_t}{(1 + r)^t}

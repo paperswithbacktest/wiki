@@ -80,7 +80,7 @@ Using scenario analysis makes profit potential estimates more accurate because i
 
 ## What are the latest trends in revenue and profit forecasting technologies?
 
-The latest trends in revenue and profit forecasting technologies are all about using computers and data to make better guesses about the future. One big trend is using artificial intelligence (AI) and machine learning. These are smart computer programs that can look at a lot of data really fast and find patterns that people might miss. For example, an AI program can look at what customers are buying, what's happening in the market, and even what the weather is like to predict how much money a business might make. This helps businesses make more accurate forecasts because the computer can keep learning and getting better at guessing what will happen next.
+The latest trends in revenue and profit forecasting technologies are all about using computers and data to make better guesses about the future. One big trend is using [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning). These are smart computer programs that can look at a lot of data really fast and find patterns that people might miss. For example, an AI program can look at what customers are buying, what's happening in the market, and even what the weather is like to predict how much money a business might make. This helps businesses make more accurate forecasts because the computer can keep learning and getting better at guessing what will happen next.
 
 Another trend is using cloud computing for forecasting. This means that instead of keeping all the data and doing all the calculations on their own computers, businesses can use big computers on the internet. This is helpful because it means they can use more powerful tools without having to buy a lot of expensive equipment. It also makes it easier for different parts of the business to work together on forecasts, no matter where they are. By using the cloud, businesses can update their forecasts more often and make sure everyone has the latest information, which can help them make better decisions about how to make more money.
 
@@ -122,7 +122,7 @@ By leveraging these metrics, companies can create detailed growth analysis repor
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B., 2011. 'Algorithms for Hyper-Parameter Optimization.' This foundational paper explores methods for optimizing hyper-parameters in complex models, relevant for improving the accuracy and efficiency of machine learning algorithms used in financial forecasting and algorithmic trading.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B., 2011. 'Algorithms for Hyper-Parameter Optimization.' This foundational paper explores methods for optimizing hyper-parameters in complex models, relevant for improving the accuracy and efficiency of machine learning algorithms used in financial forecasting and [algorithmic trading](/wiki/algorithmic-trading).
 
 Lopez de Prado, M., 'Advances in Financial Machine Learning.' This book offers comprehensive insights into the application of machine learning in finance, focusing on techniques that enhance trading strategies and financial forecasts. It serves as an essential resource for understanding the intersection of data science and finance.
 

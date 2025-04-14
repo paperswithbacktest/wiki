@@ -22,7 +22,7 @@ After finding the active return, the next step is to see how much this active re
 
 ## Why is the Information Ratio important in investment analysis?
 
-The Information Ratio is important in investment analysis because it helps investors see how well a portfolio manager is doing compared to a standard benchmark, like the S&P 500. It tells us if the manager is picking investments that do better than the benchmark and how steady their performance is. A high Information Ratio means the manager is good at beating the benchmark more often and with less ups and downs. This is useful for investors because it helps them decide which fund managers to trust with their money.
+The Information Ratio is important in investment analysis because it helps investors see how well a portfolio manager is doing compared to a standard benchmark, like the S&P 500. It tells us if the manager is [picking](/wiki/asset-class-picking) investments that do better than the benchmark and how steady their performance is. A high Information Ratio means the manager is good at beating the benchmark more often and with less ups and downs. This is useful for investors because it helps them decide which fund managers to trust with their money.
 
 By looking at the Information Ratio, investors can get a clear picture of a manager's skill in picking investments. It's not just about beating the benchmark once or twice; it's about doing it consistently over time. This makes the Information Ratio a valuable tool for comparing different managers and choosing the ones who are likely to give better returns with less risk.
 

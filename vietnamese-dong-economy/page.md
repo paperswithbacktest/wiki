@@ -24,7 +24,7 @@ However, Vietnam's economy is not as big as some other Southeast Asian countries
 
 The value of the Vietnamese Dong is influenced by many things. One big thing is how much other countries want to buy things from Vietnam. If more people want to buy Vietnamese products, the Dong can become stronger. Another thing is how much money other countries put into Vietnam. If more money comes in from other countries, it can make the Dong stronger too. The government in Vietnam also plays a big role. They can decide to change the value of the Dong to make it easier for people to buy things from other countries.
 
-Another factor is the overall health of Vietnam's economy. If the economy is doing well, with more jobs and more money being made, the Dong can become stronger. But if the economy is not doing well, the Dong can become weaker. The value of the Dong can also change because of what is happening in the world. For example, if there is a big problem in the world that affects many countries, it can make the Dong weaker. All these things together decide how strong or weak the Vietnamese Dong is.
+Another [factor](/wiki/factor-investing) is the overall health of Vietnam's economy. If the economy is doing well, with more jobs and more money being made, the Dong can become stronger. But if the economy is not doing well, the Dong can become weaker. The value of the Dong can also change because of what is happening in the world. For example, if there is a big problem in the world that affects many countries, it can make the Dong weaker. All these things together decide how strong or weak the Vietnamese Dong is.
 
 ## How has the Vietnamese Dong's exchange rate changed over the past decade?
 

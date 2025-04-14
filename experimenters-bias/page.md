@@ -21,7 +21,7 @@ To avoid this problem, researchers need to be careful and use special methods. O
 
 ## What are some common examples of experimenter's bias in machine learning?
 
-One common example of experimenter's bias in machine learning is when a researcher unconsciously chooses a dataset that favors their new algorithm. For instance, if someone is developing a new machine learning model for image recognition, they might select images that the model is good at recognizing, making the performance look better than it really is. This can lead to overestimating the model's effectiveness because the results are biased towards the chosen data.
+One common example of experimenter's bias in [machine learning](/wiki/machine-learning) is when a researcher unconsciously chooses a dataset that favors their new algorithm. For instance, if someone is developing a new machine learning model for image recognition, they might select images that the model is good at recognizing, making the performance look better than it really is. This can lead to overestimating the model's effectiveness because the results are biased towards the chosen data.
 
 Another example is when an experimenter tweaks the hyperparameters of a model in a way that benefits their expected outcome. Hyperparameters are settings that control the behavior of the algorithm, and adjusting them can significantly impact the results. If the researcher adjusts these settings based on their belief in the model's potential, they might end up with a model that performs well only on the specific dataset they used, not on new, unseen data. This can give a false impression of the model's generalizability.
 
@@ -47,7 +47,7 @@ Another technique is to use cross-validation. This means splitting the data into
 
 ## How does the choice of dataset influence experimenter's bias?
 
-The choice of dataset can greatly influence experimenter's bias in machine learning. When researchers pick a dataset that matches what they expect or want to see, they might make their model look better than it really is. For example, if someone is testing a new way to recognize images, they might choose images that the model is good at recognizing. This can make the model seem more accurate than it would be on different images. By picking data that fits their expectations, researchers can accidentally create results that are not true for other datasets.
+The choice of dataset can greatly influence experimenter's bias in machine learning. When researchers pick a dataset that matches what they expect or want to see, they might make their model look better than it really is. For example, if someone is testing a new way to recognize images, they might choose images that the model is good at recognizing. This can make the model seem more accurate than it would be on different images. By [picking](/wiki/asset-class-picking) data that fits their expectations, researchers can accidentally create results that are not true for other datasets.
 
 To avoid this kind of bias, researchers should use different datasets and test their models on new data they haven't seen before. This helps make sure the model works well in many situations, not just on the data it was trained on. For example, if a model does well on one set of images, researchers should try it on other sets of images too. By being careful with the data they choose and using different datasets, researchers can make their results more reliable and reduce the chance of experimenter's bias affecting their work.
 

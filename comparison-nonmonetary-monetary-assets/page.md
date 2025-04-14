@@ -72,7 +72,7 @@ Another risk is that nonmonetary assets can be hard to turn into cash quickly. I
 
 ## What are the risks associated with holding monetary assets?
 
-Holding monetary assets, like cash or money in a bank account, can be risky because their value can go down over time. If the money is just sitting in an account without earning interest, inflation can make it worth less. Inflation means that the prices of things go up, so the same amount of money can buy less stuff in the future. Also, if a company keeps too much money in cash, it might miss out on chances to invest that money in things that could make more money, like buying new equipment or investing in stocks.
+Holding monetary assets, like cash or money in a bank account, can be risky because their value can go down over time. If the money is just sitting in an account without [earning](/wiki/earning-announcement) interest, inflation can make it worth less. Inflation means that the prices of things go up, so the same amount of money can buy less stuff in the future. Also, if a company keeps too much money in cash, it might miss out on chances to invest that money in things that could make more money, like buying new equipment or investing in stocks.
 
 Another risk with monetary assets is that they can be lost or stolen. If a company keeps a lot of cash in its office, someone could break in and take it. Even money in a bank account isn't always completely safe. If the bank has problems and goes out of business, the company might not get all its money back. Because of these risks, companies need to be careful about how much money they keep in cash and think about other ways to keep their money safe and make it grow.
 
@@ -84,7 +84,7 @@ Changes in economic conditions also affect monetary assets, but in a different w
 
 ## What is the understanding of nonmonetary assets?
 
-Nonmonetary assets represent a critical category of resources for businesses and investors, comprising both tangible and intangible items that lack a fixed or readily convertible cash value. Unlike monetary assets, which are geared towards short-term liquidity, nonmonetary assets are geared towards long-term strategic growth and value appreciation.
+Nonmonetary assets represent a critical category of resources for businesses and investors, comprising both tangible and intangible items that lack a fixed or readily convertible cash value. Unlike monetary assets, which are geared towards short-term [liquidity](/wiki/liquidity-risk-premium), nonmonetary assets are geared towards long-term strategic growth and value appreciation.
 
 Key examples of nonmonetary assets include real estate, equipment, and intellectual property. Real estate encompasses land and buildings owned by an entity, offering potential for value appreciation over time and serving as collateral for financing purposes. Equipment, covering machinery and technological tools, is essential for operational productivity and efficiency improvements. These assets, while not immediately liquid, underpin the productive capacity of a business.
 

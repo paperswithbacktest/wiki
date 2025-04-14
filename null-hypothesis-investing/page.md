@@ -18,13 +18,13 @@ When investors test their ideas, they collect data and use statistics to see if 
 
 The null hypothesis and the alternative hypothesis are two sides of the same coin when it comes to investing. The null hypothesis is like a default assumption that says there's no real difference or relationship between the things you're looking at. For example, if you're trying to see if a new stock picking method is better than an old one, the null hypothesis would say that there's no difference in how well they work. It's the starting point for your test, and you need strong evidence to move away from it.
 
-On the other hand, the alternative hypothesis is what you're hoping to prove. It's the idea that there is a difference or relationship between the things you're studying. Using the same example, the alternative hypothesis would say that the new stock picking method does perform better than the old one. When you do your research and look at the data, you're trying to see if you can reject the null hypothesis and support the alternative hypothesis instead. If the evidence is strong enough, you might decide to go with the new method because you've shown it's better.
+On the other hand, the alternative hypothesis is what you're hoping to prove. It's the idea that there is a difference or relationship between the things you're studying. Using the same example, the alternative hypothesis would say that the new stock [picking](/wiki/asset-class-picking) method does perform better than the old one. When you do your research and look at the data, you're trying to see if you can reject the null hypothesis and support the alternative hypothesis instead. If the evidence is strong enough, you might decide to go with the new method because you've shown it's better.
 
 ## Why is the null hypothesis important in investment analysis?
 
 The null hypothesis is important in investment analysis because it helps investors make decisions based on evidence rather than just guessing. It acts like a starting point where we assume there's no difference or special relationship between the things we're looking at, like different investment strategies or stock performance. By starting with this assumption, we set a clear goal for our research: we need to find strong evidence to show that our new idea is better than what we're already doing.
 
-When investors test their ideas, they gather data and use statistics to see if they can reject the null hypothesis. If the data shows a big enough difference, it means their new idea might be worth trying. But if the data isn't strong enough, they stick with the null hypothesis and keep doing things the old way. This process helps keep investment decisions grounded in facts, reducing the risk of making choices based on hunches or incomplete information.
+When investors test their ideas, they gather data and use [statistics](/wiki/bayesian-statistics) to see if they can reject the null hypothesis. If the data shows a big enough difference, it means their new idea might be worth trying. But if the data isn't strong enough, they stick with the null hypothesis and keep doing things the old way. This process helps keep investment decisions grounded in facts, reducing the risk of making choices based on hunches or incomplete information.
 
 ## Can you explain how to formulate a null hypothesis for an investment strategy?
 
@@ -112,7 +112,7 @@ Through this methodological framework, the null hypothesis becomes a critical el
 
 Investment strategies frequently employ quantitative analysis, allowing investors and analysts to apply null hypothesis testing as a method to confirm or refute the effectiveness and potential success of these strategies. The process typically involves establishing a null hypothesis to assert that there is no significant difference or effect between a new investment approach and a traditional strategy.
 
-For instance, consider an investor evaluating whether a newly developed algorithmic trading strategy significantly outperforms a conventional buy-and-hold approach. The null hypothesis (H0) in this context would claim that the new strategy does not have a statistically significant performance advantage over the buy-and-hold strategy. Formally, this can be represented as:
+For instance, consider an investor evaluating whether a newly developed [algorithmic trading](/wiki/algorithmic-trading) strategy significantly outperforms a conventional buy-and-hold approach. The null hypothesis (H0) in this context would claim that the new strategy does not have a statistically significant performance advantage over the buy-and-hold strategy. Formally, this can be represented as:
 
 $$
 H_0: \mu_{\text{new}} = \mu_{\text{buy-and-hold}}

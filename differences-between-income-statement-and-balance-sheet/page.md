@@ -92,7 +92,7 @@ This equation ensures that the balance sheet is balanced, reflecting the company
 
 The balance sheet is pivotal in evaluating a firm’s capital structure and financial stability. By analyzing the components of the balance sheet, stakeholders can gauge how well resources are managed and funded. For instance, a high level of assets relative to liabilities suggests a strong capital base, while an appropriate mix of debt and equity indicates prudent financial management.
 
-In algorithmic trading, balance sheet data is instrumental in refining trading algorithms. Traders utilize specific financial metrics derived from the balance sheet, such as the debt-to-equity ratio, to assess a company's financial health. The debt-to-equity ratio, calculated as:
+In [algorithmic trading](/wiki/algorithmic-trading), balance sheet data is instrumental in refining trading algorithms. Traders utilize specific financial metrics derived from the balance sheet, such as the debt-to-equity ratio, to assess a company's financial health. The debt-to-equity ratio, calculated as:
 
 $$
 \text{Debt-to-Equity Ratio} = \frac{\text{Total Liabilities}}{\text{Shareholders' Equity}}

@@ -76,7 +76,7 @@ The risk-free rate also helps with making decisions about how much risk to take.
 
 ## What advanced strategies involve manipulating the risk-free rate for financial gain?
 
-Some investors use advanced strategies to try to make money by guessing what will happen to the risk-free rate. One way is to use something called interest rate swaps. This is when two people agree to exchange payments based on different interest rates, like one based on the risk-free rate and another based on a different rate. If an investor thinks the risk-free rate will go up, they might agree to pay a fixed rate and get a variable rate that goes up with the risk-free rate. This way, if the risk-free rate does go up, they can make more money from the swap.
+Some investors use advanced strategies to try to make money by guessing what will happen to the risk-free rate. One way is to use something called [interest rate](/wiki/interest-rate-trading-strategies) swaps. This is when two people agree to exchange payments based on different interest rates, like one based on the risk-free rate and another based on a different rate. If an investor thinks the risk-free rate will go up, they might agree to pay a fixed rate and get a variable rate that goes up with the risk-free rate. This way, if the risk-free rate does go up, they can make more money from the swap.
 
 Another strategy is to use bond futures. These are agreements to buy or sell bonds at a set price in the future. If someone thinks the risk-free rate will go down, they might buy bond futures because when interest rates go down, the price of bonds usually goes up. This means they can sell the bonds later at a higher price and make a profit. Both of these strategies are risky because if the risk-free rate doesn't move the way the investor thinks it will, they could lose money instead of making it.
 
@@ -157,7 +157,7 @@ Understanding the interplay between the risk-free rate and other financial instr
 
 Furthermore, algorithms that can adapt to fluctuations in the risk-free rate demonstrate resilience. Such adaptability is increasingly important in markets characterized by volatility and rapid changes in economic indicators. By programming algorithms to reevaluate and recalibrate their strategies based on shifts in the risk-free rate, traders ensure their systems remain profitable and sustainable over time.
 
-In conclusion, integrating the risk-free rate within algorithmic trading strategies is vital for evaluating expected returns and managing risk. By capturing the relationship between economic conditions and investment opportunities, and responding dynamically to changes in the risk-free rate, trading algorithms can maintain a competitive edge and optimize their performance in the financial markets.
+In conclusion, integrating the risk-free rate within [algorithmic trading](/wiki/algorithmic-trading) strategies is vital for evaluating expected returns and managing risk. By capturing the relationship between economic conditions and investment opportunities, and responding dynamically to changes in the risk-free rate, trading algorithms can maintain a competitive edge and optimize their performance in the financial markets.
 
 ## References & Further Reading
 

@@ -82,7 +82,7 @@ In strategic planning, pretax profit margin can also help businesses decide what
 
 ## What are the key aspects of understanding financial metrics?
 
-Financial metrics are essential indicators that provide vital insights into a company's financial health and operational performance. These metrics evaluate various dimensions of a business, including profitability, liquidity, and efficiency, enabling stakeholders to make informed decisions.
+Financial metrics are essential indicators that provide vital insights into a company's financial health and operational performance. These metrics evaluate various dimensions of a business, including profitability, [liquidity](/wiki/liquidity-risk-premium), and efficiency, enabling stakeholders to make informed decisions.
 
 Profitability metrics, such as revenue growth, return on investment (ROI), and net profit margin, are particularly important in understanding how effectively a company is generating profits from its operational activities. Revenue growth measures the increase in a company’s sales over a specific period, typically expressed as a percentage. A positive revenue growth rate indicates that the company is expanding its sales base, which is a crucial sign of business expansion and market acceptance.
 

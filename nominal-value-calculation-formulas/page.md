@@ -28,7 +28,7 @@ Another example is with money itself. If you have a $5 bill, its nominal value i
 
 ## What are the common uses of nominal value in financial statements?
 
-In financial statements, nominal value is often used to show the original value of things like stocks or bonds. For example, if a company issues shares with a nominal value of $1 each, this value is what's written down in the company's books. It helps everyone understand the basic value of the shares without considering how much people might actually pay for them in the market.
+In financial statements, nominal value is often used to show the original value of things like stocks or bonds. For example, if a company issues shares with a nominal value of $1 each, this value is what's written down in the company's [books](/wiki/algo-trading-books). It helps everyone understand the basic value of the shares without considering how much people might actually pay for them in the market.
 
 Another common use of nominal value in financial statements is for bonds. When a company issues a bond with a nominal value of $1,000, this amount is what the company promises to pay back when the bond matures. It's a simple way to communicate the bond's face value to investors, which is important for understanding the bond's basic worth and how it fits into the company's overall financial picture.
 

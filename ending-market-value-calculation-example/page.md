@@ -40,13 +40,13 @@ At the end of the year, the price of each share of Company A has gone up to $12,
 
 ## What factors can affect the ending market value of an investment?
 
-Many things can change the ending market value of your investments. One big factor is the price of the stocks, bonds, or other things you own. If the price goes up, your ending market value will be higher. But if the price goes down, your ending market value will be lower. Another factor is how much you add or take away from your investments. If you buy more shares, your ending market value can go up. If you sell some, it can go down.
+Many things can change the ending market value of your investments. One big [factor](/wiki/factor-investing) is the price of the stocks, bonds, or other things you own. If the price goes up, your ending market value will be higher. But if the price goes down, your ending market value will be lower. Another factor is how much you add or take away from your investments. If you buy more shares, your ending market value can go up. If you sell some, it can go down.
 
 Other things that can affect your ending market value are dividends and interest. If your investments pay you money during the year, like dividends from stocks or interest from bonds, that money can make your ending market value higher. Also, the overall economy can play a role. If the economy is doing well, stock prices might go up, and if it's not doing well, they might go down. So, the ending market value can change a lot depending on these different factors.
 
 ## How does market volatility influence ending market value?
 
-Market volatility means that the prices of stocks and other investments can go up and down a lot in a short time. This can make your ending market value change a lot too. If the market is very volatile, the price of your investments might go up one day and down the next. So, when you check your ending market value at the end of a period, it could be much higher or much lower than you expected, depending on what the market did right before you looked.
+Market [volatility](/wiki/volatility-trading-strategies) means that the prices of stocks and other investments can go up and down a lot in a short time. This can make your ending market value change a lot too. If the market is very volatile, the price of your investments might go up one day and down the next. So, when you check your ending market value at the end of a period, it could be much higher or much lower than you expected, depending on what the market did right before you looked.
 
 Volatility can make it hard to predict what your ending market value will be. If the market is calm and prices don't change much, your ending market value might be easier to guess. But when the market is swinging a lot, it's like trying to guess where a ball will land when it's bouncing all over the place. This can be stressful if you're hoping your investments will grow, but it's just part of how markets work.
 

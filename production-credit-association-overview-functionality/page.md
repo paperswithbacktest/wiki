@@ -64,7 +64,7 @@ The Farm Credit System also helps PCAs by making sure they follow rules and do t
 
 ## How do interest rates and loan terms work at a PCA?
 
-Interest rates and loan terms at a Production Credit Association (PCA) are set up to help farmers and ranchers. The interest rates can be different depending on things like how long the loan will last and what the money is being used for. PCAs try to keep their rates fair and competitive so that farmers can afford to borrow money. They also look at the farmer's credit history and how well they have paid back loans before to decide on the interest rate.
+Interest rates and loan terms at a Production Credit Association (PCA) are set up to help farmers and ranchers. The interest rates can be different depending on things like how long the loan will last and what the money is being used for. PCAs try to keep their rates fair and competitive so that farmers can afford to borrow money. They also look at the farmer's credit history and how well they have paid back loans before to decide on the [interest rate](/wiki/interest-rate-trading-strategies).
 
 Loan terms at a PCA are made to fit the farming calendar. This means that farmers can pay back the loan when they have money coming in from their crops or livestock. For example, an operating loan might have payments that match the farming season, so farmers can pay back the loan after they sell their crops. PCAs understand that farming can be unpredictable, so they offer flexible terms that can be changed if needed. This helps farmers manage their money better and keep their farms running smoothly.
 

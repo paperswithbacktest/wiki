@@ -18,7 +18,7 @@ Using trade date accounting can make things clearer and more organized, especial
 
 Trade date accounting and settlement date accounting are two different ways to keep track of when you buy or sell things in financial markets. With trade date accounting, you write down the transaction in your books on the day you make the deal. So, if you buy a stock on Monday, you record it on Monday, even if you won't actually get the stock until Wednesday. This method is useful because it shows you what's happening right away, which is important in fast-moving markets.
 
-On the other hand, settlement date accounting means you only record the transaction in your books on the day you actually get the stock or the money. Using the same example, if you buy a stock on Monday but don't get it until Wednesday, you would record the transaction on Wednesday. This can make your records more straightforward because everything is noted when it's fully done, but it might not give you as quick a picture of what's going on in your finances.
+On the other hand, settlement date accounting means you only record the transaction in your [books](/wiki/algo-trading-books) on the day you actually get the stock or the money. Using the same example, if you buy a stock on Monday but don't get it until Wednesday, you would record the transaction on Wednesday. This can make your records more straightforward because everything is noted when it's fully done, but it might not give you as quick a picture of what's going on in your finances.
 
 ## Why is trade date accounting important in financial reporting?
 

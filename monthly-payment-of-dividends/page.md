@@ -46,7 +46,7 @@ For example, if a stock pays an annual dividend of $2 per share and you own 100 
 
 ## What are the key financial metrics to look at when selecting stocks for monthly dividend income?
 
-When picking stocks for monthly dividend income, it's good to look at the dividend yield first. This is how much money you get in dividends each year compared to the price of the stock. A higher yield can mean more money coming in each month, but be careful because a very high yield might mean the company is having problems. You should also check the payout ratio, which tells you how much of the company's profits are being paid out as dividends. A payout ratio that is too high might mean the company can't keep paying dividends at the same level in the future.
+When [picking](/wiki/asset-class-picking) stocks for monthly dividend income, it's good to look at the dividend yield first. This is how much money you get in dividends each year compared to the price of the stock. A higher yield can mean more money coming in each month, but be careful because a very high yield might mean the company is having problems. You should also check the payout ratio, which tells you how much of the company's profits are being paid out as dividends. A payout ratio that is too high might mean the company can't keep paying dividends at the same level in the future.
 
 Another important thing to look at is the company's history of paying dividends. Companies that have been paying dividends for a long time and keep increasing them are usually more reliable. Also, look at the company's financial health. Check the earnings growth to see if the company is making more money over time. A company with strong earnings growth is more likely to keep paying and maybe even raise its dividends. By looking at these metrics, you can pick stocks that will give you a steady monthly income.
 
@@ -54,7 +54,7 @@ Another important thing to look at is the company's history of paying dividends.
 
 Monthly dividend stocks can be a good part of a diversified investment portfolio. They help you get a steady income every month, which is great if you need money regularly. By adding these stocks, you spread out your investments, which can make your portfolio safer. If one part of your investments goes down, the monthly dividends can help balance it out. This way, you don't have all your money in one place, and you can feel more secure about your investments.
 
-When you mix monthly dividend stocks with other types of investments, like growth stocks or bonds, you create a balanced portfolio. Growth stocks might not pay dividends but can increase in value over time. Bonds give you a fixed income but usually less than stocks. By having a mix, you can get the best of both worlds: regular income from monthly dividends and potential growth from other investments. This mix helps you reach your financial goals while keeping your risks low.
+When you mix monthly dividend stocks with other types of investments, like [growth stocks](/wiki/growth-stocks) or bonds, you create a balanced portfolio. Growth stocks might not pay dividends but can increase in value over time. Bonds give you a fixed income but usually less than stocks. By having a mix, you can get the best of both worlds: regular income from monthly dividends and potential growth from other investments. This mix helps you reach your financial goals while keeping your risks low.
 
 ## What are the potential risks associated with investing in stocks that pay monthly dividends?
 

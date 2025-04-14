@@ -102,5 +102,5 @@ In some other countries, like Australia, the rules can be a bit different. They 
 
 10. Lease, R. C., John, K., Kalay, A., Loewenstein, U., & Sarig, O. (2000). *Dividend Policy: Its Impact on Firm Value*. Harvard Business Review Press. This publication explores how different dividend policies can influence a company's market value.
 
-For those interested in machine learning applications in algorithmic trading, incorporating dividend data may benefit from exploring sources such as Pärsson, S. (2013), "Algorithmic Trading Using Machine Learning," available via university repositories or industry-specific publications. Additionally, data-driven platforms like QuantConnect or backtesting frameworks such as Zipline in Python are valuable for refining algorithmic strategies involving dividend dates.
+For those interested in [machine learning](/wiki/machine-learning) applications in [algorithmic trading](/wiki/algorithmic-trading), incorporating dividend data may benefit from exploring sources such as Pärsson, S. (2013), "Algorithmic Trading Using Machine Learning," available via university repositories or industry-specific publications. Additionally, data-driven platforms like QuantConnect or [backtesting](/wiki/backtesting) frameworks such as Zipline in Python are valuable for refining algorithmic strategies involving dividend dates.
 

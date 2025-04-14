@@ -40,7 +40,7 @@ This affects investment decisions a lot because it helps businesses pick the bes
 
 ## What are the different components of the cost of capital?
 
-The cost of capital is made up of two main parts: the cost of debt and the cost of equity. The cost of debt is what a company pays in interest on its loans. It's usually pretty easy to figure out because it's just the interest rate the company has to pay. But, because companies can deduct interest from their taxes, the real cost of debt is a bit less than the interest rate. You find this by taking the interest rate and multiplying it by one minus the tax rate.
+The cost of capital is made up of two main parts: the cost of debt and the cost of equity. The cost of debt is what a company pays in interest on its loans. It's usually pretty easy to figure out because it's just the [interest rate](/wiki/interest-rate-trading-strategies) the company has to pay. But, because companies can deduct interest from their taxes, the real cost of debt is a bit less than the interest rate. You find this by taking the interest rate and multiplying it by one minus the tax rate.
 
 The cost of equity is trickier because it's what shareholders expect to earn from their investment in the company. One way to estimate it is by using the Capital Asset Pricing Model (CAPM). This model says the cost of equity is a risk-free rate (like what you'd get from a super safe investment) plus a premium for the risk of investing in the company. The risk premium depends on how risky the company is compared to the overall market.
 
@@ -54,7 +54,7 @@ Once you have the costs of debt and equity, you mix them together based on how m
 
 ## What factors influence the required rate of return?
 
-The required rate of return is what investors expect to earn from their investment. It's influenced by a few key things. One big factor is how risky the investment is. If an investment is seen as risky, investors will want a higher return to make up for that risk. Another factor is the overall economy and what other investment options are out there. If there are lots of safe investments that give good returns, investors might expect a higher return from riskier investments to make it worth their while.
+The required rate of return is what investors expect to earn from their investment. It's influenced by a few key things. One big [factor](/wiki/factor-investing) is how risky the investment is. If an investment is seen as risky, investors will want a higher return to make up for that risk. Another factor is the overall economy and what other investment options are out there. If there are lots of safe investments that give good returns, investors might expect a higher return from riskier investments to make it worth their while.
 
 Also, the time frame of the investment can affect the required rate of return. If investors are putting their money into something for a long time, they might want a higher return because they can't use that money for other things in the meantime. Finally, the investor's own situation plays a role. Some investors might be okay with lower returns if they're not in a hurry to make money, while others might need higher returns because they need the money sooner.
 
@@ -86,7 +86,7 @@ Another advanced model is the Fama-French Three-Factor Model, which builds on CA
 
 The cost of capital is a foundational concept in financial management, representing the minimum return that investors expect for investing in a company or financial asset, considering the inherent risks. It serves as a crucial benchmark for assessing the desirability of potential investment projects and the overall corporate performance. By setting this benchmark, the cost of capital influences managerial decisions on whether to pursue new projects or strategies, ensuring that they meet or exceed investor expectations.
 
-The primary components of the cost of capital include the cost of debt and the cost of equity, each offering insights into the financial health and risk profile of an enterprise. The cost of debt is typically assessed as the effective rate a company pays on its borrowed funds, which can be calculated by considering both the interest rates and the tax shields offered by interest expenses. Conversely, the cost of equity represents the returns required by equity investors, taking into account stock volatility and market conditions.
+The primary components of the cost of capital include the cost of debt and the cost of equity, each offering insights into the financial health and risk profile of an enterprise. The cost of debt is typically assessed as the effective rate a company pays on its borrowed funds, which can be calculated by considering both the interest rates and the tax shields offered by interest expenses. Conversely, the cost of equity represents the returns required by equity investors, taking into account stock [volatility](/wiki/volatility-trading-strategies) and market conditions.
 
 To calculate the weighted average cost of capital (WACC), a commonly used measure, the following formula is applied:
 

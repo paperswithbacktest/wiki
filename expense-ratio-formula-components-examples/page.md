@@ -28,7 +28,7 @@ This calculation includes various costs like management fees, administrative fee
 
 ## What are the components of an expense ratio?
 
-The expense ratio of a fund includes different costs that add up to what it takes to run the fund. These costs can be things like management fees, which are what the fund managers get paid for picking the investments and making sure the fund is doing well. There are also administrative fees, which cover things like keeping records, sending out statements, and other office work that keeps the fund running smoothly.
+The expense ratio of a fund includes different costs that add up to what it takes to run the fund. These costs can be things like management fees, which are what the fund managers get paid for [picking](/wiki/asset-class-picking) the investments and making sure the fund is doing well. There are also administrative fees, which cover things like keeping records, sending out statements, and other office work that keeps the fund running smoothly.
 
 Other costs that might be part of the expense ratio are things like marketing and distribution fees, which help get the word out about the fund so more people will invest in it. There might also be legal and audit fees, which are needed to make sure the fund follows all the rules and everything is done correctly. All these costs together make up the expense ratio, and they are taken out of the fund's total assets every year.
 

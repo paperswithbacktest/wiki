@@ -34,7 +34,7 @@ Another important thing is that you need to be approved by the brokerage firm. T
 
 ## How do you calculate the margin interest on mutual fund purchases?
 
-To calculate the margin interest on mutual fund purchases, you first need to know how much money you borrowed from your broker. This is the amount you used to buy the mutual funds minus the money you put in yourself. Once you know the borrowed amount, you then need to find out the interest rate your broker is charging. This rate can change, so it's important to check it often.
+To calculate the margin interest on mutual fund purchases, you first need to know how much money you borrowed from your broker. This is the amount you used to buy the mutual funds minus the money you put in yourself. Once you know the borrowed amount, you then need to find out the [interest rate](/wiki/interest-rate-trading-strategies) your broker is charging. This rate can change, so it's important to check it often.
 
 After you have the borrowed amount and the interest rate, you can calculate the interest. Multiply the borrowed amount by the interest rate, and then divide by the number of days in a year (usually 360 or 365, depending on your broker's policy) to get the daily interest. Then, multiply the daily interest by the number of days you've had the loan to find out the total interest you owe. Remember, this interest will add to the cost of your investment, so it's something to keep in mind when using a margin account.
 
@@ -92,7 +92,7 @@ $$
 
 where $R_f$ is the risk-free rate, $\beta$ is the measure of the security's risk relative to the market, and $R_m$ is the expected market return. This model helps investors assess the expected return on a mutual fund concerning its systemic risk, aiding in informed decision-making.
 
-Portfolio diversification strategies play a pivotal role in mitigating risk. Diversification involves spreading investments across various asset types, geographic regions, and economic sectors to reduce exposure to any single investment's volatility. Mutual funds inherently offer diversification through their pooled investment structure, enabling investors to access a broad range of securities and thus enhancing risk management. 
+Portfolio diversification strategies play a pivotal role in mitigating risk. Diversification involves spreading investments across various asset types, geographic regions, and economic sectors to reduce exposure to any single investment's [volatility](/wiki/volatility-trading-strategies). Mutual funds inherently offer diversification through their pooled investment structure, enabling investors to access a broad range of securities and thus enhancing risk management. 
 
 Choosing the right investment horizon, whether long-term or short-term, significantly affects the fund's performance and risk profile. Long-term horizons generally allow for weathering market volatility, benefiting from compound growth and alignment with strategic financial goals, such as retirement planning. On the other hand, short-term investing may target quick gains but comes with heightened risk and requires constant market monitoring.
 

@@ -30,7 +30,7 @@ Unsupervised learning is different because there's no teacher. You just give the
 
 ## What are some common algorithms used in machine learning?
 
-In machine learning, there are many common algorithms that help computers learn from data. For supervised learning, one popular algorithm is the decision tree. It's like a flowchart where the computer asks questions about the data and makes decisions based on the answers. Another common one is the k-nearest neighbors algorithm, which looks at the data points closest to a new point to make a prediction. For example, if you want to guess someone's favorite food, you might look at the favorite foods of people who are similar to them. Linear regression is also widely used, especially for predicting numbers, like guessing how much a house might cost based on its size and location.
+In [machine learning](/wiki/machine-learning), there are many common algorithms that help computers learn from data. For supervised learning, one popular algorithm is the decision tree. It's like a flowchart where the computer asks questions about the data and makes decisions based on the answers. Another common one is the k-nearest neighbors algorithm, which looks at the data points closest to a new point to make a prediction. For example, if you want to guess someone's favorite food, you might look at the favorite foods of people who are similar to them. Linear regression is also widely used, especially for predicting numbers, like guessing how much a house might cost based on its size and location.
 
 For unsupervised learning, clustering algorithms like k-means are often used. They group similar data points together, which can help find patterns in data without any labels. For instance, if you have a bunch of customer data, k-means can help you find groups of customers who behave similarly. Another algorithm is principal component analysis (PCA), which is used to simplify data by finding the most important features. Imagine you have a lot of information about students, like their grades, sports, and hobbies. PCA can help you focus on the most important information to understand the students better.
 
@@ -68,7 +68,7 @@ Dimensionality reduction is another way to simplify the data. It's like taking a
 
 ## How does deep learning differ from traditional machine learning techniques?
 
-Deep learning is a type of machine learning that uses neural networks with many layers. These layers help the computer learn very complex patterns in data. Think of it like learning to recognize a friend's face. Traditional machine learning might need you to tell the computer what to look for, like the shape of the eyes or the color of the hair. But with deep learning, the computer figures out these details by itself, just by looking at a lot of pictures. This makes deep learning really good at tasks like understanding speech, recognizing images, and even playing games.
+Deep learning is a type of machine learning that uses neural networks with many layers. These layers help the computer learn very complex patterns in data. Think of it like learning to recognize a friend's face. Traditional machine learning might need you to tell the computer what to look for, like the shape of the eyes or the color of the hair. But with [deep learning](/wiki/deep-learning), the computer figures out these details by itself, just by looking at a lot of pictures. This makes deep learning really good at tasks like understanding speech, recognizing images, and even playing games.
 
 Traditional machine learning techniques, on the other hand, often use simpler models like decision trees or linear regression. These models are easier to understand and quicker to train, but they might not be as good at handling very complex data. For example, if you want to predict how much a house will cost, traditional methods might look at things like the size of the house and the number of rooms. They work well when the patterns in the data are straightforward. Deep learning, though, can handle much more complicated patterns, but it needs a lot more data and computing power to work well.
 
@@ -86,7 +86,7 @@ Maintaining a machine learning model in production means checking it regularly t
 
 ## What are the key components of machine learning in algo trading?
 
-Machine learning in algorithmic trading is a multifaceted process that involves several critical components to ensure accurate predictions and efficient trade execution. These components together form the foundation of a robust trading system utilizing machine learning technology.
+Machine learning in [algorithmic trading](/wiki/algorithmic-trading) is a multifaceted process that involves several critical components to ensure accurate predictions and efficient trade execution. These components together form the foundation of a robust trading system utilizing machine learning technology.
 
 1. **Data Collection:** The first step is to gather data from multiple sources, including historical market data, real-time price feeds, social media platforms, and economic reports. This data acts as the backbone for machine learning models, providing the necessary inputs to analyze market trends. Reliable data providers or APIs like Bloomberg and Thomson Reuters are often used to source this data.
 

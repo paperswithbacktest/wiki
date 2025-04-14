@@ -24,7 +24,7 @@ That's where adjusted book value comes in. It's like a more detailed report card
 
 Adjusted book value is important in financial analysis because it gives a more accurate picture of a company's worth. The regular book value might not show the true value of a company's assets and liabilities. For example, if a company owns a building that's worth more now than when they bought it, the book value won't show that increase. By adjusting the book value, analysts can see a more realistic value of the company, which helps them make better decisions.
 
-This adjusted number is useful for investors who want to know if a company's stock is a good buy. If the adjusted book value is higher than the book value, it might mean the company is worth more than what's on the books. This can help investors decide if they should buy, sell, or hold onto their shares. By using adjusted book value, investors and analysts can get a clearer view of a company's financial health and make more informed choices.
+This adjusted number is useful for investors who want to know if a company's stock is a good buy. If the adjusted book value is higher than the book value, it might mean the company is worth more than what's on the [books](/wiki/algo-trading-books). This can help investors decide if they should buy, sell, or hold onto their shares. By using adjusted book value, investors and analysts can get a clearer view of a company's financial health and make more informed choices.
 
 ## What types of adjustments are typically made to calculate the adjusted book value?
 

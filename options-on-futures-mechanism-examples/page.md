@@ -34,7 +34,7 @@ For example, if you buy a call option on a wheat futures contract, you're gettin
 
 ## How is the price of an option on futures determined?
 
-The price of an option on futures is determined by several factors, including the price of the underlying futures contract, the time until the option expires, the volatility of the futures contract, and the interest rates. The most important factor is the price of the futures contract compared to the strike price of the option. If the futures contract price is higher than the strike price for a call option, or lower for a put option, the option becomes more valuable because it can be used to make a profit.
+The price of an option on futures is determined by several factors, including the price of the underlying futures contract, the time until the option expires, the [volatility](/wiki/volatility-trading-strategies) of the futures contract, and the interest rates. The most important [factor](/wiki/factor-investing) is the price of the futures contract compared to the strike price of the option. If the futures contract price is higher than the strike price for a call option, or lower for a put option, the option becomes more valuable because it can be used to make a profit.
 
 Another key factor is the time until the option expires. The more time there is until the option expires, the more valuable it can be because there's more time for the futures contract price to move in a favorable direction. Volatility also plays a role; if the futures contract price is expected to move a lot, the option becomes more valuable because there's a higher chance it will end up in the money. Finally, interest rates can affect the price of the option because they influence the cost of holding the option until it expires.
 

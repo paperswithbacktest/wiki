@@ -118,7 +118,7 @@ By comprehending these key metrics, banks and other financial institutions can i
 
 ## References & Further Reading
 
-For readers seeking to expand their understanding of the concepts covered in this article, the following resources offer in-depth exploration and analysis of financial metrics, banking strategies, and algorithmic trading:
+For readers seeking to expand their understanding of the concepts covered in this article, the following resources offer in-depth exploration and analysis of financial metrics, banking strategies, and [algorithmic trading](/wiki/algorithmic-trading):
 
 1. **"Principles of Banking" by Moorad Choudhry** – This book provides a comprehensive overview of the principles underlying modern banking operations, with a focus on risk management, asset-liability management, and the use of financial instruments.
 

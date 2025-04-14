@@ -52,7 +52,7 @@ Another approach to managing net exposure is to diversify your investments. By s
 
 ## How does net exposure relate to market volatility?
 
-Net exposure can affect how much a trader is impacted by market volatility. Market volatility means how much prices go up and down in the market. If you have a high net exposure, you are betting a lot on the market moving one way. So, if the market is very volatile and moves a lot, you could make a lot of money if it goes your way. But, if it moves against you, you could lose a lot of money too. This is because a high net exposure means you are taking more risk, and with more risk comes the chance for bigger wins and bigger losses.
+Net exposure can affect how much a trader is impacted by market [volatility](/wiki/volatility-trading-strategies). Market volatility means how much prices go up and down in the market. If you have a high net exposure, you are betting a lot on the market moving one way. So, if the market is very volatile and moves a lot, you could make a lot of money if it goes your way. But, if it moves against you, you could lose a lot of money too. This is because a high net exposure means you are taking more risk, and with more risk comes the chance for bigger wins and bigger losses.
 
 To manage this risk, traders might change their net exposure based on how volatile they think the market will be. If they think the market will be very volatile, they might lower their net exposure to protect themselves from big losses. They can do this by balancing their long and short positions or by using other strategies like stop-loss orders. By adjusting their net exposure, traders can try to take advantage of market volatility while also protecting themselves from the risks that come with it.
 
@@ -100,7 +100,7 @@ Credit risk refers to the possibility that a borrower or counterparty will fail 
 
 **Liquidity Risk**
 
-Liquidity risk is the risk that an entity will not be able to quickly buy or sell an asset without causing a significant impact on its price due to insufficient market depth. This is especially pertinent during periods of financial stress when markets may become illiquid. Managing liquidity risk involves maintaining a portion of the portfolio in highly liquid assets and monitoring the liquidity profile of investments. Stress testing and liquidity gap analysis are common methods used to evaluate and manage this risk.
+Liquidity risk is the risk that an entity will not be able to quickly buy or sell an asset without causing a significant impact on its price due to insufficient market depth. This is especially pertinent during periods of financial stress when markets may become illiquid. Managing [liquidity](/wiki/liquidity-risk-premium) risk involves maintaining a portion of the portfolio in highly liquid assets and monitoring the liquidity profile of investments. Stress testing and liquidity gap analysis are common methods used to evaluate and manage this risk.
 
 **Risk Management Techniques**
 

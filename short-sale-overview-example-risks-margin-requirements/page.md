@@ -84,7 +84,7 @@ Also, pay attention to what's happening in the news and the market. If there are
 
 ## What are the investment risks involved in short sales?
 
-Short selling presents various investment risks that traders must understand before engaging in such strategies. These risks primarily include market risk, liquidity risk, the potential for unlimited losses, the phenomenon of short squeezes, and regulatory and reputational risks.
+Short selling presents various investment risks that traders must understand before engaging in such strategies. These risks primarily include market risk, [liquidity](/wiki/liquidity-risk-premium) risk, the potential for unlimited losses, the phenomenon of short squeezes, and regulatory and reputational risks.
 
 ### Market Risk and Liquidity Risk
 

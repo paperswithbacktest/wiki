@@ -22,7 +22,7 @@ Another good reason to invest $100 a month for 20 years is that it helps you get
 
 ## How does compound interest work in long-term stock investments?
 
-Compound interest in long-term stock investments means that the money you earn from your investments starts earning money too. Imagine you invest some money and it grows by a certain percentage each year. The next year, you earn interest not just on the money you originally put in, but also on the interest you earned the year before. Over many years, this can make your money grow a lot more than if you just earned interest on your original amount.
+Compound interest in long-term stock investments means that the money you earn from your investments starts [earning](/wiki/earning-announcement) money too. Imagine you invest some money and it grows by a certain percentage each year. The next year, you earn interest not just on the money you originally put in, but also on the interest you earned the year before. Over many years, this can make your money grow a lot more than if you just earned interest on your original amount.
 
 Let's say you invest $100 and it grows by 10% in a year. Now you have $110. The next year, you earn 10% on $110, not just the original $100. So, you get $11 more, making your total $121. This keeps happening year after year. The longer you keep your money invested, the more powerful compound interest becomes. That's why starting early and leaving your money in for a long time can really help it grow a lot.
 
@@ -42,7 +42,7 @@ Once you have your account set up and money in it, you can start buying stocks. 
 
 When you're looking for stocks to invest in for the long term, you should think about companies that have a good chance of growing over many years. These are often big, stable companies that have been around for a while and have a strong track record. They might be in industries like technology, healthcare, or consumer goods. These companies often pay dividends, which is like getting a little extra money just for owning their stock. Some examples might be companies like Apple, Johnson & Johnson, or Coca-Cola. These companies have a history of doing well and are likely to keep growing.
 
-Another type of stock to consider for long-term investment is growth stocks. These are companies that are expected to grow a lot faster than the average company. They might not pay dividends because they're using their money to grow even bigger. These stocks can be riskier, but if you pick the right ones, they can grow a lot over time. Companies like Amazon or Netflix were once growth stocks and have become huge over the years. When you're picking growth stocks, it's important to do your research and pick companies you believe in for the long haul.
+Another type of stock to consider for long-term investment is [growth stocks](/wiki/growth-stocks). These are companies that are expected to grow a lot faster than the average company. They might not pay dividends because they're using their money to grow even bigger. These stocks can be riskier, but if you pick the right ones, they can grow a lot over time. Companies like Amazon or Netflix were once growth stocks and have become huge over the years. When you're [picking](/wiki/asset-class-picking) growth stocks, it's important to do your research and pick companies you believe in for the long haul.
 
 Lastly, you might want to look into index funds or ETFs (exchange-traded funds) for long-term investment. These are funds that own a bunch of different stocks, so you're not betting on just one company. They track things like the S&P 500, which is a group of 500 big companies. By investing in an index fund, you're spreading your risk out and getting a piece of the overall growth of the market. This can be a safer way to invest for the long term, and it's easy to set up automatic investments into these funds each month.
 
@@ -156,7 +156,7 @@ The **beta** coefficient is another essential metric used to determine the tende
 
 ### Diversification and Dynamic Rebalancing
 
-Diversification remains a cornerstone in integrating long-term strategies with algorithmic trading as it helps spread risk across various asset classes and sectors. This approach minimizes the impact of adverse movements in any single investment, thereby stabilizing the portfolio's overall returns.
+Diversification remains a cornerstone in integrating long-term strategies with [algorithmic trading](/wiki/algorithmic-trading) as it helps spread risk across various asset classes and sectors. This approach minimizes the impact of adverse movements in any single investment, thereby stabilizing the portfolio's overall returns.
 
 Dynamic rebalancing complements diversification by routinely adjusting the portfolio's allocation in response to market changes and asset performance. Algorithmic trading systems are particularly effective for this purpose due to their ability to constantly monitor market data and execute trades automatically when certain conditions are met, ensuring the portfolio remains aligned with the investor's strategic objectives.
 

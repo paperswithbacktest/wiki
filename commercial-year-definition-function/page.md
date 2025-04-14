@@ -38,7 +38,7 @@ The fashion industry also uses a commercial year. They often start their year in
 
 The start and end date of a commercial year is chosen by each business to fit its own needs. Companies look at when they are busiest and when they make the most money. For example, a toy company might end its commercial year right after the holiday season because that's when they sell the most toys. By doing this, they can show all those sales in one year's financial report, which can make their business look better.
 
-Different industries might choose different times for their commercial year. A farming business might start its year when they plant their crops and end it after they harvest. This way, they can see all the money they spent and made from one crop cycle in one year. It's all about picking a time that makes sense for the business and helps them plan and make decisions better.
+Different industries might choose different times for their commercial year. A farming business might start its year when they plant their crops and end it after they harvest. This way, they can see all the money they spent and made from one crop cycle in one year. It's all about [picking](/wiki/asset-class-picking) a time that makes sense for the business and helps them plan and make decisions better.
 
 ## What are the financial reporting implications of using a commercial year?
 

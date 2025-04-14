@@ -26,7 +26,7 @@ In economic analysis, one of the most common mathematical tools is algebra. Econ
 
 Another important tool is calculus. Calculus helps economists understand how things change over time. For instance, they might use calculus to figure out how fast prices are changing or how quickly a company's profits are growing. Calculus can also help economists find the best or most efficient way to do something, like how a business should set its prices to make the most profit.
 
-Economists also use statistics a lot. Statistics helps them make sense of big sets of data, like information about how much people earn or how many people are unemployed. With statistics, economists can see patterns in the data, make predictions about the future, and test if their ideas about the economy are right. This is really helpful for understanding what is happening in the economy and what might happen next.
+Economists also use [statistics](/wiki/bayesian-statistics) a lot. Statistics helps them make sense of big sets of data, like information about how much people earn or how many people are unemployed. With statistics, economists can see patterns in the data, make predictions about the future, and test if their ideas about the economy are right. This is really helpful for understanding what is happening in the economy and what might happen next.
 
 ## Can you provide examples of how mathematical models are applied in economics?
 

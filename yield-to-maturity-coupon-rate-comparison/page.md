@@ -28,7 +28,7 @@ This rate stays the same for the whole time you own the bond. It doesn't change 
 
 ## How is Yield to Maturity calculated for a bond?
 
-Yield to Maturity (YTM) is the total return you can expect from a bond if you hold it until it matures. To calculate it, you need to find the interest rate that makes the present value of all the bond's future cash flows equal to its current market price. This includes all the yearly interest payments, called coupons, and the bond's face value, which you get back at the end. It's a bit like solving a puzzle where you need to find the rate that makes everything balance out.
+Yield to Maturity (YTM) is the total return you can expect from a bond if you hold it until it matures. To calculate it, you need to find the [interest rate](/wiki/interest-rate-trading-strategies) that makes the present value of all the bond's future cash flows equal to its current market price. This includes all the yearly interest payments, called coupons, and the bond's face value, which you get back at the end. It's a bit like solving a puzzle where you need to find the rate that makes everything balance out.
 
 You can use a financial calculator or a computer program to do the math, but the basic idea is to think about the time value of money. The future cash flows are worth less today, so you need to discount them back to the present using the YTM as the discount rate. Once you find the right rate, you've got the YTM. It's a useful number because it tells you what you can expect to earn from the bond each year if you hold it until it matures, and it helps you compare different bonds.
 

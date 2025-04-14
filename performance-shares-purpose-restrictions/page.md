@@ -30,7 +30,7 @@ Another reason for giving performance shares is to keep employees interested in 
 
 Performance shares are usually set up with clear goals that employees need to reach to get the shares. These goals can be about how well the company does, like making more money or growing bigger, or they can be about how well the employee does their job. The company decides what these goals are and how hard they should be to reach. Once the goals are set, employees work towards them over a certain time, which is called the performance period. This period can last for a few years, giving employees enough time to make a big impact.
 
-When the performance period ends, the company checks if the goals were met. If they were, the employees get the performance shares. The number of shares they get can depend on how well they did compared to the goals. Sometimes, employees might get all the shares if they did really well, or they might get fewer shares if they just met the goals. After getting the shares, there might be a time when employees have to wait before they can sell them, which is called a vesting period. This is to make sure employees stay with the company for a bit longer after earning the shares.
+When the performance period ends, the company checks if the goals were met. If they were, the employees get the performance shares. The number of shares they get can depend on how well they did compared to the goals. Sometimes, employees might get all the shares if they did really well, or they might get fewer shares if they just met the goals. After getting the shares, there might be a time when employees have to wait before they can sell them, which is called a vesting period. This is to make sure employees stay with the company for a bit longer after [earning](/wiki/earning-announcement) the shares.
 
 ## What common performance metrics are used to determine the vesting of performance shares?
 
@@ -100,9 +100,9 @@ In conclusion, equity compensation offers versatile mechanisms for companies to 
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). Algorithms for Hyper-Parameter Optimization. This paper discusses innovative approaches for optimizing hyper-parameters in machine learning, providing insights that can extend to optimizing trading algorithms.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). Algorithms for Hyper-Parameter Optimization. This paper discusses innovative approaches for optimizing hyper-parameters in [machine learning](/wiki/machine-learning), providing insights that can extend to optimizing trading algorithms.
 
-Advances in Financial Machine Learning by Marcos Lopez de Prado. This book offers comprehensive insight into applying machine learning techniques to financial markets, emphasizing the development and deployment of advanced algorithmic trading strategies.
+Advances in Financial Machine Learning by Marcos Lopez de Prado. This book offers comprehensive insight into applying machine learning techniques to financial markets, emphasizing the development and deployment of advanced [algorithmic trading](/wiki/algorithmic-trading) strategies.
 
 Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals by David Aronson. Aronson's work rigorously evaluates technical analysis through a scientific framework, offering valuable methodologies for improving trading signal accuracy.
 

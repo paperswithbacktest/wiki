@@ -22,7 +22,7 @@ Companies and investors often use price swaps to protect themselves from price c
 
 ## What are the main types of price swap derivatives?
 
-Price swap derivatives come in different forms, but the main types are commodity swaps and interest rate swaps. A commodity swap is when two people agree to swap payments based on the price of a commodity, like oil or wheat. One person might pay a fixed price for the commodity, while the other pays based on the market price. This helps them manage the risk of price changes in commodities. For example, a farmer might use a commodity swap to lock in a price for their crops, so they know how much money they will get even if the market price goes down.
+Price swap derivatives come in different forms, but the main types are commodity swaps and [interest rate](/wiki/interest-rate-trading-strategies) swaps. A commodity swap is when two people agree to swap payments based on the price of a commodity, like oil or wheat. One person might pay a fixed price for the commodity, while the other pays based on the market price. This helps them manage the risk of price changes in commodities. For example, a farmer might use a commodity swap to lock in a price for their crops, so they know how much money they will get even if the market price goes down.
 
 Another common type is an interest rate swap. This is when two people agree to swap payments based on different interest rates. One person might pay a fixed interest rate, while the other pays a floating rate that changes with the market. This can help them manage the risk of interest rate changes. For example, a company with a loan that has a floating interest rate might use an interest rate swap to switch to a fixed rate, so they know exactly how much they will pay each month, even if interest rates go up.
 
@@ -44,7 +44,7 @@ Finally, price swaps can be complicated and hard to understand. If you don't ful
 
 Pricing a price swap derivative involves figuring out what the payments will be worth in the future. Imagine you and a friend are swapping payments based on the price of oil and gold. To price this swap, you need to guess what the prices of oil and gold will be when you make the payments. You also need to think about how much money is worth now compared to later, which is called the present value. If you think oil prices will go up a lot, the swap might be worth more to you because you'll get more money from your friend.
 
-Another important thing to consider is the risk that one of you might not be able to pay. This is called counterparty risk. If your friend might not be able to pay you, you'll want to be paid more to take that risk. Also, the cost of the swap can change based on how easy it is to buy or sell it in the market, which is called liquidity. If it's hard to find someone else to take over the swap, it might be worth less. All these things together help decide the price of a price swap derivative.
+Another important thing to consider is the risk that one of you might not be able to pay. This is called counterparty risk. If your friend might not be able to pay you, you'll want to be paid more to take that risk. Also, the cost of the swap can change based on how easy it is to buy or sell it in the market, which is called [liquidity](/wiki/liquidity-risk-premium). If it's hard to find someone else to take over the swap, it might be worth less. All these things together help decide the price of a price swap derivative.
 
 ## What is the role of counterparties in a price swap derivative?
 

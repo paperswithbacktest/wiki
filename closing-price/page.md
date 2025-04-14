@@ -76,7 +76,7 @@ Sometimes, the way the closing price is figured out can be a bit different too. 
 
 ## What advanced statistical models use closing prices for forecasting market trends?
 
-Advanced statistical models like time series analysis and machine learning algorithms use closing prices to forecast market trends. Time series analysis looks at how the closing prices change over time and uses this information to predict what might happen next. For example, it can look at patterns like how the stock went up and down in the past to guess where it might go in the future. This helps investors and traders make better decisions about buying or selling stocks.
+Advanced statistical models like time series analysis and [machine learning](/wiki/machine-learning) algorithms use closing prices to forecast market trends. Time series analysis looks at how the closing prices change over time and uses this information to predict what might happen next. For example, it can look at patterns like how the stock went up and down in the past to guess where it might go in the future. This helps investors and traders make better decisions about buying or selling stocks.
 
 Machine learning models, on the other hand, can learn from lots of data, including closing prices, to make predictions. These models can find complex patterns in the data that might be hard for people to see. They can use the closing prices along with other information, like news or economic reports, to forecast how the market might move. Both types of models are powerful tools that help people understand and predict what might happen in the stock market based on closing prices.
 

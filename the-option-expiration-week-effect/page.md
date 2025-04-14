@@ -34,7 +34,7 @@ This can make the stock price move in a funny way. Instead of going up or down a
 
 ## What strategies can traders use during Option Expiration Week to maximize gains?
 
-During Option Expiration Week, traders can use a strategy called "gamma scalping" to try to make money. This means they buy and sell the stock to keep their options profitable. If they own options that are close to the current stock price, they might buy the stock if it goes down a bit and sell it if it goes up a bit. This helps them make small profits from the stock's movements and can add up over time.
+During Option Expiration Week, traders can use a strategy called "gamma [scalping](/wiki/gamma-scalping)" to try to make money. This means they buy and sell the stock to keep their options profitable. If they own options that are close to the current stock price, they might buy the stock if it goes down a bit and sell it if it goes up a bit. This helps them make small profits from the stock's movements and can add up over time.
 
 Another strategy is to look for "pinning" opportunities. Traders might try to push the stock price to a level where a lot of options will expire. If they can guess where this level will be, they can buy or sell the stock to help keep it there. This can be risky, but if they get it right, they can make a good profit from the options that expire at that price.
 
@@ -42,7 +42,7 @@ Lastly, traders can use "straddles" or "strangles" to bet on big price moves. A 
 
 ## How does increased volatility during Option Expiration Week impact trading?
 
-Increased volatility during Option Expiration Week can make trading more exciting but also more risky. When a lot of options are about to expire, traders might buy or sell stocks more than usual to make sure their options work out. This can make stock prices move up and down a lot more than on normal days. Traders need to be ready for these big swings and might need to change their plans quickly to take advantage of the situation or to protect their money.
+Increased [volatility](/wiki/volatility-trading-strategies) during Option Expiration Week can make trading more exciting but also more risky. When a lot of options are about to expire, traders might buy or sell stocks more than usual to make sure their options work out. This can make stock prices move up and down a lot more than on normal days. Traders need to be ready for these big swings and might need to change their plans quickly to take advantage of the situation or to protect their money.
 
 This volatility can also mean more chances to make money, but it's important to be careful. Some traders might use strategies like gamma scalping or betting on big price moves with straddles and strangles. These strategies can work well if the stock price moves a lot, but they can also lose money if the price doesn't move enough. So, during Option Expiration Week, it's smart to watch the market closely and be ready to act fast if things change.
 
@@ -74,7 +74,7 @@ Another way to use technical analysis is to look at moving averages. These are l
 
 During Option Expiration Week, traders can feel a lot of pressure because they know their options are about to expire. This can make them act differently than they usually would. They might feel more stressed and make quick decisions to try to make their options work out. This can lead to more buying and selling, which can make the market move a lot. Traders might also feel more competitive, trying to push the stock price to certain levels where their options will be worth the most money.
 
-Another psychological factor is the fear of missing out, or FOMO. Traders might see other people making big moves and feel like they need to do the same. This can make them take more risks than they normally would. Also, the excitement and unpredictability of the market during this week can make traders feel more emotional. They might get excited when the stock price goes up and worried when it goes down. These feelings can make them act in ways that they might not if the market was calmer.
+Another psychological [factor](/wiki/factor-investing) is the fear of missing out, or FOMO. Traders might see other people making big moves and feel like they need to do the same. This can make them take more risks than they normally would. Also, the excitement and unpredictability of the market during this week can make traders feel more emotional. They might get excited when the stock price goes up and worried when it goes down. These feelings can make them act in ways that they might not if the market was calmer.
 
 ## How might future market regulations impact the Option Expiration Week effect?
 

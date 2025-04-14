@@ -88,7 +88,7 @@ Periodic payment plans are a form of investment strategy designed to accommodate
 
 ### Facilitation of Regular Small Investments
 
-Periodic payment plans are particularly appealing for individuals who do not have a significant lump sum to invest upfront but can afford to set aside smaller amounts consistently. This systematic approach allows investors to gradually build their investment portfolio while mitigating the risk associated with market volatility. By investing a fixed amount at regular intervals, investors are able to purchase more shares when prices are low and fewer shares when prices are high, effectively averaging the cost of their investment over time.
+Periodic payment plans are particularly appealing for individuals who do not have a significant lump sum to invest upfront but can afford to set aside smaller amounts consistently. This systematic approach allows investors to gradually build their investment portfolio while mitigating the risk associated with market [volatility](/wiki/volatility-trading-strategies). By investing a fixed amount at regular intervals, investors are able to purchase more shares when prices are low and fewer shares when prices are high, effectively averaging the cost of their investment over time.
 
 Mathematically, the concept can be represented as:
 

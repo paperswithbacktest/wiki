@@ -46,7 +46,7 @@ Another risk is called prepayment risk. This happens when people pay off their l
 
 ## How does prepayment risk affect pass-through securities?
 
-Prepayment risk is when people pay off their loans earlier than expected. This can happen a lot with home loans if people decide to sell their house or get a new loan with a better interest rate. When this happens, the money that was supposed to come into the pool of pass-through securities changes. Instead of getting regular payments over a long time, investors might get a big chunk of money all at once. This can be a problem because investors were counting on a steady income from these securities.
+Prepayment risk is when people pay off their loans earlier than expected. This can happen a lot with home loans if people decide to sell their house or get a new loan with a better [interest rate](/wiki/interest-rate-trading-strategies). When this happens, the money that was supposed to come into the pool of pass-through securities changes. Instead of getting regular payments over a long time, investors might get a big chunk of money all at once. This can be a problem because investors were counting on a steady income from these securities.
 
 This risk can make pass-through securities less predictable. If a lot of loans get paid off early, the total amount of money coming into the pool can drop. This means investors might not get as much money as they thought they would. It can also make it hard for investors to plan their finances because they don't know when they'll get their money. So, prepayment risk is something investors need to think about carefully when they're looking at pass-through securities.
 

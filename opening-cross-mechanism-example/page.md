@@ -54,7 +54,7 @@ Both the opening and closing crosses help keep the market fair and stable. They 
 
 ## How do exchanges manage volatility during the opening cross?
 
-Exchanges manage volatility during the opening cross by carefully looking at all the orders people placed before the market opened. They try to find a price that works for the most people. This helps keep the market from having big jumps or drops right at the start of the day. By setting a fair opening price, the exchange makes sure that the market starts smoothly and everyone has a chance to trade without sudden changes in stock prices.
+Exchanges manage [volatility](/wiki/volatility-trading-strategies) during the opening cross by carefully looking at all the orders people placed before the market opened. They try to find a price that works for the most people. This helps keep the market from having big jumps or drops right at the start of the day. By setting a fair opening price, the exchange makes sure that the market starts smoothly and everyone has a chance to trade without sudden changes in stock prices.
 
 Sometimes, if there are a lot of orders and the market might be very volatile, exchanges can use special rules. They might slow down the opening process or use a special auction to find the opening price. This helps them control the market and make sure that the opening price is as fair as possible. By doing this, exchanges can keep the market stable and help traders feel confident about trading at the start of the day.
 

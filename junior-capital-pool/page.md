@@ -66,7 +66,7 @@ The JCP team checks if the business has a strong plan and good people running it
 
 A Junior Capital Pool (JCP) exits its investments by completing a "qualifying transaction." This happens when the JCP finds a small business to buy or start. Once the deal is done, the JCP becomes a regular company with its own business. The people who bought shares in the JCP now own part of this new business. This is how the JCP turns the money it raised into a real business.
 
-After the qualifying transaction, the new company might grow and become more valuable. If this happens, the people who invested in the JCP could make money if they sell their shares for more than they paid. Sometimes, the new company might be bought by a bigger company, or it might go public on a bigger stock exchange. These are other ways the JCP can exit its investment and give returns to its investors.
+After the qualifying transaction, the new company might grow and become more valuable. If this happens, the people who invested in the JCP could make money if they sell their shares for more than they paid. Sometimes, the new company might be bought by a bigger company, or it might go public on a bigger stock exchange. These are other ways the JCP can [exit](/wiki/exit-strategy) its investment and give returns to its investors.
 
 ## What are the tax implications for investors in a Junior Capital Pool?
 

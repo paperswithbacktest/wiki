@@ -30,7 +30,7 @@ John and Tom began their company in 2008. They worked hard to make their busines
 
 Old Mission Capital helps people buy and sell things like stocks and other financial products. They use computers and special programs to do this quickly and easily. This is called electronic trading. They work with big companies and other traders to help them make smart choices about buying and selling.
 
-They also offer something called liquidity provision. This means they help make sure there are enough buyers and sellers in the market so that trading can happen smoothly. Old Mission Capital uses technology to do all of this and they are always trying to make their services better.
+They also offer something called [liquidity](/wiki/liquidity-risk-premium) provision. This means they help make sure there are enough buyers and sellers in the market so that trading can happen smoothly. Old Mission Capital uses technology to do all of this and they are always trying to make their services better.
 
 ## In which countries does Old Mission Capital operate?
 

@@ -18,13 +18,13 @@ Liquidity is important because it affects how smoothly the market works. When ma
 
 Liquidity is really important for traders and investors because it makes it easier for them to buy and sell things quickly. When a market is liquid, there are lots of people buying and selling, so you can get in and out of your investments without waiting too long. This is great for traders who like to move their money around a lot, because they can do it fast without losing much money. If you're an investor who needs to sell something in a hurry, like if you need cash for an emergency, high liquidity means you can do that without having to lower your price too much.
 
-On the other hand, if a market isn't very liquid, it can be hard to sell things quickly. This can be a big problem if you need money right away. Low liquidity can also make prices go up and down a lot, which can be risky. If you try to sell something when there aren't many buyers, you might have to sell it for a lot less than you wanted. So, traders and investors really care about liquidity because it helps them manage their money better and feel more confident in their investments.
+On the other hand, if a market isn't very liquid, it can be hard to sell things quickly. This can be a big problem if you need money right away. Low [liquidity](/wiki/liquidity-risk-premium) can also make prices go up and down a lot, which can be risky. If you try to sell something when there aren't many buyers, you might have to sell it for a lot less than you wanted. So, traders and investors really care about liquidity because it helps them manage their money better and feel more confident in their investments.
 
 ## What are the basic strategies for providing liquidity?
 
-One basic strategy for providing liquidity is market making. Market makers are people or companies that always offer to buy and sell a certain asset. They put up prices at which they are willing to buy (the bid) and sell (the ask). By doing this, they help create a market where other people can easily trade. Market makers make money from the difference between the bid and ask prices, which is called the spread. They take on the risk that the price might move against them, but they help keep the market liquid by always being ready to trade.
+One basic strategy for providing liquidity is [market making](/wiki/market-making). Market makers are people or companies that always offer to buy and sell a certain asset. They put up prices at which they are willing to buy (the bid) and sell (the ask). By doing this, they help create a market where other people can easily trade. Market makers make money from the difference between the bid and ask prices, which is called the spread. They take on the risk that the price might move against them, but they help keep the market liquid by always being ready to trade.
 
-Another strategy is high-frequency trading (HFT). High-frequency traders use computers to buy and sell assets very quickly, often in fractions of a second. They use special software to look for small price differences and trade on them. By doing lots of trades, they add liquidity to the market. HFT can help make the market more efficient, but it can also lead to quick price changes. This strategy needs a lot of technology and can be risky, but it's a way to provide liquidity by being active in the market all the time.
+Another strategy is high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)). High-frequency traders use computers to buy and sell assets very quickly, often in fractions of a second. They use special software to look for small price differences and trade on them. By doing lots of trades, they add liquidity to the market. HFT can help make the market more efficient, but it can also lead to quick price changes. This strategy needs a lot of technology and can be risky, but it's a way to provide liquidity by being active in the market all the time.
 
 ## How does market making work as a liquidity provision strategy?
 
@@ -74,7 +74,7 @@ In an electronic market, where trading happens over the internet, liquidity prov
 
 One advanced technique to optimize liquidity provision is using smart order routing. This means using computer programs to send trade orders to the place where they will get the best price. By doing this, liquidity providers can make sure they are always getting the best deal for their trades. This helps them make more money from the difference between the buying and selling prices. It also makes the market more liquid because it's easier for everyone to trade.
 
-Another technique is using machine learning to predict how the market will move. Liquidity providers can use computers to look at lots of data and figure out what might happen next. This helps them decide when to buy and sell things to make the most money and keep their inventory balanced. By using these predictions, they can be ready to trade at the right times and make the market more liquid.
+Another technique is using [machine learning](/wiki/machine-learning) to predict how the market will move. Liquidity providers can use computers to look at lots of data and figure out what might happen next. This helps them decide when to buy and sell things to make the most money and keep their inventory balanced. By using these predictions, they can be ready to trade at the right times and make the market more liquid.
 
 Lastly, liquidity providers can use something called algorithmic trading to do lots of trades very quickly. These algorithms can watch the market all the time and make trades in just a few seconds. This helps keep the market liquid because there are always people ready to buy and sell. It also helps liquidity providers manage their risk better because they can react to changes in the market very fast.
 
@@ -124,7 +124,7 @@ $$
 \text{Impermanent Loss (\%)} = \left(2 \sqrt{\frac{P_1}{P_0}} / \left(\frac{P_1}{P_0} + 1\right) - 1\right) \times 100
 $$
 
-Liquidity mining presents significant benefits, such as enhancing liquidity, reducing bid-ask spreads, and fostering a more robust and efficient trading ecosystem. However, it also carries potential risks. Aside from impermanent loss, these risks include smart contract vulnerabilities, market volatility, and sudden regulatory shifts which might impact DeFi ecosystems.
+Liquidity mining presents significant benefits, such as enhancing liquidity, reducing bid-ask spreads, and fostering a more robust and efficient trading ecosystem. However, it also carries potential risks. Aside from impermanent loss, these risks include smart contract vulnerabilities, market [volatility](/wiki/volatility-trading-strategies), and sudden regulatory shifts which might impact DeFi ecosystems.
 
 Furthermore, tokens offered as rewards can be subject to high volatility. Their value may diminish over time, impacting the overall profitability of liquidity mining.
 

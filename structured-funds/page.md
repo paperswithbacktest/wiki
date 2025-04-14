@@ -28,7 +28,7 @@ Structured funds are made up of different parts that work together to meet speci
 
 Another important part of a structured fund is the way it's set up to work over a certain time period. Unlike other funds that might go on forever, structured funds often have a set start and end date. During this time, the fund's performance can depend on how well an underlying index or asset does. This means the returns you get can be linked to how that index or asset performs, which adds a layer of complexity but also allows for specific strategies to be used.
 
-Overall, the combination of these parts makes structured funds different from other types of investments. They are designed to be flexible and can be tailored to meet the needs of individual investors. However, because they can be complex, it's important to understand how they work and what risks they carry before deciding to invest in them.
+Overall, the combination of these parts makes structured funds different from other types of investments. They are designed to be flexible and can be tailored to meet the needs of individual investors. However, because they can be complex, it's important to understand how they work and what risks they [carry](/wiki/carry-trading) before deciding to invest in them.
 
 ## What are the typical investment objectives of structured funds?
 

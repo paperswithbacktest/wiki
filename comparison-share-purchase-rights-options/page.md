@@ -179,7 +179,7 @@ $$
 
 where $\Delta$ represents the rate of change of the option's value $V$ with respect to the price of the underlying asset $S$. Algorithmic systems can automatically adjust the positions in real-time to maintain the desired delta, reducing the need for manual intervention and minimizing the risk of human errors.
 
-Another powerful aspect of algo trading in options is its potential to identify arbitrage opportunities. Arbitrage involves taking advantage of price inefficiencies between different markets or instruments. Algorithms can quickly scan multiple data sources, identify discrepancies in option pricing, and execute trades to capitalize on these opportunities before markets adjust. This capability enhances the efficiency of the market and allows traders to reap potential profits with minimal risk.
+Another powerful aspect of algo trading in options is its potential to identify [arbitrage](/wiki/arbitrage) opportunities. Arbitrage involves taking advantage of price inefficiencies between different markets or instruments. Algorithms can quickly scan multiple data sources, identify discrepancies in option pricing, and execute trades to capitalize on these opportunities before markets adjust. This capability enhances the efficiency of the market and allows traders to reap potential profits with minimal risk.
 
 In more advanced applications, algorithms use sophisticated models to predict future market movements based on historical data and pattern recognition. Machine learning techniques, such as neural networks, can be employed to analyze large datasets and identify patterns that may not be evident to human traders. This predictive power aids in formulating strategies that optimize returns while managing risk levels.
 
@@ -222,7 +222,7 @@ This script uses the Black-Scholes model to calculate the delta of a call option
 
 The nuanced approach of algo trading in options extends beyond individual strategies to encompass comprehensive risk management. Automated systems can implement stop-loss orders, diversify option portfolios, and adjust exposure dynamically in response to market volatility. By doing so, traders maintain a balanced and resilient trading portfolio, capable of withstanding abrupt market shifts.
 
-In conclusion, the incorporation of algorithmic systems into options trading represents a significant advancement, enhancing the ability to execute complex strategies with efficiency and precision. Through methods such as delta hedging and arbitrage, algorithmic trading not only optimizes strategies but also provides a robust framework for managing risks inherent in options trading.
+In conclusion, the incorporation of algorithmic systems into options trading represents a significant advancement, enhancing the ability to execute complex strategies with efficiency and precision. Through methods such as delta hedging and arbitrage, [algorithmic trading](/wiki/algorithmic-trading) not only optimizes strategies but also provides a robust framework for managing risks inherent in options trading.
 
 ## References & Further Reading
 

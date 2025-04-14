@@ -108,7 +108,7 @@ Modern developments in economic thought and modeling often rely on these foundat
 
 ## How can economic theories be integrated into algorithmic trading?
 
-Economic models, such as demand theory, play a crucial role in shaping algorithmic trading strategies by offering insights into consumer behavior dynamics. These models help traders understand how fluctuations in demand influence market prices and resource allocation, thereby informing automated trading decisions.
+Economic models, such as demand theory, play a crucial role in shaping [algorithmic trading](/wiki/algorithmic-trading) strategies by offering insights into consumer behavior dynamics. These models help traders understand how fluctuations in demand influence market prices and resource allocation, thereby informing automated trading decisions.
 
 A fundamental concept in demand theory is price elasticity, which measures the responsiveness of the quantity demanded to a change in price. By incorporating elasticity calculations into trading algorithms, traders can adapt strategies to react to market changes more efficiently. The formula for price elasticity of demand is represented as:
 

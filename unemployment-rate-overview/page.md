@@ -30,7 +30,7 @@ The last type is cyclical unemployment. This happens when the economy goes throu
 
 ## How does the unemployment rate affect the economy?
 
-The unemployment rate can have a big impact on the economy. When the unemployment rate is high, it means more people are out of work and not earning money. This can lead to less spending in stores and businesses, which can slow down the economy. Companies might make less money and might have to cut back on what they produce or even lay off more workers. This can create a cycle where high unemployment leads to less spending, which leads to more unemployment.
+The unemployment rate can have a big impact on the economy. When the unemployment rate is high, it means more people are out of work and not [earning](/wiki/earning-announcement) money. This can lead to less spending in stores and businesses, which can slow down the economy. Companies might make less money and might have to cut back on what they produce or even lay off more workers. This can create a cycle where high unemployment leads to less spending, which leads to more unemployment.
 
 On the other hand, when the unemployment rate is low, it's usually good for the economy. More people have jobs and are earning money, so they can spend more at stores and businesses. This can help businesses grow and might lead to more jobs being created. A low unemployment rate can also mean that people feel more confident about the future, which can encourage them to spend and invest more, helping the economy to keep growing.
 

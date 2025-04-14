@@ -26,7 +26,7 @@ Lastly, if you see that wages are starting to go up, it could be a sign of infla
 
 Inflation can make your savings worth less over time. If you keep your money in a regular savings account that doesn't pay much interest, the money won't grow as fast as prices are going up. For example, if you have $100 in savings and inflation is 3%, next year you'll need $103 to buy the same things you can buy now with $100. If your savings account only gives you 1% interest, you'll have $101 next year, but that's not enough to keep up with inflation. So, your savings lose some of their value.
 
-Inflation also affects investments, but in different ways. Some investments, like stocks or real estate, can go up in value faster than inflation. If you invest in these, your money might grow enough to beat inflation. For example, if a stock you own goes up by 5% in a year, and inflation is 3%, you're ahead by 2%. But not all investments do well during inflation. Bonds, for instance, might pay a fixed interest rate that doesn't keep up with rising prices. So, it's important to choose investments that can grow faster than inflation to protect the value of your money.
+Inflation also affects investments, but in different ways. Some investments, like stocks or real estate, can go up in value faster than inflation. If you invest in these, your money might grow enough to beat inflation. For example, if a stock you own goes up by 5% in a year, and inflation is 3%, you're ahead by 2%. But not all investments do well during inflation. Bonds, for instance, might pay a fixed [interest rate](/wiki/interest-rate-trading-strategies) that doesn't keep up with rising prices. So, it's important to choose investments that can grow faster than inflation to protect the value of your money.
 
 ## What are the basic strategies for hedging against inflation for beginners?
 
@@ -112,7 +112,7 @@ Algorithmic trading utilizes automated systems to make trading decisions, offeri
 
 ### What resources are available for learning about implementing algorithmic trading strategies?
 
-There are numerous resources for those seeking to learn about algorithmic trading, ranging from online courses to dedicated platforms:
+There are numerous resources for those seeking to learn about [algorithmic trading](/wiki/algorithmic-trading), ranging from online courses to dedicated platforms:
 
 - **Online Courses**: Websites like Coursera, Udemy, and edX offer courses in algorithmic trading and quantitative finance.
 

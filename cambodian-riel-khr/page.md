@@ -30,7 +30,7 @@ After the Khmer Rouge, the Riel came back in the 1980s. But it was still hard fo
 
 The Cambodian Riel comes in different amounts of money, which we call denominations. For paper money, you can find Riel in amounts like 50, 100, 200, 500, 1,000, 2,000, 5,000, 10,000, 20,000, and 50,000 Riel. These are the bills that people use every day to buy things. The smaller amounts like 50 and 100 Riel are not used as much anymore, but you might still see them sometimes.
 
-For coins, the Riel has denominations of 50, 100, 200, and 500 Riel. But these coins are not used very often. Most people in Cambodia use the paper money more because it's easier to carry and use for everyday buying. Even though there are coins, you will mostly see people using the Riel bills.
+For coins, the Riel has denominations of 50, 100, 200, and 500 Riel. But these coins are not used very often. Most people in Cambodia use the paper money more because it's easier to [carry](/wiki/carry-trading) and use for everyday buying. Even though there are coins, you will mostly see people using the Riel bills.
 
 ## How does the Cambodian Riel compare to other Southeast Asian currencies?
 
@@ -82,7 +82,7 @@ There are also some possible changes that could help the Riel. The government mi
 
 ## What are the strategies for effective KHR algo trading?
 
-Incorporating technical analysis tools into algorithmic trading of the Cambodian Riel (KHR) can significantly enhance decision-making processes. Technical analysis involves evaluating statistical trends from trading activity, such as price movement and volume. Common tools include moving averages, such as the Simple Moving Average (SMA) and the Exponential Moving Average (EMA), which help identify potential trends by smoothing out price data over a specified period. For instance, the EMA gives more weight to recent prices, making it more responsive to new information, which is essential for making timely decisions in the fast-paced forex market. 
+Incorporating technical analysis tools into [algorithmic trading](/wiki/algorithmic-trading) of the Cambodian Riel (KHR) can significantly enhance decision-making processes. Technical analysis involves evaluating statistical trends from trading activity, such as price movement and [volume](/wiki/volume-trading-strategy). Common tools include moving averages, such as the Simple Moving Average (SMA) and the Exponential Moving Average (EMA), which help identify potential trends by smoothing out price data over a specified period. For instance, the EMA gives more weight to recent prices, making it more responsive to new information, which is essential for making timely decisions in the fast-paced [forex](/wiki/forex-system) market. 
 
 Moreover, integrating the Relative Strength Index (RSI) can provide insights into whether a currency, like the KHR, is overbought or oversold, indicating potential reversal points. RSI is calculated using the formula:
 
@@ -90,9 +90,9 @@ $$
 \text{RSI} = 100 - \left( \frac{100}{1 + \frac{\text{Average Gain}}{\text{Average Loss}}} \right)
 $$
 
-Diversification across multiple currency pairs is another vital strategy to mitigate risks associated with the volatility of the KHR. By trading a mix of currency pairs, traders can reduce their exposure to adverse movements in any single pair. This approach leverages the potential for gains in other currencies to offset losses due to volatility in the KHR market. For example, by including pairs that incorporate both stable and volatile currencies, traders balance the risk and reward, optimizing their portfolio's overall performance.
+Diversification across multiple currency pairs is another vital strategy to mitigate risks associated with the [volatility](/wiki/volatility-trading-strategies) of the KHR. By trading a mix of currency pairs, traders can reduce their exposure to adverse movements in any single pair. This approach leverages the potential for gains in other currencies to offset losses due to volatility in the KHR market. For example, by including pairs that incorporate both stable and volatile currencies, traders balance the risk and reward, optimizing their portfolio's overall performance.
 
-Continuous backtesting of algorithms is essential for maintaining and optimizing trading performance. Backtesting involves simulating a trading strategy using historical data to assess its viability before deployment in live markets. It helps in understanding the potential strengths and weaknesses of a strategy and in making necessary adjustments. In Python, the process can be implemented using libraries like `pandas` for data manipulation and `[backtrader](/wiki/backtrader)` for strategy testing. A straightforward backtesting setup could be structured as follows:
+Continuous [backtesting](/wiki/backtesting) of algorithms is essential for maintaining and optimizing trading performance. Backtesting involves simulating a trading strategy using historical data to assess its viability before deployment in live markets. It helps in understanding the potential strengths and weaknesses of a strategy and in making necessary adjustments. In Python, the process can be implemented using libraries like `pandas` for data manipulation and `[backtrader](/wiki/backtrader)` for strategy testing. A straightforward backtesting setup could be structured as follows:
 
 ```python
 import backtrader as bt

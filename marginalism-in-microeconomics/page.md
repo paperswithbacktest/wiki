@@ -42,7 +42,7 @@ Because of diminishing marginal utility, people spread out their spending on dif
 
 Marginal cost is the extra cost a company pays to make one more item. It's super important for a company when they're deciding how much to produce. If making one more thing costs less than the money they can make from selling it, the company will usually choose to make it. This helps them earn more profit. But if the extra cost is more than the extra money they'd get, they'll stop making more because it's not worth it.
 
-For example, imagine a bakery making cookies. If it costs them $1 to make one more cookie and they can sell it for $2, they'll keep making more cookies because they're earning an extra dollar each time. But if the cost of making one more cookie goes up to $2.50, they'll stop because they'd lose money on each new cookie. By looking at marginal cost, businesses can find the right balance to make the most profit without wasting resources.
+For example, imagine a bakery making cookies. If it costs them $1 to make one more cookie and they can sell it for $2, they'll keep making more cookies because they're [earning](/wiki/earning-announcement) an extra dollar each time. But if the cost of making one more cookie goes up to $2.50, they'll stop because they'd lose money on each new cookie. By looking at marginal cost, businesses can find the right balance to make the most profit without wasting resources.
 
 ## How do marginal revenue and marginal cost determine profit maximization for a firm?
 
@@ -76,7 +76,7 @@ On the other hand, some studies challenge marginalism by showing that people don
 
 ## What are the latest advancements or debates in marginalism within the field of microeconomics?
 
-In recent years, economists have been looking at how marginalism can be used with new technology and data. They're using big data and machine learning to study how people make small choices in detail. For example, they can look at how someone's shopping habits change when prices go up or down. This helps them see if marginalism's ideas about extra benefits and costs still hold up in the real world. Some economists are also using experiments to test these ideas, like setting up games where people have to make choices and seeing if they act like marginalism predicts.
+In recent years, economists have been looking at how marginalism can be used with new technology and data. They're using big data and [machine learning](/wiki/machine-learning) to study how people make small choices in detail. For example, they can look at how someone's shopping habits change when prices go up or down. This helps them see if marginalism's ideas about extra benefits and costs still hold up in the real world. Some economists are also using experiments to test these ideas, like setting up games where people have to make choices and seeing if they act like marginalism predicts.
 
 There's also a big debate about whether marginalism can explain everything about how people make choices. Some economists think that while marginalism is good for understanding small decisions, it might miss bigger things like social pressures and emotions. They argue that people don't always make perfect choices based on the extra benefit or cost. For example, someone might buy a lot of something just because it's on sale, even if they don't really need it. This has led to discussions about how to mix marginalism with ideas from behavioral economics to get a fuller picture of how people really behave.
 

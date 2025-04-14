@@ -18,7 +18,7 @@ For example, if a company buys a new machine, the initial cost of the machine is
 
 A conventional cash flow starts with one big cash outflow at the beginning, like when you buy something expensive. After that, you get smaller amounts of money coming in over time, like profits or savings. This is what happens a lot in businesses when they invest in something new, like a machine or a building. It's easy to understand because it follows a simple pattern: spend money first, then earn it back.
 
-A non-conventional cash flow is different because it doesn't follow this simple pattern. Instead, it might have multiple cash outflows mixed with inflows at different times. For example, a project might need more money added later on, or it might start earning money right away but then need more investment. This can make it harder to predict and plan because the money coming in and going out is not as straightforward.
+A non-conventional cash flow is different because it doesn't follow this simple pattern. Instead, it might have multiple cash outflows mixed with inflows at different times. For example, a project might need more money added later on, or it might start [earning](/wiki/earning-announcement) money right away but then need more investment. This can make it harder to predict and plan because the money coming in and going out is not as straightforward.
 
 ## Can you provide an example of a conventional cash flow in a business scenario?
 

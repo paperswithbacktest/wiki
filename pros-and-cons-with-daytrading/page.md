@@ -18,7 +18,7 @@ Day trading is different from other trading styles like swing trading and positi
 
 To start day trading, you need a few basic things. First, you need a computer or a smartphone with a good internet connection. This is important because you need to be able to quickly buy and sell stocks or other financial products. You also need to open a brokerage account with a company that lets you trade. Some brokerages have special accounts just for day traders, and they might have different rules or fees.
 
-Another important thing you need is enough money to start trading. Different brokerages have different rules about how much money you need to have in your account to day trade. It's usually a good idea to have more money than the minimum amount, so you can handle the ups and downs of the market. You also need to learn about the market and how to trade. There are many books, online courses, and other resources that can help you understand the basics of day trading.
+Another important thing you need is enough money to start trading. Different brokerages have different rules about how much money you need to have in your account to day trade. It's usually a good idea to have more money than the minimum amount, so you can handle the ups and downs of the market. You also need to learn about the market and how to trade. There are many [books](/wiki/algo-trading-books), online courses, and other resources that can help you understand the basics of [day trading](/wiki/day-trading-spy).
 
 Lastly, you need to have a plan and be ready to spend time watching the market. Day trading can take a lot of time and focus. You need to be able to make quick decisions and be okay with the risk of losing money. It's a good idea to start small and learn as you go, rather than jumping in with a lot of money right away.
 
@@ -70,7 +70,7 @@ These tools also help traders manage their risk better. For instance, setting up
 
 ## What role does market volatility play in day trading, and how can it be navigated?
 
-Market volatility means how much prices go up and down in a short time. For day traders, this can be good because it gives more chances to make money from quick price changes. But it can also be bad because it makes trading riskier. When the market is very volatile, prices can move a lot in just a few minutes, which means you could make big profits or big losses. Day traders need to watch the market closely and be ready to act fast when prices change.
+Market [volatility](/wiki/volatility-trading-strategies) means how much prices go up and down in a short time. For day traders, this can be good because it gives more chances to make money from quick price changes. But it can also be bad because it makes trading riskier. When the market is very volatile, prices can move a lot in just a few minutes, which means you could make big profits or big losses. Day traders need to watch the market closely and be ready to act fast when prices change.
 
 To navigate market volatility, day traders can use some strategies. One way is to set stop-loss orders to limit how much money they can lose if prices drop suddenly. Another way is to trade smaller amounts of money when the market is very volatile, so they don't risk too much at once. It's also important to stay calm and not let emotions make them do things they didn't plan for. By using these strategies and keeping a close eye on the market, day traders can handle volatility better and maybe even use it to their advantage.
 

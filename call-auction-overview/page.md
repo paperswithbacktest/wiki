@@ -36,7 +36,7 @@ Once the special person or computer finds the best price, that price is used for
 
 Call auctions are used for many types of securities, like stocks, bonds, and exchange-traded funds (ETFs). Stocks are the most common type of security that uses call auctions. They are used at the start and end of the trading day to set a fair price for the stock before and after regular trading hours. This helps make sure that the price of the stock reflects what most people think it should be, not just what a few people want.
 
-Bonds and ETFs can also use call auctions, especially when there's a lot of excitement or uncertainty about them. For example, if there's big news that might affect the price of a bond or an ETF, a call auction can help keep the price stable. By pausing trading and using a call auction, the market can avoid big price swings that might happen if everyone was trading at the same time. This can be really helpful for making sure that the price stays fair and stable for everyone.
+Bonds and ETFs can also use call auctions, especially when there's a lot of excitement or uncertainty about them. For example, if there's big news that might affect the price of a bond or an [ETF](/wiki/etf-trading-strategies), a call auction can help keep the price stable. By pausing trading and using a call auction, the market can avoid big price swings that might happen if everyone was trading at the same time. This can be really helpful for making sure that the price stays fair and stable for everyone.
 
 ## How is the equilibrium price determined in a call auction?
 

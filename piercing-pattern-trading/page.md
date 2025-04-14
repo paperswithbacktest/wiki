@@ -66,7 +66,7 @@ The main difference between these two patterns is how much the second candle cov
 
 Yes, piercing patterns can be used with other technical indicators to make better trading decisions. When you see a piercing pattern, it's like seeing a sign that the price might start going up. But to be more sure, you can look at other tools like moving averages, which show where the price has been going over time, or the RSI, which tells you if the price is too high or too low. If these other tools also say the price might go up, then the piercing pattern is more likely to be right.
 
-It's also a good idea to check the volume, which shows how many people are buying or selling. If the volume goes up when you see a piercing pattern, it means more people are interested in the price going up, which makes the pattern more reliable. By using these other indicators with the piercing pattern, you can feel more confident about making a trade.
+It's also a good idea to check the [volume](/wiki/volume-trading-strategy), which shows how many people are buying or selling. If the volume goes up when you see a piercing pattern, it means more people are interested in the price going up, which makes the pattern more reliable. By using these other indicators with the piercing pattern, you can feel more confident about making a trade.
 
 ## What are the risk management strategies to consider when trading based on a piercing pattern?
 

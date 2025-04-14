@@ -28,7 +28,7 @@ Long-term maturity dates are for financial products that take longer to end, usu
 
 ## How does the maturity date affect the interest rate of a bond?
 
-The maturity date of a bond can affect its interest rate because it changes how long the investor's money is tied up. If a bond has a long maturity date, like 20 or 30 years, the investor has to wait a long time to get their money back. Because of this, the bond usually offers a higher interest rate to make up for the risk and the time the money is locked away. Investors need a bigger reward for keeping their money in the bond for so long.
+The maturity date of a bond can affect its [interest rate](/wiki/interest-rate-trading-strategies) because it changes how long the investor's money is tied up. If a bond has a long maturity date, like 20 or 30 years, the investor has to wait a long time to get their money back. Because of this, the bond usually offers a higher interest rate to make up for the risk and the time the money is locked away. Investors need a bigger reward for keeping their money in the bond for so long.
 
 On the other hand, if a bond has a short maturity date, like just a few months or a year, the investor gets their money back sooner. Since the money is not tied up for as long, the bond usually has a lower interest rate. Investors don't need as much of a reward for a short time, so short-term bonds often have lower interest rates than long-term bonds.
 

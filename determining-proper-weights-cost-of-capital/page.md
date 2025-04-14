@@ -24,7 +24,7 @@ Using the right weights means the company can compare the cost of capital to the
 
 The cost of capital is made up of different parts that a company uses to get money. The main parts are debt and equity. Debt is like borrowing money from a bank or issuing bonds. When a company uses debt, it has to pay interest on the money it borrows. Equity is when a company sells shares of stock to investors. In return, the company might pay dividends to the shareholders, and the stock's price can go up or down, giving investors a chance to make money.
 
-Each part of the cost of capital has its own cost. The cost of debt is the interest rate the company has to pay on its loans or bonds. The cost of equity is trickier to figure out. It's based on what investors expect to earn from their investment in the company's stock. This can depend on things like how risky the company is and how well it's doing. To find the total cost of capital, a company mixes these costs together, using the right weights to show how much it relies on each type of money.
+Each part of the cost of capital has its own cost. The cost of debt is the [interest rate](/wiki/interest-rate-trading-strategies) the company has to pay on its loans or bonds. The cost of equity is trickier to figure out. It's based on what investors expect to earn from their investment in the company's stock. This can depend on things like how risky the company is and how well it's doing. To find the total cost of capital, a company mixes these costs together, using the right weights to show how much it relies on each type of money.
 
 ## How do you calculate the cost of debt?
 
@@ -140,7 +140,7 @@ In conclusion, the cost of capital is a cornerstone of financial analysis, under
 
 ## How can the cost of capital be integrated with algorithmic trading strategies?
 
-Integrating the cost of capital into algorithmic trading strategies is a decisive factor in ensuring informed investment decisions and optimizing capital utilization. The Weighted Average Cost of Capital (WACC), a key metric in this process, helps traders and firms evaluate securities' potential returns against their inherent financial constraints. By incorporating WACC into trading algorithms, investors can effectively identify trades that meet or exceed specific return thresholds, thus enhancing overall profitability.
+Integrating the cost of capital into [algorithmic trading](/wiki/algorithmic-trading) strategies is a decisive [factor](/wiki/factor-investing) in ensuring informed investment decisions and optimizing capital utilization. The Weighted Average Cost of Capital (WACC), a key metric in this process, helps traders and firms evaluate securities' potential returns against their inherent financial constraints. By incorporating WACC into trading algorithms, investors can effectively identify trades that meet or exceed specific return thresholds, thus enhancing overall profitability.
 
 The WACC is calculated as follows:
 
@@ -159,7 +159,7 @@ where:
 
 Trading algorithms leverage WACC by incorporating this formula to analyze and decide on potential trades. This ensures that executed trades fulfill minimum profitability requirements, thus aligning with the strategic financial goals of minimizing risks and maximizing returns.
 
-Efficient management of trading costs and market impacts is another critical aspect. Algorithmic trading strategies are designed to optimize execution by minimizing slippage and adverse selection costs while ensuring transactions remain within the bounds of market [liquidity](/wiki/liquidity-risk-premium). This involves deploying sophisticated machine learning models to predict market behavior and adapt trading strategies accordingly. For example, Python libraries like `pandas`, `numpy`, and `scikit-learn` can be used to back-test, analyze, and refine trading strategies by simulating market conditions and computing the predicted impact of trades on market prices.
+Efficient management of trading costs and market impacts is another critical aspect. Algorithmic trading strategies are designed to optimize execution by minimizing slippage and adverse selection costs while ensuring transactions remain within the bounds of market [liquidity](/wiki/liquidity-risk-premium). This involves deploying sophisticated [machine learning](/wiki/machine-learning) models to predict market behavior and adapt trading strategies accordingly. For example, Python libraries like `pandas`, `numpy`, and `scikit-learn` can be used to back-test, analyze, and refine trading strategies by simulating market conditions and computing the predicted impact of trades on market prices.
 
 ```python
 import numpy as np

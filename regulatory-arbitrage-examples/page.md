@@ -22,7 +22,7 @@ Another reason is to avoid strict rules that might limit what they can do. Some 
 
 ## Can you provide a simple example of regulatory arbitrage?
 
-Imagine there are two countries, Country A and Country B. Country A has high taxes on businesses, while Country B has low taxes. A company that makes toys decides to move its factory from Country A to Country B. By doing this, the toy company pays less in taxes and keeps more of its money. This is an example of regulatory arbitrage because the company is taking advantage of the difference in tax rules between the two countries.
+Imagine there are two countries, Country A and Country B. Country A has high taxes on businesses, while Country B has low taxes. A company that makes toys decides to move its factory from Country A to Country B. By doing this, the toy company pays less in taxes and keeps more of its money. This is an example of regulatory [arbitrage](/wiki/arbitrage) because the company is taking advantage of the difference in tax rules between the two countries.
 
 This move helps the toy company save money, but it can also cause problems. Other companies in Country A that can't move might feel it's unfair. They still have to pay high taxes, which could make it harder for them to compete. Also, Country A might lose jobs and tax money when companies leave. So, while regulatory arbitrage can help one company, it can create bigger issues for countries and other businesses.
 

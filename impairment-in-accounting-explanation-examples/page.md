@@ -24,7 +24,7 @@ This honesty is crucial for people who use the financial statements, like invest
 
 Impairment and depreciation both deal with the value of assets going down over time, but they work in different ways. Depreciation is like a planned reduction in value. It's something companies expect and account for regularly, usually spreading the cost of an asset over its useful life. For example, if a company buys a truck, they might depreciate its value a little bit each year until it's no longer useful.
 
-Impairment, on the other hand, is more sudden and unexpected. It happens when something goes wrong and an asset loses a big chunk of its value all at once. This could be because of damage, changes in the market, or new laws that affect how useful the asset is. When this happens, the company has to quickly adjust the value of the asset on their books to show its new, lower worth.
+Impairment, on the other hand, is more sudden and unexpected. It happens when something goes wrong and an asset loses a big chunk of its value all at once. This could be because of damage, changes in the market, or new laws that affect how useful the asset is. When this happens, the company has to quickly adjust the value of the asset on their [books](/wiki/algo-trading-books) to show its new, lower worth.
 
 So, while depreciation is a routine part of managing assets, impairment is a response to unexpected events. Both are important for keeping a company's financial statements honest and accurate, but they serve different purposes and happen in different situations.
 

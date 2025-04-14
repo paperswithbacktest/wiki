@@ -111,7 +111,7 @@ print(f"Optimized Exchange Rate: {optimized_rate}")
 
 Algorithmic trading also enhances transaction security and efficiency. By automating trading processes, these systems can reduce human error and lower transaction costs. Automated systems can swiftly execute trades at the most favorable conditions, further solidifying trust within the local currency environment.
 
-Moreover, algorithmic trading brings in a layer of predictability and transparency, which are vital for community acceptance and regulatory compliance. As transactions become more efficient, users and merchants may perceive the Calgary Dollar as a more reliable and secure medium of exchange, thereby fostering greater community trust and participation.
+Moreover, [algorithmic trading](/wiki/algorithmic-trading) brings in a layer of predictability and transparency, which are vital for community acceptance and regulatory compliance. As transactions become more efficient, users and merchants may perceive the Calgary Dollar as a more reliable and secure medium of exchange, thereby fostering greater community trust and participation.
 
 ## References & Further Reading
 

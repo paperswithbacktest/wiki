@@ -70,7 +70,7 @@ On the other hand, if the market is doing poorly and prices are dropping, invest
 
 ## What are the psychological factors influencing the decision to realize gains?
 
-One big psychological factor that influences whether people decide to realize their gains is something called loss aversion. This means that people feel the pain of losing money much more strongly than the joy of gaining money. So, even if an investment has gone up in value, people might be scared to sell it because they worry it might go up even more after they sell. They don't want to feel like they missed out on extra money, so they hold onto the investment and keep their gains unrealized.
+One big psychological [factor](/wiki/factor-investing) that influences whether people decide to realize their gains is something called loss aversion. This means that people feel the pain of losing money much more strongly than the joy of gaining money. So, even if an investment has gone up in value, people might be scared to sell it because they worry it might go up even more after they sell. They don't want to feel like they missed out on extra money, so they hold onto the investment and keep their gains unrealized.
 
 Another factor is the fear of regret. People often think about what could have been if they had made a different choice. If they sell an investment and the price keeps going up, they might feel regret for not waiting longer. On the other hand, if they hold onto an investment and the price goes down, they might also feel regret for not selling when they had the chance. These feelings of regret can make it hard for people to decide whether to realize their gains or keep waiting, hoping for even better results.
 
@@ -82,7 +82,7 @@ Realized gains are the actual money you make when you sell your investments for 
 
 ## References & Further Reading
 
-For those interested in expanding their understanding of algorithmic trading, unrealized and realized gains, and investment strategies, a wealth of literature and resources is available. These materials are crucial for professionals and investors aiming to deepen their knowledge and enhance their trading practices.
+For those interested in expanding their understanding of [algorithmic trading](/wiki/algorithmic-trading), unrealized and realized gains, and investment strategies, a wealth of literature and resources is available. These materials are crucial for professionals and investors aiming to deepen their knowledge and enhance their trading practices.
 
 1. **Algorithmic Trading**: 
     - "Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies" by Barry Johnson provides a comprehensive overview of the algorithms used in trading and their impact on market conditions. 

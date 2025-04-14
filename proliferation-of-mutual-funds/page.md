@@ -64,7 +64,7 @@ Next, look at the fund's past performance and fees. Past performance doesn't gua
 
 ## What are the latest trends in mutual fund offerings?
 
-One big trend in mutual funds these days is the rise of ESG funds. ESG stands for Environmental, Social, and Governance. These funds invest in companies that are good for the planet, treat their workers well, and are run in a fair way. More and more people want to invest their money in ways that match their values, so these funds are becoming really popular. They let people feel good about where their money is going while still trying to grow their savings.
+One big trend in mutual funds these days is the rise of [ESG](/wiki/esg-investing) funds. ESG stands for Environmental, Social, and Governance. These funds invest in companies that are good for the planet, treat their workers well, and are run in a fair way. More and more people want to invest their money in ways that match their values, so these funds are becoming really popular. They let people feel good about where their money is going while still trying to grow their savings.
 
 Another trend is the growth of target-date funds. These funds change what they invest in over time, getting safer as you get closer to a certain date, like when you plan to retire. They're super popular for retirement savings because they do the hard work of changing your investments for you. As you get older, the fund will automatically move your money into safer investments, so you don't have to worry about making those changes yourself. This makes saving for the future a lot easier for a lot of people.
 
@@ -76,7 +76,7 @@ Another thing that affects mutual funds is what's happening in different countri
 
 ## What future developments can we expect in the mutual fund industry due to its proliferation?
 
-As mutual funds keep growing, we can expect to see more types of funds being created to meet different needs. One big change might be even more focus on ESG funds, which invest in companies that are good for the environment, treat their workers well, and are run fairly. People are caring more about where their money goes, so these funds could become even more popular. Also, technology will probably play a bigger role. More funds might use artificial intelligence and big data to pick investments, which could make them better at finding good opportunities and managing risks.
+As mutual funds keep growing, we can expect to see more types of funds being created to meet different needs. One big change might be even more focus on ESG funds, which invest in companies that are good for the environment, treat their workers well, and are run fairly. People are caring more about where their money goes, so these funds could become even more popular. Also, technology will probably play a bigger role. More funds might use [artificial intelligence](/wiki/ai-artificial-intelligence) and big data to pick investments, which could make them better at finding good opportunities and managing risks.
 
 Another thing we might see is more personalized mutual funds. With all the data and technology available, funds could be made to fit each person's goals and how much risk they're okay with. This could make investing easier and more tailored to what people want. Plus, as more people around the world start investing, mutual funds might become even more global. Funds could invest in more countries and industries, giving people a chance to spread their money out even more and maybe find new ways to grow their savings.
 

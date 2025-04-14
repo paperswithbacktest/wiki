@@ -50,7 +50,7 @@ One alternative to the HP filter is the Baxter-King filter. This filter also hel
 
 Another method is the Christiano-Fitzgerald filter. This filter is good at dealing with the end-point problem because it uses a different way to calculate the trend. It looks at all the data points and weighs them differently depending on how close they are to the point you're looking at. This can give you a better picture of the trend, especially at the start and end of the data. But like the other methods, it's not perfect, and you still need to be careful about how you use it.
 
-A third option is to use something called a band-pass filter. This filter helps you look at specific parts of the data, like cycles that happen over a certain time. It's good at picking out these cycles without making up patterns that aren't there. But it can be hard to set up because you need to know exactly what kind of cycles you're looking for. Each of these alternatives has its own strengths and weaknesses, so economists often use more than one method to make sure they're getting the right picture of the data.
+A third option is to use something called a band-pass filter. This filter helps you look at specific parts of the data, like cycles that happen over a certain time. It's good at [picking](/wiki/asset-class-picking) out these cycles without making up patterns that aren't there. But it can be hard to set up because you need to know exactly what kind of cycles you're looking for. Each of these alternatives has its own strengths and weaknesses, so economists often use more than one method to make sure they're getting the right picture of the data.
 
 ## How does the choice of the smoothing parameter in the HP filter impact the results?
 

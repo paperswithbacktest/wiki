@@ -58,7 +58,7 @@ Another thing to think about is how risky the market feels. In a calm market, wh
 
 ## Can you explain the impact of volatility on debit and credit spreads?
 
-Volatility is how much the price of a stock goes up and down. It can have a big effect on debit and credit spreads. For debit spreads, high volatility can be good because they do well when the stock price moves a lot. If you think the stock will go up or down a lot, a debit spread could make you more money. But if the stock doesn't move as much as you thought, you might lose the money you paid to set it up. So, high volatility can help debit spreads, but it also means there's a bigger chance the stock won't move enough.
+Volatility is how much the price of a stock goes up and down. It can have a big effect on debit and credit spreads. For debit spreads, high [volatility](/wiki/volatility-trading-strategies) can be good because they do well when the stock price moves a lot. If you think the stock will go up or down a lot, a debit spread could make you more money. But if the stock doesn't move as much as you thought, you might lose the money you paid to set it up. So, high volatility can help debit spreads, but it also means there's a bigger chance the stock won't move enough.
 
 For credit spreads, high volatility can be bad. Credit spreads work best when the stock price stays the same or moves just a little. If the stock price jumps around a lot, you could lose more money than you got when you set up the trade. Low volatility is better for credit spreads because it means the stock is more likely to stay where you want it to, letting you keep the money you got upfront. So, when choosing between debit and credit spreads, think about how much you think the stock will move around.
 

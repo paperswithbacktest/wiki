@@ -74,7 +74,7 @@ Another important action was against Elon Musk and Tesla. In 2018, Musk tweeted 
 
 The SEC keeps up with new financial technologies and markets by always learning and making new rules. They watch the market to see what new things are happening, like cryptocurrencies and online trading platforms. When they see something new, they study it to understand how it works and what risks it might have. Then, they make rules to make sure these new technologies are safe for investors. For example, the SEC has made rules about how companies that use blockchain technology have to tell investors about their business.
 
-The SEC also works with other groups to stay on top of new technologies. They talk to experts and other government agencies to learn more about things like artificial intelligence and how it might affect the market. By working together, they can make better rules that keep up with the fast changes in the financial world. This helps make sure that even as new technologies come along, the market stays fair and safe for everyone who wants to invest.
+The SEC also works with other groups to stay on top of new technologies. They talk to experts and other government agencies to learn more about things like [artificial intelligence](/wiki/ai-artificial-intelligence) and how it might affect the market. By working together, they can make better rules that keep up with the fast changes in the financial world. This helps make sure that even as new technologies come along, the market stays fair and safe for everyone who wants to invest.
 
 ## What are the current challenges and future directions for the SEC?
 

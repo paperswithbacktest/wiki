@@ -18,7 +18,7 @@ There are different types of dividend policies. Some companies might choose to p
 
 Berkshire Hathaway is a big company that Warren Buffett runs. It started as a textile company a long time ago, but now it owns lots of different businesses like insurance, railroads, and even candy. People know Berkshire Hathaway because Warren Buffett is famous for being really good at investing money. He buys parts of other companies or whole companies that he thinks will do well, and this has made Berkshire Hathaway very successful.
 
-Berkshire Hathaway is important in the investment world because it shows how smart investing can lead to big success. Warren Buffett's way of picking companies to invest in is studied by lots of people who want to learn how to invest their money. Also, Berkshire Hathaway doesn't pay dividends like some other companies do. Instead, it keeps the money to buy more businesses or invest in other ways, which has worked out well for them. This makes it a special example for investors to look at.
+Berkshire Hathaway is important in the investment world because it shows how smart investing can lead to big success. Warren Buffett's way of [picking](/wiki/asset-class-picking) companies to invest in is studied by lots of people who want to learn how to invest their money. Also, Berkshire Hathaway doesn't pay dividends like some other companies do. Instead, it keeps the money to buy more businesses or invest in other ways, which has worked out well for them. This makes it a special example for investors to look at.
 
 ## Has Berkshire Hathaway ever paid dividends to its shareholders?
 

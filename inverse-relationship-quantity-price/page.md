@@ -153,7 +153,7 @@ Overall, understanding and utilizing the correlation coefficient is fundamental 
 
 Bergstra, J., et al. (2011). "Algorithms for Hyper-Parameter Optimization." Advances in Neural Information Processing Systems. This paper introduces innovative methodologies for optimizing hyper-parameters, which are crucial in tuning algorithmic trading models to enhance their predictive performance and computational efficiency.
 
-Lopez de Prado, M. "Advances in Financial Machine Learning." Lopez de Prado's comprehensive guide explores cutting-edge techniques in financial machine learning, focusing on the practical applications of statistical models, including negative correlation strategies in trading.
+Lopez de Prado, M. "Advances in Financial Machine Learning." Lopez de Prado's comprehensive guide explores cutting-edge techniques in financial [machine learning](/wiki/machine-learning), focusing on the practical applications of statistical models, including negative correlation strategies in trading.
 
 Aronson, D. "Evidence-Based Technical Analysis." Aronson advocates for a scientific approach to technical analysis, emphasizing the importance of evidence-based strategies to improve the reliability of trading models and mitigate risks associated with negative correlations.
 

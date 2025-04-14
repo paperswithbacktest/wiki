@@ -133,7 +133,7 @@ The textbook provides a comprehensive foundation in financial accounting princip
 This book offers insights into company valuation, an essential aspect when integrating depreciation into financial analysis and strategy. It covers methodologies to accurately assess and enhance company value, which can be beneficial in asset management and investment decisions.
 
 - **Algorithmic Trading: Winning Strategies and Their Rationale by Ernest P. Chan**  
-A resourceful guide on the development and rationale of trading algorithms, offering keen insights into incorporating financial data, such as depreciation, into trading logic. Chan’s work helps bridge the gap between accounting data and algorithmic trading strategies to optimize performance.
+A resourceful guide on the development and rationale of trading algorithms, offering keen insights into incorporating financial data, such as depreciation, into trading logic. Chan’s work helps bridge the gap between accounting data and [algorithmic trading](/wiki/algorithmic-trading) strategies to optimize performance.
 
 - **Python for Finance: Analyze Big Financial Data by Yves Hilpisch**  
 This book equips financial professionals with the tools to analyze large sets of financial data using Python. It is particularly useful for practitioners looking to incorporate complex financial data, such as real-time depreciation metrics, into algorithmic models and simulations for enhanced trading outcomes.

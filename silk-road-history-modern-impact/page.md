@@ -52,7 +52,7 @@ The Silk Road also helped new businesses start. When people saw what others were
 
 ## What were the major challenges faced by travelers on the Silk Road?
 
-Traveling on the Silk Road was very hard because of many dangers. One big problem was the harsh weather. The deserts were very hot during the day and very cold at night. Mountains had snow and ice that made travel difficult. Another challenge was finding enough water and food. The Silk Road went through places where there were not many towns or villages, so travelers had to carry everything they needed.
+Traveling on the Silk Road was very hard because of many dangers. One big problem was the harsh weather. The deserts were very hot during the day and very cold at night. Mountains had snow and ice that made travel difficult. Another challenge was finding enough water and food. The Silk Road went through places where there were not many towns or villages, so travelers had to [carry](/wiki/carry-trading) everything they needed.
 
 Another big challenge was bandits and robbers. The Silk Road was long and went through many places where it was hard to keep safe. Bandits would attack traders to steal their valuable goods like silk and spices. This made the journey very dangerous. Also, there were political problems. Different countries along the Silk Road might not get along, and this could lead to wars or closed borders, making travel even harder.
 

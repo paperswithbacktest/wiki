@@ -42,7 +42,7 @@ Another advantage is that time-of-day orders help you manage your time better. I
 
 Time-of-day orders are often used in stock markets, especially when companies release important news like earnings reports. Traders might use these orders to buy or sell stocks right before or after the news comes out, hoping to get a good price. For example, if a company is going to release its earnings at 2:00 PM, a trader might set a time-of-day order to buy the stock at 1:59 PM, thinking the price will go up after the news.
 
-These orders can also be useful in the forex market, where currency prices can change quickly due to economic reports or announcements. Traders might set time-of-day orders to trade currencies at the exact time when these reports are released, like a country's employment data or interest rate decision. This way, they can try to take advantage of the price movements that often happen right after such news.
+These orders can also be useful in the [forex](/wiki/forex-system) market, where currency prices can change quickly due to economic reports or announcements. Traders might set time-of-day orders to trade currencies at the exact time when these reports are released, like a country's employment data or [interest rate](/wiki/interest-rate-trading-strategies) decision. This way, they can try to take advantage of the price movements that often happen right after such news.
 
 ## What are the potential risks or limitations associated with time-of-day orders?
 
@@ -58,7 +58,7 @@ After you've entered all the details, double-check everything to make sure it's 
 
 ## What impact does market volatility have on the effectiveness of time-of-day orders?
 
-Market volatility can make time-of-day orders less effective. When the market is volatile, prices can change a lot in a short time. If you set a time-of-day order to buy or sell at a specific time, the price at that exact moment might be very different from what you expected. This can happen if there's big news or lots of traders are buying and selling quickly. So, even if your order goes through at the right time, you might end up with a price that's not what you wanted.
+Market [volatility](/wiki/volatility-trading-strategies) can make time-of-day orders less effective. When the market is volatile, prices can change a lot in a short time. If you set a time-of-day order to buy or sell at a specific time, the price at that exact moment might be very different from what you expected. This can happen if there's big news or lots of traders are buying and selling quickly. So, even if your order goes through at the right time, you might end up with a price that's not what you wanted.
 
 Volatility can also make it harder for your broker to execute your time-of-day order exactly when you want. If the market is moving a lot, there might be delays or it might be hard to find someone to buy from or sell to at that exact time. This means your order might not go through right away, or it might happen a little later than you planned. So, when the market is volatile, time-of-day orders can be riskier and less reliable.
 

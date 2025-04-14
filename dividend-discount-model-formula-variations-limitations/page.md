@@ -28,7 +28,7 @@ To use this formula, you first need to estimate what the next year's dividend wi
 
 ## Can you explain the Gordon Growth Model, a variation of the DDM?
 
-The Gordon Growth Model is a simple way to figure out how much a stock is worth by using the Dividend Discount Model. It assumes that the dividends a company pays out will keep growing at a steady rate forever. To use this model, you need to know the dividend the company is expected to pay next year, the rate at which you think the dividends will grow each year, and the discount rate, which is like an interest rate that shows how much you value money now compared to money later.
+The Gordon Growth Model is a simple way to figure out how much a stock is worth by using the Dividend Discount Model. It assumes that the dividends a company pays out will keep growing at a steady rate forever. To use this model, you need to know the dividend the company is expected to pay next year, the rate at which you think the dividends will grow each year, and the discount rate, which is like an [interest rate](/wiki/interest-rate-trading-strategies) that shows how much you value money now compared to money later.
 
 The formula for the Gordon Growth Model is easy: you take the expected dividend for next year and divide it by the difference between the discount rate and the growth rate. So if a company is expected to pay a $2 dividend next year, and you think the dividends will grow by 3% each year, and you use a discount rate of 8%, the value of the stock would be $2 divided by (8% - 3%), which is $40. This model is handy because it's simple, but it depends a lot on your guesses about the future growth of dividends and the right discount rate to use.
 

@@ -70,7 +70,7 @@ Froth stability also matters a lot in cleaning products like dish soap and laund
 
 ## What are the advanced methods for controlling froth in industrial processes?
 
-In industries, people use special ways to control froth and make sure it works just right. One way is by using chemicals called surfactants. These chemicals can make froth last longer or go away faster, depending on what people need. For example, in mining, they use surfactants to help the froth carry minerals to the top so they can be collected easily. In cleaning products, surfactants help make froth that can lift dirt and grease off things, making them cleaner.
+In industries, people use special ways to control froth and make sure it works just right. One way is by using chemicals called surfactants. These chemicals can make froth last longer or go away faster, depending on what people need. For example, in mining, they use surfactants to help the froth [carry](/wiki/carry-trading) minerals to the top so they can be collected easily. In cleaning products, surfactants help make froth that can lift dirt and grease off things, making them cleaner.
 
 Another way to control froth is by using machines that can change how much air gets mixed into a liquid. In breweries, they use special machines to make sure the beer has just the right amount of froth. In coffee shops, they use machines to mix air into milk and make froth for drinks like cappuccinos. These machines can be set to make the froth last a certain amount of time, so the drinks look and taste good. By using chemicals and machines, people can make sure froth works well in different industries.
 
@@ -98,7 +98,7 @@ $$
 
 where $P_t$ is the current price, $\mu$ is the historical mean, and $\sigma$ is the standard deviation of prices. When the signal crosses certain thresholds, the algorithm may trigger buy or sell decisions.
 
-The advancement of [machine learning](/wiki/machine-learning) techniques has further enhanced the capabilities of algorithmic trading. These techniques enable algorithms to adapt to changing market conditions and improve over time without explicit reprogramming. By identifying more complex patterns within large datasets, machine learning algorithms can enhance predictions regarding price movements and market volatility.
+The advancement of [machine learning](/wiki/machine-learning) techniques has further enhanced the capabilities of algorithmic trading. These techniques enable algorithms to adapt to changing market conditions and improve over time without explicit reprogramming. By identifying more complex patterns within large datasets, machine learning algorithms can enhance predictions regarding price movements and market [volatility](/wiki/volatility-trading-strategies).
 
 In conclusion, algorithmic trading significantly benefits from automation through speed, efficiency, and reduced human intervention. The use of sophisticated algorithms to monitor and analyze extensive market data facilitates the identification of patterns and improves trading outcomes. This makes algorithmic trading a powerful tool for modern financial markets, providing a vital advantage in the increasingly data-driven investment environment.
 

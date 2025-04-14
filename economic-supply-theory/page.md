@@ -126,5 +126,5 @@ A practical understanding of market theory and supply economics is essential for
    - Readers are encouraged to engage with both classic economic theories and contemporary technological advances to develop a nuanced understanding of financial markets.
    - Exploring the suggested readings and datasets will foster a deeper comprehension of market dynamics and the integration of economic theory with algorithmic strategies.
 
-This compilation aims to aid readers in expanding their knowledge and skill set in the intersection of market theory, supply economics, and algorithmic trading.
+This compilation aims to aid readers in expanding their knowledge and skill set in the intersection of market theory, supply economics, and [algorithmic trading](/wiki/algorithmic-trading).
 

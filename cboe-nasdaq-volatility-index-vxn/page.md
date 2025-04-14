@@ -18,7 +18,7 @@ The VXN can be thought of as a fear gauge for the Nasdaq-100. When the VXN goes 
 
 The VXN is figured out by looking at the prices of options on the Nasdaq-100 Index. Options are like bets on where the index will go in the future. The VXN uses a special math formula called the VIX methodology to turn these option prices into a number that shows how much the market expects the Nasdaq-100 to move around in the next 30 days. This formula looks at the prices of both call options, which bet on the index going up, and put options, which bet on it going down.
 
-The VXN calculation involves picking out a range of options that are close to the current price of the Nasdaq-100. These options are then used to find out how much it would cost to make a bet that would pay off if the index moved a lot in either direction. This cost is what turns into the VXN number. The higher the cost, the higher the VXN, which means the market thinks the Nasdaq-100 will be more jumpy in the next month.
+The VXN calculation involves [picking](/wiki/asset-class-picking) out a range of options that are close to the current price of the Nasdaq-100. These options are then used to find out how much it would cost to make a bet that would pay off if the index moved a lot in either direction. This cost is what turns into the VXN number. The higher the cost, the higher the VXN, which means the market thinks the Nasdaq-100 will be more jumpy in the next month.
 
 ## What does the VXN measure?
 
@@ -76,7 +76,7 @@ Another thing to remember is that the VXN can be affected by things like how man
 
 ## How can advanced statistical models enhance the interpretation of the VXN?
 
-Advanced statistical models can help make the VXN more useful by looking at more than just the number itself. These models can take into account things like how the VXN has changed over time, how it compares to other volatility measures, and even how it might be affected by news or events. By using these models, investors can get a better idea of what the VXN is really telling them about the market's mood. For example, a model might show that a high VXN today is more or less important than it was in the past, depending on other factors.
+Advanced statistical models can help make the VXN more useful by looking at more than just the number itself. These models can take into account things like how the VXN has changed over time, how it compares to other [volatility](/wiki/volatility-trading-strategies) measures, and even how it might be affected by news or events. By using these models, investors can get a better idea of what the VXN is really telling them about the market's mood. For example, a model might show that a high VXN today is more or less important than it was in the past, depending on other factors.
 
 These models can also help predict what might happen next with the VXN and the Nasdaq-100. By looking at patterns and trends, statistical models can give investors a heads-up about when the VXN might go up or down. This can be really helpful for making decisions about buying or selling options or adjusting investments. So, while the VXN gives a snapshot of expected volatility, advanced statistical models can turn that snapshot into a clearer, more detailed picture of what's going on and what might happen next.
 

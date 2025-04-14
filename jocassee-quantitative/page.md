@@ -44,7 +44,7 @@ They also believe in being patient and thinking about the long term. Instead of 
 
 At Jocassee Quantitative, the investment process starts with collecting a lot of information. They look at numbers from markets, companies, and the economy. They use special tools and math to understand this information better. This helps them see patterns and trends that other people might miss. Once they have all this data, they start figuring out which investments might be good choices. They think about how much risk there is and how much money they could make. This careful look at the numbers helps them pick investments that fit their clients' goals.
 
-After picking the investments, Jocassee Quantitative keeps watching them closely. They don't just set it and forget it. They keep checking the numbers to see if anything has changed. If they see that an investment isn't doing well anymore, they might decide to sell it and find a better one. They also talk to their clients a lot, explaining what they're doing and why. This way, everyone understands the plan and can feel good about the choices being made. By always looking at the data and staying in touch with clients, Jocassee Quantitative helps make sure the investments keep working well over time.
+After [picking](/wiki/asset-class-picking) the investments, Jocassee Quantitative keeps watching them closely. They don't just set it and forget it. They keep checking the numbers to see if anything has changed. If they see that an investment isn't doing well anymore, they might decide to sell it and find a better one. They also talk to their clients a lot, explaining what they're doing and why. This way, everyone understands the plan and can feel good about the choices being made. By always looking at the data and staying in touch with clients, Jocassee Quantitative helps make sure the investments keep working well over time.
 
 ## What kind of data does Jocassee Quantitative use for its analysis?
 
@@ -74,7 +74,7 @@ They also keep watching their investments all the time. If something changes and
 
 ## What advanced technologies or algorithms does Jocassee Quantitative employ?
 
-Jocassee Quantitative uses special computer programs and math tricks to help them make good choices about investments. They use something called machine learning, which is like teaching a computer to learn from numbers and get better at finding patterns. This helps them see things in the data that other people might miss. They also use big computers to look at a lot of information at once, which makes their work faster and more accurate.
+Jocassee Quantitative uses special computer programs and math tricks to help them make good choices about investments. They use something called [machine learning](/wiki/machine-learning), which is like teaching a computer to learn from numbers and get better at finding patterns. This helps them see things in the data that other people might miss. They also use big computers to look at a lot of information at once, which makes their work faster and more accurate.
 
 Another tool they use is called predictive modeling. This is like making a guess about the future based on numbers from the past. They use this to figure out what might happen next in the market or with a company. By using these advanced technologies and algorithms, Jocassee Quantitative can help their clients make smart choices and avoid losing money.
 
@@ -86,7 +86,7 @@ Another trend they see coming is that more people will want to invest in ways th
 
 ## What is the Technology Behind Jocassee Quantitative?
 
-Jocassee Quantitative employs a sophisticated technological infrastructure that underpins its algorithmic trading operations. Central to this infrastructure is a robust framework that integrates advanced data analytics and machine learning techniques. These technologies are crucial for identifying profitable trading opportunities and executing trades with precision.
+Jocassee Quantitative employs a sophisticated technological infrastructure that underpins its [algorithmic trading](/wiki/algorithmic-trading) operations. Central to this infrastructure is a robust framework that integrates advanced data analytics and machine learning techniques. These technologies are crucial for identifying profitable trading opportunities and executing trades with precision.
 
 ### Data Analytics and Machine Learning
 

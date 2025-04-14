@@ -22,7 +22,7 @@ Because 3x ETFs aim to give you three times the daily performance, they use spec
 
 ## What are the potential benefits of investing in 3x ETFs?
 
-One potential benefit of investing in 3x ETFs is the chance to make more money in a short time. If you think a stock index will go up, a 3x ETF can give you three times the gain of that index in one day. This can be really helpful if you are good at guessing short-term market moves and want to make quick profits.
+One potential benefit of investing in 3x ETFs is the chance to make more money in a short time. If you think a stock index will go up, a 3x [ETF](/wiki/etf-trading-strategies) can give you three times the gain of that index in one day. This can be really helpful if you are good at guessing short-term market moves and want to make quick profits.
 
 Another benefit is that 3x ETFs can help you make money even when the market is going down. If you think an index will drop, you can buy a 3x ETF that goes up when the index goes down. This way, you can still make money even if the market is not doing well. But remember, these ETFs are very risky and can lose a lot of money just as quickly as they can make it.
 
@@ -56,7 +56,7 @@ If you hold a 3x ETF for more than a year before selling, any profit you make is
 
 The time horizon is really important when you think about the risk of investing in 3x ETFs. These ETFs are made for short-term trading, like a day or a few days. They try to give you three times the daily performance of an index, so if you're good at guessing what the market will do in the short term, you might make a lot of money quickly. But, they are very risky because they can lose a lot of money just as fast if the market moves the wrong way. So, if you're looking to trade for just a short time, you need to watch the market closely and be ready to make quick decisions.
 
-If you hold a 3x ETF for a long time, like weeks or months, the risk goes up a lot. These ETFs reset every day to keep up with their goal, and over time, this can make them lose value even if the index stays the same. This is called volatility decay, and it means that the longer you hold a 3x ETF, the more likely it is to lose money. So, if you're thinking about investing for the long term, 3x ETFs are not a good choice because they are too risky and can lead to big losses over time.
+If you hold a 3x ETF for a long time, like weeks or months, the risk goes up a lot. These ETFs reset every day to keep up with their goal, and over time, this can make them lose value even if the index stays the same. This is called [volatility](/wiki/volatility-trading-strategies) decay, and it means that the longer you hold a 3x ETF, the more likely it is to lose money. So, if you're thinking about investing for the long term, 3x ETFs are not a good choice because they are too risky and can lead to big losses over time.
 
 ## What are the liquidity risks associated with 3x ETFs?
 

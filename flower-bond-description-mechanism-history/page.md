@@ -82,7 +82,7 @@ Even though Flower Bonds are not made anymore, the ones that were issued before 
 
 ## What are the basics and importance of bond mechanics?
 
-Bonds are debt securities issued by entities such as governments, municipalities, or corporations to raise capital. When an investor purchases a bond, they are effectively lending money to the issuer in exchange for periodic interest payments, known as coupon payments, and the return of the bond's face value at maturity. This characteristic of providing a fixed income makes bonds a critical component of diversified investment portfolios, offering a reliable stream of income and reducing overall portfolio volatility.
+Bonds are debt securities issued by entities such as governments, municipalities, or corporations to raise capital. When an investor purchases a bond, they are effectively lending money to the issuer in exchange for periodic interest payments, known as coupon payments, and the return of the bond's face value at maturity. This characteristic of providing a fixed income makes bonds a critical component of diversified investment portfolios, offering a reliable stream of income and reducing overall portfolio [volatility](/wiki/volatility-trading-strategies).
 
 There are several types of bonds, each with distinct features. Government bonds, like U.S. Treasury bonds, are generally considered low-risk investments as they are backed by the full faith and credit of the government. Corporate bonds, on the other hand, are issued by companies and [carry](/wiki/carry-trading) a higher risk due to the potential for default, but they often offer higher yields. Municipal bonds, issued by state or local governments, may provide tax-free income to investors under certain circumstances.
 

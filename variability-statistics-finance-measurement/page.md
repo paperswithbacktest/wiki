@@ -22,7 +22,7 @@ For example, if you're saving for something important like buying a house, you m
 
 ## How is variability measured in statistics?
 
-Variability in statistics is measured using different tools that help us see how spread out the numbers in a data set are. One common way to measure variability is by looking at the range. The range is simply the difference between the highest and lowest numbers in your data. It's an easy way to get a quick idea of how much the values vary, but it doesn't tell us much about the numbers in between.
+Variability in [statistics](/wiki/bayesian-statistics) is measured using different tools that help us see how spread out the numbers in a data set are. One common way to measure variability is by looking at the range. The range is simply the difference between the highest and lowest numbers in your data. It's an easy way to get a quick idea of how much the values vary, but it doesn't tell us much about the numbers in between.
 
 Another important measure of variability is the standard deviation. This tool shows how much each number in the data set differs from the average (mean). A small standard deviation means the numbers are close to the average, so there's less variability. A large standard deviation means the numbers are spread out a lot, showing more variability. Standard deviation is more detailed than the range because it takes all the numbers into account, not just the highest and lowest.
 
@@ -80,7 +80,7 @@ Also, traditional measures assume that the changes in prices follow a normal pat
 
 ## How can machine learning enhance the measurement of variability in financial data analysis?
 
-Machine learning can help measure variability in financial data by finding patterns that traditional methods might miss. It can look at lots of different things at the same time, like how prices change, what's happening in the news, or even what people are saying on social media. By doing this, machine learning can give us a better idea of why prices are moving up and down, not just how much they're moving. This means we can understand the risks better and make smarter choices about where to put our money.
+Machine learning can help measure variability in financial data by finding patterns that traditional methods might miss. It can look at lots of different things at the same time, like how prices change, what's happening in the news, or even what people are saying on social media. By doing this, [machine learning](/wiki/machine-learning) can give us a better idea of why prices are moving up and down, not just how much they're moving. This means we can understand the risks better and make smarter choices about where to put our money.
 
 For example, machine learning models can learn from past data to predict how much a stock's price might change in the future. They can also spot when things are about to get really unpredictable, which we call high volatility. By using these models, people in finance can get early warnings about big price swings and adjust their investments to manage risk better. So, machine learning doesn't just tell us about variability; it helps us use that information to make better decisions in the tricky world of finance.
 

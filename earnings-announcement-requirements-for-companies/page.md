@@ -84,7 +84,7 @@ Another strategy is to use technology to reach more people. Companies can live-s
 
 ## What are the risks and considerations in earnings algo trading?
 
-Earnings algo trading presents unique risks and considerations due to the inherent volatility surrounding earnings reports. This volatility can create both trading opportunities and significant challenges.
+Earnings algo trading presents unique risks and considerations due to the inherent [volatility](/wiki/volatility-trading-strategies) surrounding earnings reports. This volatility can create both trading opportunities and significant challenges.
 
 **Volatility and Execution Challenges**
 
@@ -92,7 +92,7 @@ The release of earnings reports typically leads to increased market volatility a
 
 **Liquidity Concerns**
 
-During earnings announcements, liquidity can become a critical concern. In times of high volatility, increased trading volumes might lead to liquidity crunches, where the ability to execute large trades without significant price impact is diminished. Such circumstances can escalate transaction costs and impede optimal trade execution. Traders need to [factor](/wiki/factor-investing) in the potential for slippage and the varying bid-ask spreads that can occur during these periods.
+During earnings announcements, [liquidity](/wiki/liquidity-risk-premium) can become a critical concern. In times of high volatility, increased trading volumes might lead to liquidity crunches, where the ability to execute large trades without significant price impact is diminished. Such circumstances can escalate transaction costs and impede optimal trade execution. Traders need to [factor](/wiki/factor-investing) in the potential for slippage and the varying bid-ask spreads that can occur during these periods.
 
 **Risk Management Strategies**
 
@@ -114,9 +114,9 @@ In conclusion, while earnings algo trading can offer substantial benefits, the a
 
 ## References & Further Reading
 
-Zhang, X., et al. (2020). "Algorithmic Trading with Reinforcement Learning: A Review." This paper provides a comprehensive review of reinforcement learning applications in algorithmic trading, emphasizing how reinforcement learning has become an effective tool for developing trading strategies. The authors discuss various methodologies and frameworks, highlighting the potential and challenges associated with these techniques. Key insights include the development of adaptive trading models that can respond to dynamic market environments, making them particularly valuable during earnings announcements when market conditions can shift rapidly.
+Zhang, X., et al. (2020). "Algorithmic Trading with Reinforcement Learning: A Review." This paper provides a comprehensive review of [reinforcement learning](/wiki/reinforcement-learning) applications in [algorithmic trading](/wiki/algorithmic-trading), emphasizing how reinforcement learning has become an effective tool for developing trading strategies. The authors discuss various methodologies and frameworks, highlighting the potential and challenges associated with these techniques. Key insights include the development of adaptive trading models that can respond to dynamic market environments, making them particularly valuable during earnings announcements when market conditions can shift rapidly.
 
 Fama, E. F., & French, K. R. (1993). "Common Risk Factors in the Returns on Stocks and Bonds." This seminal work introduces a three-factor model to explain stock returns, considering market risk, company size, and book-to-market value as primary factors. For those interested in earnings report trading, this framework underscores the importance of understanding systemic risk factors that might influence stock movements during earnings seasons. By integrating these factors into algorithmic models, traders can better anticipate potential risks and returns associated with earnings announcements.
 
-Li, X., et al. (2021). "Applied Machine Learning for Algorithmic Trading." The authors explore machine learning applications tailored to algorithmic trading, detailing specific techniques such as supervised learning, unsupervised learning, and reinforcement learning. The paper emphasizes the importance of training algorithms on historical market data, including past earnings reports, to predict future market responses effectively. Practical examples demonstrate how machine learning algorithms can be customized to optimize trading strategies, making them more robust against the market volatility typical during earnings seasons.
+Li, X., et al. (2021). "Applied Machine Learning for Algorithmic Trading." The authors explore [machine learning](/wiki/machine-learning) applications tailored to algorithmic trading, detailing specific techniques such as supervised learning, unsupervised learning, and reinforcement learning. The paper emphasizes the importance of training algorithms on historical market data, including past earnings reports, to predict future market responses effectively. Practical examples demonstrate how machine learning algorithms can be customized to optimize trading strategies, making them more robust against the market volatility typical during earnings seasons.
 

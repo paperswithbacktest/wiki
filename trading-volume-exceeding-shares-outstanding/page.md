@@ -22,7 +22,7 @@ This number can change over time. For example, if a company issues new shares to
 
 ## How can trading volume exceed shares outstanding?
 
-Trading volume can exceed shares outstanding because the same shares can be traded multiple times in a single day. Imagine you have a ball and you throw it to a friend, then your friend throws it to someone else, and so on. Even though there's only one ball, it can be passed around many times. In the same way, a single share can be bought and sold by different people throughout the day, adding to the total trading volume.
+Trading [volume](/wiki/volume-trading-strategy) can exceed shares outstanding because the same shares can be traded multiple times in a single day. Imagine you have a ball and you throw it to a friend, then your friend throws it to someone else, and so on. Even though there's only one ball, it can be passed around many times. In the same way, a single share can be bought and sold by different people throughout the day, adding to the total trading volume.
 
 This happens a lot, especially with popular stocks. If a stock is in the news or if something exciting is happening with the company, more people might want to buy and sell it. So, even though the total number of shares (shares outstanding) stays the same, the number of times those shares are traded (trading volume) can be much higher.
 

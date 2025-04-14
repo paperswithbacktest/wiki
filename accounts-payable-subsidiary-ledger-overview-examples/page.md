@@ -117,7 +117,7 @@ By effectively implementing these strategies, traders can exploit various market
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization." Advances in Neural Information Processing Systems 24. This paper explores methods for optimizing hyper-parameters, essential in enhancing the performance of machine learning models, a crucial aspect in algorithmic trading strategies.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization." Advances in Neural Information Processing Systems 24. This paper explores methods for optimizing hyper-parameters, essential in enhancing the performance of [machine learning](/wiki/machine-learning) models, a crucial aspect in algorithmic trading strategies.
 
 "Advances in Financial Machine Learning" by Marcos Lopez de Prado offers a comprehensive guide to applying machine learning techniques to solve financial problems. It presents cutting-edge methodologies that facilitate the development of more accurate trading models through the use of sophisticated algorithms.
 

@@ -30,7 +30,7 @@ On the other hand, if an investor waits too long and doesn't sell during the pan
 
 Panic selling is often driven by fear and the fear of missing out. When people see stock prices dropping quickly, they get scared that they will lose a lot of money. This fear makes them want to sell their stocks right away, even if it means selling at a lower price than they bought them for. They are afraid that if they wait, the prices might drop even more, and they will lose even more money. This fear can spread quickly from one person to another, making more and more people want to sell their stocks in a hurry.
 
-Another big factor is the fear of missing out, or FOMO. When people see others selling their stocks and getting out before the prices drop too much, they worry that they will be left behind if they don't do the same. They don't want to be the only ones holding onto stocks that are losing value. This can make them rush to sell, even if it's not the best decision for them. It's like seeing everyone else leave a party early because they think it's going to get bad, so you leave too, even though you were having a good time.
+Another big [factor](/wiki/factor-investing) is the fear of missing out, or FOMO. When people see others selling their stocks and getting out before the prices drop too much, they worry that they will be left behind if they don't do the same. They don't want to be the only ones holding onto stocks that are losing value. This can make them rush to sell, even if it's not the best decision for them. It's like seeing everyone else leave a party early because they think it's going to get bad, so you leave too, even though you were having a good time.
 
 ## Can panic selling lead to a market crash?
 

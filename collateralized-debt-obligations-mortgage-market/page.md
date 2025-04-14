@@ -162,4 +162,4 @@ Historically, mortgage-backed securities have seen shifts in regulatory environm
 [6]: Tett, G. (2009). *Fool's Gold: The Inside Story of J.P. Morgan and How Wall St. Greed Corrupted Its Bold Dream and Created a Financial Catastrophe*. Free Press.  
 [7]: Wilmott, P. (2006). *Paul Wilmott Introduces Quantitative Finance*. John Wiley & Sons.  
 
-These references provide insightful perspectives and further information on the subject matter discussed in the article, such as the interplay between financial markets, algorithmic trading, and the complexities of mortgage-backed instruments.
+These references provide insightful perspectives and further information on the subject matter discussed in the article, such as the interplay between financial markets, [algorithmic trading](/wiki/algorithmic-trading), and the complexities of mortgage-backed instruments.

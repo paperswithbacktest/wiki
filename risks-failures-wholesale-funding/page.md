@@ -36,7 +36,7 @@ Another risk is that wholesale funding can be less stable than retail funding. W
 
 Liquidity risk can be a big problem for banks that use a lot of wholesale funding. This kind of risk happens when a bank can't get enough cash quickly to meet its needs. When banks rely on big investors for their money, those investors can take their money back fast if they get worried about the bank or if the economy is doing badly. This can leave the bank in a tough spot because they might not have enough cash on hand to give back to the investors right away.
 
-If a bank can't meet its cash needs, it might have to sell off some of its assets quickly, which can mean selling them for less than they're worth. This can hurt the bank's finances and make it harder for them to keep doing business. In the worst cases, if a lot of investors pull their money out at the same time, it could even lead to the bank failing. So, banks that use a lot of wholesale funding need to be really careful about managing their liquidity risk to make sure they always have enough cash to handle any sudden changes.
+If a bank can't meet its cash needs, it might have to sell off some of its assets quickly, which can mean selling them for less than they're worth. This can hurt the bank's finances and make it harder for them to keep doing business. In the worst cases, if a lot of investors pull their money out at the same time, it could even lead to the bank failing. So, banks that use a lot of wholesale funding need to be really careful about managing their [liquidity](/wiki/liquidity-risk-premium) risk to make sure they always have enough cash to handle any sudden changes.
 
 ## What role does the maturity mismatch play in the risks of wholesale funding?
 
@@ -48,7 +48,7 @@ This problem got worse during the 2008 financial crisis. Many banks were using s
 
 Interest rate changes can really shake things up for banks that use wholesale funding. When interest rates go up, it means the bank has to pay more to borrow money from big investors. This can cut into the bank's profits because they have to give back more money than before. If the bank has a lot of short-term wholesale funding, it might need to borrow more often, and each time it does, the cost could be higher because of the rising rates. This can make it harder for the bank to plan its finances and could lead to money troubles if the rates keep going up.
 
-On the flip side, when interest rates go down, it can be good for the bank because borrowing money becomes cheaper. But there's a catch. If the bank is using wholesale funding to make long-term loans or investments, those might not be earning as much as before because the rates they're getting on those loans or investments might also go down. So, while it's cheaper to borrow, the bank might not be making as much money on what it's doing with that borrowed money. This can mess up the bank's plans if they were counting on making a certain amount of money from their investments.
+On the flip side, when interest rates go down, it can be good for the bank because borrowing money becomes cheaper. But there's a catch. If the bank is using wholesale funding to make long-term loans or investments, those might not be [earning](/wiki/earning-announcement) as much as before because the rates they're getting on those loans or investments might also go down. So, while it's cheaper to borrow, the bank might not be making as much money on what it's doing with that borrowed money. This can mess up the bank's plans if they were counting on making a certain amount of money from their investments.
 
 ## What are some historical examples of failures due to wholesale funding?
 
@@ -82,9 +82,9 @@ Banks also use something called stress testing to see how they would do if thing
 
 ## How does the interplay of wholesale funding and algorithmic trading affect risk management?
 
-In modern banking, wholesale funding and algorithmic trading represent two pivotal elements that, when intertwined, can significantly elevate financial risk. The core idea in managing this interplay revolves around ensuring that returns from algorithmic trading consistently outweigh the borrowing costs associated with wholesale funding.
+In modern banking, wholesale funding and [algorithmic trading](/wiki/algorithmic-trading) represent two pivotal elements that, when intertwined, can significantly elevate financial risk. The core idea in managing this interplay revolves around ensuring that returns from algorithmic trading consistently outweigh the borrowing costs associated with wholesale funding.
 
-Wholesale funding involves banks borrowing from institutional entities or financial markets, which can offer significant scalability and flexibility. However, these sources often come with higher costs and are more sensitive to market volatility compared to traditional deposit-based funding. On the other hand, algorithmic trading employs sophisticated algorithms to execute trades at high speed and [volume](/wiki/volume-trading-strategy), potentially leading to substantial profits. However, it also introduces risks such as operational failures or erroneous trading activities, which could result in financial losses.
+Wholesale funding involves banks borrowing from institutional entities or financial markets, which can offer significant scalability and flexibility. However, these sources often come with higher costs and are more sensitive to market [volatility](/wiki/volatility-trading-strategies) compared to traditional deposit-based funding. On the other hand, algorithmic trading employs sophisticated algorithms to execute trades at high speed and [volume](/wiki/volume-trading-strategy), potentially leading to substantial profits. However, it also introduces risks such as operational failures or erroneous trading activities, which could result in financial losses.
 
 The challenge lies in maintaining a delicate balance where the cost of funds from wholesale markets is lower than the yields generated by trading activities. Mathematically, this can be represented as:
 
@@ -100,7 +100,7 @@ Banks must ensure effective risk management practices to maintain this balance. 
 
 Moreover, aligning these activities with the institution's overall risk appetite is crucial. Banks should establish well-defined risk limits and continuously monitor their compliance to avoid excessive risk exposure. The introduction of stringent internal controls and regular audits can help detect anomalies early and mitigate potential risks.
 
-Ultimately, the successful integration of wholesale funding and algorithmic trading within a bank's risk management framework is contingent on the deployment of advanced technologies and strategic oversight. By leveraging real-time data analytics and machine learning, banks can refine their predictive models to enhance decision-making processes, ensuring that they remain nimble in the face of dynamic financial markets.
+Ultimately, the successful integration of wholesale funding and algorithmic trading within a bank's risk management framework is contingent on the deployment of advanced technologies and strategic oversight. By leveraging real-time data analytics and [machine learning](/wiki/machine-learning), banks can refine their predictive models to enhance decision-making processes, ensuring that they remain nimble in the face of dynamic financial markets.
 
 ## How can we mitigate the risks involved?
 
@@ -110,7 +110,7 @@ Mitigating risks in banking, particularly those associated with wholesale fundin
 
 Stress testing is a critical component of risk management whereby banks simulate adverse financial scenarios to evaluate the resilience of their operations. This process helps in understanding how extreme conditions might impact their capital and liquidity positions. Scenario analysis complements stress testing by considering a broader range of potential future events, including low-probability but high-impact scenarios.
 
-For example, a bank might model the effects of sudden interest rate hikes or market corrections on its portfolio. By identifying potential weaknesses through this comprehensive testing, banks can develop contingency plans and strengthen their risk buffers.
+For example, a bank might model the effects of sudden [interest rate](/wiki/interest-rate-trading-strategies) hikes or market corrections on its portfolio. By identifying potential weaknesses through this comprehensive testing, banks can develop contingency plans and strengthen their risk buffers.
 
 **Regulatory Frameworks: Basel III**
 
@@ -128,7 +128,7 @@ These regulations compel banks to maintain stronger financial health, thus enhan
 
 **Technological Advancements**
 
-Technology, particularly advancements in artificial intelligence (AI) and machine learning (ML), offers powerful tools for risk mitigation. These technologies enable banks to perform sophisticated risk assessments and real-time data analysis, enhancing their ability to predict and respond to emerging threats.
+Technology, particularly advancements in [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and machine learning (ML), offers powerful tools for risk mitigation. These technologies enable banks to perform sophisticated risk assessments and real-time data analysis, enhancing their ability to predict and respond to emerging threats.
 
 AI and ML algorithms can process vast amounts of data to identify patterns and anomalies indicative of potential risks. For instance, ML models can be trained to detect unusual trading activities or deviations in market behavior, allowing for timely intervention.
 

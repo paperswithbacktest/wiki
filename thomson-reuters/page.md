@@ -58,7 +58,7 @@ Thomson Reuters also helps by giving news that can affect the financial markets.
 
 Thomson Reuters has changed a lot to keep up with the digital world. They have made their tools and services easier to use on computers and phones. For example, they have apps and websites where people can get news and information anytime they want. They also use special software to help people find what they need quickly. This makes it easier for lawyers, accountants, and other professionals to do their work from anywhere.
 
-They have also started using new technology like artificial intelligence (AI) and big data to make their services better. AI helps them understand what people are looking for and give them the right information faster. Big data helps them see patterns and trends that can be useful for their customers. By using these new technologies, Thomson Reuters can give people better and more up-to-date information, which helps them make good decisions in their jobs.
+They have also started using new technology like [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and big data to make their services better. AI helps them understand what people are looking for and give them the right information faster. Big data helps them see patterns and trends that can be useful for their customers. By using these new technologies, Thomson Reuters can give people better and more up-to-date information, which helps them make good decisions in their jobs.
 
 ## What are some of the major acquisitions made by Thomson Reuters?
 

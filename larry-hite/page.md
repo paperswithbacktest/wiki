@@ -34,7 +34,7 @@ Another big milestone was when Larry became known as one of the "Market Wizards.
 
 ## What trading strategies does Larry Hite advocate?
 
-Larry Hite believes in using math and computers to make trading decisions. He thinks that by looking at numbers and patterns, you can predict how prices will move. He calls this approach "trend following." This means watching the market and making trades based on the direction the market is going. If the market is going up, you buy. If it's going down, you sell. Larry says it's important to stick to this plan and not let emotions get in the way.
+Larry Hite believes in using math and computers to make trading decisions. He thinks that by looking at numbers and patterns, you can predict how prices will move. He calls this approach "[trend following](/wiki/trend-following)." This means watching the market and making trades based on the direction the market is going. If the market is going up, you buy. If it's going down, you sell. Larry says it's important to stick to this plan and not let emotions get in the way.
 
 Another key part of Larry's strategy is managing risk. He believes in not putting all your money into one trade. Instead, he suggests spreading your money across different trades. This way, if one trade doesn't go well, you won't lose everything. Larry also talks about setting clear rules for when to get out of a trade. If a trade starts losing money, he says to cut your losses quickly. This helps protect your money and gives you a better chance of making profits over time.
 
@@ -66,7 +66,7 @@ Larry was also featured in another book called "The New Market Wizards" by Jack 
 
 Larry Hite has had a big impact on the trading community because of his success and the way he shared his knowledge. He started using computers and math to make trading decisions, which was different from what many people were doing at the time. His approach, called trend following, showed traders that they could make money by watching the market and going with the flow of prices. Larry's success with his Hite Hedge Fund and Mint Investment Management proved that his methods worked. This inspired many other traders to try using math and computers in their own trading.
 
-Larry also influenced the trading community by writing and being featured in books. He wrote "The Rule: The Simple Strategy That Will Help You Win Every Bet," where he explained his trading methods in a way that anyone could understand. He also shared his story in "The New Market Wizards" by Jack D. Schwager, which helped him become known as one of the "Market Wizards." By sharing his experiences and advice, Larry helped many traders learn how to manage risk and make better trading decisions. His influence continues to be felt in the trading world today.
+Larry also influenced the trading community by writing and being featured in [books](/wiki/algo-trading-books). He wrote "The Rule: The Simple Strategy That Will Help You Win Every Bet," where he explained his trading methods in a way that anyone could understand. He also shared his story in "The New Market Wizards" by Jack D. Schwager, which helped him become known as one of the "Market Wizards." By sharing his experiences and advice, Larry helped many traders learn how to manage risk and make better trading decisions. His influence continues to be felt in the trading world today.
 
 ## What are some of the challenges Larry Hite faced in his career and how did he overcome them?
 

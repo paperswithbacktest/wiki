@@ -22,7 +22,7 @@ A subindex is a smaller list inside the main index. It focuses on just one part 
 
 ## What are the common uses of subindexes?
 
-Subindexes are often used in books to help readers find information more easily. For example, in a big book about history, the main index might list all the events and people. A subindex could then list just the events from World War II, making it quicker for someone interested in that topic to find what they need without searching through the whole index.
+Subindexes are often used in [books](/wiki/algo-trading-books) to help readers find information more easily. For example, in a big book about history, the main index might list all the events and people. A subindex could then list just the events from World War II, making it quicker for someone interested in that topic to find what they need without searching through the whole index.
 
 In databases and libraries, subindexes are also very helpful. They can organize large amounts of information into smaller, more manageable parts. For instance, a library catalog might have a main index of all the books. A subindex could list only the books about science, helping someone looking for science books to find them faster. This way, subindexes make it easier to navigate through big collections of information.
 

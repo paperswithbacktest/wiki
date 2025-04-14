@@ -18,7 +18,7 @@ The prize is given by the Royal Swedish Academy of Sciences. They choose the win
 
 The Nobel Memorial Prize in Economic Sciences was first awarded in 1969. This was the year after Sweden's central bank decided to create the prize to celebrate their 300th anniversary.
 
-The first people to win the prize were Ragnar Frisch from Norway and Jan Tinbergen from the Netherlands. They were chosen because they did important work in using math and statistics to understand how economies work.
+The first people to win the prize were Ragnar Frisch from Norway and Jan Tinbergen from the Netherlands. They were chosen because they did important work in using math and [statistics](/wiki/bayesian-statistics) to understand how economies work.
 
 ## Who established the Nobel Memorial Prize in Economic Sciences?
 
@@ -86,7 +86,7 @@ Paul Krugman won the prize in 2008. He studied how countries trade with each oth
 
 ## How do Nobel Prize-winning economic theories intersect with algorithmic trading?
 
-Many Nobel-winning economic theories have played a crucial role in shaping and advancing algorithmic trading strategies. Notably, the Efficient Market Hypothesis (EMH) and Modern Portfolio Theory have been instrumental.
+Many Nobel-winning economic theories have played a crucial role in shaping and advancing [algorithmic trading](/wiki/algorithmic-trading) strategies. Notably, the Efficient Market Hypothesis (EMH) and Modern Portfolio Theory have been instrumental.
 
 ### Modern Portfolio Theory and Algorithmic Trading
 
@@ -110,7 +110,7 @@ where $w$ is the vector of asset weights, and $\Sigma$ is the covariance matrix 
 
 Eugene Fama's Efficient Market Hypothesis, for which he received the Nobel Prize in 2013, posits that financial markets are efficient in reflecting all available information. The implication of EMH is that it is impossible to consistently achieve returns that exceed average market returns on a risk-adjusted basis, as prices always incorporate and reflect all relevant information.
 
-Despite the theoretical assertion that it is impossible to 'beat the market' consistently, algorithmic trading leverages EMH principles to develop models that exploit inefficiencies and information gaps through high-frequency trading and [statistical arbitrage](/wiki/statistical-arbitrage). These models are designed to react swiftly to new market information and execute trades that capitalize on transient inefficiencies before they are corrected by the market.
+Despite the theoretical assertion that it is impossible to 'beat the market' consistently, algorithmic trading leverages EMH principles to develop models that exploit inefficiencies and information gaps through high-frequency trading and [statistical [arbitrage](/wiki/arbitrage)](/wiki/statistical-arbitrage). These models are designed to react swiftly to new market information and execute trades that capitalize on transient inefficiencies before they are corrected by the market.
 
 Both MPT and EMH continue to influence the development of algorithmic trading strategies, where the former provides a framework for constructing diversified portfolios, and the latter informs the design of models that respond to market conditions effectively.
 

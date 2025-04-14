@@ -24,7 +24,7 @@ Overall, geo-location data is gathered from many sources and in different ways. 
 
 ## What are the common sources of geo-location alternative data?
 
-Geo-location alternative data comes from many places. One common source is smartphone apps. When you use apps like maps or social media, they can track where you are if you allow them to. This data helps companies see where people go and how they move around. Another source is GPS devices, which are often in cars or used by people who like to hike or travel. These devices send location information to companies that can then use it to understand travel patterns.
+Geo-location [alternative data](/wiki/best-alternative-data) comes from many places. One common source is smartphone apps. When you use apps like maps or social media, they can track where you are if you allow them to. This data helps companies see where people go and how they move around. Another source is GPS devices, which are often in cars or used by people who like to hike or travel. These devices send location information to companies that can then use it to understand travel patterns.
 
 Another way to get geo-location data is through Wi-Fi and cell towers. When your phone connects to these, it can figure out where you are. This is helpful because it works even inside buildings where GPS might not reach. Companies can use this data to see how people move in cities or shopping centers. Credit card transactions are also a source of geo-location data. When you use your card to buy something, the location of the store is recorded, which can show where people are spending money.
 
@@ -68,7 +68,7 @@ Mixing geo-location data with other data sources can also help with real-time de
 
 ## What advanced techniques are used to enhance the accuracy of geo-location data?
 
-To make geo-location data more accurate, businesses use special methods like triangulation. This means using signals from different cell towers or Wi-Fi points to figure out exactly where a device is. It's like using multiple clues to find the right spot. Another way is to use machine learning, which is a kind of smart computer program. It can look at lots of past data to guess where someone might be, even if the signal isn't perfect. This helps make the location data more reliable and useful.
+To make geo-location data more accurate, businesses use special methods like triangulation. This means using signals from different cell towers or Wi-Fi points to figure out exactly where a device is. It's like using multiple clues to find the right spot. Another way is to use [machine learning](/wiki/machine-learning), which is a kind of smart computer program. It can look at lots of past data to guess where someone might be, even if the signal isn't perfect. This helps make the location data more reliable and useful.
 
 Another technique is called data fusion, where different kinds of data are mixed together to get a better picture. For example, if you combine GPS data with information from a person's phone, like which Wi-Fi networks they're near, you can get a more exact location. This is helpful because sometimes one type of data might not be enough on its own. By using these advanced methods, businesses can make sure their geo-location data is as accurate as possible, which helps them make better decisions.
 

@@ -74,7 +74,7 @@ Another way to manage risk is by not using too much borrowed money. When you bor
 
 One advanced strategy in pairs trading is called mean reversion trading. This means you look for times when the spread between two stocks is a lot bigger than usual. You buy the cheaper stock and sell the more expensive one, hoping that the spread will come back to its normal level. This strategy needs a lot of data and math to figure out what the normal spread is and when it's time to trade. You need to be patient and watch the market closely to make this work.
 
-Another advanced strategy is using statistical arbitrage. This is a bit more complicated and involves trading many pairs of stocks at the same time. You use computers and math to find lots of pairs that are good for trading. Then, you trade them all together, hoping that the small profits from each pair will add up to a big profit overall. This strategy needs a lot of money and technology, so it's usually used by big traders and hedge funds.
+Another advanced strategy is using statistical [arbitrage](/wiki/arbitrage). This is a bit more complicated and involves trading many pairs of stocks at the same time. You use computers and math to find lots of pairs that are good for trading. Then, you trade them all together, hoping that the small profits from each pair will add up to a big profit overall. This strategy needs a lot of money and technology, so it's usually used by big traders and hedge funds.
 
 ## How do you evaluate the performance of a pairs trading strategy?
 
@@ -84,7 +84,7 @@ Another way to evaluate your pairs trading strategy is by looking at how often y
 
 ## What is Pairs Trading?
 
-Pairs trading is a financial market strategy characterized by its market-neutral stance, primarily used in the context of algorithmic trading. At its core, pairs trading involves simultaneously buying one asset while shorting another, aiming to capitalize on the relative movement between them rather than their absolute price movements. This tactic allows traders to potentially profit from both market upturns and downturns, mitigating the influence of broader market trends and focusing instead on the price dynamics between paired assets.
+Pairs trading is a financial market strategy characterized by its market-neutral stance, primarily used in the context of [algorithmic trading](/wiki/algorithmic-trading). At its core, pairs trading involves simultaneously buying one asset while shorting another, aiming to capitalize on the relative movement between them rather than their absolute price movements. This tactic allows traders to potentially profit from both market upturns and downturns, mitigating the influence of broader market trends and focusing instead on the price dynamics between paired assets.
 
 The execution of a pairs trading strategy is fundamentally reliant on statistical relationships between selected pairs of assets, typically two stocks. The identification of these pairs is traditionally grounded in statistical metrics such as correlation and co-integration. Correlation measures the degree to which two securities move in relation to each other, albeit without distinguishing between temporary and long-term associations. Mathematically, it can be expressed as:
 

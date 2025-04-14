@@ -58,7 +58,7 @@ Another mistake is not waiting for the right time to see the pattern. The Bearis
 
 ## How does volume affect the validity of a Bearish Engulfing Pattern?
 
-Volume is really important when looking at a Bearish Engulfing Pattern. If the big red candle that comes after the small green one has a lot of volume, it means more people are selling the stock. This makes the pattern a stronger sign that the price might go down. When lots of people are selling, it shows that the sellers are really taking over from the buyers, and the pattern is more likely to be right.
+Volume is really important when looking at a Bearish Engulfing Pattern. If the big red candle that comes after the small green one has a lot of [volume](/wiki/volume-trading-strategy), it means more people are selling the stock. This makes the pattern a stronger sign that the price might go down. When lots of people are selling, it shows that the sellers are really taking over from the buyers, and the pattern is more likely to be right.
 
 But if the volume is low when the big red candle appears, the Bearish Engulfing Pattern might not be as good a sign. Low volume means fewer people are selling, so the pattern might not mean as much. Traders need to look at the volume along with the pattern to decide if it's a good time to sell their stocks.
 

@@ -40,9 +40,9 @@ Another risk is that the stock might not fall as much as you expect, or it might
 
 ## How is the price of a put option determined?
 
-The price of a put option, also known as the premium, is figured out by looking at a few important things. One big thing is how much the stock's price is expected to move around, which is called volatility. If people think the stock's price might jump around a lot, the put option will cost more because it's riskier. Another thing is how much time is left until the option expires. The more time there is, the more the put option will cost because there's more chance for the stock's price to go down.
+The price of a put option, also known as the premium, is figured out by looking at a few important things. One big thing is how much the stock's price is expected to move around, which is called [volatility](/wiki/volatility-trading-strategies). If people think the stock's price might jump around a lot, the put option will cost more because it's riskier. Another thing is how much time is left until the option expires. The more time there is, the more the put option will cost because there's more chance for the stock's price to go down.
 
-Another factor is the difference between the stock's current price and the strike price of the option. If the strike price is a lot higher than the current stock price, the put option will be more valuable because it lets you sell the stock at a much better price. Also, interest rates and how much people expect the stock to pay out in dividends can affect the price of the put option. All these things together help decide how much you'll have to pay for a put option.
+Another [factor](/wiki/factor-investing) is the difference between the stock's current price and the strike price of the option. If the strike price is a lot higher than the current stock price, the put option will be more valuable because it lets you sell the stock at a much better price. Also, interest rates and how much people expect the stock to pay out in dividends can affect the price of the put option. All these things together help decide how much you'll have to pay for a put option.
 
 ## What is the difference between an American and a European put option?
 
@@ -116,7 +116,7 @@ Understanding the intricacies of options trading involves grasping the mechanics
 
 ## References & Further Reading
 
-Henrique, B. M., Sobreiro, V. A., & Kimura, H. (2019). 'Literature review: Machine learning techniques applied to financial market prediction.' This article offers a comprehensive overview of the application of machine learning techniques in predicting financial markets, providing insights into how these technologies can enhance algorithmic trading strategies through improved predictive accuracy and decision-making processes.
+Henrique, B. M., Sobreiro, V. A., & Kimura, H. (2019). 'Literature review: Machine learning techniques applied to financial market prediction.' This article offers a comprehensive overview of the application of [machine learning](/wiki/machine-learning) techniques in predicting financial markets, providing insights into how these technologies can enhance [algorithmic trading](/wiki/algorithmic-trading) strategies through improved predictive accuracy and decision-making processes.
 
 Black, F., & Scholes, M. (1973). 'The Pricing of Options and Corporate Liabilities.' This seminal paper introduced the Black-Scholes model, a breakthrough in financial economics that for the first time provided a mathematical model for pricing European-style options. The Black-Scholes formula has become a cornerstone in the field of financial derivatives, allowing traders to determine theoretical prices and develop robust hedging strategies.
 

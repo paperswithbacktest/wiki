@@ -50,9 +50,9 @@ Once your account is funded, you can start trading. Most brokers have a platform
 
 ## What are the common strategies used in CFD trading?
 
-One common strategy in CFD trading is called trend following. This means you look at the price of something over time and try to figure out if it's going up or down. If you see that the price has been going up, you might buy a CFD, hoping it will keep going up. If you see the price going down, you might sell a CFD, hoping it will keep going down. It's like trying to ride a wave. The key is to spot the trend early and get out before it changes direction.
+One common strategy in CFD trading is called [trend following](/wiki/trend-following). This means you look at the price of something over time and try to figure out if it's going up or down. If you see that the price has been going up, you might buy a CFD, hoping it will keep going up. If you see the price going down, you might sell a CFD, hoping it will keep going down. It's like trying to ride a wave. The key is to spot the trend early and get out before it changes direction.
 
-Another strategy is called scalping. This is when you make a lot of small trades in a short time, trying to make small profits from tiny price movements. It's like picking up pennies off the ground. You need to be quick and pay close attention to the market because things can change fast. Scalping can be risky, but if you're good at it, you can add up those small profits over time.
+Another strategy is called [scalping](/wiki/gamma-scalping). This is when you make a lot of small trades in a short time, trying to make small profits from tiny price movements. It's like [picking](/wiki/asset-class-picking) up pennies off the ground. You need to be quick and pay close attention to the market because things can change fast. Scalping can be risky, but if you're good at it, you can add up those small profits over time.
 
 A third strategy is called hedging. This is when you use CFDs to protect yourself from losing money on something else you own. For example, if you own some stocks and you're worried their price might go down, you could sell a CFD on those stocks. If the price does go down, you'll lose money on your stocks, but you'll make money on the CFD, which can help balance things out. It's like having an insurance policy for your investments.
 

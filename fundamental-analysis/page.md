@@ -18,7 +18,7 @@ When doing fundamental analysis, people look at things like how much money the c
 
 Fundamental analysis and technical analysis are two different ways to look at investments like stocks. Fundamental analysis is all about understanding the real value of a company. It looks at things like how much money the company is making, its debts, and how well it's run. It also considers what's happening in the world that might affect the company. The goal is to figure out if the stock price is a good deal compared to what the company is actually worth. It's like checking the health and potential of a company before deciding to invest in it.
 
-On the other hand, technical analysis doesn't care about the company's financials or the world around it. Instead, it focuses on the stock's price movements and trading patterns over time. Technical analysts use charts and other tools to spot trends and predict where the stock price might go next. They believe that all the important information about a company is already shown in its stock price and trading volume. So, they try to find the best times to buy or sell based on these patterns, without worrying about the company's actual value.
+On the other hand, technical analysis doesn't care about the company's financials or the world around it. Instead, it focuses on the stock's price movements and trading patterns over time. Technical analysts use charts and other tools to spot trends and predict where the stock price might go next. They believe that all the important information about a company is already shown in its stock price and trading [volume](/wiki/volume-trading-strategy). So, they try to find the best times to buy or sell based on these patterns, without worrying about the company's actual value.
 
 In short, fundamental analysis is about the company's health and worth, while technical analysis is about the stock's price behavior. Both methods can help investors make decisions, but they do it in very different ways.
 
@@ -74,7 +74,7 @@ Another limitation is that fundamental analysis might not catch short-term chang
 
 ## How does fundamental analysis apply to different asset classes like stocks, bonds, and real estate?
 
-Fundamental analysis can be used to look at different kinds of investments like stocks, bonds, and real estate, but the way you do it changes a bit for each one. For stocks, you look at the company's financial statements, how much money it makes, and how well it's run. You also think about what's happening in the world that could affect the company. By putting all this together, you can guess if the stock is a good buy or not. For bonds, you look at things like how likely the company or government is to pay back the money they borrowed, and what interest rate they're offering. If the bond issuer is in good shape and the interest rate is high, the bond might be a good investment.
+Fundamental analysis can be used to look at different kinds of investments like stocks, bonds, and real estate, but the way you do it changes a bit for each one. For stocks, you look at the company's financial statements, how much money it makes, and how well it's run. You also think about what's happening in the world that could affect the company. By putting all this together, you can guess if the stock is a good buy or not. For bonds, you look at things like how likely the company or government is to pay back the money they borrowed, and what [interest rate](/wiki/interest-rate-trading-strategies) they're offering. If the bond issuer is in good shape and the interest rate is high, the bond might be a good investment.
 
 When it comes to real estate, fundamental analysis means looking at things like where the property is, how much people want to live or work there, and what other properties in the area are selling for. You also think about how much money you could make from renting it out and how much it would cost to keep it up. By understanding these things, you can figure out if the property is a good deal. Even though the details are different for each type of investment, the main idea of fundamental analysis is the same: you're trying to see if the investment is worth the price by looking at all the important factors.
 
@@ -114,9 +114,9 @@ In summary, fundamental analysis is essential for developing insights into a com
 
 ## What is Backtesting and Optimisation?
 
-Backtesting is a critical step in validating a fundamental-based algorithmic trading strategy. It enables traders to assess how their strategies would have performed using historical data, providing insights into their viability before risking actual capital. This step helps identify potential flaws or weaknesses in the strategy and refines it for better performance.
+Backtesting is a critical step in validating a fundamental-based [algorithmic trading](/wiki/algorithmic-trading) strategy. It enables traders to assess how their strategies would have performed using historical data, providing insights into their viability before risking actual capital. This step helps identify potential flaws or weaknesses in the strategy and refines it for better performance.
 
-When backtesting a fundamental-based algorithmic strategy, several key metrics are essential to evaluate. Return on Investment (ROI) is one of the primary metrics and is calculated as:
+When [backtesting](/wiki/backtesting) a fundamental-based algorithmic strategy, several key metrics are essential to evaluate. Return on Investment (ROI) is one of the primary metrics and is calculated as:
 
 $$
 \text{ROI} = \left( \frac{\text{Net Profit}}{\text{Cost of Investment}} \right) \times 100

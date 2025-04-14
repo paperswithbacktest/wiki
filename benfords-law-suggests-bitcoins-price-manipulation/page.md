@@ -78,7 +78,7 @@ Also, people check the news and what people are saying on the internet to see if
 
 Regulatory bodies and financial analysts use Benford's Law to help check if the prices of cryptocurrencies like Bitcoin are real or if someone might be trying to trick people. They look at the first numbers of the prices to see if they follow a special pattern. If the numbers don't match this pattern, it might mean someone is messing with the prices. But, they know that Benford's Law is just one tool and it's not perfect. They use it along with other ways of checking the data to make sure they don't miss anything important.
 
-Sometimes, the results from Benford's Law can be confusing. If the data set is too small or if the prices change too quickly, Benford's Law might not work well. So, regulatory bodies and financial analysts are careful when they use it. They also look at other things, like trading patterns and what people are saying on the internet, to get a full picture. By using all these different ways together, they can better understand if there's any cheating going on with cryptocurrency prices.
+Sometimes, the results from Benford's Law can be confusing. If the data set is too small or if the prices change too quickly, Benford's Law might not work well. So, regulatory bodies and financial analysts are careful when they use it. They also look at other things, like trading patterns and what people are saying on the internet, to get a full picture. By using all these different ways together, they can better understand if there's any cheating going on with [cryptocurrency](/wiki/cryptocurrency) prices.
 
 ## What is Benford's Law and how can it be understood?
 

@@ -36,7 +36,7 @@ Both types of labor mobility are key for a strong economy. When workers can move
 
 ## What factors influence labor mobility?
 
-Several things can affect how easily workers move to new jobs or new places. One big factor is the cost of moving. If it's expensive to move, like paying for a new home or traveling far, people might not want to do it. Another factor is family and personal ties. People might not want to leave their family and friends behind. Also, language and culture can make moving hard. If you don't speak the language or know the customs in a new place, it can be tough to move there.
+Several things can affect how easily workers move to new jobs or new places. One big [factor](/wiki/factor-investing) is the cost of moving. If it's expensive to move, like paying for a new home or traveling far, people might not want to do it. Another factor is family and personal ties. People might not want to leave their family and friends behind. Also, language and culture can make moving hard. If you don't speak the language or know the customs in a new place, it can be tough to move there.
 
 Another important thing is the job market. If there are lots of good jobs in one place, people will be more likely to move there. But if there aren't many jobs, people might stay where they are. Education and skills also play a big role. If workers have the right skills for new jobs, they can move more easily. But if they need to learn new skills, it might take time and money, which can stop them from moving.
 
@@ -70,7 +70,7 @@ Also, education can help people understand how to find and apply for jobs in dif
 
 ## How can labor mobility be measured and analyzed?
 
-Labor mobility can be measured and analyzed by looking at how many people move from one job to another or from one place to another. One way to do this is by using data from government records, like census data or employment statistics. These records can show how many people moved to a new city or country in a year, or how many people changed their jobs. Researchers can also use surveys to ask people about their job changes and moves. By looking at this data, they can see patterns and trends in labor mobility.
+Labor mobility can be measured and analyzed by looking at how many people move from one job to another or from one place to another. One way to do this is by using data from government records, like census data or employment [statistics](/wiki/bayesian-statistics). These records can show how many people moved to a new city or country in a year, or how many people changed their jobs. Researchers can also use surveys to ask people about their job changes and moves. By looking at this data, they can see patterns and trends in labor mobility.
 
 Another way to analyze labor mobility is by looking at economic indicators like unemployment rates and wage levels. If unemployment is low in one area and high in another, it might mean that people are moving to where the jobs are. Also, if wages are going up in a certain place, it could be a sign that workers are moving there because there are more job opportunities. By putting all this information together, economists can understand how labor mobility is affecting the economy and what might help make it easier for people to move to new jobs or places.
 

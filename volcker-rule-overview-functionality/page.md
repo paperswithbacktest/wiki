@@ -46,7 +46,7 @@ To make sure banks follow the rule, the Volcker Rule has a special test called t
 
 ## What are the exemptions to the Volcker Rule?
 
-The Volcker Rule has some exceptions that let banks do certain things even though the rule is meant to stop risky trading. One big exception is when banks trade to help their customers. If a bank is buying or selling stocks and bonds for a customer, that's okay. The bank can also trade to manage its own risks, like if it needs to balance its books or protect itself from losing money. These kinds of trading are allowed because they're not just for making a profit for the bank itself.
+The Volcker Rule has some exceptions that let banks do certain things even though the rule is meant to stop risky trading. One big exception is when banks trade to help their customers. If a bank is buying or selling stocks and bonds for a customer, that's okay. The bank can also trade to manage its own risks, like if it needs to balance its [books](/wiki/algo-trading-books) or protect itself from losing money. These kinds of trading are allowed because they're not just for making a profit for the bank itself.
 
 Another exception is for trading in government securities. Banks can buy and sell things like U.S. Treasury bonds without breaking the Volcker Rule. This is because these securities are seen as less risky. Banks can also do some trading in certain types of funds, like mutual funds, as long as they follow strict rules. The idea is to let banks do some trading that helps the economy and their customers, but still keep them from taking big risks with their own money.
 

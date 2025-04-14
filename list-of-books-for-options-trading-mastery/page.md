@@ -87,7 +87,7 @@ Another excellent book that spans a wide range of topics is "The Options Playboo
 
 ## Essential Reads for Algorithmic Traders
 
-Success in algorithmic trading often hinges on knowledge derived from foundational literature. Two essential [books](/wiki/algo-trading-books) are "Quantitative Trading" by Ernest Chan and "Advances in Financial Machine Learning" by Marcos López de Prado, which offer practical strategies and insights for algorithmic traders. These works are instrumental in helping traders develop robust trading systems and leverage [machine learning](/wiki/machine-learning) techniques effectively.
+Success in [algorithmic trading](/wiki/algorithmic-trading) often hinges on knowledge derived from foundational literature. Two essential [books](/wiki/algo-trading-books) are "Quantitative Trading" by Ernest Chan and "Advances in Financial Machine Learning" by Marcos López de Prado, which offer practical strategies and insights for algorithmic traders. These works are instrumental in helping traders develop robust trading systems and leverage [machine learning](/wiki/machine-learning) techniques effectively.
 
 "Quantitative Trading" by Ernest Chan focuses on developing quantitative strategies for trading. The book emphasizes the use of statistical techniques and quantitative models to identify market inefficiencies. Readers learn to construct, backtest, and implement strategies that adapt to changing market conditions. Key topics include the selection of financial instruments, the design of trading strategies, and the importance of robust backtesting. The book also provides practical examples and code snippets in Python, making it accessible for both beginners and seasoned traders.
 

@@ -28,7 +28,7 @@ Calculating YTM can be a bit tricky because it involves some math, but it's usef
 
 ## How is yield to maturity calculated?
 
-Yield to maturity (YTM) is calculated by figuring out the interest rate that makes the present value of all future cash flows from the bond equal to its current market price. This involves adding up all the interest payments you'll get over time and the final payment you'll receive when the bond matures, which is called the face value. You then use a formula to find the interest rate that makes these future payments worth the same as the price you paid for the bond today.
+Yield to maturity (YTM) is calculated by figuring out the [interest rate](/wiki/interest-rate-trading-strategies) that makes the present value of all future cash flows from the bond equal to its current market price. This involves adding up all the interest payments you'll get over time and the final payment you'll receive when the bond matures, which is called the face value. You then use a formula to find the interest rate that makes these future payments worth the same as the price you paid for the bond today.
 
 The calculation can be tricky because it involves solving for an unknown rate in a present value formula. You can use a financial calculator or a computer program to do this, but the basic idea is to find the rate that discounts all future payments to equal the bond's current price. For example, if you buy a bond for $950 that pays $50 a year and will give you $1,000 when it matures in 10 years, you'd solve for the rate that makes the sum of those discounted payments equal to $950. This rate is your yield to maturity, showing you the total return you'd get if you hold the bond until it matures.
 
@@ -66,7 +66,7 @@ Yield to maturity is also affected by bond prices, but it looks at the total ret
 
 Current yield is a quick way to see how much money you'll get each year from a bond compared to what you paid for it. But it doesn't tell you the whole story. It only looks at the yearly interest and doesn't care about what happens when the bond matures. If you bought the bond at a price different from its face value, current yield won't show you if you'll make a profit or take a loss when the bond matures. This means it might make a bond look better or worse than it really is if you're planning to hold it until the end.
 
-Another problem with current yield is that it doesn't think about changes in the bond's price over time. If interest rates go up or down, the price of the bond can change, and current yield won't show you how that affects your total return. So, if you're looking at a bond as a long-term investment, current yield can be misleading because it only gives you a snapshot of what you're earning right now, not the full picture of what you might earn over time.
+Another problem with current yield is that it doesn't think about changes in the bond's price over time. If interest rates go up or down, the price of the bond can change, and current yield won't show you how that affects your total return. So, if you're looking at a bond as a long-term investment, current yield can be misleading because it only gives you a snapshot of what you're [earning](/wiki/earning-announcement) right now, not the full picture of what you might earn over time.
 
 ## How does yield to maturity account for reinvestment risk compared to current yield?
 

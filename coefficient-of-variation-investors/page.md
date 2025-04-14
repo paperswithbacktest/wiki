@@ -22,7 +22,7 @@ After dividing the standard deviation by the mean, you usually multiply the resu
 
 ## Why is the coefficient of variation important in statistics?
 
-The coefficient of variation is important in statistics because it helps us understand how spread out a set of data is compared to its average. This is useful because it gives us a way to compare the variability of different groups of data, even if their averages are different. For example, if you want to compare the heights of students in two different schools, the coefficient of variation can tell you which school has more variability in student heights relative to their average height.
+The coefficient of variation is important in [statistics](/wiki/bayesian-statistics) because it helps us understand how spread out a set of data is compared to its average. This is useful because it gives us a way to compare the variability of different groups of data, even if their averages are different. For example, if you want to compare the heights of students in two different schools, the coefficient of variation can tell you which school has more variability in student heights relative to their average height.
 
 In practical terms, the coefficient of variation is used in many fields like finance, where it can help investors understand the risk of different investments by comparing their volatility relative to their expected returns. In quality control, it can be used to assess the consistency of manufacturing processes. By expressing variability as a percentage of the mean, the coefficient of variation provides a standardized measure that is easy to interpret and compare across different contexts.
 

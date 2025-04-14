@@ -84,7 +84,7 @@ Another misconception is that the normal distribution means everything is perfec
 
 ## What is Understanding Normal Distribution?
 
-Normal distribution, also referred to as the Gaussian distribution, is a foundational concept in statistics, widely used due to its distinctive properties and applicability across various fields, including finance. The normal distribution is a continuous probability distribution represented by a bell-shaped curve that is symmetric about the mean. This symmetry indicates that data near the mean are more frequent in occurrence than data far from the mean. 
+Normal distribution, also referred to as the Gaussian distribution, is a foundational concept in [statistics](/wiki/bayesian-statistics), widely used due to its distinctive properties and applicability across various fields, including finance. The normal distribution is a continuous probability distribution represented by a bell-shaped curve that is symmetric about the mean. This symmetry indicates that data near the mean are more frequent in occurrence than data far from the mean. 
 
 In terms of its mathematical expression, the normal distribution is defined by its probability density function (PDF):
 

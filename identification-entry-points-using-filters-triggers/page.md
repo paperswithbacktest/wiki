@@ -32,7 +32,7 @@ Once you have your filters set, they help you narrow down the list of potential 
 
 Traders use different kinds of filters to help them pick the right trades. One common type of filter is volume. This means traders only look at stocks that have a lot of people buying and selling them. High volume can mean the stock is popular and easier to trade. Another filter is price movement. Traders might only want to trade stocks that are going up or down by a certain amount. This helps them find stocks that are moving in a way that fits their plan.
 
-Another type of filter is based on technical indicators. For example, traders might use a moving average filter to only look at stocks that are above or below a certain moving average line. This can help them find stocks that are trending in a good direction. There are also filters based on fundamental analysis, like only trading stocks from companies that have good earnings or a strong balance sheet. These filters help traders focus on companies that are financially healthy.
+Another type of filter is based on technical indicators. For example, traders might use a moving average filter to only look at stocks that are above or below a certain moving average line. This can help them find stocks that are trending in a good direction. There are also filters based on [fundamental analysis](/wiki/fundamental-analysis), like only trading stocks from companies that have good earnings or a strong balance sheet. These filters help traders focus on companies that are financially healthy.
 
 Lastly, some traders use time-based filters. They might only trade during certain times of the day when the market is more active, or they might only look at stocks that have been moving in a certain way over a specific period. All these filters help traders narrow down their choices and find the best entry points for their trades.
 
@@ -70,11 +70,11 @@ Another risk is that you might miss out on good trades if you stick too strictly
 
 Backtesting helps you see how well your filters and triggers would have worked in the past. You take your rules and apply them to old market data to see if they would have made good trades. This can show you if your filters are too strict or too loose, and if your triggers are set at the right prices. By looking at past trades, you can tweak your rules to make them better and avoid common mistakes.
 
-Using backtesting also helps you understand how your strategy might do in different market conditions. You can see how it would have worked during times when the market was going up, down, or staying the same. This can make you more confident in your filters and triggers because you know they've been tested against real data. Even though past results don't guarantee future success, backtesting gives you a solid base to start from and helps you make smarter trading choices.
+Using [backtesting](/wiki/backtesting) also helps you understand how your strategy might do in different market conditions. You can see how it would have worked during times when the market was going up, down, or staying the same. This can make you more confident in your filters and triggers because you know they've been tested against real data. Even though past results don't guarantee future success, backtesting gives you a solid base to start from and helps you make smarter trading choices.
 
 ## What advanced techniques can be used to refine entry point identification using filters and triggers?
 
-To make your entry points better, you can use something called machine learning. This is like teaching a computer to find patterns in the market that you might miss. You give the computer a lot of old market data, and it learns what works best for your filters and triggers. Then, it can help you adjust them to catch even better trades. Machine learning can also look at more than just price and volume, like news and other market data, to give you a fuller picture of when to buy or sell.
+To make your entry points better, you can use something called [machine learning](/wiki/machine-learning). This is like teaching a computer to find patterns in the market that you might miss. You give the computer a lot of old market data, and it learns what works best for your filters and triggers. Then, it can help you adjust them to catch even better trades. Machine learning can also look at more than just price and volume, like news and other market data, to give you a fuller picture of when to buy or sell.
 
 Another way to refine your entry points is by using multiple time frames. This means looking at the same stock on different charts, like daily, hourly, and even minute-by-minute. By doing this, you can see if the short-term and long-term trends line up. If they do, it can make your entry point stronger. Also, combining different types of filters and triggers, like technical and fundamental ones, can give you a more complete view. This helps you make better decisions and find the best moments to enter the market.
 
@@ -86,7 +86,7 @@ In a comprehensive trading system, professional traders also combine filters and
 
 ## What are the Trade Triggers: The Call to Action?
 
-Trade triggers are predefined conditions within algorithmic trading systems that dictate the precise moment to enter a trade. These triggers operate as the operational cue, often based on quantifiable metrics or market conditions, to execute a trade order. The distinct advantage of trade triggers lies in their ability to eliminate ambiguity by specifying exact criteria for trade execution.
+Trade triggers are predefined conditions within [algorithmic trading](/wiki/algorithmic-trading) systems that dictate the precise moment to enter a trade. These triggers operate as the operational cue, often based on quantifiable metrics or market conditions, to execute a trade order. The distinct advantage of trade triggers lies in their ability to eliminate ambiguity by specifying exact criteria for trade execution.
 
 For example, a common trade trigger is when a security's price crosses a moving average line, a widely respected technical indicator. A moving average provides a smoothed representation of price data over a specific period, helping to identify trends. A simple moving average (SMA) is calculated as follows:
 
@@ -125,7 +125,7 @@ Implementing filter and trigger strategies is a critical component in the develo
 
 ### Application in Automated Trading Systems
 
-Filters in automated trading systems are employed to set baseline conditions for entering the market, thereby minimizing risk and avoiding unfavorable trades. These can include various market indicators, such as volatility levels, trading [volume](/wiki/volume-trading-strategy) thresholds, or fundamental data points. Triggers, on the other hand, focus on the exact moments when trading actions should be triggered. This involves identifying specific signals, such as price movements that cross a moving average, or the breakout of resistance levels.
+Filters in automated trading systems are employed to set baseline conditions for entering the market, thereby minimizing risk and avoiding unfavorable trades. These can include various market indicators, such as [volatility](/wiki/volatility-trading-strategies) levels, trading [volume](/wiki/volume-trading-strategy) thresholds, or fundamental data points. Triggers, on the other hand, focus on the exact moments when trading actions should be triggered. This involves identifying specific signals, such as price movements that cross a moving average, or the [breakout](/wiki/breakout-trading) of resistance levels.
 
 The synthesis of filters and triggers in a trading strategy allows for a tiered decision-making process where only opportunities meeting predefined conditions are actioned upon, ensuring precision and efficiency in trade execution.
 

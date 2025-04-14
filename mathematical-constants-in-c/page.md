@@ -144,7 +144,7 @@ The program outputs an adjusted CAGR considering market seasonality, helpful for
 
 ### Conclusion
 
-Incorporating Pi into financial metrics calculation enhances the capability to model cyclical trends effectively. In quantitative finance, such precision and realism in algorithms are essential for competitive trading tactics. By using mathematical constants, traders can leverage sophisticated models that better simulate market behaviors, translating to potentially increased returns in algorithmic trading strategies.
+Incorporating Pi into financial metrics calculation enhances the capability to model cyclical trends effectively. In quantitative finance, such precision and realism in algorithms are essential for competitive trading tactics. By using mathematical constants, traders can leverage sophisticated models that better simulate market behaviors, translating to potentially increased returns in [algorithmic trading](/wiki/algorithmic-trading) strategies.
 
 ## References & Further Reading
 

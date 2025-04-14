@@ -18,7 +18,7 @@ When traders see this pattern, they often get ready to buy the stock because the
 
 The Inverse Head and Shoulders pattern starts forming when a stock or another financial asset has been going down for a while. During this downtrend, the price will drop to a low point, then rise a bit, and then drop again. This first low point is the left shoulder of the pattern. After the left shoulder, the price falls even lower to form the head, which is the lowest point of the pattern. Then, the price rises again before falling one more time, but not as low as the head. This last low point is the right shoulder. 
 
-As the pattern develops, a line called the neckline is drawn to connect the high points between the left shoulder and the head, and between the head and the right shoulder. The neckline acts like a ceiling that the price has trouble breaking through. When the price finally breaks above this neckline, it's a signal that the downtrend might be over and that the price could start going up. Traders watch for this breakout because it tells them it might be a good time to buy the stock.
+As the pattern develops, a line called the neckline is drawn to connect the high points between the left shoulder and the head, and between the head and the right shoulder. The neckline acts like a ceiling that the price has trouble breaking through. When the price finally breaks above this neckline, it's a signal that the downtrend might be over and that the price could start going up. Traders watch for this [breakout](/wiki/breakout-trading) because it tells them it might be a good time to buy the stock.
 
 ## What are the key components of an Inverse Head and Shoulders pattern?
 
@@ -58,7 +58,7 @@ Another strategy is to not put all your money into one trade. Instead of using a
 
 ## How does volume play a role in confirming the Inverse Head and Shoulders pattern?
 
-Volume is really important when you're looking at the Inverse Head and Shoulders pattern. It helps you know if the pattern is strong or not. When the price is making the left shoulder, head, and right shoulder, you usually want to see less volume. That means fewer people are trading, and the price is going down without much energy. But when the price starts to go up from the right shoulder and breaks above the neckline, you want to see a lot more volume. More volume means more people are buying the stock, and that's a good sign that the price might keep going up.
+Volume is really important when you're looking at the Inverse Head and Shoulders pattern. It helps you know if the pattern is strong or not. When the price is making the left shoulder, head, and right shoulder, you usually want to see less [volume](/wiki/volume-trading-strategy). That means fewer people are trading, and the price is going down without much energy. But when the price starts to go up from the right shoulder and breaks above the neckline, you want to see a lot more volume. More volume means more people are buying the stock, and that's a good sign that the price might keep going up.
 
 So, when you see the volume get bigger as the price breaks the neckline, it's a good hint that the pattern is working. If the volume stays low when the price breaks the neckline, the pattern might not be as strong, and the price might not go up as much as you hope. By watching the volume, you can feel more sure about when to buy the stock and if the Inverse Head and Shoulders pattern is a good sign to follow.
 

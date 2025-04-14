@@ -86,7 +86,7 @@ Another way to customize the CCI is by adjusting the overbought and oversold thr
 
 The Commodity Channel Index (CCI) indicator is a tool used in technical analysis to measure the current price level relative to an average price level over a specified period. This measurement helps identify the strength and direction of the market, assisting traders in making informed decisions. The CCI was originally developed by Donald R. Lambert in 1980 for use in the commodities market. However, its adaptability and effectiveness have led to its widespread application across various securities, including stocks and exchange-traded funds (ETFs).
 
-The CCI operates as an oscillator, fluctuating between positive and negative values. Typically, readings above +100 suggest that a security may be overbought, indicating a possible downturn or selling opportunity, while readings below -100 imply that a security could be oversold, suggesting a potential upturn or buying opportunity. This binary overbought/oversold framework is a valuable part of many trading strategies, aiding in the timing of entry and exit points.
+The CCI operates as an oscillator, fluctuating between positive and negative values. Typically, readings above +100 suggest that a security may be overbought, indicating a possible downturn or selling opportunity, while readings below -100 imply that a security could be oversold, suggesting a potential upturn or buying opportunity. This binary overbought/oversold framework is a valuable part of many trading strategies, aiding in the timing of entry and [exit](/wiki/exit-strategy) points.
 
 Understanding the calculation of the CCI is essential for traders to leverage this tool effectively. The CCI formula is as follows:
 

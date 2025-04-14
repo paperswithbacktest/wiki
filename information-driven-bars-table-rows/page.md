@@ -82,7 +82,7 @@ To make information-driven bars better over time, you can keep testing and updat
 
 ## What are the types of Information-Driven Bars?
 
-Information-driven bars present a sophisticated approach to data sampling in algorithmic trading by dynamically adjusting sampling frequency in response to market activity. Here, we explore three primary types of information-driven bars: Tick Imbalance Bars, Volume/Dollar Imbalance Bars, and Tick/Volume/Dollar Run Bars.
+Information-driven bars present a sophisticated approach to data sampling in [algorithmic trading](/wiki/algorithmic-trading) by dynamically adjusting sampling frequency in response to market activity. Here, we explore three primary types of information-driven bars: Tick Imbalance Bars, Volume/Dollar Imbalance Bars, and Tick/Volume/Dollar Run Bars.
 
 **Tick Imbalance Bars** sample data based on significant imbalances in trade direction. This method focuses on capturing the moments in market activity when the number of trades executed in one direction (buy or sell) greatly exceeds the number in the opposite direction. The idea is to identify and highlight conditions where market sentiment may be shifting, thereby offering a more accurate reflection of supply and demand dynamics. These imbalances can be quantified using formulas that compare cumulative tick volumes over a specified analytical window, subsequently determining the threshold for sampling based on pre-defined imbalance criteria.
 

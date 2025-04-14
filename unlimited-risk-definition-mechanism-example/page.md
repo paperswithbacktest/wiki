@@ -28,7 +28,7 @@ This is why it's called unlimited risk. Your losses can keep growing without any
 
 ## What types of financial instruments typically carry unlimited risk?
 
-The main financial instruments that carry unlimited risk are options, especially when you sell them without owning the underlying asset. This is called selling naked options. When you sell a naked call option, you're promising to sell a stock at a certain price if the buyer of the option wants it. If the stock price goes up a lot after you sell the option, you have to buy the stock at the higher price and sell it at the lower price you promised. The more the stock price rises, the more money you lose, and there's no limit to how high the stock price can go.
+The main financial instruments that [carry](/wiki/carry-trading) unlimited risk are options, especially when you sell them without owning the underlying asset. This is called selling naked options. When you sell a naked call option, you're promising to sell a stock at a certain price if the buyer of the option wants it. If the stock price goes up a lot after you sell the option, you have to buy the stock at the higher price and sell it at the lower price you promised. The more the stock price rises, the more money you lose, and there's no limit to how high the stock price can go.
 
 Another type of financial instrument that can carry unlimited risk is short selling. When you short sell a stock, you borrow the stock and sell it, hoping to buy it back later at a lower price to make a profit. But if the stock price goes up instead of down, you have to buy it back at the higher price to return it to the lender. The more the stock price goes up, the more money you lose, and there's no limit to how high the stock price can go. Both selling naked options and short selling can lead to unlimited losses if the market moves against you.
 
@@ -36,7 +36,7 @@ Another type of financial instrument that can carry unlimited risk is short sell
 
 Unlimited risk happens when you can lose a lot of money, and there's no limit to how much you could lose. This often happens when you sell options without owning the thing the option is about, like selling a naked call option on a stock. When you sell a naked call option, you promise to sell the stock at a certain price if the person who bought the option wants it. If the stock price goes up a lot after you sell the option, you have to buy the stock at the higher price and sell it at the lower price you promised. The more the stock price goes up, the more money you lose, and there's no limit to how high the stock price can go.
 
-Another key factor that contributes to unlimited risk is short selling. When you short sell a stock, you borrow the stock and sell it, hoping to buy it back later at a lower price to make a profit. But if the stock price goes up instead of down, you have to buy it back at the higher price to return it to the lender. The more the stock price goes up, the more money you lose, and there's no limit to how high the stock price can go. Both selling naked options and short selling can lead to unlimited losses if the market moves against you.
+Another key [factor](/wiki/factor-investing) that contributes to unlimited risk is short selling. When you short sell a stock, you borrow the stock and sell it, hoping to buy it back later at a lower price to make a profit. But if the stock price goes up instead of down, you have to buy it back at the higher price to return it to the lender. The more the stock price goes up, the more money you lose, and there's no limit to how high the stock price can go. Both selling naked options and short selling can lead to unlimited losses if the market moves against you.
 
 ## How can an investor assess the level of unlimited risk in a potential investment?
 
@@ -84,7 +84,7 @@ Another advanced technique is using mathematical models, like the Black-Scholes 
 
 ## What are the Risk Management Strategies in Algorithmic Trading?
 
-Effective risk management strategies are essential for mitigating unlimited risks inherent in algorithmic trading. These strategies encompass various methods designed to protect against adverse market conditions and unpredictable fluctuations, ultimately aiming to preserve capital and enhance profitability.
+Effective risk management strategies are essential for mitigating unlimited risks inherent in [algorithmic trading](/wiki/algorithmic-trading). These strategies encompass various methods designed to protect against adverse market conditions and unpredictable fluctuations, ultimately aiming to preserve capital and enhance profitability.
 
 One of the fundamental techniques employed is the implementation of stop-loss orders. Stop-loss orders are predetermined price limits set to automatically sell a position if the market value drops to a certain level. This method effectively limits potential losses by ensuring positions are liquidated before the decrease in value undermines the entire investment. The equation for setting a stop-loss order can be represented as:
 
@@ -119,7 +119,7 @@ model.fit(X_train, y_train)
 predictions = model.predict(X_test)
 ```
 
-Continuous backtesting and refinement of trading algorithms are imperative for dealing with diverse market conditions. Backtesting involves running trading strategies on historical data to evaluate their effectiveness and resilience to market changes. This process helps in identifying strategy weaknesses, optimizing parameters, and improving future performance. The formula for calculating the backtest result is:
+Continuous [backtesting](/wiki/backtesting) and refinement of trading algorithms are imperative for dealing with diverse market conditions. Backtesting involves running trading strategies on historical data to evaluate their effectiveness and resilience to market changes. This process helps in identifying strategy weaknesses, optimizing parameters, and improving future performance. The formula for calculating the backtest result is:
 
 $$
 \text{Backtest Result} = \text{Final Portfolio Value} - \text{Initial Portfolio Value}

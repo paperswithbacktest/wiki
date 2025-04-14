@@ -18,7 +18,7 @@ The main purpose of an oil refinery is to make crude oil more useful. Crude oil 
 
 An oil refinery has several main jobs. First, it separates crude oil into different parts. This is done through a process called distillation, where the oil is heated up and the different parts turn into gas at different temperatures. These gases are then cooled down and turned back into liquids. This separation is important because it lets the refinery take the useful parts out of the crude oil.
 
-After separating the oil, the refinery changes these parts into more useful products. This is called conversion. For example, some of the heavier parts of the oil can be turned into lighter fuels like gasoline. The refinery also cleans up these products to make sure they are safe to use. This cleaning process, called treatment, removes things like sulfur that can be harmful to the environment. By doing all these things, the refinery turns crude oil into the fuels and other products we use every day.
+After separating the oil, the refinery changes these parts into more useful products. This is called conversion. For example, some of the heavier parts of the oil can be turned into lighter fuels like gasoline. The refinery also cleans up these products to make sure they are safe to use. This cleaning process, called treatment, removes things like sulfur that can be harmful to the environment. By doing all these things, the refinery turns [crude oil](/wiki/crude-oil) into the fuels and other products we use every day.
 
 ## How does crude oil enter and move through an oil refinery?
 
@@ -90,7 +90,7 @@ U.S. Energy Information Administration. This government resource provides compre
 
 Hull, J. C. *Options, Futures, and Other Derivatives*. A foundational text for understanding derivatives markets, this book offers valuable insights into financial instruments heavily used in trading oil futures and managing risk.
 
-Aldridge, I. *High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems*. This guide outlines the implementation and effects of algorithmic trading systems, including their application and impact within oil markets.
+Aldridge, I. *High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems*. This guide outlines the implementation and effects of [algorithmic trading](/wiki/algorithmic-trading) systems, including their application and impact within oil markets.
 
 These references provide a foundational understanding of the complexities surrounding the oil industry, from historical perspectives and technical processes to modern financial applications and regulatory considerations.
 

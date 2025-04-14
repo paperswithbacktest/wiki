@@ -158,7 +158,7 @@ In summary, managing working capital effectively is vital for maintaining liquid
 
 ## How can Working Capital Management be integrated with Algorithmic Trading?
 
-The integration of working capital management with algorithmic trading represents a cutting-edge approach to modern financial management. At its core, working capital management focuses on managing a company’s short-term assets and liabilities to ensure sufficient liquidity and operational efficiency. When coupled with algorithmic trading, which automates trade executions based on predefined criteria, this integration provides substantial benefits in optimizing asset allocation and risk management strategies.
+The integration of working capital management with [algorithmic trading](/wiki/algorithmic-trading) represents a cutting-edge approach to modern financial management. At its core, working capital management focuses on managing a company’s short-term assets and liabilities to ensure sufficient liquidity and operational efficiency. When coupled with algorithmic trading, which automates trade executions based on predefined criteria, this integration provides substantial benefits in optimizing asset allocation and risk management strategies.
 
 By leveraging technology, businesses can use sophisticated algorithms to monitor and adjust their working capital positions in real-time. This capability is particularly beneficial in dynamic market environments where speed and precision in executing trades can significantly impact a company's financial performance. For instance, algorithms can be designed to automatically adjust the levels of working capital allocated to various investment opportunities based on market indicators.
 
@@ -192,7 +192,7 @@ Overall, the synergy between working capital management and algorithmic trading 
 
 ## References & Further Reading
 
-Lopez de Prado, M. *Advances in Financial Machine Learning*. This work investigates into the integration of machine learning within algorithmic trading. It focuses on how financial data can be processed to improve decision-making processes in trading environments. The text is an essential read for understanding how technological advancements can be harnessed in financial markets to refine trading strategies and promote efficient capital management.
+Lopez de Prado, M. *Advances in Financial Machine Learning*. This work investigates into the integration of [machine learning](/wiki/machine-learning) within algorithmic trading. It focuses on how financial data can be processed to improve decision-making processes in trading environments. The text is an essential read for understanding how technological advancements can be harnessed in financial markets to refine trading strategies and promote efficient capital management.
 
 Aronson, D. *Evidence-Based Technical Analysis*. This book provides a comprehensive overview of rigorously applying scientific methods to technical analysis in trading. It challenges traditional heuristic methods, encouraging a data-driven approach that leverages statistical evidence to inform trading decisions. Such a perspective is crucial in enhancing algorithmic trading systems by grounding them in empirical data rather than speculative methods.
 

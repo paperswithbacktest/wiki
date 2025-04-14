@@ -104,7 +104,7 @@ where $P_{t\_taxed}$ is the post-tax profit in a taxable environment. The increa
 
 Moreover, the assurance of low or no taxes also influences the decision-making process of traders, allowing them to explore trading strategies that might be untenable in higher-tax jurisdictions. Traders can afford to engage in riskier strategies with higher potential returns since the post-tax benefit remains significant. This capability encourages market participation, thereby enhancing [liquidity](/wiki/liquidity-risk-premium) and market efficiency.
 
-In summary, Hong Kong’s tax structure substantially benefits algorithmic traders by maintaining high profitability and encouraging more diverse trading strategies. This makes Hong Kong an attractive destination for algorithmic trading, boosting both individual firm performance and the overall dynamism of its financial markets.
+In summary, Hong Kong’s tax structure substantially benefits algorithmic traders by maintaining high profitability and encouraging more diverse trading strategies. This makes Hong Kong an attractive destination for [algorithmic trading](/wiki/algorithmic-trading), boosting both individual firm performance and the overall dynamism of its financial markets.
 
 ## References & Further Reading
 

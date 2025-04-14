@@ -46,7 +46,7 @@ To find alpha, you need to know how much the benchmark went up and how risky you
 
 ## What are some common strategies to achieve positive alpha?
 
-One common way to achieve positive alpha is by picking stocks that are undervalued. This means finding companies that are worth more than their current stock price suggests. Investors who do this well can buy these stocks at a low price and then sell them later for a profit when the market realizes the true value of the company. This strategy requires a lot of research and understanding of the businesses you're investing in, but it can lead to returns that beat the market.
+One common way to achieve positive alpha is by [picking](/wiki/asset-class-picking) stocks that are undervalued. This means finding companies that are worth more than their current stock price suggests. Investors who do this well can buy these stocks at a low price and then sell them later for a profit when the market realizes the true value of the company. This strategy requires a lot of research and understanding of the businesses you're investing in, but it can lead to returns that beat the market.
 
 Another strategy is active management, where a fund manager tries to beat the market by making smart choices about which stocks to buy and sell. They might use their knowledge and experience to find opportunities that others miss. This can involve a lot of trading and adjusting the portfolio to take advantage of short-term market movements. If the manager is good at this, the fund can achieve positive alpha by outperforming the benchmark.
 

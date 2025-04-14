@@ -82,7 +82,7 @@ There are also risks with ISOs. The biggest risk is that the stock price might g
 
 ## What are potential strategies for combining ISOs and algorithmic trading?
 
-Leveraging algorithmic trading can significantly enhance decision-making regarding the timing of exercising Incentive Stock Options (ISOs). By employing advanced technologies and data analysis, participants can optimize their strategies to maximize the financial benefits of ISOs. Here, we explore potential strategies and models that can be implemented:
+Leveraging [algorithmic trading](/wiki/algorithmic-trading) can significantly enhance decision-making regarding the timing of exercising Incentive Stock Options (ISOs). By employing advanced technologies and data analysis, participants can optimize their strategies to maximize the financial benefits of ISOs. Here, we explore potential strategies and models that can be implemented:
 
 ### Developing Risk Models
 

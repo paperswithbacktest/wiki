@@ -84,7 +84,7 @@ Debugging in Visual Basic helps you find and fix mistakes in your code. You can 
 
 ## What are the key components of an algorithmic trading system?
 
-An effective algorithmic trading system comprises several essential components, each fulfilling a critical role in achieving efficient and profitable trades. These components include research tools, portfolio optimizers, risk managers, and execution engines. The interplay between these parts ensures the trading system operates seamlessly, effectively utilizing available data and executing strategies under varying market conditions.
+An effective [algorithmic trading](/wiki/algorithmic-trading) system comprises several essential components, each fulfilling a critical role in achieving efficient and profitable trades. These components include research tools, portfolio optimizers, risk managers, and execution engines. The interplay between these parts ensures the trading system operates seamlessly, effectively utilizing available data and executing strategies under varying market conditions.
 
 Research tools form the foundation of any algorithmic trading system, as they provide the necessary infrastructure for developing and testing trading strategies. These tools are used to analyze historical data, identify patterns, and simulate potential strategies before they are deployed in live markets. They typically require access to historical market data, fundamental data, and sometimes [alternative data](/wiki/best-alternative-data) sources. The performance requirements for research tools can vary; some tasks might necessitate complex computations and thus demand robust computational resources.
 

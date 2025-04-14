@@ -70,7 +70,7 @@ These rules are set by groups like the Securities and Exchange Commission (SEC) 
 
 ## What strategies can investors use to minimize the impact of expense ratios on their investments?
 
-Investors can minimize the impact of expense ratios by choosing ETFs with lower fees. A good way to do this is to look for ETFs that track big, well-known indexes like the S&P 500. These ETFs usually have lower expense ratios because they are simple to manage. Another strategy is to compare the net expense ratios of different ETFs. Since the net expense ratio is what you actually pay after any discounts, picking ETFs with lower net expense ratios can save you money over time.
+Investors can minimize the impact of expense ratios by choosing ETFs with lower fees. A good way to do this is to look for ETFs that track big, well-known indexes like the S&P 500. These ETFs usually have lower expense ratios because they are simple to manage. Another strategy is to compare the net expense ratios of different ETFs. Since the net expense ratio is what you actually pay after any discounts, [picking](/wiki/asset-class-picking) ETFs with lower net expense ratios can save you money over time.
 
 Another approach is to keep an eye on the expense ratios of the ETFs you already own. Sometimes, the people who run the ETF might change the fees, so it's a good idea to check them every now and then. If you find that the expense ratio of an ETF you own has gone up a lot, you might want to switch to a similar ETF with a lower fee. By being smart about which ETFs you choose and keeping an eye on their costs, you can keep more of your investment returns and grow your money faster.
 

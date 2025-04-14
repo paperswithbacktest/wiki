@@ -72,7 +72,7 @@ Investors should pay attention to these sector-specific factors when choosing st
 
 ## What are the historical performances of dividend yield strategies during past economic downturns?
 
-During past economic downturns, dividend yield strategies have had mixed results. In the Great Recession of 2007-2009, many companies cut their dividends because they were making less money and needed to save cash. This made it hard for investors who were relying on dividend income. But some companies, especially those in stable sectors like utilities and consumer goods, were able to keep paying their dividends. These companies helped investors who had chosen them carefully, showing that picking the right stocks can make a big difference during tough times.
+During past economic downturns, dividend yield strategies have had mixed results. In the Great Recession of 2007-2009, many companies cut their dividends because they were making less money and needed to save cash. This made it hard for investors who were relying on dividend income. But some companies, especially those in stable sectors like utilities and consumer goods, were able to keep paying their dividends. These companies helped investors who had chosen them carefully, showing that [picking](/wiki/asset-class-picking) the right stocks can make a big difference during tough times.
 
 In the economic downturn caused by the COVID-19 pandemic in 2020, dividend yield strategies faced similar challenges. Many companies, especially in sectors like travel and hospitality, had to cut or stop their dividends because people were not spending money on non-essential things. However, companies in sectors that people always need, like healthcare and consumer staples, were more likely to keep their dividends going. Investors who focused on these stable sectors and used dividend reinvestment plans (DRIPs) to buy more shares at lower prices were able to do better during the downturn. This shows that while economic downturns can be tough on dividend strategies, smart choices and a focus on stability can help investors come out ahead.
 
@@ -90,7 +90,7 @@ $$
 \text{Dividend Yield} = \left( \frac{\text{Annual Dividends per Share}}{\text{Price per Share}} \right) \times 100
 $$
 
-This percentage provides investors with an insight into the income generated from their investment, independent of capital gains. High-dividend-yield stocks are often considered a reliable source of income, particularly when markets experience volatility. These stocks tend to be issued by well-established companies with stable earnings, thus offering a steady income stream even when market conditions are unfavorable.
+This percentage provides investors with an insight into the income generated from their investment, independent of capital gains. High-dividend-yield stocks are often considered a reliable source of income, particularly when markets experience [volatility](/wiki/volatility-trading-strategies). These stocks tend to be issued by well-established companies with stable earnings, thus offering a steady income stream even when market conditions are unfavorable.
 
 High-dividend-yield stocks can serve as a protective mechanism during economic downturns. During such periods, companies with robust financial health that maintain dividend payments offer a level of certainty for investors seeking stability. The regular income from dividends can help mitigate the diminished value of stock holdings, providing a buffer against market fluctuations.
 

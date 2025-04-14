@@ -44,7 +44,7 @@ But then, something happens that makes people doubt the high prices. Maybe a com
 
 Low interest rates can help create speculative bubbles. When interest rates are low, it's cheaper for people to borrow money. They might use this money to buy things they think will go up in value, like stocks or houses. This can push prices higher and higher. Also, when interest rates are low, people might look for other ways to make money, so they invest in risky things hoping for big returns.
 
-Another factor is too much money chasing too few investments. When people have a lot of money to invest, they might all start buying the same thing, thinking it will keep going up in value. This can drive prices up to levels that aren't based on what the thing is really worth. It's like a game where everyone is trying to buy something before the price goes even higher. But if everyone tries to sell at the same time, the bubble can burst.
+Another [factor](/wiki/factor-investing) is too much money chasing too few investments. When people have a lot of money to invest, they might all start buying the same thing, thinking it will keep going up in value. This can drive prices up to levels that aren't based on what the thing is really worth. It's like a game where everyone is trying to buy something before the price goes even higher. But if everyone tries to sell at the same time, the bubble can burst.
 
 Lastly, easy access to credit can fuel speculative bubbles. When banks and other lenders make it easy for people to borrow money, more people can buy things they think will go up in value. This can lead to a lot of buying and even higher prices. But if people can't pay back their loans, it can cause problems when the bubble bursts.
 

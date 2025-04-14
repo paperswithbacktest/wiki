@@ -36,7 +36,7 @@ Another important part of deciding to issue new currency is keeping the economy 
 
 Canadian currency comes in different sizes for both coins and paper money. The coins are worth 5 cents, which people call a nickel, 10 cents called a dime, 25 cents known as a quarter, 1 dollar called a loonie because it has a loon bird on it, and 2 dollars known as a toonie. These coins are used every day for small purchases.
 
-The paper money, or banknotes, come in larger amounts. You can find banknotes worth 5 dollars, 10 dollars, 20 dollars, 50 dollars, and 100 dollars. These bills are used for bigger purchases or when you need to carry more money. All these different amounts help people buy things they need, from a small candy to a big item.
+The paper money, or banknotes, come in larger amounts. You can find banknotes worth 5 dollars, 10 dollars, 20 dollars, 50 dollars, and 100 dollars. These bills are used for bigger purchases or when you need to [carry](/wiki/carry-trading) more money. All these different amounts help people buy things they need, from a small candy to a big item.
 
 ## How often does Canada introduce new banknote designs?
 
@@ -84,7 +84,7 @@ Another trend that could affect how the Bank of Canada issues money is the way p
 
 Currency issuance in Canada is primarily governed by the Bank of Canada, which plays a pivotal role in the nation's monetary policy framework. Established in 1935, the Bank of Canada acts as the central bank, responsible for designing and implementing monetary policies that ensure price stability and sustainable economic growth. One of its core functions involves the issuance of currency.
 
-The Bank of Canada issues currency through a process that includes the purchase of financial assets, predominantly government bonds. By acquiring these assets, the central bank injects liquidity into the financial system, thereby increasing the monetary supply. This process is not merely about augmenting the physical currency but enhancing the overall money supply available in the economy, which comprises both physical cash and digital money used for transactions.
+The Bank of Canada issues currency through a process that includes the purchase of financial assets, predominantly government bonds. By acquiring these assets, the central bank injects [liquidity](/wiki/liquidity-risk-premium) into the financial system, thereby increasing the monetary supply. This process is not merely about augmenting the physical currency but enhancing the overall money supply available in the economy, which comprises both physical cash and digital money used for transactions.
 
 In addition to the central bank's efforts, private banks contribute significantly to the expansion of the money supply. They accomplish this primarily through the issuance of new loans. When a bank extends a loan to a borrower, it effectively creates new money. This stems from the banking practice known as fractional-reserve banking, wherein banks are required to keep only a fraction of deposits as reserves while the remainder can be utilized for lending. The formula to determine the maximum amount of money that can be created with a given reserve requirement is:
 

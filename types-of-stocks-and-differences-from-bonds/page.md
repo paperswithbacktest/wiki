@@ -40,7 +40,7 @@ Bonds, on the other hand, generate returns in a more predictable way. When you b
 
 ## What are growth stocks and how do they differ from value stocks?
 
-Growth stocks are stocks from companies that are expected to grow a lot in the future. These companies usually put their money back into the business to make it bigger instead of paying dividends to shareholders. Because people think these companies will do well, the price of their stock can go up a lot. But, growth stocks can be risky because if the company doesn't grow as expected, the stock price can drop a lot too.
+Growth stocks are stocks from companies that are expected to grow a lot in the future. These companies usually put their money back into the business to make it bigger instead of paying dividends to shareholders. Because people think these companies will do well, the price of their stock can go up a lot. But, [growth stocks](/wiki/growth-stocks) can be risky because if the company doesn't grow as expected, the stock price can drop a lot too.
 
 Value stocks are different. They come from companies that people think are not priced right, meaning the stock price is lower than what the company is really worth. These companies might not grow as fast as growth companies, but they can be a good deal because you're buying them for less than they're worth. Value stocks might also pay dividends, which can give you some regular income. The risk with value stocks is that sometimes they're cheap for a reason, like if the company is having problems.
 
@@ -82,11 +82,11 @@ Investing in bonds has different tax rules. The interest you get from bonds is u
 
 ## What are the strategies for algorithmic trading?
 
-Algorithmic trading has revolutionized financial markets by providing systematic methods for executing trades with precision and speed. A variety of strategies can be employed to optimize trading performance, each tailored to specific market conditions and investor goals. Let's examine some prevalent algorithmic trading strategies, which include trend following, arbitrage, and index fund rebalancing.
+Algorithmic trading has revolutionized financial markets by providing systematic methods for executing trades with precision and speed. A variety of strategies can be employed to optimize trading performance, each tailored to specific market conditions and investor goals. Let's examine some prevalent [algorithmic trading](/wiki/algorithmic-trading) strategies, which include [trend following](/wiki/trend-following), [arbitrage](/wiki/arbitrage), and index fund rebalancing.
 
 ### Trend Following
 
-Trend following is a strategy that aims to capitalize on market [momentum](/wiki/momentum) by executing trades based on the direction of market trends. Traders using this strategy rely on technical indicators such as moving averages or the Moving Average Convergence Divergence (MACD) to identify buy or sell signals. The core principle is to "ride the trend" and exit the trade once the trend reverses.
+Trend following is a strategy that aims to capitalize on market [momentum](/wiki/momentum) by executing trades based on the direction of market trends. Traders using this strategy rely on technical indicators such as moving averages or the Moving Average Convergence Divergence (MACD) to identify buy or sell signals. The core principle is to "ride the trend" and [exit](/wiki/exit-strategy) the trade once the trend reverses.
 
 The mathematical expression often used in trend following might involve simple moving averages (SMA). For instance, a common approach could be:
 

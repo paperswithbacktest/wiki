@@ -22,7 +22,7 @@ Another key difference is that RBOB is used to help reduce harmful emissions fro
 
 ## What are the primary components of RBOB?
 
-RBOB is made up of several key parts that come together to form a base gasoline. The main part is hydrocarbons, which are the building blocks of gasoline. These hydrocarbons come from crude oil and are refined to make the liquid fuel we use in cars. RBOB also has additives mixed in to help the engine run smoothly and keep the fuel system clean. These additives can include detergents and corrosion inhibitors.
+RBOB is made up of several key parts that come together to form a base gasoline. The main part is hydrocarbons, which are the building blocks of gasoline. These hydrocarbons come from [crude oil](/wiki/crude-oil) and are refined to make the liquid fuel we use in cars. RBOB also has additives mixed in to help the engine run smoothly and keep the fuel system clean. These additives can include detergents and corrosion inhibitors.
 
 Another important part of RBOB is that it does not have oxygenates like ethanol added yet. Oxygenates are added later, at the place where the gasoline is going to be sold. This allows RBOB to be adjusted to meet different local rules about air quality. By not having oxygenates, RBOB can be shipped more easily and then customized to fit the needs of different areas.
 

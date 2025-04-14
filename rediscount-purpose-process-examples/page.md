@@ -64,7 +64,7 @@ Another example could be during a time when the economy is slowing down. A big b
 
 ## How do central banks use rediscount rates as a monetary policy tool?
 
-Central banks use rediscount rates to control how much money is in the economy. When they want more money to be available, they lower the rediscount rate. This makes it cheaper for banks to borrow money from the central bank. Banks can then lend more money to people and businesses, which means there's more money flowing around in the economy. It's like turning up the volume on a radio to make it louder.
+Central banks use rediscount rates to control how much money is in the economy. When they want more money to be available, they lower the rediscount rate. This makes it cheaper for banks to borrow money from the central bank. Banks can then lend more money to people and businesses, which means there's more money flowing around in the economy. It's like turning up the [volume](/wiki/volume-trading-strategy) on a radio to make it louder.
 
 On the other hand, if the central bank wants to slow down the economy and reduce the amount of money, it raises the rediscount rate. This makes it more expensive for banks to borrow money. As a result, banks will lend less money, and there will be less money in the economy. It's like turning down the volume on a radio to make it quieter. By adjusting the rediscount rate, the central bank can help keep the economy balanced and stable.
 
@@ -72,7 +72,7 @@ On the other hand, if the central bank wants to slow down the economy and reduce
 
 Rediscounting is different from other ways banks get money because it involves using loans the bank has already given out as a kind of promise to get cash from the central bank. For example, if a bank gave a loan to a business, it can take that loan to the central bank and get money right away. The central bank will charge interest on this money, and the bank has to pay it back. This is helpful when a bank needs quick cash but it can be risky if the original loans don't get paid back.
 
-Other ways banks can get money include taking loans directly from other banks or financial institutions, or by selling bonds to investors. When a bank takes a loan from another bank, it's usually for a set amount of time and has its own interest rate. Selling bonds means the bank is borrowing from people who buy the bonds, and it promises to pay them back with interest over time. These methods don't involve using existing loans as collateral like rediscounting does, and they can have different terms and risks.
+Other ways banks can get money include taking loans directly from other banks or financial institutions, or by selling bonds to investors. When a bank takes a loan from another bank, it's usually for a set amount of time and has its own [interest rate](/wiki/interest-rate-trading-strategies). Selling bonds means the bank is borrowing from people who buy the bonds, and it promises to pay them back with interest over time. These methods don't involve using existing loans as collateral like rediscounting does, and they can have different terms and risks.
 
 ## How has the role of rediscounting evolved in modern financial systems?
 

@@ -54,7 +54,7 @@ This method can be more accurate than the square root of time rule because it us
 
 ## What role does the scaling factor play in VaR conversion, and how is it determined?
 
-The scaling factor is a number used to change the VaR from one time period to another. It helps make sure the VaR is right for the new time period. For example, if you want to change the daily VaR to a 10-day VaR, the scaling factor tells you how much to multiply the daily VaR by. The scaling factor is important because it makes sure the VaR stays accurate when you look at different time periods.
+The scaling [factor](/wiki/factor-investing) is a number used to change the VaR from one time period to another. It helps make sure the VaR is right for the new time period. For example, if you want to change the daily VaR to a 10-day VaR, the scaling factor tells you how much to multiply the daily VaR by. The scaling factor is important because it makes sure the VaR stays accurate when you look at different time periods.
 
 To find the scaling factor, people often use the square root of time rule. This rule says the scaling factor is the square root of how many short periods fit into the longer period. For a 10-day VaR from a daily VaR, you would use the square root of 10, which is about 3.16. But this rule is not always perfect. Sometimes, people use other ways to find the scaling factor, like looking at past data or using more complicated math. This can make the VaR more accurate, especially when the risk doesn't grow in a simple way.
 
@@ -72,7 +72,7 @@ Another method is using a copula approach. Copulas help you understand how diffe
 
 ## How can one validate the accuracy of VaR conversion methods across different time periods?
 
-To check if the VaR conversion methods are working well across different time periods, you can use something called backtesting. Backtesting means you take the VaR numbers you got from your method and see if they match what really happened in the past. For example, if your 10-day VaR said you had a 5% chance of losing more than $1 million, you would look at the past 10-day periods and see if you lost more than $1 million in 5% of those times. If it's close, your VaR conversion method is probably good. If it's way off, you might need to change how you do it.
+To check if the VaR conversion methods are working well across different time periods, you can use something called [backtesting](/wiki/backtesting). Backtesting means you take the VaR numbers you got from your method and see if they match what really happened in the past. For example, if your 10-day VaR said you had a 5% chance of losing more than $1 million, you would look at the past 10-day periods and see if you lost more than $1 million in 5% of those times. If it's close, your VaR conversion method is probably good. If it's way off, you might need to change how you do it.
 
 Another way to make sure your VaR conversion is accurate is by using stress testing. Stress testing means you look at what would happen if things went really bad, like a big market crash. You take your VaR numbers and see if they still make sense when everything is going wrong. If your VaR still seems right even in these tough times, it's a good sign that your conversion method is working well. Both backtesting and stress testing help you trust your VaR numbers more, so you can manage your risks better.
 

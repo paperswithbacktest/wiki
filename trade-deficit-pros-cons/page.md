@@ -34,7 +34,7 @@ This situation can lead to the currency's value going down. When the currency is
 
 ## What are the immediate economic impacts of a trade deficit?
 
-When a country has a trade deficit, it means it's spending more money on imports than it's earning from exports. This can lead to less money being available in the country because the money is going to other countries to pay for the imports. Businesses might struggle to get the money they need to grow or hire more people. Also, the government might need to borrow more money, which can lead to higher interest rates. This makes it more expensive for everyone to borrow money, like for buying a house or starting a business.
+When a country has a trade deficit, it means it's spending more money on imports than it's [earning](/wiki/earning-announcement) from exports. This can lead to less money being available in the country because the money is going to other countries to pay for the imports. Businesses might struggle to get the money they need to grow or hire more people. Also, the government might need to borrow more money, which can lead to higher interest rates. This makes it more expensive for everyone to borrow money, like for buying a house or starting a business.
 
 A big trade deficit can also affect the value of the country's currency. If there's a lot of the country's money being used to buy things from other places, the currency might become less valuable. This can make imports more expensive, which might help reduce the trade deficit over time. But in the short term, it can make things people need, like food or fuel, more expensive. This can lead to higher prices and less money in people's pockets, which can slow down the whole economy.
 

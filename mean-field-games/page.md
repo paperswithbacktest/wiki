@@ -22,7 +22,7 @@ On the other hand, mean field games look at much larger groups, often so big tha
 
 ## What are the basic components of a mean field game?
 
-Mean field games have a few key parts that make them work. The first part is the agents. These are the people or things making decisions in the game. Each agent wants to do what's best for themselves, but they also look at what everyone else is doing. The second part is the state of the system. This is like a snapshot that shows where all the agents are and what they're doing at any moment. The state changes over time as agents make their choices.
+Mean field games have a few key parts that make them work. The first part is the [agents](/wiki/agents). These are the people or things making decisions in the game. Each agent wants to do what's best for themselves, but they also look at what everyone else is doing. The second part is the state of the system. This is like a snapshot that shows where all the agents are and what they're doing at any moment. The state changes over time as agents make their choices.
 
 Another important part is the cost or payoff function. This tells each agent how good or bad their decision is. If an agent's choice leads to a good result, the payoff is high. If it's a bad result, the payoff is low. The last part is the mean field. This is the average behavior of all the agents together. It's like looking at the crowd from far away and seeing the general direction everyone is moving. Agents use this average to help make their own decisions.
 
@@ -103,9 +103,9 @@ The solutions derived from these equations furnish traders with crucial insights
 
 ## What are Case Studies and Simulations?
 
-Case studies and simulations serve as pivotal tools for understanding the practical applications of Mean Field Games (MFG) in algorithmic trading. By analyzing various simulation models, researchers and traders can observe how different levels of market disagreement influence trade dynamics, a [factor](/wiki/factor-investing) critical to adapting strategies in real-time trading environments.
+Case studies and simulations serve as pivotal tools for understanding the practical applications of Mean Field Games (MFG) in [algorithmic trading](/wiki/algorithmic-trading). By analyzing various simulation models, researchers and traders can observe how different levels of market disagreement influence trade dynamics, a [factor](/wiki/factor-investing) critical to adapting strategies in real-time trading environments.
 
-One significant insight from simulation studies is the effect of heterogeneous beliefs among traders on market volatility and liquidity. When traders operate under different assumptions and information sets, their collective actions can lead to increased market fluctuations. Simulations allow for the quantification of this impact by varying parameters that represent trader perceptions and observing the consequent changes in market behavior. 
+One significant insight from simulation studies is the effect of heterogeneous beliefs among traders on market [volatility](/wiki/volatility-trading-strategies) and [liquidity](/wiki/liquidity-risk-premium). When traders operate under different assumptions and information sets, their collective actions can lead to increased market fluctuations. Simulations allow for the quantification of this impact by varying parameters that represent trader perceptions and observing the consequent changes in market behavior. 
 
 For instance, in a simulated market with a set number of traders, if the disagreement level among traders is high, the resulting trading activity might lead to sharper price movements and higher volatility compared to a scenario with a consensus-driven market. This can be modeled using an agent-based simulation where each trader's strategy updates based on personal utility functions and market observations. 
 

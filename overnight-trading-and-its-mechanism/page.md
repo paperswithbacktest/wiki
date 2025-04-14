@@ -36,7 +36,7 @@ One important thing about overnight trading is that news and events can happen w
 
 Stocks are one of the most common assets traded overnight. When the main stock markets are closed, traders can still buy and sell stocks using electronic trading platforms. These platforms let traders trade even when the big stock exchanges are not open. The prices of stocks can change a lot during overnight trading because fewer people are trading. This means that if you want to buy or sell a stock, it might be harder to find someone to trade with.
 
-Another type of asset commonly traded overnight is currencies. The foreign exchange market, or forex market, is open 24 hours a day, so traders can buy and sell different currencies at any time. This makes it easy to trade currencies overnight. Just like with stocks, the prices of currencies can change a lot during overnight trading. Traders need to keep an eye on the news and be ready to make quick decisions because important events can happen while the markets are closed.
+Another type of asset commonly traded overnight is currencies. The foreign exchange market, or [forex](/wiki/forex-system) market, is open 24 hours a day, so traders can buy and sell different currencies at any time. This makes it easy to trade currencies overnight. Just like with stocks, the prices of currencies can change a lot during overnight trading. Traders need to keep an eye on the news and be ready to make quick decisions because important events can happen while the markets are closed.
 
 Futures and options are also often traded overnight. These are contracts that let traders buy or sell something at a set price in the future. Like stocks and currencies, futures and options can be traded on electronic platforms when the main markets are closed. The prices of these contracts can change a lot overnight, so traders need to be careful and know what they're doing.
 
@@ -84,7 +84,7 @@ Lastly, you can manage the risks by focusing on trading assets that are more lik
 
 Many advanced tools and platforms support overnight trading. One popular platform is the Electronic Communication Network (ECN), which lets traders buy and sell stocks and other things even when the main stock markets are closed. ECNs connect buyers and sellers directly, so you can trade anytime, day or night. Another tool is trading software like MetaTrader 4 or 5, which is often used for trading currencies in the forex market. These platforms have lots of features that can help you trade overnight, like charts and tools to analyze the market.
 
-Other platforms that support overnight trading include Interactive Brokers and Thinkorswim. These platforms offer advanced features like real-time data, customizable charts, and the ability to set up automated trading strategies. This means you can set rules for your trades to happen automatically, even when you're not watching the market. These tools can help you manage the risks of overnight trading by giving you more information and control over your trades.
+Other platforms that support overnight trading include [Interactive Brokers](/wiki/interactive-brokers-api) and Thinkorswim. These platforms offer advanced features like real-time data, customizable charts, and the ability to set up automated trading strategies. This means you can set rules for your trades to happen automatically, even when you're not watching the market. These tools can help you manage the risks of overnight trading by giving you more information and control over your trades.
 
 ## References & Further Reading
 

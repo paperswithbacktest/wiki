@@ -82,9 +82,9 @@ Another criticism of the Ichimoku Kinko Hyo is that it works best in trending ma
 
 ## What is Understanding Ichimoku Kinko Hyo?
 
-Ichimoku Kinko Hyo, commonly known as Ichimoku Cloud, was developed by Japanese journalist Goichi Hosada in the late 1930s, becoming widely available in the 1960s after decades of research and refinement. The term "Ichimoku Kinko Hyo" translates to "one look equilibrium chart," reflecting its purpose of providing a comprehensive snapshot of market sentiment at a glance. This technical indicator is extensively utilized across various financial markets, including stocks, forex, and commodities.
+Ichimoku Kinko Hyo, commonly known as Ichimoku Cloud, was developed by Japanese journalist Goichi Hosada in the late 1930s, becoming widely available in the 1960s after decades of research and refinement. The term "Ichimoku Kinko Hyo" translates to "one look equilibrium chart," reflecting its purpose of providing a comprehensive snapshot of market sentiment at a glance. This technical indicator is extensively utilized across various financial markets, including stocks, [forex](/wiki/forex-system), and commodities.
 
-The Ichimoku Kinko Hyo consists of five distinct components, each contributing unique insights into market trends, momentum, and potential support and resistance levels:
+The Ichimoku Kinko Hyo consists of five distinct components, each contributing unique insights into market trends, [momentum](/wiki/momentum), and potential support and resistance levels:
 
 1. **Tenkan-sen (Conversion Line)**:
    - **Calculation**: The average of the highest high and the lowest low over the past 9 periods:

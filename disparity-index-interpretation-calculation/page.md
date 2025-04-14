@@ -97,7 +97,7 @@ The Disparity Index is an essential tool for assessing market conditions as it h
 
 ### Interpretation of Disparity Index Values
 
-Interpreting the Disparity Index involves analyzing its values in relation to market conditions. Generally, a Disparity Index value above a threshold (e.g., +10%) indicates that the asset might be overbought, while a value below a lower threshold (e.g., -10%) suggests the asset might be oversold. Traders often consider these thresholds to time their entry and exit strategies effectively.
+Interpreting the Disparity Index involves analyzing its values in relation to market conditions. Generally, a Disparity Index value above a threshold (e.g., +10%) indicates that the asset might be overbought, while a value below a lower threshold (e.g., -10%) suggests the asset might be oversold. Traders often consider these thresholds to time their entry and [exit](/wiki/exit-strategy) strategies effectively.
 
 ### Practical Applications and Examples
 

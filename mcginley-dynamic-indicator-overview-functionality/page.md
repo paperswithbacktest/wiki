@@ -42,7 +42,7 @@ The last part of the formula is k, which is a constant number usually set to 0.6
 
 The McGinley Dynamic Indicator is used in technical analysis to help traders make better decisions about when to buy or sell stocks. It works by following the market's price more closely than traditional moving averages. Traders look at the McGinley Dynamic Indicator to see if it's going up or down. If the indicator is going up, it might mean the stock price will go up too, so traders might want to buy. If the indicator is going down, it could mean the stock price will go down, so traders might want to sell.
 
-Traders also use the McGinley Dynamic Indicator to find good times to enter or exit trades. For example, if the indicator crosses above the current price, it might be a good time to buy. If it crosses below the current price, it might be a good time to sell. By using the McGinley Dynamic Indicator, traders can make more informed decisions and try to buy low and sell high. This can help them make more money and avoid losing money on bad trades.
+Traders also use the McGinley Dynamic Indicator to find good times to enter or [exit](/wiki/exit-strategy) trades. For example, if the indicator crosses above the current price, it might be a good time to buy. If it crosses below the current price, it might be a good time to sell. By using the McGinley Dynamic Indicator, traders can make more informed decisions and try to buy low and sell high. This can help them make more money and avoid losing money on bad trades.
 
 ## What are the default settings for the McGinley Dynamic Indicator and can they be adjusted?
 

@@ -20,7 +20,7 @@ Event-driven trading strategies focus on reacting quickly to specific events or 
 
 In contrast, other trading strategies might not rely as heavily on immediate news or events. For example, trend-following strategies look at long-term patterns in the market and try to ride those trends for profit. These traders might hold onto their investments for weeks, months, or even years. Another common strategy is value investing, where traders look for stocks that they believe are undervalued and hold them until the market recognizes their true value. Unlike event-driven trading, these strategies are more about patience and long-term analysis rather than quick reactions to news.
 
-The key difference between event-driven trading and other strategies lies in their time horizon and focus. Event-driven trading is short-term and reactive, requiring traders to be alert and agile. Other strategies like trend following or value investing take a longer view and are more about steady analysis and waiting for the right moment. Each type of strategy carries its own set of risks and rewards, and the choice between them depends on a trader's goals, risk tolerance, and how much time they can dedicate to monitoring the markets.
+The key difference between event-driven trading and other strategies lies in their time horizon and focus. Event-driven trading is short-term and reactive, requiring traders to be alert and agile. Other strategies like [trend following](/wiki/trend-following) or value investing take a longer view and are more about steady analysis and waiting for the right moment. Each type of strategy carries its own set of risks and rewards, and the choice between them depends on a trader's goals, risk tolerance, and how much time they can dedicate to monitoring the markets.
 
 ## What types of events are typically considered in event-driven trading?
 
@@ -62,7 +62,7 @@ Another way technology helps is by making trades happen fast. With fast computer
 
 When traders want to see how well their event-driven trading strategies are doing, they look at a few key numbers. One important number is the return on investment, or ROI. This tells them how much money they made or lost compared to what they started with. Another number they check is the win rate, which shows how often their trades make money. If a trader's win rate is high, it means they're guessing right about the market a lot of the time. They also look at the risk-reward ratio, which helps them understand if the possible gains from a trade are worth the risk of losing money.
 
-Another set of numbers traders use are drawdowns and volatility. Drawdowns show the biggest drop in the value of their trading account from its highest point. This helps traders see how much they could lose at the worst times. Volatility measures how much the prices of the stocks they're trading go up and down. If the prices are moving a lot, it can be riskier but also offer more chances to make money. By keeping an eye on these numbers, traders can figure out if their event-driven trading strategies are working well and if they need to make any changes.
+Another set of numbers traders use are drawdowns and [volatility](/wiki/volatility-trading-strategies). Drawdowns show the biggest drop in the value of their trading account from its highest point. This helps traders see how much they could lose at the worst times. Volatility measures how much the prices of the stocks they're trading go up and down. If the prices are moving a lot, it can be riskier but also offer more chances to make money. By keeping an eye on these numbers, traders can figure out if their event-driven trading strategies are working well and if they need to make any changes.
 
 ## How do regulatory changes impact event-driven trading?
 
@@ -72,7 +72,7 @@ However, regulatory changes can also make event-driven trading harder. Sometimes
 
 ## What advanced techniques can be used to improve the accuracy of event-driven trading models?
 
-To make event-driven trading models more accurate, traders can use something called machine learning. This is a kind of computer program that can learn from past data and get better over time. By looking at old news and how the market reacted to it, the program can start to guess better how the market might move in the future. Traders can also use something called natural language processing, which is a way for computers to understand and read news articles. This helps the trading model pick up on important news faster and understand what it means for the market.
+To make event-driven trading models more accurate, traders can use something called [machine learning](/wiki/machine-learning). This is a kind of computer program that can learn from past data and get better over time. By looking at old news and how the market reacted to it, the program can start to guess better how the market might move in the future. Traders can also use something called natural language processing, which is a way for computers to understand and read news articles. This helps the trading model pick up on important news faster and understand what it means for the market.
 
 Another advanced technique is to use more data from different places. Instead of just looking at news, traders can also look at things like social media, company reports, and even satellite images to get a fuller picture of what's going on. This can help them spot events that might not be in the news yet but could still move the market. By combining all this data, traders can make their guesses about the market more accurate and find more chances to make money.
 
@@ -84,7 +84,7 @@ However, not all event-driven trades work out so well. In this case, the deal be
 
 ## What is an Event-Driven Strategy?
 
-Event-driven strategies in algorithmic trading are focused on capitalizing on market inefficiencies that arise from corporate or macroeconomic events such as earnings announcements, mergers and acquisitions, or bankruptcies. These strategies are designed to exploit the price discrepancies that typically occur before or after an event takes place.
+Event-driven strategies in [algorithmic trading](/wiki/algorithmic-trading) are focused on capitalizing on market inefficiencies that arise from corporate or macroeconomic events such as earnings announcements, mergers and acquisitions, or bankruptcies. These strategies are designed to exploit the price discrepancies that typically occur before or after an event takes place.
 
 Institutional investors, including private equity firms and hedge funds, predominantly utilize event-driven strategies due to their expertise in evaluating and interpreting such events. These entities leverage their analytical skills to assess the potential impact of the events and derive trading strategies that aim to generate profits from temporary mispricings in the market.
 

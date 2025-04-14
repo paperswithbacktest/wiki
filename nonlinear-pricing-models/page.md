@@ -30,7 +30,7 @@ These different types of nonlinear pricing help businesses attract different kin
 
 ## Can you explain the concept of volume discounts in nonlinear pricing?
 
-Volume discounts are a type of nonlinear pricing where the price per item goes down if you buy more. Imagine you're at a store and you want to buy some pens. If you buy just one pen, it might cost you a dollar. But if you buy ten pens, the store might give you a deal where you only pay 80 cents per pen. This is a volume discount because the more you buy, the less you pay per item.
+Volume discounts are a type of nonlinear pricing where the price per item goes down if you buy more. Imagine you're at a store and you want to buy some pens. If you buy just one pen, it might cost you a dollar. But if you buy ten pens, the store might give you a deal where you only pay 80 cents per pen. This is a [volume](/wiki/volume-trading-strategy) discount because the more you buy, the less you pay per item.
 
 This kind of pricing is good for both the store and the customer. For the store, it helps them sell more items at once, which can save them money on things like packaging and shipping. For the customer, it feels like a good deal because they save money by buying more. Volume discounts are common in many places, like supermarkets where buying a big pack of soda cans is cheaper per can than buying them one at a time. This way, both the store and the customer can be happy with the deal.
 
@@ -68,7 +68,7 @@ Nonlinear pricing lets a business split its customers into different groups base
 
 A company can analyze the effectiveness of their nonlinear pricing model by looking at how much money they are making and how happy their customers are. They can compare the money they make before and after they started using nonlinear pricing. If they are making more money, it's a sign that the new pricing is working. They can also ask customers for feedback to see if they like the new prices. If customers are happy and keep buying, it means the pricing is effective.
 
-Another way to check is by looking at how many customers are choosing different pricing levels. If a lot of customers are picking the higher levels and paying more, it's a good sign. But if most customers are only picking the cheapest level, the company might need to change the prices. The company can also use data to see if customers are buying more because of the new pricing. If they are, it means the nonlinear pricing is encouraging people to buy more, which is good for the business.
+Another way to check is by looking at how many customers are choosing different pricing levels. If a lot of customers are [picking](/wiki/asset-class-picking) the higher levels and paying more, it's a good sign. But if most customers are only picking the cheapest level, the company might need to change the prices. The company can also use data to see if customers are buying more because of the new pricing. If they are, it means the nonlinear pricing is encouraging people to buy more, which is good for the business.
 
 ## What advanced mathematical models are used to optimize nonlinear pricing?
 
@@ -96,7 +96,7 @@ where $y$ is the dependent variable, $x$ is the independent variable, $\beta_0, 
 
 Support Vector Machines (SVMs) are another popular choice for modeling complex market dynamics. SVMs find a hyperplane in an $n$-dimensional space that best separates different classes of data points. By employing kernel functions such as linear, polynomial, or radial basis functions, SVMs efficiently handle nonlinear classification and regression tasks. This flexibility makes them especially suitable for identifying patterns and making predictions in volatile and multifaceted financial markets.
 
-Neural networks, particularly [deep learning](/wiki/deep-learning) models, have gained prominence in financial applications due to their ability to learn complex patterns within large datasets. These models consist of multiple layers of interconnected nodes or "neurons," which process and transform input data. By leveraging vast amounts of historical data, neural networks can effectively recognize intricate patterns and relationships, such as those present in algorithmic trading or market sentiment analysis.
+Neural networks, particularly [deep learning](/wiki/deep-learning) models, have gained prominence in financial applications due to their ability to learn complex patterns within large datasets. These models consist of multiple layers of interconnected nodes or "neurons," which process and transform input data. By leveraging vast amounts of historical data, neural networks can effectively recognize intricate patterns and relationships, such as those present in [algorithmic trading](/wiki/algorithmic-trading) or market sentiment analysis.
 
 Decision trees and ensemble methods like Random Forests and Gradient Boosting Machines provide robust solutions for intricate decision-making processes. Decision trees segment data into branches based on feature values, allowing for clear and interpretable modeling of decision-making rules. Ensemble methods enhance predictive accuracy by aggregating the outputs of multiple decision trees. Random Forests reduce variance by averaging predictions from numerous trees, while Gradient Boosting Machines sequentially improve prediction accuracy through iterative optimization.
 

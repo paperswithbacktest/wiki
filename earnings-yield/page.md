@@ -142,7 +142,7 @@ By integrating earnings yield into their analysis, investors can better navigate
 
 ## What is the conclusion?
 
-The earnings yield, as explored in this article, is a vital financial metric, playing a significant role in both traditional and algorithmic trading landscapes. By offering a measure of a company's earnings relative to its share price, earnings yield provides an accessible way for investors to evaluate potential investment opportunities. It is calculated using the formula:  
+The earnings yield, as explored in this article, is a vital financial metric, playing a significant role in both traditional and [algorithmic trading](/wiki/algorithmic-trading) landscapes. By offering a measure of a company's earnings relative to its share price, earnings yield provides an accessible way for investors to evaluate potential investment opportunities. It is calculated using the formula:  
 
 $$
 \text{Earnings Yield} = \frac{\text{Earnings Per Share (EPS)}}{\text{Share Price}}
@@ -150,7 +150,7 @@ $$
 
 This yield has been highlighted for its capacity to signal undervalued stocks, thereby assisting investors in making informed decisions. Its significance extends beyond traditional applications, proving to be a powerful tool when integrated into algorithmic trading strategies. By incorporating earnings yield, traders can refine algorithmic models to better assess stock valuations and enhance predictions of market movements.
 
-Moreover, the practical applications of earnings yield within algorithmic trading platforms, such as QuantConnect and Kensho Technologies, illustrate its effectiveness in real-world scenarios. These platforms demonstrate how earnings yield, when paired with advanced technologies like machine learning, can lead to sophisticated and effective trading strategies.  
+Moreover, the practical applications of earnings yield within algorithmic trading platforms, such as QuantConnect and Kensho Technologies, illustrate its effectiveness in real-world scenarios. These platforms demonstrate how earnings yield, when paired with advanced technologies like [machine learning](/wiki/machine-learning), can lead to sophisticated and effective trading strategies.  
 
 As we look to the future, the integration of earnings yield with cutting-edge trading technologies and analytics is poised to expand. Machine learning models, data analytics, and other technological advancements are likely to provide further opportunities to leverage earnings yield in predicting market trends and optimizing investment portfolios. As such, continued exploration and adoption of earnings yield as part of a comprehensive trading framework is encouraged. Its potential to enhance decision-making processes and improve financial returns makes it an indispensable component for traders and investors aiming to optimize their strategies in the evolving financial landscape.
 

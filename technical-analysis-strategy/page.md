@@ -22,7 +22,7 @@ Another key principle is that prices move in trends. Technical analysts think th
 
 ## How does technical analysis differ from fundamental analysis?
 
-Technical analysis and fundamental analysis are two different ways to study the markets. Technical analysis looks at charts and numbers to find patterns in how prices move. It doesn't care about the company's news or financial reports. Instead, it focuses on the price and how many shares are being traded. Traders use this to guess where the price might go next and make quick decisions about buying or selling.
+Technical analysis and [fundamental analysis](/wiki/fundamental-analysis) are two different ways to study the markets. Technical analysis looks at charts and numbers to find patterns in how prices move. It doesn't care about the company's news or financial reports. Instead, it focuses on the price and how many shares are being traded. Traders use this to guess where the price might go next and make quick decisions about buying or selling.
 
 On the other hand, fundamental analysis looks at the actual value of a company. It studies things like the company's earnings, debts, and how it's doing compared to other companies. This type of analysis tries to figure out if a stock is a good buy based on its real worth. It takes a longer time to do and is often used by people who want to hold onto their investments for a while, not just for quick trades.
 
@@ -42,7 +42,7 @@ By studying these patterns, traders can make better decisions about when to buy 
 
 ## What is the importance of volume in technical analysis?
 
-Volume is really important in technical analysis because it shows how many people are buying and selling a stock. When lots of people are trading, it means the market is interested in that stock. If the volume goes up when the price is going up, it can mean that the price might keep going up because more people want to buy. On the other hand, if the volume goes up when the price is going down, it can mean that the price might keep going down because more people want to sell.
+Volume is really important in technical analysis because it shows how many people are buying and selling a stock. When lots of people are trading, it means the market is interested in that stock. If the [volume](/wiki/volume-trading-strategy) goes up when the price is going up, it can mean that the price might keep going up because more people want to buy. On the other hand, if the volume goes up when the price is going down, it can mean that the price might keep going down because more people want to sell.
 
 Traders use volume to check if a price change is strong or weak. If the price goes up but the volume is low, it might not be a strong move and the price could change direction soon. But if the price goes up and the volume is high, it's a stronger sign that the price might keep going up. So, volume helps traders understand the power behind price movements and make better guesses about what might happen next.
 
@@ -104,7 +104,7 @@ By understanding the principles behind these strategies, traders can better expl
 
 ## What is Backtesting and Optimization?
 
-Backtesting is a crucial step in algorithmic trading that involves applying a trading algorithm to historical market data to evaluate how it would have performed in the past. This retrospective analysis helps traders assess the potential effectiveness of a strategy before deploying it in live trading environments. One of the primary goals of backtesting is to identify any potential issues within the trading strategy, such as overfitting or data snooping biases.
+Backtesting is a crucial step in [algorithmic trading](/wiki/algorithmic-trading) that involves applying a trading algorithm to historical market data to evaluate how it would have performed in the past. This retrospective analysis helps traders assess the potential effectiveness of a strategy before deploying it in live trading environments. One of the primary goals of [backtesting](/wiki/backtesting) is to identify any potential issues within the trading strategy, such as overfitting or data snooping biases.
 
 Overfitting occurs when a trading model is excessively complex, capturing noise rather than the actual signal in historical data. Such models may show impressive performance during backtesting but fail to generalize to unseen data, leading to poor performance in live markets. To mitigate this risk, traders can use techniques such as cross-validation. Cross-validation involves partitioning the data into multiple subsets and ensuring that the model is tested on different parts of the data set. This process helps assess the model's generalizability across various market conditions.
 

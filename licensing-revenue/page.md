@@ -24,7 +24,7 @@ Other types of income, like sales revenue, come from selling things directly to 
 
 Licensing revenue comes from many places. One big source is from letting other companies use your brand name or logo on their products. For example, a famous sports team might let a clothing company put their logo on shirts and hats. The sports team gets money every time someone buys a shirt or hat with their logo. Another source is from letting others use your inventions or technology. If a company has a new way to make batteries last longer, they can let other companies use that technology for a fee.
 
-Another common source is from entertainment, like movies or TV shows. If a company owns the rights to a popular movie, they can let toy companies make toys based on the movie characters. The company gets money from the toy sales without having to make the toys themselves. Music and books also bring in licensing revenue. A musician might let a company use their song in a commercial, or an author might let a company turn their book into a movie. In all these cases, the company gets paid for letting others use their ideas or creations.
+Another common source is from entertainment, like movies or TV shows. If a company owns the rights to a popular movie, they can let toy companies make toys based on the movie characters. The company gets money from the toy sales without having to make the toys themselves. Music and [books](/wiki/algo-trading-books) also bring in licensing revenue. A musician might let a company use their song in a commercial, or an author might let a company turn their book into a movie. In all these cases, the company gets paid for letting others use their ideas or creations.
 
 ## How can a company generate licensing revenue?
 
@@ -84,7 +84,7 @@ Another strategy is to use technology to manage licensing deals better. Companie
 
 ## What are the benefits of royalty agreements in algo trading?
 
-Royalty agreements in algorithmic trading present significant advantages by creating consistent revenue streams from licensed algorithms. This financial stability encourages continuous innovation and development, as developers and firms have clear incentives to refine and optimize their trading algorithms. 
+Royalty agreements in [algorithmic trading](/wiki/algorithmic-trading) present significant advantages by creating consistent revenue streams from licensed algorithms. This financial stability encourages continuous innovation and development, as developers and firms have clear incentives to refine and optimize their trading algorithms. 
 
 These contractual arrangements effectively align the interests of both licensors and licensees, allowing both parties to share in the financial success of the algorithms. When the algorithms perform well, licensors earn royalties, while licensees benefit by utilizing cutting-edge tools that enhance their trading strategies. This mutual benefit fosters collaboration and continuous improvement, enhancing overall market efficiency.
 

@@ -102,7 +102,7 @@ Overall, while the Herfindahl-Hirschman Index provides essential insights into m
 
 ## What are the advantages and limitations of HHI in algorithmic trading?
 
-The Herfindahl-Hirschman Index (HHI) serves as a straightforward yet powerful tool in evaluating market concentration, making it highly applicable in the field of algorithmic trading. Its primary advantage lies in its ability to swiftly calculate and provide insights into the competitive landscape of a market, which is pivotal for making informed trading decisions. The HHI is computed by summing the squares of the market shares of all firms competing in a market:
+The Herfindahl-Hirschman Index (HHI) serves as a straightforward yet powerful tool in evaluating market concentration, making it highly applicable in the field of [algorithmic trading](/wiki/algorithmic-trading). Its primary advantage lies in its ability to swiftly calculate and provide insights into the competitive landscape of a market, which is pivotal for making informed trading decisions. The HHI is computed by summing the squares of the market shares of all firms competing in a market:
 
 $$
 \text{HHI} = \sum_{i=1}^{N} s_i^2
@@ -112,7 +112,7 @@ where $s_i$ represents the market share of firm $i$, expressed as a percentage, 
 
 However, the index is not without limitations. A key drawback is its inability to account for geographic distinctions or product differentiation within a market, factors that are often critical in comprehensive market evaluations. The HHI presumes markets are homogeneous, which may not always hold true, especially in global trading environments where regional variations can significantly impact market dynamics.
 
-Moreover, relying solely on the HHI can result in an oversimplification of market conditions. Markets are complex systems influenced by various variables beyond concentration, such as regulatory environments, technological advancements, and external macroeconomic factors. Consequently, traders need to employ additional analytical tools alongside HHI to capture these complexities. Techniques such as machine learning and advanced statistical methods can be integrated with the HHI to enhance the depth and accuracy of market analyses.
+Moreover, relying solely on the HHI can result in an oversimplification of market conditions. Markets are complex systems influenced by various variables beyond concentration, such as regulatory environments, technological advancements, and external macroeconomic factors. Consequently, traders need to employ additional analytical tools alongside HHI to capture these complexities. Techniques such as [machine learning](/wiki/machine-learning) and advanced statistical methods can be integrated with the HHI to enhance the depth and accuracy of market analyses.
 
 For example, machine learning algorithms can be trained to recognize patterns and anomalies in market data that the HHI alone might not detect. By incorporating such technologies, traders can leverage both historical data and real-time inputs to refine their market strategies and improve the precision of their predictive models.
 

@@ -22,7 +22,7 @@ Before 1975, Papua New Guinea used the Australian Dollar. When they switched to 
 
 ## What are the different denominations of the Kina?
 
-The Kina comes in different amounts, or denominations. For the paper money, you can find Kina notes in 2, 5, 10, 20, 50, and 100 Kina. These notes are used for bigger purchases or when you need to carry more money.
+The Kina comes in different amounts, or denominations. For the paper money, you can find Kina notes in 2, 5, 10, 20, 50, and 100 Kina. These notes are used for bigger purchases or when you need to [carry](/wiki/carry-trading) more money.
 
 For smaller amounts, there are Kina coins. The coins come in 1, 2, 5, 10, and 20 Toea, as well as 1 Kina. Toea is the smaller unit of the Kina, just like cents are to the dollar. So, if you need to buy something small or give exact change, you would use these coins.
 
@@ -46,7 +46,7 @@ Another thing that affects the Kina's exchange rate is what's happening in the w
 
 ## What economic factors influence the value of the Kina?
 
-The value of the Papua New Guinea Kina is influenced by many economic factors. One big factor is how much people want to buy or sell the Kina. If more people want to buy it, the value goes up. If more people want to sell it, the value goes down. The government and the Bank of Papua New Guinea also play a role. They can make rules and take actions to try to keep the Kina's value steady. This helps the country's economy stay strong.
+The value of the Papua New Guinea Kina is influenced by many economic factors. One big [factor](/wiki/factor-investing) is how much people want to buy or sell the Kina. If more people want to buy it, the value goes up. If more people want to sell it, the value goes down. The government and the Bank of Papua New Guinea also play a role. They can make rules and take actions to try to keep the Kina's value steady. This helps the country's economy stay strong.
 
 Another important factor is what's happening in the world's economy. If big countries like the United States or China are doing well, it can affect the Kina's value. Also, the price of things that Papua New Guinea sells, like gold or oil, can change the Kina's value. If these prices go up, the Kina might get stronger. But if they go down, the Kina might get weaker. All these things together decide how many US dollars, Euros, or other currencies you can get for one Kina.
 

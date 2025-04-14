@@ -64,7 +64,7 @@ However, there are also some challenges when using the Omani Rial for internatio
 
 ## How has the digitalization of the Omani Rial impacted its usage and security?
 
-The digitalization of the Omani Rial has made it easier for people to use money without needing to carry cash. Now, people can pay for things using their phones or computers. This is good because it's quick and you don't have to worry about losing your money. Banks in Oman have made apps and online services where you can send money to others, pay bills, and even shop online. This has made life easier for a lot of people in Oman.
+The digitalization of the Omani Rial has made it easier for people to use money without needing to [carry](/wiki/carry-trading) cash. Now, people can pay for things using their phones or computers. This is good because it's quick and you don't have to worry about losing your money. Banks in Oman have made apps and online services where you can send money to others, pay bills, and even shop online. This has made life easier for a lot of people in Oman.
 
 Digitalization has also helped make the Omani Rial more secure. When you use digital money, there are many ways to keep it safe. Banks use special codes and checks to make sure no one can steal your money. They also watch for anything strange happening with your account. If someone tries to use your money without permission, the bank can stop them. This makes people feel safer about using the Omani Rial for all kinds of things, from buying groceries to paying for big things like a car.
 

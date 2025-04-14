@@ -18,7 +18,7 @@ Petter Kolm has written many books about how to use numbers to make better money
 
 Petter Kolm grew up in Sweden and went to school there. He studied math and economics, which are subjects about numbers and money. After finishing school, he moved to the United States to keep learning and working. He got more degrees in the U.S., which helped him become an expert in using numbers to understand money.
 
-Now, Petter Kolm works at New York University's Stern School of Business. He teaches students about finance, which is how money works in the world. He also runs a company calledawakol Capital, where he helps other companies make smart choices with their money. People respect him because he can explain hard ideas in a simple way, and he has written many books to help others learn about money and numbers.
+Now, Petter Kolm works at New York University's Stern School of Business. He teaches students about finance, which is how money works in the world. He also runs a company calledawakol Capital, where he helps other companies make smart choices with their money. People respect him because he can explain hard ideas in a simple way, and he has written many [books](/wiki/algo-trading-books) to help others learn about money and numbers.
 
 ## What are some of Petter Kolm's notable achievements?
 
@@ -66,7 +66,7 @@ At New York University's Stern School of Business, Petter Kolm teaches students 
 
 Petter Kolm is always looking for new ways to help people understand money better. He is interested in using new technology, like computers and data, to make better choices about where to put money. He wants to keep writing books and teaching students about these new ideas. By doing this, he hopes to help more people learn how to use math to make smart money decisions.
 
-In the future, Petter Kolm might focus on something called "machine learning." This is when computers learn from data to make predictions. He thinks this could be a big help in understanding how money works. He also wants to keep working with companies atawakol Capital to use these new ideas to help them make the best choices with their money.
+In the future, Petter Kolm might focus on something called "[machine learning](/wiki/machine-learning)." This is when computers learn from data to make predictions. He thinks this could be a big help in understanding how money works. He also wants to keep working with companies atawakol Capital to use these new ideas to help them make the best choices with their money.
 
 ## What awards or recognitions has Petter Kolm received?
 

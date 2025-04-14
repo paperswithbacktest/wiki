@@ -72,7 +72,7 @@ Another way advanced indicators help is by showing the strength of the trend. In
 
 In the stock market, a trader noticed a hook reversal on a 1-hour chart for a tech company's stock. The stock had been going up for days, but suddenly it made a hook shape and started dropping. The trader quickly sold their shares right after seeing the hook, avoiding further losses as the stock continued to drop for the next few days. By using the hook reversal as a signal to sell, the trader was able to get out before the price fell too much.
 
-In the forex market, a trader was watching the EUR/USD currency pair on a 4-hour chart. The pair had been going down for a while, but then it made a hook shape and started going up. The trader saw this as a sign that the downward trend might be over, so they bought the pair right after the hook. The EUR/USD continued to rise over the next week, and the trader made a good profit by getting in early on the new upward trend. The hook reversal helped the trader spot the right time to buy and make money from the change in direction.
+In the [forex](/wiki/forex-system) market, a trader was watching the EUR/USD currency pair on a 4-hour chart. The pair had been going down for a while, but then it made a hook shape and started going up. The trader saw this as a sign that the downward trend might be over, so they bought the pair right after the hook. The EUR/USD continued to rise over the next week, and the trader made a good profit by getting in early on the new upward trend. The hook reversal helped the trader spot the right time to buy and make money from the change in direction.
 
 ## What are the statistical probabilities of success when trading hook reversals, and how do they vary across different market conditions?
 

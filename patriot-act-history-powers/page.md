@@ -38,7 +38,7 @@ The Patriot Act has several key provisions that help the government fight terror
 
 Another key provision is that the Patriot Act lets the government share information between different agencies, like the FBI and the CIA. Before, these agencies could not share information as easily. Now, they can work together better to stop terrorism. The law also makes it easier for the government to use what are called "roving wiretaps." This means they can listen in on a person's phone calls, even if that person switches phones or locations.
 
-Some other important parts of the Patriot Act include rules that let the government search a person's home or business without telling them right away. This is called a "sneak and peek" search. The law also makes it easier for the government to get records from businesses, like what books someone has checked out from a library. These provisions are all meant to help the government stop terrorism, but they have also made some people worried about their privacy and freedom.
+Some other important parts of the Patriot Act include rules that let the government search a person's home or business without telling them right away. This is called a "sneak and peek" search. The law also makes it easier for the government to get records from businesses, like what [books](/wiki/algo-trading-books) someone has checked out from a library. These provisions are all meant to help the government stop terrorism, but they have also made some people worried about their privacy and freedom.
 
 ## How does the Patriot Act affect individual privacy?
 

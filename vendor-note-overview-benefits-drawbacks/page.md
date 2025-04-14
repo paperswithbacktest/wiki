@@ -22,7 +22,7 @@ Other types of financing, like bank loans or credit cards, usually come from big
 
 ## What are the key components of a vendor note?
 
-A vendor note has several important parts that both the buyer and the seller need to agree on. The first part is the amount of money being loaned. This is how much the buyer needs to pay back to the seller. The second part is the interest rate, which is extra money the buyer has to pay for borrowing. The third part is the repayment schedule, which tells the buyer when and how much to pay each time. 
+A vendor note has several important parts that both the buyer and the seller need to agree on. The first part is the amount of money being loaned. This is how much the buyer needs to pay back to the seller. The second part is the [interest rate](/wiki/interest-rate-trading-strategies), which is extra money the buyer has to pay for borrowing. The third part is the repayment schedule, which tells the buyer when and how much to pay each time. 
 
 The fourth part is the term of the note, which is how long the buyer has to pay back all the money. The fifth part is any security or collateral, which is something valuable the buyer might have to give to the seller if they can't pay back the loan. The last part is the default terms, which explain what happens if the buyer misses payments or can't pay back the loan. All these parts need to be clear so both the buyer and the seller know what to expect.
 

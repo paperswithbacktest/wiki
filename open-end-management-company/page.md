@@ -62,7 +62,7 @@ The management team also handles the buying and selling of shares in the fund. W
 
 ## How do Open-End Management Companies handle liquidity and redemption?
 
-Open-End Management Companies handle liquidity and redemption by allowing investors to buy and sell shares at any time. When someone wants to invest, the company creates new shares and sells them at the current net asset value (NAV). This means the company always has enough shares to meet the demand from new investors. If the market for the fund's investments is doing well, the company can easily sell some of those investments to get cash to pay for the new shares.
+Open-End Management Companies handle [liquidity](/wiki/liquidity-risk-premium) and redemption by allowing investors to buy and sell shares at any time. When someone wants to invest, the company creates new shares and sells them at the current net asset value (NAV). This means the company always has enough shares to meet the demand from new investors. If the market for the fund's investments is doing well, the company can easily sell some of those investments to get cash to pay for the new shares.
 
 When someone wants to sell their shares, the company buys them back at the current NAV. This is called redemption. The company needs to have enough cash on hand to pay for these redemptions. If too many people want to sell their shares at once, the company might need to sell some of its investments to get the cash it needs. This can be tricky if the market is not doing well, because selling investments at a bad time can hurt the value of the fund. But usually, the company manages this well to make sure it can handle both buying and selling shares smoothly.
 

@@ -24,7 +24,7 @@ Renting out a spare room or a property is also a good start for passive income. 
 
 ## How can someone start earning passive income through investments?
 
-One way to start earning passive income through investments is by buying dividend stocks. This means you invest in companies that pay out part of their profits to shareholders regularly. You can start with a small amount of money and choose stocks from companies that have a good history of paying dividends. Over time, these payments can grow, especially if you reinvest them to buy more shares. It's like planting a seed that grows into a tree that keeps giving you fruit without you having to do much work after the initial planting.
+One way to start [earning](/wiki/earning-announcement) passive income through investments is by buying dividend stocks. This means you invest in companies that pay out part of their profits to shareholders regularly. You can start with a small amount of money and choose stocks from companies that have a good history of paying dividends. Over time, these payments can grow, especially if you reinvest them to buy more shares. It's like planting a seed that grows into a tree that keeps giving you fruit without you having to do much work after the initial planting.
 
 Another option is to invest in real estate investment trusts (REITs). REITs are companies that own or finance income-generating real estate. When you buy shares in a REIT, you're investing in properties without having to buy and manage them yourself. REITs are required by law to pay out most of their income as dividends to shareholders, so you can earn regular passive income this way. It's a bit like owning a piece of a big shopping mall or apartment building, but without the hassle of being a landlord.
 
@@ -40,7 +40,7 @@ Lastly, if you earn money from digital products like eBooks or online courses, t
 
 Digital products like eBooks, online courses, and printables can be great for making passive income. Once you create a digital product, you can sell it over and over without much extra work. You can use websites like Amazon for eBooks, Udemy for courses, or Etsy for printables to reach people all around the world. It might take some time to create the product at first, but after that, it can keep making money for you. You just need to make sure it's something people want and that it's easy for them to buy.
 
-To start, think about what you know or what you're good at. Maybe you love cooking and can write an eBook with your favorite recipes. Or maybe you're good at teaching and can create an online course about a topic you know well. Once your digital product is ready, you can set it up for sale on a platform. After that, it's mostly about letting people know it's there. You can use social media, your own website, or even email lists to tell people about your product. The more people know about it, the more likely they are to buy it, and the more passive income you can earn.
+To start, think about what you know or what you're good at. Maybe you love cooking and can write an eBook with your favorite recipes. Or maybe you're good at teaching and can create an online [course](/wiki/best-algorithmic-trading-courses) about a topic you know well. Once your digital product is ready, you can set it up for sale on a platform. After that, it's mostly about letting people know it's there. You can use social media, your own website, or even email lists to tell people about your product. The more people know about it, the more likely they are to buy it, and the more passive income you can earn.
 
 ## What are the risks associated with various passive income strategies?
 
@@ -84,11 +84,11 @@ Another way to diversify is to think about different kinds of investments within
 
 In 2024, one big trend for expert investors looking to make passive income is investing in green energy and sustainable projects. More and more people want to put their money into things that are good for the planet, like solar farms or wind energy projects. These investments can give you regular income from the energy they produce, and they might also grow in value over time because more people are interested in them. It's a way to make money while helping the environment, which is becoming more important to a lot of investors.
 
-Another trend is using technology to make passive income even easier. Things like artificial intelligence and blockchain are being used to create new ways to invest and earn money without working every day. For example, you can use AI to pick stocks or manage your investments, which can help you make better choices and earn more money. Blockchain technology is also being used to create new types of investments, like cryptocurrencies and NFTs, which can be another way to earn passive income. These new technologies can help expert investors find new opportunities and make their passive income strategies even more effective.
+Another trend is using technology to make passive income even easier. Things like [artificial intelligence](/wiki/ai-artificial-intelligence) and blockchain are being used to create new ways to invest and earn money without working every day. For example, you can use AI to pick stocks or manage your investments, which can help you make better choices and earn more money. Blockchain technology is also being used to create new types of investments, like cryptocurrencies and NFTs, which can be another way to earn passive income. These new technologies can help expert investors find new opportunities and make their passive income strategies even more effective.
 
 ## How can combining multiple strategies lead to optimal results?
 
-Investors often combine multiple strategies to construct a diversified passive income portfolio, optimizing both security and returns. Diversification across various income avenues serves as a key risk management tool, reducing the impact of volatility and adverse events that might affect a single investment category. For example, the potentially high returns in equity markets can be balanced by the steady cash flow from real estate investments, smoothing the overall income stream.
+Investors often combine multiple strategies to construct a diversified passive income portfolio, optimizing both security and returns. Diversification across various income avenues serves as a key risk management tool, reducing the impact of [volatility](/wiki/volatility-trading-strategies) and adverse events that might affect a single investment category. For example, the potentially high returns in equity markets can be balanced by the steady cash flow from real estate investments, smoothing the overall income stream.
 
 The process of developing a well-rounded portfolio involves tailoring investments to align with an investor's individual risk tolerance, investment horizon, and financial objectives. An investor with a low risk tolerance might focus more on stable, income-generating assets such as bonds and dividend-paying stocks, whereas someone with a higher risk appetite might allocate more capital to high-growth opportunities such as equities and real estate.
 
@@ -105,7 +105,7 @@ Where:
 - $n$ is the number of times that interest is compounded per unit year.
 - $t$ is the time in years.
 
-For those interested in algorithmic trading as part of their strategy, leveraging technology to automate trading based on financial models can allow the investor to capitalize on small, consistent earnings over time while minimizing direct involvement. Here's a simple Python script example demonstrating a basic moving average crossover strategy, often used in algo trading:
+For those interested in [algorithmic trading](/wiki/algorithmic-trading) as part of their strategy, leveraging technology to automate trading based on financial models can allow the investor to capitalize on small, consistent earnings over time while minimizing direct involvement. Here's a simple Python script example demonstrating a basic moving average crossover strategy, often used in algo trading:
 
 ```python
 def simple_moving_average(prices, window):

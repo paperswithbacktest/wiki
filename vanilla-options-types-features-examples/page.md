@@ -112,7 +112,7 @@ Common algorithmic strategies in options trading include:
 
 Python and other programming languages offer powerful libraries and tools—such as NumPy for numerical computations and pandas for data manipulation—that facilitate the development and [backtesting](/wiki/backtesting) of these algorithmic strategies. Traders can leverage these to refine and optimize their strategies, ensuring that they remain effective in varying market environments.
 
-Here's an example of a simple Python script for backtesting a momentum strategy using moving averages:
+Here's an example of a simple Python script for backtesting a [momentum](/wiki/momentum) strategy using moving averages:
 
 ```python
 import pandas as pd
@@ -131,7 +131,7 @@ profit = sell_signals['Price'].sum() - buy_signals['Price'].sum()
 print(f"Profit from strategy: {profit}")
 ```
 
-Such strategies underline the power of algorithmic trading in vanilla options by enabling more precise and efficient execution of trades, ultimately aiming to increase profitability while managing risk.
+Such strategies underline the power of [algorithmic trading](/wiki/algorithmic-trading) in vanilla options by enabling more precise and efficient execution of trades, ultimately aiming to increase profitability while managing risk.
 
 ## How can one get started with Vanilla Options and Algo Trading?
 

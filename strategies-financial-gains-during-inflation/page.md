@@ -30,7 +30,7 @@ Another way budgeting helps during inflation is by letting you plan for the futu
 
 ## What role do savings accounts play in protecting money from inflation?
 
-Savings accounts are a safe place to keep your money, but they don't do a great job at protecting it from inflation. When prices go up, the money in your savings account stays the same, but it can buy less than before. For example, if you have $100 in your account and inflation is 3%, after a year, that $100 might only be able to buy things that used to cost $97. Savings accounts usually give you a little bit of interest, but often this interest rate is lower than the inflation rate, so your money loses value over time.
+Savings accounts are a safe place to keep your money, but they don't do a great job at protecting it from inflation. When prices go up, the money in your savings account stays the same, but it can buy less than before. For example, if you have $100 in your account and inflation is 3%, after a year, that $100 might only be able to buy things that used to cost $97. Savings accounts usually give you a little bit of interest, but often this [interest rate](/wiki/interest-rate-trading-strategies) is lower than the inflation rate, so your money loses value over time.
 
 To really protect your money from inflation, you might want to look at other options besides just a regular savings account. Things like investing in stocks, real estate, or commodities can grow faster than inflation and help keep your money's value up. If you do keep money in a savings account, it's a good idea to use it for short-term goals or emergencies, and think about other ways to grow your money for the long term.
 

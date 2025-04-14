@@ -24,7 +24,7 @@ Because tick-by-tick data is so detailed, it helps people see things in the mark
 
 Tick-by-tick data usually comes from stock exchanges, like the New York Stock Exchange or NASDAQ. These exchanges record every trade that happens on their platforms and often sell this data to companies that need it. Financial data providers, like Bloomberg or Reuters, buy this data from the exchanges and then sell it to traders, researchers, and other people who need detailed information about the market.
 
-Another common source of tick-by-tick data is electronic trading platforms. These platforms, like those used for forex trading, also record every trade and can provide this data to users. Sometimes, big investment banks and financial institutions also collect their own tick-by-tick data from their trading activities and might share it with others or use it internally for their own analysis.
+Another common source of tick-by-tick data is electronic trading platforms. These platforms, like those used for [forex](/wiki/forex-system) trading, also record every trade and can provide this data to users. Sometimes, big investment banks and financial institutions also collect their own tick-by-tick data from their trading activities and might share it with others or use it internally for their own analysis.
 
 Overall, the main sources of tick-by-tick data are the places where trading happens, like exchanges and electronic platforms, and the companies that gather and sell this data, like financial data providers.
 
@@ -50,7 +50,7 @@ But using tick-by-tick data also means traders have to be quick and have good co
 
 To analyze tick-by-tick data, people use special software and computers that can handle a lot of information quickly. One common tool is high-frequency trading platforms, which are designed to process and analyze trades as they happen. These platforms use algorithms to look at the data and find patterns or signals that can help with trading decisions. Another important tool is data visualization software, which helps turn the detailed numbers into charts and graphs that are easier to understand. This makes it simpler for traders and analysts to see what's happening in the market.
 
-Another technology used is big data analytics tools, like Hadoop or Apache Spark. These tools are good at storing and processing large amounts of data, which is exactly what you need for tick-by-tick information. They help analysts run complex calculations and find trends that might be hard to see otherwise. Also, machine learning and artificial intelligence are becoming more popular for analyzing tick-by-tick data. These technologies can learn from the data and make predictions about what might happen next in the market, which can be a big help for traders trying to make smart moves.
+Another technology used is big data analytics tools, like Hadoop or Apache Spark. These tools are good at storing and processing large amounts of data, which is exactly what you need for tick-by-tick information. They help analysts run complex calculations and find trends that might be hard to see otherwise. Also, [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence) are becoming more popular for analyzing tick-by-tick data. These technologies can learn from the data and make predictions about what might happen next in the market, which can be a big help for traders trying to make smart moves.
 
 ## How can one ensure the quality and accuracy of tick-by-tick data?
 

@@ -18,7 +18,7 @@ In the game, you build a team of monsters from your card collection and fight ag
 
 To start playing Splinterlands, you first need to visit their website and sign up for an account. You'll need to choose a username and set up a wallet for your cryptocurrency. This wallet is important because it's where you'll keep your cards and any rewards you earn. Once your account is set up, you'll need to buy a starter set of cards. These starter sets are like a beginner's pack that gives you everything you need to start playing.
 
-After you have your starter set, you can start building your team of monsters. You'll choose which monsters to use in battles against other players. The game will match you with opponents, and you'll take turns playing your cards to try and win. As you play, you can earn more cards and cryptocurrency rewards. The more you play and win, the better your collection will get, and the stronger your team will become.
+After you have your starter set, you can start building your team of monsters. You'll choose which monsters to use in battles against other players. The game will match you with opponents, and you'll take turns playing your cards to try and win. As you play, you can earn more cards and [cryptocurrency](/wiki/cryptocurrency) rewards. The more you play and win, the better your collection will get, and the stronger your team will become.
 
 ## What are the basic gameplay mechanics in Splinterlands?
 

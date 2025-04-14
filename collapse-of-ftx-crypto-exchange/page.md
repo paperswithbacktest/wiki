@@ -30,7 +30,7 @@ This rush to take money out is called a "bank run." FTX did not have enough mone
 
 The collapse of FTX hurt a lot of its users. Many people had money stuck on the platform and couldn't get it back. They trusted FTX to keep their money safe, but when FTX went bankrupt, it was hard to know if they would ever see their money again. Some users lost a lot of money, which made them very upset and worried about their future.
 
-The situation also made people lose trust in cryptocurrency exchanges. Users who used to think that FTX was a good place to trade now felt let down. They started to question if other exchanges were safe too. This made it harder for people to feel confident about using cryptocurrencies. The collapse of FTX showed everyone how risky it can be to put money into these kinds of platforms.
+The situation also made people lose trust in [cryptocurrency](/wiki/cryptocurrency) exchanges. Users who used to think that FTX was a good place to trade now felt let down. They started to question if other exchanges were safe too. This made it harder for people to feel confident about using cryptocurrencies. The collapse of FTX showed everyone how risky it can be to put money into these kinds of platforms.
 
 ## What role did Sam Bankman-Fried play in the FTX collapse?
 
@@ -70,7 +70,7 @@ Some exchanges also changed how they worked to be more open and safe. They made 
 
 ## What lessons can be learned from the collapse of FTX to prevent future incidents?
 
-The collapse of FTX teaches us that it's really important to keep customer money safe and separate from the company's own money. FTX used customer money to help another company, and that was a big mistake. Companies need to have strong rules and checks to make sure this doesn't happen. They should also let outside people look at their books to make sure everything is okay. If companies are open about how they handle money, people will trust them more.
+The collapse of FTX teaches us that it's really important to keep customer money safe and separate from the company's own money. FTX used customer money to help another company, and that was a big mistake. Companies need to have strong rules and checks to make sure this doesn't happen. They should also let outside people look at their [books](/wiki/algo-trading-books) to make sure everything is okay. If companies are open about how they handle money, people will trust them more.
 
 Another lesson is that we need better rules from the government to protect people who use crypto exchanges. After FTX, many countries started to think about new laws to stop other companies from making the same mistakes. These rules can help make sure that companies are being honest and keeping customer money safe. It's also important for people who use crypto to be careful and do their homework before putting their money into any platform. By learning from what happened with FTX, we can make the crypto world a safer place for everyone.
 
@@ -86,7 +86,7 @@ The collapse of FTX, one of the most prominent cryptocurrency exchanges, profoun
 
 **Impact on Confidence in Crypto Exchanges**
 
-The downfall of FTX significantly eroded trust in cryptocurrency exchanges. Historically, FTX was perceived as a reliable and innovative platform; its unexpected failure prompted investors to reassess the security and stability of their crypto holdings across exchanges. This lack of confidence can lead to increased volatility as investors reconsider the safety of their investments, potentially destabilizing even well-established platforms.
+The downfall of FTX significantly eroded trust in cryptocurrency exchanges. Historically, FTX was perceived as a reliable and innovative platform; its unexpected failure prompted investors to reassess the security and stability of their crypto holdings across exchanges. This lack of confidence can lead to increased [volatility](/wiki/volatility-trading-strategies) as investors reconsider the safety of their investments, potentially destabilizing even well-established platforms.
 
 **Ripple Effects on Crypto Prices and Market Stability**
 

@@ -18,7 +18,7 @@ The main purpose of USDC is to make it easier and faster to move money around th
 
 USDC keeps its value the same as the US dollar by having real US dollars in a bank for every USDC that's out there. This is called being "fully backed" by the US dollar. The company that makes USDC, Circle, puts the money in special bank accounts that are checked by other companies to make sure the money is really there. This way, people can trust that their USDC is worth a real US dollar.
 
-If someone wants to change their USDC back into US dollars, they can do it easily. Circle will give them the US dollars that were set aside for their USDC. This makes sure that the value of USDC stays the same as the US dollar. By doing this, USDC can be used like regular money but with the speed and ease of cryptocurrency.
+If someone wants to change their USDC back into US dollars, they can do it easily. Circle will give them the US dollars that were set aside for their USDC. This makes sure that the value of USDC stays the same as the US dollar. By doing this, USDC can be used like regular money but with the speed and ease of [cryptocurrency](/wiki/cryptocurrency).
 
 ## Who issues and manages USDC?
 
@@ -62,7 +62,7 @@ Another risk is that USDC is a digital currency, so it depends on technology. If
 
 USDC plays a big role in the world of decentralized finance, or DeFi. DeFi platforms are like online banks and financial services that work without a central company in charge. They use smart contracts, which are like digital agreements that automatically do what they're supposed to do. USDC is popular in DeFi because it's a stablecoin, meaning its value stays the same as the US dollar. This makes it a safe choice for people to use on these platforms. They can use USDC to lend money, borrow money, or trade it for other cryptocurrencies without worrying about big price changes.
 
-In DeFi, USDC is often used in something called liquidity pools. These are like big pots of money where people can put their USDC to help others trade or borrow. In return, they get a small piece of the fees that come from these transactions. USDC is also used in yield farming, where people can earn more USDC by lending it out or using it in different ways on DeFi platforms. Because USDC is stable and backed by real US dollars, it's a trusted choice for these activities. This makes it easier for people to use DeFi to grow their money or get loans without dealing with the ups and downs of other cryptocurrencies.
+In DeFi, USDC is often used in something called [liquidity](/wiki/liquidity-risk-premium) pools. These are like big pots of money where people can put their USDC to help others trade or borrow. In return, they get a small piece of the fees that come from these transactions. USDC is also used in yield farming, where people can earn more USDC by lending it out or using it in different ways on DeFi platforms. Because USDC is stable and backed by real US dollars, it's a trusted choice for these activities. This makes it easier for people to use DeFi to grow their money or get loans without dealing with the ups and downs of other cryptocurrencies.
 
 ## What is the process for redeeming USDC for USD?
 

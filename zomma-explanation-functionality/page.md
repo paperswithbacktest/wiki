@@ -28,7 +28,7 @@ In simpler terms, imagine you're looking at how much the speed of your car (gamm
 
 ## Can you explain the impact of Zomma on an option's price?
 
-Zomma affects how much an option's price changes when the market gets more or less wild. Imagine you're driving a car, and the speedometer shows how fast you're going. The speedometer is like the Delta of an option, showing how the option's price changes with the stock price. The accelerator, which controls how quickly your speed changes, is like the Gamma of an option. Zomma is like a meter that shows how the accelerator's effectiveness changes when the road conditions (volatility) change.
+Zomma affects how much an option's price changes when the market gets more or less wild. Imagine you're driving a car, and the speedometer shows how fast you're going. The speedometer is like the Delta of an option, showing how the option's price changes with the stock price. The [accelerator](/wiki/accelerator), which controls how quickly your speed changes, is like the Gamma of an option. Zomma is like a meter that shows how the accelerator's effectiveness changes when the road conditions (volatility) change.
 
 If Zomma is high, it means that even small changes in the market's ups and downs can make a big difference in how sensitive the option's price is to the stock price. This is important for traders because it helps them understand how their options might behave if the market starts swinging more than expected. A high Zomma means the option's price could change a lot if volatility goes up or down, so traders need to be ready for that.
 
@@ -42,7 +42,7 @@ When the price of the underlying asset goes up or down, the Zomma can increase o
 
 Volatility is really important when it comes to Zomma because Zomma measures how much an option's Gamma changes when the market's ups and downs (volatility) change. Think of Zomma like a meter that shows how the accelerator in your car (Gamma) works differently when the road conditions (volatility) change. If the market is calm and not moving much, the Zomma might be smaller because the option's price isn't very sensitive to changes in volatility. But if the market starts to swing a lot, the Zomma can get bigger, showing that even small changes in volatility can make a big difference in how sensitive the option's price is to the stock price.
 
-This is why traders pay attention to Zomma when they're trying to figure out how their options might behave if the market gets more or less wild. If an option has a high Zomma, it means the option's price could change a lot if the market's volatility goes up or down. This helps traders prepare for big swings in the market and adjust their strategies accordingly. So, volatility is a key factor in the value of Zomma because it directly affects how much the option's Gamma changes, which in turn impacts the option's price.
+This is why traders pay attention to Zomma when they're trying to figure out how their options might behave if the market gets more or less wild. If an option has a high Zomma, it means the option's price could change a lot if the market's volatility goes up or down. This helps traders prepare for big swings in the market and adjust their strategies accordingly. So, volatility is a key [factor](/wiki/factor-investing) in the value of Zomma because it directly affects how much the option's Gamma changes, which in turn impacts the option's price.
 
 ## How can traders use Zomma to manage their options portfolio?
 

@@ -48,7 +48,7 @@ Execution strategies can really change how long a project takes and how much it 
 
 On the other hand, using a parallel strategy, like Agile or DevOps, can make the project go faster. You work on different parts at the same time, which can save time. But it can be harder to keep track of the budget because you're doing so many things at once. If teams don't communicate well, it might cost more to fix mistakes. So, choosing the right strategy depends on whether you want to finish quickly or keep costs under control.
 
-In the end, the impact on the timeline and budget depends on how well the strategy fits the project's needs. A good strategy can help you finish on time and within budget, but a bad one can make things take longer and cost more. It's important to think about the project's goals and how the tasks are connected before picking a strategy.
+In the end, the impact on the timeline and budget depends on how well the strategy fits the project's needs. A good strategy can help you finish on time and within budget, but a bad one can make things take longer and cost more. It's important to think about the project's goals and how the tasks are connected before [picking](/wiki/asset-class-picking) a strategy.
 
 ## What role does risk management play in execution strategies?
 
@@ -58,7 +58,7 @@ In a parallel strategy like Agile, risk management helps you keep an eye on lots
 
 ## How do agile methodologies influence execution strategies?
 
-Agile methodologies really change how you plan and carry out a project. Instead of doing everything in a strict order like in the Waterfall model, Agile lets you work on different parts of the project at the same time. It breaks the project into small pieces called sprints, and you keep working on these sprints one after another. This way, you can start showing parts of the project to people early and get their feedback. If they want changes, you can make them quickly without messing up the whole plan. Agile is like cooking a big meal where you keep tasting and adjusting the dishes as you go, making sure everything turns out just right.
+Agile methodologies really change how you plan and [carry](/wiki/carry-trading) out a project. Instead of doing everything in a strict order like in the Waterfall model, Agile lets you work on different parts of the project at the same time. It breaks the project into small pieces called sprints, and you keep working on these sprints one after another. This way, you can start showing parts of the project to people early and get their feedback. If they want changes, you can make them quickly without messing up the whole plan. Agile is like cooking a big meal where you keep tasting and adjusting the dishes as you go, making sure everything turns out just right.
 
 Using Agile also means you have to be good at managing risks. Since you're working on many things at once, you need to watch out for problems that might come up in any part of the project. But because Agile lets you fix issues quickly, it can help keep the project moving forward even if something goes wrong. It's all about being flexible and ready to change your plans based on what's happening. This makes Agile a great choice for projects where things might change or when you need to deliver parts of the project fast.
 

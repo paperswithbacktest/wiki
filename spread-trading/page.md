@@ -76,7 +76,7 @@ Sometimes, you might want to adjust your spread trade instead of closing it. If 
 
 ## What are the latest trends and developments in spread trading?
 
-One of the latest trends in spread trading is the use of algorithmic trading. More and more traders are using computers to find and place spread trades automatically. These algorithms can look at a lot of data very quickly and find good trading opportunities that a person might miss. They can also manage and adjust trades faster than a human can. This makes spread trading more efficient and can help traders make more money. But it also means that the market can move very quickly, so traders need to be careful and keep up with the latest technology.
+One of the latest trends in spread trading is the use of [algorithmic trading](/wiki/algorithmic-trading). More and more traders are using computers to find and place spread trades automatically. These algorithms can look at a lot of data very quickly and find good trading opportunities that a person might miss. They can also manage and adjust trades faster than a human can. This makes spread trading more efficient and can help traders make more money. But it also means that the market can move very quickly, so traders need to be careful and keep up with the latest technology.
 
 Another development in spread trading is the growth of electronic trading platforms. These platforms make it easier for traders to see the prices of different things and place spread trades from anywhere. They often have tools like charts and graphs that help traders understand how the prices are moving. This makes spread trading more accessible to more people. But with more people trading, the market can get more crowded, which can make it harder to find good trading opportunities. Traders need to stay informed and use these new tools wisely to do well in this changing environment.
 
@@ -86,7 +86,7 @@ Developing a successful spread trading algorithm involves several critical steps
 
 ### 1. Data Sourcing
 
-The foundation of any algorithmic trading strategy is high-quality data. For spread trading, relevant data includes historical prices, volume data, market depth, and macroeconomic indicators. 
+The foundation of any algorithmic trading strategy is high-quality data. For spread trading, relevant data includes historical prices, [volume](/wiki/volume-trading-strategy) data, market depth, and macroeconomic indicators. 
 
 - **Historical Data**: Gather price histories of the assets involved in the spread. This data should be granular enough to capture intraday movements if required.
 - **Real-time Data**: Access to real-time market data is essential for executing spread trades effectively as market conditions change rapidly.
@@ -133,7 +133,7 @@ Before deploying any model live, it is essential to backtest the strategy using 
 
 ### 4. Implementation
 
-Once a strategy has passed backtesting, it's time to implement it in a live trading environment. This requires robust infrastructure to handle order management and execution with minimal latency.
+Once a strategy has passed [backtesting](/wiki/backtesting), it's time to implement it in a live trading environment. This requires robust infrastructure to handle order management and execution with minimal latency.
 
 - **Trading Platform**: Utilize algorithmic trading platforms offering APIs for direct market access. Platforms like MetaTrader, Interactive Brokers, or AlgoTrader could be integrated for seamless operation.
 - **Execution Strategy**: Implement smart order routing and execution algorithms that minimize market impact and cost.

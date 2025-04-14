@@ -82,7 +82,7 @@ Another way to understand 'Jekyll and Hyde' is to look at it as a story about sc
 
 ## What are the algorithmic strategies for embracing Jekyll and mitigating Hyde?
 
-Developing successful algorithmic trading strategies involves predicting market behavior influenced by both stability (Jekyll) and volatility (Hyde). This requires a combination of technical indicators and advanced data analysis to effectively identify market patterns associated with Jekyll-like stability. Various indicators such as moving averages, relative strength index (RSI), and Bollinger Bands are often employed to discern trending markets that reflect stability and predictability. For instance, a simple moving average (SMA) can help smoothen out price data, offering a clearer indication of trends:
+Developing successful [algorithmic trading](/wiki/algorithmic-trading) strategies involves predicting market behavior influenced by both stability (Jekyll) and [volatility](/wiki/volatility-trading-strategies) (Hyde). This requires a combination of technical indicators and advanced data analysis to effectively identify market patterns associated with Jekyll-like stability. Various indicators such as moving averages, relative strength index (RSI), and Bollinger Bands are often employed to discern trending markets that reflect stability and predictability. For instance, a simple moving average (SMA) can help smoothen out price data, offering a clearer indication of trends:
 
 $$
 \text{SMA} = \frac{P_1 + P_2 + \ldots + P_n}{n}

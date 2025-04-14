@@ -48,7 +48,7 @@ Another strategy is the long put, where you buy a put option because you think t
 
 Market conditions can really change how options trading on S&P 500 futures works. If the market is going up a lot, like during a bull market, buying call options can be a good idea because they let you make money from the rising prices. But if the market is going down, like in a bear market, buying put options might be better because they let you make money from the falling prices. Also, if the market is moving around a lot, which we call volatility, the prices of options can go up because they become more valuable when there's a bigger chance the market will move a lot.
 
-But if the market isn't moving much, which means it's less volatile, options might not be as valuable because there's less chance for big moves. So, when you're trading options on S&P 500 futures, you need to think about what's happening in the market and how that might affect the prices of the options you're looking at. It's all about trying to guess what the market will do next and picking the right options to match those guesses.
+But if the market isn't moving much, which means it's less volatile, options might not be as valuable because there's less chance for big moves. So, when you're trading options on S&P 500 futures, you need to think about what's happening in the market and how that might affect the prices of the options you're looking at. It's all about trying to guess what the market will do next and [picking](/wiki/asset-class-picking) the right options to match those guesses.
 
 ## What advanced techniques can be used to enhance profitability in options trading on S&P 500 futures?
 
@@ -78,7 +78,7 @@ Time decay is another thing to watch out for. It means that the value of your op
 
 When you make money or lose money from trading options on S&P 500 futures, it can affect your taxes. In the United States, profits from options trading are usually taxed as capital gains. If you hold the option for less than a year before selling it, the profit is considered a short-term capital gain, which is taxed at the same rate as your regular income. If you hold it for more than a year, it's a long-term capital gain, which is taxed at a lower rate, usually between 0% and 20%, depending on your income.
 
-On the other hand, if you lose money on your options trades, you can use those losses to reduce your taxes. You can deduct up to $3,000 of your net capital losses from your regular income each year. If your losses are more than $3,000, you can carry the extra over to future years to keep lowering your taxes. It's important to keep good records of all your trades, because you'll need them when you do your taxes. Talking to a tax professional can also help make sure you're doing everything right and taking advantage of all the tax benefits you can.
+On the other hand, if you lose money on your options trades, you can use those losses to reduce your taxes. You can deduct up to $3,000 of your net capital losses from your regular income each year. If your losses are more than $3,000, you can [carry](/wiki/carry-trading) the extra over to future years to keep lowering your taxes. It's important to keep good records of all your trades, because you'll need them when you do your taxes. Talking to a tax professional can also help make sure you're doing everything right and taking advantage of all the tax benefits you can.
 
 ## What are S&P 500 Futures Options and how can they be understood?
 
@@ -114,7 +114,7 @@ Where the notional value is the total value of the contract, and the initial mar
 
 Options also provide a powerful mechanism for hedging against market [volatility](/wiki/volatility-trading-strategies). By holding options positions, traders can protect their portfolios from adverse price movements. For example, purchasing put options on S&P 500 futures can act as an insurance policy against a significant downturn in the index, effectively capping potential losses.
 
-The S&P 500 futures market is highly liquid, which is advantageous for traders utilizing [algorithmic trading](/wiki/algorithmic-trading). This liquidity facilitates efficient trade execution and narrows bid-ask spreads, reducing transaction costs and minimizing slippage. Algorithmic trading systems can exploit this liquidity to optimize entry and [exit](/wiki/exit-strategy) points based on real-time data analysis.
+The S&P 500 futures market is highly liquid, which is advantageous for traders utilizing [algorithmic trading](/wiki/algorithmic-trading). This [liquidity](/wiki/liquidity-risk-premium) facilitates efficient trade execution and narrows bid-ask spreads, reducing transaction costs and minimizing slippage. Algorithmic trading systems can exploit this liquidity to optimize entry and [exit](/wiki/exit-strategy) points based on real-time data analysis.
 
 However, while leverage magnifies potential gains, it also increases the risk of significant losses. Traders must implement robust risk management strategies to mitigate this risk, such as setting stop-loss orders and maintaining appropriate position sizes. The use of the Kelly Criterion, a mathematical formula used to determine optimal betting size, can be adapted to options trading to help manage risk:
 

@@ -38,7 +38,7 @@ On the other hand, a European option can only be exercised on the expiration dat
 
 Before deciding to exercise an option, you should first look at the current market price of the asset compared to the strike price of your option. If you have a call option and the market price is higher than the strike price, exercising the option could be a good idea because you can buy the asset at the lower strike price and then sell it at the higher market price for a profit. On the other hand, if you have a put option and the market price is lower than the strike price, exercising the option might be smart because you can sell the asset at the higher strike price, avoiding a bigger loss.
 
-Another important factor is how much time is left until the option expires. If you have an American option, you can exercise it at any time before it expires. So, if you think the price difference between the market and strike prices is big enough, you might want to exercise early. But if you have a European option, you can only exercise it on the expiration date, so you'll need to wait until then to see if it's still a good idea to exercise. Also, think about any costs or fees involved in exercising the option, as these can affect whether it's worth doing.
+Another important [factor](/wiki/factor-investing) is how much time is left until the option expires. If you have an American option, you can exercise it at any time before it expires. So, if you think the price difference between the market and strike prices is big enough, you might want to exercise early. But if you have a European option, you can only exercise it on the expiration date, so you'll need to wait until then to see if it's still a good idea to exercise. Also, think about any costs or fees involved in exercising the option, as these can affect whether it's worth doing.
 
 Lastly, consider your overall investment strategy and goals. Exercising an option might fit well with your plans, or it might be better to sell the option itself if its value has gone up. Sometimes, the option's value can be more than the profit you'd make by exercising it, so selling the option could be a better choice. Always think about how exercising the option fits into your bigger financial picture.
 
@@ -74,7 +74,7 @@ Another strategy is to consider selling the option instead of exercising it. Som
 
 ## How do advanced option pricing models impact the decision to exercise?
 
-Advanced option pricing models, like the Black-Scholes model, help you figure out what an option is worth. They look at things like the current price of the asset, the strike price, how much time is left until the option expires, how much the price might change, and the interest rate. These models can tell you if the option is a good deal or not. If the model says the option is worth more than what you paid for it, you might want to sell it instead of exercising it. But if the model says the option is worth less than what you paid, exercising it to get the intrinsic value might be a better choice.
+Advanced option pricing models, like the Black-Scholes model, help you figure out what an option is worth. They look at things like the current price of the asset, the strike price, how much time is left until the option expires, how much the price might change, and the [interest rate](/wiki/interest-rate-trading-strategies). These models can tell you if the option is a good deal or not. If the model says the option is worth more than what you paid for it, you might want to sell it instead of exercising it. But if the model says the option is worth less than what you paid, exercising it to get the intrinsic value might be a better choice.
 
 These models can also help you decide when to exercise an option. For example, if the model shows that the option's value is mostly from the time value, it might be better to wait before exercising. This is because the time value goes down as the option gets closer to expiring. If the model shows that the time value is small and the intrinsic value is high, exercising the option sooner could be smart. Always remember that these models are just tools to help you make decisions, and you should also think about your own investment goals and what's happening in the market.
 
@@ -86,7 +86,7 @@ To lower these risks, you can wait until the last possible moment to exercise yo
 
 ## What are the key algorithmic strategies in options trading?
 
-Algorithmic trading in options involves utilizing computer programs to execute trading strategies at high speeds. Among the most prevalent strategies used are [trend following](/wiki/trend-following), arbitrage opportunities, and mean reversion.
+Algorithmic trading in options involves utilizing computer programs to execute trading strategies at high speeds. Among the most prevalent strategies used are [trend following](/wiki/trend-following), [arbitrage](/wiki/arbitrage) opportunities, and mean reversion.
 
 ### Trend Following
 
@@ -126,7 +126,7 @@ Where $X$ is the current price, $\mu$ is the mean, and $\sigma$ is the standard 
 
 ### Multi-Leg Strategies like Straddles
 
-Straddles involve buying both a call and put option at the same strike price and expiration, betting on high volatility. Systematic implementation uses algorithms to scan for situations where the market undervalues potential volatility.
+Straddles involve buying both a call and put option at the same strike price and expiration, betting on high [volatility](/wiki/volatility-trading-strategies). Systematic implementation uses algorithms to scan for situations where the market undervalues potential volatility.
 
 **Pseudo-Algorithm for Straddle Strategy:**
 
@@ -165,7 +165,7 @@ where $\Delta_p$ is the portfolio delta, $n_i$ is the number of units of option 
 
 Reactive risk management comes into play when market conditions change unexpectedly. Stop-loss mechanisms are widely used, and they can be automated within algorithms to trigger the selling of an asset once it hits a predetermined price level, limiting potential losses. These mechanisms are coded to execute trades instantly, removing the delay and emotional bias that could aggravate losses.
 
-Despite these strategies, several challenges persist in algorithmic options trading. Market impact, for example, refers to the effect of a trade on the market price of the asset, which can be significant if large volumes are traded algorithmically. Algorithms must be intelligently designed to mitigate market impact by potentially breaking trades into smaller parts or timing execution during periods of high liquidity.
+Despite these strategies, several challenges persist in algorithmic options trading. Market impact, for example, refers to the effect of a trade on the market price of the asset, which can be significant if large volumes are traded algorithmically. Algorithms must be intelligently designed to mitigate market impact by potentially breaking trades into smaller parts or timing execution during periods of high [liquidity](/wiki/liquidity-risk-premium).
 
 Technical errors and system failures pose another substantial risk. These can include software bugs, hardware failures, or unforeseen circumstances like drastic market events leading to flash crashes. Continuous monitoring, regular system audits, and redundant systems can help minimize these risks.
 

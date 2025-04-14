@@ -28,7 +28,7 @@ Another cause of prepayment can be when homeowners come into extra money. This c
 
 ## Can you explain the difference between prepayment risk and default risk?
 
-Prepayment risk and default risk are two different worries that people who invest in loans, like mortgages, have to think about. Prepayment risk is when someone pays off their loan earlier than expected. This can happen if they refinance their home at a lower interest rate or if they sell their house. When loans get paid off early, investors who were expecting to get regular payments might suddenly get their money back and have to find a new place to invest it, which might not be as good.
+Prepayment risk and default risk are two different worries that people who invest in loans, like mortgages, have to think about. Prepayment risk is when someone pays off their loan earlier than expected. This can happen if they refinance their home at a lower [interest rate](/wiki/interest-rate-trading-strategies) or if they sell their house. When loans get paid off early, investors who were expecting to get regular payments might suddenly get their money back and have to find a new place to invest it, which might not be as good.
 
 Default risk, on the other hand, is when someone can't pay back their loan at all. This happens if a homeowner loses their job or faces other money problems and can't make their mortgage payments. When someone defaults, it's bad for investors because they might not get all their money back. So, while prepayment risk is about getting your money back too soon, default risk is about not getting your money back at all. Both risks can mess up an investor's plans, but they do it in different ways.
 

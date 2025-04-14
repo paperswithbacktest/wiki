@@ -52,7 +52,7 @@ The timing of a short coupon can also affect when investors decide to buy or sel
 
 ## What are the risks associated with short coupons for bond issuers?
 
-When a company issues a bond with a short coupon, it might make investors less interested in buying the bond. This is because the first interest payment is smaller than usual, and some investors might want to wait until the next regular coupon payment instead. If not enough people want to buy the bond, the company might have to offer it at a lower price or with a higher interest rate to make it more appealing. This can cost the company more money in the long run.
+When a company issues a bond with a short coupon, it might make investors less interested in buying the bond. This is because the first interest payment is smaller than usual, and some investors might want to wait until the next regular coupon payment instead. If not enough people want to buy the bond, the company might have to offer it at a lower price or with a higher [interest rate](/wiki/interest-rate-trading-strategies) to make it more appealing. This can cost the company more money in the long run.
 
 Another risk for bond issuers is that they might need to adjust the bond's price to make up for the short coupon. If the bond's price goes up, it could make the bond less attractive to some investors who think it's too expensive. On the other hand, if the company doesn't adjust the price, the bond's yield might be lower than what investors expect, which could also make it harder to sell the bond. So, companies need to be careful about when they issue bonds with short coupons to avoid these problems.
 

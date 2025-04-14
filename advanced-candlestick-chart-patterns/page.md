@@ -46,7 +46,7 @@ Another advanced pattern is the Evening Star, which is the opposite of the Morni
 
 ## How can traders confirm the reliability of advanced candlestick patterns?
 
-Traders can confirm the reliability of advanced candlestick patterns by looking at other things besides just the patterns. One way is to use other kinds of charts, like moving averages or trend lines, to see if they agree with what the candlestick pattern is saying. If the pattern shows the price might go up and the moving average is also going up, that makes the pattern more reliable. Another way is to look at the trading volume. If the volume is high when the pattern forms, it means more people are trading, which can make the pattern more trustworthy.
+Traders can confirm the reliability of advanced candlestick patterns by looking at other things besides just the patterns. One way is to use other kinds of charts, like moving averages or trend lines, to see if they agree with what the candlestick pattern is saying. If the pattern shows the price might go up and the moving average is also going up, that makes the pattern more reliable. Another way is to look at the trading [volume](/wiki/volume-trading-strategy). If the volume is high when the pattern forms, it means more people are trading, which can make the pattern more trustworthy.
 
 It's also helpful to check the patterns over a longer time. If a pattern like the Morning Star or Evening Star has worked well in the past, it might work well again. Traders should keep track of how often these patterns lead to the price moving in the expected way. By combining candlestick patterns with other tools and checking them over time, traders can feel more confident about their guesses on what the market will do next.
 

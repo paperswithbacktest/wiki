@@ -18,7 +18,7 @@ This problem can be dangerous because it can lead to a bank run, where even more
 
 Understanding liquidity gaps is important for businesses because it helps them make sure they have enough cash to pay their bills and keep running smoothly. If a business doesn't have enough liquid money, it might not be able to pay its employees, buy supplies, or pay back loans on time. This can lead to big problems like not being able to operate or even going bankrupt. By knowing about liquidity gaps, a business can plan better and make sure it always has enough cash on hand.
 
-It's also important because it helps businesses avoid surprises. If a company knows it might face a liquidity gap in the future, it can take steps to prevent it. For example, it might borrow money, sell some assets, or cut back on spending. This way, the business can keep going without any sudden problems. Understanding liquidity gaps helps businesses stay healthy and ready for anything that might come their way.
+It's also important because it helps businesses avoid surprises. If a company knows it might face a [liquidity](/wiki/liquidity-risk-premium) gap in the future, it can take steps to prevent it. For example, it might borrow money, sell some assets, or cut back on spending. This way, the business can keep going without any sudden problems. Understanding liquidity gaps helps businesses stay healthy and ready for anything that might come their way.
 
 ## How does a liquidity gap occur?
 

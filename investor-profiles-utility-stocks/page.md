@@ -24,7 +24,7 @@ In general, utility stocks are seen as safer and less risky than many other stoc
 
 ## What are the main factors that influence the performance of utility stocks?
 
-The performance of utility stocks is mainly influenced by a few key factors. One big factor is interest rates. When interest rates go up, it can make borrowing money more expensive for utility companies. These companies often need to borrow money to build or upgrade their infrastructure, like power plants or water treatment facilities. Higher interest rates can mean higher costs for them, which can affect their profits and, in turn, their stock prices.
+The performance of utility stocks is mainly influenced by a few key factors. One big [factor](/wiki/factor-investing) is interest rates. When interest rates go up, it can make borrowing money more expensive for utility companies. These companies often need to borrow money to build or upgrade their infrastructure, like power plants or water treatment facilities. Higher interest rates can mean higher costs for them, which can affect their profits and, in turn, their stock prices.
 
 Another important factor is regulation. Utility companies are usually heavily regulated by government agencies. These regulations can control how much the companies can charge for their services. If regulators allow higher prices, the companies can make more money, which is good for their stocks. But if regulators keep prices low, it can be harder for the companies to make a profit, which can hurt their stock performance.
 

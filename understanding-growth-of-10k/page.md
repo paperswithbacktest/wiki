@@ -28,7 +28,7 @@ Another important thing is to use the right tools and strategies. This can mean 
 
 ## How can someone start investing with 10K?
 
-Starting to invest with 10K can be a great way to grow your money over time. One simple way to begin is by opening a savings account or a certificate of deposit (CD) at a bank. These options are safe and can help you earn a bit of interest on your money. Another option is to invest in a low-cost index fund, which is a type of investment that follows the stock market. This can be a good choice because it spreads your money across many different companies, making it less risky than picking individual stocks.
+Starting to invest with 10K can be a great way to grow your money over time. One simple way to begin is by opening a savings account or a certificate of deposit (CD) at a bank. These options are safe and can help you earn a bit of interest on your money. Another option is to invest in a low-cost index fund, which is a type of investment that follows the stock market. This can be a good choice because it spreads your money across many different companies, making it less risky than [picking](/wiki/asset-class-picking) individual stocks.
 
 Once you feel more comfortable, you might want to explore other types of investments. You could consider buying shares in individual companies if you have done your research and believe in their future. Another option is to invest in real estate, either by buying property or through a real estate investment trust (REIT). It's important to remember that all investments come with some level of risk, so it's a good idea to only invest money you can afford to lose. Talking to a financial advisor can also help you make the best choices for your situation.
 
@@ -134,7 +134,7 @@ This code snippet provides a straightforward implementation for calculating the 
 
 ## How can financial metrics be integrated into algo trading strategies?
 
-Financial metrics play an essential role in refining algorithmic trading strategies, serving as the backbone for evaluating the viability and effectiveness of trading systems. Applying metrics like win rates, average trade returns, and maximum drawdowns enables traders to quantitatively assess the potential success and resilience of their strategies. These analyses guide the systematic improvement and optimization of trading algorithms.
+Financial metrics play an essential role in refining [algorithmic trading](/wiki/algorithmic-trading) strategies, serving as the backbone for evaluating the viability and effectiveness of trading systems. Applying metrics like win rates, average trade returns, and maximum drawdowns enables traders to quantitatively assess the potential success and resilience of their strategies. These analyses guide the systematic improvement and optimization of trading algorithms.
 
 Backtesting forms the cornerstone of integrating financial metrics into algorithmic trading. This process involves simulating a trading strategy using historical data to evaluate its performance. Key metrics such as win rates, average trade returns, and maximum drawdowns are crucial in this context. The win rate is the ratio of profitable trades to the total number of trades, offering insights into the probability of success. Average trade returns provide a measure of profitability per trade, while maximum drawdown indicates the largest loss relative to the peak portfolio value, shedding light on the risk involved.
 

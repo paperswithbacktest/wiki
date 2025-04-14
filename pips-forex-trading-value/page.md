@@ -18,7 +18,7 @@ Some currency pairs, like those involving the Japanese yen, are quoted to two de
 
 In major currency pairs, a pip is usually the smallest change in the exchange rate. Most of these pairs are quoted to four decimal places. So, a pip is the last number in the quote, which is 0.0001. For example, if the EUR/USD rate moves from 1.1000 to 1.1001, that change of 0.0001 is one pip. This small unit helps traders measure how much the currency pair has moved.
 
-For pairs involving the Japanese yen, like USD/JPY, the quote is different. These pairs are usually quoted to two decimal places. So, a pip in these pairs is the second number after the decimal point, which is 0.01. If the USD/JPY rate goes from 110.00 to 110.01, that change of 0.01 is one pip. Knowing how to calculate pips is important for figuring out profits and losses in forex trading.
+For pairs involving the Japanese yen, like USD/JPY, the quote is different. These pairs are usually quoted to two decimal places. So, a pip in these pairs is the second number after the decimal point, which is 0.01. If the USD/JPY rate goes from 110.00 to 110.01, that change of 0.01 is one pip. Knowing how to calculate pips is important for figuring out profits and losses in [forex](/wiki/forex-system) trading.
 
 ## What is the value of a pip for different lot sizes?
 
@@ -70,9 +70,9 @@ Because exotic pairs can be less common and have less trading volume, the pip va
 
 ## What advanced strategies involve pip movements in forex trading?
 
-One advanced strategy that involves pip movements is called scalping. Scalping is when traders try to make small profits from tiny changes in the price of a currency pair. They might only aim to make a few pips at a time, but they do this many times throughout the day. To do this well, scalpers need to watch the market very closely and use tools like technical indicators to help them decide when to buy and sell. They also need to know how much a pip is worth so they can figure out if their small trades are worth it.
+One advanced strategy that involves pip movements is called [scalping](/wiki/gamma-scalping). Scalping is when traders try to make small profits from tiny changes in the price of a currency pair. They might only aim to make a few pips at a time, but they do this many times throughout the day. To do this well, scalpers need to watch the market very closely and use tools like technical indicators to help them decide when to buy and sell. They also need to know how much a pip is worth so they can figure out if their small trades are worth it.
 
-Another strategy is called range trading. This is when traders look for currency pairs that stay between two price levels for a while. They buy near the bottom of the range and sell near the top, hoping to make money from the pip movements within that range. To do this, traders need to be good at spotting these ranges and knowing when they might break. They use pips to set their entry and exit points, making sure they can make a profit even if the price only moves a little bit. Both scalping and range trading show how important it is to understand pips and use them to plan your trades carefully.
+Another strategy is called range trading. This is when traders look for currency pairs that stay between two price levels for a while. They buy near the bottom of the range and sell near the top, hoping to make money from the pip movements within that range. To do this, traders need to be good at spotting these ranges and knowing when they might break. They use pips to set their entry and [exit](/wiki/exit-strategy) points, making sure they can make a profit even if the price only moves a little bit. Both scalping and range trading show how important it is to understand pips and use them to plan your trades carefully.
 
 ## How have technological advancements affected the way pips are used in trading?
 
@@ -116,7 +116,7 @@ Understanding how to calculate pip value is crucial for traders to effectively m
 
 ## What are some real-world examples and use cases?
 
-Examining real-world scenarios helps contextualize the theoretical aspects of pips and trading strategies. In practice, traders utilize pip data to quantify market volatility and to set stop-loss and take-profit levels effectively. Here, we explore two case studies that illustrate the use of pips in managing trades and understanding market dynamics.
+Examining real-world scenarios helps contextualize the theoretical aspects of pips and trading strategies. In practice, traders utilize pip data to quantify market [volatility](/wiki/volatility-trading-strategies) and to set stop-loss and take-profit levels effectively. Here, we explore two case studies that illustrate the use of pips in managing trades and understanding market dynamics.
 
 ### Case Study 1: The 2015 Swiss Franc Dilemma
 

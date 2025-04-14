@@ -78,7 +78,7 @@ Another challenge is understanding how things move together, called correlation.
 
 Advanced statistical methods can make hedge ratio calculations more accurate by looking at how things have moved together in the past. One common method is regression analysis, which helps figure out the best number of options or futures to buy to protect your stocks. By using a lot of past data, these methods can find patterns that simpler ways might miss. This means you can get a hedge ratio that works better, even when the market is acting differently than usual.
 
-Another way advanced statistics help is by dealing with things that can change the hedge ratio, like how much two things move together, which is called correlation. These methods can keep track of how the correlation changes over time and adjust the hedge ratio to match. This makes sure your protection stays strong, even if the market gets wild. By using these advanced tools, you can feel more confident that your investments are safe, no matter what happens in the market.
+Another way advanced [statistics](/wiki/bayesian-statistics) help is by dealing with things that can change the hedge ratio, like how much two things move together, which is called correlation. These methods can keep track of how the correlation changes over time and adjust the hedge ratio to match. This makes sure your protection stays strong, even if the market gets wild. By using these advanced tools, you can feel more confident that your investments are safe, no matter what happens in the market.
 
 ## What is the Hedge Ratio and how can it be understood?
 

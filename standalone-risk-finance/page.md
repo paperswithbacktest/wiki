@@ -30,7 +30,7 @@ Now, imagine you already have a bunch of other investments, like stocks in diffe
 
 When you think about standalone risk, you're looking at what makes a single investment risky all by itself. One big thing is the financial health of the company. If the company has a lot of debt or isn't making much money, that can make the investment riskier. Another thing is how the company is doing in the market. If it's losing customers or if its products aren't selling well, that's a red flag. Also, the industry the company is in matters a lot. If the whole industry is struggling, like if there's too much competition or new laws making things harder, that can make the investment more risky.
 
-Another factor is how much the price of the investment goes up and down. If the stock price jumps around a lot, that's more risk. And don't forget about things like management changes or legal problems. If the CEO leaves or the company gets sued, that can shake things up. All these things together help you see how risky it is to invest in just one company without thinking about your other investments.
+Another [factor](/wiki/factor-investing) is how much the price of the investment goes up and down. If the stock price jumps around a lot, that's more risk. And don't forget about things like management changes or legal problems. If the CEO leaves or the company gets sued, that can shake things up. All these things together help you see how risky it is to invest in just one company without thinking about your other investments.
 
 ## How can standalone risk be measured in a financial context?
 

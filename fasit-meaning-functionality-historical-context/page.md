@@ -82,11 +82,11 @@ Because of these strict rules and the risk of changes, FASITs were not popular. 
 
 ## What are the tax implications for algorithmic trading?
 
-Algorithmic trading, encompassing high-frequency trading (HFT), has drawn significant attention from tax authorities worldwide due to its substantial influence on financial markets. Financial transaction taxes (FTTs) are one of the regulatory tools considered to control the high [volume](/wiki/volume-trading-strategy) and rapidity of trades executed by algorithms. These taxes are designed to levy a charge on each trade executed, aiming to curb excessive trading, reduce market volatility, and generate revenue.
+Algorithmic trading, encompassing high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), has drawn significant attention from tax authorities worldwide due to its substantial influence on financial markets. Financial transaction taxes (FTTs) are one of the regulatory tools considered to control the high [volume](/wiki/volume-trading-strategy) and rapidity of trades executed by algorithms. These taxes are designed to levy a charge on each trade executed, aiming to curb excessive trading, reduce market [volatility](/wiki/volatility-trading-strategies), and generate revenue.
 
 ### Impact on Trading Strategies and Market Environment
 
-Implementing FTTs can dramatically alter trading strategies for firms engaged in algorithmic trading. These taxes increase transaction costs, affecting the profitability of strategies that depend on executing a high volume of trades with minor price differences. For instance, a typical algorithmic strategy that relies on exploiting small arbitrage opportunities in milliseconds might become unprofitable when each trade is taxed. Mathematically, if $P$ denotes the profit from a trade without an FTT and $t$ is the FTT imposed per transaction, the adjusted profit $P'$ can be represented as:
+Implementing FTTs can dramatically alter trading strategies for firms engaged in [algorithmic trading](/wiki/algorithmic-trading). These taxes increase transaction costs, affecting the profitability of strategies that depend on executing a high volume of trades with minor price differences. For instance, a typical algorithmic strategy that relies on exploiting small [arbitrage](/wiki/arbitrage) opportunities in milliseconds might become unprofitable when each trade is taxed. Mathematically, if $P$ denotes the profit from a trade without an FTT and $t$ is the FTT imposed per transaction, the adjusted profit $P'$ can be represented as:
 
 $$
 P' = P - nt
@@ -94,7 +94,7 @@ $$
 
 where $n$ is the number of trades executed. A higher $t$ can lead to $P' < 0$, rendering the strategy unviable.
 
-Moreover, FTTs might lead to a reduction in trading volumes, impacting market liquidity. A study conducted by the European Commission in jurisdictions with FTTs, such as France and Italy, demonstrated a decline in trading volumes post-implementation, potentially increasing the bid-ask spreads and leading to higher costs for other market participants.
+Moreover, FTTs might lead to a reduction in trading volumes, impacting market [liquidity](/wiki/liquidity-risk-premium). A study conducted by the European Commission in jurisdictions with FTTs, such as France and Italy, demonstrated a decline in trading volumes post-implementation, potentially increasing the bid-ask spreads and leading to higher costs for other market participants.
 
 ### Arguments For and Against FTTs
 

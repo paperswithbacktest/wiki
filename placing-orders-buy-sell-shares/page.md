@@ -58,7 +58,7 @@ Another risk is that you might not know enough about the companies you're buying
 
 ## How can one analyze the market to make informed decisions about buying or selling shares?
 
-To analyze the market and make good choices about buying or selling shares, you can look at two main things: how the company is doing and what's happening in the market overall. For the company, you can check its financial reports to see if it's making money and growing. You can also read news about the company to see if it's doing well or facing problems. This is called fundamental analysis. It helps you understand if a company is strong and if its shares might go up in price.
+To analyze the market and make good choices about buying or selling shares, you can look at two main things: how the company is doing and what's happening in the market overall. For the company, you can check its financial reports to see if it's making money and growing. You can also read news about the company to see if it's doing well or facing problems. This is called [fundamental analysis](/wiki/fundamental-analysis). It helps you understand if a company is strong and if its shares might go up in price.
 
 Another way to analyze the market is by looking at the share prices themselves and how they're moving. This is called technical analysis. You can use charts and graphs to see patterns in the price of a share. For example, if the price has been going up steadily, it might keep going up. But if it's been going down, it might keep falling. You can also see how much people are buying and selling the share, which can tell you if other people think it's a good buy or not. By combining both fundamental and technical analysis, you can make smarter decisions about when to buy or sell shares.
 
@@ -88,7 +88,7 @@ Risk management is a critical aspect of stock trading, crucial for protecting po
 
 Stop-loss and take-profit orders are essential tools in this domain. A stop-loss order automatically sells a security when its price falls to a predetermined level, preventing further losses. Conversely, a take-profit order locks in profits by selling a position once it reaches a target price. These tools provide traders with a disciplined approach to exiting trades, reducing emotional decision-making in volatile markets.
 
-Algorithms play a significant role in modern risk management by dynamically adjusting stop-loss levels as market conditions change. This adaptability enhances risk control by reacting to real-time data, minimizing potential losses while capturing optimal exit points. For instance, an algorithm might increase a stop-loss threshold as a stock's price trends favorably, securing profits without manual intervention.
+Algorithms play a significant role in modern risk management by dynamically adjusting stop-loss levels as market conditions change. This adaptability enhances risk control by reacting to real-time data, minimizing potential losses while capturing optimal [exit](/wiki/exit-strategy) points. For instance, an algorithm might increase a stop-loss threshold as a stock's price trends favorably, securing profits without manual intervention.
 
 Another fundamental component of risk management is position sizing. Proper position sizing ensures that no single trade is disproportionately large, which could threaten the overall portfolio. By calculating the optimal position size, traders can manage exposure and maintain a balanced risk-reward ratio. The formula for position sizing can be expressed as:
 

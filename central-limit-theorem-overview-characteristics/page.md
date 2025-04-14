@@ -18,13 +18,13 @@ This theorem is very useful because it allows us to make predictions and do calc
 
 The Central Limit Theorem is really important in statistics because it helps us make sense of data. It tells us that if we take a bunch of samples from any population and find the average of each sample, those averages will start to look like a normal distribution, even if the original data doesn't. This is super helpful because a lot of statistical methods work best with data that follows a normal distribution. So, even if our data is all over the place, we can still use these methods if we're looking at averages of samples.
 
-This theorem is also key for making predictions and doing tests. For example, if you want to know something about a whole group of people, like their average income, you don't have to ask everyone. You can just take a few samples, find the average of each, and use those to guess the average for everyone. This saves a lot of time and effort. Plus, it lets us use confidence intervals and hypothesis testing, which are important tools in statistics, to make decisions based on the data we have.
+This theorem is also key for making predictions and doing tests. For example, if you want to know something about a whole group of people, like their average income, you don't have to ask everyone. You can just take a few samples, find the average of each, and use those to guess the average for everyone. This saves a lot of time and effort. Plus, it lets us use confidence intervals and hypothesis testing, which are important tools in [statistics](/wiki/bayesian-statistics), to make decisions based on the data we have.
 
 ## What are the basic assumptions required for the Central Limit Theorem to apply?
 
 The Central Limit Theorem works well if a few basic things are true. First, the samples you take from the population need to be random. This means every person or thing in the population has an equal chance of being picked. If you don't pick randomly, the averages you get might not be good at showing what the whole population is like.
 
-Second, the samples should be independent of each other. This means that picking one person or thing for your sample shouldn't affect who or what you pick next. If the samples are not independent, it can mess up the averages and make them less reliable.
+Second, the samples should be independent of each other. This means that [picking](/wiki/asset-class-picking) one person or thing for your sample shouldn't affect who or what you pick next. If the samples are not independent, it can mess up the averages and make them less reliable.
 
 Lastly, the sample size matters a lot. The Central Limit Theorem says that the bigger your sample size, the better it works. Usually, a sample size of at least 30 is good enough, but bigger is even better. If your samples are too small, the averages might not follow a normal distribution, and the theorem won't be as useful.
 

@@ -86,7 +86,7 @@ Algorithmic trading, a sophisticated investment strategy using computer algorith
 
 In the context of dividend-paying stocks, algorithms offer distinct advantages. By monitoring market conditions and stock performance continuously, algorithms can strategically track and execute trades around dividend events. This ability is particularly useful for dividend capture strategies, where investors seek to purchase stocks just before the ex-dividend date and sell them shortly afterward to collect the dividend payout without holding the stock long-term. The ex-dividend date is the cutoff point where the stock trades without the value of its next dividend payment. Such trades can be precisely timed using algorithmic strategies to optimize the dividends received relative to the investment period.
 
-An essential factor considered in algorithmic trading strategies involving dividends is the dividend yield, which is the ratio of a company's annual dividend compared to its share price. Mathematically, this is expressed as:
+An essential [factor](/wiki/factor-investing) considered in algorithmic trading strategies involving dividends is the dividend yield, which is the ratio of a company's annual dividend compared to its share price. Mathematically, this is expressed as:
 
 $$
 \text{Dividend Yield} (\%) = \left( \frac{\text{Annual Dividend per Share}}{\text{Price per Share}} \right) \times 100

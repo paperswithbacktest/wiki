@@ -18,7 +18,7 @@ For a Tweezer Top, the first candlestick is bullish and reaches a high point, fo
 
 There are two main types of Tweezer Patterns: Tweezer Top and Tweezer Bottom. A Tweezer Top happens at the end of an upward trend. It has two candles. The first candle is bullish and goes up to a high point. The second candle is bearish and also goes up to the same high point. This shows that buyers tried to push the price up but failed because sellers came in and pushed it back down. It might mean the upward trend is about to reverse.
 
-A Tweezer Bottom happens at the end of a downward trend. It also has two candles. The first candle is bearish and goes down to a low point. The second candle is bullish and also goes down to the same low point. This shows that sellers tried to push the price down but failed because buyers came in and pushed it back up. It might mean the downward trend is about to reverse. Both types of Tweezer Patterns are more reliable when you see them with other signs, like high trading volume.
+A Tweezer Bottom happens at the end of a downward trend. It also has two candles. The first candle is bearish and goes down to a low point. The second candle is bullish and also goes down to the same low point. This shows that sellers tried to push the price down but failed because buyers came in and pushed it back up. It might mean the downward trend is about to reverse. Both types of Tweezer Patterns are more reliable when you see them with other signs, like high trading [volume](/wiki/volume-trading-strategy).
 
 ## How can a beginner identify a Tweezer Pattern on a price chart?
 

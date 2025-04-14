@@ -86,7 +86,7 @@ Another way AI and machine learning help is by making trading decisions faster a
 
 ## What are the key components of optimal execution strategies?
 
-Optimal execution strategies in algorithmic trading are designed to minimize market impact and transaction costs while executing large orders. These strategies rely on a set of critical components that are essential for their development and effective functioning.
+Optimal execution strategies in [algorithmic trading](/wiki/algorithmic-trading) are designed to minimize market impact and transaction costs while executing large orders. These strategies rely on a set of critical components that are essential for their development and effective functioning.
 
 One fundamental component of optimal execution strategies is the construction of a pricing model that seeks to predict future asset prices with a degree of accuracy. The model assesses market conditions to guide the timing and size of trades to achieve favorable prices. A common approach involves statistical methods and [machine learning](/wiki/machine-learning) algorithms to forecast short-term price movements.
 

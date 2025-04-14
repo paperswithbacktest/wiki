@@ -52,7 +52,7 @@ This extra money above the par value also helps the company grow. It can be used
 
 ## What are the accounting entries involved when stock is issued at a price above par value?
 
-When a company sells its stock for more than the par value, it needs to make some accounting entries to show this on its books. Let's say a company sells 1,000 shares with a par value of $1 each for $10 per share. The first entry is to record the total money received from selling the stock. The company would debit the cash account for $10,000 because that's how much money it got from the investors. This shows that the company's cash went up by $10,000.
+When a company sells its stock for more than the par value, it needs to make some accounting entries to show this on its [books](/wiki/algo-trading-books). Let's say a company sells 1,000 shares with a par value of $1 each for $10 per share. The first entry is to record the total money received from selling the stock. The company would debit the cash account for $10,000 because that's how much money it got from the investors. This shows that the company's cash went up by $10,000.
 
 The next step is to split this money into two parts on the balance sheet. The company credits the common stock account for $1,000, which is the total par value of the shares sold (1,000 shares times $1 per share). This shows how many shares were sold at their basic price. Then, the company credits the additional paid-in capital account for $9,000, which is the extra money people paid above the par value (1,000 shares times $9 per share). This shows how much more investors were willing to pay for the stock. These entries help the company keep track of where its money comes from and how much it got from selling its stock.
 

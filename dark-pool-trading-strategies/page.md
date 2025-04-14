@@ -58,7 +58,7 @@ Another way advanced traders use dark pool data is to find hidden trends. They l
 
 ## What role does liquidity play in dark pool trading strategies?
 
-Liquidity is very important in dark pool trading strategies. It means how easy it is to buy or sell a stock without moving the price too much. In dark pools, big investors want to trade large amounts of stocks without other people knowing about it. If there's a lot of liquidity, it's easier for them to do this without scaring the market. They can sneak their big orders in and out without making a big splash, like swimming in a big pool without making waves.
+Liquidity is very important in dark pool trading strategies. It means how easy it is to buy or sell a stock without moving the price too much. In dark pools, big investors want to trade large amounts of stocks without other people knowing about it. If there's a lot of [liquidity](/wiki/liquidity-risk-premium), it's easier for them to do this without scaring the market. They can sneak their big orders in and out without making a big splash, like swimming in a big pool without making waves.
 
 When there's not enough liquidity in a dark pool, it can be harder for big investors to trade without affecting the price. If they try to buy or sell a lot of stocks in a pool with low liquidity, it might be like trying to swim in a small pool - their moves can be noticed and can make the water splash around. So, advanced traders look at liquidity to decide when and where to use dark pools. They want to find the right pools where they can trade big without causing too much trouble.
 
@@ -82,7 +82,7 @@ Another way expert traders mix dark pool trading with other strategies is by usi
 
 ## What are Dark Pool Trading Strategies with Algorithms?
 
-Dark pool trading strategies that incorporate algorithmic components focus on optimizing the execution of large orders to reduce market impact and enhance execution efficiency. One prevalent approach is the Volume Weighted Average Price (VWAP) strategy, which aims to execute trades at an average price weighted by the traded volume over a specific period. This approach is designed to achieve a price close to the average market price while minimizing the impact on price levels. The VWAP calculation is expressed as follows:
+Dark pool trading strategies that incorporate algorithmic components focus on optimizing the execution of large orders to reduce market impact and enhance execution efficiency. One prevalent approach is the Volume Weighted Average Price (VWAP) strategy, which aims to execute trades at an average price weighted by the traded [volume](/wiki/volume-trading-strategy) over a specific period. This approach is designed to achieve a price close to the average market price while minimizing the impact on price levels. The VWAP calculation is expressed as follows:
 
 $$
 \text{VWAP} = \frac{\sum{(P_i \times Q_i)}}{\sum{Q_i}}
@@ -100,7 +100,7 @@ where $P_i$ is the trade price at each interval, and $n$ is the number of interv
 
 Stealth algorithms play a crucial role in concealing the intentions behind significant trades to avoid revealing them to competing trades on both lit and dark markets. These algorithms intelligently manage order distribution and timing, allowing market participants to execute without drawing attention. By using predictive analytics and real-time data, stealth algorithms can dynamically adjust the trading path, further avoiding potential pattern recognition by other market participants or algorithms.
 
-Overall, the application of these strategies in dark pools aims to manage price movements, prevent information leakage, and maximize the efficiency of trade execution. With algorithmic trading in dark pools, traders can achieve a balance between stealth, speed, and price optimization, ensuring that large transactions are conducted discreetly while maintaining favorable market conditions.
+Overall, the application of these strategies in dark pools aims to manage price movements, prevent information leakage, and maximize the efficiency of trade execution. With [algorithmic trading](/wiki/algorithmic-trading) in dark pools, traders can achieve a balance between stealth, speed, and price optimization, ensuring that large transactions are conducted discreetly while maintaining favorable market conditions.
 
 ## References & Further Reading
 

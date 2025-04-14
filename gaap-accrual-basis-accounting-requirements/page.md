@@ -84,7 +84,7 @@ Not following GAAP can also make it hard for a company to compare itself to othe
 
 A business can make sure it keeps following GAAP and accrual basis accounting rules by always keeping good records and using the right accounting software. This software can help them record income and expenses at the right time, not just when money changes hands. They should also train their staff to understand GAAP rules and how to use accrual accounting correctly. By doing this, everyone in the business knows what to do, and they can keep their financial statements accurate and trustworthy.
 
-It's also a good idea for a business to have regular checks to make sure they're still following GAAP. They can hire an outside accountant or auditor to look over their books and make sure everything is right. This helps catch any mistakes early and keeps the business on track. By staying up to date with any changes in GAAP rules and making sure everyone in the business understands them, a company can keep its financial statements clear and reliable.
+It's also a good idea for a business to have regular checks to make sure they're still following GAAP. They can hire an outside accountant or auditor to look over their [books](/wiki/algo-trading-books) and make sure everything is right. This helps catch any mistakes early and keeps the business on track. By staying up to date with any changes in GAAP rules and making sure everyone in the business understands them, a company can keep its financial statements clear and reliable.
 
 ## What is Understanding Financial Reporting?
 

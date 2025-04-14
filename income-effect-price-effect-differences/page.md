@@ -64,7 +64,7 @@ The price effect, on the other hand, looks at how changes in the price of someth
 
 ## How can income and price effects be measured empirically?
 
-To measure the income effect empirically, researchers often use data from surveys or experiments where people's income changes. They look at how people's spending changes when they get more or less money. For example, they might give some people a small amount of extra money and see if they buy more or different things. By comparing what people buy before and after their income changes, researchers can see how the income effect works. They use statistics to figure out how much of a change in spending is because of the change in income.
+To measure the income effect empirically, researchers often use data from surveys or experiments where people's income changes. They look at how people's spending changes when they get more or less money. For example, they might give some people a small amount of extra money and see if they buy more or different things. By comparing what people buy before and after their income changes, researchers can see how the income effect works. They use [statistics](/wiki/bayesian-statistics) to figure out how much of a change in spending is because of the change in income.
 
 To measure the price effect, researchers often look at what happens when the price of a product changes. They might use data from stores or from experiments where the price of something goes up or down. For example, they might lower the price of a product in one store and keep it the same in another store, then compare how much people buy in each store. By looking at how people's buying changes when prices change, researchers can see how the price effect works. They use statistics to figure out how much of a change in buying is because of the change in price.
 
@@ -104,7 +104,7 @@ In practice, businesses and traders harness these insights to make informed deci
 
 ## What is the Price Effect in Algo Trading?
 
-The price effect is pivotal in shaping algorithmic trading strategies. It revolves around how changes in the price of goods or assets influence the quantity demanded, a concept encapsulated by price elasticity. Algorithmic trading systems are designed to identify and exploit these variations, enabling traders to execute orders at optimal points to maximize returns.  
+The price effect is pivotal in shaping [algorithmic trading](/wiki/algorithmic-trading) strategies. It revolves around how changes in the price of goods or assets influence the quantity demanded, a concept encapsulated by price elasticity. Algorithmic trading systems are designed to identify and exploit these variations, enabling traders to execute orders at optimal points to maximize returns.  
 
 Price elasticity, defined as the percentage change in quantity demanded resulting from a one percent change in price, plays a critical role in this process. Algorithms frequently calculate the elasticity of different assets to adjust their trading strategies dynamically. This is especially useful in volatile markets where rapid price changes can significantly impact demand. The formula for price elasticity of demand (PED) is:
 

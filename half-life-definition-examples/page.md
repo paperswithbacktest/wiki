@@ -150,7 +150,7 @@ $$
 
 where $\lambda$ represents the decay constant of a strategy's performance, analogous to radioactive decay in chemistry. Here, $\lambda$ could be determined by metrics such as a decline in return on investment (ROI) or an increase in volatility indicating changing market trends.
 
-Moreover, algorithmic trading systems are often programmed to automatically adjust parameters based on real-time market data. A sample Python code snippet for integrating such adjustments is:
+Moreover, [algorithmic trading](/wiki/algorithmic-trading) systems are often programmed to automatically adjust parameters based on real-time market data. A sample Python code snippet for integrating such adjustments is:
 
 ```python
 def update_strategy_params(current_params, market_data):

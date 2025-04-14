@@ -140,7 +140,7 @@ Understanding the interaction between DPS and EPS allows investors to evaluate a
 
 ## How can Python be used to calculate the payout ratio in algotrading?
 
-Python offers powerful tools and libraries that facilitate the calculation of financial metrics like the payout ratio, key to developing and optimizing algorithmic trading strategies. One of the most valuable libraries for this purpose is `yfinance`, which allows users to access financial data seamlessly.
+Python offers powerful tools and libraries that facilitate the calculation of financial metrics like the payout ratio, key to developing and optimizing [algorithmic trading](/wiki/algorithmic-trading) strategies. One of the most valuable libraries for this purpose is `yfinance`, which allows users to access financial data seamlessly.
 
 To calculate the payout ratio using Python, the following steps can be performed:
 

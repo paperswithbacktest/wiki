@@ -82,7 +82,7 @@ The next steps are still coming. One of the most important ones is sharding, whi
 
 ## What are the strategies for algo trading in the era of Ethereum 2.0?
 
-As Ethereum 2.0 reshapes the landscape of blockchain technology with its shift to Proof of Stake (PoS), algorithmic trading strategies must evolve to harness these advancements. Developers and traders need to consider both the opportunities and challenges presented by Ethereum 2.0, particularly its improved scalability, reduced transaction fees, and enhanced network efficiency.
+As Ethereum 2.0 reshapes the landscape of blockchain technology with its shift to Proof of Stake (PoS), [algorithmic trading](/wiki/algorithmic-trading) strategies must evolve to harness these advancements. Developers and traders need to consider both the opportunities and challenges presented by Ethereum 2.0, particularly its improved scalability, reduced transaction fees, and enhanced network efficiency.
 
 ### Developing New Algorithms or Adapting Existing Ones
 
@@ -128,9 +128,9 @@ Several platforms and tools have already started integrating Ethereum 2.0 capabi
 
 ### Case Studies of Successful Trading Strategies Post-Ethereum 2.0 Upgrade
 
-Post upgrade, some trading strategies have capitalized on Ethereum 2.0’s improved scalability and efficiency. For example, arbitrage strategies that exploit price discrepancies across exchanges have become more feasible with faster transaction times. Similarly, market-making algorithms benefit from stable network conditions and lower fees, allowing for tighter bid-ask spreads. Firms that adopted these strategies early on have reported improved returns and trading volume.
+Post upgrade, some trading strategies have capitalized on Ethereum 2.0’s improved scalability and efficiency. For example, [arbitrage](/wiki/arbitrage) strategies that exploit price discrepancies across exchanges have become more feasible with faster transaction times. Similarly, market-making algorithms benefit from stable network conditions and lower fees, allowing for tighter bid-ask spreads. Firms that adopted these strategies early on have reported improved returns and trading [volume](/wiki/volume-trading-strategy).
 
-By strategically adapting and integrating Ethereum 2.0 features, algorithmic traders can potentially achieve significant advantages, unlocking new opportunities in the evolving cryptocurrency market landscape.
+By strategically adapting and integrating Ethereum 2.0 features, algorithmic traders can potentially achieve significant advantages, unlocking new opportunities in the evolving [cryptocurrency](/wiki/cryptocurrency) market landscape.
 
 ## References & Further Reading
 

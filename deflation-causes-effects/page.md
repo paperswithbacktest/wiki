@@ -32,7 +32,7 @@ Sometimes, deflation can also come from big changes in technology or how we do t
 
 Deflation can be good for an economy in some ways. When prices go down, people can buy more with the same amount of money. This means they might feel richer and be able to save more or spend on other things they want. For example, if the price of a computer goes down, someone might buy it and then have money left over to spend on something else. This can help people feel better about their money and might even help some businesses that sell cheaper products.
 
-But deflation can also cause problems. If people think prices will keep going down, they might wait to buy things, which can hurt businesses. When businesses sell less, they might have to cut jobs or close down, which can make the economy worse. Also, if people have debts, deflation can make it harder to pay them back because even though their money is worth more, they might be earning less. So, while deflation can help in some ways, it can also lead to bigger problems if it goes on for too long.
+But deflation can also cause problems. If people think prices will keep going down, they might wait to buy things, which can hurt businesses. When businesses sell less, they might have to cut jobs or close down, which can make the economy worse. Also, if people have debts, deflation can make it harder to pay them back because even though their money is worth more, they might be [earning](/wiki/earning-announcement) less. So, while deflation can help in some ways, it can also lead to bigger problems if it goes on for too long.
 
 ## What are the negative effects of deflation on an economy?
 
@@ -144,7 +144,7 @@ $$
 \text{Real Interest Rate} = \text{Nominal Interest Rate} - \text{Inflation Rate}
 $$
 
-During deflation, the inflation rate is negative, hence the real interest rate increases, boosting the value of existing bonds.
+During deflation, the inflation rate is negative, hence the real [interest rate](/wiki/interest-rate-trading-strategies) increases, boosting the value of existing bonds.
 
 Investing in companies that leverage cost-reducing technologies can be advantageous as these firms are likely to maintain or increase profitability despite falling prices. For instance, companies that have successfully automated processes or employ advanced technologies to lower production costs might see their stock values stabilize or grow during deflation, providing a hedge against the broader market trends.
 

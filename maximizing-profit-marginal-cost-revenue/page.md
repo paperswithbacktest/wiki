@@ -185,7 +185,7 @@ This practical approach allows firms to quickly determine the feasibility of inc
    This book provides a detailed exploration of microeconomic principles, including those related to marginal cost and revenue. It is particularly relevant for those looking to understand the strategic implications of these concepts in business settings.
 
 6. **Donnelly, Russell J., ed. "Algorithmic Trading & DMA: An Introduction to Direct Access Trading Strategies."**  
-   This resource investigates into the specifics of direct market access and algorithmic trading strategies, providing insights into how traders use marginal cost principles to enhance profitability.
+   This resource investigates into the specifics of direct market access and [algorithmic trading](/wiki/algorithmic-trading) strategies, providing insights into how traders use marginal cost principles to enhance profitability.
 
 7. **Hill, Charles W. L., and Gareth R. Jones. "Strategic Management: An Integrated Approach."**  
    While focusing more broadly on strategic management, this book discusses how marginal analysis can inform strategic decisions, offering practical insights for managers and business leaders.

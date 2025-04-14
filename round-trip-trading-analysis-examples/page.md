@@ -60,7 +60,7 @@ Another advanced strategy is to use different types of items or services in the 
 
 Round-trip trading can make it seem like there is more trading happening in the market than there really is. When companies do round-trip trades, they buy and sell the same thing back and forth, making it look like there are more trades. This can trick people into thinking the market is more active and liquid than it really is. If a lot of companies are doing this, it can make the whole market seem busier, but it's not real activity.
 
-This kind of trading can also hurt real market liquidity in the long run. If people find out that companies are using round-trip trading to make their financial reports look better, they might lose trust in the market. When trust goes down, fewer people want to buy and sell, which can make the market less liquid. So, while round-trip trading might make the market seem more active for a short time, it can cause bigger problems later.
+This kind of trading can also hurt real market [liquidity](/wiki/liquidity-risk-premium) in the long run. If people find out that companies are using round-trip trading to make their financial reports look better, they might lose trust in the market. When trust goes down, fewer people want to buy and sell, which can make the market less liquid. So, while round-trip trading might make the market seem more active for a short time, it can cause bigger problems later.
 
 ## What are the regulatory considerations for round-trip trading?
 

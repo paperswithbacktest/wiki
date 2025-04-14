@@ -98,7 +98,7 @@ Understanding this value provides a clear picture of existing resources and fina
 
 ### Setting Realistic Financial Goals
 
-During economic downturns, financial goals may need recalibrating to reflect new realities. It's crucial to prioritize essential expenses and set achievable objectives. For instance, maintaining liquidity might become more critical than investing in long-term assets due to increased uncertainty. A useful approach is to classify goals in terms of urgency and importance, which helps in allocating resources efficiently. Methods like the SMART criteria (Specific, Measurable, Achievable, Relevant, Time-bound) are often employed for setting and evaluating these goals.
+During economic downturns, financial goals may need recalibrating to reflect new realities. It's crucial to prioritize essential expenses and set achievable objectives. For instance, maintaining [liquidity](/wiki/liquidity-risk-premium) might become more critical than investing in long-term assets due to increased uncertainty. A useful approach is to classify goals in terms of urgency and importance, which helps in allocating resources efficiently. Methods like the SMART criteria (Specific, Measurable, Achievable, Relevant, Time-bound) are often employed for setting and evaluating these goals.
 
 ### Building an Emergency Fund and Managing Debts
 

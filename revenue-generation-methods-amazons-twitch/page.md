@@ -46,7 +46,7 @@ These Prime subs help Twitch make money in a few ways. First, they encourage mor
 
 ## How does Twitch's partnership program work and benefit the platform's revenue?
 
-Twitch's partnership program is a way for Twitch to work with popular streamers. When streamers become partners, they get special perks like earning money from ads, subscriptions, and bits. In return, these partners help Twitch by bringing in lots of viewers and making the platform more exciting. Twitch takes a cut of the money that partners make from subscriptions and bits, which helps Twitch earn more money. This program also makes Twitch more attractive to viewers because they can watch their favorite streamers and even support them directly.
+Twitch's partnership program is a way for Twitch to work with popular streamers. When streamers become partners, they get special perks like [earning](/wiki/earning-announcement) money from ads, subscriptions, and bits. In return, these partners help Twitch by bringing in lots of viewers and making the platform more exciting. Twitch takes a cut of the money that partners make from subscriptions and bits, which helps Twitch earn more money. This program also makes Twitch more attractive to viewers because they can watch their favorite streamers and even support them directly.
 
 The partnership program benefits Twitch's revenue because it creates a cycle of growth. When more streamers become partners, more people come to Twitch to watch them. This means more viewers see ads, which brings in more ad money for Twitch. Also, viewers are more likely to subscribe or use bits to support their favorite partners, which gives Twitch another way to make money. By helping streamers succeed, Twitch grows its user base and keeps its revenue streams strong.
 
@@ -58,7 +58,7 @@ The impact of affiliate marketing on Twitch's revenue is pretty big. It's anothe
 
 ## How does Twitch leverage video-on-demand (VOD) and clips for additional revenue?
 
-Twitch makes money from video-on-demand (VOD) and clips by letting streamers save their past broadcasts and share short video clips. When viewers watch these VODs and clips, they might see ads. Just like with live streams, Twitch earns money every time someone watches an ad in a VOD or clip. This means that even after a live stream is over, it can still help Twitch make money.
+Twitch makes money from video-on-demand (VOD) and clips by letting streamers save their past broadcasts and share short video clips. When viewers watch these VODs and clips, they might see ads. Just like with live streams, Twitch earns money every time someone watches an ad in a VOD or [clip](/wiki/clip). This means that even after a live stream is over, it can still help Twitch make money.
 
 Streamers can also use VODs and clips to promote their channels. If a clip goes viral, it can bring in new viewers who might want to watch more and even subscribe or use bits. This helps Twitch grow and make more money from subscriptions and bits. So, VODs and clips are not just for watching fun moments again; they're also a smart way for Twitch to keep earning money even when streams aren't live.
 

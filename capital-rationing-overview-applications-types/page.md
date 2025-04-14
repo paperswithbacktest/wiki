@@ -66,7 +66,7 @@ Another problem with capital rationing is that it can make a company too careful
 
 Capital rationing can slow down a company's growth because it limits how much money the company can spend on new projects. When a company decides to only spend on a few projects, it might miss out on other good opportunities that could help it grow bigger. For example, if there's a project that could make a lot of money in the future, but it needs a lot of money to start, the company might not be able to do it because of capital rationing. This means the company grows slower than it could if it had more money to spend.
 
-On the other hand, capital rationing can also help a company's profitability by making sure it spends money wisely. When a company has to choose which projects to spend on, it looks at which ones will bring in the most money. By picking the best projects, the company can make more profit from the money it does spend. This careful spending can help the company stay financially healthy and ready for future opportunities. But, if the company is too careful, it might miss out on big rewards from taking some risks.
+On the other hand, capital rationing can also help a company's profitability by making sure it spends money wisely. When a company has to choose which projects to spend on, it looks at which ones will bring in the most money. By [picking](/wiki/asset-class-picking) the best projects, the company can make more profit from the money it does spend. This careful spending can help the company stay financially healthy and ready for future opportunities. But, if the company is too careful, it might miss out on big rewards from taking some risks.
 
 ## What are some advanced techniques for optimizing capital allocation under rationing?
 

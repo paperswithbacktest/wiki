@@ -128,7 +128,7 @@ Understanding these risks is essential for developing robust trading strategies 
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization." Advances in Neural Information Processing Systems 24. This paper presents methodologies for optimizing hyper-parameters in machine learning algorithms, critical for developing robust algorithmic trading models.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization." Advances in Neural Information Processing Systems 24. This paper presents methodologies for optimizing hyper-parameters in [machine learning](/wiki/machine-learning) algorithms, critical for developing robust [algorithmic trading](/wiki/algorithmic-trading) models.
 
 "Advances in Financial Machine Learning" by Marcos Lopez de Prado explores modern techniques and methodologies leveraging machine learning in financial markets. It offers insights that can enhance algorithmic trading strategies by focusing on data handling, feature engineering, and model validation techniques.
 

@@ -64,7 +64,7 @@ The key to using market analysis well in Edgehog Trading is to keep learning and
 
 ## What advanced techniques can be used to enhance Edgehog Trading performance?
 
-To enhance Edgehog Trading performance, you can use advanced techniques like machine learning and artificial intelligence. These tools can look at a lot of data and find patterns that are hard to see. By using machine learning, you can teach your computer programs to get better at predicting what will happen in the market. This can help you make smarter trades and improve your chances of making money. Another advanced technique is using backtesting, where you test your trading strategies on past market data. This helps you see how well your strategy would have worked in the past, so you can make it better before you use it with real money.
+To enhance Edgehog Trading performance, you can use advanced techniques like [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence). These tools can look at a lot of data and find patterns that are hard to see. By using machine learning, you can teach your computer programs to get better at predicting what will happen in the market. This can help you make smarter trades and improve your chances of making money. Another advanced technique is using backtesting, where you test your trading strategies on past market data. This helps you see how well your strategy would have worked in the past, so you can make it better before you use it with real money.
 
 Another way to boost your Edgehog Trading performance is by using more complex algorithms. These algorithms can do things like high-frequency trading, where they make a lot of trades very quickly to take advantage of small changes in the market. You can also use sentiment analysis, which looks at news and social media to see how people feel about certain stocks or markets. This can give you an edge by helping you understand what might happen next. Remember, using these advanced techniques takes a lot of learning and practice, but they can help you trade better if you use them the right way.
 
@@ -82,7 +82,7 @@ Another important trend in Edgehog Trading will be the focus on making trading e
 
 ## What strategies are employed by Edgehog Trading?
 
-Edgehog Trading employs a combination of sophisticated strategies aimed at maximizing returns while effectively minimizing risks. These strategies are optimized through advanced technology and data analytics, providing significant leverage in the competitive field of algorithmic trading.
+Edgehog Trading employs a combination of sophisticated strategies aimed at maximizing returns while effectively minimizing risks. These strategies are optimized through advanced technology and data analytics, providing significant leverage in the competitive field of [algorithmic trading](/wiki/algorithmic-trading).
 
 ### Trend Following
 
@@ -100,7 +100,7 @@ Market making involves providing [liquidity](/wiki/liquidity-risk-premium) to th
 
 ### Arbitrage Strategies
 
-Arbitrage takes advantage of price discrepancies in different markets or financial instruments. Edgehog Trading employs [statistical arbitrage](/wiki/statistical-arbitrage) and pairs trading to exploit these inefficiencies. Statistical arbitrage uses complex mathematical models to identify pairs of correlated assets, executing trades when these correlations deviate from historical norms. This approach reduces risk and increases the likelihood of profit by relying on mathematical probability rather than market speculation.
+Arbitrage takes advantage of price discrepancies in different markets or financial instruments. Edgehog Trading employs [statistical [arbitrage](/wiki/arbitrage)](/wiki/statistical-arbitrage) and pairs trading to exploit these inefficiencies. Statistical arbitrage uses complex mathematical models to identify pairs of correlated assets, executing trades when these correlations deviate from historical norms. This approach reduces risk and increases the likelihood of profit by relying on mathematical probability rather than market speculation.
 
 ### Risk Management Techniques
 

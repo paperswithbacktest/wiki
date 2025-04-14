@@ -76,7 +76,7 @@ Aging reports also help with collection policies. If the report shows that a lot
 
 ## What advanced analytics can be applied to aging reports for predictive purposes?
 
-Advanced analytics can be used on aging reports to predict how long it will take to get paid. By looking at past data, businesses can use machine learning to see patterns in how customers pay their invoices. For example, the analytics can tell if certain customers always pay late or if certain times of the year are slower for payments. This helps the business guess when they will get their money and plan better. They can also use this information to decide if they should change how they give credit or collect payments.
+Advanced analytics can be used on aging reports to predict how long it will take to get paid. By looking at past data, businesses can use [machine learning](/wiki/machine-learning) to see patterns in how customers pay their invoices. For example, the analytics can tell if certain customers always pay late or if certain times of the year are slower for payments. This helps the business guess when they will get their money and plan better. They can also use this information to decide if they should change how they give credit or collect payments.
 
 Another way advanced analytics can help is by predicting which customers might have trouble paying in the future. By looking at things like how much a customer owes, how long they take to pay, and even their credit history, the business can figure out who might be a risk. This helps them take action early, like asking for payment upfront or setting shorter payment deadlines. By using these predictions, the business can manage its money better and make sure it always has enough cash to keep running smoothly.
 

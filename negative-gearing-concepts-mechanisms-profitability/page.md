@@ -120,7 +120,7 @@ AI enhancements allow trading models to incorporate natural language processing 
 
 ### Examples of Profitable Algo Trading Models
 
-Trend following and [statistical arbitrage](/wiki/statistical-arbitrage) are two widely used algo trading strategies. Trend following algorithms aim to identify and capitalize on the [momentum](/wiki/momentum) of trending markets by employing moving averages or technical indicators. For instance, the moving average crossover strategy, where short-term moving averages cross above long-term moving averages, signals buy opportunities, and vice versa for sell signals.
+Trend following and [statistical [arbitrage](/wiki/arbitrage)](/wiki/statistical-arbitrage) are two widely used algo trading strategies. Trend following algorithms aim to identify and capitalize on the [momentum](/wiki/momentum) of trending markets by employing moving averages or technical indicators. For instance, the moving average crossover strategy, where short-term moving averages cross above long-term moving averages, signals buy opportunities, and vice versa for sell signals.
 
 Statistical arbitrage, on the other hand, exploits price inefficiencies between correlated assets. By identifying pairs of similar stocks and executing trades based on deviations from historical price ratios, traders can profit from mean-reversion tendencies.
 

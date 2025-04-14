@@ -24,7 +24,7 @@ For example, if you and your friends go out to eat and the bill is $100, you mig
 
 Using split payment makes things easier and fairer when you're sharing costs with others. It means no one has to pay the whole amount and then wait to get money back. Instead, everyone can pay their part right away. This can stop arguments about who owes what and makes sure everyone pays what they should. It's also great for keeping track of payments, so you always know who has paid and who hasn't.
 
-Another benefit of split payment is that it can save time and hassle. When you're out with friends or working on a project with others, you don't have to spend time figuring out how to split the bill later. You can do it all at once, right when you're paying. Many apps and services make this easy to do on your phone or computer, so you don't need to carry cash or worry about losing track of who owes what. This can make sharing costs a lot simpler and more enjoyable.
+Another benefit of split payment is that it can save time and hassle. When you're out with friends or working on a project with others, you don't have to spend time figuring out how to split the bill later. You can do it all at once, right when you're paying. Many apps and services make this easy to do on your phone or computer, so you don't need to [carry](/wiki/carry-trading) cash or worry about losing track of who owes what. This can make sharing costs a lot simpler and more enjoyable.
 
 ## In which scenarios is split payment commonly used?
 

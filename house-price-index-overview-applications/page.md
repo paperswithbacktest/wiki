@@ -84,7 +84,7 @@ The HPI also helps investors understand the bigger picture of the housing market
 
 ## How can HPI be integrated with real estate algorithmic trading?
 
-Integrating House Price Index (HPI) data into algorithmic trading models in real estate presents a promising method to enhance the accuracy and efficiency of market predictions. The HPI, serving as a crucial indicator of property market trends, can significantly augment algorithmic performance by providing historical and current data on price fluctuations across regions and time periods.
+Integrating House Price Index (HPI) data into [algorithmic trading](/wiki/algorithmic-trading) models in real estate presents a promising method to enhance the accuracy and efficiency of market predictions. The HPI, serving as a crucial indicator of property market trends, can significantly augment algorithmic performance by providing historical and current data on price fluctuations across regions and time periods.
 
 To implement HPI data effectively within trading algorithms, one must first ensure access to reliable datasets. These often include geographical breakdowns of house prices over time and are generally procured from real estate statistical bureaus or financial databases. The integration process begins by feeding this data into [machine learning](/wiki/machine-learning) models that thrive on historical patterns to predict future trends. Feature engineering is critical here—aspects such as seasonality, regional economic indicators, and [interest rate](/wiki/interest-rate-trading-strategies) changes might also be incorporated alongside the HPI to robustly model price dynamics.
 
@@ -108,7 +108,7 @@ There are noteworthy examples where integrating HPI into trading algorithms has 
 
 ### Risks and Pitfalls
 
-Despite the advantages, potential risks include data incompleteness and quality issues, which can skew predictions. Market volatility presents another challenge; unexpected economic changes can render HPI-based predictions less reliable. Furthermore, overfitting is a concern, where algorithms become too tailored to historical data, limiting their performance on unseen data. To mitigate these, robust cross-validation methods and the incorporation of diverse datasets are recommended.
+Despite the advantages, potential risks include data incompleteness and quality issues, which can skew predictions. Market [volatility](/wiki/volatility-trading-strategies) presents another challenge; unexpected economic changes can render HPI-based predictions less reliable. Furthermore, overfitting is a concern, where algorithms become too tailored to historical data, limiting their performance on unseen data. To mitigate these, robust cross-validation methods and the incorporation of diverse datasets are recommended.
 
 In summary, while integrating HPI into real estate algorithmic trading models offers the potential for more strategic and data-driven investment decisions, careful consideration of data quality and model robustness is essential to navigate inherent challenges effectively.
 

@@ -30,7 +30,7 @@ The put option is what makes a putable swap different from a regular swap. It gi
 
 The typical participants in a putable swap are usually big financial institutions like banks, hedge funds, and sometimes large companies. These organizations use putable swaps to manage their financial risks or to take advantage of market opportunities. For example, a bank might use a putable swap to protect itself against changes in interest rates, while a company might use it to manage currency risks when doing business in different countries.
 
-The party that gets the right to end the swap early, called the put option, is often the one that wants more control over the swap. This could be a company that wants to be able to get out of the swap if it finds a better deal elsewhere, or a hedge fund that wants to manage its exposure to certain financial risks. The other party in the swap, usually a financial institution, agrees to the terms of the swap in exchange for a fee or other benefits. This arrangement helps both parties manage their financial strategies more effectively.
+The party that gets the right to end the swap early, called the put option, is often the one that wants more control over the swap. This could be a company that wants to be able to get out of the swap if it finds a better deal elsewhere, or a [hedge fund](/wiki/hedge-fund-trading-strategies) that wants to manage its exposure to certain financial risks. The other party in the swap, usually a financial institution, agrees to the terms of the swap in exchange for a fee or other benefits. This arrangement helps both parties manage their financial strategies more effectively.
 
 ## What are the benefits of using a putable swap?
 
@@ -76,7 +76,7 @@ Because of these regulations, companies might be more careful about using putabl
 
 ## What advanced strategies can be employed with putable swaps?
 
-One advanced strategy with putable swaps is using them to manage interest rate risks in a more flexible way. Big companies and banks might use putable swaps to protect themselves from big changes in interest rates. If rates go up or down a lot, they can end the swap early and avoid losing money. This can be really helpful if they're not sure what's going to happen in the market. By having the option to end the swap early, they can adjust their strategies quickly and make sure they're ready for whatever comes next.
+One advanced strategy with putable swaps is using them to manage [interest rate](/wiki/interest-rate-trading-strategies) risks in a more flexible way. Big companies and banks might use putable swaps to protect themselves from big changes in interest rates. If rates go up or down a lot, they can end the swap early and avoid losing money. This can be really helpful if they're not sure what's going to happen in the market. By having the option to end the swap early, they can adjust their strategies quickly and make sure they're ready for whatever comes next.
 
 Another strategy is using putable swaps to manage currency risks when doing business in different countries. If a company has to deal with different currencies, they can use a putable swap to protect themselves from changes in currency values. If one currency starts to lose value compared to another, the company can end the swap early and avoid big losses. This flexibility can be a big advantage, especially in a market that's always changing. By using putable swaps, companies can keep their financial planning on track and make sure they're not caught off guard by unexpected changes.
 

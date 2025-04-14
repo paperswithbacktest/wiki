@@ -82,7 +82,7 @@ Another trend that could affect Eurocurrency is how countries work together. If 
 
 ## What are effective algorithmic trading strategies?
 
-Trend-following, arbitrage, and [momentum](/wiki/momentum)-based strategies are fundamental approaches within algorithmic trading employed in Eurocurrency markets. These strategies leverage mathematical and statistical models to capitalize on market trends and inefficiencies.
+Trend-following, [arbitrage](/wiki/arbitrage), and [momentum](/wiki/momentum)-based strategies are fundamental approaches within [algorithmic trading](/wiki/algorithmic-trading) employed in Eurocurrency markets. These strategies leverage mathematical and statistical models to capitalize on market trends and inefficiencies.
 
 Trend-following strategies involve analyzing historical price movements to predict future price directions. Traders typically use technical analysis tools like moving averages to identify trends. For instance, a simple moving average (SMA) is calculated by averaging a security's price over a set number of periods. The formula for a simple moving average over $n$ periods is given by:
 
@@ -116,7 +116,7 @@ To summarize, successful implementation of algorithmic trading strategies in Eur
 
 ## What are the benefits and challenges of Eurocurrency algo trading?
 
-Eurocurrency trading, particularly when augmented by algorithmic trading strategies, provides distinct benefits including higher interest rates and enhanced global liquidity. Due to the offshore nature of Eurocurrency markets, banks can offer attractive interest rates on deposits and loans beyond domestic regulatory constraints. This environment fosters a more efficient allocation of capital across borders, facilitating an increase in global liquidity. The presence of this liquidity is crucial for traders, as it offers the potential for executing large trades with minimal market impact, thereby reducing transaction costs.
+Eurocurrency trading, particularly when augmented by algorithmic trading strategies, provides distinct benefits including higher interest rates and enhanced global [liquidity](/wiki/liquidity-risk-premium). Due to the offshore nature of Eurocurrency markets, banks can offer attractive interest rates on deposits and loans beyond domestic regulatory constraints. This environment fosters a more efficient allocation of capital across borders, facilitating an increase in global liquidity. The presence of this liquidity is crucial for traders, as it offers the potential for executing large trades with minimal market impact, thereby reducing transaction costs.
 
 However, this advantageous trading landscape is accompanied by significant challenges. A primary concern is the regulatory risk arising from the largely unregulated nature of Eurocurrency markets. Unlike domestic markets, Eurocurrency transactions often occur outside the purview of a single national regulatory authority, complicating compliance efforts. Traders must stay informed about changes in international banking regulations that could impact their activities.
 

@@ -50,7 +50,7 @@ To help them see trends more clearly, Chartists use indicators like moving avera
 
 Volume is really important for a Chartist when they look at charts. It tells them how many people are buying or selling something. If the volume is high, it means a lot of people are interested in the price at that time. Chartists think that if the price is going up and the volume is high, it's a strong sign that the price might keep going up. But if the price is going up and the volume is low, it might mean the price could change direction soon.
 
-Chartists also use volume to confirm patterns they see on the charts. For example, if they see a 'breakout' where the price moves out of a pattern like a triangle, they want to see high volume to be sure it's a real move. If the volume is low during a breakout, they might not trust it as much. So, volume helps Chartists feel more confident about their guesses on where the price might go next.
+Chartists also use volume to confirm patterns they see on the charts. For example, if they see a '[breakout](/wiki/breakout-trading)' where the price moves out of a pattern like a triangle, they want to see high volume to be sure it's a real move. If the volume is low during a breakout, they might not trust it as much. So, volume helps Chartists feel more confident about their guesses on where the price might go next.
 
 ## How can a Chartist use moving averages to make trading decisions?
 
@@ -66,7 +66,7 @@ Another criticism is that Chartists focus only on past price movements and don't
 
 ## How do advanced Chartists incorporate algorithmic trading into their strategies?
 
-Advanced Chartists use computers to help them trade by using something called algorithmic trading. They write special computer programs that can look at charts and find patterns much faster than a person can. These programs can also buy or sell things automatically based on what the charts show. For example, if the program sees a 'head and shoulders' pattern, it might sell the investment without the Chartist having to do anything. This can help Chartists make decisions quicker and not miss out on good opportunities.
+Advanced Chartists use computers to help them trade by using something called [algorithmic trading](/wiki/algorithmic-trading). They write special computer programs that can look at charts and find patterns much faster than a person can. These programs can also buy or sell things automatically based on what the charts show. For example, if the program sees a 'head and shoulders' pattern, it might sell the investment without the Chartist having to do anything. This can help Chartists make decisions quicker and not miss out on good opportunities.
 
 These Chartists might also use their programs to test their ideas. They can run the program on old data to see if their patterns would have worked in the past. If the program shows that a certain pattern led to good trades before, the Chartist might trust it more for future trades. But they have to be careful because the market can change, and what worked before might not work again. So, they keep updating their programs and looking for new patterns to stay ahead.
 
@@ -80,7 +80,7 @@ Some Chartists also use systems like the Ichimoku Cloud, which is a bit more com
 
 ## How has the role of a Chartist evolved with the advent of machine learning and big data?
 
-The role of a Chartist has changed a lot because of machine learning and big data. Before, Chartists would spend a lot of time looking at charts by hand, trying to spot patterns and trends. Now, they can use computers that are really good at finding these patterns much faster and more accurately. Machine learning helps Chartists by letting them use programs that learn from past data to make better guesses about where prices might go next. This means Chartists can make quicker and more informed trading decisions without having to look at every chart themselves.
+The role of a Chartist has changed a lot because of [machine learning](/wiki/machine-learning) and big data. Before, Chartists would spend a lot of time looking at charts by hand, trying to spot patterns and trends. Now, they can use computers that are really good at finding these patterns much faster and more accurately. Machine learning helps Chartists by letting them use programs that learn from past data to make better guesses about where prices might go next. This means Chartists can make quicker and more informed trading decisions without having to look at every chart themselves.
 
 Big data also helps Chartists a lot. They can now look at huge amounts of information from all over the world, not just the prices they used to focus on. This extra information can help them see things they might have missed before, like how news or social media can affect prices. With all this data, Chartists can use their computers to find new patterns and trends that they couldn't see before. So, while the basic idea of looking at charts to predict prices is still the same, Chartists now have powerful tools that make their job easier and more effective.
 

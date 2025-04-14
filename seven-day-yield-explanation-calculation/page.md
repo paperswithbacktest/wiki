@@ -18,7 +18,7 @@ To find the Seven-Day Yield, the fund looks at the income it made over the last 
 
 The Seven-Day Yield is important for investors because it tells them how much money they might make from a money market fund in a week. This helps them see if the fund is a good place to put their money. When investors are looking at different money market funds, they can use the Seven-Day Yield to compare them and pick the one that might give them the best return.
 
-Knowing the Seven-Day Yield also helps investors understand how well a money market fund is doing right now. It's like a quick check-up on the fund's health. If the yield is high, it means the fund is earning a lot of income, which could be good for the investor. If it's low, the fund might not be the best choice at that time. This information helps investors make smart choices about where to invest their money.
+Knowing the Seven-Day Yield also helps investors understand how well a money market fund is doing right now. It's like a quick check-up on the fund's health. If the yield is high, it means the fund is [earning](/wiki/earning-announcement) a lot of income, which could be good for the investor. If it's low, the fund might not be the best choice at that time. This information helps investors make smart choices about where to invest their money.
 
 ## How is the Seven-Day Yield different from other yield measures?
 
@@ -52,7 +52,7 @@ It's important to keep the Seven-Day Yield up to date because money market funds
 
 ## What factors can influence changes in the Seven-Day Yield?
 
-Changes in the Seven-Day Yield can be influenced by many things. One big factor is the interest rates set by the central bank. If these rates go up, the money market fund might earn more interest on the money it has invested, which can make the Seven-Day Yield go up too. On the other hand, if interest rates go down, the fund might earn less, and the Seven-Day Yield could drop. Another factor is how well the companies or governments the fund has invested in are doing. If they are doing well and paying more dividends, the fund's income goes up, and so does the Seven-Day Yield.
+Changes in the Seven-Day Yield can be influenced by many things. One big [factor](/wiki/factor-investing) is the interest rates set by the central bank. If these rates go up, the money market fund might earn more interest on the money it has invested, which can make the Seven-Day Yield go up too. On the other hand, if interest rates go down, the fund might earn less, and the Seven-Day Yield could drop. Another factor is how well the companies or governments the fund has invested in are doing. If they are doing well and paying more dividends, the fund's income goes up, and so does the Seven-Day Yield.
 
 Another thing that can change the Seven-Day Yield is how much money is coming into or going out of the fund. If a lot of people are putting money into the fund, the fund managers might have to invest in lower-yielding options, which can lower the Seven-Day Yield. If people are taking their money out, the fund might have to sell some of its investments, which can also affect the yield. Lastly, changes in the economy, like inflation or economic growth, can also play a role. If the economy is doing well, the fund might earn more, but if things are tough, the Seven-Day Yield might go down.
 
@@ -60,7 +60,7 @@ Another thing that can change the Seven-Day Yield is how much money is coming in
 
 The Seven-Day Yield is a great way for investors to compare different money market funds. By looking at the Seven-Day Yield of different funds, you can see which one is earning more money right now. If one fund has a higher Seven-Day Yield than another, it means that fund is making more income over the last week. This can help you decide which fund might give you a better return on your money. But remember, the Seven-Day Yield is just a snapshot of one week, so it's a good idea to look at other things too, like the fund's history and other yield measures.
 
-You can also use the Seven-Day Yield to see how a money market fund stacks up against other types of investments, like savings accounts or short-term bonds. If the Seven-Day Yield of a money market fund is higher than the interest rate on a savings account, it might be a better place to put your money. But you need to think about other things too, like how safe the investment is and how easy it is to get your money back. The Seven-Day Yield gives you a quick way to compare, but it's always smart to look at the whole picture before making a decision.
+You can also use the Seven-Day Yield to see how a money market fund stacks up against other types of investments, like savings accounts or short-term bonds. If the Seven-Day Yield of a money market fund is higher than the [interest rate](/wiki/interest-rate-trading-strategies) on a savings account, it might be a better place to put your money. But you need to think about other things too, like how safe the investment is and how easy it is to get your money back. The Seven-Day Yield gives you a quick way to compare, but it's always smart to look at the whole picture before making a decision.
 
 ## What are the limitations of using the Seven-Day Yield as a performance metric?
 

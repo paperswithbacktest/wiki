@@ -24,7 +24,7 @@ On the other hand, a Weighted Moving Average gives more importance to recent dat
 
 Someone might choose a Weighted Moving Average over other types of averages because it gives more importance to recent data. In many situations, like in stock trading or weather forecasting, what's happening now or very recently is more important than what happened a long time ago. A Weighted Moving Average helps you see these recent changes more clearly because it puts more weight on the newest information. This can be really helpful if you want to make quick decisions based on the latest trends.
 
-Another reason to use a Weighted Moving Average is that it can help smooth out data while still being responsive to new changes. Other averages, like a Simple Moving Average, treat all data the same, which can make them slower to show new trends. With a Weighted Moving Average, you can see the big picture of your data over time, but also notice when things are starting to change. This balance between seeing the overall trend and picking up on new developments makes it a useful tool in many fields.
+Another reason to use a Weighted Moving Average is that it can help smooth out data while still being responsive to new changes. Other averages, like a Simple Moving Average, treat all data the same, which can make them slower to show new trends. With a Weighted Moving Average, you can see the big picture of your data over time, but also notice when things are starting to change. This balance between seeing the overall trend and [picking](/wiki/asset-class-picking) up on new developments makes it a useful tool in many fields.
 
 ## How do you calculate a Weighted Moving Average?
 

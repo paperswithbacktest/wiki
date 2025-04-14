@@ -22,7 +22,7 @@ Over time, the American Dream grew and changed. In the 20th century, it became c
 
 ## What are some common elements of the American Dream?
 
-The American Dream often includes the idea of having a good job. People dream of working hard and earning enough money to support themselves and their families. This job should provide a stable income and maybe even let them save some money for the future. Many people also hope to climb the career ladder and achieve more success over time.
+The American Dream often includes the idea of having a good job. People dream of working hard and [earning](/wiki/earning-announcement) enough money to support themselves and their families. This job should provide a stable income and maybe even let them save some money for the future. Many people also hope to climb the career ladder and achieve more success over time.
 
 Another common element is owning a home. For many Americans, buying a house is a big part of the dream. A home represents stability and a place to call their own. It's somewhere they can raise a family and build a life. Owning a home is a sign that they have achieved a level of success and security.
 
@@ -92,7 +92,7 @@ There are also criticisms of the American Dream. Some people say it's not fair b
 
 ## What is the interplay between modern success metrics and algorithmic trading?
 
-The relationship between algorithmic trading outcomes and the broader concept of success is increasingly significant as technology advances rapidly. Algorithmic trading, which leverages pre-programmed instructions and models to execute trades, aligns with modern success metrics by emphasizing efficiency, data-driven decision-making, and adaptability—key components of contemporary interpretations of success.
+The relationship between [algorithmic trading](/wiki/algorithmic-trading) outcomes and the broader concept of success is increasingly significant as technology advances rapidly. Algorithmic trading, which leverages pre-programmed instructions and models to execute trades, aligns with modern success metrics by emphasizing efficiency, data-driven decision-making, and adaptability—key components of contemporary interpretations of success.
 
 Investors use various data analytics and performance metrics to measure trading success, essential for evaluating algorithmic trading outcomes. Metrics such as Sharpe Ratio, Total Return, and Maximum Drawdown help assess the risk-adjusted performance of trading strategies. The Sharpe Ratio, for instance, evaluates the return of an investment compared to its risk, calculated as:
 

@@ -50,7 +50,7 @@ When mutual funds use options and futures, one common strategy is called hedging
 
 Another strategy is called speculation. Here, the fund manager uses options and futures to try to make more money for the fund. They might buy call options if they think a stock's price will go up. If they're right, and the stock price does go up, the fund can buy the stock at a lower price and then sell it at the higher market price, making a profit. This can be exciting because it might help the fund grow faster, but it's also riskier. If the stock price doesn't go up, the fund could lose money on the options.
 
-Some funds also use a strategy called arbitrage. This involves taking advantage of price differences between markets. For example, if a stock is trading at a different price on two different exchanges, the fund might buy it on the lower-priced exchange and sell it on the higher-priced one. Options and futures can help make this strategy work better. But like the other strategies, it comes with its own risks and needs careful management to work well.
+Some funds also use a strategy called [arbitrage](/wiki/arbitrage). This involves taking advantage of price differences between markets. For example, if a stock is trading at a different price on two different exchanges, the fund might buy it on the lower-priced exchange and sell it on the higher-priced one. Options and futures can help make this strategy work better. But like the other strategies, it comes with its own risks and needs careful management to work well.
 
 ## How do mutual funds use options and futures for hedging purposes?
 

@@ -60,7 +60,7 @@ Another good strategy is to have a clear investment plan and stick to it. This m
 
 The 'sheep' mentality can really shake up different kinds of investments like stocks, bonds, and cryptocurrencies. In the stock market, when a lot of people start buying a stock just because they see others doing it, the price can go up a lot. This creates a bubble, and when the bubble bursts, the price can fall fast, and people can lose a lot of money. With bonds, if everyone starts selling them because they see others doing it, the bond prices can drop, and the interest rates can go up. This can make it harder for people to borrow money and can slow down the economy. 
 
-Cryptocurrencies can be even more affected by the 'sheep' mentality because they are newer and can be more unpredictable. If a lot of people start buying a certain cryptocurrency because they see others doing it, the price can go way up, creating a big bubble. But when people start selling because they see others doing it, the price can crash really fast. This can make cryptocurrencies very risky for people who just follow the crowd without thinking about it.
+Cryptocurrencies can be even more affected by the 'sheep' mentality because they are newer and can be more unpredictable. If a lot of people start buying a certain [cryptocurrency](/wiki/cryptocurrency) because they see others doing it, the price can go way up, creating a big bubble. But when people start selling because they see others doing it, the price can crash really fast. This can make cryptocurrencies very risky for people who just follow the crowd without thinking about it.
 
 ## What role does media and social media play in amplifying herd-like behavior among investors?
 

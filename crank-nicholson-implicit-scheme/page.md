@@ -164,7 +164,7 @@ $$
    - Assess convergence by checking the difference between subsequent iterations, ensuring stability and accuracy.
 
 6. **Case Studies and Examples:**
-   In practice, financial institutions often use Crank-Nicolson to model complex derivatives under stochastic volatility models or local volatility surfaces. A realistic implementation could involve calibrating model parameters to market data to ensure the model's intrinsic assumptions align with observed behaviors.
+   In practice, financial institutions often use Crank-Nicolson to model complex derivatives under stochastic [volatility](/wiki/volatility-trading-strategies) models or local volatility surfaces. A realistic implementation could involve calibrating model parameters to market data to ensure the model's intrinsic assumptions align with observed behaviors.
 
 ### Tools and Software
 

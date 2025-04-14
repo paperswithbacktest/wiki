@@ -42,7 +42,7 @@ Another benefit is that Petro could help Venezuela trade with other countries wi
 
 There are big worries about whether Petro is really backed by oil like the Venezuelan government says. Many people think that the government might not have enough oil to support all the Petros they've made. This makes people doubt if Petro is worth what the government says it is. Also, the government controls everything about Petro, which makes some people think it's not a fair or open system. They worry that the government could change the rules anytime, which could hurt people who have Petro.
 
-Another big concern is that Petro is not used much outside Venezuela. Because of sanctions from other countries, it's hard for Petro to be accepted and used around the world. This makes Petro less useful for buying things or trading with other countries. If Petro can't be used widely, it might not be a good way to help Venezuela's economy. All these worries make people question if Petro is a stable and legitimate cryptocurrency.
+Another big concern is that Petro is not used much outside Venezuela. Because of sanctions from other countries, it's hard for Petro to be accepted and used around the world. This makes Petro less useful for buying things or trading with other countries. If Petro can't be used widely, it might not be a good way to help Venezuela's economy. All these worries make people question if Petro is a stable and legitimate [cryptocurrency](/wiki/cryptocurrency).
 
 ## How is Petro regulated and what are the legal implications for users?
 

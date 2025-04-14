@@ -32,7 +32,7 @@ When the shorter-term moving average, like the 50-day average, crosses above the
 
 The Simple Moving Average (SMA) and the Exponential Moving Average (EMA) are both used to smooth out price data and identify trends, but they calculate the average differently. The SMA is calculated by taking the average price of a stock over a certain number of days. For example, a 50-day SMA would add up the closing prices of the last 50 days and divide by 50. This gives you an equal weight to each day's price, making it a straightforward but slower indicator to changes in the stock's price.
 
-On the other hand, the EMA gives more weight to recent prices, making it more responsive to new information. The EMA uses a formula that includes a smoothing factor, which means that the most recent prices have a bigger impact on the average. For example, a 50-day EMA would put more emphasis on the price from the last few days than the price from 50 days ago. This makes the EMA quicker to react to changes in the stock's price, which can be helpful for traders who want to catch trends early.
+On the other hand, the EMA gives more weight to recent prices, making it more responsive to new information. The EMA uses a formula that includes a smoothing [factor](/wiki/factor-investing), which means that the most recent prices have a bigger impact on the average. For example, a 50-day EMA would put more emphasis on the price from the last few days than the price from 50 days ago. This makes the EMA quicker to react to changes in the stock's price, which can be helpful for traders who want to catch trends early.
 
 Both the SMA and EMA can be useful for identifying trends, but the choice between them depends on what a trader is looking for. If you want a smoother, more stable indicator that might help you stay in a trend longer, the SMA might be better. If you want an indicator that reacts faster to price changes and helps you get into or out of a trend quicker, the EMA could be the better choice.
 
@@ -52,7 +52,7 @@ Another way the MACD helps with trend trading is by showing how strong the trend
 
 Bollinger Bands are a tool that helps traders see how much a stock's price is moving around and which way it might be going. They are made up of three lines: the middle line is a moving average of the stock's price, and the other two lines are set above and below this middle line. These outer lines are called bands, and they move further apart when the stock's price is bouncing around a lot, which means the market is more volatile. When the bands are closer together, it means the price is not moving around as much, and the market is less volatile.
 
-Traders use Bollinger Bands to spot trends by watching how the stock's price moves in relation to the bands. If the price keeps touching the upper band, it might mean the stock is in an uptrend. If it keeps touching the lower band, it might mean the stock is in a downtrend. When the price moves outside the bands, it can mean the trend is getting stronger. But if the price starts moving back and forth between the bands without breaking out, it might mean the trend is getting weaker or that the market is not sure which way to go. By keeping an eye on Bollinger Bands, traders can get a better sense of when to buy or sell based on the stock's volatility and trend.
+Traders use Bollinger Bands to spot trends by watching how the stock's price moves in relation to the bands. If the price keeps touching the upper band, it might mean the stock is in an uptrend. If it keeps touching the lower band, it might mean the stock is in a downtrend. When the price moves outside the bands, it can mean the trend is getting stronger. But if the price starts moving back and forth between the bands without breaking out, it might mean the trend is getting weaker or that the market is not sure which way to go. By keeping an eye on Bollinger Bands, traders can get a better sense of when to buy or sell based on the stock's [volatility](/wiki/volatility-trading-strategies) and trend.
 
 ## What are Fibonacci retracement levels and how are they applied in trend trading?
 
@@ -88,7 +88,7 @@ Another problem is that indicators can be too sensitive or not sensitive enough,
 
 ## What are Stock Indicators and How Can They Be Understood?
 
-Stock indicators are mathematical tools that help traders interpret market conditions and predict future price movements. They rely primarily on a security’s price, volume, and open interest. By applying different formulas to these data points, traders can gain insights into market trends and make informed decisions.
+Stock indicators are mathematical tools that help traders interpret market conditions and predict future price movements. They rely primarily on a security’s price, [volume](/wiki/volume-trading-strategy), and open interest. By applying different formulas to these data points, traders can gain insights into market trends and make informed decisions.
 
 One of the most commonly used stock indicators is the Moving Average (MA). Moving Averages smooth out price data to identify trend directions over specific periods. There are several types of moving averages, with the Simple Moving Average (SMA) and the Exponential Moving Average (EMA) being the most popular. The formula for a Simple Moving Average over $n$ periods is:
 

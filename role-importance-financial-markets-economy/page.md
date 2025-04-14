@@ -64,7 +64,7 @@ Financial markets also help set the mood for the whole economy. When people see 
 
 ## What is the role of financial markets in global trade?
 
-Financial markets help global trade by making it easier for countries to buy and sell things from each other. When a company in one country wants to buy something from another country, they might need to use a different currency. The forex market, where people trade different currencies, helps them do this. It sets the prices for different currencies, so companies know how much they need to pay. This makes it easier for businesses to plan and do deals with other countries.
+Financial markets help global trade by making it easier for countries to buy and sell things from each other. When a company in one country wants to buy something from another country, they might need to use a different currency. The [forex](/wiki/forex-system) market, where people trade different currencies, helps them do this. It sets the prices for different currencies, so companies know how much they need to pay. This makes it easier for businesses to plan and do deals with other countries.
 
 Financial markets also help companies get the money they need to do business around the world. If a company wants to build a new factory in another country, it might sell stocks or bonds to raise money. People from all over the world can buy these stocks and bonds, giving the company the money it needs to grow. By doing this, financial markets help move money from places where people have extra to places where it can help businesses grow and create jobs. This makes global trade stronger and helps the whole world's economy.
 

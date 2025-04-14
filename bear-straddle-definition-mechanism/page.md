@@ -84,7 +84,7 @@ Another way professional traders use Bear Straddles is to manage risk. They migh
 
 ## What are the challenges and risks associated with Bear Straddle Strategies?
 
-Bear straddle strategies, while powerful, come with significant risks that traders must carefully manage. One of the primary risks is the potential for unlimited losses. This occurs because a bear straddle involves buying both a call and a put option at the same strike price, anticipating volatility rather than a specific price direction. If the underlying asset price remains stable or moves unpredictably, the trader might incur losses from both options premiums, as neither the call nor the put would become profitable. 
+Bear straddle strategies, while powerful, come with significant risks that traders must carefully manage. One of the primary risks is the potential for unlimited losses. This occurs because a bear straddle involves buying both a call and a put option at the same strike price, anticipating [volatility](/wiki/volatility-trading-strategies) rather than a specific price direction. If the underlying asset price remains stable or moves unpredictably, the trader might incur losses from both options premiums, as neither the call nor the put would become profitable. 
 
 Mathematically, the loss can be represented as:
 

@@ -48,7 +48,7 @@ Also, rules that make trading more open and clear have helped women. When tradin
 
 ## What educational paths are recommended for women interested in a career in listed derivatives?
 
-For women interested in a career in listed derivatives, a strong educational background in finance, economics, or a related field is very helpful. Many people start by getting a bachelor's degree in finance or economics. These programs teach you about how markets work, how to analyze data, and how to make smart investment choices. Some women also choose to study math or statistics because these skills are important for understanding and working with derivatives.
+For women interested in a career in listed derivatives, a strong educational background in finance, economics, or a related field is very helpful. Many people start by getting a bachelor's degree in finance or economics. These programs teach you about how markets work, how to analyze data, and how to make smart investment choices. Some women also choose to study math or [statistics](/wiki/bayesian-statistics) because these skills are important for understanding and working with derivatives.
 
 After getting a bachelor's degree, some women decide to go further and get a master's degree or an MBA. These advanced degrees can give you even more knowledge and skills that are useful in the listed derivatives industry. Programs like a Master's in Financial Engineering or an MBA with a focus on finance can teach you about complex financial products like derivatives. They also help you learn how to manage risk and make strategic decisions, which are key parts of working with listed derivatives.
 

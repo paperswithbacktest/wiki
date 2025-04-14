@@ -18,7 +18,7 @@ This strategy can be profitable, but it also comes with risks. Sometimes, the me
 
 Merger arbitrage in the context of trade takeover stocks involves buying the stocks of a company that is being targeted for a takeover at a price lower than what the acquiring company has offered. When a company announces it wants to buy another company, it usually offers a price per share that's higher than the current market price. The idea behind merger arbitrage is to buy the target company's stock at the lower market price and then sell it at the higher takeover price once the deal is completed. This difference between the market price and the takeover price is what investors hope to profit from.
 
-However, there are risks involved. Sometimes, the takeover might not happen. This could be due to regulatory issues, failure to get enough shareholder approval, or other complications. If the takeover falls through, the stock price of the target company can drop significantly, leading to losses for the investors. Because of these risks, people who engage in merger arbitrage need to carefully assess the likelihood of the takeover going through and stay updated on any news or developments that could affect the deal.
+However, there are risks involved. Sometimes, the takeover might not happen. This could be due to regulatory issues, failure to get enough shareholder approval, or other complications. If the takeover falls through, the stock price of the target company can drop significantly, leading to losses for the investors. Because of these risks, people who engage in merger [arbitrage](/wiki/arbitrage) need to carefully assess the likelihood of the takeover going through and stay updated on any news or developments that could affect the deal.
 
 ## What are the basic steps to start practicing merger arbitrage?
 
@@ -58,7 +58,7 @@ One advanced technique to boost merger arbitrage returns is to use options. Opti
 
 Another technique is to use leverage. This means borrowing money to buy more stock than you could with just your own money. If the merger goes through, you can make more money because you own more stock. But if the merger falls apart, you could lose more money too. So, it's important to be careful and only use leverage if you understand the risks.
 
-A third way to improve returns is to diversify. Instead of putting all your money into one merger, you can spread it out over several different deals. This can help reduce the risk because if one deal falls through, you might still make money from the others. By looking at many different mergers and picking the ones that seem most likely to happen, you can increase your chances of making a profit.
+A third way to improve returns is to diversify. Instead of putting all your money into one merger, you can spread it out over several different deals. This can help reduce the risk because if one deal falls through, you might still make money from the others. By looking at many different mergers and [picking](/wiki/asset-class-picking) the ones that seem most likely to happen, you can increase your chances of making a profit.
 
 ## How does market sentiment influence merger arbitrage outcomes?
 

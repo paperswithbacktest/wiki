@@ -28,7 +28,7 @@ M2 goes a step further and includes everything in M1, plus money in savings acco
 
 ## What is M0 and what does it include?
 
-M0 is the most basic way to measure money in an economy. It includes only the physical money that you can hold in your hands, like coins and paper bills. This is the money that people carry around in their wallets or keep at home.
+M0 is the most basic way to measure money in an economy. It includes only the physical money that you can hold in your hands, like coins and paper bills. This is the money that people [carry](/wiki/carry-trading) around in their wallets or keep at home.
 
 M0 is important because it shows how much actual cash is out there in the economy. When people talk about M0, they're talking about the money that's easy to spend right away, without needing to go to a bank or use a card. It's the starting point for understanding how much money is available for people to use.
 
@@ -82,7 +82,7 @@ On the other hand, if central banks decrease the money supply too much, it can l
 
 ## What are the types of algorithmic trading strategies?
 
-Common algorithmic trading strategies encompass various approaches that utilize systematic and quantitative methods to optimize trading decisions. Among the prominent strategies are trend-following, [arbitrage](/wiki/arbitrage), market-making, and [statistical arbitrage](/wiki/statistical-arbitrage).
+Common [algorithmic trading](/wiki/algorithmic-trading) strategies encompass various approaches that utilize systematic and quantitative methods to optimize trading decisions. Among the prominent strategies are trend-following, [arbitrage](/wiki/arbitrage), market-making, and [statistical arbitrage](/wiki/statistical-arbitrage).
 
 Trend-following strategies aim to exploit market [momentum](/wiki/momentum) by identifying and trading in the direction of existing trends. These strategies often rely on technical indicators like moving averages or momentum oscillators to signal potential entry and [exit](/wiki/exit-strategy) points. A common mathematical representation of a trend-following strategy involves calculating moving averages. For example, a simple moving average (SMA) of a price series can be defined as:
 
@@ -92,7 +92,7 @@ $$
 
 where $\text{SMA}_n$ is the moving average over $n$ periods, and $P_{t-i}$ denotes the price at the $t-i$ point.
 
-Market-making strategies are designed to provide liquidity to financial markets by simultaneously placing buy and sell orders for a security. The primary objective is to profit from the bid-ask spread while maintaining a neutral market position. Market makers continuously adjust their quotes based on supply and demand dynamics. These strategies rely heavily on speed and precision in order entry, often facilitated by advanced algorithms and high-frequency trading systems.
+Market-making strategies are designed to provide [liquidity](/wiki/liquidity-risk-premium) to financial markets by simultaneously placing buy and sell orders for a security. The primary objective is to profit from the bid-ask spread while maintaining a neutral market position. Market makers continuously adjust their quotes based on supply and demand dynamics. These strategies rely heavily on speed and precision in order entry, often facilitated by advanced algorithms and high-frequency trading systems.
 
 Statistical arbitrage involves leveraging quantitative models to identify and exploit price inefficiencies among correlated securities. This strategy requires the use of statistical methods to assess the likelihood of a reversion to mean price relationships. For example, [pair trading](/wiki/pair-trading) is a common form of statistical arbitrage, which involves evaluating the historical correlation between two stocks and taking long or short positions when the price ratio diverges from the mean. A basic pair trading strategy can be formulated in Python as follows:
 

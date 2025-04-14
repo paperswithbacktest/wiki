@@ -88,7 +88,7 @@ Another advanced strategy is to sell non-core assets. These are things the compa
 
 ## How can risk management be effectively implemented in algorithmic trading during periods of deleveraging?
 
-Effective risk management is crucial in algorithmic trading, particularly during periods of deleveraging, as financial markets may experience heightened volatility and decreased liquidity. During such times, it is essential to employ robust strategies to safeguard investments and maintain operational stability. Here are several methods utilized in managing risk in algorithmic trading amid deleveraging:
+Effective risk management is crucial in [algorithmic trading](/wiki/algorithmic-trading), particularly during periods of deleveraging, as financial markets may experience heightened [volatility](/wiki/volatility-trading-strategies) and decreased [liquidity](/wiki/liquidity-risk-premium). During such times, it is essential to employ robust strategies to safeguard investments and maintain operational stability. Here are several methods utilized in managing risk in algorithmic trading amid deleveraging:
 
 1. **Diversification**: Diversification involves spreading investments across a variety of assets to minimize risk exposure. By not concentrating capital in a single asset or asset class, traders can mitigate the impact of adverse price movements on their portfolio. The principle of diversification can be mathematically represented using the variance of a portfolio, which seeks to minimize the overall risk by optimizing the allocation of weights across different assets:
 $$

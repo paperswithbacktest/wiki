@@ -18,7 +18,7 @@ To make a paper wallet, you can use special websites that generate the keys for 
 
 To create a paper wallet, you first need to find a reliable website that offers a paper wallet generator. Some popular ones are available for different cryptocurrencies like Bitcoin. Once you find a good website, you go to their paper wallet generator page. There, you'll see a button that says something like "Generate New Address." When you click it, the website will create a new set of keys for you. These keys include a public address, which is like your account number, and a private key, which is like your secret password.
 
-After the keys are generated, you'll see them on your screen. You need to print these keys on a piece of paper. Make sure you're using a printer that's not connected to the internet to keep your keys safe. Once printed, you have your paper wallet. Keep this paper in a very safe place, like a locked drawer or a safe, because if someone else gets your private key, they can take your cryptocurrency. Remember, paper wallets are good for storing cryptocurrency for a long time, but they can be risky if not kept secure.
+After the keys are generated, you'll see them on your screen. You need to print these keys on a piece of paper. Make sure you're using a printer that's not connected to the internet to keep your keys safe. Once printed, you have your paper wallet. Keep this paper in a very safe place, like a locked drawer or a safe, because if someone else gets your private key, they can take your [cryptocurrency](/wiki/cryptocurrency). Remember, paper wallets are good for storing cryptocurrency for a long time, but they can be risky if not kept secure.
 
 ## What are the benefits of using a paper wallet for storing cryptocurrencies?
 

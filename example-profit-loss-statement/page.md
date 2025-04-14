@@ -82,7 +82,7 @@ Another useful technique is ratio analysis. This involves comparing different nu
 
 ## What is the importance of understanding financial statements in trading?
 
-Financial statements are crucial for traders, particularly those engaged in fundamental analysis, as they provide a detailed overview of a company’s financial situation. Among these, the Profit and Loss (P&L) statement plays a central role. It presents a summary of a company’s revenues, expenses, and net income over a specific period, enabling traders to gain insights into the company’s operational efficiency and profitability.
+Financial statements are crucial for traders, particularly those engaged in [fundamental analysis](/wiki/fundamental-analysis), as they provide a detailed overview of a company’s financial situation. Among these, the Profit and Loss (P&L) statement plays a central role. It presents a summary of a company’s revenues, expenses, and net income over a specific period, enabling traders to gain insights into the company’s operational efficiency and profitability.
 
 The P&L statement starts with the total revenue, which is the income generated from sales or services before any costs are subtracted. Revenue is the top line of the P&L statement and serves as a starting point for determining profitability. The calculation of revenue can be expressed as the sum of all income streams from operations:
 
@@ -116,7 +116,7 @@ In summary, understanding financial statements, particularly P&L statements, is 
 
 ## References & Further Reading
 
-Bergstra, J., et al. provide a comprehensive exploration of "Algorithms for Hyper-Parameter Optimization," which is crucial for refining machine learning models in trading. The study presents methods such as random search and Bayesian optimization, enabling efficient tuning of model parameters to improve predictive performance.
+Bergstra, J., et al. provide a comprehensive exploration of "Algorithms for Hyper-Parameter Optimization," which is crucial for refining [machine learning](/wiki/machine-learning) models in trading. The study presents methods such as random search and Bayesian optimization, enabling efficient tuning of model parameters to improve predictive performance.
 
 Lopez de Prado, M. in "Advances in Financial Machine Learning," addresses cutting-edge techniques tailored for financial data analysis. This includes methods like the Triple-Barrier Method for labeling financial data and the use of Meta-labeling strategies to enhance model accuracy. These techniques are vital for traders seeking to leverage machine learning for strategic advantage.
 
@@ -124,5 +124,5 @@ Aronson, D.'s work, "Evidence-Based Technical Analysis," emphasizes the importan
 
 Jansen, S. presents "Machine Learning for Algorithmic Trading," offering a practical guide for implementing machine learning techniques in trading algorithms. The book covers various strategies, including the development of machine learning models for predicting asset returns, making it a valuable resource for enhancing trading systems.
 
-Chan, E. in "Quantitative Trading: How to Build Your Own Algorithmic Trading Business," provides insights into building algorithmic trading strategies and developing a trading infrastructure. Chan discusses vital elements, such as back-testing and risk management, which are critical for creating a robust and profitable trading business.
+Chan, E. in "Quantitative Trading: How to Build Your Own Algorithmic Trading Business," provides insights into building [algorithmic trading](/wiki/algorithmic-trading) strategies and developing a trading infrastructure. Chan discusses vital elements, such as back-testing and risk management, which are critical for creating a robust and profitable trading business.
 

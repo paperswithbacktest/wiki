@@ -30,7 +30,7 @@ Another type of over-the-counter medication is cough and cold medicine. These ca
 
 ## What should you consider before taking over-the-counter medications?
 
-Before you take over-the-counter medications, it's important to think about a few things. First, check if the medicine is right for your symptoms. Not all medications work for every problem, so make sure you're picking the right one. Also, think about any other medicines you're taking. Some over-the-counter drugs can interact with other medications, which could be harmful. Always read the label to see if there are any warnings about mixing medicines.
+Before you take over-the-counter medications, it's important to think about a few things. First, check if the medicine is right for your symptoms. Not all medications work for every problem, so make sure you're [picking](/wiki/asset-class-picking) the right one. Also, think about any other medicines you're taking. Some over-the-counter drugs can interact with other medications, which could be harmful. Always read the label to see if there are any warnings about mixing medicines.
 
 Another thing to consider is if you have any health conditions that might affect how you react to the medicine. For example, if you have high blood pressure, some cold medicines might not be safe for you. It's also a good idea to know how much of the medicine to take and how often. Taking too much can cause problems, so follow the directions carefully. If you're unsure about anything, talking to a pharmacist or a doctor can help you make the best choice for your health.
 

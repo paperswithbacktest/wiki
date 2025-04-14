@@ -70,7 +70,7 @@ Because of daily rebalancing, this ETF is meant for short-term trading, not for 
 
 ## What historical data is available for the ProShares UltraPro Short S&P 500 ETF?
 
-The ProShares UltraPro Short S&P 500 ETF has been around since June 23, 2009. You can find its historical data on financial websites like Yahoo Finance, Bloomberg, or the ProShares website. This data shows how the ETF has done over time, including its price, how much it's gone up or down each day, and other important numbers like its trading volume and expense ratio. Looking at this data can help you see how the ETF has done in different market situations, like when the stock market went up or down.
+The ProShares UltraPro Short S&P 500 ETF has been around since June 23, 2009. You can find its historical data on financial websites like Yahoo Finance, Bloomberg, or the ProShares website. This data shows how the ETF has done over time, including its price, how much it's gone up or down each day, and other important numbers like its trading [volume](/wiki/volume-trading-strategy) and expense ratio. Looking at this data can help you see how the ETF has done in different market situations, like when the stock market went up or down.
 
 The ETF tries to give you three times the opposite return of the S&P 500 each day. So, if you look at its historical performance, you'll see it does the opposite of what the S&P 500 does, but three times as much. This means if the S&P 500 goes down, the ETF tries to go up a lot, and if the S&P 500 goes up, the ETF tries to go down a lot. Because it's meant for short-term trading, the historical data shows big ups and downs, and it's important to look at this data to understand how risky it can be to invest in this ETF.
 
@@ -82,7 +82,7 @@ All these ETFs, including the ProShares UltraPro Short S&P 500 ETF, are meant fo
 
 ## What is UltraPro ProShares ETF?
 
-The UltraPro ProShares ETF is specifically designed to amplify the daily performance of the S&P 500 index by a factor of three (3x). This form of leveraged exposure is achieved through financial instruments like swaps and futures, rather than merely holding the stocks in the index. Leveraged ETFs, such as UltraPro ProShares, are built to provide investors with opportunities to gain magnified returns on their investment if the market moves in their favor.
+The UltraPro ProShares ETF is specifically designed to amplify the daily performance of the S&P 500 index by a [factor](/wiki/factor-investing) of three (3x). This form of leveraged exposure is achieved through financial instruments like swaps and futures, rather than merely holding the stocks in the index. Leveraged ETFs, such as UltraPro ProShares, are built to provide investors with opportunities to gain magnified returns on their investment if the market moves in their favor.
 
 The design of such an ETF involves a sophisticated structure where the fund manager utilizes derivatives to achieve the targeted daily return. Swaps, which are agreements to exchange cash flows or returns on an asset, are commonly used in these ETFs. The UltraPro ProShares ETF uses these swaps to try to match three times the return of the underlying S&P 500 index on a daily basis. Additionally, futures contracts, which are standardized agreements to buy or sell an asset at a predetermined future date and price, may be employed to facilitate the leverage effect.
 

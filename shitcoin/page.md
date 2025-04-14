@@ -22,7 +22,7 @@ As the number of cryptocurrencies grew, so did the use of the term 'shitcoin'. I
 
 ## What are the characteristics of a shitcoin?
 
-A shitcoin is often a cryptocurrency that doesn't have much real value or use. People might call a coin a shitcoin if it doesn't have a strong team behind it or if it doesn't have a clear plan for what it wants to do in the future. These coins are usually not very popular and don't have many people using them. Sometimes, they are made just to try to make a quick profit, without much thought about how they can help people or be useful.
+A shitcoin is often a [cryptocurrency](/wiki/cryptocurrency) that doesn't have much real value or use. People might call a coin a shitcoin if it doesn't have a strong team behind it or if it doesn't have a clear plan for what it wants to do in the future. These coins are usually not very popular and don't have many people using them. Sometimes, they are made just to try to make a quick profit, without much thought about how they can help people or be useful.
 
 The prices of shitcoins can go up and down a lot, which can be exciting but also very risky. Because they are not very stable, people who buy them can lose a lot of money if the price goes down. It's important for anyone thinking about buying a shitcoin to be careful and do a lot of research first. They should look at who is behind the coin, what the coin is supposed to do, and whether it has a real chance of being successful.
 

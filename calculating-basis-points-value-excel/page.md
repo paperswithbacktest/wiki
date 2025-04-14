@@ -28,7 +28,7 @@ If you want to go the other way and convert basis points to a percentage, you us
 
 ## Can you explain how to use the formula with a simple example?
 
-Let's say you have an interest rate that went up by 0.25%. You want to know how many basis points that is. In Excel, if you put 0.25% in cell A1, you can use the formula =A1*100 to find out. When you type this formula into another cell, Excel will show you the result, which is 25. So, 0.25% is the same as 25 basis points.
+Let's say you have an [interest rate](/wiki/interest-rate-trading-strategies) that went up by 0.25%. You want to know how many basis points that is. In Excel, if you put 0.25% in cell A1, you can use the formula =A1*100 to find out. When you type this formula into another cell, Excel will show you the result, which is 25. So, 0.25% is the same as 25 basis points.
 
 Now, let's say you have 75 basis points and you want to know what percentage that is. If you put 75 in cell B1, you can use the formula =B1/100 to convert it. When you enter this formula, Excel will give you 0.75. If you format this result as a percentage, it will show as 0.75%, which means 75 basis points is the same as 0.75%.
 

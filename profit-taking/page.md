@@ -42,7 +42,7 @@ Another good time to take profits is when you need the money for something else.
 
 ## How can profit-taking impact an investor's portfolio?
 
-When an investor takes profits, it can change their portfolio in big ways. If they sell a stock that has gone up in price, they make money from it. This extra money can be used to buy other stocks or saved for later. It helps keep their money growing and lets them try new investments. But, if they sell too soon, they might miss out on even more money if the stock keeps going up. It's like picking fruit too early; you get some, but you might have gotten more if you waited.
+When an investor takes profits, it can change their portfolio in big ways. If they sell a stock that has gone up in price, they make money from it. This extra money can be used to buy other stocks or saved for later. It helps keep their money growing and lets them try new investments. But, if they sell too soon, they might miss out on even more money if the stock keeps going up. It's like [picking](/wiki/asset-class-picking) fruit too early; you get some, but you might have gotten more if you waited.
 
 On the other hand, taking profits can also protect an investor's portfolio. If the market starts to go down, selling stocks that have gone up can help them avoid losing money. It's like putting on a seatbelt before a bumpy ride. By taking profits, they can lock in the money they've made and use it to buy other things or keep it safe. Knowing when to take profits is important because it helps investors balance making money and keeping their money safe.
 
@@ -86,7 +86,7 @@ Retail investors, on the other hand, usually don't have as many tools or as much
 
 ## What are the strategies for profit-taking in algo trading?
 
-In algorithmic trading, profit-taking strategies are employed to maximize earnings by strategically exiting positions. These strategies are critical for ensuring that gains are realized efficiently in diverse market conditions. The primary strategies include trend-following, mean reversion, and adaptive profit-taking.
+In [algorithmic trading](/wiki/algorithmic-trading), profit-taking strategies are employed to maximize earnings by strategically exiting positions. These strategies are critical for ensuring that gains are realized efficiently in diverse market conditions. The primary strategies include trend-following, mean reversion, and adaptive profit-taking.
 
 **Trend-Following Strategy**: This approach capitalizes on capturing established market trends. Once a trend has been identified, the algorithm exits positions to lock in gains as the trend matures. This strategy relies on technical indicators, such as moving averages, to detect and confirm trends. For instance, an algorithm might exit a position when a short-term moving average crosses below a long-term moving average, a signal that the prevailing trend may be reversing. The formula for a simple moving average (SMA) is:
 

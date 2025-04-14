@@ -92,7 +92,7 @@ $$
 
 Vanguard’s TER often remains lower than its competitors.
 
-However, Vanguard's focus on low-cost, passive investing means its algorithmic trading features are not as developed as some investors might desire. This limitation can be a drawback for traders who wish to leverage advanced algorithmic tools to optimize trading strategies or to participate actively in volatile markets.
+However, Vanguard's focus on low-cost, passive investing means its [algorithmic trading](/wiki/algorithmic-trading) features are not as developed as some investors might desire. This limitation can be a drawback for traders who wish to leverage advanced algorithmic tools to optimize trading strategies or to participate actively in volatile markets.
 
 Conversely, Charles Schwab offers a comprehensive suite of trading tools and a broader range of services catering to diverse investment needs. Schwab's user-friendly platform supports active trading through a variety of innovative tools, including algorithmic trading capabilities that provide investors with more opportunities to engage in tactical, short-term market plays. This aligns with investors seeking a more hands-on approach to managing their investments.
 

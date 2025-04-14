@@ -78,7 +78,7 @@ Another way the all-in cost affects investment decisions is by helping businesse
 
 Large corporations can use advanced techniques like activity-based costing (ABC) to analyze and optimize their all-in costs. ABC helps businesses see exactly where their money is going by looking at the cost of each activity they do. For example, if a company makes cars, ABC can show how much it costs to make each part of the car, like the engine or the seats. By knowing these costs, the company can find ways to make things cheaper, like using less material or finding a cheaper supplier. This helps them lower their all-in costs and make more money.
 
-Another technique is using data analytics and machine learning to predict and manage costs. Big companies can collect a lot of data about their costs and use computers to find patterns and make predictions. For example, they might see that the cost of shipping goes up in the summer and plan for it. They can also use machine learning to look at past data and predict future costs, which helps them make better budgets and find ways to save money. By using these advanced techniques, large corporations can keep their all-in costs under control and stay competitive.
+Another technique is using data analytics and [machine learning](/wiki/machine-learning) to predict and manage costs. Big companies can collect a lot of data about their costs and use computers to find patterns and make predictions. For example, they might see that the cost of shipping goes up in the summer and plan for it. They can also use machine learning to look at past data and predict future costs, which helps them make better budgets and find ways to save money. By using these advanced techniques, large corporations can keep their all-in costs under control and stay competitive.
 
 ## What are the types of all-in costs?
 
@@ -92,7 +92,7 @@ $$
 \text{All-In Cost} = \text{Interest Charges} + \text{Origination Fees} + \text{Other Charges}
 $$
 
-For instance, a mortgage might include the nominal interest rate, points, private mortgage insurance, and other fees that contribute to the total cost of borrowing.
+For instance, a mortgage might include the nominal [interest rate](/wiki/interest-rate-trading-strategies), points, private mortgage insurance, and other fees that contribute to the total cost of borrowing.
 
 ### Exploring All-In Costs in Financing via Credit Cards
 
@@ -147,5 +147,5 @@ The implications of all-in costs extend beyond mere financial evaluation. They i
    - Python libraries such as `zipline` and `quantlib`, which can be used to simulate trading strategies and estimate associated costs.
    - Reuters Eikon, a tool for financial analytics, often includes cost analysis features based on real trading data.
 
-These resources offer a broad spectrum of information ranging from theoretical frameworks to practical applications and can equip readers with the knowledge necessary for effective cost management in financial and algorithmic trading.
+These resources offer a broad spectrum of information ranging from theoretical frameworks to practical applications and can equip readers with the knowledge necessary for effective cost management in financial and [algorithmic trading](/wiki/algorithmic-trading).
 

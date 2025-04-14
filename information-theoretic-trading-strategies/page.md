@@ -30,7 +30,7 @@ Traders look at entropy to decide how to react to new information. If they see h
 
 Mutual information helps traders see how much one piece of information can tell them about another. In trading, this means understanding how news or data about one thing, like a company's earnings, can help predict what might happen to its stock price. If there's a lot of mutual information between the earnings report and the stock price, it means the earnings can tell us a lot about where the stock price might go. Traders use this to make better guesses about future market movements.
 
-By looking at mutual information, traders can figure out which pieces of news or data are most important for predicting the market. For example, if they find that news about interest rates has a lot of mutual information with stock market trends, they'll pay close attention to interest rate announcements. This helps them focus on the most useful information and ignore things that don't help much in predicting market changes.
+By looking at mutual information, traders can figure out which pieces of news or data are most important for predicting the market. For example, if they find that news about interest rates has a lot of mutual information with stock market trends, they'll pay close attention to [interest rate](/wiki/interest-rate-trading-strategies) announcements. This helps them focus on the most useful information and ignore things that don't help much in predicting market changes.
 
 ## How can traders use information theory to identify profitable trading opportunities?
 
@@ -78,7 +78,7 @@ On the other hand, information-theoretic approaches focus on how much new inform
 
 The future of information-theoretic trading strategies looks bright because more and more traders are seeing how useful they can be. As computers get faster and better at handling big amounts of data, traders will be able to use information theory in more ways. They might be able to find new ways to measure things like entropy and mutual information even quicker. This could help them make better guesses about the market and find more chances to make money. Also, as more people start using these strategies, the tools and software for them will get better, making it easier for everyone to use information theory in trading.
 
-One potential development is using artificial intelligence (AI) with information theory. AI can learn from lots of data and find patterns that humans might miss. By combining AI with information theory, traders could make even smarter decisions. For example, AI could help figure out which news or data is most important for the market and how it might change things. This could make information-theoretic trading strategies even more powerful. As technology keeps getting better, we might see more traders using these advanced methods to stay ahead in the fast-moving world of trading.
+One potential development is using [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) with information theory. AI can learn from lots of data and find patterns that humans might miss. By combining AI with information theory, traders could make even smarter decisions. For example, AI could help figure out which news or data is most important for the market and how it might change things. This could make information-theoretic trading strategies even more powerful. As technology keeps getting better, we might see more traders using these advanced methods to stay ahead in the fast-moving world of trading.
 
 ## What is Understanding Information Theory?
 

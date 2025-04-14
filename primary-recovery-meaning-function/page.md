@@ -42,7 +42,7 @@ Sometimes, the oil in the reservoir is already moving because of natural forces.
 
 ## How is the efficiency of primary recovery measured?
 
-The efficiency of primary recovery is measured by how much oil you can get out of the ground compared to how much oil is actually there. This is called the recovery factor. For primary recovery, the recovery factor is usually between 10 to 15 percent. That means if there's 100 barrels of oil in the ground, primary recovery might only get 10 to 15 barrels out.
+The efficiency of primary recovery is measured by how much oil you can get out of the ground compared to how much oil is actually there. This is called the recovery [factor](/wiki/factor-investing). For primary recovery, the recovery factor is usually between 10 to 15 percent. That means if there's 100 barrels of oil in the ground, primary recovery might only get 10 to 15 barrels out.
 
 To figure out the recovery factor, you need to know the total amount of oil in the reservoir and how much oil you actually get out. You can estimate the total oil by doing tests and using special tools to look at the reservoir. Then, you keep track of how much oil comes out of the well over time. By comparing these two numbers, you can see how efficient primary recovery is for that particular reservoir.
 

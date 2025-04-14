@@ -28,7 +28,7 @@ On the other hand, a traditional lease is much simpler. It's just an agreement b
 
 ## What are the primary financial benefits of a synthetic lease?
 
-The main financial benefit of a synthetic lease is that it helps a company keep its balance sheet looking good. When a company uses a synthetic lease, the property it's using doesn't show up as an asset on its books. This means the company can keep its debt levels looking low, which can make it seem more financially stable to investors and lenders. This can be really helpful for big companies that want to manage how their finances look to others.
+The main financial benefit of a synthetic lease is that it helps a company keep its balance sheet looking good. When a company uses a synthetic lease, the property it's using doesn't show up as an asset on its [books](/wiki/algo-trading-books). This means the company can keep its debt levels looking low, which can make it seem more financially stable to investors and lenders. This can be really helpful for big companies that want to manage how their finances look to others.
 
 Another benefit is that synthetic leases can give a company more flexibility. Since the property is owned by a special purpose entity (SPE), the company can decide at the end of the lease whether to buy the property or just walk away. This can be useful if the company isn't sure about its long-term plans for the property. It's like renting with an option to buy, but without the property showing up as a big purchase on the company's financial statements.
 

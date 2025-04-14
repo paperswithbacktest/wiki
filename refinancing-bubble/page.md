@@ -22,7 +22,7 @@ If too many people refinance at once, it can cause problems. Lenders might get o
 
 ## How does a refinancing bubble form?
 
-A refinancing bubble forms when lots of people decide to refinance their loans at the same time. This usually happens when interest rates are really low. People see that they can save money by getting a new loan with a lower interest rate, so they all want to do it. When everyone is trying to refinance, it creates a big demand for refinancing services. Lenders start to see a lot more applications than usual.
+A refinancing bubble forms when lots of people decide to refinance their loans at the same time. This usually happens when interest rates are really low. People see that they can save money by getting a new loan with a lower [interest rate](/wiki/interest-rate-trading-strategies), so they all want to do it. When everyone is trying to refinance, it creates a big demand for refinancing services. Lenders start to see a lot more applications than usual.
 
 If too many people are refinancing at the same time, it can cause problems. Lenders might have a hard time keeping up with all the applications. They might get overwhelmed and slow down the process. Also, if interest rates suddenly go up after a lot of people have refinanced, those people could end up paying more than they expected. This can make the bubble burst, causing financial problems for some people and affecting the economy.
 

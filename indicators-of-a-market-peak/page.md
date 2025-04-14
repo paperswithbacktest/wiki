@@ -80,7 +80,7 @@ For example, if there's a slowdown in a big economy like China, it can affect ma
 
 One advanced statistical model that can help predict market peaks with higher accuracy is the autoregressive integrated moving average (ARIMA) model. This model looks at past data to find patterns and predict future prices. It can be really useful because it takes into account how prices have changed over time. By using ARIMA, investors can see if the market is growing too fast and might be close to its peak. This helps them make better choices about when to sell their stocks and protect their money.
 
-Another useful model is the machine learning model, like neural networks. These models can learn from a lot of different data, not just stock prices. They can look at things like how people feel about the market, what's happening with the economy, and even news from around the world. By putting all this information together, machine learning models can spot signs of a market peak that other models might miss. This can give investors a more accurate idea of when the market might be at its highest point and help them plan their next moves.
+Another useful model is the [machine learning](/wiki/machine-learning) model, like neural networks. These models can learn from a lot of different data, not just stock prices. They can look at things like how people feel about the market, what's happening with the economy, and even news from around the world. By putting all this information together, machine learning models can spot signs of a market peak that other models might miss. This can give investors a more accurate idea of when the market might be at its highest point and help them plan their next moves.
 
 ## What are the key factors in analyzing market tops?
 

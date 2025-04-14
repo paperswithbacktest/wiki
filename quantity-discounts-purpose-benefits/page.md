@@ -84,7 +84,7 @@ Another important part of advanced analytics is tracking how well the discount p
 
 ## What are the benefits of quantity discount pricing?
 
-Quantity discount pricing offers several advantages, primarily by incentivizing consumers to make larger purchases through price reductions based on the quantity bought. This mechanism is particularly effective in increasing buying incentives. When customers perceive value in purchasing more units at a lower price per item, they are often persuaded to purchase in quantities they might not have considered otherwise. This can lead to increased total sales volume for businesses, which is a substantial advantage in competitive markets.
+Quantity discount pricing offers several advantages, primarily by incentivizing consumers to make larger purchases through price reductions based on the quantity bought. This mechanism is particularly effective in increasing buying incentives. When customers perceive value in purchasing more units at a lower price per item, they are often persuaded to purchase in quantities they might not have considered otherwise. This can lead to increased total sales [volume](/wiki/volume-trading-strategy) for businesses, which is a substantial advantage in competitive markets.
 
 One significant benefit of this strategy is its ability to assist businesses in moving large volumes of inventory. This aspect is crucial for products that are time-sensitive or perishable, such as food items, seasonal goods, or products with expiry dates. By offering discounts on bulk purchases, companies can efficiently manage their inventories and reduce the risk of unsold stock, which might otherwise result in losses.
 
@@ -174,7 +174,7 @@ Overall, the integration of technology in trading has democratized access, allow
 
 ## What are some popular algo trading strategies?
 
-Strategies such as [trend following](/wiki/trend-following), arbitrage, and mean reversion are essential in algorithmic trading, each leveraging unique market conditions for optimal trading results.
+Strategies such as [trend following](/wiki/trend-following), [arbitrage](/wiki/arbitrage), and mean reversion are essential in algorithmic trading, each leveraging unique market conditions for optimal trading results.
 
 **Trend Following**: This strategy capitalizes on the idea that asset prices often follow trends. By identifying and riding these trends, traders can potentially profit from significant price movements. Typically, traders employ moving averages or other indicators to detect upward or downward trends. For example, the Moving Average Crossover strategy, where a shorter-term moving average crosses above a longer-term moving average, might signal a buy opportunity. A simple Python implementation to identify such crossovers could look like this:
 

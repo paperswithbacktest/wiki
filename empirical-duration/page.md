@@ -36,7 +36,7 @@ When calculating empirical duration, it's important to choose the right time fra
 
 ## What data sources are used to determine empirical duration?
 
-To figure out empirical duration, you need to look at past data on a bond's price and the interest rates. This data can come from financial databases like Bloomberg or Reuters, which keep track of bond prices and interest rates over time. You can also use data from central banks, like the Federal Reserve in the U.S., which publish interest rate information. Sometimes, you might even use data from investment firms or financial news websites that report on bond prices and interest rates.
+To figure out empirical duration, you need to look at past data on a bond's price and the interest rates. This data can come from financial databases like Bloomberg or Reuters, which keep track of bond prices and interest rates over time. You can also use data from central banks, like the Federal Reserve in the U.S., which publish [interest rate](/wiki/interest-rate-trading-strategies) information. Sometimes, you might even use data from investment firms or financial news websites that report on bond prices and interest rates.
 
 When you're gathering this data, it's important to make sure it's accurate and covers the right time period. You might need data from several years to see how the bond has reacted to different interest rate changes. Also, you should check if there were any big events or changes in the market during the time you're looking at, because these can affect how the bond behaves. By using all this information, you can get a good idea of the bond's empirical duration and how it might react to future changes in interest rates.
 

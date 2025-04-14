@@ -36,7 +36,7 @@ The price in a futures quote can change a lot during the day as people buy and s
 
 ## What does the volume in a futures quote indicate?
 
-The volume in a futures quote shows how many contracts were traded that day. It tells you how many people are buying and selling the thing, like wheat or oil, that the contract is for. If the volume is high, it means a lot of people are interested in that futures contract. If the volume is low, fewer people are trading it.
+The [volume](/wiki/volume-trading-strategy) in a futures quote shows how many contracts were traded that day. It tells you how many people are buying and selling the thing, like wheat or oil, that the contract is for. If the volume is high, it means a lot of people are interested in that futures contract. If the volume is low, fewer people are trading it.
 
 Looking at the volume can help you understand how popular or important a futures contract is. High volume often means the market is active and the price might be more reliable because so many people are involved. Low volume might mean the market is less active, and the price could be more easily affected by just a few trades. So, volume is a good clue about how much attention a futures contract is getting.
 
@@ -74,7 +74,7 @@ Technical analysis with historical futures quotes also involves looking at thing
 
 The bid-ask spread in futures quotes is the difference between the highest price someone is willing to pay (the bid) and the lowest price someone is willing to sell (the ask). This spread can affect trading strategies because it shows how easy or hard it is to buy or sell a futures contract. If the spread is small, it means the market is very active and it's easier to trade without losing much money on the difference between buying and selling prices. Traders might feel more confident making quick trades when the spread is small. But if the spread is large, it can make trading more risky and expensive. Traders might need to be more careful and wait for better prices or use different strategies to manage the cost of the spread.
 
-Traders can use the bid-ask spread to help decide when to enter or exit a trade. For example, if a trader sees that the spread is getting smaller, it might be a good time to trade because the cost of buying and selling is lower. On the other hand, if the spread is getting larger, it might be a sign to wait or to use a strategy that can handle higher costs, like trading less often or using limit orders to set specific prices for buying or selling. Understanding the bid-ask spread can help traders make smarter decisions and manage their risks better in the futures market.
+Traders can use the bid-ask spread to help decide when to enter or [exit](/wiki/exit-strategy) a trade. For example, if a trader sees that the spread is getting smaller, it might be a good time to trade because the cost of buying and selling is lower. On the other hand, if the spread is getting larger, it might be a sign to wait or to use a strategy that can handle higher costs, like trading less often or using limit orders to set specific prices for buying or selling. Understanding the bid-ask spread can help traders make smarter decisions and manage their risks better in the futures market.
 
 ## How do global events and economic reports influence futures quotes and what should an expert trader monitor?
 
@@ -86,7 +86,7 @@ An expert trader should keep an eye on many things to understand how global even
 
 Algorithmic trading (algo trading) introduces sophisticated techniques for executing trades but comes with its own set of challenges and considerations that traders must address to succeed in the futures markets.
 
-Understanding coding and strategy development are fundamental requirements for implementing algorithmic trading. Traders need to not only comprehend programming languages like Python but also grasp how to design and test strategies that align with their market predictions. Algorithmic strategies often involve applying various quantitative models, such as mean-reversion or trend-following, which require robust coding skills for their development and implementation. Here is an example of a simple moving average crossover strategy coded in Python:
+Understanding coding and strategy development are fundamental requirements for implementing [algorithmic trading](/wiki/algorithmic-trading). Traders need to not only comprehend programming languages like Python but also grasp how to design and test strategies that align with their market predictions. Algorithmic strategies often involve applying various quantitative models, such as mean-reversion or trend-following, which require robust coding skills for their development and implementation. Here is an example of a simple moving average crossover strategy coded in Python:
 
 ```python
 import pandas as pd

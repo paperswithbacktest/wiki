@@ -36,7 +36,7 @@ Sometimes, they might need help from experts like social scientists or environme
 
 When preparing Social Impact Statements, people often use different ways to gather information and understand how a project might affect the community. One common method is doing surveys and interviews with people who live in the area where the project will happen. This helps them learn about the community's needs and worries. Another way is to study the area's history and culture to see how the project might change things that are important to the people who live there. They might also look at other projects that are similar to see what happened in those cases.
 
-Another important method is using data and statistics to predict what might happen. This can include looking at things like population numbers, health data, and economic information. By using this data, they can make guesses about how the project might change the community's life. Sometimes, they also use computer models to help understand these changes better. These models can show how different parts of the project might affect the environment and people.
+Another important method is using data and [statistics](/wiki/bayesian-statistics) to predict what might happen. This can include looking at things like population numbers, health data, and economic information. By using this data, they can make guesses about how the project might change the community's life. Sometimes, they also use computer models to help understand these changes better. These models can show how different parts of the project might affect the environment and people.
 
 Lastly, it's common to involve the community in the process. This can be done through public meetings where people can share their thoughts and ideas. By listening to the community, the people making the Social Impact Statement can make sure they understand all the possible effects of the project. This helps them create a plan that takes into account what the community needs and wants.
 
@@ -80,7 +80,7 @@ When it comes to reviewing the Social Impact Statement, stakeholders are also ve
 
 ## What future trends might affect the use and effectiveness of Social Impact Statements?
 
-In the future, technology might change how we make and use Social Impact Statements. New tools like big data and artificial intelligence could help us understand the effects of projects better. These tools can look at a lot of information quickly and find patterns that people might miss. This could make Social Impact Statements more accurate and help us see the good and bad effects more clearly. But, we need to be careful that these new tools don't make the statements too hard for regular people to understand.
+In the future, technology might change how we make and use Social Impact Statements. New tools like big data and [artificial intelligence](/wiki/ai-artificial-intelligence) could help us understand the effects of projects better. These tools can look at a lot of information quickly and find patterns that people might miss. This could make Social Impact Statements more accurate and help us see the good and bad effects more clearly. But, we need to be careful that these new tools don't make the statements too hard for regular people to understand.
 
 Another trend that might affect Social Impact Statements is more focus on being fair and including everyone. People are starting to see that it's important to listen to all voices in a community, especially those who are often ignored. This means that future Social Impact Statements might involve more people in the process and make sure everyone's needs are considered. This could make the statements more useful and help make sure that projects really help the community. But, it might also take more time and money to do this right.
 
@@ -106,5 +106,5 @@ Another trend that might affect Social Impact Statements is more focus on being 
 
 10. Fisher, C. (2013). Business Ethics and Values: Individual, Corporate and International Perspectives. Pearson Education. This book provides an in-depth analysis of ethics within corporate strategy, relevant to algo trading and CSR.
 
-Each of these resources can offer diverse perspectives and further elaborate on the intersections of CSR, social impact assessments, and algorithmic trading.
+Each of these resources can offer diverse perspectives and further elaborate on the intersections of CSR, social impact assessments, and [algorithmic trading](/wiki/algorithmic-trading).
 

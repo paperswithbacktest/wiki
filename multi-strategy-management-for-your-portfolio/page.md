@@ -30,7 +30,7 @@ Next, they can learn about different investment strategies and choose a few that
 
 In multi-strategy portfolio management, one common strategy is value investing. This means looking for companies that the investor thinks are underpriced. The idea is to buy these stocks at a low price and then sell them later when their price goes up. Another popular strategy is growth investing, where investors look for companies that are expected to grow quickly. They hope that as the company grows, the value of their stocks will also grow.
 
-Another strategy often used is income investing, where the focus is on investments that pay regular dividends or interest, like bonds or dividend-paying stocks. This can provide a steady stream of income. Additionally, some investors use a strategy called arbitrage, where they try to make money from price differences in different markets. For example, they might buy a stock in one market where it's cheaper and sell it in another market where it's more expensive.
+Another strategy often used is income investing, where the focus is on investments that pay regular dividends or interest, like bonds or dividend-paying stocks. This can provide a steady stream of income. Additionally, some investors use a strategy called [arbitrage](/wiki/arbitrage), where they try to make money from price differences in different markets. For example, they might buy a stock in one market where it's cheaper and sell it in another market where it's more expensive.
 
 Finally, some investors use a strategy known as market-neutral investing, where they try to make money no matter what the market is doing. They do this by balancing their investments so that if one part goes down, another part goes up. This can help protect their portfolio from big swings in the market. By using a mix of these strategies, investors can spread out their risk and aim for better overall returns.
 
@@ -86,7 +86,7 @@ Integrating this analysis into a multi-strategy approach means adjusting the dif
 
 ## What are Cross Asset Strategies with Volatility Targeting?
 
-Incorporating volatility targeting within cross-asset strategies in a multi-strategy framework serves as an essential mechanism to standardize risk exposure and enhance performance evaluation. Volatility targeting involves adjusting the position sizes in a portfolio to achieve a desired level of volatility, thereby equalizing the impact of diverse strategies. By aligning the volatility levels across different strategies, traders can more accurately compare performance and manage systemic risk.
+Incorporating [volatility](/wiki/volatility-trading-strategies) targeting within cross-asset strategies in a multi-strategy framework serves as an essential mechanism to standardize risk exposure and enhance performance evaluation. Volatility targeting involves adjusting the position sizes in a portfolio to achieve a desired level of volatility, thereby equalizing the impact of diverse strategies. By aligning the volatility levels across different strategies, traders can more accurately compare performance and manage systemic risk.
 
 The fundamental approach to volatility targeting involves calculating the current volatility of a given strategy and adjusting the exposure to reach a target volatility. This can be mathematically represented as:
 

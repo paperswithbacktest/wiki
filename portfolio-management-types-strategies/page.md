@@ -34,7 +34,7 @@ Understanding risk tolerance helps make sure the portfolio matches what the inve
 
 ## What is the difference between active and passive portfolio management?
 
-Active portfolio management means trying to beat the market by picking and choosing investments. People or managers who do this believe they can find stocks or other investments that will do better than average. They spend a lot of time looking at different companies, the economy, and other things to decide what to buy and sell. Because they're always making changes, active management can be more expensive. It might also be riskier because they're trying to do better than the market, which isn't always easy.
+Active portfolio management means trying to beat the market by [picking](/wiki/asset-class-picking) and choosing investments. People or managers who do this believe they can find stocks or other investments that will do better than average. They spend a lot of time looking at different companies, the economy, and other things to decide what to buy and sell. Because they're always making changes, active management can be more expensive. It might also be riskier because they're trying to do better than the market, which isn't always easy.
 
 Passive portfolio management is different because it tries to match the market, not beat it. Instead of picking individual investments, passive managers often use index funds or ETFs that follow a whole market or a big group of stocks. For example, they might buy a fund that follows the S&P 500. This way, they don't have to spend a lot of time and money making changes. Passive management is usually cheaper and can be less risky because it's not trying to outguess the market. It's about getting steady, long-term growth without a lot of ups and downs.
 

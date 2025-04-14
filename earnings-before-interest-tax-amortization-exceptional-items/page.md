@@ -24,7 +24,7 @@ EBITAE, on the other hand, stands for Earnings Before Interest, Tax, Amortizatio
 
 EBITAE is important for financial analysis because it helps people see how well a company is doing at its main business, without getting confused by other costs. It takes away things like interest on loans, taxes, and the slow wearing out of things the company owns, like buildings or machines. But it also goes a step further by not counting unusual costs that don't happen every day, like money spent on a big lawsuit or changing how the company is organized. This makes it easier to see the true, regular earnings of the business.
 
-By using EBITAE, people can compare different companies more fairly. For example, one company might have a lot of debt and pay a lot in interest, while another might not. If you just look at their total profits, it might seem like the second company is doing better. But with EBITAE, you can see past these differences and focus on how well each company is running its core business. This is really helpful for investors and managers who want to understand and compare the real earning power of different businesses.
+By using EBITAE, people can compare different companies more fairly. For example, one company might have a lot of debt and pay a lot in interest, while another might not. If you just look at their total profits, it might seem like the second company is doing better. But with EBITAE, you can see past these differences and focus on how well each company is running its core business. This is really helpful for investors and managers who want to understand and compare the real [earning](/wiki/earning-announcement) power of different businesses.
 
 ## What are the components included in the calculation of EBITAE?
 

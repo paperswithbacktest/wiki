@@ -58,7 +58,7 @@ In the black market, where people trade money without the government's rules, th
 
 ## How does hyperinflation affect the Bolivar?
 
-Hyperinflation is when prices go up very fast, and it has made the Venezuelan Bolivar worth a lot less. When there is hyperinflation, people need more and more money to buy the same things. In Venezuela, this means that the Bolivar loses value quickly. People have to carry around big bags of money just to buy simple things like food or clothes. This makes life very hard because their money doesn't last long.
+Hyperinflation is when prices go up very fast, and it has made the Venezuelan Bolivar worth a lot less. When there is hyperinflation, people need more and more money to buy the same things. In Venezuela, this means that the Bolivar loses value quickly. People have to [carry](/wiki/carry-trading) around big bags of money just to buy simple things like food or clothes. This makes life very hard because their money doesn't last long.
 
 Because of hyperinflation, the government has had to change the Bolivar many times. They made a new kind of money called the Bolivar Soberano to try to fix the problem, but it didn't help much. The value of the Bolivar keeps going down, and people need more and more of it to buy things. This makes it hard for people to save money or plan for the future because they don't know how much things will cost next week or next month.
 

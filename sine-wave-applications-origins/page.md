@@ -78,13 +78,13 @@ In signal processing, sine waves help us understand and change the signals we wo
 
 ## What are the current research areas involving sine waves and their applications?
 
-Sine waves are still a big part of new research, especially in the field of signal processing. Scientists are working on better ways to use sine waves to clean up signals and make them clearer. They use something called machine learning to help with this. Machine learning is a type of computer program that can learn and get better over time. By using machine learning, scientists can find and remove noise from signals more easily. This is important for things like hearing aids, where sine waves help make sounds clearer for people who have trouble hearing.
+Sine waves are still a big part of new research, especially in the field of signal processing. Scientists are working on better ways to use sine waves to clean up signals and make them clearer. They use something called [machine learning](/wiki/machine-learning) to help with this. Machine learning is a type of computer program that can learn and get better over time. By using machine learning, scientists can find and remove noise from signals more easily. This is important for things like hearing aids, where sine waves help make sounds clearer for people who have trouble hearing.
 
 Another area where sine waves are being studied is in quantum physics. Scientists are using sine waves to understand how tiny particles, like atoms and electrons, move and behave. In quantum physics, everything is a bit weird and different from what we see in everyday life. Sine waves help scientists make sense of this weird world. They use sine waves to study things like quantum computers, which are super fast and powerful. By understanding how sine waves work in quantum physics, scientists can make better quantum computers and other cool technologies.
 
 ## What are the applications of sine waves in algorithmic trading?
 
-Sine waves find a significant application in algorithmic trading, primarily because they model market cycles and trends effectively. Market behaviors often exhibit periodic characteristics, and sine waves are adept at capturing these patterns, enabling traders to identify potential trading opportunities.
+Sine waves find a significant application in [algorithmic trading](/wiki/algorithmic-trading), primarily because they model market cycles and trends effectively. Market behaviors often exhibit periodic characteristics, and sine waves are adept at capturing these patterns, enabling traders to identify potential trading opportunities.
 
 Technical indicators in algorithmic trading frequently use sine wave functions to assist in predicting market movements. One such example is the use of cosine and sine oscillators, which help in identifying overbought or oversold conditions in the market. These oscillators are mathematically defined functions that can represent the cyclical nature of asset prices. For instance, the sine oscillator function can be expressed as:
 

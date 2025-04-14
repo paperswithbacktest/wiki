@@ -22,7 +22,7 @@ By keeping an eye on the TED Spread, investors and people who make financial pol
 
 ## How is the TED Spread calculated?
 
-The TED Spread is calculated by finding the difference between two interest rates. The first rate is for three-month U.S. Treasury bills, which are very safe because they are backed by the U.S. government. The second rate is for three-month Eurodollar contracts, which are loans in U.S. dollars held in banks outside the U.S. To get the TED Spread, you subtract the interest rate of the U.S. Treasury bills from the interest rate of the Eurodollar contracts.
+The TED Spread is calculated by finding the difference between two interest rates. The first rate is for three-month U.S. Treasury bills, which are very safe because they are backed by the U.S. government. The second rate is for three-month Eurodollar contracts, which are loans in U.S. dollars held in banks outside the U.S. To get the TED Spread, you subtract the [interest rate](/wiki/interest-rate-trading-strategies) of the U.S. Treasury bills from the interest rate of the Eurodollar contracts.
 
 This simple calculation gives us a number that tells us about the risk in the financial markets. When the TED Spread is small, it means that banks feel safe lending to each other. But when the TED Spread gets bigger, it shows that banks are worried and think there is more risk. This can be a sign that something might be wrong in the financial system, so people in finance watch the TED Spread closely to understand how the market is doing.
 

@@ -72,7 +72,7 @@ Sometimes, changes in these standards can affect how a company's insolvency is j
 
 ## What role do auditors play in identifying and reporting accounting insolvency?
 
-Auditors are like financial detectives who check a company's books to make sure everything is correct. They look at the company's financial statements to see if the numbers add up and if the company is following the rules. If they find that the company's debts are more than its assets, they might say the company is insolvent. Auditors have to report this to the people who own the company and sometimes to the government, so everyone knows the company's true financial situation.
+Auditors are like financial detectives who check a company's [books](/wiki/algo-trading-books) to make sure everything is correct. They look at the company's financial statements to see if the numbers add up and if the company is following the rules. If they find that the company's debts are more than its assets, they might say the company is insolvent. Auditors have to report this to the people who own the company and sometimes to the government, so everyone knows the company's true financial situation.
 
 When auditors find signs of insolvency, they have to be careful and honest in their reports. They can't hide the truth or the company could get into even bigger trouble. By pointing out insolvency early, auditors help the company's leaders make plans to fix the problem before it gets worse. This can save the company from going bankrupt and help protect the jobs of its workers and the money of its investors.
 
@@ -84,7 +84,7 @@ Creditors and shareholders also feel the impact of accounting insolvency. Credit
 
 ## What is Understanding Accounting Insolvency?
 
-Accounting insolvency is a condition observed when a company's liabilities surpass its assets on the balance sheet. This form of insolvency contrasts with cash flow insolvency, which pertains to an entity's inability to meet debt obligations due to insufficient liquidity. Accounting insolvency provides a snapshot of the company's financial position, focusing exclusively on the technical aspects of its financial statements.
+Accounting insolvency is a condition observed when a company's liabilities surpass its assets on the balance sheet. This form of insolvency contrasts with cash flow insolvency, which pertains to an entity's inability to meet debt obligations due to insufficient [liquidity](/wiki/liquidity-risk-premium). Accounting insolvency provides a snapshot of the company's financial position, focusing exclusively on the technical aspects of its financial statements.
 
 Persisting accounting insolvency is a significant concern as it can precipitate bankruptcy and necessitate the forced liquidation of assets. When liabilities exceed assets, it indicates that the company's present value and potential future income are insufficient to cover its debt obligations. Over time, without corrective action, this imbalance can erode stakeholder confidence, further exacerbating financial difficulties.
 

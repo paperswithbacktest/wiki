@@ -121,7 +121,7 @@ Carrying value plays a vital role in financial analysis and decision-making. For
 
 ## What is the interconnection between carrying value and algo trading?
 
-The interplay between carrying value, balance sheet analysis, and algorithmic trading is a significant dimension of contemporary investing. Carrying values, reflected as book values on balance sheets, directly impact trading strategies, especially in algorithmic trading that relies heavily on real-time data analytics.
+The interplay between carrying value, balance sheet analysis, and [algorithmic trading](/wiki/algorithmic-trading) is a significant dimension of contemporary investing. Carrying values, reflected as book values on balance sheets, directly impact trading strategies, especially in algorithmic trading that relies heavily on real-time data analytics.
 
 Carrying value provides a snapshot of an asset's worth after accounting for depreciation and amortization. This metric is vital for traders using algorithmic strategies to evaluate the true value of a company’s assets relative to their current market prices. For instance, if the carrying value significantly diverges from market value, it could indicate potential overvaluation or undervaluation, prompting specific trading actions.
 

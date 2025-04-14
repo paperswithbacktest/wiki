@@ -18,7 +18,7 @@ Understanding budget variance is important because it helps in making better fin
 
 Understanding budget variance is important because it shows you where your plans and reality don't match up. If you planned to save $200 a month but only managed to save $150, knowing this helps you figure out why. Maybe you spent more on eating out than you thought, or maybe you didn't earn as much as you expected. By knowing the variance, you can see these differences clearly and make better choices next time.
 
-It also helps you adjust your budget to be more realistic. If you keep seeing that you're spending more on groceries than you planned, you can change your budget to reflect that. Or if you're earning less than you thought, you might need to find ways to make more money or cut back on spending. Understanding budget variance lets you fine-tune your financial plans so they work better for you.
+It also helps you adjust your budget to be more realistic. If you keep seeing that you're spending more on groceries than you planned, you can change your budget to reflect that. Or if you're [earning](/wiki/earning-announcement) less than you thought, you might need to find ways to make more money or cut back on spending. Understanding budget variance lets you fine-tune your financial plans so they work better for you.
 
 ## What are the main types of budget variance?
 

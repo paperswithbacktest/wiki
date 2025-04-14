@@ -24,11 +24,11 @@ In summary, short-term trading is fast-paced and focuses on quick profits from p
 
 ## What are the common types of short-term trading strategies?
 
-One common short-term trading strategy is day trading. Day traders buy and sell stocks or other assets within the same day. They try to make money from small price changes that happen during the day. Day traders need to be very focused and quick because they have to make a lot of decisions in a short time. They often use charts and other tools to help them decide when to buy and sell.
+One common short-term trading strategy is [day trading](/wiki/day-trading-spy). Day traders buy and sell stocks or other assets within the same day. They try to make money from small price changes that happen during the day. Day traders need to be very focused and quick because they have to make a lot of decisions in a short time. They often use charts and other tools to help them decide when to buy and sell.
 
 Another strategy is swing trading. Swing traders hold onto their investments for a few days or weeks. They try to catch bigger price moves than day traders but still want to make money faster than long-term investors. Swing traders look for patterns in the market that suggest a stock's price will go up or down soon. They then buy or sell based on these patterns, hoping to make a profit when the price moves as expected.
 
-A third strategy is scalping. Scalpers make many trades in a day, but each trade is very small. They aim to make tiny profits from each trade, but they do it so often that these small profits add up. Scalpers need to be very fast and use special tools to help them trade quickly. This strategy can be very stressful because it requires constant attention to the market.
+A third strategy is [scalping](/wiki/gamma-scalping). Scalpers make many trades in a day, but each trade is very small. They aim to make tiny profits from each trade, but they do it so often that these small profits add up. Scalpers need to be very fast and use special tools to help them trade quickly. This strategy can be very stressful because it requires constant attention to the market.
 
 ## How does day trading fit into short-term trading strategies?
 
@@ -44,7 +44,7 @@ Indicators are also very important for short-term trading. Moving averages are p
 
 ## How do you identify potential short-term trading opportunities?
 
-To identify potential short-term trading opportunities, traders often start by looking at charts and using technical analysis. They watch for patterns in the price movements of stocks or other assets. For example, they might look for a "head and shoulders" pattern or a "double bottom," which can suggest that the price is about to change direction. Traders also pay attention to volume, which shows how many people are buying or selling. If a lot of people are trading, it can mean that the price is likely to keep moving in the same direction.
+To identify potential short-term trading opportunities, traders often start by looking at charts and using technical analysis. They watch for patterns in the price movements of stocks or other assets. For example, they might look for a "head and shoulders" pattern or a "double bottom," which can suggest that the price is about to change direction. Traders also pay attention to [volume](/wiki/volume-trading-strategy), which shows how many people are buying or selling. If a lot of people are trading, it can mean that the price is likely to keep moving in the same direction.
 
 Another way to find short-term trading opportunities is by using indicators. Moving averages can help traders see the overall trend of a stock's price. If a short-term moving average crosses above a long-term one, it might be a good time to buy. The Relative Strength Index (RSI) can tell traders if a stock is overbought or oversold, which can signal when to sell or buy. By combining these tools and watching the market closely, traders can spot chances to make quick profits from small price changes.
 
@@ -62,19 +62,19 @@ It's also helpful to use a strategy called position sizing. This means deciding 
 
 ## What are some advanced techniques used in short-term trading?
 
-One advanced technique in short-term trading is called algorithmic trading. This is when traders use computer programs to buy and sell stocks very quickly, often in just a few seconds. These programs follow rules set by the trader to make decisions based on things like price changes and market trends. Algorithmic trading can help traders make money from very small price moves that happen too fast for a person to catch. But it can also be risky because the market can change in ways the program didn't expect.
+One advanced technique in short-term trading is called [algorithmic trading](/wiki/algorithmic-trading). This is when traders use computer programs to buy and sell stocks very quickly, often in just a few seconds. These programs follow rules set by the trader to make decisions based on things like price changes and market trends. Algorithmic trading can help traders make money from very small price moves that happen too fast for a person to catch. But it can also be risky because the market can change in ways the program didn't expect.
 
 Another advanced technique is called options trading. Options are special contracts that give traders the right to buy or sell a stock at a certain price before a certain date. Short-term traders use options to make money from big price changes without having to buy the stock itself. This can be a powerful way to make money, but it's also very complicated and risky. If the stock price doesn't move the way the trader expects, they can lose a lot of money quickly.
 
 ## How does market volatility affect short-term trading strategies?
 
-Market volatility means that prices go up and down a lot in a short time. This can be good for short-term traders because they can make money from these quick changes. For example, if a trader sees that a stock's price is moving a lot, they might buy it when it's low and sell it when it goes up, even if it's just for a little while. Traders who use strategies like day trading or scalping love high volatility because it gives them more chances to make quick profits.
+Market [volatility](/wiki/volatility-trading-strategies) means that prices go up and down a lot in a short time. This can be good for short-term traders because they can make money from these quick changes. For example, if a trader sees that a stock's price is moving a lot, they might buy it when it's low and sell it when it goes up, even if it's just for a little while. Traders who use strategies like day trading or scalping love high volatility because it gives them more chances to make quick profits.
 
 But high volatility can also be risky. If the market is moving a lot, it's harder to predict what will happen next. A trader might buy a stock thinking it will go up, but if the market suddenly drops, they could lose money fast. That's why short-term traders need to be very careful and use tools like stop-loss orders to limit their losses. They also need to watch the market closely and be ready to change their plans if things don't go the way they expected.
 
 ## What psychological factors should be considered in short-term trading?
 
-One important psychological factor in short-term trading is managing emotions. When prices go up and down quickly, traders can feel excited, scared, or stressed. These feelings can make them do things they might not do if they were calm. For example, a trader might sell a stock too soon because they're scared it will drop, even if it could go up more. Or they might keep a losing trade too long, hoping it will turn around. To be good at short-term trading, traders need to learn how to control these emotions and stick to their plans.
+One important psychological [factor](/wiki/factor-investing) in short-term trading is managing emotions. When prices go up and down quickly, traders can feel excited, scared, or stressed. These feelings can make them do things they might not do if they were calm. For example, a trader might sell a stock too soon because they're scared it will drop, even if it could go up more. Or they might keep a losing trade too long, hoping it will turn around. To be good at short-term trading, traders need to learn how to control these emotions and stick to their plans.
 
 Another factor is having the right mindset. Short-term trading can be like a roller coaster, with lots of ups and downs. Traders need to be patient and not get too upset by small losses. They also need to be confident in their strategies and not change them just because of one bad trade. It's important for traders to keep learning and stay focused, even when things get tough. By staying calm and sticking to their plans, traders can make better decisions and do well in the fast-paced world of short-term trading.
 
@@ -112,13 +112,13 @@ where $C$ is the most recent closing price, $L_{14}$ is the lowest price over th
 
 In addition to these indicators, price action and volume analysis play a significant role in the decision-making processes for algorithmic short-term traders. Price action involves analyzing basic price movements across charts, without the need for indicators, to make trading decisions. This approach focuses on technical analysis and patterns such as candlestick formations and support and resistance levels.
 
-Volume analysis complements price action by providing insights into the strength of a price movement. High volume on a price increase suggests strong momentum, while a decrease in volume might signal the end of a movement. Successful traders often incorporate a mixture of these technical indicators to fine-tune their strategies and improve their performance in short-term trading contexts.
+Volume analysis complements price action by providing insights into the strength of a price movement. High volume on a price increase suggests strong [momentum](/wiki/momentum), while a decrease in volume might signal the end of a movement. Successful traders often incorporate a mixture of these technical indicators to fine-tune their strategies and improve their performance in short-term trading contexts.
 
 ## How can one develop and backtest short-term algorithmic strategies?
 
 Developing a robust short-term trading strategy in algorithmic trading begins with the critical phase of idea generation. This initial step involves hypothesizing potential market opportunities by analyzing various market conditions, identifying inefficiencies, or leveraging specific events that may influence price movements. Successful idea generation requires a comprehensive understanding of market structures, price patterns, and the broader economic context. 
 
-Once a viable hypothesis is formed, the strategy moves into the backtesting phase. Backtesting is an essential aspect of algorithmic trading strategies as it involves the simulation of trades using historical data to evaluate the strategy's performance. This process allows traders to determine how the strategy would have performed in the past, helping to identify its strengths and weaknesses. The accuracy and reliability of backtesting heavily depend on the quality of historical data, the sophistication of the backtesting software, and the realism of the simulated trading conditions, taking into account factors like transaction costs and market impact.
+Once a viable hypothesis is formed, the strategy moves into the [backtesting](/wiki/backtesting) phase. Backtesting is an essential aspect of algorithmic trading strategies as it involves the simulation of trades using historical data to evaluate the strategy's performance. This process allows traders to determine how the strategy would have performed in the past, helping to identify its strengths and weaknesses. The accuracy and reliability of backtesting heavily depend on the quality of historical data, the sophistication of the backtesting software, and the realism of the simulated trading conditions, taking into account factors like transaction costs and market impact.
 
 The mathematical foundation of backtesting can involve metrics such as profit and loss (P&L), maximum drawdown, Sharpe ratio, and other statistical measurements to quantify performance. For example, the Sharpe ratio is calculated as:
 
@@ -131,7 +131,7 @@ where $E[R_p]$ is the expected portfolio return, $R_f$ is the risk-free rate, an
 
 After the initial backtesting phase, the strategy undergoes optimization. This involves fine-tuning parameters to improve performance; however, caution must be exercised to avoid overfitting—an error where the model is too closely tailored to historical data and performs poorly in live trading. A technique used to mitigate overfitting is out-of-sample testing, which entails separating the historical data into a training set and a testing set. The model is developed using the training set and then tested on the unseen out-of-sample data to assess its predictive capability.
 
-In Python, libraries like pandas, NumPy, and backtrader can facilitate the development and backtesting of strategies. Here's a simple example of backtesting a moving average crossover strategy using Python's backtrader library:
+In Python, libraries like pandas, NumPy, and [backtrader](/wiki/backtrader) can facilitate the development and backtesting of strategies. Here's a simple example of backtesting a moving average crossover strategy using Python's backtrader library:
 
 ```python
 import backtrader as bt

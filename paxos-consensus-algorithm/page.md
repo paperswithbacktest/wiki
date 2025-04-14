@@ -66,7 +66,7 @@ Another variation is called Cheap Paxos. In Cheap Paxos, the system tries to use
 
 Multi-Paxos is a way to make the Paxos algorithm faster and more efficient. In regular Paxos, every time you want to decide on something, you have to choose a new leader to suggest values. But in Multi-Paxos, once you pick a leader, that leader stays in charge for many decisions. This means you don't have to keep choosing new leaders, which saves time and makes the whole process quicker.
 
-The main benefit of Multi-Paxos is that it speeds up the decision-making process. Because the same leader keeps suggesting values, the system can skip the part where it has to find a new leader for each decision. This makes Multi-Paxos great for situations where you need to make a lot of decisions quickly. It's like having one person in charge of a group project instead of picking a new leader for every task, which makes everything run smoother and faster.
+The main benefit of Multi-Paxos is that it speeds up the decision-making process. Because the same leader keeps suggesting values, the system can skip the part where it has to find a new leader for each decision. This makes Multi-Paxos great for situations where you need to make a lot of decisions quickly. It's like having one person in charge of a group project instead of [picking](/wiki/asset-class-picking) a new leader for every task, which makes everything run smoother and faster.
 
 ## What are the limitations and challenges of implementing the Paxos algorithm?
 

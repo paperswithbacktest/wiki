@@ -56,7 +56,7 @@ Another risk is that the borrower might not be able to buy back the security. Th
 
 Repurchase agreements, or repos, are used by central banks like the Federal Reserve to control the amount of money in the economy. When the central bank wants to add more money to the economy, it can buy securities from banks with an agreement to sell them back later. This gives banks more cash to lend out, which can help the economy grow. On the other hand, if the central bank wants to take money out of the economy to slow things down, it can sell securities to banks with a repurchase agreement. This takes cash away from banks, making them lend less.
 
-Central banks also use repos to manage short-term interest rates. By setting the terms of the repo, like the interest rate and the amount of money involved, the central bank can influence the rates that banks charge each other for short-term loans. This helps the central bank keep the economy stable. For example, if the central bank wants to lower interest rates, it might offer repos at a lower rate, encouraging banks to borrow more and lend at lower rates too.
+Central banks also use repos to manage short-term interest rates. By setting the terms of the repo, like the [interest rate](/wiki/interest-rate-trading-strategies) and the amount of money involved, the central bank can influence the rates that banks charge each other for short-term loans. This helps the central bank keep the economy stable. For example, if the central bank wants to lower interest rates, it might offer repos at a lower rate, encouraging banks to borrow more and lend at lower rates too.
 
 ## What is the difference between a repurchase agreement and a reverse repurchase agreement?
 

@@ -34,9 +34,9 @@ These bonds are popular with issuers because they give them the option to pay ba
 
 ## What are the benefits of investing in American callable bonds?
 
-Investing in American callable bonds can be good because they usually offer higher interest rates than regular bonds. This means you can earn more money from the interest payments while you own the bond. The higher interest rate is there to make up for the risk that the bond might be called back early by the company that issued it.
+Investing in American callable bonds can be good because they usually offer higher interest rates than regular bonds. This means you can earn more money from the interest payments while you own the bond. The higher [interest rate](/wiki/interest-rate-trading-strategies) is there to make up for the risk that the bond might be called back early by the company that issued it.
 
-Even though there's a chance the bond could be called back before it matures, some investors like this risk. If the bond isn't called back, you get to enjoy those higher interest payments for a longer time. Plus, if you think interest rates might stay the same or go up, the bond is less likely to be called, and you can keep earning that higher interest.
+Even though there's a chance the bond could be called back before it matures, some investors like this risk. If the bond isn't called back, you get to enjoy those higher interest payments for a longer time. Plus, if you think interest rates might stay the same or go up, the bond is less likely to be called, and you can keep [earning](/wiki/earning-announcement) that higher interest.
 
 ## What are the risks associated with American callable bonds?
 

@@ -50,7 +50,7 @@ Using absorption costing also helps businesses follow GAAP when they need to sho
 
 One potential drawback of absorption costing is that it can make it harder to see how changes in production levels affect profits. Because absorption costing includes all costs, like rent and utilities, in the price of each product, the cost of goods sold can seem higher. This means that if a business makes more products, the cost of goods sold goes up, even if the only costs that really changed were for materials and labor. This can make it tricky to figure out if making more products is actually making more money.
 
-Another issue with absorption costing is that it can lead to something called production volume variance. This happens when a business makes more products than it sells, and the unsold products sit in inventory. Because absorption costing spreads out all costs over the products, the costs of running the factory get added to the cost of the unsold products. This can make the business's profits look better than they really are, because the costs are not shown as expenses until the products are sold. This can be confusing and might lead to bad decisions about how much to produce.
+Another issue with absorption costing is that it can lead to something called production [volume](/wiki/volume-trading-strategy) variance. This happens when a business makes more products than it sells, and the unsold products sit in inventory. Because absorption costing spreads out all costs over the products, the costs of running the factory get added to the cost of the unsold products. This can make the business's profits look better than they really are, because the costs are not shown as expenses until the products are sold. This can be confusing and might lead to bad decisions about how much to produce.
 
 ## How might absorption costing impact a company's financial statements?
 
@@ -119,7 +119,7 @@ Kaplan, R. S., & Atkinson, A. A. (1998). *Advanced Management Accounting*. This 
 
 Drury, C. (2018). *Management and Cost Accounting*. Drury's work offers a comprehensive overview of cost accounting principles, with clear explanations of various costing methods, including absorption costing. It is a valuable resource for understanding the role of cost accounting in strategic decision-making.
 
-De Prado, M. L. (2018). *Advances in Financial Machine Learning*. This book explores the intersection of finance and [machine learning](/wiki/machine-learning), providing techniques and models that improve trading strategies. It is essential for those interested in applying algorithmic trading techniques to enhance financial performance.
+De Prado, M. L. (2018). *Advances in Financial Machine Learning*. This book explores the intersection of finance and [machine learning](/wiki/machine-learning), providing techniques and models that improve trading strategies. It is essential for those interested in applying [algorithmic trading](/wiki/algorithmic-trading) techniques to enhance financial performance.
 
 Chan, E. (2009). *Quantitative Trading: How to Build Your Own Algorithmic Trading Business*. Chan outlines the essentials of developing algorithmic trading strategies, from concept to execution. The book includes insights into trading algorithms and risk management, making it a critical resource for traders aiming to implement algorithmic systems in financial markets.
 

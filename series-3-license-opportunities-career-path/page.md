@@ -22,7 +22,7 @@ Once you have a sponsor, you can register for the Series 3 exam. The exam tests 
 
 ## How can one prepare for the Series 3 exam?
 
-To prepare for the Series 3 exam, it's a good idea to start by getting study materials. Many people use books, online courses, or practice tests to learn what they need to know. These resources can help you understand the rules of commodity markets and how to help clients make good choices. It's important to find materials that explain things clearly and give you lots of practice questions.
+To prepare for the Series 3 exam, it's a good idea to start by getting study materials. Many people use [books](/wiki/algo-trading-books), online courses, or practice tests to learn what they need to know. These resources can help you understand the rules of commodity markets and how to help clients make good choices. It's important to find materials that explain things clearly and give you lots of practice questions.
 
 Another helpful way to prepare is to make a study schedule. Decide how much time you can spend studying each day and stick to it. This can help you cover all the topics you need to know without feeling overwhelmed. It's also a good idea to join a study group or find a study buddy. Talking about the material with others can help you understand it better and remember it more easily.
 
@@ -78,7 +78,7 @@ Some countries might let you use your Series 3 License if you also get a local l
 
 With a Series 3 License, you can move up to more advanced jobs in the commodity and futures industry. One path is to become a senior commodity broker or a managing director at a brokerage firm. In these roles, you'll lead a team of brokers, make big decisions about the company's strategy, and work closely with important clients. You'll use your deep knowledge of the market to help the company grow and succeed. This can be a rewarding job because you'll have a lot of responsibility and can earn a high salary.
 
-Another advanced career path is to become a hedge fund manager or a portfolio manager focused on commodities. In these positions, you'll manage large amounts of money for investors, making trades to try to make a profit. You'll need to understand how to use complex trading strategies and manage risks well. This job can be very exciting because you're always looking for new opportunities in the market. It also comes with the potential for high earnings, especially if your investments do well.
+Another advanced career path is to become a [hedge fund](/wiki/hedge-fund-trading-strategies) manager or a portfolio manager focused on commodities. In these positions, you'll manage large amounts of money for investors, making trades to try to make a profit. You'll need to understand how to use complex trading strategies and manage risks well. This job can be very exciting because you're always looking for new opportunities in the market. It also comes with the potential for high earnings, especially if your investments do well.
 
 ## How might regulatory changes impact the value and utility of a Series 3 License in the future?
 

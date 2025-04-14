@@ -18,7 +18,7 @@ FRAs are useful for businesses and investors who want to manage their interest r
 
 The main purpose of using a Forward Rate Agreement (FRA) is to manage interest rate risk. When a company or an investor knows they will need to borrow or lend money in the future, they can use an FRA to lock in today's interest rate. This helps them protect against the risk of interest rates going up. For example, if a business plans to take out a loan in six months, they can use an FRA to fix the interest rate now, so they won't have to worry about paying more if rates increase later.
 
-Another key purpose of FRAs is to help with financial planning. By knowing exactly what interest rate they will pay or receive in the future, businesses and investors can plan their budgets and financial strategies more accurately. This stability can be very important for making big decisions, like investing in new projects or managing cash flow. FRAs give them a tool to make their financial future more predictable and secure.
+Another key purpose of FRAs is to help with financial planning. By knowing exactly what [interest rate](/wiki/interest-rate-trading-strategies) they will pay or receive in the future, businesses and investors can plan their budgets and financial strategies more accurately. This stability can be very important for making big decisions, like investing in new projects or managing cash flow. FRAs give them a tool to make their financial future more predictable and secure.
 
 ## How does a Forward Rate Agreement work?
 
@@ -152,7 +152,7 @@ The underlying notional amount in an FRA is not exchanged; instead, cash settlem
 
 **Implications of Market Rate Changes**
 
-FRAs are designed to hedge against interest rate volatility. However, their effectiveness can be influenced by significant shifts in market rates. An unanticipated change in the interest rates can lead to substantial mark-to-market losses for a party, especially if the hedge does not perfectly align with the cash flows or exposures it is intended to offset. This risk is exacerbated in volatile financial environments, where interest rate predictions can deviate markedly from actual market movements.
+FRAs are designed to hedge against interest rate [volatility](/wiki/volatility-trading-strategies). However, their effectiveness can be influenced by significant shifts in market rates. An unanticipated change in the interest rates can lead to substantial mark-to-market losses for a party, especially if the hedge does not perfectly align with the cash flows or exposures it is intended to offset. This risk is exacerbated in volatile financial environments, where interest rate predictions can deviate markedly from actual market movements.
 
 For instance, if an entity anticipates a rate hike and enters an FRA to lock in a lower future rate, but the market rates subsequently decrease instead, the entity could incur losses on the FRA.
 

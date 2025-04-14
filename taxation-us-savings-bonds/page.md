@@ -26,7 +26,7 @@ U.S. Savings Bonds are not subject to state or local taxes. This can make them a
 
 U.S. Savings Bonds are not taxed by state or local governments. This means you don't have to pay any state or city taxes on the interest you earn from these bonds. This can be a big plus if you live in a place with high state taxes.
 
-Even though you don't pay state or local taxes, you still need to pay federal taxes on the interest. You only pay these federal taxes when you cash in the bond or it stops earning interest. This lets you decide when to pay the taxes, which can help with your tax planning.
+Even though you don't pay state or local taxes, you still need to pay federal taxes on the interest. You only pay these federal taxes when you cash in the bond or it stops [earning](/wiki/earning-announcement) interest. This lets you decide when to pay the taxes, which can help with your tax planning.
 
 ## What is the difference between taxing the interest annually versus at maturity?
 

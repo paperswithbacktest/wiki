@@ -46,7 +46,7 @@ Traders watch the DeMarker number to see if it's above 0.7 or below 0.3. If it's
 
 ## How does the DeMarker Indicator differ from other momentum indicators?
 
-The DeMarker Indicator is different from other momentum indicators because it focuses on the difference between the highs and lows of price changes. Most other momentum indicators, like the Relative Strength Index (RSI) or the Moving Average Convergence Divergence (MACD), look at the closing prices of an asset. The DeMarker Indicator uses the highs and lows to find out if a price might go up or down soon, while others use closing prices to guess the same thing.
+The DeMarker Indicator is different from other [momentum](/wiki/momentum) indicators because it focuses on the difference between the highs and lows of price changes. Most other momentum indicators, like the Relative Strength Index (RSI) or the Moving Average Convergence Divergence (MACD), look at the closing prices of an asset. The DeMarker Indicator uses the highs and lows to find out if a price might go up or down soon, while others use closing prices to guess the same thing.
 
 Another way the DeMarker Indicator is different is how it calculates its values. The DeMarker Indicator uses DeMax and DeMin to find out if a price is overbought or oversold. DeMax looks at the difference between the current high and the last high, and DeMin looks at the difference between the current low and the last low. Other momentum indicators might use different ways to figure out if a price is too high or too low. For example, the RSI uses the average gain and loss of closing prices over time. So, the DeMarker Indicator gives traders a unique way to see price movements compared to other tools.
 
@@ -84,7 +84,7 @@ It's also important for traders to use the DeMarker Indicator with other tools t
 
 The DeMarker Indicator (DeM) is a significant oscillator used in technical analysis, designed to evaluate the demand for an asset by comparing its recent high and low prices to those of previous periods. This comparison helps to assess the relative strength of price movements over time, aiding traders in identifying potential shifts in market trends.
 
-The DeMarker Indicator operates by identifying overbought and oversold conditions, which are crucial for determining potential entry and exit points in trading. An asset is typically considered overbought when the DeMarker value is above a certain threshold, often set at 0.70, indicating that a price correction might be forthcoming. Conversely, a value below 0.30 indicates an oversold condition, suggesting a potential price increase as demand rises.
+The DeMarker Indicator operates by identifying overbought and oversold conditions, which are crucial for determining potential entry and [exit](/wiki/exit-strategy) points in trading. An asset is typically considered overbought when the DeMarker value is above a certain threshold, often set at 0.70, indicating that a price correction might be forthcoming. Conversely, a value below 0.30 indicates an oversold condition, suggesting a potential price increase as demand rises.
 
 Unlike other oscillators such as the Relative Strength Index (RSI), which primarily considers closing prices, the DeMarker Indicator focuses on intra-period price dynamics. It specifically examines the highs and lows within the selected time frame. This emphasis on intra-period data allows the DeMarker to capture price fluctuations in a nuanced manner, offering a distinctive perspective on an asset's demand level.
 

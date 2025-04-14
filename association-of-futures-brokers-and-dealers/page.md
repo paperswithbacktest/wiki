@@ -82,7 +82,7 @@ Another challenge is that the economy can be unpredictable. This can make it har
 
 ## What are Algo Trading Strategies and Techniques?
 
-Algorithmic trading employs sophisticated mathematical models and powerful computers to execute trades based on predefined conditions. It has transformed the financial markets by enabling faster execution and removing human emotions from trading decisions. Fundamental strategies in algorithmic trading include statistical [arbitrage](/wiki/arbitrage), [market making](/wiki/market-making), and [trend following](/wiki/trend-following). Understanding each approach's principles and methodologies is vital for developing efficient trading systems.
+Algorithmic trading employs sophisticated mathematical models and powerful computers to execute trades based on predefined conditions. It has transformed the financial markets by enabling faster execution and removing human emotions from trading decisions. Fundamental strategies in [algorithmic trading](/wiki/algorithmic-trading) include statistical [arbitrage](/wiki/arbitrage), [market making](/wiki/market-making), and [trend following](/wiki/trend-following). Understanding each approach's principles and methodologies is vital for developing efficient trading systems.
 
 ### Statistical Arbitrage
 
@@ -98,7 +98,7 @@ where $\epsilon_t$ is a stationary error term. If $\epsilon_t$ departs significa
 
 ### Market Making
 
-Market making involves providing [liquidity](/wiki/liquidity-risk-premium) to the market by simultaneously posting buy and sell orders. A market maker profits from the bid-ask spread, the difference between the purchase and sale price. Algorithmic systems automate this process, quickly adjusting quotes to reflect changing market conditions, and they are vital for maintaining liquidity and reducing volatility.
+Market making involves providing [liquidity](/wiki/liquidity-risk-premium) to the market by simultaneously posting buy and sell orders. A market maker profits from the bid-ask spread, the difference between the purchase and sale price. Algorithmic systems automate this process, quickly adjusting quotes to reflect changing market conditions, and they are vital for maintaining liquidity and reducing [volatility](/wiki/volatility-trading-strategies).
 
 ### Trend Following
 

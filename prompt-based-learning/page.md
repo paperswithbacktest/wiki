@@ -19,7 +19,7 @@ Prompt-Based Learning is different from traditional machine learning because it 
 
 This difference makes prompt-based learning more targeted and potentially more effective for specific tasks. Traditional methods can be less accurate for niche or specialized questions because they are trained on broad datasets. Prompt-based learning allows the model to be fine-tuned for particular prompts, leading to more relevant and precise answers. For instance, if you need a model to translate specific phrases from English to Spanish, prompt-based learning would let you train the model on those phrases directly, improving its performance on that task compared to a general translation model.
 
-In summary, while traditional machine learning aims to create a general-purpose model that can handle a wide range of tasks, prompt-based learning is about creating a model that excels at specific tasks by focusing on the prompts given to it. This approach can lead to better performance in specialized areas and can be more efficient when dealing with particular types of questions or tasks.
+In summary, while traditional [machine learning](/wiki/machine-learning) aims to create a general-purpose model that can handle a wide range of tasks, prompt-based learning is about creating a model that excels at specific tasks by focusing on the prompts given to it. This approach can lead to better performance in specialized areas and can be more efficient when dealing with particular types of questions or tasks.
 
 ## What are the main components of a prompt in Prompt-Based Learning?
 

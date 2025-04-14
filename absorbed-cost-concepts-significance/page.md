@@ -124,7 +124,7 @@ This contrast demonstrates how inventory valuation and profitability can differ 
 
 ## How can Absorption Costing be integrated with Algorithmic Trading?
 
-The integration of absorption costing and algorithmic trading introduces a strategic advantage by using detailed cost analysis to enhance trading algorithms. Absorption costing, which includes both fixed and variable costs in product costing, provides a holistic view of a company's financials. When combined with algorithmic trading, this comprehensive cost perspective can lead to the optimization of trading algorithms and improved profitability.
+The integration of absorption costing and [algorithmic trading](/wiki/algorithmic-trading) introduces a strategic advantage by using detailed cost analysis to enhance trading algorithms. Absorption costing, which includes both fixed and variable costs in product costing, provides a holistic view of a company's financials. When combined with algorithmic trading, this comprehensive cost perspective can lead to the optimization of trading algorithms and improved profitability.
 
 ### Optimizing Algorithm Performance
 

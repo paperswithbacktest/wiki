@@ -74,7 +74,7 @@ On the other hand, if a central bank wants to make its country's money weaker, i
 
 ## What are the effects of exchange rate volatility on financial markets?
 
-Exchange rate volatility can make financial markets go up and down a lot. When exchange rates change quickly and a lot, it can make people feel unsure about what will happen next. This uncertainty can make people sell their investments, which can cause stock prices to drop. It can also make it harder for companies to plan for the future because they don't know how much their costs will be. Banks and other financial institutions might also be more careful about lending money because they worry about losing money if the exchange rates keep changing.
+Exchange rate [volatility](/wiki/volatility-trading-strategies) can make financial markets go up and down a lot. When exchange rates change quickly and a lot, it can make people feel unsure about what will happen next. This uncertainty can make people sell their investments, which can cause stock prices to drop. It can also make it harder for companies to plan for the future because they don't know how much their costs will be. Banks and other financial institutions might also be more careful about lending money because they worry about losing money if the exchange rates keep changing.
 
 On the other hand, some people in financial markets like exchange rate volatility because it can give them chances to make money. Traders who are good at guessing how exchange rates will move can buy and sell money to make a profit. But this kind of trading can also make the markets even more volatile. So, while some people can benefit from the ups and downs, exchange rate volatility can make financial markets less stable and more risky for everyone involved.
 

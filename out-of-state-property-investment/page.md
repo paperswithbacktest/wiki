@@ -52,7 +52,7 @@ Taxes are another big thing to think about. When you own property in another sta
 
 ## How do you find and vet reliable local property management services?
 
-Finding a good property manager in another state starts with asking around. You can talk to local real estate agents, other property owners, or even join online groups where people share tips about investing in that area. They might know good property managers and can tell you about their experiences. You can also search online for property management companies in the area you're interested in. Look at their websites and read reviews from other clients to get an idea of how they work.
+Finding a good property manager in another state starts with asking around. You can talk to local real estate [agents](/wiki/agents), other property owners, or even join online groups where people share tips about investing in that area. They might know good property managers and can tell you about their experiences. You can also search online for property management companies in the area you're interested in. Look at their websites and read reviews from other clients to get an idea of how they work.
 
 Once you have a list of possible property managers, you need to check them out carefully. Call them and ask questions about how they handle things like finding tenants, collecting rent, and fixing problems. It's important to know how much they charge and what services they offer. You can also ask for references from other property owners they work with. Talking to these references can give you a better idea if the property manager is reliable and good at their job. By taking your time to ask around and do your research, you can find a property manager you can trust to take care of your out-of-state property.
 

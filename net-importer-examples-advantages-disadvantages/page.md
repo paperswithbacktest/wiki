@@ -26,7 +26,7 @@ These differences can affect a country's economy in different ways. A net import
 
 The United States is a big example of a net importer. This means they buy a lot more stuff from other countries than they sell to them. In 2022, the U.S. spent over $3 trillion on imports but only made about $2.5 trillion from exports. This difference is called a trade deficit. Because of this, the U.S. needs to use more of its money to buy things from other places.
 
-Another example is the United Kingdom. They also buy more from other countries than they sell. In recent years, the UK's imports were around £600 billion, while their exports were about £500 billion. This makes the UK a net importer too. Like the U.S., the UK has a trade deficit, which means they are spending more on foreign goods than they are earning from their own exports.
+Another example is the United Kingdom. They also buy more from other countries than they sell. In recent years, the UK's imports were around £600 billion, while their exports were about £500 billion. This makes the UK a net importer too. Like the U.S., the UK has a trade deficit, which means they are spending more on foreign goods than they are [earning](/wiki/earning-announcement) from their own exports.
 
 Countries like these have access to many different products from around the world, which can be good for their people and businesses. But it also means they need to be careful about how they manage their money and trade with other countries.
 

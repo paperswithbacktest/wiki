@@ -88,7 +88,7 @@ Algorithmic trading relies heavily on mathematical models to achieve high-precis
 
 ### Black-Scholes Model
 
-The Black-Scholes model is one of the most fundamental mathematical frameworks used in option pricing, which has substantial applications in algorithmic trading. This model provides a theoretical estimate of the price of European-style options and is based on several assumptions, such as constant volatility and no [arbitrage](/wiki/arbitrage) opportunities. The Black-Scholes equation is defined as:
+The Black-Scholes model is one of the most fundamental mathematical frameworks used in option pricing, which has substantial applications in [algorithmic trading](/wiki/algorithmic-trading). This model provides a theoretical estimate of the price of European-style options and is based on several assumptions, such as constant [volatility](/wiki/volatility-trading-strategies) and no [arbitrage](/wiki/arbitrage) opportunities. The Black-Scholes equation is defined as:
 
 $$
 C = S_0 N(d_1) - X e^{-rT} N(d_2)

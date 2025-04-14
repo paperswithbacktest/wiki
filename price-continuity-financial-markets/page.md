@@ -30,7 +30,7 @@ If prices were jumping around a lot, it could scare people away from trading. Th
 
 One common indicator used to measure price continuity is the bid-ask spread. This is the difference between the highest price someone is willing to pay for a stock (the bid) and the lowest price someone is willing to sell it for (the ask). When the bid-ask spread is small, it means the price is moving smoothly and there is good price continuity. A big spread can mean the price is jumping around more, which shows less price continuity.
 
-Another indicator is the volatility of the stock. Volatility measures how much the price of a stock goes up and down over time. If a stock's price is moving a lot, it has high volatility, which can mean less price continuity. If the price is staying pretty steady, it has low volatility, which shows good price continuity. Traders and investors often look at these indicators to understand how smoothly prices are moving in the market.
+Another indicator is the [volatility](/wiki/volatility-trading-strategies) of the stock. Volatility measures how much the price of a stock goes up and down over time. If a stock's price is moving a lot, it has high volatility, which can mean less price continuity. If the price is staying pretty steady, it has low volatility, which shows good price continuity. Traders and investors often look at these indicators to understand how smoothly prices are moving in the market.
 
 ## Can you explain the concept of a continuous market versus a call market?
 
@@ -52,7 +52,7 @@ By doing this, market makers help keep prices from jumping around too much. If t
 
 ## How do high-frequency trading and algorithmic trading influence price continuity?
 
-High-frequency trading (HFT) and algorithmic trading can affect how smoothly prices move in the market. These types of trading use computers to buy and sell stocks very quickly, sometimes in just a few seconds. Because they trade so fast, they can cause prices to change a lot in a short time. If many high-frequency traders are buying or selling at the same time, it can make the price of a stock jump up or down quickly. This can make the market feel less smooth and more unpredictable for other traders and investors.
+High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) and [algorithmic trading](/wiki/algorithmic-trading) can affect how smoothly prices move in the market. These types of trading use computers to buy and sell stocks very quickly, sometimes in just a few seconds. Because they trade so fast, they can cause prices to change a lot in a short time. If many high-frequency traders are buying or selling at the same time, it can make the price of a stock jump up or down quickly. This can make the market feel less smooth and more unpredictable for other traders and investors.
 
 On the other hand, high-frequency and algorithmic trading can also help keep prices moving smoothly. These traders often use their fast computers to watch the market closely and step in to buy or sell when prices start to move too much. By doing this, they can help keep the price from jumping around too much. So, while these types of trading can sometimes make prices less smooth, they can also help keep things steady if they are used the right way.
 

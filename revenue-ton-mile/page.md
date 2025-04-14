@@ -24,7 +24,7 @@ This measurement helps companies see how well they are doing at making money fro
 
 Revenue Ton Mile is really important in the transportation industry because it helps companies see how much money they are making from moving stuff. When a company knows its Revenue Ton Miles, it can figure out if it's doing a good job at making money from each load it carries. This is super helpful because it shows if the company is using its trucks, trains, or ships in the best way possible.
 
-By keeping an eye on Revenue Ton Miles, companies can also decide if they need to change their prices or pick different routes to make more money. If they see that their Revenue Ton Miles are low, they might need to find ways to carry more stuff or move it farther. This simple measure helps companies run better and make smarter choices about their business.
+By keeping an eye on Revenue Ton Miles, companies can also decide if they need to change their prices or pick different routes to make more money. If they see that their Revenue Ton Miles are low, they might need to find ways to [carry](/wiki/carry-trading) more stuff or move it farther. This simple measure helps companies run better and make smarter choices about their business.
 
 ## Can you provide an example of how Revenue Ton Mile is used in a business context?
 

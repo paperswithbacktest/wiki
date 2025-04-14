@@ -72,7 +72,7 @@ Another challenge is that people who do insider trading are often good at hiding
 
 ## Can you explain the SEC's use of machine learning and AI in detecting insider trading?
 
-The SEC uses machine learning and AI to help them find insider trading. These smart computer programs can look at a lot of trading data very quickly. They help the SEC spot strange patterns, like when a lot of people start buying a stock right before big news comes out. This can be a sign that someone is using secret information to trade stocks, which is not fair. By using machine learning and AI, the SEC can find these patterns faster than they could before.
+The SEC uses [machine learning](/wiki/machine-learning) and AI to help them find insider trading. These smart computer programs can look at a lot of trading data very quickly. They help the SEC spot strange patterns, like when a lot of people start buying a stock right before big news comes out. This can be a sign that someone is using secret information to trade stocks, which is not fair. By using machine learning and AI, the SEC can find these patterns faster than they could before.
 
 Machine learning and AI also help the SEC learn from past cases of insider trading. These programs can get better over time by looking at old data and figuring out what kinds of patterns are most likely to mean insider trading. This makes it easier for the SEC to catch people who are breaking the law. By using these smart tools, the SEC can keep the stock market fair and protect the people who invest in it.
 

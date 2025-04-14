@@ -82,7 +82,7 @@ Another strategy is to use credit balances to encourage more business. Enterpris
 
 Advanced analytics and forecasting techniques can help businesses manage credit balances better. One way is by using predictive analytics to guess how much credit balances might grow in the future. This means looking at past data to see patterns and trends. For example, if a business sees that credit balances go up a lot during certain times of the year, they can plan for that. They can use this information to set up better systems to track and use credit balances before they expire.
 
-Another technique is using machine learning to make credit balance management smarter. Machine learning can look at a lot of data quickly and find things that people might miss. It can help spot when credit balances are because of mistakes or fraud. By using machine learning, businesses can fix these issues faster and make sure their records are correct. This helps them keep their financial statements accurate and manage credit balances more effectively.
+Another technique is using [machine learning](/wiki/machine-learning) to make credit balance management smarter. Machine learning can look at a lot of data quickly and find things that people might miss. It can help spot when credit balances are because of mistakes or fraud. By using machine learning, businesses can fix these issues faster and make sure their records are correct. This helps them keep their financial statements accurate and manage credit balances more effectively.
 
 ## What are some financial examples in accounting?
 

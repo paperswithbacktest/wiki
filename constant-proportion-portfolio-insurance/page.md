@@ -156,7 +156,7 @@ For those interested in exploring Constant Proportion Portfolio Insurance (CPPI)
 
 In addition to these foundational texts, a wealth of academic journal articles expand on various aspects of CPPI. These articles often incorporate empirical studies, simulations, and case analyses that demonstrate the strategy's performance relative to market conditions and investor sentiment. They also analyze modifications to the classical CPPI model, including the application of different multipliers and floors, offering insights into how these variables influence portfolio outcomes.
 
-For practitioners interested in implementing CPPI using technology, exploring documentation from algorithmic trading platforms like Alpaca is advisable. These platforms often offer comprehensive guides and APIs that facilitate the automation of CPPI strategies. Such resources include practical examples and code snippets, typically in Python, that show how to automate portfolio rebalancing efficiently.
+For practitioners interested in implementing CPPI using technology, exploring documentation from [algorithmic trading](/wiki/algorithmic-trading) platforms like Alpaca is advisable. These platforms often offer comprehensive guides and APIs that facilitate the automation of CPPI strategies. Such resources include practical examples and code snippets, typically in Python, that show how to automate portfolio rebalancing efficiently.
 
 Moreover, a variety of investment strategy [books](/wiki/algo-trading-books) provide broader contexts into which CPPI fits, comparing it with other portfolio insurance strategies and exploring its integration with modern trading technologies.
 

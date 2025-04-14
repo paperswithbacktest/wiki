@@ -123,7 +123,7 @@ By leveraging these investment metrics, investors can make informed, strategic d
 
 ## How can real estate metrics be integrated with algorithmic trading?
 
-Combining established real estate metrics with algorithmic trading offers a powerful toolkit for comprehensive property analysis. By automating the calculation and evaluation of critical metrics such as Cap Rate and Internal Rate of Return (IRR), investors can rapidly assess multiple investment opportunities, thereby improving the decision-making process. 
+Combining established real estate metrics with [algorithmic trading](/wiki/algorithmic-trading) offers a powerful toolkit for comprehensive property analysis. By automating the calculation and evaluation of critical metrics such as Cap Rate and Internal Rate of Return (IRR), investors can rapidly assess multiple investment opportunities, thereby improving the decision-making process. 
 
 **Automation of Metrics Calculation**
 
@@ -180,7 +180,7 @@ Overall, the synthesis of real estate metrics with algorithmic trading empowers 
 
 While the integration of metrics and algorithmic trading into real estate investment remains a relatively new frontier, several successful case studies illustrate the transformative power of these methodologies in optimizing investment outcomes. One such example is the case of a mid-sized real estate investment firm that sought to enhance its investment strategy using advanced data analytics and algorithmic models.
 
-The firm employed algorithmic trading techniques traditionally used in financial markets, integrating them with real estate investment metrics such as Net Operating Income (NOI) and Internal Rate of Return (IRR). By leveraging machine learning algorithms, the firm was able to automate the analysis of vast datasets, including historical property values, market trends, and economic indicators. This automated process led to a more efficient evaluation of investment opportunities, enabling the firm to identify undervalued properties with significant appreciation potential.
+The firm employed algorithmic trading techniques traditionally used in financial markets, integrating them with real estate investment metrics such as Net Operating Income (NOI) and Internal Rate of Return (IRR). By leveraging [machine learning](/wiki/machine-learning) algorithms, the firm was able to automate the analysis of vast datasets, including historical property values, market trends, and economic indicators. This automated process led to a more efficient evaluation of investment opportunities, enabling the firm to identify undervalued properties with significant appreciation potential.
 
 For instance, the firm used predictive analytics to estimate future property values and rental income, which fed into their algorithm to calculate expected returns. The formula used for calculating the expected return was:
 

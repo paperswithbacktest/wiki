@@ -32,7 +32,7 @@ Grinders are also great for sharpening tools. If your kitchen knives or garden t
 
 Choosing the right grinder depends on what you need to do. If you're working on small, detailed projects, a die grinder might be best. It's small and easy to control, perfect for getting into tight spaces. If you need to cut through materials like metal or concrete, an angle grinder is a good choice. It's versatile and powerful, making it useful for many DIY projects. For sharpening tools or shaping large pieces of metal, a bench grinder is what you want. It's sturdy and gives you a lot of control.
 
-Safety is also important when picking a grinder. Make sure the grinder you choose has good safety features like a guard to protect you from flying debris. Also, think about how easy it is to use. If you're new to using grinders, an angle grinder might be easier to handle because it's smaller and lighter. But if you need something for heavy-duty work, a bench grinder might be better even though it's bigger and stays in one place. Always wear protective gear like gloves, goggles, and a mask when using a grinder to stay safe.
+Safety is also important when [picking](/wiki/asset-class-picking) a grinder. Make sure the grinder you choose has good safety features like a guard to protect you from flying debris. Also, think about how easy it is to use. If you're new to using grinders, an angle grinder might be easier to handle because it's smaller and lighter. But if you need something for heavy-duty work, a bench grinder might be better even though it's bigger and stays in one place. Always wear protective gear like gloves, goggles, and a mask when using a grinder to stay safe.
 
 ## What safety precautions should be taken when using a grinder?
 

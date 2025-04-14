@@ -24,7 +24,7 @@ To create a zero-beta portfolio, you need to balance assets that go up when the 
 
 The main components of a zero-beta portfolio are assets that have different reactions to the market. Some of these assets go up when the market goes up, and these are called positive beta assets. Other assets go up when the market goes down, and these are called negative beta assets. By including both types of assets in the portfolio, investors can balance out the effects of market movements. This balance helps the portfolio have a beta of zero, meaning it doesn't move with the market.
 
-For example, a zero-beta portfolio might include stocks of companies that do well even when the economy is struggling, like utility companies or consumer staples. These stocks often have negative betas because they can go up when the market goes down. On the other hand, the portfolio might also include stocks of tech companies or growth stocks that tend to go up when the market is doing well. By carefully choosing and balancing these different types of stocks, investors can create a portfolio that stays stable no matter what the market does.
+For example, a zero-beta portfolio might include stocks of companies that do well even when the economy is struggling, like utility companies or consumer staples. These stocks often have negative betas because they can go up when the market goes down. On the other hand, the portfolio might also include stocks of tech companies or [growth stocks](/wiki/growth-stocks) that tend to go up when the market is doing well. By carefully choosing and balancing these different types of stocks, investors can create a portfolio that stays stable no matter what the market does.
 
 ## How can one construct a zero-beta portfolio?
 
@@ -40,7 +40,7 @@ Another benefit of a zero-beta portfolio is that it lets you focus on other ways
 
 ## Can a zero-beta portfolio completely eliminate risk?
 
-A zero-beta portfolio can't completely get rid of all risk. It's made to not move with the market, which means it doesn't have market risk. But there are other kinds of risks that it can't stop. For example, there's the risk that the companies in your portfolio might not do well, even if the market is doing okay. This is called company-specific risk. Also, there's the risk that you might need to sell your investments when they're not worth as much as you hoped. This is called liquidity risk.
+A zero-beta portfolio can't completely get rid of all risk. It's made to not move with the market, which means it doesn't have market risk. But there are other kinds of risks that it can't stop. For example, there's the risk that the companies in your portfolio might not do well, even if the market is doing okay. This is called company-specific risk. Also, there's the risk that you might need to sell your investments when they're not worth as much as you hoped. This is called [liquidity](/wiki/liquidity-risk-premium) risk.
 
 Even though a zero-beta portfolio can help you avoid market ups and downs, it still has other risks. For instance, if you put money into bonds to balance out your stocks, there's still a chance that the bond issuer might not be able to pay you back. This is called credit risk. So, while a zero-beta portfolio can make your investments more stable, it can't make them completely safe. You always need to think about other kinds of risks when you're investing.
 

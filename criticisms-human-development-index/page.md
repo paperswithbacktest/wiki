@@ -24,7 +24,7 @@ The United Nations came up with the HDI in 1990. They wanted to show that develo
 
 The Human Development Index (HDI) has three main parts: life expectancy, education, and income. Life expectancy looks at how long people live on average in a country. This shows how healthy people are and how good the healthcare system is. Education is measured by looking at how many years of school people go to and how many years they actually spend in school. This tells us how much people are learning and how good the education system is.
 
-The third part of the HDI is income, which looks at how much money people earn. This is measured by something called Gross National Income (GNI) per person. It shows how well people are doing financially. By combining these three parts, the HDI gives a single number that shows how well a country is doing in terms of its people's lives. A higher HDI score means people in that country are living longer, getting more education, and earning more money.
+The third part of the HDI is income, which looks at how much money people earn. This is measured by something called Gross National Income (GNI) per person. It shows how well people are doing financially. By combining these three parts, the HDI gives a single number that shows how well a country is doing in terms of its people's lives. A higher HDI score means people in that country are living longer, getting more education, and [earning](/wiki/earning-announcement) more money.
 
 ## What are some general criticisms of the HDI?
 

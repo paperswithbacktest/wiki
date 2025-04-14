@@ -38,7 +38,7 @@ In the context of environmental impact, per capita data can be used to measure c
 
 Per capita income and average income are similar but not exactly the same. Per capita income is the total income of a country or area divided by the number of people living there. It gives you an idea of how much money each person would get if the total income was shared equally among everyone. This is useful for comparing different places or seeing how well people are doing overall.
 
-Average income, on the other hand, can be a bit different because it depends on how you define "average." Usually, average income is calculated by adding up the incomes of all the people in a group and then dividing by the number of people. But sometimes, average income might only include people who are working or earning money, leaving out children or people who are not working. This can make the average income higher than the per capita income because it doesn't include everyone in the population.
+Average income, on the other hand, can be a bit different because it depends on how you define "average." Usually, average income is calculated by adding up the incomes of all the people in a group and then dividing by the number of people. But sometimes, average income might only include people who are working or [earning](/wiki/earning-announcement) money, leaving out children or people who are not working. This can make the average income higher than the per capita income because it doesn't include everyone in the population.
 
 ## What are the limitations of using per capita measurements?
 
@@ -60,7 +60,7 @@ Another important use of per capita in demographic studies is to look at things 
 
 ## How can per capita statistics be misleading and why?
 
-Per capita statistics can be misleading because they show an average, which can hide big differences between people. For example, if you look at per capita income, it might seem like everyone in a country is doing well if the number is high. But in reality, a few very rich people might be making most of the money, while many others are poor. So, the per capita number can make the country look richer than it really is for most people.
+Per capita [statistics](/wiki/bayesian-statistics) can be misleading because they show an average, which can hide big differences between people. For example, if you look at per capita income, it might seem like everyone in a country is doing well if the number is high. But in reality, a few very rich people might be making most of the money, while many others are poor. So, the per capita number can make the country look richer than it really is for most people.
 
 Another way per capita statistics can be misleading is that they don't show how things are spread out. For instance, if you look at the number of doctors per capita in a country, it might seem like there are enough doctors. But if most of those doctors work in big cities, people in rural areas might still have a hard time getting medical help. So, per capita numbers can sometimes give a false sense of how evenly resources are shared.
 

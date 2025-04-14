@@ -90,7 +90,7 @@ $$
 
 where $\text{PV}$ is the present value, $\text{FV}$ is the future value of the retirement obligation, $r$ is the discount rate, and $n$ is the number of years until the obligation is settled.
 
-In the context of algorithmic trading, financial responsibility focuses on developing algorithms that optimize returns while managing associated risks. This requires a deep understanding of financial markets, coupled with the ability to adapt algorithms in response to market dynamics and volatility. Effective algorithm development incorporates statistical models and [machine learning](/wiki/machine-learning) techniques to forecast market trends and execute trades efficiently.
+In the context of [algorithmic trading](/wiki/algorithmic-trading), financial responsibility focuses on developing algorithms that optimize returns while managing associated risks. This requires a deep understanding of financial markets, coupled with the ability to adapt algorithms in response to market dynamics and [volatility](/wiki/volatility-trading-strategies). Effective algorithm development incorporates statistical models and [machine learning](/wiki/machine-learning) techniques to forecast market trends and execute trades efficiently.
 
 The integration of Artificial Intelligence (AI) and machine learning into algorithmic trading introduces additional complexity, requiring advanced technological infrastructure and skilled personnel proficient in data science and quantitative analysis. The ability to process vast amounts of data in real time and apply sophisticated algorithms enables traders to enhance decision-making processes and improve market predictions.
 

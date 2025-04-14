@@ -18,13 +18,13 @@ This number is important for investors who want to earn money from their stocks 
 
 Dividend yield is calculated by dividing the annual dividend per share by the current price per share of the stock. The result is then turned into a percentage. For example, if a company pays $2 in dividends per share each year and the stock price is $40, you would divide $2 by $40 to get 0.05, which is 5% when turned into a percentage.
 
-This calculation helps investors see how much they are earning from their investment in dividends compared to the price they paid for the stock. A higher dividend yield means you are getting more money back for each dollar you invest. But remember, it's not just about the dividend yield. You should also check if the company is doing well and if it can keep paying those dividends in the future.
+This calculation helps investors see how much they are [earning](/wiki/earning-announcement) from their investment in dividends compared to the price they paid for the stock. A higher dividend yield means you are getting more money back for each dollar you invest. But remember, it's not just about the dividend yield. You should also check if the company is doing well and if it can keep paying those dividends in the future.
 
 ## Why is dividend yield important for investors?
 
 Dividend yield is important for investors because it shows how much money they can earn from their investment just by holding onto the stock. If a stock has a high dividend yield, it means that for every dollar you spend on the stock, you get more money back each year in dividends. This can be really helpful for people who want to make money from their investments without selling their stocks.
 
-But, it's not just about picking the stock with the highest dividend yield. Investors need to look at the whole picture. A very high dividend yield might mean the stock's price has gone down a lot, which could be a warning sign. So, while dividend yield is a good thing to check, it's also important to see if the company is doing well and if it can keep paying those dividends in the future.
+But, it's not just about [picking](/wiki/asset-class-picking) the stock with the highest dividend yield. Investors need to look at the whole picture. A very high dividend yield might mean the stock's price has gone down a lot, which could be a warning sign. So, while dividend yield is a good thing to check, it's also important to see if the company is doing well and if it can keep paying those dividends in the future.
 
 ## What is considered a good dividend yield?
 

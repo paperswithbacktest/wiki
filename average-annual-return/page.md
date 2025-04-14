@@ -30,7 +30,7 @@ Once you have the yearly returns, you add them up and divide by the number of ye
 
 Simple average annual return is easy to calculate. You just add up all the yearly returns and then divide by the number of years. It's like finding the average score of a bunch of tests. This method treats each year's return the same, no matter if the money grows slowly or quickly. But it doesn't show how your money actually grows over time because it doesn't consider that the money you earn each year can also earn more money in the future.
 
-Compound average annual return, often called the Compound Annual Growth Rate (CAGR), is a bit trickier but gives a better picture of how your investment grows over time. It takes into account that the money you make each year can keep earning more money. To find the CAGR, you start with how much money you had at the beginning and how much you have at the end, then figure out the rate that would make your money grow from the start to the end over those years. This way, it shows the real growth of your money, considering that your earnings can earn more earnings.
+Compound average annual return, often called the Compound Annual Growth Rate (CAGR), is a bit trickier but gives a better picture of how your investment grows over time. It takes into account that the money you make each year can keep [earning](/wiki/earning-announcement) more money. To find the CAGR, you start with how much money you had at the beginning and how much you have at the end, then figure out the rate that would make your money grow from the start to the end over those years. This way, it shows the real growth of your money, considering that your earnings can earn more earnings.
 
 ## Can you provide an example of how to calculate the average annual return?
 
@@ -82,7 +82,7 @@ Another method is time series analysis, which looks at how returns change over t
 
 ## What is Understanding Average Annual Return (AAR)?
 
-Average Annual Return (AAR) is a key financial metric that calculates the arithmetic mean of a series of annual returns over a specified period. It provides investors and analysts with an indication of average yearly return rates, eliminating the impact of short-term volatility. The formula for calculating AAR can be expressed as:
+Average Annual Return (AAR) is a key financial metric that calculates the arithmetic mean of a series of annual returns over a specified period. It provides investors and analysts with an indication of average yearly return rates, eliminating the impact of short-term [volatility](/wiki/volatility-trading-strategies). The formula for calculating AAR can be expressed as:
 
 $$
 AAR = \frac{R_1 + R_2 + \ldots + R_n}{n}

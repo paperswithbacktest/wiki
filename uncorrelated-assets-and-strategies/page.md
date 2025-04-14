@@ -167,7 +167,7 @@ print(backtest_strategy(price_data, example_strategy))
 
 Backtesting is a critical step that involves testing the algorithm against historical data to evaluate its performance. The goal is to simulate how the strategy would have performed in real market conditions, helping traders refine their strategies before live deployment. Backtesting can reveal the strategy's profitability, risk, and drawdown [statistics](/wiki/bayesian-statistics).
 
-Metrics such as the Sharpe ratio, maximum drawdown, and volatility are commonly assessed. The Sharpe ratio measures risk-adjusted returns, calculated as:
+Metrics such as the Sharpe ratio, maximum drawdown, and [volatility](/wiki/volatility-trading-strategies) are commonly assessed. The Sharpe ratio measures risk-adjusted returns, calculated as:
 
 $$
 \text{Sharpe Ratio} = \frac{E[R_p - R_f]}{\sigma_p}

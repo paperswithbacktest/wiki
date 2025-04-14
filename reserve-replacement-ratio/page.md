@@ -58,7 +58,7 @@ On the other hand, if the RRR is less than 100%, it can make investors worried. 
 
 Technology plays a big role in helping oil and gas companies find more oil and gas, which can improve their Reserve-Replacement Ratio. New tools and methods like 3D seismic imaging let companies see under the ground better. This helps them find oil and gas in places that were hard to reach before. Also, drilling technologies have gotten better, so companies can drill deeper and in tougher places like under the ocean. All these new technologies make it easier for companies to find new oil and gas, which can help them keep their RRR high.
 
-Another way technology helps is through data analysis and artificial intelligence. Companies can use computers to look at a lot of data and find patterns that might show where oil and gas could be. This can make exploration faster and more successful. By using technology to find new oil and gas more efficiently, companies can replace what they use and keep their RRR high. This is important for keeping their business going strong in the future.
+Another way technology helps is through data analysis and [artificial intelligence](/wiki/ai-artificial-intelligence). Companies can use computers to look at a lot of data and find patterns that might show where oil and gas could be. This can make exploration faster and more successful. By using technology to find new oil and gas more efficiently, companies can replace what they use and keep their RRR high. This is important for keeping their business going strong in the future.
 
 ## How do geopolitical factors affect the Reserve-Replacement Ratio?
 
@@ -110,7 +110,7 @@ A comprehensive understanding of the dynamics in the energy sector necessitates 
 
 For insights into future energy scenarios, the World Energy Outlook reports by the International Energy Agency (IEA)[2] offer critical analyses. These documents project future energy consumption patterns and technological advancements affecting reserves and trading practices. They evaluate the potential impact of policy shifts on the energy market, underlining the importance of strategic planning.
 
-The integration of algorithmic trading within energy markets is another vital topic backed by extensive literature. Articles like "Algorithmic Trading in Energy Markets" by Robert Kissell provide practical insights into how algorithms are reshaping trading dynamics with improved data processing capabilities[3]. These works also address the inherent challenges and risks, including market volatility and manipulation concerns.
+The integration of [algorithmic trading](/wiki/algorithmic-trading) within energy markets is another vital topic backed by extensive literature. Articles like "Algorithmic Trading in Energy Markets" by Robert Kissell provide practical insights into how algorithms are reshaping trading dynamics with improved data processing capabilities[3]. These works also address the inherent challenges and risks, including market volatility and manipulation concerns.
 
 Statistical and [machine learning](/wiki/machine-learning) advancements are detailed in texts like "Advances in Financial Machine Learning" by Marcos López de Prado[4]. This book explores sophisticated techniques applicable in algorithmic trading, offering readers an overview of deploying machine learning models to gain a competitive edge.
 

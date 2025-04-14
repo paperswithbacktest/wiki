@@ -76,7 +76,7 @@ However, using these models in high-frequency trading also has its challenges. T
 
 One case where information theory helped trading is with a big investment firm that wanted to make better stock picks. They used the idea of entropy to measure how unpredictable the stock market was. When they got new information, like a company's earnings report, they looked at how much it changed the uncertainty in the market. If the report was surprising, it lowered the entropy a lot, which meant it was really important. By understanding this, the firm could make smarter decisions about when to buy or sell stocks. Over time, they found that their trading strategies worked better because they were using this new information in the right way.
 
-Another example is a hedge fund that used mutual information to improve their portfolio. They wanted to know how much knowing about one stock could tell them about another stock. If two stocks had high mutual information, it meant they were closely connected. The hedge fund used this to pick stocks that weren't too connected to each other. This helped them spread out their risk better. By using mutual information, they made their portfolio more diverse and less likely to be hurt by big changes in just one stock. This approach helped them make more money and manage their risk better.
+Another example is a [hedge fund](/wiki/hedge-fund-trading-strategies) that used mutual information to improve their portfolio. They wanted to know how much knowing about one stock could tell them about another stock. If two stocks had high mutual information, it meant they were closely connected. The hedge fund used this to pick stocks that weren't too connected to each other. This helped them spread out their risk better. By using mutual information, they made their portfolio more diverse and less likely to be hurt by big changes in just one stock. This approach helped them make more money and manage their risk better.
 
 ## What are the future trends and potential developments in information-theoretic approaches to trading?
 
@@ -86,7 +86,7 @@ Another trend will be using information theory to manage risk better. Traders wi
 
 ## What are Information Theoretic Approaches in Trading?
 
-Information Theory, a mathematical discipline concerned with the quantification, storage, and communication of information, is finding significant applications in algorithmic trading. Central to this theory is the concept of entropy, which quantifies the uncertainty or unpredictability of information sources. In the context of financial markets, entropy can be used to measure the randomness inherent in market data, providing a basis for optimizing trading strategies.
+Information Theory, a mathematical discipline concerned with the quantification, storage, and communication of information, is finding significant applications in [algorithmic trading](/wiki/algorithmic-trading). Central to this theory is the concept of entropy, which quantifies the uncertainty or unpredictability of information sources. In the context of financial markets, entropy can be used to measure the randomness inherent in market data, providing a basis for optimizing trading strategies.
 
 Entropy is mathematically defined as:
 

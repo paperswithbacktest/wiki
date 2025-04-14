@@ -86,7 +86,7 @@ Another way to avoid financial misstatements is by having regular audits. Audits
 
 ## References & Further Reading
 
-To gain deeper insights into revenue recognition, accrual accounting, and algorithmic trading, explore resources such as Deloitte's "Revenue from Contracts with Customers" and "Algorithmic Trading: Winning Strategies" by Ernie Chan. These resources provide comprehensive frameworks for understanding the principles of financial reporting and integrating them with advanced trading strategies.
+To gain deeper insights into revenue recognition, accrual accounting, and [algorithmic trading](/wiki/algorithmic-trading), explore resources such as Deloitte's "Revenue from Contracts with Customers" and "Algorithmic Trading: Winning Strategies" by Ernie Chan. These resources provide comprehensive frameworks for understanding the principles of financial reporting and integrating them with advanced trading strategies.
 
 Deloitte's "Revenue from Contracts with Customers" presents a detailed analysis of ASC 606 and IFRS 15 guidelines. It provides a thorough understanding of the five-step model for revenue recognition which includes identifying contracts with customers, delineating performance obligations, determining transaction prices, allocating prices to performance obligations, and recognizing revenue as obligations are satisfied. This structured approach supports transparent and consistent revenue recognition practices crucial for reliable financial reporting.
 

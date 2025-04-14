@@ -22,7 +22,7 @@ The busiest trading times for the Swiss Franc are when the London and New York s
 
 ## How do the trading hours of the Swiss Franc align with major forex market sessions?
 
-The Swiss Franc can be traded 24 hours a day from Monday to Friday, just like other major currencies. The forex market follows the sun around the world, starting in Sydney, then moving to Tokyo, London, and finally New York. This means you can trade the Swiss Franc at any time during the week, but the busiest times are when the big financial centers are open.
+The Swiss Franc can be traded 24 hours a day from Monday to Friday, just like other major currencies. The [forex](/wiki/forex-system) market follows the sun around the world, starting in Sydney, then moving to Tokyo, London, and finally New York. This means you can trade the Swiss Franc at any time during the week, but the busiest times are when the big financial centers are open.
 
 The busiest trading times for the Swiss Franc happen when the London and New York sessions overlap. This is usually from 8 AM to 12 PM Eastern Time. During these hours, there is a lot of trading activity, which means more chances to buy or sell the Swiss Franc. Outside of these peak times, trading might be slower, but you can still trade the Swiss Franc whenever the market is open.
 
@@ -34,7 +34,7 @@ The reason these hours are so busy is that London and New York are two of the bi
 
 ## How does the Swiss Franc's trading volume vary throughout the day?
 
-The trading volume of the Swiss Franc changes throughout the day because it follows the opening times of big financial centers around the world. The forex market starts in Sydney, then moves to Tokyo, London, and finally New York. When these big markets open, more people start trading, and the volume of the Swiss Franc goes up. The volume is usually low when only one or two markets are open, like during the Sydney and Tokyo sessions.
+The trading [volume](/wiki/volume-trading-strategy) of the Swiss Franc changes throughout the day because it follows the opening times of big financial centers around the world. The forex market starts in Sydney, then moves to Tokyo, London, and finally New York. When these big markets open, more people start trading, and the volume of the Swiss Franc goes up. The volume is usually low when only one or two markets are open, like during the Sydney and Tokyo sessions.
 
 The busiest time for trading the Swiss Franc is when the London and New York sessions overlap. This happens from 8 AM to 12 PM Eastern Time. During these hours, both markets are open, and a lot of people are buying and selling the Swiss Franc. This makes the trading volume very high. Outside of these peak hours, the volume might be lower, but you can still trade the Swiss Franc at any time during the week when the forex market is open.
 
@@ -52,7 +52,7 @@ Traders can also look at quieter times, like when only Sydney or Tokyo is open, 
 
 ## What are the liquidity conditions for the Swiss Franc during different times of the day?
 
-The liquidity of the Swiss Franc changes throughout the day based on when the big financial markets are open. When the Sydney and Tokyo sessions are open, the liquidity is lower because fewer people are trading. This means that it might be harder to buy or sell the Swiss Franc quickly during these times. The Swiss Franc might not move as much because there are not as many traders making deals.
+The [liquidity](/wiki/liquidity-risk-premium) of the Swiss Franc changes throughout the day based on when the big financial markets are open. When the Sydney and Tokyo sessions are open, the liquidity is lower because fewer people are trading. This means that it might be harder to buy or sell the Swiss Franc quickly during these times. The Swiss Franc might not move as much because there are not as many traders making deals.
 
 The liquidity gets much better when the London session starts and even better when New York opens too. From 8 AM to 12 PM Eastern Time, both London and New York are open, and this is when the Swiss Franc is most liquid. A lot of people are trading, so it's easy to buy or sell the Swiss Franc. The price can move a lot during these hours because there are so many traders making deals. If you want to trade the Swiss Franc, these are the best times because the market is very active.
 
@@ -76,7 +76,7 @@ Even if big news comes out during quieter times, like when only Sydney or Tokyo 
 
 ## What advanced strategies can expert traders employ during specific Swiss Franc trading hours?
 
-Expert traders can use a strategy called scalping during the peak trading hours of the Swiss Franc, from 8 AM to 12 PM Eastern Time. Scalping means making a lot of small trades to make a little bit of money each time. During these busy hours, the Swiss Franc moves a lot, and the spread is small. This makes it easier for expert traders to quickly buy and sell the Swiss Franc and make money from small price changes. They can watch the market closely and use fast trading tools to make their trades.
+Expert traders can use a strategy called [scalping](/wiki/gamma-scalping) during the peak trading hours of the Swiss Franc, from 8 AM to 12 PM Eastern Time. Scalping means making a lot of small trades to make a little bit of money each time. During these busy hours, the Swiss Franc moves a lot, and the spread is small. This makes it easier for expert traders to quickly buy and sell the Swiss Franc and make money from small price changes. They can watch the market closely and use fast trading tools to make their trades.
 
 Another strategy expert traders can use is called news trading. They watch for big economic news about Switzerland or the world and trade the Swiss Franc when the news comes out. If the news is good, the Swiss Franc might go up, and if it's bad, it might go down. Expert traders can use the busy hours when London and New York are open to trade right after the news comes out because a lot of people are trading then. This can make the Swiss Franc move a lot, and expert traders can use this to make money.
 

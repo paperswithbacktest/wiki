@@ -36,7 +36,7 @@ Another example is if you're investing in real estate to rent out. The rent you 
 
 If you're saving up for a big goal like buying a house or paying for college, you might care more about total return than yield. That's because you're looking at how much your money can grow over time, not just the little bits of money you get each year. For example, if you invest in stocks, you might not get much in dividends (that's like the yield), but the stock price could go up a lot. So, when it's time to buy that house, you'll look at how much your investment is worth overall, not just the small payments you got along the way.
 
-Another time when total return matters more is if you're young and just starting to invest for the long term, like for retirement. You don't need the money right away, so you're okay with letting it grow over many years. You might invest in things like growth stocks or mutual funds that don't pay much in dividends but can increase a lot in value over time. When you finally retire, you'll look at how much all your investments are worth together, not just the little payments you got each year.
+Another time when total return matters more is if you're young and just starting to invest for the long term, like for retirement. You don't need the money right away, so you're okay with letting it grow over many years. You might invest in things like [growth stocks](/wiki/growth-stocks) or mutual funds that don't pay much in dividends but can increase a lot in value over time. When you finally retire, you'll look at how much all your investments are worth together, not just the little payments you got each year.
 
 ## How does reinvestment of dividends or interest impact total return?
 

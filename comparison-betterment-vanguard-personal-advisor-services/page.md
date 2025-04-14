@@ -70,7 +70,7 @@ Vanguard also has options for socially responsible investing. They offer funds t
 
 ## What advanced features do Betterment and Vanguard offer for experienced investors?
 
-Betterment has some cool tools for people who know a lot about investing. They let you use something called "Smart Beta" which can help your investments do better by picking stocks in a smart way. They also have a feature called "Tax-Coordinated Portfolio" that helps you save on taxes by putting your money in the right accounts. If you're a Betterment Premium customer, you can even talk to a financial advisor to get personal advice on your investments.
+Betterment has some cool tools for people who know a lot about investing. They let you use something called "Smart Beta" which can help your investments do better by [picking](/wiki/asset-class-picking) stocks in a smart way. They also have a feature called "Tax-Coordinated Portfolio" that helps you save on taxes by putting your money in the right accounts. If you're a Betterment Premium customer, you can even talk to a financial advisor to get personal advice on your investments.
 
 Vanguard also has special features for experienced investors. They offer a tool called "Tax-Loss Harvesting" that can help you save on taxes by selling investments that have gone down in value. They also let you pick from a lot of different funds, so you can build your own portfolio if you want. Plus, all Vanguard customers can talk to a human financial advisor, which is great if you need help making smart investment choices.
 
@@ -96,7 +96,7 @@ $$
 
 For instance, for a $1,000,000 portfolio, Betterment's fee would be $4,000 annually at 0.40% (Premium plan), while Vanguard PAS would charge $3,000 at 0.30%, excluding fund expense ratios.
 
-Transparency is a critical factor in understanding the costs associated with these platforms. Betterment provides a clear breakdown of fees on its platform and regularly updates users on any potential costs, aiding in a more transparent user experience. Vanguard PAS’s fee structure is similarly transparent, but potential users must be aware of additional mutual fund expenses, which can vary.
+Transparency is a critical [factor](/wiki/factor-investing) in understanding the costs associated with these platforms. Betterment provides a clear breakdown of fees on its platform and regularly updates users on any potential costs, aiding in a more transparent user experience. Vanguard PAS’s fee structure is similarly transparent, but potential users must be aware of additional mutual fund expenses, which can vary.
 
 When evaluating fees, investors should align their choice with their personal financial goals and expected returns. Those who primarily value low-cost digital management may find Betterment’s fee structure accommodating. However, investors who seek the intrinsic value of advisory support should consider Vanguard PAS, particularly if their portfolio includes high balances, and they wish to leverage Vanguard’s low-expense mutual funds.
 

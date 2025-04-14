@@ -28,7 +28,7 @@ The basket helps to show the average price of oil from these OPEC countries. By 
 
 ## What are the different types of crude oil included in the OPEC Basket?
 
-The OPEC Basket includes different types of crude oil from various countries. From Algeria, it's Saharan Blend; Angola contributes Girassol; Congo adds Djeno; Ecuador includes Oriente; Gabon has Rabi Light; Iran offers Iran Heavy; Iraq provides Basrah Medium; Kuwait adds Kuwait Export; Libya contributes Es Sider; Nigeria includes Bonny Light; Saudi Arabia offers Arab Light; United Arab Emirates adds Murban; and Venezuela includes Merey.
+The OPEC Basket includes different types of [crude oil](/wiki/crude-oil) from various countries. From Algeria, it's Saharan Blend; Angola contributes Girassol; Congo adds Djeno; Ecuador includes Oriente; Gabon has Rabi Light; Iran offers Iran Heavy; Iraq provides Basrah Medium; Kuwait adds Kuwait Export; Libya contributes Es Sider; Nigeria includes Bonny Light; Saudi Arabia offers Arab Light; United Arab Emirates adds Murban; and Venezuela includes Merey.
 
 Each type of crude oil in the basket has its own characteristics, like how heavy or light it is, and how much sulfur it contains. These differences affect the price and how the oil is used. By looking at the average price of all these different oils, the OPEC Basket helps people understand the overall cost of oil from OPEC countries. This is important for making decisions about buying and selling oil around the world.
 

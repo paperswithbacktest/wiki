@@ -50,7 +50,7 @@ When Andrew Jackson changed his vice president from John C. Calhoun to Martin Va
 
 Abraham Lincoln's choice of Andrew Johnson as his new vice president also had a big impact. It showed that Lincoln wanted to bring the country together after the Civil War. This helped Lincoln's party win more support from different parts of the country. But after Lincoln was killed, Johnson became president, and many people did not like his policies. This made things harder for Lincoln's party in later elections.
 
-Franklin D. Roosevelt's changes in vice presidents also affected elections. When he switched from John Nance Garner to Henry A. Wallace, some people were happy, but others thought Wallace was too liberal. So, when Roosevelt chose Harry S. Truman for his fourth term, it was seen as a safer choice. After Roosevelt died, Truman became president and won his own election later. These changes show how picking a vice president can change how people vote in future elections.
+Franklin D. Roosevelt's changes in vice presidents also affected elections. When he switched from John Nance Garner to Henry A. Wallace, some people were happy, but others thought Wallace was too liberal. So, when Roosevelt chose Harry S. Truman for his fourth term, it was seen as a safer choice. After Roosevelt died, Truman became president and won his own election later. These changes show how [picking](/wiki/asset-class-picking) a vice president can change how people vote in future elections.
 
 ## What were the key policy differences, if any, between the original and new vice presidents?
 

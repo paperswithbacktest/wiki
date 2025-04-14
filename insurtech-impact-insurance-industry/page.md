@@ -22,7 +22,7 @@ Another big difference is how they use data. Traditional insurance companies mig
 
 ## What are the main technologies driving Insurtech?
 
-The main technologies driving insurtech are things like artificial intelligence (AI), big data, and mobile apps. AI helps insurance companies make smart decisions by looking at a lot of information quickly. For example, AI can look at data from your phone or fitness tracker to decide how much to charge you for insurance. Big data is about collecting and using a lot of information to understand trends and make better insurance plans. This can help companies offer insurance that is more suited to each person's needs.
+The main technologies driving insurtech are things like [artificial intelligence](/wiki/ai-artificial-intelligence) (AI), big data, and mobile apps. AI helps insurance companies make smart decisions by looking at a lot of information quickly. For example, AI can look at data from your phone or fitness tracker to decide how much to charge you for insurance. Big data is about collecting and using a lot of information to understand trends and make better insurance plans. This can help companies offer insurance that is more suited to each person's needs.
 
 Mobile apps are another big part of insurtech. They make it easy for people to buy insurance and manage their policies right from their phones. Instead of going to an office or calling an agent, you can do everything with a few taps on your screen. This makes insurance more convenient and accessible. Together, these technologies help make insurance faster, cheaper, and more personalized for everyone.
 

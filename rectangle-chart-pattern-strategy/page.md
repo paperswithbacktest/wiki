@@ -40,7 +40,7 @@ When the price finally breaks out of the rectangle, it can tell us more about ma
 
 ## What are the common entry points when trading a Rectangle Chart Pattern?
 
-When trading a Rectangle Chart Pattern, a common entry point is when the price breaks out of the rectangle. If the price breaks above the resistance level, it's a signal to buy. This breakout suggests that buyers are taking control and the price might keep going up. Traders often wait for the price to close above the resistance before entering a buy order to make sure it's a real breakout and not just a fake move.
+When trading a Rectangle Chart Pattern, a common entry point is when the price breaks out of the rectangle. If the price breaks above the resistance level, it's a signal to buy. This [breakout](/wiki/breakout-trading) suggests that buyers are taking control and the price might keep going up. Traders often wait for the price to close above the resistance before entering a buy order to make sure it's a real breakout and not just a fake move.
 
 Another common entry point is when the price breaks below the support level. This breakout suggests that sellers are taking control and the price might keep going down. Traders will look for the price to close below the support before entering a sell order. This helps them avoid entering a trade too early and getting caught in a false breakout.
 
@@ -56,11 +56,11 @@ If you are selling because the price broke below the support level, you should p
 
 When trading a Rectangle Chart Pattern, a common way to set a profit target is to measure the height of the rectangle. The height is the distance between the support level and the resistance level. Once you know the height, you can add it to the breakout point. If the price breaks above the resistance, you add the height to the resistance level to find your profit target. If the price breaks below the support, you subtract the height from the support level to find your profit target. This method helps traders guess how far the price might move after breaking out.
 
-Another way to set a profit target is to look at other important levels on the chart, like past highs or lows, or other support and resistance levels. These levels can act as targets because the price might stop or change direction when it reaches them. Traders often use these levels to decide where to take their profits. By combining the height of the rectangle with these other levels, traders can make more informed decisions about when to exit their trades and lock in their gains.
+Another way to set a profit target is to look at other important levels on the chart, like past highs or lows, or other support and resistance levels. These levels can act as targets because the price might stop or change direction when it reaches them. Traders often use these levels to decide where to take their profits. By combining the height of the rectangle with these other levels, traders can make more informed decisions about when to [exit](/wiki/exit-strategy) their trades and lock in their gains.
 
 ## How does volume play a role in confirming a Rectangle Chart Pattern?
 
-Volume can help confirm if a Rectangle Chart Pattern is real and if the price breakout is strong. When the price is moving inside the rectangle, the volume is usually low. This shows that not many people are trading, and the market is unsure. But when the price breaks out of the rectangle, either above the resistance or below the support, you want to see a big jump in volume. A big increase in volume during the breakout means that more people are trading and they believe the price will keep moving in that direction.
+Volume can help confirm if a Rectangle Chart Pattern is real and if the price breakout is strong. When the price is moving inside the rectangle, the [volume](/wiki/volume-trading-strategy) is usually low. This shows that not many people are trading, and the market is unsure. But when the price breaks out of the rectangle, either above the resistance or below the support, you want to see a big jump in volume. A big increase in volume during the breakout means that more people are trading and they believe the price will keep moving in that direction.
 
 If the volume doesn't go up much during the breakout, it might mean the breakout isn't strong and could be a fake move. Traders watch the volume to make sure the breakout is real before they decide to buy or sell. So, volume is a big help in making sure the Rectangle Chart Pattern is telling the truth about where the price might go next.
 

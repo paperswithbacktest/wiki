@@ -22,7 +22,7 @@ Whether or not to buy points depends on how long you plan to stay in your home. 
 
 ## What is the difference between discount points and origination points?
 
-Discount points and origination points are two types of fees you might see when getting a mortgage. Discount points are fees you pay to lower your interest rate. Each point costs 1% of your loan amount and usually lowers your interest rate by about 0.25%. So, if you're borrowing $200,000 and you buy one point, you pay $2,000 upfront, but you get a lower interest rate. This can save you money over time if you stay in your home long enough.
+Discount points and origination points are two types of fees you might see when getting a mortgage. Discount points are fees you pay to lower your [interest rate](/wiki/interest-rate-trading-strategies). Each point costs 1% of your loan amount and usually lowers your interest rate by about 0.25%. So, if you're borrowing $200,000 and you buy one point, you pay $2,000 upfront, but you get a lower interest rate. This can save you money over time if you stay in your home long enough.
 
 Origination points, on the other hand, are fees charged by the lender for processing your loan. They are also called origination fees and are usually about 1% of the loan amount. Unlike discount points, origination points don't lower your interest rate. They are just a cost of getting the loan. So, if you're borrowing $200,000 and the lender charges one origination point, you'll pay $2,000 just for the lender to process your loan.
 
@@ -98,7 +98,7 @@ $$
 
 where $P$ is the bond price, $C$ is the coupon payment, $r$ is the interest rate, and $F$ is the face value of the bond. This formula illustrates that as interest rates $r$ rise, the present value of the bond's future payments decreases, leading to lower bond prices.
 
-Fluctuations in mortgage rates can also indirectly influence market sentiment and trading volumes. For instance, a rise in mortgage rates might signal tighter monetary policy or inflation concerns, prompting investors to reevaluate risk exposure across asset classes, including stocks and bonds. In such scenarios, traders may observe increased volatility and changes in trading volumes as market participants react to these shifts.
+Fluctuations in mortgage rates can also indirectly influence market sentiment and trading volumes. For instance, a rise in mortgage rates might signal tighter monetary policy or inflation concerns, prompting investors to reevaluate risk exposure across asset classes, including stocks and bonds. In such scenarios, traders may observe increased [volatility](/wiki/volatility-trading-strategies) and changes in trading volumes as market participants react to these shifts.
 
 Investors aiming for optimized portfolio management need to monitor these interconnections closely. By understanding how mortgage rates can affect the relative attractiveness of stocks and bonds, investors can make more informed choices about asset allocation. For example, a strategic rotation between stocks and bonds may be warranted in anticipation of interest rate movements. By maintaining awareness of these relationships, investors can better navigate the complexities of financial markets and adapt to evolving economic conditions.
 

@@ -46,7 +46,7 @@ Over long periods, the S&P SmallCap 600 and the broader market tend to have simi
 
 ## What are the benefits of investing in the S&P small-cap index?
 
-Investing in the S&P SmallCap 600 can be a good choice because it gives you a chance to grow your money faster than with bigger companies. Small companies can grow a lot quicker because they are still new and expanding. This means if you pick the right ones, you might see bigger returns than if you only invested in big, well-known companies. Also, by investing in the S&P SmallCap 600, you are spreading your money across many small companies, which can make your investment less risky than picking just one or two small companies on your own.
+Investing in the S&P SmallCap 600 can be a good choice because it gives you a chance to grow your money faster than with bigger companies. Small companies can grow a lot quicker because they are still new and expanding. This means if you pick the right ones, you might see bigger returns than if you only invested in big, well-known companies. Also, by investing in the S&P SmallCap 600, you are spreading your money across many small companies, which can make your investment less risky than [picking](/wiki/asset-class-picking) just one or two small companies on your own.
 
 Another benefit is that the S&P SmallCap 600 can help you diversify your investments. When you put money into different types of companies, you are not putting all your eggs in one basket. If big companies are not doing well, small companies might still be doing okay or even better. This can help balance out your overall investment returns. Plus, the S&P SmallCap 600 is checked and updated regularly, so you know it always has a good mix of small companies that fit certain rules, making it easier to keep your investments in good shape without having to do a lot of work yourself.
 
@@ -58,7 +58,7 @@ Another risk is that small companies might not have as much information availabl
 
 ## How can investors gain exposure to the S&P small-cap index?
 
-Investors can gain exposure to the S&P SmallCap 600 by buying a mutual fund or an exchange-traded fund (ETF) that tracks this index. These funds are made to match the performance of the S&P SmallCap 600, so when the index goes up or down, the fund does the same. This is an easy way to invest in many small companies at once without having to pick them yourself. Some popular ETFs that follow the S&P SmallCap 600 are the iShares Core S&P Small-Cap ETF and the Vanguard S&P Small-Cap 600 ETF.
+Investors can gain exposure to the S&P SmallCap 600 by buying a mutual fund or an exchange-traded fund ([ETF](/wiki/etf-trading-strategies)) that tracks this index. These funds are made to match the performance of the S&P SmallCap 600, so when the index goes up or down, the fund does the same. This is an easy way to invest in many small companies at once without having to pick them yourself. Some popular ETFs that follow the S&P SmallCap 600 are the iShares Core S&P Small-Cap ETF and the Vanguard S&P Small-Cap 600 ETF.
 
 Another way to invest in the S&P SmallCap 600 is through a financial advisor or a robo-advisor. These services can help you set up an investment plan that includes the S&P SmallCap 600. They can also manage your investments for you, which can be helpful if you don't want to do it yourself. By using these methods, you can spread your money across many small companies and still keep things simple.
 
@@ -82,7 +82,7 @@ It's also smart to think about how much the companies in the index are growing. 
 
 ## What are the benefits of incorporating small cap stocks in algo trading?
 
-Incorporating small cap stocks into algorithmic trading offers diverse benefits, primarily due to their distinctive market behaviors and growth potential. Small cap stocks, typically defined as having a market capitalization between $300 million and $2 billion, often exhibit greater volatility than their large cap counterparts. This volatility can be harnessed by algorithms to capture short-term price movements and enhance trading returns.
+Incorporating small cap stocks into [algorithmic trading](/wiki/algorithmic-trading) offers diverse benefits, primarily due to their distinctive market behaviors and growth potential. Small cap stocks, typically defined as having a market capitalization between $300 million and $2 billion, often exhibit greater [volatility](/wiki/volatility-trading-strategies) than their large cap counterparts. This volatility can be harnessed by algorithms to capture short-term price movements and enhance trading returns.
 
 One of the primary benefits of including small cap stocks in algorithms is diversification. By integrating small caps, traders can reduce portfolio risk associated with market movements of large cap stocks. This diversification can be mathematically modeled using the portfolio variance formula:
 
@@ -94,7 +94,7 @@ where $\sigma^2_p$ is the portfolio variance, $w_i$ and $w_j$ are the asset weig
 
 Algo trading platforms capitalize on the market participation of small cap stocks by leveraging advanced computational techniques. Given their faster growth rates, small caps can provide higher returns, albeit with increased risk. Algorithms can quickly process large volumes of data to execute trades at optimal prices, exploiting the price inefficiencies that small cap stocks are prone to.
 
-The inherent volatility of small cap stocks is advantageous for algorithm development, necessitating robust systems capable of processing vast amounts of data and adjusting trading strategies dynamically. Algorithms designed for small cap trading use predictive analytics and machine learning techniques to forecast price movements based on historical data and market sentiment. Consider a Python snippet that employs a simple moving average strategy suited for volatile stocks:
+The inherent volatility of small cap stocks is advantageous for algorithm development, necessitating robust systems capable of processing vast amounts of data and adjusting trading strategies dynamically. Algorithms designed for small cap trading use predictive analytics and [machine learning](/wiki/machine-learning) techniques to forecast price movements based on historical data and market sentiment. Consider a Python snippet that employs a simple moving average strategy suited for volatile stocks:
 
 ```python
 import pandas as pd

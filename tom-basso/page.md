@@ -18,7 +18,7 @@ After many years of success, Tom retired in 2003. But he didn't stop sharing his
 
 Tom Basso started his trading career in the 1970s. He worked at a company called Kidd & Company, where he learned a lot about the stock market. After gaining experience, he decided to start his own company called Trendstat Capital Management in 1980. At Trendstat, Tom used special methods to decide when to buy and sell investments. These methods were based on looking at trends in the market. His approach helped him make good choices and earn money for his clients.
 
-Tom's success in trading came from his smart strategies and his ability to understand the market. He used computers to help him make decisions, which was new at the time. His methods were so good that he managed to grow his clients' money well. Tom retired in 2003, but he kept sharing his knowledge. He wrote books and gave talks to help others learn about investing. His background in trading is respected by many people in the finance world.
+Tom's success in trading came from his smart strategies and his ability to understand the market. He used computers to help him make decisions, which was new at the time. His methods were so good that he managed to grow his clients' money well. Tom retired in 2003, but he kept sharing his knowledge. He wrote [books](/wiki/algo-trading-books) and gave talks to help others learn about investing. His background in trading is respected by many people in the finance world.
 
 ## How did Tom Basso start his career in the financial markets?
 
@@ -86,13 +86,13 @@ Tom Basso has implemented several sophisticated trading strategies that have att
 
 In addition to market reversals, Basso developed the 'Basso Timing Strategy', which focuses on entering trades based on anticipated market movements due to scheduled economic or financial events. This strategy is rooted in the belief that significant scheduled events can lead to predictable market behavior patterns. By analyzing historical data associated with similar events, Basso's timing strategy aims to determine the most opportune moments to enter trades, thus maximizing potential profits and minimizing risks.
 
-Risk management remains a central component of Basso's trading philosophy. His strategies often incorporate techniques like volatility targeting and careful position sizing to manage trading risks effectively. Volatility targeting involves adjusting the size of a position based on the expected volatility of an asset. For example, if volatility increases, a trader would decrease the position size to maintain a consistent level of risk. This concept can be expressed through the formula:
+Risk management remains a central component of Basso's trading philosophy. His strategies often incorporate techniques like [volatility](/wiki/volatility-trading-strategies) targeting and careful position sizing to manage trading risks effectively. Volatility targeting involves adjusting the size of a position based on the expected volatility of an asset. For example, if volatility increases, a trader would decrease the position size to maintain a consistent level of risk. This concept can be expressed through the formula:
 
 $$
 \text{Position Size} = \frac{\text{Risk Capital} \times \text{Target Volatility}}{\text{Current Volatility}}
 $$
 
-Careful position sizing is another critical aspect of Basso's approach. By calculating the optimal position size, traders can protect their capital against unforeseen market fluctuations while still capitalizing on profitable opportunities. Basso's work emphasizes the necessity of understanding and implementing these risk management techniques to ensure long-term success in trading. His pragmatic approach combines strategic entry and exit strategies, event-driven timing, and rigorous risk management to create a holistic trading framework that traders can customize to fit their own needs and risk appetites.
+Careful position sizing is another critical aspect of Basso's approach. By calculating the optimal position size, traders can protect their capital against unforeseen market fluctuations while still capitalizing on profitable opportunities. Basso's work emphasizes the necessity of understanding and implementing these risk management techniques to ensure long-term success in trading. His pragmatic approach combines strategic entry and [exit](/wiki/exit-strategy) strategies, event-driven timing, and rigorous risk management to create a holistic trading framework that traders can customize to fit their own needs and risk appetites.
 
 ## References & Further Reading
 

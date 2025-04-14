@@ -74,7 +74,7 @@ However, even with these advanced models, there are still limits to how accurate
 
 ## Can you discuss a case study where 'Value of Risk' significantly impacted a business decision?
 
-A good example of how 'Value of Risk' can affect a big business decision happened with a company called Long-Term Capital Management (LTCM) back in the late 1990s. LTCM was a hedge fund run by some really smart people, including a few who had won the Nobel Prize. They used fancy math to figure out their 'Value of Risk', which told them how much money they could lose each day. But they thought their calculations were so good that they took on a lot of risk, borrowing huge amounts of money to make even bigger investments. When the markets changed in ways they didn't expect, their 'Value of Risk' numbers were way off. They lost a lot of money, and it almost caused a big problem in the whole financial world.
+A good example of how 'Value of Risk' can affect a big business decision happened with a company called Long-Term Capital Management (LTCM) back in the late 1990s. LTCM was a [hedge fund](/wiki/hedge-fund-trading-strategies) run by some really smart people, including a few who had won the Nobel Prize. They used fancy math to figure out their 'Value of Risk', which told them how much money they could lose each day. But they thought their calculations were so good that they took on a lot of risk, borrowing huge amounts of money to make even bigger investments. When the markets changed in ways they didn't expect, their 'Value of Risk' numbers were way off. They lost a lot of money, and it almost caused a big problem in the whole financial world.
 
 In the end, LTCM had to be bailed out by a group of big banks to stop the crisis from spreading. This case shows that even though 'Value of Risk' can be a helpful tool, it's not perfect. If you rely on it too much and don't think about other risks, you can get into big trouble. LTCM's story is a reminder that businesses need to use 'Value of Risk' carefully, always checking their numbers and thinking about what could go wrong that their models might not catch. By doing this, they can make better decisions and avoid big surprises.
 
@@ -86,7 +86,7 @@ Another trend is that 'Value of Risk' will become part of bigger risk management
 
 ## What is the Importance of Risk Assessment Models?
 
-Risk assessment models are critical components in creating a comprehensive risk management framework for algorithmic trading. These models enable traders and financial institutions to evaluate and manage the potential losses inherent in trading activities. Two prominent models widely used in this domain are Value at Risk (VaR) and Conditional Value at Risk (CVaR).
+Risk assessment models are critical components in creating a comprehensive risk management framework for [algorithmic trading](/wiki/algorithmic-trading). These models enable traders and financial institutions to evaluate and manage the potential losses inherent in trading activities. Two prominent models widely used in this domain are Value at Risk (VaR) and Conditional Value at Risk (CVaR).
 
 Value at Risk (VaR) is a statistical measure that estimates the maximum potential loss of a portfolio over a specified time period, given a certain confidence level. For example, if a portfolio has a one-day VaR of $1 million at the 95% confidence level, there is a 5% chance that the portfolio will lose more than $1 million in a single day. Mathematically, VaR can be expressed as:
 

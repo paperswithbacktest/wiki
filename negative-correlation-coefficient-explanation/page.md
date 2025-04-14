@@ -86,7 +86,7 @@ But, it's important to remember that negative correlations don't prove that one 
 
 Negative correlation is a fundamental statistical concept that occurs when two variables move in opposite directions. This means that an increase in one variable is associated with a decrease in the other, and vice versa. Mathematically, this relationship is quantified using the correlation coefficient, a value that typically ranges from -1 to 1. A correlation coefficient less than zero signifies a negative correlation, indicating an inverse relationship between the variables being analyzed.
 
-Understanding negative correlation is pivotal in numerous fields like finance, meteorology, psychology, and more. For instance, in finance, investors often examine the correlation between different asset classes to manage risk and portfolio diversification. A classic example is the inverse relationship observed between stocks and bonds. When stock prices decline, bond prices often rise, providing a hedge against market volatility.
+Understanding negative correlation is pivotal in numerous fields like finance, meteorology, psychology, and more. For instance, in finance, investors often examine the correlation between different asset classes to manage risk and portfolio diversification. A classic example is the inverse relationship observed between stocks and bonds. When stock prices decline, bond prices often rise, providing a hedge against market [volatility](/wiki/volatility-trading-strategies).
 
 In the context of meteorology, consider the inverse relationship between temperature and heating demand. As temperatures decrease during winter months, the demand for heating energy typically increases. This negative correlation assists in energy planning and management.
 

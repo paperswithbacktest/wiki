@@ -112,7 +112,7 @@ Understanding these financial statements comprehensively aids various stakeholde
 
 ## What are the key financial ratios for algorithmic trading?
 
-Financial ratios serve as powerful tools for evaluating key aspects of a company's financial health, particularly in the context of algorithmic trading. These ratios distill complex financial data into manageable metrics, allowing for efficient analysis and comparison. Financial ratios such as the debt-to-equity ratio, net profit margin, and current ratio provide insight into a company's leverage, profitability, and [liquidity](/wiki/liquidity-risk-premium), respectively. Each of these components is crucial for creating and refining algorithmic trading strategies, enabling traders to make informed and timely decisions.
+Financial ratios serve as powerful tools for evaluating key aspects of a company's financial health, particularly in the context of [algorithmic trading](/wiki/algorithmic-trading). These ratios distill complex financial data into manageable metrics, allowing for efficient analysis and comparison. Financial ratios such as the debt-to-equity ratio, net profit margin, and current ratio provide insight into a company's leverage, profitability, and [liquidity](/wiki/liquidity-risk-premium), respectively. Each of these components is crucial for creating and refining algorithmic trading strategies, enabling traders to make informed and timely decisions.
 
 ### Debt-to-Equity Ratio
 

@@ -48,7 +48,7 @@ The fee changes based on how many people want to borrow the stock and how many s
 
 A stock loan fee is what you pay when you borrow a stock to sell it short. Short selling means you sell a stock you don't own, hoping to buy it back later at a lower price. The fee is a percentage of the stock's value and can change every day based on how many people want to borrow the stock and how many shares are available. If a lot of people want to borrow the stock and there aren't many shares, the fee can go up.
 
-A margin interest rate is different. It's what you pay when you borrow money from your broker to buy stocks or other investments. This is called buying on margin. The interest rate is a percentage of the money you borrow and can be fixed or change over time. Unlike the stock loan fee, which is about borrowing stocks, the margin interest rate is about borrowing cash to invest. Both fees can affect how much money you make or lose, but they apply to different kinds of borrowing in the stock market.
+A margin [interest rate](/wiki/interest-rate-trading-strategies) is different. It's what you pay when you borrow money from your broker to buy stocks or other investments. This is called buying on margin. The interest rate is a percentage of the money you borrow and can be fixed or change over time. Unlike the stock loan fee, which is about borrowing stocks, the margin interest rate is about borrowing cash to invest. Both fees can affect how much money you make or lose, but they apply to different kinds of borrowing in the stock market.
 
 ## How can investors minimize the stock loan fee they pay?
 

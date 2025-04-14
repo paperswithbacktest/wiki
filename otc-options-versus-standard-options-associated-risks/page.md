@@ -36,7 +36,7 @@ Another advantage is that OTC options can be more private. Since they are not tr
 
 ## What are the potential risks associated with trading OTC options?
 
-Trading OTC options can be riskier than trading standard options because they are not on a big exchange. Since there's no big exchange watching over the trades, there's a chance that the other person in the deal might not follow through. This is called counterparty risk. If the other person can't or won't do what they promised, the investor could lose money. Also, because OTC options are not as common, it can be harder to find someone to trade with when you want to close your position, which is called liquidity risk.
+Trading OTC options can be riskier than trading standard options because they are not on a big exchange. Since there's no big exchange watching over the trades, there's a chance that the other person in the deal might not follow through. This is called counterparty risk. If the other person can't or won't do what they promised, the investor could lose money. Also, because OTC options are not as common, it can be harder to find someone to trade with when you want to close your position, which is called [liquidity](/wiki/liquidity-risk-premium) risk.
 
 Another risk is that OTC options can be less transparent. With standard options, everyone can see the prices and trades happening on the exchange. But with OTC options, the details of the trade are usually just between the two people involved. This can make it harder to know if you're getting a fair deal. Plus, because OTC options can be more complicated and customized, they can be harder to understand, which adds to the risk if you're not sure what you're agreeing to.
 

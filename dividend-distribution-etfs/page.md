@@ -28,7 +28,7 @@ The way you get your dividends from an ETF depends on where you hold your invest
 
 ## What factors influence the dividend distribution of ETFs?
 
-The dividend distribution of ETFs is influenced by several factors. One key factor is the type of assets the ETF holds. If an ETF invests in companies that pay high dividends, like utility or consumer staple companies, the ETF itself will likely distribute higher dividends to its investors. On the other hand, if an ETF focuses on growth stocks that reinvest their earnings instead of paying dividends, the ETF's dividend payouts will be lower.
+The dividend distribution of ETFs is influenced by several factors. One key [factor](/wiki/factor-investing) is the type of assets the ETF holds. If an ETF invests in companies that pay high dividends, like utility or consumer staple companies, the ETF itself will likely distribute higher dividends to its investors. On the other hand, if an ETF focuses on [growth stocks](/wiki/growth-stocks) that reinvest their earnings instead of paying dividends, the ETF's dividend payouts will be lower.
 
 Another factor is the ETF's strategy and management decisions. Some ETFs are designed to maximize dividend income, and their managers will actively choose investments that generate high dividends. Other ETFs might aim to track a specific index, and their dividend distributions will depend on the performance and dividend policies of the companies in that index. The frequency and timing of dividend distributions can also vary based on the ETF's policies and the schedules of the underlying companies.
 
@@ -60,7 +60,7 @@ Taxes also depend on where you hold your ETF. If your ETF is in a regular broker
 
 ## What are the key considerations when selecting ETFs for dividend income?
 
-When picking ETFs for dividend income, it's important to look at the types of investments the ETF holds. Some ETFs focus on companies that pay high dividends, like those in the utilities or consumer staples sectors. These ETFs can give you a steady stream of income. On the other hand, ETFs that invest in growth companies might not pay as much in dividends because those companies often reinvest their profits to grow their business. So, think about what kind of companies the ETF invests in and how much income you want to get from your dividends.
+When [picking](/wiki/asset-class-picking) ETFs for dividend income, it's important to look at the types of investments the ETF holds. Some ETFs focus on companies that pay high dividends, like those in the utilities or consumer staples sectors. These ETFs can give you a steady stream of income. On the other hand, ETFs that invest in growth companies might not pay as much in dividends because those companies often reinvest their profits to grow their business. So, think about what kind of companies the ETF invests in and how much income you want to get from your dividends.
 
 Another thing to consider is the ETF's expense ratio, which is the cost of owning the ETF. A lower expense ratio means more of the dividends go into your pocket instead of being used to pay for the ETF's fees. Also, check how often the ETF pays dividends. Some pay monthly, which can be good if you need regular income, while others pay quarterly or even yearly. Knowing the dividend schedule can help you plan your income better. Finally, think about where you're holding your ETF. If it's in a tax-advantaged account like an IRA, you won't have to worry about taxes on the dividends right away, which can help your investment grow faster.
 

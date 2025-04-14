@@ -24,7 +24,7 @@ Some Precious Metals ETFs hold the actual metal in secure vaults. They have to s
 
 Precious Metals ETFs usually include gold, silver, platinum, and palladium. These are the most common metals you'll find in these funds. Gold is the most popular because a lot of people see it as a safe place to put their money when things are uncertain. Silver is also popular, but it's often used more in industry than gold. Platinum and palladium are less common but still important, especially in things like car parts and jewelry.
 
-Some ETFs focus on just one type of metal, like a gold ETF or a silver ETF. Others might include a mix of different metals. This gives investors choices depending on what they want to invest in. For example, if you think the price of silver will go up, you might choose a silver ETF. If you want to spread your investment across different metals, you might pick an ETF that includes gold, silver, and platinum.
+Some ETFs focus on just one type of metal, like a gold [ETF](/wiki/etf-trading-strategies) or a silver ETF. Others might include a mix of different metals. This gives investors choices depending on what they want to invest in. For example, if you think the price of silver will go up, you might choose a silver ETF. If you want to spread your investment across different metals, you might pick an ETF that includes gold, silver, and platinum.
 
 ## What are the benefits of investing in Precious Metals ETFs?
 

@@ -22,7 +22,7 @@ Once you have these two percentages, you divide the percentage change in quantit
 
 ## What factors influence the price elasticity of supply?
 
-Several things can affect how easily producers can change the amount they supply when the price changes. One important factor is how long it takes to make more of the product. If it's quick and easy to increase production, like with digital goods or some agricultural products, the supply can be more elastic. But if it takes a long time, like with building new factories or growing certain crops, the supply will be more inelastic because it's harder to quickly change how much is produced.
+Several things can affect how easily producers can change the amount they supply when the price changes. One important [factor](/wiki/factor-investing) is how long it takes to make more of the product. If it's quick and easy to increase production, like with digital goods or some agricultural products, the supply can be more elastic. But if it takes a long time, like with building new factories or growing certain crops, the supply will be more inelastic because it's harder to quickly change how much is produced.
 
 Another factor is the availability of resources. If there are plenty of raw materials and workers available, it's easier to increase production when prices go up, making the supply more elastic. But if resources are limited or hard to get, it's tougher to ramp up production, leading to a more inelastic supply. Also, the complexity of the production process matters. Simple products that are easy to make can have a more elastic supply, while complex products that need special skills or equipment might have a more inelastic supply.
 

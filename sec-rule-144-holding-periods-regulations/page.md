@@ -78,7 +78,7 @@ Rule 144 also interacts with rules about being an affiliate, like directors or b
 
 One common pitfall with SEC Rule 144 is not understanding the holding period correctly. People might think they can add up the holding periods from different purchases, but that's not allowed. Each purchase has its own holding period, so if you bought securities at different times, you have to wait the full time for each one before selling. Another issue is not knowing if you're an affiliate. If you're a director, officer, or big shareholder, you have to file a Form 144 with the SEC before selling a lot of shares. Missing this step can cause big problems.
 
-Another compliance issue is not following the volume limits when selling. Rule 144 says you can only sell the bigger number between 1% of the total shares or the average number of shares traded in the last four weeks. Selling more than this can mess up the market and get you in trouble. Also, some people forget about special cases where the holding period can be shorter, like if the company went bankrupt or if you used a Rule 10b5-1 trading plan. Not knowing these rules can lead to mistakes and fines.
+Another compliance issue is not following the [volume](/wiki/volume-trading-strategy) limits when selling. Rule 144 says you can only sell the bigger number between 1% of the total shares or the average number of shares traded in the last four weeks. Selling more than this can mess up the market and get you in trouble. Also, some people forget about special cases where the holding period can be shorter, like if the company went bankrupt or if you used a Rule 10b5-1 trading plan. Not knowing these rules can lead to mistakes and fines.
 
 ## What is the impact of Rule 144 on algorithmic trading?
 

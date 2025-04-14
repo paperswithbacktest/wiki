@@ -20,7 +20,7 @@ An oil refinery is like a big factory that turns crude oil into useful products 
 
 After the distillation unit, the different parts of the oil go through more steps to be turned into the final products. For example, some parts might go to a cracking unit where they are broken down into smaller molecules to make more gasoline. Other parts might go to a reforming unit to change their structure and make them better for fuel. There are also treatment units that clean the products to remove any harmful stuff. All these steps together make sure that the oil is turned into safe and useful products that we can use every day.
 
-The main components of an oil refinery include storage tanks, the distillation unit, cracking units, reforming units, and treatment units. Each of these parts plays a special role in turning crude oil into the fuels and other products we need. The refinery works like a big puzzle, with each piece fitting together to make sure everything runs smoothly and safely.
+The main components of an oil refinery include storage tanks, the distillation unit, cracking units, reforming units, and treatment units. Each of these parts plays a special role in turning [crude oil](/wiki/crude-oil) into the fuels and other products we need. The refinery works like a big puzzle, with each piece fitting together to make sure everything runs smoothly and safely.
 
 ## What are the different types of crude oil and how do they affect refinery operations?
 
@@ -36,7 +36,7 @@ Distillation is really important because it's the starting point for making all 
 
 ## How do oil companies manage the logistics of transporting crude oil to refineries?
 
-Oil companies use different ways to move crude oil from where it's found to the refineries where it's turned into useful products. They often use pipelines, which are like big tubes that go underground or underwater. These pipelines can move a lot of oil over long distances safely and quickly. Sometimes, if the oil needs to go over the ocean or to a place where there are no pipelines, oil companies use big ships called tankers. These tankers can carry a lot of oil, but it takes longer than using pipelines.
+Oil companies use different ways to move crude oil from where it's found to the refineries where it's turned into useful products. They often use pipelines, which are like big tubes that go underground or underwater. These pipelines can move a lot of oil over long distances safely and quickly. Sometimes, if the oil needs to go over the ocean or to a place where there are no pipelines, oil companies use big ships called tankers. These tankers can [carry](/wiki/carry-trading) a lot of oil, but it takes longer than using pipelines.
 
 When the oil gets close to the refinery, it might be moved using trucks or trains. Trucks are good for short distances and can go places where pipelines can't reach. Trains can carry a lot of oil and are useful for moving it over land where there are no pipelines. Oil companies have to plan carefully to make sure the oil gets to the refinery on time and safely. They need to think about things like the weather, how much oil they need to move, and the best way to get it there.
 
@@ -48,7 +48,7 @@ Oil companies try to fix these problems in different ways. They use special equi
 
 ## What are the key economic factors that influence oil refining operations?
 
-The price of crude oil is a big factor that affects oil refining operations. When the price of crude oil goes up, it costs more for refineries to buy the oil they need. This can make it harder for them to make money, especially if the price of the products they make, like gasoline, doesn't go up as much. Refineries also have to think about the cost of running their equipment and paying their workers. If these costs go up, it can make it harder for them to make a profit.
+The price of crude oil is a big [factor](/wiki/factor-investing) that affects oil refining operations. When the price of crude oil goes up, it costs more for refineries to buy the oil they need. This can make it harder for them to make money, especially if the price of the products they make, like gasoline, doesn't go up as much. Refineries also have to think about the cost of running their equipment and paying their workers. If these costs go up, it can make it harder for them to make a profit.
 
 Another important factor is the demand for the products that refineries make. If more people want to buy gasoline or diesel, refineries can make more money. But if fewer people want these products, refineries might have to slow down or even stop working. The economy of the whole world can also affect refineries. If the economy is doing well, more people might be driving and using fuel, which is good for refineries. But if the economy is not doing well, people might use less fuel, which can be bad for refineries.
 

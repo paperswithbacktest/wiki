@@ -122,7 +122,7 @@ $$
 
 Where $Q_d(P)$ is the quantity demanded at price $P$, and $Q_s(P)$ is the quantity supplied at that price. 
 
-Algorithmic trading introduces a transformation in how markets attain this equilibrium. Automated systems, powered by algorithms, enhance the efficiency of price discovery processes. These systems can analyze vast amounts of data at speeds unmatched by human traders, allowing for rapid execution of trades that adjust prices. However, algorithmic trading also presents challenges. High-frequency trading can heighten market volatility and sometimes lead to phenomena such as flash crashes, where prices plummet or surge abruptly due to automated triggers. 
+Algorithmic trading introduces a transformation in how markets attain this equilibrium. Automated systems, powered by algorithms, enhance the efficiency of price discovery processes. These systems can analyze vast amounts of data at speeds unmatched by human traders, allowing for rapid execution of trades that adjust prices. However, [algorithmic trading](/wiki/algorithmic-trading) also presents challenges. High-frequency trading can heighten market [volatility](/wiki/volatility-trading-strategies) and sometimes lead to phenomena such as flash crashes, where prices plummet or surge abruptly due to automated triggers. 
 
 For investors and traders, comprehending both the benefits and challenges posed by algorithmic trading is crucial. Engaging with these dynamics enables market participants to make more informed decisions within the digital trading environment. A keen awareness of how algorithms influence market behavior, alongside an understanding of economic fundamentals, equips market players to strategize effectively and navigate the complexities of modern trading landscapes.
 

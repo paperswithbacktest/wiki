@@ -34,13 +34,13 @@ These fees can be different depending on the type of mutual fund. For example, a
 
 ## How do management fees impact investment returns?
 
-Management fees can have a big effect on how much money you make from your investments. When you pay a management fee, it comes out of the money you have in the fund. This means less money is left to grow and earn more money for you. For example, if you have $10,000 in a fund with a 1% fee, you'll pay $100 each year. That $100 could have been earning more money for you if it stayed in the fund.
+Management fees can have a big effect on how much money you make from your investments. When you pay a management fee, it comes out of the money you have in the fund. This means less money is left to grow and earn more money for you. For example, if you have $10,000 in a fund with a 1% fee, you'll pay $100 each year. That $100 could have been [earning](/wiki/earning-announcement) more money for you if it stayed in the fund.
 
 Over time, these fees can add up and make a big difference. If you're paying a high fee, it can eat into your profits and lower your overall return on investment. For example, if your investment grows by 7% in a year but you pay a 1% fee, your real return is only 6%. It's important to think about these fees when you choose where to put your money because they can affect how much you end up with in the long run.
 
 ## Can management fees be negotiated?
 
-Yes, sometimes management fees can be negotiated, but it depends on the type of investment and the company managing it. If you have a lot of money to invest, like a big amount in a private fund or a hedge fund, you might be able to talk to the manager and get a lower fee. This is because the company wants to keep your big investment, so they might be willing to give you a better deal.
+Yes, sometimes management fees can be negotiated, but it depends on the type of investment and the company managing it. If you have a lot of money to invest, like a big amount in a private fund or a [hedge fund](/wiki/hedge-fund-trading-strategies), you might be able to talk to the manager and get a lower fee. This is because the company wants to keep your big investment, so they might be willing to give you a better deal.
 
 For regular people with smaller investments, like in mutual funds or ETFs, it's usually harder to negotiate fees. These fees are set by the company and apply to everyone who invests in the fund. But you can still look for funds with lower fees or talk to a financial advisor to find the best options for your money.
 
@@ -52,7 +52,7 @@ A performance fee is different. You only pay this fee if your investment does re
 
 ## How do management fees vary across different types of investment vehicles?
 
-Management fees can be different depending on the type of investment you choose. For example, mutual funds often have management fees that range from 0.5% to 1.5% of the total money in the fund each year. These fees are used to pay the people who manage the fund and cover other costs. Actively managed mutual funds, where the manager is picking specific investments, usually have higher fees than index funds, which just follow a market index like the S&P 500.
+Management fees can be different depending on the type of investment you choose. For example, mutual funds often have management fees that range from 0.5% to 1.5% of the total money in the fund each year. These fees are used to pay the people who manage the fund and cover other costs. Actively managed mutual funds, where the manager is [picking](/wiki/asset-class-picking) specific investments, usually have higher fees than index funds, which just follow a market index like the S&P 500.
 
 In other types of investments, like hedge funds, management fees might be higher. Hedge funds often charge around 2% of the total money being managed each year. On top of that, they might also charge performance fees if the fund does well. Exchange-traded funds (ETFs) usually have lower management fees, often less than 0.5%, because they are passively managed and track an index. Knowing the fees for different investment vehicles can help you pick the one that's best for your money.
 

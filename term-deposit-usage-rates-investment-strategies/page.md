@@ -32,7 +32,7 @@ Compared to other savings options like money market accounts or certificates of 
 
 Term deposits come in different lengths, usually from a few months to several years. Common term lengths include 3 months, 6 months, 1 year, 2 years, and 5 years. Some banks might offer even shorter or longer terms, like 1 month or 10 years, but these are less common.
 
-The length of the term you choose can affect the interest rate you get. Generally, longer terms offer higher interest rates because you are agreeing to leave your money in the bank for a longer time. So, if you can afford to keep your money locked away for a few years, you might earn more interest than if you choose a shorter term.
+The length of the term you choose can affect the [interest rate](/wiki/interest-rate-trading-strategies) you get. Generally, longer terms offer higher interest rates because you are agreeing to leave your money in the bank for a longer time. So, if you can afford to keep your money locked away for a few years, you might earn more interest than if you choose a shorter term.
 
 ## How is the interest on a term deposit calculated and paid out?
 
@@ -66,7 +66,7 @@ Another strategy is to shop around for the best rates. Different banks offer dif
 
 ## How can term deposits be used as part of a diversified investment portfolio?
 
-Term deposits can be a good part of a diversified investment portfolio because they are safe and give you a fixed interest rate. When you have a mix of different types of investments, like stocks, bonds, and real estate, adding term deposits can help balance out the risk. If the stock market goes down, your term deposits will still be safe and earning interest. This can give you peace of mind and help protect your money.
+Term deposits can be a good part of a diversified investment portfolio because they are safe and give you a fixed interest rate. When you have a mix of different types of investments, like stocks, bonds, and real estate, adding term deposits can help balance out the risk. If the stock market goes down, your term deposits will still be safe and [earning](/wiki/earning-announcement) interest. This can give you peace of mind and help protect your money.
 
 You can use term deposits to save for specific goals, like buying a house or paying for a big trip. While you might have other investments that could grow faster, term deposits give you a steady return without the risk. By putting some of your money into term deposits, you can make sure you have a solid base in your portfolio that won't lose value, even if other parts of your investments go up and down.
 

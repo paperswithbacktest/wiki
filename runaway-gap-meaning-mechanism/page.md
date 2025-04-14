@@ -24,7 +24,7 @@ Another type of gap is an exhaustion gap, which happens at the end of a trend. T
 
 A runaway gap often happens because of big news or events that make people want to buy a stock quickly. This could be good earnings reports, new product announcements, or other positive news that makes investors excited. When lots of people want to buy at the same time, the price can jump up fast, leaving a gap on the chart.
 
-Another reason for a runaway gap can be market momentum. If a stock has been going up for a while, more and more people might start to buy it, thinking the price will keep rising. This can create a kind of excitement or "FOMO" (fear of missing out), where people rush to buy the stock, pushing the price up even more and causing a gap.
+Another reason for a runaway gap can be market [momentum](/wiki/momentum). If a stock has been going up for a while, more and more people might start to buy it, thinking the price will keep rising. This can create a kind of excitement or "FOMO" (fear of missing out), where people rush to buy the stock, pushing the price up even more and causing a gap.
 
 ## Can you explain the mechanism behind the formation of a runaway gap?
 
@@ -70,7 +70,7 @@ Another example was with Tesla in 2020. Tesla had been doing well for a while, a
 
 ## How can technical analysis tools enhance the understanding of runaway gaps?
 
-Technical analysis tools can help traders understand runaway gaps better by showing them patterns and trends on a stock chart. When traders use tools like moving averages, they can see if a stock has been going up steadily before the gap happens. This helps them figure out if the gap is a runaway gap, which usually happens in the middle of a strong trend. Other tools like volume indicators can show how many people are buying and selling the stock. If a lot of people are buying when the gap happens, it's a good sign that the gap is a runaway gap because it shows strong market excitement.
+Technical analysis tools can help traders understand runaway gaps better by showing them patterns and trends on a stock chart. When traders use tools like moving averages, they can see if a stock has been going up steadily before the gap happens. This helps them figure out if the gap is a runaway gap, which usually happens in the middle of a strong trend. Other tools like [volume](/wiki/volume-trading-strategy) indicators can show how many people are buying and selling the stock. If a lot of people are buying when the gap happens, it's a good sign that the gap is a runaway gap because it shows strong market excitement.
 
 Another way technical analysis helps is by using trend lines and support and resistance levels. These tools can show traders where the price might go next after a runaway gap. If the price keeps going up after the gap and doesn't go back down to fill it, it's a strong sign that the trend will continue. Traders can also use tools like the Relative Strength Index (RSI) to see if the stock is getting too expensive too fast. If the RSI shows the stock is overbought, it might mean the runaway gap could lead to a price drop soon. So, technical analysis tools give traders more information to make better decisions about runaway gaps.
 

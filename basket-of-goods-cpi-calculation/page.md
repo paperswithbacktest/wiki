@@ -22,7 +22,7 @@ The basket of goods also helps to compare the cost of living in different places
 
 ## How is the basket of goods used to calculate the Consumer Price Index (CPI)?
 
-The Consumer Price Index, or CPI, is a way to measure how prices change over time. To calculate the CPI, economists use a basket of goods. They start by picking a base year and figuring out how much the basket costs in that year. Then, they look at the cost of the same basket in later years. If the basket costs more in the later year, it means prices have gone up.
+The Consumer Price Index, or CPI, is a way to measure how prices change over time. To calculate the CPI, economists use a basket of goods. They start by [picking](/wiki/asset-class-picking) a base year and figuring out how much the basket costs in that year. Then, they look at the cost of the same basket in later years. If the basket costs more in the later year, it means prices have gone up.
 
 To get the CPI number, economists divide the cost of the basket in the later year by the cost of the basket in the base year. They then multiply this number by 100. For example, if the basket cost $100 in the base year and $105 in the later year, the CPI would be 105. This shows that prices have gone up by 5%. The CPI helps people understand if they need more money to buy the same things they used to buy.
 

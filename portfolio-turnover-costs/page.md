@@ -64,7 +64,7 @@ Another style is value investing, where people look for stocks that they think a
 
 ## What role does market volatility play in portfolio turnover and its costs?
 
-Market volatility can make portfolio turnover go up. When the market is moving a lot, prices can change quickly. This might make a portfolio manager want to trade more to try to make money from these changes or to protect their investments from losing value. If they trade more, the costs like fees and taxes can go up too. So, when the market is really up and down, it can lead to more trading and higher costs for the portfolio.
+Market [volatility](/wiki/volatility-trading-strategies) can make portfolio turnover go up. When the market is moving a lot, prices can change quickly. This might make a portfolio manager want to trade more to try to make money from these changes or to protect their investments from losing value. If they trade more, the costs like fees and taxes can go up too. So, when the market is really up and down, it can lead to more trading and higher costs for the portfolio.
 
 But, not all investors will trade more just because the market is volatile. Some might stick to their long-term plan and not trade as much, even when prices are jumping around. This can help keep their costs down. It really depends on the investment style and how the portfolio manager reacts to the market's ups and downs. If they can stay calm and not trade too much, they might save money on costs even when the market is volatile.
 

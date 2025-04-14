@@ -42,7 +42,7 @@ But, because money today is worth more than money in the future, we need to use 
 
 The commuted value of a pension depends on several things. One big factor is how old you are when you decide to take the lump sum. If you're younger, the commuted value might be higher because you would get more pension payments over time if you didn't take the lump sum. Another important factor is how long you're expected to live, which is called your life expectancy. If you're expected to live longer, the commuted value could be higher because there would be more pension payments to account for.
 
-Another factor is the interest rate at the time you're figuring out the commuted value. If interest rates are high, the commuted value might be lower because the money they give you today could grow more over time. If rates are low, the commuted value might be higher because the money won't grow as much in the future. Also, the rules of your specific pension plan can affect the commuted value. Different plans might use different methods to calculate it, so it's good to know what your plan says.
+Another factor is the [interest rate](/wiki/interest-rate-trading-strategies) at the time you're figuring out the commuted value. If interest rates are high, the commuted value might be lower because the money they give you today could grow more over time. If rates are low, the commuted value might be higher because the money won't grow as much in the future. Also, the rules of your specific pension plan can affect the commuted value. Different plans might use different methods to calculate it, so it's good to know what your plan says.
 
 ## How does the interest rate impact the commuted value?
 

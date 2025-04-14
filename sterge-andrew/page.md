@@ -46,7 +46,7 @@ Because of this, Andrew became a bit of a celebrity. His story shows how a simpl
 
 ## Can you list any books or publications authored by Andrew Sterge?
 
-Andrew Sterge has not written any books or publications. He became known because of a funny story about a letter he got from the government. The letter said he owed them a lot of money, but it was a mistake. It was meant for a bank, not for Andrew. This mix-up made his story spread all over the internet. People found it funny and shared it a lot.
+Andrew Sterge has not written any [books](/wiki/algo-trading-books) or publications. He became known because of a funny story about a letter he got from the government. The letter said he owed them a lot of money, but it was a mistake. It was meant for a bank, not for Andrew. This mix-up made his story spread all over the internet. People found it funny and shared it a lot.
 
 Because of this, Andrew became a bit of a celebrity. His story shows how a simple mistake can lead to funny situations and how fast stories can spread online. Before this, Andrew worked in the finance industry and did his job well, but he didn't become famous because of his job. It was the funny letter mix-up that made him well-known.
 
@@ -84,7 +84,7 @@ Before the funny letter mix-up, Andrew worked in the finance industry. He helped
 
 To implement the "Sterge Andrew in Algo Trading" strategy effectively, it's crucial to start by designing specific trading goals and parameters. These should be directly linked to addressing market inefficiencies that have been identified through rigorous data analysis. Clear trading objectives form the backbone of any algorithmic strategy as they define the aims and constraints within which the algorithm will operate. Parameters, such as the entry and [exit](/wiki/exit-strategy) criteria, risk management techniques, and asset selection criteria, need to be meticulously set to align with these goals.
 
-Backtesting is the next integral step, serving as a critical tool to evaluate the strategy's performance before committing real capital. By simulating the trading strategy on historical data, traders can assess its viability and make informed refinements. The backtesting process involves analyzing the strategy's profitability, drawdown, and risk-adjusted returns. One common measure used in backtesting is the Sharpe Ratio, calculated as:
+Backtesting is the next integral step, serving as a critical tool to evaluate the strategy's performance before committing real capital. By simulating the trading strategy on historical data, traders can assess its viability and make informed refinements. The [backtesting](/wiki/backtesting) process involves analyzing the strategy's profitability, drawdown, and risk-adjusted returns. One common measure used in backtesting is the Sharpe Ratio, calculated as:
 
 $$
 \text{Sharpe Ratio} = \frac{E[R_p - R_f]}{\sigma_p}

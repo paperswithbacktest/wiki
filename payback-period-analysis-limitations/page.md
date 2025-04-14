@@ -122,7 +122,7 @@ In conclusion, for a holistic investment analysis, the payback period should not
 
 ## What are the best practices for investors?
 
-Investors seeking optimal investment strategies can benefit significantly from understanding the payback period and incorporating algorithmic trading. Here are some best practices to consider:
+Investors seeking optimal investment strategies can benefit significantly from understanding the payback period and incorporating [algorithmic trading](/wiki/algorithmic-trading). Here are some best practices to consider:
 
 ### Actionable Tips for Using the Payback Period
 

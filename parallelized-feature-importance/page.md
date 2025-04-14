@@ -24,7 +24,7 @@ There are different ways to do parallelization. One way is to use multiple cores
 
 Parallelizing feature importance calculation is beneficial because it makes the process faster. When you have a lot of data and many features to analyze, calculating how important each feature is can take a long time. By using parallelization, you can split the work across multiple computers or cores. This means that instead of waiting for one computer to finish all the calculations, many computers can work on different parts at the same time, speeding up the overall process.
 
-This speed-up is especially helpful when you need to try different models or settings to see which ones work best. In machine learning, you often need to test many different ways of doing things to find the best approach. If calculating feature importance is quick, you can try more options and make better decisions faster. This can lead to more accurate models and better predictions, which is the ultimate goal in machine learning.
+This speed-up is especially helpful when you need to try different models or settings to see which ones work best. In [machine learning](/wiki/machine-learning), you often need to test many different ways of doing things to find the best approach. If calculating feature importance is quick, you can try more options and make better decisions faster. This can lead to more accurate models and better predictions, which is the ultimate goal in machine learning.
 
 ## What are the common methods for calculating feature importance?
 

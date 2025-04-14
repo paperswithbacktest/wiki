@@ -76,7 +76,7 @@ When SMB is negative, it means big companies are doing better than small ones. T
 
 ## How can advanced statistical techniques be used to refine the SMB factor in the Fama-French model?
 
-Advanced statistical techniques can help make the SMB factor in the Fama-French model better. One way is by using something called regression analysis. This helps find how much the size of a company really affects its stock's performance. By looking at lots of data over a long time, regression can show if SMB is still important or if other things are affecting stock returns too. Another way is through machine learning. This can look at huge amounts of data and find patterns that might be hard for people to see. Machine learning can help make SMB more accurate by figuring out which small companies will do better than big ones.
+Advanced statistical techniques can help make the SMB [factor](/wiki/factor-investing) in the Fama-French model better. One way is by using something called regression analysis. This helps find how much the size of a company really affects its stock's performance. By looking at lots of data over a long time, regression can show if SMB is still important or if other things are affecting stock returns too. Another way is through [machine learning](/wiki/machine-learning). This can look at huge amounts of data and find patterns that might be hard for people to see. Machine learning can help make SMB more accurate by figuring out which small companies will do better than big ones.
 
 These techniques can also help deal with some problems of SMB. For example, they can see how SMB changes over time and in different places. This is important because what works in one country might not work in another. By using advanced stats, investors can get a clearer picture of when and where SMB is useful. This can help them make smarter choices about which stocks to buy. Overall, these methods can make the Fama-French model better at explaining why some stocks do better than others, and help investors manage their money more wisely.
 
@@ -124,7 +124,7 @@ $$
 
 where $R_p$ is the portfolio return, $R_f$ is the risk-free rate, and $\sigma_p$ is the standard deviation of the portfolio's excess return.
 
-The analysis involved backtesting AT&T's historical performance using the Fama-French model. We constructed a portfolio based on the SMB and HML factors and compared its returns against a traditional buy-and-hold strategy on AT&T stock. Our Python script utilized libraries such as pandas for data manipulation, NumPy for numerical operations, and statsmodels for regression analysis. Here’s a simplified version of the workflow:
+The analysis involved [backtesting](/wiki/backtesting) AT&T's historical performance using the Fama-French model. We constructed a portfolio based on the SMB and HML factors and compared its returns against a traditional buy-and-hold strategy on AT&T stock. Our Python script utilized libraries such as pandas for data manipulation, NumPy for numerical operations, and statsmodels for regression analysis. Here’s a simplified version of the workflow:
 
 ```python
 import pandas as pd
@@ -154,7 +154,7 @@ print("Sharpe Ratio using Fama-French Model: ", sharpe_ratio)
 
 The results indicated that the model-driven strategy, utilizing SMB and HML factors, provided superior risk-adjusted returns compared to the buy-and-hold strategy. This supports the premise that the Fama-French model can effectively identify market inefficiencies and improve portfolio performance.
 
-Overall, the study highlights the practical benefits of incorporating the Fama-French Model into algorithmic trading strategies. By aligning investment decisions with historical trends discerningly, significant improvements in portfolio management can be realized, thus underscoring the model's applicability in real-world scenarios.
+Overall, the study highlights the practical benefits of incorporating the Fama-French Model into [algorithmic trading](/wiki/algorithmic-trading) strategies. By aligning investment decisions with historical trends discerningly, significant improvements in portfolio management can be realized, thus underscoring the model's applicability in real-world scenarios.
 
 ## References & Further Reading
 

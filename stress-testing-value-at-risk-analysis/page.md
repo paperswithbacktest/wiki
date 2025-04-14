@@ -78,7 +78,7 @@ Stress testing tries to catch these tail events by imagining really bad situatio
 
 ## How can machine learning and AI be utilized to improve stress testing and VaR analysis?
 
-Machine learning and AI can make stress testing and VaR analysis better by finding patterns in lots of data that people might miss. Imagine you're trying to guess what will happen in a game, but you have to look at thousands of past games to do it. Machine learning can look at all that data really fast and find out what usually happens before something bad. This helps make stress tests more realistic because they can be based on a wider range of possible bad situations. For VaR, machine learning can help predict how prices might move in the future by learning from how they moved in the past, making the guesses more accurate.
+Machine learning and AI can make stress testing and VaR analysis better by finding patterns in lots of data that people might miss. Imagine you're trying to guess what will happen in a game, but you have to look at thousands of past games to do it. Machine learning can look at all that data really fast and find out what usually happens before something bad. This helps make stress tests more realistic because they can be based on a wider range of possible bad situations. For VaR, [machine learning](/wiki/machine-learning) can help predict how prices might move in the future by learning from how they moved in the past, making the guesses more accurate.
 
 Another way AI helps is by making models that can change and learn over time. In the real world, things keep changing, and what worked yesterday might not work today. AI can keep learning from new data and update the models used for stress testing and VaR. This means the models stay useful and can catch new risks that come up. By using AI, companies can be better prepared for whatever might happen because their risk management tools are always getting smarter and more accurate.
 
@@ -117,7 +117,7 @@ Value at Risk (VaR) and stress testing are pivotal components of financial risk 
 
 In contrast, stress testing evaluates the resilience of a financial institution by simulating extreme market conditions. It is scenario-based and involves assessing the impacts of hypothetical adverse events, such as economic downturns or financial crises, which fall outside the regular VaR calculations. Unlike VaR's reliance on probabilistic models, stress testing applies predefined stress scenarios that reflect unusual yet plausible risks.
 
-The primary differences between these two approaches lie in their focus and applicability. VaR is instrumental for daily risk management, providing quantitative insights into potential short-term losses due to market volatility. This statistical measure is integral for setting risk limits and capital reserves on a routine basis. In mathematical terms, VaR can be expressed as:
+The primary differences between these two approaches lie in their focus and applicability. VaR is instrumental for daily risk management, providing quantitative insights into potential short-term losses due to market [volatility](/wiki/volatility-trading-strategies). This statistical measure is integral for setting risk limits and capital reserves on a routine basis. In mathematical terms, VaR can be expressed as:
 
 $$
 \text{VaR}_\alpha = -\inf \{ x \in \mathbb{R} : P(X \leq x) > \alpha \}

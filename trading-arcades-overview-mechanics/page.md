@@ -30,7 +30,7 @@ Once you meet the money and knowledge requirements, you might need to pay a fee 
 
 In a trading arcade, you can trade many different types of financial instruments. The most common ones are stocks, which are shares in a company. You can buy and sell these shares, hoping to make money as their value goes up or down. Another popular instrument is options, which give you the right to buy or sell a stock at a certain price. Futures are also traded in arcades, and they are agreements to buy or sell something at a future date for a price set today.
 
-Besides these, you can also trade commodities like gold, oil, or wheat. These are physical goods that people need every day. In some arcades, you might be able to trade currencies too, like the US dollar or the Euro. This is called forex trading. Each of these instruments has its own risks and rewards, so it's important to learn about them before you start trading.
+Besides these, you can also trade commodities like gold, oil, or wheat. These are physical goods that people need every day. In some arcades, you might be able to trade currencies too, like the US dollar or the Euro. This is called [forex](/wiki/forex-system) trading. Each of these instruments has its own risks and rewards, so it's important to learn about them before you start trading.
 
 ## How does the commission structure work in trading arcades?
 
@@ -60,7 +60,7 @@ The software in trading arcades can do more than just show information. Some pro
 
 In a trading arcade, the day usually starts early. Traders come in and get ready for the market to open. They check the news and use their special software to see what's happening in the markets. Once the market opens, they start trading. They might buy and sell stocks, options, or other things based on what they see. Some traders like to make quick trades, trying to make money from small changes in prices. Others might hold onto their trades for longer, waiting for bigger changes. Throughout the day, traders keep an eye on their screens, making new trades or closing old ones as needed. They also talk to other traders in the arcade, sharing tips and ideas.
 
-Trading strategies in an arcade can be different for each trader. Some use a strategy called day trading, where they buy and sell things within the same day. They try to make money from small changes in prices. Others might use a strategy called swing trading, where they hold onto their trades for a few days or weeks, hoping for bigger changes. Some traders use automated trading, where they set up rules in their software, and the computer makes trades for them. No matter what strategy they use, traders in an arcade are always learning and trying to get better. They use the resources and community in the arcade to help them make smarter trades.
+Trading strategies in an arcade can be different for each trader. Some use a strategy called [day trading](/wiki/day-trading-spy), where they buy and sell things within the same day. They try to make money from small changes in prices. Others might use a strategy called swing trading, where they hold onto their trades for a few days or weeks, hoping for bigger changes. Some traders use automated trading, where they set up rules in their software, and the computer makes trades for them. No matter what strategy they use, traders in an arcade are always learning and trying to get better. They use the resources and community in the arcade to help them make smarter trades.
 
 ## How do trading arcades monitor and ensure compliance with trading regulations?
 
@@ -70,7 +70,7 @@ Besides watching trades, trading arcades also teach traders about the rules. The
 
 ## What advanced trading techniques are commonly utilized by experienced traders in arcades?
 
-Experienced traders in arcades often use a technique called scalping. This means they make lots of quick trades, trying to make a little bit of money from small changes in prices. They watch the market closely and use special software to help them make these fast trades. Scalping can be risky because it's hard to make money from such small changes, but it can also be rewarding if done right.
+Experienced traders in arcades often use a technique called [scalping](/wiki/gamma-scalping). This means they make lots of quick trades, trying to make a little bit of money from small changes in prices. They watch the market closely and use special software to help them make these fast trades. Scalping can be risky because it's hard to make money from such small changes, but it can also be rewarding if done right.
 
 Another advanced technique is algo trading, where traders use computer programs to make trades for them. These programs follow rules set by the trader, looking for certain patterns in the market. This can save a lot of time and help traders make decisions without letting their feelings get in the way. Some traders also use a technique called hedging, where they make trades to protect themselves from losing too much money if the market goes the wrong way. This can be a smart way to manage risk, but it takes a lot of skill and knowledge to do it well.
 

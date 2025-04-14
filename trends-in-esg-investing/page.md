@@ -18,7 +18,7 @@ People use ESG investing because they want their money to help make the world a 
 
 ESG investing is important because it helps people make choices that are good for the world and good for their wallets. When people invest in companies that care about the environment, treat people well, and have good leaders, they are using their money to support positive changes. This can lead to a better future for everyone, with cleaner air and water, fair treatment of workers, and companies that are run honestly.
 
-Also, ESG investing can be a smart way to make money. Companies that focus on these areas often do well over time. They might save money by using less energy or by avoiding problems that come from treating people badly. They might also attract more customers who want to buy from companies that do good things. So, by choosing ESG investments, people can help make the world better and still earn a good return on their money.
+Also, [ESG](/wiki/esg-investing) investing can be a smart way to make money. Companies that focus on these areas often do well over time. They might save money by using less energy or by avoiding problems that come from treating people badly. They might also attract more customers who want to buy from companies that do good things. So, by choosing ESG investments, people can help make the world better and still earn a good return on their money.
 
 ## What are the main components of ESG?
 
@@ -76,7 +76,7 @@ The financial sector also pays a lot of attention to ESG criteria. Banks and inv
 
 ## What advanced strategies can be used to optimize ESG portfolios?
 
-One advanced strategy to optimize ESG portfolios is to use data analytics and artificial intelligence. These tools can help investors look at a lot of information quickly and find patterns that might be hard to see otherwise. For example, they can use AI to predict how a company's environmental practices might change in the future. This can help investors pick companies that are likely to do well on ESG issues over time. By using these smart tools, investors can make better choices and build a stronger ESG portfolio.
+One advanced strategy to optimize ESG portfolios is to use data analytics and [artificial intelligence](/wiki/ai-artificial-intelligence). These tools can help investors look at a lot of information quickly and find patterns that might be hard to see otherwise. For example, they can use AI to predict how a company's environmental practices might change in the future. This can help investors pick companies that are likely to do well on ESG issues over time. By using these smart tools, investors can make better choices and build a stronger ESG portfolio.
 
 Another strategy is to focus on impact investing. This means choosing investments that not only do well on ESG criteria but also have a clear, positive impact on the world. For example, an investor might put money into a company that builds affordable housing or one that helps people get clean water. By focusing on these kinds of investments, investors can feel good about the difference their money is making. This can also lead to good returns, because companies that solve big problems often do well in the long run.
 

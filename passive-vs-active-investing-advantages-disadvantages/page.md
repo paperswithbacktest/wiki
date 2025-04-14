@@ -28,7 +28,7 @@ On the other hand, active investing is about trying to beat the market. People w
 
 ## What are the typical costs associated with passive investing?
 
-The costs of passive investing are usually lower than those of active investing. The main cost for passive investors is the expense ratio of the fund they choose. This is a small percentage of your investment that the fund charges each year to cover its costs. For example, a common expense ratio for an index fund or ETF might be around 0.05% to 0.20%. This means if you have $10,000 invested, you might pay $5 to $20 a year in fees.
+The costs of passive investing are usually lower than those of active investing. The main cost for passive investors is the expense ratio of the fund they choose. This is a small percentage of your investment that the fund charges each year to cover its costs. For example, a common expense ratio for an index fund or [ETF](/wiki/etf-trading-strategies) might be around 0.05% to 0.20%. This means if you have $10,000 invested, you might pay $5 to $20 a year in fees.
 
 Another cost to think about is the cost of buying and selling the fund. If you're investing in an ETF, you might have to pay a small fee, called a commission, each time you buy or sell shares. But many brokers now offer commission-free ETFs, which can help keep your costs down. Overall, the total costs for passive investing are usually very low, which is one reason why many people like this way of investing.
 
@@ -42,7 +42,7 @@ Another cost to think about is trading fees. Active investors buy and sell stock
 
 Tracking error is a way to measure how well a passive investment, like an index fund or ETF, matches the performance of the market index it's supposed to follow. For example, if you have an S&P 500 index fund, the tracking error tells you how closely the fund's returns match the actual returns of the S&P 500. A smaller tracking error means the fund is doing a good job of copying the index, while a larger tracking error means it's not matching the index as well.
 
-There are a few reasons why a passive fund might have a tracking error. Sometimes, the fund can't buy all the exact same stocks in the same amounts as the index because of costs or rules about what they can invest in. Also, the fund might have to keep some money in cash to pay for things like fees and taxes, which can make its performance different from the index. Even though passive funds aim to keep tracking error low, it's good to check this when you're picking a fund to make sure it's doing what you expect.
+There are a few reasons why a passive fund might have a tracking error. Sometimes, the fund can't buy all the exact same stocks in the same amounts as the index because of costs or rules about what they can invest in. Also, the fund might have to keep some money in cash to pay for things like fees and taxes, which can make its performance different from the index. Even though passive funds aim to keep tracking error low, it's good to check this when you're [picking](/wiki/asset-class-picking) a fund to make sure it's doing what you expect.
 
 ## How does the potential for alpha generation compare between passive and active investing?
 

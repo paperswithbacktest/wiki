@@ -18,7 +18,7 @@ This ETF tracks the NYSE Arca Gold Miners Index, which means it tries to match t
 
 The VanEck Vectors Gold Miners ETF works by pooling money from many investors to buy a collection of stocks in gold mining companies. This ETF follows the NYSE Arca Gold Miners Index, which means it tries to copy the performance of this index. The index includes a mix of big and small companies that mine gold and silver. When you buy shares of the ETF, you're essentially buying a small piece of all these companies at once. This makes it easier for you to invest in the gold mining industry without having to pick individual stocks.
 
-The price of the ETF goes up and down based on how well the gold mining companies in the index are doing. If the price of gold goes up, the profits of these companies might increase, which could make the ETF's value go up too. But if gold prices fall, the ETF's value might go down. The ETF is traded on stock exchanges, so you can buy and sell shares whenever the market is open. This gives you flexibility to adjust your investment as you see fit.
+The price of the [ETF](/wiki/etf-trading-strategies) goes up and down based on how well the gold mining companies in the index are doing. If the price of gold goes up, the profits of these companies might increase, which could make the ETF's value go up too. But if gold prices fall, the ETF's value might go down. The ETF is traded on stock exchanges, so you can buy and sell shares whenever the market is open. This gives you flexibility to adjust your investment as you see fit.
 
 ## What are the main holdings of the VanEck Vectors Gold Miners ETF?
 
@@ -28,7 +28,7 @@ Besides Newmont and Barrick, there are other important companies like Franco-Nev
 
 ## What are the benefits of investing in the VanEck Vectors Gold Miners ETF?
 
-Investing in the VanEck Vectors Gold Miners ETF can be a good choice for people who want to put their money into gold mining without picking individual companies. This ETF includes a lot of different gold mining companies, so it spreads out the risk. If one company does badly, it won't hurt your whole investment as much because you own a piece of many companies. This makes it easier and safer to invest in the gold mining industry.
+Investing in the VanEck Vectors Gold Miners ETF can be a good choice for people who want to put their money into gold mining without [picking](/wiki/asset-class-picking) individual companies. This ETF includes a lot of different gold mining companies, so it spreads out the risk. If one company does badly, it won't hurt your whole investment as much because you own a piece of many companies. This makes it easier and safer to invest in the gold mining industry.
 
 Another benefit is that the ETF follows the NYSE Arca Gold Miners Index, which means it tries to do as well as this index. This can be a good way to get the same returns as the whole gold mining industry. Plus, you can buy and sell shares of the ETF easily on the stock market, so you can change your investment whenever you want. This flexibility can be really helpful if you need to adjust your investments quickly.
 
@@ -52,7 +52,7 @@ On the other hand, ETFs like the iShares Gold Trust also focus on the price of g
 
 ## What factors influence the performance of the VanEck Vectors Gold Miners ETF?
 
-The performance of the VanEck Vectors Gold Miners ETF is influenced by a lot of things. The most important factor is the price of gold. When gold prices go up, the companies that mine gold usually make more money, which can make the ETF's value go up too. But if gold prices fall, the profits of these companies might go down, and this can hurt the ETF's performance. Another big factor is how well the individual gold mining companies in the ETF are doing. If they can find more gold or if it costs them less to mine it, they might do better, and this can help the ETF.
+The performance of the VanEck Vectors Gold Miners ETF is influenced by a lot of things. The most important [factor](/wiki/factor-investing) is the price of gold. When gold prices go up, the companies that mine gold usually make more money, which can make the ETF's value go up too. But if gold prices fall, the profits of these companies might go down, and this can hurt the ETF's performance. Another big factor is how well the individual gold mining companies in the ETF are doing. If they can find more gold or if it costs them less to mine it, they might do better, and this can help the ETF.
 
 There are other things that can affect the ETF too. The costs of running the ETF, like management fees, can eat into the returns you get. Also, what's happening in the world can play a role. For example, if there's a lot of uncertainty or if people are worried about the economy, they might buy more gold, which can push up the price and help the ETF. On the other hand, if the economy is doing well, people might not be as interested in gold, and this can hurt the ETF's performance. So, a lot of different things can influence how the VanEck Vectors Gold Miners ETF does over time.
 

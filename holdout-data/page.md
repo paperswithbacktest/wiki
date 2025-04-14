@@ -21,7 +21,7 @@ Using holdout data also helps us make our model better. After we train the model
 
 ## How do you split a dataset into training and holdout data?
 
-Splitting a dataset into training and holdout data is an important step in machine learning. To do this, you take your whole dataset and divide it into two parts. Usually, you use a bigger part for training and a smaller part for testing. A common way to split the data is to use 70-80% for training and the rest for testing. This split helps make sure your model learns well from the training data and can be checked on the holdout data to see how it will work with new data.
+Splitting a dataset into training and holdout data is an important step in [machine learning](/wiki/machine-learning). To do this, you take your whole dataset and divide it into two parts. Usually, you use a bigger part for training and a smaller part for testing. A common way to split the data is to use 70-80% for training and the rest for testing. This split helps make sure your model learns well from the training data and can be checked on the holdout data to see how it will work with new data.
 
 You can split the data randomly or use a method called stratified sampling, which makes sure each part of the data has the same mix of different types of data. For example, if you're working with data about different kinds of animals, you want both the training and holdout sets to have a similar number of each kind of animal. This helps make sure your model is tested fairly. To do the split, you can use tools like Python's scikit-learn library, which has functions to help you split your data easily and correctly.
 

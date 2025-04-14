@@ -18,7 +18,7 @@ These securities are typically issued by governments to raise money for public s
 
 The term 'gilt-edged' comes from the old practice of making fancy books and certificates. A long time ago, people would put a thin layer of gold on the edges of important books and documents to make them look special and valuable. This gold edge was called 'gilt.' So, when people started talking about very safe and valuable investments, they used the term 'gilt-edged' to show that these investments were like those fancy, gold-edged books – highly valued and reliable.
 
-In the world of finance, the term 'gilt-edged' became popular to describe government bonds, especially in the UK where they are simply called 'gilts.' These bonds are seen as safe because they are backed by the government, which is very unlikely to fail to pay back the money it borrows. Just like the gold on those old books, these securities are seen as the best and most trustworthy kind of investment.
+In the world of finance, the term 'gilt-edged' became popular to describe government bonds, especially in the UK where they are simply called 'gilts.' These bonds are seen as safe because they are backed by the government, which is very unlikely to fail to pay back the money it borrows. Just like the gold on those old [books](/wiki/algo-trading-books), these securities are seen as the best and most trustworthy kind of investment.
 
 ## How do gilt-edged securities differ from other types of securities?
 

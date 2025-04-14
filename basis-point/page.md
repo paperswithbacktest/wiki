@@ -24,7 +24,7 @@ They are also useful because they help avoid mistakes. When people talk about pe
 
 A percentage point is the same as 100 basis points. This means if you have a change of 1 percentage point, that's the same as a change of 100 basis points.
 
-Using basis points helps make small changes in percentages easier to understand. For example, if an interest rate goes up by 0.25%, that's the same as saying it went up by 25 basis points. It's a clear way to talk about tiny changes in finance.
+Using basis points helps make small changes in percentages easier to understand. For example, if an [interest rate](/wiki/interest-rate-trading-strategies) goes up by 0.25%, that's the same as saying it went up by 25 basis points. It's a clear way to talk about tiny changes in finance.
 
 ## How can basis points be used in financial markets?
 
@@ -82,7 +82,7 @@ Another way basis points are used in financial modeling is in stress testing. Th
 
 ## What are the best practices for algorithmic trading in a changing interest rate environment?
 
-Adapting algorithmic trading models to a dynamic interest rate environment requires strategic planning and implementation to maintain efficacy. As interest rates fluctuate, traders need to ensure that their algorithms are capable of adjusting to these changes to maximize investment returns and mitigate risks.
+Adapting [algorithmic trading](/wiki/algorithmic-trading) models to a dynamic interest rate environment requires strategic planning and implementation to maintain efficacy. As interest rates fluctuate, traders need to ensure that their algorithms are capable of adjusting to these changes to maximize investment returns and mitigate risks.
 
 One crucial strategy is the incorporation of interest rate sensitivity analysis within the algorithmic models. This involves evaluating how changes in interest rates can impact various financial instruments and adjusting the algorithms accordingly. Interest rate derivatives like futures and options can be used to hedge against adverse movements, thereby stabilizing returns. 
 

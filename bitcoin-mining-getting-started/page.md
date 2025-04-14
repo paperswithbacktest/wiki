@@ -24,7 +24,7 @@ The puzzle that miners solve is called a "hash function." It takes the data in t
 
 To start Bitcoin mining, you need a few pieces of equipment. The most important one is a powerful computer, specifically designed for mining. These are called ASIC miners (Application-Specific Integrated Circuit miners). They are much better at solving the math puzzles needed for mining than regular computers. You'll also need a good internet connection to stay connected to the Bitcoin network.
 
-In addition to the hardware, you'll need some software to run your mining operation. This software helps your ASIC miner connect to the Bitcoin network and start solving puzzles. You'll also need a Bitcoin wallet to store any bitcoins you earn. Lastly, you might want to join a mining pool, which is a group of miners working together to solve puzzles. This can increase your chances of earning bitcoins, but you'll have to share the rewards with the pool.
+In addition to the hardware, you'll need some software to run your mining operation. This software helps your ASIC miner connect to the Bitcoin network and start solving puzzles. You'll also need a Bitcoin wallet to store any bitcoins you earn. Lastly, you might want to join a mining pool, which is a group of miners working together to solve puzzles. This can increase your chances of [earning](/wiki/earning-announcement) bitcoins, but you'll have to share the rewards with the pool.
 
 ## How much does it cost to start Bitcoin mining?
 
@@ -106,7 +106,7 @@ Higher efficiency leads to lower energy costs per hash. Consequently, investing 
 
 ### Bitcoin’s Market Price
 
-Bitcoin's market price is a major influencer of mining profitability. When the price of Bitcoin increases, the same amount of mined Bitcoin translates into higher revenue. Conversely, a decline in Bitcoin's price can render mining operations unprofitable if it falls below the operational costs. Due to Bitcoin's inherent volatility, fluctuations in its market price can either drive miners out of business or lead to windfall profits.
+Bitcoin's market price is a major influencer of mining profitability. When the price of Bitcoin increases, the same amount of mined Bitcoin translates into higher revenue. Conversely, a decline in Bitcoin's price can render mining operations unprofitable if it falls below the operational costs. Due to Bitcoin's inherent [volatility](/wiki/volatility-trading-strategies), fluctuations in its market price can either drive miners out of business or lead to windfall profits.
 
 ### Challenges
 
@@ -118,7 +118,7 @@ The difficulty level in Bitcoin mining adjusts every two weeks to ensure that bl
 
 After the most recent halving in May 2020, the reward decreased from 12.5 to 6.25 Bitcoins per block. This reduction can impact profitability because miners must rely on transaction fees and improved efficiency to maintain earnings.
 
-In conclusion, the economics of Bitcoin mining requires careful consideration of electricity costs, hardware efficiency, and market dynamics. Prospective miners must balance these factors to achieve a profitable operation, keeping in mind the inherent uncertainties and potential regulatory impacts in the cryptocurrency landscape.
+In conclusion, the economics of Bitcoin mining requires careful consideration of electricity costs, hardware efficiency, and market dynamics. Prospective miners must balance these factors to achieve a profitable operation, keeping in mind the inherent uncertainties and potential regulatory impacts in the [cryptocurrency](/wiki/cryptocurrency) landscape.
 
 ## References & Further Reading
 

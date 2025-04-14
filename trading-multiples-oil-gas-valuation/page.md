@@ -46,9 +46,9 @@ In the oil and gas business, using EV/boe can be really helpful because it gives
 
 ## What factors influence the choice of trading multiples in oil and gas?
 
-Choosing the right trading multiples in the oil and gas industry depends on a few key things. One big factor is what part of the oil and gas business the company is in. For example, companies that explore and produce oil might be better compared using multiples like EV/boe, which looks at the value of their oil reserves. On the other hand, companies that refine oil or sell gas might be better compared using multiples like EV/EBITDA, which looks at their earnings and how much debt they have.
+Choosing the right trading multiples in the oil and gas industry depends on a few key things. One big [factor](/wiki/factor-investing) is what part of the oil and gas business the company is in. For example, companies that explore and produce oil might be better compared using multiples like EV/boe, which looks at the value of their oil reserves. On the other hand, companies that refine oil or sell gas might be better compared using multiples like EV/EBITDA, which looks at their earnings and how much debt they have.
 
-Another important thing to think about is how stable the company's earnings are. The oil and gas industry can be very up and down because of changes in oil prices. So, multiples like price-to-cash flow can be useful because they show how much cash a company is making, which can be a better sign of how well it's doing than just looking at its earnings. By picking the right multiple, investors can get a clearer picture of a company's value and make better choices about where to put their money.
+Another important thing to think about is how stable the company's earnings are. The oil and gas industry can be very up and down because of changes in oil prices. So, multiples like price-to-cash flow can be useful because they show how much cash a company is making, which can be a better sign of how well it's doing than just looking at its earnings. By [picking](/wiki/asset-class-picking) the right multiple, investors can get a clearer picture of a company's value and make better choices about where to put their money.
 
 ## How do you compare trading multiples across different oil and gas companies?
 

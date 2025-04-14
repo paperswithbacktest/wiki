@@ -54,7 +54,7 @@ Lastly, using Tether can be risky because it's a digital currency. If you lose y
 
 ## How can someone buy, sell, or trade Tether?
 
-You can buy, sell, or trade Tether on many different cryptocurrency exchanges. These are websites where people can trade one type of cryptocurrency for another or for regular money. To start, you need to sign up for an account on an exchange that supports Tether, like Binance or Coinbase. Once you have an account, you can deposit money into it, usually by sending US dollars from your bank. Then, you can use that money to buy Tether. When you want to sell Tether, you just do the opposite: you trade your Tether for US dollars or another cryptocurrency, and then you can take the money out of the exchange and put it back into your bank.
+You can buy, sell, or trade Tether on many different [cryptocurrency](/wiki/cryptocurrency) exchanges. These are websites where people can trade one type of cryptocurrency for another or for regular money. To start, you need to sign up for an account on an exchange that supports Tether, like Binance or Coinbase. Once you have an account, you can deposit money into it, usually by sending US dollars from your bank. Then, you can use that money to buy Tether. When you want to sell Tether, you just do the opposite: you trade your Tether for US dollars or another cryptocurrency, and then you can take the money out of the exchange and put it back into your bank.
 
 Trading Tether can also be done directly with other people, without using an exchange. This is called a peer-to-peer (P2P) trade. You can find people who want to buy or sell Tether on websites like LocalBitcoins or Paxful. You agree on a price with the other person, and then you send them the Tether while they send you the money, usually through a bank transfer or another payment method. This way of trading can be faster and sometimes cheaper, but you need to be careful and make sure the person you're trading with is trustworthy.
 
@@ -74,7 +74,7 @@ Tether also helps make the cryptocurrency ecosystem more accessible to people wh
 
 ## How does Tether handle transparency and audits?
 
-Tether has faced questions about how open they are about their money. They say they keep enough US dollars in the bank to match the number of Tether tokens. But some people worry that Tether hasn't always shown clear proof of this. Tether has shared some reports about their money, but these reports haven't always been done by outside groups that check companies' books. This makes it hard for people to be sure that Tether really has all the US dollars they say they do.
+Tether has faced questions about how open they are about their money. They say they keep enough US dollars in the bank to match the number of Tether tokens. But some people worry that Tether hasn't always shown clear proof of this. Tether has shared some reports about their money, but these reports haven't always been done by outside groups that check companies' [books](/wiki/algo-trading-books). This makes it hard for people to be sure that Tether really has all the US dollars they say they do.
 
 To try to be more open, Tether has started to work with outside companies to check their books. They've shared some reports from these checks, but they haven't been as regular or detailed as some people want. Tether says they are trying to be more open and share more information, but it's still something that people watch closely. If Tether can show that they are being clear and honest about their money, it could make more people trust and use Tether.
 

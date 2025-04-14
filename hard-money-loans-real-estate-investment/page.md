@@ -24,7 +24,7 @@ Another difference is how fast you can get the money and what it costs. Hard mon
 
 Hard money loans usually have higher interest rates than traditional bank loans. The rates can range from about 8% to 15% or even more. This is because hard money lenders take more risk. They lend money based on the value of the property, not the borrower's credit. So, they charge more to cover that risk.
 
-The exact rate you get depends on a few things. It can depend on where the property is, how much money you're borrowing, and how long you need the loan. Lenders might also look at the property's condition and how easy it is to sell. Because of all these factors, the interest rate can change a lot from one loan to another.
+The exact rate you get depends on a few things. It can depend on where the property is, how much money you're borrowing, and how long you need the loan. Lenders might also look at the property's condition and how easy it is to sell. Because of all these factors, the [interest rate](/wiki/interest-rate-trading-strategies) can change a lot from one loan to another.
 
 ## What types of properties can be financed with hard money loans?
 

@@ -22,7 +22,7 @@ Next, you need to find an investor who wants to buy the house. You show them the
 
 ## How do you find potential properties for wholesaling?
 
-To find potential properties for wholesaling, you need to be proactive and look in places where people might want to sell their homes quickly. One good way is to drive around neighborhoods and look for signs that say "For Sale by Owner." These sellers might be more open to a quick deal. You can also use websites and apps that list homes for sale, especially those that are priced low or need a lot of work. Another way is to contact real estate agents who work with distressed properties, like homes that are in foreclosure or need a lot of repairs.
+To find potential properties for wholesaling, you need to be proactive and look in places where people might want to sell their homes quickly. One good way is to drive around neighborhoods and look for signs that say "For Sale by Owner." These sellers might be more open to a quick deal. You can also use websites and apps that list homes for sale, especially those that are priced low or need a lot of work. Another way is to contact real estate [agents](/wiki/agents) who work with distressed properties, like homes that are in foreclosure or need a lot of repairs.
 
 Networking is also really important. You can join local real estate investment groups or go to meetings where people talk about buying and selling homes. These places are great for meeting sellers and other investors who might know about good deals. You can also use direct mail campaigns, sending letters to homeowners in certain areas, telling them you're interested in buying their home. This can help you find people who might not be actively trying to sell but would consider it for the right price.
 

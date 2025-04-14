@@ -35,7 +35,7 @@ These instruments are simple and good for saving up for something in the future,
 
 ## How is the yield calculated for a pure discount instrument?
 
-The yield on a pure discount instrument is calculated by figuring out the annual return you get from buying it at a discount and getting the full face value at maturity. To do this, you need to know the price you paid, the face value you will get, and how long you have to wait until it matures. The formula to find the yield is: Yield = (Face Value / Purchase Price)^(1 / Years to Maturity) - 1. This formula helps you understand the annual rate of return you are earning on your investment.
+The yield on a pure discount instrument is calculated by figuring out the annual return you get from buying it at a discount and getting the full face value at maturity. To do this, you need to know the price you paid, the face value you will get, and how long you have to wait until it matures. The formula to find the yield is: Yield = (Face Value / Purchase Price)^(1 / Years to Maturity) - 1. This formula helps you understand the annual rate of return you are [earning](/wiki/earning-announcement) on your investment.
 
 For example, if you buy a zero-coupon bond for $900 that will be worth $1,000 in one year, you can use the formula to find the yield. Plugging in the numbers, you get: Yield = (1000 / 900)^(1 / 1) - 1 = 1.1111 - 1 = 0.1111, or about 11.11%. This means your annual return on this investment is about 11.11%. It's important to know this yield because it helps you compare this investment to others and see if it's a good deal for you.
 
@@ -161,7 +161,7 @@ Overall, pure discount bonds provide critical mechanisms for investors seeking t
 
 ## What are the applications of pure discount bonds in algorithmic trading?
 
-Pure discount bonds, including zero-coupon bonds and Treasury bills, offer a compelling suite of benefits for algorithmic trading strategies. Their appeal lies in their relative simplicity, with a single cash flow occurring at maturity. This characteristic can be exploited for precision in modeling and predicting future cash flows, an essential feature for algorithmic trading systems.
+Pure discount bonds, including zero-coupon bonds and Treasury bills, offer a compelling suite of benefits for [algorithmic trading](/wiki/algorithmic-trading) strategies. Their appeal lies in their relative simplicity, with a single cash flow occurring at maturity. This characteristic can be exploited for precision in modeling and predicting future cash flows, an essential feature for algorithmic trading systems.
 
 ### Strategic Advantages in Algorithmic Trading
 
@@ -181,7 +181,7 @@ This simplicity facilitates high-frequency trading strategies and aids in effici
 
 ### Arbitrage Opportunities and Yield Curve Strategies
 
-Pure discount bonds are pivotal in identifying arbitrage opportunities and constructing yield curve strategies. Algorithms can detect discrepancies between the yields of similar instruments more accurately with these bonds. Suppose a zero-coupon bond's yield deviates significantly from an expected point on the theoretical spot yield curve. In that case, algorithms can identify this anomaly as a potential arbitrage opportunity and execute trades to capture these spreads until the market corrects itself.
+Pure discount bonds are pivotal in identifying [arbitrage](/wiki/arbitrage) opportunities and constructing yield curve strategies. Algorithms can detect discrepancies between the yields of similar instruments more accurately with these bonds. Suppose a zero-coupon bond's yield deviates significantly from an expected point on the theoretical spot yield curve. In that case, algorithms can identify this anomaly as a potential arbitrage opportunity and execute trades to capture these spreads until the market corrects itself.
 
 Yield curve strategies, such as riding the yield curve, become more manageable and precise with pure discount bonds. By utilizing predictive algorithms, traders can calculate and exploit shifts in the yield curve more effectively:
 
@@ -208,13 +208,13 @@ calculate_yield_curve_shift([95, 97, 99], [1, 2, 3])
 
 Pure discount bonds can significantly contribute to managing interest rate risk, a key concern for fixed-income traders. Algorithms facilitate dynamic hedging strategies that adjust in real-time to market conditions. By using predictive analytics, trading systems can anticipate interest rate movements and adjust bond portfolios accordingly. This approach minimizes risk exposure without the lag time experienced in traditional trading methods.
 
-Algorithm-driven analysis of historical interest rate movements allows for more informed risk assessments and strategy adaptations. The integration of machine learning models furthers the capability to predict adverse scenarios, allowing traders to implement safeguards proactively.
+Algorithm-driven analysis of historical interest rate movements allows for more informed risk assessments and strategy adaptations. The integration of [machine learning](/wiki/machine-learning) models furthers the capability to predict adverse scenarios, allowing traders to implement safeguards proactively.
 
 In summary, pure discount bonds form an integral part of algorithmic trading strategies due to their structural characteristics and ease of modeling. The ability to leverage arbitrage opportunities and optimize yield curve strategies highlights their utility, while sophisticated algorithms enable efficient risk management in the inherently volatile interest rate landscape.
 
 ## What are the risks and considerations?
 
-Pure discount bonds, such as zero-coupon bonds and Treasury bills, are significant components of many investment portfolios. However, they come with inherent risks that investors must manage carefully—primarily interest rate risk and liquidity risk.
+Pure discount bonds, such as zero-coupon bonds and Treasury bills, are significant components of many investment portfolios. However, they come with inherent risks that investors must manage carefully—primarily interest rate risk and [liquidity](/wiki/liquidity-risk-premium) risk.
 
 ### Interest Rate Risk
 

@@ -92,7 +92,7 @@ $$
 
 where $w_i$ is the weight of the asset, $\sigma_i$ is the standard deviation, and $\rho_{ij}$ is the correlation between assets $i$ and $j$.
 
-Investors can also employ stop-loss orders to safeguard against sudden price declines typical of air pocket situations. A stop-loss order automatically sells a security when its price falls to a predetermined level, thereby capping potential losses without requiring real-time decision-making. This automated strategy is especially useful in scenarios where algorithmic trading exacerbates price volatility, leading to rapid market movements.
+Investors can also employ stop-loss orders to safeguard against sudden price declines typical of air pocket situations. A stop-loss order automatically sells a security when its price falls to a predetermined level, thereby capping potential losses without requiring real-time decision-making. This automated strategy is especially useful in scenarios where [algorithmic trading](/wiki/algorithmic-trading) exacerbates price [volatility](/wiki/volatility-trading-strategies), leading to rapid market movements.
 
 Thorough research and a disciplined approach further aid investors in navigating times of volatility. Fundamental analysis of a company's financial health, earnings potential, and industry position, alongside technical analysis of price charts and market trends, can better prepare investors to weather volatile periods. Investors should set clear investment goals and adhere to a long-term strategy, avoiding emotional decisions driven by market fluctuations.
 

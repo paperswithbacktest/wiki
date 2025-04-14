@@ -30,7 +30,7 @@ The TBA market is important because it helps keep the mortgage market running sm
 
 Trading in TBA securities offers several benefits for investors. One big advantage is that it makes trading easier and more flexible. Investors can buy and sell these securities without knowing all the details right away. This means they can quickly agree on a trade and then choose the specific securities that fit their needs later. This flexibility helps investors manage their portfolios more easily and respond to market changes faster.
 
-Another benefit is that the TBA market is very liquid, which means there are a lot of buyers and sellers. This makes it easier for investors to find someone to trade with, and it helps keep prices stable. Because the market is so active, investors can buy and sell large amounts of securities without worrying about big price swings. This liquidity is important because it helps investors feel more confident when they're making trades.
+Another benefit is that the TBA market is very liquid, which means there are a lot of buyers and sellers. This makes it easier for investors to find someone to trade with, and it helps keep prices stable. Because the market is so active, investors can buy and sell large amounts of securities without worrying about big price swings. This [liquidity](/wiki/liquidity-risk-premium) is important because it helps investors feel more confident when they're making trades.
 
 ## How do TBA trades affect the liquidity and pricing of mortgage-backed securities?
 
@@ -48,7 +48,7 @@ Another risk is that the details of the securities are not known until a few day
 
 The settlement process for TBA securities happens a few days after the trade is made. Usually, the exact details of the securities are announced about four days before the settlement date. This gives investors time to check the securities and make sure they are what they expected. The settlement date is usually set for the last day of the month, but it can be different depending on the trade agreement. On the settlement date, the securities are transferred to the buyer, and the buyer pays the seller.
 
-There are two standard delivery options for TBA securities: specified pool and weighted average coupon (WAC). With a specified pool, the buyer gets a specific group of mortgages. This can be good if the buyer wants certain types of mortgages. With a WAC delivery, the buyer gets a mix of different mortgage pools that all have the same average interest rate. This can be good if the buyer wants flexibility and doesn't need specific mortgages. Both options help make the TBA market flexible and meet different investor needs.
+There are two standard delivery options for TBA securities: specified pool and weighted average coupon (WAC). With a specified pool, the buyer gets a specific group of mortgages. This can be good if the buyer wants certain types of mortgages. With a WAC delivery, the buyer gets a mix of different mortgage pools that all have the same average [interest rate](/wiki/interest-rate-trading-strategies). This can be good if the buyer wants flexibility and doesn't need specific mortgages. Both options help make the TBA market flexible and meet different investor needs.
 
 ## Can you explain the role of the forward settlement in TBA transactions?
 

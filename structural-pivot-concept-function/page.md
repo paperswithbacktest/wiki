@@ -32,7 +32,7 @@ The goal of a structural pivot is usually to stay competitive or to take advanta
 
 In a building, a structural pivot is a special part that helps the building move or change direction. It's like a hinge but bigger and stronger, used to connect different parts of the building that need to move. For example, in a rotating restaurant at the top of a tall building, a structural pivot allows the whole restaurant to turn around slowly so that diners can enjoy different views without moving from their seats.
 
-These pivots are important because they need to be very strong and reliable. They carry a lot of weight and have to work smoothly to keep the building safe and stable. Engineers design them carefully to make sure they can handle the stress and movement without breaking. So, a structural pivot in a building is all about making sure parts of the building can move safely and smoothly.
+These pivots are important because they need to be very strong and reliable. They [carry](/wiki/carry-trading) a lot of weight and have to work smoothly to keep the building safe and stable. Engineers design them carefully to make sure they can handle the stress and movement without breaking. So, a structural pivot in a building is all about making sure parts of the building can move safely and smoothly.
 
 ## What materials are commonly used in the construction of structural pivots?
 

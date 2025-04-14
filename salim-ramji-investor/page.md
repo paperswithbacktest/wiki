@@ -34,7 +34,7 @@ Before BlackRock, Salim worked at Visa and helped them create new products and s
 
 ## How has Salim Ramji influenced the investment strategies at the firms he has worked with?
 
-Salim Ramji has influenced investment strategies at the firms he has worked with by bringing his smart ideas and understanding of what customers want. At BlackRock, he helped make their exchange-traded funds (ETFs) very popular. ETFs are like baskets of stocks that people can buy and sell easily. Salim used his knowledge to help BlackRock grow and make more money. He was good at figuring out what investors wanted and made sure BlackRock's ETFs met those needs. This helped BlackRock become a leader in the ETF market.
+Salim Ramji has influenced investment strategies at the firms he has worked with by bringing his smart ideas and understanding of what customers want. At BlackRock, he helped make their exchange-traded funds (ETFs) very popular. ETFs are like baskets of stocks that people can buy and sell easily. Salim used his knowledge to help BlackRock grow and make more money. He was good at figuring out what investors wanted and made sure BlackRock's ETFs met those needs. This helped BlackRock become a leader in the [ETF](/wiki/etf-trading-strategies) market.
 
 Before BlackRock, Salim worked at Visa and helped them create new products and services. He used his understanding of what customers wanted to help Visa grow and make more money. Salim's time at Visa showed how good he is at making things that people like and need. His work at both BlackRock and Visa shows that he is very good at his job and has helped these big companies do well. By focusing on what customers need, Salim has been able to influence the investment strategies at these firms in a positive way.
 
@@ -52,7 +52,7 @@ After the iShares deal, Salim worked hard to make BlackRock's ETFs even better. 
 
 ## How does Salim Ramji approach risk management in his investment decisions?
 
-Salim Ramji thinks about risk management by understanding what investors want and need. He knows that people want to make money but also want to be safe. So, he makes sure that the investments he helps create, like exchange-traded funds (ETFs) at BlackRock, are not too risky. He looks at different kinds of risks, like market risk and liquidity risk, and tries to balance them so that investors can feel secure.
+Salim Ramji thinks about risk management by understanding what investors want and need. He knows that people want to make money but also want to be safe. So, he makes sure that the investments he helps create, like exchange-traded funds (ETFs) at BlackRock, are not too risky. He looks at different kinds of risks, like market risk and [liquidity](/wiki/liquidity-risk-premium) risk, and tries to balance them so that investors can feel secure.
 
 Salim also uses his knowledge from working at different companies to help manage risk. At Visa, he learned about what customers want and how to make products that meet their needs. He uses this understanding to make sure that the investments he works on are not only safe but also useful for people. By focusing on what customers need and being careful about risks, Salim helps make smart investment choices that help companies grow and stay safe.
 

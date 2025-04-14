@@ -52,7 +52,7 @@ Lastly, some people think that if a result isn't statistically significant, it m
 
 Choosing the right statistical test for significance depends on the type of data you have and the question you're trying to answer. First, you need to know if your data is categorical (like yes/no answers) or numerical (like scores or measurements). If you're comparing two groups and your data is numerical, you might use a t-test. If your data is categorical, you might use a chi-square test. The type of data and the design of your study, like whether you're looking at one group or comparing multiple groups, will help you pick the right test.
 
-Next, think about what you want to find out. Are you looking to see if there's a difference between groups, or are you trying to see if there's a relationship between two variables? For differences, tests like t-tests or ANOVA are common. For relationships, you might use correlation or regression analysis. It's also important to check if your data meets the assumptions of the test you're thinking about using. For example, some tests assume your data is normally distributed. If it's not, you might need a different test. Talking to a statistician or using a statistics guide can help you make the right choice.
+Next, think about what you want to find out. Are you looking to see if there's a difference between groups, or are you trying to see if there's a relationship between two variables? For differences, tests like t-tests or ANOVA are common. For relationships, you might use correlation or regression analysis. It's also important to check if your data meets the assumptions of the test you're thinking about using. For example, some tests assume your data is normally distributed. If it's not, you might need a different test. Talking to a statistician or using a [statistics](/wiki/bayesian-statistics) guide can help you make the right choice.
 
 ## What is the role of sample size in determining statistical significance?
 
@@ -88,7 +88,7 @@ Another development is the increased use of simulation-based methods like bootst
 
 ## What are some examples of P-Value application in trading?
 
-In algorithmic trading, p-values are crucial for evaluating the effectiveness of trading strategies. This section examines how p-values are applied in practice, focusing on their role in statistical hypothesis testing to assess trading strategies' performance against market benchmarks. 
+In [algorithmic trading](/wiki/algorithmic-trading), p-values are crucial for evaluating the effectiveness of trading strategies. This section examines how p-values are applied in practice, focusing on their role in statistical hypothesis testing to assess trading strategies' performance against market benchmarks. 
 
 Let's consider a hypothetical trading scenario. Suppose a trader has developed a new algorithm that predicts stock movements and wants to evaluate its performance using historical market data. The objective is to determine if the observed returns from the strategy are significantly different from what could be expected due to random chance, as measured against a benchmark, such as the S&P 500 index.
 

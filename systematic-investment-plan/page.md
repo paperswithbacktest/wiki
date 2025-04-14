@@ -82,7 +82,7 @@ Another way to optimize your SIP strategy is by diversifying your investments. I
 
 ## What are Systematic Investment Plans (SIPs) and how do they work?
 
-A Systematic Investment Plan (SIP) is a strategy designed to promote disciplined investment habits by allocating a fixed sum of money regularly into mutual funds, stocks, or other financial assets. This consistent investment approach aims to benefit from the concept of dollar-cost averaging, which helps mitigate the effects of market volatility.
+A Systematic Investment Plan (SIP) is a strategy designed to promote disciplined investment habits by allocating a fixed sum of money regularly into mutual funds, stocks, or other financial assets. This consistent investment approach aims to benefit from the concept of dollar-cost averaging, which helps mitigate the effects of market [volatility](/wiki/volatility-trading-strategies).
 
 ### Mechanics of SIPs
 

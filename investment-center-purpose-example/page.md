@@ -26,7 +26,7 @@ An investment center is different from a profit center and a cost center because
 
 In a profit center, managers focus on making sales and controlling costs to earn a profit. They can decide how to sell products and services, but they don't decide on big investments like buying new factories or starting new projects. Their success is measured by how much profit they make. A cost center is different because managers there only focus on controlling costs. They don't make decisions about sales or investments. Their job is to keep costs low, and they are judged on how well they do that.
 
-So, an investment center gives managers more freedom to make big decisions about spending money to grow the business. A profit center focuses on earning a profit through sales and cost control, while a cost center focuses only on keeping costs down. Each type of center has a different role in helping the business succeed.
+So, an investment center gives managers more freedom to make big decisions about spending money to grow the business. A profit center focuses on [earning](/wiki/earning-announcement) a profit through sales and cost control, while a cost center focuses only on keeping costs down. Each type of center has a different role in helping the business succeed.
 
 ## What are the key performance indicators (KPIs) used to evaluate an investment center?
 
@@ -66,7 +66,7 @@ For example, if an investment center spends $1 million on a new project and make
 
 ## What are the challenges in managing an investment center?
 
-Managing an investment center can be hard because managers have to make big decisions about spending money. They need to choose which projects or machines to invest in, and they have to make sure these choices will make more money than they cost. This means they have to be good at guessing what will happen in the future and picking the best options. If they make a bad choice, it can cost the company a lot of money.
+Managing an investment center can be hard because managers have to make big decisions about spending money. They need to choose which projects or machines to invest in, and they have to make sure these choices will make more money than they cost. This means they have to be good at guessing what will happen in the future and [picking](/wiki/asset-class-picking) the best options. If they make a bad choice, it can cost the company a lot of money.
 
 Another challenge is that managers need to keep track of many different things at once. They have to watch how much money they are spending, how much profit they are making, and how well their investments are doing. They also need to make sure they are following the company's rules and goals. It can be tough to balance all these things and still make the best decisions for the company.
 
@@ -80,7 +80,7 @@ Another way to make an investment center better is by making sure everyone works
 
 To make an investment center work better, managers can use advanced ways to pick the best projects. They can use tools like data analysis and forecasting to look at a lot of information and guess what will happen in the future. This helps them see which projects will make the most money. They can also use portfolio management to spread their money across different kinds of investments. This way, if one investment doesn't do well, the others might still make money. Another good idea is to use performance dashboards to keep track of how well their investments are doing in real-time. This helps them make quick changes if something isn't working.
 
-Another way to make an investment center more efficient is by using technology to help with decision-making. For example, they can use artificial intelligence (AI) and machine learning to look at a lot of data and find patterns that humans might miss. This can help them make better choices about where to spend money. They can also use automation to handle routine tasks, so managers can focus on the big decisions. Working closely with other parts of the company is also important. By sharing information and working together, the investment center can make sure its plans fit with the company's overall goals and use resources in the best way possible.
+Another way to make an investment center more efficient is by using technology to help with decision-making. For example, they can use [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning) to look at a lot of data and find patterns that humans might miss. This can help them make better choices about where to spend money. They can also use automation to handle routine tasks, so managers can focus on the big decisions. Working closely with other parts of the company is also important. By sharing information and working together, the investment center can make sure its plans fit with the company's overall goals and use resources in the best way possible.
 
 ## What is an Investment Center Overview?
 

@@ -100,7 +100,7 @@ where $CF_t$ is the cash flow in year $t$ and $r$ is the discount rate.
 
 Additionally, understanding the broader market dynamics is crucial. For instance, investing in cyclical stocks or sectors may yield high returns when the economy rebounds. Conversely, focusing on sectors with inelastic demand, such as utilities or consumer staples, can provide stability if the downturn persists. 
 
-A strategic, informed approach allows investors to harness the opportunities presented by bear markets, ultimately leading to significant financial gains as the market recovers. Such gains are not without risk, and it is essential for investors to maintain a diversified portfolio and a long-term perspective to weather further volatility.
+A strategic, informed approach allows investors to harness the opportunities presented by bear markets, ultimately leading to significant financial gains as the market recovers. Such gains are not without risk, and it is essential for investors to maintain a diversified portfolio and a long-term perspective to weather further [volatility](/wiki/volatility-trading-strategies).
 
 ## References & Further Reading
 

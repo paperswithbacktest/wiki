@@ -18,7 +18,7 @@ Backtesting is important because it lets you check your trading strategy without
 
 Backtesting is important for trading strategies because it lets you practice without losing real money. Imagine you have a plan for buying and selling stocks. Instead of using your savings right away, you can use a computer to see how your plan would have worked with old stock prices. This way, you can find out if your strategy could make money or if you need to change it before you start trading for real.
 
-By backtesting, you can also learn a lot about how markets work and how your strategy reacts to different situations. It's like doing homework before a test. You can see what happens when the market goes up, down, or stays the same. This helps you make your plan stronger and more ready for the real world. But remember, just because a strategy worked in the past doesn't mean it will work in the future. Markets can change, so it's good to keep learning and adjusting your strategy.
+By [backtesting](/wiki/backtesting), you can also learn a lot about how markets work and how your strategy reacts to different situations. It's like doing homework before a test. You can see what happens when the market goes up, down, or stays the same. This helps you make your plan stronger and more ready for the real world. But remember, just because a strategy worked in the past doesn't mean it will work in the future. Markets can change, so it's good to keep learning and adjusting your strategy.
 
 ## How do you perform a basic backtest?
 
@@ -60,7 +60,7 @@ By doing forward testing, you can see if your strategy needs any changes before 
 
 ## What software tools are available for strategy backtesting?
 
-There are many software tools that can help you do strategy backtesting. Some popular ones are MetaTrader 4 and 5, which are used a lot for trading forex and other markets. These tools let you write your trading rules in a special language called MQL4 or MQL5, and then they test your rules on old market data. Another tool is TradingView, which is great because it's easy to use and you can share your strategies with other people. It has a lot of old data and lets you test your ideas without needing to know how to code.
+There are many software tools that can help you do strategy backtesting. Some popular ones are MetaTrader 4 and 5, which are used a lot for trading [forex](/wiki/forex-system) and other markets. These tools let you write your trading rules in a special language called MQL4 or MQL5, and then they test your rules on old market data. Another tool is TradingView, which is great because it's easy to use and you can share your strategies with other people. It has a lot of old data and lets you test your ideas without needing to know how to code.
 
 Other tools like Amibroker and NinjaTrader are also used a lot. Amibroker is good for people who like to use a lot of different data and make their strategies very detailed. NinjaTrader is popular among traders who want to test strategies for futures and forex markets. Both of these tools let you write your trading rules in special languages and test them on past data. They also have features that help you see how well your strategy might work in the future.
 
@@ -96,7 +96,7 @@ $$
 \text{Sharpe Ratio} = \frac{{\text{Average Return} - \text{Risk-Free Rate}}}{{\text{Standard Deviation of Return}}}
 $$
 
-   A higher Sharpe Ratio indicates a more desirable risk-reward balance. It helps investors understand how much excess return they are [earning](/wiki/earning-announcement) for the additional volatility endured by holding a riskier asset.
+   A higher Sharpe Ratio indicates a more desirable risk-reward balance. It helps investors understand how much excess return they are [earning](/wiki/earning-announcement) for the additional [volatility](/wiki/volatility-trading-strategies) endured by holding a riskier asset.
 
 2. **Drawdown**: This metric measures the decline from a peak to a trough of a portfolio, before a new peak is attained. Drawdowns are an indicator of downside risk and can be crucial for understanding the vulnerability of a strategy to losses. Max drawdown, or the largest drop, highlights the potential loss one might experience.
 

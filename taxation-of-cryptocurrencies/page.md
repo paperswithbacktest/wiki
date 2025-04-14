@@ -18,7 +18,7 @@ Traditional currency, like dollars or euros, is issued and controlled by governm
 
 Understanding the taxation of cryptocurrencies is important because it helps you follow the law and avoid getting into trouble. When you buy, sell, or trade cryptocurrencies, you might have to pay taxes on any money you make, just like you do with other kinds of income. If you don't report your cryptocurrency earnings correctly, you could face fines or even legal problems. Knowing the tax rules can help you stay out of trouble and keep more of your money.
 
-It's also important because it can help you plan better financially. If you know how much tax you'll have to pay on your cryptocurrency transactions, you can make smarter decisions about when to buy or sell. This can help you save money and make your investments more profitable. Plus, tax laws about cryptocurrencies can be complicated and change often, so understanding them can help you stay updated and make the best choices for your financial situation.
+It's also important because it can help you plan better financially. If you know how much tax you'll have to pay on your [cryptocurrency](/wiki/cryptocurrency) transactions, you can make smarter decisions about when to buy or sell. This can help you save money and make your investments more profitable. Plus, tax laws about cryptocurrencies can be complicated and change often, so understanding them can help you stay updated and make the best choices for your financial situation.
 
 ## How are cryptocurrencies classified for tax purposes in different countries?
 
@@ -46,7 +46,7 @@ After you report the cryptocurrencies as income, any future transactions with th
 
 ## How should cryptocurrency mining be reported for tax purposes?
 
-When you mine cryptocurrencies, you have to report the value of the cryptocurrencies you earn as income. The value is based on what the cryptocurrency is worth on the day you mine it. For example, if you mine 1 Bitcoin and it's worth $40,000 that day, you need to report $40,000 as income on your taxes. This is similar to earning money from a job, so you'll owe income tax on what you mine.
+When you mine cryptocurrencies, you have to report the value of the cryptocurrencies you earn as income. The value is based on what the cryptocurrency is worth on the day you mine it. For example, if you mine 1 Bitcoin and it's worth $40,000 that day, you need to report $40,000 as income on your taxes. This is similar to [earning](/wiki/earning-announcement) money from a job, so you'll owe income tax on what you mine.
 
 After you report the mined cryptocurrencies as income, any future transactions with them, like selling or trading them, could lead to capital gains or losses. If you sell the Bitcoin later for more than $40,000, you'll have a capital gain and might owe more taxes. If you sell it for less, you could have a capital loss, which might help reduce your taxable income. It's important to keep good records of when you mine cryptocurrencies and their value at that time to correctly report your taxes.
 

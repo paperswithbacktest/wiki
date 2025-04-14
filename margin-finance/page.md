@@ -135,7 +135,7 @@ This code simulates the impact of different price changes on the required margin
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). 'Algorithms for Hyper-Parameter Optimization.' Advances in Neural Information Processing Systems 24. This paper discusses methodologies for optimizing hyperparameters, critical for refining algorithmic trading strategies by improving model performance and computational efficiency.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). 'Algorithms for Hyper-Parameter Optimization.' Advances in Neural Information Processing Systems 24. This paper discusses methodologies for optimizing hyperparameters, critical for refining [algorithmic trading](/wiki/algorithmic-trading) strategies by improving model performance and computational efficiency.
 
 Lopez de Prado, M. (n.d.). 'Advances in Financial Machine Learning.' This book provides insights into the intersection of machine learning and finance, offering tools and techniques for developing advanced trading algorithms capable of leveraging margin effectively.
 

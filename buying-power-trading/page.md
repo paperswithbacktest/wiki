@@ -89,7 +89,7 @@ In a standard margin account, buying power is typically calculated as twice the 
 The formula to calculate buying power (BP) in a margin account is typically:
 
 $$
-BP = \text{Equity} \times \text{Leverage factor}
+BP = \text{Equity} \times \text{Leverage [factor](/wiki/factor-investing)}
 $$
 
 Where:
@@ -114,7 +114,7 @@ Strategically, investors can utilize buying power to diversify portfolios or cap
 
 ## How can one combine buying power, excess equity, and algorithmic trading?
 
-Combining buying power, excess equity, and algorithmic trading can create powerful synergies in the pursuit of superior financial outcomes. Traders who strategically integrate these elements can enhance their market engagement and manage risks effectively. Understanding each operational component in this process is crucial for crafting efficient trading strategies.
+Combining buying power, excess equity, and [algorithmic trading](/wiki/algorithmic-trading) can create powerful synergies in the pursuit of superior financial outcomes. Traders who strategically integrate these elements can enhance their market engagement and manage risks effectively. Understanding each operational component in this process is crucial for crafting efficient trading strategies.
 
 ### Strategic Integration
 
@@ -155,7 +155,7 @@ Successful traders often follow best practices when combining these tools:
 
 3. **Dynamic Adjustment**: Implement algorithms capable of real-time adjustments based on market conditions and individual trading account status.
 
-For instance, a case study of a trading firm utilizing these elements showed enhanced returns by dynamically adjusting leverage based on real-time buying power analytics and algorithmic signals. The firm mitigated risks by setting tight stop losses and continuously monitoring market volatility.
+For instance, a case study of a trading firm utilizing these elements showed enhanced returns by dynamically adjusting leverage based on real-time buying power analytics and algorithmic signals. The firm mitigated risks by setting tight stop losses and continuously monitoring market [volatility](/wiki/volatility-trading-strategies).
 
 ### Avoiding Pitfalls
 

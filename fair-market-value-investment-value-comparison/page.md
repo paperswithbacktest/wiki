@@ -42,7 +42,7 @@ In short, fair market value is about finding a price that's fair for everyone, w
 
 ## In what scenarios is fair market value used?
 
-Fair market value is used in many situations where people need to find a fair price for something. For example, when people are selling their homes, they often need to know the fair market value to make sure they are asking a good price. Real estate agents and appraisers help figure this out by looking at what similar homes in the area have sold for recently. This value is also important for tax purposes. When someone gives a gift or leaves property to someone else after they die, the government might use fair market value to figure out how much tax to charge.
+Fair market value is used in many situations where people need to find a fair price for something. For example, when people are selling their homes, they often need to know the fair market value to make sure they are asking a good price. Real estate [agents](/wiki/agents) and appraisers help figure this out by looking at what similar homes in the area have sold for recently. This value is also important for tax purposes. When someone gives a gift or leaves property to someone else after they die, the government might use fair market value to figure out how much tax to charge.
 
 Another common use of fair market value is in business. When a company wants to sell its assets or the whole business, they need to know what a fair price would be. This helps them get a good deal and makes sure they are not selling for too little or asking too much. Fair market value is also used in legal situations, like when property is being divided in a divorce or when someone is claiming damages for a loss. In these cases, knowing the fair market value helps everyone agree on a fair outcome.
 
@@ -162,7 +162,7 @@ Investment value plays a critical role in portfolio management. By understanding
 
 ## What are the interconnections between valuation, investment, and algo trading?
 
-In modern finance, the interconnections between fair market value (FMV), financial valuation, investment value, and algorithmic trading are pivotal in shaping investment strategies and market operations. 
+In modern finance, the interconnections between fair market value (FMV), financial valuation, investment value, and [algorithmic trading](/wiki/algorithmic-trading) are pivotal in shaping investment strategies and market operations. 
 
 Valuation is the cornerstone for both fair market value and investment value, providing a quantitative foundation for assessing the worth of assets. Valuation models such as discounted cash flow (DCF) analysis and comparable company analysis serve as the basis for estimating FMV. These models incorporate various financial metrics and projections to arrive at what the market agrees is a fair price in a competitive and open environment. For instance, the formula for DCF is:
 

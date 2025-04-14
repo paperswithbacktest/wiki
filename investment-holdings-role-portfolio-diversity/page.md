@@ -36,7 +36,7 @@ Having a diverse portfolio can also help you manage risk better. When you hold o
 
 Common types of investment holdings include stocks, bonds, and real estate. Stocks are pieces of ownership in a company. When you buy a stock and hold onto it, you hope the company will do well and the stock price will go up. You might also get dividends, which are payments the company makes to its shareholders. Bonds are like loans you give to a company or government. They pay you back with interest over time. Real estate means owning property, like houses or buildings. You can hold onto real estate hoping its value will increase or rent it out for regular income.
 
-Other types of investment holdings include mutual funds and exchange-traded funds (ETFs). These are collections of stocks, bonds, or other assets. When you invest in a mutual fund or ETF, you're buying a little bit of many different investments at once. This can be a good way to spread out your risk. Finally, there are also alternative investments like art, collectibles, or private equity. These can be riskier but might offer big rewards if they go up in value over time.
+Other types of investment holdings include mutual funds and exchange-traded funds (ETFs). These are collections of stocks, bonds, or other assets. When you invest in a mutual fund or [ETF](/wiki/etf-trading-strategies), you're buying a little bit of many different investments at once. This can be a good way to spread out your risk. Finally, there are also alternative investments like art, collectibles, or private equity. These can be riskier but might offer big rewards if they go up in value over time.
 
 ## How do you evaluate the performance of an investment holding?
 

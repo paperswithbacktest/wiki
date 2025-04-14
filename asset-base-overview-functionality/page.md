@@ -122,7 +122,7 @@ Understanding these fundamentals of financial assets is essential for effective 
 
 Mathematical models play an essential role in financial analysis and risk management. They provide the necessary framework for pricing derivatives, evaluating portfolio risks, and gaining insights into market behavior. Two prominent models, the Black-Scholes model and Monte Carlo simulations, are widely used in these processes.
 
-The Black-Scholes model, introduced by Fischer Black and Myron Scholes in 1973, is a mathematical model for pricing European-style options. It assumes that the price of the underlying asset follows a geometric Brownian motion with constant volatility and interest rates. The Black-Scholes formula is expressed as:
+The Black-Scholes model, introduced by Fischer Black and Myron Scholes in 1973, is a mathematical model for pricing European-style options. It assumes that the price of the underlying asset follows a geometric Brownian motion with constant [volatility](/wiki/volatility-trading-strategies) and interest rates. The Black-Scholes formula is expressed as:
 
 $$
 C = S_0 N(d_1) - Ke^{-rt} N(d_2)
@@ -147,7 +147,7 @@ Together, these quantitative models underpin systematic and robust financial str
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). 'Algorithms for Hyper-Parameter Optimization.' Advances in Neural Information Processing Systems. This work explores various algorithms designed to optimize hyper-parameters in machine learning models, which are crucial for enhancing the performance of algorithmic trading systems. By employing these algorithms, financial professionals can fine-tune trading strategies to better match market conditions.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). 'Algorithms for Hyper-Parameter Optimization.' Advances in Neural Information Processing Systems. This work explores various algorithms designed to optimize hyper-parameters in [machine learning](/wiki/machine-learning) models, which are crucial for enhancing the performance of [algorithmic trading](/wiki/algorithmic-trading) systems. By employing these algorithms, financial professionals can fine-tune trading strategies to better match market conditions.
 
 Lopez de Prado, M. (2018). 'Advances in Financial Machine Learning.' Wiley. This comprehensive text discusses modern techniques in financial machine learning, emphasizing their application to create more efficient and effective trading algorithms. Lopez de Prado provides insight into the critical role of machine learning in developing strategies that can adapt to changing market dynamics, a concept integral to contemporary asset management and algorithmic trading.
 

@@ -36,7 +36,7 @@ The main difference between the Sortino Ratio and the Sharpe Ratio is what kind 
 
 The Treynor Ratio is a way to see how well a mutual fund is doing when you think about the risk it's taking. It's named after Jack Treynor, who came up with it. The ratio looks at the fund's return above what you'd get from a risk-free investment, like a U.S. Treasury bond, and divides that by the fund's beta. Beta is a measure of how much the fund's returns move with the market. A higher Treynor Ratio means the fund is giving you more return for the risk it's taking, which is good.
 
-The Treynor Ratio is different from the Sharpe Ratio and the Sortino Ratio because it uses beta instead of standard deviation to measure risk. Beta only looks at how the fund moves with the market, not all the ups and downs like standard deviation does. This makes the Treynor Ratio really useful if you want to know how a fund does compared to the overall market. It helps you see if the fund's manager is good at picking investments that beat the market while taking on the right amount of risk.
+The Treynor Ratio is different from the Sharpe Ratio and the Sortino Ratio because it uses beta instead of standard deviation to measure risk. Beta only looks at how the fund moves with the market, not all the ups and downs like standard deviation does. This makes the Treynor Ratio really useful if you want to know how a fund does compared to the overall market. It helps you see if the fund's manager is good at [picking](/wiki/asset-class-picking) investments that beat the market while taking on the right amount of risk.
 
 ## How is the Jensen's Alpha used to evaluate the performance of a mutual fund relative to a benchmark?
 
@@ -48,7 +48,7 @@ This measure is really helpful because it tells you if the fund manager is good 
 
 The Information Ratio helps you see how good a fund manager is at making more money than a benchmark, like the S&P 500, while keeping risk in check. It does this by looking at the extra return the fund gets, called "active return," and dividing it by how much that extra return jumps around, called "tracking error." A higher Information Ratio means the manager is doing a great job at beating the benchmark without taking on too much extra risk.
 
-This ratio is super useful because it tells you if the fund manager's choices are really adding value. If the Information Ratio is high, it shows the manager is skilled at picking investments that do better than the market. This can help you decide if it's worth paying extra fees for a managed fund, because a high Information Ratio suggests the manager is earning their keep by generating good returns for the risk they're taking.
+This ratio is super useful because it tells you if the fund manager's choices are really adding value. If the Information Ratio is high, it shows the manager is skilled at picking investments that do better than the market. This can help you decide if it's worth paying extra fees for a managed fund, because a high Information Ratio suggests the manager is [earning](/wiki/earning-announcement) their keep by generating good returns for the risk they're taking.
 
 ## How can the Beta of a mutual fund be used to understand its market risk?
 
@@ -76,7 +76,7 @@ Another useful model is the Black-Litterman Model, which mixes what you believe 
 
 ## How do multi-factor models enhance the evaluation of mutual fund performance and risk?
 
-Multi-factor models help you understand a mutual fund's performance and risk better by looking at more than just how it moves with the market. They consider different things that can affect a fund's returns, like the size of the companies it invests in, how much those companies grow, and even things like how much they invest in value stocks versus growth stocks. By looking at all these factors, multi-factor models give you a fuller picture of why a fund might do well or not so well. This can help you see if the fund's performance is because of smart choices by the fund manager or just because it's riding the market's ups and downs.
+Multi-[factor](/wiki/factor-investing) models help you understand a mutual fund's performance and risk better by looking at more than just how it moves with the market. They consider different things that can affect a fund's returns, like the size of the companies it invests in, how much those companies grow, and even things like how much they invest in value stocks versus [growth stocks](/wiki/growth-stocks). By looking at all these factors, multi-factor models give you a fuller picture of why a fund might do well or not so well. This can help you see if the fund's performance is because of smart choices by the fund manager or just because it's riding the market's ups and downs.
 
 Using multi-factor models can also help you figure out the risks a mutual fund might face. For example, if a fund invests a lot in small companies, it might be riskier because small companies can be more affected by economic changes. Multi-factor models can show you how sensitive the fund is to these different risks. This way, you can pick a fund that matches your comfort level with risk and your investment goals. By considering more than just one factor, these models give you a clearer idea of what to expect from your investment.
 

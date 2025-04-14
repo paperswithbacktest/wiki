@@ -18,7 +18,7 @@ When you want to use cryptocurrency, you need a digital wallet to store it. This
 
 The most common cryptocurrency is Bitcoin. It was the first one created and is the most well-known. People use it to buy things online, and it's accepted by many businesses. Bitcoin is often called "digital gold" because people think it's a good way to store value, like gold.
 
-Another popular cryptocurrency is Ethereum. It's different from Bitcoin because it can do more than just be a digital currency. Ethereum has something called "smart contracts," which are like digital agreements that automatically do what they're supposed to do when certain conditions are met. This makes Ethereum useful for things like creating new types of digital money or running online services.
+Another popular [cryptocurrency](/wiki/cryptocurrency) is Ethereum. It's different from Bitcoin because it can do more than just be a digital currency. Ethereum has something called "smart contracts," which are like digital agreements that automatically do what they're supposed to do when certain conditions are met. This makes Ethereum useful for things like creating new types of digital money or running online services.
 
 Other common cryptocurrencies include Litecoin, which is similar to Bitcoin but faster and cheaper to use, and Ripple, which is often used by banks to move money around the world quickly. These cryptocurrencies, along with Bitcoin and Ethereum, make up a big part of the cryptocurrency world.
 
@@ -42,7 +42,7 @@ Another way to invest in cryptocurrency is through something called trading. Tra
 
 ## What are the risks associated with investing in cryptocurrency?
 
-One big risk of investing in cryptocurrency is that its value can go up and down a lot. This is called volatility. Sometimes, the price of a cryptocurrency can change a lot in just one day. If you buy a cryptocurrency and its value goes down, you could lose money. This is different from investing in things like stocks or bonds, which usually don't change as much in price. Because of this, investing in cryptocurrency can be riskier than other types of investments.
+One big risk of investing in cryptocurrency is that its value can go up and down a lot. This is called [volatility](/wiki/volatility-trading-strategies). Sometimes, the price of a cryptocurrency can change a lot in just one day. If you buy a cryptocurrency and its value goes down, you could lose money. This is different from investing in things like stocks or bonds, which usually don't change as much in price. Because of this, investing in cryptocurrency can be riskier than other types of investments.
 
 Another risk is that cryptocurrencies are not controlled by banks or governments. This means there's no one to help you if something goes wrong. If you lose your digital wallet or someone steals your cryptocurrency, it can be very hard to get it back. Also, some people use cryptocurrencies for illegal things, which can make them less safe to use. It's important to be careful and do a lot of research before you decide to invest in cryptocurrency.
 

@@ -22,7 +22,7 @@ Also, knowing the yield helps investors compare inflation-adjusted bonds with ot
 
 ## How does inflation affect bond yields?
 
-Inflation can change how much money you get from bonds. When inflation goes up, the value of money goes down. This means that the fixed payments you get from regular bonds are worth less. So, to make up for this, people who lend money (bond investors) want higher interest rates. This makes bond yields go up because the yield is the interest rate you get from the bond.
+Inflation can change how much money you get from bonds. When inflation goes up, the value of money goes down. This means that the fixed payments you get from regular bonds are worth less. So, to make up for this, people who lend money (bond investors) want higher interest rates. This makes bond yields go up because the yield is the [interest rate](/wiki/interest-rate-trading-strategies) you get from the bond.
 
 Inflation-adjusted bonds work differently. These bonds change their value based on inflation. If inflation goes up, the bond's payments go up too. This means the yield stays about the same in real terms, because the bond keeps up with inflation. So, with inflation-adjusted bonds, the yield doesn't change much even when inflation changes.
 

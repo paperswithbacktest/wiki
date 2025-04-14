@@ -70,7 +70,7 @@ But when the economy slows down or goes into a recession, large cap stocks can s
 
 ## What role do large cap stocks play in index funds and ETFs?
 
-Large cap stocks are very important in index funds and ETFs. These funds are made to follow the performance of a big group of stocks, like the S&P 500. Since large cap stocks are from big companies, they make up a big part of these indexes. For example, companies like Apple, Microsoft, and Amazon are in the S&P 500, so they help decide how well the index does. When you buy shares in an index fund or ETF, you are buying a little bit of all the stocks in the index, including the large cap ones.
+Large cap stocks are very important in index funds and ETFs. These funds are made to follow the performance of a big group of stocks, like the S&P 500. Since large cap stocks are from big companies, they make up a big part of these indexes. For example, companies like Apple, Microsoft, and Amazon are in the S&P 500, so they help decide how well the index does. When you buy shares in an index fund or [ETF](/wiki/etf-trading-strategies), you are buying a little bit of all the stocks in the index, including the large cap ones.
 
 Because large cap stocks are so important in these funds, they can affect how the whole fund does. If large cap stocks go up, the index fund or ETF usually goes up too. But if they go down, the fund can go down as well. This makes large cap stocks a big part of why people like index funds and ETFs. They are seen as a safe and easy way to invest in the stock market, and large cap stocks help make them that way.
 

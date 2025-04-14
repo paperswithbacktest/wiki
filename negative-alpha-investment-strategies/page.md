@@ -40,7 +40,7 @@ Over time, even a small negative alpha can add up and make a big difference. If 
 
 ## What are common causes of negative alpha in investment portfolios?
 
-Negative alpha in investment portfolios can happen for a few reasons. One big reason is picking the wrong investments. If you choose stocks or funds that don't do as well as the market, your portfolio will have a negative alpha. Sometimes, this happens because the companies you invest in face problems like bad management or losing money. Other times, it's because the whole industry they're in is struggling.
+Negative alpha in investment portfolios can happen for a few reasons. One big reason is [picking](/wiki/asset-class-picking) the wrong investments. If you choose stocks or funds that don't do as well as the market, your portfolio will have a negative alpha. Sometimes, this happens because the companies you invest in face problems like bad management or losing money. Other times, it's because the whole industry they're in is struggling.
 
 Another reason for negative alpha is high fees. If you pay a lot to invest, like high management fees for a mutual fund, it can eat into your returns. Even if the investments themselves do okay, the fees can make your overall performance worse than the market. It's important to keep an eye on how much you're paying to invest because those costs can add up over time.
 
@@ -132,7 +132,7 @@ else:
 
 ```
 
-Moreover, by continuously monitoring these metrics, algorithmic trading systems can rapidly respond to changing market conditions, thereby safeguarding the portfolio's return potential. This dynamic capability not only mitigates risk but also ensures that the trading strategy remains aligned with the investor's risk tolerance and market forecasts.
+Moreover, by continuously monitoring these metrics, [algorithmic trading](/wiki/algorithmic-trading) systems can rapidly respond to changing market conditions, thereby safeguarding the portfolio's return potential. This dynamic capability not only mitigates risk but also ensures that the trading strategy remains aligned with the investor's risk tolerance and market forecasts.
 
 In conclusion, the integration of negative alpha in algorithmic trading serves as a pivotal tool to proactively manage underperforming assets, adjust strategies, and maintain an optimized balance between risk and return. This functionality underscores the importance of advanced algorithmic processes in the ever-evolving landscape of financial markets.
 

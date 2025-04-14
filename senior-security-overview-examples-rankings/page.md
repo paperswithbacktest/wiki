@@ -18,7 +18,7 @@ In simple terms, think of senior security as being at the front of the line when
 
 Senior security is important because it helps companies borrow money more easily. When a company needs to borrow money, it can offer senior securities to investors. These securities are safer for investors because they get paid back first if the company has trouble. This makes investors more willing to lend money to the company, even if it's a bit risky. So, senior securities help companies get the money they need to grow and do new projects.
 
-Senior security is also important for investors who don't want to take big risks. Some people want to invest their money but don't want to lose it if the company they invest in has problems. Senior securities give these investors a safer option. They know that if the company goes bankrupt, they will get their money back before others. This makes senior securities a good choice for people who want to keep their money safe while still earning some interest.
+Senior security is also important for investors who don't want to take big risks. Some people want to invest their money but don't want to lose it if the company they invest in has problems. Senior securities give these investors a safer option. They know that if the company goes bankrupt, they will get their money back before others. This makes senior securities a good choice for people who want to keep their money safe while still [earning](/wiki/earning-announcement) some interest.
 
 ## What are the basic types of senior security?
 
@@ -78,7 +78,7 @@ Another way to include senior security in national security is by making sure se
 
 In the future, we can expect to see more smart technology being used to keep seniors safe. Things like smart home devices and wearable health monitors will become even more advanced. These devices will be able to do more things, like automatically calling for help if a senior falls or if their health changes suddenly. They will also be easier to use, so seniors can feel more comfortable using them. This will help seniors live more independently and safely in their own homes.
 
-Another trend we might see is more use of artificial intelligence (AI) to help with senior security. AI can be used to watch over seniors and notice if something is wrong, like if they are not moving around as much as usual. It can also help with things like reminding seniors to take their medicine or to eat healthy meals. By using AI, we can make sure seniors get the help they need quickly and stay safe and healthy. These innovations will make a big difference in how we take care of our older family members and friends.
+Another trend we might see is more use of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) to help with senior security. AI can be used to watch over seniors and notice if something is wrong, like if they are not moving around as much as usual. It can also help with things like reminding seniors to take their medicine or to eat healthy meals. By using AI, we can make sure seniors get the help they need quickly and stay safe and healthy. These innovations will make a big difference in how we take care of our older family members and friends.
 
 ## References & Further Reading
 

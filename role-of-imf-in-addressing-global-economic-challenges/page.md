@@ -78,7 +78,7 @@ The IMF also works with other big groups, like the World Bank and the United Nat
 
 ## What are the future challenges the IMF might face in maintaining global economic stability?
 
-In the future, the IMF might face big challenges in keeping the world's economy stable. One big problem is climate change. It can cause natural disasters that hurt countries' economies. The IMF will need to help countries get ready for these disasters and switch to cleaner energy. Another challenge is new technology. Things like artificial intelligence and digital money can change how the economy works. The IMF will need to learn about these changes and help countries use them in good ways.
+In the future, the IMF might face big challenges in keeping the world's economy stable. One big problem is climate change. It can cause natural disasters that hurt countries' economies. The IMF will need to help countries get ready for these disasters and switch to cleaner energy. Another challenge is new technology. Things like [artificial intelligence](/wiki/ai-artificial-intelligence) and digital money can change how the economy works. The IMF will need to learn about these changes and help countries use them in good ways.
 
 Another challenge is big debts. Some countries owe a lot of money and might not be able to pay it back. The IMF will need to help these countries manage their debts and grow their economies. Also, the world's economy is more connected now. Problems in one country can quickly affect others. The IMF will need to watch the world's economy closely and help countries work together to stop big problems before they start. By doing these things, the IMF can help keep the world's economy stable and help countries grow and develop.
 

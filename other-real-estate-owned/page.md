@@ -36,7 +36,7 @@ Another problem is that OREO properties can tie up the bank's money. Instead of 
 
 ## How do banks typically manage and dispose of OREO properties?
 
-Banks usually want to get rid of OREO properties as fast as they can. They don't want to be in the real estate business, so they try to sell these properties quickly. To do this, they might hire a real estate agent to help find buyers. Sometimes, they fix up the property a bit to make it look nicer and sell faster. They might also lower the price if it's not selling, to get it off their books sooner.
+Banks usually want to get rid of OREO properties as fast as they can. They don't want to be in the real estate business, so they try to sell these properties quickly. To do this, they might hire a real estate agent to help find buyers. Sometimes, they fix up the property a bit to make it look nicer and sell faster. They might also lower the price if it's not selling, to get it off their [books](/wiki/algo-trading-books) sooner.
 
 If the property is in really bad shape, the bank might decide to sell it at an auction. This can help them get rid of it quickly, even if they don't get as much money as they hoped. Another way banks manage OREO properties is by working with special companies that buy these properties in bulk. These companies, called REO asset managers, take care of selling the properties so the bank doesn't have to. This can save the bank time and money, but they might not get the best price for each property.
 
@@ -60,7 +60,7 @@ Another risk is that OREO properties can tie up the bank's money. Instead of usi
 
 ## How can investors identify and purchase OREO properties?
 
-Investors can find OREO properties by looking at bank websites or working with real estate agents who specialize in these kinds of properties. Banks often list their OREO properties online, so investors can search these listings to find properties that interest them. Real estate agents who focus on OREO properties can also help investors find good deals and guide them through the buying process.
+Investors can find OREO properties by looking at bank websites or working with real estate [agents](/wiki/agents) who specialize in these kinds of properties. Banks often list their OREO properties online, so investors can search these listings to find properties that interest them. Real estate agents who focus on OREO properties can also help investors find good deals and guide them through the buying process.
 
 Once an investor finds an OREO property they like, they can make an offer to the bank. Banks usually want to sell these properties quickly, so they might be willing to accept a lower price than what the property is listed for. Investors should be ready to move fast because other people might also be interested in the same property. It's a good idea to have a real estate agent help with the offer and the paperwork to make sure everything goes smoothly.
 

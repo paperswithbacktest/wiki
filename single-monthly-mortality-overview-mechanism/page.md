@@ -36,7 +36,7 @@ Understanding the relationship between SMM and prepayment speed helps investors 
 
 Single Monthly Mortality (SMM) can affect how much money investors make from mortgage-backed securities. When the SMM is high, it means that more of the loans in the pool are being paid off each month. This can be good for investors because they get their money back faster, but it also means the security might not last as long as expected. If people are paying off their loans quickly, the total amount of interest that the investors earn could be less because the loans are gone sooner.
 
-On the other hand, if the SMM is low, it means that the loans are taking longer to be paid off. This can be good for investors if they want to keep earning interest over a longer time. But it also means they have to wait longer to get their money back. So, the SMM is important because it helps investors figure out how much money they might make and when they'll get it back.
+On the other hand, if the SMM is low, it means that the loans are taking longer to be paid off. This can be good for investors if they want to keep [earning](/wiki/earning-announcement) interest over a longer time. But it also means they have to wait longer to get their money back. So, the SMM is important because it helps investors figure out how much money they might make and when they'll get it back.
 
 ## Can you explain the difference between SMM and Constant Prepayment Rate (CPR)?
 
@@ -54,7 +54,7 @@ This relationship between interest rates and SMM is important for investors in m
 
 Several things can affect how quickly people pay off their loans, which is what SMM measures. One big thing is interest rates. If interest rates go down, more people might want to pay off their old loans faster so they can get new loans with lower rates. This makes the SMM go up because more people are making extra payments. On the other hand, if interest rates go up, people might not want to pay off their loans early because new loans would be more expensive. So, the SMM could go down because fewer people are making extra payments.
 
-Another factor that can change SMM is the economy. When the economy is doing well, people might have more money to pay off their loans faster, which would make the SMM go up. But if the economy is struggling, people might not have as much money, so they might not pay off their loans as quickly. This would make the SMM go down. Also, things like how easy it is to refinance a loan or how people feel about the future can affect how fast they pay off their loans, which in turn affects the SMM.
+Another [factor](/wiki/factor-investing) that can change SMM is the economy. When the economy is doing well, people might have more money to pay off their loans faster, which would make the SMM go up. But if the economy is struggling, people might not have as much money, so they might not pay off their loans as quickly. This would make the SMM go down. Also, things like how easy it is to refinance a loan or how people feel about the future can affect how fast they pay off their loans, which in turn affects the SMM.
 
 ## How can investors use SMM to assess risk?
 
@@ -76,7 +76,7 @@ Another thing that can make SMM different across loan types is how people feel a
 
 ## What advanced modeling techniques are used to predict SMM?
 
-To predict Single Monthly Mortality (SMM), experts use fancy math and computer models that look at lots of different things at the same time. They might use something called regression analysis, which helps them see how things like interest rates, the economy, and how people feel about their money can affect how quickly loans get paid off. Another cool tool they use is machine learning, which is like teaching a computer to find patterns in past data about loan payments. This can help them guess what might happen in the future with the SMM.
+To predict Single Monthly Mortality (SMM), experts use fancy math and computer models that look at lots of different things at the same time. They might use something called regression analysis, which helps them see how things like interest rates, the economy, and how people feel about their money can affect how quickly loans get paid off. Another cool tool they use is [machine learning](/wiki/machine-learning), which is like teaching a computer to find patterns in past data about loan payments. This can help them guess what might happen in the future with the SMM.
 
 These models also take into account the type of loans in the pool. For example, home loans might act differently than car loans, so the models need to think about that. They might also use something called Monte Carlo simulations, which is a way of running lots of different scenarios to see what could happen with the SMM. By using all these advanced techniques together, experts can get a better idea of how the SMM might change and help investors make smarter choices about their money.
 

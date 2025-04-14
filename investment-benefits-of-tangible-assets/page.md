@@ -44,7 +44,7 @@ Another way tangible assets help with inflation is that they can give you income
 
 Investing in tangible assets can be risky because their value can go down. For example, if you buy a house, the price of houses in that area might drop if the economy is bad or if there are too many houses for sale. Also, tangible assets like buildings and machinery can wear out over time. This means you might have to spend money to fix them or they might not be worth as much when you want to sell them.
 
-Another risk is that tangible assets are not as easy to sell quickly as stocks or bonds. If you need money fast, you might have to sell your house or gold at a lower price than you want. This is called liquidity risk. Plus, if you invest in things like art or collectibles, it can be hard to know what they are really worth. The price can change a lot depending on what people think is popular or valuable at the time.
+Another risk is that tangible assets are not as easy to sell quickly as stocks or bonds. If you need money fast, you might have to sell your house or gold at a lower price than you want. This is called [liquidity](/wiki/liquidity-risk-premium) risk. Plus, if you invest in things like art or collectibles, it can be hard to know what they are really worth. The price can change a lot depending on what people think is popular or valuable at the time.
 
 ## How does the liquidity of tangible assets compare to other types of investments?
 

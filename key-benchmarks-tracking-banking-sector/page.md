@@ -74,7 +74,7 @@ Another useful metric is the Loan Loss Provision (LLP), which is the money banks
 
 Alternative data sources help make banking sector benchmarks more accurate by giving banks more information to look at. These sources can include things like social media posts, satellite images, or even data from credit card transactions. By using this extra information, banks can see a fuller picture of how they are doing. For example, if a bank sees that people are talking a lot about their services on social media, it can use that to understand customer satisfaction better than just looking at surveys.
 
-This extra data can also help banks spot trends and risks faster. If satellite images show that a lot of new businesses are opening in an area, a bank might see that as a chance to lend more money there. Or, if credit card data shows that people are spending less, the bank might get ready for more loan defaults. By using alternative data, banks can make their benchmarks more up-to-date and accurate, helping them make better decisions and stay ahead of the competition.
+This extra data can also help banks spot trends and risks faster. If satellite images show that a lot of new businesses are opening in an area, a bank might see that as a chance to lend more money there. Or, if credit card data shows that people are spending less, the bank might get ready for more loan defaults. By using [alternative data](/wiki/best-alternative-data), banks can make their benchmarks more up-to-date and accurate, helping them make better decisions and stay ahead of the competition.
 
 ## What are some challenges faced when using benchmarks to evaluate the banking sector's health?
 

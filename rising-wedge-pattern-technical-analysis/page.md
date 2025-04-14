@@ -52,7 +52,7 @@ But, don't just rely on the Rising Wedge pattern alone. It's smart to use other 
 
 ## How can volume be used to confirm a Rising Wedge pattern?
 
-Volume can help you make sure a Rising Wedge pattern is real. As the price goes up inside the wedge, you might see the volume getting smaller. This means fewer people are buying the asset as it goes up, which can be a warning sign that the price might start to go down soon. When the price finally breaks down below the lower trend line of the wedge, you want to see a big jump in volume. This big volume tells you that a lot of people are now selling, which makes the break more believable and likely to keep going.
+Volume can help you make sure a Rising Wedge pattern is real. As the price goes up inside the wedge, you might see the [volume](/wiki/volume-trading-strategy) getting smaller. This means fewer people are buying the asset as it goes up, which can be a warning sign that the price might start to go down soon. When the price finally breaks down below the lower trend line of the wedge, you want to see a big jump in volume. This big volume tells you that a lot of people are now selling, which makes the break more believable and likely to keep going.
 
 So, when you're looking at a Rising Wedge, pay attention to the volume. If it's going down as the price goes up inside the wedge, and then it goes way up when the price breaks down, that's a good sign the pattern is working. Using volume like this can help you make better trading choices and feel more sure about what the price might do next.
 
@@ -86,7 +86,7 @@ Also, the type of market can make a difference. In a stock market where lots of 
 
 A rising wedge as a continuation pattern occurs within the context of an established downtrend and typically serves as a brief consolidation phase before the primary trend resumes. This pattern is characterized by two upward-sloping and converging trend lines, with the lower trend line steeper than the upper. The key to its identification lies in recognizing the temporary nature of its bullish appearance amid an otherwise bearish market environment.
 
-During the development of this pattern, the price action often reflects waning bullish momentum as it struggles to surpass prior highs. The pattern forms against the backdrop of declining volume, underscoring diminishing trading interest, which further belies the apparent upward movement. The structural attributes of the rising wedge are best understood through analysis of the slope of the trend lines, with the lower line rising faster than the upper line.
+During the development of this pattern, the price action often reflects waning bullish [momentum](/wiki/momentum) as it struggles to surpass prior highs. The pattern forms against the backdrop of declining volume, underscoring diminishing trading interest, which further belies the apparent upward movement. The structural attributes of the rising wedge are best understood through analysis of the slope of the trend lines, with the lower line rising faster than the upper line.
 
 Mathematically, one could model the price movement $P(t)$ within the wedge using linear functions for the support line $L_s$ and resistance line $L_r$:
 
@@ -99,7 +99,7 @@ $$
 
 where $m_s > m_r$ indicating the steeper ascent of the lower trend line.
 
-Upon completion of the pattern, a breakout typically occurs to the downside, signaling the continuation of the primary downtrend. Recognizing this breakout point is critical for traders aiming to capitalize on the resumption of bearish market conditions. The strategic advantage lies in anticipating this [exit](/wiki/exit-strategy) point from the wedge before it transpires, providing a refined entry opportunity aligned with the prevailing trend.
+Upon completion of the pattern, a [breakout](/wiki/breakout-trading) typically occurs to the downside, signaling the continuation of the primary downtrend. Recognizing this breakout point is critical for traders aiming to capitalize on the resumption of bearish market conditions. The strategic advantage lies in anticipating this [exit](/wiki/exit-strategy) point from the wedge before it transpires, providing a refined entry opportunity aligned with the prevailing trend.
 
 Algorithmic traders can particularly benefit from automated detection of rising wedges using pattern recognition algorithms, which enhance precision in recognizing these consolidation phases. A Python approach may involve using libraries like NumPy or pandas to parse historical data and identify trend lines by fitting linear regressions. Here's a simplified example:
 

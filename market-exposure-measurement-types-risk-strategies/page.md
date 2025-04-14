@@ -133,7 +133,7 @@ Accurate measurement of market exposure using these methods provides algorithmic
 
 ## What are the financial measurements used for informed decision making?
 
-Average True Range (ATR) is a vital tool within the financial measurement toolkit that aids traders in making informed decisions by quantifying market volatility. Developed by J. Welles Wilder, ATR measures the degree of price movement within a market; it provides traders with insights into market dynamics and can significantly improve their risk management strategies.
+Average True Range (ATR) is a vital tool within the financial measurement toolkit that aids traders in making informed decisions by quantifying market [volatility](/wiki/volatility-trading-strategies). Developed by J. Welles Wilder, ATR measures the degree of price movement within a market; it provides traders with insights into market dynamics and can significantly improve their risk management strategies.
 
 Traders commonly use ATR to set dynamic stop-loss levels, which are crucial for protecting profits and minimizing losses. Unlike a fixed stop-loss, a dynamic one adjusts according to the current market volatility, offering a more flexible risk management approach. By calculating ATR, traders can determine the average volatility over a specific period, typically using a 14-day period. The formula to calculate ATR is as follows:
 

@@ -62,7 +62,7 @@ The company also uses technology to keep an eye on the market all the time. This
 
 QMS Capital Management's performance has been good compared to many other companies in the industry. They use math and computers to pick investments, and this has helped them do better than some common benchmarks like the S&P 500. For example, over the past few years, their clients' money has grown more than the S&P 500, which is a big list of important stocks that many people use to see how the market is doing.
 
-Their success comes from carefully picking a mix of stocks, bonds, and other investments. By using their technology to look at lots of data, they can find good investments that other people might miss. This has helped them beat the industry average and give their clients a better return on their money.
+Their success comes from carefully [picking](/wiki/asset-class-picking) a mix of stocks, bonds, and other investments. By using their technology to look at lots of data, they can find good investments that other people might miss. This has helped them beat the industry average and give their clients a better return on their money.
 
 ## How does QMS Capital Management ensure compliance with financial regulations?
 

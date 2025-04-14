@@ -36,7 +36,7 @@ Next, you need to take into account the time until the bill matures. You multipl
 
 The formula for calculating the Bank Discount Basis is pretty straightforward. You start by finding the difference between the face value of the security and the price you pay for it. Then, you divide that difference by the face value. This gives you a number that shows how much of the face value is the interest.
 
-Next, you need to think about the time until the security matures. You take the number you got from the first step and multiply it by the number of days in a year, which is usually 360 days. After that, you divide by the number of days until the security matures. The final number you get is the Bank Discount Basis, which is the interest rate as a percentage of the face value.
+Next, you need to think about the time until the security matures. You take the number you got from the first step and multiply it by the number of days in a year, which is usually 360 days. After that, you divide by the number of days until the security matures. The final number you get is the Bank Discount Basis, which is the [interest rate](/wiki/interest-rate-trading-strategies) as a percentage of the face value.
 
 ## How does the Bank Discount Basis affect the pricing of short-term financial instruments?
 

@@ -18,7 +18,7 @@ This method is good for people who pay their bills on time because it can save t
 
 The Adjusted Balance Method is different from other ways banks calculate credit card interest. With the Adjusted Balance Method, the bank takes your balance at the beginning of the month and subtracts any payments you made during that month. They don't add any new charges you made. This means if you pay your bill early, you'll have a lower balance to calculate interest on, which can save you money.
 
-Other methods, like the Average Daily Balance Method, work differently. With the Average Daily Balance Method, the bank adds up your balance every day of the month, then divides by the number of days to get an average. They use this average to calculate interest. This method can lead to more interest if you carry a balance because it includes new charges and doesn't reduce the balance as much with early payments.
+Other methods, like the Average Daily Balance Method, work differently. With the Average Daily Balance Method, the bank adds up your balance every day of the month, then divides by the number of days to get an average. They use this average to calculate interest. This method can lead to more interest if you [carry](/wiki/carry-trading) a balance because it includes new charges and doesn't reduce the balance as much with early payments.
 
 Another method is the Previous Balance Method. Here, the bank calculates interest on your balance from the start of the month, without considering any payments or new charges you made during the month. This can result in higher interest charges because it doesn't account for any payments you might have made early in the billing cycle. Each method affects how much interest you pay, so it's important to know which one your bank uses.
 
@@ -66,7 +66,7 @@ Not many banks use the Adjusted Balance Method anymore. Most have switched to ot
 
 ## How does the Adjusted Balance Method impact credit card APR calculations?
 
-The Adjusted Balance Method changes how banks figure out the interest you owe on your credit card. They start with your balance at the beginning of the month and then subtract any payments you made during that month. This means if you pay your bill early, you'll pay interest on a smaller amount. For example, if you start with a $1,000 balance and pay $300 early, you'll only pay interest on $700. This can save you money because the interest rate, or APR, is applied to a lower balance.
+The Adjusted Balance Method changes how banks figure out the interest you owe on your credit card. They start with your balance at the beginning of the month and then subtract any payments you made during that month. This means if you pay your bill early, you'll pay interest on a smaller amount. For example, if you start with a $1,000 balance and pay $300 early, you'll only pay interest on $700. This can save you money because the [interest rate](/wiki/interest-rate-trading-strategies), or APR, is applied to a lower balance.
 
 However, if you don't pay your bill early or at all, the Adjusted Balance Method won't help you save on interest. You'll still pay interest on the full starting balance minus any payments. This could be more than with other methods that might consider new charges or payments differently. Also, not many banks use the Adjusted Balance Method anymore, so you might not be able to benefit from it unless your bank still uses it.
 

@@ -18,7 +18,7 @@ Sour crude oil is harder to use than sweet crude oil, which has less sulfur. To 
 
 Sour crude oil and sweet crude oil are different because of the amount of sulfur they have. Sour crude oil has a lot of sulfur, which makes it smell bad, like rotten eggs. This is why it's called "sour." Sweet crude oil, on the other hand, has very little sulfur, so it doesn't smell as bad and is easier to use. 
 
-Because sour crude oil has more sulfur, it needs special machines to clean it up before it can be used. This process is called refining, and it can be expensive and bad for the environment. Sweet crude oil is easier and cheaper to refine because it has less sulfur. That's why sweet crude oil is usually more expensive than sour crude oil.
+Because sour [crude oil](/wiki/crude-oil) has more sulfur, it needs special machines to clean it up before it can be used. This process is called refining, and it can be expensive and bad for the environment. Sweet crude oil is easier and cheaper to refine because it has less sulfur. That's why sweet crude oil is usually more expensive than sour crude oil.
 
 ## What are the main characteristics of sour crude oil?
 

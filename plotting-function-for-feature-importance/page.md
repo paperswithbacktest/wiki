@@ -86,7 +86,7 @@ Another way to get deeper insights is by using partial dependence plots along wi
 
 ## What are the techniques for calculating feature importance?
 
-Feature importance is a fundamental concept in [machine learning](/wiki/machine-learning) and [statistics](/wiki/bayesian-statistics), crucial for understanding and optimizing predictive models, especially within algorithmic trading. Understanding which features significantly impact model predictions allows traders to refine their strategies more effectively. Below are prominent techniques employed for calculating feature importance:
+Feature importance is a fundamental concept in [machine learning](/wiki/machine-learning) and [statistics](/wiki/bayesian-statistics), crucial for understanding and optimizing predictive models, especially within [algorithmic trading](/wiki/algorithmic-trading). Understanding which features significantly impact model predictions allows traders to refine their strategies more effectively. Below are prominent techniques employed for calculating feature importance:
 
 ### Mean Decrease Impurity (MDI)
 MDI is commonly used with decision tree-based algorithms. It calculates the importance of a feature by assessing its contribution to impurity reduction in the model. When a feature is used to split a node, it contributes to reducing the impurity, such as Gini impurity or entropy. The formula for Gini impurity is:

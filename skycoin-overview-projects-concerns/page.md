@@ -52,7 +52,7 @@ Skycoin's distribution started with an initial distribution of coins to early su
 
 ## How can someone acquire Skycoin and what are the common use cases?
 
-Someone can acquire Skycoin in a few different ways. One way is to buy it from a cryptocurrency exchange that supports Skycoin. You can use other cryptocurrencies like Bitcoin or Ethereum to trade for Skycoin on these exchanges. Another way to get Skycoin is by helping to run the Skywire network. If you share your internet connection to help others get online, you can earn Skycoin as a reward. This is a good way to get Skycoin if you want to support the network and get paid for it.
+Someone can acquire Skycoin in a few different ways. One way is to buy it from a [cryptocurrency](/wiki/cryptocurrency) exchange that supports Skycoin. You can use other cryptocurrencies like Bitcoin or Ethereum to trade for Skycoin on these exchanges. Another way to get Skycoin is by helping to run the Skywire network. If you share your internet connection to help others get online, you can earn Skycoin as a reward. This is a good way to get Skycoin if you want to support the network and get paid for it.
 
 Skycoin has several common use cases within its ecosystem. One main use is to pay for services on the Skywire network. If you want faster and more private internet, you can use Skycoin to pay for it. Another use is to reward people who help run the Skywire network. By sharing their internet, they get paid in Skycoin, which encourages more people to join and help the network grow. Skycoin can also be used for trading and investing, just like other cryptocurrencies, where people buy and sell it hoping its value will go up over time.
 

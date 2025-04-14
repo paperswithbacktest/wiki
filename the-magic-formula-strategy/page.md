@@ -42,7 +42,7 @@ For example, if a company makes $100,000 in operating profit and used $500,000 i
 
 Earnings yield is a way to see how much profit a company makes compared to its stock price. You find it by taking the company's earnings per share and dividing it by the stock price. Earnings per share is the profit the company makes divided by the number of shares it has. For example, if a company makes $1 million in profit and has 1 million shares, its earnings per share is $1. If the stock price is $20, the earnings yield is $1 divided by $20, which is 0.05 or 5%.
 
-A higher earnings yield means the company is making more profit for each dollar you spend on its stock. This can be a good sign that the stock is a good value. But remember, earnings yield is just one thing to look at when picking stocks. It's important to look at other things too, like how well the company is doing overall and what's happening in the market.
+A higher earnings yield means the company is making more profit for each dollar you spend on its stock. This can be a good sign that the stock is a good value. But remember, earnings yield is just one thing to look at when [picking](/wiki/asset-class-picking) stocks. It's important to look at other things too, like how well the company is doing overall and what's happening in the market.
 
 ## How often should one rebalance a portfolio using the Magic Formula?
 

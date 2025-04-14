@@ -22,7 +22,7 @@ Another reason companies refinance is to change the terms of their debt. Sometim
 
 ## What are the common types of corporate refinancing?
 
-One common type of corporate refinancing is debt consolidation. This is when a company takes out a new loan to pay off several smaller loans or debts. By doing this, the company can often get a lower interest rate and simplify their payments into one monthly amount. It's like getting a new, bigger loan to pay off a bunch of smaller credit card debts, but for a business.
+One common type of corporate refinancing is debt consolidation. This is when a company takes out a new loan to pay off several smaller loans or debts. By doing this, the company can often get a lower [interest rate](/wiki/interest-rate-trading-strategies) and simplify their payments into one monthly amount. It's like getting a new, bigger loan to pay off a bunch of smaller credit card debts, but for a business.
 
 Another type is bond refinancing. Companies can issue new bonds to pay off old ones. If interest rates have gone down since the old bonds were issued, the new bonds might have a lower interest rate. This means the company pays less money over time to borrow. It's like getting a new mortgage with a lower rate to pay off an old one.
 

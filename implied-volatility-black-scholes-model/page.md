@@ -24,7 +24,7 @@ If the implied volatility is high, it means people think the stock's price could
 
 The Black-Scholes model needs a few pieces of information to figure out how much an option should cost. The first thing it needs is the current price of the stock. This is important because the option's value depends a lot on where the stock price is right now. The model also needs to know the option's strike price, which is the price at which you can buy or sell the stock if you use the option. Another key input is the time until the option expires. The longer the time, the more chance there is for the stock price to move, which can make the option more valuable.
 
-The model also uses the risk-free interest rate, which is the rate you could earn on a safe investment like a government bond. This helps adjust the option's price for the time value of money. The last and very important input is the implied volatility. This tells the model how much the market thinks the stock's price might swing around in the future. If people think the stock will move a lot, the implied volatility goes up, and the option becomes more valuable. All these pieces of information go into the Black-Scholes model, which then calculates the fair price for the option.
+The model also uses the risk-free [interest rate](/wiki/interest-rate-trading-strategies), which is the rate you could earn on a safe investment like a government bond. This helps adjust the option's price for the time value of money. The last and very important input is the implied volatility. This tells the model how much the market thinks the stock's price might swing around in the future. If people think the stock will move a lot, the implied volatility goes up, and the option becomes more valuable. All these pieces of information go into the Black-Scholes model, which then calculates the fair price for the option.
 
 ## How can implied volatility be extracted from option prices using the Black-Scholes model?
 
@@ -178,7 +178,7 @@ In real-world trading platforms, algorithmic systems utilizing the Black-Scholes
 
 Moreover, portfolio managers often use these systems to hedge positions. By calculating the Greeks (sensitivity measures derived from the Black-Scholes model with respect to different parameters), managers can assess risks associated with their options positions efficiently. Algorithms that incorporate these calculations enable them to maintain delta-neutral portfolios, a strategy that protects against small price movements in the underlying assets.
 
-In conclusion, the synergy of the Black-Scholes model, implied volatility, and algorithmic trading presents valuable opportunities for traders and firms to enhance their performance in the options markets. As technology advances, further innovations will continue to refine these techniques, leading to even more precise and effective trading strategies.
+In conclusion, the synergy of the Black-Scholes model, implied volatility, and [algorithmic trading](/wiki/algorithmic-trading) presents valuable opportunities for traders and firms to enhance their performance in the options markets. As technology advances, further innovations will continue to refine these techniques, leading to even more precise and effective trading strategies.
 
 ## References & Further Reading
 

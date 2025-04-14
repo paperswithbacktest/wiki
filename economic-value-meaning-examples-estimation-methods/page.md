@@ -30,7 +30,7 @@ Now think about a winter coat. You need one because it's getting cold, and you t
 
 ## What are the key factors that influence economic value?
 
-Economic value is influenced by several key factors. One big factor is how much someone needs or wants something. If you really need a new pair of shoes because your old ones are worn out, you might think those shoes are worth more to you. Another factor is how much money someone has. If you have a lot of money, you might be willing to pay more for things you like. But if you don't have much money, you might think things are worth less because you can't afford to spend a lot.
+Economic value is influenced by several key factors. One big [factor](/wiki/factor-investing) is how much someone needs or wants something. If you really need a new pair of shoes because your old ones are worn out, you might think those shoes are worth more to you. Another factor is how much money someone has. If you have a lot of money, you might be willing to pay more for things you like. But if you don't have much money, you might think things are worth less because you can't afford to spend a lot.
 
 Another important factor is what other choices are available. If there are a lot of similar products, you might not think any one of them is worth much because you have so many options. But if something is rare or unique, you might think it's worth a lot more. Finally, personal taste and feelings matter too. If you love a certain brand of coffee, you might think it's worth more than someone who doesn't care about coffee. All these factors together decide how much economic value something has to you.
 

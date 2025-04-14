@@ -86,7 +86,7 @@ These standards also affect how people interpret cash flow and fund flow stateme
 
 ## What is Understanding Cash Flow?
 
-Cash flow represents the net sum of cash and cash-equivalents being transferred into and out of a business. It serves as a crucial indicator of a company’s liquidity, financial health, and operational efficiency. Tracking cash flow allows businesses to ensure they have enough liquidity to meet their obligations and make informed financial decisions.
+Cash flow represents the net sum of cash and cash-equivalents being transferred into and out of a business. It serves as a crucial indicator of a company’s [liquidity](/wiki/liquidity-risk-premium), financial health, and operational efficiency. Tracking cash flow allows businesses to ensure they have enough liquidity to meet their obligations and make informed financial decisions.
 
 The central components of cash flow are categorized into three main activities:
 

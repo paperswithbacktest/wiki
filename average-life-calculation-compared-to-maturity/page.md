@@ -22,7 +22,7 @@ In science, like with radioactive materials, average life is a bit trickier but 
 
 ## What factors influence the average life of a population?
 
-The average life of a population can be influenced by many things. One big factor is healthcare. If people have good doctors and hospitals, they can live longer because they get help when they're sick. Another factor is the environment. If the air and water are clean, people tend to be healthier and live longer. Also, what people eat matters a lot. A diet full of good food like fruits and vegetables can help people live longer.
+The average life of a population can be influenced by many things. One big [factor](/wiki/factor-investing) is healthcare. If people have good doctors and hospitals, they can live longer because they get help when they're sick. Another factor is the environment. If the air and water are clean, people tend to be healthier and live longer. Also, what people eat matters a lot. A diet full of good food like fruits and vegetables can help people live longer.
 
 Lifestyle choices also play a big role. If people smoke or drink a lot of alcohol, it can shorten their lives. On the other hand, exercising and staying active can help people live longer. Education is another important factor. People who go to school and learn about health often make better choices that help them live longer. All these things together can make a big difference in how long people in a population live on average.
 
@@ -151,7 +151,7 @@ This result indicates that, on average, it takes 2.1 years for the principal of 
 
 Average life and Volume-Weighted Average Price (VWAP) serve distinct purposes within financial trading, relevant to their specific asset classes. Average life is a critical metric in assessing fixed income securities, such as bonds and mortgage-backed securities. It measures the average time it takes for a security to repay its principal, offering insight into the timing of cash flows and potential exposure to interest rate and prepayment risks. On the other hand, VWAP is integral to stock trading. It calculates a stock's average price throughout the trading session, weighted by [volume](/wiki/volume-trading-strategy), serving as a performance benchmark for trading efficiency.
 
-The difference between these measures primarily lies in their applications. Average life is essential for investors analyzing the cash flow structure and risk profile of fixed income investments. It informs decisions about interest rate exposure and the likelihood of early repayment. Investors concerned about market volatility may prefer securities with a shorter average life, reducing the risk associated with future rate changes and prepayments.
+The difference between these measures primarily lies in their applications. Average life is essential for investors analyzing the cash flow structure and risk profile of fixed income investments. It informs decisions about interest rate exposure and the likelihood of early repayment. Investors concerned about market [volatility](/wiki/volatility-trading-strategies) may prefer securities with a shorter average life, reducing the risk associated with future rate changes and prepayments.
 
 In contrast, VWAP is mainly used by equity traders to assess trade execution quality and price trends within a specific time frame. It is computed as follows:
 
@@ -159,7 +159,7 @@ $$
 \text{VWAP} = \frac{\sum_{i=1}^{n} (P_i \times Q_i)}{\sum_{i=1}^{n} Q_i}
 $$
 
-Where $P_i$ is the price of the trade and $Q_i$ is the quantity of the trade. Traders aim to execute buy orders below the VWAP and sell orders above it, indicating superior execution and enhanced profitability. VWAP serves as a crucial reference point for algorithmic trading strategies, particularly in high-frequency trading environments.
+Where $P_i$ is the price of the trade and $Q_i$ is the quantity of the trade. Traders aim to execute buy orders below the VWAP and sell orders above it, indicating superior execution and enhanced profitability. VWAP serves as a crucial reference point for [algorithmic trading](/wiki/algorithmic-trading) strategies, particularly in high-frequency trading environments.
 
 Integrating both metrics into trading strategies depends on the asset class and trading objectives. Fixed income traders prioritize average life to manage interest rate risk and cash flow schedules, while equity traders focus on VWAP for optimizing trade placements and assessing market efficiency. Understanding when to deploy each metric is vital for maximizing trade outcomes and aligning strategies with market conditions.
 

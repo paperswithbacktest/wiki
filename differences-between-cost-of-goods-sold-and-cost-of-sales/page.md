@@ -30,7 +30,7 @@ For a company that makes things, like a factory, COGS includes the cost of raw m
 
 Businesses that make things or buy things to sell them again usually use COGS. For example, a factory that makes toys or a store that sells clothes would use COGS. These businesses need to know how much it costs to make or buy the products they sell. This helps them figure out if they are making enough money to cover their costs and make a profit.
 
-Companies that provide services, like a hair salon or a consulting firm, usually don't use COGS. Instead, they might track the cost of the people who do the work or the supplies they use. But for businesses that deal with physical products, COGS is very important. It helps them set prices that cover their costs and make sure they are earning enough money to stay in business.
+Companies that provide services, like a hair salon or a consulting firm, usually don't use COGS. Instead, they might track the cost of the people who do the work or the supplies they use. But for businesses that deal with physical products, COGS is very important. It helps them set prices that cover their costs and make sure they are [earning](/wiki/earning-announcement) enough money to stay in business.
 
 ## What types of businesses typically use Cost of Sales?
 

@@ -22,7 +22,7 @@ It's also a way to manage risk. The value of investments can go up and down a lo
 
 ## What are the basic steps to lock in profits?
 
-To lock in profits, first, you need to buy an investment like a stock or cryptocurrency. Watch the price of your investment closely. When the price goes up and you're happy with the profit you've made, that's when you can think about selling.
+To lock in profits, first, you need to buy an investment like a stock or [cryptocurrency](/wiki/cryptocurrency). Watch the price of your investment closely. When the price goes up and you're happy with the profit you've made, that's when you can think about selling.
 
 Next, decide when to sell. You might have a target price in mind, or you might use a tool called a stop-loss order, which automatically sells your investment if the price drops to a certain level. Once you decide it's time to sell, go to your trading platform and place a sell order at your chosen price. When the order goes through, you'll have turned your paper profits into real money that you can use or save.
 
@@ -84,7 +84,7 @@ Because of this, you might choose to lock in profits at a time that helps you sa
 
 ## What are the technical tools and indicators used in algo trading?
 
-Technical indicators play a crucial role in algorithmic trading by providing quantitative data to help identify profitable entry and [exit](/wiki/exit-strategy) points. These tools support traders in making informed decisions based on market trends and potential reversals.
+Technical indicators play a crucial role in [algorithmic trading](/wiki/algorithmic-trading) by providing quantitative data to help identify profitable entry and [exit](/wiki/exit-strategy) points. These tools support traders in making informed decisions based on market trends and potential reversals.
 
 ### Moving Averages
 

@@ -78,7 +78,7 @@ Another advanced method is regression analysis, which looks at how different fac
 
 Global economic factors play a big role in the annual returns of international mutual funds. These funds invest in companies from different countries, so what happens in those countries' economies can affect the fund's performance. For example, if a country's economy is growing fast, the companies there might do well, which could boost the returns of the mutual fund. On the other hand, if a country is going through a tough time, like a recession, the companies might struggle, and the fund's returns could go down. Things like interest rates, inflation, and currency exchange rates also matter. If a country raises its interest rates, it might slow down its economy, which could hurt the fund's returns. If the currency of a country where the fund invests gets weaker, it could mean less money for investors when they convert their earnings back to their home currency.
 
-Another important factor is how different countries' economies are connected. If one big economy, like the U.S., has problems, it can affect other countries too. This is called a global economic ripple effect. For example, if the U.S. economy slows down, it might buy fewer goods from other countries, which could hurt those countries' economies and the companies in them. This, in turn, could lower the returns of an international mutual fund that invests in those countries. Also, global events like trade wars or pandemics can shake up economies worldwide, making it harder to predict and manage the returns of international mutual funds. Keeping an eye on these global factors can help investors understand why their fund is doing well or poorly and make better decisions about where to put their money.
+Another important [factor](/wiki/factor-investing) is how different countries' economies are connected. If one big economy, like the U.S., has problems, it can affect other countries too. This is called a global economic ripple effect. For example, if the U.S. economy slows down, it might buy fewer goods from other countries, which could hurt those countries' economies and the companies in them. This, in turn, could lower the returns of an international mutual fund that invests in those countries. Also, global events like trade wars or pandemics can shake up economies worldwide, making it harder to predict and manage the returns of international mutual funds. Keeping an eye on these global factors can help investors understand why their fund is doing well or poorly and make better decisions about where to put their money.
 
 ## What is the difference between Annual Returns and Annualized Returns?
 
@@ -116,7 +116,7 @@ $$
 \text{Annualized Return} = \left( \left( \frac{1331}{1000} \right)^{\frac{1}{3}} - 1 \right) \times 100 \approx 10\%
 $$
 
-Annualized returns provide a long-term perspective, smoothing out year-to-year volatility and allowing investors to compare investments of different durations effectively.
+Annualized returns provide a long-term perspective, smoothing out year-to-year [volatility](/wiki/volatility-trading-strategies) and allowing investors to compare investments of different durations effectively.
 
 ### Comparison and When to Use Each Metric
 

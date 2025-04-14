@@ -76,7 +76,7 @@ Scholes has also studied how people make choices when they don't have all the in
 
 ## What are some of the latest research or projects Myron Scholes is involved in?
 
-Myron Scholes is still working on new ideas and projects in finance. He is interested in how technology can make investing better. He is looking at how computers and data can help people understand markets better. Scholes is also working on ways to use artificial intelligence to make better guesses about how stock prices will change. This could help people make smarter choices when they invest their money.
+Myron Scholes is still working on new ideas and projects in finance. He is interested in how technology can make investing better. He is looking at how computers and data can help people understand markets better. Scholes is also working on ways to use [artificial intelligence](/wiki/ai-artificial-intelligence) to make better guesses about how stock prices will change. This could help people make smarter choices when they invest their money.
 
 Scholes is also involved in projects that look at how to manage money in a world that's always changing. He is studying how global events and new rules can affect investments. He wants to find ways to help people keep their money safe and grow it even when things are uncertain. Scholes is sharing his new ideas with other researchers and students, helping to make finance better for everyone.
 

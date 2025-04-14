@@ -84,7 +84,7 @@ These numerical methods also let you take into account more details about the ma
 
 Path-dependent options provide substantial advantages in financial strategies, mainly through their extensive use in hedging and risk management. One of their primary benefits is the ability to tailor payoff structures specifically to match distinct market outlooks or investment strategies. This customization becomes especially pertinent when investors need to hedge against certain price movements or capture specific market scenarios that conventional options cannot address.
 
-For instance, in Asian options, where the payoff depends on the average price of the underlying asset over a period, investors can mitigate the volatility risk associated with sudden price shocks. This averaging feature helps stabilize the option’s payoff by reducing the influence of price extremes. In a mathematical context, an Asian call option’s payoff at maturity can be calculated as:
+For instance, in Asian options, where the payoff depends on the average price of the underlying asset over a period, investors can mitigate the [volatility](/wiki/volatility-trading-strategies) risk associated with sudden price shocks. This averaging feature helps stabilize the option’s payoff by reducing the influence of price extremes. In a mathematical context, an Asian call option’s payoff at maturity can be calculated as:
 
 $$
 \text{Payoff} = \max\left(\frac{1}{n} \sum_{i=1}^{n} S_i - K, 0\right)

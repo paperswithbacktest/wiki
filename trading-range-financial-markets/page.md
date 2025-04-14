@@ -58,7 +58,7 @@ Using these levels helps traders make money from the range. When the price hits 
 
 To identify and confirm trading ranges, traders often use a few key indicators. One of the most effective is the moving average. A moving average smooths out price data to show a clearer trend. When the price stays between two moving averages, it can show the top and bottom of a trading range. Another useful indicator is the Bollinger Bands. These bands show the price range based on how much the price moves up and down. If the price stays inside the Bollinger Bands, it can confirm a trading range.
 
-Another helpful indicator is the Relative Strength Index (RSI). The RSI measures how fast and how much the price is changing. When the RSI stays between certain levels, like 30 and 70, it can show that the price is in a trading range. Traders also use volume to confirm ranges. If the volume stays steady while the price moves between support and resistance, it can mean the range is strong. By using these indicators together, traders can better see and confirm trading ranges.
+Another helpful indicator is the Relative Strength Index (RSI). The RSI measures how fast and how much the price is changing. When the RSI stays between certain levels, like 30 and 70, it can show that the price is in a trading range. Traders also use [volume](/wiki/volume-trading-strategy) to confirm ranges. If the volume stays steady while the price moves between support and resistance, it can mean the range is strong. By using these indicators together, traders can better see and confirm trading ranges.
 
 ## How do market conditions affect the formation and duration of trading ranges?
 
@@ -76,7 +76,7 @@ But it's not just about what traders think will happen; it's also about how they
 
 Advanced traders can use volume analysis to get a better understanding of trading ranges. Volume shows how many stocks or other financial instruments are being bought and sold. When the price is moving within a trading range, traders look at the volume to see if the range is strong or weak. If the volume stays steady while the price moves between the support and resistance levels, it means the range is strong. Traders can feel more confident buying at the support level and selling at the resistance level because the range is likely to continue.
 
-But if the volume starts to change, it can give traders important clues. If the volume goes up a lot when the price hits the support or resistance level, it might mean the range is about to break. For example, if the volume is high when the price hits the resistance level, it could mean that many traders are trying to push the price higher, and the range might end soon. By watching the volume, advanced traders can make better decisions about when to enter or exit trades, helping them make more money from trading ranges.
+But if the volume starts to change, it can give traders important clues. If the volume goes up a lot when the price hits the support or resistance level, it might mean the range is about to break. For example, if the volume is high when the price hits the resistance level, it could mean that many traders are trying to push the price higher, and the range might end soon. By watching the volume, advanced traders can make better decisions about when to enter or [exit](/wiki/exit-strategy) trades, helping them make more money from trading ranges.
 
 ## What are the potential pitfalls and how can they be mitigated when trading within a range?
 

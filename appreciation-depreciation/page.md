@@ -66,7 +66,7 @@ This also helps with taxes. When a company shows depreciation on its taxes, it c
 
 Economic factors can really change how fast things go up or down in value. For example, if the economy is doing well, more people might have money to buy houses. This can make houses go up in value faster because there are more buyers. On the other hand, if the economy is not doing well, people might not want to spend as much money. This can make things like cars and electronics lose value faster because fewer people are buying them.
 
-Another big factor is interest rates. When interest rates are low, it's cheaper to borrow money to buy things like houses or cars. This can make these things go up in value because more people can afford to buy them. But if interest rates go up, borrowing money gets more expensive, and fewer people might buy big things. This can make these things lose value faster because there's less demand. So, the economy and interest rates can have a big impact on whether things appreciate or depreciate and how fast it happens.
+Another big [factor](/wiki/factor-investing) is interest rates. When interest rates are low, it's cheaper to borrow money to buy things like houses or cars. This can make these things go up in value because more people can afford to buy them. But if interest rates go up, borrowing money gets more expensive, and fewer people might buy big things. This can make these things lose value faster because there's less demand. So, the economy and interest rates can have a big impact on whether things appreciate or depreciate and how fast it happens.
 
 ## What are the tax implications of appreciation and depreciation?
 

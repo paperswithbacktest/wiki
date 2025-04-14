@@ -22,7 +22,7 @@ This difference affects how risky the bonds are. Traditional bonds are usually s
 
 ## What are the basic mechanics of interest payment in PIK bonds?
 
-When a company issues PIK bonds, it agrees to pay interest to the bondholders, but instead of paying in cash, it pays with more bonds. This means that every time an interest payment is due, the bondholder gets new bonds that have the same value as the interest they would have gotten in cash. For example, if the interest rate is 5% and the bondholder owns a bond worth $1,000, they would get new bonds worth $50 instead of $50 in cash.
+When a company issues PIK bonds, it agrees to pay interest to the bondholders, but instead of paying in cash, it pays with more bonds. This means that every time an interest payment is due, the bondholder gets new bonds that have the same value as the interest they would have gotten in cash. For example, if the [interest rate](/wiki/interest-rate-trading-strategies) is 5% and the bondholder owns a bond worth $1,000, they would get new bonds worth $50 instead of $50 in cash.
 
 This process keeps happening until the bond matures. At that point, the company has to pay back the original amount of the bond, plus any additional bonds that were given as interest over the years. If the company does well, the value of these new bonds might go up, which can be good for the bondholder. But if the company struggles, the new bonds might be worth less, which can be risky for the bondholder.
 
@@ -64,7 +64,7 @@ For investors, the tax rules can be different depending on where they live and h
 
 ## What are the accounting implications of PIK bonds?
 
-When a company issues PIK bonds, it has to keep track of the interest it owes, even though it's not paying in cash. Instead of cash, the company gives out more bonds as interest. On the company's books, this means they have to record the value of these new bonds as an expense. This expense reduces the company's profit on paper, even though no cash is leaving the company. This can make the company look less profitable on its financial statements, which might affect how investors and lenders see the company.
+When a company issues PIK bonds, it has to keep track of the interest it owes, even though it's not paying in cash. Instead of cash, the company gives out more bonds as interest. On the company's [books](/wiki/algo-trading-books), this means they have to record the value of these new bonds as an expense. This expense reduces the company's profit on paper, even though no cash is leaving the company. This can make the company look less profitable on its financial statements, which might affect how investors and lenders see the company.
 
 For investors, the accounting for PIK bonds can be a bit tricky too. When you get more bonds as interest, you have to add the value of those new bonds to the cost of your original investment. This means your total investment in the company goes up, even though you haven't spent any more money. When it comes time to report your income for taxes, you have to count the value of those new bonds as income, even though you won't get any cash until the bond matures. This can make your taxes more complicated because you're paying taxes on something you can't use right away.
 

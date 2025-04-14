@@ -46,7 +46,7 @@ Another risk is about following the rules set by the government. The agreement h
 
 ## How is the duration of a concession agreement determined?
 
-The length of a concession agreement is decided by looking at a few important things. One thing is how long it will take to build the project and start making money from it. For example, if it's a big project like a new highway, it might take years to build and start earning money, so the agreement might be longer. Another thing to think about is how long the private company needs to make back the money they spent on the project and start making a profit. If the project is expected to be very profitable, the agreement might be shorter.
+The length of a concession agreement is decided by looking at a few important things. One thing is how long it will take to build the project and start making money from it. For example, if it's a big project like a new highway, it might take years to build and start [earning](/wiki/earning-announcement) money, so the agreement might be longer. Another thing to think about is how long the private company needs to make back the money they spent on the project and start making a profit. If the project is expected to be very profitable, the agreement might be shorter.
 
 Also, the government thinks about how long they want the private company to run the service. They want to make sure the service stays good for a long time, so they might set a longer agreement to give the company time to do a good job. But they also want to keep some control over the service, so they might not make it too long. All these things are talked about and agreed on before the concession agreement is signed, so both the government and the private company feel it's fair.
 

@@ -54,7 +54,7 @@ Also, remember to check for any extra fees that might affect the total cost. Som
 
 ## What are the security measures in place for transactions with online gold dealers?
 
-Online gold dealers use strong security measures to keep your transactions safe. They use secure websites with encryption to protect your personal and payment information. This means that when you enter your details, they are turned into a code that is hard for hackers to read. Many dealers also use two-factor authentication, which adds an extra step to make sure it's really you making the purchase. This could be a code sent to your phone or an email you need to confirm.
+Online gold dealers use strong security measures to keep your transactions safe. They use secure websites with encryption to protect your personal and payment information. This means that when you enter your details, they are turned into a code that is hard for hackers to read. Many dealers also use two-[factor](/wiki/factor-investing) authentication, which adds an extra step to make sure it's really you making the purchase. This could be a code sent to your phone or an email you need to confirm.
 
 In addition to these digital protections, online gold dealers often use secure payment methods like bank transfers or credit cards that have their own security features. They might also offer insurance for your gold while it's being shipped to you. This way, if something goes wrong, you can get your money back. By using these security measures, online gold dealers help make sure your investment is safe and secure.
 

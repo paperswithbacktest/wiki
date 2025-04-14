@@ -98,7 +98,7 @@ Despite its simplicity, the scattergraph method offers a foundational analysis. 
 
 ## What are the advanced techniques and considerations?
 
-While the scattergraph method is a valuable tool for cost analysis, it may not fully capture the complexity of various cost behaviors, particularly step costs. Step costs, which remain constant over certain ranges of activity and then jump to a different level, require more advanced analysis techniques. By incorporating regression analysis and machine learning models, analysts can gain deeper insights into cost structures.
+While the scattergraph method is a valuable tool for cost analysis, it may not fully capture the complexity of various cost behaviors, particularly step costs. Step costs, which remain constant over certain ranges of activity and then jump to a different level, require more advanced analysis techniques. By incorporating regression analysis and [machine learning](/wiki/machine-learning) models, analysts can gain deeper insights into cost structures.
 
 Regression analysis provides a mathematical approach to modeling the relationship between costs and activity levels. Linear regression is commonly used to estimate the fixed and variable components of costs, offering a more precise line of best fit than a scattergraph alone. The linear regression equation is typically expressed as:
 

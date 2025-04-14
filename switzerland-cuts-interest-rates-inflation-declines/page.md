@@ -34,7 +34,7 @@ The Swiss National Bank looks at inflation to help decide on interest rates. Whe
 
 ## What is the expected impact of the interest rate cut on the Swiss economy?
 
-The interest rate cut in Switzerland is expected to help the economy by making it cheaper for people and businesses to borrow money. When borrowing costs go down, people might decide to take out loans for things like buying a house or starting a new business. This can lead to more spending, which is good for the economy because it helps create jobs and keeps businesses busy.
+The [interest rate](/wiki/interest-rate-trading-strategies) cut in Switzerland is expected to help the economy by making it cheaper for people and businesses to borrow money. When borrowing costs go down, people might decide to take out loans for things like buying a house or starting a new business. This can lead to more spending, which is good for the economy because it helps create jobs and keeps businesses busy.
 
 The cut in interest rates might also make the Swiss franc weaker compared to other currencies. A weaker franc can make Swiss products cheaper for people in other countries to buy, which can help Swiss businesses sell more abroad. This could lead to more money coming into the Swiss economy, helping it grow even more. Overall, the interest rate cut is aimed at keeping the economy strong and helping it grow in a world where other countries might be facing challenges.
 
@@ -62,7 +62,7 @@ A weaker Swiss Franc can be good for Swiss businesses that sell things to other 
 
 Over the years, interest rates in Switzerland have been pretty low compared to many other countries. From the 1990s to the early 2000s, the Swiss National Bank kept interest rates around 2% to 3%. But then, in the late 2000s, they started to go down even more. By 2011, the Swiss National Bank set the interest rate to 0% and even went into negative territory in 2015, meaning banks had to pay to keep their money at the central bank. This was a big change and was done to help the Swiss economy and keep the Swiss Franc from getting too strong.
 
-In recent years, interest rates have started to go up a bit. In 2022, the Swiss National Bank raised the interest rate from -0.75% to 1.75% over the course of the year. This was a big jump and was done to fight inflation, which was starting to go up around the world. The Swiss National Bank is always trying to find the right balance to keep the economy growing without letting inflation get out of control. They look at many things, like how fast prices are going up and how strong the economy is, to decide what to do with interest rates.
+In recent years, interest rates have started to go up a bit. In 2022, the Swiss National Bank raised the interest rate from -0.75% to 1.75% over the [course](/wiki/best-algorithmic-trading-courses) of the year. This was a big jump and was done to fight inflation, which was starting to go up around the world. The Swiss National Bank is always trying to find the right balance to keep the economy growing without letting inflation get out of control. They look at many things, like how fast prices are going up and how strong the economy is, to decide what to do with interest rates.
 
 ## How do Swiss interest rate changes compare to those of other major economies?
 

@@ -18,7 +18,7 @@ Using public data can be very helpful. For example, scientists can use it to stu
 
 Alternative data is information that comes from unusual places and isn't usually used by everyone. It can include things like satellite pictures, social media posts, or data from credit card transactions. Companies and investors use this data to learn more about what people are doing and what might happen in the future. For example, by looking at how many people are visiting a store through their cell phone data, a company can guess how well the store is doing.
 
-This kind of data is really helpful because it gives new information that you can't get from regular sources. It helps businesses and investors make better choices by showing them things that other people might not see. But, using alternative data can be tricky. It's important to make sure the data is correct and that it's used in a way that respects people's privacy. Even though it's useful, we need to be careful with it.
+This kind of data is really helpful because it gives new information that you can't get from regular sources. It helps businesses and investors make better choices by showing them things that other people might not see. But, using [alternative data](/wiki/best-alternative-data) can be tricky. It's important to make sure the data is correct and that it's used in a way that respects people's privacy. Even though it's useful, we need to be careful with it.
 
 ## How does public data differ from alternative data?
 
@@ -30,7 +30,7 @@ Alternative data is different because it comes from unusual places and isn't usu
 
 Public data comes from many places that anyone can access. One main source is government websites, where you can find information like population numbers, weather reports, and public health data. These websites are run by different government agencies, like the Census Bureau or the National Weather Service, and they share their data with everyone.
 
-Another source of public data is public records. These are documents like property records, court records, and business licenses that are kept by local, state, or federal governments. Anyone can look at these records to learn more about things happening in their community. Libraries and educational institutions also share public data, like research studies and educational statistics, which help people learn and understand more about the world.
+Another source of public data is public records. These are documents like property records, court records, and business licenses that are kept by local, state, or federal governments. Anyone can look at these records to learn more about things happening in their community. Libraries and educational institutions also share public data, like research studies and educational [statistics](/wiki/bayesian-statistics), which help people learn and understand more about the world.
 
 ## What types of alternative data are available?
 
@@ -64,7 +64,7 @@ Another important part of using alternative data ethically is making sure the da
 
 ## What advanced techniques can be applied to analyze public and alternative data?
 
-To analyze public and alternative data, one advanced technique is machine learning. This is when computers learn from the data to find patterns and make predictions. For example, a business might use machine learning to look at lots of public health data and predict where a disease might spread next. Or they could use it on alternative data like social media posts to see what people are saying about their products. Machine learning can handle huge amounts of data quickly and find things that people might miss.
+To analyze public and alternative data, one advanced technique is [machine learning](/wiki/machine-learning). This is when computers learn from the data to find patterns and make predictions. For example, a business might use machine learning to look at lots of public health data and predict where a disease might spread next. Or they could use it on alternative data like social media posts to see what people are saying about their products. Machine learning can handle huge amounts of data quickly and find things that people might miss.
 
 Another technique is data visualization. This means turning data into pictures and charts that are easy to understand. For example, someone might use public data about population to make a map showing where people live. Or they could use alternative data like satellite images to show how busy a store is over time. Data visualization helps people see the big picture and understand the data better. It's especially useful when you want to share your findings with others who might not be experts in data analysis.
 
@@ -78,7 +78,7 @@ These rules also affect how easy it is to get and use public data. Governments m
 
 In the future, we'll see more and more public and alternative data being used. This is because technology is getting better and more people are sharing information online. For example, governments might start sharing even more data with everyone, like real-time traffic information or detailed weather reports. This can help people make better choices and solve problems faster. Also, new kinds of alternative data will come up, like data from smart homes or wearable devices. Businesses will use this data to learn more about what people want and need.
 
-Another trend is that people will start using more advanced ways to look at this data. Tools like artificial intelligence and machine learning will become more common. These tools can quickly find patterns and make predictions from huge amounts of data. This will help businesses and researchers understand things better and make smarter decisions. But, as we use more data, we'll also need to be careful about privacy and rules. Governments might make new laws to make sure data is used in a fair and safe way. This will help keep people's information private while still letting everyone benefit from the data.
+Another trend is that people will start using more advanced ways to look at this data. Tools like [artificial intelligence](/wiki/ai-artificial-intelligence) and machine learning will become more common. These tools can quickly find patterns and make predictions from huge amounts of data. This will help businesses and researchers understand things better and make smarter decisions. But, as we use more data, we'll also need to be careful about privacy and rules. Governments might make new laws to make sure data is used in a fair and safe way. This will help keep people's information private while still letting everyone benefit from the data.
 
 ## References & Further Reading
 

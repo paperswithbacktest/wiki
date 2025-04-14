@@ -22,7 +22,7 @@ This makes RCNs different from regular bonds because there's a chance you won't 
 
 ## What are the key components of a Reverse Convertible Note?
 
-A Reverse Convertible Note (RCN) has a few main parts that you need to know about. The first part is the bond part. When you buy an RCN, you're lending money to a company, and they promise to pay you interest over a set time, like a regular bond. The interest rate is usually higher than what you'd get from a regular bond. This is because RCNs are riskier, and the higher interest is a way to make up for that risk.
+A Reverse Convertible Note (RCN) has a few main parts that you need to know about. The first part is the bond part. When you buy an RCN, you're lending money to a company, and they promise to pay you interest over a set time, like a regular bond. The [interest rate](/wiki/interest-rate-trading-strategies) is usually higher than what you'd get from a regular bond. This is because RCNs are riskier, and the higher interest is a way to make up for that risk.
 
 The second part is the option part. At the end of the set time, instead of getting your money back in cash, you might get shares of the company's stock. This depends on something called the "knock-in" level. If the stock price stays above this level, you get your money back in cash. But if the stock price falls below the knock-in level, you get shares instead. This means you could end up with stock that's worth less than what you invested.
 

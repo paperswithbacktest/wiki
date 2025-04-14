@@ -18,7 +18,7 @@ In moral contexts, sin can be understood as actions that harm others or oneself.
 
 ESG investing stands for Environmental, Social, and Governance investing. It is a way of looking at investments that takes into account not just how much money you might make, but also how companies treat the environment, their workers, and how they are run. People who do ESG investing want to put their money into companies that are good for the planet, treat people well, and have fair and honest leaders.
 
-When you invest with ESG in mind, you look at things like how a company deals with pollution, if they use renewable energy, and how they handle waste. You also check if they treat their employees fairly, if they help the community, and if they avoid things like child labor. Lastly, you look at governance, which means checking if the company's leaders are honest, if they pay their executives fairly, and if they have good rules to prevent corruption. ESG investing helps people feel good about where their money goes because it supports companies that try to do the right thing.
+When you invest with [ESG](/wiki/esg-investing) in mind, you look at things like how a company deals with pollution, if they use renewable energy, and how they handle waste. You also check if they treat their employees fairly, if they help the community, and if they avoid things like child labor. Lastly, you look at governance, which means checking if the company's leaders are honest, if they pay their executives fairly, and if they have good rules to prevent corruption. ESG investing helps people feel good about where their money goes because it supports companies that try to do the right thing.
 
 ## How do traditional views of sin influence modern ethical standards?
 

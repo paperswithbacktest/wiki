@@ -82,7 +82,7 @@ Another kind of model uses computers and math to look at a lot of different thin
 
 ## What is the Role of Algorithmic Trading in the Energy Market?
 
-Algorithmic trading, a technological advancement in financial markets, employs sophisticated algorithms and data analytics to execute trading decisions at speeds and volumes beyond human capability. In energy markets, particularly the oil market, [algorithmic trading](/wiki/algorithmic-trading) has introduced significant changes in price dynamics and volatility.
+Algorithmic trading, a technological advancement in financial markets, employs sophisticated algorithms and data analytics to execute trading decisions at speeds and volumes beyond human capability. In energy markets, particularly the oil market, [algorithmic trading](/wiki/algorithmic-trading) has introduced significant changes in price dynamics and [volatility](/wiki/volatility-trading-strategies).
 
 Algorithmic trading strategies process extensive datasets, identifying patterns and executing trades based on predefined criteria. This capability allows traders to capitalize on short-term price movements, increasing [liquidity](/wiki/liquidity-risk-premium) but also introducing volatility. The volatility is often due to the rapid execution of trades that amplify existing market trends. For example, [momentum](/wiki/momentum)-based algorithms might exacerbate a price increase by buying into a rising market, or accelerate a decline by selling into a falling market. 
 

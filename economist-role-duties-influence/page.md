@@ -30,7 +30,7 @@ Economists also write reports and give speeches to explain their ideas to the pu
 
 ## What educational background is required to become an economist?
 
-To become an economist, you usually need to go to college and study economics. Many economists have a bachelor's degree in economics or a related field like business, math, or statistics. This degree helps you learn about how the economy works, how to use numbers and data, and how to think about money and choices people make.
+To become an economist, you usually need to go to college and study economics. Many economists have a bachelor's degree in economics or a related field like business, math, or [statistics](/wiki/bayesian-statistics). This degree helps you learn about how the economy works, how to use numbers and data, and how to think about money and choices people make.
 
 After getting a bachelor's degree, many economists go on to get a master's degree or a PhD in economics. These higher degrees help you learn even more and can lead to better jobs. With a master's or PhD, you can work for the government, big companies, or teach at a college. It takes a lot of hard work and study to become an economist, but it can be a very interesting and important job.
 
@@ -84,7 +84,7 @@ Globalization has also made the job of economists more important and complex. As
 
 ## What is the impact of algorithmic trading on economic theory?
 
-Algorithmic trading has brought a paradigm shift in economic theory, particularly challenging conventional notions of market efficiency and human behavior. Traditional economic models, such as the Efficient Market Hypothesis (EMH), posit that asset prices reflect all available information, ensuring that markets are efficient. However, the advent of algorithmic trading introduces complexities that question the robustness of such models.
+Algorithmic trading has brought a paradigm shift in economic theory, particularly challenging conventional notions of market efficiency and human behavior. Traditional economic models, such as the Efficient Market Hypothesis (EMH), posit that asset prices reflect all available information, ensuring that markets are efficient. However, the advent of [algorithmic trading](/wiki/algorithmic-trading) introduces complexities that question the robustness of such models.
 
 **Market Efficiency and Price Discovery**
 

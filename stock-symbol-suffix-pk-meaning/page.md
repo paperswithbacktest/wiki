@@ -66,7 +66,7 @@ Some .PK companies might choose to share more information to help investors feel
 
 ## How does the liquidity of .PK stocks compare to stocks listed on major exchanges?
 
-The liquidity of .PK stocks is usually lower than the liquidity of stocks listed on major exchanges. Liquidity means how easy it is to buy or sell a stock without changing its price too much. Because .PK stocks are often from smaller or newer companies, there are fewer people buying and selling them. This means if you want to buy or sell a .PK stock, it might take longer to find someone to trade with, and the price might go up or down more than you expect.
+The [liquidity](/wiki/liquidity-risk-premium) of .PK stocks is usually lower than the liquidity of stocks listed on major exchanges. Liquidity means how easy it is to buy or sell a stock without changing its price too much. Because .PK stocks are often from smaller or newer companies, there are fewer people buying and selling them. This means if you want to buy or sell a .PK stock, it might take longer to find someone to trade with, and the price might go up or down more than you expect.
 
 Stocks on major exchanges like the New York Stock Exchange or NASDAQ are usually more liquid. These exchanges have strict rules that companies have to follow, and they attract more investors. More investors mean more people are buying and selling the stocks, so it's easier to trade them quickly without big price changes. If you're thinking about buying or selling stocks, knowing about liquidity can help you make better choices, especially with .PK stocks.
 

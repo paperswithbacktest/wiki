@@ -36,7 +36,7 @@ The biggest risk with an Iron Condor is that the stock price might move a lot in
 
 To set up an Iron Condor trade, you first need to choose a stock that you think won't move much in price. Then, you sell a call option with a higher strike price and a put option with a lower strike price. These are the options you want to expire worthless so you can keep the money, called the premium, that you got from selling them. At the same time, you buy a call option with an even higher strike price and a put option with an even lower strike price. These options help limit how much money you could lose if the stock price moves a lot.
 
-The key to setting up an Iron Condor is picking the right strike prices for all four options. You want the stock price to stay between the strike prices of the options you sold. If it does, all four options will expire worthless, and you get to keep the premiums. But if the stock price moves outside this range, you could lose money. So, you need to watch the trade closely and be ready to make changes if the stock starts moving too much in one direction.
+The key to setting up an Iron Condor is [picking](/wiki/asset-class-picking) the right strike prices for all four options. You want the stock price to stay between the strike prices of the options you sold. If it does, all four options will expire worthless, and you get to keep the premiums. But if the stock price moves outside this range, you could lose money. So, you need to watch the trade closely and be ready to make changes if the stock starts moving too much in one direction.
 
 ## What are the ideal market conditions for executing an Iron Condor?
 
@@ -76,7 +76,7 @@ For example, if you see that there's a 70% chance the stock price will stay belo
 
 ## What are the tax implications of profits and losses from Iron Condor trades?
 
-When you make money or lose money from Iron Condor trades, you have to think about taxes. If you make a profit, it's usually taxed as short-term capital gains because options are often held for less than a year. This means the profit is added to your regular income and taxed at your normal income tax rate, which can be high depending on how much you make. If you lose money, you can use those losses to lower your taxes. You can take up to $3,000 of losses each year to reduce your taxable income. If your losses are more than $3,000, you can carry the extra over to future years.
+When you make money or lose money from Iron Condor trades, you have to think about taxes. If you make a profit, it's usually taxed as short-term capital gains because options are often held for less than a year. This means the profit is added to your regular income and taxed at your normal income tax rate, which can be high depending on how much you make. If you lose money, you can use those losses to lower your taxes. You can take up to $3,000 of losses each year to reduce your taxable income. If your losses are more than $3,000, you can [carry](/wiki/carry-trading) the extra over to future years.
 
 It's also important to keep good records of your trades. You need to write down when you bought and sold the options, how much you paid for them, and how much you got when you sold them. This helps you figure out your profits and losses correctly when you do your taxes. If you do a lot of trading, you might need to fill out a special tax form called Schedule D to report your capital gains and losses. Talking to a tax professional can help you make sure you're doing everything right and taking advantage of all the tax benefits you can.
 

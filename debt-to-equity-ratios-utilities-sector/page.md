@@ -40,7 +40,7 @@ However, the debt-to-equity ratio can vary a lot across different industries. Fo
 
 ## What factors influence the debt-to-equity ratio in the utilities sector?
 
-Several things can change the debt-to-equity ratio in the utilities sector. One big thing is how much money it costs to build things like power plants and water systems. These projects are expensive, so utilities often borrow a lot of money to pay for them. Another thing that can affect the ratio is the interest rate. If interest rates are low, it's cheaper for utilities to borrow money, so they might take on more debt. But if rates go up, borrowing becomes more expensive, and they might try to keep their debt lower.
+Several things can change the debt-to-equity ratio in the utilities sector. One big thing is how much money it costs to build things like power plants and water systems. These projects are expensive, so utilities often borrow a lot of money to pay for them. Another thing that can affect the ratio is the [interest rate](/wiki/interest-rate-trading-strategies). If interest rates are low, it's cheaper for utilities to borrow money, so they might take on more debt. But if rates go up, borrowing becomes more expensive, and they might try to keep their debt lower.
 
 The economy also plays a role in the debt-to-equity ratio. When the economy is doing well, utilities might feel more confident about borrowing money because they think they'll make more money to pay it back. But if the economy is not doing well, they might be more careful and try to reduce their debt. Also, rules and regulations from the government can affect how much debt utilities can take on. If there are strict rules about how much debt is allowed, this can keep the debt-to-equity ratio lower.
 

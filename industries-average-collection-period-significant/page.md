@@ -100,7 +100,7 @@ Efficient management of the average collection period can significantly bolster 
 
 ## References & Further Reading
 
-For those seeking a deeper understanding of financial metrics such as the average collection period and innovative trading methodologies like algorithmic trading, several resources are recommended. Industry publications, peer-reviewed journals, and authoritative financial analysis [books](/wiki/algo-trading-books) are excellent starting points.
+For those seeking a deeper understanding of financial metrics such as the average collection period and innovative trading methodologies like [algorithmic trading](/wiki/algorithmic-trading), several resources are recommended. Industry publications, peer-reviewed journals, and authoritative financial analysis [books](/wiki/algo-trading-books) are excellent starting points.
 
 1. **Industry Publications**:
    - The "Harvard Business Review" often covers practical applications and strategies related to financial metrics and trading.

@@ -24,7 +24,7 @@ Another reason economic growth is important is that it makes a country stronger 
 
 The main indicator of economic growth is the Gross Domestic Product (GDP). GDP is the total value of all goods and services produced in a country in a year. When the GDP goes up from one year to the next, it means the economy is growing. People often look at the GDP growth rate, which is how much the GDP increased compared to the previous year. A higher growth rate means the economy is doing well.
 
-Another important indicator is employment. When the economy grows, more jobs are created, and the unemployment rate goes down. The unemployment rate is the percentage of people who want to work but can't find a job. A lower unemployment rate is a good sign that the economy is growing because it means more people are working and earning money.
+Another important indicator is employment. When the economy grows, more jobs are created, and the unemployment rate goes down. The unemployment rate is the percentage of people who want to work but can't find a job. A lower unemployment rate is a good sign that the economy is growing because it means more people are working and [earning](/wiki/earning-announcement) money.
 
 Other indicators include personal income and consumer spending. When people earn more money, they can spend more on things they need and want. This increase in spending helps businesses grow and can lead to more economic growth. So, when personal income and consumer spending go up, it's another sign that the economy is doing well.
 

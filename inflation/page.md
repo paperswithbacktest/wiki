@@ -88,7 +88,7 @@ Because of this, governments and central banks pay a lot of attention to what pe
 
 ## How can trading algorithms be adapted for inflation?
 
-Integrating macroeconomic data and inflation forecasts into algorithmic trading models involves leveraging a wide array of statistical and computational techniques to capture the complex dynamics of inflation and its effects on different asset classes. This process is critical for developing robust trading strategies in volatile markets.
+Integrating macroeconomic data and inflation forecasts into [algorithmic trading](/wiki/algorithmic-trading) models involves leveraging a wide array of statistical and computational techniques to capture the complex dynamics of inflation and its effects on different asset classes. This process is critical for developing robust trading strategies in volatile markets.
 
 ### Integrating Macroeconomic Data and Inflation Forecasts
 

@@ -18,7 +18,7 @@ These ETFs often have higher fees compared to passively managed funds because of
 
 Actively managed ETFs and passively managed ETFs are two different ways to invest in the stock market. Actively managed ETFs have a person or a team of people who decide what stocks or other investments to buy and sell. They try to pick investments that will do better than the overall market. This means the investments in the ETF can change a lot, depending on what the managers think is best.
 
-On the other hand, passively managed ETFs are designed to follow a specific index, like the S&P 500. They don't try to beat the market; instead, they aim to match the performance of the index they track. The investments in a passively managed ETF don't change much, except when the index itself changes. Because they don't need people to actively make decisions, passively managed ETFs usually have lower fees than actively managed ETFs.
+On the other hand, passively managed ETFs are designed to follow a specific index, like the S&P 500. They don't try to beat the market; instead, they aim to match the performance of the index they track. The investments in a passively managed [ETF](/wiki/etf-trading-strategies) don't change much, except when the index itself changes. Because they don't need people to actively make decisions, passively managed ETFs usually have lower fees than actively managed ETFs.
 
 The main differences between the two are the way they are managed and their costs. Actively managed ETFs might have higher fees because they need to pay for the managers' time and research. But, some people are willing to pay more if they think the managers can pick investments that will do better than the market. Passively managed ETFs are cheaper and simpler, but they won't outperform the market; they just aim to keep up with it.
 
@@ -36,7 +36,7 @@ The goal of these managers is to make the ETF do better than the overall market.
 
 ## What are the common strategies used in actively managed ETFs?
 
-Actively managed ETFs use different strategies to try and beat the market. One common strategy is called stock picking. This means the managers choose specific stocks they think will do well. They look at things like company earnings, how the industry is doing, and what's happening in the world to decide which stocks to buy. They might also sell stocks if they think those companies won't do as well in the future.
+Actively managed ETFs use different strategies to try and beat the market. One common strategy is called stock [picking](/wiki/asset-class-picking). This means the managers choose specific stocks they think will do well. They look at things like company earnings, how the industry is doing, and what's happening in the world to decide which stocks to buy. They might also sell stocks if they think those companies won't do as well in the future.
 
 Another strategy is called sector rotation. This means the managers move money into different parts of the market based on what they think will do well at different times. For example, they might put more money into technology stocks if they think tech will grow a lot, or into healthcare stocks if they think that sector will do better. This way, they try to take advantage of trends in the market.
 
@@ -56,7 +56,7 @@ Compared to mutual funds, the fees for actively managed ETFs can be similar or s
 
 ## Can you provide examples of successful actively managed ETFs?
 
-One example of a successful actively managed ETF is the ARK Innovation ETF (ARKK). This ETF is managed by Cathie Wood and focuses on companies that are innovating in areas like technology, genomics, and artificial intelligence. ARKK has done really well over the years, often beating the market. It's popular with investors who want to invest in the future of technology and are okay with the higher fees that come with an actively managed fund.
+One example of a successful actively managed ETF is the ARK Innovation ETF (ARKK). This ETF is managed by Cathie Wood and focuses on companies that are innovating in areas like technology, genomics, and [artificial intelligence](/wiki/ai-artificial-intelligence). ARKK has done really well over the years, often beating the market. It's popular with investors who want to invest in the future of technology and are okay with the higher fees that come with an actively managed fund.
 
 Another example is the JPMorgan Equity Premium Income ETF (JEPI). This ETF is managed by JPMorgan and aims to give investors a good income while also trying to grow their money. JEPI uses a strategy called covered call writing to generate extra income. It has been successful in providing steady returns and is a good choice for people who want both income and growth from their investments. Even though it has higher fees, many investors think it's worth it because of the income and performance.
 
@@ -86,7 +86,7 @@ Also, changes in regulations can affect the costs of running an actively managed
 
 ## What is the Performance Analysis of Actively Managed ETFs?
 
-Evaluating the performance of actively managed ETFs involves a comprehensive analysis that incorporates both quantitative and qualitative measures. Quantitative metrics such as returns, volatility, and Sharpe ratios often serve as the primary indicators of an ETF's performance. Returns are straightforward; they represent the gain or loss of an investment over a specified period. The volatility of an ETF helps to measure the price variability, providing insights into the potential risks associated with the investment. The Sharpe ratio further refines performance evaluation by adjusting returns based on the level of risk taken. It is calculated as follows:
+Evaluating the performance of actively managed ETFs involves a comprehensive analysis that incorporates both quantitative and qualitative measures. Quantitative metrics such as returns, [volatility](/wiki/volatility-trading-strategies), and Sharpe ratios often serve as the primary indicators of an ETF's performance. Returns are straightforward; they represent the gain or loss of an investment over a specified period. The volatility of an ETF helps to measure the price variability, providing insights into the potential risks associated with the investment. The Sharpe ratio further refines performance evaluation by adjusting returns based on the level of risk taken. It is calculated as follows:
 
 $$
 \text{Sharpe Ratio} = \frac{R_p - R_f}{\sigma_p}
@@ -94,9 +94,9 @@ $$
 
 where $R_p$ is the portfolio return, $R_f$ is the risk-free rate, and $\sigma_p$ is the standard deviation of the portfolio's excess return.
 
-Comparing these metrics against benchmarks like the S&P 500 or relevant indices allows investors to assess whether actively managed ETFs deliver enhanced returns over passive portfolios. Empirical evidence suggests that while some actively managed ETFs have outperformed benchmarks, the degree of success is often contingent on market conditions and the specific sector focus of the ETF. For example, during volatile market conditions, skilled fund managers might leverage algorithmic trading to identify [arbitrage](/wiki/arbitrage) opportunities, potentially leading to superior performance over passive counterparts.
+Comparing these metrics against benchmarks like the S&P 500 or relevant indices allows investors to assess whether actively managed ETFs deliver enhanced returns over passive portfolios. Empirical evidence suggests that while some actively managed ETFs have outperformed benchmarks, the degree of success is often contingent on market conditions and the specific sector focus of the ETF. For example, during volatile market conditions, skilled fund managers might leverage [algorithmic trading](/wiki/algorithmic-trading) to identify [arbitrage](/wiki/arbitrage) opportunities, potentially leading to superior performance over passive counterparts.
 
-The qualitative aspect of performance assessment involves evaluating the skills and strategies of the fund managers. The ability of managers to make informed decisions based on market insights and data-driven analytics is central to the success of actively managed ETFs. Algorithmic trading plays a pivotal role here, enhancing decision-making by analyzing vast datasets and executing trades at optimal times. This approach can mitigate transaction costs and improve liquidity, offering a competitive edge in achieving desired outcomes.
+The qualitative aspect of performance assessment involves evaluating the skills and strategies of the fund managers. The ability of managers to make informed decisions based on market insights and data-driven analytics is central to the success of actively managed ETFs. Algorithmic trading plays a pivotal role here, enhancing decision-making by analyzing vast datasets and executing trades at optimal times. This approach can mitigate transaction costs and improve [liquidity](/wiki/liquidity-risk-premium), offering a competitive edge in achieving desired outcomes.
 
 Moreover, algorithmic trading strategies can adjust to market changes swiftly, enabling actively managed ETFs to maintain a strategic posture even during unforeseen economic shifts. The alignment of algorithmic strategies with the fund's objectives ensures that the ETF remains responsive and adaptable in a dynamic financial environment.
 

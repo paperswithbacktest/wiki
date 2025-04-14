@@ -42,7 +42,7 @@ The Efficient Market Hypothesis has three levels: weak, semi-strong, and strong.
 
 To check if markets are semi-strong efficient, people do tests to see if stock prices change right away when new public information comes out. One common test is called an event study. In an event study, researchers look at how stock prices move after something big happens, like a company announcing earnings or a merger. If the stock price jumps right after the news, it suggests the market is semi-strong efficient because the price quickly shows the new information.
 
-Another way to test semi-strong efficiency is by looking at how well people can make money using public information. For example, researchers might see if people who use stock-picking strategies based on public data, like financial ratios or news, can beat the market. If these strategies don't work better than just buying the whole market, it supports the idea that markets are semi-strong efficient because all public information is already in the stock prices.
+Another way to test semi-strong efficiency is by looking at how well people can make money using public information. For example, researchers might see if people who use stock-[picking](/wiki/asset-class-picking) strategies based on public data, like financial ratios or news, can beat the market. If these strategies don't work better than just buying the whole market, it supports the idea that markets are semi-strong efficient because all public information is already in the stock prices.
 
 ## Can you provide examples of events that might be used to test semi-strong form efficiency?
 

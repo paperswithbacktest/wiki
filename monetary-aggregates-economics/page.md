@@ -30,7 +30,7 @@ Understanding the difference between narrow and broad aggregates helps economist
 
 ## Can you explain the components of M1?
 
-M1 is a measure of money that includes the most liquid forms of money, which means it's the money people can use right away. The main part of M1 is physical cash, like the coins and dollar bills you carry in your wallet. This is called currency in circulation. It's the money that's out there being used by people every day.
+M1 is a measure of money that includes the most liquid forms of money, which means it's the money people can use right away. The main part of M1 is physical cash, like the coins and dollar bills you [carry](/wiki/carry-trading) in your wallet. This is called currency in circulation. It's the money that's out there being used by people every day.
 
 The other big part of M1 is called demand deposits. These are the funds you have in your checking account at the bank. You can use this money easily, like when you write a check, use a debit card, or do online banking to pay for things. Together, currency in circulation and demand deposits make up M1, which gives a good picture of the money that's immediately available for spending in the economy.
 

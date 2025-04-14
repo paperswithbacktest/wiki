@@ -18,7 +18,7 @@ The purpose of the KST in technical analysis is to help identify potential buy a
 
 The KST indicator is calculated by combining different rate-of-change (ROC) lines. First, you need to calculate the ROC for short-term, intermediate-term, and long-term periods. For example, you might use 10-day, 15-day, 20-day, and 30-day ROC lines. After calculating these ROC lines, you smooth them out using moving averages. The short-term ROC might be smoothed with a 10-day moving average, the intermediate-term with a 10-day moving average, and the long-term with a 15-day moving average.
 
-Once you have these smoothed ROC lines, you combine them to create the KST line. You do this by multiplying each smoothed ROC by a specific factor. For example, you might multiply the short-term smoothed ROC by 1, the intermediate-term by 2, and the long-term by 3. Then, you add these weighted values together to get the KST line. Finally, you smooth the KST line itself with another moving average, often a 9-day one, to create the signal line. The KST line and its signal line are then plotted on a chart to help traders see the momentum and trends.
+Once you have these smoothed ROC lines, you combine them to create the KST line. You do this by multiplying each smoothed ROC by a specific [factor](/wiki/factor-investing). For example, you might multiply the short-term smoothed ROC by 1, the intermediate-term by 2, and the long-term by 3. Then, you add these weighted values together to get the KST line. Finally, you smooth the KST line itself with another moving average, often a 9-day one, to create the signal line. The KST line and its signal line are then plotted on a chart to help traders see the momentum and trends.
 
 ## What are the default time periods used in the KST calculation?
 
@@ -68,7 +68,7 @@ Another tool that works well with the KST is the MACD. The MACD can catch quick 
 
 In the stock market, traders often use the KST to spot good times to buy or sell. For example, a trader might look at a stock like Apple and see that the KST line is going above the signal line. This tells the trader that the stock might be starting to go up. The trader then buys the stock and, over the next few weeks, the stock price does go up. The trader made a good choice by using the KST to help decide when to buy.
 
-Another example is in the forex market, where traders trade different currencies. A trader might use the KST to look at the trend of the EUR/USD pair. If the KST line goes below the signal line, it might mean the pair is going to go down. The trader then sells the pair and makes a profit as the price drops. By using the KST, the trader was able to see the trend and make a smart trading decision.
+Another example is in the [forex](/wiki/forex-system) market, where traders trade different currencies. A trader might use the KST to look at the trend of the EUR/USD pair. If the KST line goes below the signal line, it might mean the pair is going to go down. The trader then sells the pair and makes a profit as the price drops. By using the KST, the trader was able to see the trend and make a smart trading decision.
 
 ## How does the KST perform in different market conditions, such as trending versus ranging markets?
 

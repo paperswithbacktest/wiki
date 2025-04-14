@@ -72,7 +72,7 @@ CVP analysis is really helpful for making big decisions. For example, if a busin
 
 The latest trend in cost management technology is the use of cloud-based accounting software. This type of software lets businesses keep track of their costs from anywhere, as long as they have an internet connection. It's easy to use and often cheaper than traditional software because you don't have to buy and set up big systems. Cloud-based software can also update itself, so businesses always have the latest tools to manage their costs. It can connect with other tools like banks and payment systems, making it easier to see all the money coming in and going out.
 
-Another big trend is the use of artificial intelligence (AI) and machine learning in cost management. These technologies can look at a lot of data and find patterns that humans might miss. For example, AI can predict how much a business will spend on materials in the future, helping the business plan better. It can also spot when costs are going up and suggest ways to save money. Using AI and machine learning makes cost management more accurate and helps businesses make smarter decisions about where to spend their money.
+Another big trend is the use of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning) in cost management. These technologies can look at a lot of data and find patterns that humans might miss. For example, AI can predict how much a business will spend on materials in the future, helping the business plan better. It can also spot when costs are going up and suggest ways to save money. Using AI and machine learning makes cost management more accurate and helps businesses make smarter decisions about where to spend their money.
 
 ## How can predictive analytics be used to forecast future business costs?
 
@@ -110,7 +110,7 @@ Understanding and applying these cost calculation methods enables businesses to 
 
 ## What are the methods to calculate and minimize trading costs in algorithmic trading?
 
-Explicit costs in algorithmic trading refer to those that are directly quantifiable, such as brokerage and exchange fees. On the other hand, implicit costs include slippage and market impact, which are less defined but crucially important to overall trading effectiveness. Effective management of these costs is essential for optimizing algorithmic trading strategies and improving net returns.
+Explicit costs in [algorithmic trading](/wiki/algorithmic-trading) refer to those that are directly quantifiable, such as brokerage and exchange fees. On the other hand, implicit costs include slippage and market impact, which are less defined but crucially important to overall trading effectiveness. Effective management of these costs is essential for optimizing algorithmic trading strategies and improving net returns.
 
 **1. Transaction Cost Analysis (TCA):**
 

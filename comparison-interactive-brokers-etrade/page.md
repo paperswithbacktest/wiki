@@ -22,7 +22,7 @@ E*TRADE, on the other hand, also has no minimum to open a standard brokerage acc
 
 ## What are the commission fees for trading stocks on Interactive Brokers versus E*TRADE?
 
-Interactive Brokers has different commission fees depending on how much you trade. If you trade a lot, you can pay as little as $0.005 per share, but you need to trade at least 200,000 shares a month to get that rate. If you don't trade that much, you will pay a fixed rate of $0.005 per share with a $1 minimum per trade. So, if you buy 100 shares, you will pay $1, not $0.50. This makes Interactive Brokers good for people who trade a lot because the more you trade, the less you pay per share.
+[Interactive Brokers](/wiki/interactive-brokers-api) has different commission fees depending on how much you trade. If you trade a lot, you can pay as little as $0.005 per share, but you need to trade at least 200,000 shares a month to get that rate. If you don't trade that much, you will pay a fixed rate of $0.005 per share with a $1 minimum per trade. So, if you buy 100 shares, you will pay $1, not $0.50. This makes Interactive Brokers good for people who trade a lot because the more you trade, the less you pay per share.
 
 E*TRADE has a simpler fee structure. They charge $0 per trade for stocks and ETFs. This means you can buy or sell as many shares as you want without paying any commission fees. This makes E*TRADE a good choice for people who don't want to worry about fees and just want to start investing easily. However, if you want to trade options, E*TRADE charges $0.65 per contract, which is something to keep in mind if you plan to trade options.
 
@@ -34,7 +34,7 @@ E*TRADE's platform is much easier to use and is good for people who are new to i
 
 ## What types of investment products can you access through Interactive Brokers and E*TRADE?
 
-Interactive Brokers offers a wide range of investment products. You can trade stocks, bonds, options, futures, and forex. They also let you invest in mutual funds, ETFs, and even some less common things like metals and cryptocurrencies. This makes Interactive Brokers a good choice if you want to invest in many different types of products and have a lot of choices.
+Interactive Brokers offers a wide range of investment products. You can trade stocks, bonds, options, futures, and [forex](/wiki/forex-system). They also let you invest in mutual funds, ETFs, and even some less common things like metals and cryptocurrencies. This makes Interactive Brokers a good choice if you want to invest in many different types of products and have a lot of choices.
 
 E*TRADE also offers a variety of investment products, but the list is not as long as Interactive Brokers. You can buy and sell stocks, bonds, options, and mutual funds. They also offer ETFs and some futures. E*TRADE is good for people who want to invest in the more common types of investments and don't need as many choices as Interactive Brokers provides.
 
@@ -64,7 +64,7 @@ E*TRADE's mobile app is easier to use and good for people who are just starting 
 
 ## How do the advanced trading features, such as algorithmic trading, differ between Interactive Brokers and E*TRADE?
 
-Interactive Brokers has a lot of advanced trading features, like algorithmic trading. They have a tool called the API (Application Programming Interface) that lets you write your own computer programs to trade automatically. This is good for people who know how to code and want to make their own trading strategies. They also have something called the Algo Trading System, where you can use pre-made strategies or make your own. This makes Interactive Brokers a good choice for people who like to use technology to trade and want a lot of control over their trades.
+Interactive Brokers has a lot of advanced trading features, like [algorithmic trading](/wiki/algorithmic-trading). They have a tool called the API (Application Programming Interface) that lets you write your own computer programs to trade automatically. This is good for people who know how to code and want to make their own trading strategies. They also have something called the Algo Trading System, where you can use pre-made strategies or make your own. This makes Interactive Brokers a good choice for people who like to use technology to trade and want a lot of control over their trades.
 
 E*TRADE has some advanced trading features, but they are not as many as Interactive Brokers. They have a tool called Power E*TRADE, which gives you more tools for trading options and stocks. But, E*TRADE does not have an API for algorithmic trading like Interactive Brokers. This means you can't write your own programs to trade automatically. If you want to use advanced trading tools but don't need to write your own code, E*TRADE's Power E*TRADE might be enough for you. But if you need more advanced features like algorithmic trading, Interactive Brokers would be a better choice.
 

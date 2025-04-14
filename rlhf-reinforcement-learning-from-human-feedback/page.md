@@ -36,7 +36,7 @@ The key is to make sure the feedback is clear and helpful. Sometimes, people mig
 
 RLHF can be used for many different tasks, especially ones where it's hard to tell the AI exactly what to do with simple rules. For example, it can help AI learn to play video games better by getting tips from people on which moves are good or bad. It can also be used to train AI to write better stories or make better decisions in a game. If the task is tricky and needs a lot of human judgment, RLHF can help the AI learn faster and better.
 
-Another use of RLHF is in teaching AI to do things like answering questions or helping people with tasks. For instance, if an AI is helping someone find information on the internet, people can give feedback on whether the answers are helpful or not. This helps the AI learn to give better answers over time. RLHF is also good for training robots to do things like picking up objects or navigating around a room, where human guidance can make a big difference in how well the robot learns.
+Another use of RLHF is in teaching AI to do things like answering questions or helping people with tasks. For instance, if an AI is helping someone find information on the internet, people can give feedback on whether the answers are helpful or not. This helps the AI learn to give better answers over time. RLHF is also good for training robots to do things like [picking](/wiki/asset-class-picking) up objects or navigating around a room, where human guidance can make a big difference in how well the robot learns.
 
 ## How is the feedback from humans integrated into the learning algorithm?
 

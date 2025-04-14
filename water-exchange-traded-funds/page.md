@@ -18,7 +18,7 @@ Water ETFs are popular because water is essential for life and many industries, 
 
 A Water ETF works by pooling money from many investors to buy shares in a variety of companies that are involved in the water industry. These companies can be involved in things like water treatment, water utilities, or even technology that helps save water. When you buy shares in a Water ETF, you are essentially buying a small piece of all these different companies at once. This is different from buying stock in just one company, because it spreads your investment across many companies, which can help reduce risk.
 
-The value of a Water ETF goes up or down based on how well the companies it invests in are doing. If the water companies are making more money and growing, the value of the ETF usually goes up. If they are not doing well, the value might go down. You can buy or sell shares of a Water ETF on a stock exchange, just like you would with regular stocks. This makes it easy to get in and out of your investment whenever you want.
+The value of a Water [ETF](/wiki/etf-trading-strategies) goes up or down based on how well the companies it invests in are doing. If the water companies are making more money and growing, the value of the ETF usually goes up. If they are not doing well, the value might go down. You can buy or sell shares of a Water ETF on a stock exchange, just like you would with regular stocks. This makes it easy to get in and out of your investment whenever you want.
 
 ## What are the benefits of investing in Water ETFs?
 
@@ -36,7 +36,7 @@ Another risk is that Water ETFs might not grow as fast as you hope. Even though 
 
 There are a few popular Water ETFs that people like to invest in. One of them is the Invesco Water Resources ETF (PHO). This ETF focuses on companies that are involved in water utilities, water treatment, and water technology. Another popular one is the First Trust Water ETF (FIW). This ETF also invests in companies that work with water, but it might have a different mix of companies than PHO.
 
-Another well-known Water ETF is the Ecofin Global Water ESG Fund (EBLU). This ETF not only focuses on water companies but also considers how those companies treat the environment and their workers. It's a good choice for people who want to invest in water and also care about sustainability. These ETFs are all traded on stock exchanges, so you can buy and sell them easily, just like regular stocks.
+Another well-known Water ETF is the Ecofin Global Water [ESG](/wiki/esg-investing) Fund (EBLU). This ETF not only focuses on water companies but also considers how those companies treat the environment and their workers. It's a good choice for people who want to invest in water and also care about sustainability. These ETFs are all traded on stock exchanges, so you can buy and sell them easily, just like regular stocks.
 
 ## How do Water ETFs contribute to sustainable investing?
 
@@ -46,7 +46,7 @@ Also, Water ETFs often look at how companies treat the environment and their wor
 
 ## What factors should be considered when choosing a Water ETF?
 
-When choosing a Water ETF, you should first think about what kind of companies are in the ETF. Some Water ETFs focus more on water utilities, while others might have more companies that work on water technology or conservation. You need to decide which type of water company you want to support with your investment. Also, look at the fees the ETF charges. Some ETFs have higher fees than others, and these fees can eat into your profits over time. So, picking an ETF with lower fees can help you keep more of your money.
+When choosing a Water ETF, you should first think about what kind of companies are in the ETF. Some Water ETFs focus more on water utilities, while others might have more companies that work on water technology or conservation. You need to decide which type of water company you want to support with your investment. Also, look at the fees the ETF charges. Some ETFs have higher fees than others, and these fees can eat into your profits over time. So, [picking](/wiki/asset-class-picking) an ETF with lower fees can help you keep more of your money.
 
 Another thing to consider is how the ETF performs over time. You can look at past performance to see if the ETF has been growing or if it has been up and down a lot. Remember, past performance doesn't guarantee future results, but it can give you an idea of how the ETF might do. Also, think about the ETF's approach to sustainability. Some Water ETFs focus on ESG factors, which means they care about the environment, social issues, and how the companies are run. If you want your investment to help the planet, choosing an ETF that looks at these factors can be a good idea.
 

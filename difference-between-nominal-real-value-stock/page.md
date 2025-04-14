@@ -24,7 +24,7 @@ The real value is different from the stock's market price, which is what people 
 
 The nominal value of a stock, also called par value, is decided by the company when they first issue the stock. It's a small number that the company picks, and it doesn't really show how much the stock is worth in the market. For example, a company might say the nominal value of its stock is $0.01 per share, even if people are buying and selling it for $50 per share.
 
-This nominal value is important for the company's legal and accounting records. It helps figure out the company's legal capital, which is the minimum amount of money the company has to keep to protect people who lend them money. When the company sells the stock, they write down the nominal value in their financial books as part of their equity. But remember, the nominal value stays the same and doesn't change, even if the price people pay for the stock goes up or down.
+This nominal value is important for the company's legal and accounting records. It helps figure out the company's legal capital, which is the minimum amount of money the company has to keep to protect people who lend them money. When the company sells the stock, they write down the nominal value in their financial [books](/wiki/algo-trading-books) as part of their equity. But remember, the nominal value stays the same and doesn't change, even if the price people pay for the stock goes up or down.
 
 ## How is the real value of a stock calculated?
 

@@ -18,7 +18,7 @@ Data analysis is important because it helps people make better choices based on 
 
 The first part of data analysis is collecting and preparing the data. This means gathering all the information you need from different places like surveys, databases, or sensors. Once you have the data, you need to clean it. Cleaning data means fixing any mistakes, removing information that is not needed, and making sure everything is in the right format. After cleaning, you organize the data so it's easier to work with. This step is important because if your data is messy, your analysis won't be accurate.
 
-Next, you start analyzing the data. This involves using different methods and tools to look for patterns, trends, and relationships. You might use simple math, like calculating averages, or more complex techniques, like machine learning. The goal is to turn the data into useful information. After analyzing, you interpret the results. This means figuring out what the data is telling you and what it means for your question or problem. Finally, you share your findings. You can do this by making reports, charts, or presentations to help others understand what you found and how they can use it.
+Next, you start analyzing the data. This involves using different methods and tools to look for patterns, trends, and relationships. You might use simple math, like calculating averages, or more complex techniques, like [machine learning](/wiki/machine-learning). The goal is to turn the data into useful information. After analyzing, you interpret the results. This means figuring out what the data is telling you and what it means for your question or problem. Finally, you share your findings. You can do this by making reports, charts, or presentations to help others understand what you found and how they can use it.
 
 ## What are some common data analysis tools and software?
 
@@ -34,7 +34,7 @@ After collecting the data, the next step is to prepare it for analysis. This mea
 
 ## What is the difference between descriptive and inferential statistics?
 
-Descriptive statistics is about describing what the data looks like. It involves using numbers and charts to show things like the average, the most common value, or how spread out the data is. For example, if you want to know the average height of students in a class, you would use descriptive statistics to calculate that. It helps you understand and summarize the data you have, but it doesn't let you make guesses about other data you don't have.
+Descriptive [statistics](/wiki/bayesian-statistics) is about describing what the data looks like. It involves using numbers and charts to show things like the average, the most common value, or how spread out the data is. For example, if you want to know the average height of students in a class, you would use descriptive statistics to calculate that. It helps you understand and summarize the data you have, but it doesn't let you make guesses about other data you don't have.
 
 Inferential statistics, on the other hand, is about making guesses or predictions based on the data you have. It lets you use a small part of the data, called a sample, to say something about a bigger group, called a population. For example, if you survey a small group of people to see if they like a new product, you can use inferential statistics to guess if other people who weren't in the survey might like it too. This type of statistics involves more complex math and tests to make sure your guesses are likely to be correct.
 
@@ -84,7 +84,7 @@ Using regression analysis makes data analysis more accurate and useful. It's not
 
 ## How can you extract and prepare data?
 
-Data extraction in algorithmic trading is a crucial process that enables traders to access and utilize historical and current market data effectively. This can be achieved through Application Programming Interfaces (APIs) such as Quandl, which offer a comprehensive dataset covering diverse financial markets. Through these APIs, traders can obtain various data types, including stock prices, trading volume, and economic indicators, which are essential for developing informed trading strategies.
+Data extraction in [algorithmic trading](/wiki/algorithmic-trading) is a crucial process that enables traders to access and utilize historical and current market data effectively. This can be achieved through Application Programming Interfaces (APIs) such as Quandl, which offer a comprehensive dataset covering diverse financial markets. Through these APIs, traders can obtain various data types, including stock prices, trading [volume](/wiki/volume-trading-strategy), and economic indicators, which are essential for developing informed trading strategies.
 
 Once the data is extracted, the next step involves data preparation, a process that includes cleaning and formatting the data for analysis. Cleaning data typically involves handling missing values, correcting inconsistencies, and ensuring accuracy. For instance, outliers might need to be addressed, and incorrect entries must be rectified to maintain dataset integrity. Formatting ensures that the data is structured appropriately for analysis. This step often involves converting timestamps, normalizing data scales, or transforming data types as needed.
 

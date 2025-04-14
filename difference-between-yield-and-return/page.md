@@ -22,7 +22,7 @@ Returns can come in different forms. Sometimes, you get money back through divid
 
 ## How is yield calculated?
 
-Yield is calculated by figuring out how much money an investment makes in a year and then dividing that by the investment's value. For example, if you buy a bond for $1,000 and it pays you $50 every year, the yield is $50 divided by $1,000, which equals 5%. This 5% tells you how much you're earning from that bond each year compared to what you paid for it.
+Yield is calculated by figuring out how much money an investment makes in a year and then dividing that by the investment's value. For example, if you buy a bond for $1,000 and it pays you $50 every year, the yield is $50 divided by $1,000, which equals 5%. This 5% tells you how much you're [earning](/wiki/earning-announcement) from that bond each year compared to what you paid for it.
 
 Different investments can have different ways to calculate yield. For stocks, yield often comes from dividends. If a stock costs $100 and pays a $4 dividend each year, the yield is $4 divided by $100, which is 4%. For real estate, yield might be the rent you get minus expenses, divided by the property's value. No matter the type of investment, knowing the yield helps you see if it's a good deal compared to other options.
 

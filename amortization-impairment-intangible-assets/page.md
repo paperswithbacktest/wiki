@@ -18,7 +18,7 @@ For example, a famous brand like Coca-Cola has a lot of value in its name and lo
 
 Amortization is a way of spreading out the cost of an intangible asset over the time it's useful to a company. Instead of paying for the whole asset at once, the company records a smaller expense each year. This helps match the cost of the asset with the money it helps the company make over time. For example, if a company buys a patent for $10,000 and it's useful for 10 years, they might record an expense of $1,000 each year.
 
-This process is similar to depreciation, which is used for physical assets like machines or buildings. But with intangible assets, you can't see or touch them, so you use amortization instead. It's important for keeping a company's financial records accurate and showing how much value the intangible asset still has. Over time, as the asset is amortized, its value on the company's books goes down until it reaches zero at the end of its useful life.
+This process is similar to depreciation, which is used for physical assets like machines or buildings. But with intangible assets, you can't see or touch them, so you use amortization instead. It's important for keeping a company's financial records accurate and showing how much value the intangible asset still has. Over time, as the asset is amortized, its value on the company's [books](/wiki/algo-trading-books) goes down until it reaches zero at the end of its useful life.
 
 ## How is the amortization period for intangible assets determined?
 

@@ -22,7 +22,7 @@ This theorem is important because it shows that you don't need to buy a lot of d
 
 ## How does the Mutual Fund Theorem relate to portfolio diversification?
 
-The Mutual Fund Theorem is all about making it easier for people to spread out their investment risk. It says that instead of buying lots of different stocks and bonds yourself, you can just invest in two mutual funds. One fund should be safe, like a bond fund, and the other should be riskier, like a stock fund. By mixing these two funds in the right way, you can create a portfolio that matches how much risk you're okay with taking. This is a big help because it means you don't have to spend a lot of time and effort picking individual investments.
+The Mutual Fund Theorem is all about making it easier for people to spread out their investment risk. It says that instead of buying lots of different stocks and bonds yourself, you can just invest in two mutual funds. One fund should be safe, like a bond fund, and the other should be riskier, like a stock fund. By mixing these two funds in the right way, you can create a portfolio that matches how much risk you're okay with taking. This is a big help because it means you don't have to spend a lot of time and effort [picking](/wiki/asset-class-picking) individual investments.
 
 This theorem is closely tied to the idea of portfolio diversification. Diversification means not putting all your eggs in one basket, and the Mutual Fund Theorem shows a simple way to do this. By investing in a mix of a safe and a risky mutual fund, you're spreading your money across many different types of investments without having to do all the work yourself. This can help you manage risk better and still have a chance to grow your money over time.
 
@@ -129,5 +129,5 @@ Sharpe, William F. "Capital Asset Prices: A Theory of Market Equilibrium Under C
 
 Elton, Edwin J., and Gruber, Martin J. "Modern Portfolio Theory and Investment Analysis." John Wiley & Sons, 2011. This book offers comprehensive coverage of modern portfolio theory, delving into the principles of diversification, risk management, and portfolio optimization. It bridges theoretical concepts with practical applications, ensuring readers can implement effective investment strategies.
 
-For further exploration of these topics, readers are encouraged to review recent academic journals and industry publications on investment strategies and algorithmic trading. These sources not only expand on the foundational theories discussed but also provide updates on current trends and technological advances that are shaping the future of investment strategies and portfolio management.
+For further exploration of these topics, readers are encouraged to review recent academic journals and industry publications on investment strategies and [algorithmic trading](/wiki/algorithmic-trading). These sources not only expand on the foundational theories discussed but also provide updates on current trends and technological advances that are shaping the future of investment strategies and portfolio management.
 

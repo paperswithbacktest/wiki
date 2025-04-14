@@ -22,7 +22,7 @@ Using the CVI can help traders make better decisions. For example, if the CVI is
 
 ## How is the Cumulative Volume Index calculated?
 
-The Cumulative Volume Index (CVI) is calculated by looking at the volume of shares traded each day and whether the market went up or down. If the market goes up on a certain day, you add the total volume of shares traded that day to the CVI. If the market goes down on a certain day, you subtract the total volume of shares traded that day from the CVI. You keep doing this every day, starting from a certain point in time, to get the current value of the CVI.
+The Cumulative Volume Index (CVI) is calculated by looking at the [volume](/wiki/volume-trading-strategy) of shares traded each day and whether the market went up or down. If the market goes up on a certain day, you add the total volume of shares traded that day to the CVI. If the market goes down on a certain day, you subtract the total volume of shares traded that day from the CVI. You keep doing this every day, starting from a certain point in time, to get the current value of the CVI.
 
 For example, if on Monday the market goes up and 1 million shares are traded, you add 1 million to the CVI. If on Tuesday the market goes down and 800,000 shares are traded, you subtract 800,000 from the CVI. By keeping a running total like this, the CVI shows whether more volume is happening on up days or down days over time. This helps traders see if money is flowing into or out of the market.
 

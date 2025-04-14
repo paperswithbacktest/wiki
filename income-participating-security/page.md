@@ -18,7 +18,7 @@ IPS is often used by companies that want to raise money without issuing regular 
 
 An Income Participating Security (IPS) is different from traditional bonds because it offers investors a chance to earn more money if the company does well. Traditional bonds give you a fixed interest payment no matter how the company is doing. But with an IPS, if the company makes more profit, you might get extra money on top of your regular interest. This makes an IPS more like a mix between a bond and a stock.
 
-Traditional bonds are usually safer because you know exactly how much money you'll get back, as long as the company doesn't go bankrupt. An IPS, on the other hand, can be riskier because your extra earnings depend on the company's performance. But this also means that if the company does really well, you could end up earning more than you would with a traditional bond. So, an IPS can be a good choice if you want a bit of safety but are also willing to take on some risk for the chance of higher rewards.
+Traditional bonds are usually safer because you know exactly how much money you'll get back, as long as the company doesn't go bankrupt. An IPS, on the other hand, can be riskier because your extra earnings depend on the company's performance. But this also means that if the company does really well, you could end up [earning](/wiki/earning-announcement) more than you would with a traditional bond. So, an IPS can be a good choice if you want a bit of safety but are also willing to take on some risk for the chance of higher rewards.
 
 ## What are the key features of an Income Participating Security?
 
@@ -64,7 +64,7 @@ But when the economy is not doing so well, IPS can be riskier. If companies are 
 
 ## What are some real-world examples of Income Participating Securities?
 
-One real-world example of an Income Participating Security (IPS) is the one issued by the Canadian company Algoma Steel in 1991. Algoma Steel was facing financial difficulties and needed to raise money without going bankrupt. They issued an IPS that offered investors a fixed interest rate of 7% per year, plus the chance to get extra money if the company made more profit. This helped Algoma Steel get the money it needed while giving investors a chance to earn more if the company did well.
+One real-world example of an Income Participating Security (IPS) is the one issued by the Canadian company Algoma Steel in 1991. Algoma Steel was facing financial difficulties and needed to raise money without going bankrupt. They issued an IPS that offered investors a fixed [interest rate](/wiki/interest-rate-trading-strategies) of 7% per year, plus the chance to get extra money if the company made more profit. This helped Algoma Steel get the money it needed while giving investors a chance to earn more if the company did well.
 
 Another example is the IPS issued by the South African company Sappi Limited in 1997. Sappi wanted to raise money to expand its business and decided to use an IPS. The IPS offered investors a steady income with a fixed interest rate, but also the possibility of additional payments if Sappi's profits increased. This was attractive to investors who wanted some safety but were also willing to take on some risk for the chance of higher returns.
 

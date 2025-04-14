@@ -22,7 +22,7 @@ But, seasonality is just one piece of the puzzle. Many other things can change h
 
 ## Can you explain the concept of seasonal trends in forex trading?
 
-Seasonal trends in forex trading are patterns that happen at the same time every year. Traders see that some currencies get stronger or weaker during certain months or seasons. For example, the US dollar might go up in December because people are buying more things for the holidays. These patterns can help traders guess what might happen to currency values in the future. They can use this information to decide when to buy or sell a currency.
+Seasonal trends in [forex](/wiki/forex-system) trading are patterns that happen at the same time every year. Traders see that some currencies get stronger or weaker during certain months or seasons. For example, the US dollar might go up in December because people are buying more things for the holidays. These patterns can help traders guess what might happen to currency values in the future. They can use this information to decide when to buy or sell a currency.
 
 But, seasonal trends are not always right. Many other things can change how strong or weak a currency is. Big news, like a country's leader making an important decision, or changes in the world's economy can make currency values go up or down no matter what time of year it is. So, while seasonal trends can give traders a hint about what might happen, they need to look at lots of other information too before deciding to buy or sell a currency. It's important for traders to be careful and not just rely on seasonal patterns.
 

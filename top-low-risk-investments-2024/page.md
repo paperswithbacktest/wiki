@@ -106,7 +106,7 @@ Strategic allocation towards low-risk investments in a broader portfolio reduces
 
 ## How can one build a diversified portfolio using low-risk assets and algo trading?
 
-Creating a diversified portfolio that effectively balances low-risk assets with algorithmic trading strategies is an essential approach to building resilience and achieving sustainable financial growth. In this context, diversification involves organizing assets in a manner that not only minimizes risks but also has the potential to enhance returns. A prudent diversification strategy encompasses asset allocation and robust risk management frameworks.
+Creating a diversified portfolio that effectively balances low-risk assets with [algorithmic trading](/wiki/algorithmic-trading) strategies is an essential approach to building resilience and achieving sustainable financial growth. In this context, diversification involves organizing assets in a manner that not only minimizes risks but also has the potential to enhance returns. A prudent diversification strategy encompasses asset allocation and robust risk management frameworks.
 
 ### Asset Allocation
 
@@ -128,7 +128,7 @@ Risk management is crucial in maintaining a portfolio's health and ensuring long
 
 Combining traditional investment vehicles with technological solutions like algorithmic trading can provide significant advantages. Algorithmic trading utilizes computer programs to execute trades based on predetermined criteria, offering precision and speed. This can be particularly beneficial in reducing transaction costs and exploiting market inefficiencies.
 
-For instance, an algorithm might capture arbitrage opportunities between low-risk assets such as municipal bonds versus AAA corporate bonds, adjusting for yield and risk differentials. A simple Python implementation might look like:
+For instance, an algorithm might capture [arbitrage](/wiki/arbitrage) opportunities between low-risk assets such as municipal bonds versus AAA corporate bonds, adjusting for yield and risk differentials. A simple Python implementation might look like:
 
 ```python
 def arbitrage_opportunity(bond1_yield, bond2_yield, risk1, risk2):

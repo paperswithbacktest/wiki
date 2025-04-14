@@ -18,7 +18,7 @@ QSG was started in 2003 and has grown a lot since then. They have offices in dif
 
 Quantitative Services Group, or QSG, helps many different types of businesses. They work with big companies and smaller ones too. QSG helps businesses in areas like banking and finance, where they use numbers to figure out things like how to price loans or predict how the stock market might do. They also help companies that sell things to customers, like figuring out what people want to buy and how much to charge for it.
 
-Another area where QSG works is in health care. They help hospitals and doctors use data to make better decisions about patient care and how to run their business. QSG also works with companies that make products, helping them understand how to make their factories work better or how to design new products that people will like. They use math and statistics to solve these problems and help businesses in many different industries.
+Another area where QSG works is in health care. They help hospitals and doctors use data to make better decisions about patient care and how to run their business. QSG also works with companies that make products, helping them understand how to make their factories work better or how to design new products that people will like. They use math and [statistics](/wiki/bayesian-statistics) to solve these problems and help businesses in many different industries.
 
 ## How does Quantitative Services Group help businesses?
 
@@ -62,7 +62,7 @@ A third success story involves a hospital. The hospital wanted to take better ca
 
 ## How does Quantitative Services Group incorporate advanced technologies like AI and machine learning into their services?
 
-Quantitative Services Group, or QSG, uses advanced technologies like AI and machine learning to make their services better. They use these tools to look at a lot of data quickly and find patterns that might be hard to see otherwise. For example, they can use machine learning to predict what customers will buy in the future based on what they bought in the past. This helps stores know what products to stock and how to price them. AI also helps QSG make models that can change and get better over time, so their predictions keep getting more accurate.
+Quantitative Services Group, or QSG, uses advanced technologies like AI and [machine learning](/wiki/machine-learning) to make their services better. They use these tools to look at a lot of data quickly and find patterns that might be hard to see otherwise. For example, they can use machine learning to predict what customers will buy in the future based on what they bought in the past. This helps stores know what products to stock and how to price them. AI also helps QSG make models that can change and get better over time, so their predictions keep getting more accurate.
 
 In factories, QSG uses AI to figure out how to make things faster and cheaper. They use machine learning to study how the factory works and suggest changes that can save money. For example, they might find out that moving machines around or changing how workers do their jobs can make the factory more efficient. In hospitals, QSG uses AI to look at patient data and find ways to give better care. They can use machine learning to see what treatments work best for different patients and help the hospital make better decisions. By using these advanced technologies, QSG helps their clients make smarter choices and get better results.
 
@@ -80,7 +80,7 @@ QSG also follows rules and laws about data privacy. They make sure to handle dat
 
 ## What future trends does Quantitative Services Group anticipate in the field of quantitative analysis and how are they preparing for them?
 
-Quantitative Services Group, or QSG, thinks that in the future, more and more businesses will use numbers and data to make decisions. They believe that new technologies like artificial intelligence and machine learning will become even more important. These technologies can look at a lot of data very quickly and find patterns that people might miss. QSG also thinks that businesses will want to understand their customers better, so they will need more help with things like figuring out what people want to buy and how to price things right.
+Quantitative Services Group, or QSG, thinks that in the future, more and more businesses will use numbers and data to make decisions. They believe that new technologies like [artificial intelligence](/wiki/ai-artificial-intelligence) and machine learning will become even more important. These technologies can look at a lot of data very quickly and find patterns that people might miss. QSG also thinks that businesses will want to understand their customers better, so they will need more help with things like figuring out what people want to buy and how to price things right.
 
 To get ready for these changes, QSG is always learning about new technologies and methods. They train their team to use the latest tools and keep up with what's new in the world of numbers and data. QSG is also working on making their models and predictions even better, so they can give their clients the best advice possible. By staying ahead of these trends, QSG can keep helping businesses make smart choices and do better in the future.
 

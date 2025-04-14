@@ -207,7 +207,7 @@ This plot will show you a step-like graph where each step represents a data poin
 
 ## What are some common applications of ECDF in machine learning?
 
-The Empirical Cumulative Distribution Function (ECDF) is used in machine learning to help understand and compare the distribution of data. For example, when you're working on a classification problem, you might want to see if the features in your data follow a certain pattern or if they are different between classes. By plotting the ECDF for each feature, you can visually inspect how the data is spread out. This can help you decide if you need to transform the data or if there are any outliers that might affect your model's performance. For instance, if you're working with Python, you can easily plot an ECDF like this:
+The Empirical Cumulative Distribution Function (ECDF) is used in [machine learning](/wiki/machine-learning) to help understand and compare the distribution of data. For example, when you're working on a classification problem, you might want to see if the features in your data follow a certain pattern or if they are different between classes. By plotting the ECDF for each feature, you can visually inspect how the data is spread out. This can help you decide if you need to transform the data or if there are any outliers that might affect your model's performance. For instance, if you're working with Python, you can easily plot an ECDF like this:
 
 ```python
 import numpy as np
@@ -337,7 +337,7 @@ plt.show()
 print(f"The 75th percentile is: {percentile_75}")
 ```
 
-This code will plot the ECDF and show you where the 75th percentile falls on the graph. By looking at the ECDF, you can find any percentile you want, making it a handy tool for understanding your data's distribution and finding important summary statistics like quantiles and percentiles.
+This code will plot the ECDF and show you where the 75th percentile falls on the graph. By looking at the ECDF, you can find any percentile you want, making it a handy tool for understanding your data's distribution and finding important summary [statistics](/wiki/bayesian-statistics) like quantiles and percentiles.
 
 ## Can you discuss advanced techniques or modifications of ECDF used in specialized fields of machine learning?
 

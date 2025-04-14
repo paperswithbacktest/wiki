@@ -84,7 +84,7 @@ Another big trend could be how governments decide to treat cryptocurrencies, lik
 
 ## What is Understanding Algorithmic Trading in Cryptocurrency?
 
-Algorithmic trading refers to the use of computer algorithms and software designed to automatically execute trades within financial markets. In cryptocurrency, this approach is particularly attractive due to the market's inherent high volatility and its 24/7 operational hours. These characteristics provide a fertile ground for algorithmic trading, offering opportunities for rapid execution of trades and potential for enhanced returns.
+Algorithmic trading refers to the use of computer algorithms and software designed to automatically execute trades within financial markets. In cryptocurrency, this approach is particularly attractive due to the market's inherent high [volatility](/wiki/volatility-trading-strategies) and its 24/7 operational hours. These characteristics provide a fertile ground for algorithmic trading, offering opportunities for rapid execution of trades and potential for enhanced returns.
 
 In the cryptocurrency space, investors employ a variety of algorithms. Simple strategies might involve basic moving averages, which help identify trends over time by smoothing out price data. For example, a simple moving average (SMA) can be calculated as:
 

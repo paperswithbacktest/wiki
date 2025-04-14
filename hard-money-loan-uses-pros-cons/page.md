@@ -64,7 +64,7 @@ The LTV ratio affects how much money you can borrow and how much you need to put
 
 ## Can hard money loans be refinanced, and if so, how?
 
-Yes, hard money loans can be refinanced. Refinancing means you get a new loan to pay off the old one, usually with better terms like a lower interest rate or longer repayment time. To refinance a hard money loan, you need to find a new lender who is willing to give you a loan based on the current value of your property and your ability to pay it back. This could be a bank or another hard money lender. The new lender will look at your credit, the property's value, and how much you owe on the old loan to decide if they will give you the new loan.
+Yes, hard money loans can be refinanced. Refinancing means you get a new loan to pay off the old one, usually with better terms like a lower [interest rate](/wiki/interest-rate-trading-strategies) or longer repayment time. To refinance a hard money loan, you need to find a new lender who is willing to give you a loan based on the current value of your property and your ability to pay it back. This could be a bank or another hard money lender. The new lender will look at your credit, the property's value, and how much you owe on the old loan to decide if they will give you the new loan.
 
 Refinancing a hard money loan can be a good idea if you've fixed up the property and it's now worth more, or if your credit has improved. It can help you save money on interest and give you more time to pay back the loan. But, refinancing isn't always easy. You'll need to go through the loan application process again, and there might be fees and costs involved. It's important to think about whether the savings from refinancing will be worth the trouble and extra costs.
 

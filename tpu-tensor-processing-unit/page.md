@@ -22,7 +22,7 @@ Google wanted to solve this problem, so they made the TPU. It's a special chip t
 
 ## How does a TPU differ from a GPU and CPU in terms of architecture?
 
-A TPU, or Tensor Processing Unit, is made specifically for handling the math used in artificial intelligence, like tensor calculations. It has a simpler architecture than a CPU, with fewer, but more specialized parts. This makes it super fast at doing the same kind of math over and over again, which is what AI needs. A TPU has a lot of small processing units that can work together to do many calculations at the same time.
+A TPU, or Tensor Processing Unit, is made specifically for handling the math used in [artificial intelligence](/wiki/ai-artificial-intelligence), like tensor calculations. It has a simpler architecture than a CPU, with fewer, but more specialized parts. This makes it super fast at doing the same kind of math over and over again, which is what AI needs. A TPU has a lot of small processing units that can work together to do many calculations at the same time.
 
 A GPU, or Graphics Processing Unit, is a bit different. It was first made to handle graphics in video games and other visual stuff. Like a TPU, it has many small processing units that can work together, but it's not as specialized for AI math as a TPU. GPUs are still good for AI work, but they're more general and can do a lot of different tasks well.
 
@@ -30,7 +30,7 @@ A CPU, or Central Processing Unit, is the main chip in most computers. It's desi
 
 ## What are the main applications of TPUs?
 
-TPUs are mainly used for speeding up artificial intelligence and machine learning tasks. They help make things like image recognition and language translation work better and faster. For example, when you use Google Photos to find pictures of your dog, TPUs help the computer quickly figure out which photos have dogs in them. They also help with services like Google Translate, making it easier and quicker to understand different languages.
+TPUs are mainly used for speeding up artificial intelligence and [machine learning](/wiki/machine-learning) tasks. They help make things like image recognition and language translation work better and faster. For example, when you use Google Photos to find pictures of your dog, TPUs help the computer quickly figure out which photos have dogs in them. They also help with services like Google Translate, making it easier and quicker to understand different languages.
 
 Another important use of TPUs is in training AI models. This means teaching the computer to get better at doing things like recognizing faces or understanding speech. Because TPUs can do a lot of math calculations at the same time, they can make the training process much faster. This is really helpful for companies that need to build and improve AI systems quickly.
 
@@ -56,7 +56,7 @@ This method is really good for AI because AI needs to do the same kind of math o
 
 ## How do you set up and use a TPU in Google Colab?
 
-To set up and use a TPU in Google Colab, you first need to start a new notebook. Once you have your notebook open, go to the top menu and click on "Runtime". From the dropdown menu, select "Change runtime type". In the window that pops up, you'll see an option to choose the hardware accelerator. Click on the dropdown menu next to "Hardware accelerator" and select "TPU". Then click "Save" to apply the changes. Now your notebook is set up to use a TPU.
+To set up and use a TPU in Google Colab, you first need to start a new notebook. Once you have your notebook open, go to the top menu and click on "Runtime". From the dropdown menu, select "Change runtime type". In the window that pops up, you'll see an option to choose the hardware [accelerator](/wiki/accelerator). Click on the dropdown menu next to "Hardware accelerator" and select "TPU". Then click "Save" to apply the changes. Now your notebook is set up to use a TPU.
 
 After setting up the TPU, you can start using it in your code. To do this, you'll need to import the necessary libraries, like TensorFlow. You can connect to the TPU by running a few lines of code that detect and initialize the TPU. Once you're connected, you can use the TPU to speed up your machine learning tasks. Just remember to move your data and models to the TPU before you start training, so it can do its job properly. With these steps, you can take advantage of the TPU's power in Google Colab.
 

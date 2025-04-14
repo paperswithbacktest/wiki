@@ -18,7 +18,7 @@ The process of trading WI securities involves some risk because the final terms 
 
 When Issued (WI) securities are different from regular securities because you can trade them before they actually exist. With regular securities, you buy and sell them after they have been officially released. But with WI securities, you can start trading them even before they are fully created. This means you can buy or sell them based on what you think they will be worth when they finally come out.
 
-Another difference is that WI securities come with more uncertainty. When you trade regular securities, you know exactly what you are getting because they are already issued. But with WI securities, the final details like the interest rate on a bond might not be set yet. This can make the price go up and down more than with regular securities. However, trading WI securities lets people start figuring out what the new security might be worth before it's officially released.
+Another difference is that WI securities come with more uncertainty. When you trade regular securities, you know exactly what you are getting because they are already issued. But with WI securities, the final details like the [interest rate](/wiki/interest-rate-trading-strategies) on a bond might not be set yet. This can make the price go up and down more than with regular securities. However, trading WI securities lets people start figuring out what the new security might be worth before it's officially released.
 
 ## What types of securities are typically traded as When Issued?
 
@@ -76,7 +76,7 @@ Another important event was the introduction of new rules by the U.S. Securities
 
 ## What advanced strategies can be employed by expert traders in the When Issued market?
 
-Expert traders in the When Issued market often use a strategy called arbitrage. This means they buy and sell the same security in different markets to make a profit from the price difference. For example, if a When Issued security is cheaper in one market than another, they can buy it in the cheaper market and sell it in the more expensive one. This can be tricky because the prices can change quickly, but it can also be very profitable if done right.
+Expert traders in the When Issued market often use a strategy called [arbitrage](/wiki/arbitrage). This means they buy and sell the same security in different markets to make a profit from the price difference. For example, if a When Issued security is cheaper in one market than another, they can buy it in the cheaper market and sell it in the more expensive one. This can be tricky because the prices can change quickly, but it can also be very profitable if done right.
 
 Another strategy is called hedging. This is when traders use When Issued securities to protect themselves from losing money on other investments. For example, if a trader thinks the price of a bond they own will go down, they might short sell a When Issued bond that's similar. If the price does go down, the profit from the short sale can help cover the loss on the bond they own. Hedging can make trading safer, but it also means the trader might not make as much money if the prices go up instead of down.
 

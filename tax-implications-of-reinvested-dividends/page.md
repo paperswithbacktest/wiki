@@ -18,7 +18,7 @@ Dividends are usually paid out in cash, but sometimes they can be in the form of
 
 Reinvesting dividends means taking the money you get from dividends and using it to buy more shares of the same company instead of keeping it as cash. This can help your investment grow over time because you end up owning more of the company. Many companies offer a program called a Dividend Reinvestment Plan (DRIP) that makes it easy to do this automatically. When you sign up for a DRIP, the dividends you earn are used to buy more shares without you having to do anything.
 
-By reinvesting dividends, you can benefit from something called compounding. Compounding happens when the money you earn from your investments starts earning more money itself. For example, if you get a dividend and use it to buy more shares, those new shares can also earn dividends in the future. Over many years, this can make your investment grow much bigger than if you just took the dividends as cash. It's like planting a seed and watching it grow into a big tree over time.
+By reinvesting dividends, you can benefit from something called compounding. Compounding happens when the money you earn from your investments starts [earning](/wiki/earning-announcement) more money itself. For example, if you get a dividend and use it to buy more shares, those new shares can also earn dividends in the future. Over many years, this can make your investment grow much bigger than if you just took the dividends as cash. It's like planting a seed and watching it grow into a big tree over time.
 
 ## How are dividends taxed when they are received as cash?
 

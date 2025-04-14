@@ -25,7 +25,7 @@ One common algorithm for multi-class logistic regression is the one-vs-rest (OvR
 
 Another popular algorithm is the multinomial logistic regression, which directly models the probabilities of all classes at once using the softmax function. Instead of creating multiple binary classifiers, multinomial logistic regression calculates a score for each class and then uses the softmax function to convert these scores into probabilities. The formula for the softmax function is $$ \text{softmax}(z_i) = \frac{e^{z_i}}{\sum_{j=1}^K e^{z_j}} $$, where \( z_i \) is the score for class \( i \), and \( K \) is the total number of classes. This method can be more efficient and often provides better performance when the classes are not well-separated, as it considers all classes simultaneously.
 
-Both OvR and multinomial logistic regression can be implemented using various machine learning libraries. For example, in Python, you can use scikit-learn to implement these algorithms. Here's a simple example of how to use scikit-learn to perform multi-class logistic regression using the OvR approach:
+Both OvR and multinomial logistic regression can be implemented using various [machine learning](/wiki/machine-learning) libraries. For example, in Python, you can use scikit-learn to implement these algorithms. Here's a simple example of how to use scikit-learn to perform multi-class logistic regression using the OvR approach:
 
 ```python
 from sklearn.datasets import load_iris
@@ -82,7 +82,7 @@ You can also use other measures like precision, recall, and the area under the R
 
 One common challenge when using multi-class logistic regression is dealing with imbalanced data. This means that some classes have a lot more examples than others. When this happens, the model might get really good at guessing the class with the most examples but not so good at guessing the others. To fix this, you can try to balance the data by adding more examples of the less common classes or by giving more importance to the less common classes when training the model.
 
-Another challenge is choosing the right approach for multi-class classification. You can use the one-vs-rest (OvR) method, where you create a separate model for each class, or the multinomial logistic regression, which uses the softmax function $$ \text{softmax}(z_i) = \frac{e^{z_i}}{\sum_{j=1}^K e^{z_j}} $$ to model all classes at once. Each method has its pros and cons, and picking the wrong one can affect how well your model works. Sometimes, you might need to try both to see which one gives better results for your specific problem.
+Another challenge is choosing the right approach for multi-class classification. You can use the one-vs-rest (OvR) method, where you create a separate model for each class, or the multinomial logistic regression, which uses the softmax function $$ \text{softmax}(z_i) = \frac{e^{z_i}}{\sum_{j=1}^K e^{z_j}} $$ to model all classes at once. Each method has its pros and cons, and [picking](/wiki/asset-class-picking) the wrong one can affect how well your model works. Sometimes, you might need to try both to see which one gives better results for your specific problem.
 
 ## How can overfitting be prevented in Multi-Class Logistic Regression?
 

@@ -40,7 +40,7 @@ To find the Net Realizable Value (NRV), you subtract the total costs from the es
 
 ## How does NRV affect inventory valuation?
 
-NRV helps companies figure out the real value of their inventory. When a company calculates the NRV, it compares how much they can sell their inventory for, after paying for things like repairs or shipping, to how much they paid for it. If the NRV is less than what the company paid, they need to lower the value of that inventory on their books. This is called a write-down. By doing this, the company makes sure their financial statements show the true value of their inventory, not an overvalued one.
+NRV helps companies figure out the real value of their inventory. When a company calculates the NRV, it compares how much they can sell their inventory for, after paying for things like repairs or shipping, to how much they paid for it. If the NRV is less than what the company paid, they need to lower the value of that inventory on their [books](/wiki/algo-trading-books). This is called a write-down. By doing this, the company makes sure their financial statements show the true value of their inventory, not an overvalued one.
 
 This is important because it helps companies make smart decisions about their inventory. If the NRV is low, it might be better to sell the inventory at a lower price or even get rid of it instead of keeping it. This helps the company avoid holding onto inventory that isn't worth much and could end up costing them money. By using NRV, companies can manage their inventory better and keep their financial statements honest, which is important for investors and other people who look at the company's finances.
 

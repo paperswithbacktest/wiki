@@ -26,7 +26,7 @@ The main difference is that with simple interest, your interest stays the same e
 
 To calculate compound interest, you need to know four main things: the starting amount of money, the interest rate, how often the interest is added, and how long the money will be saved. The starting amount is called the principal. The interest rate is the percentage of the principal that you earn each time the interest is calculated. How often the interest is added is called the compounding frequency, and it could be yearly, monthly, or even daily. The length of time is how many years, or other periods, you plan to keep your money in the account.
 
-Once you have these pieces of information, you can use a formula to figure out how much money you'll have in the end. The formula takes into account that the interest is added to the principal and then you earn interest on the new, larger amount. This process repeats every time the interest is compounded. Over time, this can make your savings grow much faster than if you were earning simple interest, where you only earn interest on the original amount you saved.
+Once you have these pieces of information, you can use a formula to figure out how much money you'll have in the end. The formula takes into account that the interest is added to the principal and then you earn interest on the new, larger amount. This process repeats every time the interest is compounded. Over time, this can make your savings grow much faster than if you were [earning](/wiki/earning-announcement) simple interest, where you only earn interest on the original amount you saved.
 
 ## Can you provide the formula for calculating compound interest?
 
@@ -196,7 +196,7 @@ Understanding these formulas and their implications allows investors and borrowe
 
 ## What are Practical Tools for Interest Calculation and Algo Trading?
 
-Modern technologies have significantly transformed the landscape of interest calculation and algorithmic trading. Tools such as MetaTrader, Microsoft Excel, and programming languages like Python offer a range of capabilities that make it easier to implement sophisticated financial strategies.
+Modern technologies have significantly transformed the landscape of interest calculation and [algorithmic trading](/wiki/algorithmic-trading). Tools such as MetaTrader, Microsoft Excel, and programming languages like Python offer a range of capabilities that make it easier to implement sophisticated financial strategies.
 
 MetaTrader is a widely-used platform that supports automated trading through its Expert Advisors (EA). EAs are programs that run within the MetaTrader environment and execute trades automatically based on pre-defined criteria. This automation is particularly useful for leveraging compound interest in trading by allowing earnings to be reinvested efficiently. By utilizing EAs, traders can optimize their strategies to compound profits over time without manual intervention. MetaTrader's platform supports [backtesting](/wiki/backtesting), enabling traders to test their EAs using historical data, thereby refining strategies to maximize growth.
 

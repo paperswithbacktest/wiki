@@ -32,7 +32,7 @@ There are also private activity bonds that can be taxable. These bonds finance p
 
 Build America Bonds, or BABs, are a type of taxable municipal bond that were created to help state and local governments during the 2008 financial crisis. They are different from most municipal bonds because the interest you earn from them is taxable by the federal government. The government made BABs to encourage more people to invest in projects like building roads, schools, and other public works. To make them attractive, BABs offer higher interest rates than regular tax-exempt municipal bonds.
 
-When a state or local government issues a Build America Bond, they get help from the federal government. There are two types of BABs. The first type gives the issuer money directly from the federal government, which is about 35% of the interest they have to pay to investors. This helps the issuer because they don't have to pay as much out of their own pocket. The second type doesn't give direct money, but the issuer can offer a higher interest rate to investors, knowing that the bond's taxable nature will still attract people looking for higher returns.
+When a state or local government issues a Build America Bond, they get help from the federal government. There are two types of BABs. The first type gives the issuer money directly from the federal government, which is about 35% of the interest they have to pay to investors. This helps the issuer because they don't have to pay as much out of their own pocket. The second type doesn't give direct money, but the issuer can offer a higher [interest rate](/wiki/interest-rate-trading-strategies) to investors, knowing that the bond's taxable nature will still attract people looking for higher returns.
 
 ## What are the requirements for issuing taxable municipal bonds?
 
@@ -100,7 +100,7 @@ Understanding the yields and tax implications associated with taxable municipal 
 
 ## How do taxable bonds and municipal bonds compare in trading strategies?
 
-Both municipal and taxable bonds provide distinct trading opportunities, which can be further optimized through the use of algorithmic trading strategies. The primary difference between these two bond types lies in their tax treatment. Municipal bonds, often tax-exempt at the federal level and sometimes at state and local levels, can provide after-tax yield advantages for investors in higher tax brackets. Taxable bonds, conversely, do not enjoy such tax benefits, but they often offer higher nominal yields to compensate for the tax burden.
+Both municipal and taxable bonds provide distinct trading opportunities, which can be further optimized through the use of [algorithmic trading](/wiki/algorithmic-trading) strategies. The primary difference between these two bond types lies in their tax treatment. Municipal bonds, often tax-exempt at the federal level and sometimes at state and local levels, can provide after-tax yield advantages for investors in higher tax brackets. Taxable bonds, conversely, do not enjoy such tax benefits, but they often offer higher nominal yields to compensate for the tax burden.
 
 **Yield Prospects**:
 Municipal bonds typically offer lower nominal yields compared to taxable bonds due to their tax-exempt status. The after-tax equivalent yield of a municipal bond can be calculated using the formula:
@@ -112,7 +112,7 @@ $$
 For instance, an investor in a 30% tax bracket considering a municipal bond with a 3% nominal yield faces an equivalent taxable yield of approximately 4.29%. This comparison allows investors to evaluate municipal bonds on an equal footing with their taxable counterparts.
 
 **Regulatory Factors**:
-Regulatory considerations also differentiate municipal from taxable bonds, influencing trading strategies. Municipal bonds are subject to various state and local regulations, which can impact their liquidity and marketability. Taxable bonds, particularly corporate bonds, might have fewer regional restrictions but are affected by federal regulations such as those imposed by the Securities and Exchange Commission (SEC). Understanding these regulatory environments is crucial for developing effective trading strategies.
+Regulatory considerations also differentiate municipal from taxable bonds, influencing trading strategies. Municipal bonds are subject to various state and local regulations, which can impact their [liquidity](/wiki/liquidity-risk-premium) and marketability. Taxable bonds, particularly corporate bonds, might have fewer regional restrictions but are affected by federal regulations such as those imposed by the Securities and Exchange Commission (SEC). Understanding these regulatory environments is crucial for developing effective trading strategies.
 
 **Algorithmic Trading Optimization**:
 Algorithmic trading can significantly enhance trading efficiency and performance for both municipal and taxable bonds by utilizing data-driven strategies. Algorithms can cater to the liquidity challenges of municipal bonds by efficiently matching buy and sell orders, thereby reducing transaction costs and improving execution speed.

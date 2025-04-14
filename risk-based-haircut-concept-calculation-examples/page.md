@@ -46,7 +46,7 @@ Sometimes, even real estate can get a risk-based haircut. If a bank takes a hous
 
 ## How do market volatility and liquidity affect the calculation of a risk-based haircut?
 
-Market volatility and liquidity are really important when banks decide how much to lower the value of an asset with a risk-based haircut. Market volatility means how much the price of an asset can go up and down. If an asset's price can change a lot very quickly, it's seen as more risky. So, banks might apply a bigger haircut to protect themselves. They don't want to lend money based on a high value if the price could drop soon.
+Market [volatility](/wiki/volatility-trading-strategies) and [liquidity](/wiki/liquidity-risk-premium) are really important when banks decide how much to lower the value of an asset with a risk-based haircut. Market volatility means how much the price of an asset can go up and down. If an asset's price can change a lot very quickly, it's seen as more risky. So, banks might apply a bigger haircut to protect themselves. They don't want to lend money based on a high value if the price could drop soon.
 
 Liquidity is about how easy it is to sell an asset without losing a lot of its value. If it's hard to find someone to buy the asset quickly, it's less liquid and more risky. Banks will lower the value of less liquid assets more because they might have to wait a long time to sell them if they need to. By considering both market volatility and liquidity, banks can better guess how much an asset might be worth in the future and decide on the right haircut to stay safe.
 

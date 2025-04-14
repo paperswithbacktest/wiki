@@ -30,7 +30,7 @@ Once your account grows and you have $25,000 or more, you'll start paying a smal
 
 Fidelity Go keeps things simple by focusing on a mix of investments that are easy to understand. They use something called exchange-traded funds (ETFs) for your portfolio. These ETFs are like baskets of different investments, including stocks and bonds. This way, your money is spread out across many different companies and types of investments, which can help reduce risk.
 
-The exact mix of ETFs in your portfolio depends on your answers to their questions about your goals and how much risk you're okay with. If you're more cautious, your portfolio might have more bonds, which are usually safer but grow slower. If you're okay with more risk, you might have more stocks, which can grow faster but are also more up and down. Fidelity Go takes care of picking the right ETFs for you and keeps everything balanced over time.
+The exact mix of ETFs in your portfolio depends on your answers to their questions about your goals and how much risk you're okay with. If you're more cautious, your portfolio might have more bonds, which are usually safer but grow slower. If you're okay with more risk, you might have more stocks, which can grow faster but are also more up and down. Fidelity Go takes care of [picking](/wiki/asset-class-picking) the right ETFs for you and keeps everything balanced over time.
 
 ## How does Fidelity Go determine an investor's risk tolerance and investment strategy?
 

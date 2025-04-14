@@ -18,13 +18,13 @@ This type of trading can be good because it lets traders take advantage of the d
 
 End-of-day trading is important for beginners because it helps them learn how the stock market works without too much stress. When you trade at the end of the day, you have time to look at what happened during the day and think about what might happen next. This can make it easier for beginners to understand the market and make better decisions. They don't have to worry about quick changes in the market that can happen during the day.
 
-Another reason end-of-day trading is good for beginners is that it can be less risky. Since you are making trades near the end of the day, you have less time for the market to change a lot. This can help beginners avoid big losses that can happen if the market moves a lot during the day. By starting with end-of-day trading, beginners can build their confidence and skills before trying more complicated trading strategies.
+Another reason end-of-[day trading](/wiki/day-trading-spy) is good for beginners is that it can be less risky. Since you are making trades near the end of the day, you have less time for the market to change a lot. This can help beginners avoid big losses that can happen if the market moves a lot during the day. By starting with end-of-day trading, beginners can build their confidence and skills before trying more complicated trading strategies.
 
 ## What are the basic principles of end-of-day trading strategies?
 
 The first principle of end-of-day trading is to review the day's market activity. This means looking at how stocks moved during the day, what news came out, and any other events that might affect the market. By doing this, you can see patterns and trends that can help you decide which stocks to buy or sell. It's important to take your time and not rush into decisions, as you have until the market closes to make your trades.
 
-Another key principle is to set clear entry and exit points. This means deciding at what price you will buy a stock and at what price you will sell it. Having these points set before you start trading helps you stick to your plan and avoid making emotional decisions. It's also a good idea to use stop-loss orders, which automatically sell your stock if it drops to a certain price, to limit your losses.
+Another key principle is to set clear entry and [exit](/wiki/exit-strategy) points. This means deciding at what price you will buy a stock and at what price you will sell it. Having these points set before you start trading helps you stick to your plan and avoid making emotional decisions. It's also a good idea to use stop-loss orders, which automatically sell your stock if it drops to a certain price, to limit your losses.
 
 Lastly, managing risk is crucial in end-of-day trading. This means not putting all your money into one stock and spreading your investments across different stocks. It's also important to only invest money you can afford to lose. By following these principles, you can make more informed decisions and increase your chances of success in end-of-day trading.
 
@@ -36,7 +36,7 @@ Another thing to think about is the time when important news or reports come out
 
 ## What are some common end-of-day trading indicators and how do they work?
 
-Some common end-of-day trading indicators are moving averages, the Relative Strength Index (RSI), and volume. Moving averages help traders see the average price of a stock over a certain period, like 50 or 200 days. By comparing the current price to the moving average, traders can see if a stock is trending up or down. If the price is above the moving average, it might be a good time to buy because the stock is doing well. If it's below, it might be a good time to sell because the stock is not doing as well.
+Some common end-of-day trading indicators are moving averages, the Relative Strength Index (RSI), and [volume](/wiki/volume-trading-strategy). Moving averages help traders see the average price of a stock over a certain period, like 50 or 200 days. By comparing the current price to the moving average, traders can see if a stock is trending up or down. If the price is above the moving average, it might be a good time to buy because the stock is doing well. If it's below, it might be a good time to sell because the stock is not doing as well.
 
 The Relative Strength Index (RSI) is another useful indicator. It measures how fast and how much a stock's price is changing. The RSI goes from 0 to 100. If the RSI is above 70, it means the stock might be overbought and could go down soon. If it's below 30, the stock might be oversold and could go up. This helps traders decide when to buy or sell a stock at the end of the day. Volume is also important. It shows how many shares of a stock were traded that day. High volume at the end of the day can mean more people are interested in the stock, which can affect its price.
 
@@ -76,7 +76,7 @@ Using technical analysis also helps traders manage their risks better. They can 
 
 To backtest and optimize end-of-day trading strategies, you need to look at how well your strategy would have worked in the past. You can do this by using old stock market data to see what would have happened if you had used your strategy back then. There are special computer programs and tools that can help you with this. You put in your rules for buying and selling stocks, and the program shows you how much money you would have made or lost. By doing this, you can see if your strategy is good or if you need to change it to make it better.
 
-Once you've backtested your strategy, you can start to optimize it. This means making small changes to your rules to see if they make your strategy work better. You might try different entry and exit points, or use different technical indicators to see what works best. Keep testing these changes with the old data to find the best way to trade. By backtesting and optimizing, you can feel more confident that your end-of-day trading strategy will work well when you use it for real.
+Once you've backtested your strategy, you can start to optimize it. This means making small changes to your rules to see if they make your strategy work better. You might try different entry and exit points, or use different technical indicators to see what works best. Keep testing these changes with the old data to find the best way to trade. By [backtesting](/wiki/backtesting) and optimizing, you can feel more confident that your end-of-day trading strategy will work well when you use it for real.
 
 ## What are the psychological aspects of end-of-day trading and how can traders manage them?
 

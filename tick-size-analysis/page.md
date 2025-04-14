@@ -22,7 +22,7 @@ Another reason tick size matters is that it can affect how easy it is to trade a
 
 ## How does tick size affect market liquidity?
 
-Tick size can affect how easy it is to buy and sell securities in the market, which we call market liquidity. If the tick size is small, like one cent, it can make the market more liquid because traders can buy and sell at many different prices. This means there are more chances for traders to find someone to trade with, making it easier to do business.
+Tick size can affect how easy it is to buy and sell securities in the market, which we call market [liquidity](/wiki/liquidity-risk-premium). If the tick size is small, like one cent, it can make the market more liquid because traders can buy and sell at many different prices. This means there are more chances for traders to find someone to trade with, making it easier to do business.
 
 On the other hand, if the tick size is large, it might make the market less liquid. With a bigger tick size, there are fewer price levels where traders can buy or sell. This can make it harder to find someone to trade with at the exact price you want, which can slow down trading and make the market less active. So, the right tick size is important for keeping the market liquid and easy to use.
 
@@ -80,7 +80,7 @@ The way exchanges set their tick size rules can have a big impact on how easy it
 
 Advanced statistical methods can help us understand tick size better. One way to do this is by using regression analysis. This method looks at how tick size affects things like the bid-ask spread and how much people trade. By studying this data, we can see if a smaller or bigger tick size makes the market work better or worse. Another method is time series analysis, which looks at how tick size changes over time and how it affects the market. This can help us see if changing the tick size makes the market more or less active and if it helps or hurts traders.
 
-Another useful method is event study analysis. This looks at what happens to the market when the tick size changes. For example, if a regulator decides to make the tick size bigger for some stocks, we can study how this change affects trading and the bid-ask spread. This can help us understand if the change was good or bad for the market. Finally, machine learning can be used to find patterns in the data that are hard to see with other methods. By using these advanced tools, we can get a deeper understanding of how tick size affects the market and make better decisions about how to set it.
+Another useful method is event study analysis. This looks at what happens to the market when the tick size changes. For example, if a regulator decides to make the tick size bigger for some stocks, we can study how this change affects trading and the bid-ask spread. This can help us understand if the change was good or bad for the market. Finally, [machine learning](/wiki/machine-learning) can be used to find patterns in the data that are hard to see with other methods. By using these advanced tools, we can get a deeper understanding of how tick size affects the market and make better decisions about how to set it.
 
 ## References & Further Reading
 

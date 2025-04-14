@@ -18,7 +18,7 @@ As you make payments on the loan, part of your payment goes towards reducing the
 
 The principal is the amount of money you borrow when you take out a loan. It's important because the interest you pay is calculated based on this principal amount. When you first get the loan, the interest is high because it's calculated on the full amount you borrowed. As you make payments, some of your money goes towards paying off the principal. When the principal goes down, the interest you owe also goes down because it's now calculated on a smaller amount.
 
-For example, if you borrow $10,000 at a 5% annual interest rate, you'll pay $500 in interest in the first year. If you pay back $2,000 of the principal in that year, the next year's interest will be calculated on the remaining $8,000, so you'll only pay $400 in interest for that year. This shows how paying down the principal faster can save you money on interest over time. Understanding this relationship helps you manage your loan better and potentially pay less interest overall.
+For example, if you borrow $10,000 at a 5% annual [interest rate](/wiki/interest-rate-trading-strategies), you'll pay $500 in interest in the first year. If you pay back $2,000 of the principal in that year, the next year's interest will be calculated on the remaining $8,000, so you'll only pay $400 in interest for that year. This shows how paying down the principal faster can save you money on interest over time. Understanding this relationship helps you manage your loan better and potentially pay less interest overall.
 
 ## What is the role of principal in bond investments?
 

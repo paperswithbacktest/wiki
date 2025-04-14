@@ -86,7 +86,7 @@ By putting all this information together, Goldman Sachs can make a list of the s
 
 ## What is the understanding of hedge funds?
 
-Hedge funds are sophisticated investment pools designed to maximize returns through active investment strategies. Unlike mutual funds, hedge funds have the flexibility to invest in a diverse array of asset classes such as stocks, bonds, derivatives, currencies, and more. This versatility allows hedge funds to pursue strategies like long and short equity, event-driven, macroeconomic trends, and arbitrage, among others. The overarching aim is to achieve absolute returns, meaning they seek to generate positive returns irrespective of overall market conditions.
+Hedge funds are sophisticated investment pools designed to maximize returns through active investment strategies. Unlike mutual funds, hedge funds have the flexibility to invest in a diverse array of asset classes such as stocks, bonds, derivatives, currencies, and more. This versatility allows hedge funds to pursue strategies like long and short equity, event-driven, macroeconomic trends, and [arbitrage](/wiki/arbitrage), among others. The overarching aim is to achieve absolute returns, meaning they seek to generate positive returns irrespective of overall market conditions.
 
 The structure and strategies of hedge funds are typically leveraged to enhance performance and manage risk. For instance, a long/short equity strategy involves buying undervalued stocks while selling overvalued ones, aiming to capitalize on both upward and downward market movements. This dual approach can be represented mathematically as:
 

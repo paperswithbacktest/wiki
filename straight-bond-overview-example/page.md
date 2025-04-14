@@ -22,7 +22,7 @@ Another type of bond is a convertible bond. This bond can be turned into a set n
 
 ## What are the key features of a straight bond?
 
-A straight bond is a simple type of bond that pays a fixed interest rate to the person who owns it. This interest is paid at regular times, like every six months or every year, until the bond reaches its end date. The interest rate is set when the bond is first sold and stays the same. The owner of the bond also gets their money back at the end, which is called the principal. For example, if you buy a bond for $1,000 with a 5% interest rate, you will get $50 every year until the bond matures, and then you get your $1,000 back.
+A straight bond is a simple type of bond that pays a fixed [interest rate](/wiki/interest-rate-trading-strategies) to the person who owns it. This interest is paid at regular times, like every six months or every year, until the bond reaches its end date. The interest rate is set when the bond is first sold and stays the same. The owner of the bond also gets their money back at the end, which is called the principal. For example, if you buy a bond for $1,000 with a 5% interest rate, you will get $50 every year until the bond matures, and then you get your $1,000 back.
 
 Straight bonds are different from other bonds because they don't have any special features. Other bonds might change their interest rates, let you turn the bond into company stock, or let the issuer or the owner end the bond early. But a straight bond is simple and predictable. This makes it a good choice for people who want a steady income without surprises. They know exactly how much money they will get and when they will get it.
 
@@ -36,7 +36,7 @@ Investors who buy straight bonds are looking for a steady income. They might be 
 
 Investing in straight bonds can give you a steady income. They pay the same amount of interest at the same times, like every six months or every year. This makes it easy to plan your money because you know exactly how much you will get and when. This is good for people who are retired or saving for something important. They can count on this money to help them pay their bills or reach their goals.
 
-Straight bonds are also seen as safe investments, especially if they are issued by the government. Governments can usually pay back what they borrow, so their bonds are less risky. Even if a company issues the bond, it might be safer than other investments like stocks, which can go up and down a lot. So, if you want to keep your money safe while still earning some interest, straight bonds can be a good choice.
+Straight bonds are also seen as safe investments, especially if they are issued by the government. Governments can usually pay back what they borrow, so their bonds are less risky. Even if a company issues the bond, it might be safer than other investments like stocks, which can go up and down a lot. So, if you want to keep your money safe while still [earning](/wiki/earning-announcement) some interest, straight bonds can be a good choice.
 
 ## What are the risks associated with straight bonds?
 

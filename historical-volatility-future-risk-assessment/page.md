@@ -18,7 +18,7 @@ Understanding historical volatility is important because it helps investors and 
 
 Historical volatility is calculated by looking at how much the price of a stock or other asset has changed over a period of time. First, you find the daily returns of the asset, which is the percentage change in price from one day to the next. Then, you take the standard deviation of these daily returns. The standard deviation is a measure of how spread out the numbers are. If the daily returns are all over the place, the standard deviation, and thus the historical volatility, will be high. If the daily returns are more consistent, the standard deviation will be low, meaning the historical volatility is also low.
 
-To make the historical volatility easier to compare across different time periods, it is often annualized. This means it is adjusted to show what the volatility would be over a whole year. To annualize it, you take the standard deviation of the daily returns and multiply it by the square root of the number of trading days in a year, which is usually around 252. This gives you a number that represents the expected volatility over a year, based on the past data. This way, investors can use historical volatility to understand and compare the risk of different investments over the same time frame.
+To make the historical [volatility](/wiki/volatility-trading-strategies) easier to compare across different time periods, it is often annualized. This means it is adjusted to show what the volatility would be over a whole year. To annualize it, you take the standard deviation of the daily returns and multiply it by the square root of the number of trading days in a year, which is usually around 252. This gives you a number that represents the expected volatility over a year, based on the past data. This way, investors can use historical volatility to understand and compare the risk of different investments over the same time frame.
 
 ## What data is typically used to measure historical volatility?
 
@@ -98,7 +98,7 @@ Investors often employ historical volatility metrics when deciding on the alloca
 
 ## What is Monte Carlo Analysis in Risk Estimation?
 
-Monte Carlo analysis serves as a statistical technique designed to model and simulate the probability of different outcomes within a stochastic process, offering significant utility in algorithmic trading. Its primary application in trading lies in simulating potential price paths over time, allowing traders to examine the probability distribution of various outcomes. This can include expected returns, potential losses, and the resilience of an investment strategy.
+Monte Carlo analysis serves as a statistical technique designed to model and simulate the probability of different outcomes within a stochastic process, offering significant utility in [algorithmic trading](/wiki/algorithmic-trading). Its primary application in trading lies in simulating potential price paths over time, allowing traders to examine the probability distribution of various outcomes. This can include expected returns, potential losses, and the resilience of an investment strategy.
 
 A Monte Carlo simulation in trading typically begins by defining a financial model that incorporates stochastic processes to reflect market behavior. The geometric Brownian motion (GBM) is often employed as a mathematical model for simulating asset prices. The basic GBM formula is:
 

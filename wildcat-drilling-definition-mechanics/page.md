@@ -30,7 +30,7 @@ Wildcat drilling is also about taking risks to find big rewards. If a company fi
 
 Wildcat drilling and conventional drilling are different in where and how they look for oil. Wildcat drilling is when oil companies drill in new places where they're not sure if there's oil. They're exploring unknown areas, taking a big risk to find new oil fields. It's like going on an adventure to find hidden treasure. They use special tools and studies to guess where oil might be, but they don't know for sure until they drill.
 
-Conventional drilling, on the other hand, happens in places where oil has already been found. It's less risky because they know there's oil there. They're just trying to get more oil from known oil fields. It's like picking fruit from a tree that you know has fruit. This kind of drilling is more predictable and usually costs less than wildcat drilling because they're not exploring new areas.
+Conventional drilling, on the other hand, happens in places where oil has already been found. It's less risky because they know there's oil there. They're just trying to get more oil from known oil fields. It's like [picking](/wiki/asset-class-picking) fruit from a tree that you know has fruit. This kind of drilling is more predictable and usually costs less than wildcat drilling because they're not exploring new areas.
 
 The main difference is the level of risk and the goal. Wildcat drilling is about finding new oil in unknown places, while conventional drilling is about getting more oil from places where it's already been found. Both are important for getting oil, but they serve different purposes in the oil industry.
 

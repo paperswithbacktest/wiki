@@ -86,7 +86,7 @@ After finding the trends, organizations should think about what might be causing
 
 ## How are Machine Learning Models used in Trend Forecasting?
 
-Machine learning models have become pivotal in enhancing the accuracy and efficiency of trend forecasting in algorithmic trading. By processing large datasets efficiently, these models identify subtle patterns and anomalies that might not be apparent through traditional methods. Key [machine learning](/wiki/machine-learning) techniques used in trend forecasting include regression analysis, neural networks, and ensemble methods.
+Machine learning models have become pivotal in enhancing the accuracy and efficiency of trend forecasting in [algorithmic trading](/wiki/algorithmic-trading). By processing large datasets efficiently, these models identify subtle patterns and anomalies that might not be apparent through traditional methods. Key [machine learning](/wiki/machine-learning) techniques used in trend forecasting include regression analysis, neural networks, and ensemble methods.
 
 ### Regression Analysis
 

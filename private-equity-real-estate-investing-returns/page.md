@@ -20,7 +20,7 @@ Private equity investing in real estate involves pooling money from investors to
 
 Traditional real estate investing, on the other hand, is when someone buys a property on their own, usually to rent it out or to sell it later for a profit. This can be done by anyone, not just big investors. The person who buys the property is responsible for managing it, which includes finding tenants, handling repairs, and dealing with any problems that come up. Traditional real estate investing can be less risky because the investor has more control over the property, but it also requires more hands-on work and may not offer the same potential for large profits as private equity investing.
 
-Both types of investing have their own risks and rewards. Private equity investing can lead to bigger profits because it involves larger investments and professional management, but it also means sharing those profits with other investors and the fund managers. Traditional real estate investing might offer more control and potentially lower risk, but it also means doing more work yourself and possibly earning less money overall.
+Both types of investing have their own risks and rewards. Private equity investing can lead to bigger profits because it involves larger investments and professional management, but it also means sharing those profits with other investors and the fund managers. Traditional real estate investing might offer more control and potentially lower risk, but it also means doing more work yourself and possibly [earning](/wiki/earning-announcement) less money overall.
 
 ## What are the typical sources of capital for private equity real estate investments?
 

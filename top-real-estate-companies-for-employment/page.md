@@ -62,7 +62,7 @@ Other companies, like CBRE, also focus on diversity and inclusion but might do t
 
 ## What are the key performance indicators that top real estate companies use to assess their employees?
 
-Top real estate companies use several key performance indicators (KPIs) to assess their employees. One important KPI is sales volume, which looks at how much money an employee brings in from selling properties. Another common KPI is client satisfaction, where companies measure how happy clients are with the service they receive. This can be done through surveys or feedback forms. Companies also pay attention to how well employees meet their sales targets, which shows if they are good at closing deals.
+Top real estate companies use several key performance indicators (KPIs) to assess their employees. One important KPI is sales [volume](/wiki/volume-trading-strategy), which looks at how much money an employee brings in from selling properties. Another common KPI is client satisfaction, where companies measure how happy clients are with the service they receive. This can be done through surveys or feedback forms. Companies also pay attention to how well employees meet their sales targets, which shows if they are good at closing deals.
 
 Another key indicator is employee productivity, which tracks how much work an employee gets done in a certain amount of time. This can include things like the number of listings an agent handles or how quickly they respond to clients. Attendance and punctuality are also important KPIs, as they show how reliable an employee is. Finally, some companies look at how well employees work with their team members, which is important for creating a good work environment and helping the company succeed.
 

@@ -52,7 +52,7 @@ The tax on the principal part of a stripped bond works differently. If you buy t
 
 ## What are the risks associated with stripped bonds?
 
-Investing in stripped bonds can be riskier than regular bonds because they can be more complicated. One risk is that the price of stripped bonds can change a lot. If interest rates go up, the price of your bond can go down. This is because new bonds will pay higher interest, making your bond less valuable. If you need to sell your bond before it matures, you might get less money than you paid for it. This is called interest rate risk.
+Investing in stripped bonds can be riskier than regular bonds because they can be more complicated. One risk is that the price of stripped bonds can change a lot. If interest rates go up, the price of your bond can go down. This is because new bonds will pay higher interest, making your bond less valuable. If you need to sell your bond before it matures, you might get less money than you paid for it. This is called [interest rate](/wiki/interest-rate-trading-strategies) risk.
 
 Another risk is that you might have to pay taxes on the interest even before you get it. This is different from regular bonds where you only pay taxes when you get the interest. With stripped bonds, you have to report a part of the bond's value as income each year, which can be tricky because you're paying taxes on money you haven't received yet. This can affect how much money you keep at the end.
 

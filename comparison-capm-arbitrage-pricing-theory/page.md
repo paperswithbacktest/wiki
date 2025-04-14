@@ -38,7 +38,7 @@ APT works on the idea that if the actual return of an investment doesn't match w
 
 The Capital Asset Pricing Model, or CAPM, has some important ideas it assumes are true to work properly. One big idea is that all investors care about the same thing: they want to get the most return they can for the least amount of risk. They all agree on what the risk-free rate is and how much extra return they should get for taking more risk. They also think the same way about how likely different investments are to go up or down.
 
-Another key assumption is that everyone can borrow and lend money at the same risk-free rate. This means they can all get the same safe interest rate on their money. Also, CAPM assumes that everyone can buy or sell as much of any investment as they want without changing the price. This means the market is really good at setting prices that are fair. These assumptions help CAPM figure out how much return an investment should give you based on how risky it is.
+Another key assumption is that everyone can borrow and lend money at the same risk-free rate. This means they can all get the same safe [interest rate](/wiki/interest-rate-trading-strategies) on their money. Also, CAPM assumes that everyone can buy or sell as much of any investment as they want without changing the price. This means the market is really good at setting prices that are fair. These assumptions help CAPM figure out how much return an investment should give you based on how risky it is.
 
 ## What are the key assumptions of APT?
 

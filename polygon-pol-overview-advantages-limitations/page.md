@@ -22,7 +22,7 @@ Another way Polygon helps is by using a technology called "Layer 2 scaling solut
 
 ## What are the main components of the Polygon network?
 
-The Polygon network has a few main parts that work together to make it useful. One important part is the Polygon SDK, which is like a set of tools that developers can use to build their own blockchains that work well with Ethereum. This means they can create new projects that are fast and cheap to use. Another key part is the Polygon PoS (Proof of Stake) chain, which is a special blockchain that helps keep everything secure and running smoothly. It uses a method where people can "stake" their cryptocurrency to help run the network and earn rewards.
+The Polygon network has a few main parts that work together to make it useful. One important part is the Polygon SDK, which is like a set of tools that developers can use to build their own blockchains that work well with Ethereum. This means they can create new projects that are fast and cheap to use. Another key part is the Polygon PoS (Proof of Stake) chain, which is a special blockchain that helps keep everything secure and running smoothly. It uses a method where people can "stake" their [cryptocurrency](/wiki/cryptocurrency) to help run the network and earn rewards.
 
 Another main component is the Polygon Plasma chains, which are like smaller, faster blockchains that connect to Ethereum. They help with handling lots of transactions quickly and cheaply. The last important part is the Polygon Bridges, which are like special roads that let you move your cryptocurrency and data between Ethereum and the Polygon network. These bridges make sure everything can work together smoothly and securely.
 

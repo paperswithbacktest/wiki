@@ -88,7 +88,7 @@ In summary, estimates are more flexible but also more risky because they can cha
 
 ## What is the Role of Financial Accounting in Algorithmic Trading?
 
-Financial accounting is integral to algorithmic trading as it provides the foundational data necessary for developing and executing trading algorithms. Accurate and precise financial data are crucial for modeling and analyzing market conditions. Accrual accounting, one of the core principles of financial accounting, ensures that revenues and expenses are recorded when they are incurred, rather than when cash transactions occur. This method presents a more accurate representation of a company's financial health, which is vital for investors and traders making informed decisions.
+Financial accounting is integral to [algorithmic trading](/wiki/algorithmic-trading) as it provides the foundational data necessary for developing and executing trading algorithms. Accurate and precise financial data are crucial for modeling and analyzing market conditions. Accrual accounting, one of the core principles of financial accounting, ensures that revenues and expenses are recorded when they are incurred, rather than when cash transactions occur. This method presents a more accurate representation of a company's financial health, which is vital for investors and traders making informed decisions.
 
 ### Accrual Accounting and Financial Health
 

@@ -34,7 +34,7 @@ Using XRP for cross-border payments also saves you money. Banks often charge hig
 
 ## What is the role of XRP in Ripple's liquidity solutions?
 
-XRP plays a big role in Ripple's way of helping banks and businesses with their money. When a bank or business needs to send money to another country, they can use XRP to make it happen quickly and cheaply. Instead of keeping a lot of different currencies ready to use, which is called liquidity, they can just use XRP. This is because XRP can be turned into any other currency easily, so the bank doesn't need to have a lot of different money sitting around.
+XRP plays a big role in Ripple's way of helping banks and businesses with their money. When a bank or business needs to send money to another country, they can use XRP to make it happen quickly and cheaply. Instead of keeping a lot of different currencies ready to use, which is called [liquidity](/wiki/liquidity-risk-premium), they can just use XRP. This is because XRP can be turned into any other currency easily, so the bank doesn't need to have a lot of different money sitting around.
 
 Using XRP for liquidity means that banks and businesses can send money across borders without waiting and without paying a lot of fees. XRP helps them to have the money they need, when they need it, without the hassle of traditional banking methods. This makes everything smoother and more efficient, helping businesses to pay their suppliers or customers in other countries faster and with less cost.
 

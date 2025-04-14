@@ -80,7 +80,7 @@ Another example is the sidecar investment in Airbnb. In 2011, a big venture capi
 
 ## What advanced strategies can be employed to optimize returns from sidecar investments?
 
-One way to make more money from sidecar investments is to carefully choose the bigger investor you work with. Look for someone who has a good track record and knows a lot about the kind of investments you're interested in. For example, if you want to invest in tech startups, find a bigger investor who has made successful investments in tech before. By picking the right partner, you can learn from their experience and get into good investment opportunities that can lead to higher returns.
+One way to make more money from sidecar investments is to carefully choose the bigger investor you work with. Look for someone who has a good track record and knows a lot about the kind of investments you're interested in. For example, if you want to invest in tech startups, find a bigger investor who has made successful investments in tech before. By [picking](/wiki/asset-class-picking) the right partner, you can learn from their experience and get into good investment opportunities that can lead to higher returns.
 
 Another strategy is to spread your money across different sidecar investments. Instead of putting all your money into one sidecar investment, you can join several different ones. This can help lower your risk because if one investment doesn't do well, you still have other investments that might do better. Plus, by diversifying your sidecar investments, you can learn about different types of investments and markets, which can help you make smarter choices and potentially earn more money over time.
 

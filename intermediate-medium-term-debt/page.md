@@ -36,7 +36,7 @@ Sometimes, companies also issue medium-term debt in the form of bonds or notes. 
 
 Using intermediate debt can help a company in many ways. It gives the company money to buy things like new machines or vehicles without using all their cash at once. This means they can keep their cash for other important things like paying employees or buying supplies. Intermediate debt also helps a company grow faster because they can start using the new equipment or expanding their business right away, instead of waiting to save up enough money.
 
-Another advantage is that intermediate debt usually has a lower interest rate than short-term debt. This means the company pays less money over time to borrow the money. Also, because intermediate debt is paid back over a few years, the company can plan their budget better. They know how much they need to pay each month, so they can make sure they have enough money coming in to cover the payments. This helps the company stay stable and grow without too much risk.
+Another advantage is that intermediate debt usually has a lower [interest rate](/wiki/interest-rate-trading-strategies) than short-term debt. This means the company pays less money over time to borrow the money. Also, because intermediate debt is paid back over a few years, the company can plan their budget better. They know how much they need to pay each month, so they can make sure they have enough money coming in to cover the payments. This helps the company stay stable and grow without too much risk.
 
 ## How do interest rates affect intermediate and medium-term debt?
 

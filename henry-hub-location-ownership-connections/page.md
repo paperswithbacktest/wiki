@@ -18,7 +18,7 @@ The price of natural gas at the Henry Hub is used as a standard for the whole co
 
 The Henry Hub is located in Erath, Louisiana. It's right in the southern part of the state, close to the Gulf of Mexico.
 
-This spot is important because it's where many big pipelines meet. These pipelines carry natural gas all over the country. Because so many pipelines connect here, it's a great place for people to buy and sell natural gas.
+This spot is important because it's where many big pipelines meet. These pipelines [carry](/wiki/carry-trading) natural gas all over the country. Because so many pipelines connect here, it's a great place for people to buy and sell natural gas.
 
 ## Who owns the Henry Hub?
 
@@ -92,9 +92,9 @@ $$
 
 where $X$ represents the current price, $\mu$ is the mean price, and $\sigma$ is the standard deviation.
 
-Volatility [arbitrage](/wiki/arbitrage) entails profiting from anticipated changes in natural gas price volatility at Henry Hub due to shifts in supply and demand. This strategy does not depend directly on the direction of price changes but rather on the magnitude of those changes. Techniques such as straddles or strangles in options trading are employed, where traders buy both a put and a call option of the asset at the same strike price and expiry to benefit from large price swings, irrespective of the direction.
+Volatility [arbitrage](/wiki/arbitrage) entails profiting from anticipated changes in natural gas price [volatility](/wiki/volatility-trading-strategies) at Henry Hub due to shifts in supply and demand. This strategy does not depend directly on the direction of price changes but rather on the magnitude of those changes. Techniques such as straddles or strangles in options trading are employed, where traders buy both a put and a call option of the asset at the same strike price and expiry to benefit from large price swings, irrespective of the direction.
 
-Machine learning technologies are integrated within these strategies to enhance predictive accuracy. By employing models like neural networks or support vector machines, traders can identify complex patterns and relationships within large datasets that manual analysis might overlook. Python libraries such as TensorFlow and scikit-learn are commonly used for implementing such machine learning models.
+Machine learning technologies are integrated within these strategies to enhance predictive accuracy. By employing models like neural networks or support vector machines, traders can identify complex patterns and relationships within large datasets that manual analysis might overlook. Python libraries such as TensorFlow and scikit-learn are commonly used for implementing such [machine learning](/wiki/machine-learning) models.
 
 ```python
 from sklearn.preprocessing import StandardScaler

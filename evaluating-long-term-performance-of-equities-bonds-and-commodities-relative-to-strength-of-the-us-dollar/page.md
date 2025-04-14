@@ -66,7 +66,7 @@ Another way to hedge is by using options. Options give investors the right, but 
 
 One advanced statistical method that investors can use to predict future performance based on historical data is time series analysis. This method looks at how things like stock prices or commodity values have changed over time. By studying these patterns, investors can make guesses about what might happen next. For example, they might use something called ARIMA (AutoRegressive Integrated Moving Average) models, which can find trends and seasonal changes in the data. These models can help investors understand if a stock or commodity is likely to go up or down in the future, based on what it did in the past.
 
-Another useful method is regression analysis, which helps investors see how different things are related to each other. For instance, they might look at how interest rates affect bond prices or how economic indicators like GDP growth influence stock market returns. By using regression, investors can build models that predict future performance based on these relationships. They can also use machine learning techniques, like neural networks, to find even more complex patterns in the data. These methods can be really powerful because they can learn from lots of data and make better predictions over time, helping investors make smarter choices about where to put their money.
+Another useful method is regression analysis, which helps investors see how different things are related to each other. For instance, they might look at how interest rates affect bond prices or how economic indicators like GDP growth influence stock market returns. By using regression, investors can build models that predict future performance based on these relationships. They can also use [machine learning](/wiki/machine-learning) techniques, like neural networks, to find even more complex patterns in the data. These methods can be really powerful because they can learn from lots of data and make better predictions over time, helping investors make smarter choices about where to put their money.
 
 ## How does the correlation between asset classes change with the strength of the US dollar?
 
@@ -165,7 +165,7 @@ def calculate_spread_performance(df):
 performance = calculate_spread_performance(df)
 ```
 
-Historical datasets suggest that these USD-driven spread portfolios are context-sensitive, with their performance varying significantly based on macroeconomic conditions and USD volatility. Nonetheless, the consistent pattern is the contrasting effects of USD strength on equities versus commodities, proving vital for portfolio construction based on USD signals.
+Historical datasets suggest that these USD-driven spread portfolios are context-sensitive, with their performance varying significantly based on macroeconomic conditions and USD [volatility](/wiki/volatility-trading-strategies). Nonetheless, the consistent pattern is the contrasting effects of USD strength on equities versus commodities, proving vital for portfolio construction based on USD signals.
 
 The above analysis underscores the importance of USD trends in influencing spread portfolio decisions and highlights the strategic value of balancing long and short positions across asset classes in response to anticipated currency movements.
 

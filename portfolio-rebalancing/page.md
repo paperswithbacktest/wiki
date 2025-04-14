@@ -88,7 +88,7 @@ Another strategy is to use tax-efficient rebalancing. In volatile markets, you m
 
 The algorithmic approach to portfolio rebalancing involves using sophisticated quantitative models and advanced algorithms to adjust portfolios in accordance with market fluctuations and investor goals. This method allows for systematic and objective decision-making, reducing human error and increasing efficiency.
 
-Model-based rebalancing employs quantitative models to adjust portfolios based on multiple market variables, such as asset prices, interest rates, and volatility indices. These models are designed to evaluate the current market conditions and predict potential movements, thus providing a basis for rebalancing decisions.
+Model-based rebalancing employs quantitative models to adjust portfolios based on multiple market variables, such as asset prices, interest rates, and [volatility](/wiki/volatility-trading-strategies) indices. These models are designed to evaluate the current market conditions and predict potential movements, thus providing a basis for rebalancing decisions.
 
 Optimization algorithms are central to the algorithmic rebalancing process. Techniques such as mean-variance optimization, initially developed by Harry Markowitz, are used to determine the ideal asset allocation that offers the maximum expected return for a given level of risk. This involves solving optimization problems where the expected return is maximized subject to constraints on the weights of the portfolio assets. The optimization problem can be represented mathematically as follows:
 

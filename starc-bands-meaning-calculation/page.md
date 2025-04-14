@@ -40,7 +40,7 @@ The top and bottom lines of the STARC Bands are set based on the stock's average
 
 ## What role does the Average True Range (ATR) play in STARC Bands?
 
-The Average True Range (ATR) is really important for STARC Bands. It helps figure out how much the stock's price usually moves each day. This is called the stock's volatility. When you know the ATR, you can use it to set the top and bottom lines of the STARC Bands. The top line is the middle line plus the ATR, and the bottom line is the middle line minus the ATR. This way, the bands show what's normal for the stock's price movement.
+The Average True Range (ATR) is really important for STARC Bands. It helps figure out how much the stock's price usually moves each day. This is called the stock's [volatility](/wiki/volatility-trading-strategies). When you know the ATR, you can use it to set the top and bottom lines of the STARC Bands. The top line is the middle line plus the ATR, and the bottom line is the middle line minus the ATR. This way, the bands show what's normal for the stock's price movement.
 
 Using the ATR in STARC Bands helps traders see if the stock's price is moving more or less than usual. If the price goes above the top band, it might mean the stock is moving more than normal and could be overbought. If the price goes below the bottom band, it might mean the stock is moving less than normal and could be oversold. By looking at where the price is compared to these bands, traders can make guesses about what the stock might do next and decide when to buy or sell.
 

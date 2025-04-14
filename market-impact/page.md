@@ -24,7 +24,7 @@ Because of market impact, traders have to be careful about how they trade. They 
 
 Market impact happens because of a few main reasons. One reason is how much of something you want to buy or sell. If you want to trade a lot, it can move the price more than if you only want to trade a little. Another reason is how easy or hard it is to find someone who wants to trade with you. If there are not many people wanting to buy or sell the same thing you do, your trade can change the price a lot. Also, how fast you want to trade matters. If you want to buy or sell quickly, you might have to take whatever price is available, which can push the price up or down more than if you took your time.
 
-Another factor is how people feel about the market. If everyone is excited or worried about a certain stock, your trade can have a bigger effect on the price. This is because people might react more to your buying or selling. The size of the market also plays a role. In a small market, even a small trade can move the price a lot, while in a big market, you might need to trade a lot more to see the same effect. All these things together decide how much your trade will change the price, which is what we call market impact.
+Another [factor](/wiki/factor-investing) is how people feel about the market. If everyone is excited or worried about a certain stock, your trade can have a bigger effect on the price. This is because people might react more to your buying or selling. The size of the market also plays a role. In a small market, even a small trade can move the price a lot, while in a big market, you might need to trade a lot more to see the same effect. All these things together decide how much your trade will change the price, which is what we call market impact.
 
 ## How can market impact be measured?
 
@@ -40,7 +40,7 @@ Permanent market impact, on the other hand, is a price change that sticks around
 
 ## How does market liquidity relate to market impact?
 
-Market liquidity is about how easy it is to buy or sell something without changing its price too much. If a market is very liquid, there are a lot of people buying and selling, so your trade won't change the price as much. But if a market is not very liquid, there are fewer people trading, so your trade can move the price a lot. This means market liquidity and market impact are closely related. When there's high liquidity, market impact is usually lower because there are more people to trade with, so your trade doesn't stand out as much.
+Market [liquidity](/wiki/liquidity-risk-premium) is about how easy it is to buy or sell something without changing its price too much. If a market is very liquid, there are a lot of people buying and selling, so your trade won't change the price as much. But if a market is not very liquid, there are fewer people trading, so your trade can move the price a lot. This means market liquidity and market impact are closely related. When there's high liquidity, market impact is usually lower because there are more people to trade with, so your trade doesn't stand out as much.
 
 On the other hand, when liquidity is low, even a small trade can have a big market impact. This is because there are fewer people to absorb your trade, so it can push the price up or down more easily. Traders need to think about liquidity when they plan their trades. If they know a market is not very liquid, they might choose to trade more slowly to avoid causing big price changes. Understanding the relationship between market liquidity and market impact helps traders make better decisions about when and how to trade.
 
@@ -84,7 +84,7 @@ One way to use these techniques is by making models that predict market impact. 
 
 ## How can we measure market impact?
 
-Statistical measures of market impact are essential for understanding how trading activities affect asset prices. One of the most influential models in this regard is Kyle's Lambda, introduced by Albert Kyle in 1985. Kyle's Lambda is a measure of price impact per unit of traded volume, representing the market's sensitivity to trading activity. Mathematically, it can be described as:
+Statistical measures of market impact are essential for understanding how trading activities affect asset prices. One of the most influential models in this regard is Kyle's Lambda, introduced by Albert Kyle in 1985. Kyle's Lambda is a measure of price impact per unit of traded [volume](/wiki/volume-trading-strategy), representing the market's sensitivity to trading activity. Mathematically, it can be described as:
 
 $$
 \lambda = \frac{\Delta P}{V}
@@ -96,7 +96,7 @@ Trading volume and turnover are closely related to market liquidity. Trading vol
 
 Measuring market impact is crucial for trading strategies as it influences decision-making in market entry and [exit](/wiki/exit-strategy). Understanding and predicting market impact allows traders to optimize order execution and reduce transaction costs. For instance, large orders can be split into smaller trades to minimize the impact on market prices, a strategy known as "order slicing".
 
-Implementing such strategies not only helps manage execution risks but also aids in maintaining the desired risk-return profile. High-frequency traders and algorithmic trading systems often incorporate these market impact measures to enhance their models' efficiency and accuracy, ultimately striving for more profitable trading outcomes.
+Implementing such strategies not only helps manage execution risks but also aids in maintaining the desired risk-return profile. High-frequency traders and [algorithmic trading](/wiki/algorithmic-trading) systems often incorporate these market impact measures to enhance their models' efficiency and accuracy, ultimately striving for more profitable trading outcomes.
 
 Overall, the accurate measurement of market impact and understanding its relationship with trading volume and liquidity form the cornerstone of effective algorithmic trading strategies. Keeping these elements in check can lead to better resource allocation, improved trading performance, and a more strategic approach to market engagement.
 

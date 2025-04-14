@@ -82,7 +82,7 @@ On the other hand, when the Implied Correlation Index is low, meaning stocks are
 
 ## What is Dispersion Trading and What is Its Significance?
 
-Dispersion trading is a sophisticated strategy in financial markets that leverages the differences between index [volatility](/wiki/volatility-trading-strategies) and the volatilities of its component stocks. At its core, this trading tactic involves taking positions based on the divergence between the collective movements of a stock index and the individual movements of its constituent stocks. The essence of dispersion trading lies in the exploitation of these volatility discrepancies.
+Dispersion trading is a sophisticated strategy in financial markets that leverages the differences between index [volatility](/wiki/volatility-trading-strategies) and the volatilities of its component stocks. At its core, this trading tactic involves taking positions based on the divergence between the collective movements of a stock index and the individual movements of its constituent stocks. The essence of [dispersion](/wiki/dispersion-trading) trading lies in the exploitation of these volatility discrepancies.
 
 Traders typically execute dispersion trades by selling options on an index and simultaneously buying options on the individual stocks that constitute that index. This trading approach is prominently delta-neutral, meaning that it strategically isolates the volatility component rather than depending on the directional movement of the markets. The primary objective is to profit from discrepancies when actual volatility unfolds differently from the implied volatility reflected in current option prices.
 

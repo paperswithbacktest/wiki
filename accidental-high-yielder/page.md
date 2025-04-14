@@ -144,7 +144,7 @@ Creating a sustainable high-yield investing strategy requires a structured appro
 
 ### Steps to Create a Diversified High-Yield Portfolio
 
-Diversification is crucial in reducing risk and enhancing the potential for returns in a high-yield portfolio. A well-diversified portfolio includes various asset classes such as stocks, bonds, and real estate, each having different risk-reward profiles. This diversification helps mitigate the impact of market volatility on the overall portfolio performance.
+Diversification is crucial in reducing risk and enhancing the potential for returns in a high-yield portfolio. A well-diversified portfolio includes various asset classes such as stocks, bonds, and real estate, each having different risk-reward profiles. This diversification helps mitigate the impact of market [volatility](/wiki/volatility-trading-strategies) on the overall portfolio performance.
 
 **Asset Allocation and Diversification**  
 The first step is to allocate assets across different sectors and geographies. For instance, combining high-yield dividend stocks with bonds can balance the portfolio by providing income and stability. The standard practice involves spreading investments across industries such as utilities, finance, consumer goods, and technology. Investors should also consider international diversification to protect against domestic downturns.

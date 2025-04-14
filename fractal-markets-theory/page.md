@@ -86,7 +86,7 @@ These math models help investors see the smaller patterns in the market and use 
 
 In the Fractal Market Hypothesis (FMH), the variability in perception and interpretation of information among investors is a significant [factor](/wiki/factor-investing) influencing market dynamics. Investors interpret financial data through the lens of their individual investment horizons and risk appetites, leading to a diverse array of market actions. In stable markets, the uniform distribution of information fosters a homogenized response among investors, contributing to market stability and balanced investment actions. Information is assimilated relatively uniformly across different investor classes, ensuring that no single group disproportionately influences market outcomes.
 
-During periods of crisis, however, this equilibrium is disrupted. Market participants react with heightened sensitivity to new information, which can lead to significant disparities in interpretation. Such periods often cause short-term information to overshadow long-term analysis, resulting in a convergence of investment horizons. As short-term horizons become prevalent, market volatility increases due to the rapid adjustments in investment strategies based on the latest data, thus destabilizing the market.
+During periods of crisis, however, this equilibrium is disrupted. Market participants react with heightened sensitivity to new information, which can lead to significant disparities in interpretation. Such periods often cause short-term information to overshadow long-term analysis, resulting in a convergence of investment horizons. As short-term horizons become prevalent, market [volatility](/wiki/volatility-trading-strategies) increases due to the rapid adjustments in investment strategies based on the latest data, thus destabilizing the market.
 
 This dynamic can be quantitatively modeled by analyzing how new information impacts the variance in investor behavior. In a stable market, we might observe a low variance ($\sigma^2$) in investor responses as information is uniformly interpreted. Conversely, during crises, this variance spikes, indicating disparate interpretations:
 
@@ -94,7 +94,7 @@ $$
 \sigma^2_{crisis} \gg \sigma^2_{stable}
 $$
 
-Such rapid shifts in investment horizons can be detrimental to market stability, causing liquidity to thin and escalating the potential for dramatic price swings. The FMH suggests that understanding these shifts and the underlying mechanisms in interpretation variance is crucial for developing effective risk management and [algorithmic trading](/wiki/algorithmic-trading) strategies that aim to anticipate and mitigate these disruptions. By acknowledging the heterogeneity in investor behavior and its susceptibility to information asymmetry, practitioners can better navigate the complexities of modern financial markets.
+Such rapid shifts in investment horizons can be detrimental to market stability, causing [liquidity](/wiki/liquidity-risk-premium) to thin and escalating the potential for dramatic price swings. The FMH suggests that understanding these shifts and the underlying mechanisms in interpretation variance is crucial for developing effective risk management and [algorithmic trading](/wiki/algorithmic-trading) strategies that aim to anticipate and mitigate these disruptions. By acknowledging the heterogeneity in investor behavior and its susceptibility to information asymmetry, practitioners can better navigate the complexities of modern financial markets.
 
 ## References & Further Reading
 

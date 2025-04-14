@@ -62,7 +62,7 @@ Another way PERI gets funding is by working with other groups and organizations.
 
 ## How can someone access PERI's research publications?
 
-Someone can access PERI's research publications by visiting their website. On the website, there is a section called "Publications" where you can find all of their research papers, reports, and books. You can search for specific topics or browse through different categories to find what you're interested in. Most of the publications are available to download for free as PDF files, so you can read them on your computer or print them out.
+Someone can access PERI's research publications by visiting their website. On the website, there is a section called "Publications" where you can find all of their research papers, reports, and [books](/wiki/algo-trading-books). You can search for specific topics or browse through different categories to find what you're interested in. Most of the publications are available to download for free as PDF files, so you can read them on your computer or print them out.
 
 If you want to stay updated on PERI's latest research, you can also sign up for their newsletter. The newsletter will send you emails about new publications and events. Another way to access PERI's research is by visiting a library. Many libraries have copies of PERI's publications, and you can ask a librarian to help you find them. By using these different ways, you can easily get PERI's research and learn about important topics like jobs, wages, and the environment.
 

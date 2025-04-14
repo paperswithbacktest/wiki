@@ -18,7 +18,7 @@ When a company decides to call back the stock, it usually does so because intere
 
 Callable preferred stock and non-callable preferred stock are two types of preferred stocks, but they have a big difference. Callable preferred stock can be bought back by the company that issued it. This means the company can decide to take the stock back from investors after a certain date for a set price. On the other hand, non-callable preferred stock cannot be bought back by the company. Once an investor buys it, they can keep it until they decide to sell it or it matures.
 
-Because of this difference, callable preferred stock usually offers a higher dividend to investors. This is to make up for the risk that the company might call the stock back. If the stock is called, the investor loses the chance to earn more dividends in the future. Non-callable preferred stock, however, does not have this risk. Investors know they can keep earning dividends as long as they hold the stock, which makes it a safer choice but often with a lower dividend rate.
+Because of this difference, callable preferred stock usually offers a higher dividend to investors. This is to make up for the risk that the company might call the stock back. If the stock is called, the investor loses the chance to earn more dividends in the future. Non-callable preferred stock, however, does not have this risk. Investors know they can keep [earning](/wiki/earning-announcement) dividends as long as they hold the stock, which makes it a safer choice but often with a lower dividend rate.
 
 ## What are the key features of callable preferred stock?
 
@@ -28,7 +28,7 @@ When a company calls back the stock, it often does so because interest rates hav
 
 ## Why might a company issue callable preferred stock?
 
-A company might issue callable preferred stock because it gives them a lot of flexibility. If interest rates go down, the company can call back the stock and issue new stock at a lower dividend rate. This saves the company money because they don't have to pay as much in dividends. It's like refinancing a loan at a lower interest rate.
+A company might issue callable preferred stock because it gives them a lot of flexibility. If interest rates go down, the company can call back the stock and issue new stock at a lower dividend rate. This saves the company money because they don't have to pay as much in dividends. It's like refinancing a loan at a lower [interest rate](/wiki/interest-rate-trading-strategies).
 
 Another reason is that callable preferred stock can attract investors who want higher dividends. Because there's a risk the company might call the stock back, they offer a higher dividend to make it more appealing. This can help the company raise money more easily, even if it means they might have to pay a bit more in dividends for a while.
 

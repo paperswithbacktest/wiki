@@ -42,7 +42,7 @@ Another benefit is the chance to make money. Speculators and investors trade com
 
 Trading commodity futures can be risky. One big risk is that prices can be very unpredictable. If you buy a futures contract hoping the price will go up, but it goes down instead, you can lose a lot of money. This is called market risk. It's like gambling, where you can win big or lose big. Another risk is called leverage. When you trade futures, you only need to put down a small amount of money to control a big contract. This can make your profits bigger, but it can also make your losses bigger if things go the wrong way.
 
-Another risk is liquidity risk. Sometimes, it can be hard to find someone to buy or sell your futures contract, especially if you want to get out of a trade quickly. This can be a problem if you need to sell your contract but can't find a buyer right away. There's also the risk of not understanding the market well. Commodity markets can be complicated, and if you don't know what you're doing, you might make bad decisions and lose money. It's important to learn about the market and maybe get advice from experts before you start trading.
+Another risk is [liquidity](/wiki/liquidity-risk-premium) risk. Sometimes, it can be hard to find someone to buy or sell your futures contract, especially if you want to get out of a trade quickly. This can be a problem if you need to sell your contract but can't find a buyer right away. There's also the risk of not understanding the market well. Commodity markets can be complicated, and if you don't know what you're doing, you might make bad decisions and lose money. It's important to learn about the market and maybe get advice from experts before you start trading.
 
 ## How is the price of a commodity futures contract determined?
 
@@ -80,7 +80,7 @@ One advanced strategy for trading commodity futures is called spread trading. Th
 
 Another strategy is called technical analysis. This is when you look at charts and patterns to guess where the price of a commodity might go next. Traders who use technical analysis look at things like moving averages, which show the average price over a certain time, and support and resistance levels, which are prices where the commodity often stops going up or down. By studying these patterns, traders try to find the best times to buy or sell futures contracts. Technical analysis can be helpful, but it's not perfect, so it's important to use it along with other information about the market.
 
-A third strategy is called algorithmic trading. This is when you use a computer program to make trading decisions for you. The program can look at a lot of data very quickly and make trades based on certain rules you set up. For example, the program might be told to buy a futures contract if the price goes above a certain level and sell it if the price goes below another level. Algorithmic trading can be very fast and can help you make trades at the best possible times, but it can also be risky if the program makes bad decisions or if the market moves in unexpected ways.
+A third strategy is called [algorithmic trading](/wiki/algorithmic-trading). This is when you use a computer program to make trading decisions for you. The program can look at a lot of data very quickly and make trades based on certain rules you set up. For example, the program might be told to buy a futures contract if the price goes above a certain level and sell it if the price goes below another level. Algorithmic trading can be very fast and can help you make trades at the best possible times, but it can also be risky if the program makes bad decisions or if the market moves in unexpected ways.
 
 ## What are Financial Futures Contracts and How Do They Work?
 
@@ -102,7 +102,7 @@ In conclusion, the nuanced nature of financial futures contracts makes them indi
 
 ## What are the strategies and techniques used in algo trading?
 
-Algorithmic trading in futures markets employs several sophisticated strategies to enhance trading efficiency and profitability. These include arbitrage, [trend following](/wiki/trend-following), and mean reversion, each of which can be automated through algorithmic processes to minimize risk and maximize returns.
+Algorithmic trading in futures markets employs several sophisticated strategies to enhance trading efficiency and profitability. These include [arbitrage](/wiki/arbitrage), [trend following](/wiki/trend-following), and mean reversion, each of which can be automated through algorithmic processes to minimize risk and maximize returns.
 
 **Arbitrage Strategies**  
 Arbitrage involves simultaneously buying and selling an asset in different markets to exploit price discrepancies, thus securing a profit with minimal risk. In the context of futures markets, arbitrage can be conducted across different exchanges or between futures and spot markets. For instance, if the price of a [crude oil](/wiki/crude-oil) futures contract on one exchange is lower than on another, an algorithm could automatically buy the cheaper contract and sell the more expensive one. The mathematical principle can be distilled into the equation:
@@ -114,7 +114,7 @@ $$
 Automating this process ensures that the trades occur at the optimal moments when such price discrepancies are identified, often within fractions of a second that are imperceptible to human traders.
 
 **Trend-Following Strategies**  
-Trend following is based on the logic that assets trending in a particular direction are likely to continue moving in that direction. Algorithms programmed with trend-following strategies typically utilize technical indicators such as moving averages, momentum oscillators, or Bollinger Bands to determine entry and exit points. Python code to implement a simple moving average crossover strategy might look like:
+Trend following is based on the logic that assets trending in a particular direction are likely to continue moving in that direction. Algorithms programmed with trend-following strategies typically utilize technical indicators such as moving averages, [momentum](/wiki/momentum) oscillators, or Bollinger Bands to determine entry and [exit](/wiki/exit-strategy) points. Python code to implement a simple moving average crossover strategy might look like:
 
 ```python
 def moving_average(series, window):
@@ -135,7 +135,7 @@ signal[short_ma <= long_ma] = -1  # Sell signal
 Such algorithms enable the automatic following of market trends, aiming to harvest gains from sustained market movements.
 
 **Mean Reversion Strategies**  
-Mean reversion strategies are predicated on the idea that asset prices will revert to their historical averages over time. This strategy identifies price extremes and executes trades to profit from corrections. A common approach is to use Bollinger Bands to gauge the volatility and price deviation from the mean. The formula for a Bollinger Band is:
+Mean reversion strategies are predicated on the idea that asset prices will revert to their historical averages over time. This strategy identifies price extremes and executes trades to profit from corrections. A common approach is to use Bollinger Bands to gauge the [volatility](/wiki/volatility-trading-strategies) and price deviation from the mean. The formula for a Bollinger Band is:
 
 $$
 \text{Upper Band} = \text{Moving Average} + (k \times \text{Standard Deviation})

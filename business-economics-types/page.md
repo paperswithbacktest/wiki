@@ -82,7 +82,7 @@ Understanding the market structure helps businesses decide how to act. For examp
 
 In business economics, people use advanced tools and models to help them understand and predict how businesses will do. One common tool is regression analysis, which helps find out how different things, like price or advertising, affect sales. It's like looking at a bunch of data to see patterns and make guesses about the future. Another useful model is the input-output model, which shows how different parts of a business or an economy depend on each other. For example, it can show how changes in one part, like raw materials, affect other parts, like finished products. These tools help businesses make better decisions by giving them a clearer picture of what's going on.
 
-Another important tool is econometric modeling, which uses math and statistics to study economic relationships. It can help businesses predict things like how much people will buy or how prices will change. Businesses also use game theory, which is about understanding how companies compete with each other. It helps them figure out the best moves to make, like setting prices or launching new products, by thinking about what their competitors might do. By using these advanced tools and models, businesses can plan better and make choices that help them grow and succeed.
+Another important tool is econometric modeling, which uses math and [statistics](/wiki/bayesian-statistics) to study economic relationships. It can help businesses predict things like how much people will buy or how prices will change. Businesses also use game theory, which is about understanding how companies compete with each other. It helps them figure out the best moves to make, like setting prices or launching new products, by thinking about what their competitors might do. By using these advanced tools and models, businesses can plan better and make choices that help them grow and succeed.
 
 ## How can businesses apply game theory to improve their economic decisions?
 
@@ -92,7 +92,7 @@ Using game theory also helps businesses plan for different situations. They can 
 
 ## What are the types of algorithmic trading strategies?
 
-Algorithmic trading strategies leverage mathematical algorithms and data analysis to execute trades efficiently and effectively. These strategies are designed to exploit patterns, inefficiencies, or predictable behaviors in markets, aiming for optimized profit outcomes. Here are some of the primary types of algorithmic trading strategies:
+Algorithmic trading strategies leverage mathematical algorithms and data analysis to execute trades efficiently and effectively. These strategies are designed to exploit patterns, inefficiencies, or predictable behaviors in markets, aiming for optimized profit outcomes. Here are some of the primary types of [algorithmic trading](/wiki/algorithmic-trading) strategies:
 
 1. **Trend-Following Strategies**: These strategies capitalize on market trends, typically using technical indicators such as moving averages to make trading decisions. Traders identify a market direction and establish positions that will benefit from the continuation of that trend. For example, the simple moving average (SMA) can be calculated over a defined period to detect upward or downward trends. Python can be used to implement this strategy as demonstrated below:
 

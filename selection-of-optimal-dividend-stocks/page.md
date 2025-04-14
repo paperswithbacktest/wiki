@@ -28,7 +28,7 @@ To calculate the dividend yield, you take the yearly dividend per share and divi
 
 ## What are the key factors to consider when selecting dividend stocks?
 
-When picking dividend stocks, it's good to first look at the company's history of paying dividends. Some companies have been paying dividends for many years without missing a payment. This shows they are stable and can be trusted to keep paying dividends. Also, check the dividend yield, which is how much dividend you get for each dollar you invest. A high yield might seem good, but it can also mean the company is in trouble. So, it's important to find a balance and not just go for the highest yield.
+When [picking](/wiki/asset-class-picking) dividend stocks, it's good to first look at the company's history of paying dividends. Some companies have been paying dividends for many years without missing a payment. This shows they are stable and can be trusted to keep paying dividends. Also, check the dividend yield, which is how much dividend you get for each dollar you invest. A high yield might seem good, but it can also mean the company is in trouble. So, it's important to find a balance and not just go for the highest yield.
 
 Another important thing to consider is the company's overall health and future plans. A company that is doing well and growing is more likely to keep paying dividends. Look at their profits, how much debt they have, and what they plan to do in the future. If a company is making good money and has plans to grow, it's more likely to keep paying dividends. Also, think about the industry the company is in. Some industries, like utilities or big banks, are known for paying steady dividends, which can be a good sign.
 

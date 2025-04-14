@@ -46,7 +46,7 @@ After selling the borrowed shares, you wait for the price of Amazon stock to go 
 
 ## What are the costs associated with short selling Amazon stock?
 
-When you short sell Amazon stock, you have to pay some costs. One big cost is the interest you have to pay to your broker for borrowing the shares. The interest rate can change and depends on how hard it is to borrow Amazon stock. If a lot of people want to short sell Amazon at the same time, it can be harder to find shares to borrow, and the interest rate might go up. You also have to pay fees to your broker for the service of lending you the shares and helping you with the short sale.
+When you short sell Amazon stock, you have to pay some costs. One big cost is the interest you have to pay to your broker for borrowing the shares. The [interest rate](/wiki/interest-rate-trading-strategies) can change and depends on how hard it is to borrow Amazon stock. If a lot of people want to short sell Amazon at the same time, it can be harder to find shares to borrow, and the interest rate might go up. You also have to pay fees to your broker for the service of lending you the shares and helping you with the short sale.
 
 Another cost is the risk of losing money if Amazon's stock price goes up instead of down. If you have to buy back the shares at a higher price than you sold them, you lose money. The potential loss can be a lot more than what you put in because there's no limit to how high the stock price can go. All these costs together can make short selling Amazon stock expensive and risky.
 

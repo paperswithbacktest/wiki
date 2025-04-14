@@ -58,7 +58,7 @@ Market makers have to be ready to buy and sell all the time, so they set these t
 
 ## How do market makers contribute to market liquidity?
 
-Market makers help make the market more liquid by always being ready to buy and sell things like stocks or bonds. When someone wants to sell their stocks, the market maker will buy them. And when someone wants to buy stocks, the market maker will sell them. This means there is always someone to trade with, so people don't have to wait to find a buyer or seller. This makes it easier and faster for everyone to trade, which is what we mean by "liquidity."
+Market makers help make the market more liquid by always being ready to buy and sell things like stocks or bonds. When someone wants to sell their stocks, the market maker will buy them. And when someone wants to buy stocks, the market maker will sell them. This means there is always someone to trade with, so people don't have to wait to find a buyer or seller. This makes it easier and faster for everyone to trade, which is what we mean by "[liquidity](/wiki/liquidity-risk-premium)."
 
 Because market makers are always ready to trade, they help keep the market moving smoothly. If there were no market makers, people might have to wait a long time to find someone else who wants to trade at the same time. This could make the market slow and hard to use. But with market makers, there's always a price available for trading, so the market stays active and easy to use. This is really important for keeping the market healthy and working well.
 

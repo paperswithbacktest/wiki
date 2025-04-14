@@ -70,7 +70,7 @@ Also, big events like wars, natural disasters, or new laws can mess with supply 
 
 ## What advanced techniques can be used to optimize intermarket spread trading?
 
-To make intermarket spread trading better, traders can use fancy math and computer programs. They might use something called "algorithmic trading," where computers do the buying and selling for them based on rules they set up. These rules can look at lots of data really fast, like how prices are moving or what's happening in the news. This can help traders find the best times to buy and sell, so they can make more money. They can also use "statistical arbitrage," which is a way to find small price differences that might not be easy to see but can still make a profit if you do it a lot.
+To make intermarket spread trading better, traders can use fancy math and computer programs. They might use something called "[algorithmic trading](/wiki/algorithmic-trading)," where computers do the buying and selling for them based on rules they set up. These rules can look at lots of data really fast, like how prices are moving or what's happening in the news. This can help traders find the best times to buy and sell, so they can make more money. They can also use "statistical [arbitrage](/wiki/arbitrage)," which is a way to find small price differences that might not be easy to see but can still make a profit if you do it a lot.
 
 Another way to improve intermarket spread trading is by using "hedging" to lower the risk. Hedging means buying something else that will go up in value if the spread doesn't work out. For example, if you're trading wheat between Chicago and Kansas City, you might also buy a contract for corn in case the wheat prices change in a way you didn't expect. By doing this, you can protect your money even if things don't go as planned. Plus, paying attention to "market sentiment," or how people feel about the market, can help you guess where prices might go next. If everyone thinks prices will go up, they might, and you can plan your trades around that.
 
@@ -92,7 +92,7 @@ $$
 
 where $P_{\text{future month}}$ and $P_{\text{near month}}$ are prices for the respective contract months.
 
-Crack spreads are predominantly used in energy markets to trade the price difference between crude oil and its refined products, such as gasoline and heating oil. This strategy reflects the profit margin from refining crude oil into its products. A typical example is the 3-2-1 crack spread, where three barrels of crude oil are refined into two barrels of gasoline and one barrel of heating oil. The spread calculation can be expressed as:
+Crack spreads are predominantly used in energy markets to trade the price difference between [crude oil](/wiki/crude-oil) and its refined products, such as gasoline and heating oil. This strategy reflects the profit margin from refining crude oil into its products. A typical example is the 3-2-1 crack spread, where three barrels of crude oil are refined into two barrels of gasoline and one barrel of heating oil. The spread calculation can be expressed as:
 
 $$
 \text{Crack Spread} = 2 \times P_{\text{gasoline}} + P_{\text{heating oil}} - 3 \times P_{\text{crude oil}}

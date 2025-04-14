@@ -82,7 +82,7 @@ If you want to use a script instead, you can use Visual Basic for Applications (
 
 ## What is the Price-to-Earnings Ratio and how do we understand it?
 
-The Price-to-Earnings (P/E) ratio is an essential financial metric used in fundamental analysis to evaluate the relative market value of a stock compared to the company's earnings. The formula for the P/E ratio is:
+The Price-to-Earnings (P/E) ratio is an essential financial metric used in [fundamental analysis](/wiki/fundamental-analysis) to evaluate the relative market value of a stock compared to the company's earnings. The formula for the P/E ratio is:
 
 $$
 \text{P/E Ratio} = \frac{\text{Market Price per Share}}{\text{Earnings per Share (EPS)}}

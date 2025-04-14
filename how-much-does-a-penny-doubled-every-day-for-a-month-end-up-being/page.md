@@ -52,7 +52,7 @@ In a 31-day month, starting on the first day and doubling every day, you'll have
 
 ## How does the concept of compound interest relate to doubling a penny daily?
 
-The concept of doubling a penny every day is a simple way to understand compound interest. Compound interest is when the money you have grows not just on the original amount, but also on the interest you earn over time. When you double a penny every day, you are seeing the power of this kind of growth. Each day, the amount of money you have doubles, which is like earning interest on your money and then earning more interest on that interest.
+The concept of doubling a penny every day is a simple way to understand compound interest. Compound interest is when the money you have grows not just on the original amount, but also on the interest you earn over time. When you double a penny every day, you are seeing the power of this kind of growth. Each day, the amount of money you have doubles, which is like [earning](/wiki/earning-announcement) interest on your money and then earning more interest on that interest.
 
 This example of doubling a penny daily shows how quickly money can grow with compound interest. Even though you start with just one penny, by the end of a month, you can end up with millions of dollars. It teaches us that even small amounts of money can grow into big amounts if you let them compound over time. This is why starting to save or invest early can lead to much bigger results in the future.
 

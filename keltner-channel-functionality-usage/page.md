@@ -42,7 +42,7 @@ On the other hand, if the price breaks through the lower band, it often means th
 
 Traders can use the Keltner Channel to set stop-loss orders by placing them just outside the upper or lower bands. If a trader is buying a stock and wants to limit their loss, they can set a stop-loss order a bit below the lower band. This way, if the price drops and breaks through the lower band, the stop-loss order will kick in and sell the stock before the price falls too much.
 
-For traders who are selling a stock short, they can set a stop-loss order just above the upper band. If the price rises and breaks through the upper band, the stop-loss order will trigger and buy back the stock to limit the loss. Using the Keltner Channel like this helps traders manage their risk by setting clear points where they will exit a trade if it moves against them.
+For traders who are selling a stock short, they can set a stop-loss order just above the upper band. If the price rises and breaks through the upper band, the stop-loss order will trigger and buy back the stock to limit the loss. Using the Keltner Channel like this helps traders manage their risk by setting clear points where they will [exit](/wiki/exit-strategy) a trade if it moves against them.
 
 ## Can the Keltner Channel be used for mean reversion strategies, and if so, how?
 
@@ -76,7 +76,7 @@ Another technique is to use the Keltner Channel with moving average convergence 
 
 ## How has the effectiveness of the Keltner Channel been empirically tested in academic or professional research?
 
-The effectiveness of the Keltner Channel has been studied in both academic and professional research, but it's not as widely researched as some other indicators like Bollinger Bands. Some studies have looked at how well the Keltner Channel can help traders make money. These studies often test it in different markets, like stocks or forex, to see if it works better in some places than others. They also look at different time frames, from short-term trading to longer-term investing, to see if the Keltner Channel is more useful for some kinds of trading.
+The effectiveness of the Keltner Channel has been studied in both academic and professional research, but it's not as widely researched as some other indicators like Bollinger Bands. Some studies have looked at how well the Keltner Channel can help traders make money. These studies often test it in different markets, like stocks or [forex](/wiki/forex-system), to see if it works better in some places than others. They also look at different time frames, from short-term trading to longer-term investing, to see if the Keltner Channel is more useful for some kinds of trading.
 
 One study might compare the Keltner Channel to other volatility indicators to see which one gives better signals for buying and selling. Researchers might use computer programs to run lots of trades using the Keltner Channel and see how much money they make or lose compared to other methods. They might find that the Keltner Channel works well in trending markets but not as well in markets that are moving sideways. Overall, while there is some research on the Keltner Channel, more studies are needed to really understand how well it works in different situations and how it can be used best by traders.
 

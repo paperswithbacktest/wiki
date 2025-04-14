@@ -22,7 +22,7 @@ The fund works by tracking an index called the US Vegan Climate Index. This inde
 
 ## What are the criteria for a company to be included in a Vegan ETF?
 
-A company needs to meet certain rules to be part of a Vegan ETF. The main rule is that the company must not use any animal products or test on animals. This means they can't be involved in making or selling meat, dairy, eggs, leather, or any other things that come from animals. They also can't do any tests on animals, which is common in some industries like cosmetics and pharmaceuticals.
+A company needs to meet certain rules to be part of a Vegan [ETF](/wiki/etf-trading-strategies). The main rule is that the company must not use any animal products or test on animals. This means they can't be involved in making or selling meat, dairy, eggs, leather, or any other things that come from animals. They also can't do any tests on animals, which is common in some industries like cosmetics and pharmaceuticals.
 
 Another important rule is that the company should be good for the environment. Vegan ETFs often look for companies that help reduce pollution and fight climate change. This can include companies that use clean energy, reduce waste, or have other green practices. By following these rules, the companies in a Vegan ETF help support a world that is kinder to animals and better for the planet.
 
@@ -32,7 +32,7 @@ Sometimes, there are other smaller rules too. For example, a company might need 
 
 Investing in a Vegan ETF can help you match your money with your beliefs. If you care about animals and the environment, a Vegan ETF lets you put your money into companies that don't use animal products or harm the planet. This way, you can feel good knowing your investments are helping to make the world a better place for animals and the earth.
 
-Another benefit is that Vegan ETFs can be a smart way to spread out your investments. Instead of picking one or two companies, a Vegan ETF includes many different companies from different industries. This can lower your risk because if one company does badly, the others might do well. Plus, it's easy to invest in a Vegan ETF because you can buy and sell shares just like any other stock, making it simple to manage your money while sticking to your values.
+Another benefit is that Vegan ETFs can be a smart way to spread out your investments. Instead of [picking](/wiki/asset-class-picking) one or two companies, a Vegan ETF includes many different companies from different industries. This can lower your risk because if one company does badly, the others might do well. Plus, it's easy to invest in a Vegan ETF because you can buy and sell shares just like any other stock, making it simple to manage your money while sticking to your values.
 
 ## How does the VEGN fund select its investments?
 
@@ -44,7 +44,7 @@ Besides avoiding animal products, the VEGN fund also cares about the environment
 
 Investing in Vegan ETFs, like any investment, comes with some risks. One big risk is that these funds might not do as well as other funds that don't have the same strict rules. Because Vegan ETFs only pick companies that don't use animal products and are good for the environment, they might miss out on some good investment chances in other industries. This can mean less money for investors if those other industries do really well.
 
-Another risk is that Vegan ETFs might not be as popular or well-known as other types of funds. This can make it harder to buy and sell shares quickly, which is called liquidity. If lots of people want to sell their shares at the same time, it might be hard to find buyers, and the price could go down. So, it's important to think about how easy it is to get your money out of the fund if you need to.
+Another risk is that Vegan ETFs might not be as popular or well-known as other types of funds. This can make it harder to buy and sell shares quickly, which is called [liquidity](/wiki/liquidity-risk-premium). If lots of people want to sell their shares at the same time, it might be hard to find buyers, and the price could go down. So, it's important to think about how easy it is to get your money out of the fund if you need to.
 
 Lastly, the rules for what makes a company "vegan" can change over time. If a company that's in the Vegan ETF stops following the vegan rules, it might have to be taken out of the fund. This can cause the value of the fund to go up and down more than other funds. It's good to keep an eye on these changes and understand how they might affect your investment.
 
@@ -76,7 +76,7 @@ Lastly, you can use a strategy called rebalancing. This means you check your inv
 
 ## How do Vegan ETFs contribute to environmental, social, and governance (ESG) goals?
 
-Vegan ETFs help with environmental, social, and governance (ESG) goals by picking companies that don't use animal products and are good for the environment. These funds avoid companies that harm animals or the planet, like those in the meat and dairy industries. Instead, they invest in companies that use clean energy, reduce waste, and have other green practices. By doing this, Vegan ETFs help fight climate change and make the world a better place for everyone. They show that you can make money and still care about the earth.
+Vegan ETFs help with environmental, social, and governance ([ESG](/wiki/esg-investing)) goals by picking companies that don't use animal products and are good for the environment. These funds avoid companies that harm animals or the planet, like those in the meat and dairy industries. Instead, they invest in companies that use clean energy, reduce waste, and have other green practices. By doing this, Vegan ETFs help fight climate change and make the world a better place for everyone. They show that you can make money and still care about the earth.
 
 Also, Vegan ETFs support social goals by promoting animal welfare. They only include companies that don't test on animals or use animal products, which helps reduce animal suffering. This can make people think more about how their money affects animals and the world around them. By investing in Vegan ETFs, people can feel good knowing their money is going to companies that treat animals well and care about the planet. This way, Vegan ETFs help make the world kinder and more sustainable.
 

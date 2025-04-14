@@ -30,7 +30,7 @@ Recognizing impairment losses for both tangible and intangible assets is importa
 
 ## How does impairment differ from depreciation?
 
-Impairment and depreciation are two ways a company can show that an asset's value has gone down, but they're different. Depreciation happens over time for tangible assets like machines or buildings. It's a regular thing that companies do to spread out the cost of an asset over its useful life. So, every year, the value of the asset on the books goes down a bit, and that's normal.
+Impairment and depreciation are two ways a company can show that an asset's value has gone down, but they're different. Depreciation happens over time for tangible assets like machines or buildings. It's a regular thing that companies do to spread out the cost of an asset over its useful life. So, every year, the value of the asset on the [books](/wiki/algo-trading-books) goes down a bit, and that's normal.
 
 Impairment is different because it's not a regular thing. It happens when something unexpected makes an asset worth less than what's on the books. This can happen to both tangible and intangible assets, like a patent or goodwill. When a company finds out an asset has lost a lot of value suddenly, they have to record an impairment loss to show the new, lower value right away. So, while depreciation is a planned and regular reduction in value, impairment is a sudden and unexpected one.
 

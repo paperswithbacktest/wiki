@@ -90,7 +90,7 @@ $$
 
 This median price is a crucial starting point for the Supertrend formula, providing a balanced position between the high and low prices observed within a specific time frame.
 
-The Supertrend indicator further refines this by employing the ATR, a metric that quantifies market volatility. Using the ATR, two crucial bands, the Upper and Lower bands, are calculated through the following formulas:
+The Supertrend indicator further refines this by employing the ATR, a metric that quantifies market [volatility](/wiki/volatility-trading-strategies). Using the ATR, two crucial bands, the Upper and Lower bands, are calculated through the following formulas:
 
 $$
 \text{UpBand} = \text{MedianPrice} + \text{Multiplier} \times \text{ATR}

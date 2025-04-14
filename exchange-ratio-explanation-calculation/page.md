@@ -30,7 +30,7 @@ For example, if Company A is worth $100 million and Company B is worth $50 milli
 
 When figuring out an exchange ratio, companies look at many things to make sure it's fair. They start by checking how much each company is worth. This can be based on the stock price, how much money the company makes, and what it owns. They also think about how well each company is doing and what might happen in the future. If one company is doing better or has more potential to grow, it might affect the ratio.
 
-Another big factor is how many shares each company has. If one company has a lot more shares than the other, this can change the ratio. Companies also consider what their shareholders might think. If the ratio seems unfair, shareholders might not agree to the deal. So, companies try to find a balance that makes everyone happy. It's like trying to share a cake fairly among friends – you want everyone to feel they got a good piece.
+Another big [factor](/wiki/factor-investing) is how many shares each company has. If one company has a lot more shares than the other, this can change the ratio. Companies also consider what their shareholders might think. If the ratio seems unfair, shareholders might not agree to the deal. So, companies try to find a balance that makes everyone happy. It's like trying to share a cake fairly among friends – you want everyone to feel they got a good piece.
 
 ## Can you explain the role of stock valuation in setting an exchange ratio?
 

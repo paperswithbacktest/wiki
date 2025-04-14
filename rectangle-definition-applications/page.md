@@ -18,7 +18,7 @@ You can find rectangles in many places around you. For example, a sheet of paper
 
 A rectangle has four sides and four corners. The opposite sides of a rectangle are the same length. This means if one side is long, the side across from it is also long. If one side is short, the side across from it is also short. The sides of a rectangle are straight and they meet at the corners to form right angles. A right angle looks like the corner of a square or the corner of a piece of paper.
 
-All the corners of a rectangle are right angles. This means that if you put a square in each corner of the rectangle, it would fit perfectly. The right angles make the rectangle a special kind of shape because it is easy to stack and line up rectangles. Rectangles are used a lot in building things like houses and making things like books and tables because they fit together well and are easy to work with.
+All the corners of a rectangle are right angles. This means that if you put a square in each corner of the rectangle, it would fit perfectly. The right angles make the rectangle a special kind of shape because it is easy to stack and line up rectangles. Rectangles are used a lot in building things like houses and making things like [books](/wiki/algo-trading-books) and tables because they fit together well and are easy to work with.
 
 ## How do you calculate the area of a rectangle?
 

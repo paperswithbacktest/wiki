@@ -82,7 +82,7 @@ Another way to measure the effectiveness is by looking at how often the ABC patt
 
 ## How is risk management handled in ABC Trading?
 
-In algorithmic trading, especially when employing strategies like the ABC pattern, effective risk management is paramount to preserving capital and optimizing profitability. Utilizing stop-loss orders and proper position sizing are foundational strategies to manage risk in ABC trading. A stop-loss order helps traders limit potential losses by selling a security once its price falls to a predetermined level. This order type acts as a safety net, preventing the trader from incurring larger-than-expected losses during market [volatility](/wiki/volatility-trading-strategies) or unforeseen price movements.
+In [algorithmic trading](/wiki/algorithmic-trading), especially when employing strategies like the ABC pattern, effective risk management is paramount to preserving capital and optimizing profitability. Utilizing stop-loss orders and proper position sizing are foundational strategies to manage risk in ABC trading. A stop-loss order helps traders limit potential losses by selling a security once its price falls to a predetermined level. This order type acts as a safety net, preventing the trader from incurring larger-than-expected losses during market [volatility](/wiki/volatility-trading-strategies) or unforeseen price movements.
 
 Position sizing is another critical risk management tool, which entails adjusting the number of units to trade based on the risk tolerance of the trader and the volatility of the asset. A commonly used formula to determine position size is:
 
@@ -95,7 +95,7 @@ Where:
 - **Account Balance** is the total capital in the trading account.
 - **Trade Risk** refers to the difference between the entry price and the stop-loss price per unit.
 
-Diversification of trades across various markets and timeframes is also essential in mitigating risk. By spreading investments across different asset classes such as stocks, forex, and commodities, traders can reduce their exposure to the adverse movements in a single market. Variability in timeframes allows traders to capitalize on both short-term and long-term market trends while spreading risk across different trading horizons.
+Diversification of trades across various markets and timeframes is also essential in mitigating risk. By spreading investments across different asset classes such as stocks, [forex](/wiki/forex-system), and commodities, traders can reduce their exposure to the adverse movements in a single market. Variability in timeframes allows traders to capitalize on both short-term and long-term market trends while spreading risk across different trading horizons.
 
 Moreover, employing volatility metrics and tools such as the Average True Range (ATR) can aid traders in adjusting stop-loss levels dynamically, ensuring they are consistent with current market conditions. This approach helps in maintaining a balance between risk exposure and potential rewards.
 

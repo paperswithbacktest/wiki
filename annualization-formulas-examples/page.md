@@ -24,7 +24,7 @@ For example, if your monthly return is 1%, you don't just multiply by 12 to get 
 
 Let's say you have a monthly return of 2%. You want to know what that would be if it happened over a whole year. To find out, you start by adding 1 to your monthly return, which makes it 1.02. Then, you take that number and raise it to the 12th power because there are 12 months in a year. When you do that, you get about 1.2682. Subtract 1 from that, and you get 0.2682, which is the same as 26.82%. So, a 2% monthly return annualizes to about 26.82%.
 
-This is important because it helps you see what your investment might do over a longer time. If you only looked at the monthly return, you might think it's just 2%, but over a year, it's much more because the money you earn each month starts earning more money too. This way of figuring things out helps you plan better and compare different investments to see which one might be better for you.
+This is important because it helps you see what your investment might do over a longer time. If you only looked at the monthly return, you might think it's just 2%, but over a year, it's much more because the money you earn each month starts [earning](/wiki/earning-announcement) more money too. This way of figuring things out helps you plan better and compare different investments to see which one might be better for you.
 
 ## What formula is used to annualize daily returns?
 
@@ -70,7 +70,7 @@ Another advanced way to annualize returns for investments with irregular cash fl
 
 ## How can annualization be applied to risk measures like volatility?
 
-Annualization can be used to understand how risky an investment might be over a whole year, even if you only have information for a shorter time. One way to do this is by looking at something called volatility, which is a measure of how much the value of an investment goes up and down. If you know the volatility for a month, you can annualize it to see what it might be for a whole year. To do this, you take the monthly volatility and multiply it by the square root of 12, because there are 12 months in a year. This helps you guess how much the investment might change over the course of a year, which is useful for planning and understanding risk.
+Annualization can be used to understand how risky an investment might be over a whole year, even if you only have information for a shorter time. One way to do this is by looking at something called [volatility](/wiki/volatility-trading-strategies), which is a measure of how much the value of an investment goes up and down. If you know the volatility for a month, you can annualize it to see what it might be for a whole year. To do this, you take the monthly volatility and multiply it by the square root of 12, because there are 12 months in a year. This helps you guess how much the investment might change over the [course](/wiki/best-algorithmic-trading-courses) of a year, which is useful for planning and understanding risk.
 
 For example, if the monthly volatility of an investment is 2%, you can annualize it by multiplying 2% by the square root of 12, which is about 3.46. So, 2% times 3.46 equals about 6.92%. This means the annualized volatility of the investment is about 6.92%. This way, you can see how much the investment might go up and down over a year, which helps you understand if it's a riskier or safer investment. Knowing this can help you make better choices about where to put your money.
 
@@ -84,7 +84,7 @@ Another thing to think about is how different types of investments act in differ
 
 Annualization refers to the method of converting a short-term financial rate or figure into an equivalent annual figure. This approach is particularly useful in finance for projecting future performance or making comparisons among various investments. The essence of annualization is to provide a consistent basis for evaluation over a standardized time frame, typically a year.
 
-The process generally involves multiplying a shorter-term rate of return by the number of periods in a year. For instance, if you have a monthly rate of return, you can annualize it by multiplying it by 12. Similarly, for a quarterly rate of return, the multiplication factor would be 4. This straightforward calculation offers a uniform measure to assess different investment opportunities or financial instruments over the long term.
+The process generally involves multiplying a shorter-term rate of return by the number of periods in a year. For instance, if you have a monthly rate of return, you can annualize it by multiplying it by 12. Similarly, for a quarterly rate of return, the multiplication [factor](/wiki/factor-investing) would be 4. This straightforward calculation offers a uniform measure to assess different investment opportunities or financial instruments over the long term.
 
 However, merely multiplying the short-term rate by the number of periods assumes that there is no compounding of returns, which is rarely the case in real-world financial markets. In practice, annualization often considers compounding effects to provide a more accurate picture of potential growth. Compounding refers to the process by which returns are reinvested to generate additional earnings over time.
 

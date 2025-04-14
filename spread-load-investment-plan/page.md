@@ -58,7 +58,7 @@ If you use a tax-advantaged account like an IRA or 401(k) to invest in a Spread-
 
 ## How does market volatility affect a Spread-Load Investment Plan?
 
-Market volatility can have a big impact on a Spread-Load Investment Plan. When the market goes up and down a lot, the value of your investments can change quickly. If you're adding money to your plan regularly, you might buy more shares when the price is low and fewer when the price is high. This can be good because it means you're buying at different prices, which can help you get a better average price over time. But it can also be scary because you might see the value of your investments drop a lot during times of high volatility.
+Market [volatility](/wiki/volatility-trading-strategies) can have a big impact on a Spread-Load Investment Plan. When the market goes up and down a lot, the value of your investments can change quickly. If you're adding money to your plan regularly, you might buy more shares when the price is low and fewer when the price is high. This can be good because it means you're buying at different prices, which can help you get a better average price over time. But it can also be scary because you might see the value of your investments drop a lot during times of high volatility.
 
 Even though market volatility can make your investments seem risky, a Spread-Load Investment Plan can help you stay calm. Because you're paying fees over time and adding money regularly, you're less likely to make big changes to your plan just because the market is moving a lot. This can help you stick to your long-term goals and keep investing, even when the market is volatile. It's important to remember that investing is for the long term, and short-term ups and downs are normal.
 

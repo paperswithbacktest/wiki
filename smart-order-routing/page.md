@@ -54,7 +54,7 @@ Another important technology is the internet, which helps the smart order routin
 
 ## How does smart order routing impact market liquidity?
 
-Smart order routing can help make the market more liquid. Liquidity means how easy it is to buy or sell something without changing its price too much. When smart order routing is used, it sends orders to different places to find the best price. This means more people can buy and sell stocks easily, which makes the market more active. When more people are trading, it's easier for everyone to find someone to trade with, which is good for liquidity.
+Smart order routing can help make the market more liquid. Liquidity means how easy it is to buy or sell something without changing its price too much. When smart order routing is used, it sends orders to different places to find the best price. This means more people can buy and sell stocks easily, which makes the market more active. When more people are trading, it's easier for everyone to find someone to trade with, which is good for [liquidity](/wiki/liquidity-risk-premium).
 
 However, smart order routing can also have some effects on market liquidity that are not so good. If too many orders are sent to one place because it has the best price, it can make that place very busy. When a place gets too busy, it can slow down, and it might be harder to buy or sell quickly. This can make the market less liquid in those busy spots. So, while smart order routing usually helps with liquidity, it can sometimes make things a bit harder if not managed well.
 
@@ -78,7 +78,7 @@ Another important thing is to make sure the algorithms are fair and follow the r
 
 ## Can you discuss any recent advancements or future trends in smart order routing?
 
-Recently, one big advancement in smart order routing is the use of artificial intelligence (AI) and machine learning. These technologies help the system get smarter over time. They can learn from past trades to find the best places to send orders. This means the system can get better at finding the best prices and making trades faster. Another trend is the use of cloud computing, which lets the system use a lot of computer power from the internet. This can make smart order routing even faster and more reliable.
+Recently, one big advancement in smart order routing is the use of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning). These technologies help the system get smarter over time. They can learn from past trades to find the best places to send orders. This means the system can get better at finding the best prices and making trades faster. Another trend is the use of cloud computing, which lets the system use a lot of computer power from the internet. This can make smart order routing even faster and more reliable.
 
 Looking into the future, smart order routing might become even more important as more people trade stocks online. As technology keeps getting better, we might see systems that can predict market changes before they happen. This could help traders get even better prices. Also, as rules change, smart order routing will need to keep up to make sure it stays fair and safe for everyone. These advancements and trends show that smart order routing is always changing and getting better to help traders save money and time.
 

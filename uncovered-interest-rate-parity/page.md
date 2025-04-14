@@ -58,7 +58,7 @@ This puzzle shows that the real world doesn't always follow the simple rules of 
 
 ## How do investors use Uncovered Interest Rate Parity in forex trading?
 
-Investors use Uncovered Interest Rate Parity (UIP) in forex trading to try to make money from the difference in interest rates between two countries. They might move their money to a country with higher interest rates, hoping to earn more interest. But they know that UIP says the currency of that country should go down in value over time. So, they're betting that the interest they earn will be more than any loss they might have because of the currency dropping in value.
+Investors use Uncovered Interest Rate Parity (UIP) in [forex](/wiki/forex-system) trading to try to make money from the difference in interest rates between two countries. They might move their money to a country with higher interest rates, hoping to earn more interest. But they know that UIP says the currency of that country should go down in value over time. So, they're betting that the interest they earn will be more than any loss they might have because of the currency dropping in value.
 
 In practice, though, things can get tricky. The 'forward premium puzzle' shows that sometimes the currency of a country with higher interest rates doesn't go down like UIP predicts. It might even get stronger. This means investors can end up making more money than they expected. Because of this, many investors use UIP as just one part of their trading strategy. They look at other things too, like what's happening in the world, to help them decide when and where to move their money.
 

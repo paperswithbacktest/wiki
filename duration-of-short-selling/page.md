@@ -30,7 +30,7 @@ Holding a short position for a long time can be risky. If the stock price goes u
 
 When you have a short position, you might decide to close it based on a few key things. One big thing is if the stock price starts going up instead of down. If it goes up a lot, you could lose a lot of money, so you might want to close your short position to stop the losses. Another thing is if your broker wants the shares back that you borrowed to short sell. If they need them back, you have to buy the shares to return them, which means you have to close your short position.
 
-Another factor is if you think the stock has reached its lowest point and might start going up again. If you believe the stock is about to go up, it's a good time to close your short position and take your profits before the price goes up. Also, sometimes news or events can change how you feel about the stock. If something happens that makes you think the stock will do better than you thought, you might decide to close your short position to avoid losing money.
+Another [factor](/wiki/factor-investing) is if you think the stock has reached its lowest point and might start going up again. If you believe the stock is about to go up, it's a good time to close your short position and take your profits before the price goes up. Also, sometimes news or events can change how you feel about the stock. If something happens that makes you think the stock will do better than you thought, you might decide to close your short position to avoid losing money.
 
 ## How does the duration of short selling affect potential profits and losses?
 
@@ -90,7 +90,7 @@ $$
 \text{Profit} = (\text{Sell Price} - \text{Buyback Price}) \times \text{Number of Shares} - \text{Borrowing Costs}
 $$
 
-Short sellers contribute significantly to market liquidity and price discovery. By betting against overvalued stocks, they bring information to the market, challenging inflated prices and helping to correct market inefficiencies. Historically, adept short sellers have been praised for exposing fraudulent practices in companies, exemplified by cases like Enron in the early 2000s where short selling revealed financial discrepancies [1].
+Short sellers contribute significantly to market [liquidity](/wiki/liquidity-risk-premium) and price discovery. By betting against overvalued stocks, they bring information to the market, challenging inflated prices and helping to correct market inefficiencies. Historically, adept short sellers have been praised for exposing fraudulent practices in companies, exemplified by cases like Enron in the early 2000s where short selling revealed financial discrepancies [1].
 
 However, short selling carries inherent risks. The potential for loss is theoretically infinite, as there is no cap on how high a stock's price can rise. If the stock price increases instead of decreasing, short sellers may face substantial financial losses. This risk was vividly illustrated by the GameStop saga in January 2021, where retail investors orchestrated a short squeeze. A short squeeze occurs when a heavily shorted stock's price surges, forcing short sellers to buy back shares at higher prices to cover their positions, further driving up the stock price. This episode demonstrated both the rapid wealth erosion risks for short sellers and the potential for market [volatility](/wiki/volatility-trading-strategies) [2].
 
@@ -113,7 +113,7 @@ Additional reading:
 ### Books and Articles
 
 1. **"Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan**  
-   This book provides a comprehensive overview of developing algorithmic trading strategies using quantitative finance principles. It blends theory with practical applications, making it valuable for both novice and experienced traders.
+   This book provides a comprehensive overview of developing [algorithmic trading](/wiki/algorithmic-trading) strategies using quantitative finance principles. It blends theory with practical applications, making it valuable for both novice and experienced traders.
 
 2. **"Short Selling: Strategies, Risks, and Rewards" by Amit Kumar**  
    This text details various short selling strategies, dissecting their risks and benefits. It includes historical examples that clarify the role of short sellers in the market.
@@ -122,7 +122,7 @@ Additional reading:
    A practical guide for traders interested in quantitative finance, this book covers the nuts and bolts of building algorithmic trading systems.
 
 4. **"Flash Boys: A Wall Street Revolt" by Michael Lewis**  
-   While not a technical guide, this book offers insights into the world of high-frequency trading (HFT) and the impacts of algorithmic trading on markets. It is a narrative account that provides a broader perspective on trading ethics and technological influence.
+   While not a technical guide, this book offers insights into the world of high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) and the impacts of algorithmic trading on markets. It is a narrative account that provides a broader perspective on trading ethics and technological influence.
 
 ### Institutional Publications and Papers
 

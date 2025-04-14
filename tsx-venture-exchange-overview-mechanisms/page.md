@@ -80,23 +80,23 @@ Another example is Shopify. It began on the TSX Venture Exchange in 2007 as a sm
 
 ## What advanced trading strategies can be employed on the TSX Venture Exchange?
 
-On the TSX Venture Exchange, one advanced trading strategy is called momentum trading. This is when traders look for stocks that are going up quickly and try to buy them before they go up even more. They hope to sell the stocks later for a profit. Momentum traders use tools like charts and graphs to see which stocks are moving fast. They need to be quick and know when to buy and sell to make money with this strategy.
+On the TSX Venture Exchange, one advanced trading strategy is called [momentum](/wiki/momentum) trading. This is when traders look for stocks that are going up quickly and try to buy them before they go up even more. They hope to sell the stocks later for a profit. Momentum traders use tools like charts and graphs to see which stocks are moving fast. They need to be quick and know when to buy and sell to make money with this strategy.
 
 Another strategy is called value investing. This is when investors look for companies that they think are worth more than their current stock price. They buy these stocks hoping that other people will see the value too and the price will go up. Value investors look at a company's financial reports and business plans to decide if it's a good buy. This strategy takes patience because it can take a long time for the stock price to go up, but it can be rewarding if the investor picks the right companies.
 
 ## What is the Real-World Impact and what are the Case Studies?
 
-The TSX Venture Exchange (TSXV) serves as a dynamic platform for small-cap investments, offering significant opportunities for growth. Algorithmic trading, with its ability to analyze vast amounts of data quickly and execute trades with precision, has increasingly become a tool of choice for navigating the complexities of the TSXV. This section explores real-world case studies where algorithmic trading has facilitated successful small-cap investments, analyzing historical data and offering expert insights.
+The TSX Venture Exchange (TSXV) serves as a dynamic platform for small-cap investments, offering significant opportunities for growth. Algorithmic trading, with its ability to analyze vast amounts of data quickly and execute trades with precision, has increasingly become a tool of choice for navigating the complexities of the TSXV. This section explores real-world case studies where [algorithmic trading](/wiki/algorithmic-trading) has facilitated successful small-cap investments, analyzing historical data and offering expert insights.
 
 ### Case Studies of Success
 
 **Case Study 1: Mining Sector Breakthrough**
 
-One notable example involves a junior mining company listed on the TSXV, which saw substantial growth facilitated by algorithmic trading strategies. By leveraging momentum-based algorithms, investors were able to capitalize on timely data releases regarding resource discoveries. These algorithms continuously scanned news releases and geospatial data, providing buy signals when significant mineral findings were announced. As a result, investors experienced significant returns during the volatility peaks commonly associated with the mining sector[^1^].
+One notable example involves a junior mining company listed on the TSXV, which saw substantial growth facilitated by algorithmic trading strategies. By leveraging momentum-based algorithms, investors were able to capitalize on timely data releases regarding resource discoveries. These algorithms continuously scanned news releases and geospatial data, providing buy signals when significant mineral findings were announced. As a result, investors experienced significant returns during the [volatility](/wiki/volatility-trading-strategies) peaks commonly associated with the mining sector[^1^].
 
 **Case Study 2: Technology Start-Up Boom**
 
-A technology start-up focused on renewable energy solutions achieved exponential growth, largely impacted by algorithmic trading on the TSXV. Traders deployed machine learning models to predict future stock prices based on historical trading volumes and market sentiment analysis. These models were trained to identify patterns and trends indicating a bullish market move. The increased trading efficiency and precision offered by these algorithms enabled investors to enter and [exit](/wiki/exit-strategy) positions at optimal times, thus maximizing their returns[^2^].
+A technology start-up focused on renewable energy solutions achieved exponential growth, largely impacted by algorithmic trading on the TSXV. Traders deployed [machine learning](/wiki/machine-learning) models to predict future stock prices based on historical trading volumes and market sentiment analysis. These models were trained to identify patterns and trends indicating a bullish market move. The increased trading efficiency and precision offered by these algorithms enabled investors to enter and [exit](/wiki/exit-strategy) positions at optimal times, thus maximizing their returns[^2^].
 
 ### Historical Data Analysis
 

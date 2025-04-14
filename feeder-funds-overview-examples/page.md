@@ -52,7 +52,7 @@ The fund-of-funds structure is another way to set up a feeder fund. In this setu
 
 ## Can you provide examples of successful feeder funds?
 
-One example of a successful feeder fund is the Renaissance Technologies' Medallion Fund feeder. Renaissance Technologies is a famous hedge fund company, and their Medallion Fund is known for its great performance. The feeder fund for the Medallion Fund lets smaller investors get a piece of the action. Even though the Medallion Fund itself is only open to a few big investors, the feeder fund makes it possible for more people to benefit from the fund's successful trading strategies.
+One example of a successful feeder fund is the Renaissance Technologies' Medallion Fund feeder. Renaissance Technologies is a famous [hedge fund](/wiki/hedge-fund-trading-strategies) company, and their Medallion Fund is known for its great performance. The feeder fund for the Medallion Fund lets smaller investors get a piece of the action. Even though the Medallion Fund itself is only open to a few big investors, the feeder fund makes it possible for more people to benefit from the fund's successful trading strategies.
 
 Another example is the Blackstone Group's feeder funds. Blackstone is a big private equity firm, and they use feeder funds to help more people invest in their private equity deals. By pooling money from smaller investors, Blackstone's feeder funds allow these investors to join in on big investment opportunities that they couldn't afford on their own. This has helped many investors make money from Blackstone's successful investments in different companies and industries.
 

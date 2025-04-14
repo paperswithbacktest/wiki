@@ -28,7 +28,7 @@ On the other hand, if prices don't stay high for very long, it can help keep inf
 
 ## What are the main factors contributing to price persistence?
 
-One main factor that contributes to price persistence is how people expect prices to behave. If people think that prices will keep going up, they might accept higher prices without complaining too much. This can make businesses feel okay about keeping their prices high, which makes price persistence stronger. On the other hand, if people expect prices to go back to normal soon, they might push back against high prices, which can make businesses lower their prices again.
+One main [factor](/wiki/factor-investing) that contributes to price persistence is how people expect prices to behave. If people think that prices will keep going up, they might accept higher prices without complaining too much. This can make businesses feel okay about keeping their prices high, which makes price persistence stronger. On the other hand, if people expect prices to go back to normal soon, they might push back against high prices, which can make businesses lower their prices again.
 
 Another factor is how much competition there is in the market. In a market with lots of competition, businesses might not be able to keep their prices high for very long because other businesses will offer lower prices to attract customers. But in a market with less competition, businesses can keep their prices high without worrying about losing too many customers, which leads to higher price persistence.
 

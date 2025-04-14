@@ -94,7 +94,7 @@ $$
 
 Indirect costs refer to expenses that are not directly associated with the core trading activities but are necessary for the operation of the trading firm. These may include data feed costs, IT infrastructure, regulatory compliance, and administrative salaries. 
 
-The allocation measure serves as the basis for distributing these indirect costs across different trading activities. In the context of algorithmic trading, this can vary significantly and is often selected based on the trading environment and the firm's specific needs. Common allocation measures include:
+The allocation measure serves as the basis for distributing these indirect costs across different trading activities. In the context of [algorithmic trading](/wiki/algorithmic-trading), this can vary significantly and is often selected based on the trading environment and the firm's specific needs. Common allocation measures include:
 
 - **Trading Volume**: This involves dividing the total indirect costs by the number of trades executed over a given period. It is useful for firms that want to understand the cost impact relative to market activity.
 

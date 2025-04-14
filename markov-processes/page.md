@@ -120,7 +120,7 @@ In summary, Markov Processes offer a potent framework for modeling systems gover
 
 ## What are Mathematical Models in Trading?
 
-Mathematical models play an essential role in developing algorithmic trading strategies by providing a structured framework for analyzing and predicting market behavior. These models leverage mathematical techniques to simulate and anticipate price movements, aiding traders in making informed decisions. Markov Processes, renowned for their versatility and robustness, are particularly significant in this context. They serve as a foundation for constructing predictive models capable of capturing the stochastic nature of financial markets.
+Mathematical models play an essential role in developing [algorithmic trading](/wiki/algorithmic-trading) strategies by providing a structured framework for analyzing and predicting market behavior. These models leverage mathematical techniques to simulate and anticipate price movements, aiding traders in making informed decisions. Markov Processes, renowned for their versatility and robustness, are particularly significant in this context. They serve as a foundation for constructing predictive models capable of capturing the stochastic nature of financial markets.
 
 Markov Processes are applied in trading algorithms primarily through their ability to model random processes that depend solely on the present state, not on the sequence of events that preceded it. This property, known as the Markov property, allows traders to focus on current market conditions to anticipate future movements, simplifying the complexity involved in decision-making processes. 
 

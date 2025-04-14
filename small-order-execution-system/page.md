@@ -18,7 +18,7 @@ SOES works by matching buy and sell orders automatically. When a small investor 
 
 A Small Order Execution System, or SOES, is a computer system that helps small investors buy and sell stocks quickly. It works by automatically matching buy and sell orders. When a small investor wants to buy or sell a stock, they enter their order into the SOES. The system then looks for the best available price from other investors or market makers who are willing to trade at that price. This means that small orders can be filled almost instantly, which is great for traders who want to act fast in the market.
 
-SOES was especially useful in the 1990s when day trading became popular. It gave small investors a way to compete with bigger traders by getting their orders filled quickly. However, SOES is not used as much today because new technology and trading platforms offer similar services. These modern platforms have made it easier for everyone to trade stocks quickly, so the need for a special system like SOES has decreased.
+SOES was especially useful in the 1990s when [day trading](/wiki/day-trading-spy) became popular. It gave small investors a way to compete with bigger traders by getting their orders filled quickly. However, SOES is not used as much today because new technology and trading platforms offer similar services. These modern platforms have made it easier for everyone to trade stocks quickly, so the need for a special system like SOES has decreased.
 
 ## What are the benefits of using a Small Order Execution System for individual investors?
 
@@ -60,7 +60,7 @@ Today, SOES is not used as much because electronic trading platforms have taken 
 
 Traders who use the Small Order Execution System, or SOES, often use a strategy called "SOES Bandits." This strategy involves quickly buying and selling stocks to make money from small price changes. They look for stocks that are moving a lot and use SOES to get their orders filled fast. Because SOES is so quick, these traders can take advantage of price differences between what buyers are willing to pay and what sellers are asking for.
 
-Another strategy is "momentum trading." Traders watch for stocks that are going up or down quickly and use SOES to jump in and out of these trades. They buy when the price is going up and sell when it starts to go down, hoping to make money from the movement. SOES helps them do this fast, which is important because momentum trading is all about timing.
+Another strategy is "[momentum](/wiki/momentum) trading." Traders watch for stocks that are going up or down quickly and use SOES to jump in and out of these trades. They buy when the price is going up and sell when it starts to go down, hoping to make money from the movement. SOES helps them do this fast, which is important because momentum trading is all about timing.
 
 ## How do regulatory bodies oversee the use of Small Order Execution Systems?
 

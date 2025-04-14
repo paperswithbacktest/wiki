@@ -112,7 +112,7 @@ $$
 \text{HHI} = 70^2 + (10^2 + 10^2 + 10^2) = 4900 + 300 = 5200
 $$
 
-This high HHI suggests a concentrated market, representing elevated risks for traders due to potential volatility and pricing power held by the dominant firm. In concentrated markets, significant price movements and strategic shifts by the leading company can severely impact competitors and influence market dynamics.
+This high HHI suggests a concentrated market, representing elevated risks for traders due to potential [volatility](/wiki/volatility-trading-strategies) and pricing power held by the dominant firm. In concentrated markets, significant price movements and strategic shifts by the leading company can severely impact competitors and influence market dynamics.
 
 In contrast, considering a market where firms have evenly distributed market shares, such as five firms each holding 20%, the HHI calculation would be:
 

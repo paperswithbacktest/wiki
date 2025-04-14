@@ -54,7 +54,7 @@ When you start with a robo-advisor, you answer questions about your money goals 
 
 ## How can millennials start investing with a robo-advisor?
 
-Millennials can start investing with a robo-advisor by first picking a robo-advisor that fits their needs. There are many robo-advisors out there, so it's good to look at what each one offers and how much they charge. Once they choose one, they need to sign up on the robo-advisor's website or app. They'll need to answer some questions about their money goals, how long they want to invest, and how much risk they're okay with. This helps the robo-advisor pick the right investment plan for them.
+Millennials can start investing with a robo-advisor by first [picking](/wiki/asset-class-picking) a robo-advisor that fits their needs. There are many robo-advisors out there, so it's good to look at what each one offers and how much they charge. Once they choose one, they need to sign up on the robo-advisor's website or app. They'll need to answer some questions about their money goals, how long they want to invest, and how much risk they're okay with. This helps the robo-advisor pick the right investment plan for them.
 
 After signing up and answering the questions, the robo-advisor will create an investment portfolio. This portfolio will be a mix of different investments like stocks and bonds, chosen to match the millennial's goals and risk level. They can then add money to their account to start investing. The robo-advisor will manage the investments automatically, making changes when needed to keep things on track. This way, millennials can start investing easily and without needing to know a lot about the stock market.
 

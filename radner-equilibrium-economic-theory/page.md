@@ -18,7 +18,7 @@ In simpler terms, think of it like planning a picnic. You want to buy food and d
 
 Roy Radner is an economist who was born in 1927. He came up with a special way to understand how people make choices when they don't know everything about the future. This idea is called Radner Equilibrium, named after him because he was the one who first thought of it and wrote about it. Radner worked at places like the University of California, Berkeley, and New York University, and he's known for his work in economics, especially in how uncertainty affects decisions.
 
-The equilibrium is named after Roy Radner because his work helped economists understand how markets can still work well even when people are unsure about what will happen next. Before Radner, economists mostly looked at situations where everyone knew everything. But Radner showed that even with uncertainty, people can still make choices that balance out in the market. His ideas have been important for understanding how real-world markets function, where uncertainty is always a factor.
+The equilibrium is named after Roy Radner because his work helped economists understand how markets can still work well even when people are unsure about what will happen next. Before Radner, economists mostly looked at situations where everyone knew everything. But Radner showed that even with uncertainty, people can still make choices that balance out in the market. His ideas have been important for understanding how real-world markets function, where uncertainty is always a [factor](/wiki/factor-investing).
 
 ## How does Radner Equilibrium differ from other types of economic equilibria?
 

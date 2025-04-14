@@ -22,7 +22,7 @@ Another reason to think about luxury real estate is that it can give you a stead
 
 ## What are the key factors to consider when choosing a luxury property for investment?
 
-When picking a luxury property to invest in, one of the first things to think about is where it is located. A good spot can make a big difference. You want to choose a place that's in a popular area where lots of people want to live or visit. This could be near the beach, in a fancy city neighborhood, or close to good schools and shops. The location can affect how much the property is worth and how easy it will be to rent or sell it later.
+When [picking](/wiki/asset-class-picking) a luxury property to invest in, one of the first things to think about is where it is located. A good spot can make a big difference. You want to choose a place that's in a popular area where lots of people want to live or visit. This could be near the beach, in a fancy city neighborhood, or close to good schools and shops. The location can affect how much the property is worth and how easy it will be to rent or sell it later.
 
 Another important thing to consider is what the property offers. Luxury homes often come with special features like big rooms, fancy kitchens, and cool things like pools or home theaters. Make sure the property has things that people who can afford luxury will want. Also, think about how well it's built and if it needs any repairs. A property that's in good shape will be easier to rent out and might be worth more money in the future.
 

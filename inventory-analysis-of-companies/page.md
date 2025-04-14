@@ -204,5 +204,5 @@ Overall, inventory ratios are indispensable in sculpting financial and strategic
    - Python's Pandas library is adept at handling time-series data, which is crucial for analyzing financial and inventory datasets.
    - QuantLib (https://www.quantlib.org/) is an open-source library widely used for quantitative finance in Python and C++, useful for building models in algo trading.
 
-Consider exploring these resources to gain a deeper understanding of how inventory management and financial analysis empower algorithmic trading strategies, enhancing decision-making and predictive capabilities.
+Consider exploring these resources to gain a deeper understanding of how inventory management and financial analysis empower [algorithmic trading](/wiki/algorithmic-trading) strategies, enhancing decision-making and predictive capabilities.
 

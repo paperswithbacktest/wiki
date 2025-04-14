@@ -34,7 +34,7 @@ On the other hand, the IRR is a specific percentage that represents the rate at 
 
 ## How do you calculate the hurdle rate?
 
-Calculating the hurdle rate involves figuring out the minimum return an investment needs to make to be worth it. Companies often start by looking at their cost of capital, which is the cost of the money they use to fund projects. This can include the interest rate on loans or the expected return for shareholders. They might also add a risk premium, which is extra return they want because the project could fail or not go as planned. So, the hurdle rate is usually the cost of capital plus the risk premium.
+Calculating the hurdle rate involves figuring out the minimum return an investment needs to make to be worth it. Companies often start by looking at their cost of capital, which is the cost of the money they use to fund projects. This can include the [interest rate](/wiki/interest-rate-trading-strategies) on loans or the expected return for shareholders. They might also add a risk premium, which is extra return they want because the project could fail or not go as planned. So, the hurdle rate is usually the cost of capital plus the risk premium.
 
 To set a specific number, a company might look at how much they need to cover their costs and still make a profit. They might also consider what other similar companies are using as their hurdle rate. It's not a one-size-fits-all number; it can change based on the industry, the economy, and the specific project. The goal is to set a hurdle rate that is high enough to make sure the project will be worth the time and money but not so high that good projects get passed over.
 

@@ -18,7 +18,7 @@ Day trading is different from other trading styles like swing trading and long-t
 
 Price action is all about watching and understanding how the price of a stock or other thing you can trade moves over time. It's like looking at a chart and seeing the ups and downs without using other tools or indicators. Day traders use price action to make decisions on when to buy or sell. They look at patterns like how the price goes up and down, where it finds support or resistance, and how it reacts to certain levels.
 
-Price action is important in day trading because it helps traders see what's really happening in the market right now. It can show them where other traders might be buying or selling, which can help them make better choices. By understanding price action, day traders can spot good times to enter or exit trades, and they can do this quickly, which is really important in day trading where things can change fast.
+Price action is important in [day trading](/wiki/day-trading-spy) because it helps traders see what's really happening in the market right now. It can show them where other traders might be buying or selling, which can help them make better choices. By understanding price action, day traders can spot good times to enter or [exit](/wiki/exit-strategy) trades, and they can do this quickly, which is really important in day trading where things can change fast.
 
 ## How can a beginner identify key price action patterns?
 
@@ -28,11 +28,11 @@ Once you know about these basic patterns, you can start looking for more specifi
 
 ## What are the most common price action strategies used in day trading?
 
-One of the most common price action strategies used in day trading is the breakout strategy. This involves watching for the price to move out of a certain range, like when it goes above a resistance level or below a support level. Day traders using this strategy will buy when the price breaks above resistance, hoping it will keep going up, or sell when it breaks below support, hoping it will keep going down. They need to be quick because these moves can happen fast, and they often set a stop-loss order to limit their risk if the price moves against them.
+One of the most common price action strategies used in day trading is the [breakout](/wiki/breakout-trading) strategy. This involves watching for the price to move out of a certain range, like when it goes above a resistance level or below a support level. Day traders using this strategy will buy when the price breaks above resistance, hoping it will keep going up, or sell when it breaks below support, hoping it will keep going down. They need to be quick because these moves can happen fast, and they often set a stop-loss order to limit their risk if the price moves against them.
 
 Another popular strategy is trading reversals. This means looking for signs that the current trend might be ending and the price might start moving the other way. Day traders might look for patterns like pin bars or doji candles that can show the market is turning around. If they see these signs after a big move up, they might sell or even go short, expecting the price to go down. If they see them after a big move down, they might buy, expecting the price to go back up. This strategy needs a good understanding of how to read price action and can be tricky because it's hard to know for sure when a trend will really reverse.
 
-A third strategy is scalping, which is all about making small profits from tiny price movements. Day traders who scalp will make a lot of trades in a day, trying to catch these little moves. They need to be very quick and use tight stop-losses to keep their risk small. This strategy works well in markets that are moving a lot because there are more chances to make these small profits. But it can be stressful because it needs a lot of focus and fast decisions.
+A third strategy is [scalping](/wiki/gamma-scalping), which is all about making small profits from tiny price movements. Day traders who scalp will make a lot of trades in a day, trying to catch these little moves. They need to be very quick and use tight stop-losses to keep their risk small. This strategy works well in markets that are moving a lot because there are more chances to make these small profits. But it can be stressful because it needs a lot of focus and fast decisions.
 
 ## How do support and resistance levels influence price action strategies?
 
@@ -48,7 +48,7 @@ Different candlestick patterns can help traders make decisions. A 'pin bar' has 
 
 ## How can traders use volume to confirm price action signals?
 
-Traders can use volume to confirm price action signals by watching how much trading is happening when certain patterns show up on the chart. If a price action signal like a breakout or a reversal happens with a lot of volume, it means more people are buying or selling, which makes the signal stronger. For example, if the price breaks above a resistance level and the volume is high, it suggests that many traders believe the price will keep going up, making it a good time to buy.
+Traders can use [volume](/wiki/volume-trading-strategy) to confirm price action signals by watching how much trading is happening when certain patterns show up on the chart. If a price action signal like a breakout or a reversal happens with a lot of volume, it means more people are buying or selling, which makes the signal stronger. For example, if the price breaks above a resistance level and the volume is high, it suggests that many traders believe the price will keep going up, making it a good time to buy.
 
 On the other hand, if a price action signal happens with low volume, it might not be as reliable. Low volume can mean that not many people are interested in the move, and it might not last long. So, traders often wait for high volume to confirm their decisions. By looking at both the price action and the volume, traders can make better choices and feel more confident in their trades.
 

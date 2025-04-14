@@ -28,7 +28,7 @@ Another concept is 'going long' or 'going short'. 'Going long' means you bet tha
 
 ## How can a beginner start spread betting safely?
 
-If you're new to spread betting, it's important to start safely. First, learn as much as you can about spread betting. Read about the terms and how it works. There are lots of websites and books that can help you understand. Next, try out a practice account. Many betting companies let you practice with fake money so you can see how it works without risking real money. This is a good way to get used to the process and see if you like it.
+If you're new to spread betting, it's important to start safely. First, learn as much as you can about spread betting. Read about the terms and how it works. There are lots of websites and [books](/wiki/algo-trading-books) that can help you understand. Next, try out a practice account. Many betting companies let you practice with fake money so you can see how it works without risking real money. This is a good way to get used to the process and see if you like it.
 
 Once you feel ready, start with a small amount of money that you can afford to lose. Remember, spread betting can be risky, so don't bet money you need for other things. Choose a reliable betting company that is regulated by a financial authority. This helps keep your money safe. As you bet, use tools like 'stop loss' to limit how much you can lose on each bet. And always keep learning and watching the markets to make better bets.
 
@@ -58,13 +58,13 @@ Another way technical analysis can help is by showing you where to set your stop
 
 ## What are some advanced spread betting strategies for experienced traders?
 
-One advanced spread betting strategy for experienced traders is called 'scalping'. This involves making lots of small bets throughout the day to take advantage of tiny price movements. Scalpers need to watch the market closely and act quickly. They often use technical analysis to find the best times to bet. This strategy can be profitable, but it's also risky because it takes a lot of focus and quick decision-making. Experienced traders who use scalping need to be good at managing their risks and keeping their emotions in check.
+One advanced spread betting strategy for experienced traders is called '[scalping](/wiki/gamma-scalping)'. This involves making lots of small bets throughout the day to take advantage of tiny price movements. Scalpers need to watch the market closely and act quickly. They often use technical analysis to find the best times to bet. This strategy can be profitable, but it's also risky because it takes a lot of focus and quick decision-making. Experienced traders who use scalping need to be good at managing their risks and keeping their emotions in check.
 
 Another strategy is 'hedging'. This means making bets that protect you from losing money if the market moves against you. For example, if you have a long-term bet that a stock will go up, you might also make a short-term bet that it will go down. If the stock price does drop, your short-term bet can help cover your losses from the long-term bet. Hedging can help reduce risk, but it also means you might not make as much money if your main bet is right. Experienced traders use hedging to balance their potential wins and losses and keep their money safe.
 
 ## How does market volatility affect spread betting strategies?
 
-Market volatility means how much prices go up and down. When the market is very volatile, prices can change a lot in a short time. This can be good for spread betting because you can make more money if you guess right. But it's also riskier because if you guess wrong, you can lose more money too. So, when the market is volatile, you need to be careful and use tools like stop losses to protect your money. You might also want to make smaller bets so you don't lose too much if things go the wrong way.
+Market [volatility](/wiki/volatility-trading-strategies) means how much prices go up and down. When the market is very volatile, prices can change a lot in a short time. This can be good for spread betting because you can make more money if you guess right. But it's also riskier because if you guess wrong, you can lose more money too. So, when the market is volatile, you need to be careful and use tools like stop losses to protect your money. You might also want to make smaller bets so you don't lose too much if things go the wrong way.
 
 In a volatile market, some people like to use short-term strategies like scalping. They make lots of small bets to take advantage of the big price swings. But this needs a lot of focus and quick thinking. Other people might use long-term strategies and wait for the market to calm down. They bet on bigger trends and use hedging to protect their bets. No matter what strategy you use, it's important to watch the market closely and be ready to change your plans if things get too wild.
 

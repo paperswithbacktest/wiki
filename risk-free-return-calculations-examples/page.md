@@ -36,7 +36,7 @@ While these investments are called risk-free, it's important to remember that no
 
 ## How can you calculate the risk-free return on an investment?
 
-To calculate the risk-free return on an investment, you need to look at the interest rate or yield of a very safe investment, like U.S. Treasury securities. For example, if you buy a 3-month Treasury bill with a face value of $1,000 and it has a yield of 2%, at the end of 3 months, you will get back your $1,000 plus an extra $20. The $20 is the risk-free return, and you can calculate it by multiplying the face value by the yield (in decimal form): $1,000 x 0.02 = $20.
+To calculate the risk-free return on an investment, you need to look at the [interest rate](/wiki/interest-rate-trading-strategies) or yield of a very safe investment, like U.S. Treasury securities. For example, if you buy a 3-month Treasury bill with a face value of $1,000 and it has a yield of 2%, at the end of 3 months, you will get back your $1,000 plus an extra $20. The $20 is the risk-free return, and you can calculate it by multiplying the face value by the yield (in decimal form): $1,000 x 0.02 = $20.
 
 This calculation helps you see how much money you can earn without taking any risks. If you want to figure out the annual risk-free return, you can use the yield of a longer-term Treasury security, like a 10-year Treasury note. If the yield on a 10-year note is 3%, and you invest $1,000, you would earn $30 each year for 10 years. Again, you find this by multiplying the investment amount by the yield: $1,000 x 0.03 = $30. This gives you a clear picture of what you can expect to earn from the safest investments available.
 

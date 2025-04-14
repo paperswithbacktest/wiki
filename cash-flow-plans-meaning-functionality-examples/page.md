@@ -144,13 +144,13 @@ In conclusion, financial analysis, underscored by meticulous cash flow analysis,
    This book provides foundational knowledge on corporate finance, including cash flow analysis and its critical role in business finance. It explores diverse financial strategies and tools essential for effective financial management.
 
 2. **"Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies" by Barry Johnson**  
-   Focusing on algorithmic trading, this book combines practical strategies with theoretical underpinnings. It covers the use of technology and algorithms to enhance trading efficiency, providing insights into developing robust trading systems.
+   Focusing on [algorithmic trading](/wiki/algorithmic-trading), this book combines practical strategies with theoretical underpinnings. It covers the use of technology and algorithms to enhance trading efficiency, providing insights into developing robust trading systems.
 
 3. **"Python for Finance: Analyze Big Financial Data" by Yves Hilpisch**  
    Yves Hilpisch introduces the application of Python in finance, detailing how libraries like Pandas and NumPy assist in developing algorithmic strategies. This book is valuable for understanding data-driven financial analysis.
 
 4. **"Machine Learning for Asset Managers" by Marcos López de Prado**  
-   Explores how machine learning techniques contribute to financial decision-making and strategy development. It covers practical examples and methodologies for integrating AI in financial operations and trading.
+   Explores how [machine learning](/wiki/machine-learning) techniques contribute to financial decision-making and strategy development. It covers practical examples and methodologies for integrating AI in financial operations and trading.
 
 5. **Case Study: "The Impact of Algorithmic Trading on Liquidity" by Albert J. Menkveld**  
    This academic article evaluates how algorithmic trading affects market liquidity, providing empirical evidence and analysis on its real-world implications. It is essential for those interested in the practical impacts of algorithmic strategies.

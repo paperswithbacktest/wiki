@@ -18,7 +18,7 @@ There are different types of bonds, like government bonds, which are issued by g
 
 ## What is a bond discount?
 
-A bond discount happens when a bond is sold for less than its face value. The face value is the amount the bond will be worth when it matures, or when the loan is due to be paid back. For example, if a bond has a face value of $1,000 but is sold for $950, it is sold at a discount. The reason a bond might be sold at a discount is because it offers a lower interest rate than what investors can get from other investments at that time. Investors are willing to pay less for the bond because the interest they will earn from it is not as good as what they could get elsewhere.
+A bond discount happens when a bond is sold for less than its face value. The face value is the amount the bond will be worth when it matures, or when the loan is due to be paid back. For example, if a bond has a face value of $1,000 but is sold for $950, it is sold at a discount. The reason a bond might be sold at a discount is because it offers a lower [interest rate](/wiki/interest-rate-trading-strategies) than what investors can get from other investments at that time. Investors are willing to pay less for the bond because the interest they will earn from it is not as good as what they could get elsewhere.
 
 When a bond is bought at a discount, the investor can make money in two ways. First, they still get the interest payments that the bond promises, even though they paid less for it. Second, when the bond matures, they get the full face value. So, if they bought a $1,000 bond for $950, they would get $1,000 back at maturity, making a $50 profit on top of the interest they earned. This extra profit is like getting a bonus for buying the bond at a lower price.
 
@@ -26,7 +26,7 @@ When a bond is bought at a discount, the investor can make money in two ways. Fi
 
 When a bond is unamortized, it means that the discount or premium on the bond hasn't been spread out over the life of the bond yet. A discount happens when a bond is sold for less than its face value, and a premium happens when it's sold for more. Instead of accounting for this difference all at once, it's usually spread out over time. This spreading out is called amortization.
 
-If a bond is unamortized, the full amount of the discount or premium is still on the books and hasn't been slowly reduced through regular accounting entries. This can affect how the bond's value is reported and how much interest income is recognized each year. For example, if a bond was bought at a discount, the unamortized discount would be the amount of the discount that hasn't been accounted for yet as the bond gets closer to its maturity date.
+If a bond is unamortized, the full amount of the discount or premium is still on the [books](/wiki/algo-trading-books) and hasn't been slowly reduced through regular accounting entries. This can affect how the bond's value is reported and how much interest income is recognized each year. For example, if a bond was bought at a discount, the unamortized discount would be the amount of the discount that hasn't been accounted for yet as the bond gets closer to its maturity date.
 
 ## How is an unamortized bond discount calculated?
 

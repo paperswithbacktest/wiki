@@ -18,7 +18,7 @@ These activities are shown in a part of the financial statements called the cash
 
 Operating activities are important for a company's financial health because they show how much money the company is making from its main business. This is the core of what the company does every day, like selling products or providing services. If a company makes more money from these activities than it spends, it's a good sign that the business is doing well. This money can be used to pay bills, buy new things, or save for the future.
 
-If a company is not making enough money from its operating activities, it might have to borrow money or use savings to keep going. This can be risky because it means the company isn't earning enough from what it's supposed to be good at. Over time, this can lead to problems and make it hard for the company to grow or even stay open. So, keeping a close eye on operating activities helps a company know if it's on the right track financially.
+If a company is not making enough money from its operating activities, it might have to borrow money or use savings to keep going. This can be risky because it means the company isn't [earning](/wiki/earning-announcement) enough from what it's supposed to be good at. Over time, this can lead to problems and make it hard for the company to grow or even stay open. So, keeping a close eye on operating activities helps a company know if it's on the right track financially.
 
 ## Can you list some common examples of operating activities?
 
@@ -129,5 +129,5 @@ By analyzing these financial statements, managers and investors gain insights in
 
 8. **Litterman, R., Scheinkman, J., & Weiss, L. (1991).** *Volatility and the Yield Curve.* *Journal of Fixed Income.*, 1(1), 49-64. This paper discusses interest rate models critical for understanding trading dynamics influenced by cash flow trends.
 
-These references offer a robust foundation for comprehending the nuances of algorithmic trading, cash flow analysis, and business operations in the modern financial context.
+These references offer a robust foundation for comprehending the nuances of [algorithmic trading](/wiki/algorithmic-trading), cash flow analysis, and business operations in the modern financial context.
 

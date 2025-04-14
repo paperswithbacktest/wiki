@@ -68,7 +68,7 @@ Also, how well a company uses the money it has can affect ROE. If a company is g
 
 A company can improve its ROE by making more profit without needing more money from shareholders. One way to do this is by cutting costs. If a company can make the same amount of money but spend less to do it, their profit goes up. Another way is to find new ways to make money, like selling new products or going into new markets. If these new things make more money, the company's profit will go up, and so will their ROE.
 
-Using money better can also help. If a company is good at picking projects that make a lot of money, their ROE will be higher. They can also use debt wisely. Borrowing money can help a company grow faster, but it has to be done carefully. If a company can borrow money at a low cost and use it to make more money than it costs, their ROE can go up. But, they have to be able to pay back the debt, or it could hurt them in the long run.
+Using money better can also help. If a company is good at [picking](/wiki/asset-class-picking) projects that make a lot of money, their ROE will be higher. They can also use debt wisely. Borrowing money can help a company grow faster, but it has to be done carefully. If a company can borrow money at a low cost and use it to make more money than it costs, their ROE can go up. But, they have to be able to pay back the debt, or it could hurt them in the long run.
 
 ## What are some advanced techniques for analyzing ROE trends over time?
 

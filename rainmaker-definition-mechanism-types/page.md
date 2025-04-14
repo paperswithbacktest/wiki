@@ -100,7 +100,7 @@ This approach minimizes market impact by spreading trades across time and reflec
 
 5. **Time-Weighted Average Price (TWAP)**: TWAP strategies divide a large order into smaller, equally-sized trades spread over a predetermined time period. Unlike VWAP, which takes into account volume, TWAP focuses solely on time, ensuring that orders are executed at regular intervals. This method can protect the trader from significant price changes by smoothing the execution over time.
 
-By leveraging these diverse rainmaker mechanisms, algorithmic trading systems can enhance efficiency and profitability, making strategic use of market data and technological precision to maximize returns.
+By leveraging these diverse rainmaker mechanisms, [algorithmic trading](/wiki/algorithmic-trading) systems can enhance efficiency and profitability, making strategic use of market data and technological precision to maximize returns.
 
 ## References & Further Reading
 

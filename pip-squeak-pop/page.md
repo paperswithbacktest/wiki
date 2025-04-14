@@ -82,7 +82,7 @@ Another cool hidden feature is that if you hold down on a balloon instead of jus
 
 ## What is Algorithmic Trading and Pip-Squeak Pop?
 
-Algorithmic trading employs computers to execute trades according to predefined criteria. This type of trading is characterized by high speed, volume, and precision, enabling the identification and exploitation of short-term trends, known as "Pip-Squeak Pops," particularly in the volatile world of penny stocks.
+Algorithmic trading employs computers to execute trades according to predefined criteria. This type of trading is characterized by high speed, [volume](/wiki/volume-trading-strategy), and precision, enabling the identification and exploitation of short-term trends, known as "Pip-Squeak Pops," particularly in the volatile world of penny stocks.
 
 Traders develop algorithms to scan a vast array of market data, looking for patterns and anomalies that might signal a potential rapid increase in stock price. These algorithms use historical data analyses, including price, volume, and other relevant factors, to evaluate the probability of significant short-term price movements. For instance, a simple moving average (SMA) might be calculated by:
 

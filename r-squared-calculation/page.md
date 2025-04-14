@@ -18,7 +18,7 @@ R-Squared values range from 0 to 1, where a value closer to 1 indicates a better
 
 R-Squared is important in statistics because it helps us understand how well our model explains the data. Imagine you're trying to predict something, like how much a house will sell for. You use different pieces of information, like the house's size and location, to make your prediction. R-Squared tells you how much of the difference in house prices can be explained by the information you used. If R-Squared is high, it means your model is doing a good job of explaining the prices.
 
-However, R-Squared isn't perfect. Just because it's high doesn't mean your model is the best one. Sometimes, a simpler model with a lower R-Squared might be better if it's easier to understand and use. Also, R-Squared can be misleading if you have too many pieces of information in your model. It's important to look at other things, like whether your model makes sense and if it follows the rules of statistics, to make sure you're using the right model.
+However, R-Squared isn't perfect. Just because it's high doesn't mean your model is the best one. Sometimes, a simpler model with a lower R-Squared might be better if it's easier to understand and use. Also, R-Squared can be misleading if you have too many pieces of information in your model. It's important to look at other things, like whether your model makes sense and if it follows the rules of [statistics](/wiki/bayesian-statistics), to make sure you're using the right model.
 
 ## How is R-Squared calculated?
 

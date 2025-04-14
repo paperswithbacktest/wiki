@@ -76,7 +76,7 @@ Another limitation is that these funds might not be as flexible as other investm
 
 ## What are the future trends and innovations in Capital Guarantee Funds?
 
-In the future, Capital Guarantee Funds might see new ways to keep your money safe while trying to make more money. One trend could be using new technology like artificial intelligence to pick the best investments. This could help the funds do better without taking more risks. Another trend might be new types of financial tools that help protect your money in different ways. These tools could be cheaper or work better than the ones used now, which could make the funds more appealing to more people.
+In the future, Capital Guarantee Funds might see new ways to keep your money safe while trying to make more money. One trend could be using new technology like [artificial intelligence](/wiki/ai-artificial-intelligence) to pick the best investments. This could help the funds do better without taking more risks. Another trend might be new types of financial tools that help protect your money in different ways. These tools could be cheaper or work better than the ones used now, which could make the funds more appealing to more people.
 
 Another change might be in how these funds are set up. Instead of just promising to return your original investment, some funds might offer different levels of protection. For example, you could choose a fund that promises to return 90% of your money instead of 100%, but it might charge lower fees or try to make more money. This could let you decide how much safety you want and how much risk you're willing to take. As people learn more about investing and want more choices, Capital Guarantee Funds might need to change to meet these new needs.
 
@@ -130,7 +130,7 @@ At its core, [algorithmic trading](/wiki/algorithmic-trading) relies on a set of
 
 The development of algorithmic trading can be traced back to the late 20th century, a period when technological advancements began to revolutionize financial markets. High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), a subset of algorithmic trading, emerged around this time, characterized by extremely high-speed trade execution. Algorithms in HFT make decisions in microseconds, enabling traders to profit from price discrepancies across markets.
 
-The impact of algorithmic trading on modern market strategies is profound. It has increased market liquidity, narrowed bid-ask spreads, and enabled the execution of large orders without significantly impacting market prices. Moreover, it allows traders to implement complex strategies that account for multiple variables simultaneously.
+The impact of algorithmic trading on modern market strategies is profound. It has increased market [liquidity](/wiki/liquidity-risk-premium), narrowed bid-ask spreads, and enabled the execution of large orders without significantly impacting market prices. Moreover, it allows traders to implement complex strategies that account for multiple variables simultaneously.
 
 Several types of algorithms are commonly employed in trading:
 1. **Trend-following algorithms**: These algorithms identify and exploit trends in the market, buying securities in an uptrend and selling in a downtrend. They use technical indicators such as moving averages to signal trades.

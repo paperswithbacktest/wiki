@@ -150,7 +150,7 @@ By accurately extracting and calculating FCF using these methods in Excel, inves
 
 ## What is the conclusion?
 
-Free cash flow (FCF) stands as a robust indicator, offering insight into a company's financial wellness and operational efficiency. Its calculation and analysis present distinct advantages, guiding better financial analysis and informed trading strategies. Mastering FCF is paramount for investors and financial analysts alike, as it provides clarity that transcends traditional metrics such as net income or earnings reports. Unlike earnings, which can be influenced by accounting policies, FCF delivers a more accurate depiction of a company's liquidity by focusing on actual cash activities.
+Free cash flow (FCF) stands as a robust indicator, offering insight into a company's financial wellness and operational efficiency. Its calculation and analysis present distinct advantages, guiding better financial analysis and informed trading strategies. Mastering FCF is paramount for investors and financial analysts alike, as it provides clarity that transcends traditional metrics such as net income or earnings reports. Unlike earnings, which can be influenced by accounting policies, FCF delivers a more accurate depiction of a company's [liquidity](/wiki/liquidity-risk-premium) by focusing on actual cash activities.
 
 Calculating FCF involves understanding and employing financial data effectively. For instance, FCF is commonly determined through the formula: 
 

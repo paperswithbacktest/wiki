@@ -32,7 +32,7 @@ For example, let's say a company called TechCo has been trading between $50 and 
 
 A runaway gap, sometimes called a continuation gap, happens in the middle of a strong trend. It's different from other gaps because it shows that the stock is still moving in the same direction and the trend is likely to keep going. For example, if a stock has been going up for a while and then suddenly jumps higher, that's a runaway gap. It means the stock is still popular and people want to keep buying it.
 
-Unlike a breakaway gap, which starts a new trend, or an exhaustion gap, which ends a trend, a runaway gap is all about continuing what's already happening. It's like the stock is running away from its old price and keeping up the momentum. If you see a runaway gap, it might be a good sign to keep holding onto the stock if you already own it, because the trend is likely to continue for a bit longer.
+Unlike a breakaway gap, which starts a new trend, or an exhaustion gap, which ends a trend, a runaway gap is all about continuing what's already happening. It's like the stock is running away from its old price and keeping up the [momentum](/wiki/momentum). If you see a runaway gap, it might be a good sign to keep holding onto the stock if you already own it, because the trend is likely to continue for a bit longer.
 
 ## What is an 'exhaustion gap' and how can it be identified?
 
@@ -54,7 +54,7 @@ Understanding the different types of gaps can help traders make better choices. 
 
 ## What technical indicators should be used to analyze stock gaps?
 
-To analyze stock gaps, traders often use a few key technical indicators. One important indicator is volume. When a gap happens, traders look at the trading volume to see if it's higher than usual. If the volume is high, it means more people are trading the stock, which can make the gap more important. Another useful indicator is the moving average. Traders compare the stock's price to its moving average to see if the gap is part of a bigger trend. If the price is above the moving average after a gap, it might mean the stock will keep going up.
+To analyze stock gaps, traders often use a few key technical indicators. One important indicator is [volume](/wiki/volume-trading-strategy). When a gap happens, traders look at the trading volume to see if it's higher than usual. If the volume is high, it means more people are trading the stock, which can make the gap more important. Another useful indicator is the moving average. Traders compare the stock's price to its moving average to see if the gap is part of a bigger trend. If the price is above the moving average after a gap, it might mean the stock will keep going up.
 
 Another indicator that can help is the Relative Strength Index (RSI). The RSI shows if a stock is overbought or oversold. If a stock has a gap and the RSI is very high, it might mean the stock is overbought and could go down soon. On the other hand, if the RSI is low after a gap, the stock might be oversold and could go up. Lastly, traders sometimes use support and resistance levels. These are price levels where the stock tends to stop going up or down. If a gap takes the stock past a support or resistance level, it can be a sign that the stock's price will keep moving in that direction.
 
@@ -66,7 +66,7 @@ Another way to use historical gap data is to look at how gaps affect the stock's
 
 ## What are the risks associated with trading stock gaps?
 
-Trading stock gaps can be risky because gaps can be unpredictable. When a stock gaps up or down, it might be hard to know if the price will keep moving in that direction or if it will go back to where it was before the gap. If a trader buys a stock after a gap up, thinking the price will keep going up, they might lose money if the price drops instead. This is called a false breakout, where the price looks like it's starting a new trend but then goes back to its old range.
+Trading stock gaps can be risky because gaps can be unpredictable. When a stock gaps up or down, it might be hard to know if the price will keep moving in that direction or if it will go back to where it was before the gap. If a trader buys a stock after a gap up, thinking the price will keep going up, they might lose money if the price drops instead. This is called a false [breakout](/wiki/breakout-trading), where the price looks like it's starting a new trend but then goes back to its old range.
 
 Another risk is that gaps can happen because of news or events that traders might not know about right away. For example, if a company announces bad news after the market closes, the stock might gap down the next day. Traders who didn't see the news might be surprised and lose money if they bought the stock before the gap. Also, gaps can lead to big price swings, which can make trading more stressful and lead to bigger losses if the market moves against the trader's expectations.
 

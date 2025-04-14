@@ -20,7 +20,7 @@ Principal orders and agency orders are two different ways that brokers can handl
 
 On the other hand, an agency order is when the broker acts as a middleman between the client and the market. The broker finds another buyer or seller in the market to complete the transaction, without using their own inventory. This can be more transparent because the broker is not directly involved in the transaction, but it might take longer and could result in different pricing depending on market conditions.
 
-Both types of orders have their advantages and potential drawbacks. With principal orders, there's a risk of conflict of interest because the broker might be motivated to sell their own securities at a higher price. With agency orders, the client might get a better market price, but they could also face delays or less favorable prices depending on market liquidity. It's important for clients to understand these differences and choose the type of order that best fits their needs.
+Both types of orders have their advantages and potential drawbacks. With principal orders, there's a risk of conflict of interest because the broker might be motivated to sell their own securities at a higher price. With agency orders, the client might get a better market price, but they could also face delays or less favorable prices depending on market [liquidity](/wiki/liquidity-risk-premium). It's important for clients to understand these differences and choose the type of order that best fits their needs.
 
 ## What is the basic process of executing a principal order?
 
@@ -68,7 +68,7 @@ On the other hand, principal orders can also help with price discovery in some w
 
 Traders can use principal orders to do something called "inventory management." This means they can buy securities when they think the price is low and keep them in their inventory. Later, when the price goes up, they can sell these securities to their clients using principal orders. This can help traders make more money because they can sell at a higher price than they bought. But, they have to be careful because if the price goes down instead, they might lose money.
 
-Another strategy is called "market making." Traders can use principal orders to act like a middleman in the market. They can buy securities from one client and then sell them to another client using their own inventory. This can help keep the market moving smoothly because they are always ready to buy and sell. It can also help them make money from the difference between the buying and selling prices. But, they need to watch the market closely to make sure they are not stuck with securities they can't sell.
+Another strategy is called "[market making](/wiki/market-making)." Traders can use principal orders to act like a middleman in the market. They can buy securities from one client and then sell them to another client using their own inventory. This can help keep the market moving smoothly because they are always ready to buy and sell. It can also help them make money from the difference between the buying and selling prices. But, they need to watch the market closely to make sure they are not stuck with securities they can't sell.
 
 ## How do principal orders interact with high-frequency trading algorithms?
 
@@ -80,7 +80,7 @@ High-frequency trading algorithms can also use principal orders to help keep the
 
 In the future, we might see more technology being used with principal orders. As computers get better and faster, they can help brokers manage their inventory and make trades more quickly. This could mean that principal orders become even more common in high-frequency trading, where speed is very important. Also, new rules might be made to make sure that brokers are fair when they use principal orders. This could help make the market safer and more honest for everyone.
 
-Another trend could be the use of artificial intelligence (AI) to make better decisions about when to use principal orders. AI can look at a lot of data very quickly and find the best times to buy and sell securities. This could help brokers make more money and give better prices to their clients. But, as AI and technology become more important, it will be important to keep watching to make sure that the market stays fair and that no one is taking advantage of others.
+Another trend could be the use of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) to make better decisions about when to use principal orders. AI can look at a lot of data very quickly and find the best times to buy and sell securities. This could help brokers make more money and give better prices to their clients. But, as AI and technology become more important, it will be important to keep watching to make sure that the market stays fair and that no one is taking advantage of others.
 
 ## References & Further Reading
 

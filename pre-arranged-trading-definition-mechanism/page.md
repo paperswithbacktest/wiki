@@ -66,7 +66,7 @@ Another common strategy is to use trusted contacts. People who do pre-arranged t
 
 Pre-arranged trading can make the market less liquid. Liquidity means how easy it is to buy or sell something without changing its price too much. When people do pre-arranged trades, they are not trading on the open market where everyone can see. This means there are fewer trades happening in the open market, which can make it harder for other people to buy or sell at the current market price. If lots of people start doing pre-arranged trades, it can make the market less active and less liquid.
 
-But, pre-arranged trading can also have a small positive effect on liquidity in some cases. If the people doing the pre-arranged trade are big traders or companies, their trade might still show up in the market data. This can make it look like there is more trading happening, which might encourage other people to trade too. However, this positive effect is usually small compared to the negative effect of making the market less liquid overall.
+But, pre-arranged trading can also have a small positive effect on [liquidity](/wiki/liquidity-risk-premium) in some cases. If the people doing the pre-arranged trade are big traders or companies, their trade might still show up in the market data. This can make it look like there is more trading happening, which might encourage other people to trade too. However, this positive effect is usually small compared to the negative effect of making the market less liquid overall.
 
 ## What are the ethical considerations in pre-arranged trading?
 

@@ -26,13 +26,13 @@ Some influencers also use blogs and newsletters to share their insights. They wr
 
 ## How do influencers impact the cryptocurrency market?
 
-Influencers can really change the cryptocurrency market. When they talk about a certain cryptocurrency on social media or YouTube, a lot of people listen. If an influencer says a coin is good, more people might want to buy it. This can make the price go up. On the other hand, if they say a coin is bad, people might sell it, and the price can go down. This is called the "influencer effect," and it can make the market move a lot.
+Influencers can really change the [cryptocurrency](/wiki/cryptocurrency) market. When they talk about a certain cryptocurrency on social media or YouTube, a lot of people listen. If an influencer says a coin is good, more people might want to buy it. This can make the price go up. On the other hand, if they say a coin is bad, people might sell it, and the price can go down. This is called the "influencer effect," and it can make the market move a lot.
 
 But it's not always good to just follow what influencers say. Sometimes, they might be wrong or trying to trick people. They might say good things about a coin because they want to make money from it going up. This is called a "pump and dump" scheme. It's important for people to do their own research and not just trust what influencers say. The crypto market can be risky, and influencers can make it even more unpredictable.
 
 ## Can you name some of the most followed cryptocurrency influencers on social media?
 
-Some of the most followed cryptocurrency influencers on social media are Andreas M. Antonopoulos and Vitalik Buterin. Andreas is known for his books and talks about Bitcoin and blockchain. He has a big following on Twitter and YouTube where he shares his knowledge and helps people understand the complex world of cryptocurrencies. Vitalik Buterin, the co-founder of Ethereum, also has a huge following on Twitter. He often posts about the future of cryptocurrencies and blockchain technology, which many people find interesting and useful.
+Some of the most followed cryptocurrency influencers on social media are Andreas M. Antonopoulos and Vitalik Buterin. Andreas is known for his [books](/wiki/algo-trading-books) and talks about Bitcoin and blockchain. He has a big following on Twitter and YouTube where he shares his knowledge and helps people understand the complex world of cryptocurrencies. Vitalik Buterin, the co-founder of Ethereum, also has a huge following on Twitter. He often posts about the future of cryptocurrencies and blockchain technology, which many people find interesting and useful.
 
 Another popular influencer is @bitcoin on Twitter, who is famous for sharing memes and quick updates about Bitcoin. This account has a large number of followers who enjoy the fun and informative content. On YouTube, influencers like Ivan on Tech and BitBoy Crypto have millions of subscribers. They make videos that explain different cryptocurrencies and market trends, helping their audience make informed decisions.
 
@@ -86,7 +86,7 @@ Also, new technology like AI and better social media tools might change how infl
 
 ## What is Algorithmic Trading in Crypto?
 
-Algorithmic trading, commonly referred to as algo trading, involves the use of computer algorithms to execute trades according to a set of predefined rules or criteria. This method has gained considerable traction in the cryptocurrency market, primarily due to its capacity to capitalize on the market’s inherent high volatility and 24/7 trading hours.
+Algorithmic trading, commonly referred to as algo trading, involves the use of computer algorithms to execute trades according to a set of predefined rules or criteria. This method has gained considerable traction in the cryptocurrency market, primarily due to its capacity to capitalize on the market’s inherent high [volatility](/wiki/volatility-trading-strategies) and 24/7 trading hours.
 
 Unlike traditional markets which operate within set hours, cryptocurrencies trade continuously, presenting opportunities and risks at all times. Algo trading systems can exploit these opportunities by executing trades at speeds far beyond human capability. By doing so, they reduce the emotional bias often associated with trading, allowing for more objective, data-driven decisions.
 

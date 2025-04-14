@@ -42,7 +42,7 @@ For people who have extra money, dollar rolls can be a good way to make a profit
 
 Dollar rolls can be risky. One big risk is that the price of mortgage-backed securities (MBS) might change. If the price of MBS goes down, the person who agreed to buy them back later might have to pay more than they're worth. This could lead to a loss. Also, if the person who sold the MBS can't buy them back, the buyer might be stuck with MBS they didn't want to keep long-term.
 
-Another risk is interest rate changes. If interest rates go up, the value of MBS usually goes down. This can make the dollar roll less profitable or even cause a loss. Plus, there's always the chance that the other person in the deal might not be able to keep their promise. If they can't pay back the money or buy back the MBS, it can cause problems. So, it's important to think about these risks before getting into a dollar roll.
+Another risk is [interest rate](/wiki/interest-rate-trading-strategies) changes. If interest rates go up, the value of MBS usually goes down. This can make the dollar roll less profitable or even cause a loss. Plus, there's always the chance that the other person in the deal might not be able to keep their promise. If they can't pay back the money or buy back the MBS, it can cause problems. So, it's important to think about these risks before getting into a dollar roll.
 
 ## How do dollar rolls impact the mortgage-backed securities market?
 
@@ -90,7 +90,7 @@ A dollar roll transaction involves the sale of a mortgage-backed security by an 
 
 ### Mechanics and Profit Mechanisms
 
-The process begins with an investor selling a MBS for delivery in the current month while simultaneously agreeing to purchase a substantially similar MBS in a future month. The difference between the sale price and the repurchase price creates an opportunity for profit, often termed the "drop." The "drop" is influenced by various factors, including interest rates, liquidity premiums, and market demand for MBS. The expectation is that the repurchase price will be lower, allowing the investor to profit from the transaction.
+The process begins with an investor selling a MBS for delivery in the current month while simultaneously agreeing to purchase a substantially similar MBS in a future month. The difference between the sale price and the repurchase price creates an opportunity for profit, often termed the "drop." The "drop" is influenced by various factors, including interest rates, [liquidity](/wiki/liquidity-risk-premium) premiums, and market demand for MBS. The expectation is that the repurchase price will be lower, allowing the investor to profit from the transaction.
 
 For example, the mathematical profit from a dollar roll can be represented as:
 

@@ -64,7 +64,7 @@ The clearinghouse also has rules to make sure everyone follows them. If a trader
 
 ## What is the impact of clearinghouses on market liquidity?
 
-Clearinghouses help make the market more liquid by making trading safer and easier. When people know that a clearinghouse is there to make sure trades happen smoothly, they feel more confident about buying and selling. This confidence means more people are willing to trade, which makes the market more active. More trading means there are more buyers and sellers, which makes it easier to buy or sell things quickly. This is what we call liquidity - how easily you can turn something into cash.
+Clearinghouses help make the market more liquid by making trading safer and easier. When people know that a clearinghouse is there to make sure trades happen smoothly, they feel more confident about buying and selling. This confidence means more people are willing to trade, which makes the market more active. More trading means there are more buyers and sellers, which makes it easier to buy or sell things quickly. This is what we call [liquidity](/wiki/liquidity-risk-premium) - how easily you can turn something into cash.
 
 Clearinghouses also help by reducing the risk that someone won't pay for their trade. If people are worried about not getting paid, they might not want to trade as much. But with a clearinghouse, this risk is lower because the clearinghouse steps in to make sure everyone gets what they're supposed to. This makes people more willing to trade, which again helps keep the market liquid. So, clearinghouses play a big role in keeping the market moving smoothly and making sure there's always someone ready to buy or sell.
 

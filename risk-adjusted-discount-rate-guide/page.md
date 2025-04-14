@@ -84,7 +84,7 @@ Multinational companies also have to think about how different countries are con
 
 ## What is the understanding of Risk-Adjusted Discount Rates?
 
-A risk-adjusted discount rate is a critical tool that modifies the market discount rate to factor in the specific risk profile of an investment or project. This adjustment accounts for the uncertainties and potential fluctuations in expected cash flows, which are inherent in any investment decision. The concept is grounded in the foundational principle of finance that a higher level of risk necessitates a commensurate potential for return.
+A risk-adjusted discount rate is a critical tool that modifies the market discount rate to [factor](/wiki/factor-investing) in the specific risk profile of an investment or project. This adjustment accounts for the uncertainties and potential fluctuations in expected cash flows, which are inherent in any investment decision. The concept is grounded in the foundational principle of finance that a higher level of risk necessitates a commensurate potential for return.
 
 The relationship between risk and return is a cornerstone of modern financial theory, encapsulated in the premise that investors are inherently risk-averse. This aversion translates into a demand for higher expected returns to compensate for taking on additional risk. Essentially, risk-adjusted discount rates recognize that the value of money differs depending on the uncertainty associated with future cash flows.
 

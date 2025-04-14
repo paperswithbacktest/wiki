@@ -80,7 +80,7 @@ Another example is when a company announced some exciting news, and everyone wan
 
 ## How might future technological advancements influence the effectiveness of price-time priority systems?
 
-Future technology could make price-time priority systems work even better. With faster computers and better internet, orders can be placed and filled much quicker. This means traders can get their orders in front of others even faster, making time priority more important. Also, new technology like artificial intelligence might help predict when to place orders, so traders can be at the front of the line more often. This could make the market more efficient and fair, as everyone has a better chance to trade quickly.
+Future technology could make price-time priority systems work even better. With faster computers and better internet, orders can be placed and filled much quicker. This means traders can get their orders in front of others even faster, making time priority more important. Also, new technology like [artificial intelligence](/wiki/ai-artificial-intelligence) might help predict when to place orders, so traders can be at the front of the line more often. This could make the market more efficient and fair, as everyone has a better chance to trade quickly.
 
 However, these advancements might also create new challenges. If only big traders with the best technology can place orders super fast, it might not be fair for smaller traders. They might find it harder to compete because they can't place their orders as quickly. So, while technology can help make price-time priority work better, it's important to make sure it doesn't make the market less fair for everyone.
 

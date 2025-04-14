@@ -90,7 +90,7 @@ Trend-following strategies aim to capitalize on persistent market movements, whe
 
 ### Arbitrage Opportunities
 
-Arbitrage strategies exploit price discrepancies between correlated assets or markets. The goal is to achieve risk-free profits by simultaneously buying and selling equivalent assets. One common form is [statistical arbitrage](/wiki/statistical-arbitrage), where algorithms identify short-term pricing inefficiencies among similar securities. Highly liquid markets with low transaction costs are ideal for such strategies, as they enhance the feasibility of capturing small price differentials.
+Arbitrage strategies exploit price discrepancies between correlated assets or markets. The goal is to achieve risk-free profits by simultaneously buying and selling equivalent assets. One common form is [statistical [arbitrage](/wiki/arbitrage)](/wiki/statistical-arbitrage), where algorithms identify short-term pricing inefficiencies among similar securities. Highly liquid markets with low transaction costs are ideal for such strategies, as they enhance the feasibility of capturing small price differentials.
 
 ### Mathematical Model-Based Strategies
 
@@ -105,7 +105,7 @@ def moving_average(data, window_size):
 
 ### Volume-Weighted Average Price (VWAP)
 
-The VWAP strategy seeks to execute buy or sell orders at an average price weighted by volume over a specific time frame. This strategy is particularly beneficial for large institutional investors aiming to minimize market impact. The VWAP is calculated by dividing the total traded value (price times volume) by the total traded volume over the trading period. Programmatically, it is represented as:
+The VWAP strategy seeks to execute buy or sell orders at an average price weighted by [volume](/wiki/volume-trading-strategy) over a specific time frame. This strategy is particularly beneficial for large institutional investors aiming to minimize market impact. The VWAP is calculated by dividing the total traded value (price times volume) by the total traded volume over the trading period. Programmatically, it is represented as:
 
 $$
 \text{VWAP} = \frac{\sum_{i}(P_i \times V_i)}{\sum_{i}V_i}
@@ -115,7 +115,7 @@ where $P_i$ is the price and $V_i$ is the volume at transaction $i$.
 
 ### Importance of a Systematic Approach
 
-A systematic approach to algorithmic trading ensures consistency and discipline, reducing emotional bias. It involves rigorous backtesting, which evaluates strategy performance on historical data to assess efficacy and risk. Moreover, continuous monitoring and adjustment based on changing market conditions are essential components of maintaining robust algorithms. Thus, integrating a systematic framework is crucial for adapting to evolving market dynamics and sustaining profitability.
+A systematic approach to [algorithmic trading](/wiki/algorithmic-trading) ensures consistency and discipline, reducing emotional bias. It involves rigorous [backtesting](/wiki/backtesting), which evaluates strategy performance on historical data to assess efficacy and risk. Moreover, continuous monitoring and adjustment based on changing market conditions are essential components of maintaining robust algorithms. Thus, integrating a systematic framework is crucial for adapting to evolving market dynamics and sustaining profitability.
 
 ## References & Further Reading
 

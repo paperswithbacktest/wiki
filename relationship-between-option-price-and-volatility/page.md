@@ -18,7 +18,7 @@ There are two main types of options: calls and puts. A call option gives the buy
 
 Volatility is a measure of how much the price of an asset, like a stock or a commodity, goes up and down over time. It shows how unpredictable or stable the price is. If an asset's price moves a lot in a short time, it has high volatility. If the price stays pretty much the same, it has low volatility. High volatility can mean more risk but also more chance for big gains or losses.
 
-Volatility is usually measured using something called standard deviation. This is a way to see how spread out the prices are from the average price. A higher standard deviation means higher volatility. Another common way to measure volatility is by using the VIX, which is also called the "fear index." The VIX looks at the prices of options on the S&P 500 to estimate how much the market expects prices to move in the next 30 days. Both methods help investors understand and manage the risks they face.
+Volatility is usually measured using something called standard deviation. This is a way to see how spread out the prices are from the average price. A higher standard deviation means higher [volatility](/wiki/volatility-trading-strategies). Another common way to measure volatility is by using the VIX, which is also called the "fear index." The VIX looks at the prices of options on the S&P 500 to estimate how much the market expects prices to move in the next 30 days. Both methods help investors understand and manage the risks they face.
 
 ## How does volatility affect the price of an option?
 
@@ -76,7 +76,7 @@ These models help traders get a better picture of how options might behave in di
 
 ## How can one use volatility arbitrage to profit from discrepancies in option pricing?
 
-Volatility arbitrage is a way traders try to make money by finding differences between what the market thinks about how much a stock's price will move and what they think. They do this by looking at options, which are contracts that give you the right to buy or sell a stock at a set price. If traders think the market's guess about how much the stock's price will jump around (called implied volatility) is wrong, they can buy or sell options to take advantage of this. For example, if they think the market is too scared and expects too much jumping around, they might sell options because these will be overpriced. If they think the market is too calm and not expecting enough movement, they might buy options because these will be underpriced.
+Volatility [arbitrage](/wiki/arbitrage) is a way traders try to make money by finding differences between what the market thinks about how much a stock's price will move and what they think. They do this by looking at options, which are contracts that give you the right to buy or sell a stock at a set price. If traders think the market's guess about how much the stock's price will jump around (called implied volatility) is wrong, they can buy or sell options to take advantage of this. For example, if they think the market is too scared and expects too much jumping around, they might sell options because these will be overpriced. If they think the market is too calm and not expecting enough movement, they might buy options because these will be underpriced.
 
 To do volatility arbitrage, traders often use fancy math models to figure out if options are priced right. They might use models like the Black-Scholes model or more advanced ones like the Heston model to guess how much options should cost based on how much they think the stock's price will move. If their guess is different from what the market is saying, they can make trades to profit from this difference. This kind of trading can be risky because guessing wrong about volatility can lead to losses, but it can also be rewarding if the trader's guess is right and they can spot the right opportunities.
 
@@ -150,7 +150,7 @@ Understanding these dynamics allows traders to better manage risk and capitalize
 
 ## What are the practical applications and case studies?
 
-Case studies have illustrated the substantial role of volatility predictions combined with algorithmic trading in options strategies, leading to tangible trading successes. Options traders frequently turn to strategies like straddles and strangles to capitalize on considerable price oscillations in either direction. These strategies benefit from their ability to harness the volatility of financial markets without needing to predict a specific market direction.
+Case studies have illustrated the substantial role of volatility predictions combined with [algorithmic trading](/wiki/algorithmic-trading) in options strategies, leading to tangible trading successes. Options traders frequently turn to strategies like straddles and strangles to capitalize on considerable price oscillations in either direction. These strategies benefit from their ability to harness the volatility of financial markets without needing to predict a specific market direction.
 
 ### Straddles and Strangles: Core Concepts
 

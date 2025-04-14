@@ -18,7 +18,7 @@ Judgments can be influenced by many things, like our past experiences, emotions,
 
 Judgment and decision-making are closely related but different. Judgment is what happens in our minds when we form an opinion or evaluate something. It's like when you meet someone new and decide if they seem nice or not. Judgment is more about what we think and feel about something based on the information we have. It can be quick and sometimes we don't even realize we're doing it.
 
-Decision-making, on the other hand, is when we choose what to do based on our judgments. It's like picking what to eat for dinner after thinking about what you like and what's available. Decision-making often involves thinking about different choices and their possible outcomes. While judgment is about forming an opinion, decision-making is about taking action based on that opinion. Both are important, but they happen at different steps in our thinking process.
+Decision-making, on the other hand, is when we choose what to do based on our judgments. It's like [picking](/wiki/asset-class-picking) what to eat for dinner after thinking about what you like and what's available. Decision-making often involves thinking about different choices and their possible outcomes. While judgment is about forming an opinion, decision-making is about taking action based on that opinion. Both are important, but they happen at different steps in our thinking process.
 
 ## What are the basic mechanisms involved in forming judgments?
 
@@ -82,7 +82,7 @@ Another important theory is the heuristic and biases approach. This theory expla
 
 ## What are some examples of algorithmic trading strategies?
 
-Algorithmic trading strategies are diverse and strategic, harnessing complex algorithms to capitalize on market inefficiencies and trends. Here are some of the key strategies used in algorithmic trading:
+Algorithmic trading strategies are diverse and strategic, harnessing complex algorithms to capitalize on market inefficiencies and trends. Here are some of the key strategies used in [algorithmic trading](/wiki/algorithmic-trading):
 
 ### Momentum Strategy
 The [momentum](/wiki/momentum) strategy hinges on the principle that securities which have performed well in the past will continue to perform well in the short term, and vice versa for those that have performed poorly. It involves the use of algorithms to buy assets that are trending upwards and to sell those that are trending downward. The momentum of a security can often be calculated using indicators like the Rate of Change (ROC) or the Relative Strength Index (RSI).

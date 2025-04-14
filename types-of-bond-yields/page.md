@@ -40,7 +40,7 @@ On the other hand, YTM assumes you'll hold the bond until it reaches its maturit
 
 ## What factors influence bond yields?
 
-Bond yields can change because of many things. One big reason is interest rates set by the government or central bank. When these rates go up, new bonds usually have higher yields to stay competitive. This makes older bonds with lower yields less attractive, so their prices drop and their yields go up to match the market. Another factor is how safe people think the bond is. If people think a bond is risky, they want a higher yield to take that risk. So, bonds from stable governments or big companies usually have lower yields than bonds from smaller or less stable issuers.
+Bond yields can change because of many things. One big reason is interest rates set by the government or central bank. When these rates go up, new bonds usually have higher yields to stay competitive. This makes older bonds with lower yields less attractive, so their prices drop and their yields go up to match the market. Another [factor](/wiki/factor-investing) is how safe people think the bond is. If people think a bond is risky, they want a higher yield to take that risk. So, bonds from stable governments or big companies usually have lower yields than bonds from smaller or less stable issuers.
 
 Inflation also plays a role. When prices are going up a lot, people want higher yields to make sure their money keeps its value. If inflation is low, yields might be lower too. The economy's health can affect bond yields as well. In good times, people might want to invest in stocks instead of bonds, so bond yields might need to go up to attract buyers. In bad times, people might want the safety of bonds, so yields could go down. All these things together make bond yields move around, and it's important to keep an eye on them if you're thinking about buying bonds.
 
@@ -149,5 +149,5 @@ Understanding the interaction between inflation, interest rates, and bond yields
 
 9. **Hebner, Mark. "Index Funds: The 12-Step Program for Active Investors."** While focusing primarily on equity index funds, Hebner’s work provides useful lessons on passive investing strategies and the role of index funds in fixed income investing.
 
-For those interested in advancing their understanding of these complex subjects, these resources offer comprehensive knowledge and varied perspectives on the interactions between bond yields, algorithmic trading, and market dynamics.
+For those interested in advancing their understanding of these complex subjects, these resources offer comprehensive knowledge and varied perspectives on the interactions between bond yields, [algorithmic trading](/wiki/algorithmic-trading), and market dynamics.
 

@@ -22,7 +22,7 @@ But, anomalies can also trick traders into making bad choices. Sometimes, a big 
 
 ## What are some common types of market data anomalies?
 
-Market data anomalies can show up in different ways. One common type is a sudden big change in price. This can happen when there's breaking news about a company, like a new product launch or a scandal. Another type is when trading volume goes way up or down out of nowhere. This might happen if a lot of people start buying or selling a stock at the same time, maybe because of a rumor or a big event.
+Market data anomalies can show up in different ways. One common type is a sudden big change in price. This can happen when there's breaking news about a company, like a new product launch or a scandal. Another type is when trading [volume](/wiki/volume-trading-strategy) goes way up or down out of nowhere. This might happen if a lot of people start buying or selling a stock at the same time, maybe because of a rumor or a big event.
 
 Another kind of anomaly is when there's a mistake in the data. This can happen if someone enters the wrong numbers or if there's a problem with the computer system that tracks prices. These mistakes can make it look like a stock's price has changed a lot when it really hasn't. Also, sometimes anomalies happen because of what's called a "fat finger" trade, where someone accidentally buys or sells a lot more than they meant to.
 

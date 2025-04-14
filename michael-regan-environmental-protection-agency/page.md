@@ -84,7 +84,7 @@ Regan also talks directly to the public. He uses social media and news interview
 
 ## How do EPA Policies intersect with Finance?
 
-The Environmental Protection Agency (EPA) under Michael Regan's leadership is uniquely positioned to influence the financial sector towards more sustainable practices, particularly through algorithmic trading strategies concentrated on Environmental, Social, and Governance (ESG) criteria. Regan's policies emphasizing environmental justice and stringent regulations provide a framework within which financial markets can reevaluate and adjust their investment strategies to align with environmental objectives.
+The Environmental Protection Agency (EPA) under Michael Regan's leadership is uniquely positioned to influence the financial sector towards more sustainable practices, particularly through [algorithmic trading](/wiki/algorithmic-trading) strategies concentrated on Environmental, Social, and Governance ([ESG](/wiki/esg-investing)) criteria. Regan's policies emphasizing environmental justice and stringent regulations provide a framework within which financial markets can reevaluate and adjust their investment strategies to align with environmental objectives.
 
 Algorithmic trading, which utilizes programmed computers to make trading decisions based on predefined criteria, is increasingly employed in facilitating sustainable investing. The intersection of EPA's policies and finance becomes apparent when considering how these algorithmic systems incorporate ESG factors into their models. By integrating large datasets that reflect EPA regulations and sustainability metrics, traders can make informed decisions that not only satisfy financial returns but also contribute to positive environmental outcomes.
 

@@ -60,7 +60,7 @@ But remember, just because the RSI is below 30 doesn't mean the price will defin
 
 Using the RSI by itself can be tricky because it might give you false signals. For example, the RSI might go above 70 and make you think the price will go down soon, but the price could keep going up for a while. The same thing can happen when the RSI goes below 30 and you think the price will go up, but it might keep going down. This is why you shouldn't just rely on the RSI alone to make trading decisions.
 
-Another problem with using the RSI as a standalone indicator is that it doesn't work well in all market conditions. Sometimes, the market can stay overbought or oversold for a long time, and the RSI might not be able to tell you when the trend will change. That's why it's a good idea to use the RSI along with other tools like moving averages, volume indicators, or even looking at the news to get a fuller picture of what's happening in the market.
+Another problem with using the RSI as a standalone indicator is that it doesn't work well in all market conditions. Sometimes, the market can stay overbought or oversold for a long time, and the RSI might not be able to tell you when the trend will change. That's why it's a good idea to use the RSI along with other tools like moving averages, [volume](/wiki/volume-trading-strategy) indicators, or even looking at the news to get a fuller picture of what's happening in the market.
 
 ## How can RSI be used in conjunction with other technical indicators?
 
@@ -68,7 +68,7 @@ Using RSI along with other technical indicators can help traders get a better un
 
 Another way to use RSI with other indicators is to look at volume. If the RSI shows an asset is overbought and the trading volume is also very high, it might mean the price will soon go down. But if the volume is low, the overbought signal from the RSI might not be as strong. By combining RSI with volume, you can get a better idea of whether the price movement is strong or weak. 
 
-You can also use RSI with other momentum indicators like the MACD (Moving Average Convergence Divergence) to confirm signals. If both the RSI and MACD show that an asset is overbought or oversold, it makes the signal stronger. This can help you feel more confident about your trading decisions because you're not relying on just one indicator.
+You can also use RSI with other [momentum](/wiki/momentum) indicators like the MACD (Moving Average Convergence Divergence) to confirm signals. If both the RSI and MACD show that an asset is overbought or oversold, it makes the signal stronger. This can help you feel more confident about your trading decisions because you're not relying on just one indicator.
 
 ## What are some advanced RSI strategies for experienced traders?
 

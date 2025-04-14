@@ -38,7 +38,7 @@ Traders also use pivot points to set their trading goals and manage risk. For ex
 
 Pivot points can help traders make better trading plans. Traders use them to find good times to buy or sell. For example, if the price goes above the main pivot point, it might be a good time to buy because the price could keep going up. If the price goes below the pivot point, it might be a good time to sell because the price could keep going down. Traders can also use the support and resistance levels from pivot points to decide where to set their goals for profit and where to put stop-loss orders to limit their losses.
 
-Pivot points can also be part of bigger trading strategies. Some traders use them with other tools like moving averages or trend lines to get a clearer picture of the market. For example, a trader might use pivot points to find entry and exit points, while using moving averages to confirm the trend. This way, they can make more informed decisions and have a better chance of making money. By combining pivot points with other tools, traders can create a strong plan that helps them trade more successfully.
+Pivot points can also be part of bigger trading strategies. Some traders use them with other tools like moving averages or trend lines to get a clearer picture of the market. For example, a trader might use pivot points to find entry and [exit](/wiki/exit-strategy) points, while using moving averages to confirm the trend. This way, they can make more informed decisions and have a better chance of making money. By combining pivot points with other tools, traders can create a strong plan that helps them trade more successfully.
 
 ## What is the difference between a standard pivot point and a Fibonacci pivot point?
 
@@ -112,7 +112,7 @@ Understanding this manual calculation process is beneficial for traders, as it f
 
 ## What is Algo Trading and how does it relate to Pivot Points?
 
-In algorithmic trading, incorporating pivot point calculations enables automated prediction of support and resistance levels based on historical price data. This approach provides a systematic method for identifying strategic entry and exit points in trading algorithms. By automating these calculations, traders can improve their trading efficiency and consistency, reducing the time and potential for human error typically involved in manual trading.
+In [algorithmic trading](/wiki/algorithmic-trading), incorporating pivot point calculations enables automated prediction of support and resistance levels based on historical price data. This approach provides a systematic method for identifying strategic entry and exit points in trading algorithms. By automating these calculations, traders can improve their trading efficiency and consistency, reducing the time and potential for human error typically involved in manual trading.
 
 Pivot points are calculated using the prices of the previous trading day. These are composed of the high, low, and closing prices, with the central pivot point often determined as:
 

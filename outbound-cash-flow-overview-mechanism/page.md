@@ -20,7 +20,7 @@ Outbound cash flow is the money that leaves a business or a person's account. It
 
 Inbound cash flow is the opposite. It's the money that comes into your account. For a business, this could be from selling products or services. For a person, it might be their salary or money from other sources. Keeping an eye on inbound cash flow helps you know how much money you have coming in, which is important for planning and making sure you can cover your expenses.
 
-Both outbound and inbound cash flow are crucial for understanding your financial health. By comparing the two, you can see if you're spending more than you're earning, which can help you make better decisions about saving and spending. Balancing these flows is key to maintaining financial stability, whether you're running a business or managing personal finances.
+Both outbound and inbound cash flow are crucial for understanding your financial health. By comparing the two, you can see if you're spending more than you're [earning](/wiki/earning-announcement), which can help you make better decisions about saving and spending. Balancing these flows is key to maintaining financial stability, whether you're running a business or managing personal finances.
 
 ## What are common examples of outbound cash flow in a business?
 
@@ -98,7 +98,7 @@ $$
 
 3. **Cash Flow from Financing (CFF):** This accounts for cash changes resulting from fundraising activities. It includes cash obtained from issuing debt or equity, and outflows such as dividends and debt repayments. The financing section reveals how the company manages changes in its capital structure and its strategy regarding debt versus equity funding.
 
-By thoroughly understanding these segments, companies can evaluate their liquidity position, investment strategies, and overall financial performance more effectively. Such insights facilitate the assessment of a company’s capability to generate future cash flows, fulfill its obligations, and invest in growth opportunities. 
+By thoroughly understanding these segments, companies can evaluate their [liquidity](/wiki/liquidity-risk-premium) position, investment strategies, and overall financial performance more effectively. Such insights facilitate the assessment of a company’s capability to generate future cash flows, fulfill its obligations, and invest in growth opportunities. 
 
 Proper analysis of cash flow statements is indispensable for making informed investment and operational decisions. By examining the statement's trends, stakeholders can identify potential red flags or promising opportunities. Enhancing the accuracy and transparency of these statements plays a critical role in fostering stakeholder trust and achieving strategic business goals.
 

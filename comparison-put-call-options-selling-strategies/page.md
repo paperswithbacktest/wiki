@@ -98,7 +98,7 @@ $$
 
 To illustrate, consider a trader who writes a put option on stock XYZ with a strike price of $100, receiving a premium of $5 per share. If XYZ's market price falls to $90, the trader will incur a loss of $5 per share ($100 - $90 - $5). Conversely, if the stock remains above $100, the put expires worthless, allowing the trader to keep the $5 premium.
 
-Mitigating risks associated with writing put options can be accomplished through algorithmic trading. An algorithm can automatically assess market conditions, adjusting positions to optimize returns while minimizing losses. For instance, dynamic hedging strategies might be employed, where algorithms continuously recalibrate positions based on real-time data to safeguard against adverse price movements.
+Mitigating risks associated with writing put options can be accomplished through [algorithmic trading](/wiki/algorithmic-trading). An algorithm can automatically assess market conditions, adjusting positions to optimize returns while minimizing losses. For instance, dynamic hedging strategies might be employed, where algorithms continuously recalibrate positions based on real-time data to safeguard against adverse price movements.
 
 Algorithmic trading also enhances efficiency by executing trades faster than humanly possible and allows for more consistent application of strategies, which can be crucial in volatile markets. To showcase a simple algorithmic strategy for selling put options in Python, utilize libraries like NumPy and pandas to simulate market conditions and automation:
 

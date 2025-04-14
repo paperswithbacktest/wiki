@@ -34,7 +34,7 @@ To be part of the S&P 500, a company needs to be big and important. It must have
 
 ## How can an individual invest in the S&P 500?
 
-An individual can invest in the S&P 500 by buying a mutual fund or an exchange-traded fund (ETF) that tracks the S&P 500. These funds are made up of the same stocks as the S&P 500, so when you buy shares in the fund, you are essentially buying a little bit of all the companies in the index. Two popular choices for this are the Vanguard S&P 500 ETF and the SPDR S&P 500 ETF Trust. You can buy these funds through a brokerage account, which is like an online bank account for buying and selling investments.
+An individual can invest in the S&P 500 by buying a mutual fund or an exchange-traded fund ([ETF](/wiki/etf-trading-strategies)) that tracks the S&P 500. These funds are made up of the same stocks as the S&P 500, so when you buy shares in the fund, you are essentially buying a little bit of all the companies in the index. Two popular choices for this are the Vanguard S&P 500 ETF and the SPDR S&P 500 ETF Trust. You can buy these funds through a brokerage account, which is like an online bank account for buying and selling investments.
 
 To start, you'll need to open a brokerage account with a company like Fidelity, Charles Schwab, or Robinhood. Once your account is set up, you can search for the S&P 500 ETF you want to buy, enter the amount of money you want to invest, and place your order. Investing in the S&P 500 is a good way to spread out your risk because you're not putting all your money into one company, but instead into hundreds of different companies across many industries.
 

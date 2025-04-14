@@ -84,7 +84,7 @@ These technologies also help scientists study the past to learn about regime shi
 
 ## How can we detect regime shifts?
 
-Detecting regime shifts in algorithmic trading is crucial for aligning strategies with the current market dynamics. These shifts can be identified using various methodologies, primarily falling under statistical and machine learning approaches. One of the most prominent statistical models used for this purpose is the Markov Switching Auto-regressive (MSAR) model.
+Detecting regime shifts in [algorithmic trading](/wiki/algorithmic-trading) is crucial for aligning strategies with the current market dynamics. These shifts can be identified using various methodologies, primarily falling under statistical and [machine learning](/wiki/machine-learning) approaches. One of the most prominent statistical models used for this purpose is the Markov Switching Auto-regressive (MSAR) model.
 
 The MSAR model is designed to capture changes in market trends by assuming that data can be segmented into distinct regimes, each with its own statistical properties. In this model, the underlying process is considered to follow a Markov chain, where transitions between regimes are governed by transition probabilities.
 
@@ -97,7 +97,7 @@ $$
 
 where $y_t$ is the time series data (such as price returns), $\mu_{s_t}$ and $\phi_{s_t}$ are the regime-specific parameters for mean and AR coefficient respectively, $s_t$ represents the regime at time $t$, and $\varepsilon_t$ is the error term, often assumed to be normally distributed.
 
-Machine learning approaches also offer powerful tools for detecting regime shifts. These typically involve supervised or unsupervised learning techniques, where historical market data is used to train models to recognize patterns that precede regime changes. Feature engineering and selection are crucial, as they ensure that the model is sensitive to market indicators that signify regime shifts, such as changes in volatility, [volume](/wiki/volume-trading-strategy), or correlation structures.
+Machine learning approaches also offer powerful tools for detecting regime shifts. These typically involve supervised or unsupervised learning techniques, where historical market data is used to train models to recognize patterns that precede regime changes. Feature engineering and selection are crucial, as they ensure that the model is sensitive to market indicators that signify regime shifts, such as changes in [volatility](/wiki/volatility-trading-strategies), [volume](/wiki/volume-trading-strategy), or correlation structures.
 
 Timely detection of regime shifts is crucial for adapting trading strategies. A delay in recognizing a shift can lead to significant losses or missed opportunities. Models such as MSAR and machine learning algorithms provide signals that help traders adjust their strategies accordingly, such as switching between trend-following and mean-reversion strategies, or altering position sizes to account for increased volatility.
 

@@ -58,7 +58,7 @@ If the market is going down a lot, selling uncovered puts can be risky. That's b
 
 ## What are the tax implications of trading uncovered options?
 
-When you trade uncovered options, you need to think about taxes. If you make money from selling uncovered options, that money is usually taxed as ordinary income. This means it's added to your other income and taxed at your regular tax rate. If you lose money, you can use those losses to lower your taxes. You can take up to $3,000 of those losses off your income each year. If you have more losses than that, you can carry them over to future years.
+When you trade uncovered options, you need to think about taxes. If you make money from selling uncovered options, that money is usually taxed as ordinary income. This means it's added to your other income and taxed at your regular tax rate. If you lose money, you can use those losses to lower your taxes. You can take up to $3,000 of those losses off your income each year. If you have more losses than that, you can [carry](/wiki/carry-trading) them over to future years.
 
 The tax rules can be different depending on how long you hold the options. If you hold them for less than a year, any gains are short-term capital gains and taxed as ordinary income. If you hold them for more than a year, they might be long-term capital gains, which can have a lower tax rate. But with uncovered options, it's usually hard to hold them for a year because they often expire or get exercised before then. So, it's important to keep good records and maybe talk to a tax professional to make sure you're doing everything right.
 

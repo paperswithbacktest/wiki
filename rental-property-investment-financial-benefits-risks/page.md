@@ -48,7 +48,7 @@ But, property appreciation isn't always guaranteed. Sometimes, the value of prop
 
 ## What are the financing options available for purchasing rental properties?
 
-When you want to buy a rental property, you have different ways to get the money you need. One common way is to get a mortgage from a bank or a lender. A mortgage is a loan that you use to buy the property, and you pay it back over time with interest. There are different types of mortgages, like fixed-rate mortgages where the interest rate stays the same, and adjustable-rate mortgages where the interest rate can change. You can also choose between a conventional loan, which is not backed by the government, or a government-backed loan like an FHA loan, which might be easier to get if you don't have a lot of money for a down payment.
+When you want to buy a rental property, you have different ways to get the money you need. One common way is to get a mortgage from a bank or a lender. A mortgage is a loan that you use to buy the property, and you pay it back over time with interest. There are different types of mortgages, like fixed-rate mortgages where the [interest rate](/wiki/interest-rate-trading-strategies) stays the same, and adjustable-rate mortgages where the interest rate can change. You can also choose between a conventional loan, which is not backed by the government, or a government-backed loan like an FHA loan, which might be easier to get if you don't have a lot of money for a down payment.
 
 Another option is to use a home equity loan or a home equity line of credit (HELOC) if you already own a home. This means you borrow money against the value of your current home to buy a rental property. This can be a good choice if you have a lot of equity in your home, but it also means you're putting your home at risk if you can't pay back the loan. Some people also use their savings or money from selling other investments to buy rental properties. Each of these options has its own pros and cons, so it's important to think about what works best for your situation and how much risk you're comfortable with.
 
@@ -111,7 +111,7 @@ In summary, while rental property investments offer appealing cash flow potentia
    This resource covers in-depth analytical techniques used in real estate investment and the use of data analysis for forecasting market trends.
 
 3. **"Flash Boys: A Wall Street Revolt" by Michael Lewis**  
-   Although focused on stock markets, this book provides insightful descriptions of algorithmic trading, which can be applied to real estate markets in terms of data-driven decision-making.
+   Although focused on stock markets, this book provides insightful descriptions of [algorithmic trading](/wiki/algorithmic-trading), which can be applied to real estate markets in terms of data-driven decision-making.
 
 4. **"Financial Risk Management: A Practitioner's Guide to Managing Market and Credit Risk" by Steve L. Allen**  
    This publication is valuable for understanding the principles of financial risk management, applicable to both real estate investments and algorithmic trading.

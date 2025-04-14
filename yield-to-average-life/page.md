@@ -18,7 +18,7 @@ This measure is important because it gives investors a more accurate idea of wha
 
 To calculate 'Yield to Average Life', you need to know the bond's price, its coupon payments, and the schedule of principal repayments. First, you figure out the average life of the bond. This is done by taking the total time until all principal is paid back, weighted by the amount of principal paid at each time. For example, if half the principal is paid back in year 2 and the other half in year 4, the average life would be (2 * 0.5) + (4 * 0.5) = 3 years.
 
-Once you have the average life, you can calculate the yield to average life. This is similar to calculating yield to maturity, but you use the average life instead of the maturity date. You find the interest rate that makes the present value of all future cash flows (coupon payments and principal repayments) equal to the bond's current price. This interest rate is the yield to average life. It tells you what return you would get if you held the bond until its average life, not its maturity date.
+Once you have the average life, you can calculate the yield to average life. This is similar to calculating yield to maturity, but you use the average life instead of the maturity date. You find the [interest rate](/wiki/interest-rate-trading-strategies) that makes the present value of all future cash flows (coupon payments and principal repayments) equal to the bond's current price. This interest rate is the yield to average life. It tells you what return you would get if you held the bond until its average life, not its maturity date.
 
 ## What are the key components needed to determine 'Yield to Average Life'?
 

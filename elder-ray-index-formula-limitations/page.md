@@ -54,7 +54,7 @@ Traders look at Bear Power to decide if it's a good time to sell. When Bear Powe
 
 The Elder-Ray Index can help traders decide when to buy or sell stocks by showing how strong buyers and sellers are. If the Bull Power is high and positive, it means buyers are strong and the stock price might go up soon. This could be a good time to buy the stock. On the other hand, if the Bear Power is low and negative, it means sellers are strong and the stock price might go down. This could be a good time to sell the stock. By looking at both Bull Power and Bear Power, traders can get a better idea of the market's direction and make smarter choices.
 
-Traders can also use the Elder-Ray Index to find good entry and exit points for their trades. For example, if the Bull Power starts to rise from a low point, it might be a good time to buy because it shows that buyers are getting stronger. If the Bear Power starts to drop from a high point, it might be a good time to sell because it shows that sellers are getting weaker. By watching these changes, traders can time their trades better and improve their chances of making money in the stock market.
+Traders can also use the Elder-Ray Index to find good entry and [exit](/wiki/exit-strategy) points for their trades. For example, if the Bull Power starts to rise from a low point, it might be a good time to buy because it shows that buyers are getting stronger. If the Bear Power starts to drop from a high point, it might be a good time to sell because it shows that sellers are getting weaker. By watching these changes, traders can time their trades better and improve their chances of making money in the stock market.
 
 ## What are the limitations of using the Elder-Ray Index?
 

@@ -42,7 +42,7 @@ To get the median, you add these two middle numbers together and then divide by 
 
 ## Can the median be used for all types of data?
 
-The median can be used for most types of data, but it works best with numbers that can be ordered from smallest to largest. This includes things like ages, test scores, or temperatures. When you have a set of numbers, you can find the median by putting them in order and picking the middle one or averaging the two middle ones if there's an even number of observations. The median is useful because it gives you a good idea of the middle value without being affected by very high or very low numbers.
+The median can be used for most types of data, but it works best with numbers that can be ordered from smallest to largest. This includes things like ages, test scores, or temperatures. When you have a set of numbers, you can find the median by putting them in order and [picking](/wiki/asset-class-picking) the middle one or averaging the two middle ones if there's an even number of observations. The median is useful because it gives you a good idea of the middle value without being affected by very high or very low numbers.
 
 However, the median is not as useful for data that can't be ordered in a meaningful way, like categories or types of things. For example, if you have data about different colors of cars, you can't put 'red', 'blue', and 'green' in order to find a middle value. In these cases, other measures like the mode, which tells you the most common category, might be more helpful. So, while the median is a great tool for numerical data, it's not the best choice for all types of data.
 

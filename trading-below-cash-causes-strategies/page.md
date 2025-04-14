@@ -76,7 +76,7 @@ Another metric to look at is the return on equity (ROE). This tells you how well
 
 Macroeconomic factors, like the overall health of the economy, can have a big impact on stocks trading below their cash value. When the economy is doing well, people feel more confident and might be more willing to invest in stocks, even if they are trading below cash. But if the economy is struggling, like during a recession, people might be scared and not want to buy stocks, no matter how much cash the company has. This fear can push stock prices down, making them trade below their cash value even more.
 
-Interest rates are another important macroeconomic factor. If interest rates go up, borrowing money becomes more expensive, which can hurt companies that need to borrow to grow. This can make investors worry about the company's future, causing the stock price to drop below the cash value. On the other hand, if interest rates are low, it's cheaper for companies to borrow money, which can help them grow and might make investors feel better about buying the stock, even if it's trading below cash.
+Interest rates are another important macroeconomic [factor](/wiki/factor-investing). If interest rates go up, borrowing money becomes more expensive, which can hurt companies that need to borrow to grow. This can make investors worry about the company's future, causing the stock price to drop below the cash value. On the other hand, if interest rates are low, it's cheaper for companies to borrow money, which can help them grow and might make investors feel better about buying the stock, even if it's trading below cash.
 
 ## What are the tax implications and considerations for trading stocks below cash?
 

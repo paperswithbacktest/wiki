@@ -72,7 +72,7 @@ Over time, the equity risk premium can change too. This is because the economy a
 
 Advanced statistical techniques can help make our guesses about the equity risk premium more accurate. One way is by using something called regression analysis. This method looks at how different things, like the economy or interest rates, affect stock returns. By understanding these relationships, we can better predict how much more money stocks might make compared to safe investments like government bonds. Another technique is time-series analysis, which looks at how the equity risk premium has changed over time. This can help us see patterns and make better predictions about the future, even though the past isn't always a perfect guide.
 
-Another useful tool is Bayesian statistics, which lets us update our guesses about the equity risk premium as new information comes in. This can be really helpful because the world is always changing, and new data can give us a clearer picture. Lastly, machine learning can also be used to find patterns in big sets of data that might be hard to see otherwise. By using these advanced techniques, we can get a more detailed and accurate view of the equity risk premium, which can help investors make smarter choices about where to put their money.
+Another useful tool is Bayesian [statistics](/wiki/bayesian-statistics), which lets us update our guesses about the equity risk premium as new information comes in. This can be really helpful because the world is always changing, and new data can give us a clearer picture. Lastly, [machine learning](/wiki/machine-learning) can also be used to find patterns in big sets of data that might be hard to see otherwise. By using these advanced techniques, we can get a more detailed and accurate view of the equity risk premium, which can help investors make smarter choices about where to put their money.
 
 ## How can investors use the equity risk premium in portfolio management and asset pricing?
 
@@ -136,7 +136,7 @@ ERP = E(R_m) - R_f
 $$
 
 #### Applicability and Limitations
-The CAPM approach is widely used due to its simplicity and the theoretical foundation it provides in explaining the relationship between risk and return. However, its limitations include the assumption of a linear relationship between beta and returns, and its reliance on a single factor (market risk), which may not account for other relevant risks. Additionally, accurately estimating the market return and risk-free rate can be challenging, impacting the precise computation of ERP.
+The CAPM approach is widely used due to its simplicity and the theoretical foundation it provides in explaining the relationship between risk and return. However, its limitations include the assumption of a linear relationship between beta and returns, and its reliance on a single [factor](/wiki/factor-investing) (market risk), which may not account for other relevant risks. Additionally, accurately estimating the market return and risk-free rate can be challenging, impacting the precise computation of ERP.
 
 ### Historical/Implied Models
 
@@ -193,5 +193,5 @@ Both CAPM and historical/implied models offer mechanisms for calculating ERP, ea
    - JSTOR (www.jstor.org): Access to a multitude of academic papers and journals discussing a range of financial concepts, including risk management and investment analysis.
    - SSRN (www.ssrn.com): The Social Science Research Network provides a platform for researchers to share papers and findings, offering a wide selection on topics like equity risk premium and trading algorithms.
 
-These resources collectively cover foundational theories, modern applications, and emerging trends in finance, providing comprehensive insights for anyone keen on understanding and utilizing equity risk premium in investment analysis and algorithmic trading.
+These resources collectively cover foundational theories, modern applications, and emerging trends in finance, providing comprehensive insights for anyone keen on understanding and utilizing equity risk premium in investment analysis and [algorithmic trading](/wiki/algorithmic-trading).
 

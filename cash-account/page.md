@@ -48,7 +48,7 @@ Another important part of managing your cash account is understanding the fees y
 
 ## What are the security features of a cash account?
 
-A cash account has several security features to keep your money and personal information safe. One of the main features is encryption. This means that when you enter your information or make a trade online, the data is turned into a code that's hard for hackers to read. Another important security feature is two-factor authentication. This means that to log into your account, you need to enter a password and a special code sent to your phone. This makes it much harder for someone else to get into your account, even if they know your password.
+A cash account has several security features to keep your money and personal information safe. One of the main features is encryption. This means that when you enter your information or make a trade online, the data is turned into a code that's hard for hackers to read. Another important security feature is two-[factor](/wiki/factor-investing) authentication. This means that to log into your account, you need to enter a password and a special code sent to your phone. This makes it much harder for someone else to get into your account, even if they know your password.
 
 Brokerages also use other ways to keep your account safe. They often check your account for strange activity, like if someone is trying to log in from a new place or if there are a lot of trades happening at once. If they see something odd, they might ask you to confirm that it's really you. Plus, they have insurance that protects your money if something bad happens to the brokerage. All these security features work together to make sure your cash account stays safe and secure.
 

@@ -46,7 +46,7 @@ Another criticism of QE is that it might not help everyone equally. Some people 
 
 ## How is Quantitative Easing different from traditional monetary policy?
 
-Quantitative Easing (QE) and traditional monetary policy are both ways that central banks try to help the economy, but they work in different ways. Traditional monetary policy usually means changing the interest rate that banks charge each other for loans. When the economy is slow, the central bank might lower this interest rate to make borrowing cheaper, which can encourage people and businesses to spend more money. But if the interest rate is already very low, the central bank can't lower it much more. That's when they might use QE instead.
+Quantitative Easing (QE) and traditional monetary policy are both ways that central banks try to help the economy, but they work in different ways. Traditional monetary policy usually means changing the [interest rate](/wiki/interest-rate-trading-strategies) that banks charge each other for loans. When the economy is slow, the central bank might lower this interest rate to make borrowing cheaper, which can encourage people and businesses to spend more money. But if the interest rate is already very low, the central bank can't lower it much more. That's when they might use QE instead.
 
 QE is different because it involves the central bank buying a lot of bonds and other financial stuff from banks and other places. They pay for these things by creating new money, which they put into the banks' accounts. This makes the total amount of money in the economy bigger, which can help lower long-term interest rates even when the regular interest rate can't be lowered anymore. So, QE is like a special tool that central banks use when the usual way of changing interest rates isn't enough to help the economy.
 
@@ -84,7 +84,7 @@ When it comes to stopping QE, central banks have to be very careful. They look a
 
 ## What is the Mechanism of Quantitative Easing?
 
-Quantitative easing (QE) is a non-traditional monetary policy tool employed by central banks when conventional methods, such as adjusting interest rates, prove ineffective, particularly in environments with near-zero interest rates. The primary objective of QE is to inject liquidity into the financial system and stimulate economic activity by purchasing large amounts of financial assets. This process is aimed at lowering interest rates and encouraging lending and investment.
+Quantitative easing (QE) is a non-traditional monetary policy tool employed by central banks when conventional methods, such as adjusting interest rates, prove ineffective, particularly in environments with near-zero interest rates. The primary objective of QE is to inject [liquidity](/wiki/liquidity-risk-premium) into the financial system and stimulate economic activity by purchasing large amounts of financial assets. This process is aimed at lowering interest rates and encouraging lending and investment.
 
 ### Mechanism of Quantitative Easing
 

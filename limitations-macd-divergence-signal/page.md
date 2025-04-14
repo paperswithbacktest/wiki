@@ -40,7 +40,7 @@ Another problem is that MACD divergence can give you false signals. Sometimes, y
 
 ## How does market volatility affect the effectiveness of MACD divergence signals?
 
-Market volatility can make MACD divergence signals less reliable. When the market is moving a lot, prices can swing up and down quickly. This can cause more false signals with MACD divergence, where you might think the price is going to change direction, but it doesn't. It's like trying to read a map in a storm; the map is still useful, but it's harder to use it correctly when everything is moving around so much.
+Market [volatility](/wiki/volatility-trading-strategies) can make MACD divergence signals less reliable. When the market is moving a lot, prices can swing up and down quickly. This can cause more false signals with MACD divergence, where you might think the price is going to change direction, but it doesn't. It's like trying to read a map in a storm; the map is still useful, but it's harder to use it correctly when everything is moving around so much.
 
 Because of this, it's important to be extra careful when using MACD divergence during volatile times. You might want to use other tools and information to help you make better decisions. Things like other indicators or news about the market can give you a fuller picture of what's happening. By considering all these things together, you can be more confident in your trading choices, even when the market is jumping around.
 

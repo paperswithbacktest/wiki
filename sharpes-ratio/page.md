@@ -165,5 +165,5 @@ To further understand the development and application of the Sharpe Ratio in eva
     - "Advances in Financial Machine Learning" by Marcos López de Prado includes discussions on machine learning applications in finance, which enrich the trader's understanding of risk and returns.
     - "Python for Finance" by Yves Hilpisch provides practical examples on using Python for financial analysis, useful for implementing the Sharpe Ratio among other metrics.
 
-These resources serve as a comprehensive guide for anyone looking to deepen their knowledge of the Sharpe Ratio and explore its applications in algorithmic trading and financial analysis.
+These resources serve as a comprehensive guide for anyone looking to deepen their knowledge of the Sharpe Ratio and explore its applications in [algorithmic trading](/wiki/algorithmic-trading) and financial analysis.
 

@@ -28,7 +28,7 @@ Another important feature of a VCRN is that it can be renewed. This means that a
 
 ## Who typically issues VCRNs?
 
-VCRNs are usually issued by big banks and financial companies. These institutions create VCRNs to offer investors a different kind of investment that can give higher returns than regular bonds. They use VCRNs to attract people who want to take a bit more risk for the chance of earning more money.
+VCRNs are usually issued by big banks and financial companies. These institutions create VCRNs to offer investors a different kind of investment that can give higher returns than regular bonds. They use VCRNs to attract people who want to take a bit more risk for the chance of [earning](/wiki/earning-announcement) more money.
 
 Sometimes, big companies that need to raise money might also issue VCRNs. They do this because VCRNs can be an interesting way to get funds from investors who are looking for something different from traditional bonds. By offering VCRNs, these companies can tap into a market of investors who are willing to take on more risk for potentially higher rewards.
 
@@ -50,7 +50,7 @@ Also, VCRNs can be hard to understand and might not be easy to sell if you need 
 
 The coupon rate in a VCRN is not fixed like in a regular bond. Instead, it changes based on how well an asset, like a stock or an index, is doing. If the asset does well, the coupon rate goes up, and you get more interest. But if the asset doesn't do well, the coupon rate can go down, and you might get less interest or even no interest at all.
 
-This means that the coupon rate is tied to the performance of the underlying asset. At the start of each period, the issuer looks at how the asset has done and then decides what the coupon rate will be for that period. This makes VCRNs different from regular bonds, where the interest rate stays the same no matter what happens to other investments.
+This means that the coupon rate is tied to the performance of the underlying asset. At the start of each period, the issuer looks at how the asset has done and then decides what the coupon rate will be for that period. This makes VCRNs different from regular bonds, where the [interest rate](/wiki/interest-rate-trading-strategies) stays the same no matter what happens to other investments.
 
 ## Can you explain the renewal process of a VCRN?
 

@@ -18,7 +18,7 @@ In finance, a folio number is used in mutual funds to keep track of an investor'
 
 A folio number and a page number are used to help find things in books or documents, but they are a bit different. A page number is just a number that shows where a single page is in a book. It starts at the beginning of the book and goes up by one for each page. For example, if you want to read chapter 5, you might look for page 50.
 
-A folio number, on the other hand, is a special number given to a whole document or a group of documents. It's not just about one page but can cover many pages or even several documents. For example, in a library, a book might have a folio number like "Folio 1234" to help keep track of it among many other books. So, while a page number helps you find a specific page, a folio number helps you find and organize a whole document or set of documents.
+A folio number, on the other hand, is a special number given to a whole document or a group of documents. It's not just about one page but can cover many pages or even several documents. For example, in a library, a book might have a folio number like "Folio 1234" to help keep track of it among many other [books](/wiki/algo-trading-books). So, while a page number helps you find a specific page, a folio number helps you find and organize a whole document or set of documents.
 
 ## In which types of documents are folio numbers commonly used?
 

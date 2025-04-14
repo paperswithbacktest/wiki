@@ -54,7 +54,7 @@ But, it's important to know that past results don't mean the same thing will hap
 
 Trexquant Investment uses a lot of computers and special software to help them make smart choices about where to invest money. They have their own special computer programs that look at a lot of numbers and data. These programs help them find patterns and trends that can tell them which investments might do well. They also use big computers called servers to handle all the data they need to look at. This helps them make decisions quickly and accurately.
 
-They also use something called machine learning, which is a kind of computer program that can learn from the data it sees. This helps Trexquant's programs get better at finding good investments over time. They use these tools to look at things like stock prices, how much companies are worth, and what's happening in the economy. By using all these technological tools, Trexquant can make choices based on a lot of information, which helps them try to make more money for their clients.
+They also use something called [machine learning](/wiki/machine-learning), which is a kind of computer program that can learn from the data it sees. This helps Trexquant's programs get better at finding good investments over time. They use these tools to look at things like stock prices, how much companies are worth, and what's happening in the economy. By using all these technological tools, Trexquant can make choices based on a lot of information, which helps them try to make more money for their clients.
 
 ## How does Trexquant Investment manage risk in its investment portfolios?
 
@@ -66,7 +66,7 @@ They also use something called diversification, which means they don't put all t
 
 Trexquant Investment has had some big successes by using computers and math to make smart choices about where to invest money. One example is how they used their special computer programs to find patterns in the stock market that other people missed. This helped them make a lot of money for their clients, like pension funds and endowments. They were able to beat the S&P 500, which is a big benchmark that a lot of people use to see how the market is doing.
 
-Another success story is how Trexquant used something called machine learning to get better at picking investments over time. Machine learning is a kind of computer program that can learn from the data it sees. By using this, Trexquant's programs got better at finding good investments. This helped them manage risk better and make more money for their clients. These successes show how Trexquant's focus on numbers and data can lead to good results.
+Another success story is how Trexquant used something called machine learning to get better at [picking](/wiki/asset-class-picking) investments over time. Machine learning is a kind of computer program that can learn from the data it sees. By using this, Trexquant's programs got better at finding good investments. This helped them manage risk better and make more money for their clients. These successes show how Trexquant's focus on numbers and data can lead to good results.
 
 ## How does Trexquant Investment stay compliant with financial regulations?
 

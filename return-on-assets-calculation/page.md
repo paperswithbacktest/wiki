@@ -151,7 +151,7 @@ Combining ROA with ROE and ROI provides a more comprehensive overview of a compa
 
 ## References & Further Reading
 
-To gain a more comprehensive understanding of Return on Assets (ROA) and its application in financial analysis and algorithmic trading, several resources may prove useful for further exploration. 
+To gain a more comprehensive understanding of Return on Assets (ROA) and its application in financial analysis and [algorithmic trading](/wiki/algorithmic-trading), several resources may prove useful for further exploration. 
 
 1. **Financial Ratios for Executives: How to Assess Company Strength, Fix Problems, and Make Better Decisions** by Michael Rist. This book provides a broad overview of financial ratios, including ROA, and their significance in corporate decision-making processes.
 

@@ -30,7 +30,7 @@ On the other hand, if the person doing wash trading wants the price to go down, 
 
 One common sign of wash trading is when you see a lot of trading happening for the same thing, but the price doesn't change much. This can happen because the same person or group is buying and selling to themselves, so the price stays the same even though it looks like there's a lot of activity. Another sign is if the trading volume, which means how much is being bought and sold, is much higher than usual for no clear reason. This can make people think that something is more popular than it really is.
 
-Another thing to watch out for is if the same amounts of the thing are being bought and sold over and over again. For example, if you see the same number of shares or the same amount of cryptocurrency being traded back and forth, it might be a sign of wash trading. It's also suspicious if the trading happens at times when not many people are usually trading, like late at night or very early in the morning. These patterns can help you spot when someone might be trying to trick the market.
+Another thing to watch out for is if the same amounts of the thing are being bought and sold over and over again. For example, if you see the same number of shares or the same amount of [cryptocurrency](/wiki/cryptocurrency) being traded back and forth, it might be a sign of wash trading. It's also suspicious if the trading happens at times when not many people are usually trading, like late at night or very early in the morning. These patterns can help you spot when someone might be trying to trick the market.
 
 ## Can you explain the basic mechanism of wash trading?
 

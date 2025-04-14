@@ -78,7 +78,7 @@ During the big drop in 2020 because of the COVID-19 pandemic, the government did
 
 People use different math models to try to guess when big drops in market cap might happen. One common model is called the GARCH model, which stands for Generalized Autoregressive Conditional Heteroskedasticity. This model looks at how much stock prices move around over time. It helps predict when the market might get really shaky and have a big drop. Another model is the ARIMA model, which stands for Autoregressive Integrated Moving Average. This model looks at past stock prices to find patterns and guess what might happen next. Both of these models use a lot of numbers and past data to make their guesses.
 
-Another way to predict big drops is by using machine learning. This is when computers learn from a lot of data to find patterns that people might not see. For example, they might look at news articles, social media posts, and other information to see if people are getting scared or worried about the market. If the computer sees a lot of worry, it might guess that a big drop is coming. These models are really helpful, but they're not perfect. The stock market can be hard to predict because it's affected by so many things, like what people feel and what's happening in the world.
+Another way to predict big drops is by using [machine learning](/wiki/machine-learning). This is when computers learn from a lot of data to find patterns that people might not see. For example, they might look at news articles, social media posts, and other information to see if people are getting scared or worried about the market. If the computer sees a lot of worry, it might guess that a big drop is coming. These models are really helpful, but they're not perfect. The stock market can be hard to predict because it's affected by so many things, like what people feel and what's happening in the world.
 
 ## How do international market events influence U.S. stock market cap declines?
 
@@ -102,7 +102,7 @@ Understanding the implications of market capitalization fluctuations is vital. A
 
 ## How does algo trading impact market cap declines?
 
-Algorithmic trading, characterized by its automation and speed, can significantly impact market capitalization declines in the stock market. By executing large-[volume](/wiki/volume-trading-strategy) trades based on predefined algorithms in response to specific market signals, algorithmic trading can amplify market volatility, particularly during periods of market stress.
+Algorithmic trading, characterized by its automation and speed, can significantly impact market capitalization declines in the stock market. By executing large-[volume](/wiki/volume-trading-strategy) trades based on predefined algorithms in response to specific market signals, [algorithmic trading](/wiki/algorithmic-trading) can amplify market [volatility](/wiki/volatility-trading-strategies), particularly during periods of market stress.
 
 During turbulent market conditions, trading algorithms can autonomously trigger mass sell orders when detecting negative market signals. These automated actions can lead to sharp and swift declines in stock prices, contributing to a faster reduction in market capitalization. The ability of these algorithms to react almost instantaneously poses a significant risk during market downturns, as seen during historical events like the 1987 crash and more recent "flash crashes". These occurrences highlight how algorithmic trading can create a self-reinforcing cycle, often referred to as a 'poisonous feedback loop', wherein initial price declines trigger further algorithm-driven selling, exacerbating the downward pressure on stock prices.
 
@@ -116,7 +116,7 @@ $$
 
 demonstrates how quickly a plummeting share price can lead to a steep decline in market cap, especially when amplified by algorithmic trading strategies.
 
-Although algorithmic trading enhances market operations by providing liquidity and reducing transaction costs during stable periods, its potential to disrupt markets during declines necessitates careful oversight. Balancing the benefits of efficiency and automation with the risks of volatility is crucial for maintaining a resilient and stable financial market environment. Ensuring that algorithms are well-constructed and dynamically adjusted to market conditions is essential to prevent unintended consequences and sustain healthy market operations.
+Although algorithmic trading enhances market operations by providing [liquidity](/wiki/liquidity-risk-premium) and reducing transaction costs during stable periods, its potential to disrupt markets during declines necessitates careful oversight. Balancing the benefits of efficiency and automation with the risks of volatility is crucial for maintaining a resilient and stable financial market environment. Ensuring that algorithms are well-constructed and dynamically adjusted to market conditions is essential to prevent unintended consequences and sustain healthy market operations.
 
 ## References & Further Reading
 

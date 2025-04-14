@@ -22,9 +22,9 @@ Also, good risk management helps traders keep trading over the long term. If you
 
 ## What are the basic types of risks encountered in quantitative trading?
 
-In quantitative trading, there are several basic types of risks that traders need to be aware of. One major type is market risk, which is the risk that the whole market will go down and affect the value of your investments. This can happen because of big events like economic crises or changes in interest rates. Another type is model risk, which comes from using mathematical models to predict how the market will move. If the model is wrong or based on bad data, it can lead to losses.
+In [quantitative trading](/wiki/quantitative-trading), there are several basic types of risks that traders need to be aware of. One major type is market risk, which is the risk that the whole market will go down and affect the value of your investments. This can happen because of big events like economic crises or changes in interest rates. Another type is model risk, which comes from using mathematical models to predict how the market will move. If the model is wrong or based on bad data, it can lead to losses.
 
-Another important risk is liquidity risk, which is the risk that you won't be able to buy or sell an asset quickly enough without affecting its price. This can be a problem if you need to get out of a trade fast. There's also operational risk, which includes things like computer failures or mistakes made by people working on the trading systems. These can cause trades to go wrong even if the market is doing well.
+Another important risk is [liquidity](/wiki/liquidity-risk-premium) risk, which is the risk that you won't be able to buy or sell an asset quickly enough without affecting its price. This can be a problem if you need to get out of a trade fast. There's also operational risk, which includes things like computer failures or mistakes made by people working on the trading systems. These can cause trades to go wrong even if the market is doing well.
 
 Finally, there's leverage risk, which comes from borrowing money to make bigger trades. While this can increase your profits, it can also increase your losses if the market moves against you. Understanding these risks and how to manage them is key to being successful in quantitative trading.
 

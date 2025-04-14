@@ -24,7 +24,7 @@ Having cash and cash equivalents also gives businesses the flexibility to take a
 
 Cash equivalents are things that are almost as good as cash because they can be turned into cash very quickly, usually within 90 days. The main types of cash equivalents include money market funds, treasury bills, and short-term government bonds. Money market funds are like savings accounts where you put your money with other people's money to invest in safe, short-term things like government securities. Treasury bills are short-term loans you give to the government, and they pay you back with a little interest when they mature. Short-term government bonds are similar but might last a bit longer, up to a year.
 
-These cash equivalents are important because they are very safe and easy to turn into cash. They help businesses and people keep their money working for them while still being able to use it when they need to. For example, if a business needs to buy more supplies quickly, they can sell their treasury bills and get the cash they need right away. This makes cash equivalents a smart way to keep money ready for use but also earning a little bit of interest.
+These cash equivalents are important because they are very safe and easy to turn into cash. They help businesses and people keep their money working for them while still being able to use it when they need to. For example, if a business needs to buy more supplies quickly, they can sell their treasury bills and get the cash they need right away. This makes cash equivalents a smart way to keep money ready for use but also [earning](/wiki/earning-announcement) a little bit of interest.
 
 ## Can you provide examples of cash?
 
@@ -76,7 +76,7 @@ Another strategy is to use a cash management system. This system helps businesse
 
 ## How do cash and cash equivalents impact a company's liquidity and financial health?
 
-Cash and cash equivalents are super important for a company's liquidity and financial health. Liquidity means how easily a company can turn its assets into cash to pay for things it needs. When a company has a lot of cash and cash equivalents, it can quickly pay its bills, buy supplies, or take advantage of new opportunities. This makes the company more flexible and able to handle unexpected costs or emergencies. If a company doesn't have enough cash, it might struggle to keep up with its daily expenses, which can lead to bigger problems down the road.
+Cash and cash equivalents are super important for a company's [liquidity](/wiki/liquidity-risk-premium) and financial health. Liquidity means how easily a company can turn its assets into cash to pay for things it needs. When a company has a lot of cash and cash equivalents, it can quickly pay its bills, buy supplies, or take advantage of new opportunities. This makes the company more flexible and able to handle unexpected costs or emergencies. If a company doesn't have enough cash, it might struggle to keep up with its daily expenses, which can lead to bigger problems down the road.
 
 Having enough cash and cash equivalents also shows that a company is financially healthy. It means the company is good at managing its money and can cover its short-term needs without borrowing or selling other assets. Investors and lenders look at a company's cash and cash equivalents to see if it's a safe bet. If a company has a strong cash position, it's more likely to get loans or attract investors. On the other hand, if a company is always short on cash, it might be seen as risky, which can make it harder to grow or even stay in business.
 
@@ -92,7 +92,7 @@ Cash equivalents are vital components in any investment strategy, especially in 
 
 ### Importance for Financial Stability and Risk Management
 
-Cash equivalents play a critical role in financial stability and risk management. In uncertain markets, holding cash equivalents can help investors buffer against market volatility, enabling them to meet short-term liabilities without needing to sell off long-term investments at a loss. These instruments ensure that investors have ready access to funds, which is crucial in addressing unexpected financial needs.
+Cash equivalents play a critical role in financial stability and risk management. In uncertain markets, holding cash equivalents can help investors buffer against market [volatility](/wiki/volatility-trading-strategies), enabling them to meet short-term liabilities without needing to sell off long-term investments at a loss. These instruments ensure that investors have ready access to funds, which is crucial in addressing unexpected financial needs.
 
 ### Integration into Investment Strategies
 

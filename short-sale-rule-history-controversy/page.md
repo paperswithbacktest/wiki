@@ -60,7 +60,7 @@ Others argue that the Short Sale Rule does not really stop big drops in the stoc
 
 The Short Sale Rule can make the stock market less liquid. Liquidity means how easy it is to buy and sell stocks. When the rule is in place, people can only short sell stocks when the price is going up a little bit. This can make it harder for people to trade stocks because they have to wait for the right time to short sell. If people cannot short sell when they want to, it can slow down trading and make the market less active. This can be a problem because a liquid market is important for keeping prices fair and stable.
 
-On the other hand, some people think the Short Sale Rule can help keep the market stable, which can be good for liquidity in the long run. If the rule stops big, sudden drops in stock prices, it can make people feel safer about trading. When people feel safer, they might be more willing to buy and sell stocks, which can make the market more liquid. But this depends on whether the rule really works to stop big drops in the market. If it does not, then the rule might just make trading harder without helping liquidity.
+On the other hand, some people think the Short Sale Rule can help keep the market stable, which can be good for [liquidity](/wiki/liquidity-risk-premium) in the long run. If the rule stops big, sudden drops in stock prices, it can make people feel safer about trading. When people feel safer, they might be more willing to buy and sell stocks, which can make the market more liquid. But this depends on whether the rule really works to stop big drops in the market. If it does not, then the rule might just make trading harder without helping liquidity.
 
 ## What role did the Short Sale Rule play during financial crises?
 

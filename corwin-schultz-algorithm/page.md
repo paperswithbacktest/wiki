@@ -24,7 +24,7 @@ They published their method in a paper in 2012. Their algorithm uses the high an
 
 The Corwin-Schultz algorithm solves the problem of figuring out the bid-ask spread of a stock without needing a lot of detailed trading data. The bid-ask spread is the difference between the highest price someone is willing to pay for a stock (the bid) and the lowest price someone is willing to sell it for (the ask). This spread is important because it shows how easy or hard it is to buy or sell a stock. Knowing the spread helps people understand how much it might cost to trade a stock and how liquid the market is.
 
-The algorithm uses just the high and low prices of a stock over two days to estimate this spread. This is really helpful for researchers and analysts who don't have access to all the detailed trading information. For example, if you're studying old stock data or markets where detailed trade information isn't available, the Corwin-Schultz algorithm lets you still get a good idea of the bid-ask spread. This makes it easier to study and understand market dynamics and liquidity without needing a lot of data.
+The algorithm uses just the high and low prices of a stock over two days to estimate this spread. This is really helpful for researchers and analysts who don't have access to all the detailed trading information. For example, if you're studying old stock data or markets where detailed trade information isn't available, the Corwin-Schultz algorithm lets you still get a good idea of the bid-ask spread. This makes it easier to study and understand market dynamics and [liquidity](/wiki/liquidity-risk-premium) without needing a lot of data.
 
 ## Can you explain the basic steps of the Corwin-Schultz algorithm?
 
@@ -84,7 +84,7 @@ Another way to make the Corwin-Schultz algorithm work better in a distributed se
 
 The Corwin-Schultz algorithm offers a streamlined approach to estimating bid-ask spreads by utilizing daily high and low prices over consecutive days. It operates on the foundational premise that these price extremes contain essential information about the underlying spread. This approach circumvents the need for exhaustive tick-by-tick data, which is often costly and challenging to obtain, especially for traders dealing with historical data.
 
-The algorithm is designed under the assumption that asset prices follow a geometric Brownian motion. This widely used model in financial mathematics depicts price movements as continuous paths influenced by stochastic processes. The use of geometric Brownian motion enables the modeling of price variances over a period, capturing the natural log price changes that occur due to market volatility and participant actions.
+The algorithm is designed under the assumption that asset prices follow a geometric Brownian motion. This widely used model in financial mathematics depicts price movements as continuous paths influenced by stochastic processes. The use of geometric Brownian motion enables the modeling of price variances over a period, capturing the natural log price changes that occur due to market [volatility](/wiki/volatility-trading-strategies) and participant actions.
 
 To implement the Corwin-Schultz estimator, traders apply it to two consecutive days of high and low prices. The mathematical formulation ultimately derives from the variance that these daily highs and lows exhibit. Specifically, the algorithm examines the relationship between consecutive days' high-low price variations to yield an approximate estimate of the bid-ask spread:
 

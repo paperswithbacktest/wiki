@@ -36,7 +36,7 @@ Both RPM and ASM are important for airlines to understand their business. RPM sh
 
 ## How does RPM affect an airline's profitability?
 
-RPM, or Revenue Passenger Mile, is important for an airline's profitability because it shows how much money the airline makes from passengers. When more people fly and pay for their tickets, the RPM goes up. This means the airline is earning more money from the seats on its planes. If the RPM is high, it can mean the airline is doing well and making a good profit.
+RPM, or Revenue Passenger Mile, is important for an airline's profitability because it shows how much money the airline makes from passengers. When more people fly and pay for their tickets, the RPM goes up. This means the airline is [earning](/wiki/earning-announcement) more money from the seats on its planes. If the RPM is high, it can mean the airline is doing well and making a good profit.
 
 On the other hand, if the RPM is low, it can mean fewer people are flying with the airline. This can hurt the airline's profits because they are not making as much money from passengers. Airlines need to watch their RPM closely to make sure they are pricing their tickets right and attracting enough passengers to stay profitable.
 

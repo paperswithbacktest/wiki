@@ -116,7 +116,7 @@ where $\text{TR}_t$ (True Range) is calculated from the maximum of:
 
 By programming algorithms to monitor ATR values, traders can automatically identify days when volatility spikes, signifying a wide-ranging day.
 
-The inclusion of wide-ranging day detection allows algorithms to react swiftly to potential market movements. These algorithms adjust trading parameters or initiate trades based on established criteria whenever such days are detected. For example, an algorithm could be programmed to execute a breakout strategy upon identifying a wide-ranging day, capitalizing on the likelihood of continued volatility in a particular direction.
+The inclusion of wide-ranging day detection allows algorithms to react swiftly to potential market movements. These algorithms adjust trading parameters or initiate trades based on established criteria whenever such days are detected. For example, an algorithm could be programmed to execute a [breakout](/wiki/breakout-trading) strategy upon identifying a wide-ranging day, capitalizing on the likelihood of continued volatility in a particular direction.
 
 In practical terms, implementing wide-ranging day recognition within a trading algorithm might involve the following Python snippet utilizing a library such as pandas:
 

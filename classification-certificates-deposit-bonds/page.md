@@ -22,7 +22,7 @@ Bonds are considered safer than stocks because they have a set schedule for gett
 
 ## How are Certificates of Deposit similar to bonds?
 
-Certificates of Deposit (CDs) and bonds are similar because they both help you save money and earn interest. When you put your money in a CD or buy a bond, you agree to leave it there for a certain amount of time. In return, you get paid interest. CDs usually pay a fixed interest rate, and so do most bonds. This means you know exactly how much money you will earn if you keep your money in them until the end of the term.
+Certificates of Deposit (CDs) and bonds are similar because they both help you save money and earn interest. When you put your money in a CD or buy a bond, you agree to leave it there for a certain amount of time. In return, you get paid interest. CDs usually pay a fixed [interest rate](/wiki/interest-rate-trading-strategies), and so do most bonds. This means you know exactly how much money you will earn if you keep your money in them until the end of the term.
 
 Another way CDs and bonds are alike is that they are both considered safe ways to save money. CDs are insured by the government, so if the bank fails, you won't lose your money. Bonds are also safe, especially if they are from the government or a company with a good credit rating. Both CDs and bonds have penalties if you take your money out early, so you need to be sure you won't need the money before the term is up.
 
@@ -42,7 +42,7 @@ The key differences between CDs and bonds also highlight why they are not the sa
 
 Financial regulations clearly separate Certificates of Deposit (CDs) from bonds. CDs are governed by banking regulations, specifically those related to deposit accounts. In the United States, the Federal Deposit Insurance Corporation (FDIC) insures CDs up to a certain amount, which makes them very safe for savers. This insurance means that even if the bank fails, your money in a CD is protected. The rules for CDs are designed to make sure banks can manage the money they take in from depositors and pay it back with interest when the CD matures.
 
-On the other hand, bonds are regulated under securities laws. When a company or government issues a bond, they are borrowing money from investors. The Securities and Exchange Commission (SEC) oversees bonds to make sure that issuers provide accurate information to investors. Unlike CDs, bonds are not insured by the government, so they carry more risk. The regulations for bonds focus on transparency and the ability of the issuer to pay back the bond at maturity. These different sets of rules show why CDs and bonds are classified separately and cannot be considered the same type of financial product.
+On the other hand, bonds are regulated under securities laws. When a company or government issues a bond, they are borrowing money from investors. The Securities and Exchange Commission (SEC) oversees bonds to make sure that issuers provide accurate information to investors. Unlike CDs, bonds are not insured by the government, so they [carry](/wiki/carry-trading) more risk. The regulations for bonds focus on transparency and the ability of the issuer to pay back the bond at maturity. These different sets of rules show why CDs and bonds are classified separately and cannot be considered the same type of financial product.
 
 ## How do the interest rates of CDs compare to those of bonds?
 

@@ -18,7 +18,7 @@ This kind of analysis is important because it can help new business owners avoid
 
 To calculate initial cash flow, you start by adding up all the money you expect to come into your business right at the beginning. This includes any money you invest yourself, loans you get, or money from selling things or services. Then, you subtract all the money that goes out, like the cost of buying equipment, paying rent, salaries, and other expenses you have to pay before you start making money from sales.
 
-This gives you a clear picture of whether you'll have enough money to keep your business running until it starts making a profit. If your cash flow is negative, it means you're spending more than you're earning, and you might need to find more money or cut costs. If it's positive, you have more money coming in than going out, which is a good sign for the early days of your business.
+This gives you a clear picture of whether you'll have enough money to keep your business running until it starts making a profit. If your cash flow is negative, it means you're spending more than you're [earning](/wiki/earning-announcement), and you might need to find more money or cut costs. If it's positive, you have more money coming in than going out, which is a good sign for the early days of your business.
 
 ## What are the key components of an initial cash flow statement?
 
@@ -149,5 +149,5 @@ Overall, financial analysis is an indispensable tool in strategic management, en
   2. Lopez de Prado, M. (2015). "Building Diversified Portfolios that Outperform Out-of-Sample." [SSRN Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2592759). This paper discusses financial modeling and diversification strategies.
   3. Mack, A. (2020). "Python for Finance: Mastering Data-Driven Finance." O'Reilly Media. A hands-on approach to using Python for financial analysis and machine learning.
 
-These resources provide a comprehensive view of the interconnected fields of cash flow analysis, financial statement analysis, and algorithmic trading. They also cover the introduction and application of machine learning in developing and executing trading strategies.
+These resources provide a comprehensive view of the interconnected fields of cash flow analysis, financial statement analysis, and [algorithmic trading](/wiki/algorithmic-trading). They also cover the introduction and application of [machine learning](/wiki/machine-learning) in developing and executing trading strategies.
 

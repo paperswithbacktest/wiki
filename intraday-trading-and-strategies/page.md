@@ -22,7 +22,7 @@ Next, you need a good computer or smartphone with a strong internet connection. 
 
 ## How can beginners select the right stocks for intraday trading?
 
-For beginners, picking the right stocks for intraday trading can be hard but important. One good way to start is by looking at stocks that have a lot of people trading them. These stocks are called high volume stocks. When a stock has high volume, it means many people are buying and selling it, so the price can move more easily during the day. This can be good for intraday trading because it gives more chances to make money from small price changes. Another thing to look at is the stock's volatility, which means how much the price goes up and down. Stocks that move a lot can be good for intraday trading, but they can also be riskier.
+For beginners, [picking](/wiki/asset-class-picking) the right stocks for intraday trading can be hard but important. One good way to start is by looking at stocks that have a lot of people trading them. These stocks are called high [volume](/wiki/volume-trading-strategy) stocks. When a stock has high volume, it means many people are buying and selling it, so the price can move more easily during the day. This can be good for intraday trading because it gives more chances to make money from small price changes. Another thing to look at is the stock's [volatility](/wiki/volatility-trading-strategies), which means how much the price goes up and down. Stocks that move a lot can be good for intraday trading, but they can also be riskier.
 
 It's also a good idea to look at the news and what's happening in the world. If there's big news about a company or something happening that could affect a stock's price, it might be a good time to trade that stock. For example, if a company is about to release new products or earnings reports, the stock price might move a lot that day. Beginners should also use tools like stock screeners to help find good stocks. These tools let you set certain rules, like only showing stocks with high volume or big price moves, to help you find the right ones to trade.
 
@@ -30,9 +30,9 @@ Lastly, it's important for beginners to start small and learn as they go. Don't 
 
 ## What are the most common intraday trading strategies for beginners?
 
-One common intraday trading strategy for beginners is called the "Breakout" strategy. This means you watch a stock's price and wait for it to move past a certain point, like a high or low it reached before. When the price breaks out past this point, you buy the stock if it's going up, or sell it if it's going down. The idea is that once the price breaks out, it will keep moving in that direction for a while, so you can make money from the move. Beginners should use this strategy with stocks that have a lot of people trading them, because those stocks are more likely to keep moving after a breakout.
+One common intraday trading strategy for beginners is called the "Breakout" strategy. This means you watch a stock's price and wait for it to move past a certain point, like a high or low it reached before. When the price breaks out past this point, you buy the stock if it's going up, or sell it if it's going down. The idea is that once the price breaks out, it will keep moving in that direction for a while, so you can make money from the move. Beginners should use this strategy with stocks that have a lot of people trading them, because those stocks are more likely to keep moving after a [breakout](/wiki/breakout-trading).
 
-Another strategy beginners can try is called "Scalping." With scalping, you make a lot of small trades during the day, trying to make a little bit of money from each one. You look for small changes in the price of a stock and quickly buy and sell to make a profit. This strategy works well with stocks that move a lot during the day. It's important to be quick and pay attention to the market when you're scalping, because you need to get in and out of trades fast.
+Another strategy beginners can try is called "Scalping." With [scalping](/wiki/gamma-scalping), you make a lot of small trades during the day, trying to make a little bit of money from each one. You look for small changes in the price of a stock and quickly buy and sell to make a profit. This strategy works well with stocks that move a lot during the day. It's important to be quick and pay attention to the market when you're scalping, because you need to get in and out of trades fast.
 
 A third strategy is "Momentum Trading." This means you look for stocks that are already moving up or down fast and you trade in the same direction. If a stock's price is going up quickly, you buy it, hoping it will keep going up so you can sell it for a profit. If it's going down fast, you might sell it or short it, expecting the price to keep falling. This strategy works best with stocks that are in the news or have something big happening that day, because those stocks are more likely to keep moving in the same direction.
 
@@ -86,7 +86,7 @@ To overcome these challenges, traders need to stay calm and stick to their plan.
 
 ## How can one develop a robust trading plan?
 
-A well-defined trading plan is crucial for achieving consistent success in day trading and intraday trading. A structured plan provides the framework needed to navigate the complexities of the stock market, manage risk effectively, and make informed decisions.
+A well-defined trading plan is crucial for achieving consistent success in [day trading](/wiki/day-trading-spy) and intraday trading. A structured plan provides the framework needed to navigate the complexities of the stock market, manage risk effectively, and make informed decisions.
 
 ### Goal Setting and Risk Management
 

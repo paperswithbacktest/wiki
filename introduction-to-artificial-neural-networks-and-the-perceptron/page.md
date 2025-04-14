@@ -30,13 +30,13 @@ The neuron does its calculations using something called weights and a bias. Thin
 
 A neural network is made up of layers of neurons, kind of like a stack of pancakes. At the bottom, you have the input layer, which takes in the data you want the network to look at. This could be numbers from a picture, sounds from a voice, or any other kind of information. The middle part is called the hidden layer, or sometimes there are several hidden layers. These layers do the heavy lifting, figuring out patterns and making sense of the data. At the top, there's the output layer, which gives you the final answer or prediction based on what the network has learned.
 
-The neurons in each layer are connected to neurons in the next layer. These connections are like little roads that carry information from one neuron to another. Each connection has a weight, which is like a volume knob that can make the information louder or quieter. When the network is learning, it adjusts these weights to get better at its job. The neurons also have a bias, which is like a starting point that can shift the whole calculation up or down. By working together, the layers and their connections help the neural network to learn and make decisions, much like how our brains work.
+The neurons in each layer are connected to neurons in the next layer. These connections are like little roads that [carry](/wiki/carry-trading) information from one neuron to another. Each connection has a weight, which is like a [volume](/wiki/volume-trading-strategy) knob that can make the information louder or quieter. When the network is learning, it adjusts these weights to get better at its job. The neurons also have a bias, which is like a starting point that can shift the whole calculation up or down. By working together, the layers and their connections help the neural network to learn and make decisions, much like how our brains work.
 
 ## What is a Perceptron and who invented it?
 
 A Perceptron is a type of artificial neural network that was one of the first models created to try to mimic how the brain works. It's a simple model that can learn to make decisions based on the data it gets. Imagine it like a kid learning to tell the difference between apples and oranges. The Perceptron looks at the features of the fruit, like color and shape, and then decides if it's an apple or an orange. It does this by adjusting how much it pays attention to each feature, kind of like how the kid might focus more on the color after a few tries.
 
-The Perceptron was invented by Frank Rosenblatt in the late 1950s. Rosenblatt was a psychologist and computer scientist who wanted to understand how humans learn and make decisions. He came up with the Perceptron as a way to build machines that could do the same thing. While the Perceptron is pretty basic compared to today's complex neural networks, it was a big step forward at the time and helped pave the way for the development of more advanced artificial intelligence.
+The Perceptron was invented by Frank Rosenblatt in the late 1950s. Rosenblatt was a psychologist and computer scientist who wanted to understand how humans learn and make decisions. He came up with the Perceptron as a way to build machines that could do the same thing. While the Perceptron is pretty basic compared to today's complex neural networks, it was a big step forward at the time and helped pave the way for the development of more advanced [artificial intelligence](/wiki/ai-artificial-intelligence).
 
 ## How does a Perceptron work?
 
@@ -82,7 +82,7 @@ Another way Perceptrons are used is in basic pattern recognition tasks. Imagine 
 
 ## What is Understanding Perceptrons?
 
-Perceptrons represent the foundational building blocks of neural network models, pivotal in advancing machine learning applications. Originally conceptualized by Frank Rosenblatt in 1958, the perceptron was developed as a single-layer neural network intended for binary classification tasks. It was a pioneering step in making computers capable of learning from data and adapting to new information.
+Perceptrons represent the foundational building blocks of neural network models, pivotal in advancing [machine learning](/wiki/machine-learning) applications. Originally conceptualized by Frank Rosenblatt in 1958, the perceptron was developed as a single-layer neural network intended for binary classification tasks. It was a pioneering step in making computers capable of learning from data and adapting to new information.
 
 At its core, a perceptron consists of several input nodes, each representing a feature of the input data. These inputs are associated with weights, numerical values that signify their importance in the decision-making process. The perceptron aggregates the weighted inputs and produces an output through a linear combination, mathematically expressed as: 
 

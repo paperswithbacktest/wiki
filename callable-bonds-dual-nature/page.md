@@ -22,7 +22,7 @@ This early payback can be good or bad for you as an investor. If the bond is cal
 
 ## What are the advantages of issuing callable bonds for a company?
 
-Issuing callable bonds gives a company more flexibility with its money. If interest rates go down after the company has issued the bonds, they can call the bonds back and pay them off early. Then, the company can issue new bonds at the lower interest rate. This saves the company money because they don't have to keep paying the higher interest on the old bonds.
+Issuing callable bonds gives a company more flexibility with its money. If interest rates go down after the company has issued the bonds, they can call the bonds back and pay them off early. Then, the company can issue new bonds at the lower [interest rate](/wiki/interest-rate-trading-strategies). This saves the company money because they don't have to keep paying the higher interest on the old bonds.
 
 Another advantage is that callable bonds can help a company manage its debt better. If the company's financial situation improves or if they have extra money, they can call the bonds back and reduce their debt load. This can make the company look better to investors and can help them avoid paying interest for longer than they need to. Overall, callable bonds give companies a way to adapt to changing financial conditions and manage their money more efficiently.
 
@@ -54,7 +54,7 @@ The importance of call protection lies in reducing the risk for investors. Witho
 
 When interest rates go down, companies are more likely to call their bonds back. This is because they can save money by paying off the old bonds and then issuing new ones at the lower interest rate. If a company has a bond that pays 5% interest and rates drop to 3%, they can call the 5% bond back, give investors their money, and then borrow new money at 3%. This way, the company pays less in interest over time.
 
-On the other hand, if interest rates go up, companies are less likely to call their bonds. If rates rise to 6% and the company has a bond paying 5%, it wouldn't make sense to call the bond back. They would have to pay more interest on new bonds, so they'll keep the old ones going until they reach their maturity date. This means investors can keep earning the 5% interest until the bond ends.
+On the other hand, if interest rates go up, companies are less likely to call their bonds. If rates rise to 6% and the company has a bond paying 5%, it wouldn't make sense to call the bond back. They would have to pay more interest on new bonds, so they'll keep the old ones going until they reach their maturity date. This means investors can keep [earning](/wiki/earning-announcement) the 5% interest until the bond ends.
 
 ## What are the key considerations for an investor when analyzing callable bonds?
 
@@ -97,7 +97,7 @@ Diversification also helps mitigate the unique risks associated with callable bo
 
 ## How can risk be managed in callable bonds and algo trading?
 
-Callable bonds and algorithmic trading each have specific risks that investors need to navigate effectively to optimize their investment strategies. A solid understanding of these risks is key to successful management and mitigation.
+Callable bonds and [algorithmic trading](/wiki/algorithmic-trading) each have specific risks that investors need to navigate effectively to optimize their investment strategies. A solid understanding of these risks is key to successful management and mitigation.
 
 Callable bonds come with inherent reinvestment risk. Reinvestment risk occurs when the bonds are called before maturity, often when interest rates have fallen. This obliges the investor to reinvest the principal at the prevailing lower interest rates, potentially reducing the overall returns. To gauge this risk, investors often employ yield-to-call calculations. The formula to determine yield-to-call is:
 

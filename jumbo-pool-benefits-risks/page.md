@@ -46,7 +46,7 @@ Another risk is that not enough people might want to use the Jumbo Pool. If you 
 
 ## How does liquidity in a Jumbo Pool compare to other investment options?
 
-A Jumbo Pool is not like other investments where you can easily turn your money into cash. If you put money into a Jumbo Pool, it's like buying a big, fun thing that you can't sell quickly. You can't just take your money out whenever you want because the pool is a physical thing that takes time and effort to sell. So, a Jumbo Pool has very low liquidity compared to other investments like stocks or bonds, where you can usually sell your investment and get your money back much faster.
+A Jumbo Pool is not like other investments where you can easily turn your money into cash. If you put money into a Jumbo Pool, it's like buying a big, fun thing that you can't sell quickly. You can't just take your money out whenever you want because the pool is a physical thing that takes time and effort to sell. So, a Jumbo Pool has very low [liquidity](/wiki/liquidity-risk-premium) compared to other investments like stocks or bonds, where you can usually sell your investment and get your money back much faster.
 
 On the other hand, investments like stocks or savings accounts are much more liquid. With stocks, you can sell them on the stock market and get your money back in a few days. Savings accounts are even easier because you can take out your money anytime you need it. These options give you the flexibility to use your money when you need it, which is something you don't get with a Jumbo Pool. So, if you need your money to be available quickly, a Jumbo Pool is not a good choice.
 

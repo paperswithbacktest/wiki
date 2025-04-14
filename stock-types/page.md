@@ -24,7 +24,7 @@ Preferred stocks are different because they usually don't let you vote on compan
 
 ## What are growth stocks and how do they differ from value stocks?
 
-Growth stocks are stocks from companies that are growing really fast. These companies usually don't pay dividends because they use all their money to grow even more. People buy growth stocks because they hope the company will keep growing and the price of the stock will go up a lot. But, growth stocks can be risky because if the company stops growing, the price of the stock can fall quickly.
+Growth stocks are stocks from companies that are growing really fast. These companies usually don't pay dividends because they use all their money to grow even more. People buy [growth stocks](/wiki/growth-stocks) because they hope the company will keep growing and the price of the stock will go up a lot. But, growth stocks can be risky because if the company stops growing, the price of the stock can fall quickly.
 
 Value stocks are different. They come from companies that are not growing as fast, but they might be undervalued, meaning their stock price is lower than it should be. These companies often pay dividends because they have more steady money coming in. People buy value stocks hoping that the market will realize the company is worth more and the stock price will go up. Value stocks are usually less risky than growth stocks, but they might not grow as much.
 
@@ -76,7 +76,7 @@ Large-cap stocks are from the biggest companies, with a market value of more tha
 
 ## What are ESG stocks and how do they align with ethical investing?
 
-ESG stocks are stocks from companies that focus on Environmental, Social, and Governance factors. This means they try to be good for the planet, treat people well, and have fair and honest leadership. When you buy ESG stocks, you're investing in companies that care about more than just making money. They want to make a positive impact on the world too. This kind of investing is called ethical investing because it's about putting your money into businesses that match your values.
+[ESG](/wiki/esg-investing) stocks are stocks from companies that focus on Environmental, Social, and Governance factors. This means they try to be good for the planet, treat people well, and have fair and honest leadership. When you buy ESG stocks, you're investing in companies that care about more than just making money. They want to make a positive impact on the world too. This kind of investing is called ethical investing because it's about putting your money into businesses that match your values.
 
 Ethical investing is important to a lot of people because they want their investments to help make the world a better place. By choosing ESG stocks, investors can support companies that are working to reduce pollution, treat their workers fairly, and have good management practices. While ESG stocks might not always give the highest returns, many people are willing to accept a bit less money if it means they can invest in a way that aligns with their beliefs about what's right and wrong.
 

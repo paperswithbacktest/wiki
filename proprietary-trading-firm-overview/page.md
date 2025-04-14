@@ -40,11 +40,11 @@ After the basics, the training gets more hands-on. New traders often get to prac
 
 ## What are the common strategies used by traders in proprietary trading firms?
 
-Traders in proprietary trading firms use many different strategies to make money. One common strategy is using computer algorithms. These are special computer programs that can look at lots of information very quickly and decide when to buy or sell. Traders set up these algorithms to find the best times to trade, often looking for small price differences between markets. This is called arbitrage, and it can make money if done right.
+Traders in proprietary trading firms use many different strategies to make money. One common strategy is using computer algorithms. These are special computer programs that can look at lots of information very quickly and decide when to buy or sell. Traders set up these algorithms to find the best times to trade, often looking for small price differences between markets. This is called [arbitrage](/wiki/arbitrage), and it can make money if done right.
 
-Another strategy is trend following. This means traders watch the market to see if prices are going up or down over time. If they see a trend, they might buy when prices are low and sell when they go up, or sell when prices are high and buy back when they go down. This can be a good way to make money if the trend keeps going the same way. But if the trend changes, it can lead to losses.
+Another strategy is [trend following](/wiki/trend-following). This means traders watch the market to see if prices are going up or down over time. If they see a trend, they might buy when prices are low and sell when they go up, or sell when prices are high and buy back when they go down. This can be a good way to make money if the trend keeps going the same way. But if the trend changes, it can lead to losses.
 
-Some traders also use a strategy called market making. This means they buy and sell the same thing at the same time, but at slightly different prices. They make money from the difference between the buying and selling prices. This can be a steady way to make money, but it needs a lot of trades to work well. Each of these strategies has its own risks and rewards, and traders often use a mix of them to try to make the most money.
+Some traders also use a strategy called [market making](/wiki/market-making). This means they buy and sell the same thing at the same time, but at slightly different prices. They make money from the difference between the buying and selling prices. This can be a steady way to make money, but it needs a lot of trades to work well. Each of these strategies has its own risks and rewards, and traders often use a mix of them to try to make the most money.
 
 ## How do proprietary trading firms manage risk?
 
@@ -78,7 +78,7 @@ Now, proprietary trading firms use a lot of technology and computer programs to 
 
 ## What are the future trends and challenges facing proprietary trading firms?
 
-The future of proprietary trading firms looks like it will be shaped a lot by technology. More and more, these firms are using computers and special programs to trade. This means they can make decisions very quickly and handle a lot of trades at once. In the future, we might see even more advanced technology, like artificial intelligence, being used to find the best times to buy and sell. This could help firms make more money, but it also means they need to keep up with new tech to stay competitive.
+The future of proprietary trading firms looks like it will be shaped a lot by technology. More and more, these firms are using computers and special programs to trade. This means they can make decisions very quickly and handle a lot of trades at once. In the future, we might see even more advanced technology, like [artificial intelligence](/wiki/ai-artificial-intelligence), being used to find the best times to buy and sell. This could help firms make more money, but it also means they need to keep up with new tech to stay competitive.
 
 There are also some big challenges that proprietary trading firms will face. One big challenge is keeping up with all the rules and laws that are always changing. Governments want to make sure the markets are safe and fair, so they keep making new rules that firms have to follow. Another challenge is dealing with more competition. As more firms use the same technology, it can be harder to make money. Firms will need to find new ways to stand out and make profits, even as the markets get more crowded and complex.
 

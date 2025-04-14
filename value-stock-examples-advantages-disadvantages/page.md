@@ -46,7 +46,7 @@ Another risk is that the company might have problems that make it a value trap. 
 
 ## How does the performance of value stocks compare to growth stocks over time?
 
-Over time, value stocks and growth stocks can perform differently depending on the market conditions. Value stocks are often seen as a safer bet because they are usually from companies that have been around for a while and have steady earnings. They might not grow as fast as growth stocks, but they can offer more stability and sometimes pay dividends. This can be good for investors who want to grow their money slowly and steadily over time.
+Over time, value stocks and [growth stocks](/wiki/growth-stocks) can perform differently depending on the market conditions. Value stocks are often seen as a safer bet because they are usually from companies that have been around for a while and have steady earnings. They might not grow as fast as growth stocks, but they can offer more stability and sometimes pay dividends. This can be good for investors who want to grow their money slowly and steadily over time.
 
 On the other hand, growth stocks are from companies that are expected to grow a lot in the future. These stocks can go up a lot in price if the company does well, but they can also be riskier. If the company doesn't grow as expected, the stock price can drop a lot. Over long periods, like many years, value stocks have sometimes done better than growth stocks, but it really depends on the market and the economy. Sometimes growth stocks can do better, especially during times when the market is excited about new technology or new industries.
 

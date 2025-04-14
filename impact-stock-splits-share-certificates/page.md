@@ -102,7 +102,7 @@ Understanding how stock splits work and their implications on share certificates
 
 ## How can one develop a comprehensive trading strategy?
 
-To develop a comprehensive trading strategy that effectively combines stock splits, corporate actions, and algorithmic trading, investors should follow a structured approach. This involves several key steps and considerations.
+To develop a comprehensive trading strategy that effectively combines stock splits, corporate actions, and [algorithmic trading](/wiki/algorithmic-trading), investors should follow a structured approach. This involves several key steps and considerations.
 
 ### Key Steps in Developing the Strategy
 
@@ -113,10 +113,10 @@ To develop a comprehensive trading strategy that effectively combines stock spli
    Identify stocks that are likely to split by analyzing patterns and corporate behaviors. Look at historical patterns where companies might announce stock splits alongside other corporate actions, like dividends or buybacks.
 
 3. **Algorithm Development**:
-   With the collected data, develop algorithms to automate trading decisions. These algorithms should incorporate predictive models to forecast stock movements post-split, using statistical methods or machine learning models such as regression analysis or neural networks.
+   With the collected data, develop algorithms to automate trading decisions. These algorithms should incorporate predictive models to forecast stock movements post-split, using statistical methods or [machine learning](/wiki/machine-learning) models such as regression analysis or neural networks.
 
 4. **Programming Considerations**:
-   Algorithms should be able to dynamically adjust based on new data. Incorporate market volatility analysis, as capital markets can behave unpredictably post-split. Python's libraries like NumPy, pandas, and scikit-learn can help in developing and testing these algorithms. Here's a simple snippet demonstrating how to start setting up such an algorithmic framework:
+   Algorithms should be able to dynamically adjust based on new data. Incorporate market [volatility](/wiki/volatility-trading-strategies) analysis, as capital markets can behave unpredictably post-split. Python's libraries like NumPy, pandas, and scikit-learn can help in developing and testing these algorithms. Here's a simple snippet demonstrating how to start setting up such an algorithmic framework:
 
    ```python
    import pandas as pd

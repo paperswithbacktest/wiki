@@ -22,7 +22,7 @@ Over time, as communities grew into larger societies, economies became more comp
 
 ## What are the key factors that influence the growth of an economy?
 
-Several key factors help an economy grow. One big factor is how much people can produce. This depends on things like technology, which makes work faster and easier, and education, which helps people learn new skills. Another factor is how much people want to buy things. When people feel confident about their jobs and money, they spend more, which helps businesses grow and hire more workers. The government also plays a role by making rules and spending money on things like roads and schools, which can help the economy grow.
+Several key factors help an economy grow. One big [factor](/wiki/factor-investing) is how much people can produce. This depends on things like technology, which makes work faster and easier, and education, which helps people learn new skills. Another factor is how much people want to buy things. When people feel confident about their jobs and money, they spend more, which helps businesses grow and hire more workers. The government also plays a role by making rules and spending money on things like roads and schools, which can help the economy grow.
 
 Another important factor is how easily goods and money can move around. This includes having good transportation like roads and ports, and a strong financial system where people can borrow money to start businesses or buy homes. Trade with other countries can also help an economy grow by giving businesses more customers and helping them get materials they need. All these factors work together to make an economy bigger and stronger over time.
 

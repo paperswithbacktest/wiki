@@ -50,7 +50,7 @@ On the other hand, when interest rates are high, borrowing money becomes more ex
 
 The payout ratio is a key number that investors look at when they want to understand a company's dividend policy. It tells you what part of the company's earnings is being paid out as dividends. You can find the payout ratio by dividing the total dividends paid by the company's net income. A high payout ratio means the company is giving a big part of its earnings to shareholders. A low payout ratio means the company is keeping more of its earnings for other things, like growing the business.
 
-The payout ratio is important because it can show if a company's dividends are sustainable. If the payout ratio is very high, like over 100%, it might mean the company is paying out more than it's earning. This can't last forever because the company needs money to run its business. On the other hand, a lower payout ratio might mean the company has room to increase its dividends in the future. Investors use the payout ratio to decide if a company's dividends are a good, steady source of income or if they might be cut in the future.
+The payout ratio is important because it can show if a company's dividends are sustainable. If the payout ratio is very high, like over 100%, it might mean the company is paying out more than it's [earning](/wiki/earning-announcement). This can't last forever because the company needs money to run its business. On the other hand, a lower payout ratio might mean the company has room to increase its dividends in the future. Investors use the payout ratio to decide if a company's dividends are a good, steady source of income or if they might be cut in the future.
 
 ## How do regulatory environments affect dividend policies?
 
@@ -86,7 +86,7 @@ DRIPs can also help investors take advantage of compound growth. When dividends 
 
 Dividend investments involve the acquisition of stocks that disburse regular payments to shareholders in the form of dividends. This dual-faceted strategy enables investors to achieve both capital appreciation and consistent income generation, appealing to those seeking stable financial growth.
 
-A crucial factor in dividend investment is the dividend yield, typically expressed as a percentage. Calculated as the annual dividend per share divided by the stock's price per share, it provides investors with an estimation of the income they can expect relative to their investment. For instance, if a company pays an annual dividend of $2 per share and its current stock price is $50, the dividend yield would be:
+A crucial [factor](/wiki/factor-investing) in dividend investment is the dividend yield, typically expressed as a percentage. Calculated as the annual dividend per share divided by the stock's price per share, it provides investors with an estimation of the income they can expect relative to their investment. For instance, if a company pays an annual dividend of $2 per share and its current stock price is $50, the dividend yield would be:
 
 $$
 \text{Dividend Yield} = \left( \frac{\$2}{\$50} \right) \times 100 = 4\%

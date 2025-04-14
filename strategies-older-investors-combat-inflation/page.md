@@ -22,7 +22,7 @@ To keep up with inflation, older investors need to make sure their investments g
 
 ## What are some basic investment options that can help older investors keep up with inflation?
 
-One good option for older investors to keep up with inflation is to invest in stocks. Stocks can grow faster than inflation over time. They can be riskier than other investments, but if you pick good companies, your money can grow a lot. You might want to look at big, stable companies that pay dividends, which are like little bonuses that can help your money grow even more. Another way to invest in stocks is through a mutual fund or an exchange-traded fund (ETF), which spreads your money across many different stocks and can be less risky.
+One good option for older investors to keep up with inflation is to invest in stocks. Stocks can grow faster than inflation over time. They can be riskier than other investments, but if you pick good companies, your money can grow a lot. You might want to look at big, stable companies that pay dividends, which are like little bonuses that can help your money grow even more. Another way to invest in stocks is through a mutual fund or an exchange-traded fund ([ETF](/wiki/etf-trading-strategies)), which spreads your money across many different stocks and can be less risky.
 
 Another option is real estate. Buying property can be a good way to keep up with inflation because property values often go up over time. You can also rent out the property to get extra income, which can help with rising costs. If buying a whole property is too much, you can invest in a real estate investment trust (REIT), which is like a fund that owns and manages properties. This can be a simpler way to get into real estate without having to deal with all the work of being a landlord.
 
@@ -66,7 +66,7 @@ Another advanced strategy is to use inflation swaps. This is a bit more complica
 
 ## How can older investors use dividend growth stocks to outpace inflation?
 
-Older investors can use dividend growth stocks to fight inflation by picking stocks from companies that not only pay dividends but also increase those dividends over time. Dividends are like little bonuses that companies pay to their shareholders. When a company raises its dividends, it means the money older investors get from these stocks goes up. If the dividends grow faster than inflation, the money keeps its value and can even grow more. This can help older investors keep up with the rising costs of things they need.
+Older investors can use dividend [growth stocks](/wiki/growth-stocks) to fight inflation by [picking](/wiki/asset-class-picking) stocks from companies that not only pay dividends but also increase those dividends over time. Dividends are like little bonuses that companies pay to their shareholders. When a company raises its dividends, it means the money older investors get from these stocks goes up. If the dividends grow faster than inflation, the money keeps its value and can even grow more. This can help older investors keep up with the rising costs of things they need.
 
 To make this work, older investors should look for big, stable companies that have a good history of increasing their dividends. These companies are often in industries that do well even when the economy changes. By putting some of their money into these dividend growth stocks, older investors can get a steady income that goes up over time. This can be a smart way to make sure their money doesn't lose value because of inflation.
 

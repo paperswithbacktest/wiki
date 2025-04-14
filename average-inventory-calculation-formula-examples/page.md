@@ -22,7 +22,7 @@ For example, if you had 100 units of inventory at the start of the month and 150
 
 ## Can you provide a simple example of calculating average inventory?
 
-Let's say you own a small shop that sells books. At the start of the month, you have 50 books in your store. By the end of the month, you have 30 books left. To find out your average inventory for the month, you add the number of books at the start (50) to the number of books at the end (30). That gives you a total of 80 books.
+Let's say you own a small shop that sells [books](/wiki/algo-trading-books). At the start of the month, you have 50 books in your store. By the end of the month, you have 30 books left. To find out your average inventory for the month, you add the number of books at the start (50) to the number of books at the end (30). That gives you a total of 80 books.
 
 Next, you divide this total by 2 to find the average. So, 80 divided by 2 equals 40. This means your average inventory for the month was 40 books. Knowing this helps you plan how many books to order for the next month to keep your stock at the right level.
 
@@ -92,7 +92,7 @@ $$
 
 This measure serves several important purposes in business management. Firstly, it helps organizations understand inventory trends, providing insight into their purchasing, production, and sales patterns. By analyzing these trends, businesses can make informed financial decisions concerning inventory procurement and warehouse management. This leads to optimized stock levels, which is essential to prevent surplus (where carrying costs increase and products risk becoming obsolete) or shortages (which can result in lost sales and dissatisfied customers). 
 
-For algorithmic traders, average inventory holds particular significance. It aids in assessing the effectiveness of trading strategies by revealing how well a trading model maintains desired inventory levels amidst market fluctuations. Consequently, average inventory serves as an indicator of operational efficiency, pointing to how well resources are allocated and managed in trading activities. The ability to maintain optimal inventory levels is particularly pertinent in algorithmic trading, where capital utilization and risk management are closely monitored.
+For algorithmic traders, average inventory holds particular significance. It aids in assessing the effectiveness of trading strategies by revealing how well a trading model maintains desired inventory levels amidst market fluctuations. Consequently, average inventory serves as an indicator of operational efficiency, pointing to how well resources are allocated and managed in trading activities. The ability to maintain optimal inventory levels is particularly pertinent in [algorithmic trading](/wiki/algorithmic-trading), where capital utilization and risk management are closely monitored.
 
 In applying average inventory in the context of algorithmic trading, traders can refine their approaches by assessing how average inventory aligns with their targets and constraints, adjusting strategies to optimize performance further. This enhances not only the understanding of current strategy effectiveness but also supports strategic planning for future trading operations.
 

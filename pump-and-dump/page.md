@@ -18,7 +18,7 @@ Once the price is high enough, the person who started the scheme sells all their
 
 A pump and dump scheme starts when someone wants to make money fast by tricking others. They pick a stock or cryptocurrency that isn't very popular or well-known. Then, they spread false or exaggerated information to make it look like the stock or cryptocurrency is about to become very valuable. They might use social media, emails, or fake news articles to get people excited and make them want to buy it. As more people buy, the price goes up because there's more demand.
 
-Once the price is high enough, the person who started the scheme sells all their shares or coins quickly. This makes the price drop fast because now there are more people trying to sell than buy. People who bought the stock or cryptocurrency at the higher price lose money because they bought it when it was artificially inflated. This is why pump and dump schemes are illegal and can hurt a lot of people who get tricked into buying.
+Once the price is high enough, the person who started the scheme sells all their shares or coins quickly. This makes the price drop fast because now there are more people trying to sell than buy. People who bought the stock or [cryptocurrency](/wiki/cryptocurrency) at the higher price lose money because they bought it when it was artificially inflated. This is why pump and dump schemes are illegal and can hurt a lot of people who get tricked into buying.
 
 ## What are the common signs of a pump and dump?
 
@@ -82,7 +82,7 @@ Also, data analysis can look at how people are trading the stock or cryptocurren
 
 ## What are effective trading strategies and how can risk be managed in trading?
 
-Distinguishing legitimate market movements from manipulative activities such as pump and dump schemes is critical for developing effective trading strategies. Recognizing red flags can help traders identify potential manipulative behavior in the market. Two common indicators of pump and dump schemes are unusual volume spikes and [momentum](/wiki/momentum) divergences.
+Distinguishing legitimate market movements from manipulative activities such as pump and dump schemes is critical for developing effective trading strategies. Recognizing red flags can help traders identify potential manipulative behavior in the market. Two common indicators of pump and dump schemes are unusual [volume](/wiki/volume-trading-strategy) spikes and [momentum](/wiki/momentum) divergences.
 
 Unusual volume spikes often suggest manipulative trading activities. When a security that typically exhibits low trading volume suddenly experiences a large surge, it may indicate that the price is being artificially inflated. Traders should employ volume analysis to monitor these abrupt changes. The volume-weighted average price (VWAP) can be a useful tool for this purpose. The VWAP is calculated as follows:
 
@@ -98,7 +98,7 @@ To mitigate the risk associated with pump and dump schemes, traders can employ s
 
 Diversification is another key risk management approach. By spreading investments across different assets and market sectors, traders reduce the impact of a single security's manipulation on their overall portfolio. This strategy not only minimizes exposure to individual pump and dump schemes but also enhances the overall stability of the investment portfolio.
 
-Additionally, traders should consider implementing algorithmic trading systems with embedded safeguards against manipulative schemes. These systems can be programmed to detect unusual spikes, divergences, and other red flags autonomously, enabling rapid response to potential threats. The ability to adapt quickly to market changes is crucial in avoiding the detrimental effects of pump and dump schemes.
+Additionally, traders should consider implementing [algorithmic trading](/wiki/algorithmic-trading) systems with embedded safeguards against manipulative schemes. These systems can be programmed to detect unusual spikes, divergences, and other red flags autonomously, enabling rapid response to potential threats. The ability to adapt quickly to market changes is crucial in avoiding the detrimental effects of pump and dump schemes.
 
 In conclusion, by recognizing warning signs such as unusual volume spikes and momentum divergences, and employing risk management techniques like stop-loss orders and diversification, traders can better protect themselves from the adverse effects of market manipulation. Leveraging algorithmic tools further enhances this protection, enabling more informed and responsive trading strategies.
 

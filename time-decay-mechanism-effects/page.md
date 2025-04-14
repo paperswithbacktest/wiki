@@ -58,7 +58,7 @@ Another thing that influences time decay is how likely it is for the option to e
 
 ## How can an investor mitigate the effects of time decay?
 
-An investor can mitigate the effects of time decay by choosing options with longer expiration dates. When you buy an option that expires far in the future, it loses value more slowly each day. This gives the stock more time to move in your favor, making it more likely that your option will be profitable. So, if you think the stock will take a while to reach the price you want, picking a longer-term option can help reduce the impact of time decay.
+An investor can mitigate the effects of time decay by choosing options with longer expiration dates. When you buy an option that expires far in the future, it loses value more slowly each day. This gives the stock more time to move in your favor, making it more likely that your option will be profitable. So, if you think the stock will take a while to reach the price you want, [picking](/wiki/asset-class-picking) a longer-term option can help reduce the impact of time decay.
 
 Another way to lessen the impact of time decay is by selling options instead of buying them. When you sell an option, you get paid upfront, and if the option expires worthless, you keep that money. Time decay works in your favor here because it makes the option you sold lose value over time. This strategy is often used by investors who think the stock won't move much before the option expires. By selling options, they can make money from time decay instead of losing money to it.
 
@@ -162,7 +162,7 @@ Scenario analysis allows traders to evaluate the effects of time decay under var
 
 **Utilizing Machine Learning Techniques**
 
-Advancements in machine learning provide robust solutions for modeling and predicting time decay. Machine learning algorithms can process large datasets to uncover patterns that might indicate future market behavior related to theta. Tools such as regression analysis, neural networks, and support vector machines are integral to this process, enhancing the ability to predict how quickly an option’s premium will decay over time.
+Advancements in [machine learning](/wiki/machine-learning) provide robust solutions for modeling and predicting time decay. Machine learning algorithms can process large datasets to uncover patterns that might indicate future market behavior related to theta. Tools such as regression analysis, neural networks, and support vector machines are integral to this process, enhancing the ability to predict how quickly an option’s premium will decay over time.
 
 For example, a basic implementation using Python's scikit-learn library might involve:
 

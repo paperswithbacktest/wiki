@@ -72,7 +72,7 @@ Another way advanced traders can optimize their strategy is by using technical a
 
 ## What impact does market volatility have on the effectiveness of an options roll up?
 
-Market volatility can make an options roll up more tricky. When the market is jumping around a lot, the price of options can change quickly. If you roll up your option during a volatile time, you might end up paying more than you expected. It's like trying to move your bet on a game board that's shaking all over the place. You need to be extra careful and think about whether the stock will keep moving in your favor despite the ups and downs.
+Market [volatility](/wiki/volatility-trading-strategies) can make an options roll up more tricky. When the market is jumping around a lot, the price of options can change quickly. If you roll up your option during a volatile time, you might end up paying more than you expected. It's like trying to move your bet on a game board that's shaking all over the place. You need to be extra careful and think about whether the stock will keep moving in your favor despite the ups and downs.
 
 On the other hand, high volatility can also create opportunities. If you think the stock will keep going up even with all the wild swings, rolling up to a higher strike price could lead to bigger gains. But you need to be sure about your prediction because the risk is higher too. It's all about balancing the potential rewards with the extra risks that come with a volatile market.
 

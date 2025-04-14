@@ -42,7 +42,7 @@ Some people also use a mix of both methods. They might check their investments o
 
 ## How can market volatility affect the need for rebalancing?
 
-Market volatility can make your 401(k) investments change a lot. When the market goes up and down quickly, some of your investments might grow faster than others. This can mess up the way you wanted your money to be split. For example, if you wanted half your money in stocks and half in bonds, but the stock market goes up a lot, you might end up with more money in stocks than you planned. This means you might need to rebalance more often to keep your money spread out the way you want.
+Market [volatility](/wiki/volatility-trading-strategies) can make your 401(k) investments change a lot. When the market goes up and down quickly, some of your investments might grow faster than others. This can mess up the way you wanted your money to be split. For example, if you wanted half your money in stocks and half in bonds, but the stock market goes up a lot, you might end up with more money in stocks than you planned. This means you might need to rebalance more often to keep your money spread out the way you want.
 
 If the market is very volatile, you might want to check your 401(k) more often than once a year. You could use the threshold method, where you decide to rebalance if your investments move more than a certain percentage away from your plan. This helps you keep your money safe and on track, even when the market is jumping around a lot. By rebalancing when the market is volatile, you can make sure your retirement savings stay in line with your goals.
 

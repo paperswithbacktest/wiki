@@ -84,7 +84,7 @@ Businesses also need to watch out for structural breaks to make good choices. If
 
 ## What is the impact of structural breaks on algo trading?
 
-Structural breaks can have profound effects on the performance of algorithmic trading systems, particularly through altering the statistical properties of financial time series. These breaks manifest as sudden changes in data patterns that previously followed a more predictable and statistically consistent path. When such disruptions occur, algorithms that depend heavily on historical data for pattern recognition and signal generation may give erroneous outcomes, leading to potentially severe financial consequences.
+Structural breaks can have profound effects on the performance of [algorithmic trading](/wiki/algorithmic-trading) systems, particularly through altering the statistical properties of financial time series. These breaks manifest as sudden changes in data patterns that previously followed a more predictable and statistically consistent path. When such disruptions occur, algorithms that depend heavily on historical data for pattern recognition and signal generation may give erroneous outcomes, leading to potentially severe financial consequences.
 
 The primary issue lies in the fact that trading algorithms are typically calibrated using historical data under the assumption of stationary statistical properties. When a structural break occurs, these properties can shift, rendering existing models inadequate. For instance, parameters such as mean, variance, and autocorrelation, which are often assumed to be stable over time, can abruptly change. This shift can cause the underlying assumptions of models, such as those used in regression analysis or time series forecasting, to become invalid.
 

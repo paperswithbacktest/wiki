@@ -18,13 +18,13 @@ This kind of analysis is important because it helps investors make smarter choic
 
 Fundamental analysis and technical analysis are two different ways to decide if a stock is a good investment. Fundamental analysis looks at the actual business of a company. It checks things like how much money the company makes, its debts, and how well it's doing compared to other companies. By looking at these details, investors can figure out the real value of the company and see if the stock price is a good deal or too high.
 
-On the other hand, technical analysis doesn't care about the company's business. Instead, it focuses on the stock's price movements and trading patterns. Technical analysts use charts and graphs to spot trends and patterns that can help predict where the stock price might go next. They believe that all the important information about a company is already reflected in the stock's price and trading volume.
+On the other hand, technical analysis doesn't care about the company's business. Instead, it focuses on the stock's price movements and trading patterns. Technical analysts use charts and graphs to spot trends and patterns that can help predict where the stock price might go next. They believe that all the important information about a company is already reflected in the stock's price and trading [volume](/wiki/volume-trading-strategy).
 
 Both methods have their fans, and some investors even use a mix of both to make their decisions. Fundamental analysis is great for understanding the long-term value of a company, while technical analysis can be useful for timing when to buy or sell a stock based on short-term price movements.
 
 ## What are the key financial statements used in fundamental analysis?
 
-In fundamental analysis, three main financial statements are used to understand a company's health and value: the income statement, the balance sheet, and the cash flow statement. The income statement shows how much money a company made and spent over a period of time, like a year or a quarter. It tells you if the company made a profit or a loss by showing revenues, costs, and expenses. This helps investors see if the company is good at making money.
+In [fundamental analysis](/wiki/fundamental-analysis), three main financial statements are used to understand a company's health and value: the income statement, the balance sheet, and the cash flow statement. The income statement shows how much money a company made and spent over a period of time, like a year or a quarter. It tells you if the company made a profit or a loss by showing revenues, costs, and expenses. This helps investors see if the company is good at making money.
 
 The balance sheet is like a snapshot of what the company owns and owes at a specific point in time. It lists assets, like cash and property, and liabilities, like loans and debts. By looking at the balance sheet, investors can see if the company has enough assets to cover its debts, which is important for understanding its financial stability.
 

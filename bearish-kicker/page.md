@@ -46,7 +46,7 @@ The pattern is more effective if there are other signs that the price might go d
 
 ## How can traders confirm a bearish kicker pattern?
 
-Traders can confirm a bearish kicker pattern by looking at other signs on the chart and in the market. After seeing the pattern, they should check if the trading volume is higher than usual. High volume means more people are selling, which makes the pattern more likely to be correct. They should also look at other chart patterns, like a head and shoulders or a double top, which can also show that the price might go down.
+Traders can confirm a bearish kicker pattern by looking at other signs on the chart and in the market. After seeing the pattern, they should check if the trading [volume](/wiki/volume-trading-strategy) is higher than usual. High volume means more people are selling, which makes the pattern more likely to be correct. They should also look at other chart patterns, like a head and shoulders or a double top, which can also show that the price might go down.
 
 It's also important to pay attention to what's happening in the news or the economy. If there's bad news about the company or the market, it can make people more likely to sell, making the bearish kicker pattern more reliable. By using all these signs together, traders can feel more sure that the bearish kicker pattern is a good hint that the price will go down.
 

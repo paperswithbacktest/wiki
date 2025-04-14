@@ -24,7 +24,7 @@ An active loss, on the other hand, comes from businesses or investments where yo
 
 Passive income is money you earn without having to work actively every day. It's like getting paid while you're not doing much. Examples include rent from a property you own, earnings from a business where you don't work daily, or dividends from stocks. The idea is that once you set it up, it keeps making money for you without needing a lot of your time.
 
-Passive loss is the opposite of passive income. It happens when your passive investments lose money. For example, if you own a rental property and the costs like repairs and mortgage interest are more than the rent you get, you have a passive loss. Passive losses can only be used to reduce your passive income, not your regular job income. If you don't have enough passive income to cover the loss, you can carry it forward to future years and use it then. So, passive income and passive loss are connected because they both come from the same kind of investments, but one makes you money and the other costs you money.
+Passive loss is the opposite of passive income. It happens when your passive investments lose money. For example, if you own a rental property and the costs like repairs and mortgage interest are more than the rent you get, you have a passive loss. Passive losses can only be used to reduce your passive income, not your regular job income. If you don't have enough passive income to cover the loss, you can [carry](/wiki/carry-trading) it forward to future years and use it then. So, passive income and passive loss are connected because they both come from the same kind of investments, but one makes you money and the other costs you money.
 
 ## What are common sources of passive losses for investors?
 

@@ -24,7 +24,7 @@ Another way SoFi Active Investing is different is that it's part of a bigger com
 
 To start investing with SoFi Active Investing, first you need to sign up for an account on their website or app. You'll need to give some personal information like your name, address, and Social Security number. This is to make sure it's really you and to follow the rules. Once you're signed up, you'll need to add money to your account. You can do this by linking your bank account and transferring money over. It's pretty easy and you can start with as little or as much money as you want.
 
-After you've got money in your account, you can start picking what to invest in. SoFi Active Investing lets you buy stocks, ETFs, and even some cryptocurrencies. You can search for what you want to buy and then place an order. If you're not sure what to pick, SoFi has tools and information to help you decide. Once you've made your choices, you can keep an eye on your investments through the app or website and make changes whenever you want. It's all about making it simple for you to start and keep investing.
+After you've got money in your account, you can start [picking](/wiki/asset-class-picking) what to invest in. SoFi Active Investing lets you buy stocks, ETFs, and even some cryptocurrencies. You can search for what you want to buy and then place an order. If you're not sure what to pick, SoFi has tools and information to help you decide. Once you've made your choices, you can keep an eye on your investments through the app or website and make changes whenever you want. It's all about making it simple for you to start and keep investing.
 
 ## What types of investment products does SoFi Active Investing offer?
 
@@ -48,7 +48,7 @@ Another great thing about SoFi Active Investing for beginners is that it offers 
 
 To analyze the performance of your investments on SoFi Active Investing, you can use the tools and features available on their app or website. You'll see a dashboard that shows how your investments are doing. It will tell you things like how much your investments have grown or shrunk in value, and how they're doing compared to the market. You can also look at charts and graphs that show how your investments have changed over time. This helps you see if your investments are going up or down and if they're doing what you hoped they would.
 
-SoFi also gives you detailed information about each investment you own. You can click on a stock or ETF to see its price history, news about the company, and what other people think about it. This can help you understand why your investments are performing the way they are. If you want to compare different investments, SoFi lets you do that too. You can see how different stocks or funds are doing side by side, which can help you decide if you should keep your money where it is or move it somewhere else.
+SoFi also gives you detailed information about each investment you own. You can click on a stock or [ETF](/wiki/etf-trading-strategies) to see its price history, news about the company, and what other people think about it. This can help you understand why your investments are performing the way they are. If you want to compare different investments, SoFi lets you do that too. You can see how different stocks or funds are doing side by side, which can help you decide if you should keep your money where it is or move it somewhere else.
 
 ## What advanced tools does SoFi Active Investing provide for experienced investors?
 
@@ -72,7 +72,7 @@ Another strategy is to keep an eye on your investments and make changes when nee
 
 SoFi Active Investing takes security and data privacy seriously. They use strong encryption to keep your information safe when you're using their app or website. This means that your personal details and money are protected from hackers. SoFi also follows strict rules to make sure your data is kept private. They only share your information when they have to, like when the law says they need to.
 
-To keep your account safe, SoFi uses two-factor authentication. This means you need more than just a password to log in, which adds an extra layer of protection. They also keep an eye out for anything strange happening in your account, like if someone tries to log in from a new place or make a big change. If they see something odd, they'll let you know right away so you can take action.
+To keep your account safe, SoFi uses two-[factor](/wiki/factor-investing) authentication. This means you need more than just a password to log in, which adds an extra layer of protection. They also keep an eye out for anything strange happening in your account, like if someone tries to log in from a new place or make a big change. If they see something odd, they'll let you know right away so you can take action.
 
 ## What expert tips can enhance the use of SoFi Active Investing for seasoned investors?
 

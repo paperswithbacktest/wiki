@@ -48,7 +48,7 @@ Using index numbers like the CPI makes it easier to understand inflation because
 
 ## What role do index numbers play in comparing economic data over time?
 
-Index numbers help us compare economic data over time by giving us a simple way to see how things have changed. They do this by picking a starting point, called the base year, and setting its value to 100. Then, they compare the value of the same thing in other years to this base year. If the index number is higher than 100, it means the value has gone up. If it's lower, the value has gone down. This makes it easy to see trends and patterns without having to look at a lot of complicated numbers.
+Index numbers help us compare economic data over time by giving us a simple way to see how things have changed. They do this by [picking](/wiki/asset-class-picking) a starting point, called the base year, and setting its value to 100. Then, they compare the value of the same thing in other years to this base year. If the index number is higher than 100, it means the value has gone up. If it's lower, the value has gone down. This makes it easy to see trends and patterns without having to look at a lot of complicated numbers.
 
 For example, if you want to know how prices have changed, you can use the Consumer Price Index (CPI). The CPI looks at the cost of a basket of goods and services that people buy. If the CPI is 110 this year and it was 100 last year, it means prices have gone up by 10%. This helps economists, businesses, and governments understand what's happening in the economy and make better decisions. By using index numbers, they can see if things like prices, production, or wages are going up or down over time, which is important for planning and policy-making.
 
@@ -104,7 +104,7 @@ Index numbers' ability to streamline extensive datasets into straightforward met
 
 ## What are Popular Algorithmic Trading Techniques Using Index Numbers?
 
-Technical indicators, such as Moving Averages (MA) and the Relative Strength Index (RSI), are integral components of algorithmic trading strategies, providing a structured approach to predict market movements. These indicators, derived from historical economic data, allow traders to identify trends, [momentum](/wiki/momentum), and potential reversals in asset prices, thereby facilitating more informed trading decisions.
+Technical indicators, such as Moving Averages (MA) and the Relative Strength Index (RSI), are integral components of [algorithmic trading](/wiki/algorithmic-trading) strategies, providing a structured approach to predict market movements. These indicators, derived from historical economic data, allow traders to identify trends, [momentum](/wiki/momentum), and potential reversals in asset prices, thereby facilitating more informed trading decisions.
 
 Moving Averages smooth out price data by creating a constantly updated average price, thus providing a clear view of the direction of the trend and eliminating noise from random price fluctuations. For example, the Simple Moving Average (SMA) is calculated by taking the arithmetic mean of a given set of prices over a specific number of days. On the other hand, the Exponential Moving Average (EMA) gives more weight to recent prices, making it more responsive to new information.
 

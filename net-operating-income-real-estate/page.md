@@ -24,7 +24,7 @@ NOI is important because it shows how much money a property makes just from its 
 
 Net Operating Income (NOI) is important for real estate investors because it shows how much money a property makes after paying all the costs to keep it running. This helps investors see if a property is making a profit from its day-to-day operations. By looking at the NOI, investors can compare different properties and decide which ones might be the best to buy or keep. It's like checking the profit of a business, but for a building or piece of land.
 
-NOI is also useful because it does not include costs like mortgage payments. This means it shows the true earning power of a property, without being affected by how it was bought or financed. This makes NOI a clear and fair way to see how well a property is doing on its own. By focusing on NOI, investors can make better choices about which properties will help them earn more money in the long run.
+NOI is also useful because it does not include costs like mortgage payments. This means it shows the true [earning](/wiki/earning-announcement) power of a property, without being affected by how it was bought or financed. This makes NOI a clear and fair way to see how well a property is doing on its own. By focusing on NOI, investors can make better choices about which properties will help them earn more money in the long run.
 
 ## Can you provide an example of how to calculate NOI for a rental property?
 

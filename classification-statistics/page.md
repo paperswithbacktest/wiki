@@ -108,7 +108,7 @@ Dimensionality reduction techniques, such as Principal Component Analysis (PCA) 
 
 LDA similarly reduces dimensionality but is particularly aimed at maximizing class separability, making it beneficial for distinguishing between different asset categories or market conditions.
 
-The integration of these statistical tools and techniques provides the needed computational power to efficiently process and analyze the massive datasets characteristic of algorithmic trading. They collectively enhance the ability of trading algorithms to make informed and accurate predictions, ultimately optimizing trading performance and ensuring competitive advantage in fast-paced financial markets.
+The integration of these statistical tools and techniques provides the needed computational power to efficiently process and analyze the massive datasets characteristic of [algorithmic trading](/wiki/algorithmic-trading). They collectively enhance the ability of trading algorithms to make informed and accurate predictions, ultimately optimizing trading performance and ensuring competitive advantage in fast-paced financial markets.
 
 ## References & Further Reading
 

@@ -24,7 +24,7 @@ The register also helps the company stay organized and fair. It makes sure that 
 
 The company itself usually keeps the shareholder register. They have someone in the company, like a secretary or someone in the legal or finance department, who makes sure the list is correct and up-to-date. This person adds new shareholders when someone buys shares and removes shareholders when someone sells their shares. They also update the list if someone's contact information changes.
 
-Sometimes, a company might hire a special service to keep the shareholder register. These services are called transfer agents or registrars. They are experts at keeping track of who owns shares and making sure all the information is correct. This can be helpful for big companies that have a lot of shareholders, because it can be a lot of work to keep the register up-to-date by themselves.
+Sometimes, a company might hire a special service to keep the shareholder register. These services are called transfer [agents](/wiki/agents) or registrars. They are experts at keeping track of who owns shares and making sure all the information is correct. This can be helpful for big companies that have a lot of shareholders, because it can be a lot of work to keep the register up-to-date by themselves.
 
 ## What information is typically included in a shareholder register?
 

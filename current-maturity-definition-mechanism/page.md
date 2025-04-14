@@ -40,7 +40,7 @@ Knowing this, GreenGrocers can plan ahead. They might need to save more money fr
 
 ## How does current maturity affect a company's liquidity?
 
-Current maturity can have a big impact on a company's liquidity. Liquidity means how easily a company can turn its assets into cash to pay its bills. If a company has a high current maturity, it means a big part of its long-term debt is due soon. This can be tough because the company needs to have enough cash or be able to get cash quickly to pay this debt. If it can't, it might have to sell things it owns or borrow more money, which can be hard to do.
+Current maturity can have a big impact on a company's [liquidity](/wiki/liquidity-risk-premium). Liquidity means how easily a company can turn its assets into cash to pay its bills. If a company has a high current maturity, it means a big part of its long-term debt is due soon. This can be tough because the company needs to have enough cash or be able to get cash quickly to pay this debt. If it can't, it might have to sell things it owns or borrow more money, which can be hard to do.
 
 Knowing the current maturity helps a company plan its cash needs. If a company sees that a lot of its debt is coming due in the next year, it can start saving or finding other ways to get the money it needs. This planning can help the company stay liquid and avoid money problems. But if a company doesn't pay attention to its current maturities, it might find itself short on cash when it needs it the most, which can lead to financial trouble.
 
@@ -92,7 +92,7 @@ $$
 $$
 
 ### Impact on Valuation and Yield
-The maturity of a bond affects its sensitivity to interest rates, which is a key determinant of its price and yield. Bonds with a shorter maturity generally have less interest rate risk compared to long-term bonds, as they are less sensitive to rate changes. This inverse relation is captured in the yield-to-maturity (YTM), which simplifies investors' comparisons across bonds with different maturities.
+The maturity of a bond affects its sensitivity to interest rates, which is a key determinant of its price and yield. Bonds with a shorter maturity generally have less [interest rate](/wiki/interest-rate-trading-strategies) risk compared to long-term bonds, as they are less sensitive to rate changes. This inverse relation is captured in the yield-to-maturity (YTM), which simplifies investors' comparisons across bonds with different maturities.
 
 ### Effects on Financial Obligations and Debt Recognition
 

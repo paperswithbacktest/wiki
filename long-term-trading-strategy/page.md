@@ -36,7 +36,7 @@ Another risk is that long-term trading requires patience. It can be hard to stic
 
 ## How do you select stocks or assets for a long-term trading strategy?
 
-When picking stocks or assets for a long-term trading strategy, you should look for companies that have a strong history and a good chance of growing in the future. These are often big, well-known companies that have been around for a long time and make steady profits. You can check their financial reports to see if they are making money and if they have a solid plan for the future. It's also a good idea to look at what experts say about the company and the industry it's in. You want to invest in businesses that can keep growing even when the economy goes through tough times.
+When [picking](/wiki/asset-class-picking) stocks or assets for a long-term trading strategy, you should look for companies that have a strong history and a good chance of growing in the future. These are often big, well-known companies that have been around for a long time and make steady profits. You can check their financial reports to see if they are making money and if they have a solid plan for the future. It's also a good idea to look at what experts say about the company and the industry it's in. You want to invest in businesses that can keep growing even when the economy goes through tough times.
 
 Another important thing to consider is diversification. This means spreading your money across different types of investments, like stocks, bonds, and real estate. By doing this, you can lower your risk because if one type of investment goes down, the others might still do well. You can also look at index funds or ETFs, which are collections of stocks that represent a whole market or industry. These can be a good choice for long-term trading because they are diversified and often have lower fees. The key is to pick investments that you believe will do well over many years, not just in the short term.
 
@@ -44,7 +44,7 @@ Another important thing to consider is diversification. This means spreading you
 
 Fundamental analysis is really important for long-term trading. It's all about looking at a company's financial health and figuring out if it's a good investment for the long run. You do this by checking things like how much money the company makes, how much it owes, and how well it's run. You also look at the bigger picture, like what's going on in the industry and the economy. By doing this, you can tell if a company is strong and likely to grow over time, which is what you want for long-term investments.
 
-Using fundamental analysis helps you make smart choices about which stocks or assets to buy and hold for many years. It's not about quick wins but about finding companies that will keep getting better and more valuable. This way, even if the market goes up and down, you can feel confident that your investments are based on solid companies with good futures. It's like picking the best trees to plant in your garden, knowing they'll grow strong and tall over time.
+Using [fundamental analysis](/wiki/fundamental-analysis) helps you make smart choices about which stocks or assets to buy and hold for many years. It's not about quick wins but about finding companies that will keep getting better and more valuable. This way, even if the market goes up and down, you can feel confident that your investments are based on solid companies with good futures. It's like picking the best trees to plant in your garden, knowing they'll grow strong and tall over time.
 
 ## How important is portfolio diversification in long-term trading?
 
@@ -84,9 +84,9 @@ This kind of analysis can also help you see trends that might affect your invest
 
 ## What is Backtesting Long-Term Trading Strategies?
 
-Backtesting is a crucial component of developing long-term trading strategies in algorithmic trading, as it enables traders to assess the viability and potential effectiveness of their strategies using historical data. This process provides insights into how a given strategy might perform under various market conditions by simulating trades and observing their outcomes over past market cycles.
+Backtesting is a crucial component of developing long-term trading strategies in [algorithmic trading](/wiki/algorithmic-trading), as it enables traders to assess the viability and potential effectiveness of their strategies using historical data. This process provides insights into how a given strategy might perform under various market conditions by simulating trades and observing their outcomes over past market cycles.
 
-To conduct effective backtesting, traders first need to perform a comprehensive analysis of historical market trends and economic cycles. This helps in aligning their trading strategies with scenarios that are likely to occur in the future. By understanding the past market behavior and its driving forces, traders can better anticipate future trends and adjust their strategies accordingly.
+To conduct effective [backtesting](/wiki/backtesting), traders first need to perform a comprehensive analysis of historical market trends and economic cycles. This helps in aligning their trading strategies with scenarios that are likely to occur in the future. By understanding the past market behavior and its driving forces, traders can better anticipate future trends and adjust their strategies accordingly.
 
 Key metrics are essential in the evaluation of backtested strategies to gauge both risk and return potential. Among these metrics, the Compound Annual Growth Rate (CAGR) is commonly used to measure the average annual return of the strategy over the test period. It is calculated using the formula:
 

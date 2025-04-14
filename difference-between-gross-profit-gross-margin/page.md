@@ -220,7 +220,7 @@ $$
 
 ### Market Volatility
 
-Market volatility can lead to unpredictable price movements, affecting both the gross profit and gross margin. High volatility might result in drastic price swings that can disrupt trading algorithms, leading to losses. To account for volatility, adapt trading strategies by incorporating volatility measures such as the Average True Range (ATR) or the Volatility Index (VIX). These measures help determine optimal entry and exit points, adjusting positions according to market conditions.
+Market volatility can lead to unpredictable price movements, affecting both the gross profit and gross margin. High volatility might result in drastic price swings that can disrupt trading algorithms, leading to losses. To account for volatility, adapt trading strategies by incorporating volatility measures such as the Average True Range (ATR) or the Volatility Index (VIX). These measures help determine optimal entry and [exit](/wiki/exit-strategy) points, adjusting positions according to market conditions.
 
 ### Best Practices to Mitigate Challenges
 

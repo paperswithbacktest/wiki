@@ -32,7 +32,7 @@ Trading deep in-the-money options can be risky. One risk is that even though the
 
 Another risk is that deep in-the-money options might not give you as much profit as you hope. Since these options have a high intrinsic value, they don't gain as much value if the stock price moves a lot. If the stock price jumps up or down quickly, you might make more money by buying at-the-money or out-of-the-money options instead. So, if you're hoping for big profits from big moves in the stock price, deep in-the-money options might not be the best choice.
 
-Lastly, liquidity can be a problem. Deep in-the-money options might not be traded as often as other options. This can make it hard to buy or sell them quickly, which can be a problem if you need to get out of a trade fast. If you can't find someone to buy your option, you might have to sell it for less than you want or wait longer than you planned.
+Lastly, [liquidity](/wiki/liquidity-risk-premium) can be a problem. Deep in-the-money options might not be traded as often as other options. This can make it hard to buy or sell them quickly, which can be a problem if you need to get out of a trade fast. If you can't find someone to buy your option, you might have to sell it for less than you want or wait longer than you planned.
 
 ## How can deep in-the-money options be used for hedging?
 
@@ -102,7 +102,7 @@ for put options. DITM options typically exhibit high intrinsic value and therefo
 
 One prevalent strategy involves using DITM options as a substitute for directly purchasing the underlying asset. This approach allows investors to exert control over a large [volume](/wiki/volume-trading-strategy) of assets with a smaller initial capital outlay. Consequently, the leverage provided by DITM options can magnify potential gains while keeping the investment expenditure manageable.
 
-Another strategic approach incorporates DITM options within a delta-neutral portfolio. This method involves balancing the portfolio's overall delta to zero by combining options, futures, or other derivatives. A delta-neutral strategy allows traders to hedge against market downturns while simultaneously reaping benefits from price escalations in the underlying asset. By maintaining a neutral delta, traders can mitigate the risk associated with directional market movements, focusing instead on capturing profits through options premiums or volatility strategies.
+Another strategic approach incorporates DITM options within a delta-neutral portfolio. This method involves balancing the portfolio's overall delta to zero by combining options, futures, or other derivatives. A delta-neutral strategy allows traders to hedge against market downturns while simultaneously reaping benefits from price escalations in the underlying asset. By maintaining a neutral delta, traders can mitigate the risk associated with directional market movements, focusing instead on capturing profits through options premiums or [volatility](/wiki/volatility-trading-strategies) strategies.
 
 Selling DITM options can also be strategically advantageous, especially in scenarios where traders seek a steady income through premium collection. In contrast to holding volatile assets, writing DITM options reduces exposure to sudden market shifts due to their intrinsic value. This approach is ideal for markets characterized by stable or moderate volatility, as traders can earn premium income while the probability of options being exercised remains low.
 

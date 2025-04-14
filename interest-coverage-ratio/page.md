@@ -66,7 +66,7 @@ Another limit is that the Interest Coverage Ratio can be different in different 
 
 A company can improve its Interest Coverage Ratio by making more money or by reducing how much interest it has to pay. To make more money, the company can try to sell more of its products or services, find new ways to earn money, or cut down on its costs. If the company can increase its earnings before interest and taxes (EBIT), its Interest Coverage Ratio will go up because it will have more money to cover its interest payments.
 
-Another way to improve the Interest Coverage Ratio is to reduce the interest the company has to pay. This can be done by paying off some of its loans or by refinancing its debt to get a lower interest rate. When a company has less interest to pay, it becomes easier for it to cover those costs with its earnings, which makes the Interest Coverage Ratio higher. By focusing on these two areas, a company can make its financial situation stronger and more stable.
+Another way to improve the Interest Coverage Ratio is to reduce the interest the company has to pay. This can be done by paying off some of its loans or by refinancing its debt to get a lower [interest rate](/wiki/interest-rate-trading-strategies). When a company has less interest to pay, it becomes easier for it to cover those costs with its earnings, which makes the Interest Coverage Ratio higher. By focusing on these two areas, a company can make its financial situation stronger and more stable.
 
 ## What impact do economic cycles have on the Interest Coverage Ratio?
 

@@ -18,7 +18,7 @@ Fakeouts often happen around important price levels, like support and resistance
 
 To spot a fakeout on a price chart, you need to watch how the price moves around important levels. These levels are called support and resistance. Support is like a floor where the price stops falling, and resistance is like a ceiling where the price stops rising. If you see the price break through one of these levels, it might look like the trend is changing. But if the price quickly turns around and goes back to where it was, that's a fakeout. 
 
-You can also look at the volume of trades when the price breaks through these levels. If the volume is low when the price breaks through, it might not be a strong move, and a fakeout could happen. Another thing to watch is how fast the price moves. If it breaks through a level very quickly but then reverses just as fast, it's more likely to be a fakeout. By paying attention to these signs, you can be more careful and avoid getting tricked by the market.
+You can also look at the [volume](/wiki/volume-trading-strategy) of trades when the price breaks through these levels. If the volume is low when the price breaks through, it might not be a strong move, and a fakeout could happen. Another thing to watch is how fast the price moves. If it breaks through a level very quickly but then reverses just as fast, it's more likely to be a fakeout. By paying attention to these signs, you can be more careful and avoid getting tricked by the market.
 
 ## What are the common causes of fakeouts?
 
@@ -56,7 +56,7 @@ On longer time frames, like a daily or weekly chart, fakeouts can still happen, 
 
 One famous fakeout happened in the stock market with the "Flash Crash" of May 6, 2010. The Dow Jones Industrial Average suddenly dropped almost 1,000 points in just a few minutes. Many traders thought it was the start of a big sell-off, but the market quickly bounced back. It turned out that the big drop was caused by high-frequency trading algorithms that went wild. This fakeout shocked a lot of people and showed how fast the market can change and trick traders.
 
-Another example of a fakeout was with the cryptocurrency Bitcoin in early 2018. Bitcoin's price had been going up a lot, and in December 2017, it hit almost $20,000. But then, in January 2018, it suddenly broke below a key support level, making many traders think the price would keep falling. However, the price quickly went back up above that level, showing it was just a fakeout. This taught traders to be careful about jumping into trades too quickly, even with something as new and exciting as Bitcoin.
+Another example of a fakeout was with the [cryptocurrency](/wiki/cryptocurrency) Bitcoin in early 2018. Bitcoin's price had been going up a lot, and in December 2017, it hit almost $20,000. But then, in January 2018, it suddenly broke below a key support level, making many traders think the price would keep falling. However, the price quickly went back up above that level, showing it was just a fakeout. This taught traders to be careful about jumping into trades too quickly, even with something as new and exciting as Bitcoin.
 
 ## How can traders protect their portfolios from the effects of fakeouts?
 

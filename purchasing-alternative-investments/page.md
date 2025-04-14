@@ -38,7 +38,7 @@ Another big benefit is the chance to make more money. Alternative investments ca
 
 ## What are the risks associated with alternative investments?
 
-Alternative investments can be riskier than traditional ones. They are often harder to sell quickly, which means if you need your money back fast, you might have a hard time getting it. For example, if you invest in a piece of real estate, it can take a while to find a buyer and sell it. This is called low liquidity, and it's a big risk because you might not be able to get your money when you need it.
+Alternative investments can be riskier than traditional ones. They are often harder to sell quickly, which means if you need your money back fast, you might have a hard time getting it. For example, if you invest in a piece of real estate, it can take a while to find a buyer and sell it. This is called low [liquidity](/wiki/liquidity-risk-premium), and it's a big risk because you might not be able to get your money when you need it.
 
 Another risk is that alternative investments can be more unpredictable. They might not have as much information available as stocks and bonds, which makes it harder to know if they will do well. For instance, if you invest in a startup, there's a big chance it might fail and you could lose all your money. These investments are also less regulated, which means there's less protection for investors if something goes wrong.
 
@@ -46,7 +46,7 @@ Lastly, alternative investments often need a lot of money to start with. This me
 
 ## How can someone begin investing in alternative assets?
 
-To start investing in alternative assets, first, you need to learn about the different types like real estate, private equity, or art. It's important to understand how each one works and what risks come with it. You can read books, take online courses, or talk to people who know about these investments. Once you feel ready, decide which type of alternative investment you want to try. For example, if you're interested in real estate, you might start by buying a rental property.
+To start investing in alternative assets, first, you need to learn about the different types like real estate, private equity, or art. It's important to understand how each one works and what risks come with it. You can read [books](/wiki/algo-trading-books), take online courses, or talk to people who know about these investments. Once you feel ready, decide which type of alternative investment you want to try. For example, if you're interested in real estate, you might start by buying a rental property.
 
 Next, you'll need to find a way to invest. Some alternative investments, like real estate or art, you can buy directly. Others, like private equity or hedge funds, you might need to work with a professional who can help you get started. Make sure you have enough money to invest, because alternative investments often need more money upfront than traditional ones. It's also a good idea to talk to a financial advisor to make sure this type of investment fits with your overall financial plan.
 
@@ -90,7 +90,7 @@ The rules can also affect how much you have to pay in fees and taxes when you in
 
 Algorithmic trading, commonly referred to as algo trading, leverages the power of computer algorithms to execute trades with minimal human intervention. This method of trading is predicated on pre-defined criteria, which can include timing, price, or any mathematical model. A primary benefit of [algorithmic trading](/wiki/algorithmic-trading) is its ability to process vast amounts of data rapidly. This capability enables traders to spot and capitalize on fleeting market opportunities that would be impracticable for manual trading.
 
-Several strategies form the backbone of algorithmic trading, including arbitrage, [trend following](/wiki/trend-following), and [market making](/wiki/market-making). 
+Several strategies form the backbone of algorithmic trading, including [arbitrage](/wiki/arbitrage), [trend following](/wiki/trend-following), and [market making](/wiki/market-making). 
 
 1. **Arbitrage**: This strategy exploits price differentials of the same asset across various markets. For instance, if a stock is cheaper on one exchange compared to another, the algorithm can execute simultaneous buy and sell orders to profit from the price discrepancy. The equation representing this simple arbitrage could be expressed as:
 $$

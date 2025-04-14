@@ -62,7 +62,7 @@ Overall, MSCI Barra's risk models are very helpful for investors. They give a cl
 
 ## How does MCSI Barra integrate ESG factors into their models?
 
-MSCI Barra integrates ESG (Environmental, Social, and Governance) factors into their models to help investors understand how these factors might affect their investments. They do this by adding ESG data to their risk models. This data includes things like how much a company pollutes the environment, how well they treat their workers, and how they are run by their leaders. By including this information, MSCI Barra helps investors see if a company is doing good things or bad things that could affect its stock price.
+MSCI Barra integrates [ESG](/wiki/esg-investing) (Environmental, Social, and Governance) factors into their models to help investors understand how these factors might affect their investments. They do this by adding ESG data to their risk models. This data includes things like how much a company pollutes the environment, how well they treat their workers, and how they are run by their leaders. By including this information, MSCI Barra helps investors see if a company is doing good things or bad things that could affect its stock price.
 
 For example, if a company is not taking care of the environment, it might face fines or lose customers. This could make its stock price go down. By looking at ESG factors, investors can see these risks and decide if they want to invest in that company. MSCI Barra's models help investors make better choices by showing them the full picture of what might happen to their investments, including the impact of ESG factors.
 
@@ -80,13 +80,13 @@ By customizing the models, financial institutions can make better decisions that
 
 ## What are the latest advancements or updates in MCSI Barra's methodologies and technologies?
 
-MSCI Barra keeps improving its models and technologies to help investors make better decisions. One of the latest advancements is in their use of big data and artificial intelligence (AI). They now use more data from different sources, like social media and news, to understand market trends better. This helps them predict how investments might do more accurately. They also use AI to find patterns in the data that humans might miss. This makes their models smarter and more helpful for investors.
+MSCI Barra keeps improving its models and technologies to help investors make better decisions. One of the latest advancements is in their use of big data and [artificial intelligence](/wiki/ai-artificial-intelligence) (AI). They now use more data from different sources, like social media and news, to understand market trends better. This helps them predict how investments might do more accurately. They also use AI to find patterns in the data that humans might miss. This makes their models smarter and more helpful for investors.
 
 Another update is in how they include ESG factors in their models. MSCI Barra has made their ESG data more detailed and up-to-date. They now look at more things like a company's carbon emissions, how they treat their workers, and how well they are run. By including this information, investors can see if a company is doing good or bad things that might affect its stock price. This helps them make choices that match their values and goals.
 
 ## What is the Role of Factor Models in Algo Trading?
 
-Factor models are fundamental tools in identifying and quantifying the risk and return characteristics of investment portfolios. In the domain of [algorithmic trading](/wiki/algorithmic-trading), these models facilitate performance forecasting by pinpointing key market factors that drive returns and risks. MSCI Barra's factor models are particularly vital for crafting diversified portfolios, as they meticulously manage exposure to various systematic risk factors.
+Factor models are fundamental tools in identifying and quantifying the risk and return characteristics of investment portfolios. In the domain of [algorithmic trading](/wiki/algorithmic-trading), these models facilitate performance forecasting by pinpointing key market factors that drive returns and risks. MSCI Barra's [factor](/wiki/factor-investing) models are particularly vital for crafting diversified portfolios, as they meticulously manage exposure to various systematic risk factors.
 
 The essence of factor models lies in their ability to decompose asset returns into components attributable to different risk factors. The general form of a factor model is expressed as:
 

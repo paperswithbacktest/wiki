@@ -24,7 +24,7 @@ In 1977, the government decided to change the name of the currency to match the 
 
 The Sri Lankan Rupee has different coins that people use every day. You can find coins in these amounts: 25 cents, 50 cents, 1 rupee, 2 rupees, 5 rupees, and 10 rupees. These coins help people buy small things or give exact change. The 25 and 50 cent coins are not used as much anymore, but you might still see them sometimes.
 
-Banknotes of the Sri Lankan Rupee come in several values to help with bigger purchases. The banknotes you can find are 20 rupees, 50 rupees, 100 rupees, 500 rupees, 1000 rupees, 2000 rupees, and 5000 rupees. These notes make it easier for people to carry around larger amounts of money without needing too many coins. Each note has a different color and design to help tell them apart.
+Banknotes of the Sri Lankan Rupee come in several values to help with bigger purchases. The banknotes you can find are 20 rupees, 50 rupees, 100 rupees, 500 rupees, 1000 rupees, 2000 rupees, and 5000 rupees. These notes make it easier for people to [carry](/wiki/carry-trading) around larger amounts of money without needing too many coins. Each note has a different color and design to help tell them apart.
 
 ## How does the exchange rate of the Sri Lankan Rupee fluctuate against major world currencies?
 
@@ -48,7 +48,7 @@ Another big influence on the Rupee came from the economic crisis that started in
 
 ## What are the key factors affecting the inflation rate in relation to the Sri Lankan Rupee?
 
-Inflation in Sri Lanka, which affects the value of the Sri Lankan Rupee, is influenced by many things. One big factor is how much the country imports and exports. When Sri Lanka buys more things from other countries than it sells, it has to use up its foreign money. This can make the Rupee weaker, and when the Rupee is weak, prices go up because it costs more to buy things from other countries. Also, if the government prints more money to pay for things, this can lead to higher inflation because there is more money chasing the same amount of goods.
+Inflation in Sri Lanka, which affects the value of the Sri Lankan Rupee, is influenced by many things. One big [factor](/wiki/factor-investing) is how much the country imports and exports. When Sri Lanka buys more things from other countries than it sells, it has to use up its foreign money. This can make the Rupee weaker, and when the Rupee is weak, prices go up because it costs more to buy things from other countries. Also, if the government prints more money to pay for things, this can lead to higher inflation because there is more money chasing the same amount of goods.
 
 Another factor is how the government manages its spending and taxes. If the government spends a lot of money without collecting enough taxes, it might have to borrow more, which can lead to higher inflation. This is because borrowing more money can make people think the economy is not doing well, which can make the Rupee weaker. Also, natural disasters or political problems can make it hard to grow food or make things, which can push prices up and affect inflation. All these things together can make the value of the Rupee go up and down, and they are important to watch to understand inflation in Sri Lanka.
 

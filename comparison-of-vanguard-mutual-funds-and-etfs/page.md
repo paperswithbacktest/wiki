@@ -18,7 +18,7 @@ The way these funds work is pretty straightforward. When you put money into a Va
 
 Vanguard ETFs, or Exchange-Traded Funds, are another type of investment offered by Vanguard. Like mutual funds, ETFs allow you to invest in a basket of different stocks, bonds, or other assets. The big difference is that ETFs are traded on stock exchanges, just like individual stocks. This means you can buy and sell Vanguard ETFs throughout the trading day at the current market price, rather than waiting until the end of the day like you do with mutual funds.
 
-When you invest in a Vanguard ETF, your money goes into the fund, and the fund managers use it to buy a diverse range of investments. This helps spread out your risk because your money is not tied to the success of just one company. The value of the ETF can go up or down based on how well the investments in the fund are doing. Vanguard ETFs are known for being low-cost, which means more of your money stays invested and can grow over time.
+When you invest in a Vanguard [ETF](/wiki/etf-trading-strategies), your money goes into the fund, and the fund managers use it to buy a diverse range of investments. This helps spread out your risk because your money is not tied to the success of just one company. The value of the ETF can go up or down based on how well the investments in the fund are doing. Vanguard ETFs are known for being low-cost, which means more of your money stays invested and can grow over time.
 
 ## What are the key differences between Vanguard Mutual Funds and Vanguard ETFs?
 
@@ -86,11 +86,11 @@ Algorithmic trading with ETFs (Exchange-Traded Funds) and mutual funds involves 
 
 ### Potential Pitfalls of Algorithmic Trading with ETFs and Mutual Funds
 
-Algorithmic trading, while offering benefits such as speed and efficiency, also presents significant risks that can impact investments in ETFs and mutual funds. One primary concern is the risk of over-optimization, where a trading algorithm performs well on historical data but fails to achieve similar results in real-world conditions due to changing market dynamics. Additionally, algorithms can exacerbate market volatility during periods of extreme fluctuations, leading to potential losses.
+Algorithmic trading, while offering benefits such as speed and efficiency, also presents significant risks that can impact investments in ETFs and mutual funds. One primary concern is the risk of over-optimization, where a trading algorithm performs well on historical data but fails to achieve similar results in real-world conditions due to changing market dynamics. Additionally, algorithms can exacerbate market [volatility](/wiki/volatility-trading-strategies) during periods of extreme fluctuations, leading to potential losses.
 
 ### Important Market Factors
 
-Several market factors must be considered when deploying algorithmic strategies. Market liquidity is crucial, especially for ETFs, as it affects the transaction cost and the ability to execute trades without significantly impacting asset prices. Volatility is another important [factor](/wiki/factor-investing), as it can influence the performance of certain algorithms, particularly those designed for trend following or [market making](/wiki/market-making).
+Several market factors must be considered when deploying algorithmic strategies. Market [liquidity](/wiki/liquidity-risk-premium) is crucial, especially for ETFs, as it affects the transaction cost and the ability to execute trades without significantly impacting asset prices. Volatility is another important [factor](/wiki/factor-investing), as it can influence the performance of certain algorithms, particularly those designed for [trend following](/wiki/trend-following) or [market making](/wiki/market-making).
 
 The calculation of the bid-ask spread and slippage costs are critical in evaluating the efficiency of an algorithmic strategy. These costs can be represented mathematically as:
 
@@ -100,7 +100,7 @@ $$
 
 ### Compliance and Regulatory Considerations
 
-Algorithmic traders must navigate a complex regulatory landscape. Compliance with financial regulations is imperative to avoid penalties and legal issues. In the U.S., for example, the Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA) have specific guidelines regarding the use of algorithms in trading activities. Additionally, MiFID II in Europe imposes requirements on algorithmic trading to ensure market integrity and investor protection.
+Algorithmic traders must navigate a complex regulatory landscape. Compliance with financial regulations is imperative to avoid penalties and legal issues. In the U.S., for example, the Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA) have specific guidelines regarding the use of algorithms in trading activities. Additionally, MiFID II in Europe imposes requirements on [algorithmic trading](/wiki/algorithmic-trading) to ensure market integrity and investor protection.
 
 ### Technology and Data Quality
 

@@ -30,7 +30,7 @@ Another big source of objective probability is looking at past data. If you want
 
 ## Can you explain the concept of frequency probability?
 
-Frequency probability is a way to figure out how likely something is to happen by looking at how often it has happened before. Imagine you're rolling a die. If you roll it many times and a certain number comes up a lot, you can say that number has a high frequency probability. It's like counting how many times something happens and then using that count to guess the chances of it happening again. 
+Frequency probability is a way to figure out how likely something is to happen by looking at how often it has happened before. Imagine you're rolling a die. If you roll it many times and a certain number comes up a lot, you can say that number has a [high frequency](/wiki/high-frequency-trading) probability. It's like counting how many times something happens and then using that count to guess the chances of it happening again. 
 
 For example, if you flip a coin 100 times and it lands on heads 50 times, you might say the frequency probability of getting heads is 50 out of 100, or 50%. This method is really useful because it's based on real data, not just guesses. Scientists and gamblers use it a lot to predict things like the weather or the outcome of a game. By looking at how often something has happened in the past, they can make better guesses about what might happen in the future.
 

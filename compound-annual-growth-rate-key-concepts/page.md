@@ -60,7 +60,7 @@ Using the right time period is important because it helps you understand how fas
 
 Compounding frequency is how often the interest or earnings on an investment are added to the investment. This can happen yearly, monthly, daily, or even more often. When you calculate the Compound Annual Growth Rate (CAGR), you usually assume the compounding happens once a year. But if the compounding happens more often, like monthly or daily, the investment can grow faster because the earnings are added back into the investment more often. This means the actual growth rate could be higher than what the CAGR shows if you're using yearly compounding.
 
-For example, if you have $1,000 and it grows to $1,200 in two years with monthly compounding, the real growth rate might be higher than if you calculated the CAGR assuming yearly compounding. The more often the compounding happens, the more the investment can grow because each time the earnings are added, they start earning more money too. So, when you're looking at investments, it's good to know how often the compounding happens because it can make a big difference in how much your money grows over time.
+For example, if you have $1,000 and it grows to $1,200 in two years with monthly compounding, the real growth rate might be higher than if you calculated the CAGR assuming yearly compounding. The more often the compounding happens, the more the investment can grow because each time the earnings are added, they start [earning](/wiki/earning-announcement) more money too. So, when you're looking at investments, it's good to know how often the compounding happens because it can make a big difference in how much your money grows over time.
 
 ## Can CAGR be applied to negative growth rates?
 
@@ -82,7 +82,7 @@ Another advanced use of CAGR is in portfolio management. Investors and fund mana
 
 ## What is the Understanding of Compound Annual Growth Rate (CAGR)?
 
-The Compound Annual Growth Rate (CAGR) is a vital financial metric used to measure the mean annual growth rate of an investment over a period longer than one year. It is particularly beneficial as it provides a smoothed rate of return, offering a clear picture of growth by mitigating the impact of volatility experienced in periodic gains and losses.
+The Compound Annual Growth Rate (CAGR) is a vital financial metric used to measure the mean annual growth rate of an investment over a period longer than one year. It is particularly beneficial as it provides a smoothed rate of return, offering a clear picture of growth by mitigating the impact of [volatility](/wiki/volatility-trading-strategies) experienced in periodic gains and losses.
 
 Mathematically, CAGR is expressed using the formula:
 

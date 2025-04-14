@@ -54,7 +54,7 @@ Once an investment is chosen, Yieldstreet keeps a close eye on it. They have a t
 
 Yieldstreet has had a good track record with its investments. Since they started, many of their investments have made money for people who put money in them. For example, their real estate investments have often done well, with some projects making a lot of money when they were sold. The same goes for their art investments, where pieces of art have gone up in value over time. This has helped a lot of investors earn more than they would have with regular savings accounts or other simple investments.
 
-Of course, not every investment on Yieldstreet has been a winner. Some have lost money, which is normal in investing because there's always some risk. But overall, Yieldstreet has managed to keep the good investments more common than the bad ones. They share detailed reports about how each investment is doing, so people can see the ups and downs. This helps investors understand that while there are risks, Yieldstreet has a history of finding good opportunities that can lead to profits.
+Of [course](/wiki/best-algorithmic-trading-courses), not every investment on Yieldstreet has been a winner. Some have lost money, which is normal in investing because there's always some risk. But overall, Yieldstreet has managed to keep the good investments more common than the bad ones. They share detailed reports about how each investment is doing, so people can see the ups and downs. This helps investors understand that while there are risks, Yieldstreet has a history of finding good opportunities that can lead to profits.
 
 ## How does Yieldstreet ensure transparency and investor communication?
 
@@ -78,7 +78,7 @@ Another way Yieldstreet is different is how they work hard to keep things clear 
 
 In 2024, Yieldstreet is planning to keep making their platform better and easier to use. They want to add more types of investments so people can have even more choices. They might start offering things like investments in technology startups or green energy projects. This would give investors more ways to put their money into things they care about, like helping the environment or supporting new businesses. Yieldstreet also wants to make their website and app easier to use, so even if you're new to investing, you can figure out how to use it without any trouble.
 
-Another big thing Yieldstreet is working on is using new technology to make investing smoother. They're looking into using artificial intelligence to help pick the best investments and to give better advice to people. This could mean that the platform will be able to suggest investments that fit what you're looking for even better. They also want to make sure their platform is safe and secure, so they'll be adding more ways to protect your money and information. All these changes are meant to make investing with Yieldstreet a better experience for everyone.
+Another big thing Yieldstreet is working on is using new technology to make investing smoother. They're looking into using [artificial intelligence](/wiki/ai-artificial-intelligence) to help pick the best investments and to give better advice to people. This could mean that the platform will be able to suggest investments that fit what you're looking for even better. They also want to make sure their platform is safe and secure, so they'll be adding more ways to protect your money and information. All these changes are meant to make investing with Yieldstreet a better experience for everyone.
 
 ## References & Further Reading
 

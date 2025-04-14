@@ -142,7 +142,7 @@ Net income remains a fundamental metric for assessing profitability, yet its tru
 
 ## References & Further Reading
 
-García, R., & Tsafack, G. (2011). "Dependence Structure and Risk Measurement in Algorithmic Trading." This work emphasizes the importance of understanding the dependence structures in financial time series and the implications for risk management in algorithmic trading. The study provides insights into how dependence modeling can improve the accuracy of risk assessments in automated trading systems.
+García, R., & Tsafack, G. (2011). "Dependence Structure and Risk Measurement in Algorithmic Trading." This work emphasizes the importance of understanding the dependence structures in financial time series and the implications for risk management in [algorithmic trading](/wiki/algorithmic-trading). The study provides insights into how dependence modeling can improve the accuracy of risk assessments in automated trading systems.
 
 Schroff, G., & Eydeland, A. (2010). "Algorithmic and High-Frequency Trading." This book offers a comprehensive overview of the strategies and technologies behind algorithmic and high-frequency trading. It covers various trading algorithms, execution strategies, and the role of technology in enhancing trading performance.
 

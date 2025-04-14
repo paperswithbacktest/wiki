@@ -18,7 +18,7 @@ For example, if a portfolio did better than a benchmark, attribution analysis ca
 
 Attribution analysis is important for investors because it helps them understand why their investments are doing well or poorly. It breaks down the performance of a portfolio into smaller pieces, showing which parts are working and which aren't. This way, investors can see if their gains are coming from smart choices by the manager, like picking good stocks, or if it's just because they happened to invest in a sector that's doing well overall.
 
-By knowing these details, investors can make better decisions about their money. If they see that a manager is good at picking stocks but bad at choosing sectors, they might decide to keep investing with that manager but also adjust their own strategy. Attribution analysis also helps investors hold their managers accountable, making sure they're earning their fees by adding value to the portfolio.
+By knowing these details, investors can make better decisions about their money. If they see that a manager is good at picking stocks but bad at choosing sectors, they might decide to keep investing with that manager but also adjust their own strategy. Attribution analysis also helps investors hold their managers accountable, making sure they're [earning](/wiki/earning-announcement) their fees by adding value to the portfolio.
 
 ## What are the basic components of attribution analysis?
 
@@ -72,7 +72,7 @@ This type of analysis also helps managers see how their choices at different lev
 
 ## What advanced techniques can be applied to improve the accuracy of attribution analysis?
 
-One advanced technique to improve the accuracy of attribution analysis is using multi-factor models. These models look at different things that can affect how investments do, like how big a company is, how much it grows, or how risky it is. By considering these factors, multi-factor models can give a more detailed picture of why a portfolio did well or not so well. This helps managers see if their gains came from picking good stocks or if it was because they invested in companies with certain traits that did well.
+One advanced technique to improve the accuracy of attribution analysis is using multi-[factor](/wiki/factor-investing) models. These models look at different things that can affect how investments do, like how big a company is, how much it grows, or how risky it is. By considering these factors, multi-factor models can give a more detailed picture of why a portfolio did well or not so well. This helps managers see if their gains came from picking good stocks or if it was because they invested in companies with certain traits that did well.
 
 Another technique is using time-weighted attribution, which looks at how investments perform over different periods. This can help managers understand if their choices were good at different times, not just overall. By breaking down performance into shorter time frames, time-weighted attribution can show if a manager made smart moves at the right time or if they got lucky. This way, managers can adjust their strategies to focus on what works best at different times, making their decisions more accurate and effective.
 

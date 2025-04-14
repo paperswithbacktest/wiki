@@ -24,7 +24,7 @@ Besides the payment schedule, QUIDS can also differ in terms of the types of iss
 
 Quarterly Income Debt Securities, or QUIDS, are a type of bond that pays interest to investors every three months. This regular payment schedule is the main feature that sets QUIDS apart from other bonds, which might pay interest only once or twice a year. Because of this, QUIDS are often chosen by people who need a steady income, like retirees, since they can rely on getting money every quarter.
 
-Apart from the quarterly payments, QUIDS can have other features depending on who issues them. They can be issued by companies or governments, and the interest rate might be higher if the issuer is riskier. This means investors need to think carefully about the risks involved. If the issuer runs into financial trouble, they might not be able to make the interest payments or return the money at the end of the bond term. So, it's important for investors to understand these risks before deciding to invest in QUIDS.
+Apart from the quarterly payments, QUIDS can have other features depending on who issues them. They can be issued by companies or governments, and the [interest rate](/wiki/interest-rate-trading-strategies) might be higher if the issuer is riskier. This means investors need to think carefully about the risks involved. If the issuer runs into financial trouble, they might not be able to make the interest payments or return the money at the end of the bond term. So, it's important for investors to understand these risks before deciding to invest in QUIDS.
 
 ## Who are the primary issuers of Quarterly Income Debt Securities?
 
@@ -42,7 +42,7 @@ Another benefit is that QUIDS can offer a way to diversify an investment portfol
 
 Investing in Quarterly Income Debt Securities, or QUIDS, comes with some risks. One big risk is that the issuer might not be able to pay the interest every three months or return the money at the end of the bond term. If the company or government that issued the QUIDS runs into financial trouble, they might miss payments or even go bankrupt. This means investors could lose some or all of their money. It's important to check how stable the issuer is before investing in QUIDS.
 
-Another risk is that QUIDS might not be easy to sell if an investor needs their money back quickly. These securities might not have a big market where people can buy and sell them easily. If an investor tries to sell their QUIDS before they mature, they might have to sell them for less than they paid. This is called liquidity risk, and it can be a problem if someone needs cash in a hurry. So, it's a good idea to think about how long you can keep your money tied up in QUIDS before you invest.
+Another risk is that QUIDS might not be easy to sell if an investor needs their money back quickly. These securities might not have a big market where people can buy and sell them easily. If an investor tries to sell their QUIDS before they mature, they might have to sell them for less than they paid. This is called [liquidity](/wiki/liquidity-risk-premium) risk, and it can be a problem if someone needs cash in a hurry. So, it's a good idea to think about how long you can keep your money tied up in QUIDS before you invest.
 
 ## How are the interest payments calculated for Quarterly Income Debt Securities?
 

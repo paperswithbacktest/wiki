@@ -28,7 +28,7 @@ The balance sheet will show the total amount of long-term debt the company has. 
 
 ## What are the common types of long-term debt?
 
-Long-term debt can come in different forms, but some of the most common types are bank loans and bonds. Bank loans are when a company borrows money from a bank and agrees to pay it back over a long time, usually with interest. These loans can be used for things like buying new equipment, expanding the business, or other big projects. The terms of the loan, like the interest rate and how long the company has to pay it back, are set in a contract between the bank and the company.
+Long-term debt can come in different forms, but some of the most common types are bank loans and bonds. Bank loans are when a company borrows money from a bank and agrees to pay it back over a long time, usually with interest. These loans can be used for things like buying new equipment, expanding the business, or other big projects. The terms of the loan, like the [interest rate](/wiki/interest-rate-trading-strategies) and how long the company has to pay it back, are set in a contract between the bank and the company.
 
 Bonds are another common type of long-term debt. When a company issues bonds, it is borrowing money from investors. The company promises to pay back the money it borrowed, plus interest, over a set period of time. Bonds can be bought and sold by investors, and they often have a fixed interest rate. This means the company knows exactly how much it needs to pay back each time, which can help with planning.
 

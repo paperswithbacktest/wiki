@@ -40,7 +40,7 @@ Another benefit is that it helps you manage your money better. When you know how
 
 ## Are there any risks associated with having a free credit balance?
 
-Having a free credit balance in your account is usually a good thing, but there can be some risks too. One risk is that the money might not be earning as much interest as it could if it were invested. If you keep a lot of money sitting in your account without using it, you might miss out on earning more money from investments like stocks or bonds.
+Having a free credit balance in your account is usually a good thing, but there can be some risks too. One risk is that the money might not be [earning](/wiki/earning-announcement) as much interest as it could if it were invested. If you keep a lot of money sitting in your account without using it, you might miss out on earning more money from investments like stocks or bonds.
 
 Another risk is that if your account isn't protected well, someone might steal your money. This can happen through things like hacking or fraud. It's important to keep your account safe with strong passwords and to watch out for any strange activity. Keeping a free credit balance is helpful, but it's good to be aware of these risks and take steps to protect your money.
 
@@ -58,7 +58,7 @@ Another good practice is to use your free credit balance wisely. If you have ext
 
 ## How does a free credit balance affect liquidity and cash flow management?
 
-A free credit balance is like having cash in your pocket that you can use anytime. It's really important for liquidity, which means having enough money to pay for things when you need to. When you have a good free credit balance, you can easily cover your bills, buy things you need, or deal with unexpected costs without having to wait for money to come in or sell investments. This makes your life easier because you don't have to worry about running out of money at the wrong time.
+A free credit balance is like having cash in your pocket that you can use anytime. It's really important for [liquidity](/wiki/liquidity-risk-premium), which means having enough money to pay for things when you need to. When you have a good free credit balance, you can easily cover your bills, buy things you need, or deal with unexpected costs without having to wait for money to come in or sell investments. This makes your life easier because you don't have to worry about running out of money at the wrong time.
 
 Managing cash flow, which is about keeping track of money coming in and going out, also gets better with a healthy free credit balance. If you know you have money available, you can plan your spending and saving better. You can pay your bills on time, avoid late fees, and maybe even put some money into savings or investments. But, it's also smart to keep an eye on your free credit balance and not let it get too low, so you always have enough cash for what you need.
 

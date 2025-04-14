@@ -22,7 +22,7 @@ Both types of income are important, but they serve different purposes. Passive i
 
 ## What are some common passive income investment options for beginners?
 
-For beginners looking to start earning passive income, one common option is investing in dividend stocks. These are shares in companies that pay out part of their profits to shareholders regularly. You buy the stock, and then you get a little bit of money, called a dividend, every few months or so. It's like getting a small paycheck just for owning a piece of the company. Another simple option is putting money into a high-yield savings account. While the returns might not be as high as stocks, it's very safe and you earn interest over time without doing anything extra.
+For beginners looking to start [earning](/wiki/earning-announcement) passive income, one common option is investing in dividend stocks. These are shares in companies that pay out part of their profits to shareholders regularly. You buy the stock, and then you get a little bit of money, called a dividend, every few months or so. It's like getting a small paycheck just for owning a piece of the company. Another simple option is putting money into a high-yield savings account. While the returns might not be as high as stocks, it's very safe and you earn interest over time without doing anything extra.
 
 Another popular choice for beginners is investing in real estate investment trusts (REITs). These are companies that own and manage properties like apartments, shopping centers, or office buildings. When you buy shares in a REIT, you get a part of the income that these properties generate. It's a way to invest in real estate without having to buy and manage a property yourself. Lastly, peer-to-peer lending can also be a good start. This is when you lend money to people through online platforms, and they pay you back with interest. It's a bit riskier, but it can give you higher returns than a savings account.
 
@@ -52,7 +52,7 @@ Adding bonds to your passive income portfolio can help balance things out. While
 
 ## How can creating and selling digital products generate passive income?
 
-Creating and selling digital products can be a great way to earn passive income. Digital products are things like e-books, online courses, or even digital art that you can make once and sell many times. Once you create the product and set up a way to sell it, like a website or an online marketplace, you don't need to do much more work. People can buy it anytime, and the money comes to you without you having to do anything extra.
+Creating and selling digital products can be a great way to earn passive income. Digital products are things like e-[books](/wiki/algo-trading-books), online courses, or even digital art that you can make once and sell many times. Once you create the product and set up a way to sell it, like a website or an online marketplace, you don't need to do much more work. People can buy it anytime, and the money comes to you without you having to do anything extra.
 
 This kind of passive income is good because it can keep coming in for a long time. For example, if you write an e-book, people might keep buying it for years. You might need to update it sometimes or do a little marketing, but mostly, it's money you earn while you sleep. It's a way to use your skills or knowledge to make money without having to work a regular job.
 

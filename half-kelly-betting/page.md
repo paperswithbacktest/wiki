@@ -115,7 +115,7 @@ Effective trading strategies must thus balance mathematical optimization with an
 
 Implementing Half-Kelly betting in trading algorithms requires careful adjustment of bet sizes or trade volumes to match the calculated half-Kelly fraction. This approach serves as a middle ground between the full Kelly strategy and more conservative fixed betting, prioritizing risk management even as it pursues optimal returns.
 
-To integrate Half-Kelly parameters effectively, one must consider the adaptability of modern algorithmic trading platforms. These systems can dynamically adjust trade sizes in response to changing market conditions and input variables. The formula for Half-Kelly betting involves taking the original Kelly Criterion output and dividing it by two. The Kelly Criterion itself can be calculated as follows:
+To integrate Half-Kelly parameters effectively, one must consider the adaptability of modern [algorithmic trading](/wiki/algorithmic-trading) platforms. These systems can dynamically adjust trade sizes in response to changing market conditions and input variables. The formula for Half-Kelly betting involves taking the original Kelly Criterion output and dividing it by two. The Kelly Criterion itself can be calculated as follows:
 
 $$
 f^* = \frac{bp - q}{b}

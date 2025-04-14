@@ -30,7 +30,7 @@ Another benefit is that municipal bond funds can help spread out your risk. When
 
 One risk with municipal bond funds is that the city or state that issued the bonds might have trouble paying back the money they borrowed. If that happens, it could lower the value of the bonds, and that means the fund could lose money. This is called credit risk. Even though the fund spreads out the risk by buying lots of different bonds, if a lot of them have problems at the same time, it could still affect your investment.
 
-Another risk is interest rate risk. When interest rates go up, the value of the bonds in the fund can go down. That's because new bonds that are issued will pay higher interest, making the older bonds with lower interest rates less attractive to investors. If you need to sell your shares in the fund when interest rates have gone up, you might get less money back than you put in.
+Another risk is [interest rate](/wiki/interest-rate-trading-strategies) risk. When interest rates go up, the value of the bonds in the fund can go down. That's because new bonds that are issued will pay higher interest, making the older bonds with lower interest rates less attractive to investors. If you need to sell your shares in the fund when interest rates have gone up, you might get less money back than you put in.
 
 Lastly, there's the risk that comes from changes in the market or economy. Things like a big economic downturn or changes in tax laws can affect how well municipal bond funds do. If people start to think that municipal bonds are riskier, they might want to sell their shares in the fund, which can make the price of the fund go down. So, even though municipal bond funds can be a good choice for some investors, it's important to think about these risks before you decide to invest.
 
@@ -50,7 +50,7 @@ However, if you live in a different state from where the bonds were issued, you 
 
 General obligation bonds and revenue bonds are two types of municipal bonds, but they work a bit differently. General obligation bonds are backed by the full faith and credit of the city or state that issues them. This means that the government promises to use its taxing power to pay back the money it borrowed. So, if you buy a general obligation bond, you're relying on the government's ability to raise taxes or use other funds to pay you back.
 
-Revenue bonds, on the other hand, are not backed by the government's taxing power. Instead, they are paid back using money earned from a specific project that the bond helped fund. For example, if a city issues a revenue bond to build a toll road, the money to pay back the bond would come from the tolls people pay to use the road. So, if you buy a revenue bond, your investment depends on how well the project does in earning money.
+Revenue bonds, on the other hand, are not backed by the government's taxing power. Instead, they are paid back using money earned from a specific project that the bond helped fund. For example, if a city issues a revenue bond to build a toll road, the money to pay back the bond would come from the tolls people pay to use the road. So, if you buy a revenue bond, your investment depends on how well the project does in [earning](/wiki/earning-announcement) money.
 
 ## How do interest rate changes affect municipal bond funds?
 
@@ -113,7 +113,7 @@ To optimize tax efficiency, investors often employ sophisticated tax strategies 
    Part of the CFA Institute Investment Series, this book offers comprehensive insights into fixed income securities, including municipal bonds. It is ideal for those interested in a thorough understanding of valuation and risk management in fixed income markets.
 
 3. **"Financial Machine Learning" by Marcos López de Prado**  
-   An essential resource for anyone interested in applying machine learning techniques to trading, this book introduces various machine learning models and discusses their applications in trading strategies, including those suitable for algorithmic trading in bond markets.
+   An essential resource for anyone interested in applying [machine learning](/wiki/machine-learning) techniques to trading, this book introduces various machine learning models and discusses their applications in trading strategies, including those suitable for [algorithmic trading](/wiki/algorithmic-trading) in bond markets.
 
 4. **"Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies" by Barry Johnson**  
    This book covers the basics of algorithmic trading, including techniques and strategies applicable to bond markets. It provides practical tips for setting up and deploying trading algorithms, making it a valuable resource for traders looking to enhance their expertise.

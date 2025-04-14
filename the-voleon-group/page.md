@@ -18,7 +18,7 @@ The company was founded by some smart people who used to work at a place called 
 
 The Voleon Group was founded in 2007. It is a company that uses computers and math to invest money. They are based in California.
 
-The company was started by some smart people from the University of California, Berkeley. They wanted to use their knowledge of math and computers to do something different in the world of investing. The Voleon Group uses artificial intelligence, which is like teaching computers to think and make decisions, to help them pick good investments.
+The company was started by some smart people from the University of California, Berkeley. They wanted to use their knowledge of math and computers to do something different in the world of investing. The Voleon Group uses [artificial intelligence](/wiki/ai-artificial-intelligence), which is like teaching computers to think and make decisions, to help them pick good investments.
 
 ## Who are the founders of The Voleon Group?
 
@@ -48,7 +48,7 @@ The company keeps their exact methods secret, but they are known for being good 
 
 Machine learning is very important for The Voleon Group. It helps them use computers to find good investments. Machine learning is like teaching computers to learn from data and make smart choices. The Voleon Group uses this to look at lots of information and find patterns that other people might not see. This helps them pick investments that might make more money for their clients.
 
-The company was started by smart people from the University of California, Berkeley. They wanted to use their knowledge of math and computers to do something different in the world of investing. By using machine learning, they can find the best ways to invest money. Even though they keep their exact methods secret, everyone knows they are good at what they do because of how they use machine learning.
+The company was started by smart people from the University of California, Berkeley. They wanted to use their knowledge of math and computers to do something different in the world of investing. By using [machine learning](/wiki/machine-learning), they can find the best ways to invest money. Even though they keep their exact methods secret, everyone knows they are good at what they do because of how they use machine learning.
 
 ## How has The Voleon Group performed financially over the years?
 

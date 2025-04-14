@@ -191,7 +191,7 @@ BVPS focuses solely on a company's book value, which is its assets minus liabili
 
 ### How is BVPS used in algorithmic trading strategies?
 
-In algorithmic trading, BVPS serves as a benchmark for identifying potentially undervalued stocks by comparing the market price to the book value. Algorithms use BVPS to filter stocks that are trading below their book value, thus highlighting opportunities for value investing. This is often mechanized through trading bots that execute trades when certain BVPS thresholds are met.
+In [algorithmic trading](/wiki/algorithmic-trading), BVPS serves as a benchmark for identifying potentially undervalued stocks by comparing the market price to the book value. Algorithms use BVPS to filter stocks that are trading below their book value, thus highlighting opportunities for value investing. This is often mechanized through trading bots that execute trades when certain BVPS thresholds are met.
 
 ### Is BVPS relevant for tax and accounting purposes?
 

@@ -22,11 +22,11 @@ Another big difference is who can use these services. Traditional finance often 
 
 ## What are the basic components of DeFi trading models?
 
-DeFi trading models are made up of a few key parts that help them work without banks. One important part is smart contracts, which are like automatic agreements written in computer code. When certain conditions are met, the smart contract does what it's supposed to do without anyone needing to step in. For example, if you want to trade one type of cryptocurrency for another, the smart contract can make the trade happen automatically.
+DeFi trading models are made up of a few key parts that help them work without banks. One important part is smart contracts, which are like automatic agreements written in computer code. When certain conditions are met, the smart contract does what it's supposed to do without anyone needing to step in. For example, if you want to trade one type of [cryptocurrency](/wiki/cryptocurrency) for another, the smart contract can make the trade happen automatically.
 
 Another part of DeFi trading models is decentralized exchanges (DEXs). These are places on the internet where you can trade cryptocurrencies directly with other people, without a middleman like a bank or a traditional exchange. DEXs use the blockchain to keep track of all the trades, so everyone can see what's happening and trust that the trades are fair. This makes trading more open and available to anyone with an internet connection.
 
-Liquidity pools are also a big part of DeFi trading. These are like shared pools of money that people can add to or take from. When you want to trade on a DEX, you might use a liquidity pool to make the trade happen. People who add money to these pools can earn rewards, which encourages more people to join in and keep the trading going smoothly. Together, these parts help make DeFi trading work in a way that's different from traditional finance.
+Liquidity pools are also a big part of DeFi trading. These are like shared pools of money that people can add to or take from. When you want to trade on a DEX, you might use a [liquidity](/wiki/liquidity-risk-premium) pool to make the trade happen. People who add money to these pools can earn rewards, which encourages more people to join in and keep the trading going smoothly. Together, these parts help make DeFi trading work in a way that's different from traditional finance.
 
 ## What are the most common DeFi trading platforms?
 
@@ -52,7 +52,7 @@ DeFi trading can be exciting, but it also comes with some risks that you should 
 
 Another risk is called impermanent loss. This can happen if you're a liquidity provider and you add your money to a liquidity pool. If the price of the cryptocurrencies in the pool changes a lot, you might end up with less money than you started with when you take your money out. This is different from just holding onto your cryptocurrencies, where the value might go up or down but you know exactly what you have. Impermanent loss can be confusing and risky, so it's something to think about before you decide to be a liquidity provider.
 
-Lastly, there's the risk of high volatility. The prices of cryptocurrencies can go up and down a lot, sometimes very quickly. This means you could make or lose a lot of money in a short time. It's different from traditional markets, where prices usually don't change as much. Because DeFi is still new and not as regulated, it can be even more unpredictable. So, it's important to be ready for big price swings and only trade with money you can afford to lose.
+Lastly, there's the risk of high [volatility](/wiki/volatility-trading-strategies). The prices of cryptocurrencies can go up and down a lot, sometimes very quickly. This means you could make or lose a lot of money in a short time. It's different from traditional markets, where prices usually don't change as much. Because DeFi is still new and not as regulated, it can be even more unpredictable. So, it's important to be ready for big price swings and only trade with money you can afford to lose.
 
 ## How can one manage and mitigate risks in DeFi trading?
 
@@ -86,7 +86,7 @@ Regulations are also playing a big role in how DeFi trading models are evolving.
 
 ## What are the key factors for creating sustainable DeFi ecosystems in terms of revenue and growth?
 
-Supra is at the forefront of developing sustainable revenue models in decentralized finance (DeFi) by leveraging automation. Automation reduces manual intervention, enhances efficiency, and optimizes the allocation of resources across the ecosystem. This section examines the mechanisms of auto-liquidations and auto-arbitrage within the Supra ecosystem, and the pivotal role of network-owned liquidity in promoting financial growth.
+Supra is at the forefront of developing sustainable revenue models in decentralized finance (DeFi) by leveraging automation. Automation reduces manual intervention, enhances efficiency, and optimizes the allocation of resources across the ecosystem. This section examines the mechanisms of auto-liquidations and auto-[arbitrage](/wiki/arbitrage) within the Supra ecosystem, and the pivotal role of network-owned liquidity in promoting financial growth.
 
 Auto-liquidations represent a critical process in DeFi, ensuring that borrowed assets are sufficiently collateralized. Supra utilizes automated systems to monitor collateral levels continuously, executing liquidations when the collateral falls below a predetermined threshold. This threshold can be represented as:
 

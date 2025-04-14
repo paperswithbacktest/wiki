@@ -72,7 +72,7 @@ Another problem with using just candlestick charts is that they can be hard to r
 
 ## How can one backtest candlestick patterns to validate their effectiveness in different market conditions?
 
-Backtesting candlestick patterns means checking how well they worked in the past to see if they might work in the future. You can do this by looking at old price data and seeing what happened after certain patterns showed up. For example, you might find all the times a bullish engulfing pattern appeared on a daily chart and then see if the price went up after that. You can use special computer programs or trading platforms to help you do this. These programs let you go back in time and see how different patterns did in different markets, like stocks or forex.
+Backtesting candlestick patterns means checking how well they worked in the past to see if they might work in the future. You can do this by looking at old price data and seeing what happened after certain patterns showed up. For example, you might find all the times a bullish engulfing pattern appeared on a daily chart and then see if the price went up after that. You can use special computer programs or trading platforms to help you do this. These programs let you go back in time and see how different patterns did in different markets, like stocks or [forex](/wiki/forex-system).
 
 It's important to backtest candlestick patterns in different market conditions because the market can act differently at different times. Sometimes the market goes up a lot, sometimes it goes down, and sometimes it doesn't move much at all. By looking at how patterns worked in these different situations, you can get a better idea of when they might be useful. For example, a doji might be a strong sign of a reversal in a fast-moving market but not as useful in a market that's not moving much. Backtesting helps you see these differences and use candlestick patterns more wisely in your trading.
 
@@ -80,7 +80,7 @@ It's important to backtest candlestick patterns in different market conditions b
 
 Candlestick analysis can be a powerful tool when you include it in your overall trading plan. Start by using candlestick patterns to spot possible changes in the market's direction. For example, if you see a bullish engulfing pattern on a daily chart, it might mean the price is about to go up. But don't just rely on candlesticks alone. Use them with other tools like moving averages and the Relative Strength Index (RSI) to get a fuller picture. If a bullish pattern shows up near a moving average and the RSI is low, it can give you more confidence that the price might rise. This way, you're not just guessing based on one thing but using several signs to make a smarter decision.
 
-It's also important to think about the time frame you're using when you look at candlestick patterns. Patterns on short time frames, like a few minutes, might not mean much for the bigger picture, but patterns on longer time frames, like daily or weekly charts, can be more reliable. Always backtest your candlestick patterns to see how well they worked in the past. This can help you understand if they're likely to work in the future and in different market conditions. By combining candlestick analysis with other tools, considering different time frames, and backtesting, you can create a trading plan that's more likely to help you make good choices in the market.
+It's also important to think about the time frame you're using when you look at candlestick patterns. Patterns on short time frames, like a few minutes, might not mean much for the bigger picture, but patterns on longer time frames, like daily or weekly charts, can be more reliable. Always backtest your candlestick patterns to see how well they worked in the past. This can help you understand if they're likely to work in the future and in different market conditions. By combining candlestick analysis with other tools, considering different time frames, and [backtesting](/wiki/backtesting), you can create a trading plan that's more likely to help you make good choices in the market.
 
 ## What lies beyond candlestick charts in technical analysis?
 
@@ -94,7 +94,7 @@ $$
 
 where $P_i$ is the price of the asset at any given point, and $n$ is the number of periods considered. By evaluating short-term and long-term moving averages, traders can ascertain the momentum and strength of trends. For instance, a crossover where the short-term average rises above a long-term average often signals a potential upward trend.
 
-The RSI is a momentum oscillator that measures the speed and change of price movements, oscillating between 0 and 100. Generally, an RSI above 70 indicates that an asset might be overbought, whereas an RSI below 30 suggests it could be oversold. The RSI is calculated as:
+The RSI is a [momentum](/wiki/momentum) oscillator that measures the speed and change of price movements, oscillating between 0 and 100. Generally, an RSI above 70 indicates that an asset might be overbought, whereas an RSI below 30 suggests it could be oversold. The RSI is calculated as:
 
 $$
 \text{RSI} = 100 - \frac{100}{1 + \frac{\text{Average Gain}}{\text{Average Loss}}}

@@ -40,7 +40,7 @@ On the other hand, a total return index includes both the price changes and the 
 
 ## How do market indexes help in understanding the risk and volatility of investments?
 
-Market indexes help investors understand the risk and volatility of their investments by providing a benchmark to measure against. If you look at an index like the S&P 500, you can see how much it goes up and down over time. This gives you an idea of how risky the overall market is. If your investments move a lot more than the index, they might be riskier. On the other hand, if they move less, they might be safer. By comparing your investments to the index, you can get a sense of how much risk you're taking on.
+Market indexes help investors understand the risk and [volatility](/wiki/volatility-trading-strategies) of their investments by providing a benchmark to measure against. If you look at an index like the S&P 500, you can see how much it goes up and down over time. This gives you an idea of how risky the overall market is. If your investments move a lot more than the index, they might be riskier. On the other hand, if they move less, they might be safer. By comparing your investments to the index, you can get a sense of how much risk you're taking on.
 
 Volatility, which is how much prices go up and down, can also be seen through market indexes. For example, if the Nasdaq Composite, which focuses on tech stocks, is going up and down a lot, it tells you that tech stocks are pretty volatile right now. This can help you decide if you want to invest in tech stocks or if you should look for something less risky. By keeping an eye on the volatility of different indexes, you can better understand the ups and downs of the market and make smarter choices about where to put your money.
 
@@ -118,7 +118,7 @@ where $\sigma_d$ is the downside deviation. The Sortino Ratio offers a clearer p
 
 **Conditional Value at Risk (CVaR)**, also known as Expected Shortfall, provides an average of losses that transcend the VaR threshold, offering a more comprehensive risk assessment.
 
-In algorithmic trading, these metrics are critical for [backtesting](/wiki/backtesting), real-time monitoring, and performance reporting, as they help traders evaluate strategy effectiveness and risk levels. Python libraries such as Pyfolio provide tools for calculating these metrics, enhancing the data-driven decision-making process in algorithmic strategies. These metrics are integral in determining the readiness of a strategy for real-world deployment, ensuring they meet risk and return expectations aligned with specific investment goals.
+In [algorithmic trading](/wiki/algorithmic-trading), these metrics are critical for [backtesting](/wiki/backtesting), real-time monitoring, and performance reporting, as they help traders evaluate strategy effectiveness and risk levels. Python libraries such as Pyfolio provide tools for calculating these metrics, enhancing the data-driven decision-making process in algorithmic strategies. These metrics are integral in determining the readiness of a strategy for real-world deployment, ensuring they meet risk and return expectations aligned with specific investment goals.
 
 ## References & Further Reading
 

@@ -24,15 +24,15 @@ They try to make more money for the people who invest with them. Walleye Capital
 
 Walleye Capital was started by a man named William Michaelcheck. He founded the company in 2005. William wanted to create a place where people could invest their money and hopefully make more money.
 
-The company is a hedge fund, which means they use different ways to invest, like buying and selling stocks and bonds. They try to be smart about how they invest, using new technology and ideas. Walleye Capital has offices in New York, Minneapolis, and London, and they work hard to make their investors happy.
+The company is a [hedge fund](/wiki/hedge-fund-trading-strategies), which means they use different ways to invest, like buying and selling stocks and bonds. They try to be smart about how they invest, using new technology and ideas. Walleye Capital has offices in New York, Minneapolis, and London, and they work hard to make their investors happy.
 
 ## What types of investment strategies does Walleye Capital employ?
 
 Walleye Capital uses different ways to invest money. They buy and sell stocks, which are small pieces of a company. They also invest in bonds, which are like loans to companies or governments. Another thing they do is trade things that are based on how well a stock or bond will do in the future. This is called derivatives trading. They also use computers and math to help them decide what to buy and sell. This is called quantitative investing.
 
-They also look at what other people are doing in the market. If they see a lot of people buying a certain stock, they might buy it too. This is called trend following. Sometimes, they try to find stocks that they think are priced too low and buy them, hoping the price will go up. This is called value investing. They mix all these strategies together to try and make the most money for the people who invest with them.
+They also look at what other people are doing in the market. If they see a lot of people buying a certain stock, they might buy it too. This is called [trend following](/wiki/trend-following). Sometimes, they try to find stocks that they think are priced too low and buy them, hoping the price will go up. This is called value investing. They mix all these strategies together to try and make the most money for the people who invest with them.
 
-Walleye Capital also uses something called arbitrage. This means they try to make money from small differences in prices of the same thing in different places. For example, if a stock is cheaper in one market than another, they might buy it in the cheaper market and sell it in the more expensive one. They use all these different strategies to try and do better than other companies and make their investors happy.
+Walleye Capital also uses something called [arbitrage](/wiki/arbitrage). This means they try to make money from small differences in prices of the same thing in different places. For example, if a stock is cheaper in one market than another, they might buy it in the cheaper market and sell it in the more expensive one. They use all these different strategies to try and do better than other companies and make their investors happy.
 
 ## How has Walleye Capital performed historically?
 

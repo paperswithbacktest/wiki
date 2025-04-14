@@ -18,7 +18,7 @@ These funds are often seen as less risky than other types of mutual funds becaus
 
 Arbitrage mutual funds work by taking advantage of small price differences in the market. Imagine you see a toy selling for $10 in one store and $12 in another. You could buy it at the first store and sell it at the second to make a $2 profit. Arbitrage funds do something similar, but with stocks or other financial products. They buy a stock at a lower price in one market and sell it at a higher price in another market, making a small profit from the difference.
 
-These funds often use a strategy called "cash-futures arbitrage." This means they buy a stock and at the same time, they sell a futures contract for that same stock. A futures contract is an agreement to buy or sell something at a future date for a price agreed upon today. If the price of the stock goes up, the fund makes money from the stock but loses money on the futures contract. If the price goes down, they lose money on the stock but make money on the futures contract. The goal is to make a small, steady profit no matter which way the market moves.
+These funds often use a strategy called "cash-futures [arbitrage](/wiki/arbitrage)." This means they buy a stock and at the same time, they sell a futures contract for that same stock. A futures contract is an agreement to buy or sell something at a future date for a price agreed upon today. If the price of the stock goes up, the fund makes money from the stock but loses money on the futures contract. If the price goes down, they lose money on the stock but make money on the futures contract. The goal is to make a small, steady profit no matter which way the market moves.
 
 ## What are the key benefits of investing in arbitrage mutual funds?
 
@@ -36,7 +36,7 @@ Lastly, there are costs involved in running these funds, like trading fees and m
 
 ## How do arbitrage mutual funds differ from other types of mutual funds?
 
-Arbitrage mutual funds are different from other types of mutual funds because they focus on making money from small price differences in the market. Most other mutual funds, like stock funds or bond funds, try to make money by picking the best stocks or bonds to invest in. They hope that these investments will go up in value over time. Arbitrage funds, on the other hand, buy and sell the same thing in different markets to take advantage of tiny price gaps. This makes them less risky than stock funds because they don't depend on the overall market going up.
+Arbitrage mutual funds are different from other types of mutual funds because they focus on making money from small price differences in the market. Most other mutual funds, like stock funds or bond funds, try to make money by [picking](/wiki/asset-class-picking) the best stocks or bonds to invest in. They hope that these investments will go up in value over time. Arbitrage funds, on the other hand, buy and sell the same thing in different markets to take advantage of tiny price gaps. This makes them less risky than stock funds because they don't depend on the overall market going up.
 
 Another way arbitrage funds differ is that they often use a strategy called cash-futures arbitrage. This means they buy a stock and sell a futures contract for that stock at the same time. This can help them make money no matter which way the market moves, which is different from stock funds that can lose money if the market goes down. Also, arbitrage funds can be seen as a middle ground between low-risk investments like savings accounts and higher-risk investments like stock funds. They aim to offer better returns than a savings account but with less risk than a stock fund.
 
@@ -54,7 +54,7 @@ Once an arbitrage opportunity is found, the funds act quickly to take advantage 
 
 ## What role does market volatility play in the performance of arbitrage mutual funds?
 
-Market volatility, or how much prices go up and down, can really affect how well arbitrage mutual funds do. When the market is moving a lot, there are more chances for these funds to find price differences to make money from. Imagine if prices are jumping around a lot; there's a better chance to buy something cheap in one place and sell it for more in another. So, when the market is volatile, arbitrage funds can often make more money because there are more opportunities to take advantage of.
+Market [volatility](/wiki/volatility-trading-strategies), or how much prices go up and down, can really affect how well arbitrage mutual funds do. When the market is moving a lot, there are more chances for these funds to find price differences to make money from. Imagine if prices are jumping around a lot; there's a better chance to buy something cheap in one place and sell it for more in another. So, when the market is volatile, arbitrage funds can often make more money because there are more opportunities to take advantage of.
 
 But, too much volatility can also make things harder for arbitrage funds. If prices are moving too wildly, the small price differences they usually rely on might not last long enough for the funds to act on them. Plus, if the market is too unpredictable, the funds might make mistakes or not be able to predict the market as well. So, while some volatility can help arbitrage funds, too much can make it harder for them to make steady profits.
 
@@ -84,7 +84,7 @@ On the other hand, some regulatory changes can help arbitrage funds. If new rule
 
 ## How can combining strategies lead to a holistic approach to investment?
 
-Combining investment strategies such as arbitrage, mutual fund investments, and algorithmic trading presents a compelling approach for optimizing portfolio performance. Each strategy hails from distinct financial paradigms, offering unique benefits and approaches to risk management. By effectively integrating these methods, an investor can achieve a more resilient and adaptable investment portfolio.
+Combining investment strategies such as arbitrage, mutual fund investments, and [algorithmic trading](/wiki/algorithmic-trading) presents a compelling approach for optimizing portfolio performance. Each strategy hails from distinct financial paradigms, offering unique benefits and approaches to risk management. By effectively integrating these methods, an investor can achieve a more resilient and adaptable investment portfolio.
 
 **Diversification Across Investment Strategies**
 

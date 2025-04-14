@@ -34,7 +34,7 @@ In the long run, panic buying can lead to waste. People often buy more than they
 
 Panic buying is often driven by fear and uncertainty. When people hear about a possible shortage, they start to worry that they won't have enough of what they need. This fear can make them feel like they have to buy things right away, even if they don't really need them at that moment. The more uncertain people feel about the future, the stronger this urge to buy becomes. It's a way for them to feel more in control when everything else feels out of control.
 
-Another big factor is social influence. When people see others buying a lot of things, they might start to feel like they should do the same. This can create a kind of group behavior where everyone is rushing to buy things because everyone else is doing it. It's like a domino effect; one person's actions can make others feel like they need to act quickly too. This can make the panic buying worse because it spreads quickly through the community.
+Another big [factor](/wiki/factor-investing) is social influence. When people see others buying a lot of things, they might start to feel like they should do the same. This can create a kind of group behavior where everyone is rushing to buy things because everyone else is doing it. It's like a domino effect; one person's actions can make others feel like they need to act quickly too. This can make the panic buying worse because it spreads quickly through the community.
 
 ## Can panic buying be predicted and how?
 
@@ -86,7 +86,7 @@ Another way to stop panic buying is by sharing clear and true information. Gover
 
 ## What are the economic implications of panic buying?
 
-Panic buying significantly impacts macroeconomic stability by altering demand and supply dynamics. This phenomenon becomes most evident during crises when consumer behavior shifts rapidly, leading to unexpected surges in demand for specific goods. These abrupt changes create supply chain disruptions and cause price volatility, often resulting in inflationary pressures.
+Panic buying significantly impacts macroeconomic stability by altering demand and supply dynamics. This phenomenon becomes most evident during crises when consumer behavior shifts rapidly, leading to unexpected surges in demand for specific goods. These abrupt changes create supply chain disruptions and cause price [volatility](/wiki/volatility-trading-strategies), often resulting in inflationary pressures.
 
 ### Demand and Supply Dynamics
 

@@ -72,7 +72,7 @@ Using time series analysis also lets us see how long it might take for prices to
 
 ## How can machine learning be applied to improve mean reversion strategies?
 
-Machine learning can make mean reversion strategies better by looking at a lot of data and finding patterns that people might miss. For example, machine learning can use past stock prices to guess if a stock will go back to its average price. It can learn from the data and get better over time, making more accurate guesses about when to buy or sell stocks. This can help investors make more money because they can use these guesses to decide when to make their moves.
+Machine learning can make mean reversion strategies better by looking at a lot of data and finding patterns that people might miss. For example, [machine learning](/wiki/machine-learning) can use past stock prices to guess if a stock will go back to its average price. It can learn from the data and get better over time, making more accurate guesses about when to buy or sell stocks. This can help investors make more money because they can use these guesses to decide when to make their moves.
 
 Also, machine learning can look at more than just stock prices. It can use other information, like news about a company or how the whole market is doing, to make better guesses about mean reversion. By putting all this information together, machine learning can find out if a stock is likely to go back to its average price soon or if it might take a long time. This helps investors make smarter choices and can lead to better results in their investments.
 

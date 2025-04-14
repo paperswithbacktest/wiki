@@ -26,7 +26,7 @@ The main cause of the U.S. national debt is when the government spends more mone
 
 Another cause of the national debt is tax cuts. When the government lowers taxes, it collects less money. If spending stays the same or goes up, this leads to bigger deficits. For example, big tax cuts in the past, like those in the 1980s and 2000s, have added a lot to the national debt. Also, economic downturns can make the debt grow faster because the government might spend more on programs to help people while tax revenues go down.
 
-Interest on the debt is another factor. The government has to pay interest on the money it borrows. As the debt grows, so do the interest payments. This means the government has to borrow even more money just to pay the interest, which makes the debt grow even bigger. It's like a cycle that keeps the national debt increasing over time.
+Interest on the debt is another [factor](/wiki/factor-investing). The government has to pay interest on the money it borrows. As the debt grows, so do the interest payments. This means the government has to borrow even more money just to pay the interest, which makes the debt grow even bigger. It's like a cycle that keeps the national debt increasing over time.
 
 ## How has the U.S. national debt changed over time?
 

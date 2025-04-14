@@ -111,7 +111,7 @@ $$
 \text{Hedge Ratio} = \frac{\text{Value of the Asset being Hedged}}{\text{Value of Futures Contracts}}
 $$
 
-An accurate hedge ratio ensures that the futures position offsets the price risk of the underlying asset. The choice of contracts depends on factors such as contract size, expiration date, and liquidity.
+An accurate hedge ratio ensures that the futures position offsets the price risk of the underlying asset. The choice of contracts depends on factors such as contract size, expiration date, and [liquidity](/wiki/liquidity-risk-premium).
 
 **Real-World Applications**
 
@@ -123,7 +123,7 @@ By adopting well-calculated hedge strategies, both short and long, entities can 
 
 In hedging a position with futures, the initial step is to determine the specific exposure needing mitigation. This involves understanding the nature of risks involved: systematic and unsystematic risks. Systematic risk, inherent to the entire market or market segment, is beyond individual control, such as economic recessions or political instability. In contrast, unsystematic risk pertains to specific assets or companies, like management decisions or product recalls. Futures hedging primarily addresses systematic risk by creating offsetting positions that neutralize broader market volatilities, while unsystematic risks are often managed through diversification within a portfolio.
 
-The effectiveness of futures hedges can be influenced by basis risk, liquidity risk, and market risk. Basis risk arises when the price of the asset underlying the futures contract and the actual asset do not move in perfect correlation, creating a potential gap in hedge effectiveness. Liquidity risk refers to the inability to execute trades without significant price changes, affecting the ability to enter or [exit](/wiki/exit-strategy) futures positions efficiently. Market risk involves broader price volatility that can influence the value of both the asset and the futures contract.
+The effectiveness of futures hedges can be influenced by basis risk, liquidity risk, and market risk. Basis risk arises when the price of the asset underlying the futures contract and the actual asset do not move in perfect correlation, creating a potential gap in hedge effectiveness. Liquidity risk refers to the inability to execute trades without significant price changes, affecting the ability to enter or [exit](/wiki/exit-strategy) futures positions efficiently. Market risk involves broader price [volatility](/wiki/volatility-trading-strategies) that can influence the value of both the asset and the futures contract.
 
 A critical component in futures hedging is determining the optimal hedge ratio. This involves calculating the ratio of futures contracts to hold relative to the size of the position being hedged. Typically, this can be calculated using the formula:
 

@@ -64,7 +64,7 @@ Another important rule is that UCITS funds have to use something called a risk m
 
 ## How do UCITS funds handle liquidity and redemption?
 
-UCITS funds have rules to make sure they can handle liquidity and redemption well. Liquidity means how easily the fund can turn its investments into cash. Redemption is when investors want to take their money out of the fund. UCITS funds have to keep enough cash or easy-to-sell investments so they can give money back to investors when they want it. This helps make sure that people can get their money out without waiting too long.
+UCITS funds have rules to make sure they can handle [liquidity](/wiki/liquidity-risk-premium) and redemption well. Liquidity means how easily the fund can turn its investments into cash. Redemption is when investors want to take their money out of the fund. UCITS funds have to keep enough cash or easy-to-sell investments so they can give money back to investors when they want it. This helps make sure that people can get their money out without waiting too long.
 
 To manage redemption, UCITS funds have to follow rules about how quickly they can give money back to investors. Usually, they have to pay out within a certain number of days after someone asks to redeem their shares. This time can be different depending on the fund, but it's usually not too long. By having these rules, UCITS funds make sure that investors can get their money back when they need it, which helps keep everyone happy and the fund running smoothly.
 

@@ -22,7 +22,7 @@ This type of credit also helps businesses avoid running out of money when they n
 
 ## How does seasonal credit differ from other types of credit?
 
-Seasonal credit is different from other types of credit because it is designed to help businesses and banks during certain times of the year. For example, a bank might need more money during the holiday season when people are doing more shopping and borrowing. Seasonal credit helps them borrow money at a lower interest rate during these busy times, so they can keep serving their customers without running out of money.
+Seasonal credit is different from other types of credit because it is designed to help businesses and banks during certain times of the year. For example, a bank might need more money during the holiday season when people are doing more shopping and borrowing. Seasonal credit helps them borrow money at a lower [interest rate](/wiki/interest-rate-trading-strategies) during these busy times, so they can keep serving their customers without running out of money.
 
 Other types of credit, like personal loans or business loans, are not tied to specific times of the year. They can be used for any purpose, like buying a car or expanding a business. These loans often have different interest rates and repayment terms compared to seasonal credit. Seasonal credit is more flexible and focused on helping businesses manage their money during peak seasons, while other types of credit are more general and can be used anytime.
 

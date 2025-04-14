@@ -18,7 +18,7 @@ In CPCV, the data is divided into groups called folds. Each fold is used once as
 
 CPCV is important in machine learning because it helps make sure that the model's predictions are accurate and fair. When you test a model, you want to know how well it will work with new data it has never seen before. CPCV does this by carefully splitting the data into different groups, or folds, and making sure that the training data does not include information that would only be available in the future. This is especially important when working with data that is related over time, like stock prices or weather forecasts.
 
-By using CPCV, you can avoid a common problem called data leakage, where the model accidentally uses future information to make predictions. This can make the model seem better than it really is. CPCV prevents this by "purging" any data that is too closely related to the test set. This way, the model is tested more honestly, and you get a better idea of how it will perform in real life. This makes CPCV a valuable tool for building trustworthy machine learning models.
+By using CPCV, you can avoid a common problem called data leakage, where the model accidentally uses future information to make predictions. This can make the model seem better than it really is. CPCV prevents this by "purging" any data that is too closely related to the test set. This way, the model is tested more honestly, and you get a better idea of how it will perform in real life. This makes CPCV a valuable tool for building trustworthy [machine learning](/wiki/machine-learning) models.
 
 ## How does CPCV differ from traditional cross-validation methods?
 

@@ -66,7 +66,7 @@ Using these strategies can be more complicated than just buying and selling opti
 
 ## How do implied volatility and time decay influence an option's price relative to its intrinsic value?
 
-Implied volatility and time decay both play big roles in how an option's price compares to its intrinsic value. Implied volatility is a guess about how much a stock's price might move in the future. If people think the stock will move a lot, the option's price goes up because there's a bigger chance it will be worth more later. This means the option's price can be higher than just its intrinsic value. But if people think the stock won't move much, the option's price might be closer to its intrinsic value because there's less chance for big changes.
+Implied [volatility](/wiki/volatility-trading-strategies) and time decay both play big roles in how an option's price compares to its intrinsic value. Implied volatility is a guess about how much a stock's price might move in the future. If people think the stock will move a lot, the option's price goes up because there's a bigger chance it will be worth more later. This means the option's price can be higher than just its intrinsic value. But if people think the stock won't move much, the option's price might be closer to its intrinsic value because there's less chance for big changes.
 
 Time decay, or theta, is how an option loses value as it gets closer to expiring. The less time left on an option, the less valuable it becomes, especially if it's not in the money yet. This means that even if an option has some intrinsic value, its total price can drop below that value as the expiration date gets closer. Time decay affects the option's time value, which is the part of the option's price that's not the intrinsic value. So, while intrinsic value stays the same as long as the stock price doesn't change, time decay can pull the option's total price down.
 
@@ -80,7 +80,7 @@ Rolling an option to a later expiration date can also have tax effects. When you
 
 Algorithmic trading can help you minimize the risk of options closing below their intrinsic value by using computer programs to watch the market and make trades automatically. These programs can keep an eye on the stock price and the option's price all the time. If the program sees that the option's price is getting close to or below its intrinsic value, it can sell the option for you before it loses more value. This way, you don't have to watch the market all day and can still take action quickly to protect your investment.
 
-Another way algorithmic trading helps is by using strategies like rolling options to a later date. The program can be set up to close your current option and open a new one with more time to expiration if it thinks the option might close below its intrinsic value. This can give the stock more time to move in a good direction, helping you get the full value of your option. By using these automated strategies, you can better manage the risks and make sure you're getting the most out of your options.
+Another way [algorithmic trading](/wiki/algorithmic-trading) helps is by using strategies like rolling options to a later date. The program can be set up to close your current option and open a new one with more time to expiration if it thinks the option might close below its intrinsic value. This can give the stock more time to move in a good direction, helping you get the full value of your option. By using these automated strategies, you can better manage the risks and make sure you're getting the most out of your options.
 
 ## What is the Concept of Intrinsic Value in Options?
 
@@ -148,7 +148,7 @@ print(df)
 
 This integration of intrinsic value calculations within trading algorithms not only enhances the accuracy of executed trades but also eliminates human emotional bias, thereby improving precision. As technology continues to evolve, the connection between intrinsic value analysis and algorithmic trading is expected to become increasingly significant, enabling more sophisticated financial strategies.
 
-The continued enhancement of data processing capabilities and machine learning algorithms will further improve the predictive power of algorithms, making them indispensable tools for financial traders. By continually adapting to the dynamic nature of financial markets, algorithms will further cement their role in the strategic analysis and execution of trades, emphasizing the need for a strong understanding of intrinsic value and its applications.
+The continued enhancement of data processing capabilities and [machine learning](/wiki/machine-learning) algorithms will further improve the predictive power of algorithms, making them indispensable tools for financial traders. By continually adapting to the dynamic nature of financial markets, algorithms will further cement their role in the strategic analysis and execution of trades, emphasizing the need for a strong understanding of intrinsic value and its applications.
 
 ## References & Further Reading
 

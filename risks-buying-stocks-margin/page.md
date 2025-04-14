@@ -54,7 +54,7 @@ On the other hand, if interest rates go down, it can be good for your margin acc
 
 ## How does market volatility increase the risks of margin trading?
 
-Market volatility can make margin trading a lot riskier. When the market is volatile, stock prices can go up and down a lot in a short time. If you're trading on margin, this means the value of your stocks can change quickly. If the prices drop suddenly, you might not have enough money in your account to meet the margin requirement. This could lead to a margin call, where you have to put more money in or sell your stocks at a loss to cover the difference.
+Market [volatility](/wiki/volatility-trading-strategies) can make margin trading a lot riskier. When the market is volatile, stock prices can go up and down a lot in a short time. If you're trading on margin, this means the value of your stocks can change quickly. If the prices drop suddenly, you might not have enough money in your account to meet the margin requirement. This could lead to a margin call, where you have to put more money in or sell your stocks at a loss to cover the difference.
 
 Dealing with a margin call during volatile times can be really stressful. If you can't meet the margin call fast enough, the broker might sell your stocks without asking you. They might have to sell at a bad time when the prices are low, which means you could lose a lot more money than you expected. So, when the market is volatile, the risks of margin trading go up because everything can change so quickly and you might not have time to react properly.
 

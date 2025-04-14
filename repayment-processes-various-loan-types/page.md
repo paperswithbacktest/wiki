@@ -24,7 +24,7 @@ Each type of loan has its own rules about how you pay it back. Some might let yo
 
 ## How does the repayment process differ for personal loans versus student loans?
 
-Personal loans and student loans both need to be paid back, but they have some different rules. Personal loans are usually for things like buying a car or paying for a big trip. You start paying these back right away, often with fixed monthly payments. The interest rate might be fixed, meaning it stays the same, or variable, meaning it can change. If you miss a payment, it can hurt your credit score and you might have to pay extra fees.
+Personal loans and student loans both need to be paid back, but they have some different rules. Personal loans are usually for things like buying a car or paying for a big trip. You start paying these back right away, often with fixed monthly payments. The [interest rate](/wiki/interest-rate-trading-strategies) might be fixed, meaning it stays the same, or variable, meaning it can change. If you miss a payment, it can hurt your credit score and you might have to pay extra fees.
 
 Student loans are for paying for school. You don't have to start paying these back until after you finish school or leave. This is called a grace period, and it can last for about six months. Some student loans have a fixed interest rate, while others might have a variable rate. If you have trouble paying back your student loans, there are special plans that can make your payments smaller or let you pay based on how much money you make. Missing payments on student loans can also hurt your credit score, but there are more options to help you if you're struggling.
 

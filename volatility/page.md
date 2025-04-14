@@ -34,7 +34,7 @@ Traders also use volatility to make their trading plans. They look at how much t
 
 ## How does volatility affect investment strategies?
 
-Volatility plays a big role in shaping investment strategies. When the market is very volatile, it means prices can change a lot in a short time. This can be good for some investors who like to take risks and want to make quick profits. They might choose to invest in things like stocks or options that can go up and down a lot, hoping to buy low and sell high. But for investors who don't like big surprises, high volatility can be scary. They might decide to stick with safer investments like bonds or mutual funds that don't change as much. Knowing how much risk you're okay with is important when picking an investment strategy that fits your goals.
+Volatility plays a big role in shaping investment strategies. When the market is very volatile, it means prices can change a lot in a short time. This can be good for some investors who like to take risks and want to make quick profits. They might choose to invest in things like stocks or options that can go up and down a lot, hoping to buy low and sell high. But for investors who don't like big surprises, high volatility can be scary. They might decide to stick with safer investments like bonds or mutual funds that don't change as much. Knowing how much risk you're okay with is important when [picking](/wiki/asset-class-picking) an investment strategy that fits your goals.
 
 Volatility also affects how investors plan for the long term. If someone is saving for something far in the future, like retirement, they might not worry too much about short-term ups and downs. They might still choose to invest in stocks, even if they're volatile, because over many years, the market tends to grow. But if someone needs their money soon, they'll want to avoid big drops in value. They might choose investments with lower volatility to make sure their money is there when they need it. By understanding volatility, investors can make smarter choices that match their time frame and how much risk they can handle.
 
@@ -82,7 +82,7 @@ These models also help break down what causes volatility. They can look at thing
 
 ## What is the understanding of volatility in financial markets?
 
-Volatility in financial markets is a statistical measure that quantifies the dispersion of returns for a given asset or market index. In simpler terms, it represents the degree of variation in trading prices over a certain period. High volatility often indicates large price swings, while low volatility signifies more stable price movements. The standard deviation is commonly used to represent volatility, providing a numerical gauge of how much asset prices deviate from their average price.
+Volatility in financial markets is a statistical measure that quantifies the [dispersion](/wiki/dispersion-trading) of returns for a given asset or market index. In simpler terms, it represents the degree of variation in trading prices over a certain period. High volatility often indicates large price swings, while low volatility signifies more stable price movements. The standard deviation is commonly used to represent volatility, providing a numerical gauge of how much asset prices deviate from their average price.
 
 $$
 \sigma = \sqrt{\frac{1}{N} \sum_{i=1}^{N} (R_i - \bar{R})^2}

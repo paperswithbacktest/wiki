@@ -18,7 +18,7 @@ P2P networks are popular for sharing large files like movies, music, and softwar
 
 In a P2P network, all the computers are equal and can share files directly with each other. There is no central server controlling everything. This means that if you want to download a file, you can get it straight from another user's computer. It's like everyone is both giving and taking at the same time. P2P networks are good for sharing big files because many people can help share the load.
 
-On the other hand, a client-server network has a central server that manages everything. The server stores all the files and the clients, which are the users' computers, ask the server for files. The server decides who gets what and when. This setup is easier to control and keep safe, but if the server goes down, nobody can get any files until it's fixed. It's like having one main library where everyone goes to borrow books, instead of everyone sharing books with each other directly.
+On the other hand, a client-server network has a central server that manages everything. The server stores all the files and the clients, which are the users' computers, ask the server for files. The server decides who gets what and when. This setup is easier to control and keep safe, but if the server goes down, nobody can get any files until it's fixed. It's like having one main library where everyone goes to borrow [books](/wiki/algo-trading-books), instead of everyone sharing books with each other directly.
 
 ## What are some common uses of P2P network services?
 
@@ -26,7 +26,7 @@ P2P networks are often used for sharing big files like movies, music, and softwa
 
 Another common use of P2P networks is for online gaming. Some games let players connect directly to each other's computers to play together. This can make the game run smoother because there's no middleman slowing things down. It's like playing a game at a friend's house instead of over the internet through a game server.
 
-P2P networks are also used for things like cryptocurrency. Bitcoin, for example, uses a P2P network to let people send and receive money without a bank in the middle. It's like passing money directly to someone instead of using a bank to transfer it. This can make transactions faster and cheaper.
+P2P networks are also used for things like [cryptocurrency](/wiki/cryptocurrency). Bitcoin, for example, uses a P2P network to let people send and receive money without a bank in the middle. It's like passing money directly to someone instead of using a bank to transfer it. This can make transactions faster and cheaper.
 
 ## What are the advantages of using P2P networks?
 
@@ -36,7 +36,7 @@ Another advantage is that P2P networks can be cheaper and easier to set up. You 
 
 ## What are the potential security risks associated with P2P networks?
 
-One big security risk with P2P networks is that they can be used to spread harmful software like viruses or malware. When you download files from other people's computers, you might accidentally get something bad along with the file you wanted. It's like picking up a hitchhiker who turns out to be a thief. Also, because P2P networks don't have a central server watching over everything, it's harder to stop bad people from sharing illegal or harmful stuff.
+One big security risk with P2P networks is that they can be used to spread harmful software like viruses or malware. When you download files from other people's computers, you might accidentally get something bad along with the file you wanted. It's like [picking](/wiki/asset-class-picking) up a hitchhiker who turns out to be a thief. Also, because P2P networks don't have a central server watching over everything, it's harder to stop bad people from sharing illegal or harmful stuff.
 
 Another risk is that your personal information might not be safe. When you share files on a P2P network, other people can sometimes see what's on your computer. This means someone could find out private things about you or even steal your identity. It's like leaving your diary open where anyone can read it. Because of these risks, it's important to be careful and use good security software when using P2P networks.
 

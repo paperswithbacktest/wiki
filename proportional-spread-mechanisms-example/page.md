@@ -42,7 +42,7 @@ This method can be used in many different situations. For example, if a school h
 
 In statistical analysis, proportional spread is used to show how data is spread out across different groups or categories. Imagine you are studying how many people in a city like different types of food. You might find that 40% of the people like pizza, 30% like sushi, and 30% like tacos. Proportional spread helps you see these percentages clearly, showing that the love for food is spread out among the groups in a certain way. This method is useful because it lets you compare different parts of your data easily, making it easier to understand and explain your findings.
 
-For example, if you are looking at how much time students spend on homework in different grades, proportional spread can help you see how the time is divided among the grades. If 5th graders spend 20% of their time on homework, 6th graders spend 30%, and 7th graders spend 50%, you can use proportional spread to show these differences. This way, you can quickly see that older students tend to spend more time on homework. By using proportional spread in statistics, you can make complex data easier to understand and share with others.
+For example, if you are looking at how much time students spend on homework in different grades, proportional spread can help you see how the time is divided among the grades. If 5th graders spend 20% of their time on homework, 6th graders spend 30%, and 7th graders spend 50%, you can use proportional spread to show these differences. This way, you can quickly see that older students tend to spend more time on homework. By using proportional spread in [statistics](/wiki/bayesian-statistics), you can make complex data easier to understand and share with others.
 
 ## What are the advantages of using proportional spread in data distribution?
 
@@ -136,7 +136,7 @@ In terms of market efficiencies, proportional spreads play a role by indicating 
 
 ## What is Proportional Spread in Algorithmic Trading?
 
-Proportional spread metrics play an essential role in algorithmic trading models, enabling traders to make informed decisions by quantifying the relative difference between buying and selling prices. These metrics are expressed as a percentage of the instrument's mid-price, enhancing the trader's ability to assess liquidity and identify market inefficiencies. 
+Proportional spread metrics play an essential role in [algorithmic trading](/wiki/algorithmic-trading) models, enabling traders to make informed decisions by quantifying the relative difference between buying and selling prices. These metrics are expressed as a percentage of the instrument's mid-price, enhancing the trader's ability to assess liquidity and identify market inefficiencies. 
 
 The formula for calculating the proportional spread is:
 

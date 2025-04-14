@@ -42,7 +42,7 @@ Living in poverty can also make health problems worse. Poor people often can't a
 
 ## What are the economic factors that lead to poverty traps?
 
-Economic factors play a big role in creating poverty traps. One major factor is low wages. When people earn very little money, they can't save or invest in things like education or starting a business. This means they stay stuck in low-paying jobs because they can't afford to improve their skills or take risks that could lead to better opportunities. Another factor is lack of access to credit. Without the ability to borrow money, people can't start businesses or pay for education, which keeps them from earning more in the future.
+Economic factors play a big role in creating poverty traps. One major [factor](/wiki/factor-investing) is low wages. When people earn very little money, they can't save or invest in things like education or starting a business. This means they stay stuck in low-paying jobs because they can't afford to improve their skills or take risks that could lead to better opportunities. Another factor is lack of access to credit. Without the ability to borrow money, people can't start businesses or pay for education, which keeps them from [earning](/wiki/earning-announcement) more in the future.
 
 Another economic factor is high inflation. When prices for things like food and housing go up quickly, people's money doesn't go as far. This makes it hard for them to afford basic needs, let alone save money. High inflation can also make it harder for people to plan for the future because they don't know how much things will cost. All these economic factors together make it very difficult for people to break out of poverty traps and improve their lives.
 

@@ -24,7 +24,7 @@ This rule also protects everyone who trades in the market. If self-matches were 
 
 Self-match prevention works by stopping people from buying and selling the same thing to themselves. When someone tries to do a self-match, the trading system checks if the buyer and seller are the same person or if they are connected in a way that could be cheating. If the system finds a self-match, it will not let the trade happen. This keeps the market fair and stops people from making fake trades.
 
-This rule is used in many trading places, like stock markets and cryptocurrency exchanges. The system uses special computer programs to watch all trades and make sure no self-matches happen. If someone tries to do a self-match, they might get in trouble, like getting a warning or even being banned from trading. By stopping self-matches, the market stays honest and everyone can trust that the trades they see are real.
+This rule is used in many trading places, like stock markets and [cryptocurrency](/wiki/cryptocurrency) exchanges. The system uses special computer programs to watch all trades and make sure no self-matches happen. If someone tries to do a self-match, they might get in trouble, like getting a warning or even being banned from trading. By stopping self-matches, the market stays honest and everyone can trust that the trades they see are real.
 
 ## What are common scenarios where self-match prevention is needed?
 
@@ -76,7 +76,7 @@ It's also important to see if the system is making mistakes. If the system stops
 
 ## What future developments are expected in the field of self-match prevention?
 
-In the future, self-match prevention systems will likely get even better at stopping people from cheating in trading. One big change we might see is the use of new technology like artificial intelligence (AI) and machine learning. These tools can help the system learn from past trades and get better at spotting self-matches. They can also check trades faster and more accurately, making the market safer and fairer for everyone. As more and more trades happen online, these smart systems will be really important to keep up with all the trading going on.
+In the future, self-match prevention systems will likely get even better at stopping people from cheating in trading. One big change we might see is the use of new technology like [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning). These tools can help the system learn from past trades and get better at spotting self-matches. They can also check trades faster and more accurately, making the market safer and fairer for everyone. As more and more trades happen online, these smart systems will be really important to keep up with all the trading going on.
 
 Another thing that might happen is that self-match prevention rules will become more clear and fair. People who make the rules will keep working to find the right balance between stopping cheating and letting honest trades happen. They might also make it easier for traders to understand the rules and why they are important. By doing this, everyone can trust the market more and feel good about trading. Overall, the future of self-match prevention looks bright, with new technology and better rules helping to keep trading honest and fair.
 

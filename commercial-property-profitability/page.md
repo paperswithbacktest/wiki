@@ -28,7 +28,7 @@ Another difference is how they are managed and bought. Commercial properties oft
 
 ## What are the basic factors that affect the profitability of commercial property?
 
-The profitability of commercial property depends on a few key things. One big factor is where the property is located. If it's in a busy area with lots of people and businesses around, it can be easier to rent out and charge more rent. Another important thing is what kind of property it is. Some types, like offices in a growing city, might be more in demand than others, like warehouses in a quiet area. The condition of the property also matters. A well-kept building with good features can attract more tenants and allow the owner to charge more rent.
+The profitability of commercial property depends on a few key things. One big [factor](/wiki/factor-investing) is where the property is located. If it's in a busy area with lots of people and businesses around, it can be easier to rent out and charge more rent. Another important thing is what kind of property it is. Some types, like offices in a growing city, might be more in demand than others, like warehouses in a quiet area. The condition of the property also matters. A well-kept building with good features can attract more tenants and allow the owner to charge more rent.
 
 Another factor is the economy. When the economy is doing well, businesses are more likely to rent space and pay higher rents. But if the economy is struggling, it can be harder to find tenants and keep rents high. The terms of the lease agreements also play a role. Long leases can provide steady income, but they might limit how much rent can go up. Lastly, the costs of owning and managing the property, like taxes, maintenance, and insurance, need to be less than the rent coming in for the property to be profitable. All these factors together decide how much money a commercial property can make.
 
@@ -139,7 +139,7 @@ In conclusion, using the right metrics and strategies, investors can make inform
    A comprehensive guide on real estate finance, this book explains key investment concepts and metrics such as ROI and Cap Rate, vital for real estate investors looking to enhance property profitability. [Link to Amazon](https://www.amazon.com/Real-Estate-Finance-Investments-Brueggeman/dp/1259919684)
 
 3. **"Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan**  
-   Offering a deep dive into the world of algorithmic trading, this book covers algorithms' development and application, useful for understanding its potential in real estate investment strategies. [Link to Amazon](https://www.amazon.com/Algorithmic-Trading-Winning-Strategies-Rationale/dp/1118460146)
+   Offering a deep dive into the world of [algorithmic trading](/wiki/algorithmic-trading), this book covers algorithms' development and application, useful for understanding its potential in real estate investment strategies. [Link to Amazon](https://www.amazon.com/Algorithmic-Trading-Winning-Strategies-Rationale/dp/1118460146)
 
 4. **"The Real Estate Wholesaling Bible: The Fastest, Easiest Way to Get Started in Real Estate Investing" by Than Merrill**  
    This text provides insights into various real estate investment strategies, including wholesaling and flipping, which are essential techniques for maximizing profitability in commercial properties. [Link to Amazon](https://www.amazon.com/Real-Estate-Wholesaling-Bible-Fastest/dp/1118807529)

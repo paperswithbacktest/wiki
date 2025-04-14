@@ -18,7 +18,7 @@ Companies often use tax-exempt commercial paper to finance projects that benefit
 
 Tax-exempt commercial paper and regular commercial paper are both short-term debt instruments that companies use to borrow money quickly. The main difference between them is how the interest earned by investors is treated for tax purposes. With regular commercial paper, the interest that investors earn is taxable, meaning they have to pay taxes on it. On the other hand, with tax-exempt commercial paper, the interest earned by investors is not taxed by the government.
 
-This tax advantage makes tax-exempt commercial paper more attractive to investors because they get to keep all the interest they earn. As a result, companies can often borrow money at a lower interest rate with tax-exempt commercial paper compared to regular commercial paper. Companies usually issue tax-exempt commercial paper to finance projects that benefit the public, like building schools or hospitals, which is why the government allows the interest to be tax-free.
+This tax advantage makes tax-exempt commercial paper more attractive to investors because they get to keep all the interest they earn. As a result, companies can often borrow money at a lower [interest rate](/wiki/interest-rate-trading-strategies) with tax-exempt commercial paper compared to regular commercial paper. Companies usually issue tax-exempt commercial paper to finance projects that benefit the public, like building schools or hospitals, which is why the government allows the interest to be tax-free.
 
 ## Who typically issues tax-exempt commercial paper?
 

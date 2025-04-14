@@ -144,7 +144,7 @@ $$
 
 where $E_d$ is the price elasticity of demand, $\% \Delta Q$ is the percentage change in quantity demanded, and $\% \Delta P$ is the percentage change in price. Though this formula provides a basic measure of elasticity, it oversimplifies consumer behavior by not accounting for factors such as brand loyalty or psychological biases, which can skew demand responses.
 
-Given these challenges, continuous learning and adaptation are crucial for developers and users of algorithmic trading models. Machine learning algorithms can offer a solution by identifying patterns and correlations in vast amounts of historical data. However, the efficacy of these models is dependent on their ability to learn from and adapt to new data, ensuring they remain robust against evolving market conditions. Consider a Python implementation employing a simple linear regression to model demand elasticity:
+Given these challenges, continuous learning and adaptation are crucial for developers and users of [algorithmic trading](/wiki/algorithmic-trading) models. Machine learning algorithms can offer a solution by identifying patterns and correlations in vast amounts of historical data. However, the efficacy of these models is dependent on their ability to learn from and adapt to new data, ensuring they remain robust against evolving market conditions. Consider a Python implementation employing a simple linear regression to model demand elasticity:
 
 ```python
 import numpy as np
@@ -163,7 +163,7 @@ elasticity = model.coef_[0] * (np.mean(prices) / np.mean(quantities))
 
 This code demonstrates a basic approach to calculating elasticity through a linear regression model. However, it's important for traders to continuously refine such models and update their algorithms with new data to account for unforeseen market shifts.
 
-Essentially, the successful implementation of price elasticity in algorithmic trading requires a balance between robust modeling and flexibility. This consists of integrating advanced statistical methods, machine learning, and a nuanced understanding of market dynamics. Only through ongoing research and adaptation can traders hope to effectively leverage price elasticity in their decision-making processes, paving the way for future integration of economic insights and trading technology.
+Essentially, the successful implementation of price elasticity in algorithmic trading requires a balance between robust modeling and flexibility. This consists of integrating advanced statistical methods, [machine learning](/wiki/machine-learning), and a nuanced understanding of market dynamics. Only through ongoing research and adaptation can traders hope to effectively leverage price elasticity in their decision-making processes, paving the way for future integration of economic insights and trading technology.
 
 ## References & Further Reading
 

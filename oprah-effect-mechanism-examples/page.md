@@ -22,7 +22,7 @@ The term became really popular in the late 1990s and early 2000s. It was used a 
 
 ## What are the key mechanisms behind the Oprah Effect?
 
-The Oprah Effect works because people trust Oprah Winfrey a lot. When she talks about a book, product, or idea, her fans believe her and want to try it out. This trust comes from years of watching her on TV and seeing her as someone who really cares about her audience. Oprah is good at picking things that she thinks her viewers will like, and she shares them in a way that makes people excited to try them.
+The Oprah Effect works because people trust Oprah Winfrey a lot. When she talks about a book, product, or idea, her fans believe her and want to try it out. This trust comes from years of watching her on TV and seeing her as someone who really cares about her audience. Oprah is good at [picking](/wiki/asset-class-picking) things that she thinks her viewers will like, and she shares them in a way that makes people excited to try them.
 
 Another big part of the Oprah Effect is how many people she can reach. Her TV show, website, and social media have millions of followers. When she recommends something, a huge number of people hear about it. This wide reach means that whatever she talks about can become very popular very quickly. It's like a big wave that sweeps across her audience, making the things she likes become popular with everyone else too.
 
@@ -54,7 +54,7 @@ A third example is with the weight loss program Weight Watchers. In 2015, Oprah 
 
 ## How has the Oprah Effect evolved with changes in media consumption?
 
-The Oprah Effect has changed as people started using different ways to watch and listen to media. When Oprah first started, her TV show was the main way she reached people. Her recommendations on the show could make books and products very popular. But as time went on, people began using the internet more. Oprah started using her website and social media to talk about things she liked. This meant she could reach even more people, not just those who watched her show at a certain time.
+The Oprah Effect has changed as people started using different ways to watch and listen to media. When Oprah first started, her TV show was the main way she reached people. Her recommendations on the show could make [books](/wiki/algo-trading-books) and products very popular. But as time went on, people began using the internet more. Oprah started using her website and social media to talk about things she liked. This meant she could reach even more people, not just those who watched her show at a certain time.
 
 Now, the Oprah Effect is not just about TV. It's also about what Oprah says on her website, in her magazine, and on social media like Instagram and Twitter. These new ways help her connect with younger people who might not watch TV as much. Even though the ways she reaches people have changed, the Oprah Effect is still strong. When Oprah talks about something she likes, a lot of people still want to try it, no matter where they hear about it.
 

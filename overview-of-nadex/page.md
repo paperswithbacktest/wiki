@@ -50,7 +50,7 @@ Another key feature is that Nadex lets you practice trading without using real m
 
 Nadex takes the security of its users' funds very seriously. They are regulated by the U.S. Commodity Futures Trading Commission (CFTC), which means they have to follow strict rules to keep your money safe. Nadex keeps your funds in separate accounts from their own money. This is called segregation of funds. It means that even if something bad happens to Nadex, your money is still safe and separate.
 
-Nadex also uses strong security measures to protect your account. They use encryption to keep your personal information and money safe when you're using their website. Plus, they have strict rules about who can access your account. You need to use a strong password and might need to use two-factor authentication to log in. All these steps help make sure that your funds are secure when you're trading on Nadex.
+Nadex also uses strong security measures to protect your account. They use encryption to keep your personal information and money safe when you're using their website. Plus, they have strict rules about who can access your account. You need to use a strong password and might need to use two-[factor](/wiki/factor-investing) authentication to log in. All these steps help make sure that your funds are secure when you're trading on Nadex.
 
 ## What are the regulatory bodies that oversee Nadex?
 
@@ -66,7 +66,7 @@ The good thing about binary options is that you know exactly how much you can wi
 
 ## How does Nadex handle market volatility and what tools do they provide to manage risk?
 
-Nadex handles market volatility by offering products like binary options and spreads, which are designed to be easier to manage during big market swings. Binary options have a fixed payout, so you know exactly how much you can win or lose no matter how much the market moves. This makes it easier to plan your trades even when things are changing fast. Nadex also updates their prices quickly to reflect what's happening in the market, so you always have the latest information to make your decisions.
+Nadex handles market [volatility](/wiki/volatility-trading-strategies) by offering products like binary options and spreads, which are designed to be easier to manage during big market swings. Binary options have a fixed payout, so you know exactly how much you can win or lose no matter how much the market moves. This makes it easier to plan your trades even when things are changing fast. Nadex also updates their prices quickly to reflect what's happening in the market, so you always have the latest information to make your decisions.
 
 To help manage risk, Nadex gives you tools like stop-loss orders and the ability to close trades early. A stop-loss order can limit your losses by automatically closing your trade if the market moves against you by a certain amount. Closing trades early lets you take your profits or cut your losses before the trade ends. Nadex also has a demo account where you can practice trading without using real money, which is a great way to learn how to handle market volatility and use these risk management tools before you start trading for real.
 
@@ -80,7 +80,7 @@ Another great tool Nadex offers is a demo account. This is a practice account wh
 
 Experienced traders on Nadex can use strategies like hedging to manage risk. Hedging means making another trade to protect against losses from the first trade. For example, if you think the price of gold will go up, you might buy a binary option betting on that. But to hedge, you could also buy a binary option betting that the price will go down. If the price goes up, you win on the first trade but lose on the second. If it goes down, you lose on the first trade but win on the second. This way, you limit how much you can lose.
 
-Another strategy is called scalping, which means making lots of small trades to take advantage of tiny price changes. On Nadex, you could use scalping with spreads. You might buy a spread when you think the price will stay within a certain range, then quickly sell it if the price moves a little bit in your favor. This can add up to big gains if you do it right. Experienced traders also use technical analysis, looking at charts and patterns to predict where prices might go next. Nadex has tools like charts and indicators to help with this. By combining these strategies, experienced traders can try to make more money while managing their risks on Nadex.
+Another strategy is called [scalping](/wiki/gamma-scalping), which means making lots of small trades to take advantage of tiny price changes. On Nadex, you could use scalping with spreads. You might buy a spread when you think the price will stay within a certain range, then quickly sell it if the price moves a little bit in your favor. This can add up to big gains if you do it right. Experienced traders also use technical analysis, looking at charts and patterns to predict where prices might go next. Nadex has tools like charts and indicators to help with this. By combining these strategies, experienced traders can try to make more money while managing their risks on Nadex.
 
 ## What is Understanding Binary Options Trading?
 

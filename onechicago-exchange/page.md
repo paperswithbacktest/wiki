@@ -68,7 +68,7 @@ One advanced trading strategy you can use on OneChicago Exchange is called hedgi
 
 Another strategy is called speculation. This is when you try to make money by guessing where the price of a stock will go in the future. If you think a stock's price will go up, you can buy a future now and sell it later for a higher price. If you're right, you make money. But if you're wrong, you could lose money. It's a bit like gambling, but with more information and strategy involved. You can use the information and tools on OneChicago Exchange to help you make better guesses.
 
-A third strategy is called arbitrage. This is when you take advantage of small differences in prices between different markets. For example, if the price of a stock on OneChicago Exchange is a little different from its price on another exchange, you can buy the future on one exchange and sell it on the other to make a small profit. This strategy requires quick thinking and good timing, but it can be a way to make money without taking big risks. OneChicago Exchange's focus on single stock futures makes it a good place to look for these opportunities.
+A third strategy is called [arbitrage](/wiki/arbitrage). This is when you take advantage of small differences in prices between different markets. For example, if the price of a stock on OneChicago Exchange is a little different from its price on another exchange, you can buy the future on one exchange and sell it on the other to make a small profit. This strategy requires quick thinking and good timing, but it can be a way to make money without taking big risks. OneChicago Exchange's focus on single stock futures makes it a good place to look for these opportunities.
 
 ## How does OneChicago Exchange compare to other similar exchanges?
 

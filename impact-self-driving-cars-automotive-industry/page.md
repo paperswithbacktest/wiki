@@ -18,7 +18,7 @@ These cars are designed to make driving safer and easier. They can help reduce a
 
 Self-driving cars use a lot of special technology to drive on their own. They have cameras, sensors, and radar that help them see the road and everything around them. These tools let the car know where other cars, people, and objects are. The car also has a computer that uses this information to make decisions. It can figure out when to speed up, slow down, turn, or stop based on what it sees.
 
-The computer in a self-driving car uses something called artificial intelligence (AI). AI is like a smart brain that can learn and make choices. It helps the car understand traffic rules and drive safely. The car can also talk to other cars and traffic systems to get more information about the road. All of this technology works together to make sure the car can drive itself without a human driver.
+The computer in a self-driving car uses something called [artificial intelligence](/wiki/ai-artificial-intelligence) (AI). AI is like a smart brain that can learn and make choices. It helps the car understand traffic rules and drive safely. The car can also talk to other cars and traffic systems to get more information about the road. All of this technology works together to make sure the car can drive itself without a human driver.
 
 ## What is the current state of self-driving car technology?
 

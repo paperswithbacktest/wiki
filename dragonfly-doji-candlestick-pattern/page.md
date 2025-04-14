@@ -28,7 +28,7 @@ If a Dragonfly Doji happens after prices have been falling for a while, it can b
 
 ## In what types of markets can a Dragonfly Doji be observed?
 
-A Dragonfly Doji can be seen in different kinds of markets where people trade things like stocks, forex, commodities, and cryptocurrencies. This pattern can show up on charts for any of these markets because it's all about how the price moves during a trading period, no matter what is being traded.
+A Dragonfly Doji can be seen in different kinds of markets where people trade things like stocks, [forex](/wiki/forex-system), commodities, and cryptocurrencies. This pattern can show up on charts for any of these markets because it's all about how the price moves during a trading period, no matter what is being traded.
 
 The key thing to remember is that a Dragonfly Doji tells us about a change in who is in control of the market. If you see this pattern after prices have been going down, it might mean that the people who want to sell are losing power and the people who want to buy are getting stronger. This can happen in any market where there's a lot of trading going on.
 

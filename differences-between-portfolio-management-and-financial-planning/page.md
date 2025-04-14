@@ -22,7 +22,7 @@ A financial planner can help you with this. They look at your current money situ
 
 ## How do the goals of portfolio management differ from those of financial planning?
 
-The main goal of portfolio management is to grow your investments over time while keeping risk in check. It's all about picking the right mix of stocks, bonds, and other assets that fit your comfort with risk and how long you plan to invest. Portfolio managers keep an eye on your investments, making changes when needed to make sure your money is working hard for you. They aim to beat the market or at least keep up with it, always trying to get the best return possible without taking too many chances.
+The main goal of portfolio management is to grow your investments over time while keeping risk in check. It's all about [picking](/wiki/asset-class-picking) the right mix of stocks, bonds, and other assets that fit your comfort with risk and how long you plan to invest. Portfolio managers keep an eye on your investments, making changes when needed to make sure your money is working hard for you. They aim to beat the market or at least keep up with it, always trying to get the best return possible without taking too many chances.
 
 Financial planning, on the other hand, is about setting up a big picture plan for your money. It looks at everything from how much you earn and spend, to saving for big goals like buying a house or retiring. Financial planners help you figure out a budget, save money, and invest in a way that helps you reach your dreams. They also make sure you have the right insurance and are not paying too much in taxes. The goal is to make sure you're on track to meet all your financial needs and feel secure about your future.
 
@@ -84,7 +84,7 @@ In portfolio management, one advanced strategy is called tactical asset allocati
 
 Another advanced strategy is using derivatives, like options and futures. These are special kinds of investments that can help you make money if the market goes up or down. They can also help you protect your other investments from big losses. In basic financial planning, you might not use these because they can be risky and hard to understand. But in portfolio management, a skilled manager might use them to try to get better returns or lower risk.
 
-A third strategy is factor investing, where you pick investments based on certain characteristics, like how big a company is or how much it's growing. This can help you build a portfolio that's more likely to do well over time. In basic financial planning, you might just pick a few simple investments and not worry about these details. But in portfolio management, using these advanced strategies can help you fine-tune your investments to match your goals and the market's ups and downs.
+A third strategy is [factor](/wiki/factor-investing) investing, where you pick investments based on certain characteristics, like how big a company is or how much it's growing. This can help you build a portfolio that's more likely to do well over time. In basic financial planning, you might just pick a few simple investments and not worry about these details. But in portfolio management, using these advanced strategies can help you fine-tune your investments to match your goals and the market's ups and downs.
 
 ## What is Portfolio Management?
 
@@ -110,7 +110,7 @@ The strategic integration of these tasks not only seeks to optimize returns but 
 
 ## References & Further Reading
 
-Bergstra, James, et al., "Algorithms for Hyper-Parameter Optimization," 2011, explores methods to optimize hyper-parameters in machine learning models. Hyper-parameter optimization is critical in algorithmic trading and financial modeling to enhance predictive accuracy and efficiency. The paper provides insights into algorithms such as Random Search and Bayesian Optimization, which can be applied in developing financial algorithms to improve performance and robustness.
+Bergstra, James, et al., "Algorithms for Hyper-Parameter Optimization," 2011, explores methods to optimize hyper-parameters in [machine learning](/wiki/machine-learning) models. Hyper-parameter optimization is critical in [algorithmic trading](/wiki/algorithmic-trading) and financial modeling to enhance predictive accuracy and efficiency. The paper provides insights into algorithms such as Random Search and Bayesian Optimization, which can be applied in developing financial algorithms to improve performance and robustness.
 
 Marcos Lopez de Prado's "Advances in Financial Machine Learning" offers practical techniques for applying machine learning to finance. It covers methodologies and algorithms useful for developing adaptive models that can adjust to the ever-changing financial markets. Topics such as financial data structures, strategy evaluation, and back-testing are discussed, which are essential for creating reliable trading algorithms.
 

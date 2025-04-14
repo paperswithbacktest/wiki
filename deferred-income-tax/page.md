@@ -42,7 +42,7 @@ Another common reason for deferred tax liabilities is when a company earns reven
 
 Temporary differences that lead to deferred tax assets happen when a company reports lower income on its financial statements than what it reports for taxes. This can happen because the rules for accounting and taxes are different. For example, a company might use one way to figure out how much its equipment has worn out (depreciation) for accounting, but use a different way for tax purposes. This makes the income on the financial statements lower than the income on the tax return. As a result, the company pays more tax now but will get a tax benefit later. This future tax benefit is called a deferred tax asset.
 
-Another common reason for deferred tax assets is when a company has expenses that it can't deduct for tax purposes right away. For example, if a company has a big loss one year, it might not be able to use that loss to reduce its taxes right away. Instead, it can carry the loss forward to future years and use it to reduce its taxes then. This means the company pays more tax now but will get a tax benefit later, creating a deferred tax asset.
+Another common reason for deferred tax assets is when a company has expenses that it can't deduct for tax purposes right away. For example, if a company has a big loss one year, it might not be able to use that loss to reduce its taxes right away. Instead, it can [carry](/wiki/carry-trading) the loss forward to future years and use it to reduce its taxes then. This means the company pays more tax now but will get a tax benefit later, creating a deferred tax asset.
 
 ## How is deferred income tax calculated?
 
@@ -82,7 +82,7 @@ Another thing companies need to think about is how changes in tax laws might aff
 
 ## What are some examples of taxes in algorithmic trading?
 
-Algorithmic trading involves automated transactions of financial assets based on pre-determined criteria. Understanding the tax implications of algorithmic trading requires exploring several key aspects, such as short-term gains, high-frequency trading, and specific trading strategies like [scalping](/wiki/gamma-scalping) and arbitrage.
+Algorithmic trading involves automated transactions of financial assets based on pre-determined criteria. Understanding the tax implications of [algorithmic trading](/wiki/algorithmic-trading) requires exploring several key aspects, such as short-term gains, high-frequency trading, and specific trading strategies like [scalping](/wiki/gamma-scalping) and [arbitrage](/wiki/arbitrage).
 
 **Illustrative Example of Tax Calculations:**
 

@@ -36,7 +36,7 @@ So, incidence rate focuses on new cases and how fast a disease is spreading, whi
 
 ## Can you provide a simple example of calculating incidence rate?
 
-Imagine a small town with 1,000 people. Over the course of one month, 10 people in this town get the flu for the first time. To find the incidence rate of the flu in this town, you first count the number of new cases, which is 10. Then, you divide this number by the total number of people who could still get the flu, which is 1,000. This gives you 10 divided by 1,000, which equals 0.01.
+Imagine a small town with 1,000 people. Over the [course](/wiki/best-algorithmic-trading-courses) of one month, 10 people in this town get the flu for the first time. To find the incidence rate of the flu in this town, you first count the number of new cases, which is 10. Then, you divide this number by the total number of people who could still get the flu, which is 1,000. This gives you 10 divided by 1,000, which equals 0.01.
 
 Next, to make the number easier to understand, you multiply 0.01 by 1,000. This gives you an incidence rate of 10 per 1,000 people. So, in this town, 10 out of every 1,000 people got the flu in that month. This tells you how quickly the flu is spreading in the town.
 

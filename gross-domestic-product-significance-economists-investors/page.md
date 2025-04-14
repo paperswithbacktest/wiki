@@ -40,7 +40,7 @@ Real GDP, on the other hand, adjusts for changes in prices over time. It uses th
 
 ## How does GDP growth affect investment decisions?
 
-When a country's GDP is growing, it usually means more people are working and earning money. This can make investors feel good about putting their money into that country. They might think that businesses will do well and make more profits, so they buy stocks or start new projects. A growing GDP can also mean that the government is doing well and might not need to raise taxes or borrow a lot of money, which is good for investors too.
+When a country's GDP is growing, it usually means more people are working and [earning](/wiki/earning-announcement) money. This can make investors feel good about putting their money into that country. They might think that businesses will do well and make more profits, so they buy stocks or start new projects. A growing GDP can also mean that the government is doing well and might not need to raise taxes or borrow a lot of money, which is good for investors too.
 
 On the other hand, if GDP growth is slow or shrinking, investors might worry. They might think that businesses will struggle and make less money, so they might sell their stocks or hold off on new projects. A shrinking GDP can also make investors worry that the government might raise taxes or borrow more money, which can make investing riskier. So, GDP growth is a big deal for investors because it helps them decide where and when to put their money.
 

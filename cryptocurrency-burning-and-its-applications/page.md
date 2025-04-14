@@ -22,7 +22,7 @@ Another reason projects burn tokens is to follow the rules they set up. Some pro
 
 ## How does token burning affect the value of a cryptocurrency?
 
-Token burning can make a cryptocurrency more valuable. When a project burns tokens, it takes some of them out of circulation forever. This makes the remaining tokens rarer, kind of like how a rare toy can be worth more money because fewer people have it. If people think the cryptocurrency is going to be more valuable because there are fewer tokens, they might want to buy more of it, which can push the price up.
+Token burning can make a [cryptocurrency](/wiki/cryptocurrency) more valuable. When a project burns tokens, it takes some of them out of circulation forever. This makes the remaining tokens rarer, kind of like how a rare toy can be worth more money because fewer people have it. If people think the cryptocurrency is going to be more valuable because there are fewer tokens, they might want to buy more of it, which can push the price up.
 
 Burning tokens can also make people trust the project more. When a project follows its own rules and burns tokens, it shows that they are serious about managing their token supply. This can make people feel more confident that the project is being run well. If more people trust the project and want to hold its tokens, this can also help increase the value of the cryptocurrency.
 
@@ -101,13 +101,13 @@ $$
 Where $P$ is the price, $D$ is demand, and $S$ is supply. 
 
 **Is crypto burning similar to stock buybacks?**  
-Crypto burning is somewhat analogous to stock buybacks in traditional finance, where a company repurchases its shares from the market to reduce the number of outstanding shares. Both strategies aim to increase the value of the remaining assets held by investors through scarcity. However, unlike stock buybacks, which may pose liquidity issues, burned cryptocurrencies cannot be recovered or reused, making the reduction permanent.
+Crypto burning is somewhat analogous to stock buybacks in traditional finance, where a company repurchases its shares from the market to reduce the number of outstanding shares. Both strategies aim to increase the value of the remaining assets held by investors through scarcity. However, unlike stock buybacks, which may pose [liquidity](/wiki/liquidity-risk-premium) issues, burned cryptocurrencies cannot be recovered or reused, making the reduction permanent.
 
 **What are the advantages and risks associated with crypto burning?**  
 Advantages of crypto burning include potentially increasing the value of tokens by reducing their supply, signaling commitment to investors by project developers, and helping maintain the value of stablecoins. Conversely, risks involve the potential for manipulative practices if burning strategies are not transparent. Additionally, burning does not guarantee an increase in price, as market conditions can saturate or fluctuate unpredictable any external factors.
 
 **How do algorithmic systems utilize information from crypto burning events?**  
-Algorithmic trading systems leverage real-time data, including burning events, to adjust trading strategies and optimize performance. When significant burning events impact supply, algorithms might alter their approaches to seize potential volatility in the market. A simple Python snippet that could be used in an algorithmic trading system to react to burning events might look like this:
+Algorithmic trading systems leverage real-time data, including burning events, to adjust trading strategies and optimize performance. When significant burning events impact supply, algorithms might alter their approaches to seize potential [volatility](/wiki/volatility-trading-strategies) in the market. A simple Python snippet that could be used in an [algorithmic trading](/wiki/algorithmic-trading) system to react to burning events might look like this:
 
 ```python
 def adjust_strategy_on_burn(event_data):

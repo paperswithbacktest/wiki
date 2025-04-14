@@ -18,7 +18,7 @@ For example, if you buy a bond with a face value of $1,000 and a fixed coupon ra
 
 The coupon rate of a bond is like the interest rate you get for lending your money to the company. If the coupon rate is higher than what other similar bonds are offering, then your bond becomes more valuable. People will want to buy it because they can earn more money from the interest payments. On the other hand, if the coupon rate is lower than what other bonds are offering, your bond might not be as valuable because people can find better deals elsewhere.
 
-When interest rates in the economy change, the value of your bond can also change. If interest rates go up, new bonds will be issued with higher coupon rates, making your bond with a lower coupon rate less attractive. So, the price of your bond might go down because people would rather buy the new bonds with higher interest payments. But if interest rates go down, your bond with a higher coupon rate becomes more attractive, and its price might go up because people want to lock in that higher interest rate.
+When interest rates in the economy change, the value of your bond can also change. If interest rates go up, new bonds will be issued with higher coupon rates, making your bond with a lower coupon rate less attractive. So, the price of your bond might go down because people would rather buy the new bonds with higher interest payments. But if interest rates go down, your bond with a higher coupon rate becomes more attractive, and its price might go up because people want to lock in that higher [interest rate](/wiki/interest-rate-trading-strategies).
 
 ## What is the face value of a bond and how is it related to its coupon payments?
 

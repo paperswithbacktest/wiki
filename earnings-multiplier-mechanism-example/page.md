@@ -36,7 +36,7 @@ The terms "P/E ratio" and "earnings multiplier" are used differently in differen
 
 Several things can affect a company's earnings multiplier. One big thing is how fast the company is growing. If people think a company will grow a lot and make more money in the future, they might be willing to pay more for its stock right now. This makes the earnings multiplier go up. Another thing that can change the earnings multiplier is what's happening in the economy and the company's industry. If the economy is doing well and the industry is growing, the earnings multiplier might be higher because people feel good about investing in that company.
 
-Another factor is how risky it is to invest in the company. If a company has a lot of debt or if its earnings go up and down a lot, people might not want to pay as much for its stock. This can make the earnings multiplier lower. Also, what other investors are doing can affect the earnings multiplier. If a lot of people want to buy the stock, the price goes up, and so does the earnings multiplier. On the other hand, if people are selling the stock, the price goes down, and the earnings multiplier goes down too.
+Another [factor](/wiki/factor-investing) is how risky it is to invest in the company. If a company has a lot of debt or if its earnings go up and down a lot, people might not want to pay as much for its stock. This can make the earnings multiplier lower. Also, what other investors are doing can affect the earnings multiplier. If a lot of people want to buy the stock, the price goes up, and so does the earnings multiplier. On the other hand, if people are selling the stock, the price goes down, and the earnings multiplier goes down too.
 
 ## How does the earnings multiplier vary across different industries?
 

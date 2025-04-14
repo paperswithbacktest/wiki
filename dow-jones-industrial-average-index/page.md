@@ -24,7 +24,7 @@ The DJIA was started by Charles Dow in 1896. It's one of the oldest ways to chec
 
 The DJIA includes companies from different industries like technology, finance, and healthcare. This mix helps show how the overall U.S. economy is doing. Some examples of companies in the DJIA are Apple, which makes phones and computers, and JPMorgan Chase, which is a big bank. These companies are all very large and important in their fields.
 
-The DJIA tries to represent the whole U.S. economy by picking big companies from different areas. This way, if one industry is doing well and another is not, the DJIA can still give a good overall picture. The companies in the DJIA are chosen carefully to make sure they show what's happening in the economy as a whole.
+The DJIA tries to represent the whole U.S. economy by [picking](/wiki/asset-class-picking) big companies from different areas. This way, if one industry is doing well and another is not, the DJIA can still give a good overall picture. The companies in the DJIA are chosen carefully to make sure they show what's happening in the economy as a whole.
 
 ## How is the DJIA calculated?
 

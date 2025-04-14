@@ -84,7 +84,7 @@ Another way to develop a critical eye is by comparing styles. Look at how differ
 
 ## What is the understanding of classification models?
 
-Classification models play a critical role in algorithmic trading by facilitating the prediction of future market movements. These models are designed to classify data points into distinct categories based on input features. In trading, classification models typically aim to predict market behaviors, such as whether a stock price will rise or fall.
+Classification models play a critical role in [algorithmic trading](/wiki/algorithmic-trading) by facilitating the prediction of future market movements. These models are designed to classify data points into distinct categories based on input features. In trading, classification models typically aim to predict market behaviors, such as whether a stock price will rise or fall.
 
 **Definition and Types of Classification Models in Trading**
 

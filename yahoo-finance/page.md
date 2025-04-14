@@ -88,7 +88,7 @@ Yahoo Finance data is instrumental in developing trading algorithms, offering a 
 
 Yahoo Finance provides access to a broad array of financial indicators such as moving averages, [volume](/wiki/volume-trading-strategy) data, and [momentum](/wiki/momentum) indicators, which are fundamental in technical analysis. By integrating these indicators into trading algorithms, traders can identify patterns and potential entry and [exit](/wiki/exit-strategy) points. For example, a simple moving average (SMA) crossover strategy, where a short-term SMA crosses a long-term SMA, can be implemented to signal buy or sell orders. 
 
-Python, a popular language for algorithmic trading, offers libraries such as `pandas` and `numpy` to facilitate data manipulation and analysis. The following Python snippet demonstrates how to calculate a 50-day and 200-day SMA using Yahoo Finance data:
+Python, a popular language for [algorithmic trading](/wiki/algorithmic-trading), offers libraries such as `pandas` and `numpy` to facilitate data manipulation and analysis. The following Python snippet demonstrates how to calculate a 50-day and 200-day SMA using Yahoo Finance data:
 
 ```python
 import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets

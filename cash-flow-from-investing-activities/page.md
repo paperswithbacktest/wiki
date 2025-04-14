@@ -134,5 +134,5 @@ Assessing whether cash flow from investing activities is positive (indicating as
      signals[short_window:] = np.where(short_mavg[short_window:] > long_mavg[short_window:], 1.0, 0.0)
      ```
 
-These resources offer a comprehensive pathway for understanding and applying the principles of cash flow analysis and algorithmic trading, aiding in effective investment strategy formulation.
+These resources offer a comprehensive pathway for understanding and applying the principles of cash flow analysis and [algorithmic trading](/wiki/algorithmic-trading), aiding in effective investment strategy formulation.
 

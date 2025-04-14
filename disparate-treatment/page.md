@@ -19,7 +19,7 @@ Disparate treatment in machine learning happens when an algorithm is designed to
 
 Disparate impact is different. It happens when an algorithm treats everyone the same on the surface, but the results still hurt certain groups more than others. This can happen even if the algorithm doesn't use protected traits directly. For instance, if a job ad system shows high-paying job ads less often to people in neighborhoods with many minorities, even though it's not using race as a factor, it can still have a disparate impact on those groups.
 
-Understanding the difference between these two types of bias is important for making fair machine learning models. While disparate treatment is about intentional discrimination, disparate impact is about the unintended effects of seemingly neutral rules. Both need to be watched carefully to make sure algorithms are fair and just.
+Understanding the difference between these two types of bias is important for making fair [machine learning](/wiki/machine-learning) models. While disparate treatment is about intentional discrimination, disparate impact is about the unintended effects of seemingly neutral rules. Both need to be watched carefully to make sure algorithms are fair and just.
 
 ## What are some common examples of disparate treatment in machine learning algorithms?
 

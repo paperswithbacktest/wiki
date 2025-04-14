@@ -23,7 +23,7 @@ For example, if you have an image, the encoder might turn it into a set of numbe
 
 ## What are the main types of decoders used in machine learning?
 
-In machine learning, there are several main types of decoders, each designed for different tasks. One common type is the **fully connected decoder**, often used in autoencoders. This type of decoder takes the compressed representation from the encoder and uses multiple layers of neurons to reconstruct the original input. For example, if the input is an image, the fully connected decoder would try to recreate the image from the smaller set of numbers provided by the encoder.
+In [machine learning](/wiki/machine-learning), there are several main types of decoders, each designed for different tasks. One common type is the **fully connected decoder**, often used in autoencoders. This type of decoder takes the compressed representation from the encoder and uses multiple layers of neurons to reconstruct the original input. For example, if the input is an image, the fully connected decoder would try to recreate the image from the smaller set of numbers provided by the encoder.
 
 Another type is the **convolutional decoder**, which is particularly useful for tasks involving images or spatial data. Unlike fully connected decoders, convolutional decoders use convolutional layers to build up the output. They start with the compressed representation and gradually increase the size and detail of the data through a series of upsampling and convolution operations. This makes them very effective for tasks like image generation and segmentation.
 
@@ -39,7 +39,7 @@ The decoder's job is really important because it helps the autoencoder learn how
 
 In sequence-to-sequence models, a decoder works to turn a compressed version of one sequence into another sequence. Imagine you're translating a sentence from English to French. The encoder takes the English sentence and turns it into a smaller set of numbers. The decoder then takes these numbers and starts building the French sentence, one word at a time. It keeps going until it has the whole sentence translated.
 
-The decoder does this by using what's called a recurrent neural network (RNN) or a more advanced version like an LSTM (Long Short-Term Memory). It looks at the numbers from the encoder and uses them to guess the first word of the new sequence. After guessing the first word, it uses that word along with the numbers from the encoder to guess the next word. It keeps doing this until it thinks it has the whole sequence. This way, the decoder can turn a short summary into a longer, more detailed sequence, like translating a sentence or generating text.
+The decoder does this by using what's called a recurrent [neural network](/wiki/neural-network) (RNN) or a more advanced version like an LSTM (Long Short-Term Memory). It looks at the numbers from the encoder and uses them to guess the first word of the new sequence. After guessing the first word, it uses that word along with the numbers from the encoder to guess the next word. It keeps doing this until it thinks it has the whole sequence. This way, the decoder can turn a short summary into a longer, more detailed sequence, like translating a sentence or generating text.
 
 ## What are the common applications of decoders in machine learning?
 

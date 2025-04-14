@@ -30,7 +30,7 @@ But a weak dollar isn't all bad. It makes things made in the U.S. cheaper for pe
 
 A strong dollar makes things from the U.S. more expensive for people in other countries to buy. This means that American companies might sell fewer of their products abroad because they cost more. When exports go down, it can hurt businesses and lead to fewer jobs in the U.S. So, a strong dollar can make it harder for American companies to do well in international trade.
 
-On the other hand, a strong dollar makes things from other countries cheaper for people in the U.S. to buy. This can be good for American consumers because they can get more for their money when they buy imports like toys or electronics. But if the U.S. buys a lot more from other countries and sells less to them, it can lead to a trade deficit, which means the country is spending more on imports than it's earning from exports. So, while a strong dollar is good for buying things from abroad, it can make international trade less balanced.
+On the other hand, a strong dollar makes things from other countries cheaper for people in the U.S. to buy. This can be good for American consumers because they can get more for their money when they buy imports like toys or electronics. But if the U.S. buys a lot more from other countries and sells less to them, it can lead to a trade deficit, which means the country is spending more on imports than it's [earning](/wiki/earning-announcement) from exports. So, while a strong dollar is good for buying things from abroad, it can make international trade less balanced.
 
 ## What causes the dollar to weaken or strengthen?
 

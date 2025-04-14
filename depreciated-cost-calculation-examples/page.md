@@ -22,7 +22,7 @@ It also helps with tax calculations. By figuring out the depreciated cost, a com
 
 ## How does depreciation affect the value of an asset?
 
-Depreciation reduces the value of an asset over time. When a business buys something big, like a truck or a computer, they don't count the whole cost right away. Instead, they spread it out over the years they plan to use it. This is because the asset gets older and less useful as time goes on. So, each year, they subtract a little bit of the cost from the asset's value. This is called depreciation, and it makes the asset worth less on the books.
+Depreciation reduces the value of an asset over time. When a business buys something big, like a truck or a computer, they don't count the whole cost right away. Instead, they spread it out over the years they plan to use it. This is because the asset gets older and less useful as time goes on. So, each year, they subtract a little bit of the cost from the asset's value. This is called depreciation, and it makes the asset worth less on the [books](/wiki/algo-trading-books).
 
 By doing this, the business can show a more accurate picture of how much their stuff is really worth. It also helps them match the cost of the asset with the money they make from using it. This way, they can see if they're making a profit or not. For example, if a company buys a machine for $10,000 and it lasts 5 years, they might subtract $2,000 from its value each year. After 3 years, the machine would be worth $4,000 on their books, even though they paid $10,000 for it.
 
@@ -194,7 +194,7 @@ Each of these methods provides a different lens through which to view an assetâ€
 
 ## How can depreciation be integrated into trade algorithms?
 
-Incorporating depreciation data into trading algorithms allows traders to enhance their predictive models by considering the reduction in asset values over time. This approach can significantly improve the accuracy of earnings forecasts and the management of technology and equipment longevity within algorithmic trading systems.
+Incorporating depreciation data into trading algorithms allows traders to enhance their predictive models by considering the reduction in asset values over time. This approach can significantly improve the accuracy of earnings forecasts and the management of technology and equipment longevity within [algorithmic trading](/wiki/algorithmic-trading) systems.
 
 Given the high-performance nature of algorithmic trading, assets such as computing hardware and software undergo depreciation. Accounting for these changes in value helps traders adjust their strategies in line with the actual economic life of their assets. By integrating depreciation data, trading algorithms can dynamically update asset values and reflect real-time market conditions, thereby refining decision-making processes.
 

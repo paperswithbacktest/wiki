@@ -52,7 +52,7 @@ Another key difference is that TANs are backed specifically by the expected tax 
 
 ## What are the typical terms and conditions of a Tax Anticipation Note?
 
-A Tax Anticipation Note (TAN) usually has short terms, often lasting just a few months until the taxes are collected. They are meant to be paid back quickly, usually within a year. The interest rate on a TAN is often lower than other investments because they are seen as safe. Investors know that the government will pay them back once the taxes come in, so they don't need a high interest rate to feel secure.
+A Tax Anticipation Note (TAN) usually has short terms, often lasting just a few months until the taxes are collected. They are meant to be paid back quickly, usually within a year. The [interest rate](/wiki/interest-rate-trading-strategies) on a TAN is often lower than other investments because they are seen as safe. Investors know that the government will pay them back once the taxes come in, so they don't need a high interest rate to feel secure.
 
 The main condition of a TAN is that it's backed by the tax money the government expects to collect. This means if the government can't collect enough taxes, there's a small risk they might not be able to pay back the TAN. But this is rare because governments usually have a good idea of how much tax money they will get. When you buy a TAN, you're lending money to the government, and they promise to give it back, with a little interest, once they have the tax money.
 

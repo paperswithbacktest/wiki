@@ -70,7 +70,7 @@ If you're buying a home with someone else, like a partner or family member, you 
 
 A piggyback loan is a way to avoid PMI by taking out two loans instead of one. When you buy a home, you can get a main loan for most of the price and a smaller second loan to cover the rest of what you need. This second loan is called a piggyback loan. If you use the piggyback loan to make your down payment bigger than 20% of the home's price, you won't need PMI. This can save you money because you won't have to pay the extra cost of PMI each month.
 
-Piggyback loans can be a good choice if you don't want to wait to save up a big down payment. But, they come with their own costs. The second loan might have a higher interest rate than the main loan, and you'll have to make payments on both loans. It's important to think about whether the savings from avoiding PMI are worth the extra cost of the piggyback loan. Talking to a lender can help you figure out if a piggyback loan is the right choice for you.
+Piggyback loans can be a good choice if you don't want to wait to save up a big down payment. But, they come with their own costs. The second loan might have a higher [interest rate](/wiki/interest-rate-trading-strategies) than the main loan, and you'll have to make payments on both loans. It's important to think about whether the savings from avoiding PMI are worth the extra cost of the piggyback loan. Talking to a lender can help you figure out if a piggyback loan is the right choice for you.
 
 ## What role does a larger down payment play in PMI avoidance?
 

@@ -18,7 +18,7 @@ Countries like the United States, Saudi Arabia, and Nigeria produce a lot of swe
 
 Sweet crude oil and sour crude oil are different because of the amount of sulfur they have. Sweet crude oil has less sulfur, which makes it easier and cheaper to turn into things like gasoline. This is why it's called "sweet." On the other hand, sour crude oil has more sulfur, which makes it harder and more expensive to refine. Because sweet crude oil is easier to work with, it's usually worth more money.
 
-Countries that produce a lot of sweet crude oil, like the United States and Saudi Arabia, can sell it for a higher price. This is good for their economy. Sour crude oil is found in places like Venezuela and some parts of Canada. Even though it's harder to refine, it's still important because there's a lot of it. But when people talk about oil prices, they often mean the price of sweet crude oil, like the kind from West Texas or Brent in the North Sea.
+Countries that produce a lot of sweet [crude oil](/wiki/crude-oil), like the United States and Saudi Arabia, can sell it for a higher price. This is good for their economy. Sour crude oil is found in places like Venezuela and some parts of Canada. Even though it's harder to refine, it's still important because there's a lot of it. But when people talk about oil prices, they often mean the price of sweet crude oil, like the kind from West Texas or Brent in the North Sea.
 
 ## What are the main characteristics of sweet crude oil?
 

@@ -100,9 +100,9 @@ This reflects the substantial economic advantage to the property owner given the
 
 #### Case Study on the Use of Algorithmic Trading Strategies in Property Market Investments
 
-A prominent case in the domain of algorithmic trading within property investments involved a [hedge fund](/wiki/hedge-fund-trading-strategies) developing an algorithm to predict property value fluctuations based on a multitude of market indicators. By leveraging large datasets, including historical price trends, interest rates, and economic indicators, the algorithm functioned to automate trading decisions and optimize the fund's portfolio.
+A prominent case in the domain of [algorithmic trading](/wiki/algorithmic-trading) within property investments involved a [hedge fund](/wiki/hedge-fund-trading-strategies) developing an algorithm to predict property value fluctuations based on a multitude of market indicators. By leveraging large datasets, including historical price trends, interest rates, and economic indicators, the algorithm functioned to automate trading decisions and optimize the fund's portfolio.
 
-The algorithm applied machine learning techniques to enhance predictive accuracy. Python and libraries like TensorFlow and pandas facilitated the data handling and model training process. A sample code snippet for a simple linear regression model might include:
+The algorithm applied [machine learning](/wiki/machine-learning) techniques to enhance predictive accuracy. Python and libraries like TensorFlow and pandas facilitated the data handling and model training process. A sample code snippet for a simple linear regression model might include:
 
 ```python
 import pandas as pd

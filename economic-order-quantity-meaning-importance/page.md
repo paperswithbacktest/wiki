@@ -129,7 +129,7 @@ $$
 
 ### Algorithmic Trading Systems in Inventory Management
 
-Algorithmic trading systems bring a dynamic dimension to inventory management through data-driven decision-making processes. These systems can analyze large datasets to identify patterns and predict future demand more accurately than traditional forecasting methods. Implementing algorithmic trading involves:
+Algorithmic trading systems bring a dynamic dimension to inventory management through data-driven decision-making processes. These systems can analyze large datasets to identify patterns and predict future demand more accurately than traditional forecasting methods. Implementing [algorithmic trading](/wiki/algorithmic-trading) involves:
 
 - **Demand Forecasting**: Use predictive analytics to assess historical sales data, market trends, and external factors affecting demand. This allows businesses to adjust inventory levels proactively.
 

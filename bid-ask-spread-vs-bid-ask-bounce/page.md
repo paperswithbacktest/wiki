@@ -52,7 +52,7 @@ On the other hand, when a stock is not very liquid, it's like a quiet market whe
 
 ## What impact does market volatility have on the bid-ask bounce?
 
-Market volatility can make the bid-ask bounce more noticeable and frequent. When the market is volatile, prices move up and down a lot. This can cause more trades to happen at the bid and ask prices because people are trying to buy and sell quickly. As a result, the price of a stock can seem to jump back and forth between the bid and ask prices more often, making the bid-ask bounce more obvious. Traders might see this and think the stock is moving a lot, but it's just the effect of the bid-ask bounce during times of high volatility.
+Market [volatility](/wiki/volatility-trading-strategies) can make the bid-ask bounce more noticeable and frequent. When the market is volatile, prices move up and down a lot. This can cause more trades to happen at the bid and ask prices because people are trying to buy and sell quickly. As a result, the price of a stock can seem to jump back and forth between the bid and ask prices more often, making the bid-ask bounce more obvious. Traders might see this and think the stock is moving a lot, but it's just the effect of the bid-ask bounce during times of high volatility.
 
 During periods of high market volatility, the bid-ask spread might also get wider. This happens because sellers might want more money to sell their stocks, and buyers might not be willing to pay as much. A wider spread can make the bid-ask bounce even more pronounced because the price has a bigger gap to jump across. Understanding this can help traders not to overreact to the price movements they see during volatile times and make better trading decisions.
 
@@ -86,7 +86,7 @@ The bid-ask spread is a fundamental concept in financial markets, representing t
 
 A crucial aspect of the bid-ask spread is its role as an indicator of transaction costs. The spread itself represents the cost of trading an asset; wider spreads result in higher costs for executing trades. For instance, a trader looking to buy an asset at the ask price and then sell at the bid price immediately incurs a loss equal to the spread, thus highlighting its impact on the profitability of trading activities.
 
-Market makers play a significant role in determining the bid-ask spread by providing liquidity to the exchange. These entities stand ready to buy and sell financial instruments, profiting from the spread itself. Their function is crucial in maintaining market efficiency as they absorb and supply liquidity. By placing both bid and ask quotes, market makers can capture the spread as profit. The ability of market makers to maintain narrow spreads depends on various factors, including market volatility and trading volume.
+Market makers play a significant role in determining the bid-ask spread by providing liquidity to the exchange. These entities stand ready to buy and sell financial instruments, profiting from the spread itself. Their function is crucial in maintaining market efficiency as they absorb and supply liquidity. By placing both bid and ask quotes, market makers can capture the spread as profit. The ability of market makers to maintain narrow spreads depends on various factors, including market volatility and trading [volume](/wiki/volume-trading-strategy).
 
 The relationship between the bid and ask prices can be summarized as:
 

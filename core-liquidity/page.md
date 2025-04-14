@@ -18,7 +18,7 @@ Having good core liquidity is like having a safety net. It makes sure that a com
 
 Core liquidity is really important in financial markets because it helps keep things running smoothly. Imagine you want to buy or sell something quickly, like a stock or a bond. If there's enough core liquidity, you can do that without causing big changes in the price. This is good because it means the market is stable and people can trust it. Without enough core liquidity, prices might jump around a lot, making it hard for people to trade and causing them to lose trust in the market.
 
-Also, core liquidity is like a safety cushion for the whole financial system. When there's a lot of it, banks and other big players can handle unexpected problems better. For example, if a lot of people suddenly want to take their money out of a bank, the bank can use its core liquidity to give everyone their money without panicking. This helps prevent bigger problems, like a bank run, and keeps the financial system strong and reliable.
+Also, core [liquidity](/wiki/liquidity-risk-premium) is like a safety cushion for the whole financial system. When there's a lot of it, banks and other big players can handle unexpected problems better. For example, if a lot of people suddenly want to take their money out of a bank, the bank can use its core liquidity to give everyone their money without panicking. This helps prevent bigger problems, like a bank run, and keeps the financial system strong and reliable.
 
 ## How does core liquidity differ from overall market liquidity?
 
@@ -34,7 +34,7 @@ Another source of core liquidity is credit lines. This is like having a credit c
 
 ## How can core liquidity impact trading strategies?
 
-Core liquidity can really change how people trade in the markets. If there's a lot of core liquidity, traders can buy and sell things quickly without worrying too much about the price changing a lot. This means they can use strategies that involve making a lot of trades in a short time, like day trading or high-frequency trading. These strategies work well when the market is stable and there's enough money moving around to keep things smooth.
+Core liquidity can really change how people trade in the markets. If there's a lot of core liquidity, traders can buy and sell things quickly without worrying too much about the price changing a lot. This means they can use strategies that involve making a lot of trades in a short time, like [day trading](/wiki/day-trading-spy) or high-frequency trading. These strategies work well when the market is stable and there's enough money moving around to keep things smooth.
 
 On the other hand, if core liquidity is low, traders need to be more careful. They might have to wait longer to buy or sell, or they might see big price swings when they try to trade. This can make them use strategies that are more about waiting for the right moment, like holding onto investments for a longer time or using stop-loss orders to protect against big losses. Knowing the level of core liquidity helps traders pick the right strategy to make the most of their trades and avoid big surprises.
 
@@ -58,7 +58,7 @@ Central banks also set rules about how much money banks need to keep in reserve.
 
 ## How can investors measure core liquidity?
 
-Investors can measure core liquidity by looking at how easily they can buy and sell things in the market without changing the price too much. One way to do this is by checking the bid-ask spread, which is the difference between the highest price someone is willing to pay for something and the lowest price someone is willing to sell it for. A small bid-ask spread usually means there's a lot of core liquidity because lots of people are ready to trade. Another way is to look at trading volume, which is how many trades are happening. High trading volume can show that there's enough money moving around to keep the market stable.
+Investors can measure core liquidity by looking at how easily they can buy and sell things in the market without changing the price too much. One way to do this is by checking the bid-ask spread, which is the difference between the highest price someone is willing to pay for something and the lowest price someone is willing to sell it for. A small bid-ask spread usually means there's a lot of core liquidity because lots of people are ready to trade. Another way is to look at trading [volume](/wiki/volume-trading-strategy), which is how many trades are happening. High trading volume can show that there's enough money moving around to keep the market stable.
 
 Another thing investors can do is look at how quickly they can turn their investments into cash. This is called market depth, and it shows how many people are ready to buy or sell at different price levels. If there are lots of people ready to trade at prices close to the current price, it's a sign of good core liquidity. Investors can also check financial reports from companies and banks to see how much cash or easy-to-sell assets they have. This gives a good idea of how much core liquidity is available in the market.
 
@@ -78,7 +78,7 @@ But when core liquidity is low, it can make prices go crazy. If you want to sell
 
 Traders can use a strategy called liquidity provision to make money when core liquidity changes. This means they offer to buy or sell things when not many other people are doing it. If they see that there's not much core liquidity, they can step in and help make the market more stable. By doing this, they can earn money from the difference between the price they buy at and the price they sell at. It's like being a helpful person at a busy market, making sure there's always someone ready to trade, and getting paid for it.
 
-Another strategy is called liquidity arbitrage. This is when traders look for small differences in prices between different markets or times. When core liquidity is low, these price differences can get bigger. Traders can buy something in one place where it's cheaper and sell it in another place where it's more expensive. It's like buying apples at a farm where they're cheap and selling them at a city market where they cost more. By doing this quickly and smartly, traders can make a profit from the changes in core liquidity.
+Another strategy is called liquidity [arbitrage](/wiki/arbitrage). This is when traders look for small differences in prices between different markets or times. When core liquidity is low, these price differences can get bigger. Traders can buy something in one place where it's cheaper and sell it in another place where it's more expensive. It's like buying apples at a farm where they're cheap and selling them at a city market where they cost more. By doing this quickly and smartly, traders can make a profit from the changes in core liquidity.
 
 ## What is Core Liquidity and Why is it Important?
 

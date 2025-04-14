@@ -78,7 +78,7 @@ In another case, John was thinking about his retirement. He wasn't sure if he sh
 
 ## What future developments or trends can we expect with Spot Next?
 
-In the future, Spot Next might get even better at helping people plan their money. It could use new technology like artificial intelligence to make its guesses about the future even more accurate. This means it could look at more information and think about more things that might happen. Spot Next might also become easier to use, with a simpler way to put in your money details and try out different choices. This would make it helpful for more people, even if they're not good with computers.
+In the future, Spot Next might get even better at helping people plan their money. It could use new technology like [artificial intelligence](/wiki/ai-artificial-intelligence) to make its guesses about the future even more accurate. This means it could look at more information and think about more things that might happen. Spot Next might also become easier to use, with a simpler way to put in your money details and try out different choices. This would make it helpful for more people, even if they're not good with computers.
 
 Another trend we might see is Spot Next working with more other money tools. It could connect with things like bank accounts and investment apps, so you can see all your money information in one place. This would make it easier to plan and try out different choices without having to switch between different apps. Spot Next might also start to help with other parts of money planning, like taxes or insurance, so you can get a full picture of your money situation and make even better choices.
 

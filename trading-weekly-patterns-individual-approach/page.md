@@ -36,7 +36,7 @@ Indicators like the Relative Strength Index (RSI) and the Moving Average Converg
 
 ## Can you explain the impact of economic calendars on weekly trading patterns?
 
-An economic calendar can really affect how the market moves during the week. This calendar lists when important reports and announcements will come out. Things like jobs reports, interest rate decisions, and other economic news can make prices go up or down. For example, if a jobs report is released on a Friday, traders might see the market change a lot that day. Knowing when these reports will come out can help traders plan their moves better.
+An economic calendar can really affect how the market moves during the week. This calendar lists when important reports and announcements will come out. Things like jobs reports, [interest rate](/wiki/interest-rate-trading-strategies) decisions, and other economic news can make prices go up or down. For example, if a jobs report is released on a Friday, traders might see the market change a lot that day. Knowing when these reports will come out can help traders plan their moves better.
 
 Traders use the economic calendar to get ready for big changes in the market. If they know a report is coming out, they can guess how it might affect prices and decide whether to buy or sell before it happens. This can help them make money or avoid losing it. But, it's important to remember that the market doesn't always react the way traders expect. So, while the economic calendar is a helpful tool, traders need to stay flexible and keep watching the market to make the best decisions.
 
@@ -86,7 +86,7 @@ To optimize the strategy, the trader can try different things to make it better.
 
 ## What is the Weekly Trading Strategy Backtesting?
 
-Backtesting is a critical component in evaluating the effectiveness of weekly trading strategies. It involves simulating a trading strategy using historical data to determine how it would have performed in the past. By verifying the viability of a strategy through backtesting, traders can gain insight into its potential profitability and risks before deploying real capital.
+Backtesting is a critical component in evaluating the effectiveness of weekly trading strategies. It involves simulating a trading strategy using historical data to determine how it would have performed in the past. By verifying the viability of a strategy through [backtesting](/wiki/backtesting), traders can gain insight into its potential profitability and risks before deploying real capital.
 
 ### Significance of Backtesting
 
@@ -173,5 +173,5 @@ Backtesting with Python is valuable for its flexibility and capability to handle
    - **Dr. Ernest Chan**: A renowned expert in algorithmic trading. Information about consultations and workshops can be found on his blog [Quantitative Research and Trading](http://epchan.blogspot.com/).
    - **Quantitative Finance Practitioners on LinkedIn**: Networking with experienced professionals can provide practical insights and guidance on weekly trading strategies.
 
-By engaging with these resources, traders can deepen their understanding of algorithmic trading and optimize their use of weekly trading strategies for improved market participation.
+By engaging with these resources, traders can deepen their understanding of [algorithmic trading](/wiki/algorithmic-trading) and optimize their use of weekly trading strategies for improved market participation.
 

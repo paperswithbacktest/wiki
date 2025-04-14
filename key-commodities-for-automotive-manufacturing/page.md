@@ -44,7 +44,7 @@ Rubber is really important for making tires and other car parts that need to be 
 
 Tires are made from a mix of rubber, carbon black, and other stuff. Carbon black makes the tire stronger and helps it last longer. Steel and fabric are used inside the tire to give it shape and make it tough. The rubber on the outside of the tire, called the tread, helps the car grip the road and stop safely. Car makers use different kinds of rubber and materials to make tires that work well in hot or cold weather, on wet or dry roads.
 
-Besides tires, rubber is used for other car parts like hoses, belts, and seals. These parts need to be flexible and not break easily. The rubber used in these parts is often mixed with other materials to make it work better in the car. For example, rubber hoses carry fluids like oil and coolant, and they need to be strong and not leak. So, the right kind of rubber is very important for making cars safe and reliable.
+Besides tires, rubber is used for other car parts like hoses, belts, and seals. These parts need to be flexible and not break easily. The rubber used in these parts is often mixed with other materials to make it work better in the car. For example, rubber hoses [carry](/wiki/carry-trading) fluids like oil and coolant, and they need to be strong and not leak. So, the right kind of rubber is very important for making cars safe and reliable.
 
 ## How do glass and ceramics factor into vehicle construction?
 

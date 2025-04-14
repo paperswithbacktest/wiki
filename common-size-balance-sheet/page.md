@@ -60,7 +60,7 @@ Using common size balance sheets helps you see the financial structure of differ
 
 Using a common size balance sheet can be helpful, but it has some limitations. One big problem is that it doesn't show the actual dollar amounts. This means you can't see how much money a company really has or owes. For example, if two companies both have 10% of their money in cash, one might have $10,000 and the other might have $1 million. Without knowing the real numbers, it's hard to understand the full picture of a company's finances.
 
-Another limitation is that common size balance sheets don't tell you about the quality of the assets or liabilities. Just because a company has a high percentage of inventory doesn't mean that inventory is good or easy to sell. It could be old or not worth much. Also, a high percentage of debt might look bad, but if the debt is at a low interest rate, it might not be a problem. So, while common size balance sheets are good for comparing percentages, they don't give you all the details you need to make a complete analysis.
+Another limitation is that common size balance sheets don't tell you about the quality of the assets or liabilities. Just because a company has a high percentage of inventory doesn't mean that inventory is good or easy to sell. It could be old or not worth much. Also, a high percentage of debt might look bad, but if the debt is at a low [interest rate](/wiki/interest-rate-trading-strategies), it might not be a problem. So, while common size balance sheets are good for comparing percentages, they don't give you all the details you need to make a complete analysis.
 
 ## How do industry standards affect the interpretation of a common size balance sheet?
 

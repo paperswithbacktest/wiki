@@ -58,7 +58,7 @@ The short maturity period of RANs helps governments manage their money better. T
 
 ## How is the interest on Revenue Anticipation Notes determined?
 
-The interest on Revenue Anticipation Notes is set when the government issues the notes. It depends on things like how long the note will last, the credit of the government, and what's going on in the market at the time. If the government is seen as trustworthy and the market is stable, the interest rate might be lower. But if there's more risk, like if people think the government might not pay back the loan on time, the interest rate could be higher.
+The interest on Revenue Anticipation Notes is set when the government issues the notes. It depends on things like how long the note will last, the credit of the government, and what's going on in the market at the time. If the government is seen as trustworthy and the market is stable, the [interest rate](/wiki/interest-rate-trading-strategies) might be lower. But if there's more risk, like if people think the government might not pay back the loan on time, the interest rate could be higher.
 
 Investors look at these factors to decide if the interest rate is good enough for the risk they're taking. The government wants to set the interest rate low enough to save money, but high enough to make investors want to buy the notes. It's a bit like a balancing act to make sure both the government and the investors are happy with the deal.
 

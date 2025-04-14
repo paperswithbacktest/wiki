@@ -18,7 +18,7 @@ You might need a financial broker because they can help you make better decision
 
 There are different types of financial brokers, and each one has a special job. Full-service brokers give you a lot of help. They give advice, do research, and manage your investments for you. They are good if you want someone to do everything for you, but they can be more expensive. Discount brokers are cheaper, but they don't give as much help. They let you buy and sell investments on your own using their tools. They are good if you know what you're doing and want to save money.
 
-Another type is robo-advisors, which are like computers that manage your money. They use math to decide what to do with your investments. They are usually cheaper than full-service brokers and can be a good choice if you want simple, low-cost investing. Lastly, there are forex brokers, who help you trade different kinds of money. They are important if you want to buy and sell currencies from different countries. Each type of broker has its own benefits, so it's important to pick the one that fits what you need.
+Another type is robo-advisors, which are like computers that manage your money. They use math to decide what to do with your investments. They are usually cheaper than full-service brokers and can be a good choice if you want simple, low-cost investing. Lastly, there are [forex](/wiki/forex-system) brokers, who help you trade different kinds of money. They are important if you want to buy and sell currencies from different countries. Each type of broker has its own benefits, so it's important to pick the one that fits what you need.
 
 ## How do you evaluate the reputation of a financial broker?
 
@@ -44,7 +44,7 @@ Discount brokers are usually cheaper, but they still have fees. They might charg
 
 The trading platform provided by a broker is very important. It is like the tool you use to buy and sell investments. A good trading platform is easy to use and has everything you need in one place. It should let you see prices, make trades quickly, and show you important information about your investments. If the platform is hard to use or slow, it can make it harder for you to make good decisions and could even cost you money.
 
-Also, a good trading platform can help you learn and make better choices. Many platforms have tools like charts, news, and research that can help you understand the market better. Some even let you practice trading with fake money before you start using real money. This can be really helpful, especially if you are new to investing. So, when picking a broker, it's a good idea to try out their trading platform to see if it meets your needs and helps you feel confident in your investments.
+Also, a good trading platform can help you learn and make better choices. Many platforms have tools like charts, news, and research that can help you understand the market better. Some even let you practice trading with fake money before you start using real money. This can be really helpful, especially if you are new to investing. So, when [picking](/wiki/asset-class-picking) a broker, it's a good idea to try out their trading platform to see if it meets your needs and helps you feel confident in your investments.
 
 ## What regulatory bodies should a reliable broker be registered with?
 

@@ -22,7 +22,7 @@ Another big difference is how much money you need to start. In traditional betti
 
 ## What types of markets can you spread bet on?
 
-Spread betting lets you bet on many different types of markets. You can bet on financial markets like stocks, which are shares in companies, or forex, which is short for foreign exchange and involves trading different currencies. You can also bet on commodities, which are things like gold, oil, or wheat. These markets can change a lot, so spread betting on them can be exciting but also risky.
+Spread betting lets you bet on many different types of markets. You can bet on financial markets like stocks, which are shares in companies, or [forex](/wiki/forex-system), which is short for foreign exchange and involves trading different currencies. You can also bet on commodities, which are things like gold, oil, or wheat. These markets can change a lot, so spread betting on them can be exciting but also risky.
 
 Besides financial markets, you can also spread bet on sports and other events. For example, you can bet on how many points a team will score in a football game or how many goals will be scored in a soccer match. Some places even let you bet on things like the weather or political events, like who will win an election. The key is that you're betting on how much something will change, not just if it will win or lose.
 
@@ -135,7 +135,7 @@ Incorporating these strategies aids in managing risk effectively in spread betti
 
 ## How can risk management be integrated into algorithmic trading systems?
 
-In algorithmic trading systems, integrating robust risk management protocols is essential for automating decision-making and mitigating potential losses. These systems should be inherently designed to assess and manage risks effectively, thereby ensuring a stable trading environment. One approach to achieving this is through the implementation of machine learning techniques, which enhance the system's adaptability to constantly evolving market dynamics.
+In [algorithmic trading](/wiki/algorithmic-trading) systems, integrating robust risk management protocols is essential for automating decision-making and mitigating potential losses. These systems should be inherently designed to assess and manage risks effectively, thereby ensuring a stable trading environment. One approach to achieving this is through the implementation of [machine learning](/wiki/machine-learning) techniques, which enhance the system's adaptability to constantly evolving market dynamics.
 
 Machine learning algorithms can be employed to analyze large datasets, identify patterns, and anticipate market movements. For instance, supervised learning models such as regression and classification algorithms can predict price movements while unsupervised learning models can cluster similar market behaviors for risk assessment. Reinforcement learning, a technique where algorithms learn optimal trading strategies through trial and error, can be particularly effective in adapting to unforeseen market changes.
 
@@ -184,7 +184,7 @@ Explore additional materials and references for a comprehensive exploration of r
 ### Books
 
 1. **Advances in Financial Machine Learning by Marcos Lopez de Prado**
-   This book offers insights into the latest machine learning techniques tailored for financial markets, covering both theoretical foundations and practical implementations. Key areas include portfolio management, trading strategies, and backtesting methodologies. The text is particularly useful for understanding how machine learning can enhance risk management and decision-making processes in trading.
+   This book offers insights into the latest machine learning techniques tailored for financial markets, covering both theoretical foundations and practical implementations. Key areas include portfolio management, trading strategies, and [backtesting](/wiki/backtesting) methodologies. The text is particularly useful for understanding how machine learning can enhance risk management and decision-making processes in trading.
 
 2. **Options, Futures, and Other Derivatives by John C. Hull**
    John Hull's comprehensive guide to derivatives markets is an essential resource for anyone looking to understand the intricacies of various financial instruments. The book investigates into options, futures, swaps, and more, with emphasis on practical applications and risk management strategies. It effectively bridges the gap between theoretical finance and real-world applications, making it valuable for traders and risk managers alike.

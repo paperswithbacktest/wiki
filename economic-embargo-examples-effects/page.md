@@ -78,7 +78,7 @@ Other groups like the European Union can also decide to put embargoes on countri
 
 ## What are the long-term geopolitical consequences of prolonged economic embargoes?
 
-When a country faces a long economic embargo, it can change how it acts in the world. The country might start looking for new friends to trade with. This can lead to new relationships that last even after the embargo ends. Sometimes, the country might join a group of countries that don't like the ones who put the embargo on them. This can make the world more divided, with different groups of countries not getting along. It's like picking sides in a big game, and it can make things tense between countries.
+When a country faces a long economic embargo, it can change how it acts in the world. The country might start looking for new friends to trade with. This can lead to new relationships that last even after the embargo ends. Sometimes, the country might join a group of countries that don't like the ones who put the embargo on them. This can make the world more divided, with different groups of countries not getting along. It's like [picking](/wiki/asset-class-picking) sides in a big game, and it can make things tense between countries.
 
 Also, a long embargo can make people in the targeted country feel angry and upset. They might start to really dislike the countries that put the embargo on them. This can lead to more fighting and bad feelings that last for a long time. Even if the embargo ends, the bad feelings might not go away easily. It can be hard for countries to start trusting each other again after something like this. In the end, long economic embargoes can make the world a more divided and tense place.
 

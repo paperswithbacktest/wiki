@@ -64,7 +64,7 @@ Another important thing is how well you can predict how prices will change. If y
 
 ## How does market volatility affect reverse cash-and-carry arbitrage strategies?
 
-Market volatility can make reverse cash-and-carry arbitrage more risky and challenging. When prices move up and down a lot, it's harder to predict if the price will go down like you need it to for this strategy to work. If the price goes up instead of down, you might have to buy back the asset at a higher price than you sold it for, which means you lose money. Also, when the market is volatile, it can be harder to borrow the asset you want to sell because lenders might be worried about the price changes.
+Market [volatility](/wiki/volatility-trading-strategies) can make reverse cash-and-carry arbitrage more risky and challenging. When prices move up and down a lot, it's harder to predict if the price will go down like you need it to for this strategy to work. If the price goes up instead of down, you might have to buy back the asset at a higher price than you sold it for, which means you lose money. Also, when the market is volatile, it can be harder to borrow the asset you want to sell because lenders might be worried about the price changes.
 
 Even though volatility can make things more risky, it can also create more chances for arbitrage if you can spot them. Big price swings might make the difference between the spot price and the futures price bigger, which means you could make more money if you get it right. But you have to be really good at watching the market and ready to act quickly. If you can handle the ups and downs, you might find good opportunities to make money with reverse cash-and-carry arbitrage, but it's not easy and comes with a lot of risk.
 

@@ -26,11 +26,11 @@ Capital recovery and depreciation are two different but related ideas that busin
 
 Depreciation, on the other hand, is about how the value of something goes down over time. When a business buys something that will last for years, like a truck, they can't count all the money spent on it as a cost right away. Instead, they spread the cost over the years they use it. This helps businesses show a more accurate picture of their money each year and can also help with taxes.
 
-While capital recovery focuses on earning back the money spent, depreciation is about how the value of what was bought decreases. Both are important for managing a business's money, but they look at different sides of the same coin. Capital recovery helps with planning future purchases, while depreciation helps with understanding current financial health and tax planning.
+While capital recovery focuses on [earning](/wiki/earning-announcement) back the money spent, depreciation is about how the value of what was bought decreases. Both are important for managing a business's money, but they look at different sides of the same coin. Capital recovery helps with planning future purchases, while depreciation helps with understanding current financial health and tax planning.
 
 ## What are the common methods used for calculating capital recovery?
 
-One common method for calculating capital recovery is the Capital Recovery Factor (CRF). This method uses a formula to figure out how much money needs to be earned each year to pay back the cost of the big purchase, plus any interest. The formula takes into account the initial cost, the interest rate, and how many years the business plans to use the item. By using the CRF, businesses can see how quickly they can get their money back and plan their finances better.
+One common method for calculating capital recovery is the Capital Recovery Factor (CRF). This method uses a formula to figure out how much money needs to be earned each year to pay back the cost of the big purchase, plus any interest. The formula takes into account the initial cost, the [interest rate](/wiki/interest-rate-trading-strategies), and how many years the business plans to use the item. By using the CRF, businesses can see how quickly they can get their money back and plan their finances better.
 
 Another method is the Payback Period. This method is simpler and looks at how many years it will take to earn back the money spent on the purchase. It doesn't consider the time value of money or interest, so it's easier to calculate but less detailed. Businesses add up the money they make each year from using the item until it equals the initial cost. This helps them understand how long they need to wait to recover their investment.
 
@@ -38,7 +38,7 @@ A third method is the Net Present Value (NPV) approach. This method is more comp
 
 ## Can you explain the concept of capital recovery factor?
 
-The capital recovery factor (CRF) is a tool that helps businesses figure out how much money they need to earn each year to pay back the cost of something they bought, like a machine or a building. It takes into account the initial cost of the item, the interest rate, and how many years the business plans to use it. By using the CRF, businesses can plan better because they know how quickly they can get their money back. This helps them decide if buying something new is a good idea or if they should wait until they have more money.
+The capital recovery [factor](/wiki/factor-investing) (CRF) is a tool that helps businesses figure out how much money they need to earn each year to pay back the cost of something they bought, like a machine or a building. It takes into account the initial cost of the item, the interest rate, and how many years the business plans to use it. By using the CRF, businesses can plan better because they know how quickly they can get their money back. This helps them decide if buying something new is a good idea or if they should wait until they have more money.
 
 The formula for the capital recovery factor is simple but important. It looks like this: CRF = [i(1 + i)^n] / [(1 + i)^n - 1], where 'i' is the interest rate and 'n' is the number of years the business plans to use the item. For example, if a business buys a machine for $10,000 and they use a 5% interest rate over 5 years, the CRF helps them find out how much money they need to make each year to cover the cost of the machine and the interest. This way, they can see if the machine will help them make enough money to be worth the investment.
 

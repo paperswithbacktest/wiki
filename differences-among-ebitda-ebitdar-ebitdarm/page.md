@@ -110,7 +110,7 @@ Each of these metrics focuses on gauging a company's core operational profitabil
 
 ## What is the practical application of algorithmic trading according to the case study?
 
-In a hypothetical scenario, we explore the application of algorithmic trading using the financial metric EBITDA to make informed investment decisions. To elucidate this process, imagine a trading algorithm designed to evaluate companies within the retail sector, a domain where operational efficiency and core profitability are critical indicators of overall health.
+In a hypothetical scenario, we explore the application of [algorithmic trading](/wiki/algorithmic-trading) using the financial metric EBITDA to make informed investment decisions. To elucidate this process, imagine a trading algorithm designed to evaluate companies within the retail sector, a domain where operational efficiency and core profitability are critical indicators of overall health.
 
 ### Financial Data and Decision-Making Process
 

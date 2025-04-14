@@ -129,7 +129,7 @@ print(f"Total transaction costs: ${total_cost}")
 
 ### Integration of Service Charges
 
-In addition to transaction fees, service charges may apply to the use of algorithmic trading platforms. These can encompass charges for premium services, such as access to AI-driven analytics or enhanced market data feeds. Traders need to weigh the benefits of these services against their associated costs to make informed decisions about their utility.
+In addition to transaction fees, service charges may apply to the use of [algorithmic trading](/wiki/algorithmic-trading) platforms. These can encompass charges for premium services, such as access to AI-driven analytics or enhanced market data feeds. Traders need to weigh the benefits of these services against their associated costs to make informed decisions about their utility.
 
 ### Conclusion
 

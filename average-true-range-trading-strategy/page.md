@@ -66,7 +66,7 @@ In a ranging market, where the price is moving sideways, the ATR can help you se
 
 Traders can adjust the ATR settings to fit different trading instruments by changing the time period they use to calculate it. For example, if you're trading a fast-moving stock, you might want to use a shorter time period like 10 days to see quicker changes in the market. If you're trading a slower-moving asset like a commodity, you might use a longer time period like 20 days to get a better sense of the bigger trends. By choosing the right time period, you can make the ATR more useful for the specific instrument you're trading.
 
-Another way to adjust the ATR settings is by looking at how volatile the instrument usually is. Some instruments, like forex pairs, can be very volatile, so you might want to use a higher ATR value to set your stop-losses. Other instruments, like bonds, might not move as much, so a lower ATR value could work better. By understanding the typical volatility of the instrument you're trading, you can fine-tune the ATR to help you make better trading decisions.
+Another way to adjust the ATR settings is by looking at how volatile the instrument usually is. Some instruments, like [forex](/wiki/forex-system) pairs, can be very volatile, so you might want to use a higher ATR value to set your stop-losses. Other instruments, like bonds, might not move as much, so a lower ATR value could work better. By understanding the typical volatility of the instrument you're trading, you can fine-tune the ATR to help you make better trading decisions.
 
 ## What advanced strategies involve combining the ATR with other technical indicators?
 

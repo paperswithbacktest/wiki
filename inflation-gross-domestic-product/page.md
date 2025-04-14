@@ -34,7 +34,7 @@ Sometimes, GDP is also calculated by looking at the income side of things. This 
 
 ## What is the relationship between inflation and GDP?
 
-Inflation and GDP are connected, but their relationship can be tricky. When the economy is growing and the GDP is going up, it often means more people are working and earning money. This can lead to more spending, which might push prices up and cause inflation. But if the economy grows too fast and there's too much money chasing too few goods, inflation can get out of control. So, a growing GDP can lead to inflation, but it's important that the growth is steady and balanced.
+Inflation and GDP are connected, but their relationship can be tricky. When the economy is growing and the GDP is going up, it often means more people are working and [earning](/wiki/earning-announcement) money. This can lead to more spending, which might push prices up and cause inflation. But if the economy grows too fast and there's too much money chasing too few goods, inflation can get out of control. So, a growing GDP can lead to inflation, but it's important that the growth is steady and balanced.
 
 On the other hand, if inflation gets too high, it can hurt the economy and slow down GDP growth. When prices rise quickly, people might not be able to buy as much, and businesses might not want to invest because they're worried about the future. This can lead to less spending and slower economic growth. Central banks, like the Federal Reserve in the U.S., try to keep inflation at a healthy level to help the economy grow without causing too many problems. So, while inflation and GDP are linked, managing them well is key to a strong economy.
 

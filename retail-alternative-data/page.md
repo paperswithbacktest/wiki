@@ -18,7 +18,7 @@ For example, a retailer might use alternative data to see how many people are vi
 
 Retail alternative data is different from traditional data because it comes from new and unusual places. Traditional data usually includes things like sales numbers, financial reports, and customer surveys. This kind of data is important, but it only tells part of the story. Alternative data, on the other hand, can include information from credit card transactions, how many people visit a store, what people are searching for online, and what they are saying on social media. This gives businesses a more complete picture of what is happening in the market.
 
-The main difference is that alternative data can help businesses see trends and changes more quickly than traditional data. For example, if a lot of people start searching for a certain type of product online, a company can use that information to stock up on that product before it becomes popular. Traditional data might not show this trend until after the product is already popular, which could mean missing out on sales. By using alternative data, companies can make faster and smarter decisions to stay ahead of the competition.
+The main difference is that [alternative data](/wiki/best-alternative-data) can help businesses see trends and changes more quickly than traditional data. For example, if a lot of people start searching for a certain type of product online, a company can use that information to stock up on that product before it becomes popular. Traditional data might not show this trend until after the product is already popular, which could mean missing out on sales. By using alternative data, companies can make faster and smarter decisions to stay ahead of the competition.
 
 ## What are the common sources of retail alternative data?
 
@@ -78,7 +78,7 @@ Another way to use retail alternative data for predicting the future is by looki
 
 ## What future trends are expected in the use of retail alternative data?
 
-In the future, more and more stores will use retail alternative data to make smart decisions. They will use new technology like artificial intelligence to look at big piles of data from places like credit cards, online searches, and social media. This will help them see what people want to buy before other stores do. They can then order the right products and put them in the right places to make more money. Using this data will become a big part of how stores stay ahead of the competition.
+In the future, more and more stores will use retail alternative data to make smart decisions. They will use new technology like [artificial intelligence](/wiki/ai-artificial-intelligence) to look at big piles of data from places like credit cards, online searches, and social media. This will help them see what people want to buy before other stores do. They can then order the right products and put them in the right places to make more money. Using this data will become a big part of how stores stay ahead of the competition.
 
 Another trend is that stores will pay more attention to what people are doing on their phones and computers. They will use this information to make shopping easier and more fun for customers. For example, if a lot of people are looking at a certain product on their phones, the store might send them a special offer to buy it. This kind of personalized shopping will help stores make customers happy and keep them coming back. As technology gets better, stores will find even more ways to use retail alternative data to improve their business.
 

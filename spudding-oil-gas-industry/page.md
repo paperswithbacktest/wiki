@@ -36,7 +36,7 @@ Once the spudding is done, the drilling can continue deeper into the earth. The 
 
 During the spudding of a well, the main piece of equipment used is the drilling rig. This is a big machine that holds the drill bit and makes it turn to start digging into the ground or the ocean floor. The drill bit is the part that actually touches the earth and starts making the hole. It's attached to a long drill string that can be lowered deeper into the ground as the drilling continues.
 
-Other important equipment includes the derrick, which is a tall structure on the drilling rig that supports the drill string and helps lift and lower it. There are also pumps that send drilling mud down the drill string. This mud helps cool the drill bit and carry away the pieces of rock that get dug up. All these pieces of equipment work together to make the spudding process happen smoothly and safely.
+Other important equipment includes the derrick, which is a tall structure on the drilling rig that supports the drill string and helps lift and lower it. There are also pumps that send drilling mud down the drill string. This mud helps cool the drill bit and [carry](/wiki/carry-trading) away the pieces of rock that get dug up. All these pieces of equipment work together to make the spudding process happen smoothly and safely.
 
 ## What are the safety considerations during the spudding process?
 

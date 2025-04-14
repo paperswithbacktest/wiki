@@ -62,7 +62,7 @@ In the education industry, benchmark errors can impact how students are graded. 
 
 ## How do statistical methods help in analyzing benchmark errors?
 
-Statistical methods help us understand benchmark errors by showing us how big and common they are. When we do a lot of tests, we can use statistics to see if our errors happen in a pattern or if they are random. For example, we can use something called standard deviation to see how spread out our results are. If the standard deviation is big, it means our results are all over the place, which can show us that we have a lot of random errors. By looking at these numbers, we can tell if our benchmark is good or if we need to change how we do our tests.
+Statistical methods help us understand benchmark errors by showing us how big and common they are. When we do a lot of tests, we can use [statistics](/wiki/bayesian-statistics) to see if our errors happen in a pattern or if they are random. For example, we can use something called standard deviation to see how spread out our results are. If the standard deviation is big, it means our results are all over the place, which can show us that we have a lot of random errors. By looking at these numbers, we can tell if our benchmark is good or if we need to change how we do our tests.
 
 Another way statistics help is by letting us fix our errors. If we find systematic errors, like always getting results that are too high, we can use statistical methods to adjust our results. For example, if we know our scale is always off by 2 pounds, we can subtract 2 pounds from all our measurements. This makes our results more accurate. Also, by doing a lot of tests and taking the average, we can reduce the impact of random errors. This way, we get a better idea of what the true performance is, and we can trust our benchmark results more.
 
@@ -80,7 +80,7 @@ Understanding and fixing benchmark errors is important for making comparative st
 
 ## What are the latest research findings on managing benchmark errors?
 
-Recent research has shown that using machine learning can help manage benchmark errors better. Scientists have found that machine learning can spot patterns in data that might be hard to see otherwise. For example, if there's a small mistake that happens over and over, machine learning can find it and help fix it. This means that by using computers to learn from the data, we can make our benchmarks more accurate and trust our results more.
+Recent research has shown that using [machine learning](/wiki/machine-learning) can help manage benchmark errors better. Scientists have found that machine learning can spot patterns in data that might be hard to see otherwise. For example, if there's a small mistake that happens over and over, machine learning can find it and help fix it. This means that by using computers to learn from the data, we can make our benchmarks more accurate and trust our results more.
 
 Another finding from recent studies is that doing more tests in different conditions can help reduce benchmark errors. Researchers have found that if you test something many times and in different ways, you can see how much the results change. This helps you understand what might be causing errors, like changes in the environment or small mistakes. By doing this, you can take the average of all the tests and get a result that's closer to the truth. This way, benchmark errors can be managed better, making our comparisons more reliable.
 

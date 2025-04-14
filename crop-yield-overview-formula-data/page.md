@@ -34,7 +34,7 @@ This formula helps farmers understand how much food they can get from their land
 
 ## What factors affect crop yield?
 
-Many things can affect how much food a farmer can grow from their land. The most important factor is the soil. If the soil is good, with lots of nutrients, crops will grow better and give a higher yield. Water is also very important. Crops need the right amount of water to grow well. Too little water can make them dry out, and too much water can drown them. The weather plays a big role too. If there is too much rain or not enough sun, it can hurt the crops.
+Many things can affect how much food a farmer can grow from their land. The most important [factor](/wiki/factor-investing) is the soil. If the soil is good, with lots of nutrients, crops will grow better and give a higher yield. Water is also very important. Crops need the right amount of water to grow well. Too little water can make them dry out, and too much water can drown them. The weather plays a big role too. If there is too much rain or not enough sun, it can hurt the crops.
 
 Another factor is the type of seeds farmers use. Some seeds are better at growing in certain conditions and can give a higher yield. Farmers also use fertilizers to help their crops grow. Fertilizers add nutrients to the soil that the crops need. The way farmers take care of their crops also matters. If they use good farming methods, like planting at the right time and controlling pests, they can increase their crop yield.
 

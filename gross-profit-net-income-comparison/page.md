@@ -18,7 +18,7 @@ Business owners use gross profit to see if their prices are right and if they're
 
 Net income is the money a business has left after paying all its costs. It's what you get when you take away all the expenses from the total money earned. Think of it like your allowance: if you get $20 and spend $15 on things you need, your net income is the $5 you have left.
 
-This number is really important because it shows if a business is making money or losing it. If the net income is positive, the business is earning more than it's spending, which is good. If it's negative, the business is spending more than it's earning, and that's not good. Business owners look at net income to see how healthy their business is and to make plans for the future.
+This number is really important because it shows if a business is making money or losing it. If the net income is positive, the business is [earning](/wiki/earning-announcement) more than it's spending, which is good. If it's negative, the business is spending more than it's earning, and that's not good. Business owners look at net income to see how healthy their business is and to make plans for the future.
 
 ## How do you calculate gross profit?
 
@@ -54,7 +54,7 @@ Net income tells the business owner if they are making money overall, after payi
 
 Gross profit can change because of many things. One big thing is how much it costs to make or buy the things you sell. If the cost of the stuff you need, like materials or parts, goes up, your gross profit might go down. Another thing is how much you charge for your products. If you can sell your things for more money without making them cost more, your gross profit can go up. Also, if you can find ways to make your products cheaper, like buying in bulk or using less expensive materials, that can help your gross profit too.
 
-Another factor is how well you sell your products. If you can sell more of your things, your gross profit can go up, even if the cost to make each one stays the same. But if you have to lower your prices to sell more, that might not help your gross profit. It's also important to think about what people want. If you're selling things that people really like, you might be able to charge more and make a bigger gross profit. But if you're selling things that aren't popular, you might have to lower your prices, which can hurt your gross profit.
+Another [factor](/wiki/factor-investing) is how well you sell your products. If you can sell more of your things, your gross profit can go up, even if the cost to make each one stays the same. But if you have to lower your prices to sell more, that might not help your gross profit. It's also important to think about what people want. If you're selling things that people really like, you might be able to charge more and make a bigger gross profit. But if you're selling things that aren't popular, you might have to lower your prices, which can hurt your gross profit.
 
 ## What factors can influence net income?
 
@@ -218,7 +218,7 @@ $$
 
 A Profit Factor greater than one indicates that a strategy is profitable over time. This ratio helps in evaluating the efficiency of a trading strategy by comparing the total value generated over losses.
 
-By incorporating these financial metrics, traders can fine-tune their algorithmic trading strategies to manage risk more effectively and optimize returns. Using historical data, algo traders can backtest and iterate their strategies, facilitating more informed decisions and increasing the likelihood of success in financial markets.
+By incorporating these financial metrics, traders can fine-tune their [algorithmic trading](/wiki/algorithmic-trading) strategies to manage risk more effectively and optimize returns. Using historical data, algo traders can backtest and iterate their strategies, facilitating more informed decisions and increasing the likelihood of success in financial markets.
 
 ## References & Further Reading
 

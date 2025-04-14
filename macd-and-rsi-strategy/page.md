@@ -22,7 +22,7 @@ The RSI is another tool that helps traders figure out if a stock is overbought o
 
 ## What are the basic components of the MACD indicator?
 
-The MACD indicator has three main parts that help traders see how a stock is moving. The first part is the MACD line itself, which is made by taking the difference between two moving averages, usually a 12-day and a 26-day one. This line shows the difference between these two averages and helps traders see if the stock's momentum is changing.
+The MACD indicator has three main parts that help traders see how a stock is moving. The first part is the MACD line itself, which is made by taking the difference between two moving averages, usually a 12-day and a 26-day one. This line shows the difference between these two averages and helps traders see if the stock's [momentum](/wiki/momentum) is changing.
 
 The second part is the signal line, which is a moving average of the MACD line, often using a 9-day period. This line helps traders spot good times to buy or sell. When the MACD line crosses above the signal line, it might be a good time to buy because it suggests the stock's price could go up. When the MACD line crosses below the signal line, it might be a good time to sell because it suggests the stock's price could go down.
 
@@ -80,13 +80,13 @@ It's important for traders to keep testing and changing their strategy because m
 
 One real-world example of a successful trade using a MACD and RSI strategy happened with a trader named Sarah who was watching a tech stock. She noticed that the stock's price was going up, but the RSI was starting to go down, showing bearish divergence. At the same time, the MACD line crossed below the signal line, giving a bearish crossover signal. Sarah decided to sell her shares based on these signals, and soon after, the stock's price dropped. By using both the MACD and RSI together, Sarah was able to spot the trend reversal early and make a profit.
 
-Another example involves a trader named John who was trading in the forex market. He was looking at the EUR/USD pair and saw that the price was going down, but the RSI was starting to go up, showing bullish divergence. At the same time, the MACD line crossed above the signal line, giving a bullish crossover signal. John decided to buy the currency pair based on these signals, and the price soon started to go up. By using the MACD and RSI together, John was able to catch the trend reversal and make a successful trade.
+Another example involves a trader named John who was trading in the [forex](/wiki/forex-system) market. He was looking at the EUR/USD pair and saw that the price was going down, but the RSI was starting to go up, showing bullish divergence. At the same time, the MACD line crossed above the signal line, giving a bullish crossover signal. John decided to buy the currency pair based on these signals, and the price soon started to go up. By using the MACD and RSI together, John was able to catch the trend reversal and make a successful trade.
 
 ## What is the backtesting and performance of the strategy?
 
 Backtesting is an integral part of evaluating the effectiveness and robustness of the MACD and RSI trading strategy. By analyzing historical data, traders can ascertain how the strategy might perform under different market conditions, which is crucial for making informed decisions about its implementation in live trading scenarios.
 
-To conduct a backtest, traders first define their entry and exit criteria based on the interactions between the MACD and RSI indicators. For example, one might establish a buy signal when the MACD line crosses above the signal line, coupled with the RSI moving out of an oversold condition (below 30) into a more neutral territory. Conversely, a sell signal might be triggered when the MACD line crosses below the signal line, and the RSI exits an overbought zone (above 70).
+To conduct a backtest, traders first define their entry and [exit](/wiki/exit-strategy) criteria based on the interactions between the MACD and RSI indicators. For example, one might establish a buy signal when the MACD line crosses above the signal line, coupled with the RSI moving out of an oversold condition (below 30) into a more neutral territory. Conversely, a sell signal might be triggered when the MACD line crosses below the signal line, and the RSI exits an overbought zone (above 70).
 
 During the [backtesting](/wiki/backtesting) process, several performance metrics are scrutinized to evaluate strategy viability. These include:
 

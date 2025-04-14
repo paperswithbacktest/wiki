@@ -118,7 +118,7 @@ In summary, public float serves as a fundamental component in evaluating a stock
    This book provides an introduction to the stock market, covering topics such as stock valuation and trading strategies.
 
 2. **"Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies" by Barry Johnson**  
-   This resource explains algorithmic trading strategies and includes an analysis of market data, execution speeds, and trading algorithms.
+   This resource explains [algorithmic trading](/wiki/algorithmic-trading) strategies and includes an analysis of market data, execution speeds, and trading algorithms.
 
 3. **"Quantitative Analysis, Derivatives Modeling, and Trading Strategies" by Yi Tang and Bin Meng**  
    This book discusses the mathematical foundation behind [quantitative trading](/wiki/quantitative-trading) strategies, including algorithms and their practical applications.

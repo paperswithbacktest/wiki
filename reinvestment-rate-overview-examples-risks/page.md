@@ -102,7 +102,7 @@ In conclusion, understanding the implications of the reinvestment rate and reinv
 
 ## References & Further Reading
 
-Bergstra, J., et al. “Algorithms for Hyper-Parameter Optimization.” This paper introduces sophisticated methods for optimizing hyper-parameters in [machine learning](/wiki/machine-learning) models, which are crucial for fine-tuning algorithmic trading systems.
+Bergstra, J., et al. “Algorithms for Hyper-Parameter Optimization.” This paper introduces sophisticated methods for optimizing hyper-parameters in [machine learning](/wiki/machine-learning) models, which are crucial for fine-tuning [algorithmic trading](/wiki/algorithmic-trading) systems.
 
 Lopez de Prado, M. Advances in Financial Machine Learning. This book covers a wide range of machine learning techniques applicable to financial markets, including advanced methods for managing investment risk and optimizing trading strategies.
 

@@ -22,7 +22,7 @@ Net proceeds, on the other hand, is what you get to keep after all the costs are
 
 ## What are the common components included in calculating net proceeds?
 
-When you calculate net proceeds, you start with the gross proceeds, which is the total amount of money you get from selling something. But to find out the net proceeds, you need to subtract different costs that come with the sale. These costs can include things like taxes, which are payments you make to the government. Another common cost is fees, which might be charges from banks or other services that help with the sale. Commissions are also often part of the costs, which are payments to people like real estate agents or brokers who helped make the sale happen.
+When you calculate net proceeds, you start with the gross proceeds, which is the total amount of money you get from selling something. But to find out the net proceeds, you need to subtract different costs that come with the sale. These costs can include things like taxes, which are payments you make to the government. Another common cost is fees, which might be charges from banks or other services that help with the sale. Commissions are also often part of the costs, which are payments to people like real estate [agents](/wiki/agents) or brokers who helped make the sale happen.
 
 Sometimes, there might be other costs too, like closing costs if you're selling a house. These can include things like title insurance, which protects the buyer and lender, or appraisal fees, which are payments for someone to check the value of what you're selling. All these costs together are subtracted from the gross proceeds to figure out the net proceeds. This final number is what you actually get to keep after everything is paid.
 

@@ -66,7 +66,7 @@ Even though there have been some challenges, like the global health crisis and c
 
 ## What is Temasek Holdings' approach to sustainability and ESG (Environmental, Social, and Governance) factors?
 
-Temasek Holdings cares a lot about sustainability and ESG factors. They believe that making money and helping the planet and people can go together. Temasek looks for companies that are good for the environment, treat their workers well, and have strong leadership. They call this approach "positive impact investing." By choosing these kinds of businesses, Temasek wants to make a better future for everyone while still growing Singapore's money.
+Temasek Holdings cares a lot about sustainability and [ESG](/wiki/esg-investing) factors. They believe that making money and helping the planet and people can go together. Temasek looks for companies that are good for the environment, treat their workers well, and have strong leadership. They call this approach "positive impact investing." By choosing these kinds of businesses, Temasek wants to make a better future for everyone while still growing Singapore's money.
 
 Temasek has set goals to reduce the bad effects their investments have on the environment. They want to lower the amount of greenhouse gases their companies produce. They also work to make sure the companies they invest in are fair to their workers and follow good rules. Temasek keeps track of how well their investments are doing in these areas and tries to make them better over time. This way, they can help build a world that is good for both people and the planet.
 

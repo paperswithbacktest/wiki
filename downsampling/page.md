@@ -72,7 +72,7 @@ To avoid messing up the frequency content, you usually use a filter first. This 
 
 ## What are the considerations for choosing the right downsampling factor in a specific application?
 
-When you're picking the right downsampling factor for a specific job, you need to think about what you want to achieve. The downsampling factor is like deciding how much smaller you want to make your picture or sound. If you want the file to be really small, you might choose a big downsampling factor. But if you want to keep a lot of detail, you'll pick a smaller one. It's like choosing between a quick sketch or a detailed drawing. You also need to think about what the picture or sound will be used for. If it's for a website where speed matters, you might downsample more. But if it's for a high-quality print, you'll downsample less.
+When you're [picking](/wiki/asset-class-picking) the right downsampling [factor](/wiki/factor-investing) for a specific job, you need to think about what you want to achieve. The downsampling factor is like deciding how much smaller you want to make your picture or sound. If you want the file to be really small, you might choose a big downsampling factor. But if you want to keep a lot of detail, you'll pick a smaller one. It's like choosing between a quick sketch or a detailed drawing. You also need to think about what the picture or sound will be used for. If it's for a website where speed matters, you might downsample more. But if it's for a high-quality print, you'll downsample less.
 
 Another thing to consider is how downsampling will affect the quality of your picture or sound. If you downsample too much, you might lose important details and end up with a blurry or distorted result. This is called losing data. You need to find a balance where the file is small enough for your needs, but still looks or sounds good. To help with this, you can use filters to smooth out the signal before downsampling. This can help keep the quality high even when you're making the file smaller. By thinking about these things, you can choose the best downsampling factor for your specific job.
 
@@ -84,7 +84,7 @@ Using wavelet transforms for downsampling can make the results look or sound muc
 
 ## What are the techniques for downsampling?
 
-Downsampling is a crucial element in algorithmic trading, facilitating the management of vast amounts of data by reducing its dimensionality. Several techniques are widely used in trading, each serving different purposes depending on the trading strategy and analytical requirements.
+Downsampling is a crucial element in [algorithmic trading](/wiki/algorithmic-trading), facilitating the management of vast amounts of data by reducing its dimensionality. Several techniques are widely used in trading, each serving different purposes depending on the trading strategy and analytical requirements.
 
 One fundamental technique is the **moving average**, which involves computing the average of a subset of data points and sliding this window across the entire dataset. The moving average helps smooth out short-term fluctuations and highlights longer-term trends. It is calculated as follows:
 
@@ -113,7 +113,7 @@ data['moving_average'] = data['price'].rolling(window=10).mean()
 
 This line of code calculates a moving average with a window size of 10 time periods. For decimation, NumPy's slicing feature can be used to select every $n$-th data point, effectively downsampling the dataset.
 
-Leveraging these techniques effectively requires a balance between signal retention and data simplification, ensuring the strategy maintains its efficacy despite reduced data volume.
+Leveraging these techniques effectively requires a balance between signal retention and data simplification, ensuring the strategy maintains its efficacy despite reduced data [volume](/wiki/volume-trading-strategy).
 
 ## References & Further Reading
 

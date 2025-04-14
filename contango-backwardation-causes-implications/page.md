@@ -60,7 +60,7 @@ Interest rates can also affect backwardation. If interest rates are low, it's ch
 
 Contango can make it harder for investors to make money, especially if they are trading futures contracts. When the futures price is higher than what the asset will be worth later, investors who buy and hold futures contracts might lose money when the contract expires. They have to pay more for the futures contract than what they get when they sell the asset. This can happen over and over if they keep rolling over their futures contracts, which means buying new ones when the old ones expire.
 
-But contango isn't always bad for investors. Some people can make money from it by doing something called "cash and carry arbitrage." This means they buy the asset now, store it, and then sell it later when the futures contract expires. If the profit from selling the asset later is more than the cost of storing it and the interest they have to pay, they can make money. So, while contango can be a challenge for some investors, others can use it to their advantage if they know what they're doing.
+But contango isn't always bad for investors. Some people can make money from it by doing something called "cash and carry [arbitrage](/wiki/arbitrage)." This means they buy the asset now, store it, and then sell it later when the futures contract expires. If the profit from selling the asset later is more than the cost of storing it and the interest they have to pay, they can make money. So, while contango can be a challenge for some investors, others can use it to their advantage if they know what they're doing.
 
 ## What are the implications of backwardation for investors?
 

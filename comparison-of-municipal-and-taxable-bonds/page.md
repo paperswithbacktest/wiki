@@ -48,7 +48,7 @@ Both types of bonds have credit risks, but the risks are different. With municip
 
 ## How do the maturity periods of municipal bonds compare to those of taxable bonds?
 
-Municipal bonds and taxable bonds can have different maturity periods, which is the time it takes for the bond to be paid back in full. Municipal bonds often have long maturity periods. They can last anywhere from a few years to 30 years or even longer. This is because the projects they fund, like building schools or roads, take a long time to complete and start earning money. Investors who buy these bonds are usually okay with waiting a long time to get their money back because they know the bond is safe.
+Municipal bonds and taxable bonds can have different maturity periods, which is the time it takes for the bond to be paid back in full. Municipal bonds often have long maturity periods. They can last anywhere from a few years to 30 years or even longer. This is because the projects they fund, like building schools or roads, take a long time to complete and start [earning](/wiki/earning-announcement) money. Investors who buy these bonds are usually okay with waiting a long time to get their money back because they know the bond is safe.
 
 Taxable bonds, on the other hand, can have a wide range of maturity periods too. They can be short-term, lasting just a few months to a few years, or they can be long-term, lasting up to 30 years or more. The maturity period often depends on who is issuing the bond. For example, corporate bonds might have shorter maturities because companies might need the money back sooner to reinvest in their business. Government bonds, like those issued by the U.S. Treasury, can have longer maturities because they are seen as very safe investments.
 
@@ -209,7 +209,7 @@ allocation_suggestion = ideal_bond_allocation(muni_yield, taxable_yield, tax_rat
 print(allocation_suggestion)
 ```
 
-Ultimately, selecting the appropriate mix between municipal and taxable bonds requires careful evaluation of tax implications, risk tolerance, and market conditions. Incorporating algorithmic trading can significantly enhance the decision-making process, leading to a well-optimized bond investment strategy.
+Ultimately, selecting the appropriate mix between municipal and taxable bonds requires careful evaluation of tax implications, risk tolerance, and market conditions. Incorporating [algorithmic trading](/wiki/algorithmic-trading) can significantly enhance the decision-making process, leading to a well-optimized bond investment strategy.
 
 ## References & Further Reading
 

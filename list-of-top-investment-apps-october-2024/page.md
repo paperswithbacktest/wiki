@@ -85,7 +85,7 @@ Another trend to watch out for is the growth of social investing features. More 
 
 ## Top Investment Apps Embracing Algo Trading
 
-As of October 2024, a number of investment apps have integrated algorithmic trading features, transforming how users engage with financial markets. These apps are designed to enhance investment strategies through sophisticated algorithms that facilitate timely and efficient trades. In this analysis, we will explore some of the top investment apps that are harnessing the power of algorithmic trading.
+As of October 2024, a number of investment apps have integrated [algorithmic trading](/wiki/algorithmic-trading) features, transforming how users engage with financial markets. These apps are designed to enhance investment strategies through sophisticated algorithms that facilitate timely and efficient trades. In this analysis, we will explore some of the top investment apps that are harnessing the power of algorithmic trading.
 
 **1. Robinhood**
 

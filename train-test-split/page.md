@@ -40,7 +40,7 @@ Once you have set up the function, you can call it and assign the results to new
 
 ## What are the potential issues with not using a train-test split?
 
-If you don't use a train-test split, you might run into big problems with your machine learning model. Without splitting your data, you'll use all of it to train your model. This means you won't have any new data to check how well your model works on information it hasn't seen before. It's like studying for a test using all the questions you'll be asked. You might do great on those questions, but you won't know if you can answer new ones.
+If you don't use a train-test split, you might run into big problems with your [machine learning](/wiki/machine-learning) model. Without splitting your data, you'll use all of it to train your model. This means you won't have any new data to check how well your model works on information it hasn't seen before. It's like studying for a test using all the questions you'll be asked. You might do great on those questions, but you won't know if you can answer new ones.
 
 Another issue is that your model might overfit. Overfitting happens when your model learns the training data too well, including any mistakes or random patterns. If you use all your data for training, your model might become too focused on that specific data and not be able to make good guesses on new data. This can make your model seem better than it really is because it's not being tested on new information. Using a train-test split helps you avoid these problems and make sure your model works well in real situations.
 

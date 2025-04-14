@@ -86,7 +86,7 @@ Also, what's happening in the industry of the bankrupt company can make a big di
 
 ## How can short selling be integrated into algorithmic trading?
 
-Incorporating short selling into algorithmic trading leverages the computational power of algorithms to exploit real-time market dynamics. This integration relies on technical analysis and historical data to identify potential short selling opportunities. By automating this process, traders aim to increase efficiency and accuracy in their strategies.
+Incorporating short selling into [algorithmic trading](/wiki/algorithmic-trading) leverages the computational power of algorithms to exploit real-time market dynamics. This integration relies on technical analysis and historical data to identify potential short selling opportunities. By automating this process, traders aim to increase efficiency and accuracy in their strategies.
 
 Pair trading and statistical [arbitrage](/wiki/arbitrage) are popular strategies employed in this context. Pair trading involves finding two correlated stocks and taking opposing positions when their price divergence exceeds a certain threshold. This strategy assumes that the prices will revert to their historical correlation. For instance, if stock A and stock B usually move together, and stock A increases significantly while stock B does not, a trader may short stock A while going long on stock B, anticipating a convergence.
 
@@ -98,7 +98,7 @@ $$
 
 where $X$ is the current value, $\mu$ is the mean of historical values, and $\sigma$ is the standard deviation.
 
-Python is a preferred language for implementing these strategies due to its rich ecosystem of libraries such as pandas for data manipulation, NumPy for numerical operations, and scikit-learn for machine learning. A simple Python script to calculate a moving average, a common tool in technical analysis, might look like this:
+Python is a preferred language for implementing these strategies due to its rich ecosystem of libraries such as pandas for data manipulation, NumPy for numerical operations, and scikit-learn for [machine learning](/wiki/machine-learning). A simple Python script to calculate a moving average, a common tool in technical analysis, might look like this:
 
 ```python
 import pandas as pd

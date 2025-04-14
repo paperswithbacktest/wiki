@@ -86,11 +86,11 @@ Lastly, there is a growing focus on sustainability and ethical investing. More a
 
 ## How is Machine Learning applied in Sell-Side Algorithmic Trading?
 
-Machine learning has revolutionized the capabilities of sell-side algorithmic trading, notably enhancing the predictive accuracy of trading algorithms. Through the application of sophisticated algorithms, [machine learning](/wiki/machine-learning) enables the detailed analysis of extensive datasets, promoting the identification of patterns and trends within financial markets. This advancement empowers sell-side firms to better forecast market dynamics and optimize trading decisions.
+Machine learning has revolutionized the capabilities of sell-side [algorithmic trading](/wiki/algorithmic-trading), notably enhancing the predictive accuracy of trading algorithms. Through the application of sophisticated algorithms, [machine learning](/wiki/machine-learning) enables the detailed analysis of extensive datasets, promoting the identification of patterns and trends within financial markets. This advancement empowers sell-side firms to better forecast market dynamics and optimize trading decisions.
 
 One of the key contributions of machine learning to trading is its ability to process and learn from vast amounts of historical and real-time market data. Techniques such as supervised learning, unsupervised learning, and [reinforcement learning](/wiki/reinforcement-learning) are implemented to extract meaningful insights and generate predictive models. For example, supervised learning algorithms can be trained on historical price data and associated features to predict future price movements, while unsupervised learning can identify hidden structures in data without predefined labels.
 
-Consider the use of a linear regression model, a common supervised learning technique, where the relationship between a dependent variable $Y$ (such as stock prices) and one or more independent variables $X_1, X_2, \ldots, X_n$ (such as trading volume, historical prices, etc.) is modeled as:
+Consider the use of a linear regression model, a common supervised learning technique, where the relationship between a dependent variable $Y$ (such as stock prices) and one or more independent variables $X_1, X_2, \ldots, X_n$ (such as trading [volume](/wiki/volume-trading-strategy), historical prices, etc.) is modeled as:
 
 $$
 Y = \beta_0 + \beta_1X_1 + \beta_2X_2 + \cdots + \beta_nX_n + \epsilon

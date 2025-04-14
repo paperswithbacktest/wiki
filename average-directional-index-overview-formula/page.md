@@ -24,7 +24,7 @@ The ADX is one of the indicators Wilder created to help traders understand marke
 
 The main purpose of using the Average Directional Index (ADX) in technical analysis is to measure how strong a trend is in the market. It doesn't tell you if the trend is going up or down, but it shows how powerful the trend is. This helps traders decide if they should follow the trend or not. If the ADX shows a strong trend, traders might feel more confident about making trades in the direction of that trend. On the other hand, if the ADX shows a weak trend, traders might be more cautious or look for other trading opportunities.
 
-Traders use the ADX by looking at its value on a chart. The ADX value goes from 0 to 100. When the ADX is above 25, it usually means the trend is strong. If it's below 20, the trend is weak, and the market might be moving sideways without a clear direction. By watching the ADX, traders can time their trades better. For example, if the ADX starts to rise, it might be a good time to enter a trade. If it starts to fall, it might be a signal to exit a trade or wait for a new trend to start.
+Traders use the ADX by looking at its value on a chart. The ADX value goes from 0 to 100. When the ADX is above 25, it usually means the trend is strong. If it's below 20, the trend is weak, and the market might be moving sideways without a clear direction. By watching the ADX, traders can time their trades better. For example, if the ADX starts to rise, it might be a good time to enter a trade. If it starts to fall, it might be a signal to [exit](/wiki/exit-strategy) a trade or wait for a new trend to start.
 
 ## How is the ADX calculated?
 
@@ -84,7 +84,7 @@ Another way to use the ADX in a trading strategy is with other trend-following i
 
 Developed by J. Welles Wilder, the Average Directional Index (ADX) serves as a critical tool in technical analysis for quantifying the strength of a trend. Typically, the ADX ranges from 0 to 100; values above 25 signify a robust trend, whereas values below 20 indicate a weak trend. It does not provide information about the trend direction—only its intensity.
 
-The ADX is often paired with two other indicators: the Positive Directional Indicator (+DI) and the Negative Directional Indicator (-DI). These three components are part of the Directional Movement System created by Wilder. The +DI value measures upward momentum, while the -DI assesses downward momentum.
+The ADX is often paired with two other indicators: the Positive Directional Indicator (+DI) and the Negative Directional Indicator (-DI). These three components are part of the Directional Movement System created by Wilder. The +DI value measures upward [momentum](/wiki/momentum), while the -DI assesses downward momentum.
 
 ### Calculation of ADX
 

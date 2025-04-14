@@ -32,7 +32,7 @@ Corporate bonds are issued by companies to raise money. They can be riskier than
 
 Government bonds are a type of debt security where you lend money to the government. They promise to pay you back with interest over time. These bonds are seen as very safe because the government is less likely to go bankrupt compared to a company. When you buy a government bond, you're basically helping the government raise money to pay for things like roads, schools, and other public projects.
 
-When you buy a government bond, you get regular interest payments until the bond matures. The maturity date is when the government pays you back the full amount you lent them. The interest rate on government bonds is usually lower than what you might get from riskier investments, but it's more predictable. So, if you want a safe place to put your money and get steady returns, government bonds can be a good choice.
+When you buy a government bond, you get regular interest payments until the bond matures. The maturity date is when the government pays you back the full amount you lent them. The [interest rate](/wiki/interest-rate-trading-strategies) on government bonds is usually lower than what you might get from riskier investments, but it's more predictable. So, if you want a safe place to put your money and get steady returns, government bonds can be a good choice.
 
 ## What are corporate bonds and what are their characteristics?
 

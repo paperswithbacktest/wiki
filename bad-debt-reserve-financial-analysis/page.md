@@ -84,7 +84,7 @@ Using advanced analytics also helps companies keep their bad debt reserve up to 
 
 Financial indicators are vital tools for assessing a company's health and stability. Key among these are bad debt reserves and debt ratios, which offer insights into a company’s financial practices and risk exposure.
 
-Bad debt reserve, often referred to as allowance for doubtful accounts, is a financial metric used to estimate the portion of accounts receivable that may not be collected. This metric is essential for accurate financial reporting and planning, as it provides a realistic view of potential credit losses. Establishing a bad debt reserve involves analyzing historical data to predict future receivable defaults. Companies typically account for bad debts based on past experience, industry norms, and current economic conditions. By maintaining a sufficiently robust bad debt reserve, a company safeguards its liquidity, ensuring that unexpected losses do not impair its financial operations.
+Bad debt reserve, often referred to as allowance for doubtful accounts, is a financial metric used to estimate the portion of accounts receivable that may not be collected. This metric is essential for accurate financial reporting and planning, as it provides a realistic view of potential credit losses. Establishing a bad debt reserve involves analyzing historical data to predict future receivable defaults. Companies typically account for bad debts based on past experience, industry norms, and current economic conditions. By maintaining a sufficiently robust bad debt reserve, a company safeguards its [liquidity](/wiki/liquidity-risk-premium), ensuring that unexpected losses do not impair its financial operations.
 
 The debt ratio, on the other hand, is a fundamental measure of a company's financial leverage, calculated as the total liabilities divided by total assets. It is expressed in the formula:
 
@@ -156,7 +156,7 @@ By adopting these strategies, businesses can enhance their financial health, ens
 
 6. Liu, X., & Zhao, M. (2019). "Algorithmic Trading Strategies Based on Fundamental and Technical Indicators." *The Journal of Finance and Data Science, 5*(1), 1-18. This article examines the implementation of algorithmic trading systems that leverage financial indicators, including credit evaluations, for improving trade outcomes.
 
-For further reading on algorithmic trading strategies involving financial metrics, consider the following resources:
+For further reading on [algorithmic trading](/wiki/algorithmic-trading) strategies involving financial metrics, consider the following resources:
 
 - Chan, E. P. (2009). "Quantitative Trading: How to Build Your Own Algorithmic Trading Business." Wiley Trading. This resource provides practical guidelines for implementing algorithmic trading systems using quantitative financial metrics.
 

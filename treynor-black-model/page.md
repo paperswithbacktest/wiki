@@ -22,7 +22,7 @@ This model was first talked about in a paper that Jack Treynor wrote in 1976. Th
 
 ## What are the key components of the Treynor–Black model?
 
-The Treynor-Black model has two main parts: active and passive investing. Active investing means picking a few stocks that you think will do better than the market. Passive investing means investing in the whole market, like buying an index fund. The model helps you decide how much to put in each part. It looks at something called "alpha" to see which stocks might do better. Alpha is how much a stock's return is better than what you would expect from the market.
+The Treynor-Black model has two main parts: active and passive investing. Active investing means [picking](/wiki/asset-class-picking) a few stocks that you think will do better than the market. Passive investing means investing in the whole market, like buying an index fund. The model helps you decide how much to put in each part. It looks at something called "alpha" to see which stocks might do better. Alpha is how much a stock's return is better than what you would expect from the market.
 
 The other important part of the model is "beta." Beta tells you how much a stock moves with the market. If a stock has a high beta, it moves a lot with the market. The Treynor-Black model uses both alpha and beta to balance the risk and reward of picking individual stocks with the safety of investing in the whole market. By mixing these two parts, the model helps you make a portfolio that could beat the market but is still safe enough.
 
@@ -177,7 +177,7 @@ problem.solve()
 
 By including realistic constraints, one can mitigate extreme allocations, ensuring the portfolio is diversified and manageable within common trading limits.
 
-Another adjustment involves refining the estimation of alpha and residual risk to make them more robust. This may include leveraging machine learning for more accurate predictions or adopting Bayesian methods to integrate prior information on security performance.
+Another adjustment involves refining the estimation of alpha and residual risk to make them more robust. This may include leveraging [machine learning](/wiki/machine-learning) for more accurate predictions or adopting Bayesian methods to integrate prior information on security performance.
 
 In sum, while the Treynor–Black model offers a robust framework for blending active and passive strategies, its practical application requires mindful adjustments. Addressing weight constraints and improving prediction accuracy can enhance the model’s real-world applicability, making it a valuable tool for traders and portfolio managers.
 

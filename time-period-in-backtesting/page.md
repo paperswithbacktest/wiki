@@ -18,7 +18,7 @@ Backtesting is important because it helps traders make better decisions. If a st
 
 When you do backtesting, the time period you choose is really important. It's like picking the right part of a story to read. You need to decide how far back to go and for how long. If you pick a time that was really good or really bad for the market, your results might not be what you see in the future. So, it's a good idea to pick a time period that's long enough to see different market conditions, like good times and bad times.
 
-Using a longer time period for backtesting can help you see how your strategy works in different situations. For example, if you only test your strategy during a time when the market was going up, you might think it's better than it really is. But if you test it over many years, you'll see how it does when the market goes up, down, and stays the same. This gives you a better idea of how your strategy might work in the future.
+Using a longer time period for [backtesting](/wiki/backtesting) can help you see how your strategy works in different situations. For example, if you only test your strategy during a time when the market was going up, you might think it's better than it really is. But if you test it over many years, you'll see how it does when the market goes up, down, and stays the same. This gives you a better idea of how your strategy might work in the future.
 
 ## What are the common time periods used in backtesting?
 

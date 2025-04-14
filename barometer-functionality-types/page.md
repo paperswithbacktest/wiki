@@ -50,7 +50,7 @@ On the other hand, when the air pressure goes down, it might mean a storm is com
 
 ## What are the advantages and disadvantages of using an aneroid barometer over a mercury barometer?
 
-Aneroid barometers have several advantages over mercury barometers. They are safer because they don't use mercury, which can be harmful if it spills. Aneroid barometers are also easier to carry around because they are smaller and lighter. They can be made into digital versions, which are easy to read and can show more information like graphs of pressure changes over time. Plus, aneroid barometers are less expensive to make and buy, so more people can use them.
+Aneroid barometers have several advantages over mercury barometers. They are safer because they don't use mercury, which can be harmful if it spills. Aneroid barometers are also easier to [carry](/wiki/carry-trading) around because they are smaller and lighter. They can be made into digital versions, which are easy to read and can show more information like graphs of pressure changes over time. Plus, aneroid barometers are less expensive to make and buy, so more people can use them.
 
 However, aneroid barometers also have some disadvantages. They need to be checked and adjusted sometimes to make sure they are giving the right readings. This is because the aneroid capsule can wear out over time. Also, aneroid barometers might not be as accurate as mercury barometers, especially in places with big changes in air pressure. Mercury barometers are very good at giving exact readings, but they are not used as much anymore because of the dangers of mercury.
 
@@ -100,7 +100,7 @@ where $P_1, P_2, \ldots, P_{10}$ are the closing prices for each of the 10 days.
 
 The Relative Strength Index (RSI), developed by J. Welles Wilder, Jr., is another widely used barometric indicator. It measures the magnitude of recent price changes to evaluate overbought or oversold conditions in the market, with values ranging from 0 to 100. Traders typically interpret an RSI above 70 as overbought and below 30 as oversold, which could prompt trading actions such as buying a potentially undervalued asset or selling an overvalued one.
 
-Moreover, barometers are increasingly integrated with AI to enhance the predictive analytics component of algorithmic trading. AI algorithms can process and analyze vast datasets, thereby identifying patterns that may not be visible to human traders. This capability allows for the development of complex trading algorithms that incorporate machine learning models to predict future market moves with greater accuracy.
+Moreover, barometers are increasingly integrated with AI to enhance the predictive analytics component of algorithmic trading. AI algorithms can process and analyze vast datasets, thereby identifying patterns that may not be visible to human traders. This capability allows for the development of complex trading algorithms that incorporate [machine learning](/wiki/machine-learning) models to predict future market moves with greater accuracy.
 
 Machine learning models, such as neural networks or support vector machines (SVM), benefit from barometric data by training on historical data to forecast future trends. A simple illustrative Python snippet to create a machine learning model for financial forecasting might look like this:
 

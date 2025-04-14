@@ -18,7 +18,7 @@ The FOIA is important because it helps keep the government open and honest. It l
 
 The EEOC, or Equal Employment Opportunity Commission, is a government agency in the United States that makes sure everyone is treated fairly at work. It helps stop discrimination based on things like race, color, religion, sex, national origin, age, disability, or genetic information. The EEOC investigates complaints, tries to fix problems, and can even take legal action if needed.
 
-Under the Freedom of Information Act (FOIA), you can ask the EEOC for information they have. This can include records about discrimination cases, reports, data, and other documents they keep. You can request information about specific cases or general statistics, but some information might be private or protected, so the EEOC might not be able to give you everything you ask for.
+Under the Freedom of Information Act (FOIA), you can ask the EEOC for information they have. This can include records about discrimination cases, reports, data, and other documents they keep. You can request information about specific cases or general [statistics](/wiki/bayesian-statistics), but some information might be private or protected, so the EEOC might not be able to give you everything you ask for.
 
 ## How do I submit a FOIA request to the EEOC?
 

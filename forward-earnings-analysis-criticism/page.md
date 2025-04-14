@@ -78,7 +78,7 @@ Also, how many people have jobs is important because if more people are working,
 
 To make better guesses about a company's future earnings, experts can use fancy math tools like regression analysis. This method looks at lots of past data to find patterns that can help predict what might happen next. For example, they might look at how the company did in the past when the economy was doing well or not so well. By understanding these patterns, experts can make smarter guesses about how the company might do in the future, even if things change a lot.
 
-Another tool is called time series analysis, which is all about looking at how numbers change over time. This can help experts see if there are regular ups and downs in a company's earnings and use that to predict what might happen next. They can also use something called machine learning, which is like teaching a computer to find patterns in data by itself. This can help make even better guesses about future earnings by looking at lots of different things all at once, like how the economy is doing, what the company is planning, and what other experts think. Even though these tools can't make perfect predictions, they can help make the guesses more accurate.
+Another tool is called time series analysis, which is all about looking at how numbers change over time. This can help experts see if there are regular ups and downs in a company's earnings and use that to predict what might happen next. They can also use something called [machine learning](/wiki/machine-learning), which is like teaching a computer to find patterns in data by itself. This can help make even better guesses about future earnings by looking at lots of different things all at once, like how the economy is doing, what the company is planning, and what other experts think. Even though these tools can't make perfect predictions, they can help make the guesses more accurate.
 
 ## What are Forward Earnings?
 
@@ -114,7 +114,7 @@ $$
 
 Incorporating real-time data into these calculations allows algorithmic systems to make informed and swift trading decisions. For example, if the forward P/E ratio of a stock is significantly lower compared to its historical average or industry peers, it may indicate a buying opportunity that an algorithm could capitalize on by automatically initiating a purchase order.
 
-The integration of advanced analytics and [artificial intelligence](/wiki/ai-artificial-intelligence) in algorithmic trading further refines the accuracy of forecasts. Machine learning models, capable of handling extensive datasets, can uncover complex patterns and relationships that traditional statistical methods might miss. For instance, a machine learning model could be trained to predict stock price movements based on historical earnings announcements, economic indicators, and sentiment analysis of news articles.
+The integration of advanced analytics and [artificial intelligence](/wiki/ai-artificial-intelligence) in [algorithmic trading](/wiki/algorithmic-trading) further refines the accuracy of forecasts. Machine learning models, capable of handling extensive datasets, can uncover complex patterns and relationships that traditional statistical methods might miss. For instance, a machine learning model could be trained to predict stock price movements based on historical earnings announcements, economic indicators, and sentiment analysis of news articles.
 
 Python code for a simple linear regression model predicting stock prices based on estimated earnings might look like this:
 

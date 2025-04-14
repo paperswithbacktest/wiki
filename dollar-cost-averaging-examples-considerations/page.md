@@ -34,7 +34,7 @@ By the end of the year, you've invested $100 each month and bought shares at dif
 
 ## How does dollar-cost averaging help reduce the impact of volatility?
 
-Dollar-cost averaging helps reduce the impact of volatility by spreading out your investments over time. When the market goes up and down, you're not putting all your money in at one time. Instead, you invest a little bit each month or each quarter. This means that when the price is low, your fixed amount of money buys more shares, and when the price is high, it buys fewer shares. Over time, this averages out the cost of your investment, so you're not as affected by big swings in the market.
+Dollar-cost averaging helps reduce the impact of [volatility](/wiki/volatility-trading-strategies) by spreading out your investments over time. When the market goes up and down, you're not putting all your money in at one time. Instead, you invest a little bit each month or each quarter. This means that when the price is low, your fixed amount of money buys more shares, and when the price is high, it buys fewer shares. Over time, this averages out the cost of your investment, so you're not as affected by big swings in the market.
 
 By investing regularly, you're not trying to guess when the market will be at its highest or lowest. This takes away the stress of trying to time the market perfectly. Instead, you're slowly building up your investment, no matter what the market is doing. This steady approach can help you feel more confident and less worried about sudden changes in the market. Over the long run, it can lead to better results because you're consistently adding to your investment, smoothing out the ups and downs.
 
@@ -54,7 +54,7 @@ The important thing is to pick a schedule that you can stick to and that fits wi
 
 Dollar-cost averaging can work well with many types of investments, like stocks, mutual funds, and exchange-traded funds (ETFs). These types of investments often go up and down in price, so putting money in regularly can help you buy more when prices are low and less when prices are high. This can be especially useful for people who want to invest in the stock market but don't want to worry about trying to guess the best time to buy.
 
-However, dollar-cost averaging might not be the best choice for all investments. For example, if you're investing in something that doesn't change in price much, like a savings account or a bond with a fixed interest rate, dollar-cost averaging won't give you the same benefits. Also, if you're investing in something that you think will go up a lot very quickly, it might be better to put all your money in at once instead of spreading it out over time.
+However, dollar-cost averaging might not be the best choice for all investments. For example, if you're investing in something that doesn't change in price much, like a savings account or a bond with a fixed [interest rate](/wiki/interest-rate-trading-strategies), dollar-cost averaging won't give you the same benefits. Also, if you're investing in something that you think will go up a lot very quickly, it might be better to put all your money in at once instead of spreading it out over time.
 
 ## How does dollar-cost averaging compare to lump-sum investing?
 

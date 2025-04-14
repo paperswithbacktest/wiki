@@ -18,7 +18,7 @@ In everyday life, yield can also mean giving way or surrendering, like when driv
 
 An interest rate is like a fee you pay for borrowing money or the reward you get for saving it. When you take a loan from a bank, the interest rate is the extra money you have to pay back on top of what you borrowed. It's how banks make money from lending. If you're saving money in a bank, the interest rate is what the bank pays you for keeping your money with them. It's a way to encourage people to save.
 
-Interest rates are usually shown as a percentage. For example, if you borrow $100 with a 5% interest rate, you'll have to pay back the $100 plus an extra $5 in interest. The rate can change based on things like the economy, how risky the loan is, or how much the bank wants to encourage saving or borrowing. When interest rates go up, borrowing costs more, and saving can be more rewarding. When they go down, borrowing becomes cheaper, but saving might not earn as much.
+Interest rates are usually shown as a percentage. For example, if you borrow $100 with a 5% [interest rate](/wiki/interest-rate-trading-strategies), you'll have to pay back the $100 plus an extra $5 in interest. The rate can change based on things like the economy, how risky the loan is, or how much the bank wants to encourage saving or borrowing. When interest rates go up, borrowing costs more, and saving can be more rewarding. When they go down, borrowing becomes cheaper, but saving might not earn as much.
 
 ## What are the main differences between yield and interest rate?
 
@@ -28,13 +28,13 @@ Interest rate, on the other hand, is simpler. It's the cost of borrowing money o
 
 ## How do yields on bonds work and how are they calculated?
 
-When you buy a bond, you're lending money to the issuer, like a government or a company. In return, they promise to pay you back the money you lent them, called the principal, at a certain date in the future. They also agree to pay you interest, usually every year or every six months, until the bond reaches its maturity date. This interest payment is called the coupon. The yield on a bond tells you how much money you're earning from it each year, as a percentage of what you paid for the bond.
+When you buy a bond, you're lending money to the issuer, like a government or a company. In return, they promise to pay you back the money you lent them, called the principal, at a certain date in the future. They also agree to pay you interest, usually every year or every six months, until the bond reaches its maturity date. This interest payment is called the coupon. The yield on a bond tells you how much money you're [earning](/wiki/earning-announcement) from it each year, as a percentage of what you paid for the bond.
 
 To calculate the yield on a bond, you need to know a few things: the bond's coupon, its current price, and how long it has until it matures. The most common way to find the yield is by using the yield to maturity (YTM) formula. This formula looks at all the future coupon payments and the return of the principal at maturity, and then figures out what rate of return you're getting if you hold the bond until it matures. If you buy a bond for less than its face value, the yield will be higher because you're getting the same coupon payments but you paid less for the bond. If you buy it for more than its face value, the yield will be lower. So, the yield on a bond can change based on what people are willing to pay for it in the market.
 
 ## What factors influence interest rates set by banks?
 
-Interest rates set by banks are influenced by many things. One big factor is the overall economy. When the economy is doing well, banks might raise interest rates to slow down borrowing and spending, which can help prevent the economy from growing too fast and causing inflation. On the other hand, if the economy is struggling, banks might lower interest rates to make borrowing cheaper, encouraging people and businesses to spend more money and help the economy grow.
+Interest rates set by banks are influenced by many things. One big [factor](/wiki/factor-investing) is the overall economy. When the economy is doing well, banks might raise interest rates to slow down borrowing and spending, which can help prevent the economy from growing too fast and causing inflation. On the other hand, if the economy is struggling, banks might lower interest rates to make borrowing cheaper, encouraging people and businesses to spend more money and help the economy grow.
 
 Another factor is the central bank's policies. In many countries, the central bank sets a base interest rate that influences all other rates. If the central bank raises its rate, banks usually follow by raising their rates too. If the central bank lowers its rate, banks often lower theirs as well. This is because banks need to stay competitive and make sure they're not losing money on the loans they give out.
 

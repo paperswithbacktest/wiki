@@ -18,7 +18,7 @@ People often use market baskets to follow a certain theme or trend. For example,
 
 A market basket is when an investor picks a bunch of different stocks or securities to buy all at once. It's like filling a shopping basket with different items. The main idea is to spread out the risk. If one stock goes down, the others might go up and help balance things out. People often choose stocks that fit a certain theme or trend, like tech or green energy, or they might pick stocks from different industries to make their investment safer.
 
-On the other hand, individual stock picking is when an investor focuses on one stock at a time. They do a lot of research on that one company to decide if it's a good investment. This can be riskier because if that one stock does badly, the investor loses money. But if they pick a winner, they could make a lot more money than with a market basket. It's like betting on one horse in a race instead of spreading bets across many horses.
+On the other hand, individual stock [picking](/wiki/asset-class-picking) is when an investor focuses on one stock at a time. They do a lot of research on that one company to decide if it's a good investment. This can be riskier because if that one stock does badly, the investor loses money. But if they pick a winner, they could make a lot more money than with a market basket. It's like betting on one horse in a race instead of spreading bets across many horses.
 
 In summary, a market basket helps spread risk and can follow a specific trend or industry mix, while individual stock picking focuses on one stock at a time and can be riskier but potentially more rewarding. Both methods have their own advantages and depend on what the investor is comfortable with and their investment goals.
 
@@ -88,7 +88,7 @@ Another technique is to use options and other financial tools to manage risk and
 
 ## How can market baskets be integrated into algorithmic trading?
 
-Market baskets are an essential component in algorithmic trading strategies for enhancing diversification and aligning investment portfolios with market indices. By incorporating a variety of securities, market baskets provide a representative cross-section of a specific market segment, thereby spreading risk and reducing the impact of volatility associated with individual assets. 
+Market baskets are an essential component in [algorithmic trading](/wiki/algorithmic-trading) strategies for enhancing diversification and aligning investment portfolios with market indices. By incorporating a variety of securities, market baskets provide a representative cross-section of a specific market segment, thereby spreading risk and reducing the impact of [volatility](/wiki/volatility-trading-strategies) associated with individual assets. 
 
 Integrating market baskets into algorithmic trading strategies involves leveraging algorithmic systems to manage and execute trades for these baskets automatically. Algorithmic trading can apply various strategies such as mean-variance optimization, which aims to balance expected return against risk by adjusting the weights of assets in a basket. This approach aligns with Markowitz’s Modern Portfolio Theory, aiming to construct an "efficient frontier" of optimal portfolios offering the maximum possible return for a given level of risk, expressed as:
 

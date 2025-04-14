@@ -34,7 +34,7 @@ The ISO code for the Guinean Franc is GNF. ISO codes are special codes used all 
 
 ## What are the denominations of Guinean Franc banknotes and coins?
 
-The Guinean Franc comes in different amounts for both banknotes and coins. For banknotes, you can find them in 1,000 GNF, 2,000 GNF, 5,000 GNF, 10,000 GNF, and 20,000 GNF. These are the big pieces of money that people use for bigger purchases. The different amounts help people pay for things without needing to carry too much money.
+The Guinean Franc comes in different amounts for both banknotes and coins. For banknotes, you can find them in 1,000 GNF, 2,000 GNF, 5,000 GNF, 10,000 GNF, and 20,000 GNF. These are the big pieces of money that people use for bigger purchases. The different amounts help people pay for things without needing to [carry](/wiki/carry-trading) too much money.
 
 For coins, the Guinean Franc has smaller amounts like 1 GNF, 5 GNF, 10 GNF, 25 GNF, 50 GNF, and 100 GNF. Coins are good for smaller purchases, like buying a piece of candy or a bus ticket. Using coins helps people pay the exact amount and get change easily.
 

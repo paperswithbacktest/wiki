@@ -34,7 +34,7 @@ Once NSEIL has all the rates, they remove the highest and lowest ones to make su
 
 ## What is the significance of MIBOR and MIBID in the Indian financial market?
 
-MIBOR and MIBID are very important in the Indian financial market because they help decide how much it costs to borrow money. MIBOR is the rate at which banks lend money to each other, and MIBID is the rate at which banks borrow money from each other. These rates are used as benchmarks, which means they are standard rates that other interest rates are compared to. For example, if you want to take out a loan, the interest rate you pay might be set as MIBOR plus a certain percentage. This makes MIBOR and MIBID key parts of the financial system, affecting everything from personal loans to big business deals.
+MIBOR and MIBID are very important in the Indian financial market because they help decide how much it costs to borrow money. MIBOR is the rate at which banks lend money to each other, and MIBID is the rate at which banks borrow money from each other. These rates are used as benchmarks, which means they are standard rates that other interest rates are compared to. For example, if you want to take out a loan, the [interest rate](/wiki/interest-rate-trading-strategies) you pay might be set as MIBOR plus a certain percentage. This makes MIBOR and MIBID key parts of the financial system, affecting everything from personal loans to big business deals.
 
 These rates are calculated every day by the National Stock Exchange of India (NSEIL). They ask different banks about the rates they are willing to lend and borrow money at. Then, they take the average of these rates, after removing the highest and lowest ones, to find the MIBOR and MIBID for that day. This way, MIBOR and MIBID give a good idea of what the general borrowing and lending rates are among banks in India. They help keep the financial market stable and transparent, making it easier for everyone to know what rates are fair.
 
@@ -88,7 +88,7 @@ The Financial Benchmarks India Private Limited (FBIL) plays a crucial role in th
 
 FBIL's approach to establishing new benchmarks centers around using actual market transactions instead of indicative quotes. This method improves the transparency and reliability of the benchmarks. The FBIL-Overnight MIBOR, for example, is calculated based on real interbank call money market transactions. This shift from subjective rates to transaction-based determination reduces susceptibility to manipulation and reflects genuine market conditions.
 
-By utilizing a volume-weighted average price (VWAP) methodology, FBIL ensures that the benchmarks are a true representation of market activity. The volume-weighted approach considers both the price and the volume of transactions, offering a comprehensive view of market trends. The formula for VWAP is:
+By utilizing a [volume](/wiki/volume-trading-strategy)-weighted average price (VWAP) methodology, FBIL ensures that the benchmarks are a true representation of market activity. The volume-weighted approach considers both the price and the volume of transactions, offering a comprehensive view of market trends. The formula for VWAP is:
 
 $$
 \text{VWAP} = \frac{\sum (\text{Price}_i \times \text{Volume}_i)}{\sum \text{Volume}_i}
@@ -100,7 +100,7 @@ where $\text{Price}_i$ and $\text{Volume}_i$ are the price and volume of the i-t
 
 FBIL's strategy, while robust, presents certain challenges. One significant challenge is ensuring that sufficient transaction data is available for accurate benchmark calculation, especially in less liquid markets. The reliance on actual transactions requires a minimum level of market activity to ensure the benchmarks remain representative.
 
-However, this approach also presents opportunities. The transparency and reliability of FBIL's benchmarks enhance investor confidence and make the Indian financial system more attractive for both domestic and international participants. It opens avenues for more sophisticated financial products and risk management strategies, increasing market depth and liquidity.
+However, this approach also presents opportunities. The transparency and reliability of FBIL's benchmarks enhance investor confidence and make the Indian financial system more attractive for both domestic and international participants. It opens avenues for more sophisticated financial products and risk management strategies, increasing market depth and [liquidity](/wiki/liquidity-risk-premium).
 
 ### Impact on the Indian Financial Ecosystem
 

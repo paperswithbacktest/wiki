@@ -86,7 +86,7 @@ Another tip is to diversify your portfolio. Don't put all your money into cheap 
 
 ## What is the understanding of financial markets and cheap stocks?
 
-Financial markets are essential components of the global economy, facilitating the exchange of securities, commodities, and other financial instruments. They enable efficient allocation of resources and liquidity, allowing investors to raise capital, transfer risk, and discover prices for goods and services. These markets encompass various platforms such as stock exchanges, bond markets, and derivatives markets, each serving distinct purposes but collectively ensuring economic stability and growth.\[1\]
+Financial markets are essential components of the global economy, facilitating the exchange of securities, commodities, and other financial instruments. They enable efficient allocation of resources and [liquidity](/wiki/liquidity-risk-premium), allowing investors to raise capital, transfer risk, and discover prices for goods and services. These markets encompass various platforms such as stock exchanges, bond markets, and derivatives markets, each serving distinct purposes but collectively ensuring economic stability and growth.\[1\]
 
 In the stock market, one term frequently encountered is "cheap stocks." A "cheap stock" refers to a security that appears undervalued based on specific financial metrics or market sentiment. Typically, these stocks trade at a lower price compared to their intrinsic value or peers in the same industry. Identifying cheap stocks can be a critical strategy for investors seeking to maximize returns. However, it requires thorough analysis to distinguish genuinely undervalued stocks from those priced low due to fundamental weaknesses.\[2\]
 

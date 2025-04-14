@@ -84,7 +84,7 @@ Another big initiative the OIC is working on is reaching out to more people, esp
 
 ## What are the key aspects of risk management in derivatives and algo trading?
 
-Effective risk management is a cornerstone of successful derivatives and algorithmic trading. By combining techniques like position sizing, stop-loss orders, and advanced metrics, traders aim to mitigate potential losses and navigate the complexities of financial markets.
+Effective risk management is a cornerstone of successful derivatives and [algorithmic trading](/wiki/algorithmic-trading). By combining techniques like position sizing, stop-loss orders, and advanced metrics, traders aim to mitigate potential losses and navigate the complexities of financial markets.
 
 Position sizing involves determining the number of units to invest in a particular derivative to control the risk of significant losses. By calculating the trade size relative to the account size and setting a predefined risk per trade, traders can optimize their portfolios. The formula for position sizing could be expressed as:
 
@@ -116,7 +116,7 @@ For those seeking to expand their understanding of financial derivatives and alg
 
 **Programming Communities and Online Courses**: Proficiency in programming languages, especially Python, is essential for developing and understanding algorithmic trading. Platforms like Coursera, edX, and Udacity offer courses on data science, machine learning, and financial modeling. Additionally, communities like Stack Overflow and GitHub host a wealth of shared algorithms and code snippets that can serve as practical examples.
 
-A solid grasp of algorithmic concepts can be bolstered by engaging with educational content focused on machine learning frameworks such as TensorFlow or PyTorch. Learning how to implement predictive models in Python could involve libraries like NumPy and pandas for handling data, Scikit-learn for modeling, and Matplotlib or Seaborn for data visualization.
+A solid grasp of algorithmic concepts can be bolstered by engaging with educational content focused on [machine learning](/wiki/machine-learning) frameworks such as TensorFlow or PyTorch. Learning how to implement predictive models in Python could involve libraries like NumPy and pandas for handling data, Scikit-learn for modeling, and Matplotlib or Seaborn for data visualization.
 
 By utilizing these resources, traders and financial analysts can enhance their strategy formulation, risk management practices, and overall market participation. Engaging continually with educational and practical content cultivates a robust toolkit necessary for successful navigation of today's evolving financial landscape.
 

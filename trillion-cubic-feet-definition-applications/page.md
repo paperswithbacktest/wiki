@@ -22,7 +22,7 @@ It's like saying "a thousand billion cubic feet" but shorter. People use Tcf whe
 
 ## What does a trillion cubic feet measure?
 
-A trillion cubic feet measures a very big volume. It's like filling up a huge space with lots and lots of smaller boxes, where each box is one cubic foot. Imagine a giant cube where each side is about 10 miles long. That giant cube would be close to a trillion cubic feet.
+A trillion cubic feet measures a very big [volume](/wiki/volume-trading-strategy). It's like filling up a huge space with lots and lots of smaller boxes, where each box is one cubic foot. Imagine a giant cube where each side is about 10 miles long. That giant cube would be close to a trillion cubic feet.
 
 People often use a trillion cubic feet to talk about how much natural gas is in a big field. Natural gas is a fuel that comes from under the ground, and it's important for heating homes and making electricity. When someone says a gas field has a trillion cubic feet of gas, they mean it's a really big field with a lot of gas in it.
 

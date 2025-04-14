@@ -149,10 +149,10 @@ Understanding these conversion mechanics and the associated calculations can gui
    Offering a detailed exploration of convertible bond pricing and strategies, this handbook covers the quantitative aspects of convertible bonds, including derivatives pricing, hedging strategies, and risk management considerations.
 
 4. **"Quantitative Momentum: A Practitioner's Guide to Building a Momentum-Based Stock Selection System" by Wesley R. Gray and Jack R. Vogel**  
-   While focused on [momentum](/wiki/momentum) trading strategies, this book provides useful insights that can be applied to algorithmic trading, especially for implementing strategies involving convertible bonds.
+   While focused on [momentum](/wiki/momentum) trading strategies, this book provides useful insights that can be applied to [algorithmic trading](/wiki/algorithmic-trading), especially for implementing strategies involving convertible bonds.
 
 5. **Research papers by Marco Avellaneda on Convertible Bond Arbitrage**  
-   Marco Avellaneda has authored numerous papers on algorithmic trading and convertible bond arbitrage. His work often focuses on developing models to identify arbitrage opportunities and manage risks associated with convertible securities.
+   Marco Avellaneda has authored numerous papers on algorithmic trading and convertible bond [arbitrage](/wiki/arbitrage). His work often focuses on developing models to identify arbitrage opportunities and manage risks associated with convertible securities.
 
 6. **Investopedia - Convertible Bonds**  
    [Investopedia](https://www.investopedia.com/terms/c/convertiblebond.asp) offers a fundamental overview of convertible bonds, explaining their basics, advantages, and disadvantages. It is a good starting point for beginners.

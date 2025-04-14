@@ -54,7 +54,7 @@ The newsletter also helps spread important news quickly. When there's a big chan
 
 MarketsWiki Daily Highlight makes sure its news is correct and trustworthy by using a team that knows a lot about finance. They check the news from many places and only pick the best and most true stories to share. If something is not clear, they look into it more to make sure they are giving the right information.
 
-This careful way of picking news helps keep the newsletter reliable. People who read it can trust that what they're reading is true and important. By doing this, MarketsWiki Daily Highlight helps everyone in the financial world make good choices based on good information.
+This careful way of [picking](/wiki/asset-class-picking) news helps keep the newsletter reliable. People who read it can trust that what they're reading is true and important. By doing this, MarketsWiki Daily Highlight helps everyone in the financial world make good choices based on good information.
 
 ## What are some notable stories or features that have been highlighted in MarketsWiki Daily Highlight?
 

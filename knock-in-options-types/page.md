@@ -42,7 +42,7 @@ If the stock price never goes up to the barrier, the up-and-in option never beco
 
 When pricing knock-in options, you need to think about a few important things. First, the barrier level is key because it's the price that the stock or asset needs to hit for the option to start working. If the barrier is far from where the stock is now, the option might be cheaper because it's less likely to become active. Also, you need to consider how much time is left until the option expires. More time means a higher chance the stock could reach the barrier, which might make the option more expensive.
 
-Another thing to think about is how much the stock price moves around, which is called volatility. If the stock price jumps around a lot, it's more likely to hit the barrier, so the option could be priced higher. Finally, the overall market conditions and the general direction people think the stock is going can affect the price too. If everyone thinks the stock will go up and it's close to the barrier, the option might cost more because more people want to buy it.
+Another thing to think about is how much the stock price moves around, which is called [volatility](/wiki/volatility-trading-strategies). If the stock price jumps around a lot, it's more likely to hit the barrier, so the option could be priced higher. Finally, the overall market conditions and the general direction people think the stock is going can affect the price too. If everyone thinks the stock will go up and it's close to the barrier, the option might cost more because more people want to buy it.
 
 ## How do knock-in options affect the risk profile of an investment portfolio?
 

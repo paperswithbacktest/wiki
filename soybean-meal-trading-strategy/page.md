@@ -40,7 +40,7 @@ Next, it's important to understand how other things can affect soybean meal pric
 
 ## What are the common trading strategies for soybean meal?
 
-One common trading strategy for soybean meal is trend following. This means watching the market to see if prices are going up or down over time. If prices are going up, a trader might buy soybean meal, hoping to sell it later at a higher price. If prices are going down, a trader might sell soybean meal they already have, or even sell soybean meal they don't own yet, planning to buy it back later at a lower price. This strategy works well when the market has a clear direction and keeps moving that way for a while.
+One common trading strategy for soybean meal is [trend following](/wiki/trend-following). This means watching the market to see if prices are going up or down over time. If prices are going up, a trader might buy soybean meal, hoping to sell it later at a higher price. If prices are going down, a trader might sell soybean meal they already have, or even sell soybean meal they don't own yet, planning to buy it back later at a lower price. This strategy works well when the market has a clear direction and keeps moving that way for a while.
 
 Another strategy is called spread trading. This involves buying and selling different soybean meal contracts at the same time. For example, a trader might buy a contract for soybean meal to be delivered in March and sell a contract for soybean meal to be delivered in May. The idea is to make money from the difference in price between the two contracts, not from the overall price of soybean meal going up or down. This can be a good way to manage risk because it's less about guessing the overall market direction and more about finding small differences in prices.
 
@@ -117,7 +117,7 @@ cerebro.plot()
 
 ### Risk Management and Position Sizing
 
-Risk management in algorithmic trading addresses the potential financial loss inherent in trading decisions. Effective strategies will define a risk appetite and incorporate mechanisms to mitigate losses, such as stop-loss orders. Position sizing is a related concept that determines the amount of capital to allocate to each trade, based on risk tolerance and market conditions. A common approach is the Kelly Criterion, calculated as:
+Risk management in [algorithmic trading](/wiki/algorithmic-trading) addresses the potential financial loss inherent in trading decisions. Effective strategies will define a risk appetite and incorporate mechanisms to mitigate losses, such as stop-loss orders. Position sizing is a related concept that determines the amount of capital to allocate to each trade, based on risk tolerance and market conditions. A common approach is the Kelly Criterion, calculated as:
 
 $$
 f^* = \frac{bp - q}{b}

@@ -137,7 +137,7 @@ This code snippet demonstrates how to use multiple regression to evaluate the co
 
 ## How can we build a trading system using regression, as explored in a case study?
 
-Consider a scenario where a trader aims to develop a trading system to predict and trade a specific stock's price based on historical price and volume data. The initial step involves utilizing simple linear regression to model the relationship between past trading volume and future price movements. This approach allows the trader to forecast prices by fitting a line to the historical data, where price is the dependent variable $y$, and volume is the independent variable $x$. The regression equation can be expressed as:
+Consider a scenario where a trader aims to develop a trading system to predict and trade a specific stock's price based on historical price and [volume](/wiki/volume-trading-strategy) data. The initial step involves utilizing simple linear regression to model the relationship between past trading volume and future price movements. This approach allows the trader to forecast prices by fitting a line to the historical data, where price is the dependent variable $y$, and volume is the independent variable $x$. The regression equation can be expressed as:
 
 $$
 y = mx + c

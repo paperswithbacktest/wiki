@@ -60,7 +60,7 @@ These changes can happen for many reasons. A company might do well and make more
 
 Market capitalization plays a big role in deciding which companies get included in stock indices like the S&P 500 or the Dow Jones. These indices are like big lists of companies that represent the market or a part of it. Usually, to be on these lists, a company needs to have a big enough market cap. This is because indices want to show what's happening with the biggest and most important companies. So, if a company's market cap grows a lot, it might get added to an index. But if its market cap gets smaller, it might get taken off the list.
 
-Being part of a stock index can be good for a company. It can make more people want to buy its stock because being on an index means the company is seen as important and stable. This can make the stock price go up, which in turn can make the market cap go up too. But it's not just about being big; other things like how much the company is traded and how it's doing financially also matter. Still, market cap is a key factor that helps decide which companies make it onto these important lists.
+Being part of a stock index can be good for a company. It can make more people want to buy its stock because being on an index means the company is seen as important and stable. This can make the stock price go up, which in turn can make the market cap go up too. But it's not just about being big; other things like how much the company is traded and how it's doing financially also matter. Still, market cap is a key [factor](/wiki/factor-investing) that helps decide which companies make it onto these important lists.
 
 ## What role does market capitalization play in mergers and acquisitions?
 

@@ -58,7 +58,7 @@ If you don't follow the zoning laws, you could get into trouble. The government 
 
 One common pitfall in commercial real estate transactions is not doing enough research on the property. It's important to check everything about the building, like its condition and any legal problems it might have. If you don't, you might end up buying a property that needs a lot of repairs or has issues with the title. Another big mistake is not understanding the zoning laws. These rules can stop you from using the property the way you want, so you need to know them before you make a deal.
 
-Another pitfall is not thinking about the money carefully. You need to make sure the property fits your budget and that you can afford any loans you take out. It's also important to think about how much money the property can make. If you don't, you might end up with a property that costs more than it earns. Lastly, not getting help from professionals like lawyers and real estate agents can lead to problems. They can help you understand the contract and avoid legal issues, so it's a good idea to work with them.
+Another pitfall is not thinking about the money carefully. You need to make sure the property fits your budget and that you can afford any loans you take out. It's also important to think about how much money the property can make. If you don't, you might end up with a property that costs more than it earns. Lastly, not getting help from professionals like lawyers and real estate [agents](/wiki/agents) can lead to problems. They can help you understand the contract and avoid legal issues, so it's a good idea to work with them.
 
 ## How can effective negotiation improve the outcome of a commercial real estate deal?
 

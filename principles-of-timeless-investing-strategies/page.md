@@ -24,7 +24,7 @@ The main difference between the two is the time frame and the level of risk. Tim
 
 ## What are the key principles of timeless investing?
 
-Timeless investing is all about playing the long game. It means picking investments that you think will do well over many years, not just next week or next month. People who use this method look for good, reliable companies that have a strong history. They believe in the power of patience and don't get too worried about short-term ups and downs in the market. Instead, they focus on building wealth slowly and steadily over time.
+Timeless investing is all about playing the long game. It means [picking](/wiki/asset-class-picking) investments that you think will do well over many years, not just next week or next month. People who use this method look for good, reliable companies that have a strong history. They believe in the power of patience and don't get too worried about short-term ups and downs in the market. Instead, they focus on building wealth slowly and steadily over time.
 
 Another important part of timeless investing is understanding and accepting risk. Investors know that all investments can go up or down, but they're okay with that because they're in it for the long haul. They spread their money across different types of investments to lower the risk. This way, if one investment doesn't do well, others might make up for it. It's about being smart and careful, not trying to get rich quick.
 

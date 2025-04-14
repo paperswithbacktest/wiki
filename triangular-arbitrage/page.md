@@ -18,11 +18,11 @@ This strategy relies on the fact that exchange rates between currencies can some
 
 Triangular arbitrage in the forex market is a way to make money by using three different currencies. Imagine you start with US dollars (USD). You exchange your USD for Euros (EUR), then you take those Euros and exchange them for British pounds (GBP), and finally, you exchange the British pounds back to US dollars. If the exchange rates are just right, you end up with more USD than you started with. This happens because sometimes the exchange rates between currencies don't match up perfectly, creating a small window where you can make a profit.
 
-The key to triangular arbitrage is to find these small differences in exchange rates quickly. These opportunities don't last long because other traders will also notice them and the market will adjust. So, traders need to use computers and fast trading systems to spot and act on these opportunities before they disappear. It's like a race to see who can take advantage of the situation first.
+The key to triangular [arbitrage](/wiki/arbitrage) is to find these small differences in exchange rates quickly. These opportunities don't last long because other traders will also notice them and the market will adjust. So, traders need to use computers and fast trading systems to spot and act on these opportunities before they disappear. It's like a race to see who can take advantage of the situation first.
 
 ## What are the three currencies typically involved in triangular arbitrage?
 
-In triangular arbitrage, traders often use three major currencies to make their trades. These are usually the US dollar (USD), the Euro (EUR), and the British pound (GBP). These currencies are chosen because they are widely traded and have high liquidity, which means there are many buyers and sellers, making it easier to quickly exchange them.
+In triangular arbitrage, traders often use three major currencies to make their trades. These are usually the US dollar (USD), the Euro (EUR), and the British pound (GBP). These currencies are chosen because they are widely traded and have high [liquidity](/wiki/liquidity-risk-premium), which means there are many buyers and sellers, making it easier to quickly exchange them.
 
 The process starts with the trader having US dollars. They then exchange these dollars for Euros. Next, they take the Euros and exchange them for British pounds. Finally, they convert the British pounds back into US dollars. If the exchange rates are favorable at each step, the trader will end up with more US dollars than they started with, making a profit from the differences in the rates.
 
@@ -94,7 +94,7 @@ Triangular arbitrage opportunities arise when the implicit cross exchange rate d
 
 Bank-quoted rates and market rates can significantly influence these arbitrage opportunities. Banks might not update their quoted rates as frequently as the market rates change due to various [factor](/wiki/factor-investing)s like transaction [volume](/wiki/volume-trading-strategy)s and liquidity conditions. As a result, the discrepancy between static bank rates and dynamic market rates can create arbitrage openings. However, these opportunities are typically short-lived as the market adjusts to correct the mispricing, with algorithmic traders rapidly detecting and acting upon inefficiencies.
 
-The persistence of such discrepancies hinges on several factors, including how quickly banks update their rates and how swiftly market participants react. Despite the potential for profit, the prevalence of algorithmic trading in modern forex markets has made it increasingly challenging to capitalize on these arbitrage opportunities, as automated systems can execute trades in milliseconds, often outpacing human traders.
+The persistence of such discrepancies hinges on several factors, including how quickly banks update their rates and how swiftly market participants react. Despite the potential for profit, the prevalence of [algorithmic trading](/wiki/algorithmic-trading) in modern [forex](/wiki/forex-system) markets has made it increasingly challenging to capitalize on these arbitrage opportunities, as automated systems can execute trades in milliseconds, often outpacing human traders.
 
 ## What are the profitability and challenges faced?
 

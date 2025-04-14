@@ -36,7 +36,7 @@ Now, the company can use this salvage value to calculate how much the van will c
 
 ## What factors influence the salvage value of an asset?
 
-Several things can affect how much an asset is worth at the end of its life. One big factor is how well the asset was taken care of. If a machine was kept clean and fixed regularly, it might be worth more when it's time to sell it. Another factor is how much people want that kind of asset. If lots of people need used trucks, the salvage value of a truck might be higher. The age of the asset also matters. Older assets usually have a lower salvage value because they've been used more and might not work as well.
+Several things can affect how much an asset is worth at the end of its life. One big [factor](/wiki/factor-investing) is how well the asset was taken care of. If a machine was kept clean and fixed regularly, it might be worth more when it's time to sell it. Another factor is how much people want that kind of asset. If lots of people need used trucks, the salvage value of a truck might be higher. The age of the asset also matters. Older assets usually have a lower salvage value because they've been used more and might not work as well.
 
 Changes in the market can also change the salvage value. If new technology comes out that makes old machines less useful, their salvage value might go down. On the other hand, if something becomes rare or hard to find, its salvage value might go up. The location where the asset is sold can make a difference too. In some places, there might be more buyers for used equipment, which can increase the salvage value. All these things together help decide how much an asset will be worth at the end of its life.
 

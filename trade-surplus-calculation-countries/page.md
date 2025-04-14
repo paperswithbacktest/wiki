@@ -22,7 +22,7 @@ You calculate it by subtracting the total value of imports from the total value 
 
 ## Why is a trade surplus important for a country's economy?
 
-A trade surplus is important for a country's economy because it means the country is earning more from selling things to other countries than it is spending on buying things from them. This extra money can help make the country's currency stronger. When the currency is strong, it can buy more things from other countries, and it makes people from other countries want to invest in the country. This can lead to more jobs and growth in the industries that make things for export, which is good for the economy.
+A trade surplus is important for a country's economy because it means the country is [earning](/wiki/earning-announcement) more from selling things to other countries than it is spending on buying things from them. This extra money can help make the country's currency stronger. When the currency is strong, it can buy more things from other countries, and it makes people from other countries want to invest in the country. This can lead to more jobs and growth in the industries that make things for export, which is good for the economy.
 
 However, a trade surplus isn't always perfect. If a country focuses too much on selling things to other countries, it might not pay enough attention to what its own people need. This can lead to problems like not having enough goods for people at home or too much focus on certain industries, which can make the economy less balanced. So, while a trade surplus can be good, it's important for a country to make sure it's also taking care of its own people's needs.
 
@@ -36,7 +36,7 @@ These are just two examples, but there are other countries like Japan and South 
 
 ## What are the main factors that contribute to a trade surplus?
 
-One main factor that helps a country have a trade surplus is making things that other countries want to buy. If a country can make good cars, machines, or electronics, other countries will want to buy them. This means the country will export more than it imports, which leads to a trade surplus. For example, Germany makes a lot of cars and machines that other countries want, so they have a big trade surplus.
+One main [factor](/wiki/factor-investing) that helps a country have a trade surplus is making things that other countries want to buy. If a country can make good cars, machines, or electronics, other countries will want to buy them. This means the country will export more than it imports, which leads to a trade surplus. For example, Germany makes a lot of cars and machines that other countries want, so they have a big trade surplus.
 
 Another factor is having a strong currency. When a country's currency is strong, it can buy more things from other countries. But if the currency is too strong, it can make the country's exports more expensive, which might hurt the trade surplus. Countries need to find a balance so their currency is strong enough to help the economy but not so strong that it makes their exports too expensive.
 

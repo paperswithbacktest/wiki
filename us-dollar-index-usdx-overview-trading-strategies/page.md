@@ -42,7 +42,7 @@ Lastly, the value of other currencies in the USDX basket can influence the index
 
 ## How can beginners start trading the USDX?
 
-If you're new to trading and want to start with the USDX, the first thing you should do is learn about how it works. The USDX measures the strength of the U.S. dollar against other major currencies like the Euro and the Japanese Yen. You can start by reading about what affects the USDX, like interest rates, the U.S. economy, and global events. There are many websites and books that can help you understand these things better. It's also a good idea to practice trading without real money first. Many online platforms offer demo accounts where you can trade the USDX and see how it goes without risking your own money.
+If you're new to trading and want to start with the USDX, the first thing you should do is learn about how it works. The USDX measures the strength of the U.S. dollar against other major currencies like the Euro and the Japanese Yen. You can start by reading about what affects the USDX, like interest rates, the U.S. economy, and global events. There are many websites and [books](/wiki/algo-trading-books) that can help you understand these things better. It's also a good idea to practice trading without real money first. Many online platforms offer demo accounts where you can trade the USDX and see how it goes without risking your own money.
 
 Once you feel ready, you can open an account with a broker that lets you trade the USDX. Make sure to choose a broker that is trusted and has good reviews. When you start trading, it's important to start small. Don't put all your money into one trade. Instead, try to spread it out so you don't lose everything if one trade goes wrong. Also, always keep an eye on the news and economic reports because they can change the value of the USDX quickly. Trading can be exciting, but it's also risky, so take your time and learn as you go.
 
@@ -52,7 +52,7 @@ One common way to trade the USDX is to use a trend-following strategy. This mean
 
 Another strategy is called range trading. This is when you see that the USDX is moving up and down between two levels without going too far in either direction. You can buy the USDX when it's near the bottom of the range and sell it when it's near the top. This way, you can make money from the small ups and downs. To do this, you need to watch the USDX closely and know where those levels are.
 
-A third strategy is news trading. This involves watching for big news events that can move the USDX a lot. Things like interest rate changes by the Federal Reserve or important economic reports can make the USDX jump up or down. If you think a news event will make the USDX go up, you can buy it before the news comes out. If you think it will go down, you can sell it or short it. This strategy can be riskier because the market can react in unexpected ways, but it can also be very rewarding if you get it right.
+A third strategy is news trading. This involves watching for big news events that can move the USDX a lot. Things like [interest rate](/wiki/interest-rate-trading-strategies) changes by the Federal Reserve or important economic reports can make the USDX jump up or down. If you think a news event will make the USDX go up, you can buy it before the news comes out. If you think it will go down, you can sell it or short it. This strategy can be riskier because the market can react in unexpected ways, but it can also be very rewarding if you get it right.
 
 ## How does the USDX impact global trade and economies?
 

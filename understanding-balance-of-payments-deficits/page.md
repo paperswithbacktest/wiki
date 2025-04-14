@@ -84,7 +84,7 @@ Another example is Brazil in the early 2000s. Brazil had been struggling with bi
 
 ## What is Understanding Economic Deficits?
 
-Deficits occur when a financial entity's expenditures surpass its revenues over a specific period. This financial phenomenon affects various economic agents, including governments, corporations, and individuals. Understanding the nuances of deficits is crucial for assessing economic stability and formulating effective policies.
+Deficits occur when a financial entity's expenditures surpass its revenues over a specific period. This financial phenomenon affects various economic [agents](/wiki/agents), including governments, corporations, and individuals. Understanding the nuances of deficits is crucial for assessing economic stability and formulating effective policies.
 
 For governments, fiscal deficits are a significant concern. A fiscal deficit arises when a government's total expenditures exceed the revenue it generates, excluding funds from borrowings. This situation often leads to an increase in national debt as governments borrow to cover the shortfall. Chronic fiscal deficits can affect a country's economic policy, as they may necessitate borrowing from domestic or international sources, leading to higher interest payments and potential crowding out of private investment. Persistent government deficits may also prompt policy adjustments, including tax reforms, spending cuts, or economic stimulus measures to foster growth and balance the budget.
 

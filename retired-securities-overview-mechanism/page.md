@@ -18,7 +18,7 @@ When a security is retired, it is usually taken off the company's balance sheet.
 
 Companies retire securities for a few main reasons. One reason is to clean up their financial situation. When a company has too many different types of securities, it can be hard to keep track of them all. By retiring some, the company can make its finances simpler and easier to manage. Another reason is to get rid of old securities that have reached their end date. When a bond or another type of security matures, the company has to pay it back. Retiring it means the company no longer has to worry about that debt.
 
-Another reason companies retire securities is to save money. For example, if a company has a bond that pays a high interest rate, it might retire that bond and issue a new one with a lower interest rate. This can help the company save money on interest payments. Sometimes, retiring securities can also make the company look better to investors. If a company can show that it is managing its debt well by retiring old securities, investors might feel more confident about investing in the company.
+Another reason companies retire securities is to save money. For example, if a company has a bond that pays a high [interest rate](/wiki/interest-rate-trading-strategies), it might retire that bond and issue a new one with a lower interest rate. This can help the company save money on interest payments. Sometimes, retiring securities can also make the company look better to investors. If a company can show that it is managing its debt well by retiring old securities, investors might feel more confident about investing in the company.
 
 ## How does the process of retiring securities work?
 

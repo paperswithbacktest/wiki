@@ -22,7 +22,7 @@ After dividing the standard deviation by the mean, you usually multiply the resu
 
 ## Why is the coefficient of variation useful in statistics?
 
-The coefficient of variation is really useful in statistics because it helps us understand how much a set of data varies compared to its average. It's like a special percentage that shows if the numbers in a group are spread out a lot or not so much. This is great because it lets us compare the spread of different groups of data, even if they have different units or different averages. For example, if you're looking at the weights of apples and the weights of oranges, you can use the coefficient of variation to see which fruit has more consistent weights, even though apples and oranges might weigh differently on average.
+The coefficient of variation is really useful in [statistics](/wiki/bayesian-statistics) because it helps us understand how much a set of data varies compared to its average. It's like a special percentage that shows if the numbers in a group are spread out a lot or not so much. This is great because it lets us compare the spread of different groups of data, even if they have different units or different averages. For example, if you're looking at the weights of apples and the weights of oranges, you can use the coefficient of variation to see which fruit has more consistent weights, even though apples and oranges might weigh differently on average.
 
 Another reason the coefficient of variation is helpful is that it's used in many different fields. In finance, it helps people figure out how risky different investments are by comparing how much their values go up and down. In quality control, it can show how reliable a manufacturing process is by measuring how much the products vary from the average. By using this measure, we can make better decisions based on how predictable or reliable our data is. It's a simple but powerful tool that makes it easier to understand and compare data in a meaningful way.
 
@@ -88,7 +88,7 @@ $$
 \text{CV} = \left( \frac{\sigma}{\mu} \right) \times 100\%
 $$
 
-In [algorithmic trading](/wiki/algorithmic-trading), the CV is an indispensable tool for assessing the risk-reward ratio of various securities. A lower CV indicates that the investment's returns have less relative volatility, which is usually more desirable for risk-averse traders. Conversely, a higher CV suggests greater relative volatility, which may appeal to traders willing to take on more risk for potentially higher returns.
+In [algorithmic trading](/wiki/algorithmic-trading), the CV is an indispensable tool for assessing the risk-reward ratio of various securities. A lower CV indicates that the investment's returns have less relative [volatility](/wiki/volatility-trading-strategies), which is usually more desirable for risk-averse traders. Conversely, a higher CV suggests greater relative volatility, which may appeal to traders willing to take on more risk for potentially higher returns.
 
 The CV is particularly beneficial because it provides a standardized measure of volatility that is independent of the unit of measurement, thereby facilitating direct comparison across different securities and asset classes. This capability is crucial in portfolio diversification, where the goal is to attain an optimal blend of assets that maximizes returns while minimizing risk.
 

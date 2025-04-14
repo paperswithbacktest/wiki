@@ -36,7 +36,7 @@ Once an investor knows their factor exposures, they can make better decisions ab
 
 Understanding factor exposure helps investors make smarter choices about their money. When you know which factors affect your investments, like size, value, or momentum, you can see why your portfolio goes up or down. This knowledge lets you pick investments that match what you want to achieve. If you see your portfolio is too focused on one factor, like tech stocks, you can add other types of investments to spread out the risk. This way, you can aim for a more stable and balanced performance over time.
 
-Also, knowing your factor exposure helps you manage risk better. If the market changes and suddenly doesn't like the factors your portfolio is exposed to, you'll be ready to make changes. For example, if you have a lot of value stocks and the market starts favoring growth stocks, you can adjust your investments to protect yourself. By keeping an eye on factor exposure, you can make your investment strategy stronger and more flexible, which can lead to better results in the long run.
+Also, knowing your factor exposure helps you manage risk better. If the market changes and suddenly doesn't like the factors your portfolio is exposed to, you'll be ready to make changes. For example, if you have a lot of value stocks and the market starts favoring [growth stocks](/wiki/growth-stocks), you can adjust your investments to protect yourself. By keeping an eye on factor exposure, you can make your investment strategy stronger and more flexible, which can lead to better results in the long run.
 
 ## Can factor exposure be managed or controlled? If so, how?
 

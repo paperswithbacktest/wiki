@@ -64,7 +64,7 @@ Using peer-to-peer lending for short-term investments can be a good way to earn 
 
 ## How can one evaluate the performance of short-term investments?
 
-Evaluating the performance of short-term investments is important to make sure your money is working well for you. One way to do this is by looking at the interest rate or yield you're getting. For example, if you have money in a savings account, you can check the interest rate the bank is giving you. Compare this rate to what other banks or types of short-term investments are offering. If another option gives you a higher interest rate, it might be a better choice for your money.
+Evaluating the performance of short-term investments is important to make sure your money is working well for you. One way to do this is by looking at the [interest rate](/wiki/interest-rate-trading-strategies) or yield you're getting. For example, if you have money in a savings account, you can check the interest rate the bank is giving you. Compare this rate to what other banks or types of short-term investments are offering. If another option gives you a higher interest rate, it might be a better choice for your money.
 
 Another thing to consider is how safe your investment is. Short-term investments like savings accounts and Treasury bills are very safe, so you won't lose your money. But with investments like peer-to-peer lending, there's more risk. You need to think about how much risk you're okay with and if the extra interest you might get is worth it. Also, think about how easy it is to get your money back if you need it. Savings accounts and money market funds let you take your money out anytime, but CDs might charge you a fee if you need your money before the time is up.
 

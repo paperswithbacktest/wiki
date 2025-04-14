@@ -28,7 +28,7 @@ Also, WARF helps in comparing different portfolios easily. If you're choosing be
 
 ## What are the typical components used in calculating WARF?
 
-To figure out the Weighted Average Rating Factor (WARF), you need to know about the different parts that go into it. First, you need the credit ratings of all the things in your portfolio, like loans or bonds. These ratings show how likely it is that you'll get your money back. Each rating gets turned into a number called a rating factor. For example, a really safe AAA-rated bond might have a low rating factor, while a riskier B-rated bond would have a higher one.
+To figure out the Weighted Average Rating Factor (WARF), you need to know about the different parts that go into it. First, you need the credit ratings of all the things in your portfolio, like loans or bonds. These ratings show how likely it is that you'll get your money back. Each rating gets turned into a number called a rating [factor](/wiki/factor-investing). For example, a really safe AAA-rated bond might have a low rating factor, while a riskier B-rated bond would have a higher one.
 
 Next, you need to know how much each of these things is worth in your portfolio. This is important because bigger investments should have a bigger say in the overall risk. You multiply each thing's rating factor by how much it's worth, then add all these numbers together. Finally, you divide this big total by the total value of everything in your portfolio. This gives you the WARF, which tells you about the overall risk of your investments in one simple number.
 

@@ -88,7 +88,7 @@ To make the effects of a sudden event less bad, organizations need to be careful
 
 Various factors influence the instantaneous impact of [algorithmic trading](/wiki/algorithmic-trading), significantly affecting the execution and results of trades. Crucial among these are market conditions, order size, and market depth.
 
-Market conditions play a pivotal role in determining the impact of a trade. Periods of low liquidity, characterized by fewer buyers and sellers, tend to amplify the effect of a trade on asset prices. In such conditions, a single trade consumes a substantial portion of available liquidity, leading to notable price fluctuations. This can be represented mathematically by the equation:
+Market conditions play a pivotal role in determining the impact of a trade. Periods of low [liquidity](/wiki/liquidity-risk-premium), characterized by fewer buyers and sellers, tend to amplify the effect of a trade on asset prices. In such conditions, a single trade consumes a substantial portion of available liquidity, leading to notable price fluctuations. This can be represented mathematically by the equation:
 
 $$
 \text{Impact} = \frac{\text{Trade Size}}{\text{Market Liquidity}}
@@ -118,7 +118,7 @@ $$
 
 where $L$ denotes market liquidity. Higher liquidity generally leads to smaller price changes for a given trade size, thereby reducing instantaneous impact. This function helps traders quantify the expected impact of their trades.
 
-Advanced risk management tools, relying upon machine learning and other analytical techniques, can predict these impacts more accurately and suggest optimal trade execution pathways. These tools can run simulations and back-tests to analyze various scenarios, helping traders to better prepare for potential adverse price movements.
+Advanced risk management tools, relying upon [machine learning](/wiki/machine-learning) and other analytical techniques, can predict these impacts more accurately and suggest optimal trade execution pathways. These tools can run simulations and back-tests to analyze various scenarios, helping traders to better prepare for potential adverse price movements.
 
 Through continuous monitoring and adjustment, these systems aim to minimize unexpected costs associated with trading, thereby enhancing the overall performance and stability of trading portfolios. As such, the role of instantaneous impact assessment is indispensable in achieving robust risk management in algorithmic trading.
 

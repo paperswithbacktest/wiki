@@ -34,7 +34,7 @@ Yield to maturity, on the other hand, looks at the total money you might get if 
 
 ## How does running yield relate to the coupon rate of a bond?
 
-Running yield and the coupon rate of a bond are related but they're not the same thing. The coupon rate is the yearly interest rate that the bond pays, based on its face value. For example, if a bond has a face value of $1,000 and a coupon rate of 5%, it will pay $50 in interest each year. This rate stays the same as long as you own the bond.
+Running yield and the coupon rate of a bond are related but they're not the same thing. The coupon rate is the yearly [interest rate](/wiki/interest-rate-trading-strategies) that the bond pays, based on its face value. For example, if a bond has a face value of $1,000 and a coupon rate of 5%, it will pay $50 in interest each year. This rate stays the same as long as you own the bond.
 
 Running yield, on the other hand, is figured out by dividing the yearly interest by what the bond costs right now. If that same bond with a $50 yearly interest is now selling for $900, the running yield would be about 5.56% ($50 divided by $900). So, while the coupon rate tells you the interest based on the bond's face value, the running yield tells you how much money you're making right now based on what you paid for the bond. This means the running yield can change as the bond's price changes, even though the coupon rate stays the same.
 
@@ -165,5 +165,5 @@ Financial analysis thus plays a pivotal role in optimizing portfolios. By accura
    - Explore quantitative finance forums and websites such as QuantConnect and QuantInsti, where practitioners share strategies and insights related to algorithmic trading and financial analysis.
    - Regularly review publications from financial institutions like BlackRock and Vanguard, which often include insights into yield calculations and their application in portfolio management. 
 
-These resources offer a rich foundation for anyone looking to expand their understanding of investment concepts, particularly running yield, financial analysis, and the implementation of algorithmic trading.
+These resources offer a rich foundation for anyone looking to expand their understanding of investment concepts, particularly running yield, financial analysis, and the implementation of [algorithmic trading](/wiki/algorithmic-trading).
 

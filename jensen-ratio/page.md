@@ -28,7 +28,7 @@ Once you have all these numbers, you can plug them into the formula. If the actu
 
 ## What does a positive Jensen’s Alpha indicate?
 
-A positive Jensen's Alpha means that an investment or a portfolio is doing better than expected. It shows that the actual return from the investment is higher than what you would predict based on how risky it is. This is a good sign for investors because it suggests that the portfolio manager is doing a great job at picking investments or managing the portfolio.
+A positive Jensen's Alpha means that an investment or a portfolio is doing better than expected. It shows that the actual return from the investment is higher than what you would predict based on how risky it is. This is a good sign for investors because it suggests that the portfolio manager is doing a great job at [picking](/wiki/asset-class-picking) investments or managing the portfolio.
 
 When you see a positive Jensen's Alpha, it tells you that the investment is outperforming the market, considering its level of risk. This can make investors feel confident that their money is in good hands. It's like getting a pat on the back for the portfolio manager, showing that they are adding value beyond just taking on more risk.
 
@@ -143,7 +143,7 @@ This function precisely mirrors the formula, allowing traders and analysts to ef
 
 ## How can Jensen’s Ratio be applied in financial analysis?
 
-In algorithmic trading, Jensen's Ratio serves as an essential tool for evaluating and comparing the effectiveness of different trading strategies. By measuring the risk-adjusted performance of a trading strategy, Jensen's Ratio helps traders to quantify whether a particular strategy has managed to outperform a benchmark market index after accounting for risk.
+In [algorithmic trading](/wiki/algorithmic-trading), Jensen's Ratio serves as an essential tool for evaluating and comparing the effectiveness of different trading strategies. By measuring the risk-adjusted performance of a trading strategy, Jensen's Ratio helps traders to quantify whether a particular strategy has managed to outperform a benchmark market index after accounting for risk.
 
 ### Role in Backtesting
 

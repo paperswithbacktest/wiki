@@ -46,7 +46,7 @@ On the other hand, if the market is not doing well and people are worried, they 
 
 ## What role do investor expectations play in rich valuation?
 
-Investor expectations are a big part of rich valuation. When people think a company will do really well in the future, they might be willing to pay a lot more for its stock right now. They believe the company will grow and make a lot of money down the road, so they see the high price as a good deal. This is why stocks with rich valuations often have high prices compared to what the company is earning right now.
+Investor expectations are a big part of rich valuation. When people think a company will do really well in the future, they might be willing to pay a lot more for its stock right now. They believe the company will grow and make a lot of money down the road, so they see the high price as a good deal. This is why stocks with rich valuations often have high prices compared to what the company is [earning](/wiki/earning-announcement) right now.
 
 But, these expectations can also make things risky. If the company doesn't grow as much as everyone hoped, the stock price could go down. People who paid a lot for the stock might lose money. So, rich valuation is all about balancing the hope for future growth with the risk of paying too much for that hope. It's like betting on a horse that everyone thinks will win, but there's always a chance it might not.
 

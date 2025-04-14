@@ -46,7 +46,7 @@ Another way to evaluate a decision tree is by using cross-validation. This means
 
 ## What are the advantages of using decision trees in machine learning?
 
-Decision trees are easy to understand and explain. They show decisions in a way that looks like a tree, with branches and leaves. This makes it simple for people to see how the tree makes choices. For example, if you're deciding whether to go for a walk, the tree might ask if it's raining first. If it's not raining, it might then ask if it's too hot. You can follow the tree step by step to see why it made a certain decision. This clear way of showing decisions makes decision trees great for explaining things to others who might not know a lot about machine learning.
+Decision trees are easy to understand and explain. They show decisions in a way that looks like a tree, with branches and leaves. This makes it simple for people to see how the tree makes choices. For example, if you're deciding whether to go for a walk, the tree might ask if it's raining first. If it's not raining, it might then ask if it's too hot. You can follow the tree step by step to see why it made a certain decision. This clear way of showing decisions makes decision trees great for explaining things to others who might not know a lot about [machine learning](/wiki/machine-learning).
 
 Another good thing about decision trees is that they can work with different types of data. They can be used for both classification and regression problems. In classification, the tree sorts data into different groups, like deciding if an email is spam or not. In regression, it can predict a number, like guessing the price of a house. Decision trees are also quick to train and can handle large datasets. However, they can sometimes overfit, which means they might work really well on the data they were trained on but not as well on new data. To fix this, you can use techniques like pruning or using random forests, which are groups of decision trees.
 
@@ -84,11 +84,11 @@ You can also use feature selection to improve decision trees. This means choosin
 
 ## What are Decision Trees in Supervised Learning?
 
-Decision trees are predominantly utilized in supervised learning scenarios, where they excel in addressing classification and regression problems. In the context of algorithmic trading, these models are invaluable for predicting future asset prices and classifying trading signals based on historical data.
+Decision trees are predominantly utilized in supervised learning scenarios, where they excel in addressing classification and regression problems. In the context of [algorithmic trading](/wiki/algorithmic-trading), these models are invaluable for predicting future asset prices and classifying trading signals based on historical data.
 
 The process begins by training the decision tree on labeled datasets, where the known parameters, such as buy or sell signals, are designated by the traders. This labeled data serves as a foundation for the decision tree to learn the relationships between different market factors and the associated trading signals. As a result, the model can optimize its structure to predict future market behaviors with greater accuracy.
 
-For example, when predicting future asset prices, a decision tree model might analyze historical price data along with various market indicators like moving averages, trading volume, and other financial metrics. By doing so, it constructs a series of decision rules that can predict whether the price of an asset will rise or fall in the future.
+For example, when predicting future asset prices, a decision tree model might analyze historical price data along with various market indicators like moving averages, trading [volume](/wiki/volume-trading-strategy), and other financial metrics. By doing so, it constructs a series of decision rules that can predict whether the price of an asset will rise or fall in the future.
 
 $$
 \text{Target} = \text{DecisionTreeClassifier().fit}( \text{features}, \text{labels})

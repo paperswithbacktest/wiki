@@ -110,7 +110,7 @@ These metrics are especially important for traders when evaluating a company's p
 
 ## How can Gross Margin be Integrated into Algorithmic Trading?
 
-Integrating gross margin into algorithmic trading strategies involves a thorough comprehension of production costs relative to revenue generation. Gross margin is defined as:
+Integrating gross margin into [algorithmic trading](/wiki/algorithmic-trading) strategies involves a thorough comprehension of production costs relative to revenue generation. Gross margin is defined as:
 
 $$
 \text{Gross Margin} = \frac{\text{Revenue} - \text{Cost of Goods Sold (COGS)}}{\text{Revenue}} \times 100
@@ -167,5 +167,5 @@ Kant, G. (2012). "Trading Systems: A New Approach to System Development and Port
 
 Sharpe, W. F. (1994). "The Sharpe Ratio" in the Journal of Portfolio Management presents the Sharpe Ratio, a widely used measure for assessing risk-adjusted returns on investment portfolios. Understanding this ratio is essential for traders and portfolio managers seeking to evaluate and enhance financial strategies based on reward-to-risk assessment.
 
-Pardo, R. (2008). "The Evaluation and Optimization of Trading Strategies" focuses on the systematic evaluation and enhancement of trading systems. Pardo's work is crucial for traders aiming to refine their strategies through rigorous backtesting and optimization processes, ensuring robust performance in diverse market conditions.
+Pardo, R. (2008). "The Evaluation and Optimization of Trading Strategies" focuses on the systematic evaluation and enhancement of trading systems. Pardo's work is crucial for traders aiming to refine their strategies through rigorous [backtesting](/wiki/backtesting) and optimization processes, ensuring robust performance in diverse market conditions.
 

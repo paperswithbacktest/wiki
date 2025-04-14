@@ -104,7 +104,7 @@ The intricate interplay between these theoretical foundations aids in understand
 
 ## What are the parallels between cosmology and algorithmic trading?
 
-Both cosmology and algorithmic trading harness sophisticated models to predict the behavior of extremely complex and dynamic systems—cosmology focuses on understanding the universe's evolution, while algorithmic trading seeks to anticipate market dynamics. This predictive modeling in both disciplines is paramount to gaining insights and making accurate predictions.
+Both cosmology and [algorithmic trading](/wiki/algorithmic-trading) harness sophisticated models to predict the behavior of extremely complex and dynamic systems—cosmology focuses on understanding the universe's evolution, while algorithmic trading seeks to anticipate market dynamics. This predictive modeling in both disciplines is paramount to gaining insights and making accurate predictions.
 
 In cosmology, models rely on principles such as Einstein's General Relativity and the Cosmological Principle, which assume that the universe is homogeneous and isotropic on large scales. These models must encompass the interactions of matter and energy, as well as the universe's geometry (open, closed, or flat). To predict the universe's expansion, cosmologists gather vast amounts of data, such as cosmic microwave background radiation and the distribution of galaxies, and create simulations to explore potential scenarios. Solving the Friedmann equations driven by these principles offers insights into the dynamics of cosmic expansion:
 

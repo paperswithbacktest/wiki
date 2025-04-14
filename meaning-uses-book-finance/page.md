@@ -82,7 +82,7 @@ Another technique they use is called ratio analysis. This means they look at dif
 
 ## What is Key Finance Terminology?
 
-Understanding finance terminology is crucial for comprehending market dynamics and making informed investment decisions. Several core terms underpin financial strategies and operations, including 'trading book,' 'alpha,' 'arbitrage,' and 'market [liquidity](/wiki/liquidity-risk-premium).'
+Understanding finance terminology is crucial for comprehending market dynamics and making informed investment decisions. Several core terms underpin financial strategies and operations, including 'trading book,' 'alpha,' '[arbitrage](/wiki/arbitrage),' and 'market [liquidity](/wiki/liquidity-risk-premium).'
 
 A 'trading book' refers to the portfolio of financial instruments held by a financial institution for the purpose of trading. These instruments include securities, commodities, and other assets that are actively managed to capitalize on market conditions. The trading book is marked to market daily, meaning it is revalued based on current market prices, enabling traders to assess their real-time gains or losses.
 

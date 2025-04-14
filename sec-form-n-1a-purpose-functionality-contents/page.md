@@ -42,7 +42,7 @@ Overall, SEC Form N-1A makes sure that mutual funds and ETFs share all the impor
 
 ## How often must SEC Form N-1A be updated?
 
-SEC Form N-1A needs to be updated whenever there are big changes to the mutual fund or ETF. This could be things like changing how the fund invests money, changing the fees, or if there are new risks that investors should know about. The fund has to tell the SEC about these changes by updating the form and sending it in. This makes sure that the information investors see is always up to date and honest.
+SEC Form N-1A needs to be updated whenever there are big changes to the mutual fund or [ETF](/wiki/etf-trading-strategies). This could be things like changing how the fund invests money, changing the fees, or if there are new risks that investors should know about. The fund has to tell the SEC about these changes by updating the form and sending it in. This makes sure that the information investors see is always up to date and honest.
 
 Also, the fund has to update the form at least once a year, even if nothing big has changed. This yearly update is called an annual update, and it helps keep everything fresh and accurate. By doing this, the SEC can keep watching over the funds and make sure they are still following the rules and giving investors all the information they need to make good choices.
 

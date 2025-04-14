@@ -100,7 +100,7 @@ With the emergence of [algorithmic trading](/wiki/algorithmic-trading), real-tim
 
 ## What is the impact on the oil economy?
 
-Fluctuations in crude oil inventories are a pivotal factor influencing the oil economy, with direct implications for pricing and investment strategies. The intricate balance between supply and demand is often reflected in inventory levels, which serve as a barometer for market conditions. When inventories rise, it typically signals an oversupply in the market, exerting downward pressure on prices. Conversely, reducing inventories suggests a tightening of supply, often leading to price increases.
+Fluctuations in crude oil inventories are a pivotal [factor](/wiki/factor-investing) influencing the oil economy, with direct implications for pricing and investment strategies. The intricate balance between supply and demand is often reflected in inventory levels, which serve as a barometer for market conditions. When inventories rise, it typically signals an oversupply in the market, exerting downward pressure on prices. Conversely, reducing inventories suggests a tightening of supply, often leading to price increases.
 
 Price [volatility](/wiki/volatility-trading-strategies) in the oil market has far-reaching consequences. Industries heavily reliant on oil, such as transportation, manufacturing, and agriculture, experience direct impacts on their operating costs. This volatility can ripple through the broader economy, influencing inflation rates, consumer spending, and monetary policy decisions.
 

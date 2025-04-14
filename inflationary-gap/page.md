@@ -22,7 +22,7 @@ Because there's too much demand, businesses start to raise their prices. This is
 
 ## What are the main causes of an inflationary gap?
 
-An inflationary gap happens when people want to buy more things than what the economy can make. This extra demand can come from people earning more money. When people have more money, they spend more on stuff like cars, houses, and other things they want. The government can also cause an inflationary gap by spending a lot of money on things like building roads or helping people. When the government spends a lot, it puts more money into the economy, making people want to buy even more.
+An inflationary gap happens when people want to buy more things than what the economy can make. This extra demand can come from people [earning](/wiki/earning-announcement) more money. When people have more money, they spend more on stuff like cars, houses, and other things they want. The government can also cause an inflationary gap by spending a lot of money on things like building roads or helping people. When the government spends a lot, it puts more money into the economy, making people want to buy even more.
 
 Another cause can be when other countries buy a lot from us. If other countries want our stuff, it can make demand go up a lot. Even things like low interest rates can cause an inflationary gap. When borrowing money is cheap, people and businesses take out loans to buy things or invest, which adds to the demand. All these things together can make people want to buy more than what businesses can make, causing prices to go up and leading to inflation.
 

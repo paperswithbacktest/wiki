@@ -130,7 +130,7 @@ By understanding and strategically managing these drivers, businesses can optimi
 
 ## How can financial analysis be integrated into trading strategies?
 
-Incorporating financial analysis into trading strategies has become a cornerstone of modern algorithmic trading. Central to this integration are financial ratios, such as the current ratio and quick ratio, which provide insights into a company's short-term financial health. These ratios are foundational in evaluating market conditions and forecasting stock movements.
+Incorporating financial analysis into trading strategies has become a cornerstone of modern [algorithmic trading](/wiki/algorithmic-trading). Central to this integration are financial ratios, such as the current ratio and quick ratio, which provide insights into a company's short-term financial health. These ratios are foundational in evaluating market conditions and forecasting stock movements.
 
 The current ratio, defined as:
 

@@ -66,7 +66,7 @@ Using a stop-loss order can help manage investment risks by automatically protec
 
 Fundamental analysis is a way to figure out if a stock is a good buy by looking at the company's basic details. It's like doing a health check on a company. You look at things like how much money the company makes, how much it owes, and how well it's growing. By understanding these numbers, you can guess if the stock's price is fair or if it's too high or too low. This can help you decide if you should buy the stock or not.
 
-Amateur investors can use fundamental analysis to make smarter choices. Start by looking at the company's financial reports, which you can find online. Pay attention to the company's earnings, which show how much profit it's making. Also, check the price-to-earnings (P/E) ratio, which tells you if the stock is pricey compared to its earnings. If the P/E ratio is low, the stock might be a good deal. By doing this homework, you can feel more confident about your investments and pick stocks that have a good chance of doing well over time.
+Amateur investors can use [fundamental analysis](/wiki/fundamental-analysis) to make smarter choices. Start by looking at the company's financial reports, which you can find online. Pay attention to the company's earnings, which show how much profit it's making. Also, check the price-to-earnings (P/E) ratio, which tells you if the stock is pricey compared to its earnings. If the P/E ratio is low, the stock might be a good deal. By doing this homework, you can feel more confident about your investments and pick stocks that have a good chance of doing well over time.
 
 ## How can 'technical analysis' assist amateur investors in timing their market entries and exits?
 

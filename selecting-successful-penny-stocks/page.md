@@ -48,11 +48,11 @@ On the other hand, a bad management team can hurt the company a lot. If the peop
 
 ## What are some common strategies for trading penny stocks?
 
-One common strategy for trading penny stocks is called "momentum trading." This means you buy a stock when its price is going up fast and sell it before it goes down. People who use this strategy look for news or events that might make the stock price go up a lot. They try to get in early and get out before the price drops. This can be exciting, but it's also risky because the price can change very quickly.
+One common strategy for trading penny stocks is called "[momentum](/wiki/momentum) trading." This means you buy a stock when its price is going up fast and sell it before it goes down. People who use this strategy look for news or events that might make the stock price go up a lot. They try to get in early and get out before the price drops. This can be exciting, but it's also risky because the price can change very quickly.
 
 Another strategy is "long-term investing." This is when you buy a penny stock and hold onto it for a long time, hoping the company will grow and the stock price will go up a lot. People who do this look for companies with good ideas and strong management teams. They believe that if the company does well over time, they will make money. This strategy takes patience and a lot of research, but it can be less stressful than trying to time the market.
 
-Some people also use a strategy called "scalping." This means buying and selling penny stocks very quickly, sometimes within the same day, to make small profits. Scalpers look for small changes in the stock price and try to make money from these tiny movements. This strategy needs a lot of attention and quick decisions, and it can be hard to make a lot of money this way, but it can add up over time if you do it right.
+Some people also use a strategy called "[scalping](/wiki/gamma-scalping)." This means buying and selling penny stocks very quickly, sometimes within the same day, to make small profits. Scalpers look for small changes in the stock price and try to make money from these tiny movements. This strategy needs a lot of attention and quick decisions, and it can be hard to make a lot of money this way, but it can add up over time if you do it right.
 
 ## How can one identify potential penny stock frauds or scams?
 

@@ -30,7 +30,7 @@ Overall, the central bank uses monetary policy to make sure the economy is balan
 
 ## What are the different types of monetary policy tools?
 
-The central bank uses different tools to manage the economy. One main tool is changing the interest rate. This is the cost of borrowing money. When the central bank lowers the interest rate, it's cheaper for people and businesses to borrow money. They spend more, and the economy grows. When the central bank raises the interest rate, borrowing becomes more expensive. People and businesses spend less, which can help control inflation.
+The central bank uses different tools to manage the economy. One main tool is changing the [interest rate](/wiki/interest-rate-trading-strategies). This is the cost of borrowing money. When the central bank lowers the interest rate, it's cheaper for people and businesses to borrow money. They spend more, and the economy grows. When the central bank raises the interest rate, borrowing becomes more expensive. People and businesses spend less, which can help control inflation.
 
 Another tool the central bank uses is buying or selling government bonds. When the central bank buys bonds, it puts more money into the economy. This can help the economy grow. When it sells bonds, it takes money out of the economy. This can help slow down inflation. By using these tools, the central bank can control how much money is in the economy and help it stay balanced.
 
@@ -130,5 +130,5 @@ Thus, central banks must carefully calibrate monetary policy to maintain a delic
 
 10. Shleifer, A., & Vishny, R. W. (1997). "The Limits of Arbitrage." The Journal of Finance, 52(1), 35-55. This article discusses constraints faced by arbitrageurs in financial markets, relevant for understanding risks in algorithmic strategies.
 
-These resources provide a comprehensive foundation for understanding the intricate relationships between central bank policies and algorithmic trading in the context of modern financial markets.
+These resources provide a comprehensive foundation for understanding the intricate relationships between central bank policies and [algorithmic trading](/wiki/algorithmic-trading) in the context of modern financial markets.
 

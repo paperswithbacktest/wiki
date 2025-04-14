@@ -38,7 +38,7 @@ The formula for Pearson's r looks like this: r = Σ[(X - X_mean) * (Y - Y_mean)]
 
 ## What does a correlation coefficient of 0 indicate?
 
-A correlation coefficient of 0 means there's no linear relationship between the two sets of numbers you're looking at. Imagine you have two sets of numbers, like the number of hours people sleep and the number of books they read. If the correlation between these two is 0, it means that knowing how many hours someone sleeps doesn't help you guess how many books they read. The numbers don't move together in a straight line at all.
+A correlation coefficient of 0 means there's no linear relationship between the two sets of numbers you're looking at. Imagine you have two sets of numbers, like the number of hours people sleep and the number of [books](/wiki/algo-trading-books) they read. If the correlation between these two is 0, it means that knowing how many hours someone sleeps doesn't help you guess how many books they read. The numbers don't move together in a straight line at all.
 
 This doesn't mean the two things are completely unrelated, though. They might still have a different kind of relationship, like a curve instead of a straight line. For example, maybe people read more books when they sleep a little or a lot, but not when they sleep a medium amount. A correlation of 0 just tells you that if you draw a straight line through the data points, it won't fit well at all.
 

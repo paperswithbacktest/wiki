@@ -70,7 +70,7 @@ Depreciation affects fixed assets by reducing their value on the balance sheet o
 
 ## How does the liquidity of current assets impact a company's financial health?
 
-The liquidity of current assets is really important for a company's financial health. Liquidity means how quickly something can be turned into cash. Current assets, like cash, money that customers owe the company, and stuff the company plans to sell soon, are all very liquid. This means the company can use these assets to pay its short-term bills quickly. If a company has a lot of liquid current assets, it can easily cover its short-term costs, like paying suppliers or employees. This makes the company financially healthy because it can handle its money needs without problems.
+The [liquidity](/wiki/liquidity-risk-premium) of current assets is really important for a company's financial health. Liquidity means how quickly something can be turned into cash. Current assets, like cash, money that customers owe the company, and stuff the company plans to sell soon, are all very liquid. This means the company can use these assets to pay its short-term bills quickly. If a company has a lot of liquid current assets, it can easily cover its short-term costs, like paying suppliers or employees. This makes the company financially healthy because it can handle its money needs without problems.
 
 If a company doesn't have enough liquid current assets, it might have trouble paying its bills on time. This can lead to financial stress and even trouble with the company's operations. For example, if the company can't pay its suppliers, it might not get the materials it needs to make its products. Or if it can't pay its employees, they might leave. So, having enough liquid current assets is key to keeping the company running smoothly and staying financially healthy. It's like having enough money in your pocket to cover your daily expenses without worrying.
 
@@ -136,7 +136,7 @@ In summary, the meticulous classification of assets into fixed and current categ
 
 ## References & Further Reading
 
-To deepen your understanding of asset classification and its impact on algorithmic trading, a range of academic and industry resources are available. These materials offer valuable insights into the dynamics of financial asset management and trading strategies, ensuring you can effectively integrate asset classification principles into your trading systems.
+To deepen your understanding of asset classification and its impact on [algorithmic trading](/wiki/algorithmic-trading), a range of academic and industry resources are available. These materials offer valuable insights into the dynamics of financial asset management and trading strategies, ensuring you can effectively integrate asset classification principles into your trading systems.
 
 1. **Textbooks**:
    - "Financial Accounting: An Introduction to Concepts, Methods, and Uses" by Roman L. Weil, Katherine Schipper, and Jennifer Francis provides a comprehensive overview of financial reporting and asset classification.

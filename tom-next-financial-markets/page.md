@@ -18,7 +18,7 @@ The main purpose of a Tom-Next swap is to manage the interest rate differential 
 
 Tom-Next, or Tomorrow-Next, is a special kind of forex swap that happens over a very short time. It starts with buying a currency that settles the next business day, and then selling it back two business days later. This is different from other forex swaps because it's meant for very short periods, usually just one day. Other forex swaps can last for weeks, months, or even years, depending on what the trader needs.
 
-The main reason traders use Tom-Next swaps is to keep their trading positions open without having to actually exchange the money. This helps them avoid the costs of settling the trade and lets them keep trading without interruption. Other forex swaps might be used for longer-term strategies, like hedging against future currency changes or managing long-term interest rate differences. So, while Tom-Next is all about short-term flexibility, other swaps focus on longer-term financial planning.
+The main reason traders use Tom-Next swaps is to keep their trading positions open without having to actually exchange the money. This helps them avoid the costs of settling the trade and lets them keep trading without interruption. Other [forex](/wiki/forex-system) swaps might be used for longer-term strategies, like hedging against future currency changes or managing long-term [interest rate](/wiki/interest-rate-trading-strategies) differences. So, while Tom-Next is all about short-term flexibility, other swaps focus on longer-term financial planning.
 
 ## Why is Tom-Next important for currency traders?
 
@@ -42,7 +42,7 @@ These costs are usually pretty small, but they can add up if you're trading a lo
 
 Tom-Next swaps can help keep the forex market liquid. Liquidity means there are lots of buyers and sellers, so you can easily trade without big price changes. When traders use Tom-Next swaps to roll over their positions, they don't have to close their trades and take their money out of the market. This means more money stays in the market, which can keep it liquid and make it easier for everyone to trade.
 
-However, Tom-Next swaps can also affect liquidity in a different way. If lots of traders are using these swaps at the same time, it can create big demand for certain currencies on the days when the swaps are settled. This can lead to temporary changes in liquidity, making it harder to trade at those times. So, while Tom-Next swaps can help keep the market liquid overall, they can also cause some short-term changes in how easy it is to trade.
+However, Tom-Next swaps can also affect [liquidity](/wiki/liquidity-risk-premium) in a different way. If lots of traders are using these swaps at the same time, it can create big demand for certain currencies on the days when the swaps are settled. This can lead to temporary changes in liquidity, making it harder to trade at those times. So, while Tom-Next swaps can help keep the market liquid overall, they can also cause some short-term changes in how easy it is to trade.
 
 ## What are the risks involved in using Tom-Next transactions?
 

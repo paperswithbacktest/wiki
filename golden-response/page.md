@@ -33,7 +33,7 @@ The key part of training with Golden Response is the comparison step. The model 
 
 ## What types of data are typically used in Golden Response machine learning?
 
-In Golden Response machine learning, the types of data used are usually examples where experts have given the perfect answer for each input. This can include text, like sentences for language translation or questions for customer service chatbots. It can also include images, where experts label what is in the picture, or even numbers, like stock prices where the perfect prediction is given by financial experts.
+In Golden Response [machine learning](/wiki/machine-learning), the types of data used are usually examples where experts have given the perfect answer for each input. This can include text, like sentences for language translation or questions for customer service chatbots. It can also include images, where experts label what is in the picture, or even numbers, like stock prices where the perfect prediction is given by financial experts.
 
 These datasets are very important because they set a high standard for the model to learn from. For example, in a language translation task, the data might be pairs of sentences in different languages, with the Golden Response being the best translation possible. In medical diagnosis, the data could be patient symptoms and test results, with the Golden Response being the correct diagnosis given by doctors. By training on these perfect examples, the model learns to give the best possible answers for new inputs.
 

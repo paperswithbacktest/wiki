@@ -23,7 +23,7 @@ A common way to measure Inter-Rater Agreement is by using Cohen's Kappa. This st
 
 Inter-Rater Agreement is often measured using Cohen's Kappa, which looks at how much two people agree when labeling the same data, but also takes into account the agreement that might happen by chance. If Cohen's Kappa is close to 1, it means the agreement is very good. If it's close to 0, it means the agreement might just be by chance. For example, if two people are labeling images as either "cat" or "dog," Cohen's Kappa helps us understand if their agreement is meaningful or not.
 
-Another common metric is the Percentage Agreement, which is simpler. It just calculates the percentage of times two people agree on their labels. For instance, if out of 100 images, two people agree on 80 of them, the Percentage Agreement is 80%. While this is easy to understand, it doesn't account for chance agreement like Cohen's Kappa does. Both metrics are useful but serve different purposes in ensuring the data used for training machine learning models is reliable.
+Another common metric is the Percentage Agreement, which is simpler. It just calculates the percentage of times two people agree on their labels. For instance, if out of 100 images, two people agree on 80 of them, the Percentage Agreement is 80%. While this is easy to understand, it doesn't account for chance agreement like Cohen's Kappa does. Both metrics are useful but serve different purposes in ensuring the data used for training [machine learning](/wiki/machine-learning) models is reliable.
 
 ## How do you calculate Cohen's Kappa for Inter-Rater Agreement?
 
@@ -33,7 +33,7 @@ The formula for Cohen's Kappa is $$ \kappa = \frac{P_o - P_e}{1 - P_e} $$, where
 
 ## What is the difference between Cohen's Kappa and Fleiss' Kappa?
 
-Cohen's Kappa and Fleiss' Kappa are both statistics used to measure agreement between raters, but they are used in slightly different situations. Cohen's Kappa is used when there are exactly two raters labeling the same set of items. It calculates the agreement between these two raters while accounting for the agreement that could happen by chance. The formula for Cohen's Kappa is $$ \kappa = \frac{P_o - P_e}{1 - P_e} $$, where \( P_o \) is the observed agreement and \( P_e \) is the expected agreement.
+Cohen's Kappa and Fleiss' Kappa are both [statistics](/wiki/bayesian-statistics) used to measure agreement between raters, but they are used in slightly different situations. Cohen's Kappa is used when there are exactly two raters labeling the same set of items. It calculates the agreement between these two raters while accounting for the agreement that could happen by chance. The formula for Cohen's Kappa is $$ \kappa = \frac{P_o - P_e}{1 - P_e} $$, where \( P_o \) is the observed agreement and \( P_e \) is the expected agreement.
 
 On the other hand, Fleiss' Kappa is used when there are more than two raters. It measures the agreement among multiple raters for a fixed number of items. Like Cohen's Kappa, it also takes into account the agreement that might occur by chance. The formula for Fleiss' Kappa is a bit more complex because it involves averaging the agreement across all pairs of raters. Both Kappa statistics are important in ensuring the reliability of data, especially in fields like machine learning where accurate labeling is crucial for training models.
 

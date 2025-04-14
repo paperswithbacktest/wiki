@@ -24,7 +24,7 @@ Farming is also a seasonal industry. Farmers plant different crops at different 
 
 ## How do seasonal industries affect the economy?
 
-Seasonal industries can have a big impact on the economy. When these industries are busy, they create a lot of jobs and make a lot of money. This is good for the economy because more people are working and spending money. For example, during the summer, tourism businesses like hotels and restaurants hire more workers and see more customers. This helps the local economy grow because people are earning and spending more money.
+Seasonal industries can have a big impact on the economy. When these industries are busy, they create a lot of jobs and make a lot of money. This is good for the economy because more people are working and spending money. For example, during the summer, tourism businesses like hotels and restaurants hire more workers and see more customers. This helps the local economy grow because people are [earning](/wiki/earning-announcement) and spending more money.
 
 But when the busy season ends, these industries can slow down a lot. This can be bad for the economy because fewer people are working and spending money. For example, after the summer, many tourism businesses might close or cut back on hours, and workers might lose their jobs or have less money to spend. This can make the economy slow down in those areas. So, seasonal industries can make the economy go up and down throughout the year.
 

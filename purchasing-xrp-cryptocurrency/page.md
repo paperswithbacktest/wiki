@@ -24,7 +24,7 @@ Another reason to buy XRP is that it's used by banks and big financial companies
 
 You can buy XRP on many different websites that let you trade cryptocurrencies. Some popular places to buy XRP are Coinbase, Binance, and Kraken. These websites are like online stores where you can use your money to buy XRP. You'll need to create an account on one of these websites, add some money to your account, and then you can buy XRP.
 
-Another way to buy XRP is through a special kind of machine called a cryptocurrency ATM. These machines are like regular ATMs, but instead of just giving you cash, they let you buy cryptocurrencies like XRP. You can find these machines in some cities, and you can use cash or a debit card to buy XRP from them. Just make sure to check if the ATM supports XRP before you go.
+Another way to buy XRP is through a special kind of machine called a [cryptocurrency](/wiki/cryptocurrency) ATM. These machines are like regular ATMs, but instead of just giving you cash, they let you buy cryptocurrencies like XRP. You can find these machines in some cities, and you can use cash or a debit card to buy XRP from them. Just make sure to check if the ATM supports XRP before you go.
 
 ## What are the steps to set up a wallet for XRP?
 
@@ -46,7 +46,7 @@ Once you have XRP, there are also fees for sending it to someone else or to your
 
 ## What are the security measures one should take when purchasing XRP?
 
-When buying XRP, it's important to keep your money and information safe. First, choose a good exchange that has strong security. Look for exchanges that have two-factor authentication, which means you need to enter a code from your phone to log in. Also, make sure the exchange has insurance to protect your money if something goes wrong. When you add money to the exchange, use a strong password and never share it with anyone. It's also a good idea to use a different email and password for the exchange than you use for other websites.
+When buying XRP, it's important to keep your money and information safe. First, choose a good exchange that has strong security. Look for exchanges that have two-[factor](/wiki/factor-investing) authentication, which means you need to enter a code from your phone to log in. Also, make sure the exchange has insurance to protect your money if something goes wrong. When you add money to the exchange, use a strong password and never share it with anyone. It's also a good idea to use a different email and password for the exchange than you use for other websites.
 
 Once you have XRP, keep it safe by using a personal wallet instead of leaving it on the exchange. Personal wallets are safer because they give you more control over your XRP. When you send XRP to your wallet, double-check the wallet address to make sure you're sending it to the right place. If you're using a computer or phone to buy XRP, make sure it has good security software to protect against viruses and hackers. Always be careful of emails or messages that ask for your personal information or try to trick you into clicking on bad links. By following these steps, you can help keep your XRP safe.
 
@@ -80,7 +80,7 @@ When investing in XRP, one advanced trading strategy you can use is called dolla
 
 Another strategy is called swing trading. This is when you try to buy XRP when the price is low and sell it when the price goes up. You need to watch the price charts and market trends closely to find the best times to buy and sell. This can be riskier because you have to make quick decisions, but it can also be more rewarding if you get it right. To do this well, you might want to use technical analysis, which means looking at past price movements to predict what might happen next. This strategy takes more time and skill, but it can help you make more money if you're good at it.
 
-A third strategy is called arbitrage. This is when you take advantage of the difference in XRP prices on different exchanges. For example, if XRP is cheaper on one exchange than another, you can buy it on the cheaper exchange and sell it on the more expensive one to make a profit. This requires you to have accounts on multiple exchanges and to move XRP quickly between them. Arbitrage can be a good way to make money if you're fast and careful, but it also comes with risks, like fees and the chance that prices might change while you're moving your XRP.
+A third strategy is called [arbitrage](/wiki/arbitrage). This is when you take advantage of the difference in XRP prices on different exchanges. For example, if XRP is cheaper on one exchange than another, you can buy it on the cheaper exchange and sell it on the more expensive one to make a profit. This requires you to have accounts on multiple exchanges and to move XRP quickly between them. Arbitrage can be a good way to make money if you're fast and careful, but it also comes with risks, like fees and the chance that prices might change while you're moving your XRP.
 
 ## References & Further Reading
 

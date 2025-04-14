@@ -118,7 +118,7 @@ Apple Inc. Annual Reports serve as practical examples of how a leading company h
 
 The Coca-Cola Company Annual Reports provide another case study of intangible assets management, particularly customer loyalty and brand recognition. These reports illustrate how Coca-Cola quantifies and reports its intangible assets, offering insights into how such assets impact financial health and investor perceptions [4].
 
-Books and articles on financial reporting and algorithmic trading offer deeper insights into how balance sheet data, including valuations of intangible assets, can be incorporated into algorithmic trading models. These resources explore the methodologies and techniques for integrating complex data sets into automated trading systems, enhancing decision-making and optimizing financial strategies [5].
+Books and articles on financial reporting and [algorithmic trading](/wiki/algorithmic-trading) offer deeper insights into how balance sheet data, including valuations of intangible assets, can be incorporated into algorithmic trading models. These resources explore the methodologies and techniques for integrating complex data sets into automated trading systems, enhancing decision-making and optimizing financial strategies [5].
 
 References:
 1. IFRS Foundation. (Year). "International Financial Reporting Standards".

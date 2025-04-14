@@ -82,7 +82,7 @@ Submitting SEC Form 424B5 on time is just as important as preparing it correctly
 
 One example of an SEC Form 424B5 filing is from Tesla, Inc. In 2020, Tesla filed Form 424B5 to update information about a new stock offering. They wanted to sell more shares to raise money for their business. The form included details about how many shares they were selling, the price of the shares, and any risks people should know about before buying them. It also had new information that wasn't in their original prospectus, like updates on their financial situation. This helped investors make informed decisions about whether to buy Tesla's stock.
 
-Another example is from Johnson & Johnson. In 2021, they filed Form 424B5 to provide updates on a bond offering. They wanted to sell bonds to raise money for their company. The form included information about the bonds, like how much they were selling, the interest rate, and any risks involved. It also had new details about their business that weren't in the original prospectus. By filing this form, Johnson & Johnson made sure that everyone who might want to buy their bonds had the latest information to help them decide.
+Another example is from Johnson & Johnson. In 2021, they filed Form 424B5 to provide updates on a bond offering. They wanted to sell bonds to raise money for their company. The form included information about the bonds, like how much they were selling, the [interest rate](/wiki/interest-rate-trading-strategies), and any risks involved. It also had new details about their business that weren't in the original prospectus. By filing this form, Johnson & Johnson made sure that everyone who might want to buy their bonds had the latest information to help them decide.
 
 ## References & Further Reading
 

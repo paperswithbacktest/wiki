@@ -24,7 +24,7 @@ To calculate IRR, you need to know all the cash flows from the investment, both 
 
 CAGR, or Compound Annual Growth Rate, and IRR, or Internal Rate of Return, are both ways to measure how well an investment is doing, but they do it in different ways. CAGR looks at the growth of an investment over time and gives you an average yearly growth rate. It's simple to calculate and is great for comparing how different investments have grown over time. You just need to know the starting value, the ending value, and how many years it took to get from start to finish.
 
-On the other hand, IRR is a bit more complex. It figures out the rate at which the total gains from an investment equal the total costs. IRR takes into account all the money coming in and going out at different times during the investment period. It's like finding the interest rate that makes the total value of all those cash flows equal to zero. IRR is useful for deciding if an investment is worth doing because it shows you the average annual return you can expect.
+On the other hand, IRR is a bit more complex. It figures out the rate at which the total gains from an investment equal the total costs. IRR takes into account all the money coming in and going out at different times during the investment period. It's like finding the [interest rate](/wiki/interest-rate-trading-strategies) that makes the total value of all those cash flows equal to zero. IRR is useful for deciding if an investment is worth doing because it shows you the average annual return you can expect.
 
 In short, while CAGR gives you a straightforward average growth rate over time, IRR gives you a more detailed look at the profitability of an investment, considering all cash flows. Both are helpful, but they tell you different things about your investment's performance.
 
@@ -135,7 +135,7 @@ In summary, understanding and leveraging CAGR empowers investors with a comprehe
 
 ## How can IRR and CAGR be integrated in algo trading?
 
-Algorithmic trading, widely adopted in contemporary finance, utilizes advanced computational techniques to execute trading decisions with precision and speed. The integration of Internal Rate of Return (IRR) and Compound Annual Growth Rate (CAGR) into algorithmic trading models can significantly enhance these systems' effectiveness, providing valuable insights for optimizing investment strategies.
+Algorithmic trading, widely adopted in contemporary finance, utilizes advanced computational techniques to execute trading decisions with precision and speed. The integration of Internal Rate of Return (IRR) and Compound Annual Growth Rate (CAGR) into [algorithmic trading](/wiki/algorithmic-trading) models can significantly enhance these systems' effectiveness, providing valuable insights for optimizing investment strategies.
 
 ### Incorporating IRR in Algorithmic Models
 

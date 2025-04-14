@@ -18,7 +18,7 @@ By combining these two methods, quantamental trading tries to get the best of bo
 
 Quantamental trading mixes the power of computers with the insights of human analysis. It uses quantitative methods, which involve math and big data, to find patterns and trends in the market. This helps investors spot opportunities quickly and make decisions based on hard numbers. For example, a computer can analyze tons of stock prices and trading volumes to predict how a stock might move in the future.
 
-On the other hand, quantamental trading also relies on fundamental analysis, where people look at a company's financial health, its management team, and what's happening in the world around it. This helps investors understand the story behind the numbers and make more informed decisions. By combining these two approaches, quantamental trading aims to get a fuller picture of an investment's potential, using both data-driven insights and human judgment to guide investment choices.
+On the other hand, quantamental trading also relies on [fundamental analysis](/wiki/fundamental-analysis), where people look at a company's financial health, its management team, and what's happening in the world around it. This helps investors understand the story behind the numbers and make more informed decisions. By combining these two approaches, quantamental trading aims to get a fuller picture of an investment's potential, using both data-driven insights and human judgment to guide investment choices.
 
 ## What are the key components of a quantamental trading strategy?
 
@@ -48,9 +48,9 @@ But data isn't the whole story in quantamental trading. Traders also use data to
 
 ## What are some common tools and technologies used in quantamental trading?
 
-In quantamental trading, traders use special computer programs to look at lots of data. These programs are called data analysis software, and they help find patterns in things like stock prices and trading volumes. Some popular tools include Python, which is a programming language that's good for working with numbers, and R, another language that's great for statistics. Traders also use platforms like Bloomberg Terminal, which gives them real-time data and news to help make quick decisions.
+In quantamental trading, traders use special computer programs to look at lots of data. These programs are called data analysis software, and they help find patterns in things like stock prices and trading volumes. Some popular tools include Python, which is a programming language that's good for working with numbers, and R, another language that's great for [statistics](/wiki/bayesian-statistics). Traders also use platforms like Bloomberg Terminal, which gives them real-time data and news to help make quick decisions.
 
-Another important tool is machine learning. This is a type of computer technology that can learn from data and get better over time. Traders use machine learning to make predictions about the market and find new investment opportunities. They also use databases to store all their data, and data visualization tools like Tableau to make charts and graphs that help them see what's going on more clearly. By using these tools together, traders can mix the power of computers with their own understanding of companies to make smart investment choices.
+Another important tool is [machine learning](/wiki/machine-learning). This is a type of computer technology that can learn from data and get better over time. Traders use machine learning to make predictions about the market and find new investment opportunities. They also use databases to store all their data, and data visualization tools like Tableau to make charts and graphs that help them see what's going on more clearly. By using these tools together, traders can mix the power of computers with their own understanding of companies to make smart investment choices.
 
 ## What are the advantages of quantamental trading over traditional trading methods?
 
@@ -72,7 +72,7 @@ It's also helpful to compare your quantamental strategy to other ways of trading
 
 ## Can you provide case studies or examples of successful quantamental trading strategies?
 
-One example of a successful quantamental trading strategy is the approach used by Renaissance Technologies, a hedge fund known for its Medallion Fund. They use computers to analyze huge amounts of data, looking for patterns that can help predict how investments will do. But they also use fundamental analysis to understand the bigger picture of companies. By combining these two methods, Renaissance Technologies has been able to make a lot of money for their investors. Their strategy shows how mixing data-driven insights with human judgment can lead to great results in the market.
+One example of a successful quantamental trading strategy is the approach used by Renaissance Technologies, a [hedge fund](/wiki/hedge-fund-trading-strategies) known for its Medallion Fund. They use computers to analyze huge amounts of data, looking for patterns that can help predict how investments will do. But they also use fundamental analysis to understand the bigger picture of companies. By combining these two methods, Renaissance Technologies has been able to make a lot of money for their investors. Their strategy shows how mixing data-driven insights with human judgment can lead to great results in the market.
 
 Another example is the quantamental approach taken by Two Sigma, another successful hedge fund. Two Sigma uses advanced computer models to look at data from many different sources, like stock prices and news articles. They also have experts who study companies in detail, looking at things like financial health and management. By using both computer power and human insight, Two Sigma has been able to find good investment opportunities and make smart decisions. Their success shows that a quantamental strategy can help traders do well in a changing market.
 
@@ -80,7 +80,7 @@ Another example is the quantamental approach taken by Two Sigma, another success
 
 To make a quantamental trading strategy even better, you can use something called machine learning. This is when computers learn from data and get better at making predictions over time. By using machine learning, you can find patterns in the market that are hard to see with just regular computer programs. It can also help you adjust your strategy as the market changes, so you're always using the most up-to-date information. This can lead to smarter investment choices and possibly higher returns.
 
-Another advanced technique is using alternative data. This means looking at information that's not usually used in trading, like social media posts, satellite images, or credit card transactions. By adding this kind of data to your analysis, you can get a fuller picture of what's happening in the market and with companies. It can help you spot trends and opportunities that others might miss. Combining alternative data with the numbers from traditional data sources can make your quantamental strategy even stronger.
+Another advanced technique is using [alternative data](/wiki/best-alternative-data). This means looking at information that's not usually used in trading, like social media posts, satellite images, or credit card transactions. By adding this kind of data to your analysis, you can get a fuller picture of what's happening in the market and with companies. It can help you spot trends and opportunities that others might miss. Combining alternative data with the numbers from traditional data sources can make your quantamental strategy even stronger.
 
 ## References & Further Reading
 

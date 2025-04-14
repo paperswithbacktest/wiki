@@ -24,7 +24,7 @@ Another type of loan for investment is a home equity loan. This is when you borr
 
 Using a loan for investment can help you make more money. If you invest in something that grows in value or gives you regular income, like stocks or a rental property, the returns could be more than the interest you pay on the loan. This means you could end up with more money than you started with. For example, if you borrow money to buy a rental property, the rent you collect could cover the loan payments and even give you extra money.
 
-Another benefit is that it lets you start investing even if you don't have a lot of money saved up. Instead of waiting years to save enough, you can borrow the money now and start earning returns right away. This can be especially helpful if you believe the investment will go up in value soon. However, it's important to be careful and make sure the investment is likely to be successful, because if it doesn't work out, you'll still have to pay back the loan.
+Another benefit is that it lets you start investing even if you don't have a lot of money saved up. Instead of waiting years to save enough, you can borrow the money now and start [earning](/wiki/earning-announcement) returns right away. This can be especially helpful if you believe the investment will go up in value soon. However, it's important to be careful and make sure the investment is likely to be successful, because if it doesn't work out, you'll still have to pay back the loan.
 
 ## What are the risks associated with borrowing money for investment?
 

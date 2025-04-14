@@ -58,7 +58,7 @@ Another way to tell is by keeping an eye on the timing of trades. If a trader se
 
 ## What technological tools are used to facilitate or prevent trading ahead?
 
-Technology plays a big role in both making trading ahead easier and helping to stop it. Some tools, like high-frequency trading (HFT) systems, can make trading ahead happen faster. These systems use powerful computers to make trades in a blink of an eye. If a broker knows about a big order coming, they can use these fast systems to trade ahead of their client's order. This can make the price change quickly, which is not fair to the client.
+Technology plays a big role in both making trading ahead easier and helping to stop it. Some tools, like high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) systems, can make trading ahead happen faster. These systems use powerful computers to make trades in a blink of an eye. If a broker knows about a big order coming, they can use these fast systems to trade ahead of their client's order. This can make the price change quickly, which is not fair to the client.
 
 But technology also helps to stop trading ahead. Regulators use special software to watch the market and catch people who might be trading ahead. These programs look for strange patterns in trading, like if someone always makes a trade just before a big order from a client goes through. Also, trading platforms have systems that can hide big orders until the last moment, making it harder for brokers to trade ahead. By using these tools, regulators and trading platforms try to keep the market fair for everyone.
 

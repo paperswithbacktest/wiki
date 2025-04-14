@@ -34,9 +34,9 @@ The SOES system was meant to help small investors get better prices on their tra
 
 ## What were the typical strategies used by SOES Bandits?
 
-SOES Bandits used a strategy called "scalping." They would watch the stock prices very closely. When they saw a stock price go up or down a little, they would quickly buy or sell the stock. They did this to make money from the small price changes. They used fast computers and internet connections to do this faster than other people.
+SOES Bandits used a strategy called "[scalping](/wiki/gamma-scalping)." They would watch the stock prices very closely. When they saw a stock price go up or down a little, they would quickly buy or sell the stock. They did this to make money from the small price changes. They used fast computers and internet connections to do this faster than other people.
 
-Another strategy they used was called "momentum trading." They would look for stocks that were moving a lot in one direction. If a stock was going up, they would buy it quickly and then sell it when the price went up a bit more. If a stock was going down, they would sell it short and then buy it back when the price went down a bit more. This way, they could make money from the stock's movement.
+Another strategy they used was called "[momentum](/wiki/momentum) trading." They would look for stocks that were moving a lot in one direction. If a stock was going up, they would buy it quickly and then sell it when the price went up a bit more. If a stock was going down, they would sell it short and then buy it back when the price went down a bit more. This way, they could make money from the stock's movement.
 
 These strategies worked because the SOES system was set up to handle small trades quickly. The bandits took advantage of this to make quick profits. They were able to do this because they had fast computers and internet connections, which let them trade faster than other people.
 
@@ -78,7 +78,7 @@ The SOES Bandits also taught us about the need for fair rules in trading. When t
 
 ## How have the tactics of SOES Bandits evolved in today's trading environment?
 
-The tactics used by SOES Bandits have changed a lot since the 1990s. Today, traders use high-frequency trading (HFT) systems to do what the bandits did, but on a much bigger scale. HFT uses very fast computers and special software to buy and sell stocks in just a few seconds. These systems can look at lots of data and make trades very quickly. They can take advantage of small price changes, just like the SOES Bandits did, but they do it much faster and with more trades.
+The tactics used by SOES Bandits have changed a lot since the 1990s. Today, traders use high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) systems to do what the bandits did, but on a much bigger scale. HFT uses very fast computers and special software to buy and sell stocks in just a few seconds. These systems can look at lots of data and make trades very quickly. They can take advantage of small price changes, just like the SOES Bandits did, but they do it much faster and with more trades.
 
 The rules for trading have also changed a lot since the days of the SOES Bandits. Now, there are more rules to stop people from taking advantage of the system. These rules try to make sure that everyone has a fair chance to trade. Even though HFT is very fast, it has to follow these rules. This means that while the tactics of the SOES Bandits have evolved into more advanced forms, the trading world is always trying to balance speed with fairness.
 

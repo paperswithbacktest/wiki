@@ -78,7 +78,7 @@ Another advanced metric you can get from an equity curve is the Maximum Drawdown
 
 Machine learning can help predict future movements of an equity curve by looking at past data and finding patterns. Imagine you're trying to guess what will happen next in a story by reading the earlier parts. Machine learning does something similar with numbers. It uses special math to learn from the ups and downs of the equity curve in the past. Once it understands these patterns, it can make guesses about where the curve might go next. This can help you decide when to buy or sell your investments to make more money.
 
-To use machine learning for this, you need a lot of past data on your equity curve. You feed this data into a computer program that uses machine learning algorithms. These algorithms, like neural networks or decision trees, look for signs in the data that show what might happen next. They can pick up on things that are hard for people to see, like tiny changes in the curve that might mean a big jump or drop is coming. By using these predictions, you can try to stay one step ahead and make smarter choices about your investments.
+To use [machine learning](/wiki/machine-learning) for this, you need a lot of past data on your equity curve. You feed this data into a computer program that uses machine learning algorithms. These algorithms, like neural networks or decision trees, look for signs in the data that show what might happen next. They can pick up on things that are hard for people to see, like tiny changes in the curve that might mean a big jump or drop is coming. By using these predictions, you can try to stay one step ahead and make smarter choices about your investments.
 
 ## What is the understanding of Equity Curves?
 

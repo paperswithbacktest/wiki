@@ -122,7 +122,7 @@ adjusted_prices, adjusted_volumes = adjust_for_reverse_split(historical_prices, 
 
 ### Algorithm Adaptation
 
-Post-adjustment, it is critical for algorithms to reassess technical indicators and trading thresholds that might have shifted due to changes in the stock's volatility profile. For instance, recalibrating risk parameters and ensuring that models re-evaluate historical patterns is indispensable. This is particularly crucial when employing [machine learning](/wiki/machine-learning) models trained on historical data.
+Post-adjustment, it is critical for algorithms to reassess technical indicators and trading thresholds that might have shifted due to changes in the stock's [volatility](/wiki/volatility-trading-strategies) profile. For instance, recalibrating risk parameters and ensuring that models re-evaluate historical patterns is indispensable. This is particularly crucial when employing [machine learning](/wiki/machine-learning) models trained on historical data.
 
 Incorporating reverse stock splits into [algorithmic trading](/wiki/algorithmic-trading) strategies requires a holistic approach to data accuracy and algorithm flexibility. Monitoring these adjustments and ensuring that trading models adapt in real-time help capitalize on the opportunities provided by these corporate actions. By doing so, traders can not only preserve but potentially enhance their trading strategies in the face of such market events.
 

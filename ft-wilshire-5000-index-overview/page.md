@@ -58,7 +58,7 @@ The FT Wilshire 5000 Index can also help investors see how their own investments
 
 ## What are the criteria for a company to be included in or excluded from the FT Wilshire 5000 Index?
 
-A company can be included in the FT Wilshire 5000 Index if it is a U.S. company that trades on a major U.S. stock exchange, like the New York Stock Exchange or Nasdaq. The company also needs to meet certain size and liquidity requirements. Size means how big the company is, and liquidity means how easy it is to buy and sell its stocks. If a company is big enough and its stocks are traded often, it can be added to the index. The index is updated every quarter to make sure it still shows a good picture of the whole U.S. market.
+A company can be included in the FT Wilshire 5000 Index if it is a U.S. company that trades on a major U.S. stock exchange, like the New York Stock Exchange or Nasdaq. The company also needs to meet certain size and [liquidity](/wiki/liquidity-risk-premium) requirements. Size means how big the company is, and liquidity means how easy it is to buy and sell its stocks. If a company is big enough and its stocks are traded often, it can be added to the index. The index is updated every quarter to make sure it still shows a good picture of the whole U.S. market.
 
 A company can be taken out of the FT Wilshire 5000 Index if it no longer meets the size or liquidity requirements. For example, if a company gets smaller or if fewer people are buying and selling its stocks, it might be removed. Also, if a company stops trading on a U.S. stock exchange, it will be taken out of the index. The index managers look at these things every three months to decide if any companies should be added or removed. This way, the FT Wilshire 5000 Index stays up-to-date and keeps showing the health of the whole U.S. stock market.
 
@@ -72,7 +72,7 @@ Rebalancing means adjusting the weights of the companies in the index. This make
 
 There are different investment products that follow the FT Wilshire 5000 Index. One common type is an index fund. An index fund tries to match the performance of the index by holding all the stocks in it. So, if you invest in an FT Wilshire 5000 Index fund, you are basically investing in almost every company in the U.S. stock market. This can be a good way to spread your money across many different companies and reduce risk.
 
-Another type of investment product linked to the FT Wilshire 5000 Index is an exchange-traded fund (ETF). An ETF is similar to an index fund but trades on a stock exchange like a regular stock. This means you can buy and sell it throughout the day. An ETF that follows the FT Wilshire 5000 Index gives investors a way to invest in the whole U.S. market while having the flexibility to trade whenever they want. Both index funds and ETFs help investors get a broad view of the market's performance.
+Another type of investment product linked to the FT Wilshire 5000 Index is an exchange-traded fund ([ETF](/wiki/etf-trading-strategies)). An ETF is similar to an index fund but trades on a stock exchange like a regular stock. This means you can buy and sell it throughout the day. An ETF that follows the FT Wilshire 5000 Index gives investors a way to invest in the whole U.S. market while having the flexibility to trade whenever they want. Both index funds and ETFs help investors get a broad view of the market's performance.
 
 ## How can advanced investors use the FT Wilshire 5000 Index for strategic investment decisions?
 

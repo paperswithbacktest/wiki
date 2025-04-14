@@ -28,7 +28,7 @@ Another safe investment for risk-averse investors is government bonds. These are
 
 ## How can savings accounts be used as a low-risk investment option?
 
-Savings accounts are a great choice for people who want to keep their money safe and grow it a little bit. When you put your money in a savings account, the bank pays you interest. This interest is like a small reward for letting the bank use your money. The interest rate might not be very high, but it's steady and predictable. That means you know how much your money will grow over time, which makes it a low-risk investment.
+Savings accounts are a great choice for people who want to keep their money safe and grow it a little bit. When you put your money in a savings account, the bank pays you interest. This interest is like a small reward for letting the bank use your money. The [interest rate](/wiki/interest-rate-trading-strategies) might not be very high, but it's steady and predictable. That means you know how much your money will grow over time, which makes it a low-risk investment.
 
 Another reason savings accounts are low risk is that they are usually protected by the government. In many countries, there is something called deposit insurance. This means if the bank has problems and can't give you your money back, the government will step in and make sure you get your money. This makes savings accounts one of the safest places to keep your money. So, if you're someone who wants to avoid risk and just wants your money to be safe and grow a little, a savings account is a good choice.
 

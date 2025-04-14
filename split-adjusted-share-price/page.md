@@ -124,7 +124,7 @@ In summary, stock splits are a strategic tool used by companies to enhance [liqu
 
 ## What is the relationship between Algorithmic Trading and Stock Splits?
 
-Algorithmic trading is a form of trading where computers execute orders based on pre-defined criteria using automation and precise calculation, significantly enhancing trading efficiency in modern financial markets. This method leverages algorithms to process vast amounts of data rapidly, making decisions at speeds impossible for a human trader. A critical aspect of algorithmic trading is handling historical data, where adjustments for corporate actions, such as stock splits, are essential to maintain accuracy in trading strategies.
+Algorithmic trading is a form of trading where computers execute orders based on pre-defined criteria using automation and precise calculation, significantly enhancing trading efficiency in modern financial markets. This method leverages algorithms to process vast amounts of data rapidly, making decisions at speeds impossible for a human trader. A critical aspect of [algorithmic trading](/wiki/algorithmic-trading) is handling historical data, where adjustments for corporate actions, such as stock splits, are essential to maintain accuracy in trading strategies.
 
 Stock splits do not alter the intrinsic value of a company; however, they impact the nominal share price and the number of outstanding shares. For effective trading strategies, algorithms must use split-adjusted data to ensure that any analysis or prediction based on historical prices remains accurate and relevant. Adjusted prices are recalculated to account for the adjustments caused by splits, preventing misleading interpretations of past performance.
 

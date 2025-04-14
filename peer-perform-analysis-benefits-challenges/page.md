@@ -30,7 +30,7 @@ Analysts also pay attention to the company's profit margins, which tell them how
 
 ## Can you explain the process of conducting a Peer Perform analysis?
 
-To do a Peer Perform analysis, analysts start by picking a group of similar companies in the same industry. They look at important numbers like how much money these companies are making, their earnings growth, and their price-to-earnings ratio. They also check the company's revenue growth and profit margins. By comparing these numbers across the group, analysts can see if a company is doing about the same as its peers.
+To do a Peer Perform analysis, analysts start by [picking](/wiki/asset-class-picking) a group of similar companies in the same industry. They look at important numbers like how much money these companies are making, their earnings growth, and their price-to-earnings ratio. They also check the company's revenue growth and profit margins. By comparing these numbers across the group, analysts can see if a company is doing about the same as its peers.
 
 After gathering all this information, analysts use it to decide if a stock should get a Peer Perform rating. They look at how the company's numbers stack up against the industry average. If the company's earnings growth, revenue growth, and other key metrics are similar to the average of its peers, the stock might get a Peer Perform rating. This tells investors that the stock is expected to perform about the same as other companies in its industry.
 
@@ -72,7 +72,7 @@ These changes help make sure that Peer Perform ratings stay useful for investors
 
 ## What advanced techniques can be used to enhance the accuracy of Peer Perform analysis?
 
-To make Peer Perform analysis more accurate, analysts can use advanced techniques like machine learning. Machine learning can look at a lot of data quickly and find patterns that might be hard for people to see. For example, it can look at how a company's stock price moves with things like news about the company or changes in the economy. By using this information, analysts can get a better idea of how a stock will do compared to its peers.
+To make Peer Perform analysis more accurate, analysts can use advanced techniques like [machine learning](/wiki/machine-learning). Machine learning can look at a lot of data quickly and find patterns that might be hard for people to see. For example, it can look at how a company's stock price moves with things like news about the company or changes in the economy. By using this information, analysts can get a better idea of how a stock will do compared to its peers.
 
 Another technique is to use more detailed industry benchmarks. Instead of just comparing a company to the average of its industry, analysts can break down the industry into smaller groups. This way, they can compare a company to others that are very similar in size, what they do, or where they sell their products. This can give a more accurate Peer Perform rating because it's based on a closer match to the company's situation.
 

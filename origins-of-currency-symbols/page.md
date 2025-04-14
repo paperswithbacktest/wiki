@@ -92,7 +92,7 @@ Popper, N. (2015). *Digital Gold: Bitcoin and the Inside Story*. Harper.
 This work dives into the origins and rise of Bitcoin, offering an insightful narrative of the [cryptocurrency](/wiki/cryptocurrency) movement. Popper discusses the technology's potential to revolutionize financial systems and the challenges associated with digital currency adoption.
 
 Chan, E. P. *Algorithmic Trading: Winning Strategies and Their Rationale*.  
-Chan's work focuses on algorithmic trading strategies and the underlying logic that makes them successful. It provides a detailed guide to designing and implementing algorithmic trading systems, highlighting key considerations for trading currencies and other financial instruments.
+Chan's work focuses on [algorithmic trading](/wiki/algorithmic-trading) strategies and the underlying logic that makes them successful. It provides a detailed guide to designing and implementing algorithmic trading systems, highlighting key considerations for trading currencies and other financial instruments.
 
 Kroszner, R. S., & Obstfeld, M. (2014). *Lessons from the Financial Crisis*. Federal Reserve Bank of Kansas City Symposium.  
 This publication presents analyses and retrospectives on the 2008 financial crisis. Kroszner and Obstfeld discuss the crisis's impact on global markets, the responses from financial institutions and governments, and the lessons learned to prevent future economic disruptions.

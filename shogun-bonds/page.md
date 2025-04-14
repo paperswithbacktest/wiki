@@ -58,7 +58,7 @@ The rating agencies look at many things to decide the grade. They check the comp
 
 ## What is the process for issuing Shogun Bonds in Japan?
 
-To issue Shogun Bonds in Japan, a foreign company first needs to decide how much money they want to borrow and how long they need to pay it back. They work with a bank or a financial advisor to help them plan everything. The company then creates the bond documents, which explain how much the bond is worth, the interest rate, and when the money needs to be paid back. They also need to get their bonds rated by a credit rating agency. This helps investors know how safe their investment is.
+To issue Shogun Bonds in Japan, a foreign company first needs to decide how much money they want to borrow and how long they need to pay it back. They work with a bank or a financial advisor to help them plan everything. The company then creates the bond documents, which explain how much the bond is worth, the [interest rate](/wiki/interest-rate-trading-strategies), and when the money needs to be paid back. They also need to get their bonds rated by a credit rating agency. This helps investors know how safe their investment is.
 
 After preparing everything, the company works with an underwriter, which is usually a bank, to sell the bonds to investors in Japan. The underwriter helps find people who want to buy the bonds and makes sure the process goes smoothly. Once the bonds are sold, the company gets the money they need in Japanese yen. They then have to make regular interest payments to the investors and pay back the full amount when the bond reaches its due date.
 

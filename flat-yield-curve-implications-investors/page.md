@@ -22,7 +22,7 @@ It can be a sign that the economy might be slowing down. When people think the e
 
 ## How is a flat yield curve different from a normal or inverted yield curve?
 
-A flat yield curve shows that the interest rates for short-term and long-term bonds are almost the same. Normally, people expect to get more money for waiting longer with their money, so a normal yield curve slopes upwards. But when the yield curve is flat, it means people are not sure about the future of the economy. They might think the economy will not grow much, so they are okay with getting the same interest rate for both short and long periods.
+A flat yield curve shows that the interest rates for short-term and long-term bonds are almost the same. Normally, people expect to get more money for waiting longer with their money, so a normal yield curve slopes upwards. But when the yield curve is flat, it means people are not sure about the future of the economy. They might think the economy will not grow much, so they are okay with getting the same [interest rate](/wiki/interest-rate-trading-strategies) for both short and long periods.
 
 An inverted yield curve is different because it slopes downwards. This happens when the interest rates for long-term bonds are lower than for short-term bonds. It's a big sign that people think the economy might get worse soon, maybe even go into a recession. They want to lock in the higher short-term rates because they think rates will drop in the future.
 

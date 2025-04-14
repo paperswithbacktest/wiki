@@ -84,7 +84,7 @@ Another strategy is to use 'straddle' trades around big news events. A straddle 
 
 ## How is the spread calculated in the Forex market?
 
-The spread in the forex market is calculated as the difference between the ask price and the bid price of a currency pair. This spread serves as a transaction cost for trading activities and directly influences a trader's potential profit margin. In mathematical terms, it can be represented as:
+The spread in the [forex](/wiki/forex-system) market is calculated as the difference between the ask price and the bid price of a currency pair. This spread serves as a transaction cost for trading activities and directly influences a trader's potential profit margin. In mathematical terms, it can be represented as:
 
 $$
 \text{Spread} = \text{Ask Price} - \text{Bid Price}

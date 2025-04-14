@@ -106,7 +106,7 @@ Investors and stakeholders rely on understanding these financial performance met
 
 ## What are some Case Studies and Real-World Applications?
 
-Utility companies, essential to the energy sector, can significantly benefit from algorithmic trading strategies that leverage detailed financial analyses and performance metrics. This section explores specific case studies to illustrate how algorithmic trading, enriched with methodologies like DuPont Analysis, is applied to enhance trade strategies based on insights from profit margins and financial data.
+Utility companies, essential to the energy sector, can significantly benefit from [algorithmic trading](/wiki/algorithmic-trading) strategies that leverage detailed financial analyses and performance metrics. This section explores specific case studies to illustrate how algorithmic trading, enriched with methodologies like DuPont Analysis, is applied to enhance trade strategies based on insights from profit margins and financial data.
 
 A notable instance is the application of algorithmic trading by Duke Energy, one of the largest electric power holding companies in the United States. By analyzing their financial statements, traders can deploy algorithms to automate investment decisions. For instance, using historical financial data such as return on equity (ROE), profit margins, and operational efficiencies, algorithms can be programmed to trigger buy or sell actions when specific thresholds are met. 
 

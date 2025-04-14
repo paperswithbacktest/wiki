@@ -86,7 +86,7 @@ Another way to improve a bounty system is by making sure the work is checked car
 
 Reinforcement learning (RL) involves creating algorithms that learn optimal trading strategies through reward functions. These functions serve to evaluate actions based on their outcomes, with the primary objective being the maximization of long-term trading profit. The reward function is pivotal in guiding the learning process, as it provides the algorithm with the feedback necessary to gauge the success or failure of its actions.
 
-In the context of algorithmic trading, a reward function might be defined to reflect profit and loss, taking into account transaction costs and risk adjustments. For instance, a simple reward function could be:
+In the context of [algorithmic trading](/wiki/algorithmic-trading), a reward function might be defined to reflect profit and loss, taking into account transaction costs and risk adjustments. For instance, a simple reward function could be:
 
 $$
 R_t = P_t - C_t

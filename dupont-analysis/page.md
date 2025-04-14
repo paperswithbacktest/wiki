@@ -114,7 +114,7 @@ This breakdown is invaluable for investors seeking a detailed understanding of a
 
 For those seeking to deepen their understanding of DuPont Analysis and its applications, a wealth of resources is available across various media. Books such as "Financial Intelligence" by Karen Berman and Joe Knight offer foundational knowledge, while "The Warren Buffett Way" by Robert G. Hagstrom provides insights into its use in value investing. For academic perspectives, journals like the "Journal of Finance" and "Financial Analysts Journal" frequently publish articles dissecting ROE analysis and its efficacy in different economic contexts.
 
-Python programming offers robust tools for financial analysis, facilitating automation and the integration of DuPont Analysis with algorithmic trading strategies. Libraries such as NumPy, pandas, and matplotlib can be used to calculate and visualize DuPont metrics. The following Python snippet demonstrates how to compute the components of DuPont Analysis:
+Python programming offers robust tools for financial analysis, facilitating automation and the integration of DuPont Analysis with [algorithmic trading](/wiki/algorithmic-trading) strategies. Libraries such as NumPy, pandas, and matplotlib can be used to calculate and visualize DuPont metrics. The following Python snippet demonstrates how to compute the components of DuPont Analysis:
 
 ```python
 import pandas as pd

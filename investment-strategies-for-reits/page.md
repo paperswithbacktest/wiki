@@ -32,7 +32,7 @@ Once you know about REITs, you can start investing through a brokerage account. 
 
 When choosing a REIT to invest in, one of the first things to look at is the type of properties it owns. Different REITs focus on different kinds of real estate, like apartments, shopping centers, or office buildings. Each type can have different risks and rewards. For example, apartment REITs might be more stable because people always need a place to live, while retail REITs can be riskier because shopping habits can change.
 
-Another key factor is the financial health of the REIT. You want to look at things like the dividend yield, which tells you how much money you might get back from your investment. Also, check the payout ratio to see if the REIT is paying out more money than it's making, which could be a red flag. It's also good to look at the REIT's debt levels because too much debt can be risky.
+Another key [factor](/wiki/factor-investing) is the financial health of the REIT. You want to look at things like the dividend yield, which tells you how much money you might get back from your investment. Also, check the payout ratio to see if the REIT is paying out more money than it's making, which could be a red flag. It's also good to look at the REIT's debt levels because too much debt can be risky.
 
 Lastly, consider the management team and the REIT's track record. A good management team can make smart decisions that help the REIT grow and perform well. You can also look at how the REIT has done in the past to see if it's been a good investment. Remember, past performance doesn't guarantee future results, but it can give you a sense of what to expect.
 

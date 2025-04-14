@@ -28,7 +28,7 @@ The agent learns by trying different actions and seeing what rewards it gets. It
 
 ## How can deep reinforcement learning be applied to financial trading?
 
-Deep reinforcement learning can be used in financial trading to help make better decisions about buying and selling stocks or other financial assets. In this setup, the computer, or agent, learns to trade by trying different actions and seeing what happens. It uses a deep neural network to understand the market and make predictions. The agent gets a reward when it makes a good trade and a penalty when it makes a bad one. Over time, it learns to make trades that lead to higher rewards, which means making more money.
+Deep reinforcement learning can be used in financial trading to help make better decisions about buying and selling stocks or other financial assets. In this setup, the computer, or agent, learns to trade by trying different actions and seeing what happens. It uses a deep [neural network](/wiki/neural-network) to understand the market and make predictions. The agent gets a reward when it makes a good trade and a penalty when it makes a bad one. Over time, it learns to make trades that lead to higher rewards, which means making more money.
 
 This method is useful because financial markets can be very hard to predict. Traditional methods might use past data to guess what will happen next, but they don't always work well because the market can change quickly. With deep reinforcement learning, the agent can keep learning and adapting to new situations. It can learn from its mistakes and improve its trading strategy. This could lead to better performance in the long run, helping traders make more profitable decisions.
 
@@ -66,7 +66,7 @@ It's also important to have data that's up to date and covers a long time period
 
 ## How can one evaluate the performance of a deep reinforcement learning trading model?
 
-To evaluate the performance of a deep reinforcement learning trading model, you need to look at how well it does in the market. One way to do this is by checking its returns, which means seeing how much money it makes or loses over time. You can compare these returns to a simple strategy like buying and holding stocks or to other trading models to see if it's doing better. Another important thing to look at is how much risk the model takes. You want to know if it makes big bets that could lead to big losses, so you can check things like how much the returns go up and down, which is called volatility.
+To evaluate the performance of a deep reinforcement learning trading model, you need to look at how well it does in the market. One way to do this is by checking its returns, which means seeing how much money it makes or loses over time. You can compare these returns to a simple strategy like buying and holding stocks or to other trading models to see if it's doing better. Another important thing to look at is how much risk the model takes. You want to know if it makes big bets that could lead to big losses, so you can check things like how much the returns go up and down, which is called [volatility](/wiki/volatility-trading-strategies).
 
 It's also helpful to test the model in different situations to see how it handles them. You can use past data to pretend the market is going through different times, like a bull market where prices go up a lot or a bear market where prices go down. This way, you can see if the model can make good trades no matter what's happening. Another thing to do is to keep an eye on the model as it trades in real time. This helps you catch any problems early and make sure it's still working well. By looking at all these things, you can get a good idea of how well the deep reinforcement learning trading model is doing and if it's worth using.
 
@@ -102,7 +102,7 @@ A clean and well-organized dataset enables AI models to learn more effectively a
 
 ## How can you design an environment for creating a virtual stock market?
 
-Creating a simulated environment for testing deep reinforcement learning (DRL) models is a critical step in developing a robust algorithmic trading system. This environment serves as a safe space where AI models can engage in trading activities, accumulating experience without incurring financial risks. Designing such a virtual stock market requires a comprehensive understanding of several key elements, including state space, action space, reward systems, and market dynamics.
+Creating a simulated environment for testing deep reinforcement learning (DRL) models is a critical step in developing a robust [algorithmic trading](/wiki/algorithmic-trading) system. This environment serves as a safe space where AI models can engage in trading activities, accumulating experience without incurring financial risks. Designing such a virtual stock market requires a comprehensive understanding of several key elements, including state space, action space, reward systems, and market dynamics.
 
 **State Space**
 
@@ -136,7 +136,7 @@ More sophisticated reward structures might account for risk-adjusted returns or 
 
 **Market Dynamics**
 
-Simulating realistic market dynamics is essential to create a credible trading environment. This involves modeling the stochastic nature of market movements, including price fluctuations, liquidity, and [order book](/wiki/order-book-trading-strategies) behavior. These dynamics can be represented using historical data playback, stochastic differential equations, or complex agent-based models that mimic different market participants.
+Simulating realistic market dynamics is essential to create a credible trading environment. This involves modeling the stochastic nature of market movements, including price fluctuations, [liquidity](/wiki/liquidity-risk-premium), and [order book](/wiki/order-book-trading-strategies) behavior. These dynamics can be represented using historical data playback, stochastic differential equations, or complex agent-based models that mimic different market participants.
 
 **Simulating Trading Experience**
 

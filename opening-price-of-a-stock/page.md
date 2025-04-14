@@ -76,13 +76,13 @@ These strategies can also affect the opening price by trying to find the best pr
 
 ## What advanced statistical models are used to predict the opening price of a stock?
 
-Advanced statistical models used to predict the opening price of a stock often include time series analysis and machine learning techniques. Time series analysis looks at past prices and other data to find patterns that can help guess what the opening price might be. For example, it might use data like the closing price from the day before, how the stock has moved in the past, and even things like how the overall market did. By understanding these patterns, the model can make a prediction about where the stock might open.
+Advanced statistical models used to predict the opening price of a stock often include time series analysis and [machine learning](/wiki/machine-learning) techniques. Time series analysis looks at past prices and other data to find patterns that can help guess what the opening price might be. For example, it might use data like the closing price from the day before, how the stock has moved in the past, and even things like how the overall market did. By understanding these patterns, the model can make a prediction about where the stock might open.
 
 Machine learning models, like neural networks and regression models, are also used to predict the opening price. These models can look at a lot of different information at once, such as news articles, social media posts, and economic reports, to find clues about how people feel about the stock. They learn from this data over time to get better at predicting the opening price. Both time series analysis and machine learning try to use all the information available to make the best guess about what the opening price will be.
 
 ## How can we optimize strategy performance?
 
-Optimizing strategy performance in algorithmic trading involves both risk management and diversification, as well as the integration of various types of market data. Effective risk management ensures that potential losses are minimized, allowing traders to maintain financial stability. Diversification, on the other hand, spreads exposure across different assets or instruments, reducing the impact of adverse price movements in any single position.
+Optimizing strategy performance in [algorithmic trading](/wiki/algorithmic-trading) involves both risk management and diversification, as well as the integration of various types of market data. Effective risk management ensures that potential losses are minimized, allowing traders to maintain financial stability. Diversification, on the other hand, spreads exposure across different assets or instruments, reducing the impact of adverse price movements in any single position.
 
 **Risk Management**
 
@@ -102,7 +102,7 @@ $$
 
 **Diversification**
 
-Diversification involves spreading investments across various financial instruments to mitigate unsystematic risk. By holding a diverse portfolio, traders can reduce the volatility of returns as poor performance in one investment is offset by better performance in another. Techniques for diversification include:
+Diversification involves spreading investments across various financial instruments to mitigate unsystematic risk. By holding a diverse portfolio, traders can reduce the [volatility](/wiki/volatility-trading-strategies) of returns as poor performance in one investment is offset by better performance in another. Techniques for diversification include:
 
 - **Asset Allocation:** Diversifying across asset classes like equities, bonds, commodities, and currencies can safeguard against market-specific risks.
 

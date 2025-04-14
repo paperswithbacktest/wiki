@@ -54,7 +54,7 @@ These events also help people learn more about stamps and make them more interes
 
 The rarity of a stamp is a big reason why it can be worth a lot of money. If there are only a few of a certain stamp in the world, it becomes very special. People who collect stamps want to have these rare ones in their collections. Because so many people want them and there are not many to go around, the price goes up. It's like if you have a toy that nobody else has; other kids might want to trade a lot to get it from you.
 
-When a stamp is rare, it can also become more famous. People might write about it in books or show it on TV. This makes even more people want to see it or own it. The more people talk about a rare stamp, the more valuable it becomes. So, rarity is not just about how few stamps there are; it's also about how much attention and interest those stamps get.
+When a stamp is rare, it can also become more famous. People might write about it in [books](/wiki/algo-trading-books) or show it on TV. This makes even more people want to see it or own it. The more people talk about a rare stamp, the more valuable it becomes. So, rarity is not just about how few stamps there are; it's also about how much attention and interest those stamps get.
 
 ## What are the investment aspects of philately and how do they compare to other investments?
 

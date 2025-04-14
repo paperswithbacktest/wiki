@@ -84,7 +84,7 @@ After buying the new software, TechGrow didn't stop there. They kept adding to t
 
 ## What are Key Financial Terms Explained?
 
-Understanding financial terms is crucial for interpreting financial statements and making informed business decisions. Some of the core terms that are foundational to business finance include equity, debt, assets, liabilities, and liquidity.
+Understanding financial terms is crucial for interpreting financial statements and making informed business decisions. Some of the core terms that are foundational to business finance include equity, debt, assets, liabilities, and [liquidity](/wiki/liquidity-risk-premium).
 
 **Equity** refers to the ownership interest in a company, represented by funds contributed by the owners plus any retained earnings. It is calculated using the formula:
 

@@ -34,7 +34,7 @@ In the 2010s, the S&P 500 bounced back and had an average annual return of about
 
 ## What are the factors that influence S&P 500 returns?
 
-The S&P 500's returns are influenced by many things. One big factor is the overall health of the economy. When the economy is doing well, companies make more money, and their stock prices go up, which makes the S&P 500 go up too. On the other hand, if the economy is struggling, like during a recession, companies make less money, and the S&P 500 goes down. Another important factor is interest rates. When interest rates are low, it's cheaper for companies to borrow money to grow their business, which can help their stock prices and the S&P 500. But when interest rates are high, it can slow down the economy and make the S&P 500 go down.
+The S&P 500's returns are influenced by many things. One big [factor](/wiki/factor-investing) is the overall health of the economy. When the economy is doing well, companies make more money, and their stock prices go up, which makes the S&P 500 go up too. On the other hand, if the economy is struggling, like during a recession, companies make less money, and the S&P 500 goes down. Another important factor is interest rates. When interest rates are low, it's cheaper for companies to borrow money to grow their business, which can help their stock prices and the S&P 500. But when interest rates are high, it can slow down the economy and make the S&P 500 go down.
 
 Another thing that affects the S&P 500 is what's happening in different parts of the world. If there's a big event like a war or a global health crisis, it can make the stock market go up and down a lot. Also, how people feel about the economy can make a big difference. If investors think the economy is going to do well, they'll buy more stocks, which can push the S&P 500 higher. But if they're worried, they might sell their stocks, which can make the S&P 500 go down. Finally, changes in technology and what industries are doing well can also affect the S&P 500. For example, if tech companies are growing a lot, the S&P 500 might go up because tech companies are a big part of the index.
 
@@ -180,7 +180,7 @@ This foundational understanding of algorithmic trading, its strategies, advantag
 
 ## How can we analyze the S&P 500 average returns using algorithmic trading?
 
-Algorithmic trading leverages statistical models and computational algorithms to execute trades in financial markets. Calculating the average returns of the S&P 500 using such methods involves deploying these models to analyze historical price data, optimize trading strategies, and simulate possible outcomes. Typically, this process includes backtesting strategies against past data, where traders use algorithms to determine potential profits and gauge the risk of their trades.
+Algorithmic trading leverages statistical models and computational algorithms to execute trades in financial markets. Calculating the average returns of the S&P 500 using such methods involves deploying these models to analyze historical price data, optimize trading strategies, and simulate possible outcomes. Typically, this process includes [backtesting](/wiki/backtesting) strategies against past data, where traders use algorithms to determine potential profits and gauge the risk of their trades.
 
 One of the common methods for calculating average returns using algorithmic trading strategies is the **Exponential Moving Average (EMA)**. The EMA is a type of moving average that places a greater weight and significance on the most recent data points. In Python, the EMA can be calculated using a simple pandas function:
 
@@ -196,7 +196,7 @@ ema = calculate_ema(data, span=10)  # Example span of 10 days
 
 **Case Studies**
 
-Several studies have reported on the performance of algorithmic trading strategies applied to the S&P 500. For instance, a momentum-based strategy may indicate buying stocks when their short-term moving average crosses above the long-term moving average, generating buy and sell signals. Outperformance in such strategies can sometimes be achieved by identifying periods of strong market trends.
+Several studies have reported on the performance of algorithmic trading strategies applied to the S&P 500. For instance, a [momentum](/wiki/momentum)-based strategy may indicate buying stocks when their short-term moving average crosses above the long-term moving average, generating buy and sell signals. Outperformance in such strategies can sometimes be achieved by identifying periods of strong market trends.
 
 **Outperformance or Underperformance**
 

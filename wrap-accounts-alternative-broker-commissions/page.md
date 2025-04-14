@@ -46,7 +46,7 @@ Wrap accounts are also good for people who trade a lot. Since the trading costs 
 
 ## How does the performance of a wrap account compare to self-managed accounts?
 
-The performance of a wrap account compared to a self-managed account can vary a lot. It depends on how good the advisor is at picking investments and how well they match your goals and risk level. If the advisor does a great job, your wrap account might do better than if you managed it yourself. But if the advisor doesn't pick the right investments or charges too much in fees, your wrap account might not do as well.
+The performance of a wrap account compared to a self-managed account can vary a lot. It depends on how good the advisor is at [picking](/wiki/asset-class-picking) investments and how well they match your goals and risk level. If the advisor does a great job, your wrap account might do better than if you managed it yourself. But if the advisor doesn't pick the right investments or charges too much in fees, your wrap account might not do as well.
 
 In a self-managed account, you're in charge of picking your own investments. This can be good if you know a lot about investing and can find good opportunities. But it can also be risky if you make bad choices or don't keep up with the market. The big difference is that with a wrap account, you're paying for someone else's expertise, which can help or hurt your performance depending on how good they are.
 

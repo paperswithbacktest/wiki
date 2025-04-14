@@ -82,7 +82,7 @@ They also use TWAP to make sure their trades are spread out evenly over time. By
 
 ## What is Volume Weighted Average Price (VWAP)?
 
-The Volume Weighted Average Price (VWAP) is a pivotal algorithmic trading strategy designed to execute trades in harmony with the market's [volume](/wiki/volume-trading-strategy) distribution over a designated time frame. This execution method is calculated by taking the total dollar value of all executed trades and dividing it by the total number of shares traded during the same period. The formula can be expressed as:
+The Volume Weighted Average Price (VWAP) is a pivotal [algorithmic trading](/wiki/algorithmic-trading) strategy designed to execute trades in harmony with the market's [volume](/wiki/volume-trading-strategy) distribution over a designated time frame. This execution method is calculated by taking the total dollar value of all executed trades and dividing it by the total number of shares traded during the same period. The formula can be expressed as:
 
 $$
 \text{VWAP} = \frac{\sum (Price_i \times Volume_i)}{\sum Volume_i}

@@ -40,7 +40,7 @@ The Central Bank of the UAE is the only place that can issue the Dirham. This me
 
 ## What are the different denominations of AED banknotes and coins?
 
-The United Arab Emirates Dirham comes in different banknotes and coins. The banknotes are in values of 5, 10, 20, 50, 100, 200, 500, and 1000 Dirhams. These banknotes have pictures of important places and people from the UAE on them. They are made of paper and are used for bigger purchases or when you need to carry a lot of money.
+The United Arab Emirates Dirham comes in different banknotes and coins. The banknotes are in values of 5, 10, 20, 50, 100, 200, 500, and 1000 Dirhams. These banknotes have pictures of important places and people from the UAE on them. They are made of paper and are used for bigger purchases or when you need to [carry](/wiki/carry-trading) a lot of money.
 
 The coins are smaller and come in values of 1 Dirham and 50, 25, 10, 5, and 1 fils. The 1 Dirham coin is the biggest coin and is worth the same as 100 fils. The smaller coins, like the 50 fils and 25 fils, are used for smaller purchases or to give change. All these coins have different designs on them, often showing important symbols or landmarks from the UAE.
 

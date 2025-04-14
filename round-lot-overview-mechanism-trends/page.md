@@ -34,7 +34,7 @@ Using round lots helps keep things simple. Brokers and markets like round lots b
 
 ## How do round lots affect the pricing and liquidity of stocks?
 
-Round lots can make a big difference in how easy it is to buy and sell stocks, which we call liquidity. When people trade in round lots, which is usually 100 shares, there are often more buyers and sellers looking to trade these exact amounts. This means it's easier to find someone to trade with, which can make the market more liquid. When a market is liquid, it means you can buy or sell your stocks quickly without changing the price too much.
+Round lots can make a big difference in how easy it is to buy and sell stocks, which we call [liquidity](/wiki/liquidity-risk-premium). When people trade in round lots, which is usually 100 shares, there are often more buyers and sellers looking to trade these exact amounts. This means it's easier to find someone to trade with, which can make the market more liquid. When a market is liquid, it means you can buy or sell your stocks quickly without changing the price too much.
 
 Round lots can also affect the price of stocks. Because round lots are the standard way to trade, they can help keep prices stable. When lots of people are trading in round lots, it can balance out the supply and demand for a stock, which helps keep the price from jumping around too much. If there are more people trading in round lots, it can make the stock's price more predictable and easier to work with for investors.
 

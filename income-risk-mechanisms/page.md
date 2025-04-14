@@ -42,7 +42,7 @@ Income risk can be measured by looking at how likely it is that someone will los
 
 Another way to measure income risk is by looking at personal factors. This includes things like how healthy someone is, because if they get sick or hurt, they might not be able to work. It also includes how much money they have saved up, because having savings can help them get through tough times without too much trouble. By thinking about both the bigger picture, like the economy and job market, and personal details, like health and savings, people can get a good idea of their income risk.
 
-Overall, measuring income risk involves looking at a mix of things. It's about understanding the chances of losing a job or earning less money, based on what's happening in the economy and in the person's own life. By keeping an eye on these factors, people can plan better and feel more ready to handle any income problems that might come up.
+Overall, measuring income risk involves looking at a mix of things. It's about understanding the chances of losing a job or [earning](/wiki/earning-announcement) less money, based on what's happening in the economy and in the person's own life. By keeping an eye on these factors, people can plan better and feel more ready to handle any income problems that might come up.
 
 ## What are the psychological impacts of income risk?
 
@@ -82,7 +82,7 @@ Another advanced instrument is a put option on stocks or other investments. This
 
 ## How can predictive analytics and machine learning be applied to forecast and manage income risk?
 
-Predictive analytics and machine learning can help people guess when they might lose money from their jobs. These tools look at a lot of information, like how the economy is doing, how many people are out of work, and even personal details like someone's job history and health. By studying this information, the tools can find patterns and make guesses about when someone might face income risk. For example, if the economy is starting to do badly, these tools might warn that more people could lose their jobs soon. This helps people get ready by saving more money or looking for other ways to earn.
+Predictive analytics and [machine learning](/wiki/machine-learning) can help people guess when they might lose money from their jobs. These tools look at a lot of information, like how the economy is doing, how many people are out of work, and even personal details like someone's job history and health. By studying this information, the tools can find patterns and make guesses about when someone might face income risk. For example, if the economy is starting to do badly, these tools might warn that more people could lose their jobs soon. This helps people get ready by saving more money or looking for other ways to earn.
 
 Once these tools guess when income risk might happen, they can also help people manage it better. Machine learning can suggest what someone should do, like getting insurance or starting a side job, to lower their risk. It can also help people make smart choices about where to put their money, like in savings or investments, to protect it. By using predictive analytics and machine learning, people can feel more in control and ready for any money problems that might come up. This makes it easier to plan and feel safer about their future.
 

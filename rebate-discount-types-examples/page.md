@@ -28,7 +28,7 @@ A rebate, on the other hand, is like getting money back after you've already pai
 
 ## What are the common types of discounts?
 
-There are many types of discounts that stores and companies use to help people save money. One common type is a seasonal discount, which happens during certain times of the year like holidays or back-to-school time. Another type is a volume discount, where you get a lower price if you buy more of something. For example, if you buy one box of cereal, it might cost $4, but if you buy three boxes, you might get them for $10 total, which is cheaper per box.
+There are many types of discounts that stores and companies use to help people save money. One common type is a seasonal discount, which happens during certain times of the year like holidays or back-to-school time. Another type is a [volume](/wiki/volume-trading-strategy) discount, where you get a lower price if you buy more of something. For example, if you buy one box of cereal, it might cost $4, but if you buy three boxes, you might get them for $10 total, which is cheaper per box.
 
 Another common type of discount is a loyalty discount, which is given to customers who keep coming back to the same store or company. Stores might have a special card or app that tracks how much you spend, and then they give you discounts or rewards. There are also promotional discounts, which are used to get people excited about new products or to clear out old stock. These discounts can be advertised with special codes or coupons that you can use when you shop.
 
@@ -123,7 +123,7 @@ In conclusion, rebates in securities trading, while advantageous, are not withou
 
 ## What is an example of a rebate?
 
-A rebate in trading can be exemplified through a transaction that involves short selling, where the rebate acts as an incentive for liquidity provision or efficient capital use. 
+A rebate in trading can be exemplified through a transaction that involves short selling, where the rebate acts as an incentive for [liquidity](/wiki/liquidity-risk-premium) provision or efficient capital use. 
 
 To illustrate, consider a trader who is engaged in short selling a stock. In simple terms, short selling involves borrowing shares and selling them at the current market price, with the intention of buying them back later at a lower price. In this scenario, a rebate is offered by the brokerage to compensate the trader for the interest or the opportunity cost of borrowing the stocks.
 

@@ -42,7 +42,7 @@ Think of it like trying to see a small object in a dark room. If you have a smal
 
 ## What is the difference between a sample and a population in statistical terms?
 
-In statistics, a population is the entire group of people, items, or events that you want to study. For example, if you're studying the average height of adults in a country, the population would be all the adults in that country. It's important to understand the population because your research aims to learn something about this whole group.
+In [statistics](/wiki/bayesian-statistics), a population is the entire group of people, items, or events that you want to study. For example, if you're studying the average height of adults in a country, the population would be all the adults in that country. It's important to understand the population because your research aims to learn something about this whole group.
 
 A sample, on the other hand, is a smaller part of the population that you actually study. You use a sample because it's usually not possible or practical to study everyone in the population. For instance, instead of measuring the height of every adult in the country, you might measure the height of a few thousand adults. The idea is that by studying this smaller group, you can make good guesses about the whole population. The key is to make sure the sample is chosen carefully so it represents the population well.
 

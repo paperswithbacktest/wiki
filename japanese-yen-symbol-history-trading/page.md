@@ -52,7 +52,7 @@ The Yen is also used a lot in trading. People who buy and sell things from diffe
 
 ## What are the common ways to trade the Japanese Yen?
 
-One common way to trade the Japanese Yen is through the foreign exchange market, also called forex. This is where people buy and sell different currencies. For example, if someone wants to buy things from Japan, they need to get Yen. They can do this by trading their own country's money for Yen. The forex market works all the time, so people can trade Yen whenever they want.
+One common way to trade the Japanese Yen is through the foreign exchange market, also called [forex](/wiki/forex-system). This is where people buy and sell different currencies. For example, if someone wants to buy things from Japan, they need to get Yen. They can do this by trading their own country's money for Yen. The forex market works all the time, so people can trade Yen whenever they want.
 
 Another way to trade the Yen is by using financial products like futures and options. Futures are agreements to buy or sell Yen at a certain price in the future. Options give people the choice to buy or sell Yen at a set price. These products can be helpful for people who want to protect themselves from changes in the Yen's value. They are often used by big businesses and investors who deal with a lot of money.
 
@@ -86,7 +86,7 @@ In the future, the Bank of Japan's choices about money will keep affecting the Y
 
 ## What are the strategies for risk management in yen trading?
 
-Effective risk management is fundamental in yen trading due to the currency's sensitivity to global market factors, including economic indicators, geopolitical events, and shifts in institutional sentiment. As the yen often strengthens during periods of uncertainty, traders must diligently manage risk to protect against potential volatility.
+Effective risk management is fundamental in yen trading due to the currency's sensitivity to global market factors, including economic indicators, geopolitical events, and shifts in institutional sentiment. As the yen often strengthens during periods of uncertainty, traders must diligently manage risk to protect against potential [volatility](/wiki/volatility-trading-strategies).
 
 One essential technique in this regard is position sizing, which involves determining the amount to invest in a particular trade relative to the size of one's portfolio. This practice helps maintain a consistent risk level, even when market conditions fluctuate. A standard approach is using the formula:
 

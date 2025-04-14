@@ -154,5 +154,5 @@ Financial analysis, therefore, is an indispensable element of investment strateg
    - Investopedia (www.investopedia.com): Offers a plethora of articles and tutorials on financial analysis techniques and trading strategies.
    - QuantConnect (www.quantconnect.com): A community-driven platform for algorithmic trading, providing resources and tools for backtesting and developing trading algorithms, particularly focusing on quarterly earnings data.
 
-By exploring these resources, readers can gain a deeper understanding of the intricate relationship between quarterly reports, financial analysis, and algorithmic trading, enhancing their ability to engage successfully with modern financial markets.
+By exploring these resources, readers can gain a deeper understanding of the intricate relationship between quarterly reports, financial analysis, and [algorithmic trading](/wiki/algorithmic-trading), enhancing their ability to engage successfully with modern financial markets.
 

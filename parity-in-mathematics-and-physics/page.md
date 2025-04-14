@@ -96,7 +96,7 @@ Here, $C$ is the call option price, $P$ is the put option price, $S$ is the spot
 
 In the context of algo trading, understanding and maintaining parity can shield traders from discrepancies and potential losses by ensuring that trading algorithms function as intended, particularly during volatile market conditions. When parity is correctly implemented, it can enhance the consistency and reliability of trading strategies, thereby improving overall performance. 
 
-To maintain parity in an algorithmic trading system, developers and quantitative analysts might implement risk management algorithms that dynamically adjust trading positions or employ statistical [arbitrage](/wiki/arbitrage) strategies to exploit market inefficiencies. These algorithms continuously analyze vast amounts of financial data, ensuring that investment positions remain balanced and disparities are addressed proactively.
+To maintain parity in an [algorithmic trading](/wiki/algorithmic-trading) system, developers and quantitative analysts might implement risk management algorithms that dynamically adjust trading positions or employ statistical [arbitrage](/wiki/arbitrage) strategies to exploit market inefficiencies. These algorithms continuously analyze vast amounts of financial data, ensuring that investment positions remain balanced and disparities are addressed proactively.
 
 Overall, maintaining parity is not only foundational to algorithmic trading but also crucial for safeguarding against market fluctuations and ensuring trading strategies remain robust and effective. As algo trading continues to evolve, the nuanced application of parity concepts will likely become even more critical to traders seeking to optimize their market strategies and outcomes.
 
@@ -114,7 +114,7 @@ where $S_t$ represents the asset price at time $t$, $\mu$ is the drift coefficie
 
 Traders and financial institutions leverage such mathematical models to simulate market conditions and optimize trading strategies. By using Monte Carlo simulations or finite difference methods, they can analyze potential scenarios and assess the risks associated with different trading decisions. The ability to predict market trends with higher accuracy leads to better-informed and more strategic trading operations.
 
-The integration of mathematics and physics in algo trading requires a solid understanding of both disciplines, combined with advanced data science and programming skills. Proficient use of machine learning techniques further enhances these models. For example, machine learning algorithms can refine predictive models by identifying latent patterns within large datasets, improving the performance of trading algorithms over time.
+The integration of mathematics and physics in algo trading requires a solid understanding of both disciplines, combined with advanced data science and programming skills. Proficient use of [machine learning](/wiki/machine-learning) techniques further enhances these models. For example, machine learning algorithms can refine predictive models by identifying latent patterns within large datasets, improving the performance of trading algorithms over time.
 
 Here's a simplified Python example demonstrating the use of a basic machine learning approach to improve trading predictions:
 

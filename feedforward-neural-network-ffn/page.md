@@ -19,7 +19,7 @@ A Feedforward Neural Network (FFN) is different from other types of neural netwo
 
 Unlike FFNs, RNNs and LSTMs are designed to handle sequential data, such as time series or text, by maintaining an internal state or memory. This allows them to remember past inputs and use that information to influence future outputs. For example, in language processing, an RNN can use the context of previous words to better predict the next word in a sentence. In contrast, an FFN treats each input independently and does not have a memory component, making it less suitable for tasks that require understanding sequences or time-dependent patterns.
 
-Another type of neural network, the Convolutional Neural Network (CNN), is specialized for processing grid-like data, such as images. CNNs use convolutional layers that apply filters to the input data, which helps them detect features like edges or textures in images. This is different from FFNs, which do not have specialized layers and are more general-purpose, capable of handling various types of data but not optimized for specific data structures like images or sequences.
+Another type of [neural network](/wiki/neural-network), the Convolutional Neural Network (CNN), is specialized for processing grid-like data, such as images. CNNs use convolutional layers that apply filters to the input data, which helps them detect features like edges or textures in images. This is different from FFNs, which do not have specialized layers and are more general-purpose, capable of handling various types of data but not optimized for specific data structures like images or sequences.
 
 ## What are the basic components of a Feedforward Neural Network?
 

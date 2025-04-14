@@ -46,7 +46,7 @@ RevPAR, on the other hand, looks at how much money a hotel makes from all its ro
 
 ## What factors can influence ADR?
 
-ADR can be influenced by many things. One big factor is the location of the hotel. If a hotel is in a busy city or near popular spots like beaches or parks, it can charge more for its rooms, which makes the ADR higher. The time of year also matters. During busy times like holidays or big events, hotels can raise their prices because more people want to stay there, which also increases ADR.
+ADR can be influenced by many things. One big [factor](/wiki/factor-investing) is the location of the hotel. If a hotel is in a busy city or near popular spots like beaches or parks, it can charge more for its rooms, which makes the ADR higher. The time of year also matters. During busy times like holidays or big events, hotels can raise their prices because more people want to stay there, which also increases ADR.
 
 Another factor is how nice the hotel is. If a hotel has fancy rooms, good service, and lots of amenities like pools or spas, it can charge more and have a higher ADR. Competition from other hotels in the area can also affect ADR. If there are many hotels nearby, they might all lower their prices to attract more guests, which can bring down the ADR. 
 

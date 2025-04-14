@@ -122,7 +122,7 @@ Overall, these advantages make real estate a compelling investment choice for th
 
 ## How can real estate metrics be integrated with algorithmic trading?
 
-Traditional real estate metrics such as Net Operating Income (NOI), Cap Rate, and Internal Rate of Return (IRR) are indispensable tools for evaluating property investments. These metrics can be seamlessly integrated with algorithmic trading to enhance decision-making in real estate markets. Through the use of data analytics and machine learning algorithms, these measurements can refine investment strategies by providing real-time insights into market conditions and potential returns.
+Traditional real estate metrics such as Net Operating Income (NOI), Cap Rate, and Internal Rate of Return (IRR) are indispensable tools for evaluating property investments. These metrics can be seamlessly integrated with [algorithmic trading](/wiki/algorithmic-trading) to enhance decision-making in real estate markets. Through the use of data analytics and [machine learning](/wiki/machine-learning) algorithms, these measurements can refine investment strategies by providing real-time insights into market conditions and potential returns.
 
 Net Operating Income (NOI) is calculated by subtracting operating expenses from gross income, providing a clear picture of a property's profitability. In algorithmic trading, NOI is often used as a foundational element in predictive models, allowing algorithms to project cash flows and assess changes in market demand. For example, a Python-based model might access property rental data from APIs to forecast NOI changes:
 

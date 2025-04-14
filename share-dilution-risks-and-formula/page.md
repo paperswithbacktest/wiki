@@ -30,7 +30,7 @@ Sometimes, share dilution can also happen through mergers and acquisitions. If a
 
 ## Can you explain the basic formula for calculating share dilution?
 
-Calculating share dilution is like figuring out how much smaller your piece of the pizza gets when more slices are added. The basic formula to understand this is pretty simple. You take the number of new shares being issued and divide it by the total number of shares after the new ones are added. This gives you the dilution factor, which shows how much the existing shareholders' ownership is reduced.
+Calculating share dilution is like figuring out how much smaller your piece of the pizza gets when more slices are added. The basic formula to understand this is pretty simple. You take the number of new shares being issued and divide it by the total number of shares after the new ones are added. This gives you the dilution [factor](/wiki/factor-investing), which shows how much the existing shareholders' ownership is reduced.
 
 For example, if a company has 1 million shares and issues 250,000 more shares, you would calculate the dilution like this: 250,000 new shares divided by 1,250,000 total shares (which is the original 1 million plus the new 250,000). This gives you a dilution factor of 0.2 or 20%. So, if you owned 10% of the company before, after the new shares are issued, your ownership would be reduced to 8% (which is 10% times 80%, because 100% minus 20% dilution equals 80%).
 

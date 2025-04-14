@@ -169,5 +169,5 @@ By understanding these distinctions, investors and financial analysts can better
 
 12. **Python Libraries Documentation: NumPy, Pandas, and Scipy** – For practical implementations, the documentation of these Python libraries provides essential tools for calculations involving CML-related strategies in algorithmic trading.
 
-These resources will provide a comprehensive foundation for understanding the theoretical underpinnings and practical applications of the Capital Market Line, Capital Asset Pricing Model, and their intersections with modern computational finance practices like algorithmic trading.
+These resources will provide a comprehensive foundation for understanding the theoretical underpinnings and practical applications of the Capital Market Line, Capital Asset Pricing Model, and their intersections with modern computational finance practices like [algorithmic trading](/wiki/algorithmic-trading).
 

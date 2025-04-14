@@ -86,7 +86,7 @@ Another way banks can use call report data is by doing risk analysis. This means
 
 ## How can Banking Call Reports be integrated into Algo Trading?
 
-Banking call reports serve as a vital data source for algorithmic trading models, providing crucial insights into a bank's financial health. These reports, which detail a bank's assets, liabilities, and income, are indispensable for developing data-driven trading strategies. Utilizing accurate financial data from call reports allows traders to influence trade decisions and optimize strategies, potentially yielding better returns.
+Banking call reports serve as a vital data source for [algorithmic trading](/wiki/algorithmic-trading) models, providing crucial insights into a bank's financial health. These reports, which detail a bank's assets, liabilities, and income, are indispensable for developing data-driven trading strategies. Utilizing accurate financial data from call reports allows traders to influence trade decisions and optimize strategies, potentially yielding better returns.
 
 ### Incorporating Call Report Data into Trading Algorithms
 

@@ -82,11 +82,11 @@ The challenges for leading hedge funds are also important to think about. One bi
 
 ## Top Hedge Funds Utilizing Algorithmic Trading
 
-Several hedge funds have effectively integrated algorithmic trading strategies, establishing themselves as leaders in the financial world. 
+Several hedge funds have effectively integrated [algorithmic trading](/wiki/algorithmic-trading) strategies, establishing themselves as leaders in the financial world. 
 
 Renaissance Technologies stands out as a pioneer in algorithmic trading, primarily through its Medallion Fund. This fund is renowned for using complex quantitative data models to inform its trading decisions. Founded by mathematician James Simons, Renaissance Technologies employs advanced mathematical techniques and statistical analyses to identify patterns in historical data and predict future market movements. The Medallion Fund's success is attributed to its ability to process and analyze large datasets, enabling it to make highly informed trading decisions.
 
-Two Sigma Investments focuses heavily on technology and data science to develop predictive models and execute trades. By leveraging machine learning and artificial intelligence, Two Sigma is capable of uncovering and exploiting market inefficiencies. Its approach involves the collection and analysis of vast amounts of data, from financial metrics to unconventional data sources like weather patterns and social media trends. This data-driven strategy allows Two Sigma to adapt to ever-changing market conditions and maintain a competitive edge.
+Two Sigma Investments focuses heavily on technology and data science to develop predictive models and execute trades. By leveraging [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence), Two Sigma is capable of uncovering and exploiting market inefficiencies. Its approach involves the collection and analysis of vast amounts of data, from financial metrics to unconventional data sources like weather patterns and social media trends. This data-driven strategy allows Two Sigma to adapt to ever-changing market conditions and maintain a competitive edge.
 
 AQR Capital Management combines quantitative research with algorithmic trading to capitalize on market inefficiencies. Co-founded by Cliff Asness, AQR employs a systematic approach to investment that relies on rigorous quantitative analysis. The fund explores various strategies, including [arbitrage](/wiki/arbitrage), [fundamental analysis](/wiki/fundamental-analysis), and [momentum](/wiki/momentum), to enhance returns. AQR’s use of algorithms facilitates the swift analysis of market trends and optimization of investment strategies across different asset classes.
 

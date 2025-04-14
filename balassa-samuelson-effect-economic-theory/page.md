@@ -28,7 +28,7 @@ This effect also shows why countries with faster-growing factories might have st
 
 ## What is the role of productivity differences in the Balassa-Samuelson Effect?
 
-Productivity differences play a big role in the Balassa-Samuelson Effect. When a country's workers in factories and businesses get better at making things like cars and computers, they can produce more without needing more workers. This means the country can pay its workers more money. These higher wages then spread to other parts of the economy, like shops and restaurants, where workers also want to earn more. Because everyone is earning more, they can spend more on services, which makes the prices of these services go up.
+Productivity differences play a big role in the Balassa-Samuelson Effect. When a country's workers in factories and businesses get better at making things like cars and computers, they can produce more without needing more workers. This means the country can pay its workers more money. These higher wages then spread to other parts of the economy, like shops and restaurants, where workers also want to earn more. Because everyone is [earning](/wiki/earning-announcement) more, they can spend more on services, which makes the prices of these services go up.
 
 This rise in service prices is what leads to higher inflation in the country. At the same time, because the country is making more stuff and paying its workers more, its money becomes worth more compared to other countries. This makes the country's money stronger. So, productivity differences between countries help explain why some countries have higher inflation and stronger money than others.
 

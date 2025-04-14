@@ -24,7 +24,7 @@ By choosing different sectors, you can also take advantage of opportunities in v
 
 To identify promising sectors for investment, you need to look at what's happening in the world and the economy. Start by checking economic reports and news to see which sectors are growing. For example, if you see that more people are buying electric cars, the automotive and battery sectors might be good to invest in. Also, pay attention to government policies and new laws. If the government is putting a lot of money into healthcare, that sector might do well in the future.
 
-Another way to find promising sectors is by looking at trends and technology. Think about what new inventions and technologies are coming out. If there's a lot of excitement about artificial intelligence, investing in tech companies working on AI could be smart. Also, listen to what experts and analysts are saying. They often have good ideas about which sectors will grow. By combining all this information, you can get a good sense of which sectors might be worth investing in.
+Another way to find promising sectors is by looking at trends and technology. Think about what new inventions and technologies are coming out. If there's a lot of excitement about [artificial intelligence](/wiki/ai-artificial-intelligence), investing in tech companies working on AI could be smart. Also, listen to what experts and analysts are saying. They often have good ideas about which sectors will grow. By combining all this information, you can get a good sense of which sectors might be worth investing in.
 
 Lastly, consider the overall health of the economy. If the economy is doing well, sectors like consumer goods and services might do better. But if there's a recession, sectors like utilities and healthcare might be safer bets because people always need those services. By keeping an eye on these big-picture factors, you can make better choices about which sectors to invest in and build a strong, diverse portfolio.
 
@@ -38,7 +38,7 @@ By combining all these tools and resources, investors can get a complete picture
 
 ## Can you explain the difference between sector rotation and sector picking?
 
-Sector rotation and sector picking are two different ways investors try to make money, but they work a bit differently. Sector rotation is about moving money from one sector to another based on where we are in the economic cycle. For example, if the economy is doing well, investors might move money into sectors like technology or consumer goods because people are spending more. But if the economy starts to slow down, they might shift money into safer sectors like utilities or healthcare. It's like changing your clothes based on the season – you wear different things when it's summer versus winter.
+Sector rotation and sector [picking](/wiki/asset-class-picking) are two different ways investors try to make money, but they work a bit differently. Sector rotation is about moving money from one sector to another based on where we are in the economic cycle. For example, if the economy is doing well, investors might move money into sectors like technology or consumer goods because people are spending more. But if the economy starts to slow down, they might shift money into safer sectors like utilities or healthcare. It's like changing your clothes based on the season – you wear different things when it's summer versus winter.
 
 Sector picking, on the other hand, is about choosing specific sectors that you think will do better than others over time, no matter what's happening in the economy. You might think that renewable energy will grow a lot in the next few years, so you put more money into that sector. It's not about moving money around based on short-term changes in the economy, but about finding sectors that you believe will be strong in the long run. Both strategies can help you make money, but they require different kinds of thinking and planning.
 
@@ -74,7 +74,7 @@ Also, global events can create new opportunities for certain sectors. For instan
 
 ## What advanced analytical techniques can be used to enhance sector picking?
 
-One advanced way to pick sectors is by using something called quantitative analysis. This means using math and computer programs to look at a lot of data about different sectors. For example, you can use machine learning, which is a type of computer program that can learn from data and make predictions. By feeding the computer lots of information about how sectors have done in the past, it can help you see patterns and guess which sectors might do well in the future. Another tool is factor analysis, which helps you figure out what things, like interest rates or technology changes, affect a sector's performance the most. By understanding these factors, you can pick sectors that are likely to do well based on what's happening in the world.
+One advanced way to pick sectors is by using something called quantitative analysis. This means using math and computer programs to look at a lot of data about different sectors. For example, you can use [machine learning](/wiki/machine-learning), which is a type of computer program that can learn from data and make predictions. By feeding the computer lots of information about how sectors have done in the past, it can help you see patterns and guess which sectors might do well in the future. Another tool is [factor](/wiki/factor-investing) analysis, which helps you figure out what things, like interest rates or technology changes, affect a sector's performance the most. By understanding these factors, you can pick sectors that are likely to do well based on what's happening in the world.
 
 Another advanced technique is called sentiment analysis. This involves using computer programs to read news articles, social media posts, and other texts to see how people feel about different sectors. If a lot of people are talking positively about renewable energy, for example, it might be a good sign that the sector will grow. You can also use something called scenario analysis, where you think about different things that could happen in the future, like new laws or big economic changes, and see how they would affect different sectors. By doing this, you can pick sectors that would do well no matter what happens. Both of these methods help you make smarter choices by looking at more than just numbers.
 
@@ -122,7 +122,7 @@ ridge_model = Ridge(alpha=1.0)
 ridge_model.fit(X_train, y_train)
 ```
 
-Finally, continuous model validation against out-of-sample data helps in adapting algorithms to changing market dynamics. By fostering a cycle of testing and validation, traders can enhance the accuracy of sector selection, improving the profitability of algorithmic trading strategies.
+Finally, continuous model validation against out-of-sample data helps in adapting algorithms to changing market dynamics. By fostering a cycle of testing and validation, traders can enhance the accuracy of sector selection, improving the profitability of [algorithmic trading](/wiki/algorithmic-trading) strategies.
 
 ## References & Further Reading
 

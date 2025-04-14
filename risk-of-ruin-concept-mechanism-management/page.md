@@ -82,7 +82,7 @@ Today, with computers and more advanced math, people can use tools like Monte Ca
 
 ## What are the methods to calculate the risk of ruin?
 
-Calculating the risk of ruin is an essential aspect of determining the sustainability of an investment strategy, especially in the context of algorithmic trading. This involves using different methodologies to predict the probability of losing a significant portion of the trading capital, thereby ceasing profitable trading activities. 
+Calculating the risk of ruin is an essential aspect of determining the sustainability of an investment strategy, especially in the context of [algorithmic trading](/wiki/algorithmic-trading). This involves using different methodologies to predict the probability of losing a significant portion of the trading capital, thereby ceasing profitable trading activities. 
 
 One classical approach is inspired by the Gambler's Ruin Problem, a well-known scenario in probability theory. This model evaluates the likelihood of a gambler depleting their bankroll when playing a fair game of chance. In trading terms, it quantifies the chance of reaching a state where the capital is insufficient to continue trading. The basic principle involves calculating the probabilities of successive wins and losses, and the model considers factors like starting capital, bet size, and the probability of winning individual trades.
 
@@ -153,7 +153,7 @@ $$
 
 Where "Risk per Trade" is the maximum amount the trader is willing to lose, and "Stop-Loss Distance" is the difference between the entry price and the stop-loss price.
 
-Robust algorithm development and rigorous backtesting are vital to improving win rates and adapting strategies to current market conditions. Algorithms should be designed to account for various market dynamics, and backtesting them against historical data ensures their effectiveness over different market periods. This process helps identify potential flaws and optimizes the parameters to increase the probability of success in live trading.
+Robust algorithm development and rigorous [backtesting](/wiki/backtesting) are vital to improving win rates and adapting strategies to current market conditions. Algorithms should be designed to account for various market dynamics, and backtesting them against historical data ensures their effectiveness over different market periods. This process helps identify potential flaws and optimizes the parameters to increase the probability of success in live trading.
 
 Backtesting involves simulating the trading strategy on historical data to evaluate its performance. Here is an example of a simple Python code snippet used for backtesting a trading strategy using historical price data:
 

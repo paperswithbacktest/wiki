@@ -90,7 +90,7 @@ $$
 
 In this equation, $E$ represents the nominal exchange rate, indicating how much of one currency can be exchanged for another. $P^*$ denotes the foreign price level, reflecting the price of a basket of goods and services in the other country, while $P$ is the domestic price level representing the same in the local economy. 
 
-Understanding the role of each component is essential for utilizing RER in algorithmic trading strategies. The nominal exchange rate ($E$) is a straightforward currency conversion metric, serving as a baseline. However, without accounting for price level differences, it lacks the nuance necessary for assessing purchasing power parity and competitive currency positioning.
+Understanding the role of each component is essential for utilizing RER in [algorithmic trading](/wiki/algorithmic-trading) strategies. The nominal exchange rate ($E$) is a straightforward currency conversion metric, serving as a baseline. However, without accounting for price level differences, it lacks the nuance necessary for assessing purchasing power parity and competitive currency positioning.
 
 The foreign price level ($P^*$) is critical because it aids in evaluating the inflation-adjusted cost of goods abroad, influencing trading decisions by highlighting differences in purchasing power. Similarly, the domestic price level ($P$) provides insight into local economic conditions and how they stack up against foreign markets.
 

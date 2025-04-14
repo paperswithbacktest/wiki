@@ -83,7 +83,7 @@ There's also a feature called mixed precision training, which lets you use diffe
 
 ## WHat is a step-by-step guide to install TensorFlow GPU?
 
-To install TensorFlow GPU and set up an environment optimized for algorithmic trading applications, it's essential to follow a systematic approach. This guide outlines the steps required to configure TensorFlow with GPU support, ensuring your system is prepared for efficient model training and execution.
+To install TensorFlow GPU and set up an environment optimized for [algorithmic trading](/wiki/algorithmic-trading) applications, it's essential to follow a systematic approach. This guide outlines the steps required to configure TensorFlow with GPU support, ensuring your system is prepared for efficient model training and execution.
 
 ### System Requirements
 
@@ -149,7 +149,7 @@ Integrating TensorFlow with algorithmic trading systems involves leveraging [mac
 
 **Predictive Models**
 
-Two primary types of predictive models suitable for algorithmic trading are neural networks and [reinforcement learning](/wiki/reinforcement-learning) models. Neural networks, particularly deep learning models, excel in capturing non-linear relationships in financial data, making them ideal for tasks like price prediction. A simple neural network for price prediction could be constructed as follows:
+Two primary types of predictive models suitable for algorithmic trading are neural networks and [reinforcement learning](/wiki/reinforcement-learning) models. Neural networks, particularly deep learning models, excel in capturing non-linear relationships in financial data, making them ideal for tasks like price prediction. A simple [neural network](/wiki/neural-network) for price prediction could be constructed as follows:
 
 ```python
 import tensorflow as tf

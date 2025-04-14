@@ -68,7 +68,7 @@ On the other hand, if the stock is not expected to be very volatile, the options
 
 Time decay, also known as theta, is something you need to think about when you use a Strangle. It means that the value of your options goes down as time goes by. This is bad for a Strangle because you're buying both a call and a put option, and if the stock doesn't move a lot before the options expire, they'll lose value every day. The closer you get to the expiration date, the faster this happens. So, if the stock doesn't move enough, time decay can make your Strangle lose money.
 
-But, time decay isn't all bad for a Strangle. If you think the stock will move a lot soon, like before a big news event, you can use time decay to your advantage. You want the stock to move big before the options lose too much value. So, picking the right time to set up your Strangle, like just before an event that could make the stock move a lot, can help you make money even with time decay working against you.
+But, time decay isn't all bad for a Strangle. If you think the stock will move a lot soon, like before a big news event, you can use time decay to your advantage. You want the stock to move big before the options lose too much value. So, [picking](/wiki/asset-class-picking) the right time to set up your Strangle, like just before an event that could make the stock move a lot, can help you make money even with time decay working against you.
 
 ## What are some advanced techniques for managing a Strangle position?
 

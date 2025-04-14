@@ -74,7 +74,7 @@ Using SQQQ in your portfolio also means you need to keep a close eye on it. Sinc
 
 Trading SQQQ can have tax consequences because it's treated as a regular investment in the eyes of the tax authorities. When you sell SQQQ at a profit, you'll have to pay capital gains tax on that profit. If you hold SQQQ for less than a year before selling, the profit is considered a short-term capital gain, which is taxed at your regular income tax rate. If you hold it for more than a year, it's a long-term capital gain, which usually has a lower tax rate.
 
-Also, because SQQQ is an ETF that uses a lot of financial tools like swaps and futures, it might generate what's called "unrelated business taxable income" (UBTI). If you hold SQQQ in a tax-advantaged account like an IRA, any UBTI over a certain amount could mean you have to pay taxes on that income, even though it's in a retirement account. It's a good idea to talk to a tax professional to understand all the tax rules that might apply to your situation when trading SQQQ.
+Also, because SQQQ is an [ETF](/wiki/etf-trading-strategies) that uses a lot of financial tools like swaps and futures, it might generate what's called "unrelated business taxable income" (UBTI). If you hold SQQQ in a tax-advantaged account like an IRA, any UBTI over a certain amount could mean you have to pay taxes on that income, even though it's in a retirement account. It's a good idea to talk to a tax professional to understand all the tax rules that might apply to your situation when trading SQQQ.
 
 ## How can technical analysis be applied to trading SQQQ?
 

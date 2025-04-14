@@ -149,7 +149,7 @@ df.loc[df['Coppock'] > 0, 'Signal'] = 1
 df.loc[df['Coppock'] < 0, 'Signal'] = -1
 ```
 
-The execution of this strategy hinges on robust backtesting to ensure its efficacy across different market conditions, taking into account the indicator’s lagging nature. It's recommended to complement the Coppock Curve with additional technical indicators to confirm signals and refine the trading strategy.
+The execution of this strategy hinges on robust [backtesting](/wiki/backtesting) to ensure its efficacy across different market conditions, taking into account the indicator’s lagging nature. It's recommended to complement the Coppock Curve with additional technical indicators to confirm signals and refine the trading strategy.
 
 ## Question: How effective is backtesting the Coppock Curve Strategy?
 

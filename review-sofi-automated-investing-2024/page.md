@@ -30,7 +30,7 @@ This fee is taken out of your account automatically, so you don't have to worry 
 
 SoFi Automated Investing offers a mix of different investments to help you grow your money. They use something called ETFs, which stands for Exchange-Traded Funds. These are like baskets of different stocks and bonds that you can buy and sell easily. SoFi picks ETFs that focus on things like stocks, bonds, and real estate, and they mix them together in a way that fits your risk level and goals.
 
-The mix of investments, or your portfolio, is designed to match how much risk you're okay with. If you're okay with more risk, SoFi might put more of your money into stocks. If you want less risk, they might put more into bonds. SoFi keeps an eye on your portfolio and makes changes if they think it will help your investments do better. This way, you don't have to worry about picking the right investments yourself.
+The mix of investments, or your portfolio, is designed to match how much risk you're okay with. If you're okay with more risk, SoFi might put more of your money into stocks. If you want less risk, they might put more into bonds. SoFi keeps an eye on your portfolio and makes changes if they think it will help your investments do better. This way, you don't have to worry about [picking](/wiki/asset-class-picking) the right investments yourself.
 
 ## How does SoFi Automated Investing compare to other robo-advisors?
 
@@ -70,7 +70,7 @@ SoFi doesn't promise any specific returns because nobody can really do that with
 
 ## What are the security features of SoFi Automated Investing?
 
-SoFi Automated Investing takes keeping your money safe very seriously. They use strong security measures to protect your account. This includes things like encryption, which is like a secret code that keeps your information safe when it's sent over the internet. They also use two-factor authentication, which means you need more than just a password to get into your account. This makes it a lot harder for someone else to get in, even if they know your password.
+SoFi Automated Investing takes keeping your money safe very seriously. They use strong security measures to protect your account. This includes things like encryption, which is like a secret code that keeps your information safe when it's sent over the internet. They also use two-[factor](/wiki/factor-investing) authentication, which means you need more than just a password to get into your account. This makes it a lot harder for someone else to get in, even if they know your password.
 
 Another important part of SoFi's security is that they keep an eye on your account all the time. If they see anything that looks strange or like someone might be trying to get into your account without permission, they'll let you know right away. They also have insurance to protect your money if something goes wrong. SoFi works hard to make sure your investments are safe and secure.
 

@@ -40,7 +40,7 @@ Another benefit is that the S&P 500 Pure Value Index is updated every three mont
 
 ## How has the S&P 500 Pure Value Index performed historically compared to the S&P 500?
 
-The S&P 500 Pure Value Index has had different performance compared to the S&P 500 over time. Sometimes, the Pure Value Index does better, especially when value stocks are popular in the market. For example, during times when people are looking for good deals on stocks, the Pure Value Index might go up more than the S&P 500. But other times, it might not do as well, especially when people are more interested in growth stocks or when the overall market is doing really well.
+The S&P 500 Pure Value Index has had different performance compared to the S&P 500 over time. Sometimes, the Pure Value Index does better, especially when value stocks are popular in the market. For example, during times when people are looking for good deals on stocks, the Pure Value Index might go up more than the S&P 500. But other times, it might not do as well, especially when people are more interested in [growth stocks](/wiki/growth-stocks) or when the overall market is doing really well.
 
 Over the long term, the S&P 500 Pure Value Index can be a good choice for investors who believe in value investing. Studies show that value stocks can sometimes beat the overall market over many years. But it's important to remember that the performance can go up and down a lot more than the S&P 500. This means that while you might make more money with the Pure Value Index in some years, it can also be riskier because its value can change a lot more quickly.
 
@@ -64,13 +64,13 @@ Using the S&P 500 Pure Value Index can also help you follow a value investing st
 
 ## What are some ETFs or mutual funds that track the S&P 500 Pure Value Index?
 
-There are a few ETFs and mutual funds that track the S&P 500 Pure Value Index. One popular ETF is the Invesco S&P 500 Pure Value ETF (RPV). This ETF tries to match the performance of the S&P 500 Pure Value Index by investing in the same stocks that are in the index. Another ETF is the SPDR S&P 500 Value ETF (SPYV), but this one tracks a slightly different value index from the S&P 500, so it's not exactly the same but still focuses on value stocks.
+There are a few ETFs and mutual funds that track the S&P 500 Pure Value Index. One popular [ETF](/wiki/etf-trading-strategies) is the Invesco S&P 500 Pure Value ETF (RPV). This ETF tries to match the performance of the S&P 500 Pure Value Index by investing in the same stocks that are in the index. Another ETF is the SPDR S&P 500 Value ETF (SPYV), but this one tracks a slightly different value index from the S&P 500, so it's not exactly the same but still focuses on value stocks.
 
 For mutual funds, options are more limited, but some funds might use the S&P 500 Pure Value Index as a benchmark. For example, the Fidelity Value Fund (FDVLX) aims to invest in value stocks, although it doesn't specifically track the S&P 500 Pure Value Index. It's always a good idea to check the fund's prospectus to see if it matches your investment goals and how closely it follows the index you're interested in.
 
 ## How does sector allocation in the S&P 500 Pure Value Index compare to the broader S&P 500?
 
-The S&P 500 Pure Value Index and the S&P 500 have different ways of picking which companies to include, and this can change how much of each industry, or sector, is in each index. The S&P 500 tries to show a picture of the whole market, so it includes a bit of everything. It has companies from all sorts of industries like technology, health care, and finance, and the amount of each industry in the index is based on how big those companies are in the market. This means that if tech companies are really big, they might take up a bigger part of the S&P 500.
+The S&P 500 Pure Value Index and the S&P 500 have different ways of [picking](/wiki/asset-class-picking) which companies to include, and this can change how much of each industry, or sector, is in each index. The S&P 500 tries to show a picture of the whole market, so it includes a bit of everything. It has companies from all sorts of industries like technology, health care, and finance, and the amount of each industry in the index is based on how big those companies are in the market. This means that if tech companies are really big, they might take up a bigger part of the S&P 500.
 
 The S&P 500 Pure Value Index, on the other hand, only picks companies that are thought to be good value investments. This can make the mix of industries in the Pure Value Index very different from the S&P 500. Sometimes, certain industries like finance or energy might have a lot of companies that are seen as good value, so they might make up a bigger part of the Pure Value Index. This means that if you invest in the Pure Value Index, you might end up with more money in some industries than if you invested in the whole S&P 500.
 

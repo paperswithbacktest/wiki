@@ -18,7 +18,7 @@ Positive carry can be an attractive strategy for investors because it provides a
 
 Positive carry and negative carry are terms used to describe whether an investment is making or losing money over time. Positive carry happens when the money you earn from an investment is more than the costs of holding that investment. For example, if you borrow money at a 2% interest rate and invest it in something that gives you a 5% return, you have a positive carry of 3%. This means you are making money on the difference between what you earn and what you pay.
 
-Negative carry is the opposite. It happens when the costs of holding an investment are more than the money you earn from it. Using the same example, if you borrow money at a 5% interest rate and invest it in something that only gives you a 2% return, you have a negative carry of 3%. This means you are losing money because the costs are higher than the returns.
+Negative [carry](/wiki/carry-trading) is the opposite. It happens when the costs of holding an investment are more than the money you earn from it. Using the same example, if you borrow money at a 5% [interest rate](/wiki/interest-rate-trading-strategies) and invest it in something that only gives you a 2% return, you have a negative carry of 3%. This means you are losing money because the costs are higher than the returns.
 
 Understanding the difference between positive and negative carry is important for making smart investment choices. Positive carry can help you earn more money over time, while negative carry can lead to losses. Always think about the potential risks and rewards before deciding to use a carry strategy.
 
@@ -30,7 +30,7 @@ Positive carry can be a good way to make extra money, but it's important to be c
 
 ## What are the common instruments used to achieve positive carry?
 
-Common instruments used to achieve positive carry include bonds, currencies, and stocks. Bonds are often used because they pay regular interest, which can be higher than the cost of borrowing money. For example, if you borrow money at a low interest rate and buy a bond that pays a higher interest rate, you can earn a positive carry. Currencies are another popular choice, especially in forex trading. Traders might borrow in a currency with a low interest rate and invest in a currency with a higher interest rate, earning the difference as positive carry.
+Common instruments used to achieve positive carry include bonds, currencies, and stocks. Bonds are often used because they pay regular interest, which can be higher than the cost of borrowing money. For example, if you borrow money at a low interest rate and buy a bond that pays a higher interest rate, you can earn a positive carry. Currencies are another popular choice, especially in [forex](/wiki/forex-system) trading. Traders might borrow in a currency with a low interest rate and invest in a currency with a higher interest rate, [earning](/wiki/earning-announcement) the difference as positive carry.
 
 Stocks can also be used to achieve positive carry, though this is less common. If you borrow money at a low interest rate and use it to buy stocks that pay dividends, the dividends might be higher than the interest you pay on the loan, resulting in positive carry. However, stocks are riskier than bonds or currencies because their value can go up and down a lot. No matter which instrument you use, it's important to understand the risks and make sure the potential rewards are worth it.
 
@@ -106,5 +106,5 @@ Also, some markets have rules about how much you can use leverage, which is borr
 
 10. **Statistical Modeling Techniques in Finance - MIT Courseware.** This course provides online resources on statistical models critical for implementing effective algorithmic trading and carry strategies.
 
-These references provide a thorough grounding in theoretical and practical aspects relevant to carry strategies and algorithmic trading, facilitating a deeper understanding and exploration of the topic.
+These references provide a thorough grounding in theoretical and practical aspects relevant to carry strategies and [algorithmic trading](/wiki/algorithmic-trading), facilitating a deeper understanding and exploration of the topic.
 

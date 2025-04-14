@@ -161,5 +161,5 @@ Understanding financial statements is crucial not only for recognizing a company
 6. **Trading Algorithms:**
    - *Kissell, R. (2013). The Science of Algorithmic Trading and Portfolio Management*. Academic Press. This resource includes a detailed explanation of algorithmic trading systems and their application during volatile periods such as earnings season. 
 
-Further reading and research into these resources will provide a comprehensive understanding of the intersection between financial reporting, algorithmic trading, and market analysis. These texts offer foundational knowledge and advanced concepts that can enhance strategic trading decisions during earnings seasons.
+Further reading and research into these resources will provide a comprehensive understanding of the intersection between financial reporting, [algorithmic trading](/wiki/algorithmic-trading), and market analysis. These texts offer foundational knowledge and advanced concepts that can enhance strategic trading decisions during earnings seasons.
 

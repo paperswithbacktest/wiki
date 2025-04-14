@@ -24,7 +24,7 @@ In short, a Target-Risk Fund is about maintaining a chosen risk level, while a T
 
 ## What are the different risk levels typically offered by Target-Risk Funds?
 
-Target-Risk Funds usually come in three main risk levels: low, moderate, and high. A low-risk fund focuses on safer investments like bonds and cash, aiming to protect your money while still earning a bit of interest. This is good if you don't want to take big chances with your money. A moderate-risk fund mixes stocks and bonds to balance growth and safety. It's a middle-of-the-road choice if you're okay with some ups and downs but still want some stability. A high-risk fund is mostly made up of stocks, which can grow a lot but also drop a lot. This is for people who are willing to take bigger risks for the chance of bigger rewards.
+Target-Risk Funds usually come in three main risk levels: low, moderate, and high. A low-risk fund focuses on safer investments like bonds and cash, aiming to protect your money while still [earning](/wiki/earning-announcement) a bit of interest. This is good if you don't want to take big chances with your money. A moderate-risk fund mixes stocks and bonds to balance growth and safety. It's a middle-of-the-road choice if you're okay with some ups and downs but still want some stability. A high-risk fund is mostly made up of stocks, which can grow a lot but also drop a lot. This is for people who are willing to take bigger risks for the chance of bigger rewards.
 
 Some Target-Risk Funds might also offer other levels like conservative or aggressive, but they all fit into the basic low, moderate, and high categories. The key thing is to pick the level that matches how much risk you're comfortable with. If you're not sure, you might start with a moderate fund and adjust later as you learn more about how much risk you can handle.
 
@@ -95,7 +95,7 @@ $$
 
 where $R$ represents the actual risk of the portfolio, and $R_T$ is the target risk level.
 
-Rebalancing is done periodically and could be triggered by significant changes in market conditions or asset values. This proactive management reduces the impact of market volatility, thus providing a smoother investment experience. Moreover, rebalancing not only conserves the risk exposure but also capitalizes on the "buy low, sell high" strategy, which can enhance overall portfolio returns.
+Rebalancing is done periodically and could be triggered by significant changes in market conditions or asset values. This proactive management reduces the impact of market [volatility](/wiki/volatility-trading-strategies), thus providing a smoother investment experience. Moreover, rebalancing not only conserves the risk exposure but also capitalizes on the "buy low, sell high" strategy, which can enhance overall portfolio returns.
 
 For investors, target-risk funds offer the advantage of predictable risk exposure. This predictability simplifies the planning of long-term financial goals, such as retirement planning or saving for education, as investors can have confidence in the risk-return profile of their investment. The strategy aligns well with risk-averse investors who prefer stability over unexpected fluctuations in their investment portfolios.
 

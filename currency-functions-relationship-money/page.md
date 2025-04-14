@@ -48,7 +48,7 @@ Governments and central banks try to manage inflation to keep the economy stable
 
 ## How do different types of currency, like physical and digital, impact their functions?
 
-Physical currency, like coins and banknotes, is easy to use for everyday purchases. You can touch it, give it to someone, and they can use it right away. It's good for small transactions, like buying a snack or paying for a bus ride. Physical currency also works well when you don't have access to technology, like in remote areas or during power outages. However, carrying a lot of physical money can be risky because it can be lost or stolen, and it's not always easy to carry large amounts.
+Physical currency, like coins and banknotes, is easy to use for everyday purchases. You can touch it, give it to someone, and they can use it right away. It's good for small transactions, like buying a snack or paying for a bus ride. Physical currency also works well when you don't have access to technology, like in remote areas or during power outages. However, carrying a lot of physical money can be risky because it can be lost or stolen, and it's not always easy to [carry](/wiki/carry-trading) large amounts.
 
 Digital currency, like the money in your bank account or cryptocurrencies, is convenient because you can use it without needing to carry cash. You can pay for things online, transfer money to friends, or use a card to buy things in stores. Digital currency is also safer because it's harder to lose or steal, and you can keep track of your spending easily. But, you need technology to use it, like a phone or computer, and sometimes there can be fees for using digital payment methods. Also, digital currencies like Bitcoin can be more complicated because their value can change a lot.
 
@@ -84,7 +84,7 @@ Another potential disruption is the rise of new payment methods. For example, us
 
 ## What are the strategies and technical requirements for successful algo trading?
 
-Algorithmic trading, characterized by its reliance on complex algorithms and rapid execution, requires meticulous planning and implementation to be successful. Among the popular strategies employed in algorithmic trading are the Volume-Weighted Average Price (VWAP) and Time-Weighted Average Price (TWAP) strategies.
+Algorithmic trading, characterized by its reliance on complex algorithms and rapid execution, requires meticulous planning and implementation to be successful. Among the popular strategies employed in [algorithmic trading](/wiki/algorithmic-trading) are the Volume-Weighted Average Price (VWAP) and Time-Weighted Average Price (TWAP) strategies.
 
 VWAP is an execution strategy that seeks to trade in line with the average price of a security throughout the day based on both [volume](/wiki/volume-trading-strategy) and price. This approach is often used to minimize market impact by executing orders gradually over time, aligning the trade price with the market's [liquidity](/wiki/liquidity-risk-premium). The VWAP formula is as follows:
 

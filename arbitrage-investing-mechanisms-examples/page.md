@@ -18,7 +18,7 @@ It sounds easy, but it's not always simple. Arbitrage opportunities can disappea
 
 In financial markets, arbitrage works by finding and using price differences for the same asset in different places. For example, if a stock is selling for $100 on one stock exchange and $102 on another, an investor can buy the stock at $100 and sell it at $102 at the same time. The $2 difference is the profit from arbitrage. This happens fast because computers and trading algorithms are always looking for these small differences, so the opportunity might not last long.
 
-Arbitrage isn't just about stocks; it can also work with currencies, bonds, and other financial products. For instance, if the exchange rate between the US dollar and the Euro is different on two different forex markets, traders can buy dollars where they're cheaper and sell them where they're more expensive. But there are risks and costs involved, like transaction fees and the time it takes to complete the trades. If these costs are too high, they can eat up the profit from the price difference. So, while arbitrage can be a way to make money with less risk, it's not always easy or guaranteed.
+Arbitrage isn't just about stocks; it can also work with currencies, bonds, and other financial products. For instance, if the exchange rate between the US dollar and the Euro is different on two different [forex](/wiki/forex-system) markets, traders can buy dollars where they're cheaper and sell them where they're more expensive. But there are risks and costs involved, like transaction fees and the time it takes to complete the trades. If these costs are too high, they can eat up the profit from the price difference. So, while [arbitrage](/wiki/arbitrage) can be a way to make money with less risk, it's not always easy or guaranteed.
 
 ## What are the different types of arbitrage strategies?
 
@@ -72,7 +72,7 @@ However, arbitrage can also create some problems. When many arbitrageurs are try
 
 ## What role does high-frequency trading play in arbitrage?
 
-High-frequency trading (HFT) is a big part of arbitrage today. HFT uses super fast computers and special programs to find small price differences very quickly. These computers can buy and sell things in just a few seconds, sometimes even faster. This speed helps arbitrageurs take advantage of price differences before they go away. Without HFT, it would be much harder to find and use these small opportunities because they disappear so fast.
+High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) is a big part of arbitrage today. HFT uses super fast computers and special programs to find small price differences very quickly. These computers can buy and sell things in just a few seconds, sometimes even faster. This speed helps arbitrageurs take advantage of price differences before they go away. Without HFT, it would be much harder to find and use these small opportunities because they disappear so fast.
 
 But HFT also brings some problems. When lots of high-frequency traders are trying to do arbitrage at the same time, it can make prices move a lot and very quickly. This can make the market feel less stable. Also, the special programs used in HFT might sometimes make mistakes. If that happens, it can cause big losses for the traders and affect the whole market. So, while HFT helps make arbitrage easier and faster, it also adds some risks and challenges.
 
@@ -100,7 +100,7 @@ Where $X$ is the current price spread between two correlated assets, $\mu$ is th
 
 Algorithmic trading not only enhances the speed and accuracy of executing arbitrage trades but also equips traders with the ability to handle immense data sets and implement [machine learning](/wiki/machine-learning) techniques. These capabilities enhance the detection of complex patterns in market data, providing a further edge in the diminishing window of arbitrage opportunities.
 
-Ultimately, algorithmic trading has become indispensable for effective arbitrage execution, offering the unprecedented ability to capture value from market inefficiencies swiftly and precisely.
+Ultimately, [algorithmic trading](/wiki/algorithmic-trading) has become indispensable for effective arbitrage execution, offering the unprecedented ability to capture value from market inefficiencies swiftly and precisely.
 
 ## How can we build robust algorithmic strategies?
 

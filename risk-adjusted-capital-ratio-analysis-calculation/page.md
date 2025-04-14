@@ -86,7 +86,7 @@ Using internal models can help banks manage their risks better and maybe lend mo
 
 The risk-adjusted capital ratio serves as a pivotal metric for assessing the financial robustness of an institution, especially when facing economic adversities. This ratio is calculated by juxtaposing an institution's total adjusted capital against its risk-weighted assets. This calculation provides deep insights into the institution’s capacity to sustain operational continuity under financial duress.
 
-Total adjusted capital encompasses equity and near-equity instruments that are adjusted according to their equity content. This encompasses common equity, preferred equity, hybrid capital instruments, and retained earnings. Meanwhile, risk-weighted assets account for the likelihood of asset retention by attributing risk weights to various asset classes. For instance, cash typically retains a near 100% value weight, highlighting its security and liquidity. Conversely, riskier assets such as derivatives receive a lower weight due to their volatility and potential devaluation under market stress.
+Total adjusted capital encompasses equity and near-equity instruments that are adjusted according to their equity content. This encompasses common equity, preferred equity, hybrid capital instruments, and retained earnings. Meanwhile, risk-weighted assets account for the likelihood of asset retention by attributing risk weights to various asset classes. For instance, cash typically retains a near 100% value weight, highlighting its security and liquidity. Conversely, riskier assets such as derivatives receive a lower weight due to their [volatility](/wiki/volatility-trading-strategies) and potential devaluation under market stress.
 
 The formula for the risk-adjusted capital ratio is expressed as:
 
@@ -120,7 +120,7 @@ A higher RACR indicates enhanced resilience against economic downturns. It refle
 
 ## What are the Key Performance Metrics in Algo Trading?
 
-Effective algorithmic trading necessitates evaluating various performance metrics to ensure that strategies remain profitable while aligned with risk management objectives. Among these metrics, the Sharpe Ratio, Maximum Drawdown, Win Rate, Profit Factor, and Average Trade are fundamental in assessing an algorithm's success and efficiency in risk-taking.
+Effective [algorithmic trading](/wiki/algorithmic-trading) necessitates evaluating various performance metrics to ensure that strategies remain profitable while aligned with risk management objectives. Among these metrics, the Sharpe Ratio, Maximum Drawdown, Win Rate, Profit Factor, and Average Trade are fundamental in assessing an algorithm's success and efficiency in risk-taking.
 
 The **Sharpe Ratio** is crucial for risk-adjusted return evaluation. It calculates the amount of return an investor receives per unit of risk. The Sharpe Ratio is given by:
 

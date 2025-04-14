@@ -60,7 +60,7 @@ A third strategy is called the naked call or uncovered call. In this strategy, y
 
 ## How does the time decay (theta) impact a 'Sell to Open' position?
 
-Time decay, also known as theta, is an important factor when you 'Sell to Open' an option. Theta measures how much the value of an option decreases as time passes. When you sell an option, time decay works in your favor because the option loses value every day. This means that if the stock price stays the same or doesn't move much, the option you sold will be worth less as time goes on. This can help you make money because you get to keep the premium you received when you sold the option.
+Time decay, also known as theta, is an important [factor](/wiki/factor-investing) when you 'Sell to Open' an option. Theta measures how much the value of an option decreases as time passes. When you sell an option, time decay works in your favor because the option loses value every day. This means that if the stock price stays the same or doesn't move much, the option you sold will be worth less as time goes on. This can help you make money because you get to keep the premium you received when you sold the option.
 
 For example, if you sell a call option and the stock price stays below the strike price, the option will lose value over time. As the expiration date gets closer, the option becomes less valuable, and you can buy it back for less than what you sold it for, or let it expire worthless and keep the full premium. This is why many traders who 'Sell to Open' like to use this strategy when they think the stock price won't move much or will move in their favor. Time decay can help them make money even if the stock price doesn't change a lot.
 

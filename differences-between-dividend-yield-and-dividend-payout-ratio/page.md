@@ -58,7 +58,7 @@ This situation can occur for a few reasons. The stock price might be low because
 
 ## What factors can affect a company's dividend yield and payout ratio?
 
-A company's dividend yield and payout ratio can change because of many things. For dividend yield, the stock price is a big factor. If the stock price goes down but the dividend stays the same, the dividend yield goes up. This can happen if people think the company is not doing well. Also, if the company decides to pay more dividends, the yield goes up too. But if the company's profits go down and it cuts the dividend, the yield goes down.
+A company's dividend yield and payout ratio can change because of many things. For dividend yield, the stock price is a big [factor](/wiki/factor-investing). If the stock price goes down but the dividend stays the same, the dividend yield goes up. This can happen if people think the company is not doing well. Also, if the company decides to pay more dividends, the yield goes up too. But if the company's profits go down and it cuts the dividend, the yield goes down.
 
 The payout ratio is affected by how much profit the company makes and how much it decides to give back to shareholders. If the company makes more money, it might pay out more dividends, which would raise the payout ratio. But if it keeps more of its earnings to grow the business or save for tough times, the payout ratio goes down. The company's plans for the future can also change the payout ratio. If it wants to invest in new projects, it might keep more earnings and pay less in dividends.
 

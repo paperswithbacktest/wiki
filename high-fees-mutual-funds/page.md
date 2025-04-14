@@ -46,7 +46,7 @@ Another way to spot high fees is by checking for other charges like sales loads 
 
 ## What strategies can investors use to minimize the impact of high fees in mutual funds?
 
-Investors can minimize the impact of high fees by choosing mutual funds with low expense ratios. It's smart to look at different funds and compare their fees. A good place to start is by checking funds that track a broad market index, like an S&P 500 index fund. These funds usually have lower fees because they don't need to pay a fund manager to pick stocks. By picking funds with lower expense ratios, you keep more of your money working for you over time.
+Investors can minimize the impact of high fees by choosing mutual funds with low expense ratios. It's smart to look at different funds and compare their fees. A good place to start is by checking funds that track a broad market index, like an S&P 500 index fund. These funds usually have lower fees because they don't need to pay a fund manager to pick stocks. By [picking](/wiki/asset-class-picking) funds with lower expense ratios, you keep more of your money working for you over time.
 
 Another strategy is to avoid funds with sales loads and other extra fees. If you can, choose no-load funds, which don't charge a fee when you buy or sell them. Also, be careful about funds that charge redemption fees if you sell your shares too soon. Reading the fund's prospectus carefully can help you spot these fees. By steering clear of these extra charges, you can save money and let your investment grow more.
 
@@ -120,5 +120,5 @@ U.S. Securities and Exchange Commission. "Mutual Funds and Exchange-Traded Funds
 
 Investment Company Institute. "Exchange-Traded Funds: A Guide to Understanding ETFs." This guide simplifies the complexities surrounding exchange-traded funds, emphasizing their cost-effectiveness and role in diversified investment strategies. It is beneficial for both novice and experienced investors.
 
-FINRA. "Algorithmic Trading: Pros and Cons." This publication explores the advantages and challenges of algorithmic trading, highlighting its role in reducing transaction costs and enhancing trade execution. Understanding algorithmic trading is vital for investors seeking to leverage technology in managing their investments efficiently.
+FINRA. "Algorithmic Trading: Pros and Cons." This publication explores the advantages and challenges of [algorithmic trading](/wiki/algorithmic-trading), highlighting its role in reducing transaction costs and enhancing trade execution. Understanding algorithmic trading is vital for investors seeking to leverage technology in managing their investments efficiently.
 

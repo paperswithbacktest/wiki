@@ -28,7 +28,7 @@ On the other hand, a low ROIC might mean the company is not using its money as w
 
 ## What is considered a good ROIC percentage?
 
-A good ROIC percentage is usually considered to be above 10%. This means the company is making more than 10 cents of profit for every dollar it has invested in its business. Companies with an ROIC higher than 10% are seen as efficient at using their money to make profits. For example, if a company has an ROIC of 15%, it's doing a great job because it's earning 15 cents for every dollar invested.
+A good ROIC percentage is usually considered to be above 10%. This means the company is making more than 10 cents of profit for every dollar it has invested in its business. Companies with an ROIC higher than 10% are seen as efficient at using their money to make profits. For example, if a company has an ROIC of 15%, it's doing a great job because it's [earning](/wiki/earning-announcement) 15 cents for every dollar invested.
 
 However, what counts as a good ROIC can change depending on the industry. Some industries naturally have higher ROICs because they need less money to run their business or because they have strong brands or unique products. For instance, technology companies often have higher ROICs than heavy manufacturing companies. So, when looking at ROIC, it's helpful to compare companies within the same industry to get a better idea of what's considered good.
 

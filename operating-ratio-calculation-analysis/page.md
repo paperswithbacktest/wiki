@@ -82,7 +82,7 @@ After making these changes, Fashion Trends saw a big improvement in its operatin
 
 ## What is Understanding Financial Metrics?
 
-Financial metrics are quantitative indicators essential for evaluating different aspects of a business's financial performance. These metrics serve as tools for businesses to analyze and interpret their financial conditions, aiding in strategic planning and informed decision-making. They encompass a wide range of categories, including profitability ratios, liquidity ratios, and operational efficiency ratios, such as the operating ratio.
+Financial metrics are quantitative indicators essential for evaluating different aspects of a business's financial performance. These metrics serve as tools for businesses to analyze and interpret their financial conditions, aiding in strategic planning and informed decision-making. They encompass a wide range of categories, including profitability ratios, [liquidity](/wiki/liquidity-risk-premium) ratios, and operational efficiency ratios, such as the operating ratio.
 
 Profitability ratios, for instance, measure a company's ability to generate earnings relative to its expenses and other costs. Common examples include the net profit margin, return on assets (ROA), and return on equity (ROE). These ratios help assess how well a company utilizes its resources to generate profit. Liquidity ratios, such as the current ratio and quick ratio, evaluate a company's capacity to meet its short-term obligations, indicating financial stability and risk management.
 

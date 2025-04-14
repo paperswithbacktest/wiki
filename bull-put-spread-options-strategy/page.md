@@ -58,7 +58,7 @@ To figure out the maximum loss for a Bull Put Spread, you need to know the diffe
 
 ## What are some common mistakes to avoid when using a Bull Put Spread?
 
-One common mistake to avoid when using a Bull Put Spread is picking the wrong strike prices. If you choose strike prices that are too close together, you might not get enough money from the net premium to make it worth it. But if you choose strike prices that are too far apart, you could lose a lot more money if the stock price goes down. So, you need to find a good balance that gives you a good chance to make money without risking too much.
+One common mistake to avoid when using a Bull Put Spread is [picking](/wiki/asset-class-picking) the wrong strike prices. If you choose strike prices that are too close together, you might not get enough money from the net premium to make it worth it. But if you choose strike prices that are too far apart, you could lose a lot more money if the stock price goes down. So, you need to find a good balance that gives you a good chance to make money without risking too much.
 
 Another mistake is not paying attention to how the stock might move. If the stock is very up and down, a Bull Put Spread might not be the best choice because the stock could easily fall below the lower strike price and make you lose money. Also, if you think the stock will go up a lot, you might miss out on bigger profits because the most you can make with a Bull Put Spread is the net premium you got when you set it up. So, you need to think about how the stock usually moves and pick a strategy that fits that.
 

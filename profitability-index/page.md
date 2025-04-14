@@ -64,7 +64,7 @@ Another scenario where the PI can be misleading is when you don't take into acco
 
 ## How can sensitivity analysis be applied to the Profitability Index?
 
-Sensitivity analysis helps you see how changes in different things can affect the Profitability Index. When you do a sensitivity analysis on the PI, you change one thing at a time, like the amount of money you expect to get back from the investment, or the cost of starting the project, or even the interest rate used to find the present value. By doing this, you can see how these changes make the PI go up or down. This helps you understand which parts of your investment plan are most important and where you need to be careful.
+Sensitivity analysis helps you see how changes in different things can affect the Profitability Index. When you do a sensitivity analysis on the PI, you change one thing at a time, like the amount of money you expect to get back from the investment, or the cost of starting the project, or even the [interest rate](/wiki/interest-rate-trading-strategies) used to find the present value. By doing this, you can see how these changes make the PI go up or down. This helps you understand which parts of your investment plan are most important and where you need to be careful.
 
 For example, if you change the expected cash flows a little bit and the PI changes a lot, it means your investment is sensitive to how much money you expect to make. If the PI stays the same when you change the interest rate, then the interest rate isn't that important for your decision. By doing a sensitivity analysis, you can see if your investment plan is strong or if small changes could make it not worth doing. This way, you can make better choices about whether to go ahead with the investment or not.
 

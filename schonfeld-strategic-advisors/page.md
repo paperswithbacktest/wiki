@@ -28,7 +28,7 @@ Since then, the company has grown a lot. They now have offices all over the worl
 
 ## What types of investment strategies does Schonfeld Strategic Advisors employ?
 
-Schonfeld Strategic Advisors uses many different ways to invest money. They mix different strategies to try to make the best returns for their clients. Some of these strategies involve using computers to find patterns in the market. This is called quantitative investing. They also use the ideas and knowledge of people who are good at picking stocks. This is called fundamental investing. By using both computers and people's ideas, they can cover a lot of different ways to make money.
+Schonfeld Strategic Advisors uses many different ways to invest money. They mix different strategies to try to make the best returns for their clients. Some of these strategies involve using computers to find patterns in the market. This is called quantitative investing. They also use the ideas and knowledge of people who are good at [picking](/wiki/asset-class-picking) stocks. This is called fundamental investing. By using both computers and people's ideas, they can cover a lot of different ways to make money.
 
 Another way they invest is by trading quickly in and out of the market. This is called short-term trading. They look for small changes in prices to make quick profits. They also invest in different types of markets, like stocks, bonds, and other things. This is called multi-asset investing. By spreading their money across different types of investments, they can lower the risk and try to make more money for their clients.
 

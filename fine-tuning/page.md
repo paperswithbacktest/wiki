@@ -21,7 +21,7 @@ This process saves a lot of time and effort. Training a new model from the begin
 
 ## How does fine-tuning differ from training a model from scratch?
 
-Fine-tuning and training a model from scratch are two different ways to teach a machine learning model. When you train a model from scratch, you start with a blank slate. You gather a lot of data, set up the model's architecture, and then let it learn everything from the ground up. This can take a long time and needs a lot of data because the model has to learn everything by itself. It's like teaching a baby to understand the world - it starts knowing nothing and learns everything slowly.
+Fine-tuning and training a model from scratch are two different ways to teach a [machine learning](/wiki/machine-learning) model. When you train a model from scratch, you start with a blank slate. You gather a lot of data, set up the model's architecture, and then let it learn everything from the ground up. This can take a long time and needs a lot of data because the model has to learn everything by itself. It's like teaching a baby to understand the world - it starts knowing nothing and learns everything slowly.
 
 On the other hand, fine-tuning starts with a model that's already been trained on a large dataset. This model already knows a lot about the world, but you want it to be even better at a specific task. So, you take this pre-trained model and train it a bit more, but only on data related to your specific task. It's like taking a smart person and teaching them to be even smarter about one thing. This way, the model doesn't forget what it already knows, but it gets better at the new task quickly. Fine-tuning saves time and effort because the model doesn't have to learn everything from the beginning.
 

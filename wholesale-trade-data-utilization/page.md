@@ -60,7 +60,7 @@ Using data also helps wholesalers solve problems quickly. If a customer has an i
 
 ## What advanced data technologies are being adopted by wholesalers?
 
-Wholesalers are starting to use advanced data technologies like big data and machine learning to help them make better decisions. Big data lets them look at huge amounts of information from sales, inventory, and customers all at once. This helps them see patterns and trends that they might miss if they only looked at small pieces of data. Machine learning is a type of computer program that can learn from data and make predictions. For example, it can predict how much of a product will sell next month, so wholesalers can order just the right amount.
+Wholesalers are starting to use advanced data technologies like big data and [machine learning](/wiki/machine-learning) to help them make better decisions. Big data lets them look at huge amounts of information from sales, inventory, and customers all at once. This helps them see patterns and trends that they might miss if they only looked at small pieces of data. Machine learning is a type of computer program that can learn from data and make predictions. For example, it can predict how much of a product will sell next month, so wholesalers can order just the right amount.
 
 Another technology that wholesalers are using is the Internet of Things (IoT). IoT devices, like sensors in warehouses, can collect data about where products are and how they are being stored. This helps wholesalers keep track of their inventory in real-time and make sure everything is in the right place. By using these advanced technologies, wholesalers can work more efficiently, save money, and serve their customers better.
 

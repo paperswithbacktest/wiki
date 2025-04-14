@@ -150,7 +150,7 @@ Where capital employed is the sum of shareholders' equity and debt liabilities. 
 
 The strategic use of ROA and ROCE can guide investors in selecting investments that promise sustainable returns. By analyzing these metrics, investors can compare companies within the same industry or sector, identifying those that leverage their assets and capital more effectively than their peers. However, it's crucial for investors to consider industry-specific benchmarks, as capital requirements and operational dynamics can vary widely between sectors.
 
-The emergence of algorithmic trading has further enhanced the decision-making accuracy for investors by integrating these financial metrics with real-time data and other advanced analytics. Algorithmic models can be developed to automate the evaluation process, allowing investors to respond swiftly to market conditions and refine their investment strategies based on up-to-date information.
+The emergence of [algorithmic trading](/wiki/algorithmic-trading) has further enhanced the decision-making accuracy for investors by integrating these financial metrics with real-time data and other advanced analytics. Algorithmic models can be developed to automate the evaluation process, allowing investors to respond swiftly to market conditions and refine their investment strategies based on up-to-date information.
 
 Investors should also be mindful of economic cycles, assessing how companies perform under varying macroeconomic conditions. This holistic approach ensures a more nuanced view of a company's enduring financial health and its resilience amidst economic fluctuations.
 

@@ -102,7 +102,7 @@ Algorithmic trading has become a cornerstone of modern financial markets, levera
 
 One of the primary advantages of algorithmic trading in crack spread markets is the ability to process large volumes of data at high speeds, assessing pricing trends and executing trades on optimal terms. Algorithms can analyze historical data, chart patterns, and market signals to make informed trading decisions without the delay inherent in manual trading. Additionally, algorithmic systems can operate continuously, enabling them to respond to market movements instantaneously.
 
-Volatility models, such as the Generalized Autoregressive Conditional Heteroskedasticity (GARCH) model, are often employed within these algorithmic strategies to predict market volatility. GARCH models are adept at capturing time-varying volatility and autocorrelation in financial time series data, which are crucial aspects of the ever-fluctuating crack spread market. By accurately modeling and forecasting volatility, these algorithms can adjust trading parameters dynamically to optimize risk-adjusted returns.
+Volatility models, such as the Generalized Autoregressive Conditional Heteroskedasticity (GARCH) model, are often employed within these algorithmic strategies to predict market [volatility](/wiki/volatility-trading-strategies). GARCH models are adept at capturing time-varying volatility and autocorrelation in financial time series data, which are crucial aspects of the ever-fluctuating crack spread market. By accurately modeling and forecasting volatility, these algorithms can adjust trading parameters dynamically to optimize risk-adjusted returns.
 
 $$
 σ_t^2 = α_0 + α_1 ε_{t-1}^2 + β_1σ_{t-1}^2

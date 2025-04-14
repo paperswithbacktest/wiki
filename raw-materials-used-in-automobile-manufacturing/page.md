@@ -38,7 +38,7 @@ Composites are materials made from two or more substances, like fiberglass or ca
 
 ## How are rubber and textiles utilized in car manufacturing?
 
-Rubber is a very important material in car manufacturing. It is mostly used for making tires, which are essential for the car to move safely. Tires need to be strong and flexible to handle different road conditions. Rubber is also used for other parts like seals and hoses. Seals help keep water and air out of the car, and hoses carry fluids like coolant and fuel. Using rubber makes these parts last longer and work well.
+Rubber is a very important material in car manufacturing. It is mostly used for making tires, which are essential for the car to move safely. Tires need to be strong and flexible to handle different road conditions. Rubber is also used for other parts like seals and hoses. Seals help keep water and air out of the car, and hoses [carry](/wiki/carry-trading) fluids like coolant and fuel. Using rubber makes these parts last longer and work well.
 
 Textiles are used a lot inside the car. They are mainly used for making the seats and the carpets. Textiles can be made from different materials like cloth or leather, and they make the inside of the car comfortable and nice to look at. They also help with safety because they can be made to absorb energy in a crash. Textiles are important for making the car a nice place to be while driving.
 

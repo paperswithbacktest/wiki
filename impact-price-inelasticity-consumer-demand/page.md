@@ -38,7 +38,7 @@ When a product is price inelastic, businesses know that they can change the pric
 
 Price inelasticity happens when the amount of a product people buy doesn't change much even if the price goes up or down. This often happens because the product is something people really need. For example, medicine is price inelastic because if you're sick, you need it to get better. You can't just stop taking your medicine, so you'll buy it no matter how much it costs. Gasoline is another example. If you need to drive to work or school, you'll buy gas even if the price goes up because you have to get where you're going.
 
-Another factor that makes a product price inelastic is when there aren't many other choices. If you need electricity for your home, you can't easily find something else to use instead. You need it for lights, cooking, and charging your phone, so you'll keep buying it even if the price changes. When there are few substitutes for a product, people have to keep buying it, so the demand stays the same even if the price goes up or down.
+Another [factor](/wiki/factor-investing) that makes a product price inelastic is when there aren't many other choices. If you need electricity for your home, you can't easily find something else to use instead. You need it for lights, cooking, and charging your phone, so you'll keep buying it even if the price changes. When there are few substitutes for a product, people have to keep buying it, so the demand stays the same even if the price goes up or down.
 
 ## Can price inelasticity change over time? If so, how?
 

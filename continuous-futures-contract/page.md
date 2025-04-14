@@ -64,7 +64,7 @@ Because of these differences, it's important to understand how each platform or 
 
 ## What advanced strategies can be employed using continuous futures contracts?
 
-Continuous futures contracts can help traders use a strategy called trend following. This means they watch the long-term price movement to decide when to buy or sell. For example, if they see that the price of gold has been going up slowly over the last few years, they might decide to buy gold futures now, hoping to sell them later at a higher price. By using continuous futures, traders can spot these long-term trends more easily and make better decisions about when to get in or out of the market.
+Continuous futures contracts can help traders use a strategy called [trend following](/wiki/trend-following). This means they watch the long-term price movement to decide when to buy or sell. For example, if they see that the price of gold has been going up slowly over the last few years, they might decide to buy gold futures now, hoping to sell them later at a higher price. By using continuous futures, traders can spot these long-term trends more easily and make better decisions about when to get in or out of the market.
 
 Another advanced strategy is using continuous futures for spread trading. This means buying one futures contract and selling another at the same time, betting on the price difference between them. Continuous futures can help traders see how these price differences change over time, which can be really useful for figuring out when to make these trades. By looking at the long-term patterns in the spread, traders can make smarter choices about which contracts to buy and sell, and how to manage their risks.
 
@@ -175,7 +175,7 @@ Selecting the appropriate method for constructing continuous futures depends sig
 
 ### Considerations for Short-Term Technical Analysis vs. Long-Term Trend Analysis
 
-For short-term technical analysis, the preferred continuous futures method often involves minimal data distortion. Traders who focus on short-term movements require high fidelity to the actual market data, which means that preserving the integrity of individual price movements is crucial. In this context, the **Rollover or Perpetual series** method is frequently suitable because it transitions between contracts without making proportion or value adjustments, preserving the day-to-day volatility inherent in the data.
+For short-term technical analysis, the preferred continuous futures method often involves minimal data distortion. Traders who focus on short-term movements require high fidelity to the actual market data, which means that preserving the integrity of individual price movements is crucial. In this context, the **Rollover or Perpetual series** method is frequently suitable because it transitions between contracts without making proportion or value adjustments, preserving the day-to-day [volatility](/wiki/volatility-trading-strategies) inherent in the data.
 
 For example, in a Rollover approach, when a contract nears expiration, the next contract is simply appended. This method might use a specified rollover date, often selected based on volume or open interest criteria, to indicate the transition point. 
 

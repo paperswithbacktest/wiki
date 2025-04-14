@@ -22,7 +22,7 @@ SEFs also help reduce risk in the financial system. When swaps are traded on a S
 
 ## What types of swaps can be traded on a SEF?
 
-SEFs allow trading of different kinds of swaps. The most common types are interest rate swaps and credit default swaps. Interest rate swaps let two parties exchange one set of interest payments for another, often to manage or change their exposure to interest rate changes. Credit default swaps are like insurance policies where one party pays another to protect against the risk of a borrower defaulting on a loan.
+SEFs allow trading of different kinds of swaps. The most common types are [interest rate](/wiki/interest-rate-trading-strategies) swaps and credit default swaps. Interest rate swaps let two parties exchange one set of interest payments for another, often to manage or change their exposure to interest rate changes. Credit default swaps are like insurance policies where one party pays another to protect against the risk of a borrower defaulting on a loan.
 
 Besides these, SEFs can also handle other types of swaps like commodity swaps and foreign exchange swaps. Commodity swaps involve exchanging a fixed price for a commodity for a floating price, which can help manage the risk of price changes in things like oil or wheat. Foreign exchange swaps involve exchanging one currency for another at a set rate and then swapping them back at a later date, which can be useful for managing currency risk. By offering a platform for these swaps, SEFs help make trading more open and safer for everyone involved.
 
@@ -30,7 +30,7 @@ Besides these, SEFs can also handle other types of swaps like commodity swaps an
 
 A Swap Execution Facility (SEF) and a traditional exchange both help people trade financial products, but they work a bit differently. A traditional exchange, like a stock exchange, is a place where people can buy and sell stocks, bonds, and other securities. These exchanges have a central place where all the trading happens, and they set strict rules about how trading can be done. They also have a system to match buyers and sellers, and they make sure that all trades are done fairly and openly.
 
-On the other hand, a SEF is focused on trading swaps, which are more complex financial agreements. SEFs can offer different ways to trade, like using a central limit order book, where people can see all the buy and sell orders, or through a request-for-quote system, where traders can ask for prices from other traders. SEFs are also more flexible in how they let people trade, but they still have to follow rules set by regulators to make sure trading is fair and transparent. So, while both SEFs and traditional exchanges aim to make trading safe and open, they handle different types of financial products and use different methods to do so.
+On the other hand, a SEF is focused on trading swaps, which are more complex financial agreements. SEFs can offer different ways to trade, like using a central limit [order book](/wiki/order-book-trading-strategies), where people can see all the buy and sell orders, or through a request-for-quote system, where traders can ask for prices from other traders. SEFs are also more flexible in how they let people trade, but they still have to follow rules set by regulators to make sure trading is fair and transparent. So, while both SEFs and traditional exchanges aim to make trading safe and open, they handle different types of financial products and use different methods to do so.
 
 ## What are the regulatory requirements for operating a SEF?
 

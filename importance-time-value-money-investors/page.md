@@ -86,7 +86,7 @@ Another example is when people invest in retirement accounts like a 401(k). If s
 
 ## What is the Time Value of Money and How Can We Understand It?
 
-The time value of money (TVM) is a core financial principle highlighting that a sum of money available today holds more value than the same sum in the future. This is due to the potential earning capacity of money over time through investment and interest accrual. The concept of TVM underscores the necessity for investment strategies to weigh both immediate and projected values when making financial decisions.
+The time value of money (TVM) is a core financial principle highlighting that a sum of money available today holds more value than the same sum in the future. This is due to the potential [earning](/wiki/earning-announcement) capacity of money over time through investment and interest accrual. The concept of TVM underscores the necessity for investment strategies to weigh both immediate and projected values when making financial decisions.
 
 At the heart of TVM is the notion that money can earn interest, making it advantageous to receive funds sooner to fully exploit compounding potential. This principle is vital in estimating future investment returns, serving as the foundation for various financial models and decisions. The fundamental TVM equation can be expressed in several forms to calculate present value (PV), future value (FV), interest rate, or time period. The future value formula is:
 
@@ -154,7 +154,7 @@ print(predictions) # Outputs: ['positive']
 
 #### Risks and Regulatory Considerations
 
-Despite its benefits, algorithmic trading is not without risks. Systems are susceptible to technological failures or bugs that may result in unintended trades, potentially causing significant financial losses. Furthermore, algorithms that engage in HFT can exacerbate market volatility. Regulatory bodies have thus implemented controls to mitigate these risks, including circuit breakers that halt trading during drastic price fluctuations and mandates for algorithmic testing before deployment.
+Despite its benefits, algorithmic trading is not without risks. Systems are susceptible to technological failures or bugs that may result in unintended trades, potentially causing significant financial losses. Furthermore, algorithms that engage in HFT can exacerbate market [volatility](/wiki/volatility-trading-strategies). Regulatory bodies have thus implemented controls to mitigate these risks, including circuit breakers that halt trading during drastic price fluctuations and mandates for algorithmic testing before deployment.
 
 The landscape of algorithmic trading continues to evolve as new technologies emerge, demanding ongoing adjustments to regulatory frameworks to ensure market stability and integrity. As algorithmic trading becomes more prevalent, staying informed about both technological advancements and regulatory updates remains crucial for traders.
 

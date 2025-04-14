@@ -18,7 +18,7 @@ Econometrics is important because it helps us make better decisions. For example
 
 Economics is like a big picture of how people, businesses, and governments use resources. It's about understanding things like why prices go up or down, how people make choices, and how the economy grows. Economics uses theories and models to explain these things, but it doesn't always use numbers and data to prove them.
 
-Econometrics, on the other hand, is a part of economics that focuses on using numbers and data. It's like the detective of economics, using math and statistics to test if the theories in economics are true. Econometrics helps economists see if their ideas match what's happening in the real world by looking at data from the past and making guesses about the future. So, while economics gives us the theories, econometrics helps us check if those theories work in real life.
+Econometrics, on the other hand, is a part of economics that focuses on using numbers and data. It's like the detective of economics, using math and [statistics](/wiki/bayesian-statistics) to test if the theories in economics are true. Econometrics helps economists see if their ideas match what's happening in the real world by looking at data from the past and making guesses about the future. So, while economics gives us the theories, econometrics helps us check if those theories work in real life.
 
 ## What are the main types of data used in econometrics?
 
@@ -50,7 +50,7 @@ Combining AR and MA models gives us the Autoregressive Moving Average (ARMA) mod
 
 ## How do econometricians address the issue of multicollinearity?
 
-Multicollinearity is when two or more things in your data are closely related, making it hard to tell which one really affects the outcome. Imagine you're trying to figure out if the number of hours students study or the number of books they read affects their grades. If students who study a lot also read a lot of books, it's tough to say which one is more important for their grades. This is a problem because it can make your econometric model less reliable and harder to understand.
+Multicollinearity is when two or more things in your data are closely related, making it hard to tell which one really affects the outcome. Imagine you're trying to figure out if the number of hours students study or the number of [books](/wiki/algo-trading-books) they read affects their grades. If students who study a lot also read a lot of books, it's tough to say which one is more important for their grades. This is a problem because it can make your econometric model less reliable and harder to understand.
 
 Econometricians have a few ways to deal with multicollinearity. One way is to drop one of the related variables from the model. If studying and reading books are too similar, you might just use one of them. Another way is to combine the related variables into one new variable. For example, you could add up the hours of studying and the number of books read to get a total "effort" score. Lastly, econometricians can use special techniques, like ridge regression, that help handle multicollinearity without dropping variables. These methods make the model more stable and the results easier to trust.
 
@@ -80,7 +80,7 @@ Using panel data also helps economists deal with problems like endogeneity, wher
 
 ## What are the latest developments in econometrics, such as machine learning applications?
 
-One of the latest developments in econometrics is the use of machine learning. Machine learning is a type of computer science that helps computers learn from data without being told exactly what to do. In econometrics, machine learning can help economists find patterns in big sets of data that would be hard to see otherwise. For example, machine learning can look at lots of information about people's spending and figure out what makes someone more likely to buy a certain product. This helps economists make better predictions and understand the economy in new ways.
+One of the latest developments in econometrics is the use of [machine learning](/wiki/machine-learning). Machine learning is a type of computer science that helps computers learn from data without being told exactly what to do. In econometrics, machine learning can help economists find patterns in big sets of data that would be hard to see otherwise. For example, machine learning can look at lots of information about people's spending and figure out what makes someone more likely to buy a certain product. This helps economists make better predictions and understand the economy in new ways.
 
 Another exciting development is the use of big data in econometrics. Big data means using huge amounts of information from places like social media, online shopping, and smartphones. This data can show economists things that traditional data can't, like how people feel about the economy or how they react to new policies in real time. By using big data, economists can test their theories more accurately and quickly, leading to better decisions about things like taxes or interest rates. These new tools are making econometrics more powerful and helping us understand the economy better than ever before.
 

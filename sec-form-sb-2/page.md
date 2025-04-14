@@ -115,7 +115,7 @@ Algorithmic trading, characterized by the use of computer algorithms to automate
 
 ### Impact of Algorithmic Trading on Small Business Securities Offerings
 
-Algorithmic trading leverages advanced computational methods to process vast amounts of data quickly. For small businesses, this means their securities can be assessed and traded with unprecedented speed and efficiency. This capability benefits small businesses by enhancing liquidity and potentially broadening their investor base. Enhanced liquidity means that shares can be bought and sold more easily, which can contribute to more stable pricing and reduced [volatility](/wiki/volatility-trading-strategies).
+Algorithmic trading leverages advanced computational methods to process vast amounts of data quickly. For small businesses, this means their securities can be assessed and traded with unprecedented speed and efficiency. This capability benefits small businesses by enhancing [liquidity](/wiki/liquidity-risk-premium) and potentially broadening their investor base. Enhanced liquidity means that shares can be bought and sold more easily, which can contribute to more stable pricing and reduced [volatility](/wiki/volatility-trading-strategies).
 
 Furthermore, [algorithmic trading](/wiki/algorithmic-trading) can influence the pricing of new securities issued by small businesses. Algorithms analyze public financial disclosures, market trends, and other variables to determine securities valuations. This technology could potentially lead to more accurate pricing, minimizing instances where newly issued securities are under or overvalued.
 

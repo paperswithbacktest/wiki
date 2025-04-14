@@ -44,7 +44,7 @@ On the other hand, a particle filter is like a bunch of tiny guessers working to
 
 Resampling is a key part of how particle filters work. It's like giving a fresh start to the particles that made good guesses. Imagine you're trying to track a soccer ball on the field. You have a bunch of particles guessing where the ball is. When you see where the ball really is, you check which particles guessed right. Resampling means you keep the good guesses and throw away the bad ones. Then, you make new particles based on the good guesses, so you have a new set of particles that are more likely to be right.
 
-This process helps the particle filter stay accurate over time. Without resampling, the particles might spread out too much and lose track of the ball. By resampling, you focus on the particles that are doing well, which makes the filter better at predicting where the ball will go next. It's like picking the best players for your team and giving them a chance to keep playing, while the others sit out. This way, the particle filter can keep up with the ball even if it moves in unexpected ways.
+This process helps the particle filter stay accurate over time. Without resampling, the particles might spread out too much and lose track of the ball. By resampling, you focus on the particles that are doing well, which makes the filter better at predicting where the ball will go next. It's like [picking](/wiki/asset-class-picking) the best players for your team and giving them a chance to keep playing, while the others sit out. This way, the particle filter can keep up with the ball even if it moves in unexpected ways.
 
 ## How do you initialize particles in a particle filter?
 
@@ -78,13 +78,13 @@ The other tricky thing particle filters can handle is when the guesses don't fol
 
 ## What are some recent developments in particle filter algorithms?
 
-One recent development in particle filter algorithms is the use of machine learning to make them smarter. Imagine you're trying to track a car that keeps changing its route. By using machine learning, the particle filter can learn from past data to make better guesses about where the car might go next. This makes the filter more accurate and able to handle tricky situations better. For example, if the car often turns left at a certain intersection, the filter can use this information to focus its guesses in that direction.
+One recent development in particle filter algorithms is the use of [machine learning](/wiki/machine-learning) to make them smarter. Imagine you're trying to track a car that keeps changing its route. By using machine learning, the particle filter can learn from past data to make better guesses about where the car might go next. This makes the filter more accurate and able to handle tricky situations better. For example, if the car often turns left at a certain intersection, the filter can use this information to focus its guesses in that direction.
 
 Another development is the use of parallel computing to make particle filters faster. Think of it like having many friends help you search for a lost toy. Instead of one person looking, lots of people can search at the same time, which makes the search quicker. In computers, this means using multiple processors to update and resample the particles all at once. This way, the particle filter can keep up with fast-moving objects without slowing down, making it useful for things like tracking drones in real-time.
 
 ## What are the applications in high-frequency trading?
 
-In the fast-paced world of high-frequency trading (HFT), the application of particle filters is crucial for predicting rapid price changes. These filters are adept at updating beliefs about market states as new information becomes available, which is essential in environments where split-second decisions can determine the profitability of trading operations.
+In the fast-paced world of high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), the application of particle filters is crucial for predicting rapid price changes. These filters are adept at updating beliefs about market states as new information becomes available, which is essential in environments where split-second decisions can determine the profitability of trading operations.
 
 Particle filters operate by estimating the latent variables of a financial system that are not directly observable. In the context of HFT, these latent variables can include components such as intrinsic market values or the actions of other market participants. By representing the probability distribution of these hidden states, particle filters allow for an adaptive response to market dynamics.
 

@@ -19,7 +19,7 @@ A dense layer, also called a fully connected layer, is different from other type
 
 Other layers, like convolutional layers, focus on local patterns in the data. For example, in image processing, a convolutional layer might look at small parts of an image at a time, which helps it recognize features like edges or textures. This is different from a dense layer, which looks at the whole input at once. Also, layers like recurrent layers are used for data that comes in sequences, like text or time series, and they can remember information from earlier in the sequence. Dense layers don't have this memory feature, so they treat each input independently.
 
-In summary, dense layers are versatile and can learn complex patterns from the entire input, but they can be computationally expensive. Other layers, like convolutional and recurrent layers, are more specialized and efficient for certain types of data, like images or sequences. Choosing the right type of layer depends on the specific problem you're trying to solve with your neural network.
+In summary, dense layers are versatile and can learn complex patterns from the entire input, but they can be computationally expensive. Other layers, like convolutional and recurrent layers, are more specialized and efficient for certain types of data, like images or sequences. Choosing the right type of layer depends on the specific problem you're trying to solve with your [neural network](/wiki/neural-network).
 
 ## What are the main components of a dense layer?
 
@@ -67,7 +67,7 @@ You can also try different numbers of neurons and see which one works best. This
 
 ## How do dense layers contribute to feature learning in deep neural networks?
 
-Dense layers play a big role in helping deep neural networks learn features from the data they get. Each neuron in a dense layer looks at all the inputs from the layer before it, and by changing the weights and biases, the layer can learn which parts of the input are important. This means the dense layer can find patterns and features in the data, like edges in an image or certain words in a sentence. By stacking multiple dense layers, the network can learn more and more complex features, with early layers picking up simple patterns and later layers combining these to understand more complicated ones.
+Dense layers play a big role in helping deep neural networks learn features from the data they get. Each neuron in a dense layer looks at all the inputs from the layer before it, and by changing the weights and biases, the layer can learn which parts of the input are important. This means the dense layer can find patterns and features in the data, like edges in an image or certain words in a sentence. By stacking multiple dense layers, the network can learn more and more complex features, with early layers [picking](/wiki/asset-class-picking) up simple patterns and later layers combining these to understand more complicated ones.
 
 For example, if you're trying to recognize pictures of cats and dogs, the first dense layer might learn to spot edges and simple shapes. The next layer could then use these to recognize parts of a cat or dog, like ears or tails. By the time the data gets to the last dense layer, the network can put all these pieces together to tell if the picture is a cat or a dog. This way, dense layers help the neural network build up its understanding of the data, layer by layer, until it can make good guesses about what it's seeing.
 

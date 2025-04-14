@@ -76,7 +76,7 @@ They also spread out their investments to manage risk. Instead of putting all th
 
 ## What future trends does Quantumrock Capital anticipate in the investment landscape?
 
-Quantumrock Capital believes that technology will keep changing the way businesses work. They think more companies will use things like artificial intelligence, big data, and new ways to connect people. These technologies can help businesses do their work better and faster. Quantumrock Capital wants to invest in businesses that use these new technologies to solve problems in smart ways. They think these businesses will grow and help the economy get stronger.
+Quantumrock Capital believes that technology will keep changing the way businesses work. They think more companies will use things like [artificial intelligence](/wiki/ai-artificial-intelligence), big data, and new ways to connect people. These technologies can help businesses do their work better and faster. Quantumrock Capital wants to invest in businesses that use these new technologies to solve problems in smart ways. They think these businesses will grow and help the economy get stronger.
 
 They also think that more people will care about things like the environment and social issues. Businesses that help with these problems will be important in the future. Quantumrock Capital wants to find and help these kinds of businesses. They believe that by investing in companies that care about the world and its people, they can make a difference and also make good returns on their investments.
 

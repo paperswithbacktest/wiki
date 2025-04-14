@@ -84,7 +84,7 @@ In another example, a real estate company is looking to buy an apartment buildin
 
 ## How was depreciation successfully integrated into trading algorithms according to the case study?
 
-In this case study, we examine how a sophisticated trading model successfully incorporated appraisal depreciation insights to optimize algorithmic trading strategies. The trading model, developed by a fictitious firm named "Quantum Trades", highlights the integration of real-time depreciation data into its trading algorithms and the resultant effects on trade execution and profit maximization.
+In this case study, we examine how a sophisticated trading model successfully incorporated appraisal depreciation insights to optimize [algorithmic trading](/wiki/algorithmic-trading) strategies. The trading model, developed by a fictitious firm named "Quantum Trades", highlights the integration of real-time depreciation data into its trading algorithms and the resultant effects on trade execution and profit maximization.
 
 ### Framework for Integration
 

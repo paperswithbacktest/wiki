@@ -62,7 +62,7 @@ Now, you multiply all these growth rates together: 1.10 * 1.10 * 1.05 = 1.265. Y
 
 TWRR is really helpful when you want to compare how different investment managers are doing. It looks at how well the investments are growing over time, without caring about when money is added or taken out. This means you can see which manager is making better choices with the investments, no matter when you or others put money in or took it out. It's like a fair way to see who's doing a better job, because it focuses just on the growth of the investments themselves.
 
-For example, if you have two managers and you want to see who's better, TWRR helps you do that. One manager might have had more money added to their fund at different times, but TWRR ignores those changes. It only shows you how the investments grew under each manager's care. This way, you can tell which manager is picking better investments or managing them better, without the timing of money movements getting in the way.
+For example, if you have two managers and you want to see who's better, TWRR helps you do that. One manager might have had more money added to their fund at different times, but TWRR ignores those changes. It only shows you how the investments grew under each manager's care. This way, you can tell which manager is [picking](/wiki/asset-class-picking) better investments or managing them better, without the timing of money movements getting in the way.
 
 ## What are the common pitfalls or errors when calculating TWRR?
 

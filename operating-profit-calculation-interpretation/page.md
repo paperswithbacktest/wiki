@@ -58,7 +58,7 @@ For example, if two companies in the same industry have similar total revenues b
 
 ## What factors can significantly impact a company's operating profit?
 
-Many things can change a company's operating profit. One big factor is the cost of goods sold. This is how much it costs to make the products or provide the services. If the cost of materials goes up or if it takes more labor to make something, the operating profit can go down. Another factor is how much the company charges for its products or services. If they can charge more without losing customers, their operating profit can go up. But if they have to lower prices to compete, their operating profit might go down.
+Many things can change a company's operating profit. One big [factor](/wiki/factor-investing) is the cost of goods sold. This is how much it costs to make the products or provide the services. If the cost of materials goes up or if it takes more labor to make something, the operating profit can go down. Another factor is how much the company charges for its products or services. If they can charge more without losing customers, their operating profit can go up. But if they have to lower prices to compete, their operating profit might go down.
 
 Operating expenses also play a big role. These are costs like rent, utilities, and salaries for people who aren't directly making the products. If these costs go up, it can hurt the operating profit. On the other hand, if a company finds ways to cut these costs, like moving to a cheaper office or using less electricity, their operating profit can improve. Changes in the economy or industry can also affect operating profit. For example, if there's a recession, people might buy less, which can lower a company's revenue and operating profit.
 

@@ -34,7 +34,7 @@ CBOs, on the other hand, are backed by bonds. These bonds can be from different 
 
 ## What are the primary risks associated with investing in CMOs?
 
-One of the main risks of investing in CMOs is prepayment risk. This happens when homeowners pay off their mortgages earlier than expected, maybe because they sell their house or refinance their loan. When this happens, the money that was supposed to come in over a long time comes in all at once. This can be a problem for investors because they might have to reinvest this money at a lower interest rate, which means they won't make as much money as they had planned.
+One of the main risks of investing in CMOs is prepayment risk. This happens when homeowners pay off their mortgages earlier than expected, maybe because they sell their house or refinance their loan. When this happens, the money that was supposed to come in over a long time comes in all at once. This can be a problem for investors because they might have to reinvest this money at a lower [interest rate](/wiki/interest-rate-trading-strategies), which means they won't make as much money as they had planned.
 
 Another big risk is interest rate risk. When interest rates go up, the value of the CMOs can go down. This is because new loans and securities might offer higher rates, making the older CMOs less attractive. Also, if interest rates rise, fewer people might refinance their mortgages, which can slow down the payments coming into the CMO. This can affect how much money investors get and when they get it.
 
@@ -80,7 +80,7 @@ For CBOs, the rules also have a big impact. The government looks at the bonds th
 
 ## What are advanced strategies for hedging risks in CMOs and CBOs?
 
-To hedge risks in CMOs, investors can use interest rate swaps. This is like making a deal with someone else to swap interest payments. If interest rates go up, the CMO might lose value, but the swap can help make up for that loss. Another way is to use options, which are like bets on how interest rates will change. If rates go up and hurt the CMO, the options can pay off and help cover the loss. Also, investors can spread their money across different parts of the CMO, called tranches. Some tranches are safer and others are riskier, so by picking a mix, investors can balance their risk.
+To hedge risks in CMOs, investors can use interest rate swaps. This is like making a deal with someone else to swap interest payments. If interest rates go up, the CMO might lose value, but the swap can help make up for that loss. Another way is to use options, which are like bets on how interest rates will change. If rates go up and hurt the CMO, the options can pay off and help cover the loss. Also, investors can spread their money across different parts of the CMO, called tranches. Some tranches are safer and others are riskier, so by [picking](/wiki/asset-class-picking) a mix, investors can balance their risk.
 
 For CBOs, hedging can involve credit default swaps. These are like insurance policies that pay out if the bonds in the CBO don't get paid back. If a lot of bonds default, the swap can help cover the loss. Another strategy is to use interest rate derivatives, like futures or options, to protect against changes in interest rates. If rates go up and the bonds in the CBO lose value, the derivatives can help make up for that loss. Just like with CMOs, spreading money across different tranches of the CBO can help manage risk. By choosing a mix of safe and risky tranches, investors can balance their need for safety with their desire for higher returns.
 
@@ -110,7 +110,7 @@ CMOs have become valuable in the portfolio diversification strategies for instit
 
 ## What are the challenges and risks?
 
-Mortgage-backed securities (MBS), including Collateralized Mortgage Obligations (CMOs) and Collateralized Bond Obligations (CBOs), alongside algorithmic trading, introduce several challenges despite their advantages. These challenges primarily stem from interest rate risk, algorithmic failures, and market [volatility](/wiki/volatility-trading-strategies), all of which can significantly impact their performance and effectiveness.
+Mortgage-backed securities (MBS), including Collateralized Mortgage Obligations (CMOs) and Collateralized Bond Obligations (CBOs), alongside [algorithmic trading](/wiki/algorithmic-trading), introduce several challenges despite their advantages. These challenges primarily stem from interest rate risk, algorithmic failures, and market [volatility](/wiki/volatility-trading-strategies), all of which can significantly impact their performance and effectiveness.
 
 Interest rate risk is a significant concern in the context of MBS and its derivatives. These securities are particularly sensitive to changes in interest rates due to their reliance on underlying mortgage payments. As interest rates rise, the value of existing bonds typically decreases, impacting the market price of MBS. This relationship is crucial for investors to monitor: 
 

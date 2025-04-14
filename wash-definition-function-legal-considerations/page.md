@@ -62,7 +62,7 @@ Regulators like the SEC and CFTC work hard to stop wash trading because it can m
 
 In most cases, wash transactions are not allowed and are seen as cheating in financial markets. They are used to trick people into thinking a stock is more popular or active than it really is. This can change the price of the stock in a way that is not fair. Because of this, regulators like the SEC and CFTC watch closely for wash trading and punish people who do it.
 
-However, there are some situations where transactions that look like wash trades might be used for good reasons. For example, in some commodity markets, companies might use wash transactions to balance their books or manage their inventory without changing their overall position. These are not meant to trick the market but to help the company keep track of their goods. Even in these cases, the transactions must follow strict rules to make sure they are not used to cheat.
+However, there are some situations where transactions that look like wash trades might be used for good reasons. For example, in some commodity markets, companies might use wash transactions to balance their [books](/wiki/algo-trading-books) or manage their inventory without changing their overall position. These are not meant to trick the market but to help the company keep track of their goods. Even in these cases, the transactions must follow strict rules to make sure they are not used to cheat.
 
 ## How have regulations regarding wash trading evolved over the past decade?
 

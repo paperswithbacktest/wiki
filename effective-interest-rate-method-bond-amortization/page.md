@@ -20,11 +20,11 @@ The effective interest rate method and the straight-line method are two ways to 
 
 On the other hand, the straight-line method is simpler but less accurate. It spreads the total interest cost evenly over the life of the bond. So, if you have a bond that lasts 10 years, you'd pay the same amount of interest every year. This method is easier to calculate, but it doesn't reflect how the bond's value changes over time. It's like paying the same amount of interest no matter how much of the bond you've paid off.
 
-In summary, the effective interest rate method gives a more realistic picture of how much interest you're really paying or earning because it adjusts for the bond's changing value. The straight-line method, while easier to use, doesn't account for these changes and can make your interest payments seem more consistent than they actually are.
+In summary, the effective interest rate method gives a more realistic picture of how much interest you're really paying or [earning](/wiki/earning-announcement) because it adjusts for the bond's changing value. The straight-line method, while easier to use, doesn't account for these changes and can make your interest payments seem more consistent than they actually are.
 
 ## What is bond amortization and why is it important?
 
-Bond amortization is a way to spread out the cost of a bond over the time you own it. When you buy a bond, you might pay more or less than its face value. If you pay more, you have to slowly reduce that extra amount over time. If you pay less, you slowly increase the bond's value on your books until it matches the face value. This process of adjusting the bond's value is called amortization.
+Bond amortization is a way to spread out the cost of a bond over the time you own it. When you buy a bond, you might pay more or less than its face value. If you pay more, you have to slowly reduce that extra amount over time. If you pay less, you slowly increase the bond's value on your [books](/wiki/algo-trading-books) until it matches the face value. This process of adjusting the bond's value is called amortization.
 
 It's important because it helps show the true cost of the bond over time. Without amortization, your financial statements might not accurately show how much you're really spending or earning from the bond. By spreading out the cost, you get a clearer picture of your finances, which is crucial for making good decisions about investments and managing money.
 

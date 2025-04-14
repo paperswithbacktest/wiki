@@ -40,7 +40,7 @@ Other currencies that are sometimes used include the British pound (GBP), the Ja
 
 ## How do interest rates affect dual currency deposits?
 
-Interest rates can make a big difference for dual currency deposits. When you put money into a dual currency deposit, the bank might pay you interest on the money you save in each currency. If the interest rate for one currency is higher than the other, you might earn more money from that currency. This can be good if you want to make the most of your savings. But, interest rates can change over time, so you need to keep an eye on them to see if they affect how much money you are earning.
+Interest rates can make a big difference for dual currency deposits. When you put money into a dual currency deposit, the bank might pay you interest on the money you save in each currency. If the [interest rate](/wiki/interest-rate-trading-strategies) for one currency is higher than the other, you might earn more money from that currency. This can be good if you want to make the most of your savings. But, interest rates can change over time, so you need to keep an eye on them to see if they affect how much money you are [earning](/wiki/earning-announcement).
 
 Also, interest rates can affect exchange rates between the two currencies. If one country raises its interest rates, its currency might become more valuable compared to the other currency. This could mean that when you take your money out of the dual currency deposit, you get more of the currency with the higher interest rate. But, if the interest rates go down, the opposite could happen. So, it's important to think about how changes in interest rates might change the value of your savings in each currency.
 
@@ -72,7 +72,7 @@ Another thing to think about is if you make money because of changes in exchange
 
 Global economic factors can have a big impact on how well your dual currency deposit does. Things like interest rates, inflation, and economic growth in different countries can change the value of the currencies you're saving in. For example, if one country raises its interest rates, its currency might become more valuable compared to the other currency in your deposit. This could mean you get more money when you take it out. But if the economy of one country is doing badly, its currency might lose value, which could make your deposit worth less.
 
-Another important factor is how countries trade with each other. If one country starts buying a lot more from another, it might need more of that country's currency, which can make it more valuable. Political events, like elections or new laws, can also shake up exchange rates. For instance, if people think a new government might make the economy worse, they might sell that country's currency, making it lose value. So, when you're thinking about a dual currency deposit, it's good to keep an eye on what's happening around the world, because it can all affect how much money you end up with.
+Another important [factor](/wiki/factor-investing) is how countries trade with each other. If one country starts buying a lot more from another, it might need more of that country's currency, which can make it more valuable. Political events, like elections or new laws, can also shake up exchange rates. For instance, if people think a new government might make the economy worse, they might sell that country's currency, making it lose value. So, when you're thinking about a dual currency deposit, it's good to keep an eye on what's happening around the world, because it can all affect how much money you end up with.
 
 ## What advanced strategies can be used to maximize returns from dual currency deposits?
 
@@ -84,7 +84,7 @@ Another strategy is to keep an eye on interest rate differences between the two 
 
 Currency investments play a crucial role in portfolio diversification by expanding the horizons beyond traditional asset classes such as stocks and bonds. One primary advantage of currency investments is their ability to act as a hedge against geopolitical events and economic crises that can adversely affect specific regions. These events can lead to significant currency fluctuations, which, if anticipated correctly, may protect and even enhance the value of an investment portfolio.
 
-For example, investors often seek refuge in stable currencies, such as the Swiss Franc or the US Dollar, during times of geopolitical tension. This strategic allocation can mitigate portfolio risk when other regions are experiencing volatility. Moreover, currencies do not necessarily move in tandem with equity or bond markets, offering a potential buffer against market downturns.
+For example, investors often seek refuge in stable currencies, such as the Swiss Franc or the US Dollar, during times of geopolitical tension. This strategic allocation can mitigate portfolio risk when other regions are experiencing [volatility](/wiki/volatility-trading-strategies). Moreover, currencies do not necessarily move in tandem with equity or bond markets, offering a potential buffer against market downturns.
 
 Different currency pairs, defined by their two-part compositions like EUR/USD or USD/JPY, present varied opportunities and risks, making them suitable for investors aiming for differentiated risk profiles. Each currency pair is influenced by distinct economic, political, and financial factors, providing investors with diverse instruments to tailor their exposure to currency markets.
 
@@ -96,7 +96,7 @@ $$
 
 where $R$ represents the percentage return, $S_0$ is the initial exchange rate, and $S_t$ is the exchange rate at time $t$.
 
-Investors often employ carry trade strategies, involving borrowing in a currency with low interest rates and investing in one with higher rates. This approach capitalizes on interest rate differentials across countries, adding another layer to diversification strategies.
+Investors often employ [carry](/wiki/carry-trading) trade strategies, involving borrowing in a currency with low interest rates and investing in one with higher rates. This approach capitalizes on interest rate differentials across countries, adding another layer to diversification strategies.
 
 In sum, currency investments can enhance portfolio diversification by offering protection against regional economic shocks and by enabling exposure to global economic dynamics. Through this, investors can achieve a more balanced risk-reward profile, aligning with their overall investment objectives.
 

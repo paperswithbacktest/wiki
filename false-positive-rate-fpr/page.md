@@ -21,7 +21,7 @@ To calculate the False Positive Rate, you need to know two things: the number of
 
 ## Why is the False Positive Rate important in machine learning models?
 
-The False Positive Rate (FPR) is important in machine learning because it helps us understand how often our model makes mistakes by saying something is true when it's actually false. Imagine you're using a model to check if emails are spam. If the FPR is high, it means the model often labels normal emails as spam, which can be annoying because you might miss important messages. By knowing the FPR, we can adjust the model to make it more reliable and reduce the number of false alarms.
+The False Positive Rate (FPR) is important in [machine learning](/wiki/machine-learning) because it helps us understand how often our model makes mistakes by saying something is true when it's actually false. Imagine you're using a model to check if emails are spam. If the FPR is high, it means the model often labels normal emails as spam, which can be annoying because you might miss important messages. By knowing the FPR, we can adjust the model to make it more reliable and reduce the number of false alarms.
 
 In fields like healthcare, the FPR is crucial because a high rate could lead to unnecessary worry and additional tests for patients. For example, if a test for a disease has a high FPR, it might tell someone they are sick when they are not. This can cause stress and extra medical costs. By keeping the FPR low, we can trust the model more and make better decisions based on its predictions. The formula to calculate FPR is $$ \text{FPR} = \frac{\text{FP}}{\text{FP} + \text{TN}} $$, where FP is the number of false positives and TN is the number of true negatives.
 

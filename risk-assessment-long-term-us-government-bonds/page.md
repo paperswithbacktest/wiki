@@ -48,7 +48,7 @@ This is called inflation risk. It's a big deal for long-term bonds because they 
 
 ## What role does market liquidity play in the risk of long-term U.S. government bonds?
 
-Market liquidity is about how easy it is to buy or sell something without changing its price too much. For long-term U.S. government bonds, liquidity can be a risk because if you need to sell your bond quickly, you might not find a buyer right away. This can be a problem if you need your money back before the bond matures. If there aren't many people wanting to buy, you might have to sell your bond for less than you paid for it.
+Market [liquidity](/wiki/liquidity-risk-premium) is about how easy it is to buy or sell something without changing its price too much. For long-term U.S. government bonds, liquidity can be a risk because if you need to sell your bond quickly, you might not find a buyer right away. This can be a problem if you need your money back before the bond matures. If there aren't many people wanting to buy, you might have to sell your bond for less than you paid for it.
 
 Even though U.S. government bonds are usually pretty liquid, it can still be harder to sell long-term bonds compared to short-term ones. This is because fewer people might want to buy a bond that lasts for 20 or 30 years. So, if you're thinking about buying long-term U.S. government bonds, it's good to know that you might not be able to sell them as easily as other investments. This can affect your plans if you need to get your money out quickly.
 

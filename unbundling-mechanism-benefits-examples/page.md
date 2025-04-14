@@ -30,7 +30,7 @@ Another reason is that unbundling can help a company focus on making each part b
 
 Unbundling can help consumers save money. When a big package is split into smaller parts, people can choose only what they need. For example, if someone only wants to watch sports, they can buy a sports channel instead of a whole TV package with lots of other channels they don't watch. This way, they pay less for what they really want.
 
-Unbundling also gives consumers more control. They can pick and choose the services or products that fit their needs best. This can make them feel happier because they are not stuck with a big package that has things they don't use. It's like picking your favorite candies from a big mix instead of buying the whole bag.
+Unbundling also gives consumers more control. They can pick and choose the services or products that fit their needs best. This can make them feel happier because they are not stuck with a big package that has things they don't use. It's like [picking](/wiki/asset-class-picking) your favorite candies from a big mix instead of buying the whole bag.
 
 ## Can you explain the economic impacts of unbundling on industries?
 

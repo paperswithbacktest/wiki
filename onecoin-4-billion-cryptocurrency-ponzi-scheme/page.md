@@ -18,7 +18,7 @@ Many people lost a lot of money because of OneCoin. The people who ran OneCoin s
 
 OneCoin was founded by a woman named Ruja Ignatova. She started OneCoin in 2014. Ruja told people that OneCoin was a new kind of money that they could buy and it would grow in value, just like Bitcoin.
 
-However, OneCoin was not a real cryptocurrency. It was a scam that tricked many people into giving their money to Ruja and her team. They promised that OneCoin would be a good investment, but it was not. In 2017, Ruja disappeared and is still missing today.
+However, OneCoin was not a real [cryptocurrency](/wiki/cryptocurrency). It was a scam that tricked many people into giving their money to Ruja and her team. They promised that OneCoin would be a good investment, but it was not. In 2017, Ruja disappeared and is still missing today.
 
 ## How did OneCoin operate as a cryptocurrency?
 

@@ -38,7 +38,7 @@ Also, timing can play a role. The ETF might not be able to buy or sell things at
 
 Tracking error can affect how much money an investor makes or loses. If an ETF has a big tracking error, it means the ETF isn't doing a good job of copying the index it's supposed to follow. This can lead to the ETF's returns being different from what the investor expected. For example, if the index goes up but the ETF doesn't go up as much, the investor might miss out on some gains. On the other hand, if the index goes down and the ETF goes down even more, the investor could lose more money than they thought they would.
 
-Even a small tracking error can add up over time. If an investor holds an ETF for many years, those small differences can make a big difference in the long run. This is why it's important for investors to look at the tracking error when they're choosing an ETF. By picking an ETF with a smaller tracking error, investors can feel more confident that their investment will perform more like the index they're trying to follow.
+Even a small tracking error can add up over time. If an investor holds an ETF for many years, those small differences can make a big difference in the long run. This is why it's important for investors to look at the tracking error when they're choosing an ETF. By [picking](/wiki/asset-class-picking) an ETF with a smaller tracking error, investors can feel more confident that their investment will perform more like the index they're trying to follow.
 
 ## What is returns protection in relation to ETFs?
 
@@ -162,7 +162,7 @@ In summary, while the benefits of ETFs are numerous, the selection process must 
 
 ## How can tracking errors be mitigated in algorithmic ETF trading?
 
-To minimize tracking errors in ETF investments, several strategies can be employed, particularly with the intersection of advanced algorithmic trading techniques. These strategies aim at reducing the divergence between the ETF's performance and its benchmark index, thereby enhancing investor value.
+To minimize tracking errors in ETF investments, several strategies can be employed, particularly with the intersection of advanced [algorithmic trading](/wiki/algorithmic-trading) techniques. These strategies aim at reducing the divergence between the ETF's performance and its benchmark index, thereby enhancing investor value.
 
 ### Strategies for Minimizing Tracking Errors
 

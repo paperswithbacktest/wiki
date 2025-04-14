@@ -68,7 +68,7 @@ Now, we need to consider ABC Corp's investments and working capital changes. Las
 
 FCFF is really useful when you want to figure out how much a company is worth using a valuation model like Discounted Cash Flow (DCF). In a DCF model, you try to guess how much money the company will make in the future, and then you figure out how much that money is worth today. FCFF is important here because it shows the cash the company has left after paying for everything it needs to keep running and growing. By using FCFF, you can see the true cash that's available to all the company's investors, like shareholders and lenders. This helps you make a more accurate guess about the company's value.
 
-To use FCFF in a DCF model, you start by making a guess about the company's future FCFF for several years. Then, you use a discount rate, which is like an interest rate, to figure out how much those future cash flows are worth today. The discount rate takes into account things like how risky the company is and what other investment options are out there. By adding up all the discounted FCFF numbers, you get the present value of the company's future cash flows. This gives you a good idea of what the whole company might be worth, helping investors decide if the company is a good investment.
+To use FCFF in a DCF model, you start by making a guess about the company's future FCFF for several years. Then, you use a discount rate, which is like an [interest rate](/wiki/interest-rate-trading-strategies), to figure out how much those future cash flows are worth today. The discount rate takes into account things like how risky the company is and what other investment options are out there. By adding up all the discounted FCFF numbers, you get the present value of the company's future cash flows. This gives you a good idea of what the whole company might be worth, helping investors decide if the company is a good investment.
 
 ## What are common pitfalls or errors to avoid when calculating FCFF?
 
@@ -84,7 +84,7 @@ Changes in the company's capital structure, like taking on more debt or paying o
 
 ## What is Understanding Free Cash Flow to the Firm (FCFF)?
 
-Free Cash Flow to the Firm (FCFF) is a pivotal metric in financial analysis, representing the cash available to investors after a company has covered its operating expenses and reinvestments in long-term assets. Essentially, FCFF is a measure of a firm's liquidity and ability to generate cash, independent of its capital structure.
+Free Cash Flow to the Firm (FCFF) is a pivotal metric in financial analysis, representing the cash available to investors after a company has covered its operating expenses and reinvestments in long-term assets. Essentially, FCFF is a measure of a firm's [liquidity](/wiki/liquidity-risk-premium) and ability to generate cash, independent of its capital structure.
 
 The process of calculating FCFF starts with revenues, from which operating expenses and taxes are subtracted to determine the net operating profit after taxes (NOPAT). Subsequently, non-cash charges such as depreciation and amortization are added back to account for expenses that did not involve an actual outflow of cash. Further, necessary capital expenditures for maintaining or expanding the company's asset base are subtracted, as well as changes in working capital. The formula for FCFF can be expressed as:
 

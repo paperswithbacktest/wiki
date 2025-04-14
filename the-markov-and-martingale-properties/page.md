@@ -118,7 +118,7 @@ hidden_states = model.predict(data)
 print(hidden_states)
 ```
 
-In this example, the HMM effectively identifies underlying market states without extensive historical data. This capability demonstrates how Markov-based models can maintain predictive accuracy while simplifying data requirements. These benefits make the adoption of the Markov property a compelling choice for those in algorithmic trading looking to optimize their models.
+In this example, the HMM effectively identifies underlying market states without extensive historical data. This capability demonstrates how Markov-based models can maintain predictive accuracy while simplifying data requirements. These benefits make the adoption of the Markov property a compelling choice for those in [algorithmic trading](/wiki/algorithmic-trading) looking to optimize their models.
 
 ## References & Further Reading
 

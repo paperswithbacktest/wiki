@@ -40,7 +40,7 @@ Another risk is that interest rates or currency values might change in ways you 
 
 ## Who typically uses asset swaps and why?
 
-Banks and big investors like pension funds and insurance companies often use asset swaps. They do this to change the risk or return of their investments without selling their original assets. For example, a bank might have a bond that pays a fixed interest rate, but they think interest rates will go up. By swapping the bond's payments for payments that change with interest rates, they can protect their investment from losing value if rates do rise.
+Banks and big investors like pension funds and insurance companies often use asset swaps. They do this to change the risk or return of their investments without selling their original assets. For example, a bank might have a bond that pays a fixed [interest rate](/wiki/interest-rate-trading-strategies), but they think interest rates will go up. By swapping the bond's payments for payments that change with interest rates, they can protect their investment from losing value if rates do rise.
 
 Asset swaps are also used by companies that deal with money in different countries. If a company has an asset that pays in one currency but they need payments in another, they can swap the payments to manage the risk of currency changes. This helps them keep their investments stable even when currency values go up and down. By using asset swaps, these big players can make their investments safer and more flexible, helping them get the kind of returns they want.
 

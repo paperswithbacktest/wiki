@@ -18,7 +18,7 @@ These securities are important for businesses because they offer a way to earn a
 
 Marketable securities come in different types, like stocks, bonds, and money market instruments. Stocks are shares in a company. When you buy a stock, you own a little piece of that company. Stocks can go up or down in value, and they can pay dividends, which are like small payments from the company to its shareholders. Bonds are like loans you give to a company or government. They pay you back with interest over time. Bonds are usually seen as safer than stocks because they have a set schedule for getting your money back.
 
-Money market instruments are another type of marketable security. These include things like Treasury bills, which are short-term loans to the government, and commercial paper, which are short-term loans to companies. Money market instruments are very safe and liquid, meaning you can turn them into cash quickly. They don't usually offer high returns, but they are good for keeping your money safe while still earning a little bit of interest. Each type of marketable security has its own level of risk and reward, so people and companies choose them based on what they need and how much risk they are willing to take.
+Money market instruments are another type of marketable security. These include things like Treasury bills, which are short-term loans to the government, and commercial paper, which are short-term loans to companies. Money market instruments are very safe and liquid, meaning you can turn them into cash quickly. They don't usually offer high returns, but they are good for keeping your money safe while still [earning](/wiki/earning-announcement) a little bit of interest. Each type of marketable security has its own level of risk and reward, so people and companies choose them based on what they need and how much risk they are willing to take.
 
 ## How do marketable securities differ from non-marketable securities?
 
@@ -34,7 +34,7 @@ Another advantage of marketable securities is that they can help you spread out 
 
 ## What are the risks associated with marketable securities?
 
-One risk of investing in marketable securities is that their value can go up and down. This is called market risk. If you invest in stocks, for example, the price of the stock can drop if the company does not do well or if the whole market goes down. This means you could lose money if you need to sell your stocks when their value is low. Bonds also have risks, like interest rate risk. If interest rates go up, the value of your bonds might go down because new bonds will pay more interest.
+One risk of investing in marketable securities is that their value can go up and down. This is called market risk. If you invest in stocks, for example, the price of the stock can drop if the company does not do well or if the whole market goes down. This means you could lose money if you need to sell your stocks when their value is low. Bonds also have risks, like [interest rate](/wiki/interest-rate-trading-strategies) risk. If interest rates go up, the value of your bonds might go down because new bonds will pay more interest.
 
 Another risk is that you might not get the returns you expect. This is called return risk. For example, if you buy a bond, the company or government that issued it might not be able to pay you back. This is called default risk. Even if they do pay you back, the interest you earn might not be as much as you hoped for, especially if inflation goes up and the value of your money goes down. 
 

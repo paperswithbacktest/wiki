@@ -88,7 +88,7 @@ Another big change will be how sellers use data to make decisions. They will use
 
 ## What are the types of algorithmic trading strategies?
 
-Algorithmic trading employs computer algorithms to automatically execute trades based on predefined strategies. Various types of algorithmic trading strategies have been developed to exploit different aspects of the market, enhancing efficiency and accuracy in trade execution.
+Algorithmic trading employs computer algorithms to automatically execute trades based on predefined strategies. Various types of [algorithmic trading](/wiki/algorithmic-trading) strategies have been developed to exploit different aspects of the market, enhancing efficiency and accuracy in trade execution.
 
 ### Trend-following Algorithms
 Trend-following strategies aim to capitalize on the [momentum](/wiki/momentum) of asset prices. These algorithms identify trends in the market and place trades in the direction of the identified trend, continuing the process until the trend displays signs of reversal. They rely heavily on technical indicators such as moving averages and momentum indicators. A simple Python code to implement a basic moving average crossover trend-following strategy is:
@@ -121,7 +121,7 @@ where $P_t$ is the current price, $\mu$ is the mean of historical prices, and $\
 Statistical [arbitrage](/wiki/arbitrage) involves algorithms that identify and exploit pricing inefficiencies between securities. These strategies often involve pairs trading, where two historically correlated assets are traded when their prices diverge from their expected relationship, profiting when they converge. A correlation threshold may be used to identify suitable pairs, and positions are balanced to maintain a neutral portfolio.
 
 ### Market-making Algorithms
-Market-making algorithms aim to enhance liquidity by continuously quoting buy and sell prices. These algorithms profit from the bid-ask spread while attempting to hedge against adverse price movements. Effective [market making](/wiki/market-making) requires rapid updating of quotes based on market data and competitor actions. Algorithms monitor [order book](/wiki/order-book-trading-strategies) depths and trade quantities to maintain a desired inventory level, ensuring liquidity provision.
+Market-making algorithms aim to enhance [liquidity](/wiki/liquidity-risk-premium) by continuously quoting buy and sell prices. These algorithms profit from the bid-ask spread while attempting to hedge against adverse price movements. Effective [market making](/wiki/market-making) requires rapid updating of quotes based on market data and competitor actions. Algorithms monitor [order book](/wiki/order-book-trading-strategies) depths and trade quantities to maintain a desired inventory level, ensuring liquidity provision.
 
 ### High-frequency Trading (HFT)
 [HFT](/wiki/high-frequency-trading-strategies) strategies involve executing a large number of trades in extremely short time frames to capture small price discrepancies. These algorithms require sophisticated infrastructure to minimize latency, often co-locating servers with exchanges. HFT applies various techniques, including order anticipation and statistical arbitrage, across multiple asset classes.

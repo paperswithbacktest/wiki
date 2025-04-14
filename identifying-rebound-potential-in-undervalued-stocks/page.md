@@ -88,7 +88,7 @@ Another good practice is to spread your money around in different stocks and sec
 
 Undervalued stocks are equities trading below their intrinsic value, often resulting from market overreactions or broader economic downturns. These stocks temporarily mispriced by the market can present lucrative opportunities for informed investors.
 
-To identify undervalued stocks effectively, investors must employ fundamental analysis—a method that assesses a company's financial health and its potential for future growth. Key metrics used include the Price-to-Earnings (P/E) ratio and the Price-to-Book (P/B) ratio. The P/E ratio is calculated as:
+To identify undervalued stocks effectively, investors must employ [fundamental analysis](/wiki/fundamental-analysis)—a method that assesses a company's financial health and its potential for future growth. Key metrics used include the Price-to-Earnings (P/E) ratio and the Price-to-Book (P/B) ratio. The P/E ratio is calculated as:
 
 $$
 \text{P/E Ratio} = \frac{\text{Market Price per Share}}{\text{Earnings per Share (EPS)}}

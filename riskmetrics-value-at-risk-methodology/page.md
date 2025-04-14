@@ -164,7 +164,7 @@ By blending VaR with a comprehensive risk management approach, traders and finan
 
 ## How can VaR be calculated in algorithmic trading?
 
-Value at Risk (VaR) is a crucial metric in risk management that can be calculated using various methodologies, each with distinct assumptions and complexity levels. In algorithmic trading, automation and precision are paramount, making the choice of a VaR calculation method significant. 
+Value at Risk (VaR) is a crucial metric in risk management that can be calculated using various methodologies, each with distinct assumptions and complexity levels. In [algorithmic trading](/wiki/algorithmic-trading), automation and precision are paramount, making the choice of a VaR calculation method significant. 
 
 The variance-covariance method, also known as the parametric method, simplifies VaR calculation by assuming that asset returns follow a normal distribution. This assumption allows analysts to apply statistical measures, such as the mean and standard deviation, to estimate potential losses. The VaR is computed using:
 

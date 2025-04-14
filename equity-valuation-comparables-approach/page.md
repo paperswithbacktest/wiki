@@ -34,7 +34,7 @@ Another important number is the Enterprise Value-to-EBITDA (EV/EBITDA) ratio. Th
 
 ## How do you calculate valuation multiples in the comparables approach?
 
-To calculate valuation multiples in the comparables approach, you start by picking the right financial metrics like the Price-to-Earnings (P/E) ratio, Price-to-Sales (P/S) ratio, Enterprise Value-to-EBITDA (EV/EBITDA) ratio, and Price-to-Book (P/B) ratio. For the P/E ratio, you divide the company's current stock price by its earnings per share. If a company's stock is selling for $50 and its earnings per share are $5, the P/E ratio would be 10. For the P/S ratio, you divide the company's market capitalization by its total sales. If a company's market cap is $100 million and its sales are $20 million, the P/S ratio is 5.
+To calculate valuation multiples in the comparables approach, you start by [picking](/wiki/asset-class-picking) the right financial metrics like the Price-to-Earnings (P/E) ratio, Price-to-Sales (P/S) ratio, Enterprise Value-to-EBITDA (EV/EBITDA) ratio, and Price-to-Book (P/B) ratio. For the P/E ratio, you divide the company's current stock price by its earnings per share. If a company's stock is selling for $50 and its earnings per share are $5, the P/E ratio would be 10. For the P/S ratio, you divide the company's market capitalization by its total sales. If a company's market cap is $100 million and its sales are $20 million, the P/S ratio is 5.
 
 The EV/EBITDA ratio is a bit more complex. You add the company's market capitalization to its total debt and then subtract any cash it has on hand to get the enterprise value. Then, you divide this number by the company's EBITDA. If a company's enterprise value is $150 million and its EBITDA is $30 million, the EV/EBITDA ratio is 5. The P/B ratio is calculated by dividing the company's market value by its book value. If a company's market value is $200 million and its book value is $50 million, the P/B ratio is 4. These multiples help you see how your company compares to others in the industry and give you a good idea of what its stock might be worth.
 
@@ -104,9 +104,9 @@ $$
 
 $$
 
-Through these metrics, the comparables approach facilitates the identification of market discrepancies, where the valuation of a company diverges from the industry average. This feature is particularly advantageous for investors seeking arbitrage opportunities, as it allows them to exploit discrepancies between the market's perception and the inherent value indicated by its peers.
+Through these metrics, the comparables approach facilitates the identification of market discrepancies, where the valuation of a company diverges from the industry average. This feature is particularly advantageous for investors seeking [arbitrage](/wiki/arbitrage) opportunities, as it allows them to exploit discrepancies between the market's perception and the inherent value indicated by its peers.
 
-In the context of algorithmic trading, the comparables approach provides critical data inputs that help automate decision-making processes. By integrating real-time market valuations with algorithmic strategies, traders can swiftly react to valuation differences, optimizing trade execution based on systematic comparative analyses. This fusion of equity valuation with real-time data illustrates the dynamic applicability of the comparables approach in modern financial markets.
+In the context of [algorithmic trading](/wiki/algorithmic-trading), the comparables approach provides critical data inputs that help automate decision-making processes. By integrating real-time market valuations with algorithmic strategies, traders can swiftly react to valuation differences, optimizing trade execution based on systematic comparative analyses. This fusion of equity valuation with real-time data illustrates the dynamic applicability of the comparables approach in modern financial markets.
 
 ## What are the types of comparable models used in equity valuation?
 

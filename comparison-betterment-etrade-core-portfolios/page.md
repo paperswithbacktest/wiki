@@ -82,7 +82,7 @@ E*TRADE Core Portfolios keeps things simpler and doesn't offer as many special o
 
 ## Which is better: Betterment or E*TRADE Core Portfolios?
 
-Betterment and E*TRADE Core Portfolios are prominent players in the landscape of robo-advisory services, each offering distinct algorithmic trading features tailored to various investor profiles. 
+Betterment and E*TRADE Core Portfolios are prominent players in the landscape of robo-advisory services, each offering distinct [algorithmic trading](/wiki/algorithmic-trading) features tailored to various investor profiles. 
 
 ### Algorithmic Trading Features
 

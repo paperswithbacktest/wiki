@@ -33,7 +33,7 @@ You can do many simple things with a DataFrame. One common operation is to look 
 
 Another important thing you can do is change your DataFrame. You can add new columns, like `df['NewColumn'] = some_value`. To change values, you can use something like `df.loc[df['Age'] > 30, 'Age'] = 30` to set all ages over 30 to exactly 30. You can also sort your DataFrame by a column, like `df.sort_values('Age')`. If you need to group your data, you can use `df.groupby('Name')` to see things like the average age for each name. Lastly, you can combine DataFrames. To add rows from another DataFrame, use `pd.concat([df1, df2])`, and to add columns, use `pd.merge(df1, df2, on='some_column')`.
 
-These operations help you get your data ready for machine learning. You can clean it, change it, and make it better. This is important because good data makes your machine learning models work better.
+These operations help you get your data ready for [machine learning](/wiki/machine-learning). You can clean it, change it, and make it better. This is important because good data makes your machine learning models work better.
 
 ## How can DataFrames be used for data preprocessing in machine learning?
 

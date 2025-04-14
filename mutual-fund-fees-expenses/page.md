@@ -18,7 +18,7 @@ Understanding these fees is important because they can add up over time and redu
 
 Mutual funds charge fees to cover the costs of managing and operating the fund. These costs include paying the people who choose which investments to buy and sell, keeping records, and handling customer service. The fees also help pay for things like marketing the fund to new investors and keeping the fund's website and other services running smoothly. Without these fees, the mutual fund company wouldn't be able to provide the services that investors need.
 
-The fees also help make sure the fund is managed well. For example, the people who manage the fund need to do a lot of research to pick the best investments. This research costs money, and the fees help cover those costs. If the fees are too high, it can eat into the money that investors could be earning, so it's important for investors to look at the fees before choosing a fund. By understanding why fees are charged and comparing them across different funds, investors can make better choices about where to put their money.
+The fees also help make sure the fund is managed well. For example, the people who manage the fund need to do a lot of research to pick the best investments. This research costs money, and the fees help cover those costs. If the fees are too high, it can eat into the money that investors could be [earning](/wiki/earning-announcement), so it's important for investors to look at the fees before choosing a fund. By understanding why fees are charged and comparing them across different funds, investors can make better choices about where to put their money.
 
 ## What is the difference between a load and no-load mutual fund?
 
@@ -36,7 +36,7 @@ To calculate the expense ratio, you take all the yearly costs of running the fun
 
 A front-end load is a fee you pay when you buy shares of a mutual fund. It's like an entry fee. When you decide to invest in a fund with a front-end load, part of your money goes to this fee right away. For example, if you want to invest $1,000 and the front-end load is 5%, you'll pay $50 as a fee, and only $950 will actually go into the fund. This fee is used to pay the people who sell the fund, like financial advisors or brokers. It can make the fund more expensive, so it's something to think about before you invest.
 
-A back-end load, on the other hand, is a fee you pay when you sell your shares of a mutual fund. It's like an exit fee. Sometimes, the back-end load gets smaller the longer you keep your money in the fund. For example, if you sell your shares within a year, you might pay a 5% fee, but if you wait five years, the fee might drop to 1%. This fee also goes to the people who sell the fund. Back-end loads can make it more expensive to take your money out of the fund, so it's important to know about them before you decide to invest.
+A back-end load, on the other hand, is a fee you pay when you sell your shares of a mutual fund. It's like an [exit](/wiki/exit-strategy) fee. Sometimes, the back-end load gets smaller the longer you keep your money in the fund. For example, if you sell your shares within a year, you might pay a 5% fee, but if you wait five years, the fee might drop to 1%. This fee also goes to the people who sell the fund. Back-end loads can make it more expensive to take your money out of the fund, so it's important to know about them before you decide to invest.
 
 ## What are 12b-1 fees and what are they used for?
 
@@ -48,7 +48,7 @@ These fees can make the fund more expensive for investors because they reduce th
 
 Management fees can have a big effect on how well a mutual fund does over time. These fees are what the fund charges to pay the people who manage it and take care of other costs. When a fund has high management fees, it means less of your money is left to grow. For example, if a fund earns 8% in a year but has a 2% management fee, you only get to keep 6% of the growth. Over many years, these fees can add up and take away a lot from what you could have earned.
 
-It's important to look at the management fees when you're picking a mutual fund. Funds with lower fees can help you keep more of your money, which can make a big difference in the long run. Imagine two funds that both make the same amount of money each year, but one has a lower management fee. The fund with the lower fee will grow more over time because more of the money stays in the fund. So, paying attention to management fees can help you choose funds that might give you better results in the end.
+It's important to look at the management fees when you're [picking](/wiki/asset-class-picking) a mutual fund. Funds with lower fees can help you keep more of your money, which can make a big difference in the long run. Imagine two funds that both make the same amount of money each year, but one has a lower management fee. The fund with the lower fee will grow more over time because more of the money stays in the fund. So, paying attention to management fees can help you choose funds that might give you better results in the end.
 
 ## What are the typical ranges for mutual fund fees and expenses?
 

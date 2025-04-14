@@ -22,7 +22,7 @@ CCC also helps businesses make smart decisions about how to grow. When a company
 
 ## How is the Composite Cost of Capital calculated?
 
-To calculate the Composite Cost of Capital (CCC), a company needs to figure out the cost of each type of money it uses, like loans, bonds, and stocks. For example, if a company has loans, they look at the interest rate they pay on those loans. If they have issued bonds, they consider the interest rate on those bonds. For stocks, they look at the expected return that shareholders want. Each of these costs is important because they all add up to the total cost of the money the company uses.
+To calculate the Composite Cost of Capital (CCC), a company needs to figure out the cost of each type of money it uses, like loans, bonds, and stocks. For example, if a company has loans, they look at the [interest rate](/wiki/interest-rate-trading-strategies) they pay on those loans. If they have issued bonds, they consider the interest rate on those bonds. For stocks, they look at the expected return that shareholders want. Each of these costs is important because they all add up to the total cost of the money the company uses.
 
 Next, the company needs to know how much of each type of money they use. They do this by figuring out what percentage of their total financing comes from loans, bonds, and stocks. Once they have these percentages, they can combine the costs of each type of money into one overall cost. They do this by multiplying the cost of each type of money by its percentage of the total financing, and then adding all those numbers together. This gives them the CCC, which is the average cost of all the money they use to run their business.
 
@@ -213,7 +213,7 @@ Peer-reviewed articles and authoritative [books](/wiki/algo-trading-books) on fi
    This article reviews empirical research on cost of capital applications in real investment, providing a foundation for applying these concepts to both corporate finance and trading strategies.
 
 3. **"Algorithmic Trading and the Market for Liquidity" by Thierry Foucault, Johan Hombert, and Ioanid Rosu (Review of Financial Studies)**  
-   This paper explores the integration of algorithmic trading strategies and liquidity, offering insights into how cost of capital considerations can optimize trading efficiency and effectiveness.
+   This paper explores the integration of algorithmic trading strategies and [liquidity](/wiki/liquidity-risk-premium), offering insights into how cost of capital considerations can optimize trading efficiency and effectiveness.
 
 These resources encourage further exploration into how cost of capital and advanced financial analysis intersect with cutting-edge trading strategies. They provide tools and frameworks essential for practitioners aiming to achieve a competitive edge in financial markets. Advanced learners and professionals can benefit from the depth and breadth of information available in these texts and studies, facilitating improved decision-making and strategic planning in finance.
 

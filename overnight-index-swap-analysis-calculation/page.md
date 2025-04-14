@@ -22,7 +22,7 @@ At the end of each year, they figure out how much each person owes. The person p
 
 ## What are the key components of an OIS?
 
-An Overnight Index Swap (OIS) has a few main parts that make it work. First, there's the fixed rate, which is like a steady number that one person agrees to pay every year. It's like setting a bet on what the interest rate will be in the future. Then, there's the floating rate, which changes every day based on the overnight rate, like the Federal Funds Rate. This is the part that moves around and makes the swap interesting because it depends on what's happening in the market every day.
+An Overnight Index Swap (OIS) has a few main parts that make it work. First, there's the fixed rate, which is like a steady number that one person agrees to pay every year. It's like setting a bet on what the [interest rate](/wiki/interest-rate-trading-strategies) will be in the future. Then, there's the floating rate, which changes every day based on the overnight rate, like the Federal Funds Rate. This is the part that moves around and makes the swap interesting because it depends on what's happening in the market every day.
 
 The second key part is the notional amount, which is just a big number that the swap is based on. It's like saying, "Let's pretend we're borrowing this much money," but you don't actually borrow it. You just use it to figure out how much money changes hands at the end of the swap. Lastly, the duration of the swap is important. This is how long the swap lasts, like one year, five years, or even longer. All these parts together help people manage the risk of interest rates going up or down.
 

@@ -22,7 +22,7 @@ For Series I savings bonds, the maturity period is also 30 years. However, these
 
 ## How long does it typically take for a savings bond to reach maturity?
 
-A savings bond takes a certain amount of time to reach its full value, which is called the maturity period. For a Series EE savings bond, this period is 20 years. This means if you buy a Series EE bond, it will be worth double what you paid for it after 20 years. You can keep the bond after 20 years, and it will keep earning interest up to 30 years from when you bought it.
+A savings bond takes a certain amount of time to reach its full value, which is called the maturity period. For a Series EE savings bond, this period is 20 years. This means if you buy a Series EE bond, it will be worth double what you paid for it after 20 years. You can keep the bond after 20 years, and it will keep [earning](/wiki/earning-announcement) interest up to 30 years from when you bought it.
 
 For a Series I savings bond, the maturity period is 30 years. These bonds work differently because they have a fixed rate and an inflation rate that changes every six months. This means the value of a Series I bond can go up faster or slower depending on inflation, but it will still reach its full value after 30 years. With both types of bonds, you can cash them in before they mature, but you'll get less interest if you do that.
 

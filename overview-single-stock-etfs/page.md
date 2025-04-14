@@ -56,7 +56,7 @@ To keep your portfolio diversified, you shouldn't put too much money into single
 
 When choosing a single-stock ETF, one of the most important things to think about is the company the ETF focuses on. You need to believe in the company's future and think it will do well. Look at the company's past performance, what it does, and any news or events that might affect its stock price. Also, consider how much risk you're okay with. Single-stock ETFs can be more risky than other investments because they only focus on one company, so make sure you're comfortable with that risk before you invest.
 
-Another key factor is understanding how the ETF is set up. Single-stock ETFs often use options and futures, which can make them more complicated. You should know how these financial tools work and how they might affect your investment. Also, check if the ETF uses leverage, which can make your potential gains or losses bigger. Finally, think about the fees and costs. Single-stock ETFs might have higher fees than regular ETFs, so make sure you know what you'll be paying and if it's worth it for the potential returns.
+Another key [factor](/wiki/factor-investing) is understanding how the ETF is set up. Single-stock ETFs often use options and futures, which can make them more complicated. You should know how these financial tools work and how they might affect your investment. Also, check if the ETF uses leverage, which can make your potential gains or losses bigger. Finally, think about the fees and costs. Single-stock ETFs might have higher fees than regular ETFs, so make sure you know what you'll be paying and if it's worth it for the potential returns.
 
 ## How do single-stock ETFs perform compared to the underlying stock?
 
@@ -104,7 +104,7 @@ Investors must weigh these risks carefully, considering factors such as transact
 
 ## What are the advantages and risks of single-stock ETFs?
 
-Single-stock ETFs present several strategic advantages for investors, particularly those looking for short-term market positions with lower transaction costs than direct option purchases. By allowing leverage without the necessity of borrowing, they provide an appealing entry point for traders seeking amplified exposure to the performance of individual stocks. When traded like regular stocks on major exchanges, these ETFs offer substantial flexibility and liquidity, essential for short-term trading tactics.
+Single-stock ETFs present several strategic advantages for investors, particularly those looking for short-term market positions with lower transaction costs than direct option purchases. By allowing leverage without the necessity of borrowing, they provide an appealing entry point for traders seeking amplified exposure to the performance of individual stocks. When traded like regular stocks on major exchanges, these ETFs offer substantial flexibility and [liquidity](/wiki/liquidity-risk-premium), essential for short-term trading tactics.
 
 However, potential risks accompany these advantages. A primary concern is the possible discrepancies between the performance of the ETF and its underlying stock. These discrepancies can arise due to tracking errors or the time decay inherent in derivative products used to construct the ETF. Tracking error refers to the deviation of the ETF's returns from the actual performance of the underlying asset. Time decay in options and other derivatives leads to a loss in value as they approach expiration, affecting the ETF's value.
 

@@ -18,7 +18,7 @@ Think of open interest like a tally of how many people are still "in the game" w
 
 Open interest and trading volume are two different things in the futures market. Open interest is the total number of futures contracts that are still open, or not settled, at the end of a trading day. It shows how many people are still involved in the market with their contracts. If a new contract is created, open interest goes up. If an existing contract is closed, open interest goes down.
 
-Trading volume, on the other hand, is the total number of contracts that were traded during a single trading day. It counts every time a contract changes hands, whether it's a new contract or an old one. So, if someone buys a contract from someone else, that counts towards the trading volume, but it doesn't necessarily change the open interest.
+Trading [volume](/wiki/volume-trading-strategy), on the other hand, is the total number of contracts that were traded during a single trading day. It counts every time a contract changes hands, whether it's a new contract or an old one. So, if someone buys a contract from someone else, that counts towards the trading volume, but it doesn't necessarily change the open interest.
 
 The main difference is that open interest tells you about the total number of active contracts at the end of the day, while trading volume tells you how many contracts were traded that day. Open interest can give you a sense of the market's overall interest and strength, while trading volume can show you how active the market was on that particular day.
 
@@ -74,7 +74,7 @@ Traders use open interest to understand how much interest there is in a particul
 
 ## What role does open interest play in market liquidity?
 
-Open interest plays a big role in how easy it is to buy or sell in the market, which is called liquidity. When open interest is high, it means there are a lot of people in the market with open contracts. This makes it easier for traders to find someone to trade with because there are more people around. So, high open interest can make the market more liquid, which means traders can buy or sell quickly without moving the price too much.
+Open interest plays a big role in how easy it is to buy or sell in the market, which is called [liquidity](/wiki/liquidity-risk-premium). When open interest is high, it means there are a lot of people in the market with open contracts. This makes it easier for traders to find someone to trade with because there are more people around. So, high open interest can make the market more liquid, which means traders can buy or sell quickly without moving the price too much.
 
 On the other hand, when open interest is low, it means fewer people are in the market with open contracts. This can make it harder for traders to find someone to trade with, which can make the market less liquid. When the market is less liquid, it might be harder to buy or sell without affecting the price a lot. So, open interest is important because it can tell traders how easy or hard it might be to make trades in the market.
 

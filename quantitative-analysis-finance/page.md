@@ -30,7 +30,7 @@ In addition to programming languages, quants often use specialized software for 
 
 ## Can you explain the role of statistics in quantitative financial analysis?
 
-Statistics plays a big role in quantitative financial analysis. It helps quants understand and predict how investments will do. They use statistics to look at past data and see patterns. For example, they might use something called regression analysis to see how different things, like interest rates or company earnings, affect stock prices. By understanding these patterns, quants can make better guesses about what might happen in the future.
+Statistics plays a big role in quantitative financial analysis. It helps quants understand and predict how investments will do. They use [statistics](/wiki/bayesian-statistics) to look at past data and see patterns. For example, they might use something called regression analysis to see how different things, like interest rates or company earnings, affect stock prices. By understanding these patterns, quants can make better guesses about what might happen in the future.
 
 Another important part of statistics in finance is figuring out risk. Quants use statistical measures like standard deviation and variance to see how much an investment's value might go up or down. This helps them understand how risky an investment is. They also use something called probability to figure out how likely it is that an investment will make or lose money. By using these statistical tools, quants can help investors make smarter choices and manage their money better.
 
@@ -62,7 +62,7 @@ Time series analysis also helps quants figure out how much an investment might g
 
 ## What are advanced techniques like machine learning and AI bringing to quantitative finance?
 
-Advanced techniques like machine learning and AI are bringing new ways to understand and predict financial markets. They help quants look at huge amounts of data quickly and find patterns that might be hard to see with regular methods. For example, machine learning can be used to predict stock prices by learning from past data. It can also help find out which news stories might affect the market the most. This means quants can make better guesses about what might happen next and help investors make smarter choices.
+Advanced techniques like [machine learning](/wiki/machine-learning) and AI are bringing new ways to understand and predict financial markets. They help quants look at huge amounts of data quickly and find patterns that might be hard to see with regular methods. For example, machine learning can be used to predict stock prices by learning from past data. It can also help find out which news stories might affect the market the most. This means quants can make better guesses about what might happen next and help investors make smarter choices.
 
 These techniques also make it easier to manage risk. AI can look at lots of different things at once, like how different investments move together or how the economy is doing. By doing this, it can help quants figure out how much risk there is in a portfolio and suggest ways to make it safer. This helps investors protect their money better and feel more confident in their choices.
 

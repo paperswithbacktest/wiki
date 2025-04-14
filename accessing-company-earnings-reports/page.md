@@ -152,7 +152,7 @@ In summary, company financials and their associated metrics are indispensable to
 
  to Algorithmic Trading
 
-Algorithmic trading refers to the use of computer algorithms to execute trading strategies automatically. These algorithms leverage mathematical models to identify trading opportunities based on pre-defined criteria and execute trades at optimal times. A significant advantage of algorithmic trading is its ability to process vast amounts of financial data, including real-time market conditions, historical prices, tweets, news articles, and company earnings reports. This capability enables traders to make data-driven decisions with incredible speed and accuracy.
+Algorithmic trading refers to the use of computer algorithms to execute trading strategies automatically. These algorithms leverage mathematical models to identify trading opportunities based on pre-defined criteria and execute trades at optimal times. A significant advantage of [algorithmic trading](/wiki/algorithmic-trading) is its ability to process vast amounts of financial data, including real-time market conditions, historical prices, tweets, news articles, and company earnings reports. This capability enables traders to make data-driven decisions with incredible speed and accuracy.
 
 **Speed and Efficiency**: One of the primary benefits of algorithmic trading is its speed. Algorithms can react to market events faster than human traders, executing trades in fractions of a second. This speed is crucial in markets where prices can change rapidly, allowing traders to capitalize on short-lived opportunities. The efficiency of algorithms also minimizes manual intervention in the trading process, reducing the likelihood of human error and enhancing operational productivity.
 
@@ -160,7 +160,7 @@ Algorithmic trading refers to the use of computer algorithms to execute trading 
 
 **Data Processing**: Algorithms can process a vast array of data sources beyond traditional market data, integrating alternative information like social media sentiment, news releases, and economic indicators. This comprehensive data analysis allows for more informed trading decisions, as algorithms can quickly identify patterns and trends that may not be immediately apparent to human traders.
 
-The sheer [volume](/wiki/volume-trading-strategy) of transactions handled by algorithmic systems also necessitates a robust infrastructure. High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), a subset of algorithmic trading, particularly benefits from sophisticated technology that minimizes latency—a critical factor in executing trades at optimal prices.
+The sheer [volume](/wiki/volume-trading-strategy) of transactions handled by algorithmic systems also necessitates a robust infrastructure. High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), a subset of algorithmic trading, particularly benefits from sophisticated technology that minimizes latency—a critical [factor](/wiki/factor-investing) in executing trades at optimal prices.
 
 To illustrate, consider a simple moving average crossover strategy where trades are executed when a short-term moving average crosses above or below a long-term moving average. This can be implemented in Python as follows:
 

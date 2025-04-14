@@ -27,14 +27,14 @@ y = tf.add(tf.reduce_sum(tf.multiply(x, w)), b)
 
 ## Can you explain the difference between basic and advanced Ops in machine learning?
 
-Basic Ops in machine learning are the simple building blocks that perform fundamental tasks. These include operations like addition, multiplication, and applying activation functions. For example, in a neural network, a basic Op might be responsible for calculating the weighted sum of inputs to a neuron, which can be expressed as $$output = \sum_{i} weight_i \cdot input_i$$. These Ops are essential because they form the core of more complex computations. In a framework like TensorFlow, you might use code like ```python
+Basic Ops in [machine learning](/wiki/machine-learning) are the simple building blocks that perform fundamental tasks. These include operations like addition, multiplication, and applying activation functions. For example, in a [neural network](/wiki/neural-network), a basic Op might be responsible for calculating the weighted sum of inputs to a neuron, which can be expressed as $$output = \sum_{i} weight_i \cdot input_i$$. These Ops are essential because they form the core of more complex computations. In a framework like TensorFlow, you might use code like ```python
 import tensorflow as tf
 x = tf.constant([1.0, 2.0])
 w = tf.constant([0.5, 0.3])
 y = tf.reduce_sum(tf.multiply(x, w))
 ``` to create a basic Op that multiplies inputs by weights and sums them up.
 
-Advanced Ops, on the other hand, are more complex and often built on top of basic Ops. They perform higher-level tasks that might involve multiple steps or more sophisticated algorithms. For example, an advanced Op might implement a convolutional layer in a convolutional neural network (CNN), which involves sliding a filter over the input data, applying weights, and then summing the results. This can be more complex and might require multiple basic Ops working together. In TensorFlow, you might use code like ```python
+Advanced Ops, on the other hand, are more complex and often built on top of basic Ops. They perform higher-level tasks that might involve multiple steps or more sophisticated algorithms. For example, an advanced Op might implement a convolutional layer in a [convolutional neural network](/wiki/convolutional-neural-network) (CNN), which involves sliding a filter over the input data, applying weights, and then summing the results. This can be more complex and might require multiple basic Ops working together. In TensorFlow, you might use code like ```python
 import tensorflow as tf
 input_data = tf.random.normal([1, 28, 28, 1])
 filter_weights = tf.random.normal([5, 5, 1, 32])

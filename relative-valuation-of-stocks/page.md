@@ -80,7 +80,7 @@ For risk, investors can look at things like the company's debt levels, how stabl
 
 To make relative valuation models better, investors can use something called regression analysis. This is a way to see how different things, like a company's growth or how much debt it has, affect its stock price. By using regression, investors can find out which factors are most important for figuring out if a stock is priced right. For example, they might find that for tech companies, how fast the company is growing is more important than how much debt it has. This helps them adjust their valuation metrics to focus on what really matters for each company.
 
-Another advanced technique is using multi-factor models. These models look at lots of different things at the same time, like a company's earnings, sales, growth, and even things like how happy its customers are. By putting all these factors together, investors can get a fuller picture of what a stock is worth. This can help them see if a stock is a good deal or not, even if some of its metrics look bad. Using multi-factor models can make relative valuation more accurate and help investors make smarter choices.
+Another advanced technique is using multi-[factor](/wiki/factor-investing) models. These models look at lots of different things at the same time, like a company's earnings, sales, growth, and even things like how happy its customers are. By putting all these factors together, investors can get a fuller picture of what a stock is worth. This can help them see if a stock is a good deal or not, even if some of its metrics look bad. Using multi-factor models can make relative valuation more accurate and help investors make smarter choices.
 
 ## What is Understanding Relative Valuation?
 

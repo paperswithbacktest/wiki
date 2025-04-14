@@ -82,7 +82,7 @@ Another way expert traders can optimize the Stochastic Oscillator is by using it
 
 ## What is the Stochastic Oscillator and how does it work?
 
-The Stochastic Oscillator is a popular momentum indicator that measures the current closing price of a forex pair relative to its price range over a specific period. This technical analysis tool is commonly employed to identify overbought or oversold conditions, which may indicate potential market reversals or the continuation of trends. The Stochastic Oscillator consists of two main components: the %K line and the %D line.
+The Stochastic Oscillator is a popular [momentum](/wiki/momentum) indicator that measures the current closing price of a forex pair relative to its price range over a specific period. This technical analysis tool is commonly employed to identify overbought or oversold conditions, which may indicate potential market reversals or the continuation of trends. The Stochastic Oscillator consists of two main components: the %K line and the %D line.
 
 ### Mechanics of the %K and %D Lines
 

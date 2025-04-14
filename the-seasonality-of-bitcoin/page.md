@@ -24,7 +24,7 @@ Knowing about Bitcoin's seasonality can help people make smarter choices about w
 
 One big reason for Bitcoin's seasonal trends is how people feel about it. Sometimes, people get really excited about Bitcoin, especially when they hear good news or see its price going up. This often happens around certain times of the year, like when people are getting their holiday bonuses or tax refunds. When more people want to buy Bitcoin, its price can go up. On the other hand, if people start to worry or hear bad news, they might sell their Bitcoin, which can make the price go down.
 
-Another factor is what's happening in the world. For example, if there's a big event like a new law about cryptocurrencies or a big company starts accepting Bitcoin, it can change how people see Bitcoin and make them want to buy or sell it. Also, the time of year can affect how much money people have to spend on Bitcoin. During holiday seasons, people might have extra money and be more willing to try new things like Bitcoin. All these things together can make Bitcoin's price go up or down at different times of the year.
+Another [factor](/wiki/factor-investing) is what's happening in the world. For example, if there's a big event like a new law about cryptocurrencies or a big company starts accepting Bitcoin, it can change how people see Bitcoin and make them want to buy or sell it. Also, the time of year can affect how much money people have to spend on Bitcoin. During holiday seasons, people might have extra money and be more willing to try new things like Bitcoin. All these things together can make Bitcoin's price go up or down at different times of the year.
 
 ## Can you explain the typical seasonal patterns observed in Bitcoin's price throughout the year?
 
@@ -68,7 +68,7 @@ It's also important to remember that Bitcoin is still a new thing, and its price
 
 To understand Bitcoin's seasonality better, people can use something called time series analysis. This is a way to look at data over time and see if there are patterns. One method in time series analysis is called ARIMA, which stands for AutoRegressive Integrated Moving Average. ARIMA can help find out if Bitcoin's price goes up or down at certain times of the year. Another method is called seasonal decomposition, which breaks down the data into different parts like trends, seasonal patterns, and random changes. This can help see if the ups and downs in Bitcoin's price are because of the season or something else.
 
-Another advanced way to analyze Bitcoin's seasonality is by using machine learning. Machine learning can look at a lot of data and find patterns that might be hard for people to see. For example, a method called recurrent neural networks (RNNs) can be used to predict future prices based on past data. RNNs are good at understanding sequences, so they can learn how Bitcoin's price changes over time. Also, something called Fourier analysis can be used to see if there are any repeating patterns in Bitcoin's price that happen at certain times of the year. These advanced methods can give a deeper understanding of Bitcoin's seasonal trends, but they still need to be used carefully because Bitcoin's price can be affected by many things.
+Another advanced way to analyze Bitcoin's seasonality is by using [machine learning](/wiki/machine-learning). Machine learning can look at a lot of data and find patterns that might be hard for people to see. For example, a method called recurrent neural networks (RNNs) can be used to predict future prices based on past data. RNNs are good at understanding sequences, so they can learn how Bitcoin's price changes over time. Also, something called Fourier analysis can be used to see if there are any repeating patterns in Bitcoin's price that happen at certain times of the year. These advanced methods can give a deeper understanding of Bitcoin's seasonal trends, but they still need to be used carefully because Bitcoin's price can be affected by many things.
 
 ## How do global regulatory changes impact the seasonal behavior of Bitcoin?
 
@@ -84,9 +84,9 @@ For investors, understanding Bitcoin's long-term seasonality can help them make 
 
 ## How can one implement a Seasonal Algorithmic Strategy?
 
-A fundamental approach to exploiting Bitcoin's seasonal patterns involves developing an [algorithmic trading](/wiki/algorithmic-trading) strategy. A straightforward yet effective method is to buy Bitcoin at 21:00 UTC and sell it at 23:00 UTC. This strategy leverages the observable pattern in Bitcoin's price behavior during these evening hours. An essential component of this strategy is backtesting, which involves evaluating the algorithm's performance across historical data to assess its viability and potential profitability.
+A fundamental approach to exploiting Bitcoin's seasonal patterns involves developing an [algorithmic trading](/wiki/algorithmic-trading) strategy. A straightforward yet effective method is to buy Bitcoin at 21:00 UTC and sell it at 23:00 UTC. This strategy leverages the observable pattern in Bitcoin's price behavior during these evening hours. An essential component of this strategy is [backtesting](/wiki/backtesting), which involves evaluating the algorithm's performance across historical data to assess its viability and potential profitability.
 
-Backtesting during high volatility periods offers insights into the risk-adjusted returns that this strategy can achieve. The Sharpe Ratio, a common metric for assessing risk-adjusted returns, can be used to evaluate the strategy's performance. The formula for the Sharpe Ratio is:
+Backtesting during high [volatility](/wiki/volatility-trading-strategies) periods offers insights into the risk-adjusted returns that this strategy can achieve. The Sharpe Ratio, a common metric for assessing risk-adjusted returns, can be used to evaluate the strategy's performance. The formula for the Sharpe Ratio is:
 
 $$
 \text{Sharpe Ratio} = \frac{\bar{R} - R_f}{\sigma_R}
@@ -113,7 +113,7 @@ def crossover_strategy(data):
 
 Volatility metrics such as the Average True Range (ATR) can help assess the potential price movement magnitude, aiding in position sizing and risk management. By combining these analytical tools with seasonal patterns, traders refine their strategies to capture potentially profitable opportunities from Bitcoin's cyclic behavior while managing exposure to risk.
 
-The adaptability of this strategy to continuously changing market conditions underscores its practicality. However, traders must remain vigilant, always seeking to optimize and adjust their methods according to real-time market data and emerging trends in the cryptocurrency landscape.
+The adaptability of this strategy to continuously changing market conditions underscores its practicality. However, traders must remain vigilant, always seeking to optimize and adjust their methods according to real-time market data and emerging trends in the [cryptocurrency](/wiki/cryptocurrency) landscape.
 
 ## References & Further Reading
 

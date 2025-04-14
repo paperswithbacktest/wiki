@@ -46,9 +46,9 @@ For example, if a stock is currently priced at $100, someone might set the upper
 
 ## What are the key pricing factors for double barrier options?
 
-The price of a double barrier option depends on several things. One big factor is how close the current price of the stock or whatever you're betting on is to the barriers. If the price is really close to either barrier, the option might be cheaper because it's more likely to hit a barrier and become worthless. Another important factor is how much time is left until the option expires. More time means more chances for the price to move around, which can make the option more expensive.
+The price of a double barrier option depends on several things. One big [factor](/wiki/factor-investing) is how close the current price of the stock or whatever you're betting on is to the barriers. If the price is really close to either barrier, the option might be cheaper because it's more likely to hit a barrier and become worthless. Another important factor is how much time is left until the option expires. More time means more chances for the price to move around, which can make the option more expensive.
 
-Another thing that affects the price is how much the stock or asset tends to move up and down, called volatility. If the price jumps around a lot, the option could be more expensive because it's more likely to hit one of the barriers. The interest rate and any dividends the stock pays also play a role. Higher interest rates can make the option more expensive, while dividends might make it cheaper. All these factors together help decide how much someone would pay for a double barrier option.
+Another thing that affects the price is how much the stock or asset tends to move up and down, called volatility. If the price jumps around a lot, the option could be more expensive because it's more likely to hit one of the barriers. The [interest rate](/wiki/interest-rate-trading-strategies) and any dividends the stock pays also play a role. Higher interest rates can make the option more expensive, while dividends might make it cheaper. All these factors together help decide how much someone would pay for a double barrier option.
 
 ## How do market conditions affect the value of double barrier options?
 

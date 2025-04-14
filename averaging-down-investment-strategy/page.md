@@ -40,7 +40,7 @@ Now, you have 200 shares of ABC Corp, and you've spent a total of $3,000. To fin
 
 ## What are the psychological factors that influence the decision to average down?
 
-One big psychological factor that makes people want to average down is something called loss aversion. This means that people feel the pain of losing money more than they feel happy about making money. When a stock they own goes down in price, it can feel really bad. They might think that if they buy more shares at the lower price, they can make the pain of the loss go away. They hope the stock will go back up, and they can feel better about their investment.
+One big psychological [factor](/wiki/factor-investing) that makes people want to average down is something called loss aversion. This means that people feel the pain of losing money more than they feel happy about making money. When a stock they own goes down in price, it can feel really bad. They might think that if they buy more shares at the lower price, they can make the pain of the loss go away. They hope the stock will go back up, and they can feel better about their investment.
 
 Another factor is overconfidence. Sometimes, people think they know more about a stock or a company than they really do. They might believe the stock price will go back up because they think they understand the company's problems better than other investors. This overconfidence can make them want to buy more shares when the price is down, hoping to prove they were right all along. But this can be risky because no one can predict the stock market perfectly.
 

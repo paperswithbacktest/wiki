@@ -32,7 +32,7 @@ A third challenge is not understanding how compounding works. Some people think 
 
 To start benefiting from compounding interest, you should open a savings or investment account that offers interest. Look for accounts with good interest rates, like high-yield savings accounts or certain types of investment accounts. Once you have the account, put some money into it. The more you put in, the more it can grow. It's like planting seeds in a garden; the more seeds you plant, the bigger your garden will be.
 
-After you've put money into your account, leave it there and let it grow. Don't take money out because that stops the compounding process. Over time, the interest you earn will be added to your original amount, and you'll start earning interest on the new, bigger amount. This keeps happening, making your money grow faster and faster. The key is to be patient and let time do its magic. The longer you leave your money in, the more it can compound and grow into a big amount.
+After you've put money into your account, leave it there and let it grow. Don't take money out because that stops the compounding process. Over time, the interest you earn will be added to your original amount, and you'll start [earning](/wiki/earning-announcement) interest on the new, bigger amount. This keeps happening, making your money grow faster and faster. The key is to be patient and let time do its magic. The longer you leave your money in, the more it can compound and grow into a big amount.
 
 ## What are the differences between simple and compound interest?
 
@@ -44,7 +44,7 @@ Compound interest is more powerful because it lets your money grow faster. With 
 
 The frequency of compounding can make a big difference in how fast your investments grow. When you earn compound interest, the more often the interest is added to your account, the quicker your money can grow. For example, if you have $100 in an account with 5% interest, and the interest is compounded yearly, you'll have $105 at the end of the year. But if the interest is compounded every six months, you'll earn interest on $105 halfway through the year, and then earn more interest on the new amount for the second half of the year. This means you'll end up with more money than if it was compounded just once a year.
 
-The more often the interest is compounded, like monthly or even daily, the more your money can grow. It's like watering a plant more often to help it grow faster. If you have the choice, picking an account that compounds interest more frequently can help you reach your financial goals sooner. Just remember, the key is to leave your money in the account and let the compounding work its magic over time.
+The more often the interest is compounded, like monthly or even daily, the more your money can grow. It's like watering a plant more often to help it grow faster. If you have the choice, [picking](/wiki/asset-class-picking) an account that compounds interest more frequently can help you reach your financial goals sooner. Just remember, the key is to leave your money in the account and let the compounding work its magic over time.
 
 ## What role does time play in the effectiveness of compounding?
 

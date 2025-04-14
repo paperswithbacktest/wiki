@@ -24,7 +24,7 @@ On the other hand, CAPM is simpler and only focuses on how the overall market af
 
 Arbitrage Pricing Theory (APT) makes some guesses about how the world works to help figure out investment returns. One big guess is that there are no chances to make easy money without taking any risk. This means that if two investments look the same but one is cheaper, people will buy the cheaper one until the prices are the same. Another guess is that investors can borrow and lend money at the same rate, which helps them move their money around easily.
 
-APT also assumes that the returns on investments are affected by several different factors, like the economy or interest rates. These factors are thought to be the main things that cause prices to change. The theory also guesses that these factors are not perfectly related to each other, so knowing one factor doesn't tell you everything about another. This helps investors spread out their risks by picking investments that react differently to these factors.
+APT also assumes that the returns on investments are affected by several different factors, like the economy or interest rates. These factors are thought to be the main things that cause prices to change. The theory also guesses that these factors are not perfectly related to each other, so knowing one factor doesn't tell you everything about another. This helps investors spread out their risks by [picking](/wiki/asset-class-picking) investments that react differently to these factors.
 
 ## What are the factors used in APT models?
 

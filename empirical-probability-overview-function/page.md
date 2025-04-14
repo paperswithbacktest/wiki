@@ -24,7 +24,7 @@ Both types of probability have their place. Theoretical probability is great for
 
 ## What are some common examples of empirical probability in everyday life?
 
-One common example of empirical probability in everyday life is weather forecasting. When meteorologists predict the chance of rain, they look at past weather data for similar conditions. If it rained 70% of the time on days with the same temperature and humidity in the past, they might say there's a 70% chance of rain today. This helps people plan their day better, like deciding whether to carry an umbrella or not.
+One common example of empirical probability in everyday life is weather forecasting. When meteorologists predict the chance of rain, they look at past weather data for similar conditions. If it rained 70% of the time on days with the same temperature and humidity in the past, they might say there's a 70% chance of rain today. This helps people plan their day better, like deciding whether to [carry](/wiki/carry-trading) an umbrella or not.
 
 Another example is in sports, like basketball. Coaches and players use empirical probability to understand how likely a player is to make a shot. If a player has made 80 out of 100 free throws in practice, they have an 80% chance of making the next one. This information helps the team decide who should take the shot in crucial moments of the game.
 
@@ -138,7 +138,7 @@ $$
 
 where $P_1, P_2, \ldots, P_n$ represent the closing prices over $n$ periods.
 
-Volatility measures further contribute to understanding the extent of price changes. Widely used volatility indicators include the standard deviation of price changes and the Average True Range (ATR). These measures help traders assess the risk associated with specific assets, supporting the formulation of strategies that align risk tolerance with potential returns.
+Volatility measures further contribute to understanding the extent of price changes. Widely used [volatility](/wiki/volatility-trading-strategies) indicators include the standard deviation of price changes and the Average True Range (ATR). These measures help traders assess the risk associated with specific assets, supporting the formulation of strategies that align risk tolerance with potential returns.
 
 Regression analysis is used to investigate relationships between variables, enabling traders to model dependencies and predict future market movements. Linear regression, for example, attempts to model the relationship between dependent and independent variables by fitting a linear equation:
 

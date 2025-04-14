@@ -68,7 +68,7 @@ In the tech industry, fixed costs might include things like office rent and sala
 
 One advanced technique for analyzing fixed costs is called regression analysis. This method helps businesses figure out how their fixed costs might change over time or with different levels of production. By looking at past data, businesses can use regression analysis to predict future fixed costs. This can be really helpful for planning and making sure the business can cover its costs. For example, if a business sees that its rent costs are going up every year, it can use regression analysis to predict how much rent will cost next year and plan its budget accordingly.
 
-Another technique is cost-volume-profit (CVP) analysis. This method looks at how changes in costs and volume of sales affect a business's profit. By understanding fixed costs, a business can use CVP analysis to see how many products it needs to sell to break even or make a certain amount of profit. This helps the business set goals and make smart decisions about pricing and production. For example, if a business knows its fixed costs and uses CVP analysis, it can figure out if it should lower prices to sell more products or raise prices to make more profit per product.
+Another technique is cost-[volume](/wiki/volume-trading-strategy)-profit (CVP) analysis. This method looks at how changes in costs and volume of sales affect a business's profit. By understanding fixed costs, a business can use CVP analysis to see how many products it needs to sell to break even or make a certain amount of profit. This helps the business set goals and make smart decisions about pricing and production. For example, if a business knows its fixed costs and uses CVP analysis, it can figure out if it should lower prices to sell more products or raise prices to make more profit per product.
 
 ## How can fixed costs be optimized to improve profitability?
 
@@ -84,9 +84,9 @@ Understanding fixed costs also helps businesses make smart decisions about where
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). Algorithms for Hyper-Parameter Optimization. This paper discusses methods to optimize hyper-parameters, crucial for enhancing algorithmic trading models' performance. The optimization of hyper-parameters is a critical aspect of tuning trading algorithms for improved accuracy and efficiency.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). Algorithms for Hyper-Parameter Optimization. This paper discusses methods to optimize hyper-parameters, crucial for enhancing [algorithmic trading](/wiki/algorithmic-trading) models' performance. The optimization of hyper-parameters is a critical aspect of tuning trading algorithms for improved accuracy and efficiency.
 
-Lopez de Prado, M. (2018). Advances in Financial Machine Learning. This book covers the intersection of machine learning and finance, providing insights into developing, optimizing, and applying sophisticated algorithms in financial markets. It includes practical strategies for managing costs related to technology and infrastructure in algorithmic trading.
+Lopez de Prado, M. (2018). Advances in Financial Machine Learning. This book covers the intersection of [machine learning](/wiki/machine-learning) and finance, providing insights into developing, optimizing, and applying sophisticated algorithms in financial markets. It includes practical strategies for managing costs related to technology and infrastructure in algorithmic trading.
 
 Kaplan, R. S., & Anderson, S. R. (2007). Time-Driven Activity-Based Costing: A Simpler and More Powerful Path to Higher Profits. This work introduces time-driven activity-based costing, offering a simplified approach to cost management which can be highly beneficial for trading firms aiming to balance fixed and variable costs effectively.
 

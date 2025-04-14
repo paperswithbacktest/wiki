@@ -104,11 +104,11 @@ $$
 
 Conditional Value-at-Risk (CVaR), also known as Expected Shortfall, measures the expected loss beyond the VaR threshold. CVaR provides a more comprehensive risk assessment by predicting the average loss in extreme events, supplying additional insights into tail risks.
 
-These tools are essential for appraising potential impacts on portfolios under varying market conditions. Employing these strategies helps to optimize portfolios, enhancing resilience and minimizing volatility. By understanding and implementing proper risk management techniques, investors can create more robust and adaptable portfolios in fluctuating markets.
+These tools are essential for appraising potential impacts on portfolios under varying market conditions. Employing these strategies helps to optimize portfolios, enhancing resilience and minimizing [volatility](/wiki/volatility-trading-strategies). By understanding and implementing proper risk management techniques, investors can create more robust and adaptable portfolios in fluctuating markets.
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). 'Algorithms for Hyper-Parameter Optimization.' This paper explores algorithms designed for optimizing hyper-parameters in machine learning models, a crucial aspect in enhancing the performance of algorithmic trading systems. Effective hyper-parameter optimization can significantly improve the predictive accuracy of trading models, allowing for more precise and profitable trading strategies.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). 'Algorithms for Hyper-Parameter Optimization.' This paper explores algorithms designed for optimizing hyper-parameters in [machine learning](/wiki/machine-learning) models, a crucial aspect in enhancing the performance of [algorithmic trading](/wiki/algorithmic-trading) systems. Effective hyper-parameter optimization can significantly improve the predictive accuracy of trading models, allowing for more precise and profitable trading strategies.
 
 'Advances in Financial Machine Learning' by Marcos Lopez de Prado provides a comprehensive guide to implementing machine learning techniques in finance. This book includes insights into creating more efficient trading algorithms, reducing overfitting through cross-validation, and developing better risk management protocols.
 

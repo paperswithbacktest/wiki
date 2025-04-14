@@ -25,7 +25,7 @@ Differential privacy works by adding a bit of randomness, or "noise," to the dat
 
 The key idea is that the results of queries or analyses on the data won't change much if you add or remove any single person's information. This is called the "privacy guarantee." For example, if you're looking at the average income of a group of people, adding or removing one person's income shouldn't change the average too much. By ensuring this, differential privacy makes sure that individual data points don't have a big impact on the overall results, which keeps personal information safe.
 
-In the context of machine learning, this means that models can be trained on private data without revealing sensitive details about any individual. The added noise helps maintain the utility of the data for learning patterns and making predictions, but it also ensures that no one can reverse-engineer the model to find out specific details about people in the dataset. This way, machine learning can be used responsibly and ethically, protecting people's privacy while still benefiting from the data.
+In the context of [machine learning](/wiki/machine-learning), this means that models can be trained on private data without revealing sensitive details about any individual. The added noise helps maintain the utility of the data for learning patterns and making predictions, but it also ensures that no one can reverse-engineer the model to find out specific details about people in the dataset. This way, machine learning can be used responsibly and ethically, protecting people's privacy while still benefiting from the data.
 
 ## What are the key components of differential privacy?
 

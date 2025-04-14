@@ -18,7 +18,7 @@ Synthetic ETFs can be useful for investors who want exposure to certain markets 
 
 A Synthetic ETF and a traditional ETF both aim to track the performance of an index or a basket of assets, but they do so in different ways. A traditional ETF holds the actual assets it is tracking. For example, if it's tracking the S&P 500, it will own the stocks that make up the S&P 500. This direct ownership means that the ETF's performance closely mirrors the performance of the underlying assets.
 
-On the other hand, a Synthetic ETF uses financial instruments like derivatives to replicate the performance of the assets it's tracking. Instead of owning the stocks, bonds, or commodities directly, it enters into agreements with other financial institutions to exchange the returns of these assets. This method can be more cost-effective and allow for exposure to markets that might be hard to access directly, but it also introduces additional risks, such as the risk that the other party in the derivative contract might not fulfill their obligations.
+On the other hand, a Synthetic [ETF](/wiki/etf-trading-strategies) uses financial instruments like derivatives to replicate the performance of the assets it's tracking. Instead of owning the stocks, bonds, or commodities directly, it enters into agreements with other financial institutions to exchange the returns of these assets. This method can be more cost-effective and allow for exposure to markets that might be hard to access directly, but it also introduces additional risks, such as the risk that the other party in the derivative contract might not fulfill their obligations.
 
 ## What are the main components of a Synthetic ETF?
 
@@ -72,7 +72,7 @@ In the United States, the Securities and Exchange Commission (SEC) keeps a close
 
 Synthetic ETFs can help make markets work better and be more liquid. They do this by giving investors an easy way to put their money into different markets without buying the actual assets. For example, if someone wants to invest in a foreign stock market but it's hard to do directly, a Synthetic ETF can help. This can bring more money into the market, which can make it easier for people to buy and sell things. More trading can make the market more efficient because prices can adjust more quickly to new information.
 
-However, Synthetic ETFs can also make things more complicated. Because they use financial tools like swaps and futures, they can add more risk to the market. If a lot of people are using Synthetic ETFs and something goes wrong with the banks or institutions they're working with, it could cause problems. This might make the market less stable and affect how easily people can buy and sell. So, while Synthetic ETFs can help with market efficiency and liquidity, they also need to be managed carefully to avoid causing trouble.
+However, Synthetic ETFs can also make things more complicated. Because they use financial tools like swaps and futures, they can add more risk to the market. If a lot of people are using Synthetic ETFs and something goes wrong with the banks or institutions they're working with, it could cause problems. This might make the market less stable and affect how easily people can buy and sell. So, while Synthetic ETFs can help with market efficiency and [liquidity](/wiki/liquidity-risk-premium), they also need to be managed carefully to avoid causing trouble.
 
 ## What are some examples of Synthetic ETFs available in the market?
 

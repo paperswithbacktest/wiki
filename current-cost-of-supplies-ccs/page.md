@@ -88,7 +88,7 @@ The Current Cost of Supplies (CCS) plays a significant role in financial reporti
 
 During periods of economic instability, CCS becomes an invaluable tool for assessing and forecasting financial performance. The frequent fluctuations in commodity prices can distort a company’s financial statements if not appropriately accounted for. By adjusting net income to consider these variations, CCS offers a stabilized view of financial outcomes, aiding in effective planning and resource allocation.
 
-For investors and stakeholders, relying on adjusted net income through CCS enables decision-making grounded in a company's actual economic situation. This measure provides insights that might not be apparent through traditional accounting practices, allowing stakeholders to gauge the impact of cost volatility on earnings and make well-informed strategic choices.
+For investors and stakeholders, relying on adjusted net income through CCS enables decision-making grounded in a company's actual economic situation. This measure provides insights that might not be apparent through traditional accounting practices, allowing stakeholders to gauge the impact of cost [volatility](/wiki/volatility-trading-strategies) on earnings and make well-informed strategic choices.
 
 In mathematical terms, the adjusted net income using CCS can be expressed as:
 

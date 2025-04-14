@@ -80,7 +80,7 @@ These ideas challenge the old models because they show that people don't always 
 
 ## What advanced analytical tools are used in microeconomic research?
 
-In microeconomic research, one of the main tools used is econometrics. Econometrics is like using math and statistics to study how the economy works. Researchers use it to look at data and see if their ideas about the economy are right. For example, they might use it to see how changing the price of a product affects how much people buy it. They use special computer programs and math formulas to do this. It helps them make predictions and understand things better.
+In microeconomic research, one of the main tools used is econometrics. Econometrics is like using math and [statistics](/wiki/bayesian-statistics) to study how the economy works. Researchers use it to look at data and see if their ideas about the economy are right. For example, they might use it to see how changing the price of a product affects how much people buy it. They use special computer programs and math formulas to do this. It helps them make predictions and understand things better.
 
 Another important tool is game theory. Game theory is like studying how people make choices when they have to think about what others will do. It's used a lot to understand how companies decide on things like prices or how much to produce. Researchers use it to make models that show different choices and outcomes. This helps them see how companies might act in different situations and how that affects the market. Game theory is really useful for understanding competition and how businesses make decisions.
 

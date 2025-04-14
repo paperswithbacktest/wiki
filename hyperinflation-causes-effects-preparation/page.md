@@ -50,7 +50,7 @@ Families also feel the strain. If parents lose their jobs because businesses can
 
 ## What historical examples of hyperinflation can we learn from?
 
-One big example of hyperinflation happened in Germany after World War I. It started in 1921 and got really bad by 1923. The German government had to pay a lot of money because they lost the war, so they started printing more money to pay their bills. This made prices go up really fast. People had to carry around bags of money just to buy a loaf of bread. It made life very hard for everyone, and it helped lead to a lot of political problems later on.
+One big example of hyperinflation happened in Germany after World War I. It started in 1921 and got really bad by 1923. The German government had to pay a lot of money because they lost the war, so they started printing more money to pay their bills. This made prices go up really fast. People had to [carry](/wiki/carry-trading) around bags of money just to buy a loaf of bread. It made life very hard for everyone, and it helped lead to a lot of political problems later on.
 
 Another example is from Zimbabwe in the 2000s. Hyperinflation there started to get really bad around 2007 and 2008. The government was printing too much money and having big problems running the country. Prices were going up so fast that people had to use billions of dollars to buy simple things like eggs or milk. It made life very hard for people, and many lost their savings. It took a long time for Zimbabwe to start fixing things after the hyperinflation ended.
 
@@ -88,9 +88,9 @@ In the long run, fixing the problems caused by hyperinflation often needs big ch
 
 ## How can one prepare trading strategies for hyperinflation?
 
-Developing effective trading strategies during hyperinflation requires adaptable algorithmic models to manage heightened market volatility. Hyper-volatility characterized by erratic price movements can challenge traditional trading systems, which often assume relatively stable market conditions. Therefore, these models must adjust rapidly to fluctuations, incorporating mechanisms that can sustain performance in unpredictable environments.
+Developing effective trading strategies during hyperinflation requires adaptable algorithmic models to manage heightened market [volatility](/wiki/volatility-trading-strategies). Hyper-volatility characterized by erratic price movements can challenge traditional trading systems, which often assume relatively stable market conditions. Therefore, these models must adjust rapidly to fluctuations, incorporating mechanisms that can sustain performance in unpredictable environments.
 
-Investment strategies during hyperinflation should pivot towards commodities. Commodities like gold, silver, and oil usually act as a hedge against inflation, maintaining value when fiat currencies devalue sharply. Including commodities in algorithmic trading portfolios can reduce risks associated with currency devaluation during hyperinflation.
+Investment strategies during hyperinflation should pivot towards commodities. Commodities like gold, silver, and oil usually act as a hedge against inflation, maintaining value when fiat currencies devalue sharply. Including commodities in [algorithmic trading](/wiki/algorithmic-trading) portfolios can reduce risks associated with currency devaluation during hyperinflation.
 
 Cross-currency analysis is essential for protecting assets from extreme devaluation. This analysis involves comparing and trading multiple currencies to maintain asset value despite hyperinflationary pressures. Algorithmically, this can be implemented by creating a multi-currency trading system that assesses currency strength and volatility, dynamically reallocating assets to stronger currencies.
 

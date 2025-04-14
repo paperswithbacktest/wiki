@@ -26,13 +26,13 @@ Low-risk investments are like safe choices where you won't lose much money. One 
 
 Another example of a low-risk investment is government bonds. When you buy a government bond, you're lending money to the government. They promise to pay you back with a bit of interest. Since it's the government, the risk of them not paying you back is very low. It's a safe way to grow your money slowly over time.
 
-Certificates of Deposit (CDs) are also low-risk. With a CD, you agree to leave your money in the bank for a certain time, like six months or a year. In return, the bank gives you a fixed interest rate. It's safe because your money is protected, and you know exactly how much you'll earn.
+Certificates of Deposit (CDs) are also low-risk. With a CD, you agree to leave your money in the bank for a certain time, like six months or a year. In return, the bank gives you a fixed [interest rate](/wiki/interest-rate-trading-strategies). It's safe because your money is protected, and you know exactly how much you'll earn.
 
 ## Can you give examples of high-risk investments?
 
 High-risk investments are like big bets where you could win a lot or lose a lot. One example is investing in stocks, especially stocks of smaller companies or new startups. These stocks can go up a lot if the company does well, but they can also drop quickly if things don't go as planned. It's exciting but also scary because you never know what will happen next.
 
-Another high-risk investment is cryptocurrency, like Bitcoin or Ethereum. These digital currencies can jump in value really fast, making people a lot of money. But they can also crash just as quickly, leaving investors with big losses. It's a bit like a roller coaster ride with your money.
+Another high-risk investment is [cryptocurrency](/wiki/cryptocurrency), like Bitcoin or Ethereum. These digital currencies can jump in value really fast, making people a lot of money. But they can also crash just as quickly, leaving investors with big losses. It's a bit like a roller coaster ride with your money.
 
 Real estate can also be a high-risk investment, especially if you're buying property to flip or rent out in a volatile market. If the market goes up, you can make a big profit, but if it goes down, you might end up selling at a loss or struggling to find tenants. It's all about taking a chance and hoping it pays off.
 

@@ -92,7 +92,7 @@ Lastly, social changes could affect First World countries. People are starting t
 
 ## What is the impact of algorithmic trading on first world economies?
 
-In the contemporary landscape of financial markets, developed countries are at the forefront of leveraging algorithmic trading to drive market efficiencies and liquidity. Algorithmic trading, which utilizes automated systems to execute trading strategies at high speed and frequency, plays a pivotal role in the economies of industrialized nations.
+In the contemporary landscape of financial markets, developed countries are at the forefront of leveraging [algorithmic trading](/wiki/algorithmic-trading) to drive market efficiencies and [liquidity](/wiki/liquidity-risk-premium). Algorithmic trading, which utilizes automated systems to execute trading strategies at high speed and frequency, plays a pivotal role in the economies of industrialized nations.
 
 ### Contribution to Market Liquidity and Efficiency
 

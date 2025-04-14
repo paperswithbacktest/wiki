@@ -22,7 +22,7 @@ Some basic terms you need to know are "in the money," "at the money," and "out o
 
 ## What are the benefits of trading options on the QQQ?
 
-Trading options on the QQQ can be very helpful because it's a popular ETF that follows the Nasdaq-100 Index. This means you can use QQQ options to bet on how the tech sector and the overall market are doing. Since the QQQ is traded a lot, it's easy to buy and sell options without big price changes. This makes it easier to get in and out of trades when you want to.
+Trading options on the QQQ can be very helpful because it's a popular [ETF](/wiki/etf-trading-strategies) that follows the Nasdaq-100 Index. This means you can use QQQ options to bet on how the tech sector and the overall market are doing. Since the QQQ is traded a lot, it's easy to buy and sell options without big price changes. This makes it easier to get in and out of trades when you want to.
 
 Another good thing about QQQ options is that they can help you manage risk. Because the QQQ tracks a big group of companies, it's usually less risky than betting on just one stock. You can use QQQ options to protect your other investments or to make money if you think the market will go up or down. This flexibility makes QQQ options a useful tool for many different kinds of traders.
 
@@ -42,7 +42,7 @@ Another strategy is the straddle, where you buy both a call and a put option wit
 
 ## How does the liquidity of QQQ options affect trading strategies?
 
-The liquidity of QQQ options is really important because it makes it easier to buy and sell them without big price changes. When an option is liquid, there are a lot of people trading it, so you can usually get in and out of your trades quickly. This is good for beginners because it means you can change your mind or close your position without losing a lot of money on the price difference. It also means you can use more advanced strategies like spreads, where you buy and sell different options at the same time, because you can find someone to trade with easily.
+The [liquidity](/wiki/liquidity-risk-premium) of QQQ options is really important because it makes it easier to buy and sell them without big price changes. When an option is liquid, there are a lot of people trading it, so you can usually get in and out of your trades quickly. This is good for beginners because it means you can change your mind or close your position without losing a lot of money on the price difference. It also means you can use more advanced strategies like spreads, where you buy and sell different options at the same time, because you can find someone to trade with easily.
 
 Because QQQ options are so liquid, you can use them for many different strategies. For example, if you want to make a quick trade based on a news event, the high liquidity means you can act fast without worrying too much about the price. It also makes it easier to use strategies like covered calls or protective puts, where you need to be able to buy or sell options smoothly. Overall, the liquidity of QQQ options gives you more flexibility and helps you manage your trades better.
 
@@ -80,7 +80,7 @@ Another advanced strategy is the calendar spread, where you buy and sell options
 
 Using QQQ options for hedging can help protect your broader investment portfolio from big drops in the market. If you own a lot of stocks or other investments that could go down if the market falls, you can buy put options on the QQQ. The QQQ tracks the Nasdaq-100 Index, which includes many big tech companies, so it's a good way to hedge against a drop in the tech sector or the overall market. If the market goes down, the value of your put options will go up, which can help offset the losses in your other investments. This way, you can feel more secure about your portfolio, knowing that you have some protection if things go wrong.
 
-To use QQQ options for hedging, you need to think about how much protection you want and how much you're willing to spend. Buying put options costs money, called the premium, so you need to balance the cost of the options with the amount of protection they give you. You can choose the strike price and expiration date of the put options based on how much you think the market might drop and how long you want the protection to last. By carefully picking your options, you can create a hedge that fits your needs and helps keep your portfolio safe without spending too much.
+To use QQQ options for hedging, you need to think about how much protection you want and how much you're willing to spend. Buying put options costs money, called the premium, so you need to balance the cost of the options with the amount of protection they give you. You can choose the strike price and expiration date of the put options based on how much you think the market might drop and how long you want the protection to last. By carefully [picking](/wiki/asset-class-picking) your options, you can create a hedge that fits your needs and helps keep your portfolio safe without spending too much.
 
 ## References & Further Reading
 

@@ -34,7 +34,7 @@ For example, if a Treasury bond offers a yield of about 2%, an agency bond from 
 
 ## What are the risks associated with investing in agency bonds?
 
-Investing in agency bonds comes with some risks, but they are usually less risky than other types of bonds. One risk is that interest rates might go up. If that happens, the value of your bond could go down because new bonds would be paying more interest. This is called interest rate risk. Another risk is that the bond issuer might not be able to pay you back. This is called credit risk. For bonds from government-sponsored enterprises like Fannie Mae, this risk is low because the government might step in to help, but it's not guaranteed.
+Investing in agency bonds comes with some risks, but they are usually less risky than other types of bonds. One risk is that interest rates might go up. If that happens, the value of your bond could go down because new bonds would be paying more interest. This is called [interest rate](/wiki/interest-rate-trading-strategies) risk. Another risk is that the bond issuer might not be able to pay you back. This is called credit risk. For bonds from government-sponsored enterprises like Fannie Mae, this risk is low because the government might step in to help, but it's not guaranteed.
 
 There's also something called prepayment risk, especially with bonds tied to mortgages. If interest rates fall, people might pay off their mortgages early, which means you get your money back sooner than expected. You would then have to find a new place to invest that money, maybe at a lower interest rate. But bonds from federal agencies like Ginnie Mae have less of this risk because they are fully backed by the U.S. government. So, while agency bonds are safer than many other investments, it's good to know about these risks before you decide to buy them.
 
@@ -72,7 +72,7 @@ The longer it takes for your bond to pay you back, the more it can be affected b
 
 One way to get the most out of agency bonds is to pay attention to how long it takes for the bond to pay you back. If you think interest rates might go up, it's a good idea to buy bonds that will pay you back sooner rather than later. Shorter-term bonds won't lose as much value if interest rates go up. On the other hand, if you think interest rates will stay the same or go down, you might want to buy longer-term bonds because they usually offer higher interest rates. This can help you earn more money over time.
 
-Another strategy is to spread your money across different types of agency bonds. You can buy some from government-sponsored enterprises like Fannie Mae and some from federal agencies like Ginnie Mae. This way, you can balance the risks and rewards. Bonds from GSEs might offer higher returns but come with a bit more risk, while bonds from federal agencies are safer but might pay a bit less. By mixing them up, you can find a good balance that fits your comfort with risk and your goals for earning money.
+Another strategy is to spread your money across different types of agency bonds. You can buy some from government-sponsored enterprises like Fannie Mae and some from federal agencies like Ginnie Mae. This way, you can balance the risks and rewards. Bonds from GSEs might offer higher returns but come with a bit more risk, while bonds from federal agencies are safer but might pay a bit less. By mixing them up, you can find a good balance that fits your comfort with risk and your goals for [earning](/wiki/earning-announcement) money.
 
 ## How do macroeconomic factors influence the performance of agency bonds?
 
@@ -148,7 +148,7 @@ In summary, understanding the elements affecting financial returns—interest ra
 
 ## How can one balance agency bonds and algo trading?
 
-Incorporating agency bonds into an algorithmic trading strategy can provide investors with a strategic hedge against market volatility, offering a balanced approach to managing investment risks and optimizing returns. Agency bonds, known for their low-risk profile, can act as a stable component within an automated trading framework that primarily oscillates around high-frequency trading (HFT) strategies.
+Incorporating agency bonds into an [algorithmic trading](/wiki/algorithmic-trading) strategy can provide investors with a strategic hedge against market [volatility](/wiki/volatility-trading-strategies), offering a balanced approach to managing investment risks and optimizing returns. Agency bonds, known for their low-risk profile, can act as a stable component within an automated trading framework that primarily oscillates around high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) strategies.
 
 When considering diversification, blending agency bonds with a high-frequency trading strategy leverages the stability of bonds and the agility of automated systems. Diversification is a risk management strategy that mixes a wide variety of investments within a portfolio, with the rationale that a diversified portfolio will, on average, yield higher returns and pose a lower risk than any individual investment found within the portfolio. The formula for diversification can be expressed through the modern portfolio theory developed by Harry Markowitz, where:
 

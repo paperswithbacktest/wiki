@@ -28,7 +28,7 @@ To use a mean-reverting strategy, traders often use statistical tools to figure 
 
 ## How do momentum strategies work in financial markets?
 
-Momentum strategies in financial markets are all about following the trend. If a stock or any asset is going up, people using this strategy believe it will keep going up for a while. They look for things that are already moving and try to jump on that movement to make money. For example, if a stock's price is increasing, a momentum trader might buy it, hoping to sell it later at an even higher price. If a stock's price is falling, they might sell it short, expecting to buy it back cheaper later. This approach is about timing – getting in and out of investments at the right moment to ride the wave of the trend.
+Momentum strategies in financial markets are all about following the trend. If a stock or any asset is going up, people using this strategy believe it will keep going up for a while. They look for things that are already moving and try to jump on that movement to make money. For example, if a stock's price is increasing, a [momentum](/wiki/momentum) trader might buy it, hoping to sell it later at an even higher price. If a stock's price is falling, they might sell it short, expecting to buy it back cheaper later. This approach is about timing – getting in and out of investments at the right moment to ride the wave of the trend.
 
 To use a momentum strategy, traders often use charts and tools to spot when something is really starting to move. They look for strong trends and try to join them before they peak. It's a bit like surfing – you want to catch the wave at the right time and ride it as long as you can. But it's risky because trends can change suddenly. If the trend reverses, momentum traders need to be quick to get out of their investments. This strategy works well when trends last for a good amount of time, but it can be tricky if the market changes direction unexpectedly.
 
@@ -46,7 +46,7 @@ Another example is using Bollinger Bands. These are lines drawn on a chart that 
 
 ## Can you provide examples of momentum strategies in trading?
 
-One example of a momentum strategy is trend following. Imagine a stock's price is going up and up. A momentum trader might see this and decide to buy the stock, thinking it will keep going up for a while. They would hold onto the stock until they see signs that the trend might be ending. For example, if the stock's price starts to level off or go down, the trader would sell it, hoping to make a profit from the rise in price.
+One example of a momentum strategy is [trend following](/wiki/trend-following). Imagine a stock's price is going up and up. A momentum trader might see this and decide to buy the stock, thinking it will keep going up for a while. They would hold onto the stock until they see signs that the trend might be ending. For example, if the stock's price starts to level off or go down, the trader would sell it, hoping to make a profit from the rise in price.
 
 Another example is using moving averages to spot momentum. Traders might use a short-term moving average, like a 50-day average, and a long-term moving average, like a 200-day average. If the short-term average goes above the long-term average, it's called a "golden cross," and it might mean the stock's price is starting to go up fast. A momentum trader would see this and buy the stock, hoping to ride the upward trend. If the short-term average goes below the long-term average, it's called a "death cross," and it might mean the price is starting to fall. The trader would then sell the stock to avoid losing money.
 
@@ -82,7 +82,7 @@ Another risk is that momentum strategies can lead to big losses if the market be
 
 ## How do you use momentum indicators?
 
-Momentum indicators are vital tools in technical analysis, providing traders with insights into the strength and direction of existing market trends. These indicators help traders make informed decisions by identifying whether to enter or exit a position based on trend analysis.
+Momentum indicators are vital tools in technical analysis, providing traders with insights into the strength and direction of existing market trends. These indicators help traders make informed decisions by identifying whether to enter or [exit](/wiki/exit-strategy) a position based on trend analysis.
 
 **Trend Lines**
 

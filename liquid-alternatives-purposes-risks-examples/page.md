@@ -36,7 +36,7 @@ There are also mutual funds and exchange-traded funds (ETFs) that focus on alter
 
 ## Can you provide examples of liquid alternative investments?
 
-One example of a liquid alternative investment is a hedge fund. Hedge funds are managed by professionals who use different strategies to try to make money. They might bet on stocks going up or down, use borrowed money to increase potential returns, or invest in things like currencies or commodities. Hedge funds are popular because they can make money even when the stock market is not doing well. They are a bit more complicated and usually need a lot of money to start investing, but they can be a good choice for people who want to protect their money and still have a chance to grow it.
+One example of a liquid alternative investment is a [hedge fund](/wiki/hedge-fund-trading-strategies). Hedge funds are managed by professionals who use different strategies to try to make money. They might bet on stocks going up or down, use borrowed money to increase potential returns, or invest in things like currencies or commodities. Hedge funds are popular because they can make money even when the stock market is not doing well. They are a bit more complicated and usually need a lot of money to start investing, but they can be a good choice for people who want to protect their money and still have a chance to grow it.
 
 Another example is real estate investment trusts, or REITs. REITs are companies that own or finance income-generating real estate. When you invest in a REIT, you're buying a piece of a big real estate portfolio. This can give you regular income from rent and property sales without having to buy and manage properties yourself. REITs are easier to buy and sell than actual real estate, making them a liquid alternative.
 
@@ -102,7 +102,7 @@ where $E[R]$ is the expected portfolio return, $R_f$ is the risk-free rate, and 
 
 **Financial Instruments Used:** Understanding the financial instruments utilized within the fund’s strategy is vital. Liquid alternatives might invest in derivatives, commodities, or non-traditional asset classes to achieve their objectives. This complexity requires an investor to have a familiarity with these instruments and their associated risks.
 
-To guide these evaluations, investors may leverage quantitative techniques and software tools. In Python, libraries such as NumPy and pandas can assist in analyzing performance data, while tools like Matplotlib can visualize historical trends. For example, calculating the historical volatility of a fund can be achieved with the following Python snippet:
+To guide these evaluations, investors may leverage quantitative techniques and software tools. In Python, libraries such as NumPy and pandas can assist in analyzing performance data, while tools like Matplotlib can visualize historical trends. For example, calculating the historical [volatility](/wiki/volatility-trading-strategies) of a fund can be achieved with the following Python snippet:
 
 ```python
 import numpy as np

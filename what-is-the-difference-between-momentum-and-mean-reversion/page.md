@@ -22,7 +22,7 @@ To use mean reversion, traders often look at things like the average price over 
 
 ## How does momentum investing work?
 
-Momentum investing is all about following the trend. It's like seeing a train moving fast and deciding to jump on because you think it will keep going. In trading, if a stock's price is going up quickly, momentum investors will buy it, hoping it will keep going up. They believe that stocks that have done well recently will keep doing well for a while longer. They look at things like how much the price has gone up over the last few weeks or months to decide which stocks to buy.
+Momentum investing is all about following the trend. It's like seeing a train moving fast and deciding to jump on because you think it will keep going. In trading, if a stock's price is going up quickly, [momentum](/wiki/momentum) investors will buy it, hoping it will keep going up. They believe that stocks that have done well recently will keep doing well for a while longer. They look at things like how much the price has gone up over the last few weeks or months to decide which stocks to buy.
 
 To do momentum investing, people use tools like the Relative Strength Index (RSI) or the Moving Average Convergence Divergence (MACD). These tools help them see if a stock's price is moving really fast. If it is, and the price is still going up, they might buy it. But they also have to be careful because sometimes the price can suddenly change direction. So, they need to watch the market closely and be ready to sell if the momentum starts to slow down or reverse. Momentum investing can be exciting, but it's also risky, so it's important to use it wisely and not put all your money into one stock.
 

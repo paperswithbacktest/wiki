@@ -30,7 +30,7 @@ Another factor that influences natural gas prices is how much gas is stored. If 
 
 For beginners, one simple trading strategy is called "buy and hold." This means you buy natural gas when you think the price is low and then hold onto it until the price goes up. You can then sell it for a profit. This strategy works well if you believe that natural gas prices will increase over time. It's a good way to start because it doesn't require you to watch the market every day, but you do need to be patient and wait for the right time to sell.
 
-Another strategy for beginners is "day trading." This means you buy and sell natural gas within the same day. Day traders try to make small profits from the little changes in price that happen during the day. This strategy can be exciting but also risky because the prices can change quickly. To do well with day trading, you need to pay close attention to the market and be ready to make quick decisions.
+Another strategy for beginners is "[day trading](/wiki/day-trading-spy)." This means you buy and sell natural gas within the same day. Day traders try to make small profits from the little changes in price that happen during the day. This strategy can be exciting but also risky because the prices can change quickly. To do well with day trading, you need to pay close attention to the market and be ready to make quick decisions.
 
 A third strategy is "swing trading," which is in between buy and hold and day trading. With swing trading, you hold onto natural gas for a few days or weeks, trying to catch bigger price swings. This strategy can be less stressful than day trading but still needs you to keep an eye on the market. It's a good choice if you want to try to make more money than with a buy and hold strategy but don't want to watch the market all day like a day trader.
 
@@ -84,7 +84,7 @@ When the rules about natural gas change, expert traders need to be ready to adju
 
 ## What is the role of Technical Analysis in Natural Gas Algo Trading?
 
-Technical analysis is a crucial component in devising effective algorithmic trading strategies for natural gas markets. By utilizing various technical indicators and chart patterns, traders can identify potential entry and [exit](/wiki/exit-strategy) points that can optimize trading performance.
+Technical analysis is a crucial component in devising effective [algorithmic trading](/wiki/algorithmic-trading) strategies for natural gas markets. By utilizing various technical indicators and chart patterns, traders can identify potential entry and [exit](/wiki/exit-strategy) points that can optimize trading performance.
 
 **Moving Averages**
 

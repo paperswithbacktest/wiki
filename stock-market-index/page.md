@@ -72,13 +72,13 @@ Using indices for diversification also makes it easier to keep your investments 
 
 ## How can one invest in a stock market index?
 
-One way to invest in a stock market index is by buying index funds or exchange-traded funds (ETFs). These funds are made to copy the performance of a specific index, like the S&P 500 or the Dow Jones. When you buy shares in an index fund or ETF, you're basically buying a little bit of all the stocks in that index. This makes it easy to spread your money across many different companies without having to pick each one yourself.
+One way to invest in a stock market index is by buying index funds or exchange-traded funds (ETFs). These funds are made to copy the performance of a specific index, like the S&P 500 or the Dow Jones. When you buy shares in an index fund or [ETF](/wiki/etf-trading-strategies), you're basically buying a little bit of all the stocks in that index. This makes it easy to spread your money across many different companies without having to pick each one yourself.
 
 Another way to invest in an index is through a financial product called futures or options. These are a bit more complicated and usually used by people who know a lot about the market. With futures, you agree to buy or sell the index at a set price in the future. Options give you the right, but not the obligation, to buy or sell the index at a set price before a certain date. Both of these can be risky, so they're not usually recommended for people just starting out with investing.
 
 ## What advanced strategies can be used to trade based on stock market index movements?
 
-One advanced strategy for trading based on stock market index movements is called index arbitrage. This is when traders try to make money from the small differences in price between an index and the stocks that make it up. They might buy the stocks in the index and at the same time sell the index future, or do the opposite. If the prices move closer together, they can make a profit. This strategy needs quick thinking and good technology because the price differences can be very small and don't last long.
+One advanced strategy for trading based on stock market index movements is called index [arbitrage](/wiki/arbitrage). This is when traders try to make money from the small differences in price between an index and the stocks that make it up. They might buy the stocks in the index and at the same time sell the index future, or do the opposite. If the prices move closer together, they can make a profit. This strategy needs quick thinking and good technology because the price differences can be very small and don't last long.
 
 Another strategy is called pairs trading. This involves finding two stocks or indices that usually move together but have temporarily moved apart. A trader might buy the one that's gone down and sell the one that's gone up, betting that they will come back together. This can be a good way to make money even if the market as a whole isn't going up or down much. Like index arbitrage, pairs trading needs careful watching and quick action to work well.
 
@@ -112,7 +112,7 @@ Understanding and analyzing these indicators is crucial for interpretation and a
 
 ## What are the Popular Technical Indicators for Algo Trading?
 
-Technical indicators play a pivotal role in algorithmic trading by providing tools to analyze market trends and execute trades with precision. Among these, moving averages, the Relative Strength Index (RSI), and Bollinger Bands are particularly notable due to their effectiveness and widespread use. 
+Technical indicators play a pivotal role in [algorithmic trading](/wiki/algorithmic-trading) by providing tools to analyze market trends and execute trades with precision. Among these, moving averages, the Relative Strength Index (RSI), and Bollinger Bands are particularly notable due to their effectiveness and widespread use. 
 
 ### Moving Averages
 
@@ -163,7 +163,7 @@ rsi = calculate_rsi(prices)
 
 ### Bollinger Bands
 
-Bollinger Bands consist of a middle band (a simple moving average) and two outer bands (standard deviations away from the middle band). These bands expand and contract based on market volatility, providing visual cues for potential entry and exit points.
+Bollinger Bands consist of a middle band (a simple moving average) and two outer bands (standard deviations away from the middle band). These bands expand and contract based on market volatility, providing visual cues for potential entry and [exit](/wiki/exit-strategy) points.
 
 **Formula for Bollinger Bands:**
 

@@ -28,7 +28,7 @@ So, if something bad happens with the reference obligation, like the borrower no
 
 ## What are the typical components of a reference obligation?
 
-A reference obligation usually includes a few key pieces of information that help everyone understand the loan it's based on. First, there's the name of the borrower, which is the person or company that took out the loan. Then, there's the amount of money borrowed, which is called the principal. There's also the interest rate, which is how much the borrower has to pay on top of the principal. These details are important because they help everyone know exactly what the loan looks like.
+A reference obligation usually includes a few key pieces of information that help everyone understand the loan it's based on. First, there's the name of the borrower, which is the person or company that took out the loan. Then, there's the amount of money borrowed, which is called the principal. There's also the [interest rate](/wiki/interest-rate-trading-strategies), which is how much the borrower has to pay on top of the principal. These details are important because they help everyone know exactly what the loan looks like.
 
 Another part of a reference obligation is the maturity date, which is when the loan needs to be paid back completely. Sometimes, there are also covenants, which are rules the borrower has to follow while they have the loan. All these parts together make up the reference obligation and help everyone involved in a financial contract, like a credit default swap, know what to look out for. If something goes wrong with these parts, like the borrower not paying back the loan, it can trigger actions in the contract.
 
@@ -92,7 +92,7 @@ Credit rating agencies play a pivotal role by providing credit ratings that refl
 
 Market indicators such as stock price movements, bond yields, and credit default swap (CDS) spreads are also crucial. CDS spreads, similar to credit spreads, indicate the cost of insuring against a default and are highly sensitive to changes in credit risk perceptions.
 
-A comprehensive evaluation of creditworthiness employs a combination of these methods. By integrating both fundamental and market-based analyses, investors can assess all relevant factors, leading to informed investment decisions. Tools like the Altman Z-score, which predicts a company's likelihood of bankruptcy using a blend of profitability, leverage, and liquidity indicators, can be mathematically represented as:
+A comprehensive evaluation of creditworthiness employs a combination of these methods. By integrating both fundamental and market-based analyses, investors can assess all relevant factors, leading to informed investment decisions. Tools like the Altman Z-score, which predicts a company's likelihood of bankruptcy using a blend of profitability, leverage, and [liquidity](/wiki/liquidity-risk-premium) indicators, can be mathematically represented as:
 
 $$
 Z = 1.2X_1 + 1.4X_2 + 3.3X_3 + 0.6X_4 + 0.999X_5

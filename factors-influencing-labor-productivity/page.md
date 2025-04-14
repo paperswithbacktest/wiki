@@ -52,7 +52,7 @@ But training isn't just about learning new skills. It also helps workers grow in
 
 ## How do economic factors such as wages and inflation affect labor productivity?
 
-Wages and inflation can really change how much work people get done. When wages go up, workers might feel happier and more motivated because they are earning more money. This can make them work harder and do a better job, which means more work gets done in the same amount of time. But if wages don't go up and people feel like they are not being paid enough, they might not work as hard or might look for other jobs. This can slow down work and make it harder for a business to keep up its productivity.
+Wages and inflation can really change how much work people get done. When wages go up, workers might feel happier and more motivated because they are [earning](/wiki/earning-announcement) more money. This can make them work harder and do a better job, which means more work gets done in the same amount of time. But if wages don't go up and people feel like they are not being paid enough, they might not work as hard or might look for other jobs. This can slow down work and make it harder for a business to keep up its productivity.
 
 Inflation can also make a big difference. When prices go up because of inflation, workers might need more money just to keep up with their costs. If their wages don't go up too, they might feel stressed and worried about money, which can make it hard to focus on work. On the other hand, if wages go up along with inflation, workers might feel more secure and be able to work better. So, keeping wages in line with inflation is important for making sure workers stay productive and businesses keep running smoothly.
 

@@ -99,7 +99,7 @@ Broker-dealers must be registered with the Financial Industry Regulatory Authori
 
 ### Influence of Market Makers
 
-Market makers are specialized broker-dealers who significantly impact liquidity and pricing within the Pink Sheets. They are responsible for maintaining an orderly and efficient market by continuously quoting buy and sell prices for securities. By committing to buy and sell a security at publicly quoted prices, market makers provide liquidity, enabling investors to execute trades without excessive delay.
+Market makers are specialized broker-dealers who significantly impact [liquidity](/wiki/liquidity-risk-premium) and pricing within the Pink Sheets. They are responsible for maintaining an orderly and efficient market by continuously quoting buy and sell prices for securities. By committing to buy and sell a security at publicly quoted prices, market makers provide liquidity, enabling investors to execute trades without excessive delay.
 
 Market makers profit from the spread between the bid and ask prices. It incentivizes them to maintain competitive spreads, facilitating smoother trading conditions. However, given the low [volume](/wiki/volume-trading-strategy) and higher [volatility](/wiki/volatility-trading-strategies) typical of Pink Sheet securities, these spreads can be wider compared to those on more regulated exchanges.
 

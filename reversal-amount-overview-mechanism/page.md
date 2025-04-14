@@ -72,7 +72,7 @@ Sometimes, banks use special tools to talk to each other and to businesses. Thes
 
 ## How do reversal amounts impact accounting and financial reporting?
 
-When a transaction is reversed, it can change the numbers in a company's accounting books. If a customer gets their money back, the company has to take that amount out of their sales records. This means the company's total sales for that period will be lower. Reversals can also affect how much money the company shows it has made, because they reduce the income. Keeping track of reversals is important for making sure the financial reports are correct and show the true state of the company's finances.
+When a transaction is reversed, it can change the numbers in a company's accounting [books](/wiki/algo-trading-books). If a customer gets their money back, the company has to take that amount out of their sales records. This means the company's total sales for that period will be lower. Reversals can also affect how much money the company shows it has made, because they reduce the income. Keeping track of reversals is important for making sure the financial reports are correct and show the true state of the company's finances.
 
 Reversals can also impact the company's taxes. When a sale is reversed, the company might have to adjust the amount of taxes they have to pay. This is because the money they got from the sale is no longer theirs. The company needs to make sure they report these changes correctly to the tax authorities. By doing this, they can avoid any problems or fines. Keeping good records of all reversals helps the company stay on top of their financial reporting and meet all the legal requirements.
 

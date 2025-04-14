@@ -22,7 +22,7 @@ To calculate Macaulay duration, you need to look at each cash flow the bond will
 
 ## What is Modified duration and how does it differ from Macaulay duration?
 
-Modified duration is another way to measure how sensitive a bond's price is to changes in interest rates. It's closely related to Macaulay duration but is more directly useful for figuring out how much a bond's price might change if interest rates go up or down. To get the modified duration, you take the Macaulay duration and divide it by one plus the bond's yield to maturity (YTM) divided by the number of compounding periods per year. This adjustment makes the modified duration a more immediate measure of interest rate risk.
+Modified duration is another way to measure how sensitive a bond's price is to changes in interest rates. It's closely related to Macaulay duration but is more directly useful for figuring out how much a bond's price might change if interest rates go up or down. To get the modified duration, you take the Macaulay duration and divide it by one plus the bond's yield to maturity (YTM) divided by the number of compounding periods per year. This adjustment makes the modified duration a more immediate measure of [interest rate](/wiki/interest-rate-trading-strategies) risk.
 
 The main difference between Macaulay duration and modified duration is what they tell you. Macaulay duration tells you the average time it takes to get your money back from the bond's cash flows, like a weighted average of the time until each payment. Modified duration, on the other hand, tells you how much the bond's price will change for a small change in interest rates. It's a more practical tool for investors who want to know how much a bond's value might go up or down with changes in the interest rate environment.
 
@@ -98,7 +98,7 @@ Where:
 - $r$ is the yield to maturity of the bond,
 - $n$ is the total number of periods.
 
-By using the aforementioned formula, investors can obtain a quantitative measure that facilitates the evaluation of potential price volatility due to interest rate changes over the bond’s life. This calculation underpins more sophisticated financial strategies such as immunization, where firms match the duration of assets and liabilities to mitigate interest rate risk. Understanding Macaulay Duration thus allows investors and portfolio managers to strategically manage bond portfolios with a keen eye on future cash flow alignment and risk mitigation.
+By using the aforementioned formula, investors can obtain a quantitative measure that facilitates the evaluation of potential price [volatility](/wiki/volatility-trading-strategies) due to interest rate changes over the bond’s life. This calculation underpins more sophisticated financial strategies such as immunization, where firms match the duration of assets and liabilities to mitigate interest rate risk. Understanding Macaulay Duration thus allows investors and portfolio managers to strategically manage bond portfolios with a keen eye on future cash flow alignment and risk mitigation.
 
 ## What is Modified Duration and how does it relate to price sensitivity to interest rate changes?
 

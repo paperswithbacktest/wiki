@@ -34,7 +34,7 @@ By making borrowing cheaper, Operation Twist encourages more spending and invest
 
 ## How does Operation Twist affect interest rates?
 
-Operation Twist is a plan used by the Federal Reserve to change interest rates. They do this by selling short-term government bonds and using the money to buy long-term government bonds. When they buy long-term bonds, it makes the price of these bonds go up. When the price of a bond goes up, the interest rate on that bond goes down. So, Operation Twist helps to lower long-term interest rates.
+Operation Twist is a plan used by the Federal Reserve to change interest rates. They do this by selling short-term government bonds and using the money to buy long-term government bonds. When they buy long-term bonds, it makes the price of these bonds go up. When the price of a bond goes up, the [interest rate](/wiki/interest-rate-trading-strategies) on that bond goes down. So, Operation Twist helps to lower long-term interest rates.
 
 When long-term interest rates go down, it becomes cheaper for people and businesses to borrow money. This can make it easier for people to get loans for things like buying a house. Businesses might also borrow money to start new projects or grow their operations. By making borrowing cheaper, Operation Twist encourages more spending and investment, which can help the economy grow.
 

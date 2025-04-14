@@ -22,7 +22,7 @@ Using the right benchmark also helps investors make smart choices. If an investo
 
 ## How do you choose the right benchmark for your investments?
 
-Choosing the right benchmark for your investments means picking one that matches what you're investing in. If you're investing in U.S. stocks, a good benchmark might be the S&P 500 because it shows how well big U.S. companies are doing. But if you're investing in a mix of stocks and bonds, you wouldn't want to use the S&P 500. Instead, you might use a balanced index that includes both stocks and bonds. This way, you can see if your mix of investments is doing as well as similar mixes in the market.
+Choosing the right benchmark for your investments means [picking](/wiki/asset-class-picking) one that matches what you're investing in. If you're investing in U.S. stocks, a good benchmark might be the S&P 500 because it shows how well big U.S. companies are doing. But if you're investing in a mix of stocks and bonds, you wouldn't want to use the S&P 500. Instead, you might use a balanced index that includes both stocks and bonds. This way, you can see if your mix of investments is doing as well as similar mixes in the market.
 
 It's also important to think about your goals and how long you plan to invest. If you're saving for retirement and have a long time before you need the money, you might choose a benchmark that looks at long-term growth, like a total stock market index. But if you're saving for a shorter-term goal, like buying a house in a few years, you might pick a benchmark that focuses more on stability and less on growth, like a bond index. Picking the right benchmark helps you see if your investments are on track to meet your goals.
 

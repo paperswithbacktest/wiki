@@ -32,7 +32,7 @@ One common method for sensitivity analysis is the one-at-a-time (OAT) approach. 
 
 Another method is the Monte Carlo simulation. This method uses random numbers to change variables many times and see how the outcomes vary. Imagine you're planning a project and you want to know how delays might affect the timeline. The Monte Carlo simulation would run the project many times with different delay scenarios to show you the range of possible outcomes. This helps you see not just the average impact, but also the best and worst cases.
 
-A third method is the use of tornado diagrams. These diagrams show the impact of each variable on the outcome in a visual way. The variables are listed on the left side of the diagram, and the length of the bars shows how much each variable changes the outcome. This makes it easy to see which variables are most important. For example, if you're looking at a business plan, a tornado diagram could show you that sales volume has a bigger impact on profits than the cost of goods sold.
+A third method is the use of tornado diagrams. These diagrams show the impact of each variable on the outcome in a visual way. The variables are listed on the left side of the diagram, and the length of the bars shows how much each variable changes the outcome. This makes it easy to see which variables are most important. For example, if you're looking at a business plan, a tornado diagram could show you that sales [volume](/wiki/volume-trading-strategy) has a bigger impact on profits than the cost of goods sold.
 
 ## How does sensitivity analysis help in risk assessment?
 
@@ -78,13 +78,13 @@ In another way, sensitivity analysis helps you prepare for different situations 
 
 ## How can sensitivity analysis be adapted for use in machine learning model interpretability?
 
-Sensitivity analysis can help make machine learning models easier to understand by showing how changes in the data affect the model's predictions. Imagine you're using a model to predict if someone will buy a product based on their age, income, and past purchases. By doing sensitivity analysis, you can see which of these factors has the biggest impact on the model's decision. For example, if the analysis shows that income is the most important factor, you can focus on making sure the model's predictions about income are accurate. This helps you understand why the model makes certain predictions and makes it easier to trust the model's results.
+Sensitivity analysis can help make machine learning models easier to understand by showing how changes in the data affect the model's predictions. Imagine you're using a model to predict if someone will buy a product based on their age, income, and past purchases. By doing sensitivity analysis, you can see which of these factors has the biggest impact on the model's decision. For example, if the analysis shows that income is the most important [factor](/wiki/factor-investing), you can focus on making sure the model's predictions about income are accurate. This helps you understand why the model makes certain predictions and makes it easier to trust the model's results.
 
 In another way, sensitivity analysis can help you improve machine learning models by finding out where they might be making mistakes. If you find that the model is very sensitive to small changes in certain data, like if a small change in age can flip the model's prediction, you might need to adjust the model to make it more stable. By understanding how sensitive the model is to different parts of the data, you can make it more reliable and easier to explain to others. This makes your machine learning models stronger and helps you use them more confidently in real-world situations.
 
 ## What are the tools and techniques for sensitivity analysis?
 
-Sensitivity analysis in algorithmic trading employs several key techniques to evaluate and enhance trading strategies. Among these, Monte Carlo simulations, parameter optimization, noise testing, and out-of-sample testing are prominent.
+Sensitivity analysis in [algorithmic trading](/wiki/algorithmic-trading) employs several key techniques to evaluate and enhance trading strategies. Among these, Monte Carlo simulations, parameter optimization, noise testing, and out-of-sample testing are prominent.
 
 Monte Carlo simulations are used for assessing trading strategy outcomes by simulating a broad spectrum of potential market scenarios. The method involves generating a large number of random samples to analyze the probability distribution of returns over a specified period. By inputting various market conditions and random events, traders can evaluate how their strategies might perform under different circumstances. This approach provides insight into the potential risks and rewards, allowing for more informed decision-making. Mathematically, Monte Carlo simulations involve evaluating the expected returns $E(R)$ over $N$ scenarios:
 

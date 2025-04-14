@@ -70,7 +70,7 @@ Also, regulators might want to see how SOR systems are working to make sure they
 
 ## What are the latest trends in Smart Order Routing technology?
 
-The latest trends in Smart Order Routing technology focus a lot on using artificial intelligence and machine learning. These smart technologies help SOR systems get even better at finding the best prices. They can learn from past trades and make better decisions over time. This means traders can save more money and get faster trades. Also, these systems can now handle more data and make decisions quicker, which is really important in today's fast-moving markets.
+The latest trends in Smart Order Routing technology focus a lot on using [artificial intelligence](/wiki/ai-artificial-intelligence) and [machine learning](/wiki/machine-learning). These smart technologies help SOR systems get even better at finding the best prices. They can learn from past trades and make better decisions over time. This means traders can save more money and get faster trades. Also, these systems can now handle more data and make decisions quicker, which is really important in today's fast-moving markets.
 
 Another big trend is making SOR systems more flexible and customizable. Traders want systems that can be changed to fit their own needs. So, new SOR systems let traders set their own rules and priorities, like focusing on speed or cost. This helps traders get exactly what they need from their SOR system. Also, with more trading happening around the world, SOR systems are getting better at working across different countries and following different rules, making it easier for traders to trade anywhere.
 

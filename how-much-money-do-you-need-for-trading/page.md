@@ -24,7 +24,7 @@ Also, different platforms offer different tools and features that can affect how
 
 When you start trading, you need to know about the costs that come with it, like fees and commissions. These costs can eat into your profits, so it's important to understand them. Most trading platforms charge a commission every time you buy or sell something. This fee can be a flat amount, like $5 per trade, or it can be a percentage of the total amount you're trading. Some platforms offer commission-free trading for certain types of investments, like stocks or ETFs, but they might still charge fees for other services, like account maintenance or withdrawing money.
 
-There are also other fees you might have to pay. For example, some platforms charge an inactivity fee if you don't trade often enough. Others might charge a fee for transferring money in or out of your account. If you're trading things like futures or forex, you might have to pay extra fees, like overnight financing charges or data fees for real-time market information. All these costs can add up, so it's a good idea to read the fine print and understand all the fees before you start trading.
+There are also other fees you might have to pay. For example, some platforms charge an inactivity fee if you don't trade often enough. Others might charge a fee for transferring money in or out of your account. If you're trading things like futures or [forex](/wiki/forex-system), you might have to pay extra fees, like overnight financing charges or data fees for real-time market information. All these costs can add up, so it's a good idea to read the fine print and understand all the fees before you start trading.
 
 In the end, the total cost of trading depends on the platform you choose and what you're trading. Some platforms are cheaper than others, but they might not offer all the tools and features you need. It's important to find a balance between low costs and the right tools for your trading style. By understanding all the fees and commissions, you can make better decisions and keep more of your profits.
 
@@ -86,7 +86,7 @@ Another way advanced traders manage their capital is by using position sizing. T
 
 ## What is a Cost-Benefit Analysis?
 
-Performing a cost-benefit analysis (CBA) of algorithmic trading strategies is essential for traders seeking to quantify the financial viability of their operations. This assessment allows traders to systematically evaluate whether the potential returns justify the associated costs and identify opportunities for optimization.
+Performing a cost-benefit analysis (CBA) of [algorithmic trading](/wiki/algorithmic-trading) strategies is essential for traders seeking to quantify the financial viability of their operations. This assessment allows traders to systematically evaluate whether the potential returns justify the associated costs and identify opportunities for optimization.
 
 ### Key Metrics and KPIs
 

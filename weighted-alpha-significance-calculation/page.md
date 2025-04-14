@@ -42,7 +42,7 @@ Once you have the regular Alpha, you adjust it by the stock's beta to get the We
 
 ## How is the weighting factor determined in Weighted Alpha?
 
-The weighting factor in Weighted Alpha is determined by the stock's beta. Beta is a measure of how much a stock's price moves compared to the market. If a stock has a high beta, it means its price can change a lot, making it riskier. If a stock has a low beta, its price doesn't move as much, so it's less risky. The beta is used to adjust the regular Alpha to get the Weighted Alpha, making sure the stock's performance is looked at in the context of its risk.
+The weighting [factor](/wiki/factor-investing) in Weighted Alpha is determined by the stock's beta. Beta is a measure of how much a stock's price moves compared to the market. If a stock has a high beta, it means its price can change a lot, making it riskier. If a stock has a low beta, its price doesn't move as much, so it's less risky. The beta is used to adjust the regular Alpha to get the Weighted Alpha, making sure the stock's performance is looked at in the context of its risk.
 
 To find the weighting factor, you just use the stock's beta. For example, if a stock has a beta of 1.5, that means it's 50% more volatile than the market. When you calculate the Weighted Alpha, you multiply the regular Alpha by this beta. This way, you get a number that shows not just how well the stock did compared to the market, but also how much risk was involved in getting that performance.
 

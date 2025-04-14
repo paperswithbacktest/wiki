@@ -72,7 +72,7 @@ The market value of securities is important because it shows how much the fund's
 
 Investors can use NAV to compare different mutual funds by looking at how the NAV changes over time. If one fund's NAV is going up more than another fund's NAV, it might mean the first fund is doing better. But, it's not just about the number. Investors should also look at how much the NAV has grown over a long time, like a year or more. This helps them see which fund might give them more money in the future.
 
-But, comparing NAVs isn't just about picking the fund with the highest number. Sometimes, a fund with a lower NAV might be a better choice if it's growing faster than a fund with a higher NAV. Also, investors should think about other things like the fees the fund charges and what kinds of investments it makes. By looking at all these things together, investors can pick the best mutual fund for their money.
+But, comparing NAVs isn't just about [picking](/wiki/asset-class-picking) the fund with the highest number. Sometimes, a fund with a lower NAV might be a better choice if it's growing faster than a fund with a higher NAV. Also, investors should think about other things like the fees the fund charges and what kinds of investments it makes. By looking at all these things together, investors can pick the best mutual fund for their money.
 
 ## What advanced metrics or adjustments might be applied to NAV for expert analysis?
 

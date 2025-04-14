@@ -18,7 +18,7 @@ Transfer agents also handle tasks like issuing new shares, canceling old ones, a
 
 A transfer agent's main job is to keep track of who owns a company's stocks or bonds. When someone buys or sells these securities, the transfer agent updates the records to show the new owner. This is important because it makes sure that the ownership information is always correct and up to date. It helps prevent mistakes and fraud, so everyone knows who really owns the securities.
 
-Another key function of a transfer agent is to handle the paperwork for issuing new shares and canceling old ones. If someone loses their stock certificate or it gets stolen, the transfer agent helps replace it. They also deal with things like dividend payments, making sure that shareholders get their money when they should. By doing all these tasks, transfer agents make it easier for investors to manage their investments and help keep the stock market running smoothly.
+Another key function of a transfer agent is to handle the paperwork for issuing new shares and canceling old ones. If someone loses their stock certificate or it gets stolen, the transfer agent helps replace it. They also deal with things like dividend payments, making sure that shareholders get their money when they should. By doing all these tasks, transfer [agents](/wiki/agents) make it easier for investors to manage their investments and help keep the stock market running smoothly.
 
 ## How does a transfer agent differ from a registrar?
 

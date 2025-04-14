@@ -18,7 +18,7 @@ These bonds are popular because they are straightforward and can be a good way t
 
 A zero coupon bond is different from a regular bond in a few key ways. First, a regular bond pays interest to the investor at regular times, like every six months or every year. This interest is called a coupon. But, a zero coupon bond does not pay any interest during its life. Instead, you buy it for less than its face value and get the full face value when it matures. So, if you buy a zero coupon bond for $800 and its face value is $1,000, you earn $200 when it matures.
 
-Another difference is how they are affected by interest rates. Regular bonds can be more sensitive to changes in interest rates because their value can go up or down based on what the coupon payments are worth in the market. Zero coupon bonds, on the other hand, are less affected by interest rate changes because they don't pay coupons. However, you still need to think about taxes. With a regular bond, you pay taxes on the interest you receive each year. With a zero coupon bond, you have to pay taxes on the interest that is earned each year, even though you don't get the money until the bond matures.
+Another difference is how they are affected by interest rates. Regular bonds can be more sensitive to changes in interest rates because their value can go up or down based on what the coupon payments are worth in the market. Zero coupon bonds, on the other hand, are less affected by [interest rate](/wiki/interest-rate-trading-strategies) changes because they don't pay coupons. However, you still need to think about taxes. With a regular bond, you pay taxes on the interest you receive each year. With a zero coupon bond, you have to pay taxes on the interest that is earned each year, even though you don't get the money until the bond matures.
 
 ## What are the key features of zero coupon bonds?
 
@@ -82,7 +82,7 @@ One advanced strategy that involves zero coupon bonds is called "stripping." Thi
 
 Another strategy is using zero coupon bonds for "immunization." This is a way to make sure your investments match up with your future financial needs, like paying for retirement or a child's education. By buying zero coupon bonds that mature at the same time you need the money, you can protect yourself from changes in interest rates. This is because the bond's price stays the same until it matures, so you know exactly how much money you'll have. This strategy helps you plan better and avoid surprises from the market.
 
-Zero coupon bonds can also be used in "arbitrage" strategies. Arbitrage is when you buy something in one place and sell it in another to make a profit from the price difference. With zero coupon bonds, you might buy them when they are undervalued and sell them when their price goes up. This can be tricky because it involves understanding the bond market well and predicting how interest rates will change. But if you get it right, you can make money from the difference in prices.
+Zero coupon bonds can also be used in "[arbitrage](/wiki/arbitrage)" strategies. Arbitrage is when you buy something in one place and sell it in another to make a profit from the price difference. With zero coupon bonds, you might buy them when they are undervalued and sell them when their price goes up. This can be tricky because it involves understanding the bond market well and predicting how interest rates will change. But if you get it right, you can make money from the difference in prices.
 
 ## How do Bond Yields Influence Market Dynamics?
 
@@ -128,7 +128,7 @@ By optimizing these tax strategies, investors can significantly enhance their af
 
 ## How can one integrate Zero Coupon Bonds and Algo Trading?
 
-Integrating zero coupon bonds into a diversified investment portfolio can effectively balance risk and reward, particularly when complemented by algorithmic trading strategies. Zero coupon bonds, by their nature, do not pay periodic interest but offer a lump sum at maturity. This characteristic makes them relatively less volatile compared to other investments, providing predictable growth over the term of the bond. They act as a hedge against more volatile assets in a portfolio, offering a stability anchor that mitigates risk.
+Integrating zero coupon bonds into a diversified investment portfolio can effectively balance risk and reward, particularly when complemented by [algorithmic trading](/wiki/algorithmic-trading) strategies. Zero coupon bonds, by their nature, do not pay periodic interest but offer a lump sum at maturity. This characteristic makes them relatively less volatile compared to other investments, providing predictable growth over the term of the bond. They act as a hedge against more volatile assets in a portfolio, offering a stability anchor that mitigates risk.
 
 Algorithmic trading leverages computer algorithms to execute trades based on pre-defined criteria, facilitating high-speed transactions with minimal human intervention. This approach is beneficial in the bond markets as it enhances trading efficiency, reduces transaction costs, and improves decision-making accuracy. Zero coupon bonds fit well with algorithmic strategies due to their predictable cash flows and clear valuation points, specifically the zero-coupon yield to maturity (YTM), which can be calculated as:
 

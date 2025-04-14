@@ -120,7 +120,7 @@ In essence, while both the payback period and the break-even point are vital fin
 
 Case Studies and Real-world Applications
 
-The use of payback period and break-even analysis is crucial in practical financial decision-making, including algorithmic trading. When a trading firm invests in developing a new algorithmic trading system, it essentially allocates capital with the expectation of future returns. The payback period becomes essential here as it measures how quickly the firm can recover its initial investment in the new system. This is particularly important in a high-frequency trading environment, where returns are often measured in milliseconds, and rapid recovery of investment is a key performance metric.
+The use of payback period and break-even analysis is crucial in practical financial decision-making, including [algorithmic trading](/wiki/algorithmic-trading). When a trading firm invests in developing a new algorithmic trading system, it essentially allocates capital with the expectation of future returns. The payback period becomes essential here as it measures how quickly the firm can recover its initial investment in the new system. This is particularly important in a high-frequency trading environment, where returns are often measured in milliseconds, and rapid recovery of investment is a key performance metric.
 
 For instance, suppose a trading firm invests $1 million in a new trading algorithm expected to generate an average annual cash inflow of $400,000. The payback period can be calculated as follows:
 

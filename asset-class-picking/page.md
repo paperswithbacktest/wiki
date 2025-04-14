@@ -36,7 +36,7 @@ Real estate and commodities can be a bit trickier. Real estate can grow in value
 
 ## What factors should beginners consider when picking an asset class?
 
-When beginners are picking an asset class, they should first think about their goals. Are they saving for a big purchase soon, like a car or a house? If so, they might want to pick safer options like bonds or cash equivalents because they need the money soon and can't afford to lose it. If they are saving for something far away, like retirement, they might be okay with riskier options like stocks because they have time to wait for the ups and downs to even out.
+When beginners are [picking](/wiki/asset-class-picking) an asset class, they should first think about their goals. Are they saving for a big purchase soon, like a car or a house? If so, they might want to pick safer options like bonds or cash equivalents because they need the money soon and can't afford to lose it. If they are saving for something far away, like retirement, they might be okay with riskier options like stocks because they have time to wait for the ups and downs to even out.
 
 Another thing to consider is how much risk they can handle. Some people can stay calm when their investments go up and down a lot, while others get really worried. If you're the kind of person who gets nervous easily, you might want to stick with safer investments. Also, beginners should think about spreading their money across different asset classes. This is called diversification, and it can help protect your money if one type of investment does badly. By mixing stocks, bonds, and maybe even some real estate or commodities, you can balance out the risks and still have a chance to grow your money over time.
 
@@ -90,7 +90,7 @@ Diversification across asset classes is a fundamental principle in investment st
 
 For example, equities and bonds typically exhibit low correlation. During economic downturns, equities may perform poorly while bonds maintain or even increase in value. Similarly, commodities often have low correlation with stocks and bonds because their performance depends on different economic factors such as supply and demand dynamics rather than corporate earnings or interest rates.
 
-Building a portfolio with non-correlated asset classes is crucial. This non-correlation reduces the portfolio's overall volatility, leading to a smoother long-term return profile. If one asset class experiences a downturn, the performance of others may offset this, stabilizing the portfolio's value. This concept is mathematically supported by Modern Portfolio Theory, which shows that combining assets with less than perfect correlation can lead to a reduction in risk, according to the formula for portfolio variance:
+Building a portfolio with non-correlated asset classes is crucial. This non-correlation reduces the portfolio's overall [volatility](/wiki/volatility-trading-strategies), leading to a smoother long-term return profile. If one asset class experiences a downturn, the performance of others may offset this, stabilizing the portfolio's value. This concept is mathematically supported by Modern Portfolio Theory, which shows that combining assets with less than perfect correlation can lead to a reduction in risk, according to the formula for portfolio variance:
 
 $$
 \sigma^2_p = \sum_{i} w_i^2 \sigma_i^2 + \sum_{i} \sum_{j \neq i} w_i w_j \sigma_i \sigma_j \rho_{ij}
@@ -98,7 +98,7 @@ $$
 
 where $\sigma^2_p$ is the portfolio variance, $w_i$ and $w_j$ are the weights of asset $i$ and $j$, $\sigma_i$ and $\sigma_j$ are the standard deviations of the assets, and $\rho_{ij}$ is the correlation coefficient between assets $i$ and $j$.
 
-The practice of including non-correlated asset classes enables investors to achieve a more efficient frontier, balancing expected returns for a given level of risk. This is particularly relevant in algorithmic trading, where dynamically optimizing the asset mix based on evolving correlations can lead to better risk-adjusted returns. The goal is to enhance performance through strategic asset selection and weighting, leveraging differential correlations to hedge against market volatility while capturing growth potential in varying economic conditions.
+The practice of including non-correlated asset classes enables investors to achieve a more efficient frontier, balancing expected returns for a given level of risk. This is particularly relevant in [algorithmic trading](/wiki/algorithmic-trading), where dynamically optimizing the asset mix based on evolving correlations can lead to better risk-adjusted returns. The goal is to enhance performance through strategic asset selection and weighting, leveraging differential correlations to hedge against market volatility while capturing growth potential in varying economic conditions.
 
 ## References & Further Reading
 

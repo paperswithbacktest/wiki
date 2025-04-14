@@ -28,7 +28,7 @@ To make sure it stays on track, the fund is checked and adjusted regularly. If t
 
 ## What are the key benefits of investing in the Vanguard Mid Cap Index Fund?
 
-One of the main benefits of investing in the Vanguard Mid Cap Index Fund is that it gives you a simple way to own a piece of many mid-sized companies all at once. Instead of picking and buying stocks in each company yourself, you can invest in the fund and it will do the work for you. This can save you a lot of time and effort. Plus, by spreading your money across many companies, you're not putting all your eggs in one basket, which can help lower your risk.
+One of the main benefits of investing in the Vanguard Mid Cap Index Fund is that it gives you a simple way to own a piece of many mid-sized companies all at once. Instead of [picking](/wiki/asset-class-picking) and buying stocks in each company yourself, you can invest in the fund and it will do the work for you. This can save you a lot of time and effort. Plus, by spreading your money across many companies, you're not putting all your eggs in one basket, which can help lower your risk.
 
 Another big advantage is that the fund tries to match the performance of the CRSP US Mid Cap Index, which means you can get returns that are similar to the overall market for mid-sized companies. This can be a good way to grow your money over time. Also, Vanguard is known for keeping fees low, so more of your money stays invested and working for you, instead of going to pay for managing the fund. This can make a big difference in the long run, helping you keep more of your returns.
 
@@ -48,7 +48,7 @@ Looking at shorter periods, the fund's performance can be more bumpy. For exampl
 
 The expense ratio of the Vanguard Mid Cap Index Fund is very low, at about 0.04%. This means for every $10,000 you invest in the fund, you'll pay just $4 a year in fees. This low expense ratio is one of the reasons why the fund is popular with investors. It means more of your money stays invested and can grow over time, instead of going to pay for managing the fund.
 
-Compared to similar funds, the Vanguard Mid Cap Index Fund's expense ratio is much lower. Many other mid-cap index funds charge expense ratios that are 0.10% or higher. For example, the iShares Core S&P Mid-Cap ETF has an expense ratio of 0.07%, and the Schwab U.S. Mid-Cap ETF charges 0.04%. So, while the Vanguard fund's expense ratio is not the absolute lowest, it is still very competitive and helps keep more money in your pocket over time.
+Compared to similar funds, the Vanguard Mid Cap Index Fund's expense ratio is much lower. Many other mid-cap index funds charge expense ratios that are 0.10% or higher. For example, the iShares Core S&P Mid-Cap [ETF](/wiki/etf-trading-strategies) has an expense ratio of 0.07%, and the Schwab U.S. Mid-Cap ETF charges 0.04%. So, while the Vanguard fund's expense ratio is not the absolute lowest, it is still very competitive and helps keep more money in your pocket over time.
 
 ## How does the Vanguard Mid Cap Index Fund fit into a diversified investment portfolio?
 

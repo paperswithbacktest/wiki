@@ -78,11 +78,11 @@ These traders also use special math formulas to figure out how the VIX and SPY a
 
 To understand how the VIX and S&P 500 are connected in a more detailed way, professional traders use fancy math called advanced statistical methods. One popular method is called regression analysis. This is where traders use past data to see how changes in the VIX affect the S&P 500. They can figure out if a big jump in the VIX usually means the S&P 500 will go down and by how much. Another method is called time series analysis, which looks at how the VIX and S&P 500 change over time. This can help traders see if there are patterns in how the VIX moves before the S&P 500 does something big.
 
-Another useful method is called volatility modeling, which helps traders predict how much the S&P 500 might move based on the VIX. They use models like GARCH (Generalized Autoregressive Conditional Heteroskedasticity) to guess future volatility. This can be really helpful for deciding when to buy or sell SPY. Traders also use machine learning to find hidden patterns between the VIX and S&P 500 that might be hard to see with just regular math. By combining all these methods, traders can make more precise guesses about what the market might do next and make smarter trading choices.
+Another useful method is called [volatility](/wiki/volatility-trading-strategies) modeling, which helps traders predict how much the S&P 500 might move based on the VIX. They use models like GARCH (Generalized Autoregressive Conditional Heteroskedasticity) to guess future volatility. This can be really helpful for deciding when to buy or sell SPY. Traders also use [machine learning](/wiki/machine-learning) to find hidden patterns between the VIX and S&P 500 that might be hard to see with just regular math. By combining all these methods, traders can make more precise guesses about what the market might do next and make smarter trading choices.
 
 ## What are the results of backtesting VIX and SPY strategies?
 
-Backtesting is a crucial process in [algorithmic trading](/wiki/algorithmic-trading), enabling traders to evaluate the effectiveness of their strategies using historical data. When dealing with VIX and SPY, backtesting provides insights into how these instruments perform and interact under various market conditions.
+Backtesting is a crucial process in [algorithmic trading](/wiki/algorithmic-trading), enabling traders to evaluate the effectiveness of their strategies using historical data. When dealing with VIX and SPY, [backtesting](/wiki/backtesting) provides insights into how these instruments perform and interact under various market conditions.
 
 The primary step in backtesting involves the collection of historical data for both VIX and SPY. This data serves as the foundation for simulating trades and analyzing outcomes. Traders usually employ software that can handle large datasets and perform computations efficiently.
 
@@ -95,7 +95,7 @@ $$
 
 where $P_i$ is the price at time $i$, and $n$ is the number of periods.
 
-Standard deviation is another vital tool used to quantify the amount of variation or [dispersion](/wiki/dispersion-trading) in a set of prices. In the context of VIX and SPY, traders leverage standard deviation to understand the volatility of returns, guiding entry and exit points.
+Standard deviation is another vital tool used to quantify the amount of variation or [dispersion](/wiki/dispersion-trading) in a set of prices. In the context of VIX and SPY, traders leverage standard deviation to understand the volatility of returns, guiding entry and [exit](/wiki/exit-strategy) points.
 
 During the simulation, traders apply these tools to develop algorithms that can predict potential market movements and optimize trading signals. Each strategy is tested over an extensive period to ensure it accounts for various market cycles, enhancing its robustness.
 

@@ -86,7 +86,7 @@ Colgan, J. D. (2014). *Oil, Domestic Politics, and International Conflict*. Ener
 
 Adelman, M. A. (1982). *OPEC as a Cartel*. Energy Economics. Adelman's analysis explores the cartel-like behavior of OPEC, evaluating its strategies to control oil prices and production levels, and its implications for global markets.
 
-Lopez, H., & Arnaut, D. (2017). *The Effect of OPEC Announcements and Related News on World Oil Prices*. SSRN Electronic Journal. This paper investigates the immediate effects of OPEC's public statements on oil price volatility, using a data-driven approach to quantify market reactions.
+Lopez, H., & Arnaut, D. (2017). *The Effect of OPEC Announcements and Related News on World Oil Prices*. SSRN Electronic Journal. This paper investigates the immediate effects of OPEC's public statements on oil price [volatility](/wiki/volatility-trading-strategies), using a data-driven approach to quantify market reactions.
 
 Pichler, P., & Selvan, S. (2019). *Impact of OPEC's Competitive Strategic Behavior on Oil Market Prices and Market Conditions*. Journal of Energy & Natural Resources Law. The authors assess how competitive strategies within OPEC influence oil price stability and market conditions, providing insights into the ripple effects of OPEC's policy decisions.
 

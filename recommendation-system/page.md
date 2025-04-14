@@ -75,9 +75,9 @@ Here, $$U$$ and $$V$$ are matrices representing users and items, $$r_{ui}$$ is t
 
 ## How can deep learning be applied to improve recommendation systems?
 
-Deep learning can help make recommendation systems better by using neural networks to find patterns in the data. These networks can learn from a lot of information, like what users have liked or done in the past, and even the details of the items themselves. By using deep learning, the system can understand complex relationships between users and items that other methods might miss. For example, a deep learning model can look at a user's history of watching movies and see not just the genres they like, but also the times of day they watch, or the mood of the movies they choose. This can lead to more personalized and accurate recommendations.
+Deep learning can help make recommendation systems better by using neural networks to find patterns in the data. These networks can learn from a lot of information, like what users have liked or done in the past, and even the details of the items themselves. By using [deep learning](/wiki/deep-learning), the system can understand complex relationships between users and items that other methods might miss. For example, a deep learning model can look at a user's history of watching movies and see not just the genres they like, but also the times of day they watch, or the mood of the movies they choose. This can lead to more personalized and accurate recommendations.
 
-One way deep learning is used in recommendation systems is through a technique called neural collaborative filtering. This method combines the strengths of traditional collaborative filtering with the power of neural networks. The neural network can learn to predict how much a user will like an item by looking at the user's past behavior and the item's features. The formula for this can be represented as:
+One way deep learning is used in recommendation systems is through a technique called neural collaborative filtering. This method combines the strengths of traditional collaborative filtering with the power of neural networks. The [neural network](/wiki/neural-network) can learn to predict how much a user will like an item by looking at the user's past behavior and the item's features. The formula for this can be represented as:
 
 $$
 \hat{y}_{ui} = f(U_u, V_i; \theta)

@@ -40,7 +40,7 @@ Once you have your years and cash flows organized, you can use the NPV function.
 
 ## What is the discount rate and how do you determine it for NPV in Excel?
 
-The discount rate is the rate of return you expect from an investment. It's like the interest rate you use to figure out how much money today is worth compared to money in the future. When you calculate NPV, the discount rate helps you adjust future cash flows to their present value. You can think of it as the cost of money over time, which means it reflects how much you would need to earn on your investment to make it worthwhile.
+The discount rate is the rate of return you expect from an investment. It's like the [interest rate](/wiki/interest-rate-trading-strategies) you use to figure out how much money today is worth compared to money in the future. When you calculate NPV, the discount rate helps you adjust future cash flows to their present value. You can think of it as the cost of money over time, which means it reflects how much you would need to earn on your investment to make it worthwhile.
 
 To determine the discount rate for NPV in Excel, you need to consider a few things. Often, people use the company's cost of capital, which is the rate the company pays to borrow money or the return it expects from its investors. You can also look at the rates of return for similar investments to get an idea. Once you decide on a rate, enter it into a cell in your Excel sheet. Then, use this rate in the NPV formula to calculate how much your future cash flows are worth today.
 
@@ -82,7 +82,7 @@ Another useful tool in Excel for NPV analysis is data tables. Data tables let yo
 
 ## What is NPV and how can it be understood?
 
-Net Present Value (NPV) is a financial metric that quantifies the value of an investment by considering the time value of money. It does this by summing the present values of individual cash flows, both inflows, and outflows, associated with a project or investment. The time value of money concept, fundamental to NPV calculations, states that money available today is worth more than the same amount in the future due to its potential earning capacity.
+Net Present Value (NPV) is a financial metric that quantifies the value of an investment by considering the time value of money. It does this by summing the present values of individual cash flows, both inflows, and outflows, associated with a project or investment. The time value of money concept, fundamental to NPV calculations, states that money available today is worth more than the same amount in the future due to its potential [earning](/wiki/earning-announcement) capacity.
 
 To calculate NPV, it is necessary to discount future cash flows back to their present value using a specified discount rate, which reflects the opportunity cost of capital or the rate of return that could have been earned on an investment with equivalent risk. The formula for NPV is as follows:
 

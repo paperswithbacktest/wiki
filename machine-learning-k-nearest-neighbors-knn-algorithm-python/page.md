@@ -18,7 +18,7 @@ KNN works by measuring the distance between the new item and all the other items
 
 The K-Nearest Neighbors (KNN) algorithm works by looking at how similar a new item is to other items you already know about. Imagine you have a new fruit and you want to know if it's an apple or an orange. You compare this new fruit to all the fruits you've seen before. You measure how close each fruit is to the new one using something like a straight line distance or another way to see how similar they are. The 'K' in KNN is a number you pick, and it tells you how many of the closest fruits you should look at.
 
-Once you find the K closest fruits, you check what kind of fruits they are. If most of these closest fruits are apples, then you guess that the new fruit is probably an apple too. If most are oranges, you guess it's an orange. It's like taking a vote among the closest neighbors. The KNN algorithm is simple to use, but it can be slow if you have a lot of fruits to compare, and picking the right number for K can be a bit tricky.
+Once you find the K closest fruits, you check what kind of fruits they are. If most of these closest fruits are apples, then you guess that the new fruit is probably an apple too. If most are oranges, you guess it's an orange. It's like taking a vote among the closest neighbors. The KNN algorithm is simple to use, but it can be slow if you have a lot of fruits to compare, and [picking](/wiki/asset-class-picking) the right number for K can be a bit tricky.
 
 ## What are the key components of the KNN algorithm?
 
@@ -84,7 +84,7 @@ Another way to see how good your KNN model is, is by looking at different number
 
 ## What is the K-Nearest Neighbors Algorithm and how does it work?
 
-The K-Nearest Neighbors (KNN) algorithm is a fundamental and versatile machine learning technique used for classification and regression tasks. This algorithm operates on the principle of identifying the 'k' nearest data points (neighbors) surrounding a target observation to make informed predictions or classifications.
+The K-Nearest Neighbors (KNN) algorithm is a fundamental and versatile [machine learning](/wiki/machine-learning) technique used for classification and regression tasks. This algorithm operates on the principle of identifying the 'k' nearest data points (neighbors) surrounding a target observation to make informed predictions or classifications.
 
 KNN leverages distance metrics to quantify the similarity between data points, with common choices being Euclidean, Manhattan, and Minkowski distances. The Euclidean distance is defined as:
 

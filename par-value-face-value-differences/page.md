@@ -18,7 +18,7 @@ In the context of bonds, par value is important because it determines the amount
 
 Face value is the amount of money written on a financial document, like a bond or a bill. It's the value that the issuer promises to pay back when the document reaches its due date. For example, if you have a bond with a face value of $1,000, you will get $1,000 back when the bond matures.
 
-In the case of bonds, face value is important because it helps figure out the interest payments. If a bond has a face value of $1,000 and an interest rate of 5% per year, you will receive $50 every year until the bond matures. Face value is also used for other things like coins and stamps, where it shows the amount of money they are worth.
+In the case of bonds, face value is important because it helps figure out the interest payments. If a bond has a face value of $1,000 and an [interest rate](/wiki/interest-rate-trading-strategies) of 5% per year, you will receive $50 every year until the bond matures. Face value is also used for other things like coins and stamps, where it shows the amount of money they are worth.
 
 ## How are par value and face value related to bonds?
 

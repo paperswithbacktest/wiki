@@ -70,7 +70,7 @@ For variable costs, the main challenge is that they depend on how much you produ
 
 ## How do changes in production volume affect fixed and variable costs?
 
-Changes in production volume don't affect fixed costs. Fixed costs are things like rent and salaries that stay the same no matter how many products you make. If you make more products or fewer products, your fixed costs don't change. For example, if you pay $1,000 a month for rent, you will still pay $1,000 whether you make 100 products or 1,000 products. This means that even if you stop making products for a while, you still have to pay your fixed costs.
+Changes in production [volume](/wiki/volume-trading-strategy) don't affect fixed costs. Fixed costs are things like rent and salaries that stay the same no matter how many products you make. If you make more products or fewer products, your fixed costs don't change. For example, if you pay $1,000 a month for rent, you will still pay $1,000 whether you make 100 products or 1,000 products. This means that even if you stop making products for a while, you still have to pay your fixed costs.
 
 Variable costs, on the other hand, change when production volume changes. If you make more products, your variable costs go up because you need more materials and maybe more labor. For example, if you make furniture and you need wood, the more furniture you make, the more wood you need, and that costs more money. If you make fewer products, your variable costs go down because you use less material and less labor. So, if you stop making products, your variable costs will be zero because you're not using any materials or labor.
 
@@ -96,7 +96,7 @@ This analysis helps businesses set prices that cover costs and contribute to pro
 
 ## What are Variable Costs in Algorithmic Trading?
 
-Variable costs in algorithmic trading are expenses that fluctuate in direct correlation with trading activity levels. These costs can be significant and unpredictable, impacting the overall profitability of trading strategies. Some primary components of variable costs include transaction fees, brokerage commissions, and regulatory charges.
+Variable costs in [algorithmic trading](/wiki/algorithmic-trading) are expenses that fluctuate in direct correlation with trading activity levels. These costs can be significant and unpredictable, impacting the overall profitability of trading strategies. Some primary components of variable costs include transaction fees, brokerage commissions, and regulatory charges.
 
 Transaction fees are incurred every time a trade is executed. These fees vary depending on the volume and frequency of trades, as well as the specific financial instruments being traded. For instance, trading stocks might incur different transaction fees compared to futures or options. The formula for a simple calculation of transaction costs can be represented as:
 

@@ -158,7 +158,7 @@ Understanding capitalization allows organizations to accurately represent their 
 
 ## How can one integrate financial terms such as accrued interest and algo trading?
 
-Accrued interest and algorithmic trading, though seemingly distinct facets of finance, intersect powerfully in the automated trading of fixed income securities. Fixed income trading refers primarily to the buying and selling of bonds and other debt instruments. Central to these transactions is the concept of accrued interest, which represents the interest accumulated on a bond since its last coupon payment. This value significantly affects the pricing and valuation of bonds.
+Accrued interest and [algorithmic trading](/wiki/algorithmic-trading), though seemingly distinct facets of finance, intersect powerfully in the automated trading of fixed income securities. Fixed income trading refers primarily to the buying and selling of bonds and other debt instruments. Central to these transactions is the concept of accrued interest, which represents the interest accumulated on a bond since its last coupon payment. This value significantly affects the pricing and valuation of bonds.
 
 Algorithmic trading, or algo trading, uses pre-programmed software instructions to execute trades. In the fixed income market, it's crucial for these algorithms to account for accrued interest when pricing and trading bonds. Algorithms leverage this data to calculate the clean price (excluding accrued interest) and the dirty price (including accrued interest), essential in bond pricing and yield calculations. 
 

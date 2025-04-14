@@ -36,7 +36,7 @@ Next, the products are moved to warehouses where they are stored until they are 
 
 The FMCG industry keeps growing because more and more people are living in cities and have more money to spend. When people move to cities, they often buy more packaged foods and personal care products because they are easier to get and use. Also, as people's incomes go up, they can afford to buy more of these products. This means companies can sell more and make more money. Another big reason for growth is that companies are always coming up with new products. They make things like new flavors of snacks or new kinds of shampoo to keep people interested and buying more.
 
-Another important factor is that companies spend a lot on advertising to make sure people know about their products. Good ads can make people want to try new things or switch from one brand to another. Also, the internet and social media have made it easier for companies to reach people and sell their products. People can now buy FMCG products online, which makes shopping easier and can lead to more sales. All these things together help the FMCG industry grow and stay strong.
+Another important [factor](/wiki/factor-investing) is that companies spend a lot on advertising to make sure people know about their products. Good ads can make people want to try new things or switch from one brand to another. Also, the internet and social media have made it easier for companies to reach people and sell their products. People can now buy FMCG products online, which makes shopping easier and can lead to more sales. All these things together help the FMCG industry grow and stay strong.
 
 ## How does consumer behavior impact the FMCG industry?
 
@@ -84,7 +84,7 @@ Another important trend is sustainability. More and more, people want products t
 
 Fast-Moving Consumer Goods (FMCGs) are essential products that are sold quickly and at a relatively low cost. These include items such as non-durable household goods, packaged foods, beverages, toiletries, over-the-counter drugs, and other consumables. The defining characteristics of FMCGs are frequent purchase, low engagement, short shelf life, and low price. These goods are designed for mass consumption and are characterized by high inventory turnover and low profit margins per unit.
 
-The profitability of FMCGs is largely derived from their high volume of sales rather than significant mark-up per item. The business model of FMCGs relies on economies of scale which reduces the per-unit cost of production as the scale of operations increases. The high inventory turnover in the FMCG sector ensures that goods are sold rapidly before their expiry date, which enhances cash flow and reduces storage costs. The calculation of inventory turnover can be represented by the formula:
+The profitability of FMCGs is largely derived from their high [volume](/wiki/volume-trading-strategy) of sales rather than significant mark-up per item. The business model of FMCGs relies on economies of scale which reduces the per-unit cost of production as the scale of operations increases. The high inventory turnover in the FMCG sector ensures that goods are sold rapidly before their expiry date, which enhances cash flow and reduces storage costs. The calculation of inventory turnover can be represented by the formula:
 
 $$
 

@@ -80,7 +80,7 @@ VaR is also helpful when managers are talking to their clients about risk. If a 
 
 One way to make VaR models better is by using something called stress testing. Stress testing looks at what might happen if the market goes through really bad times, like a big financial crisis. By doing this, you can see how your investments might do in the worst situations, which VaR alone might not show you. Another advanced technique is to use more complex math models, like those that don't assume returns are normally distributed. These models can handle the ups and downs of the market better and give a more accurate picture of risk.
 
-You can also improve VaR by using more data and better technology. For example, machine learning can help by finding patterns in big sets of data that normal methods might miss. This can make your VaR predictions more accurate. Another way is to use real-time data to update your VaR calculations more often. This keeps your risk measures current with what's happening in the market, making them more useful for making quick decisions.
+You can also improve VaR by using more data and better technology. For example, [machine learning](/wiki/machine-learning) can help by finding patterns in big sets of data that normal methods might miss. This can make your VaR predictions more accurate. Another way is to use real-time data to update your VaR calculations more often. This keeps your risk measures current with what's happening in the market, making them more useful for making quick decisions.
 
 ## What is Understanding Value at Risk (VaR)?
 

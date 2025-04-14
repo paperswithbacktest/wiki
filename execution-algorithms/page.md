@@ -36,7 +36,7 @@ For example, if someone wants to buy 10,000 shares of a stock, the algorithm mig
 
 ## What is the difference between a VWAP and a TWAP algorithm?
 
-A VWAP (Volume-Weighted Average Price) algorithm and a TWAP (Time-Weighted Average Price) algorithm are both used to spread out trades over time, but they do it in different ways. A VWAP algorithm looks at how many shares of a stock are being traded and tries to buy or sell more when there is a lot of trading happening. This means it follows the volume of the stock. The idea is to blend in with the market's activity and get a price that is close to what most people are paying or getting for the stock.
+A VWAP (Volume-Weighted Average Price) algorithm and a TWAP (Time-Weighted Average Price) algorithm are both used to spread out trades over time, but they do it in different ways. A VWAP algorithm looks at how many shares of a stock are being traded and tries to buy or sell more when there is a lot of trading happening. This means it follows the [volume](/wiki/volume-trading-strategy) of the stock. The idea is to blend in with the market's activity and get a price that is close to what most people are paying or getting for the stock.
 
 On the other hand, a TWAP algorithm spreads out trades evenly over a set period of time. It doesn't care about how much trading is happening at any moment. Instead, it just divides the total number of shares to be traded by the total time available and makes trades at regular intervals. This can be simpler but might not be as good at hiding the trades in busy market times. Both types of algorithms aim to minimize the impact on the market, but they use different strategies to do it.
 

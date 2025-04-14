@@ -54,7 +54,7 @@ Compared to other OTC markets like OTCQB and Pink Sheets, OTCQX offers a more st
 
 When a company gets listed on OTCQX, it can become more visible to investors. OTCQX is known for having high standards, so being listed there shows that the company is doing well and is trustworthy. This can attract more investors who feel safe putting their money into the company. Also, OTCQX helps companies from other countries reach more investors in the U.S., which can help the company grow and get more attention.
 
-Being on OTCQX can also help with liquidity, which means how easily the company's stock can be bought and sold. Because OTCQX is a more reputable market, more investors might want to trade the company's stock. This can make it easier for people to buy and sell the stock, which is good for the company. More trading can help the company's stock price stay stable and give the company more money to use for its business.
+Being on OTCQX can also help with [liquidity](/wiki/liquidity-risk-premium), which means how easily the company's stock can be bought and sold. Because OTCQX is a more reputable market, more investors might want to trade the company's stock. This can make it easier for people to buy and sell the stock, which is good for the company. More trading can help the company's stock price stay stable and give the company more money to use for its business.
 
 ## What are the common challenges faced by companies listed on OTCQX?
 
@@ -78,11 +78,11 @@ OTCQX makes cross-border trading easier by setting high standards for the compan
 
 Recently, OTCQX has seen a growing interest from international companies looking to expand their investor base in the U.S. Many companies from countries like Canada, Australia, and Europe have been listing on OTCQX because it offers them a way to reach American investors without the strict rules of bigger U.S. exchanges. This trend shows that more and more companies see the value in being on a market that is known for its high standards and good reputation.
 
-Another development is the increasing focus on environmental, social, and governance (ESG) factors among investors. Companies listed on OTCQX are starting to report more about their ESG efforts because investors are looking for companies that care about these things. This can help companies on OTCQX attract more investors who want to put their money into businesses that are trying to make a positive impact on the world.
+Another development is the increasing focus on environmental, social, and governance ([ESG](/wiki/esg-investing)) factors among investors. Companies listed on OTCQX are starting to report more about their ESG efforts because investors are looking for companies that care about these things. This can help companies on OTCQX attract more investors who want to put their money into businesses that are trying to make a positive impact on the world.
 
 ## What is the strategic approach to OTCQX and algorithmic trading?
 
-The OTCQX market represents an advantageous setting for algorithmic trading due to its stringent regulatory standards and commitment to transparency. These attributes create an environment where algorithmic traders can operate with a degree of predictability and reliability not often found in less regulated spaces. Employing algorithmic trading techniques in this market allows investors to efficiently identify and exploit price discrepancies, offering a tactical advantage in trading operations.
+The OTCQX market represents an advantageous setting for [algorithmic trading](/wiki/algorithmic-trading) due to its stringent regulatory standards and commitment to transparency. These attributes create an environment where algorithmic traders can operate with a degree of predictability and reliability not often found in less regulated spaces. Employing algorithmic trading techniques in this market allows investors to efficiently identify and exploit price discrepancies, offering a tactical advantage in trading operations.
 
 Algorithmic trading, or algo trading, involves the use of automated, complex mathematical models to make trading decisions at speeds and frequencies impractical for human traders. In the OTCQX market, this form of trading can be particularly effective due to the presence of high-quality information and consistent reporting standards. By utilizing algorithms designed to parse this data, investors can achieve enhanced market responsiveness, aligning their strategies with real-time market dynamics.
 
@@ -94,7 +94,7 @@ $$
 
 where $P_{\text{sell}}$ and $P_{\text{buy}}$ represent the selling and buying prices of the securities, respectively.
 
-Furthermore, the adaptability of algorithmic trading allows investors to manage risks more effectively, especially pertinent in OTC environments where market volatility can be significant. Algorithms tailored to the nuances of OTCQX can incorporate risk management techniques such as stop-loss strategies and position size calculations, enhancing the investor's ability to protect their capital.
+Furthermore, the adaptability of algorithmic trading allows investors to manage risks more effectively, especially pertinent in OTC environments where market [volatility](/wiki/volatility-trading-strategies) can be significant. Algorithms tailored to the nuances of OTCQX can incorporate risk management techniques such as stop-loss strategies and position size calculations, enhancing the investor's ability to protect their capital.
 
 Successful integration of algorithmic trading in OTCQX necessitates both a comprehensive understanding of financial markets and robust technological infrastructure. Investors seeking to leverage these strategies must invest in advanced analytics and computing power, alongside a continual adaptation of their models to reflect the ever-evolving market conditions.
 

@@ -172,7 +172,7 @@ where $Q$ is the quantity of output, $L$ is labor input, and $K$ is capital inpu
 
 With technological advancements, Industry 4.0 and [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) significantly influence production analysis, improving accuracy and enriching insights. Industry 4.0 introduces smart factories with interconnected machines that offer real-time data, leading to more precise production monitoring and forecasting. AI algorithms facilitate predictive maintenance and quality control, reducing downtime and increasing efficiency.
 
-Machine learning and data visualization are revolutionizing industrial production analysis by enhancing the analytical process. Machine learning algorithms can identify patterns and trends in historical production data, providing predictive insights and optimizing production schedules. Python, for example, is widely used for data analysis and machine learning tasks due to its strong libraries like pandas, scikit-learn, and TensorFlow. A simple example using Python to predict production output could involve:
+Machine learning and data visualization are revolutionizing industrial production analysis by enhancing the analytical process. Machine learning algorithms can identify patterns and trends in historical production data, providing predictive insights and optimizing production schedules. Python, for example, is widely used for data analysis and [machine learning](/wiki/machine-learning) tasks due to its strong libraries like pandas, scikit-learn, and TensorFlow. A simple example using Python to predict production output could involve:
 
 ```python
 import pandas as pd

@@ -54,7 +54,7 @@ It's also important to not put all your money into just one or two stocks. Sprea
 
 One famous example of a tenbagger stock is Apple. Back in the late 1990s and early 2000s, Apple was just starting to grow big. They came out with the iPod, iPhone, and iPad, which people loved. If you bought Apple stock back then and held onto it, your money would have grown a lot. By 2010, Apple's stock was worth more than ten times what it was in the early 2000s. This made a lot of people who invested in Apple very happy.
 
-Another example is Amazon. In the late 1990s, Amazon was just a small online bookstore. But they kept growing and adding new things to sell. By the early 2000s, they were selling all sorts of things, not just books. If you bought Amazon stock back then and held onto it, your money would have grown a lot too. By 2010, Amazon's stock was worth more than ten times what it was in the late 1990s. This shows how a company can start small and become a tenbagger if it keeps growing and doing well.
+Another example is Amazon. In the late 1990s, Amazon was just a small online bookstore. But they kept growing and adding new things to sell. By the early 2000s, they were selling all sorts of things, not just [books](/wiki/algo-trading-books). If you bought Amazon stock back then and held onto it, your money would have grown a lot too. By 2010, Amazon's stock was worth more than ten times what it was in the late 1990s. This shows how a company can start small and become a tenbagger if it keeps growing and doing well.
 
 ## What role does market timing play in investing in tenbagger stocks?
 
@@ -66,7 +66,7 @@ Even though market timing is important, it's also really hard to get right. Nobo
 
 Macroeconomic factors can really affect whether a company becomes a tenbagger stock. Things like the overall economy, interest rates, and how much people are spending can make a big difference. If the economy is doing well, people have more money to spend, and businesses can grow faster. This can help a company's stock price go up a lot. On the other hand, if the economy is not doing well, it can be harder for companies to grow, and their stock prices might not go up as much.
 
-Interest rates are another big factor. When interest rates are low, it's cheaper for companies to borrow money to grow their business. This can help them become tenbaggers. But if interest rates go up, it can be harder for companies to borrow money, and they might not grow as fast. Also, how people feel about the economy can affect stock prices. If people are hopeful and think the economy will do well, they might buy more stocks, pushing prices up. But if they're worried, they might sell their stocks, which can make prices go down.
+Interest rates are another big [factor](/wiki/factor-investing). When interest rates are low, it's cheaper for companies to borrow money to grow their business. This can help them become tenbaggers. But if interest rates go up, it can be harder for companies to borrow money, and they might not grow as fast. Also, how people feel about the economy can affect stock prices. If people are hopeful and think the economy will do well, they might buy more stocks, pushing prices up. But if they're worried, they might sell their stocks, which can make prices go down.
 
 ## What advanced metrics or financial ratios should be used to evaluate potential tenbagger stocks?
 

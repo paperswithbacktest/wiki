@@ -84,7 +84,7 @@ Another risk is that different brokers have different rules. Some brokers might 
 
 A margin account enables investors to borrow funds from their broker to purchase additional securities, thereby magnifying potential investment returns. This mechanism allows investors to leverage their existing portfolio by augmenting their buying power, enhancing the ability to capitalize on investment opportunities. The potential benefits of margin accounts are significant, allowing investors to exercise increased market activity without the immediate requirement of additional capital outlay.
 
-However, the utilization of margin accounts introduces a greater level of risk. The primary risk factor is that losses can also be amplified in proportion to the borrowed amount. This dual nature of potential gains and losses necessitates a comprehensive understanding of the terms and conditions set by brokers and adherence to regulatory requirements.
+However, the utilization of margin accounts introduces a greater level of risk. The primary risk [factor](/wiki/factor-investing) is that losses can also be amplified in proportion to the borrowed amount. This dual nature of potential gains and losses necessitates a comprehensive understanding of the terms and conditions set by brokers and adherence to regulatory requirements.
 
 Typically, margin accounts permit investors to borrow up to 50% of the purchase price of securities that are considered marginable. These limits are governed by both brokerage firm stipulations and market regulations such as those enforced by the Financial Industry Regulatory Authority (FINRA) in the United States, which mandates minimum margin requirements to protect both investors and brokers.
 

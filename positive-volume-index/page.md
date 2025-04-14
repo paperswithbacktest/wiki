@@ -18,7 +18,7 @@ PVI is often used alongside the Negative Volume Index (NVI), which focuses on da
 
 The Positive Volume Index, or PVI, was created by Paul L. Donchian and Norman Fosback. They wanted to find a way to see how stock prices move when more people are trading. They thought that on days with a lot of trading, big investors, or "smart money," might be making moves that could affect the stock price. So, they made PVI to track what happens to the stock price on these busy trading days.
 
-PVI works by looking at the stock price only on days when the trading volume goes up. If the stock price also goes up on these days, PVI increases. If the stock price goes down when the volume is high, PVI decreases. This helps investors see if the stock is getting stronger or weaker when a lot of trading is happening. By using PVI, investors can try to spot trends and make better choices about when to buy or sell stocks.
+PVI works by looking at the stock price only on days when the trading [volume](/wiki/volume-trading-strategy) goes up. If the stock price also goes up on these days, PVI increases. If the stock price goes down when the volume is high, PVI decreases. This helps investors see if the stock is getting stronger or weaker when a lot of trading is happening. By using PVI, investors can try to spot trends and make better choices about when to buy or sell stocks.
 
 ## What is the basic formula for calculating the PVI?
 
@@ -76,7 +76,7 @@ In different market conditions, the PVI can be more or less helpful. It works re
 
 ## What are some advanced techniques for optimizing the use of PVI in algorithmic trading?
 
-In algorithmic trading, one advanced way to use the Positive Volume Index (PVI) is to combine it with other indicators to make better trading decisions. For example, you can use PVI with moving averages to spot trends. If the PVI is going up and the moving average is also going up, it might be a good time to buy the stock. You can also use the Relative Strength Index (RSI) with PVI. If the PVI is going up but the RSI shows the stock is overbought, it might be a sign to wait before buying because the price could go down soon. By using these tools together, you can make your trading algorithm smarter and more accurate.
+In [algorithmic trading](/wiki/algorithmic-trading), one advanced way to use the Positive Volume Index (PVI) is to combine it with other indicators to make better trading decisions. For example, you can use PVI with moving averages to spot trends. If the PVI is going up and the moving average is also going up, it might be a good time to buy the stock. You can also use the Relative Strength Index (RSI) with PVI. If the PVI is going up but the RSI shows the stock is overbought, it might be a sign to wait before buying because the price could go down soon. By using these tools together, you can make your trading algorithm smarter and more accurate.
 
 Another technique is to use PVI in different market conditions. In a bull market, where the stock market is going up, PVI can be very useful. If the PVI is rising during these times, it might be a strong signal to buy the stock. But in a bear market, where the market is going down, PVI might not be as helpful. In these conditions, you might want to pay more attention to the Negative Volume Index (NVI) instead. You can program your algorithm to switch between PVI and NVI based on the market's direction. This way, your trading strategy can adapt to different market conditions and make better decisions.
 

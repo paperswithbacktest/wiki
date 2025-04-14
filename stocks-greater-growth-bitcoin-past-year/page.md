@@ -42,7 +42,7 @@ Another stock that outperformed Bitcoin is Apple, a company known for its iPhone
 
 The stocks that did better than Bitcoin in the past year come from different industries. Tesla is in the car industry, but it's special because it makes electric cars. This means it's also part of the green energy industry. Tesla's stock grew a lot because more people want electric cars and because the company is doing well in other areas like batteries and solar power.
 
-NVIDIA is in the technology industry, making computer chips that are used in many things, like video games and artificial intelligence. Their stock did really well because there's a big demand for their chips, especially for things like gaming and data centers. Apple is also in the technology industry, known for making iPhones, iPads, and other gadgets. Apple's stock grew because people keep buying their products and because the company is doing well in other areas like services and wearables.
+NVIDIA is in the technology industry, making computer chips that are used in many things, like video games and [artificial intelligence](/wiki/ai-artificial-intelligence). Their stock did really well because there's a big demand for their chips, especially for things like gaming and data centers. Apple is also in the technology industry, known for making iPhones, iPads, and other gadgets. Apple's stock grew because people keep buying their products and because the company is doing well in other areas like services and wearables.
 
 ## What are the key factors that contributed to the growth of these stocks?
 

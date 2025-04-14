@@ -18,7 +18,7 @@ This type of swap can be useful for certain financial strategies. For example, i
 
 An arrears swap and a standard interest rate swap are similar because they both involve exchanging interest payments between two parties. But they work a bit differently. In a standard interest rate swap, the interest rate is set at the beginning of each period. For example, if you have a swap that pays every three months, the rate for those three months is known at the start. This makes it easier to plan because you know what you'll be paying or receiving.
 
-In an arrears swap, things are different. Here, the interest rate is only set at the end of the payment period. So, if you're looking at the same three-month period, you won't know the rate until the end of those three months. This can make arrears swaps riskier because the payments can be harder to predict. People might choose an arrears swap if they think interest rates will go up, hoping to pay less interest than they would with a standard swap.
+In an arrears swap, things are different. Here, the [interest rate](/wiki/interest-rate-trading-strategies) is only set at the end of the payment period. So, if you're looking at the same three-month period, you won't know the rate until the end of those three months. This can make arrears swaps riskier because the payments can be harder to predict. People might choose an arrears swap if they think interest rates will go up, hoping to pay less interest than they would with a standard swap.
 
 ## What are the key components of an arrears swap?
 
@@ -108,7 +108,7 @@ Additionally, gain insights from industry publications like "Interest Rate Swaps
 
 For those interested in the mathematical modeling of derivatives, "Options, Futures, and Other Derivatives" by John Hull is a crucial text. Hull's work is often praised for its rigorous analytical approach, covering key concepts with detailed mathematical explanations and models, suitable for both academic study and professional application.
 
-Readers can also consider engaging with academic journals and articles that discuss the latest developments and research in financial derivatives and algorithmic trading. Journals such as the "Journal of Derivatives" or the "Journal of Financial Economics" often publish research articles and case studies that provide further insights into the evolving nature of these financial instruments and their applications in trading strategies.
+Readers can also consider engaging with academic journals and articles that discuss the latest developments and research in financial derivatives and [algorithmic trading](/wiki/algorithmic-trading). Journals such as the "Journal of Derivatives" or the "Journal of Financial Economics" often publish research articles and case studies that provide further insights into the evolving nature of these financial instruments and their applications in trading strategies.
 
 Lastly, for professionals actively engaging in algorithmic trading and interested in the integration of financial derivatives, online resources and courses on platforms like Coursera, edX, and Khan Academy offer up-to-date content on quantitative finance, algorithmic strategies, and the role of derivatives in modern financial markets. These resources often include lectures, interactive tools, and community discussions that can enhance one's understanding and practical skills in these areas.
 

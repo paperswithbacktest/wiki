@@ -52,7 +52,7 @@ To compute the mean deviation, you first find the typical price for each day by 
 
 ## How does the constant factor of 0.015 affect the CCI calculation?
 
-The constant factor of 0.015 in the Commodity Channel Index (CCI) calculation helps to scale the results so that they fit within a certain range. This number is used to make sure the CCI values are easy to understand and compare. When you multiply the mean deviation by 0.015, it makes the CCI values smaller and more manageable. This scaling helps traders see if the market is overbought or oversold more clearly because the CCI values are usually between -100 and +100.
+The constant [factor](/wiki/factor-investing) of 0.015 in the Commodity Channel Index (CCI) calculation helps to scale the results so that they fit within a certain range. This number is used to make sure the CCI values are easy to understand and compare. When you multiply the mean deviation by 0.015, it makes the CCI values smaller and more manageable. This scaling helps traders see if the market is overbought or oversold more clearly because the CCI values are usually between -100 and +100.
 
 Without the constant factor of 0.015, the CCI values would be much larger and harder to interpret. The constant helps to keep the CCI values in a range that traders can easily use to make decisions. For example, if the CCI goes above +100, it suggests the market might be overbought, and if it goes below -100, it suggests the market might be oversold. The constant factor of 0.015 makes these key levels more meaningful and useful for traders.
 
@@ -82,7 +82,7 @@ Another useful combination is the CCI with moving averages. Moving averages help
 
 ## What is the Commodity Channel Index (CCI)?
 
-The Commodity Channel Index (CCI) is a technical analysis tool developed by Donald Lambert in the early 1980s. It is widely recognized as a momentum-based oscillator that gauges a security's current price level relative to an average over a specified period. Lambert introduced the CCI to measure the cyclical behavior of different commodities, but its utility has since expanded to other asset classes, including stocks and forex.
+The Commodity Channel Index (CCI) is a technical analysis tool developed by Donald Lambert in the early 1980s. It is widely recognized as a [momentum](/wiki/momentum)-based oscillator that gauges a security's current price level relative to an average over a specified period. Lambert introduced the CCI to measure the cyclical behavior of different commodities, but its utility has since expanded to other asset classes, including stocks and [forex](/wiki/forex-system).
 
 The primary purpose of the CCI is to help traders identify cyclical price trends, which may occur due to market behavior that repeats over time. Lambert observed that commodities and other assets move in cycles, exhibiting periods where prices rise and fall in a consistent pattern. By evaluating these price movements against their average levels, the CCI provides traders with insights into the cyclical dynamics at play.
 

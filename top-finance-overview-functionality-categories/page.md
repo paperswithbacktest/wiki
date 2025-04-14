@@ -64,7 +64,7 @@ By linking with other financial tools, Top Finance helps you keep track of every
 
 ## What are the security measures implemented in Top Finance to protect user data?
 
-Top Finance takes your safety very seriously. They use strong security measures to keep your money information safe. When you add your bank accounts and credit cards, the app uses encryption to protect your data. This means your information is turned into a secret code that only Top Finance can understand. They also use two-factor authentication, which means you need to enter a special code sent to your phone to log in. This makes it much harder for anyone else to get into your account.
+Top Finance takes your safety very seriously. They use strong security measures to keep your money information safe. When you add your bank accounts and credit cards, the app uses encryption to protect your data. This means your information is turned into a secret code that only Top Finance can understand. They also use two-[factor](/wiki/factor-investing) authentication, which means you need to enter a special code sent to your phone to log in. This makes it much harder for anyone else to get into your account.
 
 Another way Top Finance keeps your data safe is by following strict rules about how they handle your information. They only collect the information they need to help you manage your money, and they don't share it with anyone else without your permission. The app is also regularly checked by security experts to make sure everything is safe. By using these methods, Top Finance makes sure your money information stays private and secure.
 

@@ -46,7 +46,7 @@ Options and futures, on the other hand, are more like bets on what the price of 
 
 ## What are the risks associated with currency swaps?
 
-Currency swaps can be helpful, but they also come with some risks. One big risk is that the other person in the swap might not be able to pay you back at the end. If they run into money problems, you could lose the money you swapped with them. Another risk is that interest rates might change a lot during the swap. If you agreed to pay a fixed interest rate but the market rates go down, you might end up paying more than you would have if you didn't do the swap.
+Currency swaps can be helpful, but they also come with some risks. One big risk is that the other person in the swap might not be able to pay you back at the end. If they run into money problems, you could lose the money you swapped with them. Another risk is that interest rates might change a lot during the swap. If you agreed to pay a fixed [interest rate](/wiki/interest-rate-trading-strategies) but the market rates go down, you might end up paying more than you would have if you didn't do the swap.
 
 Another risk is that even though a currency swap helps you lock in an exchange rate, the exchange rate might move in a way that would have been better for you if you didn't do the swap. For example, if the value of the currency you swapped goes up a lot, you won't benefit from that increase because you agreed to swap it back at the old rate. Also, currency swaps can be complicated to set up and manage, so there's a risk of making mistakes that could cost you money.
 
@@ -82,7 +82,7 @@ Another smart move is to use currency swaps to manage risk in big projects that 
 
 ## What are the risks and challenges in financial derivatives?
 
-Trading financial derivatives, especially currency swaps, involves a set of inherent risks that market participants need to navigate meticulously. Currency swaps, which are contracts in which two parties exchange principal and interest payments in different currencies, present specific challenges influenced by market volatility, leverage, regulatory concerns, and the complexities of algorithmic trading.
+Trading financial derivatives, especially currency swaps, involves a set of inherent risks that market participants need to navigate meticulously. Currency swaps, which are contracts in which two parties exchange principal and interest payments in different currencies, present specific challenges influenced by market [volatility](/wiki/volatility-trading-strategies), leverage, regulatory concerns, and the complexities of [algorithmic trading](/wiki/algorithmic-trading).
 
 Market volatility is a significant [factor](/wiki/factor-investing) affecting the value of derivative positions. In currency swaps, fluctuations in exchange rates can lead to substantial gains or losses, depending on whether the movement favors the position held. High volatility periods can amplify these movements, potentially exposing traders and institutions to increased risk. Leverage, commonly used in derivative trading to enhance returns, can further magnify these effects. The formula for leveraged returns can be expressed as:
 

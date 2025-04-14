@@ -24,7 +24,7 @@ Next, in cell A6, type "Compound Interest" and in cell B6, use the formula to ca
 
 To calculate compound interest in Excel, you use a specific formula. The formula is `=B1 * (1 + B2/B3)^(B3*B4) - B1`. Here, B1 is the principal amount, B2 is the annual interest rate as a decimal, B3 is the number of times the interest is compounded per year, and B4 is the number of years. When you put this formula into a cell, Excel will do the math and show you the compound interest you'll earn.
 
-This formula works by figuring out how much your money grows with each compounding period. It starts with your initial amount and adds the interest for each period, then uses that new amount to calculate the next period's interest. Over time, this makes your money grow faster because you're earning interest on both the money you started with and the interest you've already earned.
+This formula works by figuring out how much your money grows with each compounding period. It starts with your initial amount and adds the interest for each period, then uses that new amount to calculate the next period's interest. Over time, this makes your money grow faster because you're [earning](/wiki/earning-announcement) interest on both the money you started with and the interest you've already earned.
 
 ## How can you use Excel to calculate compound interest over different time periods?
 
@@ -139,7 +139,7 @@ Understanding how to compute and manipulate compound interest calculations in Ex
 
 ## How can Excel be integrated with algorithmic trading?
 
-Excel can play a pivotal role for individuals entering the field of algorithmic trading, providing an accessible platform for developing and testing trading strategies. As a user-friendly tool, Excel offers various functionalities that are integral to the analysis and execution of trades, supplemented by its compatibility with complex trading software and platforms.
+Excel can play a pivotal role for individuals entering the field of [algorithmic trading](/wiki/algorithmic-trading), providing an accessible platform for developing and testing trading strategies. As a user-friendly tool, Excel offers various functionalities that are integral to the analysis and execution of trades, supplemented by its compatibility with complex trading software and platforms.
 
 Excel allows traders to perform extensive data analysis, providing the means to import historical price data, clean it, and manipulate it for further analysis. Using Excel's Data Analysis Toolpak, traders can delve into statistical analysis, enabling them to identify trends and patterns that guide trading decisions. For instance, the use of formulas and features like PivotTables can facilitate the aggregation and examination of data, revealing insights that are essential for crafting effective trading algorithms.
 

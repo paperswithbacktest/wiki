@@ -147,9 +147,9 @@ $$
 
 investors can assess the yield on short-term investments, aligning it with broader interest rate movements to optimize their portfolios.
 
-Interest rates broadly affect borrowing costs and returns on savings, influencing both personal finance and institutional investment strategies. As central banks adjust interest rates, the impact cascades through the economy, altering the cost of capital and consequently the valuation of securities. Understanding this dynamic is critical for traders, especially when employing algorithmic trading strategies.
+Interest rates broadly affect borrowing costs and returns on savings, influencing both personal finance and institutional investment strategies. As central banks adjust interest rates, the impact cascades through the economy, altering the cost of capital and consequently the valuation of securities. Understanding this dynamic is critical for traders, especially when employing [algorithmic trading](/wiki/algorithmic-trading) strategies.
 
-Algorithmic trading, enabled by advances in big data and machine learning, allows for precise and rapid market actions based on real-time data inputs. Incorporating financial concepts into these algorithms can enhance their efficiency and accuracy. For example, a machine learning model might predict interest rate changes based on macroeconomic indicators, enabling traders to preemptively adjust their portfolios. A simple Python code snippet to simulate such a prediction could look like this:
+Algorithmic trading, enabled by advances in big data and [machine learning](/wiki/machine-learning), allows for precise and rapid market actions based on real-time data inputs. Incorporating financial concepts into these algorithms can enhance their efficiency and accuracy. For example, a machine learning model might predict interest rate changes based on macroeconomic indicators, enabling traders to preemptively adjust their portfolios. A simple Python code snippet to simulate such a prediction could look like this:
 
 ```python
 import pandas as pd

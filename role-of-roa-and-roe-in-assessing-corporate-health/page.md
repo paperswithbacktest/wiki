@@ -126,7 +126,7 @@ Comparing the two ratios can reveal essential insights: for instance, a high ROE
 
 ## What are the insights from case studies on ROE, ROA, and Algo Trading in action?
 
-Several leading firms have successfully integrated Return on Equity (ROE) and Return on Assets (ROA) evaluations into their algorithmic trading models, enhancing their ability to respond effectively to market fluctuations and maintaining competitiveness. These real-world implementations showcase how financial ratios can be leveraged within trading algorithms.
+Several leading firms have successfully integrated Return on Equity (ROE) and Return on Assets (ROA) evaluations into their [algorithmic trading](/wiki/algorithmic-trading) models, enhancing their ability to respond effectively to market fluctuations and maintaining competitiveness. These real-world implementations showcase how financial ratios can be leveraged within trading algorithms.
 
 One example is Company X, an asset management firm that uses algorithmic trading to manage large investment portfolios. Company X's algorithms integrate ROE data by identifying stocks with ROE values significantly above industry averages, indicating superior management efficiency in using shareholders' equity. This approach enables the firm to prioritize high-ROE stocks in their trading strategies, anticipating higher potential returns. For example, if a company's ROE exceeds 20%, which is notably higher than the industry average of 15%, the algorithm prioritizes this stock in the firm's buy list.
 

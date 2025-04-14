@@ -22,7 +22,7 @@ Using Wei makes it easier to handle tiny amounts of Ethereum. Imagine you want t
 
 ## Why is Wei important in cryptocurrency transactions?
 
-Wei is important in cryptocurrency transactions because it's the smallest unit of Ethereum. This means you can break down one Ethereum into tiny pieces, which is helpful when you need to send or receive very small amounts. Imagine you want to pay a tiny fee for using a service on the Ethereum network. Using Wei lets you measure out that small amount accurately, without losing any value.
+Wei is important in [cryptocurrency](/wiki/cryptocurrency) transactions because it's the smallest unit of Ethereum. This means you can break down one Ethereum into tiny pieces, which is helpful when you need to send or receive very small amounts. Imagine you want to pay a tiny fee for using a service on the Ethereum network. Using Wei lets you measure out that small amount accurately, without losing any value.
 
 Having Wei also makes transactions on the Ethereum network more precise and efficient. When you're dealing with small amounts, using Wei helps avoid rounding errors that could happen if you were using larger units. It's like using a very small measuring spoon when you need to measure out just a tiny bit of something. This precision is crucial for the smooth operation of the Ethereum network.
 

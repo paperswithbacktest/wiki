@@ -21,7 +21,7 @@ It's really important that raters do a good job because if they make mistakes, t
 
 ## How does the role of a rater differ from that of a data annotator?
 
-In machine learning, a rater and a data annotator both help by labeling data, but their roles can be a bit different. A rater usually focuses on evaluating data to see how well a model is doing. They might look at the results the model gives and say if they are right or wrong. This helps to check and improve the model's performance. For example, if a model is trying to tell if a picture is of a cat or a dog, a rater would look at the model's guesses and say if they are correct.
+In [machine learning](/wiki/machine-learning), a rater and a data annotator both help by labeling data, but their roles can be a bit different. A rater usually focuses on evaluating data to see how well a model is doing. They might look at the results the model gives and say if they are right or wrong. This helps to check and improve the model's performance. For example, if a model is trying to tell if a picture is of a cat or a dog, a rater would look at the model's guesses and say if they are correct.
 
 A data annotator, on the other hand, is more about adding labels to the data before it's used to train the model. They might go through a bunch of pictures and label each one as a cat or a dog. This labeled data is then used to teach the model what to look for. So, while raters help to test and refine the model, data annotators help to prepare the data that the model will learn from. Both roles are important, but they happen at different stages of building a machine learning model.
 

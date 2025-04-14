@@ -22,7 +22,7 @@ Because unsecured notes are riskier for lenders, they usually come with higher i
 
 ## What are the main components of an unsecured note?
 
-An unsecured note has a few main parts that are important to understand. The first part is the principal amount, which is the total amount of money being borrowed. This is the amount that needs to be paid back to the lender. Another key part is the interest rate, which is the cost of borrowing the money. Since unsecured notes are riskier for lenders, they often have higher interest rates than secured notes.
+An unsecured note has a few main parts that are important to understand. The first part is the principal amount, which is the total amount of money being borrowed. This is the amount that needs to be paid back to the lender. Another key part is the [interest rate](/wiki/interest-rate-trading-strategies), which is the cost of borrowing the money. Since unsecured notes are riskier for lenders, they often have higher interest rates than secured notes.
 
 The second paragraph focuses on the terms of repayment. This includes how long the borrower has to pay back the money, which is called the term or maturity of the note. It also includes how often payments need to be made, like monthly or yearly. Lastly, there's usually a section about what happens if the borrower can't pay back the money. This is called the default clause, and it explains the consequences, like the lender being able to take legal action to get their money back.
 
@@ -76,7 +76,7 @@ Once the notes are issued, market conditions keep affecting how they perform. If
 
 ## What advanced strategies can investors use to mitigate risks associated with unsecured notes?
 
-Investors can use a few smart strategies to make unsecured notes less risky. One way is to spread their money around, which is called diversification. Instead of putting all their money into one unsecured note, they can invest in a bunch of different ones. This way, if one company can't pay back their note, it won't hurt the investor too much because they have other notes that might still be doing well. Another strategy is to look at the credit ratings of the notes carefully. By choosing notes with higher ratings, investors can pick ones that are more likely to be paid back on time. It's like picking the safer bets in a game.
+Investors can use a few smart strategies to make unsecured notes less risky. One way is to spread their money around, which is called diversification. Instead of putting all their money into one unsecured note, they can invest in a bunch of different ones. This way, if one company can't pay back their note, it won't hurt the investor too much because they have other notes that might still be doing well. Another strategy is to look at the credit ratings of the notes carefully. By choosing notes with higher ratings, investors can pick ones that are more likely to be paid back on time. It's like [picking](/wiki/asset-class-picking) the safer bets in a game.
 
 Another good strategy is to keep an eye on market conditions and adjust their investments accordingly. If the economy starts to look shaky, investors might want to sell some of their riskier unsecured notes and move their money into safer investments. They can also use something called a bond ladder, where they buy notes that come due at different times. This way, they can get their money back at different points and use it to buy new notes or do something else with it. By being smart and flexible, investors can handle the ups and downs of unsecured notes better and protect their money.
 
@@ -84,7 +84,7 @@ Another good strategy is to keep an eye on market conditions and adjust their in
 
 Financial instruments comprise a broad spectrum of assets that are traded in financial markets. These instruments are categorized into various forms, with debt securities and equity instruments being the primary classifications. Debt securities are essentially financial obligations that require the issuer to pay back a specified sum of money over a designated period. These obligations are used by entities to raise capital for various purposes.
 
-Unsecured notes are a specific type of debt security. Unlike secured notes, which are backed by collateral, unsecured notes lack any asset backing. This absence of collateral escalates the risk associated with these instruments, as there is no asset to claim in case of default by the issuer. Consequently, unsecured notes typically carry higher interest rates to compensate investors for the increased risk they undertake. The formula that can represent the yield offered by unsecured notes is typically higher than that of secured notes:
+Unsecured notes are a specific type of debt security. Unlike secured notes, which are backed by collateral, unsecured notes lack any asset backing. This absence of collateral escalates the risk associated with these instruments, as there is no asset to claim in case of default by the issuer. Consequently, unsecured notes typically [carry](/wiki/carry-trading) higher interest rates to compensate investors for the increased risk they undertake. The formula that can represent the yield offered by unsecured notes is typically higher than that of secured notes:
 
 $$
 \text{Yield}_{\text{unsecured}} > \text{Yield}_{\text{secured}}

@@ -36,7 +36,7 @@ Another type is the Dual Range Accrual Option. This one has two ranges instead o
 
 The accrual period in Range Accrual Options is the time during which the option earns value. It's like a calendar that counts the days when the asset's price stays within the set range. This period can last for a few months or even a year, depending on how the option is set up. Each day within this period is checked to see if the asset's price is inside the range. If it is, the option earns a little bit of value for that day.
 
-At the end of the accrual period, all the days when the asset was inside the range are added up. The total number of these days decides how much money you get from the option. So, the accrual period is really important because it's the time when the option is working and earning value based on the asset's stability.
+At the end of the accrual period, all the days when the asset was inside the range are added up. The total number of these days decides how much money you get from the option. So, the accrual period is really important because it's the time when the option is working and [earning](/wiki/earning-announcement) value based on the asset's stability.
 
 ## What is the formula used to calculate the payoff of a Range Accrual Option?
 
@@ -66,7 +66,7 @@ Some traders also use Range Accrual Options to hedge other investments. If you h
 
 ## How can one hedge a portfolio using Range Accrual Options?
 
-One way to hedge a portfolio using Range Accrual Options is to use them as a safety net against market volatility. If you have investments that could lose value if the market moves a lot, you can buy a Range Accrual Option based on the same or a related asset. If the market stays calm and the asset's price stays within the range most of the time, the Range Accrual Option will earn you money. This can help offset any losses from your other investments that happen because the market didn't move much.
+One way to hedge a portfolio using Range Accrual Options is to use them as a safety net against market [volatility](/wiki/volatility-trading-strategies). If you have investments that could lose value if the market moves a lot, you can buy a Range Accrual Option based on the same or a related asset. If the market stays calm and the asset's price stays within the range most of the time, the Range Accrual Option will earn you money. This can help offset any losses from your other investments that happen because the market didn't move much.
 
 For example, imagine you own stocks that do well when the market goes up but lose value if the market stays the same. You could buy a Range Accrual Option that pays you if the stock's price stays in a certain range. If the stock's price doesn't move much and stays in the range, you earn money from the option. This money can help make up for the fact that your stocks didn't go up in value. So, using Range Accrual Options like this can help protect your portfolio from the risk of the market not moving enough.
 

@@ -42,7 +42,7 @@ On the other hand, if you hold trades for a longer time, you might see bigger pr
 
 One common mistake when looking at the average holding period in backtesting is not considering how often you trade. If your strategy makes a lot of trades in a short time, you might think the holding period is short. But if you only make a few trades that last a long time, the average can be misleading. It's important to look at both how long you hold each trade and how many trades you make.
 
-Another pitfall is not thinking about the costs that come with different holding periods. If you hold trades for a short time, you'll pay more in fees because you're buying and selling more often. These costs can make your profits smaller than you expect. Also, if you hold trades for a longer time, you need to be okay with waiting and seeing the value of your investment go up and down before it grows. Not considering these costs and your own patience can lead to picking the wrong strategy.
+Another pitfall is not thinking about the costs that come with different holding periods. If you hold trades for a short time, you'll pay more in fees because you're buying and selling more often. These costs can make your profits smaller than you expect. Also, if you hold trades for a longer time, you need to be okay with waiting and seeing the value of your investment go up and down before it grows. Not considering these costs and your own patience can lead to [picking](/wiki/asset-class-picking) the wrong strategy.
 
 ## How can the average holding period be optimized in a trading strategy?
 

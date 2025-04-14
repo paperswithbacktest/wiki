@@ -80,7 +80,7 @@ Another risk is called liquidity risk. Sometimes, it can be hard to buy or sell 
 
 Algorithmic trading strategies can change the GBP/USD exchange rate a lot. These strategies use computers to buy and sell pounds and dollars based on certain rules. If a lot of these computers start buying pounds because their rules say the pound will get stronger, it can make the pound stronger against the dollar. On the other hand, if a lot of them start selling pounds because their rules say the pound will get weaker, it can make the pound weaker. These quick computer trades can make the exchange rate move up and down very fast.
 
-But algorithmic trading can also make the GBP/USD rate more stable. Some algorithms are made to keep the rate from moving too much. They do this by buying or selling pounds and dollars to balance out big changes. This can help keep the rate steady, which is good for people who don't like a lot of ups and downs. So, while algorithmic trading can make the rate move a lot, it can also help keep things calm if that's what the algorithms are trying to do.
+But [algorithmic trading](/wiki/algorithmic-trading) can also make the GBP/USD rate more stable. Some algorithms are made to keep the rate from moving too much. They do this by buying or selling pounds and dollars to balance out big changes. This can help keep the rate steady, which is good for people who don't like a lot of ups and downs. So, while algorithmic trading can make the rate move a lot, it can also help keep things calm if that's what the algorithms are trying to do.
 
 ## What is the understanding of the GBP/USD currency pair?
 

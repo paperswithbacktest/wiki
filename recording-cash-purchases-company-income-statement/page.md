@@ -72,7 +72,7 @@ Also, mistakes in recording cash purchases can affect how much profit the compan
 
 ## What internal controls should be in place to ensure accurate recording of cash purchases?
 
-To make sure cash purchases are recorded correctly, a company should have good internal controls. One important control is having different people handle different parts of the process. For example, one person should buy the items, another person should record the purchase in the books, and a third person should check that everything was done right. This way, if one person makes a mistake or tries to do something wrong, the other people can catch it.
+To make sure cash purchases are recorded correctly, a company should have good internal controls. One important control is having different people handle different parts of the process. For example, one person should buy the items, another person should record the purchase in the [books](/wiki/algo-trading-books), and a third person should check that everything was done right. This way, if one person makes a mistake or tries to do something wrong, the other people can catch it.
 
 Another key control is keeping good records and checking them often. The company should have a system where all cash purchases are written down right away, and these records should be compared to the actual cash on hand regularly. This helps make sure that what's written down matches what really happened. Also, the company should use software that helps track and record purchases easily and accurately, and train their employees on how to use it correctly. By doing these things, the company can make sure their financial reports are correct and trustworthy.
 

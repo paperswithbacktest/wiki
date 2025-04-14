@@ -22,7 +22,7 @@ Then there are municipal money market funds, which invest in short-term debt fro
 
 ## How do money market funds work?
 
-Money market funds work by pooling money from many investors and using it to buy safe, short-term investments like government bonds, certificates of deposit, and other secure financial products. The goal is to keep the money safe while earning a small amount of interest. When you put money into a money market fund, you're buying shares in the fund, and the value of those shares usually stays around $1 per share. This makes it easy to know how much your investment is worth.
+Money market funds work by pooling money from many investors and using it to buy safe, short-term investments like government bonds, certificates of deposit, and other secure financial products. The goal is to keep the money safe while [earning](/wiki/earning-announcement) a small amount of interest. When you put money into a money market fund, you're buying shares in the fund, and the value of those shares usually stays around $1 per share. This makes it easy to know how much your investment is worth.
 
 The interest you earn from the investments the fund makes is shared among all the shareholders. This interest is usually paid out monthly and can either be taken out as cash or reinvested to buy more shares in the fund. Money market funds are popular because they are low risk and easy to get your money out of if you need it quickly. They're a good choice if you want to keep your money safe but still earn a bit more than you would in a regular savings account.
 
@@ -84,9 +84,9 @@ Another strategy is to use a technique called "laddering." This means spreading 
 
 ## What are the risks of algorithmic trading with money market funds?
 
-Algorithmic trading, particularly high-frequency trading (HFT), can introduce several systemic risks when applied to money market funds. One prominent concern is the amplification of market volatility. Algorithms can execute trades at incredibly fast speeds, reacting instantaneously to market events. In scenarios where multiple algorithms react concurrently to the same market indicators, their collective actions can inadvertently exacerbate market fluctuations. This rapid execution, though beneficial for exploiting brief market inefficiencies, can lead to unintended consequences like flash crashes, where asset prices plummet rapidly before rebounding.
+Algorithmic trading, particularly high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), can introduce several systemic risks when applied to money market funds. One prominent concern is the amplification of market [volatility](/wiki/volatility-trading-strategies). Algorithms can execute trades at incredibly fast speeds, reacting instantaneously to market events. In scenarios where multiple algorithms react concurrently to the same market indicators, their collective actions can inadvertently exacerbate market fluctuations. This rapid execution, though beneficial for exploiting brief market inefficiencies, can lead to unintended consequences like flash crashes, where asset prices plummet rapidly before rebounding.
 
-Errant algorithms pose another significant risk. These are algorithms that behave unexpectedly due to flawed design, coding errors, or unforeseen market conditions. When an algorithm operates outside its intended parameters, it can initiate a cascade of trading actions that lead to substantial financial losses. For instance, a glitch in an algorithm may wrongly interpret noise as a trading signal, prompting a high volume of erroneous transactions. This risk necessitates rigorous testing and fail-safes in coding, as even minor errors can have severe financial repercussions.
+Errant algorithms pose another significant risk. These are algorithms that behave unexpectedly due to flawed design, coding errors, or unforeseen market conditions. When an algorithm operates outside its intended parameters, it can initiate a cascade of trading actions that lead to substantial financial losses. For instance, a glitch in an algorithm may wrongly interpret noise as a trading signal, prompting a high [volume](/wiki/volume-trading-strategy) of erroneous transactions. This risk necessitates rigorous testing and fail-safes in coding, as even minor errors can have severe financial repercussions.
 
 High-frequency trading also impacts money market funds by shifting the dynamics of market participation. HFT firms can potentially outpace traditional trading methods by capitalizing on tiny price discrepancies. This speed advantage can crowd out slower traders and may lead to an overemphasis on short-term gains rather than long-term financial strategies. The presence of HFT participants in markets associated with money market funds might pressure fund managers to adapt or risk being disadvantaged, which could alter the traditional, stable methodologies of these funds.
 
@@ -98,7 +98,7 @@ $$
 
 where $f(V)$ is a function representing the price impact based on volume and $\epsilon$ captures external noise. If $f(V)$ is steep, indicating that even small changes in volume cause large price shifts, the algorithm's trades could significantly increase volatility.
 
-Understanding these risks and implementing appropriate checks, such as circuit breakers and extensive pre-market testing, are crucial for mitigating potential adverse effects associated with algorithmic trading in money market funds.
+Understanding these risks and implementing appropriate checks, such as circuit breakers and extensive pre-market testing, are crucial for mitigating potential adverse effects associated with [algorithmic trading](/wiki/algorithmic-trading) in money market funds.
 
 ## References & Further Reading
 

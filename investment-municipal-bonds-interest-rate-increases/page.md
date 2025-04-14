@@ -56,7 +56,7 @@ However, if you already own a municipal bond, rising interest rates can make you
 
 ## What strategies can investors use to manage interest rate risk in municipal bonds?
 
-One way investors can manage interest rate risk in municipal bonds is by choosing bonds with shorter maturities. Shorter-term bonds are less affected by interest rate changes because they will mature sooner, and you'll get your money back faster. This means you can reinvest that money at the new, higher interest rates if they go up. So, if you think interest rates might rise, picking bonds that mature in a few years instead of decades can help protect your investment.
+One way investors can manage interest rate risk in municipal bonds is by choosing bonds with shorter maturities. Shorter-term bonds are less affected by interest rate changes because they will mature sooner, and you'll get your money back faster. This means you can reinvest that money at the new, higher interest rates if they go up. So, if you think interest rates might rise, [picking](/wiki/asset-class-picking) bonds that mature in a few years instead of decades can help protect your investment.
 
 Another strategy is to build a bond ladder. This means buying several bonds that mature at different times. For example, you might buy bonds that mature in one year, three years, and five years. As each bond matures, you can reinvest the money in new bonds at the current interest rates. This way, you're not putting all your money into bonds at one time, which can help you manage the risk of interest rates going up. Plus, you get a steady stream of income as the bonds mature at different times.
 
@@ -70,7 +70,7 @@ On the other hand, if a bond has a shorter duration, it is less sensitive to int
 
 Municipal bonds can be a good part of a diversified investment portfolio because they offer a steady income and are usually safe. When you invest in different kinds of assets, like stocks, bonds, and real estate, you spread out your risk. If one type of investment goes down, the others might go up or stay the same, balancing out your overall returns. Municipal bonds help with this because they pay interest regularly, which can give you a reliable source of income. Plus, since they are backed by local governments, they are often seen as less risky than other investments like stocks.
 
-Another reason to include municipal bonds in your portfolio is the tax benefits they offer. The interest you earn from municipal bonds is often free from federal taxes, and sometimes from state and local taxes too. This can make them especially attractive if you're in a high tax bracket. By having municipal bonds in your portfolio, you can reduce your tax bill while still earning a steady income. This combination of income, safety, and tax advantages makes municipal bonds a valuable part of a well-rounded investment strategy.
+Another reason to include municipal bonds in your portfolio is the tax benefits they offer. The interest you earn from municipal bonds is often free from federal taxes, and sometimes from state and local taxes too. This can make them especially attractive if you're in a high tax bracket. By having municipal bonds in your portfolio, you can reduce your tax bill while still [earning](/wiki/earning-announcement) a steady income. This combination of income, safety, and tax advantages makes municipal bonds a valuable part of a well-rounded investment strategy.
 
 ## How have historical interest rate cycles affected municipal bond performance?
 

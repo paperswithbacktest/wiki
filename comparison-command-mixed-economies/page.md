@@ -100,7 +100,7 @@ Despite their challenges, command economies often aim to achieve a more equitabl
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. discuss hyper-parameter optimization algorithms, providing insights into the selection and tuning of models crucial for algorithmic trading systems. Their work explores techniques like grid search and random search, paving the way for optimized trading algorithms that can adapt effectively to market data.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. discuss hyper-parameter optimization algorithms, providing insights into the selection and tuning of models crucial for [algorithmic trading](/wiki/algorithmic-trading) systems. Their work explores techniques like grid search and random search, paving the way for optimized trading algorithms that can adapt effectively to market data.
 
 Marcos Lopez de Prado's "Advances in Financial Machine Learning" serves as a comprehensive guide for incorporating [machine learning](/wiki/machine-learning) strategies into trading systems. The book covers topics such as feature engineering, [backtesting](/wiki/backtesting), and the design of machine learning pipelines that enhance trading strategies' efficiency and resilience.
 

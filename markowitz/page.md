@@ -126,7 +126,7 @@ By aligning investments along this frontier and considering individual risk tole
 
 ## What is the Role of MPT in Algorithmic Trading?
 
-Modern Portfolio Theory (MPT), developed by Harry Markowitz in the 1950s, provides a robust framework that can be effectively integrated into algorithmic trading strategies. At its core, MPT revolves around creating portfolios that maximize returns for a given level of risk, leveraging diversification to achieve a more stable investment performance over time. This theoretical foundation is invaluable in the design of trading algorithms, where decisions must be made rapidly and adaptively.
+Modern Portfolio Theory (MPT), developed by Harry Markowitz in the 1950s, provides a robust framework that can be effectively integrated into [algorithmic trading](/wiki/algorithmic-trading) strategies. At its core, MPT revolves around creating portfolios that maximize returns for a given level of risk, leveraging diversification to achieve a more stable investment performance over time. This theoretical foundation is invaluable in the design of trading algorithms, where decisions must be made rapidly and adaptively.
 
 In algorithmic trading, MPT's principles can be applied to develop algorithms that automatically rebalance portfolios to maintain optimal diversification. This process involves continuously adjusting the asset weights in a portfolio to ensure they reflect the desired balance of risk and return. The automatic rebalancing feature of MPT-based algorithms ensures that portfolios remain aligned with investor goals in real-time, reacting to market changes with precision that is difficult to achieve manually.
 

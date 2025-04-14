@@ -70,7 +70,7 @@ Another risk is that options can be hard to understand and use correctly. They h
 
 ## How does the pricing of Forex options work, including the use of the Black-Scholes model?
 
-The pricing of Forex options is based on several factors, including the current exchange rate, the strike price, the time until the option expires, the volatility of the currency pair, and interest rates. A common model used to price options is the Black-Scholes model. This model helps traders figure out the fair price of an option by calculating how much it should cost based on these factors. The Black-Scholes model uses a formula that includes these variables to come up with a price for the option. The idea is to balance the cost of the option with the likelihood of it being profitable.
+The pricing of Forex options is based on several factors, including the current exchange rate, the strike price, the time until the option expires, the [volatility](/wiki/volatility-trading-strategies) of the currency pair, and interest rates. A common model used to price options is the Black-Scholes model. This model helps traders figure out the fair price of an option by calculating how much it should cost based on these factors. The Black-Scholes model uses a formula that includes these variables to come up with a price for the option. The idea is to balance the cost of the option with the likelihood of it being profitable.
 
 In simple terms, the Black-Scholes model works like this: it takes into account the current price of the currency and the price at which you can buy or sell it with the option (the strike price). It also looks at how long you have until the option expires, because the longer you have, the more time there is for the currency to move in your favor. The model also considers how much the currency price tends to jump around (volatility), because bigger jumps mean more chance for profit or loss. Finally, it factors in the interest rates of the currencies involved, because these affect the cost of holding the currency. By putting all these pieces together, the Black-Scholes model gives you a price for the option that reflects what it should be worth in the market.
 
@@ -82,7 +82,7 @@ Another advanced technique is using options spreads, where traders buy and sell 
 
 ## What are examples of Forex options trading?
 
-To effectively illustrate forex options trading, consider a scenario involving an investor who holds a bullish view on the euro. The investor decides to purchase a call option on the EUR/USD currency pair. This call option grants the investor the right, but not the obligation, to buy euros at a specified strike price before the expiration date.
+To effectively illustrate [forex](/wiki/forex-system) options trading, consider a scenario involving an investor who holds a bullish view on the euro. The investor decides to purchase a call option on the EUR/USD currency pair. This call option grants the investor the right, but not the obligation, to buy euros at a specified strike price before the expiration date.
 
 ### Example Scenario:
 

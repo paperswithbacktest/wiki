@@ -90,7 +90,7 @@ Because of algorithmic trading, we also pay more attention to things like the vo
 
 Market breadth indicators are essential analytical tools used by traders and investors to gauge the overall health and dynamics of the stock market. By tracking the number of advancing versus declining stocks, these indicators provide a clear picture of the market's internal strength and potential future movements.
 
-A key function of market breadth indicators is their ability to identify prevailing trends. When a significant number of stocks are advancing, it typically signals a bullish trend; conversely, a predominance of declining stocks suggests bearish conditions. This capability to confirm market movements is particularly advantageous in validating the signals from other technical analysis tools. Additionally, breadth indicators are adept at detecting potential reversals, which are crucial for optimizing entry and exit points in trading strategies.
+A key function of market breadth indicators is their ability to identify prevailing trends. When a significant number of stocks are advancing, it typically signals a bullish trend; conversely, a predominance of declining stocks suggests bearish conditions. This capability to confirm market movements is particularly advantageous in validating the signals from other technical analysis tools. Additionally, breadth indicators are adept at detecting potential reversals, which are crucial for optimizing entry and [exit](/wiki/exit-strategy) points in trading strategies.
 
 Among the most common types of market breadth indicators are the Advance-Decline (A/D) Line, the New Highs-Lows Index, and the TRIN (Arms Index). 
 

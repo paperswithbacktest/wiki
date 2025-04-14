@@ -21,7 +21,7 @@ Mesh, on the other hand, uses a grid-like structure to represent data, which is 
 
 ## What are the basic components of a Mesh architecture?
 
-A Mesh architecture in machine learning is made up of a grid of points, called nodes, that are connected to each other. These nodes can represent different pieces of data, like pixels in an image. The connections between the nodes allow the model to understand how different parts of the data relate to each other. Each node can have features or values that describe the data at that point. For example, in an image, a node might have values for red, green, and blue color intensities.
+A Mesh architecture in [machine learning](/wiki/machine-learning) is made up of a grid of points, called nodes, that are connected to each other. These nodes can represent different pieces of data, like pixels in an image. The connections between the nodes allow the model to understand how different parts of the data relate to each other. Each node can have features or values that describe the data at that point. For example, in an image, a node might have values for red, green, and blue color intensities.
 
 The way these nodes are connected can vary depending on the specific task. In some cases, each node might be connected to its immediate neighbors, forming a regular grid. In other cases, the connections might be more complex, allowing the model to capture long-range relationships in the data. The connections between nodes are often represented by weights, which the model learns during training. These weights help the model understand which connections are important for making predictions or understanding the data. By adjusting these weights, the model can improve its performance over time.
 

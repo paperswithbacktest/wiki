@@ -18,7 +18,7 @@ For example, if a mortgage has a rate trigger linked to the prime rate, the inte
 
 A rate trigger works by automatically changing the interest rate on a loan or mortgage when certain things happen. These things can be changes in a big interest rate that everyone follows, like the prime rate, or they can be about how well the person borrowing the money is doing with their payments. For example, if the prime rate goes up, the interest rate on the loan might go up too. This helps make sure the loan's interest rate stays fair and matches what's happening in the economy.
 
-Rate triggers can also help reward people for paying their loans on time. If someone always pays their loan on time for a long time, the interest rate on their loan might go down as a reward. This makes the loan cheaper for them. But if they miss payments, the interest rate might go up to show that it's riskier for the bank to lend them money. So, rate triggers keep the loan's interest rate fair and can encourage good payment behavior.
+Rate triggers can also help reward people for paying their loans on time. If someone always pays their loan on time for a long time, the [interest rate](/wiki/interest-rate-trading-strategies) on their loan might go down as a reward. This makes the loan cheaper for them. But if they miss payments, the interest rate might go up to show that it's riskier for the bank to lend them money. So, rate triggers keep the loan's interest rate fair and can encourage good payment behavior.
 
 ## What are the basic components of a rate trigger?
 
@@ -64,7 +64,7 @@ Another way to make rate triggers work better is to make sure they are fair for 
 
 ## What advanced techniques can be used to enhance the functionality of rate triggers?
 
-To make rate triggers even better, banks and credit card companies can use something called machine learning. This is a smart way to look at a lot of information and find patterns. For example, machine learning can help figure out when the big interest rates like the prime rate are likely to change. This way, the rate trigger can be set up to change the interest rate on a loan or credit card at just the right time. It can also help make sure the interest rate changes are fair for everyone by looking at how people are paying their bills and making changes based on that.
+To make rate triggers even better, banks and credit card companies can use something called [machine learning](/wiki/machine-learning). This is a smart way to look at a lot of information and find patterns. For example, machine learning can help figure out when the big interest rates like the prime rate are likely to change. This way, the rate trigger can be set up to change the interest rate on a loan or credit card at just the right time. It can also help make sure the interest rate changes are fair for everyone by looking at how people are paying their bills and making changes based on that.
 
 Another advanced technique is using real-time data. This means the rate trigger can look at what's happening right now in the economy and make changes to the interest rate based on that. For example, if there's a big change in the economy, like a sudden increase in inflation, the rate trigger can quickly change the interest rate on a loan or credit card to match. This helps keep the interest rate fair and makes sure people are not paying too much or too little. By using these advanced techniques, rate triggers can work even better and help both the bank and the person borrowing the money.
 

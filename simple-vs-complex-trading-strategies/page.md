@@ -30,11 +30,11 @@ A third simple strategy is the "moving average crossover." This involves using t
 
 ## What are some examples of complex trading strategies?
 
-One example of a complex trading strategy is "algorithmic trading." This involves using computer programs to buy and sell stocks very quickly, often many times in a single day. These programs use math and data to make decisions faster than a human can. Traders using this strategy need to know a lot about programming and how markets work. It can be risky because the market can change quickly, and the computer might make mistakes.
+One example of a complex trading strategy is "[algorithmic trading](/wiki/algorithmic-trading)." This involves using computer programs to buy and sell stocks very quickly, often many times in a single day. These programs use math and data to make decisions faster than a human can. Traders using this strategy need to know a lot about programming and how markets work. It can be risky because the market can change quickly, and the computer might make mistakes.
 
 Another complex strategy is "options trading." This involves buying and selling options, which are contracts that give you the right to buy or sell a stock at a certain price in the future. Options trading can be very complicated because there are many different kinds of options and ways to use them. Traders need to understand things like "call options," "put options," and "strike prices." This strategy can be used to make money in many different market conditions, but it also has a lot of risks and can be hard to learn.
 
-A third example is "statistical arbitrage." This strategy uses math to find small differences in the prices of related stocks or other assets. Traders use computers to find these differences and then buy and sell quickly to make a profit. This strategy needs a lot of data and fast computers to work well. It's not easy to do because the market can be unpredictable, and the small profits can add up to big losses if things go wrong.
+A third example is "statistical [arbitrage](/wiki/arbitrage)." This strategy uses math to find small differences in the prices of related stocks or other assets. Traders use computers to find these differences and then buy and sell quickly to make a profit. This strategy needs a lot of data and fast computers to work well. It's not easy to do because the market can be unpredictable, and the small profits can add up to big losses if things go wrong.
 
 ## How can a beginner start with simple trading strategies?
 
@@ -70,7 +70,7 @@ Another risk is that complex strategies can be more expensive. You might need to
 
 ## How can one transition from simple to complex trading strategies?
 
-To move from simple to complex trading strategies, you need to learn more about how markets work and get better at using tools like computers and math. Start by learning about more advanced strategies like algorithmic trading or options trading. You can read books, take online courses, or join trading communities to learn from experienced traders. Practice these new strategies with a small amount of money or use a trading simulator to see how they work without risking a lot. As you get more comfortable, you can slowly start using more complex strategies with more money.
+To move from simple to complex trading strategies, you need to learn more about how markets work and get better at using tools like computers and math. Start by learning about more advanced strategies like algorithmic trading or options trading. You can read [books](/wiki/algo-trading-books), take online courses, or join trading communities to learn from experienced traders. Practice these new strategies with a small amount of money or use a trading simulator to see how they work without risking a lot. As you get more comfortable, you can slowly start using more complex strategies with more money.
 
 It's important to take your time and not rush into complex strategies too quickly. They can be risky, so you need to understand them well before using them with a lot of money. Keep using your simple strategies while you learn the complex ones. This way, you can still make money with what you know while you get better at the new strategies. Over time, as you gain more experience and confidence, you can start to use the complex strategies more and the simple ones less. Always remember to manage your risks carefully and be ready to go back to simpler strategies if the complex ones aren't working out.
 
@@ -128,7 +128,7 @@ data['Returns'] = data['Signal'].shift(1) * data['Price'].pct_change()
 cumulative_returns = data['Returns'].cumsum()
 ```
 
-In conclusion, while trend following and mean reversion strategies are fundamental and straightforward, they provide robust frameworks for engaging with financial markets. Their success greatly hinges on rigorous backtesting and simulation to ensure their applicability to real-world scenarios, ensuring these strategies meet the dynamic conditions of financial markets.
+In conclusion, while [trend following](/wiki/trend-following) and mean reversion strategies are fundamental and straightforward, they provide robust frameworks for engaging with financial markets. Their success greatly hinges on rigorous backtesting and simulation to ensure their applicability to real-world scenarios, ensuring these strategies meet the dynamic conditions of financial markets.
 
 ## References & Further Reading
 

@@ -118,13 +118,13 @@ Bonds, with their range of maturities and yields, offer a versatile means for in
 
 ## References & Further Reading
 
-Barbara S. Petitt and Jerald E. Pinto's book, "Fixed Income Analysis," provides a comprehensive guide to understanding the complexities of fixed income securities. It covers fundamental concepts such as interest rate risk, bond pricing mechanisms, and portfolio construction techniques, thus serving as an essential resource for those keen on mastering fixed income investments.
+Barbara S. Petitt and Jerald E. Pinto's book, "Fixed Income Analysis," provides a comprehensive guide to understanding the complexities of fixed income securities. It covers fundamental concepts such as [interest rate](/wiki/interest-rate-trading-strategies) risk, bond pricing mechanisms, and portfolio construction techniques, thus serving as an essential resource for those keen on mastering fixed income investments.
 
 Annette Thau's "The Bond Book: Everything Investors Need to Know" offers a beginner-friendly yet detailed exploration of bond investing. It addresses the intricacies of bond types, including government, municipal, and corporate bonds, emphasizing practical insights for investors to effectively navigate fixed income markets.
 
-Ernest P. Chan's "Algorithmic Trading: Winning Strategies" examines the transformative role of algorithmic trading in modern financial markets. Chan explores various algorithmic strategies, discussing their implementation using quantitative models and programming languages like Python. This resource is invaluable for individuals looking to harness computational techniques for enhanced trading decision-making.
+Ernest P. Chan's "Algorithmic Trading: Winning Strategies" examines the transformative role of [algorithmic trading](/wiki/algorithmic-trading) in modern financial markets. Chan explores various algorithmic strategies, discussing their implementation using quantitative models and programming languages like Python. This resource is invaluable for individuals looking to harness computational techniques for enhanced trading decision-making.
 
-Marcos Lopez de Prado's "Advances in Financial Machine Learning" investigates into the intersection of machine learning and finance. The work provides insights into how machine learning can be applied for analyzing financial data, optimizing trading strategies, and improving market predictions, highlighting the sophisticated tools driving contemporary algorithmic trading.
+Marcos Lopez de Prado's "Advances in Financial Machine Learning" investigates into the intersection of [machine learning](/wiki/machine-learning) and finance. The work provides insights into how machine learning can be applied for analyzing financial data, optimizing trading strategies, and improving market predictions, highlighting the sophisticated tools driving contemporary algorithmic trading.
 
 Salih N. Neftci's "Principles of Financial Engineering" serves as an authoritative text on the design and application of financial instruments and derivatives. It covers mathematical models and practical strategies to manage financial risks and create innovative trading solutions, making it a crucial reference for financial engineers and investors alike.
 

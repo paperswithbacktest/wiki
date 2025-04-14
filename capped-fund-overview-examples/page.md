@@ -76,7 +76,7 @@ Another important thing to think about is how the cap might affect the fund's le
 
 ## How do fund managers strategically manage a capped fund to maximize returns?
 
-Fund managers of a capped fund focus on picking the best investments to make the most money for their investors. They know they have a limit on how much money they can take, so they are very careful about where they put it. They look for companies or projects that they think will grow a lot and make good returns. By keeping the fund small, they can spend more time on each investment, helping these companies do well and making sure the fund's money is used in the best way possible.
+Fund managers of a capped fund focus on [picking](/wiki/asset-class-picking) the best investments to make the most money for their investors. They know they have a limit on how much money they can take, so they are very careful about where they put it. They look for companies or projects that they think will grow a lot and make good returns. By keeping the fund small, they can spend more time on each investment, helping these companies do well and making sure the fund's money is used in the best way possible.
 
 Another way fund managers manage a capped fund is by keeping an eye on the cap itself. They might decide to change the cap if they think it will help the fund do better. If they see a chance to invest in something really good but they need more money, they might raise the cap a bit. But they have to be careful not to make the fund too big to handle. By balancing the size of the fund and the investments they make, they try to keep the returns high and make the most money for everyone who invested.
 

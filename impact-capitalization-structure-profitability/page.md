@@ -36,7 +36,7 @@ The choice between debt and equity depends on what the company needs and how muc
 
 ## How does the cost of capital influence profitability?
 
-The cost of capital is how much it costs a company to get the money it needs to operate and grow. This cost comes from the money the company borrows (debt) and the money it gets from selling shares (equity). If the cost of capital is high, it means the company has to pay more to use that money, which can eat into its profits. For example, if a company borrows money at a high interest rate, it has to pay a lot of interest, leaving less money as profit.
+The cost of capital is how much it costs a company to get the money it needs to operate and grow. This cost comes from the money the company borrows (debt) and the money it gets from selling shares (equity). If the cost of capital is high, it means the company has to pay more to use that money, which can eat into its profits. For example, if a company borrows money at a high [interest rate](/wiki/interest-rate-trading-strategies), it has to pay a lot of interest, leaving less money as profit.
 
 On the other hand, if the cost of capital is low, the company can keep more of its profits. This is because it doesn't have to pay as much to use the money. A lower cost of capital can help a company be more profitable because it can use the money it saves to invest in new projects or improve its business. So, managing the cost of capital well is important for a company to stay profitable and grow.
 

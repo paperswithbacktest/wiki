@@ -72,7 +72,7 @@ Another criticism is that point and figure charts can be hard to set up right. Y
 
 Point and figure charts can be used together with other technical analysis tools to help traders make better decisions. One way to do this is by using moving averages, which are lines that show the average price of a stock over a certain time. By putting a moving average on a point and figure chart, traders can see if the price is above or below the average, which can help them decide if the stock is in an uptrend or a downtrend. Another tool that works well with point and figure charts is the Relative Strength Index (RSI), which shows if a stock is overbought or oversold. If the RSI shows that a stock is overbought and the point and figure chart shows a resistance level, it might be a good time to sell.
 
-Another way to use point and figure charts with other tools is by looking at volume. Volume is how many shares of a stock are bought and sold, and it can show how strong a trend is. If a point and figure chart shows a breakout, which is when the price moves past a resistance or support level, and the volume is high, it can mean that the breakout is strong and likely to keep going. Traders can also use trend lines on point and figure charts to see the direction of the price better. By drawing lines that connect the highs and lows of the X's and O's, traders can see the trend more clearly and use it with other tools like the RSI or moving averages to make better trading decisions.
+Another way to use point and figure charts with other tools is by looking at [volume](/wiki/volume-trading-strategy). Volume is how many shares of a stock are bought and sold, and it can show how strong a trend is. If a point and figure chart shows a [breakout](/wiki/breakout-trading), which is when the price moves past a resistance or support level, and the volume is high, it can mean that the breakout is strong and likely to keep going. Traders can also use trend lines on point and figure charts to see the direction of the price better. By drawing lines that connect the highs and lows of the X's and O's, traders can see the trend more clearly and use it with other tools like the RSI or moving averages to make better trading decisions.
 
 ## What advanced techniques can be applied to enhance the effectiveness of point and figure charts?
 
@@ -114,7 +114,7 @@ $$
 \text{Horizontal Target} = 30 + (8 \times 2 \times 3) = 78
 $$
 
-In algorithmic trading, the horizontal count method can be employed to set targets during consolidation breakouts, providing algorithms with calculated price objectives based on historical price patterns.
+In [algorithmic trading](/wiki/algorithmic-trading), the horizontal count method can be employed to set targets during consolidation breakouts, providing algorithms with calculated price objectives based on historical price patterns.
 
 ### Application in Trading Algorithms
 

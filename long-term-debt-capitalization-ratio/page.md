@@ -36,7 +36,7 @@ On the other hand, sometimes a high ratio isn't always bad. If a company is usin
 
 A low Long-Term Debt to Capitalization Ratio suggests that a company is using less borrowed money and more of its own money to run its business. This is usually a good sign because it means the company is not taking on a lot of debt. When a company doesn't have much debt, it has less to pay back, which makes it easier to stay financially stable. Investors often see a low ratio as a positive thing because it shows the company is managing its money well and is less likely to run into financial trouble.
 
-However, a very low ratio might also mean the company is not taking advantage of opportunities to grow. If a company could borrow money at a low interest rate to invest in new projects that would make more money, not doing so might mean they are missing out. So, while a low ratio generally suggests good financial health, it's important to look at the whole picture. Investors need to consider what the company is doing with its money and whether it's making smart choices about growth and investment.
+However, a very low ratio might also mean the company is not taking advantage of opportunities to grow. If a company could borrow money at a low [interest rate](/wiki/interest-rate-trading-strategies) to invest in new projects that would make more money, not doing so might mean they are missing out. So, while a low ratio generally suggests good financial health, it's important to look at the whole picture. Investors need to consider what the company is doing with its money and whether it's making smart choices about growth and investment.
 
 ## How does the Long-Term Debt to Capitalization Ratio differ from other debt ratios?
 
@@ -48,7 +48,7 @@ Another difference is with the Debt to Assets Ratio, which compares total debt t
 
 Some industries often have higher Long-Term Debt to Capitalization Ratios because they need a lot of money to start and keep running. For example, the utility industry, like companies that provide electricity or water, usually have high ratios. These companies need to build big and expensive things like power plants or water treatment facilities. They often borrow money to pay for these because it takes a long time to start making money from them. So, it's normal for utility companies to have more debt compared to their total capital.
 
-Another industry with higher ratios is the telecommunications industry. Companies that provide phone and internet services need to spend a lot on building networks and buying equipment. This can cost billions of dollars, so they often use debt to finance these projects. Like utility companies, telecom companies expect to pay back the debt over many years as they start earning money from their services. So, a higher Long-Term Debt to Capitalization Ratio is common in this industry too.
+Another industry with higher ratios is the telecommunications industry. Companies that provide phone and internet services need to spend a lot on building networks and buying equipment. This can cost billions of dollars, so they often use debt to finance these projects. Like utility companies, telecom companies expect to pay back the debt over many years as they start [earning](/wiki/earning-announcement) money from their services. So, a higher Long-Term Debt to Capitalization Ratio is common in this industry too.
 
 ## How can changes in the Long-Term Debt to Capitalization Ratio over time be interpreted?
 

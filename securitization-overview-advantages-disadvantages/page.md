@@ -76,7 +76,7 @@ Another strategy is using credit enhancements to make the securities safer. Cred
 
 ## How can securitization be used for risk management in financial institutions?
 
-Securitization helps financial institutions manage risk by allowing them to sell loans instead of keeping them on their books. When a bank sells its loans as securities, it transfers some of the risk to the investors who buy those securities. This means the bank doesn't have to worry as much about people not paying back their loans because that risk is now shared with others. By selling off risky loans, the bank can focus on making new loans that are safer and more profitable, which helps keep the bank stable and healthy.
+Securitization helps financial institutions manage risk by allowing them to sell loans instead of keeping them on their [books](/wiki/algo-trading-books). When a bank sells its loans as securities, it transfers some of the risk to the investors who buy those securities. This means the bank doesn't have to worry as much about people not paying back their loans because that risk is now shared with others. By selling off risky loans, the bank can focus on making new loans that are safer and more profitable, which helps keep the bank stable and healthy.
 
 Another way securitization helps with risk management is by allowing banks to diversify their assets. Instead of having all their money tied up in one type of loan, like home loans, they can turn those loans into securities and use the money to make different kinds of loans. This spreading out of risk makes the bank less likely to get into big trouble if one type of loan goes bad. So, securitization is a smart tool for banks to manage risk and keep their business safe and growing.
 

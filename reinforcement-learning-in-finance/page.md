@@ -22,7 +22,7 @@ The reward is how the agent knows if it made a good or bad decision. If the agen
 
 ## How does reinforcement learning differ from other machine learning methods in financial applications?
 
-Reinforcement learning is different from other machine learning methods in finance because it learns by doing. It's like a trader trying different strategies in the market, seeing what works, and getting better over time. Other methods, like supervised learning, use past data to predict future outcomes. For example, they might look at past stock prices to guess what will happen next. But reinforcement learning doesn't just predict; it acts and learns from the results of those actions.
+Reinforcement learning is different from other [machine learning](/wiki/machine-learning) methods in finance because it learns by doing. It's like a trader trying different strategies in the market, seeing what works, and getting better over time. Other methods, like supervised learning, use past data to predict future outcomes. For example, they might look at past stock prices to guess what will happen next. But [reinforcement learning](/wiki/reinforcement-learning) doesn't just predict; it acts and learns from the results of those actions.
 
 In finance, this means reinforcement learning can adapt to new situations better than other methods. It can handle the ever-changing nature of the market because it's always learning from its latest trades. Supervised learning might struggle if the market behaves differently than it did in the past data it was trained on. Meanwhile, unsupervised learning, which looks for patterns in data without specific outcomes in mind, can be useful for finding hidden trends but doesn't make decisions like reinforcement learning does. So, reinforcement learning stands out by making and learning from real-time decisions, which is very valuable in the dynamic world of finance.
 
@@ -36,9 +36,9 @@ Lastly, there's the problem of overfitting. This happens when the system learns 
 
 ## Can you provide examples of successful implementations of reinforcement learning in finance?
 
-One successful example of reinforcement learning in finance is the work done by researchers at J.P. Morgan. They created an AI system that uses reinforcement learning to manage a portfolio of stocks. The system learns by trying different trading strategies and seeing which ones make the most money. Over time, it gets better at picking the right stocks to buy and sell. This has helped J.P. Morgan make better investment decisions and improve their returns.
+One successful example of reinforcement learning in finance is the work done by researchers at J.P. Morgan. They created an AI system that uses reinforcement learning to manage a portfolio of stocks. The system learns by trying different trading strategies and seeing which ones make the most money. Over time, it gets better at [picking](/wiki/asset-class-picking) the right stocks to buy and sell. This has helped J.P. Morgan make better investment decisions and improve their returns.
 
-Another example is a hedge fund called Man AHL, which uses reinforcement learning to trade in the foreign exchange market. Their AI system learns from past trades and adjusts its strategies to make more profit. It can handle the fast-changing nature of the currency markets and has shown good results. This has helped Man AHL stay ahead in the competitive world of trading.
+Another example is a [hedge fund](/wiki/hedge-fund-trading-strategies) called Man AHL, which uses reinforcement learning to trade in the foreign exchange market. Their AI system learns from past trades and adjusts its strategies to make more profit. It can handle the fast-changing nature of the currency markets and has shown good results. This has helped Man AHL stay ahead in the competitive world of trading.
 
 ## How can reinforcement learning be used to optimize portfolio management?
 
@@ -72,7 +72,7 @@ It's also important to see how the model handles different market conditions. Yo
 
 ## What advanced techniques can enhance the effectiveness of reinforcement learning in complex financial environments?
 
-One way to make reinforcement learning better in the tricky world of finance is by using something called "deep reinforcement learning." This combines reinforcement learning with a type of artificial intelligence called neural networks. Neural networks can handle lots of information and find patterns in it. In finance, this means the system can look at all sorts of data, like stock prices, news, and even social media, to make smarter trading decisions. By using deep reinforcement learning, the system can learn more complex strategies and adapt better to the ever-changing market.
+One way to make reinforcement learning better in the tricky world of finance is by using something called "deep reinforcement learning." This combines reinforcement learning with a type of [artificial intelligence](/wiki/ai-artificial-intelligence) called neural networks. Neural networks can handle lots of information and find patterns in it. In finance, this means the system can look at all sorts of data, like stock prices, news, and even social media, to make smarter trading decisions. By using deep reinforcement learning, the system can learn more complex strategies and adapt better to the ever-changing market.
 
 Another technique is called "multi-agent reinforcement learning." Instead of having one system making all the decisions, you can have several systems working together. Each system, or agent, can learn different parts of the market or try different strategies. They can share what they learn with each other, which helps them all get better faster. In finance, this can be useful because the market is so big and complex. By working together, these agents can cover more ground and make better overall decisions. This teamwork approach can lead to smarter and more effective trading strategies.
 

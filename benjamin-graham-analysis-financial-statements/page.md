@@ -112,7 +112,7 @@ $$
 
 assesses the overall profitability and efficiency in controlling costs relative to revenue generation.
 
-Cash flow statements provide insights into the cash generated and used during a period, emphasizing a company's liquidity and financial flexibility. Key components include operating, investing, and financing cash flows. Investors often focus on free cash flow, which can be computed as:
+Cash flow statements provide insights into the cash generated and used during a period, emphasizing a company's [liquidity](/wiki/liquidity-risk-premium) and financial flexibility. Key components include operating, investing, and financing cash flows. Investors often focus on free cash flow, which can be computed as:
 
 $$
 \text{Free Cash Flow} = \text{Operating Cash Flow} - \text{Capital Expenditures}

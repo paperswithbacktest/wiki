@@ -58,7 +58,7 @@ Their approach to data analysis is called quantitative analysis. This means they
 
 ## What is the role of machine learning and AI in WorldQuant's investment strategies?
 
-WorldQuant uses machine learning and AI to help people make money in the stock market. They use these technologies to look at a lot of data and find patterns that can help predict which stocks will go up or down in value. Machine learning helps WorldQuant's computers learn from the data they see, so they can get better at making predictions over time. This means WorldQuant can give their clients, who are usually big investors, more accurate advice on where to put their money.
+WorldQuant uses [machine learning](/wiki/machine-learning) and AI to help people make money in the stock market. They use these technologies to look at a lot of data and find patterns that can help predict which stocks will go up or down in value. Machine learning helps WorldQuant's computers learn from the data they see, so they can get better at making predictions over time. This means WorldQuant can give their clients, who are usually big investors, more accurate advice on where to put their money.
 
 AI also helps WorldQuant by making their work faster and more efficient. Instead of people having to look at all the data and do the math by hand, AI can do it much quicker. This saves time and helps WorldQuant find more patterns and make better predictions. By using machine learning and AI, WorldQuant can help their clients make smarter investment choices and make more money in the stock market.
 

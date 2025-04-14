@@ -18,7 +18,7 @@ For example, satellite imagery can help track construction progress or changes i
 
 Traditional real estate data usually comes from sources like government records, real estate listings, and market reports. This data includes things like home prices, sales records, property taxes, and demographic information. It's the kind of data that real estate agents and analysts have used for a long time to understand the market and make decisions.
 
-Alternative data, on the other hand, comes from newer and often unexpected sources. This can include data from satellite images, social media posts, credit card spending, and even mobile phone locations. This type of data can show things like how often people visit a shopping center, what people are saying about a neighborhood online, or how construction projects are progressing. By using alternative data, real estate professionals can see trends and patterns that traditional data might miss, giving them a more complete picture of the market.
+Alternative data, on the other hand, comes from newer and often unexpected sources. This can include data from satellite images, social media posts, credit card spending, and even mobile phone locations. This type of data can show things like how often people visit a shopping center, what people are saying about a neighborhood online, or how construction projects are progressing. By using [alternative data](/wiki/best-alternative-data), real estate professionals can see trends and patterns that traditional data might miss, giving them a more complete picture of the market.
 
 ## What are some common sources of alternative data for real estate?
 
@@ -76,7 +76,7 @@ Even with these challenges, regulations are important because they protect peopl
 
 In the future, we can expect to see more and more real estate professionals using alternative data to make decisions. As technology gets better, it will be easier to get and use this kind of data. For example, new tools might help us understand satellite images even better, so we can see small changes in neighborhoods that could affect property values. Also, social media platforms might give us more ways to look at what people are saying about different areas. This will help real estate investors see trends before other people do, so they can buy properties that will go up in value.
 
-Another trend we might see is the use of artificial intelligence (AI) to make sense of alternative data. AI can look at a lot of data very quickly and find patterns that humans might miss. This could mean that real estate professionals will be able to predict market trends even better than they can now. But, as more people use alternative data, there will also be more rules about how to use it. This means real estate professionals will need to keep learning about new technologies and regulations to use alternative data in the best way possible.
+Another trend we might see is the use of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) to make sense of alternative data. AI can look at a lot of data very quickly and find patterns that humans might miss. This could mean that real estate professionals will be able to predict market trends even better than they can now. But, as more people use alternative data, there will also be more rules about how to use it. This means real estate professionals will need to keep learning about new technologies and regulations to use alternative data in the best way possible.
 
 ## How can alternative data be integrated into existing real estate analysis models?
 

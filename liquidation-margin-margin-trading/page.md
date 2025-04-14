@@ -36,7 +36,7 @@ If the value of your investments goes down, the liquidation margin goes down too
 
 Liquidation in margin trading happens when the value of your investments goes down a lot and your account doesn't have enough money to meet the broker's rules. The main thing that can trigger liquidation is if your account balance drops below the liquidation margin. This can happen if the price of your stocks or other investments falls. If you borrowed money from the broker to buy these investments, and their value goes down, you might not have enough money left in your account to cover the loan.
 
-Another factor that can lead to liquidation is if you don't add more money to your account when you get a margin call. When your account balance gets too low, the broker will ask you to put in more money to bring it back up to the safe level. If you don't do this quickly, the broker will start selling your investments to get the money they need. This is called liquidation, and it can happen fast, so it's important to keep an eye on your account and be ready to add more money if you get a margin call.
+Another [factor](/wiki/factor-investing) that can lead to liquidation is if you don't add more money to your account when you get a margin call. When your account balance gets too low, the broker will ask you to put in more money to bring it back up to the safe level. If you don't do this quickly, the broker will start selling your investments to get the money they need. This is called liquidation, and it can happen fast, so it's important to keep an eye on your account and be ready to add more money if you get a margin call.
 
 ## What are the risks associated with liquidation margin?
 
@@ -90,7 +90,7 @@ $$
 
 Equity refers to the total value of an account, encompassing the initial deposit and unrealized gains or losses from open positions. Knowledge of free margin assists traders in managing their positions to avert liquidation.
 
-In algorithmic trading, algorithms enhance risk management by optimizing entry and exit strategies. By leveraging historical data and market trends, algorithms can identify favorable conditions for executing trades, thereby mitigating emotional biases. For instance, a simple moving average crossover strategy can be programmed in Python as follows:
+In algorithmic trading, algorithms enhance risk management by optimizing entry and [exit](/wiki/exit-strategy) strategies. By leveraging historical data and market trends, algorithms can identify favorable conditions for executing trades, thereby mitigating emotional biases. For instance, a simple moving average crossover strategy can be programmed in Python as follows:
 
 ```python
 import pandas as pd

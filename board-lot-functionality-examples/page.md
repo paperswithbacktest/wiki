@@ -40,7 +40,7 @@ These differences can affect how you trade. If you are used to buying stocks on 
 
 ## How do board lots impact the liquidity of a stock?
 
-Board lots can affect how easy it is to buy or sell a stock, which we call liquidity. If the board lot size is big, it might be harder to find someone who wants to buy or sell the same number of shares as you. For example, if you want to sell 100 shares but the board lot size is 500 shares, it might take longer to find someone who wants to buy 500 shares all at once. This can make the stock less liquid because it's harder to trade quickly.
+Board lots can affect how easy it is to buy or sell a stock, which we call [liquidity](/wiki/liquidity-risk-premium). If the board lot size is big, it might be harder to find someone who wants to buy or sell the same number of shares as you. For example, if you want to sell 100 shares but the board lot size is 500 shares, it might take longer to find someone who wants to buy 500 shares all at once. This can make the stock less liquid because it's harder to trade quickly.
 
 On the other hand, if the board lot size is small, it can make the stock more liquid. When the board lot size is smaller, more people can buy or sell the stock easily because they don't need to buy a lot of shares at once. This means more people can trade the stock, and it's easier to find someone to buy or sell with. So, smaller board lot sizes can help make a stock more liquid and easier to trade.
 
@@ -82,7 +82,7 @@ On traditional trading floors, it can be harder to keep track of board lot sizes
 
 ## What is Algorithmic Trading: An Overview?
 
-Algorithmic trading represents a significant advancement in the execution of trading strategies, leveraging computational algorithms to automate the process of buying and selling securities. By utilizing sophisticated software, algorithmic trading executes trades at speeds and prices unattainable by human traders alone. This automation mitigates the influence of human emotions and errors, thereby enhancing operational efficiency and consistency in decision-making processes.
+Algorithmic trading represents a significant advancement in the execution of trading strategies, leveraging computational algorithms to automate the process of buying and selling securities. By utilizing sophisticated software, [algorithmic trading](/wiki/algorithmic-trading) executes trades at speeds and prices unattainable by human traders alone. This automation mitigates the influence of human emotions and errors, thereby enhancing operational efficiency and consistency in decision-making processes.
 
 At the core of algorithmic trading are quantitative models and algorithms that identify trading opportunities, generate buy or sell signals, and manage order execution. These algorithms can process vast data sets and perform complex calculations rapidly, enabling traders to capitalize on fleeting market opportunities.
 
@@ -106,7 +106,7 @@ $$
 
 The impact of algorithmic trading on financial markets is profound. By facilitating continuous and instantaneous trade execution, it significantly increases liquidity, reduces bid-ask spreads, and enhances market efficiency. Furthermore, algorithmic trading can improve price discovery, allowing for more accurate assessments of an asset's intrinsic value.
 
-However, the rapid pace and large [volume](/wiki/volume-trading-strategy) of trades executed by algorithms also pose challenges, such as exacerbating market volatility and contributing to events like the 2010 Flash Crash. Regulatory bodies continue to adapt to ensure markets remain fair and stable amid these technological advances. As algorithmic trading evolves, the integration of [artificial intelligence](/wiki/ai-artificial-intelligence) and [machine learning](/wiki/machine-learning) promises to further transform trading methodologies and market landscapes.
+However, the rapid pace and large [volume](/wiki/volume-trading-strategy) of trades executed by algorithms also pose challenges, such as exacerbating market [volatility](/wiki/volatility-trading-strategies) and contributing to events like the 2010 Flash Crash. Regulatory bodies continue to adapt to ensure markets remain fair and stable amid these technological advances. As algorithmic trading evolves, the integration of [artificial intelligence](/wiki/ai-artificial-intelligence) and [machine learning](/wiki/machine-learning) promises to further transform trading methodologies and market landscapes.
 
 ## References & Further Reading
 

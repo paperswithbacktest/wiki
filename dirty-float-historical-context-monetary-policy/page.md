@@ -105,7 +105,7 @@ $$
 
 4. **Portfolio and Risk Management**: Algorithms are also designed to manage portfolios dynamically, ensuring that risk is minimized by adhering to predetermined parameters such as position sizes and stop-loss levels.
 
-Algorithmic trading provides significant [liquidity](/wiki/liquidity-risk-premium) to the forex market, particularly crucial in a dirty float system. Increased liquidity reduces bid-ask spreads, facilitating smoother transactions and reducing market volatility. Moreover, it enhances market efficiency by enabling the rapid incorporation of new information into currency prices.
+Algorithmic trading provides significant [liquidity](/wiki/liquidity-risk-premium) to the forex market, particularly crucial in a dirty float system. Increased liquidity reduces bid-ask spreads, facilitating smoother transactions and reducing market [volatility](/wiki/volatility-trading-strategies). Moreover, it enhances market efficiency by enabling the rapid incorporation of new information into currency prices.
 
 The role of algorithmic trading in maintaining stability in managed float currencies can be seen by its ability to dampen abrupt price swings. For instance, during periods of economic news releases that typically cause spikes in price volatility, algorithmic traders can rapidly adjust their strategies to manage risk and exploit volatility, contributing to market stabilization.
 

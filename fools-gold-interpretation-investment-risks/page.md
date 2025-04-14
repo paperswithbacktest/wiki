@@ -84,7 +84,7 @@ Companies also use other ways to make sure they do not invest in Fool's Gold. Th
 
 ## How can one avoid Fool's Gold in algorithmic trading?
 
-Avoiding pitfalls in algorithmic trading requires a comprehensive approach, beginning with meticulous research and a solid understanding of the underlying assets. By thoroughly evaluating historical data, market fundamentals, and the specific characteristics of the securities involved, traders can develop strategies that are rooted in concrete evidence rather than mere speculation.
+Avoiding pitfalls in [algorithmic trading](/wiki/algorithmic-trading) requires a comprehensive approach, beginning with meticulous research and a solid understanding of the underlying assets. By thoroughly evaluating historical data, market fundamentals, and the specific characteristics of the securities involved, traders can develop strategies that are rooted in concrete evidence rather than mere speculation.
 
 Diversification is crucial in mitigating risks associated with algo trading. By allocating capital across various asset classes—such as equities, bonds, commodities, and foreign exchange—investors can reduce the impact of adverse movements in any single market. The diversification principle can be mathematically represented by the formula for portfolio variance:
 

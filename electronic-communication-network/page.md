@@ -58,7 +58,7 @@ This process happens very quickly because the ECN shows all the current orders i
 
 ## What role do ECNs play in market liquidity and price discovery?
 
-ECNs help make the market more liquid by connecting more buyers and sellers. When more people can trade at any time, there are more chances for trades to happen. This means that stocks and other securities can be bought and sold more easily, which is what liquidity is all about. If you want to sell your stock, it's easier to find someone who wants to buy it when there are more people trading. This can also help keep the market running smoothly because there's always someone ready to trade.
+ECNs help make the market more liquid by connecting more buyers and sellers. When more people can trade at any time, there are more chances for trades to happen. This means that stocks and other securities can be bought and sold more easily, which is what [liquidity](/wiki/liquidity-risk-premium) is all about. If you want to sell your stock, it's easier to find someone who wants to buy it when there are more people trading. This can also help keep the market running smoothly because there's always someone ready to trade.
 
 ECNs also help with price discovery, which is how the market figures out what a stock is worth. Because ECNs show all the current buy and sell orders, everyone can see the best prices available. This transparency means that the price of a stock can change quickly based on what people are willing to pay or sell for. When everyone can see all the orders, the price that people agree on is more likely to be fair and accurate. This helps the market work better because prices reflect what people really think a stock is worth.
 
@@ -78,7 +78,7 @@ Another important ECN is Direct Edge, which was created in 2007 and later merged
 
 ECNs allow traders to use advanced strategies like high-frequency trading. This is where computers make a lot of trades very quickly, trying to make small profits from tiny changes in stock prices. Because ECNs show all the buy and sell orders in real time, these computers can see the best prices and trade very fast. This can be a good way to make money if you have the right technology and know how to use it well.
 
-Another strategy is called algorithmic trading. This is where traders use computer programs to follow a set of rules for buying and selling stocks. These programs can look at a lot of information and make trades based on what they find. ECNs help with this because they let traders see all the orders and make trades quickly. This can help traders find the best times to buy or sell and make more money.
+Another strategy is called [algorithmic trading](/wiki/algorithmic-trading). This is where traders use computer programs to follow a set of rules for buying and selling stocks. These programs can look at a lot of information and make trades based on what they find. ECNs help with this because they let traders see all the orders and make trades quickly. This can help traders find the best times to buy or sell and make more money.
 
 Some traders also use ECNs for after-hours trading strategies. Since ECNs are open all the time, traders can react to news or events that happen outside of normal market hours. For example, if a company announces good news after the market closes, traders can use an ECN to buy the stock right away, hoping the price will go up when the market opens again. This can be a good way to take advantage of opportunities that other traders might miss.
 
@@ -88,7 +88,7 @@ The fusion of Electronic Communication Networks (ECNs) with algorithmic trading 
 
 ECNs ensure that traders have unfettered access to market data, which is critical for algorithmic trading strategies that rely on timely and accurate information. By bridging the gap between buyers and sellers directly, ECNs eliminate the need for intermediaries, thus reducing latency and transaction costs. This direct access is essential for executing high-frequency trading strategies where even microsecond delays can affect profitability.
 
-For instance, consider an algorithm programmed to execute arbitrage opportunities between two exchanges. Utilizing an ECN, the algorithm can swiftly assess and react to price discrepancies, executing trades almost instantaneously. The formula for potential profit $P$ from such arbitrage can be represented as:
+For instance, consider an algorithm programmed to execute [arbitrage](/wiki/arbitrage) opportunities between two exchanges. Utilizing an ECN, the algorithm can swiftly assess and react to price discrepancies, executing trades almost instantaneously. The formula for potential profit $P$ from such arbitrage can be represented as:
 
 $$
 P = \sum_{i=1}^{n} (S_{i} - B_{i}) - C

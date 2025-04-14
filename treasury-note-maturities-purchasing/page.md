@@ -18,7 +18,7 @@ These notes are considered very safe investments because they are backed by the 
 
 Treasury notes come in different lengths of time before they mature. These lengths are called maturities. You can buy Treasury notes that will mature in 2 years, 3 years, 5 years, 7 years, or 10 years. This means that if you buy a 2-year note, you will get your money back after 2 years, plus the interest the government owes you.
 
-Choosing the right maturity depends on what you want. If you need your money back soon, you might pick a 2-year or 3-year note. If you can wait longer, a 5-year, 7-year, or 10-year note might be better. Each type of note has a different interest rate, so you can pick the one that fits your plans and how much risk you want to take.
+Choosing the right maturity depends on what you want. If you need your money back soon, you might pick a 2-year or 3-year note. If you can wait longer, a 5-year, 7-year, or 10-year note might be better. Each type of note has a different [interest rate](/wiki/interest-rate-trading-strategies), so you can pick the one that fits your plans and how much risk you want to take.
 
 ## How can an individual purchase Treasury notes?
 
@@ -88,7 +88,7 @@ The U.S. Department of the Treasury provides detailed reports and data sets esse
 
 For professionals and scholars seeking a deeper understanding, financial analyses textbooks are indispensable. Classic works such as "Principles of Corporate Finance" by Richard A. Brealey and Stewart C. Myers offer foundational knowledge on the financial markets, including fixed income securities. Similarly, "Fixed Income Securities: Tools for Today’s Markets" by Bruce Tuckman and Angel Serrat is a crucial resource for detailed exploration of fixed income products, providing both theory and practice elements necessary for professionals in finance.
 
-Books on algorithmic trading, such as "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernest P. Chan, illuminate the increasing role of technology in trading. These resources explore algorithms' role in market dynamics, offering practical insights for optimizing trade execution and managing Treasury investments.
+Books on [algorithmic trading](/wiki/algorithmic-trading), such as "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernest P. Chan, illuminate the increasing role of technology in trading. These resources explore algorithms' role in market dynamics, offering practical insights for optimizing trade execution and managing Treasury investments.
 
 For those interested in market dynamics, "Market Microstructure Theory" by Maureen O'Hara is a recommended read. It provides an analytical approach to understanding how market structures affect trading and pricing, an essential aspect for anyone using algorithmic trading systems.
 

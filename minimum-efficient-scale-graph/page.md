@@ -36,7 +36,7 @@ Now, let's say you decide to open a bigger bakery. You buy a larger space with b
 
 The Minimum Efficient Scale (MES) for a company depends on several things. One big thing is the type of industry the company is in. For example, making cars needs big factories and a lot of machines, so the MES might be bigger than for a company that makes clothes. Another thing is how much the company can save by buying things in bulk. If buying more materials at once saves a lot of money, the MES might be bigger because the company needs to be large enough to buy in bulk.
 
-Another factor is the technology the company uses. If new machines or computers can make things faster and cheaper, the MES might be smaller because the company doesn't need to be as big to save money. Also, how much it costs to start up the business matters. If it's expensive to get everything ready to start, the company might need to be bigger right from the start to make back that money, which would mean a bigger MES. All these things together help decide what the MES is for a company.
+Another [factor](/wiki/factor-investing) is the technology the company uses. If new machines or computers can make things faster and cheaper, the MES might be smaller because the company doesn't need to be as big to save money. Also, how much it costs to start up the business matters. If it's expensive to get everything ready to start, the company might need to be bigger right from the start to make back that money, which would mean a bigger MES. All these things together help decide what the MES is for a company.
 
 ## How can a company calculate its Minimum Efficient Scale?
 
@@ -82,7 +82,7 @@ Another strategy is to work with other companies to share costs. If a small comp
 
 ## What is Minimum Efficient Scale (MES)?
 
-Minimum Efficient Scale (MES) is a concept in production economics that identifies the lowest point at which a firm can produce its goods at a minimum average cost. It represents the scale of production required for a company to exploit economies of scale fully, thereby reducing its average total costs (ATC) as production volume increases. MES is closely tied to the long-run average total cost (LRATC) curve, which shows the lowest possible average cost at which any output level can be produced after all inputs are optimized.
+Minimum Efficient Scale (MES) is a concept in production economics that identifies the lowest point at which a firm can produce its goods at a minimum average cost. It represents the scale of production required for a company to exploit economies of scale fully, thereby reducing its average total costs (ATC) as production [volume](/wiki/volume-trading-strategy) increases. MES is closely tied to the long-run average total cost (LRATC) curve, which shows the lowest possible average cost at which any output level can be produced after all inputs are optimized.
 
 ### Relationship Between MES and the LRATC Curve
 

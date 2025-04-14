@@ -30,7 +30,7 @@ HD wallets also help keep your transactions private and secure. You can create a
 
 ## How does the structure of an HD wallet work?
 
-An HD wallet is like a family tree for your cryptocurrency keys. It starts with a single master seed, which is like the grandparent of the family. From this master seed, the wallet can create a main key, which is like the parent. Then, from this main key, the wallet can create many child keys, which are like the children in the family. Each of these child keys can also create their own set of grandchild keys. This way, you can have a whole tree of keys and addresses, all coming from that one master seed.
+An HD wallet is like a family tree for your [cryptocurrency](/wiki/cryptocurrency) keys. It starts with a single master seed, which is like the grandparent of the family. From this master seed, the wallet can create a main key, which is like the parent. Then, from this main key, the wallet can create many child keys, which are like the children in the family. Each of these child keys can also create their own set of grandchild keys. This way, you can have a whole tree of keys and addresses, all coming from that one master seed.
 
 The structure of an HD wallet makes it easy to manage your cryptocurrencies. Because all the keys come from one master seed, you only need to remember this one seed to access all your funds. If you need to move your wallet to a new device, you just use the master seed to restore it. Plus, you can create a new address for each transaction, which helps keep your activities private and secure. It's like having a big family where everyone is connected but can still do their own thing.
 

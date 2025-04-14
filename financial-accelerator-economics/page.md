@@ -80,7 +80,7 @@ Another thing policymakers can do is to keep a close eye on the financial system
 
 Advanced models like the DSGE (Dynamic Stochastic General Equilibrium) models have taken the financial accelerator and made it even more detailed. These models look at the whole economy and how different parts, like businesses, households, and banks, all work together. They include the financial accelerator by showing how problems with borrowing and lending can spread and make small economic shocks bigger. For example, if businesses start struggling to pay their debts, these models can show how that might make banks lend less money, which can slow down the whole economy. By adding more details about the financial system and how it interacts with the rest of the economy, these models help economists understand the financial accelerator better and see how it can affect things in different situations.
 
-Another type of advanced model that includes the financial accelerator is the agent-based model. These models look at the economy by focusing on individual businesses and people, called agents, and how they make decisions. They can show how the financial accelerator works by letting these agents borrow and lend money to each other. When some agents start having trouble with their debts, it can spread to others and make the whole economy slow down. Agent-based models are good at showing how small problems can grow into big ones because they can capture the way individual choices can lead to bigger changes in the economy. By using these advanced models, economists can get a clearer picture of how the financial accelerator works and how to manage its effects.
+Another type of advanced model that includes the financial accelerator is the agent-based model. These models look at the economy by focusing on individual businesses and people, called [agents](/wiki/agents), and how they make decisions. They can show how the financial accelerator works by letting these agents borrow and lend money to each other. When some agents start having trouble with their debts, it can spread to others and make the whole economy slow down. Agent-based models are good at showing how small problems can grow into big ones because they can capture the way individual choices can lead to bigger changes in the economy. By using these advanced models, economists can get a clearer picture of how the financial accelerator works and how to manage its effects.
 
 ## What is the relationship between Economic Theory and the Financial Accelerator?
 
@@ -90,14 +90,14 @@ At the core of the financial accelerator is the notion that changes in asset pri
 
 $$
 
-C = f(NW, \text{interest rate}) 
+C = f(NW, \text{[interest rate](/wiki/interest-rate-trading-strategies)}) 
 $$
 
 where $C$ represents credit availability, $NW$ denotes net worth, and the interest rate embodies the financial conditions influencing credit.
 
 This theory was particularly evident during the 2008 Great Recession. As the housing market collapsed, asset values plummeted, which diminished household wealth and tightened credit conditions drastically. This led to a pronounced reduction in consumption and investment, causing severe economic contraction. The feedback loop described by the financial accelerator theory helped explain why the financial shock had such a profound and prolonged impact on the global economy during this period.
 
-Understanding the financial accelerator can assist policymakers in designing interventions to curb extreme economic [volatility](/wiki/volatility-trading-strategies). For example, stabilizing asset prices or ensuring liquidity during downturns can mitigate the adverse feedback loop between declining net worth and tightened credit conditions. Moreover, it underscores the importance of monitoring financial conditions as a precursor to real economic shifts.
+Understanding the financial accelerator can assist policymakers in designing interventions to curb extreme economic [volatility](/wiki/volatility-trading-strategies). For example, stabilizing asset prices or ensuring [liquidity](/wiki/liquidity-risk-premium) during downturns can mitigate the adverse feedback loop between declining net worth and tightened credit conditions. Moreover, it underscores the importance of monitoring financial conditions as a precursor to real economic shifts.
 
 Addressing economic fluctuations through this lens suggests that policies must not only respond to traditional economic indicators but also consider the broader financial landscape's influence on the real economy. Consequently, the financial accelerator theory continues to be pivotal in developing financial regulatory frameworks and macroeconomic stabilization policies. By recognizing and addressing the amplifying effects of financial conditions, policymakers can better manage economic cycles and stability.
 

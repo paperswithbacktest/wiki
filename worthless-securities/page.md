@@ -44,7 +44,7 @@ Another way to spot worthless securities is by keeping an eye on big legal probl
 
 ## What are the tax implications of holding worthless securities?
 
-When you have securities that become worthless, you might be able to claim a loss on your taxes. This can help lower the amount of taxes you have to pay. The loss is usually treated as a capital loss, just like if you sold the security for less than you paid for it. You can use this loss to reduce your taxable income, but there are rules about how much you can use each year. If your loss is more than what you can use in one year, you can carry it over to future years.
+When you have securities that become worthless, you might be able to claim a loss on your taxes. This can help lower the amount of taxes you have to pay. The loss is usually treated as a capital loss, just like if you sold the security for less than you paid for it. You can use this loss to reduce your taxable income, but there are rules about how much you can use each year. If your loss is more than what you can use in one year, you can [carry](/wiki/carry-trading) it over to future years.
 
 It's important to keep good records of when you bought the security and how much you paid for it. You also need to know the date when the security became worthless. The IRS might ask for proof that the security is really worthless, so having documents like financial statements or news articles about the company's bankruptcy can help. Talking to a tax professional can be a good idea because they can help you understand all the rules and make sure you're doing everything right on your tax return.
 
@@ -82,7 +82,7 @@ Another strategy is to spread out investments. Instead of putting all their mone
 
 Advanced financial analysis techniques can help investors predict if a security might become worthless by looking closely at a company's financial health. These techniques include things like ratio analysis, where investors look at numbers like the debt-to-equity ratio or the current ratio to see if the company can pay its debts. They also use cash flow analysis to see if the company is making enough money to keep going. By using these methods, investors can spot early warning signs, like if a company is losing money or has too much debt. This helps them decide if a security is at risk of becoming worthless.
 
-Another way advanced financial analysis helps is by using predictive models and algorithms. These tools can look at a lot of data, like past stock prices, industry trends, and economic indicators, to guess what might happen in the future. For example, machine learning can find patterns that might be hard for people to see. If these patterns show that a company is likely to struggle, investors can be warned that its securities might lose value. By using these advanced techniques, investors can make better choices and avoid securities that might become worthless.
+Another way advanced financial analysis helps is by using predictive models and algorithms. These tools can look at a lot of data, like past stock prices, industry trends, and economic indicators, to guess what might happen in the future. For example, [machine learning](/wiki/machine-learning) can find patterns that might be hard for people to see. If these patterns show that a company is likely to struggle, investors can be warned that its securities might lose value. By using these advanced techniques, investors can make better choices and avoid securities that might become worthless.
 
 ## References & Further Reading
 

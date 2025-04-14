@@ -18,7 +18,7 @@ These options are popular in forex trading. They are called "one-touch" because 
 
 A one-touch option is a type of trading contract where you bet on whether a stock, currency, or another asset will reach a specific price before the option expires. You pay a certain amount of money to buy the option. If the price of the asset touches the target level at any time before the expiration date, you win and get a payout. If the price never reaches the target, you lose the money you paid for the option.
 
-These options are often used in forex trading, where people trade different currencies. They are called "one-touch" because the asset only needs to touch the target price once for you to win. This makes them different from other types of options that might need the price to stay at the target level for a certain time. One-touch options can be a way to make money if you think a big price movement is coming, but they are also risky because you can lose your investment if the price doesn't move as expected.
+These options are often used in [forex](/wiki/forex-system) trading, where people trade different currencies. They are called "one-touch" because the asset only needs to touch the target price once for you to win. This makes them different from other types of options that might need the price to stay at the target level for a certain time. One-touch options can be a way to make money if you think a big price movement is coming, but they are also risky because you can lose your investment if the price doesn't move as expected.
 
 ## What are the key features of a one-touch option?
 

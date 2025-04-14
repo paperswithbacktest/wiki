@@ -18,13 +18,13 @@ When traders see a symmetrical triangle, they often think that the price will br
 
 To identify a symmetrical triangle on a price chart, you need to look for a shape that looks like a triangle with two lines coming together. The top line is made by connecting the highs of the price, and it slopes downward. The bottom line is made by connecting the lows of the price, and it slopes upward. These two lines should get closer and closer to each other until they meet at a point, which is why it's called a symmetrical triangle.
 
-Once you see this shape, you can confirm it's a symmetrical triangle if the price keeps moving between these two lines, getting squeezed into a smaller and smaller range. The volume of trades usually gets lower as the triangle forms, which means fewer people are buying and selling. When the price finally breaks out of the triangle, either up or down, that's when traders pay attention because it might mean a big move is coming.
+Once you see this shape, you can confirm it's a symmetrical triangle if the price keeps moving between these two lines, getting squeezed into a smaller and smaller range. The [volume](/wiki/volume-trading-strategy) of trades usually gets lower as the triangle forms, which means fewer people are buying and selling. When the price finally breaks out of the triangle, either up or down, that's when traders pay attention because it might mean a big move is coming.
 
 ## What are the key characteristics of a symmetrical triangle?
 
 A symmetrical triangle is a pattern on a price chart that looks like a triangle. It has two lines that come together to form a point. The top line is made by connecting the highest prices, and it slopes down. The bottom line is made by connecting the lowest prices, and it slopes up. These two lines get closer and closer until they meet at the point of the triangle. This shows that the price is moving into a smaller and smaller range.
 
-As the triangle forms, the amount of trading, or volume, usually gets lower. This means fewer people are buying and selling the asset. The price keeps moving between the two lines of the triangle, getting squeezed into a tighter space. When the price finally breaks out of the triangle, either going up or down, it can signal a big move is coming. Traders watch this breakout closely because it can help them decide whether to buy or sell.
+As the triangle forms, the amount of trading, or volume, usually gets lower. This means fewer people are buying and selling the asset. The price keeps moving between the two lines of the triangle, getting squeezed into a tighter space. When the price finally breaks out of the triangle, either going up or down, it can signal a big move is coming. Traders watch this [breakout](/wiki/breakout-trading) closely because it can help them decide whether to buy or sell.
 
 ## What does a symmetrical triangle indicate about market sentiment?
 
@@ -48,7 +48,7 @@ To make sure the breakout is real and not just a fake move, some traders wait fo
 
 When trading symmetrical triangles, a common stop-loss strategy is to place your stop-loss just inside the triangle, on the opposite side of the breakout. If the price breaks out to the top, you would place your stop-loss just below the bottom line of the triangle. If the price breaks out to the bottom, you would place your stop-loss just above the top line. This way, if the price moves back into the triangle, your stop-loss will trigger, helping you limit your losses.
 
-Another strategy is to wait for a confirmation of the breakout before entering the trade. This means waiting for the price to close outside the triangle before you buy or sell. If you use this strategy, you can place your stop-loss just inside the triangle, similar to the first strategy, but you might feel more confident because the breakout has been confirmed. Both strategies help you manage risk by setting a clear point where you will exit the trade if it doesn't go as planned.
+Another strategy is to wait for a confirmation of the breakout before entering the trade. This means waiting for the price to close outside the triangle before you buy or sell. If you use this strategy, you can place your stop-loss just inside the triangle, similar to the first strategy, but you might feel more confident because the breakout has been confirmed. Both strategies help you manage risk by setting a clear point where you will [exit](/wiki/exit-strategy) the trade if it doesn't go as planned.
 
 ## How does volume play a role in confirming a symmetrical triangle breakout?
 

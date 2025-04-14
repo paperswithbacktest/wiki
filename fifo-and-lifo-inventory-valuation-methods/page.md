@@ -22,7 +22,7 @@ This method makes sense for things that can go bad or get old, like food or medi
 
 ## What does LIFO stand for and how does it work?
 
-LIFO stands for "Last In, First Out." It's a way businesses handle their inventory by selling the newest items they got first. Think of it like a stack of books. If you keep adding new books on top, with LIFO, you would take the book from the top of the stack to sell or use it before you touch the ones at the bottom.
+LIFO stands for "Last In, First Out." It's a way businesses handle their inventory by selling the newest items they got first. Think of it like a stack of [books](/wiki/algo-trading-books). If you keep adding new books on top, with LIFO, you would take the book from the top of the stack to sell or use it before you touch the ones at the bottom.
 
 This method can be useful when prices are going up because it means the business is selling the more expensive, newer items first. This can lower the profit on paper because the cost of goods sold is higher. But it's not always the best choice for things that can spoil or go out of date, because it might leave the old stuff sitting around for too long.
 

@@ -48,7 +48,7 @@ The magazine is also read in many non-English speaking countries. In Europe, it'
 
 Each issue of The Economist starts with a section called "The World This Week." This part quickly tells readers about the most important news from around the world. It includes short summaries of big events in politics, business, and other areas. After that, there's usually a section called "Leaders," where the magazine gives its opinion on important topics. These articles are short but explain the magazine's view clearly.
 
-The rest of the magazine is divided into different sections. There are parts on international news, business, finance, science and technology, and books and arts. Each section has several articles that go deep into the topics. At the end, there's a section called "The Economist Explains," which helps readers understand complex ideas in a simple way. Every issue also includes a special report that focuses on one big topic in detail.
+The rest of the magazine is divided into different sections. There are parts on international news, business, finance, science and technology, and [books](/wiki/algo-trading-books) and arts. Each section has several articles that go deep into the topics. At the end, there's a section called "The Economist Explains," which helps readers understand complex ideas in a simple way. Every issue also includes a special report that focuses on one big topic in detail.
 
 Overall, The Economist tries to give readers a full picture of what's happening around the world. It mixes quick news updates with long, detailed articles. This helps people understand both the big events and the smaller details that matter.
 

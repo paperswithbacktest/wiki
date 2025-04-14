@@ -66,7 +66,7 @@ Another criticism of RPPP is that it can be hard to measure inflation accurately
 
 ## How does RPPP interact with other economic theories like the interest rate parity?
 
-RPPP and interest rate parity are two different economic theories that help explain how exchange rates work, but they look at different things. RPPP says that if one country has higher inflation than another, its money should get weaker. This is because things in that country are getting more expensive faster. On the other hand, interest rate parity focuses on how the difference in interest rates between two countries affects exchange rates. It says that if one country has higher interest rates, people will want to invest there to get a better return on their money, which should make that country's money stronger.
+RPPP and [interest rate](/wiki/interest-rate-trading-strategies) parity are two different economic theories that help explain how exchange rates work, but they look at different things. RPPP says that if one country has higher inflation than another, its money should get weaker. This is because things in that country are getting more expensive faster. On the other hand, interest rate parity focuses on how the difference in interest rates between two countries affects exchange rates. It says that if one country has higher interest rates, people will want to invest there to get a better return on their money, which should make that country's money stronger.
 
 Even though RPPP and interest rate parity look at different things, they can both affect exchange rates at the same time. For example, if a country has high inflation and high interest rates, RPPP would predict that its money should get weaker because of the inflation, but interest rate parity would predict that it should get stronger because of the high interest rates. In real life, the exchange rate will depend on which of these effects is stronger. So, understanding both theories helps people make better guesses about how exchange rates might change in the future.
 
@@ -111,7 +111,7 @@ The RPPP theory serves as a vital tool for economists and traders aiming to comp
 
 ## How can RPPP be integrated into algo trading?
 
-Integrating Relative Purchasing Power Parity (RPPP) into algorithmic trading entails the incorporation of inflation rate differentials and their consequences on currency valuations into trading algorithms. This process offers the potential to enhance the predictive capability of trading models by considering macroeconomic factors typically overlooked in technical analyses. An understanding of RPPP allows traders to formulate strategies that are more attuned to the economic realities affecting exchange rates.
+Integrating Relative Purchasing Power Parity (RPPP) into [algorithmic trading](/wiki/algorithmic-trading) entails the incorporation of inflation rate differentials and their consequences on currency valuations into trading algorithms. This process offers the potential to enhance the predictive capability of trading models by considering macroeconomic factors typically overlooked in technical analyses. An understanding of RPPP allows traders to formulate strategies that are more attuned to the economic realities affecting exchange rates.
 
 At its core, RPPP posits that exchange rate movements are influenced by the differences in inflation rates between two countries. If one currency has a higher inflation rate relative to another, it tends to depreciate to maintain purchasing power parity. This dynamic can be expressed mathematically as:
 
@@ -148,7 +148,7 @@ def trading_decision(rppp_rate, moving_average):
 
 This hybrid approach enables the generation of more nuanced trading signals, potentially improving profitability by aligning with both short-term market fluctuations and long-term economic trends. Moreover, integrating RPPP allows traders to identify opportunities that purely technical analyses might overlook, thereby crafting a more comprehensive trading strategy.
 
-The success of this integration relies heavily on accurately modeling economic variables and continuously updating algorithms to reflect changing economic conditions. As advancements in data analytics and machine learning continue, the capacity to refine these models for greater market insight is anticipated to grow, offering traders increasingly sophisticated tools for decision-making.
+The success of this integration relies heavily on accurately modeling economic variables and continuously updating algorithms to reflect changing economic conditions. As advancements in data analytics and [machine learning](/wiki/machine-learning) continue, the capacity to refine these models for greater market insight is anticipated to grow, offering traders increasingly sophisticated tools for decision-making.
 
 ## References & Further Reading
 

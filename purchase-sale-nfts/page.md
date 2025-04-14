@@ -46,7 +46,7 @@ Another fee to think about is the listing fee. Some marketplaces might charge yo
 
 ## How can one ensure the security of their NFTs?
 
-To keep your NFTs safe, you need to take good care of your digital wallet. Your wallet is like a safe where you keep your NFTs, so make sure you use a strong password and enable two-factor authentication if you can. Never share your private keys or recovery phrases with anyone. These are like the secret codes to your safe, and if someone else gets them, they can take your NFTs. Also, be careful when connecting your wallet to websites. Only connect to trusted sites like OpenSea or Rarible, and always check the website's address to make sure it's the real one and not a fake site trying to trick you.
+To keep your NFTs safe, you need to take good care of your digital wallet. Your wallet is like a safe where you keep your NFTs, so make sure you use a strong password and enable two-[factor](/wiki/factor-investing) authentication if you can. Never share your private keys or recovery phrases with anyone. These are like the secret codes to your safe, and if someone else gets them, they can take your NFTs. Also, be careful when connecting your wallet to websites. Only connect to trusted sites like OpenSea or Rarible, and always check the website's address to make sure it's the real one and not a fake site trying to trick you.
 
 Another way to keep your NFTs secure is to stay alert and do your research. There are lots of scams out there, so be careful if someone is trying to sell you an NFT that seems too good to be true. Always check the history and the creator of the NFT to make sure it's real. Also, keep your wallet software up to date. Updates can fix security problems that could be used by hackers. If you follow these tips, you'll be doing a lot to keep your NFTs safe and sound.
 
@@ -58,7 +58,7 @@ Also, if you get paid to create an NFT, that money is considered income. You'll 
 
 ## How do royalties work in the NFT marketplace?
 
-When you create an NFT, you can set up royalties. Royalties are like a special rule that says every time someone sells your NFT again, you get a little bit of money from that sale. It's usually a percentage, like 5% or 10%. This means that even if you sell your NFT to someone else, you can still make money from it every time it gets sold again. It's a way for artists and creators to keep earning from their work, even after they've sold it the first time.
+When you create an NFT, you can set up royalties. Royalties are like a special rule that says every time someone sells your NFT again, you get a little bit of money from that sale. It's usually a percentage, like 5% or 10%. This means that even if you sell your NFT to someone else, you can still make money from it every time it gets sold again. It's a way for artists and creators to keep [earning](/wiki/earning-announcement) from their work, even after they've sold it the first time.
 
 Setting up royalties is easy on most NFT marketplaces. When you make your NFT, you just choose the percentage you want to get as a royalty. Then, whenever someone sells your NFT on that marketplace, the platform automatically sends you your royalty payment. This is great for creators because it gives them a way to keep making money from their work, and it's one of the things that makes NFTs different from regular digital files.
 

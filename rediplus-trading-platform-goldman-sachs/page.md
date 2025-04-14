@@ -28,7 +28,7 @@ The platform also has smart tools that help users make good choices about when t
 
 ## How can one access the REDIPlus platform?
 
-To use the REDIPlus platform, you need to be a big investor like a bank or a hedge fund. These big investors can get access to REDIPlus by working with Thomson Reuters, the company that made the platform. They can sign up for the service and get special login details to use the platform.
+To use the REDIPlus platform, you need to be a big investor like a bank or a [hedge fund](/wiki/hedge-fund-trading-strategies). These big investors can get access to REDIPlus by working with Thomson Reuters, the company that made the platform. They can sign up for the service and get special login details to use the platform.
 
 Once you have access, you can log in to REDIPlus using a computer. The platform is designed to be easy to use, so even if you're not a tech expert, you can still use it to trade stocks. It connects to many different stock markets around the world, so you can trade on lots of different markets from one place.
 

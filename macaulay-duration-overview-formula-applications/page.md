@@ -215,7 +215,7 @@ bonds['ModifiedDuration'] = bonds.apply(
 print(bonds)
 ```
 
-This approach highlights the adaptability of duration metrics in developing robust trading strategies that are resilient to market volatility. As trading algorithms continually evolve, the integration of Macaulay Duration and its derivatives into these frameworks enables a more comprehensive risk assessment and enhanced decision-making process.
+This approach highlights the adaptability of duration metrics in developing robust trading strategies that are resilient to market [volatility](/wiki/volatility-trading-strategies). As trading algorithms continually evolve, the integration of Macaulay Duration and its derivatives into these frameworks enables a more comprehensive risk assessment and enhanced decision-making process.
 
 ## References & Further Reading
 

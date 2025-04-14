@@ -40,7 +40,7 @@ Another benefit is that you can earn a little bit of interest on your money. Eve
 
 ## What are the risks associated with the Vanguard Cash Reserves Federal Money Market Fund?
 
-The Vanguard Cash Reserves Federal Money Market Fund is very safe, but there are still some small risks. One risk is that the interest rate might go down. If the interest rate goes down, the fund might not earn as much money, and the interest you get might be less. Another small risk is that the fund might not be able to keep the value of each share at $1. This is very rare, but if it happens, you might lose a little bit of money.
+The Vanguard Cash Reserves Federal Money Market Fund is very safe, but there are still some small risks. One risk is that the [interest rate](/wiki/interest-rate-trading-strategies) might go down. If the interest rate goes down, the fund might not earn as much money, and the interest you get might be less. Another small risk is that the fund might not be able to keep the value of each share at $1. This is very rare, but if it happens, you might lose a little bit of money.
 
 Even though these risks are small, it's good to know about them. The fund tries to keep your money safe by investing in very safe things like government securities. But if something big happens in the economy, it could affect the fund a little bit. Overall, the risks are very low, which is why many people choose this fund to keep their money safe and earn a little bit of interest.
 
@@ -66,7 +66,7 @@ There are no other big fees to worry about with this fund. You don't have to pay
 
 To invest in the Vanguard Cash Reserves Federal Money Market Fund, you first need to open an account with Vanguard. You can do this by going to their website or calling them. Once you have an account, you can put money into the fund. You can do this by transferring money from your bank account or by sending a check. The minimum amount you need to start investing is usually $3,000, but this can change, so it's good to check with Vanguard.
 
-After you have put money into the fund, you can keep track of it through your Vanguard account. You can see how much interest you are earning and how much money you have in the fund. If you need to take your money out, you can do that easily too. Just tell Vanguard you want to take out some money, and they will send it to your bank account. It's a simple way to keep your money safe and earn a little bit of interest.
+After you have put money into the fund, you can keep track of it through your Vanguard account. You can see how much interest you are [earning](/wiki/earning-announcement) and how much money you have in the fund. If you need to take your money out, you can do that easily too. Just tell Vanguard you want to take out some money, and they will send it to your bank account. It's a simple way to keep your money safe and earn a little bit of interest.
 
 ## What are the tax implications of investing in the Vanguard Cash Reserves Federal Money Market Fund?
 

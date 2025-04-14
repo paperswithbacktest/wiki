@@ -18,7 +18,7 @@ Silver ETFs hold physical silver as their underlying asset. This means that the 
 
 A Silver ETF works by holding physical silver, like bars or coins, and then issuing shares that people can buy and sell on a stock exchange. When you buy a share of a Silver ETF, you are not buying actual silver, but you are buying a piece of the fund that owns the silver. The price of the ETF share goes up and down based on the price of silver in the market. This makes it easy for you to invest in silver without having to worry about storing and protecting physical silver.
 
-When you want to sell your shares of the Silver ETF, you can do it easily on the stock exchange during trading hours. The price you get for your shares will depend on the current market price of silver. This gives you a lot of flexibility because you can buy and sell shares whenever you want, just like you would with stocks. Silver ETFs are a popular way for people to invest in silver because they are easy to buy and sell, and they don't require you to handle physical silver.
+When you want to sell your shares of the Silver [ETF](/wiki/etf-trading-strategies), you can do it easily on the stock exchange during trading hours. The price you get for your shares will depend on the current market price of silver. This gives you a lot of flexibility because you can buy and sell shares whenever you want, just like you would with stocks. Silver ETFs are a popular way for people to invest in silver because they are easy to buy and sell, and they don't require you to handle physical silver.
 
 ## What are the benefits of investing in Silver ETFs?
 

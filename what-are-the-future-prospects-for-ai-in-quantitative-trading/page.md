@@ -22,7 +22,7 @@ AI also helps by making trading strategies that can change on their own. If the 
 
 ## What are the basic AI techniques applied in trading?
 
-AI techniques in trading include machine learning, which is a way for computers to learn from data. Traders use machine learning to look at past stock prices, news, and other information to find patterns. These patterns help predict what might happen next in the market. For example, a machine learning model might learn that certain news stories often lead to a drop in stock prices, so it can warn traders when similar news comes out.
+AI techniques in trading include [machine learning](/wiki/machine-learning), which is a way for computers to learn from data. Traders use machine learning to look at past stock prices, news, and other information to find patterns. These patterns help predict what might happen next in the market. For example, a machine learning model might learn that certain news stories often lead to a drop in stock prices, so it can warn traders when similar news comes out.
 
 Another technique is neural networks, which are like the brain's way of thinking. Neural networks can handle lots of different types of data at once, like numbers, text, and even pictures. They are good at finding complex patterns that are hard for humans to see. Traders use neural networks to make better predictions about the market and to create trading strategies that can change on their own when the market changes.
 
@@ -30,7 +30,7 @@ A third technique is natural language processing (NLP), which helps computers un
 
 ## What are the potential benefits of using AI in quantitative trading?
 
-Using AI in quantitative trading can help traders make better decisions. AI can look at a lot of data very quickly, like stock prices, news, and social media. This helps AI find patterns that humans might miss. By finding these patterns, AI can predict what might happen next in the market. This means traders can buy or sell at the best times, which can lead to making more money.
+Using AI in [quantitative trading](/wiki/quantitative-trading) can help traders make better decisions. AI can look at a lot of data very quickly, like stock prices, news, and social media. This helps AI find patterns that humans might miss. By finding these patterns, AI can predict what might happen next in the market. This means traders can buy or sell at the best times, which can lead to making more money.
 
 AI also makes trading more efficient. It can handle many trades at the same time, something a person can't do as well. AI can also change trading strategies on its own if the market changes. This is helpful because markets can move fast, and AI can react quickly. This can lead to better results for traders and can save them time and effort.
 
@@ -64,11 +64,11 @@ Another ethical concern is the impact of AI on jobs. As AI gets better at tradin
 
 AI is already changing high-frequency trading by making it faster and smarter. High-frequency trading is all about making a lot of trades very quickly, often in milliseconds. AI can help by looking at huge amounts of data in real-time, like stock prices and news, to find the best times to buy and sell. This means AI can make trades even faster and more accurately than before. As AI gets better, it might be able to predict market changes even more quickly, making high-frequency trading even more effective.
 
-In the future, AI might also make high-frequency trading more complex. Right now, AI can learn from past trades and get better over time. But as AI evolves, it might start to use more advanced techniques, like deep learning, to understand the market in new ways. This could lead to new trading strategies that are very hard for humans to understand or compete with. As a result, high-frequency trading could become even more dominated by AI, changing the way the market works and possibly making it harder for regular traders to keep up.
+In the future, AI might also make high-frequency trading more complex. Right now, AI can learn from past trades and get better over time. But as AI evolves, it might start to use more advanced techniques, like [deep learning](/wiki/deep-learning), to understand the market in new ways. This could lead to new trading strategies that are very hard for humans to understand or compete with. As a result, high-frequency trading could become even more dominated by AI, changing the way the market works and possibly making it harder for regular traders to keep up.
 
 ## What advanced AI models are being researched for future trading applications?
 
-Researchers are looking into advanced AI models like deep reinforcement learning for future trading applications. Deep reinforcement learning is a way for AI to learn by doing. It tries different trading strategies and learns from the results, getting better over time. This could help AI make smarter decisions in high-frequency trading, where speed and accuracy are very important. By using deep reinforcement learning, AI might be able to find new patterns and strategies that are too complex for current models.
+Researchers are looking into advanced AI models like deep [reinforcement learning](/wiki/reinforcement-learning) for future trading applications. Deep reinforcement learning is a way for AI to learn by doing. It tries different trading strategies and learns from the results, getting better over time. This could help AI make smarter decisions in high-frequency trading, where speed and accuracy are very important. By using deep reinforcement learning, AI might be able to find new patterns and strategies that are too complex for current models.
 
 Another model being researched is called generative adversarial networks (GANs). GANs use two AI models that work together to create and check trading strategies. One model makes up new strategies, and the other model tries to find flaws in them. This back-and-forth helps the AI come up with better and better strategies. GANs could be useful in trading because they can create strategies that are good at handling different market conditions, making trading more flexible and effective.
 
@@ -76,7 +76,7 @@ Another model being researched is called generative adversarial networks (GANs).
 
 AI can make the market more efficient by looking at a lot of data very quickly. It can find patterns and trends that humans might miss. This helps traders make better decisions about when to buy or sell, which can make the market work better. When traders use AI, they can react to new information faster, which means prices can adjust more quickly to what's happening in the market. This can lead to prices that are more accurate and fair.
 
-AI can also affect liquidity, which is how easy it is to buy or sell something in the market. When AI is used in trading, it can handle a lot of trades at the same time. This can make the market more liquid because there are more trades happening. More trades mean it's easier for people to buy and sell without big changes in price. But, if too many traders use AI in the same way, it might make the market less liquid because everyone is trying to do the same thing at the same time.
+AI can also affect [liquidity](/wiki/liquidity-risk-premium), which is how easy it is to buy or sell something in the market. When AI is used in trading, it can handle a lot of trades at the same time. This can make the market more liquid because there are more trades happening. More trades mean it's easier for people to buy and sell without big changes in price. But, if too many traders use AI in the same way, it might make the market less liquid because everyone is trying to do the same thing at the same time.
 
 ## What are the regulatory implications of AI in quantitative trading?
 

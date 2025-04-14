@@ -76,7 +76,7 @@ Corporate actions, like stock splits or mergers, can also affect your short sale
 
 ## What advanced strategies can be used to optimize returns on short sales?
 
-One advanced strategy to optimize returns on short sales is called "pair trading." This means you short sell one stock while buying another stock at the same time. You pick two stocks that usually move in opposite directions. By doing this, you can make money if the stock you short sell goes down, and you might even make more money if the stock you buy goes up. This can help balance out your risks and maybe make you more money.
+One advanced strategy to optimize returns on short sales is called "[pair trading](/wiki/pair-trading)." This means you short sell one stock while buying another stock at the same time. You pick two stocks that usually move in opposite directions. By doing this, you can make money if the stock you short sell goes down, and you might even make more money if the stock you buy goes up. This can help balance out your risks and maybe make you more money.
 
 Another strategy is to use options to protect yourself. Options are like insurance for your short sale. You can buy a "call option" that gives you the right to buy the stock back at a set price. If the stock price goes up a lot, you can use the call option to buy it back at a lower price than the market price. This can limit how much money you lose. Using options like this can make short selling less risky, but it also costs money, so you have to think about if it's worth it.
 

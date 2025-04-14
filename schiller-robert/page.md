@@ -22,7 +22,7 @@ After getting his Ph.D., Shiller started working as an economist. He joined Yale
 
 ## What are some of Robert Schiller's most notable works?
 
-Robert Shiller has written many important books. One of his most famous books is "Irrational Exuberance." In this book, Shiller talks about how people's feelings can make stock and housing prices go up and down a lot. He wrote the first edition in 2000, and it became very popular because it warned about the high prices in the stock market at that time. Later, he updated the book to talk about the housing market too. Many people think this book helped them understand why the big financial crisis happened in 2008.
+Robert Shiller has written many important [books](/wiki/algo-trading-books). One of his most famous books is "Irrational Exuberance." In this book, Shiller talks about how people's feelings can make stock and housing prices go up and down a lot. He wrote the first edition in 2000, and it became very popular because it warned about the high prices in the stock market at that time. Later, he updated the book to talk about the housing market too. Many people think this book helped them understand why the big financial crisis happened in 2008.
 
 Another important book by Shiller is "The Subprime Solution." In this book, he explains what caused the subprime mortgage crisis and suggests ways to fix it. He thinks that better financial rules and new ways to help people buy homes safely could stop similar problems in the future. Shiller also wrote "Finance and the Good Society," where he talks about how finance can help make the world a better place if it is used the right way. These books show how Shiller uses his knowledge to help people understand and improve the economy.
 

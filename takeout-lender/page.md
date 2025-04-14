@@ -28,7 +28,7 @@ The takeout lender's promise to provide the permanent loan also helps the constr
 
 ## What are the typical terms and conditions of a takeout loan?
 
-A takeout loan usually has a long time to pay it back, often 10 to 30 years. The interest rate can be fixed, which means it stays the same the whole time, or it can be adjustable, which means it can go up or down. The loan amount depends on how much the finished building is worth and how much money the developer needs. The takeout lender will want to see that the building is done and meets certain standards before they give the loan.
+A takeout loan usually has a long time to pay it back, often 10 to 30 years. The [interest rate](/wiki/interest-rate-trading-strategies) can be fixed, which means it stays the same the whole time, or it can be adjustable, which means it can go up or down. The loan amount depends on how much the finished building is worth and how much money the developer needs. The takeout lender will want to see that the building is done and meets certain standards before they give the loan.
 
 The takeout lender will also have some rules the developer has to follow. They might need to keep the building in good shape and make sure it's being used the right way. The lender might also want to see regular reports on how the building is doing and how much money it's making. If the developer doesn't follow these rules, the lender could say the loan is due right away or take other actions.
 

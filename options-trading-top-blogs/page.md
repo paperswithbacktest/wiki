@@ -22,7 +22,7 @@ Once you feel ready, you'll need to open a brokerage account that allows options
 
 ## What are the best resources for learning the basics of options trading?
 
-If you want to learn the basics of options trading, a great place to start is with books. "Options as a Strategic Investment" by Lawrence G. McMillan is a popular choice because it explains things clearly and covers a lot of ground. Another good book is "The Options Playbook" by Brian Overby and the Options Industry Council. This book uses simple language and has lots of examples to help you understand how options work. You can also find helpful videos on YouTube. Channels like tastytrade and Option Alpha make learning fun and easy with their short, informative videos.
+If you want to learn the basics of options trading, a great place to start is with [books](/wiki/algo-trading-books). "Options as a Strategic Investment" by Lawrence G. McMillan is a popular choice because it explains things clearly and covers a lot of ground. Another good book is "The Options Playbook" by Brian Overby and the Options Industry Council. This book uses simple language and has lots of examples to help you understand how options work. You can also find helpful videos on YouTube. Channels like tastytrade and Option Alpha make learning fun and easy with their short, informative videos.
 
 Another excellent resource is online courses. Websites like Coursera, Udemy, and Investopedia offer courses on options trading that you can take at your own pace. These courses often include quizzes and exercises to help you practice what you've learned. If you prefer to learn by doing, many brokers offer virtual trading accounts where you can practice trading options with fake money. This is a safe way to get a feel for how options trading works without risking real money. Remember, the key is to take your time and make sure you understand the basics before you start trading with real money.
 
@@ -82,7 +82,7 @@ These blogs also talk about how more people are using options to protect their i
 
 ## What is the process of demystifying Black-Scholes and the Greeks?
 
-The Black-Scholes model is pivotal in the field of options trading, offering a quantitative framework for determining the theoretical price of options. This model essentially employs several key variables, including the price of the underlying asset, the strike price, time until expiration, risk-free interest rates, and the implied volatility. The formula for the Black-Scholes model is commonly expressed as follows for a call option:
+The Black-Scholes model is pivotal in the field of options trading, offering a quantitative framework for determining the theoretical price of options. This model essentially employs several key variables, including the price of the underlying asset, the strike price, time until expiration, risk-free interest rates, and the implied [volatility](/wiki/volatility-trading-strategies). The formula for the Black-Scholes model is commonly expressed as follows for a call option:
 
 $$
 C = S_0 N(d_1) - X e^{-rt} N(d_2)
@@ -125,7 +125,7 @@ def delta(S, X, T, r, sigma, option_type="call"):
 
 **Vega** is not represented as a Greek letter in the Greek alphabet, but it measures sensitivity to volatility. An option with high Vega is more sensitive to changes in volatility, which can be a critical factor in markets with fluctuating volatility levels.
 
-Understanding these Greeks is crucial when constructing algorithmic trading strategies as they provide the metrics required for dynamically hedging positions and managing exposure to various risk factors. For example, using Delta hedging, traders can create a neutral portfolio by offsetting an option position with an appropriate quantity of the underlying stock, stabilizing the portfolio's value against small price movements of the underlying asset. 
+Understanding these Greeks is crucial when constructing [algorithmic trading](/wiki/algorithmic-trading) strategies as they provide the metrics required for dynamically hedging positions and managing exposure to various risk factors. For example, using Delta hedging, traders can create a neutral portfolio by offsetting an option position with an appropriate quantity of the underlying stock, stabilizing the portfolio's value against small price movements of the underlying asset. 
 
 Algorithmic trading systems leverage these insights, automating the calculation and response to changes in these parameters to optimize strategies and manage risks more effectively in a fast-paced trading environment. By incorporating these metrics, traders can enhance the precision and robustness of their trading algorithms, ensuring that their strategies align with their risk appetite and market expectations.
 

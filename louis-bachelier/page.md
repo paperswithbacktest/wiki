@@ -70,7 +70,7 @@ Albert Einstein also used similar ideas to Bachelier's in his work on Brownian m
 
 ## What other fields, besides finance, have been impacted by Bachelier's contributions?
 
-Louis Bachelier's work on random walks and probability has also influenced other fields like physics and statistics. In physics, his ideas about random movements helped scientists understand how tiny particles move through a fluid. This idea, called Brownian motion, was later used by Albert Einstein in his work. Bachelier's math showed that randomness is important in the natural world, not just in the stock market.
+Louis Bachelier's work on random walks and probability has also influenced other fields like physics and [statistics](/wiki/bayesian-statistics). In physics, his ideas about random movements helped scientists understand how tiny particles move through a fluid. This idea, called Brownian motion, was later used by Albert Einstein in his work. Bachelier's math showed that randomness is important in the natural world, not just in the stock market.
 
 In statistics, Bachelier's use of the normal distribution and stochastic calculus has been important for understanding how data spreads out. His work helped statisticians develop better ways to model and predict random events. Even though Bachelier's ideas were not well-known at first, they have become key tools in many areas of science and math.
 

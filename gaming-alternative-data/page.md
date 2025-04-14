@@ -18,7 +18,7 @@ For example, by looking at social media, a company might see that players are ta
 
 Alternative data in the gaming industry is collected from many different places. Companies look at what people say on social media like Twitter and Instagram. They also watch what gamers do on streaming sites like Twitch and YouTube. This helps them see what games are popular and what players are talking about. Sometimes, they use special tools to gather this information automatically, making it easier to keep track of a lot of data.
 
-Another way to collect alternative data is by looking at in-game behavior. Game developers can see how players move through the game, what they spend their time on, and what they buy. This information comes directly from the game itself and can tell developers a lot about what players enjoy or find difficult. By studying this data, companies can make their games better and more fun for everyone.
+Another way to collect [alternative data](/wiki/best-alternative-data) is by looking at in-game behavior. Game developers can see how players move through the game, what they spend their time on, and what they buy. This information comes directly from the game itself and can tell developers a lot about what players enjoy or find difficult. By studying this data, companies can make their games better and more fun for everyone.
 
 Overall, alternative data helps gaming companies understand their players better. They combine information from social media, streaming platforms, and in-game actions to get a full picture of what gamers want. This helps them make smarter choices about how to develop and improve their games.
 
@@ -74,7 +74,7 @@ In-game behavior also gives companies clues about what might be popular in the f
 
 ## What advanced techniques are used to process and interpret gaming alternative data?
 
-To process and interpret gaming alternative data, companies use special computer programs called machine learning algorithms. These programs can look at lots of information from social media, streaming sites, and in-game actions very quickly. They can find patterns and trends that people might miss. For example, a machine learning program can read thousands of social media posts to see what players like or don't like about a game. This helps companies understand what is popular and what might become popular soon.
+To process and interpret gaming alternative data, companies use special computer programs called [machine learning](/wiki/machine-learning) algorithms. These programs can look at lots of information from social media, streaming sites, and in-game actions very quickly. They can find patterns and trends that people might miss. For example, a machine learning program can read thousands of social media posts to see what players like or don't like about a game. This helps companies understand what is popular and what might become popular soon.
 
 Another technique is called natural language processing (NLP). This helps computers understand what people are saying on social media and streaming sites. It can tell if players are happy, sad, or angry about a game. By using NLP, companies can learn a lot about how players feel about their games. This information helps them make better games that players will enjoy more. Both machine learning and NLP make it easier for companies to use alternative data to improve their games and stay ahead of trends.
 

@@ -23,7 +23,7 @@ On the other hand, a False Positive happens when the model says something is the
 
 Imagine you're at the airport and you go through a security scanner to check for dangerous items. The scanner is supposed to beep if it finds something dangerous, like a weapon. But sometimes, the scanner might miss a small knife that someone is carrying. If the scanner doesn't beep and lets the person through even though they have a knife, that's a False Negative. The scanner said there was no danger when there actually was.
 
-This kind of mistake can be very serious because it means a dangerous item got through security without being noticed. In machine learning, we use something called a confusion matrix to keep track of these mistakes. A False Negative in this case would be recorded in the confusion matrix as a situation where the model predicted "no danger" but the actual situation was "danger."
+This kind of mistake can be very serious because it means a dangerous item got through security without being noticed. In [machine learning](/wiki/machine-learning), we use something called a confusion matrix to keep track of these mistakes. A False Negative in this case would be recorded in the confusion matrix as a situation where the model predicted "no danger" but the actual situation was "danger."
 
 ## What are the potential consequences of a False Negative in medical diagnosis?
 

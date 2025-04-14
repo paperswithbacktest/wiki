@@ -82,7 +82,7 @@ ECNs also have to follow rules, but their rules are a bit different because they
 
 ## What is the role of market makers in understanding the market?
 
-Market makers are specialized entities in financial markets, typically constituted by banks or brokerage firms, whose primary function is to provide liquidity by establishing bid and ask prices for various financial instruments. By consistently quoting buy and sell prices, market makers ensure a ready market for these securities, thereby facilitating continuous trading and stabilizing the financial markets.
+Market makers are specialized entities in financial markets, typically constituted by banks or brokerage firms, whose primary function is to provide [liquidity](/wiki/liquidity-risk-premium) by establishing bid and ask prices for various financial instruments. By consistently quoting buy and sell prices, market makers ensure a ready market for these securities, thereby facilitating continuous trading and stabilizing the financial markets.
 
 These entities perform an intermediary role by buying securities from sellers and later selling them to buyers. This two-sided quoting process allows market makers to profit from the bid-ask spread—the difference between the prices at which market makers are willing to buy (bid) and sell (ask). The spread is essentially the compensation they receive for the risk they incur by holding inventory and for providing the service of liquidity to the market.
 

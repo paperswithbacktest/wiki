@@ -92,7 +92,7 @@ $$
 
 where $P_i$ is the price at time $i$ and $n$ is the number of time periods.
 
-Foreign issuers can implement these strategies to not only execute large volumes of trades efficiently but also to minimize market impact and transaction costs. The integration of algorithmic approaches can enhance liquidity availability and provide deeper market insights, allowing companies to react swiftly to market fluctuations.
+Foreign issuers can implement these strategies to not only execute large volumes of trades efficiently but also to minimize market impact and transaction costs. The integration of algorithmic approaches can enhance [liquidity](/wiki/liquidity-risk-premium) availability and provide deeper market insights, allowing companies to react swiftly to market fluctuations.
 
 Moreover, automation in trading enables issuers to process vast amounts of data rapidly, providing actionable insights that were previously unattainable through manual methods. This capability is critical in the modern financial landscape, where data-driven decisions often determine the success of capital-raising activities.
 

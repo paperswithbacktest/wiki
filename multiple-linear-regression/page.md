@@ -22,7 +22,7 @@ On the other hand, multiple linear regression uses more than one thing to make p
 
 ## What are the key assumptions of multiple linear regression?
 
-Multiple linear regression works best when certain things are true about your data. One big thing is that the relationship between your factors and what you're trying to predict should be a straight line. This means that if you draw a line to show how each factor affects your prediction, that line should be straight, not curved. Also, the factors you use should not be too closely related to each other. If they are, it can mess up your predictions and make it hard to tell which factor is really important.
+Multiple linear regression works best when certain things are true about your data. One big thing is that the relationship between your factors and what you're trying to predict should be a straight line. This means that if you draw a line to show how each [factor](/wiki/factor-investing) affects your prediction, that line should be straight, not curved. Also, the factors you use should not be too closely related to each other. If they are, it can mess up your predictions and make it hard to tell which factor is really important.
 
 Another important thing is that the errors, or the difference between your prediction and the actual result, should be spread out evenly. This means that if you look at all the errors, they should be randomly scattered around zero, not bunched up in one place or getting bigger as your prediction gets bigger. Also, these errors should follow a normal pattern, kind of like a bell curve. If these things are true, your multiple linear regression model will be more reliable and give you better predictions.
 
@@ -46,7 +46,7 @@ Once you've identified potential multicollinearity, you can take steps to fix it
 
 ## What are some common methods for selecting variables in multiple linear regression?
 
-One common method for picking which variables to use in multiple linear regression is called stepwise selection. This method starts with no variables and adds them one by one, checking if each new variable makes the model better at predicting. If a variable doesn't help much, it might be taken out. This way, you end up with a model that includes only the most important variables, making your predictions more accurate and easier to understand.
+One common method for [picking](/wiki/asset-class-picking) which variables to use in multiple linear regression is called stepwise selection. This method starts with no variables and adds them one by one, checking if each new variable makes the model better at predicting. If a variable doesn't help much, it might be taken out. This way, you end up with a model that includes only the most important variables, making your predictions more accurate and easier to understand.
 
 Another method is called forward selection, which is a bit like stepwise but simpler. It begins with no variables and adds them one at a time, always choosing the one that improves the model the most. Once a variable is in, it stays in. This method can be quicker than stepwise selection but might miss out on some important relationships between variables.
 

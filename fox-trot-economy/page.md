@@ -82,7 +82,7 @@ Another thing that might change the Fox-Trot Economy is how the world works toge
 
 ## What is the relationship between Economic Theory and the Role of Volatility?
 
-Economic theories provide significant insight into how varying growth rates influence investment decisions and market confidence. In a fox-trot economy, where economic growth fluctuates between rapid and slow expansion, the concept of volatility becomes a central [factor](/wiki/factor-investing) affecting various financial metrics.
+Economic theories provide significant insight into how varying growth rates influence investment decisions and market confidence. In a fox-trot economy, where economic growth fluctuates between rapid and slow expansion, the concept of [volatility](/wiki/volatility-trading-strategies) becomes a central [factor](/wiki/factor-investing) affecting various financial metrics.
 
 Volatility is a measure of the degree of variation in the price of a financial instrument over time. In the context of a fox-trot economy, it directly impacts asset returns, borrowing costs, and forecasts of corporate earnings. High volatility can lead to increased uncertainty among investors, causing shifts in investment choices as they seek to minimize risk and optimize returns. This uncertainty can lead to a rise in the cost of borrowing as lenders demand higher interest rates to compensate for the increased risk. Additionally, corporate earnings forecasts become less reliable in a highly volatile environment, complicating strategic planning and investment decisions for businesses.
 

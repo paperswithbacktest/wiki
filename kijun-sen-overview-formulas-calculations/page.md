@@ -52,7 +52,7 @@ Traders use the Kijun-Sen to make decisions about buying and selling. For exampl
 
 ## What are some common trading strategies involving Kijun-Sen?
 
-One common trading strategy involving Kijun-Sen is the Kijun-Sen crossover strategy. In this strategy, traders watch for the price to cross above or below the Kijun-Sen. When the price moves above the Kijun-Sen, it might be a good time to buy because it suggests the market is turning bullish. On the other hand, when the price drops below the Kijun-Sen, it might be a good time to sell because it indicates the market is turning bearish. Traders use this crossover as a signal to enter or exit trades, helping them catch the start of new trends.
+One common trading strategy involving Kijun-Sen is the Kijun-Sen crossover strategy. In this strategy, traders watch for the price to cross above or below the Kijun-Sen. When the price moves above the Kijun-Sen, it might be a good time to buy because it suggests the market is turning bullish. On the other hand, when the price drops below the Kijun-Sen, it might be a good time to sell because it indicates the market is turning bearish. Traders use this crossover as a signal to enter or [exit](/wiki/exit-strategy) trades, helping them catch the start of new trends.
 
 Another strategy is using Kijun-Sen as a support and resistance level. If the price is above the Kijun-Sen and it touches it, traders might see it as a support level and look to buy, expecting the price to bounce back up. If the price is below the Kijun-Sen and it touches it, traders might see it as a resistance level and look to sell, expecting the price to drop back down. This strategy helps traders find good entry and exit points by watching how the price reacts to the Kijun-Sen.
 
@@ -80,7 +80,7 @@ Another way to optimize Kijun-Sen for different instruments is to use it along w
 
 Imagine a trader named Sarah who trades stocks. She uses the Kijun-Sen as part of her trading strategy. One day, she notices that the price of a stock she's watching is going down and it touches the Kijun-Sen line. Sarah sees this as a support level, so she decides to buy the stock, expecting the price to bounce back up. A few days later, the price does go up, and Sarah sells the stock for a profit. By using the Kijun-Sen as a guide, Sarah was able to make a good trading decision.
 
-In another case, a trader named John uses Kijun-Sen along with the Tenkan-Sen to trade forex. He sees that the Tenkan-Sen line crosses above the Kijun-Sen line, which is a bullish signal. John decides to buy the currency pair he's watching. Over the next few weeks, the price keeps going up, and John sells at a higher price, making a profit. By watching the interaction between the Kijun-Sen and the Tenkan-Sen, John was able to catch the start of a new trend and make a successful trade.
+In another case, a trader named John uses Kijun-Sen along with the Tenkan-Sen to trade [forex](/wiki/forex-system). He sees that the Tenkan-Sen line crosses above the Kijun-Sen line, which is a bullish signal. John decides to buy the currency pair he's watching. Over the next few weeks, the price keeps going up, and John sells at a higher price, making a profit. By watching the interaction between the Kijun-Sen and the Tenkan-Sen, John was able to catch the start of a new trend and make a successful trade.
 
 ## What is the Ichimoku Kinko Hyo?
 
@@ -166,7 +166,7 @@ For instance, one might consider:
 
 Implementing these alterations requires an iterative process of testing and re-evaluation to enhance the algorithm's robustness. Advanced strategies may also incorporate [machine learning](/wiki/machine-learning) techniques to dynamically adapt to changing market conditions.
 
-Python, being a preferred language in algorithmic trading, offers robust libraries such as pandas and NumPy for data manipulation and backtesting frameworks like Backtrader and pyalgotrade. Below is a simple illustration of a backtesting setup using Python:
+Python, being a preferred language in [algorithmic trading](/wiki/algorithmic-trading), offers robust libraries such as pandas and NumPy for data manipulation and backtesting frameworks like Backtrader and pyalgotrade. Below is a simple illustration of a backtesting setup using Python:
 
 ```python
 import backtrader as bt

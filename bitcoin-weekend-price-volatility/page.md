@@ -30,7 +30,7 @@ Sometimes, the price might not change much over the weekend if nothing big is ha
 
 One big reason Bitcoin's price can jump around a lot over weekends is because fewer people are trading. During the week, lots of people buy and sell Bitcoin, which helps keep the price more steady. But on weekends, many people are not at work and might not be watching the market as closely. This means that if someone wants to buy or sell a lot of Bitcoin, it can make the price move more than usual because there are not as many other people trading to balance it out.
 
-Another factor is news and social media. If something important happens over the weekend, like a country saying they will start using Bitcoin or a big company announcing they will accept it, this news can spread quickly on social media. Because fewer people are trading, this news can have a bigger effect on the price. People might get excited or worried and start buying or selling more, which can make the price go up and down a lot.
+Another [factor](/wiki/factor-investing) is news and social media. If something important happens over the weekend, like a country saying they will start using Bitcoin or a big company announcing they will accept it, this news can spread quickly on social media. Because fewer people are trading, this news can have a bigger effect on the price. People might get excited or worried and start buying or selling more, which can make the price go up and down a lot.
 
 ## Can you explain the concept of 'weekend effect' in Bitcoin trading?
 

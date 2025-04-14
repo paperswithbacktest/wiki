@@ -18,7 +18,7 @@ Sometimes, premining is done to help fund the development of the cryptocurrency.
 
 Premining happens when the people who make a new cryptocurrency start mining coins before they let everyone else know about it. They use their own computers to mine these coins before the cryptocurrency goes live on the internet. This means they can get a big chunk of the total number of coins that will ever exist, sometimes even before anyone else can start mining.
 
-The reason they do this can be to help pay for things like making the cryptocurrency better or telling people about it. They might sell these coins or give them to people who helped them early on. But, some people don't like premining because it can seem unfair. It's like the creators are giving themselves a head start, which might make the cryptocurrency less fair for everyone else who wants to mine it later.
+The reason they do this can be to help pay for things like making the [cryptocurrency](/wiki/cryptocurrency) better or telling people about it. They might sell these coins or give them to people who helped them early on. But, some people don't like premining because it can seem unfair. It's like the creators are giving themselves a head start, which might make the cryptocurrency less fair for everyone else who wants to mine it later.
 
 ## Why do some cryptocurrencies engage in premining?
 

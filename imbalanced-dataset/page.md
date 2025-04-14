@@ -27,7 +27,7 @@ Sometimes, imbalance comes from the way we label data. If it's hard to tell what
 
 ## How can imbalanced datasets affect model performance?
 
-Imbalanced datasets can make machine learning models perform badly because they might focus too much on the common cases and ignore the rare ones. For example, if you're trying to predict whether a credit card transaction is fraud or not, and most transactions are not fraud, the model might learn to always say "not fraud" because that's what it sees most often. This means the model will be good at predicting normal transactions but bad at catching the few fraud ones, which can be a big problem if you need to stop fraud.
+Imbalanced datasets can make [machine learning](/wiki/machine-learning) models perform badly because they might focus too much on the common cases and ignore the rare ones. For example, if you're trying to predict whether a credit card transaction is fraud or not, and most transactions are not fraud, the model might learn to always say "not fraud" because that's what it sees most often. This means the model will be good at predicting normal transactions but bad at catching the few fraud ones, which can be a big problem if you need to stop fraud.
 
 To fix this, people use different methods like making more copies of the rare cases (oversampling) or removing some of the common cases (undersampling). They might also use special math tricks or change how the model learns to make sure it pays attention to all cases, not just the common ones. By doing this, the model can learn to predict both common and rare cases better, making it more useful in real life where catching those rare but important events, like fraud or rare diseases, is crucial.
 

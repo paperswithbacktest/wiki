@@ -18,7 +18,7 @@ However, growth stocks can be riskier than other types of stocks. Since investor
 
 Value stocks are shares in companies that are thought to be priced lower than they should be. Investors believe these stocks are a good deal because they are cheaper compared to what the company is really worth. These companies might be well-known and have been around for a long time. They often pay dividends to their shareholders, which is money paid out from the company's profits.
 
-Even though value stocks can be a good buy, they come with risks too. Sometimes, a stock is cheap for a reason, like the company is not doing well or the industry is struggling. If the company doesn't improve, the stock price might stay low or even go down more. But if the company does get better, the stock price can go up a lot, giving investors a good return on their money. So, value stocks can be a smart choice if you're looking for bargains, but you need to do your homework to make sure you're picking the right ones.
+Even though value stocks can be a good buy, they come with risks too. Sometimes, a stock is cheap for a reason, like the company is not doing well or the industry is struggling. If the company doesn't improve, the stock price might stay low or even go down more. But if the company does get better, the stock price can go up a lot, giving investors a good return on their money. So, value stocks can be a smart choice if you're looking for bargains, but you need to do your homework to make sure you're [picking](/wiki/asset-class-picking) the right ones.
 
 ## How do growth stocks and value stocks differ?
 
@@ -26,7 +26,7 @@ Growth stocks and value stocks are two different types of stocks that investors 
 
 On the other hand, value stocks are from companies that people think are priced too low. Investors see these stocks as a good deal because they believe the company is worth more than the current stock price. These companies might be older and well-known, and they often pay dividends to their shareholders. The risk with value stocks is that they might be cheap for a reason, like the company is not doing well. But if the company does improve, the stock price can go up a lot, giving investors a good return.
 
-In simple terms, growth stocks are about betting on a company's future growth, while value stocks are about finding bargains in the market. Both types of stocks can offer good returns, but they also come with different levels of risk. Growth stocks can be more volatile because their prices can change a lot based on whether the company meets its growth expectations. Value stocks might be less risky if you pick the right ones, but you need to do a lot of research to make sure the company will actually get better.
+In simple terms, [growth stocks](/wiki/growth-stocks) are about betting on a company's future growth, while value stocks are about finding bargains in the market. Both types of stocks can offer good returns, but they also come with different levels of risk. Growth stocks can be more volatile because their prices can change a lot based on whether the company meets its growth expectations. Value stocks might be less risky if you pick the right ones, but you need to do a lot of research to make sure the company will actually get better.
 
 ## What are the key characteristics of growth stocks?
 
@@ -90,7 +90,7 @@ $$
 \text{P/E Ratio} = \frac{\text{Market Value per Share}}{\text{Earnings per Share (EPS)}}
 $$
 
-Growth stocks, traditionally thriving in bull markets, often appeal to investors willing to accept higher volatility for potentially higher returns. They are commonly found in dynamic sectors such as technology and healthcare, where innovation drives exponential growth. However, their performance can be highly volatile, driven by market sentiment and future earnings expectations.
+Growth stocks, traditionally thriving in bull markets, often appeal to investors willing to accept higher [volatility](/wiki/volatility-trading-strategies) for potentially higher returns. They are commonly found in dynamic sectors such as technology and healthcare, where innovation drives exponential growth. However, their performance can be highly volatile, driven by market sentiment and future earnings expectations.
 
 ## References & Further Reading
 

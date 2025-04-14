@@ -50,7 +50,7 @@ But it's not just about following the crowd. Sometimes, the best above-market op
 
 One company that has often done better than the market is Apple. They make popular products like the iPhone and MacBook. People love their stuff, so Apple's stock price has gone up a lot over the years. Even when the whole market goes down, Apple sometimes keeps doing well because they have loyal customers and keep coming out with new things people want to buy.
 
-Another company that has beaten the market a lot is Amazon. They started with just selling books online, but now they sell everything and have services like Amazon Prime. Their stock has grown a lot because they keep finding new ways to make money, like with their cloud computing service, AWS. Even when the economy is not doing great, Amazon often does better than other companies because people still shop online a lot.
+Another company that has beaten the market a lot is Amazon. They started with just selling [books](/wiki/algo-trading-books) online, but now they sell everything and have services like Amazon Prime. Their stock has grown a lot because they keep finding new ways to make money, like with their cloud computing service, AWS. Even when the economy is not doing great, Amazon often does better than other companies because people still shop online a lot.
 
 ## How do investors typically measure above-market performance?
 
@@ -66,7 +66,7 @@ Another risk is that it can be hard to beat the market. A lot of smart people an
 
 ## How does sector analysis contribute to understanding above-market dynamics?
 
-Sector analysis helps investors understand above-market dynamics by looking at how different parts of the economy are doing. Each sector, like technology, healthcare, or energy, can have its own trends and performance. By studying these sectors, investors can see which ones are growing faster than the overall market. For example, if the technology sector is doing really well because of new inventions, stocks in that sector might go up more than the market average. This can help investors find opportunities to make more money by picking the right sectors to invest in.
+Sector analysis helps investors understand above-market dynamics by looking at how different parts of the economy are doing. Each sector, like technology, healthcare, or energy, can have its own trends and performance. By studying these sectors, investors can see which ones are growing faster than the overall market. For example, if the technology sector is doing really well because of new inventions, stocks in that sector might go up more than the market average. This can help investors find opportunities to make more money by [picking](/wiki/asset-class-picking) the right sectors to invest in.
 
 Understanding sector performance also helps investors see risks and opportunities that might not be obvious when looking at the whole market. If one sector is doing badly, like if oil prices drop and the energy sector struggles, investors can avoid those stocks and look for better opportunities elsewhere. On the other hand, if a sector is doing better than the market, like healthcare during a time when people need more medical care, investors might want to put more money into that sector. By focusing on sector analysis, investors can make smarter choices and aim for returns that beat the market.
 

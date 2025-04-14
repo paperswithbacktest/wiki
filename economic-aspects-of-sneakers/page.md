@@ -24,7 +24,7 @@ Another reason for the increased demand is the rise of limited edition sneakers.
 
 The sneaker market is growing because people see sneakers as more than just shoes. They are a way to show style and personality. Social media plays a big role in this. When people see their favorite celebrities or influencers wearing cool sneakers, they want to buy them too. This makes the demand for sneakers go up. Also, companies like Nike and Adidas release limited edition sneakers that are hard to get. These special sneakers can become very valuable, and people are willing to pay a lot of money for them.
 
-Another key factor is comfort and technology. Sneakers are made to be comfortable and good for sports or exercise. But now, they also have cool technology like special materials that make them even better. This makes people want to buy new sneakers to try out the latest technology. Also, more people are interested in fitness and health, so they need good sneakers for their activities. This keeps the demand for sneakers strong and helps the market grow.
+Another key [factor](/wiki/factor-investing) is comfort and technology. Sneakers are made to be comfortable and good for sports or exercise. But now, they also have cool technology like special materials that make them even better. This makes people want to buy new sneakers to try out the latest technology. Also, more people are interested in fitness and health, so they need good sneakers for their activities. This keeps the demand for sneakers strong and helps the market grow.
 
 ## How do production costs affect sneaker pricing?
 

@@ -66,7 +66,7 @@ If there's a disagreement later about the deposit, you and the seller can still 
 
 ## What are the tax implications of refunding an escrow deposit?
 
-When you get your escrow deposit back, it usually doesn't count as income for tax purposes. This means you don't have to pay taxes on the money you get back. The deposit was your money to begin with, so getting it back is not like earning new money. But, if you got any interest on the money while it was in the escrow account, you might have to pay taxes on that interest. The escrow agent will give you a form, like a 1099-INT, to report that interest on your taxes.
+When you get your escrow deposit back, it usually doesn't count as income for tax purposes. This means you don't have to pay taxes on the money you get back. The deposit was your money to begin with, so getting it back is not like [earning](/wiki/earning-announcement) new money. But, if you got any interest on the money while it was in the escrow account, you might have to pay taxes on that interest. The escrow agent will give you a form, like a 1099-INT, to report that interest on your taxes.
 
 If you had to pay any fees or penalties to get your deposit back, you might be able to deduct those from your taxes. But, this depends on what the fees were for and if they count as a deductible expense. It's a good idea to talk to a tax professional to make sure you're doing everything right. They can help you understand if you can deduct any fees and how to report any interest you earned on your taxes.
 

@@ -18,7 +18,7 @@ This method is often used by governments or big organizations to save money on i
 
 Pre-refunding bonds work by letting the issuer pay off an old bond early. The issuer does this by selling new bonds. The money they get from selling these new bonds is not used right away to pay off the old bond. Instead, they use it to buy safe investments, like government securities. These investments will earn some money over time.
 
-The earnings from these safe investments are then used to pay off the old bond when it comes due. This way, the issuer can take advantage of lower interest rates. It's like getting a new loan with a lower interest rate to pay off an old loan. This can save the issuer money and make their future payments easier to handle.
+The earnings from these safe investments are then used to pay off the old bond when it comes due. This way, the issuer can take advantage of lower interest rates. It's like getting a new loan with a lower [interest rate](/wiki/interest-rate-trading-strategies) to pay off an old loan. This can save the issuer money and make their future payments easier to handle.
 
 ## What is the purpose of issuing pre-refunding bonds?
 
@@ -68,7 +68,7 @@ Investors should also think about what they want from their investment. If they 
 
 Changes in interest rates can really affect how issuers use pre-refunding bond strategies. When interest rates go down, it's a good time for issuers to issue new bonds at a lower rate. They can use the money from these new bonds to buy safe investments, like government securities. The earnings from these investments will then be used to pay off the old bonds when they come due. This way, issuers can save money because they're paying less interest over time. But if interest rates go up after they've issued the new bonds, they might end up paying more in the long run because they locked in the lower rate.
 
-Investors also need to think about how interest rates might change when they're looking at pre-refunded bonds. If interest rates drop, the new bonds might have a lower interest rate than the old ones. This means investors might get less money over time because the interest they earn will be smaller. On the other hand, if interest rates go up, the old bonds become more valuable because they have a higher interest rate than new bonds. So, investors need to decide if they want to keep their money in a safer, but lower-earning bond, or if they want to take a chance on a new bond with a higher interest rate.
+Investors also need to think about how interest rates might change when they're looking at pre-refunded bonds. If interest rates drop, the new bonds might have a lower interest rate than the old ones. This means investors might get less money over time because the interest they earn will be smaller. On the other hand, if interest rates go up, the old bonds become more valuable because they have a higher interest rate than new bonds. So, investors need to decide if they want to keep their money in a safer, but lower-[earning](/wiki/earning-announcement) bond, or if they want to take a chance on a new bond with a higher interest rate.
 
 ## What are the accounting and tax implications of pre-refunding bonds?
 

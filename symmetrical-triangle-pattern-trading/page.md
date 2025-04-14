@@ -18,7 +18,7 @@ Traders watch symmetrical triangles because they can signal that a big move is c
 
 To spot a symmetrical triangle pattern on a chart, you need to look for two lines that are getting closer together. One line will be drawn along the highs of the price, and it will slope downwards. The other line will be drawn along the lows of the price, and it will slope upwards. These two lines should meet at some point in the future, making the shape of a triangle. The price will move back and forth between these two lines, getting squeezed into a smaller and smaller space.
 
-Once you see this pattern forming, it means the market is unsure about where the price will go next. The price is stuck between the two lines, and it's waiting for something to push it out of the triangle. When the price finally breaks out of the triangle, it can be a signal that a big move is coming. If the price breaks above the top line, it might go up a lot. If it breaks below the bottom line, it might go down a lot. So, watching for this breakout is important for traders who want to make a move based on the symmetrical triangle pattern.
+Once you see this pattern forming, it means the market is unsure about where the price will go next. The price is stuck between the two lines, and it's waiting for something to push it out of the triangle. When the price finally breaks out of the triangle, it can be a signal that a big move is coming. If the price breaks above the top line, it might go up a lot. If it breaks below the bottom line, it might go down a lot. So, watching for this [breakout](/wiki/breakout-trading) is important for traders who want to make a move based on the symmetrical triangle pattern.
 
 ## What does a symmetrical triangle indicate about market trends?
 
@@ -42,7 +42,7 @@ On the other hand, if the price breaks below the bottom line of the triangle, it
 
 ## What are the common volume patterns associated with symmetrical triangles?
 
-When a symmetrical triangle forms, the volume usually gets lower and lower as the pattern goes on. This means fewer people are trading as the price moves back and forth between the two lines of the triangle. The low volume shows that the market is not sure which way to go, and it's waiting for something to happen.
+When a symmetrical triangle forms, the [volume](/wiki/volume-trading-strategy) usually gets lower and lower as the pattern goes on. This means fewer people are trading as the price moves back and forth between the two lines of the triangle. The low volume shows that the market is not sure which way to go, and it's waiting for something to happen.
 
 When the price finally breaks out of the symmetrical triangle, the volume usually goes up a lot. This means more people are trading because they think the price is going to move in the direction of the breakout. A big increase in volume when the price breaks out can make traders more sure that the breakout is real and not a fake one.
 

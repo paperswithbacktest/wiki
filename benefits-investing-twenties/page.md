@@ -28,7 +28,7 @@ You might also consider investing in individual stocks if you want to pick speci
 
 ## How can investing early help in achieving long-term financial goals like retirement?
 
-Investing early can really help you reach your big money goals, like saving enough for retirement. When you start investing in your twenties, you give your money a lot more time to grow. This is because of something called compound interest, which is like earning interest on your interest. Over many years, this can turn a small amount of money into a much bigger amount. So, if you start early, even small regular investments can add up to a big nest egg by the time you retire.
+Investing early can really help you reach your big money goals, like saving enough for retirement. When you start investing in your twenties, you give your money a lot more time to grow. This is because of something called compound interest, which is like [earning](/wiki/earning-announcement) interest on your interest. Over many years, this can turn a small amount of money into a much bigger amount. So, if you start early, even small regular investments can add up to a big nest egg by the time you retire.
 
 Also, starting early means you can take more risks when you're young, which can lead to higher rewards. When you're in your twenties, you have time to ride out the ups and downs of the market. This means you can put your money into things like stocks, which can be risky but also have the potential to grow a lot over time. By the time you get closer to retirement, you can shift your investments to be safer. So, starting to invest early not only helps your money grow but also gives you the flexibility to adjust your strategy as you get older.
 

@@ -64,7 +64,7 @@ Researchers look at these anomalies to see if they can find ways to make money t
 
 ## What is the relationship between market anomalies and arbitrage opportunities?
 
-Market anomalies can create arbitrage opportunities. Arbitrage is when investors buy something in one place and sell it in another to make a profit because the prices are different. When the market does something unexpected, like a stock suddenly going up in January, it can create a chance for investors to make money. They might buy the stock before January, knowing it will likely go up, and then sell it when the price rises. This is a way to take advantage of the market not behaving normally.
+Market anomalies can create [arbitrage](/wiki/arbitrage) opportunities. Arbitrage is when investors buy something in one place and sell it in another to make a profit because the prices are different. When the market does something unexpected, like a stock suddenly going up in January, it can create a chance for investors to make money. They might buy the stock before January, knowing it will likely go up, and then sell it when the price rises. This is a way to take advantage of the market not behaving normally.
 
 But using market anomalies for arbitrage can be tricky. These surprises don't happen all the time, so it's hard to predict when they will show up. If too many people try to use the same anomaly, it can disappear because everyone is trying to do the same thing. Also, even if an investor spots an anomaly, other things like news or changes in how people feel about the market can mess up their plans. So, while market anomalies can create arbitrage opportunities, they also come with risks that investors need to be careful about.
 

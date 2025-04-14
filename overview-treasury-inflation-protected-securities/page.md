@@ -18,7 +18,7 @@ TIPS pay interest every six months, but the interest rate stays the same. Becaus
 
 TIPS protect against inflation by adjusting the bond's principal value based on changes in the Consumer Price Index (CPI). If inflation goes up, the CPI increases, and so does the principal of your TIPS. This means that if you bought a TIPS for $1,000 and inflation rises by 2%, your principal would increase to $1,020. This adjustment happens every six months, helping to keep the value of your investment in line with the cost of living.
 
-The interest rate on TIPS stays the same throughout the life of the bond, but because the principal changes, the actual interest payment you receive also changes. For example, if your TIPS has a 1% interest rate and the principal goes up to $1,020, you would get interest payments based on that new, higher principal. This way, TIPS not only protect the value of your initial investment but also ensure that the interest you earn keeps pace with inflation.
+The [interest rate](/wiki/interest-rate-trading-strategies) on TIPS stays the same throughout the life of the bond, but because the principal changes, the actual interest payment you receive also changes. For example, if your TIPS has a 1% interest rate and the principal goes up to $1,020, you would get interest payments based on that new, higher principal. This way, TIPS not only protect the value of your initial investment but also ensure that the interest you earn keeps pace with inflation.
 
 ## What is the difference between the principal and interest of TIPS?
 

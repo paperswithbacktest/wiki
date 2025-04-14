@@ -124,7 +124,7 @@ In conclusion, the Q Ratio and Tobin's Q play instrumental roles in evaluating c
 
 ## How can Q Ratio and Tobin's Q be implemented in algorithmic trading models?
 
-Implementing the Q Ratio and Tobin's Q into algorithmic trading models involves several steps, technical considerations, and optimizations to maximize the utility of these metrics in automated decision-making processes.
+Implementing the Q Ratio and Tobin's Q into [algorithmic trading](/wiki/algorithmic-trading) models involves several steps, technical considerations, and optimizations to maximize the utility of these metrics in automated decision-making processes.
 
 ### Step-by-Step Guide to Incorporating Q Ratio and Tobin's Q
 

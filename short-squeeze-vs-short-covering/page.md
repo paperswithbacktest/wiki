@@ -60,7 +60,7 @@ News can also trigger a short squeeze. If there's good news about a company, lik
 
 Investors can look for stocks with a high short interest, which means a lot of people have bet that the stock's price will go down. They can check the short interest ratio, which shows how many days it would take for all the short sellers to buy back the shares they borrowed. A high short interest ratio, like over 10%, can mean there's a bigger chance of a short squeeze happening. Also, if a stock has a lot of shares being traded every day, it's easier for the price to move quickly, which can help start a short squeeze.
 
-Another thing to watch is the stock's price movement and any news or events that could make people want to buy the stock. If there's good news about the company or if a lot of people start talking about the stock on social media, it can push the price up. This can scare short sellers into buying back shares to stop losing money, which can start a short squeeze. So, by keeping an eye on short interest, trading volume, and news, investors can spot stocks that might be good for a short squeeze.
+Another thing to watch is the stock's price movement and any news or events that could make people want to buy the stock. If there's good news about the company or if a lot of people start talking about the stock on social media, it can push the price up. This can scare short sellers into buying back shares to stop losing money, which can start a short squeeze. So, by keeping an eye on short interest, trading [volume](/wiki/volume-trading-strategy), and news, investors can spot stocks that might be good for a short squeeze.
 
 ## What are the risks associated with participating in a short squeeze?
 
@@ -76,7 +76,7 @@ Sometimes, regulatory bodies might look into a short squeeze to see if any rules
 
 ## What advanced strategies can traders use to capitalize on short squeezes and short covering?
 
-Traders can use a strategy called "momentum trading" to take advantage of short squeezes. This means they buy stocks that are already going up quickly, hoping the price will keep going up because of the short squeeze. They watch for stocks with a lot of short interest and a high short interest ratio, which means a lot of people have bet against the stock. They also look at trading volume to see if a lot of people are buying and selling the stock. When they see these signs, they might buy the stock and then sell it when the price goes up even more during the squeeze.
+Traders can use a strategy called "[momentum](/wiki/momentum) trading" to take advantage of short squeezes. This means they buy stocks that are already going up quickly, hoping the price will keep going up because of the short squeeze. They watch for stocks with a lot of short interest and a high short interest ratio, which means a lot of people have bet against the stock. They also look at trading volume to see if a lot of people are buying and selling the stock. When they see these signs, they might buy the stock and then sell it when the price goes up even more during the squeeze.
 
 Another strategy is to use options, which are like bets on where the stock price will go. Traders can buy call options, which give them the right to buy the stock at a certain price. If the stock price goes up because of a short squeeze, the value of the call options can go up a lot too. This can be a way to make more money from the short squeeze without having to buy the stock directly. But using options can be risky, so traders need to be careful and understand how they work.
 

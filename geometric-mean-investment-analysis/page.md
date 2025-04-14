@@ -28,7 +28,7 @@ For example, if an investment grows by 10% one year, 20% the next, and then drop
 
 ## How do you calculate the geometric mean of a set of investment returns?
 
-To calculate the geometric mean of a set of investment returns, you first need to convert each return into a growth factor. If you have returns like 10%, 20%, and -5%, you turn these into 1.10, 1.20, and 0.95. Then, you multiply all these growth factors together. For our example, that would be 1.10 × 1.20 × 0.95, which equals 1.254.
+To calculate the geometric mean of a set of investment returns, you first need to convert each return into a growth [factor](/wiki/factor-investing). If you have returns like 10%, 20%, and -5%, you turn these into 1.10, 1.20, and 0.95. Then, you multiply all these growth factors together. For our example, that would be 1.10 × 1.20 × 0.95, which equals 1.254.
 
 Next, you take the nth root of the product, where n is the number of returns you're looking at. In our case, since we have three returns, you take the cube root of 1.254. The cube root of 1.254 is about 1.08. To turn this back into a percentage, you subtract 1 and then multiply by 100. So, 1.08 - 1 = 0.08, and 0.08 × 100 = 8%. That means the geometric mean of those returns is about 8%.
 

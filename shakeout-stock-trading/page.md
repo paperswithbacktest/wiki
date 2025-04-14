@@ -42,7 +42,7 @@ Another good strategy is to have a plan before a shakeout happens. Decide ahead 
 
 Technical analysis can help you spot a shakeout before it happens by looking at charts and patterns. One thing to watch for is when the stock price starts to go down fast and more people are selling than buying. This can show up on a chart as a big drop in price, and it might be a sign that a shakeout is coming. Another thing to look for is when the stock price breaks through a support level, which is a price where the stock usually stops dropping. If it goes below this level, it could mean a shakeout is about to happen.
 
-Another way technical analysis can help is by looking at trading volume. If you see the volume going up a lot while the price is going down, it means a lot of people are selling their stocks quickly. This can be a warning sign of a shakeout. By keeping an eye on these patterns and volumes, you can get a better idea of when a shakeout might be coming and be ready for it.
+Another way technical analysis can help is by looking at trading [volume](/wiki/volume-trading-strategy). If you see the volume going up a lot while the price is going down, it means a lot of people are selling their stocks quickly. This can be a warning sign of a shakeout. By keeping an eye on these patterns and volumes, you can get a better idea of when a shakeout might be coming and be ready for it.
 
 ## What role do market makers play during a shakeout?
 
@@ -66,7 +66,7 @@ A market correction is different because it happens over a longer time. It's whe
 
 Algorithmic trading can make shakeouts happen more often or make them bigger. These are computer programs that buy and sell stocks really fast, sometimes in just a few seconds. When a lot of people start selling stocks during a shakeout, these programs can see it happening and start selling too. This can make the price drop even faster because there are more stocks for sale. If the programs are set up to sell when they see certain signs, like a big drop in price, they can make the shakeout worse.
 
-But algorithmic trading can also help stop shakeouts from getting out of control. Some programs are made to buy stocks when the price drops a lot. This can help keep the price from falling too far because there are still people, or in this case, computers, buying the stocks. So, while algorithmic trading can make shakeouts happen more often or make them bigger, it can also help calm things down if the programs are set up to buy when everyone else is selling.
+But [algorithmic trading](/wiki/algorithmic-trading) can also help stop shakeouts from getting out of control. Some programs are made to buy stocks when the price drops a lot. This can help keep the price from falling too far because there are still people, or in this case, computers, buying the stocks. So, while algorithmic trading can make shakeouts happen more often or make them bigger, it can also help calm things down if the programs are set up to buy when everyone else is selling.
 
 ## What historical examples illustrate significant shakeouts in the stock market?
 

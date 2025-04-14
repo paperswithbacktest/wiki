@@ -30,7 +30,7 @@ Another way ETFs can help is by letting you spread your money across different t
 
 ## What are the different types of ETFs that can help in reducing stock market exposure?
 
-One type of ETF that can help reduce stock market exposure is a bond ETF. These ETFs hold a bunch of bonds, which are safer than stocks because they don't go up and down as much. When you buy a bond ETF, you're putting your money into something that's less risky than the stock market. This can be a good choice if you're worried about the stock market going down and want to protect your money.
+One type of [ETF](/wiki/etf-trading-strategies) that can help reduce stock market exposure is a bond ETF. These ETFs hold a bunch of bonds, which are safer than stocks because they don't go up and down as much. When you buy a bond ETF, you're putting your money into something that's less risky than the stock market. This can be a good choice if you're worried about the stock market going down and want to protect your money.
 
 Another type is a diversified ETF. These ETFs hold a mix of different investments, like stocks, bonds, and even things like real estate or commodities. By spreading your money across different types of investments, you're not putting all your eggs in one basket. If the stock market goes down, the other parts of the ETF might not, which can help keep your money safer.
 
@@ -66,7 +66,7 @@ Using diversified ETFs also makes it easier to manage your risk because you don'
 
 When you use ETFs to adjust your stock market exposure, you need to think about taxes. If you sell an ETF for more than you paid for it, you'll have to pay capital gains tax on the profit. The tax rate depends on how long you held the ETF. If you held it for less than a year, it's a short-term capital gain, and you'll pay your regular income tax rate on it. If you held it for more than a year, it's a long-term capital gain, and the tax rate is usually lower. So, if you're selling ETFs often to change your stock market exposure, you might end up paying more in taxes.
 
-Another thing to think about is how ETFs are structured. Some ETFs, like those that track broad market indexes, are more tax-efficient because they don't buy and sell their holdings as often. This means they might not pass on as many capital gains to you each year. But if you use ETFs that trade a lot, like sector rotation ETFs, they might pass on more capital gains, which could increase your tax bill. So, when you're picking ETFs to adjust your stock market exposure, think about how their structure might affect your taxes.
+Another thing to think about is how ETFs are structured. Some ETFs, like those that track broad market indexes, are more tax-efficient because they don't buy and sell their holdings as often. This means they might not pass on as many capital gains to you each year. But if you use ETFs that trade a lot, like sector rotation ETFs, they might pass on more capital gains, which could increase your tax bill. So, when you're [picking](/wiki/asset-class-picking) ETFs to adjust your stock market exposure, think about how their structure might affect your taxes.
 
 ## How can one monitor and adjust their ETF portfolio to maintain desired levels of stock market exposure?
 
@@ -118,5 +118,5 @@ Leveraged ETFs, on the other hand, aim to give you bigger returns by using borro
    - Online Platforms:
      - `QuantConnect` and `AlgoTrader` for real-time algorithmic trading environments.
 
-These resources will expand your understanding and provide further technical and theoretical knowledge on ETFs and algorithmic trading strategies.
+These resources will expand your understanding and provide further technical and theoretical knowledge on ETFs and [algorithmic trading](/wiki/algorithmic-trading) strategies.
 

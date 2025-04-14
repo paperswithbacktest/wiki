@@ -18,7 +18,7 @@ I decided to start day trading because I wanted to learn more about the stock ma
 
 Before I started day trading, I spent a lot of time learning about it. I read many books about the stock market and day trading. These books explained the basics, like how to read stock charts and understand market trends. I also found websites and blogs written by experienced traders. They shared their stories and tips, which helped me understand what to expect.
 
-I also took online courses that taught me about different trading strategies. These courses had videos and quizzes that made learning fun and helped me remember what I learned. I practiced with a virtual trading account, where I could buy and sell stocks without using real money. This was a safe way to see how the market works and test my strategies. By the time I felt ready to start, I had a good understanding of day trading and felt more confident.
+I also took online courses that taught me about different trading strategies. These courses had videos and quizzes that made learning fun and helped me remember what I learned. I practiced with a virtual trading account, where I could buy and sell stocks without using real money. This was a safe way to see how the market works and test my strategies. By the time I felt ready to start, I had a good understanding of [day trading](/wiki/day-trading-spy) and felt more confident.
 
 ## What trading platform did you use and why?
 
@@ -40,7 +40,7 @@ From these early trades, I learned a lot about the importance of having a plan. 
 
 ## How did you develop your trading strategy?
 
-I developed my trading strategy by first learning as much as I could about the stock market and different trading techniques. I read books, took online courses, and watched videos from experienced traders. I paid attention to what worked for them and tried to understand why. I also practiced a lot using a virtual trading account. This let me try out different strategies without losing real money. Over time, I started to see patterns and learned what strategies fit my style and goals.
+I developed my trading strategy by first learning as much as I could about the stock market and different trading techniques. I read [books](/wiki/algo-trading-books), took online courses, and watched videos from experienced traders. I paid attention to what worked for them and tried to understand why. I also practiced a lot using a virtual trading account. This let me try out different strategies without losing real money. Over time, I started to see patterns and learned what strategies fit my style and goals.
 
 After a while, I started to focus on a few key things in my strategy. I decided to only trade stocks that I understood well and that had clear trends. I set strict rules for when to buy and sell, like setting stop-loss orders to limit my losses. I also learned to be patient and not to trade too often. I realized that it's better to wait for the right opportunity than to make quick trades that might not work out. My strategy became about making careful, informed decisions rather than trying to make quick profits.
 
@@ -54,7 +54,7 @@ Another important tool is the candlestick chart, which gives me a clear picture 
 
 I manage risk by setting strict rules for myself before I start trading. One of the most important rules is using stop-loss orders. A stop-loss order is like a safety net that automatically sells my stock if the price drops too much. This helps me limit how much money I can lose on a single trade. I also only use money that I can afford to lose. This way, even if I have a bad day, it won't hurt my finances too much. Another way I manage risk is by not putting all my money into one stock. I spread it out over a few different stocks, which is called diversification. This means if one stock does badly, I won't lose all my money.
 
-To minimize losses, I focus on planning my trades carefully. Before I buy a stock, I decide on my entry and exit points. I think about how much I'm willing to risk and what profit I want to make. I also keep learning and adjusting my strategies. If something isn't working, I try to figure out why and change my approach. I also make sure to take breaks and not trade too much. It's easy to get caught up in the excitement, but taking a step back helps me make better decisions. By staying disciplined and sticking to my rules, I can keep my losses small and give myself a better chance at making money in the long run.
+To minimize losses, I focus on planning my trades carefully. Before I buy a stock, I decide on my entry and [exit](/wiki/exit-strategy) points. I think about how much I'm willing to risk and what profit I want to make. I also keep learning and adjusting my strategies. If something isn't working, I try to figure out why and change my approach. I also make sure to take breaks and not trade too much. It's easy to get caught up in the excitement, but taking a step back helps me make better decisions. By staying disciplined and sticking to my rules, I can keep my losses small and give myself a better chance at making money in the long run.
 
 ## Can you share a success story where you made significant profits?
 

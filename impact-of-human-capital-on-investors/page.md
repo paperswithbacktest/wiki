@@ -120,5 +120,5 @@ In recent empirical studies, the role of human capital as a determinant of econo
 
 10. **Nash, R., & Behn, R. (2020). "Algorithmic Trading and Information". Journal of Economic Perspectives.** This article investigates into how information is processed and utilized in algorithmic trading, emphasizing the importance of continual learning and adaptation to stay competitive. 
 
-These resources provide a comprehensive foundation for understanding the critical role of human capital in algorithmic trading, as well as the economic implications of this intersection. They are essential for anyone seeking to further investigate the dynamic relationship between technological innovations and human skills in financial markets.
+These resources provide a comprehensive foundation for understanding the critical role of human capital in [algorithmic trading](/wiki/algorithmic-trading), as well as the economic implications of this intersection. They are essential for anyone seeking to further investigate the dynamic relationship between technological innovations and human skills in financial markets.
 

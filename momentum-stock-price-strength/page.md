@@ -32,7 +32,7 @@ One common indicator used to assess momentum in stocks is the Relative Strength 
 
 Another popular indicator is the Moving Average Convergence Divergence (MACD). The MACD looks at the difference between two moving averages of a stock's price. When the MACD line crosses above the signal line, it can be a sign that the stock's momentum is getting stronger. When it crosses below, it might mean the stock's momentum is getting weaker. Traders watch these crossings to decide when to buy or sell a stock based on its momentum.
 
-Both the RSI and MACD help traders see if a stock is likely to keep moving in the same direction or if it might change course. But remember, no indicator is perfect, and traders often use more than one to make the best decisions about stocks.
+Both the RSI and MACD help traders see if a stock is likely to keep moving in the same direction or if it might change [course](/wiki/best-algorithmic-trading-courses). But remember, no indicator is perfect, and traders often use more than one to make the best decisions about stocks.
 
 ## How does the concept of momentum influence investment strategies?
 
@@ -80,7 +80,7 @@ Another way to combine momentum analysis with other technical analysis is by usi
 
 One advanced statistical method to enhance momentum-based trading models is regression analysis. This method helps traders understand how different factors, like a stock's past performance or the overall market trend, affect its future price. By using regression, traders can create a model that predicts how much a stock's price might go up or down based on its momentum and other important factors. This can make their trading decisions more accurate and help them make more money.
 
-Another useful method is machine learning. Machine learning can look at a lot of data, like stock prices, trading volumes, and even news articles, to find patterns that are hard for people to see. Traders can use machine learning to build models that learn from past data and get better at predicting future stock prices based on momentum. This can help traders find the best times to buy and sell stocks, making their momentum-based strategies even more effective.
+Another useful method is [machine learning](/wiki/machine-learning). Machine learning can look at a lot of data, like stock prices, trading volumes, and even news articles, to find patterns that are hard for people to see. Traders can use machine learning to build models that learn from past data and get better at predicting future stock prices based on momentum. This can help traders find the best times to buy and sell stocks, making their momentum-based strategies even more effective.
 
 ## What is the role of momentum in stock prices?
 

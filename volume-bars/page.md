@@ -18,7 +18,7 @@ Traders use volume bars to understand the strength of a price movement. If the p
 
 Volume bars and time-based charts show information about trading in different ways. Time-based charts split the trading day into equal time periods, like minutes or hours. Each bar or candle on a time-based chart shows what happened during that specific time. For example, a 1-hour chart will have a new bar every hour, showing the price changes within that hour.
 
-Volume bars, on the other hand, focus on the amount of trading activity instead of time. Each volume bar represents a certain amount of shares or contracts traded, no matter how long it takes to reach that volume. So, a volume bar might form quickly if there's a lot of trading, or it might take longer if trading is slow. This helps traders see when there's a lot of interest in a stock, which can be more important than knowing exactly when it happened.
+Volume bars, on the other hand, focus on the amount of trading activity instead of time. Each [volume](/wiki/volume-trading-strategy) bar represents a certain amount of shares or contracts traded, no matter how long it takes to reach that volume. So, a volume bar might form quickly if there's a lot of trading, or it might take longer if trading is slow. This helps traders see when there's a lot of interest in a stock, which can be more important than knowing exactly when it happened.
 
 ## What information can volume bars provide to traders?
 
@@ -48,7 +48,7 @@ Another way to use volume bars is with indicators like the Relative Strength Ind
 
 One common strategy for trading with volume bars is to look for breakouts. Traders watch for times when the price of a stock moves out of a certain range and the volume bars are tall. This means a lot of people are buying or selling, so the price move is strong. If the price breaks out to the upside with high volume, traders might buy the stock, thinking the price will keep going up. If the price breaks out to the downside with high volume, traders might sell the stock, thinking the price will keep going down.
 
-Another strategy is to use volume bars to confirm trends. Traders look at the direction of the price and the height of the volume bars. If the price is going up and the volume bars are tall, it means the uptrend is strong and likely to continue. Traders might buy the stock during these times. On the other hand, if the price is going down and the volume bars are tall, it means the downtrend is strong and likely to continue. Traders might sell the stock or short it during these times. By watching the volume bars, traders can make better decisions about when to enter or exit trades.
+Another strategy is to use volume bars to confirm trends. Traders look at the direction of the price and the height of the volume bars. If the price is going up and the volume bars are tall, it means the uptrend is strong and likely to continue. Traders might buy the stock during these times. On the other hand, if the price is going down and the volume bars are tall, it means the downtrend is strong and likely to continue. Traders might sell the stock or short it during these times. By watching the volume bars, traders can make better decisions about when to enter or [exit](/wiki/exit-strategy) trades.
 
 ## How do you determine the optimal volume threshold for setting up volume bars?
 
@@ -66,7 +66,7 @@ Another problem with volume bars is that they can be confusing if you don't set 
 
 Volume bars can be changed to fit different ways of trading or different markets. Traders can pick a different amount of volume for each bar, depending on how much the stock usually trades. For example, if a stock trades a lot, traders might use a higher volume threshold so the bars show big moves. If a stock doesn't trade much, they might use a lower threshold to see more details. This way, volume bars can work well for stocks that trade a lot or a little.
 
-Traders can also use volume bars in different markets, like stocks, futures, or forex. Each market has its own way of trading, so traders might need to change the volume threshold to match. For example, in the forex market, where trading can be very busy, traders might use a higher volume threshold. In the stock market, where some stocks trade less, they might use a lower threshold. By changing the volume bars to fit the market, traders can get a better idea of what's happening and make better trading choices.
+Traders can also use volume bars in different markets, like stocks, futures, or [forex](/wiki/forex-system). Each market has its own way of trading, so traders might need to change the volume threshold to match. For example, in the forex market, where trading can be very busy, traders might use a higher volume threshold. In the stock market, where some stocks trade less, they might use a lower threshold. By changing the volume bars to fit the market, traders can get a better idea of what's happening and make better trading choices.
 
 ## What advanced techniques can be applied to volume bars for more sophisticated analysis?
 
@@ -76,9 +76,9 @@ Another advanced technique is to use volume bars with other indicators, like the
 
 ## How do volume bars perform in different market conditions, such as high volatility or low liquidity?
 
-Volume bars can be really helpful in markets that are moving a lot, like when there's high volatility. When the price of a stock is going up and down a lot, volume bars can show traders when a lot of people are buying or selling. If the volume bars are tall during these big moves, it means the price change is strong and might keep going. But if the volume bars are short, it might mean the price change is weak and could change soon. So, in high volatility, volume bars help traders see if the big moves are real or just a short-term thing.
+Volume bars can be really helpful in markets that are moving a lot, like when there's high [volatility](/wiki/volatility-trading-strategies). When the price of a stock is going up and down a lot, volume bars can show traders when a lot of people are buying or selling. If the volume bars are tall during these big moves, it means the price change is strong and might keep going. But if the volume bars are short, it might mean the price change is weak and could change soon. So, in high volatility, volume bars help traders see if the big moves are real or just a short-term thing.
 
-In markets with low liquidity, where not many people are trading, volume bars can be trickier to use. If a stock doesn't trade much, the volume bars might not form often enough to be useful. Traders might have to wait a long time for a new bar to show up, which can make it hard to see what's happening with the stock. But if traders set the right volume threshold, they can still use volume bars to see when there's a bit more trading than usual. This can help them find good times to buy or sell, even in a market that's not very busy.
+In markets with low [liquidity](/wiki/liquidity-risk-premium), where not many people are trading, volume bars can be trickier to use. If a stock doesn't trade much, the volume bars might not form often enough to be useful. Traders might have to wait a long time for a new bar to show up, which can make it hard to see what's happening with the stock. But if traders set the right volume threshold, they can still use volume bars to see when there's a bit more trading than usual. This can help them find good times to buy or sell, even in a market that's not very busy.
 
 ## References & Further Reading
 

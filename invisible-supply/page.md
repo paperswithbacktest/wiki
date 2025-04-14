@@ -30,7 +30,7 @@ Another example is when someone loses their job and feels really stressed about 
 
 The idea of Invisible Supply comes from spiritual and self-help teachings. It started becoming popular in the early 20th century. One of the first people to talk about it was a writer named Florence Scovel Shinn. In her book "The Game of Life and How to Play It," published in 1925, she talked about how having faith and a positive attitude can help bring what you need into your life. She believed that if you trust in a higher power or the universe, it will provide for you, even if you can't see how that will happen right away.
 
-Since then, the concept has been picked up by other authors and speakers in the self-help and New Thought movements. These movements focus on the power of positive thinking and the belief that our thoughts can shape our reality. Invisible Supply fits well with these ideas because it encourages people to stay hopeful and trust that their needs will be met. Over time, it has become a popular idea in books, workshops, and talks about personal growth and spirituality.
+Since then, the concept has been picked up by other authors and speakers in the self-help and New Thought movements. These movements focus on the power of positive thinking and the belief that our thoughts can shape our reality. Invisible Supply fits well with these ideas because it encourages people to stay hopeful and trust that their needs will be met. Over time, it has become a popular idea in [books](/wiki/algo-trading-books), workshops, and talks about personal growth and spirituality.
 
 ## How does Invisible Supply impact personal financial planning?
 
@@ -46,7 +46,7 @@ For example, a business might be struggling to make enough money. If the owner b
 
 ## How can one identify and leverage Invisible Supply in their career?
 
-To identify Invisible Supply in your career, you need to pay attention to the opportunities and resources that come your way, even if they seem small or unexpected. It might be a new job opening you hear about from a friend, a chance to learn a new skill through a free online course, or a mentor who offers to help you grow. These are all signs of Invisible Supply at work. By staying open and positive, you can spot these opportunities and understand that they are there to help you move forward in your career.
+To identify Invisible Supply in your career, you need to pay attention to the opportunities and resources that come your way, even if they seem small or unexpected. It might be a new job opening you hear about from a friend, a chance to learn a new skill through a free online [course](/wiki/best-algorithmic-trading-courses), or a mentor who offers to help you grow. These are all signs of Invisible Supply at work. By staying open and positive, you can spot these opportunities and understand that they are there to help you move forward in your career.
 
 Leveraging Invisible Supply means taking action on these opportunities when you see them. If you believe that the universe or a higher power is providing for you, you'll feel more confident to take risks and try new things. For example, you might decide to apply for a job that seems a bit out of reach or start a side project that could lead to new career paths. By trusting in Invisible Supply, you keep moving forward, and this belief can lead to better career growth and success.
 

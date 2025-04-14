@@ -58,7 +58,7 @@ A platykurtic distribution is the opposite, with a kurtosis value lower than 3. 
 
 Kurtosis is important in data analysis because it helps us understand how spread out the data is, especially at the extremes. When we look at kurtosis, we can see if there are a lot of unusual or extreme values in our data. This is useful because it tells us how likely it is to see big changes or surprises. For example, in finance, knowing if stock prices might have big jumps or drops can help people make better decisions about buying or selling stocks.
 
-Understanding kurtosis also helps us compare our data to a normal distribution, which is a common reference point in statistics. If the kurtosis is high, it means our data has more extreme values than a normal distribution, and if it's low, it means fewer extreme values. This can affect how we analyze and interpret our data. For instance, in quality control, knowing if a process produces more or fewer defects than expected can help improve the process. So, kurtosis gives us a way to see the shape of our data and understand its behavior better.
+Understanding kurtosis also helps us compare our data to a normal distribution, which is a common reference point in [statistics](/wiki/bayesian-statistics). If the kurtosis is high, it means our data has more extreme values than a normal distribution, and if it's low, it means fewer extreme values. This can affect how we analyze and interpret our data. For instance, in quality control, knowing if a process produces more or fewer defects than expected can help improve the process. So, kurtosis gives us a way to see the shape of our data and understand its behavior better.
 
 ## How does kurtosis affect statistical tests and models?
 
@@ -128,7 +128,7 @@ This calculation highlights the fourth moment, giving prominence to tail behavio
 
 **Using Skewness and Kurtosis Together**: By evaluating both skewness and kurtosis, traders can capture a nuanced view of a distribution’s shape. While skewness addresses the symmetry of returns, kurtosis focuses on the probability and impact of extreme events. Together, these measures allow for a combined assessment of market risk and potential anomalies.
 
-Trading strategies often benefit from identifying both consistent patterns and outlier behaviors. For example, a distribution with moderate skewness but high kurtosis could warn traders of rare, significant price shifts, enabling preemptive risk management decisions. By considering together skewness's skewing information and kurtosis's tail-related insights, traders can enhance their forecasting models, leading to potentially more stable returns and controlled risk exposure in algorithmic trading scenarios.
+Trading strategies often benefit from identifying both consistent patterns and outlier behaviors. For example, a distribution with moderate skewness but high kurtosis could warn traders of rare, significant price shifts, enabling preemptive risk management decisions. By considering together skewness's skewing information and kurtosis's tail-related insights, traders can enhance their forecasting models, leading to potentially more stable returns and controlled risk exposure in [algorithmic trading](/wiki/algorithmic-trading) scenarios.
 
 ## References & Further Reading
 

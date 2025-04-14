@@ -142,7 +142,7 @@ In summary, the role of algo trading extends beyond its primary function of exec
 
 ## What are the benefits and challenges of early amortization in algo trading?
 
-Early amortization, a process where loan principals are repaid ahead of schedule, provides various benefits and challenges when considered within the framework of algorithmic trading (algo trading). This dynamic is crucial for maintaining liquidity while managing risks inherent in financial markets.
+Early amortization, a process where loan principals are repaid ahead of schedule, provides various benefits and challenges when considered within the framework of [algorithmic trading](/wiki/algorithmic-trading) (algo trading). This dynamic is crucial for maintaining [liquidity](/wiki/liquidity-risk-premium) while managing risks inherent in financial markets.
 
 **Liquidity Benefits and Risk Management Challenges**
 

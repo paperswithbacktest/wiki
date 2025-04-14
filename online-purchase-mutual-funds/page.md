@@ -38,7 +38,7 @@ Finally, there are target-date funds, which are designed to change over time to 
 
 ## What should I consider when choosing a mutual fund to invest in online?
 
-When picking a mutual fund to invest in online, you should think about a few important things. First, look at the fund's goal and what it invests in. Some funds focus on stocks, others on bonds, and some mix both. You need to pick one that matches what you want to achieve with your money. Also, think about how much risk you're okay with. Some funds can be pretty safe, while others might go up and down a lot. Your age, when you'll need the money, and how you feel about risk can help you decide.
+When [picking](/wiki/asset-class-picking) a mutual fund to invest in online, you should think about a few important things. First, look at the fund's goal and what it invests in. Some funds focus on stocks, others on bonds, and some mix both. You need to pick one that matches what you want to achieve with your money. Also, think about how much risk you're okay with. Some funds can be pretty safe, while others might go up and down a lot. Your age, when you'll need the money, and how you feel about risk can help you decide.
 
 Another thing to consider is the fees you'll have to pay. Mutual funds charge fees for managing your money, and these can add up over time. Look for funds with low fees because they can help you keep more of your money. It's also smart to check the fund's past performance, but remember, past results don't guarantee future wins. Finally, think about how easy it is to buy and sell the fund on the platform you're using. You want a platform that's easy to use and lets you manage your investments without hassle.
 

@@ -86,7 +86,7 @@ Another way technology could change trading is through better data and analytics
 
 ## What are Algorithmic Trading Strategies and how does Fungibility relate to them?
 
-Algorithmic trading strategies leverage the fungibility of financial instruments to execute trades efficiently and capitalize on market movements. These strategies, which include trend-following, [arbitrage](/wiki/arbitrage), and mean reversion, are designed to exploit the inherent interchangeability of assets, ensuring consistency and liquidity in transactions.
+Algorithmic trading strategies leverage the fungibility of financial instruments to execute trades efficiently and capitalize on market movements. These strategies, which include trend-following, [arbitrage](/wiki/arbitrage), and mean reversion, are designed to exploit the inherent interchangeability of assets, ensuring consistency and [liquidity](/wiki/liquidity-risk-premium) in transactions.
 
 **Trend-following** is a strategy that capitalizes on consistent, directional market trends. It involves identifying assets with a strong upward or downward trend and executing trades accordingly. Given the fungible nature of many assets, such as stocks or commodities, traders can easily buy or sell large volumes without concern over uniqueness or variability between units. Trend-following algorithms use technical indicators, such as moving averages or the Relative Strength Index (RSI), to systematically identify and enter positions that align with the prevailing market direction. The main formula often used is the moving average crossover strategy:
 
@@ -117,7 +117,7 @@ $$
 
 Where $X$ is the current price, $\mu$ is the average price, and $\sigma$ is the standard deviation. A high absolute z-score might indicate a potential trading opportunity for mean reversion.
 
-These algorithmic trading strategies fundamentally rely on fungible assets, as their interchangeable nature supports precise and scalable execution, ultimately enhancing market efficiency and liquidity.
+These [algorithmic trading](/wiki/algorithmic-trading) strategies fundamentally rely on fungible assets, as their interchangeable nature supports precise and scalable execution, ultimately enhancing market efficiency and liquidity.
 
 ## References & Further Reading
 

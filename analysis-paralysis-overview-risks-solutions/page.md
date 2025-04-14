@@ -42,7 +42,7 @@ In a professional setting, analysis paralysis can affect decisions about work pr
 
 ## What are some signs that someone might be experiencing analysis paralysis?
 
-When someone is experiencing analysis paralysis, they might spend a lot of time thinking about a decision without actually making one. They could keep looking for more information or trying to find the perfect solution, but never feel ready to choose. This can make them feel stuck and unsure, often leading to delays in making any kind of choice, whether it's small like picking a restaurant or big like deciding on a job.
+When someone is experiencing analysis paralysis, they might spend a lot of time thinking about a decision without actually making one. They could keep looking for more information or trying to find the perfect solution, but never feel ready to choose. This can make them feel stuck and unsure, often leading to delays in making any kind of choice, whether it's small like [picking](/wiki/asset-class-picking) a restaurant or big like deciding on a job.
 
 This problem can also show up as feeling overwhelmed by all the options. Someone might feel anxious or stressed because they're worried about making the wrong decision. They might ask for advice from a lot of people or keep changing their mind, which can make them feel even more confused and frustrated. It's like trying to solve a puzzle but getting more and more stuck because there are too many pieces to sort through.
 
@@ -90,7 +90,7 @@ Another way to measure effectiveness is by tracking how often decisions lead to 
 
 Cognitive psychology provides valuable insights into decision-making processes, particularly in trading environments where quick and accurate choices are essential. Cognitive psychology examines how individuals perceive, think, and process information, which directly influences their decision-making abilities. Two critical concepts relevant to traders are the paradox of choice and decision fatigue.
 
-The paradox of choice refers to the phenomenon where having more options leads to increased anxiety and decision-making difficulty rather than improved satisfaction. When traders are presented with an overwhelming array of investment options and data, they may become indecisive, struggling to choose the optimal trade. The sheer volume of information can hinder their ability to prioritize and make swift decisions, potentially leading to missed opportunities.
+The paradox of choice refers to the phenomenon where having more options leads to increased anxiety and decision-making difficulty rather than improved satisfaction. When traders are presented with an overwhelming array of investment options and data, they may become indecisive, struggling to choose the optimal trade. The sheer [volume](/wiki/volume-trading-strategy) of information can hinder their ability to prioritize and make swift decisions, potentially leading to missed opportunities.
 
 Herbert A. Simon’s concept of bounded rationality is often cited in this context. It suggests that cognitive limitations and time constraints cause individuals to make satisficing decisions rather than optimizing ones. Traders faced with extensive options may settle for satisfactory trades instead of optimal ones due to cognitive overload.
 

@@ -20,7 +20,7 @@ Time bars and regular bars are different in how they show information. Time bars
 
 Regular bars, on the other hand, are used to show amounts or counts of things. They are often used in graphs to compare different groups or categories. For example, a regular bar chart might show how many apples and oranges were sold in a week. Each bar represents a different fruit, and the height of the bar shows how many were sold. This makes it easy to compare the amounts of different things.
 
-In trading, time bars show price changes over set times, like an hour or a day. Each bar represents the price movement during that time. Traders use these charts to find patterns and decide when to buy or sell. Regular bars in trading might show the total volume of trades for different stocks, helping traders see which stocks are more popular. So, time bars focus on time, while regular bars focus on amounts or counts.
+In trading, time bars show price changes over set times, like an hour or a day. Each bar represents the price movement during that time. Traders use these charts to find patterns and decide when to buy or sell. Regular bars in trading might show the total [volume](/wiki/volume-trading-strategy) of trades for different stocks, helping traders see which stocks are more popular. So, time bars focus on time, while regular bars focus on amounts or counts.
 
 ## What is the purpose of using time bars in data analysis?
 

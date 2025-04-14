@@ -18,7 +18,7 @@ Think of derivatives like a bet on the future price of something. For example, i
 
 There are several types of derivatives, but the main ones are futures, options, and swaps. Futures are contracts where you agree to buy or sell something at a set price on a specific date in the future. They are often used for commodities like oil or wheat. Options give you the right, but not the obligation, to buy or sell an asset at a set price before a certain date. They are like a choice you can make, and they're often used with stocks. Swaps are agreements to exchange cash flows or other financial instruments. They are commonly used to manage interest rate or currency risks.
 
-Futures are popular because they help people lock in prices and manage risk. For example, a farmer might use a futures contract to guarantee a price for their crops before they even plant them. This way, they know how much money they will get, no matter what happens to the market price later. Options are useful because they give you flexibility. If you buy an option to buy a stock, you can decide to use it if the stock price goes up, or just let it expire if the price goes down. Swaps are often used by big companies and banks to manage their finances better. For instance, a company might use an interest rate swap to change from a variable interest rate loan to a fixed rate loan, which can make their payments more predictable.
+Futures are popular because they help people lock in prices and manage risk. For example, a farmer might use a futures contract to guarantee a price for their crops before they even plant them. This way, they know how much money they will get, no matter what happens to the market price later. Options are useful because they give you flexibility. If you buy an option to buy a stock, you can decide to use it if the stock price goes up, or just let it expire if the price goes down. Swaps are often used by big companies and banks to manage their finances better. For instance, a company might use an [interest rate](/wiki/interest-rate-trading-strategies) swap to change from a variable interest rate loan to a fixed rate loan, which can make their payments more predictable.
 
 ## Why would someone use derivatives in trading?
 
@@ -32,11 +32,11 @@ When trading derivatives, one common strategy is hedging. This means using deriv
 
 Another strategy is speculation. This is when you try to make money by guessing how prices will move. For example, if you think the price of oil will go up, you might buy a futures contract to buy oil at today's price. If the price does go up, you can sell the oil at the higher price and make a profit. Speculation can be risky because if your guess is wrong, you could lose money. But it can also be rewarding if you guess right.
 
-A third strategy is arbitrage. This involves taking advantage of price differences in different markets. For example, if the price of a stock is lower on one exchange than another, you could buy the stock on the cheaper exchange and sell it on the more expensive one, making a profit from the difference. Arbitrage is less risky than speculation because it's based on existing price differences rather than guessing future price movements. However, these opportunities can be hard to find and may not last long.
+A third strategy is [arbitrage](/wiki/arbitrage). This involves taking advantage of price differences in different markets. For example, if the price of a stock is lower on one exchange than another, you could buy the stock on the cheaper exchange and sell it on the more expensive one, making a profit from the difference. Arbitrage is less risky than speculation because it's based on existing price differences rather than guessing future price movements. However, these opportunities can be hard to find and may not last long.
 
 ## How can beginners start trading derivatives safely?
 
-For beginners looking to start trading derivatives safely, it's important to start slow and learn the basics first. Begin by reading books or taking online courses about derivatives, like futures, options, and swaps. This will help you understand how they work and the risks involved. It's also a good idea to practice with a demo account, which many trading platforms offer. This lets you trade with fake money, so you can learn without risking your real money. Once you feel more confident, start with small amounts of real money. This way, if you make a mistake, it won't cost you too much.
+For beginners looking to start trading derivatives safely, it's important to start slow and learn the basics first. Begin by reading [books](/wiki/algo-trading-books) or taking online courses about derivatives, like futures, options, and swaps. This will help you understand how they work and the risks involved. It's also a good idea to practice with a demo account, which many trading platforms offer. This lets you trade with fake money, so you can learn without risking your real money. Once you feel more confident, start with small amounts of real money. This way, if you make a mistake, it won't cost you too much.
 
 Another key to trading derivatives safely is to have a clear plan and stick to it. Decide how much money you're willing to risk, and don't trade more than that. It's also important to set clear goals for your trades and know when to get out, whether you're making a profit or a loss. Using tools like stop-loss orders can help you limit your losses if the market moves against you. Finally, keep learning and stay updated on market news. The more you know, the better decisions you can make. Trading derivatives can be rewarding, but it's important to be patient and cautious as you learn.
 
@@ -86,7 +86,7 @@ Derivatives can also help with diversification. Diversification means spreading 
 
 ## What are the popular derivative strategies in algo trading?
 
-Algorithmic trading leverages advanced computational techniques to optimize trading strategies, often using derivatives as primary instruments. Among the diverse array of derivative strategies employed, trend-following with futures, options strategies for hedging and managing volatility, and arbitrage strategies exploiting price discrepancies stand out as particularly effective.
+Algorithmic trading leverages advanced computational techniques to optimize trading strategies, often using derivatives as primary instruments. Among the diverse array of derivative strategies employed, trend-following with futures, options strategies for hedging and managing [volatility](/wiki/volatility-trading-strategies), and arbitrage strategies exploiting price discrepancies stand out as particularly effective.
 
 **Trend-following with Futures Contracts**
 
@@ -109,7 +109,7 @@ signal = np.where(short_window > long_window, 1, 0)
 
 **Options Strategies for Hedging and Managing Volatility Risks**
 
-Options strategies in algorithmic trading offer multiple hedging and speculation opportunities. Options, which confer the right but not the obligation to buy or sell an asset at a specified price, are instrumental in managing volatility risks. A common strategy includes using a straddle, which involves buying both a call and a put option at the same strike price and expiration. This positions the trader to profit from significant price movements in either direction, while the loss is limited to the premium paid for the options.
+Options strategies in [algorithmic trading](/wiki/algorithmic-trading) offer multiple hedging and speculation opportunities. Options, which confer the right but not the obligation to buy or sell an asset at a specified price, are instrumental in managing volatility risks. A common strategy includes using a straddle, which involves buying both a call and a put option at the same strike price and expiration. This positions the trader to profit from significant price movements in either direction, while the loss is limited to the premium paid for the options.
 
 Consider a scenario where a trader expects a big move in a stock price but is uncertain about the direction. The payoff for a long straddle is:
 

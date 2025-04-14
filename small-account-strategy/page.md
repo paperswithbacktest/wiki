@@ -40,7 +40,7 @@ Another important principle is to focus on steady growth. Instead of trying to m
 
 ## What types of trading strategies work best with a small account?
 
-When you have a small account, it's smart to use trading strategies that don't put all your money at risk at once. One good strategy is called "scalping." Scalping means making lots of small trades throughout the day to take advantage of tiny price changes. Because you're only risking a small amount on each trade, you can keep your losses small and still make some profit. This way, you can slowly grow your account without taking big risks.
+When you have a small account, it's smart to use trading strategies that don't put all your money at risk at once. One good strategy is called "[scalping](/wiki/gamma-scalping)." Scalping means making lots of small trades throughout the day to take advantage of tiny price changes. Because you're only risking a small amount on each trade, you can keep your losses small and still make some profit. This way, you can slowly grow your account without taking big risks.
 
 Another strategy that works well with a small account is "swing trading." This involves holding onto trades for a few days or weeks to catch bigger price moves. With swing trading, you can still use a small amount of money per trade, but you're aiming for bigger gains over a longer time. This strategy helps you avoid the stress of watching the market all day and lets you focus on making steady, small profits that add up over time. Both scalping and swing trading can help you manage a small account effectively by keeping risks low and aiming for consistent growth.
 
@@ -82,7 +82,7 @@ Another example is Sarah, who started with $1,000 and used a swing trading strat
 
 ## How can one grow a small trading account?
 
-Growing a small trading account in algorithmic trading necessitates a combination of patience, realistic expectations, and strategic diversification. Patience is essential as the journey to growth is often gradual. Traders must avoid the allure of quick, high-risk trades that can jeopardize the account balance. Instead, maintaining realistic expectations about potential returns helps to establish a sustainable trading plan.
+Growing a small trading account in [algorithmic trading](/wiki/algorithmic-trading) necessitates a combination of patience, realistic expectations, and strategic diversification. Patience is essential as the journey to growth is often gradual. Traders must avoid the allure of quick, high-risk trades that can jeopardize the account balance. Instead, maintaining realistic expectations about potential returns helps to establish a sustainable trading plan.
 
 Compounding returns are a potent mechanism that significantly enhances account growth over time. This principle, well-regarded by industry veterans, involves reinvesting profits to generate more earnings from the accumulated balance. Mathematically, compounding can be expressed using the formula:
 
@@ -92,7 +92,7 @@ $$
 
 where $A$ is the amount of money accumulated after $n$ years, including interest. $P$ is the principal amount, $r$ is the annual interest rate, and $t$ is the time period in years. In trading terms, continually reinvesting gains into new trading positions contributes to exponential account growth, as seen over long time horizons.
 
-Diversification plays a pivotal role in achieving stable growth. By varying strategies and asset classes, traders mitigate risks associated with market volatility. Engaging in multiple markets or employing different trading algorithms can cushion against the adverse performance of a single asset or strategy. For instance, using a blend of trend-following and mean-reversion strategies can offset losses in trendless markets.
+Diversification plays a pivotal role in achieving stable growth. By varying strategies and asset classes, traders mitigate risks associated with market [volatility](/wiki/volatility-trading-strategies). Engaging in multiple markets or employing different trading algorithms can cushion against the adverse performance of a single asset or strategy. For instance, using a blend of trend-following and mean-reversion strategies can offset losses in trendless markets.
 
 Moreover, portfolio diversification encourages exposure to different sectors, reducing the impact of sector-specific downturns. Expanding to various asset classes such as equities, [forex](/wiki/forex-system), and commodities, broadens the scope of opportunities and enhances the potential for consistent returns.
 

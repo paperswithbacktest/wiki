@@ -64,7 +64,7 @@ Another way to evaluate the model is by testing it in different situations. You 
 
 ## What advanced techniques can enhance the effectiveness of reinforcement learning in trading?
 
-One advanced technique to make reinforcement learning better at trading is using deep learning. Deep learning is a kind of artificial intelligence that can learn from a lot of data and find patterns that are hard to see. By using deep learning, the trading model can understand complex market data and make smarter decisions. This is called Deep Reinforcement Learning. It can help the model learn faster and make better trades by understanding things like stock prices, news, and other market signals in a more detailed way.
+One advanced technique to make reinforcement learning better at trading is using [deep learning](/wiki/deep-learning). Deep learning is a kind of [artificial intelligence](/wiki/ai-artificial-intelligence) that can learn from a lot of data and find patterns that are hard to see. By using deep learning, the trading model can understand complex market data and make smarter decisions. This is called Deep Reinforcement Learning. It can help the model learn faster and make better trades by understanding things like stock prices, news, and other market signals in a more detailed way.
 
 Another technique is called transfer learning. This is when the model learns from one situation and uses that knowledge in a different situation. For example, the model might learn to trade stocks in one market and then use that knowledge to trade in another market. This can save time and help the model adapt to new situations quicker. By using transfer learning, the trading model can become more flexible and better at handling different types of markets and conditions.
 

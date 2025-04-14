@@ -64,7 +64,7 @@ Adding perpetual bonds to your portfolio can also help spread out your risk. If 
 
 ## What historical examples illustrate the use of perpetual bonds?
 
-One famous example of perpetual bonds is from the British government. In the 18th century, they issued something called the "Consols." These were perpetual bonds that paid a fixed interest rate forever. The British government used the money from these bonds to help pay for wars and other big expenses. People liked buying Consols because they got a steady income from the interest payments. The British government finally paid off the last of the Consols in 2015, more than 200 years after they were first issued.
+One famous example of perpetual bonds is from the British government. In the 18th century, they issued something called the "Consols." These were perpetual bonds that paid a fixed [interest rate](/wiki/interest-rate-trading-strategies) forever. The British government used the money from these bonds to help pay for wars and other big expenses. People liked buying Consols because they got a steady income from the interest payments. The British government finally paid off the last of the Consols in 2015, more than 200 years after they were first issued.
 
 Another example comes from big companies and banks. For instance, in the early 2000s, banks like Bank of America and companies like Coca-Cola issued perpetual bonds. They did this to raise money without having to worry about paying it back all at once. Investors were happy to buy these bonds because they offered higher interest rates than regular bonds. This made perpetual bonds a popular choice for investors looking for more income from their investments.
 

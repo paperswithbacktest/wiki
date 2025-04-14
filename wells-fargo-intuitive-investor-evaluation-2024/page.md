@@ -70,7 +70,7 @@ The support team at Wells Fargo Intuitive Investor knows a lot about investing a
 
 ## How has the performance of Wells Fargo Intuitive Investor been in 2024?
 
-In 2024, Wells Fargo Intuitive Investor has been doing well for many people. The robo-advisor has been picking good investments that match what people want and how much risk they're okay with. Because the stock market has been going up and down, the robo-advisor has been making smart changes to keep people's money safe and growing. Many users have seen their investments grow, which makes them happy and confident about saving for the future.
+In 2024, Wells Fargo Intuitive Investor has been doing well for many people. The robo-advisor has been [picking](/wiki/asset-class-picking) good investments that match what people want and how much risk they're okay with. Because the stock market has been going up and down, the robo-advisor has been making smart changes to keep people's money safe and growing. Many users have seen their investments grow, which makes them happy and confident about saving for the future.
 
 The platform has also been easy to use and understand. People like that they can check on their investments anytime and see how they're doing. If someone's goals change, the robo-advisor quickly adjusts the investments to match. This has made a lot of people feel good about using Wells Fargo Intuitive Investor because it's simple and helps them reach their financial goals without a lot of work.
 

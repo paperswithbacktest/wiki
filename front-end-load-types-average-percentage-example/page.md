@@ -24,7 +24,7 @@ The front-end load is used to pay the people who sell the mutual fund, like fina
 
 Front-end loads can be different depending on the mutual fund and the company that sells it. Some funds have a fixed front-end load, which means you always pay the same percentage no matter how much money you invest. For example, if the load is 5%, you pay 5% whether you invest $1,000 or $10,000. Other funds have a sliding scale front-end load, where the percentage you pay goes down if you invest more money. So, you might pay 5% on the first $10,000, but only 4% on the next $10,000.
 
-Another type of front-end load is called a breakpoint discount. This means you can get a lower front-end load if you invest a certain amount of money or if you already have a lot of money invested in the same company's funds. For example, if you invest $50,000 or more, the front-end load might drop from 5% to 3%. This is to encourage people to invest more money or to keep their money with the same company. Knowing about these different types of front-end loads can help you make better choices when you're picking a mutual fund.
+Another type of front-end load is called a breakpoint discount. This means you can get a lower front-end load if you invest a certain amount of money or if you already have a lot of money invested in the same company's funds. For example, if you invest $50,000 or more, the front-end load might drop from 5% to 3%. This is to encourage people to invest more money or to keep their money with the same company. Knowing about these different types of front-end loads can help you make better choices when you're [picking](/wiki/asset-class-picking) a mutual fund.
 
 ## Can you explain the average percentage of front-end loads?
 

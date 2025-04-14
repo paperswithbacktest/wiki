@@ -26,7 +26,7 @@ Systematic risk comes from things that affect the whole market or a big part of 
 
 Another big source of systematic risk is political events. Things like elections, new laws, or international conflicts can shake up the market. For example, if a new government comes in and changes tax laws, it can affect how much money companies make and how much investors want to invest. Natural disasters are also a source of systematic risk. Events like earthquakes or hurricanes can damage businesses and disrupt the economy, causing stock prices to fall.
 
-Overall, systematic risk is caused by big events that you can't control or avoid by just picking different investments. Understanding these sources can help investors prepare for and manage the risks that come with investing in the market.
+Overall, systematic risk is caused by big events that you can't control or avoid by just [picking](/wiki/asset-class-picking) different investments. Understanding these sources can help investors prepare for and manage the risks that come with investing in the market.
 
 ## Can you provide examples of systematic risk events?
 

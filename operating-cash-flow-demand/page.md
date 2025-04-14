@@ -48,7 +48,7 @@ Lastly, increasing sales can help improve operating cash flow. This might involv
 
 ## How can operating cash flow demand affect a company's liquidity?
 
-Operating cash flow demand can have a big impact on a company's liquidity, which is how easily it can turn its assets into cash to pay for things. If a company's operating cash flow demand is high, it means the company needs a lot of money just to keep running day to day. If the company can't generate enough cash from its sales to meet this demand, it might have to use its savings or borrow money. This can make the company less liquid because it's using up its cash reserves or taking on debt, which can be hard to pay back if things don't improve.
+Operating cash flow demand can have a big impact on a company's [liquidity](/wiki/liquidity-risk-premium), which is how easily it can turn its assets into cash to pay for things. If a company's operating cash flow demand is high, it means the company needs a lot of money just to keep running day to day. If the company can't generate enough cash from its sales to meet this demand, it might have to use its savings or borrow money. This can make the company less liquid because it's using up its cash reserves or taking on debt, which can be hard to pay back if things don't improve.
 
 On the other hand, if a company can keep its operating cash flow demand low or if it can generate more cash than it needs, it will be in a better position. It will have more cash on hand, which makes it more liquid. This means the company can easily pay its bills, invest in new opportunities, or handle unexpected expenses without having to worry about running out of money. Managing operating cash flow demand well is key to keeping a company liquid and financially healthy.
 

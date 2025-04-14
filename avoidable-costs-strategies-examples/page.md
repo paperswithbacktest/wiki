@@ -104,9 +104,9 @@ Traders can mitigate market impact costs by dividing large orders into smaller t
 
 Opportunity costs represent potential profits lost when a trading opportunity is missed or delayed. These costs are typically incurred due to inefficiencies in trading systems or delays in decision-making processes. For example, suppose a trader identifies a potential profit of $10,000 from a trade opportunity, but due to latency or processing delays, the trade is not executed in time. The entire $10,000 could be considered an opportunity cost. 
 
-Reducing opportunity costs involves improving algorithmic decision-making speed and ensuring robust network infrastructure to decrease latency. Advanced monitoring systems and machine learning models that predict and act on trading signals promptly are effective tools in minimizing these costs.
+Reducing opportunity costs involves improving algorithmic decision-making speed and ensuring robust network infrastructure to decrease latency. Advanced monitoring systems and [machine learning](/wiki/machine-learning) models that predict and act on trading signals promptly are effective tools in minimizing these costs.
 
-By meticulously analyzing and managing these key costs—transaction, market impact, and opportunity costs—traders can enhance their algorithmic trading performance, ultimately leading to greater efficiency and profitability.
+By meticulously analyzing and managing these key costs—transaction, market impact, and opportunity costs—traders can enhance their [algorithmic trading](/wiki/algorithmic-trading) performance, ultimately leading to greater efficiency and profitability.
 
 ## References & Further Reading
 

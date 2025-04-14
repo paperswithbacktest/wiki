@@ -48,7 +48,7 @@ If your IRA does allow you to trade futures and options, you won't pay taxes on 
 
 ## How do tax laws treat losses from futures and options, and what are the limits on deducting these losses?
 
-When you lose money trading futures and options, you can use those losses to reduce your taxes. For futures, you report your losses on Form 6781. You can use these losses to offset any gains you made from futures trading. If your losses are more than your gains, you can deduct up to $3,000 of the extra loss from your regular income each year. If you still have losses left over after that, you can carry them forward to future years to use against future gains or income.
+When you lose money trading futures and options, you can use those losses to reduce your taxes. For futures, you report your losses on Form 6781. You can use these losses to offset any gains you made from futures trading. If your losses are more than your gains, you can deduct up to $3,000 of the extra loss from your regular income each year. If you still have losses left over after that, you can [carry](/wiki/carry-trading) them forward to future years to use against future gains or income.
 
 For options, you report your losses on Schedule D of your tax return. Just like with futures, you can use these losses to offset any gains you made from trading options. If your losses are more than your gains, you can also deduct up to $3,000 of the extra loss from your regular income each year. Any remaining losses can be carried forward to future years. It's important to keep good records of all your trades so you can accurately report your gains and losses and take advantage of these tax benefits.
 

@@ -18,7 +18,7 @@ Volume is important in trading because it helps traders understand how strong a 
 
 Beginners can use stock volume to identify market trends by looking at how many shares are traded when the stock price changes. If a stock's price is going up and the volume is high, it means many people are buying the stock. This can show that the upward trend is strong and likely to continue. On the other hand, if the stock price is going up but the volume is low, it might mean that not many people are interested, and the upward trend might not last long.
 
-When the stock price is going down, volume can also help. If the price is falling and the volume is high, it means many people are selling the stock. This can show that the downward trend is strong and might keep going. If the price is falling but the volume is low, it might mean that not many people are selling, and the downward trend might not be as strong. By watching the volume along with price changes, beginners can get a better idea of whether a trend is likely to continue or reverse.
+When the stock price is going down, [volume](/wiki/volume-trading-strategy) can also help. If the price is falling and the volume is high, it means many people are selling the stock. This can show that the downward trend is strong and might keep going. If the price is falling but the volume is low, it might mean that not many people are selling, and the downward trend might not be as strong. By watching the volume along with price changes, beginners can get a better idea of whether a trend is likely to continue or reverse.
 
 ## What are the basic volume indicators that traders use?
 

@@ -34,7 +34,7 @@ Another place where the harmonic mean is useful is in finance, especially when y
 
 ## How is the harmonic mean used in statistics?
 
-In statistics, the harmonic mean is often used when you're dealing with rates or ratios. For example, if you're trying to find the average speed of a trip where you drive different distances at different speeds, the harmonic mean gives you a better idea of your overall average speed than the regular average. This is because it focuses on the rate at which you're traveling, not just the total distance or time.
+In [statistics](/wiki/bayesian-statistics), the harmonic mean is often used when you're dealing with rates or ratios. For example, if you're trying to find the average speed of a trip where you drive different distances at different speeds, the harmonic mean gives you a better idea of your overall average speed than the regular average. This is because it focuses on the rate at which you're traveling, not just the total distance or time.
 
 Another way the harmonic mean is used in statistics is in finance, like when you're looking at investment returns over time. If you have investments that grow at different rates, the harmonic mean can help you figure out the average growth rate more accurately. It's all about understanding how rates work together, which makes the harmonic mean a useful tool in situations where the size of the numbers matters less than how they relate to each other.
 

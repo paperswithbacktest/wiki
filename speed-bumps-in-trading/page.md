@@ -66,7 +66,7 @@ But other regulators worry that speed bumps might make trading less efficient. T
 
 Speed bumps can make the market less liquid. Liquidity means how easy it is to buy or sell things without changing the price too much. When trades are slowed down, some traders might not want to trade as much. They might think it's too hard or too slow to make money. This can mean fewer people are buying and selling, which makes the market less lively and can make it harder to trade quickly.
 
-On the other hand, speed bumps can also help keep the market stable. When everyone is trying to trade very fast, it can lead to a lot of quick buying and selling that can make prices go up and down a lot. Speed bumps slow things down and help create a more orderly market. This can make some traders feel more comfortable trading, which might help keep liquidity at a good level. So, while speed bumps might reduce some quick trading, they can also help keep the market calm and steady.
+On the other hand, speed bumps can also help keep the market stable. When everyone is trying to trade very fast, it can lead to a lot of quick buying and selling that can make prices go up and down a lot. Speed bumps slow things down and help create a more orderly market. This can make some traders feel more comfortable trading, which might help keep [liquidity](/wiki/liquidity-risk-premium) at a good level. So, while speed bumps might reduce some quick trading, they can also help keep the market calm and steady.
 
 ## What are the global variations in the use of speed bumps?
 

@@ -126,7 +126,7 @@ In summary, understanding and applying various forms of risk aversion is vital i
 
 ## What are the practical applications and challenges?
 
-Hyperbolic Absolute Risk Aversion (HARA) utility functions are utilized in algorithmic trading for their ability to model investor risk preferences that vary with wealth levels. This adaptability provides algorithms with a nuanced understanding of how risk tolerance shifts, potentially leading to more sophisticated and responsive trading strategies.
+Hyperbolic Absolute Risk Aversion (HARA) utility functions are utilized in [algorithmic trading](/wiki/algorithmic-trading) for their ability to model investor risk preferences that vary with wealth levels. This adaptability provides algorithms with a nuanced understanding of how risk tolerance shifts, potentially leading to more sophisticated and responsive trading strategies.
 
 ### Real-World Applications of HARA in Algorithmic Trading
 

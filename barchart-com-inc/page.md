@@ -72,7 +72,7 @@ Another important innovation is their work on making data easier to use. Barchar
 
 ## How does Barchart.com Inc. use machine learning and AI to enhance its services?
 
-Barchart.com Inc. uses machine learning and AI to make their services better for users. They use these technologies to look at a lot of data and find patterns that people might miss. For example, they can predict how prices might change in the future by studying past data. This helps traders and investors make smarter choices. Barchart also uses AI to make their data more accurate. They have systems that check data all the time and fix any mistakes quickly, so users always have the best information.
+Barchart.com Inc. uses [machine learning](/wiki/machine-learning) and AI to make their services better for users. They use these technologies to look at a lot of data and find patterns that people might miss. For example, they can predict how prices might change in the future by studying past data. This helps traders and investors make smarter choices. Barchart also uses AI to make their data more accurate. They have systems that check data all the time and fix any mistakes quickly, so users always have the best information.
 
 Another way Barchart uses machine learning is to help users find what they need faster. They use AI to understand what users are looking for and show them the most helpful information first. This makes it easier for people to find the data and tools they need without wasting time. Overall, Barchart's use of machine learning and AI helps make their platform more useful and easier to use for everyone.
 

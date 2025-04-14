@@ -46,7 +46,7 @@ But it's not always more expensive. Some brokers have the same fees for odd lots
 
 ## Can odd lot trades impact market liquidity?
 
-Odd lot trades can affect market liquidity, which is how easily you can buy or sell something without changing its price too much. When people trade in odd lots, it can make the market a bit less liquid. This is because odd lots are not the standard size that most trades happen in, so it might take longer to find someone who wants to trade that exact number of shares. This can slow down the trading process and make it harder to buy or sell quickly.
+Odd lot trades can affect market [liquidity](/wiki/liquidity-risk-premium), which is how easily you can buy or sell something without changing its price too much. When people trade in odd lots, it can make the market a bit less liquid. This is because odd lots are not the standard size that most trades happen in, so it might take longer to find someone who wants to trade that exact number of shares. This can slow down the trading process and make it harder to buy or sell quickly.
 
 But odd lots also help make the market more liquid in another way. They let smaller investors join the market, even if they can't afford to buy 100 shares at once. More people trading, even in smaller amounts, can make the market more active and diverse. So, while odd lots might make some trades a bit harder, they also help more people take part, which can be good for overall market liquidity.
 
@@ -70,13 +70,13 @@ Regulators also keep an eye on odd lot trading to understand what's happening in
 
 ## What historical trends can be observed in the volume of odd lot trading?
 
-Over the years, the volume of odd lot trading has changed a lot. In the past, odd lot trading was not as common because most people traded in round lots of 100 shares. But as more people started investing, and with the rise of online trading platforms, odd lot trading became more popular. This is because more people could afford to buy smaller amounts of shares, and they wanted to invest even if they couldn't buy a full round lot.
+Over the years, the [volume](/wiki/volume-trading-strategy) of odd lot trading has changed a lot. In the past, odd lot trading was not as common because most people traded in round lots of 100 shares. But as more people started investing, and with the rise of online trading platforms, odd lot trading became more popular. This is because more people could afford to buy smaller amounts of shares, and they wanted to invest even if they couldn't buy a full round lot.
 
 Today, odd lot trading is much more common than it used to be. This is because technology has made it easier for people to trade smaller amounts of shares. Also, more investors are using strategies that involve buying and selling odd lots. This has led to a big increase in the volume of odd lot trades. As a result, odd lots now play a bigger role in the overall market activity.
 
 ## How might technological advancements influence the future of odd lot trading?
 
-Technological advancements could make odd lot trading even easier and more common in the future. With better trading platforms and faster computers, people can buy and sell odd lots more quickly. This means that even small investors can trade the exact number of shares they want without waiting too long. Also, new technology like artificial intelligence and algorithms can help find the best prices for odd lots, making it cheaper and easier for everyone to trade.
+Technological advancements could make odd lot trading even easier and more common in the future. With better trading platforms and faster computers, people can buy and sell odd lots more quickly. This means that even small investors can trade the exact number of shares they want without waiting too long. Also, new technology like [artificial intelligence](/wiki/ai-artificial-intelligence) and algorithms can help find the best prices for odd lots, making it cheaper and easier for everyone to trade.
 
 In the future, we might see more people using odd lots as part of their investment strategies. As technology makes trading more accessible, more people will feel comfortable buying and selling smaller amounts of shares. This could lead to more activity in the market and make it more lively. Overall, technology is likely to make odd lot trading a bigger part of the stock market, helping more people join in and making the market work better for everyone.
 

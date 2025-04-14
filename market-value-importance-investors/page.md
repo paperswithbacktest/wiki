@@ -42,7 +42,7 @@ Market value also helps investors compare different investments. If one stock ha
 
 ## What factors influence the market value of a company?
 
-The market value of a company is influenced by many things. One big factor is how well the company is doing. If a company is making a lot of money and growing, people might want to buy its stock, which can make the market value go up. Another factor is what's happening in the world. If there's good news about the company or its industry, like new products or good economic conditions, the market value can go up. But if there's bad news, like a scandal or a recession, the market value can go down.
+The market value of a company is influenced by many things. One big [factor](/wiki/factor-investing) is how well the company is doing. If a company is making a lot of money and growing, people might want to buy its stock, which can make the market value go up. Another factor is what's happening in the world. If there's good news about the company or its industry, like new products or good economic conditions, the market value can go up. But if there's bad news, like a scandal or a recession, the market value can go down.
 
 Another thing that affects market value is how much people want to buy the company's stock. If a lot of people want to buy it, the price can go up because there's more demand. But if fewer people want to buy it, the price can go down. The number of shares available also matters. If a company has a lot of shares, the price per share might be lower. And finally, what other investors think can change the market value. If big investors think a company is a good buy, they might buy a lot of its stock, which can push the market value up.
 

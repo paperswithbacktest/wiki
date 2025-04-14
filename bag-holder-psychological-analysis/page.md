@@ -22,7 +22,7 @@ This often happens because people get too attached to their investments. They mi
 
 ## What are the common psychological traits of a bag holder?
 
-Bag holders often have a hard time letting go of their investments. They might feel too attached to the stock or cryptocurrency they bought. This attachment can come from believing in the company or project, or from not wanting to admit they made a mistake. They might think, "If I just wait a bit longer, the price will go back up." This hope can make them ignore the signs that the investment is not doing well.
+Bag holders often have a hard time letting go of their investments. They might feel too attached to the stock or [cryptocurrency](/wiki/cryptocurrency) they bought. This attachment can come from believing in the company or project, or from not wanting to admit they made a mistake. They might think, "If I just wait a bit longer, the price will go back up." This hope can make them ignore the signs that the investment is not doing well.
 
 Another common trait is the fear of realizing a loss. Bag holders might have bought the investment at a high price and don't want to sell it at a lower price. They think that selling at a loss means they failed. So, they keep holding onto the investment, hoping it will recover. But this can lead to even bigger losses if the price keeps going down.
 

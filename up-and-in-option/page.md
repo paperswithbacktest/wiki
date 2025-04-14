@@ -52,7 +52,7 @@ Another risk is that even if the price does reach the barrier, the stock might n
 
 ## How is the pricing of an Up-and-In Option determined?
 
-The price of an Up-and-In Option, also called the premium, is figured out by looking at a few important things. One big thing is how likely it is that the price of the stock will reach the barrier before the option runs out of time. If it's very likely, the option will cost more because more people will want to buy it. Another thing is how much the stock's price moves around, called volatility. If the stock's price jumps around a lot, the option might be more expensive because there's a bigger chance it will hit the barrier.
+The price of an Up-and-In Option, also called the premium, is figured out by looking at a few important things. One big thing is how likely it is that the price of the stock will reach the barrier before the option runs out of time. If it's very likely, the option will cost more because more people will want to buy it. Another thing is how much the stock's price moves around, called [volatility](/wiki/volatility-trading-strategies). If the stock's price jumps around a lot, the option might be more expensive because there's a bigger chance it will hit the barrier.
 
 Also, the time until the option expires matters. The longer you have until the option expires, the more time there is for the stock to reach the barrier, so the option might cost more. The strike price, which is the price at which you can buy or sell the stock if the option starts working, also affects the price. If the strike price is far away from where the stock is now, the option might be cheaper because it's less likely to be used. All these things together help decide how much you'll pay for an Up-and-In Option.
 

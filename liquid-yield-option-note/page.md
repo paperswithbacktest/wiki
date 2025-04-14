@@ -18,7 +18,7 @@ LYONs also come with other benefits. For example, they often have a lower intere
 
 A Liquid Yield Option Note, or LYON, is like a special kind of loan that a company gives to investors. When you buy a LYON, you're giving the company money, and in return, they promise to pay you back with interest over time. But here's the twist: instead of just getting your money back with interest, you also get the option to trade your LYON for shares of the company's stock. This means if the company does well and the stock price goes up, you could turn your LYON into stock and maybe make more money.
 
-LYONs are designed to be flexible. They usually have a lower interest rate than normal loans because of the option to convert them into stock. This makes them attractive to companies because they can borrow money at a cheaper rate. For investors, LYONs offer a safety net. If the company's stock price drops a lot, you don't have to convert your LYON into stock. You can just keep it as a loan and get your money back with interest. This mix of features makes LYONs a smart choice for people who want to invest but also want some protection.
+LYONs are designed to be flexible. They usually have a lower [interest rate](/wiki/interest-rate-trading-strategies) than normal loans because of the option to convert them into stock. This makes them attractive to companies because they can borrow money at a cheaper rate. For investors, LYONs offer a safety net. If the company's stock price drops a lot, you don't have to convert your LYON into stock. You can just keep it as a loan and get your money back with interest. This mix of features makes LYONs a smart choice for people who want to invest but also want some protection.
 
 ## What are the key features of a LYON?
 

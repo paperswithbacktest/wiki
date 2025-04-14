@@ -24,7 +24,7 @@ During this time, the stock market also became very unstable. On August 9, 2007,
 
 In August 2007, quants faced a big problem because of something called the "quant meltdown." This happened because many quants were using similar math models to make investment decisions. When the housing market started to fail, these models didn't work well anymore. As a result, many quants had to sell their investments quickly to avoid losing more money. This sudden selling caused the value of their investments to drop even more, making the situation worse.
 
-The crisis was triggered on August 6, 2007, when a big hedge fund called Goldman Sachs Global Alpha lost a lot of money. This made other investors panic and start selling their investments too. Because many quants were using the same strategies, the selling spread quickly across the market. This chain reaction showed how connected and risky the financial world had become, and it was a big wake-up call for quants and the whole industry.
+The crisis was triggered on August 6, 2007, when a big [hedge fund](/wiki/hedge-fund-trading-strategies) called Goldman Sachs Global Alpha lost a lot of money. This made other investors panic and start selling their investments too. Because many quants were using the same strategies, the selling spread quickly across the market. This chain reaction showed how connected and risky the financial world had become, and it was a big wake-up call for quants and the whole industry.
 
 ## Which hedge funds were most affected by the quant crisis?
 
@@ -40,9 +40,9 @@ The crisis also made it harder for banks to trust each other. Banks became worri
 
 ## What were the main strategies used by quants that failed during the crisis?
 
-During the quant crisis in August 2007, many quants used strategies that didn't work well anymore. One big strategy was called statistical arbitrage. This meant using math to find small differences in prices between similar investments and then buying and selling them to make a profit. But when the housing market started to fail, these small differences got bigger and the models couldn't predict them anymore. This made the quants lose money instead of making it.
+During the quant crisis in August 2007, many quants used strategies that didn't work well anymore. One big strategy was called statistical [arbitrage](/wiki/arbitrage). This meant using math to find small differences in prices between similar investments and then buying and selling them to make a profit. But when the housing market started to fail, these small differences got bigger and the models couldn't predict them anymore. This made the quants lose money instead of making it.
 
-Another strategy that failed was called factor-based investing. Quants used this to pick investments based on certain factors like how big a company was or how much it was growing. They thought these factors would help them make good choices, but when the market got scared and started selling, these factors didn't work like they used to. The models couldn't handle the big changes in the market, so the quants had to sell their investments quickly, which made things even worse.
+Another strategy that failed was called [factor](/wiki/factor-investing)-based investing. Quants used this to pick investments based on certain factors like how big a company was or how much it was growing. They thought these factors would help them make good choices, but when the market got scared and started selling, these factors didn't work like they used to. The models couldn't handle the big changes in the market, so the quants had to sell their investments quickly, which made things even worse.
 
 The crisis showed that when many quants use the same strategies and models, it can be very risky. If one model starts to fail, it can cause a chain reaction where everyone starts selling at the same time. This is what happened in August 2007, and it made the financial markets very unstable. It was a big lesson for quants and the whole financial industry about the dangers of relying too much on the same math models.
 

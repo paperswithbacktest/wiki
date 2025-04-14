@@ -42,7 +42,7 @@ Both methods are acceptable under accounting standards, but the direct method gi
 
 ## How can cash flow analysis help in managing a business's liquidity?
 
-Cash flow analysis helps a business manage its liquidity by showing how much cash is coming in and going out. Liquidity is about having enough cash to pay for things when they're due, like bills or salaries. By looking at the cash flow statement, a business owner can see if there's enough money to cover these costs. If the cash flow is positive, it means the business is bringing in more cash than it's spending, which is good for liquidity. But if it's negative, it might mean the business needs to find more cash quickly to stay afloat.
+Cash flow analysis helps a business manage its [liquidity](/wiki/liquidity-risk-premium) by showing how much cash is coming in and going out. Liquidity is about having enough cash to pay for things when they're due, like bills or salaries. By looking at the cash flow statement, a business owner can see if there's enough money to cover these costs. If the cash flow is positive, it means the business is bringing in more cash than it's spending, which is good for liquidity. But if it's negative, it might mean the business needs to find more cash quickly to stay afloat.
 
 Using cash flow analysis, a business can plan better for the future. For example, if the analysis shows that cash is tight during certain months, the business can prepare by saving extra cash beforehand or arranging a line of credit. This way, they can make sure they always have enough money to pay their bills on time. Good cash flow management helps keep the business running smoothly and avoids surprises that could cause financial trouble.
 

@@ -40,7 +40,7 @@ For example, if a government bond has a yield of 3% and a corporate bond has a y
 
 ## What factors influence changes in the Quality Spread Differential?
 
-Changes in the Quality Spread Differential (QSD) are influenced by many things. One big factor is how people feel about the economy. When people think the economy is doing well, they might feel more comfortable taking risks, so they might not need as much extra interest to buy a riskier bond. This can make the QSD smaller. But if people are worried about the economy, they might want a lot more interest to take on the risk, making the QSD bigger.
+Changes in the Quality Spread Differential (QSD) are influenced by many things. One big [factor](/wiki/factor-investing) is how people feel about the economy. When people think the economy is doing well, they might feel more comfortable taking risks, so they might not need as much extra interest to buy a riskier bond. This can make the QSD smaller. But if people are worried about the economy, they might want a lot more interest to take on the risk, making the QSD bigger.
 
 Another thing that can change the QSD is how well companies are doing. If a lot of companies are having money problems, their bonds become riskier, and investors will want more interest to buy them. This makes the QSD go up. On the other hand, if companies are doing well, their bonds are less risky, and the QSD might go down. So, the health of companies and how people feel about the economy are big reasons why the QSD changes.
 

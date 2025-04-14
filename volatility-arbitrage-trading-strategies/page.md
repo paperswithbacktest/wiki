@@ -18,7 +18,7 @@ This strategy can be tricky because it involves guessing how much a stock's pric
 
 Volatility arbitrage is different from other arbitrage strategies because it focuses on the expected movement, or volatility, of a stock's price rather than the price itself. In traditional arbitrage, traders look for price differences of the same asset in different markets and buy low in one place and sell high in another. For example, if a stock is cheaper on one exchange than another, a trader can buy it on the cheaper exchange and sell it on the more expensive one, making a profit from the price difference. Volatility arbitrage, on the other hand, doesn't care about the current price but about how much the price might change in the future.
 
-In volatility arbitrage, traders use options to bet on whether a stock's price will be more or less volatile than what the market expects. They might buy options if they think the stock will move more than the options suggest, or sell options if they think it will move less. This is different from other forms of arbitrage, like statistical arbitrage, where traders use math models to find patterns in stock prices and trade based on those patterns. Volatility arbitrage is more about predicting the storminess of the market, while other arbitrage strategies are more about finding calm, reliable price differences or patterns to exploit.
+In [volatility](/wiki/volatility-trading-strategies) [arbitrage](/wiki/arbitrage), traders use options to bet on whether a stock's price will be more or less volatile than what the market expects. They might buy options if they think the stock will move more than the options suggest, or sell options if they think it will move less. This is different from other forms of arbitrage, like [statistical arbitrage](/wiki/statistical-arbitrage), where traders use math models to find patterns in stock prices and trade based on those patterns. Volatility arbitrage is more about predicting the storminess of the market, while other arbitrage strategies are more about finding calm, reliable price differences or patterns to exploit.
 
 ## What are the key components of volatility in financial markets?
 
@@ -36,7 +36,7 @@ This strategy can be tricky because it's hard to predict how much a stock's pric
 
 One common type of volatility arbitrage strategy is called delta-neutral trading. In this strategy, traders try to make money from the difference between the expected volatility of a stock and the actual volatility. They use options and adjust their positions to make sure they don't lose money if the stock price goes up or down a little bit. The goal is to profit if the stock's price moves more or less than what the options suggest. It's like trying to balance on a seesaw so that small movements don't affect you, but big swings do.
 
-Another type is called dispersion trading. This strategy involves betting on the difference in volatility between a whole group of stocks, like those in an index, and the individual stocks within that group. Traders might think that the overall index will be less volatile than the sum of its parts. They use options on both the index and the individual stocks to make money from this difference. It's like betting that a team of players will be more predictable than each player acting on their own.
+Another type is called [dispersion](/wiki/dispersion-trading) trading. This strategy involves betting on the difference in volatility between a whole group of stocks, like those in an index, and the individual stocks within that group. Traders might think that the overall index will be less volatile than the sum of its parts. They use options on both the index and the individual stocks to make money from this difference. It's like betting that a team of players will be more predictable than each player acting on their own.
 
 A third type is variance swaps. In this strategy, traders directly bet on the difference between the realized volatility of a stock and the implied volatility from options. They enter into a contract that pays out based on how much the stock's price actually moves compared to what the options market expected. It's a straightforward way to bet on whether the market's guess about future volatility is too high or too low.
 
@@ -84,7 +84,7 @@ Traders also use something called the information ratio to see if their strategy
 
 ## What are the Mechanics of Volatility Arbitrage?
 
-Volatility arbitrage is a sophisticated financial strategy that centers around the differences between implied and realized volatility. This strategy employs various econometric models and machine learning tools to accurately forecast future volatility, enabling traders to establish a delta-neutral portfolio and thus focus solely on volatility changes.
+Volatility arbitrage is a sophisticated financial strategy that centers around the differences between implied and realized volatility. This strategy employs various econometric models and [machine learning](/wiki/machine-learning) tools to accurately forecast future volatility, enabling traders to establish a delta-neutral portfolio and thus focus solely on volatility changes.
 
 ### Econometric Models and Forecasting
 

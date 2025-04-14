@@ -144,7 +144,7 @@ Where:
 - $E[R_p - R_f]$ is the expected excess return of the portfolio over the risk-free rate,
 - $\sigma_p$ is the standard deviation of the portfolio's excess return.
 
-This ratio helps assess how much excess return is being received for the extra volatility endured by holding a riskier asset.
+This ratio helps assess how much excess return is being received for the extra [volatility](/wiki/volatility-trading-strategies) endured by holding a riskier asset.
 
 Similarly, the Treynor ratio is employed to gauge returns relative to systemic risk instead of total risk, using the formula:
 

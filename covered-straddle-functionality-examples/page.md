@@ -60,7 +60,7 @@ Another thing to consider is how much money you can lose. When you sell a call o
 
 ## How does volatility impact a covered straddle strategy?
 
-Volatility, which means how much a stock's price goes up and down, really affects a covered straddle. If the stock price stays calm and doesn't move much, you can make money from the fees you get when you sell the call and put options. This is because nobody will use the options if the stock price stays close to the price you set, and you get to keep all that money. So, low volatility is good for a covered straddle because it means you can keep the money you made from selling the options without having to worry about big changes in the stock price.
+Volatility, which means how much a stock's price goes up and down, really affects a covered straddle. If the stock price stays calm and doesn't move much, you can make money from the fees you get when you sell the call and put options. This is because nobody will use the options if the stock price stays close to the price you set, and you get to keep all that money. So, low [volatility](/wiki/volatility-trading-strategies) is good for a covered straddle because it means you can keep the money you made from selling the options without having to worry about big changes in the stock price.
 
 But if the stock is very up and down, a covered straddle can be risky. High volatility means the stock price can move a lot in either direction. If it goes up a lot, the person who bought the call option might use it to buy your stock at a lower price than it's worth now. This means you miss out on selling your stock at the higher price it could have fetched. If the stock price drops a lot, the person who bought the put option might use it to sell you more stock at a higher price than it's worth now. This means you have to buy more stock at a price that's too high. So, high volatility can lead to losses if the stock moves too much in either direction.
 
@@ -84,7 +84,7 @@ Because of these tax rules, you need to think about how they might affect your r
 
 ## What is a Case Study on Using Covered Straddle in Algo Trading?
 
-A covered straddle strategy can benefit significantly from algorithmic trading tools, offering a systematic approach to constructing and executing options trades with precision. This section presents a hypothetical example to illustrate how these trades can be implemented using algorithmic trading. 
+A covered straddle strategy can benefit significantly from [algorithmic trading](/wiki/algorithmic-trading) tools, offering a systematic approach to constructing and executing options trades with precision. This section presents a hypothetical example to illustrate how these trades can be implemented using algorithmic trading. 
 
 ### Constructing a Covered Straddle
 

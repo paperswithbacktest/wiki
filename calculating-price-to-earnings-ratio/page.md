@@ -28,7 +28,7 @@ The P/E ratio helps you see if a stock is a good deal or not. A low P/E ratio mi
 
 ## What does a high P/E ratio indicate about a company?
 
-A high P/E ratio means that investors are paying a lot for each dollar the company earns. It usually shows that people expect the company to grow a lot in the future. When a company is doing well or has a new product that everyone wants, its stock price can go up fast. This makes the P/E ratio high because the stock price is high compared to what the company is currently earning.
+A high P/E ratio means that investors are paying a lot for each dollar the company earns. It usually shows that people expect the company to grow a lot in the future. When a company is doing well or has a new product that everyone wants, its stock price can go up fast. This makes the P/E ratio high because the stock price is high compared to what the company is currently [earning](/wiki/earning-announcement).
 
 But a high P/E ratio can also mean the stock is too expensive. If the company doesn't grow as much as people expect, the stock price might go down. So, a high P/E ratio can be a sign that the stock is risky. Investors need to look at other things like the company's plans, the industry it's in, and what other people think before deciding if a high P/E ratio is worth it.
 
@@ -52,7 +52,7 @@ Another limitation is that the P/E ratio doesn't work the same way for all compa
 
 ## How does the P/E ratio differ between growth and value stocks?
 
-The P/E ratio can be very different between growth stocks and value stocks. Growth stocks are companies that are expected to grow a lot in the future. People are willing to pay more for these stocks because they think the company will make more money later. This means growth stocks usually have a high P/E ratio. For example, a tech company that's coming up with new products might have a high P/E ratio because everyone is excited about its future.
+The P/E ratio can be very different between [growth stocks](/wiki/growth-stocks) and value stocks. Growth stocks are companies that are expected to grow a lot in the future. People are willing to pay more for these stocks because they think the company will make more money later. This means growth stocks usually have a high P/E ratio. For example, a tech company that's coming up with new products might have a high P/E ratio because everyone is excited about its future.
 
 Value stocks, on the other hand, are companies that are not expected to grow as fast but are thought to be a good deal. These companies might be in industries that are not growing quickly, or they might be having some problems right now. Because of this, value stocks usually have a lower P/E ratio. Investors might see a low P/E ratio as a sign that the stock is cheap and could be a good buy if the company can turn things around. So, when you look at the P/E ratio, you need to think about whether the company is a growth stock or a value stock to understand what the number really means.
 
@@ -126,7 +126,7 @@ Each P/E ratio variant—Trailing, Forward, and CAPE—offers distinct insights,
 
 ## How can P/E Ratios be used in an Algorithmic Trading Strategy: A Case Study?
 
-This case study presents a hypothetical algorithmic trading strategy where the Price-to-Earnings (P/E) ratio plays a pivotal role in stock selection. Here, we outline the process from data collection to performance analysis, highlighting how the P/E ratio can be integrated into a systematic investment framework using algorithmic techniques.
+This case study presents a hypothetical [algorithmic trading](/wiki/algorithmic-trading) strategy where the Price-to-Earnings (P/E) ratio plays a pivotal role in stock selection. Here, we outline the process from data collection to performance analysis, highlighting how the P/E ratio can be integrated into a systematic investment framework using algorithmic techniques.
 
 ### Data Collection
 

@@ -86,7 +86,7 @@ Algorithmic trading profoundly influences Initial Public Offering (IPO) strategi
 
 The deployment of [algorithmic trading](/wiki/algorithmic-trading) techniques allows for a deeper analysis of market sentiment preceding, during, and immediately following an IPO. By applying [machine learning](/wiki/machine-learning) and natural language processing algorithms, trading systems can sift through vast amounts of data from social media, news outlets, and financial statements to gauge investor sentiment. This sentiment analysis plays a critical role in shaping pricing and marketing strategies by enabling a more informed decision-making process.
 
-Furthermore, algorithmic trading enhances volatility management during IPOs. The inherent volatility associated with IPOs can be mitigated through algorithmic strategies that execute trades at an optimal time, ensuring minimal market impact. Algorithms can dynamically adjust trading parameters based on real-time market conditions, thus minimizing the adverse effects of price swings.
+Furthermore, algorithmic trading enhances [volatility](/wiki/volatility-trading-strategies) management during IPOs. The inherent volatility associated with IPOs can be mitigated through algorithmic strategies that execute trades at an optimal time, ensuring minimal market impact. Algorithms can dynamically adjust trading parameters based on real-time market conditions, thus minimizing the adverse effects of price swings.
 
 In mathematical terms, these algorithms often utilize statistical models such as time series analysis or regression models to predict future price movements or to determine the optimal trade execution strategy. For example, a model might try to forecast the price $P_t$ at time $t$ using a simple moving average:
 

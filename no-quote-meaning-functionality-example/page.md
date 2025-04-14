@@ -84,7 +84,7 @@ Another best practice is to think about how 'No Quote' affects code readability 
 
 ## What are the strategies for navigating 'no quote' market conditions?
 
-Successful trading during 'No Quote' market conditions involves strategic planning and effective risk management, which are crucial in environments characterized by limited liquidity. To mitigate the inherent risks, traders can employ several strategies:
+Successful trading during 'No Quote' market conditions involves strategic planning and effective risk management, which are crucial in environments characterized by limited [liquidity](/wiki/liquidity-risk-premium). To mitigate the inherent risks, traders can employ several strategies:
 
 1. **Diversification of Portfolios**: Diversification is a fundamental strategy to reduce the specific risks associated with illiquid securities. By spreading investments across various asset classes, sectors, or geographies, traders lower the impact of any single security's poor performance on the overall portfolio. This approach is mathematically supported by Modern Portfolio Theory, which suggests that optimal portfolio diversification can reduce unsystematic risk. The expected return $E(R_p)$ of a diversified portfolio, considering weights $w_i$ and security returns $R_i$, can be calculated as:
 $$

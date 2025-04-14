@@ -28,7 +28,7 @@ Another advantage is that it's a long-term investment. If you're saving for some
 
 ## What are the risks associated with Thirty-Year U.S. Treasury Bonds?
 
-One risk of investing in Thirty-Year U.S. Treasury Bonds is interest rate risk. If interest rates go up after you buy your bond, new bonds will be issued with higher interest rates. This means your bond, which has a lower interest rate, will be worth less if you want to sell it before it matures. You might lose money if you need to sell it early.
+One risk of investing in Thirty-Year U.S. Treasury Bonds is [interest rate](/wiki/interest-rate-trading-strategies) risk. If interest rates go up after you buy your bond, new bonds will be issued with higher interest rates. This means your bond, which has a lower interest rate, will be worth less if you want to sell it before it matures. You might lose money if you need to sell it early.
 
 Another risk is inflation. If inflation goes up a lot, the money you get from your bond might not be worth as much as when you first bought it. For example, if you get $20 every six months, but prices for things you buy go up a lot, that $20 won't buy as much as it used to. This can make your investment less valuable over time.
 

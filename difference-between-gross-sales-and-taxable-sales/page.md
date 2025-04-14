@@ -46,7 +46,7 @@ Not all sales are taxable though. Some things like certain groceries, medicine, 
 
 ## Can you provide an example of how gross sales and taxable sales might differ in a retail setting?
 
-Imagine a small retail store that sells clothes, snacks, and medicine. Over the course of a day, the store makes $1,000 from selling clothes, $200 from selling snacks, and $100 from selling medicine. The total amount of money the store made that day is $1,300. This $1,300 is the store's gross sales because it includes all the money from every sale, no matter what was sold.
+Imagine a small retail store that sells clothes, snacks, and medicine. Over the [course](/wiki/best-algorithmic-trading-courses) of a day, the store makes $1,000 from selling clothes, $200 from selling snacks, and $100 from selling medicine. The total amount of money the store made that day is $1,300. This $1,300 is the store's gross sales because it includes all the money from every sale, no matter what was sold.
 
 However, not all of these sales are taxable. In this store's location, clothes and snacks are taxable, but medicine is not. So, to find the taxable sales, the store takes the gross sales of $1,300 and subtracts the $100 from medicine sales, which are not taxed. This leaves $1,200 as the taxable sales. The store will need to report this $1,200 to the government and pay taxes on it, while the $100 from medicine sales does not need to be taxed.
 

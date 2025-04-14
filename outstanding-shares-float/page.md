@@ -102,7 +102,7 @@ Algorithmic trading leverages quantitative data to make investment decisions, an
 
 ### Benefits
 
-One of the primary benefits of incorporating float and outstanding shares data in algorithmic trading is the ability to accurately assess liquidity. Float, the number of shares available for public trading, directly impacts a stock's liquidity. A larger float typically indicates higher liquidity, allowing algorithms to execute large trades with minimal market impact. This capability is critical for maintaining the efficiency of trading operations and optimizing trading costs.
+One of the primary benefits of incorporating float and outstanding shares data in [algorithmic trading](/wiki/algorithmic-trading) is the ability to accurately assess liquidity. Float, the number of shares available for public trading, directly impacts a stock's liquidity. A larger float typically indicates higher liquidity, allowing algorithms to execute large trades with minimal market impact. This capability is critical for maintaining the efficiency of trading operations and optimizing trading costs.
 
 Furthermore, understanding outstanding shares—the total shares issued by a company—enables algorithms to calculate valuation metrics like Earnings Per Share (EPS) more accurately. EPS can be represented as:
 

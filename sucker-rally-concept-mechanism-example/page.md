@@ -40,7 +40,7 @@ This kind of thinking is driven by something called FOMO, or the "Fear Of Missin
 
 ## What are the common patterns or technical signals associated with a sucker rally?
 
-A sucker rally often shows up on charts as a quick jump in price that doesn't last long. You might see the price go up fast, but then it goes back down just as quickly. This can look like a sharp spike on a chart, followed by a drop. Traders might see this as a "false breakout," where the price breaks above a resistance level but then falls back below it. This pattern can trick people into thinking the price will keep going up, but it's really just a short-term trick.
+A sucker rally often shows up on charts as a quick jump in price that doesn't last long. You might see the price go up fast, but then it goes back down just as quickly. This can look like a sharp spike on a chart, followed by a drop. Traders might see this as a "false [breakout](/wiki/breakout-trading)," where the price breaks above a resistance level but then falls back below it. This pattern can trick people into thinking the price will keep going up, but it's really just a short-term trick.
 
 Another common sign of a sucker rally is high trading volume during the price jump. When the price goes up quickly, a lot of people might start buying, thinking it's a good time to get in. But if the volume drops off quickly after the spike, it can be a sign that the rally won't last. Also, if the price goes up but other technical indicators, like moving averages or the relative strength index (RSI), don't confirm the upward move, it might be a sucker rally. These indicators can help traders see if the price increase is real or just a trick.
 

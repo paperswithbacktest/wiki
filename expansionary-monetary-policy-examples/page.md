@@ -82,7 +82,7 @@ Evaluating the policy can take some time because changes in the economy don't ha
 
 ## What is the Economic Strategy of Expansionary Policy?
 
-Expansionary policy is a crucial macroeconomic approach aimed at stimulating economic growth, particularly during periods of economic stagnation or recession. This policy encompasses various tools that work cohesively to reignite economic activity and combat downturns. The primary instruments include interest rate reductions and increased government spending.
+Expansionary policy is a crucial macroeconomic approach aimed at stimulating economic growth, particularly during periods of economic stagnation or recession. This policy encompasses various tools that work cohesively to reignite economic activity and combat downturns. The primary instruments include [interest rate](/wiki/interest-rate-trading-strategies) reductions and increased government spending.
 
 Interest rate reductions are one of the most effective tools in expansionary policy. By lowering the interest rates, central banks make borrowing cheaper for consumers and businesses. This encourages spending and investment, leading to increased demand for goods and services. Lower interest rates also reduce the cost of existing debt, potentially freeing up additional resources for consumption or investment. The formula often used to assess the impact of interest rate changes on investment is derived from the basic present value formula:
 

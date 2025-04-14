@@ -18,7 +18,7 @@ When the group successfully solves a puzzle and adds a new block, the reward is 
 
 A mining pool works by bringing together many miners who share their computer power to solve the math problems needed to add new blocks to a blockchain. Each miner in the pool uses their computer to try and solve the puzzle. When the puzzle is solved, the new block is added to the blockchain, and the miners get a reward in the form of cryptocurrency, like Bitcoin. The reward is then divided among all the miners in the pool, based on how much computing power each one contributed.
 
-This system makes mining more reliable for individual miners. Instead of waiting a long time to solve a puzzle on their own and maybe earning a big reward, miners in a pool get smaller rewards more often. This is because the pool solves puzzles more frequently than a single miner could. The pool operator usually takes a small fee for managing the pool, but overall, it helps miners earn a steady income from their efforts.
+This system makes mining more reliable for individual miners. Instead of waiting a long time to solve a puzzle on their own and maybe [earning](/wiki/earning-announcement) a big reward, miners in a pool get smaller rewards more often. This is because the pool solves puzzles more frequently than a single miner could. The pool operator usually takes a small fee for managing the pool, but overall, it helps miners earn a steady income from their efforts.
 
 ## What are the benefits of joining a mining pool?
 
@@ -64,7 +64,7 @@ In other types of pools like PPLNS or Proportional pools, the fees are often low
 
 ## How do mining pools impact the decentralization of cryptocurrencies?
 
-Mining pools can make cryptocurrencies less decentralized. When many miners join a big pool, that pool can control a lot of the computer power used to add new blocks to the blockchain. If one pool gets too big, it might be able to control what transactions get added or even try to change the rules of the cryptocurrency. This goes against the idea of decentralization, where no one person or group should have too much power.
+Mining pools can make cryptocurrencies less decentralized. When many miners join a big pool, that pool can control a lot of the computer power used to add new blocks to the blockchain. If one pool gets too big, it might be able to control what transactions get added or even try to change the rules of the [cryptocurrency](/wiki/cryptocurrency). This goes against the idea of decentralization, where no one person or group should have too much power.
 
 On the other hand, mining pools also help more people get involved in mining. It's hard for someone with just one computer to compete with big miners who have lots of powerful machines. By joining a pool, smaller miners can still earn rewards and be part of the network. This can make the network stronger and more secure because more people are helping to keep it running. But it's important to keep an eye on how big the pools get to make sure they don't take over too much control.
 

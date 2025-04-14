@@ -84,7 +84,7 @@ Diversification means not putting all your money in one place, and considering w
 
 Weak shorts are market participants who rapidly close their short positions when they detect any indication of a stock's price increasing. The primary characteristic of weak shorts is their limited financial capacity to endure extended adverse movements against their positions. As a result, they are more prone to exiting positions swiftly to mitigate potential losses. This behavior distinguishes weak shorts from more robust and capital-equipped investors, who can weather short-term price movements without feeling pressured to cover their shorts prematurely.
 
-The identification of weak shorts can typically be achieved through two critical metrics: stock volatility and high short interest. Volatility is a statistical measure that represents the degree of variation in a trading price series over time. High volatility suggests rapid and significant price changes, which can perturb weak shorts into quick exits. The formula for calculating volatility is based on the standard deviation of the stock's returns:
+The identification of weak shorts can typically be achieved through two critical metrics: stock [volatility](/wiki/volatility-trading-strategies) and high short interest. Volatility is a statistical measure that represents the degree of variation in a trading price series over time. High volatility suggests rapid and significant price changes, which can perturb weak shorts into quick exits. The formula for calculating volatility is based on the standard deviation of the stock's returns:
 
 $$
 \sigma = \sqrt{\frac{1}{N-1} \sum_{i=1}^{N} (R_i - \bar{R})^2}
@@ -112,7 +112,7 @@ $$
 
 where $P$ represents the stock price, $BU$ the buying urgency, and $SD$ the selling demand. In this equation, a significant increase in buying urgency ($\Delta BU$) relative to selling demand ($\Delta SD$) results in upward pressure on the price.
 
-Algorithmic trading systems that aim to exploit weak shorts must be meticulously adaptive and responsive. These systems require sophisticated programming to analyze and react to real-time market data swiftly. Algorithms could be designed using languages such as Python, leveraging libraries like pandas for data manipulation and scikit-learn for machine learning applications to forecast market behaviors:
+Algorithmic trading systems that aim to exploit weak shorts must be meticulously adaptive and responsive. These systems require sophisticated programming to analyze and react to real-time market data swiftly. Algorithms could be designed using languages such as Python, leveraging libraries like pandas for data manipulation and scikit-learn for [machine learning](/wiki/machine-learning) applications to forecast market behaviors:
 
 ```python
 import pandas as pd

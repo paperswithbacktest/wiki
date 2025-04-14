@@ -18,13 +18,13 @@ When you buy a savings bond, you pay a certain amount of money, and in return, t
 
 If you want to find out if you own any U.S. Savings Bonds, you can start by checking your records at home. Look through old files, bank statements, or any paperwork where you might have kept track of your investments. Sometimes, people forget about bonds they bought years ago or received as gifts.
 
-If you can't find any records at home, you can use the U.S. Department of the Treasury's online tool called "Treasury Hunt." This tool helps you search for any savings bonds that might be in your name. Just go to their website, enter your information, and it will tell you if you have any bonds that are ready to be cashed in. Remember, this tool only works for bonds that have stopped earning interest and are at least 30 years old.
+If you can't find any records at home, you can use the U.S. Department of the Treasury's online tool called "Treasury Hunt." This tool helps you search for any savings bonds that might be in your name. Just go to their website, enter your information, and it will tell you if you have any bonds that are ready to be cashed in. Remember, this tool only works for bonds that have stopped [earning](/wiki/earning-announcement) interest and are at least 30 years old.
 
 If you still can't find any information, you might want to contact the Treasury Department directly. They can help you search for any bonds you might own, even if they are still earning interest. You can call them or send them an email with your details, and they will do their best to help you find out if you own any savings bonds.
 
 ## What types of U.S. Savings Bonds can be redeemed?
 
-You can redeem two main types of U.S. Savings Bonds: Series EE and Series I bonds. These bonds are easy to buy and can be a good way to save money. Series EE bonds have a fixed interest rate, which means they earn the same amount of interest every year. Series I bonds have an interest rate that changes with inflation, so they can help protect your savings if prices go up.
+You can redeem two main types of U.S. Savings Bonds: Series EE and Series I bonds. These bonds are easy to buy and can be a good way to save money. Series EE bonds have a fixed [interest rate](/wiki/interest-rate-trading-strategies), which means they earn the same amount of interest every year. Series I bonds have an interest rate that changes with inflation, so they can help protect your savings if prices go up.
 
 To redeem your savings bonds, you need to wait at least one year after you buy them. If you cash them in before five years, you will lose the last three months of interest. After five years, you can cash them in whenever you want, and you will get all the interest they have earned. You can redeem your bonds at a bank or through the Treasury Department's website if you have electronic bonds.
 

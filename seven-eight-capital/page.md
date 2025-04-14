@@ -64,7 +64,7 @@ Besides helping with business decisions, Seven Eight Capital also gives advice a
 
 ## What are the future plans or upcoming projects of Seven Eight Capital?
 
-Seven Eight Capital is always looking for new ways to help their clients' money grow. They plan to keep using their special way of picking investments, which is called quantitative investing. This means they will keep using math and computers to look at numbers and data to find the best places to put money. They want to keep finding new and exciting companies to invest in, just like they did with Robinhood and Coinbase.
+Seven Eight Capital is always looking for new ways to help their clients' money grow. They plan to keep using their special way of [picking](/wiki/asset-class-picking) investments, which is called quantitative investing. This means they will keep using math and computers to look at numbers and data to find the best places to put money. They want to keep finding new and exciting companies to invest in, just like they did with Robinhood and Coinbase.
 
 In the future, Seven Eight Capital also wants to help more people, not just big companies. They plan to work with more individual people who want to grow their savings. They think that by using their skills in math and technology, they can help more people make smart choices about their money. This way, they can reach a bigger group of people and help them all do better with their investments.
 

@@ -18,7 +18,7 @@ This kind of mobility is important for both workers and the economy. For workers
 
 Occupational labor mobility is important for the economy because it helps match people's skills with the jobs that need them. When workers can easily move from one job to another, businesses can find the right people for the jobs they need to fill. This makes the economy work better because companies can produce more and grow. If workers stay stuck in jobs that don't fit their skills, the economy can't use everyone's talents the best way.
 
-Also, when people can change jobs easily, it can help keep unemployment low. If someone loses their job, they can find a new one in a different field more quickly. This keeps more people working and earning money, which is good for the economy. It also means that workers can find jobs that pay better or make them happier, which can make the whole economy stronger and more productive.
+Also, when people can change jobs easily, it can help keep unemployment low. If someone loses their job, they can find a new one in a different field more quickly. This keeps more people working and [earning](/wiki/earning-announcement) money, which is good for the economy. It also means that workers can find jobs that pay better or make them happier, which can make the whole economy stronger and more productive.
 
 ## What are the different types of occupational labor mobility?
 
@@ -36,7 +36,7 @@ But, moving between jobs isn't always easy. Some people might not have the right
 
 Several factors influence how easily workers can move from one job to another. Education and skills are really important. If someone has the right skills and education, they can switch jobs more easily. For example, if you know how to code, you can work at different tech companies. But if you don't have the skills needed for a new job, it's harder to switch. Also, knowing about job opportunities matters. If you don't know about other jobs you could do, you might stay in the same job even if you could do something better.
 
-Another big factor is the economy. When the economy is doing well, there are more jobs, and it's easier to switch to a new one. But when the economy is bad, there are fewer jobs, and it's harder to move. Laws and rules can also affect job switching. For example, if it's hard to get a license for a new job, that can stop people from switching. Personal things like family and where you live can also make a difference. If you have a family, you might not want to move to a new city for a job. And if you live somewhere with few job options, it's harder to switch jobs.
+Another big [factor](/wiki/factor-investing) is the economy. When the economy is doing well, there are more jobs, and it's easier to switch to a new one. But when the economy is bad, there are fewer jobs, and it's harder to move. Laws and rules can also affect job switching. For example, if it's hard to get a license for a new job, that can stop people from switching. Personal things like family and where you live can also make a difference. If you have a family, you might not want to move to a new city for a job. And if you live somewhere with few job options, it's harder to switch jobs.
 
 ## How can barriers to occupational labor mobility be identified?
 

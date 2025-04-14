@@ -60,7 +60,7 @@ One common strategy in short selling is called "shorting against the box." This 
 
 Another strategy is called "pairs trading." Here, you short sell one stock while buying another stock in the same industry. The idea is that you think one stock will do worse than the other. So, you make money from the difference between the two stocks. This can be less risky than just short selling one stock because you're betting on how they perform compared to each other, not just betting that one stock will go down.
 
-A third strategy is "momentum trading." With this, you look for stocks that have been going down and short sell them, hoping they'll keep falling. You need to be quick and watch the market closely because momentum can change fast. If the stock starts going up instead, you need to be ready to buy it back and close your short position to avoid big losses.
+A third strategy is "[momentum](/wiki/momentum) trading." With this, you look for stocks that have been going down and short sell them, hoping they'll keep falling. You need to be quick and watch the market closely because momentum can change fast. If the stock starts going up instead, you need to be ready to buy it back and close your short position to avoid big losses.
 
 ## How can one identify potential stocks to short?
 
@@ -84,7 +84,7 @@ Sometimes, things like news or big events can change market conditions fast. If 
 
 One advanced technique to manage and optimize short positions is called "stop-loss orders." This means you set a price at which you will automatically buy back the stock if it goes up too much. It helps limit your losses if the stock's price starts to rise. Another technique is "hedging," where you buy something else that will go up in value if the stock you shorted goes up. This can help protect you from big losses. For example, you might buy a call option on the stock you shorted, which gives you the right to buy it at a set price later. If the stock goes up, the call option can help offset your losses from the short position.
 
-Another way to optimize short positions is by using "technical analysis." This means looking at charts and patterns to guess where the stock's price might go next. You can use things like moving averages or support and resistance levels to decide when to open or close your short position. It's like trying to predict the future based on what the stock has done in the past. Also, "fundamental analysis" can help. This means looking at the company's financial reports and news to see if the stock is overvalued or if there are problems that might make its price go down. By combining these techniques, you can make smarter decisions about when to short a stock and when to buy it back.
+Another way to optimize short positions is by using "technical analysis." This means looking at charts and patterns to guess where the stock's price might go next. You can use things like moving averages or support and resistance levels to decide when to open or close your short position. It's like trying to predict the future based on what the stock has done in the past. Also, "[fundamental analysis](/wiki/fundamental-analysis)" can help. This means looking at the company's financial reports and news to see if the stock is overvalued or if there are problems that might make its price go down. By combining these techniques, you can make smarter decisions about when to short a stock and when to buy it back.
 
 ## References & Further Reading
 

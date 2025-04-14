@@ -46,7 +46,7 @@ A long-term investment horizon is when you're investing for more than ten years,
 
 If you have a short-term investment horizon, meaning you need your money back in less than three years, you should keep your investments safe. Stick to things like savings accounts, CDs, or short-term bonds. These won't lose a lot of value quickly, which is important because you don't have much time to wait for your money to grow back if it goes down. You want to be sure you can get your money when you need it, so safer choices are the way to go.
 
-For a medium-term investment horizon, where you're looking at three to ten years, you can take a bit more risk. You might mix some stocks with bonds to grow your money over time. This way, you can balance the chance of earning more with the need to have your money ready in a few years. It's like having a little bit of both worlds - some safety and some growth.
+For a medium-term investment horizon, where you're looking at three to ten years, you can take a bit more risk. You might mix some stocks with bonds to grow your money over time. This way, you can balance the chance of [earning](/wiki/earning-announcement) more with the need to have your money ready in a few years. It's like having a little bit of both worlds - some safety and some growth.
 
 If your investment horizon is long-term, over ten years, you can go for riskier investments like stocks and stock funds. These can grow a lot over many years, even if they go up and down in the short term. Since you have plenty of time, you can ride out the ups and downs of the market and still come out ahead. This is perfect for big goals like retirement, where you want your money to grow as much as possible over a long time.
 
@@ -60,7 +60,7 @@ Your investment horizon, or how long you'll be investing your money, also plays 
 
 Investment goals are what you want to achieve with your money, like buying a house, paying for college, or saving for retirement. These goals help you decide how long you'll be investing, which is your investment horizon. If your goal is something you need soon, like a new car in a year, your investment horizon will be short. You'll want to pick safe investments because you don't have time to wait for your money to grow back if it goes down.
 
-On the other hand, if your goal is something far away, like retirement in 30 years, your investment horizon will be long. With a long time to invest, you can choose riskier investments like stocks that can grow a lot over many years. Your investment goals set the timeline for when you need your money, and that timeline, or investment horizon, guides you in picking the right investments to reach those goals.
+On the other hand, if your goal is something far away, like retirement in 30 years, your investment horizon will be long. With a long time to invest, you can choose riskier investments like stocks that can grow a lot over many years. Your investment goals set the timeline for when you need your money, and that timeline, or investment horizon, guides you in [picking](/wiki/asset-class-picking) the right investments to reach those goals.
 
 ## What are the common mistakes investors make regarding their investment horizon?
 

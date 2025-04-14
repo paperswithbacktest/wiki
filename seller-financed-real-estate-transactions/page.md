@@ -22,7 +22,7 @@ Another difference is that seller financing can be easier for buyers who can't g
 
 ## What are the benefits of seller financing for buyers?
 
-Seller financing can be a big help for buyers who might not be able to get a loan from a bank. If a buyer's credit score is not good enough or they don't have enough money for a down payment, seller financing can give them a chance to buy a house. The seller might be willing to work with the buyer on terms that a bank wouldn't, like a smaller down payment or a lower interest rate.
+Seller financing can be a big help for buyers who might not be able to get a loan from a bank. If a buyer's credit score is not good enough or they don't have enough money for a down payment, seller financing can give them a chance to buy a house. The seller might be willing to work with the buyer on terms that a bank wouldn't, like a smaller down payment or a lower [interest rate](/wiki/interest-rate-trading-strategies).
 
 Another benefit for buyers is that the process of buying a house can be quicker and easier with seller financing. Since the buyer and seller are making the deal directly, there's less paperwork and fewer steps compared to going through a bank. This can mean the buyer can move into their new home faster and without the stress of dealing with a big bank.
 

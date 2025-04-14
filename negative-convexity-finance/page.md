@@ -18,7 +18,7 @@ Think of convexity like this: if you imagine a graph where the x-axis is the int
 
 Positive convexity means that as interest rates change, the bond's price changes in a way that benefits the bondholder. Imagine if interest rates drop, a bond with positive convexity will increase in price more than you might expect just from looking at its duration. This is good for the investor because it means the bond's price goes up more when rates fall, and it doesn't drop as much when rates go up. Bonds with positive convexity are generally seen as safer and more desirable because they offer this extra cushion against interest rate changes.
 
-Negative convexity, on the other hand, works against the bondholder. When interest rates change, a bond with negative convexity might not rise as much in price when rates fall, and it could fall more sharply when rates rise. This happens often with bonds that have features like callable bonds, where the issuer can choose to pay off the bond early. If interest rates drop, the issuer might call the bond, limiting how much the bond's price can rise. So, negative convexity can make a bond riskier because it doesn't offer that extra protection against interest rate movements.
+Negative convexity, on the other hand, works against the bondholder. When interest rates change, a bond with negative convexity might not rise as much in price when rates fall, and it could fall more sharply when rates rise. This happens often with bonds that have features like callable bonds, where the issuer can choose to pay off the bond early. If interest rates drop, the issuer might call the bond, limiting how much the bond's price can rise. So, negative convexity can make a bond riskier because it doesn't offer that extra protection against [interest rate](/wiki/interest-rate-trading-strategies) movements.
 
 ## What are common financial instruments that exhibit negative convexity?
 
@@ -40,7 +40,7 @@ On the flip side, when interest rates go up, the yield on a bond with negative c
 
 ## What role does interest rate volatility play in negative convexity?
 
-Interest rate volatility can make negative convexity worse. When interest rates move up and down a lot, it can be tough for bonds with negative convexity. Imagine you own a bond that can be called back by the issuer. If interest rates are jumping around, the issuer might decide to call the bond back when rates drop, and you won't get the big price increase you might have hoped for. This means you miss out on the extra money you could have made if the bond had positive convexity.
+Interest rate [volatility](/wiki/volatility-trading-strategies) can make negative convexity worse. When interest rates move up and down a lot, it can be tough for bonds with negative convexity. Imagine you own a bond that can be called back by the issuer. If interest rates are jumping around, the issuer might decide to call the bond back when rates drop, and you won't get the big price increase you might have hoped for. This means you miss out on the extra money you could have made if the bond had positive convexity.
 
 High interest rate volatility can also make the bond's price swing more wildly. Since bonds with negative convexity don't have the cushion that positive convexity provides, their prices can drop more sharply when rates go up. This can be risky because you might lose more money than you expected. So, when interest rates are very unpredictable, bonds with negative convexity can be even riskier to own.
 

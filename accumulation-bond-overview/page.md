@@ -22,7 +22,7 @@ People often choose accumulation bonds when they want to save money for a long t
 
 ## What are the benefits of investing in accumulation bonds?
 
-One big benefit of investing in accumulation bonds is that they can help your money grow over time. When you put money into an accumulation bond, the interest it earns gets added back into the bond instead of being paid out to you. This means the bond's value keeps getting bigger because it's earning interest on a larger and larger amount. This is called compound interest, and it can make a big difference over many years. It's like planting a seed and watching it grow into a big tree because you keep watering it with the interest.
+One big benefit of investing in accumulation bonds is that they can help your money grow over time. When you put money into an accumulation bond, the interest it earns gets added back into the bond instead of being paid out to you. This means the bond's value keeps getting bigger because it's [earning](/wiki/earning-announcement) interest on a larger and larger amount. This is called compound interest, and it can make a big difference over many years. It's like planting a seed and watching it grow into a big tree because you keep watering it with the interest.
 
 Another benefit is that accumulation bonds are good for long-term goals, like saving for retirement. Since the interest stays in the bond and helps it grow, you don't have to worry about spending the interest right away. This can be really helpful if you want your money to keep growing without taking any out. It's a way to let your money work for you over a long time, which can lead to a bigger nest egg when you need it. Just remember, like any investment, there are risks, and the value of the bond can go up or down.
 

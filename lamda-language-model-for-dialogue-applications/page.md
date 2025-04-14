@@ -27,7 +27,7 @@ Another important use of Lamda is in making voice assistants like Google Assista
 
 ## Can you explain the basic architecture of Lamda?
 
-Lamda's basic architecture is built around a transformer model, which is a type of neural network that is really good at understanding and generating text. The transformer model uses something called attention mechanisms to focus on different parts of the input text. This helps Lamda understand the context of what someone is saying and come up with a good response. For example, if you say, "I like to eat pizza," Lamda can pay attention to "pizza" and know that you're talking about food.
+Lamda's basic architecture is built around a transformer model, which is a type of [neural network](/wiki/neural-network) that is really good at understanding and generating text. The transformer model uses something called attention mechanisms to focus on different parts of the input text. This helps Lamda understand the context of what someone is saying and come up with a good response. For example, if you say, "I like to eat pizza," Lamda can pay attention to "pizza" and know that you're talking about food.
 
 The other important part of Lamda's architecture is how it was trained. Lamda was trained on a lot of dialogue data, which means it learned from conversations that people had. This helps Lamda understand how to keep a conversation going and respond in a way that feels natural. By using this special training data, Lamda can better understand the back-and-forth nature of talking to someone, making it more useful for things like chatbots and voice assistants.
 
@@ -63,7 +63,7 @@ Another important measure is how natural Lamda sounds when it talks. This is cal
 
 ## Can Lamda be integrated with other AI technologies, and if so, how?
 
-Lamda can be integrated with other AI technologies to make it even more useful. For example, it can work with speech recognition systems to understand what people are saying when they talk. This means Lamda can be part of voice assistants like Google Assistant or Alexa, making them better at having natural conversations. Lamda can also be used with machine learning models that predict what people might want next. By combining these technologies, Lamda can give more helpful answers and keep conversations going in a way that feels more like talking to a friend.
+Lamda can be integrated with other AI technologies to make it even more useful. For example, it can work with speech recognition systems to understand what people are saying when they talk. This means Lamda can be part of voice assistants like Google Assistant or Alexa, making them better at having natural conversations. Lamda can also be used with [machine learning](/wiki/machine-learning) models that predict what people might want next. By combining these technologies, Lamda can give more helpful answers and keep conversations going in a way that feels more like talking to a friend.
 
 Another way Lamda can be integrated is with natural language processing (NLP) tools. These tools help Lamda understand the meaning behind what people say, even if they use different words or phrases. For example, if someone says, "I'm starving," Lamda can understand that they're hungry and suggest a nearby restaurant. By working together with these other AI technologies, Lamda can become a more powerful tool for creating chatbots and virtual assistants that feel more human-like and helpful.
 

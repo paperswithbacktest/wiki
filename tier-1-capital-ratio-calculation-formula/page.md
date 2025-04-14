@@ -103,7 +103,7 @@ ABC Bank serves as a prime illustration of robust financial health, with a Tier 
 $$
 \text{Tier 1 Capital Ratio} = \left( \frac{\text{Tier 1 Capital}}{\text{Risk-Weighted Assets}} \right) \times 100 = \left( \frac{5,000,000}{50,000,000} \right) \times 100 = 10\%\]
 
-This considerable ratio underscores ABC Bank's capacity to support its operations and absorb potential financial losses, reflecting its prudent risk management and financial stability. Such robust metrics are instrumental when developing algorithmic trading strategies, as they signal a lower risk profile and a more dependable counterpart for trades.
+This considerable ratio underscores ABC Bank's capacity to support its operations and absorb potential financial losses, reflecting its prudent risk management and financial stability. Such robust metrics are instrumental when developing [algorithmic trading](/wiki/algorithmic-trading) strategies, as they signal a lower risk profile and a more dependable counterpart for trades.
 
 In contrast, DEF Bank presents a more cautious scenario with a Tier 1 Capital Ratio of 4%. With similar calculations, if DEF Bank holds, for example, Tier 1 Capital of $2 million against $50 million in risk-weighted assets, the formula would be:
 

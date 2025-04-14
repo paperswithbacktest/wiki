@@ -20,7 +20,7 @@ The Efficient Market Hypothesis (EMH) has three forms: weak, semi-strong, and st
 
 The semi-strong form of EMH says that all public information, like news and financial reports, is already included in stock prices. This means that if a company announces good news, the stock price will go up right away, so you can't make money by acting on that news after it's public. 
 
-The strong form of EMH goes even further. It says that even if you have private or insider information, you still can't beat the market because that information will quickly become public and get reflected in the stock price. Most people believe in the weak or semi-strong forms, suggesting that it's hard to beat the market by picking individual stocks, and it might be better to invest in a broad mix of stocks, like in an index fund.
+The strong form of EMH goes even further. It says that even if you have private or insider information, you still can't beat the market because that information will quickly become public and get reflected in the stock price. Most people believe in the weak or semi-strong forms, suggesting that it's hard to beat the market by [picking](/wiki/asset-class-picking) individual stocks, and it might be better to invest in a broad mix of stocks, like in an index fund.
 
 ## What is the Weak Form of EMH and how does it relate to technical analysis?
 
@@ -32,7 +32,7 @@ This idea is important when we talk about technical analysis. Technical analysis
 
 The Semi-Strong Form of the Efficient Market Hypothesis (EMH) says that all public information is already included in stock prices. This means that when a company releases news, like a good earnings report or a new product, the stock price changes right away to reflect that news. So, if you hear about it after it's public, you can't make money from it because the price has already adjusted.
 
-This idea affects fundamental analysis, which is when people look at a company's financials, management, and market conditions to decide if its stock is a good buy. If the Semi-Strong Form is true, then by the time you finish your analysis and decide to buy the stock, the price will have already gone up to match the new information. This means that trying to pick stocks based on public information might not help you beat the market, and it might be better to invest in a broad mix of stocks, like an index fund.
+This idea affects [fundamental analysis](/wiki/fundamental-analysis), which is when people look at a company's financials, management, and market conditions to decide if its stock is a good buy. If the Semi-Strong Form is true, then by the time you finish your analysis and decide to buy the stock, the price will have already gone up to match the new information. This means that trying to pick stocks based on public information might not help you beat the market, and it might be better to invest in a broad mix of stocks, like an index fund.
 
 ## What is the Strong Form of EMH and what does it imply about insider information?
 

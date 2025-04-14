@@ -18,7 +18,7 @@ Weak longs can affect the market because when they start selling, it can create 
 
 To identify weak longs on a trading chart, you need to look for certain patterns that show investors are not very confident. One way to spot weak longs is by watching the price action after it reaches a new high. If the price quickly drops after hitting a new high, it might mean that many investors who bought the asset are selling it soon after. This quick drop can show that these investors, or weak longs, were not sure about holding onto the asset for a long time.
 
-Another way to identify weak longs is by looking at the volume of trades. If the volume is high when the price is going up, but then drops quickly when the price starts to fall, it can mean that the people who bought the asset are selling it fast. This high volume on the way up and low volume on the way down can be a sign of weak longs who are not committed to keeping their investment. By paying attention to these patterns, you can get a better idea of whether weak longs are influencing the market.
+Another way to identify weak longs is by looking at the [volume](/wiki/volume-trading-strategy) of trades. If the volume is high when the price is going up, but then drops quickly when the price starts to fall, it can mean that the people who bought the asset are selling it fast. This high volume on the way up and low volume on the way down can be a sign of weak longs who are not committed to keeping their investment. By paying attention to these patterns, you can get a better idea of whether weak longs are influencing the market.
 
 ## What causes the formation of weak longs?
 

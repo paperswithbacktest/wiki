@@ -24,7 +24,7 @@ TCE is a helpful number because it lets ship owners and people who rent ships se
 
 The main things that affect TCE rates are the money earned from the trip and the costs of running the ship. The money earned comes from what the customer pays to move their goods. This can change based on how much people want to ship things and how many ships are available. If there are a lot of ships and not much to ship, the rates might go down. But if there's a lot to ship and not enough ships, the rates can go up. The costs of running the ship include things like fuel, which can change a lot depending on oil prices, and port fees, which can be different in each place the ship goes.
 
-Another big part that affects TCE rates is how long the trip takes. If a trip takes more days, the daily rate might be lower because the total costs are spread out over more days. Also, things like how fast the ship can go and how much it can carry can make a difference. A faster ship might cost more to run but can make more trips in a year, while a bigger ship can carry more goods but might use more fuel. All these things together decide what the TCE rate will be for a trip.
+Another big part that affects TCE rates is how long the trip takes. If a trip takes more days, the daily rate might be lower because the total costs are spread out over more days. Also, things like how fast the ship can go and how much it can [carry](/wiki/carry-trading) can make a difference. A faster ship might cost more to run but can make more trips in a year, while a bigger ship can carry more goods but might use more fuel. All these things together decide what the TCE rate will be for a trip.
 
 ## Can you explain the difference between TCE and actual earnings?
 

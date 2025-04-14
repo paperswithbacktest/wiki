@@ -18,7 +18,7 @@ This measure is important because it helps traders understand their impact on th
 
 To calculate POV, you need to know two things: the total volume of trades for a stock during a certain time, and the volume of trades done by the trader or group you're looking at. POV is then found by dividing the trader's volume by the total volume and turning that into a percentage. For example, if the total volume of trades for a stock in a day is 1 million shares, and a trader trades 100,000 shares, their POV would be 10% because 100,000 divided by 1,000,000 is 0.10, which is 10%.
 
-This calculation helps traders see how much they are influencing the market. If a trader's POV is high, it means they are trading a big part of the total volume, which can affect the stock price more. Traders use this information to decide how to spread out their trades over time, so they don't cause big price changes that might not be good for them. By keeping an eye on their POV, traders can try to trade without making too much of a splash in the market.
+This calculation helps traders see how much they are influencing the market. If a trader's POV is high, it means they are trading a big part of the total [volume](/wiki/volume-trading-strategy), which can affect the stock price more. Traders use this information to decide how to spread out their trades over time, so they don't cause big price changes that might not be good for them. By keeping an eye on their POV, traders can try to trade without making too much of a splash in the market.
 
 ## Why is POV important in trading and investing?
 
@@ -64,7 +64,7 @@ Another issue is that POV doesn't tell you everything about the market. It only 
 
 ## How can POV be integrated into algorithmic trading systems?
 
-In algorithmic trading systems, POV can be used to help the computer decide how to trade without making the stock price move too much. The system can check the POV in real-time and adjust how it buys or sells shares. If the POV is too high, the system might decide to spread out the trades over time. This way, the computer can buy or sell the amount it wants without causing big price changes. By keeping an eye on POV, the trading system can work to get better prices and avoid making a big splash in the market.
+In [algorithmic trading](/wiki/algorithmic-trading) systems, POV can be used to help the computer decide how to trade without making the stock price move too much. The system can check the POV in real-time and adjust how it buys or sells shares. If the POV is too high, the system might decide to spread out the trades over time. This way, the computer can buy or sell the amount it wants without causing big price changes. By keeping an eye on POV, the trading system can work to get better prices and avoid making a big splash in the market.
 
 To use POV in an algorithmic trading system, traders need to set up rules for the computer to follow. These rules can tell the system what to do if the POV gets too high or too low. For example, the system might be told to slow down trading if the POV goes above a certain level, like 5%. By setting these rules, the system can manage its trades carefully and keep the POV in a good range. This helps the system trade without causing too much change in the market price, which can be good for the trader's overall strategy.
 

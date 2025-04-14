@@ -26,7 +26,7 @@ The main difference is who the money belongs to and what it is used for. Busines
 
 Business income comes from many places. The main source is usually from selling things or services. For example, a store makes money by selling clothes, and a restaurant makes money by serving food. These are called sales revenue. Another common source is from renting out property or equipment. If a business owns a building and rents it to other companies, the rent money is business income.
 
-There are also other ways to make business income. One way is through investments. If a business buys stocks or bonds and they go up in value, the business can sell them for a profit. Another way is by earning interest from money in the bank. If a business keeps money in a savings account, the interest it earns is also business income. These different sources help a business make money and grow.
+There are also other ways to make business income. One way is through investments. If a business buys stocks or bonds and they go up in value, the business can sell them for a profit. Another way is by [earning](/wiki/earning-announcement) interest from money in the bank. If a business keeps money in a savings account, the interest it earns is also business income. These different sources help a business make money and grow.
 
 ## How do you calculate business income?
 

@@ -48,7 +48,7 @@ However, a very high Up-Market Capture Ratio can also mean the investment might 
 
 In portfolio management, the Up-Market Capture Ratio helps investors pick investments that will do well when the market is doing well. If you want your portfolio to grow fast during good market times, you can choose investments with high Up-Market Capture Ratios. These investments will grow more than the market, helping your portfolio to do better when things are going well. This can be important for investors who are trying to beat the market and want to make the most of their money during up periods.
 
-But, it's not just about picking investments with high Up-Market Capture Ratios. You also need to look at the Down-Market Capture Ratio to see how those investments do when the market is not doing well. A high Up-Market Capture Ratio might mean the investment is riskier and could lose more when the market goes down. So, in portfolio management, you balance these ratios to create a mix of investments that can grow well during up markets but also protect your money during down markets. This way, you can manage your portfolio to fit your goals and how much risk you're willing to take.
+But, it's not just about [picking](/wiki/asset-class-picking) investments with high Up-Market Capture Ratios. You also need to look at the Down-Market Capture Ratio to see how those investments do when the market is not doing well. A high Up-Market Capture Ratio might mean the investment is riskier and could lose more when the market goes down. So, in portfolio management, you balance these ratios to create a mix of investments that can grow well during up markets but also protect your money during down markets. This way, you can manage your portfolio to fit your goals and how much risk you're willing to take.
 
 ## What are the limitations of using Up-Market Capture Ratio as a performance metric?
 
@@ -138,7 +138,7 @@ Understanding and correctly calculating the up-market capture ratio is pivotal f
 
 ## What are the Key Performance Metrics in Algorithmic Trading?
 
-When assessing algorithmic trading strategies, certain key performance metrics stand out for their ability to provide insights into the effectiveness and risk-adjusted returns of a trading system. 
+When assessing [algorithmic trading](/wiki/algorithmic-trading) strategies, certain key performance metrics stand out for their ability to provide insights into the effectiveness and risk-adjusted returns of a trading system. 
 
 ### Sharpe Ratio
 

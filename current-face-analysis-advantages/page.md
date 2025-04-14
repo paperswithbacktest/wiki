@@ -18,7 +18,7 @@ When people talk about the Current Face of a mortgage-backed security, they are 
 
 Current Face technology is a way to track the interest rate that a mortgage-backed security is paying right now. Imagine you have a bunch of home loans bundled together into one big investment. As people pay off their loans or get new ones at different rates, the interest rate of the whole bundle changes. Current Face technology keeps an eye on these changes and tells investors what the new interest rate is.
 
-This technology is important because it helps investors know how much money they are making from their investment at any given time. It's like checking the temperature of the investment. If the interest rate goes up, the investors might make more money. If it goes down, they might make less. By using Current Face technology, investors can make better decisions about buying or selling their mortgage-backed securities.
+This technology is important because it helps investors know how much money they are making from their investment at any given time. It's like checking the temperature of the investment. If the [interest rate](/wiki/interest-rate-trading-strategies) goes up, the investors might make more money. If it goes down, they might make less. By using Current Face technology, investors can make better decisions about buying or selling their mortgage-backed securities.
 
 ## What are the basic components of a Current Face system?
 
@@ -68,7 +68,7 @@ If you're thinking about a system that does need to handle different lighting an
 
 The latest advancements in Current Face technology focus on making it faster and more accurate. One big change is that the technology now uses more advanced data collection methods. This means it can gather information about loans more quickly and with fewer mistakes. It's like having a better, faster way to check the temperature of your investment, so you always know what's going on.
 
-Another important advancement is the use of artificial intelligence (AI) to help predict how interest rates might change. While Current Face still only shows the rate right now, AI can look at past data to give investors a better idea of what might happen next. This doesn't change what Current Face does, but it helps investors use the information in smarter ways. It's like having a weather forecast for your investment, so you can plan better.
+Another important advancement is the use of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) to help predict how interest rates might change. While Current Face still only shows the rate right now, AI can look at past data to give investors a better idea of what might happen next. This doesn't change what Current Face does, but it helps investors use the information in smarter ways. It's like having a weather forecast for your investment, so you can plan better.
 
 ## How does Current Face technology compare to other facial recognition systems?
 

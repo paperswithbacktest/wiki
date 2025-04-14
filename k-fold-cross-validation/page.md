@@ -21,7 +21,7 @@ This method helps because it reduces the chance that our model's performance is 
 
 ## How does K-Fold Cross Validation work?
 
-K-Fold Cross Validation is a way to check how good a machine learning model is. Imagine you have a big pile of data. You split this pile into K smaller piles. Then, you take K-1 of these piles and use them to teach the model. The last pile is used to test how well the model learned. You do this K times, each time using a different pile as the test set. At the end, you take the average of all these tests to see how well the model works overall. This helps make sure the model's performance isn't just lucky because of how the data was split.
+K-Fold Cross Validation is a way to check how good a [machine learning](/wiki/machine-learning) model is. Imagine you have a big pile of data. You split this pile into K smaller piles. Then, you take K-1 of these piles and use them to teach the model. The last pile is used to test how well the model learned. You do this K times, each time using a different pile as the test set. At the end, you take the average of all these tests to see how well the model works overall. This helps make sure the model's performance isn't just lucky because of how the data was split.
 
 A common choice for K is 5 or 10, but you can change it based on how much data you have and how long you're willing to wait for the computer to finish the calculations. If you have a small amount of data, you might want to use a larger K to make the most of your data. On the other hand, if you have a lot of data, a smaller K might be enough and faster to compute. By using K-Fold Cross Validation, you can be more sure that your model will work well on new data it hasn't seen before.
 

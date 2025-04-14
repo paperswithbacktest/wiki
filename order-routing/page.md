@@ -68,7 +68,7 @@ Another way regulations impact order routing is by making sure the systems are s
 
 To make order routing better, people use special computer programs called algorithms. These algorithms look at lots of different things, like how fast a place is, how much it costs to trade there, and how likely you are to get the price you want. They use this information to pick the best place to send your order. Another technology that helps is something called high-frequency trading. This is when computers send orders very quickly, sometimes in just a few milliseconds. This speed can help traders get the best prices and make sure their orders are filled fast.
 
-Another important technology is called cloud computing. This lets order routing systems use powerful computers that are connected over the internet. This means they can handle lots of orders at the same time without slowing down. Also, there's something called artificial intelligence, or AI. AI can learn from past trades and make smarter choices about where to send orders. By using these technologies, order routing systems can work better and help traders get the best deals.
+Another important technology is called cloud computing. This lets order routing systems use powerful computers that are connected over the internet. This means they can handle lots of orders at the same time without slowing down. Also, there's something called [artificial intelligence](/wiki/ai-artificial-intelligence), or AI. AI can learn from past trades and make smarter choices about where to send orders. By using these technologies, order routing systems can work better and help traders get the best deals.
 
 ## How can one evaluate the effectiveness of an order routing system?
 

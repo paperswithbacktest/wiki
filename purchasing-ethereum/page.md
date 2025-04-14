@@ -22,7 +22,7 @@ After buying Ethereum, it's important for beginners to keep their investment saf
 
 ## What are the different methods to purchase Ethereum?
 
-There are several ways to buy Ethereum. One common method is using a cryptocurrency exchange. These are websites where you can sign up, add money to your account, and then use that money to buy Ethereum. Popular exchanges include Coinbase, Binance, and Kraken. You can add money to your exchange account using a bank transfer, a credit card, or sometimes even PayPal. Once you have money in your account, you can buy Ethereum easily by following the instructions on the exchange.
+There are several ways to buy Ethereum. One common method is using a [cryptocurrency](/wiki/cryptocurrency) exchange. These are websites where you can sign up, add money to your account, and then use that money to buy Ethereum. Popular exchanges include Coinbase, Binance, and Kraken. You can add money to your exchange account using a bank transfer, a credit card, or sometimes even PayPal. Once you have money in your account, you can buy Ethereum easily by following the instructions on the exchange.
 
 Another way to buy Ethereum is through a peer-to-peer (P2P) platform. These platforms connect buyers and sellers directly. You can find someone who wants to sell their Ethereum and agree on a price. Then, you can pay them using a method like a bank transfer or cash, and they will send the Ethereum to your digital wallet. Websites like LocalEthereum and Paxful are examples of P2P platforms. This method can be good if you want to buy Ethereum without using an exchange.
 

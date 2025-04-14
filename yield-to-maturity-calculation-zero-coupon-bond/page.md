@@ -22,7 +22,7 @@ For example, if you buy a bond for $950 that will be worth $1,000 when it mature
 
 ## Why is YTM important for zero-coupon bonds?
 
-Yield to Maturity (YTM) is really important for zero-coupon bonds because these bonds don't pay interest along the way. Instead, you buy them at a lower price and get the full amount when they mature. YTM helps you figure out what your yearly return is, even though you're not getting any money until the end. It's like figuring out how much you're earning each year from the difference between what you paid and what you'll get at the end.
+Yield to Maturity (YTM) is really important for zero-coupon bonds because these bonds don't pay interest along the way. Instead, you buy them at a lower price and get the full amount when they mature. YTM helps you figure out what your yearly return is, even though you're not getting any money until the end. It's like figuring out how much you're [earning](/wiki/earning-announcement) each year from the difference between what you paid and what you'll get at the end.
 
 For someone thinking about buying a zero-coupon bond, knowing the YTM is key. It tells you if the bond is a good deal compared to other investments. If the YTM is higher than what you could get from other safe investments, then the zero-coupon bond might be a better choice. It's a simple way to see if waiting until the bond matures will be worth it for you.
 
@@ -64,7 +64,7 @@ Another pitfall is not understanding that the YTM is an annual rate. Sometimes p
 
 ## How does the market interest rate influence the YTM of a zero-coupon bond?
 
-The market interest rate has a big impact on the YTM of a zero-coupon bond. When the market interest rates go up, the price of zero-coupon bonds usually goes down. This happens because new bonds being sold will have higher YTMs to match the higher market rates. If you want to sell your zero-coupon bond before it matures, you'll have to sell it for less to compete with these new bonds. So, even though the YTM you bought it at stays the same, the YTM for someone buying it now would be higher because they're paying less for the same future payout.
+The market [interest rate](/wiki/interest-rate-trading-strategies) has a big impact on the YTM of a zero-coupon bond. When the market interest rates go up, the price of zero-coupon bonds usually goes down. This happens because new bonds being sold will have higher YTMs to match the higher market rates. If you want to sell your zero-coupon bond before it matures, you'll have to sell it for less to compete with these new bonds. So, even though the YTM you bought it at stays the same, the YTM for someone buying it now would be higher because they're paying less for the same future payout.
 
 On the flip side, when market interest rates go down, the price of zero-coupon bonds goes up. This is because your bond now looks more attractive compared to new bonds with lower YTMs. If you decide to sell your bond before it matures, you can sell it for more because people are willing to pay more for the higher YTM your bond offers. But remember, the YTM you calculated when you bought the bond doesn't change; it's just that the YTM for someone buying it now would be lower because they're paying more for the same future payout.
 
@@ -148,7 +148,7 @@ This code provides a straightforward method to compute YTM, thereby assisting in
 
 ## What is the conclusion?
 
-Zero-coupon bonds are integral to both traditional investing and algorithmic trading because of their unique structure and predictable cash flows. These bonds, which do not provide periodic interest payments, are generally issued at a discount and mature at their face value, offering returns through capital appreciation. This characteristic makes them sensitive to interest rate fluctuations, a crucial [factor](/wiki/factor-investing) that investors must consider when incorporating them into a portfolio.
+Zero-coupon bonds are integral to both traditional investing and [algorithmic trading](/wiki/algorithmic-trading) because of their unique structure and predictable cash flows. These bonds, which do not provide periodic interest payments, are generally issued at a discount and mature at their face value, offering returns through capital appreciation. This characteristic makes them sensitive to interest rate fluctuations, a crucial [factor](/wiki/factor-investing) that investors must consider when incorporating them into a portfolio.
 
 A fundamental skill for investors dealing with zero-coupon bonds is understanding and accurately calculating the yield to maturity (YTM). The YTM, which determines the expected total return on investment if the bond is held until maturity, is calculated as:
 
@@ -158,7 +158,7 @@ $$
 
 This formula helps investors evaluate the bond's potential returns and make informed decisions about their investments.
 
-In algorithmic trading, zero-coupon bonds allow for enhanced strategic planning. Their predictable cash flows and interest rate sensitivity are instrumental in developing models that manage portfolio duration and analyze yield curves. Advanced algorithms can exploit these characteristics for arbitrage opportunities or to hedge against interest rate risks, ultimately optimizing trading strategies.
+In algorithmic trading, zero-coupon bonds allow for enhanced strategic planning. Their predictable cash flows and interest rate sensitivity are instrumental in developing models that manage portfolio duration and analyze yield curves. Advanced algorithms can exploit these characteristics for [arbitrage](/wiki/arbitrage) opportunities or to hedge against interest rate risks, ultimately optimizing trading strategies.
 
 By utilizing sophisticated trading platforms and algorithmic models, investors can better navigate the complexities of the financial markets, ensuring more favorable outcomes. These approaches enable the identification of strategic buying and selling opportunities, thus maximizing the potential benefits of zero-coupon bonds within an investment portfolio.
 

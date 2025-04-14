@@ -98,7 +98,7 @@ Here, $M_t$ is the moving average at time $t$, $n$ is the number of periods incl
 
 Incorporating algorithmic trading into auction markets also alleviates human error. Unlike humans, algorithms perform consistently under pressure and do not succumb to emotional or psychological biases. This consistency is particularly valuable in high-pressure auction settings, where decision-making speed and accuracy are critical.
 
-Moreover, these algorithms are continually updated to adapt to changing market conditions and regulatory environments. As markets evolve, algorithmic models incorporate enhancements to refine their strategies, ensuring they remain effective tools for navigating the complexities of modern auction markets. Through machine learning techniques, algorithms can even predict future market trends with increasing accuracy, reducing the risk of unexpected market shifts.
+Moreover, these algorithms are continually updated to adapt to changing market conditions and regulatory environments. As markets evolve, algorithmic models incorporate enhancements to refine their strategies, ensuring they remain effective tools for navigating the complexities of modern auction markets. Through [machine learning](/wiki/machine-learning) techniques, algorithms can even predict future market trends with increasing accuracy, reducing the risk of unexpected market shifts.
 
 By harnessing algorithmic trading, participants in auction markets can achieve a significant advantage, optimizing their trading outcomes and exploiting market inefficiencies that might otherwise go unnoticed.
 

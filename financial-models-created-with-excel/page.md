@@ -64,7 +64,7 @@ Another useful function is XNPV, which calculates the net present value of cash 
 
 ## How do you perform sensitivity analysis in Excel financial models?
 
-Sensitivity analysis in Excel helps you see how changing one thing can affect your whole financial model. You start by picking the key numbers you want to test, like how much your sales might grow or what interest rate you'll pay on a loan. Then, you change these numbers a little bit to see how they impact your results. For example, if you think your sales might grow by 5% each year, you can try changing it to 4% or 6% and see what happens to your profit.
+Sensitivity analysis in Excel helps you see how changing one thing can affect your whole financial model. You start by [picking](/wiki/asset-class-picking) the key numbers you want to test, like how much your sales might grow or what [interest rate](/wiki/interest-rate-trading-strategies) you'll pay on a loan. Then, you change these numbers a little bit to see how they impact your results. For example, if you think your sales might grow by 5% each year, you can try changing it to 4% or 6% and see what happens to your profit.
 
 To do this in Excel, you can use the Data Table feature. First, set up your model with all your numbers and formulas. Then, make a table where you list different values for the number you want to test. In another column, you can show how each value changes your key results, like your profit. When you use the Data Table tool, Excel will automatically calculate the results for each value you list. This way, you can quickly see how sensitive your model is to changes in your assumptions, helping you understand what could happen if things don't go as planned.
 

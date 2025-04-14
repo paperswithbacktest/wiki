@@ -22,7 +22,7 @@ Savings bonds are a safe way to invest because the U.S. government backs them. T
 
 ## What are the different types of U.S. Savings Bonds available?
 
-There are two main types of U.S. Savings Bonds: Series EE and Series I. Series EE bonds are the most common type. When you buy a Series EE bond, it earns a fixed interest rate. This means the rate stays the same for the whole time you own the bond. You can buy Series EE bonds at half their face value, so a $100 bond costs you $50. They are guaranteed to double in value if you hold them for 20 years.
+There are two main types of U.S. Savings Bonds: Series EE and Series I. Series EE bonds are the most common type. When you buy a Series EE bond, it earns a fixed [interest rate](/wiki/interest-rate-trading-strategies). This means the rate stays the same for the whole time you own the bond. You can buy Series EE bonds at half their face value, so a $100 bond costs you $50. They are guaranteed to double in value if you hold them for 20 years.
 
 Series I bonds are different because they earn interest based on a combination of a fixed rate and an inflation rate. This means the interest rate can change over time to keep up with inflation. Series I bonds are good if you want your savings to keep up with the cost of living. You buy them at face value, so a $100 bond costs you $100. Both types of bonds are safe investments because they are backed by the U.S. government.
 
@@ -56,7 +56,7 @@ There's also a special rule for using the interest from Series EE and Series I b
 
 Yes, you can use U.S. Savings Bonds for educational purposes. If you use the interest from Series EE or Series I bonds to pay for qualified higher education expenses, you might not have to pay federal income tax on that interest. This can be a big help when saving for college. The education expenses can be for yourself, your spouse, or your dependent. But there are some rules you need to follow, like income limits, so it's a good idea to talk to a tax advisor to see if you can use this tax benefit.
 
-The tax benefit works like this: if you meet the rules, you don't have to pay federal income tax on the interest you use for education. This means more of your money can go towards tuition, books, and other school costs. Remember, even if you can't use this tax benefit, the interest from savings bonds is still not taxed by state or local governments, which is another way to save money.
+The tax benefit works like this: if you meet the rules, you don't have to pay federal income tax on the interest you use for education. This means more of your money can go towards tuition, [books](/wiki/algo-trading-books), and other school costs. Remember, even if you can't use this tax benefit, the interest from savings bonds is still not taxed by state or local governments, which is another way to save money.
 
 ## How and when can U.S. Savings Bonds be redeemed?
 

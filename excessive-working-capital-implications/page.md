@@ -36,9 +36,9 @@ Lastly, excessive working capital can also come from poor inventory management. 
 
 ## How can excessive working capital affect a company's liquidity?
 
-Excessive working capital can actually make a company's liquidity worse, even though it might seem like having more money is a good thing. Liquidity is about how easily a company can turn its assets into cash to pay its bills. If a company has too much cash sitting in the bank or tied up in inventory, it might not be using that money to make more money. This means the company could miss out on opportunities to invest in things that could bring in more cash quickly.
+Excessive working capital can actually make a company's [liquidity](/wiki/liquidity-risk-premium) worse, even though it might seem like having more money is a good thing. Liquidity is about how easily a company can turn its assets into cash to pay its bills. If a company has too much cash sitting in the bank or tied up in inventory, it might not be using that money to make more money. This means the company could miss out on opportunities to invest in things that could bring in more cash quickly.
 
-For example, if a company keeps too much cash instead of investing it, it's not earning interest or other returns that could improve its liquidity. Also, if the company has too much inventory, it's not turning that inventory into sales and cash as quickly as it could. So, while having a lot of working capital might make it look like the company is financially healthy, it can actually make it harder for the company to be liquid and ready to handle its financial needs.
+For example, if a company keeps too much cash instead of investing it, it's not [earning](/wiki/earning-announcement) interest or other returns that could improve its liquidity. Also, if the company has too much inventory, it's not turning that inventory into sales and cash as quickly as it could. So, while having a lot of working capital might make it look like the company is financially healthy, it can actually make it harder for the company to be liquid and ready to handle its financial needs.
 
 ## What are the potential risks of holding too much working capital?
 
@@ -116,7 +116,7 @@ In summary, effective working capital management enables businesses to maintain 
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization" discusses methodologies for tuning hyper-parameters in machine learning models, which is crucial for optimizing algorithmic trading strategies.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization" discusses methodologies for tuning hyper-parameters in [machine learning](/wiki/machine-learning) models, which is crucial for optimizing [algorithmic trading](/wiki/algorithmic-trading) strategies.
 
 Lopez de Prado, M. "Advances in Financial Machine Learning" provides a comprehensive exploration of mathematical and scientific approaches to financial data analysis and the development of automated trading systems. This work is instrumental for understanding the intricacies of implementing machine learning in trading.
 

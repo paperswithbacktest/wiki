@@ -50,7 +50,7 @@ Mutual funds are a mix of different investments, like stocks and bonds, all put 
 
 Diversification means spreading your money across different types of investments. It's like not putting all your eggs in one basket. When you diversify, you lower your risk because if one investment goes down, the others might go up or stay the same, which helps balance things out. This is really important for investment suitability because it helps you find a mix of investments that fit your risk level and goals. If you only invest in one thing, like just stocks, and they go down, you could lose a lot of money. But if you have some stocks, some bonds, and maybe some mutual funds, you're safer because not everything will go down at the same time.
 
-Having a diversified portfolio also helps you feel more comfortable with your investments. If you know your money is spread out, you won't worry as much about losing it all. This can make a big difference in how you feel about your financial future. So, when you're picking investments, think about how you can diversify to match your risk tolerance and time horizon. It's a key part of making sure your investments are suitable for you.
+Having a diversified portfolio also helps you feel more comfortable with your investments. If you know your money is spread out, you won't worry as much about losing it all. This can make a big difference in how you feel about your financial future. So, when you're [picking](/wiki/asset-class-picking) investments, think about how you can diversify to match your risk tolerance and time horizon. It's a key part of making sure your investments are suitable for you.
 
 ## How should an investor's age and life stage impact their investment choices?
 

@@ -30,7 +30,7 @@ Having a trade surplus can help a country's economy grow. When a country earns m
 
 ## What does a negative trade balance indicate?
 
-A negative trade balance means a country is buying more stuff from other countries than it is selling to them. This is also called a trade deficit. When a country has a trade deficit, it shows that its people and businesses are spending more on foreign goods and services than what they are earning from selling their own products abroad.
+A negative trade balance means a country is buying more stuff from other countries than it is selling to them. This is also called a trade deficit. When a country has a trade deficit, it shows that its people and businesses are spending more on foreign goods and services than what they are [earning](/wiki/earning-announcement) from selling their own products abroad.
 
 Having a trade deficit isn't always bad. It can mean that the country's people have enough money to buy things from other places, which can be a sign of a strong economy. But if the deficit is too big, it might cause problems. The country might need to borrow money to pay for all the imports, which can lead to more debt and a weaker currency. Governments and economists watch the trade deficit closely to make sure it doesn't get out of control.
 
@@ -68,7 +68,7 @@ Also, things like global prices for things like oil or steel can affect a countr
 
 Short-term factors that affect a country's trade balance can change quickly and might not last long. Things like sudden changes in exchange rates can make a country's exports more or less expensive for other countries to buy. If a country's currency gets weaker, its exports might become cheaper and other countries might buy more, which can help the trade balance in the short term. Also, short-term changes in global demand, like during a holiday season, can make other countries buy more or less from a country. If there's a big event like a global economic crisis, it can make other countries buy less, which can hurt a country's trade balance right away.
 
-Long-term factors that affect a country's trade balance take more time to change and can have a bigger impact over time. The competitiveness of a country's industries is a big long-term factor. If a country's businesses keep getting better at making things that other countries want to buy, it can help the country have a better trade balance over many years. Also, long-term changes in trade policies, like joining a free trade agreement, can make it easier for a country to sell its stuff abroad and buy less from other places. Things like education and technology can also help a country's industries become more competitive, which can improve its trade balance over the long term.
+Long-term factors that affect a country's trade balance take more time to change and can have a bigger impact over time. The competitiveness of a country's industries is a big long-term [factor](/wiki/factor-investing). If a country's businesses keep getting better at making things that other countries want to buy, it can help the country have a better trade balance over many years. Also, long-term changes in trade policies, like joining a free trade agreement, can make it easier for a country to sell its stuff abroad and buy less from other places. Things like education and technology can also help a country's industries become more competitive, which can improve its trade balance over the long term.
 
 ## How can government policies be used to improve a trade balance?
 

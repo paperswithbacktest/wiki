@@ -22,7 +22,7 @@ eBay's business model is different because it's more like a marketplace where pe
 
 ## What are the key features of Amazon's platform?
 
-Amazon's platform is known for being easy to use. You can find almost anything you need, from books to electronics to clothes. They have a big search bar at the top of the page where you can type what you're looking for, and it will show you lots of options. Amazon also has a feature called "Recommendations" that suggests things you might like based on what you've bought or looked at before. This makes shopping easier because it helps you find new things you might enjoy.
+Amazon's platform is known for being easy to use. You can find almost anything you need, from [books](/wiki/algo-trading-books) to electronics to clothes. They have a big search bar at the top of the page where you can type what you're looking for, and it will show you lots of options. Amazon also has a feature called "Recommendations" that suggests things you might like based on what you've bought or looked at before. This makes shopping easier because it helps you find new things you might enjoy.
 
 Another key feature of Amazon is their fast shipping. If you sign up for Amazon Prime, you get free and fast delivery on many items. This is really helpful if you need something quickly. Amazon also lets you read reviews from other buyers. These reviews can help you decide if a product is good or not. Plus, Amazon has a feature called "Subscribe & Save" where you can get regular deliveries of things like shampoo or pet food at a lower price, which is great for saving money and time.
 

@@ -68,7 +68,7 @@ UBS also makes sure their own business follows these same principles. They have 
 
 ## What are the technological innovations implemented by UBS Group AG in its operations?
 
-UBS Group AG uses new technology to make banking easier and better for its customers. They have made a special app called UBS Neo, which helps people manage their money on their phones. With this app, customers can check their accounts, pay bills, and even invest their money without going to a bank. UBS also uses something called artificial intelligence (AI) to help with things like giving advice on investments and spotting fraud. This means they can give better advice and keep their customers' money safer.
+UBS Group AG uses new technology to make banking easier and better for its customers. They have made a special app called UBS Neo, which helps people manage their money on their phones. With this app, customers can check their accounts, pay bills, and even invest their money without going to a bank. UBS also uses something called [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) to help with things like giving advice on investments and spotting fraud. This means they can give better advice and keep their customers' money safer.
 
 Another big change UBS has made is using something called blockchain. This is a new way to keep track of money and other things that makes it harder for people to cheat. UBS uses blockchain to make payments faster and more secure. They also use a lot of data to understand what their customers need and want. By looking at this data, UBS can make their services better and create new products that people will like. All these new technologies help UBS stay ahead in the world of banking.
 

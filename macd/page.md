@@ -38,7 +38,7 @@ When the MACD line crosses above the signal line, it's a sign that might be a go
 
 ## What does a MACD crossover indicate?
 
-A MACD crossover happens when the MACD line crosses over the signal line. This is an important signal for traders. When the MACD line moves above the signal line, it's called a bullish crossover. This means that the short-term trend is getting stronger than the long-term trend, and it might be a good time to buy. It's like the price is picking up speed and might keep going up.
+A MACD crossover happens when the MACD line crosses over the signal line. This is an important signal for traders. When the MACD line moves above the signal line, it's called a bullish crossover. This means that the short-term trend is getting stronger than the long-term trend, and it might be a good time to buy. It's like the price is [picking](/wiki/asset-class-picking) up speed and might keep going up.
 
 On the other hand, when the MACD line moves below the signal line, it's called a bearish crossover. This means the short-term trend is getting weaker than the long-term trend, and it might be a good time to sell. It's like the price is slowing down and might start going down. By watching these crossovers, traders can make decisions about when to buy or sell based on the changing trends.
 
@@ -82,7 +82,7 @@ MACD can be used with other technical indicators to make better trading decision
 
 Another way to use MACD is with moving averages. For example, traders often use the 50-day and 200-day moving averages to see the bigger trend. If the 50-day moving average crosses above the 200-day moving average (called a golden cross), and the MACD also shows a bullish crossover, it can be a strong signal to buy. If the 50-day moving average crosses below the 200-day moving average (called a death cross), and the MACD shows a bearish crossover, it might be a good time to sell. Using MACD with moving averages helps traders confirm the trend and make more confident trades.
 
-Lastly, MACD can be combined with Bollinger Bands to understand price volatility. Bollinger Bands show the high and low price ranges over a period. When the price hits the upper Bollinger Band and the MACD shows a bearish crossover, it might be a sign to sell because the price could start to go down. If the price hits the lower Bollinger Band and the MACD shows a bullish crossover, it might be a good time to buy because the price could start to go up. By using MACD with Bollinger Bands, traders can see both the trend and the volatility, helping them make better trading decisions.
+Lastly, MACD can be combined with Bollinger Bands to understand price [volatility](/wiki/volatility-trading-strategies). Bollinger Bands show the high and low price ranges over a period. When the price hits the upper Bollinger Band and the MACD shows a bearish crossover, it might be a sign to sell because the price could start to go down. If the price hits the lower Bollinger Band and the MACD shows a bullish crossover, it might be a good time to buy because the price could start to go up. By using MACD with Bollinger Bands, traders can see both the trend and the volatility, helping them make better trading decisions.
 
 ## What are the limitations and potential pitfalls of using MACD in trading?
 

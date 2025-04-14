@@ -22,7 +22,7 @@ Since it started, TOCOM has grown a lot. It now trades many different commoditie
 
 ## What types of commodities are traded on TOCOM?
 
-The Tokyo Commodity Exchange, or TOCOM, trades many different kinds of commodities. These include precious metals like gold and silver, which people often buy and sell because they want to make money or keep their savings safe. TOCOM also trades energy products like crude oil and gasoline. These are important because they are used to power cars, heat homes, and run factories.
+The Tokyo Commodity Exchange, or TOCOM, trades many different kinds of commodities. These include precious metals like gold and silver, which people often buy and sell because they want to make money or keep their savings safe. TOCOM also trades energy products like [crude oil](/wiki/crude-oil) and gasoline. These are important because they are used to power cars, heat homes, and run factories.
 
 Another group of commodities traded on TOCOM are industrial materials. This includes things like rubber, which is used to make tires and other products, and aluminum, which is used in many industries. These materials are important for businesses that need them to make their products. By trading these commodities, TOCOM helps set prices and makes it easier for businesses to plan and manage their needs.
 

@@ -152,7 +152,7 @@ In summary, Operating Cash Flow is a vital component of financial analysis, offe
 
 ## References & Further Reading
 
-To further understand the synergy between Operating Cash Flow (OCF) and algorithmic trading, a variety of resources and literature can provide deeper insights. These materials range from foundational texts on financial analysis to comprehensive guides on modern trading strategies.
+To further understand the synergy between Operating Cash Flow (OCF) and [algorithmic trading](/wiki/algorithmic-trading), a variety of resources and literature can provide deeper insights. These materials range from foundational texts on financial analysis to comprehensive guides on modern trading strategies.
 
 1. **Books and Scholarly Articles**:
    - *Financial Statement Analysis and Security Valuation* by Stephen Penman is widely regarded as a seminal text, offering a thorough understanding of financial statements, including OCF calculations.

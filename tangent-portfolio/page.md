@@ -18,7 +18,7 @@ To find a tangent portfolio, investors often use a risk-free asset, like a gover
 
 The tangent portfolio is very special because it touches the efficient frontier at just one point. The efficient frontier is like a line that shows all the best ways to mix different investments to get the most return for the least amount of risk. When you draw a line from a risk-free investment, like a government bond, to the efficient frontier, the point where this line touches the curve is the tangent portfolio. This point is the best mix of investments because it gives you the highest return for the amount of risk you are willing to take.
 
-Think of the efficient frontier as a curve that shows all the possible ways to combine risky investments. The tangent portfolio is the spot on this curve where adding a risk-free asset makes the whole portfolio as good as it can be. It's like finding the perfect balance. By choosing the tangent portfolio, you are picking the best way to mix your investments so that you get the most reward without taking on too much risk.
+Think of the efficient frontier as a curve that shows all the possible ways to combine risky investments. The tangent portfolio is the spot on this curve where adding a risk-free asset makes the whole portfolio as good as it can be. It's like finding the perfect balance. By choosing the tangent portfolio, you are [picking](/wiki/asset-class-picking) the best way to mix your investments so that you get the most reward without taking on too much risk.
 
 ## What is the significance of the tangent portfolio in modern portfolio theory?
 
@@ -76,7 +76,7 @@ Keeping your tangent portfolio in line with these changes can be a lot of work. 
 
 ## What advanced techniques can be used to refine the construction of the tangent portfolio?
 
-To make the tangent portfolio even better, you can use some fancy math and computer tricks. One way is to use something called "Monte Carlo simulations." This is where you run a bunch of pretend scenarios to see how your investments might do in the future. By doing this many times, you can get a better idea of the risks and returns, which helps you find the best mix of investments. Another cool trick is to use "machine learning" to look at a lot of data and find patterns that might help you predict how investments will do. This can make your guesses about the future more accurate, so your tangent portfolio can be more spot-on.
+To make the tangent portfolio even better, you can use some fancy math and computer tricks. One way is to use something called "Monte Carlo simulations." This is where you run a bunch of pretend scenarios to see how your investments might do in the future. By doing this many times, you can get a better idea of the risks and returns, which helps you find the best mix of investments. Another cool trick is to use "[machine learning](/wiki/machine-learning)" to look at a lot of data and find patterns that might help you predict how investments will do. This can make your guesses about the future more accurate, so your tangent portfolio can be more spot-on.
 
 Another advanced way to refine the tangent portfolio is to use "robust optimization." This method helps you make a portfolio that can handle surprises and changes in the market better. It does this by not relying too much on your guesses about the future, which can be wrong. Instead, it looks at a bunch of different possible futures and tries to find a mix of investments that will do well no matter what happens. This can make your portfolio stronger and more reliable, even when the market is acting crazy. By using these advanced techniques, you can make your tangent portfolio smarter and better at balancing risk and reward.
 
@@ -144,7 +144,7 @@ Algorithmic trading enhances tangent portfolio optimization by leveraging sophis
 
 ### Can tangent portfolios adapt to volatile market conditions effectively?
 
-Tangent portfolios can adapt to volatile market conditions through algorithmic trading strategies that continuously monitor market data and respond rapidly to changes. By employing dynamic rebalancing techniques, algorithms can recalibrate the portfolio's composition, maintaining the highest Sharpe ratio possible. Although no investment strategy can entirely eliminate risk, algorithmic trading can help mitigate potential losses by optimizing portfolios in various market conditions, including times of high volatility.
+Tangent portfolios can adapt to volatile market conditions through [algorithmic trading](/wiki/algorithmic-trading) strategies that continuously monitor market data and respond rapidly to changes. By employing dynamic rebalancing techniques, algorithms can recalibrate the portfolio's composition, maintaining the highest Sharpe ratio possible. Although no investment strategy can entirely eliminate risk, algorithmic trading can help mitigate potential losses by optimizing portfolios in various market conditions, including times of high [volatility](/wiki/volatility-trading-strategies).
 
 ### What future trends should investors be aware of regarding tangent portfolios?
 

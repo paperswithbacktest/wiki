@@ -78,7 +78,7 @@ Another useful method is called Value at Risk (VaR). This method tells you the m
 
 ## How do multi-factor models contribute to a more nuanced understanding of portfolio performance?
 
-Multi-factor models help you understand your portfolio's performance in a more detailed way. They look at different things, called factors, that can affect how your investments do. These factors can be things like how big a company is, how much it's growing, or how much risk it takes. By looking at these factors, you can see which ones are helping your portfolio do well and which ones might be holding it back. This helps you make smarter choices about which investments to keep or change.
+Multi-[factor](/wiki/factor-investing) models help you understand your portfolio's performance in a more detailed way. They look at different things, called factors, that can affect how your investments do. These factors can be things like how big a company is, how much it's growing, or how much risk it takes. By looking at these factors, you can see which ones are helping your portfolio do well and which ones might be holding it back. This helps you make smarter choices about which investments to keep or change.
 
 For example, if you find out that your portfolio does well when companies are growing fast but not so well when they are small, you can use this information to adjust your investments. Multi-factor models give you a clearer picture of what's going on with your money. They help you see beyond just the total return and understand the different pieces that make up your portfolio's performance. This way, you can make more informed decisions and try to improve your investments over time.
 

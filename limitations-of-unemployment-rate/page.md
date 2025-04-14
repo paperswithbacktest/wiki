@@ -32,7 +32,7 @@ There's also something called voluntary unemployment, where people choose not to
 
 The unemployment rate only counts people who don't have a job but are actively looking for one. It doesn't consider people who are working but not as much as they want to or in jobs that don't use their skills. This is called underemployment. For example, if someone with a college degree is working part-time at a fast food restaurant because they can't find a full-time job in their field, they are underemployed. The unemployment rate won't show this because it only looks at whether someone has a job or not, not if the job is a good fit for them.
 
-Underemployment can be a big problem because it means people aren't using their skills and might not be earning as much money as they could. This can affect the economy too, because if lots of people are underemployed, they might spend less money. The unemployment rate doesn't give us the full picture of how many people are struggling to find the right job. So, while it's a useful measure, it's important to also look at underemployment to understand the health of the job market.
+Underemployment can be a big problem because it means people aren't using their skills and might not be [earning](/wiki/earning-announcement) as much money as they could. This can affect the economy too, because if lots of people are underemployed, they might spend less money. The unemployment rate doesn't give us the full picture of how many people are struggling to find the right job. So, while it's a useful measure, it's important to also look at underemployment to understand the health of the job market.
 
 ## Can the unemployment rate accurately reflect the health of the economy?
 
@@ -86,7 +86,7 @@ There's also something called the employment-to-population ratio, which shows th
 
 ## How can economic indicators be integrated into algo trading strategies?
 
-Integrating economic indicators into algorithmic trading strategies involves utilizing a wide array of data points to inform and optimize trading decisions. This process requires building sophisticated models capable of analyzing large datasets and identifying potential trading signals. A typical approach employs both historical data and real-time economic indicators such as GDP growth, inflation rates, employment statistics, and more.
+Integrating economic indicators into [algorithmic trading](/wiki/algorithmic-trading) strategies involves utilizing a wide array of data points to inform and optimize trading decisions. This process requires building sophisticated models capable of analyzing large datasets and identifying potential trading signals. A typical approach employs both historical data and real-time economic indicators such as GDP growth, inflation rates, employment [statistics](/wiki/bayesian-statistics), and more.
 
 These indicators serve as inputs to predictive models that forecast price movements and identify market trends. For example, when an economic report is released showing higher-than-expected GDP growth, an algorithm might predict an appreciation in the local currency or a rise in stock indices. One common method is using regression analysis to establish relationships between economic indicators and asset prices. The model might look something like this:
 
@@ -100,7 +100,7 @@ where:
 - $\text{GDP}_t, \text{Inflation}_t, \ldots$ are various economic indicators,
 - $\epsilon_t$ is the error term.
 
-Algorithmic systems further utilize machine learning techniques to refine these models. Machine learning can automatically detect patterns and adapt to new data, allowing the models to evolve alongside changing market conditions. In Python, this might involve libraries such as scikit-learn or TensorFlow to implement machine learning models which can update and optimize trading strategies in real-time. For example:
+Algorithmic systems further utilize [machine learning](/wiki/machine-learning) techniques to refine these models. Machine learning can automatically detect patterns and adapt to new data, allowing the models to evolve alongside changing market conditions. In Python, this might involve libraries such as scikit-learn or TensorFlow to implement machine learning models which can update and optimize trading strategies in real-time. For example:
 
 ```python
 from sklearn.ensemble import RandomForestRegressor

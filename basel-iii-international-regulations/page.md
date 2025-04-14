@@ -24,7 +24,7 @@ In each country, local regulators also play a big role in making sure banks foll
 
 Basel III has three main parts that help make banks safer. The first part is about capital requirements. This means banks need to keep more money set aside, called capital, to cover any losses they might have. There are two types of capital: Tier 1, which is the strongest kind and includes things like common stock, and Tier 2, which is less strong but still helps. Basel III says banks need more Tier 1 capital, especially common equity, to make sure they can handle tough times.
 
-The second part is about liquidity. This means banks need to have enough cash or things they can quickly turn into cash to meet their short-term needs. Basel III introduced two new rules for this: the Liquidity Coverage Ratio (LCR), which makes sure banks have enough liquid assets to survive a 30-day stress period, and the Net Stable Funding Ratio (NSFR), which makes sure banks have stable funding over a longer time, like a year.
+The second part is about [liquidity](/wiki/liquidity-risk-premium). This means banks need to have enough cash or things they can quickly turn into cash to meet their short-term needs. Basel III introduced two new rules for this: the Liquidity Coverage Ratio (LCR), which makes sure banks have enough liquid assets to survive a 30-day stress period, and the Net Stable Funding Ratio (NSFR), which makes sure banks have stable funding over a longer time, like a year.
 
 The third part is about managing risks better. Basel III wants banks to look at all the risks they take, not just the big ones. This includes risks from things like loans, investments, and even how much they rely on other banks. By understanding these risks better, banks can make smarter decisions and be ready for any problems that might come up.
 
@@ -78,7 +78,7 @@ Another challenge is the cost of changing their systems and processes to meet th
 
 ## What future developments or amendments are expected for Basel III?
 
-In the future, Basel III might see some changes to make it even better at keeping banks safe. One big thing that could happen is more focus on how banks handle risks from things like climate change and cyber attacks. These are new kinds of risks that weren't as big a deal when Basel III first came out. The rules might be updated to make sure banks are ready for these new challenges. Also, there might be more rules about how banks use new technology, like artificial intelligence, to make sure they're using it in a safe way.
+In the future, Basel III might see some changes to make it even better at keeping banks safe. One big thing that could happen is more focus on how banks handle risks from things like climate change and cyber attacks. These are new kinds of risks that weren't as big a deal when Basel III first came out. The rules might be updated to make sure banks are ready for these new challenges. Also, there might be more rules about how banks use new technology, like [artificial intelligence](/wiki/ai-artificial-intelligence), to make sure they're using it in a safe way.
 
 Another thing that could change is how Basel III is applied around the world. Right now, different countries follow the rules a bit differently. In the future, there might be more work to make sure all countries follow the rules the same way. This would help make the global financial system even more stable. But, making these changes will take time and a lot of talking between different countries and banks to make sure everyone agrees on what needs to be done.
 

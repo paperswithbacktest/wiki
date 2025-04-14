@@ -121,7 +121,7 @@ $$
 \text{CFF} = \text{Cash Inflows from Loans and Issuances} - \text{Cash Outflows from Repayments and Dividends}
 $$
 
-The cash flow statement provides a comprehensive look at a company’s ability to generate cash and sustain its financial health over time. Understanding these components helps stakeholders assess whether a company has sufficient liquidity, how it is funding its operations, and where it is focusing its resources for growth.
+The cash flow statement provides a comprehensive look at a company’s ability to generate cash and sustain its financial health over time. Understanding these components helps stakeholders assess whether a company has sufficient [liquidity](/wiki/liquidity-risk-premium), how it is funding its operations, and where it is focusing its resources for growth.
 
 ## References & Further Reading
 

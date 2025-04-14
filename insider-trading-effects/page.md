@@ -86,15 +86,15 @@ Another important case was with Martha Stewart in the early 2000s. She sold her 
 
 ### Documented Cases of Insider Trading in Algorithmic Trading Environments
 
-Insider trading within algorithmic trading environments presents unique challenges and has been highlighted in several high-profile cases. One notable case involved a quantitative analyst at a major hedge fund who used insider information to adjust algorithmic strategies, exploiting confidential earnings data to optimize trades before the information became public. This case underscores the potential for individuals with access to sensitive data to manipulate trading algorithms for personal gain.
+Insider trading within [algorithmic trading](/wiki/algorithmic-trading) environments presents unique challenges and has been highlighted in several high-profile cases. One notable case involved a quantitative analyst at a major [hedge fund](/wiki/hedge-fund-trading-strategies) who used insider information to adjust algorithmic strategies, exploiting confidential earnings data to optimize trades before the information became public. This case underscores the potential for individuals with access to sensitive data to manipulate trading algorithms for personal gain.
 
 Another documented incident involved a trader with access to non-public information from a network of corporate insiders. By feeding this intelligence into algorithmic models, the trader consistently generated returns far beyond market averages, eventually catching the attention of regulatory bodies.
 
 ### Analysis of Market Outcomes from Significant Insider Trading Incidents Involving Algos
 
-The market outcomes of these insider trading incidents reveal substantial distortions in stock prices and trading volumes. In several cases, the sudden and unexplained volume spikes prior to earnings announcements triggered suspicion, as algorithms executed large trades based on the misappropriated insider information. Such patterns not only affect market integrity but also erode investor trust, as they create an uneven playing field.
+The market outcomes of these insider trading incidents reveal substantial distortions in stock prices and trading volumes. In several cases, the sudden and unexplained [volume](/wiki/volume-trading-strategy) spikes prior to earnings announcements triggered suspicion, as algorithms executed large trades based on the misappropriated insider information. Such patterns not only affect market integrity but also erode investor trust, as they create an uneven playing field.
 
-A statistical analysis of trading patterns during these incidents shows that stocks involved in insider trading typically experience abnormal returns and increased volatility. For instance, abnormal returns ($AR_t$) can be calculated using the formula:
+A statistical analysis of trading patterns during these incidents shows that stocks involved in insider trading typically experience abnormal returns and increased [volatility](/wiki/volatility-trading-strategies). For instance, abnormal returns ($AR_t$) can be calculated using the formula:
 
 $$
 AR_t = R_t - E(R_t)
@@ -104,7 +104,7 @@ where $R_t$ is the actual return on the stock at time $t$ and $E(R_t)$ is the ex
 
 ### Lessons Learned from Past Cases to Prevent Future Trading Malpractices
 
-Several lessons emerge from these cases, particularly regarding the detection and prevention of insider trading in algorithmic systems. First, real-time surveillance and pattern recognition technology must be enhanced to identify suspicious trading activities. Regulators and financial firms are increasingly employing machine learning models to analyze vast amounts of trading data for anomalies indicative of insider trading.
+Several lessons emerge from these cases, particularly regarding the detection and prevention of insider trading in algorithmic systems. First, real-time surveillance and pattern recognition technology must be enhanced to identify suspicious trading activities. Regulators and financial firms are increasingly employing [machine learning](/wiki/machine-learning) models to analyze vast amounts of trading data for anomalies indicative of insider trading.
 
 Additionally, there must be stricter controls and monitoring of employee access to sensitive information. Implementing rigorous access management systems and frequent audits can reduce the likelihood of insider trading activities. Moreover, fostering a culture of compliance and ethical behavior in financial institutions is essential, emphasizing the severe consequences of engaging in illegal trading practices.
 

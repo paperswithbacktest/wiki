@@ -80,7 +80,7 @@ Over time, Wall Street became important for a different reason. After the Americ
 
 ## What are the cultural and economic impacts of Wall Street's name globally?
 
-Wall Street's name has a big impact on culture and the economy around the world. It is known everywhere as the heart of the American financial system. When people hear "Wall Street," they think of big banks, stock markets, and the economy. This name has become a symbol of money and power. Movies, books, and news stories often talk about Wall Street to show how the economy is doing. It's like a shorthand way to talk about the whole financial world.
+Wall Street's name has a big impact on culture and the economy around the world. It is known everywhere as the heart of the American financial system. When people hear "Wall Street," they think of big banks, stock markets, and the economy. This name has become a symbol of money and power. Movies, [books](/wiki/algo-trading-books), and news stories often talk about Wall Street to show how the economy is doing. It's like a shorthand way to talk about the whole financial world.
 
 Economically, Wall Street's name affects how people see the global market. When the stock market on Wall Street goes up or down, it can change how people feel about investing and spending money all over the world. If Wall Street is doing well, people might feel more confident about the economy. But if it's doing badly, people might worry and be more careful with their money. This shows how powerful Wall Street's name is in shaping the world's economy.
 

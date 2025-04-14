@@ -84,7 +84,7 @@ Another tool you can use is called copula modeling. Copulas are good at showing 
 
 Correlation in investment is a statistical measure that quantifies the degree to which two or more assets move in relation to one another. The value of correlation ranges from -1 to 1. A correlation of 1 implies that the assets move perfectly in the same direction, whereas a correlation of -1 indicates that they move in exactly opposite directions. A correlation of 0 suggests no relationship between the movements of the assets.
 
-Understanding correlation is crucial for minimization of risk through strategic asset allocation and effective diversification. By selecting assets that exhibit low or negative correlation, investors can reduce the overall volatility of a portfolio. This occurs because when some assets may perform poorly, others with a negative correlation may perform well, thereby mitigating losses.
+Understanding correlation is crucial for minimization of risk through strategic asset allocation and effective diversification. By selecting assets that exhibit low or negative correlation, investors can reduce the overall [volatility](/wiki/volatility-trading-strategies) of a portfolio. This occurs because when some assets may perform poorly, others with a negative correlation may perform well, thereby mitigating losses.
 
 For instance, if an investor holds two stocks: Stock A and Stock B, where Stock A is a high-tech equity and Stock B is a traditional energy company, these could exhibit low correlation due to their differing response to market conditions. The classic formula to calculate the correlation coefficient ($\rho$) between two variables, $X$ and $Y$, is given by:
 

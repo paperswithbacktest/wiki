@@ -22,7 +22,7 @@ When you invest in an index fund, you are basically buying a small piece of all 
 
 ## What are the benefits of investing in index funds?
 
-One big benefit of investing in index funds is that they are simple and easy to manage. You don't need to spend a lot of time picking which stocks to buy because the fund does that for you. It just follows the market index, like the S&P 500. This means you can invest in a lot of different companies without having to do a lot of work. Plus, index funds usually have lower fees than other types of funds because they don't need a lot of people to manage them.
+One big benefit of investing in index funds is that they are simple and easy to manage. You don't need to spend a lot of time [picking](/wiki/asset-class-picking) which stocks to buy because the fund does that for you. It just follows the market index, like the S&P 500. This means you can invest in a lot of different companies without having to do a lot of work. Plus, index funds usually have lower fees than other types of funds because they don't need a lot of people to manage them.
 
 Another benefit is that index funds help spread out your risk. When you invest in an index fund, you own a little bit of all the companies in the index. This means if one company does badly, it won't hurt your investment too much because you also own parts of many other companies. This can make your investment safer than if you put all your money into just one or a few stocks. Overall, index funds are a good way to invest in the market without taking on too much risk or spending a lot of time and money.
 
@@ -84,13 +84,13 @@ Another advanced strategy is using index funds for tactical asset allocation. Th
 
 ## What are the considerations for investors?
 
-When investing in index funds through algorithmic trading, investors must carefully evaluate several key factors to ensure their strategies are sound and their goals attainable. 
+When investing in index funds through [algorithmic trading](/wiki/algorithmic-trading), investors must carefully evaluate several key factors to ensure their strategies are sound and their goals attainable. 
 
 ### Understanding the Costs, Risks, and Expected Returns
 
 The costs involved in algorithmic trading of index funds primarily consist of management fees, trading fees, and potential costs related to slippage and market impact. Index fund fees are typically low compared to actively managed funds, but algorithmic strategies might add transaction costs. Investors should analyze the total expense ratio (TER) to gauge the cost-effectiveness of their investments.
 
-Risks associated with algorithmic trading include market risk, liquidity risk, and model risk. The latter arises when algorithms fail to predict market movements due to incorrect assumptions or data inputs. It's crucial for investors to conduct rigorous backtesting and stress testing of algorithms to anticipate and mitigate these risks. 
+Risks associated with algorithmic trading include market risk, [liquidity](/wiki/liquidity-risk-premium) risk, and model risk. The latter arises when algorithms fail to predict market movements due to incorrect assumptions or data inputs. It's crucial for investors to conduct rigorous [backtesting](/wiki/backtesting) and stress testing of algorithms to anticipate and mitigate these risks. 
 
 Expected returns from algorithmic trading should harmonize with the investor's risk tolerance and time horizon. Historical performance, while indicative, is not a guarantee of future results. Using tools like the Sharpe Ratio can help investors assess the risk-adjusted performance of their strategies:
 

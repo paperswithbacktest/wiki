@@ -28,9 +28,9 @@ Besides the well-known cryptocurrencies, Poloniex also has some lesser-known one
 
 ## What are the basic steps to start trading on Poloniex?
 
-To start trading on Poloniex, first you need to sign up for an account. Go to the Poloniex website and click on the "Sign Up" button. You will need to enter your email address and choose a strong password. After you sign up, you will get an email to confirm your account. Click on the link in the email to finish the sign-up process. Once your account is confirmed, you should log in and set up two-factor authentication (2FA) to keep your account safe. This adds an extra layer of security by making you enter a code from your phone each time you log in.
+To start trading on Poloniex, first you need to sign up for an account. Go to the Poloniex website and click on the "Sign Up" button. You will need to enter your email address and choose a strong password. After you sign up, you will get an email to confirm your account. Click on the link in the email to finish the sign-up process. Once your account is confirmed, you should log in and set up two-[factor](/wiki/factor-investing) authentication (2FA) to keep your account safe. This adds an extra layer of security by making you enter a code from your phone each time you log in.
 
-After your account is set up and secure, you can start trading. First, you need to add money to your account. You can do this by sending cryptocurrencies to your Poloniex wallet. Once you have money in your account, go to the trading page. Here, you can choose which cryptocurrencies you want to trade. You can buy, sell, or trade one cryptocurrency for another. To make a trade, you can use different types of orders, like a market order to buy or sell right away at the current price, or a limit order to set the price you want to trade at. Once you place your order, you just need to wait for it to be filled.
+After your account is set up and secure, you can start trading. First, you need to add money to your account. You can do this by sending cryptocurrencies to your Poloniex wallet. Once you have money in your account, go to the trading page. Here, you can choose which cryptocurrencies you want to trade. You can buy, sell, or trade one [cryptocurrency](/wiki/cryptocurrency) for another. To make a trade, you can use different types of orders, like a market order to buy or sell right away at the current price, or a limit order to set the price you want to trade at. Once you place your order, you just need to wait for it to be filled.
 
 ## How does Poloniex ensure the security of user funds and data?
 
@@ -40,7 +40,7 @@ Besides these measures, Poloniex has a team that watches for anything suspicious
 
 ## What are the fee structures for trading on Poloniex?
 
-Poloniex has different fees for trading, depending on how much you trade and what kind of order you use. If you make a maker order, which adds liquidity to the market, you pay a fee of 0.09% to 0.10%. If you make a taker order, which takes liquidity away from the market, the fee is higher, at 0.11% to 0.12%. The exact fee depends on how much you've traded in the last 30 days. The more you trade, the lower your fees can be.
+Poloniex has different fees for trading, depending on how much you trade and what kind of order you use. If you make a maker order, which adds [liquidity](/wiki/liquidity-risk-premium) to the market, you pay a fee of 0.09% to 0.10%. If you make a taker order, which takes liquidity away from the market, the fee is higher, at 0.11% to 0.12%. The exact fee depends on how much you've traded in the last 30 days. The more you trade, the lower your fees can be.
 
 There are also fees for other things on Poloniex. If you use margin trading, you pay an extra fee of 0.02% on the borrowed amount. If you want to take your money out of Poloniex, there are withdrawal fees too. These fees change depending on which cryptocurrency you're withdrawing. It's a good idea to check the fee page on the Poloniex website to see the latest fees before you start trading or withdrawing.
 
@@ -64,13 +64,13 @@ Different countries have different rules, so Poloniex changes how they do things
 
 ## What are the liquidity and volume statistics for Poloniex compared to other exchanges?
 
-Poloniex is known for having good liquidity and trading volume, but it can change depending on which cryptocurrencies you're looking at. For popular cryptocurrencies like Bitcoin and Ethereum, Poloniex usually has a lot of trading happening. This means there are many buyers and sellers, so you can easily make trades without big changes in price. Compared to other big exchanges like Binance and Coinbase, Poloniex might not always have the highest volume, but it's still a strong player in the market.
+Poloniex is known for having good liquidity and trading [volume](/wiki/volume-trading-strategy), but it can change depending on which cryptocurrencies you're looking at. For popular cryptocurrencies like Bitcoin and Ethereum, Poloniex usually has a lot of trading happening. This means there are many buyers and sellers, so you can easily make trades without big changes in price. Compared to other big exchanges like Binance and Coinbase, Poloniex might not always have the highest volume, but it's still a strong player in the market.
 
 For less popular or newer cryptocurrencies, Poloniex can sometimes have better liquidity than other exchanges. This is because they offer a wide range of cryptocurrencies that you might not find on other platforms. So, if you're interested in trading smaller or newer coins, Poloniex can be a good choice. Overall, while Poloniex might not lead in volume for every cryptocurrency, it provides a solid trading environment with good liquidity for many digital assets.
 
 ## How does Poloniex's API support algorithmic trading and integration with other platforms?
 
-Poloniex's API is a tool that helps people who want to use computers to trade cryptocurrencies automatically. This is called algorithmic trading. The API lets you connect Poloniex to your own computer programs. You can write code that tells the program to buy or sell cryptocurrencies based on certain rules you set. This can be useful if you want to trade a lot or if you want to use special strategies that are hard to do by hand.
+Poloniex's API is a tool that helps people who want to use computers to trade cryptocurrencies automatically. This is called [algorithmic trading](/wiki/algorithmic-trading). The API lets you connect Poloniex to your own computer programs. You can write code that tells the program to buy or sell cryptocurrencies based on certain rules you set. This can be useful if you want to trade a lot or if you want to use special strategies that are hard to do by hand.
 
 The API also helps you connect Poloniex with other platforms or tools. For example, you might want to use a special charting program to see how prices are changing, or you might want to keep track of your trades in a different system. Poloniex's API makes it easy to send information back and forth between Poloniex and these other tools. This way, you can use all your favorite tools together to make the best trading decisions.
 

@@ -54,7 +54,7 @@ This approach can be useful because it gives you a real-world idea of what inves
 
 ## What are the key factors that affect the valuation of preferred stock?
 
-The value of preferred stock is influenced by several key factors. One important factor is the dividend rate. Preferred stock usually pays a fixed dividend, so if the dividend is high, the stock will be worth more because investors are getting more income. Another factor is the interest rates in the economy. When interest rates go up, the value of preferred stock usually goes down because other investments like bonds start paying higher returns, making preferred stock less attractive. The financial health of the company issuing the preferred stock also matters. If the company is doing well and looks like it will keep paying dividends, the stock will be worth more.
+The value of preferred stock is influenced by several key factors. One important [factor](/wiki/factor-investing) is the dividend rate. Preferred stock usually pays a fixed dividend, so if the dividend is high, the stock will be worth more because investors are getting more income. Another factor is the interest rates in the economy. When interest rates go up, the value of preferred stock usually goes down because other investments like bonds start paying higher returns, making preferred stock less attractive. The financial health of the company issuing the preferred stock also matters. If the company is doing well and looks like it will keep paying dividends, the stock will be worth more.
 
 Another factor is the market's perception of risk. If investors think the company is risky, they'll want a higher return to make up for that risk, which can lower the value of the stock. The rights and features of the preferred stock can also affect its value. For example, some preferred stocks can be converted into common stock, which might make them more valuable if the company is doing well. Finally, the overall demand for preferred stock in the market plays a role. If a lot of people want to buy preferred stock, its price will go up. But if there's not much interest, the price will be lower.
 
@@ -78,7 +78,7 @@ Convertible preferred stock can be turned into common stock at a set price. This
 
 ## What are the current trends and challenges in valuing preferred stock?
 
-One current trend in valuing preferred stock is the growing interest in ESG (Environmental, Social, and Governance) factors. More and more investors are looking at how well a company is doing in these areas before they decide to buy its preferred stock. They want to know if the company is good for the environment, treats its workers well, and has honest leaders. This can make preferred stock from companies with strong ESG scores more valuable because more people want to buy it. Another trend is the use of technology and data analytics to make better valuation models. With more data available, investors can use computers to look at lots of different things that might affect the value of preferred stock, like changes in interest rates or how the company is doing financially.
+One current trend in valuing preferred stock is the growing interest in [ESG](/wiki/esg-investing) (Environmental, Social, and Governance) factors. More and more investors are looking at how well a company is doing in these areas before they decide to buy its preferred stock. They want to know if the company is good for the environment, treats its workers well, and has honest leaders. This can make preferred stock from companies with strong ESG scores more valuable because more people want to buy it. Another trend is the use of technology and data analytics to make better valuation models. With more data available, investors can use computers to look at lots of different things that might affect the value of preferred stock, like changes in interest rates or how the company is doing financially.
 
 One big challenge in valuing preferred stock is figuring out how to deal with the callable and convertible features. These features can make the stock's value go up or down a lot, depending on what might happen in the future. It's hard to predict if a company will call back its stock or if the stock price will go up enough to make converting a good idea. Another challenge is the impact of economic uncertainty, like changes in interest rates or big events that affect the whole market. These things can make it tough to know what preferred stock is really worth because the value can change quickly. Investors need to keep an eye on these factors and use the best tools and models they can to make smart choices about buying or selling preferred stock.
 
@@ -86,7 +86,7 @@ One big challenge in valuing preferred stock is figuring out how to deal with th
 
 Stock valuation is a crucial component in assessing a company's intrinsic worth, which aids investors in making informed decisions about whether to buy, hold, or sell a particular stock. This process ensures that investors can evaluate if a stock is overvalued, undervalued, or fairly priced relative to its actual worth. Valuation methods are broadly split into two categories: absolute and relative valuation models, each serving a distinct purpose in financial analysis.
 
-Absolute valuation models are founded on the principles of fundamental analysis. They focus on a company's intrinsic fundamentals such as dividends, cash flows, and growth rates. Prominent among these models are the Dividend Discount Model (DDM) and the Discounted Cash Flow (DCF) Model.
+Absolute valuation models are founded on the principles of [fundamental analysis](/wiki/fundamental-analysis). They focus on a company's intrinsic fundamentals such as dividends, cash flows, and growth rates. Prominent among these models are the Dividend Discount Model (DDM) and the Discounted Cash Flow (DCF) Model.
 
 1. **Dividend Discount Model (DDM):** This model calculates the present value of expected future dividends. Assuming the company's dividend grows at a constant rate $g$, the Gordon Growth Model, a variation of the DDM, can be expressed mathematically as:
 $$
@@ -161,7 +161,7 @@ stock_value = calculate_preferred_stock_value(fixed_dividend, required_rate_of_r
 print(f"The estimated value of the preferred stock is: ${stock_value:.2f}")
 ```
 
-Investors should integrate considerations of potential dividend volatility and [interest rate](/wiki/interest-rate-trading-strategies) changes into their analysis to derive a more comprehensive assessment of preferred stock value.
+Investors should integrate considerations of potential dividend [volatility](/wiki/volatility-trading-strategies) and [interest rate](/wiki/interest-rate-trading-strategies) changes into their analysis to derive a more comprehensive assessment of preferred stock value.
 
 ## References & Further Reading
 

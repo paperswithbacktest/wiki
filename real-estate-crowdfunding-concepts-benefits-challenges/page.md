@@ -24,7 +24,7 @@ Once the property is bought, it can be rented out, sold for a profit, or develop
 
 Real estate crowdfunding platforms come in different types, mainly based on what they offer to investors. Some platforms focus on equity crowdfunding, where investors get to own a piece of the property. This means you're buying a share of the building, and if it does well, you get a part of the profits. These platforms are good if you want to be an owner and possibly make money from rent or selling the property later.
 
-Other platforms specialize in debt crowdfunding, where investors lend money to real estate projects instead of owning them. In this case, you're more like a bank, giving a loan to the project and earning interest on it. This can be safer than equity crowdfunding because you get regular interest payments, but the returns might not be as high. Some platforms also offer a mix of both equity and debt options, giving investors more choices based on their goals and how much risk they're willing to take.
+Other platforms specialize in debt crowdfunding, where investors lend money to real estate projects instead of owning them. In this case, you're more like a bank, giving a loan to the project and [earning](/wiki/earning-announcement) interest on it. This can be safer than equity crowdfunding because you get regular interest payments, but the returns might not be as high. Some platforms also offer a mix of both equity and debt options, giving investors more choices based on their goals and how much risk they're willing to take.
 
 ## What are the benefits of investing in real estate crowdfunding?
 

@@ -22,7 +22,7 @@ At first, Optiver was small. But Johann had a good idea about trading, and the c
 
 ## What are the main services provided by Optiver?
 
-Optiver mainly makes money by trading things like stocks, options, and other financial stuff. They use computers and smart people to buy and sell these things very quickly. They try to make a profit from small changes in prices. This kind of trading is called market making, and it helps make the markets work smoothly.
+Optiver mainly makes money by trading things like stocks, options, and other financial stuff. They use computers and smart people to buy and sell these things very quickly. They try to make a profit from small changes in prices. This kind of trading is called [market making](/wiki/market-making), and it helps make the markets work smoothly.
 
 They also do something called risk management. This means they try to keep their trading safe by watching how much they could lose and making sure it's not too much. Optiver uses special computer programs to help them do this. They are good at it because they've been doing it for a long time and have learned a lot.
 

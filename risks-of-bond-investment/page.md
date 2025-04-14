@@ -32,7 +32,7 @@ When you invest in bonds, credit risk can affect how much money you make and how
 
 Interest rate risk is the chance that changes in interest rates will affect the value of your bond investments. When interest rates go up, the prices of existing bonds go down. This happens because new bonds will be issued with higher interest rates, making your old bonds with lower rates less attractive to buyers. If you need to sell your bonds before they mature, you might have to sell them for less than what you paid.
 
-This risk can really affect bond portfolios because it changes how much your bonds are worth. If you're planning to hold onto your bonds until they mature, you don't have to worry as much about interest rate changes. But if you might need to sell your bonds early, you need to think about how interest rates might change. To manage this risk, some investors spread out their investments across different types of bonds or use strategies like laddering, where they buy bonds that mature at different times.
+This risk can really affect bond portfolios because it changes how much your bonds are worth. If you're planning to hold onto your bonds until they mature, you don't have to worry as much about [interest rate](/wiki/interest-rate-trading-strategies) changes. But if you might need to sell your bonds early, you need to think about how interest rates might change. To manage this risk, some investors spread out their investments across different types of bonds or use strategies like laddering, where they buy bonds that mature at different times.
 
 ## How does inflation affect the returns on bond investments?
 
@@ -72,7 +72,7 @@ This measure is really useful for investors because it helps them understand how
 
 ## What are callable bonds and what are the risks associated with them?
 
-Callable bonds are special types of bonds that the issuer can decide to pay back before they are supposed to mature. They do this if interest rates go down, so they can borrow money again at a lower rate. When a bond is called, you get your money back earlier than you planned, but you might not get to keep earning the interest you were expecting. This means you have to find a new place to invest your money, maybe at a lower interest rate.
+Callable bonds are special types of bonds that the issuer can decide to pay back before they are supposed to mature. They do this if interest rates go down, so they can borrow money again at a lower rate. When a bond is called, you get your money back earlier than you planned, but you might not get to keep [earning](/wiki/earning-announcement) the interest you were expecting. This means you have to find a new place to invest your money, maybe at a lower interest rate.
 
 The main risk with callable bonds is that you might lose out on future interest payments. If interest rates drop and the bond gets called, you'll get your principal back, but then you have to reinvest that money. If the new interest rates are lower, you'll earn less money than you would have with the original bond. This is called reinvestment risk. It's important to think about this risk when you're deciding whether to buy callable bonds, because it can affect how much money you make over time.
 

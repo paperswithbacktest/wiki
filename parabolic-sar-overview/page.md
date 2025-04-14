@@ -36,7 +36,7 @@ When the price crosses the Parabolic SAR, it's a signal that the trend might be 
 
 The Parabolic SAR can help you set stop-loss orders by showing you where the trend might change. When you're in a trade and the price is going up, the Parabolic SAR puts dots below the price. If you're buying an asset, you can set your stop-loss just below these dots. This way, if the price drops and touches the dots, your stop-loss will trigger, and you'll get out of the trade before the price falls too much.
 
-On the other hand, if you're in a trade and the price is going down, the Parabolic SAR will put dots above the price. If you're selling an asset, you can set your stop-loss just above these dots. If the price goes up and touches the dots, your stop-loss will trigger, helping you exit the trade before the price rises too much. Using the Parabolic SAR like this can help you manage your risk and protect your money by getting out of trades at the right time.
+On the other hand, if you're in a trade and the price is going down, the Parabolic SAR will put dots above the price. If you're selling an asset, you can set your stop-loss just above these dots. If the price goes up and touches the dots, your stop-loss will trigger, helping you [exit](/wiki/exit-strategy) the trade before the price rises too much. Using the Parabolic SAR like this can help you manage your risk and protect your money by getting out of trades at the right time.
 
 ## What are the default settings for the Parabolic SAR and how can they be adjusted?
 

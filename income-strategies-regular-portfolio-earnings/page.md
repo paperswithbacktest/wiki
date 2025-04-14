@@ -38,7 +38,7 @@ Using a bond ladder helps you manage your income because it spreads out when you
 
 Real estate investment trusts (REITs) can be a great way to get regular income without having to buy and manage actual property. REITs are companies that own or finance income-generating real estate, like apartments, malls, or office buildings. By law, they have to pay out at least 90% of their taxable income as dividends to shareholders. This means if you buy shares in a REIT, you can get regular dividend payments, usually every quarter. It's like getting rent money without having to be a landlord.
 
-Adding REITs to your portfolio can help you get a steady income stream. Since they have to pay out most of their income, you can count on getting those dividends regularly. Plus, REITs often invest in different types of properties in different areas, which can help spread out your risk. By picking a few different REITs, you can build a part of your portfolio that gives you regular income, while also having the chance to grow in value over time.
+Adding REITs to your portfolio can help you get a steady income stream. Since they have to pay out most of their income, you can count on getting those dividends regularly. Plus, REITs often invest in different types of properties in different areas, which can help spread out your risk. By [picking](/wiki/asset-class-picking) a few different REITs, you can build a part of your portfolio that gives you regular income, while also having the chance to grow in value over time.
 
 ## What role do mutual funds and ETFs play in generating regular portfolio earnings?
 

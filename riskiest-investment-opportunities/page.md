@@ -62,7 +62,7 @@ Another strategy is to do a lot of research and analysis on the company or proje
 
 ## Can you explain how market volatility affects high-risk investments?
 
-Market volatility means that the prices of investments go up and down a lot in a short time. This can be really bad for high-risk investments because they already go up and down a lot. When the market is volatile, it can make these investments even more unpredictable. If you have money in a high-risk investment like a small company's stock or a cryptocurrency, the price might drop a lot very quickly. This can make you lose a lot of money if you need to sell when the price is low.
+Market [volatility](/wiki/volatility-trading-strategies) means that the prices of investments go up and down a lot in a short time. This can be really bad for high-risk investments because they already go up and down a lot. When the market is volatile, it can make these investments even more unpredictable. If you have money in a high-risk investment like a small company's stock or a [cryptocurrency](/wiki/cryptocurrency), the price might drop a lot very quickly. This can make you lose a lot of money if you need to sell when the price is low.
 
 On the other hand, market volatility can also be good for high-risk investments. If you believe in the investment and can wait, the price might go back up after it drops. Some people even try to buy high-risk investments when the price is low because of market volatility, hoping to sell them later for a big profit. But this is very risky because the price might keep going down instead of going back up. So, market volatility can make high-risk investments both more dangerous and more exciting, depending on how you handle it.
 

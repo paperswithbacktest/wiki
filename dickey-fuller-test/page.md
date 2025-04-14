@@ -99,7 +99,7 @@ where $\Delta y_t$ is the change in the time series, $\alpha$ is a constant, $\b
 
 The presence of a unit root often correlates with patterns like random walks, where future values evolve independently of historical patterns devoid of mean reversion. In contrast, a stationary time series tends to revert to its mean, allowing for better prediction capabilities.
 
-In practical applications, particularly in financial markets, stationary time series lend themselves to models where past values significantly influence current and future price movements. This predictability is harnessed in numerous financial strategies, especially in algorithmic trading scenarios where the Dickey-Fuller test facilitates the identification of statistically significant mean reversion opportunities.
+In practical applications, particularly in financial markets, stationary time series lend themselves to models where past values significantly influence current and future price movements. This predictability is harnessed in numerous financial strategies, especially in [algorithmic trading](/wiki/algorithmic-trading) scenarios where the Dickey-Fuller test facilitates the identification of statistically significant mean reversion opportunities.
 
 ## References & Further Reading
 

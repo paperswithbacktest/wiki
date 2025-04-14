@@ -110,7 +110,7 @@ Gibson, C. H. "Financial Reporting and Analysis: Using Financial Accounting Info
 
 Penman, S. H. "Financial Statement Analysis and Security Valuation" offers an in-depth exploration of the techniques used in analyzing financial statements to assess a company's value. The book is a valuable resource for those interested in understanding how financial data, especially under accrual accounting, informs valuation models and investment strategies.
 
-Johnson, B. "Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies" provides a detailed overview of algorithmic trading, including the importance of accurate and timely financial data in developing trading algorithms. The text highlights how accrual accounting supports algorithmic trading by ensuring that financial statements reflect real-time economic activities, which is crucial for making informed trading decisions.
+Johnson, B. "Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies" provides a detailed overview of [algorithmic trading](/wiki/algorithmic-trading), including the importance of accurate and timely financial data in developing trading algorithms. The text highlights how accrual accounting supports algorithmic trading by ensuring that financial statements reflect real-time economic activities, which is crucial for making informed trading decisions.
 
 These resources provide foundational knowledge and advanced insights into financial accounting, analysis, and algorithmic trading, bridging the gap between theoretical concepts and practical application in today's financial environment.
 

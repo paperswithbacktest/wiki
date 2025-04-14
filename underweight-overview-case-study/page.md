@@ -56,7 +56,7 @@ Genetics can also affect how someone's body looks and feels. For example, some p
 
 ## How can psychological factors contribute to being underweight?
 
-Psychological factors can play a big role in someone being underweight. One common issue is stress. When people are stressed, they might lose their appetite and not feel like eating. This can lead to them not getting enough calories and losing weight. Another psychological factor is depression. People who are depressed often don't feel like doing much, including eating. They might forget to eat or just not be interested in food, which can make them underweight over time.
+Psychological factors can play a big role in someone being underweight. One common issue is stress. When people are stressed, they might lose their appetite and not feel like eating. This can lead to them not getting enough calories and losing weight. Another psychological [factor](/wiki/factor-investing) is depression. People who are depressed often don't feel like doing much, including eating. They might forget to eat or just not be interested in food, which can make them underweight over time.
 
 Eating disorders are another important psychological factor. Disorders like anorexia nervosa and bulimia can make someone very scared of gaining weight. They might eat very little or try to get rid of the food they eat, which can lead to being underweight. These disorders can be serious and need help from doctors and therapists. Also, body image issues can make someone want to stay thin, even if it's not healthy. They might think they look better when they're underweight, so they keep their weight low on purpose.
 
@@ -112,11 +112,11 @@ External references for further reading include resources from the World Health 
 
 ## How can underweight strategies be applied in algorithmic trading?
 
-Understanding underweight portfolios in the context of algorithmic trading involves recognizing the strategic allocation of resources when the proportion of a specific asset class in a portfolio is intentionally reduced, relative to a benchmark index. Underweighting is employed to potentially mitigate risk or reposition a portfolio based on predictive analytics and market forecasts. Algorithmic trading can effectively manage and execute these strategies by leveraging sophisticated computer programs designed to follow a set of predetermined instructions or algorithms.
+Understanding underweight portfolios in the context of [algorithmic trading](/wiki/algorithmic-trading) involves recognizing the strategic allocation of resources when the proportion of a specific asset class in a portfolio is intentionally reduced, relative to a benchmark index. Underweighting is employed to potentially mitigate risk or reposition a portfolio based on predictive analytics and market forecasts. Algorithmic trading can effectively manage and execute these strategies by leveraging sophisticated computer programs designed to follow a set of predetermined instructions or algorithms.
 
 ### Significance of Adjusting Asset Weights
 
-In algorithmic trading, adjusting asset weights according to market analysis and performance metrics is crucial. By systematically analyzing quantitative data, traders can identify opportunities to enhance performance or protect against downside risks. This adjustment is often guided by various factors including expected returns, volatility, correlations among assets, and macroeconomic indicators. Algorithms adjust portfolio weightings by considering these quantitative measures alongside real-time data streams.
+In algorithmic trading, adjusting asset weights according to market analysis and performance metrics is crucial. By systematically analyzing quantitative data, traders can identify opportunities to enhance performance or protect against downside risks. This adjustment is often guided by various factors including expected returns, [volatility](/wiki/volatility-trading-strategies), correlations among assets, and macroeconomic indicators. Algorithms adjust portfolio weightings by considering these quantitative measures alongside real-time data streams.
 
 One common method of adjusting asset weights is through mean-variance optimization, where the goal is to maximize returns for a given level of risk. The formula governing this approach is:
 

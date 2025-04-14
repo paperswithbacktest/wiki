@@ -22,7 +22,7 @@ Also, Proof of Work makes sure that everyone on the network agrees on what trans
 
 ## What is the role of miners in a Proof of Work system?
 
-Miners in a Proof of Work system are very important. They use powerful computers to solve hard math problems. When a miner solves the problem first, they get to add a new block of transactions to the blockchain. This is called mining. As a reward for their work, miners get some cryptocurrency, like Bitcoin. This reward encourages miners to keep working and helps keep the blockchain running smoothly.
+Miners in a Proof of Work system are very important. They use powerful computers to solve hard math problems. When a miner solves the problem first, they get to add a new block of transactions to the blockchain. This is called mining. As a reward for their work, miners get some [cryptocurrency](/wiki/cryptocurrency), like Bitcoin. This reward encourages miners to keep working and helps keep the blockchain running smoothly.
 
 Miners also help keep the blockchain safe. By solving these math problems, miners make it hard for anyone to cheat and add fake transactions. It would cost a lot of money and energy for someone to try to take over the network and add fake blocks. Miners also check each other's work. When a miner adds a new block, other miners make sure it's correct before adding it to their own copy of the blockchain. This way, everyone agrees on what transactions are real, which keeps the blockchain secure and trustworthy.
 

@@ -18,7 +18,7 @@ ROCE is useful because it gives a clear picture of a company's profitability and
 
 ROCE is calculated by dividing a company's earnings before interest and taxes (EBIT) by its total capital employed. EBIT is the profit a company makes from its operations before it pays interest on any loans or taxes. Capital employed is the total amount of money the company uses to run its business, which includes both the money from shareholders (equity) and the money it has borrowed (debt).
 
-To find the ROCE, you take the EBIT number from the company's income statement and divide it by the capital employed, which you can find on the balance sheet. For example, if a company has an EBIT of $100,000 and its capital employed is $500,000, the ROCE would be $100,000 divided by $500,000, which equals 0.2 or 20%. This means the company is earning 20 cents for every dollar of capital it uses.
+To find the ROCE, you take the EBIT number from the company's income statement and divide it by the capital employed, which you can find on the balance sheet. For example, if a company has an EBIT of $100,000 and its capital employed is $500,000, the ROCE would be $100,000 divided by $500,000, which equals 0.2 or 20%. This means the company is [earning](/wiki/earning-announcement) 20 cents for every dollar of capital it uses.
 
 ## Why is ROCE important for investors?
 
@@ -142,7 +142,7 @@ Penman, S.H. "Financial Statement Analysis and Security Valuation" provides a co
 
 Damodaran, A. "Return on Capital: Measurement and Implications" offers an in-depth exploration of the return on capital metric, examining its calculation, significance, and impact on business valuation and investment decisions. This work highlights the implications of ROCE in assessing a firm's capital efficiency and strategic positioning.
 
-Kearns, M., & Nevmyvaka, Y. "Machine Learning for Market Microstructure and High Frequency Trading" focuses on the intersection of advanced computational techniques and finance. This text is valuable for understanding how algorithmic trading systems operate, leveraging [machine learning](/wiki/machine-learning) to navigate the complexities of high-frequency trading and improve investment outcomes.
+Kearns, M., & Nevmyvaka, Y. "Machine Learning for Market Microstructure and High Frequency Trading" focuses on the intersection of advanced computational techniques and finance. This text is valuable for understanding how [algorithmic trading](/wiki/algorithmic-trading) systems operate, leveraging [machine learning](/wiki/machine-learning) to navigate the complexities of high-frequency trading and improve investment outcomes.
 
 Banerjee, S., Gryglewicz, S., & Luca, G. D. "Return on Capital, Risk, and Expected Returns" discusses the nuanced relationship between capital returns, associated risks, and investors' expected benefit. This scholarly work offers insights into balancing return on capital with risk management to optimize investment strategies.
 

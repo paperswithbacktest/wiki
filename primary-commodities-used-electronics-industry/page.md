@@ -36,7 +36,7 @@ Semiconductors can be made to act like switches. They can turn the flow of elect
 
 ## How is copper used in the electronics industry?
 
-Copper is really important in the electronics industry. It's used a lot because it's a great conductor of electricity. That means it can carry electric current really well. In electronic devices, copper is used to make wires and circuit boards. These wires and boards help electricity move around inside the device, making it work properly. Without copper, it would be hard to make the tiny circuits that are in things like smartphones and computers.
+Copper is really important in the electronics industry. It's used a lot because it's a great conductor of electricity. That means it can [carry](/wiki/carry-trading) electric current really well. In electronic devices, copper is used to make wires and circuit boards. These wires and boards help electricity move around inside the device, making it work properly. Without copper, it would be hard to make the tiny circuits that are in things like smartphones and computers.
 
 Copper is also used because it's strong and can be shaped easily. This makes it good for making the parts of electronic devices that need to be small and precise. For example, copper is used in the connectors that link different parts of a circuit board together. These connectors need to be reliable and work well, and copper helps make that happen. So, copper is a key material in the electronics industry, helping to make our devices smaller, faster, and more efficient.
 

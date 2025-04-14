@@ -24,7 +24,7 @@ Another reason business banking services are important is that they help a compa
 
 There are different types of bank accounts that businesses can use. One common type is a business checking account. This account helps businesses keep their money safe and pay for things like bills and supplies. It's easy to use because businesses can write checks, use a debit card, or make online payments. Another type is a business savings account, which is good for saving money that the business doesn't need right away. This account can earn a little bit of interest, which means the money in the account can grow over time.
 
-Some businesses might also use a merchant account. This special account lets businesses accept payments from customers using credit or debit cards. It's really helpful for stores and online businesses because it makes it easy for customers to pay. Another option is a business money market account, which is like a savings account but can offer a higher interest rate. This account is good for businesses that want to save more money and earn more interest, but they might need to keep a higher balance in the account.
+Some businesses might also use a merchant account. This special account lets businesses accept payments from customers using credit or debit cards. It's really helpful for stores and online businesses because it makes it easy for customers to pay. Another option is a business money market account, which is like a savings account but can offer a higher [interest rate](/wiki/interest-rate-trading-strategies). This account is good for businesses that want to save more money and earn more interest, but they might need to keep a higher balance in the account.
 
 ## How do business checking accounts differ from personal checking accounts?
 
@@ -66,7 +66,7 @@ Business loans are different because they give businesses a lump sum of money th
 
 Banks have strong security measures to keep business banking safe. They use things like encryption to protect the information that businesses send and receive when they use online or mobile banking. Encryption is like a secret code that only the bank and the business can understand. Banks also have firewalls to stop bad people from getting into their systems. They watch their systems all the time to make sure nothing strange is happening and can stop any attacks quickly.
 
-Another way banks keep business banking secure is by making sure only the right people can use the accounts. They do this with things like multi-factor authentication, which means a business owner might need to enter a password and then get a special code sent to their phone to log in. Banks also keep a close eye on the accounts to spot any weird activity, like if someone tries to take out a lot of money all at once. If they see something that doesn't look right, they can stop it and let the business know, so the business can stay safe.
+Another way banks keep business banking secure is by making sure only the right people can use the accounts. They do this with things like multi-[factor](/wiki/factor-investing) authentication, which means a business owner might need to enter a password and then get a special code sent to their phone to log in. Banks also keep a close eye on the accounts to spot any weird activity, like if someone tries to take out a lot of money all at once. If they see something that doesn't look right, they can stop it and let the business know, so the business can stay safe.
 
 ## How can businesses optimize their banking services for international transactions?
 

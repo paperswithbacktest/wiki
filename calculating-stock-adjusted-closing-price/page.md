@@ -72,7 +72,7 @@ By going through all the events in reverse order, you can figure out what the ad
 
 ## What are the common sources for obtaining adjusted closing price data?
 
-You can get adjusted closing price data from many places. One of the most popular sources is financial websites like Yahoo Finance and Google Finance. These websites have a lot of information about stocks, and they often show the adjusted closing price along with other data like the regular closing price, the highest and lowest prices of the day, and the trading volume. Another good source is financial data providers like Bloomberg and Reuters. They give detailed data that can be useful for people who want to do a deep dive into stock performance.
+You can get adjusted closing price data from many places. One of the most popular sources is financial websites like Yahoo Finance and Google Finance. These websites have a lot of information about stocks, and they often show the adjusted closing price along with other data like the regular closing price, the highest and lowest prices of the day, and the trading [volume](/wiki/volume-trading-strategy). Another good source is financial data providers like Bloomberg and Reuters. They give detailed data that can be useful for people who want to do a deep dive into stock performance.
 
 Another way to get adjusted closing price data is by using stock market data APIs. These are tools that let you pull data directly into your own computer programs or apps. APIs from companies like Alpha Vantage and IEX Cloud are popular because they make it easy to get the data you need. Lastly, if you have a brokerage account, you might be able to get adjusted closing price data from your broker's website or app. Many brokers give their customers access to this kind of data to help them make better investment decisions.
 
@@ -134,7 +134,7 @@ adjusted_price = calculate_adjusted_price(actual_closing_price, dividend, split_
 print(f"The adjusted closing price is: {adjusted_price}")
 ```
 
-Such calculations are not only fundamental to manual analysis but also form the backbone of [algorithmic trading](/wiki/algorithmic-trading) strategies, where precise historical data is key for backtesting and optimizing trading algorithms. Robust stock calculation methods ensure that both traders and investors can rely on historical data trends to make informed decisions.
+Such calculations are not only fundamental to manual analysis but also form the backbone of [algorithmic trading](/wiki/algorithmic-trading) strategies, where precise historical data is key for [backtesting](/wiki/backtesting) and optimizing trading algorithms. Robust stock calculation methods ensure that both traders and investors can rely on historical data trends to make informed decisions.
 
 ## What is the relationship between Algorithmic Trading and Stock Price Adjustments?
 

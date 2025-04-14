@@ -68,7 +68,7 @@ But technology also brings challenges. Businesses have to keep up with new techn
 
 ## What trends are currently shaping the tertiary sector?
 
-Technology is a big trend shaping the tertiary sector. More and more people are using the internet to get services. They shop online, order food from restaurants, and even take classes on the internet. This means businesses have to have good websites and apps to stay competitive. They also need to use new technology like artificial intelligence and data to make their services better. But it can be hard and expensive to keep up with all these changes.
+Technology is a big trend shaping the tertiary sector. More and more people are using the internet to get services. They shop online, order food from restaurants, and even take classes on the internet. This means businesses have to have good websites and apps to stay competitive. They also need to use new technology like [artificial intelligence](/wiki/ai-artificial-intelligence) and data to make their services better. But it can be hard and expensive to keep up with all these changes.
 
 Another trend is the focus on customer experience. Businesses are trying to make their services better so people will keep coming back. They do this by being friendly, solving problems quickly, and making things easy for customers. This is important because there is a lot of competition in the tertiary sector. If one business does not give good service, people can just go to another one.
 

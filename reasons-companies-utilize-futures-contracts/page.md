@@ -82,7 +82,7 @@ Options on futures give companies more choices and can help them manage risk in 
 
 ## How can one hedge with futures contracts?
 
-Hedging is a fundamental risk management technique that enables businesses to protect themselves against unfavorable price movements in various assets, such as commodities and currencies. In the context of futures contracts, hedging helps companies manage price volatility by locking in prices for future transactions. This approach reduces uncertainty in revenue and cost structures, thereby providing a more predictable financial outlook.
+Hedging is a fundamental risk management technique that enables businesses to protect themselves against unfavorable price movements in various assets, such as commodities and currencies. In the context of futures contracts, hedging helps companies manage price [volatility](/wiki/volatility-trading-strategies) by locking in prices for future transactions. This approach reduces uncertainty in revenue and cost structures, thereby providing a more predictable financial outlook.
 
 For instance, oil companies often face significant risk due to fluctuations in [crude oil](/wiki/crude-oil) prices. By engaging in futures contracts, these companies can hedge against potential price increases or decreases. If an oil company anticipates that crude oil prices will rise, it might enter into a futures contract to purchase crude at a predetermined price, ensuring cost stability despite market volatility. Conversely, if prices are expected to fall, the company could sell futures to lock in higher prices for its production, thereby protecting its margins.
 

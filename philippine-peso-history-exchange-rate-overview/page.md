@@ -42,7 +42,7 @@ Another event that had a big impact was the Asian Financial Crisis in 1997. This
 
 ## How is the Philippine Peso managed by the Bangko Sentral ng Pilipinas?
 
-The Bangko Sentral ng Pilipinas, or BSP, is like the boss of all the money in the Philippines, including the Philippine Peso. They make sure the Peso keeps its value and that there is enough money for everyone to use. The BSP does this by deciding how much money should be printed and by setting something called the interest rate. The interest rate is like a price for borrowing money, and changing it can help control how much money people want to borrow and spend.
+The Bangko Sentral ng Pilipinas, or BSP, is like the boss of all the money in the Philippines, including the Philippine Peso. They make sure the Peso keeps its value and that there is enough money for everyone to use. The BSP does this by deciding how much money should be printed and by setting something called the [interest rate](/wiki/interest-rate-trading-strategies). The interest rate is like a price for borrowing money, and changing it can help control how much money people want to borrow and spend.
 
 The BSP also keeps an eye on how the Peso is doing compared to other countries' money. If the Peso is getting too weak or too strong, the BSP might step in to help balance things out. They can do this by buying or selling Pesos in the world market. All these actions help make sure the Philippine Peso stays useful and stable, so people in the Philippines can trust it and use it every day.
 
@@ -60,7 +60,7 @@ The Bangko Sentral ng Pilipinas, or BSP, tries to keep inflation under control. 
 
 ## What are the factors that influence the exchange rate of the Philippine Peso?
 
-The exchange rate of the Philippine Peso can change because of many things. One big factor is how well the Philippine economy is doing. If the economy is growing and people are making more money, the Peso can become stronger because more people want to buy it. Another factor is the interest rates set by the Bangko Sentral ng Pilipinas. If they make borrowing money more expensive by raising interest rates, it can make the Peso stronger because people from other countries might want to invest in the Philippines to get higher returns on their money.
+The exchange rate of the Philippine Peso can change because of many things. One big [factor](/wiki/factor-investing) is how well the Philippine economy is doing. If the economy is growing and people are making more money, the Peso can become stronger because more people want to buy it. Another factor is the interest rates set by the Bangko Sentral ng Pilipinas. If they make borrowing money more expensive by raising interest rates, it can make the Peso stronger because people from other countries might want to invest in the Philippines to get higher returns on their money.
 
 Another thing that affects the Peso's exchange rate is what's happening in the world. If there's a lot of uncertainty or problems in other countries, people might want to keep their money in the Philippines, making the Peso stronger. Also, the prices of things the Philippines sells to other countries, like fruits and electronics, can make a difference. If these prices go up, it can make the Peso stronger because other countries need to use more of their money to buy Philippine products. All these factors together help decide how many Pesos you get for other kinds of money, like the US Dollar or the Euro.
 

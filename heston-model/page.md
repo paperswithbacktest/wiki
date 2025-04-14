@@ -110,7 +110,7 @@ In summary, the Heston model integrates stochastic processes for both asset pric
 
 ## How can the Heston Model be implemented in Algorithmic Trading?
 
-Algorithmic trading utilizes sophisticated financial models to make data-driven decisions and execute trades with precision. The Heston model, with its capacity to incorporate stochastic volatility, provides a valuable framework in this context. Its implementation in algorithmic trading systems often employs Python, a popular language due to its extensive libraries and ease of manipulation for mathematical computations.
+Algorithmic trading utilizes sophisticated financial models to make data-driven decisions and execute trades with precision. The Heston model, with its capacity to incorporate stochastic volatility, provides a valuable framework in this context. Its implementation in [algorithmic trading](/wiki/algorithmic-trading) systems often employs Python, a popular language due to its extensive libraries and ease of manipulation for mathematical computations.
 
 To implement the Heston model in Python, one must first set up the model's stochastic differential equations. The volatility in the Heston model is described by the following equations:
 

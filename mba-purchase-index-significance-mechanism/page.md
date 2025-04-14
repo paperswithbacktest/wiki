@@ -48,7 +48,7 @@ This weekly update helps everyone keep track of what's happening in the housing 
 
 The MBA Purchase Index and the MBA Refinance Index are both put out by the Mortgage Bankers Association, but they measure different things. The MBA Purchase Index looks at how many people are applying for loans to buy new homes. It helps show if the housing market is getting stronger because more people want to buy homes, or if it's getting weaker because fewer people are trying to buy.
 
-On the other hand, the MBA Refinance Index measures how many people are applying to change their current home loans to new ones. This usually happens when people want to get a better interest rate or change the terms of their loan. The Refinance Index helps show what's happening with people who already own homes and want to adjust their loans. Both indexes come out every week and give important information about the housing market, but they focus on different parts of it.
+On the other hand, the MBA Refinance Index measures how many people are applying to change their current home loans to new ones. This usually happens when people want to get a better [interest rate](/wiki/interest-rate-trading-strategies) or change the terms of their loan. The Refinance Index helps show what's happening with people who already own homes and want to adjust their loans. Both indexes come out every week and give important information about the housing market, but they focus on different parts of it.
 
 ## How can the MBA Purchase Index be used to predict economic trends?
 
@@ -100,7 +100,7 @@ In summary, the MBA Purchase Index is an essential tool for understanding housin
 
 ## What is the interplay between the MBA Purchase Index and algo trading?
 
-Traders increasingly rely on the Mortgage Bankers Association (MBA) Purchase Index as a crucial input in algorithmic trading strategies focused on the real estate market. This index offers a standardized measure of mortgage application activity, serving as a proxy for assessing housing market trends and consumer purchasing intentions. By integrating this data into algorithms, traders can gain insights into future housing market movements, thereby influencing investment decisions.
+Traders increasingly rely on the Mortgage Bankers Association (MBA) Purchase Index as a crucial input in [algorithmic trading](/wiki/algorithmic-trading) strategies focused on the real estate market. This index offers a standardized measure of mortgage application activity, serving as a proxy for assessing housing market trends and consumer purchasing intentions. By integrating this data into algorithms, traders can gain insights into future housing market movements, thereby influencing investment decisions.
 
 **Predictive Analytics and Data Interpretation Using the Index**
 

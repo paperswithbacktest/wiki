@@ -18,7 +18,7 @@ When people think about anticipated interest, they usually consider the interest
 
 Anticipated interest is what someone thinks they will earn on their money in the future. It's like making a guess based on the interest rate they know now and how long they plan to keep their money saved or invested. People use this guess to plan things like buying a house or saving for when they stop working. It helps them figure out how much money they might have later on.
 
-Actual interest, on the other hand, is the real amount of money someone earns from their savings or investments. This can be different from what they expected because things can change. For example, the bank might change the interest rate, or the economy might do something unexpected. So, while you can plan with anticipated interest, the actual interest is what you really get at the end of the day.
+Actual interest, on the other hand, is the real amount of money someone earns from their savings or investments. This can be different from what they expected because things can change. For example, the bank might change the [interest rate](/wiki/interest-rate-trading-strategies), or the economy might do something unexpected. So, while you can plan with anticipated interest, the actual interest is what you really get at the end of the day.
 
 ## Why is it important to understand anticipated interest in financial planning?
 

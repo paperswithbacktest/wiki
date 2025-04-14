@@ -34,7 +34,7 @@ For example, let's say a bond pays interest every six months, and the next payme
 
 ## What are the advantages of purchasing securities with cum coupons?
 
-Buying securities with cum coupons can be a good choice because you get the next interest or dividend payment. This means you don't have to wait as long to start earning money from your investment. It's like getting a little extra reward for buying at the right time. This can make the investment more appealing, especially if you need the money sooner rather than later.
+Buying securities with cum coupons can be a good choice because you get the next interest or dividend payment. This means you don't have to wait as long to start [earning](/wiki/earning-announcement) money from your investment. It's like getting a little extra reward for buying at the right time. This can make the investment more appealing, especially if you need the money sooner rather than later.
 
 Another advantage is that it can help you plan your finances better. Knowing that you will get the next payment gives you a clear idea of when you will see some returns. This can be helpful for managing your money and making sure you have cash coming in when you need it. It's a simple way to make your investment work a bit harder for you right away.
 

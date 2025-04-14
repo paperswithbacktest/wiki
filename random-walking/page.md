@@ -104,7 +104,7 @@ Despite its foundational role, random walk theory has been challenged by empiric
 
 ## What are Random Walk Models and how are they used in Time Series Analysis?
 
-Time series models are fundamental in algorithmic trading, providing a framework to analyze and predict price movements over time. A particular focus on random walk models is essential, as they suggest that price movements are stochastic and follow past movements unpredictably. The random walk model assumes that the future price of a security is independent of its past, with changes in price following a normal distribution.
+Time series models are fundamental in [algorithmic trading](/wiki/algorithmic-trading), providing a framework to analyze and predict price movements over time. A particular focus on random walk models is essential, as they suggest that price movements are stochastic and follow past movements unpredictably. The random walk model assumes that the future price of a security is independent of its past, with changes in price following a normal distribution.
 
 **Residual Series and Correlograms**
 
@@ -158,7 +158,7 @@ $$
 
 where $w_i$ is the weight of asset $i$ in the portfolio, and $E(R_i)$ is the expected return of asset $i$.
 
-To overcome the limitations of random walk theory, it is essential for traders to continuously validate their models with real market data and adapt to changing market conditions. Regular backtesting of strategies over historical data helps in assessing their robustness. Additionally, incorporating machine learning algorithms that can detect patterns not immediately apparent could help identify and exploit imperfections in the market's randomness.
+To overcome the limitations of random walk theory, it is essential for traders to continuously validate their models with real market data and adapt to changing market conditions. Regular [backtesting](/wiki/backtesting) of strategies over historical data helps in assessing their robustness. Additionally, incorporating [machine learning](/wiki/machine-learning) algorithms that can detect patterns not immediately apparent could help identify and exploit imperfections in the market's randomness.
 
 For those implementing algorithmic trading strategies, using a data-driven approach that involves machine learning requires setting up proper validation techniques like cross-validation. Python, a popular programming language among quants, can be used to implement such models. Here's an example of a simple backtest validation using Python and NumPy:
 

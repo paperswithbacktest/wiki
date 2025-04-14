@@ -46,7 +46,7 @@ Another rule is that the company must be profitable. This means it should be mak
 
 ## How does investing in an S&P 500 index fund benefit an investor?
 
-Investing in an S&P 500 index fund is a smart way to grow your money because it spreads your investment across many big and important companies in the U.S. Instead of picking just one or a few stocks, you get a piece of 500 different companies. This means if one company does badly, it won't hurt your whole investment too much because the other companies might do well. This is called diversification, and it helps make your investment safer.
+Investing in an S&P 500 index fund is a smart way to grow your money because it spreads your investment across many big and important companies in the U.S. Instead of [picking](/wiki/asset-class-picking) just one or a few stocks, you get a piece of 500 different companies. This means if one company does badly, it won't hurt your whole investment too much because the other companies might do well. This is called diversification, and it helps make your investment safer.
 
 Another benefit is that the S&P 500 has a good track record of growing over time. Over many years, the stock market usually goes up, and the S&P 500 is a good way to be part of that growth. Plus, it's easy to invest in an S&P 500 index fund. You don't need to be an expert in picking stocks. You just buy the fund, and it does the work for you by following the S&P 500. This makes it a simple and effective way to invest for the long term.
 
@@ -70,7 +70,7 @@ Another risk is that the S&P 500 might not grow as fast as you hope. Sometimes, 
 
 ## How can investors use the S&P 500 to diversify their portfolios?
 
-Investors can use the S&P 500 to diversify their portfolios by buying an S&P 500 index fund or ETF. This means instead of picking just a few stocks, they get a piece of 500 big companies from different industries. This spread-out approach helps lower the risk because if one company or industry does badly, the others might do well and balance things out. It's like not putting all your eggs in one basket, but spreading them around so that if one egg breaks, you still have plenty of others.
+Investors can use the S&P 500 to diversify their portfolios by buying an S&P 500 index fund or [ETF](/wiki/etf-trading-strategies). This means instead of picking just a few stocks, they get a piece of 500 big companies from different industries. This spread-out approach helps lower the risk because if one company or industry does badly, the others might do well and balance things out. It's like not putting all your eggs in one basket, but spreading them around so that if one egg breaks, you still have plenty of others.
 
 Adding an S&P 500 index fund to a portfolio can also help investors who want to keep things simple. Instead of trying to pick the best stocks or time the market, they can just invest in the S&P 500 and let it do the work. This way, they're investing in the overall growth of the U.S. economy, which has a good track record over time. By doing this, investors can build a solid foundation for their portfolio and then add other investments like bonds, international stocks, or real estate to make it even more diverse.
 

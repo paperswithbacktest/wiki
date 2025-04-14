@@ -22,7 +22,7 @@ On the other hand, a regular bond doesn't have this safety net. With a regular b
 
 ## What is the purpose of issuing a refunded bond?
 
-The main reason a company or government issues a refunded bond is to save money. When interest rates go down, they can issue new bonds at a lower rate and use the money from these new bonds to set aside enough money to pay off the old bonds. It's like getting a new loan with a better interest rate to pay off an old loan. This way, they can reduce the amount they have to pay in interest over time.
+The main reason a company or government issues a refunded bond is to save money. When interest rates go down, they can issue new bonds at a lower rate and use the money from these new bonds to set aside enough money to pay off the old bonds. It's like getting a new loan with a better [interest rate](/wiki/interest-rate-trading-strategies) to pay off an old loan. This way, they can reduce the amount they have to pay in interest over time.
 
 Another purpose is to make the bonds safer for investors. By setting aside money in an escrow account, the issuer makes sure that there will be money available to pay back the bondholders, even if they face financial problems later. This makes the bonds more attractive to investors because they know their investment is secure. So, issuing refunded bonds can help the issuer save money and attract more investors.
 
@@ -82,9 +82,9 @@ These changes can also affect how issuers manage refunded bonds. If the rules ab
 
 ## References & Further Reading
 
-To gain a deeper understanding of algorithmic trading and its role in financial markets, certain foundational texts and resources are invaluable. Notably, the works of Marcos Lopez de Prado and David Aronson provide extensive insights into this domain.
+To gain a deeper understanding of [algorithmic trading](/wiki/algorithmic-trading) and its role in financial markets, certain foundational texts and resources are invaluable. Notably, the works of Marcos Lopez de Prado and David Aronson provide extensive insights into this domain.
 
-Marcos Lopez de Prado is renowned for his contributions to the field of financial machine learning. His book, "Advances in Financial Machine Learning," is a key resource that offers a comprehensive examination of how machine learning techniques can be applied to develop sophisticated trading strategies. The text investigates into various aspects such as data structure, the development of algorithmic models, and the critical evaluation of model performance in real-world trading environments. For practitioners, this book also provides practical code examples, primarily in Python, illustrating how to implement these concepts efficiently.
+Marcos Lopez de Prado is renowned for his contributions to the field of financial [machine learning](/wiki/machine-learning). His book, "Advances in Financial Machine Learning," is a key resource that offers a comprehensive examination of how machine learning techniques can be applied to develop sophisticated trading strategies. The text investigates into various aspects such as data structure, the development of algorithmic models, and the critical evaluation of model performance in real-world trading environments. For practitioners, this book also provides practical code examples, primarily in Python, illustrating how to implement these concepts efficiently.
 
 David Aronson is another significant figure whose work, "Evidence-Based Technical Analysis," focuses on statistical techniques applied to trading. Unlike traditional technical analysis, which often relies on anecdotal evidence, Aronson advocates for a systematic, evidence-based approach. By employing rigorous statistical methods, he critiques conventional wisdom and emphasizes the importance of hypothesis testing in trading model development. His approach is particularly relevant for those in algorithmic trading who need to backtest and validate strategies with empirical data.
 

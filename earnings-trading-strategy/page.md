@@ -82,7 +82,7 @@ Another technique is to set stop-loss orders. These are orders that automaticall
 
 ## What are Algorithmic Options Strategies for Earnings?
 
-Options play a pivotal role in augmenting earnings trading strategies through algorithmic trading, primarily by facilitating risk hedging and enhancing potential returns. Options strategies involve various approaches, each adaptable to differing market expectations and volatility levels during earnings announcements.
+Options play a pivotal role in augmenting earnings trading strategies through [algorithmic trading](/wiki/algorithmic-trading), primarily by facilitating risk hedging and enhancing potential returns. Options strategies involve various approaches, each adaptable to differing market expectations and [volatility](/wiki/volatility-trading-strategies) levels during earnings announcements.
 
 ### Common Strategies
 

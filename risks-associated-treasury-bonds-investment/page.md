@@ -26,7 +26,7 @@ Lastly, there's also the risk that you might need your money back before the bon
 
 Interest rate risk is a big deal when you invest in Treasury bonds. It means that if interest rates go up after you buy a bond, the value of your bond can go down. Here's why: when new bonds are issued with higher interest rates, they look better to investors than your older bond with a lower rate. If you want to sell your bond before it matures, you might have to sell it for less than what you paid for it. This is because people will pay more for the new bonds that give them more interest.
 
-Let's say you bought a bond that pays 2% interest, but then interest rates go up to 3%. If you try to sell your 2% bond, no one will want to buy it at the price you paid because they can get a new bond that pays more. So, you might have to lower the price of your bond to make it attractive to buyers. This is how interest rate risk can affect the value of your Treasury bond investment if you need to sell it before it matures.
+Let's say you bought a bond that pays 2% interest, but then interest rates go up to 3%. If you try to sell your 2% bond, no one will want to buy it at the price you paid because they can get a new bond that pays more. So, you might have to lower the price of your bond to make it attractive to buyers. This is how [interest rate](/wiki/interest-rate-trading-strategies) risk can affect the value of your Treasury bond investment if you need to sell it before it matures.
 
 ## What is inflation risk and how does it impact the returns on Treasury bonds?
 
@@ -50,7 +50,7 @@ For example, imagine you bought a Treasury bond that pays 3% interest every year
 
 Liquidity risk is the chance that you might not be able to sell your Treasury bond quickly or at a good price when you need to. Treasury bonds are usually pretty easy to sell, but sometimes the market can be slow or not many people want to buy them. If you need to sell your bond fast and there aren't many buyers, you might have to sell it for less money than you wanted.
 
-This risk can affect your investment because if you have to sell your bond at a lower price, you lose money. It's important to think about how soon you might need your money back. If you can hold onto your bond until it matures, you don't have to worry about liquidity risk as much. But if you might need to sell it early, you need to be ready for the possibility that you won't get as much money as you hoped.
+This risk can affect your investment because if you have to sell your bond at a lower price, you lose money. It's important to think about how soon you might need your money back. If you can hold onto your bond until it matures, you don't have to worry about [liquidity](/wiki/liquidity-risk-premium) risk as much. But if you might need to sell it early, you need to be ready for the possibility that you won't get as much money as you hoped.
 
 ## How do market conditions and economic cycles influence the risks of investing in Treasury bonds?
 

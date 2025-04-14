@@ -175,7 +175,7 @@ Graham, B. (2003). "The Intelligent Investor: The Definitive Book on Value Inves
 
 Damodaran, A. (2002). "Investment Valuation: Tools and Techniques for Determining the Value of Any Asset" provides comprehensive methodologies for valuing various assets. The book covers a range of approaches including Discounted Cash Flow (DCF) and Dividend Discount Models (DDM), enabling investors to assess intrinsic values accurately.
 
-Chan, E. (2009). "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" explores the integration of quantitative methods in trading strategies. This resource is valuable for those interested in developing and implementing algorithmic trading systems that can leverage valuation metrics for decision-making.
+Chan, E. (2009). "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" explores the integration of quantitative methods in trading strategies. This resource is valuable for those interested in developing and implementing [algorithmic trading](/wiki/algorithmic-trading) systems that can leverage valuation metrics for decision-making.
 
 De Prado, M. L. (2018). "Advances in Financial Machine Learning" investigates the intersection of [machine learning](/wiki/machine-learning) and finance. This book is particularly relevant for modern traders looking to enhance their strategies using advanced algorithms and data analysis techniques.
 

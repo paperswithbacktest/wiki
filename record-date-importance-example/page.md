@@ -86,7 +86,7 @@ Market [volatility](/wiki/volatility-trading-strategies) and regulatory restrict
 
 ### Market Volatility
 
-Market volatility can lead to rapid and unpredictable changes in stock prices, affecting the performance of dividend and algorithmic trading strategies. High volatility may result in increased risk for dividend investors, as fluctuations can influence the expected yield from dividend payouts. For algorithmic traders, market volatility presents both opportunities and challenges. On one hand, increased price movements can create profitable trading scenarios. On the other, they can lead to heightened risk exposure and potential losses if algorithms are not designed to handle volatility efficiently. Algorithms need to be calibrated to adapt to sudden market shifts, often utilizing volatility indicators such as the VIX index to adjust their strategies.
+Market volatility can lead to rapid and unpredictable changes in stock prices, affecting the performance of dividend and [algorithmic trading](/wiki/algorithmic-trading) strategies. High volatility may result in increased risk for dividend investors, as fluctuations can influence the expected yield from dividend payouts. For algorithmic traders, market volatility presents both opportunities and challenges. On one hand, increased price movements can create profitable trading scenarios. On the other, they can lead to heightened risk exposure and potential losses if algorithms are not designed to handle volatility efficiently. Algorithms need to be calibrated to adapt to sudden market shifts, often utilizing volatility indicators such as the VIX index to adjust their strategies.
 
 ### Regulatory Restrictions
 
@@ -104,7 +104,7 @@ System failures, such as technical glitches or connectivity issues, present anot
 
 ### Adaptive Algorithms
 
-Investors should continuously refine and adapt their algorithms to address the challenges posed by market volatility and regulatory changes. Machine learning techniques can be employed to enhance algorithm adaptability. For example, [reinforcement learning](/wiki/reinforcement-learning), a type of machine learning, can enable algorithms to learn from past market environments and make more informed decisions. A basic Python pseudocode for an adaptive trading algorithm could be:
+Investors should continuously refine and adapt their algorithms to address the challenges posed by market volatility and regulatory changes. Machine learning techniques can be employed to enhance algorithm adaptability. For example, [reinforcement learning](/wiki/reinforcement-learning), a type of [machine learning](/wiki/machine-learning), can enable algorithms to learn from past market environments and make more informed decisions. A basic Python pseudocode for an adaptive trading algorithm could be:
 
 ```python
 import numpy as np

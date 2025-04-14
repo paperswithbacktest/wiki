@@ -34,7 +34,7 @@ On the other hand, RevPAR, or Revenue Per Available Room, looks at all the rooms
 
 ## What are the key factors that influence RevPOR?
 
-Several things can affect how much money a hotel makes from each room that has a guest, which is called RevPOR. One big thing is the price of the room. If a hotel charges more for its rooms, the RevPOR will go up, as long as people are still willing to pay that price. Another factor is how much extra money the hotel can make from things like room service, mini-bar sales, or special packages. If guests spend more on these extras, the RevPOR will be higher.
+Several things can affect how much money a hotel makes from each room that has a guest, which is called RevPOR. One big thing is the price of the room. If a hotel charges more for its rooms, the RevPOR will go up, as long as people are still willing to pay that price. Another [factor](/wiki/factor-investing) is how much extra money the hotel can make from things like room service, mini-bar sales, or special packages. If guests spend more on these extras, the RevPOR will be higher.
 
 The type of guests staying at the hotel also matters. Business travelers might be willing to pay more and spend more on extras than families on vacation, which can change the RevPOR. The hotel's location and the time of year can also make a difference. Hotels in busy cities or during peak travel times might be able to charge more and have higher RevPOR. Finally, how well the hotel takes care of its guests can influence RevPOR. If guests are happy, they might spend more money and come back, which helps keep the RevPOR high.
 

@@ -135,7 +135,7 @@ Customer acquisition is another advantage of this strategy. By lowering the entr
 
 ### Risks
 
-Despite its advantages, the loss leader strategy carries significant risks. A prominent concern is the potential for financial strain. Selling products below cost without a strategy to recapture the lost revenue can severely impact the bottom line. Retailers must ensure that the increase in volume or subsequent sales offsets these initial losses. The break-even point, calculated as:
+Despite its advantages, the loss leader strategy carries significant risks. A prominent concern is the potential for financial strain. Selling products below cost without a strategy to recapture the lost revenue can severely impact the bottom line. Retailers must ensure that the increase in [volume](/wiki/volume-trading-strategy) or subsequent sales offsets these initial losses. The break-even point, calculated as:
 
 $$
 \text{Break-Even Quantity} = \frac{\text{Fixed Costs}}{\text{Revenue per Unit} - \text{Variable Cost per Unit}}
