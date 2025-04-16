@@ -1,6 +1,7 @@
 ---
-title: "100% Equities Investment Strategy"
-description: "Explore a 100% equities strategy emphasizing growth through focused investment in equities and algorithmic trading aimed at optimizing market opportunities."
+title: Essential Guide to a 100% Equities Investment Strategy
+description: 100% equities investment strategy delivers high long term returns by
+  staying fully in stocks with index funds to curb volatility Discover more inside
 ---
 
 ![Image](images/1.jpeg)

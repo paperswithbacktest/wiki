@@ -1,6 +1,7 @@
 ---
-title: "1979 Energy Crisis"
-description: "Explore the 1979 energy crisis, its economic impacts, and the role of algorithmic trading in adapting to oil shortages and volatile energy markets."
+title: Essential Insights Into the 1979 Energy Crisis Impact
+description: 1979 Energy Crisis reshaped global energy use by exposing oil dependency
+  and sparking shifts to renewables and efficiency. Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,7 @@
 ---
-title: "130-30 Investment Strategy"
-description: "Explore the 130-30 investment strategy which combines long positions and short selling for optimized returns. Learn its benefits, risks, and algorithmic trading integration."
+title: Essential Guide to the Proven 130-30 Investment Strategy
+description: 130-30 investment strategy combines long and short positions to boost
+  risk adjusted returns and optimize portfolio performance. Discover more inside.
 ---
 
 ![Image](images/1.png)

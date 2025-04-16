@@ -1,6 +1,7 @@
 ---
-title: "0x Protocol"
-description: "Explore the functionality and significance of the 0x Protocol in decentralized asset trading and algorithmic trading within blockchain environments."
+title: Essential Guide to 0x Protocol for Decentralized Token Trading
+description: 0x Protocol provides a decentralized exchange framework on Ethereum for
+  peer to peer ERC-20 token swaps with governance features Discover more inside.
 ---
 
 ![Image](images/image.png)

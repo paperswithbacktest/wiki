@@ -1,6 +1,7 @@
 ---
-title: "10-K Report: Contents and Access"
-description: "Explore the significance of the SEC 10-K report for both traditional and algorithmic trading. Unlock key insights into financial health and strategic advantage."
+title: "Essential Guide to Understanding and Analyzing SEC 10\u2011K Reports"
+description: "10\u2011K report filings offer a detailed annual view of a company\u2019\
+  s finances operations and risks in active voice Discover more inside"
 ---
 
 ![Image](images/image.png)

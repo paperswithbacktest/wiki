@@ -1,6 +1,7 @@
 ---
-title: "1973 Oil Crisis: Causes and Effects"
-description: "Explore the profound impact of the 1973 oil crisis on global economy and politics delve into its causes and effects highlighting its relevance to algo trading."
+title: Essential Insights into the 1973 Oil Crisis and Energy Shifts
+description: 1973 Oil Crisis triggered a global energy shift, spurring renewables
+  and nuclear adoption and reshaping policy and security. Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

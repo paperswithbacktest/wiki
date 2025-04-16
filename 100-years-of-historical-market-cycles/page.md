@@ -1,6 +1,7 @@
 ---
-title: "100 Years of Historical Market Cycles"
-description: Explore the evolution of algorithmic trading over the past century and how market cycles like bull and bear markets have influenced trading strategies. Discover the role of technology, including artificial intelligence, in transforming trading speed and accuracy, and the impact of macroeconomic factors like inflation and interest rates on market dynamics. Learn how historical data analysis and machine learning are used to adapt algorithms to varying conditions for optimized trading outcomes.
+title: Essential Guide to Historical Market Cycles and Trends
+description: Historical market cycles reveal recurring patterns of growth and decline
+  that help investors better time markets and manage risk Discover more inside
 ---
 
 ![Image](images/1.png)
