@@ -1,6 +1,7 @@
 ---
-title: "Kepos Capital"
-description: "Explore algorithmic trading with Kepos Capital, a leader since 2010. Discover how cutting-edge strategies drive efficiency, liquidity, and risk management."
+title: Insider Guide to Kepos Capital Investment Strategies
+description: Kepos Capital uses data driven analysis to uncover technology energy
+  and agriculture investments that beat market benchmarks Discover more inside
 ---
 
 
