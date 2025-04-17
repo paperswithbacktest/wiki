@@ -1,6 +1,7 @@
 ---
-title: "Base Rate"
-description: "Explore the critical roles of base rates and algorithmic trading in modern financial markets. Understand how central banks use base rates to influence economic activity and how algorithmic trading utilizes automation and technology for efficient trade execution. Learn about the impact of base rate changes on consumer behavior and market sentiment and how traders leverage this knowledge along with algorithmic strategies to gain a competitive advantage. Discover the intersection of these financial concepts and their influence on trading and investment decisions."
+title: Essential Guide to Base Rate Statistics for Smarter Decisions
+description: Base rate analysis reveals overall event frequencies to improve predictions
+  and reduce bias in medical and financial decisions Discover more inside
 ---
 
 

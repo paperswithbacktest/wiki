@@ -1,6 +1,8 @@
 ---
-title: "Assets"
-description: "Gain valuable insights into the essential role of financial and business assets within algorithmic trading. Discover how these assets, from stocks and bonds to machinery and patents, shape sophisticated trading strategies, enhance market efficiency, and drive economic growth. Learn how technology-driven approaches to trading optimize asset management, maximizing returns and enabling strategic decision-making in today's dynamic financial landscape. This article provides a comprehensive overview of asset classification and functionality, illustrating how modern trading practices can revolutionize investment portfolios."
+title: Essential Guide to Understanding Assets Types and Management
+description: Asset management explained with clear definitions of current fixed and
+  intangible assets and tips to optimize their value for business success Discover
+  more inside.
 ---
 
 

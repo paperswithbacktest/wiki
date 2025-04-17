@@ -1,6 +1,7 @@
 ---
-title: "Agent-based modeling"
-description: "Explore the role of agent-based modeling in algorithmic trading to understand market dynamics and develop sophisticated, adaptive trading strategies."
+title: Essential Guide To Agent-Based Modeling And Its Applications
+description: Agent-based modeling shows how simple agent rules drive complex behaviors
+  in traffic, economics, and social systems with real data Discover more inside.
 ---
 
 

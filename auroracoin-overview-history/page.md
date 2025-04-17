@@ -1,6 +1,7 @@
 ---
-title: "Auroracoin: Overview and History"
-description: "Explore the unique journey of Auroracoin developed from Iceland's financial crisis to its role in algorithmic trading offering a decentralized currency solution."
+title: Essential Guide to Auroracoin Cryptocurrency for Icelanders
+description: Auroracoin offers Icelanders a decentralized currency free from bank
+  control and traces its impact and challenges since 2014. Discover more inside.
 ---
 
 

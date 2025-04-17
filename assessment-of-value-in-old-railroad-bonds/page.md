@@ -1,6 +1,7 @@
 ---
-title: "Assessment of Value in Old Railroad Bonds"
-description: "Explore the historical significance of antique railroad bonds and the modern impact of algorithmic trading in bond markets enhancing investment strategies."
+title: Essential Insider Guide to Valuing Old Railroad Bonds
+description: Old railroad bonds gain collectible value by assessing rarity condition
+  authenticity historical records and legal considerations Discover more inside
 ---
 
 

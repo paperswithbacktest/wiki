@@ -1,6 +1,7 @@
 ---
-title: "Augmented Reality (Machine Learning)"
-description: "Explore the exciting world of Augmented Reality enhanced by Machine Learning Discover how digital elements integrate into real life for immersive experiences"
+title: Essential Guide to Augmented Reality With Machine Learning
+description: Augmented Reality and machine learning deliver interactive experiences
+  that recognize objects and personalize content instantly. Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

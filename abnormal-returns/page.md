@@ -1,6 +1,7 @@
 ---
-title: "Abnormal Returns"
-description: Discover how algorithmic trading enables investors to achieve abnormal returns by surpassing expected profit levels based on risk and market conditions. Explore the mechanics behind automated trading systems that leverage advanced algorithms and data analysis to identify opportunities invisible to human traders, driving superior market performance. Understand the significance of datasets and machine learning models in optimizing trading strategies for enhanced financial returns.
+title: Ultimate Guide to Abnormal Returns in Financial Analysis
+description: Abnormal returns show how actual investment performance compares to CAPM
+  benchmarks and event studies guide smarter trading Discover more inside
 ---
 
 

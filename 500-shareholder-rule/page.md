@@ -1,6 +1,7 @@
 ---
-title: "500 Shareholder Rule"
-description: "Explore the impact of financial regulations, from the 500 shareholder rule to algorithmic trading, and their influence on corporate governance and market dynamics."
+title: Essential Guide to the 500 Shareholder Rule for S Corporations
+description: 500 Shareholder Rule gives small businesses tax savings by electing S
+  corporation status and managing shareholder count to plan growth Discover more inside
 ---
 
 ![Image](images/image.png)

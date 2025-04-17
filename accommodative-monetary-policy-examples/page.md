@@ -1,6 +1,7 @@
 ---
-title: "Accommodative Monetary Policy and Examples"
-description: "Explore how accommodative monetary policy, with low interest rates, impacts algorithmic trading, shaping market dynamics and economic opportunities."
+title: Essential Guide to Accommodative Monetary Policy Tools
+description: Accommodative monetary policy outlines how central banks lower rates
+  and use quantitative easing to spur spending and job growth Discover more inside.
 ---
 
 

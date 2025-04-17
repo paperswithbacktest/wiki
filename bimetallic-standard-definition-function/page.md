@@ -1,6 +1,7 @@
 ---
-title: "Bimetallic Standard: Definition and Function"
-description: "Discover the concept of the bimetallic standard a monetary framework utilizing gold and silver as legal tender to enhance stability and broaden money supply."
+title: Essential Guide to the Bimetallic Standard in Monetary History
+description: Bimetallic standard offers insights into historical evolution economic
+  advantages challenges and modern relevance and policy impact Discover more inside.
 ---
 
 

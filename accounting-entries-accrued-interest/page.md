@@ -1,6 +1,7 @@
 ---
-title: "Accounting Entries for Accrued Interest"
-description: "Enhance your algorithmic trading strategy by mastering accounting entries for accrued interest Learn how automation ensures precise financial tracking and reporting"
+title: The Essential Guide to Accrued Interest Accounting
+description: Accrued interest ensures financial reports show true income and liabilities.
+  Guide covers calculations journal entries reporting Discover more inside
 ---
 
 

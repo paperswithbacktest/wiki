@@ -1,6 +1,7 @@
 ---
-title: "Advantages and Disadvantages of Trading on the West Coast"
-description: "Discover the unique advantages and challenges of algorithmic trading from the West Coast including time zone benefits tech access and market proximity."
+title: Insider Guide to Proven West Coast Trading Strategies
+description: West Coast trading gives you essential advantages from ports to tech
+  tools while overcoming time zone and regulatory challenges Discover more inside
 ---
 
 

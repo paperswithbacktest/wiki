@@ -1,6 +1,7 @@
 ---
-title: "Artificial General Intelligence (Machine Learning)"
-description: "Explore the fascinating world of Artificial General Intelligence where machines learn like humans and adapt to diverse tasks challenging current AI's limits."
+title: Essential Guide to Understanding Artificial General Intelligence
+description: Artificial General Intelligence uses machine learning and reinforcement
+  learning to adapt and learn new tasks across diverse fields Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

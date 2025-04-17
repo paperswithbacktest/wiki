@@ -1,6 +1,7 @@
 ---
-title: "Abu Dhabi Investment Authority"
-description: "The Abu Dhabi Investment Authority employs algorithmic trading to optimize investment strategies enhancing precision and efficiency while navigating global markets."
+title: The Ultimate Guide to the Abu Dhabi Investment Authority ADIA
+description: Abu Dhabi Investment Authority transforms oil revenue into a diversified
+  global portfolio that fuels economic stability and growth Discover more inside
 ---
 
 

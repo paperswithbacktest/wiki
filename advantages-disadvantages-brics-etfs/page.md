@@ -1,6 +1,7 @@
 ---
-title: "Advantages and Disadvantages of BRICS ETFs"
-description: "Explore the potential of BRICS ETFs for portfolio diversification and growth Learn about the benefits and risks of investing in emerging markets with algo trading strategies"
+title: Ultimate Guide to Investing in BRICS ETFs for Growth
+description: BRICS ETFs provide diversified exposure to Brazil Russia India China
+  and South Africa balancing growth and risk in one simple fund Discover more inside.
 ---
 
 

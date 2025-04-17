@@ -1,6 +1,7 @@
 ---
-title: "Accumulated Earnings and Profits Vs. Retained Earnings"
-description: "Explore the distinctions between accumulated earnings and retained earnings in algo trading Understanding these financial metrics enhances trading strategies"
+title: Essential Accumulated Earnings and Profits Vs Retained Earnings
+description: "Accumulated Earnings and Profits guide companies in calculating tax\u2011\
+  efficient dividends and comparing payouts to retained earnings. Discover more inside."
 ---
 
 

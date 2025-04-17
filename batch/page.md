@@ -1,6 +1,7 @@
 ---
-title: "Batch (Machine Learning)"
-description: "Explore batch machine learning where models are trained using all available data at once yielding stable results for static datasets and deep insights."
+title: Essential Batch Machine Learning Guide For Large Data Projects
+description: Batch machine learning leverages complete datasets to boost model accuracy
+  simplify data pipelines and scale efficiently Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

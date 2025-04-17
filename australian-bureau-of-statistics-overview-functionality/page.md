@@ -1,6 +1,7 @@
 ---
-title: "Australian Bureau of Statistics: Overview and Functionality"
-description: "Discover how the Australian Bureau of Statistics provides essential data for financial markets enabling the development of effective algorithmic trading strategies."
+title: Ultimate Guide to the Australian Bureau of Statistics
+description: Australian Bureau of Statistics explores how reliable census and economic
+  data inform government policies and business decisions Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Behavioral finance"
-description: Explore the cutting-edge field of behavioral finance and its application in algorithmic trading. Learn how the fusion of psychology and finance helps to decode market behaviors influenced by human biases like overconfidence and herd mentality. Discover how integrating these insights into algorithmic models can optimize trading strategies and improve market stability, harnessing the power of cognitive psychology to anticipate and react to market anomalies for potential profit and growth. Unveil the complexities and opportunities that arise at this intersection, paving the way for innovative trading approaches.
+title: Essential Insights into Behavioral Finance and Cognitive Biases
+description: Behavioral finance shows how emotions and biases impact investment choices
+  with actionable strategies to counter common biases Discover more inside
 ---
 
 

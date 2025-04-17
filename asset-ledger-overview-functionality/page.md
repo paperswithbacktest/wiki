@@ -1,6 +1,7 @@
 ---
-title: "Asset Ledger: Overview and Functionality"
-description: "Explore the role of asset ledgers in modern financial technology and algorithmic trading to improve asset management and trading efficiency with transparency."
+title: Essential Asset Ledger Guide for Business Resource Tracking
+description: Asset ledger helps track and value company assets from purchase to depreciation
+  while maintaining compliance and accurate reporting Discover more inside.
 ---
 
 

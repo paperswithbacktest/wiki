@@ -1,6 +1,7 @@
 ---
-title: "Best Undergraduate Degree Course for Becoming a Quant"
-description: Explore how a career in algorithmic trading starts with a quant major, integrating math, finance, statistics, and computer science to create sophisticated trading strategies. This article dives into the essential skills, education pathways, and industry tools crucial for aspiring quants. Understand how these elements position you for success in the fast-paced world of algo trading while highlighting the importance of continuous learning and adaptation in this dynamic field. Mark your journey toward financial innovation by grasping the intricacies of quantitative finance and its pivotal role in reshaping modern markets.
+title: Essential Guide to Undergraduate Quantitative Finance Degrees
+description: Quantitative finance degree builds math statistics and programming skills
+  to model market trends and manage risk efficiently. Discover more inside.
 ---
 
 

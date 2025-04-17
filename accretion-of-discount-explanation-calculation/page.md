@@ -1,6 +1,7 @@
 ---
-title: "Accretion of Discount: Explanation and Calculation"
-description: "Explore how discount accretion and algorithmic trading impact financial securities. Understand the principles and calculations for informed investment decisions."
+title: The Essential Guide to Accretion of Discount in Bond Valuation
+description: Accretion of discount shows how bonds bought below face value rise in
+  book value with accurate yield and income reporting. Discover more inside.
 ---
 
 

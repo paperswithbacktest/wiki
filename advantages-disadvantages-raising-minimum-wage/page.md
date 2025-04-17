@@ -1,6 +1,7 @@
 ---
-title: "Advantages and Disadvantages of Raising Minimum Wage"
-description: "Raising the minimum wage impacts economic equity and employment, while algorithmic trading influences market dynamics. Explore these complex economic interactions."
+title: Essential Guide to Minimum Wage Impacts on the Economy
+description: Minimum wage hikes boost worker earnings and influence business costs,
+  consumer prices, and economic growth with balanced analysis Discover more inside.
 ---
 
 

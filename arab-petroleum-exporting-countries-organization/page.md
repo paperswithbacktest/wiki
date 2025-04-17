@@ -1,6 +1,7 @@
 ---
-title: "Arab Petroleum Exporting Countries Organization"
-description: "Discover how OAPEC influences global oil markets and explores the rise of algorithmic trading, enhancing trade efficiency in the volatile oil industry."
+title: Essential OAPEC Insights for Arab Petroleum Exporting Countries
+description: OAPEC drives collaboration on oil exploration pipelines and market stability
+  while guiding member states through energy transition Discover more inside.
 ---
 
 

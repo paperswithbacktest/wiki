@@ -1,6 +1,7 @@
 ---
-title: "Best Alternative Data for Algo Trading in 2024"
-description: Discover the power of alternative data in algorithmic trading. From satellite imagery to corporate data, explore various types of alternative data and their impact on informed investment decisions. Unveil insights into consumer behavior, economic trends, and market movements.
+title: Essential Guide to Alternative Data in Algorithmic Trading
+description: Alternative Data in Algorithmic Trading provides real-time insights from
+  unconventional sources to refine strategies and gain an edge Discover more inside.
 ---
 
 

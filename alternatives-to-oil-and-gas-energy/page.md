@@ -1,6 +1,7 @@
 ---
-title: "Alternatives to Oil and Gas Energy"
-description: "Explore new horizons in energy investment with insights on oil and gas alternatives and how algo trading optimizes sustainable energy market strategies."
+title: Essential Guide to Renewable Energy Alternatives to Oil and Gas
+description: Renewable energy alternatives to oil and gas deliver clean cost effective
+  power while cutting emissions and lowering bills Discover more inside
 ---
 
 

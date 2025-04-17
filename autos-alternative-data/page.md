@@ -1,6 +1,7 @@
 ---
-title: "Autos Alternative Data"
-description: Explore the transformative role of alternative data in automotive algorithmic trading as traders leverage unconventional data sources like satellite imagery and social media insights to refine trading strategies. This insightful analysis investigates into the potential advantages of gaining a competitive edge and overcoming the challenges that come with integrating these datasets into trading systems in the fast-paced financial markets.
+title: Essential Guide to Alternative Data in the Automotive Industry
+description: Alternative Data helps automotive companies predict trends and understand
+  consumer behavior through real-time insights. Discover more inside.
 ---
 
 

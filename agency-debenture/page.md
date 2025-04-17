@@ -1,6 +1,8 @@
 ---
-title: "Agency Debenture"
-description: "Explore the critical role of agency debentures in financial markets and algorithmic trading highlighting low-risk investment opportunities and trading strategies."
+title: Essential Guide to Agency Debentures for Smart Investors
+description: Agency debentures deliver a reliable balance of stability and higher
+  yields than government bonds while detailing risks and strategies Discover more
+  inside
 ---
 
 

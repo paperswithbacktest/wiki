@@ -1,6 +1,7 @@
 ---
-title: "American Depositary Receipts: Types, Pricing, Fees, and Taxes"
-description: "Explore American Depositary Receipts (ADRs) including their types, pricing, fees, and taxation. Learn how algo trading impacts ADR investments and market dynamics."
+title: Essential Guide to American Depositary Receipts for Investors
+description: American Depositary Receipts simplify investing in foreign stocks by
+  detailing types pricing fees tax considerations and risks Discover more inside.
 ---
 
 

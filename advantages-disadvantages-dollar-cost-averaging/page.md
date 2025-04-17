@@ -1,6 +1,7 @@
 ---
-title: "Advantages and Disadvantages of Dollar-Cost Averaging"
-description: "Explore the benefits and drawbacks of dollar-cost averaging in algo trading. Learn how this strategy aids in navigating market volatility for long-term gain."
+title: Essential Guide to Dollar Cost Averaging Investment Strategy
+description: Dollar Cost Averaging helps investors spread out purchases to lower average
+  share cost and reduce emotional trading risks. Discover more inside.
 ---
 
 

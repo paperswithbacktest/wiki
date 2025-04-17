@@ -1,6 +1,7 @@
 ---
-title: "Analysis of China's GDP: Service Sector Growth"
-description: "Explore China's GDP growth via its expanding service sector and the rise of algorithmic trading Learn how these shifts impact global economic dynamics"
+title: Essential Insights Into China's Service Sector Growth
+description: China service sector drives economic growth as consumer spending and
+  government investment spark job creation and innovation Discover more inside
 ---
 
 

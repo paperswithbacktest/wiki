@@ -1,6 +1,7 @@
 ---
-title: "Asset-Backed Securities Vs. Collateralized Debt Obligations"
-description: "Explore the complexities of asset-backed securities and collateralized debt obligations in trading Discover their structures benefits and algorithmic trading roles"
+title: Essential Guide to Asset-Backed Securities and CDOs
+description: Asset-Backed Securities and CDOs differ in structure and risk This guide
+  explains key differences to help investors navigate markets Discover more inside
 ---
 
 

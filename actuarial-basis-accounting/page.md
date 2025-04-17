@@ -1,6 +1,7 @@
 ---
-title: "Actuarial Basis in Accounting"
-description: "Explore the intersection of actuarial science accounting and algorithmic trading for optimized decision-making and regulatory compliance in financial markets."
+title: Essential Actuarial Basis Principles for Accounting Professionals
+description: Actuarial basis in accounting enables forecasting liabilities with statistical
+  models and assumptions for sound financial planning Discover more inside
 ---
 
 

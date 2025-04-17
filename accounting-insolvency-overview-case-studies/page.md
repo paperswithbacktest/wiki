@@ -1,6 +1,7 @@
 ---
-title: "Accounting Insolvency: Overview and Case Studies"
-description: "Explore accounting insolvency in the context of algo trading with this insightful analysis featuring real-world case studies to understand financial distress risks."
+title: Ultimate Accounting Insolvency Guide for Companies
+description: Accounting insolvency arises when liabilities exceed assets and threatens
+  stability Explore causes signs legal risks recovery steps Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Backtesters"
-description: Explore the transformative impact of algorithmic trading through backtesting, a vital process that simulates trading strategies with historical market data to evaluate potential performance. Discover how backtesters provide crucial insights, optimize strategies, and reduce financial risk, making them indispensable tools for traders aiming for sustainable profitability in dynamic markets.
+title: Essential Backtesting Guide for Proven Trading Strategies
+description: Backtesting trading strategies with reliable tools lets you refine rules,
+  measure risk adjusted returns and avoid common pitfalls. Discover more inside.
 ---
 
 

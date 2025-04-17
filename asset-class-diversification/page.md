@@ -1,6 +1,7 @@
 ---
-title: "Asset Class Diversification"
-description: "Explore asset class diversification strategies with algorithmic trading to balance risk and return. Learn how algorithms optimize investment portfolios efficiently."
+title: Essential Guide to Asset Class Diversification for Investors
+description: Asset class diversification spreads investments across stocks bonds real
+  estate and more to balance risk and enhance stability Discover more inside.
 ---
 
 

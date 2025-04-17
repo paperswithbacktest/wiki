@@ -1,6 +1,7 @@
 ---
-title: "Bayesian Neural Network (Machine Learning)"
-description: "Explore Bayesian Neural Networks (BNNs), which handle uncertainty by treating network weights as probability distributions. Ideal for fields needing precision."
+title: Essential Guide to Bayesian Neural Networks for Uncertainty
+description: Bayesian Neural Networks provide uncertainty estimates through weight
+  distributions and integrated predictions for informed decisions Discover more inside
 ---
 
 ![Image](images/1.png)

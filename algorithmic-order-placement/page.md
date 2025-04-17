@@ -1,6 +1,7 @@
 ---
-title: "Algorithmic Order Placement"
-description: "Explore the fundamentals of algorithmic trading to enhance efficiency and profitability in financial markets with automated computer algorithms for traders."
+title: Essential Guide to Algorithmic Order Placement Techniques
+description: Algorithmic order placement automates trades with strategies like moving
+  average crossovers and machine learning risk controls Discover more inside.
 ---
 
 

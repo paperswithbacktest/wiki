@@ -1,6 +1,7 @@
 ---
-title: "Below Par: Definition, Mechanism, Causes"
-description: "Discover the intricacies of bond pricing and its impact on algo trading. Understand why bonds trade below par and how algorithms exploit these dynamics for profit."
+title: Essential Insights Into Below Par Usage in Golf and Finance
+description: Below par explains why bond prices dip and how investors profit from
+  rising rates and credit downgrades Discover more inside
 ---
 
 

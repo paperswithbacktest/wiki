@@ -1,6 +1,7 @@
 ---
-title: "Big Figure: Meaning, Mechanisms, and Strategies"
-description: "Explore big figure trading and algo trading strategies including mechanisms and technological advances to navigate the complex financial markets efficiently."
+title: Essential Guide to Big Figure Trading in Financial Markets
+description: Big Figure in finance highlights the main price quote and fuels swift
+  market reactions for quick insights and smarter trades Discover more inside
 ---
 
 

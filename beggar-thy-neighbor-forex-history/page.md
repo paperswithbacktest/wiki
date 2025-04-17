@@ -1,6 +1,7 @@
 ---
-title: "Beggar-Thy-Neighbor Policy in Forex Market History"
-description: "Explore the impacts of beggar-thy-neighbor policies in Forex markets and the role of algorithmic trading. Delve into historical insights and global implications."
+title: Ultimate Guide to Beggar-Thy-Neighbor Policy Effects on Forex
+description: Beggar-Thy-Neighbor policy drives short-term forex gains through currency
+  devaluation but can spark trade conflicts and instability Discover more inside.
 ---
 
 

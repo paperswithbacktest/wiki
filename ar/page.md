@@ -1,6 +1,7 @@
 ---
-title: "AR (Machine Learning)"
-description: "Enhance your AR experience with machine learning by integrating smart algorithms that improve object recognition tracking and add realism to virtual elements."
+title: Essential AR Machine Learning Methods for Immersive Experiences
+description: AR machine learning upgrades augmented reality by adapting to real world
+  changes in real time for immersive interactions Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

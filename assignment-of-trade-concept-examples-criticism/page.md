@@ -1,6 +1,7 @@
 ---
-title: "Assignment of Trade: Concept, Examples, and Criticism"
-description: "Discover the role of Assignment of Trade in optimizing strategies within the mortgage-backed securities market. Explore its mechanisms and criticisms in algo trading."
+title: Essential Assignment of Trade Strategies for Market Liquidity
+description: Assignment of trade lets traders transfer contract rights to manage risk,
+  enhance liquidity, and optimize portfolios efficiently Discover more inside.
 ---
 
 

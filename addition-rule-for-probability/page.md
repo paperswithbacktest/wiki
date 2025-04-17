@@ -1,6 +1,7 @@
 ---
-title: "Addition Rule for Probability"
-description: "Explore how the addition rule in probability enhances algorithmic trading by determining event likelihoods, aiding risk assessment, and optimizing trading strategies."
+title: Ultimate Guide to the Addition Rule of Probability
+description: Addition Rule of Probability shows how to find the chance of one or more
+  events by adding probabilities minus overlaps Discover more inside
 ---
 
 

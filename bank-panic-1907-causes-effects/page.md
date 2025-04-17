@@ -1,6 +1,7 @@
 ---
-title: "Bank Panic of 1907: Causes and Effects"
-description: "Explore the causes and effects of the Bank Panic of 1907 to gain insights into financial crises and understand the evolution of modern economic resilience."
+title: The Essential Guide to Understanding the Bank Panic of 1907
+description: Bank Panic of 1907 revealed the dangers of unchecked speculation and
+  lack of a central bank sparking reforms in financial regulation. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "AQR Capital"
-description: AQR Capital Management stands at the forefront of algorithmic trading, seamlessly blending quantitative research with state-of-the-art technology to optimize investment strategies. Founded in 1998, AQR leverages sophisticated mathematical models and data-driven insights to enhance trading efficiency and manage risks effectively. With a diverse global client base, AQR's algorithmic trading approach integrates systematic, research-driven decisions to improve performance outcomes and portfolio diversification. This article investigates into AQR's innovative methodologies, highlighting their impact on modern investment strategies and their potential to reshape the future of financial markets.
+title: Ultimate Guide to AQR Capital Quantitative Investing Strategies
+description: AQR Capital leverages quantitative research and diversified strategies
+  to optimize risk and returns for global clients Discover more inside.
 ---
 
 

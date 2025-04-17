@@ -1,6 +1,7 @@
 ---
-title: "Absolute Value: Overview and Calculation Methods"
-description: "Explore absolute value in algorithmic trading as a key mathematical concept enhancing financial strategies by focusing on intrinsic asset value amidst market volatility."
+title: Ultimate Guide to Absolute Value in Math and Finance
+description: Absolute value covers definitions and advanced finance uses including
+  discounted cash flow models and algorithmic trading Discover more inside
 ---
 
 

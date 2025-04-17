@@ -1,6 +1,7 @@
 ---
-title: "Analysis of Mid-Cap Stocks"
-description: "Explore the potential of mid-cap stocks in a diversified portfolio by analyzing their profitability growth and financial health through algorithmic trading strategies."
+title: Proven Guide to Investing in Mid-Cap Stocks for Growth
+description: Mid-cap stocks offer a balanced mix of growth and stability with proven
+  metrics and strategies to optimize your portfolio. Discover more inside.
 ---
 
 

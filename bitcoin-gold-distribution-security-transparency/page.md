@@ -1,6 +1,7 @@
 ---
-title: "Bitcoin Gold: Distribution, Security, and Transparency"
-description: "Explore Bitcoin Gold and its role in cryptocurrency with insights on distribution, security, transparency, and considerations in algorithmic trading strategies."
+title: Essential Guide to Bitcoin Gold Mining Security and Transparency
+description: Bitcoin Gold empowers individual miners with GPU friendly Equihash to
+  secure decentralized transactions and transparent governance Discover more inside.
 ---
 
 

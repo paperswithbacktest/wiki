@@ -1,6 +1,7 @@
 ---
-title: "Active Share: Definition and Mechanism"
-description: "Explore active share in investment strategies and algorithmic trading's role in enhancing portfolio management, focusing on returns and risk minimization."
+title: Ultimate Guide to Active Share for Informed Investors
+description: Active Share reveals how a fund differs from its benchmark and shows
+  if managers justify active fees while guiding portfolio choices Discover more inside.
 ---
 
 

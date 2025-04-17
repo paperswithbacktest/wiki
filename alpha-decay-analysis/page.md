@@ -1,6 +1,7 @@
 ---
-title: "alpha decay analysis"
-description: "Discover the essential dynamics of alpha decay in algorithmic trading Analyze how predictive power diminishes over time and adapt strategies to stay competitive"
+title: Essential Insights Into Alpha Decay in Quantitative Trading
+description: Alpha Decay in quantitative trading cuts returns as signals lose power
+  to fast market efficiency Adapt strategies for timely execution Discover more inside
 ---
 
 

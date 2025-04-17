@@ -1,6 +1,7 @@
 ---
-title: "Bank Bill Swap Rate: Meaning, Calculation, and Example"
-description: "Discover the significance of the Bank Bill Swap Rate (BBSR) in Australian markets, its calculation, and its crucial role in algorithmic trading strategies."
+title: Essential Guide to Understanding Bank Bill Swap Rate
+description: Bank Bill Swap Rate sets fair short-term loan benchmarks in Australia
+  by averaging trimmed bank rates reflecting market conditions Discover more inside.
 ---
 
 

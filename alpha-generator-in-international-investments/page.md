@@ -1,6 +1,7 @@
 ---
-title: "Alpha Generator in International Investments"
-description: "Explore the pivotal role of alpha in international investments and algorithmic trading as a means to maximize portfolio returns beyond market benchmarks."
+title: Insider Alpha Generation Strategies for International Investments
+description: Alpha generation in international investments reveals strategies to outperform
+  markets with data analytics, AI and currency hedging Discover more inside.
 ---
 
 

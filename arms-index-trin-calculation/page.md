@@ -1,6 +1,7 @@
 ---
-title: "Arms Index (TRIN) Calculation"
-description: "Explore the Arms Index (TRIN) calculation a key technical indicator in trading that analyzes stock market dynamics through price and volume to guide decisions."
+title: Ultimate Arms Index TRIN Guide to Decoding Market Sentiment
+description: Arms Index gauges market sentiment by comparing advancing and declining
+  stock volumes to highlight bullish or bearish signals Discover more inside
 ---
 
 

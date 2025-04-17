@@ -1,6 +1,7 @@
 ---
-title: "Accelerated Return Note: Overview and Function"
-description: "Explore the dynamics of Accelerated Return Notes in algo trading Discover how these structured products offer potential high returns linked to market indices"
+title: Ultimate Investor Guide to Accelerated Return Notes
+description: Accelerated Return Note investments offer potential for faster earnings
+  linked to market performance while outlining risks and terms. Discover more inside.
 ---
 
 

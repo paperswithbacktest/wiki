@@ -1,6 +1,7 @@
 ---
-title: "Bakkt: Cryptocurrency and Digital Asset Platform"
-description: "Explore Bakkt's innovative platform leading the way in digital asset trading with secure custody, algorithmic trading, and strategic partnerships for seamless transactions."
+title: Essential Bakkt Platform for Secure Cryptocurrency Trading
+description: Bakkt bridges finance and cryptocurrency with a secure platform for trading
+  custody and converting assets with institutional security Discover more inside
 ---
 
 

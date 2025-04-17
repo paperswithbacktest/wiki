@@ -1,6 +1,7 @@
 ---
-title: "American Petroleum Institute: Overview and Functions"
-description: "Explore how the American Petroleum Institute sets industry standards and how algorithmic trading transforms modern oil markets for efficiency and safety."
+title: Insider Look at American Petroleum Institute Standards and Impact
+description: American Petroleum Institute sets safety standards policy and research
+  support to help oil and gas companies ensure compliance Discover more inside.
 ---
 
 

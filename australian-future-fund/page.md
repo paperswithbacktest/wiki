@@ -1,6 +1,7 @@
 ---
-title: "Australian Future Fund"
-description: "Explore the Australian Future Fund's use of algorithmic trading to enhance investment performance and financial security for the nation through strategic management."
+title: Insider Insights Into Australian Future Fund Investments
+description: Australian Future Fund explains how diversified investments grow to secure
+  public servants pensions and boost the economy Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Auto-Regressive Model (Machine Learning)"
-description: "Explore the fundamentals of Auto-Regressive models in machine learning used for predicting future values by analyzing past data with simplified formulas."
+title: Essential Guide to Auto-Regressive Models in Machine Learning
+description: Auto-Regressive Model offers a clear approach to forecasting time series
+  by analyzing past values for reliable predictions Discover more inside
 ---
 
 ![Image](images/1.png)

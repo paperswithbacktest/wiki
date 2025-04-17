@@ -1,6 +1,7 @@
 ---
-title: "Asset Allocation Fund: Overview and Types"
-description: "Discover the fundamentals of asset allocation and types of funds, including mutual funds and ETFs, with insights into modern algorithmic trading strategies."
+title: Essential Guide to Asset Allocation Funds for Investors
+description: Asset allocation funds invest in stocks bonds and cash to balance risk
+  and returns and match your goals with professional guidance Discover more inside
 ---
 
 

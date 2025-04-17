@@ -1,6 +1,7 @@
 ---
-title: "Advance/Decline Ratio: Mechanism and Examples"
-description: "Explore the mechanics and importance of the Advance/Decline Ratio in algorithmic trading Learn how ADR helps decipher market sentiment and improve trading strategies"
+title: Essential Guide to Advance/Decline Ratio Market Analysis
+description: Advance/Decline Ratio offers a clear snapshot of market breadth and sentiment
+  so investors can make informed buy or sell decisions Discover more inside.
 ---
 
 

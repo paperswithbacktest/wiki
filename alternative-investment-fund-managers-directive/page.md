@@ -1,6 +1,7 @@
 ---
-title: "Alternative Investment Fund Managers Directive"
-description: "Explore the regulatory landscape of AIFMD and its impact on algorithmic trading in alternative investment funds ensuring market integrity and investor protection."
+title: Essential AIFMD Compliance Guide for Alternative Fund Managers
+description: AIFMD compliance streamlines licensing reporting and risk management
+  to protect investors and unify the EU alternative fund market Discover more inside.
 ---
 
 

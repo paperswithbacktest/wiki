@@ -1,6 +1,7 @@
 ---
-title: "Above the Market: Concepts and Examples"
-description: "Discover how algorithmic trading is reshaping financial markets by integrating economic strategies and business tactics for enhanced trading efficiency and insights."
+title: Ultimate Algorithmic Trading Strategies for Above Market Returns
+description: Algorithmic trading strategies deliver above market returns with trend
+  following arbitrage and machine learning to guide investments Discover more inside
 ---
 
 

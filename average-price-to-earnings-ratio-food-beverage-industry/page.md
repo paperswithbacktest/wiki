@@ -1,6 +1,7 @@
 ---
-title: "Average Price-to-Earnings Ratio in Food and Beverage Industry"
-description: "Explore how the Price-to-Earnings (P/E) ratio aids in evaluating companies in the dynamic food and beverage industry with the rise of algorithmic trading."
+title: Insider Guide to P/E Ratio in Food and Beverage Industry
+description: P/E ratio in the food and beverage industry shows how investors price
+  earnings against growth trends and sector benchmarks Discover more inside
 ---
 
 

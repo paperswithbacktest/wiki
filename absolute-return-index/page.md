@@ -1,6 +1,7 @@
 ---
-title: "Absolute Return Index"
-description: "Explore the world of absolute return index and algorithmic trading to gain insights into maximizing returns and enhancing trading efficiency in dynamic markets."
+title: Essential Guide to Understanding the Absolute Return Index
+description: Absolute Return Index highlights how investors secure positive returns
+  in any market by active diversification and risk management. Discover more inside.
 ---
 
 

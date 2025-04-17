@@ -1,6 +1,7 @@
 ---
-title: "Big Mac Index: Overview, Calculations, and Disadvantages"
-description: "Explore the Big Mac Index to understand purchasing power parity and currency valuation. Learn its impact on trading strategies and unveil its inherent limitations."
+title: Ultimate Guide to the Big Mac Index and Currency Valuation
+description: Big Mac Index uses global burger prices to reveal currency valuation
+  gaps and purchasing power differences in an accessible way Discover more inside.
 ---
 
 

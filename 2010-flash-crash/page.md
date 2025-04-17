@@ -1,6 +1,7 @@
 ---
-title: "2010 flash crash"
-description: The 2010 Flash Crash was a turning point in finance, revealing the risks and intricacies of modern trading systems. On May 6, 2010, the Dow Jones plummeted nearly 1,000 points in minutes, spotlighting the impact of high-frequency and algorithmic trading. These automated systems, while offering speed and efficiency, can also heighten market volatility. Our article investigates into the causes, effects, and regulatory responses to the crash, highlighting the delicate balance needed between technological advancement and market stability.
+title: Essential Guide To The 2010 Flash Crash And Market Reforms
+description: 2010 Flash Crash exposed high-frequency trading risks and prompted circuit
+  breakers and limit up-limit down rules to stabilize markets Discover more inside
 ---
 
 ![Image](images/1.png)

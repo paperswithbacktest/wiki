@@ -1,6 +1,7 @@
 ---
-title: "Binning (Machine Learning)"
-description: "Binning is a machine learning technique that simplifies data by grouping continuous values into categories or bins facilitating easier analysis and modeling."
+title: Essential Machine Learning Binning Techniques for Better Models
+description: Machine learning binning groups continuous variables into discrete categories
+  to boost model accuracy and handle outliers Discover more inside
 ---
 
 ![Image](images/1.png)

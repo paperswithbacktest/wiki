@@ -1,6 +1,7 @@
 ---
-title: "Assessment of Inherent Risk by Auditors"
-description: "Auditors assess inherent risks in algorithmic trading by evaluating control effectiveness to ensure systems align with regulatory standards and operate safely."
+title: Essential Guide to Inherent Risk in Auditing Practices
+description: Inherent risk in auditing identifies areas prone to material errors so
+  auditors can focus testing and improve reporting Discover more inside
 ---
 
 

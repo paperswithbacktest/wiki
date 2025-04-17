@@ -1,6 +1,7 @@
 ---
-title: "All-Ordinaries Index Overview"
-description: "Explore the All-Ordinaries Index and the impact of algorithmic trading on the Australian market highlighting market dynamics trends and trading efficiencies."
+title: Essential All-Ordinaries Index Guide For Australian Investors
+description: All-Ordinaries Index shows Australian top 500 stocks with strategies
+  to assess market health and boost portfolio returns Discover more inside.
 ---
 
 

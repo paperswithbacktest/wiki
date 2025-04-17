@@ -1,6 +1,7 @@
 ---
-title: "Area Under The Roc Curve (Machine Learning)"
-description: "Explore the Receiver Operating Characteristic (ROC) curve and the importance of the Area Under the Curve (AUC) in assessing the performance of binary classifiers."
+title: Ultimate Guide to ROC Curve and AUC Performance Metrics
+description: ROC curve and AUC explain how classifiers balance sensitivity and specificity
+  across thresholds with Python examples and advanced tips Discover more inside
 ---
 
 ![Image](images/1.png)

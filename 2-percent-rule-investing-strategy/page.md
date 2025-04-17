@@ -1,6 +1,7 @@
 ---
-title: "2% Rule as an Investing Strategy"
-description: "Discover the 2% rule and algo trading's impact on investment strategy aimed at optimizing risk management and enhancing your portfolio performance."
+title: Essential Guide to the 2% Rule for Investment Risk Management
+description: 2% Rule guides investors to risk only 2 percent per trade while preserving
+  capital and promoting disciplined portfolio growth Discover more inside.
 ---
 
 ![Image](images/1.png)

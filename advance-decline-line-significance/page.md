@@ -1,6 +1,7 @@
 ---
-title: "Advance/Decline Line and Its Significance"
-description: "Discover the significance of the Advance/Decline Line in algorithmic trading and how it aids in assessing market breadth and sentiment."
+title: Essential Advance/Decline Line Analysis for Market Breadth
+description: Advance/Decline Line measures market health by tracking advancing versus
+  declining stocks daily to reveal trends and divergences Discover more inside
 ---
 
 

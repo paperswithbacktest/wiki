@@ -1,6 +1,7 @@
 ---
-title: "Advantages of Foreign Portfolio Investment"
-description: "Discover the benefits of Foreign Portfolio Investment (FPI) in global diversification. Learn how algorithmic trading enhances strategic financial opportunities."
+title: Essential Guide to Foreign Portfolio Investment Strategies
+description: Foreign portfolio investment helps investors diversify and mitigate market
+  and currency risks with hedging and international assets Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "ABX Index: Function and Mechanism"
-description: "Explore the synergy between the ABX Index, a key MBS market indicator, and algorithmic trading, highlighting their roles in modern investment strategies."
+title: Essential Guide to the ABX Index for Subprime Market Insights
+description: ABX Index tracks subprime mortgage CDS performance to reveal market risk
+  levels and trends for informed investment decisions Discover more inside
 ---
 
 

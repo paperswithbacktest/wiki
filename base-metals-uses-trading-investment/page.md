@@ -1,6 +1,7 @@
 ---
-title: "Base Metals: Uses, Trading, and Investment"
-description: "Explore the essentials of base metal investment trading and algo strategies Learn their critical industrial role and uncover potential in economic growth"
+title: The Essential Guide to Base Metals Trading and Investment
+description: Base metals power industries from construction to green technology offering
+  essential insights on uses risks and proven market trends Discover more inside.
 ---
 
 

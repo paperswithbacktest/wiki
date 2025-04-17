@@ -1,6 +1,7 @@
 ---
-title: "Bancor: Overview, Purpose, and Criticisms"
-description: "Explore Bancor's transformative role in decentralized finance and algorithmic trading while understanding its innovations, challenges, and impact on the crypto ecosystem."
+title: Essential Guide to Bancor Automated Market Maker Platform
+description: Bancor simplifies crypto trading with automated market makers and BNT
+  tokens that deliver stable liquidity and fair pricing Discover more inside.
 ---
 
 

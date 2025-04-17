@@ -1,6 +1,7 @@
 ---
-title: "Autoregressive Moving Average (ARMA) Models for Time Series Analysis"
-description: Explore the application of ARMA models in algorithmic trading to enhance strategy development by understanding autocorrelations in time series data. Learn how ARMA helps predict market behaviors crucial for executing profitable trades and optimizing risk management.
+title: Essential Guide to ARMA Models for Time Series Forecasting
+description: ARMA model forecasts use past values and errors to improve time series
+  predictions with optimized parameters and validation Discover more inside
 ---
 
 

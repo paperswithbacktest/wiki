@@ -1,6 +1,7 @@
 ---
-title: "Active Risk: Concepts, Calculations, and Examples"
-description: "Explore key concepts of active risk in algo trading including portfolio deviations from benchmarks security selection market timing and risk management."
+title: Ultimate Guide to Managing Active Risk in Investment Portfolios
+description: Active Risk helps investors measure and manage portfolio deviations from
+  benchmarks using tracking error and information ratio Discover more inside.
 ---
 
 

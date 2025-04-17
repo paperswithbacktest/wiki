@@ -1,6 +1,7 @@
 ---
-title: "Advantages and Disadvantages of Preference Shares"
-description: "Explore the pros and cons of preference shares, highlighting their fixed dividends, priority claims, lack of voting rights, and sensitivity to interest rates."
+title: Essential Guide to Preference Shares for Smart Investors
+description: Preference shares deliver priority dividends and enhanced security compared
+  to common equity while covering types risks and rewards. Discover more inside.
 ---
 
 

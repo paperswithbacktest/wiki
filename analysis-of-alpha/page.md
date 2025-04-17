@@ -1,6 +1,7 @@
 ---
-title: "Analysis of Alpha"
-description: "Explore how Alpha Finance leverages cutting-edge algorithmic trading to enhance performance and optimize investments in fast-paced financial markets."
+title: The Essential Guide to Alpha in Investment Performance
+description: Alpha helps investors evaluate returns versus benchmarks by revealing
+  true added value risk trade offs and guiding decisions Discover more inside.
 ---
 
 

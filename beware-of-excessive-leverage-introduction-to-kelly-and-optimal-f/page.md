@@ -1,6 +1,7 @@
 ---
-title: "Beware of Excessive Leverage – Introduction to Kelly and Optimal F"
-description: Maximize your investment strategy's success with insights into optimal position sizing using the Kelly Criterion and Optimal F. This article provides an introduction to managing investment risks and growing capital by avoiding excessive leverage. Learn how these methodologies can guide you in determining strategic asset allocation to enhance long-term financial growth. Understand the importance of cautious application to avoid significant drawdowns and discover practical examples that illustrate their impact.
+title: Essential Guide to Leverage and the Kelly Criterion in Investing
+description: Kelly Criterion and leverage strategies help investors optimize borrowed
+  capital growth while minimizing risk in volatile markets Discover more inside
 ---
 
 

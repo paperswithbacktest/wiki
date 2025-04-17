@@ -1,6 +1,7 @@
 ---
-title: "Anchoring Effect in Investment Strategies"
-description: "Explore how anchoring bias impacts investment strategies and algorithmic trading, and discover methods to mitigate its effects for optimal financial outcomes."
+title: Essential Insights Into the Anchoring Effect in Investments
+description: Anchoring Effect in Investments can skew decisions by focusing on initial
+  data with strategies to avoid bias and broaden perspective Discover more inside
 ---
 
 

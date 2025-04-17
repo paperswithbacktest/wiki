@@ -1,6 +1,7 @@
 ---
-title: "Agio: Meaning, Mechanism, and Impact on Bond Values"
-description: "Explore the meaning of agio and its impact on bond values in this comprehensive guide to bond trading and valuation with algorithmic trading insights."
+title: Essential Guide to Agio in Bond Trading and Pricing
+description: Agio in bond trading explains the premium you pay above face value and
+  shows its impact on yield market factors and tax implications Discover more inside.
 ---
 
 

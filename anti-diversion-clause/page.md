@@ -1,6 +1,7 @@
 ---
-title: "Anti-Diversion Clause"
-description: "Explore the significance of anti-diversion clauses in algorithmic trading and trade compliance to prevent unauthorized redirection and enhance legal adherence."
+title: "Essential Guide to Anti\u2011Diversion Clauses in Contracts"
+description: Anti-Diversion Clause safeguards your partnerships by defining clear
+  rules and consequences for fair business conduct and trust. Discover more inside.
 ---
 
 

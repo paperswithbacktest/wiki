@@ -1,6 +1,7 @@
 ---
-title: "BATS Exchange - Explore BATS Global Markets' Journey"
-description: "Explore BATS Global Markets' journey from an alternative trading system to a key player in algorithmic trading and its impact on modern financial markets."
+title: Essential Guide to BATS Exchange and Its Market Innovations
+description: BATS Exchange redefined stock trading with lower fees faster electronic
+  platforms and expanded ETF and options markets Discover more inside today
 ---
 
 

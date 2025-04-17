@@ -1,6 +1,7 @@
 ---
-title: "Ability of Individual Investors to Outperform the Market"
-description: "Discover how individual investors can leverage algorithmic trading to potentially outperform the market exploring strategies and the impacts of emotional biases."
+title: Essential Guide for Individual Investors to Outperform the Market
+description: Individual investors gain proven insights on outperforming the market
+  with disciplined strategies low fees and data driven tools Discover more inside
 ---
 
 

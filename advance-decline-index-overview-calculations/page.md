@@ -1,6 +1,7 @@
 ---
-title: "Advance/Decline Index: Overview and Calculations"
-description: "Explore the Advance/Decline Index and learn its significance in algorithmic trading. Understand market momentum by tracking advancing vs. declining stocks."
+title: Essential Guide to the Advance/Decline Index for Investors
+description: Advance/Decline Index delivers a clear snapshot of market breadth so
+  you can gauge overall trend strength before trading stocks Discover more inside.
 ---
 
 

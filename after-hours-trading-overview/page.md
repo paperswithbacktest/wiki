@@ -1,6 +1,7 @@
 ---
-title: "After-Hours Trading Overview"
-description: "Discover the world of after-hours trading where you can engage in stock transactions outside traditional hours optimize your strategy with insights into its benefits and risks and explore the role algorithmic trading plays in this unique market environment"
+title: Essential Guide to After-Hours Trading Risks and Rewards
+description: After-hours trading lets you seize market-moving news outside regular
+  hours with limit orders and trusted brokers while managing risk Discover more inside
 ---
 
 

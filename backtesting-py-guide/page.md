@@ -1,6 +1,7 @@
 ---
-title: "Backtesting.py Guide"
-description: Discover how backtesting enhances algorithmic trading by using historical data to assess trading strategies before real-world application. Learn about Python's role in streamlining this process with its user-friendly syntax and powerful libraries for data manipulation and visualization. This guide covers the essentials of backtesting, the advantages of Python, strategy development steps, and transitioning from simulation to live trading, offering insights into maximizing trading success while minimizing risk.
+title: Essential Guide to Backtesting.py for Effective Strategy Testing
+description: Backtesting.py helps traders validate and refine strategies on historical
+  market data to improve performance and reduce risk. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Appropriated Retained Earnings: Concept and Examples"
-description: "Explore appropriated retained earnings and algorithmic trading in finance. Understand their role in financial planning and enhancing investor strategies."
+title: Essential Guide to Appropriating Retained Earnings
+description: Retained earnings explain how firms save profits and earmark funds for
+  future growth through appropriation strategies detailed Discover more inside
 ---
 
 

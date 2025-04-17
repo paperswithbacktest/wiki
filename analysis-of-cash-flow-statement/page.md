@@ -1,6 +1,7 @@
 ---
-title: "Analysis of Cash Flow Statement"
-description: "Explore the vital role of cash flow statements in algorithmic trading and financial analysis to optimize trading strategies and improve portfolio management."
+title: Essential Cash Flow Statement Guide for Financial Analysis
+description: Cash Flow Statement reveals how cash moves through business operations
+  investing and financing activities for better decisions Discover more inside.
 ---
 
 

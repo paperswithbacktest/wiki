@@ -1,6 +1,7 @@
 ---
-title: "Adjusted Gross Margin: Overview and Calculation"
-description: "Explore how adjusted gross margin refines algo trading by incorporating inventory costs for deeper profitability insights ensuring informed and strategic decision-making."
+title: Essential Guide to Adjusted Gross Margin for Profit Clarity
+description: Adjusted Gross Margin provides a clearer view of profitability by excluding
+  one-time costs, carrying costs, and unusual charges Discover more inside.
 ---
 
 

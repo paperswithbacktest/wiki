@@ -1,6 +1,7 @@
 ---
-title: "Algorithmic Trading: Concepts and Examples"
-description: "Discover algorithmic trading its role in modern finance and how it automates trading for speed and accuracy Learn the strategies and tools used for success"
+title: Essential Guide to Algorithmic Trading Systems and Strategies
+description: Algorithmic trading automates decisions with data signals risk controls
+  and execution speed to boost efficiency and reduce bias Discover more inside.
 ---
 
 

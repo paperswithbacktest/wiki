@@ -1,6 +1,7 @@
 ---
-title: "Aspect Capital"
-description: "Explore the dynamic world of algorithmic trading with Aspect Capital, a leader in quantitative investing using advanced algorithms for optimized investment returns."
+title: Ultimate Guide to Aspect Capital Systematic Trading Strategies
+description: Aspect Capital uses systematic trading and advanced algorithms to uncover
+  market patterns and manage risk for steady client returns Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Average Qualitative Opinion"
-description: "Discover the Average Qualitative Opinion (AQO) a novel tool in algorithmic trading that blends qualitative insights with quantitative data for enhanced trading decisions."
+title: Essential Guide To Average Qualitative Opinion Analysis
+description: Average Qualitative Opinion uses thematic analysis to transform subjective
+  feedback into clear insights for better decision making Discover more inside.
 ---
 
 

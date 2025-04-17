@@ -1,6 +1,7 @@
 ---
-title: "Auction Rate Securities: Overview, History, and Market Collapse"
-description: "Explore the rise and fall of auction rate securities with insights into their market collapse in 2008 and the impact of algorithmic trading on financial stability."
+title: Essential Insider Guide to Auction Rate Securities Market
+description: Auction Rate Securities offer investors insight into short term interest
+  resets and liquidity risks with benefits and risks explained Discover more inside.
 ---
 
 

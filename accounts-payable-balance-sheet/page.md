@@ -1,6 +1,7 @@
 ---
-title: "Accounts Payable on the Balance Sheet"
-description: "Explore the interplay between accounts payable and algorithmic trading on the balance sheet to understand financial health and strategic investment insights."
+title: Comprehensive Guide to Accounts Payable Management
+description: Accounts payable management streamlines cash flow and supplier relations
+  through clear processes strategies and analytics Discover more inside.
 ---
 
 

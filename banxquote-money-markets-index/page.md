@@ -1,6 +1,7 @@
 ---
-title: "BanxQuote Money Markets Index"
-description: "Explore the BanxQuote Money Markets Index's role in algorithmic trading Discover how it aids traders by providing insights into short-term interest rates and trends"
+title: Essential Guide to the BanxQuote Money Markets Index
+description: BanxQuote Money Markets Index tracks bank money market rates to help
+  you compare interest yields and make smarter savings choices Discover more inside.
 ---
 
 

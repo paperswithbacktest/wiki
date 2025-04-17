@@ -1,6 +1,7 @@
 ---
-title: "Benefits and Location of Investment Clubs"
-description: "Explore the benefits of investment clubs and how they enhance opportunities through pooled resources diversified portfolios and integration of algorithmic trading."
+title: Essential Guide to Investment Clubs for Beginners
+description: Investment club membership helps beginners pool resources learn from
+  peers and diversify their portfolio in a collaborative setting. Discover more inside.
 ---
 
 

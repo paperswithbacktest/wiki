@@ -1,6 +1,7 @@
 ---
-title: "Arbitrage Mutual Funds: Overview and Analysis"
-description: "Explore arbitrage mutual funds through the lens of algo trading to understand investment strategies, risks, and profit opportunities for optimized returns."
+title: Essential Guide to Arbitrage Mutual Funds for Steady Returns
+description: Arbitrage mutual funds generate steady gains by exploiting small price
+  gaps in stocks and futures with less risk than equity funds Discover more inside
 ---
 
 

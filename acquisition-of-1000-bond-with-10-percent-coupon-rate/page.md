@@ -1,6 +1,7 @@
 ---
-title: "Acquisition of a $1,000 Bond With a 10% Coupon Rate"
-description: "Understand the dynamics of acquiring a $1000 bond with a 10% coupon rate in the context of algorithmic trading to optimize investment strategies effectively."
+title: Essential Guide to Bond Investing and Coupon Rate Basics
+description: Bond investing covers coupon rates yield to maturity market price impact
+  and tax implications to guide confident decisions Discover more inside
 ---
 
 

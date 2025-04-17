@@ -1,6 +1,7 @@
 ---
-title: "American Funds Investment Company of America Overview"
-description: "Discover how American Funds’ AIVSX integrates algorithmic trading for enhanced investment strategies, optimizing performance and fostering growth through technology."
+title: Essential Guide to American Funds Investment Company of America
+description: American Funds Investment Company of America offers long term growth
+  with proven risk management and flexible investment options Discover more inside
 ---
 
 

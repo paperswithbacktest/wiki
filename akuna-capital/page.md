@@ -1,6 +1,7 @@
 ---
-title: "Akuna Capital"
-description: "Discover Akuna Capital and its role in shaping the future of options market making with cutting-edge algorithmic trading strategies and tech innovation."
+title: Essential Insights Into Akuna Capital Trading Innovations
+description: Akuna Capital leverages advanced technology and expert risk management
+  to streamline market making and proprietary trading globally Discover more inside.
 ---
 
 

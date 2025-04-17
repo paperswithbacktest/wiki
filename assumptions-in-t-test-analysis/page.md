@@ -1,6 +1,7 @@
 ---
-title: "Assumptions in T-Test Analysis"
-description: "Explore the critical assumptions necessary for the valid application of t-tests in algorithmic trading ensuring robust statistical analysis for strategic decisions."
+title: The Essential Guide to T-Test Assumptions in Statistical Analysis
+description: T-Test Assumptions ensure your statistical comparisons are valid by guiding
+  checks for normality independence and equal variances. Discover more inside.
 ---
 
 

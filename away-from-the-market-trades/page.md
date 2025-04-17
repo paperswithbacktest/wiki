@@ -1,6 +1,7 @@
 ---
-title: "Away-from-the-Market Trades"
-description: "Explore the world of algorithmic trading, market strategies, and financial markets dynamics. Learn how technology enhances trading efficiency and profitability."
+title: Essential Guide to Away-From-the-Market Trades for Investors
+description: Away-from-the-market trades let large investors buy and sell shares privately
+  at negotiated prices to minimize market impact. Discover more inside.
 ---
 
 

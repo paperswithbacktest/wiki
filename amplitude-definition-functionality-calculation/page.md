@@ -1,6 +1,7 @@
 ---
-title: "Amplitude: Definition, Functionality, and Calculation"
-description: "Gain insights into amplitude in algorithmic trading Understand how amplitude calculations predict market behavior and enhance trade execution strategies for success."
+title: Essential Guide to Amplitude Measurement and Wave Behavior
+description: Amplitude insights span water sound and light waves to explain measurement
+  techniques impact on energy and engineering applications Discover more inside.
 ---
 
 

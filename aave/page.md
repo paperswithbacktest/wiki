@@ -1,6 +1,7 @@
 ---
-title: "Aave"
-description: "Explore the innovative world of decentralized finance with Aave, a leading DeFi platform that revolutionizes crypto lending and borrowing. Harnessing blockchain technology and smart contracts, Aave offers features like Flash Loans for instant, unsecured borrowing and overcollateralized loans for safeguarding lenders. Simultaneously, the rise of algorithmic trading enhances trading efficiency and precision, merging seamlessly with Aave's capabilities. Discover how Aave plays a pivotal role in optimizing investment strategies and maximizing yields in the evolving DeFi landscape."
+title: Ultimate Guide To Aave Crypto Lending And Borrowing
+description: Aave enables secure crypto lending and borrowing with automated smart
+  contracts so you earn interest or access liquidity. Discover more inside.
 ---
 
 

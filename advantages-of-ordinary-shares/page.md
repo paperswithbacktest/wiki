@@ -1,6 +1,7 @@
 ---
-title: "Advantages of Ordinary Shares"
-description: "Explore the advantages of ordinary shares in equity investment, including voting rights and potential returns, and the impact of algorithmic trading on efficiency."
+title: Essential Guide to Ordinary Shares for Professional Investors
+description: Ordinary shares offer investors voting power dividends and capital gains
+  while balancing risks with rewards in your portfolio Discover more inside
 ---
 
 

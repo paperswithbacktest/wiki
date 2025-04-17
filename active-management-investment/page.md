@@ -1,6 +1,7 @@
 ---
-title: "Active Management in Investment"
-description: "Active management in investment involves strategic asset decisions to surpass benchmarks using market research and analysis Learn the benefits and challenges"
+title: Ultimate Guide to Active Investment Management Strategies
+description: Active management in investment uses expert research and agile decisions
+  to outperform benchmarks and manage risks and costs Discover more inside.
 ---
 
 

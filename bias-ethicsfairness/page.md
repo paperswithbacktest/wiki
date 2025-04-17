@@ -1,6 +1,7 @@
 ---
-title: "Bias (Ethics/Fairness) (Machine Learning)"
-description: "Explore the concept of bias in machine learning uncover its impact on fairness and ethics and learn strategies to reduce it in models for more equitable outcomes"
+title: Essential Strategies for Mitigating Machine Learning Bias
+description: Machine Learning Bias skews model fairness and ethics by feeding on flawed
+  data and algorithms. Discover proven strategies to build fairer models inside.
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Basic Earnings Per Share (EPS): Formula and Example"
-description: "Explore the significance of Earnings Per Share (EPS) in investment strategies and algorithmic trading by understanding its calculation and market implications."
+title: Essential Guide to Understanding Basic Earnings Per Share EPS
+description: Basic Earnings Per Share EPS reveals net income divided by shares to
+  offer a clear profitability metric informs investor decisions Discover more inside.
 ---
 
 

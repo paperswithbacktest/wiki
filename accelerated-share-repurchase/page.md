@@ -1,6 +1,7 @@
 ---
-title: "Accelerated Share Repurchase"
-description: "Discover the strategy of Accelerated Share Repurchase to boost earnings per share and stock value learn its mechanics benefits and impact on investor confidence."
+title: Ultimate Guide To Accelerated Share Repurchase Mechanism
+description: Accelerated Share Repurchase allows companies to quickly reduce outstanding
+  shares, boost EPS and signal market confidence Discover more inside
 ---
 
 

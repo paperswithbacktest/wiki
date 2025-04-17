@@ -1,6 +1,7 @@
 ---
-title: "Arrowstreet Capital"
-description: Arrowstreet Capital is a leading investment management firm based in Boston, recognized for its sophisticated use of quantitative analysis and algorithmic trading to navigate global markets. With billions in assets under management, the firm delivers precise investment solutions by leveraging mathematical models and data-driven strategies. Known for its low-profile yet powerful presence, Arrowstreet maintains a 'black box' ethos, offering an air of exclusivity. Founded in 1999 by financial and academic leaders, it serves institutional clients with tailored solutions, emphasizing adaptability through advanced algorithmic approaches to overcome market challenges and achieve resilient performance.
+title: Essential Guide to Arrowstreet Capital Quantitative Investing
+description: Arrowstreet Capital uses advanced quantitative analysis and data-driven
+  models to optimize portfolios and grow client assets. Discover more inside.
 ---
 
 

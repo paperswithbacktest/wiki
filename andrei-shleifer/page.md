@@ -1,6 +1,7 @@
 ---
-title: "Andrei Shleifer"
-description: "Explore Andrei Shleifer's impact on financial economics focusing on his insights into algorithmic trading and behavioral finance revealing market behavior influences."
+title: "Essential Insights Into Andrei Shleifer\u2019s Law and Finance"
+description: Andrei Shleifer explores how robust legal systems and behavioral finance
+  shape economic growth and guide policy making. Discover more inside.
 ---
 
 

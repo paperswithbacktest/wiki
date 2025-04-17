@@ -1,6 +1,7 @@
 ---
-title: "Average Debt-to-Equity Ratio in the Wholesale Sector"
-description: "Explore the significance of debt-to-equity ratios in the wholesale sector and their impact on algorithmic trading strategies for better investment decisions."
+title: Essential Guide to Debt-to-Equity Ratio in the Wholesale Sector
+description: Debt-to-Equity ratio highlights how wholesale companies use debt and
+  equity to manage risk drive growth and navigate shifts Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "51% Attack: Risks, Examples, and Costs"
-description: "Explore the dynamics of 51% attacks on blockchain networks examining the risks and costs involved Discover preventive measures to safeguard against these threats."
+title: Essential Guide to Preventing Blockchain 51% Attacks
+description: 51% attack exposes blockchain network vulnerabilities and threatens transactions
+  Adopt consensus upgrades to protect your network Discover more inside
 ---
 
 ![Image](images/1.png)

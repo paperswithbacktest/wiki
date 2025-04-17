@@ -1,6 +1,7 @@
 ---
-title: "Behavioral Economics: Theories, Goals, and Applications"
-description: "Explore behavioral economics and its application to algorithmic trading through insights into cognitive biases and emotions influencing decision-making."
+title: Ultimate Behavioral Economics Insights for Better Decision Making
+description: Behavioral Economics explores how emotions habits and biases shape decisions
+  and offers nudges to improve choices and results Discover more inside
 ---
 
 

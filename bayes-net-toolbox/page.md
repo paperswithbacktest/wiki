@@ -1,6 +1,7 @@
 ---
-title: "Bayes Net toolbox"
-description: Explore the power of Bayesian networks in algorithmic trading with the Bayes Net Toolbox, designed to model complex market dependencies and uncertainties. Optimize trading strategies by leveraging probabilistic relationships, enabling enhanced decision-making and market forecasting. Ideal for financial analysis, the toolbox simplifies the creation and visualization of Bayesian networks, tackling challenges like non-stationarity and high-dimensional data, ultimately refining trading operations in competitive markets.
+title: Essential Bayes Net Toolbox Guide for Probabilistic Modeling
+description: Bayes Net toolbox lets you build and analyze Bayesian networks compute
+  outcome probabilities and guide informed decisions Discover more inside
 ---
 
 

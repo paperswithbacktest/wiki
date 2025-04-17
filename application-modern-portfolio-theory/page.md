@@ -1,6 +1,7 @@
 ---
-title: "Application of Modern Portfolio Theory"
-description: "Explore the synergy of Modern Portfolio Theory and algorithmic trading to optimize your investment strategy balancing risk, returns, and diversification."
+title: Essential Modern Portfolio Theory Guide for Optimal Investing
+description: Modern Portfolio Theory shows how to balance risk and return through
+  smart diversification and analytics to optimize your investments Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Asset-Backed Commercial Paper"
-description: "Explore asset-backed commercial paper and its role in short-term financing Discover how algorithmic trading impacts these securities and enhances market efficiency"
+title: The Essential Guide to Asset-Backed Commercial Paper
+description: Asset-Backed Commercial Paper provides secure short-term funding backed
+  by real assets while offering competitive yields for investors Discover more inside
 ---
 
 

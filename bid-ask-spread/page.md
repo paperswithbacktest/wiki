@@ -1,6 +1,7 @@
 ---
-title: "Bid–ask spread"
-description: Explore the intricacies of the bid-ask spread in algorithmic trading with this comprehensive analysis. Learn how this crucial financial concept impacts trading costs and strategies by highlighting the difference between the highest price a buyer will pay and the lowest a seller will accept. Delve into its role as a liquidity indicator, the implications in various markets like stocks, futures, and currency pairs, and its significance in high-frequency trading environments. Gain insights into liquidity's influence on the spread and differentiate between quoted, effective, and realized spreads to understand market behavior and optimize trade execution.
+title: Ultimate Guide to Bid-Ask Spread and Market Liquidity
+description: Bid-Ask Spread reveals trading costs and market liquidity so investors
+  can optimize trades with clear insights on spread calculation. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Accretion in Finance and Accounting"
-description: "Explore how accretion enhances financial strategies and algorithmic trading impacts markets by maximizing returns and optimizing investments through automation."
+title: Essential Guide to Accretion in Finance and Accounting
+description: Accretion in finance explains how discounted bonds and asset retirement
+  obligations increase in value and impact statements. Discover more inside
 ---
 
 

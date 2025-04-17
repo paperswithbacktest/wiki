@@ -1,6 +1,7 @@
 ---
-title: "Acquired Fund Fees and Expenses"
-description: "Explore Acquired Fund Fees and Expenses (AFFE) in multi-manager investments and algorithmic trading to understand their impact on cost efficiency and investment decisions."
+title: Essential Guide to Acquired Fund Fees and Expenses
+description: Acquired Fund Fees and Expenses add hidden costs that erode returns over
+  time We show how to compare funds and retain more gains Discover more inside
 ---
 
 

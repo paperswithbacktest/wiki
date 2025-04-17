@@ -1,6 +1,7 @@
 ---
-title: "Benefits of Master Limited Partnerships"
-description: "Explore the benefits of Master Limited Partnerships MLPs in algo trading. Discover their tax efficiency high yields and diversification potential in energy sectors."
+title: Ultimate Guide to Master Limited Partnerships for Investors
+description: Master Limited Partnerships offer tax efficient income and distributions
+  by passing earnings to unitholders avoiding double taxation Discover more inside
 ---
 
 

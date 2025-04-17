@@ -1,6 +1,7 @@
 ---
-title: "Balance of Payments in International Trade"
-description: "Understand the balance of payments and its links to international trade and algorithmic trading Key insights into economic stability and policies await readers"
+title: Essential Guide To Balance Of Payments Components And Impact
+description: Balance of Payments tracks all money flows from trade to investment to
+  show economic health and guide policy decisions Discover more inside.
 ---
 
 

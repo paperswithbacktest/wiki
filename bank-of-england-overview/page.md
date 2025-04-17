@@ -1,6 +1,7 @@
 ---
-title: "Bank of England Overview"
-description: "Explore how the Bank of England ensures financial stability in the UK and its pivotal role in regulating algorithmic trading within the modern financial ecosystem."
+title: "Essential Guide To The Bank Of England\u2019s Role In UK Economy"
+description: Bank of England controls interest rates gold reserves and oversees financial
+  stability to ensure a balanced UK economy. Discover more inside.
 ---
 
 

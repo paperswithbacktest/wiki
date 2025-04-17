@@ -1,6 +1,7 @@
 ---
-title: "Average Down Strategy"
-description: "Explore the average down strategy in algo trading, where investors buy more shares as prices drop, reducing cost per share and potentially boosting returns."
+title: Essential Guide to the Average Down Strategy in Investing
+description: Average Down Strategy helps investors lower average cost per share by
+  buying more at reduced prices while managing risk effectively Discover more inside.
 ---
 
 

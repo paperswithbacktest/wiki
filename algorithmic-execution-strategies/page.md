@@ -1,6 +1,7 @@
 ---
-title: "Algorithmic Execution Strategies"
-description: "Explore algorithmic execution strategies in trading that optimize performance using advanced algorithms for efficient market entry and risk mitigation."
+title: Essential Guide to Algorithmic Execution Strategies in Trading
+description: Algorithmic execution strategies split large orders into smaller trades
+  to reduce market impact and cut costs with optimized timing. Discover more inside.
 ---
 
 

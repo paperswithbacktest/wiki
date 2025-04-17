@@ -1,6 +1,7 @@
 ---
-title: "Above Full Employment Equilibrium"
-description: "Explore the complex interplay between full employment and economic equilibrium, examining how algorithmic trading influences labor markets and macroeconomic stability."
+title: Essential Guide to Managing Above Full Employment Equilibrium
+description: Above full employment equilibrium occurs when labor demand outstrips
+  supply leading to wage hikes and inflation pressures. Discover more inside
 ---
 
 

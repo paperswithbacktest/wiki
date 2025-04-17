@@ -1,6 +1,7 @@
 ---
-title: "Acid-Test Ratio"
-description: "Explore how the acid-test ratio, or quick ratio, enhances algorithmic trading strategies by assessing liquidity for better financial market decisions."
+title: Ultimate Guide to the Acid-Test Ratio for Financial Health
+description: Acid-Test Ratio reveals if a business can cover short-term obligations
+  without inventory reliance and explains calculation insights Discover more inside
 ---
 
 

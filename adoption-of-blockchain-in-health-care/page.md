@@ -1,6 +1,7 @@
 ---
-title: "Adoption of Blockchain in Health Care"
-description: "Explore how blockchain and algorithmic trading are transforming healthcare by enhancing data security, optimizing resources, and improving patient outcomes."
+title: Ultimate Guide to Blockchain Technology in Healthcare
+description: Blockchain technology improves health care data security interoperability
+  and supply chain transparency while cutting costs. Discover more inside
 ---
 
 

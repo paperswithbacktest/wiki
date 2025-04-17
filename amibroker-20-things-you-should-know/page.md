@@ -1,6 +1,7 @@
 ---
-title: "AmiBroker: 20 Things You Should Know"
-description: Discover the essential features of Amibroker for algorithmic trading and backtesting. Learn how this cost-effective, independent platform with sophisticated charting and backtesting capabilities can enhance your trading strategies. Ideal for both amateur and professional traders, this guide explores how Amibroker’s speed and efficiency can give you a competitive edge in the market.
+title: Ultimate AmiBroker Guide for Stock Analysis and Trading
+description: AmiBroker simplifies setup installation features and strategy backtesting
+  to optimize your stock analysis and trading performance Discover more inside.
 ---
 
 

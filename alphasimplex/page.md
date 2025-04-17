@@ -1,6 +1,7 @@
 ---
-title: "AlphaSimplex"
-description: "AlphaSimplex pioneers algorithmic trading, leveraging quantitative analysis and economic theory to optimize investment strategies in fast-paced financial markets."
+title: Insider Guide to Proven AlphaSimplex Investment Strategies
+description: AlphaSimplex applies quantitative analysis and risk management to grow
+  portfolios beyond benchmarks with diversified strategies Discover more inside
 ---
 
 

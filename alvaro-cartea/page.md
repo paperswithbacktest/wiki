@@ -1,6 +1,7 @@
 ---
-title: "Álvaro Cartea"
-description: "Explore the illustrious career of Álvaro Cartea in quantitative finance algorithmic trading and academia showcasing his pioneering work at institutions like Oxford."
+title: "Insider Insights Into \xC1lvaro Cartea Financial Mathematics"
+description: "\xC1lvaro Cartea brings financial mathematics and algorithmic trading\
+  \ expertise to guide smarter market decisions and strategies Discover more inside"
 ---
 
 

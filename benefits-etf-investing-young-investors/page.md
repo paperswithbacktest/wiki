@@ -1,6 +1,7 @@
 ---
-title: "Benefits of ETF Investing for Young Investors"
-description: "Discover how young investors can maximize their wealth with ETF investing and algorithmic trading. This article explores the benefits of these strategies, including cost-effective diversification and automated trading, enabling efficient risk management and potential growth in the fast-paced financial market."
+title: Essential ETF Investing for Young Investors and Portfolio Growth
+description: ETF Investing empowers young investors to diversify portfolios with low
+  fees liquidity and tax advantages for long term growth Discover more inside.
 ---
 
 

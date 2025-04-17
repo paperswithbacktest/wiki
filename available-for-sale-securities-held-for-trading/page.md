@@ -1,6 +1,7 @@
 ---
-title: "Available-for-Sale Securities vs. Held-for-Trading Securities"
-description: "Explore the key distinctions between Available-for-Sale and Held-for-Trading securities to enhance your trading strategy and align with financial objectives."
+title: Proven Essentials of Available-For-Sale and Trading Securities
+description: Available-for-sale securities classification shows unrealized gains in
+  equity while trading securities alter net income immediately Discover more inside.
 ---
 
 

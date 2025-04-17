@@ -1,6 +1,7 @@
 ---
-title: "Bitcoin Classic: Functionality and Implications"
-description: "Explore Bitcoin Classic and its role in addressing Bitcoin's scalability issues through increased block size aiding algo trading with enhanced transaction capacity."
+title: Insider Guide to Bitcoin Classic Scalability Benefits
+description: Bitcoin Classic boosts block size to 8MB for faster transactions while
+  weighing security tradeoffs to guide informed decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Bid Wanted: Meaning, Mechanism, and Abusive Practices"
-description: "Explore the mechanics of bid wanted announcements in algo trading along with the potential risks and benefits Understand how these practices impact market dynamics"
+title: Essential Guide to Bid Wanted Auctions in Financial Markets
+description: Bid Wanted in financial markets lets sellers gauge market value by inviting
+  competing bids to secure optimal prices efficiently. Discover more inside.
 ---
 
 

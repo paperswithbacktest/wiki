@@ -1,6 +1,7 @@
 ---
-title: "A. Michael Spence: Biography, Achievements, FAQs"
-description: "Explore A. Michael Spence's contributions to economics including his work on market signaling and asymmetric information and its relevance to algorithmic trading."
+title: Ultimate Guide To A. Michael Spence Signaling Theory
+description: A. Michael Spence Signaling Theory reveals how education signals skills
+  to employers and shapes economic policy and job markets. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Arguments for Privatizing Public Goods"
-description: "Explore the impact of privatization and algorithmic trading in shaping modern economics with insights on efficiency, market integrity, and societal equity."
+title: Essential Implications of Privatization of Public Goods
+description: Privatization of public goods can boost efficiency and spark innovation
+  but may limit access and equity for some users Discover more inside.
 ---
 
 

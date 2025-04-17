@@ -1,6 +1,7 @@
 ---
-title: "Basic Attention Token and Consumer Tracking"
-description: "Explore the transformative impact of Basic Attention Token in digital advertising and its innovative use of blockchain for secure consumer tracking and algorithmic trading."
+title: Essential Guide to Basic Attention Token Consumer Tracking
+description: Basic Attention Token rewards users for viewing ads while protecting
+  privacy and boosting ad relevance for advertisers. Discover more inside.
 ---
 
 

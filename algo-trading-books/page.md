@@ -1,6 +1,7 @@
 ---
-title: "The Definitive Collection of Algo Trading Books"
-description: Discover the best books on Algorithmic Trading, covering market microstructure basics, statistics and econometrics, technical analysis, machine learning, and real-world strategy implementation. From beginners to advanced traders, find invaluable insights into the world of algo trading with our curated list.
+title: Ultimate Guide to Algorithmic Trading Books for Every Trader
+description: Algorithmic trading books for every skill level offer expert strategies
+  psychology insights and guides to build trading systems Discover more inside
 ---
 
 

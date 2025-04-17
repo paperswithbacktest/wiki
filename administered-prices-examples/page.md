@@ -1,6 +1,7 @@
 ---
-title: "Administered Prices and Examples"
-description: "Explore how administered price controls shape markets by influencing supply and demand dynamics and their interplay with algorithmic trading systems."
+title: Essential Guide to Administered Prices and Market Control
+description: Administered prices maintain fair costs on essentials like healthcare
+  and utilities while preventing shortages and stabilizing markets Discover more inside
 ---
 
 

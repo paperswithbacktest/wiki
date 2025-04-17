@@ -1,6 +1,7 @@
 ---
-title: "Ansatz Capital"
-description: "Ansatz Capital leads in algorithmic trading with data-driven strategies blending finance and tech to enhance market efficiency and capture opportunities."
+title: "Insider Guide to Ansatz Capital\u2019s Proven Investment Strategy"
+description: Ansatz Capital partners with tech startups to fuel growth through strategic
+  funding guidance and expert networks driving innovation Discover more inside.
 ---
 
 

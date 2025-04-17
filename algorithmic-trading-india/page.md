@@ -1,6 +1,7 @@
 ---
-title: "Algorithmic Trading in India"
-description: Algorithmic trading, or algo trading, is a growing trend in India that leverages technology to execute trades automatically based on preset criteria. Governed by the Securities and Exchange Board of India, this method is transforming trading by offering efficient, rapid execution with minimal human input. Both retail and institutional traders are navigating this space within a regulatory framework designed to ensure transparency and fairness. This environment provides retail traders access to sophisticated strategies while allowing institutions to enhance efficiency and reduce costs. The article explores algo trading's legal standing, SEBI regulations, and its implications for Indian traders.
+title: Essential Insider Guide to Algorithmic Trading in India
+description: Algorithmic trading in India demands a reliable brokerage, coding skills
+  and robust risk management to automate trades effectively. Discover more inside.
 ---
 
 

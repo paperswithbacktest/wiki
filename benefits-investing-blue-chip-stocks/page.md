@@ -1,6 +1,7 @@
 ---
-title: "Benefits of Investing in Blue-Chip Stocks"
-description: "Discover the benefits of investing in blue-chip stocks with algorithmic trading. Enhance your portfolio with stability, efficient trading, and consistent returns."
+title: Essential Guide to Blue-Chip Stocks for Beginner Investors
+description: Blue-Chip Stocks deliver stable growth reliable dividends and risk management
+  insights to help beginners build a balanced portfolio Discover more inside.
 ---
 
 

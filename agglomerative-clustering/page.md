@@ -1,6 +1,7 @@
 ---
-title: "Agglomerative Clustering (Machine Learning)"
-description: "Agglomerative Clustering is a hierarchical method in data analysis starting with each point as a cluster merging the closest until forming a single cluster."
+title: Essential Guide to Agglomerative Clustering Techniques
+description: Agglomerative Clustering builds a dendrogram of merged clusters with
+  varied linkage methods to reveal data hierarchies Discover more inside
 ---
 
 ![Image](images/1.png)

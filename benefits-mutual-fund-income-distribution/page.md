@@ -1,6 +1,7 @@
 ---
-title: "Benefits of Mutual Fund Income Distribution"
-description: "Explore how mutual fund income distribution and algorithmic trading combine to maximize investment efficiency and resilience in modern portfolios."
+title: Ultimate Guide to Mutual Fund Income Distributions
+description: Mutual fund income distributions show how dividends interest and capital
+  gains offer steady payouts with tax smart reinvestment tips Discover more inside.
 ---
 
 

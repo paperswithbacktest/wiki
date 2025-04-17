@@ -1,6 +1,7 @@
 ---
-title: "An Introduction to Volatility Targeting"
-description: Discover the intricacies of volatility targeting, an essential strategy in algorithmic trading aimed at maintaining stable risk levels. Learn how dynamic exposure adjustments based on asset volatility can balance returns and risks, fostering improved portfolio performance. This article investigates into various volatility targeting methods, from dynamic scaling to volatility switching, alongside key computational models, equipping traders and portfolio managers with comprehensive insights for optimal risk-adjusted returns.
+title: Essential Guide to Volatility Targeting in Investment Strategies
+description: Volatility targeting helps investors maintain stable risk levels by dynamically
+  adjusting asset exposure based on market movements. Discover more inside.
 ---
 
 

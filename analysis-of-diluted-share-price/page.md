@@ -1,6 +1,7 @@
 ---
-title: "Analysis of Diluted Share Price"
-description: "Explore the impact of diluted share price in stock analysis and algorithmic trading Learn how financial metrics guide informed investment strategies"
+title: Essential Guide to Understanding Diluted Share Price Dynamics
+description: Diluted share price explains how additional convertible securities affect
+  stock value and impact EPS in active use Discover more inside
 ---
 
 

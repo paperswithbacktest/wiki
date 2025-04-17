@@ -1,6 +1,7 @@
 ---
-title: "Antidilutive Effects and Examples"
-description: "Explore how antidilutive effects influence algorithmic trading strategies Learn strategies to manage stock dilution and safeguard shareholder value efficiently"
+title: Essential Guide to Antidilutive Effects and Securities
+description: Antidilutive effects boost earnings per share by reducing outstanding
+  shares or limiting conversions into common stock. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Alex Gerko"
-description: Discover the transformative journey of Alex Gerko, founder of XTX Markets, who revolutionized the financial trading landscape through algorithmic trading. This article investigates into Gerko's evolution from mathematician to financial innovator, highlighting his pivotal role in applying sophisticated algorithms to optimize trading processes. Learn about his educational background, career milestones, and how XTX Markets leverages cutting-edge technology for substantial market impact, setting new standards in the trading sector. Gain insights into Gerko's influence on modern finance and the future of algorithmic methodologies.
+title: "Insider Look at Alex Gerko\u2019s Proven XTX Markets Success"
+description: Alex Gerko built XTX Markets into a leader in algorithmic trading by
+  using advanced math and technology to drive billions in profit Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Asset Earning Power"
-description: "Discover how Asset Earning Power enhances algorithmic trading strategies by offering insights into asset utilization, helping investors make informed investment decisions."
+title: Essential Guide to Asset Earning Power for Investors
+description: Asset Earning Power reveals how effectively companies turn assets into
+  profits and guides smarter investment decisions. Discover more inside.
 ---
 
 

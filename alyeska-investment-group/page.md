@@ -1,6 +1,7 @@
 ---
-title: "Alyeska Investment Group"
-description: "Alyeska Investment Group excels in the hedge fund industry through innovative algorithmic trading strategies ensuring consistent returns and robust risk management."
+title: Essential Guide to Alyeska Investment Group Strategies
+description: Alyeska Investment Group uses quantitative analysis and diversification
+  to drive risk-adjusted returns and growth for clients Discover more inside.
 ---
 
 

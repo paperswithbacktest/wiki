@@ -1,6 +1,7 @@
 ---
-title: "Bill Auction Process and Participation"
-description: "Explore the integration of algorithmic trading in Treasury bill auctions Learn how advanced algorithms enhance speed precision and investment strategies in finance"
+title: Ultimate Guide to Treasury Bill Auctions for Investors
+description: Treasury Bill Auction outlines how to bid competitively or non-competitively
+  and offers strategies to optimize returns on T-bills Discover more inside.
 ---
 
 

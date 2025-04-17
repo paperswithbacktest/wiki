@@ -1,6 +1,7 @@
 ---
-title: "Analysis of Firstrade Brokerage Services"
-description: "Explore Firstrade's brokerage services with a focus on simplicity and cost-effectiveness, while examining the limitations in algorithmic trading features for advanced users."
+title: Ultimate Guide to Firstrade Online Trading and Account Management
+description: Firstrade enables commission free stock options and ETF trades on a secure
+  user friendly platform with research tools and support. Discover more inside
 ---
 
 

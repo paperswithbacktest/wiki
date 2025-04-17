@@ -1,6 +1,7 @@
 ---
-title: "Aaron Levy"
-description: "Aaron Levy is a theoretical physicist-turned-financial expert with a rich background in mathematics and physics now driving innovative strategies in New York City."
+title: Insider Guide to Aaron Levy's Transition to Quantitative Finance
+description: Aaron Levy applies his physics and applied math expertise to develop
+  quantitative finance models at Goldman Sachs and A Priori Discover more inside.
 ---
 
 

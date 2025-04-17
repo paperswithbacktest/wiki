@@ -1,6 +1,7 @@
 ---
-title: "3(c)(7) Investment Fund Exemption"
-description: "Explore the 3(c)(7) investment fund exemption and its role in optimizing algo trading strategies. Learn about regulatory nuances and potential benefits."
+title: Essential Insider Guide to 3(c)(7) Investment Fund Compliance
+description: 3c7 investment fund exemption helps qualified purchasers master requirements
+  benefits risks and compliance with expert guidance Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

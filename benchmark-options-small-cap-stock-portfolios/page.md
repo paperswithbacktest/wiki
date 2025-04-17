@@ -1,6 +1,7 @@
 ---
-title: "Benchmark Options for Small-Cap Stock Portfolios"
-description: "Explore the potential of combining small-cap investments with algorithmic trading for optimized returns and risk management Discover strategies and tools for success"
+title: Essential Guide To Small-Cap Stocks Benchmark Strategies
+description: Small-cap stocks can diversify and empower investors to achieve growth
+  using tailored benchmarks for smarter performance. Discover more inside
 ---
 
 

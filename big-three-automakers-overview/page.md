@@ -1,6 +1,7 @@
 ---
-title: "Big Three Automakers Overview"
-description: "Explore the impact of algorithmic trading on the market capitalizations of the Big Three US automakers General Motors, Ford, and Stellantis in today's evolving auto industry."
+title: Ultimate Guide to the Big Three Automakers Evolution
+description: Big Three automakers deliver a comprehensive view of their history evolution
+  EV and autonomous strategies plus market insights Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Asset Class Breakdown"
-description: "Discover the strategic allocation of asset classes in portfolio management and the transformative role of algorithmic trading for enhancing investment performance."
+title: Essential Guide to Asset Class Diversification and Allocation
+description: Asset class diversification helps reduce risk and boost returns with
+  strategic allocation across stocks bonds and real estate. Discover more inside.
 ---
 
 

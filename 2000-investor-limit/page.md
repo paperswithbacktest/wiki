@@ -1,6 +1,7 @@
 ---
-title: "2000 Investor Limit"
-description: "Discover the impact of the SEC's 2000 Investor Limit on algo trading and investor limits Explore evolving securities regulations and market dynamics"
+title: Insider Guide to Navigating the 2000 Investor Limit
+description: 2000 Investor Limit requires private companies to share financial details
+  and manage investor counts with exemptions like crowdfunding Discover more inside
 ---
 
 ![Image](images/1.jpeg)

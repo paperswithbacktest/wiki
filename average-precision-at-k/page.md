@@ -1,6 +1,7 @@
 ---
-title: "Average Precision At K (Machine Learning)"
-description: "AP@K measures machine learning model effectiveness by ranking relevant items in the top K results, crucial for user satisfaction in search and recommendation systems."
+title: Ultimate Guide to Average Precision at K in Machine Learning
+description: Average Precision at K evaluates how effectively your model ranks relevant
+  items in the top K results improving search recommendations Discover more inside
 ---
 
 ![Image](images/1.png)

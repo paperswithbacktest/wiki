@@ -1,6 +1,7 @@
 ---
-title: "Accounting Policies: Definition and Applications"
-description: "Explore how strategic accounting policies shape financial reporting in algorithmic trading critical for ensuring accuracy facilitating informed decisions."
+title: Essential Accounting Policies Guide for Consistent Reporting
+description: Accounting policies set clear rules for recording sales inventory and
+  depreciation to ensure consistent reporting and compliance Discover more inside.
 ---
 
 

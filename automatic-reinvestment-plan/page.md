@@ -1,6 +1,7 @@
 ---
-title: "Automatic Reinvestment Plan"
-description: "Unlock financial growth with an Automatic Reinvestment Plan linking investment plans and algorithmic trading to compound returns and mitigate risks."
+title: Essential Insider Guide to Automatic Reinvestment Plans
+description: Automatic Reinvestment Plan boosts investment growth by compounding dividends
+  into new shares automatically to build wealth over time Discover more inside.
 ---
 
 

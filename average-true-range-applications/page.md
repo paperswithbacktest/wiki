@@ -1,6 +1,7 @@
 ---
-title: "Average True Range and Its Applications"
-description: "Explore the power of Average True Range (ATR) in algorithmic trading Discover how this key volatility indicator enhances strategies and refines decision-making skills"
+title: Ultimate Average True Range Guide for Volatility Trading
+description: Average True Range shows traders how to manage volatility risk with dynamic
+  stop losses and position sizing based on market moves. Discover more inside.
 ---
 
 

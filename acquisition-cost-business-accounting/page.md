@@ -1,6 +1,7 @@
 ---
-title: "Acquisition Cost in Business Accounting"
-description: "Explore acquisition costs in business accounting and algorithmic trading, examining their components, effects on financial statements, and strategies to optimize them."
+title: The Ultimate Guide to Acquisition Cost in Business Accounting
+description: Acquisition cost covers all expenses of buying assets from purchase price
+  to fees to improve budgeting and reporting Discover more
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Association of International Bond Dealers"
-description: "Explore the role of the Association of International Bond Dealers in shaping the bond market and how algorithmic trading is revolutionizing global finance."
+title: Essential Guide to the Association of International Bond Dealers
+description: Association of International Bond Dealers promotes fair global bond trading
+  by setting standards and hosting regular workshops Discover more inside.
 ---
 
 

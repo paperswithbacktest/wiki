@@ -1,6 +1,7 @@
 ---
-title: "Barron's Confidence Index: Overview and Functionality"
-description: "Explore the functionality of Barron's Confidence Index in algo trading tool to gauge investor sentiment by analyzing bond yields enhancing financial strategies"
+title: Insider Insights On Barron's Confidence Index For Investors
+description: Barron's Confidence Index helps investors gauge market sentiment by comparing
+  yields on safe and riskier bonds and guiding decisions Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Bid-to-Cover Ratio"
-description: "Explore the bid-to-cover ratio's crucial role in Treasury auctions and its impact on algorithmic trading Learn how this metric influences investment strategies and economic conditions"
+title: Essential Guide to Bid-to-Cover Ratio for Bond Auctions
+description: Bid-to-Cover Ratio measures demand by comparing total bids to securities
+  offered, helping investors assess bond pricing and demand Discover more inside.
 ---
 
 

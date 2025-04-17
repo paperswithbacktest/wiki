@@ -1,6 +1,7 @@
 ---
-title: "Average Strike Option"
-description: "Explore average strike options in algorithmic trading and their unique pricing structure. Understand how they reduce market manipulation and volatility exposure."
+title: Essential Guide to Average Strike Option Strategies
+description: Average strike option uses an average price to smooth market swings reducing
+  risk in volatile assets like commodities and currencies Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Banks and Bad Debt Write-Offs"
-description: "Explore how banks manage bad debt write-offs and the role of algorithmic trading in financial management to optimize decision-making and risk assessment."
+title: Essential Guide to Bank Bad Debt Write Off Procedures
+description: Bad Debt Write Off helps banks remove uncollectible loans from their
+  books to maintain clear finances and focus on profitable lending Discover more inside
 ---
 
 

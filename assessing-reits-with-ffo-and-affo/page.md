@@ -1,6 +1,7 @@
 ---
-title: "Assessing REITs with Funds from Operations and Adjusted Funds from Operations"
-description: "Explore the essential metrics of Funds from Operations (FFO) and Adjusted Funds from Operations (AFFO) for assessing REITs alongside algorithmic trading insights."
+title: Essential Guide to FFO and AFFO for REIT Performance Assessment
+description: FFO and AFFO reveal REIT cash flow performance and dividend sustainability
+  while highlighting calculation limits and sector insights Discover more inside.
 ---
 
 

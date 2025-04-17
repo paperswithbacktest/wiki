@@ -1,6 +1,7 @@
 ---
-title: "Bank of Japan: Structure, Monetary Policy, and Transparency"
-description: "Discover the complex interactions between Bank of Japan's monetary policy and algorithmic trading in Japan's markets highlighting transparency's vital role."
+title: Essential Guide to Bank of Japan Monetary Policy and Structure
+description: Bank of Japan structure and monetary policy are explained clearly to
+  show how it stabilizes prices and supports long-term growth Discover more inside
 ---
 
 

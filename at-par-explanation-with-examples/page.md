@@ -1,6 +1,7 @@
 ---
-title: "At Par Explanation with Examples"
-description: "Explore the significance of the financial term 'at par' in bond trading and its role in algorithmic trading strategies for informed investment decisions."
+title: Essential At Par Bond And Stock Pricing Guide And Strategies
+description: At Par means a bond or stock trades at face value and this guide covers
+  factors driving par pricing and smart strategies Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Backtesting Value-at-Risk Fundamentals"
-description: "Improve your understanding of Backtesting Value-at-Risk in algo trading Explore methodologies to enhance risk management accuracy and financial stability"
+title: Ultimate Backtesting Guide for Value at Risk Models
+description: Value at Risk backtesting reveals how your forecasts perform against
+  real market data and supports smarter risk decisions Discover more inside
 ---
 
 

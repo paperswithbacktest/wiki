@@ -1,6 +1,7 @@
 ---
-title: "Activation Function (Machine Learning)"
-description: "Activation functions are crucial in neural networks enabling them to learn complex patterns by introducing non-linearity. Learn about types like ReLU and sigmoid."
+title: Essential Activation Functions for Neural Network Performance
+description: Activation functions power neural networks by introducing nonlinearity
+  and preventing vanishing gradients for efficient training Discover more inside.
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Bigram (Machine Learning)"
-description: "Bigrams enhance machine learning by capturing word context and relationships for improved text classification and language modeling tasks in NLP."
+title: Essential Bigram Techniques for Machine Learning Models
+description: Bigrams improve NLP by capturing word pairs to boost text classification
+  speech recognition and machine translation performance Discover more inside.
 ---
 
 ![Image](images/1.png)

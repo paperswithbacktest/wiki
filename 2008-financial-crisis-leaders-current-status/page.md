@@ -1,6 +1,7 @@
 ---
-title: "2008 Financial Crisis Leaders"
-description: "Explore the roles of 2008 financial crisis leaders like Bernanke, Paulson, and Geithner today and the evolution of algorithmic trading post-crisis."
+title: Essential Leadership Strategies During the 2008 Financial Crisis
+description: 2008 Financial Crisis leadership shows how Bush, Paulson, Obama and Bernanke
+  took decisive action to stabilize markets with reforms Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

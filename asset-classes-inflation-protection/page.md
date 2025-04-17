@@ -1,6 +1,8 @@
 ---
-title: "Asset Classes for Inflation Protection"
-description: "Explore strategies for inflation protection and algorithmic trading to ensure portfolio resilience and growth amidst economic uncertainties and market volatility."
+title: Essential Guide to Inflation Protection Through Asset Classes
+description: Inflation Protection strategies cover real returns vs nominal returns
+  and explore stocks bonds real estate and commodities to safeguard wealth Discover
+  more inside.
 ---
 
 

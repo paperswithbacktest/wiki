@@ -1,6 +1,7 @@
 ---
-title: "Bilateral Netting: Types and Examples"
-description: "Explore the significance of bilateral netting in finance to streamline settlements reduce risks and improve efficiency in algorithmic trading and markets."
+title: Essential Guide to Bilateral Netting for Financial Stability
+description: Bilateral netting offsets mutual obligations to cut payment volume and
+  lower credit risk while enhancing liquidity and stability. Discover more inside.
 ---
 
 

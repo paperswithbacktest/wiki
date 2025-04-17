@@ -1,6 +1,7 @@
 ---
-title: "Authorization of U.S. Banks to Issue Bank Guarantees and Medium Term Notes"
-description: "Explore how U.S. banks utilize medium term notes, bank guarantees, and algorithmic trading to drive financial operations and optimize investment strategies."
+title: Essential Guide To Bank Guarantees And Medium Term Notes
+description: Bank guarantees and medium term notes explain regulatory frameworks benefits
+  and risks for US banks foreign and domestic issuers Discover more inside.
 ---
 
 

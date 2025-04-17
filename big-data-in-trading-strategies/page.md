@@ -1,6 +1,7 @@
 ---
-title: "Big Data in Trading Strategies"
-description: "Explore how big data revolutionizes algorithmic trading by enabling data-driven strategies for faster and more accurate financial market decisions."
+title: Essential Big Data Trading Insights for Smarter Decisions
+description: Big Data Trading uses social media economic and alternative data with
+  AI to uncover market trends and power automated strategies Discover more inside
 ---
 
 

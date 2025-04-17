@@ -1,6 +1,7 @@
 ---
-title: "Absolute Rate Overview"
-description: "Explore the importance of financial metrics in algorithmic trading with a focus on absolute rate calculations for effective interest rate swaps and strategic decisions."
+title: Essential Guide to Absolute Rate Calculation and Applications
+description: Absolute rate provides clear event frequency metrics for health economic
+  and research analysis to guide resource planning and strategy Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Baltic Exchange Overview and Functionality"
-description: "Discover the role of the Baltic Exchange in global maritime trade how algo trading is reshaping freight rates and market transparency in the shipping industry."
+title: Essential Guide to the Baltic Exchange and Shipping Indices
+description: Baltic Exchange provides daily shipping rate indices like the Baltic
+  Dry Index and insights to help businesses optimize freight costs Discover inside
 ---
 
 

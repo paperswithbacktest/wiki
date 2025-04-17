@@ -1,6 +1,7 @@
 ---
-title: "Benefits of Investing in High-Dividend Yield Stocks"
-description: "Discover the benefits of investing in high-dividend yield stocks and explore strategies to enhance returns with algorithmic trading in today's market landscape."
+title: Essential Guide to High-Dividend Yield Stock Investing
+description: High-dividend yield stocks deliver steady income and stabilize portfolios
+  by balancing market swings and supporting retirement goals. Discover more inside.
 ---
 
 

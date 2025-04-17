@@ -1,6 +1,7 @@
 ---
-title: "Acid-Test Ratio Calculation and Examples"
-description: "Explore the acid-test ratio's role in evaluating corporate liquidity and its application in algorithmic trading for informed financial decision-making."
+title: Essential Guide to Acid-Test Ratio for Financial Health
+description: Acid-Test Ratio shows business short-term liquidity by excluding inventory
+  and highlighting cash receivables and investments. Discover more inside.
 ---
 
 

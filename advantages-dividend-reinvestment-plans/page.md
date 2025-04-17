@@ -1,6 +1,7 @@
 ---
-title: "Advantages of Dividend Reinvestment Plans"
-description: "Explore the synergy of Dividend Reinvestment Plans and algorithmic trading for enhanced investment growth Learn how compounding and automation drive returns"
+title: Essential Guide to Dividend Reinvestment Plans for Wealth Growth
+description: Dividend Reinvestment Plans use your dividends to buy shares automatically
+  so you benefit from compounding and reduced fees over time Discover more inside
 ---
 
 

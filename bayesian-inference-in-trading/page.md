@@ -1,6 +1,7 @@
 ---
-title: "Bayesian inference in trading"
-description: "Bayesian inference in algorithmic trading enhances decision-making by updating beliefs with new market data, leading to refined predictions and adaptive strategies."
+title: Essential Bayesian Inference Techniques for Smarter Trading
+description: Bayesian inference empowers traders to update predictions with real-time
+  market data, refine risk management and boost decision making Discover more inside
 ---
 
 

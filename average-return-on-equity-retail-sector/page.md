@@ -1,6 +1,7 @@
 ---
-title: "Average Return on Equity in the Retail Sector"
-description: "Explore how algorithmic trading enhances investment strategies in the retail sector by analyzing the impact of Return on Equity. Discover insights into average ROE variations."
+title: Essential Retail Return on Equity Benchmarks and Insights
+description: Return on Equity highlights how retail companies use shareholder equity
+  to drive profits and benchmark industry performance Discover more inside.
 ---
 
 

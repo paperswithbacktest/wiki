@@ -1,6 +1,7 @@
 ---
-title: "Auto-differentiation for finance"
-description: "Explore how auto-differentiation enhances algorithmic trading by ensuring precise derivative calculations, optimizing strategies, and improving risk management for finance professionals."
+title: Essential Guide to Auto-Differentiation in Financial Modeling
+description: Auto-differentiation in finance offers fast precise sensitivity analysis
+  for option pricing risk management and portfolio optimization Discover more inside
 ---
 
 

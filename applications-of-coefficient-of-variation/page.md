@@ -1,6 +1,7 @@
 ---
-title: "Applications of Coefficient of Variation"
-description: "Discover how the Coefficient of Variation helps algorithmic traders assess risk and optimize portfolios by providing insights into financial asset variability."
+title: Ultimate Coefficient of Variation Guide for Statistical Analysis
+description: Coefficient of Variation compares data spread across datasets by showing
+  variability as a percentage of the mean in finance. Discover more inside.
 ---
 
 

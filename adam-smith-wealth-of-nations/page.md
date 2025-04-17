@@ -1,6 +1,7 @@
 ---
-title: "Adam Smith: The Wealth of Nations"
-description: "Explore Adam Smith's economic principles and their influence on modern algorithmic trading which seeks market efficiency through advanced technologies."
+title: Essential Insights Into The Wealth Of Nations By Adam Smith
+description: The Wealth of Nations explains Adam Smith ideas on the invisible hand
+  division of labor and free markets shaping modern economies Discover more inside
 ---
 
 

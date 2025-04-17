@@ -1,6 +1,7 @@
 ---
-title: "Applications of Sensitivity Analysis"
-description: "Explore the importance of sensitivity analysis in algorithmic trading to optimize strategies and enhance robustness against market fluctuations and unforeseen events."
+title: Essential Guide To Sensitivity Analysis For Decision Making
+description: Sensitivity analysis reveals which factors drive your model outcomes
+  and helps you manage risks across projects and industries. Discover more inside.
 ---
 
 

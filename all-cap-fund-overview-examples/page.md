@@ -1,6 +1,7 @@
 ---
-title: "All-Cap Fund: Overview and Examples"
-description: "Explore the dynamic world of all-cap mutual funds and algorithmic trading Discover how these innovative strategies can enhance investment portfolios and optimize returns"
+title: Essential Insider Guide to All-Cap Fund Investing Flexibility
+description: All-Cap Fund investing adapts to market shifts by diversifying across
+  all company sizes balancing growth and risk Discover more inside today
 ---
 
 

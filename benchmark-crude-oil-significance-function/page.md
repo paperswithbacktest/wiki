@@ -1,6 +1,7 @@
 ---
-title: "Benchmark Crude Oil: Significance and Function"
-description: "Discover the significance of benchmark crude oils and algorithmic trading in the global oil market and learn how they influence pricing and trading strategies."
+title: Essential Benchmark Crude Oil Guide for Global Markets
+description: Benchmark crude oil sets the standard for pricing by showing how WTI
+  and Brent influence market trends and trader decisions Discover more inside.
 ---
 
 

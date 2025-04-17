@@ -1,6 +1,7 @@
 ---
-title: "Absolute Priority Rule in Bankruptcy"
-description: "Explore the absolute priority rule in bankruptcy and its impact on algorithmic trading of distressed assets, emphasizing creditor hierarchy and investment strategies."
+title: Essential Guide to the Absolute Priority Rule in Bankruptcy
+description: Absolute Priority Rule clarifies payment hierarchy in Chapter 11 bankruptcies,
+  explores key exceptions and reforms for fair outcomes. Discover more inside.
 ---
 
 

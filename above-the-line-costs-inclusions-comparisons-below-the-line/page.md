@@ -1,6 +1,7 @@
 ---
-title: "Above-The-Line Costs: Inclusions and Comparisons with Below-The-Line Costs"
-description: "Explore the differences between above-the-line and below-the-line costs in financial budgeting and trading strategies. Understand how these costs, from direct production expenses to administrative overheads, impact profitability and gross margins. Learn about managing algorithmic trading systems for optimized financial performance and sustainable growth in competitive markets."
+title: Ultimate Guide to Above-the-Line Costs in Film Production
+description: Above-the-line costs shape your film production budget by securing directors
+  writers and top actors early ensuring a strong foundation Discover more inside
 ---
 
 

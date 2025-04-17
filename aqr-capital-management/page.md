@@ -1,6 +1,7 @@
 ---
-title: "AQR Capital Management"
-description: "Explore AQR Capital Management's pioneering role in algorithmic trading using data-driven strategies to optimize portfolio management and achieve consistent returns."
+title: Insider Look At AQR Capital Management Quantitative Strategies
+description: AQR Capital Management uses quantitative and factor investing to optimize
+  portfolios and integrate ESG for sustainable returns Discover more inside.
 ---
 
 

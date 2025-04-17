@@ -1,6 +1,7 @@
 ---
-title: "Analyzing SEC Filings for Stock Selection"
-description: "Unlock the power of analyzing SEC filings for informed stock selection and algorithmic trading Discover tools and strategies for modern investors"
+title: Essential Guide to SEC Filings for Stock Selection
+description: SEC filings give you in-depth financial insights on earnings, risks,
+  and growth potential to sharpen your stock selection strategy Discover more inside.
 ---
 
 

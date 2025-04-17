@@ -1,6 +1,8 @@
 ---
-title: "Accumulative Swing Index: Calculation and Interpretation"
-description: "Explore the significance of the Accumulative Swing Index in technical analysis and algo trading to enhance strategy development by identifying trends."
+title: Ultimate Guide to Accumulative Swing Index Technical Analysis
+description: Accumulative Swing Index reveals trend strength by aggregating price
+  swings using open high low close data for smarter trading decisions Discover more
+  inside.
 ---
 
 

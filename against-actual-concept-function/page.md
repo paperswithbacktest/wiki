@@ -1,6 +1,7 @@
 ---
-title: "Against Actual: Concept and Function"
-description: "Explore essential concepts of algorithmic trading highlighting its impact on market efficiency and liquidity while unraveling complex yet practical strategies."
+title: Ultimate Guide to Against Actual Commodity Futures Trading
+description: Against Actual trading lets companies secure the physical commodity now
+  while hedging future price risk in one strategy Discover more inside.
 ---
 
 

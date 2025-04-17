@@ -1,6 +1,7 @@
 ---
-title: "Accounting Practices for Oil Company Reserves"
-description: "Explore the intersection of accounting practices for oil reserves and algorithmic trading to gain insights essential for competitive market positioning."
+title: Essential Guide to Oil Reserves Accounting Principles
+description: Oil reserves accounting explains how companies measure develop and report
+  volumes using classifications and tech to plan finances Discover more inside.
 ---
 
 

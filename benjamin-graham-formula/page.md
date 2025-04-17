@@ -1,6 +1,7 @@
 ---
-title: "Benjamin Graham formula"
-description: "Discover the power of the Benjamin Graham Formula for algorithmic trading Learn how to evaluate stock value and find investment opportunities confidently"
+title: Proven Benjamin Graham Formula For Calculating Stock Value
+description: Benjamin Graham formula helps investors calculate intrinsic stock value
+  using earnings per share and growth rate for smarter buys Discover more inside
 ---
 
 

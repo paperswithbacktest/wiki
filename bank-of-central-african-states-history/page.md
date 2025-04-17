@@ -1,6 +1,7 @@
 ---
-title: "Bank of Central African States: Overview and History"
-description: "Discover the rich history and pivotal role of the Bank of Central African States in driving monetary stability and growth in the CEMAC region."
+title: Ultimate Guide to the Bank of Central African States
+description: Bank of Central African States steers monetary policy and ensures CFA
+  franc stability across six nations and safeguards banks Discover more inside.
 ---
 
 

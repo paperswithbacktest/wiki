@@ -1,6 +1,7 @@
 ---
-title: "Adagrad (Machine Learning)"
-description: "Adagrad is an adaptive optimization technique used in machine learning that modifies the learning rate for each parameter, making it effective for sparse data."
+title: Essential Insights Into the Adagrad Optimization Algorithm
+description: Adagrad adapts learning rates per parameter to handle sparse data and
+  efficiently accelerate training in natural language tasks Discover more inside
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,7 @@
 ---
-title: "AAII and Market Sentiment Indicators Explained"
-description: Explore the role of the AAII Investor Sentiment Index in algorithmic trading to enhance strategies by understanding investor attitudes. This article highlights how sentiment indicators can predict market trends and aid in better trading decisions. Learn how the AAII Index helps gauge market psychology and the integration of such data within trading systems for improved performance.
+title: Ultimate AAII Sentiment Indicators Guide for Investors
+description: AAII Sentiment Indicators reveal investor mood through weekly surveys
+  to guide smarter market decisions with data-driven insights Discover more inside.
 ---
 
 

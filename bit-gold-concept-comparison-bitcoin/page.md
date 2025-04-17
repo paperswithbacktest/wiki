@@ -1,6 +1,7 @@
 ---
-title: "Bit Gold: Concept and Comparison with Bitcoin"
-description: "Explore the historical significance of Bit Gold and Bitcoin in the world of cryptocurrencies Discover their foundational concepts and influence on algo trading"
+title: "Essential Bit Gold Guide: Nick Szabo\u2019s Digital Money Blueprint"
+description: Bit Gold pioneered unique digital asset creation with Nick Szabos math
+  based mining protocol shaping modern cryptocurrencies Discover more inside
 ---
 
 

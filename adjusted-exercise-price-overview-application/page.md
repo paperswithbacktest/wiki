@@ -1,6 +1,7 @@
 ---
-title: "Adjusted Exercise Price: Overview and Application"
-description: "Explore the strategic synergy of options and algorithmic trading focusing on adjusted exercise prices vital for maintaining option values during corporate events."
+title: Essential Guide to Adjusted Exercise Prices for Stock Options
+description: Adjusted exercise price ensures stock options retain value after splits
+  dividends mergers using clear formulas and definitions Discover more inside.
 ---
 
 

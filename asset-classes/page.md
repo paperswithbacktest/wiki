@@ -1,6 +1,7 @@
 ---
-title: "Asset Classes"
-description: "Explore the diverse landscape of asset classes and the impact of algorithmic trading within financial markets. This article provides insights on maximizing returns and managing risks through strategic asset management. Discover various investment vehicles, including equities, fixed income, and digital assets, to enhance and diversify your portfolio for optimal financial outcomes."
+title: Ultimate Guide to Asset Classes for Smarter Investing
+description: Asset classes explained from stocks to alternatives so you can balance
+  risk and reward and optimize your investment portfolio Discover more inside.
 ---
 
 

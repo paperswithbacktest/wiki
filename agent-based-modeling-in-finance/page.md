@@ -1,6 +1,7 @@
 ---
-title: "Agent-Based Modeling in Finance"
-description: "Discover the impact of agent-based modeling in finance, focusing on algorithmic trading's complex dynamics to enhance strategy and market stability."
+title: Essential Guide to Agent-Based Modeling in Finance
+description: Agent-based modeling in finance reveals how trader rules shape market
+  trends and enhance risk scenario testing for informed decisions Discover more inside
 ---
 
 

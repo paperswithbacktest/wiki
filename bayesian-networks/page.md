@@ -1,6 +1,7 @@
 ---
-title: "Bayesian Networks"
-description: "Explore how Bayesian networks enhance algorithmic trading by modeling market behaviors and updating predictions amid uncertainty for refined decision-making."
+title: Ultimate Guide To Bayesian Networks For Probabilistic Inference
+description: Bayesian Networks map variable dependencies to efficiently support probabilistic
+  inference and drive confident decision making Discover more inside.
 ---
 
 

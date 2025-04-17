@@ -1,6 +1,8 @@
 ---
-title: "Adjoint Algorithmic Differentiation"
-description: "Explore the integration of Adjoint Algorithmic Differentiation in algorithmic trading to enhance accuracy and efficiency in risk management and portfolio optimization."
+title: Essential Adjoint Algorithmic Differentiation Explained
+description: Adjoint Algorithmic Differentiation AAD demystifies efficient gradient
+  calculation for complex models in finance and engineering using backward methods
+  Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Average Propensity to Save"
-description: "Discover the significance of the Average Propensity to Save and its role in economic stability and growth through algorithmic trading insights and fiscal policy impacts."
+title: Essential Guide to Average Propensity to Save in Economics
+description: Average Propensity to Save measures the share of income households save
+  and shows its impact on economic growth financial stability Discover more inside.
 ---
 
 

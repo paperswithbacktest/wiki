@@ -1,6 +1,7 @@
 ---
-title: "Automated Trading Edge Analysis"
-description: Explore the revolution in financial markets brought by automated trading through algorithmic precision and computational power. Understand how trading edge analysis helps exploit market inefficiencies by leveraging sophisticated tools and algorithms. Discover the advantages of using systems like Quantpedia for profitable strategy implementation, highlighting the integration of statistical methods and empirical data in trading. Gain insights into edge analysis for enhanced market navigation and trading performance.
+title: Essential Automated Trading Edge Analysis Techniques
+description: Automated trading edge analysis reveals how to test and refine algorithmic
+  strategies with statistical methods and risk controls Discover more inside.
 ---
 
 

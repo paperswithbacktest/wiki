@@ -1,6 +1,7 @@
 ---
-title: "Anti-Dumping Duty: Definition, Mechanism, and Examples"
-description: "Explore anti-dumping duties their role in international trade policies alongside algorithmic trading insights highlighting impacts on global market dynamics."
+title: Essential Guide to Anti-Dumping Duties in Global Trade
+description: Anti-dumping duties protect domestic industries by taxing unfairly cheap
+  imports with targeted tariffs after in-depth investigations Discover more inside.
 ---
 
 

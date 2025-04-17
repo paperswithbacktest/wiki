@@ -1,6 +1,7 @@
 ---
-title: "Becoming a Sophisticated Investor"
-description: "Optimize your investment strategies with insights into financial literacy and algorithmic trading Learn how sophisticated investors leverage tech to enhance portfolio performance"
+title: Ultimate Investing Guide for Sophisticated Investors
+description: Investing starts with budgeting, diversification and risk management
+  and grows into advanced strategies for sophisticated investors Discover more inside
 ---
 
 

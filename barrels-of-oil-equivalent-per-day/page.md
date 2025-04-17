@@ -1,6 +1,7 @@
 ---
-title: "Barrels of Oil Equivalent Per Day"
-description: "Explore the role of Barrels of Oil Equivalent Per Day in energy trading and algorithmic systems Learn how BOE/D enhances efficiency in resource management"
+title: Essential Guide to BOE Per Day Energy Measurements
+description: BOE per Day provides clear insights on daily energy production by converting
+  oil gas and coal outputs into barrels of oil equivalent Discover more inside
 ---
 
 

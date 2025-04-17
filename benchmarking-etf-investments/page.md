@@ -1,6 +1,7 @@
 ---
-title: "Benchmarking ETF Investments"
-description: "Explore how algorithmic trading enhances ETF investments by benchmarking performance, optimizing trades, and dynamically adjusting portfolios for superior returns."
+title: Essential Guide To ETF Benchmarking For Optimal Investment
+description: ETF benchmarking lets you compare fund returns fees and volatility against
+  market indices to optimize your portfolio and control risk Discover more inside
 ---
 
 

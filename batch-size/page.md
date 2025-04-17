@@ -1,6 +1,7 @@
 ---
-title: "Batch Size (Machine Learning)"
-description: "Batch size in machine learning defines the number of training examples per iteration influencing training speed and efficiency. Optimize based on resources."
+title: Essential Guide to Batch Size for Machine Learning Training
+description: Batch size shapes model training speed, stability and generalization
+  we guide you to select the right size for your data and hardware Discover more inside
 ---
 
 ![Image](images/1.png)

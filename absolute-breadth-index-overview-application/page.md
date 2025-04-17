@@ -1,6 +1,7 @@
 ---
-title: "Absolute Breadth Index: Overview and Application"
-description: "Discover how the Absolute Breadth Index is used to gauge market volatility without predicting direction vital for algorithmic trading and market strategy."
+title: Essential Absolute Breadth Index Guide for Market Volatility
+description: Absolute Breadth Index tracks market strength by comparing advancing
+  and declining stocks to flag overbought or oversold conditions. Discover more inside
 ---
 
 

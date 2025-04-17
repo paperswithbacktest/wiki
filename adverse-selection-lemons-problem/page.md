@@ -1,6 +1,7 @@
 ---
-title: "Adverse Selection and The Lemons Problem"
-description: "Explore the effects of adverse selection and the lemons problem in algo trading where information asymmetry distorts market efficiency and challenges fairness."
+title: Essential Guide to Adverse Selection and the Lemons Problem
+description: Adverse selection shows how information gaps can flood markets with lemons
+  and raise costs for buyers in used cars and insurance Discover more inside.
 ---
 
 

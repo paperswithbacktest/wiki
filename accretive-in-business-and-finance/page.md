@@ -1,6 +1,7 @@
 ---
-title: "Accretive in Business and Finance"
-description: "Explore how algorithmic trading can drive accretive growth in business by optimizing financial strategies, enhancing returns, and boosting shareholder value."
+title: Ultimate Guide to Accretive Growth in Business Finance
+description: Accretive growth strategies show how mergers, acquisitions, and share
+  buybacks boost EPS and long term value for shareholders Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Asset-Backed Securities: Types and Functions"
-description: "Discover the dynamics of asset-backed securities and the role of algorithmic trading in modern financial markets. Gain insights on ABS types and trading strategies."
+title: Essential Guide to Asset-Backed Securities for Investors
+description: Asset-Backed Securities offer diversification and steady income by pooling
+  loans into tranches with tailored risk profiles Discover more inside.
 ---
 
 

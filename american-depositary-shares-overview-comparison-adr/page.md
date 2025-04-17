@@ -1,6 +1,7 @@
 ---
-title: "American Depositary Shares: Overview and Comparison with ADRs"
-description: "Explore American Depositary Shares (ADS) and Receipts (ADR) for global investment. Enhance portfolio diversity and learn algorithmic trading advantages."
+title: Essential Guide to American Depositary Shares for Investors
+description: American Depositary Shares let U.S. investors trade global stocks in
+  dollars and diversify portfolios without complex foreign markets Discover more inside.
 ---
 
 

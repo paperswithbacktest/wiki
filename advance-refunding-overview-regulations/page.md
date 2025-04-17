@@ -1,6 +1,7 @@
 ---
-title: "Advance Refunding: Overview and Regulations"
-description: "Explore advance refunding and algorithmic trading in municipal finance Discover how these strategies reduce costs enhance liquidity and navigate regulations"
+title: Essential Guide to Advance Refunding for Municipal Debt
+description: Advance refunding helps issuers cut interest costs by replacing high
+  rate bonds and investing proceeds to cover future payments Discover more inside.
 ---
 
 

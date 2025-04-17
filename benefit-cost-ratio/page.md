@@ -1,6 +1,7 @@
 ---
-title: "Benefit-Cost Ratio"
-description: "Explore how the Benefit-Cost Ratio enhances decision-making in algorithmic trading by evaluating trade viability, optimizing strategies, and maximizing profitability."
+title: Ultimate Guide to Benefit-Cost Ratio for Project Success
+description: Benefit-Cost Ratio guides project evaluation by measuring benefits against
+  costs with clear calculation steps, examples and analysis Discover more inside.
 ---
 
 

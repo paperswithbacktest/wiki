@@ -1,6 +1,7 @@
 ---
-title: "Alternative Investments: Overview and Examples"
-description: "Explore the world of alternative investments including algorithmic trading strategies to diversify portfolios with unique risks and potential returns."
+title: Essential Guide to Alternative Investments for Portfolio Diversification
+description: Alternative investments offer real estate commodities and private equity
+  options to diversify risk and enhance returns in your portfolio Discover more inside
 ---
 
 

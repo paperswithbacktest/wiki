@@ -1,6 +1,7 @@
 ---
-title: "Attribution Analysis in Portfolio Management"
-description: "Explore the significance of attribution analysis in portfolio management and algorithmic trading for enhancing investment performance through data-driven insights and strategies."
+title: Essential Attribution Analysis for Portfolio Management Insights
+description: Attribution analysis reveals how allocation selection and interaction
+  shape portfolio performance so investors can refine strategies; Discover more inside.
 ---
 
 

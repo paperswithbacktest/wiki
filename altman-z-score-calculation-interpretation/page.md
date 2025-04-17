@@ -1,6 +1,7 @@
 ---
-title: "Altman Z-Score: Calculation and Interpretation"
-description: "Explore the calculation and interpretation of the Altman Z-Score a key tool in assessing company financial health and guiding algorithmic trading strategies."
+title: Ultimate Guide To Altman Z-Score For Predicting Bankruptcy Risk
+description: Altman Z-Score predicts bankruptcy risk using five key financial ratios
+  to reveal company stability and offer actionable insights Discover more inside
 ---
 
 

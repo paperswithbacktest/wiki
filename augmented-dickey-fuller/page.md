@@ -1,6 +1,7 @@
 ---
-title: "Augmented Dickey-Fuller"
-description: "Discover the significance of the Augmented Dickey-Fuller test in algorithmic trading by analyzing time series data for stationarity, crucial for robust trading strategies."
+title: Essential Guide to the Augmented Dickey-Fuller Stationarity Test
+description: Augmented Dickey-Fuller test checks for unit roots in a time series to
+  confirm stationarity and ensure reliable analysis Discover more inside.
 ---
 
 

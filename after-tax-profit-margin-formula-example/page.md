@@ -1,6 +1,7 @@
 ---
-title: "After-Tax Profit Margin Formula and Example"
-description: "Explore how after-tax profit margins influence algorithmic trading decisions. Understand their calculation and significance in enhancing trading strategies."
+title: Essential Guide to After-Tax Profit Margin for Businesses
+description: After-Tax Profit Margin shows how much profit a company retains after
+  taxes by dividing net income by revenue in percentage form Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Berhad (BHD): Meaning and Example Companies"
-description: "Explore the significance of Berhad (BHD) companies in Malaysia's economy, particularly their role in public equity markets and algorithmic trading advancements."
+title: Essential Guide to Berhad Company Requirements in Malaysia
+description: Berhad company process in Malaysia outlines key steps for registration
+  reporting and governance obligations to ensure compliance Discover more inside.
 ---
 
 

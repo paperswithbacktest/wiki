@@ -1,6 +1,7 @@
 ---
-title: "Basic Materials Sector: Overview and Examples"
-description: "Explore the potential of algo trading in the basic materials sector unlocking investment opportunities in metals, chemicals, and forestry products for optimal returns."
+title: Essential Insights Into the Basic Materials Sector
+description: Basic materials sector fuels growth by providing metals chemicals and
+  wood while embracing sustainable practices and modern technology Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Asset-Backed Credit Default Swap"
-description: "Explore the essentials of asset-backed credit default swaps Discover how these financial instruments offer risk management and portfolio diversification benefits"
+title: Essential Guide to Asset-Backed Credit Default Swaps
+description: Asset-Backed Credit Default Swap equips investors with insight on insuring
+  loan pools covering structure pricing and triggers Discover more inside
 ---
 
 

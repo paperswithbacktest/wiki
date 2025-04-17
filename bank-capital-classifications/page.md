@@ -1,6 +1,7 @@
 ---
-title: "Bank Capital and Its Classifications"
-description: "Explore the essentials of bank capital, regulatory frameworks, and the impact of algorithmic trading in financial markets. Stay informed about global banking standards."
+title: Ultimate Guide to Bank Capital and Regulatory Requirements
+description: Bank capital provides a safety cushion by defining Tier 1 and Tier 2
+  funding, Basel III requirements and management strategies Discover more inside
 ---
 
 

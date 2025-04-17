@@ -1,6 +1,7 @@
 ---
-title: "Average Effective Maturity"
-description: "Explore effective maturity in bond investing and how algorithmic trading enhances strategies like bond ladders. Optimize returns while managing risks efficiently."
+title: Ultimate Bond Portfolio Guide to Average Effective Maturity
+description: Average Effective Maturity helps investors assess bond risk and yield
+  by accounting for early payoffs and optimizing duration. Discover more inside.
 ---
 
 

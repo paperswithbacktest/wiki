@@ -1,6 +1,7 @@
 ---
-title: "Attribution analysis"
-description: "Attribution analysis enhances algorithmic trading by revealing drivers of portfolio performance enabling strategy optimization and informed decision-making."
+title: Essential Attribution Analysis in Trading for Smarter Decisions
+description: Attribution analysis breaks down returns by sectors stocks and timing
+  to reveal performance drivers and guide investments Discover more inside
 ---
 
 

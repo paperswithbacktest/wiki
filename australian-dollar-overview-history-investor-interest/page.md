@@ -1,6 +1,7 @@
 ---
-title: "Australian Dollar: Overview, History, and Investor Interest"
-description: "Explore the Australian Dollar's role in global finance its history volatility driving investor interest and how algorithmic trading enhances opportunities with the currency."
+title: Essential Insights Into the Australian Dollar Currency System
+description: Australian Dollar insights on its history usage and value drivers from
+  RBA policy to commodity trends for confident currency decisions Discover more inside
 ---
 
 

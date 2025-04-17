@@ -1,6 +1,8 @@
 ---
-title: "Autoencoder (Machine Learning)"
-description: "Discover how autoencoders work to efficiently compress and encode data in machine learning applications like data denoising and dimensionality reduction."
+title: Essential Guide to Autoencoder Architecture in Machine Learning
+description: Autoencoder models learn efficient encoding and decoding to compress
+  data for denoising and anomaly detection using optimized training Discover more
+  inside
 ---
 
 ![Image](images/1.png)

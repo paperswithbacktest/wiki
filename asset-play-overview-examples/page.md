@@ -1,6 +1,7 @@
 ---
-title: "Asset Play: Overview and Examples"
-description: "Explore the synergy of asset play and algorithmic trading to optimize investment returns. Learn how combining undervalued asset strategies with automation creates robust profits."
+title: Proven Asset Play Investing Strategies to Unlock Hidden Value
+description: Asset play investing uncovers how to value and monetize a firms hidden
+  assets by comparing book and market values while managing risks Discover more inside
 ---
 
 

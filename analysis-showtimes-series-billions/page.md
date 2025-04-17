@@ -1,6 +1,7 @@
 ---
-title: "Analysis of Showtime's Series Billions"
-description: "Explore Showtime's series Billions through the lens of algorithmic trading highlighting its role in modern finance and how it captivates viewers with dramatic intrigue."
+title: Insider Look at Showtime Billions Money Power and Ethics
+description: Billions breaks down the high-stakes finance rivalry in New York and
+  explores money ethics character development and legal drama Discover more inside.
 ---
 
 

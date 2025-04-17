@@ -1,6 +1,7 @@
 ---
-title: "Basic Candlestick Chart Analysis"
-description: "Explore the essential role of candlestick charts in technical analysis and algorithmic trading highlighting their contribution to financial market interpretation This article investigates into the basic patterns like Hammer Doji and Engulfing explores their significance in predicting market trends and provides insights into how these charts are integrated into modern trading practices incorporating technical indicators to enhance decision-making strategies"
+title: Essential Guide to Candlestick Chart Analysis for Traders
+description: Candlestick chart analysis reveals price movements and key patterns to
+  help traders predict trends and potential reversals. Discover more inside.
 ---
 
 

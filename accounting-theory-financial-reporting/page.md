@@ -1,6 +1,7 @@
 ---
-title: "Accounting Theory in Financial Reporting"
-description: "Discover the integration of accounting theory with financial reporting and algorithmic trading, essential for maintaining financial transparency and strategic success."
+title: Essential Accounting Theory Guide to Financial Reporting
+description: Accounting theory shapes financial reporting by setting principles that
+  improve accuracy and comparability of statements. Discover more inside.
 ---
 
 

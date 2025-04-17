@@ -1,6 +1,7 @@
 ---
-title: "Bank Reserves and the Deposit Multiplier"
-description: "Explore how bank reserves, the deposit multiplier, and algorithmic trading influence modern banking and economic stability, aiding finance professionals and consumers."
+title: Essential Guide To Bank Reserves And Deposit Multiplier Dynamics
+description: Deposit multiplier explains how banks turn deposits into money supply
+  by managing reserves and lending to drive economic activity Discover more inside.
 ---
 
 

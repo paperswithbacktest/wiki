@@ -1,6 +1,7 @@
 ---
-title: "automated market makers (AMM)"
-description: "Discover the transformative role of automated market makers in decentralized finance. Learn how AMMs enhance crypto trading with liquidity pools and smart contracts."
+title: Essential Guide to Automated Market Maker Models and Mechanics
+description: Automated market maker technology explores liquidity pools bonding curves
+  impermanent loss governance and decentralized trading Discover more inside
 ---
 
 

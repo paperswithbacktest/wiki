@@ -1,6 +1,7 @@
 ---
-title: "Alternative Investing: Overview and Examples"
-description: "Explore alternative investing, algorithmic trading, and modern strategies to enhance portfolio diversity and returns in today's competitive financial markets."
+title: Ultimate Alternative Investing Guide for Diversified Portfolios
+description: Alternative investing expands your portfolio beyond stocks into real
+  estate and private equity for strategic diversification Discover more inside
 ---
 
 

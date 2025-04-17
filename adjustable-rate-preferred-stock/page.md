@@ -1,6 +1,7 @@
 ---
-title: "Adjustable-Rate Preferred Stock"
-description: "Adjustable-rate preferred stocks offer a blend of income stability and capital preservation adapting to market highs and lows through variable dividends."
+title: Essential Guide to Adjustable-Rate Preferred Stock
+description: Adjustable-Rate Preferred Stock offers dynamic dividends linked to interest
+  rates to boost income and guard against inflation Discover more inside
 ---
 
 

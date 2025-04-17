@@ -1,6 +1,7 @@
 ---
-title: "Bitcoin Cryptocurrency Overview"
-description: "Explore the transformational impact of Bitcoin and cryptocurrencies, the underlying blockchain technology, and the rise of algorithmic trading in today's finance world."
+title: The Essential Guide to Bitcoin Technology and Finance
+description: Bitcoin overview covers blockchain, mining, security, volatility, and
+  regulation to guide your understanding of digital currency Discover more inside
 ---
 
 

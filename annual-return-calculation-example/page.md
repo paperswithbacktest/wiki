@@ -1,6 +1,7 @@
 ---
-title: "Annual Return: Explanation and Calculation Example"
-description: "Discover the fundamentals of annual returns and how algorithmic trading enhances investment strategies in this comprehensive guide. Learn to calculate investment performance with simple annual return and CAGR formulas, gaining insights into aligning your portfolio with financial goals. Explore how algorithmic trading leverages technology to optimize returns by exploiting market opportunities. Unlock strategic know-how to navigate modern financial markets and enhance your investment performance with a deep dive into the intersection of finance, investment metrics, and advanced trading technologies."
+title: Essential Guide to Annual Return Calculation for Investors
+description: Annual return shows investors yearly performance and compares assets
+  with simple and compound formulas for clearer analysis Discover more inside
 ---
 
 

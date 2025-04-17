@@ -1,6 +1,7 @@
 ---
-title: "Basic Mathematical Concepts for Fixed-Coupon Corporate Bonds"
-description: "Explore the core concepts of fixed-coupon corporate bonds and discover how algorithmic trading is revolutionizing bond markets with enhanced efficiency."
+title: Essential Guide to Fixed-Coupon Corporate Bond Fundamentals
+description: Fixed-coupon corporate bond investing requires mastering coupon rates
+  yields duration and credit risk to make informed decisions Discover more inside.
 ---
 
 

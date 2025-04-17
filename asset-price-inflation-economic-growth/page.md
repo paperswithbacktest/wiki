@@ -1,6 +1,7 @@
 ---
-title: "Asset Price Inflation and Economic Growth"
-description: "Explore the interplay between asset price inflation, economic growth, and algorithmic trading to understand their impact on market stability and investor behavior."
+title: Essential Guide to Asset Price Inflation and Economic Growth
+description: Asset price inflation drives rising values in real estate stocks and
+  bonds unlocking spending power but risks bubbles and swings Discover more inside
 ---
 
 

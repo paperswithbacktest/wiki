@@ -1,6 +1,7 @@
 ---
-title: "After-Tax Real Rate of Return and Calculation Method"
-description: "Discover how after-tax real rate of return impacts investment profitability in algorithmic trading by accounting for inflation and taxes. Optimize gains efficiently."
+title: Essential Guide to Calculating After-Tax Real Rate of Return
+description: After-Tax Real Rate of Return reveals true investment growth after taxes
+  and inflation with clear steps to boost returns Discover more inside
 ---
 
 

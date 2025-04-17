@@ -1,6 +1,7 @@
 ---
-title: "ADP National Employment Report Overview"
-description: "Explore how ADP National Employment Report shapes algorithmic trading strategies by providing insights into private-sector job trends and influencing market dynamics."
+title: Essential Guide to the ADP National Employment Report
+description: ADP National Employment Report provides monthly insights using payroll
+  data on private sector job changes by industry and company size Discover more inside
 ---
 
 

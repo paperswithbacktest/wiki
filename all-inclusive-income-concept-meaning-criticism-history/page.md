@@ -1,6 +1,7 @@
 ---
-title: "All-Inclusive Income Concept: Meaning, Criticism, and History"
-description: "Explore the all-inclusive income concept in accounting highlighting its expansive approach to income reporting. Learn about the criticisms and history of this method."
+title: Essential Guide to the All-Inclusive Income Concept
+description: All-inclusive income concept shows every gain loss and expense in one
+  income statement for a clear view of financial performance Discover more inside.
 ---
 
 

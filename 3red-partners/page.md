@@ -1,6 +1,7 @@
 ---
-title: "3Red Partners (Hedge Fund)"
-description: "3Red Partners excels in algorithmic trading by leveraging advanced technology and a collaborative culture to navigate financial markets with precision and innovation."
+title: Proven Business Efficiency Strategies by 3Red Partners
+description: 3Red Partners boosts efficiency and profitability with tailored tech
+  strategy and management solutions for lasting growth Discover more inside
 ---
 
 ![Image](images/1.png)

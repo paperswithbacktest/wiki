@@ -1,6 +1,7 @@
 ---
-title: "Benefits of Triple Exponential Moving Average"
-description: "Discover the power of Triple Exponential Moving Average (TRIX) in trading Learn how TRIX filters market noise identifies trends and enhances algorithmic trading strategies"
+title: Essential Guide to Triple Exponential Moving Average TEMA
+description: TEMA or Triple Exponential Moving Average uses three layers of smoothing
+  to cut lag and highlight trends faster for smarter trades Discover more inside
 ---
 
 

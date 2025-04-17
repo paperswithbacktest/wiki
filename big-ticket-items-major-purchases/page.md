@@ -1,6 +1,7 @@
 ---
-title: "Big-Ticket Items and Major Purchases"
-description: "Explore the relationship between consumer behavior and major purchases with insights into how algorithmic trading and economic factors like inflation impact spending habits."
+title: Ultimate Guide to Smart Big Ticket Purchases
+description: Big-ticket purchases impact your budget significantly Learn how to plan
+  savings check credit loan options and time buying right Discover more inside.
 ---
 
 

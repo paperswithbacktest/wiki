@@ -1,6 +1,7 @@
 ---
-title: "Benchmarks in Investing"
-description: "Explore the vital role of investment benchmarks in algorithmic trading to enhance portfolio performance. Understand their impact on modern investing strategies."
+title: Ultimate Investment Benchmarks for Optimal Performance
+description: Investment benchmarks help investors compare portfolios to market performance,
+  refine strategies for growth and manage risk Discover more inside
 ---
 
 

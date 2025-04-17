@@ -1,6 +1,7 @@
 ---
-title: "Adam Smith: Biography and Legacy"
-description: "Explore Adam Smith's influential economic theories and their connection to modern algorithmic trading shaping economic thought and policy since the 18th century."
+title: Essential Guide to Adam Smith's Economic Theories and Legacy
+description: Adam Smith's economic theories explain how free trade, the invisible
+  hand, and specialization drive prosperity and shape markets Discover more inside.
 ---
 
 

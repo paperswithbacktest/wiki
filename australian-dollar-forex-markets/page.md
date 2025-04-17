@@ -1,6 +1,7 @@
 ---
-title: "Australian Dollar: Overview and Role in Forex Markets"
-description: "Explore the role of the Australian Dollar in Forex markets with a focus on algorithmic trading. Understand how the AUD's ties to commodities influence trading strategies."
+title: Insider Guide to the Australian Dollar in Forex Markets
+description: Australian Dollar analysis reveals key drivers from RBA policy to commodity
+  prices and trading strategies in active markets Discover more inside.
 ---
 
 

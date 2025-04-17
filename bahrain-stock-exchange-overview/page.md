@@ -1,6 +1,7 @@
 ---
-title: "Bahrain Stock Exchange Overview"
-description: "Discover the Bahrain Stock Exchange's evolution to Bahrain Bourse and its embrace of algorithmic trading enhancing financial market efficiency and attracting investors."
+title: Essential Insider Guide to Bahrain Stock Exchange Trading
+description: Bahrain Stock Exchange trading explained with clear steps on account
+  setup research and market indices for savvy investing. Discover more inside.
 ---
 
 

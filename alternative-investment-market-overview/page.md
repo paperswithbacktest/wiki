@@ -1,6 +1,7 @@
 ---
-title: "Alternative Investment Market Overview"
-description: "Explore the dynamic world of the Alternative Investment Market and algorithmic trading Discover AIM's flexible regulatory environment and its impact on investors."
+title: Essential Guide to Investing in the Alternative Investment Market
+description: Alternative Investment Market offers flexible listing rules tax incentives
+  and growth potential for diversifying portfolios. Discover more inside.
 ---
 
 

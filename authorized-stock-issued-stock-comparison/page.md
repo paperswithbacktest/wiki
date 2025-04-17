@@ -1,6 +1,8 @@
 ---
-title: "Authorized Stock and Issued Stock Comparison"
-description: "Understand the difference between authorized and issued stock to make informed investment decisions. Learn their impact on trading, dilution, and market strategies."
+title: Ultimate Insider Guide to Managing Authorized Versus Issued Stock
+description: "Authorized vs issued stock shapes a company\u2019s capital strategy\
+  \ by defining share limits and issuance flexibility while guiding growth Discover\
+  \ more inside"
 ---
 
 

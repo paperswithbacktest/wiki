@@ -1,6 +1,7 @@
 ---
-title: "American Customer Satisfaction Index"
-description: "Explore how American Customer Satisfaction Index data enhances algorithmic trading strategies by integrating consumer insights for improved market decisions."
+title: Ultimate Guide to the American Customer Satisfaction Index
+description: American Customer Satisfaction Index tracks happiness across industries
+  with quarterly updates to benchmark and improve service Discover more inside.
 ---
 
 

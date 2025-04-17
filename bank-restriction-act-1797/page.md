@@ -1,6 +1,7 @@
 ---
-title: "Bank Restriction Act 1797"
-description: "Explore the lasting impact of the Bank Restriction Act 1797 on British monetary policy and its relevance to today's algorithmic trading strategies."
+title: The Essential Guide to the Bank Restriction Act of 1797
+description: The Bank Restriction Act of 1797 reshaped the monetary system in Britain
+  by halting gold exchanges and stabilizing wartime finances Discover more inside.
 ---
 
 

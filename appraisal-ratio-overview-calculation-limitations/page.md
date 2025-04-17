@@ -1,6 +1,7 @@
 ---
-title: "Appraisal Ratio: Overview, Calculation, and Limitations"
-description: "Explore the appraisal ratio in algo trading to measure portfolio returns against unsystematic risk. Understand its role in optimizing strategies and assessing managers."
+title: Essential Appraisal Ratio Insights Smarter Investment Decisions
+description: Appraisal Ratio reveals if returns justify risk by comparing alpha to
+  unsystematic risk and guides smarter portfolio decisions Discover more inside
 ---
 
 

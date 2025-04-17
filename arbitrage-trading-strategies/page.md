@@ -1,6 +1,7 @@
 ---
-title: "Arbitrage trading strategies"
-description: Learn about arbitrage trading, a profitable strategy that involves buying and selling the same asset in different markets to exploit price discrepancies. Explore various types of arbitrage including risk, statistical, and currency arbitrage. Dive into detailed strategies like triangular currency arbitrage and merger arbitrage, with essential resources provided for further study.
+title: Essential Arbitrage Trading Strategies for Modern Markets
+description: Arbitrage trading enables traders to exploit market price discrepancies
+  across assets using advanced tools and techniques Discover more inside
 ---
 
 

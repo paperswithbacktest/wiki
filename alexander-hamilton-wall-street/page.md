@@ -1,6 +1,8 @@
 ---
-title: "Alexander Hamilton and the Foundations of Wall Street"
-description: "Explore how Alexander Hamilton's innovative financial policies laid the groundwork for Wall Street's development and the rise of algorithmic trading."
+title: Ultimate Guide to Alexander Hamilton's Wall Street Vision
+description: "Alexander Hamilton shaped America\u2019s economy by establishing the\
+  \ First Bank and US Mint and seeding Wall Street\u2019s rise as financial hub Discover\
+  \ more inside"
 ---
 
 

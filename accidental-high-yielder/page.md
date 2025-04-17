@@ -1,6 +1,7 @@
 ---
-title: "Accidental High Yielder"
-description: "Discover accidental high-yield opportunities in algo trading Leverage powerful algorithms to identify undervalued assets and maximize returns with minimal risk"
+title: Insider Guide to Accidental High-Yield Stocks and Risks
+description: Accidental high-yield stocks occur when price drops boost dividend yields
+  without warning Assess risks and safeguard income Discover more inside
 ---
 
 

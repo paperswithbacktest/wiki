@@ -1,6 +1,7 @@
 ---
-title: "List of American Funds Mutual Funds with Long Performance Histories"
-description: "Explore the significant impact of American Funds Mutual Funds and algorithmic trading on modern investment strategies including long-term growth and trading efficiency"
+title: Essential Insights Into American Funds Mutual Funds Performance
+description: American Funds mutual funds offer long performance histories, expert
+  management for balanced growth and income with tailored options Discover more inside.
 ---
 
 

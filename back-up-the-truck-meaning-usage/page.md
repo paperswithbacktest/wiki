@@ -1,6 +1,7 @@
 ---
-title: "Back Up The Truck: Meaning and Usage"
-description: "Explore 'back up the truck' in algo trading a term for investing heavily in promising assets. Learn its origins usage and its role in investment strategies"
+title: Essential Insider Guide to Back Up The Truck Idiom
+description: Back Up The Truck illustrates how this idiom moved from finance to everyday
+  use and offers tips on proper contexts and usage Discover more inside.
 ---
 
 

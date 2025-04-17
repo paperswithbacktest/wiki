@@ -1,6 +1,7 @@
 ---
-title: "Accessing Company Earnings Reports"
-description: "Explore how algorithmic trading and company financial reports converge to enhance investment strategies Unlock opportunities for improved returns and risk management"
+title: Essential Guide to Company Earnings Reports and Key Metrics
+description: Company earnings reports reveal financial health and key metrics so investors
+  can make smarter decisions based on real data. Discover more inside.
 ---
 
 

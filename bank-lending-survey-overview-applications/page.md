@@ -1,6 +1,7 @@
 ---
-title: "Bank Lending Survey: Overview and Applications"
-description: "Explore the evolving landscape of bank lending surveys and algorithmic trading Discover how these tools enhance financial analysis credit assessment and market dynamics"
+title: Essential Bank Lending Survey Insights for Economic Policy
+description: Bank Lending Survey shows how central banks adjust loan criteria to stabilize
+  growth and control risks in the economy Discover more inside today
 ---
 
 

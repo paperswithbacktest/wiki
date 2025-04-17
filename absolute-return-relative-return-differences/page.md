@@ -1,6 +1,7 @@
 ---
-title: "Absolute Return and Relative Return: Differences"
-description: "Understand absolute and relative returns in investing and their role in algorithmic trading to optimize investment strategies and enhance portfolio performance."
+title: Essential Guide to Absolute and Relative Return Metrics
+description: Absolute return and relative return explained with practical examples
+  and calculations to help investors measure performance to decide Discover more inside
 ---
 
 

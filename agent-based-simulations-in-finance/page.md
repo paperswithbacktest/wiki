@@ -1,6 +1,7 @@
 ---
-title: "Agent-based simulations in finance"
-description: "Explore how agent-based simulations revolutionize algorithmic trading in finance, offering insights into complex market dynamics and enhancing trading strategies."
+title: Ultimate Guide to Agent-Based Simulations in Finance
+description: Agent-Based Simulation in Finance delivers insights on complex market
+  behaviors by modeling agent decisions and interactions. Discover more inside.
 ---
 
 

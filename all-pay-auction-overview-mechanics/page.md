@@ -1,6 +1,7 @@
 ---
-title: "All-Pay Auction: Overview and Mechanics"
-description: "Explore the all-pay auction model where all bidders pay their bids and discover its strategic insights and impact on algorithmic trading strategies."
+title: Essential Guide to All-Pay Auctions and Strategic Bidding
+description: All-pay auction strategies reveal how participants can balance bids and
+  risks to maximize payoff and avoid costly mistakes Discover more inside.
 ---
 
 

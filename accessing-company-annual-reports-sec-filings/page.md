@@ -1,6 +1,7 @@
 ---
-title: "Accessing Company Annual Reports and SEC Filings"
-description: "Discover the role of annual reports and SEC filings in financial analysis and algorithmic trading Learn how they enhance transparency and drive investment strategies"
+title: Essential Guide to Company Annual Reports and SEC Filings
+description: Company annual reports and SEC filings reveal key financial metrics and
+  risks to help investors make informed decisions Discover more inside
 ---
 
 

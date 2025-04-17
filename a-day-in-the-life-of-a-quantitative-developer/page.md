@@ -1,6 +1,7 @@
 ---
-title: "A Day in the Life of a Quantitative Developer"
-description: Explore the dynamic world of quantitative developers in algorithmic trading, where mathematical models and computational techniques meld to optimize trading strategies, enhance risk management, and analyze market behavior. Discover the essential skills, qualifications, and daily activities that define the quant profession, including statistical analysis, programming, and financial acumen. Learn how quants drive decision-making in fast-paced financial markets through innovative algorithms and collaborative teamwork, ensuring a competitive edge for trading firms in an increasingly sophisticated landscape.
+title: Essential Guide to the Quantitative Developer Role in Finance
+description: Quantitative developer roles require math coding and teamwork to build
+  models that inform trading strategy and manage risk Discover more inside
 ---
 
 

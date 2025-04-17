@@ -1,6 +1,7 @@
 ---
-title: "Automl (Machine Learning)"
-description: "AutoML simplifies machine learning by automating model selection and tuning allowing non-experts to leverage its power for efficient problem-solving and predictions."
+title: Essential Guide to AutoML Technology and Its Key Benefits
+description: AutoML technology simplifies machine learning by automating model selection
+  data prep and tuning for faster insights and efficiency Discover more inside.
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Average Return on Equity of Banks"
-description: "Explore the significance of Return on Equity in evaluating banks' performance and its application in algorithmic trading to identify high-efficiency stocks."
+title: Essential Guide to Return on Equity Analysis for Banks
+description: Return on Equity reveals how banks drive profit from shareholder funds
+  and compares key benchmarks strategies and risks. Discover more inside.
 ---
 
 

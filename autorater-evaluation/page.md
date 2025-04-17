@@ -1,6 +1,7 @@
 ---
-title: "Autorater Evaluation (Machine Learning)"
-description: "Learn about Autorater Evaluation in machine learning which ensures model ratings align with human judgment using metrics like accuracy and correlation."
+title: Essential Insights Into Autorater Evaluation for Machine Learning
+description: Autorater Evaluation matches model scores to human ratings using correlation
+  metrics to boost consistency and reliability Discover more inside.
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Adopter Categories"
-description: "Discover how innovation adoption shapes algorithmic trading success. Learn to identify adopter categories and the Diffusion of Innovations theory to boost competitive edge."
+title: Essential Guide to Adopter Categories in Marketing Strategy
+description: Adopter Categories enable tailored marketing to innovators early adopters
+  and majorities for stronger product diffusion. Discover more inside.
 ---
 
 

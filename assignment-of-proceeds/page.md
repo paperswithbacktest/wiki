@@ -1,6 +1,7 @@
 ---
-title: "Assignment of Proceeds"
-description: "Explore the critical role of assignment of proceeds in international trade and the impact of algorithmic trading on financial strategies for enhanced efficiency."
+title: Essential Guide to Assignment of Proceeds in Trade Finance
+description: Assignment of proceeds ensures sellers receive payments securely through
+  a bank while meeting delivery conditions Discover more inside.
 ---
 
 

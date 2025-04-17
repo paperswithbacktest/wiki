@@ -1,6 +1,7 @@
 ---
-title: "Bid and Ask Size in Stock Quotes"
-description: "Explore the fundamentals of stock quotes including bid and ask sizes, and their vital role in algorithmic trading. Unlock insights into market liquidity and dynamics."
+title: Essential Guide to Bid and Ask Sizes in Stock Trading
+description: Bid and Ask Sizes reveal supply and demand dynamics that impact stock
+  liquidity helping traders make informed buy or sell decisions Discover more inside.
 ---
 
 

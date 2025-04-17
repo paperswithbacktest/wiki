@@ -1,6 +1,7 @@
 ---
-title: "Average Length of Economic Boom and Bust Cycles"
-description: "Explore the interplay between economic cycles and algorithmic trading, uncovering how technology aids in navigating boom and bust phases for optimized market strategies."
+title: Ultimate Guide to Economic Cycle Phases and Influences
+description: Economic cycle dynamics unveil phases from expansion to trough with actionable
+  insights on durations factors and predictive models Discover more inside.
 ---
 
 

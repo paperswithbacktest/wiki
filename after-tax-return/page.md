@@ -1,6 +1,7 @@
 ---
-title: "After-Tax Return"
-description: "Understand how taxes impact your trading profits Learn strategies to optimize returns in algorithmic trading by accounting for varied tax treatments and liabilities"
+title: Essential Guide to Maximizing After-Tax Investment Returns
+description: After-tax return analysis reveals the real earnings of your investments
+  by accounting for taxes on gains and income streams Discover more inside.
 ---
 
 

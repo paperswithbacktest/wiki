@@ -1,6 +1,7 @@
 ---
-title: "The Basics of Options Trading"
-description: Discover the fundamentals of options trading and its integration with algorithmic trading to enhance investment strategies. Explore how options empower investors to hedge, speculate, and improve returns while utilizing advanced algorithms for efficient execution. Understand key terms and benefits associated with options to gain a competitive edge in financial markets through informed decision-making and rapid market adjustments.
+title: Essential Options Trading Guide for Beginner Investors
+description: Options trading lets you leverage call and put contracts to profit or
+  hedge your portfolio with defined risk and flexible strategies Discover more inside.
 ---
 
 

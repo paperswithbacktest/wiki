@@ -1,6 +1,7 @@
 ---
-title: "Annualized Total Return"
-description: "Discover the importance of total return and annualized return in evaluating investment performance and algorithmic trading success, optimizing your financial strategies."
+title: Essential Guide to Annualized Total Return Calculation
+description: Annualized Total Return translates your investment gains into a consistent
+  annual rate that factors compounding for clear comparisons Discover more inside.
 ---
 
 

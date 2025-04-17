@@ -1,6 +1,7 @@
 ---
-title: "Algorithmic Trading Strategies: A Comprehensive Guide"
-description: Discover the world of Algorithmic Trading with our comprehensive guide. Learn about different algorithmic trading strategies, their applications, advantages, and risks in various asset classes such as Equities, Cryptocurrencies, Commodities, Currencies, Bonds, and Options. Master key components like trading algorithms, risk management, backtesting, and infrastructure to design and implement successful trading algorithms. Explore popular execution and systematic trading strategies for optimization and prediction. Dive into the fascinating blend of technology and finance.
+title: Ultimate Insider Guide to Algorithmic Trading Strategies
+description: Algorithmic trading explains essential strategies from trend following
+  to machine learning with backtesting and risk management Discover more inside
 ---
 
 

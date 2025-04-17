@@ -1,6 +1,7 @@
 ---
-title: "Base Rate Fallacy and Its Impact"
-description: "Explore the base rate fallacy's influence on algorithmic trading by understanding cognitive biases that can skew data-driven decision-making, impacting financial outcomes."
+title: Proven Strategies To Effectively Avoid The Base Rate Fallacy
+description: Base rate fallacy highlights why ignoring how common events are leads
+  to errors Factor general statistics into decisions Discover more inside.
 ---
 
 

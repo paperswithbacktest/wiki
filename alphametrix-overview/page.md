@@ -1,6 +1,7 @@
 ---
-title: "AlphaMetrix Overview"
-description: "Discover AlphaMetrix's rise and fall in algorithmic trading providing insights into technological innovation and financial management in the hedge fund industry."
+title: Insider Insights on AlphaMetrix Hedge Fund Investment Platform
+description: AlphaMetrix simplified hedge fund investing by handling paperwork so
+  investors stay informed and confident in their choices Discover more inside
 ---
 
 

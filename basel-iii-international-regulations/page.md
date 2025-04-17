@@ -1,6 +1,7 @@
 ---
-title: "Basel III International Regulations"
-description: "Discover how Basel III regulations and algorithmic trading shape today's financial landscape Ensuring stability and mitigating risks in the global banking sector"
+title: Essential Basel III Guide to Strengthen Global Bank Stability
+description: Basel III regulations boost bank resilience with stronger capital requirements,
+  liquidity ratios, and enhanced risk controls Discover more inside.
 ---
 
 

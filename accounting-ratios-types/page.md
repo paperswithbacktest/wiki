@@ -1,6 +1,7 @@
 ---
-title: "Accounting Ratios and Their Types"
-description: "Explore how accounting ratios like profitability and liquidity are vital in both traditional financial analysis and modern algorithmic trading strategies."
+title: Essential Accounting Ratios for Financial Analysis and Insight
+description: Accounting Ratios turn financial statements into actionable metrics on
+  profitability, liquidity and solvency for smarter analysis Discover more inside
 ---
 
 

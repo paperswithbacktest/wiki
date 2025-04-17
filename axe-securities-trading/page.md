@@ -1,6 +1,8 @@
 ---
-title: "Axe in Securities Trading"
-description: "Explore the importance of understanding the term 'axe' in securities trading and its implications on market strategies and dynamics, especially in algorithmic trading."
+title: "Essential Insights Into the Trader\u2019s Axe in Securities Trading"
+description: "Trader\u2019s axe reveals how focusing on a specific security shapes\
+  \ trading decisions and market liquidity to enhance your strategy Discover more\
+  \ inside."
 ---
 
 

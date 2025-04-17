@@ -1,6 +1,7 @@
 ---
-title: "Back Months in Finance"
-description: "Explore the role of back months in futures contracts and the impact of algorithmic trading strategies on long-term hedging and speculation in financial markets."
+title: Essential Guide to Back Months in Futures and Options Trading
+description: Back months reveal trader expectations for future price shifts in futures
+  and options markets and can guide investment strategies Discover more inside.
 ---
 
 

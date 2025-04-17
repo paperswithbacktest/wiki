@@ -1,6 +1,7 @@
 ---
-title: "Bag of Words in NLP"
-description: Explore the simplicity and effectiveness of the Bag of Words model in NLP for algorithmic trading. Discover how this approach transforms text into numerical data, aiding traders in analyzing financial news and social media to make informed decisions. Understand the model's applications, benefits, and limitations in enhancing trading strategies with data-driven metrics.
+title: Essential Insider Guide to the Bag of Words Model in NLP
+description: Bag of Words model transforms text into frequency vectors for efficient
+  NLP tasks with clear explanations and Python code. Discover more inside.
 ---
 
 

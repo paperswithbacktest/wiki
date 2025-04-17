@@ -1,6 +1,7 @@
 ---
-title: "2013 Taper Tantrum: Causes and Impact"
-description: "Explore the causes and impacts of the 2013 Taper Tantrum sparked by the Federal Reserve's QE tapering announcement and its global financial implications."
+title: Essential Insider Analysis of the 2013 Fed Taper Tantrum
+description: 2013 Taper Tantrum shook global markets when the Fed hinted at reducing
+  QE causing bond sell offs and emerging market currency drops Discover more inside.
 ---
 
 ![Image](images/taper.png)

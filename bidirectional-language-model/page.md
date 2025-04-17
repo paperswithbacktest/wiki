@@ -1,6 +1,7 @@
 ---
-title: "Bidirectional Language Model (Machine Learning)"
-description: "Explore what bidirectional language models are and how they use context to enhance tasks like question answering and language translation efficiently."
+title: The Ultimate Guide To Bidirectional Language Models
+description: Bidirectional language models improve comprehension by using context
+  before and after words with transformers and self attention Discover more inside
 ---
 
 ![Image](images/1.png)

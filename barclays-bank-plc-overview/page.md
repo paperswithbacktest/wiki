@@ -1,6 +1,7 @@
 ---
-title: "Barclays Bank PLC Overview"
-description: "Explore Barclays' strategic approach to finance highlighting the impact of algorithmic trading through its BARX platform and commitment to innovation."
+title: Insider Guide to Barclays Bank PLC Global Services and Operations
+description: Barclays Bank PLC presents an engaging overview of its history services
+  global operations digital banking strategy and CSR initiatives Discover more inside
 ---
 
 

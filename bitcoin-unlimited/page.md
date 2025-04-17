@@ -1,6 +1,7 @@
 ---
-title: "Bitcoin Unlimited"
-description: "Explore Bitcoin Unlimited a project focused on blockchain scalability through increased block size and algorithmic trading insights. Learn how these innovations address crypto market challenges."
+title: Essential Guide to Bitcoin Unlimited Block Size Scalability
+description: Bitcoin Unlimited lets users vote on block size to boost transaction
+  speed and cut fees while balancing network security Discover more inside today
 ---
 
 

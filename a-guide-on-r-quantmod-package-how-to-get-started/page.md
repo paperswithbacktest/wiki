@@ -1,6 +1,7 @@
 ---
-title: "A Guide on R Quantmod Package"
-description: Explore the quantmod package in R designed to aid traders and quantitative analysts in developing and testing algorithmic trading strategies efficiently. This guide highlights the package's functionalities including its role in financial data analysis and strategy implementation. Understand how quantmod facilitates trading model generation and backtesting while providing detailed insights for both seasoned and novice traders. Learn about its comprehensive features for automating initial data acquisition and performing complex visualizations and analyses. Maximize your trading strategy potential with this versatile R package.
+title: Essential R Quantmod Package Guide for Financial Analysis
+description: R Quantmod package helps financial analysts download historical market
+  data, plot charts, apply indicators and backtest strategies Discover more inside
 ---
 
 

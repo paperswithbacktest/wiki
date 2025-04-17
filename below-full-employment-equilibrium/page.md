@@ -1,6 +1,7 @@
 ---
-title: "Below Full Employment Equilibrium"
-description: "Explore the dynamic intersection of economic equilibrium full employment and algorithmic trading to understand their impact on global markets and growth strategies."
+title: Essential Guide to Below Full Employment Equilibrium
+description: Below full employment equilibrium arises when job seekers exceed openings
+  causing an output gap and slower growth. Discover practical solutions inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Accrual Swap: Overview, Mechanism, and Variants"
-description: "Explore the dynamics of accrual swaps and their strategic applications in algo trading Learn how financial entities manage risk and enhance trade efficiency with swaps"
+title: Essential Guide To Accrual Swaps For Strategic Risk Management
+description: Accrual swap strategies help manage interest rate risk by enabling conditional
+  floating rate payments within specified ranges. Discover more inside.
 ---
 
 

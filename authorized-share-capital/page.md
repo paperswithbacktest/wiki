@@ -1,6 +1,7 @@
 ---
-title: "Authorized Share Capital"
-description: "Explore the crucial financial concepts of capital stock, share capital, authorized shares, and algorithmic trading in our comprehensive article. Gain insights into how these elements shape corporate structure and investment strategies, impacting shareholder equity and market dynamics. This guide aims to enhance your understanding of these pivotal components, enabling informed decision-making in today's finance landscape."
+title: Essential Guide to Authorized Share Capital in Corporate Finance
+description: Authorized share capital sets how many shares a company can issue and
+  shows how to adjust limits with shareholder approval. Discover more inside.
 ---
 
 

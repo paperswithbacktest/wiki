@@ -1,6 +1,7 @@
 ---
-title: "Bank of Montreal"
-description: Explore the transformative impact of algorithmic trading at the Bank of Montreal. Discover how BMO leverages advanced algorithms and technology to enhance trade efficiency and execution in the capital markets. This page investigates into BMO’s cutting-edge trading practices, including proprietary strategies like the Arc algorithm, and highlights the benefits for clients such as optimal pricing, liquidity access, and market impact reduction. Learn how BMO’s commitment to innovation and technology positions it at the forefront of modern trading in an increasingly digital environment.
+title: Essential Guide to the Bank of Montreal and Its Services
+description: Bank of Montreal combines a 200-year heritage with modern banking and
+  sustainability to empower customers across Canada and US Discover more inside
 ---
 
 

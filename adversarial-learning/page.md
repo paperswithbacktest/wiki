@@ -1,6 +1,7 @@
 ---
-title: "Adversarial learning"
-description: "Explore the role of adversarial learning in algo trading, highlighting its adaptive strategy development to tackle market fluctuations and enhance trading efficiency."
+title: Ultimate Guide to Adversarial Learning Concepts and Applications
+description: Adversarial learning trains two competing models to generate realistic
+  data improve performance and security across applications Discover more inside
 ---
 
 

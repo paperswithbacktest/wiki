@@ -1,6 +1,7 @@
 ---
-title: "Bayesian Optimization (Machine Learning)"
-description: "Bayesian Optimization optimizes machine learning models by smartly balancing trial guesses using probability reducing computation time and enhancing efficiency."
+title: Essential Guide To Bayesian Optimization For Machine Learning
+description: Bayesian Optimization uses surrogate models and acquisition functions
+  to fine tune hyperparameters saving time and compute Discover more inside
 ---
 
 ![Image](images/1.png)

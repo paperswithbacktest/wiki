@@ -1,6 +1,7 @@
 ---
-title: "Analysis of Real Estate Investment Trusts"
-description: "Explore the intricacies of Real Estate Investment Trusts (REITs) and their significance in diversified investment portfolios. This article offers insights into REIT structures, income potential, and algorithmic trading's role in optimizing REIT investments. Understand the metrics and analyses that differentiate REIT evaluation from traditional stocks and discover strategies to integrate REITs into your investment approach for optimal returns."
+title: Insider Techniques for Evaluating Real Estate Investment Trusts
+description: Real Estate Investment Trusts provide regular dividend income and portfolio
+  diversification with key metrics and risk analysis Discover more inside.
 ---
 
 

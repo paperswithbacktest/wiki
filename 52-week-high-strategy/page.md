@@ -1,6 +1,7 @@
 ---
-title: "52-Week High Strategy Explained"
-description: Explore the 52-week high strategy in algorithmic trading to capitalize on stock momentum by purchasing stocks nearing their annual price peaks. Unlike traditional methods, this approach leverages ongoing price trends and investor confidence for potential gains. Discover how algo trading systems are designed to implement these strategies efficiently, minimizing manual oversight while maximizing market opportunities. Learn about the metrics and psychological factors influencing this strategy and the role of technical analysis in refining trading decisions.
+title: Proven 52-Week High Strategy for Momentum Investors
+description: 52-Week High Strategy guides investors to identify stocks with strong
+  momentum by tracking yearly peak prices for timing trades Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

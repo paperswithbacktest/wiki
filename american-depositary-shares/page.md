@@ -1,6 +1,7 @@
 ---
-title: "American Depositary Shares"
-description: "Explore the potential of American Depositary Shares and algorithmic trading to diversify investment portfolios by accessing foreign equities through US exchanges."
+title: Essential Guide to American Depositary Shares for Investors
+description: American Depositary Shares let U.S. investors trade foreign firms on
+  U.S. exchanges without currency hurdles to diversify portfolios Discover more inside
 ---
 
 

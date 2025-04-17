@@ -1,6 +1,7 @@
 ---
-title: "Article 9: Overview and Revisions"
-description: "Explore the significance of UCC Article 9, focusing on its impact on algorithmic trading. Understand revisions that address trading complexities and enhance regulatory compliance."
+title: Essential Guide to Revised EU SFDR Article 9 Requirements
+description: EU SFDR Article 9 revisions ensure transparent sustainable investment
+  disclosures and compliance guidance for financial firms Discover more inside
 ---
 
 

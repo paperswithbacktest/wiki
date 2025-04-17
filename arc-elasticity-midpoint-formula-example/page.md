@@ -1,6 +1,7 @@
 ---
-title: "Arc Elasticity: Midpoint Formula and Example"
-description: "Explore arc elasticity and the midpoint formula to understand demand response to price shifts, crucial for strategic pricing and algorithmic trading insights."
+title: Proven Arc Elasticity Strategies for Smarter Pricing
+description: Arc elasticity shows how demand shifts across price ranges with the midpoint
+  formula and helps businesses optimize pricing Discover more inside.
 ---
 
 

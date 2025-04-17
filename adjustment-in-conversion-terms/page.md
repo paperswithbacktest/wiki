@@ -1,6 +1,7 @@
 ---
-title: "Adjustment in Conversion Terms"
-description: "Explore adjustment in conversion terms and algorithmic trading in financial markets Discover how these concepts protect investors and enhance trading strategies in a digital era"
+title: Essential Guide To Adjusting Conversion Terms For Securities
+description: Conversion Terms in convertible securities define how bonds or preferred
+  shares turn into stock and ensure fair adjustments Discover more inside.
 ---
 
 

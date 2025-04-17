@@ -1,6 +1,7 @@
 ---
-title: "Assignable Contract: Overview and Key Considerations"
-description: "Explore the intersection of assignable contracts and algorithmic trading, uncovering strategic advantages and insights into modern financial instruments and markets."
+title: The Ultimate Guide to Assignable Contract Management
+description: Assignable contract guide outlines assignment rights steps legal rules
+  and risk management so you can transfer agreements confidently Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Actively Managed ETFs: Overview and Limitations"
-description: "Discover the benefits and drawbacks of actively managed ETFs, including impact from algorithmic trading and how these investment vehicles can fit your strategy."
+title: Essential Guide to Actively Managed ETFs for Investors
+description: Actively managed ETFs harness expert stock selection and sector rotation
+  to target higher returns while adapting to market shifts Discover more inside.
 ---
 
 

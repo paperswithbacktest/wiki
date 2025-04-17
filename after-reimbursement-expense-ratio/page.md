@@ -1,6 +1,7 @@
 ---
-title: "After Reimbursement Expense Ratio"
-description: "Explore the impact of expense ratios, reimbursements, and algorithmic trading on investment decisions and outcomes. Enhance your strategy for better returns."
+title: Essential Guide to After Reimbursement Expense Ratio
+description: After Reimbursement Expense Ratio reveals the actual cost of funds after
+  fee waivers helping investors compare fees and choose wisely Discover more inside
 ---
 
 

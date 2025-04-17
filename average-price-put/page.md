@@ -1,6 +1,7 @@
 ---
-title: "Average Price Put"
-description: "Explore the impact of algorithmic trading on average price put options, enhancing hedging strategies by optimizing execution and managing volatility effectively."
+title: Essential Guide to Average Price Puts for Effective Hedging
+description: Average Price Put options let investors limit losses by averaging asset
+  prices over the option period to smooth volatility for hedging Discover more inside
 ---
 
 

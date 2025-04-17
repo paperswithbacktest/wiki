@@ -1,6 +1,7 @@
 ---
-title: "Application of Technical Indicators in Mutual Fund Analysis"
-description: "Enhance your mutual fund strategies with technical indicators and algorithmic trading to optimize entries and exits adaptively in today's evolving market landscape."
+title: Essential Technical Indicators for Mutual Fund Analysis
+description: Technical indicators help investors predict mutual fund trends with moving
+  averages RSI and MACD for smarter entries and exits Discover more inside
 ---
 
 

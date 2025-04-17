@@ -1,6 +1,7 @@
 ---
-title: "Bayesian Statistics for Algo Trading"
-description: Explore Bayesian statistics, a branch of statistics focused on updating probabilities as new evidence becomes available. At its core is Bayes' theorem, which helps revise initial beliefs (priors) with observed data (likelihood) to form updated beliefs (posteriors). This framework contrasts with frequentist methods and is widely applied in fields such as machine learning, finance, and medical diagnostics. Bayesian techniques, through their ability to incorporate prior knowledge and handle uncertainty, offer flexible solutions for complex data analysis and decision-making processes in an era of big data.
+title: Essential Guide to Bayesian Statistics and Bayes' Theorem
+description: Bayesian Statistics uses Bayes theorem to update beliefs with new evidence
+  for refined predictions in medicine finance AI and beyond Discover more inside.
 ---
 
 

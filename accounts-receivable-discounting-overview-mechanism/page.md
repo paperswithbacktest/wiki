@@ -1,6 +1,7 @@
 ---
-title: "Accounts Receivable Discounting: Overview and Mechanism"
-description: "Explore the convergence of accounts receivable discounting and algorithmic trading for enhanced cash flow management improved efficiency and strategic growth."
+title: Essential Guide to Accounts Receivable Discounting Strategies
+description: Accounts receivable discounting helps businesses speed cash flow by turning
+  invoices into funds while keeping customer relationships Discover more inside.
 ---
 
 

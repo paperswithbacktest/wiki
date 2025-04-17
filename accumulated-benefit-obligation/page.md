@@ -1,6 +1,7 @@
 ---
-title: "Accumulated Benefit Obligation"
-description: "Explore the importance of Accumulated Benefit Obligation (ABO) in understanding pension liabilities. Learn how ABO impacts financial planning and pension accounting."
+title: Ultimate Guide to Accumulated Benefit Obligation in Accounting
+description: Accumulated Benefit Obligation helps companies understand current pension
+  liabilities and plan finances proactively with confidence. Discover more inside.
 ---
 
 

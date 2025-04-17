@@ -1,6 +1,7 @@
 ---
-title: "Average Directional Index: Overview and Formula"
-description: "Enhance your trading strategies by integrating the Average Directional Index for gauging trend strength and refining decisions in algorithmic trading systems."
+title: Essential Guide to the Average Directional Index ADX Strength
+description: Average Directional Index ADX reveals trend strength without showing
+  direction and guides traders on when to enter or exit trades Discover more inside.
 ---
 
 

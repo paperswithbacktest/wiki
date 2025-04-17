@@ -1,6 +1,7 @@
 ---
-title: "Basket Trading: Mechanics, Purposes, and Benefits"
-description: "Explore the mechanics and benefits of basket trading within algorithmic trading. Understand how this strategy boosts diversification and efficiency."
+title: Essential Guide to Basket Trading Strategies and Benefits
+description: Basket trading simplifies portfolio management by grouping multiple stocks
+  in one trade to save time reduce risk and optimize returns Discover more inside.
 ---
 
 

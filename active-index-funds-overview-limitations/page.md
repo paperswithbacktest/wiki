@@ -1,6 +1,7 @@
 ---
-title: "Active Index Funds: Overview and Limitations"
-description: "Explore active management index funds and algorithmic trading to optimize investments. Discover benefits, limitations and integration for effective strategies."
+title: Essential Guide to Active Index Funds for Informed Investors
+description: Active index funds rely on manager stock selection to beat benchmarks,
+  but involve higher fees tracking error and tax liabilities Discover more inside
 ---
 
 

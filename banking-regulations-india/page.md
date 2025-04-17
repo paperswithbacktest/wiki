@@ -1,6 +1,8 @@
 ---
-title: "Banking Regulations in India"
-description: "Explore India's banking regulations and SEBI's algo trading guidelines that balance market stability, inclusivity, and innovation in the financial sector."
+title: Essential Guide to Banking Regulations in India for Financial Stability
+description: Banking regulations in India ensure system stability secure deposits
+  and promote fairness while encouraging financial inclusion and growth Discover more
+  inside
 ---
 
 

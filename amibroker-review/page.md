@@ -1,6 +1,7 @@
 ---
-title: "AmiBroker Review"
-description: Explore how Amibroker empowers algorithmic traders with its comprehensive range of charting and analysis tools. This review highlights Amibroker's standout features like robust backtesting, customizable trading systems, and user-friendly interface, making it an indispensable resource for optimizing strategies and enhancing market performance. Discover the benefits of using Amibroker, including its cost-effective licensing model and the flexibility of Amibroker Formula Language, helping you to tailor strategies and improve decision-making in a dynamic trading environment.
+title: Ultimate Guide to AmiBroker Trading Software Capabilities
+description: AmiBroker delivers fast data analysis customizable AFL formulas real
+  time data feeds and smooth backtesting for traders of all levels Discover more inside
 ---
 
 

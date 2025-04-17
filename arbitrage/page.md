@@ -1,6 +1,7 @@
 ---
-title: "Arbitrage"
-description: Uncover the intricacies of arbitrage in algorithmic trading, a profitable strategy that combines technology, mathematics, and finance. Explore various types of arbitrage strategies and their applications, as well as risks to be aware of. Dive into our extensive database for advanced strategies and resources to help you capitalize on market inefficiencies.
+title: Essential Guide to Arbitrage Strategies and Applications
+description: Arbitrage strategies show how to profit from price gaps with practical
+  examples code snippets expert insights on types risks and tools Discover more inside
 ---
 
 

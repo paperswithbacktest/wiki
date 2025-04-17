@@ -1,6 +1,7 @@
 ---
-title: "Aroon Indicator Strategy Explained"
-description: Explore the effectiveness of the Aroon Indicator in algorithmic trading by understanding its ability to identify emerging trends and market volatility. This indicator, developed by Tushar Chande in 1995, consists of Aroon Up and Aroon Down lines that help traders assess trend strength and direction. Gain insights into its application for making informed trading decisions and optimizing strategies in the fast-paced world of algo trading.
+title: Ultimate Aroon Indicator Guide for Powerful Trend Analysis
+description: Aroon Indicator reveals trend strength and reversal signals by measuring
+  highs and lows so you can execute informed trades Discover more inside
 ---
 
 

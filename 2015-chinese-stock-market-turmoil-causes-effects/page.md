@@ -1,6 +1,7 @@
 ---
-title: "2015 Chinese Stock Market Turmoil: Causes and Effects"
-description: "Explore the causes and effects of the 2015 Chinese stock market turmoil Learn how algorithmic trading influenced this financial crisis and its global impact"
+title: Essential Insights Into the 2015 Chinese Stock Market Turmoil
+description: Chinese stock market turmoil revealed how margin trading and policy shifts
+  fueled a bubble that shook global confidence Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

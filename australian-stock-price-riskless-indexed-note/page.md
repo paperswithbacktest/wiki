@@ -1,6 +1,7 @@
 ---
-title: "Australian Stock Price Riskless Indexed Note"
-description: "Discover the innovative ASPIRIN bonds indexed to the Australian All-Ordinaries Stock Index offering a blend of stability and growth through algorithmic trading strategies."
+title: Ultimate Guide to Australian Stock Price Riskless Indexed Notes
+description: Australian Stock Price Riskless Indexed Notes let you smartly grow with
+  the market while protecting your initial investment Discover more inside.
 ---
 
 

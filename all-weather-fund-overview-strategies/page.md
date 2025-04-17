@@ -1,6 +1,7 @@
 ---
-title: "All Weather Fund: Overview and Strategies"
-description: "Discover the All Weather Fund strategy, a diversified approach using algorithmic trading to achieve consistent returns across any economic condition."
+title: Essential Guide to All Weather Funds for Steady Returns
+description: All Weather Fund strategies balance stocks bonds and commodities to deliver
+  steady returns and reduce portfolio volatility Discover more inside.
 ---
 
 

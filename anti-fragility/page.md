@@ -1,6 +1,7 @@
 ---
-title: "Anti-Fragility"
-description: "Discover how antifragility and resilience in algo trading create robust strategies that thrive amid market volatility while effectively managing risks."
+title: Essential Guide to Anti-Fragility and Proven Growth Strategies
+description: Anti-fragility helps you turn challenges into growth by embracing stress
+  and adapting your strategies for stronger outcomes Discover more inside
 ---
 
 

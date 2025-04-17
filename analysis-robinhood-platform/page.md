@@ -1,6 +1,7 @@
 ---
-title: "Analysis of Robinhood Platform"
-description: "Explore the transformative impact of Robinhood on algorithmic trading within the fintech landscape. Understand how Robinhood's commission-free model and user-friendly app are democratizing trading, shaping the future of financial markets, and enabling greater access to algorithmic trading strategies. Discover insights into Robinhood's role in breaking down traditional barriers, attracting new retail investors, and influencing the evolution of trading technology."
+title: Ultimate Robinhood Platform Guide for Commission Free Trading
+description: Robinhood platform offers commission free trading and user friendly tools
+  that empower beginners to invest in stocks ETFs and crypto Discover more inside.
 ---
 
 

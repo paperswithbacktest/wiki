@@ -1,6 +1,7 @@
 ---
-title: "Analysis of Corvex Management as an Activist Investor"
-description: "Explore Corvex Management's activist trading strategies and algorithmic integration as they reshape corporate landscapes under Keith Meister’s leadership."
+title: Insider Guide to Corvex Management Activist Investment Strategy
+description: Corvex Management drives value by guiding companies through activist
+  campaigns that boost performance and shareholder returns. Discover more inside.
 ---
 
 

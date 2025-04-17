@@ -1,6 +1,7 @@
 ---
-title: "Bank Discount Basis: Definition and Calculation"
-description: "Explore the bank discount basis and its calculation for financial instruments like Treasury bills Learn how algorithmic trading benefits from these key concepts"
+title: Ultimate Guide to Mastering Bank Discount Basis Calculation
+description: Bank Discount Basis shows how to compute yield on short term securities
+  using face value pricing time to maturity and a 360 day year Discover more inside.
 ---
 
 

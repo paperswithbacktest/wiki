@@ -1,6 +1,8 @@
 ---
-title: "At-the-Close Order"
-description: "Discover the intricacies of at-the-close orders and algorithmic trading Learn strategic approaches for optimal trade executions in modern financial markets"
+title: "Essential Guide to At\u2011the\u2011Close Orders in Trading"
+description: "At\u2011the\u2011Close Order lets traders secure end\u2011of\u2011day\
+  \ prices by understanding its mechanics benefits and risks with confidence Discover\
+  \ more inside."
 ---
 
 

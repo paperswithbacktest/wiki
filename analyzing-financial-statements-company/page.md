@@ -1,6 +1,7 @@
 ---
-title: "Analyzing Financial Statements of a Company"
-description: "Explore how financial statements and analysis enhance algorithmic trading strategies by providing insights into a company's financial health and trading opportunities."
+title: Essential Guide to Financial Statement Analysis for Companies
+description: Financial statements reveal company health and guide decisions with efficient
+  insights on income, assets, and cash flow Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Arrow's Impossibility Theorem: Explanation, History, and Examples"
-description: "Explore Arrow's Impossibility Theorem, a fundamental concept in social choice theory developed by economist Kenneth J. Arrow, which reveals the challenges in creating fair voting systems when more than two options exist. The theorem highlights the impossibility of fulfilling all fairness criteria, such as nondictatorship and Pareto efficiency, in ranked voting methods. This insight is critical in understanding the limitations of decision-making systems in political, economic, and algorithmic trading spheres. The article investigates into the theorem's implications, offering historical context, practical examples, and ongoing relevance in collective decision-making discussions."
+title: Essential Insights Into Arrow's Impossibility Theorem Explained
+description: Arrow's Impossibility Theorem reveals why perfect voting systems can't
+  exist and highlights real world impacts on election design. Discover more inside.
 ---
 
 

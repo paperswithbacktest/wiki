@@ -1,6 +1,8 @@
 ---
-title: "Account Settlement Types and Examples"
-description: "Discover account settlement types and their role in algorithmic trading. Explore how settlements ensure efficient, risk-managed transactions in evolving markets."
+title: Ultimate Guide to Account Settlement in Banking
+description: Account settlement explains how banks calculate end of period balances
+  by netting deposits fees and transfers to prevent errors and fraud Discover more
+  inside
 ---
 
 

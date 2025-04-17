@@ -1,6 +1,7 @@
 ---
-title: "Aggregate Function in Computing"
-description: "Discover how aggregate functions enhance data analysis and algorithmic trading by transforming complex market data into actionable investment insights."
+title: Essential Guide to Aggregate Functions in SQL and Programming
+description: Aggregate functions simplify data analysis by summarizing large datasets
+  into single insights across SQL and programming languages Discover more inside
 ---
 
 

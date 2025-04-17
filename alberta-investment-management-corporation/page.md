@@ -1,6 +1,7 @@
 ---
-title: "Alberta Investment Management Corporation"
-description: "Explore AIMCo's role in Alberta's economy focusing on algorithmic trading and its impact on investing. Understand AIMCo’s strategies and their adaptation to market changes."
+title: Ultimate Guide to Alberta Investment Management Corporation
+description: Alberta Investment Management Corporation grows pension and government
+  funds with diversified stocks bonds real estate infrastructure Discover more inside.
 ---
 
 

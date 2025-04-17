@@ -1,6 +1,7 @@
 ---
-title: "AQR's Strategy Against Beta"
-description: "Explore AQR's 'Bet Against Beta' strategy leveraging quantitative finance to improve portfolio risk management by targeting stocks with varying beta values."
+title: Essential Guide to Beta Investing by AQR Capital Management
+description: Beta Investing with AQR Capital Management uses data insights to reduce
+  market volatility and deliver steadier returns Discover more inside today
 ---
 
 

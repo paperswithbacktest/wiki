@@ -1,6 +1,7 @@
 ---
-title: "Bid wanted in competition (BWIC)"
-description: Explore the dynamic intersection of Bid Wanted in Competition and algorithmic trading in the financial markets. Discover how BWIC processes enhance competitive pricing and transparency for institutional investors, particularly in trading less liquid assets. Learn about the pivotal role of algorithms in modernizing BWIC transactions, improving speed, efficiency, and accuracy, while maintaining privacy and aiding in effective price discovery. Delve into how technological advancements like machine learning, blockchain, and NLP are reshaping trading strategies, optimizing returns, and streamlining processes for a more efficient marketplace.
+title: Essential Guide to Bid Wanted in Competition BWIC Process
+description: Bid Wanted in Competition exposes how sellers secure top prices for illiquid
+  bonds and buyers uncover deals with auction insights Discover more inside
 ---
 
 

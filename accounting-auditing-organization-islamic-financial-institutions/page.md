@@ -1,6 +1,7 @@
 ---
-title: "Accounting and Auditing Organization for Islamic Financial Institutions"
-description: "Explore the challenges and innovations in Islamic finance with AAOIFI's role in standardizing financial practices while integrating ethical algorithmic trading."
+title: Essential AAOIFI Standards for Global Islamic Finance Compliance
+description: AAOIFI standards ensure Islamic banks follow Shariah compliant accounting
+  auditing governance and ethics to build global trust Discover more inside
 ---
 
 

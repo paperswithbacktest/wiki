@@ -1,6 +1,7 @@
 ---
-title: "Absence of Profits in Perfectly Competitive Markets"
-description: "Explore how perfect competition principles relate to algorithmic trading in financial markets analyzing its impacts on market profits and dynamics."
+title: Essential Guide to Perfectly Competitive Markets and Equilibrium
+description: Perfectly competitive market explained how firms set output where price
+  equals marginal cost and earn zero economic profit Discover more inside.
 ---
 
 

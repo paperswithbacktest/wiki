@@ -1,6 +1,7 @@
 ---
-title: "Bayesian Financial Forecasting"
-description: "Discover the power of Bayesian financial forecasting in algorithmic trading Learn how Bayesian methods improve predictive modeling by adapting to new market data"
+title: Essential Bayesian Financial Forecasting Techniques for Investors
+description: Bayesian financial forecasting uses prior knowledge and real time data
+  to refine predictions and manage risk in finance and investing Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Animal Spirits in Finance: Concept and Examples"
-description: "Explore the impact of animal spirits from Keynes on financial behavior and how algorithmic trading interacts with emotional market dynamics in modern finance."
+title: Essential Guide to Understanding Animal Spirits in Finance
+description: Animal Spirits influence market trends by turning optimism and fear into
+  booms and busts while guiding investment and policy choices Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Absorption Rate in Real Estate"
-description: "Discover how absorption rate, a key real estate metric, integrates with algorithmic trading to enhance market strategies and investment decisions."
+title: Insider Guide to Real Estate Absorption Rate Calculations
+description: Real estate absorption rate shows how fast properties sell in your market
+  to help optimize buy or sell strategies Discover more inside today
 ---
 
 

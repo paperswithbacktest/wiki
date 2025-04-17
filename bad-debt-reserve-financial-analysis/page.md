@@ -1,6 +1,7 @@
 ---
-title: "Bad Debt Reserve: Role in Financial Analysis"
-description: "Explore the impact of bad debt reserves and debt ratios in financial analysis for algo trading Learn how these indicators can optimize strategies and inform decisions"
+title: Ultimate Bad Debt Reserve Guide for Accurate Financial Analysis
+description: Bad debt reserve ensures more accurate financial statements by estimating
+  potential credit losses and informing credit risk management Discover more inside
 ---
 
 

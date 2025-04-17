@@ -1,6 +1,7 @@
 ---
-title: "Bitcoin Private: Overview and Objectives"
-description: "Explore how Bitcoin Private combines Bitcoin's security with advanced privacy features using zk-SNARKs and the impact of algorithmic trading in volatile crypto markets."
+title: Ultimate Guide to Bitcoin Private Privacy and Technology
+description: Bitcoin Private offers enhanced transaction privacy with zk-snarks and
+  fair mining protocols to protect your financial data Discover more inside.
 ---
 
 

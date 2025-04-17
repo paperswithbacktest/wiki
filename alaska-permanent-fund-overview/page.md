@@ -1,6 +1,7 @@
 ---
-title: "Alaska Permanent Fund Overview"
-description: "Explore the vital role of the Alaska Permanent Fund in stabilizing and advancing the state's economy through innovative investment strategies and algorithmic trading."
+title: Essential Strategies Driving the Alaska Permanent Fund Growth
+description: Alaska Permanent Fund reinvests oil revenues to preserve wealth and deliver
+  annual dividends for residents to secure future prosperity Discover more inside
 ---
 
 

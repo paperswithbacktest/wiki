@@ -1,6 +1,7 @@
 ---
-title: "ADM Investor Services"
-description: "Explore the comprehensive investment services of ADM Investor Services emphasizing proficiency in algorithmic trading for a diverse global clientele."
+title: Essential ADM Investor Services Guide for Smart Investing
+description: ADM Investor Services offers futures and options trading with real time
+  tools and expert advice to grow and protect investments Discover more inside.
 ---
 
 

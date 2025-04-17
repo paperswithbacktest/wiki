@@ -1,6 +1,7 @@
 ---
-title: "Actual Return: Definition and Examples"
-description: "Unlock the potential of algorithmic trading to boost investment returns by leveraging technology for accurate decision-making and performance optimization."
+title: The Insider Guide to Understanding Actual Return Calculations
+description: Actual Return reveals the real gains or losses from investments by accounting
+  for fees taxes and inflation using clear methods Discover more inside.
 ---
 
 

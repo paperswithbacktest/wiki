@@ -1,6 +1,7 @@
 ---
-title: "Barra Risk Factor Analysis"
-description: "Explore Barra Risk Factor Analysis a key tool in algorithmic trading that optimizes portfolio allocations by dissecting complex risks and enhancing investment strategies."
+title: Ultimate Guide to Barra Risk Factor Analysis for Portfolios
+description: Barra Risk Factor Analysis breaks down portfolio risks by market and
+  industry so you can balance investments and optimize returns. Discover more inside.
 ---
 
 

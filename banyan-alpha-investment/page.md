@@ -1,6 +1,7 @@
 ---
-title: "Banyan Alpha Investment"
-description: "Banyan Alpha Investment leads in algorithmic trading using quantitative models and AI, promising enhanced returns through smart, data-driven strategies."
+title: Proven Banyan Alpha Investment Strategies for Sustainable Growth
+description: Banyan Alpha Investment applies momentum and technical analysis to grow
+  portfolios while managing risk and ethical impact. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Bank of America Corporation"
-description: "Bank of America is front-lining algorithmic trading in the banking sector to enhance speed and decision-making driving industry innovation and efficiency."
+title: Essential Overview Of Bank Of America History And Services
+description: Bank of America shares its century old legacy global services and expert
+  guidance on accounts loans and CSR initiatives Discover more inside.
 ---
 
 

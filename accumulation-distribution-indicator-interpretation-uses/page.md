@@ -1,6 +1,7 @@
 ---
-title: "Accumulation/Distribution Indicator: Interpretation and Uses"
-description: "Explore the Accumulation/Distribution Indicator in algo trading and learn how it evaluates market supply-demand dynamics to enhance trading strategies."
+title: Ultimate Guide to the Accumulation Distribution Indicator
+description: Accumulation Distribution Indicator reveals money flow by combining price
+  and volume to signal buying and selling pressure Discover more inside.
 ---
 
 

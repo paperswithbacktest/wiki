@@ -1,6 +1,7 @@
 ---
-title: "Automation Bias (Machine Learning)"
-description: "Automation bias in machine learning leads to over-reliance on machines impacting decision-making in fields like healthcare and finance due to unchecked automated suggestions."
+title: Essential Guide to Mitigating Automation Bias in Machine Learning
+description: Automation bias in machine learning can distort decisions but proactive
+  oversight training and clear model explanations can curb it Discover more inside.
 ---
 
 ![Image](images/1.png)

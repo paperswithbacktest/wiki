@@ -1,6 +1,7 @@
 ---
-title: "B-Share: Definition, Mechanism, and Fee Structure"
-description: "Discover how B-Share mutual fund fee structures integrate with algorithmic trading to optimize investment outcomes and minimize costs effectively."
+title: Essential Guide to B-Shares Mutual Fund Fee Structures
+description: B-Shares offer no upfront sales load and an automatic fee reduction over
+  time while 12b-1 expenses apply for long-term investors Discover more inside.
 ---
 
 

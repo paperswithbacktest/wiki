@@ -1,6 +1,7 @@
 ---
-title: "Aggregate Exercise Price: Overview and Examples"
-description: "Explore the essentials of aggregate exercise price and algorithmic options trading strategies to enhance your understanding and optimize your trading outcomes."
+title: Ultimate Guide to Calculating Aggregate Exercise Price
+description: Aggregate Exercise Price lets you calculate total option costs and choose
+  the best time to exercise shares for potential profit. Discover more inside.
 ---
 
 

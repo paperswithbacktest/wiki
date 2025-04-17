@@ -1,6 +1,7 @@
 ---
-title: "Arbitrage Bonds"
-description: "Explore the world of bond arbitrage and algorithmic trading uncovering strategies that leverage market inefficiencies for profits through advanced tech and quantitative analysis."
+title: Ultimate Guide to Arbitrage Bonds for Municipal Investors
+description: Arbitrage bonds let governments borrow at low rates and invest at higher
+  yields under strict rules to earn profits and avoid fines Discover more inside
 ---
 
 

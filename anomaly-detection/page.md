@@ -1,6 +1,7 @@
 ---
-title: "Anomaly Detection (Machine Learning)"
-description: "Anomaly detection in machine learning identifies unusual data points helping industries spot fraud, detect errors, and ensure smooth operations efficiently."
+title: Essential Guide to Machine Learning Anomaly Detection
+description: Machine Learning anomaly detection spots unusual data patterns using
+  ML methods to identify errors fraud and system issues Discover more inside
 ---
 
 ![Image](images/1.png)

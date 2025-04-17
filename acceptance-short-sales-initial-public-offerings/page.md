@@ -1,6 +1,7 @@
 ---
-title: "Acceptance of Short Sales in Initial Public Offerings"
-description: "Explore the complexities of short sales in IPOs and the role of algorithmic trading Learn how these elements impact market liquidity and investor strategies"
+title: Ultimate Guide to IPO Short Sales and Their Impact
+description: IPO short sales provide active trading and market liquidity after debut
+  while balancing issuer risks and investor strategies Discover more inside
 ---
 
 

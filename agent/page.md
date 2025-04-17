@@ -1,6 +1,7 @@
 ---
-title: "Agent (Machine Learning)"
-description: "Learn about agents in machine learning as they interact with environments autonomously making decisions and improving through reinforcement learning."
+title: Insider Guide To Agent-Based Machine Learning Systems
+description: Agent-Based Machine Learning guides programs to learn optimal strategies
+  through dynamic environment interactions and reward feedback Discover more inside.
 ---
 
 ![Image](images/1.png)

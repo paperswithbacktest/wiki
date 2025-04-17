@@ -1,6 +1,7 @@
 ---
-title: "Automatic Investment Plan Overview and Types"
-description: "Discover the benefits of Automatic Investment Plans and algorithmic trading Learn how these strategies automate investment processes for efficient wealth growth"
+title: Essential Guide to Automatic Investment Plan Benefits
+description: Automatic Investment Plan simplifies regular investing with dollar cost
+  averaging and customizable options to build long term wealth. Discover more inside.
 ---
 
 

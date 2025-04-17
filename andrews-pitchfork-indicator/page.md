@@ -1,6 +1,7 @@
 ---
-title: "Andrew's Pitchfork Indicator"
-description: "Explore the Andrews Pitchfork indicator to enhance your trading strategy by identifying trends and reversals with its unique three-line system for better market insights."
+title: Essential Andrew's Pitchfork Indicator Guide for Traders
+description: Andrew's Pitchfork Indicator helps traders spot support resistance and
+  anticipate trend turns with three lines on price charts Discover more inside.
 ---
 
 

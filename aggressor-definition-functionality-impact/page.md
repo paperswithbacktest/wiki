@@ -1,6 +1,7 @@
 ---
-title: "Aggressor: Definition, Functionality, and Impact"
-description: "Explore the role of aggressor trading in algorithmic finance focusing on its impact on market dynamics liquidity and volatility for informed strategic decisions"
+title: The Essential Guide to Understanding Aggressor Behavior
+description: Aggressor behavior impacts conflicts and communities. Explore motives,
+  implications and strategies to manage aggression. Discover more inside.
 ---
 
 

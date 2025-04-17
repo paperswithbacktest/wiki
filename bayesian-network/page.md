@@ -1,6 +1,7 @@
 ---
-title: "Bayesian Network"
-description: "Bayesian Networks enhance algorithmic trading by modeling probabilistic relationships among market variables improving predictions and decision-making."
+title: Essential Guide to Bayesian Networks for Probability Modeling
+description: Bayesian Network reveals conditional dependencies and powers probabilistic
+  inference to improve decisions in medicine and finance Discover more inside
 ---
 
 

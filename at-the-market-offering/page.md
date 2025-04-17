@@ -1,6 +1,7 @@
 ---
-title: "At-the-Market Offering"
-description: "Explore the transformative impact of at-the-market stock offerings and algorithmic trading on modern investing offering flexibility and efficiency in capital raising."
+title: Essential Guide To At-the-Market Offerings For Corporate Growth
+description: At-the-Market offering lets companies flexibly raise funds by selling
+  shares at market price to stabilize share price and fuel growth Discover more inside
 ---
 
 

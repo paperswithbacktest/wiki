@@ -1,6 +1,7 @@
 ---
-title: "Behavioral Finance Overview"
-description: "Explore behavioral finance algorithmic trading and investor psychology to gain insights into market dynamics and improve financial decision-making strategies."
+title: Essential Behavioral Finance Guide To Avoid Costly Biases
+description: Behavioral finance shows how biases and emotions shape investing and
+  offers simple strategies to avoid costly mistakes Discover more inside.
 ---
 
 

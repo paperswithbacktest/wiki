@@ -1,6 +1,7 @@
 ---
-title: "Abu Dhabi Stock Exchange"
-description: "Experience the evolution of Abu Dhabi Securities Exchange as it adopts cutting-edge tech and strategic alliances to lead in algorithmic trading and market efficiency."
+title: Ultimate Guide to Trading on Abu Dhabi Stock Exchange ADX
+description: Abu Dhabi Stock Exchange ADX trading guide covers account setup market
+  hours securities and performance metrics empowering investors Discover more inside
 ---
 
 

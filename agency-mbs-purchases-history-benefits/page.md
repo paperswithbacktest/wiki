@@ -1,6 +1,7 @@
 ---
-title: "Agency MBS Purchases: History and Benefits"
-description: "Explore the advantages of algorithmic trading in agency mortgage-backed securities and discover how it enhances investor returns and diversifies portfolios."
+title: Essential Agency Mortgage-Backed Securities Guide for Investors
+description: Agency Mortgage-Backed Securities deliver government-backed stability
+  and income from bundled home loans while fueling housing market Discover more inside.
 ---
 
 

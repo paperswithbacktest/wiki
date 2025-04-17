@@ -1,6 +1,7 @@
 ---
-title: "Accounting Rate of Return"
-description: "Explore the simplicity and utility of the Accounting Rate of Return (ARR) in evaluating investment profitability and capital allocation decisions."
+title: The Essential Accounting Rate Of Return Guide For Businesses
+description: Accounting Rate Of Return offers a clear view of annual profit relative
+  to initial costs to guide confident business investments. Discover more inside.
 ---
 
 

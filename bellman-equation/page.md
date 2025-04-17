@@ -1,6 +1,7 @@
 ---
-title: "Bellman Equation (Machine Learning)"
-description: "Explore the Bellman Equation's role in machine learning specifically in reinforcement learning where it aids agents in decision-making by assessing state value."
+title: Essential Guide to the Bellman Equation in Reinforcement Learning
+description: Bellman Equation helps reinforcement learning agents break complex decisions
+  into immediate rewards and values for optimal policies Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,7 @@
 ---
-title: "Auc (Area Under The Roc Curve) (Machine Learning)"
-description: "Learn about the ROC curve's importance in machine learning and how AUC measures model performance, enabling comparison across different classifiers."
+title: Ultimate Guide To ROC Curve And AUC In Machine Learning
+description: ROC curve analysis shows how AUC reveals classifier performance tradeoffs
+  across thresholds and supports robust model selection. Discover more inside.
 ---
 
 ![Image](images/1.png)

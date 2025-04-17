@@ -1,6 +1,8 @@
 ---
-title: "Alpha Generation Techniques"
-description: "Explore alpha generation techniques in algorithmic trading and discover how innovative strategies leverage quantitative models and machine learning for superior returns."
+title: Insider Guide to Proven Alpha Generation Techniques
+description: Alpha Generation Techniques reveal smart strategies to beat the market
+  by finding undervalued stocks momentum trends and managing risk effectively Discover
+  more inside
 ---
 
 

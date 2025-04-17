@@ -1,6 +1,7 @@
 ---
-title: "Antedate: Definition and Usage"
-description: "Explore the intersection of antedate and algorithmic trading in finance emphasizing legal implications and algorithm efficiency. Learn key strategies for improved trading."
+title: Essential Guide to Antedate Origins, Usage and Legal Implications
+description: Antedate clarifies how to date documents correctly across legal, business
+  and historical fields avoiding trust issues and legal risks Discover more inside.
 ---
 
 

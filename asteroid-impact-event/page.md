@@ -1,6 +1,7 @@
 ---
-title: "Asteroid Impact Event"
-description: "Explore the intriguing connection between asteroid impacts and financial markets, revealing how these cosmic events influence algorithmic trading and market dynamics."
+title: Essential Guide to Asteroid Impact Events and Planetary Defense
+description: Asteroid impact events pose significant risks and this article explains
+  their causes effects and detection methods in clear detail Discover more inside.
 ---
 
 

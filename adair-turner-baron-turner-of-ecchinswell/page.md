@@ -1,6 +1,8 @@
 ---
-title: "Adair Turner, Baron Turner of Ecchinswell"
-description: "Explore Adair Turner's influential role in finance and his critical insights on algorithmic trading and regulation, emphasizing high-frequency trading's impact and risks."
+title: Essential Adair Turner on Finance Regulation and Climate Change
+description: Adair Turner champions stronger UK financial regulations and climate
+  policies through roles at the FSA and Committee on Climate Change Discover more
+  inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Amortization of Intangible Assets"
-description: "Explore the importance of amortization of intangible assets in financial accounting and algorithmic trading to enhance investment strategies and decision-making."
+title: Insider Guide to Amortization of Intangible Assets
+description: Amortization of intangible assets allocates costs of patents and trademarks
+  over their useful life to match expenses with revenue. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "An Introduction to Value at Risk Methodologies"
-description: Discover the essentials of Value at Risk (VaR) in risk management with this comprehensive guide. Understand how VaR serves as a key tool in evaluating potential losses in portfolio management systems, especially critical in algorithmic trading. Explore various VaR calculation methodologies including historical simulation, parametric methods, and Monte Carlo simulations, each offering unique insights into risk assessment. Learn about the assumptions, advantages, and limitations of these methods to enhance your risk management strategies and ensure sustainable portfolio performance in the dynamic financial markets.
+title: Essential Guide to Value at Risk VaR Calculation Methods
+description: Value at Risk VaR shows potential portfolio losses with statistical confidence
+  using historical and Monte Carlo methods Discover more inside
 ---
 
 

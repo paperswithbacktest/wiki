@@ -1,6 +1,7 @@
 ---
-title: "Accruals: Mechanism and Types"
-description: "Explore accruals in finance and algorithmic trading with insights on their importance in accurate financial reporting and strategy development."
+title: Essential Accrual Accounting Guide for Financial Accuracy
+description: Accrual Accounting ensures financial statements reflect true income and
+  expenses when they occur helping you make informed decisions Discover more inside
 ---
 
 

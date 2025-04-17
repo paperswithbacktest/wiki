@@ -1,6 +1,7 @@
 ---
-title: "Asset-Backed Commercial Paper Money Market Fund"
-description: "Explore the evolution of the Asset-Backed Commercial Paper Fund Liquidity Facility and its impact on money markets and algorithmic trading."
+title: Essential Asset-Backed Commercial Paper Money Market Fund Guide
+description: Asset-Backed Commercial Paper Money Market Fund offers a safe, liquid
+  way to earn modest returns via short-term asset-backed papers Discover more inside
 ---
 
 

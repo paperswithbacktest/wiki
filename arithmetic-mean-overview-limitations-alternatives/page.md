@@ -1,6 +1,7 @@
 ---
-title: "Arithmetic Mean: Overview, Limitations, and Alternatives"
-description: "Explore the role of the arithmetic mean in financial analysis and its limitations due to outliers. Discover alternative metrics like geometric and harmonic means."
+title: Ultimate Guide to Understanding the Arithmetic Mean
+description: Arithmetic mean shows central tendency by averaging values and reveals
+  when outliers skew results in finance and daily life Discover more inside
 ---
 
 

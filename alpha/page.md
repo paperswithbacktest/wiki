@@ -1,6 +1,7 @@
 ---
-title: "Alpha"
-description: Explore the significance of Alpha in algorithmic trading, a key metric that measures investment performance against market indices. Understand how traders use Alpha to assess and refine strategies for generating excess returns, highlighting its role in modern portfolio theory and the quest for consistent positive Alpha in efficient markets.
+title: Ultimate Guide to Alpha in Finance for Investment Success
+description: Alpha in finance measures investor skill versus benchmarks to boost portfolio
+  performance with risk adjusted analysis and models Discover more inside.
 ---
 
 

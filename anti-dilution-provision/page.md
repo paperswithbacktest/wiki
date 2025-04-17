@@ -1,6 +1,7 @@
 ---
-title: "Anti-Dilution Provision"
-description: "Explore the essential concept of anti-dilution provisions in equity investments and their importance in protecting shareholders from the adverse effects of stock dilution. Understand how these mechanisms work to preserve investor value, especially in algorithmic trading, where precise data and strategy are crucial. Learn about the different types of anti-dilution provisions and their role in maintaining stable investment strategies."
+title: Essential Guide to Anti-Dilution Provisions for Investors
+description: Anti-dilution provisions protect investor stakes by adjusting share counts
+  when new shares issue below original prices securing ownership Discover more
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Alternative Trading Platforms"
-description: "Explore the transformative impact of algorithmic trading on global financial markets Discover its role in enhancing efficiency and liquidity alongside emerging challenges"
+title: Essential Guide to Alternative Trading Platforms for Investors
+description: Alternative trading platforms enable investors to execute large block
+  trades anonymously with minimal price impact and lower costs Discover more inside.
 ---
 
 

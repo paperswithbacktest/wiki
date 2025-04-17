@@ -1,6 +1,7 @@
 ---
-title: "Attorney Fee Awards"
-description: "Understand attorney fees, legal costs, and fee awards in the context of algorithmic trading. Find insights on cost structures and legal implications."
+title: The Ultimate Guide to Attorney Fee Awards and Their Impact
+description: Attorney fee awards show how courts determine and calculate legal fees
+  for prevailing parties ensuring fair litigation outcomes Discover more inside
 ---
 
 

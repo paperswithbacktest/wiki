@@ -1,6 +1,7 @@
 ---
-title: "Basis Rate Swap and Basis Risk"
-description: "Explore the intricate world of basis rate swaps and basis risk in algorithmic trading Discover how these financial derivatives aid in strategic risk management."
+title: Essential Basis Rate Swaps Guide for Risk Management
+description: Basis rate swaps help institutions exchange floating benchmarks to manage
+  interest risk credit exposure and optimize funding. Discover more inside.
 ---
 
 

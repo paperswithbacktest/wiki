@@ -1,6 +1,7 @@
 ---
-title: "Bank Bill Swap Bid Rate and Its Uses"
-description: "Explore the Bank Bill Swap Bid Rate BBSY and its crucial role in Australian finance Learn how BBSY influences algorithmic trading and derivative pricing"
+title: Essential BBSY Benchmark Guide for Australian Financial Markets
+description: BBSY shapes short term borrowing costs in Australia by providing a reliable
+  benchmark for loans derivatives and market stability Discover more inside.
 ---
 
 

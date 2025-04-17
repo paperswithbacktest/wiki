@@ -1,6 +1,7 @@
 ---
-title: "Analysis of OANDA: Advantages and Disadvantages"
-description: "Discover the strengths and weaknesses of OANDA in algo trading Learn about its tools platforms support and financial analysis to improve trading strategies"
+title: Insider Guide to OANDA Trading Platform and Services
+description: OANDA platform delivers fair exchange rates transparent spreads accounts
+  and strong security to boost your trading confidence Discover more inside
 ---
 
 

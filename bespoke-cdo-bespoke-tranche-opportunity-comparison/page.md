@@ -1,6 +1,7 @@
 ---
-title: "Bespoke CDO and Bespoke Tranche Opportunity Comparison"
-description: "Explore the complex world of bespoke CDOs and BTOs, their resurgence in modern financial markets, and the impact of algorithmic trading on investment strategies."
+title: Ultimate Guide to Bespoke CDOs and Tranche Opportunities
+description: Bespoke CDOs and bespoke tranche opportunities deliver tailored risk
+  control and optimized returns for institutional investors Discover more inside
 ---
 
 

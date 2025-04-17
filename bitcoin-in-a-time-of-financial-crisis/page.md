@@ -1,6 +1,7 @@
 ---
-title: "Bitcoin in a Time of Financial Crisis"
-description: Explore the role of Bitcoin during financial crises as it is positioned as a decentralized digital asset. Understand how its appeal as a 'safe haven' stems from its limited supply and independence from central institutions. Delve into debates on Bitcoin's volatility and its comparison to traditional assets like gold while considering the impact of algorithmic trading on its market behavior. Analyze its complex performance in past financial downturns to assess its potential as a buoyant asset amidst market turbulence.
+title: "Essential Guide to Bitcoin\u2019s Role in Financial Crises"
+description: Bitcoin can offer decentralized protection during economic turmoil while
+  carrying risks from volatility and regulations Discover more inside.
 ---
 
 

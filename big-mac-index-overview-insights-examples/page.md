@@ -1,6 +1,7 @@
 ---
-title: "Big Mac Index: Overview, Insights, and Examples"
-description: "Explore the Big Mac Index to understand currency valuation and purchasing power parity through the global pricing of McDonald's iconic burger. Discover insights and examples."
+title: The Essential Big Mac Index Guide for Currency Valuation
+description: Big Mac Index measures currency value by comparing burger prices globally
+  and explains PPP insights and valuation in clear terms Discover more inside
 ---
 
 

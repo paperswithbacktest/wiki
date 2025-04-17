@@ -1,6 +1,7 @@
 ---
-title: "Advantages and Disadvantages of Alternative Investments"
-description: "Explore the benefits and drawbacks of alternative investments and algorithmic trading to enhance portfolio diversification and efficiency in investment strategies."
+title: Insider Guide to Alternative Investments for Diversification
+description: Alternative investments deliver strategic diversification and potential
+  returns through real estate private equity art and crypto Discover more inside.
 ---
 
 

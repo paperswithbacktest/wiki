@@ -1,6 +1,7 @@
 ---
-title: "Average Directional Index: Trend Strength Indicator"
-description: "Discover how the Average Directional Index can enhance your trading strategy by identifying trend strength and improving decision-making in algorithmic trading."
+title: Essential Guide to the Average Directional Index for Traders
+description: Average Directional Index shows traders how to gauge trend strength and
+  optimize entry and exit points using clear calculation steps Discover more inside.
 ---
 
 

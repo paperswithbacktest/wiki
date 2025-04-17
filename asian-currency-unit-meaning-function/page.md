@@ -1,6 +1,7 @@
 ---
-title: "Asian Currency Unit: Meaning and Function"
-description: "Explore the Asian Currency Unit as a proposed currency basket designed to stabilize exchange rates and its implications for algorithmic trading in Asia."
+title: The Essential Asian Currency Unit for Stronger Regional Trade
+description: Asian Currency Unit helps stabilize trade by reducing currency risks
+  and enhancing economic cooperation among ASEAN+3 nations Discover more inside.
 ---
 
 

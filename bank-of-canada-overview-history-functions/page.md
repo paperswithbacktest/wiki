@@ -1,6 +1,7 @@
 ---
-title: "Bank of Canada: Overview, Historical Background, and Functions"
-description: "Discover the pivotal role of the Bank of Canada established in 1934 in managing monetary policy controlling inflation and fostering economic stability."
+title: The Essential Bank of Canada Handbook for Economic Stability
+description: Bank of Canada manages money supply interest rates and foreign reserves
+  to stabilize the Canadian economy and guide policy decisions Discover more inside.
 ---
 
 

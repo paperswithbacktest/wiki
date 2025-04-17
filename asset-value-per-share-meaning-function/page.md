@@ -1,6 +1,7 @@
 ---
-title: "Asset Value Per Share: Meaning and Function"
-description: "Explore the significance of asset value per share and its role in investment analysis Discover how metrics like NAV and TBVPS guide strategic financial decisions"
+title: Essential Investor Guide to Asset Value Per Share Calculation
+description: Asset Value Per Share helps investors compare stock asset worth per unit
+  and spot undervaluation in active portfolios. Discover more inside.
 ---
 
 

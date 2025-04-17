@@ -1,6 +1,7 @@
 ---
-title: "Automated Trading Systems"
-description: "Explore the benefits and strategies of automated trading systems in financial markets, learn how they increase speed, minimize emotional bias, and boost efficiency."
+title: Essential Insider Guide to Automated Trading Systems
+description: Automated Trading System strategies automate decisions with clear rules
+  to boost efficiency, reduce emotional trades and manage risk, discover more inside.
 ---
 
 

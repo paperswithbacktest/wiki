@@ -1,6 +1,7 @@
 ---
-title: "Bid Wanted in Competition: Overview and Examples"
-description: "Explore the transformative role of Bid Wanted in Competition and algorithmic trading in enhancing financial market efficiency, ensuring competitive pricing and liquidity."
+title: Essential Insider Guide to Bid Wanted in Competition BWIC Process
+description: Bid Wanted in Competition lets sellers secure competitive bids for large
+  bond sales through a fair transparent process Discover more inside.
 ---
 
 

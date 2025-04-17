@@ -1,6 +1,7 @@
 ---
-title: "Auction Market in Trading"
-description: "Explore the transformation of financial markets through auction and algorithmic trading, understanding the dynamics and implications of these efficient methodologies."
+title: Essential Auction Market Trading Guide for Modern Investors
+description: Auction market trading demystified with clear steps on bidding, price
+  discovery and risk management for beginners and pros alike. Discover more inside.
 ---
 
 

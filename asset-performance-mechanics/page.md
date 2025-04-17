@@ -1,6 +1,7 @@
 ---
-title: "Asset Performance and Mechanics"
-description: "Explore the synergy between asset management and algorithmic trading in shaping modern financial strategies Gain insights into optimizing returns and minimizing risks"
+title: Essential Asset Performance Management For Business Efficiency
+description: Asset performance management lets businesses spot equipment issues early
+  reduce downtime cut maintenance costs and boost productivity Discover more inside
 ---
 
 

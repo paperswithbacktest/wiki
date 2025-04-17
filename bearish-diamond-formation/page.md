@@ -1,6 +1,7 @@
 ---
-title: "Bearish Diamond Formation"
-description: "Discover the bearish diamond formation pattern in algo trading This guide highlights how to identify market reversals using this rare pattern for algorithmic strategies"
+title: Essential Guide to Bearish Diamond Formation Trading Signals
+description: Bearish Diamond Formation reveals a weakening uptrend and signals when
+  to sell by confirming breakouts with volume and indicators Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Abu Dhabi Investment Council: Overview and Functionality"
-description: "Explore the history and strategic investment approaches of the Abu Dhabi Investment Council including its use of algorithmic trading for efficient global asset management."
+title: Insider Insights into Abu Dhabi Investment Council Strategies
+description: Abu Dhabi Investment Council invests government savings globally in stocks
+  bonds real estate and infrastructure to secure future growth Discover more inside
 ---
 
 

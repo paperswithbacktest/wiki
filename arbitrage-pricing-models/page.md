@@ -1,6 +1,7 @@
 ---
-title: "Arbitrage pricing models"
-description: "Explore arbitrage pricing models in algorithmic trading focusing on Arbitrage Pricing Theory (APT) to capture asset price movements via systematic factors."
+title: Essential Guide to Arbitrage Pricing Model Fundamentals
+description: Arbitrage pricing model reveals how multiple economic factors shape asset
+  values and uncover profit chances through arbitrage Discover more inside.
 ---
 
 

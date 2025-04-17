@@ -1,6 +1,7 @@
 ---
-title: "Bank Discount Rate: Overview and Applications"
-description: "Explore the essential concepts of bank discount rates and algorithmic trading in modern finance Understand their impact on investment strategies and market dynamics"
+title: Ultimate Guide to Understanding the Bank Discount Rate
+description: Bank Discount Rate affects bank borrowing costs and lending activity
+  to stabilize the economy through central bank rate changes Discover more inside.
 ---
 
 

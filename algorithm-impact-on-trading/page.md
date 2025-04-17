@@ -1,6 +1,7 @@
 ---
-title: "Algorithm and Its Impact on Trading"
-description: "Explore the transformative impact of algorithmic trading in financial markets highlighting its benefits in trade precision seamless execution and cost efficiency."
+title: Essential Guide to Algorithmic Trading Strategies and Risks
+description: Algorithmic trading delivers fast data analysis to remove emotion and
+  boost market efficiency using strategies and risk management Discover more inside
 ---
 
 

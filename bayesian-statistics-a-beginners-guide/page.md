@@ -1,6 +1,7 @@
 ---
-title: "Bayesian Statistics: A Beginner’s Guide"
-description: Bayesian statistics provides a powerful method for updating beliefs with new data, essential in algorithmic trading where decisions are made with often incomplete information. This article investigates into the use of Bayesian methods to refine trading strategies and improve financial forecasts, contrasting them with frequentist statistics. Learn how these dynamic methods enhance financial market predictions by updating models as data evolves, offering superior decision-making capabilities for traders. Explore Bayesian approaches like Hidden Markov Models and Bayesian Networks to navigate complex market environments effectively.
+title: Essential Guide to Bayesian Statistics for Algorithmic Trading
+description: Bayesian statistics empowers you to update beliefs with new data and
+  improve decision making in fields from medicine to trading Discover more inside.
 ---
 
 

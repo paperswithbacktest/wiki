@@ -1,6 +1,7 @@
 ---
-title: "Analysis of Cash Flow From Investing Activities"
-description: "Explore the significance of cash flow from investing activities in algo trading highlighting its impact on financial analysis operational efficiency and strategic decisions."
+title: Essential Guide to Cash Flow From Investing Activities
+description: Cash flow from investing activities provides insight into how a company
+  allocates funds to buy or sell assets and sustain growth. Discover more inside.
 ---
 
 

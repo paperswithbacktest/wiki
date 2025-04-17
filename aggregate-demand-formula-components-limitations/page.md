@@ -1,6 +1,7 @@
 ---
-title: "Aggregate Demand: Formula, Components, and Limitations"
-description: "Explore the formula components and limitations of aggregate demand and its role in economic stability with insights on algorithmic trading strategies."
+title: Essential Guide to Aggregate Demand and Economic Growth
+description: Aggregate demand drives economic growth by uniting key concepts of consumer
+  spending, investment, government outlays and net exports. Discover more inside.
 ---
 
 

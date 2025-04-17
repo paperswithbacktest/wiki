@@ -1,6 +1,7 @@
 ---
-title: "Asset Classes: Beyond Stocks and Bonds"
-description: "Explore the evolving world of asset classes beyond traditional stocks and bonds through algorithmic trading strategies for portfolio diversification and risk management."
+title: Essential Guide to Asset Classes for Diversified Portfolios
+description: Asset classes empower you to diversify across stocks bonds real estate
+  commodities and alternatives while managing risk effectively Discover more inside.
 ---
 
 

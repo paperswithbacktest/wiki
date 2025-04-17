@@ -1,6 +1,7 @@
 ---
-title: "Alternative Data in Trading"
-description: "Alternative data enhances algorithmic trading by offering insights into market trends through non-traditional sources like social media and satellite imagery."
+title: Essential Alternative Data Strategies for Smarter Trading
+description: Alternative data in trading reveals hidden market signals from satellite
+  imagery and transaction data guiding smarter trades Discover more inside
 ---
 
 

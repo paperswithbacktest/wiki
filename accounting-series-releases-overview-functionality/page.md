@@ -1,6 +1,7 @@
 ---
-title: "Accounting Series Releases (ASR): Overview and Functionality"
-description: "Explore the pivotal role of Accounting Series Releases (ASRs) in financial reporting and their integration with algorithmic trading for enhanced market transparency and compliance."
+title: Essential Corporate Guide to Accounting Series Releases
+description: Accounting Series Releases set SEC rules for uniform financial reporting
+  so companies can deliver transparent accurate statements Discover more inside
 ---
 
 

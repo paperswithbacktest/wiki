@@ -1,6 +1,7 @@
 ---
-title: "Aggregate Risk: Overview and Examples"
-description: "Explore aggregate risk in algorithmic trading including its impact, challenges, and risk management strategies essential for mitigating potential losses."
+title: Ultimate Guide to Understanding and Managing Aggregate Risk
+description: Aggregate risk gives you a clear view of your total exposure across sources
+  and industries so you can reduce financial threats Discover more inside
 ---
 
 

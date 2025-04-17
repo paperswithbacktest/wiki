@@ -1,6 +1,7 @@
 ---
-title: "Behavioral Finance in Algo Trading"
-description: "Explore the fusion of behavioral finance and algorithmic trading Learn how cognitive biases like overconfidence impact markets and optimize trading strategies"
+title: Essential Behavioral Finance Strategies for Algorithmic Trading
+description: Behavioral finance drives algo trading solutions that cut losses, avoid
+  biases and execute data driven decisions for stronger returns Discover more inside
 ---
 
 

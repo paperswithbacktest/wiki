@@ -1,6 +1,7 @@
 ---
-title: "Aggregate Supply: Overview and Mechanism"
-description: "Explore the connections between aggregate supply, economic theories, and algorithmic trading to understand their significant roles in modern economic systems."
+title: Essential Insights Into Aggregate Supply and Economic Growth
+description: Aggregate supply explains how price levels and input costs shape production
+  output and economic growth in both short and long run Discover more inside.
 ---
 
 

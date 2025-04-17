@@ -1,6 +1,7 @@
 ---
-title: "Accumulative Swing Index and McClellan Oscillator"
-description: "Explore the power of the McClellan Oscillator and Accumulative Swing Index in algo trading to boost strategy precision and market trend analysis."
+title: Essential Accumulative Swing Index and McClellan Oscillator Guide
+description: Accumulative Swing Index and McClellan Oscillator highlight market momentum
+  and breadth for trend confirmation Discover more inside
 ---
 
 

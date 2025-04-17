@@ -1,6 +1,8 @@
 ---
-title: "American Currency Quotation"
-description: "Explore American currency quotations and their significance in algorithmic forex trading Gain insights into strategies utilizing USD rates and automated trading technology"
+title: Essential Guide to American Currency Quotation and Exchange Rates
+description: "American currency quotation explains how the US dollar\u2019s value\
+  \ is set against other currencies and what factors drive its changes Discover more\
+  \ inside."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Bank of England Role in Monetary Policy"
-description: "Discover how the Bank of England's monetary policy intersects with algorithmic trading to shape UK economic stability and influence financial markets."
+title: Essential Insights on Bank of England Monetary Policy Effects
+description: Bank of England monetary policy shapes UK interest rates inflation and
+  economic stability with clear explanations of tools and impacts Discover more inside
 ---
 
 

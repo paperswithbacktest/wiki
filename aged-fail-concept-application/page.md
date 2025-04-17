@@ -1,6 +1,7 @@
 ---
-title: "Aged Fail: Concept and Application"
-description: "Explore the concept of aged fail in algorithmic trading, where a trade fails to settle within the standard time frame, and its implications on market stability. Understanding the causes of aged fails is crucial as they can impact liquidity and increase counterparty risk. Learn about effective strategies to mitigate these risks and ensure efficient trading operations."
+title: Ultimate Aged Fail Analysis Guide for Financial Trading
+description: Aged Fail describes transactions that persistently miss settlement deadlines
+  causing trading disruptions. Learn analysis steps and tools. Discover more.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Bhutanese Ngultrum and Economy"
-description: "Discover the role of the Bhutanese Ngultrum in the economy, its peg to the Indian Rupee, and how it influences algorithmic trading opportunities."
+title: The Essential Guide to Bhutanese Ngultrum and Economy
+description: Bhutanese Ngultrum anchors Bhutans economy with a 1:1 peg to Indian Rupee
+  boosting trade energy and tourism revenues and sustainable growth Discover inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Asian Century: Overview and Criticism"
-description: "Explore the Asian Century's potential in global politics and economy examining its economic growth, technological impacts and the criticism it faces."
+title: "Essential Insights into the Asian Century\u2019s Global Impact"
+description: Asian Century shifts global power dynamics as rising economies and technology
+  reshape politics environment and culture Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Bitpay Card: Overview, Functionality, History"
-description: "Explore the Bitpay Card for seamless crypto transactions and delve into the rise of algo trading in cryptocurrency, reshaping modern finance."
+title: Essential Guide to Using the Bitpay Card for Crypto Spending
+description: Bitpay Card lets you spend Bitcoin and other cryptocurrencies at millions
+  of Visa merchants worldwide with instant mobile app access Discover more inside.
 ---
 
 

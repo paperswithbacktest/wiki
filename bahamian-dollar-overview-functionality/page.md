@@ -1,6 +1,7 @@
 ---
-title: "Bahamian Dollar: Overview and Functionality"
-description: "Discover the crucial role of the Bahamian Dollar in the Bahamas economy from its stability through a U.S. Dollar peg to its impact on tourism and finance."
+title: Ultimate Guide to the Bahamian Dollar and Its Economic Role
+description: Bahamian Dollar pegged to the US Dollar ensures stable value and boosts
+  tourism in The Bahamas with seamless exchange. Discover more inside.
 ---
 
 

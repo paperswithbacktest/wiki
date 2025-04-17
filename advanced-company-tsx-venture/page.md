@@ -1,6 +1,7 @@
 ---
-title: "Advanced Company TSX Venture"
-description: "Explore the advantages of being an Advanced Company on the TSXV Venture Exchange. Learn how algorithmic trading enhances their market position and growth potential."
+title: Ultimate Guide to Advanced Company TSX Venture Listing Benefits
+description: Advanced Company TSX Venture details how small cap firms meet listing
+  requirements raise capital and drive growth while managing risk Discover more inside.
 ---
 
 

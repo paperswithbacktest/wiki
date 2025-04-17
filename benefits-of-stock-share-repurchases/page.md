@@ -1,6 +1,7 @@
 ---
-title: "Benefits of Stock Share Repurchases"
-description: "Explore the intersection of stock buybacks and algorithmic trading, examining their impact on modern finance, market dynamics, and corporate strategies."
+title: Proven Share Repurchase Tactics to Boost Shareholder Value
+description: Share repurchase can boost shareholder value and earnings per share while
+  signaling management confidence in future growth. Discover more inside.
 ---
 
 

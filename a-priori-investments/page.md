@@ -1,6 +1,7 @@
 ---
-title: "A Priori Investments (hedge fund)"
-description: "Explore A Priori Investments a leader in algorithmic trading using cutting-edge technology and strategic insights to drive trading efficiency and precision."
+title: Essential Guide to A Priori Investments Multi-Strategy Hedge Fund
+description: A Priori Investments applies a multi-strategy approach backed by a strong
+  track record to mitigate risk and enhance returns Discover more inside
 ---
 
 

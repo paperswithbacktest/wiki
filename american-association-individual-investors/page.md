@@ -1,6 +1,7 @@
 ---
-title: "American Association of Individual Investors"
-description: "Discover how the American Association of Individual Investors aids personal finance growth and explore algorithmic trading to automate and optimize investments."
+title: Ultimate Guide to AAII Membership Benefits and Tools
+description: AAII empowers self directed investors with model portfolios stock screening
+  and easy to follow articles plus community support Discover more inside
 ---
 
 

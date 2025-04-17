@@ -1,6 +1,7 @@
 ---
-title: "Acadian Asset Management"
-description: Acadian Asset Management is a leading entity in investment management, excelling in quantitative analysis and algorithmic trading strategies since its founding in 1986. Utilizing cutting-edge technological solutions like AI and data science, Acadian identifies profitable market opportunities, optimizing trade executions through sophisticated algorithms. With a foundation in quantitative investment, the firm remains adaptable, consistently delivering innovative solutions and maintaining a competitive edge. As a pioneer in its field, Acadian stands at the intersection of finance and technology, driving the evolution of modern investment management practices.
+title: Essential Insights Into Acadian Asset Management Strategies
+description: Acadian Asset Management uses quantitative investing and data analytics
+  to deliver smart investment strategies and manage risk. Discover more inside.
 ---
 
 

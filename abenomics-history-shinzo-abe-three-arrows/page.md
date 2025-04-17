@@ -1,6 +1,7 @@
 ---
-title: "Abenomics: History and Shinzo Abe's Three Arrows"
-description: "Explore Abenomics and Shinzo Abe's transformative economic strategy, focusing on three arrows to revitalize Japan's growth. Ideal for algorithmic trading insights."
+title: Essential Guide to Abenomics and Its Three Powerful Arrows
+description: Abenomics drives the Japanese economy with bold monetary easing, targeted
+  fiscal spending and structural reforms to boost growth Discover more inside.
 ---
 
 

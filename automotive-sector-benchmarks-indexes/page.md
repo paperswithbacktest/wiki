@@ -1,6 +1,7 @@
 ---
-title: "Automotive Sector Benchmarks and Indexes"
-description: "Explore the role of benchmark indexes in algorithmic trading within the automotive sector These critical tools help investors refine strategies and enhance performance."
+title: Essential Guide to Automotive Sector Benchmarks and Indexes
+description: Automotive sector benchmarks and indexes reveal insights on car company
+  performance versus industry averages Guide investments Discover more inside
 ---
 
 

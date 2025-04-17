@@ -1,6 +1,7 @@
 ---
-title: "2000 Y2K Bug: Events and Impact"
-description: "Discover how the Y2K bug impacted algorithmic trading systems and learn from the extensive preventive measures taken to mitigate potential disruptions."
+title: Insider Insights Into the Y2K Bug Impact and Lessons
+description: Y2K bug analysis shows how teams updated systems to prevent errors and
+  shaped future software practices and global preparedness Discover more inside.
 ---
 
 ![Image](images/1.png)

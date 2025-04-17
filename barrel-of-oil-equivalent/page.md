@@ -1,6 +1,7 @@
 ---
-title: "Barrel of Oil Equivalent"
-description: "Uncover the pivotal role of the Barrel of Oil Equivalent in energy trading Discover how BOE simplifies energy comparison and enhances algorithmic trading efficiency"
+title: Ultimate Guide To Barrel Of Oil Equivalent Energy Conversion
+description: Barrel Of Oil Equivalent simplifies energy source comparison by translating
+  fuels into a common unit for smarter resource planning Discover more inside
 ---
 
 

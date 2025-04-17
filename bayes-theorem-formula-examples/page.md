@@ -1,6 +1,7 @@
 ---
-title: "Bayes' Theorem: Formula and Examples"
-description: "Explore how Bayes' Theorem enhances algorithmic trading with dynamic probability updates risk assessments and improved decision-making in volatile markets."
+title: Essential Bayes' Theorem Explained for Practical Decision Making
+description: Bayes' Theorem helps update probability estimates with new evidence in
+  fields from medicine to AI improving decision making Discover more inside.
 ---
 
 

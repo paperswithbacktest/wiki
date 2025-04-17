@@ -1,6 +1,7 @@
 ---
-title: "Batch Normalization (Machine Learning)"
-description: "Improve neural network training with Batch Normalization which stabilizes and accelerates learning by normalizing inputs to each layer reducing covariate shift."
+title: Essential Batch Normalization For Stable Neural Network Training
+description: Batch Normalization speeds up neural network training by stabilizing
+  inputs and reducing sensitivity to weights and learning rates. Discover more inside
 ---
 
 ![Image](images/1.png)

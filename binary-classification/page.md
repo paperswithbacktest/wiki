@@ -1,6 +1,7 @@
 ---
-title: "Binary Classification (Machine Learning)"
-description: "Explore binary classification in machine learning where data is categorized into two groups like spam or not spam using algorithms such as logistic regression."
+title: Essential Guide to Binary Classification in Machine Learning
+description: Binary classification in machine learning shows how to prepare data select
+  features choose algorithms and evaluate model performance Discover more inside
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,7 @@
 ---
-title: "Asset Classes: A Beginner's Introduction to Investing"
-description: "Explore the fundamentals of asset classes and discover how algorithmic trading can simplify investing for beginners and seasoned investors alike."
+title: Ultimate Guide to Asset Classes for Smarter Investing
+description: Asset classes unlock a balanced strategy by diversifying across stocks
+  bonds real estate and alternatives for more stable returns. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Berlin Stock Exchange: Overview and Function"
-description: "Explore the Berlin Stock Exchange's historic evolution and current role in global finance as a hub for algorithmic trading and international investments."
+title: Essential Guide to the Berlin Stock Exchange for Investors
+description: Berlin Stock Exchange supports small and medium companies by connecting
+  investors to diverse securities in a regulated market Discover more inside.
 ---
 
 

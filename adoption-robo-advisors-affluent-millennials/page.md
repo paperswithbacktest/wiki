@@ -1,6 +1,7 @@
 ---
-title: "Adoption of Robo-Advisors Among Affluent Millennials"
-description: "Explore how affluent millennials are transforming investment strategies with the rise of robo-advisors and algo trading integrating fintech innovation."
+title: The Ultimate Guide to Robo-Advisors for Affluent Millennials
+description: Robo-Advisors deliver automated investment management and low fees to
+  help affluent millennials grow wealth with ease. Discover more inside.
 ---
 
 

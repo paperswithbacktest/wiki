@@ -1,6 +1,7 @@
 ---
-title: "Airline Strategies for Oil Price Risk Management"
-description: "Explore strategies airlines use to manage oil price risk including hedging with futures options swaps and the role of algorithmic trading in enhancing risk management."
+title: Essential Airline Oil Price Risk Management Strategies
+description: Airline oil price risk management uses futures, options and swaps to
+  lock fuel costs and protect profits in volatile markets. Discover more inside.
 ---
 
 

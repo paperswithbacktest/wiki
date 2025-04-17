@@ -1,6 +1,8 @@
 ---
-title: "American International Group, Inc."
-description: "Explore how American International Group leverages algorithmic trading to enhance risk management and operational efficiency in the evolving insurance sector."
+title: Insider Guide to AIG Insurance Services and Strategies
+description: "AIG Insurance provides a clear overview of its history, products, global\
+  \ reach and post\u2011crisis recovery journey with expert insights. Discover more\
+  \ inside."
 ---
 
 

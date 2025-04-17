@@ -1,6 +1,7 @@
 ---
-title: "Angolan Novo Kwanza"
-description: "Discover the dynamics of the Angolan Kwanza and the rise of algorithmic trading. Explore how algo trading can optimize outcomes in Angola's volatile market."
+title: Essential Guide to the Angolan Novo Kwanza Currency
+description: "Angolan Novo Kwanza powers Angola\u2019s economy from denominations\
+  \ rates to global trade with insights on stability and value Discover more inside"
 ---
 
 

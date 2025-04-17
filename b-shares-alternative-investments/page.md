@@ -1,6 +1,8 @@
 ---
-title: "B-Shares and Alternative Investments"
-description: "Explore B-shares, alternative investments, and algorithmic trading to enhance portfolio diversification, access Chinese markets, and optimize trading efficiency."
+title: Essential Guide to B-Shares and Alternative Investments
+description: B-Shares and alternative investments boost portfolio diversification
+  and offer currency access plus asset variety with expert insights Discover more
+  inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Barriers to Entry in the Pharmaceutical Industry"
-description: "Explore the significant barriers to entry in the pharmaceutical industry, such as high R&D costs, stringent regulations, and IP challenges, and how algo trading aids firms."
+title: Insider Guide to Barriers to Entry in the Pharmaceutical Industry
+description: Barriers to entry in the pharmaceutical industry demand high R and D
+  costs patents and compliance fees favor big firms over startups Discover more inside
 ---
 
 

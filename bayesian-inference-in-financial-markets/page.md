@@ -1,6 +1,7 @@
 ---
-title: "Bayesian Inference in Financial Markets"
-description: "Explore how Bayesian inference enhances algorithmic trading by dynamically updating predictions in financial markets, ensuring robust and precise trading strategies."
+title: Essential Guide to Bayesian Inference in Financial Markets
+description: Bayesian inference helps investors update beliefs with new data for smarter
+  investment decisions in fast-moving markets Discover more inside
 ---
 
 

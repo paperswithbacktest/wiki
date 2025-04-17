@@ -1,6 +1,7 @@
 ---
-title: "Allston Trading LLC"
-description: "Explore Allston Trading's proprietary and algorithmic trading strategies enhancing market efficiency with cutting-edge technology and data-driven decisions."
+title: Proven Strategies Driving Allston Trading LLC Growth
+description: Allston Trading LLC uses advanced algorithms and data analysis to deliver
+  strong investment returns while managing risk effectively Discover more inside
 ---
 
 

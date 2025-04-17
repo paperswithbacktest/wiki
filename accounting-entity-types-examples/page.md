@@ -1,6 +1,8 @@
 ---
-title: "Accounting Entity Types and Examples"
-description: "Explore key accounting entity types and examples essential for algorithmic trading This guide covers corporations sole proprietorships partnerships and SPVs"
+title: Essential Guide to Accounting Entity Types and Structures
+description: Accounting entity separation helps businesses track finances, select
+  the right structure, comply with regulations and maintain clarity Discover more
+  inside
 ---
 
 

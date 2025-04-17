@@ -1,6 +1,7 @@
 ---
-title: "Alexander Elder Triple Screen Strategy Explained"
-description: Explore the Alexander Elder Triple Screen Strategy, a structured and methodical approach within algorithmic trading that breaks down the trading process into three phases. This strategy enhances decision-making by evaluating market conditions comprehensively and optimizing trade execution. By integrating multiple indicators across different timeframes, traders can better manage risks and improve strategic outcomes, making it a valuable tool for enhancing market performance.
+title: Proven Triple Screen Strategy for Stock Market Success
+description: Triple Screen Strategy helps traders confirm market trends across three
+  timeframes for precise entries and risk control Discover more inside.
 ---
 
 

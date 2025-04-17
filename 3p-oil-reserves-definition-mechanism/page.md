@@ -1,6 +1,7 @@
 ---
-title: "3P Oil Reserves: Definition and Mechanism"
-description: "Explore the crucial role 3P oil reserves play in the industry. Understand Proven, Probable, and Possible reserves and their impact on trading and investment strategies."
+title: Essential Insights into 3P Oil Reserves for Energy Investors
+description: 3P Oil Reserves provide a clear framework for proved probable and possible
+  volumes so companies optimize planning and investment Discover more inside
 ---
 
 ![Image](images/image.png)

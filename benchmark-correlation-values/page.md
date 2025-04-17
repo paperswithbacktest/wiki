@@ -1,6 +1,7 @@
 ---
-title: "Benchmark for Correlation Values"
-description: "Explore the vital role of correlation analysis in algorithmic trading uncovering essential benchmarks and statistical methods for optimizing strategies and managing risk."
+title: Essential Guide to Understanding Correlation Values and Analysis
+description: Correlation values reveal the strength and direction of relationships
+  in your data to improve insights and guide decision making. Discover more inside.
 ---
 
 

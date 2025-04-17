@@ -1,6 +1,7 @@
 ---
-title: "Asia-Pacific Economic Cooperation: Overview and History"
-description: "Explore the dynamic interplay between APEC economic policies and the rise of algorithmic trading shaping the Asia-Pacific region's financial landscape."
+title: Essential Guide to APEC Trade and Economic Cooperation
+description: APEC fosters seamless trade growth by uniting 21 economies to cut barriers
+  support small businesses and protect the environment Discover more inside.
 ---
 
 

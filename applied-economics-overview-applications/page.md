@@ -1,6 +1,7 @@
 ---
-title: "Applied Economics: Overview and Applications"
-description: "Explore how applied economics bridges theory and practice, particularly in algorithmic trading, enhancing decision-making and optimizing financial strategies."
+title: Essential Applied Economics Guide For Real-World Solutions
+description: Applied Economics uses theory and data to solve real-world policy business
+  and sustainability challenges with practical methods Discover more inside
 ---
 
 

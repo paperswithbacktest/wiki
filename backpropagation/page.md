@@ -1,6 +1,7 @@
 ---
-title: "Backpropagation (Machine Learning)"
-description: "Learn about backpropagation a crucial method in machine learning for training neural networks It optimizes performance by adjusting neuron connections"
+title: Essential Backpropagation Guide for Training Neural Networks
+description: Backpropagation drives neural network learning by adjusting weights through
+  gradient descent and chain rule for improved accuracy Discover more inside.
 ---
 
 ![Image](images/1.png)

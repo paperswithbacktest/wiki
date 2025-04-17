@@ -1,6 +1,7 @@
 ---
-title: "Augmented Dickey-Fuller (ADF) test"
-description: Explore the significance of the Augmented Dickey-Fuller test in algorithmic trading to ensure time series stationarity crucial for accurate predictive models. This page investigates into the ADF test's role in refining trading strategies like pairs trading by verifying asset co-integration and enhancing signal reliability using practical approaches in Excel and Python to optimize trading performance.
+title: Essential Augmented Dickey-Fuller Test Guide for Stationarity
+description: Augmented Dickey-Fuller test helps you determine if time series data
+  is stationary for accurate modeling and guides data preparation Discover more inside.
 ---
 
 

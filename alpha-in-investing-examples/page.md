@@ -1,6 +1,7 @@
 ---
-title: "Alpha in Investing: Definition and Examples"
-description: "Discover how algorithmic trading can generate alpha in investing by leveraging quantitative techniques to outperform the market and identify trading opportunities."
+title: Essential Guide to Alpha in Investing and Risk-Adjusted Returns
+description: Alpha in investing offers a clear measure of portfolio performance against
+  benchmarks and risk factors with practical examples Discover more inside
 ---
 
 

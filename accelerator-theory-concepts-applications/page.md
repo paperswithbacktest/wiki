@@ -1,6 +1,7 @@
 ---
-title: "Accelerator Theory: Concepts and Applications"
-description: "Explore the accelerator theory's role in economic frameworks and its impact on investment dynamics, with a focus on algorithmic trading applications. This article investigates into how changes in national income influence capital investment decisions and outlines the theory's integration into trading algorithms for optimized asset management. Gain insights into the interplay between economic theories and modern technology, highlighting strategies responsive to market conditions."
+title: The Essential Guide to Accelerator Theory and Its Economic Impact
+description: Accelerator Theory explains how consumer demand spikes drive business
+  investment and economic cycles in active market environments. Discover more inside.
 ---
 
 

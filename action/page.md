@@ -1,6 +1,7 @@
 ---
-title: "Action (Machine Learning)"
-description: "Discover the basics of action machine learning a form of AI that learns by trial and error to make decisions used in gaming self-driving cars and robotics."
+title: Essential Guide to Action Machine Learning Applications
+description: Action machine learning teaches systems optimal decisions through trial
+  and feedback across games robotics and self driving cars Discover more inside
 ---
 
 ![Image](images/1.png)

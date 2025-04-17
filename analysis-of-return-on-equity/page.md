@@ -1,6 +1,7 @@
 ---
-title: "Analysis of Return on Equity"
-description: "Explore how Return on Equity (ROE) integrates with algorithmic trading strategies to boost investment outcomes by identifying high-performing stocks."
+title: Proven Guide to Return on Equity Analysis for Smart Investors
+description: Return on Equity shows how efficiently companies use equity to generate
+  profits, uncover debt risks and compare industry benchmarks Discover more inside
 ---
 
 

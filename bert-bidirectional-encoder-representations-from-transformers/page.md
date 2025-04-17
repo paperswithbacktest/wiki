@@ -1,6 +1,7 @@
 ---
-title: "Bert (Bidirectional Encoder Representations From Transformers) (Machine Learning)"
-description: "Understand BERT a groundbreaking AI model for language processing with bidirectional context enabling improved accuracy in search engines and question answering."
+title: Essential Guide to BERT Bidirectional NLP Model Fundamentals
+description: BERT leverages bidirectional context and pre-training to enhance NLP
+  tasks like search translation and question answering Discover more inside
 ---
 
 ![Image](images/1.gif)

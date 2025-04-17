@@ -1,6 +1,7 @@
 ---
-title: "Accumulated Other Comprehensive Income and Types"
-description: "Explore the significance of Accumulated Other Comprehensive Income in financial statements and its impact on algorithmic trading strategies for informed decisions."
+title: Essential Guide to Accumulated Other Comprehensive Income AOCI
+description: Accumulated Other Comprehensive Income tracks gains and losses outside
+  net income to reveal true equity impact and financial health. Discover more inside.
 ---
 
 

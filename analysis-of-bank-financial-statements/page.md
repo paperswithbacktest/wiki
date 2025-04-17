@@ -1,6 +1,7 @@
 ---
-title: "Analysis of Bank Financial Statements"
-description: "Explore the synergy between financial statement analysis and algorithmic trading in the banking sector Learn how technology reshapes bank operations and investment strategies"
+title: Essential Guide to Bank Financial Statement Analysis
+description: Bank financial statement analysis helps you decode balance sheets income
+  statements and cash flows to gain actionable insights Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Basis in Finance"
-description: "Understand core financial terms and concepts crucial for navigating algorithmic trading and modern financial markets Enhance investment strategies with key insights"
+title: The Essential Guide to Understanding Basis in Finance
+description: Basis in finance shapes trading costs and risk management by explaining
+  futures basis, cost basis and hedging strategies Discover more inside.
 ---
 
 

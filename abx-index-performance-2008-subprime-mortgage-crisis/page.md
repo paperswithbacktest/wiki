@@ -1,6 +1,7 @@
 ---
-title: "ABX Index Performance During the 2008 Subprime Mortgage Crisis"
-description: "Discover how the ABX index served as a crucial indicator during the 2008 subprime mortgage crisis revealing market trends and impacting algorithmic trading strategies."
+title: Essential ABX Index Guide for Asset-Backed Securities Investors
+description: ABX Index offers a transparent view into asset-backed securities performance
+  post-2008 crisis to guide smarter investment decisions Discover more inside.
 ---
 
 

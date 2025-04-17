@@ -1,6 +1,7 @@
 ---
-title: "Area Under The Pr Curve (Machine Learning)"
-description: "Explore the significance of the Precision-Recall Curve and Area Under the PR Curve in machine learning to improve model evaluation, especially for imbalanced datasets."
+title: Ultimate Precision-Recall Curve Insights for Imbalanced Data
+description: Precision-Recall Curve helps you measure model performance on imbalanced
+  data by balancing precision and recall across thresholds Discover more inside.
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Attribution Bias in Finance"
-description: "Uncover the impact of attribution bias in finance and algorithmic trading Understand how cognitive distortions affect decision-making and investment strategies"
+title: Essential Guide to Overcoming Attribution Bias in Finance
+description: Attribution bias in finance can skew investment and risk decisions. Explore
+  proven tactics and expert steps to spot and reduce bias Discover more inside.
 ---
 
 

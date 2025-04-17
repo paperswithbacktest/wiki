@@ -1,6 +1,7 @@
 ---
-title: "Attribute (Machine Learning)"
-description: "Learn about attributes in machine learning and how they differ from features. Understand their role in model performance, selection, and scaling impact."
+title: Ultimate Guide to Machine Learning Attribute Engineering
+description: Machine learning attributes define key data features and impact model
+  accuracy by guiding selection, scaling, and encoding. Discover more inside.
 ---
 
 ![Image](images/1.png)

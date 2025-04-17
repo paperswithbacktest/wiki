@@ -1,6 +1,7 @@
 ---
-title: "Bank for International Settlements: History and Overview"
-description: "Explore the history of the Bank for International Settlements and its impact on global banking and algorithmic trading in today's dynamic financial landscape."
+title: Essential Insider Guide to the Bank for International Settlements
+description: Bank for International Settlements drives cooperation by uniting central
+  banks with research and guidance for financial stability Discover more inside
 ---
 
 

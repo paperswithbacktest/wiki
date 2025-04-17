@@ -1,6 +1,7 @@
 ---
-title: "Benchmark Oils: Brent, WTI, Dubai"
-description: "Explore the complexities of the global oil market and benchmark oils like Brent and WTI Discover how algorithmic trading reshapes oil price dynamics and strategies"
+title: Essential Benchmark Crude Oils Guide for Brent WTI and Dubai
+description: Benchmark Oils guide explains how WTI Brent and Dubai crude set prices
+  through quality and supply factors and futures trading Discover more inside
 ---
 
 

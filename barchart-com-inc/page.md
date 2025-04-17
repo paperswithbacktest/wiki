@@ -1,6 +1,7 @@
 ---
-title: "Barchart.com Inc."
-description: "Discover powerful investment tools and strategies in algorithmic trading with Barchart.com to enhance portfolio management and improve market predictions."
+title: Essential Guide to Barchart Financial Data Platform and Services
+description: Barchart financial data platform provides real time market data news
+  charts and trading tools for informed investing decisions Discover more inside.
 ---
 
 

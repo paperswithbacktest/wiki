@@ -1,6 +1,7 @@
 ---
-title: "Batch Inference (Machine Learning)"
-description: "Discover how batch inference in machine learning allows efficient predictions on large datasets, saving time and resources by processing all data points simultaneously."
+title: Essential Guide to Batch Inference in Machine Learning
+description: We delve into batch inference to show how processing large datasets all
+  at once boosts efficiency and scalability in your ML pipeline Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

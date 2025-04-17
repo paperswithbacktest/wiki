@@ -1,6 +1,7 @@
 ---
-title: "Asset Stripper"
-description: "Explore the intriguing relationship between asset stripping and algorithmic trading as these controversial techniques combine to maximize financial strategies and outcomes."
+title: Essential Guide to Asset Stripping Strategies Risks and Impact
+description: Asset stripping can unlock quick value by selling off underperforming
+  assets while managing risks for employees and communities Discover more inside
 ---
 
 

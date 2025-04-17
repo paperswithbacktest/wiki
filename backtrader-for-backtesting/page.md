@@ -1,6 +1,7 @@
 ---
-title: "Backtrader for Backtesting Explained"
-description: Explore the key features and advantages of using Backtrader for backtesting algorithmic trading strategies. Discover how this powerful open-source platform helps traders refine strategies through robust simulation capabilities and seamless integration of multiple data feeds and custom indicators. Learn about its supportive community and accessible framework that make it an ideal choice for both novice and seasoned traders looking to enhance their trading algorithms in a reliable environment.
+title: Essential Backtrader Guide for Trading Strategy Backtesting
+description: Backtrader simplifies Python strategy development by offering flexible
+  data feeds custom indicators and robust performance metrics Discover more inside.
 ---
 
 

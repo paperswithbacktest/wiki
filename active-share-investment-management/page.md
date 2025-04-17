@@ -1,6 +1,7 @@
 ---
-title: "Active Share in Investment Management"
-description: "Explore active share and algorithmic trading in investment management to enhance portfolio performance by understanding fund management and efficient trade execution."
+title: Ultimate Active Share Insights For Portfolio Management
+description: Active Share shows investors how different their portfolio is from its
+  benchmark to improve fund selection and manage risk. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "American Recovery and Reinvestment Act: Objectives and FAQs"
-description: "Explore the objectives and components of the American Recovery and Reinvestment Act of 2009 and its impact on economic recovery and algorithmic trading."
+title: Insider Guide to the American Recovery and Reinvestment Act
+description: American Recovery and Reinvestment Act highlights funding that boosted
+  jobs and sustainable infrastructure ensuring transparency Discover more inside
 ---
 
 

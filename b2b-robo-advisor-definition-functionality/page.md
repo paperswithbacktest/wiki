@@ -1,6 +1,7 @@
 ---
-title: "B2B Robo-Advisor: Definition And Functionality"
-description: "Explore how B2B robo-advisors redefine financial management with tailored algorithmic trading solutions helping businesses leverage data for strategic growth."
+title: Essential Guide to B2B Robo-Advisors for Financial Institutions
+description: B2B Robo-Advisor streamlines financial management for institutions by
+  automating investments and compliance processes efficiently Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Big Mac Index and Purchasing Power Parity"
-description: "Discover how the Big Mac Index serves as a simplified tool for evaluating currency value and purchasing power parity, offering insights for traders and economists."
+title: Essential Big Mac Index Insights for Global Currency Analysis
+description: Big Mac Index reveals currency value gaps by comparing burger prices
+  with PPP theory, offering clear economic insights and analysis Discover more inside.
 ---
 
 

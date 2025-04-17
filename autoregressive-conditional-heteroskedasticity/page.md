@@ -1,6 +1,7 @@
 ---
-title: "Autoregressive conditional heteroskedasticity"
-description: Enhance your algorithmic trading strategies by understanding Autoregressive Conditional Heteroskedasticity (ARCH) models. Essential for accurately forecasting market volatility, ARCH models help traders mitigate risk and maximize returns. Explore how ARCH, introduced by Robert F. Engle, captures volatility clusters in financial data, paving the way for sophisticated models like GARCH. Dive into the impact of these models on predictive accuracy and risk management in volatile markets. Perfect for traders aiming to stay ahead with data-driven insights and robust algorithmic strategies.
+title: Ultimate Guide to ARCH and GARCH Volatility Modeling
+description: ARCH and GARCH models show how past shocks shape financial volatility
+  over time using likelihood estimation and extensions Discover more inside.
 ---
 
 

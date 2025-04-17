@@ -1,6 +1,7 @@
 ---
-title: "Binary Condition (Machine Learning)"
-description: "Understand binary conditions in machine learning where outcomes fall into two categories They simplify classification with applications in spam detection and diagnosis"
+title: Essential Guide to Binary Classification in Machine Learning
+description: Binary classification helps you build models define decision boundaries
+  evaluate metrics and improve accuracy with ensemble methods Discover more inside
 ---
 
 ![Image](images/1.png)

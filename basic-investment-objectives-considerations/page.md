@@ -1,6 +1,7 @@
 ---
-title: "Basic Investment Objectives and Considerations"
-description: "Explore essential investment strategies and the impact of algorithmic trading in wealth management to enhance financial planning and achieve long-term goals."
+title: Essential Investing Fundamentals Guide for Smart Portfolio Growth
+description: Investing fundamentals empower you to grow wealth diversify risk and
+  beat inflation with tax efficient strategies for long term gains Discover more inside
 ---
 
 

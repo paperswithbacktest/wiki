@@ -1,6 +1,7 @@
 ---
-title: "Australian Securities Exchange"
-description: "Discover how algorithmic trading transforms the Australian Securities Exchange with increased efficiency liquidity and reduced costs in the financial markets."
+title: Essential Insider Guide to the Australian Securities Exchange
+description: Australian Securities Exchange helps investors navigate trading shares
+  bonds futures with clear steps rules and tech insights Discover more inside.
 ---
 
 

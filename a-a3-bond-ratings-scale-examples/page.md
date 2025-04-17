@@ -1,6 +1,7 @@
 ---
-title: "A-/A3 Bond Ratings Scale and Examples"
-description: "Explore the A-/A3 bond ratings scale and examples in algo trading Discover how these metrics impact investment decisions and enhance bond market strategies"
+title: Essential Guide to A- and A3 Bond Ratings for Investors
+description: A- and A3 bond ratings provide a balanced view of risk and return for
+  investors by explaining key factors, default rates and pricing Discover more inside
 ---
 
 
