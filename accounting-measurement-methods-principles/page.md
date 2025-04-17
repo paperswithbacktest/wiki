@@ -1,7 +1,8 @@
 ---
-title: Essential Guide to Accounting Measurement Methods and Principles
-description: Accounting measurement methods offer clear asset valuation and financial
-  insights including historical cost accrual and fair value Discover more inside
+title: Comprehensive Accounting Principles and Measurement Methods
+description: Accounting measurement explores historical cost current cost and fair
+  value methods to deliver accurate financial insights for informed decisions Discover
+  more inside.
 ---
 
 

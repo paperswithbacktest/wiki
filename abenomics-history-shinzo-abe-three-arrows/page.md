@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Abenomics and Its Three Powerful Arrows
-description: Abenomics drives the Japanese economy with bold monetary easing, targeted
-  fiscal spending and structural reforms to boost growth Discover more inside.
+title: Abenomics Three Arrows Economic Policy Impact Analysis
+description: Abenomics economic policies use monetary easing fiscal stimulus and structural
+  reforms to combat deflation and boost growth in Japan Discover more inside
 ---
 
 

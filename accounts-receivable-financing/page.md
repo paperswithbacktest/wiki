@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Accounts Receivable Financing Strategies
-description: Accounts Receivable Financing gives businesses fast access to cash from
-  unpaid invoices and drives growth with quick funding Discover more inside.
+title: Accounts Receivable Financing Solutions to Improve Cash Flow
+description: Accounts receivable financing turns invoices into fast cash without waiting
+  for payments so businesses cover expenses and grow Discover more inside
 ---
 
 

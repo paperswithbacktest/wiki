@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to A- and A3 Bond Ratings for Investors
-description: A- and A3 bond ratings provide a balanced view of risk and return for
-  investors by explaining key factors, default rates and pricing Discover more inside
+title: "Understanding A\u2011 and A3 Bond Ratings for Optimal Investment"
+description: Bond rating analysis explains how A- and A3 ratings reflect safety and
+  risk to help investors balance returns and security Discover more inside.
 ---
 
 

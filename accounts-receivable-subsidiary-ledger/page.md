@@ -1,8 +1,7 @@
 ---
-title: Essential Guide to Accounts Receivable Subsidiary Ledger Management
-description: Accounts receivable subsidiary ledger tracks individual customer debts
-  and payments in detail for accurate financial records and timely collections Discover
-  more inside.
+title: Effective Management of Accounts Receivable Subsidiary Ledger
+description: Accounts receivable subsidiary ledger tracks customer debts and automates
+  reconciliations to speed payment follow up and discover more inside.
 ---
 
 

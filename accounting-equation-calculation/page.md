@@ -1,7 +1,7 @@
 ---
-title: Essential Accounting Equation Guide for Accurate Reporting
-description: Accounting Equation shows how assets liabilities and equity stay balanced
-  with double entry bookkeeping for clear financial insights Discover more inside.
+title: Accounting Equation Principles for Balanced Financial Records
+description: Accounting equation ensures assets liabilities and equity stay balanced
+  in every transaction to deliver accurate financial statements Discover more inside
 ---
 
 

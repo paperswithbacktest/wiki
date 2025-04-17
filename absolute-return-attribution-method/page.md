@@ -1,7 +1,7 @@
 ---
-title: Proven Absolute Return Attribution Method for Portfolio Analysis
-description: Absolute return attribution shows how each asset and currency shift drives
-  portfolio returns so investors refine strategies Discover more inside
+title: Understanding the Absolute Return Attribution Method
+description: Absolute return attribution method breaks down portfolio returns to reveal
+  how each asset and market factor drives performance. Discover more inside.
 ---
 
 

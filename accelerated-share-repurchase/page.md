@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide To Accelerated Share Repurchase Mechanism
-description: Accelerated Share Repurchase allows companies to quickly reduce outstanding
-  shares, boost EPS and signal market confidence Discover more inside
+title: Accelerated Share Repurchase Process Benefits And Risks
+description: Accelerated Share Repurchase helps companies quickly reduce outstanding
+  shares increase earnings per share and navigate risks Discover more inside.
 ---
 
 

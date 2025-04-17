@@ -1,7 +1,7 @@
 ---
-title: Essential Leadership Strategies During the 2008 Financial Crisis
-description: 2008 Financial Crisis leadership shows how Bush, Paulson, Obama and Bernanke
-  took decisive action to stabilize markets with reforms Discover more inside.
+title: Leadership Shaped the 2008 Financial Crisis Response and Recovery
+description: 2008 Financial Crisis insights highlight how decisive leadership actions
+  stabilized global markets and spurred regulatory reforms. Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

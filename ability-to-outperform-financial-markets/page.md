@@ -1,7 +1,8 @@
 ---
-title: Proven Strategies to Outperform the Financial Markets
-description: Outperform the financial markets with proven strategies for stock selection
-  algorithmic trading and diversification to boost returns. Discover more inside.
+title: Strategies to Outperform Financial Markets with Alpha Generation
+description: Outperform financial markets by mastering strategies from stock selection
+  to algorithms and risk management that boost returns and help you achieve your goals
+  Discover more inside
 ---
 
 

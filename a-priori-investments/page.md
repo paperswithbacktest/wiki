@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to A Priori Investments Multi-Strategy Hedge Fund
-description: A Priori Investments applies a multi-strategy approach backed by a strong
-  track record to mitigate risk and enhance returns Discover more inside
+title: A Priori Investments Multi-Strategy Hedge Fund Overview
+description: A Priori Investments applies a multi strategy approach by diversifying
+  across stocks and bonds to manage risk and grow capital Discover more inside
 ---
 
 

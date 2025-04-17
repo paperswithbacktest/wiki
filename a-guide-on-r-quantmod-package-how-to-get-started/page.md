@@ -1,7 +1,7 @@
 ---
-title: Essential R Quantmod Package Guide for Financial Analysis
-description: R Quantmod package helps financial analysts download historical market
-  data, plot charts, apply indicators and backtest strategies Discover more inside
+title: Quantmod R Package Guide for Financial Data Analysis and Charting
+description: Quantmod R package simplifies downloading and visualizing stock and market
+  data while offering tools for analysis and charting Discover more inside
 ---
 
 

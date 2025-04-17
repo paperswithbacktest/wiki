@@ -1,7 +1,7 @@
 ---
-title: Essential Insider Analysis of the 2013 Fed Taper Tantrum
-description: 2013 Taper Tantrum shook global markets when the Fed hinted at reducing
-  QE causing bond sell offs and emerging market currency drops Discover more inside.
+title: 2013 Taper Tantrum Effects on Global Markets and Economies
+description: Taper Tantrum exposed how Fed taper talk triggered bond selloffs and
+  market volatility while driving emerging economies to adapt Discover more inside
 ---
 
 ![Image](images/taper.png)

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Acing Your Quantitative Analyst Interview
-description: Quantitative analyst interview prep covers math concepts coding skills
-  and real-world case studies to boost confidence and performance Discover more inside
+title: Comprehensive Quantitative Analyst Interview Preparation Guide
+description: Quantitative Analyst Interview guide presents key math concepts programming
+  languages statistical techniques and top book recommendations Discover more inside
 ---
 
 ![Image](images/1.png)

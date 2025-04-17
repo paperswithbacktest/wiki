@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Abnormal Earnings Valuation Model
-description: Abnormal Earnings Valuation Model reveals how companies generate profits
-  beyond equity costs to uncover true intrinsic value. Discover more inside.
+title: Understanding the Abnormal Earnings Valuation Model for Equity
+description: Abnormal Earnings Valuation Model shows how to measure a company's intrinsic
+  value by discounting profits above required returns. Discover more inside.
 ---
 
 

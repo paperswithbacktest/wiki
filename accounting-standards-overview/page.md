@@ -1,7 +1,8 @@
 ---
-title: Essential Guide to Accounting Standards GAAP Vs IFRS
-description: Accounting standards ensure clear consistent reporting under GAAP and
-  IFRS empowering investors and businesses to compare results. Discover more inside.
+title: Accounting Standards Guide for Consistent Financial Reporting
+description: Accounting standards promote clear consistent financial reporting by
+  defining GAAP and IFRS rules for fair comparisons and transparency Discover more
+  inside
 ---
 
 

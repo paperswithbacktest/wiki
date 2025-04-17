@@ -1,7 +1,7 @@
 ---
-title: Insider Insights into Abu Dhabi Investment Council Strategies
-description: Abu Dhabi Investment Council invests government savings globally in stocks
-  bonds real estate and infrastructure to secure future growth Discover more inside
+title: "Understanding the Abu Dhabi Investment Council\u2019s Global Role"
+description: Abu Dhabi Investment Council manages government savings through diverse
+  global investments to grow and secure funds over time Discover more inside.
 ---
 
 

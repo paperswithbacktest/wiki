@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide To Aave Crypto Lending And Borrowing
-description: Aave enables secure crypto lending and borrowing with automated smart
-  contracts so you earn interest or access liquidity. Discover more inside.
+title: Aave Decentralized Lending and Borrowing Platform Explained
+description: Aave lets you lend and borrow cryptocurrencies with secure smart contracts
+  that manage interest and collateral automatically. Discover more inside.
 ---
 
 

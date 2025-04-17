@@ -1,7 +1,7 @@
 ---
-title: Essential Absolute Breadth Index Guide for Market Volatility
-description: Absolute Breadth Index tracks market strength by comparing advancing
-  and declining stocks to flag overbought or oversold conditions. Discover more inside
+title: Understanding the Absolute Breadth Index for Market Analysis
+description: Absolute Breadth Index helps investors gauge market sentiment and identify
+  potential overbought or oversold conditions efficiently Discover more inside
 ---
 
 

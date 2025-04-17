@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide to Accrued Interest Accounting
-description: Accrued interest ensures financial reports show true income and liabilities.
-  Guide covers calculations journal entries reporting Discover more inside
+title: Recording and Reporting Accrued Interest in Financial Statements
+description: Accrued interest accounting helps your statements reflect earned interest
+  income and owed expenses accurately by period end Discover more inside.
 ---
 
 

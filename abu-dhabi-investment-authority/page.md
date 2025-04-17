@@ -1,7 +1,7 @@
 ---
-title: The Ultimate Guide to the Abu Dhabi Investment Authority ADIA
-description: Abu Dhabi Investment Authority transforms oil revenue into a diversified
-  global portfolio that fuels economic stability and growth Discover more inside
+title: Abu Dhabi Investment Authority Global Portfolio Strategy
+description: Abu Dhabi Investment Authority grows oil revenues with global stocks
+  bonds real estate and infrastructure for stable growth Discover more inside.
 ---
 
 

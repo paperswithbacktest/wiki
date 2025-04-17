@@ -1,7 +1,7 @@
 ---
-title: Essential Insights Into the 1979 Energy Crisis Impact
-description: 1979 Energy Crisis reshaped global energy use by exposing oil dependency
-  and sparking shifts to renewables and efficiency. Discover more inside.
+title: Impact and Policy Changes Following the 1979 Energy Crisis
+description: 1979 Energy Crisis highlighted the risks of oil reliance and drove global
+  shifts toward renewable energy efficiency and policy reforms Discover more inside
 ---
 
 ![Image](images/1.jpeg)

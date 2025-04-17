@@ -1,7 +1,7 @@
 ---
-title: Essential Accounting Theory Guide to Financial Reporting
-description: Accounting theory shapes financial reporting by setting principles that
-  improve accuracy and comparability of statements. Discover more inside.
+title: Accounting Theory Fundamentals for Reliable Financial Reporting
+description: Accounting Theory ensures financial reports are reliable consistent and
+  comparable by defining relevance materiality and conservatism Discover more inside
 ---
 
 

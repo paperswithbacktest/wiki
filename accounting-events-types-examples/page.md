@@ -1,7 +1,7 @@
 ---
-title: Essential Accounting Events Guide for Accurate Reporting
-description: Accounting events ensure accurate reporting by tracking purchases, payroll,
-  depreciation, internal and external transactions Discover more inside.
+title: 'Accounting Events Explained: Types Examples And Management'
+description: Accounting events capture internal and external financial changes to
+  ensure accurate records with double entry accounting Discover more inside.
 ---
 
 

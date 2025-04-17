@@ -1,7 +1,7 @@
 ---
-title: Essential Guide for Individual Investors to Outperform the Market
-description: Individual investors gain proven insights on outperforming the market
-  with disciplined strategies low fees and data driven tools Discover more inside
+title: Individual Investor Strategies to Outperform Market Benchmarks
+description: Individual investors benchmark performance against the S&P 500 and apply
+  disciplined strategies to outperform the market over time Discover more inside.
 ---
 
 

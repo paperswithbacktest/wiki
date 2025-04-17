@@ -1,7 +1,7 @@
 ---
-title: Essential Insights into the 1973 Oil Crisis and Energy Shifts
-description: 1973 Oil Crisis triggered a global energy shift, spurring renewables
-  and nuclear adoption and reshaping policy and security. Discover more inside.
+title: 1973 Oil Crisis and Its Lasting Effects on Global Energy Markets
+description: 1973 Oil Crisis revealed global energy risks and spurred shifts to diverse
+  power sources boosting security and efficiency. Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

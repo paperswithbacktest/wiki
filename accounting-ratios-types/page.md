@@ -1,7 +1,7 @@
 ---
-title: Essential Accounting Ratios for Financial Analysis and Insight
-description: Accounting Ratios turn financial statements into actionable metrics on
-  profitability, liquidity and solvency for smarter analysis Discover more inside
+title: Comprehensive Accounting Ratios Guide for Financial Analysis
+description: Accounting ratios simplify complex financial statements into clear metrics
+  for profitability, liquidity and solvency analysis Discover more inside
 ---
 
 

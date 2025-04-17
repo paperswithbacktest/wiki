@@ -1,7 +1,7 @@
 ---
-title: Essential Accounting Conventions for Reliable Financial Reporting
-description: Accounting conventions ensure consistent clear financial statements,
-  helping you compare and trust company reports in any market. Discover more inside.
+title: Understanding Accounting Conventions for Financial Reporting
+description: Accounting conventions ensure consistent financial reports with principles
+  like consistency conservatism and full disclosure Discover more inside
 ---
 
 

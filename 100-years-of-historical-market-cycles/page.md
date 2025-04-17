@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Historical Market Cycles and Trends
-description: Historical market cycles reveal recurring patterns of growth and decline
-  that help investors better time markets and manage risk Discover more inside
+title: Understanding 100 Years of Historical Market Cycles and Trends
+description: Historical market cycles reveal century-long patterns of booms and busts
+  to guide investors in timing and risk management Discover more inside.
 ---
 
 ![Image](images/1.png)

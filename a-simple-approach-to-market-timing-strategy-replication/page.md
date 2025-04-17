@@ -1,7 +1,7 @@
 ---
-title: Insider Guide To Proven Market-Timing Strategy Replication
-description: Market-timing strategy replication uses historical patterns and indicators
-  to refine buy and sell signals with probability weights Discover more inside.
+title: Replicating Market Timing Strategies With Portfolio Algorithms
+description: Market timing strategy replication applies seasonality and probability
+  weights to refine portfolios and capture timing signals Discover more inside
 ---
 
 

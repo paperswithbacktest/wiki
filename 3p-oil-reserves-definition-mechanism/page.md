@@ -1,7 +1,8 @@
 ---
-title: Essential Insights into 3P Oil Reserves for Energy Investors
-description: 3P Oil Reserves provide a clear framework for proved probable and possible
-  volumes so companies optimize planning and investment Discover more inside
+title: Understanding 3P Oil Reserves Proven Probable Possible Classifications
+description: 3P Oil Reserves explain how Proven Probable and Possible categories reveal
+  a fuller picture of extractable oil volumes and guide investment decisions Discover
+  more inside
 ---
 
 ![Image](images/image.png)

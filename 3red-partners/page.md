@@ -1,7 +1,7 @@
 ---
-title: Proven Business Efficiency Strategies by 3Red Partners
-description: 3Red Partners boosts efficiency and profitability with tailored tech
-  strategy and management solutions for lasting growth Discover more inside
+title: 3Red Partners Consulting Solutions for Efficient Business Growth
+description: 3Red Partners boosts business efficiency and profitability with custom
+  tech strategy solutions resulting in measurable gains Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Free Professional Financial Advice
-description: Free professional financial advice shows you how to manage savings debt
-  and investments using credible online tools and resources Discover more inside.
+title: Free Professional Financial Advice Guide for All Income Levels
+description: Free financial advice helps you access credible guidance on budgeting
+  debt management and investing across income levels Discover more inside
 ---
 
 

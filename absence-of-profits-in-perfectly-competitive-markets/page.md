@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Perfectly Competitive Markets and Equilibrium
-description: Perfectly competitive market explained how firms set output where price
-  equals marginal cost and earn zero economic profit Discover more inside.
+title: Output and Price Determination in Perfectly Competitive Markets
+description: Perfectly Competitive Market dynamics show how price equals marginal
+  cost and output adjusts to zero economic profit in the long run Discover more inside
 ---
 
 

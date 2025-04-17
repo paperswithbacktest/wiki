@@ -1,7 +1,7 @@
 ---
-title: Essential Insights Into Acadian Asset Management Strategies
-description: Acadian Asset Management uses quantitative investing and data analytics
-  to deliver smart investment strategies and manage risk. Discover more inside.
+title: Acadian Asset Management Quantitative Approach and Global Growth
+description: Acadian Asset Management uses advanced quantitative analysis and global
+  insights to optimize your investments and manage risk. Discover more inside.
 ---
 
 

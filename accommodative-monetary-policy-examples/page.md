@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Accommodative Monetary Policy Tools
-description: Accommodative monetary policy outlines how central banks lower rates
-  and use quantitative easing to spur spending and job growth Discover more inside.
+title: Accommodative Monetary Policy Tools Risks and Market Effects
+description: Accommodative monetary policy uses lower interest rates and quantitative
+  easing to drive investment job growth and economic resilience Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Accounting Policies Guide for Consistent Reporting
-description: Accounting policies set clear rules for recording sales inventory and
-  depreciation to ensure consistent reporting and compliance Discover more inside.
+title: Understanding Accounting Policies for Enhanced Financial Clarity
+description: Accounting policies shape consistent and transparent financial statements
+  so investors and managers can trust reported results. Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential AAOIFI Standards for Global Islamic Finance Compliance
-description: AAOIFI standards ensure Islamic banks follow Shariah compliant accounting
-  auditing governance and ethics to build global trust Discover more inside
+title: Understanding AAOIFI Standards for Islamic Financial Institutions
+description: AAOIFI shapes Shariah standards for accounting governance and auditing
+  in Islamic finance boosting transparency and trust Discover more inside.
 ---
 
 

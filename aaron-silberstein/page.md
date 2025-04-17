@@ -1,8 +1,6 @@
 ---
-title: Essential Career Insights of Quantitative Analyst Aaron Silberstein
-description: Quantitative Analyst Aaron Silberstein shares proven strategies from
-  his academic and financial career journey driving innovation and problem solving
-  Discover more inside
+title: Aaron Silberstein Career Journey in Mathematics and Quant Trading
+description: Aaron Silberstein Career Journey in Mathematics and Quant Trading
 ---
 
 

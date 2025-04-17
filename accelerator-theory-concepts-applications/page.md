@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide to Accelerator Theory and Its Economic Impact
-description: Accelerator Theory explains how consumer demand spikes drive business
-  investment and economic cycles in active market environments. Discover more inside.
+title: 'Accelerator Theory: Understanding Investment and Economic Cycles'
+description: Accelerator Theory shows how shifts in consumer demand drive significant
+  changes in business investment and shape economic cycles Discover more inside.
 ---
 
 

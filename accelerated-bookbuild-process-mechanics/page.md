@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Accelerated Bookbuild Process
-description: Accelerated Bookbuild secures rapid capital in hours by targeting investors
-  with expert insights on key steps and risks Discover more inside
+title: Understanding The Accelerated Bookbuild Process For Issuers
+description: Accelerated Bookbuild enables companies to raise funds in hours through
+  faster price discovery with institutional investors Discover more inside
 ---
 
 

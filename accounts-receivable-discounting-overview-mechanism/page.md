@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Accounts Receivable Discounting Strategies
-description: Accounts receivable discounting helps businesses speed cash flow by turning
-  invoices into funds while keeping customer relationships Discover more inside.
+title: Maximizing Cash Flow with Accounts Receivable Discounting
+description: Accounts receivable discounting accelerates cash flow by converting invoices
+  into funds quickly and keeping control of collections Discover more inside
 ---
 
 

@@ -1,7 +1,8 @@
 ---
-title: Essential Guide to the Quantitative Developer Role in Finance
-description: Quantitative developer roles require math coding and teamwork to build
-  models that inform trading strategy and manage risk Discover more inside
+title: Understanding the Role of a Quantitative Developer in Finance
+description: Quantitative developer roles blend math and coding to build trading models
+  test for speed and accuracy and collaborate effectively with traders Discover more
+  inside
 ---
 
 

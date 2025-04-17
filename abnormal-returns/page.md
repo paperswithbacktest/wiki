@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Abnormal Returns in Financial Analysis
-description: Abnormal returns show how actual investment performance compares to CAPM
-  benchmarks and event studies guide smarter trading Discover more inside
+title: Comprehensive Guide to Abnormal Returns in Financial Analysis
+description: Abnormal returns show how actual returns deviate from expectations with
+  CAPM and market benchmarks for smarter investing Discover more inside.
 ---
 
 

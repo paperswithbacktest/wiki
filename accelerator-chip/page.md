@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Machine Learning Accelerator Chips
-description: Machine learning accelerator chips boost training and inference speed
-  through parallel processing and efficient energy use Discover more inside
+title: Understanding Performance of Machine Learning Accelerator Chips
+description: Machine learning accelerator chips boost training and inference by harnessing
+  parallel processing and improving efficiency Discover more inside
 ---
 
 ![Image](images/1.webp)

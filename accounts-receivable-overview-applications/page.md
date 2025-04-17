@@ -1,7 +1,7 @@
 ---
-title: Proven Accounts Receivable Management Strategies for Cash Flow
-description: Accounts receivable management shapes cash flow and liquidity with proven
-  invoicing, collections and analytics strategies. Discover more inside.
+title: Comprehensive Guide to Accounts Receivable Management
+description: Accounts receivable management improves cash flow by setting clear payment
+  terms, accelerating collections and minimizing bad debt Discover more inside
 ---
 
 

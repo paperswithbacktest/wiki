@@ -1,8 +1,7 @@
 ---
-title: Essential Guide to Accounting Entity Types and Structures
-description: Accounting entity separation helps businesses track finances, select
-  the right structure, comply with regulations and maintain clarity Discover more
-  inside
+title: Understanding Accounting Entities and Their Key Differences
+description: Accounting entity principles help you choose the right structure by comparing
+  liabilities taxes and reporting requirements Discover more inside.
 ---
 
 

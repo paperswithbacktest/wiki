@@ -1,7 +1,7 @@
 ---
-title: The Essential Accounting Rate Of Return Guide For Businesses
-description: Accounting Rate Of Return offers a clear view of annual profit relative
-  to initial costs to guide confident business investments. Discover more inside.
+title: Understanding Accounting Rate Of Return For Investment Decisions
+description: Accounting Rate Of Return provides a metric to assess annual profit relative
+  to investment cost enabling informed decisions Discover more inside.
 ---
 
 

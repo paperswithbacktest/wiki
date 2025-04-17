@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Managing Above Full Employment Equilibrium
-description: Above full employment equilibrium occurs when labor demand outstrips
-  supply leading to wage hikes and inflation pressures. Discover more inside
+title: Understanding Above Full Employment Equilibrium in Economics
+description: Above full employment equilibrium occurs when labor demand exceeds supply
+  causing wage and price pressures prompting policy action Discover more inside
 ---
 
 

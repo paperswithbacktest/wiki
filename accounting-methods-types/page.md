@@ -1,7 +1,7 @@
 ---
-title: Proven Accounting Methods for Accurate Financial Reporting
-description: Accounting methods guide businesses to track finances from cash basis
-  to accrual and advanced systems ensuring accurate reporting Discover more inside
+title: Understanding Accounting Methods And Principles For Businesses
+description: Accounting Methods explained with clear principles and comparisons to
+  help businesses choose between cash and accrual systems Discover more inside.
 ---
 
 

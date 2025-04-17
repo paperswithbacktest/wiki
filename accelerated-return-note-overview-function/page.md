@@ -1,7 +1,8 @@
 ---
-title: Ultimate Investor Guide to Accelerated Return Notes
-description: Accelerated Return Note investments offer potential for faster earnings
-  linked to market performance while outlining risks and terms. Discover more inside.
+title: Understanding Accelerated Return Notes Benefits And Risks
+description: Accelerated Return Notes explain how these structured investments can
+  boost returns linked to market performance while highlighting risks and fees Discover
+  more inside.
 ---
 
 

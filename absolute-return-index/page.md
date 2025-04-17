@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Understanding the Absolute Return Index
-description: Absolute Return Index highlights how investors secure positive returns
-  in any market by active diversification and risk management. Discover more inside.
+title: Understanding the Absolute Return Index for Consistent Returns
+description: Absolute Return Index tracks portfolio gains against goals rather than
+  market benchmarks delivering steady returns protecting capital Discover more inside
 ---
 
 

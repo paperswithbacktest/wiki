@@ -1,7 +1,7 @@
 ---
-title: The Ultimate Guide to Absolute Return vs Relative Return
-description: Absolute return vs relative return explained clearly with real examples
-  to help investors measure performance accurately Discover more inside.
+title: Understanding Absolute Return and Relative Return in Investing
+description: Absolute return and relative return clarify investment gains versus benchmarks
+  with practical definitions scenarios and examples Discover more inside
 ---
 
 

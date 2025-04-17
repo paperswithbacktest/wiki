@@ -1,7 +1,8 @@
 ---
-title: Ultimate Guide to Developing a Winning Trader Mindset
-description: Trader mindset helps manage fear greed and build discipline for confident
-  trading in volatile markets with risk management tactics. Discover more inside.
+title: Developing a Disciplined Trader Mindset for Long-Term Success
+description: Trader mindset shapes disciplined decisions to manage fear greed and
+  risk using clear plans stop loss orders and mindfulness practices Discover more
+  inside
 ---
 
 

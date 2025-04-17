@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Accounting Currency for Global Businesses
-description: Accounting currency provides businesses a unified system to track, compare
-  and report finances across borders with clarity. Discover more inside.
+title: Understanding Accounting Currency And Its Business Impact
+description: Accounting currency provides a unified way to track earnings costs and
+  manage exchange risks in global financial reports Discover more inside
 ---
 
 

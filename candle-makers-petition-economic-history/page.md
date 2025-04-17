@@ -1,6 +1,7 @@
 ---
-title: "Candle Makers Petition and Its Economic History"
-description: "Discover how Frédéric Bastiat's satirical "Candle Maker's Petition" critiques protectionism and its relevance to modern market theories like algorithmic trading."
+title: Candle Makers' Petition Exposes the Folly of Protectionism
+description: Candle Makers' Petition uses satire to reveal how limiting competition
+  harms the economy and highlights opportunity cost Discover more inside.
 ---
 
 

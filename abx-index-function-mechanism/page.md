@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the ABX Index for Subprime Market Insights
-description: ABX Index tracks subprime mortgage CDS performance to reveal market risk
-  levels and trends for informed investment decisions Discover more inside
+title: ABX Index Explained for Subprime Mortgage Investors
+description: ABX Index tracks subprime mortgage credit default swaps to reveal market
+  risk and guide investor decisions with risk level insights Discover more inside
 ---
 
 

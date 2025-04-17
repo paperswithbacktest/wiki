@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to a 100% Equities Investment Strategy
-description: 100% equities investment strategy delivers high long term returns by
-  staying fully in stocks with index funds to curb volatility Discover more inside
+title: Understanding a 100% Equities Investment Strategy for Growth
+description: 100% equities investment strategy harnesses stock market returns to build
+  long term wealth while managing volatility with index funds Discover more inside
 ---
 
 ![Image](images/1.jpeg)

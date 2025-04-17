@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Absolute Priority Rule in Bankruptcy
-description: Absolute Priority Rule clarifies payment hierarchy in Chapter 11 bankruptcies,
-  explores key exceptions and reforms for fair outcomes. Discover more inside.
+title: Understanding the Absolute Priority Rule in Bankruptcy
+description: Absolute Priority Rule sets the payment order in bankruptcy ensuring
+  secured creditors before unsecured creditors and shareholders Discover more inside
 ---
 
 

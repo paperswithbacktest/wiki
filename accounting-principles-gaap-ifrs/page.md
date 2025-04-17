@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to GAAP and IFRS Accounting Principles
-description: Accounting Principles guide you through GAAP and IFRS norms to ensure
-  accurate and consistent financial reporting across borders Discover more inside.
+title: Key Differences Between GAAP And IFRS Accounting Principles
+description: GAAP and IFRS accounting principles guide financial reporting and show
+  differences in revenue recognition and asset valuation Discover more inside
 ---
 
 

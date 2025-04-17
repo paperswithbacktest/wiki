@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the 2% Rule for Investment Risk Management
-description: 2% Rule guides investors to risk only 2 percent per trade while preserving
-  capital and promoting disciplined portfolio growth Discover more inside.
+title: Mastering the 2% Rule for Disciplined Investment Management
+description: 2% Rule helps investors risk only a small share of capital per trade
+  to protect portfolios from losses while growing equity steadily Discover more inside
 ---
 
 ![Image](images/1.png)

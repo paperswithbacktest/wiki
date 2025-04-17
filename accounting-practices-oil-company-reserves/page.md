@@ -1,7 +1,8 @@
 ---
-title: Essential Guide to Oil Reserves Accounting Principles
-description: Oil reserves accounting explains how companies measure develop and report
-  volumes using classifications and tech to plan finances Discover more inside.
+title: Accounting and Valuation of Oil Company Reserves Explained
+description: Oil company reserves accounting outlines proven probable and possible
+  classifications plus cost matching and conservatism principles in clear active voice
+  Discover more inside
 ---
 
 

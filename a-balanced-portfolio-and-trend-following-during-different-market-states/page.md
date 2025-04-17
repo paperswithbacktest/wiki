@@ -1,7 +1,8 @@
 ---
-title: Essential Balanced Portfolio and Trend-Following Strategies
-description: Balanced portfolio adapts allocations across bull bear and sideways markets
-  using trend following to optimize risk adjusted returns Discover more inside
+title: "Balanced Portfolios and Trend\u2011Following Across Market States"
+description: "Balanced portfolio adapts asset allocation and trend\u2011following\
+  \ to bull bear and sideways market cycles inflation and rate shifts Discover more\
+  \ inside"
 ---
 
 

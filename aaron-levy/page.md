@@ -1,7 +1,7 @@
 ---
-title: Insider Guide to Aaron Levy's Transition to Quantitative Finance
-description: Aaron Levy applies his physics and applied math expertise to develop
-  quantitative finance models at Goldman Sachs and A Priori Discover more inside.
+title: Aaron Levy Theoretical Physicist Turned Quantitative Analyst
+description: Aaron Levy applies his physics and math expertise to develop quantitative
+  finance models that optimize investment strategies Discover more inside
 ---
 
 

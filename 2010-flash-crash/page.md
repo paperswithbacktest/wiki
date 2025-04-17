@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To The 2010 Flash Crash And Market Reforms
-description: 2010 Flash Crash exposed high-frequency trading risks and prompted circuit
-  breakers and limit up-limit down rules to stabilize markets Discover more inside
+title: 2010 Flash Crash Impact and High Frequency Trading Reforms
+description: 2010 Flash Crash revealed risks of high frequency trading and spurred
+  regulators to add circuit breakers and limit up limit down rules Discover more inside.
 ---
 
 ![Image](images/1.png)

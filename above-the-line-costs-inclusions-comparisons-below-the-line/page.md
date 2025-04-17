@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Above-the-Line Costs in Film Production
-description: Above-the-line costs shape your film production budget by securing directors
-  writers and top actors early ensuring a strong foundation Discover more inside
+title: Understanding Above-the-Line Costs In Production Budgets
+description: Above-the-line costs shape production budgets by funding key creative
+  roles and rights ensuring strong project vision and cost control Discover more inside
 ---
 
 

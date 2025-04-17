@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Absolute and Relative Return Metrics
-description: Absolute return and relative return explained with practical examples
-  and calculations to help investors measure performance to decide Discover more inside
+title: Absolute vs Relative Return Explained for Informed Investors
+description: Absolute and relative return metrics help investors track real gains
+  and compare performance to benchmarks with clarity and action. Discover more inside.
 ---
 
 

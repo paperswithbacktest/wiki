@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to 0x Protocol for Decentralized Token Trading
-description: 0x Protocol provides a decentralized exchange framework on Ethereum for
-  peer to peer ERC-20 token swaps with governance features Discover more inside.
+title: Understanding 0x Protocol For Decentralized Ethereum Token Trading
+description: 0x Protocol offers a decentralized framework for peer to peer ERC-20
+  token trading with low gas fees and secure on chain settlement Discover more inside
 ---
 
 ![Image](images/image.png)

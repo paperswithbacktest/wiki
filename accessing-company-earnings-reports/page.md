@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Company Earnings Reports and Key Metrics
-description: Company earnings reports reveal financial health and key metrics so investors
-  can make smarter decisions based on real data. Discover more inside.
+title: Understanding Company Earnings Reports For Informed Investors
+description: Earnings reports show metrics like revenue profit and cash flow so investors
+  can assess company health and make informed decisions Discover more inside.
 ---
 
 

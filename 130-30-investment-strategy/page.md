@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Proven 130-30 Investment Strategy
-description: 130-30 investment strategy combines long and short positions to boost
-  risk adjusted returns and optimize portfolio performance. Discover more inside.
+title: Mastering the 130-30 Investment Strategy for Enhanced Returns
+description: 130-30 investment strategy combines long positions and strategic short
+  selling to boost risk adjusted returns and efficiency Discover more inside.
 ---
 
 ![Image](images/1.png)

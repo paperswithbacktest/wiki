@@ -1,7 +1,7 @@
 ---
-title: Essential ABX Index Guide for Asset-Backed Securities Investors
-description: ABX Index offers a transparent view into asset-backed securities performance
-  post-2008 crisis to guide smarter investment decisions Discover more inside.
+title: Understanding the ABX Index After the 2008 Financial Crisis
+description: ABX Index offers investors clear insights into asset-backed security
+  trends and market health via monthly risk tranche updates. Discover more inside.
 ---
 
 

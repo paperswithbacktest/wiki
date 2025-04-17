@@ -1,7 +1,7 @@
 ---
-title: Insider Guide to Navigating the 2000 Investor Limit
-description: 2000 Investor Limit requires private companies to share financial details
-  and manage investor counts with exemptions like crowdfunding Discover more inside
+title: Navigating the 2000 Investor Limit and SEC Reporting Requirements
+description: 2000 Investor Limit guides private firms on SEC registration exemptions
+  recordkeeping and strategies to manage investor counts Discover more inside.
 ---
 
 ![Image](images/1.jpeg)
