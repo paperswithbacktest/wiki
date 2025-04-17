@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Foreign Portfolio Investment Strategies
-description: Foreign portfolio investment helps investors diversify and mitigate market
-  and currency risks with hedging and international assets Discover more inside
+title: Guide to Foreign Portfolio Investment Benefits Risks Strategies
+description: Foreign portfolio investment provides insights on diversifying assets
+  across markets managing currency and geopolitical risks. Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide To Alternative Trading Systems And Benefits
-description: Alternative trading systems deliver private flexible platforms for large
-  orders with lower fees and minimal market impact. Discover more inside.
+title: Understanding Alternative Trading Systems Benefits and Risks
+description: Explore Alternative Trading Systems, SEC regulated private trading venues
+  offering flexible lower-cost execution and outlining risks Discover more inside
 ---
 
 

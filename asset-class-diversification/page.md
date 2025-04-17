@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Asset Class Diversification for Investors
+title: Asset Class Diversification Strategies for Stable Investing
 description: Asset class diversification spreads investments across stocks bonds real
-  estate and more to balance risk and enhance stability Discover more inside.
+  estate and alternatives to balance risk and safeguard returns Discover more inside.
 ---
 
 

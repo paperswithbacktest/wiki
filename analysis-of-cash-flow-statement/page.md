@@ -1,7 +1,7 @@
 ---
-title: Essential Cash Flow Statement Guide for Financial Analysis
-description: Cash Flow Statement reveals how cash moves through business operations
-  investing and financing activities for better decisions Discover more inside.
+title: Understanding Cash Flow Statements for Financial Analysis
+description: Cash flow statements break down operating investing and financing activities
+  so you can evaluate liquidity and inform decisions Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Insider Insights on AlphaMetrix Hedge Fund Investment Platform
-description: AlphaMetrix simplified hedge fund investing by handling paperwork so
-  investors stay informed and confident in their choices Discover more inside
+title: AlphaMetrix Platform Evolution Bankruptcy And Industry Impact
+description: AlphaMetrix simplified hedge fund investing with automated paperwork
+  management and secure reporting to keep investors informed Discover more inside
 ---
 
 

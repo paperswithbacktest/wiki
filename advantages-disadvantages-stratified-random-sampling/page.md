@@ -1,7 +1,7 @@
 ---
-title: Ultimate Professional Guide To Stratified Random Sampling
-description: Stratified random sampling divides populations into strata and picks
-  random participants for accurate subgroup insights. Discover more inside.
+title: Understanding Stratified Random Sampling for Accurate Research
+description: Stratified random sampling ensures your study sample reflects the population
+  by dividing into key subgroups and selecting participants Discover more inside
 ---
 
 

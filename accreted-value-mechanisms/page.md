@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Accreted Value in Bond Investments
-description: Accreted value helps investors measure bond growth over time using interest
-  accrual and maturity timelines with clear calculations Discover more inside.
+title: Understanding Accreted Value for Zero Coupon Bond Investments
+description: Accreted value explains how zero coupon and other bonds grow over time
+  and highlights tax implications and timing strategies Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential SAP Accrual Accounting for Accurate Financial Insights
-description: SAP accrual accounting shows accurate revenues and expenses by recording
-  transactions when they occur while automating entries in SAP Discover more inside.
+title: Implementing Accrual Accounting in SAP for Accurate Financials
+description: Accrual accounting in SAP provides financial insights by recording revenues
+  and costs as they occur and streamlines period-end closing Discover more inside
 ---
 
 

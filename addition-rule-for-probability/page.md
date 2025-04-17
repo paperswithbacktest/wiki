@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to the Addition Rule of Probability
-description: Addition Rule of Probability shows how to find the chance of one or more
-  events by adding probabilities minus overlaps Discover more inside
+title: Understanding the Addition Rule of Probability in Statistics
+description: Addition Rule of Probability shows how to calculate the chance of one
+  or more events accurately by adding and subtracting overlaps Discover more inside.
 ---
 
 

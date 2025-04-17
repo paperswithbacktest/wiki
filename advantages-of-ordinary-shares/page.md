@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Ordinary Shares for Professional Investors
-description: Ordinary shares offer investors voting power dividends and capital gains
-  while balancing risks with rewards in your portfolio Discover more inside
+title: Ordinary Shares Explained With Key Benefits and Risks
+description: Ordinary shares give investors voting rights limited liability and income
+  potential through dividends and capital gains Discover more inside
 ---
 
 

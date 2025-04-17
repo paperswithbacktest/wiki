@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Asset Classes for Diversified Portfolios
-description: Asset classes empower you to diversify across stocks bonds real estate
-  commodities and alternatives while managing risk effectively Discover more inside.
+title: Understanding Asset Classes and Diversification to Boost Returns
+description: Asset classes shape your portfolio risk and return by blending stocks
+  bonds real estate and commodities for optimal growth Discover more inside.
 ---
 
 

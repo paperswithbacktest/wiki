@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Antedate Origins, Usage and Legal Implications
-description: Antedate clarifies how to date documents correctly across legal, business
-  and historical fields avoiding trust issues and legal risks Discover more inside.
+title: Antedate Meaning Usage Origins And Legal Implications
+description: Antedate explained with definitions, examples, origins and legal context
+  See how antedating influences document integrity Discover more inside
 ---
 
 

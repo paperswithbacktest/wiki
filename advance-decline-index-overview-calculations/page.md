@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Advance/Decline Index for Investors
-description: Advance/Decline Index delivers a clear snapshot of market breadth so
-  you can gauge overall trend strength before trading stocks Discover more inside.
+title: Understanding the Advance/Decline Index for Market Analysis
+description: Advance/Decline Index tracks daily stock advances versus declines to
+  show overall market health and support smart investment choices Discover more inside
 ---
 
 

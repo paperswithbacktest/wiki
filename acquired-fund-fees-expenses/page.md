@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Acquired Fund Fees and Expenses
-description: Acquired Fund Fees and Expenses add hidden costs that erode returns over
-  time We show how to compare funds and retain more gains Discover more inside
+title: Understanding Acquired Fund Fees and Expenses Impact
+description: Acquired Fund Fees and Expenses explain the indirect costs of investing
+  in funds that hold other funds and their effect on returns Discover more inside
 ---
 
 

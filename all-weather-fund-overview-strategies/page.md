@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to All Weather Funds for Steady Returns
-description: All Weather Fund strategies balance stocks bonds and commodities to deliver
-  steady returns and reduce portfolio volatility Discover more inside.
+title: All Weather Fund Strategy for Steady Diversified Portfolio Growth
+description: All Weather Fund strategies allocate stocks bonds and commodities to
+  manage risk and deliver steady returns in any market environment Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Alternative Data for Competitive Advantage
-description: Alternative data unlocks real-time market insights from social media
-  sentiment to satellite imagery for smarter investment strategies Discover more inside.
+title: Alternative Data Insights for Smarter Financial Decisions
+description: Alternative data provides real-time insights from social media and satellite
+  sources to inform smarter investment strategies Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Insider Guide to the American Recovery and Reinvestment Act
-description: American Recovery and Reinvestment Act highlights funding that boosted
-  jobs and sustainable infrastructure ensuring transparency Discover more inside
+title: Economic Outcomes of the American Recovery and Reinvestment Act
+description: American Recovery and Reinvestment Act jumpstarted jobs infrastructure
+  and clean energy for economic recovery with open spending Discover more inside
 ---
 
 

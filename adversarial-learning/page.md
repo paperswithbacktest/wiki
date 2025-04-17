@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Adversarial Learning Concepts and Applications
-description: Adversarial learning trains two competing models to generate realistic
-  data improve performance and security across applications Discover more inside
+title: Adversarial Learning Explained for Generative AI Systems
+description: Adversarial learning uses competing AI models to boost data realism and
+  security with a generator and discriminator framework Discover more inside.
 ---
 
 

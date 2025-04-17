@@ -1,7 +1,7 @@
 ---
-title: Proven Guide to Thematic ETF Investing for Long Term Growth
-description: Thematic ETFs simplify trend investing by diversifying across leading
-  companies in AI clean energy and healthcare while managing risk Discover more inside.
+title: Navigating Thematic ETFs for Strategic Trend Investing
+description: "Thematic ETFs let you invest in growth trends with built\u2011in diversification\
+  \ and risk control while gaining industry insight Discover more inside"
 ---
 
 

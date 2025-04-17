@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Agent-Based Modeling And Its Applications
-description: Agent-based modeling shows how simple agent rules drive complex behaviors
-  in traffic, economics, and social systems with real data Discover more inside.
+title: Understanding Agent-Based Modeling for Complex System Analysis
+description: Agent-based modeling reveals how individual agent interactions generate
+  complex patterns in systems from traffic to economics Discover more inside.
 ---
 
 

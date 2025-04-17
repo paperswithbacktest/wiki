@@ -1,7 +1,7 @@
 ---
-title: Essential Simple Random Sampling For Population Studies
-description: Simple random sampling ensures equal selection probability to deliver
-  reliable insights for large populations while reducing cost Discover more inside
+title: Simple Random Sampling Explained for Population Studies
+description: Simple random sampling ensures equal representation of a population through
+  random selection saving time and cost Discover more inside
 ---
 
 

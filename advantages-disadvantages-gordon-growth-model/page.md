@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Gordon Growth Model for Valuation
-description: Gordon Growth Model offers a clear formula to value dividend stocks using
-  expected payouts growth versus discount rates Discover more inside.
+title: Gordon Growth Model Explained for Reliable Stock Valuation
+description: Gordon Growth Model provides a simple formula to calculate stock intrinsic
+  value using expected dividends and growth rates Discover more inside
 ---
 
 

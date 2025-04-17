@@ -1,7 +1,7 @@
 ---
-title: Essential Insights into Analyst Expectations Impacting Stocks
-description: Analyst expectations shape investor strategies by showing how expert
-  forecasts influence stock prices and decision making Discover more inside.
+title: Analyst Expectations Explained How They Guide Investor Decisions
+description: Analyst expectations give investors insight into future company performance
+  using key metrics to guide buy hold or sell decisions Discover more inside
 ---
 
 

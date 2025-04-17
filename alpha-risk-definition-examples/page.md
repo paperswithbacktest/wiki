@@ -1,7 +1,8 @@
 ---
-title: 'Mastering Alpha Risk: Proven Strategies for Minimizing Errors'
-description: Alpha Risk influences decision accuracy in research and finance by highlighting
-  false positives and guiding risk mitigation strategies Discover more inside.
+title: Understanding Alpha Risk Type I Error in Research and Finance
+description: Alpha risk or Type I error can skew research and investment outcomes
+  with false positives Take steps to measure and mitigate this risk Discover more
+  inside
 ---
 
 

@@ -1,8 +1,7 @@
 ---
-title: Ultimate Guide to Accumulative Swing Index Technical Analysis
-description: Accumulative Swing Index reveals trend strength by aggregating price
-  swings using open high low close data for smarter trading decisions Discover more
-  inside.
+title: Understanding the Accumulative Swing Index Technical Indicator
+description: Accumulative Swing Index gives traders a cumulative gauge of price movement
+  strength to spot trends and reversals in active markets Discover more inside
 ---
 
 

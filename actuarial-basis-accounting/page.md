@@ -1,7 +1,7 @@
 ---
-title: Essential Actuarial Basis Principles for Accounting Professionals
-description: Actuarial basis in accounting enables forecasting liabilities with statistical
-  models and assumptions for sound financial planning Discover more inside
+title: Actuarial Basis in Accounting for Pensions and Liabilities
+description: Actuarial basis in accounting uses statistical models to estimate pension
+  and insurance liabilities ensuring solid financial planning Discover more inside
 ---
 
 

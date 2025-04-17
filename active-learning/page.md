@@ -1,7 +1,8 @@
 ---
-title: Essential Active Learning Strategies for Machine Learning
-description: Active Learning empowers models to pick the most informative data for
-  faster accurate training while cutting labeling time and cost. Discover more inside.
+title: Effective Active Learning Strategies for Efficient Machine Learning
+description: Active Learning empowers models to selectively query the most confusing
+  data points for faster accurate results and reduced labeling costs Discover more
+  inside
 ---
 
 

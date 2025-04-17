@@ -1,7 +1,7 @@
 ---
-title: Ultimate Systematic Crypto Trading Strategies and Insights
-description: Systematic crypto trading uses data-driven automation to remove emotion
-  and improve consistency Discover proven strategies and risk management
+title: Systematic Crypto Trading Strategies for Consistent Growth
+description: Systematic crypto trading uses data-driven rules and algorithms to remove
+  emotion and deliver consistent results in markets Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Ultimate Arms Index TRIN Guide to Decoding Market Sentiment
-description: Arms Index gauges market sentiment by comparing advancing and declining
-  stock volumes to highlight bullish or bearish signals Discover more inside
+title: Understanding the Arms Index TRIN for Market Sentiment Analysis
+description: Arms Index reveals market sentiment by comparing advancing and declining
+  stocks with volume to identify overbought or oversold signals Discover more inside
 ---
 
 

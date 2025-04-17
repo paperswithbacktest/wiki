@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Annual General Meetings for Shareholders
-description: Annual General Meeting transparency and shareholder participation explained
-  in steps ensuring accountability and informed voting Discover more inside.
+title: Understanding Annual General Meetings for Shareholder Engagement
+description: Annual General Meeting gives shareholders insight into company performance
+  voting rights and transparency measures for engagement Discover more inside
 ---
 
 

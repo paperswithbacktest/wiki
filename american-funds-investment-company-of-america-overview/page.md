@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to American Funds Investment Company of America
-description: American Funds Investment Company of America offers long term growth
-  with proven risk management and flexible investment options Discover more inside
+title: American Funds Investment Company of America Mutual Fund Guide
+description: American Funds Investment Company of America offers diversified US and
+  global stock investments for long-term growth with transparent fees Discover more
 ---
 
 

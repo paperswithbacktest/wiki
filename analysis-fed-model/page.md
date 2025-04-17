@@ -1,7 +1,7 @@
 ---
-title: Insider Guide To The Fed Model Stock Vs Bond Valuation
-description: Fed Model compares stock market earnings yield with bond yields to identify
-  undervalued opportunities and guide investment decisions Discover more inside
+title: Understanding the Fed Model Comparing Stock Earnings to Bond Yields
+description: Fed Model compares stock earnings yield with long-term government bond
+  yields to assess investment value and guide portfolio decisions. Discover more inside.
 ---
 
 

@@ -1,8 +1,7 @@
 ---
-title: Essential Guide to Asset Retirement Obligations Accounting
-description: Asset Retirement Obligations explain how firms estimate and report future
-  cleanup costs in financial statements for accurate liability tracking Discover more
-  inside.
+title: Asset Retirement Obligations and Accounting Under IFRS and GAAP
+description: Asset Retirement Obligation accounting helps companies accurately allocate
+  and report cleanup costs under IFRS and GAAP standards Discover more inside.
 ---
 
 

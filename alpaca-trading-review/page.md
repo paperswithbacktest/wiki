@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Alpaca Trading Platform Features and API
-description: Alpaca Trading offers commission-free stock and ETF trading with powerful
-  API tools for automated strategies plus robust security Discover more inside
+title: Alpaca Trading Platform Commission-Free Stocks And API Access
+description: Alpaca Trading offers commission-free stock and ETF trading with API
+  tools data-driven automation and strong security measures Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Insider Look at American Petroleum Institute Standards and Impact
-description: American Petroleum Institute sets safety standards policy and research
-  support to help oil and gas companies ensure compliance Discover more inside.
+title: 'American Petroleum Institute: Standards and Industry Leadership'
+description: American Petroleum Institute sets oil and gas standards through research
+  and policy advocacy shaping industry practices Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Adjusting Conversion Terms For Securities
-description: Conversion Terms in convertible securities define how bonds or preferred
-  shares turn into stock and ensure fair adjustments Discover more inside.
+title: Adjusting Conversion Terms of Convertible Securities
+description: Conversion terms ensure fairness and value in convertible securities
+  by outlining adjustment processes and legal considerations Discover more inside
 ---
 
 

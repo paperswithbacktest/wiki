@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Asset Financing for Business Growth
-description: Asset financing lets businesses acquire equipment without large upfront
-  costs while preserving cash flow and fueling growth Discover more inside.
+title: Asset Financing Essentials for Business Growth and Cash Flow
+description: Asset financing lets businesses acquire equipment and vehicles without
+  upfront costs preserving cash flow and supporting growth. Discover more inside.
 ---
 
 

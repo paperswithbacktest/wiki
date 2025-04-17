@@ -1,7 +1,7 @@
 ---
-title: Essential Arbitrage Trading Strategies for Modern Markets
-description: Arbitrage trading enables traders to exploit market price discrepancies
-  across assets using advanced tools and techniques Discover more inside
+title: Guide to Arbitrage Trading Strategies in Global Markets
+description: Arbitrage trading leverages price gaps across currency equity and crypto
+  markets to deliver risk free profit opportunities Discover more inside.
 ---
 
 

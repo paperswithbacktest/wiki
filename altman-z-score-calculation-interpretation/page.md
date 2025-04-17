@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide To Altman Z-Score For Predicting Bankruptcy Risk
-description: Altman Z-Score predicts bankruptcy risk using five key financial ratios
-  to reveal company stability and offer actionable insights Discover more inside
+title: Understanding Altman Z-Score for Corporate Bankruptcy Prediction
+description: Altman Z-Score assesses company stability with five key ratios to predict
+  bankruptcy risk and inform investment decisions. Discover more inside.
 ---
 
 

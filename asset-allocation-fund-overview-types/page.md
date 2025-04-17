@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Asset Allocation Funds for Investors
-description: Asset allocation funds invest in stocks bonds and cash to balance risk
-  and returns and match your goals with professional guidance Discover more inside
+title: Understanding Asset Allocation Funds for Diversified Portfolios
+description: Asset allocation funds help balance risk and reward with expert diversification
+  and automatic rebalancing to fit your investment goals Discover more inside
 ---
 
 

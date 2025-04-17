@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide to Target-Date Funds for Retirement Success
-description: Target-date funds simplify retirement investing by automatically shifting
-  assets to become more conservative over time with low fees Discover more inside.
+title: "Understanding Target\u2011Date Funds for Automated Retirement Investing"
+description: "Target\u2011date funds adjust your investments over time to balance\
+  \ growth and safety for retirement planning Discover more inside"
 ---
 
 

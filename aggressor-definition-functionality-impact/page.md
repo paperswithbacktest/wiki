@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide to Understanding Aggressor Behavior
-description: Aggressor behavior impacts conflicts and communities. Explore motives,
-  implications and strategies to manage aggression. Discover more inside.
+title: Aggressor Behavior Explained From Conflict to Trading
+description: Explore aggressor behavior from personal conflicts to algorithmic trading
+  with definitions motivations and strategies for management Discover more inside
 ---
 
 

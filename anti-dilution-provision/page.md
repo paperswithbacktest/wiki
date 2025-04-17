@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Anti-Dilution Provisions for Investors
-description: Anti-dilution provisions protect investor stakes by adjusting share counts
-  when new shares issue below original prices securing ownership Discover more
+title: Understanding Anti-Dilution Provisions for Startup Investors
+description: Anti-Dilution Provisions protect investor equity by adjusting prices
+  when new shares sell at lower cost keeping ownership stable Discover more inside
 ---
 
 

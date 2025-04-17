@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Apple Business Segments Profitability
-description: Apple business segments reveal how product innovations across devices
-  and expanding services drive revenue growth and profitability Discover more inside
+title: Analyzing Profitability Across Apple Business Segments
+description: Apple business segments analysis reveals how products like iPhone and
+  services drive revenue growth and boost profitability. Discover more inside.
 ---
 
 

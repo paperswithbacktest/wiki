@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Google Financial Statement Analysis
-description: Google financial statement analysis reveals key ratios trends and cash
-  flow insights that inform investment decisions Discover more inside today.
+title: Comprehensive Analysis of Google Financial Statements
+description: Google financial statements reveal assets liabilities cash flows and
+  key profitability insights for informed investments Discover more inside
 ---
 
 

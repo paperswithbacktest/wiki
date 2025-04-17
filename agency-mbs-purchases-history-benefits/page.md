@@ -1,7 +1,7 @@
 ---
-title: Essential Agency Mortgage-Backed Securities Guide for Investors
-description: Agency Mortgage-Backed Securities deliver government-backed stability
-  and income from bundled home loans while fueling housing market Discover more inside.
+title: Agency Mortgage-Backed Securities Key Benefits and Risks
+description: Agency Mortgage-Backed Securities offer steady income backed by GSEs
+  and reduce investment risk and boost housing market liquidity Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Revised EU SFDR Article 9 Requirements
-description: EU SFDR Article 9 revisions ensure transparent sustainable investment
-  disclosures and compliance guidance for financial firms Discover more inside
+title: Understanding Article 9 Sustainable Finance Disclosure Rules
+description: Article 9 of the EU Sustainable Finance Disclosure Regulation ensures
+  ESG transparency and impact reporting to inform investors Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Ultimate CAPM Guide to Valuing Apple Stock Effectively
-description: CAPM helps you calculate a precise Apple stock expected return using
-  risk-free rates and market risk premium for fair valuation Discover more inside.
+title: Capital Asset Pricing Model CAPM Explained With Apple Valuation
+description: CAPM shows how to calculate expected returns for Apple stock using risk
+  free rate market premium and beta to reveal fair value Discover more inside
 ---
 
 

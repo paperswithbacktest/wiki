@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Dollar Cost Averaging Investment Strategy
-description: Dollar Cost Averaging helps investors spread out purchases to lower average
-  share cost and reduce emotional trading risks. Discover more inside.
+title: Dollar-Cost Averaging Guide for Steady Investment Growth
+description: Dollar-Cost Averaging lowers your average asset cost by spreading investments
+  over time and smooths out market volatility. Discover more inside.
 ---
 
 

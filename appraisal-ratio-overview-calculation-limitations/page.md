@@ -1,7 +1,7 @@
 ---
-title: Essential Appraisal Ratio Insights Smarter Investment Decisions
-description: Appraisal Ratio reveals if returns justify risk by comparing alpha to
-  unsystematic risk and guides smarter portfolio decisions Discover more inside
+title: Understanding Appraisal Ratio For Risk Adjusted Returns
+description: Appraisal Ratio shows investors how much extra return they earn per unit
+  of unsystematic risk to guide smarter investment choices Discover more inside.
 ---
 
 

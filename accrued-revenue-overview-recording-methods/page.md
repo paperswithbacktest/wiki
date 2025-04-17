@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Accrued Revenue For Financial Reporting
-description: Accrued revenue tracking ensures accurate financial statements and improving
-  cash flow by matching income with expenses on time Discover more inside.
+title: Understanding Accrued Revenue in Accounting and Reporting
+description: Accrued revenue shows money earned but not yet received and helps maintain
+  accurate financial statements and cash flow management Discover more inside
 ---
 
 

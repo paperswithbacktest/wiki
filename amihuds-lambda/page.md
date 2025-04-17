@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Amihud's Lambda Liquidity Measure
-description: Amihud's Lambda measures how trading volume moves stock prices to assess
-  liquidity and help investors plan trades with lower risk Discover more inside.
+title: Amihud's Lambda Explained And Its Impact On Stock Liquidity
+description: Amihud's Lambda quantifies how trading affects stock liquidity and helps
+  investors plan trades and manage risks effectively Discover more inside.
 ---
 
 

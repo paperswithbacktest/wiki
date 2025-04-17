@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to After Reimbursement Expense Ratio
-description: After Reimbursement Expense Ratio reveals the actual cost of funds after
-  fee waivers helping investors compare fees and choose wisely Discover more inside
+title: Understanding After Reimbursement Expense Ratio for Investors
+description: After Reimbursement Expense Ratio reveals true net fees investors pay
+  after waivers to compare funds and choose smarter investments Discover more inside.
 ---
 
 

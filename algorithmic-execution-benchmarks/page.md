@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide to Algorithmic Execution Benchmarks
-description: Algorithmic execution benchmarks show how VWAP TWAP and shortfall metrics
-  optimize trading performance and order execution Discover more inside
+title: Algorithmic Execution Benchmarks for Trading Performance
+description: Algorithmic execution benchmarks guide traders to measure order performance
+  and optimize strategies with VWAP TWAP and shortfall metrics Discover more
 ---
 
 

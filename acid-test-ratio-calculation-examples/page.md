@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Acid-Test Ratio for Financial Health
-description: Acid-Test Ratio shows business short-term liquidity by excluding inventory
-  and highlighting cash receivables and investments. Discover more inside.
+title: "Understanding the Acid\u2011Test Ratio for Assessing Liquidity"
+description: Acid-Test Ratio reveals if a company can cover short-term debts using
+  quick assets like cash accounts receivable and investments Discover more inside
 ---
 
 

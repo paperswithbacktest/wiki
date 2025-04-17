@@ -1,8 +1,7 @@
 ---
-title: Essential Adjoint Algorithmic Differentiation Explained
-description: Adjoint Algorithmic Differentiation AAD demystifies efficient gradient
-  calculation for complex models in finance and engineering using backward methods
-  Discover more inside
+title: Adjoint Algorithmic Differentiation for Efficient Gradients
+description: Adjoint Algorithmic Differentiation speeds gradient calculation across
+  finance engineering and scientific models saving time Discover more inside
 ---
 
 

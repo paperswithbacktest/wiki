@@ -1,7 +1,7 @@
 ---
-title: Ultimate Asset Allocation Strategies for Balanced Investing
-description: Asset allocation balances risk and reward by diversifying across stocks
-  bonds and cash to protect investments and pursue goals Discover more inside.
+title: Optimizing Asset Allocation With Algorithmic Trading Strategies
+description: Asset allocation helps investors balance risk and reward across stocks
+  bonds and cash for financial goals and timelines Discover more inside.
 ---
 
 

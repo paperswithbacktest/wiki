@@ -1,7 +1,8 @@
 ---
-title: Essential Guide to Actively Managed ETFs for Investors
-description: Actively managed ETFs harness expert stock selection and sector rotation
-  to target higher returns while adapting to market shifts Discover more inside.
+title: Understanding Actively Managed ETFs Costs Benefits and Strategies
+description: Actively managed ETFs use stock selection sector rotation and market
+  timing to target returns beyond passive funds while managing fees Discover more
+  inside
 ---
 
 

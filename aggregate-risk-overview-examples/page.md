@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Understanding and Managing Aggregate Risk
-description: Aggregate risk gives you a clear view of your total exposure across sources
-  and industries so you can reduce financial threats Discover more inside
+title: Understanding Aggregate Risk And Effective Management Strategies
+description: Aggregate risk reveals total financial exposure across multiple sources
+  so you can mitigate threats and safeguard your assets Discover more inside.
 ---
 
 

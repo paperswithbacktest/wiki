@@ -1,7 +1,7 @@
 ---
-title: Essential Activity-Based Management Guide for Cost Efficiency
-description: Activity-Based Management shows businesses the true cost of each activity
-  to drive efficiency and eliminate non-value activities. Discover more inside
+title: Driving Cost Efficiency With Activity-Based Management
+description: Activity-Based Management reveals real activity costs and pinpoints nonvalue
+  tasks to optimize spending and boost efficiency Discover more inside
 ---
 
 

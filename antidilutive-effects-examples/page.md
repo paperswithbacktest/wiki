@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Antidilutive Effects and Securities
+title: Comprehensive Understanding of Antidilutive Effects in Finance
 description: Antidilutive effects boost earnings per share by reducing outstanding
-  shares or limiting conversions into common stock. Discover more inside.
+  shares through buybacks and strategic conversions Discover more inside.
 ---
 
 

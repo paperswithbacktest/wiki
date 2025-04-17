@@ -1,7 +1,8 @@
 ---
-title: Essential Candlestick Patterns for Informed Trading Decisions
-description: Candlestick Patterns guide traders to spot reliable market trends with
-  volume and indicators for smarter entries and exits Discover more inside.
+title: Understanding Candlestick Charts in Technical Trading
+description: Candlestick charts explain price movements with bodies and wicks helping
+  traders spot trends and confirm signals with volume and indicators for informed
+  decisions Discover more inside
 ---
 
 

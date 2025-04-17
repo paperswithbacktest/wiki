@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Mutual Funds for Confident Investing
-description: Mutual funds provide diversified investing with professional management
-  low fees tax insights and proven strategies to grow wealth Discover more inside
+title: Comprehensive Guide to Mutual Funds Types Benefits and Strategies
+description: Mutual funds diversify your portfolio with professional management balancing
+  risk and reward. Explore types, benefits and strategies. Discover more inside.
 ---
 
 

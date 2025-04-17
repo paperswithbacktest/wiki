@@ -1,7 +1,7 @@
 ---
-title: Ultimate Aged Fail Analysis Guide for Financial Trading
-description: Aged Fail describes transactions that persistently miss settlement deadlines
-  causing trading disruptions. Learn analysis steps and tools. Discover more.
+title: 'Understanding Aged Fail: Managing Long-Term Trade Failures'
+description: Aged Fail analysis reveals why securities trades remain unsettled over
+  time and offers tools and strategies to resolve delays swiftly Discover more inside
 ---
 
 

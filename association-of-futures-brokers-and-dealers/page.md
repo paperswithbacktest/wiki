@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to AFBD Futures Broker and Dealer Oversight
-description: AFBD futures broker and dealer oversight ensures fair trading through
-  training compliance checks and policy advocacy Discover more inside.
+title: Association of Futures Brokers and Dealers Explained
+description: Association of Futures Brokers and Dealers ensures honest fair futures
+  markets by guiding brokers through training and policy advocacy Discover more inside
 ---
 
 

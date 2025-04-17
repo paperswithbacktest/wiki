@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Adjusted Surplus for Financial Strength
-description: Adjusted Surplus reveals the real money a company holds after bills and
-  reserves and guides smarter investment and risk decisions Discover more inside
+title: Understanding Adjusted Surplus for Insurance and Financial Health
+description: Adjusted Surplus measures the extra funds after liabilities and investment
+  adjustments to gauge a firms real financial strength Discover more inside.
 ---
 
 

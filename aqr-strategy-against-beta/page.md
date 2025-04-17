@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Beta Investing by AQR Capital Management
-description: Beta Investing with AQR Capital Management uses data insights to reduce
-  market volatility and deliver steadier returns Discover more inside today
+title: AQR Capital Management Strategies to Mitigate Beta Risk
+description: AQR Capital Management uses data driven factor investing to lower beta
+  risk and deliver steadier returns in volatile markets Discover more inside
 ---
 
 

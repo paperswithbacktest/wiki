@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Algorithmic Vs Discretionary Trading
-description: Algorithmic trading vs discretionary trading explained with key tools
-  pros and cons to help you choose the best approach Discover more inside
+title: Algorithmic Trading Versus Discretionary Trading Explained
+description: Algorithmic trading offers speed and rule based execution while discretionary
+  trading relies on human judgment and flexibility Discover more inside
 ---
 
 

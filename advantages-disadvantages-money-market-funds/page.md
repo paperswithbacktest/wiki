@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Money Market Funds Safety and Liquidity
-description: Money market funds provide a low-risk solution to earn steady interest
-  while keeping cash safe and accessible. Compare yields and fees Discover more inside
+title: Money Market Funds Explained Benefits Risks and Comparisons
+description: Money market funds provide low risk liquidity through short term government
+  bonds and commercial paper with low expenses Discover more inside
 ---
 
 

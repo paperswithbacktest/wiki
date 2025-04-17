@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to ADIOS High-Performance I/O Efficiency
-description: ADIOS simplifies large-scale I/O with XML configs flexible engines and
-  APIs to optimize data movement for faster research Discover more inside.
+title: Enhancing Scientific Data Management With Adaptable I/O System
+description: Adaptable I/O System accelerates data movement in high performance computing
+  to boost efficiency in scientific workflows Discover more inside.
 ---
 
 

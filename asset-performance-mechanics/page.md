@@ -1,7 +1,7 @@
 ---
-title: Essential Asset Performance Management For Business Efficiency
-description: Asset performance management lets businesses spot equipment issues early
-  reduce downtime cut maintenance costs and boost productivity Discover more inside
+title: Optimizing Asset Performance Management for Business Efficiency
+description: Asset Performance Management helps businesses track equipment uptime
+  reduce costly breakdowns and optimize maintenance schedules Discover more inside
 ---
 
 

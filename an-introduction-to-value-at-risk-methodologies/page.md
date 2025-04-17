@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Value at Risk VaR Calculation Methods
-description: Value at Risk VaR shows potential portfolio losses with statistical confidence
-  using historical and Monte Carlo methods Discover more inside
+title: Value at Risk Methodologies for Financial Risk Assessment
+description: Value at Risk shows how to measure and compare financial risk using parametric
+  historical simulation and Monte Carlo approaches. Discover more inside.
 ---
 
 

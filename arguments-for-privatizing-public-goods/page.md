@@ -1,7 +1,7 @@
 ---
-title: Essential Implications of Privatization of Public Goods
-description: Privatization of public goods can boost efficiency and spark innovation
-  but may limit access and equity for some users Discover more inside.
+title: Evaluating the Privatization of Public Goods and Its Impacts
+description: Privatization of public goods reveals efficiency gains and equity challenges
+  across case studies while exploring access impacts Discover more inside
 ---
 
 

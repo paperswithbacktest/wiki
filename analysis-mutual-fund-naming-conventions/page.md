@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Mastering Mutual Fund Naming Conventions
-description: Mutual fund naming conventions help you interpret fund titles to assess
-  investment focus, risk, and returns with confidence. Discover more inside.
+title: Mutual Fund Naming Conventions Explained for Investors
+description: Mutual fund naming conventions help you decode fund names by asset class
+  geographic focus and risk level to make informed choices Discover more inside.
 ---
 
 

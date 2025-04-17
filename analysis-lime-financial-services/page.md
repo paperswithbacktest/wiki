@@ -1,7 +1,7 @@
 ---
-title: Essential Insights into Lime Financial Services Offerings
-description: Lime Financial Services offers loans credit cards savings and expert
-  educational tools to help you manage money smarter Discover more inside.
+title: Lime Financial Services Comprehensive Guide To Money Management
+description: Lime Financial Services delivers loans credit cards savings and financial
+  education to improve budgeting and credit management Discover more inside
 ---
 
 

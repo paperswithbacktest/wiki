@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Albatross Labs AI Innovations and Impact
-description: Albatross Labs AI solutions empower healthcare, business and science
-  with smart tools to boost efficiency and improve decisions Discover more inside
+title: Albatross Labs Advancing AI in Healthcare Business and Science
+description: Albatross Labs uses AI to develop custom solutions for healthcare businesses
+  and researchers optimizing workflows and outcomes Discover more inside
 ---
 
 

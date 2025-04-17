@@ -1,7 +1,7 @@
 ---
-title: Ultimate Annualized Sharpe Ratio Guide for Investors
-description: Annualized Sharpe Ratio helps investors measure returns against risk
-  over a year for smarter portfolio choices and informed decisions Discover more inside.
+title: Understanding the Annualized Sharpe Ratio for Investment Risk
+description: Annualized Sharpe Ratio measures returns against risk over a year to
+  help investors compare investments and make smarter choices Discover more inside
 ---
 
 

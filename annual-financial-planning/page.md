@@ -1,7 +1,7 @@
 ---
-title: Essential Annual Financial Planning for Lasting Stability
-description: Annual financial planning creates a budget sets achievable goals and
-  adapts as your finances evolve to secure your future Discover more inside.
+title: Mastering Annual Financial Planning for Long-Term Success
+description: Annual financial planning helps you set realistic goals manage your budget
+  and adjust as needed to stay on track with your finances Discover more inside.
 ---
 
 

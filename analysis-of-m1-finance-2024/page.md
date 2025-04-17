@@ -1,7 +1,7 @@
 ---
-title: Essential M1 Finance Guide to Automated Investing Strategies
-description: M1 Finance simplifies investing with custom pies and automated rebalancing
-  while merging savings and borrowing options in one platform Discover more inside
+title: M1 Finance 2024 Guide to Automated Investing and Features
+description: M1 Finance streamlines saving borrowing and investing with custom automated
+  pies dynamic rebalancing and high yield savings Discover more inside
 ---
 
 

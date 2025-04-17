@@ -1,7 +1,7 @@
 ---
-title: 'Ultimate Guide to Active Investing: Strategies, Risks and Rewards'
-description: Active investing demands research and skill to pick winning stocks beat
-  market averages and manage risks effectively. Discover more inside now.
+title: Active Investing Explained Benefits Strategies and Risks
+description: Active Investing uses research skill and strategic stock selection to
+  beat market returns while managing risk and costs Discover more inside.
 ---
 
 

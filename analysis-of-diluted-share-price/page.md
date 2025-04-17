@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Understanding Diluted Share Price Dynamics
-description: Diluted share price explains how additional convertible securities affect
-  stock value and impact EPS in active use Discover more inside
+title: Understanding Diluted Share Price Impact on Stock Valuation
+description: Diluted share price helps investors assess how stock options and convertible
+  securities affect per share value to guide investments Discover more inside.
 ---
 
 

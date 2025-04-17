@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to APEC Trade and Economic Cooperation
-description: APEC fosters seamless trade growth by uniting 21 economies to cut barriers
-  support small businesses and protect the environment Discover more inside.
+title: APEC Framework for Asia-Pacific Economic Integration and Growth
+description: APEC unites 21 Asia-Pacific economies to streamline trade, support small
+  businesses and foster sustainable growth through innovation Discover more inside
 ---
 
 

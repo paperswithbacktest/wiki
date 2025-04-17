@@ -1,7 +1,7 @@
 ---
-title: Proven Strategies Driving Allston Trading LLC Growth
-description: Allston Trading LLC uses advanced algorithms and data analysis to deliver
-  strong investment returns while managing risk effectively Discover more inside
+title: Technology Driven Trading Strategies at Allston Trading LLC
+description: Allston Trading LLC harnesses advanced algorithms and data analysis to
+  deliver smart trades with risk controls for investors Discover more inside
 ---
 
 

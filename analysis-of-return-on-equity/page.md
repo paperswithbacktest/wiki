@@ -1,7 +1,7 @@
 ---
-title: Proven Guide to Return on Equity Analysis for Smart Investors
-description: Return on Equity shows how efficiently companies use equity to generate
-  profits, uncover debt risks and compare industry benchmarks Discover more inside
+title: Return on Equity ROE Guide for Measuring Shareholder Returns
+description: Return on Equity reveals how companies turn shareholder funds into profit
+  using efficient capital strategies and risk assessment. Discover more inside.
 ---
 
 

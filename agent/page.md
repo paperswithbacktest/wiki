@@ -1,7 +1,7 @@
 ---
-title: Insider Guide To Agent-Based Machine Learning Systems
-description: Agent-Based Machine Learning guides programs to learn optimal strategies
-  through dynamic environment interactions and reward feedback Discover more inside.
+title: Comprehensive Guide to Agent-Based Machine Learning Systems
+description: Agent-Based Machine Learning lets programs learn from their environment
+  through feedback to improve decision making over time Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Appropriation Account Fundamentals
-description: Appropriation Account explains how businesses allocate net profit to
-  dividends salaries reserves and reinvestment in clear steps Discover more inside.
+title: Understanding an Appropriation Account for Profit Distribution
+description: Appropriation Account explains how partnerships distribute net profit
+  to dividends reserves and partner salaries Discover more inside.
 ---
 
 

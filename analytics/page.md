@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide to Data Analytics for Business Success
+title: Data Analytics Processes Tools And Strategies For Decision Making
 description: Data analytics transforms raw information into actionable insights by
-  explaining types tools processes and use cases across industries Discover more inside
+  guiding you through key processes types tools and applications. Discover more inside.
 ---
 
 

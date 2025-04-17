@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Algorithmic Order Placement Techniques
-description: Algorithmic order placement automates trades with strategies like moving
-  average crossovers and machine learning risk controls Discover more inside.
+title: Algorithmic Order Placement Techniques for Optimized Trading
+description: Algorithmic order placement streamlines trade execution by using math
+  formulas to improve speed, efficiency and reduce market impact Discover more inside.
 ---
 
 

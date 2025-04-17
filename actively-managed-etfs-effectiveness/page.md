@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Actively Managed ETFs for Investors
-description: Actively Managed ETFs deliver expert led strategies that target market
-  beating returns while balancing fees, risks and market shifts Discover more inside
+title: Understanding Actively Managed ETFs Benefits and Risks
+description: Actively managed ETFs use expert research to select investments and seek
+  market outperformance while balancing fees and risk Discover more inside
 ---
 
 

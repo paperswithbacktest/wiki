@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Affirmative Obligation in Law and Ethics
-description: Affirmative obligation ensures you actively fulfill legal and social
-  duties from contracts to community tasks boosting accountability Discover more inside.
+title: Understanding Affirmative Obligations in Law and Ethics
+description: Affirmative obligation requires proactive actions to comply with legal
+  ethical and social duties offering examples from daily life Discover more inside
 ---
 
 

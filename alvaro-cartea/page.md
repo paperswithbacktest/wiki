@@ -1,7 +1,7 @@
 ---
-title: "Insider Insights Into \xC1lvaro Cartea Financial Mathematics"
-description: "\xC1lvaro Cartea brings financial mathematics and algorithmic trading\
-  \ expertise to guide smarter market decisions and strategies Discover more inside"
+title: "\xC1lvaro Cartea Financial Mathematics Algorithmic Trading Expert"
+description: "\xC1lvaro Cartea applies financial mathematics and data science to optimize\
+  \ algorithmic and high frequency trading execution Discover more inside."
 ---
 
 

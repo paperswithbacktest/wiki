@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Asset Class Investing for Diversified Portfolios
-description: Asset class investing explained with stock bond real estate and more
-  for balanced portfolios that manage risk and boost growth potential Discover more
+title: Asset Class Selection Strategies To Optimize Your Portfolio
+description: Asset class selection shows investors how to balance risk and optimize
+  returns through strategic diversification and correlation analysis Discover more
   inside
 ---
 

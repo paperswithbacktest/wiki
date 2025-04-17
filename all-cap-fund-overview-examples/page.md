@@ -1,7 +1,7 @@
 ---
-title: Essential Insider Guide to All-Cap Fund Investing Flexibility
-description: All-Cap Fund investing adapts to market shifts by diversifying across
-  all company sizes balancing growth and risk Discover more inside today
+title: Understanding All-Cap Funds For Balanced Investment Portfolios
+description: All-Cap Fund portfolios offer flexible small medium and large company
+  investments for balanced diversification and sustainable growth Discover more inside
 ---
 
 

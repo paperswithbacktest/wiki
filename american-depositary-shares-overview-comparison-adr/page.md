@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to American Depositary Shares for Investors
-description: American Depositary Shares let U.S. investors trade global stocks in
-  dollars and diversify portfolios without complex foreign markets Discover more inside.
+title: Understanding American Depositary Shares For US Investors
+description: American Depositary Shares enable US investors to trade foreign stocks
+  in US dollars on US exchanges and diversify your portfolio Discover more inside.
 ---
 
 

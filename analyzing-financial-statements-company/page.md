@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Financial Statement Analysis for Companies
-description: Financial statements reveal company health and guide decisions with efficient
-  insights on income, assets, and cash flow Discover more inside
+title: Financial Statement Analysis and Key Ratios for Decision Making
+description: Financial statement analysis shows how income statements balance sheets
+  and cash flows guide smarter investment decisions Discover more inside.
 ---
 
 

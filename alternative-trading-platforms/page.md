@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Alternative Trading Platforms for Investors
-description: Alternative trading platforms enable investors to execute large block
-  trades anonymously with minimal price impact and lower costs Discover more inside.
+title: Understanding Alternative Trading Platforms and Their Features
+description: Alternative trading platforms let investors execute large trades with
+  minimal market impact and cost while gaining key market insights Discover more
 ---
 
 

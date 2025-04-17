@@ -1,7 +1,7 @@
 ---
-title: Essential Walt Disney Dividend Policy and Growth Analysis
-description: Walt Disney dividend policy overview shows yield trends payout ratios
-  and sustainability while highlighting investor strategies Discover more inside
+title: Walt Disney Dividend Policy and Sustainability Insights
+description: This guide explains Walt Disney dividends with yield trends payout history
+  and sustainability metrics to guide dividend investors Discover more inside
 ---
 
 

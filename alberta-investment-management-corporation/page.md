@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Alberta Investment Management Corporation
-description: Alberta Investment Management Corporation grows pension and government
-  funds with diversified stocks bonds real estate infrastructure Discover more inside.
+title: Alberta Investment Management Corporation Comprehensive Overview
+description: AIMCo manages over 150 billion in diversified assets to grow and safeguard
+  retirement funds boosting Alberta economic growth Discover more inside
 ---
 
 

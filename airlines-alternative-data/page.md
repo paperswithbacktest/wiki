@@ -1,7 +1,7 @@
 ---
-title: Essential Airline Alternative Data Insights for Investors
-description: Alternative data for airlines reveals real-time booking trends staffing
-  insights and pricing cues so you can optimize operations Discover more
+title: Leveraging Alternative Data for Enhanced Airline Operations
+description: Alternative data for airlines delivers real-time booking and social media
+  insights to optimize routes pricing and efficiency Discover more inside
 ---
 
 

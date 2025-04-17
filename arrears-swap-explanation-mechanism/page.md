@@ -1,7 +1,7 @@
 ---
-title: Essential Insights Into Arrears Swap Mechanics And Risks
-description: Arrears swap interest payments depend on end-of-period rates, offering
-  flexibility and risk insights to make informed choices Discover more inside
+title: Arrears Swaps Explained Their Mechanics Risks and Benefits
+description: Arrears swap users can leverage end of period rate setting to optimize
+  interest payments and manage risk with confidence Discover more inside
 ---
 
 

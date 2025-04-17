@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Advance Refunding for Municipal Debt
-description: Advance refunding helps issuers cut interest costs by replacing high
-  rate bonds and investing proceeds to cover future payments Discover more inside.
+title: Advance Refunding Guide For Municipal And Corporate Bonds
+description: Advance refunding helps issuers reduce interest costs by replacing older
+  bonds and investing proceeds in safe securities Discover more inside.
 ---
 
 

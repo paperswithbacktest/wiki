@@ -1,7 +1,8 @@
 ---
-title: Essential Guide To After-Tax Return On Assets Calculation
-description: After-Tax Return on Assets shows how companies convert assets into profit
-  after taxes for more accurate performance analysis Discover more inside
+title: Understanding After-Tax Return on Assets for Investors
+description: After-Tax Return on Assets reveals how efficiently companies convert
+  assets into posttax profits to guide smarter investing strategies Discover more
+  inside
 ---
 
 

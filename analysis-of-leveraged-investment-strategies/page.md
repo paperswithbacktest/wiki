@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Leveraged Investment Strategies and Risks
-description: Leveraged investment strategy can boost returns but raises risk Learn
-  to use margin, ETFs, options and manage exposure Discover more inside.
+title: Mastering Leveraged Investment Strategies and Risk Management
+description: Leveraged investment strategy boosts returns by borrowing capital highlighting
+  risks costs and rate impacts so you invest smarter Discover more inside.
 ---
 
 

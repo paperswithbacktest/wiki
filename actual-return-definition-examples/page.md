@@ -1,7 +1,7 @@
 ---
-title: The Insider Guide to Understanding Actual Return Calculations
-description: Actual Return reveals the real gains or losses from investments by accounting
-  for fees taxes and inflation using clear methods Discover more inside.
+title: Understanding Actual Return on Investment Performance
+description: Actual return reveals the real gains or losses from your investments
+  by factoring in interest dividends fees taxes and inflation Discover more inside.
 ---
 
 

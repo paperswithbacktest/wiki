@@ -1,7 +1,7 @@
 ---
-title: Essential Modern Portfolio Theory Guide for Optimal Investing
-description: Modern Portfolio Theory shows how to balance risk and return through
-  smart diversification and analytics to optimize your investments Discover more inside
+title: Understanding Modern Portfolio Theory for Optimal Investing
+description: Modern Portfolio Theory shows how to optimize diversification for a balanced
+  risk and return profile that stabilizes your investments. Discover more.
 ---
 
 

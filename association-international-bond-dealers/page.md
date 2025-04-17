@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Association of International Bond Dealers
-description: Association of International Bond Dealers promotes fair global bond trading
-  by setting standards and hosting regular workshops Discover more inside.
+title: Association of International Bond Dealers Explained for Investors
+description: Association of International Bond Dealers establishes bond market standards
+  and hosts workshops to ensure fair trading and compliance Discover more inside
 ---
 
 

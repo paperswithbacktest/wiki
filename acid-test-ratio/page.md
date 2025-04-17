@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to the Acid-Test Ratio for Financial Health
-description: Acid-Test Ratio reveals if a business can cover short-term obligations
-  without inventory reliance and explains calculation insights Discover more inside
+title: Acid-Test Ratio Explained To Measure Business Liquidity
+description: Acid-Test Ratio shows company capacity to cover short-term debts with
+  quick assets and assess liquidity more effectively. Discover more inside.
 ---
 
 

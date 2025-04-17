@@ -1,7 +1,8 @@
 ---
-title: Essential Guide to Asset Rationalization for Business Efficiency
-description: Asset rationalization helps companies streamline resources, cut costs,
-  and boost efficiency for competitive advantage Discover more inside today
+title: Asset Rationalization Strategies for Operational Efficiency
+description: Asset rationalization helps companies streamline resources and cut costs
+  by focusing on high-value assets and divesting underperforming ones Discover more
+  inside.
 ---
 
 

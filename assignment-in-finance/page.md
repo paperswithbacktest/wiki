@@ -1,7 +1,7 @@
 ---
-title: Essential Assignment in Finance Explained for Corporate Success
-description: Assignment in finance unlocks flexibility and risk management by transferring
-  rights or duties across loans contracts and securities Discover more inside
+title: Assignment in Finance Understanding Rights Transfers and Risks
+description: Assignment in Finance moves rights and duties across various instruments
+  from loans bonds futures and options with legal safeguards. Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Calculating After-Tax Real Rate of Return
-description: After-Tax Real Rate of Return reveals true investment growth after taxes
-  and inflation with clear steps to boost returns Discover more inside
+title: Understanding After-Tax Real Rate of Return for Investors
+description: After-Tax Real Rate of Return reveals how your money grows after taxes
+  and inflation so you can make informed investment decisions Discover more inside
 ---
 
 

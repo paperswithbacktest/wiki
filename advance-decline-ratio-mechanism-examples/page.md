@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Advance/Decline Ratio Market Analysis
-description: Advance/Decline Ratio offers a clear snapshot of market breadth and sentiment
-  so investors can make informed buy or sell decisions Discover more inside.
+title: Understanding the Advance/Decline Ratio in Stock Market Analysis
+description: Advance/Decline Ratio reveals market sentiment and guides investors with
+  practical calculation examples and strategy tips Discover more inside.
 ---
 
 

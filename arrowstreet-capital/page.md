@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Arrowstreet Capital Quantitative Investing
-description: Arrowstreet Capital uses advanced quantitative analysis and data-driven
-  models to optimize portfolios and grow client assets. Discover more inside.
+title: "Arrowstreet Capital\u2019s Quantitative Investment Strategy and Growth"
+description: Arrowstreet Capital uses quantitative analysis to optimize portfolios
+  and generate consistent returns for institutional clients Discover more inside.
 ---
 
 

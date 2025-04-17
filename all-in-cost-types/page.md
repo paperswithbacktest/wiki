@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Mastering All-In Cost Calculations for Business
-description: All-in cost provides the full view of expenses from direct to indirect
-  fees so you can plan budgets and avoid surprises Discover more inside.
+title: Understanding All-In Cost for Business Planning and Management
+description: All-in cost helps businesses reveal true expenses including fees taxes
+  and operations for smarter budgeting and decision making Discover more inside
 ---
 
 

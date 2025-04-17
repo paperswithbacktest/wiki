@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to AQR Capital Quantitative Investing Strategies
-description: AQR Capital leverages quantitative research and diversified strategies
-  to optimize risk and returns for global clients Discover more inside.
+title: AQR Capital Management Quantitative Investment Strategies
+description: AQR Capital Management applies data driven quantitative research and
+  factor based strategies to diversify portfolios and manage risk Discover more inside.
 ---
 
 

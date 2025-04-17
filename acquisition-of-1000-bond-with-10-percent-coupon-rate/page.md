@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bond Investing and Coupon Rate Basics
-description: Bond investing covers coupon rates yield to maturity market price impact
-  and tax implications to guide confident decisions Discover more inside
+title: Comprehensive Guide To Bond Coupon Rates Yields and Pricing
+description: Bond coupon rates and yields explained from face value calculation to
+  market price impact and interest rate risk management. Discover more inside.
 ---
 
 

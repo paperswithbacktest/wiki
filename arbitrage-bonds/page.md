@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Arbitrage Bonds for Municipal Investors
-description: Arbitrage bonds let governments borrow at low rates and invest at higher
-  yields under strict rules to earn profits and avoid fines Discover more inside
+title: Understanding Arbitrage Bonds Benefits Risks And Regulations
+description: Arbitrage bonds help governments efficiently profit from interest rate
+  gaps under strict regulations and rebates to avoid fines Discover more inside
 ---
 
 

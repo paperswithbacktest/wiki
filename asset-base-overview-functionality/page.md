@@ -1,7 +1,7 @@
 ---
-title: Essential Asset Base Management for Business Financial Strength
-description: Asset base management helps companies leverage cash real estate inventory
-  and investments to secure financing and drive growth Discover more inside
+title: Building a Strong Asset Base for Business Growth
+description: Asset Base management shows how to leverage cash, equipment, and real
+  estate to strengthen financial stability and drive growth Discover more inside.
 ---
 
 

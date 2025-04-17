@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Sensitivity Analysis For Decision Making
-description: Sensitivity analysis reveals which factors drive your model outcomes
-  and helps you manage risks across projects and industries. Discover more inside.
+title: Sensitivity Analysis Techniques for Robust Decision Making
+description: Explore sensitivity analysis methods to identify key variables and manage
+  risk across finance engineering and modeling. Discover more inside.
 ---
 
 

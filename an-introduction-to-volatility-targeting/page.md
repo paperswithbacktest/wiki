@@ -1,7 +1,8 @@
 ---
-title: Essential Guide to Volatility Targeting in Investment Strategies
-description: Volatility targeting helps investors maintain stable risk levels by dynamically
-  adjusting asset exposure based on market movements. Discover more inside.
+title: Volatility Targeting Strategy for Stable Investment Returns
+description: Volatility targeting helps you maintain consistent portfolio risk by
+  adjusting investments based on market swings for smoother returns Discover more
+  inside
 ---
 
 

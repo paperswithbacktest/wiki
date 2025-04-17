@@ -1,8 +1,7 @@
 ---
-title: Essential Guide to American Currency Quotation and Exchange Rates
-description: "American currency quotation explains how the US dollar\u2019s value\
-  \ is set against other currencies and what factors drive its changes Discover more\
-  \ inside."
+title: Understanding American Currency Quotation and Dollar Valuation
+description: American currency quotation shows how the US dollar value compares with
+  other currencies providing insights for informed decisions Discover more inside.
 ---
 
 

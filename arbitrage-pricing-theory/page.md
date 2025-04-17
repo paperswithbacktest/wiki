@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Arbitrage Pricing Theory APT Fundamentals
-description: Arbitrage Pricing Theory offers a multi-factor model to evaluate asset
-  returns and spot pricing inefficiencies across markets Discover more inside
+title: Arbitrage Pricing Theory Explained With Key Economic Factors
+description: "Arbitrage Pricing Theory shows how inflation interest rates and other\
+  \ factors shape expected returns in a multi\u2011factor model Discover more inside"
 ---
 
 

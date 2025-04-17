@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bank Financial Statement Analysis
-description: Bank financial statement analysis helps you decode balance sheets income
-  statements and cash flows to gain actionable insights Discover more inside.
+title: Analyzing Bank Financial Statements for Informed Decision Making
+description: Bank financial statements reveal key insights on assets liabilities liquidity
+  and profitability ratios to assess risk and health Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Annual Return Calculation for Investors
-description: Annual return shows investors yearly performance and compares assets
-  with simple and compound formulas for clearer analysis Discover more inside
+title: Comprehensive Guide to Calculating Annual Return on Investments
+description: Annual return shows your yearly investment growth and enables comparisons
+  with simple and compound formulas to optimize portfolios Discover more inside
 ---
 
 

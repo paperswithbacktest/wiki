@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to ROC Curve and AUC Performance Metrics
-description: ROC curve and AUC explain how classifiers balance sensitivity and specificity
-  across thresholds with Python examples and advanced tips Discover more inside
+title: Understanding ROC Curves And AUC In Machine Learning
+description: ROC Curve analysis clarifies classifier performance across thresholds
+  and details how to use AUC for effective model evaluation Discover more inside
 ---
 
 ![Image](images/1.png)

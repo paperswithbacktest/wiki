@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Asset Class Diversification and Allocation
-description: Asset class diversification helps reduce risk and boost returns with
-  strategic allocation across stocks bonds and real estate. Discover more inside.
+title: Understanding Asset Classes and Portfolio Diversification Strategy
+description: Asset classes diversify your portfolio by balancing risk and return across
+  stocks bonds real estate commodities and alternatives Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Minimum Wage Impacts on the Economy
-description: Minimum wage hikes boost worker earnings and influence business costs,
-  consumer prices, and economic growth with balanced analysis Discover more inside.
+title: Minimum Wage Effects On Workers Businesses And The Economy
+description: Minimum wage changes affect workers earnings businesses and consumer
+  prices while balancing economic growth and fairness Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Asset Classes for Smarter Investing
-description: Asset classes explained from stocks to alternatives so you can balance
-  risk and reward and optimize your investment portfolio Discover more inside.
+title: Understanding Asset Classes For Balanced Portfolio Growth
+description: Asset classes guide investors to diversify with stocks bonds real estate
+  commodities and alternatives balancing risk and return Discover more inside
 ---
 
 

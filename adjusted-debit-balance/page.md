@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Adjusted Debit Balances in Accounting
-description: Adjusted debit balance shows what you owe in your margin account after
-  deposits fees and interest so you can manage debt Discover more inside
+title: Understanding Adjusted Debit Balances in Margin Accounts
+description: Adjusted debit balance helps investors and businesses see the true amount
+  owed after deposits, fees and interest are applied Discover more inside
 ---
 
 

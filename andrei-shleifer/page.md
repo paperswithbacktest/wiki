@@ -1,7 +1,7 @@
 ---
-title: "Essential Insights Into Andrei Shleifer\u2019s Law and Finance"
-description: Andrei Shleifer explores how robust legal systems and behavioral finance
-  shape economic growth and guide policy making. Discover more inside.
+title: "Andrei Shleifer\u2019s Breakthroughs in Law Finance and Behavioral Economics"
+description: Andrei Shleifer research shows how legal systems and behavioral finance
+  shape economic growth and policy decisions Discover more inside
 ---
 
 

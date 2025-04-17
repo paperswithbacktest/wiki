@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Amplitude Measurement and Wave Behavior
-description: Amplitude insights span water sound and light waves to explain measurement
-  techniques impact on energy and engineering applications Discover more inside.
+title: Understanding Wave Amplitude and Its Role in Signal Energy
+description: Amplitude determines wave strength and energy in water sound and light
+  with practical measurement techniques explained in clear terms Discover more inside.
 ---
 
 

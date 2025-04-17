@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Algorithmic Trading Books for Every Trader
-description: Algorithmic trading books for every skill level offer expert strategies
-  psychology insights and guides to build trading systems Discover more inside
+title: Essential Algorithmic Trading Books For All Skill Levels
+description: Algorithmic Trading Books share key resources from market fundamentals
+  to machine learning strategies for traders at all levels Discover more inside
 ---
 
 

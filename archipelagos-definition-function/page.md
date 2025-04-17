@@ -1,7 +1,7 @@
 ---
-title: 'Essential Guide to Archipelagos: Formation, Ecology and Impact'
-description: Archipelago environments shape island biodiversity, climate and cultures
-  while guiding conservation and research and island management Discover more inside
+title: The Formation and Significance of Global Archipelagos
+description: Archipelagos shape biodiversity climate human societies and maritime
+  trade through unique geological and cultural processes Discover more inside
 ---
 
 

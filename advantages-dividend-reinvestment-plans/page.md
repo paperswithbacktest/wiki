@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Dividend Reinvestment Plans for Wealth Growth
-description: Dividend Reinvestment Plans use your dividends to buy shares automatically
-  so you benefit from compounding and reduced fees over time Discover more inside
+title: "How Dividend Reinvestment Plans Drive Long\u2011Term Portfolio Growth"
+description: Dividend reinvestment plans let you turn payouts into additional shares
+  and reduce fees to harness compounding growth over time Discover more inside
 ---
 
 

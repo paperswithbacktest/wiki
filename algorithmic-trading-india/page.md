@@ -1,7 +1,7 @@
 ---
-title: Essential Insider Guide to Algorithmic Trading in India
-description: Algorithmic trading in India demands a reliable brokerage, coding skills
-  and robust risk management to automate trades effectively. Discover more inside.
+title: Comprehensive Guide to Algorithmic Trading in India
+description: Algorithmic Trading in India empowers traders to automate strategies
+  with coding tools and risk controls for faster execution Discover more inside.
 ---
 
 

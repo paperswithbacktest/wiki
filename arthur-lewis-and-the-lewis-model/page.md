@@ -1,7 +1,7 @@
 ---
-title: Essential Lewis Model Framework for Dual Sector Economic Growth
-description: Lewis Model shows how shifting labor from traditional agriculture to
-  industry boosts growth and productivity in developing countries Discover more inside
+title: Understanding the Lewis Model of Economic Development
+description: Lewis Model explains how shifting labor from agriculture to factories
+  drives productivity and economic growth in developing nations Discover more inside
 ---
 
 

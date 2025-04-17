@@ -1,7 +1,7 @@
 ---
-title: "Insider Guide to Ansatz Capital\u2019s Proven Investment Strategy"
-description: Ansatz Capital partners with tech startups to fuel growth through strategic
-  funding guidance and expert networks driving innovation Discover more inside.
+title: Ansatz Capital Strategic Investments Empowering Tech Startups
+description: Ansatz Capital invests in tech startups using software and data solutions
+  providing funding advice and connections to drive growth Discover more inside.
 ---
 
 

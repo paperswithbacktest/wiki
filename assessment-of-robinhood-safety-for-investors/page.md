@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Robinhood Investor Protection and Security
-description: Robinhood security measures and investor protections ensure your funds
-  stay safe with SIPC insurance and two factor authentication Discover more inside.
+title: Robinhood Investor Protection and Security Measures
+description: Robinhood offers SEC and FINRA regulation SIPC and FDIC protections to
+  secure your investments while revealing risks and safeguards Discover more inside
 ---
 
 

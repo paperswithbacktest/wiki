@@ -1,7 +1,7 @@
 ---
-title: Essential Asymmetric Information Insights for Market Efficiency
-description: Asymmetric information causes adverse selection and moral hazard. Active
-  regulation signaling and screening boost market trust. Discover more inside.
+title: Understanding Asymmetric Information in Economic Transactions
+description: Asymmetric information skews transactions and fuels adverse selection
+  yet signaling and screening regulation can restore market trust Discover more inside
 ---
 
 

@@ -1,7 +1,8 @@
 ---
-title: Essential Guide to Asset Stripping Strategies Risks and Impact
-description: Asset stripping can unlock quick value by selling off underperforming
-  assets while managing risks for employees and communities Discover more inside
+title: 'Asset Stripping Explained: Process, Impacts, and Regulations'
+description: Asset stripping shows how investors profit by selling company assets
+  and exposes the economic and ethical toll on jobs and communities Discover more
+  inside.
 ---
 
 

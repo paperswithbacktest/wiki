@@ -1,7 +1,7 @@
 ---
-title: Essential Insights into Actuarial Gains and Losses
-description: Actuarial gains and losses shape pension funding by aligning assumptions
-  with actual outcomes and provide financial health insights Discover more inside.
+title: Understanding Actuarial Gains and Losses in Pension Accounting
+description: Actuarial gains and losses shape pension funding and plan health by adjusting
+  for gaps in longevity and returns to guide risk planning Discover more inside
 ---
 
 

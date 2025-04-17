@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Aggregate Hours in US Economic Analysis
-description: Aggregate Hours offer a clear view of workforce trends and productivity
-  shifts in the US economy by combining BLS and Census data Discover more inside
+title: Understanding Aggregate Hours in US Economic Analysis
+description: Aggregate Hours provide a clear measure of total work across industries
+  and help policymakers gauge economic health and productivity Discover more inside.
 ---
 
 

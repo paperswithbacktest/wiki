@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Renewable Energy Alternatives to Oil and Gas
-description: Renewable energy alternatives to oil and gas deliver clean cost effective
-  power while cutting emissions and lowering bills Discover more inside
+title: Essential Renewable Energy Alternatives to Replace Oil and Gas
+description: Renewable energy alternatives like solar wind hydro and geothermal deliver
+  clean power while cutting costs and emissions. Discover more inside.
 ---
 
 

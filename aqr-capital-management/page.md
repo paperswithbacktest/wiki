@@ -1,7 +1,7 @@
 ---
-title: Insider Look At AQR Capital Management Quantitative Strategies
-description: AQR Capital Management uses quantitative and factor investing to optimize
-  portfolios and integrate ESG for sustainable returns Discover more inside.
+title: AQR Capital Management Quantitative Investment Strategies
+description: AQR Capital Management uses data-driven quantitative and factor investing
+  to optimize risk-adjusted returns across asset classes Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Insider Look at Showtime Billions Money Power and Ethics
-description: Billions breaks down the high-stakes finance rivalry in New York and
-  explores money ethics character development and legal drama Discover more inside.
+title: "Inside Showtime\u2019s Billions TV Series Money Power And Rivalry"
+description: Billions TV series delivers an insider view of finance power struggles
+  and ethical dilemmas in NYC hedge fund rivalries Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide To AdaBoost Algorithm In Machine Learning
-description: AdaBoost boosts accuracy by combining weak learners and prioritizing
-  misclassified instances to reduce errors and strengthen models Discover more inside.
+title: AdaBoost Explained A Guide To Adaptive Ensemble Learning
+description: AdaBoost improves machine learning accuracy by combining weak classifiers
+  and focusing on challenging examples to boost performance Discover more inside.
 ---
 
 

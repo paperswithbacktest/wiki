@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Blockchain Technology in Healthcare
-description: Blockchain technology improves health care data security interoperability
-  and supply chain transparency while cutting costs. Discover more inside
+title: Blockchain Technology in Healthcare for Secure Patient Records
+description: Blockchain technology in healthcare secures patient records and tracks
+  medicines from factory to pharmacy for transparency and safety Discover more inside
 ---
 
 

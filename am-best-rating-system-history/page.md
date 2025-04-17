@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to AM Best Rating System for Choosing Insurers
-description: AM Best Rating System evaluates insurer financial strength allowing you
-  to assess reliability and compare ratings with confidence Discover more inside.
+title: Understanding the AM Best Rating System for Insurance Companies
+description: AM Best Rating System ratings measure insurer financial strength and
+  reliability so you can compare insurers and choose safe coverage Discover more inside
 ---
 
 

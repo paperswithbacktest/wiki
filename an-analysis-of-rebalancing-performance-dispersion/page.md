@@ -1,7 +1,7 @@
 ---
-title: Proven Portfolio Rebalancing Strategies for Risk Management
-description: Portfolio rebalancing helps maintain your target asset mix manage risk
-  and smooth returns with proven calendar and threshold methods Discover more inside.
+title: Effective Portfolio Rebalancing Strategies for Risk Management
+description: Portfolio rebalancing maintains your target risk-return balance with
+  backtested strategies optimizing returns and controlling risk Discover more inside
 ---
 
 

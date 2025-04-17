@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Asset Earning Power for Investors
-description: Asset Earning Power reveals how effectively companies turn assets into
-  profits and guides smarter investment decisions. Discover more inside.
+title: Understanding Asset Earning Power for Financial Analysis
+description: Asset Earning Power shows how efficiently companies turn assets into
+  income so investors can compare performance for smarter investments Discover inside
 ---
 
 

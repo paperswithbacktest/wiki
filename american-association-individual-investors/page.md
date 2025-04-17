@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to AAII Membership Benefits and Tools
-description: AAII empowers self directed investors with model portfolios stock screening
-  and easy to follow articles plus community support Discover more inside
+title: American Association of Individual Investors Guide for Members
+description: American Association of Individual Investors gives members tools education
+  and community support to build investing confidence. Discover more inside.
 ---
 
 

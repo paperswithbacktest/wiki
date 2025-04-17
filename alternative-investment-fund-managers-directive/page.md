@@ -1,7 +1,7 @@
 ---
-title: Essential AIFMD Compliance Guide for Alternative Fund Managers
-description: AIFMD compliance streamlines licensing reporting and risk management
-  to protect investors and unify the EU alternative fund market Discover more inside.
+title: Understanding the Alternative Investment Fund Managers Directive
+description: Alternative Investment Fund Managers Directive explains AIFMD rules on
+  licensing reporting marketing and risk management Discover more inside
 ---
 
 

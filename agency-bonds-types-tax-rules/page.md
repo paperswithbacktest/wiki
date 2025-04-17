@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Agency Bonds For Optimal Yield And Safety
-description: Agency bonds offer government-sponsored safety and attractive yields
-  plus liquidity explore types risks and tax benefits Discover more inside
+title: Understanding Agency Bonds for Balanced Safety and Yield
+description: "Agency bonds combine government\u2011sponsored security with higher\
+  \ yields secondary market liquidity and state tax exemptions Discover more inside"
 ---
 
 

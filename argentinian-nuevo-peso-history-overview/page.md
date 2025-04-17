@@ -1,7 +1,7 @@
 ---
-title: Insider Insights on the Argentinian Nuevo Peso Transition
-description: Argentinian Nuevo Peso emerged in 1983 to curb hyperinflation but lost
-  stability by 1985 marking a crucial lesson in currency reform Discover more inside.
+title: Argentinian Nuevo Peso History During 1983 to 1985
+description: Argentinian Nuevo Peso launched in 1983 to battle rampant inflation yet
+  lost value and was replaced by the Austral in 1985 Discover more inside.
 ---
 
 

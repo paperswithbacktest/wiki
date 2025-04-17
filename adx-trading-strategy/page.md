@@ -1,7 +1,7 @@
 ---
-title: Essential ADX Indicator Guide For Measuring Trend Strength
-description: ADX indicator reveals how to measure and interpret trend strength using
-  DI lines and Wilder smoothing. Master entry and exit signals. Discover more inside.
+title: Mastering the ADX Indicator for Market Trend Strength
+description: ADX indicator reveals market trend strength and direction to guide traders
+  in choosing entry and exit points with confidence Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Aspect Capital Systematic Trading Strategies
-description: Aspect Capital uses systematic trading and advanced algorithms to uncover
-  market patterns and manage risk for steady client returns Discover more inside.
+title: Aspect Capital Systematic Trading Strategies for Smart Investing
+description: Aspect Capital uses systematic trading and quantitative models to uncover
+  market patterns and deliver steady client returns. Discover more inside.
 ---
 
 

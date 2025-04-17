@@ -1,7 +1,7 @@
 ---
-title: Insider Alpha Generation Strategies for International Investments
-description: Alpha generation in international investments reveals strategies to outperform
-  markets with data analytics, AI and currency hedging Discover more inside.
+title: Alpha Generation in International Investment Portfolios
+description: Alpha generation in international investments uses data driven analysis
+  and currency risk management to outperform benchmarks Discover more inside
 ---
 
 

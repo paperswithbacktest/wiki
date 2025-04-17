@@ -1,7 +1,7 @@
 ---
-title: Essential Insights Into China's Service Sector Growth
-description: China service sector drives economic growth as consumer spending and
-  government investment spark job creation and innovation Discover more inside
+title: China's Service Sector Fueling GDP Growth and Economic Strength
+description: China's service sector accelerates GDP growth by driving employment expanding
+  services and digital innovation with policy support Discover more inside
 ---
 
 

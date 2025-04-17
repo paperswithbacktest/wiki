@@ -1,7 +1,7 @@
 ---
-title: Essential ASCII Guide for Modern Text Encoding Standards
-description: ASCII provides a universal text encoding system that maps characters
-  to numeric codes ensuring reliable communication across devices. Discover more inside.
+title: Understanding ASCII Character Encoding in Modern Computing
+description: ASCII standard defines a universal system to encode text as numbers for
+  reliable data communication and programming efficiency Discover more inside.
 ---
 
 

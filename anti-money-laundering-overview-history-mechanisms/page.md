@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Anti-Money Laundering Compliance
-description: Anti-Money Laundering compliance uses policies training and AI-powered
-  tools to detect illicit funds and meet global regulations. Discover more inside
+title: Comprehensive Guide to Anti-Money Laundering Measures and Tech
+description: Anti-money laundering programs use rigorous policies training and AI
+  to uncover suspicious activities and ensure financial compliance Discover more inside
 ---
 
 

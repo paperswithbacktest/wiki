@@ -1,7 +1,7 @@
 ---
-title: Essential Insights Into Aggregate Supply and Economic Growth
-description: Aggregate supply explains how price levels and input costs shape production
-  output and economic growth in both short and long run Discover more inside.
+title: Understanding Aggregate Supply and Its Economic Impact
+description: Aggregate supply analysis clarifies how producers adjust output to price
+  levels and shapes inflation and unemployment trends Discover more inside.
 ---
 
 

@@ -1,7 +1,8 @@
 ---
-title: Proven Investor Guide to iPath S&P 500 VIX Futures ETF
-description: iPath S&P 500 VIX Futures ETF offers investors a strategic hedge by explaining
-  its tracking approach fees and risks with clarity Discover more inside
+title: "Understanding iPath S&P\_500 VIX Futures ETF for Investors"
+description: "iPath S&P\_500 VIX Futures ETF offers a way to hedge against market\
+  \ volatility and protect your portfolio while managing risks effectively Discover\
+  \ more inside."
 ---
 
 

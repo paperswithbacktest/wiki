@@ -1,7 +1,7 @@
 ---
-title: Essential Insights into the Asian Financial Crisis
-description: Asian Financial Crisis analysis delves into causes effects and the reforms
-  that strengthened regional economies by 1999 Discover more inside.
+title: Asian Financial Crisis Causes Impact Reforms and Global Lessons
+description: Asian Financial Crisis analysis explores causes from currency speculation
+  to debt risks and shows reforms that stabilized economies Discover more inside
 ---
 
 

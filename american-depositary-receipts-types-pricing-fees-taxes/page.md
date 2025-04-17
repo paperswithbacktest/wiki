@@ -1,7 +1,8 @@
 ---
-title: Essential Guide to American Depositary Receipts for Investors
-description: American Depositary Receipts simplify investing in foreign stocks by
-  detailing types pricing fees tax considerations and risks Discover more inside.
+title: Understanding American Depositary Receipts ADRs for US Investors
+description: American Depositary Receipts ADRs simplify investing in foreign stocks
+  by trading in US dollars and exchanges while outlining fees taxes and risks Discover
+  more inside
 ---
 
 

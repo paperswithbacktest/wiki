@@ -1,7 +1,7 @@
 ---
-title: Ultimate Alternative Investing Guide for Diversified Portfolios
-description: Alternative investing expands your portfolio beyond stocks into real
-  estate and private equity for strategic diversification Discover more inside
+title: Understanding Alternative Investing for Portfolio Diversification
+description: Alternative investing enhances portfolio diversification by adding real
+  estate and private equity to reduce risk and boost returns Discover more inside.
 ---
 
 

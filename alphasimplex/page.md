@@ -1,7 +1,7 @@
 ---
-title: Insider Guide to Proven AlphaSimplex Investment Strategies
-description: AlphaSimplex applies quantitative analysis and risk management to grow
-  portfolios beyond benchmarks with diversified strategies Discover more inside
+title: AlphaSimplex Quantitative Investment Strategies and Services
+description: AlphaSimplex uses advanced quantitative analysis and diversified risk
+  management to optimize investment growth for clients Discover more inside.
 ---
 
 

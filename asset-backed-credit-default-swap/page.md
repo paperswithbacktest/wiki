@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Asset-Backed Credit Default Swaps
-description: Asset-Backed Credit Default Swap equips investors with insight on insuring
-  loan pools covering structure pricing and triggers Discover more inside
+title: Asset-Backed Credit Default Swaps Overview for Investors
+description: Asset-Backed Credit Default Swaps let investors protect loan pools by
+  transferring default risk to sellers for premiums Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Annualized Turnover in Backtesting
-description: Annualized Turnover reveals how actively a portfolio trades over a year
-  and shows its impact on costs and risk adjusted returns. Discover more inside.
+title: Understanding Annualized Turnover in Portfolio Backtesting
+description: Annualized turnover measures how often assets in a portfolio are traded
+  annually and reveals impact on costs and performance. Discover more inside.
 ---
 
 

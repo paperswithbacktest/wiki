@@ -1,7 +1,7 @@
 ---
-title: Insider Guide to Corvex Management Activist Investment Strategy
-description: Corvex Management drives value by guiding companies through activist
-  campaigns that boost performance and shareholder returns. Discover more inside.
+title: Corvex Management Activist Investing Strategies and Impact
+description: Corvex Management drives corporate value with targeted share acquisitions
+  and governance advice that enhance returns Discover more inside
 ---
 
 

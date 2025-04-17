@@ -1,7 +1,7 @@
 ---
-title: The Ultimate Active Return Guide for Investor Success
-description: Active return reveals how your portfolio performs against benchmarks
-  to assess management value and refine investment strategies Discover more inside
+title: Understanding Active Return in Investment Performance
+description: Active return shows how your portfolio outperforms benchmarks and calculates
+  value added by active management so you can assess fees Discover more inside.
 ---
 
 

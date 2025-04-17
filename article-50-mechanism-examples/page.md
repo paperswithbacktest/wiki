@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Article 50 Exit Process and Implications
-description: Article 50 outlines the legal steps for an EU member to trigger withdrawal,
-  navigate complex negotiations and finalize separation Discover more inside.
+title: Article 50 EU Exit Process Timeline and Negotiation Steps
+description: Article 50 outlines the two-year process and negotiation steps EU members
+  follow to exit the union smoothly with clear timelines Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Aggregate Demand and Economic Growth
-description: Aggregate demand drives economic growth by uniting key concepts of consumer
-  spending, investment, government outlays and net exports. Discover more inside.
+title: Understanding Aggregate Demand and Its Economic Components
+description: Aggregate demand measures total spending in an economy, revealing how
+  consumer, business, government and trade shifts influence growth Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to the Accumulation Distribution Indicator
-description: Accumulation Distribution Indicator reveals money flow by combining price
-  and volume to signal buying and selling pressure Discover more inside.
+title: Essential Guide to the Accumulation Distribution Indicator
+description: Accumulation Distribution Indicator lets investors assess buying and
+  selling pressure by combining price and volume signals. Discover more inside
 ---
 
 

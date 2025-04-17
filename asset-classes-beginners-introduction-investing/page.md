@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Asset Classes for Smarter Investing
-description: Asset classes unlock a balanced strategy by diversifying across stocks
-  bonds real estate and alternatives for more stable returns. Discover more inside.
+title: Understanding Asset Classes for Balanced Investment Portfolios
+description: Asset Classes diversify risk by covering stocks bonds real estate commodities
+  and crypto so you optimize portfolio returns Discover more inside
 ---
 
 

@@ -1,7 +1,8 @@
 ---
-title: Essential Accumulated Earnings and Profits Vs Retained Earnings
-description: "Accumulated Earnings and Profits guide companies in calculating tax\u2011\
-  efficient dividends and comparing payouts to retained earnings. Discover more inside."
+title: Understanding Accumulated Earnings and Profits Versus Retained Earnings
+description: Accumulated Earnings and Profits explains how tax adjustments impact
+  dividend payouts and corporate tax liability while Retained Earnings reveal funds
+  available for growth Discover more inside.
 ---
 
 

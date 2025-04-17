@@ -1,7 +1,7 @@
 ---
-title: Essential Insider Guide To Creating an Annual Report
-description: Annual report clarifies company performance finances future plans while
-  offering clear visuals and analysis for stakeholders Discover more inside
+title: Comprehensive Guide to Annual Reports for Stakeholders
+description: Annual reports demystified with clear breakdowns of financial statements
+  MD&A trends to help stakeholders make informed decisions Discover more inside
 ---
 
 

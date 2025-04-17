@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to GAAP Inventory Reserves and Valuation
-description: GAAP Inventory Reserves standards clarify how companies must value and
-  disclose inventory risks using methods like LCM and allowances Discover more inside.
+title: Managing Inventory Reserves Under GAAP for Reliable Reporting
+description: Inventory reserves help businesses anticipate losses and maintain accurate
+  GAAP reporting using LCM and historical methods. Discover more inside.
 ---
 
 

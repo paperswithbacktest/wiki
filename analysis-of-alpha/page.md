@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide to Alpha in Investment Performance
-description: Alpha helps investors evaluate returns versus benchmarks by revealing
-  true added value risk trade offs and guiding decisions Discover more inside.
+title: 'Understanding Alpha in Finance: Measuring Investment Performance'
+description: Alpha measures how investments outperform market benchmarks helping investors
+  evaluate manager skill returns and value added Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Proven Uses of Alternative Data in Modern Agriculture
-description: Alternative data in agriculture delivers real-time insights from satellites,
-  soil sensors, and drones to boost yields and efficiency Discover more inside.
+title: Harnessing Alternative Data in Agriculture for Smarter Farming
+description: Alternative data in agriculture delivers real-time crop insights from
+  satellites sensors and drones for precise resource use Discover more inside
 ---
 
 

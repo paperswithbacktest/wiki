@@ -1,7 +1,7 @@
 ---
-title: Essential Lessons From Amaranth Advisors Hedge Fund Collapse
-description: Amaranth Advisors reveals how risky natural gas spread trading led to
-  a $6 billion collapse and reshaped hedge fund oversight Discover more inside.
+title: Amaranth Advisors Collapse and Lessons in Hedge Fund Risk
+description: Amaranth Advisors collapse reveals the perils of large natural gas trades
+  and underscores risk management to protect investments Discover more inside
 ---
 
 

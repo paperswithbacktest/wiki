@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Anticipation Notes in Government Finance
-description: Anticipation notes give municipalities fast funding before regular revenues
-  arrive to maintain services smoothly and secure projects Discover more inside
+title: Understanding Anticipation Notes in Government Finance
+description: Anticipation note provides governments and organizations short-term funding
+  to cover expenses before tax or grant receipts arrive. Discover more inside.
 ---
 
 

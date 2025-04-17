@@ -1,7 +1,7 @@
 ---
-title: Essential Insider Guide to AI Trading Strategies and Ethics
-description: AI trading transforms strategies by harnessing machine learning for real-time
-  data analysis, pattern recognition, and risk management Discover more inside
+title: 'Artificial Intelligence in Trading: Mechanics Risks and Ethics'
+description: AI trading transforms strategies by using data analysis, fast trade execution
+  and risk management while tackling ethical challenges Discover more inside
 ---
 
 

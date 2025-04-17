@@ -1,7 +1,7 @@
 ---
-title: Essential Insights into Alphanomics and Predictive Economics
-description: Alphanomics leverages real-time data analytics and behavioral science
-  to enhance economic forecasts and market efficiency. Discover more inside.
+title: Alphanomics A Data And Technology Driven Approach To Economics
+description: Alphanomics harnesses real time data analytics and behavioral finance
+  to deliver precise economic insights and guide smarter decisions Discover more inside
 ---
 
 

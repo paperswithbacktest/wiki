@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Cash Flow From Investing Activities
-description: Cash flow from investing activities provides insight into how a company
-  allocates funds to buy or sell assets and sustain growth. Discover more inside.
+title: Evaluating Cash Flow From Investing Activities for Healthy Growth
+description: Cash flow from investing activities shows how companies spend and receive
+  cash to drive growth uncover risks and opportunities Discover more inside
 ---
 
 

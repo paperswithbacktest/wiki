@@ -1,7 +1,7 @@
 ---
-title: Essential Game Theory Principles and Strategic Applications
-description: Game Theory explains competitive and cooperative strategies from zero
-  sum games to Nash equilibrium to guide key decisions Discover more inside
+title: Professional Guide to Game Theory Concepts and Business Applications
+description: Game theory explains strategic decision making in competitive and cooperative
+  scenarios with real world applications in business and politics Discover more inside
 ---
 
 

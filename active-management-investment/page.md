@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Active Investment Management Strategies
-description: Active management in investment uses expert research and agile decisions
-  to outperform benchmarks and manage risks and costs Discover more inside.
+title: Active Management Strategies for Beating Market Benchmarks
+description: Active Management uses expert research and dynamic trading techniques
+  to target market outperformance while managing risk and costs Discover more inside.
 ---
 
 

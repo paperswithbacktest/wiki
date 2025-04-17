@@ -1,7 +1,7 @@
 ---
-title: Ultimate Insider Guide to Accrued Liabilities Management
-description: Accrued liabilities record unpaid expenses when they occur to improve
-  the accuracy of financial statements and support planning Discover more inside
+title: Understanding Accrued Liabilities in Accrual Accounting
+description: Accrued liabilities ensure accurate financial statements by recording
+  expenses before payment and improve cash flow forecasting Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Asset and Liability Management Strategies for Banks
-description: Asset and liability management helps banks balance risk and returns with
-  tools like interest rate swaps and duration matching Discover more inside
+title: Effective Asset and Liability Management Strategies for Banks
+description: Asset and Liability Management helps banks manage liquidity and interest
+  rate risks using swaps duration matching and gap analysis Discover more
 ---
 
 

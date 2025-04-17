@@ -1,7 +1,7 @@
 ---
-title: Essential Insights Into Alpha Decay in Quantitative Trading
-description: Alpha Decay in quantitative trading cuts returns as signals lose power
-  to fast market efficiency Adapt strategies for timely execution Discover more inside
+title: Understanding Alpha Decay in Quantitative Trading Models
+description: Alpha decay in quantitative trading dims returns In US and Europe this
+  study quantifies costs and offers ways to sustain performance Discover more
 ---
 
 

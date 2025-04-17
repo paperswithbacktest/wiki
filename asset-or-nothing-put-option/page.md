@@ -1,7 +1,7 @@
 ---
-title: Essential Asset-Or-Nothing Put Options Trading Guide
-description: Asset-or-nothing put options deliver all-or-nothing payoffs for traders
-  eyeing significant downside moves. Discover how to leverage risk and return inside.
+title: Understanding Asset-Or-Nothing Put Options in Trading
+description: Asset-or-nothing put option pays full asset value if it expires below
+  strike and supports hedging or speculative strategies Discover more inside
 ---
 
 

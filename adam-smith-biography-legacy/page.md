@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Adam Smith's Economic Theories and Legacy
-description: Adam Smith's economic theories explain how free trade, the invisible
-  hand, and specialization drive prosperity and shape markets Discover more inside.
+title: Adam Smith Principles From Invisible Hand to Algorithmic Trading
+description: Adam Smith economic theories explain how free trade and the invisible
+  hand drive modern markets and algorithmic trading Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the ADP National Employment Report
-description: ADP National Employment Report provides monthly insights using payroll
-  data on private sector job changes by industry and company size Discover more inside
+title: A Comprehensive Guide to the ADP National Employment Report
+description: ADP National Employment Report offers a monthly snapshot of private sector
+  job changes across industries and sizes to inform investors. Discover more
 ---
 
 

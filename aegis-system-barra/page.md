@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Aegis System Barra Risk Management
-description: Aegis System Barra breaks down portfolio risks into key factors and offers
-  tools to optimize investments for balanced returns Discover more inside.
+title: Aegis System Barra Multifactor Portfolio Risk Analysis
+description: Aegis System Barra applies multifactor risk models to decompose portfolio
+  risks and optimize investments for balanced returns Discover more inside.
 ---
 
 

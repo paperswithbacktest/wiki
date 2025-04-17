@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide to Calculating Asset and Market Beta
-description: Beta Calculation outlines computing asset and market beta in Python using
-  returns and statistical formulas for risk analysis. Discover more inside
+title: Asset Beta Versus Market Beta Calculation Using Python
+description: Asset beta and market beta help investors measure company and stock risk
+  with clear Python calculations and step by step formulas Discover more inside.
 ---
 
 

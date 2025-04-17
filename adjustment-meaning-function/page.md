@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Psychological Adjustment And Coping Mechanisms
-description: Psychological adjustment helps individuals adapt to life changes by employing
-  customized coping strategies and cognitive shifts Discover more inside
+title: Adjustment Mechanisms In Psychology And Algorithmic Trading
+description: Adjustment guides you through psychological processes and skewness and
+  liquidity tweaks in algorithmic trading for better adaptation Discover more inside.
 ---
 
 

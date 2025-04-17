@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Alpha in Finance for Investment Success
-description: Alpha in finance measures investor skill versus benchmarks to boost portfolio
-  performance with risk adjusted analysis and models Discover more inside.
+title: Alpha in Finance Calculating and Assessing Investment Performance
+description: Alpha in Finance measures how much your returns exceed a benchmark to
+  highlight fund manager skill and risk adjusted returns Discover more inside
 ---
 
 

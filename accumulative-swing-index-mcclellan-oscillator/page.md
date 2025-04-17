@@ -1,7 +1,7 @@
 ---
-title: Essential Accumulative Swing Index and McClellan Oscillator Guide
-description: Accumulative Swing Index and McClellan Oscillator highlight market momentum
-  and breadth for trend confirmation Discover more inside
+title: Accumulative Swing Index and McClellan Oscillator Market Analysis
+description: Accumulative Swing Index reveals price momentum and trend strength while
+  McClellan Oscillator gauges market breadth for smarter trading Discover more inside
 ---
 
 

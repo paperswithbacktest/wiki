@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Understanding the Arithmetic Mean
-description: Arithmetic mean shows central tendency by averaging values and reveals
-  when outliers skew results in finance and daily life Discover more inside
+title: Understanding the Arithmetic Mean and Its Alternatives
+description: Arithmetic mean shows how to calculate averages and outlines its limitations
+  and key alternatives such as median and geometric mean Discover more inside
 ---
 
 

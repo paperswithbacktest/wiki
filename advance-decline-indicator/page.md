@@ -1,7 +1,7 @@
 ---
-title: Essential Advance-Decline Indicator Guide for Market Breadth
-description: Advance-Decline Indicator reveals market breadth by measuring daily advancing
-  versus declining stocks to inform investment decisions Discover more inside
+title: Understanding the Advance-Decline Indicator for Market Analysis
+description: Advance-Decline Indicator shows market breadth by tracking advancing
+  versus declining stocks to inform smarter investment choices Discover more inside
 ---
 
 

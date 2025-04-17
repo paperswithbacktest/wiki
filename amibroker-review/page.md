@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to AmiBroker Trading Software Capabilities
-description: AmiBroker delivers fast data analysis customizable AFL formulas real
-  time data feeds and smooth backtesting for traders of all levels Discover more inside
+title: Comprehensive Guide To AmiBroker Trading Software Features
+description: AmiBroker gives traders fast analysis of stock data, AFL-based backtesting
+  and custom indicators for confident trading decisions Discover more inside
 ---
 
 

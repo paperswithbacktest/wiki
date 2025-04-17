@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Asymmetric Volatility in Financial Markets
-description: Asymmetric volatility shows why stocks become more volatile after declines
-  and how investors can manage risk and price options. Discover more inside.
+title: Asymmetric Volatility Phenomenon and Leverage Effect Explained
+description: Asymmetric volatility phenomenon explains why falling stocks trigger
+  larger swings and how to manage leverage effect risk Discover more inside
 ---
 
 

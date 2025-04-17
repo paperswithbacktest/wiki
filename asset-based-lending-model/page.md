@@ -1,7 +1,8 @@
 ---
-title: Essential Insights Into Asset-Based Lending for Businesses
-description: Asset-based lending gives businesses fast access to cash by leveraging
-  assets as collateral to manage cash flow and fuel growth Discover more inside
+title: Understanding Asset-Based Lending for Business Growth
+description: Asset-based lending offers fast funding by using inventory equipment
+  or receivables as collateral to improve cash flow and fuel growth Discover more
+  inside
 ---
 
 

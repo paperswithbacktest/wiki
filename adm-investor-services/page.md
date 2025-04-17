@@ -1,7 +1,7 @@
 ---
-title: Essential ADM Investor Services Guide for Smart Investing
-description: ADM Investor Services offers futures and options trading with real time
-  tools and expert advice to grow and protect investments Discover more inside.
+title: ADM Investor Services Comprehensive Guide To Investment Solutions
+description: ADM Investor Services offers expert guidance on futures options and money
+  management with real time market tools plus expert advice Discover more inside
 ---
 
 

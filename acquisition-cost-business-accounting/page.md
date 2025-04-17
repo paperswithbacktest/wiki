@@ -1,7 +1,7 @@
 ---
-title: The Ultimate Guide to Acquisition Cost in Business Accounting
-description: Acquisition cost covers all expenses of buying assets from purchase price
-  to fees to improve budgeting and reporting Discover more
+title: Understanding Acquisition Cost in Business Accounting
+description: Acquisition cost helps businesses capture total asset expenses from purchase
+  to setup and improve budgeting and reporting accuracy. Discover more inside.
 ---
 
 

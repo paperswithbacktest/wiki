@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide to Accretion of Discount in Bond Valuation
-description: Accretion of discount shows how bonds bought below face value rise in
-  book value with accurate yield and income reporting. Discover more inside.
+title: Accretion of Discount Explained for Bond Valuation Accuracy
+description: Accretion of discount shows how bond values rise from purchase to maturity
+  for accurate reporting and improved yield calculations. Discover more inside.
 ---
 
 

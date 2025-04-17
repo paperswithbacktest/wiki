@@ -1,7 +1,7 @@
 ---
-title: Ultimate Insider Guide to Agent-Based Market Simulation
-description: Agent-Based Market Simulation reveals how individual decisions shape
-  market trends and outcomes using customizable scenarios Discover more inside.
+title: Agent-Based Market Simulations Explained for Economic Analysis
+description: Agent-based market simulations reveal how individual decision rules drive
+  price shifts and market trends in a virtual environment Discover more inside.
 ---
 
 

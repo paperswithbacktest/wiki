@@ -1,8 +1,7 @@
 ---
-title: "Essential Guide to At\u2011the\u2011Close Orders in Trading"
-description: "At\u2011the\u2011Close Order lets traders secure end\u2011of\u2011day\
-  \ prices by understanding its mechanics benefits and risks with confidence Discover\
-  \ more inside."
+title: At-the-Close Orders Explained for Stock Market Investors
+description: At-the-Close orders enable investors to trade at the exact closing price
+  while managing fill risk and price uncertainty Discover more inside.
 ---
 
 

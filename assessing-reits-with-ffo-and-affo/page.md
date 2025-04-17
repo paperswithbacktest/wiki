@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to FFO and AFFO for REIT Performance Assessment
-description: FFO and AFFO reveal REIT cash flow performance and dividend sustainability
-  while highlighting calculation limits and sector insights Discover more inside.
+title: Understanding REIT Performance With FFO And AFFO Analysis
+description: Funds From Operations reveal true REIT cash flow while AFFO accounts
+  for upkeep costs to measure dividend sustainability Discover more inside
 ---
 
 

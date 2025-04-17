@@ -1,7 +1,7 @@
 ---
-title: "Essential Guide to Anti\u2011Diversion Clauses in Contracts"
-description: Anti-Diversion Clause safeguards your partnerships by defining clear
-  rules and consequences for fair business conduct and trust. Discover more inside.
+title: "Understanding The Anti\u2011Diversion Clause In Business Contracts"
+description: "Anti\u2011Diversion Clause safeguards business partnerships by restricting\
+  \ unfair sales and specifying breach penalties with clear terms Discover more inside."
 ---
 
 

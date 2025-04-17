@@ -1,7 +1,7 @@
 ---
-title: Essential Amortization and Impairment of Intangible Assets
-description: Intangible assets amortization and impairment explained to help you manage
-  value and maintain accurate financial reports Discover more inside.
+title: Understanding Amortization and Impairment of Intangible Assets
+description: Intangible asset amortization and impairment drive precise financial
+  reporting by matching costs with revenues and reflecting value. Discover more inside.
 ---
 
 

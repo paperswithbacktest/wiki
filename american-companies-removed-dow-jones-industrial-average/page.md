@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Dow Jones Industrial Average Removals
-description: Dow Jones Industrial Average removals shape index by replacing underperformers
-  with new economic leaders to reflect market changes Discover more inside.
+title: Companies Removed From the Dow Jones Industrial Average
+description: Dow Jones Industrial Average removals show selection criteria investor
+  reactions and impact on company stock prices and index shifts Discover more inside
 ---
 
 

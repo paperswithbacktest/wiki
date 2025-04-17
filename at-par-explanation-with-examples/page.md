@@ -1,7 +1,7 @@
 ---
-title: Essential At Par Bond And Stock Pricing Guide And Strategies
-description: At Par means a bond or stock trades at face value and this guide covers
-  factors driving par pricing and smart strategies Discover more inside.
+title: Understanding At Par in Financial Markets and Bonds
+description: At par defines a bond or stock trading at face value Learn how interest
+  rates credit ratings and market conditions shape par pricing Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Accumulated Depreciation in Accounting
-description: Accumulated depreciation lets businesses match asset costs with revenue
-  by tracking total depreciation over its useful life. Discover more inside.
+title: Accumulated Depreciation Explained For Accurate Asset Valuation
+description: Accumulated depreciation tracks asset value usage over time to show current
+  book value and support financial planning and replacement Discover more inside
 ---
 
 

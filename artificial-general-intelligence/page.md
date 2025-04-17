@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Understanding Artificial General Intelligence
-description: Artificial General Intelligence uses machine learning and reinforcement
-  learning to adapt and learn new tasks across diverse fields Discover more inside.
+title: Examining Artificial General Intelligence and Its Implications
+description: Artificial General Intelligence uses machine learning neural networks
+  and reinforcement learning to create AI learning like humans Discover more inside
 ---
 
 ![Image](images/1.jpeg)

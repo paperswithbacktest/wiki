@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Accumulated Benefit Obligation in Accounting
-description: Accumulated Benefit Obligation helps companies understand current pension
-  liabilities and plan finances proactively with confidence. Discover more inside.
+title: Understanding Accumulated Benefit Obligation for Pension Funds
+description: Accumulated Benefit Obligation calculates companys current pension liabilities
+  using employee salaries for financial reporting Discover more inside
 ---
 
 

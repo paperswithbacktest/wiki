@@ -1,7 +1,7 @@
 ---
-title: Essential Advance/Decline Line Analysis for Market Breadth
-description: Advance/Decline Line measures market health by tracking advancing versus
-  declining stocks daily to reveal trends and divergences Discover more inside
+title: Understanding the Advance/Decline Line for Market Breadth
+description: Advance/Decline Line tracks advancing and declining stocks daily to reveal
+  true market breadth beyond major indexes Discover more inside
 ---
 
 

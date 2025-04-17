@@ -1,7 +1,7 @@
 ---
-title: Essential Financial Guide to Amortization and Depreciation
-description: Amortization and Depreciation explained in clear practical terms to help
-  you understand asset cost allocation and tax impact Discover more inside
+title: Amortization vs Depreciation Explained for Financial Statements
+description: Amortization vs Depreciation helps you understand how intangible and
+  tangible assets lose value and impact financial statements. Discover more inside.
 ---
 
 

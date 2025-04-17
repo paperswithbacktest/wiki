@@ -1,7 +1,8 @@
 ---
-title: Essential Guide to Active Index Funds for Informed Investors
-description: Active index funds rely on manager stock selection to beat benchmarks,
-  but involve higher fees tracking error and tax liabilities Discover more inside
+title: Navigating Active Index Funds Benefits Costs And Performance
+description: Active index funds aim to outperform benchmarks through expert stock
+  selection and strategic allocation while managing costs and risks Discover more
+  inside
 ---
 
 

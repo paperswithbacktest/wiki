@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Alternative Investments for Portfolio Diversification
-description: Alternative investments offer real estate commodities and private equity
-  options to diversify risk and enhance returns in your portfolio Discover more inside
+title: Understanding Alternative Investments for Diversified Portfolios
+description: Alternative investments diversify portfolios with assets like real estate
+  art and private equity managing risk and growth Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Asset-Backed Securities and CDOs
-description: Asset-Backed Securities and CDOs differ in structure and risk This guide
-  explains key differences to help investors navigate markets Discover more inside
+title: Asset-Backed Securities And Collateralized Debt Obligations Guide
+description: Asset-Backed Securities and CDOs explained in plain terms highlighting
+  key differences in structure risk and performance Discover more inside
 ---
 
 

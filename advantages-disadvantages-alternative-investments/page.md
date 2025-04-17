@@ -1,7 +1,7 @@
 ---
-title: Insider Guide to Alternative Investments for Diversification
-description: Alternative investments deliver strategic diversification and potential
-  returns through real estate private equity art and crypto Discover more inside.
+title: 'Alternative Investments: Risks Returns and Diversification'
+description: Alternative investments diversify portfolios reduce stock correlation
+  hedge against inflation and demand careful risk assessment Discover more inside
 ---
 
 

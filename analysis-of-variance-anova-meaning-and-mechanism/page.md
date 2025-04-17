@@ -1,7 +1,7 @@
 ---
-title: Essential Methods for Reliable ANOVA Statistical Analysis
-description: ANOVA provides researchers a step-by-step method to compare multiple
-  groups, calculate F-statistics, and ensure valid data analysis Discover more inside.
+title: Understanding Analysis of Variance ANOVA for Reliable Results
+description: ANOVA shows if differences among group means are significant by comparing
+  within and between group variance with F statistics Discover more inside.
 ---
 
 

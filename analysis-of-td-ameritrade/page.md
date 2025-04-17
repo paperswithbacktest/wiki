@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to TD Ameritrade Services and Features
-description: TD Ameritrade offers commission free trading for stocks ETFs and options
-  plus tools security and support to elevate your investing Discover more inside
+title: TD Ameritrade Comprehensive Guide to Brokerage Accounts and Tools
+description: TD Ameritrade offers commission free trading, robust tools and educational
+  resources to simplify investing and trading decisions Discover more inside
 ---
 
 

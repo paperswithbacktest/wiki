@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Annual Fund Operating Expenses Explained
-description: Annual Fund Operating Expenses reveal how fees affect your returns. Compare
-  expense ratios to cut costs and maximize growth. Discover more inside.
+title: Understanding Annual Fund Operating Expenses and Returns
+description: Annual Fund Operating Expenses determine how fees affect net investment
+  growth over time helping investors choose cost efficient funds Discover more inside
 ---
 
 

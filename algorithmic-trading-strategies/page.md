@@ -1,7 +1,7 @@
 ---
-title: Ultimate Insider Guide to Algorithmic Trading Strategies
-description: Algorithmic trading explains essential strategies from trend following
-  to machine learning with backtesting and risk management Discover more inside
+title: Comprehensive Guide to Algorithmic Trading Strategies
+description: Algorithmic trading provides an overview of system components development
+  backtesting metrics risk management and future trends Discover more inside
 ---
 
 

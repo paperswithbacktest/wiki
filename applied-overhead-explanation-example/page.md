@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Applying Overhead in Accounting Practices
-description: Applied overhead helps businesses assign indirect costs to products for
-  accurate pricing budgeting and profit analysis Discover more inside.
+title: Understanding Applied Overhead in Manufacturing Accounting
+description: Applied overhead helps businesses allocate indirect costs accurately
+  to determine true product costs and set profitable pricing Discover more inside.
 ---
 
 

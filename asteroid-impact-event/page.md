@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Asteroid Impact Events and Planetary Defense
-description: Asteroid impact events pose significant risks and this article explains
-  their causes effects and detection methods in clear detail Discover more inside.
+title: Understanding Asteroid Impact Events and Planetary Defense
+description: Asteroid impact events can cause craters fires and climate shifts but
+  modern telescopes and deflection methods help safeguard Earth Discover more inside.
 ---
 
 

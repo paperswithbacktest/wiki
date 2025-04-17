@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Accumulated Other Comprehensive Income AOCI
-description: Accumulated Other Comprehensive Income tracks gains and losses outside
-  net income to reveal true equity impact and financial health. Discover more inside.
+title: Accumulated Other Comprehensive Income Explained for Investors
+description: Accumulated Other Comprehensive Income provides a complete view of unrealized
+  gains losses and equity impacts beyond net income. Discover more inside.
 ---
 
 

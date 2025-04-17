@@ -1,7 +1,7 @@
 ---
-title: Ultimate Coefficient of Variation Guide for Statistical Analysis
-description: Coefficient of Variation compares data spread across datasets by showing
-  variability as a percentage of the mean in finance. Discover more inside.
+title: Understanding Coefficient of Variation for Risk and Variability
+description: Coefficient of variation compares variability relative to the mean across
+  datasets guiding statistical analysis and risk assessment Discover more inside.
 ---
 
 

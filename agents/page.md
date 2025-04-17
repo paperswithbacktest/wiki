@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Developing Algorithmic Trading Agents
-description: Algorithmic trading agent essentials cover setup backtesting risk controls
-  and ML integration to improve trading outcomes Discover more inside.
+title: Developing and Optimizing Algorithmic Trading Agents
+description: Algorithmic trading agents automate buy and sell decisions using data
+  feeds risk controls and machine learning to improve performance Discover more inside.
 ---
 
 

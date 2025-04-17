@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Assignment of Proceeds in Trade Finance
-description: Assignment of proceeds ensures sellers receive payments securely through
-  a bank while meeting delivery conditions Discover more inside.
+title: Assignment of Proceeds Explained for Trade Finance Professionals
+description: Assignment of proceeds helps sellers secure payments and speed cash flow
+  by using a bank as intermediary ensuring timely funds release Discover more inside
 ---
 
 

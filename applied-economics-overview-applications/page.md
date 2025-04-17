@@ -1,7 +1,7 @@
 ---
-title: Essential Applied Economics Guide For Real-World Solutions
-description: Applied Economics uses theory and data to solve real-world policy business
-  and sustainability challenges with practical methods Discover more inside
+title: Applied Economics Practical Insights for Real-World Solutions
+description: Applied economics uses theories data and econometric tools to solve real
+  world challenges in business policy health and environment Discover more inside.
 ---
 
 

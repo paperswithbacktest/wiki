@@ -1,7 +1,7 @@
 ---
-title: Essential All-Ordinaries Index Guide For Australian Investors
-description: All-Ordinaries Index shows Australian top 500 stocks with strategies
-  to assess market health and boost portfolio returns Discover more inside.
+title: Comprehensive Guide to the All-Ordinaries Index in Australia
+description: All-Ordinaries Index tracks 500 ASX companies performance and outlines
+  calculation history investment strategies and market impact Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Accrual Accounting For Accurate Financial Reporting
-description: Accrual accounting records transactions when they happen to deliver accurate
-  financial insights and help you plan strategically Discover more inside.
+title: Understanding Accrual Accounting Principles And Applications
+description: Accrual accounting shows true financial health by matching revenues and
+  expenses when they occur for accurate performance insights Discover more inside.
 ---
 
 

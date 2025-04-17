@@ -1,7 +1,7 @@
 ---
-title: Essential Insights Into Arrow's Impossibility Theorem Explained
-description: Arrow's Impossibility Theorem reveals why perfect voting systems can't
-  exist and highlights real world impacts on election design. Discover more inside.
+title: "Understanding Arrow\u2019s Impossibility Theorem In Voting Systems"
+description: "Arrow\u2019s Impossibility Theorem shows why no voting system can satisfy\
+  \ all fairness rules while balancing diverse voter preferences Discover more inside"
 ---
 
 

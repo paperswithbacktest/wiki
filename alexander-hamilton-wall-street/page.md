@@ -1,8 +1,7 @@
 ---
-title: Ultimate Guide to Alexander Hamilton's Wall Street Vision
-description: "Alexander Hamilton shaped America\u2019s economy by establishing the\
-  \ First Bank and US Mint and seeding Wall Street\u2019s rise as financial hub Discover\
-  \ more inside"
+title: Alexander Hamiltons Financial Blueprint for Wall Street Growth
+description: Alexander Hamiltons financial reforms stabilized the US economy, standardized
+  currency and laid groundwork for Wall Street trading Discover more inside.
 ---
 
 

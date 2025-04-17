@@ -1,7 +1,7 @@
 ---
-title: Essential Strategies Driving the Alaska Permanent Fund Growth
-description: Alaska Permanent Fund reinvests oil revenues to preserve wealth and deliver
-  annual dividends for residents to secure future prosperity Discover more inside
+title: Understanding the Alaska Permanent Fund and Dividend System
+description: Alaska Permanent Fund channels oil revenue into investments that deliver
+  annual dividends while building future wealth for residents Discover more inside
 ---
 
 

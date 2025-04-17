@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Apple Dividend Growth and Sustainability
-description: Apple dividend insights reveal how quarterly payouts yield returns and
-  sustainable growth to guide your investment decisions Discover more inside
+title: Apple Dividend Overview Professional Guide
+description: Apple dividend payments deliver quarterly cash rewards showcasing company
+  stability and growth potential Discover more inside
 ---
 
 

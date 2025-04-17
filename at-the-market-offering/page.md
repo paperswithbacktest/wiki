@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To At-the-Market Offerings For Corporate Growth
-description: At-the-Market offering lets companies flexibly raise funds by selling
-  shares at market price to stabilize share price and fuel growth Discover more inside
+title: Understanding At-the-Market Offerings for Corporate Fundraising
+description: At-the-Market offering allows companies to raise capital gradually at
+  market price to limit stock volatility and fund growth. Discover more inside.
 ---
 
 

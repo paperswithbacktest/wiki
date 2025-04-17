@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Managing Active Risk in Investment Portfolios
-description: Active Risk helps investors measure and manage portfolio deviations from
-  benchmarks using tracking error and information ratio Discover more inside.
+title: Understanding Active Risk in Investment Portfolio Management
+description: Active risk measures how much a portfolio deviates from benchmarks and
+  guides smarter investment choices to balance risk and return. Discover more inside.
 ---
 
 

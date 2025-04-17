@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Accretion in Finance and Accounting
-description: Accretion in finance explains how discounted bonds and asset retirement
-  obligations increase in value and impact statements. Discover more inside
+title: Understanding Accretion in Finance and Accounting Practices
+description: Accretion in finance explains how discounted bonds increase in value
+  and obligations It covers calculation and statement impacts Discover more inside
 ---
 
 

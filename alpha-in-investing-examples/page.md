@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Alpha in Investing and Risk-Adjusted Returns
-description: Alpha in investing offers a clear measure of portfolio performance against
-  benchmarks and risk factors with practical examples Discover more inside
+title: Understanding Alpha in Investing for Superior Returns
+description: Alpha in investing helps you evaluate performance beyond market benchmarks
+  and adjust for risk effectively using alpha formulas. Discover more inside.
 ---
 
 

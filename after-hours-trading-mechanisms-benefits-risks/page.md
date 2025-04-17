@@ -1,7 +1,7 @@
 ---
-title: Essential After-Hours Trading Guide for Professional Investors
-description: After-hours trading gives investors flexibility to react to news outside
-  market hours while managing liquidity and volatility risks Discover more inside
+title: After-Hours Trading Insights For Investors On Risks And Rewards
+description: After-hours trading lets you act on news beyond regular market hours
+  while managing lower liquidity and bigger price swings Discover more inside.
 ---
 
 

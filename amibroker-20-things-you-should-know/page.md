@@ -1,7 +1,7 @@
 ---
-title: Ultimate AmiBroker Guide for Stock Analysis and Trading
-description: AmiBroker simplifies setup installation features and strategy backtesting
-  to optimize your stock analysis and trading performance Discover more inside.
+title: AmiBroker Tutorial for Stock Market Analysis and Trading
+description: AmiBroker simplifies stock market analysis with charting backtesting
+  and real time alerts to help traders refine strategies Discover more inside.
 ---
 
 

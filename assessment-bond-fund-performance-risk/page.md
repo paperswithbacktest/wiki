@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bond Fund Performance and Risk Management
-description: Bond funds offer steady income and risk diversification through interest
-  and price gains as key metrics guide performance evaluation. Discover more inside.
+title: Bond Fund Performance Metrics Risks and Diversification Explained
+description: Bond fund insights explain how to assess returns risks and diversification
+  using metrics like yield duration and Sharpe ratio Discover more inside.
 ---
 
 

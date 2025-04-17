@@ -1,8 +1,7 @@
 ---
-title: Essential Adair Turner on Finance Regulation and Climate Change
-description: Adair Turner champions stronger UK financial regulations and climate
-  policies through roles at the FSA and Committee on Climate Change Discover more
-  inside
+title: Adair Turner Career Highlights In Finance And Climate Policy
+description: Adair Turner led pivotal reforms in UK financial regulation and climate
+  policy with active strategies for stability and sustainability Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: "Insider Look at Alex Gerko\u2019s Proven XTX Markets Success"
-description: Alex Gerko built XTX Markets into a leader in algorithmic trading by
-  using advanced math and technology to drive billions in profit Discover more inside.
+title: Alex Gerko and the Algorithmic Trading Success of XTX Markets
+description: Alex Gerko built XTX Markets into one of the UKs largest algorithmic
+  trading firms by leveraging math and computer science Discover more inside.
 ---
 
 

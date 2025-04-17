@@ -1,8 +1,7 @@
 ---
-title: Essential Guide to Inflation Protection Through Asset Classes
-description: Inflation Protection strategies cover real returns vs nominal returns
-  and explore stocks bonds real estate and commodities to safeguard wealth Discover
-  more inside.
+title: Strategies For Inflation Protection Across Asset Classes
+description: Inflation protection empowers investors to maintain real returns by diversifying
+  into real estate commodities and TIPS Discover more inside now.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Analysis Of Variance ANOVA Principles And Applications
-description: ANOVA helps researchers compare group means by analyzing variance within
-  and between groups to confirm significant differences. Discover more inside.
+title: Analysis of Variance ANOVA Methods Types and Applications
+description: Analysis of Variance ANOVA guides you through comparing group means with
+  clear methods, types, assumptions and interpretation. Discover more inside
 ---
 
 

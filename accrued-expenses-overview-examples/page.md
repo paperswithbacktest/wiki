@@ -1,8 +1,7 @@
 ---
-title: Ultimate Guide to Accrued Expenses for Accurate Reporting
-description: Accrued expenses ensure financial statements show true costs by matching
-  them to the period they occur improving accuracy and transparency Discover more
-  inside
+title: Understanding Accrued Expenses for Accurate Financial Reporting
+description: Accrued expenses match costs to the period ensuring accurate financial
+  statements Discover how to record and track accrued expenses Discover more inside
 ---
 
 

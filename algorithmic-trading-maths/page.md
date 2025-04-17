@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Mathematics in Algorithmic Trading
-description: Algorithmic trading mathematics empowers traders with calculus probability
-  and machine learning to optimize strategies and manage risk Discover more inside
+title: Understanding Mathematics in Algorithmic Trading Strategies
+description: Algorithmic trading uses algebra probability and calculus to build predictive
+  models manage risk and optimize strategies Discover more inside
 ---
 
 

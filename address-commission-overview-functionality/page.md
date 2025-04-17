@@ -1,7 +1,7 @@
 ---
-title: Essential Address Commission Guide for Clear Community Navigation
-description: Address Commission resolves street naming conflicts, plans new addresses
-  and updates records for clear accurate navigation Discover more inside.
+title: Address Commissions Streamline Urban Navigation and Planning
+description: Address Commission teams ensure up-to-date accurate addresses to improve
+  mail delivery emergency response and community wayfinding Discover more inside
 ---
 
 

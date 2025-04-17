@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Artificial General Intelligence
-description: Artificial General Intelligence provides an overview of AGI from its
-  difference with narrow AI to uses challenges shaping tech Discover more inside
+title: Artificial General Intelligence Applications And Societal Risks
+description: Artificial General Intelligence offers a comprehensive overview of definitions
+  applications challenges ethics and societal impact Discover more inside
 ---
 
 

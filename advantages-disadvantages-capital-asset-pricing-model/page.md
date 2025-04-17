@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Capital Asset Pricing Model
-description: Capital Asset Pricing Model clarifies how to calculate expected returns
-  by balancing risk and market factors using an easy formula Discover more inside.
+title: Capital Asset Pricing Model Explained Risk Return Framework
+description: Capital Asset Pricing Model calculates expected investment returns with
+  risk free rate beta and market premium for clear insights Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to All-Pay Auctions and Strategic Bidding
-description: All-pay auction strategies reveal how participants can balance bids and
-  risks to maximize payoff and avoid costly mistakes Discover more inside.
+title: Understanding All-Pay Auction Mechanics and Strategies
+description: All-Pay Auction bidders pay every bid regardless of outcome See how this
+  format shapes bidding strategies and risk management Discover more inside
 ---
 
 

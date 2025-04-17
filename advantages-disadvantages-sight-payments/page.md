@@ -1,7 +1,7 @@
 ---
-title: Essential Strategies for At Sight Payments in International Trade
-description: At sight payments enable immediate transfers and minimize delays in international
-  trade. Banks secure transactions to boost cash flow. Discover more inside
+title: Understanding At Sight Payments for International Trade
+description: At sight payments secure fast seller funds and set clear buyer terms
+  while addressing key risks and solutions for international trade Discover more inside
 ---
 
 

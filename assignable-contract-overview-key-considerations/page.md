@@ -1,7 +1,7 @@
 ---
-title: The Ultimate Guide to Assignable Contract Management
-description: Assignable contract guide outlines assignment rights steps legal rules
-  and risk management so you can transfer agreements confidently Discover more inside
+title: Assignable Contracts Explained Guide To Rights Transfer
+description: Our guide clarifies assignable contract definitions and procedures ensuring
+  you meet legal requirements and manage risks effectively Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to the American Customer Satisfaction Index
-description: American Customer Satisfaction Index tracks happiness across industries
-  with quarterly updates to benchmark and improve service Discover more inside.
+title: Understanding the American Customer Satisfaction Index Score
+description: American Customer Satisfaction Index surveys reveal customer satisfaction
+  trends and guide companies to enhance service and loyalty Discover more inside
 ---
 
 

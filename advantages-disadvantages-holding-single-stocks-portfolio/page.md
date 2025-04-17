@@ -1,7 +1,7 @@
 ---
-title: Insider Guide to Single Stock Investing and Risk Management
-description: Single stock investing can boost portfolio returns but demands thorough
-  company research risk management and diversification Discover more inside.
+title: Understanding Single Stock Investing And Its Portfolio Impact
+description: Single stock investing lets you target big returns by researching company
+  fundamentals while balancing risks and diversification Discover more inside.
 ---
 
 

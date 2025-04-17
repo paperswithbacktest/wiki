@@ -1,7 +1,7 @@
 ---
-title: Proven Triple Screen Strategy for Stock Market Success
-description: Triple Screen Strategy helps traders confirm market trends across three
-  timeframes for precise entries and risk control Discover more inside.
+title: Alexander Elder Triple Screen Strategy Trading Guide
+description: Triple Screen Strategy helps traders align long term medium term and
+  short term trends for confident entries and better timing Discover more inside
 ---
 
 

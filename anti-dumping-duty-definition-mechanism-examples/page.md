@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Anti-Dumping Duties in Global Trade
-description: Anti-dumping duties protect domestic industries by taxing unfairly cheap
-  imports with targeted tariffs after in-depth investigations Discover more inside.
+title: Understanding Anti-Dumping Duties and Their Trade Mechanisms
+description: Anti-dumping duties protect local industries from unfair low-priced imports
+  by outlining investigation steps and global examples Discover more inside.
 ---
 
 

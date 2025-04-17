@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Pareto Principle for Peak Productivity
-description: Pareto Principle reveals how 80% of results stem from 20% of efforts,
-  so you can focus on high impact tasks and boost productivity. Discover more inside.
+title: Boosting Productivity and Efficiency With the Pareto Principle
+description: Pareto Principle shows how focusing on the vital 20% of efforts drives
+  80% of results at work boosting productivity and efficiency Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Guarda Wallet Security And Advanced Features
-description: Guarda Wallet lets you securely manage and exchange a wide range of cryptocurrencies
-  across devices with noncustodial control Discover more inside.
+title: Complete Guide to Guarda Wallet Setup and Security Features
+description: Guarda Wallet delivers secure noncustodial crypto storage management
+  and in wallet exchange across devices with recovery Discover more inside
 ---
 
 

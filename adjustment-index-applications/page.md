@@ -1,7 +1,7 @@
 ---
-title: Essential Adjustment Index Guide with Proven Calculation
-description: Adjustment Index measures price changes by tracking items like food housing
-  and services to guide economic planning and budgeting Discover more inside
+title: Understanding the Adjustment Index for Economic Analysis
+description: Adjustment Index tracks price changes by weighting goods and services
+  over time to inform economic decisions and planning. Discover more inside.
 ---
 
 

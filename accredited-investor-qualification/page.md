@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Accredited Investor Requirements
-description: Accredited investor unlocks private investment access by meeting income
-  net worth or professional requirements to protect investors Discover more inside
+title: Accredited Investor Guide to Requirements and Advantages
+description: Accredited Investor status unlocks private offerings with confidence
+  when you meet income net worth or professional criteria Discover more inside.
 ---
 
 

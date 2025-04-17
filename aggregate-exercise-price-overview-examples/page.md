@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Calculating Aggregate Exercise Price
-description: Aggregate Exercise Price lets you calculate total option costs and choose
-  the best time to exercise shares for potential profit. Discover more inside.
+title: Understanding Aggregate Exercise Price in Stock Options
+description: Aggregate Exercise Price defines the total cost to exercise your stock
+  options and guides timing and tax planning for better decisions Discover more inside
 ---
 
 

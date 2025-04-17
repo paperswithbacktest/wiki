@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Investing in the Alternative Investment Market
-description: Alternative Investment Market offers flexible listing rules tax incentives
-  and growth potential for diversifying portfolios. Discover more inside.
+title: Navigating Risks and Rewards in the Alternative Investment Market
+description: Alternative Investment Market unlocks access to smaller companies with
+  lighter regulations and tax incentives while balancing risk Discover more inside.
 ---
 
 

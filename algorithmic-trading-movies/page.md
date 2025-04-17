@@ -1,7 +1,7 @@
 ---
-title: Essential Insider Guide to Algorithmic Trading in Movies
-description: Algorithmic Trading takes center stage in film analysis exploring its
-  cinematic impact and realistic portrayals across movies. Discover more inside.
+title: Modern Algorithmic Trading in Film Portrayals of Finance
+description: Algorithmic trading shapes the way finance films portray fast money and
+  market risks while revealing tech drama on screen Discover more inside
 ---
 
 

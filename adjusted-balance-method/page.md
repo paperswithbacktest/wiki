@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Adjusted Balance Method for Credit Cards
-description: Adjusted Balance Method reduces credit card interest by subtracting timely
-  payments from your starting balance each month. Discover more inside.
+title: Understanding The Adjusted Balance Method For Credit Cards
+description: Adjusted Balance Method reduces credit card interest by subtracting early
+  payments from your starting balance to lower costs. Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Assets Under Management and Growth
-description: Assets Under Management guides you through AUM definition calculation
-  benefits impact on fees growth strategies and regulation Discover more inside
+title: Understanding Assets Under Management And Its Impact On Investors
+description: Assets Under Management shows how firms measure and grow client assets,
+  assess fees, set strategies and meet regulatory standards Discover more inside
 ---
 
 

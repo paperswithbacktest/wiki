@@ -1,7 +1,7 @@
 ---
-title: Ultimate Active Share Insights For Portfolio Management
-description: Active Share shows investors how different their portfolio is from its
-  benchmark to improve fund selection and manage risk. Discover more inside.
+title: Active Share Insights for Effective Portfolio Management
+description: Active Share shows how fund holdings diverge from the benchmark enabling
+  investors to assess risk and performance alignment. Discover more inside.
 ---
 
 

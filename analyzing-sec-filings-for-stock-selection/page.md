@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to SEC Filings for Stock Selection
-description: SEC filings give you in-depth financial insights on earnings, risks,
-  and growth potential to sharpen your stock selection strategy Discover more inside.
+title: Mastering SEC Filings For Informed Stock Selection
+description: SEC filings provide insights into company performance debt and risks
+  to interpret 10K and 10Q reports for smarter stock selection Discover more inside
 ---
 
 

@@ -1,7 +1,8 @@
 ---
-title: Essential Guide to Alyeska Investment Group Strategies
-description: Alyeska Investment Group uses quantitative analysis and diversification
-  to drive risk-adjusted returns and growth for clients Discover more inside.
+title: Alyeska Investment Group Quantitative Asset Management Strategies
+description: "Alyeska Investment Group uses quantitative analysis to optimize asset\
+  \ allocation across sectors and manage 16\_billion in AUM with disciplined risk\
+  \ controls Discover more inside"
 ---
 
 

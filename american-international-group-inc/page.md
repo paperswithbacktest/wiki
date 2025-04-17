@@ -1,8 +1,7 @@
 ---
-title: Insider Guide to AIG Insurance Services and Strategies
-description: "AIG Insurance provides a clear overview of its history, products, global\
-  \ reach and post\u2011crisis recovery journey with expert insights. Discover more\
-  \ inside."
+title: American International Group AIG Corporate Overview And Outlook
+description: AIG provides an authoritative overview of American International Group
+  history products strategy risk management and future growth Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Preference Shares for Smart Investors
-description: Preference shares deliver priority dividends and enhanced security compared
-  to common equity while covering types risks and rewards. Discover more inside.
+title: Preference Shares Explained Types Benefits and Drawbacks
+description: Preference shares give priority dividends and repayment in bankruptcy
+  but limit growth. Understand their types and drawbacks Discover more inside
 ---
 
 

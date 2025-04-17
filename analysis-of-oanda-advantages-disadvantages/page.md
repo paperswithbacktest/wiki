@@ -1,7 +1,7 @@
 ---
-title: Insider Guide to OANDA Trading Platform and Services
-description: OANDA platform delivers fair exchange rates transparent spreads accounts
-  and strong security to boost your trading confidence Discover more inside
+title: OANDA Forex Trading Platform Complete Guide for Traders
+description: OANDA forex platform offers flexible accounts transparent rates and robust
+  security so traders execute currency trades with confidence Discover more inside
 ---
 
 

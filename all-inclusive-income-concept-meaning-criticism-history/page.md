@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the All-Inclusive Income Concept
-description: All-inclusive income concept shows every gain loss and expense in one
-  income statement for a clear view of financial performance Discover more inside.
+title: Understanding the All-Inclusive Income Concept in Accounting
+description: All-inclusive income concept reveals every gain and loss in your financial
+  reports to enhance transparency and decision making Discover more inside
 ---
 
 

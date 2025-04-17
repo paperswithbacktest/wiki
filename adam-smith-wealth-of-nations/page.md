@@ -1,7 +1,7 @@
 ---
-title: Essential Insights Into The Wealth Of Nations By Adam Smith
-description: The Wealth of Nations explains Adam Smith ideas on the invisible hand
-  division of labor and free markets shaping modern economies Discover more inside
+title: How The Wealth of Nations Shaped Modern Economic Theory
+description: The Wealth of Nations introduced the invisible hand and division of labor
+  concepts to drive prosperity and shape economic thought Discover more inside.
 ---
 
 

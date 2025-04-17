@@ -1,7 +1,7 @@
 ---
-title: Proven Arc Elasticity Strategies for Smarter Pricing
-description: Arc elasticity shows how demand shifts across price ranges with the midpoint
-  formula and helps businesses optimize pricing Discover more inside.
+title: Arc Elasticity Explained For Effective Pricing Decisions
+description: Arc elasticity measures demand sensitivity across price ranges using
+  the midpoint formula to improve pricing strategies Discover more inside
 ---
 
 

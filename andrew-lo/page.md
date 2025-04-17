@@ -1,7 +1,7 @@
 ---
-title: Essential Insights Into Andrew Lo's Adaptive Markets Hypothesis
-description: Andrew Lo shows how the Adaptive Markets Hypothesis transforms behavioral
-  finance using economics and biology for smarter investing Discover more inside.
+title: Andrew Lo Adaptive Markets Hypothesis And Its Impact On Finance
+description: Andrew Lo advances behavioral finance with his Adaptive Markets Hypothesis
+  and drives biotech funding through financial models. Discover more inside.
 ---
 
 

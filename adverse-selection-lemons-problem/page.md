@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Adverse Selection and the Lemons Problem
-description: Adverse selection shows how information gaps can flood markets with lemons
-  and raise costs for buyers in used cars and insurance Discover more inside.
+title: Adverse Selection and the Lemons Problem in Modern Markets
+description: Adverse selection floods markets with lemons and sidelines reputable
+  sellers discover how signaling and screening restore fairness explore more inside
 ---
 
 

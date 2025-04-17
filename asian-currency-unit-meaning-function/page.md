@@ -1,7 +1,7 @@
 ---
-title: The Essential Asian Currency Unit for Stronger Regional Trade
-description: Asian Currency Unit helps stabilize trade by reducing currency risks
-  and enhancing economic cooperation among ASEAN+3 nations Discover more inside.
+title: Asian Currency Unit Benefits And Challenges For Regional Trade
+description: Asian Currency Unit provides a trade anchor by mixing Asian currencies
+  to lower exchange risks and strengthen regional cooperation Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Proven AlphaSimplex Group Quantitative Investing Strategies
-description: AlphaSimplex Group uses quantitative models and algorithmic trading to
-  optimize hedge fund investments with strong risk controls Discover more inside.
+title: AlphaSimplex Group Quantitative Investing and Risk Management
+description: AlphaSimplex Group uses quantitative analysis and algorithmic trading
+  to drive smarter investments and risk management strategies Discover more inside.
 ---
 
 

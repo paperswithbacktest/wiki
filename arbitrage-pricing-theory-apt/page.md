@@ -1,7 +1,7 @@
 ---
-title: Ultimate Arbitrage Pricing Theory Guide For Investors
-description: Arbitrage Pricing Theory reveals how economic factors shape returns and
-  offers practical arbitrage and portfolio insights. Discover more inside.
+title: "Arbitrage Pricing Theory Explained How Multi\u2011Factor Models Drive Returns"
+description: "Arbitrage Pricing Theory reveals how inflation interest rates and economic\
+  \ shifts shape asset returns through multi\u2011factor analysis Discover more inside"
 ---
 
 

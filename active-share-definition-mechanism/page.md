@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Active Share for Informed Investors
-description: Active Share reveals how a fund differs from its benchmark and shows
-  if managers justify active fees while guiding portfolio choices Discover more inside.
+title: Understanding Active Share And Its Role In Fund Analysis
+description: Active Share helps investors see how different a fund is from its benchmark
+  and decide if active management is worth the cost Discover more inside.
 ---
 
 

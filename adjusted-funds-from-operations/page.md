@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Adjusted Funds From Operations AFFO
-description: Adjusted Funds From Operations AFFO gives investors a clear view of cash
-  after expenses to assess dividend sustainability. Discover more inside.
+title: Understanding Adjusted Funds From Operations in REIT Analysis
+description: Adjusted Funds From Operations gives REIT investors insight into cash
+  flow after property costs to assess dividends Discover more inside
 ---
 
 

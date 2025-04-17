@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Asset Retirement Obligation Accounting
-description: Asset Retirement Obligation accounting allocates future cleanup costs
-  accurately on balance sheets for transparent reporting Discover more inside.
+title: Asset Retirement Obligation Accounting and Reporting Essentials
+description: Asset Retirement Obligation accounting covers estimating and adjusting
+  future cleanup costs to ensure compliance and transparency Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Crafting Your Annual Overview Report
-description: Annual overview summarizes key events achievements and challenges from
-  the past year in a structured way that informs your next goals Discover more inside.
+title: Creating a Comprehensive Annual Overview for Year End Planning
+description: Annual overview helps you summarize key achievements and finances from
+  the past year and set priorities and goals for the next year Discover more inside
 ---
 
 

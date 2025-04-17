@@ -1,7 +1,7 @@
 ---
-title: Insider Techniques for Evaluating Real Estate Investment Trusts
-description: Real Estate Investment Trusts provide regular dividend income and portfolio
-  diversification with key metrics and risk analysis Discover more inside.
+title: Understanding Real Estate Investment Trust Fundamentals
+description: Real Estate Investment Trusts provide income diversification and guidance
+  on types risks and key metrics for informed investing Discover more inside.
 ---
 
 

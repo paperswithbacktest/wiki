@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Firstrade Online Trading and Account Management
-description: Firstrade enables commission free stock options and ETF trades on a secure
-  user friendly platform with research tools and support. Discover more inside
+title: Firstrade Online Brokerage Fees Features and Account Guide
+description: Firstrade offers commission free trading, intuitive tools and responsive
+  support to help you build a diversified portfolio Discover more inside.
 ---
 
 

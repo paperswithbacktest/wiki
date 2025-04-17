@@ -1,7 +1,7 @@
 ---
-title: Essential Insights Into American Funds Mutual Funds Performance
-description: American Funds mutual funds offer long performance histories, expert
-  management for balanced growth and income with tailored options Discover more inside.
+title: American Funds With Decades Of Performance History
+description: American Funds mutual funds offer decades of performance history and
+  expert management to balance growth and risk in your portfolio. Discover more inside.
 ---
 
 

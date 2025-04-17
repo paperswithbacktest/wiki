@@ -1,7 +1,7 @@
 ---
-title: Essential Asset-Backed Commercial Paper Money Market Fund Guide
-description: Asset-Backed Commercial Paper Money Market Fund offers a safe, liquid
-  way to earn modest returns via short-term asset-backed papers Discover more inside
+title: Understanding Asset-Backed Commercial Paper Money Market Funds
+description: Asset-Backed Commercial Paper Money Market Funds provide a stable, liquid
+  place to park short-term cash and earn modest returns Discover more inside.
 ---
 
 

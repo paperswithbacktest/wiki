@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Mastering Quarterly Earnings Reports
-description: Quarterly earnings reports provide insights on revenue profit and cash
-  flow to help investors make informed investment decisions Discover more inside.
+title: Understanding Quarterly Earnings Reports For Investors
+description: Quarterly earnings report explains companies results in clear terms with
+  revenue profits cash flow and key metrics to guide investors Discover more inside
 ---
 
 

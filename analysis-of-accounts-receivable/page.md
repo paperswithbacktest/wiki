@@ -1,7 +1,7 @@
 ---
-title: Essential Accounts Receivable Analysis For Healthy Cash Flow
-description: Accounts receivable analysis helps businesses manage cash flow and identify
-  late payers to speed up collections and maintain stability Discover more inside
+title: Comprehensive Guide to Accounts Receivable Analysis
+description: Accounts Receivable Analysis reveals aging trends payment patterns and
+  key metrics to improve cash flow and credit policies Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Andrew's Pitchfork Indicator Guide for Traders
-description: Andrew's Pitchfork Indicator helps traders spot support resistance and
-  anticipate trend turns with three lines on price charts Discover more inside.
+title: Andrew's Pitchfork Indicator Explained for Financial Markets
+description: Andrew's Pitchfork Indicator shows traders how to draw and use median
+  and tine lines to predict price moves with confidence Discover more inside
 ---
 
 

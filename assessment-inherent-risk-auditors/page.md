@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Inherent Risk in Auditing Practices
-description: Inherent risk in auditing identifies areas prone to material errors so
-  auditors can focus testing and improve reporting Discover more inside
+title: Assessing Inherent Risk in Auditing Financial Statements
+description: Inherent risk assessment in auditing identifies areas prone to errors
+  before controls so auditors focus testing effectively Discover more inside
 ---
 
 

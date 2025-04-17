@@ -1,7 +1,7 @@
 ---
-title: Essential Accrual Accounting Guide for Financial Accuracy
-description: Accrual Accounting ensures financial statements reflect true income and
-  expenses when they occur helping you make informed decisions Discover more inside
+title: Accrual Accounting Fundamentals for Accurate Financial Reporting
+description: Accrual accounting posts revenues and expenses when they occur for accurate
+  financial statements and clearer decision making Discover more inside
 ---
 
 

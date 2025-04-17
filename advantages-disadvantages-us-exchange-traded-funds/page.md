@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to U.S. ETFs for Portfolio Diversification
-description: U.S. ETFs enable diversification with low fees intraday trading flexibility
-  and tax efficient dividends for smarter investing Discover more inside.
+title: Complete Guide To US Exchange-Traded Funds Benefits And Risks
+description: US Exchange-Traded Funds provide diversified portfolio exposure with
+  lower fees flexible trading and tax efficiency for investors Discover more inside
 ---
 
 

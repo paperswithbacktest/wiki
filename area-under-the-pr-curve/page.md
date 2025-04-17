@@ -1,7 +1,7 @@
 ---
-title: Ultimate Precision-Recall Curve Insights for Imbalanced Data
-description: Precision-Recall Curve helps you measure model performance on imbalanced
-  data by balancing precision and recall across thresholds Discover more inside.
+title: Precision Recall Curve And AUPRC Explained For Imbalanced Data
+description: Precision Recall Curve visualizes precision recall trade off on imbalanced
+  data and AUPRC captures performance across thresholds Discover more inside
 ---
 
 ![Image](images/1.png)
