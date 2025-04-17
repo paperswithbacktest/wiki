@@ -1,6 +1,7 @@
 ---
-title: "Books for quants"
-description: Dive into the world of quantitative finance with this definitive collection of books for quants. From theoretical underpinnings to advanced topics like stochastic calculus, time series analysis, and machine learning, these texts provide invaluable insights and practical applications for enhancing analytical capabilities. Books by renowned authors such as Hull, Joshi, Wilmott, Shreve, Hamilton, and Lopez de Prado cover risk management, stochastic calculus, time series analysis, and machine learning in finance. Whether you're a beginner or an advanced quant, these texts serve as continual references for navigating the ever-evolving landscape of quantitative finance.
+title: Ultimate Guide to Essential Quantitative Finance Books
+description: Quantitative finance books showcase foundational math, coding, and modeling
+  methods to master trading and risk frameworks Discover more inside.
 ---
 
 

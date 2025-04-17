@@ -1,6 +1,7 @@
 ---
-title: "Calculating the Debt-to-Equity Ratio in Excel"
-description: "Learn to calculate the debt-to-equity ratio in Excel and see how it can enhance algorithmic trading strategies by providing crucial financial insights."
+title: Essential Guide to Debt-to-Equity Ratio Calculation in Excel
+description: Debt-to-equity ratio in Excel shows company leverage with data entry
+  formulas formatting and charts to assess financial risk Discover more inside
 ---
 
 

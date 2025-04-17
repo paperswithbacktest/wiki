@@ -1,6 +1,7 @@
 ---
-title: "Brunei Investment Agency: Structure and Holdings"
-description: "Explore the Brunei Investment Agency's structure and investment strategies, including its innovative use of algorithmic trading to enhance performance and economic resilience."
+title: Essential Guide To The Brunei Investment Agency's Structure
+description: Brunei Investment Agency manages and grows state oil and gas wealth through
+  global investments in stocks bonds and real estate Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Bull and Bear Ratio in Market Sentiment"
-description: "Explore how the Bull Bear Ratio, a key market sentiment indicator, influences trading strategies and decision-making in algo trading for optimized investments."
+title: Essential Guide To Bull And Bear Ratio Market Sentiment
+description: Bull and Bear Ratio helps investors gauge market mood by showing bullish
+  versus bearish sentiment to inform trading decisions. Discover more inside.
 ---
 
 

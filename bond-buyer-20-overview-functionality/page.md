@@ -1,6 +1,7 @@
 ---
-title: "Bond Buyer 20: Overview and Functionality"
-description: "Explore the functionality of the Bond Buyer 20 Index and the impact of algorithmic trading on municipal bonds with insights into market dynamics and trends."
+title: Essential Guide to the Bond Buyer 20 Municipal Bond Index
+description: Bond Buyer 20 tracks weekly yields of 20-year general obligation bonds
+  to benchmark municipal rates and guide informed investments Discover more inside
 ---
 
 

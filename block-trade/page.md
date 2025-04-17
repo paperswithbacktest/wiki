@@ -1,6 +1,7 @@
 ---
-title: "Block trade"
-description: Block trades are large-scale financial transactions executed by institutional investors in private negotiations to prevent market disruption. These trades, often involving at least 10,000 shares or $200,000 in value, offer privacy, price stability, and strategic planning advantages. Typically conducted off-market through brokerage networks, block trades safeguard market integrity and provide favorable terms for buyers and sellers. Despite their benefits, they pose risks such as market movement and adverse selection, demanding sophisticated negotiation and risk management by broker-dealers.
+title: Essential Insider Guide to Block Trade Execution Strategies
+description: Block trade insights explain how investors execute large share deals
+  through dark pools minimize market impact and optimize timing Discover more inside
 ---
 
 

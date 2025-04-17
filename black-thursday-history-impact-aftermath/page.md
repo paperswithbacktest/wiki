@@ -1,6 +1,7 @@
 ---
-title: "Black Thursday: History, Impact, and Aftermath"
-description: "Explore the history and impact of Black Thursday in 1929, a pivotal event in the Stock Market Crash, and its modern parallels in algorithmic trading."
+title: Essential Guide To Black Thursday Stock Market Crash Effects
+description: Black Thursday jolted the 1929 stock market and triggered the Great Depression
+  leading to reforms and safeguards guiding markets today Discover more inside
 ---
 
 

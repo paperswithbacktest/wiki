@@ -1,6 +1,7 @@
 ---
-title: "Calculating Break-Even Analysis in Excel"
-description: "Master break-even analysis in Excel for algo trading. Learn to integrate financial insights with algorithmic strategies to optimize profitability and manage risks efficiently."
+title: Essential Break-Even Analysis Techniques in Excel Spreadsheets
+description: Break-even analysis in Excel calculates fixed and variable costs, runs
+  scenario tests and uses Goal Seek to find your break-even point Discover more inside
 ---
 
 

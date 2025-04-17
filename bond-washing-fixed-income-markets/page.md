@@ -1,6 +1,7 @@
 ---
-title: "Bond Washing in Fixed Income Markets"
-description: "Explore the evolution of bond markets focusing on fixed income investments and algorithmic trading plus uncover strategies like bond washing and their impacts."
+title: Essential Guide to Bond Washing in Fixed Income Markets
+description: Bond washing cuts tax by selling and rebuying bonds before interest payouts
+  while preserving income. Assess legal and ethical risks. Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Calculating Forward Rates Using Excel"
-description: "Master forward rate calculations in Excel, essential for predicting future interest rates in finance. Enhance trading strategies by leveraging Excel's powerful tools."
+title: Essential Guide to Calculating Forward Rates in Excel
+description: Forward Rates in Excel help lock future interest costs with precise formulas
+  error checks and data organization to streamline planning Discover more inside
 ---
 
 

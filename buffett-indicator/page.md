@@ -1,6 +1,7 @@
 ---
-title: "Buffett indicator"
-description: "Discover the power of the Buffett Indicator for evaluating market valuation in algo trading, integrating insights into trading strategies for better decision-making."
+title: Essential Buffett Indicator Guide for Market Valuation Insights
+description: Buffett Indicator compares total market cap to GDP to reveal overvalued
+  or undervalued market trends and guide investment choices Discover more inside
 ---
 
 

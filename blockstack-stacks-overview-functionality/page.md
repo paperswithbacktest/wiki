@@ -1,6 +1,7 @@
 ---
-title: "Blockstack and Stacks: Overview and Functionality"
-description: "Discover how Stacks and Blockstack enhance blockchain's functionality with Bitcoin integration smart contracts and dApps offering algo trading opportunities."
+title: Essential Guide to Blockstack and Stacks Blockchain Ecosystem
+description: Blockstack lets devs build secure dApps on Stacks blockchain leveraging
+  Bitcoin security while giving users control of their data Discover more inside.
 ---
 
 

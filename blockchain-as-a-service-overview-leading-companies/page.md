@@ -1,6 +1,7 @@
 ---
-title: "Blockchain-as-a-Service: Overview and Leading Companies"
-description: "Discover Blockchain-as-a-Service BaaS and how top companies like Microsoft IBM and AWS are simplifying blockchain adoption for businesses seeking efficiency and security."
+title: Ultimate Guide to Blockchain as a Service for Enterprises
+description: Blockchain as a Service lets businesses deploy and manage blockchain
+  infrastructure and security so they can focus on innovation. Discover more inside.
 ---
 
 

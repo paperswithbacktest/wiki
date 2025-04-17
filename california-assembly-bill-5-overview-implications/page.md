@@ -1,6 +1,7 @@
 ---
-title: "California Assembly Bill 5: Overview and Implications"
-description: "Explore the transformative impact of California Assembly Bill 5 (AB5) on gig workers and businesses, focusing on its implications for algorithmic trading in California."
+title: Essential Guide to California AB5 Worker Classification Rules
+description: AB5 reshapes how California companies classify workers ensuring more
+  gig workers receive employee protections and benefits Discover more inside.
 ---
 
 

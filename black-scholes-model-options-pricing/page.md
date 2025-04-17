@@ -1,6 +1,7 @@
 ---
-title: "Black-Scholes Model and Options Pricing"
-description: "Explore the fundamentals of options pricing with the Black-Scholes Model a key component in algorithmic trading and financial derivatives valuation."
+title: Essential Guide to the Black-Scholes Model for Option Pricing
+description: Black-Scholes Model calculates theoretical option values from volatility
+  time to expiration and interest rates to guide trades Discover more inside
 ---
 
 

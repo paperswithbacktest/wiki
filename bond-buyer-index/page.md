@@ -1,6 +1,7 @@
 ---
-title: "Bond Buyer Index"
-description: "Explore the evolving municipal bond market with insights into the Bond Buyer Index a key benchmark shaping trading strategies through algo trading and AI advancements."
+title: Essential Guide to the Bond Buyer Index for Municipal Investors
+description: Bond Buyer Index delivers daily municipal bond insights that help investors
+  track interest rate trends and make informed decisions Discover more inside
 ---
 
 

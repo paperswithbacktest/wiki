@@ -1,6 +1,7 @@
 ---
-title: "Calculating Diminishing Marginal Returns in Excel"
-description: "Learn to calculate diminishing marginal returns in Excel and optimize algorithmic trading strategies by analyzing resource allocation and maximizing returns."
+title: Essential Calculations for Diminishing Marginal Returns in Excel
+description: Diminishing marginal returns in Excel uses step-by-step formulas graphs
+  charts and Solver to optimize resource allocation. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Book Value Per Common Share"
-description: "Explore the significance of Book Value Per Common Share (BVPS) in evaluating companies. Learn how it aids in identifying undervalued stocks for better investment strategies."
+title: Essential Guide to Book Value Per Common Share Calculation
+description: Book Value Per Common Share measures a companys net assets per share
+  and helps investors gauge stock undervaluation and health Discover more inside
 ---
 
 

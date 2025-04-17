@@ -1,6 +1,7 @@
 ---
-title: "Calculation of the Altman Z-Score"
-description: "Calculate the Altman Z-Score to predict bankruptcy risk with ease Integrating vital financial ratios it helps investors make informed decisions"
+title: Proven Altman Z-Score Method for Predicting Bankruptcy Risk
+description: Altman Z-Score evaluates bankruptcy risk using five key financial ratios
+  and updated models for diverse industries Discover more inside today
 ---
 
 

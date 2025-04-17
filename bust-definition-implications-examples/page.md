@@ -1,6 +1,7 @@
 ---
-title: "Bust: Definition, Implications, and Examples"
-description: "Explore the intricate dynamics between economic downturns and algo trading Learn how these forces shape financial markets and strategic responses during recessions"
+title: Essential Guide to Economic Busts Causes Effects and Recovery
+description: Economic busts occur when markets sharply decline due to factors like
+  overborrowing and asset bubbles and can lead to recessions Discover more inside.
 ---
 
 

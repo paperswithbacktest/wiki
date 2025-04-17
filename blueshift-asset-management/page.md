@@ -1,6 +1,7 @@
 ---
-title: "Blueshift Asset Management"
-description: "Blueshift Asset Management specializes in systematic investing with a focus on algorithmic trading strategies that enhance market efficiency and investment returns."
+title: Proven Blueshift Asset Management Technology-Led Investments
+description: Blueshift Asset Management uses technology and data-driven strategies
+  to optimize returns and manage risk for investors Discover more inside.
 ---
 
 

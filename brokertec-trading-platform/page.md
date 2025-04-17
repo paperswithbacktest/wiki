@@ -1,6 +1,7 @@
 ---
-title: "BrokerTec Trading Platform"
-description: "Explore BrokerTec's cutting-edge trading platform for fixed income and FX markets featuring advanced algorithmic tools under the CME Group's innovation."
+title: Ultimate Guide to BrokerTec Trading Platform for Bond Markets
+description: BrokerTec trading platform streamlines bond and fixed income trades with
+  real time data security and protocols for professionals Discover more inside
 ---
 
 

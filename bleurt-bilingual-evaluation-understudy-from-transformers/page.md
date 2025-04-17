@@ -1,6 +1,7 @@
 ---
-title: "Bleurt (Bilingual Evaluation Understudy From Transformers) (Machine Learning)"
-description: "Explore BLEURT a state-of-the-art metric using BERT to evaluate text quality for machine translations and summaries capturing subtle meaning differences."
+title: Essential BLEURT Evaluation for Machine Translation Quality
+description: BLEURT evaluates machine translations by analyzing meaning and style
+  beyond word matching for accurate scores and actionable insights Discover more inside.
 ---
 
 ![Image](images/1.png)

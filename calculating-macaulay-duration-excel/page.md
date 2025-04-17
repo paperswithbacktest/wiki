@@ -1,6 +1,7 @@
 ---
-title: "Calculating Macaulay Duration Using Excel"
-description: "Learn how to calculate Macaulay Duration using Excel to enhance your bond investment strategy. Perfect for algorithmic trading, risk management, and valuation."
+title: Essential Guide to Calculating Macaulay Duration in Excel
+description: Macaulay Duration in Excel lets you pinpoint bond risk by calculating
+  weighted time to cash flows with built in functions Discover more inside.
 ---
 
 

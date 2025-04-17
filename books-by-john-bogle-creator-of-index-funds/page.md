@@ -1,6 +1,7 @@
 ---
-title: "Books by John Bogle, Creator of Index Funds"
-description: "Explore the impactful books of John Bogle, the pioneer of index funds, and discover his insights on low-cost investing strategies for long-term success."
+title: Essential Guide To John Bogle And The Index Fund Revolution
+description: John Bogle popularized low cost index funds to simplify investing and
+  boost long term growth while reducing fees and risks Discover more inside.
 ---
 
 

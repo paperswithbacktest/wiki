@@ -1,6 +1,7 @@
 ---
-title: "Board Lot: Functionality and Examples"
-description: "Explore the synergy of board lot trading and algorithmic trading in the evolving stock market Discover how these elements drive efficiency and liquidity for investors"
+title: Essential Insider Guide to Board Lots in Stock Trading
+description: Board lot sizes standardize share quantities to simplify stock trading
+  reduce fees and boost liquidity for all investors. Discover more inside.
 ---
 
 

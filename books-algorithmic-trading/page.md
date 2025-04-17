@@ -1,6 +1,7 @@
 ---
-title: "Books on Algorithmic Trading"
-description: Explore the world of algorithmic trading with our curated list of books that provide essential insights into this rapidly evolving field. These resources offer a comprehensive understanding of both the theoretical and practical aspects of algo trading. Whether you're new to the subject or looking to enhance your expertise, you'll find books covering strategy development, programming skills, and the integration of AI and machine learning. Equip yourself with the knowledge to navigate and succeed in modern financial markets through these indispensable reading selections.
+title: Ultimate Algorithmic Trading Guide From Basics to Advanced
+description: Algorithmic trading breaks down key concepts from basic strategies to
+  advanced machine learning methods with book recommendations. Discover more inside.
 ---
 
 

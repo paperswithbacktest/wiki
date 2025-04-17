@@ -1,6 +1,7 @@
 ---
-title: "Bond Covenants: Affirmative and Negative Examples"
-description: "Discover the key differences between affirmative and negative bond covenants and their impact on algorithmic trading Learn how these covenants shape financial markets"
+title: Essential Guide to Bond Covenants for Investor Protection
+description: Bond covenants enforce issuer discipline and transparency to protect
+  investors and preserve bond stability. Discover more inside.
 ---
 
 

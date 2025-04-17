@@ -1,6 +1,7 @@
 ---
-title: "Calculating Expected Portfolio Returns"
-description: "Learn about calculating expected portfolio returns with insights into investment strategies, financial analysis, and algorithmic trading. Understand the nuances of portfolio management to optimize returns and manage risk effectively. Discover key metrics, the importance of diversification, and the role of technology in trading to make informed investment decisions and achieve desired financial outcomes. Explore the differences between expected and actual returns, leveraging historical performance for a strategic advantage in financial planning."
+title: Essential Guide to Calculating Expected Portfolio Returns
+description: Expected portfolio returns allow investors to forecast potential gains
+  by using weights and asset returns for smarter decision making Discover more inside.
 ---
 
 

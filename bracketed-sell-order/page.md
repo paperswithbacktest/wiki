@@ -1,6 +1,7 @@
 ---
-title: "Bracketed Sell Order"
-description: "Explore the role of bracketed sell orders in algorithmic trading to effectively manage risk and optimize strategies for better trading outcomes in volatile markets."
+title: Essential Guide to Bracketed Sell Orders for Risk Management
+description: Bracketed sell order strategies help you automate risk and profit management
+  by setting stop loss and take profit limits automatically Discover more inside.
 ---
 
 

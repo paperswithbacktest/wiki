@@ -1,6 +1,7 @@
 ---
-title: "Buyer's Monopoly: Definition and Function"
-description: "Discover how a buyer's monopoly or monopsony impacts market dynamics and algorithmic trading influencing pricing strategies and regulatory roles."
+title: "Essential Insights into Buyer\u2019s Monopoly and Monopsony Power"
+description: Buyer's monopoly shifts market power to one buyer limiting supplier options
+  and lowering prices and outlines tactics suppliers can use Discover more inside
 ---
 
 

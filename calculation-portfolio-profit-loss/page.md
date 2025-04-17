@@ -1,6 +1,7 @@
 ---
-title: "Calculation of Portfolio Profit and Loss"
-description: "Gain insights into the calculation of portfolio profit and loss in algorithmic trading Learn how high-frequency trading improves decision-making and market efficiency"
+title: Essential Guide to Portfolio Profit and Loss Calculation
+description: Portfolio profit and loss analysis helps you calculate returns manage
+  risks and integrate metrics like Sharpe Ratio and tax effects Discover more inside.
 ---
 
 

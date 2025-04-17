@@ -1,6 +1,7 @@
 ---
-title: "Bloomberg Tools in Financial Analysis"
-description: "Explore Bloomberg's essential tools for financial analysis and algorithmic trading which offer real-time data robust analytics and efficient risk management solutions."
+title: Essential Bloomberg Terminal Guide for Powerful Financial Analysis
+description: Bloomberg Terminal delivers real time market data tools and analytics
+  for traders and analysts to make informed investment decisions Discover more inside.
 ---
 
 

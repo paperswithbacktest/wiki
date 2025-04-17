@@ -1,6 +1,7 @@
 ---
-title: "Calculation of Shareholders' Equity"
-description: "Explore the calculation of shareholders' equity and its significant role in financial analysis and algorithmic trading strategies. Understand how equity, a measure of a company’s net worth, is derived from total assets minus total liabilities, indicating financial health. This article investigates into key financial ratios like Debt-to-Equity and Return on Equity, crucial for decision-making and risk assessment in trading. Gain insight into integrating these metrics in algorithmic models for optimized trading performance, catering to investors, traders, and finance enthusiasts aiming to refine their market strategies."
+title: Proven Shareholders' Equity Insights for Financial Health
+description: Shareholders' equity reveals a company's net worth after subtracting
+  liabilities and highlights key metrics for financial health. Discover more inside.
 ---
 
 

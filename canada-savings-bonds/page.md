@@ -1,6 +1,7 @@
 ---
-title: "Canada Savings Bonds"
-description: "Explore the evolution of Canada Savings Bonds and modern investment alternatives like algorithmic trading offering secure, diversified strategies for investors."
+title: Ultimate Guide to Canada Savings Bonds for Secure Investing
+description: Canada Savings Bonds deliver a safe government backed savings option
+  with flexible cash in features and tax deferred interest Discover more inside.
 ---
 
 

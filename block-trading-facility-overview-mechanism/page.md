@@ -1,6 +1,8 @@
 ---
-title: "Block Trading Facility: Overview and Mechanism"
-description: "Explore the principles of block trading and algorithmic trading in this comprehensive guide. Learn how these mechanisms influence modern financial markets."
+title: Ultimate Guide to Block Trading Facility Mechanics
+description: Block Trading Facility offers private trading for large stock blocks
+  to minimize price swings and maintain liquidity while safeguarding strategies Discover
+  more inside.
 ---
 
 

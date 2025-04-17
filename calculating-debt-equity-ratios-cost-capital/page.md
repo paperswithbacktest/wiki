@@ -1,6 +1,7 @@
 ---
-title: "Calculating Debt and Equity Ratios in Cost of Capital"
-description: "Explore the vital role of debt and equity ratios in cost of capital strategies within algorithmic trading to enhance financial decision-making and risk management."
+title: Essential Guide to Cost of Capital and Capital Structure
+description: Cost of capital strategies unite debt and equity costs into a clear WACC
+  framework to guide investment choices and enhance value Discover more inside
 ---
 
 

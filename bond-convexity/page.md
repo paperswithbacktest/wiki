@@ -1,6 +1,7 @@
 ---
-title: "Bond Convexity"
-description: "Explore how bonds, fixed income, and convexity shape investment strategies and risk management. Discover the role of algorithmic trading in optimizing returns."
+title: Essential Guide to Understanding Bond Convexity for Investors
+description: Bond convexity shows how bond prices curve when interest rates change
+  providing clearer risk profile and smarter portfolio decisions Discover more inside.
 ---
 
 

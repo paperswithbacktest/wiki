@@ -1,6 +1,7 @@
 ---
-title: "Borrowing Limits in Margin Accounts"
-description: "Explore borrowing limits in margin accounts and how they influence investment leverage and algorithmic trading Discover strategies to mitigate margin risks"
+title: Essential Guide to Margin Account Borrowing Limits
+description: Margin account limits define initial and maintenance margin requirements
+  to help you effectively manage borrowing risk proactively Discover more inside
 ---
 
 

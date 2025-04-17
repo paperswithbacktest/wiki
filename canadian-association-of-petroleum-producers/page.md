@@ -1,6 +1,7 @@
 ---
-title: "Canadian Association of Petroleum Producers"
-description: "Explore the Canadian petroleum industry and its evolution with algorithmic trading Learn how trading algorithms impact energy sector efficiency and market risks"
+title: Ultimate Guide to Canadian Association of Petroleum Producers
+description: Canadian Association of Petroleum Producers drives research advocacy
+  and sustainability to empower Canadian oil and gas companies Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Brazilian Mercantile and Futures Exchange"
-description: "Explore BM&F Bovespa's pivotal role in Latin America's financial markets with advanced algorithmic trading, diverse futures contracts, and robust infrastructure."
+title: Essential Guide to the Brazilian Mercantile and Futures Exchange
+description: BM&F shows how Brazils futures exchange supports secure trading, risk
+  management and market stability with diverse contracts Discover more inside
 ---
 
 

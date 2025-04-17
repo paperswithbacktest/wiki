@@ -1,6 +1,7 @@
 ---
-title: "Buy and Hold Strategy"
-description: "Explore the benefits of the buy-and-hold strategy in algo trading where simplicity meets long-term growth by capturing market trends without frequent trades."
+title: Timeless Buy and Hold Strategy for Steady Portfolio Growth
+description: Buy and Hold strategy provides a straightforward path to long-term portfolio
+  growth through quality investments and patient discipline Discover more inside
 ---
 
 

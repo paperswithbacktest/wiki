@@ -1,6 +1,7 @@
 ---
-title: "Calculating Stock Value with the Gordon Growth Model in Excel"
-description: "Learn how to use the Gordon Growth Model in Excel for calculating stock value and enhancing algorithmic trading strategies. Perfect for traders and analysts."
+title: Ultimate Excel Guide for Gordon Growth Model Stock Valuation
+description: Gordon Growth Model lets you calculate stock value in Excel using dividend
+  growth and discount rate inputs to generate valuations Discover more inside
 ---
 
 

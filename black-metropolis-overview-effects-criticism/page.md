@@ -1,6 +1,8 @@
 ---
-title: "Black Metropolis: Overview, Effects, and Criticism"
-description: "Explore the impact of "Black Metropolis" on urban sociology and algorithmic trading highlighting its insights into socio-economic dynamics of African American communities"
+title: Essential Insights of Black Metropolis in Urban Economies
+description: Black Metropolis reveals midcentury Chicago Black community dynamics
+  and equips modern market algorithms with socio-economic insights. Discover more
+  inside.
 ---
 
 The concept of the "Black Metropolis" emerged in the mid-20th century as a critical framework for understanding the socio-economic dynamics of African American communities within urban environments. This term gained prominence primarily through the pioneering work of sociologists St. Clair Drake and Horace R. Cayton. Their seminal publication, "Black Metropolis: A Study of Negro Life in a Northern City" (1945), provided an in-depth analysis of Chicago's African American community during the early 20th century, particularly focusing on the period between the two World Wars. This work not only offered insights into the daily experiences of African Americans but also laid the groundwork for subsequent urban sociological studies by highlighting issues such as racial segregation, economic disparity, and cultural identity.

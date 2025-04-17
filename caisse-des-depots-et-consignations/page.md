@@ -1,6 +1,7 @@
 ---
-title: "Caisse des Dépôts et Consignations"
-description: "Explore Caisse des Dépôts et Consignations' role in France's economy through algorithmic trading and sustainable investment focusing on growth and innovation."
+title: "Ultimate Guide to Caisse des D\xE9p\xF4ts et Consignations"
+description: "Caisse des D\xE9p\xF4ts et Consignations manages public funds to support\
+  \ affordable housing eco projects and business growth in France Discover inside"
 ---
 
 

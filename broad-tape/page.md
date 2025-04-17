@@ -1,6 +1,7 @@
 ---
-title: "Broad Tape"
-description: "Explore the evolution of the broad tape and algorithmic trading to understand their role in modern finance Learn how these tools enhance market efficiency and decision-making"
+title: The Essential Evolution of Broad Tape in Financial Markets
+description: Broad Tape introduced fast wide paper prints of real time stock prices
+  and financial news to level the market for traders. Discover more inside.
 ---
 
 

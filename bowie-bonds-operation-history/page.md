@@ -1,6 +1,7 @@
 ---
-title: "Bowie Bonds: Operation and History"
-description: "Explore the evolution of Bowie Bonds in music industry securitization and algorithmic trading revealing new financial opportunities for artists and investors."
+title: Essential Guide to Bowie Bonds and Music Royalty Securitization
+description: Bowie Bonds transformed artist finance by securitizing pre-1990 royalties
+  for upfront funding while exposing music industry risks. Discover more inside.
 ---
 
 

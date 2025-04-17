@@ -1,6 +1,7 @@
 ---
-title: "Building Valuation Models Using Black-Scholes"
-description: "Explore how the Black-Scholes model revolutionizes financial modeling by providing a systematic approach for valuing options in algo trading environments."
+title: Essential Guide to the Black-Scholes Model for Option Valuation
+description: Black-Scholes model offers a proven framework to price options by factoring
+  stock volatility time to expiration and risk-free rates Discover more inside.
 ---
 
 

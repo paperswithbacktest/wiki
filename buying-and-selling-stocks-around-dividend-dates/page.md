@@ -1,6 +1,7 @@
 ---
-title: "Buying and Selling Stocks Around Dividend Dates"
-description: "Explore the intricacies of dividend investing with algorithmic trading to optimize returns. Learn strategies for timing stock trades around dividend dates effectively."
+title: Essential Dividend Strategies for Maximizing Shareholder Income
+description: Dividend strategies help investors time ex-dividend, record, and payment
+  dates, manage risks, and use dividend capture to boost returns Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Bloomberg Overview"
-description: "Explore Bloomberg's transformative impact on algorithmic trading with insights into their data services and technology innovations that enhance market strategies and decisions."
+title: Essential Guide To Bloomberg Services And The Bloomberg Terminal
+description: "Bloomberg Terminal delivers real\u2011time financial data news and analytics\
+  \ to help finance pros make smarter investment decisions Discover more inside"
 ---
 
 

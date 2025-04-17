@@ -1,6 +1,7 @@
 ---
-title: "Calculating Cost of Capital for Project Budgeting"
-description: "Explore how understanding the cost of capital can optimize project budgeting and algorithmic trading strategies to drive better financial performance."
+title: Essential Guide to Cost of Capital for Project Budgeting
+description: Cost of capital guides your project budgeting by helping you weigh financing
+  options, adjust for risk premiums, and optimize WACC Discover more inside.
 ---
 
 

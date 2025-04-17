@@ -1,6 +1,7 @@
 ---
-title: "Canadian Overnight Money Market Rate"
-description: "Explore the Canadian money market with insights on the overnight rate and algorithmic trading unleashing liquidity and efficiency in the financial ecosystem."
+title: Ultimate Guide to the Canadian Overnight Money Market Rate
+description: Canadian Overnight Money Market Rate CORRA shows how daily lending between
+  banks sets borrowing costs and impacts economic health Discover more inside.
 ---
 
 

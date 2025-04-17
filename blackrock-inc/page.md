@@ -1,6 +1,7 @@
 ---
-title: "BlackRock Inc."
-description: "Explore BlackRock Inc.'s leadership in asset management and algorithmic trading with Aladdin leveraging technology to drive investment efficiency and innovation."
+title: Ultimate Guide to BlackRock Inc Investment Management
+description: BlackRock Inc outlines its investment strategies ESG focus and risk management
+  to help clients grow assets with confidence Discover more inside.
 ---
 
 

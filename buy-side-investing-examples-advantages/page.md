@@ -1,6 +1,7 @@
 ---
-title: "Buy Side Investing: Examples and Advantages"
-description: "Explore the advantages and examples of buy-side investing and algorithmic trading Discover how technology optimizes portfolios in a competitive market"
+title: Essential Buy Side Investing Strategies For Portfolio Growth
+description: Buy side investing offers expert insights and advanced strategies to
+  build diversified portfolios using deep research and risk tools Discover more inside.
 ---
 
 

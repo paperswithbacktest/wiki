@@ -1,6 +1,7 @@
 ---
-title: "Calculating Year-to-Date Return on Investment Portfolio"
-description: "Explore calculating year-to-date ROI on investment portfolios, learn how algorithmic trading enhances performance, and master techniques for optimal outcomes."
+title: Essential YTD Return Calculation for Investment Portfolios
+description: YTD return tracks your portfolio growth since January 1 including dividends
+  and withdrawals to offer a clear performance snapshot Discover more inside.
 ---
 
 

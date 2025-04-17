@@ -1,6 +1,7 @@
 ---
-title: "Calculating Yield to Maturity Using Microsoft Excel"
-description: "Learn how to calculate yield to maturity (YTM) in Excel for better bond investment decisions and algorithmic trading strategies. Master bond analytics."
+title: Essential Guide to Calculating Yield to Maturity in Excel
+description: Yield to Maturity in Excel guides you through using the YIELD function
+  and Goal Seek to calculate precise bond returns with confidence Discover more inside
 ---
 
 

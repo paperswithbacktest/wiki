@@ -1,6 +1,7 @@
 ---
-title: "Build America Bonds: Types, Restrictions, and Comparison with Other Bonds"
-description: "Explore the significance of Build America Bonds (BABs) including their types restrictions and comparison with other bonds in the context of algorithmic trading strategies."
+title: The Essential Guide to Build America Bonds Explained
+description: Build America Bonds offer taxable municipal financing with federal subsidies
+  that lower borrowing costs and broaden investor appeal. Discover more inside.
 ---
 
 

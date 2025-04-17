@@ -1,6 +1,7 @@
 ---
-title: "Calculation and Importance of Net Debt"
-description: "Discover the calculation and significance of net debt in financial analysis and algorithmic trading enhance your understanding of corporate leverage and risk management."
+title: Ultimate Guide to Net Debt for Business Financial Health
+description: Net debt shows true obligations of a company after cash offsets and guides
+  investors on risk assessment and debt reduction Discover more inside.
 ---
 
 

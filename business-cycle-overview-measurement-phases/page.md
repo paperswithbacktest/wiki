@@ -1,6 +1,7 @@
 ---
-title: "Business Cycle: Overview, Measurement, and Phases"
-description: "Understand the business cycle's impact on economic trends and trading strategies by exploring its phases and measurement methods to optimize financial decisions."
+title: Ultimate Business Cycle Guide to Phases and Indicators
+description: Business cycle insights help you understand expansions contractions and
+  key indicators to plan for economic ups and downs Discover more inside
 ---
 
 

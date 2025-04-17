@@ -1,6 +1,7 @@
 ---
-title: "Bond Buyer 11: Analysis and Criticisms"
-description: "Explore the dynamics of the Bond Buyer 11 index and algorithmic trading in the municipal bond market Discover how they shape investment strategies and yields"
+title: Essential Guide to the Bond Buyer 11 Municipal Bond Index
+description: Bond Buyer 11 tracks yields of 11 municipal general obligation bonds
+  to benchmark market trends and guide investor decisions. Discover more inside.
 ---
 
 

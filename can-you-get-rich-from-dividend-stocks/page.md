@@ -1,6 +1,7 @@
 ---
-title: "Can You Get Rich from Dividend Stocks?"
-description: Discover how integrating dividends into algorithmic trading strategies can enhance profitability. Explore the potential for dividend stocks to contribute to wealth accumulation by understanding their role in trading algorithms and optimizing strategies for improved financial returns.
+title: Ultimate Guide to Dividend Stocks for Algorithmic Traders
+description: Dividend stocks deliver steady income and growth with proven strategies
+  for yield analysis, reinvestment and risk management. Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Brokered Market: Overview and Mechanism"
-description: "Explore brokered markets algorithmic trading and financial structures Learn how they facilitate transactions liquidity and the interplay within today's financial markets"
+title: Essential Guide to Brokered Markets for Efficient Trading
+description: Brokered market connects buyers and sellers through expert brokers who
+  ensure fair pricing and smooth efficient transactions. Discover more inside.
 ---
 
 

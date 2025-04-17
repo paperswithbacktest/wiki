@@ -1,6 +1,7 @@
 ---
-title: "Cambodian Riel (KHR)"
-description: "Explore algo trading of the Cambodian Riel (KHR) and harness the dynamic potential of the currency in forex markets with state-of-the-art trading techniques."
+title: Ultimate Guide to Cambodian Riel Currency and Algo Trading
+description: Cambodian Riel guide explains its history stability and outlines proven
+  algo trading strategies to optimize forex trades Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Calculating Free Cash Flow in Excel"
-description: "Learn how to calculate Free Cash Flow in Excel to analyze financial performance effectively Enhance investment strategies and algorithmic trading outcomes"
+title: Ultimate Guide to Calculating Free Cash Flow in Excel
+description: Free cash flow shows the cash left after expenses and investments so
+  you can evaluate financial health and fund growth Discover more inside now
 ---
 
 

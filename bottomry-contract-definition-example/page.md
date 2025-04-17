@@ -1,6 +1,7 @@
 ---
-title: "Bottomry Contract: Definition and Example"
-description: "Explore the fascinating world of bottomry contracts and their evolution into modern marine insurance and algorithmic trading, enhancing risk management today."
+title: Essential Guide to Bottomry Contracts in Maritime Lending
+description: Bottomry contract funding lets ship owners secure capital using their
+  vessels as collateral while shifting voyage risk to lenders Discover more inside
 ---
 
 

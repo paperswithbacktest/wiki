@@ -1,6 +1,7 @@
 ---
-title: "Bucketing (Machine Learning)"
-description: "Bucketing in machine learning groups continuous data into discrete bins improving model performance by simplifying analysis and reducing outlier impact."
+title: The Ultimate Guide to Bucketing in Machine Learning
+description: Bucketing in machine learning simplifies continuous data into clean categories
+  to minimize outliers and enhance model performance Discover more inside.
 ---
 
 ![Image](images/1.png)

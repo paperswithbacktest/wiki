@@ -1,6 +1,7 @@
 ---
-title: "Bookout: Definition and Functionality"
-description: "Explore bookout functionality in algo trading and its role in enhancing trade efficiency and risk management by closing positions before maturity."
+title: The Ultimate Guide to Bookout in Oil, Gas and Finance
+description: Bookout streamlines oil gas and financial trades by updating ownership
+  records to save time and cost and boost trading efficiency Discover more inside.
 ---
 
 

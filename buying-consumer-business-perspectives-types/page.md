@@ -1,6 +1,7 @@
 ---
-title: "Buying: Consumer and Business Perspectives and Types"
-description: "Explore the intersection of business and consumer purchasing behavior and the impact of algorithmic trading on decision-making in today's dynamic market landscape."
+title: Ultimate Guide to Consumer and B2B Buying Processes
+description: Consumer buying and business buying processes show unique drivers and
+  steps in clear detail to help you optimize purchasing decisions Discover more inside
 ---
 
 

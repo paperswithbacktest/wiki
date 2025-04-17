@@ -1,6 +1,7 @@
 ---
-title: "Brownian Motion"
-description: "Explore the application of Geometric Brownian Motion in algorithmic trading with a focus on its mathematical formulation and Python implementation."
+title: Essential Guide to Brownian Motion in Science and Finance
+description: Brownian motion shows how particle collisions drive random movement in
+  fluids and gases across physics chemistry and finance. Discover more inside.
 ---
 
 

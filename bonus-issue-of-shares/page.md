@@ -1,6 +1,7 @@
 ---
-title: "Bonus Issue of Shares"
-description: "Explore how bonus shares, stock issuance, and algorithmic trading impact corporate finance, enhancing shareholder value while maintaining company liquidity."
+title: Essential Guide to Bonus Issue of Shares for Investors
+description: Bonus issue of shares rewards investors with free stock from company
+  reserves while preserving total value and attracting new buyers Discover more inside.
 ---
 
 

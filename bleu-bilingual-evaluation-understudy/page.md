@@ -1,6 +1,7 @@
 ---
-title: "Bleu (Bilingual Evaluation Understudy) (Machine Learning)"
-description: "BLEU is a widely-used metric in machine learning for evaluating machine-generated translations helping to quickly test and improve translation models."
+title: Ultimate Guide to BLEU Score for Machine Translation
+description: BLEU Score explains how to measure machine translation quality using
+  n-gram precision and brevity penalty to benchmark models Discover more inside.
 ---
 
 ![Image](images/1.png)

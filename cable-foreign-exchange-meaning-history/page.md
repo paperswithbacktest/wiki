@@ -1,6 +1,7 @@
 ---
-title: "Cable in Foreign Exchange: Meaning and Historical Context"
-description: "Explore the historical context and significance of 'cable' in forex the GBP/USD pair and how forex algorithmic trading has transformed currency trading."
+title: Essential Guide to the Forex Cable GBP USD Exchange Rate
+description: Forex cable explores GBP USD exchange rate from telegraph origins to
+  modern markets revealing impacts on global trade and investment Discover more inside
 ---
 
 

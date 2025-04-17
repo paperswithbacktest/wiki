@@ -1,6 +1,7 @@
 ---
-title: "Canadian Dollar as Loonie Benchmark"
-description: "Explore the significance of the Canadian Dollar as a global benchmark. Understand its role in finance, algorithmic trading, and the intricate forex market dynamics."
+title: Essential Guide to the Canadian Dollar and Its Global Impact
+description: Canadian dollar performance is driven by oil prices, interest rates and
+  global trends, helping businesses understand currency shifts. Discover more inside.
 ---
 
 

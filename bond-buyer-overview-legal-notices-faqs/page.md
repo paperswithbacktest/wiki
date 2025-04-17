@@ -1,6 +1,7 @@
 ---
-title: "The Bond Buyer: Overview, Legal Notices, And FAQs"
-description: "Discover the intricate world of bond buying as legal notices shape algorithmic trading strategies Essential for navigating today's dynamic financial landscape"
+title: Essential Guide To The Bond Buyer For Municipal Bond Investors
+description: The Bond Buyer provides daily municipal bond market news data and analysis
+  so investors and advisors can make informed decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Calculating Capital Employed from a Balance Sheet"
-description: "Explore calculating capital employed from balance sheets in algo trading highlighting its impact on strategy performance and essential financial metrics."
+title: Essential Guide to Capital Employed Calculation and Analysis
+description: Capital employed helps you measure how effectively a company uses its
+  funds to generate profits by applying key formulas and ratios Discover more inside
 ---
 
 

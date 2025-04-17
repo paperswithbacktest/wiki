@@ -1,6 +1,7 @@
 ---
-title: "Business Cycle Indicators and Key Metrics"
-description: "Unlock trading success by leveraging Business Cycle Indicators in algorithmic strategies Gain insights into economic trends to optimize decisions and mitigate risks"
+title: Essential Guide to Business Cycle Indicators for Forecasting
+description: Business cycle indicators reveal signals of economic shifts through growth
+  and recession so you can plan strategies proactively Discover more inside.
 ---
 
 

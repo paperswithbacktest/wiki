@@ -1,6 +1,7 @@
 ---
-title: "block trading"
-description: "Explore how block trading in stocks, executed through algo trading, enhances order efficiency, lowers costs, and mitigates market impact for significant trades."
+title: Ultimate Guide to Block Trading Strategies and Execution
+description: Block trading lets large investors execute major stock orders privately
+  to minimize price impact and costs while enhancing efficiency Discover more inside
 ---
 
 

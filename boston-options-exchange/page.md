@@ -1,6 +1,7 @@
 ---
-title: "Boston Options Exchange"
-description: "The Boston Options Exchange champions algorithmic trading with its innovative price improvement mechanisms offering speed and precision for optimized trading."
+title: Essential Insider Guide to Trading on Boston Options Exchange
+description: Boston Options Exchange uses Price Improvement Period technology to secure
+  better options prices and faster executions Discover more inside today
 ---
 
 

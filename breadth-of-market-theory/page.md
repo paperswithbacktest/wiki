@@ -1,6 +1,7 @@
 ---
-title: "Breadth of Market Theory"
-description: "Explore how market theory, investment analysis, and algorithmic trading enhance investment strategies by leveraging market breadth to optimize trading decisions."
+title: Ultimate Breadth of Market Theory Guide for Investors
+description: Breadth of Market Theory reveals market health by tracking advancing
+  and declining stocks to guide smarter investment decisions Discover more inside.
 ---
 
 

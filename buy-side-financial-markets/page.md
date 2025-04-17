@@ -1,6 +1,7 @@
 ---
-title: "Buy Side in Financial Markets"
-description: "Explore the benefits of algorithmic trading for buy-side firms in financial markets. Discover how automation enhances investment strategies, efficiency, and performance."
+title: Ultimate Buy-Side Insights for Financial Market Investors
+description: Buy side firms use rigorous research and diversify portfolios to grow
+  client assets while effectively managing risk and regulations Discover more inside
 ---
 
 

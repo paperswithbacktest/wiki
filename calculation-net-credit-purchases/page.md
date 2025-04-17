@@ -1,6 +1,7 @@
 ---
-title: "Calculation of Net Credit Purchases"
-description: "Explore how accurate calculation of net credit purchases in accounting enhances algorithmic trading strategies transforming financial agility and market efficiency."
+title: Essential Guide to Calculating Net Credit Purchases Accurately
+description: Net credit purchases calculation helps businesses track what they owe
+  after returns and discounts and improve cash flow management. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Bulldog Bond: Characteristics and Function"
-description: "Discover Bulldog Bonds issued in the UK by foreign corporations and the role of algorithmic trading in optimizing bond market efficiency and liquidity."
+title: Insider Guide to Bulldog Bonds in the Thriving UK Market
+description: Bulldog Bonds give foreign issuers access to the UK market with flexible
+  terms and portfolio diversification for investors Discover more inside.
 ---
 
 

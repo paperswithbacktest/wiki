@@ -1,6 +1,7 @@
 ---
-title: "Calculating Tier 1 Capital Ratio"
-description: "Explore the significance of Tier 1 capital ratio in banking stability and its role in regulatory compliance and algorithmic trading for sound financial operations."
+title: Essential Guide to Tier 1 Capital Ratio for Bank Stability
+description: Tier 1 Capital Ratio shows banks how to measure core equity against risk
+  weighted assets to maintain stability and guide decisions Discover more inside.
 ---
 
 

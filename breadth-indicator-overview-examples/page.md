@@ -1,6 +1,7 @@
 ---
-title: "Breadth Indicator: Overview and Examples"
-description: "Explore the role of breadth indicators in algorithmic trading to understand market sentiment and dynamics. Learn how these tools can enhance trading strategies."
+title: Essential Market Breadth Indicators for Informed Investing
+description: Market breadth indicators reveal stock participation and market health
+  to help investors make informed trading decisions Discover more inside.
 ---
 
 

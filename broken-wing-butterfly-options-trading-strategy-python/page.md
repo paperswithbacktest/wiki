@@ -1,6 +1,7 @@
 ---
-title: "Broken Wing Butterfly Options Trading Strategy in Python"
-description: Discover the Broken Wing Butterfly options trading strategy in Python, an innovative technique for optimizing algorithmic trading outcomes. This advanced strategy enhances the traditional Butterfly Spread by generating net credit and offers an asymmetrical risk-reward profile, making it suitable for traders to exploit specific market conditions. Explore its setup, profitability potential, and risk management, providing valuable insights for incorporating this method into your algo trading practice for effectively navigating complex market landscapes.
+title: Ultimate Broken Wing Butterfly Options Trading Guide
+description: Broken Wing Butterfly options strategy shows profit from directional
+  stock moves and controls risk with Python simulations. Discover more inside.
 ---
 
 

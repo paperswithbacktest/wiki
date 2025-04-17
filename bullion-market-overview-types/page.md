@@ -1,6 +1,7 @@
 ---
-title: "Bullion Market Overview and Types"
-description: "Explore the dynamic world of gold and bullion markets enhanced by algorithmic trading, offering savvy investors a cutting-edge approach to capitalizing on market opportunities."
+title: Essential Guide to the Global Bullion Market and Investment
+description: Bullion market offers a safe investment in gold silver platinum and palladium
+  with insights on price drivers risks and strategies Discover more inside.
 ---
 
 

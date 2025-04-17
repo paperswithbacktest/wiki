@@ -1,6 +1,7 @@
 ---
-title: "Bundesbank: Structure and Function"
-description: "Explore the interplay between Germany's Bundesbank monetary policies and algorithmic trading's rise highlighting impacts on market liquidity and economic stability."
+title: Essential Guide to Germany's Bundesbank Functions and Roles
+description: Bundesbank ensures stable prices, liquidity and bank safety in Germany
+  by overseeing monetary policy and financial supervision Discover more inside.
 ---
 
 

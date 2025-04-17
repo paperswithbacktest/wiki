@@ -1,6 +1,7 @@
 ---
-title: "Calibration Layer (Machine Learning)"
-description: "Enhance your machine learning model's reliability with a calibration layer ensuring accurate probability predictions for improved decision-making and trust."
+title: Ultimate Guide to Calibration Layers in Machine Learning
+description: Calibration layer improves model prediction reliability by aligning confidence
+  scores with actual outcomes in healthcare and finance. Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

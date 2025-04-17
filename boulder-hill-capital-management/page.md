@@ -1,6 +1,7 @@
 ---
-title: "Boulder Hill Capital Management"
-description: "Discover Boulder Hill Capital Management's innovative approach to algorithmic trading established in 2021 by industry veterans focused on risk management and growth."
+title: Proven Investment Solutions from Boulder Hill Capital Management
+description: Boulder Hill Capital Management delivers tailored investment strategies
+  that safeguard growth optimize risk and align with ESG values Discover more inside
 ---
 
 

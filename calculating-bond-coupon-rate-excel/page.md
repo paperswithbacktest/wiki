@@ -1,6 +1,7 @@
 ---
-title: "Calculating a Bond's Coupon Rate Using Excel"
-description: "Learn to calculate bond coupon rates using Excel by setting up precise formulae, enabling effective analysis for algo trading strategies and informed decisions."
+title: Essential Guide to Calculating Bond Coupon Rate in Excel
+description: Bond coupon rate in Excel shows how to divide annual coupon payment by
+  face value then format the result for accurate interest returns Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Calculating R-Squared in Excel"
-description: "Learn how to calculate R-Squared in Excel to enhance your algorithmic trading strategies. Master regression models to improve financial predictions."
+title: Essential Excel R-Squared Guide for Statistical Analysis
+description: Excel R-Squared walkthrough shows how to calculate interpret and optimize
+  model fit in Excel with step by step instructions Discover more inside
 ---
 
 

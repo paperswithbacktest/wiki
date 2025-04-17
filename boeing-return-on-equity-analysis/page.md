@@ -1,6 +1,7 @@
 ---
-title: "Boeing's Return on Equity Analysis"
-description: "Explore Boeing's financial health through an in-depth analysis of its Return on Equity ROE trends and compare them with competitors like Airbus and Lockheed Martin."
+title: Essential Guide to Boeing's Return on Equity Performance
+description: Return on Equity shows how Boeing's financial choices shape shareholder
+  profits and risk, with tips to boost ROE and manage debt. Discover more inside
 ---
 
 

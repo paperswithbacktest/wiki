@@ -1,6 +1,7 @@
 ---
-title: "List of Canadian Marijuana Stocks for Investment"
-description: "Invest in Canadian marijuana stocks with algorithmic trading for potential high returns Streamline decision-making and optimize your portfolio in this dynamic market"
+title: Essential Guide to Investing in Canadian Marijuana Stocks
+description: Canadian marijuana stocks offer insights on legal risks market dynamics
+  and financial metrics to guide informed investing Discover more inside.
 ---
 
 

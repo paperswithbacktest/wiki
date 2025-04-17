@@ -1,6 +1,7 @@
 ---
-title: "Broad-Based Weighted Average: Function and Example"
-description: "Explore the significance of broad-based weighted averages in finance and algorithmic trading for investment strategies and shareholder protection against dilution."
+title: Essential Broad-Based Weighted Average Anti-Dilution Guide
+description: Broad-Based Weighted Average protects shareholders by adjusting share
+  prices in down rounds and balances new investor interests Discover more inside
 ---
 
 

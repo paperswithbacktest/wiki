@@ -1,6 +1,7 @@
 ---
-title: "Buy Weakness: Meaning and Mechanism"
-description: "Explore the 'buy weakness' investment strategy in algo trading to capitalize on market retracements and price undervaluations using sophisticated algorithms."
+title: Insider Strategies for Buying Weakness in Investing
+description: Buying weakness lets investors target undervalued assets during downturns
+  by combining technical indicators and fundamental research Discover more inside.
 ---
 
 

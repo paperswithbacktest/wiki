@@ -1,6 +1,7 @@
 ---
-title: "Calculating Standard Error in MATLAB"
-description: "Learn to calculate standard error in MATLAB for refining algorithmic trading strategies Enhance trading accuracy through robust statistical analysis"
+title: Essential Guide to Standard Error Calculation in MATLAB
+description: Standard error analysis in MATLAB shows how to calculate sample mean
+  accuracy using built in functions for reliable insights Discover more inside.
 ---
 
 

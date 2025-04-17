@@ -1,6 +1,7 @@
 ---
-title: "Calmar Ratio: Strengths and Weaknesses"
-description: "Explore the strengths and weaknesses of the Calmar Ratio in algorithmic trading, focusing on its role in assessing risk-adjusted returns and optimizing trading strategies."
+title: Ultimate Calmar Ratio Explained for Risk Adjusted Returns
+description: Calmar Ratio gives investors a clear risk adjusted view by comparing
+  annual returns to maximum drawdown for smarter portfolio choices Discover more inside
 ---
 
 

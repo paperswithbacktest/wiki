@@ -1,6 +1,7 @@
 ---
-title: "Calculating Historical Volatility Using Excel"
-description: "Learn to calculate historical volatility using Excel for improved risk management and informed trading decisions in algorithmic strategies. Discover key steps now."
+title: Essential Guide to Calculating Historical Volatility in Excel
+description: Historical volatility in Excel quantifies past price swings through standard
+  deviation of daily returns and annualizing volatility Discover more inside
 ---
 
 

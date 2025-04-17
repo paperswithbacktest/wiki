@@ -1,6 +1,7 @@
 ---
-title: "Buying and Selling Stocks"
-description: "Explore the world of stock trading from traditional methods to advanced algorithmic strategies Learn how technology reshapes markets and investor opportunities"
+title: Essential Stock Investing Guide for Beginners and Beyond
+description: Stock investing essentials in one guide covering order types analysis
+  risk management market trends and proven strategies Discover more inside
 ---
 
 

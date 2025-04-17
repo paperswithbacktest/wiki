@@ -1,6 +1,7 @@
 ---
-title: "Broker Responsibilities for Share Buybacks in Bear Markets"
-description: "Explore brokers' roles in share buybacks within bear markets including algorithmic trading's impact on market dynamics and the investor strategies for volatile periods."
+title: Essential Broker Strategies for Bear Market Share Buybacks
+description: Bear market share buybacks can boost shareholder value when brokers time
+  purchases smartly and maintain compliance with regulations Discover more inside.
 ---
 
 

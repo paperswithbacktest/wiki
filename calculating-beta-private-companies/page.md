@@ -1,6 +1,7 @@
 ---
-title: "Calculating Beta for Private Companies"
-description: "Learn how to calculate beta for private companies in algorithmic trading using industry averages and earnings beta to assess risk without public stock data."
+title: Ultimate Guide to Calculating Beta for Private Companies
+description: Beta for private companies drives better financing decisions by estimating
+  risk with comparable public and bottom up methods Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Bought Deal in Initial Public Offerings"
-description: "Explore how bought deals and algorithmic trading are transforming IPO processes by ensuring speed and certainty while minimizing financing risks for issuers."
+title: Essential Guide to Bought Deal IPOs for Issuing Companies
+description: Bought deal IPO gives companies guaranteed funding and speed while underwriters
+  manage risk Explore key benefits and insights Discover more inside
 ---
 
 

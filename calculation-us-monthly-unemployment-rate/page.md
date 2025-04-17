@@ -1,6 +1,7 @@
 ---
-title: "Calculation of the U.S. Monthly Unemployment Rate"
-description: "Explore the relationship between U.S. unemployment rates and algorithmic trading strategies and discover how labor statistics influence financial markets."
+title: Essential Guide to the US Monthly Unemployment Rate
+description: BLS surveys calculate the US unemployment rate monthly providing clear
+  definitions methods seasonal adjustments and limitations Discover more inside.
 ---
 
 

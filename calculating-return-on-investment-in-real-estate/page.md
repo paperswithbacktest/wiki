@@ -1,6 +1,7 @@
 ---
-title: "Calculating Return on Investment in Real Estate"
-description: "Explore the strategic impact of algorithmic trading on calculating real estate investment returns Discover how tech enhances ROI in property investment"
+title: Essential Guide to Real Estate ROI Calculations and Metrics
+description: Real estate ROI shows how property profits compare to costs by including
+  rental income taxes and key metrics like Cap Rate Discover more inside
 ---
 
 

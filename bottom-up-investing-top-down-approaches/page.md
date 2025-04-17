@@ -1,6 +1,7 @@
 ---
-title: "Bottom-Up Investing and Top-Down Approaches"
-description: "Explore top-down and bottom-up investing alongside algorithmic trading understand their strategies and benefits and learn how to make informed investment decisions."
+title: Essential Guide to Bottom-Up and Top-Down Investing Strategies
+description: Bottom-up investing and top-down analysis explained with clear comparisons
+  and practical steps to build a resilient portfolio. Discover more inside.
 ---
 
 

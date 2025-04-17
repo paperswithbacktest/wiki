@@ -1,6 +1,7 @@
 ---
-title: "Bull Put Spread Options Strategy"
-description: "This page provides an in-depth look at the Bull Put Spread options trading strategy, ideal for investors with a moderately bullish market outlook. It investigates into how algorithmic trading enhances this strategy by optimizing strike prices and managing positions effectively. Learn about creating spreads with limited risk and profit potential through the selling and buying of put options. The article also covers profit and loss scenarios and illustrates how traders can benefit from bullish conditions while navigating market complexities with a well-defined risk profile."
+title: Essential Guide to Bull Put Spread Options Trading Strategies
+description: Bull Put Spread helps you earn net premiums upfront with controlled risk
+  and limit losses in stable to modestly rising markets Discover more inside.
 ---
 
 

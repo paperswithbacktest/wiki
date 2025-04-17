@@ -1,6 +1,7 @@
 ---
-title: "Brexodus and Its Impact on the UK Economy"
-description: "Explore the concept of Brexodus and its profound impact on the UK economy from skilled labor shortages to shifts in financial markets and algorithmic trading."
+title: Essential Brexodus Insights on UK Economic Impact and Beyond
+description: Brexodus reshaped the UK economy by triggering talent and business losses
+  in finance healthcare and slowing GDP growth. Discover more inside.
 ---
 
 

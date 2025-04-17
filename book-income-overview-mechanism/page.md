@@ -1,6 +1,7 @@
 ---
-title: "Book Income: Overview and Mechanism"
-description: "Explore the synergy of accounting and trading in financial markets Discover how book income and algorithmic trading shape decision-making and drive success"
+title: Essential Guide to Understanding Book Income vs Taxable Income
+description: Book Income calculates a companys profit after costs and explains key
+  differences with taxable income to inform investors. Discover more inside
 ---
 
 

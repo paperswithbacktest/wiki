@@ -1,6 +1,7 @@
 ---
-title: "Booking the Basis: Definition and Mechanism"
-description: "Discover how algorithmic trading utilizes the concept of booking the basis to manage risk in futures trading, enhance profitability, and optimize trading strategies."
+title: Insider Guide to Booking the Basis in Commodity Trading
+description: Booking the Basis lets farmers lock in the difference between local cash
+  and futures prices to manage risk and capture gains Discover more inside.
 ---
 
 

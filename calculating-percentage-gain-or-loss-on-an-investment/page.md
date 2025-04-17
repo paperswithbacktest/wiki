@@ -1,6 +1,7 @@
 ---
-title: "Calculating Percentage Gain or Loss on an Investment"
-description: "Learn how to calculate percentage gains or losses on investments and optimize strategies using algorithmic trading for improved accuracy and efficiency."
+title: Ultimate Guide to Calculating Percentage Gain or Loss
+description: Percentage gain or loss reveals investment performance in percent terms
+  with simple steps and examples for accurate results. Discover more inside.
 ---
 
 

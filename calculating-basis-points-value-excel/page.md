@@ -1,6 +1,7 @@
 ---
-title: "Calculating Basis Points Value in Excel"
-description: "Enhance your financial analysis skills by learning how to calculate basis points in Excel, essential for precise algorithmic trading and strategic investment decisions."
+title: Essential Guide to Calculating Basis Points in Excel
+description: Basis points in Excel let you convert small percentage changes into clear
+  metrics with simple formulas for precise analysis Discover more inside
 ---
 
 

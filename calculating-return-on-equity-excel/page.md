@@ -1,6 +1,7 @@
 ---
-title: "Calculating Return on Equity in Excel"
-description: "Learn how to calculate Return on Equity (ROE) in Excel through a step-by-step guide ideal for algorithmic trading to optimize investment strategies effectively."
+title: Essential Excel Guide to Calculating Return on Equity
+description: Return on Equity in Excel helps you calculate profitability with simple
+  formulas data setup and automation while avoiding errors Discover more inside
 ---
 
 

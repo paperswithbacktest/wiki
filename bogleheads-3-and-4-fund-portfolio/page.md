@@ -1,6 +1,7 @@
 ---
-title: "Bogleheads 3- and 4-Fund Portfolio Explained"
-description: Discover the benefits of the Boglehead 3 and 4 Fund Portfolios, rooted in John C. Bogle's principles of simplicity and low-cost investing. Learn how algorithmic trading can enhance these strategies, providing automated portfolio management, risk adjustment, and tax optimization. This approach aims to blend traditional Boglehead methods with modern trading technology to streamline investment management and optimize long-term returns in diverse market conditions.
+title: Essential Bogleheads Portfolio Guide for 3 and 4 Fund Investing
+description: Bogleheads portfolio strategies help you build a low-cost diversified
+  investment plan balancing stocks bonds and real estate Discover more inside
 ---
 
 

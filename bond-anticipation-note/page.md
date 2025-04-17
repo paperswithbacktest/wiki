@@ -1,6 +1,7 @@
 ---
-title: "Bond Anticipation Note"
-description: "Explore the strategic use of Bond Anticipation Notes and algorithmic trading's impact on municipal finance Learn how BANs and advanced trading enhance investments"
+title: Essential Guide To Bond Anticipation Notes For Municipal Funding
+description: Bond Anticipation Notes give municipalities fast access to funds at lower
+  rates backed by future bond sales to jumpstart projects Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Block Functionality in Blockchain"
-description: "Explore the pivotal role of blockchain in algorithmic trading and cryptocurrencies Understanding its security and transparency benefits for modern finance"
+title: Ultimate Guide to Blockchain Block Structure and Security
+description: "Explore how blockchain block structure, security, rewards, block time\
+  \ and layer\u20112 solutions empower network performance Discover more inside"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Canceled Order: Operation and Types"
-description: "Explore the essential role of order cancellation in algorithmic trading and learn about various order types that enhance trading efficiency and flexibility."
+title: Essential Guide to Managing Order Cancellations Effectively
+description: Order cancellation involves fees, delays and costs; discover proven strategies
+  to streamline cancellations and reduce expenses Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Calculating Beta in Excel: Portfolio Mathematics for Investors"
-description: "Learn how to calculate Beta in Excel for effective portfolio management and algorithmic trading Explore investment risk strategies with step-by-step guidance"
+title: Essential Guide to Calculating Stock Beta in Excel
+description: Calculate beta in Excel to assess stock risk and volatility with easy
+  step-by-step instructions using COVAR VAR and SLOPE functions Discover more inside.
 ---
 
 

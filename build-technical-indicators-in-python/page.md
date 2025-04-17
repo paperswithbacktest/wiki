@@ -1,6 +1,7 @@
 ---
-title: "Building Technical Indicators in Python"
-description: Discover how to leverage Python for building technical indicators in algorithmic trading. Enhance your trading strategies by learning to analyze historical price data, identify trends, and generate insights with powerful Python libraries like Pandas, NumPy, and TA-Lib. This comprehensive guide provides practical examples and code snippets, empowering traders to execute orders with increased speed and accuracy. Uncover the tools and techniques needed to optimize trading operations and gain a competitive advantage in the financial markets through technical analysis and Python programming.
+title: Essential Guide to Building Technical Indicators in Python
+description: Technical indicators in Python automate trend analysis with SMA EMA RSI
+  and custom metrics for smarter trading strategies Discover more inside
 ---
 
 

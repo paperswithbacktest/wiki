@@ -1,6 +1,7 @@
 ---
-title: "Calculating Stock Adjusted Closing Price"
-description: "Discover how adjusted closing prices in stock trading offer a true historical view by accounting for dividends and splits crucial for algorithms and trading strategies."
+title: Essential Guide to Adjusted Closing Price for Investors
+description: Adjusted closing price gives investors a clear view of stock performance
+  over time by accounting for dividends splits and mergers Discover more inside.
 ---
 
 

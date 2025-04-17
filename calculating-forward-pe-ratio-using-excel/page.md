@@ -1,6 +1,7 @@
 ---
-title: "Calculating Forward P/E Ratio Using Excel"
-description: "Learn how to use Excel to calculate the Forward P/E ratio a key metric for assessing stock valuation and managing investment strategies in algo trading."
+title: Essential Guide to Calculating Forward P/E Ratio in Excel
+description: Forward P/E Ratio shows how to value stocks using future earnings and
+  Excel formulas step by step to guide smarter investments Discover more inside
 ---
 
 

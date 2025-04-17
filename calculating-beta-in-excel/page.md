@@ -1,6 +1,7 @@
 ---
-title: "Calculating Beta in Excel"
-description: "Master calculating beta in Excel to assess market risk and enhance trading strategies in this guide This tutorial equips you with essential Excel skills for algo trading"
+title: Insider Essential Guide to Calculating Beta in Excel
+description: Beta in Excel simplifies risk analysis by showing how to gather return
+  data, use SLOPE and COVAR functions, and avoid common errors. Discover more inside.
 ---
 
 

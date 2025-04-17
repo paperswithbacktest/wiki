@@ -1,6 +1,7 @@
 ---
-title: "Bretton Woods Agreement and Its Institutions"
-description: "Explore the impact of the Bretton Woods Agreement on global finance by examining the roles of the World Bank and IMF alongside the rise of algorithmic trading"
+title: Ultimate Bretton Woods Agreement Guide for Global Stability
+description: Bretton Woods Agreement created the IMF and World Bank to stabilize economies
+  and promote global development Discover more inside
 ---
 
 

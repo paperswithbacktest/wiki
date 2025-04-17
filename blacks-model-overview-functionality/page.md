@@ -1,6 +1,7 @@
 ---
-title: "Black's Model: Overview and Functionality"
-description: "Discover Black's Model for options pricing on futures ideal for algorithmic trading Enhance your understanding of derivatives and high-frequency strategies"
+title: Essential Guide to Black's Model for Futures Option Pricing
+description: Black's Model delivers clear insights into pricing options on futures
+  with reliable inputs and practical examples for market use. Discover more inside.
 ---
 
 

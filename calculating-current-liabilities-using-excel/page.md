@@ -1,6 +1,7 @@
 ---
-title: "Calculating Current Liabilities Using Excel"
-description: "Explore how Excel simplifies tracking current liabilities, enhancing liquidity assessment in financial analysis, and learn its significance in algorithmic trading."
+title: Essential Guide to Managing Current Liabilities in Excel
+description: Current liabilities tracking in Excel helps monitor short-term debts,
+  optimize cash flow and generate detailed reports. Discover more inside.
 ---
 
 

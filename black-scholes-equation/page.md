@@ -1,6 +1,7 @@
 ---
-title: "Black-Scholes Equation"
-description: "Explore the intricacies of the Black-Scholes model in algorithmic trading to enhance your option pricing strategies and gain a competitive edge."
+title: Essential Guide to the Black-Scholes Equation for Option Pricing
+description: Black-Scholes Equation guides option pricing by blending stock price
+  volatility risk-free rates and time factors into a robust model Discover more inside
 ---
 
 

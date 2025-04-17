@@ -1,6 +1,7 @@
 ---
-title: "Bursa Malaysia Derivatives Berhad"
-description: "Explore Bursa Malaysia Derivatives' role in global markets with algorithmic trading innovations boosting efficiency and liquidity for investors worldwide."
+title: Essential Guide to Trading Bursa Malaysia Derivatives
+description: Bursa Malaysia Derivatives trading overview helps you navigate products,
+  fees, market rules and manage risk with clarity Discover more inside.
 ---
 
 

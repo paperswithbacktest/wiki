@@ -1,6 +1,7 @@
 ---
-title: "Bond Risk Measurement Using Duration and Convexity"
-description: "Explore the essentials of bond risk management, focusing on duration and convexity, to optimize algorithmic trading strategies for improved portfolio performance."
+title: Essential Bond Risk Measurement Using Duration and Convexity
+description: Bond risk measurement relies on duration and convexity to quantify interest
+  rate sensitivity and optimize portfolio decisions. Discover more inside.
 ---
 
 

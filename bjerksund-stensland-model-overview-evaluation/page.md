@@ -1,6 +1,7 @@
 ---
-title: "Bjerksund-Stensland Model: Overview and Evaluation"
-description: "The Bjerksund-Stensland model provides a sophisticated method for accurately pricing American options by factoring in early exercise features and dividend payments."
+title: Essential Guide to Bjerksund-Stensland American Option Pricing
+description: Bjerksund-Stensland model delivers quick American option valuations by
+  balancing simplicity and accuracy for call pricing Discover more inside.
 ---
 
 

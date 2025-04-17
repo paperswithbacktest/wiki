@@ -1,6 +1,7 @@
 ---
-title: "Calculation of Firm's Credit Sales Percentage"
-description: "Discover how calculating a firm's credit sales percentage and utilizing algorithmic trading can enhance financial health efficiency and market competitiveness."
+title: Essential Guide to Calculating Credit Sales Percentage
+description: Credit sales percentage helps firms see how much revenue relies on credit
+  and optimize policies to balance risk and growth. Discover more inside.
 ---
 
 

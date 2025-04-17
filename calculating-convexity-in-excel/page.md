@@ -1,6 +1,7 @@
 ---
-title: "Calculating Convexity in Excel"
-description: "Learn to calculate bond convexity in Excel and understand its importance in managing interest rate risk and optimizing algorithmic trading strategies."
+title: Ultimate Guide to Calculating Bond Convexity in Excel
+description: Bond convexity analysis shows how your bond prices curve with interest
+  rate shifts and helps you manage risk and optimize returns. Discover more inside.
 ---
 
 

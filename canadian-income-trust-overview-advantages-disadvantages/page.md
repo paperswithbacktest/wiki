@@ -1,6 +1,7 @@
 ---
-title: "Canadian Income Trust: Overview, Advantages, and Disadvantages"
-description: "Explore the strengths and challenges of Canadian Income Trusts, including structure advantages and how 2011 tax reforms transformed their investment appeal."
+title: Essential Guide to Canadian Income Trust Benefits and Risks
+description: Canadian Income Trust investments offer steady income and predictable
+  returns while navigating post-2011 tax rules and market risks Discover more inside.
 ---
 
 

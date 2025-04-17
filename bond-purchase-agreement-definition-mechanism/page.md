@@ -1,6 +1,7 @@
 ---
-title: "Bond Purchase Agreement: Definition and Mechanism"
-description: "Explore the intricacies of Bond Purchase Agreements covering their role in bond issuance, key components, and the influence of algorithmic trading on BPAs."
+title: Ultimate Bond Purchase Agreement Guide For Professionals
+description: Bond purchase agreement clarifies sale terms interest rates covenants
+  and default remedies to protect issuers and investors. Discover more inside.
 ---
 
 

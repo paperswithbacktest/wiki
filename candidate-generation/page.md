@@ -1,6 +1,7 @@
 ---
-title: "Candidate Generation (Machine Learning)"
-description: "Explore candidate generation in machine learning where systems efficiently sift through data to find relevant recommendations quickly. Learn techniques for narrowing options in large datasets."
+title: Essential Guide to Candidate Generation in Machine Learning
+description: Candidate generation in machine learning narrows data into relevant results
+  using collaborative and content-based filtering Discover more inside.
 ---
 
 ![Image](images/1.png)

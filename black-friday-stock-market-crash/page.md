@@ -1,6 +1,8 @@
 ---
-title: "Black Friday Stock Market Crash"
-description: "Explore the influence of financial crises and algorithmic trading on market volatility Learn lessons from historical events like Black Friday for future resilience"
+title: Essential Guide to the Black Friday Stock Market Crash
+description: "Black Friday Stock Market Crash shows how Gould and Fisk\u2019s 1869\
+  \ gold plot sparked a market crash and led to lasting financial rules. Discover\
+  \ more inside."
 ---
 
 

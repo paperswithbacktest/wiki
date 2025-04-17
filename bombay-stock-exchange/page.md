@@ -1,6 +1,7 @@
 ---
-title: "Bombay Stock Exchange"
-description: "Explore the impact of algorithmic trading on the Bombay Stock Exchange BSE the first in Asia and how it reshapes market dynamics with speed and precision"
+title: Ultimate Bombay Stock Exchange Guide for Professional Investors
+description: Bombay Stock Exchange insights on trading processes listing rules market
+  indices and technology innovations for investors Discover more inside.
 ---
 
 

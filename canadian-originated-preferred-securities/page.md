@@ -1,6 +1,7 @@
 ---
-title: "Canadian-Originated Preferred Securities"
-description: "Discover how Canadian-originated preferred securities and algorithmic trading reshape the investment landscape, offering strategic advantages in a tech-driven market."
+title: Proven Benefits of Canadian-Originated Preferred Securities COPs
+description: Canadian-Originated Preferred Securities combine bond-like payouts with
+  equity conversion to balance income and growth managing risk Discover more inside
 ---
 
 

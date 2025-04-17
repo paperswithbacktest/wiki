@@ -1,6 +1,7 @@
 ---
-title: "Bond Coupon Rate Equal to Yield to Maturity"
-description: "Discover the synergy between bond coupon rates and yield to maturity in algo trading to optimize bond investments by leveraging key financial concepts and modern algorithms."
+title: Essential Guide to Bond Coupon Rate and Yield to Maturity
+description: Bond coupon rate vs yield to maturity drives valuation so you can plan
+  returns value bonds and manage interest rate risk Discover more inside.
 ---
 
 

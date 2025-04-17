@@ -1,6 +1,7 @@
 ---
-title: "Calculating the Carrying Value of a Bond"
-description: "Explore the methodologies of bond valuation including carrying value to enhance investment strategies in algo trading and understand financial fundamentals."
+title: Essential Guide to Calculating Bond Carrying Value Accurately
+description: Bond carrying value shows how face value adjustments premiums discounts
+  and amortization reflect true liability in financial statements Discover more inside
 ---
 
 

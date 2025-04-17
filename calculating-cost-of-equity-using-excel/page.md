@@ -1,6 +1,7 @@
 ---
-title: "Calculating Cost of Equity Using Excel"
-description: "Calculate the cost of equity using Excel to enhance financial analysis and optimize trading strategies. Learn to apply CAPM for precise returns assessment."
+title: Essential Guide to Calculating Cost of Equity in Excel
+description: Cost of equity in Excel shows step by step CAPM dividend discount and
+  bond yield methods for precise financial decisions Discover more inside
 ---
 
 

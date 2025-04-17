@@ -1,6 +1,7 @@
 ---
-title: "Calculating the Price-to-Earnings Ratio"
-description: "Discover the significance of the Price-to-Earnings ratio in algorithmic trading and learn how it aids in strategic stock valuations and investment decisions."
+title: Essential Guide to the Price-to-Earnings Ratio for Investors
+description: Price-to-Earnings ratio offers investors a clear measure to assess stock
+  value and compare peers across sectors for smarter decisions Discover more inside.
 ---
 
 

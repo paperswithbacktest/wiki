@@ -1,6 +1,7 @@
 ---
-title: "Black Swan Events and Investment Impact"
-description: "Explore the impact of black swan events on investments and algorithmic trading Discover strategies to manage risks in financial markets during unpredictable times"
+title: Ultimate Insights Into Black Swan Event Risks For Investors
+description: Black Swan Event shocks can upend portfolios Learn how diversification,
+  reserves and emergency funds build investor resilience Discover more inside
 ---
 
 

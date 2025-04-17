@@ -1,6 +1,7 @@
 ---
-title: "Calculating Sharpe Ratio Using Excel"
-description: "Learn how to calculate the Sharpe Ratio using Excel, an essential financial metric for optimizing algorithmic trading strategies and evaluating risk-adjusted returns."
+title: Ultimate Guide To Calculating Sharpe Ratio In Excel
+description: Sharpe Ratio in Excel helps measure risk-adjusted returns using AVERAGE
+  and STDEV functions to enhance portfolio analysis Discover more inside.
 ---
 
 

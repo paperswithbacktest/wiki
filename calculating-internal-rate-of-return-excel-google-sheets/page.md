@@ -1,6 +1,7 @@
 ---
-title: "Calculating Internal Rate of Return in Excel and Google Sheets"
-description: "Learn how to calculate the Internal Rate of Return (IRR) using Excel and Google Sheets to evaluate investment profitability with step-by-step guidance."
+title: Essential Guide to IRR Calculation Using Excel and Sheets
+description: IRR analysis in Excel and Google Sheets offers clear steps to avoid errors
+  and optimize returns while comparing investments Discover more inside
 ---
 
 

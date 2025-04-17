@@ -1,6 +1,7 @@
 ---
-title: "Calculating Discount Rates in Excel"
-description: "Learn how to effectively calculate discount rates using Excel in algorithmic trading and financial analysis. Explore essential concepts such as net present value and internal rate of return, while leveraging Excel’s powerful functionalities to enhance trading strategies and financial models. Optimize investment decisions by understanding and applying the appropriate discount rates tailored for algorithmic trading environments."
+title: Essential Guide to Calculating Discount Rate in Excel
+description: Discount rate in Excel simplifies present value calculation using RATE
+  NPV IRR XNPV and XIRR for accurate investment analysis Discover more inside
 ---
 
 

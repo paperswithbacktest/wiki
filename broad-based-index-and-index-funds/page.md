@@ -1,6 +1,7 @@
 ---
-title: "Broad-Based Index and Broad Index Funds"
-description: "Discover broad-based index investment indexing funds and algorithmic trading essentials Explore diversification cost-effective strategies and tech advancements"
+title: Essential Guide to Broad-Based Index Funds for Investors
+description: Broad-based index funds offer diversified market exposure with low fees
+  and simple management for steady long-term growth. Discover more inside.
 ---
 
 

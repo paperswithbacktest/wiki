@@ -1,6 +1,7 @@
 ---
-title: "Bosnia and Herzegovina Convertible Mark"
-description: "Explore the integral role of the Bosnia and Herzegovina Convertible Mark (BAM) in algorithmic trading, focusing on its stable euro peg and economic influences."
+title: Essential Guide to the Bosnia and Herzegovina Convertible Mark
+description: Bosnia and Herzegovina Convertible Mark underpins economic stability
+  by pegging to the Euro and boosts trade Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Calculating Variance in Excel"
-description: "Learn how to calculate variance in Excel for algorithmic trading to better gauge risk and performance. Discover essential Excel functions for financial analysis."
+title: Ultimate Guide to Excel Variance Calculations and Analysis
+description: Excel variance helps you gauge data dispersion by walking you through
+  VAR.P VAR.S and manual formulas in a single guide Discover more inside.
 ---
 
 

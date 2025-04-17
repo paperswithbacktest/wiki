@@ -1,6 +1,7 @@
 ---
-title: "Breadth Thrust Indicator"
-description: "Discover the Breadth Thrust Indicator's role in advanced trading strategies Learn how this unique tool predicts bull markets by analyzing stock market momentum"
+title: Essential Guide to the Breadth Thrust Indicator for Investors
+description: Breadth Thrust Indicator tracks advancing stocks over ten days using
+  ratio shifts to signal market momentum and guide informed trades Discover more inside.
 ---
 
 

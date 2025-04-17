@@ -1,6 +1,7 @@
 ---
-title: "Buy-Minus: Overview and Mechanism"
-description: "Explore the innovative buy-minus strategy in algorithmic trading designed for investors seeking new techniques to enhance returns and manage risks. This article provides a comprehensive look at how buy-minus can strategically capitalize on market conditions by buying below-market prices. Learn how algorithmic trading paired with AI and machine learning powers this approach offering insights on successful implementation in volatile markets for smarter trading decisions."
+title: Essential Buy-Minus Strategy for Cutting Losses Proactively
+description: Buy-Minus lets investors cut losses and free capital for smarter new
+  investments by selling assets before deeper declines. Discover more inside.
 ---
 
 

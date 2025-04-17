@@ -1,6 +1,7 @@
 ---
-title: "Busted Convertible Security: Overview and Functionality"
-description: "Explore the intriguing world of busted convertible securities blending debt and equity features for diverse portfolios and strategic algorithmic trading potential."
+title: Essential Guide to Busted Convertible Securities for Investors
+description: Busted convertible securities offer steady interest even when conversion
+  is out of the money. Explore risks strategies and returns Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Candidate Sampling (Machine Learning)"
-description: "Candidate sampling in machine learning improves model training efficiency by focusing on a smaller subset of outcomes rather than all possible outcomes, speeding up computation."
+title: Essential Guide to Candidate Sampling in Machine Learning
+description: Candidate sampling in machine learning speeds up training by focusing
+  on a subset of outcomes to effectively reduce computations Discover more inside.
 ---
 
 ![Image](images/1.png)

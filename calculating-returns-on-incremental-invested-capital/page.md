@@ -1,6 +1,7 @@
 ---
-title: "Calculating Returns on Incremental Invested Capital"
-description: "Discover how to calculate Return on Incremental Invested Capital in algo trading. Learn how this metric enhances investment efficiency and trading strategies."
+title: Essential Guide to Incremental Invested Capital Returns
+description: Incremental invested capital tracks additional funding by measuring new
+  investments against incremental profits to gauge performance Discover more inside.
 ---
 
 

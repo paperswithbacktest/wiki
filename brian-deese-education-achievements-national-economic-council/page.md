@@ -1,6 +1,7 @@
 ---
-title: "Brian Deese: Education and Achievements at the National Economic Council"
-description: "Explore how Brian Deese's expertise at the National Economic Council has shaped U.S. economic policy and the rise of algorithmic trading in financial markets."
+title: "Brian Deese\u2019s Essential Role at the National Economic Council"
+description: Brian Deese drove key economic reforms as NEC Director shaping relief
+  and climate measures to power recovery and stability. Discover more inside.
 ---
 
 

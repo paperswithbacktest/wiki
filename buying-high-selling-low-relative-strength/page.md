@@ -1,6 +1,7 @@
 ---
-title: "Buying High and Selling Low Using Relative Strength"
-description: "Explore the integration of Relative Strength strategy in stock market algorithmic trading to maximize returns by identifying stocks outperforming market indices."
+title: The Essential Guide to Relative Strength Investing Strategy
+description: Relative strength investing helps you use RSI and momentum to pick strong
+  stocks and time trades for consistent returns Discover more inside
 ---
 
 

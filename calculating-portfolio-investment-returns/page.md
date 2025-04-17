@@ -1,6 +1,7 @@
 ---
-title: "Calculating Portfolio Investment Returns"
-description: "Master investment return calculations and optimize your portfolio with algorithmic trading. Learn to evaluate profits, manage risks, and make informed decisions."
+title: The Ultimate Guide To Portfolio Return Calculations
+description: Portfolio returns explained with practical formulas and expert tips to
+  help you assess performance and optimize your investments Discover more inside.
 ---
 
 

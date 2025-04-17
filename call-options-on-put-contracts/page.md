@@ -1,6 +1,7 @@
 ---
-title: "Call Options on Put Contracts"
-description: "Explore the integration of algorithmic trading with financial derivatives like call options and put contracts to enhance trading efficiency and risk management."
+title: Essential Insider Guide to Call Options on Put Contracts
+description: Call options on put contracts let you profit from falling stocks with
+  limited risk by capping your loss to the premium you pay. Discover more inside.
 ---
 
 

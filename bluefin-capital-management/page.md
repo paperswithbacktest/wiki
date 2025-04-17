@@ -1,6 +1,7 @@
 ---
-title: "Bluefin Capital Management"
-description: "Discover how Bluefin Capital Management excels in algorithmic trading using innovative models and global strategies to navigate today's complex financial markets."
+title: Essential Guide to Bluefin Capital Management Investment Strategy
+description: Bluefin Capital Management applies data driven quantitative methods to
+  find smart investment opportunities while managing risk Discover more inside.
 ---
 
 

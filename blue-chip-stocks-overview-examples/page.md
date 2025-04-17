@@ -1,6 +1,7 @@
 ---
-title: "Blue Chip Stocks: Overview and Examples"
-description: "Discover the benefits of investing in blue chip stocks and algorithmic trading High stability and data-driven strategies for diverse investor profiles"
+title: Essential Guide to Blue Chip Stocks for Steady Growth
+description: Blue chip stocks deliver stable returns and steady dividends to help
+  you build a secure long term portfolio with confidence. Discover more inside.
 ---
 
 

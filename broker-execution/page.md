@@ -1,6 +1,8 @@
 ---
-title: "Broker Execution"
-description: "Explore the intricacies of broker execution in algo trading highlighting strategies and technologies that enhance precision, efficiency, and market impact management."
+title: Essential Guide to Broker Execution Methods and Strategies
+description: Broker execution affects trade speed price and fees while explaining
+  order types and slippage with expert insights for optimal trading Discover more
+  inside
 ---
 
 

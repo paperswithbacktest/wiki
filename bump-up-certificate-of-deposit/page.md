@@ -1,6 +1,7 @@
 ---
-title: "Bump-Up Certificate of Deposit"
-description: "Explore the benefits of Bump-Up Certificates of Deposit CDs and how algorithmic trading can enhance returns by adapting to changing interest rates effectively."
+title: Essential Bump-Up CDs for Maximizing Savings Flexibility
+description: Bump-Up CD offers interest rate boosts when bank yields rise giving better
+  returns than fixed CDs compare bump limits anytime and discover more inside.
 ---
 
 

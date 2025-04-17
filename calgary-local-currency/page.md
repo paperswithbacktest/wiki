@@ -1,6 +1,7 @@
 ---
-title: "Calgary Local Currency"
-description: "Explore how Calgary Dollar, a local currency initiative since 1996, could benefit from algorithmic trading to boost efficiency, liquidity, and community resilience."
+title: Essential Guide to Calgary Local Currency Benefits
+description: Calgary Local Currency keeps money in the community by supporting local
+  shops and jobs while boosting neighbor connections Discover more inside.
 ---
 
 

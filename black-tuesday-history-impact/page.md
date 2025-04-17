@@ -1,6 +1,7 @@
 ---
-title: "Black Tuesday: History and Impact"
-description: "Explore Black Tuesday's history and impact on financial markets as it triggered the Great Depression and led to market regulation and modern trading evolution."
+title: Essential Insights Into Black Tuesday Stock Market Crash
+description: Black Tuesday reshaped the US economy in 1929 by triggering the Great
+  Depression and sparking lasting financial reforms. Discover more inside.
 ---
 
 

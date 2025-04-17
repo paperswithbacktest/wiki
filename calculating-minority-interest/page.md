@@ -1,6 +1,7 @@
 ---
-title: "Calculating Minority Interest"
-description: "Explore the significance of minority interest in financial accounting and algorithmic trading Learn how these calculations optimize strategies within today's dynamic market landscape"
+title: Essential Guide to Minority Interest in Financial Reporting
+description: Minority interest clarifies non controlling stakes in subsidiaries to
+  reflect true company value and boost reporting accuracy Discover more inside.
 ---
 
 

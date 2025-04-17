@@ -1,6 +1,7 @@
 ---
-title: "Calculating Bid-Ask Spread"
-description: "Learn to calculate bid-ask spreads essential for algo trading by understanding this concept's impact on liquidity pricing and execution costs."
+title: Essential Guide to Understanding the Bid-Ask Spread
+description: Bid-Ask Spread determines trading costs and liquidity by showing the
+  price gap buyers and sellers accept so you optimize your trades. Discover more inside.
 ---
 
 

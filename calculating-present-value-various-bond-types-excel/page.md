@@ -1,6 +1,7 @@
 ---
-title: "Calculating Present Value of Various Bond Types Using Excel"
-description: "Discover how Excel simplifies bond valuation by assessing present value of future cash flows ideal for understanding investment potential in algorithmic trading."
+title: Essential Excel Guide to Calculating Bond Present Value
+description: Present value of a bond is crucial for smart investing using Excel PV
+  function and yield tools to evaluate and compare bond values Discover more inside
 ---
 
 

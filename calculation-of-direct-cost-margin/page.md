@@ -1,6 +1,7 @@
 ---
-title: "Calculation of Direct Cost Margin"
-description: "Explore the calculation of direct cost margin in algorithmic trading. Learn how understanding direct costs enhances trading strategies and boosts profitability."
+title: Essential Guide to Maximizing Your Direct Cost Margin
+description: Direct Cost Margin shows how much revenue remains after materials and
+  labor to inform smarter pricing decisions and drive profit Discover more inside.
 ---
 
 

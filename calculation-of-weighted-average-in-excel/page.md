@@ -1,6 +1,8 @@
 ---
-title: "Calculation of Weighted Average in Excel"
-description: "Discover how to effectively calculate weighted averages in Excel, crucial for enhancing algorithmic trading strategies and optimizing trade performance."
+title: Essential Guide To Calculating Weighted Averages In Excel
+description: Weighted average in Excel helps you assign importance to data points
+  streamline calculations with SUMPRODUCT and avoid common mistakes Discover more
+  inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Calculating Stock Gains and Losses"
-description: "Learn how to calculate stock gains and losses in algorithmic trading. Understand key concepts like cost basis and transaction fees for sound investment decisions."
+title: Essential Guide to Calculating Stock Gains and Losses
+description: Stock gains and losses explained with clear formulas cost basis tax impact
+  and strategies to optimize returns while minimizing risks Discover more inside
 ---
 
 

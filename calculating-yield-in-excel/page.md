@@ -1,6 +1,7 @@
 ---
-title: "Calculating Yield in Excel"
-description: "Master financial yield calculations using Excel to optimize trading strategies with algorithmic integration Ensure informed investment decisions by leveraging Excel's robust tools."
+title: Essential Excel Techniques For Yield Calculation And Analysis
+description: Excel yield calculation lets you compute investment returns with built
+  in YIELD XIRR and EFFECT functions for accurate analysis Discover more inside
 ---
 
 

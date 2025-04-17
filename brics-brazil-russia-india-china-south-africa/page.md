@@ -1,6 +1,7 @@
 ---
-title: "BRICS: Brazil, Russia, India, China, and South Africa"
-description: "Explore the transformative impact of the BRICS consortium—Brazil, Russia, India, China, and South Africa—on global economic dynamics. Delve into how these nations are reshaping international relations and financial markets through their diverse strengths, ranging from China's manufacturing to Russia's energy resources. Understand the role of technological advancement, especially algorithmic trading, in these rapidly shifting markets. Discover the strategic economic integrations led by BRICS and their implications for global governance, offering new opportunities and challenges for investors and policymakers navigating this evolving economic landscape."
+title: Essential Guide to BRICS Global Influence and Economic Growth
+description: BRICS alliance shapes global economic growth by uniting five economies
+  in trade investment and a shared development bank Discover more inside.
 ---
 
 

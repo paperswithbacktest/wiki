@@ -1,6 +1,7 @@
 ---
-title: "Board Broker"
-description: "Explore the vital roles of brokers and algorithmic trading in modern markets delving into their evolution technology's impact and the future of trading systems."
+title: Essential Board Broker Guide for OTC Market Transactions
+description: Board Broker services simplify OTC share trading by matching buyers and
+  sellers, managing paperwork, and ensuring compliance Discover more inside
 ---
 
 
