@@ -1,6 +1,7 @@
 ---
-title: "Commitments of Traders Report: Function, Categories, and Examples"
-description: "Gain insights into futures market dynamics with the Commitments of Traders report explore its functionality and strategic use in algorithmic trading strategies."
+title: Understanding the Commitments of Traders Report for Futures
+description: Commitments of Traders Report delivers key weekly futures positioning
+  data to reveal market sentiment and potential trends Discover more inside
 ---
 
 

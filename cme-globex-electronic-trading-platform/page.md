@@ -1,6 +1,7 @@
 ---
-title: "CME Globex Electronic Trading Platform"
-description: "Discover how CME Globex revolutionized futures trading with global electronic access, boosting speed and efficiency for high-volume algorithmic trading."
+title: Comprehensive Guide to the CME Globex Trading Platform
+description: CME Globex offers traders 23 hour access to futures and options on a
+  secure platform with risk tools and swift order matching Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Common Debt-to-Equity Ratio for Banks"
-description: "Explore how debt-to-equity ratios influence bank strategies and the role of algorithmic trading in navigating financial metrics for informed decision-making."
+title: Understanding Debt-to-Equity Ratio in Banking Sector
+description: Debt-to-equity ratio reveals how banks balance borrowing and equity to
+  manage risk, set capital targets and comply with regulations. Discover more inside.
 ---
 
 

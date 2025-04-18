@@ -1,6 +1,7 @@
 ---
-title: "Common Gap: Definition and Function"
-description: "Explore how common gaps in algo trading are leveraged for strategic advantage by automating decisions optimizing cost efficiency and minimizing human errors."
+title: Common Gaps in Financial Markets and Trading Strategies
+description: Common gaps in financial markets happen when prices jump between sessions
+  and often fill quickly giving traders timely opportunities. Discover more inside
 ---
 
 

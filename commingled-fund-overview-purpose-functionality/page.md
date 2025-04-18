@@ -1,6 +1,7 @@
 ---
-title: "Commingled Fund: Overview, Purpose, and Functionality"
-description: "Explore how commingled funds and algorithmic trading enhance financial management by providing diversification and efficient trade execution in modern finance."
+title: Understanding Commingled Funds Benefits Risks and Structure
+description: Commingled funds let pension plans and insurers pool assets to diversify
+  risk lower investment costs and access varied markets Discover more inside.
 ---
 
 

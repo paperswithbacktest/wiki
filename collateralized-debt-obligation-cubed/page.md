@@ -1,6 +1,7 @@
 ---
-title: "Collateralized Debt Obligation Cubed"
-description: "Explore the complex world of CDO-Cubed and algorithmic trading Learn about this derivative of derivatives and its role in modern financial markets"
+title: Understanding CDO-Cubed Structure Risks and Investment Benefits
+description: CDO-Cubed analysis reveals how layered debt securities function and the
+  potential risks and rewards for investors Discover more inside today
 ---
 
 

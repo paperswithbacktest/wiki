@@ -1,6 +1,7 @@
 ---
-title: "Clustering (Machine Learning)"
-description: "Discover the basics of clustering in machine learning including k-means and hierarchical methods Understand different algorithms and their applications in data sets"
+title: Comprehensive Guide to Clustering in Machine Learning
+description: Clustering in machine learning groups data into clusters using k-means
+  hierarchical DBSCAN to reveal data patterns and insights Discover more inside
 ---
 
 ![Image](images/1.png)

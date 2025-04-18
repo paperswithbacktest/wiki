@@ -1,6 +1,7 @@
 ---
-title: "Clearing House Interbank Payments System"
-description: "Explore the synergy between the Clearing House Interbank Payments System (CHIPS) and algorithmic trading, highlighting CHIPS' role in facilitating high-volume, large-scale interbank settlements with its efficient netting mechanism. Discover how this critical financial infrastructure enhances liquidity management, reduces operational risk, and supports the rapid transactions essential to modern algorithmic trading environments."
+title: Clearing House Interbank Payments System Secure Transfers
+description: Clearing House Interbank Payments System enables banks to send large
+  international payments securely during US business hours Discover more inside.
 ---
 
 

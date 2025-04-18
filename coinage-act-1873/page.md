@@ -1,6 +1,7 @@
 ---
-title: "Coinage Act of 1873"
-description: "Explore the transformative impact of the Coinage Act of 1873 on monetary policy and its influence on modern algo trading shaping market dynamics today."
+title: Understanding the Coinage Act of 1873 and Its Economic Impact
+description: Coinage Act of 1873 halted silver dollar minting and solidified the gold
+  standard to stabilize the US monetary system. Discover more inside.
 ---
 
 

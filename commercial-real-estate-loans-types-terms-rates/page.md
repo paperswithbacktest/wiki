@@ -1,6 +1,7 @@
 ---
-title: "Commercial Real Estate Loans: Types, Terms, and Rates"
-description: "Explore the types and terms of commercial real estate loans including how algorithmic trading impacts investment strategies in the evolving CRE market."
+title: Key Terms and Requirements for Commercial Real Estate Loans
+description: Commercial real estate loans empower businesses to finance acquisition
+  and construction with flexible terms and competitive rates. Discover more inside
 ---
 
 

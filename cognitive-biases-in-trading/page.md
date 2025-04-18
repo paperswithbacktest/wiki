@@ -1,6 +1,7 @@
 ---
-title: "Cognitive Biases in Trading"
-description: "Explore cognitive biases in algorithmic trading and learn strategies to mitigate their effects for improved decision-making and enhanced trading performance."
+title: Understanding Cognitive Biases to Improve Trading Decisions
+description: Cognitive biases influence every trading decision but you can overcome
+  them with stop-loss orders and diverse research Discover more inside
 ---
 
 

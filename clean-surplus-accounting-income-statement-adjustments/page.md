@@ -1,6 +1,7 @@
 ---
-title: "Clean Surplus Accounting and Income Statement Adjustments"
-description: "Explore how clean surplus accounting and income statement adjustments enhance financial transparency and improve algorithmic trading accuracy in financial markets."
+title: Clean Surplus Accounting For Clear Financial Performance
+description: Clean Surplus Accounting tracks unrealized gains losses and dividends
+  to show equity changes for a clearer performance outlook Discover more inside
 ---
 
 

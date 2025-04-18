@@ -1,6 +1,7 @@
 ---
-title: "Clean Shares: Definition and Mechanism"
-description: "Explore 'clean shares' and 'algorithmic trading' to enhance your investing skills with insights on transparency, cost-efficiency, and automated trading strategies."
+title: Transparent Investing With Clean Shares in Mutual Funds
+description: Clean shares remove sales charges and hidden fees by showing all costs
+  in a clear expense ratio helping investors understand fees Discover more inside.
 ---
 
 

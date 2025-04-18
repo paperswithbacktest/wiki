@@ -1,6 +1,7 @@
 ---
-title: "COMEX: History and Metals Traded"
-description: "Dive into the history of COMEX, a pivotal metals trading hub, and explore how algorithmic trading reshapes strategies within this influential market."
+title: Understanding COMEX Metal Trading And Its Global Influence
+description: COMEX futures trading delivers secure metal deals with strict quality
+  rules transparent global pricing and advanced strategies discover more inside
 ---
 
 

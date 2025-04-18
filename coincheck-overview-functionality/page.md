@@ -1,6 +1,7 @@
 ---
-title: "Coincheck: Overview and Functionality"
-description: "Explore Coincheck's user-friendly platform and advanced algo trading tools for efficient cryptocurrency transactions Discover the latest in financial technology trends"
+title: Coincheck Exchange Guide Account Setup, Trading and Security
+description: Coincheck simplifies trading cryptocurrencies by securing funds with
+  encryption cold storage and clear fee structures for all traders Discover more inside.
 ---
 
 

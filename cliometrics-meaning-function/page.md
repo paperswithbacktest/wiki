@@ -1,6 +1,7 @@
 ---
-title: "Cliometrics: Meaning and Function"
-description: "Explore cliometrics and its impact on algo trading by blending historical data and statistical analysis to enhance modern financial strategies and decision-making."
+title: Principles of Cliometrics for Quantitative Historical Analysis
+description: Cliometrics uses statistical analysis and economic modeling to test historical
+  theories and reveal past trends with data insights Discover more inside.
 ---
 
 

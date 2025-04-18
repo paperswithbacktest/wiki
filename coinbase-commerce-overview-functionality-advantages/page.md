@@ -1,6 +1,7 @@
 ---
-title: "Coinbase Commerce: Overview, Functionality, and Advantages"
-description: "Explore how Coinbase Commerce revolutionizes e-commerce by facilitating secure and efficient cryptocurrency payments while enhancing business agility and broadening market reach."
+title: Accept Cryptocurrency Payments Easily With Coinbase Commerce
+description: Coinbase Commerce helps businesses accept cryptocurrencies like Bitcoin
+  Ethereum with simple setup and secure transactions Discover more inside
 ---
 
 

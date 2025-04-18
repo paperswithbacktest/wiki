@@ -1,6 +1,7 @@
 ---
-title: "Classification Threshold (Machine Learning)"
-description: "Explore how classification thresholds impact machine learning model performance and tailor predictions to prioritize precision or recall based on your specific requirements."
+title: Adjusting Classification Thresholds in Machine Learning Models
+description: Classification threshold helps balance precision and recall in machine
+  learning by customizing decision cutoffs to your application Discover more inside.
 ---
 
 ![Image](images/1.png)

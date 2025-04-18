@@ -1,6 +1,7 @@
 ---
-title: "Command Economy: Pros and Cons"
-description: "Explore the pros and cons of command economies and algorithmic trading. Discover how these distinct systems impact economic stability, innovation, and resource allocation."
+title: Command Economy Fundamentals Key Features and Challenges
+description: Command economy centralizes production and pricing to ensure equal resource
+  distribution yet faces inefficiencies and supply challenges Discover more inside.
 ---
 
 

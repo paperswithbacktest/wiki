@@ -1,6 +1,7 @@
 ---
-title: "Common Forex Trading Risks"
-description: "Explore the common risks associated with forex and algorithmic trading including market volatility leverage effects and system failures to safeguard your investments."
+title: Understanding Forex Trading Risks and Mitigation Strategies
+description: Forex trading risks from volatility and leverage can lead to big losses
+  You can mitigate exposures using hedging and diversification Discover more inside
 ---
 
 

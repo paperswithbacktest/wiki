@@ -1,6 +1,7 @@
 ---
-title: "Combination: Concept, Mechanism, and Example"
-description: "Explore how combinatorics, permutations, and combinations enhance algorithmic trading. Learn to optimize trading strategies and decision-making processes for improved outcomes."
+title: Understanding Mathematical Combinations and Their Applications
+description: Mathematical combinations show how to count unordered selections with
+  factorial formulas and apply in probability and finance Discover more inside
 ---
 
 

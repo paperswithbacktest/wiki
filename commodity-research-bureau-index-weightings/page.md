@@ -1,6 +1,7 @@
 ---
-title: "Commodity Research Bureau Index and Weightings"
-description: "Explore the Commodity Research Bureau Index its components and impact on algo trading Discover how CRBI aids in risk management and strategic investment decisions"
+title: Understanding the Commodity Research Bureau CRB Index
+description: CRB Index tracks futures prices across key commodities to help investors
+  and businesses spot market trends and manage costs Discover more inside.
 ---
 
 

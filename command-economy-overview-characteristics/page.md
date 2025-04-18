@@ -1,6 +1,7 @@
 ---
-title: "Command Economy: Overview and Characteristics"
-description: "Explore command economies and algo trading contrasting state-controlled systems with market-driven innovation in trading analyzing their unique impacts on the economy."
+title: Command Economy Fundamentals Benefits Drawbacks and Examples
+description: Command economy insights on government resource planning, efficiency
+  and innovation impact, pros and cons and real-world examples Discover more inside
 ---
 
 

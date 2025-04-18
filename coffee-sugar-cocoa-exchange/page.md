@@ -1,6 +1,7 @@
 ---
-title: "Coffee, Sugar and Cocoa Exchange"
-description: "Explore the evolution of the Coffee Sugar and Cocoa Exchange into ICE Futures US highlighting the impact of algorithmic trading on modern commodities markets."
+title: Complete Guide to the Coffee, Sugar and Cocoa Exchange
+description: Coffee, Sugar and Cocoa Exchange trading uses futures to stabilize global
+  commodity prices while leveraging digital tools Discover more inside.
 ---
 
 

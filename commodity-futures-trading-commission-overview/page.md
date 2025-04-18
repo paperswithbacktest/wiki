@@ -1,6 +1,7 @@
 ---
-title: "Commodity Futures Trading Commission Overview"
-description: "Learn about the role of the Commodity Futures Trading Commission in regulating futures trading including the impact of algorithmic trading advancements."
+title: Commodity Futures Trading Commission Roles And Market Oversight
+description: Commodity Futures Trading Commission promotes fair transparent futures
+  and options markets with clear rules and active enforcement Discover more inside
 ---
 
 

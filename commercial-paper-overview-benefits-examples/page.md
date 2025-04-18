@@ -1,6 +1,7 @@
 ---
-title: "Commercial Paper: Overview, Benefits, and Examples"
-description: "Explore the role of commercial paper in corporate finance and the impact of algorithmic trading Discover key benefits and examples enhancing financial management."
+title: "Understanding Commercial Paper A Guide to Short\u2011Term Financing"
+description: Commercial paper provides fast unsecured financing for companies and
+  attractive fixed returns for investors based on credit ratings Discover more inside
 ---
 
 

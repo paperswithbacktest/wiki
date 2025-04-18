@@ -1,6 +1,7 @@
 ---
-title: "Collateralized Loan Obligations: Structure, Benefits, and Risks"
-description: "Learn about the structure benefits and risks of Collateralized Loan Obligations CLOs and how algorithmic trading and technology impact this financial instrument"
+title: Understanding Collateralized Loan Obligations Structure and Risks
+description: Collateralized Loan Obligations offer tiered risk and return profiles
+  with expert analysis of structure benefits and risk management Discover more inside
 ---
 
 

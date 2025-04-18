@@ -1,6 +1,7 @@
 ---
-title: "Closet Indexing: Definition, Mechanisms, and Drawbacks"
-description: "Explore closet indexing a strategy where actively managed funds mimic index performance, its mechanisms, and drawbacks. Uncover insights for informed investing."
+title: Closet Indexing Explained Protect Your Portfolio Returns
+description: Closet indexing exposes investors to high fees for near market returns
+  and hidden risks while offering no active edge Discover more inside today
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Collateralized Mortgage Obligation"
-description: "Explore the intersection of mortgage-backed securities and algorithmic trading Learn how technology enhances investment strategies and market efficiency"
+title: Collateralized Mortgage Obligation Tranche Structures Explained
+description: Collateralized Mortgage Obligation tranches let investors balance risk
+  and return across senior mezzanine and equity portfolios Discover more inside
 ---
 
 

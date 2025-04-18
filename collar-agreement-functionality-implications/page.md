@@ -1,6 +1,7 @@
 ---
-title: "Collar Agreement: Functionality and Implications"
-description: "Discover how collar agreements function in algorithmic trading to manage investment risks and protect against market volatility with cost-effective strategies."
+title: Understanding Collar Agreements for Investment Protection
+description: Collar agreement provides a price floor and ceiling with put and call
+  options to protect gains and limit losses for investors. Discover more inside.
 ---
 
 

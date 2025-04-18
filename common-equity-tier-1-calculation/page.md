@@ -1,6 +1,7 @@
 ---
-title: "Common Equity Tier 1 (CET1) and Its Calculation"
-description: "Explore the essentials of Common Equity Tier 1 (CET1) and its calculation in banking regulation and algorithmic trading's impact on financial systems."
+title: Understanding Common Equity Tier 1 Capital Under Basel III
+description: Common Equity Tier 1 establishes a banks core capital buffer to absorb
+  losses and strengthen stability under Basel III regulations Discover more inside
 ---
 
 

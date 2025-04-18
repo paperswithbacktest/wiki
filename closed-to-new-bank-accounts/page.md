@@ -1,6 +1,7 @@
 ---
-title: "Closed To New Bank Accounts"
-description: "Explore the impact of bank account closures on financial strategies with a focus on algorithmic trading Discover risk mitigation and innovative solutions to stay resilient"
+title: Understanding Closed to New Bank Accounts and Your Alternatives
+description: Closed to new bank accounts means a bank is pausing new customer signups
+  so you can grasp service impacts and explore alternatives. Discover more inside.
 ---
 
 

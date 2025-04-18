@@ -1,6 +1,7 @@
 ---
-title: "Cointegrating augmented Dickey-Fuller test"
-description: Explore the Cointegrating Augmented Dickey-Fuller Test, a crucial tool in algorithmic trading for identifying cointegrated pairs and executing pairs trading strategies. CADF enhances trading strategies by detecting mean-reverting relationships in time series data, allowing for effective market-neutral strategies. Learn how this test aids in optimizing hedge ratios and implementing predictive trading algorithms, leveraging historical data analysis and statistical modeling to forecast asset pair movements and exploit market inefficiencies for improved trading performance. Discover the integration of CADF in algorithmic trading systems for enhanced precision and reduced market noise exposure.
+title: Cointegrating Augmented Dickey Fuller Test Explained
+description: Cointegrating Augmented Dickey Fuller Test uncovers long term relationships
+  in time series for reliable modeling and prediction Discover more inside
 ---
 
 

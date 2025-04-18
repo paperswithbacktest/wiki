@@ -1,6 +1,7 @@
 ---
-title: "Clayton Antitrust Act: History, Amendments, and Significance"
-description: "Explore the history, amendments, and significance of the Clayton Antitrust Act in regulating anti-competitive practices and its impact on algorithmic trading."
+title: Clayton Antitrust Act Explained Its Purpose and Impact
+description: Clayton Antitrust Act ensures fair competition by banning secret pricing,
+  curbing anti competitive mergers and safeguarding worker rights Discover more inside.
 ---
 
 

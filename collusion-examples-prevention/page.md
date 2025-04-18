@@ -1,6 +1,7 @@
 ---
-title: "Collusion: Examples and Prevention"
-description: "Explore how algorithmic trading can lead to collusion with real-world examples and learn strategies to prevent unethical practices ensuring market integrity."
+title: Understanding Collusion in Business Markets and Antitrust Laws
+description: Collusion undermines fair competition by enabling secret price fixing
+  and bid rigging that hurt consumers and stifle innovation. Discover more inside.
 ---
 
 

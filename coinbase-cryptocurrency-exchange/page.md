@@ -1,6 +1,7 @@
 ---
-title: "Coinbase (Cryptocurrency Exchange)"
-description: "Discover the synergy of Coinbase's role in crypto trading and blockchain innovations Learn how algorithmic trading shapes the future of digital finance"
+title: Complete Coinbase Guide for Buying Selling and Securing Crypto
+description: Coinbase guides you through account setup fee structures security measures
+  staking and Pro trading tools with clear steps Discover more inside.
 ---
 
 

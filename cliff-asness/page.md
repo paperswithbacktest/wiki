@@ -1,6 +1,7 @@
 ---
-title: "Cliff Asness"
-description: Discover the profound impact of Clifford Asness on hedge fund management and algorithmic trading. Explore how, as co-founder of AQR Capital Management, Asness revolutionized investment strategies with quantitative and data-driven approaches, helping AQR become one of the largest hedge funds. His leadership underscores a shift from traditional methods to an empirical, innovative paradigm that merges academic theory with market application. Learn about Asness's early education, pivotal role at Goldman Sachs, and the genesis of algorithmic trading, all contributing to his status as a key figure in modern finance.
+title: 'Cliff Asness and Quantitative Investing: Strategies and Impact'
+description: Cliff Asness champions quantitative investing using value momentum strategies
+  and robust risk management to enhance returns Discover more inside.
 ---
 
 

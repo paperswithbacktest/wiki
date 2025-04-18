@@ -1,6 +1,7 @@
 ---
-title: "Coinigy Platform"
-description: "Enhance your cryptocurrency trading with Coinigy the premier platform for algorithmic trading. Manage and trade assets seamlessly across multiple exchanges."
+title: Coinigy Platform Centralizes Cryptocurrency Trading Management
+description: Coinigy Platform unifies all cryptocurrency exchanges into a secure dashboard
+  with live charts and alerts for efficient trading Discover more inside
 ---
 
 

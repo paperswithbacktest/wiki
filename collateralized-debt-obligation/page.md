@@ -1,6 +1,7 @@
 ---
-title: "Collateralized Debt Obligation"
-description: "Discover the intricacies of Collateralized Debt Obligations and their connection to securitization and algo trading. Explore how these financial instruments pool assets like loans and bonds, transforming them into tradable securities. Learn about algorithmic trading's role in enhancing speed and efficiency in trading operations. Understand the interplay between CDOs, structured finance, and algo trading, and their combined impact on managing risk, accessing capital, and shaping investment strategies in modern financial markets. This article aims to provide a comprehensive overview of these concepts and their significance in today's economy."
+title: Understanding Collateralized Debt Obligations in Modern Finance
+description: Collateralized Debt Obligation guide outlines structures risks tranches
+  and regulations to help investors make informed decisions Discover more inside
 ---
 
 

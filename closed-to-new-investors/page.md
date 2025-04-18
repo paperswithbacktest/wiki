@@ -1,6 +1,7 @@
 ---
-title: "Closed to New Investors"
-description: "Explore the complexities of investment funds and algorithmic trading Discover strategies and restrictions to maximize returns and navigate the dynamic market environment"
+title: Understanding Funds Closed to New Investors and Their Impact
+description: Closed to New Investors status highlights fund demand and can enhance
+  returns for existing investors explore how to adjust strategy Discover more inside
 ---
 
 

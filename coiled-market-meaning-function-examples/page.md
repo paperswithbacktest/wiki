@@ -1,6 +1,8 @@
 ---
-title: "Coiled Market: Meaning, Function, and Examples"
-description: "Explore the intriguing concept of coiled markets where price tension builds like a compressed spring Discover how algorithmic trading taps into these dynamics for strategic gains"
+title: Understanding The Coiled Market For Steel And Aluminum Coils
+description: Coiled Market fundamentals explained with insights on pricing supply
+  and demand to help businesses optimize coil sourcing and planning Discover more
+  inside
 ---
 
 

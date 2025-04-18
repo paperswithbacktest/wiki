@@ -1,6 +1,7 @@
 ---
-title: "Clintonomics: Overview and Criticism"
-description: "Explore Clintonomics a blend of fiscal strategies and free trade policies from Bill Clinton's presidency its legacy in economic growth and modern algorithmic trading."
+title: 'Clintonomics: Fiscal Strategies Driving 1990s Growth'
+description: Clintonomics redefined fiscal policy with deficit cutting tax hikes deregulation
+  education funding to drive 1990s growth and jobs Discover more inside
 ---
 
 

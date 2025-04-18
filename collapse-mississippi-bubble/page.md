@@ -1,6 +1,7 @@
 ---
-title: "Collapse of the Mississippi Bubble"
-description: "Explore the early 18th-century Mississippi Bubble its financial innovations and speculative fervor providing insights for modern algorithmic trading and economic stability."
+title: Origins and Consequences of the Mississippi Bubble in France
+description: Mississippi Bubble cost countless investors and reshaped the French economy
+  as shares collapsed under speculation risks. Discover more inside.
 ---
 
 

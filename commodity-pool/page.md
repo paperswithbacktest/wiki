@@ -1,6 +1,7 @@
 ---
-title: "Commodity Pool"
-description: "Discover the benefits of algorithmic trading and commodity pools in optimizing investment strategies for enhanced market exposure and risk management."
+title: Understanding Commodity Pools For Raw Material Investors
+description: Commodity pools let small investors access oil gold and agricultural
+  markets with professional management to diversify risk Discover more inside
 ---
 
 

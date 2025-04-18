@@ -1,6 +1,7 @@
 ---
-title: "Coefficient of Variation and Its Importance to Investors"
-description: "Discover how the Coefficient of Variation aids investors by evaluating risk-adjusted returns, enhancing investment analysis, and optimizing algorithmic trading strategies."
+title: Investment Risk Assessment With Coefficient of Variation
+description: Coefficient of Variation quantifies investment volatility relative to
+  average returns guiding risk adjusted comparisons across assets Discover more inside.
 ---
 
 

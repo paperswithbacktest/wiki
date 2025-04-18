@@ -1,6 +1,7 @@
 ---
-title: "Coefficient of Variation: Explanation and Applications"
-description: "Explore how the coefficient of variation and data variability enhance algorithmic trading by assessing risk-reward ratios and improving trading strategies."
+title: Coefficient of Variation Explained and Applied in Data Analysis
+description: Coefficient of variation offers a relative measure of data spread and
+  lets you compare risk and consistency across datasets Discover more inside
 ---
 
 

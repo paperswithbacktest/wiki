@@ -1,6 +1,7 @@
 ---
-title: "Commercial Paper"
-description: "Discover the role of commercial paper and algorithmic trading in money markets offering short-term financing tools for corporations and strategic benefits for traders."
+title: Understanding Commercial Paper Basics Risks and Advantages
+description: Commercial paper offers companies fast short term funding and investors
+  a reliable interest return while outlining risks and processes Discover more inside
 ---
 
 

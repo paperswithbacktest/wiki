@@ -1,6 +1,7 @@
 ---
-title: "CNX Nifty: Overview, Functionality, and Historical Background"
-description: "Explore the CNX Nifty index and its role in the Indian stock market alongside the impact and strategies of algorithmic trading for informed investment decisions."
+title: Understanding the CNX Nifty as a Leading Indian Benchmark Index
+description: "CNX Nifty tracks India\u2019s top 50 companies by free float market\
+  \ cap and delivers real time insights on sector performance Discover more inside."
 ---
 
 

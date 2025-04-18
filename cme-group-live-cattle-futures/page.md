@@ -1,6 +1,7 @@
 ---
-title: "CME Group and Live Cattle Futures"
-description: "Explore the CME Group's role in Live Cattle Futures trading and the impact of algorithmic trading on market dynamics and risk management strategies."
+title: Understanding Live Cattle Futures Trading on CME Group
+description: Live Cattle Futures help farmers and investors manage price risks through
+  fixed contracts on the CME Group marketplace then discover more inside today
 ---
 
 

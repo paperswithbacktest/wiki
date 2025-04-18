@@ -1,6 +1,7 @@
 ---
-title: "Coattail Investing: Mechanism and Example"
-description: "Explore coattail investing and algorithmic trading to enhance your investment strategy gain insights on mimicking successful investors and tech-driven trade execution."
+title: Coattail Investing Strategies For Following Expert Investors
+description: Coattail investing lets you mirror top investors moves to save time and
+  boost confidence while you build your portfolio Discover more inside.
 ---
 
 

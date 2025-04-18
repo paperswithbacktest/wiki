@@ -1,6 +1,7 @@
 ---
-title: "Collaborative Filtering (Machine Learning)"
-description: "Explore how Collaborative Filtering improves machine learning recommendations by predicting user preferences through patterns in community data on platforms like Netflix."
+title: Understanding Collaborative Filtering in Machine Learning
+description: Collaborative Filtering uses user data to deliver precise recommendations
+  tackle cold start challenges and enhance engagement Discover more inside.
 ---
 
 ![Image](images/1.png)

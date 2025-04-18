@@ -1,6 +1,7 @@
 ---
-title: "Closely Held Stock: Overview and Benefits"
-description: "Discover the benefits and challenges of closely held stocks and private company shares and their intersection with algorithmic trading to shape effective investment strategies."
+title: Understanding Closely Held Stock Benefits Challenges and Risks
+description: Closely held stock offers greater control and stability with private
+  share ownership while posing liquidity and valuation challenges Discover more inside.
 ---
 
 

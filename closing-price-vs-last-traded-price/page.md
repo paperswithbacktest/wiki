@@ -1,6 +1,7 @@
 ---
-title: "Closing Price Vs. Last Traded Price"
-description: "Explore the significance of closing and last traded prices in stock trading and how they are used in algorithmic trading strategies to enhance market decisions."
+title: Comparing Closing and Last Traded Prices in Stock Trading
+description: Closing price and last traded price help investors understand end of
+  day and real time trading differences for informed strategies. Discover more inside.
 ---
 
 

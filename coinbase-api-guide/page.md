@@ -1,6 +1,7 @@
 ---
-title: "Coinbase API Guide"
-description: Discover how to enhance your algorithmic trading strategies with this comprehensive guide on the Coinbase API. Explore key features and functionalities that enable seamless integration with automated systems for real-time market data, historical pricing, and account management. Learn how to use this powerful tool to optimize trades, reduce errors, and capitalize on market opportunities in the evolving cryptocurrency landscape. Whether you're a seasoned trader or a tech enthusiast, mastering the Coinbase API can empower your trading operations and increase profitability through data-driven decision-making.
+title: Guide to Coinbase API Integration and Trading Strategies
+description: Coinbase API empowers developers to connect apps for trading, balance
+  checks and advanced features while managing keys and security. Discover more inside.
 ---
 
 

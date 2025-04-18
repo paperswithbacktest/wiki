@@ -1,6 +1,7 @@
 ---
-title: "CME ClearPort Platform"
-description: "CME Group ClearPort enhances futures trading by offering a centralized clearing mechanism for OTC transactions, boosting security and optimizing trade execution."
+title: CME ClearPort Platform Enhancing OTC Trade Safety And Efficiency
+description: CME ClearPort Platform streamlines OTC trade clearing with real-time
+  analytics and risk management tools for safer, more efficient deals Discover more
 ---
 
 

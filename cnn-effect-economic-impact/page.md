@@ -1,6 +1,7 @@
 ---
-title: "CNN Effect and Its Economic Impact"
-description: "Explore how the CNN Effect influences economic markets and impacts algorithmic trading by shaping investor perceptions and driving market dynamics."
+title: Understanding the CNN Effect On Global Economic Policy
+description: Explore how the CNN Effect shapes government and economic decisions in
+  real time driving urgent aid policy shifts and responses. Discover more inside.
 ---
 
 

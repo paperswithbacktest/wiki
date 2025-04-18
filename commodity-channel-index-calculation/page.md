@@ -1,6 +1,7 @@
 ---
-title: "Commodity Channel Index Calculation"
-description: "Learn how to calculate and interpret the Commodity Channel Index (CCI), a significant tool in technical analysis used to identify cyclical price trends and potential buy and sell signals."
+title: Understanding the Commodity Channel Index in Trading
+description: Commodity Channel Index helps traders spot overbought and oversold market
+  conditions by comparing price to its average over time Discover more inside
 ---
 
 

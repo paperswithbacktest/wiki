@@ -1,6 +1,7 @@
 ---
-title: "Committee on Foreign Investment in the United States (CFIUS)"
-description: "Explore how CFIUS regulates foreign investments in U.S. algorithmic trading, safeguarding national security while addressing global investment dynamics."
+title: Committee on Foreign Investment in the United States Explained
+description: CFIUS evaluates foreign investments to safeguard U.S. security while
+  supporting economic growth with mitigation requirements Discover more inside
 ---
 
 

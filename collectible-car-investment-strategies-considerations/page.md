@@ -1,6 +1,7 @@
 ---
-title: "Collectible Car Investment: Strategies and Considerations"
-description: "Discover strategies for investing in collectible cars including pitfalls and innovative methods like algorithmic trading to balance your financial portfolio."
+title: Investing in Collectible Cars Why Condition Rarity and Trends Matter
+description: Collectible car investment strategies cover researching models rarity
+  condition and market trends to maximize returns Discover more inside.
 ---
 
 

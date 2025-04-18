@@ -1,6 +1,7 @@
 ---
-title: "Clinical Trials: Overview and Process"
-description: "Explore the integration of clinical trials and algo trading examining their processes challenges and intersections to unlock synergies in medical investment and innovation."
+title: Comprehensive Guide to Clinical Trials and Research Process
+description: Clinical trials guide testing new treatments safely through each phase
+  with ethical oversight and clear informed consent Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Coinage Act of 1792: History and Requirements"
-description: "Discover the pivotal role of the Coinage Act of 1792 in shaping US monetary policy revolutionizing currency with the US Mint and standardization principles."
+title: Coinage Act of 1792 Lays Foundation for US Currency System
+description: Coinage Act of 1792 established the first US mint in Philadelphia setting
+  coin metals and values to ensure a stable economy Discover more inside.
 ---
 
 

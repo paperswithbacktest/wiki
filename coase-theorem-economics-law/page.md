@@ -1,6 +1,7 @@
 ---
-title: "Coase Theorem in Economics and Law"
-description: "Explore the influence of the Coase Theorem on law, economics, and algo trading Learn how transaction costs shape market dynamics and efficiency."
+title: Understanding the Coase Theorem in Economics and Law
+description: Coase Theorem shows how clear property rights and low transaction costs
+  help resolve conflicts without government intervention Discover more inside
 ---
 
 

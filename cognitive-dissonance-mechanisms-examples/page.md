@@ -1,6 +1,7 @@
 ---
-title: "Cognitive Dissonance: Mechanisms and Examples"
-description: "Explore the role of cognitive dissonance in algorithmic trading Learn how this psychological phenomenon impacts decision-making and trading strategies."
+title: Understanding Cognitive Dissonance Theory and Behavioral Change
+description: Cognitive dissonance explains why conflicting beliefs and actions cause
+  discomfort and drive changes in attitudes and behaviors. Discover more inside.
 ---
 
 

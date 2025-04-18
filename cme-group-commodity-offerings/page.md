@@ -1,6 +1,7 @@
 ---
-title: "CME Group Commodity Offerings"
-description: "Discover CME Group's diverse commodity offerings that shape global markets through advanced algorithmic trading for efficient risk management and market precision."
+title: Guide to CME Group Commodities Trading and Strategies
+description: CME Group commodities trading guide explains futures options account
+  setup risk management strategies and market insights Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Closed-End Mutual Funds Overview"
-description: "Explore the world of closed-end mutual funds and algorithmic trading, understanding their unique features, advantages, and the evolving landscape of investments."
+title: Comprehensive Guide to Investing in Closed-End Mutual Funds
+description: Closed-End Mutual Funds offer fixed share structures and unique discount
+  or premium trading that enhance income and growth Discover more inside.
 ---
 
 

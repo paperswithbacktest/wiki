@@ -1,6 +1,7 @@
 ---
-title: "Closed Virtual Currency: Overview and Criticism"
-description: "Explore closed virtual currencies and their impact on algorithmic trading Discover the benefits and challenges of digital currency in the financial landscape"
+title: Understanding Closed Virtual Currency Features Benefits and Risks
+description: Closed virtual currency lets platforms manage in game economies ensuring
+  fair play and engagement while safeguarding user privacy Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Cognitive and Emotional Investing Bias: Differences"
-description: "Explore the impact of cognitive and emotional biases in algorithmic trading Learn how these biases can affect investment decisions and ways to mitigate them"
+title: Understanding Cognitive and Emotional Biases in Investing
+description: Investment biases can derail returns but spotting cognitive and emotional
+  traps leads to more rational choices for sustained growth Discover more inside
 ---
 
 

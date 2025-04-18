@@ -1,6 +1,7 @@
 ---
-title: "Collapse of The Reserve Fund in Money Market"
-description: "Explore the 2008 financial crisis impact on money markets provoked by the Reserve Fund collapse and examine the rise of algorithmic trading in modern finance."
+title: Lessons From The 2008 Reserve Fund Money Market Collapse
+description: Money market funds invest in short-term debt the Reserve Fund collapse
+  revealed weaknesses leading to stricter safety rules Discover more inside
 ---
 
 

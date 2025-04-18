@@ -1,6 +1,7 @@
 ---
-title: "Coefficient of Determination: Calculation and Interpretation"
-description: "Explore the significance of the coefficient of determination or R-squared in algorithmic trading by evaluating model predictions and improving strategy accuracy."
+title: Understanding Coefficient of Determination in Model Analysis
+description: Coefficient of determination shows variance your model explains and guides
+  evaluation for better predictions and trading performance Discover more inside.
 ---
 
 

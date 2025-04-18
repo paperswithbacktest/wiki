@@ -1,6 +1,7 @@
 ---
-title: "Commodity ETF: Overview and Guide"
-description: "Discover the essentials of Commodity ETFs and algorithmic trading to maximize investment strategies with insight into market dynamics and trading efficiencies."
+title: Understanding Commodity ETFs for Portfolio Diversification
+description: Commodity ETF investing offers straightforward access to commodities
+  while diversifying portfolios and hedging against inflation Discover more inside
 ---
 
 

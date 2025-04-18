@@ -1,6 +1,7 @@
 ---
-title: "Combinatorially symmetric cross-validation (CSCV)"
-description: Discover how Combinatorially Symmetric Cross-Validation (CSCV) enhances trading model validation in algorithmic trading. This advanced technique tackles traditional cross-validation limitations, especially with limited data, to offer an unbiased estimate of model performance. Explore CSCV's role in addressing overfitting and data snooping, ensuring robust model accuracy for more effective trading strategies. Learn about the comprehensive assessment and practical applications of CSCV, enabling traders and data scientists to build reliable models and gain a competitive edge in dynamic financial markets.
+title: Combinatorially Symmetric Cross Validation Explained
+description: Combinatorially symmetric cross validation tests every data split to
+  deliver unbiased model performance insights and predictions Discover more inside.
 ---
 
 

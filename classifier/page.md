@@ -1,6 +1,7 @@
 ---
-title: "Classifier (Machine Learning)"
-description: "Discover the basics of machine learning classifiers and how they categorize data into labels through decision trees SVMs and neural networks for accurate predictions"
+title: Understanding Machine Learning Classifiers and Their Performance
+description: Machine Learning classifiers sort data into categories with precision
+  using SVM bagging and boosting for accurate predictions Discover more inside.
 ---
 
 ![Image](images/1.png)

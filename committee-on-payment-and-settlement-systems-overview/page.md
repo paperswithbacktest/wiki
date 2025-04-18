@@ -1,6 +1,7 @@
 ---
-title: "Committee on Payment and Settlement Systems Overview"
-description: "Discover the evolution of payment systems and algorithmic trading's impact as the Committee on Payments and Market Infrastructures ensures financial stability."
+title: Understanding Committee on Payment and Settlement Systems Roles
+description: Committee on Payment and Settlement Systems provides guidelines and research
+  to strengthen global payment safety and efficiency Discover more inside
 ---
 
 

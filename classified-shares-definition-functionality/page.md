@@ -1,6 +1,7 @@
 ---
-title: "Classified Shares: Definition and Functionality"
-description: "Explore classified shares, their rights, and impact on investor control and returns. Learn how they shape algorithmic trading strategies and corporate governance."
+title: Comprehensive Guide to Classified Shares and Voting Rights
+description: Classified shares allow founders to retain control while raising capital
+  and guide investors on voting rights and governance risks. Discover more inside.
 ---
 
 

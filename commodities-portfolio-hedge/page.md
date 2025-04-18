@@ -1,6 +1,8 @@
 ---
-title: "Commodities as a Portfolio Hedge"
-description: "Explore how commodities, alongside algorithmic trading, can hedge portfolios against inflation, offering diversification and strategic advantages in uncertain markets."
+title: Effective Commodity Hedging for Diversified Investment Portfolios
+description: Commodity hedging stabilizes investment portfolios by offsetting stock
+  bond swings and inflation diversifying assets for balanced returns Discover more
+  inside
 ---
 
 

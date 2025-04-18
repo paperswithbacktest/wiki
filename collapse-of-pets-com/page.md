@@ -1,6 +1,7 @@
 ---
-title: "Collapse of Pets.com"
-description: "Explore the rise and fall of Pets.com during the dot-com bubble highlighting the impact of speculative trading and flawed business models in tech startups."
+title: Pets.com Collapse and Lessons Learned from Dot-Com Boom
+description: Pets.com collapse highlights the need for sustainable profits over rapid
+  growth in e-commerce and offers key lessons for startups Discover more inside
 ---
 
 

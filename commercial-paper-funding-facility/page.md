@@ -1,6 +1,7 @@
 ---
-title: "Commercial Paper Funding Facility"
-description: "Explore how the Commercial Paper Funding Facility supports financial stability through liquidity in markets and the rise of algorithmic trading's influence."
+title: Commercial Paper Funding Facility Securing Market Liquidity
+description: Commercial Paper Funding Facility maintains liquidity by buying commercial
+  paper during market freezes so companies keep running Discover more inside.
 ---
 
 

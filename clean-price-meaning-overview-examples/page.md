@@ -1,6 +1,7 @@
 ---
-title: "Clean Price: Meaning, Overview, and Examples"
-description: "Discover the importance of clean price in bond markets Understand its role in pricing trading and financial strategies with examples for better decisions"
+title: Understanding Clean Price of Bonds for Precise Valuation
+description: Clean price lets investors compare bonds by excluding accrued interest
+  and provides a stable basis for yield and valuation analysis Discover more inside
 ---
 
 

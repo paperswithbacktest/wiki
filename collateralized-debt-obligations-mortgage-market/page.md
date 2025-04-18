@@ -1,6 +1,7 @@
 ---
-title: "Collateralized Debt Obligations and the Mortgage Market"
-description: "Explore the interplay between collateralized debt obligations and the mortgage market in the context of algorithmic trading revealing their economic impacts."
+title: Understanding Collateralized Debt Obligations for Investors
+description: Collateralized Debt Obligations offer a clear breakdown of CDO structures
+  risks and history to help investors make informed decisions Discover more inside.
 ---
 
 

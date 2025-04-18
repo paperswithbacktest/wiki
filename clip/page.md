@@ -1,6 +1,7 @@
 ---
-title: "CLIP (Contrastive Language–Image Pretraining)"
-description: Discover how OpenAI's CLIP model, a groundbreaking AI technology, can revolutionize algo trading by bridging the gap between images and text in complex financial reports. Learn about CLIP's capabilities and potential applications in quantitative finance while addressing current limitations and suggestions for improvement.
+title: Understanding CLIP Contrastive Language-Image Pretraining Model
+description: CLIP uses contrastive learning to link images and text for zero-shot
+  recognition, efficient image search and accessible descriptions Discover more inside.
 ---
 
 

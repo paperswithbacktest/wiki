@@ -1,6 +1,7 @@
 ---
-title: "Clean Float: Mechanism and Limitations"
-description: "Explore the dynamics of clean float exchange rates in the currency market highlighting their advantages and limitations amid the rise of algorithmic trading."
+title: Understanding Clean Float Exchange Rate Systems for Stable Economies
+description: Clean float exchange rate systems let currency values adjust freely based
+  on market forces providing true economic signals and flexibility Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Cliquet Options"
-description: "Explore the world of finance with our guide on investment options and algorithmic trading Learn how tech is revolutionizing trading with precision and speed"
+title: Understanding Cliquet Option Structures Pricing and Risks
+description: Cliquet Option strategies deliver periodic payoffs to lock in gains in
+  volatile markets while managing risk with caps and floors Discover more inside
 ---
 
 

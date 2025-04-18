@@ -1,6 +1,7 @@
 ---
-title: "Common Concerns for ETF Investors"
-description: "Explore the intersection of ETFs and algorithmic trading uncovering benefits like liquidity and risks like market instability to navigate investments efficiently."
+title: Understanding ETFs A Comprehensive Guide for Investors
+description: ETFs offer a simple way to diversify with low costs by bundling stocks
+  bonds and commodities while you trade like a stock Discover more inside.
 ---
 
 

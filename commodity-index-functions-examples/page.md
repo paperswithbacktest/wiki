@@ -1,6 +1,7 @@
 ---
-title: "Commodity Index: Functions and Examples"
-description: "Explore how commodity indices function in algorithmic trading and their role in modern investment strategies enhancing data-driven decision-making and market insights."
+title: Understanding Commodity Indices for Investment and Diversification
+description: Commodity index strategies help investors track raw material price trends
+  and diversify portfolio risk with weighted insights. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Clipping (Machine Learning)"
-description: "Clipping limits the range of data or model parameters in machine learning preventing extreme values from skewing results and stabilizing gradient updates."
+title: Clipping Techniques in Machine Learning for Stable Training
+description: Clipping in machine learning controls extreme data and gradient values
+  to maintain stable training and prevent exploding gradients Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

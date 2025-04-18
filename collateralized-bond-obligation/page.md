@@ -1,6 +1,8 @@
 ---
-title: "Collateralized Bond Obligation"
-description: "Explore the role of bond securitization CBOs and algorithmic trading in modern investment strategies and their impact on global financial markets."
+title: Comprehensive Guide to Collateralized Bond Obligations and Risks
+description: Collateralized Bond Obligations provide a clear breakdown of tranche
+  structures risk factors and investment uses for major institutions Discover more
+  inside
 ---
 
 

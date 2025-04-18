@@ -1,6 +1,7 @@
 ---
-title: "Collateralized Mortgage Obligation Versus Collateralized Bond Obligation"
-description: "Explore the intricate dynamics of CMOs and CBOs amid the rise of algorithmic trading, revealing how these elements optimize financial market efficiency and investor returns."
+title: Collateralized Mortgage and Bond Obligations Explained
+description: Collateralized Mortgage and Bond Obligations pool home loans and bonds
+  into risk based tranches balancing cash flow for investors Discover more inside
 ---
 
 

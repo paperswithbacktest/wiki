@@ -1,6 +1,7 @@
 ---
-title: "Common ETFs Tracking the Banking Sector"
-description: "Explore the interplay of ETFs and algorithmic trading within the banking sector, unlocking insights into modern investment strategies and potential financial growth."
+title: Complete Guide to Banking Sector ETFs for Smart Investors
+description: Banking Sector ETFs offer diversified exposure to top financial institutions
+  with lower fees and risk management strategies included Discover more inside
 ---
 
 

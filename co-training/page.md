@@ -1,6 +1,7 @@
 ---
-title: "Co-Training (Machine Learning)"
-description: "Co-training in machine learning leverages two distinct views of labeled and unlabeled data to iteratively improve classification accuracy, tackling scenarios with scarce labeled data effectively."
+title: Co-Training in Machine Learning Semi-Supervised Methods
+description: Co-training in machine learning uses two distinct feature views and unlabeled
+  data to improve classification accuracy with few labels Discover more inside
 ---
 
 ![Image](images/1.png)

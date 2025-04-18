@@ -1,6 +1,7 @@
 ---
-title: "Closed-End Management Companies: Overview and Operation"
-description: "Discover the unique benefits and operational mechanisms of closed-end management companies and explore how algorithmic trading impacts fund strategies today."
+title: Understanding Closed-End Management Companies and Their Benefits
+description: Closed-End Management Company funds raise fixed capital and trade shares
+  on exchanges to pursue long-term gains with managed risk Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Co-Adaptation (Machine Learning)"
-description: "Co-adaptation in machine learning refers to model components becoming overly reliant on each other during training potentially leading to less robust performance on new data."
+title: Understanding Co-Adaptation in Machine Learning Neural Networks
+description: Co-Adaptation can limit model generalization in ML. Dropout breaks co-dependencies,
+  builds feature diversity and boosts robustness. Discover more inside
 ---
 
 ![Image](images/1.gif)

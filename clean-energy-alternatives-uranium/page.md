@@ -1,6 +1,7 @@
 ---
-title: "Clean Energy Alternatives to Uranium"
-description: "Explore clean energy alternatives to uranium and discover the role of algorithmic trading in optimizing sustainable energy solutions in global markets."
+title: Clean Energy Alternatives to Uranium for Sustainable Power
+description: Clean energy alternatives to uranium power harness solar wind hydro and
+  geothermal to cut waste and emissions Discover more inside
 ---
 
 

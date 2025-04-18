@@ -1,6 +1,7 @@
 ---
-title: "Clearing House Electronic Subregister System"
-description: "Explore how CHESS, operated by the ASX, revolutionizes securities transactions and supports algorithmic trading, enhancing efficiency and security in financial markets."
+title: CHESS Clearing House Electronic Subregister System Explained
+description: CHESS powers secure share ownership tracking and settlement in the Australian
+  market with digital records and corporate actions management Discover more
 ---
 
 
