@@ -1,6 +1,7 @@
 ---
-title: "Contingent Liability: Overview and Examples"
-description: "Discover the intricacies of contingent liabilities and algorithmic trading essential concepts in finance for businesses and investors seeking strategic insights."
+title: Understanding Contingent Liabilities in Financial Reporting
+description: Contingent liabilities reveal financial risks in note disclosures guide
+  when to recognize obligations and inform investors of risks Discover more inside.
 ---
 
 

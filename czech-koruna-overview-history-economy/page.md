@@ -1,6 +1,7 @@
 ---
-title: "Czech Koruna: Overview, Historical Perspective, and Economic Role"
-description: "Explore the Czech Koruna's evolution, its economic impact, and its role in algorithmic trading. Understand its significance in Central Europe."
+title: Comprehensive Guide to the Czech Koruna and Its Economic Impact
+description: Czech Koruna history origins denominations stability management and economic
+  comparisons are detailed in this authoritative overview Discover more inside
 ---
 
 

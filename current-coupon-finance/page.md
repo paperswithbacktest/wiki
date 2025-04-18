@@ -1,6 +1,7 @@
 ---
-title: "Current Coupon in Finance"
-description: "Explore the significance of coupon bonds in finance and the transformative impact of algorithmic trading on bond markets for improved efficiency and precision."
+title: Understanding Current Coupon Rates in Bond Markets
+description: Current coupon shows annual bond income and impacts pricing guiding investors
+  to assess risk compare yields and optimize portfolios Discover more inside
 ---
 
 

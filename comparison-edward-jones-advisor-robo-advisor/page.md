@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Edward Jones Financial Advisor and Robo-Advisor"
-description: "Explore the key differences and advantages of Edward Jones' personalized financial advisory services versus the cost-efficient, automated strategies of robo-advisors."
+title: Comparing Edward Jones and Robo Advisors for Financial Planning
+description: Financial advisor comparison highlights Edward Jones personalized guidance
+  versus robo-advisors automated low-cost investing Discover more inside.
 ---
 
 

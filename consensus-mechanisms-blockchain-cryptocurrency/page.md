@@ -1,6 +1,7 @@
 ---
-title: "Consensus Mechanisms in Blockchain and Cryptocurrency"
-description: "Explore blockchain consensus mechanisms and cryptocurrency algorithmic trading to understand their impact on transaction security and efficiency in the market."
+title: Understanding Consensus Mechanisms in Blockchain Technology
+description: Consensus mechanisms secure blockchain ensuring honest agreement on transactions
+  and network safety with energy efficient protocols. Discover more inside
 ---
 
 

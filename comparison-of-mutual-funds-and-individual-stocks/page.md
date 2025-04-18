@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Mutual Funds and Individual Stocks"
-description: "Discover the pros and cons of mutual funds, individual stocks, and algorithmic trading to make smarter investment decisions that align with your financial goals."
+title: Mutual Funds Vs Individual Stocks Compare Risks And Returns
+description: Mutual funds vs individual stocks guide shows how costs risks and returns
+  compare so you can choose the right investment Discover more inside.
 ---
 
 

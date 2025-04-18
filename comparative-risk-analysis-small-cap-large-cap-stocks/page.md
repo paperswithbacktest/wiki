@@ -1,6 +1,7 @@
 ---
-title: "Comparative Risk Analysis of Small Cap and Large Cap Stocks"
-description: "Discover the risks and rewards of investing in small-cap versus large-cap stocks and explore the impact of algorithmic trading in the volatile stock market."
+title: Analyzing Risk And Returns Of Small Cap And Large Cap Stocks
+description: Small cap stocks offer higher growth potential versus large cap stocks
+  while having greater volatility and risk management is key. Discover more inside.
 ---
 
 

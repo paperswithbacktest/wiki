@@ -1,6 +1,7 @@
 ---
-title: "Current Face: Analysis and Advantages"
-description: "Discover the powerful advantages of algorithmic trading with a focus on high throughput and analyzing 'current face' metrics within mortgage-backed securities."
+title: Understanding Current Face in Mortgage Backed Securities
+description: Current Face defines the real time interest rate of mortgage backed securities
+  tracking changes in loan repayments and refinancing Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Day Trading and Swing Trading"
-description: "Explore the differences between day trading and swing trading in algorithmic trading Learn which strategy suits your investment goals and risk tolerance"
+title: Day Trading and Swing Trading Explained for Informed Investors
+description: Day trading and swing trading comparison highlights key time frames risk
+  profiles and asset choices to guide your investment decisions Discover more inside
 ---
 
 

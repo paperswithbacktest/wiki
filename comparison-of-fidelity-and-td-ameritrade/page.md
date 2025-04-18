@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Fidelity and TD Ameritrade"
-description: "Explore the comprehensive algorithmic trading features of Fidelity and TD Ameritrade Discover which platform meets your investment needs with cutting-edge tools"
+title: Fidelity vs TD Ameritrade Comparison on Fees Tools and Features
+description: Fidelity vs TD Ameritrade offers a detailed side-by-side look at account
+  options fees research tools mobile apps and advanced features Discover more inside
 ---
 
 

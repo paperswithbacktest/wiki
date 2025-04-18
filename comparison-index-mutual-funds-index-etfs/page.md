@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Index Mutual Funds and Index ETFs"
-description: "Compare index mutual funds and index ETFs to understand their unique benefits and differences, including trading, taxation, cost efficiency, and investment strategies."
+title: 'Comparing Index Mutual Funds and ETFs: Key Features and Benefits'
+description: Index mutual funds and ETFs offer cost effective ways to track market
+  performance with distinct trading, fee and tax advantages Discover more inside.
 ---
 
 

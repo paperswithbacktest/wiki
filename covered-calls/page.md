@@ -1,6 +1,7 @@
 ---
-title: "Covered Calls Strategy Explained"
-description: Discover the intricacies of integrating covered call strategies into algorithmic trading. Explore how this popular options trading method may pose challenges due to its capped upside potential, risk/reward profile, and limited effectiveness in rapidly changing markets. Learn why covered calls might not align with algorithms designed to exploit significant market movements and trends. Uncover the complexities and potential drawbacks, equipping traders with insights to make informed decisions about using covered calls within automated trading systems.
+title: Mastering Covered Call Strategy to Generate Extra Income
+description: Covered call strategy helps investors generate extra income and cushion
+  portfolio risk by selling call options on owned stocks Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Contingent Liabilities Accounting Guidelines"
-description: "Explore how accounting standards, contingent liabilities, and algorithmic trading impact financial markets, enhance transparency, and support strategic decisions."
+title: Understanding Contingent Liabilities in Accounting
+description: Contingent liability accounting shows when to record potential obligations
+  under GAAP and IFRS and how to disclose risks in notes Discover more inside
 ---
 
 

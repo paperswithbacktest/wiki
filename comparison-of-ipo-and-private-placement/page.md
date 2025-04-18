@@ -1,6 +1,7 @@
 ---
-title: "Comparison of IPO and Private Placement"
-description: "Compare IPOs and private placements two popular capital-raising strategies for businesses. Learn how algorithmic trading impacts these investment methods."
+title: Key Differences Between IPO and Private Placement Strategies
+description: IPO and Private Placement offer distinct ways for companies to raise
+  capital with unique regulatory and cost differences Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Foreign Portfolio and Foreign Direct Investment"
-description: "Explore the key differences between Foreign Portfolio Investment and Foreign Direct Investment and discover how algorithmic trading influences these strategies."
+title: Understanding Foreign Portfolio Investment Vs Direct Investment
+description: Foreign Portfolio Investment powers short term market activity while
+  Direct Investment builds sustainable economic growth Discover more inside
 ---
 
 

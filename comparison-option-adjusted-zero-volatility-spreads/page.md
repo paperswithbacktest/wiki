@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Option-Adjusted and Zero-Volatility Spreads"
-description: "Explore the distinct roles of Option-Adjusted and Zero-Volatility Spreads in algorithmic trading Learn how these spreads optimize bond analysis and investment strategies"
+title: Option-Adjusted Spread Vs Zero-Volatility Spread Explained
+description: Option-Adjusted Spread and Z-Spread compare bond yields by factoring
+  embedded options or stable rates for clearer insights Discover more inside
 ---
 
 

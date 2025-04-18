@@ -1,6 +1,7 @@
 ---
-title: "Cox-Ingersoll-Ross model"
-description: "Explore the CIR model for interest rate dynamics in algorithmic trading Learn how it captures realistic rate paths and aids in derivative pricing and risk management"
+title: Understanding the Cox-Ingersoll-Ross Interest Rate Model
+description: Cox-Ingersoll-Ross model provides interest rate forecasts and ensures
+  non negative rates for bond pricing and risk management Discover more inside.
 ---
 
 

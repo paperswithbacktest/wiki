@@ -1,6 +1,7 @@
 ---
-title: "Covariance Impact on Portfolio Risk and Return"
-description: "Explore the interplay of risk and return in portfolios through the concepts of covariance and algorithmic trading to optimize investment strategies effectively."
+title: Understanding Covariance for Effective Portfolio Diversification
+description: Covariance helps investors assess how assets move together and balance
+  portfolio risk through strategic diversification. Discover more inside.
 ---
 
 

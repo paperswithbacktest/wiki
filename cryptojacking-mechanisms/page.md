@@ -1,6 +1,7 @@
 ---
-title: "Cryptojacking and Its Mechanisms"
-description: "Explore cryptojacking an escalating threat harnessing unsuspecting computers for illicit crypto mining Learn how it affects you and strategies for protection"
+title: Comprehensive Guide to Preventing Cryptojacking on Devices
+description: Cryptojacking hijacks device power to mine cryptocurrency, slowing systems.
+  Discover how to detect and prevent this threat Discover more inside
 ---
 
 

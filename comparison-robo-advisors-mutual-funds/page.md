@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Robo-Advisors and Mutual Funds"
-description: "Explore the benefits and features of robo-advisors and mutual funds in this detailed comparison to help you make informed investment decisions."
+title: Robo-Advisors vs Mutual Funds Professional Investment Comparison
+description: Robo-advisors offer automated portfolio management with lower fees and
+  automatic tax-loss harvesting while mutual funds rely on professional managers and
+  higher costs Discover more inside
 ---
 
 

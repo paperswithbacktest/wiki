@@ -1,6 +1,7 @@
 ---
-title: "Components of the Nasdaq Composite Index"
-description: "Explore the dynamic relationship between the Nasdaq Composite Index and algorithmic trading to understand their impact on technology stocks and market strategies."
+title: Understanding the Nasdaq Composite Index and Its Market Role
+description: Nasdaq Composite Index tracks over 3000 stocks to reveal tech sector
+  trends and guide investment strategies in volatile markets Discover more inside
 ---
 
 

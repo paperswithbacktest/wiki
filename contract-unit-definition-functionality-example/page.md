@@ -1,6 +1,7 @@
 ---
-title: "Contract Unit: Definition and Functionality with Example"
-description: "Explore how contract units standardize trading in derivatives markets and how algorithmic trading enhances efficiency and precision in modern financial transactions."
+title: Understanding Contract Units In Futures Trading Markets
+description: Contract units specify exact asset amounts in futures and commodity markets
+  to streamline trading and manage risk effectively Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Active and Passive Investing"
-description: "Explore the distinctions between active investing passive investing and algorithmic trading strategies to determine the best fit for your financial goals."
+title: Active Versus Passive Investing Comprehensive Guide for Investors
+description: Active versus passive investing compares costs involvement returns and
+  tax effects to help you choose right strategy for your goals Discover more inside
 ---
 
 

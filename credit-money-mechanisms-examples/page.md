@@ -1,6 +1,7 @@
 ---
-title: "Credit Money: Mechanisms and Examples"
-description: "Explore the critical role of monetary systems and credit money in today's financial landscape plus how algorithmic trading transforms global market dynamics."
+title: Understanding Credit Money Creation And Its Economic Impact
+description: Credit Money boosts economic activity by enabling borrowing and lending
+  via banks and fractional reserves while controlling risks Discover more inside.
 ---
 
 

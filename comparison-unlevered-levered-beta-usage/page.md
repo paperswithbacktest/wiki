@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Unlevered and Levered Beta Usage"
-description: "Explore the crucial differences between unlevered beta and levered beta in algo trading with this informative article. Understand how these metrics aid in risk assessment and investment decisions by measuring a company's risk relative to the market. Learn their relevance in formulating trading strategies that align with specific risk preferences. Gain insights into the calculations and implications of both betas, focusing on their integration into modern finance and algorithmic trading strategies for more sophisticated investment decisions. Enhance your financial knowledge and strategic execution in the evolving landscape of finance."
+title: Calculating and Applying Unlevered and Levered Beta
+description: Unlevered and levered beta help investors assess risk by distinguishing
+  business risk from debt impact and guiding portfolio decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Construction Spending: Measurement and Tracking"
-description: "Discover how construction spending data is used in algorithmic trading to predict market trends and inform investment strategies with economic insights."
+title: Tracking Construction Spending Data For Economic Insights
+description: Construction spending data helps understand project costs and economic
+  trends to guide informed policy and investment decisions Discover more inside
 ---
 
 

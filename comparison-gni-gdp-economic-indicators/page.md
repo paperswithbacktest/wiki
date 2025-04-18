@@ -1,6 +1,7 @@
 ---
-title: "Comparison of GNI and GDP as Economic Indicators"
-description: "Explore how algorithmic trading leverages GNI and GDP as key economic indicators to optimize investment strategies and enhance trading system predictions."
+title: Comparing GNI and GDP Measures for Economic Analysis
+description: GNI and GDP compare national income and domestic output, showing calculation
+  methods differences and guiding economic strategy Discover more inside.
 ---
 
 

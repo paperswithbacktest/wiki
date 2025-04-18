@@ -1,6 +1,7 @@
 ---
-title: "Criticism of the Hodrick-Prescott Filter"
-description: "Explore criticisms of the Hodrick-Prescott Filter used in macroeconomics emphasizing its limitations in algorithmic trading and real-time data processing."
+title: Understanding the Hodrick-Prescott Filter for Economic Analysis
+description: Hodrick-Prescott filter separates long-term trends from short-term cycles
+  in economic data and highlights key limitations Discover more inside
 ---
 
 

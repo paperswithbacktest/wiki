@@ -1,6 +1,7 @@
 ---
-title: "Condensed Financial Statements"
-description: "Unlock the power of financial data with condensed financial statements and algorithmic trading Learn how these tools enhance decision-making and investment strategies"
+title: Understanding Condensed Financial Statements and Their Uses
+description: Condensed financial statements provide a clear snapshot of company financial
+  health with key metrics for quick analysis and reporting Discover more inside
 ---
 
 

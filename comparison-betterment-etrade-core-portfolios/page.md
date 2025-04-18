@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Betterment and E*TRADE Core Portfolios"
-description: "Discover the key differences between Betterment and E*TRADE Core Portfolios, two leading robo-advisors, focusing on their algorithmic trading features and investor benefits."
+title: Comprehensive Comparison Betterment vs E*TRADE Core Portfolios
+description: Betterment vs E*TRADE Core Portfolios compares fees investment options
+  tax strategies and features to guide your choice Discover more inside
 ---
 
 

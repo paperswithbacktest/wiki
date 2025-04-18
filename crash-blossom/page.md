@@ -1,6 +1,7 @@
 ---
-title: "Crash Blossom (Machine Learning)"
-description: "Explore how machine learning tackles language ambiguity using natural language processing techniques to better interpret confusing headlines like Crash Blossoms."
+title: Disambiguating Crash Blossoms in NLP Machine Learning Models
+description: Crash Blossoms create ambiguity in NLP and we explain how context analysis
+  and attention mechanisms help disambiguate headlines Discover more inside
 ---
 
 ![Image](images/1.png)

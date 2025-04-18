@@ -1,6 +1,7 @@
 ---
-title: "Composite Index of Coincident Indicators"
-description: "Explore the role of economic indicators like the Composite Index of Coincident Indicators in algorithmic trading for real-time insights and strategic decisions."
+title: Understanding the Composite Index of Coincident Indicators
+description: Composite Index of Coincident Indicators shows economic health combining
+  employment personal income and production data Discover more inside
 ---
 
 

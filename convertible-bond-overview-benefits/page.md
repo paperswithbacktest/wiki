@@ -1,6 +1,7 @@
 ---
-title: "Convertible Bond Overview and Benefits"
-description: "Explore the benefits of convertible bonds and algorithmic trading as they offer a blend of risk management and growth potential in today's financial landscape."
+title: 'Convertible Bonds Explained: Features Benefits and Risks'
+description: Convertible bonds combine steady interest with the option to convert
+  into stock for upside while protecting against downside Discover more inside
 ---
 
 

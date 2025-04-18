@@ -1,6 +1,7 @@
 ---
-title: "Comparison of ETFs and ETNs"
-description: "Explore the nuances of ETFs and ETNs in algorithmic trading Discover how these investment tools differ in benefits risks and usage for informed financial decisions"
+title: Key Differences Between ETFs and ETNs for Investors
+description: ETFs and ETNs each offer distinct fee risk and tax profiles Explore liquidity
+  credit and cost differences to optimize returns Discover more inside.
 ---
 
 

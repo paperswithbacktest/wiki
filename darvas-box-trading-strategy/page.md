@@ -1,6 +1,7 @@
 ---
-title: "Darvas Box Trading Strategy"
-description: "Discover the powerful Darvas Box Trading Strategy Learn how this trend-following system utilizes price action to identify breakout opportunities for improved gains"
+title: Mastering Darvas Box Trading Strategy for Stock Trends
+description: Darvas Box Trading Strategy reveals buy and sell signals by tracking
+  price breakouts and volume to manage risk and capture trends Discover more inside.
 ---
 
 

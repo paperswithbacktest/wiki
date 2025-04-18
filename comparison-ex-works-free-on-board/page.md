@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Ex Works and Free on Board"
-description: "Explore the intricacies of Ex Works and Free on Board shipping terms in relation to algorithmic trading strategies to enhance global trade efficiency."
+title: Ex Works Vs Free On Board Responsibilities Explained
+description: Ex Works vs Free on Board outline shipping responsibilities risk transfer
+  and cost allocation to help you choose the right Incoterm. Discover more inside.
 ---
 
 

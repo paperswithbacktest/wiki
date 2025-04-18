@@ -1,6 +1,7 @@
 ---
-title: "Convolutional Operation (Machine Learning)"
-description: "Explore how convolutional operations, essential in CNNs for image processing, use filters to detect features like edges, aiding complex pattern recognition."
+title: Understanding Convolutional Operations in Neural Networks
+description: Convolutional operations in CNNs extract key image features by sliding
+  filters to detect patterns and improve predictions Discover more inside
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,7 @@
 ---
-title: "Countries With the Highest Tariffs"
-description: "Explore the impact of tariffs and trade policies on global markets and algorithmic trading Discover how these economic measures shape commerce in a digital era"
+title: Understanding Tariffs Effects on Trade and Domestic Industries
+description: Tariffs increase import costs to protect domestic industries but can
+  spark trade disputes and drive up consumer prices Discover more inside.
 ---
 
 

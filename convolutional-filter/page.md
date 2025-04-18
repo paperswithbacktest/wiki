@@ -1,6 +1,7 @@
 ---
-title: "Convolutional Filter (Machine Learning)"
-description: "Discover how convolutional filters enhance deep learning by identifying patterns in images to boost tasks like object recognition efficiently and effectively."
+title: Understanding Convolutional Filters for Image Feature Extraction
+description: Convolutional filters help neural networks extract image features by
+  detecting edges textures and patterns for robust classification Discover more inside
 ---
 
 ![Image](images/1.png)

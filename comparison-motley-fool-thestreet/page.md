@@ -1,6 +1,7 @@
 ---
-title: "Comparison of The Motley Fool and TheStreet"
-description: "Explore the strengths and differences between The Motley Fool and TheStreet to determine which investment advisory service best aligns with your financial goals."
+title: Comparing The Motley Fool And TheStreet Investment Platforms
+description: The Motley Fool and TheStreet comparison highlights differences in services
+  pricing and investment strategies to guide your choice Discover more inside
 ---
 
 

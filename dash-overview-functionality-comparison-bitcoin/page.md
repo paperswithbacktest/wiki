@@ -1,6 +1,7 @@
 ---
-title: "Dash: Overview, Functionality, and Comparison with Bitcoin"
-description: "Explore the unique features and benefits of Dash compared to Bitcoin, focusing on speed, privacy, and the rising influence of algorithmic trading in the crypto market."
+title: Dash Cryptocurrency Guide Features Governance Speed And Privacy
+description: Dash cryptocurrency provides interactive dashboards private InstantSend
+  transfers and decentralized governance funding model Discover more inside
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Constructing an All-ETF Investment Portfolio"
-description: "Learn how to build an all-ETF investment portfolio using algorithmic trading to enhance returns through diversification and efficient market strategies."
+title: "Building a Diversified All\u2011ETF Investment Portfolio"
+description: "ETF portfolio strategies deliver low\u2011cost broad diversification\
+  \ and help you manage risk while reducing fees, enhancing tax efficiency Discover\
+  \ more inside"
 ---
 
 

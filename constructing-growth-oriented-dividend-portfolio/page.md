@@ -1,6 +1,7 @@
 ---
-title: "Constructing a Growth-Oriented Dividend Portfolio"
-description: "Explore the fusion of dividend investing and algorithmic trading to enhance portfolio growth. Learn how tech innovations boost stability and precision in investment."
+title: Building a Growth-Oriented Dividend Portfolio for Income Growth
+description: Growth-oriented dividend portfolio strategies help investors use compounding
+  and diversification to boost income and capital gains. Discover more inside.
 ---
 
 

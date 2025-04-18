@@ -1,6 +1,7 @@
 ---
-title: "Copy trading"
-description: "Explore how copy trading and algorithmic trading redefine market participation enabling both novice and experienced traders to capitalize on expert strategies."
+title: Copy Trading Essentials Platforms, Strategies and Risk Management
+description: Copy trading enables beginners to mirror expert trades, learn strategies,
+  and manage risk proactively while saving time. Discover more inside.
 ---
 
 

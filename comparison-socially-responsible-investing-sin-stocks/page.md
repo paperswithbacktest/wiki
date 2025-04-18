@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Socially Responsible Investing and Sin Stocks"
-description: "Explore the dynamic interplay between socially responsible investing and sin stocks contrasting ethical priorities with financial gains in the evolving world of investing."
+title: Socially Responsible Investing Versus Sin Stocks Returns
+description: Socially Responsible Investing compares performance ethics and risk profiles
+  with sin stocks to help investors align profit and impact Discover more inside
 ---
 
 

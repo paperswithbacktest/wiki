@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Mutual Fund Style Indices"
-description: "Explore the synergy between mutual fund and index fund strategies with algorithmic trading to maximize returns and manage risk effectively in modern investing."
+title: Mutual Fund Style Indices Explained for Effective Investing
+description: Mutual fund style indices categorize funds by size and style so you can
+  compare returns risk and fees for smarter investment choices Discover more inside
 ---
 
 

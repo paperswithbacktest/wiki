@@ -1,6 +1,7 @@
 ---
-title: "Dataset Api (Tf.Data) (Machine Learning)"
-description: "Explore the TensorFlow Dataset API to efficiently handle data in machine learning pipelines. Create input streams from various sources and process them seamlessly."
+title: Efficient Data Pipelines With TensorFlow Dataset API
+description: TensorFlow Dataset API streamlines data loading, preprocessing and pipelining
+  to boost training efficiency and scalability Discover more inside.
 ---
 
 ![Image](images/1.png)

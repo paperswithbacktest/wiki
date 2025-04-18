@@ -1,6 +1,7 @@
 ---
-title: "Corporate Social Responsibility Trends"
-description: "Explore the intersection of CSR and algorithmic trading with trends like integrating CSR into business strategies, remote work for engagement, and demand for transparency."
+title: Corporate Social Responsibility Strategies for Modern Business
+description: Corporate Social Responsibility boosts reputation and sustainable growth
+  using data tools to track impact and engage stakeholders Discover more inside
 ---
 
 

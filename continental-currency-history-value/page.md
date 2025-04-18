@@ -1,6 +1,7 @@
 ---
-title: "Continental Currency: Meaning, History, and Value"
-description: "Explore the fascinating history of Continental Currency issued during the American Revolutionary War how it rapidly depreciated and its impact on modern finance"
+title: Continental Currency Failure And Lessons For Monetary Management
+description: Continental currency showed how overprinting triggered rapid depreciation
+  and eroded trust. Insights on managing money today Discover more inside
 ---
 
 

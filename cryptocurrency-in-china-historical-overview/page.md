@@ -1,6 +1,7 @@
 ---
-title: "Cryptocurrency in China: A Historical Overview"
-description: "Discover China's profound influence on cryptocurrency markets, exploring the country's historical engagement from early adoption to recent regulatory measures. This insightful article investigates into the evolution of crypto trading in China, highlighting the pivotal role of algorithmic trading within its unique financial landscape. Gain valuable perspectives on how technology, policy, and market dynamics interplay in one of the world's largest economies."
+title: Cryptocurrency Regulations In China From Bitcoin To Digital Yuan
+description: Cryptocurrency in China has evolved through strict government bans and
+  blockchain innovation shaping investment and regulation Discover more inside
 ---
 
 

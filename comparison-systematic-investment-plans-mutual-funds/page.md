@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Systematic Investment Plans and Mutual Funds"
-description: "Learn about Systematic Investment Plans (SIPs), Mutual Funds, and Algo Trading with this comprehensive comparison designed to guide informed investment decisions."
+title: Comparing Systematic Investment Plans And Mutual Funds
+description: Systematic Investment Plan helps you invest small amounts regularly using
+  rupee cost averaging to build disciplined wealth over time Discover more inside.
 ---
 
 

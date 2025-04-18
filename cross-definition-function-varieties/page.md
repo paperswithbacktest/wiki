@@ -1,6 +1,7 @@
 ---
-title: "Cross: Definition, Function, and Varieties"
-description: "Explore the definition, function, and varieties of cross-functional algorithmic trading, a key strategy in modern finance that combines diverse methodologies for optimal trading."
+title: Risk Management in Algorithmic Trading Via Quantitative Research
+description: Algorithmic trading integrates quantitative research and risk management
+  to optimize strategy performance and mitigate volatility. Discover more inside.
 ---
 
 

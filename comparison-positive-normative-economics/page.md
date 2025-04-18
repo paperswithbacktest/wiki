@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Positive and Normative Economics"
-description: "Explore the distinction between positive and normative economics in algorithmic trading. Positive economics focuses on objective data analysis to describe economic events, using empirical evidence without subjective judgments. Normative economics considers value-laden perspectives to address how economies should function based on societal values. This article investigates into how these branches intersect within economic policy and trading technologies, offering insights on their roles in shaping economic analysis and decision-making. Discover how understanding both perspectives enhances the development of trading models and informs policy-making strategies."
+title: Understanding Positive and Normative Economics Distinctions
+description: Positive and normative economics explain how facts and values shape economic
+  analysis and policy decisions with clear examples and expert insights Discover more
+  inside
 ---
 
 

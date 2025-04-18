@@ -1,6 +1,7 @@
 ---
-title: "Currency Convertibility: Meaning and Mechanisms"
-description: "Explore the role of currency convertibility and exchange mechanisms in global finance and discover how algorithmic trading reshapes financial markets."
+title: Understanding Currency Convertibility For Global Trade Stability
+description: Currency convertibility shapes global trade by explaining account rules,
+  IMF support, risk management and stability measures Discover more inside
 ---
 
 

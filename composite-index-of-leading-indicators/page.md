@@ -1,6 +1,7 @@
 ---
-title: "Composite Index of Leading Indicators"
-description: "Explore the intricate world of finance with insights into economic forecasting, leading indicators, indexes, and algorithmic trading to guide informed decisions."
+title: Composite Index of Leading Indicators for Economic Forecasting
+description: Composite Index of Leading Indicators aggregates key economic signals
+  into a clear forecast tool guiding strategic planning Discover more inside
 ---
 
 

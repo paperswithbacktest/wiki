@@ -1,6 +1,7 @@
 ---
-title: "Cornering the market"
-description: "Explore the complexities of market cornering within algorithmic trading, its risks, legal aspects, and how tech innovations and regulations aim to ensure fairness."
+title: Cornering the Market Explained for Businesses and Regulators
+description: Explore cornering the market strategies and risks in this guide covering
+  legal implications competition and economic effects Discover more inside.
 ---
 
 

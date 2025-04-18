@@ -1,6 +1,7 @@
 ---
-title: "Crypto Tokens and Their Functionality"
-description: "Explore the transformative impact of crypto tokens and algorithmic trading in the evolving digital finance landscape enhancing trading efficiency and market opportunities."
+title: Crypto Tokens Explained Types Creation Standards and Tokenomics
+description: Crypto tokens power blockchain ecosystems with utility, governance and
+  security plus token standards, creation methods and tokenomics Discover more inside.
 ---
 
 

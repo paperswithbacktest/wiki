@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Fundrise and CrowdStreet"
-description: "Explore the innovative synergy between real estate crowdfunding platforms like Fundrise and CrowdStreet and the potential of algorithmic trading in enhancing investment strategies."
+title: Comparing Fundrise and CrowdStreet Real Estate Investing
+description: Fundrise vs CrowdStreet lets you compare fees minimums returns and risk
+  profiles to choose the right real estate investment platform Discover more inside
 ---
 
 

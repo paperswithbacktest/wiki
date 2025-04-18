@@ -1,6 +1,7 @@
 ---
-title: "Data Curation"
-description: "Discover how data curation drives algorithmic trading by ensuring high-quality data for fast, precise decision-making with advanced AI and ML techniques."
+title: Data Curation Strategies for Reliable Data Management
+description: Data curation ensures accurate, organized and accessible information
+  for better decision-making and collaboration across teams Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Criteria for Blue Chip Companies"
-description: "Explore the integration of algorithmic trading with blue chip stocks, known for stability and strong market presence, to enhance investment strategies."
+title: Blue Chip Companies Explained for Stable Long Term Investing
+description: Blue chip companies deliver stable returns and reliable dividends through
+  strong financial health and market leadership Discover more inside.
 ---
 
 

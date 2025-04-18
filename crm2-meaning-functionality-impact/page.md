@@ -1,6 +1,7 @@
 ---
-title: "CRM2: Meaning, Functionality, and Impact"
-description: "Explore the role of CRM2 in Canadian financial markets focusing on investment disclosure and its impact on algorithmic trading strategies and transparency."
+title: CRM2 Rules for Clear Investment Fee and Performance Reporting
+description: CRM2 ensures firms disclose all investment fees and performance in clear
+  annual reports to empower investors with actionable insights Discover more inside
 ---
 
 

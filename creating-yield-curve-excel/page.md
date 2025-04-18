@@ -1,6 +1,7 @@
 ---
-title: "Creating a Yield Curve in Excel"
-description: "Master Excel to create and analyze yield curves for algorithmic trading Discover financial modeling techniques to boost your trading accuracy and insights"
+title: Excel Yield Curve Construction and Customization Techniques
+description: Excel yield curve creation covers gathering bond data plotting and customizing
+  curves with charts and automating updates Discover more inside
 ---
 
 

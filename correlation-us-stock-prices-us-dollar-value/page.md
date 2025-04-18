@@ -1,6 +1,7 @@
 ---
-title: "Correlation Between U.S. Stock Prices and U.S. Dollar Value"
-description: "Explore the correlation between U.S. stock prices and the U.S. dollar value and its impact on algorithmic trading, investment strategies, and risk management."
+title: Analyzing Correlation Between US Stock Market and Dollar Value
+description: US stock market and dollar value correlation shows how currency shifts
+  affect equity returns through practical economic theories Discover more inside
 ---
 
 

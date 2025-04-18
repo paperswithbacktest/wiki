@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Brent Crude and West Texas Intermediate"
-description: "Compare Brent Crude and West Texas Intermediate oil benchmarks Understand their roles in global markets and how algorithmic trading impacts oil trading dynamics"
+title: Comparing Brent Crude and West Texas Intermediate Benchmarks
+description: Brent Crude and West Texas Intermediate benchmarks compare extraction
+  sites sulfur levels and pricing drivers to inform trading Discover more inside.
 ---
 
 

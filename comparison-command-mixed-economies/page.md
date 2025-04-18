@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Command and Mixed Economies"
-description: "Explore the differences between command and mixed economies and their effects on algorithmic trading. Understand resource management and market dynamics in both systems."
+title: Key Differences Between Command And Mixed Economies
+description: Command economy and mixed economy comparison explains government control
+  market freedom pros and cons with real world examples Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Currency Exchange Overview and Locations"
-description: "Discover the complexities of currency exchange and the growing role of algorithmic trading in the forex market Learn strategies to enhance international transactions"
+title: Currency Exchange Strategies for International Travelers
+description: Currency exchange helps travelers maximize spending power by comparing
+  rates fees and secure methods like ATMs banks and brokers Discover more inside.
 ---
 
 

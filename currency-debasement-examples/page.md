@@ -1,6 +1,7 @@
 ---
-title: "Currency Debasement and Examples"
-description: "Explore the intricate relationships between currency debasement and algorithmic trading in today's economic landscape. Discover historical and modern examples of debasement, its impact on monetary policy, and how algorithmic trading dynamically adapts to these changes. Learn how investors can navigate inflation and economic volatility, leveraging technology to hedge risks and seize market opportunities in a constantly evolving financial world."
+title: Understanding Currency Debasement And Its Economic Impact
+description: Currency Debasement lowers currency value via excess printing and coin
+  metal reduction revealing its impact on inflation and savings. Discover more inside.
 ---
 
 

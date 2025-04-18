@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Physical Gold and Gold Funds"
-description: "Discover the benefits and risks of investing in physical gold versus gold funds. Explore how algorithmic trading introduces modern strategies for gold investment."
+title: Comprehensive Guide to Investing in Physical Gold and Gold Funds
+description: Investing in physical gold and gold funds protects your assets while
+  balancing costs, liquidity and risk in active portfolios Discover more inside
 ---
 
 

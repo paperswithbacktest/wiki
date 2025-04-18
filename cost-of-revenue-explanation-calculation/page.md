@@ -1,6 +1,7 @@
 ---
-title: "Cost of Revenue: Explanation and Calculation"
-description: "Discover how understanding and calculating the cost of revenue in algorithmic trading can enhance efficiencies and profitability in a competitive market."
+title: Comprehensive Guide to Cost of Revenue Calculation and Impact
+description: Cost of revenue covers direct production expenses and explains how to
+  calculate accurately and lower them for better gross profit Discover more inside
 ---
 
 

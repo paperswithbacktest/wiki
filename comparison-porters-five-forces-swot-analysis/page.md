@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Porter's Five Forces and SWOT Analysis"
-description: "Discover the synergy between Porter's Five Forces and SWOT analysis in algo trading to optimize strategic management and enhance market positioning."
+title: "Porter\u2019s Five Forces vs SWOT Analysis Strategic Comparison"
+description: "Porter\u2019s Five Forces model and SWOT Analysis offer insights into\
+  \ market competitiveness and internal capabilities to guide strategic planning Discover\
+  \ more inside."
 ---
 
 

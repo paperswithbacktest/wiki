@@ -1,6 +1,7 @@
 ---
-title: "Crypto Due Diligence and Fiduciary Responsibilities of Financial Advisors"
-description: "Explore the role of financial advisors in cryptocurrency markets focusing on due diligence and fiduciary duties Learn about integrating crypto assets ethically and legally"
+title: Comprehensive Crypto Due Diligence Guide For Financial Advisors
+description: Crypto due diligence helps financial advisors evaluate project teams,
+  technology and market risks before recommending investments. Discover more inside
 ---
 
 

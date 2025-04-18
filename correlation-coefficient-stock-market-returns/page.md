@@ -1,6 +1,7 @@
 ---
-title: "Correlation Coefficient and Stock Market Returns"
-description: "Explore the relationship between correlation coefficients and stock market returns in algorithmic trading to enhance investment strategies and optimize portfolio performance."
+title: Understanding Correlation Coefficients for Stock Market Analysis
+description: Correlation coefficient measures how stocks move together and guides
+  portfolio diversification to manage risk and optimize returns Discover more inside.
 ---
 
 

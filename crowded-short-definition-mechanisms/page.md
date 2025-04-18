@@ -1,6 +1,7 @@
 ---
-title: "Crowded Short: Definition and Mechanisms"
-description: "Explore the dynamics of crowded short positions and algorithmic trading strategies Learn how to manage risks and navigate market trends effectively"
+title: Crowded Shorts Risk Indicators And Trading Strategies In Stocks
+description: Crowded shorts can trigger rapid price spikes during short squeezes resulting
+  in losses. Use key indicators and methods to manage risk. Discover more
 ---
 
 

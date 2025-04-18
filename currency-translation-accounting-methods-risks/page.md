@@ -1,6 +1,7 @@
 ---
-title: "Currency Translation in Accounting: Methods and Risks"
-description: "Discover the intricacies of currency translation in accounting and the associated risks of algorithmic trading. Understand essential accounting methods and their impact on financial statements, explore strategies for effective financial risk management, and learn how currency fluctuations affect multinational corporations. Gain insights into how algorithmic trading transforms financial transactions with increased speed and accuracy. This comprehensive guide equips businesses with knowledge to optimize financial strategies in today's complex global markets."
+title: Currency Translation in Accounting Methods and Standards
+description: Currency translation in accounting consolidates financial results using
+  current rate or temporal methods under GAAP and IFRS Discover more inside
 ---
 
 

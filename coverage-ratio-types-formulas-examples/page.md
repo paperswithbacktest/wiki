@@ -1,6 +1,7 @@
 ---
-title: "Coverage Ratio: Types, Formulas, and Examples"
-description: "Explore coverage ratios and algorithmic trading applications in investment strategies Discover formulas, examples, and their impact on financial analysis"
+title: Comprehensive Guide to Coverage Ratios in Financial Analysis
+description: Coverage ratios measure corporate debt capacity by evaluating interest
+  and asset coverage giving investors clear stability insights Discover more inside
 ---
 
 

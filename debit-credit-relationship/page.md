@@ -1,6 +1,7 @@
 ---
-title: "Debit and Credit Relationship"
-description: "Explore the crucial role of debits and credits in accounting and their integration with algorithmic trading for optimized trading strategies and accurate record-keeping."
+title: Understanding Debits and Credits For Accurate Financial Records
+description: Debits and credits define how transactions impact assets liabilities
+  and equity and keep books balanced in double entry accounting Discover more inside
 ---
 
 

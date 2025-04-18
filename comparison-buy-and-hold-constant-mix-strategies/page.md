@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Buy-and-Hold and Constant-Mix Strategies in Portfolio Management"
-description: "Explore how buy-and-hold and constant-mix strategies impact portfolio management in algo trading Discover their unique benefits and potential drawbacks"
+title: Buy and Hold Versus Constant Mix Portfolio Management Strategies
+description: Buy and hold strategy and constant mix approach deliver long term growth
+  insights and balanced risk management in volatile markets Discover more inside.
 ---
 
 

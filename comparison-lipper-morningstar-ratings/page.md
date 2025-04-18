@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Lipper Ratings and Morningstar Ratings"
-description: "Explore the key differences between Lipper and Morningstar Ratings in algo trading. Understand how each system impacts investment decisions with detailed analysis."
+title: Understanding Lipper Ratings And Morningstar Ratings For Funds
+description: Lipper Ratings And Morningstar Ratings compare fund performance using
+  different methods and update schedules for investment insights Discover more inside.
 ---
 
 

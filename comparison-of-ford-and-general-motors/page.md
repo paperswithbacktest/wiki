@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Ford and General Motors"
-description: "Explore the dynamics of General Motors and Ford in the automotive industry and the impact of algorithmic trading on their stock performance and strategic positioning."
+title: Ford and General Motors Electric Vehicle and Corporate Strategies
+description: Ford and General Motors comparison reveals how each automaker drives
+  electric vehicle innovation business models and global reach Discover more inside.
 ---
 
 

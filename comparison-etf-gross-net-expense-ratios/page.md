@@ -1,6 +1,7 @@
 ---
-title: "Comparison of ETF Gross and Net Expense Ratios"
-description: "Explore ETF gross and net expense ratios and their impact on investments with a focus on cost efficiency Algo trading influences expense ratios and returns"
+title: Understanding ETF Expense Ratios Gross Versus Net Costs
+description: ETF Expense Ratios determine your true fund costs by showing gross and
+  net fees so you can compare expenses and protect returns Discover more inside.
 ---
 
 

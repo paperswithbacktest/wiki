@@ -1,6 +1,7 @@
 ---
-title: "De Minimis Tax Rule"
-description: "Learn about the de minimis tax rule and its impact on algorithmic trading strategies. Understand how this rule affects bond taxation and trading optimization."
+title: Understanding the De Minimis Tax Rule for Businesses and Trade
+description: De Minimis Tax Rule exempts small perks and low value shipments from
+  detailed tax reporting saving businesses time and money Discover more inside
 ---
 
 

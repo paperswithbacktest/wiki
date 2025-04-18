@@ -1,6 +1,7 @@
 ---
-title: "Davos World Economic Forum: Overview and Mechanisms"
-description: "Explore how the Davos World Economic Forum investigates into the role of algorithmic trading and its profound impact on global markets and economic policies."
+title: Davos World Economic Forum Global Challenges and Solutions
+description: Davos World Economic Forum brings global leaders together to tackle economy
+  environment and technology challenges and shape policy Discover more inside
 ---
 
 

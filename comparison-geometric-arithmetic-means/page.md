@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Geometric and Arithmetic Means"
-description: "Explore the significance of geometric and arithmetic means in algorithmic trading Understand how these statistical tools optimize strategies and enhance portfolio performance"
+title: Comparing Arithmetic And Geometric Means For Growth Analysis
+description: Geometric mean provides an accurate growth rate for compounded data while
+  arithmetic mean gives a straightforward average Discover more inside.
 ---
 
 

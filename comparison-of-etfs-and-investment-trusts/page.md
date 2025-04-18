@@ -1,6 +1,7 @@
 ---
-title: "Comparison of ETFs and Investment Trusts"
-description: "Compare investment trusts and ETFs to optimize investment strategies with algorithmic trading Insights on structure management and enhancing portfolio efficiency"
+title: ETFs Vs Investment Trusts Explained for Diverse Portfolio Growth
+description: ETFs vs Investment Trusts highlight key differences in fees liquidity
+  tax and performance to help you choose the right vehicle Discover more inside
 ---
 
 

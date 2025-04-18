@@ -1,6 +1,7 @@
 ---
-title: "Current Account and Its Influencing Factors"
-description: "Discover the intricate links between international trade and current account balances highlighting how trade policies and algorithmic trading reshape global markets."
+title: Understanding Current Account Basics and Economic Impacts
+description: Current account explained with personal banking features fees and macro
+  economic impacts Understand rates charges and inflation Discover more inside
 ---
 
 

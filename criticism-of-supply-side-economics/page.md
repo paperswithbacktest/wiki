@@ -1,6 +1,7 @@
 ---
-title: "Criticism of Supply-Side Economics"
-description: "Explore the criticisms of supply-side economics in the context of algorithmic trading and its impact on modern economic policies and fiscal debates."
+title: Understanding Supply-Side Economics Principles And Criticisms
+description: Supply-side economics shows how tax cuts and deregulation can boost jobs
+  and wages but often widen inequality and faces criticism. Discover more inside
 ---
 
 

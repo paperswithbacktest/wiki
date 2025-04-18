@@ -1,6 +1,7 @@
 ---
-title: "Complex Event Processing"
-description: "Explore the transformative impact of Complex Event Processing (CEP) in algorithmic trading by analyzing real-time data streams to identify market opportunities."
+title: Comprehensive Guide to Complex Event Processing Systems
+description: Complex Event Processing helps organizations analyze real time data to
+  detect patterns and trigger actions for faster decisions. Discover more inside.
 ---
 
 

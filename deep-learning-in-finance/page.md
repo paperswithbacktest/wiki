@@ -1,6 +1,7 @@
 ---
-title: "Deep learning in finance"
-description: "Explore the transformative power of deep learning in algorithmic trading Increasing accuracy and efficiency in finance this cutting-edge tech revolutionizes markets"
+title: Deep Learning in Financial Markets and Risk Management
+description: Deep learning transforms financial decision making by enabling accurate
+  market forecasts advanced risk management and fraud detection Discover more inside.
 ---
 
 

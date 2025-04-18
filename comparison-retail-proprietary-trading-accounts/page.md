@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Retail and Proprietary Trading Accounts"
-description: "Explore the differences between retail and proprietary trading accounts in algo trading Discover how these account types affect market liquidity and trading strategies"
+title: Key Differences Between Retail and Proprietary Trading Accounts
+description: Retail trading accounts and proprietary trading accounts differ in capital,
+  fees, tools and risk to inform your investments. Discover more inside.
 ---
 
 

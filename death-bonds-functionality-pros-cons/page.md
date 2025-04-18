@@ -1,6 +1,7 @@
 ---
-title: "Death Bonds: Functionality and Pros and Cons"
-description: "Explore death bonds in algo trading their functionality pros cons and the unique investment opportunities they present in the financial market."
+title: Understanding Death Bonds Mortality Securitization and Risks
+description: Death bonds allow investors to monetize life insurance policies by betting
+  on life expectancy while managing unique risks and returns Discover more inside
 ---
 
 

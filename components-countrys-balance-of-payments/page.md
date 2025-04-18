@@ -1,6 +1,7 @@
 ---
-title: "Components of a Country's Balance of Payments"
-description: "Explore the intricate relationship between a country's balance of payments and algorithmic trading within global finance, showcasing economic stability and trade dynamics."
+title: Balance of Payments Explained Key Accounts and Transactions
+description: Balance of Payments offers a complete guide to current and capital account
+  components and their impact on a national economy Discover more inside
 ---
 
 

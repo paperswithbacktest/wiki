@@ -1,6 +1,7 @@
 ---
-title: "De-Dollarization and Its Status"
-description: "Explore the impact of de-dollarization and the rise of algorithmic trading on the global economy and currency markets in our detailed analysis."
+title: Understanding De-Dollarization And Its Global Economic Impact
+description: De-dollarization reshapes global trade by reducing dollar reliance and
+  balancing currency power while highlighting risks and trends Discover more inside.
 ---
 
 

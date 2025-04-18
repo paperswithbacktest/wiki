@@ -1,6 +1,7 @@
 ---
-title: "Covered Call Writing"
-description: "Explore the synergy between covered call writing and algorithmic trading to automate income generation from stock holdings while managing risks effectively."
+title: Covered Call Writing Strategy for Consistent Stock Income
+description: Covered call writing generates extra income from your stock holdings
+  by earning premiums and managing upside risk Discover more inside today
 ---
 
 

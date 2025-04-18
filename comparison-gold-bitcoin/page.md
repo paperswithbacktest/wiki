@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Gold and Bitcoin"
-description: "Explore the dynamics between Gold Bitcoin and Algorithmic Trading in this comprehensive analysis of investment strategies offering insights into risks and opportunities."
+title: Comparing Gold and Bitcoin as Modern Stores of Value
+description: Gold and Bitcoin supplies differ in scarcity and creation methods offering
+  unique investment insights and comparative storage solutions Discover more inside.
 ---
 
 

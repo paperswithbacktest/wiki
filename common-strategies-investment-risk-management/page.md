@@ -1,7 +1,7 @@
 ---
-title: "Common Strategies for Investment Risk Management"
-description: "Explore effective strategies for investment risk management in algorithmic trading. Understand the importance of balancing high returns with risk mitigation through robust practices that quantify investment risks using statistical measures like standard deviation, beta, and Value at Risk. This article investigates into risk management techniques and the integration of algorithmic trading in modern investment strategies to enhance decision-making in complex financial markets. Discover how these methods aid in crafting a well-balanced portfolio aligned with personal risk tolerance and financial goals.
-"
+title: Investment Risk Management Essentials for Beginner Investors
+description: Investment risk management helps protect capital and boost confidence
+  for beginners using diversification and asset allocation Discover more inside
 ---
 
 

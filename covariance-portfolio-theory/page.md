@@ -1,6 +1,7 @@
 ---
-title: "Covariance in Portfolio Theory"
-description: "Explore the crucial role of covariance in portfolio theory and its application in algorithmic trading to enhance investment strategies and manage risk effectively."
+title: Covariance In Portfolio Theory Explained For Algorithmic Trading
+description: Covariance in portfolio theory measures how asset returns move together
+  and guides diversification to reduce risk in your portfolio Discover more inside.
 ---
 
 

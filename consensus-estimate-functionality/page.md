@@ -1,6 +1,7 @@
 ---
-title: "Consensus Estimate and Its Functionality"
-description: "Explore the intricacies of financial forecasts consensus estimates and algorithmic trading as they enhance market analysis and investment strategies in dynamic financial sectors."
+title: Understanding Consensus Estimates in Financial Analysis
+description: Consensus estimates help investors and businesses make informed decisions
+  by aligning expert forecasts and guiding stock strategies Discover more inside
 ---
 
 

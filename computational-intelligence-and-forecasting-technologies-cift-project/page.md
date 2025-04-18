@@ -1,6 +1,7 @@
 ---
-title: "Computational Intelligence and Forecasting Technologies (CIFT) project"
-description: Discover how Computational Intelligence and Forecasting Technologies (CIFT) revolutionize algorithmic trading with advanced methods like neural networks and machine learning. Enhance trading strategies by predicting market trends and adapting to real-time conditions, optimizing returns while managing risks.
+title: Enhancing Forecast Accuracy Through Computational Intelligence
+description: Computational Intelligence forecasting tools analyze big data and deliver
+  accurate predictions for weather finance and healthcare. Discover more inside.
 ---
 
 

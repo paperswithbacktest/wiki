@@ -1,6 +1,7 @@
 ---
-title: "Cum Rights in Finance"
-description: "Explore the dynamics of stock market finance, cum rights, and algorithmic trading to enhance investment strategies and maximize financial outcomes."
+title: Understanding Cum Rights And Ex Rights In Stock Trading
+description: Cum rights guide investors to secure upcoming dividends and optimize
+  buy sell timing with clear strategies and tax insights Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Construction of a High-Risk Investment Portfolio"
-description: "Explore high-risk investment strategies and algorithmic trading to construct a portfolio with potential for high returns while managing associated risks."
+title: Building a High-Risk Investment Portfolio for Optimal Growth
+description: High-risk investment portfolio strategies balance gains and losses with
+  diversification stop-loss orders and risk tolerance guidance Discover more inside.
 ---
 
 

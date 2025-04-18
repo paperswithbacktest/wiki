@@ -1,6 +1,7 @@
 ---
-title: "Currency Crises: Causes, Examples, and Impact"
-description: "Explore the causes and consequences of currency crises within the global economy. Learn how forex markets contribute to these issues and discover the role of algorithmic trading in navigating such economic upheavals. Through historical examples, understand the triggers and impacts of currency devaluations and how strategic measures can stabilize affected economies."
+title: Understanding the Currency Crisis Causes Effects and Prevention
+description: Currency crisis can erode currency value spark inflation cost spikes
+  and economic turmoil Government strategies offer stability Discover more inside
 ---
 
 

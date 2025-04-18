@@ -1,6 +1,7 @@
 ---
-title: "Crop Year: Definition and USDA Estimates"
-description: "Explore the dynamics of crop years and the impact of USDA estimates on agricultural markets using algorithmic trading for informed decision-making."
+title: Understanding USDA Crop Year Definitions and Yield Forecasts
+description: Crop Year insights reveal how the USDA defines planting to harvest and
+  estimates yields for smarter farm planning and market decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Credit Cycles in Investing"
-description: "Discover how credit cycles, financial factors, and algorithmic trading shape modern investing. Explore strategies for navigating dynamic market conditions."
+title: Understanding Credit Cycles for Smarter Investment Strategies
+description: Credit cycles shape borrowing costs and market trends by guiding investment
+  timing through expansion and contraction phases Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of ROE and ROCE"
-description: "Explore the crucial role of ROE and ROCE in algorithmic trading and learn how these metrics can optimize trading strategies by analyzing a company's financial health."
+title: Comparing ROE and ROCE for Strategic Investment Decisions
+description: ROE and ROCE show how companies use equity and capital to generate profit
+  Explore differences calculations use cases and key insights Discover more inside
 ---
 
 

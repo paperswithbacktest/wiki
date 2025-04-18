@@ -1,6 +1,7 @@
 ---
-title: "Contract Size: Examples, Advantages and Disadvantages"
-description: "Explore the role of contract sizes in algorithmic trading examining examples like S&P 500 E-mini futures. Learn their advantages and drawbacks in trading."
+title: Understanding Contract Size in Trading for Risk Management
+description: Contract size determines trade scale and risk exposure across markets
+  guiding strategy selection and liquidity management Discover more inside.
 ---
 
 

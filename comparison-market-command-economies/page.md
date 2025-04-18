@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Market and Command Economies"
-description: "Explore the differences between market and command economies with a focus on their impact on algorithmic trading. Understand how these economic systems affect resource management, wealth distribution, and market operations. Discover the role of algorithmic trading in these environments, leveraging market dynamics and technological advancements. Gain insights into the complexities and economic intricacies shaping global financial landscapes."
+title: Comparing Market Economy and Command Economy Systems
+description: Market economy and command economy differ in resource flow government
+  control and innovation Compare impacts Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Debt-to-Capital Ratio"
-description: "Explore the significance of the debt-to-capital ratio in evaluating financial leverage and risk management, crucial for optimizing algorithmic trading strategies."
+title: 'Debt-to-Capital Ratio Explained: Definition and Importance'
+description: Debt-to-Capital Ratio reveals company leverage and risk, and shows how
+  to calculate, interpret, and improve your capital structure Discover more inside
 ---
 
 

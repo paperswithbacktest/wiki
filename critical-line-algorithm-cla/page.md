@@ -1,6 +1,7 @@
 ---
-title: "Critical Line Algorithm (CLA)"
-description: Explore the Critical Line Algorithm (CLA) as a specialized tool in algorithmic trading and portfolio optimization. Learn how CLA manages inequality-constrained problems and produces the efficient frontier, optimizing risk-return balance. Delve into its origins, mechanisms, and benefits for traders and researchers. Gain insights into the advantages of CLA in handling complex constraints and large-scale portfolios, enhancing strategic decision-making and portfolio performance in real-world financial markets. Discover implementation steps and its role in modern financial strategies. This comprehensive guide provides valuable understanding for optimizing portfolios with CLA.
+title: Critical Line Algorithm for Effective Portfolio Optimization
+description: Critical Line Algorithm optimizes portfolios by balancing risk and return
+  with efficient frontier analysis and constraint management Discover more inside
 ---
 
 

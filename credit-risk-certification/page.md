@@ -1,6 +1,7 @@
 ---
-title: "Credit Risk Certification"
-description: "Gain insights into algorithmic trading and enhance your career with a credit risk certification. Learn about risk management for today's evolving financial markets."
+title: Credit Risk Certification Guide for Finance Professionals
+description: Credit risk certification equips finance professionals with essential
+  skills to assess loans, manage risk and boost career growth; discover more inside
 ---
 
 

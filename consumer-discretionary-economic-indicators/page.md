@@ -1,6 +1,7 @@
 ---
-title: "Consumer Discretionary in Economic Indicators"
-description: "Unlock the complexities of economic indicators consumer discretionary spending and algorithmic trading to enhance your investment strategy in the financial market."
+title: Consumer Discretionary Sector Influence on Economy and Markets
+description: Consumer discretionary spending reveals economic strength and guides
+  investment strategies with key indicators and advanced analytics Discover more inside
 ---
 
 

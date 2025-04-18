@@ -1,6 +1,7 @@
 ---
-title: "Credit Tranches: Mechanism and Examples"
-description: "Explore the synergy between credit tranches and algorithmic trading. Discover how these financial mechanisms enhance investment strategies through risk management and efficiency."
+title: Understanding Credit Tranches in IMF Lending Agreements
+description: Credit tranches optimize IMF loans by linking funds to policy reforms
+  reducing risk and ensuring gradual economic improvement Discover more inside
 ---
 
 

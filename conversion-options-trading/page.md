@@ -1,6 +1,7 @@
 ---
-title: "Conversion in Options Trading"
-description: "Discover insights into options trading conversion strategies and algorithmic trading to enhance portfolio management and capitalize on market opportunities."
+title: Professional Guide to Conversion Strategy in Options Trading
+description: Conversion strategy in options trading locks in a fixed stock price and
+  captures small risk free profits from price discrepancies Discover more inside.
 ---
 
 

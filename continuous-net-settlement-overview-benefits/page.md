@@ -1,6 +1,7 @@
 ---
-title: "Continuous Net Settlement: Overview and Benefits"
-description: "Explore the benefits of Continuous Net Settlement in financial markets, a key process enhancing trading efficiency by netting trades and reducing counterparty risk."
+title: Continuous Net Settlement Systems to Streamline Trade Processing
+description: Continuous Net Settlement groups daily stock trades into one net position
+  to reduce transaction costs and risk and improve efficiency Discover more inside
 ---
 
 

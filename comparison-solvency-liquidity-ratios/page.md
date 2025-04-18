@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Solvency and Liquidity Ratios"
-description: "Discover key liquidity and solvency ratios essential for assessing a company's financial health and optimize investments with algorithmic trading strategies."
+title: Understanding Solvency and Liquidity Ratios for Financial Health
+description: Solvency ratios and liquidity ratios reveal long and short term financial
+  health of companies enabling smarter investment decisions Discover more inside.
 ---
 
 

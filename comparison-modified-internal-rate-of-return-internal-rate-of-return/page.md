@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Modified Internal Rate of Return and Internal Rate of Return"
-description: "Explore the intricate relationship between Modified Internal Rate of Return (MIRR), Internal Rate of Return (IRR), and algorithmic trading in modern investment strategies. This article investigates into how these financial metrics are integrated within algorithmic systems to optimize trading performance and investment analysis. Learn how the convergence of advanced technology and traditional investment metrics can enhance decision-making, offering investors a significant edge in profitability and risk management. Discover how this integration empowers traders with automated, precise tools to capitalize on investment opportunities effectively in today's dynamic financial markets."
+title: Understanding IRR and MIRR for Reliable Investment Analysis
+description: Internal Rate of Return and Modified IRR help investors assess project
+  performance with realistic cash flow assumptions Discover more inside
 ---
 
 

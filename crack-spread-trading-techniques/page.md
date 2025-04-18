@@ -1,6 +1,7 @@
 ---
-title: "Crack Spread and Trading Techniques"
-description: "Explore crack spreads and algorithmic trading techniques to optimize trading strategies and maximize profits in the commodities market. Gain insights today!"
+title: Understanding Crack Spread Trading in the Oil Refining Industry
+description: Crack spread analysis helps refiners and traders optimize profitability
+  by tracking crude oil and product price differences Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Accrued Expenses and Accounts Payable"
-description: "Explore the intricacies of financial liabilities, accrued expenses, and accounts payable. Understand their roles in cash flow management and insights for algo trading."
+title: Accrued Expenses vs Accounts Payable Key Accounting Differences
+description: Accrued expenses vs accounts payable explained to help you match costs
+  with revenue, optimize liabilities and boost cash flow Discover more inside
 ---
 
 

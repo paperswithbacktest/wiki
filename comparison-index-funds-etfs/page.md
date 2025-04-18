@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Index Funds and ETFs"
-description: "Explore the distinctions between ETFs, Index Funds, and Algorithmic Trading to enhance your investment strategy. This comprehensive guide evaluates the benefits and drawbacks of each investment vehicle, highlighting their unique features and how they align with different financial goals. Provide yourself with the necessary insights to make informed and empowered investment decisions in today's complex financial landscape."
+title: Index Funds and ETFs Comparison Guide For Investors
+description: Index Funds and ETFs offer low cost diversification but vary in trading
+  flexibility, tax efficiency, liquidity and minimum investments Discover more inside
 ---
 
 

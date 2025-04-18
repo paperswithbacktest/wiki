@@ -1,6 +1,7 @@
 ---
-title: "Core Plus: Overview and Functionality"
-description: "Explore how algorithmic trading enhances core plus investment strategies by optimizing trade execution with precision and speed for better returns and risk management."
+title: Core Plus Investment Strategy for Balanced Risk and Growth
+description: Core Plus investment strategy balances stable core holdings with select
+  satellite picks to grow your portfolio while controlling risk Discover more inside
 ---
 
 

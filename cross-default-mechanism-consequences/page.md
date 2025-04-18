@@ -1,6 +1,7 @@
 ---
-title: "Cross Default: Mechanism and Consequences"
-description: "Explore the complexities of cross-default mechanisms and their impact on financial agreements Learn how these provisions affect lenders and borrowers alike in managing risks"
+title: Understanding Cross Default Clauses in Financial Agreements
+description: Cross default clause triggers simultaneous loan defaults and impacts
+  credit risk Explore how to manage these provisions effectively. Discover more inside.
 ---
 
 

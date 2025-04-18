@@ -1,6 +1,7 @@
 ---
-title: "Contractionary Fiscal Policy and Its Effect on Crowding Out"
-description: "Explore how contractionary fiscal policy affects the crowding out effect and the role of algorithmic trading in financial markets and economic decision-making."
+title: Contractionary Fiscal Policy and the Crowding Out Effect
+description: Contractionary Fiscal Policy reduces inflation by raising taxes or cutting
+  spending to stabilize prices and prevent overheating Discover more inside
 ---
 
 

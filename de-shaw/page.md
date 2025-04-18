@@ -1,6 +1,7 @@
 ---
-title: "DE Shaw"
-description: "Explore DE Shaw's leading role in algorithmic trading employing quantitative models and cutting-edge tech to deliver efficient trading and robust returns."
+title: DE Shaw Quantitative Investing And Technology Leadership
+description: DE Shaw uses advanced quantitative investing and tech innovation to optimize
+  portfolios and reshape markets with data insights Discover more inside
 ---
 
 

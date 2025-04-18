@@ -1,6 +1,7 @@
 ---
-title: "Comparison of E*TRADE and TD Ameritrade"
-description: "Explore the algorithmic trading features of E*TRADE and TD Ameritrade. Compare usability, trading technology, and costs to optimize your trading strategy."
+title: Comparing E*TRADE vs TD Ameritrade Platforms Accounts And Fees
+description: E*TRADE vs TD Ameritrade comparison breaks down account types fees trading
+  tools and support so you can make a confident choice Discover more inside.
 ---
 
 

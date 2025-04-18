@@ -1,6 +1,7 @@
 ---
-title: "Crossover Fund: Overview and Functionality"
-description: "Explore the dynamic interplay of crossover funds and algorithmic trading to optimize investment portfolios and navigate financial market complexities effectively."
+title: Crossover Funds Bridge Public and Private Investment Strategies
+description: Crossover funds diversify risk by investing in both public and private
+  companies to capture growth at every stage of development. Discover more inside
 ---
 
 

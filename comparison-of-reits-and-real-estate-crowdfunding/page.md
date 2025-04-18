@@ -1,6 +1,7 @@
 ---
-title: "Comparison of REITs and Real Estate Crowdfunding"
-description: "Explore the differences between REITs and real estate crowdfunding along with algorithmic trading as investment strategies Learn their benefits and risks"
+title: REITs Vs Real Estate Crowdfunding Investment Comparison
+description: REITs vs Real Estate Crowdfunding explores income liquidity risk and
+  management to guide diversified investment strategy Discover more inside.
 ---
 
 

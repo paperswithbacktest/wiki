@@ -1,6 +1,7 @@
 ---
-title: "Consideration of Dividends by Google"
-description: "Explore the strategic intersections of dividends, financial innovation, and algorithmic trading in Google's unique approach to market leadership and growth."
+title: Understanding Google Dividend Policy and Shareholder Returns
+description: Google dividend policy reveals how Alphabet retains profits to drive
+  innovation and boosts shareholder value via stock appreciation Discover more inside
 ---
 
 

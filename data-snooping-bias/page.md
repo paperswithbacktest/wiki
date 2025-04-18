@@ -1,6 +1,7 @@
 ---
-title: "Data-snooping bias"
-description: Explore the challenges of data-snooping bias in algorithmic trading, where models become overfitted to historical noise, leading to unrealistic backtest results and poor live performance. Learn strategies to mitigate these issues, ensuring more reliable trading models through rigorous validation and bias reduction techniques.
+title: Addressing Data-Snooping Bias in Statistical and Machine Learning
+description: Data-snooping bias distorts analysis by turning random patterns into
+  false trends Avoid flawed models with hypotheses and validation Discover more inside
 ---
 
 

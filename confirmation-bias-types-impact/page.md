@@ -1,6 +1,7 @@
 ---
-title: "Confirmation Bias: Types and Impact"
-description: "Explore how confirmation bias impacts algorithmic trading where human psychology and algorithm design intersect affecting trading efficacy and investment outcomes."
+title: Understanding Confirmation Bias and Its Impact on Decision Making
+description: Confirmation bias skews choices by favoring known views and ignoring
+  opposing evidence Recognize impact and opt for balanced decisions Discover more
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Relative Strength Index and Commodity Channel Index"
-description: "Explore how Commodity Channel Index and Relative Strength Index aid in algorithmic trading with insights into their roles, benefits, and practical applications."
+title: Comparing RSI and CCI for Overbought and Oversold Signals
+description: RSI and CCI reveal overbought and oversold conditions with combined signals
+  to guide buy sell timing and risk management Discover more inside.
 ---
 
 

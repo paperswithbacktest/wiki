@@ -1,6 +1,7 @@
 ---
-title: "DAME Tax Overview and Mechanism"
-description: "Explore how the proposed DAME tax impacts cryptocurrency miners and algorithmic trading. Understand fiscal policy's role in shaping the digital finance landscape."
+title: Understanding the DAME Tax on Digital Asset Mining Energy Costs
+description: DAME Tax makes cryptocurrency miners pay 30 percent extra on electricity
+  to reduce energy use and encourage sustainable mining Discover more inside
 ---
 
 

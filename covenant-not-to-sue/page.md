@@ -1,6 +1,7 @@
 ---
-title: "Covenant Not to Sue"
-description: "Explore the importance of covenants not to sue in algorithmic trading as a strategic legal tool for risk management and fostering smooth business operations."
+title: Comprehensive Guide to Covenants Not to Sue in Legal Agreements
+description: Covenant Not to Sue agreements help parties avoid costly litigation by
+  clearly defining issues and compensation to protect rights Discover more inside
 ---
 
 

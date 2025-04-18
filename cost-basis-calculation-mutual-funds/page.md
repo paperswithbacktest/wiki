@@ -1,6 +1,7 @@
 ---
-title: "Cost Basis Calculation for Mutual Funds Over Time"
-description: "Discover how algorithmic trading enhances mutual fund cost basis calculation for tax efficiency and optimized investment strategies. Maximize financial outcomes."
+title: Understanding Mutual Fund Cost Basis Calculation Methods
+description: Mutual fund cost basis methods like FIFO average cost and specific identification
+  optimize tax outcomes and track investments easily Explore inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Counterfactual Fairness (Machine Learning)"
-description: "Counterfactual fairness in machine learning ensures models treat individuals fairly by maintaining consistent predictions regardless of race or gender changes."
+title: Ensuring Counterfactual Fairness in Machine Learning Models
+description: Counterfactual fairness makes machine learning decisions unbiased by
+  sensitive attributes ensuring equal treatment for all Discover more inside
 ---
 
 ![Image](images/1.png)

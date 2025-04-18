@@ -1,6 +1,7 @@
 ---
-title: "Comprehensive Income Statement and Purpose"
-description: "Explore the importance of understanding comprehensive income and its role in financial analysis and algorithmic trading for informed decision-making."
+title: Comprehensive Income Statements Explained for Financial Clarity
+description: Comprehensive income statements show net income and other gains or losses
+  for a full view of financial health and equity changes Discover more inside.
 ---
 
 

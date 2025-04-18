@@ -1,6 +1,7 @@
 ---
-title: "Common Stock Probability Distribution Methods"
-description: "Explore probability distribution methods for common stocks in algorithmic trading Learn how these statistical tools enhance stock prediction and risk management."
+title: Understanding Probability Distributions for Common Stock Analysis
+description: Probability distributions map common stock risks and potential returns
+  with models from normal to Monte Carlo simulations Discover more inside
 ---
 
 

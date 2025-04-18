@@ -1,6 +1,7 @@
 ---
-title: "Cyclical and Non-Cyclical Stocks: Differences"
-description: "Explore the differences between cyclical and non-cyclical stocks to enhance your investment strategy. Learn how algorithmic trading optimizes portfolio performance."
+title: Comparing Cyclical and Non-Cyclical Stocks for Smart Investing
+description: Cyclical and non-cyclical stocks guide shows how to leverage market swings
+  and secure your portfolio with balanced growth Discover more inside.
 ---
 
 

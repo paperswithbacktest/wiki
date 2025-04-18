@@ -1,6 +1,7 @@
 ---
-title: "Conversion Premium in Finance"
-description: "Explore the benefits of convertible bonds in your investment portfolio including income and equity features, while leveraging algorithmic trading for optimized returns."
+title: Understanding Conversion Premium in Convertible Securities
+description: Conversion premium reveals how much extra investors pay for convertible
+  bonds over conversion value and helps gauge market confidence Discover more inside
 ---
 
 

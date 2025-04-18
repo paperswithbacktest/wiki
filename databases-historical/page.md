@@ -1,6 +1,7 @@
 ---
-title: "Databases (historical)"
-description: Explore the essential role of historical databases in algorithmic trading systems. Learn how these data management tools enable superior trading signal accuracy and strategy optimization by efficiently storing and analyzing vast datasets. Discover the types of databases—relational, NoSQL, and time-series—that elevate trading performance and provide a competitive edge in financial markets.
+title: Evolution of Database Systems From Ancient Records to NoSQL
+description: Database history shows how data storage evolved from clay tablets to
+  relational, NoSQL and cloud platforms shaping future systems Discover more inside
 ---
 
 

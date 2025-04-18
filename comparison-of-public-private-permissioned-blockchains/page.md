@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Public, Private, and Permissioned Blockchains"
-description: "Explore the distinctions between public private and permissioned blockchains in algorithmic trading Discover how blockchain enhances transparency security and efficiency in trading systems"
+title: Understanding Public Private and Permissioned Blockchain Models
+description: Blockchain models compare public private and permissioned chains so you
+  can choose the right solution for your needs and guidance Discover more inside
 ---
 
 

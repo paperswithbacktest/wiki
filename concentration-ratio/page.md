@@ -1,6 +1,7 @@
 ---
-title: "Concentration Ratio"
-description: "Explore the complex relationship between market concentration, competition, and algorithmic trading in today's financial markets. Discover how algorithmic trading enhances market efficiency but also introduces regulatory challenges due to its impact on competition and pricing. Delve into theories of market concentration using metrics like CR4 and CR8, and understand the implications for regulatory approaches to ensure fair trading practices in the face of potential algorithmic collusion and price manipulation."
+title: Understanding Concentration Ratios in Market Structure
+description: Concentration ratio reveals how much market power top firms hold and
+  guides economic policy and strategy for fair competition Discover more inside.
 ---
 
 

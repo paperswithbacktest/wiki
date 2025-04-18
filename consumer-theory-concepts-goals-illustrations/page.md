@@ -1,6 +1,7 @@
 ---
-title: "Consumer Theory: Concepts, Goals, and Illustrations"
-description: "Explore how consumer theory and behavior influence algorithmic trading, offering insights into market mechanisms, enhancing algorithm efficiency, and trader strategies."
+title: Consumer Theory and Utility Maximization in Economics
+description: Consumer theory reveals how people maximize utility under budget constraints
+  with indifference curves and price change effects Discover more inside
 ---
 
 

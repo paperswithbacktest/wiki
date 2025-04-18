@@ -1,6 +1,7 @@
 ---
-title: "Crapo Bill Overview and Criticism"
-description: "Explore the impact of the Crapo Bill's reforms on financial markets and algorithmic trading strategies. Understand criticisms and economic implications."
+title: Crapo Bill Impact on Small Banks and Economic Growth
+description: Crapo Bill eases bank rules to boost lending by community banks and drive
+  economic growth while preserving consumer safeguards Discover more inside
 ---
 
 

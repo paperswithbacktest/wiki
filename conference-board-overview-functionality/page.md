@@ -1,6 +1,7 @@
 ---
-title: "The Conference Board: Overview and Functionality"
-description: "Discover how the Conference Board equips businesses with economic insights amidst the rise of algorithmic trading offering data-driven strategies for market success"
+title: Leveraging The Conference Board For Strategic Business Insights
+description: The Conference Board provides data driven research on economic trends
+  leadership and HR to guide strategic decisions and drive growth Discover more inside
 ---
 
 

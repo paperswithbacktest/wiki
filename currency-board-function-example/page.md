@@ -1,6 +1,7 @@
 ---
-title: "Currency Board: Function and Example"
-description: "Discover how currency boards function and explore examples in algo trading, highlighting their role in providing stability despite limiting monetary policy flexibility."
+title: Currency Board Systems Explained for Monetary Policy Stability
+description: Currency board systems tie local money to foreign reserves to stabilize
+  exchange rates control inflation and boost credibility Discover more inside
 ---
 
 

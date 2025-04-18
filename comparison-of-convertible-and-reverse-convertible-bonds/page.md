@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Convertible and Reverse Convertible Bonds"
-description: "Discover the intricacies of convertible and reverse convertible bonds alongside the impact of algorithmic trading in bond markets, vital for modern investors."
+title: Convertible Bonds Vs Reverse Convertible Bonds Explained
+description: Convertible bonds and reverse convertible bonds offer a mix of fixed
+  income security and equity exposure with tailored risk profiles Discover more inside
 ---
 
 

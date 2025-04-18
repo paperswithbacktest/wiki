@@ -1,6 +1,7 @@
 ---
-title: "Deep-Discount Bonds: Overview and Examples"
-description: "Explore deep-discount bonds and algorithmic trading in bond markets to uncover investment opportunities and risks, maximizing yields with cutting-edge technology."
+title: Understanding Deep-Discount Bonds for Long-Term Returns
+description: Deep-discount bonds let investors buy debt at a low price and earn the
+  full face value at maturity while reducing tax impact Discover more inside.
 ---
 
 

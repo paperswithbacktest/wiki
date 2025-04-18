@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Yield and Total Return"
-description: "Explore the intersection of yield and total return in investment strategies with a focus on algorithmic trading Discover how technology shapes modern finance"
+title: Understanding Yield and Total Return in Investment Performance
+description: Yield and total return explain investment income versus growth so you
+  can optimize your portfolio and align payouts with gains. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Repo and Reverse Repo Transactions"
-description: "Explore the essential role of repo, reverse repo transactions, and algorithmic trading in modern financial markets. Understanding these tools offers insights into liquidity and efficiency."
+title: Understanding Repo and Reverse Repo Transactions in Finance
+description: Repo and Reverse Repo Transactions offer banks and central banks tools
+  to manage liquidity and monetary policy with precision. Discover more inside.
 ---
 
 

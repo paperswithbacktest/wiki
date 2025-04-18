@@ -1,6 +1,7 @@
 ---
-title: "Currency Regimes: Types, History, Impact"
-description: "Explore the types and impacts of currency regimes and their integration with algorithmic trading Learn how these systems shape economic stability and global trade"
+title: Understanding Currency Regimes and Their Economic Impacts
+description: Currency regimes shape trade and investment by balancing stability with
+  flexibility to guide monetary and fiscal policy Discover more inside.
 ---
 
 

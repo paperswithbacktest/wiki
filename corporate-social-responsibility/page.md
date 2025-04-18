@@ -1,6 +1,8 @@
 ---
-title: "Corporate Social Responsibility"
-description: "Explore how Corporate Social Responsibility and Business Ethics intersect with Algo Trading to ensure sustainable, responsible investment strategies and market integrity."
+title: Corporate Social Responsibility Strategies for Sustainable Business Growth
+description: Corporate Social Responsibility guides companies to balance profit with
+  social and environmental impact through clear goals and stakeholder engagement.
+  Discover more inside.
 ---
 
 

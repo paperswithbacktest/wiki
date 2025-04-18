@@ -1,6 +1,7 @@
 ---
-title: "Composite Cost of Capital"
-description: "Explore how the composite cost of capital shapes financial strategies from investment evaluation to algorithmic trading ensuring competitive advantage and growth."
+title: Understanding Composite Cost of Capital for Financial Decisions
+description: Composite Cost of Capital helps businesses calculate average financing
+  costs from debt and equity to guide investment choices Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Consolidated Tape Overview and Functionality"
-description: "Explore how the consolidated tape revolutionizes algorithmic trading with real-time data for enhanced market transparency and informed decision-making."
+title: Consolidated Tape Ensures Fair and Transparent Markets
+description: Consolidated Tape provides real time prices from major exchanges ensuring
+  transparent markets for investors to make informed trades Discover more inside.
 ---
 
 

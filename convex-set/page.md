@@ -1,6 +1,7 @@
 ---
-title: "Convex Set (Machine Learning)"
-description: "Explore the significance of convex sets in machine learning This intuitive concept improves optimization algorithms ensuring global minima for efficient model training"
+title: Understanding Convex Sets and Optimization in Machine Learning
+description: Convex sets in machine learning ensure cost functions reach global minima
+  by simplifying optimization and boosting model reliability Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Criticisms of the Human Development Index"
-description: "Explore the limitations of the Human Development Index focusing on its simplification of complex development dynamics and its implications for algorithmic trading."
+title: Human Development Index Explained With Key Insights and Critiques
+description: Human Development Index measures health education and income while exposing
+  global gaps in inequality and sustainability Discover more inside.
 ---
 
 

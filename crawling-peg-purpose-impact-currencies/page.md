@@ -1,6 +1,7 @@
 ---
-title: "Crawling Peg: Purpose and Impact on Currencies"
-description: "Explore the impact and nuances of crawling peg systems on currency stability and global trade dynamics, along with the role of algorithmic trading."
+title: Understanding the Crawling Peg Exchange Rate System
+description: Crawling peg exchange rates adjust currency values slowly to stabilize
+  markets, control inflation and maintain export competitiveness Discover more inside
 ---
 
 

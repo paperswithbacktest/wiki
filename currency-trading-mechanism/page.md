@@ -1,6 +1,7 @@
 ---
-title: "Currency Trading Mechanism"
-description: "Explore the dynamic world of forex trading and its transformation through algorithmic trading. Discover how technological advancements are reshaping currency trading with data-driven decision-making processes. Learn about the interactions between forex and algo trading and their impact on modern financial markets. Stay informed on economic indicators, geopolitical events, and market psychology that influence currency values, and understand the importance of algorithms in optimizing trading efficiency and speed. This article provides essential insights for traders seeking to maintain a competitive edge in the evolving forex landscape."
+title: Comprehensive Guide to Currency Trading Fundamentals and Risks
+description: Currency trading offers insights into forex basics strategies and risk
+  management for both beginners and professionals Discover more inside.
 ---
 
 

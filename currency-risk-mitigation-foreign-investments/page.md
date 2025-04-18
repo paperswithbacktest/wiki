@@ -1,6 +1,7 @@
 ---
-title: "Currency Risk Mitigation for Foreign Investments"
-description: "Discover how algorithmic trading can help mitigate currency risk in foreign investments. Explore strategies to protect and optimize your global portfolio effectively."
+title: Effective Currency Risk Management Strategies for Investors
+description: Currency risk management helps investors shield foreign returns from
+  exchange rate swings with hedging, diversification and analytics Discover more inside.
 ---
 
 

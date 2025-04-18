@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Binance and Coinbase"
-description: "Discover the differences between Binance and Coinbase in algorithmic trading Discover which platform best suits your trading strategy and expertise"
+title: Binance vs Coinbase Comparison of Fees Security and Features
+description: Binance vs Coinbase comparison highlights fees user experience security
+  and trading features to help you pick the right exchange Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Debit Spread Comparison With Credit Spread"
-description: "Explore the differences between debit and credit spreads in options trading with insights on algorithmic trading strategies to enhance your trading approach."
+title: Key Differences Between Debit Spreads and Credit Spreads
+description: Debit and credit spreads differ in upfront cost risk and reward Compare
+  these spread strategies and choose your best fit Discover more inside
 ---
 
 

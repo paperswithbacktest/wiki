@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Corporate Bonds and Stocks"
-description: "Explore the key differences between corporate bonds and stocks in this insightful guide. Learn about their risks, rewards, and role of algorithmic trading."
+title: Comparing Corporate Bonds and Stocks for Investment Portfolios
+description: Corporate bonds and stocks deliver distinct income risk and liquidity
+  profiles for diversified portfolios and informed decisions Discover more inside
 ---
 
 

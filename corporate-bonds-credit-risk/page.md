@@ -1,6 +1,7 @@
 ---
-title: "Corporate Bonds and Credit Risk"
-description: "Explore the dynamics of corporate bonds and credit risk management through algorithmic trading Discover strategies to optimize investments and maximize returns"
+title: Understanding Credit Risk in Corporate Bond Investments
+description: Corporate bond credit risk shapes investment choices by using ratings
+  analysis and mitigation strategies to balance safety and yield. Discover more inside
 ---
 
 

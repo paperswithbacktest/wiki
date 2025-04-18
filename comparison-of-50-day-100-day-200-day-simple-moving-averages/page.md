@@ -1,6 +1,7 @@
 ---
-title: "Comparison of 50-Day, 100-Day, and 200-Day Simple Moving Averages"
-description: "Explore how 50-day, 100-day, and 200-day simple moving averages in algo trading help identify market trends and enhance decision-making with varying sensitivities."
+title: Understanding Simple Moving Averages for Trading Decisions
+description: Simple Moving Average analysis smooths price data over 50 100 and 200-day
+  spans to identify trend signals and guide trading decisions Discover more inside
 ---
 
 

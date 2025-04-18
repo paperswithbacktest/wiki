@@ -1,6 +1,7 @@
 ---
-title: "Compliance Audit"
-description: "Explore the critical role of compliance audits in algorithmic trading ensuring adherence to regulations and maintaining integrity in fast-paced financial markets."
+title: Complete Guide to Compliance Audits for Businesses
+description: Compliance audit ensures companies follow regulations and standards with
+  steps for preparation reporting and tech integration Discover more inside
 ---
 
 

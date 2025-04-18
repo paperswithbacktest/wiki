@@ -1,6 +1,7 @@
 ---
-title: "Credit Derivative Indexes Overview"
-description: "Explore the vital role of credit derivative indexes in finance through algo trading Learn about hedging credit default swaps and market influence in modern trading"
+title: Understanding Credit Derivative Indexes Definitions and Benefits
+description: Credit derivative indexes let investors manage and spread risk across
+  credit swaps while tracking market health effectively Discover more inside
 ---
 
 

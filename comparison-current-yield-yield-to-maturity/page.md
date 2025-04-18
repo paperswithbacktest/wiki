@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Current Yield and Yield to Maturity"
-description: "Discover key differences between current yield and yield to maturity in bond investments Learn how algorithmic trading enhances decision-making for optimal strategies"
+title: Understanding Current Yield and Yield to Maturity for Bonds
+description: Current yield helps investors gauge a bond's annual income relative to
+  its price while yield to maturity shows total return potential Discover more inside.
 ---
 
 

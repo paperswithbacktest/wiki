@@ -1,6 +1,7 @@
 ---
-title: "Comparison of High-Water Mark and Hurdle Rate"
-description: "Unlock investment insights with an exploration of high-water marks and hurdle rates in algorithmic trading Learn how these metrics protect investors and drive fund performance"
+title: Understanding High-Water Marks and Hurdle Rates in Funds
+description: High-water mark and hurdle rate explain how funds protect investors by
+  rewarding gains only after surpassing past peaks Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Corporate Trade Exchange: Overview and Functionality"
-description: "Explore how CTX payment systems revolutionize financial transactions by enhancing efficiency, accuracy, and transparency, crucial for modern businesses and governments."
+title: Corporate Trade Exchange Systems For Business Efficiency
+description: Corporate trade exchange lets businesses swap goods and services using
+  trade credits to save cash and streamline operations. Discover more inside.
 ---
 
 

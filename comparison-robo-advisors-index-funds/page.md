@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Robo-Advisors and Index Funds"
-description: "Explore the benefits of index funds and robo-advisors in this comprehensive guide to automated trading solutions. Compare strategies to optimize your investments."
+title: Comparing Robo-Advisors and Index Funds for Your Portfolio
+description: Robo-advisors and index funds offer tailored investment strategies with
+  automated rebalancing and low fees to suit your risk profile Discover more inside
 ---
 
 

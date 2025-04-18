@@ -1,6 +1,7 @@
 ---
-title: "Comparison of U.S. Savings Bonds: Series EE and Series I"
-description: "Compare Series EE and Series I U.S. Savings Bonds with insights on their benefits for stable investing plus the impact of digital innovations and algo trading."
+title: Understanding US Series EE And Series I Savings Bonds
+description: Series EE and Series I savings bonds deliver safe government backed yields
+  with fixed or inflation adjusted rates plus tax benefits Discover more inside.
 ---
 
 

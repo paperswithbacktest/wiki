@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Real Assets and Other Asset Types"
-description: "Explore the dynamic world of real and financial assets in this comprehensive guide that investigates into the benefits and risks of each, while highlighting the transformative role of algorithmic trading. Learn how real assets like real estate and commodities offer stability and a hedge against inflation, while financial assets such as stocks and bonds provide liquidity and growth potential. Discover how algorithmic trading enhances investment strategies by optimizing trading decisions and reducing emotional biases. Whether an experienced investor or a newcomer, gain insights into building a diversified portfolio that navigates the complexities of today’s financial markets effectively."
+title: Evaluating Real Assets And Their Role In Investment Portfolios
+description: Real assets offer tangible value and inflation protection while delivering
+  income and diversification benefits for investors Discover more inside.
 ---
 
 

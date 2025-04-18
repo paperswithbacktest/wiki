@@ -1,6 +1,7 @@
 ---
-title: "Consumer Financial Protection Bureau"
-description: "Explore how the Consumer Financial Protection Bureau ensures consumer protection in algorithmic trading by regulating data usage and promoting market fairness."
+title: Consumer Financial Protection Bureau Safeguarding Consumer Rights
+description: Consumer Financial Protection Bureau enforces fair rules, resolves disputes,
+  and offers guidance for smarter money decisions. Discover more inside
 ---
 
 

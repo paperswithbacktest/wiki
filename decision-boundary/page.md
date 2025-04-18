@@ -1,6 +1,7 @@
 ---
-title: "Decision Boundary (Machine Learning)"
-description: "Explore the concept of decision boundaries in machine learning learn how they function in classification tasks and their role in models like logistic regression"
+title: Understanding Decision Boundaries in Machine Learning Models
+description: Decision boundary in machine learning shows how models draw lines or
+  curves to separate data into classes accurately with examples Discover more inside.
 ---
 
 ![Image](images/1.png)

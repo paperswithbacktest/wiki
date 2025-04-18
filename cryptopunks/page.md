@@ -1,6 +1,7 @@
 ---
-title: "CryptoPunks"
-description: "Explore how CryptoPunks NFTs and algorithmic trading are reshaping digital art markets, creating new investment avenues through blockchain technology and innovation."
+title: Understanding CryptoPunks and Their Role in NFT Digital Art
+description: CryptoPunks pioneered digital art ownership on the blockchain and launched
+  the NFT market with rare exclusive 10,000 collectibles Discover more inside.
 ---
 
 

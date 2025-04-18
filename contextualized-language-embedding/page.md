@@ -1,6 +1,7 @@
 ---
-title: "Contextualized Language Embedding (Machine Learning)"
-description: "Explore how Contextualized Language Embeddings improve machine learning by dynamically capturing word meanings based on context for enhanced NLP tasks."
+title: Contextualized Language Embeddings in Machine Learning
+description: Contextualized Language Embeddings deliver dynamic context aware vectors
+  to boost NLP tasks such as translation and sentiment analysis Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Betterment and Schwab Intelligent Portfolios"
-description: "Discover a detailed comparison of Betterment and Schwab Intelligent Portfolios. Uncover how these leading robo-advisors utilize algorithmic trading to optimize investments."
+title: Betterment Vs Schwab Intelligent Portfolios Robo Advisor Guide
+description: Robo advisor Betterment and Schwab Intelligent Portfolios offer automated
+  investing with distinct fee structures tax strategies Discover more inside
 ---
 
 

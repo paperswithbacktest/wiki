@@ -1,6 +1,7 @@
 ---
-title: "Common Oil and Gas Exchange-Traded Funds"
-description: "Explore the surge in oil and gas ETFs and learn how algorithmic trading enhances energy investments by optimizing efficiencies and managing risks effectively."
+title: Oil And Gas ETFs Essential Guide To Risks And Returns
+description: Oil And Gas ETFs deliver diversified energy exposure with lower fees
+  easy trading and spread risk across companies in the sector Discover more inside
 ---
 
 

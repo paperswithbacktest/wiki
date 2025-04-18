@@ -1,6 +1,7 @@
 ---
-title: "Continuous Feature (Machine Learning)"
-description: "Explore the role of continuous features in machine learning including their importance in predictions and differences from categorical features for effective modeling."
+title: Optimizing Continuous Features for Accurate Model Predictions
+description: Continuous features drive nuanced machine learning predictions by capturing
+  subtle data variations and empowering robust models. Discover more inside
 ---
 
 ![Image](images/1.jpeg)

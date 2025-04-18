@@ -1,6 +1,7 @@
 ---
-title: "Consumer Price Index in Market Escalation Contracts"
-description: "Discover how the Consumer Price Index enhances market escalation contracts and algorithmic trading strategies to optimize inflation adjustments and financial stability."
+title: Using Consumer Price Index in Market Escalation Contracts
+description: Consumer Price Index provides transparent benchmark for adjusting contract
+  prices to match inflation in market escalation agreements Discover more inside
 ---
 
 

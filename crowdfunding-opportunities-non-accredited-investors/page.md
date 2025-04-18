@@ -1,6 +1,7 @@
 ---
-title: "Crowdfunding Opportunities for Non-Accredited Investors"
-description: "Explore the expanding investment landscape for non-accredited investors through crowdfunding and algo trading Learn strategies to navigate these new opportunities"
+title: Complete Crowdfunding Guide for Non-Accredited Investors
+description: Crowdfunding for non-accredited investors offers clear guidance on platform
+  choices risks diversification compliance Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Considerations for Structured Notes"
-description: "Explore the risks and complexities of structured notes and algorithmic trading, focusing on informed investment decisions, tailored returns, and potential challenges."
+title: Structured Notes A Complete Professional Guide for Investors
+description: Structured notes combine bond stability with derivative upside to customize
+  your investments and manage risk effectively. Discover more inside.
 ---
 
 

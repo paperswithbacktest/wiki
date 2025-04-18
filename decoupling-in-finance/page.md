@@ -1,6 +1,8 @@
 ---
-title: "Decoupling in Finance"
-description: "Explore the concept of decoupling in finance and how it impacts investment strategies. Gain insights into market dynamics and the role of algorithmic trading in this complex landscape."
+title: Decoupling in Finance Definition Importance and Investor Impact
+description: Decoupling in finance explains how markets move independently rather
+  than in tandem and why this shift matters for risk management and new investment
+  strategies Discover more inside
 ---
 
 

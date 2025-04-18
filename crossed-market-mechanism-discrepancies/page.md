@@ -1,6 +1,7 @@
 ---
-title: "Crossed Market: Definition, Mechanism, and Discrepancies"
-description: "Explore the dynamics of crossed markets and trading mechanisms in algo trading Learn to navigate rare market opportunities that arise during volatility and low liquidity"
+title: Understanding Crossed Market Dynamics in Stock Trading
+description: Crossed market events occur when bid prices exceed ask prices causing
+  trading confusion and halts. Explore causes risks and strategies Discover more inside.
 ---
 
 

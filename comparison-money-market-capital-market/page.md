@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Money Market and Capital Market"
-description: "Explore the distinction between money markets and capital markets, each catering to unique financial needs. Money markets focus on short-term, highly liquid, and low-risk instruments like Treasury bills, facilitating quick liquidity management. Conversely, capital markets address long-term investment through stocks and bonds, crucial for capital formation and economic growth. Learn how algorithmic trading reshapes these markets by enhancing transaction efficiency and liquidity."
+title: Understanding Money Markets and Capital Markets Differences
+description: Money market and capital market explained highlighting liquidity tools
+  and long-term investment benefits and key differences Discover more inside
 ---
 
 

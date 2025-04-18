@@ -1,6 +1,7 @@
 ---
-title: "Conversion Value: Explanation and Application"
-description: "Explore how business metrics and conversion value shape digital marketing and algorithmic trading strategies to optimize growth and efficiency."
+title: Understanding Conversion Value in Digital Marketing Strategies
+description: Conversion value reveals which customer actions drive the most revenue
+  so marketers can optimize budgets and campaigns effectively Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Controversial Investment Theories"
-description: "Explore core financial strategies and investment theories including EMH and MPT alongside the transformative impact of algorithmic trading in optimizing portfolios."
+title: Exploring Controversial Investment Theories and Strategies
+description: Controversial Investment Theories challenge mainstream ideas with EMH
+  Greater Fool and Random Walk to inform your strategy Discover more inside
 ---
 
 

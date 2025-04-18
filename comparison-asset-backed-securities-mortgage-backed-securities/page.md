@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Asset-Backed Securities and Mortgage-Backed Securities"
-description: "Explore the differences between Asset-Backed Securities and Mortgage-Backed Securities in relation to algorithmic trading. Understand their impact, benefits, and risks."
+title: Asset-Backed Vs Mortgage-Backed Securities Explained
+description: Asset-Backed and Mortgage-Backed Securities compare loan pools detailed
+  risk profiles and cash flows to guide investment decisions Discover more inside
 ---
 
 

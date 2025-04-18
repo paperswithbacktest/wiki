@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Collateralized Mortgage Obligations and Mortgage-Backed Securities"
-description: "Discover the dynamics of mortgage-backed securities and collateralized mortgage obligations coupled with algorithmic trading to optimize investment returns."
+title: Collateralized Mortgage Obligations And MBS Explained
+description: Collateralized Mortgage Obligations deliver diverse investment options
+  with MBS comparisons and risk insights for investors Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "continuous trading"
-description: "Discover how continuous trading and algorithmic trading transform financial markets by enabling instantaneous transactions, enhancing efficiency, and optimizing strategies."
+title: Understanding Continuous Trading Benefits and Strategies
+description: Continuous trading lets investors act on market changes all day using
+  reliable technology for faster execution and better liquidity Discover more inside
 ---
 
 

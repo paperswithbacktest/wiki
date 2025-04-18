@@ -1,6 +1,7 @@
 ---
-title: "Common Size Financial Statement"
-description: "Explore how financial statements, common size analysis, and algorithmic trading synergize to optimize financial strategies, enhancing decision-making in modern finance."
+title: Understanding Common Size Financial Statements for Analysis
+description: Common Size Financial Statements express costs and sales as percentages
+  of totals to highlight trends and improve company comparisons Discover more inside.
 ---
 
 

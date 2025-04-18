@@ -1,6 +1,7 @@
 ---
-title: "Debt Exchangeable for Common Stock"
-description: "Explore the significance of Debt Exchangeable for Common Stock and algorithmic trading in modern financial markets while understanding their benefits and challenges."
+title: Understanding Debt Exchangeable for Common Stock Instruments
+description: Debt exchangeable for common stock offers companies funding without diluting
+  ownership and lets investors convert bonds into equity Discover more inside.
 ---
 
 

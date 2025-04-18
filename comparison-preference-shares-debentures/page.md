@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Preference Shares and Debentures"
-description: "Discover the differences between preference shares and debentures in algo trading. Learn how each can optimize investment strategies for better returns."
+title: 'Preference Shares Vs Debentures: Key Differences and Features'
+description: Preference shares vs debentures help investors understand dividend priority
+  debt risks tax implications and payment security Discover more inside
 ---
 
 

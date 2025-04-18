@@ -1,6 +1,7 @@
 ---
-title: "Convexity"
-description: "Explore the vital role of geometry and mathematics in algorithmic trading Discover how these concepts enhance market analysis model development and trade execution"
+title: Convexity Concepts And Applications Across Math And Finance
+description: Convexity simplifies problem solving in geometry optimization and finance
+  by ensuring reliable results with math methods Discover more inside.
 ---
 
 

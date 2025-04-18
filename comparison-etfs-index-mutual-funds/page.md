@@ -1,6 +1,7 @@
 ---
-title: "Comparison of ETFs and Index Mutual Funds"
-description: "Explore the key differences between ETFs and index mutual funds in this comprehensive guide Discover their structures benefits and risks for investors"
+title: Comparing ETFs and Index Mutual Funds for Smart Investing
+description: ETFs and index mutual funds offer cost-effective portfolio diversification
+  tax advantages flexible trading options and unique benefits Discover more inside
 ---
 
 

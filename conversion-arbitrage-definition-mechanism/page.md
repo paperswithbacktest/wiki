@@ -1,6 +1,7 @@
 ---
-title: "Conversion Arbitrage: Definition and Mechanism"
-description: "Explore the intricacies of conversion arbitrage and its role in financial markets Discover how algorithmic trading enhances these strategies for optimized gain"
+title: 'Conversion Arbitrage Strategies: Exploiting Price Inefficiencies'
+description: Conversion Arbitrage lets traders profit from price gaps between convertible
+  bonds and stocks using real-time tools and hedging Discover more inside
 ---
 
 

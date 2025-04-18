@@ -1,6 +1,7 @@
 ---
-title: "Cost Depletion: Concepts, Calculation, and Examples"
-description: "Explore cost depletion in resource extraction and algorithmic trading Learn its essential role in accounting for resource consumption and market opportunity erosion"
+title: Cost Depletion Guide for Natural Resource Accounting
+description: Cost depletion lets resource companies allocate extraction costs over
+  time to match expenses with revenue for precise tax reporting Discover more inside
 ---
 
 

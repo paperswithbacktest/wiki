@@ -1,6 +1,7 @@
 ---
-title: "Cross-market arbitrage"
-description: "Explore the intricacies of cross-market arbitrage leveraging algorithmic trading to exploit price differences across markets with speed and precision."
+title: Cross Market Arbitrage Strategies for Global Trading Profits
+description: Cross market arbitrage shows how to spot price gaps and calculate net
+  gains after costs with automated tools to manage risks Discover more inside.
 ---
 
 

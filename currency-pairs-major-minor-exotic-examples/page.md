@@ -1,6 +1,7 @@
 ---
-title: "Currency Pairs: Major, Minor, and Exotic Examples"
-description: "Explore the world of currency pairs in forex trading The importance of major minor and exotic pairs is highlighted along with algo trading advantages"
+title: Exploring Major Minor And Exotic Forex Currency Pairs
+description: Forex currency pairs cover major minor and exotic classifications to
+  help traders understand liquidity volatility and risk management Discover more inside.
 ---
 
 

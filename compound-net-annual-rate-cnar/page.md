@@ -1,6 +1,7 @@
 ---
-title: "Compound Net Annual Rate (CNAR)"
-description: "Explore the Compound Net Annual Rate (CNAR) as a crucial metric in algorithmic trading that evaluates post-tax investment returns providing investors a realistic profitability view."
+title: Understanding Compound Net Annual Rate CNAR for Investors
+description: Compound Net Annual Rate CNAR delivers a clear measure of post-tax investment
+  growth by factoring in compounding and taxes Discover more inside
 ---
 
 

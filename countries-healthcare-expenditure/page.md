@@ -1,6 +1,7 @@
 ---
-title: "Countries by Healthcare Expenditure"
-description: "Explore how countries allocate financial resources to healthcare and the role of algorithmic trading in influencing economic dynamics and healthcare funding."
+title: Healthcare Expenditure Trends and Global Spending Insights
+description: Healthcare expenditure reveals global spending patterns cost drivers
+  and insights guiding policy improvements and access Discover more inside
 ---
 
 

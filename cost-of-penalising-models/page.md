@@ -1,6 +1,7 @@
 ---
-title: "Cost of Penalising Models"
-description: "Exploring the costs of penalizing models in algorithmic trading, highlighting the balance between precision and profitability for traders optimizing strategies."
+title: Model Penalisation Strategies to Balance Complexity and Cost
+description: Model Penalisation enhances model generalisation and predictive accuracy
+  by simplifying complexity and reducing operational costs Discover more inside.
 ---
 
 

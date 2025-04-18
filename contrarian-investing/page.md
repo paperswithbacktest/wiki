@@ -1,6 +1,7 @@
 ---
-title: "Contrarian investing"
-description: "Discover the unique strategies and benefits of contrarian investing combined with algorithmic trading for savvy investors looking to capitalize on market inefficiencies."
+title: Contrarian Investing Strategies for Long Term Market Success
+description: Contrarian investing explains how to profit by buying undervalued stocks
+  when others sell and selling overhyped stocks at peaks Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Direct Real Estate Investment and REITs"
-description: "Explore the pros and cons of direct real estate investments REITs and algorithmic trading for informed investment decisions in the real estate sector."
+title: Evaluating Direct Real Estate Investment Vs REITs For Investors
+description: Direct real estate investment and REITs differ in costs returns liquidity
+  and taxes Compare risks to find best fit for your portfolio Discover more inside
 ---
 
 

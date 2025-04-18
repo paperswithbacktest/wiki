@@ -1,6 +1,7 @@
 ---
-title: "Data Parallelism (Machine Learning)"
-description: "Data parallelism in machine learning speeds up model training by distributing data across multiple GPUs or CPUs enabling faster processing and efficiency."
+title: Efficient Data Parallelism Techniques for Machine Learning
+description: Data parallelism speeds up machine learning by splitting data across
+  GPUs and syncing updates to cut training time and optimize GPU utilization See inside
 ---
 
 ![Image](images/1.png)

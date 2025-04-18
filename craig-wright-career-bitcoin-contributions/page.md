@@ -1,6 +1,7 @@
 ---
-title: "Craig Wright: Career and Bitcoin Contributions"
-description: "Explore the intricate career and contributions of Craig Wright, a controversial figure in the cryptocurrency realm. This article investigates into Wright's assertion of being Satoshi Nakamoto, the enigmatic creator of Bitcoin, and examines his impact on algorithmic trading. Discover insights into technological advancements, identity assertions, and legal controversies that shed light on Wright's significant role in digital currency."
+title: Craig Wright Satoshi Nakamoto Controversy and Blockchain Vision
+description: Craig Wright claim as Bitcoin creator sparks debate over evidence and
+  fuels BSV blockchain innovation amid legal battles Discover more inside
 ---
 
 

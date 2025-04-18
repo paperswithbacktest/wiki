@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Vanguard and TD Ameritrade"
-description: "Compare Vanguard and TD Ameritrade for algorithmic trading insights on usability order types costs and the impact of TD Ameritrade's merger with Charles Schwab."
+title: Vanguard vs TD Ameritrade Investment Platform Comparison
+description: Vanguard vs TD Ameritrade review highlights fees account options and
+  platform features to help you make an informed choice Discover more inside.
 ---
 
 

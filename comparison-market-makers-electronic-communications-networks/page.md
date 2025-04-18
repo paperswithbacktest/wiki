@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Market Makers and Electronic Communications Networks"
-description: "Discover the intricacies of market makers and ECNs in algorithmic trading Learn about their roles in enhancing liquidity trading efficiency and pricing transparency"
+title: Understanding Market Makers and ECNs in Trading Markets
+description: Market makers and ECNs streamline trading by ensuring liquidity and transparency
+  while reducing costs. Gain insights on spreads and discover more inside
 ---
 
 

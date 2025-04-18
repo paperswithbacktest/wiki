@@ -1,6 +1,7 @@
 ---
-title: "Dark Money: Definition, Function, and Examples"
-description: "Explore how dark money and algorithmic trading intersect to influence political campaigns and the democratic process with anonymous donations and advanced tech."
+title: Understanding Dark Money in Politics and Its Impact on Democracy
+description: Dark money hides donor identities to shape elections and sway policymakers
+  with secret agendas at the expense of public trust Discover more inside.
 ---
 
 

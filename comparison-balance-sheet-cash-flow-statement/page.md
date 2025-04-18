@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Balance Sheet and Cash Flow Statement"
-description: "Explore the crucial role of balance sheets and cash flow statements in algo trading Learn how to leverage these documents for data-driven trading strategies"
+title: Understanding Balance Sheet And Cash Flow Statement Fundamentals
+description: Balance Sheet and Cash Flow Statement analysis helps you track assets
+  liabilities and cash flow for solid financial insights Discover more inside
 ---
 
 

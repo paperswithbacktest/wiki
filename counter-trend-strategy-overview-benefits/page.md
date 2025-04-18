@@ -1,6 +1,7 @@
 ---
-title: "Counter Trend Strategy: Overview and Benefits"
-description: "Unlock the potential of counter trend trading with algorithmic strategies Capitalize on market reversals and enhance trading efficiency with advanced tools"
+title: Mastering Counter Trend Trading Strategies for Market Reversals
+description: Counter trend strategy helps traders capture short term reversals using
+  RSI and Bollinger Bands with tight stop losses to control risk Discover more inside
 ---
 
 

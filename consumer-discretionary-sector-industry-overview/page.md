@@ -1,6 +1,7 @@
 ---
-title: "Consumer Discretionary Sector: Industry Overview"
-description: "Explore the impact of algorithmic trading on the consumer discretionary sector highlighting key industries, market dynamics, trends, and risks for informed investing."
+title: Understanding The Consumer Discretionary Sector And Its Impact
+description: Consumer discretionary sector trends reveal how spending shifts drive
+  growth challenges and strategic investment opportunities Discover more inside
 ---
 
 

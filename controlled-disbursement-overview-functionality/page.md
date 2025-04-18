@@ -1,6 +1,7 @@
 ---
-title: "Controlled Disbursement: Overview and Functionality"
-description: "Discover how controlled disbursement and algorithmic trading enhance cash management for businesses, boosting liquidity and optimizing financial operations."
+title: Controlled Disbursement for Effective Corporate Cash Management
+description: Controlled Disbursement provides businesses a daily report of outgoing
+  payments to optimize cash flow and prevent shortfalls Discover more inside
 ---
 
 

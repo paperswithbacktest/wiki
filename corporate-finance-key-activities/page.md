@@ -1,6 +1,7 @@
 ---
-title: "Corporate Finance: Key Activities"
-description: "Explore the significant role of algorithmic trading in corporate finance improving speed and efficiency in trade execution while minimizing human error and optimizing financial strategies."
+title: Corporate Finance Essentials Guide for Strategic Business Growth
+description: Corporate finance guides businesses through funding, budgeting, risk
+  management and capital planning to boost growth and value. Discover more inside.
 ---
 
 

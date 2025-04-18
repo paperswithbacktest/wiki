@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Sarbanes-Oxley and Dodd-Frank Acts"
-description: "Explore the impact of the Sarbanes-Oxley and Dodd-Frank Acts on algorithmic trading and learn how these regulations shape financial markets."
+title: Sarbanes-Oxley Act and Dodd-Frank Act Compliance Guide
+description: Sarbanes-Oxley Act and Dodd-Frank Act shape corporate governance and
+  financial stability with key provisions and compliance insights Discover more inside
 ---
 
 

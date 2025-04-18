@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Accrual and Accounts Payable"
-description: "Explore the advantages and challenges of accrual accounting accounts payable and algorithmic trading to enhance financial accuracy and strategic decisions."
+title: Understanding Accrual Accounting and Accounts Payable
+description: Accrual accounting records income and expenses when they occur and tracks
+  accounts payable to manage liabilities effectively Discover more inside
 ---
 
 

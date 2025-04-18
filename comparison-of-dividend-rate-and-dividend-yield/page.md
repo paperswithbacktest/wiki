@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Dividend Rate and Dividend Yield"
-description: "Explore the nuances between dividend rate and dividend yield in dividend investing Discover how algorithmic trading enhances these investment strategies for optimal returns"
+title: Understanding Dividend Rate and Yield for Smarter Investing
+description: Dividend rate and yield guide explains how to calculate income and compare
+  returns for informed investing and portfolio decisions Discover more inside
 ---
 
 

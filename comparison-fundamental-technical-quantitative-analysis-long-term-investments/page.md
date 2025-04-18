@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Fundamental, Technical, and Quantitative Analysis for Long-Term Investments"
-description: "Explore the strengths of fundamental technical and quantitative analysis in algorithmic trading for long-term investments to maximize returns and minimize risk."
+title: Fundamental Technical And Quantitative Analysis For Investors
+description: Fundamental analysis with technical and quantitative tools helps investors
+  gauge stock value and build a resilient portfolio Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Debt Funds: Risks, Investment Strategies, and Examples"
-description: "Explore how debt funds balance risks and returns through strategic financial risk management and algorithmic trading Learn about investment strategies and examples"
+title: 'Guide to Debt Funds: Risks, Types and Investment Strategies'
+description: Debt funds deliver steady income and preserve capital with bond portfolios.
+  Compare fund types assess risks and optimize returns. Discover more inside.
 ---
 
 

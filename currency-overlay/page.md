@@ -1,6 +1,7 @@
 ---
-title: "Currency Overlay"
-description: "Explore the intricacies of currency overlay an investment strategy designed to manage FX risks in portfolios enhance returns and optimize performance using algorithmic trading."
+title: Currency Overlay Strategies For Protecting Portfolio Returns
+description: Currency overlay helps investors manage exchange rate risk and protect
+  portfolio returns using forward contracts options and swaps. Discover more inside.
 ---
 
 

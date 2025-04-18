@@ -1,6 +1,7 @@
 ---
-title: "Corridor Rule: Explanation and Application"
-description: "Explore the pivotal role of the Corridor Rule in managing pension plan expenses in financial statements and its synergy with actuarial science in trading."
+title: Understanding the Corridor Rule for Pension Accounting Compliance
+description: Corridor Rule establishes a 10 percent threshold to amortize actuarial
+  gains and losses to smooth pension expense volatility Discover more inside
 ---
 
 

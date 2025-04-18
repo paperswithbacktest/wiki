@@ -1,6 +1,7 @@
 ---
-title: "Consumption Function: Formula, Assumptions, Implications"
-description: "Explore the relationship between the consumption function, economic assumptions, and algorithmic trading, and their implications for economic growth, stability, and market efficiency."
+title: Understanding the Consumption Function in Economics
+description: Consumption function explains how disposable income drives spending through
+  autonomous consumption and marginal propensity to consume Discover more inside
 ---
 
 

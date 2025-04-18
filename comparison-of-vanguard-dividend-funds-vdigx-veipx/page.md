@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Vanguard Dividend Funds: VDIGX and VEIPX"
-description: "Explore the differences between Vanguard VEIPX and VDIGX dividend funds and learn how algorithmic trading optimizes their strategies for investors."
+title: Comparing Vanguard Dividend Funds VDIGX vs VEIPX Performance
+description: Vanguard Dividend Growth Fund VDIGX and Equity Income Fund VEIPX comparison
+  highlights their income growth potential and risk profiles Discover more inside
 ---
 
 

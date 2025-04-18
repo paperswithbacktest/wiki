@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Old and New Economy Stocks"
-description: "Explore the fundamental differences between old and new economy stocks, and discover how algorithmic trading enhances investment strategies and decision-making."
+title: Understanding Old Economy Stocks Versus New Economy Stocks
+description: Old economy stocks offer stable dividends and resilience across cycles,
+  while new economy stocks drive rapid growth amid volatility Discover more inside
 ---
 
 

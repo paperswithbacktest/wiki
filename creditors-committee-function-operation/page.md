@@ -1,6 +1,7 @@
 ---
-title: "Creditors' Committee: Function and Operation"
-description: "Explore the critical role of creditors' committees in bankruptcy, examining how they navigate the challenges presented by the rise of algorithmic trading."
+title: Creditors' Committee Roles And Responsibilities In Bankruptcy
+description: Creditors' Committee protects interests by guiding bankruptcy asset distribution,
+  legal oversight and reorganization planning Discover more inside.
 ---
 
 

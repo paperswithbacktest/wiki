@@ -1,6 +1,7 @@
 ---
-title: "Comparison of CIF and FOB Purchase Methods"
-description: "Discover how CIF vs FOB terms impact responsibilities, costs, and risks in global trade and algorithmic trading strategies for optimized operations and profits."
+title: Comparing CIF vs FOB Shipping Terms in International Trade
+description: CIF vs FOB comparison outlines seller and buyer duties cost risks insurance
+  and documentation differences in international shipping Discover more inside.
 ---
 
 

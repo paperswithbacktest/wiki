@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Robinhood and Vanguard"
-description: "Discover the key differences between Robinhood and Vanguard investment platforms and how they cater to various investor needs. Explore the emergence of algorithmic trading and its impact on modern investing. Gain insights into selecting the best platform tailored to your financial goals and strategy preferences."
+title: Comparing Robinhood And Vanguard Investment Platforms
+description: Robinhood and Vanguard offer distinct investing options with varied fees
+  minimums and tools for new and long term investors Discover more inside
 ---
 
 

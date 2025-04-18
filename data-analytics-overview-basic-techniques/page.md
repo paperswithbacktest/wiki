@@ -1,6 +1,7 @@
 ---
-title: "Data Analytics: Overview and Basic Techniques"
-description: "Explore how data analytics drives algorithmic trading by automating decisions and improving efficiency Discover techniques that transform trading practices"
+title: Comprehensive Guide to Data Analytics Techniques and Tools
+description: Data Analytics empowers teams to uncover trends and make data driven
+  decisions using tools techniques and ethical practices Discover more inside.
 ---
 
 

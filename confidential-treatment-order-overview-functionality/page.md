@@ -1,6 +1,7 @@
 ---
-title: "Confidential Treatment Order: Overview and Functionality"
-description: "Confidential Treatment Orders are vital tools in financial regulations allowing firms, particularly in algorithmic trading, to protect sensitive data and strategies."
+title: Guide to SEC Confidential Treatment Orders for Company Filings
+description: Confidential Treatment Order requests help companies protect sensitive
+  information in SEC filings while ensuring regulatory compliance Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Data Set Or Dataset (Machine Learning)"
-description: "Discover how datasets in machine learning fuel model training, validation, and testing. Learn about data types, collection methods, and preprocessing steps."
+title: Complete Guide to Machine Learning Datasets and Preparation
+description: Machine Learning Datasets drive model accuracy by guiding data collection
+  cleaning augmentation and testing for reliable outcomes Discover more inside.
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Common Mistakes by Young Investors"
-description: "Discover the common pitfalls young investors face in algorithmic trading and learn how to avoid them to enhance your journey towards financial growth and success."
+title: Common Investment Mistakes Young Investors Must Avoid
+description: Common investment mistakes young investors make cause losses start researching
+  assets diversify portfolios stick with a long term plan Discover more inside
 ---
 
 

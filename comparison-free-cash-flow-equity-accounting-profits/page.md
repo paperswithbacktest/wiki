@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Free Cash Flow to Equity and Accounting Profits"
-description: "Unlock deeper financial insights with our comparison of Free Cash Flow to Equity and accounting profits, vital for enhancing algorithmic trading strategies."
+title: Understanding Free Cash Flow to Equity Versus Accounting Profits
+description: Free Cash Flow to Equity shows the cash left after operating outflows
+  for dividends giving investors clearer financial insight Discover more inside
 ---
 
 

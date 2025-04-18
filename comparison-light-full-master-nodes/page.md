@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Light, Full, and Master Nodes"
-description: "Explore the roles of light, full, and master nodes in blockchain to understand their significance in transaction validation and their impact on algo trading."
+title: Comparing Light Full and Master Nodes in Blockchain Networks
+description: Blockchain nodes explained with light full and master node comparisons
+  that reveal key features storage security and incentives Discover more inside.
 ---
 
 

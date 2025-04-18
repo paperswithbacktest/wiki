@@ -1,6 +1,7 @@
 ---
-title: "Comparative Analysis of Cash Flow and Asset-Based Business Lending"
-description: "Explore the differences between cash flow and asset-based lending for businesses involved in algo trading Understand how these financing options impact growth and operations"
+title: Key Differences Between Cash Flow and Asset-Based Lending
+description: Cash flow lending evaluates income to secure funds while asset-based
+  lending relies on collateral Compare terms rates and interest Discover more inside.
 ---
 
 

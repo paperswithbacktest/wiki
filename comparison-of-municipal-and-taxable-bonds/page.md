@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Municipal and Taxable Bonds"
-description: "Discover the differences between municipal and taxable bonds plus the impact of algo trading in modern bond investments to optimize your investment strategy"
+title: Comparing Taxation and Risks of Municipal vs Taxable Bonds
+description: Guide to municipal bonds vs taxable bonds covers tax benefits yield differences
+  and risk so you can make informed investment choices Discover more inside
 ---
 
 

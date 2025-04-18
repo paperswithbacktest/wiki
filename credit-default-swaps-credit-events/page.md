@@ -1,6 +1,7 @@
 ---
-title: "Credit Default Swaps and Credit Events"
-description: "Explore the intricacies of credit default swaps (CDS) and credit events, and discover the role of algorithmic trading in modern financial markets."
+title: Understanding Credit Default Swaps Benefits Risks and Pricing
+description: Credit Default Swaps offer investors a way to insure bonds against defaults
+  by paying regular premiums and shifting risk to sellers Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Self-Directed and Automated Investing"
-description: "Explore the evolving landscape of investing with insights on self-directed investing vs automated trading Learn strategies to optimize your financial decisions"
+title: Self-Directed and Automated Investing Key Differences Explained
+description: Self-directed investing gives you full control over selections while
+  automated investing simplifies decisions with robo-advisors Discover more inside
 ---
 
 

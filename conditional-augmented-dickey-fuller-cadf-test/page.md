@@ -1,6 +1,7 @@
 ---
-title: "Conditional augmented Dickey-Fuller (CADF) test"
-description: Explore the Conditional Augmented Dickey-Fuller (CADF) test, a key statistical tool in algorithmic trading used to assess time series stationarity. Discover how this test enhances the traditional Augmented Dickey-Fuller (ADF) by providing optimal hedge ratios essential for pairs trading. By identifying cointegrated pairs, traders can capitalize on market opportunities through mean-reversion strategies, optimizing potential returns. Understanding CADF's role in constructing more precise trading strategies can significantly improve algorithmic trading outcomes.
+title: Conditional Augmented Dickey-Fuller Test for Cointegration
+description: Conditional Augmented Dickey-Fuller test evaluates cointegration of two
+  series to uncover long-term links and inform economic analysis Discover more inside.
 ---
 
 

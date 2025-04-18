@@ -1,6 +1,7 @@
 ---
-title: "Consumer Credit Protection Act"
-description: "Explore the Consumer Credit Protection Act's impact on consumer finance transparency and fairness alongside the rise of algorithmic trading in financial markets."
+title: Consumer Credit Protection Act Key Provisions Explained
+description: Consumer Credit Protection Act requires transparent lending costs protects
+  credit reports and ensures fair treatment for borrowers Discover more inside.
 ---
 
 

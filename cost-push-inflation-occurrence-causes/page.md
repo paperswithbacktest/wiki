@@ -1,6 +1,7 @@
 ---
-title: "Cost-Push Inflation: Occurrence and Causes"
-description: "Explore the effects of cost-push inflation and its impact on economic and trading strategies Learn how increased production costs affect price levels and algorithmic trading"
+title: Understanding Cost-Push Inflation Causes and Economic Effects
+description: Cost-Push Inflation occurs when rising input costs force price hikes
+  for consumers Active strategies can help curb inflation Discover more today
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Complex Capital Structure"
-description: "Explore the dynamic interplay between corporate capital structure, financial leverage, and algorithmic trading to enhance financial strategies and improve outcomes."
+title: Understanding Complex Capital Structure for Corporate Finance
+description: Complex capital structure balances debt equity and hybrid securities
+  to optimize firm valuation and manage financial risk effectively Discover more inside
 ---
 
 

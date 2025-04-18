@@ -1,6 +1,7 @@
 ---
-title: "Cumulative Distribution Function (Cdf) (Machine Learning)"
-description: "Explore the role of the cumulative distribution function in machine learning for understanding data spreadout and enhancing prediction accuracy."
+title: Cumulative Distribution Functions in Machine Learning Explained
+description: Cumulative Distribution Function reveals how data probabilities accumulate
+  to guide model predictions with code samples Discover more inside.
 ---
 
 ![Image](images/1.png)

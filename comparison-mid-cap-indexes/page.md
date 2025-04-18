@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Mid-Cap Indexes"
-description: "Explore the dynamics of mid-cap indexes in algorithmic trading to optimize investment strategies. Gain insights into index structures and their unique benefits."
+title: Understanding Mid-Cap Indexes for Balanced Investment Growth
+description: Mid-cap index funds balance growth and stability by tracking medium sized
+  companies to reduce portfolio risk and boost returns Discover more inside
 ---
 
 

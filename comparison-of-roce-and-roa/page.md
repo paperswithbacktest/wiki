@@ -1,6 +1,7 @@
 ---
-title: "Comparison of ROCE and ROA"
-description: "Explore the interaction between algorithmic trading and key financial metrics ROCE and ROA to refine investment strategies and enhance decision-making."
+title: Understanding ROCE and ROA Financial Metrics for Investors
+description: ROCE and ROA show how companies convert capital and assets into profits
+  to benchmark performance and guide smarter investing Discover more inside
 ---
 
 

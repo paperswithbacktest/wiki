@@ -1,6 +1,7 @@
 ---
-title: "Cost Basis: Overview, Calculation, and Tax Implications"
-description: "Discover the essential role of cost basis in algo trading—from investment strategy to tax implications—ensuring accuracy in capital gains and compliance."
+title: Investor Guide To Cost Basis Calculation And Tax Reporting
+description: Cost basis tracks your original investment value plus fees dividends
+  and splits to calculate accurate capital gains and losses Discover more inside
 ---
 
 

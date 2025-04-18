@@ -1,6 +1,7 @@
 ---
-title: "Core Liquidity"
-description: "Explore the characteristics and vital role of core liquidity and algorithmic trading within financial markets to enrich trading processes and ensure stability."
+title: Understanding Core Liquidity's Role in Financial Markets
+description: Core liquidity ensures businesses and markets meet short term obligations
+  without disruption by converting assets into cash quickly Discover more inside.
 ---
 
 

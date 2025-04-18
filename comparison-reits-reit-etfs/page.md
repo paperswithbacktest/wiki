@@ -1,6 +1,7 @@
 ---
-title: "Comparison of REITs and REIT ETFs"
-description: "Explore the benefits and differences of investing in Real Estate Investment Trusts versus REIT ETFs and how algorithmic trading can enhance your investment strategy."
+title: Comparing REITs vs REIT ETFs for Diversified Real Estate Income
+description: REIT ETFs simplify real estate investing by bundling multiple REITs for
+  steady dividends and diversified risk management Discover more inside.
 ---
 
 

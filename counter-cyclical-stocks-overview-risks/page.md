@@ -1,6 +1,7 @@
 ---
-title: "Counter-Cyclical Stocks: Overview and Risks"
-description: "Explore the role of counter-cyclical stocks in investment strategies, their risks, and how algorithmic trading aids in managing these risks during economic downturns."
+title: Counter-Cyclical Stocks Protect Portfolios in Economic Downturns
+description: Counter-cyclical stocks stabilize your portfolio during recessions by
+  focusing on essentials like utilities and healthcare services Discover more inside.
 ---
 
 

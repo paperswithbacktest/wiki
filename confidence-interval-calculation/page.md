@@ -1,6 +1,7 @@
 ---
-title: "Confidence Interval Calculation"
-description: "Confidence intervals in algorithmic trading offer a statistical measure of uncertainty helping traders evaluate the reliability of strategies and optimize performance."
+title: 'Understanding Confidence Intervals: A Complete Statistical Guide'
+description: Confidence interval methods show how sample size and data variability
+  define the precision of estimates enabling informed decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of NOI and EBIT"
-description: "Discover the differences between Net Operating Income (NOI) and Earnings Before Interest and Taxes (EBIT) in algo trading to enhance your investment strategies."
+title: Comparing NOI and EBIT for Effective Financial Analysis
+description: NOI and EBIT are essential for comparing property and business profitability
+  with clear calculation steps and use cases Explore how to leverage each inside
 ---
 
 

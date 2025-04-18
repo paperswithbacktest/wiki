@@ -1,6 +1,7 @@
 ---
-title: "Countries and Economy of the Middle East and North Africa"
-description: "Explore how MENA's evolving economies are integrating algorithmic trading to diversify from oil reliance enhancing market efficiency and attracting global investors."
+title: Economic Development in the Middle East and North Africa
+description: Middle East and North Africa economies diversify beyond oil into tourism
+  agriculture and manufacturing despite instability Discover more inside
 ---
 
 

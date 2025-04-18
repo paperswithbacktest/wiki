@@ -1,6 +1,7 @@
 ---
-title: "Dataframe (Machine Learning)"
-description: "Explore the role of DataFrames in machine learning from creation and manipulation to data preparation Learn basic operations and data preprocessing techniques"
+title: Essential DataFrame Operations for Machine Learning Projects
+description: DataFrame workflows help you clean transform and merge data efficiently
+  for seamless machine learning model preparation. Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

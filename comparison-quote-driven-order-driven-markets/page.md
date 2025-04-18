@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Quote-Driven and Order-Driven Markets"
-description: "Explore the differences and benefits of quote-driven and order-driven markets in algo trading and how they influence trading strategies and liquidity."
+title: Comparing Quote-Driven and Order-Driven Market Structures
+description: Quote-Driven and Order-Driven Market Structures offer insights into dealer
+  pricing and transparent order books for efficient trading Discover more inside
 ---
 
 

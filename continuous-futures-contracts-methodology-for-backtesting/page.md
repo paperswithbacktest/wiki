@@ -1,6 +1,7 @@
 ---
-title: "Continuous Futures Contracts Methodology for Backtesting"
-description: Explore the intricacies of continuous futures contracts methodology for effective algorithmic trading backtesting. Discover techniques to seamlessly transition between futures contracts, ensuring accurate and reliable data for strategic development. Learn about the challenges of spliced futures and explore various solutions and best practices to accurately simulate market conditions and enhance trading strategies.
+title: Continuous Futures Backtesting for Strategy Optimization
+description: Continuous futures backtesting builds seamless contracts with roll and
+  contango adjustments for accurate trading strategy results Discover more inside.
 ---
 
 

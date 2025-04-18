@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Value and Growth ETFs"
-description: "Compare value and growth ETFs as modern investment strategies that integrate algorithmic trading and diversification to optimize returns and manage risk."
+title: Understanding Value and Growth ETFs for Informed Investing
+description: Value and growth ETFs offer a comparison of investment strategies risk
+  profiles fees and historical performance for informed choices Discover more inside.
 ---
 
 

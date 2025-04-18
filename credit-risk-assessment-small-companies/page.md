@@ -1,6 +1,7 @@
 ---
-title: "Credit Risk Assessment for Small Companies"
-description: "Explore how small companies can balance credit risk and algorithmic trading to achieve financial stability and growth. Discover strategies to manage unique financial challenges."
+title: Small Business Credit Risk Assessment and Management Guide
+description: Credit Risk Assessment guides small businesses through key ratios cash
+  flow analysis and credit reports to secure better loan terms Discover more inside.
 ---
 
 

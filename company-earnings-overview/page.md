@@ -1,6 +1,7 @@
 ---
-title: "Company Earnings Overview"
-description: "Discover how company earnings reports are essential tools for investors by providing insights into a business's financial health and growth potential with an emphasis on the impact of algorithmic trading in the analysis. Understand the dynamics of financial performance indicators like revenue and net income which signal a company's operational efficiency and market competitiveness. Explore how company earnings and business income trends influence investment strategies and decision-making in today's financial markets."
+title: Understanding Company Earnings and Their Impact on Stock Prices
+description: Company earnings reveal profitability and guide investment by detailing
+  revenue cost and EPS trends that drive stock price changes Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Inventory Accounting Under GAAP and IFRS"
-description: "Explore the complexities of inventory accounting under GAAP and IFRS in the context of algorithmic trading. This article investigates into how different inventory valuation methods like FIFO, LIFO, and Weighted Average, with their unique impacts on financial statements, intersect with the rapid, data-driven nature of algo-trading. Understand the crucial differences between IFRS and GAAP and their implications for financial reporting, essential for professionals navigating today's evolving financial landscape."
+title: Inventory Accounting Key Differences Between GAAP And IFRS
+description: Inventory accounting under GAAP and IFRS shapes financial reporting and
+  tax planning with FIFO LIFO and weighted average cost Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Custom Basket Exchange-Traded Funds"
-description: "Explore the potential of custom basket ETFs optimized for diversification and risk management, powered by algorithmic trading for precision and efficiency."
+title: Custom Basket ETFs Unlocking Personalized Investment Strategies
+description: Custom basket ETF strategies let investors tailor portfolios to sectors
+  and themes while offering active management and lower costs Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Complementary Currency: Overview and Examples"
-description: "Explore how complementary currencies like Local Exchange Systems redefine economic transactions by enhancing local trade, financial resilience, and community cohesion."
+title: Understanding Complementary Currency Goals and Community Benefits
+description: Complementary currency programs boost local economies and reward sustainable
+  community actions through local spending and volunteering Discover more inside
 ---
 
 

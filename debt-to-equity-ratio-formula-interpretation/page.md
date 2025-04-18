@@ -1,6 +1,8 @@
 ---
-title: "Debt-to-Equity Ratio Formula and Interpretation"
-description: "Discover how the debt-to-equity ratio formula reveals a company's financial leverage crucial for investors and algorithmic trading strategies to assess risk and stability."
+title: Understanding the Debt-To-Equity Ratio for Financial Analysis
+description: Debt-to-equity ratio reveals how businesses balance debt and equity to
+  measure financial leverage and risk. Understand this metric in depth Discover more
+  inside
 ---
 
 

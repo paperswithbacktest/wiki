@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Return on Sales and Operating Margin"
-description: "Explore the key differences between return on sales and operating margin in financial analysis essential for investors and algorithmic trading strategies."
+title: Understanding Return on Sales and Operating Margin Metrics
+description: Return on Sales and Operating Margin show how efficiently companies turn
+  sales into profit by comparing operating income to net sales Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Convertible Preferred Shares"
-description: "Discover the potential of convertible preferred shares in investment strategies. Learn how these hybrid instruments balance stability with growth opportunities through algorithmic trading."
+title: Understanding Convertible Preferred Shares for Smart Investing
+description: Convertible preferred shares offer fixed dividends and growth potential
+  by converting into common stock under favorable terms Discover more inside.
 ---
 
 

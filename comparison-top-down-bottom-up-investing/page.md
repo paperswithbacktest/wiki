@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Top-Down and Bottom-Up Investing"
-description: "Discover top-down and bottom-up investing strategies in algorithmic trading Understand how macroeconomic and microeconomic analyses shape investment opportunities"
+title: Top-Down and Bottom-Up Investing Strategies Explained
+description: Top-Down and Bottom-Up Investing provide key methods for evaluating markets
+  by focusing on economic trends or company fundamentals Discover more inside.
 ---
 
 

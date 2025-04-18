@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Covered Calls and Regular Calls"
-description: "Explore the differences between covered and regular calls in options trading and discover how algo trading can optimize these strategies for better outcomes."
+title: Understanding Covered Calls Versus Regular Call Options
+description: Covered calls generate extra income by selling options on stocks you
+  own while regular calls offer bigger gains with higher risk Discover more inside
 ---
 
 

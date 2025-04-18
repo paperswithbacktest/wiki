@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Marginal Propensity to Consume and Save"
-description: "Explore the impact of Marginal Propensity to Consume and Save on economic trends and algorithmic trading strategies by analyzing key economic indicators for better market predictions."
+title: Understanding Marginal Propensity to Consume and Save
+description: Marginal propensity to consume shows how extra income drives spending
+  versus saving and shapes fiscal policy impact Discover more inside now.
 ---
 
 

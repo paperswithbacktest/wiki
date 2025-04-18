@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Preferred Stocks and Bonds"
-description: "Explore the comprehensive comparison of bonds and preferred stocks, two key investment options, and learn about the impact of algorithmic trading on these assets."
+title: Comparing Preferred Stocks And Bonds For Steady Income
+description: Preferred stocks offer fixed dividends and priority payouts while bonds
+  deliver steady interest and principal protection Discover more inside.
 ---
 
 

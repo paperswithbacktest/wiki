@@ -1,6 +1,7 @@
 ---
-title: "Consumer Alternative Data"
-description: Explore how consumer alternative data transforms algorithmic trading by leveraging insights from social media, geo-location, and transaction data. Discover the advantages of real-time market prediction and comprehensive strategy refinement, highlighting the competitive edge gained by traders through early trend detection and informed investment decisions.
+title: Understanding Consumer Alternative Data for Business Insights
+description: Consumer alternative data uncovers real time insights from social posts
+  and transaction records to inform smarter business decisions Discover more inside
 ---
 
 

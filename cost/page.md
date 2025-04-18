@@ -1,6 +1,7 @@
 ---
-title: "Cost (Machine Learning)"
-description: "Understanding the cost in machine learning is crucial as it helps minimize prediction errors, improving model accuracy and enhancing predictive performance."
+title: Understanding Cost Functions in Machine Learning Models
+description: Machine learning cost functions measure model error and guide parameter
+  optimization to improve prediction accuracy over time. Discover more inside.
 ---
 
 ![Image](images/1.png)

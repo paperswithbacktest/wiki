@@ -1,6 +1,7 @@
 ---
-title: "Cryptocurrency Public Ledger: Functionality and Risks"
-description: "Explore the role of blockchain as a public ledger in cryptocurrency, including its functionalities and associated risks in algorithmic trading for enhanced insights."
+title: Understanding Public Ledger Technology in Cryptocurrency Systems
+description: Cryptocurrency public ledger enables secure transparent record keeping
+  by validating all transactions through blockchain consensus Discover more inside
 ---
 
 

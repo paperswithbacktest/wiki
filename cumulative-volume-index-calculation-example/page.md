@@ -1,6 +1,7 @@
 ---
-title: "Cumulative Volume Index: Calculation and Example"
-description: "Learn how to calculate and apply the Cumulative Volume Index in algorithmic trading. Explore its role in predicting market trends and improving trade strategies."
+title: Cumulative Volume Index Explained for Market Trend Analysis
+description: Cumulative Volume Index tracks money flow in the stock market to help
+  traders confirm trends and make informed decisions Discover more inside.
 ---
 
 

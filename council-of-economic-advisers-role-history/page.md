@@ -1,6 +1,7 @@
 ---
-title: "Council of Economic Advisers: Role and History"
-description: "Explore the crucial role of the Council of Economic Advisers in U.S. economic policy and its impact on algorithmic trading strategies to optimize market performance."
+title: Understanding the Council of Economic Advisers and Its Influence
+description: Council of Economic Advisers informs presidential economic policy with
+  data analysis and clear public insights through annual reports Discover more inside
 ---
 
 

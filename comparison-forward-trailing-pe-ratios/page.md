@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Forward P/E and Trailing P/E Ratios"
-description: "Explore key differences between forward and trailing P/E ratios and their role in algorithmic trading to optimize investment strategies and maximize returns."
+title: Understanding Forward PE and Trailing PE Ratios for Investors
+description: P/E ratio explained with forward and trailing comparisons helps investors
+  assess past performance and project future growth. Discover more inside.
 ---
 
 

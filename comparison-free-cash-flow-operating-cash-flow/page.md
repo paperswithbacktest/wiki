@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Free Cash Flow and Operating Cash Flow"
-description: "Explore the key differences between Free Cash Flow and Operating Cash Flow in financial analysis and discover how they impact algorithmic trading strategies."
+title: Understanding Free Cash Flow and Operating Cash Flow
+description: Free Cash Flow reveals how much cash remains after operations and capital
+  investment for debt reduction or growth planning. Discover more inside.
 ---
 
 

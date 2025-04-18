@@ -1,6 +1,7 @@
 ---
-title: "Comparative Statement Overview"
-description: "Explore the role of comparative statement analysis in financial assessment and algorithmic trading for strategic insights and improved investment decisions."
+title: Comparative Financial Statements Explained for Informed Decisions
+description: Comparative financial statements help you track trends and compare key
+  metrics side by side to spot growth opportunities and risks Discover more inside.
 ---
 
 

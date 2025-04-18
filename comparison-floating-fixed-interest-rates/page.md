@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Floating and Fixed Interest Rates"
-description: "Explore the essential differences between floating and fixed interest rates and their impact on algorithmic trading to make informed investment decisions."
+title: Floating and Fixed Interest Rates Explained for Borrowers
+description: Floating and fixed interest rates help borrowers choose the right loan
+  by outlining risks benefits scenarios and hedging options Discover more inside.
 ---
 
 

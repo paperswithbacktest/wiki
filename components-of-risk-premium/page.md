@@ -1,6 +1,7 @@
 ---
-title: "Components of Risk Premium"
-description: "Explore the intricacies of risk premiums in algorithmic trading and their impact on investment decisions. Learn how to balance potential returns and investment risks."
+title: Understanding Risk Premium and Its Role in Investment Decisions
+description: Risk premium helps investors balance reward and risk by quantifying extra
+  returns required for volatile assets in changing markets Discover more inside.
 ---
 
 

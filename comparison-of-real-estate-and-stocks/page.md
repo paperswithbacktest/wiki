@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Real Estate and Stocks"
-description: "Explore the differences between real estate and stock investments and how algorithmic trading can enhance strategies for optimal portfolio management."
+title: Comparing Real Estate Vs Stock Investments Risks And Returns
+description: Real Estate Vs Stocks delivers a clear comparison of costs returns risks
+  and liquidity for informed investing decisions Discover more inside
 ---
 
 

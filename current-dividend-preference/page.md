@@ -1,6 +1,7 @@
 ---
-title: "Current Dividend Preference"
-description: "Discover how dividend preferences impact investment strategies and the role of algorithmic trading in optimizing returns amidst evolving financial markets."
+title: Understanding Dividend Preferences For Preferred Stock Investors
+description: Dividend preferences ensure priority payouts and steady income with cumulative
+  or fixed rates Discover ways to optimize your portfolio inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Passive and Active Asset Management"
-description: "Explore the differences between passive and active asset management with insights into algorithmic trading Discover strategies to align with your investment goals"
+title: Passive And Active Asset Management Strategies Explained
+description: Passive and active asset management differ in fees risk and returns Explore
+  which approach aligns with your investment goals Discover more inside.
 ---
 
 

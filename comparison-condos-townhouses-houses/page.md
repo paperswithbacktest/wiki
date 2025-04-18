@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Condos, Townhouses, and Houses"
-description: "Explore the pros and cons of condos, townhouses, and detached houses to make an informed real estate decision that suits your lifestyle and financial goals."
+title: Condo Townhouse And House Ownership Differences Explained
+description: Condo townhouse and house ownership vary in cost space and upkeep this
+  guide clarifies differences to help you choose the right home Discover more inside
 ---
 
 

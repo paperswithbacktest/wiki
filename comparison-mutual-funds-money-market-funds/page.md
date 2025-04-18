@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Mutual Funds and Money Market Funds"
-description: "Discover the key differences between mutual funds and money market funds while understanding the impact of algorithmic trading on investment strategies. This article investigates into the characteristics, benefits, and limitations of these investment options, providing insights to help investors make informed decisions. Whether you're prioritizing capital preservation or seeking growth, learn how to navigate the evolving financial landscape and optimize your portfolio with market knowledge."
+title: Mutual Funds Vs Money Market Funds Explained For Investors
+description: Mutual funds vs money market funds comparison helps you weigh returns
+  risks fees liquidity tax implications and accessibility factors Discover more inside
 ---
 
 

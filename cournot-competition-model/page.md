@@ -1,6 +1,7 @@
 ---
-title: "Cournot Competition Model"
-description: "Cournot Competition Model explores strategic interactions among firms in an oligopoly by focusing on output levels rather than prices. Originating from Augustin Cournot's 1838 analysis, the model outlines how firms predict competitors’ production to optimize their own, leading to a Nash equilibrium where no firm can benefit from changing output independently. This approach helps explain how firms with significant market influence behave in structured environments and sets the stage for advanced economic theories of market dynamics and industrial organization."
+title: Understanding the Cournot Competition Model in Economics
+description: Cournot competition model clarifies how firms choose production levels
+  in oligopolies and reach equilibrium based on rivals actions Discover more inside.
 ---
 
 

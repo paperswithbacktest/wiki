@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Simple and Exponential Moving Averages"
-description: "Explore the key differences between simple and exponential moving averages in algorithmic trading to enhance your strategies and achieve better outcomes."
+title: Understanding Simple and Exponential Moving Averages in Trading
+description: Moving Average tools help traders smooth price data and spot trend shifts
+  using SMA and EMA to make smarter trading moves Discover more inside
 ---
 
 

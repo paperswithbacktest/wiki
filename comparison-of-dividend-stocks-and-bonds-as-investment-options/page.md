@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Dividend Stocks and Bonds as Investment Options"
-description: "Discover the benefits and risks of bonds and dividend stocks as investment options Learn how to integrate them into a successful investment strategy"
+title: Dividend Stocks Versus Bonds Comparison for Investors
+description: Dividend stocks vs bonds deliver contrasting income and risk profiles
+  helping investors balance growth stability market volatility Discover more inside.
 ---
 
 

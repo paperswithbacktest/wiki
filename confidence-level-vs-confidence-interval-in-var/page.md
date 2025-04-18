@@ -1,6 +1,7 @@
 ---
-title: "Difference Between Confidence Level and Confidence Interval in Value at Risk"
-description: "Discover the distinction between confidence levels and confidence intervals in Value at Risk within algorithmic trading, and enhance your risk management strategy."
+title: Understanding Value at Risk Confidence Levels and Intervals
+description: Value at Risk shows how confidence levels and intervals shape potential
+  portfolio losses with practical methods and examples Discover more inside
 ---
 
 

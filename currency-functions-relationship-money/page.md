@@ -1,6 +1,7 @@
 ---
-title: "Currency: Functions and Relationship with Money"
-description: "Explore the intricate dynamics of money and its pivotal role within financial systems and economies. This deep dive investigates into the essence of currency and the transformative impact of algorithmic trading on global markets. From traditional banknotes to digital currencies like Bitcoin, the landscape is evolving, presenting opportunities and challenges. Grasp essential concepts to navigate the complexities of economic transactions and understand the forces driving financial innovation and stability in today's rapidly changing world."
+title: Understanding Currency Roles and Algorithmic Trading Strategies
+description: Currency functions as a medium of exchange and store of value while covering
+  digital and algorithmic trading essentials Discover more inside
 ---
 
 

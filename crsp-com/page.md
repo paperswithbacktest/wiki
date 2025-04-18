@@ -1,6 +1,7 @@
 ---
-title: "CRSP.com"
-description: Discover the future of trading with CRSP-COM designed to revolutionize algorithmic trading through automation and advanced data analytics. CRSP-COM provides traders with real-time and historical market data to streamline decision-making and enhance trading efficiency. Its seamless integration with trading systems empowers financial institutions to execute rapid and precise trades, minimizing risks and maximizing profitability. Embrace the evolution of trading technology with CRSP-COM as it delivers superior data management and supports a variety of trading strategies in today's fast-paced financial markets.
+title: CRSP.com Comprehensive Stock Market Data and Analysis Tools
+description: CRSP.com provides detailed historical stock data and analysis tools to
+  help investors and researchers make informed decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Correlation to underlying in backtesting"
-description: Explore the significance of correlation in backtesting for algorithmic trading strategies. Understand how assessing the relationship between a strategy and underlying market movements can enhance risk management and strategy effectiveness. Discover methods to optimize trading approaches using correlation analysis for better decision-making in dynamic financial environments.
+title: Correlation Analysis in Financial Backtesting Strategies
+description: Correlation in financial backtesting measures how assets move together
+  and guides portfolio adjustments for balanced risk Discover more inside.
 ---
 
 

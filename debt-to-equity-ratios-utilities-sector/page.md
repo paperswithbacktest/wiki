@@ -1,6 +1,7 @@
 ---
-title: "Debt-to-Equity Ratios in the Utilities Sector"
-description: "Explore the financial dynamics of the utilities sector focusing on the debt-to-equity ratio's impact on investment strategies and algorithmic trading benefits."
+title: Understanding Debt-to-Equity Ratio in the Utilities Sector
+description: Debt-to-equity ratio shows how utilities manage leverage and ensure financial
+  stability while funding major infrastructure projects Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Credit Spread Risk and Default Risk in Financial Situations"
-description: "Explore the dynamics of credit spread risk and default risk in financial markets Discover how algorithmic trading enhances risk management and portfolio optimization"
+title: Credit Spread Risk and Default Risk Explained for Investors
+description: Credit spread risk and default risk shape bond yields and portfolios.
+  Explore key drivers measurement and management strategies Discover more inside
 ---
 
 

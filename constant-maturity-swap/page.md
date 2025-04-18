@@ -1,6 +1,7 @@
 ---
-title: "Constant Maturity Swap"
-description: "Explore the pivotal role of Constant Maturity Swaps in modern finance as they help manage interest rate exposure with unique features and strategic flexibility."
+title: Understanding Constant Maturity Swaps for Long-Term Rate Risk
+description: Constant maturity swaps let firms exchange fixed for floating rates tied
+  to long-term bond yields to hedge interest rate risk Discover more inside.
 ---
 
 

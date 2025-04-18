@@ -1,6 +1,7 @@
 ---
-title: "Decentralized Blockchain-Based Internet"
-description: "Explore how decentralized blockchain technology and algo trading merge to revolutionize internet control and financial transactions fostering security and autonomy."
+title: Blockchain-Based Decentralized Internet Components and Benefits
+description: Decentralized blockchain internet gives users secure peer to peer data
+  sharing across global nodes for open access privacy Discover more inside.
 ---
 
 

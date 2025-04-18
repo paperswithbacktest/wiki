@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Level I, Level II, and Level III ADRs"
-description: "Explore the differences between Level I II and III ADRs in algo trading to optimize portfolio strategies and achieve financial growth with foreign equities."
+title: Architectural Decision Records Levels I II and III Explained
+description: Architectural decision records Levels I II and III help teams capture
+  rationale, maintain consistency and track evolving projects Discover more inside
 ---
 
 

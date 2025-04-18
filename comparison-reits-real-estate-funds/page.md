@@ -1,6 +1,7 @@
 ---
-title: "Comparison of REITs and Real Estate Funds"
-description: "Explore the unique dynamics of REITs and real estate funds in the context of algorithmic trading to enhance investment strategies and optimize returns."
+title: Understanding REITs and Real Estate Funds Comparison
+description: REITs and Real Estate Funds offer exposure to property markets with different
+  tax dividend and liquidity Compare fees risk and returns Discover more inside
 ---
 
 

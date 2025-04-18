@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Operating Cash Flow and Net Income"
-description: "Explore the difference between operating cash flow and net income in algorithmic trading. Understand how these financial metrics impact trading strategies."
+title: Essential Guide to Operating Cash Flow and Net Income
+description: Operating cash flow shows how companies convert core activities into
+  cash and contrasts with net income to assess liquidity Discover more inside.
 ---
 
 

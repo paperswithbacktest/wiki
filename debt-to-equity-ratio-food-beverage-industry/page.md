@@ -1,6 +1,7 @@
 ---
-title: "Debt-to-Equity Ratio in the Food and Beverage Industry"
-description: "Explore the crucial role of the debt-to-equity ratio in assessing financial health and algorithmic trading strategies within the volatile food and beverage industry."
+title: Debt To Equity Ratio Guide For Food And Beverage Companies
+description: Debt to equity ratio explains how food and beverage companies balance
+  debt and equity to drive growth while managing financial risk Discover more inside.
 ---
 
 

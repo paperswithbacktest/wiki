@@ -1,6 +1,7 @@
 ---
-title: "Convertible Securities"
-description: "Explore convertible securities a unique investment blending debt and equity features ideal for diversification and growth potential with algorithmic trading insights."
+title: Understanding Convertible Securities Benefits and Risks
+description: Convertible securities deliver steady income through interest or dividends
+  and offer the option to convert into shares. Discover more inside.
 ---
 
 

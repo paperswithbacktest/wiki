@@ -1,6 +1,8 @@
 ---
-title: "Covered Interest Rate Parity"
-description: "Explore the intersection of financial calculations forex markets interest rate parity and algorithmic trading Learn how these concepts enhance trading strategies"
+title: Understanding Covered Interest Rate Parity in Forex Markets
+description: Covered Interest Rate Parity shows how interest rate differentials and
+  forward rates align to eliminate arbitrage and hedge currency risk Discover more
+  inside
 ---
 
 

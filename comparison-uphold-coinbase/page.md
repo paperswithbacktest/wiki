@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Uphold and Coinbase"
-description: "Explore the benefits of algorithmic trading on Uphold and Coinbase Compare fees security supported currencies and special tools to choose the best platform"
+title: Uphold vs Coinbase Platform Comparison for Secure Crypto Trading
+description: Compare Uphold vs Coinbase fees features security and availability to
+  choose the right crypto trading platform for your needs Discover more inside
 ---
 
 

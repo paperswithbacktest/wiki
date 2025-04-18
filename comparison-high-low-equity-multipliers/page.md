@@ -1,6 +1,7 @@
 ---
-title: "Comparison of High and Low Equity Multipliers"
-description: "Explore the intricate balance of high and low equity multipliers in algo trading Discover their impact on financial health leverage and strategic investment choices"
+title: Understanding the Equity Multiplier and Its Impact on Leverage
+description: Equity multiplier reveals how companies use debt to finance assets and
+  balance risk versus growth for smarter investment decisions. Discover more inside.
 ---
 
 

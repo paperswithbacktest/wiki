@@ -1,6 +1,7 @@
 ---
-title: "Debt Bomb: Overview and Mechanisms"
-description: "Explore how debt bombs and algo trading mechanisms pose critical risks to global financial stability by disrupting markets and amplifying economic crises."
+title: Understanding the Debt Bomb and Its Economic Consequences
+description: Debt bomb risks emerge when nations or companies carry unsustainable
+  debt that can trigger financial crises and stifle growth Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Debt-Service Coverage Ratio: Usage and Calculation"
-description: "Explore the significance of the Debt-Service Coverage Ratio in financial health assessment and its application in algorithmic trading for informed investment decisions."
+title: Debt-Service Coverage Ratio Explained for Business Financing
+description: Debt-Service Coverage Ratio helps businesses assess their ability to
+  cover loan payments by comparing EBITDA to annual debt service Discover more inside.
 ---
 
 

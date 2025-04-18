@@ -1,6 +1,7 @@
 ---
-title: "Dark Cloud Cover: Overview and Examples"
-description: "Explore the Dark Cloud Cover candlestick pattern a key bearish reversal signal in technical analysis Learn how it informs trading decisions and market sentiment shifts"
+title: Understanding Dark Cloud Cover Candlestick Reversal Pattern
+description: Dark Cloud Cover signals a bearish reversal in uptrends with a two candle
+  pattern confirmed by high volume and indicators. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Data Mining in Investment"
-description: "Explore how data mining transforms investment strategies, merging with financial analysis and algorithmic trading to optimize decisions in today's market."
+title: Data Mining Techniques for Smarter Investment Decisions
+description: Data Mining enables investors to discover market and corporate trends
+  to optimize portfolios manage risk and enhance decision making Discover more inside.
 ---
 
 

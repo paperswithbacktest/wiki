@@ -1,6 +1,7 @@
 ---
-title: "Dealer Market: Comparison With Broker and Auction Markets"
-description: "Explore the differences between dealer, broker, and auction markets and learn how algorithmic trading reshapes financial strategies, enhancing investment outcomes."
+title: Guide to Dealer Markets Versus Broker and Auction Markets
+description: Dealer markets deliver faster trades with dealer held inventories and
+  bid ask spreads that enhance liquidity and market predictability Discover more inside.
 ---
 
 

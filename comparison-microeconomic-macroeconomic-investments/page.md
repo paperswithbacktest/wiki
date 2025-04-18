@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Microeconomic and Macroeconomic Investments"
-description: "Explore the interplay between microeconomic and macroeconomic factors in shaping investment strategies and the role of algorithmic trading in modern markets."
+title: Understanding Microeconomic and Macroeconomic Investments
+description: Microeconomic and macroeconomic investments provide insights into resource
+  allocation to drive growth manage risk and balance returns Discover more inside
 ---
 
 

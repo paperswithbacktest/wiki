@@ -1,6 +1,7 @@
 ---
-title: "Custody-Only Trading: Overview and Challenges"
-description: "Explore the contrasting methodologies of custody-only trading and algorithmic trading highlighting their unique advantages and limitations in the evolving financial landscape."
+title: Custody-Only Trading Guide For Secure Self-Directed Investing
+description: Custody-only trading lets investors control their assets with lower fees
+  and robust security while managing every trade confidently Discover more inside
 ---
 
 

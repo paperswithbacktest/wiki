@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Merrill Edge and Vanguard"
-description: "Explore the key differences between Merrill Edge and Vanguard for algorithmic trading. Compare their user interface, trading tools, costs, and mobile capabilities."
+title: Merrill Edge Vs Vanguard Brokerage Comparison and Analysis
+description: Merrill Edge vs Vanguard comparison highlights fee structures accounts
+  trading tools to help you choose the right investment platform Discover more inside
 ---
 
 

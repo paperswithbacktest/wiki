@@ -1,6 +1,7 @@
 ---
-title: "Cracking"
-description: "Explore the world of algorithmic trading where high-speed data processing revolutionizes finance Automate trading strategies while ensuring robust data security"
+title: Comprehensive Guide to Cracking in Oil Refining Processes
+description: Cracking in oil refining breaks down heavy crude into fuels and petrochemicals
+  using advanced methods to increase yield and cut waste Discover more inside
 ---
 
 

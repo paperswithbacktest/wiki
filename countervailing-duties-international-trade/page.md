@@ -1,6 +1,7 @@
 ---
-title: "Countervailing Duties in International Trade"
-description: "Explore the role of countervailing duties in balancing international trade by addressing the challenges posed by foreign subsidies and the impact of algorithmic trading."
+title: Understanding Countervailing Duties in Global Trade Policy
+description: Countervailing duties offset unfair foreign subsidies to protect local
+  industries and balance import prices under WTO rules. Discover more inside.
 ---
 
 

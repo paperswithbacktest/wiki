@@ -1,6 +1,8 @@
 ---
-title: "Corporate Takeover Defense from a Shareholder Perspective"
-description: "Explore defensive strategies for shareholders in hostile takeovers including the role of algorithmic trading in takeover dynamics and shareholder decision-making."
+title: Understanding Corporate Takeover Strategies and Shareholder Defenses
+description: Corporate takeover strategies impact shareholder value through hostile
+  or friendly bids and defense tactics like poison pills and golden parachutes Discover
+  more inside.
 ---
 
 

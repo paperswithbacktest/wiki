@@ -1,6 +1,7 @@
 ---
-title: "Crank-Nicholson Implicit Scheme Explained"
-description: Discover how the Crank-Nicolson method, a stable and accurate numerical scheme, enhances algorithmic trading by refining derivative pricing models and risk management techniques through the precise solution of complex partial differential equations.
+title: Implementing Crank-Nicolson Method for Stable Accurate Solutions
+description: Crank-Nicolson method delivers stable and accurate solutions for time-dependent
+  equations by combining implicit and explicit schemes. Discover more inside.
 ---
 
 

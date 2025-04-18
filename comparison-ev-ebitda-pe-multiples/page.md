@@ -1,6 +1,7 @@
 ---
-title: "Comparison of EV/EBITDA and P/E Multiples"
-description: "Explore the differences between EV/EBITDA and P/E ratios to uncover their strengths in evaluating company valuation and potential in algo trading strategies."
+title: EV/EBITDA And P/E Multiples Explained For Company Valuations
+description: EV/EBITDA and P/E multiples reveal how company value relates to earnings,
+  debt, and cash flow highlighting key limitations Discover more inside
 ---
 
 

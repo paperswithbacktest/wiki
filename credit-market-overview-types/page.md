@@ -1,6 +1,7 @@
 ---
-title: "Credit Market Overview and Types"
-description: "Explore key aspects of the credit market and algorithmic trading Discover how debt instruments enable capital flow and efficiencies in the financial ecosystem"
+title: 'Understanding the Credit Market: Key Functions and Participants'
+description: Credit market dynamics explained from borrowing and lending to interest
+  rates and risk management in clear accessible terms Discover more inside.
 ---
 
 

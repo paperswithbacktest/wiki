@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Bitcoin and Altcoins for Merchant Use"
-description: "Explore the evolving landscape of Bitcoin and altcoins for merchants using algorithmic trading to optimize efficiency, minimize bias, and seize market opportunities."
+title: Comparing Bitcoin and Altcoins for Merchant Transactions
+description: Bitcoin and altcoins impact merchants with insights on fees speed security
+  and scalability helping you optimize payments Discover more inside.
 ---
 
 

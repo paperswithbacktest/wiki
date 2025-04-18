@@ -1,6 +1,7 @@
 ---
-title: "Cost-Push and Demand-Pull Inflation: Differences Explained"
-description: "Explore how cost-push and demand-pull inflation influence financial markets and algorithmic trading strategies. Adapt and optimize your investments today"
+title: Understanding Cost-Push and Demand-Pull Inflation Dynamics
+description: Cost-push and demand-pull inflation drive price hikes through higher
+  costs and strong demand Explore impacts and policy responses Discover more inside
 ---
 
 

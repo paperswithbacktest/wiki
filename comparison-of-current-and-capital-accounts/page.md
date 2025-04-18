@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Current and Capital Accounts"
-description: "Explore the impact of integrating balance of payments data into algorithmic trading to enhance financial strategy development by predicting global market trends."
+title: Understanding Current and Capital Accounts in Balance of Payments
+description: Balance of Payments outlines how current and capital accounts track trade
+  income and investments to reveal national economic health Discover more inside
 ---
 
 

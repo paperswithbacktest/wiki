@@ -1,6 +1,7 @@
 ---
-title: "Cumulative Return and Calculation"
-description: "Understanding and accurately calculating cumulative returns is key for investors and algorithmic traders to assess asset performance and optimize trading strategies effectively."
+title: Understanding Cumulative Return for Smarter Investment Decisions
+description: Cumulative return shows total investment growth over time including compounding
+  gains and risk insights to guide informed decisions. Discover more inside.
 ---
 
 

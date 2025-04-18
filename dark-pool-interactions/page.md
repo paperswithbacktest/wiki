@@ -1,6 +1,7 @@
 ---
-title: "dark pool interactions"
-description: "Discover how dark pools and algorithmic trading synergize to execute large financial transactions discreetly exploring strategies benefits and market impacts."
+title: Dark Pools Explained How Private Market Trading Works
+description: Dark Pools provide private venues where institutional investors execute
+  large stock orders discreetly while limiting market impact Discover more inside
 ---
 
 

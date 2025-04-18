@@ -1,6 +1,7 @@
 ---
-title: "Current Liabilities and Calculation Methods"
-description: "Explore current liabilities and modern methods to manage them effectively including algorithmic trading techniques to optimize financial stability and cash flow."
+title: Understanding Current Liabilities in Corporate Financial Health
+description: "Current liabilities define a company\u2019s short term debts and how\
+  \ to manage them effectively for strong cash flow and stability Discover more inside."
 ---
 
 

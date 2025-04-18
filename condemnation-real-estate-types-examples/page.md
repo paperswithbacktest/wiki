@@ -1,6 +1,7 @@
 ---
-title: "Condemnation in Real Estate: Types and Examples"
-description: "Explore how condemnation in real estate and algorithmic trading merge to impact property investments offering insights into legal processes and trading strategies."
+title: Understanding Condemnation in Real Estate and Eminent Domain
+description: Condemnation in real estate helps property owners secure fair compensation
+  and assert their rights in eminent domain cases Discover more inside
 ---
 
 

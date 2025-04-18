@@ -1,6 +1,7 @@
 ---
-title: "Cross-Currency Transactions Excluding the U.S. Dollar"
-description: "Explore the intricacies of cross-currency forex transactions and the transformative role of algorithmic trading in enhancing efficiency, excluding the US Dollar."
+title: Cross-Currency Transactions Excluding the US Dollar
+description: Cross-currency transactions excluding the US dollar enable direct trading
+  between major economies with fewer fees and clearer rates Discover more inside
 ---
 
 

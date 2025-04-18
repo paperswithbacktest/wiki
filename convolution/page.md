@@ -1,6 +1,7 @@
 ---
-title: "Convolution (Machine Learning)"
-description: "Convolution is a key operation in CNNs turning raw input, like images, into feature maps by highlighting edges and textures for better image recognition."
+title: Understanding Convolution in Convolutional Neural Networks
+description: Convolution in convolutional neural networks applies sliding filters
+  to extract image features efficiently with stride and padding Discover more inside
 ---
 
 ![Image](images/1.jpeg)

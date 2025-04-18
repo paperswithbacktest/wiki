@@ -1,6 +1,8 @@
 ---
-title: "Correlation in Modern Portfolio Theory"
-description: "Explore how Modern Portfolio Theory correlation and algorithmic trading optimize investment strategies for analysts managers and investors seeking deeper insights"
+title: Understanding Correlation in Modern Portfolio Theory
+description: Correlation in finance explains how investments move together and helps
+  build diversified portfolios to reduce risk and enhance stability Discover more
+  inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Constant Dollar"
-description: "Discover how constant dollar measures enhance algorithmic trading by providing accurate economic insights. Learn about inflation adjustment and market strategies."
+title: Understanding Constant Dollars for Accurate Economic Comparisons
+description: Constant dollars adjust past figures for inflation to reveal the true
+  value of incomes prices and GDP over decades and market trends Discover more inside
 ---
 
 

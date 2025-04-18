@@ -1,6 +1,7 @@
 ---
-title: "Day Trading: Techniques, Strategies, And Risks"
-description: "Discover the techniques, strategies, and risks involved in day trading and algo trading. Learn how to navigate these fast-paced financial markets effectively."
+title: Complete Day Trading Guide Strategies Risk Management and Trends
+description: Day trading guide offers clear strategies from technical analysis and
+  risk management to algorithmic tools and market timing Discover more inside
 ---
 
 

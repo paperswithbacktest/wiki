@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Bitcoin and Ethereum"
-description: "Discover the key differences between Bitcoin and Ethereum in algorithmic trading Explore technological foundations strategies and market trends to trade smarter"
+title: Comparing Bitcoin and Ethereum Key Features and Differences
+description: Bitcoin and Ethereum offer distinct blockchain functions from supply
+  limits to smart contracts consensus mechanisms and scalability Discover more inside.
 ---
 
 

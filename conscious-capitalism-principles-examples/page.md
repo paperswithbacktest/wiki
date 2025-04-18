@@ -1,6 +1,7 @@
 ---
-title: "Conscious Capitalism: Principles and Examples"
-description: "Explore how sustainable business practices and conscious capitalism intersect with algorithmic trading to create a more equitable and sustainable corporate landscape."
+title: Building Sustainable Growth with Conscious Capitalism Principles
+description: Conscious capitalism aligns purpose and profit to engage employees customers
+  and communities for sustainable growth and impact Discover more inside.
 ---
 
 

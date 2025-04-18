@@ -1,6 +1,7 @@
 ---
-title: "Covered Call Trading Without Owning Stock"
-description: "Master covered call trading without owning stock by combining algorithmic insights to optimize returns and manage risks efficiently in various market conditions."
+title: Guide to Synthetic Covered Call Strategy Without Stock Ownership
+description: Synthetic covered call strategy helps investors generate option income
+  to elegantly mitigate downside risk without owning stock Discover more inside
 ---
 
 

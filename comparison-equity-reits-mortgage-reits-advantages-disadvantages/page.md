@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Equity REITs and Mortgage REITs: Advantages and Disadvantages"
-description: "Explore the benefits and challenges of investing in Mortgage and Equity REITs and discover how algorithmic trading can enhance performance in the real estate market."
+title: Equity REITs Versus Mortgage REITs Explained for Investors
+description: Equity REITs vs Mortgage REITs explains income streams risks and rate
+  sensitivity to help you decide which trust suits your portfolio Discover more inside
 ---
 
 

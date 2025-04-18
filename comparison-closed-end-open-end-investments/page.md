@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Closed-End and Open-End Investments"
-description: "Explore the differences between closed-end and open-end investments and learn how algorithmic trading can complement these strategies to enhance efficiency."
+title: "Closed\u2011End vs Open\u2011End Investments Explained for Investors"
+description: "Closed\u2011End Investments offer fixed shares traded on exchanges while\
+  \ Open\u2011End Investments provide flexible NAV\u2011based share creation and redemption\
+  \ Learn their differences and opportunities Discover more inside."
 ---
 
 

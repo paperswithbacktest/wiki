@@ -1,6 +1,7 @@
 ---
-title: "Coupon Equivalent Rate"
-description: "Explore the dynamics of bond yields, coupon equivalent rate, and algorithmic trading to enhance investment strategies and maximize potential returns in the bond market."
+title: Understanding Coupon Equivalent Rate for Short-Term Investments
+description: Coupon Equivalent Rate converts short-term discounts into annual yields
+  so investors can compare Treasury bills to bonds Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Confusion Matrix (Machine Learning)"
-description: "Understand confusion matrices in machine learning with clear explanations of terms like true positives and false negatives. Improve your model evaluation."
+title: Understanding the Confusion Matrix in Machine Learning
+description: Confusion matrix breaks down true positives false positives and negatives
+  for clear model performance metrics and actionable insights Discover more inside
 ---
 
 ![Image](images/1.jpeg)

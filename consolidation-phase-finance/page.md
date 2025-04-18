@@ -1,6 +1,7 @@
 ---
-title: "Consolidation Phase in Finance"
-description: "Explore the consolidation phase in finance a key period of market indecision crucial for algorithmic trading Learn how identifying this phase boosts trading success"
+title: Market Consolidation Phase Explained for Smarter Investing
+description: Consolidation phase signals market pauses after big price moves and offers
+  strategies to spot breakouts and manage risk Discover more inside.
 ---
 
 

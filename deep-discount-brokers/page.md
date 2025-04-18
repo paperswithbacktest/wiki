@@ -1,6 +1,7 @@
 ---
-title: "Deep Discount Brokers"
-description: "Discover the benefits of deep discount brokers in algo trading Learn how these cost-effective tools and platforms optimize trade execution and investment strategies"
+title: Understanding Deep Discount Brokers Benefits and Drawbacks
+description: Deep discount brokers offer low fees empowering investors to trade stocks
+  and bonds with minimal costs and full control of portfolios Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Concession Fees for Underwriters"
-description: "Explore the complexities of concession fees, finance underwriting, and algo trading in today's financial landscape Learn how these elements influence global markets"
+title: The Role of Concession Fees in Securities Underwriting
+description: Concession fees reward underwriters for selling securities by sharing
+  part of the spread and influencing total underwriting costs. Discover more inside.
 ---
 
 

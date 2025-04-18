@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Z-Score and Standard Deviation"
-description: "Explore the essential roles of Z-Score and standard deviation in algorithmic trading to assess market volatility and manage risk effectively."
+title: Understanding Z Score And Standard Deviation In Trading
+description: Z score and standard deviation demystify how far data points deviate
+  from the mean to compare performance and manage risk in trading Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Kraken and Binance"
-description: "Explore the differences between Kraken and Binance for algorithmic trading Learn about their unique features benefits and challenges in the crypto market"
+title: Kraken vs Binance Cryptocurrency Exchange Comparison
+description: Kraken vs Binance comparison covers security fees trading features and
+  staking options to help you choose the right crypto exchange Discover more inside
 ---
 
 

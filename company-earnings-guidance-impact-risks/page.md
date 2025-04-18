@@ -1,6 +1,7 @@
 ---
-title: "Company Earnings Guidance: Impact and Risks"
-description: "Explore the intersection of company earnings guidance and algorithmic trading, highlighting their impact on investment strategies, market dynamics, and regulatory implications."
+title: Understanding Company Earnings Guidance And Market Impact
+description: Earnings guidance offers profit forecasts and helps investors adjust
+  strategies proactively for smarter market reactions Discover more inside
 ---
 
 

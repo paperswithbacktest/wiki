@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Fidelity and Robinhood in 2024"
-description: "Explore the differences in algorithmic trading capabilities between Fidelity Investments and Robinhood in 2024. This article investigates into how these two major platforms cater to distinct investor segments and their respective strengths in leveraging algorithms for trading. Gain insights into their features, benefits, and the user experience to make an informed decision based on your trading goals and preferences. Discover how algorithmic trading is reshaping the investment landscape and what it means for modern investors."
+title: Fidelity Vs Robinhood Comprehensive Account Feature Comparison
+description: Fidelity vs Robinhood breaks down account setup fees trading tools investment
+  options and support to help you choose the best fit Discover more inside.
 ---
 
 

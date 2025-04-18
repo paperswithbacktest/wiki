@@ -1,6 +1,8 @@
 ---
-title: "Comparison of H-Shares and A-Shares"
-description: "Explore the key differences between Chinese A-Shares and H-Shares in the context of algorithmic trading and understand their impact on global investment strategies."
+title: Comparing H Shares And A Shares For International Investors
+description: "H Shares and A Shares offer distinct access to China\u2019s markets\
+  \ with different listings, currency and regulatory risks detailed. Discover more\
+  \ inside."
 ---
 
 

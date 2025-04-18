@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Canopy Growth and Tilray"
-description: "Explore the competitive dynamics of Canopy Growth and Tilray in the cannabis sector, focusing on market strategies, regulatory challenges, and algorithmic trading."
+title: Comparing Canopy Growth and Tilray in the Cannabis Industry
+description: Canopy Growth and Tilray comparison highlights differences in products
+  revenue and global strategies in the evolving cannabis market Discover more inside.
 ---
 
 

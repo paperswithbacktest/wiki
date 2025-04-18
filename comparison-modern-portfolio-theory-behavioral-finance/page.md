@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Modern Portfolio Theory and Behavioral Finance"
-description: "Explore the interplay between Modern Portfolio Theory, Behavioral Finance, and Algorithmic Trading to enhance investment strategies for better risk management and returns."
+title: Modern Portfolio Theory and Behavioral Finance Explained
+description: Modern Portfolio Theory uses diversification to optimize risk and return
+  while Behavioral Finance reveals biases in investing Discover more inside.
 ---
 
 

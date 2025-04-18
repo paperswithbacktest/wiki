@@ -1,6 +1,8 @@
 ---
-title: "Comparison of BND and AGG Bond ETFs"
-description: "Explore the benefits of BND and AGG bond ETFs and their integration with algorithmic trading to enhance investment strategies and manage risk effectively."
+title: Comparing BND and AGG Bond ETFs for Diversified Income
+description: "BND and AGG bond ETFs deliver low\u2011cost exposure to diversified\
+  \ investment\u2011grade bonds and reveal few fee and performance differences Discover\
+  \ more inside"
 ---
 
 

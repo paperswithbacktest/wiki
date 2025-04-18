@@ -1,6 +1,7 @@
 ---
-title: "Comparison of CDs and Inflation"
-description: "Discover how inflation influences CDs and the role of algorithmic trading in optimizing investment strategies to preserve purchasing power and enhance returns."
+title: Certificate of Deposit Real Returns Amid Rising Inflation
+description: Certificate of Deposit rates may trail inflation but smart CD laddering
+  can preserve purchasing power and boost real returns Discover more inside
 ---
 
 

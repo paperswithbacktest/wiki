@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Robo-Advisors and Brokerage Accounts"
-description: "Explore the differences between robo-advisors and traditional brokerage accounts in the world of algo trading to align your investment strategies effectively."
+title: Comparing Robo-Advisors and Brokerage Accounts for Investors
+description: Robo Advisors automate portfolio management for low fees while brokerage
+  accounts offer direct trade control and investment options Discover more
 ---
 
 

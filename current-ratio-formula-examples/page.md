@@ -1,6 +1,7 @@
 ---
-title: "Current Ratio: Formula and Examples"
-description: "Discover how the current ratio formula offers key financial insights and aids in making informed investment choices. Explore its role in assessing liquidity, guiding algorithmic trading, and evaluating a company's financial health within the context of industry standards. Understanding these financial metrics can enhance trading strategies and provide a competitive edge in dynamic markets."
+title: Understanding The Current Ratio For Financial Liquidity
+description: Current ratio measures whether a company can cover short term debts with
+  its liquid assets providing insight into financial health Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Correlation Between Price-to-Book Ratio and Return on Equity"
-description: "Discover the relationship between Price-to-Book ratio and Return on Equity in algorithmic trading Uncover how these metrics drive investment decisions and profitability"
+title: Analyzing Price To Book Ratio And Return On Equity For Investors
+description: Price to Book Ratio and ROE provide insights on how market valuation
+  and profitability interact to guide smarter investment choices Discover more inside
 ---
 
 

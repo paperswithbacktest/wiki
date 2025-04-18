@@ -1,6 +1,7 @@
 ---
-title: "Constant Currency Calculations and Examples"
-description: "Explore constant currency analysis and algorithmic trading to manage currency fluctuations in global finance Optimize financial outcomes with advanced tools and strategies"
+title: Constant Currency Measures True Global Revenue Performance
+description: Constant currency reporting removes exchange rate noise to reveal a companys
+  real financial performance across markets Discover more inside.
 ---
 
 

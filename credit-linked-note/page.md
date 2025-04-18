@@ -1,6 +1,7 @@
 ---
-title: "Credit-Linked Note"
-description: "Explore the synergy between Credit-Linked Notes and algorithmic trading Discover how technology enhances CLN trading strategies optimizing returns and managing risks"
+title: 'Understanding Credit-Linked Notes: Structure, Risks, and Benefits'
+description: Credit-Linked Notes let you combine bond returns with credit default
+  swap protection to earn higher yields while managing risk. Discover more inside.
 ---
 
 

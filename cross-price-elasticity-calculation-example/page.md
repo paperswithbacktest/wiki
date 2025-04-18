@@ -1,6 +1,7 @@
 ---
-title: "Cross Price Elasticity: Calculation and Example"
-description: "Discover how cross price elasticity and elasticity of demand shape algo trading strategies enabling traders to anticipate market trends and optimize portfolios."
+title: Understanding Cross Price Elasticity of Demand for Businesses
+description: Cross price elasticity of demand reveals how price shifts impact related
+  product demand guiding smarter pricing decisions Discover more inside
 ---
 
 

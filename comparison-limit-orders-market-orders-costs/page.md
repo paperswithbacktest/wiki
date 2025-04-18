@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Limit Orders and Market Orders Costs"
-description: "Compare the costs of limit and market orders in algo trading to optimize your strategy Understand each order type's impact on fees and execution outcomes"
+title: Understanding Costs and Execution of Limit and Market Orders
+description: Limit orders and market orders shape trade costs execution speed and
+  slippage Master practical strategies to optimize order placement Discover more inside
 ---
 
 

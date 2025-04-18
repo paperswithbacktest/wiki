@@ -1,6 +1,8 @@
 ---
-title: "Creating Your Own Exchange-Traded Fund"
-description: "Explore the innovative world of personalized ETFs using algorithmic trading to manage risk and enhance returns by tailoring portfolios to your unique goals."
+title: Creating An Exchange Traded Fund For Customized Portfolios
+description: ETF creation requires a clear investment idea regulatory approval and
+  asset selection to launch a tailored fund that attracts investors Discover more
+  inside.
 ---
 
 

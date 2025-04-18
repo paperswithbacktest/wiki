@@ -1,6 +1,7 @@
 ---
-title: "Currency Basket: Overview and Mechanism"
-description: "Explore the synergy between currency baskets and algorithmic trading in forex Discover how traders utilize these tools to manage risks and seize market opportunities"
+title: Understanding Currency Baskets How They Stabilize Global Markets
+description: Currency baskets offer a diversified benchmark to reduce exchange rate
+  volatility and balance risk across major currencies Discover more inside
 ---
 
 

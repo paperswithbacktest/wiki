@@ -1,6 +1,7 @@
 ---
-title: "Comprehensive Guide to Game Theory"
-description: "Explore the synergy between algorithmic trading and game theory strategies. Learn how these key concepts shape trading tactics and enhance market prediction."
+title: Game Theory Fundamentals And Applications In Business And Beyond
+description: Game Theory explains strategic choices from Nash equilibrium and prisoners
+  dilemma to business competition and political negotiations Discover more inside
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Currency Substitution: Types and Risks"
-description: "Explore the complexities of currency substitution in global finance Learn about its types and risks alongside the impacts of monetary policy and algo trading"
+title: Understanding Currency Substitution Impact on National Economies
+description: Currency substitution can stabilize economies amid high inflation by
+  switching to trusted foreign money and help mitigate policy risks Discover more
+  inside
 ---
 
 

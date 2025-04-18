@@ -1,6 +1,7 @@
 ---
-title: "Contrarian Investing: Buying During Market Downturns"
-description: "Explore contrarian investing during market downturns and discover how combining it with algorithmic trading provides powerful strategies for savvy investors."
+title: Comprehensive Guide to Contrarian Investing in Market Downturns
+description: Contrarian investing helps you seize undervalued market opportunities
+  in downturns and manage risk with research and diversification Discover more inside
 ---
 
 

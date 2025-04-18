@@ -1,6 +1,7 @@
 ---
-title: "Constant Ratio Plan: Overview and Historical Context"
-description: "Explore the Constant Ratio Plan a strategic approach in investment management focusing on maintaining a fixed asset mix to optimize returns and manage risks."
+title: Implementing a Constant Ratio Plan for Steady Investment Growth
+description: Constant Ratio Plan helps keep your portfolio balanced by regularly rebalancing
+  stocks and bonds to manage risk and capture gains Discover more inside
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Consumerism and Its Economic Impact"
-description: "Explore the economic impact of consumerism and algorithmic trading two forces reshaping markets by driving demand and revolutionizing trading practices."
+title: "Consumerism\u2019s Impact on Economic Growth and Sustainability"
+description: Consumerism drives job creation and GDP growth while posing risks to
+  savings and the environment. Discover how balanced policies can sustain economies
+  and societies inside.
 ---
 
 

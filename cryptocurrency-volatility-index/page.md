@@ -1,6 +1,7 @@
 ---
-title: "Cryptocurrency Volatility Index"
-description: Explore the dynamics of cryptocurrency market volatility with a focus on the Cryptocurrency Volatility Index. Understand how indexes like CVX and CVX76 are vital in algorithmic trading by predicting market behaviors and improving risk management. Gain insights into how these indexes help traders navigate rapid price changes and optimize their strategies for better decision-making in volatile financial environments.
+title: Understanding the Cryptocurrency Volatility Index for Investors
+description: Cryptocurrency Volatility Index shows market risk by tracking crypto
+  price swings and guiding investors to better trading choices. Discover more inside.
 ---
 
 

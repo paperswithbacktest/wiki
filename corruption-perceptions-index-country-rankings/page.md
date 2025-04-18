@@ -1,6 +1,7 @@
 ---
-title: "Corruption Perceptions Index and Country Rankings"
-description: "Explore global corruption perceptions with the 2023 Corruption Perceptions Index. Gain insights into rankings, economic impacts, and algorithmic trading links."
+title: Corruption Perceptions Index Guide to Scores and Rankings
+description: Corruption Perceptions Index tracks annual integrity scores using expert
+  surveys and data to inform policy and investment choices Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Common Stock and Preferred Stock: Overview and Types"
-description: "Explore the key differences between common and preferred stock including voting rights and dividends Discover how algorithmic trading impacts modern markets"
+title: Comparing Common Stock and Preferred Stock for Investors
+description: Common stock and preferred stock differ in voting rights dividend stability
+  and liquidation order. Find which suits your portfolio. Discover more inside.
 ---
 
 

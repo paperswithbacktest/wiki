@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Share Purchase Rights and Options"
-description: "Explore the differences between options and share purchase rights in financial markets Understand their benefits, risks, and roles in algo trading strategies"
+title: Share Purchase Rights Versus Stock Options Explained
+description: Share purchase rights let shareholders buy discounted shares while stock
+  options reward employees Compare tax and vesting Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparative Differences Among Index Funds"
-description: "Explore the comparative differences between index funds and algorithmic trading with insights into their risk, returns, and management styles for investors."
+title: 'Index Fund Essentials: Benefits, Types And Investment Strategies'
+description: Index funds offer low cost diversified exposure with insights on fees,
+  tracking error and fund types to optimize investments. Discover more inside.
 ---
 
 

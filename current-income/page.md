@@ -1,6 +1,7 @@
 ---
-title: "Current Income"
-description: "Explore current income strategies and algorithmic trading to enhance personal finance. Leverage technology for efficient cash flows and optimize your financial health."
+title: Understanding Current Income for Effective Financial Planning
+description: Current Income helps you quantify regular earnings from salary investments
+  and benefits to plan budgets taxes and loans Discover more inside.
 ---
 
 

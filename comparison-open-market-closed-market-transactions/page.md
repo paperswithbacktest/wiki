@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Open-Market and Closed-Market Transactions"
-description: "Discover the differences between open-market and closed-market transactions in algorithmic trading for better investment insights and market participation strategies."
+title: Understanding Open-Market and Closed-Market Transactions
+description: Open-market transactions and closed-market dealings explain public share
+  trades and private sales with strategic benefits Discover more inside.
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Data Analytics"
-description: "Explore how data analytics revolutionizes algorithmic trading by integrating advanced models and big data to optimize trading strategies and decision making."
+title: Essential Business Guide to Data Analytics Techniques
+description: Data analytics empowers businesses to uncover customer insights and optimize
+  operations through descriptive predictive and prescriptive methods Discover more
+  inside.
 ---
 
 

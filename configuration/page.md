@@ -1,6 +1,7 @@
 ---
-title: "Configuration (Machine Learning)"
-description: "Unlock the potential of machine learning by mastering configuration settings for optimal model performance Experiment with algorithms layers and learning rates to enhance predictions"
+title: Optimizing Machine Learning Configuration for Optimal Performance
+description: Machine learning configuration defines hyperparameters to boost model
+  accuracy and efficiency and supports reproducible experiments Discover more inside
 ---
 
 ![Image](images/1.png)

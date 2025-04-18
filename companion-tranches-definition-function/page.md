@@ -1,6 +1,7 @@
 ---
-title: "Companion Tranches: Definition and Function"
-description: "Companion tranches are crucial in managing prepayment risk in CMOs. Learn how they function in structured finance and how algorithmic trading optimizes investments."
+title: Understanding Companion Tranches in Mortgage-Backed Securities
+description: Companion tranches absorb prepayment volatility to protect PAC tranches
+  and deliver adaptable yields in mortgage-backed securities Discover more inside.
 ---
 
 

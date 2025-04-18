@@ -1,6 +1,7 @@
 ---
-title: "Decimal Trading and Its Mechanism"
-description: "Explore how the integration of decimal trading and algorithmic trading revolutionizes the financial markets improving efficiency precision and lowering trading costs."
+title: Understanding Decimal Trading for Precision and Efficiency
+description: Decimal trading uses cent increments instead of fractions for simpler
+  pricing tighter spreads improved liquidity and precise trades Discover more inside
 ---
 
 

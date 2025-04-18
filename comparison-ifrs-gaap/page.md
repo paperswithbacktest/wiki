@@ -1,6 +1,7 @@
 ---
-title: "Comparison of IFRS and GAAP"
-description: "Explore how IFRS and GAAP influence algorithmic trading strategies through different accounting methods affecting transparency accuracy and financial decision-making."
+title: Key Differences Between IFRS and GAAP Accounting Standards
+description: IFRS and GAAP set distinct rules for inventory revenue leases and asset
+  reporting so you can compare global financial statements Discover more inside
 ---
 
 

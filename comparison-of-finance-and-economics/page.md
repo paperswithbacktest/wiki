@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Finance and Economics"
-description: "Explore how finance, economics, and algorithmic trading intersect to shape modern markets. Discover their roles in money management and resource allocation."
+title: 'Bridging Finance and Economics: Core Concepts and Differences'
+description: Finance and Economics combine to explain money management and macro insights
+  guiding investments careers and policy decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Greenfield Investment and International Acquisition"
-description: "Explore how greenfield investments and international acquisitions fuel global expansion. Delve into algorithmic trading's role in optimizing these strategies."
+title: Greenfield Investment Versus International Acquisition Comparison
+description: Greenfield investment and international acquisition present distinct
+  cost control and timeline tradeoffs for foreign expansion Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Core Holding: Overview and Typical Investments"
-description: "Explore the synergy between typical investments core holdings and algorithmic trading to craft robust adaptive portfolios that optimize performance and manage risks."
+title: Building a Strong Investment Foundation With Core Holdings
+description: Core holdings anchor your portfolio with stable investments in established
+  companies and diversified funds for steady growth Discover more inside
 ---
 
 

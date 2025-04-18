@@ -1,6 +1,7 @@
 ---
-title: "Consumer Price Index for Urban Wage Earners and Clerical Workers"
-description: "Discover how the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) integrates with algorithmic trading to refine financial strategies."
+title: CPI-W Impact On Social Security Cost-Of-Living Adjustments
+description: CPI-W measures urban wage earners price changes guides Social Security
+  cost-of-living adjustments so benefits keep pace with inflation Discover more inside
 ---
 
 

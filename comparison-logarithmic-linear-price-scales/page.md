@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Logarithmic and Linear Price Scales"
-description: "Explore the key differences between linear and logarithmic price scales and their implications for algorithmic trading strategies in financial markets."
+title: Understanding Logarithmic and Linear Price Scales in Charts
+description: Logarithmic price scale clearly reveals percentage growth while linear
+  scale highlights absolute changes on financial charts. Discover more inside.
 ---
 
 

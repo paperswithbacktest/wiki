@@ -1,6 +1,7 @@
 ---
-title: "David Ricardo: Contributions and Legacy"
-description: "Explore David Ricardo's comparative advantage theory and its impact on international trade and algorithmic trading strategies in today's economy."
+title: David Ricardo and the Theory of Comparative Advantage Explained
+description: David Ricardo theory of comparative advantage shows how countries can
+  specialize in production and trade to boost economic growth Discover more inside
 ---
 
 

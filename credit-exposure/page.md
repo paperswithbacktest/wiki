@@ -1,6 +1,7 @@
 ---
-title: "Credit Exposure"
-description: "Explore the intricacies of credit risk and financial exposure in banking and discover how algorithmic trading enhances risk management for institutions and investors."
+title: Managing Credit Exposure for Financial Stability and Profitability
+description: Credit exposure reveals the maximum loss for lenders and guides risk
+  management with calculation methods and mitigation strategies. Discover more inside.
 ---
 
 

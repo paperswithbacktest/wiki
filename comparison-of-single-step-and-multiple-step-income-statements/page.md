@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Single-Step and Multiple-Step Income Statements"
-description: "Explore how single-step and multiple-step income statements impact algorithmic trading. Learn which format enhances decision-making and trading strategy outcomes."
+title: Single Step vs Multiple Step Income Statements Explained
+description: Income statement comparison outlines single step and multiple step formats
+  to clarify revenue expense breakdown and net income calculation Discover more inside.
 ---
 
 

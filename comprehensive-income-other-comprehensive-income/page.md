@@ -1,6 +1,7 @@
 ---
-title: "Comprehensive Income and Other Comprehensive Income"
-description: "Explore comprehensive income's role in financial reporting and algorithmic trading. Understand how it reveals a company's full financial health with unrealized gains."
+title: Understanding Comprehensive Income For Financial Reporting
+description: Comprehensive income reveals all equity changes from net income and unrealized
+  gains to currency shifts for a full financial view Discover more inside.
 ---
 
 

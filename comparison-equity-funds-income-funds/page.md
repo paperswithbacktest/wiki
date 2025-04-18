@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Equity Funds and Income Funds"
-description: "Explore the key differences between equity and income funds and the impact of algorithmic trading on investment strategies for effective portfolio management."
+title: Comparing Equity Funds and Income Funds for Investment Goals
+description: Equity funds and income funds compare long term growth steady payouts
+  and risks management fees and tax effective strategies Discover more inside
 ---
 
 

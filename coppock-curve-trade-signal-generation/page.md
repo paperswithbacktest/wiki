@@ -1,6 +1,7 @@
 ---
-title: "Coppock Curve Trade Signal Generation"
-description: "Explore how the Coppock Curve, a momentum indicator, integrates into algorithmic trading for generating effective trade signals and optimizing strategies."
+title: "Understanding the Coppock Curve for Long\u2011Term Market Signals"
+description: "Coppock Curve momentum indicator reveals long\u2011term market turnarounds\
+  \ using weighted moving averages for confident buy timing Discover more inside"
 ---
 
 

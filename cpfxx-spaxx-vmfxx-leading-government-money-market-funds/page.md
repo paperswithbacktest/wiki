@@ -1,6 +1,7 @@
 ---
-title: "CPFXX, SPAXX, and VMFXX: Leading Government Money Market Funds"
-description: "Discover how CPFXX, SPAXX, and VMFXX lead government money market funds by providing stability and liquidity with algorithmic trading efficiency."
+title: Comparing CPFXX SPAXX and VMFXX Government Money Market Funds
+description: Government money market funds CPFXX SPAXX and VMFXX offer a secure, liquid
+  cash management option with low fees and stable yields Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Sharpe Ratio and Treynor Ratio"
-description: "Explore key investment metrics including Sharpe and Treynor Ratios to understand risk-adjusted returns and the role of algorithmic trading in enhancing performance."
+title: Sharpe and Treynor Ratios for Risk Adjusted Portfolio Analysis
+description: Sharpe Ratio and Treynor Ratio measure risk adjusted returns by comparing
+  performance to risk metrics in diversified portfolios Discover more inside.
 ---
 
 

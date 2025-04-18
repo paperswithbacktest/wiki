@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Ledger Nano S Plus and X"
-description: "Compare Ledger Nano S Plus and Ledger Nano X to find the best security, usability, and price features for cryptocurrency storage and algo trading needs."
+title: Comparing Ledger Nano S Plus and Ledger Nano X Hardware Wallets
+description: Ledger Nano X and S Plus hardware wallets secure your crypto offline.
+  Compare Bluetooth and app limits to choose your ideal device Discover more inside
 ---
 
 

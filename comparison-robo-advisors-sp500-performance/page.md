@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Robo-Advisors and S&P 500 Performance"
-description: "Discover how robo-advisors stack up against the S&P 500 Explore their performance potential and automating strategies to achieve investment success."
+title: Robo Advisor Performance Compared With the S&P 500 Benchmark
+description: Robo advisors automate portfolio management with rebalancing and tax-loss
+  harvesting to optimize returns versus the S&P 500. Discover more inside.
 ---
 
 

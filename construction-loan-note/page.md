@@ -1,6 +1,7 @@
 ---
-title: "Construction Loan Note"
-description: "Explore the synergy between construction loan notes and algorithmic trading to optimize financing strategies and enhance project management efficiency."
+title: Comprehensive Guide to Construction Loan Note Financing
+description: Construction loan note financing helps builders track draw schedules
+  control costs and transition to permanent mortgages seamlessly Discover more inside.
 ---
 
 

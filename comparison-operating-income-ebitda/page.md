@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Operating Income and EBITDA"
-description: "Explore the role of operating income and EBITDA in algorithmic trading Compare these crucial metrics to enhance trading strategies and optimize profitability"
+title: Operating Income Vs EBITDA Explained for Clear Financial Insights
+description: Operating income and EBITDA help you evaluate profitability by highlighting
+  core earnings and capital impacts with examples Discover more inside
 ---
 
 

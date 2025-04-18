@@ -1,7 +1,7 @@
 ---
-title: "Comparison of Global and American Depositary Receipts"
-description: "Explore the differences between American Depositary Receipts and Global Depositary Receipts in algorithmic trading and their role in global financial markets.
-"
+title: Comparing GDRs And ADRs For International Capital Raising
+description: GDRs and ADRs let investors access foreign stocks by avoiding currency
+  and regulatory hurdles while diversifying portfolios Discover more inside.
 ---
 
 

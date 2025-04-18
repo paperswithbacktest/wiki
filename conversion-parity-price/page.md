@@ -1,6 +1,7 @@
 ---
-title: "Conversion Parity Price"
-description: "Explore how conversion parity, pricing mechanisms, and algo trading impact investment strategies. Learn to leverage these concepts for better financial outcomes."
+title: Understanding Conversion Parity Price for Convertible Securities
+description: Conversion Parity Price shows the breakeven stock value when converting
+  bonds or preferred shares and guides investors on ideal timing Discover more inside
 ---
 
 

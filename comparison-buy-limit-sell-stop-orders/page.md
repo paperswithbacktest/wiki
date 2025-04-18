@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Buy Limit and Sell Stop Orders"
-description: "Understand the dynamics of buy limit and sell stop orders in algo trading Learn how these tools can enhance strategies improve execution and manage risks"
+title: Understanding Buy Limit Orders and Sell Stop Orders
+description: Buy limit orders and sell stop orders let investors set exact entry and
+  exit points to control costs and limit losses effectively Discover more inside
 ---
 
 

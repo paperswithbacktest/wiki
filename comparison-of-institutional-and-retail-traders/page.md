@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Institutional and Retail Traders"
-description: "Discover the contrasting roles of institutional and retail traders in the evolving landscape of algorithmic trading and its impact on market dynamics."
+title: Understanding Institutional Traders Versus Retail Traders
+description: Institutional traders and retail traders differ in scale fees and risk
+  See how these distinctions shape market dynamics Discover more inside
 ---
 
 

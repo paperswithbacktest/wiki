@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Gross Profit Margin and Operating Profit Margin"
-description: "Explore the essentials of gross profit and operating profit margins in algorithmic trading to enhance decision-making, profitability, and trading efficiency."
+title: Understanding Gross Profit Margin and Operating Profit Margin
+description: Gross Profit Margin and Operating Profit Margin show profitability by
+  measuring product and operating costs to guide business decisions Discover more
 ---
 
 

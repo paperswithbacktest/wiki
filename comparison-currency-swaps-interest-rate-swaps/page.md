@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Currency Swaps and Interest Rate Swaps"
-description: "Explore the benefits and risks of currency swaps and interest rate swaps in algorithmic trading Learn how these derivatives manage risks and enhance returns"
+title: Currency Versus Interest Rate Swaps for Corporate Risk Management
+description: Currency swaps and interest rate swaps help companies lock in rates and
+  manage financial risks with predictable terms and costs Discover more inside.
 ---
 
 

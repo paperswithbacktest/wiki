@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Betterment and Vanguard Personal Advisor Services"
-description: "Compare Betterment and Vanguard Personal Advisor Services for robo-advisory investment options Understand their unique features fees and approaches to financial management"
+title: Betterment vs Vanguard Personal Advisor Services Comparison
+description: Betterment vs Vanguard PAS offers concise comparison of fees features
+  and planning tools to help choose your ideal robo-advisor Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Merrill Guided Investing and E*TRADE Core Portfolios"
-description: "Discover the key distinctions between Merrill Guided Investing and E*TRADE Core Portfolios with this comprehensive comparison, aimed at helping investors make informed decisions. Explore how each platform utilizes advanced algorithmic trading to offer personalized investment strategies and efficient portfolio management. Delve into the unique features and services they provide, tailored to meet diverse investor needs, and understand how these platforms can optimize financial outcomes through technology-driven solutions."
+title: Comparing Merrill Guided Investing and E*TRADE Core Portfolios
+description: Merrill Guided Investing and E*TRADE Core Portfolios offer automated
+  investing with flexible fees and smart tax harvesting Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Contribution of Oil and Gas Drilling to the Global Economy"
-description: "Explore how algorithmic trading reshapes the oil and gas sectors by enhancing efficiency in energy markets, driving economic growth, and optimizing resources."
+title: Economic Impact of Oil and Gas Drilling on Global Economy
+description: Oil and gas drilling drives global economies by creating jobs revenue
+  and infrastructure while managing price swings and regulations. Discover more inside.
 ---
 
 

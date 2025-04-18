@@ -1,6 +1,7 @@
 ---
-title: "Constant Yield Method Overview and Calculation"
-description: "Explore how the constant yield method and algorithmic trading strategies merge to enhance investment returns with precise yield calculations and rapid executions."
+title: Understanding the Constant Yield Method for Bond Valuation
+description: Constant Yield Method ensures even accrual of bond interest income each
+  year and streamlines tax and financial reporting Discover more inside
 ---
 
 

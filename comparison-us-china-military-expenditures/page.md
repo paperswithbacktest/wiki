@@ -1,6 +1,7 @@
 ---
-title: "Comparison of U.S. and China Military Expenditures"
-description: "Explore how U.S. and China military expenditures impact global security and economic stability. Analyze budget trends and algorithmic trading effects on defense markets."
+title: Comparing US and China Military Expenditures and Impacts
+description: US and China military spending comparison reveals budget trends components
+  GDP impact and strategic implications for global security Discover more inside
 ---
 
 

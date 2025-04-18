@@ -1,6 +1,7 @@
 ---
-title: "Concession Agreement Overview"
-description: "Explore the critical role of concession agreements and algorithmic trading contracts in business strategy Learn how these agreements impact operations and opportunities"
+title: Understanding Concession Agreements for Public Infrastructure
+description: Concession agreement explained in detail with key components risks and
+  benefits for governments and private companies Discover more insights inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Decentralized Autonomous Organization: Purpose and Examples"
-description: "Explore how decentralized autonomous organizations (DAOs) revolutionize governance and finance by integrating blockchain and algorithmic trading for transparency and efficiency."
+title: Decentralized Autonomous Organization Guide To DAO Operations
+description: Decentralized Autonomous Organization uses transparent blockchain code
+  to let members vote on spending and manage funds democratically Discover more inside
 ---
 
 

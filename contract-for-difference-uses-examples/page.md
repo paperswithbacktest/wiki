@@ -1,6 +1,7 @@
 ---
-title: "Contract for Difference: Uses and Examples"
-description: "Explore the powerful synergy between Contract for Difference (CFD) trading and algorithmic techniques Learn how algo trading can optimize CFD strategies and outcomes"
+title: Key Concepts and Risks of Contract for Difference CFD Trading
+description: CFD trading lets you speculate on price movements with leverage across
+  global markets and hedge investments while managing risk Discover more inside
 ---
 
 

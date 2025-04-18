@@ -1,6 +1,7 @@
 ---
-title: "Core Inflation and Its Significance"
-description: "Explore the significance of core inflation in economic analysis and its impact on algorithmic trading strategies Learn how it influences financial decision-making"
+title: Understanding Core Inflation and Its Role in Economic Policy
+description: Core inflation shows the steady trend of price changes by removing volatile
+  food and energy to guide monetary policy choices Discover more inside.
 ---
 
 

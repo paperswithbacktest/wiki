@@ -1,6 +1,7 @@
 ---
-title: "Curb Trading: Mechanisms and Historical Background"
-description: "Explore the evolution of stock trading from informal curbside transactions to sophisticated algorithmic systems and their impact on today's markets."
+title: Curb Trading History And Evolution of Stock Market Practices
+description: Curb trading shaped stock market evolution by enabling unlisted stock
+  deals outside official exchanges and influencing modern trading Discover more inside
 ---
 
 

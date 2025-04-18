@@ -1,6 +1,7 @@
 ---
-title: "Creation Units"
-description: "Discover how creation units play a pivotal role in the formation and efficient trading of ETFs, supported by algorithmic trading for optimal market performance."
+title: ETF Creation Units Explained for Liquidity and NAV Maintenance
+description: Creation units enable ETF issuers and APs to adjust share supply support
+  market liquidity and maintain NAV alignment efficiently Discover more inside
 ---
 
 

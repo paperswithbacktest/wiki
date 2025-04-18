@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Net Operating Profit After Tax and Net Income"
-description: "Explore the core differences between Net Operating Profit After Tax and net income and how these metrics can impact investment decisions and trading strategies."
+title: Understanding NOPAT and Net Income Key Differences
+description: NOPAT shows a firms core operating profit after tax by excluding financing
+  costs and aligning performance comparisons for investors Discover more inside.
 ---
 
 

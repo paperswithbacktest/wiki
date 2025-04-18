@@ -1,6 +1,7 @@
 ---
-title: "Credit Loss Ratio Explained"
-description: "Explore the significance of credit loss ratios in algorithmic trading risk management Learn how these metrics enhance strategy, efficiency and financial decision-making"
+title: Understanding Credit Loss Ratio for Banking Risk Management
+description: Credit loss ratio helps banks measure and manage loan risk by quantifying
+  losses from bad loans in relation to total lending volume Discover more inside.
 ---
 
 

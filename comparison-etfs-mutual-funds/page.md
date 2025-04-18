@@ -1,6 +1,7 @@
 ---
-title: "Comparison of ETFs and Mutual Funds"
-description: "Compare ETFs, mutual funds, and algo trading to understand their benefits, risks, and unique features. Make informed investment choices with this guide."
+title: Comparing ETFs and Mutual Funds for Smart Portfolio Allocation
+description: ETFs vs Mutual Funds analysis reveals differences in costs tax efficiency
+  and trading flexibility to optimize your portfolio Discover more inside
 ---
 
 

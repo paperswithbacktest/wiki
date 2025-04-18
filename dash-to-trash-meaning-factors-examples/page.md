@@ -1,6 +1,7 @@
 ---
-title: "Dash to Trash: Meaning, Factors, and Examples"
-description: "Explore the meaning of dash to trash in algo trading as investors target low-quality stocks in bullish markets Learn about the factors and market effects"
+title: Understanding Dash to Trash Stock Market Volatility Events
+description: Dash to Trash explains rapid stock surges that quickly crash so you spot
+  warning signs manage risk and protect your portfolio Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Cooling Degree Day and Energy Demand Calculation"
-description: "Explore the significance of Cooling Degree Day calculations in predicting energy demand accurately. Learn how integrating CDD with algo trading optimizes energy markets."
+title: Cooling Degree Days And Their Role In Energy Demand Forecasting
+description: Cooling Degree Days measure daily heat impact on energy demand and air
+  conditioning use with actionable data to plan smarter Discover more inside.
 ---
 
 

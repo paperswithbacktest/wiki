@@ -1,6 +1,7 @@
 ---
-title: "Daniel Kahneman: Education, Achievements, and Legacy"
-description: "Discover Daniel Kahneman's revolutionary contributions to psychology and economics that have transformed understanding of decision-making and impacted algorithmic trading."
+title: Daniel Kahneman and Prospect Theory Shaping Behavioral Economics
+description: Daniel Kahneman introduced prospect theory and cognitive biases to reveal
+  how people make decisions under risk in behavioral economics Discover more inside
 ---
 
 

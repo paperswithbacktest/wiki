@@ -1,6 +1,7 @@
 ---
-title: "Correlation Coefficient and Its Significance for Investors"
-description: "Explore the impact of the correlation coefficient in algorithmic trading as a statistical tool used to enhance strategies and improve investment outcomes."
+title: Understanding the Correlation Coefficient for Investment Risk
+description: Correlation coefficient reveals how assets move together so investors
+  can diversify and manage portfolio risk more effectively Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Composite Index of Lagging Indicators"
-description: "Explore the significance of the Composite Index of Lagging Indicators in economic analysis and algorithmic trading validating past trends and guiding informed strategies."
+title: Understanding the Composite Index of Lagging Indicators
+description: "Composite Index of Lagging Indicators reveals economy\u2019s health\
+  \ by tracking unemployment duration labor costs and price shifts Discover more inside"
 ---
 
 

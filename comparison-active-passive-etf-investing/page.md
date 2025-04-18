@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Active and Passive ETF Investing"
-description: "Explore the benefits and drawbacks of active vs passive ETF investing and discover the impact of algorithmic trading on modern investment strategies."
+title: Active Vs Passive ETFs Understanding Fees And Performance
+description: Active vs passive ETFs compare cost transparency risk and returns to
+  guide investors in diversified portfolios with performance insights Discover more
+  inside
 ---
 
 

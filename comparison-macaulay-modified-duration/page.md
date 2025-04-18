@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Macaulay and Modified Duration"
-description: "Explore the Macaulay and Modified Duration metrics essential for assessing bond interest rate risk and their transformative role in algorithmic trading strategies."
+title: Understanding Macaulay and Modified Duration in Bonds
+description: Duration measures in bond valuation show how Macaulay and Modified methods
+  assess interest rate risk and optimize bond choices Discover more inside
 ---
 
 

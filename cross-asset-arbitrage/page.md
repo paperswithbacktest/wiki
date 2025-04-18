@@ -1,6 +1,7 @@
 ---
-title: "Cross-Asset Arbitrage"
-description: "Explore the world of cross-asset arbitrage a complex trading strategy using algorithmic methods to exploit price discrepancies across asset classes like stocks and bonds."
+title: Understanding Cross-Asset Arbitrage Strategies for Profit
+description: Cross-Asset Arbitrage uncovers market inefficiencies across stocks bonds
+  commodities currencies with examples and risk controls Discover more inside
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Corporate Sustainability Pillars"
-description: "Explore corporate sustainability in the context of algorithmic trading and how it integrates Environmental Social and Governance factors to boost ethical investing."
+title: Corporate Sustainability Pillars for Lasting Business Success
+description: Corporate sustainability ensures lasting success by reducing costs and
+  boosting trust through environmental social and governance pillars Discover more
+  inside
 ---
 
 

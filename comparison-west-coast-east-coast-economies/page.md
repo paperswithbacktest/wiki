@@ -1,6 +1,7 @@
 ---
-title: "Comparison of the West Coast and East Coast Economies"
-description: "Explore the economic strengths of the East and West Coasts of the U.S. Financial hubs meet tech innovation with algo trading reshaping regional dynamics."
+title: Comparing West Coast and East Coast Economic Landscapes
+description: West Coast vs East Coast economy reveals how technology entertainment
+  finance and tourism drive growth and costs across regions Discover more inside.
 ---
 
 

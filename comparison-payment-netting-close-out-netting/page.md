@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Payment Netting and Close-Out Netting"
-description: "Explore how payment netting and close-out netting enhance risk management and transaction efficiency in algorithmic trading within the financial markets."
+title: Comparing Payment Netting and Close-Out Netting in Finance
+description: Payment netting consolidates payments to save time, reduce fees while
+  close-out netting limits losses when a counterparty defaults. Discover more inside.
 ---
 
 

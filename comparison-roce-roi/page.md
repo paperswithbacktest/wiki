@@ -1,6 +1,7 @@
 ---
-title: "Comparison of ROCE and ROI"
-description: "Explore the crucial role of ROCE and ROI in investment analysis and algorithmic trading as they provide insights into profitability and capital efficiency. Gain a comprehensive understanding of their distinct strengths and applications, helping investors maximize returns and optimize trading strategies in a competitive financial landscape."
+title: ROCE and ROI Explained for Better Investment Decisions
+description: ROCE and ROI metrics help investors gauge capital efficiency and investment
+  profitability with clear formulas examples and comparisons Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of S&P 500 and Russell 2000 ETFs"
-description: "Explore investment strategies combining S&P 500 and Russell 2000 ETFs with algo trading for diversified portfolios enhancing performance and managing risks."
+title: Comparing S&P 500 ETFs and Russell 2000 ETF Investments
+description: S&P 500 ETFs deliver stable returns and low fees while Russell 2000 ETFs
+  provide higher growth potential at more risk Compare metrics Discover more inside
 ---
 
 

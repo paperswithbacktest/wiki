@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Dilutive and Anti-Dilutive Securities"
-description: "Explore how dilutive and anti-dilutive securities impact earnings per share and the role of algorithmic trading in shaping investment strategies."
+title: "Understanding Dilutive and Anti\u2011Dilutive Securities Impact"
+description: Dilutive securities can lower EPS and share value while anti-dilutive
+  methods boost EPS Manage dilution to protect investments Discover more inside.
 ---
 
 

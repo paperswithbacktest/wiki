@@ -1,6 +1,7 @@
 ---
-title: "Contingency Order: Overview and Examples"
-description: "Discover the power of contingency orders and algorithmic trading in financial markets Enhance your strategies with automated precision and effective risk management"
+title: Contingency Orders In Trading For Risk Management And Profit
+description: Contingency orders automate buy and sell decisions with price triggers
+  that limit losses and lock in gains without monitoring. Discover more inside
 ---
 
 

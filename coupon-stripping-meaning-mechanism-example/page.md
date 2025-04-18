@@ -1,6 +1,7 @@
 ---
-title: "Coupon Stripping: Meaning, Mechanism, and Example"
-description: "Discover coupon stripping as a financial technique that separates bond interest and principal into tradable securities Learn its benefits and applications here"
+title: A Comprehensive Guide to Coupon Stripping in Bond Markets
+description: Coupon stripping lets investors buy bond coupons or principal separately
+  for flexible income and growth strategies in bond markets Discover more inside
 ---
 
 

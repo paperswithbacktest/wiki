@@ -1,6 +1,7 @@
 ---
-title: "Comparison of E*TRADE and Fidelity"
-description: "Compare ETRADE and Fidelity's algorithmic trading offerings to find the right platform for your financial goals. Discover tools, support, and strategies."
+title: E*TRADE Versus Fidelity Comprehensive Brokerage Comparison
+description: E*TRADE vs Fidelity comparison highlights account options fees mobile
+  features research tools and security to guide your broker choice Discover more inside
 ---
 
 

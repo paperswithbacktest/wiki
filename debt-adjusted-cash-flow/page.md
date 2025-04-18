@@ -1,6 +1,7 @@
 ---
-title: "Debt-Adjusted Cash Flow"
-description: "Discover the power of Debt-Adjusted Cash Flow in financial analysis and algo trading strategies to accurately evaluate a company's true economic performance."
+title: Understanding Debt-Adjusted Cash Flow for Financial Analysis
+description: Debt-Adjusted Cash Flow reveals cash left after debt service and enables
+  clear company comparisons to inform investment decisions Discover more inside
 ---
 
 

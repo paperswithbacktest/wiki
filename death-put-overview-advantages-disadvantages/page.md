@@ -1,6 +1,7 @@
 ---
-title: "Death Put: Overview, Advantages, and Disadvantages"
-description: "Discover the benefits and challenges of death puts in bonds and algorithmic trading, offering key insights into portfolio management in volatile financial markets."
+title: Death Put Options Explained for Bonds and Life Insurance
+description: Death put lets beneficiaries sell policies or bonds back at a set value
+  when an owner dies ensuring fast access to funds during loss Discover more inside
 ---
 
 

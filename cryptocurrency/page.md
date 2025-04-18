@@ -1,6 +1,7 @@
 ---
-title: "Cryptocurrencies"
-description: Discover the intersection of cryptocurrencies and algorithmic trading. Learn about the unique features of cryptocurrencies, their history, and trading strategies. Explore advantages, risks, and future trends in this dynamic field. Dive deeper with recommended resources.
+title: Cryptocurrency Explained Blockchain Technology and Wallets
+description: Cryptocurrency provides digital money secured by blockchain and private
+  wallets Find out how to buy trade and protect your assets Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Robo-Advisors and Target Date Funds"
-description: "Explore the benefits and differences between robo-advisors and target date funds as modern investment solutions suited for various financial goals and risk levels."
+title: Comparing Robo Advisors and Target Date Funds for Retirement
+description: Robo advisors and target date funds simplify retirement investing by
+  balancing cost and control Find the option that fits your goals Discover more inside
 ---
 
 

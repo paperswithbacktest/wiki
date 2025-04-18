@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Berkshire Hathaway Class A and Class B Shares"
-description: "Explore the differences between Berkshire Hathaway Class A (BRK.A) and Class B (BRK.B) shares in this comprehensive analysis. Gain insights into historical context, pricing, voting rights, and convertibility while understanding the impact of algorithmic trading on investor decision-making. Ideal for investors looking to align their financial goals with Berkshire Hathaway's unique stock offerings."
+title: Berkshire Hathaway Class A vs Class B Shares Explained
+description: Berkshire Hathaway Class A shares carry premium pricing and voting power
+  while Class B shares provide affordable access Discover more inside
 ---
 
 

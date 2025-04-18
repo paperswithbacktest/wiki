@@ -1,6 +1,7 @@
 ---
-title: "Crack-Up Boom: Overview and Historical Examples"
-description: "Explore the concept of a crack-up boom in finance highlighting its impact on modern algorithmic trading and historical examples of hyperinflation crises."
+title: Understanding Crack-Up Booms And Their Economic Impact
+description: Crack-Up Boom occurs when runaway inflation erodes trust in currency
+  causing rapid spending and price surges that collapse economies Discover more inside
 ---
 
 

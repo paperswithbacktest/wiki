@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Vanguard Total Stock Market Index Fund and Vanguard 500 Index Fund"
-description: "Explore the comparison of Vanguard Total Stock Market and Vanguard 500 Index Funds with insights on integrating these with algorithmic trading strategies."
+title: Vanguard Total Stock Market Vs 500 Index Fund Comparison
+description: Vanguard Total Stock Market Index Fund and Vanguard 500 Index Fund offer
+  low cost broad market exposure and diversification Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Criticisms and Shortcomings of the Consumer Price Index"
-description: "Explore the limitations of the Consumer Price Index CPI and how they affect algorithmic trading in this insightful article. Understand the CPI's role in measuring inflation and its impact on trading strategies, highlighting the need for reliable data. Discover common CPI flaws like data lags, substitution bias, and regional disparities that can impact trading decisions and market efficiency. Ideal for investors and policymakers aiming to enhance economic stability and trading effectiveness."
+title: Understanding the Consumer Price Index and Its Limitations
+description: Consumer Price Index explains inflation by tracking price shifts in a
+  consumer basket and revealing biases Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Constant Proportion Debt Obligation: Overview and Limitations"
-description: "Constant Proportion Debt Obligations utilize complex algorithms to offer high yields with investment-grade risk but face limitations revealed during downturns."
+title: Understanding Constant Proportion Debt Obligations and Their Risks
+description: Constant Proportion Debt Obligation uses leverage and credit derivatives
+  to maintain target ratings and control volatility Discover more inside
 ---
 
 

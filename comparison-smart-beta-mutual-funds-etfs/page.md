@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Smart Beta Mutual Funds and Smart Beta ETFs"
-description: "Discover the differences between Smart Beta Mutual Funds and Smart Beta ETFs focusing on strategy nuances and algorithmic trading for better investment insights."
+title: Smart Beta Mutual Funds Versus ETFs Detailed Comparison
+description: Smart Beta Investing offers a clear look at how mutual funds and ETFs
+  differ in cost transparency liquidity and tax efficiency. Discover more inside.
 ---
 
 

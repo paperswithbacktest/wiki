@@ -1,6 +1,7 @@
 ---
-title: "Consolidated Financial Statements: Requirements and Examples"
-description: "Explore the essentials of consolidated financial statements, crucial for assessing corporate financial health by combining the financials of a parent company and its subsidiaries. This comprehensive guide highlights their role in financial reporting and algo trading, emphasizing accurate disclosures for informed decisions and market efficiency."
+title: Consolidated Financial Statements Explained for Corporations
+description: Consolidated financial statements unify a parent and subsidiaries into
+  one transparent view of group performance and compliance Discover more inside
 ---
 
 

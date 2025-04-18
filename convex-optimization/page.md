@@ -1,6 +1,7 @@
 ---
-title: "Convex Optimization (Machine Learning)"
-description: "Discover the importance of convex optimization in machine learning from improving model efficiency to ensuring accurate solutions with reliable global minima."
+title: Fundamentals Of Convex Optimization In Machine Learning
+description: Convex Optimization ensures reliable model training with efficient algorithms
+  and duality applications in regression and SVM Discover more inside
 ---
 
 ![Image](images/1.png)

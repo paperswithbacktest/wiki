@@ -1,6 +1,7 @@
 ---
-title: "Debt Security: Overview, Types, and Investment Strategies"
-description: "Explore the world of debt securities and algorithmic trading Uncover types investment strategies and potential risks to make informed financial decisions"
+title: 'Guide To Debt Securities: Types Risks And Investment Strategies'
+description: Debt securities offer stable returns through government corporate and
+  municipal bonds while managing risks yields and maturities Discover more inside
 ---
 
 

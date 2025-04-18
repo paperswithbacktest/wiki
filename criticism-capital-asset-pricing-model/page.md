@@ -1,6 +1,7 @@
 ---
-title: "Criticism of the Capital Asset Pricing Model"
-description: "Explore criticisms of the Capital Asset Pricing Model in the context of algorithmic trading Discover why CAPM's assumptions may fall short in modern financial markets"
+title: Understanding the Capital Asset Pricing Model and Its Limits
+description: Capital Asset Pricing Model helps investors balance risk and return yet
+  faces real world limits that call for broader approaches Discover more inside
 ---
 
 

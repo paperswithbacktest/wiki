@@ -1,6 +1,7 @@
 ---
-title: "Comparison of CAPM and Arbitrage Pricing Theory"
-description: "Explore how CAPM and APT are utilized in algorithmic trading to enhance investment strategies and manage portfolios in the finance industry."
+title: CAPM and APT Investment Models Explained for Risk and Return
+description: CAPM and APT help investors compare risk factors and expected returns
+  with practical applications to build smarter portfolios Discover more inside.
 ---
 
 

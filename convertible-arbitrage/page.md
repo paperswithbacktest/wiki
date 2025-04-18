@@ -1,6 +1,7 @@
 ---
-title: "Convertible arbitrage"
-description: Discover convertible arbitrage, a complex investment strategy used by hedge funds to exploit market inefficiencies through convertible securities and stock shorting. This market-neutral approach leverages the unique blend of debt and equity features found in convertible bonds, allowing investors to capitalize on pricing discrepancies and embedded options, ensuring potential gains from both price volatility and mispricing opportunities.
+title: Comprehensive Guide to Convertible Arbitrage Strategies and Risks
+description: Convertible arbitrage uses convertible bonds and stock shorting to exploit
+  price gaps with delta hedging and risk controls Explore more inside
 ---
 
 

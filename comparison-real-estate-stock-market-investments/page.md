@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Real Estate and Stock Market Investments"
-description: "Explore real estate and stock market investments highlighting algorithmic trading's impact in shaping investment strategies and optimizing portfolios."
+title: Comparison of Real Estate vs Stock Market Investments
+description: Real estate vs stock market investments involve different returns liquidity
+  risks taxes and costs so you can decide based on your goals Discover more inside.
 ---
 
 

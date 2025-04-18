@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Blockfolio and Coinbase"
-description: "Explore the strengths of Coinbase and Blockfolio for algorithmic trading in this comparative analysis tailored for investors seeking diverse crypto opportunities."
+title: Blockfolio vs Coinbase App Comparison for Crypto Investors
+description: Blockfolio vs Coinbase comparison shows key tracking, fees, security
+  so you can pick the right crypto management platform Discover more inside
 ---
 
 

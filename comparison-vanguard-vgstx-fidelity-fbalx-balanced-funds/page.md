@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Vanguard VGSTX and Fidelity FBALX Balanced Funds"
-description: "Explore the comparison between Vanguard VGSTX and Fidelity FBALX balanced funds Discover how algorithmic trading influences their performance and benefits."
+title: Vanguard VGSTX Vs Fidelity FBALX Balanced Fund Comparison
+description: Vanguard VGSTX vs Fidelity FBALX comparison shows key differences in
+  performance expense ratios and risk for balanced fund investing Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Controversies Surrounding the Consumer Price Index"
-description: "Explore the controversies surrounding the Consumer Price Index and its impact on inflation, economic indicators, and algorithmic trading strategies in financial markets."
+title: Understanding the Consumer Price Index and Its Impact
+description: Consumer Price Index tracks changes in the cost of goods and services
+  to reveal inflation trends and guide policy decisions Discover more inside.
 ---
 
 

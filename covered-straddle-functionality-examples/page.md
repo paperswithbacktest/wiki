@@ -1,6 +1,7 @@
 ---
-title: "Covered Straddle: Functionality and Examples"
-description: "Explore the covered straddle strategy in algo trading Discover how owning an asset and selling call and put options can profit in stable markets with automation"
+title: Covered Straddle Options Strategy Explained for Income Generation
+description: Covered straddle lets investors earn premiums on owned stock while managing
+  risk through strategic strikes and expirations Discover more inside
 ---
 
 

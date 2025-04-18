@@ -1,6 +1,7 @@
 ---
-title: "Decision Analysis: Applications and Examples"
-description: "Explore how decision analysis enhances algorithmic trading by optimizing decision-making through quantitative and qualitative insights for improved market strategies."
+title: Decision Analysis Tools and Techniques for Confident Choices
+description: Decision analysis breaks choices into clear steps with tools like decision
+  trees and expected value to improve outcomes manage risk Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Covered Calls and Option Risk"
-description: "Explore covered calls and option risk within algorithmic trading Optimize your strategy by understanding how these complex financial tools can boost returns and manage risk"
+title: Mastering Covered Calls Strategy for Steady Stock Income
+description: Covered calls strategy lets you earn premium income on stocks you own
+  while managing risk with strike price and expiry choices Discover more inside.
 ---
 
 

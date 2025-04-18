@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Penny Stocks and Small Cap Stocks"
-description: "Explore the characteristics, advantages, and risks of penny stocks and small cap stocks in this detailed comparison to optimize your investment strategy."
+title: 'Penny Stocks vs Small Cap Stocks: A Comparative Guide'
+description: Explore Penny Stocks vs Small Cap Stocks to understand market cap liquidity
+  risk and returns to guide your investment decisions Discover more inside
 ---
 
 

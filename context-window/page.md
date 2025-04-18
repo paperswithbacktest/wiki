@@ -1,6 +1,7 @@
 ---
-title: "Context Window (Machine Learning)"
-description: "Discover the role of context windows in machine learning and how their size impacts processing, predictions, and performance in language models and RNNs."
+title: Understanding Context Windows in Natural Language Processing
+description: Context Window controls how much data a model processes at once impacting
+  prediction accuracy and resource use and costs Discover more inside
 ---
 
 ![Image](images/1.jpeg)

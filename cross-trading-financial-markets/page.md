@@ -1,6 +1,8 @@
 ---
-title: "Cross Trading in Financial Markets"
-description: "Explore the complexities and efficiencies of cross trading in financial markets without centralized exchanges focusing on benefits, risks, and regulatory aspects."
+title: Understanding Cross Trading in Financial Markets
+description: Cross trading in financial markets allows brokers to match client orders
+  directly without public exchanges, reducing costs and speeding execution. Discover
+  more inside.
 ---
 
 

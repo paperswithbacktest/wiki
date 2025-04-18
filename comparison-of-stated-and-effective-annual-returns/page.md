@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Stated and Effective Annual Returns"
-description: "Explore key financial metrics in trading by understanding the distinctions between effective, annual, and stated returns. Uncover their impact on algorithmic strategies."
+title: Key Differences Between Stated and Effective Annual Returns
+description: Effective annual return comparison shows how compounding impacts your
+  real investment yields so you can choose wisely Discover more inside.
 ---
 
 

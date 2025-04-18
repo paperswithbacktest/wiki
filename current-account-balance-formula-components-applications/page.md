@@ -1,6 +1,7 @@
 ---
-title: "Current Account Balance: Formula, Components, and Applications"
-description: "Discover the complexities of the current account balance, a key economic indicator reflecting a nation's transactions with the world. This article investigates into its components—trade balance, net primary income, and net secondary income—and their impact on a country's economic health. Explore how this balance influences trading decisions, especially in algorithmic trading, and enhances understanding of global financial markets."
+title: Understanding the Current Account Balance and Its Components
+description: Current account balance explains how exports, imports and income streams
+  shape a nations economic health and international standing Discover more inside.
 ---
 
 

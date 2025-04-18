@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Debentures and Fixed Deposits"
-description: "Explore the key differences and advantages of fixed deposits and debentures while understanding their roles in algo trading to make informed investment decisions."
+title: Debentures Versus Fixed Deposits Comparing Risk and Returns
+description: Debentures vs fixed deposits reveal key distinctions in risk liquidity
+  interest rates and security to guide portfolio decisions Discover more inside
 ---
 
 

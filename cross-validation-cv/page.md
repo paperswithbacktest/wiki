@@ -1,6 +1,7 @@
 ---
-title: "Cross-validation (CV)"
-description: Cross-validation in algorithmic trading enhances model accuracy by providing reliable performance metrics. It addresses overfitting and considers financial data's unique challenges like non-stationarity and temporal dependence. Techniques such as embargoing and purging maintain data integrity, preventing leakage and ensuring models accurately predict unseen data. These robust validation methods improve trading strategies and adapt to evolving financial market conditions, fostering the development of dependable models.
+title: Cross Validation Techniques for Reliable Machine Learning Models
+description: Cross validation ensures your machine learning models generalize well
+  by testing across multiple data folds and preventing overfitting Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Credit Easing: Mechanisms, Implementation, and Criticisms"
-description: "Explore the dynamic interplay between credit easing and algorithmic trading within global finance Discover how these mechanisms influence markets and policies"
+title: Credit Easing Explained For Targeted Economic Support
+description: Credit Easing lets central banks buy targeted assets to boost lending
+  and support struggling sectors while enhancing economic growth. Discover more inside.
 ---
 
 

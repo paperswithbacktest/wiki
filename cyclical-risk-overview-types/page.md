@@ -1,6 +1,8 @@
 ---
-title: "Cyclical Risk: Overview and Types"
-description: "Explore cyclical risks and their impact on algorithmic trading strategies Understand economic cycles to optimize investments and manage market fluctuations effectively"
+title: Understanding Cyclical Risk in Investments and Industry Trends
+description: Cyclical risk affects how industries perform during economic ups and
+  downs Learn how to identify and manage these risks for smarter investing Discover
+  more inside
 ---
 
 

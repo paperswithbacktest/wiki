@@ -1,6 +1,7 @@
 ---
-title: "Concept Drift (Machine Learning)"
-description: "Concept drift in machine learning occurs when data patterns change over time affecting model accuracy. Regular updates and monitoring ensure continued effectiveness."
+title: Understanding Concept Drift in Machine Learning Models
+description: Concept drift in machine learning can lower model accuracy unless you
+  detect and adapt your models continuously to stay reliable Discover more inside
 ---
 
 ![Image](images/1.png)

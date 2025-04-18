@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Stock Market Trends: 1950s vs. 1970s"
-description: "Explore the differences in stock market trends between the boom of the 1950s and the economic challenges of the 1970s with the rise of algo trading."
+title: Comparing Stock Market Performance in the 1950s and 1970s
+description: Stock Market Performance in the 1950s and 1970s reveals how economic
+  shifts shaped investor confidence and industry growth Discover more inside.
 ---
 
 

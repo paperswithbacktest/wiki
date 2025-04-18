@@ -1,6 +1,7 @@
 ---
-title: "Currency Issuance Authority in Canada"
-description: "Explore the complexities of currency issuance and algorithmic trading in Canada, revealing their impact on monetary policies and the evolving economic landscape."
+title: Currency Issuance in Canada Explained by the Bank of Canada
+description: Currency issuance in Canada is managed by the Bank of Canada which oversees
+  money supply, security features and economic stability Discover more inside.
 ---
 
 

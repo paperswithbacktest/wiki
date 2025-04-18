@@ -1,6 +1,7 @@
 ---
-title: "Continuation Patterns in Technical Analysis"
-description: "Explore the importance of continuation patterns in technical analysis for algorithmic trading unveiling their role in predicting and optimizing market trends."
+title: Continuation Patterns in Technical Analysis for Trend Forecasting
+description: Continuation patterns help traders spot brief trend pauses and forecast
+  price moves using flags pennants and rectangles Discover more inside
 ---
 
 

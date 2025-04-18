@@ -1,6 +1,7 @@
 ---
-title: "Cost of Acquisition in Investment Strategies"
-description: "Explore the cost of acquisition in investment strategies, focusing on how algorithmic trading transforms market approaches. Learn how acquisition cost analysis and innovative trading technologies optimize investment performance, offering insights into effective strategies and risk management."
+title: Understanding Cost Of Acquisition In Investment Strategies
+description: Cost of acquisition reveals the full price of your investments including
+  fees to help you make smarter choices and improve returns Discover more inside.
 ---
 
 

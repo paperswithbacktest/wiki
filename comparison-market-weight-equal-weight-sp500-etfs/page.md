@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Market Weight and Equal Weight S&P 500 ETFs"
-description: "Explore the pros and cons of market weight and equal weight S&P 500 ETFs in algorithmic trading Discover performance, risks and choose the right strategy."
+title: Market Weight vs Equal Weight S&P 500 ETFs Explained
+description: Market weight vs equal weight S&P 500 ETFs comparison shows how structure
+  impacts risk and fees helping you choose the right ETF. Discover more inside.
 ---
 
 

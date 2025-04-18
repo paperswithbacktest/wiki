@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Leveraged Biotech ETFs: BIB and LABU"
-description: "Compare BIB and LABU to understand leveraged biotech ETFs Their different strategies offer unique opportunities and risks in the dynamic biotechnology sector"
+title: Leveraged Biotech ETFs BIB Vs LABU Performance And Risks
+description: Leveraged Biotech ETFs BIB and LABU deliver amplified sector returns
+  with high volatility expense ratios and frequent rebalancing Discover more inside
 ---
 
 

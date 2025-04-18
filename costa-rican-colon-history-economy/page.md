@@ -1,6 +1,7 @@
 ---
-title: "Costa Rican Colón: Overview, History, and Economic Role"
-description: "Explore the impact of algorithmic trading on the Costa Rican Colón and economy as technology reshapes finance and traditional economic models in Costa Rica."
+title: "Understanding the Costa Rican Col\xF3n Currency and Its Value"
+description: "Costa Rican Col\xF3n insights cover its history symbol denominations\
+  \ and value drivers in trade tourism and algorithmic trading Discover more inside."
 ---
 
 

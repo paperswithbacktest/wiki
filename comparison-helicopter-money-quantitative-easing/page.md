@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Helicopter Money and Quantitative Easing"
-description: "Explore the differences between helicopter money and quantitative easing as monetary policies and their effects on economic stability and algorithmic trading."
+title: Comparing Helicopter Money and Quantitative Easing Policies
+description: Helicopter money and quantitative easing compare cash injections versus
+  bond purchases to revive growth and reduce borrowing costs Discover more inside
 ---
 
 

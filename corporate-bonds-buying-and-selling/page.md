@@ -1,6 +1,7 @@
 ---
-title: "Corporate Bonds: Buying and Selling"
-description: "Explore how algorithmic trading is revolutionizing the corporate bonds market enhancing trading efficiency and providing insights into future financial trends."
+title: 'Understanding Corporate Bonds: Benefits Risks And How To Invest'
+description: Corporate bonds provide higher income potential and portfolio diversification
+  with credit ratings and maturity choices Discover more inside.
 ---
 
 

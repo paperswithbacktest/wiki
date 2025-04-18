@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Impact Investing and Venture Philanthropy"
-description: "Discover the differences between impact investing and venture philanthropy and how these strategies prioritize both financial returns and societal impact."
+title: Impact Investing And Venture Philanthropy Key Differences
+description: Impact Investing delivers financial returns and positive impact while
+  Venture Philanthropy drives charity growth with targeted support Discover more inside
 ---
 
 

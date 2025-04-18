@@ -1,6 +1,7 @@
 ---
-title: "Cyclical Unemployment and Types of Unemployment"
-description: "Explore different types of unemployment including cyclical unemployment and their impact on economies. Understand how economic cycles influence employment and the role of policy interventions. Discover the implications of algorithmic trading on market dynamics and employment in the trading sector."
+title: Understanding Cyclical Unemployment Causes Impact and Solutions
+description: Cyclical unemployment fluctuates with economic cycles showing how recessions
+  and expansions shape job markets and tax revenues Discover more inside.
 ---
 
 

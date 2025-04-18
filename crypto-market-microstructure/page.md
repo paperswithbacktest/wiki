@@ -1,6 +1,7 @@
 ---
-title: "Crypto Market Microstructure"
-description: "Explore the intricacies of crypto market microstructure and algorithmic trading to understand trading dynamics and capture opportunities in volatile markets."
+title: Understanding Crypto Market Microstructure and Its Key Dynamics
+description: Crypto market microstructure reveals how participants set prices execute
+  trades and shape liquidity across decentralized platforms Discover more inside
 ---
 
 

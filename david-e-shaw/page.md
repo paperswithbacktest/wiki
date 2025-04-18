@@ -1,6 +1,7 @@
 ---
-title: "David E. Shaw"
-description: Discover the remarkable journey of David E. Shaw, a visionary American investor and scientist renowned for his groundbreaking contributions to algorithmic trading. Founding D. E. Shaw & Co., his innovative quantitative strategies revolutionized the financial markets, influencing the evolution of modern finance and inspiring widespread adoption of technology-driven trading methodologies. Explore Shaw's legacy as a pioneer who transformed Wall Street with advanced algorithms, setting new standards for trading practices and continually impacting investment strategies today.
+title: David E Shaw Impact On Quantitative Investing And Biochemistry
+description: David E Shaw combines advanced computing in quantitative finance and
+  protein research to transform investing and disease treatment Discover more inside.
 ---
 
 

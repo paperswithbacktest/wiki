@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Cash Dividends and Stock Dividends"
-description: "Compare cash dividends, providing immediate income, and stock dividends, offering equity growth. Explore their impact on portfolio strategy and financial goals."
+title: Understanding Cash and Stock Dividends and Their Impact
+description: Cash and stock dividends affect cash flow share prices taxes and shareholder
+  value while guiding strategic payout decisions Discover more inside
 ---
 
 

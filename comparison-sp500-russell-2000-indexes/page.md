@@ -1,6 +1,7 @@
 ---
-title: "Comparison of S&P 500 and Russell 2000 Indexes"
-description: "Explore the differences between the S&P 500 and Russell 2000 indexes in algorithmic trading and learn how they influence strategy and market performance."
+title: Differences Between the S&P 500 and Russell 2000 Indexes
+description: S&P 500 and Russell 2000 indexes offer contrasting insights on market
+  cap composition performance trends and portfolio diversification Discover more inside
 ---
 
 

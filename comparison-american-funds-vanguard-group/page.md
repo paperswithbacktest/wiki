@@ -1,6 +1,7 @@
 ---
-title: "Comparison of American Funds and Vanguard Group"
-description: "Explore the unique investment styles of American Funds and Vanguard two industry giants in active and passive fund management alongside algorithmic trading trends"
+title: American Funds Versus Vanguard Group Investment Comparison
+description: American Funds versus Vanguard Group comparison shows active vs passive
+  strategies and fees to help investors choose confidently. Discover more inside
 ---
 
 

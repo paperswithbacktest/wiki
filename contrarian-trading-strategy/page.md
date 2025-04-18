@@ -1,6 +1,8 @@
 ---
-title: "Contrarian Trading Strategy Explained"
-description: Explore the contrarian trading strategy in algorithmic trading where going against prevailing market trends can offer profitable opportunities. Understand how emotional market inefficiencies can be leveraged through automated algorithms to exploit mispricings and capitalize on market corrections. Delve into how this strategic integration can transform market sentiment patterns into systematic and efficient trading outcomes.
+title: Contrarian Trading Strategies Explained for Risk and Reward
+description: Contrarian trading strategy lets investors spot market overreactions
+  with tools like the fear and greed index to buy low or sell high. Discover more
+  inside.
 ---
 
 

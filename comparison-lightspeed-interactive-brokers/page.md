@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Lightspeed and Interactive Brokers"
-description: "Compare Lightspeed and Interactive Brokers for 2024 algo trading. Assess usability, pricing, and trade experience to choose the right platform for your needs."
+title: Lightspeed vs Interactive Brokers Trading Platform Comparison
+description: Lightspeed vs Interactive Brokers comparison of account minimums fees
+  features and global trading guides your broker choice Discover more inside.
 ---
 
 

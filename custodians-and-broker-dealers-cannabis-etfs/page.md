@@ -1,6 +1,7 @@
 ---
-title: "Custodians and Broker-Dealers in Cannabis ETFs"
-description: "Explore the vital roles of custodians and broker-dealers in cannabis ETFs and discover how algorithmic trading enhances efficiency in this dynamic market."
+title: Custodian and Broker-Dealer Roles in Cannabis ETF Management
+description: Cannabis ETFs depend on custodian and broker-dealer collaboration to
+  secure assets and ensure regulatory compliance plus liquidity Discover more inside
 ---
 
 

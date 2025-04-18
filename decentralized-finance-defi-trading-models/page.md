@@ -1,6 +1,7 @@
 ---
-title: "Decentralized Finance (DeFi) Trading Models"
-description: "Explore the innovative world of DeFi trading models and algorithmic trading strategies that are reshaping the financial sector with blockchain technology."
+title: Decentralized Finance Trading Models and Sustainable Ecosystems
+description: Decentralized Finance trading models use smart contracts liquidity pools
+  and AMMs to open finance while managing risks Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Covered Combination Strategy"
-description: "Explore the synergy of covered combination strategy and algorithmic trading to boost portfolio returns manage risk and adapt swiftly to market changes."
+title: "Covered Combination Strategy Explained for Risk\u2011Managed Returns"
+description: Covered Combination Strategy helps investors earn option premiums on
+  owned stock while managing risk with covered calls and puts Discover more inside.
 ---
 
 

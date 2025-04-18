@@ -1,6 +1,7 @@
 ---
-title: "Curve Steepener Trade: Examples and Strategies"
-description: "Discover Curve Steepener Trading Strategies in algorithmic trading to profit from interest rate changes by leveraging short-term and long-term Treasury bond yield spreads."
+title: Curve Steepener Trades Explained for Bond Market Investors
+description: Curve steepener trade buys long-term bonds and sells short-term notes
+  to profit from a steeper yield curve. Sharpen your strategy. Discover more inside.
 ---
 
 

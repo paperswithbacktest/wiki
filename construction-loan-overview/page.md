@@ -1,6 +1,7 @@
 ---
-title: "Construction Loan Overview"
-description: "Explore the intricacies of construction loans and the potential impact of algorithmic trading on this field to enhance financial efficiency in project planning."
+title: Construction Loan Guide for Building and Financing Your Home
+description: Construction loan explained with funding stages, qualification steps,
+  risk management, and permanent financing transition Discover more inside.
 ---
 
 

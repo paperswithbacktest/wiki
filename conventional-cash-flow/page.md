@@ -1,6 +1,8 @@
 ---
-title: "Conventional Cash Flow"
-description: "Explore the fusion of cash flow analysis with algorithmic trading to understand financial health and enhance trading strategies for optimized investment outcomes."
+title: Understanding Conventional Cash Flow Patterns and Analysis
+description: Conventional Cash Flow guides businesses through initial outlays and
+  future inflows to improve financial planning and decision making. Discover more
+  inside.
 ---
 
 

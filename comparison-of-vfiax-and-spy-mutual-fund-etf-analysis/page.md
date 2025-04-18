@@ -1,6 +1,7 @@
 ---
-title: "Comparison of VFIAX and SPY: Mutual Fund and ETF Analysis"
-description: "Explore the investment strategies of VFIAX mutual fund and SPY ETF in algorithmic trading Compare their features liquidity cost efficiency and tax implications"
+title: Comparing Vanguard VFIAX and SPY S&P 500 Fund Features
+description: VFIAX vs SPY comparison highlights expense ratios liquidity tax implications
+  and performance to help you choose the right S&P 500 fund Discover more inside
 ---
 
 

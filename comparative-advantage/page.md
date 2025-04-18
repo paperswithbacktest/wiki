@@ -1,6 +1,7 @@
 ---
-title: "Comparative Advantage"
-description: "Discover how comparative advantage influences international trade by allowing countries to specialize and trade goods, maximizing economic efficiencies globally."
+title: Comparative Advantage In International Trade And Economic Growth
+description: Comparative advantage shows how lower opportunity costs drive efficient
+  trade and economic growth by guiding specialization. Discover more inside.
 ---
 
 

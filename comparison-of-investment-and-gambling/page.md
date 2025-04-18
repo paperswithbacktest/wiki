@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Investment and Gambling"
-description: "Explore the differences and intersections between investment gambling and algorithmic trading in today's financial markets to understand financial risk management."
+title: Investment Versus Gambling Key Differences In Risk And Reward
+description: Investment Versus Gambling explores how to manage risk and maximize potential
+  returns for long term growth versus chance based bets Discover more inside.
 ---
 
 

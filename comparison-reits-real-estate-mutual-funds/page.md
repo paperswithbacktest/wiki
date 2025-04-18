@@ -1,6 +1,7 @@
 ---
-title: "Comparison of REITs and Real Estate Mutual Funds"
-description: "Explore the differences between REITs and real estate mutual funds in algo trading Learn about their benefits risks and which suits your investment strategy"
+title: REITs And Real Estate Mutual Funds Investment Comparison
+description: REITs and Real Estate Mutual Funds offer income and diversification across
+  assets with varied tax treatments liquidity and risk Discover more inside.
 ---
 
 

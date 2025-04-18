@@ -1,6 +1,7 @@
 ---
-title: "Cost Per Gross Addition"
-description: "Discover how Cost Per Gross Addition (CPGA) and algorithmic trading can enhance marketing strategies by optimizing customer acquisition costs and driving profitability."
+title: Understanding Cost Per Gross Addition For Efficient Growth
+description: Cost Per Gross Addition reveals the true investment needed for each new
+  customer and guides smarter marketing and budget choices. Discover more inside.
 ---
 
 

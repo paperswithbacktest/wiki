@@ -1,6 +1,7 @@
 ---
-title: "Cyclical Stocks: Advantages and Disadvantages"
-description: "Explore the advantages and risks of investing in cyclical stocks and discover how algorithmic trading can enhance your strategic approach to market cycles."
+title: Understanding Cyclical Stocks and Economic Cycles for Investors
+description: Cyclical stocks follow economic fluctuations and can yield strong gains
+  with strategic timing and portfolio diversification Discover more inside.
 ---
 
 

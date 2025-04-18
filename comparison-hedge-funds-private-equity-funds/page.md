@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Hedge Funds and Private Equity Funds"
-description: "Explore the differences between hedge funds and private equity funds with a focus on strategy, time horizon, and liquidity, enhanced by algorithmic trading."
+title: Key Differences Between Hedge Funds And Private Equity Funds
+description: Hedge Funds and Private Equity Funds differ in strategies fees liquidity
+  and risk management offering unique insights for investors Discover more inside.
 ---
 
 

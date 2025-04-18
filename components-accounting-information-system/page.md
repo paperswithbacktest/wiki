@@ -1,6 +1,7 @@
 ---
-title: "Components of an Accounting Information System"
-description: "Learn how Accounting Information Systems integrate with algorithmic trading to enhance financial strategies Improve efficiency by understanding key AIS components"
+title: Key Components And Functions Of Accounting Information Systems
+description: Accounting Information System captures stores and processes financial
+  data accurately to support smart decision making and compliance Discover more inside.
 ---
 
 

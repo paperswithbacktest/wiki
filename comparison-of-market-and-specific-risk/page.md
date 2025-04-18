@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Market and Specific Risk"
-description: "Explore the contrast between market and specific risks in algorithmic trading Understand their impact on strategies and manage them effectively for better trade outcomes"
+title: Understanding Market Risk and Specific Risk in Investing
+description: Market risk and specific risk shape investments by exposing systematic
+  and company threats Learn to measure and mitigate risks Discover more inside.
 ---
 
 

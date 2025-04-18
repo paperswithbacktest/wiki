@@ -1,6 +1,7 @@
 ---
-title: "Corwin-Schultz algorithm"
-description: Discover the Corwin-Schultz algorithm, a powerful method for estimating transaction costs in algorithmic trading by analyzing daily high and low prices to determine bid-ask spreads. This approach, bypassing the need for high-frequency data, is ideal for traders aiming to optimize strategies and reduce costs. Learn about its foundational concepts, practical applications, and how it enhances market efficiency through accurate spread analysis.
+title: Corwin-Schultz Algorithm for Estimating Bid-Ask Spreads
+description: Corwin-Schultz algorithm uses daily high and low prices to estimate bid-ask
+  spreads without trade data, providing liquidity insights. Discover more.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Constant Maturity Concept in Treasury Securities"
-description: "Explore the interplay between constant maturity in Treasury securities and algorithmic trading. Learn how this key concept enhances financial comparisons and trading strategies."
+title: Constant Maturity Treasury Rate Guide For Investors
+description: Constant Maturity Treasury rate gives investors a clearer view of average
+  yields across maturities to inform investment decisions Discover more inside.
 ---
 
 

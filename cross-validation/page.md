@@ -1,6 +1,7 @@
 ---
-title: "Cross-validation"
-description: "Discover the importance of advanced cross-validation techniques in algorithmic trading and learn how methods like CPCV can improve model reliability and performance."
+title: Essential Cross-Validation Methods for Machine Learning Models
+description: Cross-validation ensures reliable model performance by testing with multiple
+  data splits and tuning hyperparameters effectively Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Convenience Sampling (Machine Learning)"
-description: "Convenience sampling in machine learning is quick and resource-efficient but may lead to biased models due to non-representative data affecting model reliability."
+title: Understanding Convenience Sampling in Machine Learning
+description: Convenience sampling in machine learning speeds up data gathering but
+  risks model bias; learn how to mitigate bias and boost fairness Discover more inside.
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Confederation of British Industry"
-description: "Explore how the Confederation of British Industry navigates algorithmic trading's impact, enhancing market efficiency while addressing fairness and volatility concerns."
+title: Understanding the Role of the Confederation of British Industry
+description: Confederation of British Industry empowers UK businesses with research
+  insights policy guidance and networking events to drive growth Discover more inside.
 ---
 
 

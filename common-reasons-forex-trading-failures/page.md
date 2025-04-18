@@ -1,6 +1,7 @@
 ---
-title: "Common Reasons for Forex Trading Failures"
-description: "Explore why forex trading failures occur with algorithmic trading Common mistakes include lack of research over-optimization and poor risk management strategies"
+title: Common Forex Trading Mistakes Beginners Must Avoid
+description: Forex trading mistakes derail beginners without a clear plan proper risk
+  control and strategy manage leverage and protect capital Discover more inside
 ---
 
 

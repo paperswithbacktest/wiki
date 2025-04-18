@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Expected Return and Standard Deviation"
-description: "Analyze the interplay between expected return and risk in algorithmic trading Understand key concepts and enhance strategies for optimal investment outcomes"
+title: Expected Return and Standard Deviation in Investment Analysis
+description: Expected return and standard deviation guide investors to measure potential
+  gains and volatility for balanced portfolio decisions Discover more inside
 ---
 
 

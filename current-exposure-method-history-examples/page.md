@@ -1,6 +1,8 @@
 ---
-title: "Current Exposure Method: History and Examples"
-description: "Understand history and examples of risk exposure in algorithmic trading including analysis methods to mitigate financial risks and enhance trade execution."
+title: Understanding the Current Exposure Method for Counterparty Risk
+description: Current Exposure Method provides banks with a straightforward way to
+  assess their counterparty credit risk and meet Basel requirements Discover more
+  inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Contractionary Policy: Overview and Examples"
-description: "Explore the intersection of contractionary policies and algo trading to understand how economic strategies impact financial markets and trading systems."
+title: Contractionary Policy Goals Tools and Effects Explained
+description: Contractionary policy shows how raising interest rates and cutting spending
+  can curb inflation and support economic stability Discover more inside
 ---
 
 

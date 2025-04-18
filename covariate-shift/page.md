@@ -1,6 +1,7 @@
 ---
-title: "Covariate shift"
-description: "Covariate shift in algorithmic trading affects input variable distribution, influencing model predictions and financial outcomes. Learn its impact and mitigation."
+title: Handling Covariate Shift in Machine Learning for Reliable Models
+description: Covariate shift undermines model accuracy when input data distributions
+  change. Learn how to detect and adapt models effectively. Discover more inside.
 ---
 
 

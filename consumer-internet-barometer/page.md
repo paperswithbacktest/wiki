@@ -1,6 +1,7 @@
 ---
-title: "Consumer Internet Barometer"
-description: "Explore the impact of internet trends on consumer behavior and the role of algorithmic trading in markets to gain valuable insights and strategic advantages."
+title: Consumer Internet Barometer Insight for Smarter Business Strategy
+description: Consumer Internet Barometer reveals online trends with real data to guide
+  businesses in optimizing marketing and product strategies Discover more inside.
 ---
 
 

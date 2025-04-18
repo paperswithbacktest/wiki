@@ -1,6 +1,7 @@
 ---
-title: "Current Account Deficit: Structural and Cyclical Causes"
-description: "Explore the cyclical and structural causes of a current account deficit and the role of algorithmic trading in influencing global trade balances."
+title: Understanding Current Account Deficits Causes and Implications
+description: Current account deficit analysis highlights structural and cyclical causes
+  its economic impact and effective policy responses Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Criteria for Classifying Junior Gold Miners"
-description: "Junior gold miners focus on exploration and discovery of new gold deposits with limited resources and ambition making them vital to the mining industry."
+title: Key Criteria for Classifying Junior Gold Miner Companies
+description: Junior gold miner classification reveals essential size stage and resource
+  metrics to assess investment risks and rewards Discover more inside
 ---
 
 

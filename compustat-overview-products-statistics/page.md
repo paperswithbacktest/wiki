@@ -1,6 +1,7 @@
 ---
-title: "Compustat: Overview, Products, and Statistics"
-description: "Discover how Compustat empowers algorithmic trading with comprehensive financial data essential for developing and refining trading strategies in global markets."
+title: Compustat Financial Database and Analytics Platform Overview
+description: Compustat provides comprehensive financial data for North American and
+  global markets with reliable updates and analytics Discover more inside.
 ---
 
 

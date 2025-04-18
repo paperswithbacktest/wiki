@@ -1,6 +1,7 @@
 ---
-title: "Corporate Bonds Trading"
-description: "Explore the impact of algorithmic trading on corporate bonds trading highlighting benefits like increased speed and efficiency and addressing associated challenges."
+title: Comprehensive Corporate Bond Trading Guide And Strategies
+description: Corporate bond trading explained with clear insights on types risks pricing
+  and market strategies to optimize returns Discover more inside today
 ---
 
 

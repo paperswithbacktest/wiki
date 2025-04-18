@@ -1,6 +1,7 @@
 ---
-title: "Corporate Share Buybacks"
-description: "Explore the role of corporate share buybacks in financial strategy and their impact on stock value through algorithmic trading for optimal execution."
+title: Understanding Corporate Share Buybacks And Their Impact
+description: Share buybacks can boost earnings per share and reflect management confidence
+  while preserving capital for growth and debt obligations Discover more inside
 ---
 
 

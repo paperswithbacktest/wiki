@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Accrual and Cash Basis Accounting"
-description: "Explore the differences between cash and accrual accounting methods for algo trading. Learn which accounting strategy best suits your financial planning needs."
+title: "Accrual\_Versus\_Cash\_Basis\_Accounting\_Explained for Businesses"
+description: Accrual basis accounting records revenue and expenses when they occur
+  to offer accurate financial insights while cash basis tracks actual cash flows Discover
+  more inside
 ---
 
 

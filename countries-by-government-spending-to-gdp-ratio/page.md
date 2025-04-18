@@ -1,6 +1,7 @@
 ---
-title: "Countries by Government Spending-to-GDP Ratio"
-description: "Explore the intricate connection between government spending and GDP on this page which investigates into the government spending to GDP ratio. This metric provides vital insights into a nation's fiscal health and economic policy direction assessing the impact of governmental activities on economic output. Understand how this ratio influences economic performance and fiscal stability and discover its significance in modern financial markets including algorithmic trading strategies. Dive into global perspectives to see how countries allocate resources and the implications for economic growth social welfare and fiscal management."
+title: Government Spending To GDP Ratio Explained For Economic Insight
+description: Government spending to GDP ratio reveals how much of the national economy
+  relies on public expenditure and guides fiscal decisions Discover more inside
 ---
 
 

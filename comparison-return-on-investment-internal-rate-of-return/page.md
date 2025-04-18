@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Return on Investment and Internal Rate of Return"
-description: "Explore the significance of internal rate of return in algorithmic trading and investment analysis Learn how IRR enhances decision making by simplifying profitability assessments"
+title: 'ROI Vs IRR: Understanding Investment Performance Metrics'
+description: ROI vs IRR comparison shows how to calculate and compare investment returns
+  and growth rates for smarter financial choices. Discover more inside.
 ---
 
 

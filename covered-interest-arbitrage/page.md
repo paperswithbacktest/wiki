@@ -1,6 +1,7 @@
 ---
-title: "Covered interest arbitrage"
-description: Explore the mechanics of covered interest arbitrage, a strategy that exploits interest rate differentials between countries using forward contracts to mitigate exchange rate risk. This article investigates into the strategy's principles, execution in algorithmic trading, and the impact of technological advancements that enhance efficiency and reduce arbitrage opportunities in modern financial markets.
+title: Understanding Covered Interest Arbitrage Mechanics and Profits
+description: Covered interest arbitrage locks in rates with forward contracts to profit
+  from interest rate gaps and mitigate exchange risk Discover more inside
 ---
 
 

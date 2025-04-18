@@ -1,6 +1,7 @@
 ---
-title: "Comparing Investment Returns Using Market Indexes"
-description: "Unlock insights into market indexes and algorithmic trading Explore how benchmarks like the S&P 500 shape investment returns and refine trading strategies"
+title: Market Indexes for Benchmarking Investment Returns
+description: Market index comparisons help investors gauge portfolio performance against
+  benchmarks while revealing risk and volatility insights. Discover more inside.
 ---
 
 

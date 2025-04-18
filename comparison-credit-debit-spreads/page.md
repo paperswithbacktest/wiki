@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Credit and Debit Spreads"
-description: "Explore the key differences and strategies between credit and debit spreads in options trading Discover insights on how algo trading optimizes these techniques"
+title: Understanding Credit and Debit Spreads in Options Trading
+description: Credit spread and debit spread strategies reveal how upfront costs risk
+  profiles and profit scenarios differ in options trading Discover more inside.
 ---
 
 

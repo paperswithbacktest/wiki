@@ -1,6 +1,7 @@
 ---
-title: "Current Yield: Formula and Calculation"
-description: "Explore bond yields, investment returns, and algorithmic trading to enhance portfolio management. Learn calculations and strategies for optimal financial gains."
+title: Understanding Current Yield How It Measures Bond Returns
+description: Current yield shows annual bond returns compared to market price and
+  guides investment choices with concise metrics and comparisons Discover more inside.
 ---
 
 

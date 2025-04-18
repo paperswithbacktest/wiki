@@ -1,6 +1,7 @@
 ---
-title: "Consequences of Stockbroker Bankruptcy"
-description: "Learn how a stockbroker's bankruptcy can impact algorithmic trading and discover strategies to mitigate financial risks in today's fast-paced trading environment."
+title: Understanding Stockbroker Bankruptcy and Investor Protections
+description: Stockbroker bankruptcy can threaten client assets but SIPC protections
+  ensure recovery of stocks and cash up to legal limits Discover more inside
 ---
 
 

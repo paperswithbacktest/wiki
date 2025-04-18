@@ -1,6 +1,8 @@
 ---
-title: "Decoding Company Earnings Reports"
-description: "Discover how to enhance trading performance by decoding company earnings reports using algorithmic strategies during peak volatility in earnings season."
+title: Complete Guide to Understanding Earnings Reports for Investors
+description: "Earnings reports reveal a company\u2019s quarterly performance outline\
+  \ key metrics GAAP comparisons stock impact and valuation insights Discover more\
+  \ inside"
 ---
 
 

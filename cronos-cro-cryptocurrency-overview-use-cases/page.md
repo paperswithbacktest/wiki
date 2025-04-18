@@ -1,6 +1,7 @@
 ---
-title: "Cronos (CRO): Cryptocurrency Overview and Use Cases"
-description: "Explore Cronos CRO cryptocurrency and its use cases in algorithmic trading learn about its role in DeFi NFTs the metaverse and market dynamics"
+title: Cronos CRO Comprehensive Guide to Crypto.com Chain
+description: Cronos CRO powers fast secure transactions and reduces trading fees on
+  Crypto.com while ensuring scalability and security. Discover more inside.
 ---
 
 

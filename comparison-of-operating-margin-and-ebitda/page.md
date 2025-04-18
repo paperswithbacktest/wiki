@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Operating Margin and EBITDA"
-description: "Explore the significance of operating margin and EBITDA in algorithmic trading to gain insights into a company's financial health and operational efficiency."
+title: Operating Margin and EBITDA Explained for Financial Analysis
+description: Operating Margin and EBITDA help investors assess core profitability
+  and operational efficiency in financial analysis Discover more insights inside.
 ---
 
 

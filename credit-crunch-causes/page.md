@@ -1,6 +1,7 @@
 ---
-title: "Credit Crunch Causes"
-description: "Explore the causes of credit crunches and their impact on global markets Learn how banking systems financial crises and algorithmic trading interconnect"
+title: Understanding Credit Crunch Causes Effects and Economic Impact
+description: Credit crunch tightens lending for consumers and businesses by revealing
+  causes effects and risks with strategies to safeguard growth Discover more inside
 ---
 
 

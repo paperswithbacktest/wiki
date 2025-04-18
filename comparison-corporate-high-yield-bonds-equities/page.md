@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Corporate High-Yield Bonds and Equities"
-description: "Explore the differences between high-yield bonds and equities in the context of algorithmic trading. High-yield bonds offer attractive returns with higher risk, while equities represent ownership and potential growth. Algorithmic trading, a modern investment strategy, enhances efficiency and speed in trading. Understanding these components and their roles in today's financial markets is essential for making informed investment decisions."
+title: Risk And Return Of High-Yield Bonds Versus Equities
+description: High-yield bonds offer steady interest yet carry default risk, while
+  equities deliver growth potential with volatility. Discover more inside.
 ---
 
 

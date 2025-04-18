@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Gearing Ratio and Debt-to-Equity Ratio"
-description: "Dive into the differences between gearing and debt-to-equity ratios, essential for evaluating a company's financial leverage and risk in algorithmic trading."
+title: Understanding Gearing Ratio and Debt to Equity Metrics
+description: Gearing ratio and debt to equity metrics assess how much debt a company
+  uses versus equity to gauge financial stability and risk Discover more inside
 ---
 
 

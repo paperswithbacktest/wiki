@@ -1,6 +1,7 @@
 ---
-title: "Crypto Lending: Overview and Types"
-description: "Discover the transformative potential of crypto lending and algorithmic trading. Learn how blockchain reshapes financial landscapes with innovative lending options."
+title: Understanding Crypto Lending Platforms Benefits and Risks
+description: Crypto Lending platforms help you earn interest on idle assets while
+  mitigating risks with collateral and smart contracts. Discover more inside.
 ---
 
 

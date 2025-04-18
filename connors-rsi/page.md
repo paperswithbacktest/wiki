@@ -1,6 +1,7 @@
 ---
-title: "Connors RSI Explained"
-description: "Connors RSI Explained provides an in-depth look at a powerful technical indicator tailored for short-term trading scenarios within algorithmic trading. This article investigates into the unique enhancements Connors RSI offers over traditional RSI by integrating three key components: a short-period RSI, Up/Down Streak length, and Rate of Change function. These improvements yield a more dynamic analysis of market momentum and reversals essential for optimizing trading strategies in volatile markets. By exploring its calculation, application, and backtesting, readers will gain valuable insights into leveraging Connors RSI to enhance their trading decision-making processes."
+title: Understanding Connors RSI Indicator for Trading Decisions
+description: Connors RSI offers trading signals by blending RSI data, price streaks
+  and trend metrics to spot overbought and oversold conditions Discover more inside
 ---
 
 

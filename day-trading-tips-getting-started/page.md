@@ -1,6 +1,7 @@
 ---
-title: "Day Trading Tips and Getting Started"
-description: "Explore the dynamic world of day trading and algorithmic trading with essential tips and a detailed guide designed for beginners. This comprehensive resource covers foundational concepts, strategies, risk management, and the impact of market psychology, equipping you with the knowledge to make informed decisions. Whether starting with day trading or venturing into algorithmic systems, this guide is crafted to help you successfully navigate the complexities of the financial markets."
+title: Complete Day Trading Guide From Basics To Advanced Strategies
+description: Day trading demands clear strategies, risk management, and technical
+  analysis to help you trade confidently and improve results. Discover more inside.
 ---
 
 

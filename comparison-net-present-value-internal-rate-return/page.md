@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Net Present Value and Internal Rate of Return"
-description: "Compare NPV and IRR to evaluate investment opportunities and algorithmic trading strategies effectively. Learn their benefits and limitations in finance."
+title: Comparison Of Net Present Value And Internal Rate Of Return
+description: Net Present Value and Internal Rate Of Return provide a clear framework
+  to assess investment profitability and cash flow timing Discover more inside.
 ---
 
 

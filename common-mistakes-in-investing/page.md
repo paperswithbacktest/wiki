@@ -1,6 +1,7 @@
 ---
-title: "Common Mistakes in Investing"
-description: "Discover key tips to avoid common investment mistakes in algo trading. Enhance decision-making by understanding risks, minimizing errors, and optimizing strategies."
+title: Common Investment Mistakes Beginners Should Avoid For Success
+description: Investment Mistakes skipping research ignoring diversification and underestimating
+  fees can derail beginners Protect your portfolio Discover more inside
 ---
 
 

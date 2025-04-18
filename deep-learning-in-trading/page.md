@@ -1,6 +1,7 @@
 ---
-title: "Deep Learning in Trading"
-description: "Explore the transformative impact of deep learning on algorithmic trading Discover how AI enhances market analysis and boosts trading strategies for financial success"
+title: Deep Learning Models and Techniques for Financial Trading
+description: Deep learning in trading analyzes price history news and social sentiment
+  to forecast market trends and guide decisions. Discover more inside.
 ---
 
 

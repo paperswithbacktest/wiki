@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Robo-Advisors and Self-Directed Investing"
-description: "Explore the benefits and challenges of robo-advisors self-directed investing and algorithmic trading Understand which approach best suits your financial goals"
+title: Robo-Advisor Vs Self-Directed Investing Key Differences Explained
+description: Robo-advisor vs self-directed investing highlights cost, control, and
+  risk strategies so you can choose your ideal path. Discover more inside.
 ---
 
 

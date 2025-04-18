@@ -1,6 +1,7 @@
 ---
-title: "Credit Spread Options: Mechanism and Types"
-description: "Explore the mechanics and types of credit spread options in algorithmic trading Discover strategies to manage risk and maximize income in modern financial markets"
+title: 'Understanding Credit Spread Options: Strategies and Risks'
+description: Credit spread options let traders earn premium and limit losses with
+  bull and bear spreads while applying proven risk controls Discover more inside
 ---
 
 

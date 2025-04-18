@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Dollar-Cost Averaging and Value Averaging"
-description: "Explore dollar-cost averaging and value averaging as systematic investment strategies in algorithmic trading Discover their benefits for optimizing investment goals"
+title: Comparing Dollar Cost Averaging and Value Averaging Strategies
+description: Dollar Cost Averaging and Value Averaging offer systematic methods to
+  smooth market volatility and optimize long term returns Discover more inside
 ---
 
 

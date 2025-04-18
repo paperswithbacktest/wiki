@@ -1,6 +1,7 @@
 ---
-title: "Currency War: Mechanisms and Impact with Case Study"
-description: "Explore the complexities of currency wars influencing global finance, trade, and algorithmic trading, and understand their economic impacts and strategic responses."
+title: Understanding Currency Wars And Their Global Economic Impact
+description: Currency war dynamics reveal how nations devalue their money to boost
+  exports and the risks this poses for global markets Discover more inside.
 ---
 
 

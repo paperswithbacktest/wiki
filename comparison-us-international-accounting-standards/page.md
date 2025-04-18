@@ -1,6 +1,7 @@
 ---
-title: "Comparison of US and International Accounting Standards"
-description: "Explore the convergence of US GAAP and IFRS with algorithmic trading shaping financial markets, enhancing transparency and efficiency in global finance."
+title: Key Differences Between US GAAP and IFRS Accounting Standards
+description: US GAAP and IFRS differ in revenue recognition, inventory and lease accounting.
+  Explore distinctions for accurate reports. Discover more inside
 ---
 
 

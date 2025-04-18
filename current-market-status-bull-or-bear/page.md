@@ -1,6 +1,7 @@
 ---
-title: "Current Market Status: Bull or Bear"
-description: "Explore the dynamics of bull and bear markets essential for traders using algo trading to leverage trends maximize returns and mitigate financial risks."
+title: Bull and Bear Markets Explained with Key Economic Indicators
+description: Bull and Bear Markets guide you through key economic and technical indicators
+  to spot market trends and help you invest confidently. Discover more inside.
 ---
 
 

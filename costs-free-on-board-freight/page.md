@@ -1,6 +1,7 @@
 ---
-title: "Costs of Free on Board Freight"
-description: "Explore the interplay between Free on Board costs, international trade, and algorithmic trading to optimize freight expenses and enhance global trade efficiency."
+title: Understanding Free on Board Shipping Costs and Responsibilities
+description: Free on Board shipping outlines cost sharing risk transfer and logistics
+  responsibilities so you can budget accurately Discover more inside
 ---
 
 

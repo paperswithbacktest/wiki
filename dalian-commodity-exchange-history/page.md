@@ -1,6 +1,7 @@
 ---
-title: "Dalian Commodity Exchange: Overview and History"
-description: "Discover the Dalian Commodity Exchange's role in China's market evolution and the impact of algorithmic trading on efficiency and precision in commodities trading."
+title: Dalian Commodity Exchange Framework For Global Commodity Trading
+description: Dalian Commodity Exchange lets you trade soybeans corn and plastic futures
+  with tools for price risk management and transparency Discover more inside
 ---
 
 

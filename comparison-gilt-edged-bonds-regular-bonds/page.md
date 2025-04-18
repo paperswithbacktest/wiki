@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Gilt-Edged Bonds and Regular Bonds"
-description: "Explore the differences between gilt-edged bonds and regular bonds in algorithmic trading highlighting their risk profiles features and strategic implications."
+title: Understanding Gilt-Edged Bonds and Regular Bond Investments
+description: Gilt-Edged Bonds deliver low-risk government-backed returns while regular
+  bonds offer higher yields at greater credit risk. Discover more inside.
 ---
 
 

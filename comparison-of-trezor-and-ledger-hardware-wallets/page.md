@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Trezor and Ledger Hardware Wallets"
-description: "Compare Trezor and Ledger hardware wallets for secure cryptocurrency storage Explore their unique security features and benefits for algorithmic trading."
+title: Trezor Vs Ledger Cryptocurrency Hardware Wallet Comparison
+description: Trezor vs Ledger comparison shows security features setup ease and coin
+  support to help you choose the right hardware wallet Discover more inside
 ---
 
 

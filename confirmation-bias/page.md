@@ -1,6 +1,7 @@
 ---
-title: "Confirmation Bias (Machine Learning)"
-description: "Understanding and mitigating confirmation bias in machine learning is crucial for developing models that generalize well to new data and avoid skewed predictions."
+title: Understanding Confirmation Bias in Machine Learning Models
+description: Confirmation bias in machine learning skews models by reinforcing assumptions
+  and causing overfitting. Discover detection and mitigation tactics inside.
 ---
 
 ![Image](images/1.jpeg)

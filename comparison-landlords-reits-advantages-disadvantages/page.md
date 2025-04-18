@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Landlords and REITs: Advantages and Disadvantages"
-description: "Discover the pros and cons of direct real estate investment, REITs, and algorithmic trading. Navigate real estate opportunities to optimize your portfolio."
+title: 'Landlord Investing vs REITs: Comparing Costs and Returns'
+description: Landlord vs REIT investing compares costs management demands and tax
+  implications so you can choose the right real estate strategy Discover more inside.
 ---
 
 

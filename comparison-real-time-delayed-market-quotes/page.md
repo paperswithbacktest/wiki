@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Real-Time and Delayed Market Quotes"
-description: "Explore the critical differences between real-time and delayed market quotes for algorithmic trading on this page. Real-time quotes provide immediate stock and market data, essential for day and high-frequency traders who rely on current information for swift decision-making. In contrast, delayed quotes are typically 15-20 minutes behind and are cost-effective for long-term investors focusing on broader trends rather than minute-to-minute changes. Understand the importance of precise data timing in algorithmic trading and learn how both real-time and delayed information can impact trading strategies and outcomes."
+title: Understanding Real Time Versus Delayed Market Quotes
+description: Real time market quotes update every second for swift trading while delayed
+  quotes offer free market data for investors Discover more inside
 ---
 
 

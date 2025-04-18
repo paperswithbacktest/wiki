@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Consumer Surplus and Economic Surplus"
-description: "Explore how consumer surplus and economic surplus concepts enhance algorithmic trading strategies by analyzing market dynamics to optimize profitability and efficiency."
+title: Understanding Consumer Surplus and Economic Surplus in Markets
+description: Consumer surplus shows the extra value buyers gain when prices drop and
+  how it joins producer surplus to gauge total economic welfare Discover more inside
 ---
 
 

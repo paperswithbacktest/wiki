@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Gross Profit, Operating Profit, and Net Income"
-description: "Explore the significance of gross profit, operating profit, and net income in algorithmic trading to enhance financial strategies and maximize potential returns."
+title: Understanding Gross Profit, Operating Profit, and Net Income
+description: Profit metrics clarify how gross profit operating profit and net income
+  reveal businesses real performance Discover more inside
 ---
 
 

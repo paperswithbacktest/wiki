@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Hong Kong and Mainland China"
-description: "Explore the key differences in algorithmic trading between Hong Kong and Mainland China Discover diverse regulatory policies market structures and trading strategies"
+title: Comparing Hong Kong and Mainland China Across Key Sectors
+description: Hong Kong and Mainland China comparison explores key differences in geography
+  politics culture healthcare economy and more Discover more inside
 ---
 
 

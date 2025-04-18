@@ -1,6 +1,7 @@
 ---
-title: "Corporate Actions and Their Implications"
-description: "Explore the impact of corporate actions and algorithmic trading on financial markets. Learn how decisions like dividends and mergers affect investor strategies."
+title: Understanding Corporate Actions and Their Impact on Investors
+description: Corporate Actions detail dividends stock splits mergers tax effects tracking
+  tools optimize portfolios guide investor strategies Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "deep learning for trading strategies"
-description: "Explore how deep learning revolutionizes trading strategies by leveraging neural networks to enhance algorithmic trading, offering advanced data analysis."
+title: Deep Learning for Trading Strategies in Financial Markets
+description: Deep learning for trading empowers you to spot hidden market trends using
+  price, news and economic data to refine strategies. Discover more inside.
 ---
 
 

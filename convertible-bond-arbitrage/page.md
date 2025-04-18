@@ -1,6 +1,7 @@
 ---
-title: "Convertible Bond Arbitrage"
-description: "Explore the sophisticated world of convertible bond arbitrage a market-neutral strategy blending debt and equity to exploit pricing inefficiencies for consistent returns."
+title: Understanding Convertible Bond Arbitrage Strategies and Risks
+description: Convertible bond arbitrage exploits gaps between bonds and equity with
+  delta hedging and rebalancing to secure steady returns Discover more inside
 ---
 
 

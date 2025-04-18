@@ -1,6 +1,7 @@
 ---
-title: "Convertible Subordinated Notes"
-description: "Explore the complex world of convertible subordinated notes and algorithmic trading Learn how these instruments can optimize returns and manage portfolio risk"
+title: Understanding Convertible Subordinated Notes Benefits and Risks
+description: Convertible Subordinated Notes give investors steady interest plus equity
+  upside potential while balancing risk intelligently Discover more inside
 ---
 
 

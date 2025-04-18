@@ -1,6 +1,7 @@
 ---
-title: "Core Earnings: Definition and Examples"
-description: "Explore the significance of core earnings and algorithmic trading in financial analysis, offering investors a clear perspective on profitability and market dynamics."
+title: Understanding Core Earnings for Accurate Investment Decisions
+description: Core earnings show true profitability by excluding one-time gains and
+  losses for clear insight into a companys operational health. Discover more inside.
 ---
 
 

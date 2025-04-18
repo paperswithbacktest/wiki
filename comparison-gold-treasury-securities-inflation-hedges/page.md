@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Gold and Treasury Securities as Inflation Hedges"
-description: "Explore how gold and treasury securities, combined with algorithmic trading, serve as effective inflation hedges amidst economic fluctuations."
+title: Inflation Hedging With Gold and Treasury Securities
+description: Inflation hedging with gold and Treasury securities protects purchasing
+  power through diversified assets and interest income Discover more inside
 ---
 
 

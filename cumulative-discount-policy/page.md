@@ -1,6 +1,7 @@
 ---
-title: "Cumulative Discount Policy"
-description: "Explore various pricing models and discount strategies including cost-plus and value-based pricing in the context of algorithmic trading for business success."
+title: Implementing a Cumulative Discount Policy for Customer Loyalty
+description: Cumulative discount policy encourages repeat purchases by rewarding customer
+  loyalty with increasing savings over time Discover how to implement it inside
 ---
 
 

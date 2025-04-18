@@ -1,6 +1,8 @@
 ---
-title: "Cost of Tendering"
-description: "Explore the impact of tendering costs on procurement efficiency including bid preparation, compliance expenses, and how algorithmic trading can streamline processes."
+title: Minimizing Tendering Costs Strategies for Competitive Bidding
+description: Tendering costs impact budgets through direct expenses and indirect risks
+  Understand how to streamline bids with focused strategies and technology Discover
+  more inside
 ---
 
 

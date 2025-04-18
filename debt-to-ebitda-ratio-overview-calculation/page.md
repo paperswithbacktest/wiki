@@ -1,6 +1,7 @@
 ---
-title: "Debt-to-EBITDA Ratio Overview and Calculation"
-description: "Discover the impact of the Debt-to-EBITDA ratio in algorithmic trading and financial health analysis. Learn its calculation and significance for investors."
+title: Understanding the Debt-to-EBITDA Ratio for Financial Health
+description: Debt-to-EBITDA ratio shows how well companies manage debt compared to
+  earnings to guide borrowing decisions and balance risk Discover more inside.
 ---
 
 

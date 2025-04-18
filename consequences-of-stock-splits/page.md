@@ -1,6 +1,7 @@
 ---
-title: "Consequences of Stock Splits"
-description: "Explore the intricate effects of stock splits on shareholder value and algorithmic trading to understand market dynamics and optimize investment strategies."
+title: Guide to the Impact of a Stock Split on Share Price and Value
+description: Stock split insights explain how dividing shares affects price affordability
+  liquidity and investor confidence in active markets Discover more inside.
 ---
 
 

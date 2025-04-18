@@ -1,6 +1,7 @@
 ---
-title: "Comparison of REITs and ETFs for Retirees"
-description: "Explore the benefits and challenges of REITs, ETFs, and algorithmic trading for retirees, helping you make informed investment decisions for financial stability."
+title: Comparing REITs Vs ETFs For Retirement Income Strategies
+description: REITs vs ETFs reveal income growth liquidity tax impacts for retirees
+  Optimize fees and returns to balance your retirement portfolio Discover more inside
 ---
 
 

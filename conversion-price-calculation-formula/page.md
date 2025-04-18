@@ -1,6 +1,7 @@
 ---
-title: "Conversion Price and Calculation Formula"
-description: "Explore the essential role of conversion price in modern finance, crucial for investors and companies in algorithmic trading. Understand how this dynamic metric connects convertible securities to common stock, affecting capital structure, investment attractiveness, and trading strategies. Gain insights into the conversion price formula and its impact on financial modeling, with factors like market conditions and investor sentiment shaping its significance in the financial landscape."
+title: Understanding Conversion Price in Convertible Securities
+description: Conversion price guides investors in assessing convertible securities
+  by revealing conversion ratios and value adjustments. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Core Liquidity Provider"
-description: "Explore the essential role of core liquidity providers in financial markets and discover how algorithmic trading enhances their efficiency, ensuring seamless transactions."
+title: Understanding Core Liquidity Providers in Financial Markets
+description: Core Liquidity Providers streamline trading with smart contract pools
+  to boost liquidity and stabilize prices in volatile markets Discover more inside
 ---
 
 

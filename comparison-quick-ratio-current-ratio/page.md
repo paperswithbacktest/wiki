@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Quick Ratio and Current Ratio"
-description: "Explore the quick and current ratios in algo trading to assess a company's liquidity and make informed investment decisions based on financial health insights."
+title: Understanding Quick Ratio and Current Ratio Liquidity Metrics
+description: Quick Ratio and Current Ratio compare liquidity by measuring liquid assets
+  versus current liabilities. Explore calculation methods. Discover more inside
 ---
 
 

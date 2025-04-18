@@ -1,6 +1,7 @@
 ---
-title: "Cumulative Translation Adjustment"
-description: "Explore the importance of cumulative translation adjustment and algorithmic trading in Forex to understand their impact on global financial market operations."
+title: Cumulative Translation Adjustment in Financial Reporting
+description: Cumulative Translation Adjustment ensures accurate equity reporting by
+  capturing currency swings in foreign subsidiaries Discover more inside.
 ---
 
 

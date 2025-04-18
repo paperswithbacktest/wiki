@@ -1,6 +1,7 @@
 ---
-title: "Cost of Equity: Calculation and Examples"
-description: "Explore the cost of equity as a key financial metric essential for companies and investors to assess investment decisions using models like CAPM and DDM."
+title: Understanding the Cost of Equity and Calculation Methods
+description: Cost of equity determines the return investors require and guides businesses
+  in choosing projects and funding strategies Discover more inside.
 ---
 
 

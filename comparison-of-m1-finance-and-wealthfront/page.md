@@ -1,6 +1,7 @@
 ---
-title: "Comparison of M1 Finance and Wealthfront"
-description: "Explore the unique features and benefits of M1 Finance and Wealthfront in digital investing. M1 Finance offers fee-free, customizable portfolios with a focus on self-directed investment using Pies composed of stocks and ETFs. Wealthfront acts as a comprehensive robo-advisor with goal-based investing and advanced tax optimization. Compare these platforms to determine which aligns with your investment goals, informed by their distinct methodologies and the growing trend of algorithmic trading. Discover how each service uses technology to enhance the investment experience and support investor preferences."
+title: Comparing M1 Finance Vs Wealthfront Investment Platforms
+description: M1 Finance and Wealthfront comparison highlights fee structures account
+  options automation and tax strategies guiding investments Discover more inside
 ---
 
 

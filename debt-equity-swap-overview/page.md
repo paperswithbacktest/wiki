@@ -1,6 +1,7 @@
 ---
-title: "Debt-Equity Swap Overview"
-description: "Debt-equity swaps help companies restructure finances by converting debt into equity improving liquidity and strategic growth in complex market conditions."
+title: Understanding Debt Equity Swaps for Corporate Restructuring
+description: Debt equity swap converts debt into shares to reduce liabilities and
+  boost financial stability for companies and lenders alike. Discover more inside.
 ---
 
 

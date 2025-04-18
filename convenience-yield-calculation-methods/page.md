@@ -1,6 +1,7 @@
 ---
-title: "Convenience Yield and Calculation Methods"
-description: "Explore the strategic value of convenience yield in commodity markets and how algorithmic trading enhances yield calculation for smarter investment decisions."
+title: Understanding Convenience Yield in Commodity Market Management
+description: Convenience yield shows the value of holding commodities by balancing
+  access benefits against storage costs to optimize inventory Discover more inside
 ---
 
 

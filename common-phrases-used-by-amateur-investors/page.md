@@ -1,6 +1,7 @@
 ---
-title: "Common Phrases Used by Amateur Investors"
-description: "Discover common phrases crucial for amateur investors exploring algorithmic trading Learn key terms to navigate financial markets and improve investment decisions"
+title: Essential Investment Terms Every New Investor Should Know
+description: Investment terms explained to help investors master essential core concepts
+  like stocks bonds diversification and portfolio risk. Discover more inside.
 ---
 
 

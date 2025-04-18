@@ -1,6 +1,7 @@
 ---
-title: "Country Picking"
-description: Discover the art of Country Picking in Algo Trading. Learn about different types of countries, their risk factors, and effective country selection strategies. Explore how anomalies can be exploited to generate alpha returns using algorithmic tools. Delve into essential resources for quantitative trading and become a successful international investor.
+title: Essential Country Picking Techniques for Guitar Players
+description: Country picking merges flatpicking and fingerpicking to let guitarists
+  play bass and melody simultaneously with alternating rhythms Discover more inside
 ---
 
 

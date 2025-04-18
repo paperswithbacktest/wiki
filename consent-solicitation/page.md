@@ -1,6 +1,7 @@
 ---
-title: "Consent Solicitation"
-description: "Explore how consent solicitation, debt restructuring, and algorithmic trading interconnect to enhance financial stability, offering flexibility in navigating complex markets."
+title: Understanding Consent Solicitation in Corporate Governance
+description: Consent Solicitation helps companies secure shareholder approval with
+  transparent proposals and streamlined voting processes Discover more inside
 ---
 
 

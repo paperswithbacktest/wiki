@@ -1,6 +1,7 @@
 ---
-title: "Consumer Price Index"
-description: "Explore the dynamic relationship between economic indicators and algorithmic trading. Understand how inflation, price indexes like the Consumer Price Index, and other economic signals inform trading strategies. This article investigates into the technological advancements that allow traders to capitalize on market opportunities and adjust strategies based on data-driven insights for effective and efficient trading."
+title: Understanding the Consumer Price Index and Its Role in Inflation
+description: CPI tracks household costs and shapes wage, interest rate and policy
+  decisions to expose inflation trends and market effects Discover more inside
 ---
 
 

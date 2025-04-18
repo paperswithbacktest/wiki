@@ -1,6 +1,7 @@
 ---
-title: "Dark Pool Liquidity: Overview and Criticism"
-description: "Explore the dynamics of liquidity dark pools and algorithmic trading in financial markets Understand their roles in increasing efficiency and market concern"
+title: Understanding Dark Pool Liquidity and Market Transparency
+description: Dark pool liquidity empowers institutions to trade large volumes without
+  moving market prices while boosting confidentiality Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Conglomerate Boom: Definition and Examples"
-description: "Explore the dynamism of the mid-20th century conglomerate boom and its influence on modern corporate strategies including the role of algorithmic trading."
+title: Understanding the Conglomerate Boom of the 1960s and 1970s
+description: Conglomerate boom in the 1960s and 1970s fueled rapid growth through
+  acquisitions but exposed management limits and pitfalls. Discover more inside.
 ---
 
 

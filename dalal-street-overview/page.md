@@ -1,6 +1,7 @@
 ---
-title: "Dalal Street Overview"
-description: "Explore the evolution of algorithmic trading on Dalal Street and its impact on India's stock market This article highlights the BSE's transformative role"
+title: "Dalal Street The Heart Of India\u2019s Financial Industry"
+description: "Dalal Street anchors India\u2019s financial hub with transparent BSE\
+  \ and NSE trading that drives economic growth across the country Discover more inside"
 ---
 
 

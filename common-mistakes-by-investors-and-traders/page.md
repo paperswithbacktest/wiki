@@ -1,6 +1,7 @@
 ---
-title: "Common Mistakes by Investors and Traders"
-description: "Avoid common investor and trader mistakes in algorithmic trading with a well-defined strategy and risk management. Learn to adapt and enhance performance."
+title: Avoiding Common Investing Mistakes For Beginner Investors
+description: Investing mistakes can dent your returns but mastering emotional control
+  diversification and risk management helps you stay on track Discover more inside
 ---
 
 

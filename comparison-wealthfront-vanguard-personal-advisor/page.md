@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Wealthfront and Vanguard Personal Advisor"
-description: "Explore a detailed comparison of Wealthfront and Vanguard Personal Advisor Services, two prestigious investment platforms offering unique methods for wealth management. Discover Wealthfront's automated, tech-driven solutions appealing to modern investors, and Vanguard's blend of digital tools and personalized advice. This article dissects their features, focusing on algorithmic trading, to aid readers in choosing the platform that aligns with their financial goals."
+title: Wealthfront Versus Vanguard Personal Advisor Fees And Features
+description: Wealthfront vs Vanguard Personal Advisor lets investors compare investment
+  fees minimums tax loss harvesting and advisor access Discover more inside
 ---
 
 

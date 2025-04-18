@@ -1,6 +1,7 @@
 ---
-title: "Cost Per Available Seat Mile"
-description: "Explore the significance of Cost per Available Seat Mile (CASM) in aviation efficiency. Learn how algorithmic trading analyzes CASM for better cost control."
+title: Understanding Cost Per Available Seat Mile in Airlines
+description: Cost Per Available Seat Mile measures the cost to fly one seat per mile
+  and reveals efficiency drivers in fuel labor and maintenance Discover more inside
 ---
 
 

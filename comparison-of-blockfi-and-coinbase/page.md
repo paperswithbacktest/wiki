@@ -1,6 +1,7 @@
 ---
-title: "Comparison of BlockFi and Coinbase"
-description: "Discover the unique features and benefits of BlockFi and Coinbase as they intersect with algorithmic trading in the cryptocurrency market to enhance your portfolio."
+title: BlockFi vs Coinbase Comprehensive Comparison of Crypto Platforms
+description: BlockFi vs Coinbase showcases how each crypto platform compares across
+  fees security lending rates deposit options and trading tools Discover more inside.
 ---
 
 

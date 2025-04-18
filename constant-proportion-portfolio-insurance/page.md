@@ -1,6 +1,7 @@
 ---
-title: "Constant Proportion Portfolio Insurance"
-description: "Explore the dynamic investment strategy Constant Proportion Portfolio Insurance (CPPI) that merges portfolio protection with algorithmic trading to optimize growth and minimize risks."
+title: Constant Proportion Portfolio Insurance (CPPI) Strategy
+description: Constant Proportion Portfolio Insurance CPPI enhances risk control by
+  reallocating assets to safeguard your floor and seek growth. Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Day-Count Convention and Common Types"
-description: "Explore the critical role of day-count conventions and interest calculations in financial markets and algorithmic trading to enhance investment precision and returns."
+title: "How Day\u2011Count Conventions Impact Interest and Bond Yields"
+description: Day-count conventions determine how interest is calculated across loans
+  bonds and swaps, offering clarity on yields and costs Discover more inside
 ---
 
 

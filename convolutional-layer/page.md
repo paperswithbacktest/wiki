@@ -1,6 +1,7 @@
 ---
-title: "Convolutional Layer (Machine Learning)"
-description: "Discover how convolutional layers transform image processing in machine learning by highlighting patterns using filters to create feature maps for better analysis"
+title: Understanding Convolutional Layers in Machine Learning
+description: Convolutional layers use filters and convolution operations to extract
+  image features for efficient learning and processing Discover more inside
 ---
 
 ![Image](images/1.jpeg)

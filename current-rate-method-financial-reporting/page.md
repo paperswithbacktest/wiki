@@ -1,6 +1,7 @@
 ---
-title: "Current Rate Method in Financial Reporting"
-description: "Explore the current rate method in financial reporting for translating foreign currencies and its impact on accuracy and decision-making in algorithmic trading."
+title: Understanding the Current Rate Method in Financial Reporting
+description: Current Rate Method translates foreign subsidiary balance sheet items
+  at the current rate to reflect their value in parent currency Discover more inside
 ---
 
 

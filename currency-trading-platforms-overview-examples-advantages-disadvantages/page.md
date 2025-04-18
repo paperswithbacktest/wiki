@@ -1,6 +1,7 @@
 ---
-title: "Currency Trading Platforms: Overview, Examples, Advantages, and Disadvantages"
-description: "Explore the dynamics of currency trading platforms and algorithmic trading in Forex Learn the advantages and challenges of these technologies in the market"
+title: Complete Guide To Currency Trading Platforms And Features
+description: Currency trading platforms deliver live forex charts automated orders
+  and robust security to help traders make informed decisions Discover more inside
 ---
 
 

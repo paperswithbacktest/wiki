@@ -1,6 +1,7 @@
 ---
-title: "Crush Spread Analysis"
-description: "Explore agricultural futures and the impact of crush spreads in soybean processing using algorithmic trading to optimize risk management and enhance profitability."
+title: Understanding the Soybean Crush Spread in Agricultural Trading
+description: Crush spread helps traders hedge price shifts in soybean markets by measuring
+  margins between bean costs and oil meal values Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Decred: Overview, Mechanisms, and Objectives"
-description: "Explore Decred's hybrid consensus mechanism and community-driven governance in the cryptocurrency landscape Discover algo trading opportunities within the Decred network"
+title: Understanding Decred Hybrid Proof of Work and Stake Governance
+description: Decred hybrid PoW PoS governance lets users seamlessly vote on protocol
+  upgrades and allocate treasury funds for community growth Discover more inside
 ---
 
 

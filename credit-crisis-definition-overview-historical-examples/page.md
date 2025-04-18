@@ -1,6 +1,7 @@
 ---
-title: "Credit Crisis: Definition, Overview, and Historical Examples"
-description: "Explore credit crises, their historical impact on global markets, and the role of algorithmic trading in modern finance to understand financial stability."
+title: Understanding Credit Crisis Impact And Prevention Measures
+description: Credit crisis occurs when lending tightens and debt bubbles burst Uncover
+  causes impacts and government actions mitigating risk Discover more inside.
 ---
 
 

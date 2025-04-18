@@ -1,6 +1,7 @@
 ---
-title: "Convertible Currency: Definition and Types"
-description: "Explore the significance of convertible currencies in global finance and their role in algorithmic trading to enhance liquidity and efficiency in international markets."
+title: Currency Convertibility Explained for Global Trade and Investment
+description: Currency convertibility streamlines global trade and investment by enabling
+  easy money exchanges and fostering economic growth. Discover more inside.
 ---
 
 

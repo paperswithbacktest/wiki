@@ -1,6 +1,7 @@
 ---
-title: "Constituency Parsing (Machine Learning)"
-description: "Explore constituency parsing in natural language processing breaking down sentences into hierarchical structures to enhance understanding and interpretation."
+title: Constituency Parsing in Natural Language Processing Explained
+description: Constituency parsing breaks sentences into hierarchical parse trees using
+  algorithms and neural models to boost language understanding Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Cryptography in Cryptocurrency"
-description: "Explore how cryptography, blockchain, and cryptocurrencies create a secure and efficient digital ecosystem, driving innovation in finance and beyond."
+title: Understanding Cryptography in Cryptocurrency Security
+description: Cryptography in cryptocurrencies secures transactions with public private
+  keys signatures and hashes for secure funds and data integrity Discover inside
 ---
 
 

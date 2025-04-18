@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Dividend Stocks and Annuities for Retirement"
-description: "Explore the benefits of dividend stocks, annuities, and algorithmic trading for retirement planning to secure financial stability and optimize income."
+title: Comparing Dividend Stocks and Annuities for Retirement Income
+description: Dividend stocks vs annuities combine growth potential and retirement
+  income Manage liquidity risk and taxes to balance your portfolio Discover more inside
 ---
 
 

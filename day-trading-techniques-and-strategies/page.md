@@ -1,6 +1,7 @@
 ---
-title: "Day Trading Techniques and Strategies"
-description: "Explore the intricacies of day trading and algorithmic trading strategies in the stock market. This comprehensive guide unveils vital techniques to capitalize on market volatility, catering to both hands-on traders seeking quick profits and those leveraging automated systems for efficiency. Discover the skills required, benefits, and challenges involved, and learn how to craft a successful trading plan with effective risk management. Stay informed about market conditions and enhance trading decisions through technical analysis and insight into news and sentiment factors, mastering a balanced approach to both day trading and algo trading."
+title: 'Day Trading Guide: Strategies Indicators and Risk Management'
+description: Day trading demands a solid plan with entry exit rules strategies indicators
+  timing and risk controls to help you trade confidently. Discover more inside
 ---
 
 

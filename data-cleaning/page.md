@@ -1,6 +1,7 @@
 ---
-title: "Data Cleaning"
-description: Data cleaning is essential for preparing data in algorithmic trading, ensuring high-quality data for accurate model performance and decision-making. It rectifies inaccuracies and inconsistencies, vital for mitigating risks and maximizing trading precision.
+title: Essential Data Cleaning Techniques for Reliable Results
+description: Data cleaning removes duplicates fixes errors and fills missing values
+  to boost dataset quality with proven tools and best practices. Discover more inside
 ---
 
 

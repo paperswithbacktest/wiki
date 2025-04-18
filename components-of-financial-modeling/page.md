@@ -1,6 +1,7 @@
 ---
-title: "Components of Financial Modeling"
-description: "Explore the crucial components of financial modeling for algorithmic trading and financial analysis Understand its role in predicting outcomes and making informed decisions"
+title: Essential Guide to Financial Modeling for Business Planning
+description: Financial modeling shows companies how revenue expense and cash flow
+  projections vary by scenario to support strategic decisions Discover more inside
 ---
 
 

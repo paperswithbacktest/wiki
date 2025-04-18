@@ -1,6 +1,8 @@
 ---
-title: "Common Size Balance Sheet"
-description: "Unlock insights into financial health and enhance algorithmic trading strategies with common size balance sheet analysis, enabling precise market predictions."
+title: Understanding Common Size Balance Sheets for Financial Analysis
+description: Common size balance sheet analysis reveals asset and liability trends
+  as percentages for clear company comparisons and strategy insights Discover more
+  inside.
 ---
 
 

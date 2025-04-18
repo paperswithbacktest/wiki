@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Par Value and Market Value"
-description: "Explore the differences between par and market value in stock trading, their impact on investments, and the role of algorithmic trading in valuation dynamics."
+title: Par Value Vs Market Value Explained for Stocks and Bonds
+description: Par Value vs Market Value definitions and impacts help you compare stock
+  and bond valuations to make informed investment decisions Discover more inside.
 ---
 
 

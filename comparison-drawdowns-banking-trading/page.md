@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Drawdowns in Banking and Trading"
-description: "Explore drawdowns in banking and trading to enhance risk management. Learn their significance in financial sectors to ensure stability and informed decisions."
+title: Understanding Financial Drawdowns in Banking and Trading
+description: Financial drawdowns reveal peak-to-trough losses in banking and trading
+  and show how to manage risk and boost portfolio resilience Discover more inside
 ---
 
 

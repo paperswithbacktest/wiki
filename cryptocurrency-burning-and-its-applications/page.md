@@ -1,6 +1,7 @@
 ---
-title: "Cryptocurrency Burning and Its Applications"
-description: "Explore the dynamic world of cryptocurrency with our in-depth article on crypto burning and algorithmic trading. Discover how crypto burning influences token scarcity and market value, and delve into the innovations of algo trading that enhance trading efficiency. Understand these impactful strategies to navigate the evolving digital asset ecosystem effectively and gain insights into the future of digital finance."
+title: Exploring Cryptocurrency Token Burning Mechanisms and Impacts
+description: Cryptocurrency token burning permanently reduces supply to increase scarcity
+  and strengthen trust in projects and boost value Discover more inside
 ---
 
 

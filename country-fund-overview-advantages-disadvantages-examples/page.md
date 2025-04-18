@@ -1,6 +1,7 @@
 ---
-title: "Country Fund: Overview, Advantages, Disadvantages, and Examples"
-description: "Explore the benefits and risks of country funds and algo trading Gain insights into targeted investing and automation strategies to enhance your portfolio."
+title: Understanding Country Fund Investments for Diversification
+description: Country fund investing lets you tap into a specific economy through pooled
+  assets while balancing risk and fees with expert management Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Debt Tender Offer: Types, Rules, and Example"
-description: "Explore the importance of bond repurchases and debt tender offers as corporate finance strategies influenced by regulatory compliance and algorithmic trading innovations."
+title: Debt Tender Offers Improve Corporate Debt Management
+description: Debt tender offer explained with types benefits and regulatory guidelines
+  to help companies optimize debt and bondholder decisions Discover more inside
 ---
 
 

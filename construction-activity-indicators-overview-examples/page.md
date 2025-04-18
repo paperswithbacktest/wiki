@@ -1,6 +1,7 @@
 ---
-title: "Construction Activity Indicators: Overview and Examples"
-description: "Explore how construction activity indicators like building permits can boost algorithmic trading strategies by offering early economic insights."
+title: Construction Activity Indicators Explained for Economic Insights
+description: Construction activity indicators track permits spending and labor to
+  forecast trends and optimize project scheduling Discover more inside
 ---
 
 

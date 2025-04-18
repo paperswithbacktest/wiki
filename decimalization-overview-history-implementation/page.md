@@ -1,6 +1,7 @@
 ---
-title: "Decimalization: Overview, Historical Context, and Implementation"
-description: "Explore decimalization's impact on the stock market moving from fractions to decimals improving trading efficiency with narrower spreads and boosting algorithmic strategies."
+title: Understanding Decimalization in Financial Markets and Trading
+description: Decimalization simplifies stock pricing by converting fractional quotes
+  into precise cent values boosting trade accuracy and liquidity Discover more inside
 ---
 
 

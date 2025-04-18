@@ -1,6 +1,7 @@
 ---
-title: "Compulsory Convertible Debenture"
-description: "Explore Compulsory Convertible Debentures and algorithmic trading and discover how these innovative financial tools enhance investment strategies in modern markets."
+title: Compulsory Convertible Debentures A Complete Investor Guide
+description: Compulsory Convertible Debentures provide funding without immediate equity
+  dilution and offer investors potential returns Discover more inside
 ---
 
 

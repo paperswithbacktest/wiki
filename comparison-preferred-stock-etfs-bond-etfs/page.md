@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Preferred Stock ETFs and Bond ETFs"
-description: "Discover the pros and cons of preferred stock and bond ETFs, exploring their characteristics, advantages, and the role of algorithmic trading in building robust portfolios."
+title: Comparing Preferred Stock ETFs and Bond ETFs for Smart Investing
+description: Preferred Stock ETFs deliver higher yields with fixed dividends while
+  Bond ETFs offer steadier income and safety Learn how each fits your portfolio Discover
+  more inside.
 ---
 
 

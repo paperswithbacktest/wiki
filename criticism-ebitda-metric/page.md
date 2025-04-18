@@ -1,6 +1,7 @@
 ---
-title: "Criticism of the EBITDA Metric"
-description: "Critically examine the role of EBITDA in algorithmic trading and its limitations, impacting financial health assessments. Optimize trading strategies by understanding its dynamics."
+title: Complete Guide To EBITDA Calculation Benefits And Limitations
+description: EBITDA shows a companies core profitability by excluding interest taxes
+  depreciation and amortization for accurate performance assessment Discover more
 ---
 
 

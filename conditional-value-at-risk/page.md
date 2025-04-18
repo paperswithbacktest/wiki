@@ -1,6 +1,7 @@
 ---
-title: "Conditional Value at Risk"
-description: "Explore Conditional Value at Risk (CVaR) to enhance algorithmic trading strategies by managing extreme financial risks and optimizing performance."
+title: Conditional Value at Risk CVaR for Comprehensive Risk Management
+description: CVaR offers a clearer view of potential extreme losses by estimating
+  average tail risk at your chosen confidence level Discover more inside today
 ---
 
 

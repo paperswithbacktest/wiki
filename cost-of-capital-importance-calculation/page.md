@@ -1,6 +1,7 @@
 ---
-title: "Cost of Capital: Importance and Calculation"
-description: "Explore the cost of capital's importance in financial decision-making and algorithmic trading Learn key concepts calculations and impacts on investments"
+title: Understanding the Cost of Capital for Business Investments
+description: Cost of capital guides businesses to assess project viability and optimize
+  debt equity financing for sustainable growth Discover more inside.
 ---
 
 

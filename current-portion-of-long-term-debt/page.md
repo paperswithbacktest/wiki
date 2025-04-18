@@ -1,6 +1,7 @@
 ---
-title: "Current Portion of Long-Term Debt"
-description: "Understand the significance of CPLTD in financial statements and its impact on liquidity ratios Crucial for assessing short-term obligations and investment strategies"
+title: Current Portion of Long-Term Debt Explained for Investors
+description: Current portion of long-term debt shows what a company must repay within
+  a year to assess liquidity for investors and lenders Discover more inside.
 ---
 
 

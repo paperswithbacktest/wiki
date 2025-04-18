@@ -1,6 +1,7 @@
 ---
-title: "Cost of Capital and Required Rate of Return"
-description: "Explore the impact of cost of capital and required rate of return on algorithmic trading Analyze how these metrics guide investment decisions and optimize returns"
+title: Calculating the Cost of Capital for Smarter Investment Decisions
+description: Cost of Capital determines the minimum return required to finance projects
+  and optimize funding mix for profitable growth Discover more inside.
 ---
 
 

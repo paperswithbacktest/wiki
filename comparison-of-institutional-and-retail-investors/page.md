@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Institutional and Retail Investors"
-description: "Discover the differences between institutional and retail investors in algorithmic trading and their impact on market dynamics and economic trends."
+title: Comprehensive Comparison of Institutional Versus Retail Investors
+description: Institutional investors vs retail investors compared by strategies market
+  influence risk management and opportunity access Discover more inside.
 ---
 
 

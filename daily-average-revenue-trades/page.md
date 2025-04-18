@@ -1,6 +1,7 @@
 ---
-title: "Daily Average Revenue Trades"
-description: "Explore the importance of Daily Average Revenue Trades (DARTs) in the brokerage industry as a key metric for assessing trading success and profitability. This comprehensive article investigates into how DARTs have evolved, particularly with the rise of zero-commission trading, and examines various trade types like stocks and options that impact overall revenue. Gain insights into the adaptation strategies of brokerages and the dynamic nature of the trading industry, highlighting the ongoing challenge of calculating DARTs accurately amidst shifting revenue models."
+title: Mastering DART Daily Average Revenue Trades for Brokerages
+description: DART offers brokers a clear daily metric to track and optimize revenue
+  per trade by analyzing trends and strategies over time. Discover more inside.
 ---
 
 

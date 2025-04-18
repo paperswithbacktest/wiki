@@ -1,6 +1,7 @@
 ---
-title: "Comparison of ETFs and Mutual Funds for Young Investors"
-description: "Compare ETFs and mutual funds for young investors exploring investment options. Learn about their benefits, challenges, cost efficiency, and trading flexibility."
+title: ETFs Vs Mutual Funds Explained for Young Investors
+description: ETFs vs mutual funds comparison covers costs, tax efficiency, trading
+  flexibility and diversification for young investors Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Common Mistakes in Forex Day Trading"
-description: "Discover common mistakes in forex day trading, including algorithmic strategies, and learn how to avoid them for enhanced trading success. This article highlights pitfalls like emotional trading, inadequate risk management, and technical errors. Gain insights into developing effective strategies and disciplined execution to navigate the volatile forex market."
+title: Common Forex Day Trading Mistakes and How to Avoid Them
+description: Forex day trading mistakes can eat into your capital, learn how to avoid
+  overtrading emotional pitfalls and poor risk management Discover more inside
 ---
 
 

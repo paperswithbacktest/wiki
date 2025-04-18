@@ -1,6 +1,7 @@
 ---
-title: "Cryptocurrency Creation Process"
-description: "Discover the intersection of blockchain, digital currencies, and algo trading in crypto markets Learn how these technologies are reshaping finance and investments"
+title: Building a New Cryptocurrency From Design to Deployment
+description: Cryptocurrency creation covers designing models testing blockchain security
+  and launching your digital currency with legal compliance Discover more inside
 ---
 
 

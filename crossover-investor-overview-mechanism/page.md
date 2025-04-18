@@ -1,6 +1,7 @@
 ---
-title: "Crossover Investor: Overview and Mechanism"
-description: "Discover how crossover investor strategies and algorithmic trading are reshaping financial markets by bridging public and private investments and optimizing trades."
+title: Crossover Investors Guiding Private Companies To Public Success
+description: Crossover investors provide funding and expert advice to companies from
+  private stages through IPO and beyond for sustained growth Discover more inside.
 ---
 
 

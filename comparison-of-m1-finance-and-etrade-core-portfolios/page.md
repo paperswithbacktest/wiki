@@ -1,6 +1,8 @@
 ---
-title: "Comparison of M1 Finance and E*TRADE Core Portfolios"
-description: "Compare M1 Finance and E*TRADE Core Portfolios for algo trading focusing on investment strategies platform features and fees to find the right fit for your goals."
+title: M1 Finance vs E*TRADE Core Portfolios Fee and Feature Comparison
+description: M1 Finance vs E*TRADE Core Portfolios compares fees account minimums
+  customization and tax strategies in active voice to help you choose the right robo
+  advisor Discover more inside
 ---
 
 

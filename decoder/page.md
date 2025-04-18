@@ -1,6 +1,7 @@
 ---
-title: "Decoder (Machine Learning)"
-description: "Discover how decoders in machine learning transform simple inputs into complex data, enabling everything from image reconstruction to language translation."
+title: Machine Learning Decoders Explained Key Concepts and Applications
+description: Machine learning decoders convert compact data into images text or sequences
+  covering types training and performance evaluation Discover more inside
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,7 @@
 ---
-title: "Cryptocurrency and Stock Market Price Correlation"
-description: "Explore the evolving relationship between stock markets and cryptocurrencies, focusing on the notable price correlation and the role of algorithmic trading."
+title: Understanding Cryptocurrency and Stock Market Price Correlations
+description: Cryptocurrency and stock market correlations explain how economic events
+  shape asset prices so investors can manage risk and diversify Discover more inside
 ---
 
 

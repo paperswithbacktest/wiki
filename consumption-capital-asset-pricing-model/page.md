@@ -1,6 +1,7 @@
 ---
-title: "Consumption Capital Asset Pricing Model"
-description: "Explore the integration of Consumption Capital Asset Pricing Model (CCAPM) in algorithmic trading to enhance investment strategies by assessing consumption risks."
+title: Consumption Capital Asset Pricing Model Explained in Asset Pricing
+description: Consumption Capital Asset Pricing Model explains how investments impact
+  future consumption and expected returns through consumption beta Discover more inside.
 ---
 
 

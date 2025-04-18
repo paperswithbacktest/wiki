@@ -1,6 +1,7 @@
 ---
-title: "Covered Calls and Their Use in Investment Strategies"
-description: "Explore the synergy of covered calls and algorithmic trading to enhance investment strategies Learn how these methods balance risk and reward in options trading"
+title: Maximizing Portfolio Income With A Covered Call Strategy
+description: Covered call strategy lets traders earn extra income by selling call
+  options on shares you own while managing risk and boosting returns Discover more.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparable Store Sales: Overview and Calculation"
-description: "Explore how comparable store sales can enhance retail strategies by analyzing organic growth at established locations and integrating with algo trading for optimized performance."
+title: Understanding Comparable Store Sales for Retail Performance
+description: Comparable store sales reveal growth trends by isolating established
+  store performance so you can refine operations and boost revenue Discover more inside.
 ---
 
 

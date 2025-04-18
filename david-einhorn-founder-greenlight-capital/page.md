@@ -1,6 +1,7 @@
 ---
-title: "David Einhorn, Founder of Greenlight Capital"
-description: "Discover the unique investment strategies of David Einhorn and Greenlight Capital as they navigate the evolving financial landscape amid algorithmic trading trends."
+title: David Einhorn Investment Philosophy And Career Highlights
+description: David Einhorn shares his disciplined method for spotting undervalued
+  stocks through in depth research and strategic patience Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Declining Industries: Overview and Examples"
-description: "Explore declining industries and their characteristics, causes, and impacts. Discover how algorithmic trading can uncover investment opportunities amidst industry downturns."
+title: Adapting Business Strategies for Declining Industries
+description: Declining Industries require clear detection and adaptation tactics to
+  sustain profits and manage risks in shrinking markets. Discover more inside
 ---
 
 

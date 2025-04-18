@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Primary and Secondary Markets"
-description: "Explore the dynamics of primary and secondary markets in finance and how algorithmic trading enhances efficiency in trading securities."
+title: Understanding Primary and Secondary Financial Markets
+description: Primary market and secondary market guide shows how new securities are
+  issued and traded so investors can make informed decisions Discover more inside.
 ---
 
 

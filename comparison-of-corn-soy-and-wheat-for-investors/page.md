@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Corn, Soy, and Wheat for Investors"
-description: "Explore investment opportunities in corn, soy, and wheat with algo trading. Discover how these agricultural commodities can diversify and strengthen your portfolio."
+title: Complete Guide to Investing in Corn Soy and Wheat Commodities
+description: Investing in corn soy and wheat commodities demands understanding market
+  drivers global supply and demand price volatility Discover more inside
 ---
 
 

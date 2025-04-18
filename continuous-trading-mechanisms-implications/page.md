@@ -1,6 +1,7 @@
 ---
-title: "Continuous Trading: Mechanisms and Implications"
-description: "Explore the dynamics of continuous trading and algo trading mechanisms revolutionizing financial markets with real-time order execution and enhanced efficiency."
+title: Continuous Trading Explained Benefits Risks And Market Impact
+description: Continuous trading lets investors execute trades instantly throughout
+  the day while ensuring fair pricing and high liquidity Discover more inside.
 ---
 
 

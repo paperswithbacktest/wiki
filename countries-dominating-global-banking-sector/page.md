@@ -1,6 +1,7 @@
 ---
-title: "Countries Dominating the Global Banking Sector"
-description: "Discover how countries are leveraging algorithmic trading to transform global banking and financial markets. Explore the impact of technology on international finance."
+title: Global Banking Sector Dominance Among Major Economies
+description: Global banking sector influence extends across US UK China and Europe
+  with size regulation and fintech driving economic power Discover more inside
 ---
 
 

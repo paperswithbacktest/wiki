@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Short Sales and Foreclosures"
-description: "Explore the complexities of real estate short sales foreclosures and algorithmic trading Discover how these elements impact the market and investor strategies"
+title: Short Sale Vs Foreclosure Key Differences For Homeowners
+description: Short sale vs foreclosure explains how each option impacts credit timing
+  costs and taxes so homeowners can choose wisely Discover more inside
 ---
 
 

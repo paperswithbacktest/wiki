@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Betterment and Merrill Guided Investing"
-description: "Discover the key differences between Betterment and Merrill Guided Investing, two prominent robo-advisors offering automated investment management through algorithmic trading. This article provides a comprehensive comparison of their approaches, fee structures, and user experiences, helping you make an informed decision on the platform that best suits your investment needs and goals."
+title: Betterment Vs Merrill Guided Investing Features Comparison
+description: Betterment vs Merrill Guided Investing compares fees account minimums
+  tax strategies and support options for informed investing Discover more inside
 ---
 
 

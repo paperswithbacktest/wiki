@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Coinbase and Robinhood Platforms"
-description: "Explore the unique strengths of Coinbase and Robinhood in algorithmic trading from beginner-friendly ease and commission-free trades to advanced crypto tools and vast asset selection"
+title: Coinbase Vs Robinhood Trading Fees Security And Features
+description: Coinbase vs Robinhood comparison breaks down fees security features and
+  customer experience so you can pick the right platform Discover more
 ---
 
 

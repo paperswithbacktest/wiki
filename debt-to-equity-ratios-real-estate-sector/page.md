@@ -1,6 +1,7 @@
 ---
-title: "Debt-To-Equity Ratios in the Real Estate Sector"
-description: "Explore the role of debt-to-equity ratios in the real estate sector and how algorithmic trading uses these financial metrics to enhance investment strategies."
+title: Debt-to-Equity Ratio Impact on Real Estate Financial Health
+description: Debt-to-equity ratio in real estate shows how companies leverage debt
+  versus equity for growth and guides investment decisions Discover more inside.
 ---
 
 

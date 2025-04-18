@@ -1,6 +1,7 @@
 ---
-title: "Cost of Debt and Formula Overview"
-description: "Discover how understanding the cost of debt and its formula enhances financial strategies in the evolving world of algorithmic trading, optimizing investments and risk management."
+title: Understanding the Cost of Debt and Its Financial Impact
+description: Cost of debt analysis helps companies understand borrowing expenses and
+  optimize strategies with pre tax and after tax insights Discover more inside.
 ---
 
 

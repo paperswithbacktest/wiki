@@ -1,6 +1,7 @@
 ---
-title: "Credit Sweep: Overview and Mechanism"
-description: "Explore how credit sweep strategies and algorithmic trading are revolutionizing financial management offering businesses and investors enhanced efficiency and cost savings."
+title: Implementing a Credit Sweep for Business Cash Management
+description: Credit sweep automates daily transfers between checking and savings to
+  maximize interest and ensure sufficient funds for expenses Discover more inside.
 ---
 
 

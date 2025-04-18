@@ -1,6 +1,7 @@
 ---
-title: "Cross Currency"
-description: "Explore the dynamics of cross currency trading and algorithmic strategies in the forex market—a realm of immense opportunities and complex strategies."
+title: Understanding Cross Currency Pairs for Forex Trading
+description: Cross currency pairs enable direct non USD exchanges to reduce costs
+  and dollar exposure while using proven trading strategies Discover more inside.
 ---
 
 

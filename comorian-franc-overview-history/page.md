@@ -1,6 +1,7 @@
 ---
-title: "Comorian Franc: Overview and History"
-description: "Explore the evolution of the Comorian Franc and its economic significance in Comoros Learn about its history challenges and the impact of algorithmic trading"
+title: Exploring the Comorian Franc Currency and Its Economic Impact
+description: Comorian Franc overview covers its history denominations exchange rates
+  and economic role in Comoros and global markets Discover more inside
 ---
 
 

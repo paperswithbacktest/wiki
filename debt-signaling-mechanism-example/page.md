@@ -1,6 +1,7 @@
 ---
-title: "Debt Signaling: Mechanism and Example"
-description: "Explore how debt signaling in algo trading impacts financial markets by decoding company debt actions for insights into financial stability and growth potential."
+title: Debt Signaling Theory and Practical Implications for Investors
+description: Debt signaling shows how borrowing decisions convey company confidence
+  and risk profile to investors while impacting cost of capital Discover more inside
 ---
 
 

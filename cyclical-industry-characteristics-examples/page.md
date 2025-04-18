@@ -1,6 +1,7 @@
 ---
-title: "Cyclical Industry: Characteristics and Examples"
-description: "Explore the intricacies of cyclical industries like automotive and construction and their response to economic shifts. Gain insights into how algorithmic trading optimizes strategies by evaluating growth indicators and navigating economic phases. This guide empowers readers to understand and anticipate fluctuations, fostering informed decision-making aligned with market dynamics."
+title: Understanding Cyclical Industries Risks Rewards and Strategies
+description: Explore how cyclical industries react to economic shifts and discover
+  strategies to manage risks and capitalize on opportunities Discover more inside
 ---
 
 

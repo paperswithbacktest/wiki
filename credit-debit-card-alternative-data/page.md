@@ -1,6 +1,7 @@
 ---
-title: "Credit/Debit Card Alternative Data"
-description: In the dynamic landscape of financial markets, traders are increasingly turning to alternative data sources like credit and debit card transactions to gain a competitive edge. This data offers near real-time insights into consumer behavior, enabling traders to identify market trends and shifts ahead of traditional financial metrics. By integrating these transaction insights into algorithmic trading strategies, traders can detect emerging consumer trends, predict market movements, and strategize more effectively. This innovative use of credit/debit card data is reshaping trading tactics, providing unique opportunities and challenges in understanding market dynamics and improving decision-making processes.
+title: Optimizing Credit And Debit Decisions With Alternative Data
+description: Alternative Data uncovers spending habits beyond card transactions and
+  helps lenders assess creditworthiness more fairly Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Credit Default Swap"
-description: "Explore the intricacies of credit default swaps and algorithmic trading in the evolving derivatives market. Learn about risk management strategies and opportunities."
+title: Credit Default Swaps Guide For Managing Credit Risk Effectively
+description: Credit Default Swaps protect lenders from borrower default by defining
+  contract terms pricing and coverage to manage credit risk Discover more inside
 ---
 
 

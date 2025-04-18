@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Preference Shares and Bonds"
-description: "Explore the strategic roles and intricate dynamics of bonds, preference shares, and algorithmic trading to enhance your investment decisions and diversify portfolios."
+title: Comparing Preference Shares and Bonds for Investment Decisions
+description: Preference shares offer higher dividends but greater risk compared to
+  bonds Explore key differences in returns risk tax Discover more inside.
 ---
 
 

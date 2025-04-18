@@ -1,6 +1,7 @@
 ---
-title: "Deep Hedging"
-description: "Explore Deep Hedging an innovative algorithmic trading strategy combining deep learning and hedging to dynamically manage risk and optimize returns."
+title: Deep Hedging with AI for Advanced Financial Risk Management
+description: Deep hedging applies deep learning to manage risk in complex financial
+  instruments and volatile markets while enhancing returns Discover more inside
 ---
 
 

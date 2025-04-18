@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Fidelity and T. Rowe Price"
-description: "Explore the comparative analysis of algorithmic trading solutions offered by Fidelity Investments and T. Rowe Price to understand their strategies in maximizing trading outcomes. This article investigates into how these leading investment firms utilize advanced technology and data-driven approaches to optimize efficiency and enhance financial performance. Discover insights that can aid in aligning your investment decisions with personal financial goals and risk appetite."
+title: Comparing Fidelity and T. Rowe Price Investment Services
+description: Fidelity and T. Rowe Price comparison highlights fees products tools
+  and service differences to guide your investment strategy Discover more inside
 ---
 
 

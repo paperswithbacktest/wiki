@@ -1,6 +1,7 @@
 ---
-title: "Consumer Financial Protection Act: Overview and Functionality"
-description: "Explore the intersection of financial legislation and algorithmic trading with insights into regulatory bodies like the CFPB protecting consumers amidst tech advancements."
+title: Consumer Financial Protection Act Ensures Fair Treatment By Banks
+description: Consumer Financial Protection Act empowers consumers with clear fair
+  rules and oversight for loans credit cards and accounts Discover more inside
 ---
 
 

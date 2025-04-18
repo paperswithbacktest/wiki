@@ -1,6 +1,8 @@
 ---
-title: "Condor Spread Strategy and Types"
-description: "Discover the intricacies of the condor spread strategy in algo trading Learn about its types benefits and applications to optimize your investment portfolio"
+title: Mastering Condor Spread Strategy for Defined-Risk Options Trading
+description: Condor Spread strategy secures defined risk and steady premiums when
+  stock prices stay within a target range by combining four options Discover more
+  inside
 ---
 
 

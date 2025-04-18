@@ -1,6 +1,7 @@
 ---
-title: "CUSUM tests"
-description: Explore how CUSUM tests enhance algorithmic trading by detecting subtle data shifts crucial for strategy refinement. Known for identifying changes in time series means effectively, CUSUM provides timely insights into market trends. By accumulating deviations from a mean, this technique aids traders in making informed decisions and maintaining competitiveness in dynamic markets. Learn to implement CUSUM in trading algorithms for increased precision and robust, objective signal generation amidst market volatility.
+title: CUSUM Test Methods for Early Detection of Small Process Shifts
+description: CUSUM test tracks cumulative deviations to reveal small process shifts
+  and prompt timely interventions to ensure quality. Discover more inside.
 ---
 
 

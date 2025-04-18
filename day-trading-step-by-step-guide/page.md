@@ -1,6 +1,7 @@
 ---
-title: "Day Trading: A Step-by-Step Guide"
-description: "Explore the world of day trading and algorithmic trading with this comprehensive guide Learn key strategies techniques and risk management for success"
+title: Complete Day Trading Guide to Strategies Tools and Risk
+description: Day trading demands deep market insights real time tools and proven strategies
+  to manage risk and boost your trading performance Discover more inside.
 ---
 
 

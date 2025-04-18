@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Tier 1 and Tier 2 Capital"
-description: "Explore the critical role of Tier 1 and Tier 2 capital in banking, understand capital requirements, and learn how they align with algorithmic trading strategies."
+title: Understanding Tier 1 And Tier 2 Capital for Banking Stability
+description: Tier 1 capital measures a banks core financial strength and Tier 2 capital
+  adds backup resilience for regulatory compliance Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Cost of Equity and Cost of Capital Comparison"
-description: "Explore the interplay of cost of equity, cost of capital, and algorithmic trading to optimize investment strategies and enhance financial decision-making efficiency."
+title: Cost of Capital and Cost of Equity in Corporate Finance
+description: Cost of capital helps firms evaluate equity and debt costs and make smarter
+  investment decisions with actionable analysis Discover more inside.
 ---
 
 

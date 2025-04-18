@@ -1,6 +1,7 @@
 ---
-title: "Cryptocurrency Custody Solutions"
-description: "Explore cryptocurrency custody solutions and algorithmic trading for secure digital asset management. Learn about protecting and optimizing your investments."
+title: Cryptocurrency Custody Essentials for Safe Digital Asset Storage
+description: Cryptocurrency custody protects assets with encryption cold storage and
+  multi signature control for self custody or custodian solutions Discover more inside
 ---
 
 

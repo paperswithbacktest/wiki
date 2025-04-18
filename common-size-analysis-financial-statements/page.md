@@ -1,6 +1,7 @@
 ---
-title: "Common-Size Analysis of Financial Statements"
-description: "Explore the essential role of common-size analysis in financial statements for algo trading to enhance decision-making and trading strategies through data-driven insights."
+title: Common-Size Analysis for Financial Statements Explained
+description: Common-size analysis converts each financial statement item into a percent
+  of a base figure to reveal trends and benchmarks. Discover more inside.
 ---
 
 

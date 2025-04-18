@@ -1,6 +1,7 @@
 ---
-title: "Dedicated Short Bias Strategy"
-description: "Explore the dynamics of short bias and short selling strategies enhanced by algorithmic trading to profit from market downturns with precision and efficiency."
+title: Comprehensive Guide to Dedicated Short Bias Strategy for Investors
+description: Dedicated Short Bias Strategy shows how to profit from falling stocks
+  with targeted short selling risk controls and stop-loss orders Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of P/E Ratio, EPS, and Earnings Yield"
-description: "Explore the importance of Earnings Yield EPS and P/E ratio in assessing company value and investment potential empowering traders with strategic insights"
+title: P/E Ratio EPS and Earnings Yield Explained for Investors
+description: P/E Ratio reveals stock valuation per dollar of earnings, while EPS and
+  Earnings Yield also offer deeper profitability insights. Discover more inside.
 ---
 
 

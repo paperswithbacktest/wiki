@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Brazil's GDP and GDP Per Capita"
-description: "Explore Brazil's economic strength through GDP and GDP per capita insights highlighting key sectors and the impact of algorithmic trading on growth."
+title: Brazil GDP and GDP Per Capita Trends and Regional Comparisons
+description: Brazil GDP and GDP per capita reveal trends in growth, sector contributions
+  and regional disparities over the past decade Discover more inside
 ---
 
 

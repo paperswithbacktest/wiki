@@ -1,6 +1,7 @@
 ---
-title: "Comparative Analysis of Amazon and eBay"
-description: "Explore the comparative analysis of Amazon and eBay in algorithmic trading insights into their financial performance and strategic priorities."
+title: 'Amazon Vs eBay: Business Model and Feature Comparison'
+description: Amazon vs eBay overview of differences in business models shipping options
+  and seller fees to help you choose the right platform Discover more inside
 ---
 
 

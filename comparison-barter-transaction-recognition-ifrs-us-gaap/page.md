@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Barter Transaction Recognition Under IFRS and US GAAP"
-description: "Explore how barter transactions are accounted for under US GAAP and IFRS focusing on valuation challenges and the impact on financial statements."
+title: Barter Transaction Accounting Under IFRS and US GAAP
+description: Barter transaction accounting clarifies how to record exchanges without
+  cash under IFRS and US GAAP for clear financial reporting Discover more inside
 ---
 
 

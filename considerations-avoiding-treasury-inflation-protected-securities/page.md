@@ -1,6 +1,7 @@
 ---
-title: "Considerations for Avoiding Treasury Inflation-Protected Securities"
-description: "Explore insights into Treasury Inflation-Protected Securities and how algorithmic trading can enhance investment strategies considering their benefits and limitations."
+title: Understanding Treasury Inflation-Protected Securities TIPS
+description: TIPS adjust principal and interest with inflation to protect purchasing
+  power and offer government-backed security and diversification Discover more inside
 ---
 
 

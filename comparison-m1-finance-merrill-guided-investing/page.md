@@ -1,6 +1,7 @@
 ---
-title: "Comparison of M1 Finance and Merrill Guided Investing"
-description: "Explore a detailed comparison between M1 Finance and Merrill Guided Investing, two leading robo-advisors with unique strategies in automated investment management. Discover how M1 Finance's pie-based investing and fractional shares offer precise customization for investors, while Merrill Guided Investing combines algorithmic portfolios with expert oversight, leveraging Bank of America's resources. This guide helps potential users choose between M1's cost-effective, self-directed approach and Merrill's integrated service model, considering factors like investment strategies, fees, user experience, and customer support to align with individual financial objectives."
+title: M1 Finance Versus Merrill Guided Investing Comparison
+description: M1 Finance and Merrill Guided Investing offer personalized robo advisor
+  plans with flexible fees varied unique investment tools Discover more inside
 ---
 
 

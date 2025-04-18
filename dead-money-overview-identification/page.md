@@ -1,6 +1,7 @@
 ---
-title: "Dead Money: Overview and Identification"
-description: "Discover how to identify and manage dead money in trading while leveraging algorithmic strategies for optimal financial outcomes and portfolio growth."
+title: Strategies to Identify and Eliminate Dead Money in Investments
+description: Dead money can stall growth but identifying idle funds and moving them
+  into productive assets helps optimize your portfolio Discover more inside.
 ---
 
 

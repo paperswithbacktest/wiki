@@ -1,6 +1,7 @@
 ---
-title: "Dark Pool Trading Strategies"
-description: "Explore dark pool trading strategies using algorithmic components to optimize large transactions discreetly minimize market impact and enhance execution efficiency"
+title: Dark Pool Trading Explained Professional Guide for Investors
+description: Dark pool trading gives investors private large order execution for better
+  pricing and lower fees while keeping market moves discreet Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Decision Support Systems in Business"
-description: "Discover the vital role of Decision Support Systems in enhancing algorithmic trading strategies by leveraging data analysis to optimize decision-making and bolster trading efficiency."
+title: Decision Support Systems for Data-Driven Business Decisions
+description: Decision Support System helps businesses analyze data trends and predict
+  outcomes for smarter choices and improved performance Discover more inside
 ---
 
 

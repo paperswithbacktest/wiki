@@ -1,6 +1,7 @@
 ---
-title: "Country Risk Assessment in International Investing"
-description: "Explore the crucial role of country risk and algorithmic trading in international investing Understand how these elements optimize decision-making and portfolio returns"
+title: Effective Country Risk Assessment for International Investing
+description: Country risk assessment evaluates political economic and environmental
+  risks to diversify portfolios and safeguard global investments Discover more inside
 ---
 
 

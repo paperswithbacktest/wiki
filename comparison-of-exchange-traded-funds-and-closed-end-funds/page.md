@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Exchange-Traded Funds and Closed-End Funds"
-description: "Discover the contrasting features of Exchange-Traded Funds (ETFs) and closed-end funds in algo trading Learn how these instruments can enhance your investment strategy"
+title: Understanding the Differences Between ETFs and CEFs for Investors
+description: ETFs and CEFs differ in structure, fees, trading and tax profiles offering
+  investors clear choices in risk and return and leverage Discover more inside
 ---
 
 

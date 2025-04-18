@@ -1,6 +1,7 @@
 ---
-title: "Debt-to-Income Ratio: Evaluation and Calculation"
-description: "Discover how the Debt-to-Income (DTI) ratio plays a vital role in personal finance and broader financial evaluations like algorithmic trading. Understand how this metric compares monthly debt payments to gross income, offering insights into financial health and borrowing capacity. Learn how lenders use the DTI ratio to assess risk, influencing loan terms and decisions. Explore its significance in financial strategies and risk management to enhance outcomes in both personal and commercial contexts."
+title: Understanding Debt-to-Income Ratio for Better Loan Approval
+description: Debt to income ratio shows how much income goes to debt payments and
+  guides you to improve your DTI for better loan rates Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Certificates of Deposit and Bonds"
-description: "Explore the benefits and risks of bonds CDs and algorithmic trading to diversify your investment portfolio and make informed financial decisions tailored to your goals."
+title: Comparing Certificates Of Deposit And Bonds For Investors
+description: Certificates of Deposit offer insured fixed rates while bonds deliver
+  varied yields and liquidity Enhance your portfolio strategy Discover more inside
 ---
 
 

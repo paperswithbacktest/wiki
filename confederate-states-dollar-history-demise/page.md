@@ -1,6 +1,7 @@
 ---
-title: "Confederate States Dollar: History and Demise"
-description: "Explore the fascinating history of the Confederate States Dollar its economic challenges during the Civil War and its lasting impact on modern financial practices"
+title: Comprehensive History of the Confederate States Dollar
+description: Confederate States Dollar chronicles its rise and rapid devaluation as
+  war funding fueled inflation and public distrust Discover more inside
 ---
 
 

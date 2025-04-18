@@ -1,6 +1,7 @@
 ---
-title: "Cyclical Stocks: Characteristics, Examples, and Risks"
-description: "Explore the characteristics and risks of cyclical stocks in this comprehensive guide, including their relationship with economic cycles and algorithmic trading strategies."
+title: Cyclical Stocks Explained How to Invest Along Economic Cycles
+description: Cyclical stocks track economic cycles letting investors time entries
+  in car travel and luxury sectors for potential returns Discover more inside
 ---
 
 

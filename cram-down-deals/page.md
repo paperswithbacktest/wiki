@@ -1,6 +1,7 @@
 ---
-title: "Cram-Down Deals"
-description: "Discover key insights into debt restructuring and cram-down deals in bankruptcy, alongside the impact and challenges of algorithmic trading in today's financial markets."
+title: Understanding Cram-Down Deals in Bankruptcy Reorganization
+description: Cram-Down Deal guidance outlines how courts reshape loan terms in bankruptcy
+  to protect debtors and creditors alike with insight Discover more inside
 ---
 
 

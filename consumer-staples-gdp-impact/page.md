@@ -1,6 +1,7 @@
 ---
-title: "Consumer Staples and Their Impact on GDP"
-description: "Explore how consumer staples contribute to GDP stability. Understand their continuous demand and the impact of algorithmic trading on this economic sector."
+title: Consumer Staples Impact on GDP and Economic Stability
+description: Consumer staples fuel GDP growth with steady demand for essential goods
+  in downturns, supporting economic stability and resilience. Discover more inside.
 ---
 
 

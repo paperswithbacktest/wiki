@@ -1,6 +1,7 @@
 ---
-title: "Covered Securities and Tax Implications"
-description: "Explore the tax implications and regulatory framework of covered securities in algorithmic trading to optimize strategies while ensuring compliance."
+title: Understanding Tax Implications of Covered Securities Trading
+description: Covered Securities regulation simplifies multistate trading and cost
+  basis reporting so investors optimize capital gains planning Discover more inside
 ---
 
 

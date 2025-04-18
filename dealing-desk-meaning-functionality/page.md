@@ -1,6 +1,7 @@
 ---
-title: "Dealing Desk: Meaning and Functionality"
-description: "Explore the intricacies of dealing desk brokers and algorithmic trading in the forex market Learn how these elements shape trading strategies and outcomes."
+title: Dealing Desk Strategies for Market Liquidity and Stability
+description: Dealing desk operations speed trade execution and stabilize market liquidity
+  by matching buyers and sellers with tech driven solutions Discover more inside
 ---
 
 

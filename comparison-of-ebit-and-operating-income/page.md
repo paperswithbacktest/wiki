@@ -1,6 +1,7 @@
 ---
-title: "Comparison of EBIT and Operating Income"
-description: "Explore the essential differences and applications of EBIT and Operating Income in algorithmic trading to enhance profitability and operational analysis. Discover how these key financial metrics serve as vital tools for traders, offering insights into company performance and informing precise automated trading decisions."
+title: Comparing EBIT And Operating Income For Accurate Profit Analysis
+description: EBIT and Operating Income metrics reveal how businesses generate profit
+  from core operations and non operating activities Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Convolutional Neural Network (CNN)"
-description: Discover how Convolutional Neural Networks (CNNs), a powerful deep learning model, are revolutionizing algorithmic trading by analyzing market data, identifying patterns, and processing news images. Learn about CNN architecture and its applications in the financial industry. Explore resources for traders and developers.
+title: Understanding Convolutional Neural Networks For Image Recognition
+description: Convolutional Neural Networks power image recognition by extracting key
+  features to improve classification accuracy and efficiency Discover more inside.
 ---
 
 

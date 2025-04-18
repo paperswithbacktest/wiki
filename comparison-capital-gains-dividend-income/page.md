@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Capital Gains and Dividend Income"
-description: "Explore the key differences between capital gains and dividend income, and learn how algo trading impacts these investment strategies for maximizing returns."
+title: Capital Gains vs Dividend Income Taxation Explained
+description: Capital gains and dividend income taxation impact your returns from investments.
+  Understand key differences and tax rates to optimize your strategy Discover more
+  inside.
 ---
 
 

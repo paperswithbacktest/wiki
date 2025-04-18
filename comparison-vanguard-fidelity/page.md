@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Vanguard and Fidelity"
-description: "Explore a comprehensive comparison of Vanguard and Fidelity, prominent investment firms known for robust market presence and diverse financial services. The article investigates into their respective strengths: Vanguard's reputation for low-cost index funds and Fidelity's innovative technology and active fund management. Discover how both have integrated algorithmic trading, a transformative trend leveraging computer algorithms for quick execution based on preset criteria. Learn about their unique approaches and analyze which platform might best suit your financial goals and risk tolerance."
+title: Comparing Vanguard Vs Fidelity Investment Platforms
+description: Vanguard and Fidelity comparison highlights fund options fees and customer
+  service differences to help investors choose the right platform for their goals
+  Discover more inside
 ---
 
 

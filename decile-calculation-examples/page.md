@@ -1,6 +1,7 @@
 ---
-title: "Decile: Calculation and Examples"
-description: "Discover how deciles and algorithmic trading intersect to optimize trading strategies. Learn to calculate deciles and apply them for insightful market analysis."
+title: Understanding Deciles in Statistics for Data Distribution
+description: Deciles divide data into ten equal parts to reveal distribution patterns
+  and aid analysis. See how to calculate and apply deciles. Discover more inside
 ---
 
 

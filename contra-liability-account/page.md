@@ -1,6 +1,7 @@
 ---
-title: "Contra Liability Account"
-description: "Explore the integration of contra liability accounts with algorithmic trading strategies for precise financial reporting and innovative trading techniques."
+title: Contra Liability Accounts Explained For Financial Clarity
+description: Contra liability account practices show how to reduce and report debt
+  on the balance sheet for clearer financial insights Discover more inside.
 ---
 
 

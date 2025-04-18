@@ -1,6 +1,7 @@
 ---
-title: "Decision Threshold (Machine Learning)"
-description: "A decision threshold in machine learning is a value that determines predictions, affecting error rates. Choosing the right threshold is crucial for model performance."
+title: Understanding Decision Thresholds in Machine Learning Models
+description: Decision thresholds balance false positives and negatives in machine
+  learning for critical decisions and optimize model performance Discover more inside
 ---
 
 ![Image](images/1.png)

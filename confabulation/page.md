@@ -1,6 +1,7 @@
 ---
-title: "Confabulation (Machine Learning)"
-description: "Discover confabulation in machine learning where models generate incorrect yet plausible information explore its causes and solutions to enhance reliability"
+title: Understanding Confabulation in Machine Learning Models
+description: Confabulation in Machine Learning models can produce plausible yet incorrect
+  details. Explore methods to detect and reduce errors. Discover more inside.
 ---
 
 ![Image](images/1.gif)

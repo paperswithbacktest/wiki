@@ -1,6 +1,7 @@
 ---
-title: "Debt Ratio in Finance"
-description: "Explore the connection between debt ratios and algorithmic trading, focusing on financial leverage metrics essential for risk assessment and strategic trading decisions in modern finance."
+title: Understanding the Debt Ratio Formula and Financial Implications
+description: Debt ratio shows what portion of a company's assets is financed by debt
+  and highlights risk to inform smarter decisions Discover more inside
 ---
 
 

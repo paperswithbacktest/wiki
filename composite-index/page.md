@@ -1,6 +1,7 @@
 ---
-title: "Composite Index"
-description: "Explore the significance of composite indexes in algorithmic trading Learn how these benchmarks provide insights into market conditions to inform trading strategies"
+title: Composite Indexes in Databases and Financial Markets
+description: Composite Indexes boost query performance in databases and provide key
+  financial market insights with examples and optimization tips Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Common Stock Equivalent"
-description: "Explore the role of common stock equivalents in algorithmic trading and their impact on trading efficiency. Learn how these instruments enhance algo-trading strategies."
+title: Understanding Common Stock Equivalents in Financial Analysis
+description: Common stock equivalents affect diluted EPS by converting bonds options
+  and warrants into shares for accurate valuation Discover more inside.
 ---
 
 

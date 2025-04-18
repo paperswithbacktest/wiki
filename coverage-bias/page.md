@@ -1,6 +1,7 @@
 ---
-title: "Coverage Bias (Machine Learning)"
-description: "Discover how coverage bias can impact machine learning models and learn strategies to ensure fair, accurate predictions by diversifying your training data."
+title: Addressing Coverage Bias in Machine Learning for Fair Models
+description: Coverage bias skews machine learning fairness and accuracy by leaving
+  out key data Use strategies to fill gaps for equitable AI Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

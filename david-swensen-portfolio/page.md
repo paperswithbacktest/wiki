@@ -1,6 +1,7 @@
 ---
-title: "David Swensen Portfolio"
-description: Explore the innovative integration of the Yale Endowment Model into algorithmic trading. Discover how David Swensen's approach to diversification and alternative investments reshapes investment strategies with its focus on long-term gains and risk management. This blend brings efficiency to automated trading systems, offering potential synergies that enrich modern financial markets.
+title: Mastering the David Swensen Portfolio Investment Strategy
+description: The David Swensen Portfolio offers a simple six asset class framework
+  to balance growth and risk using low cost index funds Discover more inside.
 ---
 
 

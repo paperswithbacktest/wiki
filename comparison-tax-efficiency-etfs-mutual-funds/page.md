@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Tax Efficiency in ETFs and Mutual Funds"
-description: "Explore the tax efficiency of ETFs vs mutual funds and how algorithmic trading can improve after-tax returns for informed investment strategies."
+title: Tax Efficiency Strategies for ETFs and Mutual Funds
+description: Tax efficiency helps investors keep more returns by minimizing capital
+  gains and using in-kind transactions in ETFs over mutual funds Discover more inside
 ---
 
 

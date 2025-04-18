@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Bulk Carriers, Container Ships, and Tankers in the Shipping Market"
-description: "Explore the 2016 shipping market with a comparative analysis of bulk carriers, container ships, and tankers, highlighting the influence of algorithmic trading."
+title: 2016 Shipping Market Bulk Carriers Container Ships and Tankers
+description: Shipping market dynamics in 2016 highlight how bulk carriers container
+  ships and tankers faced oversupply rate drops and regulations Discover more inside.
 ---
 
 

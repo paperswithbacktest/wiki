@@ -1,6 +1,7 @@
 ---
-title: "Communism: Overview and Historical Context"
-description: "Explore the influence of communism and the evolution of algorithmic trading as they shape politics and economics providing new perspectives on global development."
+title: Understanding Communism Theory History and Global Impact
+description: Communism overview explains origins principles and global impact from
+  Marx to modern practices in China Cuba and beyond Discover more inside
 ---
 
 

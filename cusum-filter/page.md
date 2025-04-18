@@ -1,6 +1,7 @@
 ---
-title: "CUSUM filter"
-description: The CUSUM filter is a powerful tool in algorithmic trading for identifying market trends and potential trading opportunities by monitoring changes in cumulative sums of deviations from a target value. This article explores the CUSUM filter’s principles, applications, and benefits in trading, highlighting its effectiveness in detecting price breakpoints faster than traditional methods. Simple and computationally efficient, the CUSUM filter enhances real-time data analysis and helps traders distinguish noise from actual trends, improving strategies for market entry and exit. The guide includes practical insights into threshold settings and integration into trading models.
+title: Understanding CUSUM Filters For Process Monitoring And Control
+description: CUSUM filter tracks cumulative deviations from target values to detect
+  small process shifts early and keep quality on track. Discover more inside.
 ---
 
 

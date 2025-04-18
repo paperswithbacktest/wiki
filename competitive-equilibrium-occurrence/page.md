@@ -1,6 +1,7 @@
 ---
-title: "Competitive Equilibrium and Occurrence"
-description: "Explore the role of competitive equilibrium in economics and its application in algorithmic trading highlighting market efficiency resource allocation and trading strategies."
+title: Understanding Competitive Equilibrium in Market Economics
+description: Competitive equilibrium balances supply and demand with stable pricing
+  and market efficiency while revealing practical policy insights Discover more inside
 ---
 
 

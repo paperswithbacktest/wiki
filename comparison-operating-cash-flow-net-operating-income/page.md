@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Operating Cash Flow and Net Operating Income"
-description: "Explore the nuances between Operating Cash Flow and Net Operating Income as key financial metrics, and their integration into powerful algorithmic trading strategies."
+title: Understanding Operating Cash Flow and Net Operating Income
+description: Operating Cash Flow and Net Operating Income reveal cash and profit from
+  business and real estate operations to guide investment decisions. Discover more
 ---
 
 

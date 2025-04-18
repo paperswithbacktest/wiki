@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Weighted Average Shares and Outstanding Shares"
-description: "Discover the difference between outstanding shares and weighted average shares in stock market analysis and their crucial roles in algorithmic trading decisions."
+title: Understanding Weighted Average Shares And Outstanding Shares
+description: Weighted average shares clarify how share count changes impact earnings
+  per share and provide financial insights for investors. Discover more inside.
 ---
 
 

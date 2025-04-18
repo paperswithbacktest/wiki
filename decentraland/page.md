@@ -1,6 +1,7 @@
 ---
-title: "Decentraland"
-description: "Explore Decentraland, a blockchain-powered virtual world where users buy, sell, and trade digital assets securely, plus discover automated trading possibilities."
+title: Exploring Decentraland Virtual Land Assets and Community Control
+description: Decentraland empowers users to own virtual land and assets using MANA
+  cryptocurrency with blockchain security and community governance Discover more inside
 ---
 
 

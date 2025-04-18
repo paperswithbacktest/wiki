@@ -1,6 +1,7 @@
 ---
-title: "Comparison of CBOT and CME"
-description: "Discover the impact of algorithmic trading on the CME and CBOT exchanges exploring pivotal changes since their merger in 2006 and technology-driven strategies."
+title: Comparative Analysis of CBOT and CME Futures and Options Markets
+description: CBOT and CME exchanges provide unique futures and options markets with
+  varied products fee structures and risk tools Discover how they compare inside
 ---
 
 

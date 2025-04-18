@@ -1,6 +1,7 @@
 ---
-title: "Common Size Income Statement"
-description: "Explore the synergy of common-size income statements and algorithmic trading in enhancing financial analysis and decision-making for strategic investments."
+title: Understanding Common Size Income Statements in Financial Analysis
+description: Common Size Income Statement analysis clarifies how each expense and
+  profit margin relates to revenue for better decision making Discover more inside.
 ---
 
 

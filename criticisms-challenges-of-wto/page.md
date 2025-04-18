@@ -1,6 +1,7 @@
 ---
-title: "Criticisms and Challenges of the WTO"
-description: "Explore the criticisms of the World Trade Organization and the impact of algorithmic trading on market fairness and equity in today's globalized economy."
+title: World Trade Organization's Impact On Global Commerce And Growth
+description: World Trade Organization sets fair trade standards and resolves disputes
+  to boost developing economies and drive global growth Discover more inside
 ---
 
 

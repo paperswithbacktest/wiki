@@ -1,6 +1,7 @@
 ---
-title: "Comparison of EPS and Diluted EPS"
-description: "Explore the differences between EPS and Diluted EPS in algorithmic trading Discover how these financial metrics impact investment strategies and company valuation"
+title: Understanding EPS and Diluted EPS for Better Investment Analysis
+description: EPS and Diluted EPS help investors understand how share dilution impacts
+  profitability and drive smarter investment decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Company Earnings and Measurement Examples"
-description: "Explore how algorithmic trading harnesses the power of financial measurements and earnings reports to optimize trading strategies and enhance market predictions."
+title: Understanding Company Earnings and Key Financial Metrics
+description: Company earnings reveal profitability by subtracting expenses from revenue
+  to guide investment decisions with key metrics. Discover more inside.
 ---
 
 

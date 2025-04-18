@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Equity and Mortgage REITs"
-description: "Explore how Equity and Mortgage REITs differ in investment strategy and risk plus how algorithmic trading can enhance real estate investment returns."
+title: Understanding Equity and Mortgage REITs Key Differences
+description: Equity and Mortgage REITs deliver income via rent or loan interest while
+  explaining risks tax implications and portfolio optimization Discover more inside.
 ---
 
 

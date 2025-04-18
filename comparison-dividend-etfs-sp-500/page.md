@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Dividend ETFs and the S&P 500"
-description: "Explore the pros and cons of Dividend ETFs the S&P 500 and algorithmic trading With insights on their characteristics risks and potential returns for investors"
+title: Comparing Dividend ETFs and the S&P 500 for Investors
+description: Dividend ETFs deliver steady income while S&P 500 funds offer growth
+  Compare yields fees and risks to optimize your mix Discover more inside
 ---
 
 

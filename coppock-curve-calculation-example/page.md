@@ -1,6 +1,7 @@
 ---
-title: "Coppock Curve: Definition, Calculation, and Example"
-description: "Explore the Coppock Curve to understand its use in identifying long-term market trends for algorithmic trading. Learn about its calculation and application."
+title: "Understanding the Coppock Curve for Long\u2011Term Market Signals"
+description: Coppock Curve guides long term investors to spot market reversals by
+  smoothing volatility and delivering clear buy signals Discover more inside
 ---
 
 

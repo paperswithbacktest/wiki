@@ -1,6 +1,7 @@
 ---
-title: "Compliance Program Development and Purpose"
-description: "Optimize your algorithmic trading compliance program to meet evolving regulatory standards while minimizing risks and maintaining operational integrity."
+title: Building a Comprehensive Compliance Program for Your Organization
+description: Compliance program guides clear policies training reporting and audits
+  to meet legal standards build trust and reduce risk Discover more inside
 ---
 
 

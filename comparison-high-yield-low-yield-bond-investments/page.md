@@ -1,6 +1,7 @@
 ---
-title: "Comparison of High-Yield and Low-Yield Bond Investments"
-description: "Explore high-yield and low-yield bond investments Plus learn how algorithmic trading optimizes bond portfolios by balancing risk and reward effectively"
+title: Comparing High-Yield and Low-Yield Bonds for Risk and Returns
+description: High-yield bonds offer higher returns for risk-tolerant investors while
+  low-yield bonds ensure stable income and portfolio balance Discover more inside.
 ---
 
 

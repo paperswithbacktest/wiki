@@ -1,6 +1,7 @@
 ---
-title: "Contributed Surplus: History and Overview"
-description: "Explore the integral role of contributed surplus in corporate finance and algorithmic trading Discover how it impacts equity financing boosts investor confidence and aids strategic growth."
+title: Understanding Contributed Surplus in Corporate Shareholder Equity
+description: Contributed surplus shows extra capital shareholders add beyond par value
+  giving clear insight into equity funding and confidence Discover more inside
 ---
 
 

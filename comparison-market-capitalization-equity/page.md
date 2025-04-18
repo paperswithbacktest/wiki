@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Market Capitalization and Equity"
-description: "Explore the critical role of market capitalization, equity, and algorithmic trading in shaping investment strategies for effective market navigation."
+title: Understanding Market Capitalization and Equity for Investors
+description: Market capitalization and equity reveal company size and shareholder
+  worth to inform smarter investment decisions with confidence Discover more inside.
 ---
 
 

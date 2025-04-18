@@ -1,6 +1,7 @@
 ---
-title: "Comparison of REITs and Master Limited Partnerships"
-description: "Discover the key differences between REITs and Master Limited Partnerships in algorithmic trading Learn how each investment vehicle offers unique benefits and strategies"
+title: REITs Vs MLPs Income Tax Comparison Essential Guide For Investors
+description: REITs vs MLPs comparison helps investors assess income sources tax implications
+  liquidity and risk so you choose the right investment Discover more inside
 ---
 
 

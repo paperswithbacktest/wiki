@@ -1,6 +1,7 @@
 ---
-title: "Comparison of IRR and NPV in Capital Budgeting"
-description: "Explore the comparison of Net Present Value and Internal Rate of Return in capital budgeting within algorithmic trading Discover how these tools optimize profitability"
+title: Evaluating Investments With IRR And NPV In Capital Budgeting
+description: IRR and NPV measure investment viability by discounting cash flows and
+  comparing returns for smarter capital budgeting decisions Discover more inside.
 ---
 
 

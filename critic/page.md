@@ -1,6 +1,7 @@
 ---
-title: "Critic (Machine Learning)"
-description: "Explore how critics in machine learning, particularly in reinforcement learning and GANs, evaluate systems to enhance performance and maximize outcomes."
+title: Understanding the Critic Role in Machine Learning Models
+description: Critic in Machine Learning evaluates models in RL and GANs by predicting
+  rewards and providing feedback to improve performance Discover more inside
 ---
 
 ![Image](images/1.png)

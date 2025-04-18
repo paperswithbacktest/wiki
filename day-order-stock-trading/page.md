@@ -1,6 +1,7 @@
 ---
-title: "Day Order in Stock Trading"
-description: "Explore the intricacies of stock trading order types to optimize trading strategies effectively. Gain insights into how different orders like limit and stop orders impact day trading and algorithmic trading. Mastering these concepts is crucial for traders to control costs and manage risks in fast-moving financial markets. Learn how day orders and various order types are utilized for precise execution and the integration of automated trading strategies. Both novice and experienced traders can capitalize on market opportunities by understanding and adapting to evolving trading methodologies."
+title: Understanding Day Orders in Stock Trading for Short-Term Moves
+description: Day order lets you place quick stock trades at desired prices within
+  a single trading day manage risk and avoid overnight surprises Discover more inside.
 ---
 
 

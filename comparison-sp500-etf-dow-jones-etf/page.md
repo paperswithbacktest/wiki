@@ -1,6 +1,7 @@
 ---
-title: "Comparison of S&P 500 ETF and Dow Jones ETF"
-description: "Explore the differences between S&P 500 ETF and Dow Jones ETF to enhance your investment strategy Learn about algorithmic trading and key performance insights"
+title: Comprehensive Comparison of S&P 500 and Dow Jones ETFs
+description: S&P 500 ETFs offer broader diversification and lower fees than Dow Jones
+  ETFs showing contrasts in cost liquidity and performance Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Crypto Asset Management"
-description: "Discover how digital asset management transforms cryptocurrency investment with effective strategies for optimizing portfolios in a rapidly evolving market without the need for financial intermediaries. Learn about the roles of advanced trading platforms and tools that engage with blockchain technologies, enhancing the ability to make informed, secure, and strategic investment decisions."
+title: Comprehensive Guide To Crypto Asset Management Strategies
+description: Crypto asset management helps you secure and grow digital holdings through
+  diversification, risk controls and secure storage Discover more inside
 ---
 
 

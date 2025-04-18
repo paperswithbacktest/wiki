@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Investing and Speculating"
-description: "Discover the differences between investing, speculating, and algorithmic trading to craft a sound financial strategy by understanding their unique goals and risks."
+title: Key Differences Between Investing and Speculating Explained
+description: Investing and speculating differ in risk time horizon. Investors focus
+  on long term growth while speculators chase quick gains Discover more inside
 ---
 
 

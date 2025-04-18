@@ -1,6 +1,7 @@
 ---
-title: "Country Risk Assessment and Evaluation"
-description: "Explore the integration of country risk assessment and algorithmic trading in international investments optimizing portfolios and mitigating potential financial losses."
+title: Complete Country Risk Assessment Guide for Global Businesses
+description: Country Risk Assessment helps businesses evaluate political social and
+  environmental factors to make informed investment decisions. Discover more inside.
 ---
 
 

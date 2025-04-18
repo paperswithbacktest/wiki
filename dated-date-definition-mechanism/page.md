@@ -1,6 +1,7 @@
 ---
-title: "Dated Date: Definition and Mechanism"
-description: "Explore the intricacies of dated dates in bond finance and the impact of algorithmic trading in modern markets to enhance investment strategies."
+title: Understanding the Dated Date in Bonds and Financial Transactions
+description: Dated Date marks when transactions occur and bonds begin accruing interest
+  to ensure accurate records and regulatory compliance. Discover more inside.
 ---
 
 

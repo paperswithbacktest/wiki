@@ -1,6 +1,8 @@
 ---
-title: "Core Bond Funds: Top Options for Long-Term Investors"
-description: "Discover top core bond funds for long-term growth and stability Learn how algorithmic trading enhances returns and mitigates risk Explore diverse bond strategies"
+title: Core Bond Funds Explained For Long-Term Portfolio Stability
+description: Core bond funds provide steady income and risk balancing for long-term
+  investors by focusing on high-quality bonds and moderate durations Discover more
+  inside.
 ---
 
 

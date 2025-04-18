@@ -1,6 +1,7 @@
 ---
-title: "Condition (Machine Learning)"
-description: "Explore how conditions shape machine learning models improving decision processes. Learn about applications in spam filters and recommendation systems."
+title: Understanding Conditional Models in Machine Learning
+description: Conditional models elevate predictions by applying data criteria in decision
+  trees spam filters and generative systems Discover more inside
 ---
 
 ![Image](images/1.png)

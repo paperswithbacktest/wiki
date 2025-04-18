@@ -1,6 +1,7 @@
 ---
-title: "Cross-Entropy (Machine Learning)"
-description: "Cross-Entropy in machine learning measures the difference between predicted and true probability distributions. It is vital for assessing model performance."
+title: Cross-Entropy Loss in Machine Learning Classification
+description: Cross Entropy Loss measures how model predictions differ from actual
+  outcomes and guides optimization to improve accuracy. Discover more inside.
 ---
 
 ![Image](images/1.png)

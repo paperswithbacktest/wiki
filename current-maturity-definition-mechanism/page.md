@@ -1,6 +1,7 @@
 ---
-title: "Current Maturity: Definition and Mechanism"
-description: "Explore the significance of financial maturity in algorithmic trading and fixed-income investments Learn how managing maturity dates can optimize investment strategies and returns"
+title: Understanding Current Maturity in Financial Management
+description: Current maturity shows the portion of long-term debt due within one year
+  and helps companies plan cash flows to protect liquidity Discover more inside
 ---
 
 

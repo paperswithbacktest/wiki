@@ -1,6 +1,7 @@
 ---
-title: "Cryptocurrencies: Overview and Analysis"
-description: "Discover the impact of cryptocurrencies and blockchain technology on financial markets Explore algorithmic trading and digital investments opportunities"
+title: Cryptocurrency And Blockchain Technology A Comprehensive Overview
+description: Cryptocurrency uses blockchain to secure transactions without central
+  control and provides insights for informed decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Contributed Capital: Calculation and Examples"
-description: "Explore contributed capital's pivotal role in algo trading as it influences financial strategies and decisions insightful for traders navigating complex markets."
+title: Understanding Contributed Capital In Corporate Finance
+description: Contributed capital tracks the funds investors pay for stock and how
+  it bolsters shareholder equity and company growth Discover more inside.
 ---
 
 

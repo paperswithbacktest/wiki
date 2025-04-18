@@ -1,6 +1,7 @@
 ---
-title: "Contingent Order: Overview and Applications"
-description: "Explore the benefits and applications of contingent orders in algorithmic trading to automate strategies manage risk and enhance trading performance efficiently."
+title: Understanding Contingent Orders for Smarter Trade Execution
+description: Contingent orders automate trades based on price triggers and protect
+  investments from market swings while you focus on strategy Discover more inside
 ---
 
 

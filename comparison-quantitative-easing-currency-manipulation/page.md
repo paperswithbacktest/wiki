@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Quantitative Easing and Currency Manipulation"
-description: "Explore the dynamics of economic policies, quantitative easing, and currency manipulation in modern finance and understand their impact on global markets and trade."
+title: Comparing Quantitative Easing and Currency Manipulation Effects
+description: Quantitative Easing and currency manipulation influence lending and inflation
+  through bond purchases and exchange rate policies. Discover more inside.
 ---
 
 

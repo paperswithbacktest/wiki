@@ -1,6 +1,7 @@
 ---
-title: "Convertible Virtual Currency"
-description: "Explore the intricacies of cryptocurrencies and algorithmic trading Discover insights into digital asset investment strategies and the evolving financial landscape."
+title: Understanding Convertible Virtual Currency and Its Uses
+description: Convertible virtual currency lets you exchange digital money for real
+  funds with insights on uses risks regulations and future trends Discover more inside
 ---
 
 

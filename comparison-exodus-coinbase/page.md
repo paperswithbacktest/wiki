@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Exodus and Coinbase"
-description: "Compare Exodus and Coinbase to find the best crypto exchange for your needs. Discover differences in security user control and algo trading opportunities."
+title: Comprehensive Comparison Of Exodus And Coinbase Crypto Wallets
+description: Exodus vs Coinbase comparison breaks down fees security and staking so
+  you can choose the right crypto wallet for your needs Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Contingent Convertibles in European Finance"
-description: "Explore the significance of Contingent Convertibles in European finance and the role of algorithmic trading in enhancing market dynamics for banks and investors."
+title: Understanding Contingent Convertibles CoCos in European Finance
+description: Contingent Convertibles give banks a capital safety net by converting
+  to shares when needed in Europe while carrying investor risk Discover more inside.
 ---
 
 

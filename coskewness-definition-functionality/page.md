@@ -1,6 +1,7 @@
 ---
-title: "Coskewness: Definition and Functionality"
-description: "Discover the role of coskewness in finance and algorithmic trading Learn how this advanced statistical measure enhances risk analysis and portfolio optimization"
+title: Understanding Coskewness in Finance for Better Risk Management
+description: Coskewness helps investors assess asset behavior during extreme market
+  swings to optimize portfolio risk and build resilience Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Economic and Accounting Profits"
-description: "Understand economic vs accounting profits in algo trading Discover differences in profit measurement calculation and impact on business strategy and decisions"
+title: Economic Profit Vs Accounting Profit Comparison And Importance
+description: Economic profit versus accounting profit analysis clarifies true business
+  gains by including both explicit and opportunity costs Discover more inside.
 ---
 
 

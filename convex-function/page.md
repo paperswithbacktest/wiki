@@ -1,6 +1,7 @@
 ---
-title: "Convex Function (Machine Learning)"
-description: "Convex functions simplify machine learning optimization ensuring that any local minimum found in loss minimization is also the global minimum enhancing efficiency."
+title: Understanding Convex Functions in Machine Learning Optimization
+description: Convex functions in machine learning enable reliable optimization by
+  guiding gradient descent to the global minimum without trapping Discover more inside
 ---
 
 ![Image](images/1.png)

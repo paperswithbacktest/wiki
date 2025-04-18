@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Capital Adequacy and Solvency Ratios"
-description: "Explore how capital adequacy and solvency ratios are essential for financial stability and algorithmic trading by assessing risk and informing strategies."
+title: Capital Adequacy and Solvency Ratios for Financial Institutions
+description: Capital adequacy and solvency ratios guide institutions to assess financial
+  risks maintain capital buffers ensure stability Discover more inside.
 ---
 
 

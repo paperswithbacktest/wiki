@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Companies Using Enterprise Value"
-description: "Discover how enterprise value and algorithmic trading enhance investment strategies. Learn to assess company valuation with precision through comprehensive financial insights."
+title: Understanding Enterprise Value and Its Role in Company Valuation
+description: Enterprise Value provides a comprehensive view of a companys worth by
+  adding debt and subtracting cash to show acquisition cost Discover more inside.
 ---
 
 

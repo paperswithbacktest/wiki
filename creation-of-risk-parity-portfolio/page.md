@@ -1,6 +1,7 @@
 ---
-title: "Creation of a Risk Parity Portfolio"
-description: "Discover how risk parity and algorithmic trading can optimize portfolio diversification by balancing risk across asset classes and automating trading strategies."
+title: Balancing Investments With a Risk Parity Portfolio Strategy
+description: Risk parity portfolio strategies balance risk across asset classes to
+  deliver steady returns while managing volatility effectively Discover more inside.
 ---
 
 

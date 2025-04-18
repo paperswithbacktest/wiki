@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Keynesian Economics and Monetarism"
-description: "Explore the contrasts between Keynesian Economics and Monetarism and their impact on modern economic policies and algo trading's role in financial markets."
+title: Keynesian Economics Versus Monetarism Insights for Policymakers
+description: Keynesian Economics and Monetarism offer a comparative analysis of fiscal
+  and monetary policy to guide economic stability Discover more inside.
 ---
 
 

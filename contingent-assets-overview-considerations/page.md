@@ -1,6 +1,7 @@
 ---
-title: "Contingent Assets: Overview and Considerations"
-description: "Explore the transformative role of algorithmic trading and contingent assets in asset management. Discover strategies to optimize financial returns and manage risks effectively."
+title: Contingent Assets Recognition Disclosure And Impact Explained
+description: Contingent assets represent potential future gains that companies detail
+  in financial report notes when realization is probable. Discover more inside.
 ---
 
 

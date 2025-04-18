@@ -1,6 +1,7 @@
 ---
-title: "Dark Pools Trading Explained"
-description: Explore the dynamics of dark pools and their role in algorithmic trading as these private exchanges enable large trades with minimal market impact attracting institutional investors while raising transparency concerns. Understand the balance between advantages like improved price execution and challenges such as data opacity in the evolving landscape of financial markets.
+title: Understanding Dark Pool Trading Structure and Risks
+description: Dark pool trading lets large investors execute orders discreetly to reduce
+  market impact and manage transparency and regulatory risks Discover more inside
 ---
 
 

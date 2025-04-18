@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Mortgage and Paying Cash for Real Estate"
-description: "Explore the benefits and drawbacks of mortgages and cash in real estate, with insights into leveraging algorithmic trading to optimize property investment strategies."
+title: Mortgage Versus Cash Purchase for Home Buying Decisions
+description: Mortgage versus cash purchase empowers you with actionable insights on
+  costs risks and liquidity for smart home buying choices Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Decentralized Applications"
-description: "Explore how decentralized applications and blockchain revolutionize algorithmic trading enhancing transparency, security, and efficiency in financial markets."
+title: Understanding Decentralized Applications And Blockchain Platforms
+description: Decentralized applications provide secure transparent solutions on blockchain
+  networks for finance gaming and social media Discover more inside
 ---
 
 

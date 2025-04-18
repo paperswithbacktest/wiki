@@ -1,6 +1,7 @@
 ---
-title: "Consumer Surplus and Its Measurement"
-description: "Explore consumer surplus in the context of algorithmic trading and its impact on market dynamics and consumer welfare. Understand its measurement and implications."
+title: Understanding Consumer Surplus and Its Impact on Economic Welfare
+description: Consumer surplus measures extra value buyers get when they pay less than
+  expected while showing how price changes influence welfare Discover more inside.
 ---
 
 

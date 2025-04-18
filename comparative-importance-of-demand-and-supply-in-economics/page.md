@@ -1,6 +1,7 @@
 ---
-title: "Comparative Importance of Demand and Supply in Economics"
-description: "Explore how supply and demand economics shape algorithmic trading strategies by impacting asset prices and trader decisions in a competitive market landscape."
+title: Supply and Demand Dynamics Explained for Market Pricing
+description: Supply and demand explained from fundamentals to advanced algorithmic
+  trading strategies so you can master market pricing Discover more inside
 ---
 
 

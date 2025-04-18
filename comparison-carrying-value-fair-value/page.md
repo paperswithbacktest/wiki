@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Carrying Value and Fair Value"
-description: "Explore the differences between carrying value and fair value in asset valuation plus the role of algorithmic trading in influencing these valuations."
+title: Carrying Value Versus Fair Value in Financial Reporting
+description: Carrying value versus fair value guides firms in assessing assets from
+  book value to market price for smarter financial decisions Discover more inside.
 ---
 
 

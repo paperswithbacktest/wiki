@@ -1,6 +1,7 @@
 ---
-title: "Customer Type Indicator Codes"
-description: "Explore the significance of Customer Type Indicator codes in algorithmic trading and their impact on market transparency efficiency and trading strategy optimization in futures exchanges."
+title: Customer Type Indicator Codes For Enhanced Segmentation
+description: Customer Type Indicator Codes let businesses segment customers by purchase
+  behavior and value for targeted marketing to boost loyalty Discover more inside
 ---
 
 

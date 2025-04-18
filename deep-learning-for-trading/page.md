@@ -1,6 +1,7 @@
 ---
-title: "Deep Learning for Trading"
-description: "Deep learning revolutionizes algorithmic trading by modeling complex patterns and enhancing predictive accuracy, enabling precise, data-driven decisions in financial markets."
+title: Deep Learning Strategies for Trading and Market Prediction
+description: Deep Learning in Trading helps you analyze complex market data to spot
+  hidden trends and improve your trading decisions Discover more inside.
 ---
 
 

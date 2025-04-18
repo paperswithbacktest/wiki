@@ -1,6 +1,7 @@
 ---
-title: "Decimalization of stock prices"
-description: Decimalization marks the transition from fractional to decimal stock pricing, enhancing market precision and efficiency. Implemented in the U.S. in 2001, it led to narrower bid-ask spreads, lower transaction costs, and increased liquidity. This shift empowered algorithmic trading, allowing for the exploitation of smaller price changes and fostering high-frequency trading's growth. As markets modernized, the impact on trading strategies and investor accessibility has been profound, aligning U.S. financial practices with global standards and setting the stage for advanced algorithms to thrive.
+title: Decimal Pricing Transformed Stock Market Efficiency And Liquidity
+description: Decimalization of stock prices increased market precision, reduced trading
+  costs, narrowed bid ask spreads and boosted liquidity. Discover more inside
 ---
 
 

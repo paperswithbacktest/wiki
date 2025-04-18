@@ -1,6 +1,7 @@
 ---
-title: "Credit Crunch: Causes, Examples, and Effects"
-description: "Explore the causes and effects of credit crunches in the global economy and their connection with algorithmic trading Discover how these phenomena impact market stability"
+title: Credit Crunch Explained Causes Effects And Economic Recovery
+description: Credit Crunch insights help you understand causes effects and mitigation
+  strategies to protect your finances and business stability. Discover more inside.
 ---
 
 

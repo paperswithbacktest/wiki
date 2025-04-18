@@ -1,6 +1,7 @@
 ---
-title: "Comparison of MLP ETFs and MLP ETNs"
-description: "Explore the distinctions between MLP ETFs and ETNs in terms of tax implications and performance to optimize your algo trading strategies and investment portfolio."
+title: Key Differences Between MLP ETFs And ETNs For Energy Investors
+description: MLP ETFs and ETNs differ in tax treatment liquidity and risk this guide
+  outlines their structures and benefits to help you choose Discover more inside
 ---
 
 

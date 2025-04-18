@@ -1,6 +1,7 @@
 ---
-title: "Common Stock Indicators for Trend Trading"
-description: "Explore how stock indicators, trend trading, and technical analysis empower traders in algorithmic trading. Learn key tools like RSI, MACD, and ADX."
+title: Essential Stock Market Indicators for Effective Trend Trading
+description: Trend Trading strategies leverage moving averages RSI MACD and more to
+  help you identify strong market trends and avoid false signals. Discover more inside
 ---
 
 

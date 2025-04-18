@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Tradestation and Interactive Brokers"
-description: "Explore the strengths of TradeStation and Interactive Brokers in algorithmic trading through a detailed comparison, focusing on features, pricing, user experience, and security. Understand how each platform caters to different trading styles and find the right fit for your trading needs and objectives."
+title: Comprehensive Comparison Of TradeStation And Interactive Brokers
+description: TradeStation and Interactive Brokers comparison breaks down fees, account
+  minimums and trading tools so you can choose confidently Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Annual Report and Form 10-K"
-description: "Explore how Form 10-K disclosures benefit algorithmic trading by analyzing financial metrics and integrating strategic insights for informed trading decisions."
+title: "Understanding Annual Reports and Form 10\u2011K Filings for Investors"
+description: Annual report and Form 10-K filings deliver clear insights on their key
+  differences and uses for investors and traders. Discover more inside.
 ---
 
 

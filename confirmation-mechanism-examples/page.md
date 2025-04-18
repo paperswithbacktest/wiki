@@ -1,6 +1,7 @@
 ---
-title: "Confirmation: Mechanism and Examples"
-description: "Explore confirmation mechanisms in algorithmic trading that verify trade accuracy to ensure precise and efficient execution while mitigating potential risks and errors."
+title: Combating Confirmation Bias in Psychology and Decision Making
+description: Confirmation bias skews how you gather and assess information in everyday
+  and professional decisions. Discover key strategies to minimize bias inside
 ---
 
 

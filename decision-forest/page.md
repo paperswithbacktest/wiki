@@ -1,6 +1,8 @@
 ---
-title: "Decision Forest (Machine Learning)"
-description: "Discover how Decision Forests enhance machine learning with multiple decision trees for accurate predictions and robust performance against overfitting."
+title: Understanding Decision Forests in Machine Learning Models
+description: Decision Forests combine multiple decision trees using random sampling
+  and feature selection to improve accuracy and prevent overfitting Discover more
+  inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Crossover Refunding: Definition and Mechanisms"
-description: "Explore the innovative approach of crossover refunding in municipal bonds to manage debt efficiently by leveraging algorithmic trading for optimized financial outcomes."
+title: Crossover Refunding Strategies to Lower Corporate Debt Costs
+description: Crossover refunding helps companies cut debt costs by using new lower
+  rate loans to unlock savings once the crossover point is reached Discover more inside
 ---
 
 

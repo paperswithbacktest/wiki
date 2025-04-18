@@ -1,6 +1,7 @@
 ---
-title: "Convenience Goods: Psychological Aspects and Examples"
-description: "Explore how consumer psychology and algorithmic trading intersect with convenience goods, revealing insights into shopping behaviors and technological influences on purchases."
+title: Consumer Psychology and Marketing of Convenience Goods
+description: Convenience goods rely on impulse buying with bright branding placement
+  and low prices to boost frequent purchases and repeat sales Discover more inside
 ---
 
 
